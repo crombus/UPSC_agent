@@ -1,1243 +1,188 @@
-# Polity 14 - Emergency Provisions
-
-## Quick-Glance Tree Chart
+# Polity 14 - Emergency Provisions - Quick-Glance Tree
 
 ```text
-EMERGENCY PROVISIONS
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Part XVIII equips the Constitution to protect sovereignty, constitutional
-government and financial stability by temporarily expanding Union power without
-formally abolishing the federal structure. Because the same powers can preserve
-or subvert democracy, emergency legality depends on precise triggers,
-parliamentary approval, time controls, protected rights and judicial review.
-The 1975 experience, 44th Amendment and S.R. Bommai transformed emergency law:
-necessity does not eliminate constitutionalism, and exceptional power cannot
-become an ordinary partisan instrument.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-TOPIC 14 OWNS:
-Articles 352-360;
-National Emergency;
-Articles 358 / 359;
-President's Rule;
-Articles 355 / 365 links;
-Financial Emergency;
-44th safeguards;
-ADM Jabalpur / Bommai;
-historical proclamations;
-current proclamation status.
-                              |
-                              v
-FUNDAMENTAL RIGHTS:
-ordinary Articles 20-22 doctrine.
-FEDERAL SYSTEM:
-normal Centre-state design.
-PRESIDENT:
-general executive office.
-PARLIAMENT:
-approval procedure detail.
-INTERNAL SECURITY:
-operational crisis response.
-                              |
-                              v
-                  BRANCH I: THREE TYPES
-NATIONAL EMERGENCY
-Article 352:
-war,
-external aggression,
-armed rebellion.
-                              |
-                              v
-PRESIDENT'S RULE
-Article 356:
-state government cannot operate
-according to Constitution.
-                              |
-                              v
-FINANCIAL EMERGENCY
-Article 360:
-financial stability / credit
-of India or part threatened.
-                              |
-                              v
-PART
-XVIII,
-Articles 352-360.
-                              |
-                              v
-COMMON
-exceptional Union power.
-                              |
-                              v
-DIFFER
-trigger,
-approval,
-duration,
-institutions affected,
-rights effect.
-                              |
-                              v
-                  BRANCH II: PURPOSE
-SOVEREIGNTY.
-                              |
-                              v
-UNITY / INTEGRITY.
-                              |
-                              v
-SECURITY.
-                              |
-                              v
-CONSTITUTIONAL GOVERNMENT.
-                              |
-                              v
-FINANCIAL STABILITY.
-                              |
-                              v
-AMBEDKAR
-Constitution may operate
-federally or unitally
-according to circumstances.
-                              |
-                              v
-CAUTION
-state identity /
-Constitution not abolished.
-                              |
-                              v
-                  BRANCH III: ARTICLE 352 TRIGGERS
-WAR.
-                              |
-                              v
-EXTERNAL AGGRESSION.
-                              |
-                              v
-ARMED REBELLION.
-                              |
-                              v
-IMMINENT DANGER
-proclamation may precede
-actual occurrence.
-                              |
-                              v
-EXTERNAL EMERGENCY
-war / external aggression.
-                              |
-                              v
-INTERNAL EMERGENCY
-armed rebellion.
-                              |
-                              v
-44TH AMENDMENT 1978
-replaced internal disturbance
-with armed rebellion.
-                              |
-                              v
-WHY
-internal disturbance
-was vague
-and used in 1975.
-                              |
-                              v
-42ND AMENDMENT 1976
-allowed proclamation
-for only part of India.
-                              |
-                              v
-                  BRANCH IV: ARTICLE 352 RECOMMENDATION
-PRESIDENT
-issues proclamation.
-                              |
-                              v
-PRECONDITION
-written recommendation
-of Union Cabinet.
-                              |
-                              v
-NOT
-Prime Minister alone.
-                              |
-                              v
-CABINET
-Article 352 meaning:
-PM and Cabinet-rank ministers.
-                              |
-                              v
-SAFEGUARD
-collective written responsibility.
-                              |
-                              v
-ORIGIN
-44th Amendment response
-to 1975 process.
-                              |
-                              v
-                  BRANCH V: ARTICLE 352 APPROVAL
-LAY BEFORE
-both Houses.
-                              |
-                              v
-APPROVAL DEADLINE
-one month.
-                              |
-                              v
-MAJORITY
-special majority:
-majority of total membership
-+ two-thirds present / voting.
-                              |
-                              v
-DURATION
-six months per approval.
-                              |
-                              v
-RENEWAL
-every six months.
-                              |
-                              v
-MAXIMUM
-no fixed maximum;
-may continue indefinitely
-with renewals.
-                              |
-                              v
-LOK SABHA DISSOLVED
-special timing rules
-protect approval opportunity
-for new House.
-                              |
-                              v
-                  BRANCH VI: REVOCATION
-PRESIDENT
-may revoke anytime
-by later proclamation.
-                              |
-                              v
-LOK SABHA
-may disapprove
-by simple majority.
-                              |
-                              v
-PRESIDENT
-must revoke
-after Lok Sabha disapproval.
-                              |
-                              v
-ONE-TENTH MEMBERS
-may requisition special sitting.
-                              |
-                              v
-TIME
-within fourteen days
-under safeguard.
-                              |
-                              v
-RAJYA SABHA
-does not possess
-equivalent forced-revocation route.
-                              |
-                              v
-                  BRANCH VII: JUDICIAL REVIEW
-38TH AMENDMENT 1975
-made Presidential satisfaction
-final / conclusive,
-immune from review.
-                              |
-                              v
-44TH AMENDMENT 1978
-removed immunity.
-                              |
-                              v
-MINERVA MILLS 1980
-proclamation reviewable
-for mala fides /
-irrelevant or perverse basis.
-                              |
-                              v
-STANDARD
-court does not replace
-security assessment,
-but tests constitutional legality.
-                              |
-                              v
-                  BRANCH VIII: CENTRE-STATE EFFECT
-UNION EXECUTIVE
-may direct a state
-on any matter.
-                              |
-                              v
-PARLIAMENT
-may legislate
-on State List.
-                              |
-                              v
-STATE GOVERNMENT /
-LEGISLATURE
-continue to exist.
-                              |
-                              v
-STATE-LIST LAW
-ceases six months
-after Emergency ends
-to extent of competence issue.
-                              |
-                              v
-PRESIDENT
-may issue ordinance
-on State subjects
-when conditions apply.
-                              |
-                              v
-REVENUE DISTRIBUTION
-President may modify
-constitutional provisions
-for specified period.
-                              |
-                              v
-42ND AMENDMENT
-extended Union effects
-to states beyond
-territorial emergency area
-where necessary.
-                              |
-                              v
-                  BRANCH IX: LEGISLATURE TERMS
-LOK SABHA TERM
-Parliament may extend
-one year at a time.
-                              |
-                              v
-STATE ASSEMBLY TERM
-same extension possibility.
-                              |
-                              v
-OUTER LIMIT
-not beyond six months
-after Emergency ceases.
-                              |
-                              v
-EXAMPLE
-Fifth Lok Sabha,
-1971-77.
-                              |
-                              v
-CAUTION
-term extension
-not permanent cancellation
-of election.
-                              |
-                              v
-                  BRANCH X: ARTICLE 358
-SUBJECT
-Article 19 only.
-                              |
-                              v
-OPERATION
-automatic.
-                              |
-                              v
-TRIGGER
-Emergency on war
-or external aggression only.
-                              |
-                              v
-NOT
-armed-rebellion Emergency.
-                              |
-                              v
-POST-44TH
-protection limited
-to Emergency-related laws
-carrying required recital
-and executive action under them.
-                              |
-                              v
-UNRELATED LAW / ACTION
-not shielded.
-                              |
-                              v
-AFTER EMERGENCY
-law ceases prospective effect
-to inconsistency,
-but past action may remain protected
-within clause.
-                              |
-                              v
-                  BRANCH XI: ARTICLE 359
-PRESIDENTIAL ORDER
-required.
-                              |
-                              v
-EFFECT
-suspends right
-to move specified courts
-for enforcement
-of named Fundamental Rights.
-                              |
-                              v
-NOT AUTOMATIC
-and not Article 19-only.
-                              |
-                              v
-TRIGGER
-external
-or armed-rebellion Emergency.
-                              |
-                              v
-AREA / PERIOD
-as order specifies.
-                              |
-                              v
-PENDING PROCEEDINGS
-may be suspended
-within order.
-                              |
-                              v
-ARTICLES 20 / 21
-cannot ever be included
-after 44th Amendment.
-                              |
-                              v
-DISTINCTION
-enforcement suspended,
-not textual right erased.
-                              |
-                              v
-                  BRANCH XII: 358 VERSUS 359
-358
-automatic.
-359
-Presidential Order.
-                              |
-                              v
-358
-Article 19.
-359
-specified rights except 20 / 21.
-                              |
-                              v
-358
-external Emergency only.
-359
-external or internal.
-                              |
-                              v
-358
-whole Emergency.
-359
-specified period.
-                              |
-                              v
-358
-whole India operation
-under constitutional scope.
-359
-whole or part.
-                              |
-                              v
-TRAP
-do not say
-all Fundamental Rights
-automatically suspend.
-                              |
-                              v
-                  BRANCH XIII: NATIONAL-EMERGENCY HISTORY
-1962
-China / NEFA;
-continued until 1968.
-                              |
-                              v
-1971
-Pakistan war.
-                              |
-                              v
-1975
-internal disturbance;
-most controversial.
-                              |
-                              v
-TOTAL
-three declarations.
-                              |
-                              v
-1975-77
-civil-liberty suppression /
-executive concentration.
-                              |
-                              v
-SHAH COMMISSION
-found proclamation /
-conduct unjustified.
-                              |
-                              v
-CONSTITUTIONAL RESPONSE
-44th Amendment safeguards.
-                              |
-                              v
-                  BRANCH XIV: 44TH AMENDMENT SAFEGUARDS
-INTERNAL DISTURBANCE
--> armed rebellion.
-                              |
-                              v
-WRITTEN CABINET
-not PM alone.
-                              |
-                              v
-APPROVAL
-one month,
-special majority.
-                              |
-                              v
-LOK SABHA REVOCATION
-+ one-tenth special sitting.
-                              |
-                              v
-JUDICIAL REVIEW
-restored.
-                              |
-                              v
-ARTICLES 20 / 21
-non-suspendable.
-                              |
-                              v
-ARTICLE 358
-external Emergency
-+ emergency-related law.
-                              |
-                              v
-ARTICLE 356
-beyond-one-year conditions.
-                              |
-                              v
-                  BRANCH XV: ADM JABALPUR 1976
-CONTEXT
-1975 Emergency /
-detention.
-                              |
-                              v
-MAJORITY
-detainee had no locus
-to enforce Article 21
-during suspension.
-                              |
-                              v
-JUSTICE H.R. KHANNA
-dissent:
-life / liberty
-not dependent solely
-on executive grace.
-                              |
-                              v
-LEGACY
-constitutional low point.
-                              |
-                              v
-PUTTASWAMY 2017
-nine judges:
-ADM Jabalpur wrongly decided
-and overruled.
-                              |
-                              v
-CURRENT
-Articles 20 / 21
-constitutionally protected
-from Article 359 suspension.
-                              |
-                              v
-                  BRANCH XVI: ARTICLE 355
-UNION DUTY
-protect every state
-against external aggression
-and internal disturbance.
-                              |
-                              v
-ENSURE
-state government carried on
-according to Constitution.
-                              |
-                              v
-FUNCTION
-protective /
-federal duty.
-                              |
-                              v
-NOT
-automatic power
-to dismiss government.
-                              |
-                              v
-LINK
-Article 356
-requires its own threshold /
-procedure.
-                              |
-                              v
-                  BRANCH XVII: ARTICLE 356 TRIGGER
-PRESIDENT SATISFIED
-state government
-cannot be carried on
-in accordance with Constitution.
-                              |
-                              v
-SOURCE
-Governor's report
-or otherwise.
-                              |
-                              v
-ARTICLE 365
-failure to comply
-with Union directions
-may support conclusion.
-                              |
-                              v
-NOT AUTOMATIC
-direction breach
-does not itself conclusively
-establish breakdown.
-                              |
-                              v
-NATURE
-State /
-constitutional Emergency.
-                              |
-                              v
-LAST RESORT
-after feasible alternatives.
-                              |
-                              v
-                  BRANCH XVIII: ARTICLE 356 APPROVAL / DURATION
-PARLIAMENTARY APPROVAL
-within two months.
-                              |
-                              v
-MAJORITY
-simple.
-                              |
-                              v
-PERIOD
-six months at a time.
-                              |
-                              v
-MAXIMUM
-three years.
-                              |
-                              v
-BEYOND ONE YEAR
-BOTH:
-National Emergency in operation
-in whole / relevant part;
-Election Commission certifies
-difficulty holding election.
-                              |
-                              v
-REVOCATION
-President.
-                              |
-                              v
-NO LOK SABHA
-special-disapproval mechanism
-like Article 352.
-                              |
-                              v
-                  BRANCH XIX: ARTICLE 356 CONSEQUENCES
-PRESIDENT
-assumes State executive functions /
-Governor powers.
-                              |
-                              v
-CHIEF MINISTER /
-COUNCIL
-dismissed.
-                              |
-                              v
-STATE LEGISLATIVE POWER
-exercisable by /
-under authority of Parliament.
-                              |
-                              v
-ASSEMBLY
-suspended
-or dissolved.
-                              |
-                              v
-DISSOLUTION
-should await
-parliamentary approval
-under Bommai.
-                              |
-                              v
-PRESIDENT'S ACTS
-Parliamentary delegation route.
-                              |
-                              v
-HIGH COURT
-cannot be assumed /
-suspended by President.
-                              |
-                              v
-FUNDAMENTAL RIGHTS
-no direct automatic effect.
-                              |
-                              v
-                  BRANCH XX: S.R. BOMMAI 1994
-JUDICIAL REVIEW
-proclamation reviewable.
-                              |
-                              v
-MATERIAL
-satisfaction must rest
-on relevant material;
-Centre bears burden
-once challenged appropriately.
-                              |
-                              v
-MAJORITY
-tested on House floor,
-not Governor's private assessment.
-                              |
-                              v
-ASSEMBLY
-no dissolution
-before parliamentary approval;
-may remain suspended.
-                              |
-                              v
-REMEDY
-court may restore
-dismissed government /
-Assembly.
-                              |
-                              v
-SECULARISM
-basic feature;
-anti-secular governance
-may attract Article 356.
-                              |
-                              v
-PARTISAN CHANGE
-new Union government
-cannot dismiss State governments
-merely for opposition control.
-                              |
-                              v
-STATUS
-exceptional,
-last resort.
-                              |
-                              v
-                  BRANCH XXI: ARTICLE 356 DECLINE
-LEGAL
-Bommai review /
-floor test /
-restoration risk.
-                              |
-                              v
-RAMESHWAR PRASAD 2006
-Bihar dissolution
-held unconstitutional /
-mala fide.
-                              |
-                              v
-POLITICAL
-coalition era
-+ regional parties.
-                              |
-                              v
-ELECTORAL
-reputational cost
-of dismissal.
-                              |
-                              v
-INSTITUTIONAL
-Sarkaria /
-Punchhi last-resort norms.
-                              |
-                              v
-MEDIA / CIVIL SOCIETY
-greater scrutiny.
-                              |
-                              v
-RESULT
-frequency reduced
-after mid-1990s,
-though disputes shifted
-to Governors,
-assent,
-floor tests,
-agencies.
-                              |
-                              v
-                  BRANCH XXII: SARKARIA / PUNCHHI
-ARTICLE 356
-last resort.
-                              |
-                              v
-PRIOR WARNING
-where feasible.
-                              |
-                              v
-FLOOR TEST
-for majority.
-                              |
-                              v
-GOVERNOR REPORT
-speaking,
-objective,
-relevant.
-                              |
-                              v
-ALTERNATIVES
-explored before proclamation.
-                              |
-                              v
-PUNCHHI
-examined localised emergency /
-Governor reforms.
-                              |
-                              v
-STATUS
-recommendations,
-not binding law,
-but constitutional conventions.
-                              |
-                              v
-                  BRANCH XXIII: FINANCIAL EMERGENCY
-ARTICLE
-360.
-                              |
-                              v
-TRIGGER
-financial stability
-or credit
-of India or any part
-threatened.
-                              |
-                              v
-APPROVAL
-both Houses
-within two months.
-                              |
-                              v
-MAJORITY
-simple.
-                              |
-                              v
-DURATION
-indefinite after approval;
-no six-month renewal.
-                              |
-                              v
-REVOCATION
-President.
-                              |
-                              v
-STATUS
-never proclaimed.
-                              |
-                              v
-NEAREST HISTORICAL CONTEXT
-1991 crisis,
-but no Article 360 declaration.
-                              |
-                              v
-MODEL
-US National Recovery /
-Industrial Recovery Act 1933
-as textbook Ambedkar reference.
-                              |
-                              v
-                  BRANCH XXIV: ARTICLE 360 CONSEQUENCES
-UNION DIRECTIONS
-states follow canons
-of financial propriety.
-                              |
-                              v
-STATE SALARIES
-reduction directions.
-                              |
-                              v
-STATE MONEY /
-FINANCIAL BILLS
-may be reserved
-for President.
-                              |
-                              v
-UNION SALARIES
-President may direct reduction.
-                              |
-                              v
-JUDGES
-Supreme Court /
-High Court salaries
-may be reduced.
-                              |
-                              v
-FEDERAL EFFECT
-financial order
-becomes strongly unitary.
-                              |
-                              v
-NO DIRECT RIGHTS SUSPENSION.
-                              |
-                              v
-                  BRANCH XXV: THREE-EMERGENCY MATRIX
-TRIGGER
-352:
-security.
-356:
-state constitutional machinery.
-360:
-financial stability / credit.
-                              |
-                              v
-APPROVAL
-352:
-one month / special.
-356:
-two months / simple.
-360:
-two months / simple.
-                              |
-                              v
-DURATION
-352:
-six-month renewals /
-no maximum.
-356:
-six-month renewals /
-three-year maximum.
-360:
-indefinite /
-no renewal.
-                              |
-                              v
-STATE ORGANS
-352:
-continue.
-356:
-executive displaced /
-legislature suspended-dissolved.
-360:
-continue.
-                              |
-                              v
-FUNDAMENTAL RIGHTS
-352:
-358 / 359 may operate.
-356 / 360:
-no direct effect.
-                              |
-                              v
-                  BRANCH XXVI: CONSTITUENT ASSEMBLY DEBATE
-H.V. KAMATH
-foundation of
-totalitarian /
-police state.
-                              |
-                              v
-K.T. SHAH
-reaction /
-retrogression.
-                              |
-                              v
-T.T. KRISHNAMACHARI
-constitutional dictatorship.
-                              |
-                              v
-H.N. KUNZRU
-financial-autonomy threat.
-                              |
-                              v
-ALLADI KRISHNASWAMI AYYAR
-very life-breath
-of Constitution.
-                              |
-                              v
-MAHABIR TYAGI
-safety-valve.
-                              |
-                              v
-AMBEDKAR ON ARTICLE 356
-hoped it would remain
-dead letter /
-last resort.
-                              |
-                              v
-H.V. KAMATH RETORT
-Ambedkar dead,
-Articles alive.
-                              |
-                              v
-                  BRANCH XXVII: SAFETY VALVE / DICTATORSHIP
-SAFETY-VALVE CASE
-war,
-rebellion,
-breakdown,
-financial collapse
-require coordinated power.
-                              |
-                              v
-DICTATORSHIP RISK
-vague trigger,
-executive satisfaction,
-rights restriction,
-State dismissal.
-                              |
-                              v
-SAFEGUARDS
-written Cabinet,
-special majority,
-renewal,
-Lok Sabha revocation,
-non-suspendable rights,
-judicial review,
-floor test.
-                              |
-                              v
-STANDARD
-necessity,
-temporariness,
-proportionality,
-accountability.
-                              |
-                              v
-                  BRANCH XXVIII: CURRENT STATUS
-28 AUGUST 2026 CHECK
-no National Emergency
-in force.
-                              |
-                              v
-NO FINANCIAL EMERGENCY
-in force
-or ever declared.
-                              |
-                              v
-MANIPUR
-President's Rule imposed
-13 February 2025.
-                              |
-                              v
-REVOKED
-4 February 2026
-with elected government restored.
-                              |
-                              v
-1975 EMERGENCY
-fiftieth anniversary
-25 June 2025
-renewed debate.
-                              |
-                              v
-SAMVIDHAAN HATYA DIWAS
-notified observance;
-no change in constitutional law.
-                              |
-                              v
-                  BRANCH XXIX: ALTERNATIVES BEFORE ARTICLE 356
-FLOOR TEST.
-                              |
-                              v
-ALTERNATIVE COALITION.
-                              |
-                              v
-PRIOR WARNING.
-                              |
-                              v
-ARTICLE 355 ASSISTANCE.
-                              |
-                              v
-CENTRE-STATE CONSULTATION.
-                              |
-                              v
-TARGETED LAW-AND-ORDER SUPPORT.
-                              |
-                              v
-JUDICIAL DIRECTION.
-                              |
-                              v
-FRESH ELECTION
-only when government formation
-impossible.
-                              |
-                              v
-PRINCIPLE
-least disruptive
-constitutional route.
-                              |
-                              v
-                    CONSTITUTIONAL CASE / EXAMPLE BANK
-1975 EMERGENCY
-abuse / reform trigger.
-                              |
-                              v
-ADM JABALPUR 1976
-liberty failure.
-                              |
-                              v
-MINERVA MILLS 1980
-reviewability.
-                              |
-                              v
-S.R. BOMMAI 1994
-Article 356 control.
-                              |
-                              v
-RAMESHWAR PRASAD 2006
-Bihar dissolution invalid.
-                              |
-                              v
-PUTTASWAMY 2017
-ADM Jabalpur overruled.
-                              |
-                              v
-MANIPUR 2025-26
-dated recent Article 356 illustration.
-                              |
-                              v
-                    SOURCE CRITICISM
-emergency declaration != ordinary crisis response;
-national Emergency != President's Rule;
-rights enforcement suspension != right deletion;
-Article 355 != automatic 356;
-Governor report != conclusive fact;
-historical misuse count should remain approximate;
-oral observation != binding ratio;
-commemorative notification != constitutional amendment;
-current proclamation status must be dated;
-POTA / preventive detention belongs partly to rights owner.
-                              |
-                              v
-                    MAJOR DEBATES
-FEDERAL OR UNITARY?
-federal form,
-temporary unitary operation.
-                              |
-                              v
-SAFETY VALVE OR
-CONSTITUTIONAL DICTATORSHIP?
-depends on enforceable safeguards.
-                              |
-                              v
-SECURITY OR LIBERTY?
-Articles 20 / 21 floor
-+ review.
-                              |
-                              v
-ARTICLE 356:
-NECESSITY OR PARTISAN WEAPON?
-Bommai last-resort test.
-                              |
-                              v
-FINANCIAL EMERGENCY:
-DETERRENT OR EXCESS?
-unused due severity.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-Part XVIII;
-armed rebellion,
-not internal disturbance;
-written Cabinet,
-not PM;
-352 approval special;
-356 / 360 simple;
-352 no fixed maximum;
-356 maximum three years;
-360 no renewal;
-358 only Article 19 /
-external Emergency;
-359 needs order;
-20 / 21 never suspended;
-356 does not suspend FR;
-President cannot take HC;
-Financial Emergency never declared.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT MAINS:
-2018 GS-II Q3
-Financial Emergency
-circumstances / consequences;
-10 marks,
-150 words.
-                              |
-                              v
-2023 GS-II Q13
-legal / political reasons
-for reduced Article 356 use;
-15 marks,
-250 words.
-No Mains answer key.
-                              |
-                              v
-DIRECT PRELIMS:
-2018 GS-I Q53
-Article 356 consequences;
-official historical key unavailable;
-inferred B.
-                              |
-                              v
-2023 GS-I Q77
-Article 355,
-preventive detention,
-POTA;
-official historical key unavailable;
-inferred B.
-                              |
-                              v
-SUPPORTING / CROSS-OWNED:
-2020 GS-II Q11
-centralising laws /
-Farm Acts
--> Centre-State owner.
-2024 Prelims Q74
-Part XVIII mapping
--> Salient Features owner;
-official Set-A answer D.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-three emergencies
--> Article 352 trigger / approval
--> effects
--> 358 / 359
--> history / 44th
--> ADM / Puttaswamy
--> 355 / 356
--> Bommai
--> Article 356 decline
--> Article 360
--> comparison / current status.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-EMERGENCY QUESTION:
-identify Article / trigger
--> written procedure
--> institutional / federal effects
--> rights effect
--> historical misuse
--> amendment / case safeguard
--> necessity-proportionality verdict.
-                              |
-                              v
-ARTICLE 356 DECLINE:
-Bommai legal factors
--> Rameshwar Prasad
--> coalition / regional politics
--> commission norms
--> remaining Governor friction
--> exceptional-power conclusion.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-Emergency provisions remain indispensable constitutional safety valves, but
-their history proves that formal necessity language cannot discipline power by
-itself. The 44th Amendment, non-suspendability of Articles 20 and 21, judicial
-review and Bommai's floor-test doctrine now place emergency action within a
-rights-based and federal framework. Their legitimacy depends on using the least
-disruptive lawful response, preserving institutions wherever possible and
-ending exceptional control as soon as constitutional conditions permit.
+PART XVIII (ARTICLES 352-360): CONSTITUTIONAL EMERGENCY FRAMEWORK
+|
++-- CORE CLASSIFICATION
+|   +-- Article 352: grave threat to India's security -> National Emergency
+|   +-- Article 356: State government cannot be constitutionally carried on
+|   +-- Article 360: India's financial stability or credit is threatened
+|   +-- Rule: classify the constitutional failure; geography alone decides none
+|
++-- ORIGIN / NATIONAL-EMERGENCY TIMELINE
+|   +-- 26 Oct 1962-10 Jan 1968: Article 352; external aggression
+|   +-- 3 Dec 1971-27 Mar 1977: Article 352; external aggression
+|   +-- 25 Jun 1975-21 Mar 1977: Article 352; then-ground "internal disturbance"
+|   +-- 1975-77 experience: exposed executive-finality and liberty risks
+|
++-- ARTICLE 352 - NATIONAL EMERGENCY
+|   +-- THRESHOLD: grave emergency whereby "security of India or any part of
+|   |   the territory thereof" is threatened by war, external aggression or
+|   |   armed rebellion
+|   +-- TIMING: Article 352 Explanation permits proclamation before actual
+|   |   occurrence when imminent danger exists
+|   +-- TERRITORY: whole India or a specified part; no State-sized minimum
+|   +-- LOCALISED ATTACK: not mechanically Article 356; Article 352 is relevant
+|   |   only if its grave-security and named-ground threshold is met;
+|   |   terrorism is not automatically external aggression; ordinary law may suffice
+|   +-- INITIATION: Article 352(3) requires the Union Cabinet's decision to be
+|   |   communicated to the President in writing
+|   +-- APPROVAL: Articles 352(4)-(6) require both Houses within one month and
+|   |   a majority of total membership plus 2/3 of members present and voting
+|   +-- DURATION: Article 352(5) permits six-month continuance after each
+|   |   special-majority renewal; no fixed constitutional maximum
+|   +-- EXIT: Article 352(2) permits presidential revocation; Article 352(7)
+|   |   makes Lok Sabha disapproval binding; Article 352(8) lets 1/10 of total
+|   |   Lok Sabha membership trigger a special sitting within fourteen days
+|
++-- ARTICLE 352 EFFECTS AND TERRITORIAL NEXUS
+|   +-- Article 353(a): Union executive may direct a State's executive action
+|   +-- Article 353(b): Parliament may legislate beyond Union-List fields
+|   +-- Article 250: Parliament may legislate on State-List matters, with a
+|   |   six-month post-Emergency competence tail
+|   +-- Article 123: presidential ordinances may use fields temporarily opened
+|   |   to Parliament while Parliament is not in session
+|   +-- Article 354: President may temporarily modify Articles 268-279 revenue
+|   |   distribution; order must be laid before Parliament and cannot extend
+|   |   beyond the financial year in which the Emergency ends
+|   +-- Articles 83(2)/172(1): Parliament may extend Lok Sabha/Assembly terms
+|   |   one year at a time, never beyond six months after Emergency cessation
+|   +-- Articles 353/358/359: effect outside a proclaimed part requires the
+|       Constitution's linked-security necessity; no automatic national spillover
+|
++-- RIGHTS FIREWALL
+|   +-- Article 358(1): Article 19 restriction is displaced automatically only
+|   |   during an Article 352 Emergency grounded in war/external aggression
+|   +-- Article 358(2): immunity needs an Emergency-related recital in the law;
+|   |   executive action must be under such a reciting law
+|   +-- Article 359(1): a Presidential Order may suspend the right to move a
+|   |   court to enforce specified Part III rights for its stated area/period;
+|   |   the rights themselves are not erased
+|   +-- Article 359(1A)-(1B): law/action protection is confined by the same
+|   |   Emergency recital and statutory nexus
+|   +-- Articles 20 and 21: criminal-law safeguards and life/personal liberty
+|       can never be included in an Article 359 order after the 44th Amendment
+|
++-- AMENDMENT MAP - YEAR + CLAUSE + LEGAL EFFECT
+|   +-- 38th Amendment (1975)
+|   |   +-- Former Article 352(5): presidential satisfaction under Article
+|   |   |   352(1)/(3), proclamation validity and continuance made final,
+|   |   |   conclusive and non-justiciable
+|   |   +-- Former Article 356(5): Article 356(1) satisfaction, proclamation
+|   |   |   validity and continuance similarly insulated from courts
+|   |   +-- Former Article 360(5): Article 360(1) satisfaction, proclamation
+|   |       validity and continuance similarly insulated from courts
+|   +-- 42nd Amendment (1976; territorial provisions effective 3 Jan 1977)
+|   |   +-- Article 352(1): added "or any part of the territory thereof",
+|   |   |   permitting a proclamation for a specified part of India
+|   |   +-- Article 353 proviso: directions/lawmaking may reach another State
+|   |   |   only so far as linked activities threaten India or any part
+|   |   +-- Article 358 proviso: corresponding linked-security reach beyond
+|   |   |   the proclaimed area for Article 19-related law/action
+|   |   +-- Article 359(1A) and 359(2) provisos: corresponding linked-security
+|   |       reach and territorial limit for law/action and enforcement orders
+|   +-- 44th Amendment (1978; these safeguards effective 20 Jun 1979)
+|       +-- Article 352(1)/(9): replaced "internal disturbance" with the
+|       |   narrower ground "armed rebellion"
+|       +-- Article 352(3): written Union Cabinet decision became mandatory
+|       +-- Article 352(4)-(8): one-month approval, special majority,
+|       |   six-month renewal and Lok Sabha disapproval/1/10-member safeguards
+|       +-- Former Article 352(5) omitted; former Article 356(5) replaced and
+|       |   former Article 360(5) omitted, removing 38th-Amendment finality
+|       +-- Article 358(1)-(2): confined automatic Article 19 effect to
+|       |   war/external aggression and imposed recital/statutory nexus
+|       +-- Article 359(1)/(1A)/(1B): excluded Articles 20-21 and imposed
+|           recital/statutory nexus for protected law and executive action
+|
++-- LIBERTY CASE CHAIN - EACH LINK DECODED
+|   +-- ADM Jabalpur v Shivkant Shukla (1976): majority denied the habeas
+|   |   corpus route to enforce Article 21 during the operative Article 359 order
+|   +-- Justice H.R. Khanna's dissent (1976): life and liberty cannot depend
+|   |   wholly on executive permission; legality survives emergency
+|   +-- 44th Amendment, Article 359 (effective 1979): Articles 20 and 21 made
+|   |   permanently unavailable for inclusion in an enforcement-suspension order
+|   +-- K.S. Puttaswamy v Union of India (2017, nine judges): held the ADM
+|       Jabalpur majority seriously flawed and expressly overruled it
+|
++-- JUDICIAL REVIEW OF ARTICLE 352
+|   +-- 38th Amendment finality no longer survives after the 44th Amendment
+|   +-- Minerva Mills v Union of India (1980): courts may test mala fides,
+|   |   absurd/perverse satisfaction and wholly extraneous/irrelevant grounds
+|   +-- LIMIT: review enforces constitutional boundaries; courts do not
+|       substitute their security assessment or reweigh material sufficiency
+|
++-- ARTICLES 355 / 365 / 356 - STATE CONSTITUTIONAL FAILURE
+|   +-- Article 355: Union must protect States against external aggression and
+|   |   internal disturbance and ensure constitutional State government
+|   +-- Article 365: State non-compliance with a lawful Union direction may
+|   |   support, but never automatically establishes, Article 356 failure
+|   +-- Article 356(1): Governor's report or other relevant material must show
+|   |   State government cannot be carried on according to the Constitution
+|   +-- NOT ENOUGH ALONE: local attack, law-and-order failure, maladministration,
+|   |   political disagreement or an untested majority claim
+|   +-- Article 356(3)-(4): both Houses approve within two months by simple
+|   |   majority; continuance proceeds in six-month blocks, maximum three years
+|   +-- Article 356(5): beyond one year requires an Article 352 Emergency in
+|   |   all India or all/part of the State plus Election Commission of India
+|   |   certification that election difficulty requires continued President's Rule
+|   +-- Article 356(1)(a)-(b): President may assume State executive functions;
+|   |   State legislative power becomes exercisable by/under Parliament
+|   +-- Article 357: Parliament may delegate State legislative power, authorise
+|   |   expenditure pending sanction, and resulting laws continue until changed
+|   +-- EXACT HIGH COURT LIMIT - Article 356(1) proviso: President cannot assume
+|   |   High Court powers or suspend any constitutional provision relating to
+|   |   High Courts
+|   +-- OTHER LIMITS: Assembly is not automatically dissolved; Article 356
+|       does not itself suspend Fundamental Rights
+|
++-- ARTICLE 356 CASES, COMMISSIONS AND PRACTICE
+|   +-- S.R. Bommai v Union of India (1994): proclamation is reviewable;
+|   |   majority should ordinarily be floor-tested; premature dissolution can
+|   |   be restrained and an invalid dismissal remedied by restoration;
+|   |   federalism and secularism limit partisan use
+|   +-- Rameshwar Prasad v Union of India (2006): Bihar Assembly dissolution
+|   |   was unconstitutional, though restoration was withheld after elections
+|   |   had materially advanced
+|   +-- Sarkaria Commission on Centre-State Relations (1983-88): recommended
+|   |   warning where feasible, floor test and Article 356 only as last resort
+|   +-- Punchhi Commission on Centre-State Relations (2007-10): recommended
+|   |   reasoned reports, floor testing and a restrained/localised response
+|   +-- STATUS: commission recommendations guide practice but are not binding law
+|   +-- DECLINE SINCE MID-1990s: review risk, coalitions, regional parties and
+|       political scrutiny made partisan dismissal costlier
+|
++-- ARTICLE 360 - FINANCIAL EMERGENCY
+|   +-- Article 360(1): President may proclaim when financial stability or
+|   |   credit of India or any part of its territory is threatened
+|   +-- Article 360(2): both Houses approve within two months by simple
+|   |   majority; President may revoke/vary; no renewal cycle or fixed maximum
+|   +-- Article 360(3): Union may direct States to observe specified canons of
+|   |   financial propriety and issue necessary financial directions
+|   +-- Article 360(4)(a)(i): directions may reduce salaries/allowances of
+|   |   persons serving State affairs
+|   +-- Article 360(4)(a)(ii): directions may require specified State Money
+|   |   Bills or other Bills governed by Article 207 to be reserved for the
+|   |   President's consideration after the State Legislature passes them
+|   +-- Article 360(4)(b): directions may reduce Union salaries/allowances,
+|   |   expressly including Supreme Court and High Court judges
+|   +-- STATUS: never proclaimed
+|   +-- Article 293: governs State borrowing and, in specified cases, prior
+|       Union consent; fiscal stress or 1991 crisis management is not Article 360
+|
++-- PRELIMS TRAPS / VERIFIED PYQ ROUTE
+|   +-- 2018 GS-II: Article 360 trigger, approval, directions and never-used status
+|   +-- 2018 Prelims: Article 356(1)(b) places State legislative power by/under
+|   |   Parliament; answer withheld pending official UPSC key
+|   +-- 2020 GS-II: ordinary centralising statutes are not Article 352/356/360
+|   +-- 2023 Prelims: Article 355 Union duty, Article 22 detention safeguards
+|   |   and the former Prevention of Terrorism Act, 2002; answer withheld
+|   +-- 2023 GS-II: Bommai review/floor-test rule plus commission safeguards
+|   +-- 2024 Prelims: Part XVIII is the constitutional emergency chapter;
+|       final official local key: D
+|
++-- MAINS ANSWER SPINE
+    +-- claim -> named Article/amendment/case -> mechanism
+    +-- mechanism -> constitutional analysis -> bounded qualification
+    +-- conclusion: exact category + necessity + rights/institutional safeguards
+        + reviewability + return to ordinary democratic government
 ```

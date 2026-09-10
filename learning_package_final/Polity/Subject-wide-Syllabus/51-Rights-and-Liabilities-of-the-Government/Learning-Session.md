@@ -1,13 +1,12 @@
 ---
-title: "Rights and Liabilities of the Government — Learner-v2 Refreshed"
+title: "Rights and Liabilities of the Government"
 topic_key: polity-51
-cover_image: assets/polity-51_Teaching-Navigation_2026-08-28.png
 ---
-# Rights and Liabilities of the Government — Complete Uncompressed Learning Session
+# Rights and Liabilities of the Government — Complete Learning Session
 
 **Complete Core-first learning session + verified practice + optional Advanced + register notes**
 
-**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
+**Legal control date:** 9 September 2026
 
 > **Evidence discipline:** constitutional text, current statutes, named judgments and dated
 > primary sources are distinguished from analysis. A recommendation is never presented as enacted law.
@@ -23,7 +22,6 @@ cover_image: assets/polity-51_Teaching-Navigation_2026-08-28.png
 | Chronology | Enactment, commencement, amendment, judgment and implementation dates remain separate. |
 | Boundary method | Topic ownership and cross-owner bridges are explicit; adjacent PYQs never become fabricated direct routes. |
 | Practice contract | Every solved item has demand decoding, examiner-grade model, timed compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
 
 **Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Polity\basic\Rights-and-Liabilities-of-the-Government.md`  
 **Canonical topic owner:** `upsc-ai-kit\knowledge\Polity\basic\Rights-and-Liabilities-of-the-Government.md`  
@@ -40,24 +38,27 @@ cover_image: assets/polity-51_Teaching-Navigation_2026-08-28.png
   cross-owner boundaries are hard failures.
 - **Answer rule:** claim → exact constitutional/statutory/case evidence →
   institutional analysis → exception or qualification.
-- **Current-status note, rechecked 2026-09-05:** Rechecked 2026-09-05: Articles 294-300 and 300A, CPC sections 79-80, Contract Act section 70, BSA sections 129-130 and BNSS section 218 remain the operative source-specific routes. Bernard Francis Joseph Vaz, 2025 INSC 3, reinforces timely adequate Article 300A compensation.
+- **Current-status note:** Constitutional text, the Code of Civil Procedure, 1908, the Limitation Act, 1963 and Contract Act section 70 remain the controlling routes. The package uses reported holdings only for the proposition stated.
 
 **Authoritative live sources:**
 
 - `https://legislative.gov.in/document/constitution-of-india-in-english`
 - `https://www.indiacode.nic.in/`
-- `https://api.sci.gov.in/supremecourt/2023/14014/14014_2023_2_1501_58185_Judgement_02-Jan-2025.pdf`
-- `https://doe.gov.in/manuals`
-- `https://legalaffairs.gov.in/arbitration-and-conciliation`
 
 ## BASIC LEARNING SESSION
 
-![Refreshed teaching navigation](assets/polity-51_Teaching-Navigation_2026-08-28.png)
-
-*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
 
 
 ### SESSION 1 — CORE PROPOSITION
+
+#### VISUAL-FIRST MAP
+
+```text
+STATE CONTINUITY -> PROPERTY / BUSINESS / CONTRACT CAPACITY
+                 -> IDENTIFIABLE SUABLE PARTY
+                 -> PRIVATE-LAW + PUBLIC-LAW ACCOUNTABILITY
+                 -> NO BLANKET IMMUNITY
+```
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -98,6 +99,10 @@ GOVERNMENT UNDER LAW
 
 ---
 
+**Write the paragraph:** *Claim* — government is a continuing legal actor. *Evidence* — Articles 294-300. *Analysis* — continuity, capacity and suability make administration possible without merging public assets with office-holders. *Qualification* — legal personality neither creates blanket immunity nor makes every official personally liable.
+
+---
+
 #### CLOSING RECALL FLOW — CORE PROPOSITION
 
 ```text
@@ -119,6 +124,14 @@ UPSC TRAP / ANSWER-USE: Do not infer that governmental legal personality makes t
 ANSWER-GRABBING FORMULATION: Government under law combines administrative continuity with an identifiable legal defendant and effective remedies.
 ```
 ### SESSION 2 — ARTICLE MAP
+
+#### VISUAL-FIRST MAP
+
+```text
+294-295 succession -> 296 ownerless property -> 297 maritime resources
+-> 298 executive capacity -> 299 valid contract form -> 300 suits
+-> 300A lawful deprivation of private property
+```
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -150,9 +163,15 @@ ANSWER-GRABBING FORMULATION: Government under law combines administrative contin
 | **298** | Trade, business, property and contracts | Union and State executive power extends to these activities, subject to legislative competence controls |
 | **299** | Government contracts | Mandatory constitutional form and personal-immunity rule |
 | **300** | Suits and proceedings | Union of India and the State are the proper juristic names; liability retains the pre-Constitution baseline subject to legislation |
+| **300A** | Right to property | No person may be deprived of property except by authority of law; it is outside Part III |
+| **300A** | Right to property | No person may be deprived of property except by authority of law; it is outside Part III |
 
 > **Trap:** Article **300A** is the right-to-property provision. It is adjacent to, but not part of,
 > the Arts 294–300 government-liability sequence.
+
+---
+
+**Write the paragraph:** *Claim* — each Article performs a separate function. *Evidence* — Articles 294-297 allocate property, 298 grants capacity, 299 controls contracts, 300 supplies the suit identity and 300A limits deprivation. *Analysis* — accuracy depends on source separation. *Qualification* — adjacency does not make Article 300A part of the government-liability sequence.
 
 ---
 
@@ -177,6 +196,15 @@ UPSC TRAP / ANSWER-USE: Do not use Article 300A for contracts or Article 300 for
 ANSWER-GRABBING FORMULATION: A precise article map prevents adjacent constitutional provisions from being collapsed into a single liability rule.
 ```
 ### SESSION 3 — PROPERTY, SUCCESSION AND OWNERLESS ASSETS
+
+#### VISUAL-FIRST MAP
+
+| Question | Constitutional answer |
+|---|---|
+| Who succeeds at commencement? | Articles 294-295 |
+| Who receives ownerless property? | Article 296 |
+| Who holds specified maritime value? | Union under Article 297 |
+| Who may trade, hold and dispose? | Union and States under Article 298, subject to law |
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -239,6 +267,10 @@ the executive activity falls outside the ordinary legislative field of that gove
 
 ---
 
+**Write the paragraph:** *Claim* — Articles 294-297 preserve and allocate public property. *Evidence* — commencement succession, Article 296 and Article 297. *Analysis* — the provisions prevent a constitutional transition from creating an ownership vacuum. *Qualification* — later State reorganisation follows its governing statute or instrument, not an invented universal formula.
+
+---
+
 #### CLOSING RECALL FLOW — PROPERTY, SUCCESSION AND OWNERLESS ASSETS
 
 ```text
@@ -260,6 +292,18 @@ UPSC TRAP / ANSWER-USE: Do not treat statutory maritime-zone distances or later 
 ANSWER-GRABBING FORMULATION: Property continuity shows why the State survives constitutional transition as a juristic institution rather than personal office-holders.
 ```
 ### SESSION 4 — GOVERNMENT CONTRACTS: ARTICLE 299
+
+#### VISUAL-FIRST MAP
+
+```text
+ARTICLE 298 CAPACITY
+        |
+        v
+ARTICLE 299(1): expression + execution on behalf + authorisation/manner
+        |
+        +-- compliant -> enforceable governmental commitment
+        `-- defective -> no contract enforcement; test independent restitution
+```
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -305,10 +349,11 @@ execution**.
 
 #### 4.3 Invalid formal contract versus restitution
 
-⚠️ Failure of Article 299 form can make the purported contract unenforceable as a government
-contract. That does not automatically permit the State to retain a non-gratuitous benefit without
-payment; an independent restitutionary claim may arise under ordinary law if its conditions are
-proved. Keep the **contract claim** and the **restitution claim** analytically separate.
+⚖️ *Bhikraj Jaipuria v. Union of India* treated the constitutional form as mandatory: performance, officer knowledge or estoppel cannot manufacture an enforceable government contract. ⚖️ *Mulamchand v. State of Madhya Pradesh* reaffirmed that Article 299 safeguards are matters of public policy; a defective bargain cannot be ratified into validity. Yet invalidity of the bargain does not authorise unjust enrichment. Contract Act section 70 creates an independent restitutionary route only where the claimant lawfully conferred a benefit, did not intend it gratuitously, and government accepted and enjoyed it. *B.K. Mondal & Sons* is the leading benefit-retention illustration. Restitution is measured by the proved benefit, not automatically by the promised price; *Mulamchand* also shows that a claimant who cannot account for benefits received may fail.
+
+---
+
+**Write the paragraph:** *Claim* — Article 298 capacity becomes a binding public commitment only through Article 299. *Evidence* — the three formal requirements and *Bhikraj Jaipuria*/*Mulamchand*. *Analysis* — mandatory form protects the exchequer from unauthorised bargains. *Qualification* — Contract Act section 70 may reverse a proved benefit without enforcing the defective bargain.
 
 ---
 
@@ -333,6 +378,13 @@ UPSC TRAP / ANSWER-USE: Do not confuse an officer’s signature, later benefit o
 ANSWER-GRABBING FORMULATION: Public contracting is broad in capacity but exacting in authority because it commits the public exchequer.
 ```
 ### SESSION 5 — SUITS AND TORT LIABILITY: ARTICLE 300
+
+#### VISUAL-FIRST MAP
+
+```text
+P & O distinction -> Vidyawati liability -> Kasturi Lal immunity line
+-> N. Nagendra Rao narrowing -> constitutional compensation for rights violations
+```
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -366,16 +418,20 @@ ANSWER-GRABBING FORMULATION: Public contracting is broad in capacity but exactin
 
 | Stage | Case/proposition | Correct use |
 |---|---|---|
-| Colonial distinction | ⚖️ *P & O Steam Navigation (1861)* | State liable for non-sovereign/commercial functions; immunity associated with sovereign functions |
-| Restrictive reaffirmation | ⚖️ *Kasturi Lal v. State of Uttar Pradesh (1964)* | Police custody/property-loss claim reflected the older sovereign-function immunity |
-| Narrowing | ⚖️ *N. Nagendra Rao & Co. (1994)* | Welfare-State functions make broad immunity untenable; immunity survives, if at all, only in narrow inalienable fields |
-| Further erosion | ⚖️ *Common Cause* (1999); *State of A.P. v. State of Andhra Pradesh v. Challa Ramkrishna Reddy (2000)* | Broad sovereign immunity is incompatible with rule-of-law accountability |
-| Public-law compensation | ⚖️ *Nilabati Behera v. State of Orissa (1993)* | Compensation for a Fundamental-Right violation is a constitutional/public-law remedy, distinct from a private tort suit |
+| Colonial baseline | *P & O Steam Navigation* (1861) | Introduced the sovereign/non-sovereign distinction in the East India Company setting |
+| Operational liability | *State of Rajasthan v. Vidyawati* (1962) | State held vicariously liable for negligent driving of a government vehicle in ordinary employment |
+| Older immunity line | *Kasturi Lal v. State of Uttar Pradesh* (decided 1964; AIR 1965 SC 1039) | Denied damages for police loss of seized gold by treating the function as sovereign; now strongly criticised and narrowed |
+| Modern narrowing | *N. Nagendra Rao & Co. v. State of A.P.* (1994) | Broad immunity is incompatible with the welfare State; any residue is confined to narrow primary and inalienable functions |
+| Public-law compensation | *Rudul Sah* (1983), *Nilabati Behera* (1993), *D.K. Basu* (1997) | Writ compensation vindicates established Fundamental-Right violations and is distinct from ordinary tort damages |
 
 ⚠️ The safest Mains position is not "sovereign immunity has completely vanished" and not "the State
 is immune for sovereign acts." State that the old distinction has been **strongly narrowed and
 criticised**, while public-law constitutional compensation and private-law tort liability remain
 distinct remedial routes.
+
+---
+
+**Write the paragraph:** *Claim* — Article 300 preserves suability while case law has narrowed the colonial immunity divide. *Evidence* — *Vidyawati*, *Kasturi Lal* and *N. Nagendra Rao*. *Analysis* — ordinary operational negligence is increasingly treated through rule-of-law accountability. *Qualification* — the precise function, cause of action, proof and remedy still matter.
 
 ---
 
@@ -400,6 +456,15 @@ UPSC TRAP / ANSWER-USE: Do not claim either complete abolition or a blanket surv
 ANSWER-GRABBING FORMULATION: Suits and tort liability under Article 300 reveal a movement from colonial sovereign immunity toward narrow, rights-sensitive accountability.
 ```
 ### SESSION 6 — PUBLIC-OFFICIAL PROTECTION: DO NOT MIX THE SOURCES
+
+#### VISUAL-FIRST MAP
+
+| Source | Protects | Does not do |
+|---|---|---|
+| Article 299(2) | constitutional head and authorised executant personally | erase State contract liability |
+| Article 361 | President/Governor in specified proceedings | make governmental action unreviewable |
+| CPC section 80 | pre-suit notice in covered civil suits | create substantive immunity |
+| Criminal-law sanction | cognizance in specified official-duty cases | decide civil or constitutional liability |
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -433,6 +498,14 @@ ANSWER-GRABBING FORMULATION: Suits and tort liability under Article 300 reveal a
 > criminal-procedure sanction and judicial-officer protection arise from **different provisions**.
 > Never present them as one constitutional immunity.
 
+**Official personal liability:** State vicarious liability turns on the employee's tort and course-of-employment nexus. The official may separately face disciplinary, criminal or personal civil consequences where the governing law and facts establish fault, mala fides or conduct outside authority. Neither institutional liability nor official protection automatically cancels the other.
+
+**Official personal liability:** State vicarious liability turns on the employee's tort and course-of-employment nexus. The official may separately face disciplinary, criminal or personal civil consequences where the governing law and facts establish fault, mala fides or conduct outside authority. Neither institutional liability nor official protection automatically cancels the other.
+
+---
+
+**Write the paragraph:** *Claim* — personal or procedural protection must be traced to its exact source. *Evidence* — Articles 299(2), 361 and CPC section 80. *Analysis* — each protects a different actor or stage. *Qualification* — mala fides, acts outside authority and the reviewability of governmental action require separate analysis.
+
 ---
 
 #### CLOSING RECALL FLOW — PUBLIC-OFFICIAL PROTECTION: DO NOT MIX THE SOURCES
@@ -455,1930 +528,1281 @@ UPSC TRAP / ANSWER-USE: Do not convert personal, procedural, evidentiary or pros
         v
 ANSWER-GRABBING FORMULATION: Source separation is the fastest way to avoid overbroad claims about officials and governmental liability.
 ```
-### SESSION 7 — ACCOUNTABILITY LOGIC
+
+### SESSION 7 — CIVIL SUITS: PARTY, NOTICE, LIMITATION AND EXECUTION
+
+#### VISUAL-FIRST MAP
+
+```text
+CAUSE OF ACTION
+  -> name Union of India / State correctly (Article 300 + CPC section 79)
+  -> serve section 80(1) notice where the suit is covered
+  -> or obtain court leave for urgent relief under section 80(2)
+  -> plead, prove and obtain decree
+  -> section 82: wait three months if decree remains unsatisfied before execution
+```
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Government accountability requires lawful property deprivation, calibrated confidentiality and a remedy matched to the wrong.
-
-**Technical definition:** Article 300A safeguards property, evidence and RTI rules balance disclosure, and route selection separates contract, tort and public law.
+Article 300 supplies constitutional suability; CPC sections 79-82 regulate party description,
+notice and execution. They do not create the underlying contract, tort or property cause of action.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Accountability works when every claimed power or protection is tied to authority, procedure, reasons and remedy.
+> Procedure channels a claim against government; it neither creates the wrong nor converts notice into sovereign immunity.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 300A**
-- **Bimal Kumar Shah**
-- **RTI Section 8**
-- **remedy selection**
-- **public accountability**
+**Article 300; CPC section 79; section 80(1); section 80(2); Limitation Act section 15(2); CPC section 82.**
 
-**How to use them:** Frame the answer through Article 300A; define Bimal Kumar Shah, connect RTI Section 8 with remedy selection to explain the mechanism, and use public accountability for the decisive comparison or qualification.
-
-#### 7.1 Article 300A: lawful deprivation of property
-
-✅ Article **300A** protects **every person**, not only citizens: no person may be deprived of
-property except by authority of law. It is a constitutional right outside Part III, not a
-Fundamental Right and not merely an ordinary statutory right.
-
-| Authority | Exam-safe proposition |
+| Rule | Precise boundary |
 |---|---|
-| ⚖️ *K.T. Plantation v. State of Karnataka* (2011) | Deprivation must serve public purpose; compensation cannot be illusory or the law arbitrary/confiscatory |
-| ⚖️ *Vidya Devi v. State of Himachal Pradesh* (2020) | Executive occupation without acquisition under law and compensation violates Article 300A |
-| ⚖️ *Kolkata Municipal Corporation v. Bimal Kumar Shah* (2024 INSC 435) | Valid acquisition requires a fair process built around seven property sub-rights |
+| CPC section 79 | Central Government is sued as the Union of India; a State Government by the name of the State |
+| CPC section 80(1) | Two months' prior written notice ordinarily precedes a covered suit against government or a public officer for an act purporting to be done in official capacity |
+| CPC section 80(2) | With court leave, urgent or immediate relief may be sought without prior notice; no relief is granted without a reasonable opportunity to government/officer to show cause, and lack of urgency leads to return of the plaint |
+| CPC section 80(3) | A covered suit is not dismissed merely for specified technical error or defect where the statutory identifying particulars substantially enable notice |
+| Limitation Act section 15(2) | The legally required notice period is excluded when computing limitation; this is computation, not abolition of the limitation law |
+| CPC section 82 | A qualifying decree/order/award against government or a public officer in official capacity cannot be executed until it remains unsatisfied for three months from the decree |
 
-The seven 2024 safeguards are: **notice, hearing, a reasoned decision, public purpose, restitution
-or fair compensation, an efficient and expeditious process, and conclusion of the proceedings**.
+**Write the paragraph:** *Claim* — procedural safeguards give government an opportunity to examine
+and settle claims. *Evidence* — sections 79, 80 and 82 CPC. *Analysis* — notice and delayed execution
+protect orderly administration while retaining suability. *Qualification* — urgent relief, limitation
+computation and execution each follow separate statutory conditions.
 
-> **Trap:** “Authority of law” excludes deprivation by unsupported executive action. Article 300A
-> does not constitutionalise an absolute right to a particular market price in every statutory
-> acquisition, but illusory compensation and arbitrary confiscation remain vulnerable.
+**UPSC trap:** Section 80 notice is not required for every writ petition, criminal case or proceeding;
+state the covered civil-suit context and any special statute.
 
-#### 7.2 State secrets, evidence privilege and RTI
-
-📜 Under the **Bharatiya Sakshya Adhiniyam, 2023**, section **129** concerns unpublished official
-records relating to affairs of State, while section **130** protects official communications when
-their disclosure would injure public interest. These evidentiary rules do not create an
-unreviewable executive veto.
-
-⚖️ *State of U.P. v. Raj Narain* (1975) rejected absolute secrecy and linked open government to the
-people's right to know. ⚖️ *S.P. Gupta v. Union of India* (1981) strengthened the presumption of
-open government while retaining a document-specific public-interest balance.
-
-📜 The **Right to Information Act, 2005** separately governs access:
-
-- section **8(1)(a)** protects specified sovereignty, security, strategic, scientific, economic
-  and foreign-relations interests and incitement;
-- section **8(2)** permits disclosure where public interest in disclosure outweighs protected harm;
-- section **22** gives the Act overriding effect over inconsistent law, including the Official
-  Secrets Act, 1923.
-
-> **Source firewall:** evidentiary privilege in litigation and an RTI exemption are distinct legal
-> questions. In either setting, identify the exact provision, claimed harm, decision-maker,
-> balancing rule and available review.
-
-#### 7.3 Remedy and official-liability decision tree
-
-```text
-WHAT IS THE WRONG?
-  |
-  +-- valid government contract breached
-  |      -> civil/commercial claim or valid arbitration route
-  |
-  +-- Article 299 form defective but lawful non-gratuitous benefit retained
-  |      -> prove Contract Act section 70 restitution independently
-  |
-  +-- operational negligence or other civil wrong
-  |      -> private tort: duty + breach + causation + damage + defences
-  |
-  +-- Fundamental-Right violation by State action
-  |      -> constitutional remedy/public-law compensation under Arts 32 or 226
-  |
-  +-- deprivation of property without lawful acquisition process
-  |      -> Article 300A challenge + statutory acquisition remedies
-  |
-  +-- illegal administrative decision without completed damage claim
-         -> judicial review: legality, jurisdiction, fairness and rights
-```
-
-📜 For ordinary government civil litigation, **CPC section 79** names the Union of India or the
-State as the proper party. **CPC section 80(1)** ordinarily requires two months' prior notice for
-specified suits against government/public officers; section **80(2)** permits a court-controlled
-urgent or immediate-relief route without prior notice. This notice rule is procedural, not
-substantive immunity.
-
-📜 **BNSS section 218** governs prior sanction before cognizance of specified offences alleged
-against judges or protected public servants acting or purporting to act in official duty, subject
-to its text and exceptions. It is distinct from Article 361, Article 299(2), CPC notice and State
-tort liability.
-
-#### Why formalities exist
-
-- Article 299 prevents informal officers from binding the public exchequer.
-- Article 300 gives citizens a named defendant and preserves legal continuity.
-- Judicial narrowing of immunity aligns a welfare State with equality and rule of law.
-- Public-law compensation supplies a remedy where State misconduct violates Fundamental Rights.
-
-#### Continuing weakness
-
-⚠️ India still lacks a single comprehensive constitutional code of State tort liability. The
-result is a case-law-heavy distinction between contractual liability, private tort, constitutional
-tort and official protection.
+**Mini recap:** Correct party -> notice or leave -> limitation computation -> decree -> execution boundary.
 
 ---
 
-#### CLOSING RECALL FLOW — ACCOUNTABILITY LOGIC
+### SESSION 8 — ARTICLE 300A: CONSTITUTIONAL EVOLUTION AND AUTHORITY OF LAW
+
+#### VISUAL-FIRST MAP
 
 ```text
-START / CONCEPT: ACCOUNTABILITY LOGIC
+BEFORE 44TH AMENDMENT: Articles 19(1)(f) + 31 protected property as Fundamental Rights
         |
-        v
-EXACT TERMS: Article 300A · Bimal Kumar Shah · RTI Section 8 · remedy selection · public accountability
+44TH AMENDMENT ACT, 1978: deleted Article 19(1)(f), omitted Article 31,
+                          inserted Article 300A (effective 20 June 1979)
         |
-        v
-MECHANISM / ARGUMENT: Test lawful authority and seven property safeguards, distinguish BSA privilege from RTI, then choose the correct remedial route.
+PRESENT: constitutional right of every person, outside Part III
         |
-        v
-CONSEQUENCE / CONTRAST: The result is accountable administration without automatic disclosure, liability or compensation in every case.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not begin with blanket immunity; begin with the wrong, source, ingredients, forum and requested relief.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Accountability works when every claimed power or protection is tied to authority, procedure, reasons and remedy.
+DEPRIVATION ONLY BY AUTHORITY OF LAW
 ```
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+Article 300A states that no person shall be deprived of property save by authority of law. It is a
+constitutional right outside Part III, not a Fundamental Right and not merely a statutory right.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> The Forty-fourth Amendment reduced property's remedial status but did not license executive confiscation.
+
+#### MUST-WRITE KEYWORDS
+
+**44th Amendment; Article 19(1)(f); Article 31; Article 300A; every person; authority of law.**
+
+- *Bishambhar Dayal Chandra Mohan v. State of U.P.* (1982): executive instructions alone cannot
+  support deprivation; "law" must have legislative or valid delegated-law authority.
+- *Jilubhai Nanbhai Khachar v. State of Gujarat* (1995): Article 300A is constitutional, not
+  Fundamental; it requires authority of law and does not reproduce the former Article 31 guarantee
+  of judicially assessed adequacy of compensation.
+- A law must be enacted by a competent legislature or rest on valid delegated authority. A file
+  noting, administrative message or bare possession is not itself authority of law.
+
+**Write the paragraph:** *Claim* — Article 300A constitutionalises legality rather than an absolute
+property guarantee. *Evidence* — the Forty-fourth Amendment, *Bishambhar Dayal* and *Jilubhai*.
+*Analysis* — democratic law, competence and review replace unilateral executive taking.
+*Qualification* — lawful regulation is not automatically compensable deprivation, and the right
+remains subject to other constitutional guarantees such as Article 14.
+
+**UPSC trap:** Do not call Article 300A a Fundamental Right or say that executive order alone is law.
+
+**Mini recap:** Status changed; legality did not disappear.
+
+---
+
+### SESSION 9 — EMINENT DOMAIN, ACQUISITION, REQUISITION, REGULATION AND COMPENSATION
+
+#### VISUAL-FIRST MAP
+
+| State action | Ownership/possession effect | Article 300A focus |
+|---|---|---|
+| Acquisition | permanent transfer/extinguishment of proprietary interest | law, competence, public purpose, procedure and compensation doctrine |
+| Requisition | temporary possession or use while title ordinarily remains | statutory authority, duration, purpose and payment specified by law |
+| Regulation | controls use, development or incidents while ownership substantially remains | distinguish restriction from effective deprivation |
+| Unauthorised occupation | State takes/uses land without acquisition law or completed procedure | direct Article 300A illegality; restitution/compensation and statutory remedies |
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Eminent domain** is the State's power, through law, to take private property for public purpose,
+subject to constitutional limitations. Acquisition is ordinarily permanent; requisition is
+temporary; regulation controls use; deprivation is the wider Article 300A result and depends on
+substance, not the label.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Article 300A asks whether State action, in substance, lawfully regulates property or divests its protected incidents.
+
+#### MUST-WRITE KEYWORDS
+
+**eminent domain; acquisition; requisition; deprivation; regulation; public purpose; non-illusory compensation.**
+
+- *K.T. Plantation v. State of Karnataka* (2011): public purpose is integral to compulsory taking;
+  Article 300A does not guarantee market value in every case, yet a deprivation law cannot be a
+  colourable, arbitrary confiscation supported only by illusory compensation.
+- Compensation doctrine is contextual. The old Article 31 formula was not copied into Article 300A;
+  adequacy is not judicially converted into an automatic market-value command, but total absence or
+  an illusory measure may expose confiscatory or arbitrary legislation.
+- *Vidya Devi v. State of Himachal Pradesh* (2020): long executive occupation without acquisition
+  proceedings and compensation violated Article 300A. The welfare State could not use adverse
+  possession to perfect title over a citizen's land on those facts.
+- The adverse-possession point is bounded: do not convert *Vidya Devi* into a free-standing rule
+  abolishing the doctrine in every inter-private or statutory context; its force is against the
+  State using its own unlawful possession as a shortcut around acquisition law.
+- *Kolkata Municipal Corporation v. Bimal Kumar Shah* (2024) organises lawful acquisition around
+  notice, hearing, reasoned decision, public purpose, fair compensation/restitution, efficient
+  process and conclusion.
+
+**Write the paragraph:** *Claim* — deprivation analysis depends on the real effect of State action.
+*Evidence* — *K.T. Plantation* and *Vidya Devi*. *Analysis* — public purpose, lawful process and a
+non-illusory remedial structure distinguish acquisition from confiscation. *Qualification* —
+ordinary regulation is not automatically acquisition, and Article 300A does not promise market
+value in every statutory scheme.
+
+**UPSC trap:** Do not equate every use restriction with acquisition or every compensation dispute
+with a constitutional right to full market value.
+
+**Mini recap:** Label < substance; law + purpose + procedure + non-confiscatory consequence.
+
+---
+
+### SESSION 10 — TORT, RESTITUTION, CONSTITUTIONAL COMPENSATION AND PERSONAL LIABILITY
+
+#### VISUAL-FIRST MAP
+
+| Wrong | Legal route | Core proof | Typical relief |
+|---|---|---|---|
+| Valid government contract breached | contract/arbitration | Article 299 validity + breach | contractual relief |
+| Defective form, benefit retained | Contract Act section 70 | lawful act/delivery + non-gratuitous intent + enjoyed benefit | restitution measured by benefit |
+| Operational civil wrong | private tort | duty + breach + causation + damage + vicarious nexus | civil damages |
+| Established Fundamental-Right violation | public-law/constitutional compensation | State action + right violation + appropriate writ relief | constitutional compensation/directions |
+| Illegal administrative decision | judicial review | illegality, jurisdiction, fairness, arbitrariness or rights defect | quashing, mandamus or tailored relief |
+| Personal official wrongdoing | criminal/disciplinary/personal civil route | governing offence/service rule/tort and individual fault | punishment, discipline or personal damages |
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Government liability is route-specific: the same facts may support parallel remedies, but no remedy silently supplies another's ingredients.
+
+#### MUST-WRITE KEYWORDS
+
+**private law; public law; restitution; constitutional compensation; vicarious liability; personal fault; cumulative remedies.**
+
+- *Rudul Sah v. State of Bihar* (1983) awarded monetary relief for unlawful detention.
+- *Nilabati Behera v. State of Orissa* (1993) clearly separated public-law compensation for an
+  Article 21 violation from private tort damages and rejected sovereign immunity in that public-law route.
+- *D.K. Basu v. State of West Bengal* (1997) linked custodial safeguards with enforceable public-law
+  compensation for established violations.
+- Writ compensation does not universally replace civil damages, prosecution, disciplinary action
+  or statutory compensation. Courts tailor public-law relief to the established constitutional wrong.
+- State vicarious liability and an official's personal liability can coexist. Official status does
+  not protect mala fide, unauthorised or independently tortious conduct merely because office
+  supplied the opportunity; conversely, every error does not automatically create personal damages.
+
+**Write the paragraph:** *Claim* — remedy classification prevents doctrinal confusion. *Evidence* —
+section 70, Article 300 and the *Rudul Sah-Nilabati-D.K. Basu* line. *Analysis* — each route serves a
+different interest: bargain, unjust enrichment, civil loss, rights vindication or personal
+accountability. *Qualification* — parallel proceedings remain controlled by their own proof,
+limitation, defences, competence and rules against double recovery.
+
+**UPSC trap:** Constitutional compensation is not a universal substitute for civil or criminal law.
+
+**Mini recap:** Identify the wrong -> source -> defendant -> proof -> forum -> relief -> overlap limit.
+
 ### ANSWER ARCHITECTURE (10/15/20-MARK SUPPORT)
 
-#### 8.1 Demand map
-
-| Demand | Answer spine |
+| Demand | Executable spine |
 |---|---|
-| Articles 294–300 overview | Succession/property → trade/contracts → suits/liability → rule-of-law verdict |
-| Government contracts | Art 298 capacity → Art 299 formalities → personal immunity → restitution caution |
-| Sovereign immunity | Art 300 baseline → case trajectory → constitutional tort → qualified verdict |
-| Public-official immunity | Actor-by-actor source map → distinction between personal protection and reviewability |
-| Government as juristic person | Proper party → continuity → legal accountability → institutional significance |
-| Article 300A | Authority of law → public purpose → seven safeguards → remedy → qualified compensation rule |
-| State secrets/RTI | Exact source → claimed public harm → disclosure balance → independent review |
-| Remedy selection | Wrong → legal route → ingredients → forum → protection/limitation → relief |
+| Articles 294-300A overview | succession -> ownerless/maritime property -> capacity -> contract form -> suability -> property limit |
+| Government contracts | Article 298 -> Article 299 formalities -> consequences -> section 70 -> qualified verdict |
+| Sovereign immunity | Article 300 -> *Vidyawati* -> *Kasturi Lal* -> *N. Nagendra Rao* -> public-law compensation -> reform |
+| Article 300A | 44th Amendment -> authority of law -> property taxonomy -> case rail -> compensation qualification |
+| Remedies | contract/restitution/tort/writ/review/personal liability -> ingredients -> coexistence boundary |
+| Civil procedure | Article 300/CPC 79 -> CPC 80 -> Limitation Act 15(2) -> CPC 82 |
 
-#### 8.2 Thesis options
+**Thesis options**
 
-- *Articles 298–300 convert the executive from a sovereign ruler into a legal actor: it may trade
-  and contract, but only through authorised form and with liability before courts.*
-- *The sovereign-immunity doctrine has moved from a broad colonial exception toward narrow,
-  rights-sensitive accountability, though private tort and constitutional compensation remain
-  distinct.*
-- *Official immunity protects the office from personal litigation; it does not place governmental
-  action beyond judicial review.*
+- Articles 298-300 make government commercially capable but constitutionally formal and judicially answerable.
+- The sovereign-immunity doctrine has not disappeared by slogan; it has been narrowed by welfare-State
+  accountability and bypassed in the distinct public-law compensation route for rights violations.
+- Article 300A protects legality, public purpose and non-confiscatory process without restoring the
+  pre-44th-Amendment Fundamental Right or guaranteeing market value in every case.
 
-#### 8.3 Mark-scaled structures
-
-| Marks | Structure | Evidence |
-|---:|---|---|
-| 10 | Direct thesis → Articles 299/300 → one case distinction → verdict | 3 anchors |
-| 15 | Property/contract/suit map → immunity trajectory → public-official distinction → verdict | 5–6 anchors |
-| 20 | Arts 294–300 sequence → contract form → tort and constitutional remedies → official protection → reform/graded verdict | 7–8 anchors |
-
-#### 8.4 Evidence units
-
-- **Claim:** government contract power is constitutionally formalised. **Evidence:** ✅ Arts 298 and
-  299. **Analysis:** capacity is broad but authority and execution are controlled. **Qualification:**
-  an invalid formal contract and restitution are different claims.
-- **Claim:** State liability has expanded with the welfare State. **Evidence:** ⚖️ *Kasturi Lal v. State of Uttar Pradesh (1964)* to
-  *N. Nagendra Rao & Co. (1994)* and *Common Cause*. **Analysis:** more governmental activity makes a broad
-  sovereign/non-sovereign firewall unworkable. **Qualification:** do not assert total abolition
-  without a governing statute or case for the precise facts.
-- **Claim:** constitutional tort is distinct. **Evidence:** ⚖️ *Nilabati Behera v. State of Orissa (1993)*. **Analysis:** public
-  compensation vindicates Fundamental Rights rather than merely compensating a private wrong.
-  **Qualification:** it does not replace every ordinary civil remedy.
-
----
-### SESSION 8 — MUST-KNOW FACTS
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Must-know facts are the minimum constitutional, statutory and remedial anchors required for accurate recall.
-
-**Technical definition:** The recall set covers Articles 294-300A, contract form, proper parties, notice, property safeguards and distinct compensation routes.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Must-know facts provide the verified constitutional and statutory backbone for accurate Prelims recall and concise Mains analysis.
-
-#### MUST-WRITE KEYWORDS
-
-- **must-know facts**
-- **Article sequence**
-- **contract formalities**
-- **proper party**
-- **property safeguards**
-- **remedy distinction**
-
-**How to use them:** Frame the answer through must-know facts; define Article sequence, connect contract formalities with proper party to explain the mechanism, and use property safeguards for the decisive comparison or qualification.
-
-- ✅ Arts **294–300** are in Part XII.
-- ✅ Art 296 deals with escheat, lapse and *bona vacantia*.
-- ✅ Art 297 vests specified maritime value/resources in the Union.
-- ✅ Art 298 grants executive capacity to trade, hold property and contract.
-- ✅ Art 299 imposes three mandatory contract formalities.
-- ✅ Art 300 names the Union of India/State as the suable juristic party.
-- ✅ Art 300A protects every person against deprivation of property except by authority of law.
-- ✅ Art 361 concerns President/Governor immunity; it is not the source of State tort immunity.
-- ⚖️ Public-law compensation for rights violations is distinct from private-law damages.
-- 📜 CPC sections 79–80 govern party description and notice; they do not create sovereign immunity.
-- 📜 BSA sections 129–130 and RTI sections 8/22 answer different disclosure questions.
-
----
-
-#### CLOSING RECALL FLOW — MUST-KNOW FACTS
-
-```text
-START / CONCEPT: MUST-KNOW FACTS
-        |
-        v
-EXACT TERMS: must-know facts · Article sequence · contract formalities · proper party · property safeguards · remedy distinction
-        |
-        v
-MECHANISM / ARGUMENT: Recall the article sequence, three contract formalities, proper party, seven safeguards and source-specific protections.
-        |
-        v
-CONSEQUENCE / CONTRAST: The learner can reconstruct the full liability system from a compact set of verified anchors.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not memorise a protection without its actor, proceeding, limit and continuing review route.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Must-know facts provide the verified constitutional and statutory backbone for accurate Prelims recall and concise Mains analysis.
-```
 ### UPSC TRAPS AND SOURCE DISCIPLINE
 
-- Do not cite Article 300A for government contracts or suits.
-- Do not call Article 300A either a Fundamental Right or merely an ordinary statutory right.
-- Do not say the President/Governor personally enters executive contracts.
-- Do not treat an officer's signature as enough without Article 299 authority and form.
-- Do not state "government can never be sued for sovereign functions" as settled modern law.
-- Do not state that official immunity prevents review of the governmental action.
-- Do not use a repealed procedural-code section from memory; verify the current statute before
-  citing notice or sanction provisions.
-- Do not collapse State-affairs privilege, official confidence, RTI exemption and the Official
-  Secrets Act into one blanket secrecy power.
-- Write separately: ✅ constitutional text · 📜 statute/rule · ⚖️ holding · 🧾 proposal ·
-  ⚠️ inference.
-
-#### Cross-links
-
-- Right to property: `Fundamental-Rights.md`
-- Executive power: `President-and-Vice-President.md`, `Governor-and-CM.md`
-- Federal allocation: `Centre-State-Relations.md`
-- Judicial remedies: `Supreme-Court.md`, `High-Court.md`
-### POLITY HOSTILE SEMANTIC-REVIEW CORE CONTROL
-
-- **Must remember:** Keep Articles 294-300 legal capacity, Article 300A property protection and Article 361 personal immunity on separate constitutional tracks.
-- **Close distinction:** Separate a valid Article 299 contract, Contract Act section 70 restitution, private tort, constitutional tort and judicial review.
-- **Legal/source limit:** The official constitutional and procedural texts remain controlling; 2025 INSC 3 reinforces timely adequate compensation under Article 300A.
-
-### Semantic-completeness ownership and PYQ control
-
-- **Constitutional map:** Articles 294-300 in Part XII, Chapter III govern
-  succession, public property, trade, contracts and suits. Article 300A is the
-  adjacent constitutional right against deprivation of property except by
-  authority of law; Article 361 protects constitutional heads personally.
-- **Capacity before commitment:** Article 298 gives Union and State executive
-  capacity to trade, acquire, hold and dispose of property and make contracts,
-  subject to legislative-competence limits. It does not dispense with law,
-  equality, procurement control or Article 299 form.
-- **Article 299 form:** an executive contract must be expressed in the name of
-  the President/Governor, executed on that behalf and executed by an authorised
-  person in the authorised manner. These safeguards protect public funds and
-  are not cured merely by performance or officer knowledge.
-- **Restitution firewall:** an unenforceable Article 299 bargain is not silently
-  validated. State of West Bengal v B.K. Mondal & Sons (1961) permits an independent
-  Contract Act section 70 claim only where a lawful non-gratuitous act or
-  delivery was accepted and enjoyed; restitution is not contract enforcement.
-- **Suit route:** Article 300 and CPC section 79 identify the Union of India or
-  the State as the juristic party. CPC section 80 ordinarily requires two
-  months' notice for covered civil suits, with a court-controlled urgent-relief
-  route under section 80(2). Procedure is not substantive immunity.
-- **Private tort line:** P. & O. Steam Navigation and Kasturi Lal v. State of Uttar Pradesh (1964) supplied the
-  older sovereign-function distinction. N. Nagendra Rao & Co. (1994), Common Cause and
-  State of Andhra Pradesh v. Challa Ramkrishna Reddy (2000) strongly narrow broad immunity in the welfare State;
-  no complete State-tort code permits a blanket formula.
-- **Constitutional tort:** Rudul Sah v. State of Bihar (1983), Nilabati Behera v. State of Orissa (1993) and D.K. Basu support
-  public-law compensation for established Fundamental-Right violations.
-  Constitutional compensation, private damages, criminal responsibility and
-  disciplinary action remain different remedial tracks.
-- **Article 300A:** K.T. Plantation controls public purpose and non-illusory
-  compensation; Vidya Devi rejects unsupported executive occupation; Kolkata
-  Municipal Corporation (2024 INSC 435) identifies seven procedural sub-rights.
-  Bernard Francis Joseph Vaz, 2025 INSC 3, reinforces timely adequate
-  compensation and used Article 142 to address exceptional acquisition delay.
-- **Official-protection firewall:** Article 361, Article 299(2), BSA sections
-  129-130, CPC sections 79-80 and BNSS section 218 arise from different texts.
-  Personal or procedural protection never makes governmental action unreviewable.
-- **Live-law control, checked 5 September 2026:** the official Constitution,
-  CPC, Contract Act, BSA and BNSS remain the operative texts. Procurement
-  manuals and arbitration clauses are administrative/contractual controls, not
-  amendments to Articles 298-300. No direct verified PYQ is fabricated.
+1. Article 298 capacity is not Article 299 compliance.
+2. A defective government contract is not always enforceable.
+3. Restitution does not validate the defective bargain.
+4. Article 299(2) personal protection is not State immunity.
+5. Article 300 suability is not Article 300A property protection.
+6. CPC section 80 notice is procedural, not sovereign immunity.
+7. Urgency under section 80(2) needs court leave and remains court-controlled.
+8. Limitation Act section 15(2) excludes required notice time; it does not abolish limitation.
+9. CPC section 82 delays execution; it does not erase the decree.
+10. *Kasturi Lal* is not a modern blanket immunity rule.
+11. Writ compensation does not replace every civil, criminal or disciplinary remedy.
+12. Article 300A is not a Fundamental Right.
+13. Unsupported executive occupation is not authority of law.
+14. Compensation is not constitutionally fixed at market value in every case.
+15. Every regulation is not deprivation.
+16. *Vidya Devi* does not abolish adverse possession in every legal context.
 
 ## BASIC MCQS / REMEDIATION
 
-### Original MCQs 1–48 — hard, varied and source-controlled
+**Practice contract:** Exactly 32 original MCQs follow. Correct options rotate `A -> B -> C -> D` eight times. Every option receives a unique, question-specific explanation.
 
-#### OM1. Which sequence correctly maps Articles 294–300A?
+### MCQ 1
 
-- A. 294–295 succession; 296 ownerless property; 297 maritime resources; 298 capacity; 299 contracts; 300 suits; 300A property deprivation.
-- B. 294–297 Fundamental Rights; 298 emergency; 299 amendment; 300 elections.
-- C. 294 contracts; 295 suits; 296 trade; 297 torts; 298 property right.
-- D. 294 succession; 295 maritime resources; 296 contracts; 297 suits; 300A only citizens.
+Which sequence correctly maps Articles 294–300A?
 
-**Answer: A**
+A. 294–295 succession; 296 ownerless property; 297 maritime resources; 298 capacity; 299 contracts; 300 suits; 300A property deprivation.
+B. 294–297 Fundamental Rights; 298 emergency; 299 amendment; 300 elections.
+C. 294 contracts; 295 suits; 296 trade; 297 torts; 298 property right.
+D. 294 succession; 295 maritime resources; 296 contracts; 297 suits; 300A only citizens.
 
-**Explanation:** The adjacent provisions have distinct subjects; Article 300A is outside the Articles 294–300 liability sequence.
+**Answer: A.**
 
-#### OM2. Article 296 primarily concerns which category?
+**Option-specific explanations:**
+- **A — Correct:** This option correctly states "294–295 succession; 296 ownerless property; 297 maritime resources; 298 capacity; 299 contracts; 300 suits; 300A property deprivation.". The adjacent provisions have distinct subjects; Article 300A is outside the Articles 294–300 liability sequence. [Option A, MCQ 1]
+- **B — Incorrect:** The proposition "294–297 Fundamental Rights; 298 emergency; 299 amendment; 300 elections." misstates the present status: Article 300A is a constitutional right outside Part III. [Option B, MCQ 1]
+- **C — Incorrect:** The proposition "294 contracts; 295 suits; 296 trade; 297 torts; 298 property right." contradicts the controlling rule. The adjacent provisions have distinct subjects; Article 300A is outside the Articles 294–300 liability sequence. [Option C, MCQ 1]
+- **D — Incorrect:** The proposition "294 succession; 295 maritime resources; 296 contracts; 297 suits; 300A only citizens." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option D, MCQ 1]
 
-- A. Compensation for Fundamental-Right violations.
-- B. Escheat, lapse and bona vacantia.
-- C. Government contracts and arbitration.
-- D. Maritime minerals in the exclusive economic zone.
+**Examiner trap 1:** Do not merge adjacent Articles into one undifferentiated liability rule.
 
-**Answer: B**
+### MCQ 2
 
-**Explanation:** Article 296 governs ownerless or reverting property and its Union/State vesting.
+Article 296 primarily concerns which category?
 
-#### OM3. What is the safest statement about Article 297?
+A. Compensation for Fundamental-Right violations.
+B. Escheat, lapse and bona vacantia.
+C. Government contracts and arbitration.
+D. Maritime minerals in the exclusive economic zone.
 
-- A. It governs State succession at constitutional commencement.
-- B. It constitutionalises the numerical breadth of every maritime zone.
-- C. It vests specified maritime lands, minerals and resources in the Union, while zone limits come from parliamentary law.
-- D. It transfers every coastal land parcel to the Union.
+**Answer: B.**
 
-**Answer: C**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "Compensation for Fundamental-Right violations." contradicts the controlling rule. Article 296 governs ownerless or reverting property and its Union/State vesting. [Option A, MCQ 2]
+- **B — Correct:** This option correctly states "Escheat, lapse and bona vacantia.". Article 296 governs ownerless or reverting property and its Union/State vesting. [Option B, MCQ 2]
+- **C — Incorrect:** The proposition "Government contracts and arbitration." contradicts the controlling rule. Article 296 governs ownerless or reverting property and its Union/State vesting. [Option C, MCQ 2]
+- **D — Incorrect:** The proposition "Maritime minerals in the exclusive economic zone." contradicts the controlling rule. Article 296 governs ownerless or reverting property and its Union/State vesting. [Option D, MCQ 2]
 
-**Explanation:** The Constitution creates the vesting rule; statutory law supplies detailed maritime-zone limits.
+**Examiner trap 2:** Ownerless-property vesting is not constitutional compensation.
 
-#### OM4. Article 298 does which of the following?
+### MCQ 3
 
-- A. Makes the President personally liable for government trade.
-- B. Dispenses with Article 299 formalities.
-- C. Creates blanket immunity for public enterprises.
-- D. Extends Union and State executive power to trade, business, property and contracts, subject to constitutional competence controls.
+What is the safest statement about Article 297?
 
-**Answer: D**
+A. It governs State succession at constitutional commencement.
+B. It constitutionalises the numerical breadth of every maritime zone.
+C. It vests specified maritime lands, minerals and resources in the Union, while zone limits come from parliamentary law.
+D. It transfers every coastal land parcel to the Union.
 
-**Explanation:** Article 298 grants capacity, not immunity or authority to ignore Article 299.
+**Answer: C.**
 
-#### OM5. Which is indispensable under Article 299?
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "It governs State succession at constitutional commencement." contradicts the controlling rule. The Constitution creates the vesting rule; statutory law supplies detailed maritime-zone limits. [Option A, MCQ 3]
+- **B — Incorrect:** The proposition "It constitutionalises the numerical breadth of every maritime zone." misroutes the issue: maritime vesting belongs to Article 297. [Option B, MCQ 3]
+- **C — Correct:** This option correctly states "It vests specified maritime lands, minerals and resources in the Union, while zone limits come from parliamentary law.". The Constitution creates the vesting rule; statutory law supplies detailed maritime-zone limits. [Option C, MCQ 3]
+- **D — Incorrect:** The proposition "It transfers every coastal land parcel to the Union." contradicts the controlling rule. The Constitution creates the vesting rule; statutory law supplies detailed maritime-zone limits. [Option D, MCQ 3]
 
-- A. Expression in the President/Governor's name, execution on that behalf, and execution by an authorised person in the prescribed manner.
-- B. Only cabinet approval, even without constitutional form.
-- C. Oral acceptance followed by later audit.
-- D. Only the signature of any gazetted officer.
+**Examiner trap 3:** Do not import statutory maritime distances into Article 297's text.
 
-**Answer: A**
+### MCQ 4
 
-**Explanation:** All three constitutional formalities protect the public exchequer and identify authorised commitment.
+Article 298 does which of the following?
 
-#### OM6. What follows from Article 299(2)?
+A. Makes the President personally liable for government trade.
+B. Dispenses with Article 299 formalities.
+C. Creates blanket immunity for public enterprises.
+D. Extends Union and State executive power to trade, business, property and contracts, subject to constitutional competence controls.
 
-- A. Every unauthorised assurance binds the treasury.
-- B. The President/Governor and authorised executant are not personally liable for a valid official contract.
-- C. The Union or State cannot be sued on the contract.
-- D. The provision bars judicial review of procurement.
+**Answer: D.**
 
-**Answer: B**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "Makes the President personally liable for government trade." fails. The constitutional head is not made personally liable merely because the executive contract is expressed in that office's name. [Option A, MCQ 4]
+- **B — Incorrect:** The proposition "Dispenses with Article 299 formalities." fails. Article 299 requires constitutional form and authorisation; informal performance or status cannot replace those safeguards. [Option B, MCQ 4]
+- **C — Incorrect:** The proposition "Creates blanket immunity for public enterprises." contradicts the controlling rule. Article 298 grants capacity, not immunity or authority to ignore Article 299. [Option C, MCQ 4]
+- **D — Correct:** This option correctly states "Extends Union and State executive power to trade, business, property and contracts, subject to constitutional competence controls.". Article 298 grants capacity, not immunity or authority to ignore Article 299. [Option D, MCQ 4]
 
-**Explanation:** Personal protection of office-holders does not erase governmental contractual liability.
+**Examiner trap 4:** Executive capacity does not create immunity from legislative or constitutional control.
 
-#### OM7. A purported government contract fails Article 299 form, but the State knowingly enjoys a lawful non-gratuitous benefit. What is the correct analysis?
+### MCQ 5
 
-- A. The defective contract becomes valid automatically.
-- B. The supplier must always receive the promised contract price.
-- C. The contract claim may fail, while an independent Contract Act section 70 restitution claim may be proved.
-- D. Article 300A validates the bargain.
+Which is indispensable under Article 299?
 
-**Answer: C**
+A. Expression in the President/Governor's name, execution on that behalf, and execution by an authorised person in the prescribed manner.
+B. Only cabinet approval, even without constitutional form.
+C. Oral acceptance followed by later audit.
+D. Only the signature of any gazetted officer.
 
-**Explanation:** Restitution reverses unjust enrichment; it neither validates the defective contract nor fixes contract-price recovery.
+**Answer: A.**
 
-#### OM8. Which case is the standard restitution anchor for a benefit accepted by government despite defective contract form?
+**Option-specific explanations:**
+- **A — Correct:** This option correctly states "Expression in the President/Governor's name, execution on that behalf, and execution by an authorised person in the prescribed manner.". All three constitutional formalities protect the public exchequer and identify authorised commitment. [Option A, MCQ 5]
+- **B — Incorrect:** The proposition "Only cabinet approval, even without constitutional form." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option B, MCQ 5]
+- **C — Incorrect:** The proposition "Oral acceptance followed by later audit." contradicts the controlling rule. All three constitutional formalities protect the public exchequer and identify authorised commitment. [Option C, MCQ 5]
+- **D — Incorrect:** The proposition "Only the signature of any gazetted officer." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option D, MCQ 5]
 
-- A. State of U.P. v. Raj Narain (1975).
-- B. Nilabati Behera v. State of Orissa (1993).
-- C. Kasturi Lal v. State of Uttar Pradesh (1964).
-- D. B.K. Mondal & Sons (1961).
+**Examiner trap 5:** All Article 299 elements matter; designation alone is insufficient.
 
-**Answer: D**
+### MCQ 6
 
-**Explanation:** B.K. Mondal & Sons (1961) explains the independent non-gratuitous-benefit route.
+What follows from Article 299(2)?
 
-#### OM9. Under Article 300 and CPC section 79, the proper defendant in a Union matter is generally:
+A. Every unauthorised assurance binds the treasury.
+B. The President/Governor and authorised executant are not personally liable for a valid official contract.
+C. The Union or State cannot be sued on the contract.
+D. The provision bars judicial review of procurement.
 
-- A. The Union of India.
-- B. The concerned minister personally.
-- C. The Cabinet Secretariat.
-- D. The President personally.
+**Answer: B.**
 
-**Answer: A**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "Every unauthorised assurance binds the treasury." contradicts the controlling rule. Personal protection of office-holders does not erase governmental contractual liability. [Option A, MCQ 6]
+- **B — Correct:** This option correctly states "The President/Governor and authorised executant are not personally liable for a valid official contract.". Personal protection of office-holders does not erase governmental contractual liability. [Option B, MCQ 6]
+- **C — Incorrect:** The proposition "The Union or State cannot be sued on the contract." contradicts the controlling rule. Personal protection of office-holders does not erase governmental contractual liability. [Option C, MCQ 6]
+- **D — Incorrect:** The proposition "The provision bars judicial review of procurement." contradicts the controlling rule. Personal protection of office-holders does not erase governmental contractual liability. [Option D, MCQ 6]
 
-**Explanation:** Article 300 and CPC section 79 use the Union of India as the juristic party.
+**Examiner trap 6:** Personal protection of the executant does not bar a suit against government.
 
-#### OM10. What is CPC section 80's ordinary function?
+### MCQ 7
 
-- A. It grants the President criminal immunity.
-- B. It requires specified prior notice before covered suits against government or public officers, subject to an urgent-relief route.
-- C. It validates defective Article 299 contracts.
-- D. It abolishes governmental tort liability.
+A purported government contract fails Article 299 form, but the State knowingly enjoys a lawful non-gratuitous benefit. What is the correct analysis?
 
-**Answer: B**
+A. The defective contract becomes valid automatically.
+B. The supplier must always receive the promised contract price.
+C. The contract claim may fail, while an independent Contract Act section 70 restitution claim may be proved.
+D. Article 300A validates the bargain.
 
-**Explanation:** Section 80 is a procedural notice provision, not substantive sovereign immunity.
+**Answer: C.**
 
-#### OM11. Which statement about CPC section 80(2) is correct?
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "The defective contract becomes valid automatically." fails. No automatic cure or liability follows; the claimant must establish the ingredients of the selected legal route. [Option A, MCQ 7]
+- **B — Incorrect:** The proposition "The supplier must always receive the promised contract price." fails. The absolute wording ignores the provision's elements, exceptions and route-specific proof. [Option B, MCQ 7]
+- **C — Correct:** This option correctly states "The contract claim may fail, while an independent Contract Act section 70 restitution claim may be proved.". Restitution reverses unjust enrichment; it neither validates the defective contract nor fixes contract-price recovery. [Option C, MCQ 7]
+- **D — Incorrect:** The proposition "Article 300A validates the bargain." fails. Article 300A governs deprivation of property by authority of law, not contract validation or tort procedure. [Option D, MCQ 7]
 
-- A. It applies only to criminal prosecutions.
-- B. It makes two-month notice a constitutional requirement.
-- C. With court leave, urgent or immediate relief may be sought without prior notice, but relief follows an opportunity to government to show cause.
-- D. It eliminates judicial control over urgent suits.
+**Examiner trap 7:** A section 70 benefit claim is not enforcement of the invalid bargain.
 
-**Answer: C**
+### MCQ 8
 
-**Explanation:** The subsection creates a controlled exception for urgency.
+Which statement correctly relates *Bhikraj Jaipuria*, *Mulamchand* and *B.K. Mondal & Sons*?
 
-#### OM12. What was the broad significance of P & O Steam Navigation (1861)?
+A. All three held that officer knowledge cures Article 299 defects.
+B. All three converted Article 300A into a contract remedy.
+C. They held that a defective bargain is enforceable whenever government benefits.
+D. *Bhikraj Jaipuria* and *Mulamchand* enforce mandatory form, while *B.K. Mondal & Sons* illustrates an independent section 70 benefit claim.
 
-- A. It created constitutional tort under Article 32.
-- B. It interpreted Article 300A's seven safeguards.
-- C. It established RTI's public-interest override.
-- D. It supplied the colonial sovereign/non-sovereign-function distinction later used in State-tort analysis.
+**Answer: D.**
 
-**Answer: D**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "All three held that officer knowledge cures Article 299 defects." fails. Article 299 requires constitutional form and authorisation; informal performance or status cannot replace those safeguards. [Option A, MCQ 8]
+- **B — Incorrect:** The proposition "All three converted Article 300A into a contract remedy." fails. Article 300A governs deprivation of property by authority of law, not contract validation or tort procedure. [Option B, MCQ 8]
+- **C — Incorrect:** The proposition "They held that a defective bargain is enforceable whenever government benefits." fails. The categorical denial is overbroad because modern doctrine preserves a fact- and source-specific inquiry. [Option C, MCQ 8]
+- **D — Correct:** This option correctly states "*Bhikraj Jaipuria* and *Mulamchand* enforce mandatory form, while *B.K. Mondal & Sons* illustrates an independent section 70 benefit claim.". The cases preserve mandatory Article 299 form while keeping restitution analytically independent. [Option D, MCQ 8]
 
-**Explanation:** The case is historical groundwork, not the modern constitutional-compensation doctrine.
+**Examiner trap 8:** Mandatory form and restitution must be stated as separate propositions.
 
-#### OM13. Which pair is correctly matched?
+### MCQ 9
 
-- A. State of Rajasthan v. Vidyawati (1962) — liability for ordinary operational negligence.
-- B. Kasturi Lal v. State of Uttar Pradesh (1964) — complete abolition of sovereign immunity.
-- C. Nilabati Behera v. State of Orissa (1993) — Article 299 contract formalities.
-- D. N. Nagendra Rao & Co. (1994) — expansion of blanket immunity.
+Under Article 300 and CPC section 79, the proper defendant in a Union matter is generally:
 
-**Answer: A**
+A. The Union of India.
+B. The concerned minister personally.
+C. The Cabinet Secretariat.
+D. The President personally.
 
-**Explanation:** State of Rajasthan v. Vidyawati (1962) is the classic vehicle-negligence liability decision.
+**Answer: A.**
 
-#### OM14. What is the exam-safe use of Kasturi Lal v. State of Uttar Pradesh (1964)?
+**Option-specific explanations:**
+- **A — Correct:** This option correctly states "The Union of India.". Article 300 and CPC section 79 use the Union of India as the juristic party. [Option A, MCQ 9]
+- **B — Incorrect:** The proposition "The concerned minister personally." contradicts the controlling rule. Article 300 and CPC section 79 use the Union of India as the juristic party. [Option B, MCQ 9]
+- **C — Incorrect:** The proposition "The Cabinet Secretariat." contradicts the controlling rule. Article 300 and CPC section 79 use the Union of India as the juristic party. [Option C, MCQ 9]
+- **D — Incorrect:** The proposition "The President personally." fails. The constitutional head is not made personally liable merely because the executive contract is expressed in that office's name. [Option D, MCQ 9]
 
-- A. It converted right to property into a Fundamental Right.
-- B. It represents the older police-sovereign immunity line, now strongly narrowed and criticised.
-- C. It proves that police action can never attract public-law compensation.
-- D. It held CPC notice unnecessary in every case.
+**Examiner trap 9:** Name the juristic government, not the office-holder, as the ordinary party.
 
-**Answer: B**
+### MCQ 10
 
-**Explanation:** The case must be placed in a trajectory rather than stated as an unlimited current rule.
+What is CPC section 80's ordinary function?
 
-#### OM15. N. Nagendra Rao & Co. (1994) is best used for which proposition?
+A. It grants the President criminal immunity.
+B. It requires specified prior notice before covered suits against government or public officers, subject to an urgent-relief route.
+C. It validates defective Article 299 contracts.
+D. It abolishes governmental tort liability.
 
-- A. Article 299 is directory rather than mandatory.
-- B. The State cannot conduct business.
-- C. Broad sovereign immunity is untenable in a welfare State and any residue is confined to narrow inalienable functions.
-- D. Every official is personally liable for every policy decision.
+**Answer: B.**
 
-**Answer: C**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "It grants the President criminal immunity." fails. The constitutional head is not made personally liable merely because the executive contract is expressed in that office's name. [Option A, MCQ 10]
+- **B — Correct:** This option correctly states "It requires specified prior notice before covered suits against government or public officers, subject to an urgent-relief route.". Section 80 is a procedural notice provision, not substantive sovereign immunity. [Option B, MCQ 10]
+- **C — Incorrect:** The proposition "It validates defective Article 299 contracts." fails. Article 299 requires constitutional form and authorisation; informal performance or status cannot replace those safeguards. [Option C, MCQ 10]
+- **D — Incorrect:** The proposition "It abolishes governmental tort liability." contradicts the controlling rule. Section 80 is a procedural notice provision, not substantive sovereign immunity. [Option D, MCQ 10]
 
-**Explanation:** The judgment narrows immunity without supplying a universal no-immunity formula.
+**Examiner trap 10:** Prior notice is a procedural gateway, not the cause of action.
 
-#### OM16. Which route principally vindicates a Fundamental-Right violation by State action?
+### MCQ 11
 
-- A. Only a private contract action.
-- B. Article 299 restitution.
-- C. Escheat under Article 296.
-- D. Constitutional tort or public-law compensation under writ jurisdiction.
+Which statement about CPC section 80(2) is correct?
 
-**Answer: D**
+A. It applies only to criminal prosecutions.
+B. It makes two-month notice a constitutional requirement.
+C. With court leave, urgent or immediate relief may be sought without prior notice, but relief follows an opportunity to government to show cause.
+D. It eliminates judicial control over urgent suits.
 
-**Explanation:** Public-law compensation is analytically distinct from ordinary private damages.
+**Answer: C.**
 
-#### OM17. Which case most directly anchors public-law compensation for a Fundamental-Right violation?
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "It applies only to criminal prosecutions." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option A, MCQ 11]
+- **B — Incorrect:** The proposition "It makes two-month notice a constitutional requirement." contradicts the controlling rule. The subsection creates a controlled exception for urgency. [Option B, MCQ 11]
+- **C — Correct:** This option correctly states "With court leave, urgent or immediate relief may be sought without prior notice, but relief follows an opportunity to government to show cause.". The subsection creates a controlled exception for urgency. [Option C, MCQ 11]
+- **D — Incorrect:** The proposition "It eliminates judicial control over urgent suits." contradicts the controlling rule. The subsection creates a controlled exception for urgency. [Option D, MCQ 11]
 
-- A. Nilabati Behera v. State of Orissa (1993).
-- B. K.T. Plantation (2011).
-- C. B.K. Mondal & Sons (1961).
-- D. Mulamchand v. State of Madhya Pradesh (1968).
+**Examiner trap 11:** Urgency does not remove court supervision or the show-cause opportunity.
 
-**Answer: A**
+### MCQ 12
 
-**Explanation:** Nilabati Behera v. State of Orissa (1993) distinguishes constitutional compensation from private tort damages.
+What was the broad significance of P & O Steam Navigation (1861)?
 
-#### OM18. State vicarious liability ordinarily requires attention to:
+A. It created constitutional tort under Article 32.
+B. It interpreted Article 300A's seven safeguards.
+C. It established RTI's public-interest override.
+D. It supplied the colonial sovereign/non-sovereign-function distinction later used in State-tort analysis.
 
-- A. Only whether the function was labelled sovereign.
-- B. The employee's tort, course-of-employment nexus, causation, statutory protection and remedy.
-- C. Only the officer's designation.
-- D. Only proof of public expenditure.
+**Answer: D.**
 
-**Answer: B**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "It created constitutional tort under Article 32." contradicts the controlling rule. The case is historical groundwork, not the modern constitutional-compensation doctrine. [Option A, MCQ 12]
+- **B — Incorrect:** The proposition "It interpreted Article 300A's seven safeguards." fails. Article 300A governs deprivation of property by authority of law, not contract validation or tort procedure. [Option B, MCQ 12]
+- **C — Incorrect:** The proposition "It established RTI's public-interest override." contradicts the controlling rule. The case is historical groundwork, not the modern constitutional-compensation doctrine. [Option C, MCQ 12]
+- **D — Correct:** This option correctly states "It supplied the colonial sovereign/non-sovereign-function distinction later used in State-tort analysis.". The case is historical groundwork, not the modern constitutional-compensation doctrine. [Option D, MCQ 12]
 
-**Explanation:** Institutional liability and personal consequences require a fact- and source-specific analysis.
+**Examiner trap 12:** A colonial distinction is history, not a complete modern answer.
 
-#### OM19. Which statement about personal and State liability is correct?
+### MCQ 13
 
-- A. Official status converts mala fides into protected action.
-- B. Personal fault always excludes institutional responsibility.
-- C. State liability can coexist with disciplinary, criminal or personal civil consequences for the official.
-- D. State liability automatically extinguishes personal fault.
+Which pair is correctly matched?
 
-**Answer: C**
+A. State of Rajasthan v. Vidyawati (1962) — liability for ordinary operational negligence.
+B. Kasturi Lal v. State of Uttar Pradesh (1964) — complete abolition of sovereign immunity.
+C. Nilabati Behera v. State of Orissa (1993) — Article 299 contract formalities.
+D. N. Nagendra Rao & Co. (1994) — expansion of blanket immunity.
 
-**Explanation:** Different liabilities serve different purposes and may coexist.
+**Answer: A.**
 
-#### OM20. Article 361 principally protects:
+**Option-specific explanations:**
+- **A — Correct:** This option correctly states "State of Rajasthan v. Vidyawati (1962) — liability for ordinary operational negligence.". State of Rajasthan v. Vidyawati (1962) is the classic vehicle-negligence liability decision. [Option A, MCQ 13]
+- **B — Incorrect:** The proposition "Kasturi Lal v. State of Uttar Pradesh (1964) — complete abolition of sovereign immunity." fails. *Kasturi Lal* represents the older police-sovereign immunity line and cannot support the different proposition stated. [Option B, MCQ 13]
+- **C — Incorrect:** The proposition "Nilabati Behera v. State of Orissa (1993) — Article 299 contract formalities." fails. Article 299 requires constitutional form and authorisation; informal performance or status cannot replace those safeguards. [Option C, MCQ 13]
+- **D — Incorrect:** The proposition "N. Nagendra Rao & Co. (1994) — expansion of blanket immunity." contradicts the controlling rule. State of Rajasthan v. Vidyawati (1962) is the classic vehicle-negligence liability decision. [Option D, MCQ 13]
 
-- A. All official documents from disclosure.
-- B. The State treasury from contractual claims.
-- C. Every civil servant from every suit.
-- D. The President and Governor through specified personal immunities while leaving governmental action reviewable.
+**Examiner trap 13:** Use *Vidyawati* for ordinary operational negligence, not every governmental act.
 
-**Answer: D**
+### MCQ 14
 
-**Explanation:** Office-holder protection must not be mistaken for governmental immunity.
+What is the exam-safe use of Kasturi Lal v. State of Uttar Pradesh (1964)?
 
-#### OM21. Which source governs personal contract protection for an authorised government signatory?
+A. It converted right to property into a Fundamental Right.
+B. It represents the older police-sovereign immunity line, now strongly narrowed and criticised.
+C. It proves that police action can never attract public-law compensation.
+D. It held CPC notice unnecessary in every case.
 
-- A. Article 299(2).
-- B. CPC section 80.
-- C. BSA section 129.
-- D. Article 361.
+**Answer: B.**
 
-**Answer: A**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "It converted right to property into a Fundamental Right." misstates the present status: Article 300A is a constitutional right outside Part III. [Option A, MCQ 14]
+- **B — Correct:** This option correctly states "It represents the older police-sovereign immunity line, now strongly narrowed and criticised.". The case must be placed in a trajectory rather than stated as an unlimited current rule. [Option B, MCQ 14]
+- **C — Incorrect:** The proposition "It proves that police action can never attract public-law compensation." fails. The categorical denial is overbroad because modern doctrine preserves a fact- and source-specific inquiry. [Option C, MCQ 14]
+- **D — Incorrect:** The proposition "It held CPC notice unnecessary in every case." contradicts the controlling rule. The case must be placed in a trajectory rather than stated as an unlimited current rule. [Option D, MCQ 14]
 
-**Explanation:** The source firewall matters: contract, head-of-State, procedure and evidence protections differ.
+**Examiner trap 14:** Place *Kasturi Lal* in its later narrowing and critique.
 
-#### OM22. BNSS section 218 is relevant to:
+### MCQ 15
 
-- A. Disclosure of State-affairs records.
-- B. Previous sanction before cognizance of specified official-duty offences involving protected judges or public servants, subject to statutory exceptions.
-- C. Automatic compensation for custodial wrongs.
-- D. Civil notice before every contract suit.
+N. Nagendra Rao & Co. (1994) is best used for which proposition?
 
-**Answer: B**
+A. Article 299 is directory rather than mandatory.
+B. The State cannot conduct business.
+C. Broad sovereign immunity is untenable in a welfare State and any residue is confined to narrow inalienable functions.
+D. Every official is personally liable for every policy decision.
 
-**Explanation:** Criminal-procedure sanction is separate from civil notice and constitutional immunity.
+**Answer: C.**
 
-#### OM23. What is Article 300A's status?
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "Article 299 is directory rather than mandatory." fails. Article 299 requires constitutional form and authorisation; informal performance or status cannot replace those safeguards. [Option A, MCQ 15]
+- **B — Incorrect:** The proposition "The State cannot conduct business." contradicts the controlling rule. The judgment narrows immunity without supplying a universal no-immunity formula. [Option B, MCQ 15]
+- **C — Correct:** This option correctly states "Broad sovereign immunity is untenable in a welfare State and any residue is confined to narrow inalienable functions.". The judgment narrows immunity without supplying a universal no-immunity formula. [Option C, MCQ 15]
+- **D — Incorrect:** The proposition "Every official is personally liable for every policy decision." contradicts the controlling rule. The judgment narrows immunity without supplying a universal no-immunity formula. [Option D, MCQ 15]
 
-- A. A Fundamental Right available only to citizens.
-- B. Only an ordinary statutory right.
-- C. A constitutional right available to every person, outside Part III.
-- D. A Directive Principle enforceable only by legislation.
+**Examiner trap 15:** Do not replace a narrow residual-immunity formulation with total abolition.
 
-**Answer: C**
+### MCQ 16
 
-**Explanation:** Article 300A is constitutional but not Fundamental, and its text uses 'person'.
+Which route principally vindicates a Fundamental-Right violation by State action?
 
-#### OM24. Which is necessary for deprivation under Article 300A?
+A. Only a private contract action.
+B. Article 299 restitution.
+C. Escheat under Article 296.
+D. Constitutional tort or public-law compensation under writ jurisdiction.
 
-- A. A presidential ordinance in every case.
-- B. Consent of the property owner in every acquisition.
-- C. A departmental file noting alone.
-- D. Authority of law rather than unsupported executive action.
+**Answer: D.**
 
-**Answer: D**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "Only a private contract action." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option A, MCQ 16]
+- **B — Incorrect:** The proposition "Article 299 restitution." fails. Article 299 requires constitutional form and authorisation; informal performance or status cannot replace those safeguards. [Option B, MCQ 16]
+- **C — Incorrect:** The proposition "Escheat under Article 296." fails. Article 296 concerns escheat, lapse and bona vacantia, not the subject assigned here. [Option C, MCQ 16]
+- **D — Correct:** This option correctly states "Constitutional tort or public-law compensation under writ jurisdiction.". Public-law compensation is analytically distinct from ordinary private damages. [Option D, MCQ 16]
 
-**Explanation:** Lawful authority and constitutionally fair acquisition procedure are essential.
+**Examiner trap 16:** Public-law compensation requires a constitutional wrong, not merely a bad bargain.
 
-#### OM25. K.T. Plantation is correctly associated with:
+### MCQ 17
 
-- A. Public purpose and the rejection of arbitrary, confiscatory or illusory-compensation deprivation.
-- B. Official-secrets privilege.
-- C. Article 361 criminal immunity.
-- D. Absolute market-value compensation in every case.
+Which case most directly anchors public-law compensation for a Fundamental-Right violation?
 
-**Answer: A**
+A. Nilabati Behera v. State of Orissa (1993).
+B. K.T. Plantation (2011).
+C. B.K. Mondal & Sons (1961).
+D. Mulamchand v. State of Madhya Pradesh (1968).
 
-**Explanation:** The judgment qualifies, rather than absolutises, compensation under Article 300A.
+**Answer: A.**
 
-#### OM26. Vidya Devi is best cited when:
+**Option-specific explanations:**
+- **A — Correct:** This option correctly states "Nilabati Behera v. State of Orissa (1993).". Nilabati Behera v. State of Orissa (1993) distinguishes constitutional compensation from private tort damages. [Option A, MCQ 17]
+- **B — Incorrect:** The proposition "K.T. Plantation (2011)." fails. *K.T. Plantation* addresses Article 300A public purpose and non-confiscatory compensation doctrine, not this unrelated proposition. [Option B, MCQ 17]
+- **C — Incorrect:** The proposition "B.K. Mondal & Sons (1961)." fails. *B.K. Mondal & Sons* illustrates section 70 restitution; it does not validate a defective government contract. [Option C, MCQ 17]
+- **D — Incorrect:** The proposition "Mulamchand v. State of Madhya Pradesh (1968)." fails. *Mulamchand* insists on mandatory Article 299 form and treats restitution as separately proved. [Option D, MCQ 17]
 
-- A. A valid Article 299 contract is breached.
-- B. The executive forcibly occupies property without lawful acquisition and compensation.
-- C. A Governor claims immunity during office.
-- D. Ownerless property vests under Article 296.
+**Examiner trap 17:** A rights-compensation case does not establish Article 299 or Article 300A doctrine.
 
-**Answer: B**
+### MCQ 18
 
-**Explanation:** The case treats unsupported State dispossession as an Article 300A violation.
+State vicarious liability ordinarily requires attention to:
 
-#### OM27. Which set reproduces the 2024 Article 300A procedural framework?
+A. Only whether the function was labelled sovereign.
+B. The employee's tort, course-of-employment nexus, causation, statutory protection and remedy.
+C. Only the officer's designation.
+D. Only proof of public expenditure.
 
-- A. Notice, arrest, sanction, prosecution, conviction, sentence and mercy.
-- B. Possession, prescription, secrecy, urgency, waiver, immunity and estoppel.
-- C. Notice, hearing, reasoned decision, public purpose, fair compensation/restitution, efficient process and conclusion.
-- D. Contract, restitution, tort, writ, appeal, review and pardon.
+**Answer: B.**
 
-**Answer: C**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "Only whether the function was labelled sovereign." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option A, MCQ 18]
+- **B — Correct:** This option correctly states "The employee's tort, course-of-employment nexus, causation, statutory protection and remedy.". Institutional liability and personal consequences require a fact- and source-specific analysis. [Option B, MCQ 18]
+- **C — Incorrect:** The proposition "Only the officer's designation." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option C, MCQ 18]
+- **D — Incorrect:** The proposition "Only proof of public expenditure." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option D, MCQ 18]
 
-**Explanation:** Bimal Kumar Shah organises seven minimum property sub-rights.
+**Examiner trap 18:** Vicarious liability needs the employment nexus and ordinary tort elements.
 
-#### OM28. What does the 'right of conclusion' in the Bimal Kumar Shah framework emphasise?
+### MCQ 19
 
-- A. Compensation is unnecessary after notice.
-- B. Every acquisition must end in return of the land.
-- C. Courts may never review delay.
-- D. Acquisition proceedings must reach lawful completion rather than leave the owner in indefinite limbo.
+Which statement about personal and State liability is correct?
 
-**Answer: D**
+A. Official status converts mala fides into protected action.
+B. Personal fault always excludes institutional responsibility.
+C. State liability can coexist with disciplinary, criminal or personal civil consequences for the official.
+D. State liability automatically extinguishes personal fault.
 
-**Explanation:** The safeguard addresses completion and legal finality of the acquisition process.
+**Answer: C.**
 
-#### OM29. BSA section 129 concerns:
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "Official status converts mala fides into protected action." contradicts the controlling rule. Different liabilities serve different purposes and may coexist. [Option A, MCQ 19]
+- **B — Incorrect:** The proposition "Personal fault always excludes institutional responsibility." fails. The absolute wording ignores the provision's elements, exceptions and route-specific proof. [Option B, MCQ 19]
+- **C — Correct:** This option correctly states "State liability can coexist with disciplinary, criminal or personal civil consequences for the official.". Different liabilities serve different purposes and may coexist. [Option C, MCQ 19]
+- **D — Incorrect:** The proposition "State liability automatically extinguishes personal fault." fails. No automatic cure or liability follows; the claimant must establish the ingredients of the selected legal route. [Option D, MCQ 19]
 
-- A. Unpublished official records relating to affairs of State.
-- B. Government-contract execution.
-- C. Civil-suit notice.
-- D. Right-to-property compensation.
+**Examiner trap 19:** Institutional and personal responsibility can coexist.
 
-**Answer: A**
+### MCQ 20
 
-**Explanation:** It is an evidentiary privilege provision, not a general RTI exemption.
+Article 361 principally protects:
 
-#### OM30. BSA section 130 concerns:
+A. All official documents from disclosure.
+B. The State treasury from contractual claims.
+C. Every civil servant from every suit.
+D. The President and Governor through specified personal immunities while leaving governmental action reviewable.
 
-- A. Maritime resources.
-- B. Official communications whose compelled disclosure would injure public interest.
-- C. Union-State property succession.
-- D. Arbitration awards.
+**Answer: D.**
 
-**Answer: B**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "All official documents from disclosure." contradicts the controlling rule. Office-holder protection must not be mistaken for governmental immunity. [Option A, MCQ 20]
+- **B — Incorrect:** The proposition "The State treasury from contractual claims." contradicts the controlling rule. Office-holder protection must not be mistaken for governmental immunity. [Option B, MCQ 20]
+- **C — Incorrect:** The proposition "Every civil servant from every suit." contradicts the controlling rule. Office-holder protection must not be mistaken for governmental immunity. [Option C, MCQ 20]
+- **D — Correct:** This option correctly states "The President and Governor through specified personal immunities while leaving governmental action reviewable.". Office-holder protection must not be mistaken for governmental immunity. [Option D, MCQ 20]
 
-**Explanation:** The section addresses official confidence in evidence law.
+**Examiner trap 20:** Article 361 protects the office-holder in specified respects, not every State action.
 
-#### OM31. State of U.P. v. Raj Narain supports which proposition?
+### MCQ 21
 
-- A. Every official document must always be disclosed.
-- B. Article 299 form is optional.
-- C. State-affairs secrecy is not absolute; public interest, right to know and judicial scrutiny matter.
-- D. RTI section 8 was unconstitutional.
+Which source governs personal contract protection for an authorised government signatory?
 
-**Answer: C**
+A. Article 299(2).
+B. CPC section 80.
+C. BSA section 129.
+D. Article 361.
 
-**Explanation:** The decision rejects an unreviewable secrecy claim while retaining public-interest balancing.
+**Answer: A.**
 
-#### OM32. S.P. Gupta is safely used for:
+**Option-specific explanations:**
+- **A — Correct:** This option correctly states "Article 299(2).". The source firewall matters: contract, head-of-State, procedure and evidence protections differ. [Option A, MCQ 21]
+- **B — Incorrect:** The proposition "CPC section 80." contradicts the controlling rule. The source firewall matters: contract, head-of-State, procedure and evidence protections differ. [Option B, MCQ 21]
+- **C — Incorrect:** The proposition "BSA section 129." contradicts the controlling rule. The source firewall matters: contract, head-of-State, procedure and evidence protections differ. [Option C, MCQ 21]
+- **D — Incorrect:** The proposition "Article 361." contradicts the controlling rule. The source firewall matters: contract, head-of-State, procedure and evidence protections differ. [Option D, MCQ 21]
 
-- A. A complete tort-liability code.
-- B. A rule validating oral government contracts.
-- C. An absolute disclosure command regardless of national security.
-- D. A presumption favouring open government, qualified by document-specific public-interest harm.
+**Examiner trap 21:** Use Article 299(2), not a general immunity label, for the authorised executant.
 
-**Answer: D**
+### MCQ 22
 
-**Explanation:** Open government is strong but not absolute.
+BNSS section 218 is relevant to:
 
-#### OM33. RTI section 8(1)(a) protects information where disclosure would prejudicially affect specified interests including:
+A. Disclosure of State-affairs records.
+B. Previous sanction before cognizance of specified official-duty offences involving protected judges or public servants, subject to statutory exceptions.
+C. Automatic compensation for custodial wrongs.
+D. Civil notice before every contract suit.
 
-- A. Sovereignty and integrity, security, strategic or scientific/economic interests and foreign relations.
-- B. All cabinet-related information forever.
-- C. Every record marked confidential by an officer.
-- D. Every embarrassing administrative fact.
+**Answer: B.**
 
-**Answer: A**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "Disclosure of State-affairs records." contradicts the controlling rule. Criminal-procedure sanction is separate from civil notice and constitutional immunity. [Option A, MCQ 22]
+- **B — Correct:** This option correctly states "Previous sanction before cognizance of specified official-duty offences involving protected judges or public servants, subject to statutory exceptions.". Criminal-procedure sanction is separate from civil notice and constitutional immunity. [Option B, MCQ 22]
+- **C — Incorrect:** The proposition "Automatic compensation for custodial wrongs." fails. No automatic cure or liability follows; the claimant must establish the ingredients of the selected legal route. [Option C, MCQ 22]
+- **D — Incorrect:** The proposition "Civil notice before every contract suit." contradicts the controlling rule. Criminal-procedure sanction is separate from civil notice and constitutional immunity. [Option D, MCQ 22]
 
-**Explanation:** The exemption is harm- and interest-specific, not label-based.
+**Examiner trap 22:** Criminal sanction, civil notice and constitutional immunity are distinct sources.
 
-#### OM34. What is the function of RTI section 8(2)?
+### MCQ 23
 
-- A. It repeals Article 300A.
-- B. It permits disclosure where public interest outweighs the harm to protected interests.
-- C. It creates blanket secrecy for affairs of State.
-- D. It makes CPC notice optional.
+What is Article 300A's status?
 
-**Answer: B**
+A. A Fundamental Right available only to citizens.
+B. Only an ordinary statutory right.
+C. A constitutional right available to every person, outside Part III.
+D. A Directive Principle enforceable only by legislation.
 
-**Explanation:** The public-interest override is central to calibrated disclosure.
+**Answer: C.**
 
-#### OM35. RTI section 22 means:
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "A Fundamental Right available only to citizens." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option A, MCQ 23]
+- **B — Incorrect:** The proposition "Only an ordinary statutory right." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option B, MCQ 23]
+- **C — Correct:** This option correctly states "A constitutional right available to every person, outside Part III.". Article 300A is constitutional but not Fundamental, and its text uses 'person'. [Option C, MCQ 23]
+- **D — Incorrect:** The proposition "A Directive Principle enforceable only by legislation." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option D, MCQ 23]
 
-- A. Every prosecution under secrecy law automatically fails.
-- B. Official Secrets Act is wholly repealed.
-- C. The RTI Act prevails over inconsistent provisions, including the Official Secrets Act, subject to RTI's own scheme.
-- D. Evidence privilege and RTI become identical.
+**Examiner trap 23:** Article 300A protects every person but remains outside Part III.
 
-**Answer: C**
+### MCQ 24
 
-**Explanation:** Override resolves inconsistency; it does not erase every other legal field.
+Which is necessary for deprivation under Article 300A?
 
-#### OM36. Which comparison is correct?
+A. A presidential ordinance in every case.
+B. Consent of the property owner in every acquisition.
+C. A departmental file noting alone.
+D. Authority of law rather than unsupported executive action.
 
-- A. An RTI denial conclusively binds every court.
-- B. Both are the same constitutional immunity.
-- C. BSA privilege automatically defeats section 8(2).
-- D. Evidence privilege controls production in adjudication; RTI exemptions control access requests under a separate statute.
+**Answer: D.**
 
-**Answer: D**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "A presidential ordinance in every case." fails. The constitutional head is not made personally liable merely because the executive contract is expressed in that office's name. [Option A, MCQ 24]
+- **B — Incorrect:** The proposition "Consent of the property owner in every acquisition." contradicts the controlling rule. Lawful authority and constitutionally fair acquisition procedure are essential. [Option B, MCQ 24]
+- **C — Incorrect:** The proposition "A departmental file noting alone." contradicts the controlling rule. Lawful authority and constitutionally fair acquisition procedure are essential. [Option C, MCQ 24]
+- **D — Correct:** This option correctly states "Authority of law rather than unsupported executive action.". Lawful authority and constitutionally fair acquisition procedure are essential. [Option D, MCQ 24]
 
-**Explanation:** The legal setting, test, decision-maker and review route differ.
+**Examiner trap 24:** A departmental direction cannot by itself authorise deprivation.
 
-#### OM37. A procurement dispute challenges arbitrary blacklisting rather than payment under the contract. The primary constitutional route is:
+### MCQ 25
 
-- A. Judicial review of legality, fairness and non-arbitrariness, without converting review into ordinary damages adjudication.
-- B. Only section 70 restitution.
-- C. Article 361 personal immunity.
-- D. Article 296 escheat.
+K.T. Plantation is correctly associated with:
 
-**Answer: A**
+A. Public purpose and the rejection of arbitrary, confiscatory or illusory-compensation deprivation.
+B. Official-secrets privilege.
+C. Article 361 criminal immunity.
+D. Absolute market-value compensation in every case.
 
-**Explanation:** Contractual facts can have a distinct public-law legality dimension.
+**Answer: A.**
 
-#### OM38. Which procurement chain is constitutionally sound?
+**Option-specific explanations:**
+- **A — Correct:** This option correctly states "Public purpose and the rejection of arbitrary, confiscatory or illusory-compensation deprivation.". The judgment qualifies, rather than absolutises, compensation under Article 300A. [Option A, MCQ 25]
+- **B — Incorrect:** The proposition "Official-secrets privilege." contradicts the controlling rule. The judgment qualifies, rather than absolutises, compensation under Article 300A. [Option B, MCQ 25]
+- **C — Incorrect:** The proposition "Article 361 criminal immunity." confuses a criminal-procedure question with the civil, contractual or constitutional route being tested. [Option C, MCQ 25]
+- **D — Incorrect:** The proposition "Absolute market-value compensation in every case." is overbroad: Article 300A does not constitutionalise full market value in every statutory deprivation. [Option D, MCQ 25]
 
-- A. Secret criteria; oral award; unauthorised execution; retrospective reasons.
-- B. Need and sanction; transparent criteria; fair competition; reasoned award; Article 299 execution; monitoring, payment and audit.
-- C. Ministerial preference; automatic blacklisting; no hearing.
-- D. Lowest price alone; no quality assessment; no audit.
+**Examiner trap 25:** Do not turn non-illusory compensation doctrine into an automatic market-value formula.
 
-**Answer: B**
+### MCQ 26
 
-**Explanation:** Equality, authority, reasoned choice and fiscal accountability operate together.
+Vidya Devi is best cited when:
 
-#### OM39. Government arbitration is validly founded on:
+A. A valid Article 299 contract is breached.
+B. The executive forcibly occupies property without lawful acquisition and compensation.
+C. A Governor claims immunity during office.
+D. Ownerless property vests under Article 296.
 
-- A. Article 300A alone.
-- B. A court order rewriting a defective contract.
-- C. An authorised and Article 299-compliant agreement containing an arbitration clause.
-- D. Any oral assurance by an official.
+**Answer: B.**
 
-**Answer: C**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "A valid Article 299 contract is breached." fails. Article 299 requires constitutional form and authorisation; informal performance or status cannot replace those safeguards. [Option A, MCQ 26]
+- **B — Correct:** This option correctly states "The executive forcibly occupies property without lawful acquisition and compensation.". The case treats unsupported State dispossession as an Article 300A violation. [Option B, MCQ 26]
+- **C — Incorrect:** The proposition "A Governor claims immunity during office." fails. The Governor's specified personal protection does not erase review of governmental action or the State's own liability. [Option C, MCQ 26]
+- **D — Incorrect:** The proposition "Ownerless property vests under Article 296." fails. Article 296 concerns escheat, lapse and bona vacantia, not the subject assigned here. [Option D, MCQ 26]
 
-**Explanation:** Arbitration cannot cure absence of authority or mandatory constitutional form.
+**Examiner trap 26:** Long State possession cannot be used as a shortcut around acquisition law on *Vidya Devi* facts.
 
-#### OM40. Which statement about arbitration and public law is correct?
+### MCQ 27
 
-- A. Every procurement dispute must be arbitrated.
-- B. Arbitration waives every constitutional objection.
-- C. An arbitral clause removes audit duties.
-- D. Arbitration decides the covered private-law dispute; a separate public-law illegality may remain judicially reviewable.
+Which set reproduces the 2024 Article 300A procedural framework?
 
-**Answer: D**
+A. Notice, arrest, sanction, prosecution, conviction, sentence and mercy.
+B. Possession, prescription, secrecy, urgency, waiver, immunity and estoppel.
+C. Notice, hearing, reasoned decision, public purpose, fair compensation/restitution, efficient process and conclusion.
+D. Contract, restitution, tort, writ, appeal, review and pardon.
 
-**Explanation:** Forum selection does not erase distinct constitutional controls.
+**Answer: C.**
 
-#### OM41. Later State reorganisation liabilities are allocated principally by:
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "Notice, arrest, sanction, prosecution, conviction, sentence and mercy." contradicts the controlling rule. Bimal Kumar Shah organises seven minimum property sub-rights. [Option A, MCQ 27]
+- **B — Incorrect:** The proposition "Possession, prescription, secrecy, urgency, waiver, immunity and estoppel." contradicts the controlling rule. Bimal Kumar Shah organises seven minimum property sub-rights. [Option B, MCQ 27]
+- **C — Correct:** This option correctly states "Notice, hearing, reasoned decision, public purpose, fair compensation/restitution, efficient process and conclusion.". Bimal Kumar Shah organises seven minimum property sub-rights. [Option C, MCQ 27]
+- **D — Incorrect:** The proposition "Contract, restitution, tort, writ, appeal, review and pardon." contradicts the controlling rule. Bimal Kumar Shah organises seven minimum property sub-rights. [Option D, MCQ 27]
 
-- A. The governing reorganisation statute, agreements and transfer instruments.
-- B. The President's personal discretion.
-- C. RTI section 22.
-- D. A universal formula in Article 295.
+**Examiner trap 27:** The seven acquisition safeguards are procedural sub-rights, not criminal-process stages.
 
-**Answer: A**
+### MCQ 28
 
-**Explanation:** Articles 294–295 establish commencement continuity, not a timeless allocation formula.
+What does the 'right of conclusion' in the Bimal Kumar Shah framework emphasise?
 
-#### OM42. Which statement best describes government legal personality?
+A. Compensation is unnecessary after notice.
+B. Every acquisition must end in return of the land.
+C. Courts may never review delay.
+D. Acquisition proceedings must reach lawful completion rather than leave the owner in indefinite limbo.
 
-- A. It prevents succession of liabilities.
-- B. It ensures institutional continuity and suability while separating public obligations from office-holders' personal estates.
-- C. It makes ministers personally own public assets.
-- D. It places government outside ordinary law.
+**Answer: D.**
 
-**Answer: B**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "Compensation is unnecessary after notice." contradicts the controlling rule. The safeguard addresses completion and legal finality of the acquisition process. [Option A, MCQ 28]
+- **B — Incorrect:** The proposition "Every acquisition must end in return of the land." contradicts the controlling rule. The safeguard addresses completion and legal finality of the acquisition process. [Option B, MCQ 28]
+- **C — Incorrect:** The proposition "Courts may never review delay." fails. The categorical denial is overbroad because modern doctrine preserves a fact- and source-specific inquiry. [Option C, MCQ 28]
+- **D — Correct:** This option correctly states "Acquisition proceedings must reach lawful completion rather than leave the owner in indefinite limbo.". The safeguard addresses completion and legal finality of the acquisition process. [Option D, MCQ 28]
 
-**Explanation:** Juristic continuity enables both administration and accountability.
+**Examiner trap 28:** Conclusion means lawful completion, not necessarily return of the land.
 
-#### OM43. India's present State-tort framework is best described as:
+### MCQ 29
 
-- A. Identical to constitutional tort.
-- B. Abolished by Article 300.
-- C. Case-law-heavy and lacking a single comprehensive enacted State-tort code.
-- D. Fully codified by the First Law Commission Report.
+Which statement correctly describes the constitutional transition in property rights?
 
-**Answer: C**
+A. The Forty-fourth Amendment removed Articles 19(1)(f) and 31 from the Fundamental-Rights scheme and inserted Article 300A as a constitutional right of every person.
+B. It converted Article 31 into an absolute right to market-value compensation.
+C. It made property only a contractual right against government.
+D. It authorised deprivation through executive instructions alone.
 
-**Explanation:** The 1956 Law Commission report was recommendatory; it did not itself become legislation.
+**Answer: A.**
 
-#### OM44. What is the strongest reform case for a State-tort statute?
+**Option-specific explanations:**
+- **A — Correct:** This option correctly states "The Forty-fourth Amendment removed Articles 19(1)(f) and 31 from the Fundamental-Rights scheme and inserted Article 300A as a constitutional right of every person.". The Forty-fourth Amendment ended the former Part III property-right structure and inserted Article 300A outside Part III. [Option A, MCQ 29]
+- **B — Incorrect:** The proposition "It converted Article 31 into an absolute right to market-value compensation." is overbroad: Article 300A does not constitutionalise full market value in every statutory deprivation. [Option B, MCQ 29]
+- **C — Incorrect:** The proposition "It made property only a contractual right against government." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option C, MCQ 29]
+- **D — Incorrect:** The proposition "It authorised deprivation through executive instructions alone." contradicts the controlling rule. The Forty-fourth Amendment ended the former Part III property-right structure and inserted Article 300A outside Part III. [Option D, MCQ 29]
 
-- A. Make every official error strict personal liability.
-- B. Replace every writ with arbitration.
-- C. Restore blanket immunity for all official acts.
-- D. Clarify liability, narrow exceptional immunity, preserve rights compensation and improve institutional risk management.
+**Examiner trap 29:** Remember both deletions and insertion in the Forty-fourth Amendment transition.
 
-**Answer: D**
+### MCQ 30
 
-**Explanation:** Reform should combine compensation, predictable limits and sound administration.
+Which procedural statement is correct for a covered civil claim against government?
 
-#### OM45. Which answer structure best fits a sovereign-immunity question?
+A. Section 80 notice permanently suspends limitation and section 82 cancels the decree.
+B. Limitation Act section 15(2) excludes the legally required notice period, while CPC section 82 postpones execution until the qualifying decree remains unsatisfied for three months.
+C. Section 80(2) permits urgent relief without court leave.
+D. Section 79 makes the concerned minister the necessary defendant.
 
-- A. Article 300 baseline; colonial distinction; Kasturi Lal v. State of Uttar Pradesh (1964); narrowing cases; constitutional tort; qualified reform verdict.
-- B. Article 300A only; discuss property prices.
-- C. List cases without doctrinal movement or remedy distinction.
-- D. Article 361 only; conclude complete immunity.
+**Answer: B.**
 
-**Answer: A**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "Section 80 notice permanently suspends limitation and section 82 cancels the decree." contradicts the controlling rule. Notice-time exclusion and the three-month execution boundary are distinct statutory calculations. [Option A, MCQ 30]
+- **B — Correct:** This option correctly states "Limitation Act section 15(2) excludes the legally required notice period, while CPC section 82 postpones execution until the qualifying decree remains unsatisfied for three months.". Notice-time exclusion and the three-month execution boundary are distinct statutory calculations. [Option B, MCQ 30]
+- **C — Incorrect:** The proposition "Section 80(2) permits urgent relief without court leave." contradicts the controlling rule. Notice-time exclusion and the three-month execution boundary are distinct statutory calculations. [Option C, MCQ 30]
+- **D — Incorrect:** The proposition "Section 79 makes the concerned minister the necessary defendant." contradicts the controlling rule. Notice-time exclusion and the three-month execution boundary are distinct statutory calculations. [Option D, MCQ 30]
 
-**Explanation:** A trajectory plus remedy firewall answers both doctrine and current accountability.
+**Examiner trap 30:** Notice-time exclusion and delayed execution answer different procedural stages.
 
-#### OM46. Which answer structure best fits a government-contract question?
+### MCQ 31
 
-- A. Only Contract Act offer and acceptance.
-- B. Article 298 capacity; Article 299 form; personal protection; defective-contract consequence; restitution distinction; accountability verdict.
-- C. Only procurement policy without constitutional form.
-- D. Article 300A; RTI; emergency powers.
+Which comparison is legally safest under Article 300A?
 
-**Answer: B**
+A. Acquisition and regulation are identical because both affect property.
+B. Requisition permanently transfers title, while acquisition is always temporary.
+C. Acquisition ordinarily transfers or extinguishes proprietary interests, requisition ordinarily takes temporary possession/use, and regulation may fall short of deprivation.
+D. Every regulatory restriction requires market-value compensation.
 
-**Explanation:** The structure moves from constitutional capacity to validity and remedy.
+**Answer: C.**
 
-#### OM47. Which statement properly qualifies public-law compensation?
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "Acquisition and regulation are identical because both affect property." contradicts the controlling rule. The categories turn on the substance and degree of interference, not a single undifferentiated property label. [Option A, MCQ 31]
+- **B — Incorrect:** The proposition "Requisition permanently transfers title, while acquisition is always temporary." fails. The absolute wording ignores the provision's elements, exceptions and route-specific proof. [Option B, MCQ 31]
+- **C — Correct:** This option correctly states "Acquisition ordinarily transfers or extinguishes proprietary interests, requisition ordinarily takes temporary possession/use, and regulation may fall short of deprivation.". The categories turn on the substance and degree of interference, not a single undifferentiated property label. [Option C, MCQ 31]
+- **D — Incorrect:** The proposition "Every regulatory restriction requires market-value compensation." is overbroad: Article 300A does not constitutionalise full market value in every statutory deprivation. [Option D, MCQ 31]
 
-- A. It is punitive damages in every case.
-- B. It is available only to citizens.
-- C. It vindicates constitutional rights but does not replace every fact-intensive private tort action.
-- D. It requires a valid Article 299 contract.
+**Examiner trap 31:** Regulation, requisition and acquisition must be classified by legal effect.
 
-**Answer: C**
+### MCQ 32
 
-**Explanation:** Public and private remedies can coexist but have different purposes and ingredients.
+A custodial death, an officer's personal assault and an ordinary negligence claim arise from the same episode. Which analysis is correct?
 
-#### OM48. Which source firewall is accurate?
+A. A writ compensation order automatically ends criminal and civil proceedings.
+B. Sovereign immunity bars every route because custody is governmental.
+C. Only the individual officer can ever be liable.
+D. Public-law compensation, private tort, criminal/disciplinary responsibility and personal liability may coexist, subject to their separate ingredients and double-recovery controls.
 
-- A. They are all forms of sovereign tort immunity.
-- B. They all apply only to the President.
-- C. They all bar review of governmental action.
-- D. Article 361, Article 299(2), CPC section 80, BNSS section 218 and BSA sections 129–130 create different protections.
+**Answer: D.**
 
-**Answer: D**
+**Option-specific explanations:**
+- **A — Incorrect:** The proposition "A writ compensation order automatically ends criminal and civil proceedings." fails. No automatic cure or liability follows; the claimant must establish the ingredients of the selected legal route. [Option A, MCQ 32]
+- **B — Incorrect:** The proposition "Sovereign immunity bars every route because custody is governmental." contradicts the controlling rule. Distinct routes protect distinct interests and may operate together without collapsing their proof or relief. [Option B, MCQ 32]
+- **C — Incorrect:** The proposition "Only the individual officer can ever be liable." fails. The option wrongly reduces a multi-element constitutional test to one factor. [Option C, MCQ 32]
+- **D — Correct:** This option correctly states "Public-law compensation, private tort, criminal/disciplinary responsibility and personal liability may coexist, subject to their separate ingredients and double-recovery controls.". Distinct routes protect distinct interests and may operate together without collapsing their proof or relief. [Option D, MCQ 32]
 
-**Explanation:** Naming the precise source prevents blanket-immunity errors.
+**Examiner trap 32:** Parallel remedies coexist, but double recovery and route-specific proof remain controlled.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Verified supporting Prelims PYQs
+### VERIFIED SUPPORTING PRELIMS PYQS
 
-#### PYQ 1 — 2021 Prelims GS-I Q92
+### PYQ 1 — 2021 PRELIMS GS-I Q92
 
 **Question:** What is the position of the Right to Property in India?
 
-- A. Legal right available to citizens only
-- B. Legal right available to any person
-- C. Fundamental Right available to citizens only
-- D. Neither Fundamental Right nor legal right
+A. Legal right available to citizens only  
+B. Legal right available to any person  
+C. Fundamental Right available to citizens only  
+D. Neither Fundamental Right nor legal right
 
-**Answer: B.** Article 300A uses “person.” The right is constitutional but outside Part III; the offered answer calls it a legal right available to any person.
+**Answer: B.**
 
-**Demand decoding:** Treat “What is the position of the Right to Property in India? - A. Legal right available to…” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
+**Explanation:** Article 300A uses "person", not "citizen". In constitutional classification it is
+a constitutional right outside Part III; among the offered choices, "legal right available to any
+person" is the keyed formulation. It is not a Fundamental Right.
 
-**Detailed examiner-grade model answer:**
+**Close-option trap:** The examination option uses "legal right", but an analytical answer should
+state the more precise category: constitutional right outside Part III.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “What is the position of the Right to Property in India? - A. Legal right available to citizens only - B. Legal right available to any person - C.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** C. Fundamental Right available to citizens only **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Answer: B. Article 300A uses “person.” The right is constitutional but outside Part III; the offered answer calls it a legal right available to any person. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “What is the position of the Right to Property in India? - A. Legal right available to citizens only - B. Legal right available to any person - C.…”.
-
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
-
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
-
-**How to improve this answer:** For “What is the position of the Right to Property in India? - A. Legal right available to…”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
-
-#### PYQ 2 — 2025 Prelims GS-I Q59
+### PYQ 2 — 2025 PRELIMS GS-I Q59
 
 **Question:** With reference to the Indian polity, consider the following statements:
 
-I. The Governor of a State is not answerable to any court for the exercise and performance of the powers and duties of his/her office.
-II. No criminal proceedings shall be instituted or continued against the Governor during his/her term of office.
-III. Members of a State Legislature are not liable to any proceedings in any court in respect of anything said within the House.
+I. The Governor of a State is not answerable to any court for the exercise and performance of the
+powers and duties of office.  
+II. No criminal proceedings shall be instituted or continued against the Governor during the term
+of office.  
+III. Members of a State Legislature are not liable to proceedings in any court for anything said
+within the House.
 
-Which of the statements given above are correct?
+Which statements are correct?
 
-- A. I and II only
-- B. II and III only
-- C. I and III only
-- D. I, II and III
+A. I and II only  
+B. II and III only  
+C. I and III only  
+D. I, II and III
 
-**Answer: D.** Statements I–II track Article 361 and statement III tracks Article 194(2). The question tests exact personal/legislative immunities, not blanket State immunity.
+**Answer: D.**
 
-> **PYQ boundary:** No direct Mains GS-II question centrally demanding Articles 294–300 was located in the routed 2018–2025 ledgers. The two questions above are included as supporting, exact Prelims routes; the original Mains set supplies future-demand readiness.
+**Explanation:** Statements I-II track Article 361's specified protection of the Governor.
+Statement III tracks Article 194(2). The question tests separate personal and legislative
+immunities; it does not establish blanket sovereign immunity for the State.
 
-### Original solved Mains practice
+> **PYQ boundary:** No direct routed Mains GS-II question centrally demanding Articles 294-300 was
+> identified in the repository's 2018-2025 ledgers. These are supporting Prelims routes, not
+> fabricated direct Mains ownership.
 
-**Demand decoding:** Treat “With reference to the Indian polity, consider the following statements: I. The Governor of a…” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
+### ORIGINAL SOLVED MAINS PRACTICE
 
-**Detailed examiner-grade model answer:**
+### ORIGINAL MAINS PRACTICE 1 — 10 MARKS, 150 WORDS
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “With reference to the Indian polity, consider the following statements: I. The Governor of a State is not answerable to any court for the exercise…”.
+**Question:** Explain how Articles 294-298 secure continuity of governmental property and executive capacity.
 
-**Analytical body:**
+**Model answer:**
 
-1. **Claim and named evidence:** I. The Governor of a State is not answerable to any court for the exercise and performance of the powers and duties of his/her office. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** II. No criminal proceedings shall be instituted or continued against the Governor during his/her term of office. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** III. Members of a State Legislature are not liable to any proceedings in any court in respect of anything said within the House. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Which of the statements given above are correct? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Answer: D. Statements I–II track Article 361 and statement III tracks Article 194(2). The question tests exact personal/legislative immunities, not blanket State immunity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+<!-- ORIGINAL-MAINS-1-ANSWER-START -->
+Articles 294-298 create the property and capacity foundation of government as a continuing legal actor. Articles 294 and 295 transferred, at constitutional commencement, the property, assets, rights, liabilities and obligations of the Dominion, Governor's Provinces and former Indian States to the appropriate Union or State successor. Their function was continuity, not a universal formula for later State reorganisation.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+Article 296 allocates property accruing by escheat, lapse or bona vacantia, ordinarily by location but subject to the constitutional governmental-purpose proviso. Article 297 vests specified lands, minerals and things of value beneath territorial waters, the continental shelf and the exclusive economic zone, and EEZ resources, in the Union. Article 298 then extends Union and State executive power to trade, business, property and contracts, while its provisos preserve the controlling legislature's competence.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “With reference to the Indian polity, consider the following statements: I. The Governor of a State is not answerable to any court for the exercise…”.
+Thus succession prevents an ownership vacuum; Article 298 supplies capacity. Neither exempts government from legislation, equality, audit or Article 299 form.
+<!-- ORIGINAL-MAINS-1-ANSWER-END -->
 
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
+**[ORIGINAL MAINS 1 MODEL ANSWER WORD COUNT: 150]**
 
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
+**Examiner note:** The model follows claim -> named authority -> analysis -> qualification and remains within the stated ceiling.
 
-**How to improve this answer:** For “With reference to the Indian polity, consider the following statements: I. The Governor of a…”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
+### ORIGINAL MAINS PRACTICE 2 — 10 MARKS, 150 WORDS
 
-#### M1 — 10 marks, 150 words
-**Question:** Explain the constitutional scheme governing government contracts.
+**Question:** Explain Article 299 formalities and the limited role of restitution when they are not met.
 
-**Demand decoding:** Identify the controlling provisions and remedy, explain the doctrinal movement or mechanism, preserve source distinctions and end with a qualified verdict.
+**Model answer:**
 
-**Model solution:** Articles 298 and 299 separate **capacity** from **valid commitment**. Article 298 permits the
-Union and States to trade, hold or dispose of property and make contracts, subject to constitutional
-competence. Article 299 then requires the contract to be expressed in the President or Governor's
-name, executed on that behalf and executed by an authorised person in the prescribed manner. These
-mandatory safeguards authenticate public commitments and protect the exchequer from informal
-assurances. Article 299(2) protects the constitutional head and authorised executant from personal
-liability; it does not immunise the Union or State. If form fails, the purported contract may be
-unenforceable, but Contract Act section 70 can independently require restitution where government
-lawfully enjoys a non-gratuitous benefit. Thus public contracting combines executive capacity,
-formal authority and an anti-unjust-enrichment safety valve.
+<!-- ORIGINAL-MAINS-2-ANSWER-START -->
+Article 298 gives executive capacity to contract; Article 299 determines whether that capacity became an enforceable governmental commitment. The contract must be expressed to be made by the President or Governor, executed on that behalf, and executed by a person in the authorised manner.
 
-**Why this earns marks:** It distinguishes capacity, form, personal protection and restitution with the correct provisions.
+*Bhikraj Jaipuria* and *Mulamchand* treat these requirements as mandatory safeguards of the public exchequer. Officer knowledge, performance, ratification or estoppel cannot manufacture the missing constitutional form. Article 299(2) protects the constitutional head and authorised executant personally; it does not immunise the Union or State on a valid contract.
 
-**How to improve this answer:** Add B.K. Mondal & Sons (1961) only after stating all three section 70 ingredients; never call restitution validation.
+Where form fails, Contract Act section 70 remains analytically separate. As *B.K. Mondal & Sons* illustrates, compensation may arise if a lawful act or delivery was non-gratuitous and government accepted and enjoyed the benefit. Recovery is measured by proved benefit, not automatically by the invalid bargain's price. Restitution prevents unjust enrichment; it does not validate the contract.
+<!-- ORIGINAL-MAINS-2-ANSWER-END -->
 
-**Compression:** Use six moves: Article 298 → three Article 299 formalities → 299(2) → defect → section 70 → verdict.
+**[ORIGINAL MAINS 2 MODEL ANSWER WORD COUNT: 150]**
 
-**Detailed examiner-grade model answer:**
+**Examiner note:** The model follows claim -> named authority -> analysis -> qualification and remains within the stated ceiling.
 
-**Introduction and thesis:** Articles 298 and 299 separate **capacity** from **valid commitment**. Article 298 permits the
-Union and States to trade, hold or dispose of property and make contracts, subject to constitutional
-competence. Article 299 then requires the contract to be expressed in the President or Governor's
-name, executed on that behalf and executed by an authorised person in the prescribed manner. These
-mandatory safeguards authenticate public commitments and protect the exchequer from informal
-assurances. Article 299(2) protects the constitutional head and authorised executant from personal
-liability; it does not immunise the Union or State. If form fails, the purported contract may be
-unenforceable, but Contract Act section 70 can independently require restitution where government
-lawfully enjoys a non-gratuitous benefit. Thus public contracting combines executive capacity,
-formal authority and an anti-unjust-enrichment safety valve.
+### ORIGINAL MAINS PRACTICE 3 — 15 MARKS, 250 WORDS
 
-**Analytical body:**
+**Question:** Trace the evolution of State tort liability and sovereign immunity in India.
 
-1. **Claim and named evidence:** Model solution: Articles 298 and 299 separate capacity from valid commitment . Article 298 permits the **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Union and States to trade, hold or dispose of property and make contracts, subject to constitutional **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** competence. Article 299 then requires the contract to be expressed in the President or Governor's **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** name, executed on that behalf and executed by an authorised person in the prescribed manner. These **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** mandatory safeguards authenticate public commitments and protect the exchequer from informal **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Model answer:**
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+<!-- ORIGINAL-MAINS-3-ANSWER-START -->
+Article 300 makes the Union and States suable and preserves a historical liability baseline subject to legislation. Its case law shows movement, not a simple switch from immunity to liability.
 
-**Qualified conclusion:** Articles 298 and 299 separate **capacity** from **valid commitment**. Article 298 permits the
-Union and States to trade, hold or dispose of property and make contracts, subject to constitutional
-competence. Article 299 then requires the contract to be expressed in the President or Governor's
-name, executed on that behalf and executed by an authorised person in the prescribed manner. These
-mandatory safeguards authenticate public commitments and protect the exchequer from informal
-assurances. Article 299(2) protects the constitutional head and authorised executant from personal
-liability; it does not immunise the Union or State. If form fails, the purported contract may be
-unenforceable, but Contract Act section 70 can independently require restitution where government
-lawfully enjoys a non-gratuitous benefit. Thus public contracting combines executive capacity,
-formal authority and an anti-unjust-enrichment safety valve.
+*P & O Steam Navigation* supplied the colonial sovereign/non-sovereign distinction. In *State of Rajasthan v. Vidyawati*, the State was vicariously liable for negligent driving of a government vehicle in ordinary employment. *Kasturi Lal*, however, denied damages for police loss of seized gold by treating the function as sovereign. The judgment survives as history and a warning, but its breadth has been strongly criticised.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+In *N. Nagendra Rao & Co.*, the Supreme Court held broad immunity inconsistent with a welfare State and confined any residue to narrow primary and inalienable functions. The claimant must still prove the tort, causation, damage, course-of-employment nexus and overcome applicable statutory defences.
 
-#### M2 — 15 marks, 250 words
-**Question:** Trace the evolution of sovereign immunity in India and assess the need for reform.
-
-**Demand decoding:** Identify the controlling provisions and remedy, explain the doctrinal movement or mechanism, preserve source distinctions and end with a qualified verdict.
-
-**Model solution:** Article 300 preserves a historical liability baseline but does not define a complete modern
-tort code. P & O Steam Navigation (1861) supplied the colonial sovereign/non-sovereign distinction.
-State of Rajasthan v. Vidyawati (1962) accepted liability for ordinary operational negligence, whereas Kasturi Lal v. State of Uttar Pradesh (1964) retained an
-older immunity for police custody of seized property. N. Nagendra Rao & Co. (1994) later held broad immunity
-untenable in a welfare State and confined any residue to narrow inalienable functions. Common Cause
-and State of Andhra Pradesh v. Challa Ramkrishna Reddy (2000) further reinforced rule-of-law accountability. A second remedial line,
-Rudul Sah v. State of Bihar (1983) and Nilabati Behera v. State of Orissa (1993), authorises public-law compensation for Fundamental-Right violations;
-it must not be collapsed into private tort damages.
-
-The present case-law mosaic creates uncertainty over function, forum, proof and personal versus
-institutional responsibility. The Law Commission's 1956 report criticised broad immunity, but India
-still lacks a comprehensive enacted State-tort code. Reform should define narrow exceptions, ordinary
-operational liability, rights compensation, defences, contribution by culpable officials, evidence
-preservation and claims procedure. The objective is neither blanket immunity nor automatic liability,
-but predictable accountability proportionate to public function and harm.
-
-**Why this earns marks:** It gives a doctrinal timeline, separates remedies and turns criticism into a concrete statutory design.
-
-**How to improve this answer:** Tie each proposed rule to one uncertainty: function, proof, forum, damages or official contribution.
-
-**Compression:** Timeline in four cases → constitutional tort → uncertainty → six-part statute → balanced verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Article 300 preserves a historical liability baseline but does not define a complete modern
-tort code. P & O Steam Navigation (1861) supplied the colonial sovereign/non-sovereign distinction.
-State of Rajasthan v. Vidyawati (1962) accepted liability for ordinary operational negligence, whereas Kasturi Lal v. State of Uttar Pradesh (1964) retained an
-older immunity for police custody of seized property. N. Nagendra Rao & Co. (1994) later held broad immunity
-untenable in a welfare State and confined any residue to narrow inalienable functions. Common Cause
-and State of Andhra Pradesh v. Challa Ramkrishna Reddy (2000) further reinforced rule-of-law accountability. A second remedial line,
-Rudul Sah v. State of Bihar (1983) and Nilabati Behera v. State of Orissa (1993), authorises public-law compensation for Fundamental-Right violations;
-it must not be collapsed into private tort damages.
-
-The present case-law mosaic creates uncertainty over function, forum, proof and personal versus
-institutional responsibility. The Law Commission's 1956 report criticised broad immunity, but India
-still lacks a comprehensive enacted State-tort code. Reform should define narrow exceptions, ordinary
-operational liability, rights compensation, defences, contribution by culpable officials, evidence
-preservation and claims procedure. The objective is neither blanket immunity nor automatic liability,
-but predictable accountability proportionate to public function and harm.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Model solution: Article 300 preserves a historical liability baseline but does not define a complete modern **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** tort code. P & O Steam Navigation (1861) supplied the colonial sovereign/non-sovereign distinction. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** State of Rajasthan v. Vidyawati (1962) accepted liability for ordinary operational negligence, whereas Kasturi Lal v. State of Uttar Pradesh (1964) retained an **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** older immunity for police custody of seized property. N. Nagendra Rao & Co. (1994) later held broad immunity **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** untenable in a welfare State and confined any residue to narrow inalienable functions. Common Cause **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Article 300 preserves a historical liability baseline but does not define a complete modern
-tort code. P & O Steam Navigation (1861) supplied the colonial sovereign/non-sovereign distinction.
-State of Rajasthan v. Vidyawati (1962) accepted liability for ordinary operational negligence, whereas Kasturi Lal v. State of Uttar Pradesh (1964) retained an
-older immunity for police custody of seized property. N. Nagendra Rao & Co. (1994) later held broad immunity
-untenable in a welfare State and confined any residue to narrow inalienable functions. Common Cause
-and State of Andhra Pradesh v. Challa Ramkrishna Reddy (2000) further reinforced rule-of-law accountability. A second remedial line,
-Rudul Sah v. State of Bihar (1983) and Nilabati Behera v. State of Orissa (1993), authorises public-law compensation for Fundamental-Right violations;
-it must not be collapsed into private tort damages.
-
-The present case-law mosaic creates uncertainty over function, forum, proof and personal versus
-institutional responsibility. The Law Commission's 1956 report criticised broad immunity, but India
-still lacks a comprehensive enacted State-tort code. Reform should define narrow exceptions, ordinary
-operational liability, rights compensation, defences, contribution by culpable officials, evidence
-preservation and claims procedure. The objective is neither blanket immunity nor automatic liability,
-but predictable accountability proportionate to public function and harm.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M3 — 15 marks, 250 words
-**Question:** Distinguish private tort liability, constitutional tort and judicial review of government action.
-
-**Demand decoding:** Identify the controlling provisions and remedy, explain the doctrinal movement or mechanism, preserve source distinctions and end with a qualified verdict.
-
-**Model solution:** Private tort compensates a civil wrong after proof of duty, breach, causation, damage and
-applicable defences. Government may be vicariously liable where the wrong falls within the course of
-employment, but the claimant must establish the ordinary ingredients. Constitutional tort is a
-public-law remedy under Articles 32 or 226 for serious State violations of Fundamental Rights.
-Rudul Sah v. State of Bihar (1983) and Nilabati Behera v. State of Orissa (1993) show that compensation vindicates constitutional rights and is not
-dependent on Article 300 private-tort doctrine. Judicial review is broader in subject but often
-different in relief: it controls illegality, jurisdiction, procedural unfairness, arbitrariness and
-rights defects, for example an unfair blacklisting decision.
-
-The routes may coexist. Unlawful custody can trigger public compensation, criminal or disciplinary
-action and a private damages suit; an arbitrary procurement order may be quashed while a payment
-claim proceeds under contract or arbitration. The examiner should therefore identify the wrong,
-source of duty, required proof, forum and remedy before citing immunity. This route-first method
-prevents the false claim that one constitutional remedy replaces all civil litigation.
-
-**Why this earns marks:** It compares trigger, ingredients, forum and relief, then demonstrates coexistence through examples.
-
-**How to improve this answer:** Draw a five-column remedy matrix and state which route answers the facts before discussing immunity.
-
-**Compression:** Three definitions → two coexistence examples → route-first verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Private tort compensates a civil wrong after proof of duty, breach, causation, damage and
-applicable defences. Government may be vicariously liable where the wrong falls within the course of
-employment, but the claimant must establish the ordinary ingredients. Constitutional tort is a
-public-law remedy under Articles 32 or 226 for serious State violations of Fundamental Rights.
-Rudul Sah v. State of Bihar (1983) and Nilabati Behera v. State of Orissa (1993) show that compensation vindicates constitutional rights and is not
-dependent on Article 300 private-tort doctrine. Judicial review is broader in subject but often
-different in relief: it controls illegality, jurisdiction, procedural unfairness, arbitrariness and
-rights defects, for example an unfair blacklisting decision.
-
-The routes may coexist. Unlawful custody can trigger public compensation, criminal or disciplinary
-action and a private damages suit; an arbitrary procurement order may be quashed while a payment
-claim proceeds under contract or arbitration. The examiner should therefore identify the wrong,
-source of duty, required proof, forum and remedy before citing immunity. This route-first method
-prevents the false claim that one constitutional remedy replaces all civil litigation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Model solution: Private tort compensates a civil wrong after proof of duty, breach, causation, damage and **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** applicable defences. Government may be vicariously liable where the wrong falls within the course of **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** employment, but the claimant must establish the ordinary ingredients. Constitutional tort is a **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** public-law remedy under Articles 32 or 226 for serious State violations of Fundamental Rights. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Rudul Sah v. State of Bihar (1983) and Nilabati Behera v. State of Orissa (1993) show that compensation vindicates constitutional rights and is not **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Private tort compensates a civil wrong after proof of duty, breach, causation, damage and
-applicable defences. Government may be vicariously liable where the wrong falls within the course of
-employment, but the claimant must establish the ordinary ingredients. Constitutional tort is a
-public-law remedy under Articles 32 or 226 for serious State violations of Fundamental Rights.
-Rudul Sah v. State of Bihar (1983) and Nilabati Behera v. State of Orissa (1993) show that compensation vindicates constitutional rights and is not
-dependent on Article 300 private-tort doctrine. Judicial review is broader in subject but often
-different in relief: it controls illegality, jurisdiction, procedural unfairness, arbitrariness and
-rights defects, for example an unfair blacklisting decision.
-
-The routes may coexist. Unlawful custody can trigger public compensation, criminal or disciplinary
-action and a private damages suit; an arbitrary procurement order may be quashed while a payment
-claim proceeds under contract or arbitration. The examiner should therefore identify the wrong,
-source of duty, required proof, forum and remedy before citing immunity. This route-first method
-prevents the false claim that one constitutional remedy replaces all civil litigation.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M4 — 10 marks, 150 words
-**Question:** Explain the constitutional protection of property under Article 300A.
-
-**Demand decoding:** Identify the controlling provisions and remedy, explain the doctrinal movement or mechanism, preserve source distinctions and end with a qualified verdict.
-
-**Model solution:** Article 300A provides that no **person** may be deprived of property except by authority of
-law. It is a constitutional right outside Part III, neither a Fundamental Right nor merely an
-ordinary statutory right. K.T. Plantation links lawful deprivation to public purpose and rejects
-arbitrary, confiscatory or illusory-compensation measures. Vidya Devi condemns forcible executive
-occupation without lawful acquisition and compensation. In Bimal Kumar Shah (2024), the Supreme
-Court organised fair acquisition around seven sub-rights: notice, hearing, reasoned decision,
-public purpose, fair compensation or restitution, efficient process and conclusion. Article 300A
-does not guarantee a single market-value formula for every acquisition, but it bars unsupported
-executive seizure and constitutionally defective process. Its modern significance lies in joining
-legislative authority to procedural fairness and effective restitution.
-
-**Why this earns marks:** It states status, text, three cases, seven safeguards and a precise compensation qualification.
-
-**How to improve this answer:** If space is tight, retain the seven safeguards as a compact numbered chain and one sentence on compensation.
-
-**Compression:** Status → authority of law → three cases → seven safeguards → qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Article 300A provides that no **person** may be deprived of property except by authority of
-law. It is a constitutional right outside Part III, neither a Fundamental Right nor merely an
-ordinary statutory right. K.T. Plantation links lawful deprivation to public purpose and rejects
-arbitrary, confiscatory or illusory-compensation measures. Vidya Devi condemns forcible executive
-occupation without lawful acquisition and compensation. In Bimal Kumar Shah (2024), the Supreme
-Court organised fair acquisition around seven sub-rights: notice, hearing, reasoned decision,
-public purpose, fair compensation or restitution, efficient process and conclusion. Article 300A
-does not guarantee a single market-value formula for every acquisition, but it bars unsupported
-executive seizure and constitutionally defective process. Its modern significance lies in joining
-legislative authority to procedural fairness and effective restitution.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Model solution: Article 300A provides that no person may be deprived of property except by authority of **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** law. It is a constitutional right outside Part III, neither a Fundamental Right nor merely an **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** ordinary statutory right. K.T. Plantation links lawful deprivation to public purpose and rejects **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** arbitrary, confiscatory or illusory-compensation measures. Vidya Devi condemns forcible executive **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** occupation without lawful acquisition and compensation. In Bimal Kumar Shah (2024), the Supreme **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Article 300A provides that no **person** may be deprived of property except by authority of
-law. It is a constitutional right outside Part III, neither a Fundamental Right nor merely an
-ordinary statutory right. K.T. Plantation links lawful deprivation to public purpose and rejects
-arbitrary, confiscatory or illusory-compensation measures. Vidya Devi condemns forcible executive
-occupation without lawful acquisition and compensation. In Bimal Kumar Shah (2024), the Supreme
-Court organised fair acquisition around seven sub-rights: notice, hearing, reasoned decision,
-public purpose, fair compensation or restitution, efficient process and conclusion. Article 300A
-does not guarantee a single market-value formula for every acquisition, but it bars unsupported
-executive seizure and constitutionally defective process. Its modern significance lies in joining
-legislative authority to procedural fairness and effective restitution.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M5 — 15 marks, 250 words
-**Question:** Examine executive privilege and the right to information in claims concerning State secrets.
-
-**Demand decoding:** Identify the controlling provisions and remedy, explain the doctrinal movement or mechanism, preserve source distinctions and end with a qualified verdict.
-
-**Model solution:** State secrecy is a source-specific, harm-based claim rather than a blanket executive
-immunity. Bharatiya Sakshya Adhiniyam sections 129 and 130 regulate unpublished State-affairs
-records and official communications in evidentiary proceedings. Raj Narain rejected absolute
-privilege and required public-interest scrutiny; S.P. Gupta strengthened open government while
-preserving document-specific protection where disclosure would injure public interest.
-
-The RTI Act operates in a different setting. Section 8(1)(a) protects specified sovereignty,
-security, strategic, scientific, economic and foreign-relations interests where prejudicial effect
-is shown. Section 8(2) permits disclosure when public interest outweighs protected harm, and
-section 22 overrides inconsistent law, including the Official Secrets Act. An RTI exemption does
-not conclusively determine evidentiary production, and an official 'confidential' label is not the
-legal test in either field. A sound decision identifies the exact provision, requested material,
-probable harm, possibility of severance, public-interest balance, reasons and review. Democratic
-accountability therefore requires calibrated confidentiality, not secrecy by assertion.
-
-**Why this earns marks:** It maintains the BSA/RTI firewall, uses two cases and provides an executable balancing test.
-
-**How to improve this answer:** Add severability or partial disclosure and identify whether the problem is litigation evidence or an RTI request.
-
-**Compression:** Two BSA sections → Raj Narain/S.P. Gupta → RTI 8(1)(a), 8(2), 22 → seven-step test.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** State secrecy is a source-specific, harm-based claim rather than a blanket executive
-immunity. Bharatiya Sakshya Adhiniyam sections 129 and 130 regulate unpublished State-affairs
-records and official communications in evidentiary proceedings. Raj Narain rejected absolute
-privilege and required public-interest scrutiny; S.P. Gupta strengthened open government while
-preserving document-specific protection where disclosure would injure public interest.
-
-The RTI Act operates in a different setting. Section 8(1)(a) protects specified sovereignty,
-security, strategic, scientific, economic and foreign-relations interests where prejudicial effect
-is shown. Section 8(2) permits disclosure when public interest outweighs protected harm, and
-section 22 overrides inconsistent law, including the Official Secrets Act. An RTI exemption does
-not conclusively determine evidentiary production, and an official 'confidential' label is not the
-legal test in either field. A sound decision identifies the exact provision, requested material,
-probable harm, possibility of severance, public-interest balance, reasons and review. Democratic
-accountability therefore requires calibrated confidentiality, not secrecy by assertion.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Model solution: State secrecy is a source-specific, harm-based claim rather than a blanket executive **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** immunity. Bharatiya Sakshya Adhiniyam sections 129 and 130 regulate unpublished State-affairs **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** records and official communications in evidentiary proceedings. Raj Narain rejected absolute **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** privilege and required public-interest scrutiny; S.P. Gupta strengthened open government while **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** preserving document-specific protection where disclosure would injure public interest. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** State secrecy is a source-specific, harm-based claim rather than a blanket executive
-immunity. Bharatiya Sakshya Adhiniyam sections 129 and 130 regulate unpublished State-affairs
-records and official communications in evidentiary proceedings. Raj Narain rejected absolute
-privilege and required public-interest scrutiny; S.P. Gupta strengthened open government while
-preserving document-specific protection where disclosure would injure public interest.
-
-The RTI Act operates in a different setting. Section 8(1)(a) protects specified sovereignty,
-security, strategic, scientific, economic and foreign-relations interests where prejudicial effect
-is shown. Section 8(2) permits disclosure when public interest outweighs protected harm, and
-section 22 overrides inconsistent law, including the Official Secrets Act. An RTI exemption does
-not conclusively determine evidentiary production, and an official 'confidential' label is not the
-legal test in either field. A sound decision identifies the exact provision, requested material,
-probable harm, possibility of severance, public-interest balance, reasons and review. Democratic
-accountability therefore requires calibrated confidentiality, not secrecy by assertion.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M6 — 15 marks, 250 words
-**Question:** Government legal personality enables administration but also structures accountability. Discuss.
-
-**Demand decoding:** Identify the controlling provisions and remedy, explain the doctrinal movement or mechanism, preserve source distinctions and end with a qualified verdict.
-
-**Model solution:** Articles 294–300 give government institutional continuity beyond changing office-holders.
-Articles 294–295 transfer property, rights, liabilities and obligations at constitutional
-commencement; Article 296 handles escheat, lapse and bona vacantia; Article 297 vests specified
-maritime resources in the Union. Article 298 supplies executive capacity to trade, hold property
-and contract. Articles 299 and 300 then discipline that capacity through mandatory contract form
-and named suability as the Union of India or the State.
-
-This architecture separates public obligations from the personal estates of the President,
-Governor or authorised official. Yet separation is not immunity. Contractual liability, section
-70 restitution, private tort, public-law compensation and judicial review remain available through
-their respective ingredients. CPC sections 79–80 organise party description and notice rather than
-abolishing substantive liability. The scheme therefore performs two functions: stable succession
-for administration and an identifiable legal defendant for citizens. Government under law is
-neither an ordinary private actor in every respect nor a sovereign beyond remedy.
-
-**Why this earns marks:** It covers the whole constitutional sequence and links legal personality to both continuity and remedies.
-
-**How to improve this answer:** Use a left-right diagram: capacity/continuity versus form/suability/review, then reconcile them.
-
-**Compression:** 294–297 property → 298 capacity → 299 form → 300 suability → remedy portfolio → verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Articles 294–300 give government institutional continuity beyond changing office-holders.
-Articles 294–295 transfer property, rights, liabilities and obligations at constitutional
-commencement; Article 296 handles escheat, lapse and bona vacantia; Article 297 vests specified
-maritime resources in the Union. Article 298 supplies executive capacity to trade, hold property
-and contract. Articles 299 and 300 then discipline that capacity through mandatory contract form
-and named suability as the Union of India or the State.
-
-This architecture separates public obligations from the personal estates of the President,
-Governor or authorised official. Yet separation is not immunity. Contractual liability, section
-70 restitution, private tort, public-law compensation and judicial review remain available through
-their respective ingredients. CPC sections 79–80 organise party description and notice rather than
-abolishing substantive liability. The scheme therefore performs two functions: stable succession
-for administration and an identifiable legal defendant for citizens. Government under law is
-neither an ordinary private actor in every respect nor a sovereign beyond remedy.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Model solution: Articles 294–300 give government institutional continuity beyond changing office-holders. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Articles 294–295 transfer property, rights, liabilities and obligations at constitutional **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** commencement; Article 296 handles escheat, lapse and bona vacantia; Article 297 vests specified **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** maritime resources in the Union. Article 298 supplies executive capacity to trade, hold property **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** and contract. Articles 299 and 300 then discipline that capacity through mandatory contract form **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Articles 294–300 give government institutional continuity beyond changing office-holders.
-Articles 294–295 transfer property, rights, liabilities and obligations at constitutional
-commencement; Article 296 handles escheat, lapse and bona vacantia; Article 297 vests specified
-maritime resources in the Union. Article 298 supplies executive capacity to trade, hold property
-and contract. Articles 299 and 300 then discipline that capacity through mandatory contract form
-and named suability as the Union of India or the State.
-
-This architecture separates public obligations from the personal estates of the President,
-Governor or authorised official. Yet separation is not immunity. Contractual liability, section
-70 restitution, private tort, public-law compensation and judicial review remain available through
-their respective ingredients. CPC sections 79–80 organise party description and notice rather than
-abolishing substantive liability. The scheme therefore performs two functions: stable succession
-for administration and an identifiable legal defendant for citizens. Government under law is
-neither an ordinary private actor in every respect nor a sovereign beyond remedy.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M7 — 10 marks, 150 words
-**Question:** Why is procedural notice not the same as sovereign immunity?
-
-**Demand decoding:** Identify the controlling provisions and remedy, explain the doctrinal movement or mechanism, preserve source distinctions and end with a qualified verdict.
-
-**Model solution:** CPC section 80 ordinarily requires two months' notice before specified suits against
-government or public officers for official acts. It allows the State to examine the claim and
-consider settlement before litigation. Section 80(2), however, permits a court-controlled route
-for urgent or immediate relief without prior notice, while protecting the government's opportunity
-to show cause. The rule therefore regulates **when and how** a suit begins; it does not decide
-whether government is substantively liable. Sovereign immunity concerns whether a cause of action
-is barred or limited because of the governmental function. Likewise, Article 361 personal
-immunity, Article 299(2) contract protection and BNSS section 218 prosecution sanction arise from
-different sources. A precise answer first establishes the wrong and remedy, then applies the
-relevant procedural condition.
-
-**Why this earns marks:** It distinguishes procedure from substantive liability and identifies the urgent-relief exception.
-
-**How to improve this answer:** State section 80's settlement rationale but avoid describing notice as jurisdictional immunity.
-
-**Compression:** Purpose → 80(1) → 80(2) → immunity contrast → source firewall.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** CPC section 80 ordinarily requires two months' notice before specified suits against
-government or public officers for official acts. It allows the State to examine the claim and
-consider settlement before litigation. Section 80(2), however, permits a court-controlled route
-for urgent or immediate relief without prior notice, while protecting the government's opportunity
-to show cause. The rule therefore regulates **when and how** a suit begins; it does not decide
-whether government is substantively liable. Sovereign immunity concerns whether a cause of action
-is barred or limited because of the governmental function. Likewise, Article 361 personal
-immunity, Article 299(2) contract protection and BNSS section 218 prosecution sanction arise from
-different sources. A precise answer first establishes the wrong and remedy, then applies the
-relevant procedural condition.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Model solution: CPC section 80 ordinarily requires two months' notice before specified suits against **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** government or public officers for official acts. It allows the State to examine the claim and **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** consider settlement before litigation. Section 80(2), however, permits a court-controlled route **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** for urgent or immediate relief without prior notice, while protecting the government's opportunity **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** to show cause. The rule therefore regulates when and how a suit begins; it does not decide **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** CPC section 80 ordinarily requires two months' notice before specified suits against
-government or public officers for official acts. It allows the State to examine the claim and
-consider settlement before litigation. Section 80(2), however, permits a court-controlled route
-for urgent or immediate relief without prior notice, while protecting the government's opportunity
-to show cause. The rule therefore regulates **when and how** a suit begins; it does not decide
-whether government is substantively liable. Sovereign immunity concerns whether a cause of action
-is barred or limited because of the governmental function. Likewise, Article 361 personal
-immunity, Article 299(2) contract protection and BNSS section 218 prosecution sanction arise from
-different sources. A precise answer first establishes the wrong and remedy, then applies the
-relevant procedural condition.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M8 — 20 marks, 250 words
-**Question:** Design a coherent framework for government liability in a constitutional welfare State.
-
-**Demand decoding:** Identify the controlling provisions and remedy, explain the doctrinal movement or mechanism, preserve source distinctions and end with a qualified verdict.
-
-**Model solution:** A coherent framework should begin with a remedy map rather than an unstable sovereign label.
-Valid contracts follow Articles 298–299 and commercial remedies; defective contracts may attract
-section 70 restitution without validation. Operational civil wrongs require codified tort
-ingredients and narrow, enumerated exceptions. Serious Fundamental-Right violations retain
-Articles 32/226 public-law compensation. Property deprivation must satisfy Article 300A's authority
-of law, public purpose, fair process and non-illusory restitution. Judicial review remains
-available for illegality, unfair procedure and arbitrariness.
-
-Institutional design should specify the Union/State defendant, limitation and CPC notice, urgent
-relief, evidence preservation, damages principles, contribution by culpable officials and
-interaction with disciplinary or criminal proceedings. Immunity, if any, should be function- and
-harm-specific for narrowly inalienable fields, not attached to a department's label. Procurement
-needs digital authority trails and reasoned decisions; secrecy claims need provision-specific harm
-tests, severance and independent review. A claims-screening and settlement system can reduce
-defensive appeals without suppressing meritorious claims.
-
-The constitutional objective is calibrated responsibility: protect legitimate decision-making and
-public resources while ensuring that State-created harm has an identified defendant, fair process
-and effective remedy.
-
-**Why this earns marks:** It integrates contract, tort, rights, property, procedure, secrecy and institutional administration into one design.
-
-**How to improve this answer:** Convert the middle paragraph into a statute-design table headed trigger, defendant, proof, defence, forum and remedy.
-
-**Compression:** Five-route map → eight statutory design elements → administrative reforms → calibrated-responsibility verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** A coherent framework should begin with a remedy map rather than an unstable sovereign label.
-Valid contracts follow Articles 298–299 and commercial remedies; defective contracts may attract
-section 70 restitution without validation. Operational civil wrongs require codified tort
-ingredients and narrow, enumerated exceptions. Serious Fundamental-Right violations retain
-Articles 32/226 public-law compensation. Property deprivation must satisfy Article 300A's authority
-of law, public purpose, fair process and non-illusory restitution. Judicial review remains
-available for illegality, unfair procedure and arbitrariness.
-
-Institutional design should specify the Union/State defendant, limitation and CPC notice, urgent
-relief, evidence preservation, damages principles, contribution by culpable officials and
-interaction with disciplinary or criminal proceedings. Immunity, if any, should be function- and
-harm-specific for narrowly inalienable fields, not attached to a department's label. Procurement
-needs digital authority trails and reasoned decisions; secrecy claims need provision-specific harm
-tests, severance and independent review. A claims-screening and settlement system can reduce
-defensive appeals without suppressing meritorious claims.
-
-The constitutional objective is calibrated responsibility: protect legitimate decision-making and
-public resources while ensuring that State-created harm has an identified defendant, fair process
-and effective remedy.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Model solution: A coherent framework should begin with a remedy map rather than an unstable sovereign label. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Valid contracts follow Articles 298–299 and commercial remedies; defective contracts may attract **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** section 70 restitution without validation. Operational civil wrongs require codified tort **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** ingredients and narrow, enumerated exceptions. Serious Fundamental-Right violations retain **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Articles 32/226 public-law compensation. Property deprivation must satisfy Article 300A's authority **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** A coherent framework should begin with a remedy map rather than an unstable sovereign label.
-Valid contracts follow Articles 298–299 and commercial remedies; defective contracts may attract
-section 70 restitution without validation. Operational civil wrongs require codified tort
-ingredients and narrow, enumerated exceptions. Serious Fundamental-Right violations retain
-Articles 32/226 public-law compensation. Property deprivation must satisfy Article 300A's authority
-of law, public purpose, fair process and non-illusory restitution. Judicial review remains
-available for illegality, unfair procedure and arbitrariness.
-
-Institutional design should specify the Union/State defendant, limitation and CPC notice, urgent
-relief, evidence preservation, damages principles, contribution by culpable officials and
-interaction with disciplinary or criminal proceedings. Immunity, if any, should be function- and
-harm-specific for narrowly inalienable fields, not attached to a department's label. Procurement
-needs digital authority trails and reasoned decisions; secrecy claims need provision-specific harm
-tests, severance and independent review. A claims-screening and settlement system can reduce
-defensive appeals without suppressing meritorious claims.
-
-The constitutional objective is calibrated responsibility: protect legitimate decision-making and
-public resources while ensuring that State-created harm has an identified defendant, fair process
-and effective remedy.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+A distinct public-law line arose through *Rudul Sah*, *Nilabati Behera* and *D.K. Basu*. Writ compensation vindicates established Fundamental-Right violations and sovereign immunity is unavailable in that constitutional route. It does not automatically replace private damages, prosecution or disciplinary action.
+
+India therefore has no blanket sovereign immunity, but also no complete enacted State-tort code. Reform should define narrow exceptions, ordinary operational liability, claims procedure, evidence preservation, official contribution and protection against double recovery.
+<!-- ORIGINAL-MAINS-3-ANSWER-END -->
+
+**[ORIGINAL MAINS 3 MODEL ANSWER WORD COUNT: 208]**
+
+**Examiner note:** The model follows claim -> named authority -> analysis -> qualification and remains within the stated ceiling.
+
+### ORIGINAL MAINS PRACTICE 4 — 15 MARKS, 250 WORDS
+
+**Question:** Distinguish contract, restitution, private tort, constitutional compensation and official personal liability.
+
+**Model answer:**
+
+<!-- ORIGINAL-MAINS-4-ANSWER-START -->
+Government liability is route-specific. A contract claim requires an Article 299-compliant commitment, breach and the remedies supplied by contract or a valid arbitration clause. Restitution under Contract Act section 70 does not enforce a defective bargain; it reverses a lawful, non-gratuitous benefit actually enjoyed by government.
+
+Private tort compensates a civil wrong after proof of duty, breach, causation and damage. State vicarious liability additionally asks whether the employee acted in the course of employment and whether a valid statutory defence applies. Constitutional compensation under Articles 32 or 226 instead vindicates an established Fundamental-Right violation. *Rudul Sah*, *Nilabati Behera* and *D.K. Basu* show why sovereign immunity cannot defeat that public-law remedy.
+
+Official personal liability is yet another track. An officer may face criminal, disciplinary or personal civil consequences where individual fault, mala fides, an offence or conduct outside authority is proved. Article 299(2), Article 361, CPC notice and criminal-law sanction protect different persons or stages and cannot be merged.
+
+The routes may coexist. Custodial violence can support writ compensation, prosecution, discipline and a civil action; arbitrary blacklisting may be judicially reviewed while payment disputes remain contractual. Courts must prevent double recovery, but should not let one remedy erase another's distinct public purpose.
+<!-- ORIGINAL-MAINS-4-ANSWER-END -->
+
+**[ORIGINAL MAINS 4 MODEL ANSWER WORD COUNT: 203]**
+
+**Examiner note:** The model follows claim -> named authority -> analysis -> qualification and remains within the stated ceiling.
+
+### ORIGINAL MAINS PRACTICE 5 — 20 MARKS, 250 WORDS
+
+**Question:** Critically examine the scope of Article 300A after the Forty-fourth Amendment.
+
+**Model answer:**
+
+<!-- ORIGINAL-MAINS-5-ANSWER-START -->
+Before the Forty-fourth Amendment, Articles 19(1)(f) and 31 protected property within Part III. The Amendment removed that structure and inserted Article 300A: no person shall be deprived of property save by authority of law. Property is therefore a constitutional right of every person, not a Fundamental Right.
+
+*Bishambhar Dayal* establishes the first boundary: executive instructions alone cannot authorise deprivation. *Jilubhai* confirms the changed status and cautions against importing the former Article 31 guarantee of judicially assessed adequacy into Article 300A. Yet legality is substantive as well as formal. *K.T. Plantation* requires public purpose in compulsory taking and rejects colourable, arbitrary confiscation supported by illusory compensation, without constitutionalising market value in every case.
+
+The legal effect of State action matters. Acquisition ordinarily transfers or extinguishes proprietary interests; requisition ordinarily takes temporary possession or use; regulation may control use without becoming deprivation. Severe regulation may nevertheless require scrutiny if it effectively destroys protected incidents.
+
+*Vidya Devi* condemns prolonged executive occupation without acquisition and compensation; the welfare State could not rely on adverse possession to sanitise its own unlawful taking on those facts. *Bimal Kumar Shah* adds notice, hearing, reasons, public purpose, fair compensation or restitution, efficient process and conclusion.
+
+Article 300A thus protects lawful, non-confiscatory governance. It neither restores an absolute Fundamental Right nor permits property to be taken by executive fiat.
+<!-- ORIGINAL-MAINS-5-ANSWER-END -->
+
+**[ORIGINAL MAINS 5 MODEL ANSWER WORD COUNT: 223]**
+
+**Examiner note:** The model follows claim -> named authority -> analysis -> qualification and remains within the stated ceiling.
+
+### ORIGINAL MAINS PRACTICE 6 — 20 MARKS, 250 WORDS
+
+**Question:** Assess whether procedural protections in government litigation balance administration and effective remedy.
+
+**Model answer:**
+
+<!-- ORIGINAL-MAINS-6-ANSWER-START -->
+Article 300 provides an identifiable governmental defendant, while the Code of Civil Procedure structures the suit. Under section 79, the Central Government is sued as the Union of India and a State by the name of the State. Correct description matters, but procedure does not create the underlying contract, tort or property right.
+
+Section 80(1) ordinarily requires two months' prior notice before a covered suit against government or a public officer for an act purporting to be done in official capacity. The notice identifies the claimant, cause and relief, allowing examination or settlement. Section 80(2) preserves access where urgent or immediate relief is needed: the plaintiff requires court leave, government receives a reasonable show-cause opportunity before relief, and absence of urgency leads to return of the plaint. Section 80(3) prevents specified technical defects from defeating substantial notice.
+
+The limitation and execution stages remain separate. Limitation Act section 15(2) excludes the period of a legally required notice when computing limitation; it does not erase limitation. CPC section 82 postpones execution until a qualifying decree, order or award remains unsatisfied for three months; it does not cancel liability.
+
+These safeguards are legitimate when they facilitate orderly decision and voluntary compliance. They become unjust if treated as blanket immunity or mechanical obstruction. Courts should insist on statutory conditions while construing technical defects, urgency and execution consistently with effective remedy and equality before law.
+<!-- ORIGINAL-MAINS-6-ANSWER-END -->
+
+**[ORIGINAL MAINS 6 MODEL ANSWER WORD COUNT: 234]**
+
+**Examiner note:** The model follows claim -> named authority -> analysis -> qualification and remains within the stated ceiling.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Polity · **Tier:** Advanced enrichment · **GS Paper:** GS-II
-> **Companion:** `../basic/Rights-and-Liabilities-of-the-Government.md`
-> **Firewall:** The Core independently supplies Articles 294–300, contract formalities,
-> suit identity and the modern sovereign-immunity trajectory.
+### 1. Article 298 and public commercial accountability
 
----
+The Union and States may trade and hold property, but commercial capacity remains subject to the
+appropriate legislature, Article 14, appropriation, audit, sectoral law and institutional form.
+Public enterprise is not a constitutional immunity category.
 
-### 1. The State as a legal person
+### 2. Relational government contracting
 
-The Union and each State possess legal continuity beyond individual governments and officials.
-They can own property, enter authorised contracts, incur obligations, sue and be sued. This
-juristic capacity supports stable administration while separating the public treasury from the
-personal estate of a President, Governor, minister or civil servant.
+After Article 299 validity is established, ordinary contract questions remain: variation, change
+in law, force majeure, price adjustment, termination, blacklisting, arbitration and damages.
+Public-law review may control arbitrariness in tendering or blacklisting without converting every
+payment dispute into a writ claim.
 
-Legal personality does not erase constitutional limits. Public contracts, property disposal,
-procurement and commercial action remain subject to equality, statutory power, appropriation,
-audit and judicial review.
+### 3. Restitution and proof
 
----
+Section 70 requires lawful conferral, non-gratuitous intention and actual enjoyment. The claimant
+must prove the benefit and account for reciprocal advantages. Restitution cannot deliver the
+expectation measure merely because the invalid document named a price.
 
-### 2. Public and private law remedies
+### 4. Later reorganisation and succession
 
-| Route | Trigger | Principal object | Typical forum |
-|---|---|---|---|
-| Contract | Enforceable promise and breach | Expectation or agreed performance | Civil/commercial court or arbitration |
-| Restitution | Non-gratuitous lawful benefit retained | Reverse unjust enrichment | Civil court |
-| Private tort | Duty, breach, causation and damage | Compensate civil wrong | Civil court |
-| Constitutional tort | State violation of Fundamental Rights | Public-law vindication and compensation | Supreme Court/High Court |
-| Judicial review | Illegality, jurisdiction, procedure or rights defect | Control public power | Supreme Court/High Court |
+Articles 294-295 addressed commencement. Later reorganisation statutes and transfer instruments
+allocate land, undertakings, debt, guarantees, staff, pensions, records, contracts, licences and
+pending proceedings. No universal apportionment formula should be invented.
 
-A single factual episode may permit more than one route, but each has distinct ingredients,
-limitation rules, evidence and remedies.
-
----
-
-### 3. Article 299 and relational contracting
-
-Government contracts often involve long duration, public regulation and changing policy.
-Article 299 formalities identify the authorised public commitment; they do not answer every later
-question about:
-
-- variation and extension;
-- force majeure and change in law;
-- price adjustment;
-- termination for public interest;
-- blacklisting and procedural fairness;
-- arbitration clauses; or
-- public-law review of an otherwise contractual decision.
-
-The first question remains whether a valid government contract exists. Only then should the answer
-move to contractual allocation of risk and remedy.
-
----
-
-### 4. Restitution without an enforceable contract
-
-Contract Act Section 70 prevents the State from retaining a lawful, non-gratuitous benefit without
-compensation when:
-
-1. a person lawfully does something for, or delivers something to, another;
-2. the act was not intended to be gratuitous; and
-3. the other person enjoys the benefit.
-
-Restitution is not a method for validating an Article 299-defective contract. It is an independent
-obligation measured by the benefit proved, not automatically by the invalid contract's promised
-price.
-
----
-
-### 5. Sovereign immunity and institutional incentives
-
-Broad immunity weakens incentives to train, supervise, preserve property and compensate preventable
-harm. Unlimited liability can conversely make officials excessively risk-averse and divert public
-funds from services.
-
-A modern design should distinguish:
-
-- combat, foreign affairs and core legislative/judicial functions;
-- policing, custody and coercive power;
-- ordinary transport, property and commercial operations;
-- regulatory enforcement; and
-- Fundamental-Right violations.
-
-The correct answer is a narrow, reasoned immunity doctrine with public-law compensation for rights
-violations and ordinary tort accountability for operational negligence.
-
----
-
-### 6. Vicarious liability and personal fault
-
-Government may be vicariously liable for an employee's tort committed in the course of employment.
-The official may separately face disciplinary, criminal or personal civil consequences where law
-and facts justify them.
-
-Do not assume:
-
-- every official wrong creates State liability;
-- State liability excludes personal liability;
-- a bona fide mistake automatically attracts damages; or
-- mala fide conduct is protected merely because public office supplied the opportunity.
-
-The analysis requires function, course of employment, statutory protection, causation, remedy and
-the distinction between personal fault and institutional responsibility.
-
----
-
-### 7. Procurement as constitutional administration
-
-Public procurement joins contract law to public law because the buyer spends public money and must
-act non-arbitrarily.
-
-The accountability chain is:
+### 5. Procurement and arbitration
 
 ```text
-identified need -> budget/sanction -> transparent specification -> fair competition
--> authorised award -> Article 299-compliant execution -> performance monitoring
--> payment/audit -> dispute resolution and disclosure
+need -> sanction/budget -> fair specification -> equal competition -> reasoned award
+-> Article 299 execution -> monitoring/payment/audit -> dispute resolution
 ```
 
-Equality does not require the State to accept the cheapest bid regardless of quality or risk.
-It requires relevant criteria, equal opportunity, recorded reasons and freedom from favouritism.
+A valid authorised arbitration clause can bind government. Arbitration does not cure absent
+Article 299 authority, erase statutory duties or prevent review of a separate public-law wrong.
 
----
+### 6. State-tort reform
 
-### 8. Arbitration and sovereign accountability
-
-The State may agree to arbitration through a valid authorised contract. Arbitration supplies a
-private adjudicatory mechanism; it does not:
-
-- waive every statutory or constitutional defence;
-- authorise an official who lacked Article 299 power;
-- prevent judicial review of a separate public-law wrong;
-- remove audit and appropriation duties; or
-- convert a reform proposal into enacted law.
-
-Government litigation policy should favour realistic claims, early settlement, competent contract
-management and compliance with awards rather than routine appeals.
-
----
-
-### 9. Reorganisation and succession
-
-When territory or governmental organisation changes, legislation and agreements ordinarily address:
-
-- vesting of land, buildings, records and undertakings;
-- apportionment of debts, guarantees and contractual liabilities;
-- employee allocation and pension responsibility;
-- pending litigation and substitution of parties;
-- tax and public-account balances; and
-- continuation or adaptation of licences and statutory orders.
-
-Articles 294–295 establish constitutional continuity at commencement; later reorganisation depends
-on the governing reorganisation statute and transfer instruments. No universal apportionment
-formula should be invented.
-
----
-
-### 10. Reform framework
-
-1. enact clearer State-tort principles without restoring broad sovereign immunity;
-2. standardise preservation of evidence and compensation after custodial or operational harm;
-3. strengthen pre-contract authority and digital audit trails;
-4. train procurement and contract-management cadres;
-5. use proportionate blacklisting with notice and reasons;
-6. screen government litigation and appeals for public value;
-7. align arbitration strategy with settlement and award compliance; and
-8. publish performance and dispute data without compromising legitimate confidentiality.
+A modern statute should define narrow core-function exceptions, ordinary operational liability,
+custodial and coercive-power duties, contribution from personally culpable officials, limitation,
+evidence preservation, settlement, damages and coordination with constitutional compensation.
+The objective is predictable accountability, not automatic liability for every policy outcome.
 
 ## CONSOLIDATED REGISTER NOTES
 
-### One-page constitutional map
+### Constitutional sequence
 
-```text
-294–295 succession -> 296 ownerless property -> 297 maritime resources
--> 298 trade/property/contract capacity -> 299 mandatory contract form
--> 300 suable Union/State and historical liability baseline
--> 300A lawful property deprivation: law + public purpose + fair process + remedy
-```
+- Articles 294-295: commencement succession to property, assets, rights, liabilities and obligations.
+- Article 296: escheat, lapse and bona vacantia; location rule subject to purpose-based proviso.
+- Article 297: specified maritime lands, minerals, things of value and EEZ resources vest in Union.
+- Article 298: Union/State trade, business, property and contract capacity, subject to legislative control.
+- Article 299: mandatory expression, execution on behalf and authorisation/manner.
+- Article 300: Union of India/State as suable party; historical liability baseline.
+- Article 300A: every person; deprivation only by authority of law; outside Part III.
 
-### Remedy map
+### Government contract rail
 
-| Wrong | Route | Anchor |
-|---|---|---|
-| Valid public contract breached | Contract/arbitration | Arts 298–299 |
-| Defective form, benefit retained | Restitution | Contract Act s 70; B.K. Mondal & Sons (1961) |
-| Operational civil wrong | Private tort | State of Rajasthan v. Vidyawati (1962); N. Nagendra Rao & Co. (1994) |
-| Fundamental-Right violation | Public-law compensation | Rudul Sah v. State of Bihar (1983); Nilabati Behera v. State of Orissa (1993) |
-| Unsupported property deprivation | Article 300A/statutory remedy | K.T. Plantation; Vidya Devi; Bimal Kumar Shah |
-| Illegal administrative action | Judicial review | Arts 32/226 as applicable |
+`Article 298 capacity -> Article 299 form -> valid commitment -> breach remedy`
 
-### High-yield distinctions
+If form fails: *Bhikraj Jaipuria* + *Mulamchand* -> no contract enforcement/ratification/estoppel.
+Then test section 70 independently: lawful conferral + non-gratuitous intention + enjoyed benefit.
+*B.K. Mondal* illustrates restitution; benefit, not promised price, controls.
 
-- Capacity under Article 298 is not valid commitment under Article 299.
-- Personal protection under Article 299(2) or 361 is not immunity of governmental action.
-- A section 70 restitution claim does not validate an Article 299-defective contract.
-- CPC section 80 notice regulates procedure; it does not decide substantive liability.
-- Private tort, constitutional tort and judicial review have different triggers and remedies.
-- Article 300A is a constitutional right for every person, not a Part III Fundamental Right.
-- Evidence privilege under BSA sections 129–130 is distinct from RTI exemptions.
-- RTI sections 8(2) and 22 require public-interest and inconsistency analysis, not blanket disclosure.
+### Tort and constitutional-compensation rail
 
-### Case rail
+- *Vidyawati*: ordinary operational vehicle negligence; State vicariously liable.
+- *Kasturi Lal*: older police-custody sovereign-function immunity; narrowed and criticised.
+- *N. Nagendra Rao*: broad welfare-State immunity untenable; narrow inalienable residue.
+- *Rudul Sah*, *Nilabati Behera*, *D.K. Basu*: public-law compensation for established rights violation.
+- Private tort, public-law compensation, prosecution, discipline and personal liability may coexist.
 
-`P & O` -> `State of Rajasthan v. Vidyawati (1962)` -> `Kasturi Lal v. State of Uttar Pradesh (1964)` -> `Nilabati Behera v. State of Orissa (1993)` -> `N. Nagendra Rao & Co. (1994)`
--> `K.T. Plantation` -> `Vidya Devi` -> `Bimal Kumar Shah`
+### CPC rail
 
-### Seven Article 300A safeguards
+- Section 79: Union of India/name of State.
+- Section 80(1): two-month notice in covered civil suits.
+- Section 80(2): urgent relief with court leave; show-cause opportunity; return if urgency absent.
+- Limitation Act section 15(2): exclude legally required notice period.
+- CPC section 82: three-month unsatisfied period before qualifying execution.
 
-**Notice -> hearing -> reasons -> public purpose -> fair compensation/restitution -> efficient
-process -> conclusion.**
+### Article 300A rail
 
-### Answer-grabbing conclusion
+- Forty-fourth Amendment: removed Article 19(1)(f), omitted Article 31, inserted Article 300A.
+- *Bishambhar Dayal*: executive instruction alone cannot deprive.
+- *Jilubhai*: constitutional, non-Fundamental status; no restoration of old Article 31 adequacy rule.
+- *K.T. Plantation*: public purpose; no arbitrary confiscation or illusory compensation; no universal market-value formula.
+- *Vidya Devi*: unlawful occupation cannot be defended through State adverse possession on those facts.
+- Acquisition = ordinarily permanent; requisition = ordinarily temporary; regulation may fall short of deprivation.
 
-> Indian public law gives government special capacity, form and bounded protection so it can
-> govern continuously; constitutionalism requires that every claimed protection remain tied to
-> an exact source, legitimate function, fair procedure and effective remedy.
+### Thirty-second answer route
+
+Article map -> capacity/form -> contract/restitution -> Article 300 party and CPC procedure ->
+private tort cases -> constitutional compensation -> Article 300A evolution and taxonomy ->
+official/personal liability -> qualified no-blanket-immunity verdict.
+
+### Final qualified verdict
+
+The constitutional scheme neither privileges an immune sovereign nor treats government exactly
+like a private person. It grants public capacity, imposes special form and procedure, preserves
+suability, narrows immunity, and matches relief to contract, unjust enrichment, civil wrong,
+Fundamental-Right violation or unlawful deprivation.
 
 ### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
 
-#### ASCII MASTER FLOW — PANEL 1/12: Government as property-holder, contractor and suable legal person
-
-```ascii-master
-ROOT QUESTION
-How can the State exercise public power yet remain answerable as a legal actor?
-
+```text
+ASCII MASTER FLOW — PANEL 1/12: CONSTITUTIONAL MAP
+==================================================
 PART XII, CHAPTER III
-+-- Articles 294-297 -> succession, ownerless and maritime property
-+-- Article 298 -> trade, business, property and contract capacity
-+-- Article 299 -> mandatory government-contract form
-+-- Article 300 -> suits, proceedings and liability continuity.
+294-295 succession -> 296 escheat/lapse/bona vacantia -> 297 maritime value
+-> 298 trade/property/contract capacity -> 299 mandatory contract form
+-> 300 suits/proceedings
 
-SEPARATE LINK
-Article 300A -> private property may be deprived only by authority of law.
+ADJACENT ARTICLE 300A -> no deprivation of property except by authority of law.
 
-MASTER DISTINCTION
-official personal protection != governmental immunity from review or liability.
-MUST REMEMBER: Keep Articles 294-300 legal capacity, Article 300A property protection and
-  Article 361 personal immunity on separate constitutional tracks.
-```
+MASTER LIMIT: Public power creates special form, not blanket immunity.
 
-#### ASCII MASTER FLOW — PANEL 2/12: Succession, ownerless property and reorganisation
+ASCII MASTER FLOW — PANEL 2/12: COMMENCEMENT SUCCESSION
+=======================================================
+ARTICLE 294
+Dominion property/assets -> Union | Governor's Province -> corresponding State
+rights/liabilities/obligations follow, subject to constitutional adjustments.
 
-```ascii-master
-ARTICLES 294-295
-commencement continuity -> Union/State succeeds to property, rights and liabilities.
+ARTICLE 295
+former Indian State property/right/liability -> Union where Union purpose/list connection applies
+-> otherwise corresponding State, subject to agreement.
 
+LATER REORGANISATION -> governing statute/transfer instrument, not an invented formula.
+
+ASCII MASTER FLOW — PANEL 3/12: OWNERLESS AND MARITIME PROPERTY
+===============================================================
 ARTICLE 296
-escheat/lapse/bona vacantia -> location rule + governmental-purpose proviso.
+escheat = no lawful heir | lapse = failed/terminated title | bona vacantia = ownerless
+property in a State -> that State; other case -> Union
+subject to the governmental-purpose possession/control proviso.
 
 ARTICLE 297
-specified maritime lands, minerals and resources -> Union.
+specified ocean-bed lands, minerals and things of value + EEZ resources -> Union.
 
-LATER REORGANISATION
-statute/agreement -> assets + debt + guarantees + employees
--> contracts/licences + records + pending proceedings.
+TRAP: Article 296 is not compulsory acquisition; Article 297 does not state every zone distance.
 
-TRAP
-no universal apportionment formula; use the exact reorganisation instrument.
-```
+ASCII MASTER FLOW — PANEL 4/12: ARTICLE 298 CAPACITY AND ACCOUNTABILITY
+======================================================================
+UNION + STATE EXECUTIVE POWER
+trade/business + acquire/hold/dispose property + make contracts
+        |
+        v
+PROVISOS preserve the competent legislature's control
+        |
+        v
+Article 14 + statutory law + appropriation + audit + procurement discipline remain.
 
-#### ASCII MASTER FLOW — PANEL 3/12: Articles 298 and 299: capacity before valid commitment
+CAPACITY != VALID ARTICLE 299 COMMITMENT.
 
-```ascii-master
-ARTICLE 298
-executive capacity to trade, do business, acquire/hold/dispose property and contract.
-                              |
-                              v
-ARTICLE 299 MANDATORY FORM
-expressed in President/Governor's name
-+ executed on behalf of that constitutional head
-+ authorised person and prescribed manner.
-                              |
-                              v
-valid public commitment -> no personal liability of head/authorised signatory.
+ASCII MASTER FLOW — PANEL 5/12: ARTICLE 299 CONTRACT FORM
+=========================================================
+VALID GOVERNMENT CONTRACT
+1. expressed to be made by President/Governor
+2. executed on behalf of that constitutional head
+3. executed by authorised person in authorised manner
 
-TRAP
-capacity != authority | signature != authorisation | personal immunity != State immunity.
-```
+Bhikraj Jaipuria + Mulamchand -> mandatory public-policy safeguards;
+performance, ratification or estoppel cannot supply missing form.
 
-#### ASCII MASTER FLOW — PANEL 4/12: Defective contract and restitution
+Article 299(2) -> no personal liability of head/authorised executant;
+governmental liability on a valid contract remains.
 
-```ascii-master
-ARTICLE 299 DEFECT
-purported contract unenforceable as government contract.
-
-INDEPENDENT SECTION 70 ROUTE
+ASCII MASTER FLOW — PANEL 6/12: DEFECTIVE BARGAIN AND RESTITUTION
+================================================================
+ARTICLE 299 DEFECT -> no enforcement as government contract
+        |
+        v
+CONTRACT ACT SECTION 70?
 lawful act/delivery + non-gratuitous intention + government enjoys benefit
--> restitution measured by benefit.
+        |
+        v
+restitution measured by proved benefit
 
-B.K. Mondal & Sons (1961)
-non-gratuitous benefit can create restitutionary liability.
+B.K. Mondal -> benefit route | Mulamchand -> claimant must prove/account.
+LIMIT: restitution does not validate the bargain or guarantee its stated price.
 
-Mulamchand v. State of Madhya Pradesh (1968)
-mandatory Article 299 form remains separate.
-
-LIMIT
-quantum meruit does not validate the contract or automatically award contract price.
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Article 300 and the civil-suit route
-
-```ascii-master
+ASCII MASTER FLOW — PANEL 7/12: ARTICLE 300 AND CIVIL PROCEDURE
+===============================================================
 PROPER PARTY
-Union matter -> Union of India | State matter -> name of State.
+Union matter -> Union of India | State matter -> name of State (CPC 79)
+        |
+        v
+CPC 80(1) two-month notice for covered suit
+OR CPC 80(2) court leave for urgent/immediate relief
+        |
+        v
+Limitation Act 15(2) excludes required notice time
+        |
+        v
+CPC 82: qualifying decree/order/award must remain unsatisfied three months before execution.
 
-CPC SECTION 79
-party description in government litigation.
+PROCEDURE != SUBSTANTIVE IMMUNITY.
 
-CPC SECTION 80
-ordinary official-act suit -> two-month prior notice
--> Section 80(2) court-controlled urgent/immediate-relief route.
+ASCII MASTER FLOW — PANEL 8/12: PRIVATE TORT AND IMMUNITY EVOLUTION
+==================================================================
+P & O Steam Navigation -> colonial sovereign/non-sovereign divide
+        v
+Vidyawati (1962) -> ordinary vehicle negligence; State vicariously liable
+        v
+Kasturi Lal (decided 1964) -> older police custody immunity line
+        v
+N. Nagendra Rao (1994) -> broad immunity untenable; narrow inalienable residue
 
-PROCEEDING
-cause of action -> correct party -> notice/exception -> pleading/evidence
--> decree/appeal/enforcement subject to law.
+TEST: duty + breach + causation + damage + course of employment + statutory defence.
+VERDICT: no blanket sovereign immunity.
 
-TRAP
-procedural notice != substantive sovereign immunity.
-```
+ASCII MASTER FLOW — PANEL 9/12: CONSTITUTIONAL COMPENSATION
+===========================================================
+Rudul Sah -> unlawful detention compensation
+Nilabati Behera -> public-law Article 21 remedy distinct from private tort
+D.K. Basu -> custodial safeguards + enforceable compensation
+        |
+        v
+Articles 32/226 vindicate established Fundamental-Right violation
 
-#### ASCII MASTER FLOW — PANEL 6/12: Private tort and the narrowing of sovereign immunity
+COEXISTS WITH, BUT DOES NOT UNIVERSALLY REPLACE:
+civil damages | prosecution | discipline | statutory compensation.
 
-```ascii-master
-P & O Steam Navigation (1861)
-colonial sovereign/non-sovereign distinction.
-             v
-State of Rajasthan v. Vidyawati (1962)
-ordinary operational negligence can attract State liability.
-             v
-Kasturi Lal v. State of Uttar Pradesh (1964)
-older police-sovereign immunity line.
-             v
-N. Nagendra Rao & Co. (1994)
-broad immunity untenable in welfare State; any residue is narrow.
+ASCII MASTER FLOW — PANEL 10/12: ARTICLE 300A EVOLUTION AND TAXONOMY
+===================================================================
+PRE-44TH: Articles 19(1)(f) + 31 as Fundamental Rights
+44TH AMENDMENT: delete/omit them -> insert Article 300A outside Part III
+        |
+        v
+Bishambhar Dayal -> executive instruction alone is not authority of law
+Jilubhai -> constitutional, non-Fundamental status; former adequacy rule not restored
 
-VERDICT
-no blanket formula: identify function, duty, causation and remedy.
-CLOSE DISTINCTION: Separate a valid Article 299 contract, Contract Act section 70 restitution,
-  private tort, constitutional tort and judicial review.
-```
+ACQUISITION permanent | REQUISITION temporary use/possession
+REGULATION controls use | DEPRIVATION determined by substantive legal effect.
 
-#### ASCII MASTER FLOW — PANEL 7/12: Constitutional tort and vicarious responsibility
+ASCII MASTER FLOW — PANEL 11/12: PUBLIC PURPOSE, COMPENSATION AND OCCUPATION
+============================================================================
+K.T. Plantation
+law + competence + public purpose + no colourable confiscation/illusory compensation
+BUT no automatic constitutional market-value formula in every case.
 
-```ascii-master
-PUBLIC-LAW COMPENSATION
-Rudul Sah v. State of Bihar (1983) -> unlawful detention compensation.
-Nilabati Behera v. State of Orissa (1993) -> Fundamental-Right remedy distinct.
-State of Andhra Pradesh v. Challa Ramkrishna Reddy (2000)
--> prison-rights accountability.
+Vidya Devi
+unsupported executive occupation + no acquisition/compensation -> Article 300A violation
+State could not use adverse possession to sanitise its own unlawful taking on those facts.
 
-PRIVATE TORT
-duty + breach + causation + damage + vicarious-employment nexus.
+Bimal Kumar Shah
+notice -> hearing -> reasons -> public purpose -> compensation/restitution
+-> efficient process -> conclusion.
 
-OFFICIAL RESPONSIBILITY
-State liability may coexist with disciplinary, criminal or personal liability.
+ASCII MASTER FLOW — PANEL 12/12: REMEDY AND ANSWER ROUTE
+========================================================
+VALID CONTRACT BREACH -> contract/arbitration
+DEFECTIVE FORM + BENEFIT -> section 70 restitution
+OPERATIONAL WRONG -> private tort
+FUNDAMENTAL-RIGHT VIOLATION -> constitutional compensation
+PROPERTY DEPRIVATION -> Article 300A + acquisition-law remedies
+ILLEGAL DECISION -> judicial review
+PERSONAL OFFICIAL FAULT -> criminal/disciplinary/personal civil route
 
-LIMIT
-writ compensation vindicates rights; it does not replace every civil trial.
-```
+UPSC SPINE
+map Article -> identify wrong -> select route -> state ingredients -> name case
+-> add procedural boundary -> prevent double recovery -> qualified rule-of-law verdict.
 
-#### ASCII MASTER FLOW — PANEL 8/12: Property, procurement, arbitration and protection boundaries
-
-```ascii-master
-ARTICLE 300A
-deprivation of private property only by authority of law.
-
-PROCUREMENT RAIL
-need/sanction -> fair criteria/competition -> reasoned award
--> Article 299 execution -> performance/payment -> CAG/audit.
-
-ARBITRATION
-valid authorised clause -> tribunal -> award -> statutory challenge/enforcement.
-
-PROTECTION FIREWALL
-Article 361 | Article 299 signatory rule | CPC notice | sanction | privilege
-are separate sources with separate limits.
-
-CURRENT
-GeM/manual/draft reform != constitutional or statutory amendment.
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Article 300A: acquisition discipline and seven safeguards
-
-```ascii-master
-ARTICLE 300A
-every person -> no deprivation of property except by authority of law.
-
-K.T. Plantation (2011)
-public purpose + no arbitrary/confiscatory law + no illusory compensation.
-
-Vidya Devi (2020)
-unsupported executive occupation != lawful acquisition.
-
-Bimal Kumar Shah (2024 INSC 435)
-notice -> hearing -> reasoned decision -> public purpose
--> fair compensation/restitution -> efficient process -> conclusion.
-
-TRAP
-constitutional right outside Part III; neither a Fundamental Right nor a mere statutory right.
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: State secrets: evidence privilege and RTI are distinct
-
-```ascii-master
-LITIGATION-EVIDENCE ROUTE
-BSA section 129 -> unpublished official records concerning affairs of State.
-BSA section 130 -> official confidence where public interest would suffer.
-Raj Narain (1975) + S.P. Gupta (1981) -> no absolute executive secrecy.
-
-RTI ROUTE
-section 8(1)(a) specified prejudicial harms
--> section 8(2) public-interest override
--> section 22 priority over inconsistent law, including Official Secrets Act.
-
-DECISION TEST
-exact source -> identified harm -> severance -> public-interest balance -> reasons -> review.
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Choose the correct remedy and protection
-
-```ascii-master
-START WITH THE WRONG, NOT A BLANKET IMMUNITY
-valid contract breach -> contract/arbitration.
-defective form + retained benefit -> section 70 restitution.
-operational civil wrong -> private tort.
-Fundamental-Right violation -> public-law compensation.
-property deprivation -> Article 300A + acquisition-law remedy.
-illegal administrative decision -> judicial review.
-
-PROCEDURE / PROTECTION FIREWALL
-CPC 79 proper party | CPC 80 notice/urgent route | BNSS 218 sanction
-| Article 361 | Article 299(2) | BSA 129-130.
-
-Each source has its own trigger, decision-maker, limit and remedy.
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: UPSC synthesis: no blanket immunity in government under law
-
-```ascii-master
-PRELIMS FIREWALL
-294/295 succession | 296 ownerless property | 297 maritime resources
-| 298 capacity | 299 form | 300 suits | 300A property right
-| Section 70 restitution != valid contract | Section 80 notice != immunity.
-
-MAINS SPINE
-legal person -> property/succession -> capacity/form
--> restitution -> suit procedure -> private tort
--> constitutional tort -> procurement/arbitration -> qualified reform.
-
-PYQ SPINE
-2025 immunity statements test source separation, not blanket State immunity.
-
-VERDICT
-public power carries special form and protection, but remains legally answerable.
-
-CURRENT CONTROL: 5 SEPTEMBER 2026
-Bernard Francis Joseph Vaz, 2025 INSC 3, reinforces timely adequate
-Article 300A compensation. Contract, restitution, tort, constitutional
-compensation, review and official protection remain separate routes.
-LEGAL/SOURCE LIMIT: The official constitutional and procedural texts remain controlling; 2025
-  INSC 3 reinforces timely adequate compensation under Article 300A.
 ```

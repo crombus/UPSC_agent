@@ -5,15 +5,20 @@ Topic: Lok Adalats and Other Courts
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 54
-Source record ID: polity-54:learner-v2:g4
-Source generation: 4
-Approval: Approval pending
 
 Deliverables
 ------------
-1. Complete Learning Session — PDF
-2. Solved Practice Workbook — PDF
-3. Carvaka Graphical Flowchart — poster PDF, printable tiled PDF, and high-resolution PNG
-4. ASCII Master Flowchart — standalone PDF and authored text
+1. Complete Learning Session - PDF
+2. Solved Practice Workbook - PDF
+3. Graphical Flowchart - high-resolution PNG, one-page poster PDF and tiled printable PDF
+4. ASCII Master Flowchart - standalone PDF and authored text
 
-Navigation command: Open final package: Polity — Subject-wide Syllabus — Lok Adalats and Other Courts
+Coverage
+--------
+- Article 39A and Article 21 access-to-justice jurisprudence
+- Legal Services Authorities Act, 1987 institutions, eligibility and Lok Adalat regimes
+- Family Courts Act, 1984 and Gram Nyayalayas Act, 2008
+- 32 original MCQs with A-B-C-D rotation repeated eight times
+- 128 option-specific explanations, 32 examiner traps and 6 original Mains models
+
+Navigation command: Open final package: Polity - Subject-wide Syllabus - Lok Adalats and Other Courts

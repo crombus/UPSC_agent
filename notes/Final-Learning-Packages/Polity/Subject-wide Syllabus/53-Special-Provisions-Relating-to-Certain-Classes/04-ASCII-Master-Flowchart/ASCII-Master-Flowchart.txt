@@ -1,107 +1,123 @@
-ASCII MASTER FLOW — PANEL 1/12: Part XVI: four distinct constitutional techniques
-ROOT: inclusion is pursued through different legal effects.
+ASCII MASTER FLOW — PANEL 1/12: Core concept and constitutional origin
+ROOT: Part XVI uses different legal techniques to pursue substantive equality.
 
-REPRESENTATION -> Arts 330-334A.
-SERVICES -> Art 335 with Arts 15-16 cross-route.
-SAFEGUARDS -> Arts 338-340.
-IDENTIFICATION -> Arts 341-342A.
+REPRESENTATION -> Articles 330-334A.
+SERVICE CLAIMS -> Article 335.
+COMMISSIONS / OVERSIGHT -> Articles 338-340.
+CLASS IDENTIFICATION -> Articles 341-342A.
 
-FIREWALL: list != quota != commission report != welfare scheme.
-MUST REMEMBER: Keep representation, service claims, safeguard commissions and beneficiary-list
-  identification as four legally distinct Part XVI techniques.
+FIREWALL: a list identifies; a reservation provision authorises; a commission monitors.
 
-ASCII MASTER FLOW — PANEL 2/12: SC/ST legislative seats and territorial electorate
-ART 330 -> Lok Sabha SC/ST seats.
-ART 332 -> Assembly SC/ST seats plus specified North-East rules.
-SEAT/CANDIDACY RESERVED -> all constituency electors vote ordinarily.
+ASCII MASTER FLOW — PANEL 2/12: Articles 330 and 332 plus delimitation
+ARTICLE 330 -> SC/ST seats in Lok Sabha, broadly population-proportionate.
+ARTICLE 332 -> SC/ST seats in State Assemblies, with specified North-East safeguards.
+ORDINARY TERRITORIAL ELECTORATE -> every elector votes; no separate electorate.
 
-LIMIT: no Rajya Sabha or Legislative Council reservation under these Articles.
-TRAP: political reservation != separate electorate.
+POPULATION EXPLANATION -> 2001 figures continue until relevant first post-2026 census figures
+  publish.
+ARTICLES 82/170 -> total-seat readjustment remains frozen pending that publication.
+87TH AMENDMENT -> constituency readjustment could use 2001 figures without changing frozen totals.
 
-ASCII MASTER FLOW — PANEL 3/12: Article 334 clocks and Anglo-Indian transition
-104TH AMENDMENT
-SC/ST seat reservation -> eighty years from commencement -> 25 January 2030.
-Anglo-Indian nomination -> seventy-year clock not extended -> ceased in 2020.
+ASCII MASTER FLOW — PANEL 3/12: Articles 330A, 332A and 334A
+106TH AMENDMENT (2023) -> inserted Articles 330A, 332A, 334A and amended Article 239AA.
+S.O. 1922(E), 16 APRIL 2026 -> Amendment commenced.
 
-ARTS 336-337 -> ten-year transitional protections exhausted.
-TRAP: cessation through time clause != automatic textual deletion.
+OPERATION CHAIN:
+first census taken after commencement -> relevant figures published
+-> delimitation for this purpose -> reservation takes electoral effect.
 
-ASCII MASTER FLOW — PANEL 4/12: 106th Amendment: five-gate status chain
-ENACTMENT / INCORPORATION
-        -> Gazette-appointed COMMENCEMENT under section 1(2)
-        -> first post-commencement census
-        -> relevant figures published
-        -> delimitation for this purpose
-        -> electoral operation under Art 334A.
+SCOPE -> Lok Sabha, State Assemblies, Delhi Assembly; not Rajya Sabha or Councils.
+DESIGN -> about one-third overall, including about one-third within SC/ST reserved seats.
 
-SCOPE: Lok Sabha, State Assemblies and Delhi Assembly; not Rajya Sabha/Councils.
+ASCII MASTER FLOW — PANEL 4/12: Duration, rotation and existing Houses
+ARTICLE 334A(1) -> fifteen years from commencement of the reservation provisions.
+ARTICLE 334A(2) -> Parliament may by law determine continuation.
+ARTICLE 334A(3) -> rotation after each subsequent delimitation as Parliament determines by law.
+ARTICLE 334A(4) -> existing House/Assembly representation continues until dissolution.
 
-CURRENT STATUS: 5 SEPTEMBER 2026
-S.O. 1922(E) commenced the Amendment on 16 April 2026.
-The remaining chain is post-commencement census figures -> publication
--> delimitation -> electoral operation. Commenced != electorally applied.
+CURRENT STATUS, 9 SEPTEMBER 2026:
+Amendment commenced; relevant census figures and purpose-specific delimitation are not complete.
+Therefore the reservation is not yet electorally operational.
 
-ASCII MASTER FLOW — PANEL 5/12: Delimitation and women-within-SC/ST seats
-ARTS 330A / 332A -> one-third design, including one-third within SC/ST reserved seats.
-ART 334A -> fifteen-year duration from operational commencement; later continuation by law.
-ROTATION -> after subsequent delimitation as Parliament provides.
+ASCII MASTER FLOW — PANEL 5/12: Anglo-Indian representation and transition
+ARTICLE 331 -> President could nominate up to two Anglo-Indians to Lok Sabha.
+ARTICLE 333 -> Governor could nominate one Anglo-Indian to a State Assembly.
+ARTICLE 334 -> SC/ST seat clock is eighty years; nomination clock remained seventy years.
+104TH AMENDMENT (2019, effective 2020) -> SC/ST reservation to 25 January 2030;
+Anglo-Indian nomination ceased after 25 January 2020.
 
-TRAP: census publication alone does not draw constituencies.
+ARTICLE 336 -> specified Union-service transition ended after ten years.
+ARTICLE 337 -> diminishing educational-grant transition ended after ten years.
+TRAP: ceased operation is not the same as textual deletion of Articles 331/333.
 
-ASCII MASTER FLOW — PANEL 6/12: Article 335 and the equality-service bridge
-SC/ST CLAIMS IN SERVICES
-        + maintenance of administrative efficiency.
-82ND AMENDMENT PROVISO -> qualifying-mark/evaluation relaxation for promotion reservation.
-M. Nagaraj (2006) + Jarnail Singh (2018) -> controlling promotion doctrine.
+ASCII MASTER FLOW — PANEL 6/12: Article 335 service-claim bridge
+ARTICLE 335 -> SC/ST claims considered in Union/State appointments consistently with efficiency.
+82ND AMENDMENT (2000) -> permits qualifying-mark/evaluation relaxation for promotion reservation.
+ARTICLE 335 -> no fixed quota; no definition of "efficiency"; no OBC/EWS source.
 
-TRAP: no fixed quota and no definition of efficiency.
-CLOSE DISTINCTION: Separate list membership, benefit design, sub-classification, monitoring,
-  delimitation and electoral operation by exact competent authority.
+M. NAGARAJ (2006) and JARNAIL SINGH (2018) -> promotion doctrine belongs with Articles
+  16(4A)/(4B).
+DAVINDER SINGH (2024) -> efficiency should promote inclusion; Article 335 is a restatement,
+not a free-standing veto over substantive equality.
 
-ASCII MASTER FLOW — PANEL 7/12: NCSC, NCST, NCBC and neighbouring powers
-ART 338 -> NCSC | 338A -> NCST | 338B -> NCBC.
-INQUIRY + REPORT + ADVICE + CIVIL-COURT POWERS -> accountability, not binding decree.
-ART 339 -> Scheduled Areas/ST welfare supervision.
-ART 340 -> temporary backward-class investigation commission.
-ART 275 -> separate welfare-grant route.
+ASCII MASTER FLOW — PANEL 7/12: Articles 338, 338A and 338B institutions
+ARTICLE 338 -> NCSC: monitor safeguards, inquire complaints, advise/evaluate, report.
+ARTICLE 338A -> NCST: parallel ST safeguard body with tribal-development focus.
+ARTICLE 338B -> NCBC: SEBC safeguard body constitutionalised by 102nd Amendment.
 
-ASCII MASTER FLOW — PANEL 8/12: SC/ST list authority under Articles 341-342
-PRESIDENT -> initial State/UT-specific specification after required consultation.
-PARLIAMENT BY LAW -> inclusion/exclusion.
-STATE -> cannot alter list by executive or legislation.
+COMMON MECHANISM -> President-appointed Chair, Vice-Chair and three members;
+investigative civil-court powers; reports plus action-taken/non-acceptance memoranda.
+LIMIT -> reports are influential but not binding decrees; commissions cannot alter lists.
+ARTICLE 338(10) -> NCSC reference includes the Anglo-Indian community.
 
-TERRITORIALITY: status is not automatically pan-India.
-TRAP: commission recommendation does not amend the list.
+ASCII MASTER FLOW — PANEL 8/12: Articles 339 and 340
+ARTICLE 339(1) -> President may appoint a Scheduled Areas/ST-welfare commission;
+appointment was compulsory after ten years from Constitution commencement.
+ARTICLE 339(2) -> Union may direct States on schemes essential for ST welfare.
 
-ASCII MASTER FLOW — PANEL 9/12: SEBC federalism: 102nd to 105th Amendments
-102ND -> Arts 338B + 342A + Art 366(26C).
-Jaishri Laxmanrao Patil (2021) -> pre-105th interpretation.
-105TH -> Central List for Central purposes + State/UT own-purpose list by law.
+ARTICLE 340 -> President may appoint a temporary commission to investigate SEBC conditions,
+difficulties, remedies and grants; report plus action memorandum goes to Parliament.
 
-LIMIT: State SEBC power does not alter SC/ST lists.
+DISTINCTION -> Article 339 supervision is not Fifth/Sixth Schedule administration;
+Article 340 commission is not the permanent NCBC under Article 338B.
 
-ASCII MASTER FLOW — PANEL 10/12: EWS as a separate equality route
-103RD AMENDMENT -> Arts 15(6) and 16(6).
-ADDITIONAL RESERVATION -> up to 10% in each clause's field.
-JANHIT ABHIYAN (2022) -> upheld 3:2.
+ASCII MASTER FLOW — PANEL 9/12: Articles 341 and 342 list mechanics
+ARTICLE 341 -> President initially specifies State/UT-specific Scheduled Castes;
+Parliament alone may include or exclude by law.
+ARTICLE 342 -> same architecture for Scheduled Tribes.
 
-FIREWALL: EWS != Article 342A SEBC list != Article 335 SC/ST service claim.
+STATE ROLE -> consultation at initial State notification; no independent list alteration.
+TERRITORIALITY -> status in one State/UT is not automatically status everywhere.
+COMMISSION ADVICE -> evidence for government/Parliament, not a list-amending act.
 
-ASCII MASTER FLOW — PANEL 11/12: Davinder Singh (2024): distribution, not list alteration
-E.V. Chinnaiah v. State of Andhra Pradesh (2004) -> earlier indivisibility rule.
-Davinder Singh (2024) -> overruled it on sub-classification.
-STATE MAY -> use evidence for fair distribution within notified SC class.
-STATE MAY NOT -> alter Art 341 list or wholly exclude a listed caste.
+ASCII MASTER FLOW — PANEL 10/12: Article 342A and SEBC federalism
+102ND AMENDMENT (2018) -> Article 338B, original Article 342A, Article 366(26C).
+JAISHRI LAXMANRAO PATIL (2021) -> majority read pre-105th text as displacing State identification.
+105TH AMENDMENT (2021) -> Central List retained for Central purposes;
+States/UTs may by law maintain own-purpose lists, which may differ.
 
-No automatic nationwide mandate.
+ARTICLE 342A(1)-(2) -> President specifies and Parliament varies the Central List.
+ARTICLE 342A(3) -> State/UT own-purpose list by law.
+LIMIT -> State SEBC power does not alter Articles 341/342 SC/ST lists.
 
-ASCII MASTER FLOW — PANEL 12/12: UPSC decision tree and qualified verdict
-1 FIELD -> legislature/local body/education/service.
-2 CLASS -> SC/ST/SEBC/EWS.
-3 AUTHORITY -> President/Parliament/State/commission/delimitation body.
-4 EFFECT -> identify/benefit/monitor/adjudicate.
-5 STATUS -> amendment, case, notification and date.
+ASCII MASTER FLOW — PANEL 11/12: EWS and SC sub-classification firewalls
+103RD AMENDMENT (2019) -> Articles 15(6), 16(6) enable EWS measures; not Article 342A.
+JANHIT ABHIYAN (2022) -> 3:2 majority upheld that amendment.
 
-VERDICT: substantive equality requires exact-source discipline.
-LEGAL/SOURCE LIMIT: S.O. 1922(E) commenced the 106th Amendment on 16 April 2026, but Article
-  334A electoral operation still awaits census figures and delimitation.
+E.V. CHINNAIAH (2004) -> treated notified SCs as indivisible for sub-classification.
+STATE OF PUNJAB v DAVINDER SINGH (2024) -> 6:1 Court overruled that bar.
+STATE MAY -> use rational, evidence-based sub-classification under Articles 15(4)/16(4).
+STATE MAY NOT -> change Article 341 list or give all SC-reserved seats exclusively to a subgroup.
+NO AUTOMATIC RULE -> sub-classification is enabling, reviewable and not nationally compulsory.
+
+ASCII MASTER FLOW — PANEL 12/12: Examiner decision tree and answer spine
+STEP 1 FIELD -> Parliament/Assembly, local body, education, service, welfare or list.
+STEP 2 CLASS -> SC, ST, SEBC, EWS or Anglo-Indian transition.
+STEP 3 SOURCE -> exact Article, amendment, statute, notification or judgment.
+STEP 4 AUTHORITY -> President, Parliament, State law, commission or delimitation process.
+STEP 5 EFFECT -> identify, represent, distribute, monitor, fund or adjudicate.
+STEP 6 STATUS -> enacted, commenced, operational, expired or pending implementation.
+
+ANSWER VERDICT:
+Part XVI is a differentiated constitutional architecture; precision about source,
+authority and legal effect is the safeguard against both under-inclusion and overclaim.

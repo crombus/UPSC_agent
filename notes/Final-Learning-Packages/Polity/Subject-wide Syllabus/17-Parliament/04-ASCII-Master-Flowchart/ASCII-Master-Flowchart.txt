@@ -1,193 +1,183 @@
-ASCII MASTER FLOW — PANEL 1/12: Article 79 architecture, composition and representation
-CORE RULE
-Article 79 creates one Parliament from the President and two differently constituted Houses.
+ASCII MASTER FLOW — PANEL 1/12: Core concept, origin and constitutional identity
 
-OPERATING MECHANISM
-President + Lok Sabha + Rajya Sabha combine assent, popular mandate and federal revision.
+PARLIAMENT = President + Rajya Sabha + Lok Sabha (Article 79)
+|
++-- law-making and constitutional amendment
++-- taxation, supply and expenditure authorisation
++-- representation of people and States
++-- executive accountability
++-- deliberation, petitions, committees and public record
+`-- constitutionally limited: competence + rights + federalism + review + basic structure
 
-EXAM LIMIT
-President is integral to Parliament but is not a member of either House.
+Cross-links after minimum rule:
+- Article 75(3): Council collectively responsible to Lok Sabha -> detailed owner Topic 16.
+- Article 123: temporary ordinance power during the specified recess condition -> President interface.
+- Tenth Schedule: defection grounds and adjudication -> anti-defection owner.
+- Article 368: special amendment procedure and basic-structure limit -> amendment owner.
 
-ANSWER LINE
-Use this route to show that this design combines popular authority, federal revision and
-constitutional form.
-MUST REMEMBER: Audit Parliament through Articles 79-122 and the financial provisions:
-  composition, officers, sessions, membership, privileges, legislation, lapse, joint sitting,
-  finance, committees and accountability require their own procedural chains.
+ASCII MASTER FLOW — PANEL 2/12: Composition, election, duration and delimitation
 
-ASCII MASTER FLOW — PANEL 2/12: Membership, disqualification, vacancies and opposition
-CORE RULE
-Articles 84, 101-103 regulate entry, continuity and disqualification; the 1977 Act governs LoP
-recognition.
+Ancient sabha/samiti -> historical vocabulary, not direct legal source
+1861-1935 councils -> representation, questions, budget discussion and bicameral experience
+1946-49 Constituent Assembly -> responsible government + bicameralism + constitutional supremacy
+1950 Articles 79-122 commence
+1951 First Amendment, s.6 -> substituted Article 85(1)-(2): six-month inter-session ceiling plus presidential prorogation/dissolution powers
+1952 first Lok Sabha / Council of States begin
+1985 52nd Amendment -> Article 102(2) + Tenth Schedule defection disqualification
+2001 84th Amendment, ss.3-7 -> Article 81(3) proviso, Article 82 third proviso and linked Articles 170/330/332: freeze extended to first post-2026 census publication; 1991 data enabled limited boundary/reserved-seat readjustment
+2003 87th Amendment, ss.2-5 -> Article 81(3) proviso cl.(ii), Article 82 third proviso cl.(ii), Article 170(2)/(3) Explanations and Article 330 Explanation: 1991 replaced by 2001 census
+2019 104th Amendment, s.2 -> Article 334 long line: eighty years for cl.(a) SC/ST reservation, seventy years for cl.(b) Anglo-Indian special representation; latter ceased after 2020
+2023 106th Amendment, ss.2-5 -> inserted Article 239AA(2)(ba)-(bc), Articles 330A/332A/334A: one-third women's reservation, including within SC/ST seats, after the census-publication/delimitation trigger
 
-OPERATING MECHANISM
-Qualification, vacancy, ECI opinion and presiding-officer recognition keep membership legally
-controlled.
+ASCII MASTER FLOW — PANEL 3/12: Articles 79-88 organisation and participation
 
-EXAM LIMIT
-The 1977 Act has no ten-percent LoP threshold; do not confuse practice with statutory text.
+79 -> President + Council of States + House of the People constitute Parliament.
+80 -> Rajya Sabha: State/UT representation + 12 presidential nominees in literature, science, art and social service.
+81 -> Lok Sabha: State/UT seats and population-representation principles; current elected strength 543, vacancies vary.
+82 -> readjustment follows census through parliamentary law/authority, subject to constitutional freeze provisos.
+83 -> Rajya Sabha continues; LS normally five years; Emergency extension one year at a time, max six months after cessation.
+84 -> citizenship, prescribed oath-related requirement, age 30 RS/25 LS and qualifications by parliamentary law.
+85 -> President summons/prorogues and dissolves LS; max six months between last sitting and next session's first sitting.
+86 -> President may address either/both Houses and send messages.
+87 -> special address after general election and first session each year; Houses discuss the address.
+88 -> ministers/Attorney-General may participate across Houses/joint sitting/committees; vote follows membership.
 
-ANSWER LINE
-Use this route to show that different mandates explain later differences in finance,
-confidence and federal revision.
+ASCII MASTER FLOW — PANEL 4/12: Articles 89-106 officers, secretariats and membership
 
-ASCII MASTER FLOW — PANEL 3/12: Sessions, sittings, quorum and accountability devices
-CORE RULE
-Article 85 guarantees recurrence, while House rules turn sittings into questioning and debate.
+89-92 -> Vice-President is ex officio RS Chairman; RS elects Deputy Chairman; vacancy/acting/removal safeguards decoded.
+93-96 -> LS elects Speaker/Deputy Speaker; effective-majority removal + 14 days' notice; Speaker survives dissolution to new House's first sitting.
+97 -> presiding-officer salaries/allowances by parliamentary law and charged on Consolidated Fund.
+98 -> each House has separate secretariat; common posts possible; Parliament regulates service conditions.
+99 -> Third Schedule oath/affirmation before taking seat.
+100 -> present-and-voting majority; chair casting vote on equality; vacancies do not invalidate proceedings; quorum one-tenth.
+101 -> double membership, resignation, disqualification vacancy and sixty-day unauthorised-absence route.
+102(1) -> office of profit, court-declared unsound mind, undischarged insolvency, foreign citizenship/allegiance, statutory grounds.
+102(2) -> Tenth Schedule defection disqualification, inserted by 52nd Amendment (1985).
+103 -> President decides Article 102(1) sitting-member question after obtaining ECI opinion.
+104 -> daily constitutional monetary liability for knowingly sitting/voting before oath or while unqualified/disqualified.
+105 -> speech/vote/publication immunity and House privileges; functional, not criminal impunity.
+106 -> MPs' salaries/allowances determined by parliamentary law.
+Current checked 7 September 2026 -> Speaker Om Birla; LS Deputy Speaker vacant; RS Chairman C. P. Radhakrishnan; Deputy Chairman Harivansh.
 
-OPERATING MECHANISM
-Summoning enables questions and motions, but no constitutional minimum sitting-day floor
-exists.
+ASCII MASTER FLOW — PANEL 5/12: Sessions, language, questions, motions and resolutions
 
-EXAM LIMIT
-Budget, Monsoon and Winter are conventions, not constitutionally fixed sessions.
+SESSION (President summons/prorogues) -> SITTING (chair adjourns/sine die)
+Budget/Monsoon/Winter -> convention, not constitutional categories.
+Article 120 -> Hindi or English; chair may permit mother tongue.
+Question Hour -> starred oral + supplementaries; unstarred written; short-notice urgent oral; private-member questions possible.
+Zero Hour -> informal Indian innovation since 1962; not written in Rules.
+Calling Attention -> urgent ministerial statement; no vote.
+Adjournment Motion -> LS extraordinary urgent-public-matter censure; fifty-member support.
+No-confidence -> LS Rule 198; fifty-member leave; reasons unnecessary; passage tests whole Council under Article 75(3).
+Censure -> reasons/policy or actor specified; politically serious but not identical to no-confidence.
+Resolution -> self-contained substantive decision/opinion; every resolution is a motion, not every motion a resolution.
+Cut motions -> policy Re 1; economy specified reduction; token Rs 100.
 
-ANSWER LINE
-Use this route to show that these routes protect legislative integrity without merging
-election petitions and vacancy rules.
+ASCII MASTER FLOW — PANEL 6/12: Articles 107-111 legislation, deadlock and lapse
 
-ASCII MASTER FLOW — PANEL 4/12: Presiding officers, neutrality and privilege
-CORE RULE
-Articles 93-97 and 105 protect ordered, independent legislative work within reviewable limits.
+107 -> ordinary Bill may originate either House; both ordinarily agree; prorogation does not lapse Bills.
+Ordinary route -> introduction -> principle -> committee/detailed scrutiny -> clauses -> third reading -> second House -> President.
+Government Bill -> minister sponsor; Private Member's Bill -> non-minister sponsor under allotted House time.
+108 -> eligible deadlock: rejection, final amendment disagreement or >6-month delay -> President may summon joint sitting.
+Joint sitting excluded -> Money Bill and Constitution Amendment Bill.
+Three instances -> Dowry Prohibition 1961; Banking Service Commission Repeal 1978; POTA 2002.
+109 -> Money Bill LS-only; RS recommendations within 14 days; LS may accept/reject; no joint sitting.
+110 -> Bill must contain ONLY listed money matters + incidental provisions; Speaker certifies.
+111 -> President: assent/withhold; may return non-Money Bill once; repassage makes assent mandatory.
+Lapse on LS dissolution -> Bill pending in LS; Bill passed by LS pending in RS.
+No lapse -> RS-pending not passed by LS; both-House-passed awaiting assent; returned Bill; notified joint-sitting intention.
 
-OPERATING MECHANISM
-Chairs manage procedure and privilege protects function; reasoned review checks constitutional
-misuse.
+ASCII MASTER FLOW — PANEL 7/12: Articles 112-119 budget and financial control
 
-EXAM LIMIT
-Deputy Speaker vacancy since May 2019 is a dated fact, not a constitutional rule.
+112 Annual Financial Statement -> estimated receipts/expenditure + charged/voted split.
+113 -> charged expenditure discussed, not voted; LS votes demands for grants on presidential recommendation.
+114 -> Appropriation Act legally authorises withdrawal from Consolidated Fund.
+115 -> supplementary/additional/excess grants.
+116 -> vote on account / vote of credit / exceptional grant.
+117(1) Financial Bill-I -> Article 110 matter + other matter; LS-only introduction + recommendation; RS otherwise ordinary power.
+117(3) Financial Bill-II -> either-House origin; recommendation before consideration; ordinary bicameral power.
+118 -> House rules and joint-sitting procedure.
+119 -> Parliament may by law regulate financial-business completion.
+Power-of-purse chain -> Budget -> grants/cut motions -> appropriation -> execution -> CAG -> PAC.
 
-ANSWER LINE
-Use this route to show that correct time vocabulary determines whether business survives and
-accountability can recur.
+ASCII MASTER FLOW — PANEL 8/12: Committees, delegated legislation and executive scrutiny
 
-Sita Soren (2024): no bribery immunity.
+Standing -> financial / DRSC / inquiry / scrutiny-control / day-to-day House committees.
+Ad hoc -> Select or Joint Committee on Bill; inquiry JPC.
+PAC -> 22 (15 LS+7 RS); CAG-linked post-expenditure regularity; Opposition chair by convention.
+Estimates -> 30 LS only; economies, efficiency and estimate presentation.
+CoPU -> 22 (15 LS+7 RS); specified public undertakings.
+DRSCs -> 24; normally 31 each (21 LS+10 RS); demands, referred Bills, annual reports, long-term policy; ministers barred.
+Subordinate Legislation Committee -> checks rules/regulations against parent Act, delegation and procedure.
+Government Assurances Committee -> tracks ministerial undertakings on floor.
+Ethics Committee -> unethical conduct; distinct from privilege breach.
+Private Members' Bills and Resolutions Committee -> classification/time allocation for LS private business.
+Committee value -> time + expertise + evidence + cross-party work.
+Limit -> advisory reports + discretionary referral + one-year term + attendance/research constraints.
 
-ASCII MASTER FLOW — PANEL 5/12: Ordinary legislation and the Bill-class firewall
-CORE RULE
-Bill classification determines origin, recommendation, Upper-House power, deadlock and assent.
+ASCII MASTER FLOW — PANEL 9/12: Rajya Sabha, Lok Sabha and sovereignty limits
 
-OPERATING MECHANISM
-Correct classification channels each Bill through the constitutionally assigned legislative
-route.
+EQUAL -> ordinary Bills, Article 368 amendments, impeachment/removal participation, elections where Constitution so provides.
+LOK SABHA SPECIAL -> confidence Art 75(3); demands Art 113; Money/Financial-I origin Arts 109/117; joint-sitting numbers.
+RAJYA SABHA SPECIAL ->
+  Art 249: 2/3 present/voting national-interest resolution opens temporary State-List competence.
+  Art 312: same gateway authorises creation of All India Service by parliamentary law.
+  Art 67(b): initiates Vice-President removal; LS agrees.
+  Arts 352/356/360: approval-continuity bridge when LS is dissolved, subject to later LS approval.
+INDIAN PARLIAMENT != WESTMINSTER SOVEREIGN ->
+  limited by Seventh Schedule competence, Fundamental Rights, federalism, special procedures, judicial review and basic structure.
 
-EXAM LIMIT
-A Financial Bill-I is not a Money Bill; Rajya Sabha retains full legislative power.
+ASCII MASTER FLOW — PANEL 10/12: Amendments, cases and ordinance interface
 
-ANSWER LINE
-Use this route to show that the devices span disclosure, debate, censure, financial pressure
-and government removal.
+First Amendment 1951, s.6 -> substituted Article 85(1)-(2): six-month inter-session control and presidential prorogation/dissolution powers.
+31st Amendment 1973, s.2 -> Article 81(1)(a)-(b) and proviso to Article 81(2)(a): raised then-applicable State ceiling to 525, fixed UT ceiling at 20 and protected small States from strict inter-State ratio.
+42nd Amendment 1976, ss.24-25 -> proviso to Article 81(3) and third proviso to Article 82: 1971 census basis retained until publication of the first census after 2000.
+52nd Amendment 1985, s.3 and Schedule -> inserted Article 102(2) and the Tenth Schedule: parliamentary defection becomes disqualification.
+61st Amendment 1988, s.2 -> Article 326: voting age reduced from 21 to 18, enlarging the Lok Sabha electorate.
+84th Amendment 2001, ss.3-7 -> Article 81(3) proviso, Article 82 third proviso and linked Articles 170/330/332: extended the freeze and enabled 1991-based limited readjustment.
+87th Amendment 2003, ss.2-5 -> Article 81(3) proviso cl.(ii), Article 82 third proviso cl.(ii), Article 170(2)/(3) Explanations and Article 330 Explanation: 1991 replaced by 2001.
+104th Amendment 2019, s.2 -> Article 334: cl.(a) SC/ST reservation extended to eighty years; cl.(b) Anglo-Indian special representation retained only for seventy years and ceased.
+106th Amendment 2023, ss.2-5 -> Article 239AA(2)(ba)-(bc) plus Articles 330A/332A/334A: one-third women's reservation, including SC/ST sub-reservation, after the statutory trigger.
+Kuldip Nayar (2006) -> upheld RS open ballot and removal of State-domicile requirement.
+Kihoto Hollohan (1992) -> Speaker's Tenth Schedule decision subject to judicial review.
+Lily Thomas (2013) -> invalidated RPA s.8(4) sitting-member conviction shield.
+Raja Ram Pal (2007) -> expulsion power exists, but privilege action is reviewable for substantive illegality.
+Sita Soren (2024) -> bribery for speech/vote receives no legislative immunity; overrules PV Narasimha Rao on that point.
+Rojer Mathew (2019) -> Money Bill certification not wholly immune; broader Article 110 issue referred to larger Bench.
+D.C. Wadhwa (1987) / Krishna Kumar Singh (2017) -> routine ordinance repromulgation is constitutionally impermissible.
 
-ASCII MASTER FLOW — PANEL 6/12: Joint sitting, lapse and ordinance return
-CORE RULE
-Articles 108, 111 and 123 connect deadlock, assent, dissolution and temporary executive
-lawmaking.
+ASCII MASTER FLOW — PANEL 11/12: Current control, traps, ethics and reform
 
-OPERATING MECHANISM
-Joint sitting resolves eligible deadlocks; dissolution selectively lapses Bills; ordinances
-return to Parliament.
+106th Amendment -> commenced 16 April 2026; reservation still non-operational under Article 334A sequence.
+Census 2027 -> notified; publication date of relevant figures and delimitation date remain unknown.
+2026 delimitation-linked Bills -> introduced, constitutional amendment defeated 17 April 2026; proposals never became law.
+Rojer Mathew larger-Bench Article 110 issue -> no final official judgment located by 7 September 2026.
 
-EXAM LIMIT
-Money and Constitution Amendment Bills have no joint-sitting route.
+TRAPS:
+- President part of Parliament, not House member.
+- RS State seats unequal; RS permanent, members not permanent.
+- Article 85 has no three-session or sitting-day minimum.
+- Speaker continues after dissolution; no constitutional party-resignation duty.
+- Money Bill != every Finance Bill; Appropriation != taxation.
+- charged expenditure discussable, not voted.
+- joint sitting excludes Money and amendment Bills.
+- Article 122 irregularity shield != immunity from substantive review.
 
-ANSWER LINE
-Use this route to show that Sita Soren (2024) preserves institutional independence by denying
-immunity that subverts it.
-CLOSE DISTINCTION: Keep constitutional text, House rules and conventions separate. Speaker
-  certification is textually final but not wholly immune from constitutional review; Rajya
-  Sabha is subordinate on money and confidence but co-equal on ordinary legislation and
-  amendment, with exclusive Articles 249/312 powers.
+REFORM:
+minimum sitting calendar + default committee referral + protected Question Hour
++ reasoned/timely presiding rulings + narrower survival whip
++ pre-legislative consultation + post-legislative review + research support.
 
-ASCII MASTER FLOW — PANEL 7/12: Budget, grants, funds and power of the purse
-CORE RULE
-Articles 112-116 and 266-267 create an authorisation-to-audit chain for public money.
+ASCII MASTER FLOW — PANEL 12/12: PYQ routes, answer spine and qualified verdict
 
-OPERATING MECHANISM
-Disclosure, grant voting, appropriation, expenditure and CAG-PAC audit form one control cycle.
+1 DEFINE -> Article 79 tripartite, bicameral and constitutionally limited institution.
+2 CLASSIFY SOURCE -> text / statute / House rule / convention / judgment / dated practice.
+3 MAP MECHANISM -> representation -> deliberation -> legislation/supply -> scrutiny -> accountability.
+4 NAME EVIDENCE -> exact Article + committee/case/amendment + one-line effect.
+5 EVALUATE -> formal capacity versus political use; popular mandate versus federal revision.
+6 QUALIFY -> procedure autonomy does not erase constitutional review; stability does not justify deliberative bypass.
+7 REFORM -> target the diagnosed mechanism, not generic 'strengthening'.
 
-EXAM LIMIT
-Charged expenditure is discussed not voted; Public Account withdrawal needs no appropriation.
-
-ANSWER LINE
-Use this route to show that accurate classification prevents fiscal primacy from becoming an
-unintended bicameral bypass.
-
-ASCII MASTER FLOW — PANEL 8/12: Committee architecture and detailed scrutiny
-CORE RULE
-Financial committees, DRSCs and specialised committees supply evidence-based scrutiny beyond
-the floor.
-
-OPERATING MECHANISM
-Small cross-House forums examine estimates, audit, Bills and ministries before reporting to
-Parliament.
-
-EXAM LIMIT
-PAC, Estimates and CoPU differ in composition, time direction and subject.
-
-ANSWER LINE
-Use this route to show that the mechanism can resolve ordinary deadlock while preserving
-special procedures for money and amendment.
-
-ASCII MASTER FLOW — PANEL 9/12: Rajya Sabha, anti-defection and bicameral balance
-CORE RULE
-Rajya Sabha has graded powers while the Tenth Schedule trades member autonomy for stability.
-
-OPERATING MECHANISM
-Upper-House revision and federal powers check Lok Sabha, while whips shape individual voting.
-
-EXAM LIMIT
-Rajya Sabha is unequal on money and confidence, but equal or exclusive elsewhere.
-
-ANSWER LINE
-Use this route to show that formal instruments become effective only when time, information
-and party incentives permit scrutiny.
-
-ASCII MASTER FLOW — PANEL 10/12: 106th Amendment, Census 2027 and delimitation
-CORE RULE
-Women’s reservation is commenced but awaits published census figures and purpose-specific
-delimitation.
-
-OPERATING MECHANISM
-Commencement leads to census publication, then delimitation, before reservation can operate.
-
-EXAM LIMIT
-The defeated 850-seat proposal and 2011 basis are not existing law.
-
-ANSWER LINE
-Use this route to show that continuity and federal initiative partly offset Lok Sabha primacy
-in finance and survival.
-
-ASCII MASTER FLOW — PANEL 11/12: Parliamentary decline, reform and diplomacy
-CORE RULE
-Executive agenda control, time scarcity and wide whips weaken use of otherwise strong
-instruments.
-
-OPERATING MECHANISM
-Matched reforms improve calendar, referral, research, opposition time and reasoned chair
-decisions.
-
-EXAM LIMIT
-Institutional decline is variable political use, not disappearance of constitutional power.
-
-ANSWER LINE
-Use this route to show that stability rises, but debate and member-level scrutiny may weaken
-when whips are overused.
-
-ASCII MASTER FLOW — PANEL 12/12: PYQ routes, traps and answer execution
-CORE RULE
-Exam performance requires classification, named evidence, mechanism, qualification and a
-graded verdict.
-
-OPERATING MECHANISM
-PYQs and rotated MCQs convert constitutional distinctions into repeatable answer and
-elimination routes.
-
-EXAM LIMIT
-Never substitute current-sensitive numbers or proposals for stable constitutional rules.
-
-ANSWER LINE
-Use this route to show that better time, information and incentives can activate existing
-powers without inventing new devices.
-LEGAL/SOURCE LIMIT: The 106th Amendment commenced on 16 April 2026 but reservation remains
-  non-operational pending the Article 334A census-publication-delimitation sequence. Census
-  2027 dates are notified; publication and delimitation dates are not.
+VERDICT:
+Parliament remains constitutionally powerful but never sovereign; democratic authority becomes legitimate
+when popular choice, federal revision, financial consent, detailed scrutiny and constitutional limits operate together.

@@ -1,224 +1,120 @@
-ASCII MASTER FLOW — PANEL 1/12: Tribunalisation: specialist justice under constitutional supervision
-ROOT QUESTION
-Can specialist adjudication improve access and speed without creating executive-controlled courts?
+POLITY 46 - ADMINISTRATIVE TRIBUNALS: ASCII MASTER FLOW DIAGRAM
 
-RATIONALE
-expertise | flexible procedure | high-volume disposal | geographical access | lower cost.
-
-CONSTITUTIONAL SOURCE
-42nd Amendment 1976 -> Part XIVA -> Articles 323A and 323B.
-
-STATUTORY SOURCE
-Administrative Tribunals Act 1985 -> CAT and enabled SAT arrangements.
-
-NON-NEGOTIABLE FLOOR
-judicial independence + natural justice + reasoned order
-+ High Court/Supreme Court constitutional review.
-MUST REMEMBER: Keep Article 323A administrative tribunals, Article 323B subject tribunals and
-  the Administrative Tribunals Act, 1985 institutionally distinct.
-
-ASCII MASTER FLOW — PANEL 2/12: Articles 323A and 323B compared
-ARTICLE 323A
-public-service recruitment and service conditions.
-law-maker: Parliament.
-administrative-tribunal design.
-
-ARTICLE 323B
-listed subjects: tax, labour, land reform, elections and others in text.
-law-maker: appropriate legislature within competence.
-subject-specific tribunal/hierarchy.
-
-COMMON HISTORY
-text allowed court exclusion.
-
-CURRENT LAW
-L. Chandra Kumar (1997): Articles 226/227 and 32 judicial review is basic structure.
-
-TRAP
-enabling Article != automatic creation of a tribunal.
-
-ASCII MASTER FLOW — PANEL 3/12: CAT jurisdiction and statutory exclusions
-SECTION 14 COVERAGE
-Union recruitment and service matters | notified authorities and bodies.
-
-SECTION 2 EXCLUSIONS
-armed forces | Supreme Court or High Court staff
-| secretarial staff of Parliament and State legislatures.
-
-PROCESS GATE
-coverage -> departmental-remedy rule -> limitation -> Original Application.
-
-TRAP
-public employment does not automatically create CAT jurisdiction.
-
-ASCII MASTER FLOW — PANEL 4/12: CAT and SAT institutional architecture
-CAT
-Principal Bench + notified benches;
-Chairperson + Judicial Members + Administrative Members under current law.
-
-JURISDICTION
-covered Union recruitment/service matters and notified bodies.
-
-SAT
-State service tribunal may exist through statutory arrangement;
-States vary and some SATs have been abolished or not constituted.
-
-EXCLUSIONS
-follow exact Administrative Tribunals Act text and notifications;
-not every public employee or constitutional office enters CAT.
-
-CONTROL
-appointments, tenure and service conditions must be stated with the 5 September 2026 caveat.
-
-ASCII MASTER FLOW — PANEL 5/12: Application, procedure, powers and contempt
-PROCESS
-jurisdiction check -> Original Application -> notice/reply/record
--> interim issue -> hearing -> reasoned final order.
-
-PROCEDURE
-natural justice | flexible procedure | not rigidly bound by CPC.
-
-POWERS
-summons | documents | affidavits | commissions | review/other statutory powers.
-
-CONTEMPT
-statutory power subject to governing law and constitutional review.
-
-LIMIT
-procedural flexibility is not freedom from evidence, fairness, reasons or limitation rules.
-
-ASCII MASTER FLOW — PANEL 6/12: L. Chandra Kumar (1997) and the correct review chain
-ORIGINAL CONSTITUTIONAL DESIGN
-tribunal as substitute first-instance forum + exclusion clauses.
-
-L. Chandra Kumar (1997)
-High Court Articles 226/227 and Supreme Court Article 32 review are basic structure;
-exclusion clauses invalid;
-tribunals may test vires of subordinate legislation and statutes except parent legislation limits.
-
-OPERATIVE CHAIN
-tribunal order -> territorial High Court Division Bench -> Supreme Court constitutional route.
-
-TRAP
-routine direct appeal from CAT to Supreme Court
-is not the ordinary substitute for High Court review.
-CLOSE DISTINCTION: Preserve L. Chandra Kumar (1997)'s first-instance tribunal role together
-  with Articles 226/227 review by the territorial High Court Division Bench.
-
-ASCII MASTER FLOW — PANEL 7/12: Tribunal-independence doctrine across five decisions
-Union of India v. R. Gandhi (2010)
-transferred judicial work requires equivalent independence, qualifications and safeguards.
-
-Madras Bar Association NTT (2014)
-National Tax Tribunal design invalidated; core judicial functions cannot be executive-dominated.
-
-Madras Bar Association IV (2020)
-Tribunal Rules scrutinised; selection and tenure safeguards reinforced.
-
-Madras Bar Association V (2021)
-short tenure, age and executive override defects invalidated in the 2021 ordinance/Act line.
-
-Rojer Mathew v. South Indian Bank (2019)
-Finance Act/rules route and tribunal independence examined.
-
-Madras Bar Association tribunal reforms (2025)
-reported 2025 INSC 1330 continues the constitutional control and directs institutional reform.
-
-LIMIT
-service-condition detail remains date-sensitive; doctrine is stable, implementation is not.
-
-ASCII MASTER FLOW — PANEL 8/12: Rationalisation, abolition and access-to-justice consequences
-2021 RATIONALISATION
-abolish specified appellate bodies -> transfer functions to courts/other forums
--> common service framework.
-
-POSSIBLE GAIN
-less fragmentation | fewer duplicative bodies | clearer appeal path.
-
-POSSIBLE COST
-specialised expertise lost | burden shifted to High Courts
-| vacancies and transition delay | access becomes geographically harder.
-
-SAT VARIATION
-abolition/merger differs by State and statute; no uniform live SAT map should be invented.
-
-TEST
-pendency outcome + bench capacity + independence + user cost + transitional clarity.
-
-ASCII MASTER FLOW — PANEL 9/12: CAT, courts, commissions and ADR distinguished
-CAT
-statutory service adjudication -> binding reasoned order -> High Court review.
-
-HIGH COURT
-constitutional court -> writ/supervisory jurisdiction -> broad public-law control.
-
-COMMISSION
-investigation/advice/report unless statute grants adjudicatory power.
-
-LOK ADALAT
-statutory settlement/conciliation -> award based on compromise.
-
-ARBITRATION
-consensual private adjudication -> limited statutory challenge.
-
-DEPARTMENTAL APPEAL
-administrative reconsideration -> not independent judicial adjudication.
-
-TRAP
-specialised does not automatically mean tribunal; binding does not automatically mean court.
-
-ASCII MASTER FLOW — PANEL 10/12: Current judicial and legislative status control
-19 NOVEMBER 2025
-2025 INSC 1330 invalidated specified re-enacted service-condition defects
-and directed a National Tribunals Commission.
-
-9 MARCH 2026 ORDER
-specified incumbent continuity until 8 September 2026 or maximum age.
-
-AUGUST 2026 CAUTION
-enactment != commencement != operational commission.
-Use Gazette commencement and appointment records before claiming operation.
-
-CURRENT CONTROL: 5 SEPTEMBER 2026
-2025 INSC 1330 remains the merits baseline; the 9 March 2026 order
-continues specified incumbents only until 8 September 2026/maximum age.
-Parliament passed the Tribunals Reforms Bill, 2026, but no official
-assented Act or commencement notification was located; do not call it operative.
-
-ASCII MASTER FLOW — PANEL 11/12: Exact PYQ demand and answer architecture
-2018 GS-II 15/250
-court-jurisdiction curtailment + validity + competency.
-
-2019 GS-II 10/150
-CAT as independent judicial authority.
-
-2024 GS-II 10/150
-Lok Adalat versus arbitration + civil/criminal jurisdiction.
-
-2025 GS-II 10/150
-need for tribunals + assess 2021 rationalisation.
-
-EXECUTION
-thesis -> law -> mechanism -> case -> constraint -> verdict.
-
-ASCII MASTER FLOW — PANEL 12/12: UPSC synthesis and reform architecture
-PRELIMS FIREWALL
-323A service != 323B listed subjects | enabling != creating
-| CAT != constitutional court | flexible != arbitrary
-| first instance != final constitutional word | rationalisation != pendency cure.
-
-MAINS SPINE
-rationale -> constitutional/statutory source -> structure/jurisdiction
--> procedure/powers -> L. Chandra Kumar (1997) chain
--> independence cases -> rationalisation/access -> reform.
-
-REFORM
-independent appointments body | secure adequate tenure | transparent vacancies
-| administrative autonomy | national data/standards | regional benches
-| coherent appeals | periodic performance review without decisional interference.
-
-VERDICT
-tribunals are justified only as independent, accessible specialist courts
-under constitutional supervision.
-LEGAL/SOURCE LIMIT: Parliament passed the Tribunals Reforms Bill, 2026, but no official
-  assented Act or commencement notification was located by 5 September 2026.
+PANEL 01/12 - DEFINITION AND CATEGORY FIREWALL
++------------------------------------------------------------------------------------------------------+
+| Tribunal = statute-created specialist adjudicator with limited subject jurisdiction.                 |
+| Court = ordinary/constitutional judiciary; High Courts retain Arts 226/227.                          |
+| Quasi-judicial describes a function requiring fair hearing; it is wider than tribunal.               |
+| Departmental appeal = executive reconsideration, even when natural justice applies.                  |
+| Test every body by source, function, independence, binding power and review route.                   |
++------------------------------------------------------------------------------------------------------+
+                                                   |
+                                                   v
+PANEL 02/12 - ORIGIN AND CONSTITUTIONAL TIMELINE
++------------------------------------------------------------------------------------------------------+
+| 1976: Forty-second Amendment inserts Part XIV-A, Articles 323A and 323B.                             |
+| 1985: Administrative Tribunals Act creates CAT route and enables SAT/JAT.                            |
+| 1987: S.P. Sampath Kumar accepts an effective alternative mechanism context.                         |
+| 1997: L. Chandra Kumar preserves constitutional review; tribunals become supplemental.               |
+| 2010-2021: R. Gandhi, Rojer Mathew and MBA line police independence.                                 |
++------------------------------------------------------------------------------------------------------+
+                                                   |
+                                                   v
+PANEL 03/12 - ARTICLE 323A CLAUSE MAP
++------------------------------------------------------------------------------------------------------+
+| (1) Parliament only; recruitment and conditions of service in public employment.                     |
+| (2)(a) Union/State/shared-State tribunals; (b) jurisdiction incl contempt.                           |
+| (2)(c) procedure incl limitation/evidence; (d) exclusion text except Art 136.                        |
+| (2)(e) transfer; (f) Art 371D(3) order; (g) fees/enforcement/incidental.                             |
+| (3) notwithstanding clause; L. Chandra Kumar limits exclusion effect.                                |
++------------------------------------------------------------------------------------------------------+
+                                                   |
+                                                   v
+PANEL 04/12 - ARTICLE 323B CLAUSE MAP
++------------------------------------------------------------------------------------------------------+
+| (1) appropriate Legislature within competence; disputes, complaints or offences.                     |
+| (2) tax; forex/import-export; labour; land reform; urban ceiling; elections.                         |
+| Also food/essential goods/prices; rent/tenancy; offences/fees; incidental.                           |
+| (3) hierarchy, powers incl contempt, procedure, exclusion text, transfer, support.                   |
+| (4) notwithstanding clause; constitutional judicial review still survives.                           |
++------------------------------------------------------------------------------------------------------+
+                                                   |
+                                                   v
+PANEL 05/12 - 323A VERSUS 323B
++------------------------------------------------------------------------------------------------------+
+| 323A: service field; Parliament only; administrative tribunal arrangements.                          |
+| 323B: multiple listed fields; competent Parliament/State Legislature; hierarchy.                     |
+| Both are enabling: implementing legislation creates and defines the tribunal.                        |
+| Both mention contempt, limitation, evidence, transfer and exclusion text.                            |
+| Neither authorises removal of Arts 226/227 and 32 basic-structure review.                            |
++------------------------------------------------------------------------------------------------------+
+                                                   |
+                                                   v
+PANEL 06/12 - 1985 ACT: INSTITUTIONS, JURISDICTION AND EXCLUSIONS
++------------------------------------------------------------------------------------------------------+
+| Section 4: CAT; requested SAT; Joint Tribunal for participating States.                              |
+| Section 14: covered Union service; Section 15: State; Section 16: JAT.                               |
+| Section 2 excludes armed-forces members, judicial staff incl subordinate courts,                     |
+| and legislative secretariat staff; civilian defence posts are a distinct inquiry.                    |
+| CAT is statutory; body notifications and Section 3(q) matter.                                        |
++------------------------------------------------------------------------------------------------------+
+                                                   |
+                                                   v
+PANEL 07/12 - APPLICATION, PROCEDURE AND POWERS
++------------------------------------------------------------------------------------------------------+
+| Adverse service action -> departmental remedy ordinarily (s20) -> OA -> s21 limitation.              |
+| Section 22: natural justice; not rigidly CPC-bound; civil-court-type powers.                         |
+| Evidence is flexible but fair; notice, disclosure, impartiality and reasons remain.                  |
+| Review is bounded; s27 execution; interim relief is jurisdiction-specific.                           |
+| Sections 29/29A transfer qualifying pending matters in statutory situations.                         |
++------------------------------------------------------------------------------------------------------+
+                                                   |
+                                                   v
+PANEL 08/12 - CONTEMPT, REVIEW AND ROUTES
++------------------------------------------------------------------------------------------------------+
+| Section 17 gives contempt power; T. Sudhakar Prasad confirms survival.                               |
+| Contempt punishment appeal follows special statutory route to Supreme Court.                         |
+| Ordinary merits order -> territorial High Court Division Bench, Arts 226/227.                        |
+| Thereafter Art 136 special leave is discretionary, not appeal as of right.                           |
+| Review, statutory appeal, judicial review and special leave differ.                                  |
++------------------------------------------------------------------------------------------------------+
+                                                   |
+                                                   v
+PANEL 09/12 - CASE-LAW LADDER
++------------------------------------------------------------------------------------------------------+
+| Sampath Kumar (1987): effective alternative institutional mechanism context.                         |
+| L. Chandra Kumar (1997): 226/227 and 32 basic structure; first instance.                             |
+| UOI v R. Gandhi (2010): functional equivalence and independence.                                     |
+| MBA NTT (2014): deficient substitute for HC substantial-law function invalid.                        |
+| Rojer Mathew (2019) + MBA 2020/2021: rules, selection, tenure, influence.                            |
++------------------------------------------------------------------------------------------------------+
+                                                   |
+                                                   v
+PANEL 10/12 - 2021 RATIONALISATION AND CURRENT-LAW METHOD
++------------------------------------------------------------------------------------------------------+
+| 2021 Act abolished specified appellate bodies and transferred functions.                             |
+| Consolidation may reduce duplication but shift workload/expertise/access costs.                      |
+| Invalidated age, short-tenure and executive-choice features are not current law.                     |
+| Read parent Act + surviving 2021 provisions/rules + binding judgments.                               |
+| Never imply every tribunal follows the ATA or one appeal structure.                                  |
++------------------------------------------------------------------------------------------------------+
+                                                   |
+                                                   v
+PANEL 11/12 - INSTITUTIONAL COMPARISON AND PERFORMANCE
++------------------------------------------------------------------------------------------------------+
+| CAT-service; NGT-environment; NCLT-company/insolvency; AFT-armed forces.                             |
+| TDSAT-telecom; legal basis/function/route differ; 323B label is not automatic.                       |
+| Benefits: expertise, focused procedure, consistency, access, court relief.                           |
+| Problems: vacancies, executive control, fragmentation, infrastructure, precedent.                    |
+| Measure disposal, vacancy duration, remands, user cost and decision quality.                         |
++------------------------------------------------------------------------------------------------------+
+                                                   |
+                                                   v
+PANEL 12/12 - REFORM, PYQ ROUTE AND QUALIFIED VERDICT
++------------------------------------------------------------------------------------------------------+
+| Independent appointments/admin; secure conditions; vacancy calendar; budgets.                        |
+| Regional benches + e-filing + assisted access + searchable reasoned decisions.                       |
+| Coherent appeals, larger-bench conflict resolution, transfer plans and data.                         |
+| PYQ: define -> 323A/B -> ATA -> cases -> need/problems -> 2021 -> reform.                            |
+| Verdict: specialist first instance only under independence and constitutional review.                |
++------------------------------------------------------------------------------------------------------+

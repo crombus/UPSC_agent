@@ -1,19 +1,16 @@
-FINAL LEARNING PACKAGE
-======================
+POLITY TOPIC 25 - UNION TERRITORIES
 
-Topic: Union Territories
-Subject: Polity
-Section: Subject-wide Syllabus
-Catalogue number: 25
-Source record ID: polity-25:learner-v2:g6
-Source generation: 6
-Approval: Approval pending
+Complete repaired learner package.
 
-Deliverables
-------------
-1. Complete Learning Session — PDF
-2. Solved Practice Workbook — PDF
-3. Carvaka Graphical Flowchart — poster PDF, printable tiled PDF, and high-resolution PNG
-4. ASCII Master Flowchart — standalone PDF and authored text
+01-Complete-Learning-Session\Complete-Learning-Session.pdf
+02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+03-Graphical-Flowchart\High-Resolution-Master.png
+03-Graphical-Flowchart\At-a-Glance-Poster.pdf
+03-Graphical-Flowchart\Printable-Tiled-Version.pdf
+04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
 
-Navigation command: Open final package: Polity — Subject-wide Syllabus — Union Territories
+Graphical master: 4800 x 12600 pixels at approximately 300 DPI.
+Native tile crops: [(0, 3508), (3030, 6538), (6060, 9568), (9092, 12600)]
+Consecutive overlaps: [478, 478, 476] pixels.
+The quick-glance tree, 12-panel ASCII source and graphical stages use the same factual spine.

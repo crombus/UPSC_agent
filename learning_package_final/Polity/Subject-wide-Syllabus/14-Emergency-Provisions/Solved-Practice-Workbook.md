@@ -1,1027 +1,856 @@
 ---
-title: "Emergency Provisions — Solved Practice Workbook"
+title: "Emergency Provisions - Solved Practice Workbook"
 topic_key: polity-14
 ---
-# Emergency Provisions — Solved Practice Workbook
+# Emergency Provisions - Solved Practice Workbook
+
+> **Practice control:** 32 original MCQs use the exact sequence `ABCDABCDABCDABCDABCDABCDABCDABCD`. Historical objective letters are printed only where a final official/local-official key is held.
 
 ## BASIC MCQS / REMEDIATION
 
-### Original hard MCQ set - strict A → B → C → D rotation
+### EXACTLY 32 ORIGINAL MCQS - STRICT ABCD ROTATION
 
-#### OM1. Emergency grounds
+#### Q1. Article 352 threshold
 
-Which is a current Article 352 ground?
+Which formulation most accurately states the present constitutional threshold for a National Emergency?
 
-A. Armed rebellion
-B. Internal disturbance
-C. Financial instability
-D. Failure of State machinery
+A. A grave emergency whereby the security of India or any part is threatened by war, external aggression or armed rebellion
+B. Any serious disturbance affecting a State
+C. Breakdown of public order in a Union Territory
+D. Financial instability affecting national credit
 
 **Answer: A.**
 
-The 44th Amendment replaced internal disturbance with armed rebellion.
+**Option explanations**
 
-#### OM2. Imminent danger
+- **A:** This option reproduces the three grounds and the indispensable grave-emergency and security-of-India-or-part threshold.
+- **B:** A serious disturbance affecting a State may remain an ordinary public-order problem and does not by itself satisfy Article 352.
+- **C:** Public order difficulty in a Union Territory is not one of Article 352's three named grounds.
+- **D:** Threat to financial stability or credit belongs to Article 360 rather than the national-security proclamation.
 
-A National Emergency:
+**Examiner trap:** Do not identify Article 352 from a ground word while ignoring the grave-security threshold.
 
-A. cannot apply to part of India
-B. may be proclaimed before occurrence where imminent danger exists
-C. requires completed invasion
-D. needs Governor consent
+#### Q2. Imminent danger
+
+A proclamation under Article 352 may be issued before the actual occurrence of the named event when:
+
+A. a Governor requests preventive action
+B. the President is satisfied that imminent danger of war, external aggression or armed rebellion exists
+C. Parliament passes a simple-majority precautionary resolution
+D. the Supreme Court certifies a likely threat
 
 **Answer: B.**
 
-Article 352 expressly covers imminent danger.
+**Option explanations**
 
-#### OM3. Cabinet advice
+- **A:** A Governor has no constitutional veto or initiating certificate in Article 352's imminent-danger explanation.
+- **B:** The Explanation expressly permits advance proclamation on presidential satisfaction of imminent danger of one of the three named grounds.
+- **C:** Parliamentary approval follows proclamation and uses a special majority, not a preventive simple-majority trigger.
+- **D:** Judicial review checks legality later; the Court does not provide the prior threat certification imagined here.
 
-The President may proclaim National Emergency only after:
+**Examiner trap:** Imminent danger advances timing; it does not add 'terrorism' or 'internal disturbance' as a fourth ground.
 
-A. Supreme Court approval
-B. PM oral advice
-C. written Union Cabinet decision communicated
-D. Rajya Sabha request
+#### Q3. Territorial floor
+
+Which statement about the territorial operation of Article 352 is constitutionally correct?
+
+A. It must cover at least one complete State
+B. It can operate only throughout India
+C. It may cover the whole of India or the part specified, with no State-sized minimum stated in the text
+D. A partial proclamation requires consent of every affected State
 
 **Answer: C.**
 
-This is a post-1975 44th Amendment safeguard.
+**Option explanations**
 
-#### OM4. Approval majority
+- **A:** Article 352 does not prescribe a complete-State floor; a specified part is the textual unit.
+- **B:** The 42nd Amendment expressly enabled a proclamation confined to part of Indian territory.
+- **C:** This reflects the current wording and avoids inventing a minimum territorial size.
+- **D:** State consent is not listed as a condition for specifying the territorial operation of a National Emergency.
 
-National Emergency approval requires:
+**Examiner trap:** Never translate 'such part of the territory' into an unsupported rule that the smallest unit is one State.
 
-A. State ratification
-B. two-thirds total membership
-C. simple majority
-D. majority of total membership plus two-thirds present and voting
+#### Q4. Localised external attack
+
+A cross-border attack concentrated in one State should be analysed first by asking:
+
+A. whether Article 356 automatically applies because only one State is affected
+B. whether terrorism is always external aggression
+C. whether the Governor can declare National Emergency
+D. whether Article 352's grave-security and named-ground threshold is met, while recognising that ordinary security law may suffice
 
 **Answer: D.**
 
-The special majority applies to approval and six-month continuation.
+**Option explanations**
 
-#### OM5. Approval window
+- **A:** Article 356 concerns constitutional machinery failure, not the mere geography of an attack.
+- **B:** Terrorism and external aggression can overlap factually but are not automatic constitutional synonyms.
+- **C:** Only the President issues the proclamation after the written Union Cabinet decision; the Governor has no such power.
+- **D:** This approach separates legal category, satisfaction threshold and the practical availability of ordinary law.
 
-Both Houses must approve Article 352 within:
+**Examiner trap:** The 2008 Mumbai attacks did not produce either an Article 352 or automatic Article 356 proclamation.
 
-A. one month
-B. 14 days
-C. six months
-D. two months
+#### Q5. Written Cabinet advice
+
+For issuing or varying an Article 352 proclamation, the Constitution requires:
+
+A. the Union Cabinet's decision communicated to the President in writing
+B. oral advice from the Prime Minister followed by later ratification
+C. a resolution of the Council of Ministers including every Minister of State
+D. prior approval by the National Security Council
 
 **Answer: A.**
 
-Pre-44th it was two months; now one.
+**Option explanations**
 
-#### OM6. Renewal
+- **A:** Article 352(3) imposes this written collective-decision safeguard and defines Cabinet for the clause.
+- **B:** The post-1975 reform was designed precisely to prevent informal or solely prime-ministerial initiation.
+- **C:** The clause refers to the Prime Minister and Cabinet-rank ministers, not the entire ministry as described.
+- **D:** The National Security Council may advise government politically but is not the constitutional precondition.
 
-Once approved, National Emergency continues:
+**Examiner trap:** Distinguish the constitutionally defined Union Cabinet from the broader Council of Ministers.
 
-A. one year maximum
-B. six months per special-majority renewal
-C. until Supreme Court review
-D. indefinitely without vote
+#### Q6. Approval majority
+
+A resolution approving or continuing a National Emergency requires:
+
+A. two-thirds of total membership
+B. a majority of total membership and not less than two-thirds of members present and voting
+C. a simple majority in each House
+D. ratification by half the States
 
 **Answer: B.**
 
-There is no maximum if valid six-month renewals continue.
+**Option explanations**
 
-#### OM7. Disapproval notice
+- **A:** Two-thirds of total membership is not the formula; the Constitution uses two simultaneous but different limbs.
+- **B:** Article 352(6) states both the total-membership majority and the present-and-voting two-thirds requirement.
+- **C:** Simple majority governs Articles 356 and 360 approvals, not Article 352.
+- **D:** Federal ratification is an Article 368 procedure and has no place in emergency approval.
 
-A special Lok Sabha sitting can be requisitioned by at least:
+**Examiner trap:** Write both limbs of the special majority; never compress it to 'two-thirds majority'.
 
-A. one-third members
-B. one-half members
-C. one-tenth members
-D. 50 members regardless of strength
+#### Q7. Initial approval and dissolution
+
+If Lok Sabha is dissolved during Article 352's one-month approval period and Rajya Sabha approves, the proclamation:
+
+A. immediately becomes permanent
+B. automatically ends after one month regardless of reconstitution
+C. can continue until thirty days after the reconstituted Lok Sabha first sits, unless it approves sooner
+D. must be approved by State legislatures
 
 **Answer: C.**
 
-It must be held within 14 days.
+**Option explanations**
 
-#### OM8. Ground distinction
+- **A:** No emergency proclamation can become permanent through Rajya Sabha approval alone.
+- **B:** The dissolution proviso temporarily preserves operation rather than forcing mechanical expiry at one month.
+- **C:** This is the exact constitutional bridge protecting the new Lok Sabha's opportunity to decide.
+- **D:** State legislatures have no approval role under Article 352.
 
-Which statement is correct?
+**Examiner trap:** The thirty days run from the new Lok Sabha's first sitting, not from the election result or constitution of the House.
 
-A. Armed rebellion triggers Article 356 only.
-B. Financial Emergency affects Article 19.
-C. Article 355 no longer uses internal disturbance.
-D. Article 358 applies only to war/external aggression Emergency.
+#### Q8. Lok Sabha disapproval
+
+Which Article 352 statement is correct?
+
+A. Rajya Sabha alone can force revocation
+B. One-tenth of either House can demand a joint sitting
+C. Disapproval requires the same special majority as approval
+D. Lok Sabha disapproval by simple majority obliges the President to revoke, and one-tenth of its total members may seek a special sitting
 
 **Answer: D.**
 
-Article 358 does not operate for armed rebellion.
+**Option explanations**
 
-#### OM9. Executive effect
+- **A:** The forced-revocation resolution is constitutionally assigned to the House of the People.
+- **B:** Article 352 creates no joint sitting and the one-tenth notice belongs only to Lok Sabha.
+- **C:** The special majority governs approval and continuance; disapproval uses ordinary voting logic.
+- **D:** This combines Article 352(7)'s mandatory revocation with clause (8)'s fourteen-day special-sitting safeguard.
 
-During National Emergency, Union executive power may:
+**Examiner trap:** Do not transfer Article 352's opposition-triggered special sitting to President's Rule.
 
-A. direct States on exercise of executive power
-B. abolish State List
-C. dismiss every State ministry automatically
-D. take over High Courts
+#### Q9. National Emergency duration
+
+Once properly approved, a National Emergency:
+
+A. continues for six months and may be renewed repeatedly for further six-month periods by the same special majority
+B. continues indefinitely without another parliamentary vote
+C. has an absolute three-year maximum
+D. must be renewed annually by simple majority
 
 **Answer: A.**
 
-States continue, but Union directions expand.
+**Option explanations**
 
-#### OM10. State-list law
+- **A:** Article 352(5) provides the six-month cycle and permits repeated special-majority continuance.
+- **B:** Indefinite possible duration is conditional on recurrent approvals, not initial approval alone.
+- **C:** The three-year ceiling belongs to Article 356.
+- **D:** Neither the period nor the majority described here matches current Article 352.
 
-Parliamentary State-list law under Emergency ordinarily ceases:
+**Examiner trap:** Say 'no fixed maximum with valid six-month renewals', not 'automatically indefinite'.
 
-A. after one year
-B. six months after Emergency ends
-C. only if State repeals
-D. immediately
+#### Q10. Article 353 extra-area effect
+
+When a National Emergency operates only in part of India, Article 353 effects may extend to another State:
+
+A. without any security connection
+B. if and in so far as security is threatened by activities in or related to the proclaimed area
+C. only after that State's Assembly consents
+D. only through Article 356
 
 **Answer: B.**
 
-Completed acts remain protected.
+**Option explanations**
 
-#### OM11. Article 354
+- **A:** The 42nd Amendment proviso is relational and does not create unbounded spillover.
+- **B:** The phrase 'if and in so far as' ties extra-area directions and law-making to a specified security connection.
+- **C:** No affected-State consent requirement appears in Article 353's proviso.
+- **D:** Article 353 itself supplies this connected-territory effect; constitutional machinery failure need not be alleged.
 
-It permits:
+**Examiner trap:** A partial proclamation does not mean every Article 353 effect is automatically confined to the drawn boundary or automatically nationwide.
 
-A. dissolution of Rajya Sabha
-B. suspension of Article 21
-C. temporary modification of constitutional revenue distribution
-D. creation of Financial Emergency
+#### Q11. Article 250 tail
+
+A parliamentary State List law made because Article 352 is in operation ordinarily loses effect, to the extent of the competence problem:
+
+A. on the day of revocation
+B. after one year
+C. six months after the Emergency ceases
+D. only when every State repeals it
 
 **Answer: C.**
 
-The order is temporally bounded and laid before Parliament.
+**Option explanations**
 
-#### OM12. Term extension
+- **A:** The Constitution supplies a post-emergency transition rather than same-day disappearance.
+- **B:** One year is the maximum single legislative-term extension, not the Article 250 law tail.
+- **C:** The six-month tail permits transition while preserving things previously done or omitted.
+- **D:** The law's emergency-based competence does not depend on repeal by all State legislatures.
 
-Lok Sabha/Assembly term extension during Emergency:
+**Examiner trap:** Separate the six-month Article 250 tail from the six-month ceiling after cessation for extended legislative terms.
 
-A. can be five years at once
-B. is automatic
-C. continues forever
-D. may be one year at a time and not beyond six months after cessation
+#### Q12. Article 354
+
+An Article 354 revenue-distribution order:
+
+A. may permanently amend Articles 268-279
+B. needs ratification by half the States
+C. can continue for five years after Emergency
+D. cannot extend beyond the financial year in which the Emergency ceases and must be laid before Parliament
 
 **Answer: D.**
 
-Parliament must legislate the extension.
+**Option explanations**
 
-#### OM13. Article 358
+- **A:** Article 354 authorises temporary application changes, not permanent textual amendment.
+- **B:** The order is presidential and parliamentary-laying based; Article 368 State ratification is irrelevant.
+- **C:** The Constitution imposes a much shorter financial-year outer boundary.
+- **D:** This option states both the temporal limit and accountability requirement often omitted in answers.
 
-Which is correct?
+**Examiner trap:** Do not describe Article 354 as suspension of all Finance Commission or tax-distribution provisions.
 
-A. It automatically concerns Article 19.
-B. It needs a presidential order.
-C. It suspends all Fundamental Rights.
-D. It operates in Article 356.
+#### Q13. Article 358 trigger
+
+Article 358 currently operates automatically only when Article 352 is based on:
+
+A. war or external aggression
+B. armed rebellion
+C. failure of State machinery
+D. financial instability
 
 **Answer: A.**
 
-Post-44th it is external-Emergency and nexus-limited.
+**Option explanations**
 
-#### OM14. Article 359
+- **A:** The 44th Amendment confined Article 358 to the two external grounds.
+- **B:** An armed-rebellion Emergency can support an Article 359 order but does not activate Article 358.
+- **C:** President's Rule has no automatic Article 19 consequence.
+- **D:** Article 360 contains no Article 358 mechanism.
 
-It principally permits the President to:
+**Examiner trap:** External Emergency is shorthand for war/external aggression; do not include armed rebellion.
 
-A. abolish High Courts
-B. suspend court enforcement of specified rights except 20/21
-C. suspend the Constitution
-D. suspend Article 19 automatically
+#### Q14. Article 358 recital
+
+Post-44th Article 358 protection is unavailable where:
+
+A. the law relates to the proclamation
+B. the law lacks the required proclamation recital or the executive action is not under a reciting law
+C. Parliament legislates on the State List
+D. the proclamation covers only part of India
 
 **Answer: B.**
 
-The rights are not textually erased; enforcement is suspended as ordered.
+**Option explanations**
 
-#### OM15. Non-suspendable rights
+- **A:** A genuine emergency-related law with the recital satisfies the textual nexus gateway, subject to the remaining clause.
+- **B:** Article 358(2) expressly withholds the shield in these two situations.
+- **C:** State List subject matter can fall within emergency competence and does not itself defeat Article 358.
+- **D:** Partial territorial operation invokes scope provisos rather than eliminating Article 358 altogether.
 
-Which pair is protected from Article 359 suspension?
+**Examiner trap:** The recital is not decorative drafting; it is a constitutional condition for the shield.
 
-A. 14 and 19
-B. 19 and 22
-C. 20 and 21
-D. 21 and 32
+#### Q15. Article 359 legal effect
+
+An order under Article 359 principally:
+
+A. erases the specified right from Part III
+B. automatically suspends every pending case
+C. suspends the right to move courts for enforcement of specified rights and related pending proceedings as the order states
+D. abolishes High Court writ jurisdiction permanently
 
 **Answer: C.**
 
-This was added by the 44th Amendment.
+**Option explanations**
 
-#### OM16. ADM Jabalpur (1976)
+- **A:** The right remains in Part III; the order addresses enforcement access.
+- **B:** Only proceedings for enforcement of rights mentioned in the order are affected for its period.
+- **C:** This formulation captures both the enforcement route and the bounded effect on pending proceedings.
+- **D:** Article 359 neither permanently amends Article 226 nor abolishes High Courts.
 
-Current law treats it as:
+**Examiner trap:** Use 'enforcement suspended as specified', never the loose claim that rights themselves disappear.
 
-A. partly controlling
-B. restored by 44th Amendment
-C. binding for habeas corpus
-D. wrongly decided and overruled by K.S. Puttaswamy (2017)
+#### Q16. Articles 20 and 21
+
+Which rights may not be included in an Article 359 suspension order?
+
+A. Articles 14 and 15
+B. Articles 19 and 22
+C. Articles 25 and 26
+D. Articles 20 and 21
 
 **Answer: D.**
 
-Justice Khanna's dissent became constitutionally vindicated.
+**Option explanations**
 
-#### OM17. Historical declarations
+- **A:** Equality rights may be named in an order if constitutional conditions are met.
+- **B:** Article 19 has its separate Article 358 relationship and Article 22 is not textually excluded from Article 359.
+- **C:** Religious-freedom rights are not within the express 20-21 exclusion.
+- **D:** The 44th Amendment created this permanent penal-protection and life-liberty firewall.
 
-National Emergency has been proclaimed:
+**Examiner trap:** Article 21's protection does not mean every other Fundamental Right is automatically enforceable during every order.
 
-A. three times
-B. once
-C. five times
-D. never
+#### Q17. Survival effect
+
+After the relevant Article 358 protection ends, a law inconsistent only because Article 19 ordinarily restricted competence:
+
+A. ceases prospectively to the extent of inconsistency, while past things done or omitted remain addressed by the saving
+B. is void ab initio for all purposes
+C. remains permanently immune
+D. requires a Supreme Court declaration before Article 19 applies again
 
 **Answer: A.**
 
-1962, 1971 and 1975.
+**Option explanations**
 
-#### OM18. Article 356 trigger
+- **A:** This reflects the express prospective cessation and past-act saving structure.
+- **B:** The constitutional text avoids retrospective erasure of every emergency-period act.
+- **C:** Emergency protection is temporary rather than permanent immunity.
+- **D:** The constitutional consequence follows from cessation; no special declaratory prerequisite is stated.
 
-President's Rule may be based on:
+**Examiner trap:** Do not confuse temporary constitutional immunity with permanent validation of the law.
 
-A. only Supreme Court advice
-B. Governor report or otherwise
-C. only ECI certificate
-D. Lok Sabha no-confidence
+#### Q18. Minerva Mills review
+
+Which statement best captures *Minerva Mills* on Article 352 review?
+
+A. Courts may freely replace the Cabinet's threat assessment
+B. Mala fide or wholly extraneous and irrelevant grounds may be reviewed, but courts should not reweigh sufficiency as an appellate security authority
+C. Parliamentary approval eliminates review
+D. Every political question is non-justiciable
 
 **Answer: B.**
 
-The constitutional test is inability to carry on State government according to Constitution.
+**Option explanations**
 
-#### OM19. 356 approval
+- **A:** The judgment expressly warned against entering the political thicket through merits substitution.
+- **B:** This states both the real review grounds and the judicial-restraint qualification.
+- **C:** Constitutional conditions remain reviewable notwithstanding legislative approval.
+- **D:** Political colour does not remove a legal question about constitutional limits from judicial scrutiny.
 
-Both Houses approve within:
+**Examiner trap:** Cite *Minerva Mills* narrowly; it did not create a general judicial power to decide national-security policy.
 
-A. six months simple majority
-B. one month special majority
-C. two months simple majority
-D. two months special majority
+#### Q19. Article 355
+
+Article 355:
+
+A. itself dismisses a State ministry
+B. uses 'armed rebellion' instead of 'internal disturbance'
+C. imposes a Union duty to protect States against external aggression and internal disturbance and ensure constitutional government
+D. requires special-majority approval
 
 **Answer: C.**
 
-Each continuation is six months.
+**Option explanations**
 
-#### OM20. 356 maximum
+- **A:** Article 355 states duties and does not itself issue an Article 356 proclamation.
+- **B:** The phrase internal disturbance remains in Article 355 despite its removal from Article 352.
+- **C:** This option reproduces both protective and constitutional-government limbs.
+- **D:** No House-resolution approval process is contained in Article 355.
 
-Ordinary constitutional maximum is:
+**Examiner trap:** The same words can have different constitutional roles: internal disturbance remains in 355 but not 352.
 
-A. five years
+#### Q20. Article 365
+
+Failure by a State to comply with constitutional Union directions under Article 365:
+
+A. automatically dissolves the Assembly
+B. automatically proves armed rebellion
+C. can only be considered by the Supreme Court
+D. permits the President to hold that Article 356 conditions have arisen, but does not remove the need for constitutional assessment
+
+**Answer: D.**
+
+**Option explanations**
+
+- **A:** Assembly status follows a valid Article 356 process and is never the automatic Article 365 consequence.
+- **B:** Direction non-compliance and armed rebellion are conceptually and textually different.
+- **C:** The President initially assesses the constitutional consequence; later judicial review remains possible.
+- **D:** This respects Article 365's enabling wording and the separate Article 356 threshold.
+
+**Examiner trap:** Treat Article 365 as possible material, not a self-executing proclamation.
+
+#### Q21. Article 356 trigger
+
+President's Rule may constitutionally rest on:
+
+A. a Governor's report or other relevant material showing State government cannot be carried on according to the Constitution
+B. mere policy disagreement with the Union
+C. any serious crime within the State
+D. a demand by the largest opposition party
+
+**Answer: A.**
+
+**Option explanations**
+
+- **A:** Article 356 expressly says 'on receipt of a report from the Governor ... or otherwise' and specifies the constitutional-failure test.
+- **B:** Federal political disagreement is not inability to carry on constitutional government.
+- **C:** Criminal violence may require policing or Article 355 assistance without displacing elected government.
+- **D:** Party demand is not constitutional proof of machinery failure.
+
+**Examiner trap:** Focus on constitutional impossibility supported by material, not an undesirable administration.
+
+#### Q22. Article 356 approval
+
+A non-revoking Article 356 proclamation ordinarily needs approval:
+
+A. within one month by special majority
+B. within two months by simple majority in both Houses
+C. within six months by joint sitting
+D. within fourteen days by Lok Sabha alone
+
+**Answer: B.**
+
+**Option explanations**
+
+- **A:** This is the Article 352 rule and majority, not Article 356.
+- **B:** The two-month/simple-majority combination is the correct President's Rule rule.
+- **C:** No joint sitting substitutes for separate approval by both Houses.
+- **D:** Fourteen days belongs to the Article 352 special-sitting notice safeguard.
+
+**Examiner trap:** Pair each emergency with its own window and majority before solving options.
+
+#### Q23. Beyond one year
+
+Continuation of President's Rule beyond one year ordinarily requires:
+
+A. only a Governor recommendation
+B. only an Election Commission certificate
+C. both a qualifying National Emergency in force and ECI certification of election difficulty
+D. a constitutional amendment
+
+**Answer: C.**
+
+**Option explanations**
+
+- **A:** The Governor's position cannot replace the two express Article 356(5) conditions.
+- **B:** Certification is necessary but not sufficient; the National Emergency condition must also exist.
+- **C:** Both limbs are cumulative and apply at the time the continuance resolution is passed.
+- **D:** The Constitution already supplies the extension mechanism; no amendment is needed for a valid case.
+
+**Examiner trap:** Do not apply the beyond-one-year conditions to the first six-month approval.
+
+#### Q24. Article 356 maximum
+
+The ordinary present constitutional maximum for one Article 356 proclamation is:
+
+A. one year
 B. indefinite
-C. one year
+C. five years
 D. three years
 
 **Answer: D.**
 
-Beyond one year requires Emergency plus ECI certification.
+**Option explanations**
 
-#### OM21. Beyond one year
+- **A:** One year is the point after which extra conditions arise, not the overall maximum.
+- **B:** Indefinite continuation belongs to neither ordinary Article 356 nor its renewal structure.
+- **C:** Historic Punjab-specific extensions do not state the general current rule.
+- **D:** Article 356(4) fixes three years as the ordinary ceiling.
 
-Extension requires:
+**Examiner trap:** Avoid converting a historical Punjab exception into the general President's Rule maximum.
 
-A. National Emergency condition plus ECI certification
-B. Supreme Court permission
-C. State referendum
-D. Governor request alone
+#### Q25. Article 357 law survival
 
-**Answer: A.**
+A State law made through Article 357 emergency legislative authority after the proclamation ends:
 
-Both constitutional conditions must be met.
-
-#### OM22. S.R. Bommai (1994) floor test
-
-Disputed majority should ordinarily be tested:
-
-A. by ECI
-B. on Assembly floor
-C. in Rajya Sabha
-D. by Governor interview
-
-**Answer: B.**
-
-Raj Bhavan assessment is not a substitute.
-
-#### OM23. Assembly dissolution
-
-S.R. Bommai (1994) requires:
-
-A. State consent
-B. no suspension
-C. no dissolution before parliamentary approval
-D. immediate dissolution
-
-**Answer: C.**
-
-Courts can restore an improperly dismissed government/Assembly.
-
-#### OM24. Article 356 and rights
-
-Which is correct?
-
-A. Article 21 is suspended.
-B. Article 19 automatically suspends.
-C. Article 359 always applies.
-D. President's Rule has no direct Fundamental Rights suspension.
-
-**Answer: D.**
-
-Do not merge Articles 352 and 356.
-
-#### OM25. Financial trigger
-
-Article 360 concerns threat to:
-
-A. financial stability or credit of India or part
-B. municipal finances only
-C. national security only
-D. State majority
+A. continues until altered, repealed or amended by a competent legislature or authority
+B. automatically expires after six months
+C. becomes a constitutional amendment
+D. must be reenacted by every district
 
 **Answer: A.**
 
-The trigger is broad but financial.
+**Option explanations**
 
-#### OM26. Financial duration
+- **A:** Article 357(2) expressly preserves such law until competent change.
+- **B:** The six-month tail applies to Article 250 competence, not Article 357 law survival.
+- **C:** Exercise of State legislative power does not transform ordinary law into constitutional text.
+- **D:** District reenactment has no constitutional role in preserving a State law.
 
-Once approved, it:
+**Examiner trap:** Do not import Article 250's post-emergency tail into Article 357.
 
-A. ends in one year
-B. continues indefinitely without renewal
-C. needs six-month special-majority renewal
-D. requires State ratification
-
-**Answer: B.**
-
-It may be revoked by the President.
-
-#### OM27. Financial consequences
-
-Which may be directed?
-
-A. abolition of Finance Commission
-B. Suspension of Article 19
-C. salary reductions including SC/HC judges
-D. Dissolution of High Courts
-
-**Answer: C.**
-
-State Money Bills can also be required to be reserved.
-
-#### OM28. Financial status
-
-As of the control date, Financial Emergency has:
-
-A. been used during COVID-19
-B. been proclaimed once
-C. been used in 1991
-D. never been proclaimed
-
-**Answer: D.**
-
-Economic crisis does not equal Article 360 proclamation.
-
-
-### Remedial MCQ loop - strict A -> A -> B -> D rotation
-
-#### RM1. Ground
-
-The internal ground under Article 352 is:
-
-A. armed rebellion
-B. internal disturbance
-C. public disorder
-D. State failure
-
-**Answer: A.**
-
-Internal disturbance remains in Article 355, not Article 352.
-
-#### RM2. Majority
-
-Article 356 approval uses:
-
-A. special majority
-B. simple majority
-C. joint sitting
-D. State ratification
-
-**Answer: B.**
-
-Only National Emergency uses the special majority among the three.
-
-#### RM3. Rights
-
-Article 358 operates during:
-
-A. Financial Emergency
-B. armed rebellion only
-C. war/external aggression Emergency
-D. President's Rule
-
-**Answer: C.**
-
-It automatically affects Article 19 subject to post-44th limits.
-
-#### RM4. Liberty
-
-Which can never be suspended through Article 359?
-
-A. 32/226
-B. 14/15
-C. 19/22
-D. 20/21
-
-**Answer: D.**
-
-Life, liberty and penal protections remain enforceable.
-
-#### RM5. S.R. Bommai (1994)
-
-The correct majority forum is:
-
-A. Assembly floor
-B. Governor's office
-C. Supreme Court facts hearing first
-D. Rajya Sabha
-
-**Answer: A.**
-
-Floor test is the default democratic mechanism.
-
-#### RM6. High Court
+#### Q26. High Court limit
 
 During President's Rule:
 
-A. High Court is dissolved
-B. High Court remains constitutionally untouched by assumption
-C. Chief Justice reports to Parliament
-D. President assumes High Court functions
+A. the President may suspend Article 226
+B. the President cannot assume High Court powers or suspend constitutional provisions relating to High Courts
+C. the Chief Justice becomes responsible to Parliament
+D. all Fundamental Rights automatically cease
 
 **Answer: B.**
 
-Article 356 expressly protects High Court functions.
+**Option explanations**
 
-#### RM7. Article 360
+- **A:** Article 356's proviso protects High Court powers rather than authorising their suspension.
+- **B:** This is the express judicial boundary on presidential assumption.
+- **C:** No such alteration of judicial office or responsibility is created.
+- **D:** Article 356 contains no automatic Part III suspension mechanism.
 
-Its parliamentary approval window is:
+**Examiner trap:** The High Court proviso is textual, not merely a convention from *Bommai*.
 
-A. six months
-B. one month
-C. two months
-D. one year
+#### Q27. Bommai floor test
+
+Where legislative majority is disputed, *S.R. Bommai* ordinarily requires determination:
+
+A. through a Governor's interview
+B. through party affidavits submitted to the Union
+C. on the floor of the State Assembly
+D. by the Election Commission
 
 **Answer: C.**
 
-Simple majority in both Houses.
+**Option explanations**
 
-#### RM8. Article 360 use
+- **A:** A private constitutional-office assessment lacks the democratic visibility of the House vote.
+- **B:** Affidavits can be evidence but are not the ordinary constitutional forum for proving confidence.
+- **C:** The floor test protects representative majority and limits subjective reports.
+- **D:** The Election Commission administers elections; it does not decide an incumbent ministry's Assembly confidence.
 
-India has:
+**Examiner trap:** The floor-test rule answers majority disputes, not every distinct form of constitutional breakdown.
 
-A. used it in 1962
-B. used it in 1991
-C. used it in 1975
-D. never proclaimed it
+#### Q28. Bommai remedy
+
+If an Article 356 proclamation is invalidated, *Bommai* supports the proposition that:
+
+A. only damages are available
+B. parliamentary approval bars relief
+C. the case becomes moot after dismissal
+D. the court may restore the dismissed government and Assembly
 
 **Answer: D.**
 
-The severity helps explain its non-use.
+**Option explanations**
+
+- **A:** Constitutional restoration, not merely monetary compensation, addresses the federal-democratic injury.
+- **B:** Approval does not erase judicial review or remedial power.
+- **C:** Treating dismissal as irreversible would reward an unconstitutional fait accompli.
+- **D:** Restoration makes review effective and deters premature dissolution.
+
+**Examiner trap:** Contrast *Bommai*'s restoration power with *Rameshwar Prasad*, where elections had advanced and restoration was not ordered.
+
+#### Q29. Financial trigger
+
+Article 360 may be proclaimed when:
+
+A. the financial stability or credit of India or any part of its territory is threatened
+B. a State exceeds a preferred deficit ratio
+C. the Union imposes Article 293 borrowing conditions
+D. the Finance Commission recommends reduced grants
+
+**Answer: A.**
+
+**Option explanations**
+
+- **A:** This is the constitutional trigger and applies to India or any part.
+- **B:** No numerical deficit rule in Article 360 mechanically activates the proclamation.
+- **C:** Article 293 is an ordinary borrowing-control provision and can operate without Financial Emergency.
+- **D:** Finance Commission advice does not itself establish the Article 360 threshold.
+
+**Examiner trap:** A fiscal problem is not a Financial Emergency until the constitutional proclamation threshold is satisfied.
+
+#### Q30. Financial duration
+
+After proper parliamentary approval, a Financial Emergency:
+
+A. must be renewed every six months
+B. continues without a periodic renewal requirement until revoked or varied
+C. ends automatically after one year
+D. requires State ratification every budget session
+
+**Answer: B.**
+
+**Option explanations**
+
+- **A:** Six-month renewal belongs to Articles 352 and 356, though with different majorities.
+- **B:** Article 360 contains no renewal cycle or fixed maximum after initial approval.
+- **C:** The Constitution provides no one-year automatic expiry.
+- **D:** State legislatures do not ratify Article 360 continuance.
+
+**Examiner trap:** Use 'indefinite until revocation after approval', not 'permanent'.
+
+#### Q31. Financial Bill reservation
+
+An Article 360 direction may require reservation for presidential consideration of:
+
+A. all ordinary private members' Bills
+B. only Appropriation Bills of Parliament
+C. State Money Bills and other State Bills to which Article 207 applies
+D. Supreme Court rules
+
+**Answer: C.**
+
+**Option explanations**
+
+- **A:** Article 360 targets specified State financial legislation, not every private member's Bill.
+- **B:** The reservation direction concerns State legislative Bills rather than Union Appropriation Bills.
+- **C:** This follows Article 360(4)(a)(ii)'s exact cross-reference to Article 207.
+- **D:** Judicial rules are unrelated to the financial-Bill reservation mechanism.
+
+**Examiner trap:** Say 'Money Bills or other Bills to which Article 207 applies', not every State Bill.
+
+#### Q32. Financial status and salaries
+
+Which statement is accurate as of 7 September 2026?
+
+A. Article 360 was proclaimed in 1991
+B. Judges' salaries can never be affected under Article 360
+C. Article 360 is automatically active during a balance-of-payments crisis
+D. No Financial Emergency has been proclaimed; if validly in force, directions may include salary reductions for Union personnel including Supreme Court and High Court judges
+
+**Answer: D.**
+
+**Option explanations**
+
+- **A:** The 1991 crisis was managed without an Article 360 proclamation.
+- **B:** Article 360 expressly includes constitutional-court judges within possible Union salary directions.
+- **C:** Economic facts alone do not substitute for presidential proclamation and parliamentary approval.
+- **D:** This states both the historical status and the exceptional salary consequence.
+
+**Examiner trap:** Never turn the common phrase 'closest in 1991' into a claim of proclamation or near-proclamation.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Routed PYQs with model solutions
+### ROUTED VERIFIED PYQS
 
-#### PYQ 1 - UPSC GS-II 2018, Q3 - direct
+#### PYQ 1 - UPSC GS-II 2018, Q3 - direct owner
 
-**Question:** Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remains in force?  
+**Question:** Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remains in force?
+
 **10 marks | 150 words**
 
-**Demand decoding:** Under what circumstances requires Article 360's trigger, procedure and consequences, followed by the never-used qualified verdict.
+**Demand decoding:** State the Article 360 threshold, then procedure, effects and a qualified never-used conclusion.
 
 **Model solution**
 
-Article 360 permits the President to proclaim Financial Emergency when satisfied that the financial stability or credit of India or any part is threatened.
+**Claim:** Article 360 is a last-resort response when the President is satisfied that the financial stability or credit of India or any part is threatened.
 
-Both Houses must approve within two months by simple majority. It then continues without periodic renewal and may be revoked by the President.
+**Evidence:** Both Houses must approve within two months by simple majority. Once approved, it continues without periodic renewal until revoked. Union directions may require States to observe canons of financial propriety, reduce salaries of persons serving a State, and reserve State Money Bills or other Article 207 Bills. The President may also reduce Union salaries, including those of Supreme Court and High Court judges.
 
-Its consequences are strongly centralising. Union executive power extends to directing States to observe canons of financial propriety and other necessary measures. Directions may require reduction of salaries and allowances of persons serving a State and reservation of State Money Bills or specified financial Bills for presidential consideration. The President may also direct salary reductions for persons serving Union affairs, including Supreme Court and High Court judges.
+**Analysis:** These powers sharply centralise fiscal administration without dismissing State institutions or automatically suspending Fundamental Rights.
 
-The provision sharply centralises finance without suspending Fundamental Rights or abolishing State institutions. It has never been invoked, reflecting its severity.
+**Qualification:** India has never proclaimed Article 360; ordinary fiscal and borrowing tools have managed crises. Its severity makes necessity, proportionality and parliamentary scrutiny essential.
 
-Thus, Article 360 is a last-resort stabilisation power whose constitutional legitimacy depends on necessity, proportionality and review.
+#### PYQ 2 - UPSC Prelims 2018, Q53 - direct owner
 
-**Why this earns marks:** It states the constitutional threshold, approval, duration and every major direction without confusing Financial Emergency with ordinary fiscal stress.
+**Question:** If the President of India exercises his power as provided under Article 356 of the Constitution in respect of a particular State, then
 
-**How to improve this answer:** Use a trigger → approval → consequences → status flow; omit 1991 detail if the 150-word limit is tight.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Article 360 permits the President to proclaim Financial Emergency when satisfied that the financial stability or credit of India or any part is threatened. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Both Houses must approve within two months by simple majority. It then continues without periodic renewal and may be revoked by the President. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The provision sharply centralises finance without suspending Fundamental Rights or abolishing State institutions. It has never been invoked, reflecting its severity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Thus, Article 360 is a last-resort stabilisation power whose constitutional legitimacy depends on necessity, proportionality and review. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It states the constitutional threshold, approval, duration and every major direction without confusing Financial Emergency with ordinary fiscal stress. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 2 - UPSC Prelims 2018, Q53 - direct
-
-**Question:** If the President of India exercises power under Article 356 in respect of a particular State, then:
-
-A. The State Assembly is automatically dissolved.  
-B. The powers of the State Legislature shall be exercisable by or under the authority of Parliament.  
+A. the Assembly of the State is automatically dissolved.  
+B. the powers of the Legislature of that State shall be exercisable by or under the authority of the Parliament.  
 C. Article 19 is suspended in that State.  
-D. The President can personally make every law relating to that State without parliamentary authority.
+D. the President can make laws relating to that State.
 
-**Answer: B. INFERRED ANSWER - NOT OFFICIALLY VERIFIED.**
+**Answer withheld pending official UPSC key.**
 
-Article 356 permits declaration that State legislative powers are exercisable by or under Parliament's authority. The Assembly may be suspended rather than automatically dissolved, and Fundamental Rights are not automatically affected.
+**Solution discipline:** Article 356 permits the proclamation to declare State legislative powers exercisable by or under Parliament. The Assembly is not automatically dissolved; Article 19 is not automatically suspended; and presidential State law-making depends on the Article 357 parliamentary-conferral channel.
 
-**Demand decoding:** Treat “If the President of India exercises power under Article 356 in respect of a particular State,…” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
+#### PYQ 3 - UPSC GS-II 2020, Q11 - supporting / cross-owned
 
-**Detailed examiner-grade model answer:**
+**Question:** The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897, the Disaster Management Act, 2005 and the recently passed Farm Acts.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “If the President of India exercises power under Article 356 in respect of a particular State, then: A. The State Assembly is automatically dissolved.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A. The State Assembly is automatically dissolved. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** B. The powers of the State Legislature shall be exercisable by or under the authority of Parliament. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** D. The President can personally make every law relating to that State without parliamentary authority. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Answer: B. INFERRED ANSWER - NOT OFFICIALLY VERIFIED. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “If the President of India exercises power under Article 356 in respect of a particular State, then: A. The State Assembly is automatically dissolved.…”.
-
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
-
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
-
-**How to improve this answer:** For “If the President of India exercises power under Article 356 in respect of a particular State,…”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
-
-#### PYQ 3 - UPSC GS-II 2020, Q11 - supporting/cross-owned
-
-**Question:** The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897, the Disaster Management Act, 2005 and the recently passed Farm Acts.  
 **15 marks | 250 words**
 
-**Demand decoding:** Elucidate requires showing centralising capacity through the named laws while distinguishing ordinary legislation from formal Emergency powers.
+**Demand decoding:** Explain centralising capacity through the named ordinary statutes while expressly distinguishing them from formal Emergency powers.
 
 **Model solution**
 
-India's holding-together Constitution gives the Union crisis and common-market capacity beyond a classical federation.
+**Claim:** India's holding-together federation provides Union coordination capacity, but centralisation must rest on the correct legislative source rather than borrowed emergency logic.
 
-During COVID-19, the Union used the Disaster Management Act, 2005 for national directions, while the Epidemic Diseases Act operated through State authorities. Central coordination enabled uniform movement, procurement and containment rules, but public health is substantially a State field and implementation burdens rested on States.
+**Evidence:** During COVID-19, the Disaster Management Act enabled national directions while the Epidemic Diseases Act operated substantially through State authorities. The 2020 Farm Acts relied on Concurrent List Entry 33 concerning trade in foodstuffs but affected agriculture and markets associated with State fields; their 2021 repeal reflected political federalism.
 
-The 2020 Farm Acts relied on Concurrent Entry 33 concerning trade in foodstuffs but affected agriculture and markets under State Entries 14 and 28. Their enactment without adequate federal consultation became a competence and trust dispute. Repeal in 2021 demonstrated political federalism.
+**Analysis:** Uniform crisis coordination can reduce fragmentation, yet implementation burdens and democratic accountability remain distributed. Articles 352, 356 and 360 demonstrate the Constitution's exceptional centralising design, but none was the direct legal basis of the named statutes.
 
-Emergency provisions strengthen this tendency: Article 352 permits Union directions and State-field legislation; Article 356 transfers State legislative authority; Article 360 centralises financial directions. Yet these were not the direct legal basis of the Farm Acts.
+**Qualification:** Union action must therefore satisfy legislative competence, necessity and consultation. *S.R. Bommai*, judicial review and State electoral power remain counterweights. Unity is best protected when coordination does not erase federal trust.
 
-The counterbalance lies in *S.R. Bommai (1994)*, judicial competence doctrines, parliamentary accountability, GST/ISC consultation and State electoral power.
-
-Thus, centralising authority may protect unity, but ordinary statutes should not borrow emergency logic. Necessity, correct List entry and structured State consultation distinguish coordination from coercion.
-
-**Why this earns marks:** It discusses each named statute, locates the federal competence dispute and balances Union coordination with State consultation.
-
-**How to improve this answer:** Give the three named statutes separate lines and explicitly say Articles 352-360 were not the direct legal basis of the Farm Acts.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ 3 - UPSC GS-II 2020, Q11 - supporting/cross-owned **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** India's holding-together Constitution gives the Union crisis and common-market capacity beyond a classical federation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The counterbalance lies in S.R. Bommai (1994) , judicial competence doctrines, parliamentary accountability, GST/ISC consultation and State electoral power. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Thus, centralising authority may protect unity, but ordinary statutes should not borrow emergency logic. Necessity, correct List entry and structured State consultation distinguish coordination from coercion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It discusses each named statute, locates the federal competence dispute and balances Union coordination with State consultation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 4 - UPSC Prelims 2023, Q77 - direct
+#### PYQ 4 - UPSC Prelims 2023, Q77 - supporting route
 
 **Question:** Consider the following statements:
 
-1. According to the Constitution, the Central Government has a duty to protect States from internal disturbances.
-2. The Constitution exempts the States from providing legal counsel to a person being held for preventive detention.
-3. According to the Prevention of Terrorism Act, 2002, confession of an accused before police cannot be used as evidence.
+1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances.
+2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention.
+3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence.
 
-How many statements are correct?
+How many of the above statements are correct?
 
 A. Only one  
 B. Only two  
 C. All three  
 D. None
 
-**Answer: B. INFERRED ANSWER - NOT OFFICIALLY VERIFIED.**
+**Answer withheld pending official UPSC key.**
 
-Article 355 establishes the Union duty. Article 22(3) excludes preventive-detention cases from clauses (1) and (2), including counsel/arrest-production safeguards. POTA allowed specified police confessions as evidence; it was repealed in 2004.
+**Solution discipline:** Article 355 supplies the Union duty. Article 22(3) excludes preventive-detention cases from Article 22(1)-(2), including the counsel safeguard. POTA 2002 contained a special admissibility rule for specified police confessions and was repealed in 2004. This PYQ is supporting because preventive-detention and POTA detail is primarily owned by Fundamental Rights/Internal Security.
 
-**Demand decoding:** Treat “Consider the following statements: 1. According to the Constitution, the Central Government…” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
+#### PYQ 5 - UPSC GS-II 2023, Q13 - direct owner
 
-**Detailed examiner-grade model answer:**
+**Question:** Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since mid 1990s.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Consider the following statements: 1. According to the Constitution, the Central Government has a duty to protect States from internal disturbances.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** According to the Constitution, the Central Government has a duty to protect States from internal disturbances. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The Constitution exempts the States from providing legal counsel to a person being held for preventive detention. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** According to the Prevention of Terrorism Act, 2002, confession of an accused before police cannot be used as evidence. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Answer: B. INFERRED ANSWER - NOT OFFICIALLY VERIFIED. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Consider the following statements: 1. According to the Constitution, the Central Government has a duty to protect States from internal disturbances.…”.
-
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
-
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
-
-**How to improve this answer:** For “Consider the following statements: 1. According to the Constitution, the Central Government…”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
-
-#### PYQ 5 - UPSC GS-II 2023, Q13 - direct
-
-**Question:** Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since the mid-1990s.  
 **15 marks | 250 words**
 
-**Demand decoding:** Account for requires causal explanation of both legal and political reasons for declining Article 356 use.
+**Demand decoding:** 'Account for' requires causal explanation under legal, political and institutional heads, not a list of *Bommai* propositions alone.
 
 **Model solution**
 
-Article 356 declined after the mid-1990s because judicial doctrine and political federalisation raised the cost of partisan dismissal.
+**Claim:** Article 356 became less frequent because courts changed the legal cost of dismissal and federalised politics changed its survival cost.
 
-**Legal watershed:** *S.R. Bommai (1994)* made proclamations judicially reviewable, required relevant material, placed majority testing on the Assembly floor, prevented dissolution before parliamentary approval and allowed restoration after invalid action. *Rameshwar Prasad (2006)* reinforced review by finding the Bihar dissolution unconstitutional.
+**Named evidence:** *S.R. Bommai* made proclamations reviewable, required relevant material, preferred floor tests, delayed dissolution until parliamentary approval and enabled restoration. *Rameshwar Prasad* later invalidated the Bihar dissolution. Sarkaria and Punchhi promoted warning, speaking Governor reports and last-resort use.
 
-**Political change:** Coalition Union governments after 1989 often depended on regional parties. Strong State-based parties increased parliamentary and electoral costs of dismissing opposition governments. Greater media and civil-society scrutiny also raised reputational cost.
+**Analysis:** Coalition Union governments and powerful regional parties made dismissal of State governments costly in parliamentary alliances and elections. Media and civil-society scrutiny increased reputational risk. These changes jointly discouraged the earlier pattern of partisan proclamations.
 
-**Institutional norms:** Sarkaria and Punchhi recommended warning, floor tests, speaking Governor reports and last-resort use. Although not binding, they shaped constitutional expectations.
+**Qualification:** The text still permits satisfaction on a Governor's report 'or otherwise', and Governor/floor-test disputes continue. The decline therefore reflects disciplined incentives, not repeal or guaranteed compliance.
 
-The decline is not attributable to textual repeal: Article 356 retains broad “report or otherwise” language and Governor disputes continue. Rather, law altered litigation risk while political federalism altered survival incentives.
+#### PYQ 6 - UPSC Prelims 2024, Q74 - supporting route; final official local key held
 
-Thus, Article 356 moved from a routine partisan instrument toward an exceptional constitutional remedy through the combined discipline of courts, coalitions and conventions.
+**Question:** Which of the following statements are correct about the Constitution of India?
 
-**Why this earns marks:** It combines S.R. Bommai (1994) and Rameshwar Prasad (2006) with coalition, regional-party and commission factors, then qualifies the continuing Governor problem.
+1. Powers of the Municipalities are given in Part IX A of the Constitution.
+2. Emergency provisions are given in Part XVIII of the Constitution.
+3. Provisions related to the amendment of the Constitution are given in Part XX of the Constitution.
 
-**How to improve this answer:** Use Legal, Political and Institutional subheads; retain Rameshwar Prasad (2006)'s non-restoration limit if adding case detail.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since the mid-1990s.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Article 356 declined after the mid-1990s because judicial doctrine and political federalisation raised the cost of partisan dismissal. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Institutional norms: Sarkaria and Punchhi recommended warning, floor tests, speaking Governor reports and last-resort use. Although not binding, they shaped constitutional expectations. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Thus, Article 356 moved from a routine partisan instrument toward an exceptional constitutional remedy through the combined discipline of courts, coalitions and conventions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It combines S.R. Bommai (1994) and Rameshwar Prasad (2006) with coalition, regional-party and commission factors, then qualifies the continuing Governor problem. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Use Legal, Political and Institutional subheads; retain Rameshwar Prasad (2006)'s non-restoration limit if adding case detail. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since the mid-1990s.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 6 - UPSC Prelims 2024, Q74 - supporting, official key
-
-**Question:** Which of the following statements about the Constitution are correct?
-
-1. Powers of Municipalities are given in Part IX-A.
-2. Emergency provisions are given in Part XVIII.
-3. Constitutional amendment provisions are given in Part XX.
-
-Select the correct answer:
+Select the answer using the code given below:
 
 A. 1 and 2 only  
 B. 2 and 3 only  
 C. 1 only  
 D. 1, 2 and 3
 
-**Answer: D. OFFICIAL UPSC SET-A KEY.**
+**Answer: D. Official UPSC Set-A key held locally.**
 
-All three Part references are correct.
+**Solution discipline:** Part IX-A concerns Municipalities, Part XVIII Emergency Provisions and Part XX constitutional amendment.
 
-### Original Mains practice with examiner-grade models
+### SIX ORIGINAL MAINS QUESTIONS WITH MODEL ANSWERS
+#### Original Q1 - 10 marks | 150 words
 
-**Demand decoding:** Treat “Which of the following statements about the Constitution are correct? 1. Powers of…” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
+**Question:** An external attack affecting only one State does not mechanically trigger President's Rule. Explain the correct constitutional analysis.
 
-**Detailed examiner-grade model answer:**
+**Model answer (128 words)**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Which of the following statements about the Constitution are correct? 1. Powers of Municipalities are given in Part IX-A. 2. Emergency provisions are…”.
+**Claim:** Geography does not determine the emergency category. Article 356 applies only when State government cannot be carried on according to the Constitution.
 
-**Analytical body:**
+**Named evidence:** Article 352 instead addresses a grave emergency whereby the security of India or any part is threatened by war, external aggression or armed rebellion. It permits a proclamation for a specified part and states no State-sized minimum.
 
-1. **Claim and named evidence:** PYQ 6 - UPSC Prelims 2024, Q74 - supporting, official key **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Powers of Municipalities are given in Part IX-A. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Emergency provisions are given in Part XVIII. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Constitutional amendment provisions are given in Part XX. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Original Mains practice with examiner-grade models **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Analysis:** A localised cross-border attack therefore requires assessment of Article 352's ground and security threshold. Article 355 may support Union protection, while criminal, policing and counter-terrorism law may remain sufficient. Terrorism is not automatically constitutional 'external aggression'.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Qualification:** The 2008 Mumbai attacks produced no National Emergency and no automatic Article 356 proclamation. Only independent proof that Maharashtra's constitutional government could not function would engage Article 356.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “Which of the following statements about the Constitution are correct? 1. Powers of Municipalities are given in Part IX-A. 2. Emergency provisions are…”.
+#### Original Q2 - 10 marks | 150 words
 
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
+**Question:** Differentiate Articles 358 and 359 after the 44th Amendment.
 
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
+**Model answer (140 words)**
 
-**How to improve this answer:** For “Which of the following statements about the Constitution are correct? 1. Powers of…”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
+**Claim:** Articles 358 and 359 create different, bounded rights consequences rather than a blanket suspension of Part III.
 
-#### M1. 10 marks | 150 words
+**Named evidence:** Article 358 operates automatically, concerns Article 19 alone and applies only during war or external-aggression Emergency. Its shield requires an emergency-related recital and covers executive action under such a law. Article 359 needs a presidential order and suspends the right to move courts for enforcement of specified Part III rights and relevant pending proceedings.
 
-**Question:** Explain the written-Cabinet, parliamentary and Lok Sabha safeguards governing a National Emergency.
+**Analysis:** Article 358 changes Article 19's constraint for a narrow trigger; Article 359 restricts the enforcement route named in the order. Article 359(1A)-(1B) also uses recital and nexus controls.
 
-**Demand decoding:** Explain the three safeguards and show how each checks executive initiation or continuation.
+**Qualification:** Articles 20 and 21 can never be included after the 44th Amendment. On cessation, protected laws lose prospective immunity to the extent of ordinary incompetency, while past acts remain governed by the saving clauses.
 
-**Model solution**
+#### Original Q3 - 15 marks | 250 words
 
-Article 352 now combines executive initiation with strong parliamentary checks.
+**Question:** Examine how the 44th Amendment constitutionalised lessons from the 1975-77 Emergency.
 
-First, the President cannot proclaim Emergency unless the Union Cabinet's decision is communicated in writing. This prevents prime-ministerial or informal advice from substituting for collective Cabinet responsibility.
+**Model answer (193 words)**
 
-Second, both Houses must approve within one month through a special majority: majority of total membership and at least two-thirds present and voting. Continuation requires the same majority every six months, preventing an open-ended executive proclamation.
+**Claim:** The 44th Amendment converted the vulnerabilities exposed in 1975 into specific textual safeguards without abolishing emergency power.
 
-Third, Lok Sabha possesses a special exit mechanism. The President must revoke if the House passes a simple-majority disapproval resolution. At least one-tenth of Lok Sabha members may requisition a special sitting within 14 days.
+**Named evidence:** The 1975 proclamation used the broad ground 'internal disturbance'. The amendment replaced it with 'armed rebellion', required the Union Cabinet decision in writing, shortened approval to one month and imposed a majority of total membership plus two-thirds present and voting. Six-month renewals and the Lok Sabha disapproval route ended passive continuation. One-tenth of Lok Sabha members can obtain a special sitting within fourteen days.
 
-Finally, presidential satisfaction is judicially reviewable after removal of the 38th Amendment immunity.
+Rights safeguards were equally direct. Article 358 was confined to war and external aggression and to emergency-related reciting laws and action under them. Article 359 can no longer block enforcement of Articles 20 and 21. The amendment also removed the 38th Amendment's finality clauses, restoring judicial review.
 
-These 44th Amendment safeguards respond directly to 1975. They preserve rapid crisis action but require written collective advice, recurring legislative legitimacy, lower-House control and constitutional review.
+**Analysis:** Each repair addresses a distinct 1975 failure: vague trigger, personalised initiation, weak approval, restricted liberty and attempted executive finality. *Puttaswamy* later added judicial repudiation of *ADM Jabalpur*.
 
-**Why this earns marks:** It gives written Cabinet advice, special-majority renewal, Lok Sabha exit and restored review in a compact sequence.
+**Qualification:** A large parliamentary majority, controlled information, preventive detention and institutional deference can still endanger liberty. The amendment substantially closes the known legal pathways, but Parliament, courts, opposition and media must activate its safeguards.
 
-**How to improve this answer:** Draw four boxes in rough work and keep the special-majority definition exact.
+#### Original Q4 - 15 marks | 250 words
 
-**Detailed examiner-grade model answer:**
+**Question:** Assess the constitutional significance of *S.R. Bommai* beyond the decline in frequency of Article 356.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Explain the written-Cabinet, parliamentary and Lok Sabha safeguards governing a National Emergency.”.
+**Model answer (182 words)**
 
-**Analytical body:**
+**Claim:** *S.R. Bommai* did more than reduce proclamations; it joined representative majority, federalism, secularism and effective remedies within Article 356 doctrine.
 
-1. **Claim and named evidence:** Article 352 now combines executive initiation with strong parliamentary checks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** First, the President cannot proclaim Emergency unless the Union Cabinet's decision is communicated in writing. This prevents prime-ministerial or informal advice from substituting for collective Cabinet responsibility. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Finally, presidential satisfaction is judicially reviewable after removal of the 38th Amendment immunity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** These 44th Amendment safeguards respond directly to 1975. They preserve rapid crisis action but require written collective advice, recurring legislative legitimacy, lower-House control and constitutional review. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It gives written Cabinet advice, special-majority renewal, Lok Sabha exit and restored review in a compact sequence. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Named evidence:** The Court made presidential satisfaction judicially reviewable and required relevant material free from mala fides. When majority is disputed, it ordinarily belongs on the Assembly floor. The Assembly should not be irreversibly dissolved before parliamentary approval, and an invalid proclamation may lead to restoration of the ministry and House. Political change at the Union cannot itself justify dismissal of opposition States.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+The judgment also treated federalism and secularism as Basic Structure features. Genuine anti-secular State conduct can therefore have Article 356 relevance, but the provision cannot become a partisan weapon.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “Explain the written-Cabinet, parliamentary and Lok Sabha safeguards governing a National Emergency.”.
+**Analysis:** Floor testing protects democratic proof; delayed dissolution prevents a fait accompli; restoration makes review practical rather than declaratory; and Basic Structure reasoning supplies substantive constitutional boundaries. *Rameshwar Prasad* later demonstrated scrutiny of Governor-based predictive material.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Qualification:** *Bommai* neither abolishes Article 356 nor requires a floor test for every non-majority form of breakdown. Courts review legality and evidence, while a proved constitutional failure remains remediable under the text.
 
-#### M2. 10 marks | 150 words
+#### Original Q5 - 20 marks | 250 words
 
-**Question:** Differentiate Articles 358 and 359 and explain the significance of the protection of Articles 20 and 21.
+**Question:** Emergency provisions make India temporarily unitary, but not constitutionally non-federal. Critically evaluate.
 
-**Demand decoding:** Differentiate requires a side-by-side 358/359 comparison and the significance of the 20/21 firewall.
+**Model answer (201 words)**
 
-**Model solution**
+**Claim:** Part XVIII creates functional Union dominance in crisis, but the Constitution, States and judicial limits continue.
 
-Article 358 operates automatically and concerns only Article 19. After the 44th Amendment, it applies only to Emergency based on war or external aggression, not armed rebellion, and protects only emergency-related laws carrying the required recital and action under them.
+**Named evidence:** Under Article 352, Article 353 expands Union directions and parliamentary law-making; Article 250 enables State List legislation; Article 354 can modify revenue distribution. Yet State governments and legislatures continue. Articles 358-359 create only specified rights effects, with Articles 20-21 protected.
 
-Article 359 requires a presidential order. It suspends the right to move specified courts for enforcement of named Fundamental Rights for the stated period and territory; it does not automatically suspend every right.
+Article 356 produces sharper State-specific displacement: the ministry may be dismissed and legislative power becomes exercisable by or under Parliament. Article 357 channels delegation and preserves resulting laws, while the High Court remains beyond presidential assumption. *S.R. Bommai* adds review, floor testing, delayed dissolution and restoration.
 
-Articles 20 and 21 are constitutionally excluded from Article 359. Protection against retrospective punishment, double jeopardy and compelled self-incrimination, along with life and personal liberty, remain enforceable.
+Article 360 centralises fiscal directions, salary reduction and reservation of State financial Bills, but does not itself dissolve State institutions.
 
-This protection answers *ADM Jabalpur (1976)*, whose majority denied habeas corpus during the 1975 Emergency. *K.S. Puttaswamy (2017)* overruled it.
+**Analysis:** These provisions temporarily alter the federal distribution so the Union can meet security, constitutional or financial collapse. Parliamentary approval, duration controls and judicial review preserve constitutional continuity.
 
-Thus, Article 358 creates a narrow automatic Article 19 rule; Article 359 creates a specified enforcement restriction, bounded by an inviolable liberty core.
+**Qualification:** Article 352 and Article 360 can continue without fixed maximum if their distinct requirements are met; political majorities may still misuse crisis narratives. India becomes Union-weighted in operation, not legally unitary in identity. Emergency legitimacy therefore depends on necessity, proportionality and restoration of ordinary federal democracy.
 
-**Why this earns marks:** It distinguishes trigger, operation, rights and legal effect, then connects ADM Jabalpur (1976) to K.S. Puttaswamy (2017).
+#### Original Q6 - 20 marks | 250 words
 
-**How to improve this answer:** Avoid saying rights are abolished or suspended generally; use 'Article 19 limits do not apply' and 'right to move court is suspended'.
+**Question:** Why has India never proclaimed a Financial Emergency? Does non-use make Article 360 redundant?
 
-**Detailed examiner-grade model answer:**
+**Model answer (197 words)**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Differentiate Articles 358 and 359 and explain the significance of the protection of Articles 20 and 21.”.
+**Claim:** Article 360's non-use reflects its drastic signalling and distributive consequences, together with effective ordinary fiscal tools; it does not necessarily prove redundancy.
 
-**Analytical body:**
+**Named evidence:** Once approved within two months by simple majority, a Financial Emergency has no periodic renewal requirement. Union directions may impose canons of financial propriety, reduce State and Union salaries, include Supreme Court and High Court judges, and require State Money Bills or other Article 207 Bills to be reserved.
 
-1. **Claim and named evidence:** Article 359 requires a presidential order. It suspends the right to move specified courts for enforcement of named Fundamental Rights for the stated period and territory; it does not automatically suspend every right. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Articles 20 and 21 are constitutionally excluded from Article 359. Protection against retrospective punishment, double jeopardy and compelled self-incrimination, along with life and personal liberty, remain enforceable. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** This protection answers ADM Jabalpur (1976) , whose majority denied habeas corpus during the 1975 Emergency. K.S. Puttaswamy (2017) overruled it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Thus, Article 358 creates a narrow automatic Article 19 rule; Article 359 creates a specified enforcement restriction, bounded by an inviolable liberty core. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It distinguishes trigger, operation, rights and legal effect, then connects ADM Jabalpur (1976) to K.S. Puttaswamy (2017). **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+India managed the 1991 balance-of-payments crisis through external assistance, adjustment and reform rather than Article 360. Later stress has been addressed through budgets, RBI measures, Finance Commission transfers, statutory fiscal frameworks and Article 293 borrowing conditions.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Analysis:** Proclamation would publicly signal systemic loss of financial stability or credit and would centralise austerity across federal and judicial institutions. Governments therefore prefer calibrated measures that preserve ordinary accountability and market confidence.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “Differentiate Articles 358 and 359 and explain the significance of the protection of Articles 20 and 21.”.
+**Qualification:** A collapse defeating normal coordination may still justify a constitutional backstop. Yet indefinite continuation after initial approval creates accountability concerns. Published reasons, periodic legislative review and protection of institutional independence would improve proportionality. Article 360 is best understood as an unused last-resort fire alarm, distinct from routine deficit control or State borrowing consent.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M3. 15 marks | 250 words
-
-**Question:** “Emergency provisions make the Indian federation unitary without formally abolishing States.” Examine.
-
-**Demand decoding:** Examine requires testing temporary functional centralisation separately under Articles 352, 356 and 360.
-
-**Model solution**
-
-The statement captures the temporary centralisation enabled by Part XVIII, but each emergency changes federalism differently.
-
-Under Article 352, Union executive directions extend broadly, Parliament legislates on the State List and Article 354 can modify revenue distribution. State legislatures and governments nevertheless continue; Union competence becomes temporarily dominant rather than States being abolished.
-
-Under Article 356, centralisation is sharper within the affected State. The Council of Ministers is dismissed and State legislative power becomes exercisable by or under Parliament. Yet the High Court remains untouched, parliamentary approval is required and the State's legal identity continues.
-
-Article 360 centralises financial direction: the Union may prescribe financial propriety, salary reductions and reservation of State financial Bills. It does not itself dismiss State institutions.
-
-Post-1978 safeguards qualify the unitary transformation. National Emergency requires written Cabinet advice, special-majority renewal and Lok Sabha disapproval control. Articles 20 and 21 remain enforceable. *S.R. Bommai (1994)* makes Article 356 reviewable, prioritises floor tests and permits restoration.
-
-Therefore, Emergency creates temporary functional unitarism within a continuing federal Constitution. The provisions are legitimate as a safety-valve only where necessity, parliamentary control, rights protection and judicial review prevent exceptional power from becoming ordinary governance.
-
-**Why this earns marks:** It explains different institutional effects and balances them with the 44th Amendment and S.R. Bommai (1994) safeguards.
-
-**How to improve this answer:** Use one paragraph per emergency and replace 'unitary' with 'temporarily Union-weighted' in the conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in ““Emergency provisions make the Indian federation unitary without formally abolishing States.” Examine.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The statement captures the temporary centralisation enabled by Part XVIII, but each emergency changes federalism differently. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Article 360 centralises financial direction: the Union may prescribe financial propriety, salary reductions and reservation of State financial Bills. It does not itself dismiss State institutions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Why this earns marks: It explains different institutional effects and balances them with the 44th Amendment and S.R. Bommai (1994) safeguards. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** How to improve this answer: Use one paragraph per emergency and replace 'unitary' with 'temporarily Union-weighted' in the conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in ““Emergency provisions make the Indian federation unitary without formally abolishing States.” Examine.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M4. 15 marks | 250 words
-
-**Question:** Assess the constitutional significance of S.R. Bommai (1994) beyond merely reducing misuse of Article 356.
-
-**Demand decoding:** Assess significance beyond frequency by identifying S.R. Bommai (1994)'s federal, democratic, remedial and secularism doctrines.
-
-**Model solution**
-
-*S.R. Bommai (1994)* transformed Article 356 and clarified the nature of Indian constitutional democracy.
-
-First, it subjected presidential satisfaction to judicial review. Relevant material, absence of mala fides and constitutional purpose became legal requirements, rejecting the view that Article 356 was purely political.
-
-Second, it constitutionalised the floor test as the ordinary method for deciding legislative majority. This protects the Assembly's democratic authority from subjective Governor assessment.
-
-Third, it limited irreversible action: the Assembly should not be dissolved before Parliament approves the proclamation, and courts may restore an unlawfully dismissed government and House.
-
-Fourth, the Court identified federalism and secularism as Basic Structure features. Article 356 can therefore protect the constitutional order against genuinely anti-secular State action, but cannot become a partisan weapon against opposition governments.
-
-Fifth, the burden placed on the Union to produce supporting material strengthened reason-giving and accountability.
-
-The judgment's reach extends beyond frequency statistics. It links federalism, representative majority, judicial review, secularism and remedial restoration. Later cases such as *Rameshwar Prasad (2006)* demonstrate continued scrutiny of Governor-based material.
-
-Thus, *S.R. Bommai (1994)* did not merely tame a provision; it converted emergency federalism into a justiciable branch of constitutional morality.
-
-**Why this earns marks:** It covers review, floor test, dissolution, restoration, Basic Structure and burden of producing material.
-
-**How to improve this answer:** Add Rameshwar Prasad (2006)'s invalidation-without-restoration qualification as the best later application.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Assess the constitutional significance of S.R. Bommai (1994) beyond merely reducing misuse of Article 356.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** S.R. Bommai (1994) transformed Article 356 and clarified the nature of Indian constitutional democracy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** First, it subjected presidential satisfaction to judicial review. Relevant material, absence of mala fides and constitutional purpose became legal requirements, rejecting the view that Article 356 was purely political. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Second, it constitutionalised the floor test as the ordinary method for deciding legislative majority. This protects the Assembly's democratic authority from subjective Governor assessment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Third, it limited irreversible action: the Assembly should not be dissolved before Parliament approves the proclamation, and courts may restore an unlawfully dismissed government and House. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Fifth, the burden placed on the Union to produce supporting material strengthened reason-giving and accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Assess the constitutional significance of S.R. Bommai (1994) beyond merely reducing misuse of Article 356.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M5. 20 marks | 250-300 words
-
-**Question:** Critically evaluate whether the 44th Amendment adequately prevents repetition of the constitutional abuses associated with the 1975 Emergency.
-
-**Demand decoding:** Critically evaluate requires achievements, residual vulnerabilities and a graded adequacy verdict.
-
-**Model solution**
-
-The 44th Amendment directly repaired major vulnerabilities exposed in 1975.
-
-It replaced “internal disturbance” with the narrower “armed rebellion,” required written Cabinet advice, reduced the approval period to one month and imposed a special majority. Six-month renewal prevents passive continuation. Lok Sabha disapproval forces revocation, while one-tenth of members can requisition a special sitting.
-
-Rights protection was equally important. Article 358 was confined to external Emergency and emergency-related laws. Article 359 can never block enforcement of Articles 20 and 21. The amendment removed the 38th Amendment's satisfaction immunity, restoring judicial review. *K.S. Puttaswamy (2017)*'s overruling of *ADM Jabalpur (1976)* supplies jurisprudential reinforcement.
-
-However, no text eliminates abuse. A disciplined parliamentary majority may approve executive action; threat information remains controlled by government; preventive detention and censorship can operate through ordinary statutes; institutions may defer during perceived crisis. National Emergency can still be renewed indefinitely.
-
-Prevention therefore also depends on opposition capacity, free media, independent courts, reasoned Cabinet material and political memory. Official commemoration of Emergency abuse may strengthen memory but is not a legal safeguard.
-
-The 44th Amendment substantially closes the exact 1975 pathways, especially vague grounds and denial of life/liberty remedies. It cannot guarantee democratic courage. Its adequacy is institutional rather than automatic: strong text must be activated by Parliament, courts and citizens.
-
-**Why this earns marks:** It maps each 1975 vulnerability to a 44th Amendment repair and recognises institutional limits that text cannot eliminate.
-
-**How to improve this answer:** Prioritise armed rebellion, Cabinet writing, special-majority renewal and 20/21 protection; compress commemorative material.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Critically evaluate whether the 44th Amendment adequately prevents repetition of the constitutional abuses associated with the 1975 Emergency.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The 44th Amendment directly repaired major vulnerabilities exposed in 1975. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It maps each 1975 vulnerability to a 44th Amendment repair and recognises institutional limits that text cannot eliminate. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Prioritise armed rebellion, Cabinet writing, special-majority renewal and 20/21 protection; compress commemorative material. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Critically evaluate whether the 44th Amendment adequately prevents repetition of the constitutional abuses associated with the 1975 Emergency.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M6. 20 marks | 250-300 words
-
-**Question:** Why has Article 360 never been invoked despite serious economic crises? Does non-use indicate redundancy?
-
-**Demand decoding:** Why and redundancy require explaining non-use through severity, alternatives and retained contingency value.
-
-**Model solution**
-
-Article 360 permits Financial Emergency when India's financial stability or credit, or that of any part, is threatened. Its non-use reflects severity and availability of alternatives, not necessarily redundancy.
-
-Once approved by simple majority within two months, it continues indefinitely. Union directions may prescribe financial propriety, reduce salaries of State and Union personnel including constitutional-court judges, and require State Money Bills to be reserved. Such measures deeply centralise fiscal federalism and can undermine judicial and administrative independence perceptions.
-
-India managed the 1991 balance-of-payments crisis through devaluation, external assistance, fiscal adjustment and economic reform; later shocks used monetary, fiscal, disaster and borrowing instruments. Article 293 conditions, Finance Commission transfers, RBI action and Union budgets provide less constitutionally dramatic tools.
-
-Political economy also discourages invocation. The proclamation publicly signals exceptional loss of financial credibility and distributes austerity through direct central command. Judicial review and parliamentary debate add accountability.
-
-Non-use therefore demonstrates a high activation threshold and preference for ordinary institutions. Yet the provision retains contingency value where systemic collapse prevents normal fiscal coordination.
-
-Reform could require published reasons, periodic parliamentary renewal rather than indefinite continuation, an independent fiscal assessment and protection for judicial remuneration.
-
-Article 360 is a constitutional fire alarm: rarely or never used because activation itself signals catastrophe. Its legitimacy lies in last-resort availability, but its indefinite duration deserves scrutiny.
-
-**Why this earns marks:** It accurately sets out Article 360, compares ordinary fiscal tools and gives a balanced reform-oriented conclusion.
-
-**How to improve this answer:** Do not call 1991 a near-proclamation; call it a crisis managed without Article 360.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Why has Article 360 never been invoked despite serious economic crises? Does non-use indicate redundancy?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Article 360 permits Financial Emergency when India's financial stability or credit, or that of any part, is threatened. Its non-use reflects severity and availability of alternatives, not necessarily redundancy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Non-use therefore demonstrates a high activation threshold and preference for ordinary institutions. Yet the provision retains contingency value where systemic collapse prevents normal fiscal coordination. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Reform could require published reasons, periodic parliamentary renewal rather than indefinite continuation, an independent fiscal assessment and protection for judicial remuneration. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Article 360 is a constitutional fire alarm: rarely or never used because activation itself signals catastrophe. Its legitimacy lies in last-resort availability, but its indefinite duration deserves scrutiny. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It accurately sets out Article 360, compares ordinary fiscal tools and gives a balanced reform-oriented conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Why has Article 360 never been invoked despite serious economic crises? Does non-use indicate redundancy?”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M7. 20 marks | 250-300 words
-
-**Question:** Emergency powers are necessary for constitutional survival but dangerous when crisis reasoning enters ordinary governance. Discuss.
-
-**Demand decoding:** Discuss requires a necessity-versus-normalisation dialectic with safeguards and a constitutional-survival test.
-
-**Model solution**
-
-A Constitution must respond to war, rebellion, State breakdown and financial collapse. Ordinary allocation may be too slow or fragmented; Emergency provisions therefore concentrate authority to preserve sovereignty and constitutional government.
-
-Necessity is evident in Article 352's defence coordination, Article 356's response to genuine constitutional impossibility and Article 360's potential stabilisation of systemic finance. Alladi Krishnaswami Ayyar's “life-breath” and Mahabir Tyagi's “safety-valve” capture this case.
-
-The danger is normalisation. The 1975 Emergency showed how vague “internal disturbance,” executive dominance, detention and blocked judicial remedies could turn legal power into constitutional dictatorship. Similar reasoning can enter ordinary governance when disaster statutes, preventive detention or central directions bypass consultation.
-
-India's safeguards now distinguish exception from normality: armed rebellion is narrow; Cabinet advice must be written; Article 352 needs special-majority renewal; Lok Sabha can force revocation; Articles 20 and 21 remain enforceable; *S.R. Bommai (1994)* and *K.S. Puttaswamy (2017)* reject executive finality.
-
-Yet institutions must actively enforce these rules. Parliament requires information, courts must remain accessible, media must remain free and emergency-related laws must show genuine nexus and proportionality.
-
-Emergency power is therefore legitimate only as temporary constitutional self-defence. The decisive test is whether exceptional authority restores ordinary democratic government or becomes a convenient model for governing without it.
-
-**Why this earns marks:** It uses all three emergencies, 1975 evidence, amendments and cases to reach a qualified temporary-self-defence standard.
-
-**How to improve this answer:** Keep ordinary disaster/preventive-detention examples subordinate and end with restoration of normal government as the decisive test.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Emergency powers are necessary for constitutional survival but dangerous when crisis reasoning enters ordinary governance. Discuss.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Yet institutions must actively enforce these rules. Parliament requires information, courts must remain accessible, media must remain free and emergency-related laws must show genuine nexus and proportionality. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It uses all three emergencies, 1975 evidence, amendments and cases to reach a qualified temporary-self-defence standard. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Keep ordinary disaster/preventive-detention examples subordinate and end with restoration of normal government as the decisive test. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Emergency powers are necessary for constitutional survival but dangerous when crisis reasoning enters ordinary governance. Discuss.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.

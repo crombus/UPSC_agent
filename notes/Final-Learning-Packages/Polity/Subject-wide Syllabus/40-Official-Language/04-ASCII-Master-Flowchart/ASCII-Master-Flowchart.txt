@@ -1,225 +1,283 @@
-ASCII MASTER FLOW — PANEL 1/12: Part XVII settlement: official language without a national language
+#### ASCII MASTER FLOW — PANEL 1/12: Central concept and classification
+
+```ascii-master
+CLASSIFICATION MATRIX
+├── constitutional category
+┼── legal source
+├── exact consequence
+
 ROOT QUESTION
-How does one Union preserve common administration without linguistic uniformity?
+How can India share governmental language without declaring a national language?
+        |
+        +--> UNION OFFICIAL: Art. 343 -> Hindi, Devanagari
+        +--> STATE OFFICIAL: Art. 345 -> one or more languages / Hindi
+        +--> COURT / LAW: Art. 348 + statutory routes
+        +--> SCHEDULED: Eighth Schedule -> 22, limited constitutional links
+        +--> EDUCATION: Arts. 29-30, 350A + policy
 
-PART XVII
-Chapter I: Articles 343-344 | Union language.
-Chapter II: Articles 345-347 | regional languages.
-Chapter III: Articles 348-349 | courts and authoritative legal texts.
-Chapter IV: Articles 350-351 | grievances, minorities and Hindi development.
+CONTROL
+official != national | scheduled != official everywhere | policy != Constitution.
+```
 
-CORE DISTINCTIONS
-Union official language != national language.
-scheduled != official everywhere | classical != scheduled | policy != Constitution.
+#### ASCII MASTER FLOW — PANEL 2/12: Chronology and constitutional compromise
 
-SETTLEMENT
-Hindi in Devanagari + international form of Indian numerals
-paired with statutory continuation of English and federal safeguards.
+```ascii-master
+CHRONOLOGY SEQUENCE
+├── founding bargain
+▼
+├── statutory settlement
 
-CURRENT LAW: 5 SEPTEMBER 2026
-No constitutional national language exists. Hindi is the Union official
-language; English continues by statute in addition to Hindi.
-MUST REMEMBER: State precisely that Hindi in Devanagari is the Union's official language and
-  that the Constitution declares no national language.
+IMMEDIATE REPLACEMENT ----                           > MUNSHI-AYYANGAR COMPROMISE, SEPTEMBER 1949
+CONTINUITY / FEDERALISM --/                 |
+                                             v
+1950 Constitution -> Hindi official + English transition + Parliament power
+        |
+1955 B.G. Kher Commission -> 1957 G.B. Pant parliamentary examination
+        |
+1963 Act -> 1965 transition/agitations -> 1967 amendment, effective 8 Jan 1968
+        |
+1976 Rules -> administrative communication architecture.
 
-ASCII MASTER FLOW — PANEL 2/12: Articles 343-344 and the statutory continuation of English
-ARTICLE 343
-Hindi in Devanagari = official language of Union.
-International form of Indian numerals = official numeral form.
-English transition period did not create an automatic 1965 switch-off.
+LIMIT
+The compromise is historical description; the enacted text controls.
+```
 
-OFFICIAL LANGUAGES ACT 1963, AS AMENDED
-section 3 continues English for Union official purposes and parliamentary business.
-section 3(5) uses a high-consent legislative lock for specified discontinuance.
+#### ASCII MASTER FLOW — PANEL 3/12: Article 343 clause mechanism
 
-ARTICLE 344
-President's Commission at five years and ten years from commencement.
-30-member constitutional parliamentary committee: 20 Lok Sabha + 10 Rajya Sabha.
+```ascii-master
+CLAUSE MECHANISM
+├── default and transition
+├── parliamentary continuation
 
-DO NOT COLLAPSE
-Article 344 committee != section 4 statutory Committee on Official Language.
+343(1) CONSTITUTIONAL DEFAULT
+Hindi language | Devanagari script | international form of Indian numerals
+        |
+        v
+343(2) FIFTEEN YEARS, 1950-1965
+English continues; President could add Hindi and Devanagari numerals
+        |
+        v
+343(3) PARLIAMENTARY POWER
+law may provide for English and/or Devanagari numerals after the period
+        |
+        v
+OLA 1963 SECTION 3
+English continues in addition to Hindi; no automatic 1965 switch-off.
+```
 
-ASCII MASTER FLOW — PANEL 3/12: 1963 Act: continuation and consent lock
-SECTION 3
-English continues in addition to Hindi for specified Union purposes and parliamentary business.
+#### ASCII MASTER FLOW — PANEL 4/12: Article 344 consultative architecture
 
-COMMUNICATION
-Union to non-Hindi-official-language State -> English.
-Hindi State to non-Hindi State in Hindi -> accompanying English translation.
+```ascii-master
+CONSULTATIVE HIERARCHY
+├── Commission recommendations
+├── parliamentary scrutiny and direction
 
-ADMINISTRATIVE SAFEGUARDS
-section 3(2) translation | 3(3) bilingual instruments
-| 3(4) efficiency, public interest and employee non-disadvantage.
+PRESIDENT -> Commission at 5-year and 10-year points
+        |
+        +--> progressive Hindi use
+        +--> restrictions on English
+        +--> Article 348 language
+        +--> numerals / referred communication matters
+        |
+        v
+CLAUSE (3) BALANCE
+advancement + just claims of non-Hindi areas in public services
+        |
+        v
+30-member Committee: 20 LS + 10 RS, elected PR-STV
+        |
+        v
+report to President -> possible directions.
 
-SECTION 3(5) LOCK
-all specified State Legislatures + Lok Sabha + Rajya Sabha.
-Executive preference, one State or one House cannot discontinue the protected use.
+CONTRAST
+Article 344 committee != OLA section 4 statutory committee.
+```
 
-ASCII MASTER FLOW — PANEL 4/12: Articles 345-347: State choice and intergovernmental communication
+#### ASCII MASTER FLOW — PANEL 5/12: Section 3 bilingual settlement
+
+```ascii-master
+COMMUNICATION MATRIX
+├── external federal routes
+┼── internal bilingual safeguards
+├── discontinuance lock
+
+SECTION 3(1)
+English may continue in addition to Hindi for Union purposes and Parliament
+        |
+        +--> Union <-> non-Hindi State: English shall be used
+        +--> Hindi State -> non-Hindi State: Hindi + English translation
+        +--> voluntary Hindi communication remains possible
+        |
+SECTION 3(2) internal translation until working knowledge
+SECTION 3(3) specified documents in both Hindi and English
+SECTION 3(4) efficiency + public interest + employee non-disadvantage
+SECTION 3(5) all relevant States + each House -> specified discontinuance.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: Act sections 4-8 and Rules
+
+```ascii-master
+STATUTORY PROCESS TREE
+├── committee and texts
+├── judgments, rules and laying
+
+s.4 statutory committee -> review Hindi progress -> President
+                            directions cannot conflict with s.3
+        |
+s.5 authorised Hindi texts of specified Central material
+s.6 authorised Hindi State Act/Ordinance + Art. 348(3) English text
+s.7 HC judgment/decree/order route + authorised English translation
+s.8 Central rules + Gazette + 30-day parliamentary laying
+        |
+1976 RULES
+Regions A/B/C -> sender-recipient routing
+Rule 5 Hindi reply | Rule 6 bilingual documents
+Rules 7-10 employee use/knowledge | Rules 11-12 materials/compliance.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: State language and communication tree
+
+```ascii-master
+FEDERAL BRANCH TREE
+├── State choice and communication
+├── minority-language recognition
+
 ARTICLE 345
-State Legislature may adopt one or more languages in use in the State, or Hindi.
-English continues until State law otherwise provides within the constitutional frame.
-
+State Legislature -> one or more languages in use OR Hindi
+                 -> all or specified official purposes
+                 -> English continues until State law changes it
+        |
 ARTICLE 346
-Union-State and inter-State communication follows the authorised Union language,
-subject to agreement permitting Hindi between States.
-
+Union-authorised language -> State-State / State-Union communication
+two or more States may agree on Hindi
+        |
 ARTICLE 347
-President may recognise a language for specified State purposes on substantial-demand grounds.
+demand -> President satisfied of substantial proportion
+       -> recognition for State/part/purpose
 
-TRAPS
-Eighth-Schedule inclusion is not a prerequisite for State official-language choice.
-Article 347 is not automatic recognition or a general national-language declaration.
+CASE
+U.P. Hindi Sahitya (2014): adopting Hindi does not exhaust Art. 345 power.
+```
 
-ASCII MASTER FLOW — PANEL 5/12: Articles 348-349: courts, judgments and authoritative texts
-ARTICLE 348 BASELINE
-English for Supreme Court and High Court proceedings until Parliament provides otherwise.
-English authoritative texts for Bills, Acts, ordinances, orders, rules and bye-laws.
+#### ASCII MASTER FLOW — PANEL 8/12: Courts and authoritative-text gates
 
-HIGH COURT PROCEEDINGS
-Governor + previous presidential consent -> Hindi or State official language.
-Article 348(2) expressly excludes judgments, decrees and orders.
+```ascii-master
+AUTHORITY GATEWAY
+├── proceedings route
+├── judgment and text routes
 
-SECTION 7 ROUTE
-authorised non-English High Court judgment/decree/order in addition to English
--> High Court-authorised English translation.
+ARTICLE 348(1)
+SC + HC proceedings -> English until Parliament otherwise provides
+specified authoritative legal texts -> English
+        |
+ARTICLE 348(2)
+Governor + previous President consent -> Hindi/State language in HC proceedings
+PROVISO -> not judgment, decree or order
+        |
+SECTION 7
+non-English HC judgment/decree/order in addition to English
++ High Court-authorised English translation
+        |
+ART. 348(3) / ss.5-6 / 1973 Act
+specified authoritative translation routes.
+
+LIMIT
+An ordinary or machine translation is not automatically authoritative.
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: Legislature, transition and grievance access
+
+```ascii-master
+LEGISLATIVE-ACCESS SEQUENCE
+├── time-bound procedure and debate
+├── grievance representation
 
 ARTICLE 349
-historically time-bounded special procedure; not a routine present-day gate.
-
-LIMIT
-machine or general-information translation is not automatically authoritative law.
-
-ASCII MASTER FLOW — PANEL 6/12: Authoritative-text hierarchy across Constitution and statutes
-ENGLISH BASELINE
-Article 348(1): court proceedings and authoritative legislative/delegated texts.
-
-HINDI ROUTES
-1963 Act section 5: authorised Hindi Central texts.
-section 6: authorised Hindi State text in specified cases.
-
-OTHER SCHEDULED LANGUAGES
-Authoritative Texts (Central Laws) Act 1973:
-Presidential authority + Official Gazette -> authoritative Central-law translation.
-
-HIGH COURT JUDGMENTS
-section 7: authorised non-English judgment + High Court-authorised English translation.
-
-TRAP
-translation utility, including machine output, does not itself confer authority.
-CLOSE DISTINCTION: Keep Union, State, court, grievance, minority-instruction, scheduled,
-  classical and education-policy language categories separate.
-
-ASCII MASTER FLOW — PANEL 7/12: Articles 350, 350A, 350B and 351: access and development
+first fifteen years only -> prior President sanction for specified Art. 348 bills
+                           after considering Art. 344 materials
+        |
+ARTICLE 120
+Parliament business -> Hindi or English; mother-tongue permission
+section 3(1)(b) -> continued English
+        |
+ARTICLE 210
+State legislature -> State official language(s), Hindi or English
++ mother-tongue permission; authoritative text still follows Art. 348
+        |
 ARTICLE 350
-representation for grievance redress may use a language used in the Union or State.
+every person -> grievance representation -> language used in Union/State.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: Minority safeguards and case doctrine
+
+```ascii-master
+SAFEGUARD MATRIX
+├── facilities and reporting
+┼── rights and choice
+├── proposition-controlled cases
 
 ARTICLE 350A
-endeavour to provide mother-tongue instruction facilities at primary stage
-for children belonging to linguistic-minority groups.
-
+State/local authority -> endeavour -> adequate mother-tongue facilities
+-> primary stage -> linguistic-minority children
+        |
 ARTICLE 350B
-Special Officer investigates safeguards -> reports to President
--> laid before Parliament and sent to concerned State governments.
+President-appointed Special Officer -> investigate safeguards -> report
+-> Parliament + concerned States
+        |
+RIGHTS LINK, BOUNDED
+Art. 29 conservation/admission | Art. 30 minority institutions
+Art. 14 non-arbitrariness | Art. 19(1)(a) protected choice in context
+        |
+CASES
+Gujarat University (1963) competence | T.M.A. Pai (2002) minority framework
+Associated Management (2014) medium choice; Art. 350A not compulsion.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: Hindi development, Schedule and policy debate
+
+```ascii-master
+POLICY COMPARISON
+├── Hindi development and scheduled recognition
+├── education policy and federal debate
 
 ARTICLE 351
-Union duty to promote Hindi and develop it as a medium for India's composite culture,
-drawing vocabulary principally from Sanskrit and secondarily from other languages.
-
-BALANCE
-promotion of Hindi operates with, not above, plural safeguards and federal consent.
-
-ASCII MASTER FLOW — PANEL 8/12: 1976 Rules: administrative routing
-RULES 1976
-official portal shows amendments in 1987, 2007 and 2011; extent excludes Tamil Nadu.
-
-FIRST QUESTION
-Central office to non-Central recipient -> Rule 3 and Region A/B/C.
-Central office to Central office -> Rule 4.
-
-DOCUMENT CONTROLS
-reply to Hindi -> Hindi | section 3(3) documents -> Hindi + English.
-applications/file notes -> employee safeguards under Rules 7-8.
-
-CURRENT CAUTION
-A/B/C are administrative communication categories, not constitutional rankings.
-Do not silently modernise territorial names beyond the authoritative rule text.
-
-ASCII MASTER FLOW — PANEL 9/12: Eighth Schedule and separate policy categories
+promote Hindi -> medium for composite culture
+-> assimilate Hindustani + Eighth-Schedule forms without harming genius
+-> vocabulary primarily Sanskrit, secondarily other languages
+        |
 EIGHTH SCHEDULE
-22 languages in the current official Constitution.
-14 original -> Sindhi -> Konkani/Manipuri/Nepali -> Bodo/Dogri/Maithili/Santhali
--> Oriya renamed Odia.
-
-EFFECT
-constitutional recognition and Article 344/351 relevance.
-No automatic Union, State, court or school-medium status follows.
-
-CLASSICAL STATUS
-separate Union executive recognition.
-October 2024 additions brought the official count then reported to eleven.
-
+14 original -> 21st Sindhi -> 71st K-M-N -> 92nd B-D-M-S -> 96th Odia name
+CURRENT TOTAL 22 | Art. 344 representation + Art. 351 enrichment
+        |
 THREE-LANGUAGE FORMULA
-education-policy framework with State implementation variation.
-It is not a constitutional national-language command.
+education policy, not constitutional command
+        |
+DEBATE
+promotion / capability <---- federal choice ----> imposition / unequal burden.
+```
 
-CURRENT INSTITUTIONAL SNAPSHOT
-Eighth Schedule: 22 languages. Rules portal: amendments through 2011.
-Committee portal: Amit Shah as Chairperson and thirteenth report displayed.
-Committee recommendations cannot override section 3's statutory safeguards.
+#### ASCII MASTER FLOW — PANEL 12/12: Reform, PYQ and answer synthesis
 
-ASCII MASTER FLOW — PANEL 10/12: Language cases: competence, minority context and protected choice
-Gujarat University v. Shri Krishna (1963)
-medium/language power must respect the Union-State education competence boundary.
+```ascii-master
+ANSWER SYNTHESIS
+├── access problem and reform process
+├── PYQ route and qualified conclusion
 
-D.A.V. College v. State of Punjab (1971)
-linguistic-minority safeguards require contextual constitutional analysis.
-
-State of Karnataka v. Associated Management (2014)
-compulsory mother-tongue medium cannot override protected educational choice.
-
-DOCTRINAL TRIANGLE
-legislative competence | speech/choice rights | linguistic-minority safeguards.
-
-LIMIT
-none of these decisions declares a national language or erases Article 350A.
-
-ASCII MASTER FLOW — PANEL 11/12: Federal accommodation, court access and translation technology
-LEGITIMATE GOALS
-administrative interoperability | citizen access | cultural recognition
-| judicial usability | educational inclusion.
-
-RISKS
-imposition | exclusion from employment/services | translation error
-| authoritative-text confusion | weak minority facilities | digital language divide.
-
-TECHNOLOGY CHAIN
-multilingual intake -> translation/interpretation -> human legal review
--> authority label -> version control -> accessible publication.
-
-FEDERAL METHOD
-consent + capacity + phased implementation + reciprocal communication.
-
-LIMIT
-policy targets, committee recommendations and software outputs do not amend Part XVII.
-
-ASCII MASTER FLOW — PANEL 12/12: UPSC traps, verified PYQ and qualified answer synthesis
-PRELIMS FIREWALL
-official != national | 22 scheduled languages | Hindi script = Devanagari
-| numerals = international form | English continuation = statute
-| Article 348(2) excludes judgments | section 7 supplies separate route
-| Article 350 grievance right | 350A instruction facility | 350B Special Officer
-| classical and three-language categories are separate.
-
-2024 PRELIMS ROUTE
-21st, 71st and 92nd Amendment language additions.
-
-MAINS SPINE
-constitutional compromise -> Part XVII -> 1963 Act
--> State autonomy -> court/text hierarchy -> minority safeguards
--> category distinctions -> access technology -> federal verdict.
-
-CONCLUSION
-multilingual unity requires exact law, consent and authoritative parity.
-LEGAL/SOURCE LIMIT: The 1963 Act, 1967 settlement and 1976 Rules as amended through 2011
-  remain operative; the Eighth Schedule contains twenty-two languages.
+ACCESS PROBLEM
+English barrier | translation delay | digital divide | minority-facility gap
+        |
+RESPONSE
+multilingual intake -> trained interpretation -> machine assistance
+-> human legal review -> authority label -> version control -> correction route
+        |
+VERIFIED PYQ
+2024 Q72 -> 71st Amendment = Konkani + Manipuri + Nepali
+        |
+MAINS ANSWER SPINE
+distinction -> history -> Arts. 343-351 -> 1963/1967 settlement
+-> State/court/minority boundaries -> Schedule/policy -> tensions -> reform
+        |
+QUALIFIED CONCLUSION
+Promote language through capacity and consent; preserve exact legal routes,
+authoritative texts, equal access and India's multilingual federal compact.
+```

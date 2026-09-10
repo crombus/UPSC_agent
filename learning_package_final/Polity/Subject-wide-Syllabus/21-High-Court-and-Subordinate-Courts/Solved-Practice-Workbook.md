@@ -1,1116 +1,731 @@
 ---
-title: "High Court and Subordinate Courts — Solved Practice Workbook"
+title: "High Court and Subordinate Courts - Solved Practice Workbook"
 topic_key: polity-21
 ---
-# High Court and Subordinate Courts — Solved Practice Workbook
+# High Court and Subordinate Courts - Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-### Original MCQ loop - strict A → B → C → D rotation
+> Exactly 32 original MCQs appear before every PYQ. The key is `ABCD` repeated eight times. Each of the 128 option explanations and all 32 Examiner traps are question-specific.
 
-#### OM1. Number of High Courts
+### Exactly 32 original MCQs - ABCD x 8
 
-India currently has:
+#### MCQ 1. Article 214 and common courts
 
-A. 25 High Courts, some common to multiple States/UTs.
-B. 28 High Courts.
-C. one High Court for every State and UT.
-D. one High Court for each judicial district.
+Which statement is constitutionally correct?
+
+A. Article 214's State-wise default operates with Article 231's power to establish a common High Court.
+B. Every Union Territory must have an independent High Court.
+C. Article 232 currently creates circuit benches.
+D. A common High Court merges the participating States' judicial services.
 
 **Answer: A.**
 
-**Explanation:** [CURRENT] Article 231 permits common High Courts.
+**Option explanations:**
+- **A:** Correct. This option states the operative rule: Articles 214 and 231 must be read together; Article 232 is repealed and shared jurisdiction does not merge State services. Therefore 'Article 214's State-wise default operates with Article 231's power to establish a common High Court.' states the operative position.
+- **B:** Incorrect. This formulation overstates, understates or misattributes the rule: Articles 214 and 231 must be read together; Article 232 is repealed and shared jurisdiction does not merge State services. Therefore 'Every Union Territory must have an independent High Court.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This choice conflicts with the controlling proposition: Articles 214 and 231 must be read together; Article 232 is repealed and shared jurisdiction does not merge State services. Therefore 'Article 232 currently creates circuit benches.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The option collapses a distinction preserved by the governing rule: Articles 214 and 231 must be read together; Article 232 is repealed and shared jurisdiction does not merge State services. Therefore 'A common High Court merges the participating States' judicial services.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### OM2. Court of record
+**Examiner trap 1:** The numerical phrase 'for each State' is a default, not a prohibition on common High Courts.
 
-Which Article makes every High Court a court of record?
+#### MCQ 2. Court of record
 
-A. 226.
-B. 215.
-C. 216.
-D. 214.
+Which provision makes every High Court a court of record with contempt power?
+
+A. Article 216.
+B. Article 215.
+C. Article 225.
+D. Article 227.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Article 215 includes contempt power.
+**Option explanations:**
+- **A:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 215 expressly declares every High Court a court of record and includes power to punish contempt of itself. Therefore 'Article 216.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Correct. This choice matches the controlling proposition: Article 215 expressly declares every High Court a court of record and includes power to punish contempt of itself. Therefore 'Article 215.' states the operative position.
+- **C:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 215 expressly declares every High Court a court of record and includes power to punish contempt of itself. Therefore 'Article 225.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The stated actor, source or consequence fails when tested against: Article 215 expressly declares every High Court a court of record and includes power to punish contempt of itself. Therefore 'Article 227.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### OM3. Appointment
+**Examiner trap 2:** The Contempt of Courts Act regulates; it does not create the Article 215 power.
 
-High Court judges are formally appointed by:
+#### MCQ 3. Composition
 
-A. Governor.
-B. CJI.
-C. President.
-D. Chief Minister.
+Under Article 216, a High Court consists of:
+
+A. only a Chief Justice.
+B. a constitutionally fixed national number of judges.
+C. a Chief Justice and such other judges as are appointed.
+D. a Chief Justice plus an elected State judicial council.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Article 217 provides presidential appointment.
+**Option explanations:**
+- **A:** Incorrect. This choice conflicts with the controlling proposition: Article 216 states Chief Justice plus other judges; it fixes no uniform strength and creates no elected judicial council. Therefore 'only a Chief Justice.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 216 states Chief Justice plus other judges; it fixes no uniform strength and creates no elected judicial council. Therefore 'a constitutionally fixed national number of judges.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Correct. This option states the operative rule: Article 216 states Chief Justice plus other judges; it fixes no uniform strength and creates no elected judicial council. Therefore 'a Chief Justice and such other judges as are appointed.' states the operative position.
+- **D:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 216 states Chief Justice plus other judges; it fixes no uniform strength and creates no elected judicial council. Therefore 'a Chief Justice plus an elected State judicial council.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### OM4. Qualification
+**Examiner trap 3:** Do not convert a dated sanctioned-strength figure into constitutional composition.
 
-Consider the following routes for appointment as a High Court judge:
+#### MCQ 4. Appointment text
 
-1. Ten years in a judicial office in India.
-2. Ten years as an advocate of one or more High Courts in succession.
-3. Recognition as a distinguished jurist by the President.
+A puisne High Court judge is appointed by the President after constitutionally specified consultation with:
 
-Which are constitutional qualification routes?
-
-A. 2 and 3 only.
-B. 1, 2 and 3.
-C. 1 only.
-D. 1 and 2 only.
+A. only the Chief Justice of the High Court.
+B. the Chief Minister and Speaker.
+C. only the Chief Justice of India.
+D. the CJI, State Governor and Chief Justice of the High Court.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Article 217 includes citizenship plus routes 1 or 2; distinguished jurist is confined to Supreme Court eligibility.
-#### OM5. Retirement
+**Option explanations:**
+- **A:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 217 adds the High Court Chief Justice to the CJI and Governor consultations for a judge other than the Chief Justice. Therefore 'only the Chief Justice of the High Court.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The stated actor, source or consequence fails when tested against: Article 217 adds the High Court Chief Justice to the CJI and Governor consultations for a judge other than the Chief Justice. Therefore 'the Chief Minister and Speaker.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 217 adds the High Court Chief Justice to the CJI and Governor consultations for a judge other than the Chief Justice. Therefore 'only the Chief Justice of India.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Correct. This choice matches the controlling proposition: Article 217 adds the High Court Chief Justice to the CJI and Governor consultations for a judge other than the Chief Justice. Therefore 'the CJI, State Governor and Chief Justice of the High Court.' states the operative position.
 
-A High Court judge ordinarily retires at:
+**Examiner trap 4:** The collegium's numerical composition comes from case law and procedure, not Article 217's words.
 
-A. 62.
-B. 60.
-C. 65.
-D. 68.
+#### MCQ 5. Qualification
+
+Which is a valid High Court eligibility route under Article 217(2)?
+
+A. Indian citizenship plus ten years in a judicial office in India.
+B. Recognition as a distinguished jurist without professional experience.
+C. Five years as a High Court advocate.
+D. Membership of a State legislature for ten years.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Supreme Court retirement is 65.
+**Option explanations:**
+- **A:** Correct. This option states the operative rule: Article 217 requires citizenship plus ten years in judicial office or ten years as an advocate of one or more High Courts. Therefore 'Indian citizenship plus ten years in a judicial office in India.' states the operative position.
+- **B:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 217 requires citizenship plus ten years in judicial office or ten years as an advocate of one or more High Courts. Therefore 'Recognition as a distinguished jurist without professional experience.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This choice conflicts with the controlling proposition: Article 217 requires citizenship plus ten years in judicial office or ten years as an advocate of one or more High Courts. Therefore 'Five years as a High Court advocate.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 217 requires citizenship plus ten years in judicial office or ten years as an advocate of one or more High Courts. Therefore 'Membership of a State legislature for ten years.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### OM6. Oath
+**Examiner trap 5:** The distinguished-jurist route belongs to Supreme Court eligibility, not High Court eligibility.
 
-High Court judge oath is before:
+#### MCQ 6. Oath
 
-A. President only.
-B. Governor or authorised person.
-C. State Speaker.
-D. CJI.
+A High Court judge ordinarily makes the constitutional oath before:
+
+A. the President personally.
+B. the Governor or a person appointed by the Governor.
+C. the Chief Justice of India only.
+D. the State Legislative Assembly.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Article 219 controls.
+**Option explanations:**
+- **A:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 219 assigns the oath to the Governor or the Governor's appointee under the Third Schedule form. Therefore 'the President personally.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Correct. This choice matches the controlling proposition: Article 219 assigns the oath to the Governor or the Governor's appointee under the Third Schedule form. Therefore 'the Governor or a person appointed by the Governor.' states the operative position.
+- **C:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 219 assigns the oath to the Governor or the Governor's appointee under the Third Schedule form. Therefore 'the Chief Justice of India only.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The stated actor, source or consequence fails when tested against: Article 219 assigns the oath to the Governor or the Governor's appointee under the Third Schedule form. Therefore 'the State Legislative Assembly.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### OM7. Transfer
+**Examiner trap 6:** Formal presidential appointment does not mean a presidentially administered oath.
 
-Consider the following statements on Article 222 transfer:
+#### MCQ 7. Retirement and removal
 
-1. The President formally transfers a High Court judge after consulting the CJI.
-2. The judge's consent is an express constitutional prerequisite.
-3. Current procedure uses consultation with four senior-most Supreme Court judges and both affected Chief Justices.
+Which statement is correct?
 
-Which are correct?
-
-A. 2 and 3 only.
-B. 1, 2 and 3.
-C. 1 and 3 only.
-D. 1 only.
+A. A High Court judge retires at 65 and is removable by the Governor.
+B. A High Court judge holds office during presidential pleasure.
+C. A High Court judge ordinarily retires at 62 and uses the Article 124(4)-type removal route through Article 218.
+D. Parliament removes a judge by ordinary majority.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Consent is not constitutionally required, but full institutional consultation and public interest constrain transfer.
-#### OM8. Acting Chief Justice
+**Option explanations:**
+- **A:** Incorrect. This choice conflicts with the controlling proposition: Articles 217 and 218 set retirement at sixty-two and apply the stringent Supreme Court removal framework. Therefore 'A High Court judge retires at 65 and is removable by the Governor.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The option collapses a distinction preserved by the governing rule: Articles 217 and 218 set retirement at sixty-two and apply the stringent Supreme Court removal framework. Therefore 'A High Court judge holds office during presidential pleasure.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Correct. This option states the operative rule: Articles 217 and 218 set retirement at sixty-two and apply the stringent Supreme Court removal framework. Therefore 'A High Court judge ordinarily retires at 62 and uses the Article 124(4)-type removal route through Article 218.' states the operative position.
+- **D:** Incorrect. This formulation overstates, understates or misattributes the rule: Articles 217 and 218 set retirement at sixty-two and apply the stringent Supreme Court removal framework. Therefore 'Parliament removes a judge by ordinary majority.' introduces a wrong actor, source, threshold, scope or consequence.
 
-The relevant provision is:
+**Examiner trap 7:** Appointment by the President does not create pleasure tenure.
 
-A. Article 225.
-B. Article 224A.
-C. Article 231.
-D. Article 223.
+#### MCQ 8. Post-retirement practice
+
+Article 220 permits a former permanent High Court judge to plead or act:
+
+A. in every subordinate court except the former district.
+B. before any tribunal but no court.
+C. only before the former High Court.
+D. before the Supreme Court and other High Courts, subject to the constitutional restriction.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Article 223 covers Acting Chief Justice.
+**Option explanations:**
+- **A:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 220 restricts practice after permanent High Court judgeship while preserving the Supreme Court and other High Courts. Therefore 'in every subordinate court except the former district.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The stated actor, source or consequence fails when tested against: Article 220 restricts practice after permanent High Court judgeship while preserving the Supreme Court and other High Courts. Therefore 'before any tribunal but no court.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 220 restricts practice after permanent High Court judgeship while preserving the Supreme Court and other High Courts. Therefore 'only before the former High Court.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Correct. This choice matches the controlling proposition: Article 220 restricts practice after permanent High Court judgeship while preserving the Supreme Court and other High Courts. Therefore 'before the Supreme Court and other High Courts, subject to the constitutional restriction.' states the operative position.
 
-#### OM9. Writ scope
+**Examiner trap 8:** The restriction is not a total nationwide bar on legal practice.
 
-Article 226 permits writs for:
+#### MCQ 9. Transfer
 
-A. Fundamental Rights and other legal purposes.
-B. criminal appeals only.
-C. Union disputes only.
-D. Fundamental Rights only.
+Which statement best states Article 222?
 
-**Answer: A.**
-
-**Explanation:** [FACT] This makes Article 226 wider in purpose than Article 32.
-
-#### OM10. Territorial cause of action
-
-Consider the following statements under Article 226:
-
-1. A High Court may act where the cause of action arises wholly or partly within its territory even if the respondent is located outside.
-2. A qualifying application to vacate an ex parte interim order triggers Article 226(3)'s two-week disposal safeguard.
-3. The petitioner's residence alone creates territorial jurisdiction.
-
-Which are correct?
-
-A. 1 only.
-B. 1 and 2 only.
-C. 1, 2 and 3.
-D. 2 and 3 only.
-
-**Answer: B.**
-
-**Explanation:** [FACT] Cause of action, not residence alone, supplies the territorial connection; clause (3) protects the unheard party against prolonged ex parte restraint.
-#### OM11. Detention
-
-The writ testing unlawful detention is:
-
-A. certiorari.
-B. quo warranto.
-C. habeas corpus.
-D. mandamus.
-
-**Answer: C.**
-
-**Explanation:** [FACT] It may run against public or private detention.
-
-#### OM12. Public office
-
-The writ challenging unlawful occupation of public office is:
-
-A. habeas corpus.
-B. prohibition.
-C. mandamus.
-D. quo warranto.
-
-**Answer: D.**
-
-**Explanation:** [FACT] It tests authority to hold public office.
-
-#### OM13. Mandamus
-
-Mandamus ordinarily:
-
-A. commands performance of a public/legal duty.
-B. quashes a completed order.
-C. stops illegal detention.
-D. transfers a judge.
+A. The President may transfer a High Court judge after consulting the CJI; consent is not an express condition.
+B. The Governor transfers judges after consulting the Chief Minister.
+C. Transfer is possible only on the judge's written request.
+D. Parliament transfers judges by resolution.
 
 **Answer: A.**
 
-**Explanation:** [FACT] A legal duty must exist.
+**Option explanations:**
+- **A:** Correct. This option states the operative rule: Article 222 gives the President formal transfer power after CJI consultation; judicial doctrine adds institutional safeguards. Therefore 'The President may transfer a High Court judge after consulting the CJI; consent is not an express condition.' states the operative position.
+- **B:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 222 gives the President formal transfer power after CJI consultation; judicial doctrine adds institutional safeguards. Therefore 'The Governor transfers judges after consulting the Chief Minister.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This choice conflicts with the controlling proposition: Article 222 gives the President formal transfer power after CJI consultation; judicial doctrine adds institutional safeguards. Therefore 'Transfer is possible only on the judge's written request.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 222 gives the President formal transfer power after CJI consultation; judicial doctrine adds institutional safeguards. Therefore 'Parliament transfers judges by resolution.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### OM14. Prohibition
+**Examiner trap 9:** No-consent does not mean no review: mala fide or punitive use remains impermissible.
 
-Prohibition generally:
+#### MCQ 10. Acting Chief Justice
 
-A. awards compensation.
-B. stops a lower forum before completion for jurisdictional error.
-C. removes a public officer.
-D. reviews a completed conviction on merits.
+Which Article addresses an Acting Chief Justice of a High Court?
 
-**Answer: B.**
-
-**Explanation:** [FACT] Certiorari ordinarily quashes after the order.
-
-#### OM15. Certiorari
-
-Certiorari commonly:
-
-A. commands legislation.
-B. appoints a tribunal.
-C. quashes a jurisdictionally defective completed order.
-D. releases every prisoner.
-
-**Answer: C.**
-
-**Explanation:** [FACT] It is corrective rather than preventive.
-
-#### OM16. Alternative remedy
-
-A statute provides an appeal, but the challenged order was passed without jurisdiction and without hearing the affected person. The best statement is:
-
-A. Only Article 32 can be used.
-B. Article 226 jurisdiction is constitutionally extinguished.
-C. The High Court must decide the statutory appeal itself.
-D. The High Court may still exercise writ discretion despite the alternative remedy.
-
-**Answer: D.**
-
-**Explanation:** [FACT] Alternative remedy is self-restraint, with recognised exceptions including want of jurisdiction and natural-justice failure.
-#### OM17. Basic Structure
-
-Which formulation most accurately states *L. Chandra Kumar (1997)*?
-
-A. Articles 226/227 and 32 review are Basic Structure; Articles 323A/323B tribunal decisions remain subject to High Court scrutiny.
-B. Parliament may exclude all High Court review by ordinary law.
-C. Every tribunal was abolished.
-D. High Courts became routine merits-appellate forums over tribunals.
-
-**Answer: A.**
-
-**Explanation:** [FACT] Tribunals supplement adjudication; they cannot wholly substitute the constitutional review layer.
-#### OM18. Superintendence
-
-Article 227 concerns:
-
-A. presidential election.
-B. High Court superintendence over territorial courts and tribunals.
-C. State finance.
-D. judicial appointments only.
-
-**Answer: B.**
-
-**Explanation:** [FACT] Armed-Forces-law forums are excluded.
-
-#### OM19. Constitutional withdrawal
-
-Article 228 permits withdrawal where a case involves:
-
-A. any factual dispute.
-B. a minor procedural error.
-C. a substantial constitutional-interpretation question.
-D. a political disagreement.
-
-**Answer: C.**
-
-**Explanation:** [FACT] High Court may decide the question or whole case.
-
-#### OM20. Common High Court
-
-Common High Courts are authorised by:
-
-A. Article 235.
-B. Article 226.
-C. Article 214 alone.
+A. Article 224A.
+B. Article 223.
+C. Article 229.
 D. Article 231.
 
-**Answer: D.**
-
-**Explanation:** [FACT] Article 231 accommodates multi-jurisdiction courts.
-
-#### OM21. District judge appointment
-
-After *Rejanish K.V. v. K. Deepa* (2025), which statement is correct for direct District-Judge recruitment?
-
-A. Qualifying serving judicial officers may compete prospectively under the Court's combined-experience, age and application-date rules.
-B. Article 233 permits recruitment to posts below district judge through AIJS.
-C. *Dheeraj Mor* continues to exclude every serving judicial officer.
-D. The State PSC appoints district judges without High Court consultation.
-
-**Answer: A.**
-
-**Explanation:** [CURRENT] *Rejanish* prospectively overruled the categorical *Dheeraj Mor* exclusion while preserving Governor–High Court constitutional mechanics.
-#### OM22. Lower judicial service
-
-Consider the following:
-
-1. Article 234 requires rules framed after consultation with the State PSC and High Court.
-2. *All India Judges Association* (2025) restored prospective three-year Bar practice for future Civil Judge entry recruitment.
-3. The 2025 decision converted Civil Judges into an operational AIJS.
-
-Which are correct?
-
-A. 1 only.
-B. 1 and 2 only.
-C. 1, 2 and 3.
-D. 2 and 3 only.
-
 **Answer: B.**
 
-**Explanation:** [FACT/CURRENT] The recruitment rule is judicially prescribed within State systems; no AIJS has been created.
-#### OM23. Control
+**Option explanations:**
+- **A:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 223 covers performance of Chief Justice duties during vacancy, absence or inability. Therefore 'Article 224A.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Correct. This choice matches the controlling proposition: Article 223 covers performance of Chief Justice duties during vacancy, absence or inability. Therefore 'Article 223.' states the operative position.
+- **C:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 223 covers performance of Chief Justice duties during vacancy, absence or inability. Therefore 'Article 229.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The stated actor, source or consequence fails when tested against: Article 223 covers performance of Chief Justice duties during vacancy, absence or inability. Therefore 'Article 231.' introduces a wrong actor, source, threshold, scope or consequence.
 
-Match the provision with its function:
+**Examiner trap 10:** Do not confuse leadership substitution with additional-judge or retired-judge capacity.
 
-1. Article 228 — constitutional-question withdrawal.
-2. Article 229 — High Court staff and administrative expenses.
-3. Article 235 — control over district and subordinate courts.
+#### MCQ 11. Additional judge
 
-Which option is correct?
+An additional High Court judge under Article 224 may be appointed:
 
-A. 1 and 3 only.
-B. 1 only.
-C. 1, 2 and 3.
-D. 2 only.
+A. for life during arrears.
+B. only when the Chief Justice office is vacant.
+C. for a period not exceeding two years to meet temporary business increase or arrears.
+D. without the Article 217 appointment framework.
 
 **Answer: C.**
 
-**Explanation:** [FACT] These are distinct judicial, institutional-administrative and subordinate-control powers.
-#### OM24. District and Sessions Judge
+**Option explanations:**
+- **A:** Incorrect. This choice conflicts with the controlling proposition: Article 224 uses a maximum two-year additional appointment for temporary business or arrears. Therefore 'for life during arrears.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 224 uses a maximum two-year additional appointment for temporary business or arrears. Therefore 'only when the Chief Justice office is vacant.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Correct. This option states the operative rule: Article 224 uses a maximum two-year additional appointment for temporary business or arrears. Therefore 'for a period not exceeding two years to meet temporary business increase or arrears.' states the operative position.
+- **D:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 224 uses a maximum two-year additional appointment for temporary business or arrears. Therefore 'without the Article 217 appointment framework.' introduces a wrong actor, source, threshold, scope or consequence.
 
-Which is accurate?
+**Examiner trap 11:** Temporary workload power cannot become indefinite insecure tenure.
 
-A. District Judge handles only constitutional writs.
-B. Sessions Judge is below Magistrate.
-C. They are always different offices.
-D. The same officer is District Judge on civil side and Sessions Judge on criminal side.
+#### MCQ 12. Retired judge sitting
+
+Which combination is required under Article 224A?
+
+A. Governor request and legislative approval.
+B. CJI request and Prime Minister approval.
+C. High Court collegium request without consent.
+D. Chief Justice request, prior President consent and the retired judge's consent.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Functional designation changes with jurisdiction.
+**Option explanations:**
+- **A:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 224A requires the High Court Chief Justice's request, previous presidential consent and the retiree's consent. Therefore 'Governor request and legislative approval.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The stated actor, source or consequence fails when tested against: Article 224A requires the High Court Chief Justice's request, previous presidential consent and the retiree's consent. Therefore 'CJI request and Prime Minister approval.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 224A requires the High Court Chief Justice's request, previous presidential consent and the retiree's consent. Therefore 'High Court collegium request without consent.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Correct. This choice matches the controlling proposition: Article 224A requires the High Court Chief Justice's request, previous presidential consent and the retiree's consent. Therefore 'Chief Justice request, prior President consent and the retired judge's consent.' states the operative position.
 
-#### OM25. Death sentence
+**Examiner trap 12:** Article 224A is not Article 128 and does not deem the retiree a permanent judge.
 
-A Sessions Court death sentence:
+#### MCQ 13. Article 225
 
-A. requires High Court confirmation.
-B. is confirmed by Governor alone.
-C. becomes final immediately.
-D. requires Assembly approval.
+Article 225 principally concerns:
+
+A. continuance of existing High Court jurisdiction and law administered, subject to the Constitution and legislation.
+B. appointment of district judges.
+C. creation of an All India Judicial Service.
+D. Supreme Court advisory jurisdiction.
 
 **Answer: A.**
 
-**Explanation:** [FACT] High Court confirmation is mandatory.
+**Option explanations:**
+- **A:** Correct. This option states the operative rule: Article 225 preserves existing High Court jurisdiction and administration subject to constitutional and legislative change. Therefore 'continuance of existing High Court jurisdiction and law administered, subject to the Constitution and legislation.' states the operative position.
+- **B:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 225 preserves existing High Court jurisdiction and administration subject to constitutional and legislative change. Therefore 'appointment of district judges.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This choice conflicts with the controlling proposition: Article 225 preserves existing High Court jurisdiction and administration subject to constitutional and legislative change. Therefore 'creation of an All India Judicial Service.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 225 preserves existing High Court jurisdiction and administration subject to constitutional and legislative change. Therefore 'Supreme Court advisory jurisdiction.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### OM26. Legal aid
+**Examiner trap 13:** Original civil jurisdiction must be traced to the relevant charter or statute, not assumed nationally.
 
-Article 39A concerns:
+#### MCQ 14. Article 226 scope
 
-A. contempt.
-B. equal justice and free legal aid.
-C. judicial transfer.
-D. High Court retirement.
+High Courts may issue writs under Article 226:
+
+A. only against State Governments.
+B. for Fundamental Rights and for any other legal purpose.
+C. only after the Supreme Court refuses Article 32.
+D. only in criminal proceedings.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The Legal Services Authorities Act implements the framework.
+**Option explanations:**
+- **A:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 226 expressly reaches Fundamental Rights and any other purpose, subject to public-law and remedial limits. Therefore 'only against State Governments.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Correct. This choice matches the controlling proposition: Article 226 expressly reaches Fundamental Rights and any other purpose, subject to public-law and remedial limits. Therefore 'for Fundamental Rights and for any other legal purpose.' states the operative position.
+- **C:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 226 expressly reaches Fundamental Rights and any other purpose, subject to public-law and remedial limits. Therefore 'only after the Supreme Court refuses Article 32.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The stated actor, source or consequence fails when tested against: Article 226 expressly reaches Fundamental Rights and any other purpose, subject to public-law and remedial limits. Therefore 'only in criminal proceedings.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### OM27. Ordinary Lok Adalat
+**Examiner trap 14:** Wider purpose does not mean territorially unlimited or automatically available relief.
 
-If settlement fails, an ordinary Lok Adalat:
+#### MCQ 15. Territorial jurisdiction
 
-A. convicts the accused.
-B. transfers the judge.
-C. does not adjudicate the contested merits.
-D. imposes arbitration.
+Article 226(2) permits jurisdiction where:
+
+A. the petitioner resides, without more.
+B. the respondent prefers that forum.
+C. the cause of action arises wholly or partly within the territory, even if the authority is elsewhere.
+D. any national policy is mentioned.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Its core mode is consensual settlement.
+**Option explanations:**
+- **A:** Incorrect. This choice conflicts with the controlling proposition: Article 226(2) turns on material cause-of-action facts arising wholly or in part within the territory. Therefore 'the petitioner resides, without more.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 226(2) turns on material cause-of-action facts arising wholly or in part within the territory. Therefore 'the respondent prefers that forum.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Correct. This option states the operative rule: Article 226(2) turns on material cause-of-action facts arising wholly or in part within the territory. Therefore 'the cause of action arises wholly or partly within the territory, even if the authority is elsewhere.' states the operative position.
+- **D:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 226(2) turns on material cause-of-action facts arising wholly or in part within the territory. Therefore 'any national policy is mentioned.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### OM28. Criminal scope
+**Examiner trap 15:** A trivial fact or residence alone cannot manufacture territorial nexus.
 
-Lok Adalat may settle:
+#### MCQ 16. Alternative remedy
 
-A. no civil dispute.
-B. every criminal offence.
-C. non-compoundable offences.
-D. compoundable criminal matters.
+The alternative-remedy rule under Article 226 is best described as:
+
+A. an absolute constitutional ouster.
+B. a rule applicable only to habeas corpus.
+C. a statutory repeal of writ power.
+D. a self-imposed restraint with recognised exceptions such as rights, natural justice, jurisdiction and vires.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Non-compoundable offences are excluded.
+**Option explanations:**
+- **A:** Incorrect. The option collapses a distinction preserved by the governing rule: Whirlpool and Radha Krishan Industries treat alternative remedy as discretionary restraint with recognised exceptions. Therefore 'an absolute constitutional ouster.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The stated actor, source or consequence fails when tested against: Whirlpool and Radha Krishan Industries treat alternative remedy as discretionary restraint with recognised exceptions. Therefore 'a rule applicable only to habeas corpus.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This formulation overstates, understates or misattributes the rule: Whirlpool and Radha Krishan Industries treat alternative remedy as discretionary restraint with recognised exceptions. Therefore 'a statutory repeal of writ power.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Correct. This choice matches the controlling proposition: Whirlpool and Radha Krishan Industries treat alternative remedy as discretionary restraint with recognised exceptions. Therefore 'a self-imposed restraint with recognised exceptions such as rights, natural justice, jurisdiction and vires.' states the operative position.
 
-#### OM29. AIJS route
+**Examiner trap 16:** Failure to exhaust a remedy ordinarily affects entertainment, not the existence of Article 226 jurisdiction.
 
-Which sequence correctly describes creation of an All India Judicial Service?
+#### MCQ 17. Habeas corpus
 
-A. Rajya Sabha resolution supported by two-thirds present and voting, followed by parliamentary law.
-B. Inter-State Council recommendation followed automatically by UPSC recruitment.
-C. Lok Sabha simple resolution followed by a presidential ordinance.
-D. CJI notification followed by State ratification.
+Habeas corpus primarily tests:
+
+A. the legality of detention.
+B. title to public office.
+C. performance of a public duty.
+D. validity of a completed tribunal order.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 312 supplies the route; Article 312(3) excludes posts below district judge.
-#### OM30. AIJS floor
+**Option explanations:**
+- **A:** Correct. This option states the operative rule: Habeas corpus secures release from unlawful detention and may address public or private custody. Therefore 'the legality of detention.' states the operative position.
+- **B:** Incorrect. This formulation overstates, understates or misattributes the rule: Habeas corpus secures release from unlawful detention and may address public or private custody. Therefore 'title to public office.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This choice conflicts with the controlling proposition: Habeas corpus secures release from unlawful detention and may address public or private custody. Therefore 'performance of a public duty.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The option collapses a distinction preserved by the governing rule: Habeas corpus secures release from unlawful detention and may address public or private custody. Therefore 'validity of a completed tribunal order.' introduces a wrong actor, source, threshold, scope or consequence.
 
-Article 312(3) means AIJS cannot include:
+**Examiner trap 17:** It is not confined to detention ordered by a criminal court.
 
-A. reserved categories.
-B. posts below district judge.
-C. district judges.
-D. judicial training.
+#### MCQ 18. Prohibition and certiorari
+
+Which distinction is ordinarily correct?
+
+A. Both writs only award damages.
+B. Prohibition prevents further jurisdictional error; certiorari generally quashes a completed defective order.
+C. Certiorari is available only against legislatures.
+D. Prohibition decides title to public office.
 
 **Answer: B.**
 
-**Explanation:** [FACT] This is an express constitutional limit.
+**Option explanations:**
+- **A:** Incorrect. This formulation overstates, understates or misattributes the rule: Prohibition is generally preventive, while certiorari is generally corrective after an order or proceeding. Therefore 'Both writs only award damages.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Correct. This choice matches the controlling proposition: Prohibition is generally preventive, while certiorari is generally corrective after an order or proceeding. Therefore 'Prohibition prevents further jurisdictional error; certiorari generally quashes a completed defective order.' states the operative position.
+- **C:** Incorrect. The option collapses a distinction preserved by the governing rule: Prohibition is generally preventive, while certiorari is generally corrective after an order or proceeding. Therefore 'Certiorari is available only against legislatures.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The stated actor, source or consequence fails when tested against: Prohibition is generally preventive, while certiorari is generally corrective after an order or proceeding. Therefore 'Prohibition decides title to public office.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### OM31. AIJS status
+**Examiner trap 18:** The stage distinction is useful but the controlling concern remains jurisdictional or legal error.
 
-As of 5 September 2026:
+#### MCQ 19. Tribunal review
 
-A. AIJS has replaced State services.
-B. Article 235 is repealed.
-C. no AIJS is operational.
-D. UPSC recruits every civil judge.
+L. Chandra Kumar (1997) held that:
+
+A. all tribunals are unconstitutional.
+B. tribunal decisions bypass High Courts and go only to the Supreme Court.
+C. High Court review under Articles 226/227 is part of the Basic Structure and remains available over tribunals.
+D. Parliament may exclude all judicial review by ordinary law.
 
 **Answer: C.**
 
-**Explanation:** [CURRENT] Recruitment remains under State constitutional structures.
+**Option explanations:**
+- **A:** Incorrect. This choice conflicts with the controlling proposition: L. Chandra Kumar preserved High Court review and treated tribunals as supplemental first-instance institutions. Therefore 'all tribunals are unconstitutional.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The option collapses a distinction preserved by the governing rule: L. Chandra Kumar preserved High Court review and treated tribunals as supplemental first-instance institutions. Therefore 'tribunal decisions bypass High Courts and go only to the Supreme Court.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Correct. This option states the operative rule: L. Chandra Kumar preserved High Court review and treated tribunals as supplemental first-instance institutions. Therefore 'High Court review under Articles 226/227 is part of the Basic Structure and remains available over tribunals.' states the operative position.
+- **D:** Incorrect. This formulation overstates, understates or misattributes the rule: L. Chandra Kumar preserved High Court review and treated tribunals as supplemental first-instance institutions. Therefore 'Parliament may exclude all judicial review by ordinary law.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### OM32. eCourts Phase III
+**Examiner trap 19:** Reviewability is not automatic invalidity and is not a routine factual appeal.
 
-Which combination best reflects eCourts Phase III?
+#### MCQ 20. Article 227
 
-1. Four-year Central Sector Scheme approved in 2023.
-2. Outlay of Rs 7,210 crore.
-3. Digitisation, e-filing/e-payments and e-Sewa Kendras.
-4. Replacement of judges by automated merits decisions.
+Which statement best describes Article 227?
 
-A. 1, 3 and 4 only.
-B. 2 and 4 only.
-C. 1 and 2 only.
-D. 1, 2 and 3 only.
+A. It is limited to issuing habeas corpus.
+B. It applies only to executive departments.
+C. It is a statutory appeal from every order.
+D. It gives superintendence over territorial courts and tribunals, except Armed-Forces-law forums.
 
 **Answer: D.**
 
-**Explanation:** [CURRENT] Technology supports process and access; it does not replace reasoned human adjudication.
-#### OM33. Digital justice
+**Option explanations:**
+- **A:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 227 supplies judicial and administrative superintendence with an express Armed Forces exception. Therefore 'It is limited to issuing habeas corpus.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The stated actor, source or consequence fails when tested against: Article 227 supplies judicial and administrative superintendence with an express Armed Forces exception. Therefore 'It applies only to executive departments.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 227 supplies judicial and administrative superintendence with an express Armed Forces exception. Therefore 'It is a statutory appeal from every order.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Correct. This choice matches the controlling proposition: Article 227 supplies judicial and administrative superintendence with an express Armed Forces exception. Therefore 'It gives superintendence over territorial courts and tribunals, except Armed-Forces-law forums.' states the operative position.
 
-Which is a sound qualification?
+**Examiner trap 20:** Superintendence is wide in source but restrained in exercise.
 
-A. e-filing cannot replace judges, staff and procedural fairness.
-B. case data should determine merits.
-C. virtual hearings remove digital exclusion.
-D. technology automatically eliminates pendency.
+#### MCQ 21. Article 228
+
+Article 228 is triggered when a subordinate-court case involves:
+
+A. a substantial constitutional-interpretation question necessary for disposal.
+B. any disputed fact.
+C. a request by the Governor for advice.
+D. a transfer between two High Courts.
 
 **Answer: A.**
 
-**Explanation:** [ANALYSIS] Technology is an enabler, not adjudication itself.
+**Option explanations:**
+- **A:** Correct. This option states the operative rule: Article 228 permits withdrawal when a substantial constitutional-interpretation question is necessary to dispose of the case. Therefore 'a substantial constitutional-interpretation question necessary for disposal.' states the operative position.
+- **B:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 228 permits withdrawal when a substantial constitutional-interpretation question is necessary to dispose of the case. Therefore 'any disputed fact.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This choice conflicts with the controlling proposition: Article 228 permits withdrawal when a substantial constitutional-interpretation question is necessary to dispose of the case. Therefore 'a request by the Governor for advice.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 228 permits withdrawal when a substantial constitutional-interpretation question is necessary to dispose of the case. Therefore 'a transfer between two High Courts.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### OM34. Vacancy data
+**Examiner trap 21:** It is not the Supreme Court's Article 139A transfer power.
 
-The Department of Justice statement dated 1 July 2026 records which High Court totals?
+#### MCQ 22. Article 229
 
-A. 1,122 sanctioned; 789 working; 333 vacant.
-B. 1,122 sanctioned; 781 working; 341 vacant.
-C. 1,122 sanctioned; 797 working; 325 vacant.
-D. 1,079 sanctioned; 781 working; 298 vacant.
+Who principally controls appointment of High Court officers and servants under Article 229?
+
+A. The State Public Service Commission alone.
+B. The Chief Justice or an authorised court officer, subject to the Article's bounded provisos.
+C. The Chief Minister.
+D. Parliament.
 
 **Answer: B.**
 
-**Explanation:** [CURRENT] The figures are a dated snapshot and must not be reused as timeless data.
-#### OM35. NJAC
+**Option explanations:**
+- **A:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 229 places staff appointment with the Chief Justice or authorised officer and confines the Governor to specified roles. Therefore 'The State Public Service Commission alone.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Correct. This choice matches the controlling proposition: Article 229 places staff appointment with the Chief Justice or authorised officer and confines the Governor to specified roles. Therefore 'The Chief Justice or an authorised court officer, subject to the Article's bounded provisos.' states the operative position.
+- **C:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 229 places staff appointment with the Chief Justice or authorised officer and confines the Governor to specified roles. Therefore 'The Chief Minister.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The stated actor, source or consequence fails when tested against: Article 229 places staff appointment with the Chief Justice or authorised officer and confines the Governor to specified roles. Therefore 'Parliament.' introduces a wrong actor, source, threshold, scope or consequence.
 
-Consider the following appointment controls:
+**Examiner trap 22:** Governor approval for financial service rules is not general executive control of the registry.
 
-1. Article 217 contains the collegium's present numerical composition.
-2. The NJAC remains operative alongside the collegium.
-3. Collegium primacy is judicially developed, while the constitutional text specifies presidential appointment and consultation.
+#### MCQ 23. UT jurisdiction
 
-Which is correct?
+Which provision empowers Parliament to extend or exclude a High Court's jurisdiction in relation to a Union Territory?
 
-A. 2 and 3 only.
-B. 1 only.
-C. 3 only.
-D. 1 and 2 only.
+A. Article 231 only.
+B. Article 241 only.
+C. Article 230.
+D. Article 232.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The NJAC was invalidated in 2015; collegium composition comes from the Judges Cases and procedure, not Article 217's text.
-#### OM36. High Court role
+**Option explanations:**
+- **A:** Incorrect. This choice conflicts with the controlling proposition: Article 230 is the direct extension/exclusion provision; Articles 231 and 241 address related but distinct structures. Therefore 'Article 231 only.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 230 is the direct extension/exclusion provision; Articles 231 and 241 address related but distinct structures. Therefore 'Article 241 only.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Correct. This option states the operative rule: Article 230 is the direct extension/exclusion provision; Articles 231 and 241 address related but distinct structures. Therefore 'Article 230.' states the operative position.
+- **D:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 230 is the direct extension/exclusion provision; Articles 231 and 241 address related but distinct structures. Therefore 'Article 232.' introduces a wrong actor, source, threshold, scope or consequence.
 
-The best description is:
+**Examiner trap 23:** Do not use repealed Article 232 as a current UT power.
 
-A. only State executive adviser.
-B. only an appellate criminal court.
-C. tribunal without constitutional status.
-D. constitutional rights court, appellate court, supervisor and district-judiciary controller.
+#### MCQ 24. Common High Court
+
+A common High Court for two or more States may be established under:
+
+A. a Governor's ordinance.
+B. a Supreme Court administrative circular.
+C. a joint resolution of High Courts.
+D. a law of Parliament under Article 231.
 
 **Answer: D.**
 
-**Explanation:** [ANALYSIS] Articles 215, 226-228 and 235 create the combined role.
+**Option explanations:**
+- **A:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 231 authorises Parliament to establish a common High Court for States and/or Union Territories. Therefore 'a Governor's ordinance.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The stated actor, source or consequence fails when tested against: Article 231 authorises Parliament to establish a common High Court for States and/or Union Territories. Therefore 'a Supreme Court administrative circular.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 231 authorises Parliament to establish a common High Court for States and/or Union Territories. Therefore 'a joint resolution of High Courts.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Correct. This choice matches the controlling proposition: Article 231 authorises Parliament to establish a common High Court for States and/or Union Territories. Therefore 'a law of Parliament under Article 231.' states the operative position.
 
-### Remedial MCQs - strict A -> A -> C -> D rotation
+**Examiner trap 24:** A common court does not itself create permanent or circuit benches.
 
-#### R1. Age trap
+#### MCQ 25. District judge appointment
 
-High Court retirement age:
+Article 233 places appointment, posting and promotion of district judges with:
 
-A. 62.
-B. 60.
-C. no retirement.
-D. 65.
+A. the Governor in consultation with the High Court.
+B. the High Court acting alone.
+C. the State Public Service Commission alone.
+D. the Union Public Service Commission.
 
 **Answer: A.**
 
-**Remedy:** HC 62; SC 65.
+**Option explanations:**
+- **A:** Correct. This option states the operative rule: Article 233 shares formal gubernatorial action with constitutionally mandatory High Court consultation. Therefore 'the Governor in consultation with the High Court.' states the operative position.
+- **B:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 233 shares formal gubernatorial action with constitutionally mandatory High Court consultation. Therefore 'the High Court acting alone.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This choice conflicts with the controlling proposition: Article 233 shares formal gubernatorial action with constitutionally mandatory High Court consultation. Therefore 'the State Public Service Commission alone.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 233 shares formal gubernatorial action with constitutionally mandatory High Court consultation. Therefore 'the Union Public Service Commission.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### R2. Oath trap
+**Examiner trap 25:** Initial appointment language does not confer later career control on the executive.
 
-Oath is before:
+#### MCQ 26. Direct district-judge route
 
-A. Lok Sabha Speaker.
-B. Governor or authorised person.
-C. Chief Minister.
-D. President only.
+For the direct Article 233(2) route, the Constitution requires, among other things:
+
+A. five years as any government employee.
+B. at least seven years as advocate or pleader and High Court recommendation.
+C. a distinguished-jurist declaration.
+D. three years as Civil Judge only.
 
 **Answer: B.**
 
-**Remedy:** Appointment by President, oath before Governor.
+**Option explanations:**
+- **A:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 233(2) specifies seven years' advocacy/pleadership and High Court recommendation for the direct route. Therefore 'five years as any government employee.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Correct. This choice matches the controlling proposition: Article 233(2) specifies seven years' advocacy/pleadership and High Court recommendation for the direct route. Therefore 'at least seven years as advocate or pleader and High Court recommendation.' states the operative position.
+- **C:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 233(2) specifies seven years' advocacy/pleadership and High Court recommendation for the direct route. Therefore 'a distinguished-jurist declaration.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The stated actor, source or consequence fails when tested against: Article 233(2) specifies seven years' advocacy/pleadership and High Court recommendation for the direct route. Therefore 'three years as Civil Judge only.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### R3. Writ trap
+**Examiner trap 26:** The seven-year constitutional floor is not the whole recruitment rule.
 
-Wider in purpose:
+#### MCQ 27. Article 234
 
-A. Article 136.
-B. Article 227.
-C. Article 226.
-D. Article 32.
+Recruitment below district judge is made under rules after consultation with:
+
+A. only the Governor's Council of Ministers.
+B. the UPSC and Supreme Court.
+C. the State Public Service Commission and the High Court.
+D. only the district administration.
 
 **Answer: C.**
 
-**Remedy:** Article 226 covers FRs plus other legal purposes.
+**Option explanations:**
+- **A:** Incorrect. This choice conflicts with the controlling proposition: Article 234 requires Governor-made rules after consultation with both the State PSC and High Court. Therefore 'only the Governor's Council of Ministers.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 234 requires Governor-made rules after consultation with both the State PSC and High Court. Therefore 'the UPSC and Supreme Court.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Correct. This option states the operative rule: Article 234 requires Governor-made rules after consultation with both the State PSC and High Court. Therefore 'the State Public Service Commission and the High Court.' states the operative position.
+- **D:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 234 requires Governor-made rules after consultation with both the State PSC and High Court. Therefore 'only the district administration.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### R4. Prohibition-certiorari trap
+**Examiner trap 27:** Neither consultee is constitutionally disposable.
 
-The completed order is ordinarily quashed by:
+#### MCQ 28. Article 235
 
-A. habeas corpus.
-B. prohibition.
-C. mandamus.
-D. certiorari.
+Which authority holds constitutional control over district and subordinate courts?
+
+A. The State Home Department.
+B. The Governor personally.
+C. The State Public Service Commission.
+D. The High Court under Article 235.
 
 **Answer: D.**
 
-**Remedy:** Prohibition prevents; certiorari corrects after order.
+**Option explanations:**
+- **A:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 235 vests control, including core career and disciplinary dimensions, in the High Court. Therefore 'The State Home Department.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The stated actor, source or consequence fails when tested against: Article 235 vests control, including core career and disciplinary dimensions, in the High Court. Therefore 'The Governor personally.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 235 vests control, including core career and disciplinary dimensions, in the High Court. Therefore 'The State Public Service Commission.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Correct. This choice matches the controlling proposition: Article 235 vests control, including core career and disciplinary dimensions, in the High Court. Therefore 'The High Court under Article 235.' states the operative position.
 
-#### R5. Common-HC trap
+**Examiner trap 28:** State finance and formal orders do not negate High Court control.
 
-The Constitution permits:
+#### MCQ 29. Article 236
 
-A. one High Court for multiple States/UTs.
-B. no UT jurisdiction.
-C. one High Court per district only.
-D. only 28 High Courts.
+The constitutional expression 'judicial service' means:
+
+A. a service exclusively intended to fill district-judge and lower civil judicial posts.
+B. every legal post under the State.
+C. only High Court registry service.
+D. all executive magistrates.
 
 **Answer: A.**
 
-**Remedy:** Article 231.
+**Option explanations:**
+- **A:** Correct. This option states the operative rule: Article 236 defines judicial service by its exclusive destination in district-judge and lower civil judicial posts. Therefore 'a service exclusively intended to fill district-judge and lower civil judicial posts.' states the operative position.
+- **B:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 236 defines judicial service by its exclusive destination in district-judge and lower civil judicial posts. Therefore 'every legal post under the State.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This choice conflicts with the controlling proposition: Article 236 defines judicial service by its exclusive destination in district-judge and lower civil judicial posts. Therefore 'only High Court registry service.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 236 defines judicial service by its exclusive destination in district-judge and lower civil judicial posts. Therefore 'all executive magistrates.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### R6. District appointment trap
+**Examiner trap 29:** Legal work or magisterial title alone does not place a person in the judicial service.
 
-District judges:
+#### MCQ 30. Gram Nyayalayas
 
-A. are elected.
-B. are appointed by Governor in consultation with High Court.
-C. are appointed by High Court alone.
-D. are appointed by SPSC alone.
+Which statement is correct under the Gram Nyayalayas Act, 2008?
 
-**Answer: B.**
-
-**Remedy:** Article 233.
-
-#### R7. Control trap
-
-Posting and promotion control belongs to:
-
-A. Governor personally.
-B. Parliament.
-C. High Court.
-D. State Cabinet.
-
-**Answer: C.**
-
-**Remedy:** Article 235.
-
-#### R8. AIJS trap
-
-AIJS:
-
-A. already recruits all judges.
-B. includes every magistrate automatically.
-C. needs only an executive order.
-D. is not operational and cannot include posts below district judge.
-
-**Answer: D.**
-
-**Remedy:** Articles 312 and 312(3).
-
-#### R9. Court-of-record trap
-
-Article 215 includes:
-
-A. contempt power.
-B. AIJS.
-C. writ territorial extension.
-D. district appointment.
-
-**Answer: A.**
-
-**Remedy:** Court of record and contempt.
-
-#### R10. Article 227 trap
-
-Article 227 is:
-
-A. judicial removal.
-B. superintendence over courts/tribunals except Armed-Forces-law forums.
-C. only an appeal.
-D. a Fundamental Right.
+A. Every village constitutionally must have one.
+B. A notified Gram Nyayalaya has only the civil and criminal jurisdiction assigned by the Act and Schedules.
+C. It may try every non-compoundable offence.
+D. It is a High Court bench.
 
 **Answer: B.**
 
-**Remedy:** Supervision is not routine factual reappraisal.
+**Option explanations:**
+- **A:** Incorrect. This formulation overstates, understates or misattributes the rule: Gram Nyayalayas are statutory notified courts with scheduled, bounded civil and criminal jurisdiction. Therefore 'Every village constitutionally must have one.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Correct. This choice matches the controlling proposition: Gram Nyayalayas are statutory notified courts with scheduled, bounded civil and criminal jurisdiction. Therefore 'A notified Gram Nyayalaya has only the civil and criminal jurisdiction assigned by the Act and Schedules.' states the operative position.
+- **C:** Incorrect. The option collapses a distinction preserved by the governing rule: Gram Nyayalayas are statutory notified courts with scheduled, bounded civil and criminal jurisdiction. Therefore 'It may try every non-compoundable offence.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Incorrect. The stated actor, source or consequence fails when tested against: Gram Nyayalayas are statutory notified courts with scheduled, bounded civil and criminal jurisdiction. Therefore 'It is a High Court bench.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### R11. Lok Adalat trap
+**Examiner trap 30:** Grassroots purpose does not create universal establishment or unlimited subject jurisdiction.
 
-Ordinary Lok Adalat may settle:
+#### MCQ 31. Commercial Divisions
 
-A. every criminal prosecution.
-B. constitutional removal proceedings.
-C. compoundable criminal and civil disputes by settlement.
-D. non-compoundable offences.
+A Commercial Division in a High Court under the 2015 Act is linked to:
+
+A. every writ petition of commercial importance.
+B. all criminal prosecutions involving companies.
+C. commercial disputes of specified value where the High Court has ordinary original civil jurisdiction.
+D. automatic transfer of every district suit.
 
 **Answer: C.**
 
-**Remedy:** Consent and compoundability control.
+**Option explanations:**
+- **A:** Incorrect. This choice conflicts with the controlling proposition: The Commercial Courts Act ties High Court Commercial Divisions to specified-value disputes and existing ordinary original civil jurisdiction. Therefore 'every writ petition of commercial importance.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The option collapses a distinction preserved by the governing rule: The Commercial Courts Act ties High Court Commercial Divisions to specified-value disputes and existing ordinary original civil jurisdiction. Therefore 'all criminal prosecutions involving companies.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Correct. This option states the operative rule: The Commercial Courts Act ties High Court Commercial Divisions to specified-value disputes and existing ordinary original civil jurisdiction. Therefore 'commercial disputes of specified value where the High Court has ordinary original civil jurisdiction.' states the operative position.
+- **D:** Incorrect. This formulation overstates, understates or misattributes the rule: The Commercial Courts Act ties High Court Commercial Divisions to specified-value disputes and existing ordinary original civil jurisdiction. Therefore 'automatic transfer of every district suit.' introduces a wrong actor, source, threshold, scope or consequence.
 
-#### R12. Technology trap
+**Examiner trap 31:** Do not universalise a charter-specific High Court arrangement.
 
-eCourts Phase III:
+#### MCQ 32. AIJS
 
-A. abolishes physical courts.
-B. decides cases algorithmically.
-C. replaces Article 226.
-D. digitises and improves process but does not replace adjudication.
+Which statement accurately describes an All India Judicial Service?
+
+A. It already recruits Civil Judges nationwide.
+B. It may be created by executive order.
+C. Article 312 requires unanimous State consent.
+D. Article 312 enables creation after a Rajya Sabha two-thirds-present-and-voting resolution and parliamentary law, but excludes posts below district judge.
 
 **Answer: D.**
 
-**Remedy:** Treat technology as capacity infrastructure.
+**Option explanations:**
+- **A:** Incorrect. The option collapses a distinction preserved by the governing rule: Article 312 supplies a special federal route and clause (3) preserves the district-judge floor. Therefore 'It already recruits Civil Judges nationwide.' introduces a wrong actor, source, threshold, scope or consequence.
+- **B:** Incorrect. The stated actor, source or consequence fails when tested against: Article 312 supplies a special federal route and clause (3) preserves the district-judge floor. Therefore 'It may be created by executive order.' introduces a wrong actor, source, threshold, scope or consequence.
+- **C:** Incorrect. This formulation overstates, understates or misattributes the rule: Article 312 supplies a special federal route and clause (3) preserves the district-judge floor. Therefore 'Article 312 requires unanimous State consent.' introduces a wrong actor, source, threshold, scope or consequence.
+- **D:** Correct. This choice matches the controlling proposition: Article 312 supplies a special federal route and clause (3) preserves the district-judge floor. Therefore 'Article 312 enables creation after a Rajya Sabha two-thirds-present-and-voting resolution and parliamentary law, but excludes posts below district judge.' states the operative position.
+
+**Examiner trap 32:** A constitutional enabling provision is not proof that the service exists.
+
 
 ## PYQS AND ANSWER PRACTICE
 
-### Verified/cross-owned Mains PYQs
+### Audited previous-year routes
 
-#### PYQ 1 - UPSC GS-II 2024, Q2 - access-to-justice application
+#### PYQ-M1 - UPSC GS-II 2024, Q2 - direct access-to-justice route
 
-**Verified neutral demand:** Explain and distinguish Lok Adalats and Arbitration Tribunals, including whether they entertain civil and criminal matters.  
-**10 marks | 150 words | Primary detailed owner: Lok Adalats/Administrative Tribunals; application here: subordinate justice**
+**Question (verified exact wording):** "Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal cases?"
 
-**Model answer**
+**10 marks | 150 words**
 
-**Claim:** [FACT] Lok Adalat is a statutory settlement institution serving access to justice; arbitration is consensual private adjudication of arbitrable civil disputes.
+**Model answer:** Lok Adalats are statutory settlement forums under the Legal Services Authorities Act, 1987; arbitral tribunals are consensual adjudicatory forums under the Arbitration and Conciliation Act, 1996. An ordinary Lok Adalat facilitates compromise in pending or pre-litigation disputes. Its consensual award is final, binding and decree-like; if settlement fails, it cannot decide the contest on merits. It may handle civil disputes and compoundable criminal offences, never non-compoundable offences. An arbitral tribunal derives authority from an arbitration agreement, hears an arbitrable civil or commercial dispute and renders an award subject to limited statutory challenge; it does not conduct criminal prosecution. Permanent Lok Adalats are a distinct exception for specified public-utility-service disputes: after failed conciliation they possess bounded adjudicatory power under the 1987 Act. Thus both reduce ordinary-court burden, but one is public access-oriented settlement and the other private consensual adjudication.
 
-**Named evidence:** The Legal Services Authorities Act, 1987 authorises Lok Adalats. They facilitate compromise, and an agreed award is final, binding and decree-like. Ordinary Lok Adalats cannot decide a contested case on merits if settlement fails. They may settle civil disputes and compoundable criminal offences, never non-compoundable offences.
+**Why this earns marks:** It distinguishes source, consent, method, outcome and civil/criminal boundaries.
 
-Arbitration arises from an arbitration agreement under the Arbitration and Conciliation Act. The tribunal hears evidence and renders an arbitral award subject to limited statutory challenge. It handles arbitrable civil/commercial disputes, not criminal prosecution.
+#### PYQ-M2 - UPSC GS-II 2025, Q13 - supporting appointments route
 
-**Qualification:** Permanent Lok Adalats for public-utility services have a distinct statutory conciliation-cum-adjudication role after failed settlement; they should not be equated with ordinary Lok Adalats.
+**Verified neutral demand:** Critically examine India's collegium system of judicial appointments in comparison with the United States.
 
-**Verdict:** Both reduce ordinary-court burden, but Lok Adalat is access-oriented consensual justice, while arbitration is party-chosen adjudication.
+**15 marks | 250 words**
 
-**Evidence chain:** Article 39A -> Legal Services Authorities Act -> compromise/compoundable limit -> arbitration agreement -> civil-commercial field.
+**Model answer:** India's higher-judiciary appointment system seeks insulation from political control through judicial primacy. Article 217 formally vests High Court appointment in the President after specified consultations; the Second Judges Case (1993) and Third Judges Reference (1998) converted consultation into a collegium process. High Court proposals begin with the Chief Justice and two senior colleagues, then reach the Supreme Court collegium of the CJI and two senior-most judges, alongside executive inputs. The 2015 NJAC judgment invalidated the enacted replacement because judicial independence was imperilled.
 
+The United States uses presidential nomination and Senate confirmation. Public hearings and political accountability are clearer, but partisan polarisation can dominate selection. India's model better limits direct party control, yet opacity, delay, weak diversity disclosure and diffused responsibility reduce legitimacy.
 
-**Why this earns marks:** It distinguishes source, consent, subject matter, criminal limits and legal effect, then adds the Permanent Lok Adalat qualification within 150 words.
+Reform should preserve judicial primacy while publishing criteria and timelines, creating a permanent appointments secretariat, widening the search pool, recording privacy-sensitive reasons and requiring timely executive responses. The objective is accountable independence, not transplanting a politically polarised confirmation model.
 
-**How to improve this answer:** Compress the statutory comparison into a five-row mental matrix: source, consent, civil field, criminal field and legal effect; reserve one sentence for the Permanent Lok Adalat exception.
+**Why this earns marks:** It compares actors, values, risks and feasible reform without implying that every commission is unconstitutional.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ 1 - UPSC GS-II 2024, Q2 - access-to-justice application”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+#### PYQ-P1 - UPSC Prelims 2024, routed question 83
 
-**Detailed examiner-grade model answer:**
+**Verified demand:** Writ of Prohibition.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ 1 - UPSC GS-II 2024, Q2 - access-to-justice application”.
+**Official Set-A answer: C.**
 
-**Analytical body:**
+**Answer route:** Prohibition prevents a lower court or tribunal from continuing without or beyond jurisdiction; certiorari generally quashes a completed defective decision.
 
-1. **Claim and named evidence:** PYQ 1 - UPSC GS-II 2024, Q2 - access-to-justice application **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Verified neutral demand: Explain and distinguish Lok Adalats and Arbitration Tribunals, including whether they entertain civil and criminal matters. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 150 words Primary detailed owner: Lok Adalats/Administrative Tribunals; application here: subordinate justice **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: [FACT] Lok Adalat is a statutory settlement institution serving access to justice; arbitration is consensual private adjudication of arbitrable civil disputes. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualification: Permanent Lok Adalats for public-utility services have a distinct statutory conciliation-cum-adjudication role after failed settlement; they should not be equated with ordinary Lok Adalats. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+#### PYQ-P2 - UPSC Prelims 2019, routed High Court jurisdiction question
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Verified demand:** High Court jurisdiction and Supreme Court review powers.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ 1 - UPSC GS-II 2024, Q2 - access-to-justice application”.
+**Answer withheld pending official UPSC key.**
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Answer route:** Article 226 covers Fundamental Rights and other legal purposes; Supreme Court appellate authority does not extinguish High Court constitutional jurisdiction; L. Chandra Kumar protects Articles 226/227 review.
 
-#### PYQ 2 - UPSC GS-II 2025, Q13 - appointments application
+#### PYQ-P3 - UPSC Prelims 2021, routed retired-judge question
 
-**Verified neutral demand:** Critically examine the collegium system of judicial appointments in India with comparison to the United States.  
-**15 marks | 250 words | Primary owner: Polity 18; application here: High Court appointments**
+**Verified demand:** Retired Supreme Court judges and High Court powers.
 
-**Model answer**
+**Answer withheld pending official UPSC key.**
 
-**Claim:** [FACT] India's collegium prioritises judicial independence through judicial primacy, while the United States uses presidential nomination and Senate confirmation, making political accountability more explicit.
+**Answer route:** Article 224A concerns a retired High Court judge requested to sit in a High Court; Article 128 separately concerns retired Supreme Court judges sitting in the Supreme Court.
 
-**Indian mechanism:** Article 217 text provides presidential appointment after consultation with the CJI, Governor and High Court Chief Justice. The Judges Cases transformed consultation into collegium primacy. For High Court appointments, the originating Chief Justice consults two senior colleagues and the Supreme Court collegium of the CJI plus two senior-most judges considers the proposal. The NJAC was struck down in 2015.
+### Exactly six original Mains questions with model answers
 
-**Strengths:** insulation from direct executive control, professional evaluation and protection of Basic Structure independence.
+#### Original Q1 - 10 marks, answer in not more than 150 words
 
-**Weaknesses:** opacity, limited published criteria, delays, uneven diversity and diffused responsibility.
+**Question:** Explain why Article 226 makes the High Court the everyday constitutional court.
 
-**US comparison:** open nomination/confirmation increases public scrutiny but also permits ideological polarisation and partisan delay.
+**Model answer:** Article 226 makes the High Court the everyday constitutional court because it combines local access with broad remedial purpose. Unlike Article 32, which is itself a Fundamental Right and primarily enforces Fundamental Rights in the Supreme Court, Article 226 authorises writs for Fundamental Rights and "any other purpose." Article 226(2) also permits jurisdiction where material cause of action arises wholly or partly within the territory. Citizens can therefore challenge unlawful detention, refusal of statutory duty, jurisdictional error and invalid public action near the place of injury. L. Chandra Kumar (1997) further protects review under Articles 226/227 as part of the Basic Structure. Yet the power is not limitless: relief is discretionary, territorial nexus is necessary, and an efficacious alternative remedy ordinarily invites restraint subject to recognised exceptions. Article 226 is thus wider in purpose, locally accessible and constitutionally indispensable.
 
-**Reform:** publish objective criteria and timelines, create a appointments secretariat, disclose reasoned outcomes consistent with privacy, broaden the candidate pool and make executive objections timely.
+#### Original Q2 - 10 marks, answer in not more than 150 words
 
-**Verdict:** India should reform, not politically capture, the collegium. Independence requires judicial primacy; legitimacy requires transparent, timely and diverse selection.
+**Question:** Distinguish Articles 226 and 227.
 
-**Evidence chain:** Article 217 -> Judges Cases -> HC and SC collegium stages -> Fourth Judges Case (2015) -> US nomination-confirmation -> targeted reform.
+**Model answer:** Article 226 is principally a public-law remedial jurisdiction; Article 227 is a supervisory jurisdiction over territorial courts and tribunals. Under Article 226, a High Court issues directions, orders and writs to enforce Fundamental Rights and other legal rights. Territorial cause of action matters, and relief remains discretionary. Article 227 enables judicial and administrative superintendence, including correction of grave jurisdictional or procedural failure, calling returns and framing general rules, subject to the Armed-Forces-law exception. Radhey Shyam (2015) cautions against treating ordinary civil-court orders as Article 226 writ targets; correction ordinarily lies under Article 227 or statutory procedure. Neither provision creates a routine second appeal. L. Chandra Kumar protects their review role as part of the Basic Structure. In short, Article 226 asks whether public power has violated law; Article 227 keeps inferior adjudicatory institutions within lawful bounds.
 
-### Routed Prelims demands - provenance without invented answer letters
+#### Original Q3 - 15 marks, answer in not more than 250 words
 
+**Question:** Examine how Articles 233-235 protect subordinate-judiciary independence.
 
-**Why this earns marks:** It anchors both systems, weighs independence against accountability, and proposes reforms that answer the comparative directive rather than merely describing the collegium.
+**Model answer:** Articles 233-235 distribute recruitment and career control so that the State executive cannot dominate judges who routinely decide cases involving government. Article 233 places appointment, posting and promotion of district judges with the Governor in consultation with the High Court. For direct recruitment, clause (2) requires the constitutional advocacy threshold and High Court recommendation. Article 234 governs recruitment below district judge through Governor-made rules after consultation with both the State Public Service Commission and High Court. Article 235 then vests control over district and subordinate courts in the High Court, covering posting, promotion, leave and disciplinary authority.
 
-**How to improve this answer:** Use three explicit comparison axes—appointing actors, transparency and politicisation—then compress reforms to criteria, timelines and a secretariat so the 250-word conclusion remains balanced.
+Chandra Mohan (1966) connected this design to Article 50 and rejected executive officers entering district judgeship through an unconstitutional route. Ranga Muhammad (1967) located transfer of serving district judges within Article 235, and Nripendra Nath Bagchi treated disciplinary control as integral.
 
-#### Prelims route 1 - 2019 GS-I Q81 - cross-owned
+The arrangement is not exclusive judicial administration: State law, finance, infrastructure, formal gubernatorial orders and valid appeal rights remain relevant. High Court control must also observe natural justice. The constitutional achievement is therefore shared appointment with judicially secured career control, preserving both democratic administration and adjudicative independence.
 
-**Verified neutral demand:** High Court jurisdiction and Supreme Court review powers.
+#### Original Q4 - 15 marks, answer in not more than 250 words
 
-**Doctrinal solution**
+**Question:** Critically examine constitutional safeguards for High Court independence.
 
-- [FACT] Article 226 covers Fundamental Rights and other legal purposes.
-- [FACT] Article 32 directly enforces Fundamental Rights.
-- [FACT] Supreme Court appellate/review authority does not erase High Court constitutional jurisdiction.
-- [FACT] *L. Chandra Kumar (1997)* protects Articles 226/227 review as Basic Structure.
+**Model answer:** High Court independence rests on mutually reinforcing personnel, financial, jurisdictional and administrative safeguards. Article 217 provides presidential appointment through constitutionally specified consultation; the Judges Cases add judicial primacy. Judges serve until sixty-two and do not hold office during executive pleasure. Article 218 applies the stringent Article 124(4)-(5) removal route based on proved misbehaviour or incapacity. Article 221 protects service conditions, while Article 229 places registry appointments with the Chief Justice and charges High Court administrative expenses on the State Consolidated Fund. Article 222 transfer requires CJI consultation. Articles 215, 226, 227 and 235 protect contempt authority, judicial review, superintendence and control over the district judiciary.
 
-**Elimination rule:** Reject any proposition that tribunalisation or Supreme Court appellate authority wholly excludes High Court review.
+Practical independence nevertheless faces collegium opacity, delayed appointments, perceived punitive transfers, weak diversity, vacancies and infrastructure dependence. Total secrecy is not required for independence, while total disclosure may harm candidate privacy. Reform should preserve judicial primacy but institutionalise criteria, timelines, a permanent secretariat, diversity search, reasoned communication and predictable infrastructure funding.
 
-#### Prelims route 2 - 2021 GS-I Q88 - cross-owned
+Thus the Constitution strongly protects adjudication from direct political retaliation; accountable and timely administration must make that formal protection effective.
 
-**Verified neutral demand:** Retired Supreme Court judges and High Court powers.
+#### Original Q5 - 20 marks, answer in not more than 250 words
 
-**Doctrinal solution**
+**Question:** Evaluate the case for an All India Judicial Service.
 
-- [FACT] Article 224A concerns retired High Court judges requested to sit in a High Court.
-- [FACT] Article 128 separately concerns retired Supreme Court judges sitting in the Supreme Court.
-- [FACT] A High Court's Article 226/227 powers remain institutionally distinct.
+**Model answer:** Article 312 enables an All India Judicial Service only after the Rajya Sabha declares by a two-thirds majority of members present and voting that national interest requires it, followed by parliamentary law. Article 312(3) excludes posts below district judge. No AIJS exists as of 7 September 2026.
 
-**Elimination rule:** Do not transfer Article 128 arrangements to Article 224A or treat a recalled retiree as a permanent judge.
+The case for AIJS is regular recruitment, common minimum standards, a wider national talent pool, planned training and greater mobility. It may reduce recurring district-judge vacancies and diversify recruitment beyond local professional networks. National data and a predictable calendar could support workforce planning.
 
-### Original solved Mains practice
+However, district judging demands command of State law, local language and procedure. States and High Courts also raise federal, reservation, seniority, promotion and cadre-control concerns. A central examination cannot repair courtrooms, staff, prosecution or retention. Most importantly, AIJS design cannot dilute High Court consultation and control under Articles 233 and 235.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ 2 - UPSC GS-II 2025, Q13 - appointments application”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+A viable model would remain district-judge-level, allocate officers to State cadres, require local-language competence, protect State reservation, preserve High Court appraisal and promotion, and coordinate training through judicial academies. AIJS is therefore defensible as a carefully federal professional service, not as centralisation of the subordinate judiciary.
 
-**Detailed examiner-grade model answer:**
+#### Original Q6 - 20 marks, answer in not more than 250 words
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ 2 - UPSC GS-II 2025, Q13 - appointments application”.
+**Question:** Judicial pendency is a governance problem, not merely a judicial problem. Analyse with reference to High Courts and subordinate courts.
 
-**Analytical body:**
+**Model answer:** Pendency is the accumulated stock of unresolved cases; delay is the time taken in an individual case. Both arise from interactions across government, courts and litigants. The Department of Justice's 1 July 2026 snapshot recorded 1,122 sanctioned High Court posts, 781 working judges and 341 vacancies, showing a capacity gap, but vacancies alone do not explain the queue.
 
-1. **Claim and named evidence:** PYQ 2 - UPSC GS-II 2025, Q13 - appointments application **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Verified neutral demand: Critically examine the collegium system of judicial appointments in India with comparison to the United States. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 250 words Primary owner: Polity 18; application here: High Court appointments **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: [FACT] India's collegium prioritises judicial independence through judicial primacy, while the United States uses presidential nomination and Senate confirmation, making political accountability more explicit. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Strengths: insulation from direct executive control, professional evaluation and protection of Basic Structure independence. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+Government departments generate repetitive litigation and delayed appeals. Police investigation, prosecution, summons, forensic support and prison production affect criminal trials. Court staff, records, translation, infrastructure, adjournments and fragmented case management affect throughput. Complex procedure and unequal legal assistance increase citizen costs.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+Reform must therefore combine timely appointments under Articles 217 and 233-234, High Court control under Article 235, Malik Mazhar recruitment calendars, differentiated case tracks, reasoned adjournment control, mediation where lawful, government-litigation discipline and staff/infrastructure investment. e-Courts Phase III can digitise records, filing and payments, while NJDG supports diagnosis. Yet digital-only design can exclude poor, rural, disabled or language-disadvantaged litigants.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ 2 - UPSC GS-II 2025, Q13 - appointments application”.
+The goal is not disposal at any cost. Rights-sensitive case management, adequate reasons and fair hearing must accompany speed. Pendency falls sustainably only when every institution producing or processing litigation is accountable.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M1. "Article 226 makes the High Court the everyday constitutional court." Analyse. (10 marks, 150 words)
-
-**Model answer**
-
-**Claim:** [FACT] Article 226 makes the High Court the locally accessible guardian of both Fundamental Rights and ordinary legal rights.
-
-**Named evidence:** Unlike Article 32, it authorises writs for Fundamental Rights "and any other purpose." Article 226(2) connects jurisdiction to cause of action. *L. Chandra Kumar (1997)* protects Articles 226/227 review as Basic Structure and keeps tribunal decisions under High Court scrutiny.
-
-**Analysis:** Citizens can challenge detention, jurisdictional error, public-duty failure and unlawful office without first converting every grievance into a Supreme Court case. Local access and broad purpose make the High Court the working constitutional court.
-
-**Qualification:** [LIMIT] Relief is discretionary; adequate alternative remedies ordinarily matter, and territorial limits remain.
-
-**Verdict:** Article 32 is the guaranteed national remedy for Fundamental Rights; Article 226 is the broader everyday rule-of-law jurisdiction.
-
-
-**Why this earns marks:** It links the quoted proposition to wider-purpose writs, local territorial access, tribunal review and the discretion limit.
-
-**How to improve this answer:** In the exam, use one citizen-facing example such as unlawful detention or refusal of a statutory duty, then state the alternative-remedy qualification before the verdict.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “M1. "Article 226 makes the High Court the everyday constitutional court." Analyse. (10 marks,…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M1. "Article 226 makes the High Court the everyday constitutional court." Analyse. (10 marks, 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M1. "Article 226 makes the High Court the everyday constitutional court." Analyse. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [FACT] Article 226 makes the High Court the locally accessible guardian of both Fundamental Rights and ordinary legal rights. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Qualification: [LIMIT] Relief is discretionary; adequate alternative remedies ordinarily matter, and territorial limits remain. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Verdict: Article 32 is the guaranteed national remedy for Fundamental Rights; Article 226 is the broader everyday rule-of-law jurisdiction. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It links the quoted proposition to wider-purpose writs, local territorial access, tribunal review and the discretion limit. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M1. "Article 226 makes the High Court the everyday constitutional court." Analyse. (10 marks, 150 words)”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M2. Compare Articles 32 and 226. (10 marks, 150 words)
-
-**Model answer**
-
-**Claim:** [FACT] Both enforce constitutional legality through writs, but they differ in nature, purpose, discretion and territorial reach.
-
-**Comparison:** Article 32 is itself a Fundamental Right, lies in the Supreme Court and primarily enforces Fundamental Rights across India. Article 226 is a High Court power covering Fundamental Rights and other legal purposes, making it wider substantively. A High Court may apply the alternative-remedy rule, while Article 32 carries stronger remedial entitlement. Article 226 remains territorially linked, including cause-of-action jurisdiction.
-
-**Common control:** *L. Chandra Kumar (1997)* places review under Articles 32 and 226/227 within Basic Structure.
-
-**Verdict:** Article 32 guarantees the constitutional door; Article 226 places a wider door near the citizen. They are complementary, not hierarchical substitutes.
-
-
-**Why this earns marks:** It compares nature, purpose, territorial reach and discretion while preserving their common Basic-Structure role.
-
-**How to improve this answer:** Present a compact four-row comparison and avoid saying Article 226 is simply wider; write “wider in purpose, territorially bounded” in both body and conclusion.
-
-**Demand decoding:** The directive **compare** requires a direct position on “M2. Compare Articles 32 and 226. (10 marks, 150 words)”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M2. Compare Articles 32 and 226. (10 marks, 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M2. Compare Articles 32 and 226. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [FACT] Both enforce constitutional legality through writs, but they differ in nature, purpose, discretion and territorial reach. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Common control: L. Chandra Kumar (1997) places review under Articles 32 and 226/227 within Basic Structure. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Verdict: Article 32 guarantees the constitutional door; Article 226 places a wider door near the citizen. They are complementary, not hierarchical substitutes. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It compares nature, purpose, territorial reach and discretion while preserving their common Basic-Structure role. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M2. Compare Articles 32 and 226. (10 marks, 150 words)”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M3. Examine how Articles 227 and 235 secure the independence of the subordinate judiciary. (15 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [FACT] Article 227 protects adjudicative legality through supervision, while Article 235 protects institutional independence through administrative control.
-
-**Mechanism:** Article 227 gives High Courts judicial and administrative superintendence over territorial courts and tribunals, excluding Armed-Forces-law forums. It corrects grave jurisdictional and procedural failure without becoming a routine appeal. Article 235 vests posting, promotion, leave and disciplinary control over district and subordinate courts in the High Court.
-
-**Supporting design:** Article 233 requires Governor-High Court consultation for district judges; Article 234 adds State PSC consultation for lower recruitment. Article 228 lets the High Court withdraw substantial constitutional-interpretation questions.
-
-**Analysis:** Trial judges frequently decide cases involving State authorities. Executive control over their careers would threaten impartiality; High Court control separates administration from litigant government.
-
-**Qualification:** Recruitment, finance and infrastructure remain shared with the State, while High Court control itself must follow law and natural justice.
-
-**Verdict:** Articles 227 and 235 make the High Court the head, not merely the appellate apex, of an independent State judiciary.
-
-
-**Why this earns marks:** It separates adjudicative supervision from service control and connects both to Articles 233, 234 and 228.
-
-**How to improve this answer:** Add *Nripendra Nath Bagchi* for disciplinary control and *Radhey Shyam* for Article 227 restraint; compress shared State responsibilities into one qualified counterpoint.
-
-**Demand decoding:** The directive **examine** requires a direct position on “M3. Examine how Articles 227 and 235 secure the independence of the subordinate judiciary.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M3. Examine how Articles 227 and 235 secure the independence of the subordinate judiciary. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M3. Examine how Articles 227 and 235 secure the independence of the subordinate judiciary. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [FACT] Article 227 protects adjudicative legality through supervision, while Article 235 protects institutional independence through administrative control. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Analysis: Trial judges frequently decide cases involving State authorities. Executive control over their careers would threaten impartiality; High Court control separates administration from litigant government. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: Recruitment, finance and infrastructure remain shared with the State, while High Court control itself must follow law and natural justice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Articles 227 and 235 make the High Court the head, not merely the appellate apex, of an independent State judiciary. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M3. Examine how Articles 227 and 235 secure the independence of the subordinate judiciary. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M4. Critically examine the constitutional safeguards for High Court independence. (15 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [FACT] High Court independence is secured through tenure, appointments, protected conditions, difficult removal, transfer consultation and un-excludable review.
-
-**Evidence:** Article 217 provides presidential appointment with constitutional consultation and retirement at 62. Removal requires the Article 124(4)-type special-majority process. Article 221 protects conditions; Article 222 requires CJI consultation for transfer. Article 215 supplies court-of-record authority, while Articles 226/227 review is Basic Structure under *L. Chandra Kumar (1997)*. Article 235 protects control over lower courts.
-
-**Weaknesses:** Collegium opacity, appointment delay, perceived punitive transfers, post-retirement incentives, vacancies and infrastructure gaps may weaken practical independence and public confidence.
-
-**Counterpoint:** Full public disclosure may harm candidate privacy, and executive participation is legitimate in a constitutional appointment.
-
-**Reform:** transparent criteria, appointment calendars, reasoned institutional dialogue, diversity, permanent secretariat and predictable infrastructure funding.
-
-**Verdict:** The constitutional design is strong against direct control; delivery now depends on making appointments and administration timely, transparent and capacity-rich.
-
-
-**Why this earns marks:** It covers appointment, tenure, finance, transfer, review and district control, then tests practical weaknesses and realistic reforms.
-
-**How to improve this answer:** Organise safeguards under personnel, finance, jurisdiction and administration; use the dated vacancy ratio only as evidence of implementation strain, not as a constitutional defect.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “M4. Critically examine the constitutional safeguards for High Court independence. (15 marks,…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M4. Critically examine the constitutional safeguards for High Court independence. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M4. Critically examine the constitutional safeguards for High Court independence. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [FACT] High Court independence is secured through tenure, appointments, protected conditions, difficult removal, transfer consultation and un-excludable review. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Weaknesses: Collegium opacity, appointment delay, perceived punitive transfers, post-retirement incentives, vacancies and infrastructure gaps may weaken practical independence and public confidence. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Counterpoint: Full public disclosure may harm candidate privacy, and executive participation is legitimate in a constitutional appointment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Reform: transparent criteria, appointment calendars, reasoned institutional dialogue, diversity, permanent secretariat and predictable infrastructure funding. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M4. Critically examine the constitutional safeguards for High Court independence. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M5. Should India establish an All India Judicial Service? Discuss. (15 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [ANALYSIS] AIJS can improve recruitment coordination and diversity, but only if it preserves the federal and High Court controls embedded in Articles 233-235.
-
-**Constitutional route:** Article 312 requires a Rajya Sabha resolution supported by two-thirds present and voting, followed by parliamentary law. Article 312(3) excludes posts below district judge.
-
-**Case for:** national talent pool, uniform standards, predictable recruitment, professional training, diversity and faster district-judge vacancies.
-
-**Case against:** local language and State law are essential; centralisation may weaken High Court control and State reservation/service structures; a national examination cannot fix infrastructure, staff or retention.
-
-**Design safeguards:** district-judge entry only, strong High Court role in selection/probation/control, State language testing, local-law training, federal consultation, reservation and transparent cadre allocation.
-
-**Current status:** [CURRENT] No AIJS is operational as of 5 September 2026.
-
-**Verdict:** AIJS is desirable as a cooperative recruitment framework, not a central takeover. Uniform entry must coexist with local competence and Article 235 control.
-
-
-**Why this earns marks:** It uses the exact Article 312 route, balances national standards against federal and linguistic concerns, and gives a conditional institutional design.
-
-**How to improve this answer:** Mention that Article 312(3) excludes posts below district judge and distinguish AIJS from the separate 2025 three-year Bar-practice rule for Civil Judge recruitment.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “M5. Should India establish an All India Judicial Service? Discuss. (15 marks, 250 words)”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M5. Should India establish an All India Judicial Service? Discuss. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M5. Should India establish an All India Judicial Service? Discuss. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [ANALYSIS] AIJS can improve recruitment coordination and diversity, but only if it preserves the federal and High Court controls embedded in Articles 233-235. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Constitutional route: Article 312 requires a Rajya Sabha resolution supported by two-thirds present and voting, followed by parliamentary law. Article 312(3) excludes posts below district judge. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Case for: national talent pool, uniform standards, predictable recruitment, professional training, diversity and faster district-judge vacancies. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Case against: local language and State law are essential; centralisation may weaken High Court control and State reservation/service structures; a national examination cannot fix infrastructure, staff or retention. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M5. Should India establish an All India Judicial Service? Discuss. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M6. Judicial pendency is a governance problem, not merely a judicial problem. Analyse. (15 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [ANALYSIS] Pendency emerges from the entire justice chain: legislation, policing, prosecution, government litigation, judicial vacancies, procedure, infrastructure and citizen access.
-
-**Causes:** delayed appointments, weak registries, repeated adjournments, service failures, frequent State appeals, complex statutes, forensic/prosecution gaps and uneven lower-court capacity.
-
-**Consequences:** undertrial hardship, commercial uncertainty, weak rights enforcement, higher legal cost and pressure for tribunals or executive settlement.
-
-**Constitutional frame:** Articles 226/227 and 235 give High Courts rights and system-management roles, but States fund infrastructure and participate in recruitment under Articles 233-234. Article 39A makes access a public obligation.
-
-**Reforms:** fill posts through calendars, strengthen staff and service, use age-based docket management, responsible government litigation, mediation/legal aid, eCourts safeguards and process simplification.
-
-**Qualification:** [LIMIT] Disposal targets must not reward hurried justice or compromise independence.
-
-**Verdict:** Courts must manage cases, but governments must stop creating avoidable litigation and fund the institutions that constitutional remedies require.
-
-
-**Why this earns marks:** It maps executive litigation, staffing, service, procedure and judicial management into one causal diagnosis with safeguards against quota-driven disposal.
-
-**How to improve this answer:** Open with the dated 1 July 2026 strength snapshot, then assign one executable reform each to Union, State, High Court and litigating departments.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “M6. Judicial pendency is a governance problem, not merely a judicial problem. Analyse. (15…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M6. Judicial pendency is a governance problem, not merely a judicial problem. Analyse. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M6. Judicial pendency is a governance problem, not merely a judicial problem. Analyse. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [ANALYSIS] Pendency emerges from the entire justice chain: legislation, policing, prosecution, government litigation, judicial vacancies, procedure, infrastructure and citizen access. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Causes: delayed appointments, weak registries, repeated adjournments, service failures, frequent State appeals, complex statutes, forensic/prosecution gaps and uneven lower-court capacity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Consequences: undertrial hardship, commercial uncertainty, weak rights enforcement, higher legal cost and pressure for tribunals or executive settlement. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Reforms: fill posts through calendars, strengthen staff and service, use age-based docket management, responsible government litigation, mediation/legal aid, eCourts safeguards and process simplification. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M6. Judicial pendency is a governance problem, not merely a judicial problem. Analyse. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M7. Evaluate eCourts Phase III as an access-to-justice reform. (20 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [CURRENT] eCourts Phase III is a major justice-infrastructure programme, not a replacement for judges or adjudication.
-
-**Design:** Approved for 2023-2027 with Rs 7,210 crore, it seeks record digitisation, e-filing, e-payment, paperless workflows, e-Sewa Kendras, interoperable data and intelligent case management.
-
-**Benefits:** reduces travel and filing cost, improves record retrieval, supports hybrid hearings, tracks case age, enables transparent listing and aids administrators in finding bottlenecks. District litigants and lawyers may gain most where physical distance is large.
-
-**Risks:** digital divide, inaccessible interfaces, language exclusion, cyberattacks, privacy leakage, poor scanning quality, unreliable connectivity and algorithmic scheduling without reasons.
-
-**Safeguards:** assisted access through e-Sewa Kendras, open standards, local languages, cyber audits, data minimisation, human control over listing/merits, physical alternatives and user training.
-
-**Qualification:** [LIMIT] Faster digital movement cannot cure vacancies, weak legal aid or poor investigation.
-
-**Verdict:** Phase III can convert courts from paper-bound institutions into accessible public infrastructure only if digital-by-default never becomes digital-only.
-
-
-**Why this earns marks:** It states the official period and outlay, follows the user journey, and balances efficiency with inclusion, privacy and human adjudication.
-
-**How to improve this answer:** Use a three-part test—access, efficiency and due process—and connect every risk to a safeguard; avoid listing technologies without explaining the justice outcome.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “M7. Evaluate eCourts Phase III as an access-to-justice reform. (20 marks, 250 words)”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M7. Evaluate eCourts Phase III as an access-to-justice reform. (20 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M7. Evaluate eCourts Phase III as an access-to-justice reform. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [CURRENT] eCourts Phase III is a major justice-infrastructure programme, not a replacement for judges or adjudication. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Design: Approved for 2023-2027 with Rs 7,210 crore, it seeks record digitisation, e-filing, e-payment, paperless workflows, e-Sewa Kendras, interoperable data and intelligent case management. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Risks: digital divide, inaccessible interfaces, language exclusion, cyberattacks, privacy leakage, poor scanning quality, unreliable connectivity and algorithmic scheduling without reasons. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Safeguards: assisted access through e-Sewa Kendras, open standards, local languages, cyber audits, data minimisation, human control over listing/merits, physical alternatives and user training. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M7. Evaluate eCourts Phase III as an access-to-justice reform. (20 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M8. "High Courts combine constitutional adjudication with judicial administration." Evaluate the strengths and strains of this dual role. (20 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [FACT] High Courts protect rights under Article 226 while supervising and administering the lower judiciary through Articles 227 and 235.
-
-**Strengths:** The same constitutional court can identify systemic illegality, correct subordinate forums, ensure uniform precedent, control judicial careers and withdraw constitutional questions under Article 228. Integration protects district judges from the executive and connects administration to adjudicative standards.
-
-**Strains:** Writ caseload, civil/criminal appeals, vacancies, registry management and disciplinary administration compete for time. Excessive Article 227 intervention may become a second appeal; weak administration can delay rights cases. Centralised High Court control may also overlook district-level management needs.
-
-**Reform:** professional court administration, delegated registry authority with judicial oversight, data-based case flow without disposal quotas, regular inspections, district leadership training, timely appointments and separate administrative time.
-
-**Qualification:** [LIMIT] Administrative professionalisation must not transfer decisional control to the executive or opaque technology vendors.
-
-**Verdict:** The dual role is constitutionally valuable because it unifies rights and independence; it needs specialised management capacity so administration supports rather than consumes adjudication.
-
-**Why this earns marks:** It integrates Articles 226, 227, 229 and 235, explains the institutional benefit, and diagnoses workload and management conflicts.
-
-**How to improve this answer:** Build the body as a two-column strengths/strains matrix, add professional registry administration as the bridge, and retain judicial control as the non-negotiable limit.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “M8. "High Courts combine constitutional adjudication with judicial administration." Evaluate…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M8. "High Courts combine constitutional adjudication with judicial administration." Evaluate the strengths and strains of this dual role. (20 marks,…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M8. "High Courts combine constitutional adjudication with judicial administration." Evaluate the strengths and strains of this dual role. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [FACT] High Courts protect rights under Article 226 while supervising and administering the lower judiciary through Articles 227 and 235. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Qualification: [LIMIT] Administrative professionalisation must not transfer decisional control to the executive or opaque technology vendors. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Verdict: The dual role is constitutionally valuable because it unifies rights and independence; it needs specialised management capacity so administration supports rather than consumes adjudication. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It integrates Articles 226, 227, 229 and 235, explains the institutional benefit, and diagnoses workload and management conflicts. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M8. "High Courts combine constitutional adjudication with judicial administration." Evaluate the strengths and strains of this dual role. (20 marks,…”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.

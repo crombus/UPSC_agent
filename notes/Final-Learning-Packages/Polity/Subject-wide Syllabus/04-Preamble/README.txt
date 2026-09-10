@@ -5,15 +5,11 @@ Topic: Preamble
 Subject: Polity
 Section: Subject-wide Syllabus
 Catalogue number: 04
-Source record ID: polity-04:learner-v2:g19
-Source generation: 19
-Approval: Approval pending
-
 Deliverables
 ------------
-1. Complete Learning Session — PDF
-2. Solved Practice Workbook — PDF
-3. Carvaka Graphical Flowchart — poster PDF, printable tiled PDF, and high-resolution PNG
-4. ASCII Master Flowchart — standalone PDF and authored text
+1. Complete Learning Session - PDF
+2. Solved Practice Workbook - standalone full PDF
+3. Graphical Flowchart - high-resolution PNG, poster PDF and tiled PDF
+4. ASCII Master Flowchart - authored text and standalone PDF
 
-Navigation command: Open final package: Polity — Subject-wide Syllabus — Preamble
+Graphical master dimensions: 4800 x 12330 pixels

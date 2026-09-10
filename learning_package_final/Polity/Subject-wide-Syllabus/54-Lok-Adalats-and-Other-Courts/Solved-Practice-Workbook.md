@@ -1,959 +1,1219 @@
----
-title: "Lok Adalats and Other Courts — Solved Practice Workbook"
-topic_key: polity-54
----
-# Lok Adalats and Other Courts — Solved Practice Workbook
+# Lok Adalats and Other Courts - Solved Practice Workbook
+
+**Standalone scope:** exactly 32 original MCQs before PYQs, three verified PYQs with answers
+withheld unless backed by a final official/local key, and exactly six original Mains models.
+
+## PRACTICE WORKBOOK OVERVIEW
+
+Attempt each item before reading its explanation. For Mains, state the exact source, distinguish
+consent from adjudication, attach one named case to each major claim and end with a jurisdictional
+or implementation qualification.
 
 ## BASIC MCQS / REMEDIATION
 
-#### MCQ 1. What is the constitutional anchor for equal access and free legal aid?
 
-- A. Article 39A directs the State to promote justice on equal opportunity and prevent economic or other disability from denying access.
-- B. Article 50 establishes Lok Adalats.
-- C. Article 136 guarantees free counsel in every dispute.
-- D. Article 32 creates every legal-services authority.
+**Practice contract:** Exactly 32 original MCQs appear before the PYQs. Correct answers rotate `A -> B -> C -> D` eight times. Every option has a question-specific explanation and every question has a unique examiner trap.
 
-**Answer: A**
 
-**Explanation:** Article 39A is a Directive Principle operationalised through statutes and Article 21 jurisprudence. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+### MCQ 1
 
-#### MCQ 2. Which institutional description is accurate?
+Which proposition best states Article 39A?
 
-- A. SALSA is the statutory name of every State authority.
-- B. NALSA, the Supreme Court Committee, SLSAs, High Court Committees, DLSAs and TLSCs perform level-specific legal-services functions.
-- C. DLSAs are constitutional courts.
-- D. TLSCs may overrule High Court decisions.
 
-**Answer: B**
+A. It directs equal-opportunity justice and free legal aid against economic or other disability.
 
-**Explanation:** The 1987 Act creates a coordinated statutory ladder; SLSA is the ordinary abbreviation. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+B. It creates a directly elected national legal-aid court.
 
-#### MCQ 3. Which statement about free legal-services eligibility is correct?
+C. It guarantees State-funded counsel in every civil dispute without conditions.
 
-- A. OBC status by itself is expressly listed in Section 12.
-- B. Every senior citizen qualifies solely by age under Section 12.
-- C. Eligibility includes several status-based vulnerable categories as well as prescribed income criteria, subject also to a prima facie case assessment.
-- D. Only persons below an income ceiling qualify.
+D. It places Lok Adalats in the constitutional court hierarchy.
 
-**Answer: C**
 
-**Explanation:** SC/ST members, women/children, persons in custody and other listed groups do not depend solely on income. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Answer: A.**
 
-#### MCQ 4. Which matter may an ordinary Lok Adalat handle?
 
-- A. A matter outside all ordinary court jurisdiction.
-- B. Only disputes already decided by a High Court.
-- C. Every criminal offence regardless of compoundability.
-- D. A pending case or pre-litigation dispute within a court's jurisdiction, excluding a non-compoundable offence.
+**Option-specific explanations:**
 
-**Answer: D**
+- **A - Correct:** This states the text's equal-justice and free-legal-aid direction. [MCQ 1, option A: It directs equal-opportunity justice and free legal aid against economic or other disability.]
 
-**Explanation:** Sections 19-20 combine pending and pre-litigation settlement jurisdiction with a criminal-law exclusion. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+- **B - Incorrect:** Article 39A creates no elected court. [MCQ 1, option B: It creates a directly elected national legal-aid court.]
 
-#### MCQ 5. What may an ordinary Lok Adalat do when settlement fails?
+- **C - Incorrect:** The Article does not specify unconditional counsel in every civil matter. [MCQ 1, option C: It guarantees State-funded counsel in every civil dispute without conditions.]
 
-- A. It must not decide the merits; a referred pending case returns to court and parties retain the ordinary remedy.
-- B. It may compel one party to accept the proposed terms.
-- C. It converts automatically into a Permanent Lok Adalat.
-- D. It must impose an equitable merits award.
+- **D - Incorrect:** Lok Adalats are statutory, not constitutional courts. [MCQ 1, option D: It places Lok Adalats in the constitutional court hierarchy.]
 
-**Answer: A**
 
-**Explanation:** State of Punjab v. Jalour Singh (2008) confirms the compromise-only character. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Examiner trap 1:** A Directive Principle can shape enforceable law without itself creating every institution.
 
-#### MCQ 6. Which statement about an agreed Lok Adalat award is correct?
 
-- A. The award is only a non-binding recommendation.
-- B. It is deemed a civil-court decree, final and binding, and no statutory appeal lies; limited constitutional challenge remains for jurisdictional or consent defects.
-- C. Finality validates an award imposed without settlement.
-- D. Any dissatisfied party may appeal on facts.
+### MCQ 2
 
-**Answer: B**
+What did Khatri (II) establish about criminal legal aid?
 
-**Explanation:** Consent supports statutory finality but does not eliminate constitutional review for illegality. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
 
-#### MCQ 7. Which feature defines a Permanent Lok Adalat?
+A. It begins only when evidence recording starts.
 
-- A. It hears every pending civil suit transferred by a court.
-- B. It is merely a continuously sitting ordinary Lok Adalat.
-- C. It is a standing pre-litigation forum for notified public utility services under Chapter VI-A.
-- D. It may try non-compoundable offences.
+B. It attaches from first production and remand, with a judicial duty to inform.
 
-**Answer: C**
+C. It depends entirely on a written application by the accused.
 
-**Explanation:** Sector, stage and statutory exclusions define PLA competence. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+D. It may be denied whenever the State cites budget constraints.
 
-#### MCQ 8. When may a PLA decide an eligible dispute on merits?
 
-- A. Never; all Lok Adalats are compromise-only.
-- B. Only with a fresh arbitral agreement.
-- C. Before attempting conciliation.
-- D. After conducting the statutory conciliation process and failing to secure settlement, subject to jurisdictional limits.
+**Answer: B.**
 
-**Answer: D**
 
-**Explanation:** Bar Council of India (2012) and Canara Bank v. G.S. Jayarama (2022) support the conciliation-cum-adjudication design. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Option-specific explanations:**
 
-#### MCQ 9. Which statement about a Gram Nyayalaya is correct?
+- **A - Incorrect:** The judgment rejected a trial-only starting point. [MCQ 2, option A: It begins only when evidence recording starts.]
 
-- A. It is a statutory mobile-capable court of first instance with scheduled civil/criminal jurisdiction and appellate routes.
-- B. Its awards are unappealable compromises.
-- C. It is constitutionally mandatory in every Panchayat.
-- D. It is a village panchayat exercising customary power.
+- **B - Correct:** The Court imposed the early-stage duty and information obligation. [MCQ 2, option B: It attaches from first production and remand, with a judicial duty to inform.]
 
-**Answer: A**
+- **C - Incorrect:** An uninformed indigent accused cannot be expected to demand the right. [MCQ 2, option C: It depends entirely on a written application by the accused.]
 
-**Explanation:** The 2008 Act creates a judicial forum; establishment and operation remain State-dependent. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+- **D - Incorrect:** Financial or administrative inability is not an answer. [MCQ 2, option D: It may be denied whenever the State cites budget constraints.]
 
-#### MCQ 10. Which feature distinguishes a Family Court?
 
-- A. It can only record compromises.
-- B. It combines specialised statutory adjudication with a duty to explore settlement, privacy tools and a defined High Court appeal.
-- C. Lawyers have an unconditional right of appearance as of course.
-- D. It is an arbitral tribunal chosen by contract.
+**Examiner trap 2:** Do not postpone legal aid until trial; liberty is at risk at first production.
 
-**Answer: B**
 
-**Explanation:** Conciliation orientation does not remove adjudicatory power or fairness duties. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+### MCQ 3
 
-#### MCQ 11. Which classification is accurate?
+Which statement correctly combines Sections 12 and 13?
 
-- A. Every special court is a tribunal outside the judiciary.
-- B. Both are new constitutional tiers.
-- C. Fast-track courts are capacity/administrative schemes, while special courts obtain jurisdiction from a parent statute or valid notification.
-- D. An evening court has nationwide statutory jurisdiction.
 
-**Answer: C**
+A. Every Indian below one national income figure is automatically represented.
 
-**Explanation:** Labels do not answer source, appointment, procedure or appeal. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+B. Only criminal accused persons are eligible.
 
-#### MCQ 12. Which comparison is legally correct?
+C. A Section 12 category plus a prima facie case supports entitlement.
 
-- A. All four can decide non-compoundable criminal offences.
-- B. Every outcome has the same appeal and enforcement route.
-- C. All four require an identical prior contract.
-- D. Mediation produces a party-made settlement, arbitration produces an adjudicatory award, ordinary Lok Adalat records compromise, and a PLA has limited post-conciliation merits power.
+D. The authority must decide the entire case before granting aid.
 
-**Answer: D**
 
-**Explanation:** Consent, jurisdiction, decision-maker and legal effect differ across dispute-resolution designs. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Answer: C.**
 
-#### MCQ 13. Which close-option distinction is constitutionally accurate concerning Article 39A?
 
-- A. Article 39A directs the State to promote justice on equal opportunity and prevent economic or other disability from denying access.
-- B. Article 32 creates every legal-services authority.
-- C. Article 136 guarantees free counsel in every dispute.
-- D. Article 50 establishes Lok Adalats.
+**Option-specific explanations:**
 
-**Answer: A**
+- **A - Incorrect:** Income thresholds are prescribed and several gateways are status-based. [MCQ 3, option A: Every Indian below one national income figure is automatically represented.]
 
-**Explanation:** Article 39A is a Directive Principle operationalised through statutes and Article 21 jurisprudence. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+- **B - Incorrect:** Legal services extend beyond criminal defence. [MCQ 3, option B: Only criminal accused persons are eligible.]
 
-#### MCQ 14. Which close-option distinction is constitutionally accurate concerning the legal-services ladder?
+- **C - Correct:** This correctly joins eligibility with the prima facie screen. [MCQ 3, option C: A Section 12 category plus a prima facie case supports entitlement.]
 
-- A. DLSAs are constitutional courts.
-- B. NALSA, the Supreme Court Committee, SLSAs, High Court Committees, DLSAs and TLSCs perform level-specific legal-services functions.
-- C. SALSA is the statutory name of every State authority.
-- D. TLSCs may overrule High Court decisions.
+- **D - Incorrect:** Section 13 requires a preliminary assessment, not a trial. [MCQ 3, option D: The authority must decide the entire case before granting aid.]
 
-**Answer: B**
 
-**Explanation:** The 1987 Act creates a coordinated statutory ladder; SLSA is the ordinary abbreviation. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Examiner trap 3:** Eligibility and entitlement are linked but distinct statutory steps.
 
-#### MCQ 15. Which close-option distinction is constitutionally accurate concerning Section 12 eligibility?
 
-- A. OBC status by itself is expressly listed in Section 12.
-- B. Every senior citizen qualifies solely by age under Section 12.
-- C. Eligibility includes several status-based vulnerable categories as well as prescribed income criteria, subject also to a prima facie case assessment.
-- D. Only persons below an income ceiling qualify.
+### MCQ 4
 
-**Answer: C**
+Which body administers legal services for matters before the High Court?
 
-**Explanation:** SC/ST members, women/children, persons in custody and other listed groups do not depend solely on income. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
 
-#### MCQ 16. Which close-option distinction is constitutionally accurate concerning ordinary Lok Adalat jurisdiction?
+A. NALSA alone.
 
-- A. Every criminal offence regardless of compoundability.
-- B. Only disputes already decided by a High Court.
-- C. A matter outside all ordinary court jurisdiction.
-- D. A pending case or pre-litigation dispute within a court's jurisdiction, excluding a non-compoundable offence.
+B. The DLSA.
 
-**Answer: D**
+C. The Taluk Committee.
 
-**Explanation:** Sections 19-20 combine pending and pre-litigation settlement jurisdiction with a criminal-law exclusion. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+D. The High Court Legal Services Committee.
 
-#### MCQ 17. Which close-option distinction is constitutionally accurate concerning ordinary Lok Adalat power?
 
-- A. It must not decide the merits; a referred pending case returns to court and parties retain the ordinary remedy.
-- B. It must impose an equitable merits award.
-- C. It converts automatically into a Permanent Lok Adalat.
-- D. It may compel one party to accept the proposed terms.
+**Answer: D.**
 
-**Answer: A**
 
-**Explanation:** State of Punjab v. Jalour Singh (2008) confirms the compromise-only character. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Option-specific explanations:**
 
-#### MCQ 18. Which close-option distinction is constitutionally accurate concerning ordinary Lok Adalat awards?
+- **A - Incorrect:** NALSA lays national policy but is not the court-specific committee. [MCQ 4, option A: NALSA alone.]
 
-- A. Any dissatisfied party may appeal on facts.
-- B. It is deemed a civil-court decree, final and binding, and no statutory appeal lies; limited constitutional challenge remains for jurisdictional or consent defects.
-- C. Finality validates an award imposed without settlement.
-- D. The award is only a non-binding recommendation.
+- **B - Incorrect:** DLSA operates at district level. [MCQ 4, option B: The DLSA.]
 
-**Answer: B**
+- **C - Incorrect:** The Taluk Committee coordinates local delivery. [MCQ 4, option C: The Taluk Committee.]
 
-**Explanation:** Consent supports statutory finality but does not eliminate constitutional review for illegality. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+- **D - Correct:** Section 8A creates the court-specific committee. [MCQ 4, option D: The High Court Legal Services Committee.]
 
-#### MCQ 19. Which close-option distinction is constitutionally accurate concerning Permanent Lok Adalat jurisdiction?
 
-- A. It hears every pending civil suit transferred by a court.
-- B. It is merely a continuously sitting ordinary Lok Adalat.
-- C. It is a standing pre-litigation forum for notified public utility services under Chapter VI-A.
-- D. It may try non-compoundable offences.
+**Examiner trap 4:** Match each committee to the court before which the matter is pending.
 
-**Answer: C**
 
-**Explanation:** Sector, stage and statutory exclusions define PLA competence. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+### MCQ 5
 
-#### MCQ 20. Which close-option distinction is constitutionally accurate concerning Permanent Lok Adalat merits power?
+An ordinary Lok Adalat may take cognizance of
 
-- A. Never; all Lok Adalats are compromise-only.
-- B. Before attempting conciliation.
-- C. Only with a fresh arbitral agreement.
-- D. After conducting the statutory conciliation process and failing to secure settlement, subject to jurisdictional limits.
 
-**Answer: D**
+A. a pending civil case or eligible pre-litigation matter within court jurisdiction.
 
-**Explanation:** Bar Council of India (2012) and Canara Bank v. G.S. Jayarama (2022) support the conciliation-cum-adjudication design. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+B. every non-compoundable criminal prosecution.
 
-#### MCQ 21. Which close-option distinction is constitutionally accurate concerning Gram Nyayalayas?
+C. only disputes already decided by a High Court.
 
-- A. It is a statutory mobile-capable court of first instance with scheduled civil/criminal jurisdiction and appellate routes.
-- B. It is a village panchayat exercising customary power.
-- C. It is constitutionally mandatory in every Panchayat.
-- D. Its awards are unappealable compromises.
+D. any matter regardless of territorial or subject jurisdiction.
 
-**Answer: A**
 
-**Explanation:** The 2008 Act creates a judicial forum; establishment and operation remain State-dependent. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Answer: A.**
 
-#### MCQ 22. Which close-option distinction is constitutionally accurate concerning Family Courts?
 
-- A. It is an arbitral tribunal chosen by contract.
-- B. It combines specialised statutory adjudication with a duty to explore settlement, privacy tools and a defined High Court appeal.
-- C. It can only record compromises.
-- D. Lawyers have an unconditional right of appearance as of course.
+**Option-specific explanations:**
 
-**Answer: B**
+- **A - Correct:** Sections 19-20 permit both listed stages within jurisdiction. [MCQ 5, option A: a pending civil case or eligible pre-litigation matter within court jurisdiction.]
 
-**Explanation:** Conciliation orientation does not remove adjudicatory power or fairness duties. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+- **B - Incorrect:** Non-compoundable offences are expressly excluded. [MCQ 5, option B: every non-compoundable criminal prosecution.]
 
-#### MCQ 23. Which close-option distinction is constitutionally accurate concerning fast-track and special courts?
+- **C - Incorrect:** The forum is not confined to finally decided cases. [MCQ 5, option C: only disputes already decided by a High Court.]
 
-- A. An evening court has nationwide statutory jurisdiction.
-- B. Both are new constitutional tiers.
-- C. Fast-track courts are capacity/administrative schemes, while special courts obtain jurisdiction from a parent statute or valid notification.
-- D. Every special court is a tribunal outside the judiciary.
+- **D - Incorrect:** Informality does not eliminate jurisdiction. [MCQ 5, option D: any matter regardless of territorial or subject jurisdiction.]
 
-**Answer: C**
 
-**Explanation:** Labels do not answer source, appointment, procedure or appeal. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Examiner trap 5:** Pre-litigation breadth remains bounded by the organising court's jurisdiction.
 
-#### MCQ 24. Which close-option distinction is constitutionally accurate concerning mediation, arbitration and Lok Adalat?
 
-- A. All four can decide non-compoundable criminal offences.
-- B. All four require an identical prior contract.
-- C. Every outcome has the same appeal and enforcement route.
-- D. Mediation produces a party-made settlement, arbitration produces an adjudicatory award, ordinary Lok Adalat records compromise, and a PLA has limited post-conciliation merits power.
+### MCQ 6
 
-**Answer: D**
+If compromise fails in an ordinary Lok Adalat, it must
 
-**Explanation:** Consent, jurisdiction, decision-maker and legal effect differ across dispute-resolution designs. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
 
-#### MCQ 25. A State authority adopts the following proposition. Which correction is legally safest?
+A. issue the result it considers equitable.
 
-- A. Article 39A directs the State to promote justice on equal opportunity and prevent economic or other disability from denying access.
-- B. Article 50 establishes Lok Adalats.
-- C. Article 136 guarantees free counsel in every dispute.
-- D. The proposition is valid because all affirmative-action powers are interchangeable.
+B. return the pending matter or advise the pre-litigation parties to use the ordinary remedy.
 
-**Answer: A**
+C. convert itself into a Permanent Lok Adalat.
 
-**Explanation:** Article 39A is a Directive Principle operationalised through statutes and Article 21 jurisprudence. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+D. send every matter directly to the Supreme Court.
 
-#### MCQ 26. A State authority adopts the following proposition. Which correction is legally safest?
 
-- A. DLSAs are constitutional courts.
-- B. NALSA, the Supreme Court Committee, SLSAs, High Court Committees, DLSAs and TLSCs perform level-specific legal-services functions.
-- C. TLSCs may overrule High Court decisions.
-- D. The proposition is valid because all affirmative-action powers are interchangeable.
+**Answer: B.**
 
-**Answer: B**
 
-**Explanation:** The 1987 Act creates a coordinated statutory ladder; SLSA is the ordinary abbreviation. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Option-specific explanations:**
 
-#### MCQ 27. A State authority adopts the following proposition. Which correction is legally safest?
+- **A - Incorrect:** Justice and equity guide conciliation, not unilateral merits decision. [MCQ 6, option A: issue the result it considers equitable.]
 
-- A. The proposition is valid because all affirmative-action powers are interchangeable.
-- B. OBC status by itself is expressly listed in Section 12.
-- C. Eligibility includes several status-based vulnerable categories as well as prescribed income criteria, subject also to a prima facie case assessment.
-- D. Every senior citizen qualifies solely by age under Section 12.
+- **B - Correct:** Section 20 specifies the failure route. [MCQ 6, option B: return the pending matter or advise the pre-litigation parties to use the ordinary remedy.]
 
-**Answer: C**
+- **C - Incorrect:** The two institutions have separate statutory foundations. [MCQ 6, option C: convert itself into a Permanent Lok Adalat.]
 
-**Explanation:** SC/ST members, women/children, persons in custody and other listed groups do not depend solely on income. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+- **D - Incorrect:** No such automatic constitutional transfer exists. [MCQ 6, option D: send every matter directly to the Supreme Court.]
 
-#### MCQ 28. A State authority adopts the following proposition. Which correction is legally safest?
 
-- A. A matter outside all ordinary court jurisdiction.
-- B. The proposition is valid because all affirmative-action powers are interchangeable.
-- C. Every criminal offence regardless of compoundability.
-- D. A pending case or pre-litigation dispute within a court's jurisdiction, excluding a non-compoundable offence.
+**Examiner trap 6:** A failed settlement produces a route back, not a Lok Adalat judgment.
 
-**Answer: D**
 
-**Explanation:** Sections 19-20 combine pending and pre-litigation settlement jurisdiction with a criminal-law exclusion. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+### MCQ 7
 
-#### MCQ 29. A State authority adopts the following proposition. Which correction is legally safest?
+Under Section 21, a valid ordinary Lok Adalat award is
 
-- A. It must not decide the merits; a referred pending case returns to court and parties retain the ordinary remedy.
-- B. It converts automatically into a Permanent Lok Adalat.
-- C. The proposition is valid because all affirmative-action powers are interchangeable.
-- D. It may compel one party to accept the proposed terms.
 
-**Answer: A**
+A. merely a non-binding recommendation.
 
-**Explanation:** State of Punjab v. Jalour Singh (2008) confirms the compromise-only character. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+B. appealable as of right to the District Court.
 
-#### MCQ 30. A State authority adopts the following proposition. Which correction is legally safest?
+C. deemed a civil-court decree and final and binding without statutory appeal.
 
-- A. The proposition is valid because all affirmative-action powers are interchangeable.
-- B. It is deemed a civil-court decree, final and binding, and no statutory appeal lies; limited constitutional challenge remains for jurisdictional or consent defects.
-- C. Finality validates an award imposed without settlement.
-- D. The award is only a non-binding recommendation.
+D. valid even without any settlement.
 
-**Answer: B**
 
-**Explanation:** Consent supports statutory finality but does not eliminate constitutional review for illegality. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Answer: C.**
 
-#### MCQ 31. A State authority adopts the following proposition. Which correction is legally safest?
 
-- A. It may try non-compoundable offences.
-- B. The proposition is valid because all affirmative-action powers are interchangeable.
-- C. It is a standing pre-litigation forum for notified public utility services under Chapter VI-A.
-- D. It is merely a continuously sitting ordinary Lok Adalat.
+**Option-specific explanations:**
 
-**Answer: C**
+- **A - Incorrect:** The statute gives the award binding decree status. [MCQ 7, option A: merely a non-binding recommendation.]
 
-**Explanation:** Sector, stage and statutory exclusions define PLA competence. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+- **B - Incorrect:** Section 21 bars an ordinary statutory appeal. [MCQ 7, option B: appealable as of right to the District Court.]
 
-#### MCQ 32. A State authority adopts the following proposition. Which correction is legally safest?
+- **C - Correct:** This states the award's legal effect. [MCQ 7, option C: deemed a civil-court decree and final and binding without statutory appeal.]
 
-- A. Only with a fresh arbitral agreement.
-- B. Never; all Lok Adalats are compromise-only.
-- C. The proposition is valid because all affirmative-action powers are interchangeable.
-- D. After conducting the statutory conciliation process and failing to secure settlement, subject to jurisdictional limits.
+- **D - Incorrect:** *Jalour Singh* makes agreement foundational. [MCQ 7, option D: valid even without any settlement.]
 
-**Answer: D**
 
-**Explanation:** Bar Council of India (2012) and Canara Bank v. G.S. Jayarama (2022) support the conciliation-cum-adjudication design. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Examiner trap 7:** Decree status follows a valid compromise; it does not create merits power.
 
-#### MCQ 33. A State authority adopts the following proposition. Which correction is legally safest?
 
-- A. It is a statutory mobile-capable court of first instance with scheduled civil/criminal jurisdiction and appellate routes.
-- B. Its awards are unappealable compromises.
-- C. It is constitutionally mandatory in every Panchayat.
-- D. The proposition is valid because all affirmative-action powers are interchangeable.
+### MCQ 8
 
-**Answer: A**
+Which is the narrow lawful route against a defective Lok Adalat award?
 
-**Explanation:** The 2008 Act creates a judicial forum; establishment and operation remain State-dependent. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
 
-#### MCQ 34. A State authority adopts the following proposition. Which correction is legally safest?
+A. A routine first appeal on facts.
 
-- A. The proposition is valid because all affirmative-action powers are interchangeable.
-- B. It combines specialised statutory adjudication with a duty to explore settlement, privacy tools and a defined High Court appeal.
-- C. Lawyers have an unconditional right of appearance as of course.
-- D. It is an arbitral tribunal chosen by contract.
+B. A fresh original suit in every case.
 
-**Answer: B**
+C. Automatic revision by NALSA.
 
-**Explanation:** Conciliation orientation does not remove adjudicatory power or fairness duties. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+D. Constitutional review on limited foundational grounds.
 
-#### MCQ 35. A State authority adopts the following proposition. Which correction is legally safest?
 
-- A. An evening court has nationwide statutory jurisdiction.
-- B. Every special court is a tribunal outside the judiciary.
-- C. Fast-track courts are capacity/administrative schemes, while special courts obtain jurisdiction from a parent statute or valid notification.
-- D. The proposition is valid because all affirmative-action powers are interchangeable.
+**Answer: D.**
 
-**Answer: C**
 
-**Explanation:** Labels do not answer source, appointment, procedure or appeal. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Option-specific explanations:**
 
-#### MCQ 36. A State authority adopts the following proposition. Which correction is legally safest?
+- **A - Incorrect:** The statute excludes a regular appeal. [MCQ 8, option A: A routine first appeal on facts.]
 
-- A. The proposition is valid because all affirmative-action powers are interchangeable.
-- B. All four require an identical prior contract.
-- C. Every outcome has the same appeal and enforcement route.
-- D. Mediation produces a party-made settlement, arbitration produces an adjudicatory award, ordinary Lok Adalat records compromise, and a PLA has limited post-conciliation merits power.
+- **B - Incorrect:** Finality cannot be bypassed by an ordinary suit as a general rule. [MCQ 8, option B: A fresh original suit in every case.]
 
-**Answer: D**
+- **C - Incorrect:** NALSA is not a revisional court. [MCQ 8, option C: Automatic revision by NALSA.]
 
-**Explanation:** Consent, jurisdiction, decision-maker and legal effect differ across dispute-resolution designs. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+- **D - Correct:** Fraud, absent consent or jurisdictional illegality may support narrow writ review. [MCQ 8, option D: Constitutional review on limited foundational grounds.]
 
-#### MCQ 37. For a UPSC answer on Article 39A, which proposition should anchor the analysis?
 
-- A. Article 39A directs the State to promote justice on equal opportunity and prevent economic or other disability from denying access.
-- B. Article 32 creates every legal-services authority.
-- C. The issue is controlled only by executive policy and not constitutional text.
-- D. Article 50 establishes Lok Adalats.
+**Examiner trap 8:** No statutory appeal is not the same as no constitutional remedy whatsoever.
 
-**Answer: A**
 
-**Explanation:** Article 39A is a Directive Principle operationalised through statutes and Article 21 jurisprudence. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+### MCQ 9
 
-#### MCQ 38. For a UPSC answer on the legal-services ladder, which proposition should anchor the analysis?
+What is the legal character of a National Lok Adalat?
 
-- A. The issue is controlled only by executive policy and not constitutional text.
-- B. NALSA, the Supreme Court Committee, SLSAs, High Court Committees, DLSAs and TLSCs perform level-specific legal-services functions.
-- C. TLSCs may overrule High Court decisions.
-- D. SALSA is the statutory name of every State authority.
 
-**Answer: B**
+A. A coordinated exercise of ordinary statutory Lok Adalat benches.
 
-**Explanation:** The 1987 Act creates a coordinated statutory ladder; SLSA is the ordinary abbreviation. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+B. A new court above all High Courts.
 
-#### MCQ 39. For a UPSC answer on Section 12 eligibility, which proposition should anchor the analysis?
+C. A Permanent Lok Adalat for every sector.
 
-- A. OBC status by itself is expressly listed in Section 12.
-- B. Only persons below an income ceiling qualify.
-- C. Eligibility includes several status-based vulnerable categories as well as prescribed income criteria, subject also to a prima facie case assessment.
-- D. The issue is controlled only by executive policy and not constitutional text.
+D. A tribunal under Part XIV-A.
 
-**Answer: C**
 
-**Explanation:** SC/ST members, women/children, persons in custody and other listed groups do not depend solely on income. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Answer: A.**
 
-#### MCQ 40. For a UPSC answer on ordinary Lok Adalat jurisdiction, which proposition should anchor the analysis?
 
-- A. Only disputes already decided by a High Court.
-- B. The issue is controlled only by executive policy and not constitutional text.
-- C. A matter outside all ordinary court jurisdiction.
-- D. A pending case or pre-litigation dispute within a court's jurisdiction, excluding a non-compoundable offence.
+**Option-specific explanations:**
 
-**Answer: D**
+- **A - Correct:** National describes coordination and scale under the same statute. [MCQ 9, option A: A coordinated exercise of ordinary statutory Lok Adalat benches.]
 
-**Explanation:** Sections 19-20 combine pending and pre-litigation settlement jurisdiction with a criminal-law exclusion. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+- **B - Incorrect:** No constitutional appellate tier is created. [MCQ 9, option B: A new court above all High Courts.]
 
-#### MCQ 41. For a UPSC answer on ordinary Lok Adalat power, which proposition should anchor the analysis?
+- **C - Incorrect:** PLA jurisdiction remains separately limited to public utility disputes. [MCQ 9, option C: A Permanent Lok Adalat for every sector.]
 
-- A. It must not decide the merits; a referred pending case returns to court and parties retain the ordinary remedy.
-- B. It must impose an equitable merits award.
-- C. It may compel one party to accept the proposed terms.
-- D. The issue is controlled only by executive policy and not constitutional text.
+- **D - Incorrect:** Part XIV-A tribunals are a different topic. [MCQ 9, option D: A tribunal under Part XIV-A.]
 
-**Answer: A**
 
-**Explanation:** State of Punjab v. Jalour Singh (2008) confirms the compromise-only character. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Examiner trap 9:** Administrative scale never enlarges Sections 19-21 powers.
 
-#### MCQ 42. For a UPSC answer on ordinary Lok Adalat awards, which proposition should anchor the analysis?
 
-- A. Any dissatisfied party may appeal on facts.
-- B. It is deemed a civil-court decree, final and binding, and no statutory appeal lies; limited constitutional challenge remains for jurisdictional or consent defects.
-- C. The issue is controlled only by executive policy and not constitutional text.
-- D. Finality validates an award imposed without settlement.
+### MCQ 10
 
-**Answer: B**
+Which dispute fits the PLA gateway?
 
-**Explanation:** Consent supports statutory finality but does not eliminate constitutional review for illegality. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
 
-#### MCQ 43. For a UPSC answer on Permanent Lok Adalat jurisdiction, which proposition should anchor the analysis?
+A. A civil appeal already pending in court.
 
-- A. It may try non-compoundable offences.
-- B. It hears every pending civil suit transferred by a court.
-- C. It is a standing pre-litigation forum for notified public utility services under Chapter VI-A.
-- D. The issue is controlled only by executive policy and not constitutional text.
+B. A pre-litigation dispute concerning a defined public utility service within statutory limits.
 
-**Answer: C**
+C. A prosecution for a non-compoundable offence.
 
-**Explanation:** Sector, stage and statutory exclusions define PLA competence. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+D. Any employment dispute merely because one party is a public corporation.
 
-#### MCQ 44. For a UPSC answer on Permanent Lok Adalat merits power, which proposition should anchor the analysis?
 
-- A. Before attempting conciliation.
-- B. The issue is controlled only by executive policy and not constitutional text.
-- C. Never; all Lok Adalats are compromise-only.
-- D. After conducting the statutory conciliation process and failing to secure settlement, subject to jurisdictional limits.
+**Answer: B.**
 
-**Answer: D**
 
-**Explanation:** Bar Council of India (2012) and Canara Bank v. G.S. Jayarama (2022) support the conciliation-cum-adjudication design. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Option-specific explanations:**
 
-#### MCQ 45. For a UPSC answer on Gram Nyayalayas, which proposition should anchor the analysis?
+- **A - Incorrect:** PLA is pre-litigation. [MCQ 10, option A: A civil appeal already pending in court.]
 
-- A. It is a statutory mobile-capable court of first instance with scheduled civil/criminal jurisdiction and appellate routes.
-- B. It is a village panchayat exercising customary power.
-- C. It is constitutionally mandatory in every Panchayat.
-- D. The issue is controlled only by executive policy and not constitutional text.
+- **B - Correct:** This satisfies stage and subject filters. [MCQ 10, option B: A pre-litigation dispute concerning a defined public utility service within statutory limits.]
 
-**Answer: A**
+- **C - Incorrect:** The statute excludes non-compoundable offences. [MCQ 10, option C: A prosecution for a non-compoundable offence.]
 
-**Explanation:** The 2008 Act creates a judicial forum; establishment and operation remain State-dependent. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+- **D - Incorrect:** Public ownership does not itself create public-utility jurisdiction. [MCQ 10, option D: Any employment dispute merely because one party is a public corporation.]
 
-#### MCQ 46. For a UPSC answer on Family Courts, which proposition should anchor the analysis?
 
-- A. Lawyers have an unconditional right of appearance as of course.
-- B. It combines specialised statutory adjudication with a duty to explore settlement, privacy tools and a defined High Court appeal.
-- C. The issue is controlled only by executive policy and not constitutional text.
-- D. It can only record compromises.
+**Examiner trap 10:** Test service, stage, offence and the notified pecuniary framework separately.
 
-**Answer: B**
 
-**Explanation:** Conciliation orientation does not remove adjudicatory power or fairness duties. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+### MCQ 11
 
-#### MCQ 47. For a UPSC answer on fast-track and special courts, which proposition should anchor the analysis?
+After PLA conciliation fails, Section 22C(8) permits merits decision when
 
-- A. An evening court has nationwide statutory jurisdiction.
-- B. The issue is controlled only by executive policy and not constitutional text.
-- C. Fast-track courts are capacity/administrative schemes, while special courts obtain jurisdiction from a parent statute or valid notification.
-- D. Both are new constitutional tiers.
 
-**Answer: C**
+A. the chairperson dislikes a party's offer.
 
-**Explanation:** Labels do not answer source, appointment, procedure or appeal. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+B. the dispute is already before another court.
 
-#### MCQ 48. For a UPSC answer on mediation, arbitration and Lok Adalat, which proposition should anchor the analysis?
+C. the eligible dispute does not relate to an offence.
 
-- A. All four can decide non-compoundable criminal offences.
-- B. The issue is controlled only by executive policy and not constitutional text.
-- C. Every outcome has the same appeal and enforcement route.
-- D. Mediation produces a party-made settlement, arbitration produces an adjudicatory award, ordinary Lok Adalat records compromise, and a PLA has limited post-conciliation merits power.
+D. the matter is a non-compoundable prosecution.
 
-**Answer: D**
 
-**Explanation:** Consent, jurisdiction, decision-maker and legal effect differ across dispute-resolution designs. The other options confuse the legal source, institution, beneficiary-identification rule, benefit-conferral rule or current-status gate.
+**Answer: C.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Subjective dissatisfaction is not the statutory test. [MCQ 11, option A: the chairperson dislikes a party's offer.]
+
+- **B - Incorrect:** The application must precede court proceedings. [MCQ 11, option B: the dispute is already before another court.]
+
+- **C - Correct:** This is the express post-conciliation condition. [MCQ 11, option C: the eligible dispute does not relate to an offence.]
+
+- **D - Incorrect:** Non-compoundable offences are excluded at the jurisdictional gate. [MCQ 11, option D: the matter is a non-compoundable prosecution.]
+
+
+**Examiner trap 11:** Do not convert 'compoundable offence may enter conciliation' into 'offence may be adjudicated on merits'.
+
+
+### MCQ 12
+
+Section 22D means that the PLA
+
+
+A. may ignore natural justice.
+
+B. must follow every CPC formality.
+
+C. must apply the Evidence Act mechanically.
+
+D. is guided by natural justice and equity though not bound by CPC or Evidence Act.
+
+
+**Answer: D.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Natural justice is expressly central. [MCQ 12, option A: may ignore natural justice.]
+
+- **B - Incorrect:** The statute releases the PLA from strict CPC binding. [MCQ 12, option B: must follow every CPC formality.]
+
+- **C - Incorrect:** The Evidence Act is likewise not binding. [MCQ 12, option C: must apply the Evidence Act mechanically.]
+
+- **D - Correct:** This states both flexibility and fairness. [MCQ 12, option D: is guided by natural justice and equity though not bound by CPC or Evidence Act.]
+
+
+**Examiner trap 12:** Procedural flexibility is not procedural lawlessness.
+
+
+### MCQ 13
+
+Which statement about a PLA pecuniary ceiling is safest?
+
+
+A. Use the amount fixed by the currently applicable notification and date the source.
+
+B. The 1987 Act permanently freezes one rupee figure.
+
+C. Every State may disregard the Central notification.
+
+D. Pecuniary jurisdiction is irrelevant to PLA competence.
+
+
+**Answer: A.**
+
+
+**Option-specific explanations:**
+
+- **A - Correct:** The Act uses a notification-sensitive framework. [MCQ 13, option A: Use the amount fixed by the currently applicable notification and date the source.]
+
+- **B - Incorrect:** A static figure may become stale. [MCQ 13, option B: The 1987 Act permanently freezes one rupee figure.]
+
+- **C - Incorrect:** The statutory allocation cannot be ignored. [MCQ 13, option C: Every State may disregard the Central notification.]
+
+- **D - Incorrect:** Value is an express jurisdictional filter. [MCQ 13, option D: Pecuniary jurisdiction is irrelevant to PLA competence.]
+
+
+**Examiner trap 13:** Never reproduce an undated ceiling as permanently fixed statutory text.
+
+
+### MCQ 14
+
+Which sequence is mandatory before PLA merits adjudication?
+
+
+A. Direct judgment followed by optional mediation.
+
+B. Conciliation, possible settlement terms where appropriate, then eligible adjudication after failure.
+
+C. Arbitration agreement followed by an arbitral award.
+
+D. Reference from a pending civil court after trial.
+
+
+**Answer: B.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** The statutory sequence does not begin with judgment. [MCQ 14, option A: Direct judgment followed by optional mediation.]
+
+- **B - Correct:** *Canara Bank* reinforces this conciliation-first route. [MCQ 14, option B: Conciliation, possible settlement terms where appropriate, then eligible adjudication after failure.]
+
+- **C - Incorrect:** PLA jurisdiction does not depend on an arbitration agreement. [MCQ 14, option C: Arbitration agreement followed by an arbitral award.]
+
+- **D - Incorrect:** The route is pre-litigation. [MCQ 14, option D: Reference from a pending civil court after trial.]
+
+
+**Examiner trap 14:** A PLA cannot treat conciliation as a decorative formality.
+
+
+### MCQ 15
+
+What is common to ordinary and Permanent Lok Adalat awards?
+
+
+A. Both always require consent.
+
+B. Both arise only in pending cases.
+
+C. Both receive deemed-decree status and statutory finality.
+
+D. Both decide criminal offences on merits.
+
+
+**Answer: C.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** PLA may adjudicate an eligible non-offence dispute after failed conciliation. [MCQ 15, option A: Both always require consent.]
+
+- **B - Incorrect:** PLA is pre-litigation, while ordinary sittings may receive pending cases. [MCQ 15, option B: Both arise only in pending cases.]
+
+- **C - Correct:** This is the principal shared legal effect. [MCQ 15, option C: Both receive deemed-decree status and statutory finality.]
+
+- **D - Incorrect:** Neither proposition about criminal merits is correct. [MCQ 15, option D: Both decide criminal offences on merits.]
+
+
+**Examiner trap 15:** Shared finality must not conceal different sources of decisional power.
+
+
+### MCQ 16
+
+Which proposition follows from *Jalour Singh*?
+
+
+A. Ordinary Lok Adalats may impose equitable compensation.
+
+B. Counsel consent is never relevant.
+
+C. Every award is immune from writ jurisdiction.
+
+D. Without compromise, an ordinary Lok Adalat has no award and no merits power.
+
+
+**Answer: D.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Equity guides settlement rather than adjudication. [MCQ 16, option A: Ordinary Lok Adalats may impose equitable compensation.]
+
+- **B - Incorrect:** The compromise must genuinely bind the parties. [MCQ 16, option B: Counsel consent is never relevant.]
+
+- **C - Incorrect:** The Court recognised limited Articles 226/227 challenge. [MCQ 16, option C: Every award is immune from writ jurisdiction.]
+
+- **D - Correct:** This is the case's central holding. [MCQ 16, option D: Without compromise, an ordinary Lok Adalat has no award and no merits power.]
+
+
+**Examiner trap 16:** Do not cite *Jalour Singh* for PLA's distinct Chapter VI-A power.
+
+
+### MCQ 17
+
+The principal function of Section 9 of the Family Courts Act is to
+
+
+A. require settlement efforts where consistent with the case.
+
+B. abolish adjudication of family disputes.
+
+C. make lawyers compulsory in every proceeding.
+
+D. transfer every family dispute to Lok Adalat.
+
+
+**Answer: A.**
+
+
+**Option-specific explanations:**
+
+- **A - Correct:** The section makes conciliation an institutional duty. [MCQ 17, option A: require settlement efforts where consistent with the case.]
+
+- **B - Incorrect:** Unresolved disputes remain judicially decidable. [MCQ 17, option B: abolish adjudication of family disputes.]
+
+- **C - Incorrect:** Section 13 says representation is not a right as of course. [MCQ 17, option C: make lawyers compulsory in every proceeding.]
+
+- **D - Incorrect:** Family Court jurisdiction remains distinct. [MCQ 17, option D: transfer every family dispute to Lok Adalat.]
+
+
+**Examiner trap 17:** Conciliation orientation does not make the Family Court a compromise-only body.
+
+
+### MCQ 18
+
+Which is within Section 7 Family Court jurisdiction?
+
+
+A. A constitutional challenge to a Union tax.
+
+B. Custody, maintenance and specified matrimonial or inter-spousal disputes.
+
+C. Every corporate insolvency proceeding.
+
+D. A criminal appeal from a Sessions Court.
+
+
+**Answer: B.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Tax constitutional review lies elsewhere. [MCQ 18, option A: A constitutional challenge to a Union tax.]
+
+- **B - Correct:** These are central statutory categories. [MCQ 18, option B: Custody, maintenance and specified matrimonial or inter-spousal disputes.]
+
+- **C - Incorrect:** Insolvency is outside the listed family jurisdiction. [MCQ 18, option C: Every corporate insolvency proceeding.]
+
+- **D - Incorrect:** The Family Court is not an appellate criminal court. [MCQ 18, option D: A criminal appeal from a Sessions Court.]
+
+
+**Examiner trap 18:** Use the statutory relationship-based categories rather than the vague phrase 'all family problems'.
+
+
+### MCQ 19
+
+Which statement about Family Court procedure is correct?
+
+
+A. All hearings must always be public.
+
+B. A party has an absolute right to any lawyer chosen.
+
+C. In-camera hearing is mandatory if either party desires it.
+
+D. The court need not state reasons.
+
+
+**Answer: C.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Section 11 permits privacy. [MCQ 19, option A: All hearings must always be public.]
+
+- **B - Incorrect:** Section 13 denies representation as of right. [MCQ 19, option B: A party has an absolute right to any lawyer chosen.]
+
+- **C - Correct:** This is the express privacy safeguard. [MCQ 19, option C: In-camera hearing is mandatory if either party desires it.]
+
+- **D - Incorrect:** Section 17 requires a reasoned judgment. [MCQ 19, option D: The court need not state reasons.]
+
+
+**Examiner trap 19:** Flexible evidence and private hearing do not remove the duty to decide fairly and give reasons.
+
+
+### MCQ 20
+
+Under Section 19 of the Family Courts Act, which outcome is excluded from ordinary appeal?
+
+
+A. Every final judgment.
+
+B. Every contested divorce decree.
+
+C. Every property order.
+
+D. A decree or order passed with parties' consent.
+
+
+**Answer: D.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Qualifying non-interlocutory judgments are ordinarily appealable. [MCQ 20, option A: Every final judgment.]
+
+- **B - Incorrect:** A contested final decree is not categorically excluded. [MCQ 20, option B: Every contested divorce decree.]
+
+- **C - Incorrect:** Property orders depend on the statutory conditions. [MCQ 20, option C: Every property order.]
+
+- **D - Correct:** Consent outcomes fall within the express bar. [MCQ 20, option D: A decree or order passed with parties' consent.]
+
+
+**Examiner trap 20:** State the maintenance-category revision route separately from the ordinary appeal.
+
+
+### MCQ 21
+
+Who establishes a Gram Nyayalaya under Section 3?
+
+
+A. The State Government after consultation with the High Court.
+
+B. The village Panchayat without State notification.
+
+C. NALSA by national order.
+
+D. Parliament separately for every village.
+
+
+**Answer: A.**
+
+
+**Option-specific explanations:**
+
+- **A - Correct:** This is the statutory establishment route. [MCQ 21, option A: The State Government after consultation with the High Court.]
+
+- **B - Incorrect:** A Panchayat cannot create the court by itself. [MCQ 21, option B: The village Panchayat without State notification.]
+
+- **C - Incorrect:** NALSA administers legal services, not Gram Nyayalaya creation. [MCQ 21, option C: NALSA by national order.]
+
+- **D - Incorrect:** The central Act enables State notification. [MCQ 21, option D: Parliament separately for every village.]
+
+
+**Examiner trap 21:** The Act says the State may establish; do not present universal operation as constitutionally compulsory.
+
+
+### MCQ 22
+
+What makes the Gram Nyayalaya a mobile-access institution?
+
+
+A. Its judgments circulate between High Courts.
+
+B. The Nyayadhikari holds mobile courts in villages within jurisdiction.
+
+C. Every party must file only online.
+
+D. Its jurisdiction follows any litigant nationwide.
+
+
+**Answer: B.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Appellate circulation is not mobility. [MCQ 22, option A: Its judgments circulate between High Courts.]
+
+- **B - Correct:** Section 9 provides local mobile sittings. [MCQ 22, option B: The Nyayadhikari holds mobile courts in villages within jurisdiction.]
+
+- **C - Incorrect:** The Act does not impose online-only access. [MCQ 22, option C: Every party must file only online.]
+
+- **D - Incorrect:** Territorial jurisdiction remains statutory. [MCQ 22, option D: Its jurisdiction follows any litigant nationwide.]
+
+
+**Examiner trap 22:** Mobile sitting reduces distance; it does not erase territorial limits.
+
+
+### MCQ 23
+
+Gram Nyayalaya civil and criminal jurisdiction comes primarily from
+
+
+A. customary village opinion.
+
+B. any dispute chosen by the Nyayadhikari.
+
+C. the Act's Schedules and authorised notifications.
+
+D. a National Lok Adalat calendar.
+
+
+**Answer: C.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Custom cannot create statutory jurisdiction. [MCQ 23, option A: customary village opinion.]
+
+- **B - Incorrect:** Judicial preference cannot replace legal competence. [MCQ 23, option B: any dispute chosen by the Nyayadhikari.]
+
+- **C - Correct:** This is the correct source. [MCQ 23, option C: the Act's Schedules and authorised notifications.]
+
+- **D - Incorrect:** Lok Adalat scheduling is irrelevant. [MCQ 23, option D: a National Lok Adalat calendar.]
+
+
+**Examiner trap 23:** Schedules may be lawfully altered; avoid treating a textbook list as permanently exhaustive.
+
+
+### MCQ 24
+
+Which appellate pairing is correct for Gram Nyayalayas?
+
+
+A. Civil to Supreme Court; criminal to High Court.
+
+B. Both directly to High Court.
+
+C. Both to DLSA.
+
+D. Criminal to Court of Session and civil to District Court, subject to exclusions.
+
+
+**Answer: D.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** The Act creates closer appellate routes. [MCQ 24, option A: Civil to Supreme Court; criminal to High Court.]
+
+- **B - Incorrect:** There is no universal direct High Court appeal. [MCQ 24, option B: Both directly to High Court.]
+
+- **C - Incorrect:** DLSA is not an appellate court. [MCQ 24, option C: Both to DLSA.]
+
+- **D - Correct:** Sections 33-34 state this pairing. [MCQ 24, option D: Criminal to Court of Session and civil to District Court, subject to exclusions.]
+
+
+**Examiner trap 24:** Appeals are category-limited; do not promise an appeal from every order.
+
+
+### MCQ 25
+
+Fast Track Courts are best described as
+
+
+A. additional court capacity under scheme/administrative arrangements.
+
+B. a permanent constitutional tier created by Article 39A.
+
+C. the same institution as Permanent Lok Adalat.
+
+D. tribunals under Article 323A.
+
+
+**Answer: A.**
+
+
+**Option-specific explanations:**
+
+- **A - Correct:** Their legal character follows the scheme and existing judicial administration. [MCQ 25, option A: additional court capacity under scheme/administrative arrangements.]
+
+- **B - Incorrect:** Article 39A creates no such tier. [MCQ 25, option B: a permanent constitutional tier created by Article 39A.]
+
+- **C - Incorrect:** PLA has defined statutory public-utility jurisdiction. [MCQ 25, option C: the same institution as Permanent Lok Adalat.]
+
+- **D - Incorrect:** Administrative tribunals are separate. [MCQ 25, option D: tribunals under Article 323A.]
+
+
+**Examiner trap 25:** The adjective fast describes case-management capacity, not a new species of court.
+
+
+### MCQ 26
+
+A Special Court's jurisdiction is determined by
+
+
+A. its popular name alone.
+
+B. the parent statute and valid designation or notification.
+
+C. NALSA policy irrespective of legislation.
+
+D. an ordinary Lok Adalat settlement.
+
+
+**Answer: B.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** A title has no independent jurisdictional force. [MCQ 26, option A: its popular name alone.]
+
+- **B - Correct:** This supplies the lawful source and scope. [MCQ 26, option B: the parent statute and valid designation or notification.]
+
+- **C - Incorrect:** NALSA cannot create unrelated criminal or civil jurisdiction. [MCQ 26, option C: NALSA policy irrespective of legislation.]
+
+- **D - Incorrect:** Settlement cannot constitute a Special Court. [MCQ 26, option D: an ordinary Lok Adalat settlement.]
+
+
+**Examiner trap 26:** Always name the parent law before describing a Special Court's powers.
+
+
+### MCQ 27
+
+How does mediation differ from an ordinary Lok Adalat?
+
+
+A. The mediator may impose a decree after failure.
+
+B. Mediation necessarily handles criminal prosecution.
+
+C. Mediation facilitates a party-made settlement under its governing route; ordinary Lok Adalat records compromise as a statutory award.
+
+D. There is no legal distinction.
+
+
+**Answer: C.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** A mediator does not adjudicate merely because talks fail. [MCQ 27, option A: The mediator may impose a decree after failure.]
+
+- **B - Incorrect:** Criminal scope depends on law and cannot be assumed. [MCQ 27, option B: Mediation necessarily handles criminal prosecution.]
+
+- **C - Correct:** This identifies the distinct source and effect. [MCQ 27, option C: Mediation facilitates a party-made settlement under its governing route; ordinary Lok Adalat records compromise as a statutory award.]
+
+- **D - Incorrect:** The regimes are legally different. [MCQ 27, option D: There is no legal distinction.]
+
+
+**Examiner trap 27:** Shared consent does not make every settlement process identical.
+
+
+### MCQ 28
+
+Where should detailed tribunal doctrine be developed for this syllabus?
+
+
+A. Inside every Lok Adalat answer.
+
+B. As a form of Gram Nyayalaya.
+
+C. As a Family Court subsection.
+
+D. In Topic 46, with only a boundary distinction here.
+
+
+**Answer: D.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** That would blur statutory institutions. [MCQ 28, option A: Inside every Lok Adalat answer.]
+
+- **B - Incorrect:** A tribunal is not a rural first-instance court by definition. [MCQ 28, option B: As a form of Gram Nyayalaya.]
+
+- **C - Incorrect:** Family Courts are statutory courts. [MCQ 28, option C: As a Family Court subsection.]
+
+- **D - Correct:** This preserves syllabus ownership. [MCQ 28, option D: In Topic 46, with only a boundary distinction here.]
+
+
+**Examiner trap 28:** Cross-reference tribunals; do not duplicate or collapse their constitutional doctrine.
+
+
+### MCQ 29
+
+Which answer best applies *Anita Kushwaha*?
+
+
+A. Assess whether justice mechanisms are effective, reasonably accessible, timely and affordable.
+
+B. Treat settlement totals as the only success measure.
+
+C. Assume any online platform guarantees access.
+
+D. Conclude that physical distance is constitutionally irrelevant.
+
+
+**Answer: A.**
+
+
+**Option-specific explanations:**
+
+- **A - Correct:** These are the access facets identified by the Court. [MCQ 29, option A: Assess whether justice mechanisms are effective, reasonably accessible, timely and affordable.]
+
+- **B - Incorrect:** Disposal alone says nothing about fairness or durability. [MCQ 29, option B: Treat settlement totals as the only success measure.]
+
+- **C - Incorrect:** Digital exclusion may obstruct access. [MCQ 29, option C: Assume any online platform guarantees access.]
+
+- **D - Incorrect:** Reasonable accessibility includes distance. [MCQ 29, option D: Conclude that physical distance is constitutionally irrelevant.]
+
+
+**Examiner trap 29:** Access is multidimensional; one favourable metric cannot substitute for the full test.
+
+
+### MCQ 30
+
+Which statement best evaluates digital Lok Adalat or mediation formats?
+
+
+A. They automatically cure unequal bargaining power.
+
+B. They may reduce travel but require privacy, language, disability and offline safeguards.
+
+C. They convert settlement into compulsory adjudication.
+
+D. They remove the need for legal advice.
+
+
+**Answer: B.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Technology can reproduce rather than cure power asymmetry. [MCQ 30, option A: They automatically cure unequal bargaining power.]
+
+- **B - Correct:** This gives both benefit and qualification. [MCQ 30, option B: They may reduce travel but require privacy, language, disability and offline safeguards.]
+
+- **C - Incorrect:** Mode does not alter the legal nature of settlement. [MCQ 30, option C: They convert settlement into compulsory adjudication.]
+
+- **D - Incorrect:** Advice may be more important where digital literacy is weak. [MCQ 30, option D: They remove the need for legal advice.]
+
+
+**Examiner trap 30:** Digital convenience must not become a new eligibility barrier.
+
+
+### MCQ 31
+
+Which metric best tests legal-aid quality?
+
+
+A. Only the number of camps held.
+
+B. Only the number of disposed cases.
+
+C. Timeliness, competent assistance, informed consent and durable outcomes.
+
+D. Only the size of the publicity budget.
+
+
+**Answer: C.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Camp counts do not establish effective assistance. [MCQ 31, option A: Only the number of camps held.]
+
+- **B - Incorrect:** Disposal may conceal pressure or repeat litigation. [MCQ 31, option B: Only the number of disposed cases.]
+
+- **C - Correct:** These measures connect service to justice quality. [MCQ 31, option C: Timeliness, competent assistance, informed consent and durable outcomes.]
+
+- **D - Incorrect:** Spending alone is not an outcome. [MCQ 31, option D: Only the size of the publicity budget.]
+
+
+**Examiner trap 31:** Input and disposal statistics must be connected to representation quality and user outcomes.
+
+
+### MCQ 32
+
+Which integrated conclusion is most accurate?
+
+
+A. Every access forum should replace ordinary courts.
+
+B. Finality is more important than consent.
+
+C. Local forums need no appellate or constitutional safeguards.
+
+D. Plural forums advance access only when jurisdiction, voluntariness, competence and review are preserved.
+
+
+**Answer: D.**
+
+
+**Option-specific explanations:**
+
+- **A - Incorrect:** Courts remain essential for coercive relief and adjudication. [MCQ 32, option A: Every access forum should replace ordinary courts.]
+
+- **B - Incorrect:** Consent is foundational to ordinary Lok Adalat legitimacy. [MCQ 32, option B: Finality is more important than consent.]
+
+- **C - Incorrect:** Statutory and constitutional legality remain necessary. [MCQ 32, option C: Local forums need no appellate or constitutional safeguards.]
+
+- **D - Correct:** This is the balanced constitutional conclusion. [MCQ 32, option D: Plural forums advance access only when jurisdiction, voluntariness, competence and review are preserved.]
+
+
+**Examiner trap 32:** A high-scoring conclusion joins accessibility to fairness rather than treating them as rivals.
+
 
 ## PYQS AND ANSWER PRACTICE
 
-### Verified PYQ 1 — UPSC Prelims 2020, GS Paper I, Question 9
+### Verified PYQ 1 - UPSC Prelims 2020, GS Paper I, Question 9
 
-**Exact question:** In India, Legal Services Authorities provide free legal services to which of
-the following type of citizens?
+**Question:** In India, Legal Services Authorities provide free legal services to which of the
+following type of citizens?
 
 1. Person with an annual income of less than Rs. 1,00,000
 2. Transgender with an annual income of less than Rs. 2,00,000
 3. Member of Other Backward Classes (OBC) with an annual income of less than Rs. 3,00,000
 4. All Senior Citizens
 
-- A. 1 and 2 only
-- B. 3 and 4 only
-- C. 2 and 3 only
-- D. 1 and 4 only
-
-**Verified answer:** A, reconciled with the applicable legal-services eligibility framework; no
-official UPSC key is claimed from the repository.
-
-### Verified PYQ 2 — UPSC Mains 2023, GS Paper II, Question 2
-
-**Exact question:** "Who are entitled to receive free legal aid? Assess the role of the National
-Legal Services Authority (NALSA) in rendering free legal aid in India." **10 marks, 150 words.**
-
-**Model answer:** Article 39A directs equal access to justice and the Legal Services Authorities Act
-1987 converts that objective into institutions and entitlements. Section 12 covers SC/ST members,
-women and children, trafficking/begar victims, persons with disability, disaster or violence
-victims, industrial workmen, persons in custody and persons below the prescribed income limit,
-subject to a prima facie case. NALSA lays down policy, frames economical schemes, coordinates State
-Authorities, supports Lok Adalats and legal-awareness programmes, and monitors delivery through the
-statutory ladder. Its strength is national coordination; its limits are uneven awareness, counsel
-quality, vacancies, distance and digital exclusion. NALSA should therefore be assessed not only by
-beneficiary counts but by timely advice, representation quality and durable case outcomes.
-
-**Why this earns marks:** It answers both entitlement and institutional role. **How to improve:**
-Name Section 12 and distinguish NALSA from SLSA/DLSA implementation. **Compression:** 30 words on
-law, 85 on role and 30 on limits/verdict.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Verified PYQ 2 — UPSC Mains 2023, GS Paper II, Question 2”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Article 39A directs equal access to justice and the Legal Services Authorities Act
-1987 converts that objective into institutions and entitlements. Section 12 covers SC/ST members,
-women and children, trafficking/begar victims, persons with disability, disaster or violence
-victims, industrial workmen, persons in custody and persons below the prescribed income limit,
-subject to a prima facie case. NALSA lays down policy, frames economical schemes, coordinates State
-Authorities, supports Lok Adalats and legal-awareness programmes, and monitors delivery through the
-statutory ladder. Its strength is national coordination; its limits are uneven awareness, counsel
-quality, vacancies, distance and digital exclusion. NALSA should therefore be assessed not only by
-beneficiary counts but by timely advice, representation quality and durable case outcomes.
+A. 1 and 2 only
+B. 3 and 4 only
+C. 2 and 3 only
+D. 1 and 4 only
 
-**Analytical body:**
+Answer withheld pending official UPSC key.
 
-1. **Claim and named evidence:** Verified PYQ 2 — UPSC Mains 2023, GS Paper II, Question 2 **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Exact question: "Who are entitled to receive free legal aid? Assess the role of the National **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Legal Services Authority (NALSA) in rendering free legal aid in India." 10 marks, 150 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Model answer: Article 39A directs equal access to justice and the Legal Services Authorities Act **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** converts that objective into institutions and entitlements. Section 12 covers SC/ST members, **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Demand route:** Apply the eligibility framework and the dated rules reflected in the paper; do
+not substitute today's income limits or infer a key from general Section 12 categories.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+### Verified PYQ 2 - UPSC Mains 2023, GS Paper II, Question 2
 
-**Qualified conclusion:** Article 39A directs equal access to justice and the Legal Services Authorities Act
-1987 converts that objective into institutions and entitlements. Section 12 covers SC/ST members,
-women and children, trafficking/begar victims, persons with disability, disaster or violence
-victims, industrial workmen, persons in custody and persons below the prescribed income limit,
-subject to a prima facie case. NALSA lays down policy, frames economical schemes, coordinates State
-Authorities, supports Lok Adalats and legal-awareness programmes, and monitors delivery through the
-statutory ladder. Its strength is national coordination; its limits are uneven awareness, counsel
-quality, vacancies, distance and digital exclusion. NALSA should therefore be assessed not only by
-beneficiary counts but by timely advice, representation quality and durable case outcomes.
+> Who are entitled to receive free legal aid? Assess the role of the National Legal Services
+> Authority (NALSA) in rendering free legal aid in India. (10 marks, 150 words)
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+Answer withheld pending official UPSC key.
 
-**How to improve this answer:** For “Verified PYQ 2 — UPSC Mains 2023, GS Paper II, Question 2”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Demand route:** Section 12 categories -> Section 13 prima facie gate -> NALSA Section 4
+functions -> State/district delivery -> qualified assessment.
 
-### Verified PYQ 3 — UPSC Mains 2024, GS Paper II, Question 2
+### Verified PYQ 3 - UPSC Mains 2024, GS Paper II, Question 2
 
-**Exact printed wording:** "Explain and distinguish between Lok Adalats and Arbitration Tribunals,
-Whether they intertain civil as well as criminal cases?" **10 marks, 150 words.**
+> Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain
+> civil as well as criminal cases? (10 marks, 150 words)
 
-**Model answer:** Lok Adalats are statutory settlement forums under the Legal Services Authorities
-Act. An ordinary Lok Adalat may consider pending or pre-litigation civil disputes and compoundable
-criminal matters, but cannot adjudicate merits when compromise fails. Its agreed award is deemed a
-civil-court decree, final and non-appealable. An arbitral tribunal derives jurisdiction from an
-arbitration agreement and the Arbitration and Conciliation Act; it adjudicates arbitrable civil or
-commercial disputes and issues a reasoned award subject to the statutory setting-aside and appeal
-framework. Criminal liability is generally non-arbitrable, whereas a Lok Adalat can settle a
-compoundable criminal case. A Permanent Lok Adalat is a separate public-utility pre-litigation
-hybrid and should not be used to describe every Lok Adalat.
+Answer withheld pending official UPSC key.
 
-**Why this earns marks:** It distinguishes source, consent, jurisdiction, merits power and review.
-**How to improve:** Preserve the paper's printed spellings only in the quotation, then use correct
-legal terminology. **Compression:** two 50-word forum capsules and a 30-word criminal-case verdict.
+**Demand route:** statutory source -> consensual versus adjudicatory power -> civil/compoundable
+criminal boundary -> award and challenge. Keep detailed tribunal doctrine with Topic 46.
 
-### Original solved Mains practice
+### SIX ORIGINAL MAINS MODELS
 
-**Demand decoding:** The directive **answer** requires a direct position on “Verified PYQ 3 — UPSC Mains 2024, GS Paper II, Question 2”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+#### Original Mains 1 - 10 marks, 150 words
 
-**Detailed examiner-grade model answer:**
+**Question:** Explain how Articles 39A and 21 together support access to justice.
 
-**Introduction and thesis:** Lok Adalats are statutory settlement forums under the Legal Services Authorities
-Act. An ordinary Lok Adalat may consider pending or pre-litigation civil disputes and compoundable
-criminal matters, but cannot adjudicate merits when compromise fails. Its agreed award is deemed a
-civil-court decree, final and non-appealable. An arbitral tribunal derives jurisdiction from an
-arbitration agreement and the Arbitration and Conciliation Act; it adjudicates arbitrable civil or
-commercial disputes and issues a reasoned award subject to the statutory setting-aside and appeal
-framework. Criminal liability is generally non-arbitrable, whereas a Lok Adalat can settle a
-compoundable criminal case. A Permanent Lok Adalat is a separate public-utility pre-litigation
-hybrid and should not be used to describe every Lok Adalat.
+<!-- ORIGINAL-MAINS-1-ANSWER-START -->
+Article 39A directs the State to secure equal-opportunity justice and free legal aid so
+economic or other disability does not deny access. Article 21 makes the promise concrete where
+liberty and fair procedure are involved. In *Hussainara Khatoon*, the Supreme Court treated speedy
+trial and necessary legal assistance for an indigent accused as elements of reasonable, fair and
+just procedure. *Khatri (II)* required assistance from first production and remand and imposed a
+duty on the judge to inform the accused. *Suk Das* set aside a conviction following failure to
+inform and provide aid. *Anita Kushwaha* connected access with an effective, reasonably accessible,
+timely and affordable adjudicatory mechanism. Thus Article 39A supplies the directive foundation
+and Article 21 supplies enforceable fair-procedure protection. However, the precise entitlement and
+remedy still depend on the proceeding and the governing statute.
+<!-- ORIGINAL-MAINS-1-ANSWER-END -->
 
-**Analytical body:**
+**[ORIGINAL MAINS 1 MODEL ANSWER ALPHANUMERIC WORD COUNT: 136]**
 
-1. **Claim and named evidence:** Verified PYQ 3 — UPSC Mains 2024, GS Paper II, Question 2 **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Exact printed wording: "Explain and distinguish between Lok Adalats and Arbitration Tribunals, **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Whether they intertain civil as well as criminal cases?" 10 marks, 150 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Model answer: Lok Adalats are statutory settlement forums under the Legal Services Authorities **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Act. An ordinary Lok Adalat may consider pending or pre-litigation civil disputes and compoundable **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Examiner note:** The model uses claim -> named evidence -> analysis -> qualification and answers
+the directive within the ceiling.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+#### Original Mains 2 - 10 marks, 150 words
 
-**Qualified conclusion:** Lok Adalats are statutory settlement forums under the Legal Services Authorities
-Act. An ordinary Lok Adalat may consider pending or pre-litigation civil disputes and compoundable
-criminal matters, but cannot adjudicate merits when compromise fails. Its agreed award is deemed a
-civil-court decree, final and non-appealable. An arbitral tribunal derives jurisdiction from an
-arbitration agreement and the Arbitration and Conciliation Act; it adjudicates arbitrable civil or
-commercial disputes and issues a reasoned award subject to the statutory setting-aside and appeal
-framework. Criminal liability is generally non-arbitrable, whereas a Lok Adalat can settle a
-compoundable criminal case. A Permanent Lok Adalat is a separate public-utility pre-litigation
-hybrid and should not be used to describe every Lok Adalat.
+**Question:** Distinguish an ordinary Lok Adalat from a National Lok Adalat.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+<!-- ORIGINAL-MAINS-2-ANSWER-START -->
+An ordinary Lok Adalat is a statutory settlement forum organised under Sections 19-21 of
+the Legal Services Authorities Act. It may receive pending cases and eligible pre-litigation
+matters, excludes non-compoundable offences, and can make an award only when parties compromise.
+*State of Punjab v Jalour Singh* confirms that it cannot decide merits after settlement fails.
 
-**How to improve this answer:** For “Verified PYQ 3 — UPSC Mains 2024, GS Paper II, Question 2”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+A National Lok Adalat is not a separate constitutional or appellate court. It is a coordinated
+nationwide exercise in which many ordinary Lok Adalat benches sit on a common date or theme under
+NALSA and State-level organisation. Each bench retains the same jurisdiction, consent requirement,
+award effect and failure route. National scale may improve awareness and disposal, but it cannot
+enlarge statutory power. Therefore the distinction is administrative scale, not juridical
+character.
+<!-- ORIGINAL-MAINS-2-ANSWER-END -->
 
-#### M1. Explain the constitutional and statutory architecture of free legal services in India.
+**[ORIGINAL MAINS 2 MODEL ANSWER ALPHANUMERIC WORD COUNT: 127]**
 
-**Directive:** Explain | **Marks:** 10 | **Answer in:** 150 words.
+**Examiner note:** The model uses claim -> named evidence -> analysis -> qualification and answers
+the directive within the ceiling.
 
-**Demand decode:** Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict.
+#### Original Mains 3 - 15 marks, 250 words
 
-**Model answer:** Article 39A supplies the equal-access objective, while Article 21 jurisprudence treats effective legal assistance and speedy justice as elements of fair procedure. The Legal Services Authorities Act 1987 creates NALSA, the Supreme Court Legal Services Committee, SLSAs, High Court Committees, DLSAs and TLSCs. Section 12 combines status-based vulnerability with income eligibility and a prima facie case screen. NALSA frames policy and schemes; State and district institutions translate them into representation, advice, awareness and Lok Adalat access. The architecture is therefore vertically coordinated but delivery-dependent. Its constitutional success must be measured by early advice, competent counsel, language/disability access and actual outcomes rather than formal eligibility alone.
+**Question:** Analyse the statutory architecture of free legal services under the Legal Services Authorities Act, 1987.
 
-**Why this earns marks:** The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive.
+<!-- ORIGINAL-MAINS-3-ANSWER-START -->
+The 1987 Act converts Article 39A's equal-justice direction into a national-to-local
+delivery architecture. Section 2(1)(c) defines legal service broadly to include assistance in a
+case or proceeding and legal advice.
 
-**How to improve:** Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion.
+NALSA under Sections 3-4 lays down policy, frames economical schemes, allocates funds, promotes
+legal literacy and research, supports social-justice litigation and monitors programmes. The
+Supreme Court Legal Services Committee administers aid for Supreme Court matters. At State level,
+the SLSA implements national policy, provides services and organises Lok Adalats; the High Court
+Committee handles matters before that court. DLSAs implement district programmes and coordinate
+Taluk Committees, which provide the local access point.
 
-**Compression plan:** 20-25 words of introduction, 85 words of organised analysis and 25-35 words of qualified conclusion.
+Entitlement is separately structured. Section 12 creates alternative gateways for SC/ST members,
+trafficking or begar victims, women and children, persons with disability, specified disaster or
+violence victims, industrial workmen, persons in custody and persons below prescribed income
+limits. Section 13 requires a prima facie case to prosecute or defend.
 
-**Demand decoding:** The directive **explain** requires a direct position on “M1. Explain the constitutional and statutory architecture of free legal services in India.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Article 39A supplies the equal-access objective, while Article 21 jurisprudence treats effective legal assistance and speedy justice as elements of fair procedure. The Legal Services Authorities Act 1987 creates NALSA, the Supreme Court Legal Services Committee, SLSAs, High Court Committees, DLSAs and TLSCs. Section 12 combines status-based vulnerability with income eligibility and a prima facie case screen. NALSA frames policy and schemes; State and district institutions translate them into representation, advice, awareness and Lok Adalat access. The architecture is therefore vertically coordinated but delivery-dependent. Its constitutional success must be measured by early advice, competent counsel, language/disability access and actual outcomes rather than formal eligibility alone.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M1. Explain the constitutional and statutory architecture of free legal services in India. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive: Explain Marks: 10 Answer in: 150 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Demand decode: Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve: Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Article 39A supplies the equal-access objective, while Article 21 jurisprudence treats effective legal assistance and speedy justice as elements of fair procedure. The Legal Services Authorities Act 1987 creates NALSA, the Supreme Court Legal Services Committee, SLSAs, High Court Committees, DLSAs and TLSCs. Section 12 combines status-based vulnerability with income eligibility and a prima facie case screen. NALSA frames policy and schemes; State and district institutions translate them into representation, advice, awareness and Lok Adalat access. The architecture is therefore vertically coordinated but delivery-dependent. Its constitutional success must be measured by early advice, competent counsel, language/disability access and actual outcomes rather than formal eligibility alone.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M1. Explain the constitutional and statutory architecture of free legal services in India.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M2. Distinguish ordinary Lok Adalats from Permanent Lok Adalats.
-
-**Directive:** Distinguish | **Marks:** 15 | **Answer in:** 250 words.
-
-**Demand decode:** Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict.
-
-**Model answer:** An ordinary Lok Adalat under Chapter VI handles pending or pre-litigation disputes within court jurisdiction, excluding non-compoundable offences. It conciliates only; State of Punjab v. Jalour Singh (2008) confirms that it cannot decide merits after failure. A PLA under Chapter VI-A is a standing pre-litigation forum limited to public utility services. It must first conciliate, but may adjudicate an eligible dispute after conciliation fails, as sustained in Bar Council of India v. Union of India (2012). Both awards are final, binding and deemed civil-court decrees, yet their jurisdictional basis differs. The core distinction is not permanence alone but sector, stage and post-failure decisional power.
-
-**Why this earns marks:** The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive.
-
-**How to improve:** Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion.
-
-**Compression plan:** 20-25 words of introduction, 175 words of organised analysis and 25-35 words of qualified conclusion.
-
-**Demand decoding:** The directive **answer** requires a direct position on “M2. Distinguish ordinary Lok Adalats from Permanent Lok Adalats.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** An ordinary Lok Adalat under Chapter VI handles pending or pre-litigation disputes within court jurisdiction, excluding non-compoundable offences. It conciliates only; State of Punjab v. Jalour Singh (2008) confirms that it cannot decide merits after failure. A PLA under Chapter VI-A is a standing pre-litigation forum limited to public utility services. It must first conciliate, but may adjudicate an eligible dispute after conciliation fails, as sustained in Bar Council of India v. Union of India (2012). Both awards are final, binding and deemed civil-court decrees, yet their jurisdictional basis differs. The core distinction is not permanence alone but sector, stage and post-failure decisional power.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M2. Distinguish ordinary Lok Adalats from Permanent Lok Adalats. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive: Distinguish Marks: 15 Answer in: 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Demand decode: Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve: Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** An ordinary Lok Adalat under Chapter VI handles pending or pre-litigation disputes within court jurisdiction, excluding non-compoundable offences. It conciliates only; State of Punjab v. Jalour Singh (2008) confirms that it cannot decide merits after failure. A PLA under Chapter VI-A is a standing pre-litigation forum limited to public utility services. It must first conciliate, but may adjudicate an eligible dispute after conciliation fails, as sustained in Bar Council of India v. Union of India (2012). Both awards are final, binding and deemed civil-court decrees, yet their jurisdictional basis differs. The core distinction is not permanence alone but sector, stage and post-failure decisional power.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M2. Distinguish ordinary Lok Adalats from Permanent Lok Adalats.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M3. Critically assess finality and consent in Lok Adalat awards.
-
-**Directive:** Critically assess | **Marks:** 15 | **Answer in:** 250 words.
-
-**Demand decode:** Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict.
-
-**Model answer:** Statutory finality makes an agreed Lok Adalat award enforceable as a civil-court decree and prevents routine appeals, reducing delay and preserving settlements. Its legitimacy, however, derives from genuine compromise. An ordinary Lok Adalat cannot use docket pressure, unequal bargaining or an adjudicatory opinion to manufacture consent. Where compromise fails, a pending case returns to court. A writ challenge may remain on narrow grounds such as fraud, absence of consent, jurisdictional error or denial of natural justice. PLA awards involve a different statutory design because eligible disputes may be decided after failed conciliation. Finality should therefore be defended as settlement enforcement, not as insulation of coercion or illegality.
-
-**Why this earns marks:** The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive.
-
-**How to improve:** Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion.
-
-**Compression plan:** 20-25 words of introduction, 175 words of organised analysis and 25-35 words of qualified conclusion.
-
-**Demand decoding:** The directive **critically assess** requires a direct position on “M3. Critically assess finality and consent in Lok Adalat awards.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Statutory finality makes an agreed Lok Adalat award enforceable as a civil-court decree and prevents routine appeals, reducing delay and preserving settlements. Its legitimacy, however, derives from genuine compromise. An ordinary Lok Adalat cannot use docket pressure, unequal bargaining or an adjudicatory opinion to manufacture consent. Where compromise fails, a pending case returns to court. A writ challenge may remain on narrow grounds such as fraud, absence of consent, jurisdictional error or denial of natural justice. PLA awards involve a different statutory design because eligible disputes may be decided after failed conciliation. Finality should therefore be defended as settlement enforcement, not as insulation of coercion or illegality.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M3. Critically assess finality and consent in Lok Adalat awards. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive: Critically assess Marks: 15 Answer in: 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Demand decode: Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve: Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Statutory finality makes an agreed Lok Adalat award enforceable as a civil-court decree and prevents routine appeals, reducing delay and preserving settlements. Its legitimacy, however, derives from genuine compromise. An ordinary Lok Adalat cannot use docket pressure, unequal bargaining or an adjudicatory opinion to manufacture consent. Where compromise fails, a pending case returns to court. A writ challenge may remain on narrow grounds such as fraud, absence of consent, jurisdictional error or denial of natural justice. PLA awards involve a different statutory design because eligible disputes may be decided after failed conciliation. Finality should therefore be defended as settlement enforcement, not as insulation of coercion or illegality.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M3. Critically assess finality and consent in Lok Adalat awards.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M4. Evaluate Permanent Lok Adalats as public-utility justice institutions.
-
-**Directive:** Evaluate | **Marks:** 20 | **Answer in:** 250 words.
-
-**Demand decode:** Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict.
-
-**Model answer:** Permanent Lok Adalats address recurring pre-litigation disputes in notified public utility services such as transport, power, water, sanitation, hospitals and insurance. Their sequence—application, conciliation, proposed settlement and, on failure, limited merits adjudication—offers an enforceable remedy without requiring ordinary litigation. Canara Bank v. G.S. Jayarama (2022) stresses fidelity to the conciliation procedure. Benefits include low cost, sector focus and early resolution; risks include jurisdictional overreach, weak legal assistance and confusing PLA adjudication with ordinary Lok Adalat compromise. Pecuniary limits and notified services are date-sensitive and must be verified. PLAs are valuable when competence, procedural fairness, reasoned decision and constitutional review operate together.
-
-**Why this earns marks:** The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive.
-
-**How to improve:** Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion.
-
-**Compression plan:** 20-25 words of introduction, 175 words of organised analysis and 25-35 words of qualified conclusion.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “M4. Evaluate Permanent Lok Adalats as public-utility justice institutions.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Permanent Lok Adalats address recurring pre-litigation disputes in notified public utility services such as transport, power, water, sanitation, hospitals and insurance. Their sequence—application, conciliation, proposed settlement and, on failure, limited merits adjudication—offers an enforceable remedy without requiring ordinary litigation. Canara Bank v. G.S. Jayarama (2022) stresses fidelity to the conciliation procedure. Benefits include low cost, sector focus and early resolution; risks include jurisdictional overreach, weak legal assistance and confusing PLA adjudication with ordinary Lok Adalat compromise. Pecuniary limits and notified services are date-sensitive and must be verified. PLAs are valuable when competence, procedural fairness, reasoned decision and constitutional review operate together.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M4. Evaluate Permanent Lok Adalats as public-utility justice institutions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive: Evaluate Marks: 20 Answer in: 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Demand decode: Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve: Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Permanent Lok Adalats address recurring pre-litigation disputes in notified public utility services such as transport, power, water, sanitation, hospitals and insurance. Their sequence—application, conciliation, proposed settlement and, on failure, limited merits adjudication—offers an enforceable remedy without requiring ordinary litigation. Canara Bank v. G.S. Jayarama (2022) stresses fidelity to the conciliation procedure. Benefits include low cost, sector focus and early resolution; risks include jurisdictional overreach, weak legal assistance and confusing PLA adjudication with ordinary Lok Adalat compromise. Pecuniary limits and notified services are date-sensitive and must be verified. PLAs are valuable when competence, procedural fairness, reasoned decision and constitutional review operate together.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M4. Evaluate Permanent Lok Adalats as public-utility justice institutions.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M5. Discuss the design and implementation challenges of Gram Nyayalayas.
-
-**Directive:** Discuss | **Marks:** 15 | **Answer in:** 250 words.
-
-**Demand decode:** Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict.
-
-**Model answer:** The Gram Nyayalayas Act 2008 envisages rural first-instance courts at intermediate-Panchayat or grouped-Panchayat level, a Nyayadhikari qualified as a Judicial Magistrate First Class, mobile sittings, scheduled civil/criminal jurisdiction, conciliation and appeals to District or Sessions Courts. This design reduces distance and procedural cost while preserving judicial character. Yet establishment is State-dependent and proximity without judges, staff, awareness, transport, language support and coordination with police/legal aid cannot deliver access. Gram Nyayalayas must not be confused with Panchayats or Lok Adalats. Reform requires rational jurisdiction mapping, regular mobile calendars, DLSA integration and transparent dated performance data.
-
-**Why this earns marks:** The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive.
-
-**How to improve:** Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion.
-
-**Compression plan:** 20-25 words of introduction, 175 words of organised analysis and 25-35 words of qualified conclusion.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “M5. Discuss the design and implementation challenges of Gram Nyayalayas.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The Gram Nyayalayas Act 2008 envisages rural first-instance courts at intermediate-Panchayat or grouped-Panchayat level, a Nyayadhikari qualified as a Judicial Magistrate First Class, mobile sittings, scheduled civil/criminal jurisdiction, conciliation and appeals to District or Sessions Courts. This design reduces distance and procedural cost while preserving judicial character. Yet establishment is State-dependent and proximity without judges, staff, awareness, transport, language support and coordination with police/legal aid cannot deliver access. Gram Nyayalayas must not be confused with Panchayats or Lok Adalats. Reform requires rational jurisdiction mapping, regular mobile calendars, DLSA integration and transparent dated performance data.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M5. Discuss the design and implementation challenges of Gram Nyayalayas. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive: Discuss Marks: 15 Answer in: 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Demand decode: Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve: Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The Gram Nyayalayas Act 2008 envisages rural first-instance courts at intermediate-Panchayat or grouped-Panchayat level, a Nyayadhikari qualified as a Judicial Magistrate First Class, mobile sittings, scheduled civil/criminal jurisdiction, conciliation and appeals to District or Sessions Courts. This design reduces distance and procedural cost while preserving judicial character. Yet establishment is State-dependent and proximity without judges, staff, awareness, transport, language support and coordination with police/legal aid cannot deliver access. Gram Nyayalayas must not be confused with Panchayats or Lok Adalats. Reform requires rational jurisdiction mapping, regular mobile calendars, DLSA integration and transparent dated performance data.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M5. Discuss the design and implementation challenges of Gram Nyayalayas.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M6. Compare Family Courts, fast-track courts, special courts and commercial courts.
-
-**Directive:** Compare | **Marks:** 15 | **Answer in:** 250 words.
-
-**Demand decode:** Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict.
-
-**Model answer:** Family Courts derive from the 1984 Act and combine specialised adjudication with settlement, privacy and flexible evidentiary reception. Fast-track courts are additional-capacity schemes implemented through States and High Courts rather than a distinct constitutional tier. Special courts obtain subject or offence jurisdiction from a parent statute/notification. Commercial Courts are statutory civil courts using specified-value jurisdiction, case management and pre-institution mediation rules. Therefore the labels cannot be interchanged: source determines judges, jurisdiction, procedure, appeal and permanence. Specialisation can improve expertise and speed, but only adequate staffing and fair process prevent a faster forum from becoming a weaker one.
-
-**Why this earns marks:** The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive.
-
-**How to improve:** Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion.
-
-**Compression plan:** 20-25 words of introduction, 175 words of organised analysis and 25-35 words of qualified conclusion.
-
-**Demand decoding:** The directive **compare** requires a direct position on “M6. Compare Family Courts, fast-track courts, special courts and commercial courts.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Family Courts derive from the 1984 Act and combine specialised adjudication with settlement, privacy and flexible evidentiary reception. Fast-track courts are additional-capacity schemes implemented through States and High Courts rather than a distinct constitutional tier. Special courts obtain subject or offence jurisdiction from a parent statute/notification. Commercial Courts are statutory civil courts using specified-value jurisdiction, case management and pre-institution mediation rules. Therefore the labels cannot be interchanged: source determines judges, jurisdiction, procedure, appeal and permanence. Specialisation can improve expertise and speed, but only adequate staffing and fair process prevent a faster forum from becoming a weaker one.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M6. Compare Family Courts, fast-track courts, special courts and commercial courts. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive: Compare Marks: 15 Answer in: 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Demand decode: Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve: Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Family Courts derive from the 1984 Act and combine specialised adjudication with settlement, privacy and flexible evidentiary reception. Fast-track courts are additional-capacity schemes implemented through States and High Courts rather than a distinct constitutional tier. Special courts obtain subject or offence jurisdiction from a parent statute/notification. Commercial Courts are statutory civil courts using specified-value jurisdiction, case management and pre-institution mediation rules. Therefore the labels cannot be interchanged: source determines judges, jurisdiction, procedure, appeal and permanence. Specialisation can improve expertise and speed, but only adequate staffing and fair process prevent a faster forum from becoming a weaker one.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M6. Compare Family Courts, fast-track courts, special courts and commercial courts.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M7. Analyse power asymmetry and digital exclusion in settlement-oriented justice.
-
-**Directive:** Analyse | **Marks:** 20 | **Answer in:** 250 words.
-
-**Demand decode:** Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict.
-
-**Model answer:** Settlement systems lower cost and preserve relationships, but apparent consent may conceal unequal bargaining between insurer and victim, employer and worker, institution and consumer, or digitally connected and excluded parties. Fair design requires independent legal advice, understandable terms, interpreter and disability support, private communication, time to reflect and a clear record of consent. E-Lok Adalats and online mediation reduce travel but need identity assurance, secure documents, language access and an offline alternative. Disposal volume cannot be the sole metric. Durable compliance, informed consent and equitable outcomes better express Article 39A.
-
-**Why this earns marks:** The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive.
-
-**How to improve:** Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion.
-
-**Compression plan:** 20-25 words of introduction, 175 words of organised analysis and 25-35 words of qualified conclusion.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “M7. Analyse power asymmetry and digital exclusion in settlement-oriented justice.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Settlement systems lower cost and preserve relationships, but apparent consent may conceal unequal bargaining between insurer and victim, employer and worker, institution and consumer, or digitally connected and excluded parties. Fair design requires independent legal advice, understandable terms, interpreter and disability support, private communication, time to reflect and a clear record of consent. E-Lok Adalats and online mediation reduce travel but need identity assurance, secure documents, language access and an offline alternative. Disposal volume cannot be the sole metric. Durable compliance, informed consent and equitable outcomes better express Article 39A.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M7. Analyse power asymmetry and digital exclusion in settlement-oriented justice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive: Analyse Marks: 20 Answer in: 250 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Demand decode: Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve: Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Settlement systems lower cost and preserve relationships, but apparent consent may conceal unequal bargaining between insurer and victim, employer and worker, institution and consumer, or digitally connected and excluded parties. Fair design requires independent legal advice, understandable terms, interpreter and disability support, private communication, time to reflect and a clear record of consent. E-Lok Adalats and online mediation reduce travel but need identity assurance, secure documents, language access and an offline alternative. Disposal volume cannot be the sole metric. Durable compliance, informed consent and equitable outcomes better express Article 39A.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M7. Analyse power asymmetry and digital exclusion in settlement-oriented justice.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M8. Design a forum-selection test for an access-to-justice problem.
-
-**Directive:** Design | **Marks:** 10 | **Answer in:** 150 words.
-
-**Demand decode:** Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict.
-
-**Model answer:** Ask five questions. First, is coercive interim relief or authoritative precedent required? If yes, use a competent court. Second, is settlement voluntary and relationship-preserving? Consider mediation or ordinary Lok Adalat. Third, is it a pre-litigation public-utility dispute within PLA limits? Use the PLA sequence. Fourth, is local first-instance civil/criminal jurisdiction under the Gram Nyayalayas Act available? Fifth, is specialist statutory jurisdiction—family, commercial or offence-specific—triggered? Then verify appeal, legal aid, limitation, current notification and digital/offline access. Forum follows legal competence and fairness, not disposal targets.
-
-**Why this earns marks:** The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive.
-
-**How to improve:** Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion.
-
-**Compression plan:** 20-25 words of introduction, 85 words of organised analysis and 25-35 words of qualified conclusion.
-
-**Demand decoding:** The directive **answer** requires a direct position on “M8. Design a forum-selection test for an access-to-justice problem.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Ask five questions. First, is coercive interim relief or authoritative precedent required? If yes, use a competent court. Second, is settlement voluntary and relationship-preserving? Consider mediation or ordinary Lok Adalat. Third, is it a pre-litigation public-utility dispute within PLA limits? Use the PLA sequence. Fourth, is local first-instance civil/criminal jurisdiction under the Gram Nyayalayas Act available? Fifth, is specialist statutory jurisdiction—family, commercial or offence-specific—triggered? Then verify appeal, legal aid, limitation, current notification and digital/offline access. Forum follows legal competence and fairness, not disposal targets.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M8. Design a forum-selection test for an access-to-justice problem. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive: Design Marks: 10 Answer in: 150 words. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Demand decode: Define the exact constitutional issue, organise by legal source and effect, use named evidence, confront the strongest limit and reach a qualified verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: The answer follows claim -> named Article/amendment/case -> analysis -> qualification and directly obeys the directive. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve: Convert the first sentence into a precise thesis, underline the controlling Articles/cases and reserve the final two sentences for a graded conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Ask five questions. First, is coercive interim relief or authoritative precedent required? If yes, use a competent court. Second, is settlement voluntary and relationship-preserving? Consider mediation or ordinary Lok Adalat. Third, is it a pre-litigation public-utility dispute within PLA limits? Use the PLA sequence. Fourth, is local first-instance civil/criminal jurisdiction under the Gram Nyayalayas Act available? Fifth, is specialist statutory jurisdiction—family, commercial or offence-specific—triggered? Then verify appeal, legal aid, limitation, current notification and digital/offline access. Forum follows legal competence and fairness, not disposal targets.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M8. Design a forum-selection test for an access-to-justice problem.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+This division combines uniform policy with decentralised delivery. Yet institutional presence does
+not prove meaningful access. Counsel quality, early information, language, distance and timely
+assistance must be assessed, consistently with *Khatri (II)* and *Anita Kushwaha*.
+<!-- ORIGINAL-MAINS-3-ANSWER-END -->
+
+**[ORIGINAL MAINS 3 MODEL ANSWER ALPHANUMERIC WORD COUNT: 189]**
+
+**Examiner note:** The model uses claim -> named evidence -> analysis -> qualification and answers
+the directive within the ceiling.
+
+#### Original Mains 4 - 15 marks, 250 words
+
+**Question:** Distinguish ordinary Lok Adalats and Permanent Lok Adalats with reference to jurisdiction, process and legal effect.
+
+<!-- ORIGINAL-MAINS-4-ANSWER-START -->
+Ordinary and Permanent Lok Adalats share a statute but not the same jurisdiction or
+decisional power. Under Sections 19-21, an ordinary Lok Adalat may receive a pending case or an
+eligible pre-litigation matter within the relevant court's jurisdiction, except a
+non-compoundable offence. It facilitates compromise. If settlement succeeds, the award is deemed a
+civil-court decree, final and binding, with no statutory appeal and court-fee refund in a referred
+case. If settlement fails, the case returns to court or pre-litigation parties pursue the ordinary
+remedy. *Jalour Singh* forbids merits adjudication.
+
+Chapter VI-A creates a standing PLA for defined public utility services. A party must apply before
+bringing the dispute to court, within statutory subject and notification-sensitive pecuniary
+limits. Sections 22C-22D require conciliation first. If agreement fails, the PLA may decide an
+eligible dispute on merits only if it does not relate to an offence. *Canara Bank* confirms that
+the conciliation sequence cannot be skipped.
+
+Section 22E gives the PLA award final, binding and executable deemed-decree status. Both regimes
+retain narrow constitutional review for foundational illegality. Thus the decisive distinction is
+consent-only ordinary settlement versus bounded conciliation-cum-adjudication in public-utility
+pre-litigation disputes.
+<!-- ORIGINAL-MAINS-4-ANSWER-END -->
+
+**[ORIGINAL MAINS 4 MODEL ANSWER ALPHANUMERIC WORD COUNT: 189]**
+
+**Examiner note:** The model uses claim -> named evidence -> analysis -> qualification and answers
+the directive within the ceiling.
+
+#### Original Mains 5 - 20 marks, 250 words
+
+**Question:** Evaluate Family Courts and Gram Nyayalayas as specialised access-to-justice institutions.
+
+<!-- ORIGINAL-MAINS-5-ANSWER-START -->
+Family Courts and Gram Nyayalayas pursue Article 39A's access objective through different
+statutory designs. The Family Courts Act, 1984 creates specialised urban and other notified courts
+after High Court consultation. Section 7 concentrates matrimonial, inter-spousal property,
+legitimacy, maintenance, guardianship, custody and access disputes. Section 9 prioritises
+settlement; Sections 10-17 adapt procedure, privacy, evidence and legal assistance while retaining
+a reasoned judicial decision. Section 19 provides a High Court appeal or revision structure with
+express exclusions.
+
+The Gram Nyayalayas Act, 2008 enables a State, after High Court consultation, to establish rural
+first-instance courts. Mobile sittings under Section 9 reduce distance. Civil and criminal
+jurisdiction follows schedules and valid notifications; civil disputes receive a conciliation
+effort, but unresolved matters are adjudicated. Sections 33-34 send permitted criminal and civil
+appeals to the Court of Session and District Court respectively, subject to statutory limits.
+
+Both institutions combine specialisation or proximity with judicial power, unlike a
+compromise-only ordinary Lok Adalat. Their promise is lower cost, less distance and relationship-
+sensitive procedure. Their limitation is implementation: establishment, judges, staff,
+infrastructure, awareness and legal-aid quality vary. They should therefore be judged by
+accessible and fair outcomes, not labels or disposal totals alone.
+<!-- ORIGINAL-MAINS-5-ANSWER-END -->
+
+**[ORIGINAL MAINS 5 MODEL ANSWER ALPHANUMERIC WORD COUNT: 195]**
+
+**Examiner note:** The model uses claim -> named evidence -> analysis -> qualification and answers
+the directive within the ceiling.
+
+#### Original Mains 6 - 20 marks, 250 words
+
+**Question:** Assess whether India's plural alternative and specialised justice forums improve access without weakening procedural fairness.
+
+<!-- ORIGINAL-MAINS-6-ANSWER-START -->
+India's plural design recognises that one forum cannot fit every dispute. Article 39A
+directs equal-opportunity justice, while *Anita Kushwaha* requires an effective, reasonably
+accessible, timely and affordable mechanism. The 1987 Act provides legal-aid authorities and
+ordinary Lok Adalats for consensual settlement. Chapter VI-A adds a PLA for public-utility
+pre-litigation disputes, with conciliation followed by bounded merits adjudication. Family Courts
+combine relationship-sensitive settlement with judgment; Gram Nyayalayas combine local and mobile
+access with scheduled civil and criminal jurisdiction.
+
+This differentiation can reduce cost, travel, delay and adversarial harm. National Lok Adalat
+drives can coordinate reach, while Fast Track Courts add capacity and Special Courts focus a
+statutory subject. However, labels do not guarantee justice. *Jalour Singh* shows why an ordinary
+Lok Adalat cannot impose a compromise. *Canara Bank* shows why a PLA cannot skip conciliation.
+Digital formats may exclude persons lacking devices, language support, privacy or accessible
+interfaces. Family and local courts also need trained judges, staff and informed legal assistance.
+
+Reform should measure counsel quality, voluntariness, time and cost saved, compliance, geographic
+reach and the availability of reasons and review. Plural forums improve access only when exact
+jurisdiction, genuine consent, natural justice and constitutional supervision remain intact.
+<!-- ORIGINAL-MAINS-6-ANSWER-END -->
+
+**[ORIGINAL MAINS 6 MODEL ANSWER ALPHANUMERIC WORD COUNT: 197]**
+
+**Examiner note:** The model uses claim -> named evidence -> analysis -> qualification and answers
+the directive within the ceiling.

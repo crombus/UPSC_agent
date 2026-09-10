@@ -1,207 +1,156 @@
-ASCII MASTER FLOW — PANEL 1/12: Government as property-holder, contractor and suable legal person
-ROOT QUESTION
-How can the State exercise public power yet remain answerable as a legal actor?
-
+ASCII MASTER FLOW — PANEL 1/12: CONSTITUTIONAL MAP
+==================================================
 PART XII, CHAPTER III
-+-- Articles 294-297 -> succession, ownerless and maritime property
-+-- Article 298 -> trade, business, property and contract capacity
-+-- Article 299 -> mandatory government-contract form
-+-- Article 300 -> suits, proceedings and liability continuity.
+294-295 succession -> 296 escheat/lapse/bona vacantia -> 297 maritime value
+-> 298 trade/property/contract capacity -> 299 mandatory contract form
+-> 300 suits/proceedings
 
-SEPARATE LINK
-Article 300A -> private property may be deprived only by authority of law.
+ADJACENT ARTICLE 300A -> no deprivation of property except by authority of law.
 
-MASTER DISTINCTION
-official personal protection != governmental immunity from review or liability.
-MUST REMEMBER: Keep Articles 294-300 legal capacity, Article 300A property protection and
-  Article 361 personal immunity on separate constitutional tracks.
+MASTER LIMIT: Public power creates special form, not blanket immunity.
 
-ASCII MASTER FLOW — PANEL 2/12: Succession, ownerless property and reorganisation
-ARTICLES 294-295
-commencement continuity -> Union/State succeeds to property, rights and liabilities.
+ASCII MASTER FLOW — PANEL 2/12: COMMENCEMENT SUCCESSION
+=======================================================
+ARTICLE 294
+Dominion property/assets -> Union | Governor's Province -> corresponding State
+rights/liabilities/obligations follow, subject to constitutional adjustments.
 
+ARTICLE 295
+former Indian State property/right/liability -> Union where Union purpose/list connection applies
+-> otherwise corresponding State, subject to agreement.
+
+LATER REORGANISATION -> governing statute/transfer instrument, not an invented formula.
+
+ASCII MASTER FLOW — PANEL 3/12: OWNERLESS AND MARITIME PROPERTY
+===============================================================
 ARTICLE 296
-escheat/lapse/bona vacantia -> location rule + governmental-purpose proviso.
+escheat = no lawful heir | lapse = failed/terminated title | bona vacantia = ownerless
+property in a State -> that State; other case -> Union
+subject to the governmental-purpose possession/control proviso.
 
 ARTICLE 297
-specified maritime lands, minerals and resources -> Union.
+specified ocean-bed lands, minerals and things of value + EEZ resources -> Union.
 
-LATER REORGANISATION
-statute/agreement -> assets + debt + guarantees + employees
--> contracts/licences + records + pending proceedings.
+TRAP: Article 296 is not compulsory acquisition; Article 297 does not state every zone distance.
 
-TRAP
-no universal apportionment formula; use the exact reorganisation instrument.
+ASCII MASTER FLOW — PANEL 4/12: ARTICLE 298 CAPACITY AND ACCOUNTABILITY
+======================================================================
+UNION + STATE EXECUTIVE POWER
+trade/business + acquire/hold/dispose property + make contracts
+        |
+        v
+PROVISOS preserve the competent legislature's control
+        |
+        v
+Article 14 + statutory law + appropriation + audit + procurement discipline remain.
 
-ASCII MASTER FLOW — PANEL 3/12: Articles 298 and 299: capacity before valid commitment
-ARTICLE 298
-executive capacity to trade, do business, acquire/hold/dispose property and contract.
-                              |
-                              v
-ARTICLE 299 MANDATORY FORM
-expressed in President/Governor's name
-+ executed on behalf of that constitutional head
-+ authorised person and prescribed manner.
-                              |
-                              v
-valid public commitment -> no personal liability of head/authorised signatory.
+CAPACITY != VALID ARTICLE 299 COMMITMENT.
 
-TRAP
-capacity != authority | signature != authorisation | personal immunity != State immunity.
+ASCII MASTER FLOW — PANEL 5/12: ARTICLE 299 CONTRACT FORM
+=========================================================
+VALID GOVERNMENT CONTRACT
+1. expressed to be made by President/Governor
+2. executed on behalf of that constitutional head
+3. executed by authorised person in authorised manner
 
-ASCII MASTER FLOW — PANEL 4/12: Defective contract and restitution
-ARTICLE 299 DEFECT
-purported contract unenforceable as government contract.
+Bhikraj Jaipuria + Mulamchand -> mandatory public-policy safeguards;
+performance, ratification or estoppel cannot supply missing form.
 
-INDEPENDENT SECTION 70 ROUTE
+Article 299(2) -> no personal liability of head/authorised executant;
+governmental liability on a valid contract remains.
+
+ASCII MASTER FLOW — PANEL 6/12: DEFECTIVE BARGAIN AND RESTITUTION
+================================================================
+ARTICLE 299 DEFECT -> no enforcement as government contract
+        |
+        v
+CONTRACT ACT SECTION 70?
 lawful act/delivery + non-gratuitous intention + government enjoys benefit
--> restitution measured by benefit.
+        |
+        v
+restitution measured by proved benefit
 
-B.K. Mondal & Sons (1961)
-non-gratuitous benefit can create restitutionary liability.
+B.K. Mondal -> benefit route | Mulamchand -> claimant must prove/account.
+LIMIT: restitution does not validate the bargain or guarantee its stated price.
 
-Mulamchand v. State of Madhya Pradesh (1968)
-mandatory Article 299 form remains separate.
-
-LIMIT
-quantum meruit does not validate the contract or automatically award contract price.
-
-ASCII MASTER FLOW — PANEL 5/12: Article 300 and the civil-suit route
+ASCII MASTER FLOW — PANEL 7/12: ARTICLE 300 AND CIVIL PROCEDURE
+===============================================================
 PROPER PARTY
-Union matter -> Union of India | State matter -> name of State.
+Union matter -> Union of India | State matter -> name of State (CPC 79)
+        |
+        v
+CPC 80(1) two-month notice for covered suit
+OR CPC 80(2) court leave for urgent/immediate relief
+        |
+        v
+Limitation Act 15(2) excludes required notice time
+        |
+        v
+CPC 82: qualifying decree/order/award must remain unsatisfied three months before execution.
 
-CPC SECTION 79
-party description in government litigation.
+PROCEDURE != SUBSTANTIVE IMMUNITY.
 
-CPC SECTION 80
-ordinary official-act suit -> two-month prior notice
--> Section 80(2) court-controlled urgent/immediate-relief route.
+ASCII MASTER FLOW — PANEL 8/12: PRIVATE TORT AND IMMUNITY EVOLUTION
+==================================================================
+P & O Steam Navigation -> colonial sovereign/non-sovereign divide
+        v
+Vidyawati (1962) -> ordinary vehicle negligence; State vicariously liable
+        v
+Kasturi Lal (decided 1964) -> older police custody immunity line
+        v
+N. Nagendra Rao (1994) -> broad immunity untenable; narrow inalienable residue
 
-PROCEEDING
-cause of action -> correct party -> notice/exception -> pleading/evidence
--> decree/appeal/enforcement subject to law.
+TEST: duty + breach + causation + damage + course of employment + statutory defence.
+VERDICT: no blanket sovereign immunity.
 
-TRAP
-procedural notice != substantive sovereign immunity.
+ASCII MASTER FLOW — PANEL 9/12: CONSTITUTIONAL COMPENSATION
+===========================================================
+Rudul Sah -> unlawful detention compensation
+Nilabati Behera -> public-law Article 21 remedy distinct from private tort
+D.K. Basu -> custodial safeguards + enforceable compensation
+        |
+        v
+Articles 32/226 vindicate established Fundamental-Right violation
 
-ASCII MASTER FLOW — PANEL 6/12: Private tort and the narrowing of sovereign immunity
-P & O Steam Navigation (1861)
-colonial sovereign/non-sovereign distinction.
-             v
-State of Rajasthan v. Vidyawati (1962)
-ordinary operational negligence can attract State liability.
-             v
-Kasturi Lal v. State of Uttar Pradesh (1964)
-older police-sovereign immunity line.
-             v
-N. Nagendra Rao & Co. (1994)
-broad immunity untenable in welfare State; any residue is narrow.
+COEXISTS WITH, BUT DOES NOT UNIVERSALLY REPLACE:
+civil damages | prosecution | discipline | statutory compensation.
 
-VERDICT
-no blanket formula: identify function, duty, causation and remedy.
-CLOSE DISTINCTION: Separate a valid Article 299 contract, Contract Act section 70 restitution,
-  private tort, constitutional tort and judicial review.
+ASCII MASTER FLOW — PANEL 10/12: ARTICLE 300A EVOLUTION AND TAXONOMY
+===================================================================
+PRE-44TH: Articles 19(1)(f) + 31 as Fundamental Rights
+44TH AMENDMENT: delete/omit them -> insert Article 300A outside Part III
+        |
+        v
+Bishambhar Dayal -> executive instruction alone is not authority of law
+Jilubhai -> constitutional, non-Fundamental status; former adequacy rule not restored
 
-ASCII MASTER FLOW — PANEL 7/12: Constitutional tort and vicarious responsibility
-PUBLIC-LAW COMPENSATION
-Rudul Sah v. State of Bihar (1983) -> unlawful detention compensation.
-Nilabati Behera v. State of Orissa (1993) -> Fundamental-Right remedy distinct.
-State of Andhra Pradesh v. Challa Ramkrishna Reddy (2000)
--> prison-rights accountability.
+ACQUISITION permanent | REQUISITION temporary use/possession
+REGULATION controls use | DEPRIVATION determined by substantive legal effect.
 
-PRIVATE TORT
-duty + breach + causation + damage + vicarious-employment nexus.
+ASCII MASTER FLOW — PANEL 11/12: PUBLIC PURPOSE, COMPENSATION AND OCCUPATION
+============================================================================
+K.T. Plantation
+law + competence + public purpose + no colourable confiscation/illusory compensation
+BUT no automatic constitutional market-value formula in every case.
 
-OFFICIAL RESPONSIBILITY
-State liability may coexist with disciplinary, criminal or personal liability.
+Vidya Devi
+unsupported executive occupation + no acquisition/compensation -> Article 300A violation
+State could not use adverse possession to sanitise its own unlawful taking on those facts.
 
-LIMIT
-writ compensation vindicates rights; it does not replace every civil trial.
+Bimal Kumar Shah
+notice -> hearing -> reasons -> public purpose -> compensation/restitution
+-> efficient process -> conclusion.
 
-ASCII MASTER FLOW — PANEL 8/12: Property, procurement, arbitration and protection boundaries
-ARTICLE 300A
-deprivation of private property only by authority of law.
+ASCII MASTER FLOW — PANEL 12/12: REMEDY AND ANSWER ROUTE
+========================================================
+VALID CONTRACT BREACH -> contract/arbitration
+DEFECTIVE FORM + BENEFIT -> section 70 restitution
+OPERATIONAL WRONG -> private tort
+FUNDAMENTAL-RIGHT VIOLATION -> constitutional compensation
+PROPERTY DEPRIVATION -> Article 300A + acquisition-law remedies
+ILLEGAL DECISION -> judicial review
+PERSONAL OFFICIAL FAULT -> criminal/disciplinary/personal civil route
 
-PROCUREMENT RAIL
-need/sanction -> fair criteria/competition -> reasoned award
--> Article 299 execution -> performance/payment -> CAG/audit.
-
-ARBITRATION
-valid authorised clause -> tribunal -> award -> statutory challenge/enforcement.
-
-PROTECTION FIREWALL
-Article 361 | Article 299 signatory rule | CPC notice | sanction | privilege
-are separate sources with separate limits.
-
-CURRENT
-GeM/manual/draft reform != constitutional or statutory amendment.
-
-ASCII MASTER FLOW — PANEL 9/12: Article 300A: acquisition discipline and seven safeguards
-ARTICLE 300A
-every person -> no deprivation of property except by authority of law.
-
-K.T. Plantation (2011)
-public purpose + no arbitrary/confiscatory law + no illusory compensation.
-
-Vidya Devi (2020)
-unsupported executive occupation != lawful acquisition.
-
-Bimal Kumar Shah (2024 INSC 435)
-notice -> hearing -> reasoned decision -> public purpose
--> fair compensation/restitution -> efficient process -> conclusion.
-
-TRAP
-constitutional right outside Part III; neither a Fundamental Right nor a mere statutory right.
-
-ASCII MASTER FLOW — PANEL 10/12: State secrets: evidence privilege and RTI are distinct
-LITIGATION-EVIDENCE ROUTE
-BSA section 129 -> unpublished official records concerning affairs of State.
-BSA section 130 -> official confidence where public interest would suffer.
-Raj Narain (1975) + S.P. Gupta (1981) -> no absolute executive secrecy.
-
-RTI ROUTE
-section 8(1)(a) specified prejudicial harms
--> section 8(2) public-interest override
--> section 22 priority over inconsistent law, including Official Secrets Act.
-
-DECISION TEST
-exact source -> identified harm -> severance -> public-interest balance -> reasons -> review.
-
-ASCII MASTER FLOW — PANEL 11/12: Choose the correct remedy and protection
-START WITH THE WRONG, NOT A BLANKET IMMUNITY
-valid contract breach -> contract/arbitration.
-defective form + retained benefit -> section 70 restitution.
-operational civil wrong -> private tort.
-Fundamental-Right violation -> public-law compensation.
-property deprivation -> Article 300A + acquisition-law remedy.
-illegal administrative decision -> judicial review.
-
-PROCEDURE / PROTECTION FIREWALL
-CPC 79 proper party | CPC 80 notice/urgent route | BNSS 218 sanction
-| Article 361 | Article 299(2) | BSA 129-130.
-
-Each source has its own trigger, decision-maker, limit and remedy.
-
-ASCII MASTER FLOW — PANEL 12/12: UPSC synthesis: no blanket immunity in government under law
-PRELIMS FIREWALL
-294/295 succession | 296 ownerless property | 297 maritime resources
-| 298 capacity | 299 form | 300 suits | 300A property right
-| Section 70 restitution != valid contract | Section 80 notice != immunity.
-
-MAINS SPINE
-legal person -> property/succession -> capacity/form
--> restitution -> suit procedure -> private tort
--> constitutional tort -> procurement/arbitration -> qualified reform.
-
-PYQ SPINE
-2025 immunity statements test source separation, not blanket State immunity.
-
-VERDICT
-public power carries special form and protection, but remains legally answerable.
-
-CURRENT CONTROL: 5 SEPTEMBER 2026
-Bernard Francis Joseph Vaz, 2025 INSC 3, reinforces timely adequate
-Article 300A compensation. Contract, restitution, tort, constitutional
-compensation, review and official protection remain separate routes.
-LEGAL/SOURCE LIMIT: The official constitutional and procedural texts remain controlling; 2025
-  INSC 3 reinforces timely adequate compensation under Article 300A.
+UPSC SPINE
+map Article -> identify wrong -> select route -> state ingredients -> name case
+-> add procedural boundary -> prevent double recovery -> qualified rule-of-law verdict.

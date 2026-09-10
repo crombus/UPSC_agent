@@ -1,16 +1,19 @@
 ---
-title: "Directive Principles — Solved Practice Workbook"
 topic_key: polity-08
+subject: Polity
+section: Subject-wide Syllabus
+title: Directive Principles of State Policy - Solved Practice Workbook
 ---
-# Directive Principles — Solved Practice Workbook
+
+# Directive Principles of State Policy - Solved Practice Workbook
+
+> **Source and status control:** Constitution Part IV; canonical Basic, Advanced and complete topic owners; audited PYQ ledgers; OCR-searchable local polity books; official constitutional-amendment texts and Supreme Court judgments checked through 7 September 2026. Exactly 32 original MCQs appear before eight audited PYQs. Only UPSC 2025 Prelims Q55 prints the held final local-official key; the other six objective answer letters are withheld.
 
 ## BASIC MCQS / REMEDIATION
 
-### Original hard MCQs
+Exactly **32 original MCQs** precede the PYQ block. Keys rotate `ABCDABCDABCDABCDABCDABCDABCDABCD`. Every option has a unique substantive explanation and every question ends with a unique question-specific Examiner trap.
 
-> Answer placement follows strict A → B → C → D rotation, repeated seven times.
-
-#### Q1. With reference to Articles 36 and 37, consider the following statements:
+### Q1. With reference to Articles 36 and 37, consider the following statements:
 
 1. "State" in Part IV has the same meaning as in Part III.
 2. Every Directive Principle creates an enforceable claim once Parliament has not acted for a reasonable period.
@@ -18,27 +21,37 @@ topic_key: polity-08
 
 Which statements are correct?
 
-- A. 1 and 3 only
-- B. 2 only
-- C. 1 and 2 only
-- D. 1, 2 and 3
+A. 1 and 3 only
+B. 2 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
 **Answer: A.**
 
-**Explanation:** Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains.
+- **A:** Correct: Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "2 only" fails against the controlling rule. Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains.
+- **C:** Incorrect: the proposition "1 and 2 only" fails against the controlling rule. Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains.
+- **D:** Incorrect: the proposition "1, 2 and 3" fails against the controlling rule. Statements 1 and 3 reproduce Articles 36-37. Delay does not automatically convert every directive into a judicially enforceable claim. Courts may use DPSP interpretively, but Article 37 remains.
 
-#### Q2. Which one of the following most accurately describes the historical analogy used for DPSP?
+**Examiner trap:** Article 36 imports the Part III meaning of State; it does not create a narrower Union-only addressee.
 
-- A. They convert conventions of Cabinet government into judicial remedies.
-- B. They resemble the Instrument of Instructions under the Government of India Act, 1935, but are addressed to democratic legislative and executive authorities.
-- C. They reproduce the enforceable social rights in the United States Bill of Rights.
-- D. They are identical to Irish constitutional provisions and were copied without adaptation.
+### Q2. Which one of the following most accurately describes the historical analogy used for DPSP?
+
+A. They convert conventions of Cabinet government into judicial remedies.
+B. They resemble the Instrument of Instructions under the Government of India Act, 1935, but are addressed to democratic legislative and executive authorities.
+C. They reproduce the enforceable social rights in the United States Bill of Rights.
+D. They are identical to Irish constitutional provisions and were copied without adaptation.
 
 **Answer: B.**
 
-**Explanation:** Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement.
+- **A:** Incorrect: the proposition "They convert conventions of Cabinet government into judicial remedies." fails against the controlling rule. Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement.
+- **B:** Correct: Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "They reproduce the enforceable social rights in the United States Bill of Rights." fails against the controlling rule. Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement.
+- **D:** Incorrect: the proposition "They are identical to Irish constitutional provisions and were copied without adaptation." fails against the controlling rule. Ireland was the immediate constitutional source, with a Spanish antecedent. Ambedkar's Instrument-of-Instructions analogy explains guidance to public authorities, not judicial enforcement.
 
-#### Q3. Consider the following pairs:
+**Examiner trap:** Irish borrowing identifies the immediate model, while the Spanish antecedent and Indian adaptation prevent a photocopy claim.
+
+### Q3. Consider the following pairs:
 
 1. Article 39(b) - distribution of material resources to subserve the common good
 2. Article 39(c) - prevention of concentration of wealth and means of production to common detriment
@@ -47,38 +60,53 @@ Which statements are correct?
 
 Which pairs are correctly matched?
 
-- A. 1, 2, 3 and 4
-- B. 1 and 2 only
-- C. 1, 2 and 4 only
-- D. 2, 3 and 4 only
+A. 1, 2, 3 and 4
+B. 1 and 2 only
+C. 1, 2 and 4 only
+D. 2, 3 and 4 only
 
 **Answer: C.**
 
-**Explanation:** Equal pay is Article 39(a). Article 39(e) protects worker/child health and prevents economic necessity from forcing unsuitable avocations.
+- **A:** Incorrect: the proposition "1, 2, 3 and 4" fails against the controlling rule. Pairs 1, 2 and 4 are correct. Equal pay for equal work is Article 39(d); Article 39(e) protects worker and child health and prevents economic necessity from forcing unsuitable avocations.
+- **B:** Incorrect: the proposition "1 and 2 only" fails against the controlling rule. Pairs 1, 2 and 4 are correct. Equal pay for equal work is Article 39(d); Article 39(e) protects worker and child health and prevents economic necessity from forcing unsuitable avocations.
+- **C:** Correct: Pairs 1, 2 and 4 are correct. Equal pay for equal work is Article 39(d); Article 39(e) protects worker and child health and prevents economic necessity from forcing unsuitable avocations. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "2, 3 and 4 only" fails against the controlling rule. Pairs 1, 2 and 4 are correct. Equal pay for equal work is Article 39(d); Article 39(e) protects worker and child health and prevents economic necessity from forcing unsuitable avocations.
 
-#### Q4. Which directive contains an express qualification tied to the State's economic capacity and development?
+**Examiner trap:** Article 39(d), not Article 39(a) or 39(e), contains equal pay for equal work.
 
-- A. Article 42
-- B. Article 40
-- C. Article 39A
-- D. Article 41
+### Q4. Which directive contains an express qualification tied to the State's economic capacity and development?
+
+A. Article 42
+B. Article 40
+C. Article 39A
+D. Article 41
 
 **Answer: D.**
 
-**Explanation:** Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development."
+- **A:** Incorrect: the proposition "Article 42" fails against the controlling rule. Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development."
+- **B:** Incorrect: the proposition "Article 40" fails against the controlling rule. Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development."
+- **C:** Incorrect: the proposition "Article 39A" fails against the controlling rule. Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development."
+- **D:** Correct: Article 41 qualifies provision for work, education and public assistance by "within the limits of its economic capacity and development." This option states the controlling rule without adding a wider immunity or remedy.
 
-#### Q5. Which classification statement is most accurate?
+**Examiner trap:** The capacity qualifier belongs expressly to Article 41; it cannot be silently added to every directive.
 
-- A. Article 43 overlaps: living wage is commonly socialistic, while cottage industries give it a Gandhian dimension.
-- B. Article 48A is constitutionally labelled Gandhian.
-- C. Articles 47 and 48 can belong to only one scholarly category each.
-- D. Article 44 is classified as socialistic by the constitutional text.
+### Q5. Which classification statement is most accurate?
+
+A. Article 43 overlaps: living wage is commonly socialistic, while cottage industries give it a Gandhian dimension.
+B. Article 48A is constitutionally labelled Gandhian.
+C. Articles 47 and 48 can belong to only one scholarly category each.
+D. Article 44 is classified as socialistic by the constitutional text.
 
 **Answer: A.**
 
-**Explanation:** The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications.
+- **A:** Correct: The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "Article 48A is constitutionally labelled Gandhian." fails against the controlling rule. The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications.
+- **C:** Incorrect: the proposition "Articles 47 and 48 can belong to only one scholarly category each." fails against the controlling rule. The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications.
+- **D:** Incorrect: the proposition "Article 44 is classified as socialistic by the constitutional text." fails against the controlling rule. The threefold taxonomy is scholarly, not constitutional. Articles 43, 47 and 48 overlap in standard classifications.
 
-#### Q6. Consider the following amendment changes:
+**Examiner trap:** A textbook category helps revision but cannot displace the constitutional wording of an overlapping Article.
+
+### Q6. Consider the following amendment changes:
 
 1. 42nd - Articles 39A, 43A and 48A
 2. 44th - Article 38(2)
@@ -87,109 +115,154 @@ Which pairs are correctly matched?
 
 Which is the correct assessment?
 
-- A. 1, 2 and 3 only
-- B. All four are correctly matched
-- C. 2 and 3 only
-- D. 1 and 4 only
+A. 1, 2 and 3 only
+B. All four are correctly matched
+C. 2 and 3 only
+D. 1 and 4 only
 
 **Answer: B.**
 
-**Explanation:** All are correct. The 42nd Amendment also changed the child-protection clause reflected in Article 39(f).
+- **A:** Incorrect: the proposition "1, 2 and 3 only" fails against the controlling rule. The Forty-second Amendment recast Article 39(f) and inserted Articles 39A, 43A and 48A; the Forty-fourth inserted Article 38(2), the Eighty-sixth inserted Article 21A and recast Article 45, and the Ninety-seventh inserted Article 43B.
+- **B:** Correct: The Forty-second Amendment recast Article 39(f) and inserted Articles 39A, 43A and 48A; the Forty-fourth inserted Article 38(2), the Eighty-sixth inserted Article 21A and recast Article 45, and the Ninety-seventh inserted Article 43B. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "2 and 3 only" fails against the controlling rule. The Forty-second Amendment recast Article 39(f) and inserted Articles 39A, 43A and 48A; the Forty-fourth inserted Article 38(2), the Eighty-sixth inserted Article 21A and recast Article 45, and the Ninety-seventh inserted Article 43B.
+- **D:** Incorrect: the proposition "1 and 4 only" fails against the controlling rule. The Forty-second Amendment recast Article 39(f) and inserted Articles 39A, 43A and 48A; the Forty-fourth inserted Article 38(2), the Eighty-sixth inserted Article 21A and recast Article 45, and the Ninety-seventh inserted Article 43B.
 
-#### Q7. After *Union of India v. Rajendra N. Shah* (2021), which position is correct?
+**Examiner trap:** Amendment questions test both insertion and recasting: Article 45 survived the Eighty-sixth Amendment in a new form.
 
-- A. The entire 97th Amendment, including Article 43B, is void.
-- B. Parliament has no competence over multi-State co-operative societies.
-- C. Part IXB is operative for multi-State co-operative societies, but its application to State co-operative societies failed for want of ratification; Article 43B remains.
-- D. Part IXB is fully valid for every State co-operative society because co-operatives serve a DPSP.
+### Q7. After *Union of India v. Rajendra N. Shah* (2021), which position is correct?
+
+A. The entire 97th Amendment, including Article 43B, is void.
+B. Parliament has no competence over multi-State co-operative societies.
+C. Part IXB is operative for multi-State co-operative societies, but its application to State co-operative societies failed for want of ratification; Article 43B remains.
+D. Part IXB is fully valid for every State co-operative society because co-operatives serve a DPSP.
 
 **Answer: C.**
 
-**Explanation:** The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification.
+- **A:** Incorrect: the proposition "The entire 97th Amendment, including Article 43B, is void." fails against the controlling rule. The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification.
+- **B:** Incorrect: the proposition "Parliament has no competence over multi-State co-operative societies." fails against the controlling rule. The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification.
+- **C:** Correct: The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "Part IXB is fully valid for every State co-operative society because co-operatives serve a DPSP." fails against the controlling rule. The Court used federal amendment procedure and severability. Welfare purpose could not cure the failure to obtain required State ratification.
 
-#### Q8. Which statement about the current Article 31C is correct?
+**Examiner trap:** A welfare objective cannot cure failure to follow the State-ratification requirement under Article 368.
 
-- A. It protects every law implementing any Directive Principle from every Fundamental Right.
-- B. It was wholly erased when the 42nd Amendment extension was struck down.
-- C. It prevents courts from examining whether a law genuinely implements Article 39(b) or (c).
-- D. It protects genuine Article 39(b)/(c) laws against Articles 14 and 19, while judicial review of the nexus and basic structure remains.
+### Q8. Which statement about the current Article 31C is correct?
+
+A. It protects every law implementing any Directive Principle from every Fundamental Right.
+B. It was wholly erased when the 42nd Amendment extension was struck down.
+C. It prevents courts from examining whether a law genuinely implements Article 39(b) or (c).
+D. It protects genuine Article 39(b)/(c) laws against Articles 14 and 19, while judicial review of the nexus and basic structure remains.
 
 **Answer: D.**
 
-**Explanation:** This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*.
+- **A:** Incorrect: the proposition "It protects every law implementing any Directive Principle from every Fundamental Right." fails against the controlling rule. This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*.
+- **B:** Incorrect: the proposition "It was wholly erased when the 42nd Amendment extension was struck down." fails against the controlling rule. This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*.
+- **C:** Incorrect: the proposition "It prevents courts from examining whether a law genuinely implements Article 39(b) or (c)." fails against the controlling rule. This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*.
+- **D:** Correct: This is the combined effect of *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. This option states the controlling rule without adding a wider immunity or remedy.
 
-#### Q9. Under *Property Owners Association (2024)*, which formulation is correct?
+**Examiner trap:** Minerva Mills invalidated the all-DPSP extension of Article 31C, not the surviving Article 39(b)/(c) shield.
 
-- A. A privately owned resource may fall under Article 39(b) depending on its nature, community impact, scarcity, concentration and common-good dimension.
-- B. Every private asset is automatically a material resource of the community.
-- C. No privately owned resource can ever fall within Article 39(b).
-- D. Article 39(b) applies only after the State has first nationalised the resource.
+### Q9. Under *Property Owners Association (2024)*, which formulation is correct?
+
+A. A privately owned resource may fall under Article 39(b) depending on its nature, community impact, scarcity, concentration and common-good dimension.
+B. Every private asset is automatically a material resource of the community.
+C. No privately owned resource can ever fall within Article 39(b).
+D. Article 39(b) applies only after the State has first nationalised the resource.
 
 **Answer: A.**
 
-**Explanation:** The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good.
+- **A:** Correct: The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "Every private asset is automatically a material resource of the community." fails against the controlling rule. The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good.
+- **C:** Incorrect: the proposition "No privately owned resource can ever fall within Article 39(b)." fails against the controlling rule. The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good.
+- **D:** Incorrect: the proposition "Article 39(b) applies only after the State has first nationalised the resource." fails against the controlling rule. The nine-judge Bench rejected both automatic inclusion and automatic exclusion. Distribution may take multiple forms and must subserve the common good.
 
-#### Q10. Arrange the following in correct constitutional sequence:
+**Examiner trap:** Property Owners Association rejects both automatic inclusion and automatic exclusion of privately owned resources.
+
+### Q10. Arrange the following in correct constitutional sequence:
 
 1. *I.C. Golaknath (1967)*
 2. 25th Amendment
 3. *Minerva Mills (1980)*
 4. *Kesavananda Bharati (1973)*
 
-- A. 2-1-4-3
-- B. 1-2-4-3
-- C. 1-4-2-3
-- D. 2-4-1-3
+A. 2-1-4-3
+B. 1-2-4-3
+C. 1-4-2-3
+D. 2-4-1-3
 
 **Answer: B.**
 
-**Explanation:** 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance.
+- **A:** Incorrect: the proposition "2-1-4-3" fails against the controlling rule. 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance.
+- **B:** Correct: 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "1-4-2-3" fails against the controlling rule. 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance.
+- **D:** Incorrect: the proposition "2-4-1-3" fails against the controlling rule. 1967 -> 1971 -> 1973 -> 1980. The sequence traces unamendability, Article 31C, basic structure and restoration of Part III-Part IV balance.
 
-#### Q11. Which chain most accurately explains the constitutionalisation of education?
+**Examiner trap:** The chronology is causal: Golaknath produced an amendment response before Kesavananda imposed the basic-structure limit.
 
-- A. Article 46 alone created the enforceable right for every age group.
-- B. Article 45 directly became enforceable without amendment or legislation.
-- C. Articles 41/45 informed *Unni Krishnan*; the 86th Amendment inserted Article 21A and recast Article 45; the RTE Act supplied a statutory mechanism.
-- D. Article 21A was inserted by the 42nd Amendment and later removed from Part III.
+### Q11. Which chain most accurately explains the constitutionalisation of education?
+
+A. Article 46 alone created the enforceable right for every age group.
+B. Article 45 directly became enforceable without amendment or legislation.
+C. Articles 41/45 informed *Unni Krishnan*; the 86th Amendment inserted Article 21A and recast Article 45; the RTE Act supplied a statutory mechanism.
+D. Article 21A was inserted by the 42nd Amendment and later removed from Part III.
 
 **Answer: C.**
 
-**Explanation:** The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute.
+- **A:** Incorrect: the proposition "Article 46 alone created the enforceable right for every age group." fails against the controlling rule. The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute.
+- **B:** Incorrect: the proposition "Article 45 directly became enforceable without amendment or legislation." fails against the controlling rule. The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute.
+- **C:** Correct: The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "Article 21A was inserted by the 42nd Amendment and later removed from Part III." fails against the controlling rule. The chain illustrates DPSP -> rights interpretation -> constitutional amendment -> statute.
 
-#### Q12. Which statement correctly distinguishes Article 40 and the 74th Amendment?
+**Examiner trap:** Education became enforceable through interpretation, amendment and statute; Article 45 did not enforce itself.
 
-- A. The 74th Amendment repealed Article 40.
-- B. Article 40 expressly directs creation of Municipalities.
-- C. Article 40 applies only to Parliament and not States.
-- D. Article 40 expressly concerns village panchayats; Municipalities are separately constitutionalised in Part IXA.
+### Q12. Which statement correctly distinguishes Article 40 and the 74th Amendment?
+
+A. The 74th Amendment repealed Article 40.
+B. Article 40 expressly directs creation of Municipalities.
+C. Article 40 applies only to Parliament and not States.
+D. Article 40 expressly concerns village panchayats; Municipalities are separately constitutionalised in Part IXA.
 
 **Answer: D.**
 
-**Explanation:** Local-government implementation overlaps, but the Article's exact text must be preserved.
+- **A:** Incorrect: the proposition "The 74th Amendment repealed Article 40." fails against the controlling rule. Local-government implementation overlaps, but the Article's exact text must be preserved.
+- **B:** Incorrect: the proposition "Article 40 expressly directs creation of Municipalities." fails against the controlling rule. Local-government implementation overlaps, but the Article's exact text must be preserved.
+- **C:** Incorrect: the proposition "Article 40 applies only to Parliament and not States." fails against the controlling rule. Local-government implementation overlaps, but the Article's exact text must be preserved.
+- **D:** Correct: Local-government implementation overlaps, but the Article's exact text must be preserved. This option states the controlling rule without adding a wider immunity or remedy.
 
-#### Q13. With reference to labour implementation, which is most accurate as of 28 August 2026?
+**Examiner trap:** Article 40 names village panchayats; municipalities have their separate Part IXA route.
 
-- A. An official 21 November 2025 announcement brought all four Labour Codes into effect, but enactment does not prove uniform compliance or State capacity.
-- B. None of the four Labour Codes has commenced.
-- C. Old central labour statutes must still be cited as the sole current framework without qualification.
-- D. Only the Code on Wages is relevant to Articles 42-43A.
+### Q13. Which statement correctly describes Article 38(2)?
+
+A. It directs the State to minimise inequalities in income and endeavour to eliminate inequalities in status, facilities and opportunities among individuals and groups.
+B. It is an original 1950 clause limited to inequality between citizens and non-citizens.
+C. It creates an immediately enforceable individual claim to identical income.
+D. It was inserted by the Forty-second Amendment together with Article 39A.
 
 **Answer: A.**
 
-**Explanation:** Current examples should use the four Codes, while retaining implementation and federal-rule cautions.
+- **A:** Correct: The Forty-fourth Amendment inserted Article 38(2), and its reach extends beyond income to status, facilities and opportunities among individuals and groups in different areas or vocations. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "It is an original 1950 clause limited to inequality between citizens and non-citizens." fails against the controlling rule. The Forty-fourth Amendment inserted Article 38(2), and its reach extends beyond income to status, facilities and opportunities among individuals and groups in different areas or vocations.
+- **C:** Incorrect: the proposition "It creates an immediately enforceable individual claim to identical income." fails against the controlling rule. The Forty-fourth Amendment inserted Article 38(2), and its reach extends beyond income to status, facilities and opportunities among individuals and groups in different areas or vocations.
+- **D:** Incorrect: the proposition "It was inserted by the Forty-second Amendment together with Article 39A." fails against the controlling rule. The Forty-fourth Amendment inserted Article 38(2), and its reach extends beyond income to status, facilities and opportunities among individuals and groups in different areas or vocations.
 
-#### Q14. Which is the correct legal-services institutional order from national to grassroots?
+**Examiner trap:** Article 38(2) reaches status, facilities and opportunities as well as income.
 
-- A. NALSA -> DLSA -> SLSA -> Taluk Committee
-- B. NALSA -> SLSA -> DLSA -> Taluk Legal Services Committee
-- C. Supreme Court -> Parliament -> DLSA -> Gram Sabha
-- D. NALSA -> Finance Commission -> High Court -> Lok Sabha
+### Q14. Which is the correct legal-services institutional order from national to grassroots?
+
+A. NALSA -> DLSA -> SLSA -> Taluk Committee
+B. NALSA -> SLSA -> DLSA -> Taluk Legal Services Committee
+C. Supreme Court -> Parliament -> DLSA -> Gram Sabha
+D. NALSA -> Finance Commission -> High Court -> Lok Sabha
 
 **Answer: B.**
 
-**Explanation:** Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk.
+- **A:** Incorrect: the proposition "NALSA -> DLSA -> SLSA -> Taluk Committee" fails against the controlling rule. Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk.
+- **B:** Correct: Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "Supreme Court -> Parliament -> DLSA -> Gram Sabha" fails against the controlling rule. Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk.
+- **D:** Incorrect: the proposition "NALSA -> Finance Commission -> High Court -> Lok Sabha" fails against the controlling rule. Court-specific committees also exist, but the territorial hierarchy is national, State, district and Taluk.
 
-#### Q15. Consider the following regarding sections 12 and 13 of the Legal Services Authorities Act:
+**Examiner trap:** The territorial legal-services chain is NALSA-SLSA-DLSA-Taluk; court committees form a parallel forum-specific layer.
+
+### Q15. Consider the following regarding sections 12 and 13 of the Legal Services Authorities Act:
 
 1. A woman is a section 12 category irrespective of the general income route.
 2. Every OBC member is independently listed as a category.
@@ -198,93 +271,133 @@ Which is the correct assessment?
 
 Which statements are correct?
 
-- A. 2, 3 and 4 only
-- B. 1, 2, 3 and 4
-- C. 1, 3 and 4 only
-- D. 1 and 2 only
+A. 2, 3 and 4 only
+B. 1, 2, 3 and 4
+C. 1, 3 and 4 only
+D. 1 and 2 only
 
 **Answer: C.**
 
-**Explanation:** OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening.
+- **A:** Incorrect: the proposition "2, 3 and 4 only" fails against the controlling rule. OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening.
+- **B:** Incorrect: the proposition "1, 2, 3 and 4" fails against the controlling rule. OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening.
+- **C:** Correct: OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "1 and 2 only" fails against the controlling rule. OBC status by itself is not listed. The Act combines category/income eligibility with prima facie screening.
 
-#### Q16. If an ordinary Lok Adalat fails to secure settlement in a pending court case, what follows?
+**Examiner trap:** Section 12 category eligibility and section 13 prima-facie screening are distinct statutory questions.
 
-- A. The dispute becomes non-justiciable.
-- B. It must decide the dispute on merits.
-- C. Its members may impose a compromise in the public interest.
-- D. The record returns to the referring court, which continues from the stage reached before reference.
+### Q16. If an ordinary Lok Adalat fails to secure settlement in a pending court case, what follows?
+
+A. The dispute becomes non-justiciable.
+B. It must decide the dispute on merits.
+C. Its members may impose a compromise in the public interest.
+D. The record returns to the referring court, which continues from the stage reached before reference.
 
 **Answer: D.**
 
-**Explanation:** Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement.
+- **A:** Incorrect: the proposition "The dispute becomes non-justiciable." fails against the controlling rule. Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement.
+- **B:** Incorrect: the proposition "It must decide the dispute on merits." fails against the controlling rule. Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement.
+- **C:** Incorrect: the proposition "Its members may impose a compromise in the public interest." fails against the controlling rule. Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement.
+- **D:** Correct: Ordinary Lok Adalat is a conciliatory forum. Its award requires compromise or settlement. This option states the controlling rule without adding a wider immunity or remedy.
 
-#### Q17. Which feature uniquely marks a Permanent Lok Adalat?
+**Examiner trap:** An ordinary Lok Adalat cannot impose a merits decision when settlement fails.
 
-- A. For a pre-litigation public-utility dispute, it may decide on merits after conciliation fails, provided the dispute does not relate to an offence.
-- B. It can decide non-compoundable criminal offences.
-- C. It is constitutionally created by Article 39A without statutory basis.
-- D. It hears appeals from ordinary Lok Adalat awards.
+### Q17. Which feature uniquely marks a Permanent Lok Adalat?
+
+A. For a pre-litigation public-utility dispute, it may decide on merits after conciliation fails, provided the dispute does not relate to an offence.
+B. It can decide non-compoundable criminal offences.
+C. It is constitutionally created by Article 39A without statutory basis.
+D. It hears appeals from ordinary Lok Adalat awards.
 
 **Answer: A.**
 
-**Explanation:** Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power.
+- **A:** Correct: Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "It can decide non-compoundable criminal offences." fails against the controlling rule. Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power.
+- **C:** Incorrect: the proposition "It is constitutionally created by Article 39A without statutory basis." fails against the controlling rule. Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power.
+- **D:** Incorrect: the proposition "It hears appeals from ordinary Lok Adalat awards." fails against the controlling rule. Sections 22A-22E create the body. It begins with conciliation but has limited adjudicatory power.
 
-#### Q18. Which statement about Article 44 is correct?
+**Examiner trap:** Permanent Lok Adalat merits power is confined to its pre-litigation public-utility statutory field.
 
-- A. It applies only to criminal law, which remains non-uniform.
-- B. It directs the State to endeavour to secure a UCC for citizens throughout India; personal-law subjects lie in Concurrent List Entry 5.
-- C. It directs courts to enact a uniform code when Parliament fails.
-- D. It is a Fundamental Duty enforceable through Article 32.
+### Q18. Which statement about Article 44 is correct?
+
+A. It applies only to criminal law, which remains non-uniform.
+B. It directs the State to endeavour to secure a UCC for citizens throughout India; personal-law subjects lie in Concurrent List Entry 5.
+C. It directs courts to enact a uniform code when Parliament fails.
+D. It is a Fundamental Duty enforceable through Article 32.
 
 **Answer: B.**
 
-**Explanation:** Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields.
+- **A:** Incorrect: the proposition "It applies only to criminal law, which remains non-uniform." fails against the controlling rule. Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields.
+- **B:** Correct: Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "It directs courts to enact a uniform code when Parliament fails." fails against the controlling rule. Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields.
+- **D:** Incorrect: the proposition "It is a Fundamental Duty enforceable through Article 32." fails against the controlling rule. Article 44 is a non-justiciable DPSP. Entry 5 supplies legislative competence in family/personal-law fields.
 
-#### Q19. Which case-description pair is incorrectly stated?
+**Examiner trap:** Article 44 states a State endeavour; it neither creates an Article 32 remedy nor transfers legislation to courts.
 
-- A. *John Vallamattom* - discriminatory succession restriction and an Article 44 observation
-- B. *Sarla Mudgal* - conversion cannot be used to evade an existing marriage
-- C. *Shayara Bano* - Supreme Court ordered Parliament to enact a UCC within a fixed period
-- D. *Shah Bano* - secular maintenance law and an Article 44 observation
+### Q19. Which case-description pair is incorrectly stated?
+
+A. *John Vallamattom* - discriminatory succession restriction and an Article 44 observation
+B. *Sarla Mudgal* - conversion cannot be used to evade an existing marriage
+C. *Shayara Bano* - Supreme Court ordered Parliament to enact a UCC within a fixed period
+D. *Shah Bano* - secular maintenance law and an Article 44 observation
 
 **Answer: C.**
 
-**Explanation:** *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC.
+- **A:** Incorrect: the proposition "*John Vallamattom* - discriminatory succession restriction and an Article 44 observation" fails against the controlling rule. *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC.
+- **B:** Incorrect: the proposition "*Sarla Mudgal* - conversion cannot be used to evade an existing marriage" fails against the controlling rule. *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC.
+- **C:** Correct: *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "*Shah Bano* - secular maintenance law and an Article 44 observation" fails against the controlling rule. *Shayara Bano* concerned instant triple talaq. No case listed here issued a judicial command enacting or compelling a UCC.
 
-#### Q20. Which statement accurately describes the Uttarakhand UCC position?
+**Examiner trap:** Judicial observations supporting reform are not equivalent to a mandamus directing Parliament to enact a UCC.
 
-- A. It commenced before Presidential assent.
-- B. It applies to every Scheduled Tribe without exception.
-- C. The January 2026 Amendment Ordinance remains the current amending instrument.
-- D. The 2024 Act received assent on 11 March 2024, commenced on 27 January 2025, and section 2 contains the verified Scheduled Tribe/customary-rights exclusion.
+### Q20. Which statement correctly states the post-Eighty-sixth Amendment education arrangement?
+
+A. Article 45 alone guarantees free and compulsory education from birth to fourteen.
+B. Article 21A covers children below six, while Article 45 begins at six.
+C. Article 45 was repealed when Article 21A was inserted.
+D. Article 21A covers ages six to fourteen, while Article 45 directs early childhood care and education until completion of six years.
 
 **Answer: D.**
 
-**Explanation:** Option C is false because the official UCC portal publishes the succeeding Amendment Act, GO dated 7 April 2026. Option D states the independently verified commencement and section 2 exclusion.
+- **A:** Incorrect: the proposition "Article 45 alone guarantees free and compulsory education from birth to fourteen." fails against the controlling rule. The Eighty-sixth Amendment inserted Article 21A for ages six to fourteen and recast Article 45 for early childhood care and education below six.
+- **B:** Incorrect: the proposition "Article 21A covers children below six, while Article 45 begins at six." fails against the controlling rule. The Eighty-sixth Amendment inserted Article 21A for ages six to fourteen and recast Article 45 for early childhood care and education below six.
+- **C:** Incorrect: the proposition "Article 45 was repealed when Article 21A was inserted." fails against the controlling rule. The Eighty-sixth Amendment inserted Article 21A for ages six to fourteen and recast Article 45 for early childhood care and education below six.
+- **D:** Correct: The Eighty-sixth Amendment inserted Article 21A for ages six to fourteen and recast Article 45 for early childhood care and education below six. This option states the controlling rule without adding a wider immunity or remedy.
 
-#### Q21. Which set contains only directives outside Part IV?
+**Examiner trap:** The Eighty-sixth Amendment divides the age field: Article 21A covers six to fourteen; Article 45 covers below six.
 
-- A. Articles 335, 350A and 351
-- B. Articles 44, 50 and 350A
-- C. Articles 335, 43B and 351
-- D. Articles 39A, 350A and 351
+### Q21. Which set contains only directives outside Part IV?
+
+A. Articles 335, 350A and 351
+B. Articles 44, 50 and 350A
+C. Articles 335, 43B and 351
+D. Articles 39A, 350A and 351
 
 **Answer: A.**
 
-**Explanation:** Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV.
+- **A:** Correct: Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "Articles 44, 50 and 350A" fails against the controlling rule. Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV.
+- **C:** Incorrect: the proposition "Articles 335, 43B and 351" fails against the controlling rule. Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV.
+- **D:** Incorrect: the proposition "Articles 39A, 350A and 351" fails against the controlling rule. Articles 335, 350A and 351 lie in Parts XVI/XVII. They are often studied as constitutional directives outside Part IV.
 
-#### Q22. Which distinction is correct?
+**Examiner trap:** Articles 335, 350A and 351 are constitutional directions outside Part IV, not additional Articles within it.
 
-- A. Both Articles were inserted by the 97th Amendment.
-- B. Article 48 combines scientific agriculture/animal husbandry with cattle protection; Article 48A concerns environment, forests and wildlife.
-- C. Article 48A is a Fundamental Duty.
-- D. Article 48A concerns scientific animal husbandry, while Article 48 concerns forests.
+### Q22. Which distinction is correct?
+
+A. Both Articles were inserted by the 97th Amendment.
+B. Article 48 combines scientific agriculture/animal husbandry with cattle protection; Article 48A concerns environment, forests and wildlife.
+C. Article 48A is a Fundamental Duty.
+D. Article 48A concerns scientific animal husbandry, while Article 48 concerns forests.
 
 **Answer: B.**
 
-**Explanation:** Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty.
+- **A:** Incorrect: the proposition "Both Articles were inserted by the 97th Amendment." fails against the controlling rule. Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty.
+- **B:** Correct: Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "Article 48A is a Fundamental Duty." fails against the controlling rule. Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty.
+- **D:** Incorrect: the proposition "Article 48A concerns scientific animal husbandry, while Article 48 concerns forests." fails against the controlling rule. Article 48A is a DPSP added by the 42nd Amendment; Article 51A(g) is the related Fundamental Duty.
 
-#### Q23. Consider the following:
+**Examiner trap:** Article 48 combines scientific husbandry and cattle protection; Article 48A separately covers environment, forests and wildlife.
+
+### Q23. Consider the following:
 
 1. Article 49 protects nationally important monuments/places/objects declared by or under Parliamentary law.
 2. Article 50 directs separation of judiciary from executive in State public services.
@@ -292,171 +405,173 @@ Which statements are correct?
 
 Which are correct?
 
-- A. 1 only
-- B. 2 and 3 only
-- C. 1, 2 and 3
-- D. 1 and 2 only
+A. 1 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
 
 **Answer: C.**
 
-**Explanation:** All reproduce often-neglected textual elements of Articles 49-51.
+- **A:** Incorrect: the proposition "1 only" fails against the controlling rule. All reproduce often-neglected textual elements of Articles 49-51.
+- **B:** Incorrect: the proposition "2 and 3 only" fails against the controlling rule. All reproduce often-neglected textual elements of Articles 49-51.
+- **C:** Correct: All reproduce often-neglected textual elements of Articles 49-51. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "1 and 2 only" fails against the controlling rule. All reproduce often-neglected textual elements of Articles 49-51.
 
-#### Q24. Which statement best captures Article 47?
+**Examiner trap:** Article 49 contains a Parliamentary-law declaration filter that a generic heritage option may omit.
 
-- A. It only directs total prohibition and says nothing about nutrition.
-- B. It creates an absolute Fundamental Right to health enforceable without legislation.
-- C. It concerns animal husbandry and cattle breeds.
-- D. It treats nutrition, standard of living and public health as primary duties and also directs prohibition of intoxicants injurious to health except medicinal use.
+### Q24. Which statement best captures Article 47?
+
+A. It only directs total prohibition and says nothing about nutrition.
+B. It creates an absolute Fundamental Right to health enforceable without legislation.
+C. It concerns animal husbandry and cattle breeds.
+D. It treats nutrition, standard of living and public health as primary duties and also directs prohibition of intoxicants injurious to health except medicinal use.
 
 **Answer: D.**
 
-**Explanation:** Article 47 has both welfare/public-health and prohibition limbs.
+- **A:** Incorrect: the proposition "It only directs total prohibition and says nothing about nutrition." fails against the controlling rule. Article 47 has both welfare/public-health and prohibition limbs.
+- **B:** Incorrect: the proposition "It creates an absolute Fundamental Right to health enforceable without legislation." fails against the controlling rule. Article 47 has both welfare/public-health and prohibition limbs.
+- **C:** Incorrect: the proposition "It concerns animal husbandry and cattle breeds." fails against the controlling rule. Article 47 has both welfare/public-health and prohibition limbs.
+- **D:** Correct: Article 47 has both welfare/public-health and prohibition limbs. This option states the controlling rule without adding a wider immunity or remedy.
 
-#### Q25. Which use of a named critic is most defensible?
+**Examiner trap:** Article 47 combines nutrition, living standards, public health and a qualified prohibition direction.
 
-- A. Use K.T. Shah's "pious superfluities" to introduce the no-remedy critique, then answer it with Article 37 duty, political sanction and interpretive force.
-- B. Claim Ivor Jennings supported immediate judicial enforcement of every directive.
-- C. Attribute "Conscience of the Constitution" to K.T. Shah.
-- D. Treat N. Srinivasan's classification as part of constitutional text.
+### Q25. Which use of a named critic is most defensible?
+
+A. Use K.T. Shah's "pious superfluities" to introduce the no-remedy critique, then answer it with Article 37 duty, political sanction and interpretive force.
+B. Claim Ivor Jennings supported immediate judicial enforcement of every directive.
+C. Attribute "Conscience of the Constitution" to K.T. Shah.
+D. Treat N. Srinivasan's classification as part of constitutional text.
 
 **Answer: A.**
 
-**Explanation:** Named quotations add value only when accurately attributed and connected to an argument and counterargument.
+- **A:** Correct: Named quotations add value only when accurately attributed and connected to an argument and counterargument. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "Claim Ivor Jennings supported immediate judicial enforcement of every directive." fails against the controlling rule. Named quotations add value only when accurately attributed and connected to an argument and counterargument.
+- **C:** Incorrect: the proposition "Attribute "Conscience of the Constitution" to K.T. Shah." fails against the controlling rule. Named quotations add value only when accurately attributed and connected to an argument and counterargument.
+- **D:** Incorrect: the proposition "Treat N. Srinivasan's classification as part of constitutional text." fails against the controlling rule. Named quotations add value only when accurately attributed and connected to an argument and counterargument.
 
-#### Q26. Which explains why DPSP implementation varies across India?
+**Examiner trap:** Named criticism earns marks only when answered through Article 37, institutions and delivery evidence.
 
-- A. Courts allocate identical budgets for every State.
-- B. Many directives concern State/Concurrent fields, and fiscal, institutional and administrative capacity differs across States.
-- C. Every DPSP must be implemented only by constitutional amendment.
-- D. Article 37 bars States from making welfare laws.
+### Q26. Which explains why DPSP implementation varies across India?
+
+A. Courts allocate identical budgets for every State.
+B. Many directives concern State/Concurrent fields, and fiscal, institutional and administrative capacity differs across States.
+C. Every DPSP must be implemented only by constitutional amendment.
+D. Article 37 bars States from making welfare laws.
 
 **Answer: B.**
 
-**Explanation:** Federal competence and capacity produce both innovation and unequal delivery.
+- **A:** Incorrect: the proposition "Courts allocate identical budgets for every State." fails against the controlling rule. Federal competence and capacity produce both innovation and unequal delivery.
+- **B:** Correct: Federal competence and capacity produce both innovation and unequal delivery. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "Every DPSP must be implemented only by constitutional amendment." fails against the controlling rule. Federal competence and capacity produce both innovation and unequal delivery.
+- **D:** Incorrect: the proposition "Article 37 bars States from making welfare laws." fails against the controlling rule. Federal competence and capacity produce both innovation and unequal delivery.
 
-#### Q27. Which matching is correct?
+**Examiner trap:** Federal variation explains uneven implementation but does not erase the constitutional direction.
+
+### Q27. Which matching is correct?
 
 1. Article 43 - living wage and cottage industries
 2. Article 43A - workers' participation in management
 3. Article 43B - voluntary, autonomous, democratic and professionally managed co-operatives
 
-- A. 1 only
-- B. 1 and 3 only
-- C. 1, 2 and 3
-- D. 2 and 3 only
+A. 1 only
+B. 1 and 3 only
+C. 1, 2 and 3
+D. 2 and 3 only
 
 **Answer: C.**
 
-**Explanation:** The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively.
+- **A:** Incorrect: the proposition "1 only" fails against the controlling rule. The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively.
+- **B:** Incorrect: the proposition "1 and 3 only" fails against the controlling rule. The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively.
+- **C:** Correct: The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively. This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "2 and 3 only" fails against the controlling rule. The three adjacent Articles test wage/cottage economy, industrial participation and co-operative governance respectively.
 
-#### Q28. Parliament enacts a statute declaring that every privately owned urban flat is a material resource of the community, states that it implements every DPSP, and bars all court review. Which is the best constitutional assessment?
+**Examiner trap:** Articles 43, 43A and 43B test three different ideas: worker welfare, industrial participation and co-operative governance.
 
-- A. The declaration conclusively activates Article 31C.
-- B. Article 31C protects it from every Fundamental Right because housing is welfare-related.
-- C. Courts cannot question resource classification or basic structure.
-- D. The law must show a genuine 39(b)/(c) nexus; not every private asset qualifies automatically; the surviving shield is only against Articles 14/19 and judicial review cannot be ousted.
+### Q28. Parliament enacts a statute declaring that every privately owned urban flat is a material resource of the community, states that it implements every DPSP, and bars all court review. Which is the best constitutional assessment?
+
+A. The declaration conclusively activates Article 31C.
+B. Article 31C protects it from every Fundamental Right because housing is welfare-related.
+C. Courts cannot question resource classification or basic structure.
+D. The law must show a genuine 39(b)/(c) nexus; not every private asset qualifies automatically; the surviving shield is only against Articles 14/19 and judicial review cannot be ousted.
 
 **Answer: D.**
 
-**Explanation:** The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof.
+- **A:** Incorrect: the proposition "The declaration conclusively activates Article 31C." fails against the controlling rule. The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof.
+- **B:** Incorrect: the proposition "Article 31C protects it from every Fundamental Right because housing is welfare-related." fails against the controlling rule. The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof.
+- **C:** Incorrect: the proposition "Courts cannot question resource classification or basic structure." fails against the controlling rule. The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof.
+- **D:** Correct: The hypothetical combines *Kesavananda Bharati (1973)*, *Minerva Mills (1980)* and *Property Owners Association (2024)*. A welfare label is not constitutional proof. This option states the controlling rule without adding a wider immunity or remedy.
 
-### Remedial MCQs for common errors
+**Examiner trap:** A legislative declaration cannot make a weak Article 39(b)/(c) nexus conclusive or exclude basic-structure review.
 
-> Answer placement follows strict A → B → C → D rotation, repeated twice.
+### Q29. What is the most accurate DPSP-related significance of the Constitution (Fourth Amendment) Act, 1955?
 
-#### R1. Which is the safest statement?
-
-- A. DPSP are non-justiciable, but fundamental in governance and a State duty in law-making.
-- B. DPSP have no constitutional force.
-- C. Every DPSP is enforceable through Article 32.
-- D. Article 37 applies only during an Emergency.
+A. It strengthened the property and land-reform protection architecture, including Article 31A changes and Ninth Schedule additions, during the early implementation conflict.
+B. It inserted Article 31C for every Directive Principle.
+C. It inserted Article 38(2) and Article 43B.
+D. It constitutionalised village panchayats in Part IX.
 
 **Answer: A.**
 
-**Explanation:** This is the complete Article 37 formulation. Do not stop at "non-justiciable."
+- **A:** Correct: The Fourth Amendment belongs to the early land-reform/property-right response. Article 31C came through the Twenty-fifth Amendment, Article 38(2) through the Forty-fourth, Article 43B through the Ninety-seventh and Part IX through the Seventy-third. This option states the controlling rule without adding a wider immunity or remedy.
+- **B:** Incorrect: the proposition "It inserted Article 31C for every Directive Principle." fails against the controlling rule. The Fourth Amendment belongs to the early land-reform/property-right response. Article 31C came through the Twenty-fifth Amendment, Article 38(2) through the Forty-fourth, Article 43B through the Ninety-seventh and Part IX through the Seventy-third.
+- **C:** Incorrect: the proposition "It inserted Article 38(2) and Article 43B." fails against the controlling rule. The Fourth Amendment belongs to the early land-reform/property-right response. Article 31C came through the Twenty-fifth Amendment, Article 38(2) through the Forty-fourth, Article 43B through the Ninety-seventh and Part IX through the Seventy-third.
+- **D:** Incorrect: the proposition "It constitutionalised village panchayats in Part IX." fails against the controlling rule. The Fourth Amendment belongs to the early land-reform/property-right response. Article 31C came through the Twenty-fifth Amendment, Article 38(2) through the Forty-fourth, Article 43B through the Ninety-seventh and Part IX through the Seventy-third.
 
-#### R2. The familiar Socialistic-Gandhian-Liberal classification is:
+**Examiner trap:** The Fourth Amendment belongs to the land-reform/property-response phase; it did not insert Article 31C.
 
-- A. contained in the Seventh Schedule
-- B. a scholarly classification, not constitutional text
-- C. binding on the Supreme Court
-- D. created by the 42nd Amendment
+### Q30. Which sequence best represents accountability for a non-justiciable Directive Principle?
 
-**Answer: B.**
-
-**Explanation:** The Constitution lists directives article by article without category labels.
-
-#### R3. *Minerva Mills (1980)* held that:
-
-- A. all of Article 31C is void
-- B. Article 39(b)/(c) can never receive protection
-- C. the 42nd Amendment extension of 31C to all DPSP is invalid and Part III-Part IV balance is basic structure
-- D. every DPSP overrides Articles 14 and 19
-
-**Answer: C.**
-
-**Explanation:** The original limited 39(d)/(c) protection survives.
-
-#### R4. Which is correct regarding ordinary Lok Adalat?
-
-- A. Consent is irrelevant to its award.
-- B. It hears non-compoundable offences.
-- C. It decides all disputes on merits after failed talks.
-- D. It is a conciliatory forum; award rests on settlement and is final/deemed decree/no appeal.
-
-**Answer: D.**
-
-**Explanation:** Merits adjudication after failed conciliation belongs to the Permanent Lok Adalat's limited statutory field.
-
-#### R5. Which UCC formulation is correct?
-
-- A. Courts have made legislative observations but have not ordered enactment of a UCC.
-- B. *Shayara Bano* enacted a national civil code.
-- C. Entry 5 belongs exclusively to the Union List.
-- D. Article 44 is directly enforceable.
-
-**Answer: A.**
-
-**Explanation:** Article 44 is non-justiciable and the field is concurrent.
-
-#### R6. After *Rajendra N. Shah*:
-
-- A. co-operative societies ceased to be a constitutional subject.
-- B. Part IXB remains for multi-State co-operatives; its State-co-operative operation failed for want of ratification.
-- C. Article 43B disappeared.
-- D. all State co-operative laws became void.
+A. Directive text -> automatic writ -> judicial budget -> uniform outcome
+B. Directive text -> competent law and appropriation -> administration -> audit, legislative scrutiny, public debate and elections
+C. Directive text -> executive announcement -> constitutional completion
+D. Directive text -> constitutional amendment in every case -> no subsequent review
 
 **Answer: B.**
 
-**Explanation:** Severability preserved the valid components.
+- **A:** Incorrect: the proposition "Directive text -> automatic writ -> judicial budget -> uniform outcome" fails against the controlling rule. Article 37 places primary responsibility on elected institutions. Law, funding, administration, audit and political accountability convert constitutional direction into performance, while courts review enforceable legal boundaries.
+- **B:** Correct: Article 37 places primary responsibility on elected institutions. Law, funding, administration, audit and political accountability convert constitutional direction into performance, while courts review enforceable legal boundaries. This option states the controlling rule without adding a wider immunity or remedy.
+- **C:** Incorrect: the proposition "Directive text -> executive announcement -> constitutional completion" fails against the controlling rule. Article 37 places primary responsibility on elected institutions. Law, funding, administration, audit and political accountability convert constitutional direction into performance, while courts review enforceable legal boundaries.
+- **D:** Incorrect: the proposition "Directive text -> constitutional amendment in every case -> no subsequent review" fails against the controlling rule. Article 37 places primary responsibility on elected institutions. Law, funding, administration, audit and political accountability convert constitutional direction into performance, while courts review enforceable legal boundaries.
 
-#### R7. The current labour-law answer should:
+**Examiner trap:** Part IV accountability runs through law, budget, administration, audit, political debate and elections, not courts alone.
 
-- A. assert uniform implementation outcomes across every State
-- B. state that Articles 42-43A are now Fundamental Rights
-- C. use the four Labour Codes as in force from 21 Nov 2025, while qualifying State rules and delivery capacity
-- D. list only pre-Code statutes as if nothing changed
+### Q31. Which statement most precisely captures Article 51(c)?
+
+A. It makes every treaty automatically enforceable as domestic law.
+B. It authorises courts to conclude treaties without executive action.
+C. It directs the State to foster respect for international law and treaty obligations in dealings of organised peoples, without itself making every treaty self-executing.
+D. It concerns only arbitration of international disputes.
 
 **Answer: C.**
 
-**Explanation:** The legal commencement is verified; outcomes still require evidence.
+- **A:** Incorrect: the proposition "It makes every treaty automatically enforceable as domestic law." fails against the controlling rule. Article 51(c) is an internationalist directive. Domestic enforceability still depends on constitutional and legislative rules; arbitration is separately mentioned in Article 51(d).
+- **B:** Incorrect: the proposition "It authorises courts to conclude treaties without executive action." fails against the controlling rule. Article 51(c) is an internationalist directive. Domestic enforceability still depends on constitutional and legislative rules; arbitration is separately mentioned in Article 51(d).
+- **C:** Correct: Article 51(c) is an internationalist directive. Domestic enforceability still depends on constitutional and legislative rules; arbitration is separately mentioned in Article 51(d). This option states the controlling rule without adding a wider immunity or remedy.
+- **D:** Incorrect: the proposition "It concerns only arbitration of international disputes." fails against the controlling rule. Article 51(c) is an internationalist directive. Domestic enforceability still depends on constitutional and legislative rules; arbitration is separately mentioned in Article 51(d).
 
-#### R8. Article 31C currently:
+**Examiner trap:** Article 51(c) promotes respect for international law and treaty obligations; it does not make every treaty self-executing.
 
-- A. excludes judicial review of the statutory declaration
-- B. makes every private asset a community resource
-- C. protects all DPSP laws from all review
-- D. gives a limited Articles 14/19 shield to genuine 39(b)/(c) laws while retaining review
+### Q32. A statute claims to implement Article 39(b), but its stated resource connection is remote and it bars all judicial scrutiny. Which position is correct?
+
+A. The statutory declaration conclusively activates Article 31C.
+B. Any welfare recital protects the law from every Fundamental Right.
+C. Article 31C ceased to exist after Minerva Mills.
+D. A court may test the real Article 39(b) nexus and basic-structure limits; Article 31C shields only a genuine implementing law from Articles 14 and 19.
 
 **Answer: D.**
 
-**Explanation:** This is the exact current-law control.
+- **A:** Incorrect: the proposition "The statutory declaration conclusively activates Article 31C." fails against the controlling rule. Kesavananda Bharati preserved judicial review, Minerva Mills removed the all-DPSP extension, and Property Owners Association confirmed the surviving narrow Article 39(b)/(c) shield.
+- **B:** Incorrect: the proposition "Any welfare recital protects the law from every Fundamental Right." fails against the controlling rule. Kesavananda Bharati preserved judicial review, Minerva Mills removed the all-DPSP extension, and Property Owners Association confirmed the surviving narrow Article 39(b)/(c) shield.
+- **C:** Incorrect: the proposition "Article 31C ceased to exist after Minerva Mills." fails against the controlling rule. Kesavananda Bharati preserved judicial review, Minerva Mills removed the all-DPSP extension, and Property Owners Association confirmed the surviving narrow Article 39(b)/(c) shield.
+- **D:** Correct: Kesavananda Bharati preserved judicial review, Minerva Mills removed the all-DPSP extension, and Property Owners Association confirmed the surviving narrow Article 39(b)/(c) shield. This option states the controlling rule without adding a wider immunity or remedy.
+
+**Examiner trap:** Article 31C protects only genuine Article 39(b)/(c) laws against Articles 14 and 19; no broader immunity should be inferred.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Every verified routed previous-year question
+### Audited direct and routed PYQs
 
-#### Mains PYQ 1. UPSC 2023 GS-II Q2 - Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India. (10 marks, 150 words)
+### Mains PYQ 1. UPSC 2023 GS-II Q2 - Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India. (10 marks, 150 words)
 
 **Model answer.** Article 39A's access-to-justice commitment is reinforced by Article 21 fair-procedure jurisprudence and implemented through the Legal Services Authorities Act, 1987.
 
@@ -470,24 +585,7 @@ Which are correct?
 
 **How to improve this answer:** Replace one older case reference with *Suhas Chakma v. Union of India* (2024) and its Jail Visiting Lawyer/NALSA monitoring directions; compress the eligibility list into four clusters to preserve space for a sharper assessment.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Mains PYQ 1. UPSC 2023 GS-II Q2 - Who are entitled to receive free legal aid? Assess the role…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Mains PYQ 1. UPSC 2023 GS-II Q2 - Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority (NALSA) in…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Mains PYQ 1. UPSC 2023 GS-II Q2 - Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority (NALSA) in rendering free legal aid in India. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Model answer. Article 39A's access-to-justice commitment is reinforced by Article 21 fair-procedure jurisprudence and implemented through the Legal Services Authorities Act, 1987. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Mains PYQ 1. UPSC 2023 GS-II Q2 - Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority (NALSA) in…”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### Prelims PYQ 1. UPSC 2020 GS-I Q5 - Separation of judiciary
+### Prelims PYQ 1. UPSC 2020 GS-I Q5 - Separation of judiciary
 
 In India, separation of judiciary from the executive is enjoined by:
 
@@ -496,11 +594,11 @@ In India, separation of judiciary from the executive is enjoined by:
 - C. the Seventh Schedule
 - D. conventional practice
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: B (high confidence).**
+**Answer withheld pending official UPSC key.**
 
-**Explanation:** Article 50 in Part IV directs the State to separate the judiciary from the executive in the public services of the State. The local repository has the official question paper but no official 2020 key.
+**Concept analysis:** Article 50 in Part IV directs the State to separate the judiciary from the executive in the public services of the State. The local repository has the official question paper but no official 2020 key.
 
-#### Prelims PYQ 2. UPSC 2020 GS-I Q8 - UDHR principles
+### Prelims PYQ 2. UPSC 2020 GS-I Q8 - UDHR principles
 
 Other than the Fundamental Rights, which parts of the Constitution reflect the principles and provisions of the Universal Declaration of Human Rights, 1948?
 
@@ -513,11 +611,11 @@ Other than the Fundamental Rights, which parts of the Constitution reflect the p
 - C. 1 and 3 only
 - D. 1, 2 and 3
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: D (high confidence).**
+**Answer withheld pending official UPSC key.**
 
-**Explanation:** The Preamble's justice/liberty/equality/fraternity, Part IV's socio-economic commitments and Part IVA's dignity, tolerance and internationalist duties reflect UDHR values. "Reflect" does not mean verbatim or article-by-article incorporation.
+**Concept analysis:** The Preamble's justice/liberty/equality/fraternity, Part IV's socio-economic commitments and Part IVA's dignity, tolerance and internationalist duties reflect UDHR values. "Reflect" does not mean verbatim or article-by-article incorporation.
 
-#### Prelims PYQ 3. UPSC 2020 GS-I Q9 - Free legal services eligibility
+### Prelims PYQ 3. UPSC 2020 GS-I Q9 - Free legal services eligibility
 
 In India, Legal Services Authorities provide free legal services to which of the following types of citizens?
 
@@ -531,11 +629,11 @@ In India, Legal Services Authorities provide free legal services to which of the
 - C. 2 and 3 only
 - D. 1 and 4 only
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: A (moderate-to-high confidence).**
+**Answer withheld pending official UPSC key.**
 
-**Explanation:** The contemporaneous legal-services framework treated statements 1 and 2 as eligible. OBC status alone is not a section 12 category and all senior citizens are not automatically included nationally. Current-answer discipline is more important than memorising the old amounts: section 12 contains category eligibility plus an income route whose ceiling is prescribed by the appropriate government.
+**Concept analysis:** The contemporaneous legal-services framework treated statements 1 and 2 as eligible. OBC status alone is not a section 12 category and all senior citizens are not automatically included nationally. Current-answer discipline is more important than memorising the old amounts: section 12 contains category eligibility plus an income route whose ceiling is prescribed by the appropriate government.
 
-#### Prelims PYQ 4. UPSC 2020 GS-I Q12 - Welfare State
+### Prelims PYQ 4. UPSC 2020 GS-I Q12 - Welfare State
 
 Which part of the Constitution of India declares the ideal of a Welfare State?
 
@@ -544,11 +642,11 @@ Which part of the Constitution of India declares the ideal of a Welfare State?
 - C. Preamble
 - D. Seventh Schedule
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: A (high confidence).**
+**Answer withheld pending official UPSC key.**
 
-**Explanation:** Part IV, especially Articles 38 and 39, supplies the welfare-state programme. The Preamble states justice goals, but the question asks the Part declaring the welfare-state ideal.
+**Concept analysis:** Part IV, especially Articles 38 and 39, supplies the welfare-state programme. The Preamble states justice goals, but the question asks the Part declaring the welfare-state ideal.
 
-#### Prelims PYQ 5. UPSC 2020 GS-I Q18 - Part IV enforceability
+### Prelims PYQ 5. UPSC 2020 GS-I Q18 - Part IV enforceability
 
 With reference to Part IV, which statements are correct?
 
@@ -561,11 +659,11 @@ With reference to Part IV, which statements are correct?
 - C. 1 and 3 only
 - D. 2 and 3 only
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: D (high confidence).**
+**Answer withheld pending official UPSC key.**
 
-**Explanation:** Article 37 expressly combines non-enforceability with the principles' fundamental governance status and State duty in law-making.
+**Concept analysis:** Article 37 expressly combines non-enforceability with the principles' fundamental governance status and State duty in law-making.
 
-#### Prelims PYQ 6. UPSC 2021 GS-I Q91 - Concentration of wealth
+### Prelims PYQ 6. UPSC 2021 GS-I Q91 - Concentration of wealth
 
 Under the Indian Constitution, concentration of wealth violates:
 
@@ -574,11 +672,11 @@ Under the Indian Constitution, concentration of wealth violates:
 - C. Right to Freedom
 - D. concept of Welfare
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: B (high confidence).**
+**Answer withheld pending official UPSC key.**
 
-**Explanation:** Article 39(c) directs that the economic system should not result in concentration of wealth and means of production to the common detriment. The language is directive, not a standalone Fundamental Right violation.
+**Concept analysis:** Article 39(c) directs that the economic system should not result in concentration of wealth and means of production to the common detriment. The language is directive, not a standalone Fundamental Right violation.
 
-#### Prelims PYQ 7. UPSC 2025 GS-I Q55 - Provision matched to constitutional location
+### Prelims PYQ 7. UPSC 2025 GS-I Q55 - Provision matched to constitutional location
 
 Consider the following pairs:
 
@@ -593,109 +691,45 @@ How many pairs are correctly matched?
 - C. All three
 - D. None
 
-**OFFICIAL LOCAL UPSC KEY VERIFIED: C.**
+**Final official/local-official key verified: C.**
 
-**Explanation:** Pair 1 is Article 50 in Part IV; pair 2 is Article 51A(f) in Part IVA; pair 3 is Article 24 in Part III. The Set-A official local key scan was directly checked and records Q55 as C.
+**Concept analysis:** Pair 1 is Article 50 in Part IV; pair 2 is Article 51A(f) in Part IVA; pair 3 is Article 24 in Part III. The Set-A official local key scan was directly checked and records Q55 as C.
 
-### Original Mains practice with model solutions
+### Six original Mains questions with complete model solutions
 
-**Demand decoding:** Treat “Prelims PYQ 7. UPSC 2025 GS-I Q55 - Provision matched to constitutional location” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
+Two questions each are provided at 10, 15 and 20 marks. Each model follows claim -> named evidence -> analysis -> qualification and answers the printed directive.
 
-**Detailed examiner-grade model answer:**
+### Original Q1 - "The Directive Principles are non-justiciable, but not non-binding." Explain. (10 marks, 150 words)
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Prelims PYQ 7. UPSC 2025 GS-I Q55 - Provision matched to constitutional location”.
+**Model solution.** **Thesis:** Article 37 denies direct judicial enforcement but declares DPSPs fundamental in governance and makes their application in law-making a State duty. Non-justiciability therefore concerns remedy, not constitutional insignificance.
 
-**Analytical body:**
+Part IV supplies welfare purposes: Articles 38-39 address justice and distribution, while Articles 41-43 address assistance and labour dignity. Its primary sanction is democratic; Ambedkar expected governments to answer to the electorate.
 
-1. **Claim and named evidence:** Prelims PYQ 7. UPSC 2025 GS-I Q55 - Provision matched to constitutional location **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Separation of judiciary from executive in State public services - Directive Principles of State Policy **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Valuing and preserving the rich heritage of composite culture - Fundamental Duties **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Prohibition of employment of children below fourteen years in factories - Fundamental Rights **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Explanation: Pair 1 is Article 50 in Part IV; pair 2 is Article 51A(f) in Part IVA; pair 3 is Article 24 in Part III. The Set-A official local key scan was directly checked and records Q55 as C. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+Directives also shape enforceable law. Article 39A informed the Legal Services Authorities Act, 1987; Article 40 informed the 73rd Amendment; Articles 41 and 45 supported *Unni Krishnan*, Article 21A and the RTE Act. Courts may use DPSPs to interpret rights and reasonableness, and *Minerva Mills* treats Part III-Part IV harmony as basic structure.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Qualification:** Courts cannot create the entire welfare budget or compel Article 44 solely from Part IV.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “Prelims PYQ 7. UPSC 2025 GS-I Q55 - Provision matched to constitutional location”.
+**Conclusion:** DPSPs operate through duty, legislation, interpretation and political accountability, not an automatic writ.
 
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
+**Why this earns marks:** It states Article 37's complete rule, supplies named institutional and judicial evidence, and preserves the remedy-policy distinction.
 
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
+**How to improve this answer:** Use the chain directive -> law -> institution -> enforceable legal floor, then close with the direct-remedy qualification.
 
-**How to improve this answer:** For “Prelims PYQ 7. UPSC 2025 GS-I Q55 - Provision matched to constitutional location”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
+### Original Q2 - Examine the present constitutional scope of Article 31C after *Property Owners Association (2024)*. (10 marks, 150 words)
 
-#### M1. "The Directive Principles are non-justiciable, but not non-binding." Explain. (10 marks, 150 words)
+**Model solution.** **Thesis:** Article 31C survives as a narrow distributive shield, not a general DPSP-supremacy clause.
 
-**Model solution.** **Thesis:** Article 37 denies a direct judicial remedy but simultaneously makes DPSP fundamental in governance and imposes a duty on the State to apply them in making laws. Non-justiciability therefore concerns the mode of enforcement, not constitutional insignificance.
+The 25th Amendment protected laws giving effect to Article 39(b) or (c) against Articles 14, 19 and then Article 31, while attempting to make the legislative declaration conclusive. *Kesavananda Bharati* upheld the substantive shield but invalidated exclusion of judicial review. The 42nd Amendment extended protection to every DPSP; *Minerva Mills* struck that extension and made Part III-Part IV harmony part of the basic structure.
 
-First, Part IV supplies the welfare purpose of public power. Articles 38-39 direct justice, distribution and anti-concentration; Articles 41-43 protect work, assistance and labour dignity. Their primary sanction is political: Ambedkar argued that an elected government ignoring them must answer to the electorate.
+In *Property Owners Association* (5 November 2024), the nine-judge Bench confirmed that Article 31C, as upheld in *Kesavananda*, remains operative. Courts may test whether a law genuinely furthers Article 39(b)/(c). Some privately owned resources may qualify under Article 39(b), but not automatically; nature, scarcity, community impact and concentration are relevant.
 
-Second, directives shape law and institutions. Article 39A became the Legal Services Authorities Act, 1987 and NALSA; Article 40 informed the 73rd Amendment; Articles 41/45 informed *Unni Krishnan*, Article 21A and the RTE Act.
+**Conclusion:** The present shield is only against Articles 14 and 19; nexus review and basic-structure limits remain.
 
-Third, they possess judicial relevance. Courts use DPSP to interpret rights and reasonableness. *Minerva Mills (1980)* treated harmony between Parts III and IV as basic structure.
+**Why this earns marks:** It gives the amendment-case sequence, exact rights shield, contextual private-resource rule and judicial-review caveat.
 
-**Qualification:** Courts cannot ordinarily design the full welfare budget or compel Article 44 merely from Part IV.
+**How to improve this answer:** Write three subheads: objective, shield and review.
 
-**Conclusion:** DPSP bind through constitutional duty, legislation, interpretation and democratic accountability, while preserving policy sequencing.
-
-**Why this earns marks:** It explains the apparent paradox through Article 37's full text, gives three named conversion examples, uses *Minerva Mills (1980)*, states the institutional limitation and directly answers "non-binding."
-
-**How to improve this answer:** In the exam, draw a four-arrow conversion chain—directive → law → institution → enforceable entitlement—and devote the last two lines to the distinction between constitutional duty and a directly claimable remedy.
-
-**Demand decoding:** The directive **explain** requires a direct position on “M1. "The Directive Principles are non-justiciable, but not non-binding." Explain. (10 marks,…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M1. "The Directive Principles are non-justiciable, but not non-binding." Explain. (10 marks, 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M1. "The Directive Principles are non-justiciable, but not non-binding." Explain. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Third, they possess judicial relevance. Courts use DPSP to interpret rights and reasonableness. Minerva Mills (1980) treated harmony between Parts III and IV as basic structure. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Qualification: Courts cannot ordinarily design the full welfare budget or compel Article 44 merely from Part IV. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Conclusion: DPSP bind through constitutional duty, legislation, interpretation and democratic accountability, while preserving policy sequencing. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It explains the apparent paradox through Article 37's full text, gives three named conversion examples, uses Minerva Mills (1980) , states the institutional limitation and directly answers "non-binding." **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M1. "The Directive Principles are non-justiciable, but not non-binding." Explain. (10 marks, 150 words)”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M2. Examine the present constitutional scope of Article 31C after *Property Owners Association (2024)*. (10 marks, 150 words)
-
-**Model solution.** **Thesis:** Article 31C survives as a narrow distributive shield, not a general DPSP supremacy clause.
-
-The 25th Amendment protected laws giving effect to Article 39(b) or (c) from challenge under Articles 14, 19 and then Article 31, and attempted to make the legislative declaration conclusive. *Kesavananda Bharati (1973)* upheld the substantive shield but invalidated exclusion of judicial review. The 42nd Amendment extended the shield to every DPSP; *Minerva Mills (1980)* struck that extension and held Part III-Part IV balance to be basic structure.
-
-In *Property Owners Association (2024)* (5 November 2024), the nine-judge Bench confirmed that Article 31C, to the extent upheld in *Kesavananda Bharati (1973)*, remains in force. A court may examine whether the law genuinely furthers 39(b)/(c). Privately owned resources may qualify under 39(b), but not automatically. Nature, community impact, scarcity, concentration and common good are relevant.
-
-**Conclusion:** Current Article 31C shields genuine 39(b)/(c) laws only against Articles 14 and 19; judicial review and basic-structure limits remain.
-
-**Why this earns marks:** It gives the amendment-case chronology, the exact surviving rights shield, the current private-resource test and the review caveat without saying all DPSP or all private assets are covered.
-
-**How to improve this answer:** Use a three-row table for shield, review and resource test; expressly write “Articles 14 and 19 only” and delete background on repealed Article 31 if the 150-word limit is tight.
-
-**Demand decoding:** The directive **examine** requires a direct position on “M2. Examine the present constitutional scope of Article 31C after Property Owners Association (2024)…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M2. Examine the present constitutional scope of Article 31C after Property Owners Association (2024). (10 marks, 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M2. Examine the present constitutional scope of Article 31C after Property Owners Association (2024) . (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Model solution. Thesis: Article 31C survives as a narrow distributive shield, not a general DPSP supremacy clause. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Conclusion: Current Article 31C shields genuine 39(b)/(c) laws only against Articles 14 and 19; judicial review and basic-structure limits remain. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It gives the amendment-case chronology, the exact surviving rights shield, the current private-resource test and the review caveat without saying all DPSP or all private assets are covered. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Use a three-row table for shield, review and resource test; expressly write “Articles 14 and 19 only” and delete background on repealed Article 31 if the 150-word limit is tight. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M2. Examine the present constitutional scope of Article 31C after Property Owners Association (2024). (10 marks, 150 words)”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M3. Trace the evolution of the relationship between Fundamental Rights and Directive Principles. Has harmony replaced hierarchy? (15 marks, 250 words)
+### Original Q3 - Trace the evolution of the relationship between Fundamental Rights and Directive Principles. Has harmony replaced hierarchy? (15 marks, 250 words)
 
 **Model solution.** **Thesis:** The constitutional journey moves from a simple priority rule toward structured harmony, but harmony does not mean that enforceable rights disappear before any welfare claim.
 
@@ -715,27 +749,7 @@ In *Property Owners Association (2024)* (5 November 2024), the nine-judge Bench 
 
 **How to improve this answer:** Turn the chronology into five dated milestones and reserve a distinct final paragraph for the verdict: harmony governs constitutional design, while enforceable rights still control inconsistent ordinary law outside a valid Article 31C shield.
 
-**Demand decoding:** The directive **trace** requires a direct position on “M3. Trace the evolution of the relationship between Fundamental Rights and Directive…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M3. Trace the evolution of the relationship between Fundamental Rights and Directive Principles. Has harmony replaced hierarchy? (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M3. Trace the evolution of the relationship between Fundamental Rights and Directive Principles. Has harmony replaced hierarchy? (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Model solution. Thesis: The constitutional journey moves from a simple priority rule toward structured harmony, but harmony does not mean that enforceable rights disappear before any welfare claim. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Harmonising phase: Unni Krishnan used Articles 41/45/46 to illuminate Article 21; the 86th Amendment then inserted Article 21A. I.R. Coelho prevented post-1973 Ninth Schedule immunity from defeating basic structure. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Current precision: Property Owners Association (2024) confirms the original 39(b)/(c) shield, while rejecting automatic classification of every private asset as a community resource. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It traces the complete chronology, explains cause and effect, includes education and Ninth Schedule developments, states the exact 2024 position and gives a qualified answer to the final question. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M3. Trace the evolution of the relationship between Fundamental Rights and Directive Principles. Has harmony replaced hierarchy? (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M4. Assess whether India's legal-services and Lok Adalat framework adequately realises Article 39A. (15 marks, 250 words)
+### Original Q4 - Assess whether India's legal-services and Lok Adalat framework adequately realises Article 39A. (15 marks, 250 words)
 
 **Model solution.** **Thesis:** India has created a deep statutory architecture for Article 39A, but effective equal justice depends on service quality and informed consent, not institutional count or disposal figures alone.
 
@@ -755,128 +769,38 @@ In *Property Owners Association (2024)* (5 November 2024), the nine-judge Bench 
 
 **How to improve this answer:** Add *Suhas Chakma* (2024) as concrete prison-delivery evidence and organise the assessment under access, quality and consent; avoid spending more than one-third of the answer merely listing institutions.
 
-**Demand decoding:** The directive **assess** requires a direct position on “M4. Assess whether India's legal-services and Lok Adalat framework adequately realises…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+### Original Q5 - How far have Directive Principles transformed India from a police state into a welfare state? Critically evaluate. (20 marks, 250 words)
 
-**Detailed examiner-grade model answer:**
+**Model solution.** **Thesis:** DPSPs have transformed the constitutional purpose and institutional reach of the Indian State, but uneven capacity and outcomes make the transition substantial rather than complete.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M4. Assess whether India's legal-services and Lok Adalat framework adequately realises Article 39A. (15 marks, 250 words)”.
+**Constitutional change:** Articles 38-39 establish justice, livelihood, distribution and anti-concentration; Articles 41-43 address assistance, humane work and living wages; Articles 45-48A extend the programme to childhood, weaker sections, health, agriculture and environment. Government is consequently judged not only by order and legality but also by social capability and distribution.
 
-**Analytical body:**
+**Institutional conversion:** Land-reform protection through Articles 31A-31B supported redistribution, subject to *I.R. Coelho* review. Article 40 informed the 73rd Amendment; Article 39A produced the Legal Services Authorities Act, 1987 and NALSA. Articles 41/45 helped lead through *Unni Krishnan* to Article 21A and the RTE Act. Article 48A supports environmental legislation and Article 21 jurisprudence; Article 43B constitutionalises co-operative principles, while *Rajendra N. Shah* preserves federal limits. Maternity, wage and social-security laws provide further vehicles.
 
-1. **Claim and named evidence:** M4. Assess whether India's legal-services and Lok Adalat framework adequately realises Article 39A. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Model solution. Thesis: India has created a deep statutory architecture for Article 39A, but effective equal justice depends on service quality and informed consent, not institutional count or disposal figures alone. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Services: The network supplies advice, representation, drafting, fees/documents, clinics and awareness. M.H. Hoskot and Hussainara Khatoon connect counsel to Article 21 fair procedure. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Gaps: Low awareness, weak lawyer-client communication, uneven panel quality, linguistic/digital exclusion and pressure for disposal can reduce substantive justice. Consent must not become coerced settlement. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Way forward: early advice, counsel-performance review, client feedback, local-language access, stronger Taluk clinics and outcome-based evaluation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Critical limits:** Enactment does not ensure delivery. Local bodies may lack funds and staff; legal-aid quality, labour protection, nutrition and environmental compliance vary across States. Electoral incentives can favour visible transfers over durable institutions, and federal fiscal inequality produces territorial gaps.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+Welfare ends also remain rights-disciplined: *Minerva Mills* makes Part III-Part IV harmony basic structure, while *Property Owners Association* preserves only a narrow Article 31C shield.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “M4. Assess whether India's legal-services and Lok Adalat framework adequately realises Article 39A. (15 marks, 250 words)”.
+**Conclusion:** India is constitutionally a welfare State, but fuller transformation requires funded local institutions, measurable service quality and rights-compatible implementation.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Why this earns marks:** It combines constitutional purpose, named institutions, delivery mechanisms, federal limits and a graded degree verdict.
 
-#### M5. Article 44 is a constitutional direction, but a Uniform Civil Code is a legislative design problem. Discuss. (15 marks, 250 words)
+**How to improve this answer:** Group evidence under social floors, decentralisation and regulatory welfare rather than listing schemes.
 
-**Model solution.** **Thesis:** Article 44 sets the goal of common civil citizenship, but Article 37 leaves its form and timing to democratic legislation constrained by equality, liberty, religion, federal competence and workable transition.
+### Original Q6 - "Directive Principles are a constitutional compass, not a delivery guarantee." Evaluate the criticisms and continuing utility of Part IV. (20 marks, 250 words)
 
-**Constitutional case:** Articles 14-15 support removal of sex-based discrimination. Article 25 is subject to other Fundamental Rights and Article 25(2) permits social reform. Concurrent List Entry 5 allows Parliament and States to legislate on marriage, divorce, adoption and succession.
+**Model solution.** **Thesis:** The metaphor is accurate if "compass" means binding constitutional direction rather than optional morality: Part IV guides legislation, interpretation and political accountability but cannot itself guarantee resources or outcomes.
 
-**Judicial record:** *Shah Bano*, *Sarla Mudgal* and *John Vallamattom* decided statutory/equality disputes and urged legislative attention to Article 44; they did not issue a mandamus to enact a UCC. *Shayara Bano* invalidated instant triple talaq, demonstrating targeted reform rather than a judicial common code.
+**Criticisms:** K.T. Shah's "pious superfluities" and resource-dependent cheque attack the absence of a judicial remedy. T.T. Krishnamachari's "dustbin of sentiments" and N. Srinivasan's arrangement critique question coherence; Ivor Jennings saw pious aspirations and a dated Fabian inheritance. K. Santhanam warned of institutional and federal conflict.
 
-**Design choices:** India has used community-specific codification, the opt-in Special Marriage Act, targeted equality reform and now a State common-code experiment. Goa is instructive but not perfectly uniform.
+These objections matter. Article 41 acknowledges economic-capacity limits; broad directives can invite symbolic legislation, selective implementation or judicial overreach. Health, agriculture, labour, local government and personal law also involve divided competence. Without budgets, staff and grievance systems, constitutional language may not alter lived outcomes.
 
-**Institutional caution:** The 21st Law Commission in 2018 preferred reform of discriminatory family laws at that stage; the 22nd opened consultation in 2023. Uttarakhand's Act received assent on 11 March 2024, commenced on 27 January 2025 and excludes Scheduled Tribes/customary-rights groups under section 2.
+**Continuing utility:** Article 37 nevertheless declares the principles fundamental and imposes a State duty. Ambedkar linked them to economic democracy and electoral sanction; Granville Austin treated Parts III and IV as the conscience of social revolution; B.N. Rau stressed educative value; M.C. Setalvad described them as guides to courts and State action.
 
-**Verdict:** Legitimacy requires consultation, gender-just rules, clear transition, federal competence and protection against majoritarian transplantation.
+Their institutional record is concrete: Article 39A produced NALSA; Article 40 informed constitutional local government; Articles 41/45 supported Article 21A; Article 48A shaped environmental law; Article 43B supports co-operative autonomy. *Minerva Mills* constitutionalises harmony, and *Property Owners Association* preserves a bounded distributive shield.
 
-**Why this earns marks:** It integrates Article 44, Entry 5, equality/religion, four cases, reform routes, Law Commission positions and secure Uttarakhand facts while explicitly refusing the false "courts ordered UCC" claim.
+**Conclusion:** DPSPs are neither enforceable rights nor empty promises. They set constitutional ends and standards of justification; delivery still requires finance, federal coordination, capable institutions and Part III-compatible means.
 
-**How to improve this answer:** Update the Uttarakhand example to the April 2026 Amendment Act, then compare targeted reform and comprehensive codification in two columns; end with an executable test of consultation, equality, transition and federal competence.
+**Why this earns marks:** It pairs named criticism with constitutional and institutional responses, then gives a qualified delivery verdict.
 
-**Demand decoding:** The directive **discuss** requires a direct position on “M5. Article 44 is a constitutional direction, but a Uniform Civil Code is a legislative…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M5. Article 44 is a constitutional direction, but a Uniform Civil Code is a legislative design problem. Discuss. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M5. Article 44 is a constitutional direction, but a Uniform Civil Code is a legislative design problem. Discuss. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Design choices: India has used community-specific codification, the opt-in Special Marriage Act, targeted equality reform and now a State common-code experiment. Goa is instructive but not perfectly uniform. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Verdict: Legitimacy requires consultation, gender-just rules, clear transition, federal competence and protection against majoritarian transplantation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It integrates Article 44, Entry 5, equality/religion, four cases, reform routes, Law Commission positions and secure Uttarakhand facts while explicitly refusing the false "courts ordered UCC" claim. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M5. Article 44 is a constitutional direction, but a Uniform Civil Code is a legislative design problem. Discuss. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M6. How far have Directive Principles transformed India from a police state into a welfare state? Critically evaluate. (20 marks, 300 words)
-
-**Model solution.** **Thesis:** DPSP have transformed the constitutional purpose and institutional reach of the Indian State, but uneven capacity, federal variation and outcome gaps make the welfare transition substantial rather than complete.
-
-**Constitutional transformation:** Articles 38-39 constitutionalise justice, livelihood, distribution and anti-concentration. Articles 41-43 add work, assistance, humane conditions and living wage; Articles 45-48A add childhood, vulnerable sections, health, agriculture and environment.
-
-**Named institutional gains:** Land reform received protection through Articles 31A/31B and early amendments, though *I.R. Coelho* preserves post-1973 basic-structure review. Article 40 matured through the 73rd Amendment, while the 74th supports urban welfare delivery. Article 39A produced the 1987 Act and NALSA. Education moved from Articles 41/45 through *Unni Krishnan* to Article 21A and the RTE Act. Article 48A informed environmental statutes and Article 21 jurisprudence. Article 43B constitutionalised co-operative principles, subject to the federal limit in *Rajendra N. Shah*. The four Labour Codes, in force from 21 November 2025, provide a current consolidated central framework for wage, industrial-relations, social-security and safety goals.
-
-**Why the transition remains incomplete:** Legislation does not ensure outcomes. Local bodies lack predictable funds/functionaries; legal-aid quality varies; informal workers may remain outside effective protection; health/nutrition depend heavily on State capacity; environmental enforcement is fragmented. Electoral incentives favour visible transfers over institution-building, and federal fiscal inequality produces territorial inequality.
-
-**Constitutional limit:** Welfare ends cannot erase rights. *Minerva Mills (1980)* makes Part III-Part IV balance basic structure; *Property Owners Association (2024)* preserves only a narrow Article 31C shield.
-
-**Conclusion:** India is constitutionally and institutionally a welfare state, but the next stage is outcome constitutionalism: funded local institutions, minimum national floors, measurable service quality and rights-compatible implementation.
-
-**Why this earns marks:** It covers the full philosophy-to-delivery arc, uses eight named constitutional/statutory examples, analyses mechanism and incentives, states rights/federal limitations and gives a graded "how far" verdict.
-
-**How to improve this answer:** Group examples by social floor, democratic decentralisation and regulatory welfare rather than listing them; attach one measurable delivery gap to each group and retain the final “substantial, not complete” degree verdict.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “M6. How far have Directive Principles transformed India from a police state into a welfare…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M6. How far have Directive Principles transformed India from a police state into a welfare state? Critically evaluate. (20 marks, 300 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M6. How far have Directive Principles transformed India from a police state into a welfare state? Critically evaluate. (20 marks, 300 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Constitutional limit: Welfare ends cannot erase rights. Minerva Mills (1980) makes Part III-Part IV balance basic structure; Property Owners Association (2024) preserves only a narrow Article 31C shield. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M6. How far have Directive Principles transformed India from a police state into a welfare state? Critically evaluate. (20 marks, 300 words)”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M7. "Directive Principles are a constitutional compass, not a delivery guarantee." Evaluate the criticisms and continuing utility of Part IV. (20 marks, 300 words)
-
-**Model solution.** **Thesis:** The metaphor is accurate if "compass" denotes binding constitutional direction rather than optional morality: Part IV guides legislation, interpretation and political accountability but cannot by itself guarantee resources, institutions or outcomes.
-
-**Criticisms:** K.T. Shah's "pious superfluities" and resource-dependent cheque attack the absence of legal remedies. T.T. Krishnamachari's "dustbin of sentiments" and N. Srinivasan's arrangement critique question coherence. Ivor Jennings called them pious aspirations and saw a dated Fabian inheritance. K. Santhanam warned of Centre-State and executive conflict.
-
-**Why these critiques matter:** Article 41 itself admits capacity constraints. Broad directives can permit symbolic legislation, selective implementation and judicial overreach. Many subjects - health, agriculture, local government, labour and personal law - are federally divided. Without budgets, trained personnel and grievance systems, constitutional language may not change lived outcomes.
-
-**Continuing utility:** Article 37 expressly makes the principles fundamental in governance and a State duty. Ambedkar linked them to economic democracy and electoral sanction; Granville Austin treated Part III and IV as the conscience of social revolution; B.N. Rau emphasised educative value; M.C. Setalvad saw them as beacon-lights for courts and the background to State action.
-
-**Concrete proof:** Article 39A produced NALSA; Article 40 informed constitutional local government; Articles 41/45 helped generate Article 21A; Article 48A shaped environmental law; Article 43B supports co-operative autonomy. *Minerva Mills (1980)* constitutionalised harmony, while *Property Owners Association (2024)* preserves a carefully bounded distributive shield.
-
-**Graded verdict:** DPSP are neither judicially enforceable rights nor empty promises. Their enduring value lies in setting ends, disciplining public justification and enabling progressive conversion into rights and institutions. Delivery requires finance, federal coordination, measurement and Part III-compatible means.
-
-**Why this earns marks:** It uses exact named critics and defenders, tests their claims against Article 37 and real institutions, integrates federal/resource/judicial limits and gives a balanced constitutional verdict rather than a quotation list.
-
-**How to improve this answer:** Pair each named criticism immediately with one constitutional or institutional rebuttal in a two-column structure; compress quotations and use the saved space for a three-part delivery test—funding, institutional capacity and grievance correction.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “M7. "Directive Principles are a constitutional compass, not a delivery guarantee." Evaluate…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M7. "Directive Principles are a constitutional compass, not a delivery guarantee." Evaluate the criticisms and continuing utility of Part IV. (20…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M7. "Directive Principles are a constitutional compass, not a delivery guarantee." Evaluate the criticisms and continuing utility of Part IV. (20 marks, 300 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M7. "Directive Principles are a constitutional compass, not a delivery guarantee." Evaluate the criticisms and continuing utility of Part IV. (20…”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**How to improve this answer:** Pair each critique with one rebuttal and test implementation through funding, capacity and grievance correction.

@@ -1,491 +1,557 @@
 ---
-title: "Centre State and Inter State Relations — Solved Practice Workbook"
+title: "Centre-State and Inter-State Relations - Solved Practice Workbook"
 topic_key: polity-13
 ---
-# Centre State and Inter State Relations — Solved Practice Workbook
+# Centre-State and Inter-State Relations - Solved Practice Workbook
+
+> Constitution, official judgments, audited UPSC paper routes and dated official institutional sources were checked through 7 September 2026. Exactly 32 original MCQs precede 11 routed PYQs and six original Mains solutions.
 
 ## BASIC MCQS / REMEDIATION
 
-### Original hard MCQ set - strict A → B → C → D rotation
+Exactly **32 original MCQs** follow. Q1-Q24 test the constitutional and institutional spine; Q25-Q32 target inter-State and reform traps. Correct options follow `ABCD` eight times. Every option receives a question-specific explanation.
+### Q1. With reference to Article 245, consider the following statements:
 
-#### OM1. Article 245
+1. Parliament may make laws for the whole or any part of India.
+2. A parliamentary law is not invalid merely because it has extra-territorial operation.
+3. A State law can never affect a person or transaction outside the State.
 
-Which statement is correct?
+Which of the statements given above are correct?
 
-A. A parliamentary law is not invalid merely for extra-territorial operation.
-B. Article 245 concerns only taxation.
-C. A State law can never have extra-State effect.
-D. Parliament needs State consent for extra-territorial law.
-
-**Answer: A.**
-
-Article 245(2) supplies the rule; State reach depends on territorial nexus.
-
-#### OM2. List hierarchy
-
-Which is the standard current examination count?
-
-A. Union 98, State 59, Concurrent 52
-B. Union 100, State 61, Concurrent 52
-C. Union 100, State 60, Concurrent 52
-D. Union 97, State 66, Concurrent 47
-
-**Answer: B.**
-
-Use 100/61/52 while recognising retained omitted/inserted numbering.
-
-#### OM3. 42nd Amendment
-
-Which subject was moved from State to Concurrent List by the 42nd Amendment?
-
-A. Public health
-B. Agriculture
-C. Education
-D. Police
-
-**Answer: C.**
-
-Education was one of five transferred subjects.
-
-#### OM4. Residuary power
-
-Residuary legislative power belongs to:
-
-A. Supreme Court
-B. Inter-State Council
-C. States
-D. Parliament
-
-**Answer: D.**
-
-Article 248 and Union Entry 97 place it with Parliament.
-
-#### OM5. Article 249
-
-The special trigger is:
-
-A. Rajya Sabha national-interest resolution by prescribed majority
-B. Lok Sabha simple majority
-C. Two-State request
-D. National Emergency
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
 **Answer: A.**
 
-It is a federal role of Rajya Sabha and does not require Emergency.
+- **A:** Correct. Clauses (1) and (2) give Parliament territorial reach and protect its law from invalidity merely for extra-territorial operation.
+- **B:** Incorrect. Statement 3 ignores territorial nexus, under which a real and pertinent connection may support limited extra-State effect of State law.
+- **C:** Incorrect. Statement 3 is too absolute even though statement 1 correctly describes Parliament's basic territorial power.
+- **D:** Incorrect. The first two statements are textually sound, but the categorical denial of territorial nexus makes statement 3 false.
 
-#### OM6. Article 252
+**Examiner trap:** Article 245 distinguishes Parliament's extra-territorial rule from the judicially developed territorial-nexus limit on State law.
 
-Which is correct?
+### Q2. Which sequence correctly reflects the constitutional priority under Article 246?
 
-A. It requires presidential rule.
-B. Two or more States initiate; Parliament alone later amends/repeals.
-C. A State may unilaterally repeal it.
-D. It applies automatically to every State.
+A. State List over Concurrent List over Union List
+B. Union List over Concurrent List over State List
+C. Concurrent List over Union List over State List
+D. All three Lists have identical priority in every conflict
 
 **Answer: B.**
 
-Other States can later adopt the parliamentary law.
+- **A:** Incorrect. Article 246(3) expressly makes State competence subject to clauses (1) and (2), so List II is not supreme in overlap.
+- **B:** Correct. The notwithstanding and subject-to clauses create Union, then Concurrent, then State priority where reconciliation fails.
+- **C:** Incorrect. Concurrent competence is subject to Parliament's exclusive Union List power and does not outrank List I.
+- **D:** Incorrect. Courts first reconcile fields, but the constitutional clauses still provide a priority structure for irreconcilable overlap.
 
-#### OM7. Article 253
+**Examiner trap:** Priority is a conflict rule after interpretation; it does not justify reading State entries narrowly from the outset.
 
-Parliament can legislate on a State field to:
+### Q3. Article 246A is best described as:
 
-A. create a local body
-B. alter a State Budget
-C. implement a treaty or international decision
-D. remove a Governor
+A. a new tax entry in the Concurrent List
+B. exclusive State power over intra-State GST and exclusive Union power over all other GST
+C. a special simultaneous GST power, with Parliament exclusively competent for inter-State supplies
+D. a provision making every GST Council recommendation self-executing
 
 **Answer: C.**
 
-Article 253 is an express treaty-implementation route.
+- **A:** Incorrect. Article 246A is a standalone constitutional competence provision rather than an inserted List III entry.
+- **B:** Incorrect. Parliament and States share intra-State GST competence; Parliament's special exclusivity concerns inter-State supplies.
+- **C:** Correct. The provision creates simultaneous legislative authority and a distinct parliamentary rule for inter-State GST.
+- **D:** Incorrect. Legislative competence under Article 246A is separate from the recommendatory role of the Council under Article 279A.
 
-#### OM8. Article 250
+**Examiner trap:** Do not import Article 254's ordinary Concurrent-List repugnancy structure into Article 246A without examining the special GST design.
 
-A State-field law made during National Emergency becomes inoperative:
+### Q4. Residuary legislative power, including residuary taxation, is located in:
 
-A. only after State repeal
-B. immediately after Emergency
-C. after one year
-D. six months after Emergency ceases
+A. Article 263 and the Inter-State Council
+B. Article 280 and the Finance Commission
+C. Article 246A and the GST Council
+D. Article 248 read with Union List Entry 97
 
 **Answer: D.**
 
-The six-month tail permits transition.
+- **A:** Incorrect. Article 263 concerns advisory intergovernmental coordination and creates no residuary law-making field.
+- **B:** Incorrect. Article 280 recommends fiscal distribution; it does not allocate unenumerated legislative subjects.
+- **C:** Incorrect. Article 246A is confined to GST and cannot serve as the general constitutional residue.
+- **D:** Correct. Parliament has exclusive competence over a matter, including a tax, not enumerated in Lists II or III.
 
-#### OM9. Pith and substance
+**Examiner trap:** A matter that fairly falls within List II cannot be pulled into Entry 97 merely by calling it new or nationally important.
 
-The doctrine asks:
+### Q5. Which combination correctly states the Article 249 route?
 
-A. What is the law's true nature?
-B. Whether Union law is popular
-C. Whether President agrees
-D. Whether two States consent
+A. Rajya Sabha; two-thirds of members present and voting; national interest; resolution up to one year
+B. Lok Sabha; special majority; financial emergency; resolution up to six months
+C. Two State legislatures; simple majority; treaty implementation; permanent transfer
+D. President; Cabinet advice; internal disturbance; automatic State-law repeal
 
 **Answer: A.**
 
-Incidental encroachment does not defeat a law within competence.
+- **A:** Correct. The Council of States supplies the special trigger, and each resolution may operate for a period not exceeding one year.
+- **B:** Incorrect. Lok Sabha and financial emergency are not the institutional or substantive triggers in Article 249.
+- **C:** Incorrect. Resolutions of two or more State legislatures belong to Article 252, not Article 249.
+- **D:** Incorrect. Article 249 neither begins with presidential satisfaction nor automatically repeals State legislation.
 
-#### OM10. Harmonious construction
+**Examiner trap:** Article 249 is a Rajya Sabha national-interest gateway, not one of the proclamations in Part XVIII.
 
-Its principal purpose is to:
+### Q6. A parliamentary law made under Article 250:
 
-A. always invalidate State law
-B. allow both constitutional fields maximum workable operation
-C. transfer residue to States
-D. abolish Article 254
+A. continues permanently unless every State agrees to repeal it
+B. operates while a National Emergency is in force and ordinarily ceases six months after it ends
+C. requires resolutions of two or more States before enactment
+D. automatically invalidates every earlier State law for all time
 
 **Answer: B.**
 
-Supremacy is used after reconciliation fails.
+- **A:** Incorrect. Article 250 is temporary and does not depend on unanimous State consent for its cessation.
+- **B:** Correct. The emergency supplies competence, while the six-month tail permits transition after the emergency ceases.
+- **C:** Incorrect. State legislative resolutions define Article 252, whereas Article 250 follows an operating Article 352 Emergency.
+- **D:** Incorrect. Article 251 makes the State law inoperative only to the extent of inconsistency while the parliamentary law remains effective.
 
-#### OM11. Article 254
+**Examiner trap:** Match Article 250 only with National Emergency, not with President's Rule or financial emergency.
 
-A President-assented State law repugnant on a Concurrent subject:
+### Q7. Consider the following statements on Article 252:
 
-A. prevails nationally
-B. cannot be overridden
-C. may operate in that State until Parliament overrides
-D. becomes a constitutional amendment
+1. Resolutions of two or more State legislatures initiate the route.
+2. The law automatically applies to all States.
+3. Another State may later adopt the law.
+4. A participating State may amend the law by its own legislation.
+
+Which are correct?
+
+A. 1 and 2 only
+B. 2 and 4 only
+C. 1 and 3 only
+D. 1, 3 and 4 only
 
 **Answer: C.**
 
-Article 254(2) is State-specific and subject to later parliamentary law.
+- **A:** Incorrect. Statement 2 is false because the enactment initially applies to the resolving States, not automatically to every State.
+- **B:** Incorrect. Both statements 2 and 4 contradict the consent-based territorial design and Parliament's retained amendment power.
+- **C:** Correct. Two or more States initiate, and another State may adopt the parliamentary law later by resolution.
+- **D:** Incorrect. Statement 4 is false: amendment or repeal must be by Parliament in the like manner.
 
-#### OM12. Colourable legislation
+**Examiner trap:** Article 252 State consent expands Parliament's territory of operation but does not give participating States unilateral repeal power.
 
-Which principle is captured?
+### Q8. Which statement correctly distinguishes Articles 253 and 356-357?
 
-A. Form alone decides competence.
-B. Every overlap is valid.
-C. President cures all incompetence.
-D. What cannot be done directly cannot be done indirectly.
+A. Both require prior resolutions of two State legislatures.
+B. Both laws cease immediately when their triggering event ends.
+C. Article 253 is confined to Union List matters, while Article 356 excludes State subjects.
+D. Article 253 implements international obligations; a law under Articles 356-357 may continue after President's Rule until altered by competent authority.
 
 **Answer: D.**
 
-Substance controls over legislative disguise.
+- **A:** Incorrect. Neither route depends on Article 252-style resolutions by two or more State legislatures.
+- **B:** Incorrect. Article 357(2) expressly preserves a law after the proclamation until it is altered, repealed or amended.
+- **C:** Incorrect. Article 253 can reach a State field for international implementation, while Articles 356-357 concern State legislative power.
+- **D:** Correct. The first is an external-obligation route; the second has a distinct post-proclamation survival rule.
 
-#### OM13. Article 256
+**Examiner trap:** The six-month tails of Articles 249 and 250 must not be copied into the different Article 357 continuation rule.
 
-States must:
+### Q9. Which set is correctly matched?
 
-A. ensure compliance with parliamentary and applicable laws
-B. transfer police to Union
-C. follow ISC recommendations as binding
-D. obtain Union approval for every executive act
+A. Pith and substance—true character; territorial nexus—geographical connection; incidental encroachment—limited overlap may survive
+B. Pith and substance—Presidential assent; territorial nexus—Concurrent repugnancy; incidental encroachment—automatic invalidity
+C. Pith and substance—tax distribution; territorial nexus—treaty implementation; incidental encroachment—Article 356
+D. Pith and substance—executive direction; territorial nexus—Finance Commission; incidental encroachment—Article 301
 
 **Answer: A.**
 
-Union directions can support this compliance duty.
+- **A:** Correct. The three concepts respectively test dominant character, State-law reach and tolerable ancillary overlap.
+- **B:** Incorrect. Presidential assent and repugnancy are Article 254 issues, not definitions of pith, nexus or incidental effect.
+- **C:** Incorrect. The listed fiscal, treaty and emergency subjects do not describe these competence doctrines.
+- **D:** Incorrect. Administrative, fiscal and trade provisions are unrelated to the three judicial tests in the option.
 
-#### OM14. Article 365
+**Examiner trap:** A law may incidentally touch another List yet remain valid; the doctrine does not authorise substantial occupation of an alien field.
 
-Which is most accurate?
+### Q10. Which proposition about delegated and colourable legislation is correct?
 
-A. It creates an All-India Service.
-B. Non-compliance may support a presidential conclusion, but Article 356 safeguards remain.
-C. It automatically imposes President's Rule.
-D. It concerns tax sharing.
+A. Delegation permits the executive to choose the essential legislative policy without limits.
+B. Delegated rules must stay within the parent Act and competence; colourable legislation exposes an indirect attempt to do what is constitutionally forbidden.
+C. Presidential assent validates any delegated rule even if the parent legislature lacked competence.
+D. Colourable legislation applies only when a law uses deceptive language, regardless of substance.
 
 **Answer: B.**
 
-The inference is not automatic and Bommai review remains.
+- **A:** Incorrect. Essential legislative policy must be determined by the competent legislature; administration may fill bounded details.
+- **B:** Correct. Both doctrines insist that constitutional competence cannot be enlarged through subordinate form or legislative disguise.
+- **C:** Incorrect. Assent cannot cure lack of legislative field, excessive delegation or a rule exceeding its enabling Act.
+- **D:** Incorrect. The colourable-legislation inquiry looks to substance and constitutional capacity, not verbal dishonesty alone.
 
-#### OM15. Article 258A
+**Examiner trap:** Delegation is an implementation technique, not a sixth route for Parliament to enter the State List.
 
-It permits:
+### Q11. A State law on a Concurrent subject, repugnant to an earlier parliamentary law, has received Presidential assent. Which result follows?
 
-A. President to amend State law
-B. Parliament to dissolve Assembly
-C. Governor with Union consent to entrust State functions to Union
-D. ISC to issue binding directions
+A. It becomes valid throughout India and displaces Parliament.
+B. It becomes immune from every future parliamentary enactment.
+C. It may prevail in that State, but Parliament may later add to, amend, vary or repeal it.
+D. It automatically converts the subject into the State List.
 
 **Answer: C.**
 
-Article 258 concerns Union-to-State entrustment; 258A is the reverse.
+- **A:** Incorrect. Article 254(2) gives a State-specific exception, not nationwide priority over Parliament.
+- **B:** Incorrect. The concluding words of Article 254(2) expressly preserve later parliamentary override.
+- **C:** Correct. Assent qualifies the ordinary priority rule within that State while retaining Parliament's future competence.
+- **D:** Incorrect. Presidential assent affects the conflicting law's operation; it does not amend the Seventh Schedule.
 
-#### OM16. All-India Service
+**Examiner trap:** Before applying Article 254(2), confirm that the State law was within State competence and that a real Concurrent-field repugnancy exists.
 
-Which is not an All-India Service?
+### Q12. Which statement is correct about State Bills and related procedural controls?
 
-A. IPS
-B. Indian Forest Service
-C. IAS
-D. Indian Foreign Service
+A. Previous Presidential sanction and reservation for the President are the same stage.
+B. Article 201 compels Presidential assent whenever a returned State Bill is repassed.
+C. Article 255 cures every defect, including lack of legislative competence.
+D. Article 200 governs Governor action; Article 201 governs Presidential consideration; Article 255 provides only a limited procedural cure.
 
 **Answer: D.**
 
-The Foreign Service is a Central Civil Service.
+- **A:** Incorrect. Previous sanction operates before the legislative step specified by the Constitution, whereas reservation follows passage and presentation.
+- **B:** Incorrect. Article 201 contains no Article 200-style command that the President must assent after State reconsideration.
+- **C:** Incorrect. Article 255 addresses specified recommendation or sanction procedure and cannot validate substantive incompetence.
+- **D:** Correct. The three provisions occupy different stages and have different legal effects.
 
-#### OM17. CBI consent
+**Examiner trap:** Do not convert the 2023 Punjab Governor ruling or the 2025 advisory opinion into a universal fixed assent deadline.
 
-Which is correct?
+### Q13. Under Articles 256 and 257, the Union may:
 
-A. Constitutional courts may order a CBI probe without State consent.
-B. CBI has a dedicated constitutional article.
-C. Police is Concurrent List.
-D. Withdrawal voids all earlier cases automatically.
+A. issue constitutionally grounded directions for compliance, non-impediment, specified communications and railway protection
+B. take permanent control of State police whenever implementation is disputed
+C. treat every policy disagreement as Article 365 non-compliance
+D. require prior Union approval for all State executive decisions
 
 **Answer: A.**
 
-Section 6 consent is important but does not bind Article 32/226 courts.
+- **A:** Correct. The provisions identify implementation and non-impediment duties plus specific direction fields.
+- **B:** Incorrect. Police remains a State field, and the direction provisions do not create an unrestricted takeover power.
+- **C:** Incorrect. Article 365 requires actual failure to comply with constitutional directions and still does not automate Article 356.
+- **D:** Incorrect. The Constitution does not establish a general prior-approval regime for the State executive.
 
-#### OM18. Article 265
+**Examiner trap:** Direction power must be tied to the constitutional text; administrative convenience alone is not an independent source.
 
-It provides:
+### Q14. Which matching is correct?
 
-A. State borrowing abroad
-B. no tax except by authority of law
-C. free inter-State trade
-D. Finance Commission every five years
+A. Article 258—State functions entrusted to Union without Union consent; Article 258A—Union functions entrusted to State without State consent
+B. Article 258—Union functions may be entrusted with State consent; Article 258A—State functions may be entrusted with Union consent
+C. Article 260—automatic transfer of State judicial power to the Union
+D. Article 259—current general power of reciprocal delegation
 
 **Answer: B.**
 
-It is the foundational legality rule for taxation.
+- **A:** Incorrect. The directions and consent requirements are reversed in both parts of the option.
+- **B:** Correct. Articles 258 and 258A create reciprocal consensual entrustment in opposite directions.
+- **C:** Incorrect. Article 260 concerns functions in relation to a territory outside India under an agreement, not absorption of State power.
+- **D:** Incorrect. Article 259 is omitted and supplies no operative delegation power.
 
-#### OM19. Article 269A
+**Examiner trap:** Article 258(2) separately allows parliamentary law to confer powers or impose duties and must not be confused with consensual entrustment under clause (1).
 
-It principally concerns:
+### Q15. Which statement about All-India Services is correct?
 
-A. State borrowing
-B. Union surcharge
-C. inter-State GST apportionment
-D. profession tax
+A. Lok Sabha may create one by simple majority resolution without legislation.
+B. Indian Foreign Service is the third All-India Service.
+C. Rajya Sabha must adopt a two-thirds present-and-voting national-interest resolution before Parliament creates a new common service.
+D. Article 312 places every service officer exclusively under day-to-day Union control.
 
 **Answer: C.**
 
-IGST is levied/collected by Union and apportioned.
+- **A:** Incorrect. Article 312 assigns the initiating federal resolution to Rajya Sabha and then requires parliamentary law.
+- **B:** Incorrect. The Indian Forest Service is the third All-India Service; the Foreign Service is a Central Civil Service.
+- **C:** Correct. The special Rajya Sabha threshold precedes legislation creating one or more services common to Union and States.
+- **D:** Incorrect. Common cadres involve Union and State control; officers serving State posts are not under exclusive daily Union administration.
 
-#### OM20. Article 271
+**Examiner trap:** The similar abbreviations IFS and IFoS conceal a high-frequency Prelims distinction.
 
-Which is correct?
+### Q16. Regarding CBI jurisdiction and the 2024 West Bengal ruling, which statement is most accurate?
 
-A. GST surcharge is unrestricted.
-B. States impose Union surcharge.
-C. Surcharge is shared under Article 270.
-D. Parliament may impose Union-purpose surcharge whose proceeds are not shared.
+A. State withdrawal of general consent automatically nullifies all earlier investigations.
+B. Section 6 consent binds even Supreme Court and High Court orders.
+C. The 2024 judgment finally upheld every merits claim made by West Bengal.
+D. Ordinary DSPE exercise in a State needs consent, constitutional courts retain power, and the 2024 ruling rejected preliminary objections without deciding merits.
 
 **Answer: D.**
 
-Cesses/surcharges outside the pool are a major State grievance.
+- **A:** Incorrect. Withdrawal generally affects fresh ordinary cases and does not mechanically erase all lawfully commenced proceedings.
+- **B:** Incorrect. Articles 32 and 226 permit constitutional courts to direct CBI investigation without State consent.
+- **C:** Incorrect. 2024 INSC 502 expressly confined its findings to the preliminary objection and left the suit to proceed on merits.
+- **D:** Correct. It preserves the statutory federal safeguard, judicial exception and exact procedural status of the Article 131 suit.
 
-#### OM21. Article 275
+**Examiner trap:** Maintainability is not a merits judgment; use the phrase 'preliminary objection rejected' rather than 'CBI action held unlawful'.
 
-It concerns:
+### Q17. Which constitutional sequence is correct?
 
-A. constitutional grants-in-aid
-B. inter-State water tribunals
-C. discretionary any-purpose grants only
-D. external borrowing
+A. Article 355 duty -> possible Article 365 inference -> separately controlled Article 356 remedy -> Article 357 legislative consequence
+B. Article 365 proclamation -> automatic Assembly dissolution -> Article 355 approval
+C. Article 357 duty -> Article 356 direction -> Article 365 tax consequence
+D. Article 355 authorisation -> permanent Union acquisition of the State List
 
 **Answer: A.**
 
-Article 282 is the broad discretionary public-purpose grant provision.
+- **A:** Correct. The sequence keeps protection duty, non-compliance inference, exceptional proclamation and legislative effect analytically distinct.
+- **B:** Incorrect. Article 365 is not a proclamation and does not automatically dissolve a legislature.
+- **C:** Incorrect. The Articles are assigned the wrong functions and none of them creates an ordinary tax-distribution consequence.
+- **D:** Incorrect. Article 355 does not permanently transfer State legislative fields to Parliament.
 
-#### OM22. State borrowing
+**Examiner trap:** Use *S.R. Bommai* for review and floor-test discipline, but leave complete Article 356 duration rules to the Emergency topic.
 
-A State with an outstanding Union loan:
+### Q18. Which statement correctly links public funds and tax assignment?
 
-A. requires ISC consent
-B. needs Union consent for further borrowing, potentially with conditions
-C. may borrow abroad freely
-D. cannot borrow at all
+A. All State tax revenue is first credited to the Consolidated Fund of India.
+B. Article 266 creates separate Consolidated Funds, while Article 268 covers specified Union levies collected and appropriated by States.
+C. Article 269A places IGST entirely in State Consolidated Funds without apportionment.
+D. Article 268 is the general Finance Commission devolution article.
 
 **Answer: B.**
 
-Article 293 is a central fiscal-leverage point.
+- **A:** Incorrect. Article 266 maintains separate Union and State Consolidated Funds according to the source and governmental level.
+- **B:** Correct. The public-fund rule and the special Article 268 collection/appropriation arrangement are distinct but compatible.
+- **C:** Incorrect. Article 269A provides Union levy and collection with apportionment between Union and States.
+- **D:** Incorrect. General divisible-pool distribution is anchored in Article 270, with recommendations under Article 280.
 
-#### OM23. 16th FC
+**Examiner trap:** Levy, collection, appropriation and distribution are separate verbs; a correct answer must identify each one.
 
-Which criterion is new in the 2026-31 horizontal formula?
+### Q19. Consider the following statements:
 
-A. Tax effort
-B. Urbanisation
-C. Contribution to GDP
-D. Fiscal deficit
+1. Article 270 concerns distribution of specified Union taxes between Union and States.
+2. Article 271 permits a Union-purpose surcharge whose whole proceeds form part of the Consolidated Fund of India.
+3. Article 271 applies without qualification to GST under Article 246A.
+4. Specific-purpose parliamentary cesses are excluded from the divisible pool under Article 270.
+
+Which are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 4 only
+D. 1, 3 and 4 only
 
 **Answer: C.**
 
-Contribution to GDP has 10%; tax effort was removed.
+- **A:** Incorrect. Statements 1 and 2 are true, but statement 4 is also a central divisible-pool distinction.
+- **B:** Incorrect. Statement 3 ignores Article 271's express GST exclusion.
+- **C:** Correct. Shared taxes, surcharges and specific-purpose cesses receive different constitutional treatment.
+- **D:** Incorrect. Statement 3 is false even though statements 1 and 4 correctly identify distribution and exclusion.
 
-#### OM24. 16th FC vertical share
+**Examiner trap:** A high devolution percentage can coexist with a narrower shareable base; never equate divisible pool with gross Union tax revenue.
 
-The accepted share is:
+### Q20. Which option correctly completes the grants and procedure map?
 
-A. 42% divisible pool
-B. 50% gross tax
-C. 40% all receipts
-D. 41% divisible pool
+A. Article 273 creates a permanent universal revenue-deficit grant.
+B. Article 274 concerns Zonal Council consultation on tax Bills.
+C. Article 275 is only an executive-discretion grant and Article 282 is mandatory.
+D. Article 273 was a temporary jute-duty arrangement; Article 274 requires Presidential recommendation for specified tax Bills; Articles 275 and 282 are distinct grant routes.
 
 **Answer: D.**
 
-Cesses, surcharges and collection cost are outside the divisible pool.
+- **A:** Incorrect. Article 273 was time-bound and historically specific, not a permanent equalisation grant.
+- **B:** Incorrect. Article 274 deals with Presidential recommendation for specified taxation legislation, not regional councils.
+- **C:** Incorrect. Article 275 provides constitutional grants-in-aid, whereas Article 282 permits either level to make public-purpose grants.
+- **D:** Correct. It preserves the historical, procedural, constitutional-grant and discretionary-grant distinctions.
 
-#### OM25. Water amendment
+**Examiner trap:** Do not collapse Article 275 Finance Commission-linked grants and Article 282 public-purpose spending into one transfer category.
 
-As of 16 August 2026:
+### Q21. The Finance Commission under Article 280:
 
-A. The 2019 permanent-tribunal Bill has not become law.
-B. Article 262 was repealed.
-C. A permanent tribunal is operational.
-D. Courts have unrestricted jurisdiction.
+A. is constituted by the President every fifth year or earlier and recommends vertical distribution, inter se shares and grant principles
+B. is a permanent executive department chaired by the Union Finance Minister
+C. makes recommendations that automatically amend the Constitution
+D. replaces State Finance Commissions and the GST Council
 
 **Answer: A.**
 
-The existing dispute-specific tribunal system remains controlling.
+- **A:** Correct. Its periodic constitutional mandate includes tax distribution and grants, with later additions concerning local-body fund augmentation.
+- **B:** Incorrect. It is periodically constituted by the President, not a permanent ministry or cabinet committee.
+- **C:** Incorrect. Recommendations require governmental consideration and Article 281 parliamentary laying; they are not self-amending law.
+- **D:** Incorrect. State Finance Commissions and the GST Council have different constitutional levels and functions.
 
-#### OM26. Inter-State Council
+**Examiner trap:** Calling the Finance Commission 'quasi-judicial' or a 'balancing wheel' is descriptive textbook language, not constitutional text.
 
-Which is correct?
+### Q22. Which statement reflects the accepted Sixteenth Finance Commission position for 2026-27 to 2030-31?
 
-A. It is created by the States Reorganisation Act.
-B. Article 263 permits it and a 1990 presidential order established it.
-C. Its decisions bind like Supreme Court judgments.
-D. It is chaired by the Chief Justice.
+A. States receive 42 percent of gross Union tax revenue.
+B. States receive 41 percent of the divisible pool; the horizontal formula includes contribution to State GDP alongside equalisation-related criteria.
+C. Tax effort alone determines every State's share.
+D. Revenue-deficit and State-specific grants were constitutionally abolished for all future Commissions.
 
 **Answer: B.**
 
-It is advisory and constitutionally provided.
+- **A:** Incorrect. The accepted share is 41 percent of net proceeds in the divisible pool, not 42 percent of gross tax revenue.
+- **B:** Correct. The February 2026 Explanatory Memorandum records the vertical share and the six accepted horizontal criteria.
+- **C:** Incorrect. The formula uses multiple criteria, and tax effort was not retained in the accepted Sixteenth Commission formula.
+- **D:** Incorrect. The Commission did not recommend those grants for this award period; no permanent constitutional prohibition was created.
 
-#### OM27. Part XIII
+**Examiner trap:** A Finance Commission recommendation is dated to its award period; it is not a timeless constitutional percentage or formula.
 
-After Jindal Stainless, a State tax on imported goods is centrally tested for:
+### Q23. For a formal GST Council decision, which voting structure is correct?
 
-A. quid pro quo
-B. Finance Commission approval
-C. hostile/protectionist discrimination under Article 304(a)
-D. compensatory character
+A. Simple majority, with equal votes for every government
+B. Two-thirds majority, with the Union holding one-half of votes
+C. Three-fourths weighted majority of members present and voting; Union one-third, States together two-thirds
+D. Unanimity is constitutionally mandatory in every case
 
 **Answer: C.**
 
-The nine-judge bench rejected the compensatory-tax doctrine.
+- **A:** Incorrect. Article 279A creates weighted voting rather than one-government-one-vote simple majority.
+- **B:** Incorrect. The Union has one-third, not one-half, of the weighted vote.
+- **C:** Correct. The formula makes both Union participation and substantial State support necessary for a formal decision.
+- **D:** Incorrect. Consensus is a valuable practice, but the constitutional text supplies a weighted voting threshold.
 
-#### OM28. Minor minerals
+**Examiner trap:** Quorum is one-half of total membership; do not confuse quorum with the three-fourths decision threshold.
 
-Which allocation is correct?
+### Q24. What did *Union of India v. Mohit Minerals* (2022) hold about the GST Council?
 
-A. ISC makes rules.
-B. States notify minor-mineral category and Union grants leases.
-C. Only Union has all powers.
-D. Centre may notify category; States make concession rules under Section 15.
+A. Its recommendations override every inconsistent State law under Article 254.
+B. It has no constitutional significance once States disagree.
+C. Only the Union possesses primary GST legislative power.
+D. Its recommendations are persuasive and products of collaborative dialogue, while Parliament and States possess simultaneous legislative power.
 
 **Answer: D.**
 
-This is the official 2025 PYQ distinction.
+- **A:** Incorrect. Article 246A's special simultaneous design is not governed by an automatic Article 254 Council override.
+- **B:** Incorrect. Non-binding recommendations still structure harmonisation, negotiation and statutory implementation.
+- **C:** Incorrect. States possess GST law-making authority within the constitutional design, subject to the inter-State-supply rule.
+- **D:** Correct. The Court protected legislative autonomy while emphasising cooperation and the Council's persuasive role.
 
+**Examiner trap:** Non-binding is not synonymous with optional, irrelevant or incapable of shaping enacted GST law.
 
-### Remedial MCQ loop - strict A -> A -> C -> D rotation
+### Q25. Under Article 293, when does a State require Union consent for further borrowing?
 
-#### RM1. R-N-S-I-P
-
-Which Article uses a Rajya Sabha national-interest resolution?
-
-A. 249
-B. 250
-C. 253
-D. 252
+A. When a Union loan to the State or a Union-guaranteed loan remains outstanding
+B. Whenever the State borrows from any source, even with no outstanding Union-linked loan
+C. Only during a Financial Emergency
+D. Only after the Finance Commission refuses a grant
 
 **Answer: A.**
 
-Article 249 is not an Emergency provision.
+- **A:** Correct. Clause (3) links consent to outstanding Union loans or Union-guaranteed loans, and clause (4) permits conditions.
+- **B:** Incorrect. The text does not impose a universal consent rule detached from the outstanding-loan condition.
+- **C:** Incorrect. Article 293 is an ordinary fiscal-federal provision and does not wait for Article 360.
+- **D:** Incorrect. Finance Commission grants and borrowing consent are separate mechanisms.
 
-#### RM2. Repugnancy
+**Examiner trap:** The Kerala litigation concerns the contested breadth of current borrowing controls; the 2024 interim order did not settle that merits issue.
 
-Article 254 principally concerns:
+### Q26. Which statement correctly compares the two 1956 river-water statutes?
 
-A. water disputes
-B. Concurrent conflict
-C. Union List
-D. State borrowing
+A. Both create binding tribunals for every basin automatically.
+B. The River Boards Act provides an advisory development mechanism; the Inter-State River Water Disputes Act provides dispute-specific adjudication and a jurisdiction bar.
+C. The River Boards Act repeals Article 131, while the Disputes Act creates Zonal Councils.
+D. Both were replaced by the 2019 Amendment Bill.
 
 **Answer: B.**
 
-First identify competence; then apply repugnancy if relevant.
+- **A:** Incorrect. A River Board is advisory, and tribunal creation follows the statutory dispute process rather than automatic basin coverage.
+- **B:** Correct. Regulation/development advice and adjudication are separate institutional responses to inter-State waters.
+- **C:** Incorrect. Neither Act creates Zonal Councils, and Article 131 is subject to the constitutional and statutory jurisdiction design.
+- **D:** Incorrect. The 2019 Bill did not become law, so the existing Acts remain operative.
 
-#### RM3. Directions
+**Examiner trap:** Do not use 'river board', 'tribunal', 'management authority' and 'Inter-State Council' as interchangeable labels.
 
-Failure to comply with Union directions:
+### Q27. Which proposition about Articles 131 and 262 is accurate?
 
-A. automatically ends Governor tenure
-B. has no consequence
-C. may trigger Article 365 inference, subject to Article 356 safeguards
-D. automatically dissolves Assembly
+A. Article 131 decides every political disagreement even without a legal right.
+B. Article 262 itself automatically bars courts without parliamentary legislation.
+C. Article 131 covers qualifying legal-right disputes, while Parliament may use Article 262 to create adjudication and exclude courts for defined water disputes.
+D. An Inter-State Council recommendation binds the Supreme Court in an Article 131 suit.
 
 **Answer: C.**
 
-Automatic-President's-Rule language is wrong.
+- **A:** Incorrect. Article 131 requires a dispute on which the existence or extent of a legal right depends.
+- **B:** Incorrect. Article 262 authorises Parliament; the statutory bar is supplied by legislation such as section 11 of the 1956 Act.
+- **C:** Correct. The provisions create related but distinct federal adjudication routes with a water-specific exclusion possibility.
+- **D:** Incorrect. Article 263 advice has no power to bind constitutional adjudication.
 
-#### RM4. Services
+**Examiner trap:** Water allocation may involve negotiation, adjudication and implementation, but the legal jurisdiction for each stage must be identified separately.
 
-Which is a Central Civil Service, not AIS?
+### Q28. Which institutional classification is correct?
 
-A. IPS
-B. IAS
-C. IFoS
-D. Indian Foreign Service
+A. Inter-State Council—statutory; Zonal Councils—constitutional; NEC—executive
+B. Inter-State Council—judicial; Zonal Councils—executive; NEC—constitutional
+C. All three are constitutional bodies because they coordinate States
+D. Inter-State Council—Article 263 and 1990 Order; Zonal Councils—1956 statute; NEC—separate 1971 statute
 
 **Answer: D.**
 
-The similar initials are a common trap.
+- **A:** Incorrect. It reverses the constitutional enabling source and both statutory foundations.
+- **B:** Incorrect. None of these advisory forums is a court, and the status labels are wrongly assigned.
+- **C:** Incorrect. Similar intergovernmental functions do not create identical legal status.
+- **D:** Correct. The constitutional provision, Presidential establishment order and two different statutes must be kept distinct.
 
-#### RM5. Grants
+**Examiner trap:** The NEC is not a sixth Zonal Council, even though both perform regional coordination functions.
 
-Article 275 refers to:
+### Q29. Article 261 provides that:
 
-A. constitutional grants-in-aid
-B. foreign borrowing
-C. GST compensation
-D. any-purpose discretionary grants
+A. full faith and credit extends across India to public acts, records and judicial proceedings, with civil judgments executable according to law
+B. every State criminal law automatically operates and is enforced in every other State
+C. only Union records receive recognition outside their territory
+D. Parliament cannot prescribe the manner of proof or effect
 
 **Answer: A.**
 
-Article 282 is the broad discretionary provision.
+- **A:** Correct. The clause supports legal continuity while allowing parliamentary rules of proof/effect and nationwide civil execution.
+- **B:** Incorrect. Clause (3) specifically addresses final civil judgments and does not nationalise every State penal law.
+- **C:** Incorrect. The text includes the Union and every State, not Union documents alone.
+- **D:** Incorrect. Article 261(2) expressly authorises Parliament to prescribe proof and effect.
 
-#### RM6. Institution status
+**Examiner trap:** Full faith and credit recognises legal acts across borders; it does not merge State jurisdictions or erase criminal-law limits.
 
-Zonal Councils are:
+### Q30. After *Jindal Stainless* (2016), which statement best describes Part XIII?
 
-A. judicial
-B. statutory
-C. private
-D. constitutional
+A. Every State tax affecting goods is invalid unless it is compensatory.
+B. Article 301 does not create tax immunity; Article 304(a) centrally tests discriminatory taxation, while Article 304(b) is a separate restriction route.
+C. Article 304(b) validates a discriminatory tax whenever public interest is claimed.
+D. Only Parliament, never a State, may impose any trade restriction.
 
 **Answer: B.**
 
-They arise under the States Reorganisation Act 1956.
+- **A:** Incorrect. The nine-judge Bench rejected the compensatory-tax doctrine as the controlling constitutional test.
+- **B:** Correct. The common-market guarantee operates through non-discrimination and the distinct textually permitted restrictions.
+- **C:** Incorrect. A reasonable restriction under clause (b) does not cure discrimination prohibited by clause (a).
+- **D:** Incorrect. States possess bounded authority under Article 304, including taxation and reasonable public-interest restrictions.
 
-#### RM7. Trade tax
+**Examiner trap:** Previous Presidential sanction belongs to Article 304(b), not to every non-discriminatory tax under Article 304(a).
 
-Jindal Stainless rejected:
+### Q31. Which commission recommendation set is correctly matched?
 
-A. all State taxes
-B. Article 304(a)
-C. the compensatory-tax doctrine
-D. GST
+A. Rajamannar—retain all centralising arrangements; Sarkaria—abolish ISC; Punchhi—make Article 356 automatic
+B. First ARC—oppose delegation; Sarkaria—treat Article 356 as routine; Punchhi—abolish Zonal Councils
+C. First ARC—ISC/delegation/resources; Sarkaria—last-resort Article 356 and Concurrent consultation; Punchhi—stronger councils and updated Governor/fiscal norms
+D. All commission recommendations became binding constitutional amendments on submission
 
 **Answer: C.**
 
-Non-discriminatory taxation is not automatically barred.
+- **A:** Incorrect. Rajamannar sought extensive State autonomy, Sarkaria promoted the ISC, and Punchhi did not propose automatic President's Rule.
+- **B:** Incorrect. The First ARC favoured delegation, while Sarkaria viewed Article 356 as a last resort and Punchhi sought stronger coordination.
+- **C:** Correct. The option accurately captures the distinct reform emphases while preserving their recommendatory status.
+- **D:** Incorrect. Commission reports require separate constitutional, statutory or executive adoption before acquiring legal force.
 
-#### RM8. Water tribunal
+**Examiner trap:** A marks-worthy commission reference names the diagnosed problem and proposal, then states whether it was adopted.
 
-The permanent single tribunal is:
+### Q32. Which reform package best balances Union capacity with State autonomy?
 
-A. constitutional body
-B. created in 1956
-C. operational
-D. a 2019 Bill proposal not enacted by the control date
+A. Replace all State discretion with uniform Union directions and conditional grants.
+B. Treat every intergovernmental dispute as non-justiciable political bargaining.
+C. Make every council recommendation binding without constitutional amendment.
+D. Regular consultation, transparent divisible-pool data, reasoned discretion, objective borrowing conditions, shared river data and enforceable implementation
 
 **Answer: D.**
 
-Do not turn a Bill into current law.
+- **A:** Incorrect. Uniform command may improve speed but would ignore constitutionally assigned State responsibility and regional variation.
+- **B:** Incorrect. Article 131, judicial review and statutory tribunals remain necessary for legal-right disputes.
+- **C:** Incorrect. Advisory forums cannot be transformed into binding authorities merely by assertion.
+- **D:** Correct. The package pairs national coordination with participation, evidence, legal accountability and predictable fiscal rules.
+
+**Examiner trap:** Balanced reform should repair the institution matched to the friction rather than repeat 'cooperative federalism' as an unexplained slogan.
+
 
 ## PYQS AND ANSWER PRACTICE
 
-### Routed PYQs with model solutions
+### Routed PYQs with complete solutions
+
+
+Eleven direct/supporting routes are retained exactly by year, paper and demand. The three objective answers are printed only because final official Set-A keys are held locally.
 
 #### PYQ 1 - UPSC GS-II 2019, Q4 - direct
 
-**Question:** From the resolution of contentious issues regarding distribution of legislative powers by the courts, “Principle of Federal Supremacy” and “Harmonious Construction” have emerged. Explain.  
+**Question:** From the resolution of contentious issues regarding distribution of legislative powers by the courts, “Principle of Federal Supremacy” and “Harmonious Construction” have emerged. Explain.
 **10 marks | 150 words**
 
 **Demand decoding:** Explain requires a sequential doctrine answer: allocation, reconciliation, irreconcilable conflict and qualified supremacy.
@@ -502,30 +568,14 @@ The doctrines are therefore sequential, not contradictory. Harmonious constructi
 
 Thus, Indian legislative federalism is accommodative in interpretation but Union-weighted at the point of irreconcilable conflict.
 
-**Why this earns marks:** It defines both doctrines, anchors Articles 246/254 and shows their order rather than listing them.
+**Answer-prose count:** 148 words.
 
-**How to improve this answer:** In the exam, draw a three-arrow sequence—pith and substance → harmonious construction → Article 254—and retain the Sarkaria line only if space permits.
+**Examiner focus:** It defines both doctrines, anchors Articles 246/254 and shows their order rather than listing them. In the exam, draw a three-arrow sequence—pith and substance → harmonious construction → Article 254—and retain the Sarkaria line only if space permits.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “From the resolution of contentious issues regarding distribution of legislative powers by the courts, “Principle of Federal Supremacy” and…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Seventh Schedule distributes legislative fields, but modern laws overlap. Courts therefore reconcile entries before invalidating legislation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thus, Indian legislative federalism is accommodative in interpretation but Union-weighted at the point of irreconcilable conflict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Why this earns marks: It defines both doctrines, anchors Articles 246/254 and shows their order rather than listing them. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** How to improve this answer: In the exam, draw a three-arrow sequence—pith and substance → harmonious construction → Article 254—and retain the Sarkaria line only if space permits. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “From the resolution of contentious issues regarding distribution of legislative powers by the courts, “Principle of Federal Supremacy” and…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### PYQ 2 - UPSC GS-II 2020, Q11 - direct
 
-**Question:** The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897, the Disaster Management Act, 2005 and the recently passed Farm Acts.  
+**Question:** The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897, the Disaster Management Act, 2005 and the recently passed Farm Acts.
 **15 marks | 250 words**
 
 **Demand decoding:** Elucidate requires showing how emergency and Concurrent-field laws reveal centralising capacity, with both necessity and federal cost.
@@ -542,29 +592,14 @@ Other centralising tools include residuary power, Articles 249, 250, 253 and 356
 
 Therefore, national coordination may justify central legislation, but legitimacy requires necessity, clear List competence, consultation and proportionality. Unity is strengthened when Union capacity works through cooperative institutions rather than treating States as implementing agencies.
 
-**Why this earns marks:** It uses the named statutes and Farm Acts, connects List entries, and balances centralisation with Bommai and political repeal.
+**Answer-prose count:** 200 words.
 
-**How to improve this answer:** Compress the general centralising-tool list to one sentence and spend the saved words on consultation and proportionality, which answer the evaluative edge.
+**Examiner focus:** It uses the named statutes and Farm Acts, connects List entries, and balances centralisation with Bommai and political repeal. Compress the general centralising-tool list to one sentence and spend the saved words on consultation and proportionality, which answer the evaluative edge.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** India's holding-together federation gives the Union exceptional capacity to coordinate national crises and markets. Recent legislation showed both the necessity and federal cost of that design. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It uses the named statutes and Farm Acts, connects List entries, and balances centralisation with Bommai and political repeal. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Compress the general centralising-tool list to one sentence and spend the saved words on consultation and proportionality, which answer the evaluative edge. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### PYQ 3 - UPSC GS-II 2021, Q11 - supporting
 
-**Question:** The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned by various States. However, the power of States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India.  
+**Question:** The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned by various States. However, the power of States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India.
 **15 marks | 250 words**
 
 **Demand decoding:** Explain the statutory consent rule, its constitutional exceptions and why neither State consent nor Union investigation is absolute.
@@ -583,31 +618,14 @@ The federal balance requires State police autonomy, national coordination for cr
 
 Thus, consent is constitutionally significant statutory federalism, but it cannot override constitutional-court power.
 
-**Why this earns marks:** It distinguishes DSPE consent, constitutional-court power and the limited 2024 West Bengal ruling.
+**Answer-prose count:** 191 words.
 
-**How to improve this answer:** Add a two-column consent/exception mini-table in rough work; do not claim the 2024 ruling finally decided the merits.
+**Examiner focus:** It distinguishes DSPE consent, constitutional-court power and the limited 2024 West Bengal ruling. Add a two-column consent/exception mini-table in rough work; do not claim the 2024 ruling finally decided the merits.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Police is a State subject, while the CBI exercises investigative powers through the Delhi Special Police Establishment Act, 1946. Section 6 therefore requires State consent for DSPE jurisdiction within a State. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** General consent permits routine registration; withdrawal ordinarily requires case-specific consent for fresh cases. This is a real federal safeguard against an unrestricted parallel central police force. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** In State of West Bengal v. Union of India (2024), the Supreme Court rejected the Union's preliminary objection and allowed the State's Article 131 suit to proceed; it did not finally decide all substantive claims. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Thus, consent is constitutionally significant statutory federalism, but it cannot override constitutional-court power. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It distinguishes DSPE consent, constitutional-court power and the limited 2024 West Bengal ruling. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### PYQ 4 - UPSC GS-II 2022, Q13 - supporting
 
-**Question:** While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy. Comment.  
+**Question:** While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy. Comment.
 **15 marks | 250 words**
 
 **Demand decoding:** Comment requires testing the proposition as a political tendency, then qualifying it through changing party incentives and institutions.
@@ -620,28 +638,14 @@ Yet party position changes with office. A national party governing a State may r
 
 The constitutional answer is institutional rather than partisan: regular Inter-State Council consultation, meaningful scrutiny of Concurrent legislation, predictable Finance Commission transfers and neutral constitutional offices. Thus, party geography shapes federal preferences, but constitutional forums must prevent temporary electoral advantage from defining Centre-State balance.
 
-**Why this earns marks:** It explains national/regional incentives, supplies coalition and Rajya Sabha counter-evidence, and avoids treating party labels as permanent doctrine.
+**Answer-prose count:** 157 words.
 
-**How to improve this answer:** Use one concrete coalition-era illustration if confidently recalled; otherwise preserve the office-dependent qualification rather than inventing an example.
+**Examiner focus:** It explains national/regional incentives, supplies coalition and Rajya Sabha counter-evidence, and avoids treating party labels as permanent doctrine. Use one concrete coalition-era illustration if confidently recalled; otherwise preserve the office-dependent qualification rather than inventing an example.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy. Comment.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It explains national/regional incentives, supplies coalition and Rajya Sabha counter-evidence, and avoids treating party labels as permanent doctrine. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** How to improve this answer: Use one concrete coalition-era illustration if confidently recalled; otherwise preserve the office-dependent qualification rather than inventing an example. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy. Comment.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### PYQ 5 - UPSC GS-II 2023, Q13 - supporting
 
-**Question:** Account for the legal and political factors responsible for the reduced frequency of use of Article 356 by the Union Governments since the mid-1990s.  
+**Question:** Account for the legal and political factors responsible for the reduced frequency of use of Article 356 by the Union Governments since the mid-1990s.
 **15 marks | 250 words**
 
 **Demand decoding:** Account for requires causal explanation of both legal and political factors behind reduced Article 356 use.
@@ -654,28 +658,14 @@ Politically, coalition governments after 1989 depended on regional parties, whos
 
 The decline does not mean Centre-State conflict disappeared; disputes shifted toward Governors, investigations, finance and assent. Article 356 remains an emergency remedy, while Article 365 non-compliance is only relevant material. The reduced frequency therefore shows constitutional law and political federalisation reinforcing each other.
 
-**Why this earns marks:** It links Bommai safeguards with coalition/regional-party incentives and distinguishes declining proclamations from continuing federal conflict.
+**Answer-prose count:** 156 words.
 
-**How to improve this answer:** Organise the body under Legal and Political subheads and end by naming the shift toward Governors, finance and agencies.
+**Examiner focus:** It links Bommai safeguards with coalition/regional-party incentives and distinguishes declining proclamations from continuing federal conflict. Organise the body under Legal and Political subheads and end by naming the shift toward Governors, finance and agencies.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Account for the legal and political factors responsible for the reduced frequency of use of Article 356 by the Union Governments since the mid-1990s.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It links Bommai safeguards with coalition/regional-party incentives and distinguishes declining proclamations from continuing federal conflict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** How to improve this answer: Organise the body under Legal and Political subheads and end by naming the shift toward Governors, finance and agencies. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Account for the legal and political factors responsible for the reduced frequency of use of Article 356 by the Union Governments since the mid-1990s.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### PYQ 6 - UPSC GS-II 2023, Q15 - direct
 
-**Question:** Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?  
+**Question:** Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?
 **15 marks | 250 words**
 
 **Demand decoding:** Explain significance and assess extent: first map the 101st Amendment, then evaluate how far its design is accommodative.
@@ -688,28 +678,14 @@ Its accommodative character lies in compulsory bargaining: the Union has one-thi
 
 Accommodation remains incomplete. States lost independent rate space, compensation disputes exposed dependence, and unequal revenue capacity affects bargaining power. A common tax can become centralising if consultation weakens. The Amendment is therefore a major example of cooperative fiscal federalism, but its success depends on consensus, transparent data, credible dispute resolution and respect for State legislative choice.
 
-**Why this earns marks:** It cites Articles 246A/269A/279A, weighted voting, consensus and Mohit Minerals, followed by limits on State fiscal space.
+**Answer-prose count:** 159 words.
 
-**How to improve this answer:** Include the one-third/two-thirds/three-fourths voting formula; omit rate trivia unless the question asks current GST reform.
+**Examiner focus:** It cites Articles 246A/269A/279A, weighted voting, consensus and Mohit Minerals, followed by limits on State fiscal space. Include the one-third/two-thirds/three-fourths voting formula; omit rate trivia unless the question asks current GST reform.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: It cites Articles 246A/269A/279A, weighted voting, consensus and Mohit Minerals, followed by limits on State fiscal space. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** How to improve this answer: Include the one-third/two-thirds/three-fourths voting formula; omit rate trivia unless the question asks current GST reform. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### PYQ 7 - UPSC GS-II 2024, Q13 - direct
 
-**Question:** What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism.  
+**Question:** What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism.
 **15 marks | 250 words**
 
 **Demand decoding:** Suggest demands two balanced halves: identify recent changes and offer institution-matched trust remedies.
@@ -720,82 +696,46 @@ Centre-State relations have shifted from plan-era bargaining to a mixed Finance 
 
 **Changes:** The Planning Commission was replaced by NITI Aayog; the 14th Finance Commission increased untied devolution, followed by 41% under later Commissions. GST pooled indirect-tax autonomy through a constitutional Council. Centrally sponsored schemes, cesses and surcharges, borrowing conditions and central agencies continue to shape State choices. Governor assent, CBI consent and Concurrent-field legislation have become recurrent flashpoints.
 
-**Trust measures:**  
-1. Convene the Inter-State Council regularly and publish implementation reports.  
-2. Consult States before major Concurrent List laws.  
-3. Follow Sarkaria/Punchhi norms for politically neutral Governors and reasoned action.  
-4. Reduce reliance on cesses outside the divisible pool and ensure predictable transfers.  
-5. Design schemes jointly with flexible State components.  
-6. Use consensus and a credible dispute process in the GST Council.  
-7. Clarify CBI powers and consent through comprehensive legislation.  
+**Trust measures:**
+1. Convene the Inter-State Council regularly and publish implementation reports.
+2. Consult States before major Concurrent List laws.
+3. Follow Sarkaria/Punchhi norms for politically neutral Governors and reasoned action.
+4. Reduce reliance on cesses outside the divisible pool and ensure predictable transfers.
+5. Design schemes jointly with flexible State components.
+6. Use consensus and a credible dispute process in the GST Council.
+7. Clarify CBI powers and consent through comprehensive legislation.
 8. Build shared river-basin data and compliance institutions.
 
 *S.R. Bommai* makes federalism Basic Structure, but judicial protection alone cannot create cooperation.
 
 Trust is an institutional output: States must repeatedly experience consultation before compulsion, fiscal predictability and neutral use of constitutional offices.
 
-**Why this earns marks:** It covers fiscal, legislative and administrative change and ties each remedy to ISC, GST, Finance Commission, Governor or CBI architecture.
+**Answer-prose count:** 193 words.
 
-**How to improve this answer:** Pair every diagnosed deficit with one remedy; avoid an unstructured reform list and keep the conclusion focused on repeated institutional experience.
+**Examiner focus:** It covers fiscal, legislative and administrative change and ties each remedy to ISC, GST, Finance Commission, Governor or CBI architecture. Pair every diagnosed deficit with one remedy; avoid an unstructured reform list and keep the conclusion focused on repeated institutional experience.
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Centre-State relations have shifted from plan-era bargaining to a mixed Finance Commission-GST-NITI architecture, while administrative and legislative disputes have intensified. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Convene the Inter-State Council regularly and publish implementation reports. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Consult States before major Concurrent List laws. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Follow Sarkaria/Punchhi norms for politically neutral Governors and reasoned action. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Reduce reliance on cesses outside the divisible pool and ensure predictable transfers. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 8 - UPSC Prelims 2024, Q75 - official key
+#### PYQ 8 - UPSC Prelims 2024, Q75 - direct objective
 
 **Question:** Which one of the following statements is correct as per the Constitution of India?
 
-A. Inter-State trade and commerce is a State subject under the State List.  
-B. Inter-State migration is a State subject under the State List.  
-C. Inter-State quarantine is a Union subject under the Union List.  
+A. Inter-State trade and commerce is a State subject under the State List.
+B. Inter-State migration is a State subject under the State List.
+C. Inter-State quarantine is a Union subject under the Union List.
 D. Corporation tax is a State subject under the State List.
 
 **Answer: C. OFFICIAL UPSC SET-A KEY.**
 
-Union List Entry 81 covers inter-State migration and inter-State quarantine; Entry 42 covers inter-State trade and commerce; corporation tax is also a Union subject.
+- **A:** Incorrect. Union List Entry 42 covers inter-State trade and commerce.
+- **B:** Incorrect. Union List Entry 81 covers inter-State migration and inter-State quarantine.
+- **C:** Correct. Inter-State quarantine is expressly within Union List Entry 81.
+- **D:** Incorrect. Corporation tax is within Union legislative and taxing competence.
 
-**Demand decoding:** Treat “Which one of the following statements is correct as per the Constitution of India? A. Inter-…” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Which one of the following statements is correct as per the Constitution of India? A. Inter-State trade and commerce is a State subject under the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ 8 - UPSC Prelims 2024, Q75 - official key **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** A. Inter-State trade and commerce is a State subject under the State List. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** B. Inter-State migration is a State subject under the State List. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** C. Inter-State quarantine is a Union subject under the Union List. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** D. Corporation tax is a State subject under the State List. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Which one of the following statements is correct as per the Constitution of India? A. Inter-State trade and commerce is a State subject under the…”.
-
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
-
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
-
-**How to improve this answer:** For “Which one of the following statements is correct as per the Constitution of India? A. Inter-…”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
+**Key discipline:** The answer letter is printed because the repository holds the final official Set-A key.
 
 #### PYQ 9 - UPSC GS-II 2025, Q14 - direct
 
-**Question:** Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India?  
+**Question:** Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India?
 **15 marks | 250 words**
 
 **Demand decoding:** Examine requires a chronological fiscal transition, assessment of reforms and a graded verdict on practical autonomy.
@@ -814,113 +754,60 @@ However, vertical imbalance persists. Cesses and surcharges remain outside the d
 
 Thus, fiscal federalism is more rules-based but not fiscally equal. Protecting the divisible pool, predictable schemes, robust GST dispute resolution and stronger State revenue capacity are necessary for meaningful autonomy.
 
-**Why this earns marks:** It connects plan-era discretion, Finance Commission devolution, GST and NITI with cesses, schemes and Article 293 constraints.
+**Answer-prose count:** 198 words.
 
-**How to improve this answer:** Use a three-stage timeline—Planning era → post-2015 → 16th FC—and distinguish divisible-pool share from gross Union tax revenue.
+**Examiner focus:** It connects plan-era discretion, Finance Commission devolution, GST and NITI with cesses, schemes and Article 293 constraints. Use a three-stage timeline—Planning era → post-2015 → 16th FC—and distinguish divisible-pool share from gross Union tax revenue.
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Centre-State finance has evolved from discretionary plan bargaining toward a more rules-based but still Union-dependent architecture. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Reforms improved transparency, untied resources and institutional bargaining. Mohit Minerals preserves legislative autonomy by treating GST Council recommendations as non-binding. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Why this earns marks: It connects plan-era discretion, Finance Commission devolution, GST and NITI with cesses, schemes and Article 293 constraints. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** How to improve this answer: Use a three-stage timeline—Planning era → post-2015 → 16th FC—and distinguish divisible-pool share from gross Union tax revenue. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 10 - UPSC Prelims 2025, Q53 - official key
+#### PYQ 10 - UPSC Prelims 2025, Q53 - direct objective
 
 **Question:** With reference to India, consider the following:
 
-1. The Inter-State Council  
-2. The National Security Council  
+1. The Inter-State Council
+2. The National Security Council
 3. Zonal Councils
 
 How many of the above were established as per provisions of the Constitution of India?
 
-A. Only one  
-B. Only two  
-C. All the three  
+A. Only one
+B. Only two
+C. All the three
 D. None
 
 **Answer: A. OFFICIAL UPSC SET-A KEY.**
 
-Article 263 provides for establishment of the Inter-State Council. Zonal Councils are statutory and the National Security Council is executive/non-statutory.
+- **1:** Article 263 provides for establishment of an Inter-State Council.
+- **2:** The National Security Council is an executive, non-constitutional body.
+- **3:** Zonal Councils are statutory bodies under the States Reorganisation Act, 1956.
 
-**Demand decoding:** Treat “With reference to India, consider the following: 1. The Inter-State Council 2. The National…” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
+**Key discipline:** 'Provided for by the Constitution' is narrower than merely serving a constitutional or national purpose.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “With reference to India, consider the following: 1. The Inter-State Council 2. The National Security Council 3. Zonal Councils How many of the above…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ 10 - UPSC Prelims 2025, Q53 - official key **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** How many of the above were established as per provisions of the Constitution of India? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Article 263 provides for establishment of the Inter-State Council. Zonal Councils are statutory and the National Security Council is executive/non-statutory. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “With reference to India, consider the following: 1. The Inter-State Council 2. The National Security Council 3. Zonal Councils How many of the above…”.
-
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
-
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
-
-**How to improve this answer:** For “With reference to India, consider the following: 1. The Inter-State Council 2. The National…”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
-
-#### PYQ 11 - UPSC Prelims 2025, Q89 - official key
+#### PYQ 11 - UPSC Prelims 2025, Q89 - direct objective
 
 **Question:** Consider the following statements:
 
-Statement I: In India, State Governments have no power for making rules for grant of concessions in respect of extraction of minor minerals even though such minerals are located in their territories.  
+Statement I: In India, State Governments have no power for making rules for grant of concessions in respect of extraction of minor minerals even though such minerals are located in their territories.
 Statement II: In India, the Central Government has the power to notify minor minerals under the relevant law.
 
 Which one of the following is correct?
 
-A. Both statements are correct and Statement II explains Statement I  
-B. Both statements are correct but Statement II does not explain Statement I  
-C. Statement I is correct but Statement II is not correct  
+A. Both statements are correct and Statement II explains Statement I
+B. Both statements are correct but Statement II does not explain Statement I
+C. Statement I is correct but Statement II is not correct
 D. Statement I is not correct but Statement II is correct
 
 **Answer: D. OFFICIAL UPSC SET-A KEY.**
 
-The Centre can notify minor minerals under Section 3(e) of the MMDR Act, while States make concession rules under Section 15.
+- **Statement I:** Incorrect. Section 15 of the MMDR Act empowers State Governments to make rules for minor-mineral concessions.
+- **Statement II:** Correct. Section 3(e) authorises the Central Government to notify minerals as minor minerals.
 
-### Original Mains practice with examiner-grade models
+**Key discipline:** A parliamentary framework may distribute category and rule-making powers between different levels.
 
-**Demand decoding:** Treat “Consider the following statements: Statement I: In India, State Governments have no power for…” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
+### Six original Mains questions with full model answers
 
-**Detailed examiner-grade model answer:**
+Two 10-mark answers use a 150-word ceiling; two 15-mark and two 20-mark answers use a 250-word ceiling.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Consider the following statements: Statement I: In India, State Governments have no power for making rules for grant of concessions in respect of…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ 11 - UPSC Prelims 2025, Q89 - official key **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Statement I: In India, State Governments have no power for making rules for grant of concessions in respect of extraction of minor minerals even though such minerals are located in their territories. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Statement II: In India, the Central Government has the power to notify minor minerals under the relevant law. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** A. Both statements are correct and Statement II explains Statement I **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** B. Both statements are correct but Statement II does not explain Statement I **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Consider the following statements: Statement I: In India, State Governments have no power for making rules for grant of concessions in respect of…”.
-
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
-
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
-
-**How to improve this answer:** For “Consider the following statements: Statement I: In India, State Governments have no power for…”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
-
-#### M1. 10 marks | 150 words
+#### Original Q1. 10 marks | 150 words
 
 **Question:** Explain the constitutional relationship between Articles 256, 257, 365 and 356. Why is non-compliance with Union directions not equivalent to automatic President's Rule?
 
@@ -936,26 +823,12 @@ It does not automatically impose President's Rule. Article 356 still requires pr
 
 Thus, Articles 256-257 enable coordination, Article 365 marks serious non-compliance, and Article 356 supplies the exceptional remedy. Treating the sequence as automatic would convert federal directions into unrestricted Union control.
 
-**Why this earns marks:** The answer separates coordination, evidentiary consequence and exceptional remedy with Bommai control.
+**Answer-prose count:** 143 words.
 
-**How to improve this answer:** Cut the opening to one line; use a four-box chain and reserve the final sentence for why automaticity would destroy federal balance.
+**Answer-writing focus:** The answer separates coordination, evidentiary consequence and exceptional remedy with Bommai control. Cut the opening to one line; use a four-box chain and reserve the final sentence for why automaticity would destroy federal balance.
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Explain the constitutional relationship between Articles 256, 257, 365 and 356. Why is non-compliance with Union directions not equivalent to…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Why this earns marks: The answer separates coordination, evidentiary consequence and exceptional remedy with Bommai control. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** How to improve this answer: Cut the opening to one line; use a four-box chain and reserve the final sentence for why automaticity would destroy federal balance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Explain the constitutional relationship between Articles 256, 257, 365 and 356. Why is non-compliance with Union directions not equivalent to…”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M2. 10 marks | 150 words
+#### Original Q2. 10 marks | 150 words
 
 **Question:** Distinguish the Inter-State Council, Zonal Councils, North Eastern Council and NITI Aayog by source, composition logic and function.
 
@@ -975,29 +848,12 @@ The **North Eastern Council** is a separate statutory institution under the NEC 
 
 Thus, “intergovernmental body” does not establish legal status. Article, statute and executive resolution must be separately identified.
 
-**Why this earns marks:** Each body is classified by Article, statute or executive resolution and the NEC trap is expressly closed.
+**Answer-prose count:** 137 words.
 
-**How to improve this answer:** Present a compact four-row table; add that Article 263 enables presidential establishment rather than saying the Constitution itself permanently constituted the ISC.
+**Answer-writing focus:** Each body is classified by Article, statute or executive resolution and the NEC trap is expressly closed. Present a compact four-row table; add that Article 263 enables presidential establishment rather than saying the Constitution itself permanently constituted the ISC.
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Distinguish the Inter-State Council, Zonal Councils, North Eastern Council and NITI Aayog by source, composition logic and function.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** These bodies all facilitate coordination but have different legal foundations. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The Inter-State Council is contemplated by Article 263 and was established by presidential order in 1990. Chaired by the Prime Minister, it advises on disputes and common policy; its recommendations are not binding. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The five Zonal Councils are statutory bodies under the States Reorganisation Act, 1956. Chaired by the Union Home Minister, they address regional administrative and inter-State issues. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The North Eastern Council is a separate statutory institution under the NEC Act, 1971; it is not a sixth Zonal Council. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** NITI Aayog was created by executive resolution in 2015. It is a policy and development forum, not a constitutional or statutory body and not a substitute for the Finance Commission. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Distinguish the Inter-State Council, Zonal Councils, North Eastern Council and NITI Aayog by source, composition logic and function.”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M3. 15 marks | 250 words
+#### Original Q3. 15 marks | 250 words
 
 **Question:** Examine whether All-India Services strengthen administrative unity at an excessive cost to State autonomy.
 
@@ -1017,29 +873,12 @@ Reform should use transparent deputation rules, meaningful State consultation, p
 
 Thus, All-India Services are a federal bridge, not merely a centralising instrument. Their legitimacy depends on genuinely shared personnel governance.
 
-**Why this earns marks:** It gives constitutional basis, mechanisms, competing accountability concerns and implementable personnel reforms.
+**Answer-prose count:** 190 words.
 
-**How to improve this answer:** Name the Rajya Sabha trigger early and compress benefits to three points so the shared-control reform paragraph remains visible.
+**Answer-writing focus:** It gives constitutional basis, mechanisms, competing accountability concerns and implementable personnel reforms. Name the Rajya Sabha trigger early and compress benefits to three points so the shared-control reform paragraph remains visible.
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Examine whether All-India Services strengthen administrative unity at an excessive cost to State autonomy.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Article 312 permits common services for Union and States after a Rajya Sabha national-interest resolution. IAS, IPS and Indian Forest Service embody India's integrated administrative federalism. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The design is not inherently anti-federal because officers work under State governments in State posts and new services require Rajya Sabha approval. The problem arises when shared control becomes unilateral command. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Thus, All-India Services are a federal bridge, not merely a centralising instrument. Their legitimacy depends on genuinely shared personnel governance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It gives constitutional basis, mechanisms, competing accountability concerns and implementable personnel reforms. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Name the Rajya Sabha trigger early and compress benefits to three points so the shared-control reform paragraph remains visible. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Examine whether All-India Services strengthen administrative unity at an excessive cost to State autonomy.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M4. 15 marks | 250 words
+#### Original Q4. 15 marks | 250 words
 
 **Question:** Cesses, surcharges and centrally sponsored schemes can re-centralise fiscal federalism even when tax devolution remains high. Analyse.
 
@@ -1059,28 +898,12 @@ The corrective is not abolition but transparency and consent: sunset clauses and
 
 Thus, formal devolution and practical autonomy can diverge. Fiscal federalism must be evaluated through total transfer design, not the headline percentage alone.
 
-**Why this earns marks:** It distinguishes Article 270 from Article 271 and tests both justification and federal cost before calibrated reforms.
+**Answer-prose count:** 202 words.
 
-**How to improve this answer:** Avoid unsupported quantitative claims; add a one-line distinction between the divisible pool and gross Union tax revenue.
+**Answer-writing focus:** It distinguishes Article 270 from Article 271 and tests both justification and federal cost before calibrated reforms. Avoid unsupported quantitative claims; add a one-line distinction between the divisible pool and gross Union tax revenue.
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Cesses, surcharges and centrally sponsored schemes can re-centralise fiscal federalism even when tax devolution remains high. Analyse.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Finance Commission may recommend a substantial State share, but effective fiscal autonomy depends on the base being shared and the conditions attached to other transfers. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thus, formal devolution and practical autonomy can diverge. Fiscal federalism must be evaluated through total transfer design, not the headline percentage alone. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Why this earns marks: It distinguishes Article 270 from Article 271 and tests both justification and federal cost before calibrated reforms. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** How to improve this answer: Avoid unsupported quantitative claims; add a one-line distinction between the divisible pool and gross Union tax revenue. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Cesses, surcharges and centrally sponsored schemes can re-centralise fiscal federalism even when tax devolution remains high. Analyse.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M5. 20 marks | 250-300 words
+#### Original Q5. 20 marks | 250 words
 
 **Question:** Critically evaluate the constitutional and institutional framework for inter-State river-water disputes in India.
 
@@ -1102,29 +925,12 @@ Reform requires a permanent professional secretariat even if benches remain disp
 
 Thus, adjudication is necessary but insufficient. Durable settlement requires continuous cooperative basin governance before and after an award.
 
-**Why this earns marks:** It covers Article 262, both 1956 laws, strengths, delay/data/climate limits and correctly bounded Bill status.
+**Answer-prose count:** 201 words.
 
-**How to improve this answer:** Write the process as negotiation → tribunal → publication → implementation; mention the Bill lapsed, not merely that it was unpassed.
+**Answer-writing focus:** It covers Article 262, both 1956 laws, strengths, delay/data/climate limits and correctly bounded Bill status. Write the process as negotiation → tribunal → publication → implementation; mention the Bill lapsed, not merely that it was unpassed.
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Critically evaluate the constitutional and institutional framework for inter-State river-water disputes in India.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** River basins ignore political boundaries, making water disputes a test of federal adjudication, scientific capacity and political compliance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Strengths: Tribunals provide specialised fact-finding; awards are final and binding under statute; jurisdiction exclusion can prevent parallel litigation; Union facilitation offers a national forum. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The 2019 Amendment Bill proposed a dispute-resolution committee and permanent tribunal with benches, but it lapsed with the Seventeenth Lok Sabha. A later revised proposal is also not current law. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Thus, adjudication is necessary but insufficient. Durable settlement requires continuous cooperative basin governance before and after an award. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It covers Article 262, both 1956 laws, strengths, delay/data/climate limits and correctly bounded Bill status. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Critically evaluate the constitutional and institutional framework for inter-State river-water disputes in India.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M6. 20 marks | 250-300 words
+#### Original Q6. 20 marks | 250 words
 
 **Question:** The constitutional freedom of trade under Part XIII is a federal common-market guarantee, not a promise of tax-free commerce. Discuss with case law.
 
@@ -1144,64 +950,6 @@ GST later supplied a constitutional fiscal mechanism for a common market through
 
 Therefore, Part XIII balances integration with autonomy. It prohibits economic protectionism, not every tax or regulation. The modern test is non-discrimination, constitutional competence and procedural compliance.
 
-**Why this earns marks:** It maps Articles 301-304, traces doctrine and correctly centres Jindal Stainless on discrimination rather than tax immunity.
+**Answer-prose count:** 201 words.
 
-**How to improve this answer:** Prioritise Jindal Stainless; compress the two older cases and explicitly separate Article 304(a) taxation from 304(b) restrictions.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “The constitutional freedom of trade under Part XIII is a federal common-market guarantee, not a promise of tax-free commerce. Discuss with case law.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Articles 301-307 seek an integrated economic union while preserving regulatory and fiscal space. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** GST later supplied a constitutional fiscal mechanism for a common market through Articles 246A, 269A and 279A, though State participation and Council bargaining remain federal features. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Therefore, Part XIII balances integration with autonomy. It prohibits economic protectionism, not every tax or regulation. The modern test is non-discrimination, constitutional competence and procedural compliance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It maps Articles 301-304, traces doctrine and correctly centres Jindal Stainless on discrimination rather than tax immunity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Prioritise Jindal Stainless; compress the two older cases and explicitly separate Article 304(a) taxation from 304(b) restrictions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “The constitutional freedom of trade under Part XIII is a federal common-market guarantee, not a promise of tax-free commerce. Discuss with case law.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M7. 20 marks | 250-300 words
-
-**Question:** “The principal weakness of Centre-State relations is institutional under-use rather than constitutional scarcity.” Evaluate and suggest reforms.
-
-**Demand decoding:** Evaluate whether under-use or constitutional design better explains conflict, then suggest matched reforms.
-
-**Model solution**
-
-The Constitution supplies extensive mechanisms: divided legislative fields, Rajya Sabha safeguards, Inter-State Council, Finance Commission, GST Council, Article 131 adjudication, water tribunals, mutual delegation and commission-developed conventions. Yet conflict persists because these mechanisms are irregularly or asymmetrically used.
-
-The full Inter-State Council meets infrequently, while major Concurrent legislation may proceed without structured State consultation. Governor assent and government-formation disputes turn convention into litigation. Cesses and scheme conditions weaken the practical effect of devolution. Water tribunals suffer delay and implementation gaps. CBI general-consent withdrawals reveal distrust in central agencies.
-
-However, constitutional design also contributes. Residuary power, Article 253, Article 356, Governor appointment, Article 293 borrowing consent and vertical fiscal imbalance give the Union superior leverage. Institutional activation alone cannot erase this structural tilt.
-
-Reform should therefore combine use and redesign: regular ISC meetings with tracked responses; mandatory consultation protocols for Concurrent laws; neutral Governor conventions and reasoned decisions; transparent cesses and flexible schemes; a GST dispute mechanism; shared river data and implementation bodies; comprehensive CBI legislation; and joint All-India Service governance.
-
-Sarkaria and Punchhi already provide much of this menu. *S.R. Bommai* and *Mohit Minerals* show that courts can protect boundaries but cannot substitute for political dialogue.
-
-The proposition is substantially correct: India has enough forums, but insufficient habits of consultation. Trust requires repeated, rule-bound use of institutions while correcting the Union's strongest structural asymmetries.
-
-**Why this earns marks:** It supplies both institutional and structural causes, named forums/cases and a reform package tied to each diagnosed weakness.
-
-**How to improve this answer:** Use two body subheads—Under-use and Structural tilt—then pair each reform with ISC, GST, water, CBI or fiscal architecture.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in ““The principal weakness of Centre-State relations is institutional under-use rather than constitutional scarcity.” Evaluate and suggest reforms.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Sarkaria and Punchhi already provide much of this menu. S.R. Bommai and Mohit Minerals show that courts can protect boundaries but cannot substitute for political dialogue. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It supplies both institutional and structural causes, named forums/cases and a reform package tied to each diagnosed weakness. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Use two body subheads—Under-use and Structural tilt—then pair each reform with ISC, GST, water, CBI or fiscal architecture. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in ““The principal weakness of Centre-State relations is institutional under-use rather than constitutional scarcity.” Evaluate and suggest reforms.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Answer-writing focus:** It maps Articles 301-304, traces doctrine and correctly centres Jindal Stainless on discrimination rather than tax immunity. Prioritise Jindal Stainless; compress the two older cases and explicitly separate Article 304(a) taxation from 304(b) restrictions.

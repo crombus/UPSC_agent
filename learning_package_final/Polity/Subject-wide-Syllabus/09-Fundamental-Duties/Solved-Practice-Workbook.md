@@ -1,16 +1,19 @@
 ---
-title: "Fundamental Duties — Solved Practice Workbook"
 topic_key: polity-09
+subject: Polity
+section: Subject-wide Syllabus
+title: Fundamental Duties - Solved Practice Workbook
 ---
-# Fundamental Duties — Solved Practice Workbook
 
-## BASIC MCQS / REMEDIATION
+# Fundamental Duties - Solved Practice Workbook
 
-### Original hard MCQs
+> **Source and status control:** Constitution Part IVA; canonical Basic, Advanced and complete topic owners; audited syllabus/PYQ ledgers; OCR-searchable local polity books; official amendment texts, legislation and judgments checked through 7 September 2026. Exactly 32 original MCQs appear before two audited supporting PYQs. Only UPSC 2025 Prelims Q55 prints the held final local-official key; the 2020 answer letter is withheld.
 
-> Answer placement follows strict A → B → C → D rotation, repeated six times.
+## BASIC MCQS / REMEDIATION PRACTICE
 
-#### Q1. With reference to the constitutional history of Fundamental Duties, which statement is correct?
+Exactly **32 original MCQs** precede the PYQ block. Keys rotate `ABCDABCDABCDABCDABCDABCDABCDABCD`. Every option has a unique substantive explanation and every question ends with a unique question-specific Examiner trap.
+
+### Q1. With reference to the constitutional history of Fundamental Duties, which statement is correct?
 
 - A. The Swaran Singh Committee recommended eight duties, while the 42nd Amendment enacted ten.
 - B. The 42nd Amendment enacted only the eight duties proposed by the Committee.
@@ -19,9 +22,15 @@ topic_key: polity-09
 
 **Answer: A.**
 
-**Explanation:** The original Constitution omitted a citizen-duty chapter. Part IVA and ten duties came through the 42nd Amendment; clause (k) came through the 86th Amendment.
 
-#### Q2. Which one of the following is part of Article 51A(a)?
+- **A:** Correct: The Committee proposed eight duties, but the Forty-second Amendment selected and expanded the scheme into ten constitutional clauses.
+- **B:** Incorrect: The enacted list was not confined to the Committee’s eight recommendations; Article 51A originally contained ten clauses.
+- **C:** Incorrect: The Constitution of 1950 contained no separate Part IVA or citizen-duty catalogue.
+- **D:** Incorrect: The Eighty-sixth Amendment added clause (k); Part IVA had already existed since 1976.
+
+**Examiner trap:** The numbers belong to different stages: eight recommended, ten enacted, eleven now.
+
+### Q2. Which one of the following is part of Article 51A(a)?
 
 - A. To preserve the rich heritage of composite culture
 - B. To respect the Constitution's ideals and institutions, the National Flag and National Anthem
@@ -30,9 +39,15 @@ topic_key: polity-09
 
 **Answer: B.**
 
-**Explanation:** Sovereignty is Article 51A(a), composite culture is Article 51A(f), and public property/non-violence is Article 51A(i).
 
-#### Q3. Consider the following pairs:
+- **A:** Incorrect: Preservation of composite culture is placed in clause (f).
+- **B:** Correct: Clause (a) expressly links the Constitution, its ideals and institutions with the National Flag and National Anthem.
+- **C:** Incorrect: Sovereignty, unity and integrity form the distinct national-protection duty in clause (c).
+- **D:** Incorrect: Public property and non-violence are paired in clause (i).
+
+**Examiner trap:** Respect for constitutional symbols is clause (a); national integrity is clause (c).
+
+### Q3. Consider the following pairs:
 
 1. Article 51A(e) - harmony, common brotherhood and dignity of women
 2. Article 51A(g) - environment and compassion for living creatures
@@ -48,9 +63,15 @@ Which pairs are correctly matched?
 
 **Answer: C.**
 
-**Explanation:** Defence and national service are Article 51A(d). Article 51A(b) concerns the noble ideals of the freedom struggle.
 
-#### Q4. Which statement most accurately describes Article 51A(k)?
+- **A:** Incorrect: This omits the correctly matched clause (h) while retaining only the first two pairs.
+- **B:** Incorrect: Pair 4 is wrong because national defence belongs to clause (d), not clause (b).
+- **C:** Correct: Clauses (e), (g) and (h) contain precisely the first three listed combinations.
+- **D:** Incorrect: Including pair 4 makes the set wrong despite the accuracy of pairs 1-3.
+
+**Examiner trap:** A single shifted clause invalidates an otherwise plausible matching set.
+
+### Q4. Which statement most accurately describes Article 51A(k)?
 
 - A. It directs the State to provide early childhood care until age six.
 - B. It automatically criminalises every failure of school attendance.
@@ -59,9 +80,15 @@ Which pairs are correctly matched?
 
 **Answer: D.**
 
-**Explanation:** Article 45 addresses early childhood; Article 21A is the State-side right; 51A(k) is the parent/guardian opportunity duty.
 
-#### Q5. Which is the safest legal statement about Fundamental Duties?
+- **A:** Incorrect: Early-childhood care below six is the State-directed subject of Article 45.
+- **B:** Incorrect: Neither clause (k) nor the Constitution makes every attendance failure an automatic crime.
+- **C:** Incorrect: Clause (k) imposes responsibility; it does not guarantee admission to a private school.
+- **D:** Correct: The text addresses a parent or guardian and the child or ward between six and fourteen years.
+
+**Examiner trap:** The operative phrase is “provide opportunities for education,” not compulsory parental punishment.
+
+### Q5. Which is the safest legal statement about Fundamental Duties?
 
 - A. They are non-justiciable and non-self-executing, but valid laws may operationalise them.
 - B. Every clause becomes an offence when a court declares it important.
@@ -70,9 +97,15 @@ Which pairs are correctly matched?
 
 **Answer: A.**
 
-**Explanation:** Article 51A itself supplies no general offence or direct writ remedy. Operationalising laws remain rights-bound.
 
-#### Q6. A statute restricts speech and claims to further harmony under Article 51A(e). What follows?
+- **A:** Correct: Duties lack direct enforcement, but legislation may create precise obligations that remain constitutionally reviewable.
+- **B:** Incorrect: Courts cannot manufacture an offence merely by declaring a civic value important.
+- **C:** Incorrect: Part IVA complements Part III and does not automatically displace protected rights.
+- **D:** Incorrect: Article 51A addresses citizens, although foreigners remain subject to valid ordinary law.
+
+**Examiner trap:** Separate the constitutional addressee from the persons covered by implementing statutes.
+
+### Q6. A statute restricts speech and claims to further harmony under Article 51A(e). What follows?
 
 - A. Judicial review is excluded because Swaran Singh recommended exclusion.
 - B. The duty may inform purpose/reasonableness, but the restriction must still fit Article 19 and satisfy constitutional review.
@@ -81,9 +114,15 @@ Which pairs are correctly matched?
 
 **Answer: B.**
 
-**Explanation:** The rejected Committee recommendation cannot displace judicial review. Duties support but do not replace the rights inquiry.
 
-#### Q7. What is the correct reading of *Bijoe Emmanuel (1986)*?
+- **A:** Incorrect: The rejected Swaran Singh proposal cannot shield later laws from judicial review.
+- **B:** Correct: Harmony may support legislative purpose, but Article 19 grounds, legality and proportionality still control the restriction.
+- **C:** Incorrect: Part IVA does not enlarge the closed restriction grounds in Article 19(2)-(6).
+- **D:** Incorrect: Invoking a duty cannot validate a vague, disproportionate or incompetent statute.
+
+**Examiner trap:** A duty strengthens justification only inside the existing Fundamental-Rights framework.
+
+### Q7. What is the correct reading of *Bijoe Emmanuel (1986)*?
 
 - A. Article 51A(a) was declared unconstitutional.
 - B. Section 3 of the National Honour Act compels every person to sing.
@@ -92,9 +131,15 @@ Which pairs are correctly matched?
 
 **Answer: C.**
 
-**Explanation:** The children stood respectfully and did not disrupt others. The Court protected conscience and expression.
 
-#### Q8. *Naveen Jindal (2004)* held that:
+- **A:** Incorrect: Bijoe Emmanuel reconciled clause (a) with rights; it did not invalidate the duty.
+- **B:** Incorrect: Section 3 concerns intentional prevention or disturbance, not every refusal to sing.
+- **C:** Correct: Respectful standing without singing was protected because the belief was sincere and no disruption occurred.
+- **D:** Incorrect: The judgment protects conscientious respect, not insult or obstruction.
+
+**Examiner trap:** The case turns on respectful conduct, sincere conscience and absence of disruption.
+
+### Q8. *Naveen Jindal (2004)* held that:
 
 - A. flying the Flag is outside Article 19(1)(a).
 - B. the Flag Code alone can impose criminal punishment.
@@ -103,9 +148,15 @@ Which pairs are correctly matched?
 
 **Answer: D.**
 
-**Explanation:** The right is qualified. Statutes regulate misuse; the executive Flag Code cannot by itself create Article 19 restrictions as law.
 
-#### Q9. What is the current control from the final *Shyam Narayan Chouksey (2018)* order of 9 January 2018?
+- **A:** Incorrect: The Court recognised dignified Flag display as expression under Article 19(1)(a).
+- **B:** Incorrect: An executive code cannot independently create criminal punishment without statutory authority.
+- **C:** Incorrect: Flag display remains subject to lawful regulation and dignity requirements.
+- **D:** Correct: The protected expression is qualified by the National Honour Act and other valid restrictions.
+
+**Examiner trap:** Naveen Jindal protects respectful display, not an absolute licence over the Flag.
+
+### Q9. What is the current control from the final *Shyam Narayan Chouksey (2018)* order of 9 January 2018?
 
 - A. Playing the Anthem before feature films in cinemas is optional/directory, not mandatory.
 - B. Every cinema must play it before every film without exception.
@@ -114,9 +165,15 @@ Which pairs are correctly matched?
 
 **Answer: A.**
 
-**Explanation:** The 2018 final order expressly modified the 2016 interim mandate while retaining lawful respect obligations.
 
-#### Q10. The importance of *AIIMS Students' Union* for Fundamental Duties is that it:
+- **A:** Correct: The final 9 January 2018 order modified the interim mandate and left cinema operators free to choose whether to play the Anthem.
+- **B:** Incorrect: Compulsory pre-film playing describes the 2016 interim direction, not the final position.
+- **C:** Incorrect: The interim order was expressly modified and cannot be cited as the continuing final rule.
+- **D:** Incorrect: Respect remains legally relevant whenever the Anthem is played; optional playing is not permission for disrespect.
+
+**Examiner trap:** Always distinguish the 2016 interim mandate from the controlling 2018 modification.
+
+### Q10. The importance of *AIIMS Students' Union* for Fundamental Duties is that it:
 
 - A. made all duties directly enforceable.
 - B. described duties as valuable guides and aids to constitutional/legal interpretation despite non-enforceability.
@@ -125,9 +182,15 @@ Which pairs are correctly matched?
 
 **Answer: B.**
 
-**Explanation:** The judgment used Article 51A(j) interpretively; it did not transform duties into writ-enforceable commands.
 
-#### Q11. Which is accurate about the official 11 September 2024 *Durga Dutt* order?
+- **A:** Incorrect: The Court acknowledged interpretive significance but did not make duties directly enforceable.
+- **B:** Correct: The judgment treated Article 51A as a valuable guide when resolving constitutional and legal questions.
+- **C:** Incorrect: No freestanding right to an institutional preference emerged from the decision.
+- **D:** Incorrect: Excellence informed interpretation without becoming an absolute trump over equality.
+
+**Examiner trap:** AIIMS Students’ Union is authority for interpretive value, not judicial enforcement.
+
+### Q11. Which is accurate about the official 11 September 2024 *Durga Dutt* order?
 
 - A. It enacted a comprehensive duty code.
 - B. It held that citizen awareness is a substitute for all legislation.
@@ -136,9 +199,15 @@ Which pairs are correctly matched?
 
 **Answer: C.**
 
-**Explanation:** Claims about final enforceability or dismissal overstate the written record. The separation-of-powers concern arose at hearing.
 
-#### Q12. Which chain correctly describes criminal liability connected with a Fundamental Duty?
+- **A:** Incorrect: The Court requested information; it did not legislate a duty code.
+- **B:** Incorrect: Awareness was not declared a complete substitute for every statutory measure.
+- **C:** Correct: The written order sought a synopsis of Central and State enactments and relisted the pending matter.
+- **D:** Incorrect: The located order neither dismissed the petition nor declared duties irrelevant.
+
+**Examiner trap:** A procedural order and reported oral remarks must not be promoted into a final ratio.
+
+### Q12. Which chain correctly describes criminal liability connected with a Fundamental Duty?
 
 - A. Moral classification -> judicially invented punishment
 - B. Article 51A allegation -> immediate conviction
@@ -147,9 +216,15 @@ Which pairs are correctly matched?
 
 **Answer: D.**
 
-**Explanation:** Duties do not replace legality, offence definition, evidence or procedure.
 
-#### Q13. Which set contains verified present-law examples most directly connected with harmony/national integration?
+- **A:** Incorrect: Calling a duty moral does not authorise a court-created sanction.
+- **B:** Incorrect: Alleged breach of Article 51A is not proof of a penal offence.
+- **C:** Incorrect: A circular cannot create crime and punishment without statutory authority.
+- **D:** Correct: Legality requires an enacted offence, proof of each ingredient, lawful procedure and adjudication.
+
+**Examiner trap:** Never skip the statute, evidentiary burden or trial merely because a constitutional duty is invoked.
+
+### Q13. Which set contains verified present-law examples most directly connected with harmony/national integration?
 
 - A. BNS sections 196 and 197; RPA sections 123(3) and 123(3A)
 - B. RTE section 10 and Article 50
@@ -158,9 +233,15 @@ Which pairs are correctly matched?
 
 **Answer: A.**
 
-**Explanation:** BNS 196/197 cover group enmity and prejudicial assertions; the RPA provisions govern specified electoral appeals/hostility.
 
-#### Q14. What is the present official short title of the 1980 forest-conservation statute?
+- **A:** Correct: BNS sections 196-197 and RPA sections 123(3)/(3A) regulate defined harmony and electoral-integration harms.
+- **B:** Incorrect: RTE section 10 concerns education, while Article 50 directs judicial-executive separation.
+- **C:** Incorrect: The Flag Code and Article 45 concern national-symbol display and early childhood, respectively.
+- **D:** Incorrect: Neither BNS section 106(2) nor Article 110 supplies the stated harmony mapping.
+
+**Examiner trap:** A real nexus depends on the enactment’s actual ingredients, not a broad thematic resemblance.
+
+### Q14. What is the present official short title of the 1980 forest-conservation statute?
 
 - A. Forest Rights and Duties Code, 1980
 - B. Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980
@@ -169,9 +250,15 @@ Which pairs are correctly matched?
 
 **Answer: B.**
 
-**Explanation:** Use the renamed official title; "Forest (Conservation) Act" is the former title.
 
-#### Q15. Which statement correctly integrates the 2014 and 2023 animal-welfare cases?
+- **A:** Incorrect: “Forest Rights and Duties Code” is not the statute’s official title.
+- **B:** Correct: The renamed central enactment is the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980.
+- **C:** Incorrect: No operative central statute bears the invented “Indian Forest Harmony Act” title.
+- **D:** Incorrect: “National Forest Duties Act” is not the verified name of the 1980 law.
+
+**Examiner trap:** Use the current official short title without changing the original enactment year.
+
+### Q15. Which statement correctly integrates the 2014 and 2023 animal-welfare cases?
 
 - A. The 2023 Bench held cruelty lawful whenever culture is claimed.
 - B. The 2023 Bench held Article 51A(g) unconstitutional.
@@ -180,9 +267,15 @@ Which pairs are correctly matched?
 
 **Answer: C.**
 
-**Explanation:** Cultural claims do not excuse statutory cruelty; the 2023 decision rested on changed laws/rules and compliance.
 
-#### Q16. With reference to Article 51A(i), which statement is best?
+- **A:** Incorrect: Cultural description did not create a blanket defence to cruelty under the amended regime.
+- **B:** Incorrect: The later Bench did not invalidate Article 51A(g).
+- **C:** Correct: The 2014 judgment emphasised compassion, while the 2023 Bench assessed and upheld amended State laws with safeguards.
+- **D:** Incorrect: The earlier judgment did not permanently disable constitutionally valid legislative amendment.
+
+**Examiner trap:** The two judgments address changed statutory settings and must retain their different outcomes.
+
+### Q16. With reference to Article 51A(i), which statement is best?
 
 - A. Public property damage is punishable directly under Article 51A.
 - B. Peaceful dissent is inconsistent with the duty to abjure violence.
@@ -191,9 +284,15 @@ Which pairs are correctly matched?
 
 **Answer: D.**
 
-**Explanation:** Individual liability requires proof under law. The duty is anti-violence, not anti-protest.
 
-#### Q17. Which is the correct education triad?
+- **A:** Incorrect: Clause (i) expresses a duty; the PDPP Act supplies the punishable offence.
+- **B:** Incorrect: Abjuring violence does not condemn peaceful democratic disagreement.
+- **C:** Incorrect: Traffic impact alone is not the legal definition of violence or property damage.
+- **D:** Correct: Prosecution requires defined damage and individual proof, while lawful non-violent protest remains protected.
+
+**Examiner trap:** Do not replace proof of individual damage with collective guilt for a protest.
+
+### Q17. Which is the correct education triad?
 
 - A. Article 21A: State/right ages 6-14; Article 45: State/early childhood under 6; Article 51A(k): parent/guardian opportunity ages 6-14.
 - B. Article 21A: parent duty; Article 45: criminal offence; Article 51A(k): State right.
@@ -202,9 +301,15 @@ Which pairs are correctly matched?
 
 **Answer: A.**
 
-**Explanation:** The 86th Amendment distributed distinct roles; they must not be collapsed.
 
-#### Q18. Which statement about the J.S. Verma Committee is correct?
+- **A:** Correct: The three provisions distribute an enforceable child right, a below-six State directive and a parent-or-guardian duty for ages six to fourteen.
+- **B:** Incorrect: This reverses the constitutional addressees and invents a criminal character for Article 45.
+- **C:** Incorrect: Clause (k) addresses a citizen parent or guardian, not schools alone.
+- **D:** Incorrect: Articles 45 and 51A(k) are not Fundamental Rights even though they complement Article 21A.
+
+**Examiner trap:** The Eighty-sixth Amendment linked three provisions without giving them identical remedies.
+
+### Q18. Which statement about the J.S. Verma Committee is correct?
 
 - A. It recommended replacing all eleven duties with penal offences.
 - B. It emphasised curriculum, teacher training, media, awareness and compliance with existing laws.
@@ -213,9 +318,15 @@ Which pairs are correctly matched?
 
 **Answer: B.**
 
-**Explanation:** Clause (k) came through the 86th Amendment in 2002. The Verma Committee operationalised teaching.
 
-#### Q19. Which is the most defensible reading of scientific temper under Article 51A(h)?
+- **A:** Incorrect: Eight recommended duties identify the Swaran Singh Committee of 1976.
+- **B:** Correct: The Verma exercise stressed curriculum, teacher preparation, media, awareness and compliance with existing law.
+- **C:** Incorrect: The committees had different chairs, dates and mandates.
+- **D:** Incorrect: Clause (k) was enacted by the Eighty-sixth Amendment in 2002.
+
+**Examiner trap:** Committee questions test mandate as well as date: insertion and operationalisation are different projects.
+
+### Q19. Which is the most defensible reading of scientific temper under Article 51A(h)?
 
 - A. The State may criminalise any faith claim without legislation.
 - B. Courts must decide every scientific controversy.
@@ -224,9 +335,15 @@ Which pairs are correctly matched?
 
 **Answer: C.**
 
-**Explanation:** Scientific temper is a constitutional civic disposition, not a state monopoly over thought.
 
-#### Q20. "Composite culture" in Article 51A(f) is best understood as:
+- **A:** Incorrect: Clause (h) cannot by itself criminalise belief or bypass freedom of conscience.
+- **B:** Incorrect: Scientific disputes do not all become matters for judicial resolution.
+- **C:** Correct: Scientific temper is an evidence-minded civic disposition joined to humanism, inquiry and reform.
+- **D:** Incorrect: The duty applies to citizens generally and is not synonymous with scientific employment.
+
+**Examiner trap:** Scientific temper protects questioning; it cannot be converted into official intellectual conformity.
+
+### Q20. "Composite culture" in Article 51A(f) is best understood as:
 
 - A. only monuments declared nationally important.
 - B. a ban on cultural evolution.
@@ -235,9 +352,15 @@ Which pairs are correctly matched?
 
 **Answer: D.**
 
-**Explanation:** The word "composite" is central and supports plural constitutional citizenship.
 
-#### Q21. Article 51A(j) is most accurately described as:
+- **A:** Incorrect: Nationally important monuments are only one part of heritage protection and are principally linked to Article 49.
+- **B:** Incorrect: A living cultural inheritance can change while still being valued and preserved.
+- **C:** Incorrect: “Composite” rejects replacement of diverse traditions by one official culture.
+- **D:** Correct: The clause protects layered interaction and plural inheritance while leaving room for equality-based reform.
+
+**Examiner trap:** Preservation must avoid both museum-like freezing and majoritarian homogenisation.
+
+### Q21. Article 51A(j) is most accurately described as:
 
 - A. a duty to strive toward excellence in individual and collective activity so the nation rises to higher endeavour and achievement.
 - B. a command that merit always defeats equality.
@@ -246,9 +369,15 @@ Which pairs are correctly matched?
 
 **Answer: A.**
 
-**Explanation:** *AIIMS Students' Union* used the clause interpretively; it creates no automatic entitlement or punishment.
 
-#### Q22. Which comparative statement is correct?
+- **A:** Correct: Clause (j) expressly joins individual and collective striving with higher national endeavour and achievement.
+- **B:** Incorrect: Excellence does not extinguish equality, reservation or fair-access requirements.
+- **C:** Incorrect: An aspirational constitutional duty is not a penal standard for poor performance.
+- **D:** Incorrect: The clause creates no automatic admission right in an institution of national importance.
+
+**Examiner trap:** Excellence is a constitutional aspiration, not a judicially measurable punishment or entitlement.
+
+### Q22. Which comparative statement is correct?
 
 - A. India copied a Soviet justiciable duty code verbatim.
 - B. The USSR is the conventional source, but India's duties are adapted, non-justiciable and embedded in a rights-based democracy.
@@ -257,9 +386,15 @@ Which pairs are correctly matched?
 
 **Answer: B.**
 
-**Explanation:** Source and legal design must be separated.
 
-#### Q23. Which reform package best avoids the risks of blanket justiciability?
+- **A:** Incorrect: India adopted the idea of enumerated duties, not a verbatim Soviet enforcement code.
+- **B:** Correct: Soviet influence is an origin fact, while Indian legal character remains non-justiciable and rights-bounded.
+- **C:** Incorrect: Democracies structure civic responsibility differently and do not share one identical chapter.
+- **D:** Incorrect: The United States Bill of Rights is not the source of Part IVA.
+
+**Examiner trap:** Borrowing explains lineage; it does not prove identical text, ideology or legal effect.
+
+### Q23. Which reform package best avoids the risks of blanket justiciability?
 
 - A. Allow courts to create offences case by case.
 - B. Criminalise every vague duty immediately.
@@ -268,9 +403,15 @@ Which pairs are correctly matched?
 
 **Answer: C.**
 
-**Explanation:** Graded operationalisation preserves civic force without open-ended coercion.
 
-#### Q24. Which statement is fully correct?
+- **A:** Incorrect: Judicial creation of offences would violate legality and institutional competence.
+- **B:** Incorrect: Immediate criminalisation of open-textured duties invites vagueness and selective coercion.
+- **C:** Correct: Education, precise legislation, proportionality, institutional example and existing-law enforcement form a rights-compatible ladder.
+- **D:** Incorrect: Fundamental Rights remain constitutional limits whenever duties are operationalised.
+
+**Examiner trap:** Reform should move from literacy and existing law to narrowly tailored sanctions, not begin with an omnibus penal code.
+
+### Q24. Which statement is fully correct?
 
 - A. The RTE Act makes Article 51A(k) an automatic parental offence.
 - B. *Durga Dutt* finally made duties justiciable.
@@ -279,13 +420,15 @@ Which pairs are correctly matched?
 
 **Answer: D.**
 
-**Explanation:** This is the package's enforceability firewall.
 
-### Remedial MCQs for common errors
+- **A:** Incorrect: RTE section 10 imposes a statutory responsibility but does not make every lapse an automatic constitutional offence.
+- **B:** Incorrect: Durga Dutt remains pending; the written order created no general justiciability rule.
+- **C:** Incorrect: The National Honour Act targets defined insult, prevention and disturbance rather than every refusal to sing.
+- **D:** Correct: Article 51A can guide interpretation and legislation but cannot independently create offences or displace rights.
 
-> Answer placement follows strict A → B → C → D rotation, repeated twice.
+**Examiner trap:** Test the operative holding or statutory element instead of accepting a familiar authority name.
 
-#### R1. How many Fundamental Duties currently exist?
+### Q25. How many Fundamental Duties currently exist?
 
 - A. Eleven
 - B. Ten
@@ -294,9 +437,15 @@ Which pairs are correctly matched?
 
 **Answer: A.**
 
-**Explanation:** Ten were inserted in 1976; clause (k) made eleven in 2002.
 
-#### R2. Which is **not** an enumerated Fundamental Duty?
+- **A:** Correct: Clauses (a)-(j) supplied ten duties in 1976, and clause (k) raised the count to eleven in 2002.
+- **B:** Incorrect: Ten was the initial enacted count and ceased to be the total after clause (k).
+- **C:** Incorrect: Eight refers to the Committee recommendation, not the constitutional list.
+- **D:** Incorrect: Article 51A runs from clause (a) through clause (k), yielding eleven rather than twelve.
+
+**Examiner trap:** Count enacted clauses, not committee proposals or amendment events.
+
+### Q26. Which is **not** an enumerated Fundamental Duty?
 
 - A. To develop scientific temper
 - B. To pay taxes
@@ -305,9 +454,15 @@ Which pairs are correctly matched?
 
 **Answer: B.**
 
-**Explanation:** Tax payment was a rejected Swaran Singh recommendation, though valid tax law is binding.
 
-#### R3. Fundamental Duties apply constitutionally to:
+- **A:** Incorrect: Scientific temper is expressly included in clause (h).
+- **B:** Correct: The tax proposal was omitted from Article 51A even though valid tax statutes remain enforceable.
+- **C:** Incorrect: Composite culture appears expressly in clause (f).
+- **D:** Incorrect: Public property is expressly coupled with non-violence in clause (i).
+
+**Examiner trap:** A statutory obligation to pay tax is not the same as an enumerated Fundamental Duty.
+
+### Q27. Fundamental Duties apply constitutionally to:
 
 - A. only parents and guardians
 - B. all persons everywhere
@@ -316,9 +471,15 @@ Which pairs are correctly matched?
 
 **Answer: C.**
 
-**Explanation:** Clause (k) has the narrower parent/guardian addressee, but Article 51A generally addresses citizens.
 
-#### R4. Which clause protects environment and compassion for living creatures?
+- **A:** Incorrect: Parent or guardian is the narrower addressee only for clause (k).
+- **B:** Incorrect: The opening words do not extend Article 51A to every person regardless of citizenship.
+- **C:** Correct: Article 51A states that the duties belong to every citizen of India.
+- **D:** Incorrect: Public employment is irrelevant to the general constitutional addressee.
+
+**Examiner trap:** Citizenship limits the constitutional duty, not the reach of ordinary laws governing foreigners.
+
+### Q28. Which clause protects environment and compassion for living creatures?
 
 - A. 51A(f)
 - B. 51A(h)
@@ -327,9 +488,15 @@ Which pairs are correctly matched?
 
 **Answer: D.**
 
-**Explanation:** Clause (g) names forests, lakes, rivers, wild life and compassion.
 
-#### R5. *Bijoe Emmanuel (1986)* protects:
+- **A:** Incorrect: Clause (f) concerns composite cultural heritage.
+- **B:** Incorrect: Clause (h) contains scientific temper, humanism, inquiry and reform.
+- **C:** Incorrect: Clause (e) combines harmony with renouncing practices derogatory to women.
+- **D:** Correct: Clause (g) names environmental protection and improvement together with compassion for living creatures.
+
+**Examiner trap:** The environment and animal-compassion limbs belong to one clause: Article 51A(g).
+
+### Q29. *Bijoe Emmanuel (1986)* protects:
 
 - A. respectful non-singing based on conscience, not disruption or insult.
 - B. a right to prevent others singing.
@@ -338,9 +505,15 @@ Which pairs are correctly matched?
 
 **Answer: A.**
 
-**Explanation:** The students stood respectfully and were protected under Articles 19 and 25.
 
-#### R6. The final 2018 *Shyam Chouksey* rule made cinema-hall Anthem playing:
+- **A:** Correct: The students’ respectful silence was protected because it expressed sincere conscience without insult or obstruction.
+- **B:** Incorrect: Preventing other people from singing was not the conduct protected in Bijoe Emmanuel.
+- **C:** Incorrect: The case concerned the Anthem, not destruction or misuse of the Flag.
+- **D:** Incorrect: The Court rejected compulsory singing on the facts rather than imposing it universally.
+
+**Examiner trap:** Respectful non-participation must not be confused with disrupting another person’s participation.
+
+### Q30. The final 2018 *Shyam Chouksey* rule made cinema-hall Anthem playing:
 
 - A. criminally prohibited
 - B. optional or directory
@@ -349,9 +522,15 @@ Which pairs are correctly matched?
 
 **Answer: B.**
 
-**Explanation:** Do not use the superseded 2016 interim mandate as current law.
 
-#### R7. The Verma Committee:
+- **A:** Incorrect: The final order did not prohibit cinemas from playing the Anthem.
+- **B:** Correct: The Court changed the mandate to an optional or directory arrangement in 2018.
+- **C:** Incorrect: Compulsion belonged to the earlier interim order and was subsequently modified.
+- **D:** Incorrect: The case recognised no Fundamental Right to a pre-film Anthem.
+
+**Examiner trap:** The governing proposition comes from the final modification, not the interim order.
+
+### Q31. The Verma Committee:
 
 - A. recommended exactly eight duties in 1976
 - B. enacted the RTE Act
@@ -360,9 +539,15 @@ Which pairs are correctly matched?
 
 **Answer: C.**
 
-**Explanation:** Swaran Singh belongs to 1976; Verma to the 1998-99 education project.
 
-#### R8. Article 51A(k) is best read with:
+- **A:** Incorrect: The eight-duty recommendation belongs to Swaran Singh, not J.S. Verma.
+- **B:** Incorrect: The RTE Act was enacted by Parliament, not by a committee.
+- **C:** Correct: Verma mapped education, awareness and existing legal routes without changing Article 51A.
+- **D:** Incorrect: Part IVA came from the Forty-second Amendment before the Verma Committee existed.
+
+**Examiner trap:** A committee report can recommend implementation but cannot itself amend the Constitution.
+
+### Q32. Article 51A(k) is best read with:
 
 - A. Articles 32 and 226 only
 - B. Articles 50 and 51
@@ -371,15 +556,19 @@ Which pairs are correctly matched?
 
 **Answer: D.**
 
-**Explanation:** These form the education right-directive-duty triad.
+
+- **A:** Incorrect: Articles 32 and 226 concern remedies rather than the education design.
+- **B:** Incorrect: Articles 50 and 51 address judicial separation and international peace.
+- **C:** Incorrect: Article 368 governs constitutional amendment procedure.
+- **D:** Correct: Articles 21A and 45, clause (k), and the RTE Act connect the child right, State direction, parental responsibility and statutory delivery.
+
+**Examiner trap:** The education triad is complementary but preserves three distinct constitutional locations.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Verified supporting previous-year questions
+### Supporting Prelims PYQ 1. UPSC 2020 GS-I Q8 - UDHR principles across constitutional Parts
 
-#### Supporting Prelims PYQ 1. UPSC 2020 GS-I Q8 - UDHR principles across constitutional Parts
-
-**Routing ownership:** Polity 08 - Directive Principles. Included here only as a cross-topic/supporting PYQ because statement 3 expressly tests Fundamental Duties.
+**Routing ownership:** Polity 08 - Directive Principles. Included here only as a supporting cross-topic PYQ because statement 3 expressly tests Fundamental Duties.
 
 Other than the Fundamental Rights, which of the following parts of the Constitution of India reflect/reflects the principles and provisions of the Universal Declaration of Human Rights (1948)?
 
@@ -387,18 +576,18 @@ Other than the Fundamental Rights, which of the following parts of the Constitut
 2. Directive Principles of State Policy
 3. Fundamental Duties
 
-- A. 1 and 2 only
-- B. 2 only
-- C. 1 and 3 only
-- D. 1, 2 and 3
+A. 1 and 2 only  
+B. 2 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: D (high confidence).**
+**Answer withheld pending official UPSC key.**
 
-**Explanation:** The Preamble's justice, liberty, equality and fraternity; Part IV's social-economic commitments; and Part IVA's dignity, tolerance, education and humanist duties all reflect UDHR values. "Reflect" does not mean verbatim incorporation. The local repository holds the official question paper but no readable official 2020 key.
+**Concept analysis:** The Preamble expresses justice, liberty, equality and fraternity; Part IV constitutionalises social-economic directions; and Part IVA includes dignity, harmony, education and humanism. The issue is reflection across Parts, not verbatim incorporation. No answer letter is printed because a final official/local-official 2020 key is not held.
 
-#### Supporting Prelims PYQ 2. UPSC 2025 GS-I Q55 - Constitutional provision matched to Part
+### Supporting Prelims PYQ 2. UPSC 2025 GS-I Q55 - Constitutional provision matched to Part
 
-**Routing ownership:** Polity 08 - Directive Principles. Included here only as a cross-topic/supporting PYQ because pair II is Article 51A(f).
+**Routing ownership:** Polity 08 - Directive Principles. Included here only as a supporting cross-topic PYQ because pair II tests Article 51A(f).
 
 Consider the following:
 
@@ -410,302 +599,99 @@ Consider the following:
 
 How many of the above pairs are correctly matched?
 
-- A. Only one
-- B. Only two
-- C. All the three
-- D. None
+A. Only one  
+B. Only two  
+C. All the three  
+D. None
 
-**OFFICIAL LOCAL UPSC KEY VERIFIED: C.**
+**Final official/local-official key verified: C.**
 
-**Explanation:** Pair I is Article 50 in Part IV; Pair II is Article 51A(f) in Part IVA; Pair III is Article 24 in Part III. The local official Set-A key was directly raster-checked and records Q55 as C.
+**Concept analysis:** Pair I is Article 50 in Part IV, pair II is Article 51A(f) in Part IVA, and pair III is Article 24 in Part III. All three constitutional locations are correctly matched.
 
-### Original Mains practice with model solutions
+### Direct Mains PYQ audit
 
-**Demand decoding:** Treat “Supporting Prelims PYQ 2. UPSC 2025 GS-I Q55 - Constitutional provision matched to Part” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
+No directly owned or verified direct Mains PYQ was located for Topic 9 in the audited local ledgers. None is invented or converted from coaching material.
 
-**Detailed examiner-grade model answer:**
+### Six original Mains questions with model solutions
+#### Original Q1. Fundamental Duties are non-justiciable, but not constitutionally inert. Explain. (10 marks, 150 words)
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Supporting Prelims PYQ 2. UPSC 2025 GS-I Q55 - Constitutional provision matched to Part”.
+**Model solution.**
 
-**Analytical body:**
+Article 51A lists eleven citizen duties but supplies neither a standalone writ remedy nor a general punishment. Its force is therefore mediated, not absent. First, courts use duties interpretively. In AIIMS Students’ Union, the Supreme Court treated them as valuable guides in constitutional and legal interpretation. Second, legislatures may translate a duty into precise obligations: the Prevention of Insults to National Honour Act protects national symbols, the Prevention of Damage to Public Property Act addresses defined damage, environmental laws support clause (g), and the RTE Act connects with clause (k). Third, duties may strengthen the purpose asserted for a reasonable restriction, but they do not add grounds to Article 19 or cure disproportionate law. Bijoe Emmanuel proves the limit: respectful non-singing of the Anthem remained protected by expression and conscience. Thus, Fundamental Duties possess civic, legislative and interpretive significance while remaining directly non-justiciable and rights-bound.
 
-1. **Claim and named evidence:** Supporting Prelims PYQ 2. UPSC 2025 GS-I Q55 - Constitutional provision matched to Part **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Routing ownership: Polity 08 - Directive Principles. Included here only as a cross-topic/supporting PYQ because pair II is Article 51A(f). **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Provision in the Constitution of India Stated under **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** I. Separation of Judiciary from the Executive in the public services of the State The Directive Principles of State Policy **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** II. Valuing and preserving the rich heritage of our composite culture The Fundamental Duties **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Audited model-answer word count:** 145 words.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Answer-writing focus:** Distinguish direct enforceability from mediated legal effect, then use AIIMS Students’ Union and Bijoe Emmanuel to show interpretive value and the rights limit.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “Supporting Prelims PYQ 2. UPSC 2025 GS-I Q55 - Constitutional provision matched to Part”.
+#### Original Q2. What does national-symbol jurisprudence reveal about patriotism, expression and Fundamental Duties? (10 marks, 150 words)
 
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
+**Model solution.**
 
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
+National-symbol jurisprudence defines constitutional patriotism as respect joined to liberty, not ritual conformity. In Bijoe Emmanuel, Jehovah’s Witness students stood respectfully during the Anthem but did not sing. Their expulsion violated Articles 19(1)(a) and 25 because no law compelled singing and no disrespect occurred. Naveen Jindal treated dignified display of the National Flag as expression under Article 19(1)(a), subject to valid statutory regulation; the executive Flag Code could guide respect but could not independently create an Article 19 restriction. Shyam Narayan Chouksey then modified the 2016 cinema direction: the final order of 9 January 2018 made pre-film playing optional or directory while preserving lawful respect requirements when the Anthem is played. Article 51A(a), therefore, protects republican symbols without making one performance the test of citizenship. Insult and intentional obstruction may be punished under precise law; peaceful conscience and respectful expression remain protected.
 
-**How to improve this answer:** For “Supporting Prelims PYQ 2. UPSC 2025 GS-I Q55 - Constitutional provision matched to Part”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
+**Audited model-answer word count:** 147 words.
 
-#### M1. Fundamental Duties are non-justiciable, but not constitutionally inert. Explain. (10 marks, 150 words)
+**Answer-writing focus:** Write the cases chronologically and identify the conduct protected or regulated in each; finish by separating respect from compulsory performance.
 
-**Model solution.** **Thesis:** Article 51A creates eleven citizen duties without a direct writ remedy or general penalty, yet the duties operate through interpretation, legislation, institutions and civic education.
+#### Original Q3. Analyse the constitutional design of education through Articles 21A, 45 and 51A(k). (15 marks, 250 words)
 
-First, duties guide constitutional meaning. In *AIIMS Students' Union* (2001), the Supreme Court called them a valuable aid to interpretation; Article 51A(j) informed the evaluation of institutional excellence. This proves interpretive weight, but the case did not make duties directly enforceable.
+**Model solution.**
 
-Second, precise laws operationalise defined conduct. The National Honour Act, 1971 protects the Constitution, Flag and Anthem; the PDPP Act, 1984 addresses public-property damage; environmental statutes support Article 51A(g); and the RTE Act, 2009 gives a framework around clause (k).
+The Eighty-sixth Amendment, 2002 created a three-sided education design rather than one undifferentiated command. Article 21A places an enforceable Fundamental Right on the State to provide free and compulsory education to children aged six to fourteen in the manner determined by law. Substituted Article 45 remains a Directive Principle directing State endeavour for early-childhood care and education until completion of six years. Article 51A(k), meanwhile, addresses the citizen who is a parent or guardian and requires an opportunity for education for a child or ward aged six to fourteen.
 
-Third, duties cannot override rights. *Bijoe Emmanuel (1986)* protected children who stood respectfully but did not sing the Anthem under Articles 19 and 25.
+The Right of Children to Free and Compulsory Education Act, 2009 operationalises the school-age right and, in section 10, states the parent or guardian’s duty to admit the child to elementary education. Yet the constitutional clause itself creates no automatic criminal offence. The architecture allocates responsibility: the State must provide accessible institutions and remove exclusion; families facilitate enrolment and participation; schools deliver non-discriminatory education; and public policy must bridge the below-six transition.
 
-**Conclusion:** Fundamental Duties are constitutional norms with mediated legal effects. Their legitimate force comes from rights-compatible law and civic internalisation, not automatic punishment.
+This shared model prevents two errors. Parental responsibility cannot excuse inadequate schools, poverty-sensitive support or safe access. Conversely, State provision alone cannot overcome every household barrier. The design is thus complementary but legally differentiated: an enforceable child right, a governance directive for early childhood and a citizen duty of educational opportunity, connected through legislation and administration.
 
-**Why this earns marks:** It resolves the apparent paradox, gives four named statutory/case examples, states the criminal-liability and rights limits, and reaches a precise verdict.
+**Audited model-answer word count:** 218 words.
 
-**How to improve this answer:** In the exam, compress the first paragraph to one line, group statutes by symbols, public property and environment, and reserve the last two lines for the difference between interpretive weight and direct enforceability.
+**Answer-writing focus:** Organise the answer by addressee—child, State and parent/guardian—and preserve the different age bands and remedies.
 
-**Demand decoding:** The directive **explain** requires a direct position on “M1. Fundamental Duties are non-justiciable, but not constitutionally inert. Explain. (10…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+#### Original Q4. Article 51A(g) makes environmental protection a shared constitutional ethic. Discuss with judicial and statutory evidence. (15 marks, 250 words)
 
-**Detailed examiner-grade model answer:**
+**Model solution.**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M1. Fundamental Duties are non-justiciable, but not constitutionally inert. Explain. (10 marks, 150 words)”.
+Article 51A(g) requires citizens to protect and improve the natural environment, including forests, lakes, rivers and wild life, and to show compassion for living creatures. It complements Article 48A, which directs the State, and Article 21 environmental jurisprudence, which protects life and health. Together they create environmental citizenship: public authority, community and individual conduct occupy different but connected roles.
 
-**Analytical body:**
+In M.C. Mehta, the Supreme Court supported environmental education and public awareness, demonstrating that the duty can shape institutional directions without becoming a free-standing offence. Environmental protection is concretised by statutes such as the Environment (Protection) Act, 1986, Wild Life (Protection) Act, 1972 and the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980. Their own provisions—not Article 51A(g) alone—define permissions, offences, procedure and sanctions.
 
-1. **Claim and named evidence:** M1. Fundamental Duties are non-justiciable, but not constitutionally inert. Explain. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Model solution. Thesis: Article 51A creates eleven citizen duties without a direct writ remedy or general penalty, yet the duties operate through interpretation, legislation, institutions and civic education. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Third, duties cannot override rights. Bijoe Emmanuel (1986) protected children who stood respectfully but did not sing the Anthem under Articles 19 and 25. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Conclusion: Fundamental Duties are constitutional norms with mediated legal effects. Their legitimate force comes from rights-compatible law and civic internalisation, not automatic punishment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It resolves the apparent paradox, gives four named statutory/case examples, states the criminal-liability and rights limits, and reaches a precise verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+Animal Welfare Board v. A. Nagaraja gave strong weight to compassion for living creatures within the statutory framework. The 2023 Jallikattu Constitution Bench, however, upheld amended State regimes and required compliance with their safeguards. The two outcomes must not be collapsed into an absolute constitutional animal right.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+Thus clause (g) widens environmental constitutionalism from State policy to civic stewardship and interpretive support. Its effectiveness depends on precise law, credible enforcement, participation and scientific evidence, while livelihoods, federal competence and Fundamental Rights remain relevant qualifications.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “M1. Fundamental Duties are non-justiciable, but not constitutionally inert. Explain. (10 marks, 150 words)”.
+**Audited model-answer word count:** 210 words.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Answer-writing focus:** Build the Article 21–48A–51A(g) triangle, attach statutes and cases, and qualify the animal-welfare authorities by their statutory settings.
 
-#### M2. What does the national-symbol jurisprudence reveal about the relationship between patriotism, expression and Fundamental Duties? (10 marks, 150 words)
+#### Original Q5. Should Fundamental Duties be made justiciable? Give a constitutionally graded answer. (20 marks, 250 words)
 
-**Model solution.** **Thesis:** Indian national-symbol jurisprudence protects respectful patriotism while rejecting the assumption that only one compelled performance proves loyalty.
+**Model solution.**
 
-In *Bijoe Emmanuel (1986)*, Jehovah's Witness children stood respectfully but did not sing the Anthem. Their expulsion violated Articles 19(1)(a) and 25(1). Article 51A(a)'s duty of respect therefore did not mean compulsory singing, especially when there was no disruption.
+A blanket declaration of justiciability would mistake the design of Article 51A. The eleven duties are constitutional norms addressed to citizens, but many—“noble ideals”, “composite culture”, “scientific temper” and “excellence”—are open-textured. Direct judicial compulsion could invite vagueness, selective prosecution, majoritarian definitions of patriotism and courts designing policy without legislative standards.
 
-In *Naveen Jindal (2004)*, respectful display of the Flag was held to be expression under Article 19(1)(a), subject to lawful restrictions and the National Honour Act. The Flag Code's respect norms were relevant, but executive instructions could not independently supply Article 19 restrictions.
+Yet complete legal indifference is equally unsatisfactory. Existing law already operationalises defined harms: the National Honour Act protects the Constitution, Flag and Anthem; the UAPA and specified criminal provisions address sovereignty or group enmity; environmental, wildlife and forest laws support clause (g); the PDPP Act addresses public-property damage; and the RTE Act connects with clause (k). AIIMS Students’ Union confirms interpretive value, while Bijoe Emmanuel shows that a duty cannot automatically override expression and conscience.
 
-Finally, *Shyam Narayan Chouksey (2018)* modified the 2016 cinema mandate: playing the Anthem became optional/directory, while lawful respect obligations continued.
+The J.S. Verma Committee’s approach is preferable: constitutional literacy, curriculum, teacher preparation, media awareness, institutional example and effective enforcement of precise existing laws. New legislation should be harm-based, within competence, proportionate and procedurally safeguarded. Civil or administrative measures should precede criminal sanctions where adequate.
 
-**Conclusion:** Constitutional patriotism joins freedom with respect; neither contempt nor compelled conformity defines citizenship.
+Durga Dutt remains pending on the located official record; its 11 September 2024 order sought a synopsis of enactments and created no enforceability rule. Therefore, duties should be operationalised selectively, not converted into an omnibus judicial code. Responsible citizenship grows through education and reviewable law, not vague coercion.
 
-**Why this earns marks:** It uses the full three-case chronology, identifies exact holdings, distinguishes statute from executive code and answers the conceptual relationship rather than listing cases.
+**Audited model-answer word count:** 220 words.
 
-**How to improve this answer:** Use a three-row case table—conduct, right, limit—and expressly state that section 3 punishes intentional prevention or disturbance, not every refusal to sing.
+**Answer-writing focus:** Present both sides of justiciability, then defend a graded Verma-style route of education, precise law and constitutional review.
 
-**Demand decoding:** The directive **answer** requires a direct position on “M2. What does the national-symbol jurisprudence reveal about the relationship between…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+#### Original Q6. Fundamental Duties can build active citizenship but also enable coercive nationalism. Critically examine and suggest safeguards. (20 marks, 250 words)
 
-**Detailed examiner-grade model answer:**
+**Model solution.**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M2. What does the national-symbol jurisprudence reveal about the relationship between patriotism, expression and Fundamental Duties? (10 marks, 150…”.
+Fundamental Duties can convert citizenship from passive rights-holding into participation in constitutional goods. Clauses on harmony, women’s dignity, composite culture, environmental care, scientific temper, public property, education and excellence support fraternity, civic republican responsibility and environmental citizenship. Their cross-party retention after the Emergency and the later addition of clause (k) show that civic obligation is not exhausted by their 1976 provenance.
 
-**Analytical body:**
+The danger lies in detached use. Vague appeals to culture, unity or patriotism can stigmatise dissent, privilege majority practice or demand symbolic performance while the State neglects its own duties. Bijoe Emmanuel rejects that path: respectful conscience cannot be equated with disloyalty. Naveen Jindal similarly treats the Flag as protected citizen expression, and Shyam Narayan Chouksey’s final 2018 order withdrew compulsory cinema-hall playing. Scientific temper under clause (h) supports inquiry and reform, not State orthodoxy; Aruna Roy permits non-proselytising comparative value education, not dogmatic instruction.
 
-1. **Claim and named evidence:** M2. What does the national-symbol jurisprudence reveal about the relationship between patriotism, expression and Fundamental Duties? (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Model solution. Thesis: Indian national-symbol jurisprudence protects respectful patriotism while rejecting the assumption that only one compelled performance proves loyalty. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Finally, Shyam Narayan Chouksey (2018) modified the 2016 cinema mandate: playing the Anthem became optional/directory, while lawful respect obligations continued. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Conclusion: Constitutional patriotism joins freedom with respect; neither contempt nor compelled conformity defines citizenship. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It uses the full three-case chronology, identifies exact holdings, distinguishes statute from executive code and answers the conceptual relationship rather than listing cases. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+Safeguards should be institutional. First, insist on precise legislation rather than direct punishment under Article 51A. Second, test restrictions against competence, Article 19 grounds, equality, due process and proportionality. Third, protect peaceful dissent and minority conscience. Fourth, follow the Verma Committee’s education-and-awareness route. Fifth, require public institutions themselves to model pluralism, evidence, gender dignity and non-violence.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+The constitutional ideal is patriotism to democratic values, not obedience to transient authority: duties deepen freedom only when rights remain their firewall.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “M2. What does the national-symbol jurisprudence reveal about the relationship between patriotism, expression and Fundamental Duties? (10 marks, 150…”.
+**Audited model-answer word count:** 224 words.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Answer-writing focus:** Balance active citizenship against coercive nationalism and make legality, conscience, pluralism and institutional self-example the safeguards.
 
-#### M3. Analyse the constitutional design of education through Articles 21A, 45 and 51A(k). (15 marks, 250 words)
-
-**Model solution.** **Thesis:** The 86th Amendment created a responsibility triad: an enforceable child right against the State, a directive for early childhood, and a citizen duty on parents/guardians.
-
-**Right:** Article 21A requires the State to provide free and compulsory education to all children aged six to fourteen in the manner determined by law. The RTE Act, 2009 supplies schools, admission, standards and public-authority duties. This establishes education as a public obligation, not a private charity.
-
-**Directive:** Substituted Article 45 directs the State to endeavour to provide early childhood care and education until age six. It fills the developmental stage outside Article 21A's age band but remains non-justiciable as a DPSP.
-
-**Duty:** Article 51A(k) requires a parent or guardian to provide opportunities for education to a child/ward aged six to fourteen. RTE section 10 requires admission or causing admission to neighbourhood elementary education.
-
-**Analysis:** The design is complementary: State supply makes parental opportunity meaningful; parental participation supports attendance; early-childhood policy prepares the child. It would be constitutionally distorted to punish poor parents while schools, transport or disability access are absent.
-
-**Qualification:** Clause (k) is not an automatic penal offence and cannot shift the State's Article 21A burden onto families.
-
-**Conclusion:** The triad constitutionalises shared responsibility, but State capacity and inclusion remain the foundation.
-
-**Why this earns marks:** It separates addressee, age, legal character and statute; analyses interaction; adds a poverty/access qualification and gives a graded verdict.
-
-**How to improve this answer:** Draw the education triad first, then attach one delivery gap—school access, disability support or migration—to show why parental duty cannot displace State capacity.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “M3. Analyse the constitutional design of education through Articles 21A, 45 and 51A(k). (15…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M3. Analyse the constitutional design of education through Articles 21A, 45 and 51A(k). (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M3. Analyse the constitutional design of education through Articles 21A, 45 and 51A(k). (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Model solution. Thesis: The 86th Amendment created a responsibility triad: an enforceable child right against the State, a directive for early childhood, and a citizen duty on parents/guardians. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Qualification: Clause (k) is not an automatic penal offence and cannot shift the State's Article 21A burden onto families. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Conclusion: The triad constitutionalises shared responsibility, but State capacity and inclusion remain the foundation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It separates addressee, age, legal character and statute; analyses interaction; adds a poverty/access qualification and gives a graded verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M3. Analyse the constitutional design of education through Articles 21A, 45 and 51A(k). (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M4. Article 51A(g) has converted environmental protection from a State programme into a shared constitutional ethic. Discuss with judicial and statutory evidence. (15 marks, 250 words)
-
-**Model solution.** **Thesis:** Article 51A(g) makes ecology and compassion citizen duties, but effective protection emerges from its interaction with Article 48A, Article 21, statutes and administration.
-
-**Shared design:** Article 48A directs the State; 51A(g) addresses citizens; environmental Article 21 jurisprudence supplies a rights dimension. This distributes prevention, participation and remedy.
-
-**Statutory evidence:** The Environment (Protection) Act, 1986 gives umbrella Central powers; the Wild Life (Protection) Act, 1972 protects species and habitats; the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 regulates forest-land use. These laws define standards and liability that Article 51A alone lacks.
-
-**Judicial evidence:** In *M.C. Mehta* (1991), the Supreme Court connected environmental duty with awareness, directing educational curricula and media messages. In *Animal Welfare Board v. A. Nagaraja* (2014), the Court gave compassion and animal welfare strong interpretive weight.
-
-**Current qualification:** The 2023 Constitution Bench upheld amended Jallikattu regimes, holding that changed laws/rules addressed earlier defects and directing strict enforcement. Thus 2014 cannot be cited as an immutable ban on legislative redesign.
-
-**Conclusion:** Article 51A(g) supplies constitutional motivation and interpretation; statutes, education and accountable enforcement produce actual environmental outcomes.
-
-**Why this earns marks:** It gives the three-Article mechanism, three statutes, two case stages and the essential 2023 qualification rather than an outdated one-case answer.
-
-**How to improve this answer:** Limit statutory description to one clause each, spend more space on the 2014-to-2023 legal change, and close with the division between constitutional ethic and statutory liability.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “M4. Article 51A(g) has converted environmental protection from a State programme into a…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M4. Article 51A(g) has converted environmental protection from a State programme into a shared constitutional ethic. Discuss with judicial and…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M4. Article 51A(g) has converted environmental protection from a State programme into a shared constitutional ethic. Discuss with judicial and statutory evidence. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Model solution. Thesis: Article 51A(g) makes ecology and compassion citizen duties, but effective protection emerges from its interaction with Article 48A, Article 21, statutes and administration. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Shared design: Article 48A directs the State; 51A(g) addresses citizens; environmental Article 21 jurisprudence supplies a rights dimension. This distributes prevention, participation and remedy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Conclusion: Article 51A(g) supplies constitutional motivation and interpretation; statutes, education and accountable enforcement produce actual environmental outcomes. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It gives the three-Article mechanism, three statutes, two case stages and the essential 2023 qualification rather than an outdated one-case answer. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M4. Article 51A(g) has converted environmental protection from a State programme into a shared constitutional ethic. Discuss with judicial and…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M5. Should Fundamental Duties be made justiciable? Give a constitutionally graded answer. (15 marks, 250 words)
-
-**Model solution.** **Thesis:** Defined harmful conduct should be enforceable through precise law, but blanket justiciability of all Article 51A clauses would be constitutionally unsafe.
-
-**Case for enforcement:** Duties protect national symbols, harmony, ecology, public property and education. Existing statutes show that sanctions can improve deterrence: the National Honour Act, PDPP Act, environmental laws and the RTE framework.
-
-**Risks:** Many clauses are open-textured - "noble ideals," "composite culture," "scientific temper" and "excellence." Turning them directly into offences would violate legality, invite selective enforcement and allow political majorities to label dissent disloyal. It could also add extra grounds to Article 19 and make courts define culture and patriotism.
-
-**Rights evidence:** *Bijoe Emmanuel (1986)* proves that a duty to respect cannot override conscience and expression. *Naveen Jindal (2004)* shows that regulation must be lawful and rights-compatible.
-
-**Institutional evidence:** The 1999 Verma Committee preferred curriculum, teacher training, media, awareness, NGO monitoring and existing-law compliance. The official *Durga Dutt* order of 11 September 2024 merely sought a synopsis of operationalising laws; it did not judicially create enforceability.
-
-**Way forward:** civic education, precise statutes for concrete harm, proportionality, due process, institutional example and better enforcement.
-
-**Conclusion:** Operationalise duties selectively; do not constitutionalise a general loyalty code.
-
-**Why this earns marks:** It answers "should" with a graded verdict, balances deterrence and coercion, uses four named authorities and links each reform to a diagnosed risk.
-
-**How to improve this answer:** Organise the body as enforceable harms versus open-textured values; state that Durga Dutt remains pending, and link each sanction to legality, competence and proportionality.
-
-**Demand decoding:** The directive **answer** requires a direct position on “M5. Should Fundamental Duties be made justiciable? Give a constitutionally graded answer. (15…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M5. Should Fundamental Duties be made justiciable? Give a constitutionally graded answer. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M5. Should Fundamental Duties be made justiciable? Give a constitutionally graded answer. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Model solution. Thesis: Defined harmful conduct should be enforceable through precise law, but blanket justiciability of all Article 51A clauses would be constitutionally unsafe. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Rights evidence: Bijoe Emmanuel (1986) proves that a duty to respect cannot override conscience and expression. Naveen Jindal (2004) shows that regulation must be lawful and rights-compatible. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Way forward: civic education, precise statutes for concrete harm, proportionality, due process, institutional example and better enforcement. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Conclusion: Operationalise duties selectively; do not constitutionalise a general loyalty code. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M5. Should Fundamental Duties be made justiciable? Give a constitutionally graded answer. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M6. "Rights, Directive Principles and Fundamental Duties are distinct parts of one constitutional project." Critically examine. (20 marks, 300 words)
-
-**Model solution.** **Thesis:** The three Parts distribute constitutional agency: Part III restrains public power and protects persons; Part IV directs the State toward justice; Part IVA asks citizens to sustain common constitutional goods. They are complementary, not interchangeable.
-
-**Rights as means and limits:** Articles 14, 19, 21 and 25 protect equal citizenship, expression, life and conscience. *Bijoe Emmanuel (1986)* demonstrates the firewall: respectful non-singing could not be punished merely by invoking respect for the Anthem.
-
-**DPSP as State purpose:** Part IV directs welfare, environment and education. Article 48A pairs with 51A(g); Article 45 pairs with 21A and 51A(k). These links show coordinated design rather than isolated chapters.
-
-**Duties as citizen agency:** Harmony, composite culture, scientific temper, public-property care and excellence identify conduct needed for constitutional democracy. *AIIMS Students' Union* confirms interpretive value; *M.C. Mehta* shows education-based operationalisation.
-
-**Legislative conversion:** The National Honour Act, environmental statutes, PDPP Act and RTE Act translate selected fields into standards. However, their validity derives from competent, rights-compliant law, not Article 51A alone.
-
-**Critical limits:** Part IVA's Emergency origin, vagueness and citizens-only reach caution against coercion. Duties cannot add Article 19 restriction grounds or become a majoritarian cultural test. Conversely, treating them as decorative ignores statutory and interpretive effects.
-
-**Verdict:** The project is balanced constitutionalism: rights protect agency, DPSP set collective ends and duties encourage responsible participation. Harmony exists only when rights discipline the means and duties remain plural, lawful and proportionate.
-
-**Why this earns marks:** It builds a three-part constitutional mechanism, uses six named provisions/cases/statutes, includes criticism and prevents both duties-supremacy and duties-irrelevance errors.
-
-**How to improve this answer:** Use a Part III–IV–IVA triangle and one paired example each for environment and education; cut catalogue-style case listing and make rights-compatible means the evaluative test.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “M6. "Rights, Directive Principles and Fundamental Duties are distinct parts of one…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M6. "Rights, Directive Principles and Fundamental Duties are distinct parts of one constitutional project." Critically examine. (20 marks, 300 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M6. "Rights, Directive Principles and Fundamental Duties are distinct parts of one constitutional project." Critically examine. (20 marks, 300 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** DPSP as State purpose: Part IV directs welfare, environment and education. Article 48A pairs with 51A(g); Article 45 pairs with 21A and 51A(k). These links show coordinated design rather than isolated chapters. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Why this earns marks: It builds a three-part constitutional mechanism, uses six named provisions/cases/statutes, includes criticism and prevents both duties-supremacy and duties-irrelevance errors. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** How to improve this answer: Use a Part III–IV–IVA triangle and one paired example each for environment and education; cut catalogue-style case listing and make rights-compatible means the evaluative test. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M6. "Rights, Directive Principles and Fundamental Duties are distinct parts of one constitutional project." Critically examine. (20 marks, 300 words)”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M7. Do Fundamental Duties create active citizenship, or can they become instruments of majoritarian conformity? Evaluate. (20 marks, 300 words)
-
-**Model solution.** **Thesis:** Fundamental Duties can deepen active citizenship when read through liberty, equality and fraternity; detached from those values, vague duty language can become a conformity test.
-
-**Active-citizenship potential:** Article 51A moves citizens beyond spectatorship. Clause (e) asks for fraternity across religious, linguistic, regional and sectional differences; (g) creates ecological care; (h) promotes inquiry and reform; (i) protects shared property and non-violence; (k) makes education a shared responsibility. The Verma Committee's curriculum, teacher-training and media programme gives these values a participatory route.
-
-**Constitutional patriotism:** Clause (a) attaches respect to the Constitution and its institutions, not to an incumbent government. *Naveen Jindal (2004)* protects positive patriotic expression. *Bijoe Emmanuel (1986)* protects respectful conscience. Together they locate loyalty in a free constitutional order.
-
-**Majoritarian risk:** "Noble ideals," "composite culture" and "scientific temper" are open to capture. A dominant group may define its own ritual, history or belief as the only patriotic form. Emergency provenance intensifies the concern. Blanket penalties would burden minority conscience, dissent and cultural pluralism.
-
-**Safeguards:** precise legislation, Article 19/25 review, proportionality, anti-discrimination, public-reasoned institutions and plural civic education. Composite culture should mean interaction, not assimilation; harmony should protect difference, not silence it.
-
-**Conclusion:** Duties create democratic citizenship only when they discipline power as well as citizens. Their mature form is responsible freedom, not enforced sameness.
-
-**Why this earns marks:** It directly evaluates both possibilities, covers six clauses, uses Verma plus two cases, develops the advanced patriotism argument and ends with a constitutional criterion rather than a generic way forward.
-
-**How to improve this answer:** Pair each citizenship gain with its conformity risk, use Bijoe Emmanuel (1986) as the controlling minority-conscience example, and make plural civic education—not penal loyalty—the final recommendation.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “M7. Do Fundamental Duties create active citizenship, or can they become instruments of…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M7. Do Fundamental Duties create active citizenship, or can they become instruments of majoritarian conformity? Evaluate. (20 marks, 300 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M7. Do Fundamental Duties create active citizenship, or can they become instruments of majoritarian conformity? Evaluate. (20 marks, 300 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Model solution. Thesis: Fundamental Duties can deepen active citizenship when read through liberty, equality and fraternity; detached from those values, vague duty language can become a conformity test. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Conclusion: Duties create democratic citizenship only when they discipline power as well as citizens. Their mature form is responsible freedom, not enforced sameness. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M7. Do Fundamental Duties create active citizenship, or can they become instruments of majoritarian conformity? Evaluate. (20 marks, 300 words)”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.

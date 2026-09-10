@@ -1,1102 +1,774 @@
----
-title: "Union Territories — Solved Practice Workbook"
-topic_key: polity-25
----
-# Union Territories — Solved Practice Workbook
+# UNION TERRITORIES - SOLVED PRACTICE WORKBOOK
+
+**Subject:** Indian Polity | **Topic:** 25
+
 
 ## BASIC MCQS / REMEDIATION
 
-### Original MCQ loop - strict continuous A -> B -> C -> D rotation
+This section contains exactly 32 original MCQs before the PYQs. The answer sequence is ABCD repeated eight times. Every option has a separate explanation and every question has a unique examiner trap.
 
-#### OM1. Current inventory
+### MCQ 1
 
-Which statement is correct as on 5 September 2026?
+As on 7 September 2026, which statement is correct?
 
-A. India has 8 Union Territories.
-B. Dadra and Nagar Haveli and Daman and Diu remain separate UTs.
-C. India has 9 Union Territories.
-D. Delhi and Puducherry are the only UTs with legislatures.
+A. India has eight Union Territories.
+B. Dadra and Nagar Haveli and Daman and Diu are separate UTs.
+C. Only Delhi and Puducherry have legislatures.
+D. Ladakh has a legislature.
 
 **Answer: A.**
 
-**Explanation:** [CURRENT] The eight include J&K and Ladakh separately and DNHDD as one merged UT.
+**Option explanations**
 
-#### OM2. Administrative default
+- A: Correct: the current total is eight.
+- B: The two territories were merged into one UT from 26 January 2020.
+- C: J&K also has a legislature and an elected government.
+- D: Ladakh is a UT without a legislature.
 
-The constitutional default for administration of a Union Territory is found in:
+**Examiner trap 1:** Count after both the 2019 split and the 2020 merger.
 
-A. Article 356.
+### MCQ 2
+
+The general constitutional rule for administration of Union Territories is contained in:
+
+A. Article 238.
 B. Article 239.
-C. Article 243.
-D. Article 238.
+C. Article 240.
+D. Article 246(4).
 
 **Answer: B.**
 
-**Explanation:** [FACT] Article 239 places administration through a President-appointed Administrator, save as Parliament otherwise provides by law.
+**Option explanations**
 
-#### OM3. Administrator's character
+- A: Article 238 was repealed and does not supply the current rule.
+- B: Correct: Article 239 places administration through the President and an appointed Administrator.
+- C: Article 240 is the narrower regulation power for specified UTs.
+- D: Article 246(4) is Parliament's all-subject legislative competence for territories not included in a State.
 
-Which description is constitutionally most accurate?
+**Examiner trap 2:** Administration, regulation and parliamentary competence are three different provisions.
 
-A. A UT Administrator is appointed by the Chief Minister.
-B. A UT Administrator is identical to a State Governor in legal source and role.
-C. A UT Administrator acts as an agent/channel of the President under Article 239.
-D. A UT Administrator is always the elected territorial head.
+### MCQ 3
+
+Which statement best states the legal significance of the title 'Lieutenant Governor'?
+
+A. It always gives powers identical to a State Governor.
+B. It necessarily implies an elected territorial legislature.
+C. Its powers depend on the governing Constitution, Act and rules rather than the title alone.
+D. It is a title elected by the territorial Assembly.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The office is not a Part VI State headship; powers vary by the UT's special framework.
+**Option explanations**
 
-#### OM4. Parliament's State-List power
+- A: A State Governor and a UT LG occupy different constitutional frameworks.
+- B: A&N and Ladakh use LGs but have no Assembly.
+- C: Correct: designation does not determine the legal field or discretion.
+- D: The President appoints the Administrator/LG.
 
-Parliament's power to legislate on a State-List matter for territory not included in a State is expressly stated in:
+**Examiner trap 3:** Never infer power merely from nomenclature.
+
+### MCQ 4
+
+Parliament's general power to legislate on a State List matter for a territory not included in a State flows from:
 
 A. Article 239A.
-B. Article 240.
-C. Article 241.
+B. Article 239B.
+C. Article 240.
 D. Article 246(4).
 
 **Answer: D.**
 
-**Explanation:** [FACT] This is the core reason Parliament's UT competence continues even where an Assembly exists.
+**Option explanations**
 
-#### OM5. Puducherry's constitutional hook
+- A: Article 239A enables specified local legislatures and Councils.
+- B: Article 239B concerns ordinances.
+- C: Article 240 concerns Presidential regulations for specified UTs.
+- D: Correct: Article 246(4) expressly reaches any matter, including the State List.
 
-Parliament's power to create Puducherry's Legislature and Council of Ministers comes primarily from:
+**Examiner trap 4:** Article 240 is not the source of Parliament's general State-List power.
 
-A. Article 239A.
-B. Article 239AA.
-C. Article 371.
-D. Article 240 alone.
+### MCQ 5
+
+Article 239A currently authorises Parliament by law to create a legislature or Council of Ministers for:
+
+A. Puducherry, with its provisions also applied to J&K by section 13 of the 2019 Act.
+B. Delhi alone.
+C. Every UT automatically.
+D. Only legislature-free UTs.
 
 **Answer: A.**
 
-**Explanation:** [FACT] The Government of Union Territories Act, 1963 operationalises Article 239A.
+**Option explanations**
 
-#### OM6. Delhi's special article
+- A: Correct: the constitutional text names Puducherry and section 13 applies it to J&K.
+- B: Delhi's special source is Article 239AA.
+- C: The provision is enabling and territorially specific, not automatic.
+- D: It creates representative institutions rather than targeting only legislature-free administration.
 
-The National Capital Territory and its Legislative Assembly are constitutionally anchored in:
+**Examiner trap 5:** Separate the current Article text from statutory application to J&K.
 
-A. Article 239B only.
-B. Article 239AA.
-C. Article 241.
-D. Article 239.
+### MCQ 6
+
+Article 239A was inserted by the:
+
+A. Seventh Amendment Act, 1956.
+B. Fourteenth Amendment Act, 1962.
+C. Sixty-ninth Amendment Act, 1991.
+D. Twenty-seventh Amendment Act, 1971.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The 69th Amendment inserted Article 239AA.
+**Option explanations**
 
-#### OM7. Delhi failure of machinery
+- A: The Seventh Amendment created the modern Part VIII framework.
+- B: Correct: the Fourteenth Amendment inserted Article 239A.
+- C: The Sixty-ninth Amendment inserted Delhi's Articles 239AA and 239AB.
+- D: The Twenty-seventh Amendment inserted Article 239B and amended Article 240.
 
-Which provision allows suspension of the Article 239AA arrangement when Delhi cannot be administered in accordance with it?
+**Examiner trap 6:** Match each amendment to its distinct UT mechanism.
 
-A. Article 239A(2).
-B. Article 356 directly and exclusively.
+### MCQ 7
+
+Failure of constitutional machinery in NCT Delhi is specifically governed by:
+
+A. Article 356 alone.
+B. Article 239B.
 C. Article 239AB.
-D. Article 239B.
+D. Section 73 of the J&K Reorganisation Act.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Article 239AB is Delhi's specific failure-of-constitutional-machinery provision.
+**Option explanations**
 
-#### OM8. Ordinances in Puducherry
+- A: Article 356 is the State provision; Delhi has its own text.
+- B: Article 239B is a recess ordinance power.
+- C: Correct: Article 239AB permits suspension of specified Delhi arrangements.
+- D: Section 73 is the separate J&K statutory mechanism.
 
-The Administrator's ordinance power during recess of Puducherry's Legislature is in:
+**Examiner trap 7:** AB denotes Delhi breakdown; B denotes ordinance.
 
-A. Article 123.
-B. Article 240.
-C. Article 213.
-D. Article 239B.
+### MCQ 8
+
+Under Article 239B, Puducherry's Administrator may promulgate an ordinance when:
+
+A. The Assembly is dissolved.
+B. The Assembly is in session.
+C. No Presidential instructions have been obtained.
+D. The Assembly is not in session, immediate action is necessary and prior Presidential instructions are obtained.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Prior presidential instructions are required.
+**Option explanations**
 
-#### OM9. Article 240 set
+- A: The second proviso bars the power during dissolution.
+- B: An ordinance is unnecessary and unavailable while the House is in session.
+- C: Prior Presidential instructions are mandatory.
+- D: Correct: all three conditions reflect the constitutional text.
 
-Which UT is expressly within Article 240's presidential-regulation text?
+**Examiner trap 8:** Recess, dissolution and suspension are legally different conditions.
+
+### MCQ 9
+
+Which is part of Article 240's direct constitutional list?
 
 A. Andaman and Nicobar Islands.
 B. Chandigarh.
-C. Jammu and Kashmir.
-D. Delhi.
+C. NCT Delhi.
+D. Jammu and Kashmir UT.
 
 **Answer: A.**
 
-**Explanation:** [FACT] A&N is expressly listed; Ladakh uses the route through section 58 of the 2019 Act.
+**Option explanations**
 
-#### OM10. Article 240 trap
+- A: Correct: A&N is expressly listed.
+- B: Chandigarh is absent from Article 240.
+- C: Delhi is governed by Article 239AA and related law.
+- D: J&K with legislature is governed by the 2019 Act, not Article 240's list.
 
-Which UT is **not** covered by the Article 240 regulation route?
+**Examiner trap 9:** Memorise the enumerated territories rather than all UTs.
 
-A. Ladakh.
-B. Chandigarh.
-C. Lakshadweep.
-D. Dadra and Nagar Haveli and Daman and Diu.
+### MCQ 10
+
+Which statement about Chandigarh is correct?
+
+A. It has an Article 239AA legislature.
+B. It is administered under Article 239 but is not in Article 240's specified regulation set.
+C. It is part of Punjab for all constitutional purposes.
+D. It elects members to the Rajya Sabha.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Chandigarh is administered under Article 239 but is not in Article 240's specified set.
+**Option explanations**
 
-#### OM11. UT High Courts
+- A: Article 239AA applies only to Delhi.
+- B: Correct: Chandigarh uses Article 239 administration without Article 240 enumeration.
+- C: It is a separate UT and shared capital, not territory of Punjab.
+- D: The Fourth Schedule allocates no Council of States seat to Chandigarh.
 
-Parliament's power to constitute a High Court for a UT or extend/exclude State High Court jurisdiction is addressed by:
+**Examiner trap 10:** Shared capital does not erase separate UT status.
 
-A. Article 231 alone.
-B. Article 262.
-C. Article 241.
-D. Article 214 alone.
+### MCQ 11
+
+Article 241 primarily concerns:
+
+A. UT ordinances.
+B. Statehood conversion.
+C. High Courts for Union Territories and extension or exclusion of jurisdiction.
+D. Presidential regulations.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Articles 214/231 support the wider High Court framework, but Article 241 is the UT-specific provision.
+**Option explanations**
 
-#### OM12. Separate High Court
+- A: Ordinances are governed by Article 239B or specific statutes.
+- B: Territorial reorganisation is addressed through Articles 1-4 and parliamentary law.
+- C: Correct: Article 241 is the UT High Court provision.
+- D: Regulations are governed by Article 240.
+
+**Examiner trap 11:** Article 241 is institutional jurisdiction, not territorial law-making.
+
+### MCQ 12
 
 Which Union Territory has a separate High Court of its own?
 
 A. Puducherry.
-B. Chandigarh.
-C. Jammu and Kashmir.
+B. Jammu and Kashmir.
+C. Chandigarh.
 D. NCT Delhi.
 
 **Answer: D.**
 
-**Explanation:** [CURRENT] J&K and Ladakh share a common High Court; Delhi alone has a separate UT High Court.
+**Option explanations**
 
-#### OM13. Andaman jurisdiction
+- A: Puducherry is under Madras High Court.
+- B: J&K shares a common High Court with Ladakh.
+- C: Chandigarh is under Punjab and Haryana High Court.
+- D: Correct: Delhi has its own High Court.
 
-Andaman and Nicobar Islands fall under:
+**Examiner trap 12:** A common High Court and a separate UT High Court are not the same.
 
-A. Calcutta High Court.
-B. Madras High Court.
-C. Bombay High Court.
-D. Kerala High Court.
+### MCQ 13
 
-**Answer: A.**
+The merger of Dadra and Nagar Haveli with Daman and Diu took effect on:
 
-**Explanation:** [FACT] The circuit arrangement at Port Blair does not create a separate High Court.
-
-#### OM14. DNHDD jurisdiction
-
-Dadra and Nagar Haveli and Daman and Diu fall under:
-
-A. Gujarat High Court.
-B. Bombay High Court.
-C. Delhi High Court.
-D. Madras High Court.
-
-**Answer: B.**
-
-**Explanation:** [FACT] The merged UT continues under Bombay High Court jurisdiction.
-
-#### OM15. Lakshadweep jurisdiction
-
-Lakshadweep falls under:
-
-A. Karnataka High Court.
-B. Madras High Court.
-C. Kerala High Court.
-D. Calcutta High Court.
-
-**Answer: C.**
-
-**Explanation:** [FACT] Do not confuse Lakshadweep with Puducherry's Madras High Court link.
-
-#### OM16. Puducherry jurisdiction
-
-Puducherry falls under:
-
-A. Calcutta High Court.
-B. Bombay High Court.
-C. Kerala High Court.
-D. Madras High Court.
-
-**Answer: D.**
-
-**Explanation:** [FACT] Puducherry has an Assembly but not its own High Court.
-
-#### OM17. Common J&K-Ladakh court
-
-The correct current institutional description is:
-
-A. High Court of Jammu & Kashmir and Ladakh is common to both UTs.
-B. Ladakh has no High Court jurisdiction.
-C. Both are under Punjab and Haryana High Court.
-D. J&K and Ladakh each have a separate High Court.
+A. 26 January 2020.
+B. 31 October 2019.
+C. 1 November 1956.
+D. 1 February 1992.
 
 **Answer: A.**
 
-**Explanation:** [CURRENT] The official name expressly includes both territories.
+**Option explanations**
 
-#### OM18. Legislature set
+- A: Correct: the merger statute commenced on 26 January 2020.
+- B: This is the appointed day for J&K and Ladakh UTs.
+- C: This is the Seventh Amendment reorganisation date.
+- D: This is the commencement of Delhi's special NCT scheme.
+
+**Examiner trap 13:** The Act year 2019 and effective date 2020 are different.
+
+### MCQ 14
 
 Which set contains all current UTs with legislatures?
 
-A. Delhi, Jammu and Kashmir, Ladakh.
-B. Delhi, Puducherry, Jammu and Kashmir.
-C. Delhi, Puducherry, Chandigarh.
-D. Puducherry, J&K, Andaman and Nicobar Islands.
+A. Delhi and Puducherry only.
+B. Delhi, Puducherry and Jammu and Kashmir.
+C. Delhi, J&K and Ladakh.
+D. Puducherry, Chandigarh and J&K.
 
 **Answer: B.**
 
-**Explanation:** [CURRENT] Ladakh, Chandigarh and A&N do not have territorial legislatures.
+**Option explanations**
 
-#### OM19. Delhi exclusions
+- A: This omits J&K's elected statutory Assembly.
+- B: Correct: these are the three legislative UTs.
+- C: Ladakh has no Assembly.
+- D: Chandigarh has no territorial legislature.
 
-Which group is excluded from Delhi Assembly's ordinary State-List competence?
+**Examiner trap 14:** The 2024 J&K election makes the three-legislature answer operationally visible.
 
-A. land, education and electricity.
-B. agriculture, irrigation and markets.
-C. public order, police and land.
-D. prisons, public health and local government.
+### MCQ 15
+
+Article 239AA excludes which three headline State List subjects from Delhi's Assembly?
+
+A. Agriculture, irrigation and markets.
+B. Services, finance and local government.
+C. Public order, police and land.
+D. Prisons, public health and education.
 
 **Answer: C.**
 
-**Explanation:** [FACT] These correspond to Entries 1, 2 and 18 plus related entries.
+**Option explanations**
 
-#### OM20. J&K exclusions
+- A: These are not the three constitutional exclusions.
+- B: Services is Entry 41 and was central to separate litigation.
+- C: Correct: Entries 1, 2 and 18 are excluded.
+- D: These subjects are not the three blanket exclusions.
 
-Under section 32 of the J&K Reorganisation Act, the Assembly is excluded from:
+**Examiner trap 15:** Also remember related Entries 64, 65 and 66 insofar as they concern 1, 2 and 18.
 
-A. land and agriculture.
-B. forests and water.
-C. education and local government.
-D. public order and police.
+### MCQ 16
+
+If a President-assented Delhi Assembly law conflicts with parliamentary law in the same field, which is most accurate?
+
+A. The Delhi law can never operate.
+B. The Delhi law permanently binds Parliament.
+C. The LG alone chooses which law applies.
+D. The Delhi law may prevail in NCT Delhi, but Parliament may later add to, amend, vary or repeal it.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Unlike Delhi, land is not a blanket excluded field.
+**Option explanations**
 
-#### OM21. Puducherry competence
+- A: The first proviso creates an assent qualification.
+- B: The second proviso preserves later parliamentary power.
+- C: The conflict rule is constitutional, not a free LG choice.
+- D: Correct: this states both temporary territorial priority and later override.
 
-Which statement best states section 18 of the Government of Union Territories Act, 1963?
+**Examiner trap 16:** Presidential assent gives priority, not permanent immunity.
 
-A. Puducherry's Assembly may legislate on applicable State and Concurrent List matters, subject to the Act.
-B. It may legislate only on the Concurrent List.
-C. It has no taxation competence.
-D. Parliament loses State-List competence after the Assembly is created.
+### MCQ 17
+
+The 2018 Delhi Constitution Bench held that:
+
+A. The LG has no independent decision-making power within the elected sphere and reference must not become routine.
+B. Delhi became a full State.
+C. Parliament lost Article 246(4) power.
+D. Land moved to the Delhi Assembly.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Parliament's power is expressly preserved by section 18(2).
+**Option explanations**
 
-#### OM22. Delhi parliamentary power
+- A: Correct: aid and advice is the rule, with exceptional reference.
+- B: The Court did not confer Statehood.
+- C: Parliamentary competence remained intact.
+- D: Land remains an excluded Entry 18 field.
 
-Article 239AA provides that:
+**Examiner trap 17:** Representative primacy is bounded by Delhi's constitutional field.
 
-A. Presidential assent permanently immunises a Delhi law from Parliament.
-B. Parliament's NCT competence continues and its law can prevail under the constitutional scheme.
-C. Parliament cannot legislate on Delhi State-List matters.
-D. the Delhi Assembly is sovereign in all non-reserved fields.
+### MCQ 18
+
+The 2023 Delhi services judgment used the 'triple chain of accountability' to connect:
+
+A. President, Parliament and Supreme Court.
+B. Civil servants, ministers, the legislature and the electorate.
+C. Police, land and public order.
+D. NCCSA, ECI and Finance Commission.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Parliament can later add to, amend, vary or repeal even a reserved local law that received assent.
+**Option explanations**
 
-#### OM23. 2018 reference power
+- A: That is not the administrative accountability chain used by the Court.
+- B: Correct: officer accountability runs through ministers and the House to voters.
+- C: These are reserved subjects, not accountability actors.
+- D: These institutions do not form the Court's triple-chain reasoning.
 
-The 2018 Constitution Bench held that the phrase "any matter" in Article 239AA(4):
+**Examiner trap 18:** Services doctrine is about democratic control over implementation.
 
-A. eliminates the need for ministerial advice.
-B. means every administrative decision.
-C. does not mean every matter; reference is an exceptional power.
-D. transfers all disputes directly to the Supreme Court.
+### MCQ 19
+
+As on 7 September 2026, the safest statement on Delhi services is:
+
+A. The May 2023 judgment alone is the complete current rule.
+B. The 2023 Act has been finally struck down.
+C. Act 19 of 2023 remains operative while its constitutional challenge is unresolved.
+D. Delhi has no executive authority over any non-reserved field.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The LG must not mechanically refer every decision and should seek dialogue.
+**Option explanations**
 
-#### OM24. Delhi services judgment (2023)
+- A: Later parliamentary legislation must be included.
+- B: No final official merits judgment striking it down was located.
+- C: Correct: this separates operative law from pending adjudication.
+- D: Article 239AA and the 2018 doctrine preserve an elected sphere.
 
-The Court held in May 2023 that:
+**Examiner trap 19:** Always sequence constitutional holding, later statute and pending challenge.
 
-A. Parliament has no competence over Delhi services.
-B. services are outside every UT's constitutional framework.
-C. Delhi controls police services.
-D. NCTD had legislative and executive power over Entry 41 services outside public order, police and land.
+### MCQ 20
+
+Under Act 19 of 2023, persistent disagreement over an NCCSA recommendation is finally decided by the:
+
+A. Chief Minister alone.
+B. Chief Secretary.
+C. President directly in every case.
+D. Lieutenant Governor under the statutory mechanism.
 
 **Answer: D.**
 
-**Explanation:** [FACT] This judicial position must now be read with the later 2023 Act.
+**Option explanations**
 
-#### OM25. NCCSA composition
+- A: The Chief Minister chairs but does not possess a unilateral vote.
+- B: The Chief Secretary is one member.
+- C: The statutory process routes the matter to the LG rather than requiring direct Presidential decision in every instance.
+- D: Correct: the LG's decision is final after the statutory disagreement process.
 
-The NCCSA consists of:
+**Examiner trap 20:** NCCSA majority and final LG decision are distinct stages.
 
-A. Chief Minister, Chief Secretary and Principal Home Secretary.
-B. Chief Minister and two elected MLAs.
-C. Union Home Minister, LG and Chief Minister.
-D. LG, Chief Minister and Speaker.
+### MCQ 21
+
+Puducherry's Assembly composition under the 1963 Act is best described as:
+
+A. Thirty elected members plus up to three Central Government nominees.
+B. Seventy elected members only.
+C. Ninety elected members plus five nominees.
+D. A wholly nominated legislature.
 
 **Answer: A.**
 
-**Explanation:** [FACT] The Chief Minister chairs; the two senior officials are members, with the Home Secretary as Member-Secretary.
+**Option explanations**
 
-#### OM26. NCCSA disagreement
+- A: Correct: section 3 supplies this structure.
+- B: Seventy is Delhi's Assembly strength.
+- C: Ninety is the elected J&K constituency count used in 2024.
+- D: Puducherry has a directly elected core.
 
-Under section 45H after reconsideration:
+**Examiner trap 21:** The nominees are additional full members, not non-voting advisers.
 
-A. the Chief Minister's view is automatically final.
-B. the LG's decision is final where difference persists.
-C. the recommendation lapses without decision.
-D. the Speaker decides.
+### MCQ 22
+
+In K. Lakshminarayanan (2018), the Supreme Court upheld:
+
+A. A Delhi services ordinance.
+B. Central nomination of Puducherry Assembly members without mandatory Chief Minister concurrence.
+C. J&K's conversion into a UT.
+D. Article 240 regulations for Chandigarh.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The LG must record reasons when returning a recommendation; persistent disagreement ends with the LG's decision.
+**Option explanations**
 
-#### OM27. Puducherry nomination
+- A: The case concerned Puducherry nominees, not Delhi services.
+- B: Correct: the nomination power and nominees' voting status were upheld.
+- C: That issue arose in the Article 370 litigation.
+- D: Chandigarh is not in Article 240.
 
-Who may nominate up to three persons to Puducherry's Legislative Assembly under section 3(3)?
+**Examiner trap 22:** Do not turn a nomination judgment into a general unlimited-LG doctrine.
 
-A. Lieutenant Governor personally.
-B. Election Commission of India.
-C. Central Government.
-D. Chief Minister.
+### MCQ 23
+
+J&K Assembly competence under section 32 excludes:
+
+A. Land and agriculture.
+B. Services and taxation.
+C. Public order and police.
+D. All State List subjects.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The Supreme Court upheld this statutory allocation in *K. Lakshminarayanan (2018)*.
+**Option explanations**
 
-#### OM28. Nominated-member vote
+- A: Land is not a blanket exclusion.
+- B: These are not the two section 32 exclusions.
+- C: Correct: Entries 1 and 2 are excluded.
+- D: The Assembly has a broad applicable State and Concurrent List field.
 
-The Supreme Court's Puducherry ruling held that nominated members:
+**Examiner trap 23:** Delhi excludes three headline fields; J&K excludes two.
 
-A. cannot vote on the budget.
-B. may vote only on ordinary Bills.
-C. cannot vote in a no-confidence motion.
-D. may vote on all questions, including budget and no-confidence.
+### MCQ 24
+
+Which comparison is constitutionally accurate?
+
+A. Both Delhi and J&K exclude land.
+B. Neither Delhi nor J&K excludes police.
+C. Puducherry excludes all three Delhi reserved subjects.
+D. Delhi excludes land, whereas J&K section 32 does not blanket-exclude it.
 
 **Answer: D.**
 
-**Explanation:** [FACT] The Court relied on the Act's treatment of all Assembly members and all questions.
+**Option explanations**
 
-#### OM29. Puducherry and Article 240
+- A: J&K does not have Delhi's Entry 18 exclusion.
+- B: Both exclude police.
+- C: Section 18 of the 1963 Act has no equivalent blanket three-entry exclusion.
+- D: Correct: this is the key close-option distinction.
 
-When Puducherry's Legislature is dissolved or its functioning suspended:
+**Examiner trap 24:** Do not copy Delhi's field into the J&K answer.
 
-A. the President may make Article 240 regulations during that period.
-B. Parliament loses law-making power.
-C. the Administrator alone uses Article 213.
-D. Article 240 permanently ceases to apply.
+### MCQ 25
+
+Which event established a functioning elected J&K UT Assembly after reorganisation?
+
+A. The 2024 Assembly election conducted by the ECI.
+B. The 2019 appointed day alone.
+C. The DNHDD merger.
+D. The 69th Amendment.
 
 **Answer: A.**
 
-**Explanation:** [FACT] This is the second proviso to Article 240(1).
+**Option explanations**
 
-#### OM30. J&K current institution
+- A: Correct: the 2024 election restored elected territorial government.
+- B: The 2019 Act created the institution but elections followed later.
+- C: That merger concerns another UT.
+- D: The 69th Amendment concerns Delhi.
 
-Which proposition is accurate at the control date?
+**Examiner trap 25:** Creation of an Assembly in law and constitution of an elected House are different stages.
 
-A. the Assembly controls police.
-B. J&K has an elected Assembly and Council of Ministers after the 2024 election.
-C. J&K has never held a UT Assembly election.
-D. J&K Statehood automatically returned with the election.
+### MCQ 26
+
+The Supreme Court's 2023 Article 370 judgment stated that J&K Statehood should be restored:
+
+A. By a fixed date of 30 September 2024.
+B. At the earliest and as soon as possible, without fixing a Statehood date.
+C. Only after a constitutional amendment.
+D. Automatically upon the 2024 election.
 
 **Answer: B.**
 
-**Explanation:** [CURRENT] The official 2026-27 Budget Speech independently evidences a functioning elected House and government.
+**Option explanations**
 
-#### OM31. Statehood control
+- A: 30 September 2024 was the election deadline, not a Statehood deadline.
+- B: Correct: the formulation gave no fixed date.
+- C: Parliamentary reorganisation law, not necessarily Article 368, controls the status change.
+- D: Election did not legally convert the UT into a State.
 
-Which statement is legally correct?
+**Examiner trap 26:** Separate the election deadline from the Statehood assurance.
 
-A. Statehood returned when the 2024 result was declared.
-B. The Supreme Court itself converted J&K back into a State in 2023.
-C. Statehood remains pending; the Court directed earliest restoration without a fixed date.
-D. J&K has a constitutional right to a specified restoration year.
+### MCQ 27
+
+Ladakh's Presidential regulation route is expressly supplied by:
+
+A. Article 239AA.
+B. Article 239B.
+C. Section 58 of the J&K Reorganisation Act read with Article 240.
+D. The Government of UT Act, 1963.
 
 **Answer: C.**
 
-**Explanation:** [CURRENT] No enacted restoration or appointed-day legal change was located by 5 September 2026.
+**Option explanations**
 
-#### OM32. J&K 2024 business rules
+- A: Article 239AA is Delhi-specific.
+- B: Article 239B is the Puducherry recess-ordinance provision.
+- C: Correct: section 58 authorises Article 240 regulations for Ladakh.
+- D: The 1963 Act principally structures Puducherry.
 
-The Second Amendment Rules, 2024 principally:
+**Examiner trap 27:** Ladakh is not textually listed in Article 240 itself.
 
-A. transferred police to the Assembly.
-B. restored Statehood.
-C. abolished the J&K Assembly.
-D. prescribed LG-routing/approval channels for specified police, public order, AIS, ACB, legal and senior-posting matters.
+### MCQ 28
+
+The common High Court for J&K and Ladakh is established by:
+
+A. Article 239B.
+B. The Delhi High Court Act.
+C. Article 240 alone.
+D. Section 75 of the J&K Reorganisation Act, consistently with Article 241.
 
 **Answer: D.**
 
-**Explanation:** [FACT] The rules operationalise the wider discretion already present in section 53.
+**Option explanations**
 
-#### OM33. Dual-capacity trap
+- A: Article 239B supplies a recess ordinance route, not a High Court.
+- B: The Delhi statute has no role in J&K/Ladakh.
+- C: Article 240 concerns regulations, not court allocation.
+- D: Correct: section 75 supplies the common-court rule.
 
-When a State Governor is appointed Administrator of an adjoining UT:
+**Examiner trap 28:** Use the specific reorganisation section with the general Article 241 framework.
 
-A. the Governor acts in the UT capacity independently of the State CoM.
-B. the UT becomes part of the State.
-C. Article 239 ceases to apply.
-D. the State CoM controls the UT.
+### MCQ 29
+
+Which pair adapts Panchayat and Municipality constitutional parts to Union Territories?
+
+A. Articles 243L and 243ZB.
+B. Articles 239AB and 239B.
+C. Articles 240 and 241.
+D. Articles 330A and 334A.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 239(2) expressly separates the capacities.
+**Option explanations**
 
-#### OM34. Strategic-rationale inference
+- A: Correct: these provisions apply Parts IX and IXA to UTs subject to Presidential adaptations.
+- B: These concern Delhi breakdown and ordinances.
+- C: These concern regulations and High Courts.
+- D: These concern women's representation and activation.
 
-Which is the best constitutional analysis?
+**Examiner trap 29:** Territorial legislatures are not the only form of elected government in a UT.
 
-A. Strategic importance removes fundamental rights.
-B. Strategic importance may justify stronger Union coordination, but authority remains legally bounded and reviewable.
-C. Every border territory must be a UT.
-D. A UT cannot have elected local bodies.
+### MCQ 30
 
-**Answer: B.**
+Which UTs receive seats in the Council of States under the current Fourth Schedule?
 
-**Explanation:** [ANALYSIS] Rationale explains differentiation; it does not create a rights-free zone.
-
-#### OM35. Merger recall
-
-Which event reduced the UT count from nine to eight?
-
-A. Puducherry's renaming.
-B. J&K becoming a UT.
-C. Merger of DNH with Daman and Diu from 26 January 2020.
-D. Ladakh becoming a UT.
-
-**Answer: C.**
-
-**Explanation:** [FACT] J&K reorganisation first increased the count; the later merger reduced it.
-
-#### OM36. Best evaluation
-
-Which conclusion most accurately evaluates UTs with legislatures?
-
-A. Parliament loses overriding competence.
-B. They are legally identical to States.
-C. Their Assemblies are merely advisory.
-D. They provide real but bounded self-government within a continuing Union-administered framework.
-
-**Answer: D.**
-
-**Explanation:** [ANALYSIS] The exact boundary differs among Delhi, Puducherry and J&K.
-
-### Remedial MCQs - strict continuation A -> C -> A -> D rotation
-
-#### RM1. Eight-UT list
-
-Which list contains no stale or duplicate territory?
-
-A. A&N, Chandigarh, DNHDD, Delhi, J&K, Ladakh, Lakshadweep, Puducherry.
-B. A&N, Chandigarh, Delhi, J&K, Goa, Ladakh, Lakshadweep, Puducherry.
-C. A&N, Chandigarh, DNHDD, Delhi, J&K, Ladakh, Lakshadweep.
-D. A&N, Chandigarh, DNH, Daman and Diu, Delhi, J&K, Ladakh, Lakshadweep, Puducherry.
-
-**Answer: A.**
-
-**Explanation:** [CURRENT] Option D double-counts the merged UT and therefore gives nine.
-
-#### RM2. Three Assembly bases
-
-Which matching is correct?
-
-A. All three derive solely from Article 246(4).
-B. Delhi-239AA; Puducherry-239A/1963 Act; J&K-2019 Act with section 13 application of 239A.
-C. Delhi-239A; Puducherry-239AA; J&K-Article 240.
-D. Delhi-Article 356; Puducherry-Article 371; J&K-239B.
+A. All eight UTs.
+B. Delhi, Puducherry and Jammu and Kashmir.
+C. Only Delhi.
+D. Delhi and Chandigarh.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The legal-source distinction is central to the topic.
+**Option explanations**
 
-#### RM3. Regulation exclusion
+- A: The Fourth Schedule does not allocate seats to every UT.
+- B: Correct: allocations are Delhi 3, Puducherry 1 and J&K 4.
+- C: Puducherry and J&K also have allocations.
+- D: Chandigarh has no Rajya Sabha allocation.
 
-Which UT should be removed from an Article 240 list?
+**Examiner trap 30:** Lok Sabha representation and Rajya Sabha allocation follow different rules.
 
-A. Andaman and Nicobar Islands.
-B. Lakshadweep.
-C. Chandigarh.
-D. Dadra and Nagar Haveli and Daman and Diu.
+### MCQ 31
 
-**Answer: C.**
+The 106th Amendment clauses inserted into Article 239AA concerning women become operational:
 
-**Explanation:** [FACT] Chandigarh is the recurring close-option trap.
-
-#### RM4. Delhi services current law
-
-The safest present statement is:
-
-A. the 2018 judgment alone gives Delhi all service control.
-B. NCCSA recommendations bind the LG without exception.
-C. the 2023 judgment transferred police officers to Delhi.
-D. the 2023 Act creates an NCCSA process and gives the LG final authority on persistent disagreement.
-
-**Answer: D.**
-
-**Explanation:** [CURRENT] The constitutional challenge does not by itself displace the enacted statute.
-
-#### RM5. J&K and land
-
-Which distinction is correct?
-
-A. Delhi excludes land; J&K's section 32 does not blanket-exclude land.
-B. Neither excludes police.
-C. J&K excludes land but Delhi does not.
-D. Both exclude land.
-
-**Answer: A.**
-
-**Explanation:** [FACT] Delhi has three express exclusions; J&K has two.
-
-#### RM6. Chief Minister appointment
-
-Which matching is accurate?
-
-A. Delhi-LG; Puducherry-LG; J&K-President.
-B. Delhi-President; Puducherry-President; J&K-LG.
-C. all three-LG.
-D. all three-President.
-
-**Answer: B.**
-
-**Explanation:** [FACT] The differing appointment routes reinforce non-uniformity.
-
-#### RM7. Puducherry confidence vote
-
-Under *K. Lakshminarayanan (2018)*, a nominated Puducherry member:
-
-A. is excluded from quorum.
-B. cannot vote on supply.
-C. may vote on a no-confidence motion.
-D. loses membership on joining debate.
+A. Immediately for every Delhi seat from 2023.
+B. Only by an LG notification.
+C. After the census-linked delimitation condition in Article 334A is satisfied.
+D. Only after Delhi becomes a State.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The Court rejected special voting exclusions not written into section 12.
+**Option explanations**
 
-#### RM8. Judicial map
+- A: The inserted text does not mean immediate seat reservation.
+- B: The LG is not the constitutional trigger.
+- C: Correct: Article 334A links operation to delimitation after publication of the relevant census figures.
+- D: Statehood is not required.
 
-Which pair is incorrectly matched?
+**Examiner trap 31:** Distinguish constitutional insertion from operational commencement.
 
-A. Puducherry-Madras High Court.
-B. A&N-Calcutta High Court.
-C. Lakshadweep-Kerala High Court.
-D. Chandigarh-Delhi High Court.
+### MCQ 32
 
-**Answer: D.**
+Which statement best captures the UT system?
 
-**Explanation:** [FACT] Chandigarh is under Punjab and Haryana High Court.
-
-#### RM9. Parliament after a UT Assembly
-
-Creation of a UT legislature:
-
-A. does not extinguish Parliament's Article 246(4) competence.
-B. converts the UT into a State.
-C. creates exclusive State-List power identical to a State.
-D. prevents future parliamentary law.
-
-**Answer: A.**
-
-**Explanation:** [FACT] This remains true for all three legislated UT models.
-
-#### RM10. Delhi reference discipline
-
-The 2018 judgment requires the LG to:
-
-A. exercise all executive power independently.
-B. use reference exceptionally, with rationale and an effort at dialogue.
-C. refer every Cabinet decision.
-D. ignore presidential decisions.
-
-**Answer: B.**
-
-**Explanation:** [FACT] "Any matter" was not read as "every matter".
-
-#### RM11. Evidence of current J&K Assembly
-
-Which is the strongest named official evidence that elected government is functioning in 2026?
-
-A. the 2019 Bill's statement of objects alone.
-B. an undated political speech.
-C. the official J&K Budget 2026-27 speech by the Chief Minister/Finance Minister to the House.
-D. a generic news summary.
-
-**Answer: C.**
-
-**Explanation:** [CURRENT] It directly records a sitting elected executive presenting finance to the Legislature.
-
-#### RM12. Answer-writing discipline
-
-The strongest structure for a Delhi-services answer is:
-
-A. Article list without legal sequence.
-B. judgement slogan -> conclusion.
-C. political allegation -> unsourced statistic.
-D. Article 239AA -> 2018 holding -> May 2023 services holding -> Act 19 of 2023/NCCSA -> pending-challenge qualification.
+A. Every UT is governed identically from New Delhi.
+B. Every UT with a legislature is constitutionally a State.
+C. Administrator titles determine the full legal design.
+D. Union responsibility is common, but legislative, executive, judicial and fiscal arrangements are asymmetric.
 
 **Answer: D.**
 
-**Explanation:** [ANALYSIS] The sequence preserves claim, named evidence, analysis and current legal qualification.
+**Option explanations**
+
+- A: Part VIII and special statutes create substantial variation.
+- B: A territorial legislature does not confer Statehood.
+- C: Titles are not a source of complete power.
+- D: Correct: asymmetry is the defining institutional fact.
+
+**Examiner trap 32:** The best answer rejects both uniform-central-rule and disguised-State simplifications.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Verified routed PYQs
+### VERIFIED PYQS
 
-#### PYQ 1 - UPSC GS-II 2018, Q11
+#### PYQ 1 - UPSC CSE Mains 2018, GS-II, Question 11
 
-**Verified question:** Whether the Supreme Court Judgement (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine.  
-**15 marks | 250 words | Directive: Examine**
+**Question:** Whether the Supreme Court Judgement (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine.
 
-**Demand decoding**
+**15 marks | 250 words | Verified official-paper wording**
 
-- "Can settle" requires an extent judgement, not a summary of the case.
-- "Political tussle" requires constitutional rule plus structural and behavioural limits.
-- A current solved answer may use later developments to test whether the 2018 settlement proved complete.
+**Demand:** Identify the legal character, state the controlling provision or holding, analyse the institutional consequence, and end with the exact qualification.
 
-**Model solution**
+**Model answer**
 
-**Thesis:** [FACT] The July 2018 Constitution Bench settled the governing constitutional principle: within Delhi's legislative field, the LG is ordinarily bound by the elected CoM's aid and advice. [ANALYSIS] It could reduce legal ambiguity but could not eliminate conflict built into the national-capital design.
+The July 2018 Constitution Bench settled a constitutional principle, not the whole politics of shared rule. Article 239AA gives Delhi an elected Assembly and Council of Ministers for State and Concurrent List matters except public order, police and land. The Court held that executive power ordinarily follows this legislative field, the Lieutenant Governor has no independent decision-making power, and the proviso permitting reference to the President must be exceptional rather than routine. These holdings protect collective responsibility and prevent an unelected parallel executive.
 
-**What the Court settled:** [FACT] Article 239AA gives Delhi competence over State and Concurrent List matters except public order, police and land. The Court held executive power co-extensive with this field; the LG has no independent decision-making power; "any matter" is not "every matter"; and presidential reference must be exceptional, reasoned and preceded by dialogue. [ANALYSIS] This protects collective responsibility and prevents routine administrative veto.
+Yet the judgment could not remove structural conflict. Parliament retains competence over every NCT matter, the three reserved fields remain Union-controlled, and Article 239AA preserves a difference-of-opinion route. The May 2023 services Constitution Bench applied democratic accountability to Entry 41, but Parliament then enacted Act 19 of 2023, creating NCCSA and giving the LG the final statutory decision after persistent disagreement. Its constitutional challenge remained unresolved on 7 September 2026.
 
-**Why the tussle could persist:** [FACT] Parliament retains competence over every NCT subject and may override local law. The three reserved fields remain Union-controlled. Article 239AA(4) still contains a reference mechanism. [ANALYSIS] Divided authority therefore survives the judgment.
+Thus, the judgment settled the norm of elected primacy within Delhi's allotted field, but not every legal or political contest. Durable settlement requires textually confined Union intervention, reasoned references, institutional dialogue and accountability for delay.
 
-**Later named evidence:** [FACT] The May 2023 Constitution Bench located services in Entry 41 and gave NCTD executive control outside the reserved fields. Parliament then enacted the GNCTD Amendment Act, 2023, creating NCCSA and making the LG's decision final on a continuing disagreement. [ANALYSIS] The sequel proves that judicial principle alone did not settle the institutional contest.
+**Final-key discipline:** This is a Mains question; no objective answer key is invented.
 
-**Qualification:** [LIMIT] Union control is not inherently unconstitutional in a national capital; intervention must remain textually grounded and non-obstructionist.
+#### PYQ 2 - UPSC CSE Mains 2025, GS-II, Question 4
 
-**Verdict:** The judgment settled the norm of representative primacy within Delhi's sphere, not the politics or all legal instruments of shared rule. Durable settlement requires statutory clarity, constitutional trust and accountable use of reserved powers.
+**Question:** Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir.
 
-**Why this earns marks:** It answers the extent question, uses Article 239AA and the operative 2018 propositions, tests them against the named 2023 sequel and ends with a qualified verdict.
+**10 marks | 150 words | Verified from locally held official paper; spelling retained**
 
-**How to improve:** For 250 words, organise the answer as constitutional field → 2018 ratio → 2023 services holding → operative 2023 statute → qualified verdict; do not narrate litigation without evaluating the shift.
+**Demand:** Identify the legal character, state the controlling provision or holding, analyse the institutional consequence, and end with the exact qualification.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ 1 - UPSC GS-II 2018, Q11”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**Model answer**
 
-**Detailed examiner-grade model answer:**
+The Jammu and Kashmir Assembly is an elected legislature of a Union Territory, not a State legislature. The 2019 Act applies Article 239A through section 13 and creates the Assembly under section 14; the 2024 election made the institution operational.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ 1 - UPSC GS-II 2018, Q11”.
+Section 32 authorises laws on applicable State and Concurrent List matters except public order and police. Land is not blanket-excluded. The House legislates, debates policy, votes grants, authorises appropriation, examines audit, exercises privileges and holds the Chief Minister-led Council collectively responsible. Bills remain subject to Lieutenant-Governor assent or reservation, while section 35 preserves parliamentary priority.
 
-**Analytical body:**
+The institution therefore restores representative government but not State-level federal autonomy. Parliament can legislate on every UT field, and section 53 preserves significant LG discretion, including All India Services and the Anti-Corruption Bureau. As on 7 September 2026, J&K had an elected government but remained a Union Territory; the Supreme Court's Statehood assurance had not become a conversion law.
 
-1. **Claim and named evidence:** Verified question: Whether the Supreme Court Judgement (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** "Can settle" requires an extent judgement, not a summary of the case. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** "Political tussle" requires constitutional rule plus structural and behavioural limits. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** A current solved answer may use later developments to test whether the 2018 settlement proved complete. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualification: [LIMIT] Union control is not inherently unconstitutional in a national capital; intervention must remain textually grounded and non-obstructionist. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Final-key discipline:** This is a Mains question; no objective answer key is invented.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+### ORIGINAL MAINS PRACTICE - EXACTLY SIX MODELS
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ 1 - UPSC GS-II 2018, Q11”.
+#### Original Mains 1 - 10 marks - Explain why India uses different models of Union Territory administration.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Word ceiling:** 150
 
-**How to improve this answer:** For “PYQ 1 - UPSC GS-II 2018, Q11”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Model answer**
 
-#### PYQ 2 - UPSC GS-II 2025, Q4
+Union Territories permit differentiated territorial governance where a full State model may not match national-capital, strategic, historical or scale considerations. Article 239 supplies the common default: the President administers through an appointed Administrator. Article 240 adds direct regulation for specified territories, while Article 246(4) gives Parliament competence over every legislative field.
 
-**Verified question from the locally held official paper:** Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir.  
-**10 marks | 150 words | Directive: Discuss and briefly describe**
+The Constitution and Parliament then vary democratic depth. Delhi has a constitutionally entrenched Assembly under Article 239AA; Puducherry has a statutory Assembly under Article 239A and the 1963 Act; J&K has a statutory Assembly under the 2019 Act. A&N, Chandigarh, DNHDD, Ladakh and Lakshadweep have no territorial legislature.
 
-**Demand decoding**
+This asymmetry can fit distinct needs, but divided authority can blur accountability. Therefore, Union control should be textually grounded and proportionate, while elected institutions should control the staff, finance and implementation tools attached to their lawful sphere.
 
-- "Nature" requires classification as a statutory UT legislature, not a State legislature.
-- "Powers and functions" requires legislation, finance and accountability.
-- The current answer must acknowledge the elected Assembly after 2024 without claiming Statehood.
+#### Original Mains 2 - 10 marks - Distinguish Articles 239AB, 239B and 240.
 
-**Model solution**
+**Word ceiling:** 150
 
-**Thesis:** [FACT] The 2019 Act created a statutory legislature for the UT of J&K and applied Article 239A's provisions through section 13. [ANALYSIS] It restores representative government but remains weaker than a State Assembly.
+**Model answer**
 
-**Legislative power:** [FACT] Section 32 permits laws on applicable State and Concurrent List matters except public order and police; land is not blanket-excluded. Parliament nevertheless retains competence over every UT subject, and section 35 gives parliamentary law priority.
+The three provisions address different failures or gaps. Article 239AB is Delhi's failure-of-constitutional-machinery clause. If NCT administration cannot operate under Article 239AA or its implementing law, the President may suspend specified provisions and make consequential arrangements.
 
-**Functions:** [FACT] The Assembly legislates, debates policy, grants supply, authorises appropriation, examines CAG reports, exercises privileges and holds the Chief Minister-led CoM collectively responsible. Bills pass through LG assent/reservation routes.
+Article 239B is a recess ordinance power for Puducherry's Administrator, adapted to Delhi by Article 239AA(8). It requires immediate necessity and prior Presidential instructions; the ordinance must be laid before the Legislature and ordinarily expires six weeks after reassembly. It cannot be used during dissolution or suspended functioning.
 
-**Current institutional evidence:** [CURRENT] Elections were held in 2024; the official Budget 2026-27 was presented by the elected Chief Minister/Finance Minister to the House.
+Article 240 is primary Presidential regulation-making for specified UTs: A&N, Lakshadweep, DNHDD and conditionally Puducherry; section 58 extends the route to Ladakh. A regulation has parliamentary-Act force and may amend applicable law.
 
-**Qualification:** [LIMIT] LG discretion over excluded fields, AIS/ACB and specified business-rule matters remains substantial; Statehood is pending.
+Thus, 239AB restructures Delhi government during breakdown, 239B temporarily legislates during recess, and 240 directly legislates for enumerated territories.
 
-**Verdict:** J&K has democratic self-government within a Union-weighted statutory framework, not restored State-level federal autonomy.
+#### Original Mains 3 - 15 marks - Examine the current constitutional and statutory position on control of services in Delhi.
 
-**Why this earns marks:** It classifies the institution, names sections and functions, supplies current evidence and directly qualifies the extent of autonomy.
+**Word ceiling:** 250
 
-**How to improve:** For 150 words, spend one sentence on statutory origin, two on legislative/executive powers, one on current elected functioning and one on the Statehood limitation.
+**Model answer**
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ 2 - UPSC GS-II 2025, Q4”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Delhi services must be explained chronologically. Article 239AA gives the Assembly State and Concurrent List competence except public order, police and land, while preserving Parliament's power. In 2018, the Constitution Bench held that the Lieutenant Governor ordinarily acts on ministerial aid and advice within this allotted field, has no independent decision-making power, and may not refer every disagreement to the President.
 
-**Detailed examiner-grade model answer:**
+On 11 May 2023, another Constitution Bench held that Entry 41 services was not among the three express exclusions. It treated NCT Delhi as sui generis and linked officer control to the triple chain of accountability: civil servants answer to ministers, ministers to the Assembly, and the Assembly to voters. Services connected with reserved subjects remained outside NCT control.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ 2 - UPSC GS-II 2025, Q4”.
+Parliament then enacted the Government of NCT of Delhi (Amendment) Act, 2023. It created NCCSA, comprising the Chief Minister, Chief Secretary and Principal Home Secretary. Covered transfer, posting and vigilance recommendations are decided by majority; the LG may return a recommendation with reasons and has the final statutory decision if disagreement persists.
 
-**Analytical body:**
+Therefore, the constitutional holding supports elected control, but Act 19 of 2023 supplies the current operative machinery. As on 7 September 2026, no final official Supreme Court merits judgment striking down that Act was located; its challenge remained pending.
 
-1. **Claim and named evidence:** marks 150 words Directive: Discuss and briefly describe **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** "Nature" requires classification as a statutory UT legislature, not a State legislature. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** "Powers and functions" requires legislation, finance and accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The current answer must acknowledge the elected Assembly after 2024 without claiming Statehood. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Current institutional evidence: [CURRENT] Elections were held in 2024; the official Budget 2026-27 was presented by the elected Chief Minister/Finance Minister to the House. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+#### Original Mains 4 - 15 marks - Compare the democratic design of Puducherry and Jammu and Kashmir.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Word ceiling:** 250
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ 2 - UPSC GS-II 2025, Q4”.
+**Model answer**
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+Puducherry and Jammu and Kashmir are statutory legislative Union Territories linked to Article 239A, but their designs are not identical. Puducherry's institutions arise through the Government of Union Territories Act, 1963. Its thirty elected members may be joined by up to three Central Government nominees. Section 18 grants applicable State and Concurrent List competence without Delhi's blanket three-subject exclusion; section 21 preserves parliamentary supremacy.
 
-**How to improve this answer:** For “PYQ 2 - UPSC GS-II 2025, Q4”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+J&K's institutions arise through the Reorganisation Act, 2019. Section 13 applies Article 239A and section 14 creates the Assembly. Section 32 grants applicable State and Concurrent List competence except public order and police; land is not blanket-excluded. Section 35 preserves parliamentary priority. The 2024 election established a functioning ninety-constituency elected House.
 
-#### PYQ coverage control
+Both have Councils collectively responsible to their Assemblies, budgets, appropriation and law-making. Yet Union supervision differs. Puducherry uses the 1963 Act's advice, difference and Presidential-control framework; *K. Lakshminarayanan* upheld Central nomination and nominees' full voting rights. J&K section 53 expressly reserves out-of-field matters, All India Services and the Anti-Corruption Bureau to LG discretion, reinforced by 2024 business rules.
 
-- [FACT] The audited local ledgers route these two direct Mains demands to Union Territories.
-- [LIMIT] No additional direct Union-Territories Prelims PYQ was found in the audited 2018-2026 routing ledgers. No objective key or question has been invented to inflate coverage.
+Thus, both provide bounded self-government, but J&K's security and personnel reservations make its current executive architecture more explicitly Union-weighted.
 
-### Original solved Mains practice
+#### Original Mains 5 - 20 marks - Critically analyse asymmetric governance of India's Union Territories and suggest reforms.
 
-#### M1. Explain the constitutional rationale for Union Territories and distinguish direct administration from a UT with a legislature. (10 marks, 150 words)
+**Word ceiling:** 250
 
-**Model solution**
+**Model answer**
 
-**Thesis:** [ANALYSIS] Union Territories are devices of differentiated territorial governance: the Constitution permits stronger Union supervision where capital, strategic, historical or scale considerations make the ordinary State model unsuitable.
+Union Territory asymmetry combines one constitutional default with several institutional models. Article 239 places administration through the President; Article 246(4) gives Parliament all-subject competence. Yet Delhi has Article 239AA institutions, Puducherry and J&K have statutory legislatures, and five UTs lack territorial legislatures. Article 240 applies only to specified territories, while Article 241 produces separate or shared High Court arrangements.
 
-**Direct administration:** [FACT] Article 239 places a UT under the President acting through an Administrator. Article 246(4) lets Parliament legislate even on State-List matters. For specified territories, Article 240 permits presidential regulations. [ANALYSIS] A&N, Lakshadweep and Ladakh illustrate Union-led administration shaped by strategic geography.
+The design has functional strengths. National-capital security supports Delhi's reserved fields; island and frontier territories require Union coordination; Puducherry's history and J&K's transition justify tailored institutions. Parliamentary representation, local bodies under Articles 243L and 243ZB, and judicial review prevent the legislature/no-legislature distinction from becoming a democracy/no-democracy binary.
 
-**Legislature model:** [FACT] Delhi has a constitutionally entrenched Assembly under Article 239AA; Puducherry has a statutory Assembly under Article 239A and the 1963 Act; J&K has a statutory Assembly under the 2019 Act. These bodies legislate, vote supply and hold Councils responsible. [ANALYSIS] Yet Parliament retains overriding competence and the LG/Administrator retains special powers.
+However, asymmetry can divide power from responsibility. Delhi's services litigation shows that ministers may face voters while officer control lies elsewhere. Puducherry's nominated members can affect confidence. J&K's police, public-order, AIS and ACB arrangements create a strong LG pole. Repeated reference, unclear business routing and opaque delay can convert safeguards into obstruction.
 
-**Qualification:** [LIMIT] UT status does not eliminate local bodies, rights or judicial review under Article 241.
+Reform should be calibrated: publish subject and business-allocation maps; require written reasons and time limits for references; align officer, budget and service responsibility where law permits; strengthen Assembly committees and local bodies; and periodically review whether exceptional Union control remains proportionate.
 
-**Verdict:** The distinction is between Union administration with local representation and bounded territorial self-government, not between government and no government.
+The objective is not mechanical uniformity or automatic Statehood, but transparent asymmetry: Union guardianship confined to justified fields and effective representative government elsewhere.
 
-**Why this earns marks:** It explains rationale, names the governing Articles, compares the two categories and avoids treating every UT as identical.
+#### Original Mains 6 - 20 marks - Analyse the constitutional significance of the 2019 J&K reorganisation and the subsequent restoration of elected government.
 
-**How to improve:** Use a three-column State–UT with legislature–UT without legislature comparison and reserve the conclusion for a proportionality test linking Union interest with democratic accountability.
+**Word ceiling:** 250
 
-**Demand decoding:** The directive **explain** requires a direct position on “M1. Explain the constitutional rationale for Union Territories and distinguish direct…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**Model answer**
 
-**Detailed examiner-grade model answer:**
+The 2019 reorganisation was constitutionally significant because it changed both territory and federal status. Acting through parliamentary legislation, the former State was divided from 31 October 2019 into J&K, a Union Territory with a legislature, and Ladakh, a Union Territory without one. Section 13 applies Article 239A to J&K; section 14 creates its Assembly; section 58 places Ladakh under an LG and Article 240 regulation route.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M1. Explain the constitutional rationale for Union Territories and distinguish direct administration from a UT with a legislature. (10 marks, 150…”.
+J&K's Assembly is representative but not State-equivalent. Section 32 grants applicable State and Concurrent List competence except public order and police; section 35 preserves parliamentary supremacy. The House votes supply, authorises appropriation, debates policy and holds the Council collectively responsible. Section 53 nevertheless gives the LG discretion outside the Assembly field and over All India Services and the Anti-Corruption Bureau.
 
-**Analytical body:**
+In *In Re Article 370* (2023), the Supreme Court directed Assembly elections by 30 September 2024 and Statehood restoration at the earliest. It did not finally adjudicate J&K's conversion after recording the Union's assurance, while Ladakh's creation remained undisturbed. The ECI conducted the 2024 election, restoring an elected Assembly and Council.
 
-1. **Claim and named evidence:** M1. Explain the constitutional rationale for Union Territories and distinguish direct administration from a UT with a legislature. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Qualification: [LIMIT] UT status does not eliminate local bodies, rights or judicial review under Article 241. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Verdict: The distinction is between Union administration with local representation and bounded territorial self-government, not between government and no government. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It explains rationale, names the governing Articles, compares the two categories and avoids treating every UT as identical. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve: Use a three-column State–UT with legislature–UT without legislature comparison and reserve the conclusion for a proportionality test linking Union interest with democratic accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M1. Explain the constitutional rationale for Union Territories and distinguish direct administration from a UT with a legislature. (10 marks, 150…”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M1. Explain the constitutional rationale for Union Territories and distinguish direct…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M2. Article 240 is an exceptional law-making mechanism, not a general synonym for Union Territory administration. Explain. (10 marks, 150 words)
-
-**Model solution**
-
-**Thesis:** [FACT] Article 239 is the general administrative rule; Article 240 is a narrower presidential power to make regulations for specified territories.
-
-**Scope:** Article 240 expressly covers A&N, Lakshadweep, DNHDD and Puducherry; section 58 of the J&K Reorganisation Act applies the route to Ladakh. [FACT] Chandigarh, Delhi and the J&K UT-with-legislature are not governed through this general regulation list.
-
-**Effect:** [FACT] A regulation may amend or repeal an applicable parliamentary Act or other law and has the force of an Act of Parliament in the territory. [ANALYSIS] It is therefore direct primary territorial legislation, not an ordinary executive rule.
-
-**Puducherry condition:** Once its Legislature functions, the President cannot use Article 240; the power revives during dissolution or suspension. Article 239B ordinances, conversely, cannot be made during that suspension.
-
-**Qualification:** [LIMIT] Regulations remain subject to the Constitution and judicial review.
-
-**Verdict:** Article 240 is a territory-specific legislative safety mechanism nested inside, but distinct from, Article 239 administration.
-
-**Why this earns marks:** It separates source, territories, legal effect and Puducherry's switch between representative and direct law-making.
-
-**How to improve:** Name Article 240 territories precisely, distinguish Puducherry’s conditional revival and explain why a presidential regulation is stronger than ordinary delegated legislation.
-
-**Demand decoding:** The directive **explain** requires a direct position on “M2. Article 240 is an exceptional law-making mechanism, not a general synonym for Union…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M2. Article 240 is an exceptional law-making mechanism, not a general synonym for Union Territory administration. Explain. (10 marks, 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M2. Article 240 is an exceptional law-making mechanism, not a general synonym for Union Territory administration. Explain. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [FACT] Article 239 is the general administrative rule; Article 240 is a narrower presidential power to make regulations for specified territories. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Puducherry condition: Once its Legislature functions, the President cannot use Article 240; the power revives during dissolution or suspension. Article 239B ordinances, conversely, cannot be made during that suspension. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: [LIMIT] Regulations remain subject to the Constitution and judicial review. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Article 240 is a territory-specific legislative safety mechanism nested inside, but distinct from, Article 239 administration. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M2. Article 240 is an exceptional law-making mechanism, not a general synonym for Union Territory administration. Explain. (10 marks, 150 words)”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M2. Article 240 is an exceptional law-making mechanism, not a general synonym for Union…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M3. Compare the legislatures of Delhi, Puducherry and Jammu and Kashmir. Why is the category "Union Territory with legislature" internally unequal? (15 marks, 250 words)
-
-**Model solution**
-
-**Thesis:** [ANALYSIS] All three legislatures supply representation and responsible government, but different constitutional sources, excluded fields and Administrator powers produce three unequal models.
-
-**Delhi:** [FACT] Article 239AA constitutionally creates the NCT Assembly. It covers applicable State and Concurrent List matters except public order, police and land. Parliament retains all-subject competence and Article 239AA(4) supplies an LG-President reference route. [CURRENT] Services now operate under the 2023 NCCSA statute.
-
-**Puducherry:** [FACT] Article 239A enables, and the 1963 Act creates, thirty elected plus up to three nominated members. Section 18 grants applicable State/Concurrent competence; sections 21, 44 and 50 preserve parliamentary supremacy, Administrator-President control and difference reference. [FACT] *K. Lakshminarayanan (2018)* confirms nominees' full voting role.
-
-**J&K:** [FACT] The 2019 Act creates a statutory Assembly and applies Article 239A through section 13. Section 32 excludes public order and police, not blanket land. Sections 53 and the 2024 rules give the LG significant discretion over AIS/ACB and specified routed matters. [CURRENT] The Assembly functions after the 2024 election.
-
-**Common core:** legislation, budget, scrutiny and collective responsibility. **Common limit:** Article 246(4) and parliamentary override.
-
-**Qualification:** [LIMIT] Delhi's constitutional entrenchment does not make it a State; J&K's elected restoration does not itself restore Statehood.
-
-**Verdict:** "UT with legislature" is a family of asymmetric compromises ranging from constitutional NCT government to Parliament-designed statutory self-government.
-
-**Why this earns marks:** It compares legal source, competence, executive relation and current status rather than offering three disconnected descriptions.
-
-**How to improve:** Compare Delhi, Puducherry and J&K under four fixed heads—legal source, excluded fields, Administrator relationship and parliamentary override—then add one dated status line.
-
-**Demand decoding:** The directive **compare** requires a direct position on “M3. Compare the legislatures of Delhi, Puducherry and Jammu and Kashmir. Why is the category…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M3. Compare the legislatures of Delhi, Puducherry and Jammu and Kashmir. Why is the category "Union Territory with legislature" internally unequal?…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M3. Compare the legislatures of Delhi, Puducherry and Jammu and Kashmir. Why is the category "Union Territory with legislature" internally unequal? (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [ANALYSIS] All three legislatures supply representation and responsible government, but different constitutional sources, excluded fields and Administrator powers produce three unequal models. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Common core: legislation, budget, scrutiny and collective responsibility. Common limit: Article 246(4) and parliamentary override. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: [LIMIT] Delhi's constitutional entrenchment does not make it a State; J&K's elected restoration does not itself restore Statehood. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: "UT with legislature" is a family of asymmetric compromises ranging from constitutional NCT government to Parliament-designed statutory self-government. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M3. Compare the legislatures of Delhi, Puducherry and Jammu and Kashmir. Why is the category "Union Territory with legislature" internally unequal?…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M3. Compare the legislatures of Delhi, Puducherry and Jammu and Kashmir. Why is the category…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M4. "The 2018 Delhi judgment protected representative government, but the 2023 developments reconfigured its operational content." Critically examine. (15 marks, 250 words)
-
-**Model solution**
-
-**Thesis:** [FACT] The 2018 Constitution Bench made aid and advice the rule and LG reference the exception; [ANALYSIS] the 2023 judgment extended that logic to services, while the later statute shifted the operational balance toward an NCCSA-LG model.
-
-**2018 constitutional principle:** Article 239AA creates a directly elected Assembly and CoM. The Court held executive power co-extensive with legislative competence, the LG without independent decision power and "any matter" not "every matter". [ANALYSIS] This protected collective responsibility and limited administrative obstruction.
-
-**May 2023 extension:** [FACT] Entry 41 services was not among public order, police and land. The Court therefore gave NCTD legislative/executive services power and linked officer control to the triple chain of accountability.
-
-**Legislative reconfiguration:** [FACT] Act 19 of 2023 created NCCSA with the Chief Minister and two senior officials, majority decision, recommendations to the LG and final LG authority upon persistent disagreement. [ANALYSIS] Services control became institutionally shared but Union-weighted.
-
-**Critical balance:** Parliament's Article 239AA/246 power supports legislation for the capital; however, frequent displacement of the elected chain can blur answerability. Conversely, national-capital security and all-India service coordination are legitimate concerns.
-
-**Qualification:** [LIMIT] The Act's constitutional challenge remains unresolved; pending litigation is not invalidation.
-
-**Verdict:** 2018 remains the constitutional grammar of representative government, but current services administration must be stated through the 2023 statute until judicially altered.
-
-**Why this earns marks:** It preserves chronological and doctrinal sequence, presents both legitimacy arguments and states the exact current-law limitation.
-
-**How to improve:** Compress the litigation chronology into 2018 principle, May 2023 services holding and August 2023 statutory response; separate constitutional validity from policy desirability.
-
-**Demand decoding:** The directive **answer** requires a direct position on “M4. "The 2018 Delhi judgment protected representative government, but the 2023 developments…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M4. "The 2018 Delhi judgment protected representative government, but the 2023 developments reconfigured its operational content." Critically…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M4. "The 2018 Delhi judgment protected representative government, but the 2023 developments reconfigured its operational content." Critically examine. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Qualification: [LIMIT] The Act's constitutional challenge remains unresolved; pending litigation is not invalidation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Verdict: 2018 remains the constitutional grammar of representative government, but current services administration must be stated through the 2023 statute until judicially altered. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It preserves chronological and doctrinal sequence, presents both legitimacy arguments and states the exact current-law limitation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve: Compress the litigation chronology into 2018 principle, May 2023 services holding and August 2023 statutory response; separate constitutional validity from policy desirability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M4. "The 2018 Delhi judgment protected representative government, but the 2023 developments reconfigured its operational content." Critically…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M4. "The 2018 Delhi judgment protected representative government, but the 2023 developments…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M5. Evaluate the democratic and constitutional implications of nominated members in the Puducherry Legislative Assembly. (15 marks, 250 words)
-
-**Model solution**
-
-**Thesis:** [FACT] Article 239A expressly permits a partly nominated legislature and section 3(3) of the 1963 Act allows the Central Government to nominate up to three members. [ANALYSIS] The arrangement is constitutional and statutory, but its influence over confidence and supply raises democratic-design concerns.
-
-**Constitutional case:** Puducherry is a UT, not a State; Parliament may define the Assembly's composition. Nominees can supply expertise or representation without a separate election. [FACT] *K. Lakshminarayanan (2018)* found no legal requirement of Chief Ministerial concurrence.
-
-**Voting effect:** The Court read section 12's "all questions" and "members present and voting" to include nominees in budget and no-confidence votes. [ANALYSIS] Since such votes determine government survival, Union nomination can affect the elected executive's stability.
-
-**Democratic concern:** appointment without local electoral accountability may alter majority arithmetic and encourage partisan distrust. The absence of a consultation requirement intensifies this risk.
-
-**Counterpoint:** [LIMIT] Judicial interpretation cannot add restrictions omitted by Parliament; nominated members are legally full members, not second-class participants.
-
-**Reform options:** transparent eligibility and reasons; pre-notified timelines; conflict-of-interest disclosure; convention of broad consultation; parliamentary review if the representational purpose is no longer served.
-
-**Verdict:** The design is legally valid but democratically sensitive; legitimacy depends on transparent, representational rather than tactical use of nomination.
-
-**Why this earns marks:** It separates validity from desirability, names the Act and case, explains the confidence-vote mechanism and offers legally compatible safeguards.
-
-**How to improve:** Anchor the answer in Section 3(3) and K. Lakshminarayanan (2018), then evaluate voting power, confidence consequences and safeguards without implying nominated members lack full voting rights.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “M5. Evaluate the democratic and constitutional implications of nominated members in the…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M5. Evaluate the democratic and constitutional implications of nominated members in the Puducherry Legislative Assembly. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M5. Evaluate the democratic and constitutional implications of nominated members in the Puducherry Legislative Assembly. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Democratic concern: appointment without local electoral accountability may alter majority arithmetic and encourage partisan distrust. The absence of a consultation requirement intensifies this risk. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Counterpoint: [LIMIT] Judicial interpretation cannot add restrictions omitted by Parliament; nominated members are legally full members, not second-class participants. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Reform options: transparent eligibility and reasons; pre-notified timelines; conflict-of-interest disclosure; convention of broad consultation; parliamentary review if the representational purpose is no longer served. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: The design is legally valid but democratically sensitive; legitimacy depends on transparent, representational rather than tactical use of nomination. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M5. Evaluate the democratic and constitutional implications of nominated members in the Puducherry Legislative Assembly. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M5. Evaluate the democratic and constitutional implications of nominated members in the…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M6. Assess the nature and democratic significance of the Jammu and Kashmir Assembly after the 2024 election. (15 marks, 250 words)
-
-**Model solution**
-
-**Thesis:** [CURRENT] The 2024 election restored an elected Assembly and CoM within J&K's UT framework; [ANALYSIS] this is substantial democratic restoration but incomplete federal restoration.
-
-**Nature:** [FACT] Sections 13-14 of the 2019 Act apply Article 239A and create a statutory UT legislature. It is not a Part VI State legislature. Section 32 grants applicable State/Concurrent competence except public order and police; Parliament retains all-subject power under Article 246(4).
-
-**Functions:** It makes laws, authorises taxation and expenditure, debates policy, examines audit material and holds the CoM collectively responsible. The official 2026-27 Budget presentation by the Chief Minister/Finance Minister to the House demonstrates functioning financial accountability.
-
-**Limits:** [FACT] section 53 gives the LG discretion outside the Assembly field and in AIS/ACB matters; the 2024 business rules route specified policing, prosecution, legal-officer and senior-posting matters through the LG. Parliamentary law prevails under section 35.
-
-**Democratic significance:** Elections restore voice, opposition, public debate and ministerial answerability after a long institutional gap. [ANALYSIS] Yet responsibility may still exceed control where officers or reserved subjects lie outside the elected chain.
-
-**Qualification:** [LIMIT] *In Re Article 370* directed elections and earliest statehood restoration but fixed no statehood date; Statehood remains pending.
-
-**Verdict:** The Assembly is meaningful self-government under Union supervision, not symbolic, but only Statehood can restore full constituent-unit parity.
-
-**Why this earns marks:** It uses the current election and budget as evidence, distinguishes democracy from federal status and identifies the exact LG/Parliament limits.
-
-**How to improve:** Use the 2024 election and 2026–27 Budget only as dated evidence of functioning democracy; contrast that with reserved subjects, LG powers and pending Statehood.
-
-**Demand decoding:** The directive **assess** requires a direct position on “M6. Assess the nature and democratic significance of the Jammu and Kashmir Assembly after the…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M6. Assess the nature and democratic significance of the Jammu and Kashmir Assembly after the 2024 election. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M6. Assess the nature and democratic significance of the Jammu and Kashmir Assembly after the 2024 election. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [CURRENT] The 2024 election restored an elected Assembly and CoM within J&K's UT framework; [ANALYSIS] this is substantial democratic restoration but incomplete federal restoration. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Qualification: [LIMIT] In Re Article 370 directed elections and earliest statehood restoration but fixed no statehood date; Statehood remains pending. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Verdict: The Assembly is meaningful self-government under Union supervision, not symbolic, but only Statehood can restore full constituent-unit parity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It uses the current election and budget as evidence, distinguishes democracy from federal status and identifies the exact LG/Parliament limits. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M6. Assess the nature and democratic significance of the Jammu and Kashmir Assembly after the 2024 election. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M6. Assess the nature and democratic significance of the Jammu and Kashmir Assembly after the…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M7. "Union Territory asymmetry is administratively useful but democratically costly." Critically examine with reference to Delhi, Puducherry, Jammu and Kashmir and UTs without legislatures. (20 marks, 250 words)
-
-**Model solution**
-
-**Thesis:** [ANALYSIS] UT asymmetry lets India tailor government to national-capital, island, frontier and historical needs, but its democratic cost rises when electoral responsibility is separated from control over law, officers and finance.
-
-**Administrative utility:** [FACT] Article 239 enables unified presidential administration; Article 240 supports direct law-making for specified small/strategic territories. A&N and Lakshadweep require island-wide coordination; Chandigarh serves a shared-capital function; Ladakh combines frontier and ecological constraints. Delhi's reserved public order, police and land fields protect national-capital interests.
-
-**Representative adaptation:** Article 239A/239AA and the 2019 Act show that central control can coexist with elected government. Puducherry retains a broad local legislative field; J&K has a functioning Assembly; Delhi has constitutionally entrenched representation.
-
-**Democratic costs:** Delhi's NCCSA can leave ministers electorally liable without final service control. Puducherry's centrally nominated members may influence supply and confidence. J&K's LG discretion and business routing narrow the elected chain. Non-legislature UTs rely on local bodies and advisory forums rather than territorial law-making.
-
-**Constitutional safeguards:** Article 241 judicial review, legislative scrutiny, collective responsibility and reasoned-reference duties prevent unbounded administration.
-
-**Counterpoint:** [LIMIT] uniform Statehood is not always feasible or desired; national security, scale and minority protection can justify difference.
-
-**Reform principle:** define reserved fields narrowly; publish decision reasons; align officers with accountable ministers where possible; strengthen local consultation; periodically review whether direct administration remains proportionate.
-
-**Verdict:** Asymmetry is defensible as calibrated governance, not as permanent democratic discount.
-
-**Why this earns marks:** It covers four models, supplies named legal mechanisms, balances utility and cost and derives a proportional reform test.
-
-**How to improve:** Classify each model before evaluating it; use one benefit, one democratic cost and one tailored reform for direct administration, Delhi, Puducherry and J&K.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “M7. "Union Territory asymmetry is administratively useful but democratically costly."…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M7. "Union Territory asymmetry is administratively useful but democratically costly." Critically examine with reference to Delhi, Puducherry, Jammu…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M7. "Union Territory asymmetry is administratively useful but democratically costly." Critically examine with reference to Delhi, Puducherry, Jammu and Kashmir and UTs without legislatures. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Constitutional safeguards: Article 241 judicial review, legislative scrutiny, collective responsibility and reasoned-reference duties prevent unbounded administration. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Counterpoint: [LIMIT] uniform Statehood is not always feasible or desired; national security, scale and minority protection can justify difference. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Verdict: Asymmetry is defensible as calibrated governance, not as permanent democratic discount. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It covers four models, supplies named legal mechanisms, balances utility and cost and derives a proportional reform test. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M7. "Union Territory asymmetry is administratively useful but democratically costly." Critically examine with reference to Delhi, Puducherry, Jammu…”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M7. "Union Territory asymmetry is administratively useful but democratically costly."…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### M8. Design a reform framework to reduce Administrator-elected government conflict while preserving legitimate Union interests. (20 marks, 250 words)
-
-**Model solution**
-
-**Thesis:** [ANALYSIS] Reform should not erase UT asymmetry; it should align authority, procedure and public accountability so that reserved Union interests are protected without routine paralysis.
-
-**1. Competence clarity:** publish consolidated subject maps for Delhi, Puducherry and J&K, identifying the law-maker, executive controller and assent route. Use Article 239AA entries and sections 18/32 as legal anchors.
-
-**2. Officer accountability:** create transparent posting and performance protocols. For Delhi NCCSA and J&K AIS matters, record institutional reasons, timelines and dissent rather than relying on opaque files.
-
-**3. Difference resolution:** operationalise the 2018 Delhi principle - dialogue first, reference exceptionally, written rationale always. Adapt comparable consultation norms in Puducherry and J&K without contradicting their statutes.
-
-**4. Legislative transparency:** publish the status and reasons for reserved/returned Bills, subject to legitimate confidentiality; require periodic Assembly reporting.
-
-**5. Nomination safeguards:** for Puducherry, use public eligibility criteria, conflict disclosure and a representational purpose statement, while respecting *K. Lakshminarayanan (2018)*.
-
-**6. Direct-UT participation:** strengthen elected local bodies, advisory committees, indigenous/community consultation and accessible grievance review in island/frontier territories.
-
-**7. Periodic proportionality review:** Parliament should review whether the scope of direct administration still matches scale, strategy and democratic demand. J&K Statehood must be addressed through law, not converted into an assumed date.
-
-**Qualification:** [LIMIT] security-sensitive material and urgent action may require confidentiality and speed.
-
-**Verdict:** The objective is not maximum local power, but congruence between who decides, who can implement and who is publicly answerable.
-
-**Why this earns marks:** It provides a sequenced institution-specific framework, protects Union interests and applies claim -> named evidence -> mechanism -> qualification throughout.
-
-**How to improve:** Present reforms in sequence—clear field allocation, bounded referral, accountable services, fiscal transparency and judicial remedy—and tie each proposal to a named institutional friction.
-
-**Demand decoding:** The directive **answer** requires a direct position on “M8. Design a reform framework to reduce Administrator-elected government conflict while…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M8. Design a reform framework to reduce Administrator-elected government conflict while preserving legitimate Union interests. (20 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M8. Design a reform framework to reduce Administrator-elected government conflict while preserving legitimate Union interests. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [ANALYSIS] Reform should not erase UT asymmetry; it should align authority, procedure and public accountability so that reserved Union interests are protected without routine paralysis. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Competence clarity: publish consolidated subject maps for Delhi, Puducherry and J&K, identifying the law-maker, executive controller and assent route. Use Article 239AA entries and sections 18/32 as legal anchors. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Officer accountability: create transparent posting and performance protocols. For Delhi NCCSA and J&K AIS matters, record institutional reasons, timelines and dissent rather than relying on opaque files. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Legislative transparency: publish the status and reasons for reserved/returned Bills, subject to legitimate confidentiality; require periodic Assembly reporting. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M8. Design a reform framework to reduce Administrator-elected government conflict while preserving legitimate Union interests. (20 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M8. Design a reform framework to reduce Administrator-elected government conflict while…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+This restored democratic accountability but not Statehood. As on 7 September 2026, J&K remained a UT. The constitutional challenge is therefore to make the statutory government effective while Parliament fulfils the Statehood assurance through lawful territorial reorganisation.

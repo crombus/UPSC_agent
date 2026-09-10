@@ -1,4355 +1,2821 @@
 ---
-title: "Official Language — Learner-v2 Refreshed"
+title: "Polity 40 — Official Language"
 topic_key: polity-40
-cover_image: assets/polity-40_Teaching-Navigation_2026-08-28.png
 ---
-# Official Language — Complete Uncompressed Learning Session
+# Polity 40 — Official Language
 
-**Complete independent learning session + verified PYQ + solved practice workbook + final consolidated register notes**
+**Subject:** Polity | **GS Paper:** GS-II with GS-I social-federal linkages | **Legal/current control date:** 8 September 2026
 
-**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
+**Core thesis:** India has a constitutionally allocated official-language system, not a constitutionally declared national language. Hindi in Devanagari is the Union's official language; English continues by parliamentary statute; States retain language choice; courts and authoritative texts follow controlled routes; and linguistic minorities receive access, education and reporting safeguards.
 
-> **Tag key:** `[FACT]` = directly supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked against official material for the control date; `[LIMIT]` = qualification, unresolved issue or deliberately unfrozen fact.
->
-> **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
+**Source order used:** canonical Basic owner; optional Advanced owner; audited 2024 PYQ route; OCR-searchable local polity material; official Constitution text; Official Languages Act, 1963 as amended; Official Language Rules, 1976 as displayed with amendments through 2011; constitutional amendment texts; and proposition-controlled Supreme Court judgments.
 
-- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+**Legal-reading rule:** Constitution -> statute -> rules -> State law/authorisation -> policy. Never turn a recommendation, executive preference, software translation or political description into constitutional law.
 
-- [CURRENT] **Live official refresh, 5 September 2026:** The Constitution as on 1 May 2026, Official Languages Act and Rules, Committee portal, Eighth Schedule and official classical-language material were rechecked on 5 September 2026. The Constitution still lists 22 scheduled languages; October 2024 classical recognition remains a separate executive-status anchor.
-#### How to Use This Package
-
-[FACT] The package begins with the certified local Polity owners and then controls the operative law against the Legislative Department’s official Constitution of India consolidation, the Department of Official Language’s consolidated Official Languages Act and Rules, the official constitutional-amendment texts, the Committee of Parliament on Official Language portal, and official linguistic-minority material.
-
-[CURRENT] The official Constitution edition checked for this package is the Legislative Department consolidation **as on 1 May 2026**. It still contains exactly **22 Eighth-Schedule languages**. The official Department of Official Language portal displays the 1963 Act as amended and the 1976 Rules as amended in 1987, 2007 and 2011. The Committee’s official portal displayed presentation of the **thirteenth part** of its report by the control date.
-
-[LIMIT] A committee recommendation, language-addition demand, annual Hindi-use target, policy proposal or political statement is not treated as enacted law. No unavailable UPSC key letter is inferred. No viral “Hindi is not the national language” headline is used as case law.
-
-### Visual 01 — Learning Roadmap
-
-```text
-CONSTITUENT-ASSEMBLY COMPROMISE
-        |
-        v
-PART XVII: ARTICLES 343-351
-        |
-        +--> Union language: 343-344
-        +--> State/regional language: 345-347
-        +--> Courts and legal texts: 348-349
-        +--> Safeguards/directive: 350-351
-        |
-        v
-OFFICIAL LANGUAGES ACT 1963 + 1967 AMENDMENT
-        |
-        v
-OFFICIAL LANGUAGES RULES 1976
-        |
-        +--> Union-State communication
-        +--> Regions A/B/C
-        +--> bilingual administrative documents
-        |
-        v
-EIGHTH SCHEDULE + LINGUISTIC-MINORITY SAFEGUARDS
-        |
-        v
-FEDERAL DEBATE + COURT ACCESS + REFORM
-        |
-        v
-VERIFIED PYQ -> 36 MCQs -> 12 REMEDIALS -> 8 SOLVED MAINS
-        |
-        v
-FINAL CONSOLIDATED REGISTER NOTES
-```
-
-*Caption: Official-language law is a layered constitutional, statutory, administrative and federal settlement.*
-
-### Visual 02 — Source-Control Pyramid
-
-```text
-                CONSTITUTION
-              Articles 343-351
-        Eighth Schedule + Article 368
-                     |
-                  STATUTES
-          Official Languages Act 1963
-        Authorised-translations legislation
-                     |
-                   RULES
-       Official Languages Rules 1976, as amended
-                     |
-             POLICY / PROGRAMMES
-      three-language formula, annual programmes
-                     |
-        PROPOSALS / DEMANDS / RECOMMENDATIONS
-        never write these as operative enacted law
-```
-
-*Caption: Every proposition must be placed at its correct legal level.*
-
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Polity Basic/Core is answer-complete before optional Advanced depth. |
-| Text hierarchy | Constitution/Act/rule/notification → binding judgment → authoritative institution → Constituent Assembly material → standard textbook. |
-| Legal precision | State exact Article, Part, Schedule, amendment, case, date, institution, procedure, exception and current operative status. |
-| Doctrine method | Text → institutional mechanism → controlling case → exception/limit → present legal status. |
-| Chronology | Enactment, commencement, amendment, judgment and implementation dates remain separate. |
-| Boundary method | Topic ownership and cross-owner bridges are explicit; adjacent PYQs never become fabricated direct routes. |
-| Practice contract | Every solved item has demand decoding, examiner-grade model, timed compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Polity\basic\Official-Language.md`  
-**Canonical topic owner:** `upsc-ai-kit\knowledge\Polity\basic\Official-Language.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Polity\advanced\40_Official-Language.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Polity\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- **Four independent ledgers:** literal syllabus/index, indispensable
-  prerequisites, standard textbook taxonomy and complete routed 2018-2026 PYQ
-  demands were built before repair.
-- **Hostile search:** missing Articles, Parts, Schedules, amendments, cases,
-  institutional mechanisms, exceptions, chronology, source status and
-  cross-owner boundaries are hard failures.
-- **Answer rule:** claim → exact constitutional/statutory/case evidence →
-  institutional analysis → exception or qualification.
-- **Current-status note, rechecked 2026-09-05:** Rechecked 2026-09-05: Part XVII, the 1963 Act as amended, the 1976 Rules displayed with amendments through 2011, twenty-two scheduled languages and the Committee portal's thirteenth report remain current. Amit Shah is the dated Committee Chairperson; India has no national language.
-
-**Authoritative live sources:**
-
-- `https://legislative.gov.in/document/constitution-of-india-in-english`
-- `https://rajbhasha.gov.in/en/official-languages-act-1963`
-- `https://rajbhasha.gov.in/en/official-language-rules-1976`
-- `https://samiti.rajbhasha.gov.in/`
-- `https://rajbhasha.gov.in/en/ol_clause`
 
 ## BASIC LEARNING SESSION
 
-![Refreshed teaching navigation](assets/polity-40_Teaching-Navigation_2026-08-28.png)
-
-*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
-
-The Foundational Distinction: Official, Not National denotes the constitutional rules and institutional links organised around Question Controlled answer.
-The Foundational Distinction: Official, Not National operates through National language of India? None declared by the Constitution, connected with Official language of the Union? Hindi in Devanagari script, Article 343(1).
-The operative mechanism matters because numerals for Union official purposes? International form of Indian numerals.
-Its principal consequence is that did English constitutionally end in 1965? No; the transition ended, but Parliament used Article 343(3) power through statute.
-The decisive contrast is between Is English called “associate official language” in the Act? No; the Act says it may continue in addition to Hindi and Are all 22 scheduled languages official languages of India? No.
-The exam-safe limitation is that oFFICIAL LANGUAGE - authorised governmental use.
-![Topic-specific visual map: The Foundational Distinction: Official, Not National.](assets/01_the_foundational_distinction_official_not_national.png)
-[FACT] Article 343(1) declares **Hindi in Devanagari script** to be the **official language of the Union**. It does not declare Hindi—or any other language—to be India’s “national language”.
-
-[FACT] The Constitution does not use “associate official language” to describe English. The Official Languages Act, 1963 provides for English to continue **in addition to Hindi** for specified Union purposes and parliamentary business. “Associate official language” may appear as informal shorthand, but it is not the controlling constitutional or statutory expression.
-
-[ANALYSIS] “National language” suggests symbolic ownership by the entire nation; “official language” identifies the language authorised for governmental functions. The framers chose functional authorisation without imposing one constitutional national-language identity on a multilingual polity.
-
-[LIMIT] The absence of a constitutional national language does not mean language has no cultural or political symbolism. It means the legal answer must use the text’s narrower category.
-
-#### Visual 03 — Identity Card of the Language Settlement
-
-| Question | Controlled answer |
-|---|---|
-| National language of India? | None declared by the Constitution |
-| Official language of the Union? | Hindi in Devanagari script, Article 343(1) |
-| Numerals for Union official purposes? | International form of Indian numerals |
-| Did English constitutionally end in 1965? | No; the transition ended, but Parliament used Article 343(3) power through statute |
-| Is English called “associate official language” in the Act? | No; the Act says it may continue in addition to Hindi |
-| Are all 22 scheduled languages official languages of India? | No |
-
-*Caption: The most common errors arise from converting a functional legal category into a national-symbolic one.*
-
-#### Visual 04 — Six Language Categories
-
-```text
-OFFICIAL LANGUAGE -> authorised governmental use
-NATIONAL LANGUAGE -> no such constitutional declaration for India
-SCHEDULED LANGUAGE -> listed in the Eighth Schedule
-CLASSICAL LANGUAGE -> separate Union executive recognition
-MOTHER TONGUE -> first/home linguistic identity; context-sensitive
-COURT LANGUAGE -> governed especially by Article 348 and statute
-MEDIUM OF INSTRUCTION -> education-policy/institutional choice, subject to law
-```
-
-*Caption: These categories overlap in real life but do not have the same legal source or consequence.*
-
-### SESSION 1 — CONSTITUENT-ASSEMBLY COMPROMISE AND POLITICAL EVOLUTION
+### SESSION 1 — OFFICIAL LANGUAGE, NATIONAL LANGUAGE AND LEGAL CATEGORIES
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Constituent-Assembly Compromise and Political Evolution denotes the constitutional rules and institutional links organised around “Munshi-Ayyangar formula” is a historical description, not terminology found in Part XVII.
+**Plain-language definition:** An official language is authorised for governmental work; the Constitution does not declare any language to be the national language of India.
 
-**Technical definition:** The decisive contrast is between Date/year Development Legal significance and September 1949 Constituent Assembly language compromise Foundation of Articles 343-351.
+**Technical definition:** Article 343(1) identifies Hindi in Devanagari script as the official language of the Union, while other legal categories—State official language, scheduled language, court language and medium of instruction—derive from different provisions.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Constituent-Assembly Compromise and Political Evolution denotes the constitutional rules and institutional links organised around “Munshi-Ayyangar formula” is a historical description, not terminology found in Part XVII.
+> India's language Constitution allocates functions among languages without creating a national-language hierarchy.
 
 #### MUST-WRITE KEYWORDS
 
-- **Constituent-Assembly Compromise**
-- **Political Evolution**
+- **official language**
+- **no national language**
+- **Union purposes**
+- **scheduled language**
+- **court language**
+- **medium of instruction**
+
+**How to use them:** Open with the official-versus-national distinction, classify the legal source of each language status, and then test the claimed consequence against the relevant Article or statute.
+
+#### VISUAL FIRST
+
+```text
+                         LANGUAGE CLAIM
+                              |
+          +-------------------+-------------------+
+          |                   |                   |
+  GOVERNMENTAL USE      SYMBOLIC NATIONAL     EDUCATION / COURT
+  official language     status               separate legal rules
+          |                   |                   |
+ Art. 343 / 345         NONE DECLARED        Arts. 29, 30, 348,
+ OLA 1963                                     350A + policy
+
+SCHEDULED LANGUAGE -> Eighth Schedule recognition, not official status everywhere.
+```
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** The Constitution uses functional language categories rather than declaring one language to embody the nation.
+- **Named evidence:** Article 343(1); Part XVII heading; U.P. Hindi Sahitya Sammelan v. State of U.P. (2014).
+- **Analysis:** The distinction permits common Union administration while leaving room for State choices, court-language rules and minority safeguards.
+- **Qualification:** Cultural prominence, wide use or executive recognition does not by itself create constitutional national-language status.
+
+#### Evidence
+
+- `[FACT]` Article 343(1) says **official language of the Union**, not national language.
+- `[FACT]` Article 345 separately empowers a State legislature to adopt one or more official languages for State purposes.
+- `[FACT]` The Eighth Schedule lists 22 languages for constitutionally specified purposes; it does not make all 22 Union official languages.
+- `[ANALYSIS]` A correct answer first identifies the legal category and only then states its consequence.
+
+#### Prelims trap
+
+write that Hindi is India's national language, that English became a scheduled language, or that every scheduled language is an official language of the Union.
+
+#### Mains use
+
+Use this distinction as the first paragraph in any answer on language federalism, Hindi promotion, the Eighth Schedule or court access.
+
+#### Recap
+
+Official, scheduled, classical, court and instructional status are legally distinct; India has no constitutionally declared national language.
+
+#### CLOSING RECALL FLOW — OFFICIAL LANGUAGE, NATIONAL LANGUAGE AND LEGAL CATEGORIES
+
+```text
+START / CONCEPT: OFFICIAL LANGUAGE, NATIONAL LANGUAGE AND LEGAL CATEGORIES
+EXACT TERMS: official language | no national language | Union purposes | scheduled language | court language | medium of instruction
+MECHANISM / ARGUMENT: The Constitution uses functional language categories rather than declaring one language to embody the nation.
+CONSEQUENCE / CONTRAST: The distinction permits common Union administration while leaving room for State choices, court-language rules and minority safeguards.
+UPSC TRAP / ANSWER-USE: Do not write that Hindi is India's national language, that English became a scheduled language, or that every scheduled language is an official language of the Union.
+ANSWER-GRABBING FORMULATION: India's language Constitution allocates functions among languages without creating a national-language hierarchy.
+```
+
+
+### SESSION 2 — CONSTITUTIONAL HISTORY AND THE MUNSHI-AYYANGAR COMPROMISE
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** The founding language settlement was a negotiated answer to demands for linguistic decolonisation, administrative continuity and protection of non-Hindi regions.
+
+**Technical definition:** The September 1949 Munshi-Ayyangar compromise supplied the architecture later enacted as Articles 343-351: Hindi in Devanagari, international-form numerals, a fifteen-year English transition and parliamentary power to continue English.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Part XVII is best read as a negotiated federal settlement, not as an unfinished command for compulsory monolingualism.
+
+#### MUST-WRITE KEYWORDS
+
 - **Munshi-Ayyangar compromise**
 - **September 1949**
-- **Constituent Assembly language compromise**
-- **Foundation of Articles 343-351**
+- **fifteen-year transition**
+- **B.G. Kher Commission**
+- **G.B. Pant Committee**
+- **1967 settlement**
 
-**How to use them:** Frame the answer through Constituent-Assembly Compromise; define Political Evolution, connect Munshi-Ayyangar compromise with September 1949 to explain the mechanism, and use Constituent Assembly language compromise for the decisive comparison or qualification.
+**How to use them:** Use the Munshi-Ayyangar compromise, fifteen-year transition and 1967 settlement chronology to show why Hindi promotion, English continuity and non-Hindi safeguards form one accommodation.
 
-Constituent-Assembly Compromise and Political Evolution denotes the constitutional rules and institutional links organised around [LIMIT] “Munshi-Ayyangar formula” is a historical description, not terminology found in Part XVII.
-Constituent-Assembly Compromise and Political Evolution operates through CLAIM A: rapid replacement of English, connected with / Hindi official + English transition.
-The operative mechanism matters because / + Parliament's later power.
-Its principal consequence is that cLAIM B: continuity, access and non-Hindi safeguards.
-The decisive contrast is between Date/year Development Legal significance and September 1949 Constituent Assembly language compromise Foundation of Articles 343-351.
-The exam-safe limitation is that 26 January 1950 Constitution commenced Fifteen-year period began.
-![Topic-specific visual map: Constituent-Assembly Compromise and Political Evolution.](assets/02_constituent_assembly_compromise_and_political_evolut.png)
-[FACT] The September 1949 Constituent Assembly settlement commonly described as the **Munshi-Ayyangar compromise** placed Hindi in Devanagari as the Union’s official language, retained English for a fifteen-year constitutional transition, selected the international form of Indian numerals, and left Parliament power to continue English thereafter.
-
-[ANALYSIS] The settlement was not a simple victory of Hindi over English. It was an accommodation among demands for rapid linguistic decolonisation, the practical continuity of administration and law, and the claims of non-Hindi-speaking regions.
-
-[LIMIT] “Munshi-Ayyangar formula” is a historical description, not terminology found in Part XVII.
-
-#### Visual 05 — Constituent-Assembly Bargain
+#### VISUAL FIRST
 
 ```text
-CLAIM A: rapid replacement of English
-                 \
-                  \
-                   > COMPROMISE
-                  /  Hindi official + English transition
-                 /   + Parliament's later power
-CLAIM B: continuity, access and non-Hindi safeguards
+IMMEDIATE HINDI CLAIM --------                                > 1949 COMPROMISE
+ADMINISTRATIVE CONTINUITY -----/      |
+NON-HINDI SAFEGUARDS ----------/      v
+                         Hindi official + English transition
+                         + State choice + parliamentary continuation
+
+1950 -> 1955 Kher Commission -> 1957 Pant Committee
+     -> 1963 Act -> 1965 transition/agitations -> 1967 amendment -> 1976 Rules
 ```
 
-*Caption: The constitutional text reflects negotiated continuity, not a language cliff-edge.*
+#### Claim -> named evidence -> analysis -> qualification
 
-#### Visual 06 — Constitutional-Political Timeline
+- **Claim:** The political durability of Part XVII comes from accommodation among competing language claims.
+- **Named evidence:** Constituent Assembly settlement; Article 343; Article 344; Official Languages Act, 1963 and 1967 amendment.
+- **Analysis:** The 1965 transition and protests demonstrated that administrative language could not be changed by a simple deadline without federal consent and institutional capacity.
+- **Qualification:** The label Munshi-Ayyangar formula is historical shorthand, not language appearing in the Constitution.
 
-| Date/year | Development | Legal significance |
-|---:|---|---|
-| September 1949 | Constituent Assembly language compromise | Foundation of Articles 343-351 |
-| 26 January 1950 | Constitution commenced | Fifteen-year period began |
-| 1955 | First Official Language Commission under Article 344, chaired by B.G. Kher | Historical constitutional review |
-| 1963 | Official Languages Act enacted | Statutory continuation framework |
-| 26 January 1965 | Article 343(2) transition period expired; section 3 appointed day | Statutory regime became central |
-| 1965 | Strong anti-imposition mobilisation, especially in Tamil Nadu | Political pressure for federal accommodation |
-| 1967 Act / 8 January 1968 effect | Official Languages (Amendment) Act substituted section 3 and inserted safeguards | English discontinuance made conditional under section 3(5) |
-| 1976 | Statutory Committee and Official Languages Rules operational era | Administrative implementation |
-| 2026 control | Constitution still lists 22 scheduled languages | Demands have not become additions without amendment |
+#### Evidence
 
-*Caption: The lasting settlement emerged through Constitution, statute and federal politics together.*
+- `[FACT]` The Constitution commenced on 26 January 1950, beginning Article 343(2)'s fifteen-year period.
+- `[FACT]` The first Official Language Commission was constituted in 1955 under B.G. Kher; its recommendations were examined by a parliamentary committee associated with G.B. Pant.
+- `[FACT]` The 1963 Act legislated continuation; the 1967 amendment substituted section 3 with stronger safeguards, effective 8 January 1968.
+- `[ANALYSIS]` The anti-Hindi agitations of 1965, especially in Tamil Nadu, are relevant as political evidence of the costs of compulsory displacement, not as a source of constitutional text.
 
-#### Visual 07 — Why 1965 Was Not a Legal Switch-Off
+#### Prelims trap
+
+say the Constitution promised automatic abolition of English in 1965 or that the 1967 settlement amended Article 343.
+
+#### Mains use
+
+Use the timeline to explain the shift from a transitional expectation to durable statutory bilingualism.
+
+#### Recap
+
+The compromise decolonised symbolically through Hindi while preserving workable continuity and federal confidence through English and State autonomy.
+
+#### CLOSING RECALL FLOW — CONSTITUTIONAL HISTORY AND THE MUNSHI-AYYANGAR COMPROMISE
 
 ```text
-ARTICLE 343(2)
-15-year transitional use of English
-          |
-          v
-26 JANUARY 1965
-transition period ends
-          |
-          v
-ARTICLE 343(3) + OFFICIAL LANGUAGES ACT
-English continues for specified purposes
-          |
-          v
-SECTION 3(5)
-discontinuance requires extraordinary State + Parliament conditions
+START / CONCEPT: CONSTITUTIONAL HISTORY AND THE MUNSHI-AYYANGAR COMPROMISE
+EXACT TERMS: Munshi-Ayyangar compromise | September 1949 | fifteen-year transition | B.G. Kher Commission | G.B. Pant Committee | 1967 settlement
+MECHANISM / ARGUMENT: The political durability of Part XVII comes from accommodation among competing language claims.
+CONSEQUENCE / CONTRAST: The 1965 transition and protests demonstrated that administrative language could not be changed by a simple deadline without federal consent and institutional capacity.
+UPSC TRAP / ANSWER-USE: Do not say the Constitution promised automatic abolition of English in 1965 or that the 1967 settlement amended Article 343.
+ANSWER-GRABBING FORMULATION: Part XVII is best read as a negotiated federal settlement, not as an unfinished command for compulsory monolingualism.
 ```
 
-*Caption: A constitutional transition expired; English did not vanish because Parliament had already legislated.*
 
-[ANALYSIS] The 1965 agitation is best written as a bounded federal episode: opposition focused on compulsory displacement of English and perceived Hindi imposition; statutory accommodation reduced the risk of language becoming a zero-sum test of national loyalty.
-
-[LIMIT] Regional movements were internally diverse. A UPSC answer should avoid portraying either Hindi promotion or non-Hindi resistance as uniformly secessionist, anti-national or culturally hostile.
-
-#### CLOSING RECALL FLOW — CONSTITUENT-ASSEMBLY COMPROMISE AND POLITICAL EVOLUTION
-
-```text
-START / CONCEPT: Constituent-Assembly Compromise and Political Evolution
-        |
-        v
-EXACT TERMS: Constituent-Assembly Compromise · Political Evolution · Munshi-Ayyangar compromise · September 1949 · Constituent Assembly language compromise · Foundation of Articles 343-351
-        |
-        v
-MECHANISM / ARGUMENT: The decisive contrast is between Date/year Development Legal significance and September 1949 Constituent Assembly language compromise Foundation of Articles 343-351.
-        |
-        v
-CONSEQUENCE / CONTRAST: Its principal consequence is that cLAIM B: continuity, access and non-Hindi safeguards.
-        |
-        v
-UPSC TRAP / ANSWER-USE: The settlement was not a simple victory of Hindi over English.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Constituent-Assembly Compromise and Political Evolution denotes the constitutional rules and institutional links organised around “Munshi-Ayyangar formula” is a historical description, not terminology found in Part XVII.
-```
-### SESSION 2 — EXACT MAP OF PART XVII
+### SESSION 3 — ARTICLE 343 CLAUSE BY CLAUSE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Part XVII divides Union, State, court-text and special-directive language rules across Articles 343-351.
+**Plain-language definition:** Article 343 identifies the Union's official language and numeral form, creates a temporary English transition, and authorises Parliament to legislate for later use.
 
-**Technical definition:** Its four chapters prevent Union official language from being conflated with State choice, court language or minority safeguards.
+**Technical definition:** Clause (1) establishes Hindi in Devanagari and the international form of Indian numerals; clause (2) continued English for fifteen years with a limited presidential power; clause (3) enables parliamentary continuation of English or Devanagari numerals for specified purposes.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Part XVII is an allocation map, not a declaration of one language for every public function.
+> Article 343 contains a three-step design: constitutional default, managed transition and legislative continuation.
 
 #### MUST-WRITE KEYWORDS
 
-- **Part XVII**
-- **Articles 343-351**
-- **Union language**
-- **regional languages**
-- **court language**
-- **special directives**
+- **Article 343(1)**
+- **Devanagari script**
+- **international form of Indian numerals**
+- **Article 343(2)**
+- **Article 343(3)**
+- **parliamentary law**
 
-**How to use them:** Frame the answer through Part XVII; define Articles 343-351, connect Union language with regional languages to explain the mechanism, and use court language for the decisive comparison or qualification.
+**How to use them:** Write the clauses in order, separate script from numeral form, and connect post-1965 English use to parliamentary legislation rather than to the expired transition clause.
 
-Exact Map of Part XVII denotes the constitutional rules and institutional links organised around Chapter Subject Articles.
-Exact Map of Part XVII operates through Chapter I Language of the Union 343-344, connected with Chapter II Regional languages 345-347.
-The operative mechanism matters because chapter III Language of the Supreme Court, High Courts, etc. 348-349.
-Its principal consequence is that chapter IV Special directives 350, 350A, 350B, 351.
-The decisive contrast is between WHERE IS LEGAL AUTHORITY FIXED? and SC / HC / Bills / Acts / rules - 348-349.
-The exam-safe limitation is that wHO RECEIVES SPECIAL PROTECTION OR DIRECTION?.
-![Topic-specific visual map: Exact Map of Part XVII.](assets/03_exact_map_of_part_xvii.png)
-[FACT] Part XVII has four chapters with an exact article distribution. This architecture should be reproduced accurately in Prelims elimination and Mains introductions.
-
-#### Visual 08 — Part XVII Article Map
-
-| Chapter | Subject | Articles |
-|---|---|---:|
-| Chapter I | Language of the Union | 343-344 |
-| Chapter II | Regional languages | 345-347 |
-| Chapter III | Language of the Supreme Court, High Courts, etc. | 348-349 |
-| Chapter IV | Special directives | 350, 350A, 350B, 351 |
-
-*Caption: Article grouping is itself a high-value elimination device.*
-
-#### Visual 09 — Part XVII Functional Flow
+#### VISUAL FIRST
 
 ```text
-WHO GOVERNS?
-Union -> 343-344
-State -> 345-347
-
-WHERE IS LEGAL AUTHORITY FIXED?
-SC / HC / Bills / Acts / rules -> 348-349
-
-WHO RECEIVES SPECIAL PROTECTION OR DIRECTION?
-grievance language -> 350
-primary mother-tongue facilities -> 350A
-linguistic-minority officer -> 350B
-development of Hindi -> 351
+343(1) DEFAULT
+Hindi language + Devanagari script
+international form of Indian numerals
+        |
+        v
+343(2) 1950-1965 TRANSITION
+English continued; President could add Hindi / Devanagari numerals
+        |
+        v
+343(3) AFTER TRANSITION
+Parliament may by law provide for English and/or Devanagari numerals
+for purposes specified in that law.
 ```
 
-*Caption: The Part moves from governmental level to legal text and then to safeguards.*
+#### Claim -> named evidence -> analysis -> qualification
 
-#### CLOSING RECALL FLOW — EXACT MAP OF PART XVII
+- **Claim:** Article 343 did not itself terminate all English use on 26 January 1965.
+- **Named evidence:** Article 343(1)-(3); Official Languages Act, 1963, section 3.
+- **Analysis:** Clause (3) deliberately moves the post-transition choice into democratic legislation, allowing administration to adapt to federal and practical conditions.
+- **Qualification:** The President's clause (2) authority belonged to the fifteen-year period and should not be presented as an unlimited current power.
+
+#### Evidence
+
+- `[FACT]` Hindi is the language; Devanagari is the script.
+- `[FACT]` The numeral default is the international form of Indian numerals, not Devanagari numerals.
+- `[FACT]` Article 343(2) ran for fifteen years from commencement.
+- `[FACT]` Article 343(3) is an enabling power; the 1963 Act supplies the operative continuation rule.
+- `[LIMIT]` “English is constitutionally guaranteed forever” is also inaccurate: its continuing Union use rests on statute subject to the safeguards in that statute.
+
+#### Prelims trap
+
+merge clause (2)'s expired transition with clause (3)'s continuing legislative power, or confuse Devanagari script with Devanagari numerals.
+
+#### Mains use
+
+Use the three-step design to rebut both extremes: “English ended automatically” and “Article 343 itself permanently entrenched English.”
+
+#### Recap
+
+Article 343 creates Hindi's Union status while preserving a legally managed transition and a parliamentary continuation route.
+
+#### CLOSING RECALL FLOW — ARTICLE 343 CLAUSE BY CLAUSE
 
 ```text
-START / CONCEPT: Exact Map of Part XVII
-        |
-        v
-EXACT TERMS: Part XVII · Articles 343-351 · Union language · regional languages · court language · special directives
-        |
-        v
-MECHANISM / ARGUMENT: Match each proposition to its chapter and actor before applying it.
-        |
-        v
-CONSEQUENCE / CONTRAST: The structure separates governmental levels, legal authority and protective directives.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not treat all Articles 343-351 as Hindi-promotion provisions.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Part XVII is an allocation map, not a declaration of one language for every public function.
+START / CONCEPT: ARTICLE 343 CLAUSE BY CLAUSE
+EXACT TERMS: Article 343(1) | Devanagari script | international form of Indian numerals | Article 343(2) | Article 343(3) | parliamentary law
+MECHANISM / ARGUMENT: Article 343 did not itself terminate all English use on 26 January 1965.
+CONSEQUENCE / CONTRAST: Clause (3) deliberately moves the post-transition choice into democratic legislation, allowing administration to adapt to federal and practical conditions.
+UPSC TRAP / ANSWER-USE: Do not merge clause (2)'s expired transition with clause (3)'s continuing legislative power, or confuse Devanagari script with Devanagari numerals.
+ANSWER-GRABBING FORMULATION: Article 343 contains a three-step design: constitutional default, managed transition and legislative continuation.
 ```
-### SESSION 3 — ARTICLE 343: UNION LANGUAGE AND THE TRANSITION
+
+
+### SESSION 4 — ARTICLE 344 COMMISSION AND CONSTITUTIONAL COMMITTEE
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Article 343 establishes Hindi-Devanagari and the international form of Indian numerals while permitting a statutory post-1965 regime.
+**Plain-language definition:** Article 344 created a time-linked Commission and a parliamentary committee to advise on the transition in Union official-language use.
 
-**Technical definition:** Article 343 separates the Union-language baseline, the fifteen-year English transition and Parliament’s power to legislate for post-1965 English use.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> 1965 ended a transition, not English use.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 343**
-- **Union language**
-- **Hindi**
-- **Devanagari**
-- **English transition**
-- **Indian numerals**
-
-**How to use them:** Frame the answer through Article 343; define Union language, connect Hindi with Devanagari to explain the mechanism, and use English transition for the decisive comparison or qualification.
-
-Article 343: Union Language and the Transition denotes the constitutional rules and institutional links organised around Clause Rule Temporal character.
-Article 343: Union Language and the Transition operates through 343(1) Hindi-Devanagari; international form of Indian numerals Continuing constitutional baseline, connected with 343(2) English continued for fifteen years; limited presidential authorisation during that period Historical transition.
-The operative mechanism matters because 343(3) Parliament may by law provide for English/Devanagari numerals after the period Enabling power used through legislation.
-Its principal consequence is that 1950 ------------------------------ 1965.
-The decisive contrast is between Article 343(2) transition and President may DURING THIS PERIOD authorise.
-The exam-safe limitation is that hindi + English for Union purposes.
-![Topic-specific visual map: Article 343: Union Language and the Transition.](assets/04_article_343_union_language_and_the_transition.png)
-[FACT] Article 343(1) has two separate commands: Hindi in Devanagari is the Union’s official language; the numerals for Union official purposes are the **international form of Indian numerals**.
-
-[FACT] Article 343(2) continued English for all Union official purposes for which it was used before commencement for fifteen years. During that period only, the President could authorise Hindi in addition to English and the Devanagari form of numerals in addition to the international form.
-
-[FACT] Article 343(3) empowers Parliament by law to provide, after the fifteen-year period, for use of English or the Devanagari form of numerals for specified purposes.
-
-#### Visual 10 — Article 343 Clause Anatomy
-
-| Clause | Rule | Temporal character |
-|---|---|---|
-| 343(1) | Hindi-Devanagari; international form of Indian numerals | Continuing constitutional baseline |
-| 343(2) | English continued for fifteen years; limited presidential authorisation during that period | Historical transition |
-| 343(3) | Parliament may by law provide for English/Devanagari numerals after the period | Enabling power used through legislation |
-
-*Caption: Clause (2) is transitional; clause (3) explains the lawful post-1965 regime.*
-
-#### Visual 11 — Presidential Power: Narrow Temporal Box
-
-```text
-1950 ------------------------------ 1965
-      Article 343(2) transition
-
-President may DURING THIS PERIOD authorise:
-  Hindi + English for Union purposes
-  Devanagari numerals + international form
-
-After the period:
-  use depends on Article 343(3) law, not an endlessly renewed 343(2) order.
-```
-
-*Caption: Do not convert a time-bound presidential authorisation into a permanent independent power.*
-
-#### Visual 12 — Constitutional Myth vs Legal Route
-
-| Myth | Correction |
-|---|---|
-| English “expired” in 1965 | Only the Article 343(2) transition expired |
-| English continues by convention | It continues through the Official Languages Act |
-| The Constitution calls English associate official language | It does not |
-| Hindi is the national language | Article 343 says official language of the Union |
-| Devanagari numerals are the constitutional default | International form of Indian numerals is the default |
-
-*Caption: The correct answer names the exact clause and the statute.*
-
-#### CLOSING RECALL FLOW — ARTICLE 343: UNION LANGUAGE AND THE TRANSITION
-
-```text
-START / CONCEPT: Article 343: Union Language and the Transition
-        |
-        v
-EXACT TERMS: Article 343 · Union language · Hindi · Devanagari · English transition · Indian numerals
-        |
-        v
-MECHANISM / ARGUMENT: Separate clauses (1), (2) and (3), then connect section 3 of the 1963 Act.
-        |
-        v
-CONSEQUENCE / CONTRAST: The result is a lawful bilingual Union regime rather than an automatic switch-off.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not call English a constitutional associate official language.
-        |
-        v
-ANSWER-GRABBING FORMULATION: 1965 ended a transition, not English use.
-```
-### SESSION 4 — ARTICLE 344: COMMISSION AND CONSTITUTIONAL PARLIAMENTARY COMMITTEE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Article 344 created two historical Commission milestones and a 30-member parliamentary review committee.
-
-**Technical definition:** The Commission represents scheduled languages; the committee uses 20 Lok Sabha and 10 Rajya Sabha members elected by PR-STV.
+**Technical definition:** The President had to constitute the Commission at five and ten years from commencement; a 30-member Committee—20 Lok Sabha and 10 Rajya Sabha members elected by proportional representation through the single transferable vote—examines its recommendations.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Article 344 balances progressive Hindi use with non-Hindi interests.
+> Article 344 institutionalised both language transition and protection of non-Hindi-speaking interests.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 344**
-- **Official Language Commission**
-- **parliamentary committee**
-- **scheduled languages**
+- **Article 344 Commission**
+- **Eighth-Schedule representation**
+- **five-year and ten-year points**
+- **20 Lok Sabha plus 10 Rajya Sabha**
 - **PR-STV**
-- **President**
+- **non-Hindi public-service interests**
 
-**How to use them:** Frame the answer through Article 344; define Official Language Commission, connect parliamentary committee with scheduled languages to explain the mechanism, and use PR-STV for the decisive comparison or qualification.
+**How to use them:** Explain the Article 344 Commission subjects, non-Hindi public-service interests and the 20 Lok Sabha plus 10 Rajya Sabha PR-STV committee before presidential consideration.
 
-Article 344: Commission and Constitutional Parliamentary Committee denotes the constitutional rules and institutional links organised around 5 years ---- Commission milestone (1955).
-Article 344: Commission and Constitutional Parliamentary Committee operates through 10 years --- second textual milestone from commencement, connected with NOT: 1955 - every ten years forever.
-The operative mechanism matters because recommendation field Built-in qualification.
-Its principal consequence is that progressive use of Hindi Administrative feasibility.
-The decisive contrast is between Restrictions on English Non-Hindi interests and Language for Article 348 purposes Legal uniformity and access.
-The exam-safe limitation is that form of numerals Practical/scientific context.
-![Topic-specific visual map: Article 344: Commission and Constitutional Parliamentary Committee.](assets/05_article_344_commission_and_constitutional_parliament.png)
-[FACT] Article 344(1) instructed the President to constitute a Commission at the expiration of **five years** from constitutional commencement and thereafter at the expiration of **ten years from commencement**. The wording identifies two historical constitutional milestones; it does not create a recurring commission every ten years.
-
-[FACT] The Commission consists of a Chairperson and members representing the different Eighth-Schedule languages, appointed by the President. Its recommendations cover progressive Hindi use, restrictions on English, Article 348 purposes, numerals and referred language questions.
-
-[FACT] Article 344(3) requires due regard to India’s industrial, cultural and scientific advancement and to the just claims and interests of persons from non-Hindi-speaking areas in public services.
-
-#### Visual 13 — Article 344 Historical Clock
-
-```text
-26 Jan 1950
-     |
-     +---- 5 years ----> Commission milestone (1955)
-     |
-     +---- 10 years ---> second textual milestone from commencement
-
-NOT: 1955 -> every ten years forever
-```
-
-*Caption: UPSC can test the difference between “at ten years” and “every ten years”.*
-
-#### Visual 14 — Commission Recommendation Matrix
-
-| Recommendation field | Built-in qualification |
-|---|---|
-| Progressive use of Hindi | Administrative feasibility |
-| Restrictions on English | Non-Hindi interests |
-| Language for Article 348 purposes | Legal uniformity and access |
-| Form of numerals | Practical/scientific context |
-| Other referred matters | Union-State and inter-State communication |
-
-*Caption: Article 344 itself embeds a balancing duty rather than a one-direction command.*
-
-[FACT] Article 344(4) creates a 30-member parliamentary committee: **20 Lok Sabha + 10 Rajya Sabha**, elected by each House through proportional representation by means of the single transferable vote. It examines the Commission’s recommendations and reports its opinion to the President. The President may then issue directions under Article 344(6).
-
-#### Visual 15 — Article 344 Report Route
+#### VISUAL FIRST
 
 ```text
 PRESIDENT
    |
-   v
-ARTICLE 344 COMMISSION
+   +-> COMMISSION at 5 years and 10 years
+   |      +-> progressive Hindi use
+   |      +-> restrictions on English
+   |      +-> Article 348 language
+   |      +-> numerals and referred communication matters
    |
-   | recommendations
-   v
-30-MEMBER PARLIAMENTARY COMMITTEE
-20 LS + 10 RS | PR-STV
-   |
-   | opinion
-   v
-PRESIDENT
-   |
-   v
-possible directions under Article 344(6)
+   +-> 30-MEMBER COMMITTEE (20 LS + 10 RS, PR-STV)
+          |
+          v
+      examines recommendations -> reports opinion -> President may direct
+
+BALANCING CLAUSE: scientific/cultural/industrial advancement
+                  + just claims of non-Hindi areas in public services.
 ```
 
-*Caption: The constitutional committee reviews a constitutional commission; it is not identical to the later statutory committee.*
+#### Claim -> named evidence -> analysis -> qualification
 
-#### CLOSING RECALL FLOW — ARTICLE 344: COMMISSION AND CONSTITUTIONAL PARLIAMENTARY COMMITTEE
+- **Claim:** The constitutional machinery balances progressive use of Hindi with administrative capacity and the claims of non-Hindi-speaking areas.
+- **Named evidence:** Article 344(1)-(6); 1955 B.G. Kher Commission; 1957 parliamentary examination associated with G.B. Pant.
+- **Analysis:** Representation from Eighth-Schedule languages and the express clause (3) factors convert language policy from a numerical-majority claim into a consultative constitutional process.
+- **Qualification:** The Commission was required at two specified historical points; Article 344 does not mandate a fresh Commission every decade forever.
+
+#### Evidence
+
+- `[FACT]` Commission membership represents languages specified in the Eighth Schedule.
+- `[FACT]` Article 344(2) includes Hindi use, English restrictions, Article 348 purposes, numerals and referred intergovernmental matters.
+- `[FACT]` Clause (3) expressly protects advancement needs and non-Hindi public-service interests.
+- `[FACT]` Clause (6) permits presidential directions after considering the committee report.
+- `[LIMIT]` Recommendations and directions operate within the Constitution and later statute; they are not self-executing constitutional amendments.
+
+#### Prelims trap
+
+confuse the Article 344 committee with the continuing statutory Committee under section 4 of the 1963 Act.
+
+#### Mains use
+
+Use Article 344(3) to demonstrate that linguistic accommodation is textually built into the constitutional transition.
+
+#### Recap
+
+Article 344 joins planned Hindi development to representation, parliamentary scrutiny and protection of non-Hindi interests.
+
+#### CLOSING RECALL FLOW — ARTICLE 344 COMMISSION AND CONSTITUTIONAL COMMITTEE
 
 ```text
-START / CONCEPT: Article 344: Commission and Constitutional Parliamentary Committee
-        |
-        v
-EXACT TERMS: Article 344 · Official Language Commission · parliamentary committee · scheduled languages · PR-STV · President
-        |
-        v
-MECHANISM / ARGUMENT: Commission recommendations pass through parliamentary examination and presidential direction.
-        |
-        v
-CONSEQUENCE / CONTRAST: The mechanism institutionalises accommodation during transition.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not claim a recurring ten-year Commission forever.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Article 344 balances progressive Hindi use with non-Hindi interests.
+START / CONCEPT: ARTICLE 344 COMMISSION AND CONSTITUTIONAL COMMITTEE
+EXACT TERMS: Article 344 Commission | Eighth-Schedule representation | five-year and ten-year points | 20 Lok Sabha plus 10 Rajya Sabha | PR-STV | non-Hindi public-service interests
+MECHANISM / ARGUMENT: The constitutional machinery balances progressive use of Hindi with administrative capacity and the claims of non-Hindi-speaking areas.
+CONSEQUENCE / CONTRAST: Representation from Eighth-Schedule languages and the express clause (3) factors convert language policy from a numerical-majority claim into a consultative constitutional process.
+UPSC TRAP / ANSWER-USE: Do not confuse the Article 344 committee with the continuing statutory Committee under section 4 of the 1963 Act.
+ANSWER-GRABBING FORMULATION: Article 344 institutionalised both language transition and protection of non-Hindi-speaking interests.
 ```
-### SESSION 5 — TWO COMMITTEES THAT MUST NOT BE COLLAPSED
+
+
+### SESSION 5 — OFFICIAL LANGUAGES ACT SECTION 3 AND THE 1967 CONTINUATION SAFEGUARD
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Two Committees That Must Not Be Collapsed denotes the constitutional rules and institutional links organised around Test Article 344 committee Section 4 committee.
+**Plain-language definition:** Section 3 is the statute that permits English to continue, in addition to Hindi, for specified Union purposes and parliamentary business after the constitutional transition.
 
-**Technical definition:** Two Committees That Must Not Be Collapsed operates through Source Constitution Official Languages Act, 1963, connected with Trigger Article 344 Commission recommendations Ten years after section 3 commencement + parliamentary resolution process.
+**Technical definition:** The substituted section 3, effective 8 January 1968, regulates continuance, Union-State communication, internal translation, bilingual instruments, employee fairness and a dual State-plus-Parliament discontinuance lock.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Two Committees That Must Not Be Collapsed operates through Source Constitution Official Languages Act, 1963, connected with Trigger Article 344 Commission recommendations Ten years after section 3 commencement + parliamentary resolution process.
+> Post-1965 bilingualism is a statutory settlement with express federal safeguards, not an administrative habit.
 
 #### MUST-WRITE KEYWORDS
 
-- **Committee on Official Language**
-- **Constitution**
-- **Official Languages Act, 1963**
-- **Trigger**
-- **Article 344 Commission recommendations**
-- **Core work**
+- **section 3(1)**
+- **in addition to Hindi**
+- **non-Hindi State communication**
+- **section 3(3) bilingual instruments**
+- **section 3(4) employee protection**
+- **section 3(5) discontinuance lock**
 
-**How to use them:** Frame the answer through Committee on Official Language; define Constitution, connect Official Languages Act, 1963 with Trigger to explain the mechanism, and use Article 344 Commission recommendations for the decisive comparison or qualification.
+**How to use them:** Move subsection by subsection from continued use to communications, bilingual documents, rule-making safeguards and the unusually demanding discontinuance condition.
 
-Two Committees That Must Not Be Collapsed denotes the constitutional rules and institutional links organised around Test Article 344 committee Section 4 committee.
-Two Committees That Must Not Be Collapsed operates through Source Constitution Official Languages Act, 1963, connected with Trigger Article 344 Commission recommendations Ten years after section 3 commencement + parliamentary resolution process.
-The operative mechanism matters because core work Examine Commission recommendations Review progress of Hindi for Union official purposes.
-Its principal consequence is that membership 30: 20 LS + 10 RS, PR-STV Same numeric/election structure.
-The decisive contrast is between Report route President President; laid before Parliament and sent to States and Current terminology Historical constitutional mechanism Committee of Parliament on Official Language.
-The exam-safe limitation is that rEPORT / RECOMMENDATION.
-![Topic-specific visual map: Two Committees That Must Not Be Collapsed.](assets/06_two_committees_that_must_not_be_collapsed.png)
-[FACT] Article 344(4) provides the constitutional committee tied to the Article 344 Commission. Section 4 of the Official Languages Act, 1963 provides a statutory **Committee on Official Language** after ten years from section 3’s commencement, upon a resolution moved with prior presidential sanction and passed by both Houses.
-
-[FACT] The statutory committee also has 30 members—20 Lok Sabha and 10 Rajya Sabha—elected through proportional representation by single transferable vote. Its duty is to review progress in the use of Hindi for Union official purposes and report recommendations to the President; the report is laid before both Houses and sent to all State Governments.
-
-[CURRENT] The official Committee of Parliament on Official Language portal identifies the current institutional body under the Department of Official Language and displayed the thirteenth part of its report by the control date.
-
-[LIMIT] Committee recommendations and presidential directions cannot be described as amendments to the Constitution or Act. Section 4(4)’s proviso requires directions not to be inconsistent with section 3.
-
-#### Visual 16 — Constitutional vs Statutory Committee
-
-| Test | Article 344 committee | Section 4 committee |
-|---|---|---|
-| Source | Constitution | Official Languages Act, 1963 |
-| Trigger | Article 344 Commission recommendations | Ten years after section 3 commencement + parliamentary resolution process |
-| Core work | Examine Commission recommendations | Review progress of Hindi for Union official purposes |
-| Membership | 30: 20 LS + 10 RS, PR-STV | Same numeric/election structure |
-| Report route | President | President; laid before Parliament and sent to States |
-| Current terminology | Historical constitutional mechanism | Committee of Parliament on Official Language |
-
-*Caption: Similar composition does not erase different legal sources, triggers and functions.*
-
-#### Visual 17 — Committee Recommendation Control
+#### VISUAL FIRST
 
 ```text
-REPORT / RECOMMENDATION
+SECTION 3(1): English may continue + Parliament business
         |
-        +--> may influence policy or presidential direction
+        +-> Union <-> non-Hindi-official-language State: English shall be used
+        +-> Hindi-State -> non-Hindi State: Hindi + English translation
+        +-> non-Hindi State may voluntarily use Hindi
         |
-        +--> does NOT itself amend Article 343
-        +--> does NOT itself discontinue English
-        +--> does NOT add a language to Eighth Schedule
-        +--> does NOT override section 3 safeguards
+SECTION 3(2): internal Union translation until working knowledge threshold
+SECTION 3(3): specified instruments in BOTH Hindi and English
+SECTION 3(4): efficiency + public interest + no employee disadvantage
+SECTION 3(5): ALL relevant States resolve + EACH House resolves -> discontinuance.
 ```
 
-*Caption: Institutional influence must not be confused with constituent or legislative power.*
+#### Claim -> named evidence -> analysis -> qualification
 
-#### CLOSING RECALL FLOW — TWO COMMITTEES THAT MUST NOT BE COLLAPSED
+- **Claim:** The 1967 amendment converted English continuance into a protected federal arrangement.
+- **Named evidence:** Official Languages Act, 1963, substituted section 3; Official Languages (Amendment) Act, 1967.
+- **Analysis:** The communication provisos protect non-Hindi States, while subsections (3) and (4) protect public accessibility, administrative efficiency and employees proficient in either language.
+- **Qualification:** Section 3(5) preserves only the subsection provisions it names; it should not be described as a constitutional eternity clause for every use of English.
+
+#### Evidence
+
+- `[FACT]` Section 3(1) uses “may continue to be used in addition to Hindi”.
+- `[FACT]` English **shall** be used for Union communication with a State that has not adopted Hindi as its official language.
+- `[FACT]` Section 3(3) requires both languages for specified resolutions, general orders, rules, notifications, reports, contracts, licences, permits, notices and tender forms.
+- `[FACT]` Section 3(4) requires quick and efficient disposal, public interest and non-disadvantage to employees proficient in either Hindi or English.
+- `[FACT]` Section 3(5) requires resolutions of all relevant non-Hindi-official-language States and then each House of Parliament.
+
+#### Prelims trap
+
+call English an “associate official language” as though that expression appears in section 3, or say a simple Union notification can discontinue it.
+
+#### Mains use
+
+Use section 3(5) as evidence that the 1967 settlement constitutionalised federal confidence politically while remaining statutory legally.
+
+#### Recap
+
+Section 3 sustains bilingual Union administration through communication duties, bilingual instruments, efficiency safeguards and a high-consent exit rule.
+
+#### CLOSING RECALL FLOW — OFFICIAL LANGUAGES ACT SECTION 3 AND THE 1967 CONTINUATION SAFEGUARD
 
 ```text
-START / CONCEPT: Two Committees That Must Not Be Collapsed
-        |
-        v
-EXACT TERMS: Committee on Official Language · Constitution · Official Languages Act, 1963 · Trigger · Article 344 Commission recommendations · Core work
-        |
-        v
-MECHANISM / ARGUMENT: Two Committees That Must Not Be Collapsed denotes the constitutional rules and institutional links organised around Test Article 344 committee Section 4 committee.
-        |
-        v
-CONSEQUENCE / CONTRAST: The decisive contrast is between Report route President President; laid before Parliament and sent to States and Current terminology Historical constitutional mechanism Committee of Parliament on Official Language.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: its principal consequence is that membership 30.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Two Committees That Must Not Be Collapsed operates through Source Constitution Official Languages Act, 1963, connected with Trigger Article 344 Commission recommendations Ten years after section 3 commencement + parliamentary resolution process.
+START / CONCEPT: OFFICIAL LANGUAGES ACT SECTION 3 AND THE 1967 CONTINUATION SAFEGUARD
+EXACT TERMS: section 3(1) | in addition to Hindi | non-Hindi State communication | section 3(3) bilingual instruments | section 3(4) employee protection | section 3(5) discontinuance lock
+MECHANISM / ARGUMENT: The 1967 amendment converted English continuance into a protected federal arrangement.
+CONSEQUENCE / CONTRAST: The communication provisos protect non-Hindi States, while subsections (3) and (4) protect public accessibility, administrative efficiency and employees proficient in either language.
+UPSC TRAP / ANSWER-USE: Do not call English an “associate official language” as though that expression appears in section 3, or say a simple Union notification can discontinue it.
+ANSWER-GRABBING FORMULATION: Post-1965 bilingualism is a statutory settlement with express federal safeguards, not an administrative habit.
 ```
-### SESSION 6 — ARTICLES 345-347: STATE AND REGIONAL LANGUAGES
+
+
+### SESSION 6 — OFFICIAL LANGUAGES ACT SECTIONS 4 TO 8
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Articles 345-347: State and Regional Languages denotes the constitutional rules and institutional links organised around one language in use in State.
+**Plain-language definition:** Sections 4 to 8 create a statutory committee, authoritative Hindi-text routes, a controlled High Court judgment route and delegated rule-making.
 
-**Technical definition:** Article 346 provides that the language authorised for Union official purposes is the official language for communication between States and between a State and the Union.
+**Technical definition:** Section 4 reviews progress in Union Hindi use; sections 5 and 6 confer authoritative status on specified Hindi translations; section 7 governs non-English High Court judgments; section 8 empowers rules subject to parliamentary laying.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Articles 345-347: State and Regional Languages denotes the constitutional rules and institutional links organised around one language in use in State.
+> The Act separates policy review, authoritative translation and court-language permission into distinct legal mechanisms.
 
 #### MUST-WRITE KEYWORDS
 
-- **Articles 345-347**
-- **Regional Languages**
-- **not**
-- **substantial proportion**
-- **False**
-- **True**
+- **section 4 statutory committee**
+- **section 5 authoritative Hindi text**
+- **section 6 State Act translation**
+- **section 7 High Court judgments**
+- **section 8 rule-making**
+- **parliamentary laying**
 
-**How to use them:** Frame the answer through Articles 345-347; define Regional Languages, connect not with substantial proportion to explain the mechanism, and use False for the decisive comparison or qualification.
+**How to use them:** Name the section 4 statutory committee, section 5 authoritative Hindi text, section 7 High Court judgments and section 8 rule-making actors and effects.
 
-Articles 345-347: State and Regional Languages denotes the constitutional rules and institutional links organised around one language in use in State.
-Articles 345-347: State and Regional Languages operates through more than one language in use in State, connected with may assign language(s) to all or specified official purposes.
-The operative mechanism matters because until law says otherwise - prior English use continues.
-Its principal consequence is that proposition Verdict.
-The decisive contrast is between State must choose only an Eighth-Schedule language False and State may adopt more than one language True.
-The exam-safe limitation is that state may specify different official purposes True.
-![Topic-specific visual map: Articles 345-347: State and Regional Languages.](assets/07_articles_345_347_state_and_regional_languages.png)
-[FACT] Article 345 allows a State Legislature, subject to Articles 346 and 347, to adopt by law one or more languages in use in the State or Hindi for all or any State official purposes. Until it legislates otherwise, English continues for the State official purposes for which it was used before commencement.
+#### VISUAL FIRST
 
-[FACT] A State official language does **not** have to be in the Eighth Schedule. The constitutional test is “one or more of the languages in use in the State or Hindi”, not scheduled status.
+```text
+s.4  COMMITTEE -> review Hindi progress -> report President
+      directions cannot conflict with s.3
 
-#### Visual 18 — Article 345 Choice Tree
+s.5  PRESIDENT-AUTHORISED GAZETTE HINDI TEXT
+      Central Acts / Presidential Ordinances / delegated instruments
+      + Hindi translation accompanies parliamentary Bills/amendments
+
+s.6  GOVERNOR-AUTHORISED HINDI TEXT of specified State Acts/Ordinances
+      IN ADDITION TO Article 348(3) authoritative English translation
+
+s.7  Governor + previous President consent -> HC judgment/decree/order
+      Hindi/State language in addition to English + HC-authorised English translation
+
+s.8  Central rules -> Gazette -> laid before both Houses for 30 days.
+```
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Authoritative status follows the prescribed constitutional or statutory act of authorisation, not the mere existence of a translation.
+- **Named evidence:** Official Languages Act, 1963, sections 4, 5, 6, 7 and 8.
+- **Analysis:** Separate routes preserve democratic oversight and all-India legal usability while permitting Hindi and State-language access.
+- **Qualification:** Section 6 does not displace Article 348(3)'s authoritative English text, and section 7 does not authorise a State to alter Supreme Court language.
+
+#### Evidence
+
+- `[FACT]` Section 4's committee has 30 members, elected 20:10 from the two Houses, but arises from statute rather than Article 344.
+- `[FACT]` Section 4(4) directions must not be inconsistent with section 3.
+- `[FACT]` Section 5 concerns authoritative Hindi texts of specified Central material.
+- `[FACT]` Section 6 adds an authoritative Hindi version of specified State Acts or Ordinances alongside the required English translation.
+- `[FACT]` Section 8 rules are made by Gazette notification and laid before both Houses for a total of 30 days.
+
+#### Prelims trap
+
+say any Hindi translation is authoritative, that section 6 removes the English text, or that section 8 permits rules to override section 3.
+
+#### Mains use
+
+Use the section map in answers on legislative translation, official-language administration or judicial accessibility.
+
+#### Recap
+
+Sections 4-8 distribute review, translation, judicial permission and delegated legislation among different authorities with explicit safeguards.
+
+#### CLOSING RECALL FLOW — OFFICIAL LANGUAGES ACT SECTIONS 4 TO 8
+
+```text
+START / CONCEPT: OFFICIAL LANGUAGES ACT SECTIONS 4 TO 8
+EXACT TERMS: section 4 statutory committee | section 5 authoritative Hindi text | section 6 State Act translation | section 7 High Court judgments | section 8 rule-making | parliamentary laying
+MECHANISM / ARGUMENT: Authoritative status follows the prescribed constitutional or statutory act of authorisation, not the mere existence of a translation.
+CONSEQUENCE / CONTRAST: Separate routes preserve democratic oversight and all-India legal usability while permitting Hindi and State-language access.
+UPSC TRAP / ANSWER-USE: Do not say any Hindi translation is authoritative, that section 6 removes the English text, or that section 8 permits rules to override section 3.
+ANSWER-GRABBING FORMULATION: The Act separates policy review, authoritative translation and court-language permission into distinct legal mechanisms.
+```
+
+
+### SESSION 7 — OFFICIAL LANGUAGE RULES 1976: COMMUNICATION ARCHITECTURE
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** The 1976 Rules organise how Union offices use Hindi and English in communications, documents, employee representations and internal work.
+
+**Technical definition:** Made under section 8 read with section 3(4), the Rules classify destinations into Regions A, B and C and then apply sender-recipient, document-type and employee-knowledge rules.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Regions A, B and C are administrative routing devices, not constitutional rankings of languages or citizens.
+
+#### MUST-WRITE KEYWORDS
+
+- **Official Language Rules 1976**
+- **Regions A B C**
+- **sender-recipient matrix**
+- **reply in Hindi**
+- **bilingual documents**
+- **proficiency and working knowledge**
+
+**How to use them:** Apply the Regions A B C sender-recipient matrix, then add the reply in Hindi, bilingual documents and proficiency versus working knowledge safeguards.
+
+#### VISUAL FIRST
+
+```text
+STEP 1: Is the sender a Central Government office?
+        |
+STEP 2: Is recipient a State/UT, non-Central office, person,
+        or another Central office?
+        |
+STEP 3: Which administrative region applies?
+        |
+STEP 4: Apply Rule 3 or Rule 4
+        |
+        +-> Rule 5: Hindi communication gets Hindi reply
+        +-> Rule 6: section 3(3) documents use both languages
+        +-> Rules 7-8: employee applications/noting in Hindi or English
+        +-> Rules 9-10: proficiency / working knowledge
+        +-> Rules 11-12: bilingual materials and compliance responsibility.
+```
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** The Rules translate statutory bilingualism into an operational communication system.
+- **Named evidence:** Official Languages (Use for Official Purposes of the Union) Rules, 1976, as displayed with amendments through 2011.
+- **Analysis:** The region framework enables differentiated implementation while retaining translation, employee-use and bilingual-document safeguards.
+- **Qualification:** The Rules govern Union official purposes; they do not declare a national language, control every State office or determine private communication.
+
+#### Evidence
+
+- `[FACT]` The official consolidated Rules describe their extent as India except Tamil Nadu.
+- `[FACT]` Region C communications from a Central office to non-Central recipients ordinarily use English under Rule 3.
+- `[FACT]` Rule 5 requires a reply in Hindi to a communication received in Hindi.
+- `[FACT]` Rule 6 assigns responsibility for bilingual section 3(3) documents.
+- `[FACT]` Rule 8 permits an employee to note in Hindi or English, subject to its stated qualifications.
+- `[LIMIT]` Region membership and Union-territory nomenclature should be checked against the current consolidated Rules before reproducing a full list.
+
+#### Prelims trap
+
+treat Region A as a constitutional Hindi-language zone or apply a Region C rule without identifying the sender and recipient.
+
+#### Mains use
+
+Use the decision tree to convert a vague policy answer into a rule-based administrative explanation.
+
+#### Recap
+
+The Rules implement, but do not enlarge, the 1963 Act's bilingual and employee-protection framework.
+
+#### CLOSING RECALL FLOW — OFFICIAL LANGUAGE RULES 1976: COMMUNICATION ARCHITECTURE
+
+```text
+START / CONCEPT: OFFICIAL LANGUAGE RULES 1976: COMMUNICATION ARCHITECTURE
+EXACT TERMS: Official Language Rules 1976 | Regions A B C | sender-recipient matrix | reply in Hindi | bilingual documents | proficiency and working knowledge
+MECHANISM / ARGUMENT: The Rules translate statutory bilingualism into an operational communication system.
+CONSEQUENCE / CONTRAST: The region framework enables differentiated implementation while retaining translation, employee-use and bilingual-document safeguards.
+UPSC TRAP / ANSWER-USE: Do not treat Region A as a constitutional Hindi-language zone or apply a Region C rule without identifying the sender and recipient.
+ANSWER-GRABBING FORMULATION: Regions A, B and C are administrative routing devices, not constitutional rankings of languages or citizens.
+```
+
+
+### SESSION 8 — ARTICLE 345 AND STATE OFFICIAL-LANGUAGE AUTONOMY
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Article 345 allows a State legislature to adopt one or more languages in use in the State, or Hindi, for all or specified official purposes.
+
+**Technical definition:** Subject to Articles 346 and 347, State law may choose multiple official languages; English continues for pre-Constitution official purposes until the legislature otherwise provides.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> State official-language power is plural, repeatable and not confined to Eighth-Schedule languages.
+
+#### MUST-WRITE KEYWORDS
+
+- **Article 345**
+- **one or more languages**
+- **language in use**
+- **State legislation**
+- **English continuity**
+- **U.P. Hindi Sahitya Sammelan**
+
+**How to use them:** State the legislative choice, the Articles 346-347 qualification and the continuing-English proviso, then use the 2014 case to prove that adopting Hindi does not exhaust the power.
+
+#### VISUAL FIRST
 
 ```text
 STATE LEGISLATURE
-       |
-       +--> one language in use in State
-       +--> more than one language in use in State
-       +--> Hindi
-       |
-       v
-may assign language(s) to all or specified official purposes
+        |
+        +-> one or more languages IN USE IN THE STATE
+        |
+        +-> OR Hindi, even if the 'in use' condition is not relied on
+        |
+        +-> all or specified State official purposes
 
-Until law says otherwise -> prior English use continues
+UNTIL STATE LAW OTHERWISE PROVIDES -> English continues for prior purposes
+
+BOUNDARIES -> subject to Articles 346 and 347
+           -> no Eighth-Schedule prerequisite.
 ```
 
-*Caption: Article 345 combines legislative choice, functional differentiation and continuity.*
+#### Claim -> named evidence -> analysis -> qualification
 
-#### Visual 19 — Scheduled Status Is Not a Gate
+- **Claim:** Article 345 gives States continuing legislative discretion to design multilingual official use.
+- **Named evidence:** Article 345; U.P. Hindi Sahitya Sammelan v. State of U.P. (2014).
+- **Analysis:** In upholding Urdu as a second official language for specified purposes, the Supreme Court treated Part XVII as accommodative and held that prior adoption of Hindi did not exhaust the State legislature's Article 345 power.
+- **Qualification:** A language other than Hindi must satisfy Article 345's “in use in the State” condition, and the exercise remains subject to Articles 346 and 347.
 
-| Proposition | Verdict |
-|---|---:|
-| State must choose only an Eighth-Schedule language | False |
-| State may adopt more than one language | True |
-| State may specify different official purposes | True |
-| English continuity is automatic forever regardless of State law | False |
-| Article 345 operates subject to Articles 346 and 347 | True |
+#### Evidence
 
-*Caption: Scheduled recognition and State administrative adoption are separate legal questions.*
+- `[FACT]` The power extends to all or any official purposes.
+- `[FACT]` It may be exercised from time to time; Hindi need not remain the State's only official language.
+- `[FACT]` Article 347 is not the exclusive route for every additional State official language.
+- `[FACT]` Eighth-Schedule inclusion is not a textual precondition.
+- `[LIMIT]` Article 345 does not change Union or Supreme Court language rules.
 
-[FACT] Article 346 provides that the language authorised for Union official purposes is the official language for communication between States and between a State and the Union. Its proviso allows two or more States to agree to use Hindi between themselves.
+#### Prelims trap
 
-[FACT] The Official Languages Act section 3 overlays this constitutional baseline: English shall be used for Union communication with a State that has not adopted Hindi; Hindi communication from a Hindi-adopting State to a non-Hindi State requires an English translation, unless the statutory agreement/choice proviso applies.
+say a State needs Parliament's permission for every official-language choice or that choosing Hindi permanently exhausts its legislative power.
 
-#### Visual 20 — Intergovernmental Communication Layers
+#### Mains use
+
+Use the case to show cooperative federalism through State-level multilingual design.
+
+#### Recap
+
+Article 345 authorises evolving State choices while Articles 346-347 preserve intergovernmental and minority safeguards.
+
+#### CLOSING RECALL FLOW — ARTICLE 345 AND STATE OFFICIAL-LANGUAGE AUTONOMY
 
 ```text
-ARTICLE 346 BASELINE
-language authorised for Union official purposes
-          |
-          v
-OFFICIAL LANGUAGES ACT SECTION 3
-specific English/Hindi communication safeguards
-          |
-          v
-STATE AGREEMENT / CHOICE
-Hindi may be used where constitutionally/statutorily allowed
+START / CONCEPT: ARTICLE 345 AND STATE OFFICIAL-LANGUAGE AUTONOMY
+EXACT TERMS: Article 345 | one or more languages | language in use | State legislation | English continuity | U.P. Hindi Sahitya Sammelan
+MECHANISM / ARGUMENT: Article 345 gives States continuing legislative discretion to design multilingual official use.
+CONSEQUENCE / CONTRAST: In upholding Urdu as a second official language for specified purposes, the Supreme Court treated Part XVII as accommodative and held that prior adoption of Hindi did not exhaust the State legislature's Article 345 power.
+UPSC TRAP / ANSWER-USE: Do not say a State needs Parliament's permission for every official-language choice or that choosing Hindi permanently exhausts its legislative power.
+ANSWER-GRABBING FORMULATION: State official-language power is plural, repeatable and not confined to Eighth-Schedule languages.
 ```
 
-*Caption: Read Article 346 with section 3 rather than in isolation.*
 
-[FACT] Article 347 operates on a demand. If the President is satisfied that a **substantial proportion** of a State’s population desires official recognition of a language spoken by them, the President may direct recognition throughout the State or a part of it for a specified purpose.
-
-[LIMIT] The Constitution does not prescribe a fixed percentage for “substantial proportion”. Nor does a demand automatically produce recognition; presidential satisfaction and the terms of the direction matter.
-
-#### Visual 21 — Article 347 Trigger Test
-
-```text
-DEMAND BY LANGUAGE-SPEAKING SECTION
-                |
-                v
-PRESIDENTIAL SATISFACTION:
-substantial proportion desires recognition
-                |
-                v
-DISCRETIONARY DIRECTION
-whole State OR part of State
-specified purpose
-```
-
-*Caption: Demand is necessary, but recognition is neither automatic nor percentage-defined.*
-
-#### Visual 22 — Articles 345-347 in One Matrix
-
-| Article | Principal actor | Core subject | Minority/federal control |
-|---:|---|---|---|
-| 345 | State Legislature | State official language(s) | Language in use/Hindi; subject to 346-347 |
-| 346 | Union and States | Intergovernmental communication | State agreement proviso + statutory overlay |
-| 347 | President | Recognition of a language spoken by a section | Demand + substantial proportion + satisfaction |
-
-*Caption: Chapter II balances State autonomy, national communication and intra-State linguistic claims.*
-
-#### CLOSING RECALL FLOW — ARTICLES 345-347: STATE AND REGIONAL LANGUAGES
-
-```text
-START / CONCEPT: Articles 345-347: State and Regional Languages
-        |
-        v
-EXACT TERMS: Articles 345-347 · Regional Languages · not · substantial proportion · False · True
-        |
-        v
-MECHANISM / ARGUMENT: Articles 345-347: State and Regional Languages operates through more than one language in use in State, connected with may assign language(s) to all or specified official purposes.
-        |
-        v
-CONSEQUENCE / CONTRAST: The decisive contrast is between State must choose only an Eighth-Schedule language False and State may adopt more than one language True.
-        |
-        v
-UPSC TRAP / ANSWER-USE: A State official language does not have to be in the Eighth Schedule.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Articles 345-347: State and Regional Languages denotes the constitutional rules and institutional links organised around one language in use in State.
-```
-### SESSION 7 — ARTICLE 348: SUPREME COURT, HIGH COURTS AND AUTHORITATIVE LEGAL TEXTS
+### SESSION 9 — ARTICLES 346 AND 347: COMMUNICATION AND RECOGNITION
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Article 348 controls higher-court proceedings and authoritative legal texts through an English baseline.
+**Plain-language definition:** Article 346 supplies the intergovernmental communication language, while Article 347 creates a presidential recognition route for a language demanded by a substantial section of a State's population.
 
-**Technical definition:** Non-English High Court proceedings and judgments follow different constitutional and statutory routes.
+**Technical definition:** Article 346 links State-State and State-Union communication to the language authorised for Union official purposes, subject to a Hindi agreement between States; Article 347 permits specified recognition after demand and presidential satisfaction.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Court-language access must preserve authoritative uniformity.
+> The two Articles solve different federal problems: interoperability between governments and protection of a linguistic section within a State.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 348**
-- **Supreme Court**
-- **High Courts**
-- **authoritative texts**
-- **English**
-- **section 7**
+- **Article 346**
+- **inter-State communication**
+- **State-Union communication**
+- **Hindi agreement**
+- **Article 347**
+- **substantial proportion**
 
-**How to use them:** Frame the answer through Article 348; define Supreme Court, connect High Courts with authoritative texts to explain the mechanism, and use English for the decisive comparison or qualification.
+**How to use them:** Separate Article 346 inter-State communication and Hindi agreement from Article 347 substantial-proportion recognition based on presidential satisfaction.
 
-Article 348: Supreme Court, High Courts and Authoritative Legal Texts denotes the constitutional rules and institutional links organised around SC proceedings - English.
-Article 348: Supreme Court, High Courts and Authoritative Legal Texts operates through every HC proceeding - English, connected with authoritative texts.
-The operative mechanism matters because bills and amendments.
-Its principal consequence is that orders / rules / regulations / bye-laws.
-The decisive contrast is between [FACT] The constitutional proviso expressly excludes judgments, decrees and orders from this Article 348(2) authorisation and GOVERNOR PROPOSES LANGUAGE AUTHORISATION.
-The exam-safe limitation is that pREVIOUS PRESIDENTIAL CONSENT.
-![Topic-specific visual map: Article 348: Supreme Court, High Courts and Authoritative Legal Texts.](assets/08_article_348_supreme_court_high_courts_and_authoritat.png)
-[FACT] Article 348 begins with a non-obstante clause and applies until Parliament by law otherwise provides. Article 348(1)(a) makes English the language of all proceedings in the Supreme Court and every High Court.
-
-[FACT] Article 348(1)(b) makes English the authoritative text of parliamentary and State Bills/amendments, Acts, ordinances, and orders, rules, regulations and bye-laws issued under the Constitution or legislation.
-
-#### Visual 23 — Article 348 Scope
+#### VISUAL FIRST
 
 ```text
-ARTICLE 348(1)
-   |
-   +--> SC proceedings -> English
-   +--> every HC proceeding -> English
-   |
-   +--> authoritative texts:
-          Bills and amendments
-          Acts
-          Ordinances
-          orders / rules / regulations / bye-laws
-```
-
-*Caption: Article 348 governs both adjudicative proceedings and the authority of legislative/delegated texts.*
-
-[FACT] Under Article 348(2), a Governor, with the **previous consent of the President**, may authorise Hindi or another language used for State official purposes in High Court proceedings at the High Court’s principal seat in that State.
-
-[FACT] The constitutional proviso expressly excludes judgments, decrees and orders from this Article 348(2) authorisation.
-
-#### Visual 24 — High Court Proceedings Gate
-
-```text
-GOVERNOR PROPOSES LANGUAGE AUTHORISATION
-                |
-                v
-PREVIOUS PRESIDENTIAL CONSENT
-                |
-                v
-HINDI / OTHER STATE OFFICIAL LANGUAGE
-may be used in HC proceedings
-                |
-                X
-Article 348(2) alone does not cover
-judgments, decrees or orders
-```
-
-*Caption: Prior consent and the judgment exception are both essential.*
-
-[FACT] Section 7 of the Official Languages Act is a separate statutory route. With previous presidential consent, the Governor may authorise Hindi or the State’s official language, **in addition to English**, for a High Court judgment, decree or order; any non-English judgment, decree or order must be accompanied by an English translation issued under High Court authority.
-
-#### Visual 25 — Proceedings vs Judgments
-
-| Question | Article 348(2) | Official Languages Act section 7 |
-|---|---|---|
-| Subject | High Court proceedings | Judgments, decrees and orders |
-| Actor | Governor | Governor |
-| Consent | Previous consent of President | Previous consent of President |
-| Permitted language | Hindi/other State official language | Hindi/State official language in addition to English |
-| English safeguard | Constitutional judgment exception | Authorised English translation required |
-
-*Caption: The statute supplements the field that Article 348(2)’s proviso excludes.*
-
-#### Visual 26 — Legal Hierarchy for a Non-English High Court Judgment
-
-```text
-ARTICLE 348(1): English baseline
-          |
-          v
-SECTION 7 STATUTORY AUTHORISATION
-Governor + previous Presidential consent
-          |
-          v
-NON-ENGLISH JUDGMENT / DECREE / ORDER
-          |
-          v
-ENGLISH TRANSLATION
-issued under authority of High Court
-```
-
-*Caption: Language access expands, while an authoritative English bridge preserves wider legal usability.*
-
-[FACT] Article 348(3) addresses a State that prescribes a non-English language for its Bills, Acts, ordinances or delegated texts: an English translation published under the Governor’s authority in the State Gazette is deemed the authoritative English text.
-
-[FACT] Sections 5 and 6 of the Official Languages Act separately create authorised Hindi texts of Central instruments and, in specified State cases, State Acts/ordinances. These provisions must be read with Article 348 rather than used to erase it.
-
-#### Visual 27 — Authoritative-Text Triangle
-
-```text
-                ARTICLE 348
-          English authoritative baseline
-             /                 \
-            /                   \
-SECTION 5: authorised       ARTICLE 348(3):
-Hindi Central texts         authorised English
-                            translation of State text
-            \                   /
-             \                 /
-              SECTION 6
-       authorised Hindi State translation
-```
-
-*Caption: Multilingual authoritative texts require an express constitutional or statutory route.*
-
-#### Visual 28 — Translation-Risk Chain
-
-```text
-ORIGINAL LEGAL TEXT
-      |
-      v
-TRANSLATION
-      |
-      +--> terminology mismatch
-      +--> omitted qualifier
-      +--> inconsistent amendment update
-      +--> machine-generated ambiguity
-      |
-      v
-HUMAN LEGAL VERIFICATION + VERSION CONTROL
-      |
-      v
-RELIABLE MULTILINGUAL ACCESS
-```
-
-*Caption: Translation technology can expand access only if authority, version and human review remain visible.*
-
-#### CLOSING RECALL FLOW — ARTICLE 348: SUPREME COURT, HIGH COURTS AND AUTHORITATIVE LEGAL TEXTS
-
-```text
-START / CONCEPT: Article 348: Supreme Court, High Courts and Authoritative Legal Texts
+ARTICLE 346
+Union-authorised official language
         |
-        v
-EXACT TERMS: Article 348 · Supreme Court · High Courts · authoritative texts · English · section 7
+        +-> State <-> Union communication
+        +-> State <-> State communication
+        +-> two or more States may agree on Hindi
+
+ARTICLE 347
+demand by linguistic section
         |
-        v
-MECHANISM / ARGUMENT: Apply Article 348(2) to proceedings and section 7 to judgments with English translation.
+President satisfied of substantial proportion
         |
-        v
-CONSEQUENCE / CONTRAST: Access can expand without losing a common precedential text.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not let a Governor authorise judgments under Article 348(2) alone.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Court-language access must preserve authoritative uniformity.
+recognition throughout State / part / specified purpose.
 ```
-### SESSION 8 — ARTICLE 349: A HISTORICALLY BOUNDED SAFEGUARD
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Articles 346 and 347 preserve communication across governments without eliminating local linguistic claims.
+- **Named evidence:** Articles 346-347; Official Languages Act, 1963, section 3 communication provisos.
+- **Analysis:** Article 346 provides a common channel, while Article 347 allows targeted recognition where a substantial population seeks it.
+- **Qualification:** The Constitution sets no numerical percentage for “substantial proportion”; recognition is not automatic and the presidential direction may be purpose- or area-specific.
+
+#### Evidence
+
+- `[FACT]` Article 346's proviso permits States to agree to use Hindi between themselves.
+- `[FACT]` The 1963 Act overlays Article 346 with specific English-use and translation rules.
+- `[FACT]` Article 347 is activated by demand and presidential satisfaction.
+- `[LIMIT]` Neither Article adds a language to the Eighth Schedule.
+- `[ANALYSIS]` The pair expresses federal reciprocity: common communication plus bounded minority recognition.
+
+#### Prelims trap
+
+treat Article 347 as an automatic right triggered by any petition or as Parliament's procedure for adding a scheduled language.
+
+#### Mains use
+
+Use the two-track visual in answers on Union-State communication or linguistic-minority recognition.
+
+#### Recap
+
+Article 346 manages governmental communication; Article 347 manages targeted recognition after a constitutionally specified satisfaction process.
+
+#### CLOSING RECALL FLOW — ARTICLES 346 AND 347: COMMUNICATION AND RECOGNITION
+
+```text
+START / CONCEPT: ARTICLES 346 AND 347: COMMUNICATION AND RECOGNITION
+EXACT TERMS: Article 346 | inter-State communication | State-Union communication | Hindi agreement | Article 347 | substantial proportion
+MECHANISM / ARGUMENT: Articles 346 and 347 preserve communication across governments without eliminating local linguistic claims.
+CONSEQUENCE / CONTRAST: Article 346 provides a common channel, while Article 347 allows targeted recognition where a substantial population seeks it.
+UPSC TRAP / ANSWER-USE: Do not treat Article 347 as an automatic right triggered by any petition or as Parliament's procedure for adding a scheduled language.
+ANSWER-GRABBING FORMULATION: The two Articles solve different federal problems: interoperability between governments and protection of a linguistic section within a State.
+```
+
+
+### SESSION 10 — ARTICLE 348: SUPREME COURT, HIGH COURTS AND PROCEEDINGS
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Article 349: A Historically Bounded Safeguard denotes the constitutional rules and institutional links organised around 1950 ------------------------------ 1965.
+**Plain-language definition:** Article 348 ordinarily keeps Supreme Court and High Court proceedings in English until Parliament provides otherwise.
 
-**Technical definition:** Its principal consequence is that consideration of Article 344 materials.
+**Technical definition:** Clause (2) permits a Governor, with the President's previous consent, to authorise Hindi or another State official language in proceedings of the High Court having its principal seat in that State, but excludes judgments, decrees and orders.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Article 349: A Historically Bounded Safeguard denotes the constitutional rules and institutional links organised around 1950 ------------------------------ 1965.
+> Higher-court language changes require the precise Article 348 route; State policy alone cannot switch the language of adjudication.
+
+#### MUST-WRITE KEYWORDS
+
+- **Article 348(1)(a)**
+- **English proceedings**
+- **High Court principal seat**
+- **Governor authorisation**
+- **previous presidential consent**
+- **judgment exclusion**
+
+**How to use them:** Begin with the English baseline, identify the clause (2) actor and consent gate, and finish by separating proceedings from judgments.
+
+#### VISUAL FIRST
+
+```text
+SUPREME COURT PROCEEDINGS
+        |
+        +-> English until Parliament by law otherwise provides
+
+HIGH COURT PROCEEDINGS
+        |
+        +-> English baseline
+        +-> Governor may authorise Hindi / State official language
+              |
+              +-> previous consent of President required
+              +-> High Court having principal seat in that State
+              +-> NOT judgments, decrees or orders under Art. 348(2).
+```
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Article 348 creates an authoritative national baseline with a controlled High Court proceedings exception.
+- **Named evidence:** Article 348(1)(a) and 348(2).
+- **Analysis:** The common English baseline supports precedent circulation and all-India judicial work, while the consent route permits bounded regional accessibility.
+- **Qualification:** Article 348(2) does not apply to the Supreme Court, subordinate courts, or High Court judgments, decrees and orders.
+
+#### Evidence
+
+- `[FACT]` The controlling phrase is “until Parliament by law otherwise provides”.
+- `[FACT]` The Governor cannot act without previous presidential consent.
+- `[FACT]` The authorised language must be Hindi or another language used for the State's official purposes.
+- `[FACT]` The proviso expressly excludes judgments, decrees and orders.
+- `[ANALYSIS]` Access arguments cannot replace the prescribed legal route.
+
+#### Prelims trap
+
+say a High Court may freely switch language by its own administrative order or that Article 348(2) itself covers judgments.
+
+#### Mains use
+
+Use the baseline-exception structure in any court-language answer before discussing translation reform.
+
+#### Recap
+
+Court accessibility is constitutionally valuable, but formal language change must comply with Article 348's actor, consent and subject-matter limits.
+
+#### CLOSING RECALL FLOW — ARTICLE 348: SUPREME COURT, HIGH COURTS AND PROCEEDINGS
+
+```text
+START / CONCEPT: ARTICLE 348: SUPREME COURT, HIGH COURTS AND PROCEEDINGS
+EXACT TERMS: Article 348(1)(a) | English proceedings | High Court principal seat | Governor authorisation | previous presidential consent | judgment exclusion
+MECHANISM / ARGUMENT: Article 348 creates an authoritative national baseline with a controlled High Court proceedings exception.
+CONSEQUENCE / CONTRAST: The common English baseline supports precedent circulation and all-India judicial work, while the consent route permits bounded regional accessibility.
+UPSC TRAP / ANSWER-USE: Do not say a High Court may freely switch language by its own administrative order or that Article 348(2) itself covers judgments.
+ANSWER-GRABBING FORMULATION: Higher-court language changes require the precise Article 348 route; State policy alone cannot switch the language of adjudication.
+```
+
+
+### SESSION 11 — AUTHORITATIVE LEGISLATIVE TEXTS AND HIGH COURT JUDGMENTS
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** An authoritative text is the legally controlling version produced through the Constitution or a statute, not any convenient translation.
+
+**Technical definition:** Article 348(1)(b) establishes English authoritative texts; Article 348(3), Official Languages Act sections 5-7 and the Authoritative Texts (Central Laws) Act, 1973 create specified additional authoritative routes.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Multilingual legal access requires both translation and an explicit chain of legal authority.
+
+#### MUST-WRITE KEYWORDS
+
+- **Article 348(1)(b)**
+- **Article 348(3)**
+- **authoritative text**
+- **sections 5-7**
+- **Governor authority**
+- **High Court-authorised translation**
+
+**How to use them:** Classify the Article 348 authoritative text, sections 5-7 route, Governor authority and High Court-authorised translation before stating legal effect.
+
+#### VISUAL FIRST
+
+```text
+DOCUMENT
+  |
+  +-> Central Act / Presidential Ordinance / delegated text
+  |      -> s.5 President-authorised Gazette Hindi text
+  |
+  +-> State Act / Governor Ordinance in non-English language
+  |      -> Art. 348(3) Governor-authorised Gazette English text
+  |      -> s.6 may add Governor-authorised Gazette Hindi text
+  |
+  +-> High Court judgment / decree / order
+         -> s.7 Governor + previous President consent
+         -> non-English text IN ADDITION TO English
+         -> High Court-authorised English translation.
+```
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Legal authority attaches to a prescribed publication and authorisation process rather than to linguistic accuracy alone.
+- **Named evidence:** Article 348(1)(b) and (3); Official Languages Act sections 5-7; Authoritative Texts (Central Laws) Act, 1973.
+- **Analysis:** The system permits wider language access while preserving a nationally usable authoritative version for interpretation and precedent.
+- **Qualification:** Machine translation, a departmental web translation or an unofficial bilingual edition is not automatically authoritative law.
+
+#### Evidence
+
+- `[FACT]` Article 348(1)(b) covers Bills/amendments, Acts, ordinances, orders, rules, regulations and bye-laws.
+- `[FACT]` Article 348(3) gives authoritative English status to the Governor-authorised Gazette translation of specified State texts.
+- `[FACT]` Section 5 creates authoritative Hindi versions of specified Central material.
+- `[FACT]` Section 6 operates in addition to, not instead of, the Article 348(3) English translation.
+- `[FACT]` Section 7 requires an English translation issued under High Court authority.
+
+#### Prelims trap
+
+assume that accuracy, software generation or publication on a website alone makes a translation authoritative.
+
+#### Mains use
+
+Use the document-route tree to answer questions on multilingual legislation or judicial translation without conflating separate provisions.
+
+#### Recap
+
+The governing question is not merely “which language?” but “which authorised text controls, under which provision?”
+
+#### CLOSING RECALL FLOW — AUTHORITATIVE LEGISLATIVE TEXTS AND HIGH COURT JUDGMENTS
+
+```text
+START / CONCEPT: AUTHORITATIVE LEGISLATIVE TEXTS AND HIGH COURT JUDGMENTS
+EXACT TERMS: Article 348(1)(b) | Article 348(3) | authoritative text | sections 5-7 | Governor authority | High Court-authorised translation
+MECHANISM / ARGUMENT: Legal authority attaches to a prescribed publication and authorisation process rather than to linguistic accuracy alone.
+CONSEQUENCE / CONTRAST: The system permits wider language access while preserving a nationally usable authoritative version for interpretation and precedent.
+UPSC TRAP / ANSWER-USE: Do not assume that accuracy, software generation or publication on a website alone makes a translation authoritative.
+ANSWER-GRABBING FORMULATION: Multilingual legal access requires both translation and an explicit chain of legal authority.
+```
+
+
+### SESSION 12 — ARTICLE 349: THE TIME-BOUNDED SPECIAL PROCEDURE
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Article 349 imposed an additional presidential-sanction procedure for specified language Bills during the Constitution's first fifteen years.
+
+**Technical definition:** For that limited period, a Bill or amendment concerning the language of Article 348(1) purposes could not be introduced or moved without previous presidential sanction after consideration of the Article 344 Commission and committee materials.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Article 349 protected the founding transition, but its temporal condition prevents its use as a routine present-day gate.
 
 #### MUST-WRITE KEYWORDS
 
 - **Article 349**
-- **A Historically Bounded Safeguard**
-- **during the first fifteen years**
-- **Article 348**
-- **Article 344**
-- **Article 349: A Historically Bounded Safeguard**
+- **first fifteen years**
+- **previous presidential sanction**
+- **Article 348 purposes**
+- **Commission recommendations**
+- **historical safeguard**
 
-**How to use them:** Frame the answer through Article 349; define A Historically Bounded Safeguard, connect during the first fifteen years with Article 348 to explain the mechanism, and use Article 344 for the decisive comparison or qualification.
+**How to use them:** State Article 349, the first fifteen years, previous presidential sanction and Article 348 purposes together before calling it a historical safeguard.
 
-Article 349: A Historically Bounded Safeguard denotes the constitutional rules and institutional links organised around 1950 ------------------------------ 1965.
-Article 349: A Historically Bounded Safeguard operates through SPECIAL PROCEDURE OPERATIVE, connected with Bill/amendment on Article 348(1) purposes.
-The operative mechanism matters because previous Presidential sanction.
-Its principal consequence is that consideration of Article 344 materials.
-The decisive contrast is between do not write Article 349 as a perpetual ordinary gate and 1950 ------------------------------ 1965.
-The exam-safe limitation is that 1950 ------------------------------ 1965.
-[FACT] Article 349 applied **during the first fifteen years** from constitutional commencement. During that period, a Bill or amendment concerning the language used for Article 348(1) purposes required previous presidential sanction, and the President had to consider the Article 344 Commission’s recommendations and committee report.
-
-[CURRENT] The fifteen-year period ended in 1965. Article 349 remains in the constitutional text as a historical transitional provision; it is not a routine current precondition for every modern language-related Bill.
-
-#### Visual 29 — Article 349 Time Box
+#### VISUAL FIRST
 
 ```text
-1950 ------------------------------ 1965
-     SPECIAL PROCEDURE OPERATIVE
-Bill/amendment on Article 348(1) purposes
- -> previous Presidential sanction
- -> consideration of Article 344 materials
+1950 -------------------------------- 1965
+        FIRST FIFTEEN YEARS ONLY
+                 |
+Bill/amendment on Article 348(1) language purposes
+                 |
+previous presidential sanction
+                 |
+President considers Art. 344 Commission recommendations
+and parliamentary committee report
 
-AFTER 1965
-do not write Article 349 as a perpetual ordinary gate
+AFTER WINDOW -> Article remains printed, but this special temporal gate expired.
 ```
 
-*Caption: A provision may remain printed in the Constitution while its expressly bounded period has expired.*
+#### Claim -> named evidence -> analysis -> qualification
 
-#### CLOSING RECALL FLOW — ARTICLE 349: A HISTORICALLY BOUNDED SAFEGUARD
+- **Claim:** Article 349 was a transition-control provision rather than a permanent veto over language legislation.
+- **Named evidence:** Article 349 read with Articles 344 and 348.
+- **Analysis:** The procedure connected early language legislation to the review machinery while political and administrative capacity developed.
+- **Qualification:** The printed survival of a constitutional provision does not erase an express expired time condition.
+
+#### Evidence
+
+- `[FACT]` The period is fifteen years from commencement.
+- `[FACT]` The covered subject is language for purposes mentioned in Article 348(1).
+- `[FACT]` Previous presidential sanction depended on considering Article 344 materials.
+- `[LIMIT]` It should not be invoked as the current route for every language Bill.
+- `[ANALYSIS]` The provision shows how the Constitution managed transitional risk procedurally.
+
+#### Prelims trap
+
+describe Article 349 as a permanent requirement for adding a language to the Eighth Schedule or changing every State language law.
+
+#### Mains use
+
+Use it as evidence of the Constitution's careful transitional design, with an express temporal qualification.
+
+#### Recap
+
+Article 349 is historically important but not an evergreen procedural barrier.
+
+#### CLOSING RECALL FLOW — ARTICLE 349: THE TIME-BOUNDED SPECIAL PROCEDURE
 
 ```text
-START / CONCEPT: Article 349: A Historically Bounded Safeguard
-        |
-        v
-EXACT TERMS: Article 349 · A Historically Bounded Safeguard · during the first fifteen years · Article 348 · Article 344 · Article 349: A Historically Bounded Safeguard
-        |
-        v
-MECHANISM / ARGUMENT: During that period, a Bill or amendment concerning the language used for Article 348(1) purposes required previous presidential sanction, and the President had to consider the Article 344 Commission’s recommendations and committee report.
-        |
-        v
-CONSEQUENCE / CONTRAST: Its principal consequence is that consideration of Article 344 materials.
-        |
-        v
-UPSC TRAP / ANSWER-USE: The decisive contrast is between do not write Article 349 as a perpetual ordinary gate and 1950 ------------------------------ 1965.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Article 349: A Historically Bounded Safeguard denotes the constitutional rules and institutional links organised around 1950 ------------------------------ 1965.
+START / CONCEPT: ARTICLE 349: THE TIME-BOUNDED SPECIAL PROCEDURE
+EXACT TERMS: Article 349 | first fifteen years | previous presidential sanction | Article 348 purposes | Commission recommendations | historical safeguard
+MECHANISM / ARGUMENT: Article 349 was a transition-control provision rather than a permanent veto over language legislation.
+CONSEQUENCE / CONTRAST: The procedure connected early language legislation to the review machinery while political and administrative capacity developed.
+UPSC TRAP / ANSWER-USE: Do not describe Article 349 as a permanent requirement for adding a language to the Eighth Schedule or changing every State language law.
+ANSWER-GRABBING FORMULATION: Article 349 protected the founding transition, but its temporal condition prevents its use as a routine present-day gate.
 ```
-### SESSION 9 — ARTICLES 350, 350A AND 350B: ACCESS AND LINGUISTIC-MINORITY SAFEGUARDS
+
+
+### SESSION 13 — ARTICLES 120 AND 210: LANGUAGE IN LEGISLATURES
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Articles 350, 350A and 350B: Access and Linguistic-Minority Safeguards denotes the constitutional rules and institutional links organised around PERSON WITH GRIEVANCE.
+**Plain-language definition:** Articles 120 and 210 regulate the language of parliamentary and State-legislative business separately from Part XVII's executive-language rules.
 
-**Technical definition:** The exam-safe limitation is that beneficiary Children belonging to linguistic-minority groups.
+**Technical definition:** Article 120 permits Hindi or English in Parliament, subject to Article 348, with presiding-officer permission for a member's mother tongue; Article 210 uses the State official language or languages, Hindi or English, with a similar permission.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Articles 350, 350A and 350B: Access and Linguistic-Minority Safeguards denotes the constitutional rules and institutional links organised around PERSON WITH GRIEVANCE.
+> Legislative speech, Union administration and authoritative legislative text are different legal questions.
 
 #### MUST-WRITE KEYWORDS
 
-- **Articles 350**
-- **Access**
-- **Linguistic-Minority Safeguards**
-- **endeavour**
-- **350A**
-- **350B**
+- **Article 120**
+- **Article 210**
+- **legislative business**
+- **mother-tongue permission**
+- **subject to Article 348**
+- **Official Languages Act section 3**
 
-**How to use them:** Frame the answer through Articles 350; define Access, connect Linguistic-Minority Safeguards with endeavour to explain the mechanism, and use 350A for the decisive comparison or qualification.
+**How to use them:** Identify the forum first—Parliament or State legislature—then distinguish debate language from the authoritative text controlled by Article 348.
 
-Articles 350, 350A and 350B: Access and Linguistic-Minority Safeguards denotes the constitutional rules and institutional links organised around PERSON WITH GRIEVANCE.
-Articles 350, 350A and 350B: Access and Linguistic-Minority Safeguards operates through representation in any language, connected with used in Union / State, as applicable.
-The operative mechanism matters because uNION OR STATE OFFICER / AUTHORITY.
-Its principal consequence is that lIMIT: representation language != automatic language of every later stage.
-The decisive contrast is between Element Constitutional text and Duty bearer Every State and every local authority within it.
-The exam-safe limitation is that beneficiary Children belonging to linguistic-minority groups.
-![Topic-specific visual map: Articles 350, 350A and 350B: Access and Linguistic-Minority Safeguards.](assets/09_articles_350_350a_and_350b_access_and_linguistic_min.png)
-[FACT] Article 350 entitles every person to submit a representation for grievance redress to any Union or State officer/authority in any language used in the Union or State, as the case may be.
+#### VISUAL FIRST
 
-[ANALYSIS] Article 350 lowers a language barrier at the entry point of administration. It does not necessarily require every official proceeding or final order to use the representor’s chosen language.
+```text
+PARLIAMENT BUSINESS -> Art. 120: Hindi or English
+                     -> presiding officer may permit mother tongue
+                     -> s.3(1)(b) continues English after transition
 
-#### Visual 30 — Article 350 Access Route
+STATE LEGISLATURE -> Art. 210: State official language(s), Hindi or English
+                  -> presiding officer may permit mother tongue
+                  -> clause (2) contains historical/state-specific transition text
+
+AUTHORITATIVE BILL / ACT TEXT -> Article 348, not merely floor-language choice.
+```
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Articles 120 and 210 protect workable deliberation while Article 348 separately protects authoritative legal text.
+- **Named evidence:** Articles 120 and 210; Article 348; Official Languages Act, 1963, section 3(1)(b).
+- **Analysis:** A member may speak in an authorised or permitted language, yet the legally authoritative Bill or Act still follows Article 348 and applicable translation law.
+- **Qualification:** Mother-tongue permission is given by the presiding officer to a member unable adequately to express himself or herself in the listed languages; it is not an automatic rule for every document.
+
+#### Evidence
+
+- `[FACT]` Article 120 begins notwithstanding Part XVII but subject to Article 348.
+- `[FACT]` Section 3(1)(b) supplies continued English use for parliamentary business.
+- `[FACT]` Article 210 includes the State's official language or languages, Hindi or English.
+- `[FACT]` Article 210(2) contains historical transition periods, including State-specific extensions in its provisos.
+- `[LIMIT]` Debate language does not by itself determine the authoritative text.
+
+#### Prelims trap
+
+use Article 343 alone to answer the language of parliamentary debate, or infer that a speech language automatically becomes the authoritative legislative language.
+
+#### Mains use
+
+Use the forum-text distinction to structure answers involving Parliament, State legislatures and bilingual legislation.
+
+#### Recap
+
+Articles 120 and 210 govern legislative business; Article 348 governs authoritative legal texts.
+
+#### CLOSING RECALL FLOW — ARTICLES 120 AND 210: LANGUAGE IN LEGISLATURES
+
+```text
+START / CONCEPT: ARTICLES 120 AND 210: LANGUAGE IN LEGISLATURES
+EXACT TERMS: Article 120 | Article 210 | legislative business | mother-tongue permission | subject to Article 348 | Official Languages Act section 3
+MECHANISM / ARGUMENT: Articles 120 and 210 protect workable deliberation while Article 348 separately protects authoritative legal text.
+CONSEQUENCE / CONTRAST: A member may speak in an authorised or permitted language, yet the legally authoritative Bill or Act still follows Article 348 and applicable translation law.
+UPSC TRAP / ANSWER-USE: Do not use Article 343 alone to answer the language of parliamentary debate, or infer that a speech language automatically becomes the authoritative legislative language.
+ANSWER-GRABBING FORMULATION: Legislative speech, Union administration and authoritative legislative text are different legal questions.
+```
+
+
+### SESSION 14 — ARTICLE 350: LANGUAGE OF GRIEVANCE REPRESENTATION
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Article 350 gives every person access to grievance redress by allowing a representation in a language used in the Union or the State, as the case may be.
+
+**Technical definition:** The provision protects the language of submission to any Union or State officer or authority; it does not prescribe every later procedural or decisional language.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Article 350 makes linguistic access an administrative-justice principle without converting personal choice into an unlimited language-of-proceedings right.
+
+#### MUST-WRITE KEYWORDS
+
+- **Article 350**
+- **every person**
+- **representation**
+- **redress of grievance**
+- **officer or authority**
+- **language used**
+
+**How to use them:** Write Article 350, every person, representation, redress of grievance and officer or authority before explaining the access limit.
+
+#### VISUAL FIRST
 
 ```text
 PERSON WITH GRIEVANCE
         |
-        | representation in any language
-        | used in Union / State, as applicable
         v
-UNION OR STATE OFFICER / AUTHORITY
+representation to Union / State officer or authority
         |
         v
-REDRESS PROCESS
+may use a language used in Union / State, as applicable
+        |
+        v
+ADMINISTRATIVE ACCESS
 
-LIMIT: representation language != automatic language of every later stage
+NOT AUTOMATIC:
+chosen language for every hearing, record, investigation or final order.
 ```
 
-*Caption: The Article protects access to grievance submission, not an unlimited language-of-proceeding right.*
+#### Claim -> named evidence -> analysis -> qualification
 
-[FACT] Article 350A says it shall be the **endeavour** of every State and local authority within it to provide adequate facilities for mother-tongue instruction at the primary stage to children belonging to linguistic-minority groups. The President may issue directions considered necessary or proper to secure such facilities.
+- **Claim:** Article 350 protects entry into the grievance system against a language barrier.
+- **Named evidence:** Article 350.
+- **Analysis:** The provision widens administrative voice and can be reinforced by multilingual portals, translation and trained receiving offices.
+- **Qualification:** Its text concerns submission of a representation; other stages remain governed by applicable law and fair-procedure requirements.
 
-[LIMIT] The text is not framed as an absolute, self-executing Fundamental Right to a particular school, curriculum or medium in every circumstance. “Endeavour”, “adequate facilities”, institutional capacity and presidential directions must be kept visible.
+#### Evidence
 
-#### Visual 31 — Article 350A Duty Anatomy
+- `[FACT]` The beneficiary is every person, not only a citizen or scheduled-language speaker.
+- `[FACT]` The addressee may be any officer or authority of the Union or a State.
+- `[FACT]` The language must be one used in the Union or State, as applicable.
+- `[ANALYSIS]` Technology can improve the practical reach of the right.
+- `[LIMIT]` Article 350 does not itself command that all official replies be issued in the representer's chosen language.
 
-| Element | Constitutional text |
-|---|---|
-| Duty bearer | Every State and every local authority within it |
-| Beneficiary | Children belonging to linguistic-minority groups |
-| Stage | Primary stage of education |
-| Object | Adequate facilities for mother-tongue instruction |
-| Verb | “Shall be the endeavour” |
-| Union control | President may issue directions |
+#### Prelims trap
 
-*Caption: Accurate writing preserves both the safeguard and its qualified textual form.*
+expand Article 350 into an absolute right to conduct every administrative or judicial proceeding in any chosen language.
 
-[FACT] Articles 29 and 30 provide adjacent cultural and educational protections. Article 29(1) protects the right of a section of citizens with a distinct language, script or culture to conserve it; Article 30 protects minorities based on religion or language in establishing and administering educational institutions.
+#### Mains use
 
-[LIMIT] Article 350A should not be mechanically merged with Articles 29-30. They have different language, beneficiaries, institutional consequences and justiciability structures.
+Use Article 350 as a concrete access-to-administration safeguard in governance and inclusion answers.
 
-#### Visual 32 — Linguistic-Minority Safeguard Ecosystem
+#### Recap
+
+Article 350 secures multilingual entry to grievance redress, not unrestricted control over every later procedural language.
+
+#### CLOSING RECALL FLOW — ARTICLE 350: LANGUAGE OF GRIEVANCE REPRESENTATION
 
 ```text
-ARTICLE 29(1) -> conserve distinct language/script/culture
-ARTICLE 30    -> minority educational institutions
-ARTICLE 347   -> possible official recognition on demand
-ARTICLE 350   -> grievance representation language
-ARTICLE 350A  -> primary mother-tongue facility endeavour
-ARTICLE 350B  -> investigation and reporting officer
+START / CONCEPT: ARTICLE 350: LANGUAGE OF GRIEVANCE REPRESENTATION
+EXACT TERMS: Article 350 | every person | representation | redress of grievance | officer or authority | language used
+MECHANISM / ARGUMENT: Article 350 protects entry into the grievance system against a language barrier.
+CONSEQUENCE / CONTRAST: The provision widens administrative voice and can be reinforced by multilingual portals, translation and trained receiving offices.
+UPSC TRAP / ANSWER-USE: Do not expand Article 350 into an absolute right to conduct every administrative or judicial proceeding in any chosen language.
+ANSWER-GRABBING FORMULATION: Article 350 makes linguistic access an administrative-justice principle without converting personal choice into an unlimited language-of-proceedings right.
 ```
 
-*Caption: Protection is distributed across cultural rights, education, administration and oversight.*
 
-[FACT] Article 350B creates a Special Officer for linguistic minorities appointed by the President. The officer investigates all matters relating to constitutional safeguards for linguistic minorities and reports to the President at directed intervals. The President causes reports to be laid before each House of Parliament and sent to the concerned State Governments.
-
-[CURRENT] The Ministry of Minority Affairs identifies the office as the Commissioner for Linguistic Minorities and confirms the reporting and State/Union Territory engagement role. Its official page also makes clear that a linguistic-minority language need not be one of the 22 scheduled languages.
-
-#### Visual 33 — Article 350B Accountability Route
-
-```text
-PRESIDENT APPOINTS SPECIAL OFFICER
-              |
-              v
-INVESTIGATE CONSTITUTIONAL SAFEGUARDS
-              |
-              v
-REPORT TO PRESIDENT
-              |
-              +--> laid before Lok Sabha
-              +--> laid before Rajya Sabha
-              +--> sent to concerned State Governments
-```
-
-*Caption: The office investigates and reports; it is not a substitute legislature, court or enforcement agency.*
-
-#### Visual 34 — Minority Is Contextual
-
-| Level | Practical comparison |
-|---|---|
-| State | Mother tongue differs from the State’s principal language |
-| District | Mother tongue differs from the district’s principal language |
-| Taluka/tehsil | Mother tongue differs from that local unit’s principal language |
-| Scheduled status | Not required for linguistic-minority character |
-
-*Caption: Linguistic minority is relational and territorial, not confined to the Eighth Schedule.*
-
-#### CLOSING RECALL FLOW — ARTICLES 350, 350A AND 350B: ACCESS AND LINGUISTIC-MINORITY SAFEGUARDS
-
-```text
-START / CONCEPT: Articles 350, 350A and 350B: Access and Linguistic-Minority Safeguards
-        |
-        v
-EXACT TERMS: Articles 350 · Access · Linguistic-Minority Safeguards · endeavour · 350A · 350B
-        |
-        v
-MECHANISM / ARGUMENT: Article 350B creates a Special Officer for linguistic minorities appointed by the President.
-        |
-        v
-CONSEQUENCE / CONTRAST: Article 350A should not be mechanically merged with Articles 29-30.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Its principal consequence is that lIMIT: representation language != automatic language of every later stage.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Articles 350, 350A and 350B: Access and Linguistic-Minority Safeguards denotes the constitutional rules and institutional links organised around PERSON WITH GRIEVANCE.
-```
-### SESSION 10 — ARTICLE 351: DEVELOPMENT OF HINDI WITHIN COMPOSITE CULTURE
+### SESSION 15 — ARTICLES 350A AND 350B: LINGUISTIC-MINORITY SAFEGUARDS
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Article 351: Development of Hindi Within Composite Culture denotes the constitutional rules and institutional links organised around medium for India's composite culture.
+**Plain-language definition:** Articles 350A and 350B combine a mother-tongue instruction endeavour with an investigative reporting institution for linguistic safeguards.
 
-**Technical definition:** Article 351 is a directive in Part XVII, not a licence to suppress State languages, minority languages, English safeguards or other constitutional guarantees.
+**Technical definition:** Article 350A directs every State and local authority to endeavour to provide adequate primary-stage mother-tongue instruction facilities for linguistic-minority children; Article 350B creates a President-appointed Special Officer to investigate and report.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Article 351: Development of Hindi Within Composite Culture denotes the constitutional rules and institutional links organised around medium for India's composite culture.
+> The safeguards join educational inclusion to public reporting, but they do not create an unlimited coercive medium-of-instruction power.
+
+#### MUST-WRITE KEYWORDS
+
+- **Article 350A**
+- **adequate facilities**
+- **primary stage**
+- **linguistic minority**
+- **Article 350B**
+- **Special Officer reports**
+
+**How to use them:** Separate Article 350A adequate facilities at the primary stage from Article 350B Special Officer reports, and preserve the linguistic-minority qualification.
+
+#### VISUAL FIRST
+
+```text
+350A: STATE + LOCAL AUTHORITY
+      -> endeavour to provide adequate facilities
+      -> mother-tongue instruction
+      -> primary stage
+      -> children of linguistic-minority groups
+      -> President may issue directions
+
+350B: PRESIDENT APPOINTS SPECIAL OFFICER
+      -> investigates constitutional safeguards
+      -> reports at directed intervals
+      -> President lays reports before Parliament
+      -> reports sent to concerned State Governments.
+```
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Linguistic-minority protection requires both educational facilities and institutional scrutiny.
+- **Named evidence:** Articles 350A-350B, inserted by the Seventh Amendment, 1956; Special Officer reporting architecture.
+- **Analysis:** Article 350A addresses early educational access, while Article 350B creates visibility and accountability across the Constitution's linguistic safeguards.
+- **Qualification:** The Special Officer investigates and reports rather than adjudicating binding remedies; Article 350A cannot be used to compel a minority institution to use only the mother tongue contrary to protected choice.
+
+#### Evidence
+
+- `[FACT]` Both provisions were inserted by the Constitution (Seventh Amendment) Act, 1956.
+- `[FACT]` Article 350A uses “shall be the endeavour”, not an unqualified guarantee of a particular school.
+- `[FACT]` The President may issue directions to secure facilities.
+- `[FACT]` Article 350B reports are laid before each House of Parliament and sent to concerned States.
+- `[LIMIT]` The Constitution does not specify the Special Officer's qualifications, tenure or removal in Article 350B itself.
+
+#### Prelims trap
+
+call Article 350A a Part IV Directive Principle or treat the Special Officer as a court with binding enforcement power.
+
+#### Mains use
+
+Use the paired provisions to show that minority protection needs both service delivery and monitored compliance.
+
+#### Recap
+
+Article 350A protects facilities; Article 350B investigates and reports on safeguards; neither authorises linguistic compulsion.
+
+#### CLOSING RECALL FLOW — ARTICLES 350A AND 350B: LINGUISTIC-MINORITY SAFEGUARDS
+
+```text
+START / CONCEPT: ARTICLES 350A AND 350B: LINGUISTIC-MINORITY SAFEGUARDS
+EXACT TERMS: Article 350A | adequate facilities | primary stage | linguistic minority | Article 350B | Special Officer reports
+MECHANISM / ARGUMENT: Linguistic-minority protection requires both educational facilities and institutional scrutiny.
+CONSEQUENCE / CONTRAST: Article 350A addresses early educational access, while Article 350B creates visibility and accountability across the Constitution's linguistic safeguards.
+UPSC TRAP / ANSWER-USE: Do not call Article 350A a Part IV Directive Principle or treat the Special Officer as a court with binding enforcement power.
+ANSWER-GRABBING FORMULATION: The safeguards join educational inclusion to public reporting, but they do not create an unlimited coercive medium-of-instruction power.
+```
+
+
+### SESSION 16 — ARTICLE 351: DEVELOPMENT OF HINDI WITHOUT ERASING PLURALISM
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Article 351 directs the Union to promote and develop Hindi as a medium for expressing all elements of India's composite culture.
+
+**Technical definition:** The directive requires enrichment by assimilating, without interfering with Hindi's genius, forms, style and expressions from Hindustani and other Eighth-Schedule languages, with vocabulary primarily from Sanskrit and secondarily from other languages.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Article 351 imagines Hindi development through cultural assimilation, not through constitutional replacement of other languages.
 
 #### MUST-WRITE KEYWORDS
 
 - **Article 351**
-- **Development of Hindi Within Composite Culture**
-- **primarily from Sanskrit and secondarily from other languages**
-- **Promote spread of Hindi**
-- **Respect State-language autonomy**
-- **Develop expressive capacity**
+- **Union duty**
+- **composite culture**
+- **Hindustani**
+- **linguistic assimilation**
+- **promotion not coercion**
 
-**How to use them:** Frame the answer through Article 351; define Development of Hindi Within Composite Culture, connect primarily from Sanskrit and secondarily from other languages with Promote spread of Hindi to explain the mechanism, and use Respect State-language autonomy for the decisive comparison or qualification.
+**How to use them:** Use Article 351, composite culture, Hindustani, linguistic assimilation and promotion not coercion before harmonising the Union duty with plural safeguards.
 
-Article 351: Development of Hindi Within Composite Culture denotes the constitutional rules and institutional links organised around medium for India's composite culture.
-Article 351: Development of Hindi Within Composite Culture operates through forms/styles/expressions vocabulary, connected with Hindustani + scheduled primarily Sanskrit.
-The operative mechanism matters because languages secondarily other languages.
-Its principal consequence is that without interfering with Hindi's genius.
-The decisive contrast is between Constitutional objective Required qualification and Promote spread of Hindi Respect State-language autonomy.
-The exam-safe limitation is that develop expressive capacity Draw from composite culture.
-[FACT] Article 351 makes it the Union’s duty to promote the spread of Hindi and develop it as a medium of expression for all elements of India’s composite culture.
-
-[FACT] Enrichment is to assimilate, without interfering with Hindi’s genius, forms, styles and expressions used in Hindustani and in other Eighth-Schedule languages. Vocabulary is to be drawn, wherever necessary or desirable, **primarily from Sanskrit and secondarily from other languages**.
-
-[LIMIT] Article 351 is a directive in Part XVII, not a licence to suppress State languages, minority languages, English safeguards or other constitutional guarantees.
-
-#### Visual 35 — Article 351 Enrichment Tree
+#### VISUAL FIRST
 
 ```text
-                 DEVELOP HINDI
-                      |
-        medium for India's composite culture
-                      |
-         +------------+-------------+
-         |                          |
-forms/styles/expressions       vocabulary
-Hindustani + scheduled         primarily Sanskrit
-languages                     secondarily other languages
-         |
-without interfering with Hindi's genius
+UNION DUTY
+  |
+  +-> promote spread of Hindi
+  +-> develop medium for ALL elements of composite culture
+  +-> enrich WITHOUT interfering with its genius
+        |
+        +-> Hindustani forms/style/expressions
+        +-> other Eighth-Schedule languages
+        +-> vocabulary: primarily Sanskrit, secondarily other languages
+
+HARMONY -> Arts. 345-350B + OLA 1963 remain operative.
 ```
 
-*Caption: The directive is framed as enrichment through multilingual absorption, not cultural erasure.*
+#### Claim -> named evidence -> analysis -> qualification
 
-#### Visual 36 — Promotion and Pluralism Balance
+- **Claim:** Article 351 is an enrichment directive within a plural constitutional settlement.
+- **Named evidence:** Article 351 read with Articles 345-350B and Official Languages Act, 1963.
+- **Analysis:** Its textual borrowing mandate recognises that Hindi's development should absorb India's linguistic diversity rather than deny it.
+- **Qualification:** Article 351 is neither a Fundamental Right nor a Part IV DPSP, and it does not authorise coercive replacement of State languages or English contrary to governing law.
 
-| Constitutional objective | Required qualification |
-|---|---|
-| Promote spread of Hindi | Respect State-language autonomy |
-| Develop expressive capacity | Draw from composite culture |
-| Enrich vocabulary | Do not erase other-language rights |
-| Improve Union administration | Preserve section 3 safeguards |
-| Expand access | Avoid coercive one-size-fits-all implementation |
+#### Evidence
 
-*Caption: Article 351 must be harmonised with the rest of Part XVII and Fundamental Rights.*
+- `[FACT]` The duty is placed on the Union.
+- `[FACT]` The purpose is expression of all elements of composite culture.
+- `[FACT]` Assimilation must not interfere with the genius of Hindi.
+- `[FACT]` Vocabulary priority is Sanskrit first and other languages second where necessary or desirable.
+- `[ANALYSIS]` Promotion becomes constitutionally defensible when pursued through learning opportunity, translation and consent rather than exclusion.
 
-#### CLOSING RECALL FLOW — ARTICLE 351: DEVELOPMENT OF HINDI WITHIN COMPOSITE CULTURE
+#### Prelims trap
+
+read Article 351 as a supremacy clause that overrides Articles 345, 348, 350A or the 1963 Act.
+
+#### Mains use
+
+Use it to frame the promotion-versus-imposition debate with the text's own plural vocabulary.
+
+#### Recap
+
+Article 351 promotes a culturally absorptive Hindi within, not above, India's multilingual federal order.
+
+#### CLOSING RECALL FLOW — ARTICLE 351: DEVELOPMENT OF HINDI WITHOUT ERASING PLURALISM
 
 ```text
-START / CONCEPT: Article 351: Development of Hindi Within Composite Culture
-        |
-        v
-EXACT TERMS: Article 351 · Development of Hindi Within Composite Culture · primarily from Sanskrit and secondarily from other languages · Promote spread of Hindi · Respect State-language autonomy · Develop expressive capacity
-        |
-        v
-MECHANISM / ARGUMENT: The exam-safe limitation is that develop expressive capacity Draw from composite culture.
-        |
-        v
-CONSEQUENCE / CONTRAST: The decisive contrast is between Constitutional objective Required qualification and Promote spread of Hindi Respect State-language autonomy.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Article 351 is a directive in Part XVII, not a licence to suppress State languages, minority languages, English safeguards or other constitutional guarantees.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Article 351: Development of Hindi Within Composite Culture denotes the constitutional rules and institutional links organised around medium for India's composite culture.
+START / CONCEPT: ARTICLE 351: DEVELOPMENT OF HINDI WITHOUT ERASING PLURALISM
+EXACT TERMS: Article 351 | Union duty | composite culture | Hindustani | linguistic assimilation | promotion not coercion
+MECHANISM / ARGUMENT: Article 351 is an enrichment directive within a plural constitutional settlement.
+CONSEQUENCE / CONTRAST: Its textual borrowing mandate recognises that Hindi's development should absorb India's linguistic diversity rather than deny it.
+UPSC TRAP / ANSWER-USE: Do not read Article 351 as a supremacy clause that overrides Articles 345, 348, 350A or the 1963 Act.
+ANSWER-GRABBING FORMULATION: Article 351 imagines Hindi development through cultural assimilation, not through constitutional replacement of other languages.
 ```
-### SESSION 11 — OFFICIAL LANGUAGES ACT, 1963: OPERATIVE STATUTORY ARCHITECTURE
+
+
+### SESSION 17 — EIGHTH SCHEDULE: PURPOSE, TWENTY-TWO LANGUAGES AND AMENDMENTS
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Official Languages Act, 1963: Operative Statutory Architecture denotes the constitutional rules and institutional links organised around Section Core subject.
+**Plain-language definition:** The Eighth Schedule is a constitutional list of 22 languages linked expressly to Article 344 representation and Article 351 enrichment.
 
-**Technical definition:** legislatures of all States that have not adopted Hindi as their official language pass resolutions for discontinuance of English for those purposes; and after considering those resolutions, each House of Parliament passes a discontinuance resolution.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Official Languages Act, 1963: Operative Statutory Architecture denotes the constitutional rules and institutional links organised around Section Core subject.
-
-#### MUST-WRITE KEYWORDS
-
-- **Official Languages Act**
-- **Operative Statutory Architecture**
-- **each House of Parliament**
-- **Title, commencement and definitions**
-- **Committee on Official Language**
-- **1-2**
-
-**How to use them:** Frame the answer through Official Languages Act; define Operative Statutory Architecture, connect each House of Parliament with Title, commencement and definitions to explain the mechanism, and use Committee on Official Language for the decisive comparison or qualification.
-
-Official Languages Act, 1963: Operative Statutory Architecture denotes the constitutional rules and institutional links organised around Section Core subject.
-Official Languages Act, 1963: Operative Statutory Architecture operates through 1-2 Title, commencement and definitions, connected with 3 Continuance of English; communication; bilingual documents; discontinuance safeguard.
-The operative mechanism matters because 4 Committee on Official Language.
-Its principal consequence is that 5 Authorised Hindi translations of Central Acts etc.
-The decisive contrast is between 6 Authorised Hindi translation of State Acts in certain cases and 7 Optional use in High Court judgments/decrees/orders with English translation.
-The exam-safe limitation is that 8 Rule-making power.
-![Topic-specific visual map: Official Languages Act, 1963: Operative Statutory Architecture.](assets/10_official_languages_act_1963_operative_statutory_arch.png)
-[FACT] The Act was enacted on 10 May 1963. Section 3 came into force on 26 January 1965. The consolidated official text records substitution of section 3 by the Official Languages (Amendment) Act, 1967—Act 1 of 1968—with effect from 8 January 1968.
-
-#### Visual 37 — Act Section Map
-
-| Section | Core subject |
-|---:|---|
-| 1-2 | Title, commencement and definitions |
-| 3 | Continuance of English; communication; bilingual documents; discontinuance safeguard |
-| 4 | Committee on Official Language |
-| 5 | Authorised Hindi translations of Central Acts etc. |
-| 6 | Authorised Hindi translation of State Acts in certain cases |
-| 7 | Optional use in High Court judgments/decrees/orders with English translation |
-| 8 | Rule-making power |
-
-*Caption: Sections 3-7 form the practical examination core.*
-
-[FACT] Section 3(1) says English **may continue to be used in addition to Hindi** for Union official purposes for which it was used immediately before the appointed day and for business in Parliament.
-
-[FACT] Its first proviso requires English for communication between the Union and a State that has not adopted Hindi as its official language. Its second proviso requires an English translation where a Hindi-adopting State uses Hindi to communicate with a non-Hindi State. Its third proviso preserves a non-Hindi State’s choice to use Hindi or agreements between States.
-
-#### Visual 38 — Section 3(1) Communication Matrix
-
-| Sender/receiver | Statutory control |
-|---|---|
-| Union -> non-Hindi-official-language State | English shall be used |
-| Hindi State -> non-Hindi State in Hindi | English translation accompanies Hindi |
-| Non-Hindi State chooses Hindi with Union/Hindi State | Permitted; English not obligatory for that communication |
-| States agree on a communication arrangement | Permitted within statutory conditions |
-
-*Caption: Section 3 protects both a common bridge language and voluntary Hindi use.*
-
-[FACT] Section 3(2) requires translation into the other language in specified intra-Union and government-controlled-corporation communication until the concerned staff acquire working knowledge of Hindi.
-
-[FACT] Section 3(3) requires both Hindi and English for specified high-value instruments: resolutions, general orders, rules, notifications, reports, press communiques, parliamentary papers, contracts, agreements, licences, permits, notices and tender forms.
-
-[FACT] Section 3(4) authorises rules for Union official work but expressly requires quick and efficient disposal, public interest and protection against disadvantage for employees proficient in either Hindi or English but not both.
-
-#### Visual 39 — Section 3 Internal Safeguards
-
-```text
-3(2) -> translation during staff transition
-3(3) -> mandatory bilingual high-value documents
-3(4) -> efficiency + public interest + employee non-disadvantage
-3(5) -> discontinuance lock requiring State and Parliament resolutions
-```
-
-*Caption: The section promotes Hindi while building operational and federal safeguards.*
-
-[FACT] Section 3(5) keeps section 3(1)(a) and subsections (2), (3) and (4) in force until:
-
-1. legislatures of **all States that have not adopted Hindi as their official language** pass resolutions for discontinuance of English for those purposes; and
-2. after considering those resolutions, **each House of Parliament** passes a discontinuance resolution.
-
-[ANALYSIS] The provision creates a high-consent federal lock. English continues because the statute commands that result until both exact conditions are met—not merely because of convention, administrative convenience or a one-time political promise.
-
-#### Visual 40 — Section 3(5) Double Lock
-
-```text
-LOCK 1
-ALL non-Hindi-official-language State Legislatures
-pass discontinuance resolutions
-                    |
-                    v
-LOCK 2
-Lok Sabha AND Rajya Sabha each pass
-discontinuance resolution after considering State resolutions
-                    |
-                    v
-ONLY THEN can specified English-use provisions discontinue
-```
-
-*Caption: One State resolution, one House or an executive announcement is insufficient.*
-
-#### Visual 41 — Statute, Not Convention
-
-| Incorrect explanation | Correct explanation |
-|---|---|
-| English survives because people prefer it | Section 3 legally continues it |
-| English survives because 1965 was postponed informally | Parliament acted under Article 343(3) |
-| English can be ended by Union executive order | Section 3(5) requires exact legislative conditions |
-| All use of English is protected by section 3(5) in identical terms | The subsection specifies 3(1)(a), 3(2), 3(3) and 3(4) |
-
-*Caption: Exact subsection coverage matters in high-difficulty questions.*
-
-#### CLOSING RECALL FLOW — OFFICIAL LANGUAGES ACT, 1963: OPERATIVE STATUTORY ARCHITECTURE
-
-```text
-START / CONCEPT: Official Languages Act, 1963: Operative Statutory Architecture
-        |
-        v
-EXACT TERMS: Official Languages Act · Operative Statutory Architecture · each House of Parliament · Title, commencement and definitions · Committee on Official Language · 1-2
-        |
-        v
-MECHANISM / ARGUMENT: legislatures of all States that have not adopted Hindi as their official language pass resolutions for discontinuance of English for those purposes; and after considering those resolutions, each House of Parliament passes a discontinuance resolution.
-        |
-        v
-CONSEQUENCE / CONTRAST: Its first proviso requires English for communication between the Union and a State that has not adopted Hindi as its official language.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Section 3(4) authorises rules for Union official work but expressly requires quick and efficient disposal, public interest and protection against disadvantage for employees proficient in either Hindi or English but not both.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Official Languages Act, 1963: Operative Statutory Architecture denotes the constitutional rules and institutional links organised around Section Core subject.
-```
-### SESSION 12 — SECTIONS 4-7: COMMITTEE AND AUTHORISED TEXTS
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Sections 4-7 separate institutional review from legally authorised Hindi and High Court text routes.
-
-**Technical definition:** Section 4 recommendations remain bounded by section 3; sections 5-7 confer authority through specified actors and publication or translation safeguards.
+**Technical definition:** It began with 14 languages; Sindhi was added by the 21st Amendment, Konkani-Manipuri-Nepali by the 71st, and Bodo-Dogri-Maithili-Santhali by the 92nd, while the 96th renamed Oriya as Odia.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Sections 4-7 distinguish the statutory committee from authorised-text and High Court judgment routes.
-
-#### MUST-WRITE KEYWORDS
-
-- **sections 4-7**
-- **Official Languages Act**
-- **committee**
-- **authorised Hindi**
-- **High Court judgments**
-- **English translation**
-
-**How to use them:** Frame the answer through sections 4-7; define Official Languages Act, connect committee with authorised Hindi to explain the mechanism, and use High Court judgments for the decisive comparison or qualification.
-
-Sections 4-7: Committee and Authorised Texts denotes the constitutional rules and institutional links organised around Visual 42A — Four Authoritative-Text Routes.
-Sections 4-7: Committee and Authorised Texts operates through Route Language/output Authority safeguard, connected with Article 348(1) English authoritative baseline Constitution.
-The operative mechanism matters because official Languages Act, section 5 Authorised Hindi Central text Presidential authority + Gazette.
-Its principal consequence is that official Languages Act, section 6 Authorised Hindi State text in specified cases Governor's authority + Gazette.
-The decisive contrast is between Authoritative Texts (Central Laws) Act, 1973 Other Eighth-Schedule-language Central text Presidential authority + Gazette and Central law/instrument - authorised Hindi text.
-The exam-safe limitation is that state law in non-Hindi language.
-[FACT] Section 4’s statutory committee review process ends in a presidential power to issue directions after considering the report and State views; the directions cannot be inconsistent with section 3.
-
-[FACT] Section 5 deems specified presidentially authorised Gazette translations to be authoritative Hindi texts of Central Acts, presidential ordinances and delegated instruments, and requires Hindi translations to accompany the authoritative English text of parliamentary Bills/amendments.
-
-[FACT] Section 6 allows an authorised Hindi translation of a State Act or ordinance where the State Legislature prescribed a language other than Hindi, in addition to the Article 348(3) English translation.
-
-[FACT] Section 7 supplies the separate route for non-English High Court judgments, decrees and orders with a High Court-authorised English translation.
-
-[FACT] The **Authoritative Texts (Central Laws) Act, 1973** supplies a distinct route for authoritative translations of Central laws in Eighth-Schedule languages other than Hindi. A translation published in the Official Gazette under the President's authority is deemed the authoritative text in that language. This statute must not be confused with Article 348's English baseline or sections 5-6 of the 1963 Act governing authorised Hindi texts.
-
-#### Visual 42A — Four Authoritative-Text Routes
-
-| Route | Language/output | Authority safeguard |
-|---|---|---|
-| Article 348(1) | English authoritative baseline | Constitution |
-| Official Languages Act, section 5 | Authorised Hindi Central text | Presidential authority + Gazette |
-| Official Languages Act, section 6 | Authorised Hindi State text in specified cases | Governor's authority + Gazette |
-| Authoritative Texts (Central Laws) Act, 1973 | Other Eighth-Schedule-language Central text | Presidential authority + Gazette |
-
-*Caption: Translation becomes authoritative only through the exact constitutional or statutory route.*
-
-#### Visual 42 — Sections 5-7 Translation Ladder
-
-```text
-SECTION 5
-Central law/instrument -> authorised Hindi text
-
-SECTION 6
-State law in non-Hindi language
- -> Article 348(3) English translation
- -> optional authorised Hindi translation
-
-SECTION 7
-HC judgment/decree/order in authorised non-English language
- -> accompanying High Court-authorised English translation
-```
-
-*Caption: Each section answers a different “which text is authoritative?” question.*
-
-#### Visual 43 — Authority Checklist for a Translation
-
-| Check | Why it matters |
-|---|---|
-| Which provision authorises it? | Constitution, section 5, 6 or 7 differ |
-| Who issued it? | President, Governor or High Court authority |
-| Was it gazetted where required? | Publication can create authoritative status |
-| Is an English translation mandatory? | Especially Article 348(3) and section 7 |
-| Is the amendment version current? | Outdated translations can misstate law |
-
-*Caption: Translation is a legal-status problem, not merely a linguistic service.*
-
-#### CLOSING RECALL FLOW — SECTIONS 4-7: COMMITTEE AND AUTHORISED TEXTS
-
-```text
-START / CONCEPT: Sections 4-7: Committee and Authorised Texts
-        |
-        v
-EXACT TERMS: sections 4-7 · Official Languages Act · committee · authorised Hindi · High Court judgments · English translation
-        |
-        v
-MECHANISM / ARGUMENT: Identify instrument, language, competent authority and Gazette or High Court translation requirement.
-        |
-        v
-CONSEQUENCE / CONTRAST: Controlled translations expand access while preserving legal reliability.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not treat an unofficial or machine translation as authoritative law.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Sections 4-7 distinguish the statutory committee from authorised-text and High Court judgment routes.
-```
-### SESSION 13 — OFFICIAL LANGUAGES RULES, 1976: REGIONS AND ADMINISTRATIVE USE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** The 1976 Rules route Union administrative communication by sender, recipient, region and document type.
-
-**Technical definition:** Regions A, B and C implement the Act; they do not rank languages or cultures constitutionally.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Administrative routing is narrower than constitutional language status.
-
-#### MUST-WRITE KEYWORDS
-
-- **Official Languages Rules**
-- **Region A**
-- **Region B**
-- **Region C**
-- **administrative use**
-
-**How to use them:** Frame the answer through Official Languages Rules; define Region A, connect Region B with Region C to explain the mechanism, and use administrative use for the decisive comparison or qualification.
-
-Official Languages Rules, 1976: Regions and Administrative Use denotes the constitutional rules and institutional links organised around listed Hindi-region States + listed UTs.
-Official Languages Rules, 1976: Regions and Administrative Use operates through communications generally favour Hindi, connected with listed western/northern States + listed UTs.
-The operative mechanism matters because hindi ordinarily, with specified choice/translation safeguards.
-Its principal consequence is that all States/UTs outside A and B.
-The decisive contrast is between communication from Central office to non-Central recipient in English and RULES' EXTENT EXCEPTION: Tamil Nadu.
-The exam-safe limitation is that iDENTIFY SENDER AND RECEIVER.
-[FACT] The official portal styles the instrument the **Official Languages (Use for Official Purposes of the Union) Rules, 1976**, as amended in 1987, 2007 and 2011. The Rules extend to India **except Tamil Nadu**.
-
-[FACT] Region A contains the listed Hindi-region States and Delhi/Andaman and Nicobar Islands; Region B contains Gujarat, Maharashtra, Punjab and the listed Union Territories; Region C covers States and Union Territories not in A or B.
-
-[CURRENT] Because territorial names have changed since the last amendment displayed on the official rule page, this package teaches the A/B/C logic and the official portal’s rule text without inventing an unofficial consolidated renaming.
-
-#### Visual 44 — Regions A/B/C Concept Map
-
-```text
-REGION A
-listed Hindi-region States + listed UTs
-communications generally favour Hindi
-
-REGION B
-listed western/northern States + listed UTs
-Hindi ordinarily, with specified choice/translation safeguards
-
-REGION C
-all States/UTs outside A and B
-communication from Central office to non-Central recipient in English
-
-RULES' EXTENT EXCEPTION: Tamil Nadu
-```
-
-*Caption: The regions are administrative communication categories, not constitutional language rankings.*
-
-[FACT] Rule 3 distinguishes communications from Central Government offices to non-Central recipients in A, B and C. Rule 4 governs communications between Central Government offices. Rule 5 requires replies in Hindi to communications received in Hindi. Rule 6 requires both Hindi and English for section 3(3) documents.
-
-[FACT] Rules 7 and 8 protect an employee’s ability to submit applications/representations and record file notes in Hindi or English, subject to the detailed provisions. Rules 9 and 10 distinguish proficiency from working knowledge.
-
-#### Visual 45 — Administrative Implementation Flow
-
-```text
-IDENTIFY SENDER AND RECEIVER
-          |
-          v
-IS RECIPIENT CENTRAL GOVERNMENT OFFICE?
-   | yes -> Rule 4
-   | no  -> Rule 3 and Region A/B/C
-          |
-          v
-CHECK REPLY LANGUAGE / DOCUMENT TYPE
-Rule 5 reply to Hindi | Rule 6 bilingual statutory documents
-          |
-          v
-CHECK EMPLOYEE PROFICIENCY / WORKING KNOWLEDGE
-Rules 7-10
-```
-
-*Caption: Region alone never answers the entire administrative-language question.*
-
-#### Visual 46 — Rules Are Not Constitutional Status
-
-| Rules do | Rules do not |
-|---|---|
-| Organise Union administrative communications | Declare a national language |
-| Implement section 3 and section 8 | Add Eighth-Schedule languages |
-| Require bilingual use in specified documents | Determine every State’s official language |
-| Protect efficiency and staff functioning | Override Article 348 |
-| Use Regions A/B/C | Rank citizens or cultures |
-
-*Caption: Administrative categorisation must not be converted into a constitutional hierarchy.*
-
-[LIMIT] Annual programmes can set dated operational targets for progressive Hindi use. Such targets are unstable and are intentionally not frozen in this package.
-
-#### CLOSING RECALL FLOW — OFFICIAL LANGUAGES RULES, 1976: REGIONS AND ADMINISTRATIVE USE
-
-```text
-START / CONCEPT: Official Languages Rules, 1976: Regions and Administrative Use
-        |
-        v
-EXACT TERMS: Official Languages Rules · Region A · Region B · Region C · administrative use
-        |
-        v
-MECHANISM / ARGUMENT: First distinguish Central from non-Central recipients, then apply Rules 3-8.
-        |
-        v
-CONSEQUENCE / CONTRAST: The Rules combine progressive Hindi use with translation and employee safeguards.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not apply the Rules to Tamil Nadu or silently modernise their territorial wording.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Administrative routing is narrower than constitutional language status.
-```
-### SESSION 14 — EIGHTH SCHEDULE: PURPOSE, EXACT LIST AND EVOLUTION
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Eighth Schedule: Purpose, Exact List and Evolution denotes the constitutional rules and institutional links organised around representation in Official Language Commission.
-
-**Technical definition:** The Eighth Schedule is expressly linked to Articles 344(1) and 351.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Eighth Schedule: Purpose, Exact List and Evolution denotes the constitutional rules and institutional links organised around representation in Official Language Commission.
+> Scheduled status is constitutional recognition, not automatic official-language, court-language or education-medium status.
 
 #### MUST-WRITE KEYWORDS
 
 - **Eighth Schedule**
-- **Purpose**
-- **Exact List**
-- **Evolution**
-- **Twenty-first Amendment Act, 1967**
-- **10 April 1967**
+- **twenty-two languages**
+- **Article 344 representation**
+- **Article 351 enrichment**
+- **constitutional amendment**
+- **71st Amendment**
 
-**How to use them:** Frame the answer through Eighth Schedule; define Purpose, connect Exact List with Evolution to explain the mechanism, and use Twenty-first Amendment Act, 1967 for the decisive comparison or qualification.
+**How to use them:** State the two textual links, list the amendment sequence, and then deny consequences that the Schedule itself does not create.
 
-Eighth Schedule: Purpose, Exact List and Evolution denotes the constitutional rules and institutional links organised around representation in Official Language Commission.
-Eighth Schedule: Purpose, Exact List and Evolution operates through enrichment of Hindi through scheduled languages, connected with Union official language.
-The operative mechanism matters because state official language.
-Its principal consequence is that supreme Court language.
-The decisive contrast is between medium of instruction and classical-language status.
-The exam-safe limitation is that [CURRENT] The Legislative Department’s Constitution as on 1 May 2026 lists exactly 22 languages.
-![Topic-specific visual map: Eighth Schedule: Purpose, Exact List and Evolution.](assets/11_eighth_schedule_purpose_exact_list_and_evolution.png)
-[FACT] The Eighth Schedule is expressly linked to Articles **344(1)** and **351**. It supplies language representation for the Article 344 Commission and a multilingual resource base for Article 351’s development of Hindi.
-
-[ANALYSIS] Scheduled status also carries substantial public-policy and symbolic importance, but it does not make every listed language an “official language of India” for all administrative or judicial purposes.
-
-#### Visual 47 — Eighth-Schedule Purpose
+#### VISUAL FIRST
 
 ```text
-EIGHTH SCHEDULE
-      |
-      +--> Article 344(1)
-      |    representation in Official Language Commission
-      |
-      +--> Article 351
-           enrichment of Hindi through scheduled languages
-
-NOT AUTOMATICALLY:
-Union official language
-State official language
-Supreme Court language
-medium of instruction
-classical-language status
+ORIGINAL 14
+Assamese | Bengali | Gujarati | Hindi | Kannada | Kashmiri | Malayalam
+Marathi | Oriya | Punjabi | Sanskrit | Tamil | Telugu | Urdu
+        |
+21st (1967) -> Sindhi
+        |
+71st (1992) -> Konkani + Manipuri + Nepali
+        |
+92nd (2003) -> Bodo + Dogri + Maithili + Santhali
+        |
+96th (2011) -> Oriya renamed Odia
+        |
+CURRENT TOTAL = 22.
 ```
 
-*Caption: The constitutional cross-references define the Schedule’s core textual functions.*
+#### Claim -> named evidence -> analysis -> qualification
 
-[CURRENT] The Legislative Department’s Constitution as on 1 May 2026 lists exactly 22 languages:
+- **Claim:** The Eighth Schedule supplies representation and enrichment functions without nationalising every listed language.
+- **Named evidence:** Eighth Schedule; Articles 344(1) and 351; 21st, 71st, 92nd and 96th Amendments.
+- **Analysis:** Constitutional amendment makes inclusion symbolically and institutionally significant, but administration still depends on Articles 343-348 and applicable laws.
+- **Qualification:** The Schedule does not itself guarantee official use in every government, a particular court language, a school medium or a distinct fundamental right.
 
-#### Visual 48 — Exact Eighth-Schedule List
+#### Evidence
 
-| 1-6 | 7-12 | 13-18 | 19-22 |
-|---|---|---|---|
-| Assamese | Kannada | Marathi | Sindhi |
-| Bengali | Kashmiri | Nepali | Tamil |
-| Bodo | Konkani | Odia | Telugu |
-| Dogri | Maithili | Punjabi | Urdu |
-| Gujarati | Malayalam | Sanskrit |  |
-| Hindi | Manipuri | Santhali |  |
+- `[FACT]` Current order: Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Odia, Punjabi, Sanskrit, Santhali, Sindhi, Tamil, Telugu, Urdu.
+- `[FACT]` The total is 22, originally 14.
+- `[FACT]` Addition requires constitutional amendment; an executive announcement or pending demand does not amend the Schedule.
+- `[FACT]` Maithili belongs to the 92nd Amendment, not the 71st.
+- `[LIMIT]` Scheduled recognition should not be used as shorthand for all language rights.
 
-*Caption: The list follows the Constitution’s current order and uses Roman-script names for reliable PDF rendering.*
+#### Prelims trap
 
-[FACT] The original Schedule contained 14 languages. Later evolution is exact:
+infer that all 22 are Union official languages or that a State may choose only a scheduled language.
 
-- **Twenty-first Amendment Act, 1967**, effective **10 April 1967**: added Sindhi.
-- **Seventy-first Amendment Act, 1992**, effective **31 August 1992**: added Konkani, Manipuri and Nepali.
-- **Ninety-second Amendment Act, 2003**, effective **7 January 2004**: added Bodo, Dogri, Maithili and Santhali.
-- **Ninety-sixth Amendment Act, 2011**, effective **23 September 2011**: substituted “Odia” for “Oriya”; it did not add a twenty-third language.
+#### Mains use
 
-#### Visual 49 — Eighth-Schedule Evolution Timeline
+Use the amendment chain for Prelims and the recognition-versus-consequence distinction for Mains.
+
+#### Recap
+
+The Schedule recognises 22 languages for limited constitutional purposes; official use follows separate provisions.
+
+#### CLOSING RECALL FLOW — EIGHTH SCHEDULE: PURPOSE, TWENTY-TWO LANGUAGES AND AMENDMENTS
 
 ```text
-1950: 14
-   |
-   +-- 10 Apr 1967: + Sindhi -> 15
-   |
-   +-- 31 Aug 1992: + Konkani, Manipuri, Nepali -> 18
-   |
-   +-- 7 Jan 2004: + Bodo, Dogri, Maithili, Santhali -> 22
-   |
-   +-- 23 Sep 2011: Oriya renamed Odia -> still 22
-   |
-2026 control date: 22
+START / CONCEPT: EIGHTH SCHEDULE: PURPOSE, TWENTY-TWO LANGUAGES AND AMENDMENTS
+EXACT TERMS: Eighth Schedule | twenty-two languages | Article 344 representation | Article 351 enrichment | constitutional amendment | 71st Amendment
+MECHANISM / ARGUMENT: The Eighth Schedule supplies representation and enrichment functions without nationalising every listed language.
+CONSEQUENCE / CONTRAST: Constitutional amendment makes inclusion symbolically and institutionally significant, but administration still depends on Articles 343-348 and applicable laws.
+UPSC TRAP / ANSWER-USE: Do not infer that all 22 are Union official languages or that a State may choose only a scheduled language.
+ANSWER-GRABBING FORMULATION: Scheduled status is constitutional recognition, not automatic official-language, court-language or education-medium status.
 ```
 
-*Caption: The Act title year and effective date can differ, especially for the 92nd Amendment.*
 
-#### Visual 50 — Amendment Audit Matrix
-
-| Amendment | Change | Count effect | Commencement |
-|---:|---|---:|---:|
-| 21st | Sindhi added | 14 -> 15 | 10-04-1967 |
-| 71st | Konkani, Manipuri, Nepali added | 15 -> 18 | 31-08-1992 |
-| 92nd | Bodo, Dogri, Maithili, Santhali added | 18 -> 22 | 07-01-2004 |
-| 96th | Oriya renamed Odia | no change | 23-09-2011 |
-
-*Caption: The 2024 UPSC route directly tests this amendment-language mapping.*
-
-[FACT] Addition of a language requires a constitutional amendment under Article 368. Neither an executive notification, a committee report, a parliamentary question nor a public demand changes the Schedule.
-
-[LIMIT] Demands for inclusion of additional languages remain proposals until enacted. This package does not freeze a disputed count of pending demands.
-
-#### Visual 51 — Addition Route
-
-```text
-PUBLIC / STATE / POLITICAL DEMAND
-             |
-             v
-POLICY AND LEGISLATIVE CONSIDERATION
-             |
-             v
-CONSTITUTION AMENDMENT BILL
-             |
-             v
-ARTICLE 368 SPECIAL-MAJORITY PROCESS
-             |
-             v
-PRESIDENTIAL ASSENT
-             |
-             v
-EIGHTH SCHEDULE CHANGES
-```
-
-*Caption: Recognition demand is not recognition law.*
-
-#### CLOSING RECALL FLOW — EIGHTH SCHEDULE: PURPOSE, EXACT LIST AND EVOLUTION
-
-```text
-START / CONCEPT: Eighth Schedule: Purpose, Exact List and Evolution
-        |
-        v
-EXACT TERMS: Eighth Schedule · Purpose · Exact List · Evolution · Twenty-first Amendment Act, 1967 · 10 April 1967
-        |
-        v
-MECHANISM / ARGUMENT: The Eighth Schedule is expressly linked to Articles 344(1) and 351.
-        |
-        v
-CONSEQUENCE / CONTRAST: Scheduled status also carries substantial public-policy and symbolic importance, but it does not make every listed language an “official language of India” for all administrative or judicial purposes.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the decisive contrast is between medium of instruction and classical-language status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Eighth Schedule: Purpose, Exact List and Evolution denotes the constitutional rules and institutional links organised around representation in Official Language Commission.
-```
-### SESSION 15 — DISTINCTIONS UPSC COMMONLY COMPRESSES
+### SESSION 18 — JUDICIAL DOCTRINE ON LANGUAGE, EDUCATION AND MINORITIES
 
 #### DEFINITION / WHAT THIS IS CALLED
 
-**Plain-language definition:** Official, scheduled, classical, court and instructional language categories have different legal sources and effects.
+**Plain-language definition:** Language cases test legislative competence, individual choice and minority autonomy in their own factual settings rather than announcing a single general language right.
 
-**Technical definition:** The distinctions among official, scheduled, classical, court and instructional languages turn on separate constitutional, statutory, executive and policy sources.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> A shared language name does not create shared legal status.
-
-#### MUST-WRITE KEYWORDS
-
-- **official language**
-- **scheduled language**
-- **classical language**
-- **court language**
-- **medium of instruction**
-- **legal source**
-
-**How to use them:** Frame the answer through official language; define scheduled language, connect classical language with court language to explain the mechanism, and use medium of instruction for the decisive comparison or qualification.
-
-Distinctions UPSC Commonly Compresses denotes the constitutional rules and institutional links organised around Category Legal/policy source What it means What it does not mean.
-Distinctions UPSC Commonly Compresses operates through Union official language Article 343 Hindi-Devanagari for Union official purposes National language, connected with English continuation Official Languages Act Continued use in addition to Hindi Mere convention.
-The operative mechanism matters because state official language Article 345 + State law Language(s) for State purposes Must be scheduled.
-Its principal consequence is that scheduled language Eighth Schedule Constitutional listing linked to 344/351 Official everywhere.
-The decisive contrast is between Classical language Union executive scheme Recognition of classical literary heritage Eighth-Schedule addition and Mother tongue Linguistic/educational identity Home/first-language context Automatic State official language.
-The exam-safe limitation is that court language Article 348 + statute Language of proceedings and authoritative judgments/texts Same as State administration.
-![Topic-specific visual map: Distinctions UPSC Commonly Compresses.](assets/12_distinctions_upsc_commonly_compresses.png)
-#### Visual 52 — Master Distinction Matrix
-
-| Category | Legal/policy source | What it means | What it does not mean |
-|---|---|---|---|
-| Union official language | Article 343 | Hindi-Devanagari for Union official purposes | National language |
-| English continuation | Official Languages Act | Continued use in addition to Hindi | Mere convention |
-| State official language | Article 345 + State law | Language(s) for State purposes | Must be scheduled |
-| Scheduled language | Eighth Schedule | Constitutional listing linked to 344/351 | Official everywhere |
-| Classical language | Union executive scheme | Recognition of classical literary heritage | Eighth-Schedule addition |
-| Mother tongue | Linguistic/educational identity | Home/first-language context | Automatic State official language |
-| Court language | Article 348 + statute | Language of proceedings and authoritative judgments/texts | Same as State administration |
-| Medium of instruction | Education law/policy/institution | Language used to teach | Identical to Article 343 framework |
-
-*Caption: Every close-option question can be solved by naming the source and function.*
-
-[CURRENT] Classical-language recognition is a separate Union executive scheme. Official PIB material records that Marathi, Pali, Prakrit, Assamese and Bengali received the status in October 2024, bringing the official total to eleven by the control date.
-
-[LIMIT] Classical status does not itself alter Part XVII, the Eighth Schedule, State official-language law or Article 348.
-
-#### Visual 53 — Scheduled vs Classical
-
-| Test | Scheduled language | Classical language |
-|---|---|---|
-| Source | Constitution, Eighth Schedule | Executive recognition scheme |
-| Change route | Constitutional amendment | Government decision under scheme |
-| Core exam link | Articles 344 and 351 | Antiquity/literary heritage policy |
-| Administrative effect | No universal official-language status | No automatic administrative status |
-| Current count | 22 | 11 as officially reported by control date |
-
-*Caption: A language may be both, one or neither; the categories are not a hierarchy.*
-
-#### Visual 54 — Court Language vs State Language
-
-```text
-STATE LAW MAY ADOPT LANGUAGE X FOR ADMINISTRATION
-                       |
-                       X
-does not automatically make X the language of:
-   Supreme Court proceedings
-   High Court proceedings
-   High Court judgments
-   authoritative Central legislation
-
-Those questions require Article 348 and statutory authorisation.
-```
-
-*Caption: Administrative adoption does not leap across the constitutional court-language barrier.*
-
-#### CLOSING RECALL FLOW — DISTINCTIONS UPSC COMMONLY COMPRESSES
-
-```text
-START / CONCEPT: Distinctions UPSC Commonly Compresses
-        |
-        v
-EXACT TERMS: official language · scheduled language · classical language · court language · medium of instruction · legal source
-        |
-        v
-MECHANISM / ARGUMENT: Identify Constitution, statute, executive scheme or education policy before stating consequences.
-        |
-        v
-CONSEQUENCE / CONTRAST: This prevents category errors in both Prelims and Mains.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not call all 22 scheduled languages official languages of India.
-        |
-        v
-ANSWER-GRABBING FORMULATION: A shared language name does not create shared legal status.
-```
-### SESSION 16 — THREE-LANGUAGE FORMULA: KEEP EDUCATION POLICY SEPARATE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Three-Language Formula: Keep Education Policy Separate denotes the constitutional rules and institutional links organised around Official-language framework Three-language formula.
-
-**Technical definition:** The decisive contrast is between Not a curriculum formula Not Article 343’s legal mechanism and Official-language framework Three-language formula.
+**Technical definition:** Gujarat University (1963), T.M.A. Pai Foundation (2002), Associated Management (2014) and U.P. Hindi Sahitya Sammelan (2014) supply distinct propositions on higher-education competence, minority identity, medium choice and State official-language power.
 
 #### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
 
-> Three-Language Formula: Keep Education Policy Separate denotes the constitutional rules and institutional links organised around Official-language framework Three-language formula.
+> Judicial doctrine constrains coercive language policy while preserving reasonable regulation and the exact text of Part XVII.
 
 #### MUST-WRITE KEYWORDS
 
-- **Three-Language Formula**
-- **Keep Education Policy Separate**
-- **Part XVII + 1963 Act + 1976 Rules**
-- **Education policy**
-- **Governmental communication and legal authority**
-- **School-language learning/medium questions**
-
-**How to use them:** Frame the answer through Three-Language Formula; define Keep Education Policy Separate, connect Part XVII + 1963 Act + 1976 Rules with Education policy to explain the mechanism, and use Governmental communication and legal authority for the decisive comparison or qualification.
-
-Three-Language Formula: Keep Education Policy Separate denotes the constitutional rules and institutional links organised around Official-language framework Three-language formula.
-Three-Language Formula: Keep Education Policy Separate operates through Part XVII + 1963 Act + 1976 Rules Education policy, connected with Governmental communication and legal authority School-language learning/medium questions.
-The operative mechanism matters because constitution/statute/rules Policy + implementation.
-Its principal consequence is that union, States, courts, legal texts Education systems and States.
-The decisive contrast is between Not a curriculum formula Not Article 343’s legal mechanism and Official-language framework Three-language formula.
-The exam-safe limitation is that official-language framework Three-language formula.
-[FACT] The three-language formula belongs to education policy, historically associated with national education-policy frameworks and State implementation choices. It is not identical to Part XVII and is not a constitutional command that every State must implement in one uniform form.
-
-[ANALYSIS] The policy debate involves educational multilingualism, student choice, mobility, national integration, teacher availability and State autonomy. It should not be reduced to “Article 343 requires three languages.”
-
-#### Visual 55 — Two Frameworks, Different Questions
-
-| Official-language framework | Three-language formula |
-|---|---|
-| Part XVII + 1963 Act + 1976 Rules | Education policy |
-| Governmental communication and legal authority | School-language learning/medium questions |
-| Constitution/statute/rules | Policy + implementation |
-| Union, States, courts, legal texts | Education systems and States |
-| Not a curriculum formula | Not Article 343’s legal mechanism |
-
-*Caption: Conflation produces both legal and policy errors.*
-
-[LIMIT] Education-policy details and State positions can change. This package analyses the constitutional boundary and does not freeze political allegations or implementation statistics.
-
-#### CLOSING RECALL FLOW — THREE-LANGUAGE FORMULA: KEEP EDUCATION POLICY SEPARATE
-
-```text
-START / CONCEPT: Three-Language Formula: Keep Education Policy Separate
-        |
-        v
-EXACT TERMS: Three-Language Formula · Keep Education Policy Separate · Part XVII + 1963 Act + 1976 Rules · Education policy · Governmental communication and legal authority · School-language learning/medium questions
-        |
-        v
-MECHANISM / ARGUMENT: The decisive contrast is between Not a curriculum formula Not Article 343’s legal mechanism and Official-language framework Three-language formula.
-        |
-        v
-CONSEQUENCE / CONTRAST: Its principal consequence is that union, States, courts, legal texts Education systems and States.
-        |
-        v
-UPSC TRAP / ANSWER-USE: It is not identical to Part XVII and is not a constitutional command that every State must implement in one uniform form.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Three-Language Formula: Keep Education Policy Separate denotes the constitutional rules and institutional links organised around Official-language framework Three-language formula.
-```
-### SESSION 17 — FEDERALISM, INCLUSION AND ANTI-IMPOSITION DEBATE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** The language settlement combines Hindi promotion with State choice, English safeguards and minority protection.
-
-**Technical definition:** Language federalism combines State choice and inclusion with section 3 English safeguards and constitutional protection for linguistic minorities.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Language federalism and inclusion require consent safeguards rather than coercive language imposition.
-
-#### MUST-WRITE KEYWORDS
-
-- **language federalism**
-- **inclusion**
-- **anti-imposition**
-- **English safeguards**
-- **linguistic minorities**
-
-**How to use them:** Frame the answer through language federalism; define inclusion, connect anti-imposition with English safeguards to explain the mechanism, and use linguistic minorities for the decisive comparison or qualification.
-
-Federalism, Inclusion and Anti-Imposition Debate denotes the constitutional rules and institutional links organised around MINORITY / \ COMMUNICATION.
-Federalism, Inclusion and Anti-Imposition Debate operates through Arts 347,350A/B / \ section 3, connected with CONSENT LOCK \ / UNION PROMOTION.
-The operative mechanism matters because section 3(5) \/ Article 351.
-Its principal consequence is that goal Legitimate mechanism Risk if overstated.
-The decisive contrast is between Wider Hindi use Article 351, Act/Rules within limits Coercion/imposition and Administrative efficiency Bilingual systems, translation, training Excluding employees/citizens.
-The exam-safe limitation is that national legal coherence Authoritative text and translation controls English-only access barrier.
-![Topic-specific visual map: Federalism, Inclusion and Anti-Imposition Debate.](assets/13_federalism_inclusion_and_anti_imposition_debate.png)
-[ANALYSIS] India’s official-language system operates as a federal accommodation through five devices: State choice under Article 345; recognition potential under Article 347; English communication safeguards under section 3; minority protections under Articles 350A-350B; and a high-consent discontinuance lock under section 3(5).
-
-[ANALYSIS] Hindi promotion can advance wider Union communication and reduce dependence on a colonial language. It becomes constitutionally and politically problematic when promotion is treated as authority to erase statutory English safeguards, State-language autonomy or equal public-service opportunity.
-
-#### Visual 56 — Federal Accommodation Pentagon
-
-```text
-                 STATE CHOICE
-                  Article 345
-                      /\
-                     /  \
-     MINORITY       /    \       COMMUNICATION
-   Arts 347,350A/B /      \      section 3
-                   \      /
-                    \    /
-      CONSENT LOCK   \  /     UNION PROMOTION
-      section 3(5)    \/       Article 351
-```
-
-*Caption: Stability comes from balancing promotion, choice, access, minority safeguards and consent.*
-
-#### Visual 57 — Legitimate Goals and Constitutional Risks
-
-| Goal | Legitimate mechanism | Risk if overstated |
-|---|---|---|
-| Wider Hindi use | Article 351, Act/Rules within limits | Coercion/imposition |
-| Administrative efficiency | Bilingual systems, translation, training | Excluding employees/citizens |
-| National legal coherence | Authoritative text and translation controls | English-only access barrier |
-| State identity | Article 345 choice | Intra-State minority neglect |
-| Language recognition | Article 368 amendment debate | Treating symbolic listing as full policy |
-
-*Caption: The issue is not promotion versus diversity, but legally disciplined promotion within diversity.*
-
-#### Visual 58 — Claim-Evidence-Qualification Example
-
-```text
-CLAIM:
-English continuation is a federal safeguard.
-
-NAMED EVIDENCE:
-Official Languages Act, section 3(5).
-
-ANALYSIS:
-all non-Hindi-official-language State Legislatures
-and both Houses must support discontinuance.
-
-QUALIFICATION:
-the subsection specifies which section 3 provisions remain in force;
-do not generalise beyond its text.
-```
-
-*Caption: This four-step discipline converts a slogan into a UPSC-quality legal argument.*
-
-#### CLOSING RECALL FLOW — FEDERALISM, INCLUSION AND ANTI-IMPOSITION DEBATE
-
-```text
-START / CONCEPT: Federalism, Inclusion and Anti-Imposition Debate
-        |
-        v
-EXACT TERMS: language federalism · inclusion · anti-imposition · English safeguards · linguistic minorities
-        |
-        v
-MECHANISM / ARGUMENT: Balance promotion, communication, minority facilities and the section 3(5) lock.
-        |
-        v
-CONSEQUENCE / CONTRAST: Accommodation lowers the political cost of multilingual Union administration.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not present Article 351 as authority to override other language safeguards.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Language federalism and inclusion require consent safeguards rather than coercive language imposition.
-```
-### SESSION 18 — LANGUAGE ACCESS, COURTS AND TRANSLATION TECHNOLOGY
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Language Access, Courts and Translation Technology denotes the constitutional rules and institutional links organised around MULTILINGUAL ACCESS.
-
-**Technical definition:** Article 348 and section 7 reveal that access and authoritative uniformity must be solved together.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Language Access, Courts and Translation Technology denotes the constitutional rules and institutional links organised around MULTILINGUAL ACCESS.
-
-#### MUST-WRITE KEYWORDS
-
-- **Language Access**
-- **Courts**
-- **Translation Technology**
-- **Article 348**
-- **Language Access, Courts and Translation Technology**
-- **MULTILINGUAL ACCESS**
-
-**How to use them:** Frame the answer through Language Access; define Courts, connect Translation Technology with Article 348 to explain the mechanism, and use Language Access, Courts and Translation Technology for the decisive comparison or qualification.
-
-Language Access, Courts and Translation Technology denotes the constitutional rules and institutional links organised around MULTILINGUAL ACCESS.
-Language Access, Courts and Translation Technology operates through litigant comprehension, connected with regional legal participation.
-The operative mechanism matters because must be balanced with.
-Its principal consequence is that aUTHORITATIVE UNIFORMITY.
-The decisive contrast is between precedent consistency and inter-State legal usability.
-The exam-safe limitation is that amendment/version accuracy.
-![Topic-specific visual map: Language Access, Courts and Translation Technology.](assets/14_language_access_courts_and_translation_technology.png)
-[ANALYSIS] English in higher courts supports a common precedential and inter-State legal medium, but it can distance litigants and many lawyers from the language of adjudication. Article 348 and section 7 reveal that access and authoritative uniformity must be solved together.
-
-[ANALYSIS] Machine translation, multilingual search and speech tools can reduce access costs. They cannot independently confer authoritative legal status or safely resolve ambiguous statutory terms. Human legal review, terminology banks, version control and transparent identification of the authoritative text remain necessary.
-
-#### Visual 59 — Access-Uniformity Balance
-
-```text
-MULTILINGUAL ACCESS
-litigant comprehension
-regional legal participation
-        |
-        | must be balanced with
-        v
-AUTHORITATIVE UNIFORMITY
-precedent consistency
-inter-State legal usability
-amendment/version accuracy
-        |
-        v
-AUTHORISED TRANSLATION + HUMAN REVIEW + DIGITAL ACCESS
-```
-
-*Caption: Access improves when translation is institutionally reliable, not merely fast.*
-
-#### Visual 60 — Human-in-the-Loop Legal Translation
-
-```text
-SOURCE TEXT
-   -> machine-assisted draft
-   -> bilingual legal expert review
-   -> terminology consistency check
-   -> amendment/version verification
-   -> authorised publication
-   -> user feedback and correction log
-```
-
-*Caption: Technology should accelerate the workflow while authority and accountability remain human-institutional.*
-
-[LIMIT] General-information translations and AI-generated summaries must never be presented as authoritative judgments or statutes unless the legally competent authority has conferred that status.
-
-#### CLOSING RECALL FLOW — LANGUAGE ACCESS, COURTS AND TRANSLATION TECHNOLOGY
-
-```text
-START / CONCEPT: Language Access, Courts and Translation Technology
-        |
-        v
-EXACT TERMS: Language Access · Courts · Translation Technology · Article 348 · Language Access, Courts and Translation Technology · MULTILINGUAL ACCESS
-        |
-        v
-MECHANISM / ARGUMENT: English in higher courts supports a common precedential and inter-State legal medium, but it can distance litigants and many lawyers from the language of adjudication.
-        |
-        v
-CONSEQUENCE / CONTRAST: The decisive contrast is between precedent consistency and inter-State legal usability.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: machine translation, multilingual search and speech tools can reduce access costs.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Language Access, Courts and Translation Technology denotes the constitutional rules and institutional links organised around MULTILINGUAL ACCESS.
-```
-### SESSION 19 — CURRENT CONTROLS AS ON 28 AUGUST 2026
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Current Controls as on 5 September 2026 denotes the constitutional rules and institutional links organised around Question Controlled current position.
-
-**Technical definition:** Technically, Current Controls as on 5 September 2026 is analysed by relating No to Hindi in Devanagari, Article 343, then testing the relationship through Operative under Official Languages Act section 3 and Oriya renamed Odia by 96th Amendment, effective 23-09-2011.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Current Controls as on 5 September 2026 denotes the constitutional rules and institutional links organised around Question Controlled current position.
-
-#### MUST-WRITE KEYWORDS
-
-- **Current Controls as on 5 September 2026**
-- **No**
-- **Hindi in Devanagari, Article 343**
-- **Operative under Official Languages Act section 3**
-- **Oriya renamed Odia by 96th Amendment, effective 23-09-2011**
-- **Official portal displayed thirteenth report part**
-
-**How to use them:** Frame the answer through Current Controls as on 5 September 2026; define No, connect Hindi in Devanagari, Article 343 with Operative under Official Languages Act section 3 to explain the mechanism, and use Oriya renamed Odia by 96th Amendment, effective 23-09-2011 for the decisive comparison or qualification.
-
-Current Controls as on 5 September 2026 denotes the constitutional rules and institutional links organised around Question Controlled current position.
-Current Controls as on 5 September 2026 operates through National language declared? No, connected with Union official language? Hindi in Devanagari, Article 343.
-The operative mechanism matters because english continuation? Operative under Official Languages Act section 3.
-Its principal consequence is that eighth-Schedule count? 22.
-The decisive contrast is between Latest listed change? Oriya renamed Odia by 96th Amendment, effective 23-09-2011 and Rules portal status? Rules shown as amended in 1987, 2007 and 2011.
-The exam-safe limitation is that current parliamentary committee material? Official portal displayed thirteenth report part.
-#### Visual 61 — Current-Law Dashboard
-
-| Question | Controlled current position |
-|---|---|
-| National language declared? | No |
-| Union official language? | Hindi in Devanagari, Article 343 |
-| English continuation? | Operative under Official Languages Act section 3 |
-| Eighth-Schedule count? | 22 |
-| Latest listed change? | Oriya renamed Odia by 96th Amendment, effective 23-09-2011 |
-| Rules portal status? | Rules shown as amended in 1987, 2007 and 2011 |
-| Current parliamentary committee material? | Official portal displayed thirteenth report part |
-| Additional-language demands? | Proposals unless constitutionally enacted |
-| Committee recommendations? | Not law merely by publication |
-
-*Caption: Current control means verifying operative legal status while refusing to freeze proposals as law.*
-
-[CURRENT] The official Constitution consolidation, not a demand list or news report, controls the current Eighth Schedule.
-
-[CURRENT] The Department of Official Language’s statutory text includes the section 3(5) double lock and the current consolidated omission of the former Jammu and Kashmir-specific section 9.
-
-[LIMIT] The official Rules page reflects the amendment history displayed by the Department. Territorial nomenclature should be updated only through an authoritative legal consolidation, not by silently rewriting the rule text.
-
-#### CLOSING RECALL FLOW — CURRENT CONTROLS AS ON 28 AUGUST 2026
-
-```text
-START / CONCEPT: Current Controls as on 5 September 2026
-        |
-        v
-EXACT TERMS: Current Controls as on 5 September 2026 · No · Hindi in Devanagari, Article 343 · Operative under Official Languages Act section 3 · Oriya renamed Odia by 96th Amendment, effective 23-09-2011 · Official portal displayed thirteenth report part
-        |
-        v
-MECHANISM / ARGUMENT: Territorial nomenclature should be updated only through an authoritative legal consolidation, not by silently rewriting the rule text.
-        |
-        v
-CONSEQUENCE / CONTRAST: Its principal consequence is that eighth-Schedule count?
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the decisive contrast is between Latest listed change?
-        |
-        v
-ANSWER-GRABBING FORMULATION: Current Controls as on 5 September 2026 denotes the constitutional rules and institutional links organised around Question Controlled current position.
-```
-### SESSION 20 — REFORM AGENDA: MULTILINGUAL CAPACITY WITHOUT LEGAL CONFUSION
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Reform Agenda: Multilingual Capacity Without Legal Confusion denotes the constitutional rules and institutional links organised around Pillar Concrete direction Guardrail.
-
-**Technical definition:** Reform Agenda: Multilingual Capacity Without Legal Confusion operates through Multilingual citizen access Forms, portals, grievance interfaces Do not dilute legal accuracy, connected with Translation capacity Permanent terminology and translation cadres Human verification.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Reform Agenda: Multilingual Capacity Without Legal Confusion operates through Multilingual citizen access Forms, portals, grievance interfaces Do not dilute legal accuracy, connected with Translation capacity Permanent terminology and translation cadres Human verification.
-
-#### MUST-WRITE KEYWORDS
-
-- **Reform Agenda**
-- **Multilingual Capacity Without Legal Confusion**
-- **Multilingual citizen access**
-- **Forms, portals, grievance interfaces**
-- **Do not dilute legal accuracy**
-- **Translation capacity**
-
-**How to use them:** Frame the answer through Reform Agenda; define Multilingual Capacity Without Legal Confusion, connect Multilingual citizen access with Forms, portals, grievance interfaces to explain the mechanism, and use Do not dilute legal accuracy for the decisive comparison or qualification.
-
-Reform Agenda: Multilingual Capacity Without Legal Confusion denotes the constitutional rules and institutional links organised around Pillar Concrete direction Guardrail.
-Reform Agenda: Multilingual Capacity Without Legal Confusion operates through Multilingual citizen access Forms, portals, grievance interfaces Do not dilute legal accuracy, connected with Translation capacity Permanent terminology and translation cadres Human verification.
-The operative mechanism matters because legal-text parity Timely authorised translations after amendments Version control.
-Its principal consequence is that court access Multilingual cause lists, summaries and assistance Preserve authoritative hierarchy.
-The decisive contrast is between Minority education Teacher/material support at primary stage Context-sensitive feasibility and Federal consent Consult States before major language shifts Avoid coercive uniformity.
-The exam-safe limitation is that civil-service communication Training and bilingual digital tools No disadvantage for single-language proficiency protected by law.
-![Topic-specific visual map: Reform Agenda: Multilingual Capacity Without Legal Confusion.](assets/15_reform_agenda_multilingual_capacity_without_legal_co.png)
-[ANALYSIS] Reform should improve access and parity without pretending that every language can immediately serve every governmental and judicial function in the same way.
-
-#### Visual 62 — Seven Reform Pillars
-
-| Pillar | Concrete direction | Guardrail |
-|---|---|---|
-| Multilingual citizen access | Forms, portals, grievance interfaces | Do not dilute legal accuracy |
-| Translation capacity | Permanent terminology and translation cadres | Human verification |
-| Legal-text parity | Timely authorised translations after amendments | Version control |
-| Court access | Multilingual cause lists, summaries and assistance | Preserve authoritative hierarchy |
-| Minority education | Teacher/material support at primary stage | Context-sensitive feasibility |
-| Federal consent | Consult States before major language shifts | Avoid coercive uniformity |
-| Civil-service communication | Training and bilingual digital tools | No disadvantage for single-language proficiency protected by law |
-
-*Caption: Each proposal pairs an inclusion gain with an institutional safeguard.*
-
-#### Visual 63 — Reform Sequence
-
-```text
-MAP USER NEED
-      |
-      v
-IDENTIFY LEGAL AUTHORITY
-      |
-      v
-BUILD LANGUAGE / TERMINOLOGY CAPACITY
-      |
-      v
-PILOT WITH STATES AND USERS
-      |
-      v
-HUMAN-VERIFY TRANSLATIONS
-      |
-      v
-PUBLISH VERSIONED AUTHORITATIVE TEXT
-      |
-      v
-AUDIT ACCESS, ERRORS AND EXCLUSION
-```
-
-*Caption: Reform begins with law and user need, not with an unsupported technology mandate.*
-
-#### Visual 64 — Proposal vs Law Filter
-
-| Statement type | Safe label |
-|---|---|
-| Constitution/Act/Rule presently in force | `[FACT]` |
-| Official portal/status checked to control date | `[CURRENT]` |
-| Recommended expansion or technology design | `[ANALYSIS]` |
-| Demand, report recommendation or uncertain future change | `[LIMIT]` |
-
-*Caption: Labelling is a substantive accuracy tool, not decorative formatting.*
-
-#### CLOSING RECALL FLOW — REFORM AGENDA: MULTILINGUAL CAPACITY WITHOUT LEGAL CONFUSION
-
-```text
-START / CONCEPT: Reform Agenda: Multilingual Capacity Without Legal Confusion
-        |
-        v
-EXACT TERMS: Reform Agenda · Multilingual Capacity Without Legal Confusion · Multilingual citizen access · Forms, portals, grievance interfaces · Do not dilute legal accuracy · Translation capacity
-        |
-        v
-MECHANISM / ARGUMENT: Reform Agenda: Multilingual Capacity Without Legal Confusion denotes the constitutional rules and institutional links organised around Pillar Concrete direction Guardrail.
-        |
-        v
-CONSEQUENCE / CONTRAST: Its principal consequence is that court access Multilingual cause lists, summaries and assistance Preserve authoritative hierarchy.
-        |
-        v
-UPSC TRAP / ANSWER-USE: The decisive contrast is between Minority education Teacher/material support at primary stage Context-sensitive feasibility and Federal consent Consult States before major language shifts Avoid coercive uniformity.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Reform Agenda: Multilingual Capacity Without Legal Confusion operates through Multilingual citizen access Forms, portals, grievance interfaces Do not dilute legal accuracy, connected with Translation capacity Permanent terminology and translation cadres Human verification.
-```
-### SESSION 21 — HIGH-YIELD PRELIMS TRAP REGISTER
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Language questions are solved by matching source, actor, function and qualification.
-
-**Technical definition:** The key traps concern national versus official status, 1965, committees, courts, scheduled status and policy.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> The Prelims trap register separates official, national, scheduled, court and policy language categories.
-
-#### MUST-WRITE KEYWORDS
-
-- **Prelims traps**
-- **official language**
-- **national language**
-- **Eighth Schedule**
-- **Article 348**
-- **section 3**
-
-**How to use them:** Frame the answer through Prelims traps; define official language, connect national language with Eighth Schedule to explain the mechanism, and use Article 348 for the decisive comparison or qualification.
-
-High-Yield Prelims Trap Register denotes the constitutional rules and institutional links organised around Hindi is national language Official language of Union.
-High-Yield Prelims Trap Register operates through English is constitutionally “associate official language” Not the text’s term, connected with English ended in 1965 Statute continues it.
-The operative mechanism matters because president permanently extended English under 343(2) Parliament legislated under 343(3).
-Its principal consequence is that devanagari numerals are default International form of Indian numerals.
-The decisive contrast is between Article 344 Commission every ten years forever Five- and ten-year historical milestones and Article 344 and section 4 committees are identical Different sources/triggers.
-The exam-safe limitation is that state language must be scheduled No.
-#### Visual 65 — Twenty-Four Trap Corrections
-
-| Trap | Correction |
-|---|---|
-| Hindi is national language | Official language of Union |
-| English is constitutionally “associate official language” | Not the text’s term |
-| English ended in 1965 | Statute continues it |
-| President permanently extended English under 343(2) | Parliament legislated under 343(3) |
-| Devanagari numerals are default | International form of Indian numerals |
-| Article 344 Commission every ten years forever | Five- and ten-year historical milestones |
-| Article 344 and section 4 committees are identical | Different sources/triggers |
-| State language must be scheduled | No |
-| Article 347 recognition automatic on demand | Presidential satisfaction required |
-| Article 348 covers only courts | Also authoritative legal texts |
-| Governor alone changes HC language | Prior presidential consent |
-| Article 348(2) includes judgments | Expressly excludes them |
-| Section 7 eliminates English | English translation is required |
-| Article 349 remains routine today | Fifteen-year historical bound |
-| Article 350 guarantees all proceedings in chosen language | It protects grievance representation |
-| Article 350A is an absolute school-level FR | Endeavour + directions text |
-| Article 350B officer enforces like a court | Investigates and reports |
-| Article 351 authorises suppression | Must be harmonised with plural safeguards |
-| Act section 3 is convention | It is operative law |
-| One State can end English | Section 3(5) requires all specified States + both Houses |
-| Region A/B/C are constitutional rankings | Administrative Rules categories |
-| All 22 are official languages of India | Scheduled languages |
-| 96th Amendment added a language | Renamed Oriya as Odia |
-| Three-language formula is Article 343 | Education policy, not Part XVII |
-
-*Caption: The best elimination method is source + actor + function + qualification.*
-
-#### CLOSING RECALL FLOW — HIGH-YIELD PRELIMS TRAP REGISTER
-
-```text
-START / CONCEPT: High-Yield Prelims Trap Register
-        |
-        v
-EXACT TERMS: Prelims traps · official language · national language · Eighth Schedule · Article 348 · section 3
-        |
-        v
-MECHANISM / ARGUMENT: Use Articles, sections and amendment sequence to eliminate close options.
-        |
-        v
-CONSEQUENCE / CONTRAST: The method catches both overbroad and temporally stale statements.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not infer legal effect from a familiar political label.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The Prelims trap register separates official, national, scheduled, court and policy language categories.
-```
-### 23. Mains Answer Architecture
-
-Mains Answer Architecture denotes the constitutional rules and institutional links organised around Marks Suggested architecture Named-evidence density.
-Mains Answer Architecture operates through 10 Definition/thesis - 3 legal points - one qualification - verdict 2-3 Articles/sections, connected with 15 Constitutional map - statute - federal/minority dimension - critique - conclusion 4-6 anchors.
-The operative mechanism matters because 20 History - exact law - institutions - implementation - competing values - reforms - graded verdict 5-8 anchors.
-Its principal consequence is that official language is functional authority, not national identity.
-The decisive contrast is between Part XVII exact architecture and Official Languages Act and section 3(5).
-The exam-safe limitation is that state autonomy + linguistic-minority safeguards.
-#### Visual 66 — Mark-Scaled Structure
-
-| Marks | Suggested architecture | Named-evidence density |
-|---:|---|---|
-| 10 | Definition/thesis -> 3 legal points -> one qualification -> verdict | 2-3 Articles/sections |
-| 15 | Constitutional map -> statute -> federal/minority dimension -> critique -> conclusion | 4-6 anchors |
-| 20 | History -> exact law -> institutions -> implementation -> competing values -> reforms -> graded verdict | 5-8 anchors |
-
-*Caption: More marks require more dimensions and evidence, not merely longer narration.*
-
-#### Visual 67 — Reusable Answer Spine
-
-```text
-INTRO:
-official language is functional authority, not national identity
-
-BODY 1:
-Part XVII exact architecture
-
-BODY 2:
-Official Languages Act and section 3(5)
-
-BODY 3:
-State autonomy + linguistic-minority safeguards
-
-BODY 4:
-court/legal-text access and translation
-
-BODY 5:
-federal debate + qualified reform
-
-CONCLUSION:
-multilingual unity through consent, access and authoritative parity
-```
-
-*Caption: Tailor the emphasis to the directive; do not reproduce every dimension mechanically.*
-
-### SESSION 22 — SOURCE AND VERIFICATION LEDGER
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Source and Verification Ledger denotes the constitutional rules and institutional links organised around Claim family Named controlling evidence.
-
-**Technical definition:** The 2024 Q72 official key letter is not recorded in the routed ledger and is not inferred here.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Source and Verification Ledger denotes the constitutional rules and institutional links organised around Claim family Named controlling evidence.
-
-#### MUST-WRITE KEYWORDS
-
-- **Verification Ledger**
-- **Official Languages Act, 1963**
-- **Commissioner for Linguistic Minorities**
-- **Part XVII wording**
-- **English continuation and discontinuance**
-- **21st, 71st, 92nd and 96th Constitutional Amendment Acts**
-
-**How to use them:** Frame the answer through Verification Ledger; define Official Languages Act, 1963, connect Commissioner for Linguistic Minorities with Part XVII wording to explain the mechanism, and use English continuation and discontinuance for the decisive comparison or qualification.
-
-Source and Verification Ledger denotes the constitutional rules and institutional links organised around Claim family Named controlling evidence.
-Source and Verification Ledger operates through Part XVII wording Legislative Department, Constitution of India as on 1 May 2026, connected with English continuation and discontinuance Department of Official Language, Official Languages Act, sections 3 and 4.
-The operative mechanism matters because court judgments/translations Article 348 and Act section 7.
-Its principal consequence is that regions A/B/C Department of Official Language, Rules 1976 page.
-The decisive contrast is between Eighth-Schedule list Official Constitution, Eighth Schedule and Amendment chronology Official 21st, 71st, 92nd and 96th Amendment texts/footnotes.
-The exam-safe limitation is that linguistic-minority officer Article 350B + Ministry of Minority Affairs official page.
-#### Visual 68 — Claim-to-Source Ledger
-
-| Claim family | Named controlling evidence |
-|---|---|
-| Part XVII wording | Legislative Department, Constitution of India as on 1 May 2026 |
-| English continuation and discontinuance | Department of Official Language, Official Languages Act, sections 3 and 4 |
-| Court judgments/translations | Article 348 and Act section 7 |
-| Regions A/B/C | Department of Official Language, Rules 1976 page |
-| Eighth-Schedule list | Official Constitution, Eighth Schedule |
-| Amendment chronology | Official 21st, 71st, 92nd and 96th Amendment texts/footnotes |
-| Linguistic-minority officer | Article 350B + Ministry of Minority Affairs official page |
-| Committee current control | Committee of Parliament on Official Language official portal |
-| 2024 PYQ | Local official UPSC 2024 GS-I Set A paper + routed audit ledger |
-
-*Caption: Named evidence prevents a current-affairs headline from displacing legal text.*
-
-#### Official and Local Sources Consulted
-
-- `[FACT]` Legislative Department, **Constitution of India in English, as on 1 May 2026**, Part XVII and Eighth Schedule: `https://legislative.gov.in/document/constitution-of-india-in-english`.
-- `[FACT]` Department of Official Language, Ministry of Home Affairs, **Official Languages Act, 1963** consolidated official page: `https://rajbhasha.gov.in/en/official-languages-act-1963`.
-- `[FACT]` Department of Official Language, **Official Languages (Use for Official Purposes of the Union) Rules, 1976**, as displayed with amendments through 2011: `https://rajbhasha.gov.in/en/official-language-rules-1976`.
-- `[CURRENT]` Committee of Parliament on Official Language official portal: `https://samiti.rajbhasha.gov.in/`.
-- `[FACT]` Ministry of Minority Affairs, **Commissioner for Linguistic Minorities** official page.
-- `[FACT]` Legislative Department official texts of the **21st, 71st, 92nd and 96th Constitutional Amendment Acts**.
-- `[CURRENT]` Press Information Bureau official material on classical-language recognition, including the October 2024 additions.
-- `[FACT]` Local owners: `Polity/basic/Official-Language.md`, `Polity/advanced/40_Official-Language.md`, and adjacent Fundamental Rights, Parliament, higher judiciary, Centre-State relations and federalism owners as needed.
-- `[FACT]` Local routed PYQ and integration-audit ledgers for 2018-2023, 2024-2025 and 2026, plus the official/local 2024 Prelims GS-I Set A paper.
-
-#### Current/Legal Limits
-
-- `[LIMIT]` No additional Eighth-Schedule demand is treated as enacted.
-- `[LIMIT]` No committee recommendation is treated as self-executing law.
-- `[LIMIT]` No current officeholder or annual target is frozen.
-- `[LIMIT]` “Associate official language” is not used as legal terminology for English.
-- `[LIMIT]` Article 349 is treated as historically bounded, not a current routine gate.
-- `[LIMIT]` Article 350A is not overstated as an absolute judicially self-executing guarantee.
-- `[LIMIT]` Non-authoritative AI or general-information translations are not treated as controlling law.
-- `[LIMIT]` The 2024 Q72 official key letter is not recorded in the routed ledger and is not inferred here.
-
-#### CLOSING RECALL FLOW — SOURCE AND VERIFICATION LEDGER
-
-```text
-START / CONCEPT: Source and Verification Ledger
-        |
-        v
-EXACT TERMS: Verification Ledger · Official Languages Act, 1963 · Commissioner for Linguistic Minorities · Part XVII wording · English continuation and discontinuance · 21st, 71st, 92nd and 96th Constitutional Amendment Acts
-        |
-        v
-MECHANISM / ARGUMENT: Department of Official Language, Official Languages (Use for Official Purposes of the Union) Rules, 1976, as displayed with amendments through 2011: https://rajbhasha.gov.in/en/official-language-rules-1976. [CURRENT] Committee of Parliament on Official Language official portal: https://samiti.rajbhasha.gov.in/.
-        |
-        v
-CONSEQUENCE / CONTRAST: The 2024 Q72 official key letter is not recorded in the routed ledger and is not inferred here.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: its principal consequence is that regions A/B/C Department of Official Language, Rules 1976 page.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Source and Verification Ledger denotes the constitutional rules and institutional links organised around Claim family Named controlling evidence.
-```
-### SESSION 23 — JUDICIAL DOCTRINE: LANGUAGE CHOICE, MINORITIES AND MEDIUM
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Language cases connect legislative competence, protected educational choice and contextual minority safeguards.
-
-**Technical definition:** Judicial doctrine on language choice, linguistic minorities and medium of instruction applies competence and rights analysis to distinct educational disputes.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> The cases do not create a national language or erase Article 350A.
-
-#### MUST-WRITE KEYWORDS
-
-- **judicial doctrine**
-- **language choice**
-- **linguistic minorities**
-- **medium of instruction**
-- **Gujarat University v. Shri Krishna (1963)**
+- **Gujarat University**
+- **T.M.A. Pai Foundation**
 - **Associated Management**
+- **U.P. Hindi Sahitya Sammelan**
+- **legislative competence**
+- **protected choice**
 
-**How to use them:** Frame the answer through judicial doctrine; define language choice, connect linguistic minorities with medium of instruction to explain the mechanism, and use Gujarat University v. Shri Krishna (1963) for the decisive comparison or qualification.
+**How to use them:** Use Gujarat University, T.M.A. Pai Foundation, Associated Management and U.P. Hindi Sahitya Sammelan for their distinct competence, minority and protected-choice holdings.
 
-Judicial Doctrine: Language Choice, Minorities and Medium denotes the constitutional rules and institutional links organised around Decision Exam-safe proposition Qualification.
-Judicial Doctrine: Language Choice, Minorities and Medium operates through [ANALYSIS] The cases show that language policy is controlled by competence, rights,, connected with minority context and proportionality, not by a single hierarchy of "national" languages.
-The operative mechanism matters because solved PYQ and practice workbook.
-Its principal consequence is that verified relevant PYQ corpus.
-The decisive contrast is between UPSC Prelims 2024, GS Paper I, Set A, Q72 and The Constitution (71st Amendment) Act, 1992 amends the Eighth Schedule to the Constitution to include which of the following languages?.
-The exam-safe limitation is that select the correct answer using the code given below.
-![Topic-specific visual map: Judicial Doctrine: Language Choice, Minorities and Medium.](assets/16_judicial_doctrine_language_choice_minorities_and_med.png)
-| Decision | Exam-safe proposition | Qualification |
-|---|---|---|
-| Gujarat University v. Shri Krishna (1963) | education-language power operates within the Union-State legislative distribution | not an Article 343 national-language ruling |
-| D.A.V. College v. State of Punjab (1971) | linguistic-minority and language safeguards require contextual constitutional analysis | scheduled status is not the sole test |
-| State of Karnataka v. Associated Management (2014) | the State cannot impose a mother-tongue medium in a manner that violates protected choice | Article 350A still directs facilities at the primary stage |
-
-[ANALYSIS] The cases show that language policy is controlled by competence, rights,
-minority context and proportionality, not by a single hierarchy of "national" languages.
-
-#### CLOSING RECALL FLOW — JUDICIAL DOCTRINE: LANGUAGE CHOICE, MINORITIES AND MEDIUM
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: Judicial Doctrine: Language Choice, Minorities and Medium
-        |
-        v
-EXACT TERMS: judicial doctrine · language choice · linguistic minorities · medium of instruction · Gujarat University v. Shri Krishna (1963) · Associated Management
-        |
-        v
-MECHANISM / ARGUMENT: State each holding within its competence or rights context.
-        |
-        v
-CONSEQUENCE / CONTRAST: Together they constrain coercive simplification while preserving lawful regulation.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge medium-of-instruction doctrine into Part XVII official-language rules.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The cases do not create a national language or erase Article 350A.
+CASE                         PRECISE USE
+Gujarat University (1963)    -> no statutory power for exclusive medium;
+                                 State law cannot impair Entry 66 standards
+T.M.A. Pai (2002)            -> minority status is State-relative;
+                                 Article 30 protects institutions of choice
+Associated Management (2014)-> child/parent primary-medium choice under
+                                 Art. 19(1)(a); Art. 350A cannot compel
+                                 mother tongue only against Art. 30(1)
+U.P. Hindi Sahitya (2014)    -> Art. 345 power can be reused; Urdu valid
+                                 as second official language for purposes.
 ```
-### POLITY HOSTILE SEMANTIC-REVIEW CORE CONTROL
 
-- **Must remember:** State precisely that Hindi in Devanagari is the Union's official language and that the Constitution declares no national language.
-- **Close distinction:** Keep Union, State, court, grievance, minority-instruction, scheduled, classical and education-policy language categories separate.
-- **Legal/source limit:** The 1963 Act, 1967 settlement and 1976 Rules as amended through 2011 remain operative; the Eighth Schedule contains twenty-two languages.
+#### Claim -> named evidence -> analysis -> qualification
 
-### Semantic-completeness ownership and PYQ control
+- **Claim:** The cases support contextual constitutional review, not a free-standing judicial language policy.
+- **Named evidence:** Gujarat University v. Krishna Ranganath Mudholkar (1963 AIR 703); T.M.A. Pai Foundation v. State of Karnataka (2002); State of Karnataka v. Associated Management (2014); U.P. Hindi Sahitya Sammelan v. State of U.P. (2014).
+- **Analysis:** Together the authorities require the State to identify competence, rights, institutional autonomy and the actual legal source before compelling or restricting a language.
+- **Qualification:** Gujarat University expressly declined to decide the Articles 29-30 plea for inadequate pleading and evidence; T.M.A. Pai is used for the broader minority framework, not misquoted as the sole medium-of-instruction holding.
 
-- **Constitutional status:** Part XVII contains Articles 343-351. Article 343
-  makes Hindi in Devanagari script the official language of the Union and uses
-  the international form of Indian numerals. The Constitution does not declare
-  any national language.
-- **Union settlement:** Article 343(2)'s initial fifteen-year continuation of
-  English was followed by Parliament's Official Languages Act, 1963. Section 3,
-  substituted in 1967, permits English to continue in addition to Hindi and
-  protects Union communication with non-Hindi States through its provisos and
-  section 3(5) consent lock.
-- **Commission/committee distinction:** Article 344 provides the constitutional
-  Commission and parliamentary committee sequence. The continuing Committee of
-  Parliament on Official Language is the thirty-member statutory committee
-  under section 4 of the 1963 Act, not a permanent Article 344 Commission.
-- **Current institutional snapshot, checked 5 September 2026:** the official
-  Committee portal identifies Union Home Minister Amit Shah as Chairperson and
-  displays the thirteenth part of its report. Recommendations or Presidential
-  directions cannot override section 3.
-- **State variation:** Article 345 permits a State legislature to adopt one or
-  more languages in use in the State or Hindi. Articles 346-347 govern
-  intergovernmental communication and recognition of a language spoken by a
-  substantial section. No single State-language template can be universalised.
-- **Courts and authoritative texts:** Article 348 retains English for Supreme
-  Court and High Court proceedings and authoritative legal texts until valid
-  legal change. Article 348(2) and section 7 allow bounded High Court use of
-  Hindi/a State official language with prior Presidential consent and an
-  authoritative English translation of judgments, decrees and orders.
-- **Citizen/minority/development provisions:** Article 350 protects grievance
-  representation in any language used in the Union or State; Articles 350A and
-  350B concern primary-stage mother-tongue facilities and the Special Officer
-  for linguistic minorities; Article 351 directs development of Hindi while
-  drawing on India's composite culture.
-- **Rules:** the Official Languages (Use for Official Purposes of the Union)
-  Rules, 1976 are displayed by the Department as amended in 1987, 2007 and
-  2011. They divide administration into Regions A/B/C and expressly exclude
-  Tamil Nadu from their territorial extent. Rules do not amend Part XVII.
-- **Separate categories:** the Eighth Schedule contains twenty-two languages.
-  Scheduled status does not itself make a language official everywhere.
-  Classical-language status and the three-language formula are separate
-  executive/education-policy categories; October 2024 recognition brought the
-  then official classical-language count to eleven.
-- **Case/PYQ firewall:** Gujarat University v. Shri Krishna (1963), D.A.V. College v. State of Punjab (1971) and Associated
-  Management control competence, minority safeguards and educational choice;
-  none declares a national language. The routed 2024 Prelims constitutional-
-  amendment demand is retained; current proposals are not treated as enacted.
+#### Evidence
+
+- `[FACT]` Gujarat University held that the University Act did not authorise an exclusive Gujarati/Hindi medium; the majority also protected the Union's Entry 66 standards field.
+- `[FACT]` T.M.A. Pai treated the relevant unit for determining a linguistic or religious minority as the State and protected Article 30 institutional choice subject to valid regulation.
+- `[FACT]` Associated Management located primary-medium choice in Article 19(1)(a), not Articles 21/21A, and rejected compulsory mother-tongue-only use against Article 30(1).
+- `[FACT]` U.P. Hindi Sahitya upheld Urdu as an additional official language and distinguished Article 345 legislation from Article 347's presidential route.
+- `[LIMIT]` None of these cases declares Hindi a national language or invalidates Article 350A.
+
+#### Prelims trap
+
+quote Gujarat University as deciding an Article 30 claim it expressly left undecided, or use T.M.A. Pai as a Part XVII official-language case.
+
+#### Mains use
+
+Use the case matrix as controlled named evidence for competence, rights and federal accommodation.
+
+#### Recap
+
+Case law supports choice and pluralism through issue-specific holdings, not through invented language absolutes.
+
+#### CLOSING RECALL FLOW — JUDICIAL DOCTRINE ON LANGUAGE, EDUCATION AND MINORITIES
+
+```text
+START / CONCEPT: JUDICIAL DOCTRINE ON LANGUAGE, EDUCATION AND MINORITIES
+EXACT TERMS: Gujarat University | T.M.A. Pai Foundation | Associated Management | U.P. Hindi Sahitya Sammelan | legislative competence | protected choice
+MECHANISM / ARGUMENT: The cases support contextual constitutional review, not a free-standing judicial language policy.
+CONSEQUENCE / CONTRAST: Together the authorities require the State to identify competence, rights, institutional autonomy and the actual legal source before compelling or restricting a language.
+UPSC TRAP / ANSWER-USE: Do not quote Gujarat University as deciding an Article 30 claim it expressly left undecided, or use T.M.A. Pai as a Part XVII official-language case.
+ANSWER-GRABBING FORMULATION: Judicial doctrine constrains coercive language policy while preserving reasonable regulation and the exact text of Part XVII.
+```
+
+
+### SESSION 19 — THREE-LANGUAGE FORMULA, PROMOTION AND ANTI-IMPOSITION FEDERALISM
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** The three-language formula is an education-policy approach, not a command in Part XVII or the Eighth Schedule.
+
+**Technical definition:** Associated with the Kothari Commission and National Policy on Education 1968 and reiterated in NEP 2020, it operates within the Concurrent-List education field and varies by State.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> Language promotion is sustainable when it expands learning and communication choices rather than imposing asymmetric burdens.
+
+#### MUST-WRITE KEYWORDS
+
+- **three-language formula**
+- **education policy**
+- **Concurrent List**
+- **State implementation**
+- **Hindi promotion**
+- **anti-imposition**
+
+**How to use them:** Classify the three-language formula as education policy in the Concurrent List, then weigh Hindi promotion against anti-imposition and State implementation concerns.
+
+#### VISUAL FIRST
+
+```text
+INTEGRATION CASE
+multilingual competence -> mobility -> cultural contact
+                                         > THREE-LANGUAGE POLICY
+                    /
+FEDERAL CONCERN
+unequal learning burden -> State autonomy -> Tamil Nadu two-language approach
+
+CONSTITUTIONAL CONTROL
+not Part XVII command | not Eighth-Schedule effect | education in Concurrent List.
+```
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** The promotion-imposition boundary turns on legal authority, reciprocity, burden and meaningful choice.
+- **Named evidence:** Kothari Commission; National Policy on Education 1968; NEP 2020; Articles 343, 345, 351.
+- **Analysis:** A voluntary and capacity-backed language policy can support integration, whereas coercive displacement may deepen distrust and unequal opportunity.
+- **Qualification:** A State's policy disagreement is not automatically unconstitutional, and the formula does not override minority rights or State official-language law.
+
+#### Evidence
+
+- `[FACT]` No clause in Articles 343-351 constitutionalises a three-language formula.
+- `[FACT]` Education is in the Concurrent List, so both national policy and State implementation matter.
+- `[ANALYSIS]` Hindi-speaking and non-Hindi-speaking learners may face different burdens under a uniform formula.
+- `[ANALYSIS]` Reciprocity, teacher availability and curricular quality are better tests than symbolic compliance.
+- `[LIMIT]` Promotion of Hindi under Article 351 cannot be converted into compulsory replacement outside lawful authority.
+
+#### Prelims trap
+
+call the three-language formula a Fundamental Duty, a constitutional command or a direct effect of Eighth-Schedule inclusion.
+
+#### Mains use
+
+Use the policy-law distinction to produce a balanced federal answer rather than a binary pro-Hindi or anti-Hindi essay.
+
+#### Recap
+
+Multilingual education should widen capability through federal negotiation, not collapse diversity into a compulsory national-language claim.
+
+#### CLOSING RECALL FLOW — THREE-LANGUAGE FORMULA, PROMOTION AND ANTI-IMPOSITION FEDERALISM
+
+```text
+START / CONCEPT: THREE-LANGUAGE FORMULA, PROMOTION AND ANTI-IMPOSITION FEDERALISM
+EXACT TERMS: three-language formula | education policy | Concurrent List | State implementation | Hindi promotion | anti-imposition
+MECHANISM / ARGUMENT: The promotion-imposition boundary turns on legal authority, reciprocity, burden and meaningful choice.
+CONSEQUENCE / CONTRAST: A voluntary and capacity-backed language policy can support integration, whereas coercive displacement may deepen distrust and unequal opportunity.
+UPSC TRAP / ANSWER-USE: Do not call the three-language formula a Fundamental Duty, a constitutional command or a direct effect of Eighth-Schedule inclusion.
+ANSWER-GRABBING FORMULATION: Language promotion is sustainable when it expands learning and communication choices rather than imposing asymmetric burdens.
+```
+
+
+### SESSION 20 — ADMINISTRATIVE ACCESS, TRANSLATION TECHNOLOGY AND REFORM
+
+#### DEFINITION / WHAT THIS IS CALLED
+
+**Plain-language definition:** Multilingual governance requires reliable intake, interpretation, translation, publication and version control across administration, legislatures and courts.
+
+**Technical definition:** Technology may assist language access, but authoritative status and legal responsibility continue to arise from Articles 348, the 1963 Act and valid rules or authorisation.
+
+#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+
+> The reform goal is functional linguistic equality: citizens can access the State while officials and courts retain accurate, interoperable records.
+
+#### MUST-WRITE KEYWORDS
+
+- **multilingual administration**
+- **human-reviewed translation**
+- **authoritative version**
+- **digital language divide**
+- **federal consultation**
+- **access and equality**
+
+**How to use them:** Link multilingual administration, human-reviewed translation, authoritative version control, digital language divide and federal consultation in one access-and-equality reform chain.
+
+#### VISUAL FIRST
+
+```text
+CITIZEN INPUT
+speech / text / grievance
+        |
+multilingual interface + interpretation
+        |
+machine-assisted translation
+        |
+trained human and legal review
+        |
+authority label + version control + audit trail
+        |
+accessible publication and correction channel
+
+TESTS: accuracy | timeliness | privacy | offline access | legal authority.
+```
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Language technology can expand access only when legal authority and accountable human review remain visible.
+- **Named evidence:** Articles 350 and 348; Official Languages Act sections 3 and 5-8; Official Language Rules 1976.
+- **Analysis:** Well-designed systems reduce the English-access gap, improve grievance handling and make translations discoverable without confusing an assistive output with controlling law.
+- **Qualification:** Automated translation may produce semantic error, dialect exclusion or false authority; reforms must preserve the authorised text and an appeal or correction route.
+
+#### Evidence
+
+- `[ANALYSIS]` Build multilingual intake before demanding uniform language proficiency from citizens.
+- `[ANALYSIS]` Use domain glossaries, human legal validation and version identifiers for legislation and judgments.
+- `[ANALYSIS]` Publish the authoritative version and access translation together with clear labels.
+- `[ANALYSIS]` Maintain offline and assisted channels to avoid a digital-language divide.
+- `[ANALYSIS]` Consult States before altering Union communication, examination or education practices.
+- `[LIMIT]` Software output and committee recommendations do not amend the Constitution or statute.
+
+#### Prelims trap
+
+present AI translation as automatically authoritative or treat digitisation as sufficient without accessibility, privacy and error-correction safeguards.
+
+#### Mains use
+
+Use the reform chain to close a Mains answer with practical proposals tied to constitutional limits.
+
+#### Recap
+
+The future of the language settlement lies in multilingual capacity, verified translation and federal consent rather than coercive uniformity.
+
+#### CLOSING RECALL FLOW — ADMINISTRATIVE ACCESS, TRANSLATION TECHNOLOGY AND REFORM
+
+```text
+START / CONCEPT: ADMINISTRATIVE ACCESS, TRANSLATION TECHNOLOGY AND REFORM
+EXACT TERMS: multilingual administration | human-reviewed translation | authoritative version | digital language divide | federal consultation | access and equality
+MECHANISM / ARGUMENT: Language technology can expand access only when legal authority and accountable human review remain visible.
+CONSEQUENCE / CONTRAST: Well-designed systems reduce the English-access gap, improve grievance handling and make translations discoverable without confusing an assistive output with controlling law.
+UPSC TRAP / ANSWER-USE: Do not present AI translation as automatically authoritative or treat digitisation as sufficient without accessibility, privacy and error-correction safeguards.
+ANSWER-GRABBING FORMULATION: The reform goal is functional linguistic equality: citizens can access the State while officials and courts retain accurate, interoperable records.
+```
+
 
 ## BASIC MCQS / REMEDIATION
 
-#### Original MCQs 1-36
+Exactly **32 original MCQs** appear below before the PYQ section. Questions 25-32 are targeted remediation. Correct-option sequence: `ABCDABCDABCDABCDABCDABCDABCDABCD`.
 
-##### OM1. Which statement most accurately reproduces Article 343(1)?
+### MCQ 1. Constitutional status
 
-A. Hindi in Devanagari script is the official language of the Union.
-B. English is the sole constitutional language of Union administration.
-C. Hindi is the national language of India.
-D. Every Eighth-Schedule language is an official language of the Union.
+Which statement is constitutionally correct?
 
-**Answer: A.**
+A. Hindi in Devanagari script is the official language of the Union, but the Constitution declares no national language.
+B. Hindi is the national language and English is its subordinate associate language.
+C. All Eighth-Schedule languages are official languages of the Union.
+D. English is the sole official language named in Article 343.
 
-[FACT] Article 343(1) uses the functional expression **official language of the Union**. [LIMIT] Neither “national language” nor a universal Union-official status for all 22 scheduled languages follows from it.
+**Answer: A. Hindi in Devanagari script is the official language of the Union, but the Constitution declares no national language.**
 
-##### OM2. How does the Official Languages Act, 1963 describe post-transition use of English for specified Union purposes?
+**Option-specific explanations:**
 
-A. English becomes the national language for legal purposes.
-B. English may continue to be used in addition to Hindi.
-C. English survives only through executive convention.
-D. English becomes a scheduled language.
+- **A:** Correct. Article 343(1) uses the functional expression official language of the Union; no constitutional provision declares a national language.
+- **B:** Incorrect. The Constitution does not use a Hindi-national/English-associate hierarchy. The controlling rule is: Article 343(1) uses the functional expression official language of the Union; no constitutional provision declares a national language.
+- **C:** Incorrect. Scheduled recognition does not confer Union-official status on all 22 languages. The controlling rule is: Article 343(1) uses the functional expression official language of the Union; no constitutional provision declares a national language.
+- **D:** Incorrect. Article 343 names Hindi, not English, as the Union's official language. The controlling rule is: Article 343(1) uses the functional expression official language of the Union; no constitutional provision declares a national language.
 
-**Answer: B.**
+**Examiner trap 1:** Do not convert official-language status into national-language status.
 
-[FACT] Section 3 uses “in addition to Hindi”; it does not constitutionally label English an “associate official language”. Its continuation is statutory, not a mere convention.
+### MCQ 2. Numerals under Article 343
 
-##### OM3. The constitutionally specified form of numerals for the official purposes of the Union is:
+Article 343(1) specifies which numeral form for Union official purposes?
 
-A. Devanagari numerals exclusively.
-B. Roman numerals.
-C. The international form of Indian numerals.
-D. A form selected annually by Parliament.
+A. Devanagari numerals only.
+B. The international form of Indian numerals.
+C. Roman numerals as defined by Parliament.
+D. Any numeral form selected by each Ministry.
 
-**Answer: C.**
+**Answer: B. The international form of Indian numerals.**
 
-[FACT] Article 343(1) separately fixes Hindi in Devanagari and the **international form of Indian numerals**. Script and numeral form must not be conflated.
+**Option-specific explanations:**
 
-##### OM4. Article 344(1) required constitution of the Official Language Commission:
+- **A:** Incorrect. Devanagari is the script specified for Hindi, not the default numeral form. The controlling rule is: Article 343(1) separates Hindi's Devanagari script from the international form of Indian numerals.
+- **B:** Correct. Article 343(1) separates Hindi's Devanagari script from the international form of Indian numerals.
+- **C:** Incorrect. The Constitution itself supplies the form; no annual parliamentary definition is needed. The controlling rule is: Article 343(1) separates Hindi's Devanagari script from the international form of Indian numerals.
+- **D:** Incorrect. Individual Ministries cannot replace the constitutional numeral rule by preference. The controlling rule is: Article 343(1) separates Hindi's Devanagari script from the international form of Indian numerals.
 
-A. whenever either House passed a simple resolution.
-B. every five years indefinitely.
-C. every ten years indefinitely.
-D. at five years and at ten years from constitutional commencement.
+**Examiner trap 2:** Script and numeral form are separate constitutional choices.
 
-**Answer: D.**
+### MCQ 3. Transition and continuation
 
-[FACT] The wording identifies two historical milestones measured from commencement. [LIMIT] It does not establish a commission recurring every ten years forever.
+Which proposition correctly connects Article 343(2) and Article 343(3)?
 
-##### OM5. Which consideration is expressly built into Article 344’s recommendation process?
+A. Clause (2) permanently guarantees English and clause (3) repeals Hindi.
+B. Clause (2) authorised only Hindi during 1950-1965.
+C. Clause (2) continued English for fifteen years, while clause (3) authorised Parliament to provide for later English use.
+D. Clause (3) lets the President continue English without legislation.
 
-A. The just claims and interests of persons belonging to non-Hindi-speaking areas in public services.
-B. Abolition of English in all courts.
-C. Automatic preference for every Hindi-proficient employee.
-D. Conversion of scheduled languages into Union official languages.
+**Answer: C. Clause (2) continued English for fifteen years, while clause (3) authorised Parliament to provide for later English use.**
 
-**Answer: A.**
+**Option-specific explanations:**
 
-[FACT] Article 344(3) requires regard to industrial, cultural and scientific advancement and to non-Hindi-speaking interests. The constitutional design is balancing, not one-directional replacement.
+- **A:** Incorrect. Clause (2) was time-limited and did not repeal Hindi's clause (1) status. The controlling rule is: Clause (2) supplied the transitional period and clause (3) supplied parliamentary legislative power for the post-transition period.
+- **B:** Incorrect. Clause (2) continued English rather than excluding it. The controlling rule is: Clause (2) supplied the transitional period and clause (3) supplied parliamentary legislative power for the post-transition period.
+- **C:** Correct. Clause (2) supplied the transitional period and clause (3) supplied parliamentary legislative power for the post-transition period.
+- **D:** Incorrect. Clause (3) assigns the decision to Parliament by law, not unilateral presidential order. The controlling rule is: Clause (2) supplied the transitional period and clause (3) supplied parliamentary legislative power for the post-transition period.
 
-##### OM6. The parliamentary committee under Article 344(4) consists of:
+**Examiner trap 3:** Do not say English automatically ended in 1965.
 
-A. 15 Lok Sabha and 15 Rajya Sabha members nominated by the President.
-B. 20 Lok Sabha and 10 Rajya Sabha members elected by PR-STV in their Houses.
-C. 20 Lok Sabha and 10 Rajya Sabha members nominated by the Home Minister.
-D. 30 members drawn only from Eighth-Schedule language States.
+### MCQ 4. Article 344 timing
 
-**Answer: B.**
+When did Article 344(1) require the President to constitute the Official Language Commission?
 
-[FACT] Its 30 members are elected by the respective Houses through proportional representation by the single transferable vote. Similar composition does not make it identical to the later section 4 statutory committee.
+A. Every five years indefinitely.
+B. Whenever the statutory committee requests it.
+C. Only once, in 1976.
+D. At the expiration of five years and then ten years from constitutional commencement.
 
-##### OM7. Under Article 345, a State Legislature may adopt:
+**Answer: D. At the expiration of five years and then ten years from constitutional commencement.**
 
-A. only a language listed in the Eighth Schedule.
-B. Hindi alone.
-C. one or more languages in use in the State or Hindi, for all or specified official purposes.
-D. any foreign language without legislation.
+**Option-specific explanations:**
 
-**Answer: C.**
+- **A:** Incorrect. Article 344 does not prescribe indefinite five-year recurrence. The controlling rule is: The constitutional text identifies two time points measured from commencement, not a recurring decennial cycle.
+- **B:** Incorrect. A statutory committee request is not the constitutional trigger. The controlling rule is: The constitutional text identifies two time points measured from commencement, not a recurring decennial cycle.
+- **C:** Incorrect. 1976 relates to later statutory/rule implementation, not the first Commission requirement. The controlling rule is: The constitutional text identifies two time points measured from commencement, not a recurring decennial cycle.
+- **D:** Correct. The constitutional text identifies two time points measured from commencement, not a recurring decennial cycle.
 
-[FACT] Scheduled status is not a gate to State official-language adoption. The power is legislative and operates subject to Articles 346 and 347.
+**Examiner trap 4:** The Article 344 Commission was time-linked, not permanently periodic.
 
-##### OM8. Article 347 becomes relevant when:
+### MCQ 5. Commission membership
 
-A. the Supreme Court recommends a national language.
-B. a State Cabinet alone requests a new scheduled language.
-C. Parliament passes an ordinary law changing a State’s official language.
-D. the President is satisfied that a substantial proportion of a State’s population desires official recognition of a language spoken by them.
+Who may be represented among members of the Article 344 Commission?
 
-**Answer: D.**
+A. The different languages specified in the Eighth Schedule.
+B. Only States that have adopted Hindi.
+C. Only members of Parliament.
+D. Every language claimed in a pending inclusion demand.
 
-[FACT] Demand plus presidential satisfaction activates a discretionary direction for the whole or part of a State and for a specified purpose. [LIMIT] No fixed constitutional percentage defines “substantial proportion”.
+**Answer: A. The different languages specified in the Eighth Schedule.**
 
-##### OM9. Article 348(1) principally controls:
+**Option-specific explanations:**
+
+- **A:** Correct. Article 344(1) directs representation of the different languages specified in the Eighth Schedule.
+- **B:** Incorrect. Hindi-official-language status is not the membership criterion. The controlling rule is: Article 344(1) directs representation of the different languages specified in the Eighth Schedule.
+- **C:** Incorrect. The Commission is not constitutionally limited to parliamentarians. The controlling rule is: Article 344(1) directs representation of the different languages specified in the Eighth Schedule.
+- **D:** Incorrect. A pending demand does not equal Eighth-Schedule inclusion. The controlling rule is: Article 344(1) directs representation of the different languages specified in the Eighth Schedule.
+
+**Examiner trap 5:** Scheduled-language representation is a Commission function, not Union-official status.
+
+### MCQ 6. Constitutional committee
+
+Which composition and election method belong to the committee under Article 344(4)?
+
+A. Fifteen members from each House, nominated by the President.
+B. Twenty Lok Sabha and ten Rajya Sabha members, elected by PR-STV in their Houses.
+C. Twenty Chief Ministers and ten Governors.
+D. Thirty members selected by the Union Home Minister.
+
+**Answer: B. Twenty Lok Sabha and ten Rajya Sabha members, elected by PR-STV in their Houses.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. The Houses are not equally represented and presidential nomination is not the method. The controlling rule is: Article 344(4) fixes a 20:10 House composition and election by proportional representation through the single transferable vote.
+- **B:** Correct. Article 344(4) fixes a 20:10 House composition and election by proportional representation through the single transferable vote.
+- **C:** Incorrect. State executives do not constitute this parliamentary committee. The controlling rule is: Article 344(4) fixes a 20:10 House composition and election by proportional representation through the single transferable vote.
+- **D:** Incorrect. The Union Home Minister does not select the constitutional committee's members. The controlling rule is: Article 344(4) fixes a 20:10 House composition and election by proportional representation through the single transferable vote.
+
+**Examiner trap 6:** Similar numbers do not make the Article 344 and section 4 committees identical.
+
+### MCQ 7. Article 344 balancing factor
+
+Which consideration is expressly required by Article 344(3)?
+
+A. Replacing every State language with Hindi.
+B. Giving automatic promotion preference to bilingual officials.
+C. Industrial, cultural and scientific advancement and the just claims of non-Hindi-speaking areas in public services.
+D. Converting the Eighth Schedule into a list of court languages.
+
+**Answer: C. Industrial, cultural and scientific advancement and the just claims of non-Hindi-speaking areas in public services.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. State-language replacement is absent from clause (3). The controlling rule is: Clause (3) expressly combines national advancement considerations with the claims and interests of non-Hindi-speaking areas in public services.
+- **B:** Incorrect. The clause protects interests but creates no automatic promotion preference. The controlling rule is: Clause (3) expressly combines national advancement considerations with the claims and interests of non-Hindi-speaking areas in public services.
+- **C:** Correct. Clause (3) expressly combines national advancement considerations with the claims and interests of non-Hindi-speaking areas in public services.
+- **D:** Incorrect. It does not alter Article 348 or create scheduled court languages. The controlling rule is: Clause (3) expressly combines national advancement considerations with the claims and interests of non-Hindi-speaking areas in public services.
+
+**Examiner trap 7:** Article 344 contains an express non-Hindi-interest safeguard.
+
+### MCQ 8. Section 3(5) lock
+
+What must occur before the specified section 3 protections for English may be discontinued?
+
+A. A Cabinet resolution alone.
+B. A recommendation of the statutory committee alone.
+C. A resolution of any one non-Hindi State and the Lok Sabha.
+D. Resolutions of all States that have not adopted Hindi as official language, followed by a resolution in each House of Parliament.
+
+**Answer: D. Resolutions of all States that have not adopted Hindi as official language, followed by a resolution in each House of Parliament.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. Executive preference cannot satisfy the statutory legislative lock. The controlling rule is: Section 3(5) requires the complete State set described in the Act and then separate approval by both Houses.
+- **B:** Incorrect. The committee recommends; it does not itself discontinue English. The controlling rule is: Section 3(5) requires the complete State set described in the Act and then separate approval by both Houses.
+- **C:** Incorrect. One State and one House fall short of both statutory stages. The controlling rule is: Section 3(5) requires the complete State set described in the Act and then separate approval by both Houses.
+- **D:** Correct. Section 3(5) requires the complete State set described in the Act and then separate approval by both Houses.
+
+**Examiner trap 8:** The safeguard is a double legislative lock, not an executive switch.
+
+### MCQ 9. Union-State communication
+
+Under section 3(1), communication between the Union and a State that has not adopted Hindi as its official language must use:
+
+A. English.
+B. Hindi without translation.
+C. Only the State's regional language.
+D. Any scheduled language chosen by the Union.
+
+**Answer: A. English.**
+
+**Option-specific explanations:**
+
+- **A:** Correct. The first proviso to section 3(1) says English shall be used for this communication.
+- **B:** Incorrect. Hindi-only communication contradicts the mandatory proviso. The controlling rule is: The first proviso to section 3(1) says English shall be used for this communication.
+- **C:** Incorrect. The Act does not require the Union to use only the State's regional language in this route. The controlling rule is: The first proviso to section 3(1) says English shall be used for this communication.
+- **D:** Incorrect. Scheduled status does not create a free Union choice for this communication. The controlling rule is: The first proviso to section 3(1) says English shall be used for this communication.
+
+**Examiner trap 9:** For this route, the Act says English shall be used.
+
+### MCQ 10. Bilingual instruments
+
+Which provision requires both Hindi and English for specified Union resolutions, rules, notifications, reports, contracts and notices?
+
+A. Article 347.
+B. Section 3(3) of the Official Languages Act.
+C. Section 6 of the Act.
+D. Rule 10 alone.
+
+**Answer: B. Section 3(3) of the Official Languages Act.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. Article 347 concerns presidential recognition of a language in a State. The controlling rule is: Section 3(3) directly imposes bilingual use on enumerated high-value official instruments.
+- **B:** Correct. Section 3(3) directly imposes bilingual use on enumerated high-value official instruments.
+- **C:** Incorrect. Section 6 concerns authorised Hindi translation of specified State laws. The controlling rule is: Section 3(3) directly imposes bilingual use on enumerated high-value official instruments.
+- **D:** Incorrect. Rule 10 defines working knowledge and does not create the statutory document list. The controlling rule is: Section 3(3) directly imposes bilingual use on enumerated high-value official instruments.
+
+**Examiner trap 10:** The bilingual-document duty comes from the Act and is implemented by Rule 6.
+
+### MCQ 11. Employee protection
+
+Section 3(4) requires official-language rules to ensure that Union employees proficient in either Hindi or English:
+
+A. must acquire both before performing any work.
+B. may refuse every translation request.
+C. can function effectively and are not disadvantaged merely for lacking proficiency in both.
+D. receive automatic seniority.
+
+**Answer: C. can function effectively and are not disadvantaged merely for lacking proficiency in both.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. The statutory protection exists precisely because universal dual proficiency is not required. The controlling rule is: The subsection combines efficient disposal, public interest and non-disadvantage for employees proficient in either language.
+- **B:** Incorrect. Translation duties remain governed by the Act and Rules. The controlling rule is: The subsection combines efficient disposal, public interest and non-disadvantage for employees proficient in either language.
+- **C:** Correct. The subsection combines efficient disposal, public interest and non-disadvantage for employees proficient in either language.
+- **D:** Incorrect. The provision protects effective functioning, not automatic seniority. The controlling rule is: The subsection combines efficient disposal, public interest and non-disadvantage for employees proficient in either language.
+
+**Examiner trap 11:** Hindi promotion is statutorily paired with efficiency and employee fairness.
+
+### MCQ 12. Section 8
+
+What is the legal function of section 8 of the Official Languages Act?
+
+A. It adds languages to the Eighth Schedule.
+B. It authorises every State to alter Supreme Court language.
+C. It declares Hindi the national language.
+D. It empowers Central rule-making and requires parliamentary laying for a total of thirty days.
+
+**Answer: D. It empowers Central rule-making and requires parliamentary laying for a total of thirty days.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. Scheduled-language addition needs constitutional amendment. The controlling rule is: Section 8 is a delegated-legislation provision with Gazette notification and a parliamentary modification or annulment process.
+- **B:** Incorrect. Supreme Court language remains governed by Article 348 and parliamentary law. The controlling rule is: Section 8 is a delegated-legislation provision with Gazette notification and a parliamentary modification or annulment process.
+- **C:** Incorrect. The Act contains no national-language declaration. The controlling rule is: Section 8 is a delegated-legislation provision with Gazette notification and a parliamentary modification or annulment process.
+- **D:** Correct. Section 8 is a delegated-legislation provision with Gazette notification and a parliamentary modification or annulment process.
+
+**Examiner trap 12:** Rules under section 8 carry out the Act; they cannot amend the Constitution.
+
+### MCQ 13. Section 5
+
+Section 5(1) chiefly provides for:
+
+A. President-authorised Gazette Hindi translations of specified Central laws and instruments to be authoritative in Hindi.
+B. automatic authoritative status for every private Hindi translation.
+C. State selection of official languages.
+D. mother-tongue primary education.
+
+**Answer: A. President-authorised Gazette Hindi translations of specified Central laws and instruments to be authoritative in Hindi.**
+
+**Option-specific explanations:**
+
+- **A:** Correct. The provision covers specified Central Acts, Presidential Ordinances and delegated instruments published under presidential authority in the Official Gazette.
+- **B:** Incorrect. Private accuracy is not the statutory authorisation required by section 5. The controlling rule is: The provision covers specified Central Acts, Presidential Ordinances and delegated instruments published under presidential authority in the Official Gazette.
+- **C:** Incorrect. State official-language choice belongs to Article 345 and State law. The controlling rule is: The provision covers specified Central Acts, Presidential Ordinances and delegated instruments published under presidential authority in the Official Gazette.
+- **D:** Incorrect. Mother-tongue instruction is addressed by Article 350A. The controlling rule is: The provision covers specified Central Acts, Presidential Ordinances and delegated instruments published under presidential authority in the Official Gazette.
+
+**Examiner trap 13:** Authority depends on presidential authority and Gazette publication.
+
+### MCQ 14. Section 6
+
+When a State has prescribed a non-Hindi language for its Acts or Governor's Ordinances, section 6 permits:
+
+A. replacement of the Article 348(3) English translation by Hindi.
+B. a Governor-authorised Gazette Hindi translation in addition to the required English translation.
+C. the High Court to choose any language without consent.
+D. Parliament to add the State language to the Eighth Schedule by rule.
+
+**Answer: B. a Governor-authorised Gazette Hindi translation in addition to the required English translation.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. The statutory text says in addition to, not instead of, the English translation. The controlling rule is: Section 6 adds an authoritative Hindi text while expressly preserving the Article 348(3) English translation.
+- **B:** Correct. Section 6 adds an authoritative Hindi text while expressly preserving the Article 348(3) English translation.
+- **C:** Incorrect. High Court language is governed by Article 348(2) and section 7. The controlling rule is: Section 6 adds an authoritative Hindi text while expressly preserving the Article 348(3) English translation.
+- **D:** Incorrect. Eighth-Schedule amendment cannot be accomplished by an ordinary rule. The controlling rule is: Section 6 adds an authoritative Hindi text while expressly preserving the Article 348(3) English translation.
+
+**Examiner trap 14:** Section 6 supplements Article 348(3); it does not displace it.
+
+### MCQ 15. Section 7
+
+Which condition accurately describes section 7 use of Hindi or a State official language for a High Court judgment?
+
+A. The Chief Justice may authorise it without any executive consent.
+B. It automatically becomes the sole all-India authoritative version.
+C. The Governor acts with previous presidential consent, and a High Court-authorised English translation must accompany the non-English judgment.
+D. It applies equally to Supreme Court judgments.
+
+**Answer: C. The Governor acts with previous presidential consent, and a High Court-authorised English translation must accompany the non-English judgment.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. The statutory actor and prior-consent requirement cannot be omitted. The controlling rule is: Section 7 uses the Governor-President consent route and preserves an accompanying English translation under High Court authority.
+- **B:** Incorrect. The non-English version does not eliminate the accompanying English text. The controlling rule is: Section 7 uses the Governor-President consent route and preserves an accompanying English translation under High Court authority.
+- **C:** Correct. Section 7 uses the Governor-President consent route and preserves an accompanying English translation under High Court authority.
+- **D:** Incorrect. Section 7 is confined to the High Court for the State. The controlling rule is: Section 7 uses the Governor-President consent route and preserves an accompanying English translation under High Court authority.
+
+**Examiner trap 15:** Proceedings under Article 348(2) and judgments under section 7 are separate routes.
+
+### MCQ 16. Rules and Region C
+
+For communication from a Central Government office to a non-Central recipient in Region C, Rule 3 ordinarily requires:
+
+A. Hindi only.
+B. the recipient's mother tongue only.
+C. any language in the Eighth Schedule.
+D. English.
+
+**Answer: D. English.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. Hindi-only treatment belongs to neither the general Region C rule nor constitutional status. The controlling rule is: Rule 3 uses English for the Region C route described, subject to the exact sender-recipient classification.
+- **B:** Incorrect. The Rules do not impose a mother-tongue-only requirement. The controlling rule is: Rule 3 uses English for the Region C route described, subject to the exact sender-recipient classification.
+- **C:** Incorrect. Scheduled status is not the communication rule. The controlling rule is: Rule 3 uses English for the Region C route described, subject to the exact sender-recipient classification.
+- **D:** Correct. Rule 3 uses English for the Region C route described, subject to the exact sender-recipient classification.
+
+**Examiner trap 16:** Identify both sender and recipient before applying a regional rule.
+
+### MCQ 17. Article 345 choice
+
+A State legislature acting under Article 345 may adopt:
+
+A. one or more languages in use in the State or Hindi for all or specified official purposes.
+B. only languages listed in the Eighth Schedule.
+C. only one language and only once.
+D. a new Supreme Court language.
+
+**Answer: A. one or more languages in use in the State or Hindi for all or specified official purposes.**
+
+**Option-specific explanations:**
+
+- **A:** Correct. Article 345 expressly permits one or more languages in use in the State or Hindi.
+- **B:** Incorrect. The text contains no Eighth-Schedule gate. The controlling rule is: Article 345 expressly permits one or more languages in use in the State or Hindi.
+- **C:** Incorrect. U.P. Hindi Sahitya Sammelan confirms the power can be exercised again for an additional language. The controlling rule is: Article 345 expressly permits one or more languages in use in the State or Hindi.
+- **D:** Incorrect. Supreme Court language is outside Article 345. The controlling rule is: Article 345 expressly permits one or more languages in use in the State or Hindi.
+
+**Examiner trap 17:** State official-language status is not limited to scheduled languages.
+
+### MCQ 18. Article 346
+
+The main subject of Article 346 is:
+
+A. mother-tongue instruction.
+B. official communication between States and between a State and the Union.
+C. authoritative Hindi translations of Central Acts.
+D. classification of classical languages.
+
+**Answer: B. official communication between States and between a State and the Union.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. Primary mother-tongue facilities belong to Article 350A. The controlling rule is: Article 346 supplies the constitutional communication channel and permits States to agree on Hindi between themselves.
+- **B:** Correct. Article 346 supplies the constitutional communication channel and permits States to agree on Hindi between themselves.
+- **C:** Incorrect. Authoritative Hindi translations are statutory matters under section 5. The controlling rule is: Article 346 supplies the constitutional communication channel and permits States to agree on Hindi between themselves.
+- **D:** Incorrect. Classical recognition is a separate executive scheme. The controlling rule is: Article 346 supplies the constitutional communication channel and permits States to agree on Hindi between themselves.
+
+**Examiner trap 18:** Article 346 is about governments communicating, not individual language status.
+
+### MCQ 19. Article 347
+
+Article 347 permits which response to a linguistic demand?
+
+A. Automatic Eighth-Schedule inclusion after a petition.
+B. A State Governor may declare a national language.
+C. The President may direct recognition for all or part of a State and a specified purpose after being satisfied about a substantial proportion.
+D. The Supreme Court must conduct a referendum.
+
+**Answer: C. The President may direct recognition for all or part of a State and a specified purpose after being satisfied about a substantial proportion.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. Schedule inclusion requires constitutional amendment. The controlling rule is: The provision uses demand, presidential satisfaction, substantial proportion, area and purpose as controlling elements.
+- **B:** Incorrect. Neither Governors nor Article 347 create a national language. The controlling rule is: The provision uses demand, presidential satisfaction, substantial proportion, area and purpose as controlling elements.
+- **C:** Correct. The provision uses demand, presidential satisfaction, substantial proportion, area and purpose as controlling elements.
+- **D:** Incorrect. No referendum mechanism appears in the text. The controlling rule is: The provision uses demand, presidential satisfaction, substantial proportion, area and purpose as controlling elements.
+
+**Examiner trap 19:** “Substantial proportion” has no fixed percentage in the Article.
+
+### MCQ 20. U.P. Hindi Sahitya Sammelan
+
+What did the Supreme Court uphold in U.P. Hindi Sahitya Sammelan v. State of U.P. (2014)?
+
+A. Hindi must be the only State official language after first adoption.
+B. Article 347 is the exclusive route for every additional language.
+C. Only Parliament may recognise Urdu for State purposes.
+D. A State legislature may use Article 345 from time to time to adopt an additional language in use, including Urdu for specified purposes.
+
+**Answer: D. A State legislature may use Article 345 from time to time to adopt an additional language in use, including Urdu for specified purposes.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect. The judgment rejected exhaustion of the Article 345 power after adopting Hindi. The controlling rule is: The Court upheld the Uttar Pradesh law and notification recognising Urdu as a second official language for specified purposes.
+- **B:** Incorrect. The Court distinguished rather than collapsed Articles 345 and 347. The controlling rule is: The Court upheld the Uttar Pradesh law and notification recognising Urdu as a second official language for specified purposes.
+- **C:** Incorrect. Article 345 places the legislative power in the State legislature. The controlling rule is: The Court upheld the Uttar Pradesh law and notification recognising Urdu as a second official language for specified purposes.
+- **D:** Correct. The Court upheld the Uttar Pradesh law and notification recognising Urdu as a second official language for specified purposes.
+
+**Examiner trap 20:** Article 345 power is continuing and plural, not exhausted by the first choice.
+
+### MCQ 21. Article 348 baseline
+
+Until Parliament otherwise provides, Article 348(1) requires English for:
 
 A. Supreme Court and High Court proceedings and authoritative texts of specified legislative instruments.
-B. every communication between two private citizens.
-C. primary-school language throughout India.
-D. inclusion in the Eighth Schedule.
+B. all private contracts and conversations.
+C. every subordinate court without exception.
+D. all primary education.
 
-**Answer: A.**
+**Answer: A. Supreme Court and High Court proceedings and authoritative texts of specified legislative instruments.**
 
-[FACT] Article 348 covers adjudicative proceedings and authoritative Bills, Acts, ordinances and delegated texts. It is wider than a “courtroom language only” provision.
+**Option-specific explanations:**
 
-##### OM10. Which is correct about Article 348(2)?
+- **A:** Correct. Article 348(1) covers superior-court proceedings and listed authoritative legal texts.
+- **B:** Incorrect. Private communication is outside Article 348. The controlling rule is: Article 348(1) covers superior-court proceedings and listed authoritative legal texts.
+- **C:** Incorrect. The clause names the Supreme Court and every High Court, not every subordinate court. The controlling rule is: Article 348(1) covers superior-court proceedings and listed authoritative legal texts.
+- **D:** Incorrect. Education medium is governed by other constitutional and statutory rules. The controlling rule is: Article 348(1) covers superior-court proceedings and listed authoritative legal texts.
 
-A. It automatically applies to all subordinate courts and tribunals.
-B. With previous presidential consent, a Governor may authorise Hindi or another State official language in High Court proceedings, but the clause excludes judgments, decrees and orders.
-C. A Governor may change Supreme Court language without consent.
-D. A State Legislature may make every High Court judgment authoritative without English.
+**Examiner trap 21:** Article 348 is wider than courtroom speech because it also governs authoritative texts.
 
-**Answer: B.**
+### MCQ 22. Article 348(2)
 
-[FACT] Both the prior-consent gate and judgment exception are express. Non-English High Court judgments require the separate statutory route in section 7.
+A valid Article 348(2) authorisation requires:
 
-##### OM11. Article 349’s special procedure is best understood as:
+A. a State Cabinet resolution for all courts.
+B. the Governor, previous presidential consent, and a language used for State official purposes, limited to High Court proceedings.
+C. a High Court full-court resolution for Supreme Court proceedings.
+D. an Eighth-Schedule amendment.
 
-A. a current ordinary gate for every language Bill.
-B. a mechanism for adding languages to the Eighth Schedule.
-C. a safeguard expressly bounded to the first fifteen years after commencement.
-D. a permanent referendum requirement.
+**Answer: B. the Governor, previous presidential consent, and a language used for State official purposes, limited to High Court proceedings.**
 
-**Answer: C.**
+**Option-specific explanations:**
 
-[FACT] Its operative period ended in 1965 even though the provision remains printed in the Constitution. It should not be presented as a perpetual current precondition.
+- **A:** Incorrect. Cabinet preference cannot replace the constitutional actors and scope. The controlling rule is: Clause (2) contains a specific Governor-plus-previous-presidential-consent route for High Court proceedings.
+- **B:** Correct. Clause (2) contains a specific Governor-plus-previous-presidential-consent route for High Court proceedings.
+- **C:** Incorrect. A High Court cannot alter Supreme Court language through its own resolution. The controlling rule is: Clause (2) contains a specific Governor-plus-previous-presidential-consent route for High Court proceedings.
+- **D:** Incorrect. Scheduled status is neither sufficient nor necessary for the Article 348(2) route. The controlling rule is: Clause (2) contains a specific Governor-plus-previous-presidential-consent route for High Court proceedings.
 
-##### OM12. Article 350 protects:
+**Examiner trap 22:** The clause excludes judgments, decrees and orders.
 
-A. an absolute right to conduct every proceeding in any chosen language.
-B. a right to receive every final order in one’s mother tongue.
-C. a right limited to scheduled-language speakers.
-D. submission of a grievance representation in a language used in the Union or State, as applicable.
+### MCQ 23. Article 349
 
-**Answer: D.**
+Article 349's special procedure applied:
 
-[FACT] Article 350 protects the language of entry into the grievance-redress process. [LIMIT] It does not automatically determine the language of every later administrative stage.
+A. forever to every State language Bill.
+B. only to Eighth-Schedule amendments.
+C. during the first fifteen years to Bills or amendments concerning language for Article 348(1) purposes.
+D. only after a referendum.
 
-##### OM13. Article 350A is accurately described as:
+**Answer: C. during the first fifteen years to Bills or amendments concerning language for Article 348(1) purposes.**
 
-A. an endeavour by States and local authorities to provide adequate mother-tongue instruction facilities at the primary stage for linguistic-minority children.
-B. a rule confined to Eighth-Schedule languages.
-C. a power of Parliament to prescribe one national medium.
-D. an absolute Fundamental Right to a particular school.
+**Option-specific explanations:**
 
-**Answer: A.**
+- **A:** Incorrect. The first-fifteen-years phrase prevents perpetual application. The controlling rule is: The express temporal and subject-matter limits define Article 349.
+- **B:** Incorrect. Schedule amendments follow Article 368, not Article 349 alone. The controlling rule is: The express temporal and subject-matter limits define Article 349.
+- **C:** Correct. The express temporal and subject-matter limits define Article 349.
+- **D:** Incorrect. No referendum appears in the provision. The controlling rule is: The express temporal and subject-matter limits define Article 349.
 
-[FACT] The textual verb is “shall be the endeavour”, with presidential direction power. Accurate answers preserve both the protective objective and the qualified drafting.
+**Examiner trap 23:** A time-bounded provision cannot be used as a routine present-day gate.
 
-##### OM14. The Special Officer for Linguistic Minorities under Article 350B primarily:
+### MCQ 24. Legislative business
 
-A. adjudicates binding language disputes.
-B. investigates constitutional safeguards and reports to the President.
-C. amends State official-language laws.
-D. grants Eighth-Schedule status.
+Which statement correctly distinguishes Articles 120 and 210?
 
-**Answer: B.**
+A. Both make every floor speech the authoritative statutory text.
+B. Article 120 governs only State legislatures.
+C. Article 210 makes Hindi compulsory in every State legislature.
+D. Article 120 governs Parliament in Hindi or English; Article 210 includes the State official language(s), Hindi or English, each subject to Article 348 and mother-tongue permission.
 
-[FACT] The President causes the reports to be laid before Parliament and sent to concerned States. The office investigates and reports; it is not a court or constituent authority.
+**Answer: D. Article 120 governs Parliament in Hindi or English; Article 210 includes the State official language(s), Hindi or English, each subject to Article 348 and mother-tongue permission.**
 
-##### OM15. Article 351 directs enrichment of Hindi by:
+**Option-specific explanations:**
 
-A. replacing all regional languages.
-B. declaring Hindi the national language.
-C. assimilating forms and expressions from Hindustani and scheduled languages, with vocabulary primarily from Sanskrit and secondarily from other languages.
-D. drawing vocabulary exclusively from English.
+- **A:** Incorrect. Article 348 separately controls authoritative legislative texts. The controlling rule is: The provisions regulate business in different legislatures and retain presiding-officer permission for a member's mother tongue.
+- **B:** Incorrect. Article 120 concerns Parliament, not State legislatures. The controlling rule is: The provisions regulate business in different legislatures and retain presiding-officer permission for a member's mother tongue.
+- **C:** Incorrect. Article 210 preserves State official-language plurality. The controlling rule is: The provisions regulate business in different legislatures and retain presiding-officer permission for a member's mother tongue.
+- **D:** Correct. The provisions regulate business in different legislatures and retain presiding-officer permission for a member's mother tongue.
 
-**Answer: C.**
+**Examiner trap 24:** Floor language and authoritative text are different legal questions.
 
-[FACT] Composite culture and multilingual assimilation are in the text. [LIMIT] Article 351 must be harmonised with State autonomy, minority safeguards and statutory English use.
+### MCQ 25. Article 350
 
-##### OM16. Section 3(1) of the Official Languages Act provides that, after the appointed day:
+Who benefits from Article 350's grievance-representation safeguard?
 
-A. Hindi alone shall be used for every Union purpose.
-B. each State may terminate English for Parliament.
-C. English can be used only in the Supreme Court.
-D. English may continue in addition to Hindi for specified Union purposes and parliamentary business.
+A. Every person submitting to a Union or State officer or authority in a language used in the relevant Union or State context.
+B. Only citizens speaking a scheduled language.
+C. Only government employees.
+D. Only members of a linguistic minority certified by the President.
 
-**Answer: D.**
+**Answer: A. Every person submitting to a Union or State officer or authority in a language used in the relevant Union or State context.**
 
-[FACT] The statute operationalises Article 343(3). It prevents the common error that English legally vanished when the Article 343(2) transition expired.
+**Option-specific explanations:**
 
-##### OM17. Which category falls within the bilingual-document requirement of section 3(3)?
+- **A:** Correct. The text uses “every person” and protects submission to any Union or State officer or authority.
+- **B:** Incorrect. Neither citizenship nor scheduled status is a textual condition. The controlling rule is: The text uses “every person” and protects submission to any Union or State officer or authority.
+- **C:** Incorrect. The protection is not confined to service representations. The controlling rule is: The text uses “every person” and protects submission to any Union or State officer or authority.
+- **D:** Incorrect. No presidential certification is required for Article 350. The controlling rule is: The text uses “every person” and protects submission to any Union or State officer or authority.
 
-A. Union resolutions, general orders, notifications, specified reports, contracts, licences, notices and tender forms.
-B. State school textbooks.
-C. Every private contract in India.
-D. Only oral parliamentary debate.
+**Examiner trap 25:** The right covers the representation, not automatically every later proceeding.
 
-**Answer: A.**
+### MCQ 26. Article 350A
 
-[FACT] Section 3(3) targets high-value official instruments and specified government-controlled bodies. It does not impose bilingualism on every private document.
+Which formulation is closest to Article 350A?
 
-##### OM18. Section 3(4) requires rules for Union official work to protect:
+A. Parliament must create one national medium for primary schools.
+B. Every State and local authority shall endeavour to provide adequate mother-tongue instruction facilities at the primary stage for linguistic-minority children.
+C. Every child has an absolute right to a named school in any language.
+D. Only the Union Government bears responsibility.
 
-A. only employees proficient in both Hindi and English.
-B. efficiency, public interest and employees proficient in either Hindi or English from disadvantage merely because they lack both.
-C. State power to alter Article 348.
-D. one-language working regardless of delay.
+**Answer: B. Every State and local authority shall endeavour to provide adequate mother-tongue instruction facilities at the primary stage for linguistic-minority children.**
 
-**Answer: B.**
+**Option-specific explanations:**
 
-[FACT] Employee non-disadvantage is an express statutory safeguard. Promotion of Hindi is therefore legally accompanied by operational efficiency and fairness controls.
+- **A:** Incorrect. The Constitution does not prescribe one national school medium. The controlling rule is: The provision combines State/local responsibility, an endeavour standard, adequacy, primary stage and linguistic-minority children.
+- **B:** Correct. The provision combines State/local responsibility, an endeavour standard, adequacy, primary stage and linguistic-minority children.
+- **C:** Incorrect. The text does not guarantee admission to a particular institution. The controlling rule is: The provision combines State/local responsibility, an endeavour standard, adequacy, primary stage and linguistic-minority children.
+- **D:** Incorrect. Both State and local authority, not only Union, are named. The controlling rule is: The provision combines State/local responsibility, an endeavour standard, adequacy, primary stage and linguistic-minority children.
 
-##### OM19. The discontinuance condition in section 3(5) requires:
+**Examiner trap 26:** Preserve the protective purpose and the qualified word “endeavour”.
 
-A. a Union Cabinet decision.
-B. one non-Hindi State resolution and a Lok Sabha resolution.
-C. resolutions of all States that have not adopted Hindi as official language, followed by a discontinuance resolution in each House of Parliament.
-D. a recommendation of the Committee of Parliament on Official Language alone.
+### MCQ 27. Article 350B
 
-**Answer: C.**
+What is the Special Officer's constitutional function?
 
-[FACT] The provision creates a double legislative lock. [LIMIT] It applies to the exact section 3 provisions named in subsection (5), not every possible use of English in India.
+A. To adjudicate binding language disputes.
+B. To amend State official-language Acts.
+C. To investigate constitutional safeguards for linguistic minorities and report to the President at directed intervals.
+D. To grant classical-language status.
 
-##### OM20. Which distinction between the Article 344 committee and the section 4 committee is correct?
+**Answer: C. To investigate constitutional safeguards for linguistic minorities and report to the President at directed intervals.**
 
-A. The first is judicial and the second executive.
-B. Both arise from the same recurring constitutional commission.
-C. The first has 30 members and the second 15.
-D. The first examines Article 344 Commission recommendations; the second is a statutory body reviewing progress of Hindi use for Union official purposes.
+**Option-specific explanations:**
 
-**Answer: D.**
+- **A:** Incorrect. The Officer is not a court. The controlling rule is: Article 350B creates an investigative reporting office whose reports are laid before Parliament and sent to concerned States.
+- **B:** Incorrect. Legislative amendment remains with the competent legislature. The controlling rule is: Article 350B creates an investigative reporting office whose reports are laid before Parliament and sent to concerned States.
+- **C:** Correct. Article 350B creates an investigative reporting office whose reports are laid before Parliament and sent to concerned States.
+- **D:** Incorrect. Classical recognition is an executive policy process outside Article 350B. The controlling rule is: Article 350B creates an investigative reporting office whose reports are laid before Parliament and sent to concerned States.
 
-[FACT] They share a 20:10 composition but differ in source, trigger and function. A current statutory report does not amend Part XVII.
+**Examiner trap 27:** Investigation and reporting are not the same as binding enforcement.
 
-##### OM21. Section 5 of the Official Languages Act principally concerns:
+### MCQ 28. Article 351
 
-A. authorised Hindi translations of Central Acts, presidential ordinances and specified delegated instruments.
-B. recognition of classical languages.
-C. State choice of official language.
-D. mother-tongue primary instruction.
+Which statement best reflects Article 351?
 
-**Answer: A.**
+A. It abolishes English and State languages.
+B. It creates an individually enforceable Fundamental Right to Hindi.
+C. It requires vocabulary to be drawn only from Sanskrit.
+D. It directs the Union to promote and develop Hindi for composite culture through assimilation, with vocabulary primarily from Sanskrit and secondarily from other languages.
 
-[FACT] Presidential authority and Gazette publication give specified Hindi translations authoritative status. Translation accuracy must still track the current amended text.
+**Answer: D. It directs the Union to promote and develop Hindi for composite culture through assimilation, with vocabulary primarily from Sanskrit and secondarily from other languages.**
 
-##### OM22. Section 6 permits, in specified cases:
+**Option-specific explanations:**
 
-A. executive addition to the Eighth Schedule.
-B. an authorised Hindi translation of a State Act or ordinance whose prescribed language is other than Hindi.
-C. deletion of the Article 348(3) English translation.
-D. automatic Hindi judgments in every High Court.
+- **A:** Incorrect. No abolition power appears in Article 351. The controlling rule is: The provision combines promotion, composite culture, assimilation and a qualified vocabulary sequence.
+- **B:** Incorrect. It is a Part XVII directive, not an individual Fundamental Right. The controlling rule is: The provision combines promotion, composite culture, assimilation and a qualified vocabulary sequence.
+- **C:** Incorrect. The text expressly permits secondary drawing from other languages. The controlling rule is: The provision combines promotion, composite culture, assimilation and a qualified vocabulary sequence.
+- **D:** Correct. The provision combines promotion, composite culture, assimilation and a qualified vocabulary sequence.
 
-**Answer: B.**
+**Examiner trap 28:** Promotion must be harmonised with plural safeguards and statutory English use.
 
-[FACT] Section 6 supplements rather than erases Article 348(3). It is a legal-authority route, not a general translation service.
+### MCQ 29. Eighth Schedule purpose
 
-##### OM23. Under section 7, a non-English High Court judgment, decree or order:
+Which pair is expressly connected to the Eighth Schedule in Part XVII?
 
-A. becomes valid only after a constitutional amendment.
-B. needs no presidential consent.
-C. may use authorised Hindi or a State official language in addition to English and must be accompanied by a High Court-authorised English translation.
-D. displaces English for all-India precedent.
+A. Representation in the Article 344 Commission and enrichment of Hindi under Article 351.
+B. Automatic State official-language adoption and Supreme Court language.
+C. Classical-language recognition and a right to government employment.
+D. The three-language formula and citizenship.
 
-**Answer: C.**
+**Answer: A. Representation in the Article 344 Commission and enrichment of Hindi under Article 351.**
 
-[FACT] Section 7 fills the field excluded by Article 348(2)’s proviso. The English translation preserves wider legal usability.
+**Option-specific explanations:**
 
-##### OM24. The Official Languages (Use for Official Purposes of the Union) Rules, 1976 extend:
+- **A:** Correct. Articles 344(1) and 351 contain the Schedule's direct Part XVII links.
+- **B:** Incorrect. State adoption and Supreme Court language depend on Articles 345 and 348. The controlling rule is: Articles 344(1) and 351 contain the Schedule's direct Part XVII links.
+- **C:** Incorrect. Classical status is separate and scheduled status creates no employment entitlement. The controlling rule is: Articles 344(1) and 351 contain the Schedule's direct Part XVII links.
+- **D:** Incorrect. Education policy and citizenship are not Schedule effects. The controlling rule is: Articles 344(1) and 351 contain the Schedule's direct Part XVII links.
 
-A. only to Union Territories.
-B. only to Region A.
-C. to every State without exception.
-D. to India except Tamil Nadu.
+**Examiner trap 29:** Scheduled recognition has defined constitutional links, not unlimited consequences.
 
-**Answer: D.**
+### MCQ 30. Seventy-first Amendment
 
-[FACT] The extent exception appears in the official Rules text. [LIMIT] Regions A/B/C are administrative categories, not constitutional rankings of languages or States.
+The Constitution (Seventy-first Amendment) Act, 1992 added which set to the Eighth Schedule?
 
-##### OM25. Under Rule 5, a communication received in Hindi should be:
-
-A. replied to in Hindi.
-B. returned untranslated.
-C. answered only in English.
-D. referred automatically to Parliament.
-
-**Answer: A.**
-
-[FACT] Rule 5 is a reply-language rule. It must be distinguished from Rule 3’s regional communication matrix and Rule 6’s bilingual document obligation.
-
-##### OM26. For a Central Government office communicating with a non-Central recipient in Region C, the Rules ordinarily require:
-
-A. any scheduled language selected by the sender.
-B. English.
-C. the recipient’s mother tongue only.
-D. Sanskrit.
-
-**Answer: B.**
-
-[FACT] Region C is the residual category outside Regions A and B, and the operative rule uses English for this communication route. Always identify both sender and recipient before applying a region.
-
-##### OM27. The Rules distinguish “proficiency in Hindi” from “working knowledge of Hindi” principally in:
-
-A. Rules 1 and 2.
-B. Rules 3 and 4.
-C. Rules 9 and 10.
-D. Rules 11 and 12 only.
-
-**Answer: C.**
-
-[FACT] The distinction supports differentiated administrative implementation. It is not a constitutional classification of citizens.
-
-##### OM28. The Eighth Schedule is expressly linked in the constitutional text to:
-
-A. Articles 29 and 30 only.
-B. Articles 345 and 348 only.
-C. Articles 350A and 350B only.
-D. Articles 344(1) and 351.
-
-**Answer: D.**
-
-[FACT] It structures representation in the Article 344 Commission and supplies a multilingual enrichment base for Article 351. Scheduled status does not itself make a language official everywhere.
-
-##### OM29. Which language was added by the Twenty-first Amendment Act, 1967?
-
-A. Sindhi.
-B. Nepali.
-C. Bodo.
-D. Maithili.
-
-**Answer: A.**
-
-[FACT] Sindhi took the original 14-language Schedule to 15. Amendment number, language and commencement should be learned as a linked unit.
-
-##### OM30. The Seventy-first Amendment Act, 1992 added:
-
-A. Sindhi, Sanskrit and Urdu.
+A. Sindhi, Konkani and Nepali.
 B. Konkani, Manipuri and Nepali.
 C. Bodo, Dogri and Maithili.
-D. Odia, Pali and Prakrit.
+D. Maithili, Santhali and Odia.
 
-**Answer: B.**
+**Answer: B. Konkani, Manipuri and Nepali.**
 
-[FACT] This exact triad is the legal core tested by the verified 2024 Prelims PYQ. Maithili belongs to the later Ninety-second Amendment.
+**Option-specific explanations:**
 
-##### OM31. The Ninety-second Amendment Act, 2003 added:
+- **A:** Incorrect. Sindhi was added by the 21st Amendment. The controlling rule is: The 71st Amendment added Konkani, Manipuri and Nepali.
+- **B:** Correct. The 71st Amendment added Konkani, Manipuri and Nepali.
+- **C:** Incorrect. Bodo, Dogri and Maithili were among the 92nd Amendment additions. The controlling rule is: The 71st Amendment added Konkani, Manipuri and Nepali.
+- **D:** Incorrect. Maithili and Santhali were 92nd additions; the 96th renamed Oriya as Odia. The controlling rule is: The 71st Amendment added Konkani, Manipuri and Nepali.
 
-A. Bengali, Assamese, Tamil and Telugu.
-B. Konkani, Manipuri, Nepali and Sindhi.
-C. Bodo, Dogri, Maithili and Santhali.
-D. Pali, Prakrit, Marathi and Odia.
+**Examiner trap 30:** Maithili belongs to the 92nd Amendment, not the 71st.
 
-**Answer: C.**
+### MCQ 31. Scheduled and official
 
-[FACT] The Act title year is 2003 and its effective date was 7 January 2004. These four additions raised the total from 18 to 22.
+Which legal conclusion about an Eighth-Schedule language is sound?
 
-##### OM32. The Ninety-sixth Amendment Act, 2011:
+A. It automatically becomes an official language of every State.
+B. It must be used in every High Court judgment.
+C. Its scheduled status alone does not make it an official language of the Union or every State.
+D. It automatically becomes a classical language.
 
-A. removed English from Parliament.
-B. added a twenty-third language.
-C. moved Maithili to the Seventh Schedule.
-D. substituted “Odia” for “Oriya” without changing the language count.
+**Answer: C. Its scheduled status alone does not make it an official language of the Union or every State.**
 
-**Answer: D.**
+**Option-specific explanations:**
 
-[FACT] It was a nomenclature change, not a new inclusion. The current Eighth-Schedule total therefore remains 22.
+- **A:** Incorrect. States choose official languages under Article 345. The controlling rule is: Official use is determined by Articles 343-348 and legislation, not by scheduled status alone.
+- **B:** Incorrect. High Court judgments follow Article 348 and section 7. The controlling rule is: Official use is determined by Articles 343-348 and legislation, not by scheduled status alone.
+- **C:** Correct. Official use is determined by Articles 343-348 and legislation, not by scheduled status alone.
+- **D:** Incorrect. Classical recognition is a separate executive category. The controlling rule is: Official use is determined by Articles 343-348 and legislation, not by scheduled status alone.
 
-##### OM33. A new language can be added to the Eighth Schedule through:
+**Examiner trap 31:** Scheduled, official, court and classical status must remain separate.
 
-A. a constitutional amendment under Article 368.
-B. a notification of the Ministry of Culture alone.
-C. an Official Language Committee recommendation.
-D. a resolution of one State Legislature alone.
+### MCQ 32. Policy and rights
 
-**Answer: A.**
+Which integrated statement is constitutionally safest?
 
-[FACT] Public demands and committee recommendations may initiate debate but do not alter the Schedule. Enacted constitutional text is the control.
+A. The three-language formula is a Part XVII command.
+B. Article 350A allows compulsory mother-tongue-only schooling in all institutions.
+C. Article 351 overrides Article 30 minority autonomy.
+D. The three-language formula is policy; Article 350A supports facilities, while protected choice and minority rights limit coercive medium rules.
 
-##### OM34. Which statement correctly distinguishes scheduled and classical-language status?
+**Answer: D. The three-language formula is policy; Article 350A supports facilities, while protected choice and minority rights limit coercive medium rules.**
 
-A. Scheduled status automatically makes a language the Union’s official language.
-B. Scheduled status is constitutional; classical status is a separate Union executive recognition scheme.
-C. Both are conferred only by constitutional amendment.
-D. Classical status automatically makes a language a High Court language.
+**Option-specific explanations:**
 
-**Answer: B.**
+- **A:** Incorrect. No Part XVII clause enacts the three-language formula. The controlling rule is: This answer preserves the policy-law boundary and the Supreme Court's protection of educational choice.
+- **B:** Incorrect. Associated Management rejected use of Article 350A as a compulsion power against protected choice. The controlling rule is: This answer preserves the policy-law boundary and the Supreme Court's protection of educational choice.
+- **C:** Incorrect. Constitutional provisions must be harmonised; Article 351 is not a supremacy clause. The controlling rule is: This answer preserves the policy-law boundary and the Supreme Court's protection of educational choice.
+- **D:** Correct. This answer preserves the policy-law boundary and the Supreme Court's protection of educational choice.
 
-[CURRENT] Official material reported eleven classical languages after the October 2024 additions. [LIMIT] That count and scheme do not alter the 22-language Eighth Schedule or Part XVII.
+**Examiner trap 32:** Facilities for a language and compulsion to use that language are legally different.
 
-##### OM35. The three-language formula is best classified as:
-
-A. an Article 343 command.
-B. a rule under section 7 of the Official Languages Act.
-C. an education-policy framework implemented through federal and State choices.
-D. an Eighth-Schedule amendment mechanism.
-
-**Answer: C.**
-
-[FACT] It belongs to education policy rather than Part XVII’s official-language law. [ANALYSIS] Its legitimacy and design must therefore be debated through multilingual learning, choice, capacity and federal autonomy.
-
-##### OM36. Which reform principle best reconciles multilingual legal access with authoritative uniformity?
-
-A. Abolish version control once a translation is published.
-B. Permit any portal to declare an authoritative statute.
-C. Treat every machine translation as legally binding.
-D. Use machine assistance with bilingual legal review, terminology control, version verification and authorised publication.
-
-**Answer: D.**
-
-[ANALYSIS] Technology can reduce access costs, but legal authority remains institutional. [LIMIT] An AI summary or general-information translation cannot become controlling law merely because it is fluent.
-
-#### Remedial MCQs 37-48
-
-##### RM37. — category correction
-
-A candidate writes, “Hindi is India’s national language under Article 343.” Which correction is exact?
-
-A. Article 343 makes Hindi in Devanagari the official language of the Union; the Constitution declares no national language.
-B. Article 343 makes English the national language.
-C. Article 343 concerns only State official languages.
-D. Article 343 makes all scheduled languages national languages.
-
-**Answer: A.**
-
-[FACT] “Official” identifies authorised governmental use, whereas “national” would make a different symbolic claim. UPSC answers should reproduce the constitutional category, not political shorthand.
-
-##### RM38. — the 1965 trap
-
-What legally occurred on 26 January 1965?
-
-A. English became unconstitutional.
-B. The Article 343(2) transition ended, while statutory continuation under the Official Languages Act governed specified uses.
-C. The Eighth Schedule expanded to 22 languages.
-D. Hindi became the language of every High Court judgment.
-
-**Answer: B.**
-
-[FACT] The expiry of a transition is not the disappearance of English. Article 343(3) enabled Parliament to provide the post-transition statutory regime.
-
-##### RM39. — committee correction
-
-Why must the Article 344 committee and section 4 committee not be collapsed?
-
-A. One adds scheduled languages while the other appoints judges.
-B. Only one reports to the President.
-C. They have different legal sources, triggers and functions despite similar 30-member composition.
-D. Only one includes Members of Parliament.
-
-**Answer: C.**
-
-[FACT] The Article 344 body examines Commission recommendations; the Act’s section 4 body reviews progress in Hindi use for Union official purposes. Neither can amend the Constitution through its report.
-
-##### RM40. — State-language correction
-
-Which statement is correct?
-
-A. A State may adopt only Hindi or English.
-B. A State language must be in the Eighth Schedule.
-C. A State language must first receive classical status.
-D. Article 345 permits one or more languages in use in the State or Hindi, subject to Articles 346-347.
-
-**Answer: D.**
-
-[FACT] State administrative choice and Eighth-Schedule recognition are separate legal categories. This distinction is central to India’s asymmetric linguistic federalism.
-
-##### RM41. — judgment correction
-
-A Governor wishes to authorise a State official language for High Court judgments. Which legal route is relevant?
-
-A. Section 7, with previous presidential consent and an accompanying High Court-authorised English translation.
-B. Article 345 alone.
-C. Article 350A alone.
-D. A classical-language notification.
-
-**Answer: A.**
-
-[FACT] Article 348(2) covers proceedings but expressly excludes judgments, decrees and orders. Section 7 supplies the separate route while retaining the English bridge.
-
-##### RM42. — safeguard calibration
-
-Which formulation best respects Article 350A’s text?
-
-A. It guarantees every child a school of choice in the mother tongue.
-B. It makes adequate primary-stage mother-tongue facilities for linguistic-minority children an endeavour of States and local authorities, backed by presidential direction power.
-C. It applies only to languages in the Eighth Schedule.
-D. It abolishes State discretion over education administration.
-
-**Answer: B.**
-
-[FACT] The wording is protective but qualified. [LIMIT] It should neither be reduced to a non-binding aspiration nor inflated into an unlimited school-specific Fundamental Right.
-
-##### RM43. — amendment cluster
-
-Which set consists entirely of languages added by the Ninety-second Amendment?
-
-A. Konkani, Manipuri, Nepali, Sindhi.
-B. Bodo, Dogri, Nepali, Santhali.
-C. Bodo, Dogri, Maithili, Santhali.
-D. Assamese, Bengali, Odia, Urdu.
-
-**Answer: C.**
-
-[FACT] Use the four-language cluster as one memory unit. The amendment was enacted in 2003 and took effect on 7 January 2004.
-
-##### RM44. — count correction
-
-Why did the Ninety-sixth Amendment not raise the Eighth-Schedule total above 22?
-
-A. It concerned a non-scheduled language.
-B. It was struck down.
-C. It was only a parliamentary resolution.
-D. It renamed “Oriya” as “Odia” rather than adding another language.
-
-**Answer: D.**
-
-[FACT] Nomenclature change and language addition have different count effects. The official Constitution as on 1 May 2026 still lists 22.
-
-##### RM45. — Rules correction
-
-Regions A, B and C under the 1976 Rules are:
-
-A. administrative categories for Union official communications.
-B. constitutional rankings of language communities.
-C. categories of classical languages.
-D. divisions of the Eighth Schedule.
-
-**Answer: A.**
-
-[FACT] Their purpose is operational implementation under the Act and Rules. They neither rank cultures nor determine every State’s own official language.
-
-##### RM46. — report correction
-
-The Committee of Parliament on Official Language publishes a recommendation. What is its immediate legal status?
-
-A. It adds a language to the Eighth Schedule.
-B. It is a recommendation within the statutory process, not self-executing enacted law.
-C. It automatically deletes English from section 3.
-D. It automatically amends Article 343.
-
-**Answer: B.**
-
-[FACT] The President may consider the report and State views and issue directions consistent with section 3. A report must never be described as constituent legislation.
-
-##### RM47. — PYQ evidence discipline
-
-The local routing ledger says the official 2024 Set-A key exists but does not record Q72’s answer letter. What may the workbook safely do?
-
-A. Relabel a coaching key as the UPSC key.
-B. Omit the constitutional concept entirely.
-C. Resolve the amendment-language statements from official texts while explicitly declining to claim an unrecorded official key letter.
-D. Invent the most likely official letter.
-
-**Answer: C.**
-
-[LIMIT] Legal reasoning may identify that the 71st Amendment added Konkani, Manipuri and Nepali and not Maithili. Evidence discipline still forbids representing an unrecorded letter as the locally verified official key.
-
-##### RM48. — integrated constitutional design
-
-Which statement best captures India’s official-language settlement?
-
-A. It makes every scheduled language official for every purpose.
-B. It is a single-language constitutional order temporarily tolerating diversity.
-C. It leaves language entirely outside law.
-D. It combines Union Hindi, statutory English, State choice, court-text controls, minority safeguards and a directive to develop Hindi within composite culture.
-
-**Answer: D.**
-
-[ANALYSIS] The system is layered accommodation rather than a single hierarchy. [LIMIT] Promotion, access and legal uniformity must each remain within the authority and safeguards of its own constitutional or statutory layer.
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** The directive **answer** requires a direct position on “RM47. — PYQ evidence discipline”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+### Verified relevant UPSC PYQ
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “RM47. — PYQ evidence discipline”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The local routing ledger says the official 2024 Set-A key exists but does not record Q72’s answer letter. What may the workbook safely do? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** C. Resolve the amendment-language statements from official texts while explicitly declining to claim an unrecorded official key letter. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** [LIMIT] Legal reasoning may identify that the 71st Amendment added Konkani, Manipuri and Nepali and not Maithili. Evidence discipline still forbids representing an unrecorded letter as the locally verified official key. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Which statement best captures India’s official-language settlement? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** A. It makes every scheduled language official for every purpose. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “RM47. — PYQ evidence discipline”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “RM47. — PYQ evidence discipline”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-#### Verified relevant PYQ corpus
-
-[FACT] The audited local routing ledgers identify **one direct verified UPSC PYQ** for this owner: **UPSC Civil Services Preliminary Examination 2024, GS Paper I, Set A, Question 72**. No adjacent question has been relabelled as an official-language PYQ merely to enlarge the corpus.
-
-##### UPSC Prelims 2024, GS Paper I, Set A, Q72
+#### UPSC Civil Services Preliminary Examination 2024, General Studies Paper I, Set A, Question 72
 
 > The Constitution (71st Amendment) Act, 1992 amends the Eighth Schedule to the Constitution to include which of the following languages?
 >
-> 1. Konkani  
-> 2. Manipuri  
-> 3. Nepali  
+> 1. Konkani
+> 2. Manipuri
+> 3. Nepali
 > 4. Maithili
 >
 > Select the correct answer using the code given below:
 >
-> (a) 1, 2 and 3  
-> (b) 1, 2 and 4  
-> (c) 1, 3 and 4  
-> (d) 2, 3 and 4
+> A. 1, 2 and 3
+> B. 1, 2 and 4
+> C. 1, 3 and 4
+> D. 2, 3 and 4
 
-**Demand decode:** The question tests exact amendment-language mapping, not general awareness of the present 22-language list.
+**Answer: A. 1, 2 and 3.**
 
-**Conceptual resolution:** [FACT] The official Seventy-first Amendment text added **Konkani, Manipuri and Nepali**. [FACT] **Maithili** was added later by the Ninety-second Amendment together with Bodo, Dogri and Santhali. Therefore statements **1, 2 and 3** match the constitutional-amendment record, while statement 4 does not belong to the 71st Amendment.
+**Official-key discipline:** The question wording is retained from the audited official paper route. The constitutional answer is independently verified from the Seventy-first Amendment text: Konkani, Manipuri and Nepali were added; Maithili was added by the Ninety-second Amendment. No coaching key is represented as an official UPSC explanation.
 
-[LIMIT] The routed ledger records that an official Set-A key is locally available but does **not** record its answer letter. This package therefore teaches and resolves the legal content without claiming that any option letter is the locally recorded official key.
+**Elimination route:** `21st -> Sindhi | 71st -> Konkani, Manipuri, Nepali | 92nd -> Bodo, Dogri, Maithili, Santhali | 96th -> Oriya renamed Odia`.
 
-**Elimination lesson:** Build the sequence **21st: Sindhi -> 71st: Konkani-Manipuri-Nepali -> 92nd: Bodo-Dogri-Maithili-Santhali -> 96th: Oriya renamed Odia**. The 96th Amendment changed a name, not the total.
+**Why this earns marks:** It resolves each statement through enacted amendment text and distinguishes addition from renaming.
 
-#### Original solved Mains practice
+### Original Mains practice with model solutions
 
-#### M1. Official language, not national language (10 marks, 150 words)
+#### Mains 1 — 10 marks | 150 words
 
-**Question:** “The Constitution created an official language for the Union without declaring a national language.” Explain the legal distinction and its constitutional wisdom.
+**Question:** “India has an official language but no constitutionally declared national language.” Explain the distinction and its constitutional wisdom.
 
-**Model solution**
+**Model solution:**
 
-**Thesis:** [FACT] Article 343(1) authorises **Hindi in Devanagari** for Union official purposes; it does not confer a national-language title. The distinction separates governmental functionality from exclusive national identity.
+An official language authorises governmental work; a national language would claim constitutional primacy. Article 343(1) adopts Hindi in Devanagari as the Union's official language and specifies the international form of Indian numerals, but declares no national language.
 
-**Claim -> evidence -> analysis -> qualification**
+This wording is deliberate. The Munshi-Ayyangar compromise combined linguistic decolonisation with administrative continuity and non-Hindi reassurance. Article 343(3) allowed Parliament to continue English; section 3 of the Official Languages Act, 1963 does so in addition to Hindi. Article 345 preserves State choice, while Articles 347 and 350-350B protect linguistic access and minorities.
 
-1. **Functional authority:** Article 343 fixes the Union’s working language and international-form numerals. This creates administrative certainty. **Qualification:** it does not make Hindi the official language of every State, court or citizen.
-2. **Continuity through law:** Article 343(3) and section 3 of the Official Languages Act permit English in addition to Hindi for specified purposes. This avoids a disruptive linguistic cliff. **Qualification:** “associate official language” is not the statute’s controlling term.
-3. **Plural federal design:** Article 345 allows States to adopt languages in use in the State or Hindi. This recognises territorial linguistic diversity. **Qualification:** State choice remains subject to intergovernmental and minority safeguards.
+Therefore, Hindi has a defined Union function without becoming a hierarchy of citizenship. The arrangement supports common administration while recognising India's plural language communities. Its limitation is practical: formal plurality must be matched by translation, education and grievance-access capacity. Constitutional wisdom lies in unity through accommodation, not a legally invented national-language status.
 
-**Verdict:** [ANALYSIS] The absence of a declared national language is not a constitutional vacuum; it is a technique of unity without linguistic ownership by one community.
+**Audited model-answer prose count:** 150 words.
 
-**Why this earns marks:** It answers the precise distinction, names Articles 343 and 345 plus section 3, and qualifies the reach of each proposition.
+**Why this earns marks:** The response answers the directive, uses named constitutional, statutory or judicial evidence, explains what that evidence proves, and closes with a qualification.
 
-**How to improve this answer:** Add Article 348 only if space permits; in 150 words compress the answer to one definition, three source-based contrasts and the federal verdict.
+**Better-answer check:** Preserve the legal category, identify the competent actor and avoid converting a policy preference into constitutional law.
 
-**Compression plan:** Preserve the named legal source, one mechanism, one qualification and the reasoned verdict; remove secondary illustration first.
+#### Mains 2 — 10 marks | 150 words
 
-**Demand decoding:** The directive **explain** requires a direct position on ““The Constitution created an official language for the Union without declaring a national…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**Question:** Differentiate the parliamentary committee under Article 344 from the Committee on Official Language under section 4 of the Official Languages Act, 1963.
 
-**Detailed examiner-grade model answer:**
+**Model solution:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in ““The Constitution created an official language for the Union without declaring a national language.” Explain the legal distinction and its…”.
+Article 344 and section 4 create similarly composed, legally distinct committees. Under Article 344(4), a thirty-member committee—twenty Lok Sabha and ten Rajya Sabha members elected by proportional representation through the single transferable vote—examines recommendations of the time-linked Official Language Commission and reports its opinion to the President.
 
-**Analytical body:**
+Section 4 of the 1963 Act creates a statutory committee after the prescribed period and parliamentary resolution. It reviews Hindi use for Union official purposes and recommends to the President. Under section 4(4), presidential directions cannot conflict with section 3, including its English-continuation safeguards.
 
-1. **Claim and named evidence:** M1. Official language, not national language (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim -> evidence -> analysis -> qualification **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Verdict: [ANALYSIS] The absence of a declared national language is not a constitutional vacuum; it is a technique of unity without linguistic ownership by one community. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It answers the precise distinction, names Articles 343 and 345 plus section 3, and qualifies the reach of each proposition. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Add Article 348 only if space permits; in 150 words compress the answer to one definition, three source-based contrasts and the federal verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+Thus, composition does not determine identity: source, trigger and function do. The Article 344 body belongs to the founding constitutional transition; the section 4 body is a continuing statutory review mechanism. An answer must not use a statutory report as though it amended Part XVII or displaced section 3.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Audited model-answer prose count:** 147 words.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in ““The Constitution created an official language for the Union without declaring a national language.” Explain the legal distinction and its…”.
+**Why this earns marks:** The response answers the directive, uses named constitutional, statutory or judicial evidence, explains what that evidence proves, and closes with a qualification.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Better-answer check:** Preserve the legal category, identify the competent actor and avoid converting a policy preference into constitutional law.
 
-#### M2. Two parliamentary committees (10 marks, 150 words)
+#### Mains 3 — 15 marks | 250 words
 
-**Question:** Distinguish the parliamentary committee under Article 344 from the Committee on Official Language under section 4 of the Official Languages Act, 1963.
+**Question:** Examine how Articles 345-347 and the Official Languages Act structure language relations between the Union and the States.
 
-**Model solution**
+**Model solution:**
 
-**Thesis:** [FACT] The bodies share a 30-member, 20 Lok Sabha/10 Rajya Sabha, PR-STV design, but similarity of composition cannot erase distinct legal parentage.
+The Constitution distributes language authority rather than imposing a single administrative tongue. Article 345 allows a State legislature to adopt one or more languages in use in the State, or Hindi, for all or specified official purposes; English continues until State law otherwise provides. In U.P. Hindi Sahitya Sammelan v. State of U.P. (2014), the Supreme Court upheld Urdu as an additional official language and held that adopting Hindi did not exhaust this power.
 
-| Dimension | Article 344(4) committee | Section 4 committee |
-|---|---|---|
-| Source | Constitution | Official Languages Act, 1963 |
-| Trigger | Article 344 Commission recommendations | Ten years after section 3 commencement plus prescribed parliamentary resolution |
-| Work | Examines Commission recommendations | Reviews progress of Hindi for Union official purposes |
-| Output | Opinion to President | Recommendations to President; report laid before Parliament and sent to States |
+Article 346 supplies the default language for State-State and State-Union communication by linking it to the language authorised for Union official purposes. Its proviso permits States to agree to use Hindi between themselves. Article 347 addresses a different problem: after demand and satisfaction that a substantial proportion desires recognition, the President may direct official recognition for an area and purpose.
 
-**Analysis:** The constitutional committee belonged to the transition-review architecture; the statutory committee institutionalises continuing policy review. **Named safeguard:** section 4(4) prevents presidential directions from contradicting section 3.
+The Official Languages Act adds operational protection. Section 3 requires English in Union communication with a State that has not adopted Hindi as official language; Hindi communication from a Hindi State to such a State must carry an English translation, while voluntary Hindi use remains possible.
 
-**Qualification:** [LIMIT] Neither committee’s report amends Part XVII, discontinues English under section 3(5), or changes the Eighth Schedule.
+This framework combines State autonomy, interoperability and minority recognition. Yet legal flexibility needs administrative capacity: translations must be timely and accurate, and Union practice must respect statutory consent. Federal language relations succeed through reciprocity rather than unilateral replacement.
 
-**Verdict:** The correct UPSC method is to identify **source -> trigger -> function -> legal effect**, not rely on the shared 20:10 composition.
+**Audited model-answer prose count:** 222 words.
 
-**Why this earns marks:** It uses a direct comparison, named provisions and an express legal-effect limitation.
+**Why this earns marks:** The response answers the directive, uses named constitutional, statutory or judicial evidence, explains what that evidence proves, and closes with a qualification.
 
-**How to improve this answer:** State the different trigger and report route in the first two lines; for a 10-marker retain the comparison table logic and delete institutional history.
+**Better-answer check:** Preserve the legal category, identify the competent actor and avoid converting a policy preference into constitutional law.
 
-**Compression plan:** Preserve the named legal source, one mechanism, one qualification and the reasoned verdict; remove secondary illustration first.
+#### Mains 4 — 15 marks | 250 words
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish the parliamentary committee under Article 344 from the Committee on Official…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**Question:** Discuss the constitutional balance between uniformity and access in the language of higher courts and authoritative legal texts.
 
-**Detailed examiner-grade model answer:**
+**Model solution:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Distinguish the parliamentary committee under Article 344 from the Committee on Official Language under section 4 of the Official Languages Act, 1963.”.
+Article 348 begins with uniformity. Until Parliament otherwise provides, Supreme Court and High Court proceedings and authoritative texts of specified Bills, Acts, ordinances and delegated instruments are in English. A common authoritative language supports precedent circulation and reduces conflict between versions.
 
-**Analytical body:**
+Access is introduced through controlled routes. Under Article 348(2), a Governor with the President's previous consent may authorise Hindi or another State official language in High Court proceedings, but the clause excludes judgments, decrees and orders. Section 7 of the Official Languages Act separately permits such High Court decisions in Hindi or the State official language, in addition to English, with a High Court-authorised English translation. Article 348(3) makes the Governor-authorised Gazette English translation of specified State texts authoritative; sections 5 and 6 create additional authoritative Hindi routes.
 
-1. **Claim and named evidence:** M2. Two parliamentary committees (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [FACT] The bodies share a 30-member, 20 Lok Sabha/10 Rajya Sabha, PR-STV design, but similarity of composition cannot erase distinct legal parentage. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Dimension Article 344(4) committee Section 4 committee **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Source Constitution Official Languages Act, 1963 **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Trigger Article 344 Commission recommendations Ten years after section 3 commencement plus prescribed parliamentary resolution **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+The design therefore distinguishes oral/procedural accessibility from authoritative legal interoperability. Its weakness is that English can remain a barrier for litigants and local lawyers. Reform should provide certified translations, interpretation, multilingual cause information and human-reviewed digital tools while clearly labelling the controlling text.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+Uniformity need not mean monolingual access, but access cannot be secured by ignoring the prescribed authorisation and translation chain.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “Distinguish the parliamentary committee under Article 344 from the Committee on Official Language under section 4 of the Official Languages Act, 1963.”.
+**Audited model-answer prose count:** 198 words.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Why this earns marks:** The response answers the directive, uses named constitutional, statutory or judicial evidence, explains what that evidence proves, and closes with a qualification.
 
-#### M3. State autonomy and linguistic minorities (10 marks, 150 words)
+**Better-answer check:** Preserve the legal category, identify the competent actor and avoid converting a policy preference into constitutional law.
 
-**Question:** How do Articles 345-347 and 350-350B balance State language autonomy with protection of linguistic minorities?
+#### Mains 5 — 20 marks | 250 words
 
-**Model solution**
+**Question:** Analyse the evolution of India's official-language settlement from the Constituent Assembly compromise to the 1967 amendment.
 
-**Thesis:** Part XVII gives States meaningful administrative choice but surrounds majoritarian language policy with recognition, access, education and reporting safeguards.
+**Model solution:**
 
-1. **State choice:** [FACT] Article 345 permits State law to adopt one or more languages in use in the State or Hindi. This supports federal autonomy. **Qualification:** the language need not be scheduled, but the power is subject to Articles 346-347.
-2. **Recognition:** Article 347 allows a presidential direction where a substantial proportion seeks recognition. It creates a route for sub-State claims. **Qualification:** demand is not automatic entitlement; satisfaction and specified purpose matter.
-3. **Administrative access:** Article 350 permits grievance representation in a language used in the Union/State. It lowers the entry barrier. **Qualification:** it does not fix every later proceeding’s language.
-4. **Education and oversight:** Articles 350A and 350B provide a primary-stage mother-tongue endeavour and an investigating/reporting officer.
+The official-language settlement evolved through constitutional compromise, administrative experience and federal protest. In September 1949, the Munshi-Ayyangar formula reconciled demands for rapid replacement of English with concerns about governance, law and non-Hindi regions. Article 343 consequently made Hindi in Devanagari the Union's official language, retained English for fifteen years and empowered Parliament to legislate for later use.
 
-**Verdict:** [ANALYSIS] The scheme is autonomy with internal pluralism, not unchecked State linguistic sovereignty.
+Article 344 added review machinery. The 1955 B.G. Kher Commission considered progressive Hindi use, English restrictions, numerals and related matters; a parliamentary committee associated with G.B. Pant examined its recommendations. The design expressly required attention to scientific, cultural and industrial advancement and non-Hindi interests in public services.
 
-**Why this earns marks:** It links four named safeguards to their mechanisms and preserves their textual limits.
+Parliament enacted the Official Languages Act in 1963 before the transition expired. When 1965 brought strong anti-imposition mobilisation, especially in Tamil Nadu, the political weakness of a hard switch became evident. The 1967 amendment substituted section 3, effective in 1968. English could continue in addition to Hindi; communications with non-Hindi-official-language States gained express protection; specified documents remained bilingual; employees proficient in either language were protected; and section 3(5) required resolutions of all relevant States plus both Houses before specified discontinuance.
 
-**How to improve this answer:** Add one implementation gap tied to mother-tongue facilities; compress by grouping Articles 347/350 as access and 350A/350B as facility/oversight.
+The result was durable statutory bilingualism within a Hindi-promoting Constitution. It did not create a national language or freeze policy forever. Its continuing legitimacy depends on federal consent, translation capacity and equal access rather than symbolic compulsion.
 
-**Compression plan:** Preserve the named legal source, one mechanism, one qualification and the reasoned verdict; remove secondary illustration first.
+**Audited model-answer prose count:** 234 words.
 
-**Demand decoding:** The directive **answer** requires a direct position on “How do Articles 345-347 and 350-350B balance State language autonomy with protection of…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**Why this earns marks:** The response answers the directive, uses named constitutional, statutory or judicial evidence, explains what that evidence proves, and closes with a qualification.
 
-**Detailed examiner-grade model answer:**
+**Better-answer check:** Preserve the legal category, identify the competent actor and avoid converting a policy preference into constitutional law.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “How do Articles 345-347 and 350-350B balance State language autonomy with protection of linguistic minorities?”.
+#### Mains 6 — 20 marks | 250 words
 
-**Analytical body:**
+**Question:** “The challenge is to promote languages without converting promotion into exclusion.” Evaluate this statement with reference to linguistic minorities, education and technology.
 
-1. **Claim and named evidence:** M3. State autonomy and linguistic minorities (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: Part XVII gives States meaningful administrative choice but surrounds majoritarian language policy with recognition, access, education and reporting safeguards. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Administrative access: Article 350 permits grievance representation in a language used in the Union/State. It lowers the entry barrier. Qualification: it does not fix every later proceeding’s language. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Education and oversight: Articles 350A and 350B provide a primary-stage mother-tongue endeavour and an investigating/reporting officer. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: [ANALYSIS] The scheme is autonomy with internal pluralism, not unchecked State linguistic sovereignty. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Model solution:**
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+The Constitution supports both development and plural access. Article 351 directs the Union to promote Hindi as a medium for India's composite culture and to enrich it from Hindustani and Eighth-Schedule languages. Yet Articles 345-347 preserve State choice and recognition, Article 350 enables grievance representation, and Articles 350A-350B provide mother-tongue facilities and reporting on linguistic safeguards.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “How do Articles 345-347 and 350-350B balance State language autonomy with protection of linguistic minorities?”.
+Rights impose further limits. Article 29(1) protects conservation of language, script and culture; Article 29(2) bars specified admission discrimination; Article 30 protects minority educational institutions. T.M.A. Pai Foundation supplies the State-relative minority framework. State of Karnataka v. Associated Management (2014) held that a child or parent has primary-medium choice under Article 19(1)(a) and that Article 350A cannot compel a linguistic-minority institution to use only its mother tongue.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+Policy must therefore expand capability. The three-language formula remains education policy, not constitutional command. Governments should invest in teachers, terminology, interpretation and multilingual digital services rather than measure success only by compulsory use. Machine translation can widen access, but legislation and judgments require human legal review, version control and clear identification of the authoritative text under Article 348 and the 1963 Act.
 
-#### M4. English continuation as federal accommodation (15 marks, 250 words)
+Promotion becomes exclusion when it denies services, education or opportunity through asymmetric compulsion. The constitutional answer is multilingual capacity, reasonable regulation, federal consultation and enforceable non-discrimination.
 
-**Question:** Examine how the Official Languages Act, 1963 transformed a constitutional transition into a durable federal accommodation.
+**Audited model-answer prose count:** 227 words.
 
-**Model solution**
+**Why this earns marks:** The response answers the directive, uses named constitutional, statutory or judicial evidence, explains what that evidence proves, and closes with a qualification.
 
-**Thesis:** [FACT] Article 343(2) created a fifteen-year transition, but Article 343(3) anticipated parliamentary legislation. The 1963 Act, especially substituted section 3 effective 8 January 1968, converted transition into a guarded bilingual working settlement.
+**Better-answer check:** Preserve the legal category, identify the competent actor and avoid converting a policy preference into constitutional law.
 
-**Claim 1 — continuity:** Section 3(1) allows English to continue **in addition to Hindi** for specified Union purposes and parliamentary business. **Analysis:** administration and law did not face an abrupt 1965 break. **Qualification:** the Act does not constitutionally declare English an “associate official language”.
-
-**Claim 2 — federal communication:** The provisos require English between the Union and a State that has not adopted Hindi and require English translation where a Hindi State communicates in Hindi with a non-Hindi State. **Analysis:** English operates as a consent-sensitive bridge. **Qualification:** voluntary Hindi use and State agreements remain possible.
-
-**Claim 3 — administrative fairness:** Section 3(2) provides translation during staff transition; section 3(3) mandates bilingual high-value documents; section 3(4) protects efficiency, public interest and employees proficient in either language. **Analysis:** language promotion is tied to service delivery and non-disadvantage.
-
-**Claim 4 — federal lock:** Section 3(5) requires resolutions from all non-Hindi-official-language State Legislatures and then each House of Parliament before specified English-use provisions can discontinue. **Analysis:** unilateral executive termination is barred. **Qualification:** the lock covers the exact provisions named in subsection (5), not every use of English.
-
-**Verdict:** [ANALYSIS] The Act’s durability comes not from cultural victory of English but from legislated consent, translation and employee safeguards—an accommodation that protects both progressive Hindi use and non-Hindi federal confidence.
-
-**Why this earns marks:** It follows the directive, uses four statutory mechanisms and gives a qualified federal verdict rather than a slogan.
-
-**How to improve this answer:** Name section 3(5) conditions exactly and avoid political generalisation; in exam length retain communication, bilingual-document, employee and consent safeguards.
-
-**Compression plan:** Preserve the named legal source, one mechanism, one qualification and the reasoned verdict; remove secondary illustration first.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine how the Official Languages Act, 1963 transformed a constitutional transition into a…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Examine how the Official Languages Act, 1963 transformed a constitutional transition into a durable federal accommodation.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M4. English continuation as federal accommodation (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It follows the directive, uses four statutory mechanisms and gives a qualified federal verdict rather than a slogan. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Name section 3(5) conditions exactly and avoid political generalisation; in exam length retain communication, bilingual-document, employee and consent safeguards. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression plan: Preserve the named legal source, one mechanism, one qualification and the reasoned verdict; remove secondary illustration first. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Examine how the Official Languages Act, 1963 transformed a constitutional transition into a durable federal accommodation.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M5. Higher-court language and access (15 marks, 250 words)
-
-**Question:** “Multilingual access to justice must be expanded without fragmenting authoritative legal communication.” Analyse with reference to Article 348 and the Official Languages Act.
-
-**Model solution**
-
-**Thesis:** Article 348 creates an English baseline for the Supreme Court, High Courts and authoritative legal texts; the Act adds controlled translation routes. The design seeks nationwide precedential usability, but it also generates an access burden for many litigants.
-
-**Uniformity claim:** [FACT] Article 348(1) keeps higher-court proceedings and specified authoritative legislative texts in English until Parliament otherwise provides. **Evidence-to-analysis:** a common text reduces inter-State ambiguity and supports a shared appellate system. **Qualification:** legal uniformity is not the same as citizen comprehension.
-
-**Controlled pluralisation:** Article 348(2) permits a Governor, with previous presidential consent, to authorise Hindi or another State official language in High Court proceedings, but excludes judgments, decrees and orders. Section 7 separately permits those outputs in an authorised language **in addition to English**, with a High Court-authorised English translation. **Analysis:** access expands while a common bridge text survives. **Qualification:** authorisation is not automatic merely because a State uses that language administratively.
-
-**Authoritative translation:** Sections 5-6 and Article 348(3) identify who may authorise Hindi/English translations of Central and State legal instruments. **Analysis:** legal status depends on authority, Gazette publication and current version, not linguistic fluency alone.
-
-**Reform:** [ANALYSIS] Multilingual cause lists, plain-language summaries, interpretation support, terminology banks and machine-assisted drafts can improve access. **Qualification:** final legal translations require bilingual expert review, amendment tracking and visible identification of the controlling text.
-
-**Verdict:** India should pursue multilingual **access around and through** the authoritative-text framework, not replace legal certainty with unverified parallel versions.
-
-**Why this earns marks:** It balances access and uniformity through exact constitutional/statutory routes and offers legally bounded reform.
-
-**How to improve this answer:** Distinguish proceedings from judgments before discussing technology; compress reforms into authorised translation, human review and version control.
-
-**Compression plan:** Preserve the named legal source, one mechanism, one qualification and the reasoned verdict; remove secondary illustration first.
-
-**Demand decoding:** The directive **analyse** requires a direct position on ““Multilingual access to justice must be expanded without fragmenting authoritative legal…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in ““Multilingual access to justice must be expanded without fragmenting authoritative legal communication.” Analyse with reference to Article 348 and…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M5. Higher-court language and access (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Verdict: India should pursue multilingual access around and through the authoritative-text framework, not replace legal certainty with unverified parallel versions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Why this earns marks: It balances access and uniformity through exact constitutional/statutory routes and offers legally bounded reform. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** How to improve this answer: Distinguish proceedings from judgments before discussing technology; compress reforms into authorised translation, human review and version control. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Compression plan: Preserve the named legal source, one mechanism, one qualification and the reasoned verdict; remove secondary illustration first. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in ““Multilingual access to justice must be expanded without fragmenting authoritative legal communication.” Analyse with reference to Article 348 and…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M6. Expanding the Eighth Schedule (15 marks, 250 words)
-
-**Question:** Should the Eighth Schedule be expanded further? Analyse the claims of linguistic recognition against constitutional and administrative concerns.
-
-**Model solution**
-
-**Thesis:** [FACT] The Schedule currently contains 22 languages and is textually linked to Articles 344(1) and 351. Expansion may advance recognition, but scheduled status must not be advertised as universal official-language status.
-
-**Case for expansion**
-
-- **Recognition and dignity:** Constitutional listing can affirm historically marginalised language communities. **Evidence:** earlier amendments admitted Sindhi; Konkani, Manipuri and Nepali; and Bodo, Dogri, Maithili and Santhali. **Analysis:** the Constitution has accommodated linguistic claims over time. **Qualification:** inclusion alone cannot secure everyday intergenerational use.
-- **Development support:** Scheduled representation enters Article 344’s Commission design and Article 351’s enrichment framework. **Analysis:** it can improve visibility in public institutions. **Qualification:** actual education, publishing and digital resources require separate capacity.
-
-**Concerns**
-
-- **Criteria and equity:** [ANALYSIS] Selection without transparent principles may produce unequal treatment among comparable claims. **Qualification:** no fixed count of pending demands should be treated as enacted fact.
-- **Administrative expectations:** More listed languages may increase translation, examination and resource expectations. **Analysis:** capacity costs are real. **Qualification:** they do not by themselves defeat a justice claim.
-- **Category confusion:** Scheduled status does not automatically change Article 343, State laws, Article 348 or classical status.
-
-**Route:** [FACT] Addition requires an Article 368 constitutional amendment; a committee report or executive notification is insufficient.
-
-**Verdict:** Expansion should follow transparent, evidence-based and consultative criteria, paired with language-use capacity. Recognition must be honest about what the Schedule legally does and does not confer.
-
-**Why this earns marks:** It supplies amendment history, both sides, the legal route and a graded rather than binary conclusion.
-
-**How to improve this answer:** Prioritise Articles 344/351 and the amendment sequence; if short, omit illustrative demand names and preserve the recognition-versus-administration distinction.
-
-**Compression plan:** Preserve the named legal source, one mechanism, one qualification and the reasoned verdict; remove secondary illustration first.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Should the Eighth Schedule be expanded further? Analyse the claims of linguistic recognition…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Should the Eighth Schedule be expanded further? Analyse the claims of linguistic recognition against constitutional and administrative concerns.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M6. Expanding the Eighth Schedule (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Criteria and equity: [ANALYSIS] Selection without transparent principles may produce unequal treatment among comparable claims. Qualification: no fixed count of pending demands should be treated as enacted fact. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Administrative expectations: More listed languages may increase translation, examination and resource expectations. Analysis: capacity costs are real. Qualification: they do not by themselves defeat a justice claim. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Category confusion: Scheduled status does not automatically change Article 343, State laws, Article 348 or classical status. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Route: [FACT] Addition requires an Article 368 constitutional amendment; a committee report or executive notification is insufficient. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Should the Eighth Schedule be expanded further? Analyse the claims of linguistic recognition against constitutional and administrative concerns.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M7. Complete federal language settlement (20 marks, 300 words)
-
-**Question:** Evaluate Part XVII and the Official Languages Act as an architecture of multilingual federal accommodation rather than a hierarchy of languages.
-
-**Model solution**
-
-**Thesis:** India’s settlement distributes language authority by function: Union administration, State choice, intergovernmental communication, courts, minority access and Hindi development. Its coherence lies in layered accommodation, not in declaring one language nationally supreme.
-
-**Constitutional layers**
-
-1. **Union:** [FACT] Articles 343-344 establish Hindi-Devanagari, international-form numerals and a balanced transition-review machinery. **Analysis:** Hindi receives constitutional direction without a national-language title. **Qualification:** Article 344’s Commission milestones are historical, not recurring every decade.
-2. **States:** Articles 345-347 protect State legislative choice and a presidential route for substantial linguistic sections. **Analysis:** territorial autonomy is recognised. **Qualification:** Article 346 and statutory communication safeguards prevent isolation.
-3. **Courts and texts:** Articles 348-349 preserve authoritative continuity. **Analysis:** common legal communication supports precedent. **Qualification:** Article 349 was time-bound and Article 348 requires controlled access reforms.
-4. **Minorities and Hindi:** Articles 350, 350A and 350B protect grievance access, primary mother-tongue facilities and oversight; Article 351 directs Hindi’s development through composite culture. **Analysis:** promotion and protection coexist. **Qualification:** neither side erases the other.
-
-**Statutory accommodation**
-
-Section 3 continues English, mandates bilingual instruments, protects employees and creates the section 3(5) State-plus-Parliament lock. Section 4 reviews progress, while sections 5-7 authorise controlled translations. **Analysis:** the Act turns political consent into legal procedure. **Qualification:** committee recommendations are not law by themselves.
-
-**Implementation**
-
-The 1976 Rules organise Union communications through Regions A/B/C, reply-language and employee-knowledge provisions. **Qualification:** these are administrative categories, not cultural rankings.
-
-**Evaluation:** [ANALYSIS] Strengths are continuity, State space, minority safeguards and legal-text discipline. Weaknesses include English-access inequality, uneven translation capacity, recurrent imposition fears and symbolic expectations around Schedule inclusion.
-
-**Verdict:** The settlement should be deepened through consent-based multilingual services and reliable translations, while retaining exact constitutional categories. Its democratic success depends on capacity and restraint as much as text.
-
-**Why this earns marks:** It covers every Part XVII chapter, the Act and Rules, evaluates strengths/limits and ends with a legally grounded verdict.
-
-**How to improve this answer:** Use a four-chapter skeleton and one statutory paragraph; compress current examples before deleting constitutional exceptions or the section 3(5) qualification.
-
-**Compression plan:** Preserve the named legal source, one mechanism, one qualification and the reasoned verdict; remove secondary illustration first.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate Part XVII and the Official Languages Act as an architecture of multilingual federal…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Evaluate Part XVII and the Official Languages Act as an architecture of multilingual federal accommodation rather than a hierarchy of languages.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M7. Complete federal language settlement (20 marks, 300 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Courts and texts: Articles 348-349 preserve authoritative continuity. Analysis: common legal communication supports precedent. Qualification: Article 349 was time-bound and Article 348 requires controlled access reforms. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The 1976 Rules organise Union communications through Regions A/B/C, reply-language and employee-knowledge provisions. Qualification: these are administrative categories, not cultural rankings. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It covers every Part XVII chapter, the Act and Rules, evaluates strengths/limits and ends with a legally grounded verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Use a four-chapter skeleton and one statutory paragraph; compress current examples before deleting constitutional exceptions or the section 3(5) qualification. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Evaluate Part XVII and the Official Languages Act as an architecture of multilingual federal accommodation rather than a hierarchy of languages.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M8. Technology and multilingual governance (20 marks, 300 words)
-
-**Question:** Assess the potential and limits of digital translation technologies in implementing India’s official-language framework.
-
-**Model solution**
-
-**Thesis:** [ANALYSIS] Digital tools can lower the cost of multilingual administration and justice, but they cannot manufacture constitutional authority or eliminate the need for human legal accountability.
-
-**Potential**
-
-- **Citizen access:** multilingual forms, grievance interfaces and speech tools can operationalise the access logic of Article 350. **Analysis:** citizens can enter government systems without English dependence. **Qualification:** availability does not prove equal redress quality.
-- **Administrative efficiency:** translation memory, terminology banks and bilingual search can support section 3(3) documents and Rules-based communication. **Analysis:** standardisation reduces repetitive work. **Qualification:** employee safeguards under section 3(4) still require fair workflow design and training.
-- **Legal access:** machine-assisted drafts can accelerate authorised translations under Article 348 and sections 5-7. **Analysis:** faster updates improve usability after amendments. **Qualification:** a draft is not an authoritative text.
-- **Minority inclusion:** digital learning resources may assist Article 350A-oriented mother-tongue facilities. **Qualification:** devices cannot substitute teachers, pedagogy or local-language content ecosystems.
-
-**Risks**
-
-1. **Semantic error:** legal qualifiers, negation and cross-references may be mistranslated.
-2. **Version drift:** a translation may omit later amendments.
-3. **Authority confusion:** users may treat an AI output as a binding statute or judgment.
-4. **Bias and exclusion:** low-resource languages may receive poorer accuracy.
-5. **Privacy:** speech and grievance tools may process sensitive citizen data.
-
-**Institutional design:** [ANALYSIS] Use a pipeline of source-text identification -> machine-assisted draft -> bilingual legal expert review -> terminology and citation check -> amendment/version audit -> authorised publication -> correction log. Attach metadata identifying authority, date and controlling version.
-
-**Current/legal control:** [CURRENT] The 22-language Schedule, section 3 safeguards and Article 348 hierarchy remain law; technology does not alter them. [LIMIT] No vendor accuracy claim should be treated as proof of legal reliability without audited domain testing.
-
-**Verdict:** Technology should widen multilingual access **within** the constitutional chain of authority. Human responsibility, transparent versioning and federal consultation are the conditions that convert speed into trustworthy inclusion.
-
-**Why this earns marks:** It links technology to named Articles and sections, separates benefits from legal authority, identifies concrete risks and proposes an auditable institutional workflow.
-
-**How to improve this answer:** Open with the authority/access tension and add the 1973 Act route; in 250 words use a three-stage workflow—draft, legal verification, versioned authorised publication.
-
-**Compression plan:** Preserve the named legal source, one mechanism, one qualification and the reasoned verdict; remove secondary illustration first.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the potential and limits of digital translation technologies in implementing India’s…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Assess the potential and limits of digital translation technologies in implementing India’s official-language framework.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M8. Technology and multilingual governance (20 marks, 300 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [ANALYSIS] Digital tools can lower the cost of multilingual administration and justice, but they cannot manufacture constitutional authority or eliminate the need for human legal accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Minority inclusion: digital learning resources may assist Article 350A-oriented mother-tongue facilities. Qualification: devices cannot substitute teachers, pedagogy or local-language content ecosystems. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Semantic error: legal qualifiers, negation and cross-references may be mistranslated. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Version drift: a translation may omit later amendments. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Assess the potential and limits of digital translation technologies in implementing India’s official-language framework.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-I / GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 65 (Part XVII; direct check of the local Sixth Revised Edition PDF) + official update.
-> ✅ = from source book · ⚠️ = inference / analysis · 📰 = official-source update.
-> *Companion: `basic/Official-Language.md`.*
+### 1. Constitutional interpretation: harmonisation, not a hierarchy
 
----
+Part XVII must be read as a connected settlement. Article 351's Hindi-development directive does not impliedly repeal State language autonomy under Article 345, the English baseline in Article 348, the grievance right in Article 350 or the minority safeguards in Articles 350A-350B. Likewise, continuing English under section 3 does not demote Hindi's Article 343 status. A high-quality answer identifies which provision allocates which function.
 
-### PART A — LANGUAGE OF THE UNION (Arts 343–344) ⭐⭐
-- ✅ **Art 343:** **Hindi in Devanagari script** = **official language of the Union**; numerals = the **international form of Indian numerals**, not the Devanagari form.
-- ✅ **English** to continue for **15 years (1950–1965)**; Parliament may extend its use beyond that.
-- ✅ **Language Commissions** (5th & 10th year): first under **B.G. Kher (1955)**; examined by a parliamentary
-  committee under **G.B. Pant (1957)**.
-- ✅ **Official Languages Act, 1963** — continues English **in addition to Hindi** for specified Union purposes and parliamentary business;
-  substituted section 3, effective in 1968 after the 1967 amendment, requires English in specified communications and creates a State-plus-Parliament discontinuance lock.
+### 2. Fundamental-right linkages, stated boundedly
 
-> ⭐ **Key trap:** Hindi is the **official** language — **NOT the "national language."** India has **no national
-> language** (constitutionally).
+- **Article 14:** A language classification or administrative practice remains subject to equality and non-arbitrariness, but Article 14 does not itself prescribe one official language.
+- **Article 19(1)(a):** *Associated Management* protects a child/parent's primary-medium choice in its context; valid language regulation must still be tested under the applicable constitutional limitation.
+- **Articles 21 and 21A:** The 2014 Court did not locate the medium-choice right in these Articles; do not overstate them.
+- **Article 29(1):** A section of citizens with a distinct language, script or culture may conserve it.
+- **Article 29(2):** Admission to State-maintained or State-aided institutions cannot be denied only on religion, race, caste, language or any of them.
+- **Article 30(1):** Religious and linguistic minorities may establish and administer educational institutions of their choice, subject to valid regulatory standards.
 
----
+### 3. Judicial proposition table
 
-### PART B — REGIONAL LANGUAGES (Arts 345–347) ✅
-- ✅ Constitution does **not** specify states' official languages — a **state legislature** may adopt any language(s)
-  in use OR Hindi; until then, **English** continues.
-- ✅ ⭐ A state's choice is **NOT limited to the Eighth Schedule** (e.g., states have adopted non-8th-Schedule tongues).
-- ✅ **Art 347:** On demand, if a substantial population wants it, the **President** may direct official recognition of
-  a language in a state (protects linguistic minorities).
+| Authority | Precise proposition | Do not claim |
+|---|---|---|
+| *Gujarat University v. Krishna Ranganath Mudholkar* (decision 1962; AIR 1963 SC 703) | The University statute did not authorise Gujarati/Hindi as exclusive medium; the majority also protected Parliament's Entry 66 standards field | The Court decided the pleaded Articles 29-30 issue; it expressly declined |
+| *T.M.A. Pai Foundation v. State of Karnataka* (2002) | Minority status is determined State-wise; Article 30 protects institutions of choice subject to permissible regulation | It is a Part XVII or national-language judgment |
+| *State of Karnataka v. Associated Management* (2014) | Primary-medium choice falls within Article 19(1)(a); Article 350A cannot compel mother tongue only against Article 30(1) | Article 350A is meaningless or no mother-tongue facilities are required |
+| *U.P. Hindi Sahitya Sammelan v. State of U.P.* (2014) | Article 345 power may be exercised from time to time; Urdu could be an additional official language for specified purposes | Article 347 is irrelevant or every language demand must be accepted |
 
----
+### 4. Authoritative-text design for digital government
 
-### PART C — LANGUAGE OF JUDICIARY & LAWS (Arts 348–349) ✅
-- ✅ **SC & HC proceedings** and **authoritative texts of all bills/acts/ordinances** → **English only** (until
-  Parliament provides otherwise).
-- ✅ A **Governor**, with the **President's prior consent**, may authorise Hindi/another
-  state official language in **High Court proceedings** under Art 348(2). Separately,
-  **Official Languages Act, 1963 s.7** permits it in HC judgments/decrees/orders if an
-  authorised English translation accompanies them.
+```text
+SOURCE TEXT -> verified translation memory -> domain/legal review
+            -> authorised publication -> immutable version identifier
+            -> accessible formats -> correction notice linked to prior version
+```
 
----
+An AI system can propose a translation, glossary or summary. It cannot supply the President's, Governor's, High Court's or Gazette's legal authorisation. The governing version must remain discoverable, and corrections must be auditable.
 
-### PART D — SPECIAL DIRECTIVES (Arts 350–351) ✅
-- ✅ **Art 350:** right to represent grievances in any language used in the Union/State.
-- ✅ **Art 350-A:** mother-tongue instruction at primary stage for linguistic minorities.
-- ✅ **Art 350-B:** **Special Officer for Linguistic Minorities** (added by **7th
-  Amendment, 1956**); headquarters moved from Allahabad to **New Delhi on 1 June 2015**.
-- ✅ **Art 351:** duty of the **Union to develop Hindi** so it may serve as a medium
-  of expression for all elements of India's composite culture (enriched from
-  Hindustani/Sanskrit/Eighth-Schedule languages).
+### 5. Eighth-Schedule expansion: a structured evaluation
 
----
+**Case for inclusion:** recognition, literary support, representation in the Article 344 setting and access to public institutions.  
+**Caution:** no settled constitutional criteria, continuing demands, translation/examination costs and fairness to still-unlisted languages.  
+**Reform:** transparent criteria, periodic expert review and graded support for endangered or under-resourced languages even without immediate inclusion.  
+**Limit:** inclusion alone does not create universal official use or reverse language decline.
 
-### PART E — THE EIGHTH SCHEDULE ⭐⭐
-- ✅ Currently **22 languages** (originally **14**).
-- ✅ Additions: **Sindhi** (21st Amdt, **1967**); **Konkani, Manipuri, Nepali** (71st Amdt, **1992**); **Bodo, Dogri,
-  Maithili, Santhali** (92nd Amdt, **2003**).
-- ✅ Purpose: (a) representation on the Official Language Commission; (b) enrichment of Hindi.
+### 6. Promotion versus imposition test
 
-#### Committee of Parliament on Official Language ✅
-✅ Set up under the 1963 Act (constituted **1976**); **30 members = 20 LS + 10 RS**; by convention **chaired by the
-Union Home Minister**; reviews the progress of Hindi and reports to the **President**.
+| Test | Promotion | Imposition risk |
+|---|---|---|
+| Legal source | within Constitution/statute | exceeds authorised field |
+| Choice | adds capability | displaces an available lawful option |
+| Burden | reciprocal and resourced | asymmetric and unfunded |
+| Access | expands services | excludes citizens/employees |
+| Method | consultation and transition | unilateral deadline |
+| Review | measurable quality and remedy | symbolic numerical target alone |
 
----
+The test converts a slogan-heavy controversy into a constitutional-governance analysis.
 
-#### UPSC Traps
-- ❌ Hindi is the "national language" → it is the **official language of the Union**; **India has no national language**.
-- ❌ The Eighth Schedule has 18 languages → **22** (originally 14).
-- ❌ States must pick an official language from the Eighth Schedule → **not restricted** to it.
-- ❌ English use ended in 1965 → **Official Languages Act 1963, section 3** continues it subject to its exact statutory safeguards.
-- ❌ Classical-language status is under the Eighth Schedule → it is a **separate government scheme**, unrelated to the 8th Schedule.
-- ❌ Article 348(2) alone authorises non-English HC judgments → it covers proceedings but excludes judgments, decrees and orders; **section 7 of the 1963 Act** supplies a separate route with an authorised English translation.
-
-#### 📰 CA hooks (official-source verified)
-- 📰 **Classical Language** status (a **separate scheme**, not the 8th Schedule): **Oct 2024** — **Marathi, Pali,
-  Prakrit, Assamese & Bengali** added, taking the total to **11** (earlier 6: Tamil-2004, Sanskrit-2005,
-  Kannada & Telugu-2008, Malayalam-2013, Odia-2014).
-- 📰 **NEP 2020 "three-language formula"** row — **Tamil Nadu's** opposition to alleged **Hindi imposition**;
-  federal-language politics.
-- 📰 Additional-language demands remain proposals unless enacted through constitutional amendment; do not freeze a disputed demand count as settled law.
-
-#### Mains angles
-- "India has an official language but no national language." Discuss the constitutional wisdom of this scheme.
-- The three-language formula and the federal tension over Hindi imposition.
-- Should the Eighth Schedule be expanded? Weigh linguistic justice against administrative feasibility.
 
 ## CONSOLIDATED REGISTER NOTES
 
-### Constitutional identity card
+### Constitutional classification sheet
 
-| Rapid-recall question | Controlled answer |
-|---|---|
-| Does India have a constitutionally declared national language? | [FACT] No |
-| Union official language | [FACT] Hindi in Devanagari, Article 343(1) |
-| Union numeral form | [FACT] International form of Indian numerals |
-| Legal wording for English | [FACT] May continue **in addition to Hindi** under section 3 |
-| State official-language source | [FACT] Article 345 + State law |
-| Higher-court/legal-text baseline | [FACT] Article 348 |
-| Scheduled-language total | [CURRENT] 22 in Constitution as on 1 May 2026 |
-| Classical-language relationship | [FACT] Separate executive scheme, not Eighth-Schedule status |
-
-> **Memory line:** Official != national; scheduled != official everywhere; classical != scheduled; policy != Part XVII.
-
-[LIMIT] Do not call English the constitutionally or statutorily defined “associate official language”. Do not call the 22 scheduled languages “the 22 official languages of India”.
-
-### Constituent-Assembly bargain and statutory evolution
-
-```text
-SEPTEMBER 1949 COMPROMISE
-Hindi-Devanagari + international numerals
-        |
-        +--> English transition for 15 years
-        +--> Parliament empowered for post-1965 use
-        |
-10 MAY 1963: Official Languages Act
-        |
-26 JAN 1965: Article 343(2) transition expires
-        |
-1965: strong anti-imposition mobilisation
-        |
-1967 amendment / 8 JAN 1968 substituted section 3
-        |
-1976 Rules and statutory committee implementation
-        |
-2026 CONTROL: statutory bilingual safeguards remain operative
-```
-
-- [FACT] The **Munshi-Ayyangar compromise** is a historical label, not constitutional wording.
-- [ANALYSIS] The bargain joined linguistic decolonisation to administrative continuity and non-Hindi federal confidence.
-- [LIMIT] 1965 was not the date on which English became unlawful; only the Article 343(2) transition ended.
-
-### Part XVII master map
-
-| Chapter | Articles | Examination core |
-|---|---:|---|
-| I — Language of the Union | 343-344 | Hindi, numerals, English transition, Commission and committee |
-| II — Regional languages | 345-347 | State choice, intergovernmental communication, recognition |
-| III — Supreme Court, High Courts, etc. | 348-349 | Proceedings, authoritative texts, historical special procedure |
-| IV — Special directives | 350, 350A, 350B, 351 | Grievance access, mother tongue, officer, Hindi development |
-
-> **Elimination method:** identify the **actor**, **function**, **legal source** and **qualification** before selecting an option.
-
-### Articles 343-344 — Union language machinery
-
-#### Article 343 clause ladder
-
-- [FACT] **343(1):** Hindi in Devanagari = Union official language; international form of Indian numerals = numeral form.
-- [FACT] **343(2):** English continued for pre-commencement Union purposes for fifteen years; the President’s additional-language/numeral authorisation existed within that period.
-- [FACT] **343(3):** Parliament may legislate for later English use or Devanagari-form numerals for specified purposes.
-- [LIMIT] Post-1965 English does not rest on an endlessly renewed Article 343(2) presidential order; it rests on legislation enabled by 343(3).
-
-#### Article 344 exact machinery
-
-| Element | Recall |
-|---|---|
-| Commission timing | [FACT] Five years and ten years from commencement, not every ten years forever |
-| Composition | [FACT] Chair + representatives of different Eighth-Schedule languages |
-| Recommendation fields | [FACT] Progressive Hindi use, English restrictions, Article 348 purposes, numerals, referred matters |
-| Balancing clause | [FACT] Industrial/cultural/scientific advancement + just claims of non-Hindi-speaking persons in public services |
-| Parliamentary committee | [FACT] 30 = 20 LS + 10 RS, elected by PR-STV |
-| Output | [FACT] Opinion to President; possible directions under Article 344(6) |
-
-[ANALYSIS] Article 344 constitutionalises review but also constitutionalises restraint by requiring non-Hindi interests to be considered.
-
-### Two 30-member committees — never collapse them
-
-| Test | Article 344(4) body | Official Languages Act section 4 body |
+| Category | Legal source | Exact consequence |
 |---|---|---|
-| Parent law | Constitution | Statute |
-| Trigger | Article 344 Commission | Ten years after section 3 commenced + prescribed resolution |
-| Function | Examine Commission recommendations | Review progress of Hindi for Union official purposes |
-| Composition | 20 LS + 10 RS, PR-STV | 20 LS + 10 RS, PR-STV |
-| Legal limit | Opinion is not an amendment | Directions after report cannot contradict section 3 |
+| Union official language | Article 343(1) | Hindi in Devanagari; international-form numerals |
+| Continuing English | Article 343(3) + OLA section 3 | In addition to Hindi for specified Union purposes and Parliament |
+| State official language | Article 345 + State law | One or more languages in use in State, or Hindi |
+| Intergovernmental language | Article 346 + OLA section 3 | Common channel with statutory protection for non-Hindi States |
+| Court/authoritative text | Article 348 + sections 5-7 | English baseline with controlled additional routes |
+| Scheduled language | Eighth Schedule | Article 344 representation and Article 351 enrichment; 22 languages |
+| Classical language | Union executive scheme | Cultural recognition, not constitutional official status |
+| Three-language formula | Education policy | No Part XVII command |
 
-- [CURRENT] The official committee portal displayed the **thirteenth part** of its report by 5 September 2026.
-- [LIMIT] A committee report cannot itself end English use, add a scheduled language or amend Article 343.
+### Part XVII rapid clause map
 
-### Articles 345-347 — State autonomy, communication and recognition
+- **343(1):** Hindi; Devanagari; international form of Indian numerals.
+- **343(2):** English for fifteen years; temporary presidential addition power.
+- **343(3):** Parliament may legislate for later English and Devanagari numerals.
+- **344(1)-(3):** Commission, subjects and balancing factors.
+- **344(4)-(6):** 30-member committee, report and presidential directions.
+- **345:** State legislative choice; English continuity until State law.
+- **346:** State-State and State-Union communication; Hindi by State agreement.
+- **347:** presidential recognition after demand and substantial-proportion satisfaction.
+- **348:** English higher-court proceedings and authoritative texts; controlled High Court route.
+- **349:** first-fifteen-years special procedure.
+- **350:** grievance representation in a language used in Union/State.
+- **350A:** mother-tongue primary facilities endeavour.
+- **350B:** Special Officer investigation and reports.
+- **351:** Union duty to develop Hindi through composite-cultural enrichment.
 
-#### Article 345
-
-- [FACT] State Legislature may adopt **one or more languages in use in the State or Hindi**, for all or specified State purposes.
-- [FACT] Until changed by State law, English continues for the State purposes for which it was used before commencement.
-- [LIMIT] Eighth-Schedule membership is not required.
-
-#### Article 346
-
-- [FACT] The language authorised for Union official purposes is the constitutional baseline for State-Union and inter-State communication.
-- [FACT] Two or more States may agree to use Hindi between themselves.
-- [ANALYSIS] Read Article 346 with section 3’s more specific English/Hindi safeguards.
-
-#### Article 347
-
-- [FACT] Trigger = demand by a language-speaking section + presidential satisfaction that a **substantial proportion** desires recognition.
-- [FACT] Direction may cover the whole State or a part and a specified purpose.
-- [LIMIT] No constitutional percentage defines “substantial”; demand is not automatic recognition.
-
-### Article 348 — proceedings, judgments and authoritative texts
-
-| Legal question | Route | Guardrail |
-|---|---|---|
-| SC/HC proceedings | [FACT] Article 348(1): English baseline | Parliament may otherwise provide by law |
-| HC proceedings in State language/Hindi | [FACT] Article 348(2): Governor + previous presidential consent | Excludes judgments, decrees and orders |
-| HC judgment/decree/order in authorised non-English language | [FACT] Act section 7 | In addition to English + authorised English translation |
-| State legal text in prescribed non-English language | [FACT] Article 348(3) | Governor-authorised Gazette English translation |
-| Authoritative Hindi Central text | [FACT] Act section 5 | Presidential authority/Gazette route |
-| Authorised Hindi State translation | [FACT] Act section 6 | Supplements Article 348(3) English text |
-
-[ANALYSIS] English provides a common precedential bridge; multilingual services and authorised translations answer the access problem without multiplying uncontrolled legal versions.
-
-[LIMIT] A fluent machine translation, private translation or general-language summary is not authoritative merely because it is accurate in appearance.
-
-### Article 349 — historical time box
-
-- [FACT] During the first fifteen years, specified Bills/amendments relating to Article 348(1) language purposes required previous presidential sanction and consideration of Article 344 materials.
-- [CURRENT] The period ended in 1965.
-- [LIMIT] Do not write Article 349 as a routine current requirement for every language-related Bill.
-
-### Articles 350, 350A and 350B — access and minority protection
-
-| Provision | Core right/duty | Essential qualification |
-|---:|---|---|
-| 350 | [FACT] Grievance representation in a language used in Union/State, as applicable | Does not fix every later proceeding’s language |
-| 350A | [FACT] State/local-authority endeavour for adequate primary mother-tongue facilities for linguistic-minority children | Not an unlimited school-specific Fundamental Right |
-| 350B | [FACT] President-appointed Special Officer investigates safeguards and reports | Investigative/reporting, not adjudicatory |
-
-- [FACT] The President lays Article 350B reports before both Houses and sends them to concerned States.
-- [FACT] Linguistic-minority character is contextual and does not require Eighth-Schedule status.
-- [FACT] Articles 29(1) and 30 are adjacent cultural/educational protections but have distinct text, beneficiaries and consequences.
-
-### Article 351 — promote Hindi through composite culture
+### Official Languages Act recall
 
 ```text
-UNION DUTY
-promote spread + develop Hindi
-          |
-          v
-medium for all elements of composite culture
-          |
-          +--> assimilate forms/styles/expressions:
-          |    Hindustani + Eighth-Schedule languages
-          |
-          +--> vocabulary:
-               primarily Sanskrit
-               secondarily other languages
+s.3 CONTINUE / COMMUNICATE / BILINGUALISE / PROTECT / LOCK
+s.4 REVIEW COMMITTEE
+s.5 CENTRAL AUTHORITATIVE HINDI TEXT
+s.6 STATE AUTHORITATIVE HINDI TEXT + ENGLISH
+s.7 HIGH COURT JUDGMENT ROUTE + ENGLISH TRANSLATION
+s.8 RULE-MAKING + PARLIAMENTARY LAYING
 ```
 
-- [FACT] Assimilation is “without interfering with the genius” of Hindi.
-- [ANALYSIS] Article 351 supports development and enrichment, not cultural erasure.
-- [LIMIT] It does not override Articles 345, 350A-350B, Fundamental Rights, Article 348 or section 3.
+### Rules 1976 answer card
 
-### Official Languages Act, 1963 — section-by-section recall
+1. Identify Central-office sender.
+2. Identify State/UT, person, non-Central office or Central-office recipient.
+3. Apply Region A/B/C communication rule.
+4. Add Rule 5 Hindi-reply and Rule 6 bilingual-document controls.
+5. Protect employee use under Rules 7-10.
+6. Use bilingual manuals/signage and compliance checks under Rules 11-12.
+7. Never infer constitutional status from an administrative region.
 
-#### Section 3
+### Eighth-Schedule memory chain
 
-| Subsection | Exam core |
-|---:|---|
-| 3(1) | [FACT] English may continue in addition to Hindi for specified Union purposes and Parliament |
-| provisos | [FACT] English bridge for Union/non-Hindi State communication; translation where Hindi State sends Hindi to non-Hindi State; voluntary Hindi preserved |
-| 3(2) | [FACT] Other-language translation in specified intra-Union/corporation communications until concerned staff gain working knowledge |
-| 3(3) | [FACT] Both Hindi and English for resolutions, general orders, rules, notifications, reports, parliamentary papers, contracts, licences, notices, tenders, etc. |
-| 3(4) | [FACT] Rules must protect efficiency, public interest and employees proficient in either Hindi or English |
-| 3(5) | [FACT] Specified English-use provisions remain until all non-Hindi-official-language States and then each House pass discontinuance resolutions |
+> **14 original + S + KMN + BDMS = 22; O-name changed later.**
 
-> **Double-lock mnemonic:** **All specified States -> both Houses -> only then discontinuance of the named provisions.**
+- **21st Amendment, 1967:** Sindhi.
+- **71st Amendment, 1992:** Konkani, Manipuri, Nepali.
+- **92nd Amendment, 2003:** Bodo, Dogri, Maithili, Santhali.
+- **96th Amendment, 2011:** Oriya renamed Odia; total unchanged.
 
-[LIMIT] One State, one House, the Union executive or a committee report is insufficient.
+### Case-law recall
 
-#### Sections 4-8
+- **Gujarat University (1963):** no statutory exclusive-medium power; Entry 66 standards boundary; Articles 29-30 not decided.
+- **T.M.A. Pai (2002):** minority is State-relative; Article 30 institution of choice subject to regulation.
+- **Associated Management (2014):** primary-medium choice under Article 19(1)(a); Article 350A is facilities, not compulsion.
+- **U.P. Hindi Sahitya (2014):** Article 345 may be reused; additional official language valid.
 
-- [FACT] **Section 4:** statutory Committee on Official Language; report to President; laid before Parliament and sent to States; directions cannot contradict section 3.
-- [FACT] **Section 5:** authoritative Hindi translations of specified Central instruments.
-- [FACT] **Section 6:** authorised Hindi translation of specified State Acts/ordinances in addition to the Article 348(3) English route.
-- [FACT] **Section 7:** authorised non-English High Court judgments/decrees/orders with English translation.
-- [FACT] **Section 8:** rule-making power.
-- [CURRENT] Former Jammu and Kashmir-specific section 9 is omitted in the consolidated text.
+### Ten high-risk traps
 
-### Official Languages Rules, 1976 — administrative application
-
-- [FACT] Official title: **Official Languages (Use for Official Purposes of the Union) Rules, 1976**.
-- [CURRENT] Official portal displays amendments in **1987, 2007 and 2011**.
-- [FACT] Extent: India **except Tamil Nadu**.
-
-| Rule/idea | Rapid recall |
-|---|---|
-| Rule 3 | Central office to non-Central recipients; apply Region A/B/C |
-| Rule 4 | Central office to Central office |
-| Rule 5 | Reply in Hindi to communication received in Hindi |
-| Rule 6 | Both Hindi and English for section 3(3) documents |
-| Rules 7-8 | Employee representations/file noting in Hindi or English subject to detail |
-| Rules 9-10 | Proficiency vs working knowledge |
-
-```text
-APPLY THE RULES
-sender -> recipient -> region
-   -> reply language/document type
-   -> employee proficiency/working knowledge
-   -> efficiency and non-disadvantage safeguards
-```
-
-- [FACT] Region A/B/C classify Union administrative communications.
-- [LIMIT] They do not rank cultures, add scheduled languages, determine all State law or override Article 348.
-- [LIMIT] Do not silently modernise territorial names beyond the authoritative consolidated rule text.
-
-### Eighth Schedule — exact list, purpose and amendment history
-
-#### Exact 22 in constitutional order
-
-| 1-6 | 7-12 | 13-18 | 19-22 |
-|---|---|---|---|
-| Assamese | Kannada | Marathi | Sindhi |
-| Bengali | Kashmiri | Nepali | Tamil |
-| Bodo | Konkani | Odia | Telugu |
-| Dogri | Maithili | Punjabi | Urdu |
-| Gujarati | Malayalam | Sanskrit |  |
-| Hindi | Manipuri | Santhali |  |
-
-- [FACT] Textual links: **Article 344(1)** representation and **Article 351** enrichment.
-- [LIMIT] Listing does not automatically make a language the Union language, a State language, a court language, a school medium or a classical language.
-
-#### Amendment ladder
-
-| Amendment | Exact change | Effective date | Count |
-|---:|---|---:|---:|
-| 21st, 1967 | [FACT] Sindhi added | 10-04-1967 | 14 -> 15 |
-| 71st, 1992 | [FACT] Konkani, Manipuri, Nepali added | 31-08-1992 | 15 -> 18 |
-| 92nd, 2003 | [FACT] Bodo, Dogri, Maithili, Santhali added | 07-01-2004 | 18 -> 22 |
-| 96th, 2011 | [FACT] “Oriya” replaced by “Odia” | 23-09-2011 | no change |
-
-> **Mnemonic:** **S | K-M-N | B-D-M-S | O-name**.
-
-- [FACT] Addition route = constitutional amendment under Article 368.
-- [LIMIT] Demand, State resolution, committee recommendation, parliamentary question or executive notification does not itself amend the Schedule.
-
-### 2024 Prelims route
-
-- [FACT] Q72 tests which languages the **71st Amendment** added.
-- [FACT] Constitutional resolution: Konkani + Manipuri + Nepali; Maithili belongs to the 92nd Amendment.
-- [LIMIT] The routed ledger does not record the locally available official key’s answer letter; do not present a letter as officially verified.
-
-### Scheduled, classical, court and education categories
-
-| Category | Source | Effect | Classic trap |
-|---|---|---|---|
-| Union official | Article 343 | Union governmental function | “National language” |
-| State official | Article 345 + State law | State governmental function | “Must be scheduled” |
-| Scheduled | Eighth Schedule | Constitutional listing linked to 344/351 | “Official everywhere” |
-| Classical | Union executive scheme | Heritage recognition | “Constitutional status” |
-| Court/legal text | Article 348 + Act | Proceedings/authoritative text | “Same as State administration” |
-| Medium/formula | Education law/policy | Teaching/learning design | “Article 343 command” |
-
-- [CURRENT] Official PIB material recorded **eleven classical languages** after Marathi, Pali, Prakrit, Assamese and Bengali were recognised in October 2024.
-- [LIMIT] Classical counts can change; the recognition does not amend Part XVII or the Eighth Schedule.
-- [FACT] The three-language formula is an education-policy framework, not a Part XVII command.
-- [ANALYSIS] Its design must balance multilingual learning, mobility, teacher capacity, student choice and State autonomy.
-
-### Federal debate — argument balance
-
-| Legitimate objective | Named support | Constitutional risk | Qualification |
-|---|---|---|---|
-| Wider Hindi use | Article 351 | Coercive imposition | Harmonise with State choice and section 3 |
-| Common administration | Act/Rules bilingual system | Employee/citizen exclusion | Apply section 3(4) fairness |
-| State linguistic identity | Article 345 | Intra-State minority neglect | Use 347, 350A, 350B |
-| Legal coherence | Article 348 | English-access barrier | Authorised translations and assistance |
-| Recognition | Eighth Schedule | Category inflation/unequal claims | Transparent Article 368 process |
-
-[ANALYSIS] English continuation is simultaneously an administrative bridge, a federal safeguard and a source of elite/access inequality. A high-quality answer holds all three claims together.
-
-[LIMIT] Neither Hindi promotion nor resistance to imposition should be caricatured as uniformly anti-national; political and regional positions are internally diverse.
-
-### Translation technology and authoritative access
-
-```text
-CONTROLLING SOURCE TEXT
-        |
-machine-assisted draft
-        |
-bilingual legal review
-        |
-terminology + cross-reference check
-        |
-amendment/version audit
-        |
-authorised publication
-        |
-correction log + user access
-```
-
-- [ANALYSIS] Benefits: faster multilingual forms, grievance interfaces, search, draft translation and accessible summaries.
-- [ANALYSIS] Risks: mistranslated qualifiers, version drift, authority confusion, low-resource-language bias and privacy loss.
-- [LIMIT] General summaries may aid comprehension but must identify the controlling judgment/statute and cannot substitute it.
-
-### Current control dashboard — 5 September 2026
-
-- [CURRENT] Legislative Department Constitution consolidation checked: **as on 1 May 2026**.
-- [CURRENT] Eighth Schedule: **22 languages**.
-- [CURRENT] Latest scheduled-language textual change: **Oriya -> Odia**, 96th Amendment; no twenty-third language.
-- [CURRENT] English continuation: operative under section 3 and its exact safeguards.
-- [CURRENT] Rules portal: amendments shown through **2011**.
-- [CURRENT] Committee portal: **thirteenth part** of report displayed.
-- [LIMIT] Additional-language demands remain proposals unless enacted by constitutional amendment.
-- [LIMIT] Annual Hindi-use targets, officeholders and recommendations are not frozen as permanent law.
-
-### Reform priorities with guardrails
-
-1. **Multilingual citizen interfaces** -> [ANALYSIS] expand forms and grievance access; [LIMIT] preserve accurate legal meaning.
-2. **Permanent translation capacity** -> terminology banks and professional cadres; human verification mandatory.
-3. **Versioned authorised legal texts** -> update promptly after amendments; identify authority/date.
-4. **Court-access support** -> cause lists, summaries, interpretation and assistance; retain authoritative hierarchy.
-5. **Mother-tongue capacity** -> teachers and materials at primary stage; respect Article 350A’s actual wording.
-6. **Federal consultation** -> consult States before major shifts; do not treat policy preference as constitutional command.
-7. **Fair civil-service implementation** -> training and digital tools; enforce section 3(4) non-disadvantage.
-
-### Twenty-four one-line trap repairs
-
-1. Hindi = Union official language, **not** national language.
-2. English = “in addition to Hindi”, **not** a statutory “associate” label.
-3. Article 343(2) transition ended in 1965; English did **not** become unlawful.
-4. International-form numerals are the Article 343(1) baseline.
-5. Article 344 Commission = five- and ten-year milestones, not decennial forever.
-6. Article 344 and section 4 committees have different parents and jobs.
-7. State official language need not be scheduled.
-8. Article 347 recognition requires presidential satisfaction; no fixed percentage.
-9. Article 348 covers courts **and** authoritative legal texts.
-10. Governor requires previous presidential consent under Article 348(2).
-11. Article 348(2) excludes judgments, decrees and orders.
-12. Section 7 requires an authorised English translation.
-13. Article 349 is historically time-bounded.
-14. Article 350 protects grievance representation language, not every proceeding.
-15. Article 350A uses “endeavour”; do not convert it into an unlimited FR.
-16. Article 350B officer investigates and reports; does not adjudicate.
-17. Article 351 is development through composite culture, not suppression authority.
-18. Section 3 is operative law, not convention.
-19. Section 3(5) requires all specified States + both Houses.
-20. Regions A/B/C are Rules categories, not constitutional ranks.
-21. All 22 scheduled languages are not official for all purposes.
-22. 96th Amendment renamed Oriya; count stayed 22.
-23. Three-language formula is education policy, not Article 343.
-24. Committee recommendations and language demands are not enacted law.
+1. India has no constitutionally declared national language.
+2. English did not automatically vanish in 1965.
+3. International-form numerals are not Devanagari numerals.
+4. Article 344 committee is not section 4 committee.
+5. State official language need not be scheduled.
+6. Article 348(2) proceedings do not include judgments.
+7. Section 6 adds Hindi without deleting the authoritative English translation.
+8. Article 350A is not a mother-tongue-only compulsion power.
+9. Article 351 is not a supremacy or replacement clause.
+10. Three-language formula is policy, not constitutional command.
 
 ### Mains answer spines
 
-#### 10-mark spine
+**Constitutional scheme:** distinction -> 1949 compromise -> Article 343 -> 1963/1967 continuation -> State/court/minority safeguards -> verdict.
 
-```text
-exact definition/thesis
- -> 2-3 named Articles/sections
- -> one mechanism
- -> one qualification
- -> direct verdict
-```
+**Federal dispute:** exact legal source -> competent actor -> affected groups -> access and burden -> consultation/capacity reform.
 
-#### 15-mark spine
+**Court language:** Article 348 baseline -> clause (2) gate -> section 7 judgment route -> authoritative translation -> access reforms.
 
-```text
-constitutional rule
- -> statutory implementation
- -> federal/minority or access dimension
- -> criticism + reply
- -> qualified conclusion
-```
+**Eighth Schedule:** limited function -> amendment chronology -> recognition benefits -> feasibility/equality concerns -> transparent criteria.
 
-#### 20-mark spine
+### Final qualified conclusion
 
-```text
-historical bargain
- -> Part XVII map
- -> Act + Rules
- -> institutions and translations
- -> competing values
- -> current control
- -> reforms with guardrails
- -> graded verdict
-```
-
-> **Evidence discipline:** every major paragraph should use **claim -> named Article/section/amendment -> what it proves -> limitation**.
-
-### Last-page rapid recall
-
-```text
-343 Hindi-Devanagari + international numerals
-344 Commission + constitutional committee
-345 State choice
-346 Union-State/inter-State communication
-347 recognition on substantial demand
-348 courts + authoritative texts
-349 first-15-year safeguard
-350 grievance language
-350A primary mother-tongue endeavour
-350B Special Officer
-351 develop Hindi through composite culture
-
-ACT: 3 continuation/safeguards | 4 committee | 5-7 authorised texts
-RULES: sender + recipient + region + document + employee protection
-SCHEDULE: 22 | 21st S | 71st KMN | 92nd BDMS | 96th Odia rename
-FINAL VERDICT: multilingual unity through exact law, consent, access and reliable translation
-```
+India's language Constitution is neither monolingual nor legally indifferent. It gives Hindi a defined Union role, preserves English through statute, enables State choices, protects court-text authority and linguistic-minority access, and directs culturally absorptive development. Its democratic success depends on consent, capacity, accurate translation and equal access.
 
 ### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
 
-#### ASCII MASTER FLOW — PANEL 1/12: Part XVII settlement: official language without a national language
+#### ASCII MASTER FLOW — PANEL 1/12: Central concept and classification
 
 ```ascii-master
+CLASSIFICATION MATRIX
+├── constitutional category
+┼── legal source
+├── exact consequence
+
 ROOT QUESTION
-How does one Union preserve common administration without linguistic uniformity?
+How can India share governmental language without declaring a national language?
+        |
+        +--> UNION OFFICIAL: Art. 343 -> Hindi, Devanagari
+        +--> STATE OFFICIAL: Art. 345 -> one or more languages / Hindi
+        +--> COURT / LAW: Art. 348 + statutory routes
+        +--> SCHEDULED: Eighth Schedule -> 22, limited constitutional links
+        +--> EDUCATION: Arts. 29-30, 350A + policy
 
-PART XVII
-Chapter I: Articles 343-344 | Union language.
-Chapter II: Articles 345-347 | regional languages.
-Chapter III: Articles 348-349 | courts and authoritative legal texts.
-Chapter IV: Articles 350-351 | grievances, minorities and Hindi development.
-
-CORE DISTINCTIONS
-Union official language != national language.
-scheduled != official everywhere | classical != scheduled | policy != Constitution.
-
-SETTLEMENT
-Hindi in Devanagari + international form of Indian numerals
-paired with statutory continuation of English and federal safeguards.
-
-CURRENT LAW: 5 SEPTEMBER 2026
-No constitutional national language exists. Hindi is the Union official
-language; English continues by statute in addition to Hindi.
-MUST REMEMBER: State precisely that Hindi in Devanagari is the Union's official language and
-  that the Constitution declares no national language.
+CONTROL
+official != national | scheduled != official everywhere | policy != Constitution.
 ```
 
-#### ASCII MASTER FLOW — PANEL 2/12: Articles 343-344 and the statutory continuation of English
+#### ASCII MASTER FLOW — PANEL 2/12: Chronology and constitutional compromise
 
 ```ascii-master
-ARTICLE 343
-Hindi in Devanagari = official language of Union.
-International form of Indian numerals = official numeral form.
-English transition period did not create an automatic 1965 switch-off.
+CHRONOLOGY SEQUENCE
+├── founding bargain
+▼
+├── statutory settlement
 
-OFFICIAL LANGUAGES ACT 1963, AS AMENDED
-section 3 continues English for Union official purposes and parliamentary business.
-section 3(5) uses a high-consent legislative lock for specified discontinuance.
+IMMEDIATE REPLACEMENT ----                           > MUNSHI-AYYANGAR COMPROMISE, SEPTEMBER 1949
+CONTINUITY / FEDERALISM --/                 |
+                                             v
+1950 Constitution -> Hindi official + English transition + Parliament power
+        |
+1955 B.G. Kher Commission -> 1957 G.B. Pant parliamentary examination
+        |
+1963 Act -> 1965 transition/agitations -> 1967 amendment, effective 8 Jan 1968
+        |
+1976 Rules -> administrative communication architecture.
 
-ARTICLE 344
-President's Commission at five years and ten years from commencement.
-30-member constitutional parliamentary committee: 20 Lok Sabha + 10 Rajya Sabha.
-
-DO NOT COLLAPSE
-Article 344 committee != section 4 statutory Committee on Official Language.
+LIMIT
+The compromise is historical description; the enacted text controls.
 ```
 
-#### ASCII MASTER FLOW — PANEL 3/12: 1963 Act: continuation and consent lock
+#### ASCII MASTER FLOW — PANEL 3/12: Article 343 clause mechanism
 
 ```ascii-master
-SECTION 3
-English continues in addition to Hindi for specified Union purposes and parliamentary business.
+CLAUSE MECHANISM
+├── default and transition
+├── parliamentary continuation
 
-COMMUNICATION
-Union to non-Hindi-official-language State -> English.
-Hindi State to non-Hindi State in Hindi -> accompanying English translation.
-
-ADMINISTRATIVE SAFEGUARDS
-section 3(2) translation | 3(3) bilingual instruments
-| 3(4) efficiency, public interest and employee non-disadvantage.
-
-SECTION 3(5) LOCK
-all specified State Legislatures + Lok Sabha + Rajya Sabha.
-Executive preference, one State or one House cannot discontinue the protected use.
+343(1) CONSTITUTIONAL DEFAULT
+Hindi language | Devanagari script | international form of Indian numerals
+        |
+        v
+343(2) FIFTEEN YEARS, 1950-1965
+English continues; President could add Hindi and Devanagari numerals
+        |
+        v
+343(3) PARLIAMENTARY POWER
+law may provide for English and/or Devanagari numerals after the period
+        |
+        v
+OLA 1963 SECTION 3
+English continues in addition to Hindi; no automatic 1965 switch-off.
 ```
 
-#### ASCII MASTER FLOW — PANEL 4/12: Articles 345-347: State choice and intergovernmental communication
+#### ASCII MASTER FLOW — PANEL 4/12: Article 344 consultative architecture
 
 ```ascii-master
+CONSULTATIVE HIERARCHY
+├── Commission recommendations
+├── parliamentary scrutiny and direction
+
+PRESIDENT -> Commission at 5-year and 10-year points
+        |
+        +--> progressive Hindi use
+        +--> restrictions on English
+        +--> Article 348 language
+        +--> numerals / referred communication matters
+        |
+        v
+CLAUSE (3) BALANCE
+advancement + just claims of non-Hindi areas in public services
+        |
+        v
+30-member Committee: 20 LS + 10 RS, elected PR-STV
+        |
+        v
+report to President -> possible directions.
+
+CONTRAST
+Article 344 committee != OLA section 4 statutory committee.
+```
+
+#### ASCII MASTER FLOW — PANEL 5/12: Section 3 bilingual settlement
+
+```ascii-master
+COMMUNICATION MATRIX
+├── external federal routes
+┼── internal bilingual safeguards
+├── discontinuance lock
+
+SECTION 3(1)
+English may continue in addition to Hindi for Union purposes and Parliament
+        |
+        +--> Union <-> non-Hindi State: English shall be used
+        +--> Hindi State -> non-Hindi State: Hindi + English translation
+        +--> voluntary Hindi communication remains possible
+        |
+SECTION 3(2) internal translation until working knowledge
+SECTION 3(3) specified documents in both Hindi and English
+SECTION 3(4) efficiency + public interest + employee non-disadvantage
+SECTION 3(5) all relevant States + each House -> specified discontinuance.
+```
+
+#### ASCII MASTER FLOW — PANEL 6/12: Act sections 4-8 and Rules
+
+```ascii-master
+STATUTORY PROCESS TREE
+├── committee and texts
+├── judgments, rules and laying
+
+s.4 statutory committee -> review Hindi progress -> President
+                            directions cannot conflict with s.3
+        |
+s.5 authorised Hindi texts of specified Central material
+s.6 authorised Hindi State Act/Ordinance + Art. 348(3) English text
+s.7 HC judgment/decree/order route + authorised English translation
+s.8 Central rules + Gazette + 30-day parliamentary laying
+        |
+1976 RULES
+Regions A/B/C -> sender-recipient routing
+Rule 5 Hindi reply | Rule 6 bilingual documents
+Rules 7-10 employee use/knowledge | Rules 11-12 materials/compliance.
+```
+
+#### ASCII MASTER FLOW — PANEL 7/12: State language and communication tree
+
+```ascii-master
+FEDERAL BRANCH TREE
+├── State choice and communication
+├── minority-language recognition
+
 ARTICLE 345
-State Legislature may adopt one or more languages in use in the State, or Hindi.
-English continues until State law otherwise provides within the constitutional frame.
-
+State Legislature -> one or more languages in use OR Hindi
+                 -> all or specified official purposes
+                 -> English continues until State law changes it
+        |
 ARTICLE 346
-Union-State and inter-State communication follows the authorised Union language,
-subject to agreement permitting Hindi between States.
-
+Union-authorised language -> State-State / State-Union communication
+two or more States may agree on Hindi
+        |
 ARTICLE 347
-President may recognise a language for specified State purposes on substantial-demand grounds.
+demand -> President satisfied of substantial proportion
+       -> recognition for State/part/purpose
 
-TRAPS
-Eighth-Schedule inclusion is not a prerequisite for State official-language choice.
-Article 347 is not automatic recognition or a general national-language declaration.
+CASE
+U.P. Hindi Sahitya (2014): adopting Hindi does not exhaust Art. 345 power.
 ```
 
-#### ASCII MASTER FLOW — PANEL 5/12: Articles 348-349: courts, judgments and authoritative texts
+#### ASCII MASTER FLOW — PANEL 8/12: Courts and authoritative-text gates
 
 ```ascii-master
-ARTICLE 348 BASELINE
-English for Supreme Court and High Court proceedings until Parliament provides otherwise.
-English authoritative texts for Bills, Acts, ordinances, orders, rules and bye-laws.
+AUTHORITY GATEWAY
+├── proceedings route
+├── judgment and text routes
 
-HIGH COURT PROCEEDINGS
-Governor + previous presidential consent -> Hindi or State official language.
-Article 348(2) expressly excludes judgments, decrees and orders.
+ARTICLE 348(1)
+SC + HC proceedings -> English until Parliament otherwise provides
+specified authoritative legal texts -> English
+        |
+ARTICLE 348(2)
+Governor + previous President consent -> Hindi/State language in HC proceedings
+PROVISO -> not judgment, decree or order
+        |
+SECTION 7
+non-English HC judgment/decree/order in addition to English
++ High Court-authorised English translation
+        |
+ART. 348(3) / ss.5-6 / 1973 Act
+specified authoritative translation routes.
 
-SECTION 7 ROUTE
-authorised non-English High Court judgment/decree/order in addition to English
--> High Court-authorised English translation.
+LIMIT
+An ordinary or machine translation is not automatically authoritative.
+```
+
+#### ASCII MASTER FLOW — PANEL 9/12: Legislature, transition and grievance access
+
+```ascii-master
+LEGISLATIVE-ACCESS SEQUENCE
+├── time-bound procedure and debate
+├── grievance representation
 
 ARTICLE 349
-historically time-bounded special procedure; not a routine present-day gate.
-
-LIMIT
-machine or general-information translation is not automatically authoritative law.
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: Authoritative-text hierarchy across Constitution and statutes
-
-```ascii-master
-ENGLISH BASELINE
-Article 348(1): court proceedings and authoritative legislative/delegated texts.
-
-HINDI ROUTES
-1963 Act section 5: authorised Hindi Central texts.
-section 6: authorised Hindi State text in specified cases.
-
-OTHER SCHEDULED LANGUAGES
-Authoritative Texts (Central Laws) Act 1973:
-Presidential authority + Official Gazette -> authoritative Central-law translation.
-
-HIGH COURT JUDGMENTS
-section 7: authorised non-English judgment + High Court-authorised English translation.
-
-TRAP
-translation utility, including machine output, does not itself confer authority.
-CLOSE DISTINCTION: Keep Union, State, court, grievance, minority-instruction, scheduled,
-  classical and education-policy language categories separate.
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Articles 350, 350A, 350B and 351: access and development
-
-```ascii-master
+first fifteen years only -> prior President sanction for specified Art. 348 bills
+                           after considering Art. 344 materials
+        |
+ARTICLE 120
+Parliament business -> Hindi or English; mother-tongue permission
+section 3(1)(b) -> continued English
+        |
+ARTICLE 210
+State legislature -> State official language(s), Hindi or English
++ mother-tongue permission; authoritative text still follows Art. 348
+        |
 ARTICLE 350
-representation for grievance redress may use a language used in the Union or State.
+every person -> grievance representation -> language used in Union/State.
+```
+
+#### ASCII MASTER FLOW — PANEL 10/12: Minority safeguards and case doctrine
+
+```ascii-master
+SAFEGUARD MATRIX
+├── facilities and reporting
+┼── rights and choice
+├── proposition-controlled cases
 
 ARTICLE 350A
-endeavour to provide mother-tongue instruction facilities at primary stage
-for children belonging to linguistic-minority groups.
-
+State/local authority -> endeavour -> adequate mother-tongue facilities
+-> primary stage -> linguistic-minority children
+        |
 ARTICLE 350B
-Special Officer investigates safeguards -> reports to President
--> laid before Parliament and sent to concerned State governments.
+President-appointed Special Officer -> investigate safeguards -> report
+-> Parliament + concerned States
+        |
+RIGHTS LINK, BOUNDED
+Art. 29 conservation/admission | Art. 30 minority institutions
+Art. 14 non-arbitrariness | Art. 19(1)(a) protected choice in context
+        |
+CASES
+Gujarat University (1963) competence | T.M.A. Pai (2002) minority framework
+Associated Management (2014) medium choice; Art. 350A not compulsion.
+```
+
+#### ASCII MASTER FLOW — PANEL 11/12: Hindi development, Schedule and policy debate
+
+```ascii-master
+POLICY COMPARISON
+├── Hindi development and scheduled recognition
+├── education policy and federal debate
 
 ARTICLE 351
-Union duty to promote Hindi and develop it as a medium for India's composite culture,
-drawing vocabulary principally from Sanskrit and secondarily from other languages.
-
-BALANCE
-promotion of Hindi operates with, not above, plural safeguards and federal consent.
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: 1976 Rules: administrative routing
-
-```ascii-master
-RULES 1976
-official portal shows amendments in 1987, 2007 and 2011; extent excludes Tamil Nadu.
-
-FIRST QUESTION
-Central office to non-Central recipient -> Rule 3 and Region A/B/C.
-Central office to Central office -> Rule 4.
-
-DOCUMENT CONTROLS
-reply to Hindi -> Hindi | section 3(3) documents -> Hindi + English.
-applications/file notes -> employee safeguards under Rules 7-8.
-
-CURRENT CAUTION
-A/B/C are administrative communication categories, not constitutional rankings.
-Do not silently modernise territorial names beyond the authoritative rule text.
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Eighth Schedule and separate policy categories
-
-```ascii-master
+promote Hindi -> medium for composite culture
+-> assimilate Hindustani + Eighth-Schedule forms without harming genius
+-> vocabulary primarily Sanskrit, secondarily other languages
+        |
 EIGHTH SCHEDULE
-22 languages in the current official Constitution.
-14 original -> Sindhi -> Konkani/Manipuri/Nepali -> Bodo/Dogri/Maithili/Santhali
--> Oriya renamed Odia.
-
-EFFECT
-constitutional recognition and Article 344/351 relevance.
-No automatic Union, State, court or school-medium status follows.
-
-CLASSICAL STATUS
-separate Union executive recognition.
-October 2024 additions brought the official count then reported to eleven.
-
+14 original -> 21st Sindhi -> 71st K-M-N -> 92nd B-D-M-S -> 96th Odia name
+CURRENT TOTAL 22 | Art. 344 representation + Art. 351 enrichment
+        |
 THREE-LANGUAGE FORMULA
-education-policy framework with State implementation variation.
-It is not a constitutional national-language command.
-
-CURRENT INSTITUTIONAL SNAPSHOT
-Eighth Schedule: 22 languages. Rules portal: amendments through 2011.
-Committee portal: Amit Shah as Chairperson and thirteenth report displayed.
-Committee recommendations cannot override section 3's statutory safeguards.
+education policy, not constitutional command
+        |
+DEBATE
+promotion / capability <---- federal choice ----> imposition / unequal burden.
 ```
 
-#### ASCII MASTER FLOW — PANEL 10/12: Language cases: competence, minority context and protected choice
+#### ASCII MASTER FLOW — PANEL 12/12: Reform, PYQ and answer synthesis
 
 ```ascii-master
-Gujarat University v. Shri Krishna (1963)
-medium/language power must respect the Union-State education competence boundary.
+ANSWER SYNTHESIS
+├── access problem and reform process
+├── PYQ route and qualified conclusion
 
-D.A.V. College v. State of Punjab (1971)
-linguistic-minority safeguards require contextual constitutional analysis.
-
-State of Karnataka v. Associated Management (2014)
-compulsory mother-tongue medium cannot override protected educational choice.
-
-DOCTRINAL TRIANGLE
-legislative competence | speech/choice rights | linguistic-minority safeguards.
-
-LIMIT
-none of these decisions declares a national language or erases Article 350A.
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Federal accommodation, court access and translation technology
-
-```ascii-master
-LEGITIMATE GOALS
-administrative interoperability | citizen access | cultural recognition
-| judicial usability | educational inclusion.
-
-RISKS
-imposition | exclusion from employment/services | translation error
-| authoritative-text confusion | weak minority facilities | digital language divide.
-
-TECHNOLOGY CHAIN
-multilingual intake -> translation/interpretation -> human legal review
--> authority label -> version control -> accessible publication.
-
-FEDERAL METHOD
-consent + capacity + phased implementation + reciprocal communication.
-
-LIMIT
-policy targets, committee recommendations and software outputs do not amend Part XVII.
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: UPSC traps, verified PYQ and qualified answer synthesis
-
-```ascii-master
-PRELIMS FIREWALL
-official != national | 22 scheduled languages | Hindi script = Devanagari
-| numerals = international form | English continuation = statute
-| Article 348(2) excludes judgments | section 7 supplies separate route
-| Article 350 grievance right | 350A instruction facility | 350B Special Officer
-| classical and three-language categories are separate.
-
-2024 PRELIMS ROUTE
-21st, 71st and 92nd Amendment language additions.
-
-MAINS SPINE
-constitutional compromise -> Part XVII -> 1963 Act
--> State autonomy -> court/text hierarchy -> minority safeguards
--> category distinctions -> access technology -> federal verdict.
-
-CONCLUSION
-multilingual unity requires exact law, consent and authoritative parity.
-LEGAL/SOURCE LIMIT: The 1963 Act, 1967 settlement and 1976 Rules as amended through 2011
-  remain operative; the Eighth Schedule contains twenty-two languages.
+ACCESS PROBLEM
+English barrier | translation delay | digital divide | minority-facility gap
+        |
+RESPONSE
+multilingual intake -> trained interpretation -> machine assistance
+-> human legal review -> authority label -> version control -> correction route
+        |
+VERIFIED PYQ
+2024 Q72 -> 71st Amendment = Konkani + Manipuri + Nepali
+        |
+MAINS ANSWER SPINE
+distinction -> history -> Arts. 343-351 -> 1963/1967 settlement
+-> State/court/minority boundaries -> Schedule/policy -> tensions -> reform
+        |
+QUALIFIED CONCLUSION
+Promote language through capacity and consent; preserve exact legal routes,
+authoritative texts, equal access and India's multilingual federal compact.
 ```

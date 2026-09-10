@@ -1,1147 +1,788 @@
----
-title: "NHRC and SHRC — Solved Practice Workbook"
-topic_key: polity-35
----
-# NHRC and SHRC — Solved Practice Workbook
+# NHRC and SHRC - Solved Practice Workbook
+
+**Subject:** Polity | **Control date:** 8 September 2026
+
+**Locked discipline:** exactly 32 original MCQs before PYQs; `ABCD` repeated eight times; 128 substantive unique option-specific explanations; 32 unique question-specific examiner traps; verified-PYQ wording and official-key discipline; exactly six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-#### Original MCQs - 36 questions
+Exactly **32 original MCQs** appear before PYQs. Correct-option sequence: `ABCD` repeated eight times. Every question has four substantive option-specific explanations and one unique question-specific examiner trap.
 
-### Q1. Which description most accurately captures the NHRC?
+### MCQ 1. Legal identity
 
-A. A statutory commission constituted under the Protection of Human Rights Act, 1993
-B. A criminal court under the Code of Criminal Procedure
-C. A constitutional commission under Article 338
-D. An executive committee created only by Cabinet resolution
+Which description is legally correct?
+
+A. NHRC is a statutory commission under the Protection of Human Rights Act, 1993.
+B. NHRC is a constitutional commission under Article 338.
+C. NHRC is a criminal court constituted under the Code of Criminal Procedure.
+D. NHRC is an informal body created only by executive resolution.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Section 3 of the PHRA requires the Central Government to constitute the NHRC. [LIMIT] Statutory inquiry powers do not make it a court.
+**Option-specific explanations:**
 
-### Q2. Section 2(d) links human rights to life, liberty, equality and dignity that are:
+- **A:** Section 3 requires the Central Government to constitute NHRC under the PHRA.
+- **B:** Article 338 creates the National Commission for Scheduled Castes, not NHRC.
+- **C:** Civil-court inquiry powers do not make NHRC a criminal court.
+- **D:** The PHRA, not a bare Cabinet resolution, is the creating law.
 
-A. mentioned in any international publication
-B. constitutionally guaranteed or embodied in the statutory International Covenants and enforceable by courts in India
-C. confined to Fundamental Rights available only to citizens
-D. recognised by any NGO
+**Examiner trap 1:** The adjective 'national' does not identify the legal source.
+
+### MCQ 2. Statutory definition
+
+Section 2(1)(d) defines human rights by linking life, liberty, equality and dignity to rights that are
+
+A. recognised by any civil-society organisation.
+B. constitutionally guaranteed or embodied in the defined International Covenants and enforceable by courts in India.
+C. found in every treaty signed by India, whether enforceable or not.
+D. available only to citizens under Part III.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The enforceability language and defined International Covenants are essential parts of section 2(c).
+**Option-specific explanations:**
 
-### Q3. “International Covenants” under section 2(f) expressly includes:
+- **A:** NGO recognition cannot enlarge a statutory definition.
+- **B:** This option preserves both legal sources and the enforceability requirement.
+- **C:** Treaty signature alone does not satisfy the statutory notification and enforceability gates.
+- **D:** The definition concerns the individual and is not confined to citizen-only rights.
 
-A. all judgments of international courts
-B. only the Universal Declaration of Human Rights
-C. ICCPR, ICESCR and another UNGA covenant/convention only if specified by Central notification
-D. every treaty signed by any ministry
+**Examiner trap 2:** Omitting 'enforceable by courts in India' makes the definition overbroad.
+
+### MCQ 3. International Covenants
+
+Which instruments are expressly named in section 2(1)(f)?
+
+A. Only the Universal Declaration of Human Rights
+B. Every International Labour Organization convention
+C. The ICCPR and the ICESCR, plus another UN General Assembly covenant or convention if centrally notified
+D. Only treaties incorporated by a constitutional amendment
 
 **Answer: C.**
 
-**Explanation:** [FACT] ICCPR and ICESCR are named. Other UNGA instruments need the statutory notification gate.
+**Option-specific explanations:**
 
-### Q4. The seven deemed members of NHRC participate by that status in:
+- **A:** The UDHR is historically important but is not the pair expressly named in section 2(1)(f).
+- **B:** ILO instruments are not automatically included as a class.
+- **C:** The Act names both 1966 Covenants and creates a notification route for another UNGA instrument.
+- **D:** A constitutional amendment is not the statutory notification mechanism.
 
-A. only section 12(a) complaint inquiry
-B. the presidential selection committee
-C. removal proceedings
-D. functions under section 12(b) to (j), not section 12(a)
+**Examiner trap 3:** Separate an instrument's moral importance from its inclusion in the Act's definition.
+
+### MCQ 4. Deemed members
+
+The seven deemed members of NHRC participate by virtue of section 3(3) for
+
+A. only section 12(a) complaint inquiries.
+B. the presidential appointment committee.
+C. all NHRC functions without any statutory boundary.
+D. the functions in section 12(b) to (j), excluding section 12(a) by that deemed status.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Section 3(3) expressly limits deemed membership to section 12(c)-(j).
+**Option-specific explanations:**
 
-### Q5. Who is eligible to be NHRC Chairperson under current law?
+- **A:** Section 12(a) is the function excluded from the deemed-member formula.
+- **B:** The selection committee is separately specified in section 4.
+- **C:** Section 3(3) expressly imposes a functional boundary.
+- **D:** This reproduces the current statutory range accurately.
 
-A. A person who has been CJI or a Judge of the Supreme Court
-B. Only a former Union Home Secretary
-C. Any serving High Court judge
-D. Only a serving CJI
+**Examiner trap 4:** The correct range begins with clause (b), not clause (c).
+
+### MCQ 5. NHRC chair eligibility
+
+Who satisfies the current statutory qualification for NHRC Chairperson?
+
+A. A person who has been Chief Justice of India or a Judge of the Supreme Court
+B. Any former Chief Justice of a High Court
+C. Only a serving Chief Justice of India
+D. Any human-rights expert with ten years' experience
 
 **Answer: A.**
 
-**Explanation:** [FACT] The 2019 Amendment widened eligibility beyond a former CJI to a former SC judge.
+**Option-specific explanations:**
 
-### Q6. Which office is NOT part of the NHRC selection committee under section 4?
+- **A:** The 2019 Amendment widened the former CJI-only formulation to include a person who has been an SC Judge.
+- **B:** High Court Chief Justice experience qualifies the separate ordinary judicial-member category, not the Chair by itself.
+- **C:** The statutory phrase is 'has been', not 'must be serving'.
+- **D:** Expertise alone belongs to the expert-member route, not Chairperson eligibility.
 
-A. Union Home Minister
+**Examiner trap 5:** Do not confuse the Chairperson route with the expert-member route.
+
+### MCQ 6. Selection committee
+
+Which office is not a member of the section 4 selection committee?
+
+A. Speaker of the Lok Sabha
 B. Chief Justice of India
-C. Deputy Chairman of Rajya Sabha
-D. Lok Sabha Speaker
+C. Union Home Minister
+D. Deputy Chairman of the Rajya Sabha
 
 **Answer: B.**
 
-**Explanation:** [FACT] CJI consultation is required for specified sitting-judge appointments, but the CJI is not a committee member.
+**Option-specific explanations:**
 
-### Q7. The ordinary NHRC member's term is:
+- **A:** The Lok Sabha Speaker is one of the six members.
+- **B:** The CJI has a consultation role for specified sitting-judge appointments but is not on the committee.
+- **C:** The Minister in charge of Home Affairs is a member.
+- **D:** The Rajya Sabha Deputy Chairman is a member.
 
-A. five years with no age limit
-B. six years or age sixty-five
-C. three years, reappointment-eligible, with an age ceiling of seventy
-D. until the pleasure of the President
+**Examiner trap 6:** Consultation with an office-holder does not make that office-holder a committee member.
+
+### MCQ 7. NHRC tenure
+
+Which statement reflects section 6 after the 2019 Amendment?
+
+A. Every member has a single non-renewable five-year term.
+B. Members serve during presidential pleasure without an age limit.
+C. The term is three years; reappointment is allowed, subject to the age ceiling of seventy.
+D. The term is six years or age sixty-five, whichever is earlier.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Section 6 was amended in 2019. [LIMIT] The current Act does not state a fixed maximum number of reappointments.
+**Option-specific explanations:**
 
-### Q8. Which ground permits direct removal by the President without the proved-misbehaviour Supreme Court inquiry track?
+- **A:** Five years is the pre-2019 rule and non-renewability is incorrect.
+- **B:** Removal is governed by section 5, not unrestricted pleasure.
+- **C:** This states the current duration, reappointment rule and ceiling.
+- **D:** Neither six years nor sixty-five is the PHRA formula.
 
-A. absence from one meeting
-B. criticism by a State government
-C. disagreement with a recommendation
-D. adjudged insolvency
+**Examiner trap 7:** The amendment shortened tenure but did not abolish reappointment.
+
+### MCQ 8. Direct removal ground
+
+Which circumstance is a direct statutory ground for presidential removal without first proving misbehaviour through the Supreme Court inquiry route?
+
+A. A dissenting recommendation
+B. Failure to attend one meeting
+C. Criticism by Parliament
+D. Being adjudged insolvent
 
 **Answer: D.**
 
-**Explanation:** [FACT] Insolvency is one of section 5(3)'s direct statutory grounds.
+**Option-specific explanations:**
 
-### Q9. SHRC Chairperson and members are appointed by:
+- **A:** Disagreement with a recommendation is not a removal ground.
+- **B:** One absence is not listed.
+- **C:** Political criticism is not a statutory ground.
+- **D:** Insolvency appears in section 5(3)'s direct-removal list.
 
-A. the Governor after the statutory committee's recommendation
-B. the Chief Justice of the High Court
-C. the State Cabinet without warrant
-D. the President after Parliament's recommendation
+**Examiner trap 8:** Keep the proved-misbehaviour track separate from the listed objective grounds.
+
+### MCQ 9. Section 12(a)
+
+NHRC may inquire under section 12(a) into
+
+A. a violation or abetment, or public-servant negligence in prevention, on the authorised entry routes.
+B. every breach of a private contract without public-authority connection.
+C. only matters referred by Parliament.
+D. only violations already proved by a criminal court.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Section 22 vests appointment in the Governor by warrant.
+**Option-specific explanations:**
 
-### Q10. Who removes an SHRC Chairperson or member under the PHRA?
+- **A:** This captures the subject and the public-servant nexus.
+- **B:** The PHRA is not a general private-contract forum.
+- **C:** Parliamentary reference is not the sole entry route.
+- **D:** Inquiry precedes, and does not require, a criminal conviction.
 
-A. High Court Chief Justice
-B. President
-C. Chief Minister
-D. Governor
+**Examiner trap 9:** The public-servant wording attaches expressly to negligence in prevention.
+
+### MCQ 10. Court intervention
+
+Section 12(b) permits NHRC to intervene in a pending human-rights proceeding
+
+A. whenever the Commission wishes, despite the court.
+B. with the approval of that court.
+C. only after final judgment.
+D. only if the Union Home Ministry consents.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Resignation goes to the Governor, but removal power belongs to the President.
+**Option-specific explanations:**
 
-### Q11. Which section 12 function is omitted when applied to SHRCs by section 29?
+- **A:** The court retains control of its proceeding.
+- **B:** Court approval is the express statutory condition.
+- **C:** Intervention concerns a pending proceeding, not only a concluded one.
+- **D:** The clause does not make Home Ministry consent the condition.
 
-A. jail/institution visit
-B. research
-C. treaty and international-instrument study under clause (f)
-D. court intervention
+**Examiner trap 10:** Court-directed inquiry under section 12(a) and intervention requiring court approval under 12(b) are distinct.
+
+### MCQ 11. Institution visits
+
+The section 12(c) visit function is best described as
+
+A. a power to take permanent control of prisons.
+B. a power to sentence prison officials.
+C. a visit to specified State-controlled institutions to study inmate living conditions and recommend.
+D. a power limited to police stations named by Parliament.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Section 29 expressly omits section 12(f) for State Commissions.
+**Option-specific explanations:**
 
-### Q12. An SHRC may inquire only into matters relatable to:
+- **A:** Management remains with the competent government authority.
+- **B:** Criminal sentencing belongs to courts.
+- **C:** This states the purpose and recommendatory output.
+- **D:** The clause is broader and is not based on parliamentary naming.
 
-A. Union List only
-B. foreign affairs only
-C. residuary powers only
-D. State List and Concurrent List entries
+**Examiner trap 11:** Visit, study and recommend are not manage, prosecute and punish.
+
+### MCQ 12. Civil-court powers
+
+Which consequence does section 13 not create?
+
+A. Power to summon and examine witnesses on oath
+B. Power to require discovery and production of documents
+C. Power to requisition public records
+D. A general power to pass executable compensation decrees
 
 **Answer: D.**
 
-**Explanation:** [FACT] Section 21(5) supplies the federal subject-matter boundary.
+**Option-specific explanations:**
 
-### Q13. Which is a civil-court power specifically granted for inquiry?
+- **A:** Summoning is expressly listed.
+- **B:** Document discovery and production are expressly listed.
+- **C:** Public-record requisition is expressly listed.
+- **D:** Compensation is recommended under section 18; no general decree power follows from section 13.
 
-A. Summoning witnesses and examining them on oath
-B. Passing a criminal sentence
-C. Executing compensation as a decree
-D. Striking down legislation
+**Examiner trap 12:** Evidence power and remedy power arise from different sections.
+
+### MCQ 13. Limited deemed-court status
+
+The safest statement about NHRC's deemed-court status is
+
+A. It is purpose-specific for listed Penal Code and criminal-procedure consequences.
+B. It makes every NHRC recommendation a civil decree.
+C. It gives NHRC the Supreme Court's writ jurisdiction.
+D. It authorises NHRC to punish every criticism as contempt.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Section 13 grants evidence-gathering powers, not general judicial jurisdiction.
+**Option-specific explanations:**
 
-### Q14. Under section 14, use of a government investigation agency requires:
+- **A:** Sections 13(4)-(5) define limited consequences tied to proceedings and specified offences.
+- **B:** Section 18 recommendations remain non-self-executing.
+- **C:** Writ jurisdiction remains with constitutional courts.
+- **D:** The Act does not confer a general contempt jurisdiction.
 
-A. a jury verdict
-B. concurrence of the concerned Central or State Government
-C. approval by every complainant
-D. a constitutional amendment
+**Examiner trap 13:** The phrase 'deemed to be a civil court' must always be followed by its statutory purpose.
+
+### MCQ 14. Investigation agency
+
+Under section 14, NHRC may use a Central or State government officer or agency
+
+A. without informing any government.
+B. with the concurrence of the concerned government and under Commission direction and control.
+C. only after a criminal court frames charges.
+D. only for promotional research.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The agency then acts under Commission direction and control; the Commission checks its report.
+**Option-specific explanations:**
 
-### Q15. Section 16 is most directly associated with:
+- **A:** The statute requires concurrence.
+- **B:** This states both the concurrence gate and operational relationship.
+- **C:** Commission investigation is not contingent on framed criminal charges.
+- **D:** Section 14 concerns inquiry-related investigation.
 
-A. annual budgeting
-B. accreditation
-C. hearing a person whose conduct or reputation may be prejudicially affected
-D. armed-forces reporting
+**Examiner trap 14:** Concurrence is a legal condition; Commission verification is a separate safeguard.
+
+### MCQ 15. Section 17
+
+If information called for under section 17 is not received within the stipulated time, NHRC may
+
+A. automatically convict the named official.
+B. award final damages as a decree.
+C. proceed to inquire into the complaint on its own.
+D. refer every case to Parliament.
 
 **Answer: C.**
 
-**Explanation:** [FACT] It is the statutory natural-justice safeguard.
+**Option-specific explanations:**
 
-### Q16. In an ordinary section 18 case, the default period for government comments is:
+- **A:** Conviction remains judicial.
+- **B:** Section 18 uses recommendatory language.
+- **C:** The proviso expressly allows the Commission to proceed.
+- **D:** Parliamentary laying concerns reports, not an automatic complaint route.
 
-A. fifteen days
-B. seven days
-C. three months
-D. one month, or further time allowed
+**Examiner trap 15:** A report-first procedure does not give the government a veto through silence.
+
+### MCQ 16. Section 18 output
+
+Which is the correct legal formulation?
+
+A. NHRC itself imprisons the responsible public servant.
+B. NHRC executes compensation as an ordinary civil decree.
+C. NHRC finally determines criminal guilt.
+D. NHRC may recommend compensation, prosecution, further action or interim relief and may approach a constitutional court.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Section 18(e) sets one month; section 19 separately uses three months for armed-forces cases.
+**Option-specific explanations:**
 
-### Q17. “Armed forces” under the Act includes:
+- **A:** The Commission has no sentencing power.
+- **B:** The Act says recommend payment, not execute a decree.
+- **C:** Criminal guilt is for the competent court.
+- **D:** This accurately combines the section 18 routes.
 
-A. naval, military and air forces and other armed forces of the Union
-B. prison staff only
-C. private security agencies
-D. every State police constable automatically
+**Examiner trap 16:** In answers, retain the verbs 'recommend' and 'approach'.
+
+### MCQ 17. Ordinary response period
+
+The ordinary section 18 period for government or authority comments is
+
+A. one month, or further time allowed by the Commission.
+B. three months without extension.
+C. one year.
+D. seven days.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Section 2(a) defines the category. State police should not be casually placed under section 19.
+**Option-specific explanations:**
 
-### Q18. The Central Government normally informs NHRC of action on an armed-forces recommendation within:
+- **A:** Section 18(e) supplies this period.
+- **B:** Three months belongs to the armed-forces route.
+- **C:** One year is the section 36(2) inquiry bar.
+- **D:** Seven days is not the statutory period here.
 
-A. six months without extension
-B. three months, or further time allowed
-C. one year
-D. one month
+**Examiner trap 17:** Match each period to its provision: one month, three months, one year.
+
+### MCQ 18. Armed forces definition
+
+For the PHRA, 'armed forces' includes
+
+A. all State police personnel by default.
+B. naval, military and air forces and other armed forces of the Union.
+C. only the Army.
+D. every private security contractor.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Section 19(2) creates the distinct timetable.
+**Option-specific explanations:**
 
-### Q19. Which case treats section 36(2) as a jurisdictional bar?
+- **A:** State police are not automatically within section 2(1)(a).
+- **B:** This follows the statutory definition.
+- **C:** The definition is not confined to the Army.
+- **D:** Private contractors are not included merely by their work.
 
-A. *Indra Sawhney*
-B. *Kesavananda Bharati*
-C. *N.C. Dhoundial v. Union of India (2003)*
-D. *S.R. Bommai*
+**Examiner trap 18:** Do not use 'armed forces' as a loose synonym for every uniformed service.
+
+### MCQ 19. Section 19 procedure
+
+After receiving the Central Government's report in an armed-forces complaint, NHRC may
+
+A. conduct an ordinary direct inquiry regardless of section 19.
+B. sentence the personnel concerned.
+C. not proceed further or make recommendations to the Central Government.
+D. transfer the criminal trial to itself.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The Court rejected NHRC's generic continuing-wrong theory on the facts.
+**Option-specific explanations:**
 
-### Q20. A Human Rights Court is specified by:
+- **A:** Section 19 displaces the ordinary track.
+- **B:** Sentencing belongs to a court.
+- **C:** These are the two statutory choices.
+- **D:** NHRC is not a trial court.
 
-A. NHRC alone
-B. the District Magistrate
-C. Parliament for the whole country through one resolution
-D. the State Government, with concurrence of the High Court Chief Justice, by notifying a Court of Session
+**Examiner trap 19:** The special route narrows procedure; it does not erase rights law.
+
+### MCQ 20. Armed-forces follow-up
+
+The Central Government ordinarily informs NHRC of action on a section 19 recommendation within
+
+A. one month.
+B. six months.
+C. one year.
+D. three months, or further time allowed.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Section 30 uses “may” and includes an existing-special-court proviso.
+**Option-specific explanations:**
 
-### Q21. A specially appointed advocate under section 31 must have practised for at least:
+- **A:** One month is the ordinary section 18 period.
+- **B:** Six months is not the section 19 formula.
+- **C:** One year concerns jurisdiction.
+- **D:** Section 19(2) supplies three months plus permitted extension.
 
-A. seven years
-B. ten years
-C. twelve years
-D. five years
+**Examiner trap 20:** The special procedure has its own longer response clock.
+
+### MCQ 21. SHRC subject scope
+
+An SHRC may inquire into violations relating to
+
+A. entries in the State List and Concurrent List, subject to the already-inquired bar.
+B. only the Union List.
+C. foreign affairs and defence exclusively.
+D. every matter occurring geographically in the State.
 
 **Answer: A.**
 
-**Explanation:** [FACT] The State may instead specify a Public Prosecutor.
+**Option-specific explanations:**
 
-### Q22. Which is a core Paris-Principles requirement?
+- **A:** Section 21(5) ties jurisdiction to Lists II and III and adds the duplication proviso.
+- **B:** Union List-only jurisdiction is incorrect.
+- **C:** These are predominantly Union fields.
+- **D:** Location alone does not answer the subject-matter test.
 
-A. control by the Home Ministry
-B. pluralist composition and adequate independent resources
-C. secrecy of reports
-D. exclusive judicial membership
+**Examiner trap 21:** Use the Seventh Schedule, not a simple territory test.
+
+### MCQ 22. SHRC appointment and removal
+
+Which pair is correct?
+
+A. President appoints; Governor removes
+B. Governor appoints; President removes
+C. Chief Justice appoints; Chief Minister removes
+D. State Legislature appoints and removes
 
 **Answer: B.**
 
-**Explanation:** [FACT] OHCHR's official text emphasises broad mandate, pluralism, infrastructure, funding and operational freedom.
+**Option-specific explanations:**
 
-### Q23. The safest current statement on India's GANHRI status is:
+- **A:** The President is not the SHRC appointing authority.
+- **B:** Sections 22 and 23 create this asymmetry.
+- **C:** Judicial consultation does not replace the statutory authorities.
+- **D:** The legislature is not given these powers.
 
-A. India was finally downgraded in March 2025
-B. India was permanently cleared in April 2026
-C. the SCA recommended B in 2025, India challenged it, and the public membership page still lists A as of the control date
-D. India has never been reviewed
+**Examiner trap 22:** Resignation to the Governor must not be confused with removal by the President.
+
+### MCQ 23. SHRC chair eligibility
+
+After the 2019 Amendment, an SHRC Chairperson must be a person who has been
+
+A. only a District Judge.
+B. only Chief Justice of India.
+C. Chief Justice or Judge of a High Court.
+D. a civil servant of Chief Secretary rank.
 
 **Answer: C.**
 
-**Explanation:** [CURRENT] This preserves the official recommendation, challenge and current public listing without inventing a final decision.
+**Option-specific explanations:**
 
-### Q24. *N.C. Dhoundial v. Union of India (2003)* rejected the proposition that:
+- **A:** District Judge experience belongs to the judicial-member route.
+- **B:** CJI experience is not the required State-chair formula.
+- **C:** This is the widened current qualification.
+- **D:** Civil-service rank is not the qualification.
 
-A. courts can review NHRC
-B. NHRC is statutory
-C. illegal detention can violate rights
-D. every completed violation remains a continuing wrong until reparation
+**Examiner trap 23:** The 2019 change widened the chair route beyond former High Court Chief Justices.
+
+### MCQ 24. SHRC adapted functions
+
+When section 12 applies to an SHRC through section 29, which function is omitted?
+
+A. Court intervention with approval
+B. Institution visits
+C. Research
+D. Study of treaties and other international instruments under section 12(f)
 
 **Answer: D.**
 
-**Explanation:** [FACT] The Court measured the bar from the alleged act and treated the completed detention accordingly.
+**Option-specific explanations:**
 
-### Q25. The *Paramjit Kaur v. State of Punjab (1999)* exception applies when:
+- **A:** Section 12(b) remains applicable with the State-Commission adaptation.
+- **B:** Section 12(c) remains applicable.
+- **C:** Section 12(g) remains applicable.
+- **D:** Section 29(c) expressly omits clause (f).
 
-A. NHRC acts as an expert body pursuant to Supreme Court Article 32 directions
-B. a State waives limitation
-C. an NGO requests it
-D. any complainant labels a case grave
+**Examiner trap 24:** The omitted clause is treaty study, not complaint inquiry.
+
+### MCQ 25. Human Rights Court
+
+A Human Rights Court under section 30 is
+
+A. a Court of Session that a State may specify for a district with High Court Chief Justice concurrence.
+B. an internal bench of NHRC.
+C. a court automatically created in every district by the Act without notification.
+D. the Supreme Court exercising Article 32.
 
 **Answer: A.**
 
-**Explanation:** [FACT] *N.C. Dhoundial v. Union of India (2003)* authoritatively explains this constitutional-assignment exception.
+**Option-specific explanations:**
 
-### Q26. *EEVFAM (2016)* is safely used for the proposition that:
+- **A:** This follows the enabling notification design.
+- **B:** NHRC does not contain a criminal trial bench.
+- **C:** The word 'may' and notification requirement defeat automatic creation.
+- **D:** Article 32 is a distinct constitutional jurisdiction.
 
-A. AFSPA eliminates judicial review
-B. excessive-force deaths require thorough inquiry and Article 32 oversight remains available
-C. every encounter is unlawful
-D. NHRC recommendations became universally binding
+**Examiner trap 25:** Designation of a Sessions Court does not create a new tier of judiciary.
+
+### MCQ 26. Special Public Prosecutor
+
+An advocate specially appointed under section 31 must have practised for at least
+
+A. five years.
+B. seven years.
+C. ten years.
+D. twelve years.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The Court kept the binding-guideline question open in the cited passage.
+**Option-specific explanations:**
 
-### Q27. A purely private dispute is most likely to enter section 12(a) jurisdiction when:
+- **A:** Five years is below the statutory minimum.
+- **B:** Seven years is the exact threshold.
+- **C:** Ten years is not required.
+- **D:** Twelve years is not required.
 
-A. it is commercially important
-B. both parties consent to arbitration
-C. a public servant is alleged to have violated/abetted rights or negligently failed to prevent the violation
-D. social media discusses it
+**Examiner trap 26:** The State may instead specify a Public Prosecutor.
+
+### MCQ 27. One-year bar
+
+Which case treats section 36(2) as a jurisdictional bar and rejects a generic continuing-wrong theory for completed detention?
+
+A. Kesavananda Bharati v State of Kerala
+B. S.R. Bommai v Union of India
+C. N.C. Dhoundial v Union of India
+D. Indra Sawhney v Union of India
 
 **Answer: C.**
 
-**Explanation:** [FACT] The public-servant nexus separates Commission jurisdiction from a general private-dispute forum.
+**Option-specific explanations:**
 
-### Q28. Which output belongs to a Human Rights Court rather than NHRC?
+- **A:** This case concerns constitutional amendment limits.
+- **B:** This case concerns federalism and Article 356.
+- **C:** The 2003 judgment directly controls the PHRA limitation point.
+- **D:** This case concerns reservations.
 
-A. recommendation of compensation
-B. safeguard review
-C. human-rights literacy
-D. criminal judgment after trial within its lawful jurisdiction
+**Examiner trap 27:** Continuing consequences do not necessarily mean a continuing violative act.
+
+### MCQ 28. Paramjit Kaur exception
+
+Why did section 36(2) not control NHRC's role in Paramjit Kaur?
+
+A. The Act had been repealed.
+B. The complaint concerned only a private contract.
+C. NHRC had enacted a limitation waiver regulation.
+D. NHRC was acting as the Supreme Court's expert body under Article 32 directions, not exercising ordinary statutory jurisdiction.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Inquiry/recommendation and criminal adjudication are institutionally distinct.
+**Option-specific explanations:**
 
-### Q29. The strongest constitutional objection to merging all commissions into NHRC is:
+- **A:** The PHRA remained operative.
+- **B:** That was not the reason.
+- **C:** A regulation cannot simply repeal the statutory bar.
+- **D:** This is the precise exception reiterated in Dhoundial.
 
-A. NCSC, NCST and NCBC have constitutional foundations that a statutory merger cannot erase by ordinary law
-B. NHRC has no human-rights mandate
-C. every statutory body is superior to a constitutional body
-D. no commissions may ever cooperate
+**Examiner trap 28:** A Supreme Court reference does not create a general NHRC power to ignore the Act.
+
+### MCQ 29. Section 36(1)
+
+Section 36(1) prevents NHRC from inquiring into a matter that is
+
+A. pending before an SHRC or another commission duly constituted by law.
+B. mentioned in a newspaper.
+C. older than six months.
+D. critical of the Union Government.
 
 **Answer: A.**
 
-**Explanation:** [ANALYSIS] Coordination is feasible; absorption of constitutional cores requires constitutional change.
+**Option-specific explanations:**
 
-### Q30. An NHRC annual report is laid before:
+- **A:** This is the anti-duplication rule.
+- **B:** Media coverage does not create the bar.
+- **C:** The separate time bar is one year under subsection (2).
+- **D:** Political sensitivity is not a jurisdictional criterion.
 
-A. GANHRI only
-B. Parliament or the concerned State Legislature as applicable, with an action memorandum and reasons for non-acceptance
-C. only the Supreme Court
-D. no public body
+**Examiner trap 29:** Subsection (1) is overlap; subsection (2) is time.
 
-**Answer: B.**
+### MCQ 30. Section 37
 
-**Explanation:** [FACT] Section 20 creates the legislative reporting route.
+Who may constitute a special investigation team under section 37?
 
-### Q31. Which statement reflects current section 12(c)?
-
-A. The Commission can visit only after a State Cabinet resolution in each case.
-B. It may run the institution directly.
-C. The Commission may visit the specified State-controlled jail/institution despite other law, study conditions and recommend changes.
-D. The Commission may take over the institution's administration.
-
-**Answer: C.**
-
-**Explanation:** [FACT] Current section 12(c) authorises the visit and recommendation function; it does not transfer administration to the Commission.
-
-### Q32. How many deemed members are listed in section 3(3)?
-
-A. six
-B. three
-C. five
-D. seven
-
-**Answer: D.**
-
-**Explanation:** [FACT] The seven are NCBC, NCM, NCPCR, NCSC, NCST, NCW and Chief Commissioner for PwD.
-
-### Q33. Section 13 permits NHRC to transfer a complaint to an SHRC when:
-
-A. the complaint arises from that State and the SHRC has jurisdiction
-B. the matter concerns only foreign affairs
-C. the one-year bar has expired
-D. the complainant always demands it
-
-**Answer: A.**
-
-**Explanation:** [FACT] Sections 13(6)-(7) govern transfer and subsequent treatment as an initially filed SHRC complaint.
-
-### Q34. Human-rights functions relating to the Union Territory of Delhi are dealt with by:
-
-A. a mandatory Delhi SHRC under section 21
-B. NHRC
-C. the Finance Commission
-D. NITI Aayog
+A. Only the Chief Justice of India
+B. The Government, when it considers such a team necessary
+C. NHRC acting as a criminal court
+D. GANHRI
 
 **Answer: B.**
 
-**Explanation:** [FACT] Section 21(8) assigns Delhi's functions to NHRC.
+**Option-specific explanations:**
 
-### Q35. After leaving NHRC office, a Chairperson or member is:
+- **A:** The section does not reserve the power to the CJI.
+- **B:** The statutory actor is the Government.
+- **C:** NHRC is not a criminal court and section 37 is a separate route.
+- **D:** GANHRI is an international accreditation alliance, not an Indian investigative authority.
 
-A. required to join an SHRC
-B. eligible for any government job without restriction
-C. ineligible for further employment under Union or State government
-D. automatically appointed Governor
+**Examiner trap 30:** Do not merge section 37 SITs with section 14 agency utilisation.
 
-**Answer: C.**
+### MCQ 31. Specialised commissions
 
-**Explanation:** [FACT] Section 6(3) supplies this post-tenure safeguard.
+Which statement is correct about merging NCSC, NCST and NCBC into a statutory NHRC?
 
-### Q36. Which is the most balanced assessment?
-
-A. NHRC is useless because recommendations are advisory.
-B. NHRC is a court because it summons witnesses.
-C. A-status proves there are no independence concerns.
-D. NHRC combines strong fact-finding and publicity tools with weak compulsory remedy and operational-independence constraints.
-
-**Answer: D.**
-
-**Explanation:** [ANALYSIS] This captures both capacity and statutory/practical ceilings.
-
-#### Remedial MCQs - 12 questions
-
-### R1. A student writes, “NHRC is a constitutional body because it protects Fundamental Rights.” The best correction is:
-
-A. Function does not determine source; NHRC is statutory under the PHRA, 1993.
-B. NHRC is a High Court division.
-C. Every rights body is constitutional.
-D. NHRC is a private association.
-
-**Answer: A.**
-
-**Explanation:** [FACT] Classify an institution by its creating source, not by the importance of its work.
-
-### R2. Which statement about deemed NHRC members is correct?
-
-A. They may remove the Chairperson.
-B. They are deemed members for section 12(b)-(j), not the section 12(a) inquiry function.
-C. They are appointed by the Chief Justice of India.
-D. They replace the ordinary members.
-
-**Answer: B.**
-
-**Explanation:** [FACT] This narrow participation rule is a frequent Prelims trap.
-
-### R3. A vacancy on the NHRC selection committee:
-
-A. always makes every appointment void
-B. converts appointment into a judicial nomination
-C. does not by itself invalidate the appointment under section 4(2)
-D. transfers appointment power to the Governor
+A. It can be done by an NHRC administrative order.
+B. Section 3(3) has already dissolved them.
+C. Their constitutional status under Articles 338, 338A and 338B means ordinary PHRA amendment cannot simply absorb their constitutional mandates.
+D. The Governor can merge them through a State notification.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The vacancy-saving clause does not bar judicial review for other legal defects.
+**Option-specific explanations:**
 
-### R4. Which sentence must be deleted from an SHRC answer?
+- **A:** NHRC has no such constituent power.
+- **B:** Deemed membership is coordination, not dissolution.
+- **C:** This states the constitutional barrier accurately.
+- **D:** A State notification cannot alter national constitutional commissions.
 
-A. The Governor receives resignation.
-B. The Governor appoints.
-C. The President removes.
-D. The Governor removes for proved misbehaviour after a High Court inquiry.
+**Examiner trap 31:** An umbrella argument must separate constitutional and statutory bodies.
 
-**Answer: D.**
+### MCQ 32. EEVFAM
 
-**Explanation:** [FACT] Removal is by the President; proved misbehaviour/incapacity uses a Supreme Court inquiry.
+The most defensible use of EEVFAM (2016) in this topic is that it
 
-### R5. The post-2019 tenure rule is:
-
-A. three years, reappointment eligible, subject to the age-seventy ceiling
-B. five years with no reappointment
-C. pleasure tenure
-D. life tenure
-
-**Answer: A.**
-
-**Explanation:** [FACT] The amendment reduced the ordinary term and altered the reappointment wording.
-
-### R6. Which is an NHRC-SHRC difference created by section 29?
-
-A. SHRC has no civil-court powers.
-B. SHRC does not receive section 12(f)'s treaty/instrument-study function.
-C. SHRC cannot conduct research.
-D. SHRC cannot visit institutions.
-
-**Answer: B.**
-
-**Explanation:** [FACT] Sections 12, 13, 14 and 18 otherwise apply with listed modifications.
-
-### R7. “Government must accept an NHRC recommendation within one month” is wrong because:
-
-A. recommendations expire in one month
-B. no response is required
-C. section 18 requires comments/action taken or proposed, not automatic acceptance
-D. only Parliament can read the report
-
-**Answer: C.**
-
-**Explanation:** [FACT] The one-month period concerns response. Binding compliance is not the present rule.
-
-### R8. Which pairing is correct?
-
-A. both—one year
-B. ordinary response—three months; armed forces—one month
-C. both—seven days
-D. ordinary response—one month; armed-forces response—three months
+A. made every NHRC recommendation binding.
+B. abolished section 19.
+C. authorised NHRC to convict armed-forces personnel.
+D. required credible investigation of alleged extra-judicial executions and rejected blanket justification for excessive force, while preserving distinct institutional roles.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Further time may be allowed under each relevant provision.
+**Option-specific explanations:**
 
-### R9. A complaint about a completed act from several years earlier is ordinarily barred by:
+- **A:** The judgment did not convert recommendations into decrees.
+- **B:** Section 19 remained in force.
+- **C:** Criminal adjudication did not move to NHRC.
+- **D:** This is a bounded rights-accountability proposition.
 
-A. section 36(2)
-B. Article 280
-C. section 3(3)
-D. section 31
-
-**Answer: A.**
-
-**Explanation:** [FACT] *N.C. Dhoundial v. Union of India (2003)* confirms the jurisdictional character of the one-year bar.
-
-### R10. Which body can return a criminal judgment after trial?
-
-A. NHRC acting under section 18
-B. a competent Human Rights Court
-C. NCW as deemed member
-D. GANHRI SCA
-
-**Answer: B.**
-
-**Explanation:** [FACT] The Commission recommends; the court adjudicates.
-
-### R11. The current accreditation statement should mention:
-
-A. that accreditation is domestic law
-B. only the word A, without context
-C. A public listing together with the challenged 2025 SCA downgrade recommendation and absence of a published final downgrade located by the control date
-D. a final B downgrade in 2025
-
-**Answer: C.**
-
-**Explanation:** [CURRENT] Precise status language prevents both complacency and exaggeration.
-
-### R12. Which reform best answers both independence and due-process concerns?
-
-A. keep all appointments secret
-B. abolish hearings
-C. allow every recommendation to be unappealable
-D. create independent investigation capacity and require reasoned follow-up with judicial escalation
-
-**Answer: D.**
-
-**Explanation:** [ANALYSIS] The design improves evidence independence and remedy accountability without pretending NHRC is a criminal court.
-
-### Visual 71 - MCQ coverage matrix
-
-| Domain | Original MCQs | Remedials | Rotation |
-|---|---:|---:|---|
-| source and definition | Q1-Q4 | R1-R2 | continuous A-B-C-D |
-| composition/appointment/removal | Q5-Q12 | R3-R6 | continuous |
-| powers/procedure/remedies | Q13-Q20 | R7-R10 | continuous |
-| Paris/cases/comparison/current | Q21-Q36 | R11-R12 | continuous |
-| total | 36 | 12 | 48 markers; A-B-C-D repeated 12 times |
+**Examiner trap 32:** Use EEVFAM for investigation and accountability, not fictional NHRC powers.
 
 
 ## PYQS AND ANSWER PRACTICE
 
-#### PYQ, Practice and Solved Workbook
+### Verified-PYQ control
 
-### Verified PYQ routing audit
+- The two direct owner-routed questions below are reproduced from audited local official-paper records.
+- UPSC publishes questions, not official Mains model answers; every solution below is an examiner-oriented model, never an official key.
+- No direct objective NHRC/SHRC PYQ with a locally controlled official key is claimed. The related 2023 constitutional-body classification item is not reconstructed as a direct topic PYQ.
 
-[FACT] The controlling local routing ledger directly assigns two Mains questions to this NHRC-SHRC owner:
+### Verified Mains PYQ 1 - UPSC GS-II 2018, Q16 - 15 marks, 250 words
 
-1. **2018 GS-II Q16**—multiplicity of commissions for vulnerable sections and the umbrella Human Rights Commission proposal; 15 marks, 250 words.
-2. **2021 GS-II Q12**—structural and practical limitations of Human Rights Commissions and remedies; 15 marks, 250 words.
+**Question:** Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case.
 
-[FACT] A comprehensive search of the 2018-2023, 2024-2025 and 2026 routing/audit ledgers found no additional direct NHRC-SHRC owner route.
+**Directive decode:** Take a position; distinguish constitutional and statutory bodies; weigh coordination gains against loss of specialised mandates; propose a legally feasible architecture.
 
-[FACT] The 2023 Prelims Q35 classification question mentions NHRC, but its audited route is to the National-Commissions and Statutory/Regulatory/Quasi-Judicial owners, not directly to this topic. It is reproduced as a cross-link without inventing or labelling an unavailable official key.
+**Model answer:**
 
-### Visual 67 - PYQ provenance board
+Multiplicity can produce forum confusion, repeated fact-finding and weak follow-up, but merging every vulnerable-section commission into a statutory Human Rights Commission would be constitutionally difficult and institutionally unwise.
 
-| Year/paper | Question | Route status | Key control |
-|---|---|---|---|
-| 2018 GS-II Q16 | multiplicity and umbrella commission | direct, cross-cutting owner route | Mains; no objective key |
-| 2021 GS-II Q12 | HRC limitations and remedies | direct owner route | Mains; no objective key |
-| 2023 Prelims Q35 | constitutional-body classification including NHRC | related cross-link, not direct route | local ledger says key unavailable; no official letter claimed |
-| 2024-2026 | no additional direct NHRC-SHRC route found | audited | no question invented |
+**Case for coordination:** NHRC, NCW, NCM, NCPCR and disability institutions often encounter intersecting dignity and discrimination claims. PHRA section 3(3) already creates limited integration by making seven specialised office-holders deemed NHRC members for section 12(b)-(j). Common intake standards, lawful information exchange and reasoned referral can reduce duplication.
 
-#### Verified routed PYQ 1 - UPSC GS-II 2018, Q16 - 15 marks, 250 words
+**Case against merger:** NCSC, NCST and NCBC are constitutional commissions under Articles 338, 338A and 338B. Their constitutional reporting, consultation and group-specific safeguards cannot be absorbed into a statutory NHRC through ordinary administrative action or a simple PHRA amendment. Specialised statutory bodies also hold expertise in gender, child, minority and disability law that a mega-body may dilute.
 
-**Verified question:** “Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case.”
+**Middle path:** retain mandates; use section 36(1), section 21(5) and section 13 transfer powers as an anti-overlap spine; create interoperable case tracking, joint thematic studies and written referral reasons.
 
-**Directive decode:** “Argue your case” requires a clear stand, not a neutral list. The answer must distinguish constitutional from statutory commissions before evaluating merger.
+Thus, India needs coordinated specialisation under stronger rights standards, not institutional erasure.
 
-### Evidence-led model solution
+### Verified Mains PYQ 2 - UPSC GS-II 2021, Q12 - 15 marks, 250 words
 
-Multiplicity does produce overlap, but merging every vulnerable-section commission into a statutory Human Rights Commission would be constitutionally difficult and functionally unwise. The better course is coordinated specialisation under a strengthened referral architecture.
+**Question:** Though the Human Rights Commissions have contributed immensely to the protection of human rights in India, yet they have failed to assert themselves against the mighty and powerful. Analyzing their structural and practical limitations, suggest remedial measures.
 
-**Case for consolidation:** NHRC, NCW, NCM, NCPCR and disability institutions often confront intersecting dignity, discrimination and custodial-governance issues. Section 3(3) of the Protection of Human Rights Act already recognises this overlap by making seven specialised officeholders deemed NHRC members for section 12(b)-(j). Shared intake, HRCNet-style case information and section 36 anti-duplication rules can reduce forum-shopping and inconsistent follow-up. The qualification is that deemed members do not participate in section 12(a) complaint inquiry merely by that status.
+**Directive decode:** Acknowledge contribution; separate statutory constraints from operational weaknesses; pair each diagnosis with a proportionate remedy.
 
-**Case against a mega-merger:** NCSC, NCST and NCBC are constitutional bodies under Articles 338, 338A and 338B. Their constitutional reporting, consultation and group-specific safeguards cannot be absorbed into a statutory NHRC by ordinary amendment. Even among statutory bodies, child rights, gender discrimination, minority safeguards and disability rights demand specialised law, expertise and accessible forums. A very large umbrella may centralise appointments and dilute marginal voices.
+**Model answer:**
 
-**Middle path:** retain specialised commissions; create a common referral protocol, interoperable case-management, joint thematic inquiries and reasoned transfer rules. Strengthen NHRC's independent investigation and follow-up while preserving each body's mandate.
+Human Rights Commissions create accessible records of abuse, but their statutory design and operational dependence limit remedies against powerful State actors.
 
-Thus, the problem is not specialisation but uncoordinated specialisation. India needs an apex coordination network, not institutional erasure.
+**Contribution:** Section 12 enables suo motu inquiry, court intervention with approval, institutional visits and safeguard review; section 13 supplies strong evidence powers. Public reports, interim-relief recommendations and court approaches can expose violations and trigger action.
 
-**Why this earns marks:** It takes a position, uses Articles 338-338B and PHRA sections 3(3)/36, addresses both sides, explains mechanism and gives a constitutionally feasible middle path.
+**Structural limits:** Section 18 recommendations are not self-executing; government must respond but need not automatically accept them. Section 36(2)'s one-year bar was held jurisdictional in *N.C. Dhoundial*. Section 19 replaces ordinary inquiry into armed-forces complaints with a Central-report route. SHRCs face List II/List III and duplication limits.
 
-**How to improve this answer:** Compress the constitutional-versus-statutory objection into one sentence, then spend more words on the workable referral and coordination mechanism.
+**Practical limits:** government-linked police investigators may face conflicts; vacancies, uneven State capacity, delayed reports, weak victim support and poor prosecution referral reduce impact.
 
-### Visual 68 - 2018 argument tree
+**Remedies:** establish an independent multidisciplinary investigation cadre; publish selection criteria and vacancy calendars; require time-bound recommendation-wise acceptance or reasoned rejection with judicial escalation; legislate calibrated relief from the one-year bar for grave or concealed violations; permit safeguarded independent fact-finding under section 19; strengthen Human Rights Court and prosecutor referral.
 
-```text
-OVERLAP PROBLEM
-   |
-   +-- merge all? -> simpler intake, common standards
-   |                 BUT constitutional bodies cannot be casually absorbed
-   |                 AND specialist expertise may be diluted
-   |
-   +-- retain all unchanged? -> preserves expertise
-   |                            BUT duplication continues
-   |
-   +-- BEST POSITION:
-       specialised autonomy + common referral/data/joint-action framework
-```
+The goal is not to make NHRC a parallel criminal court, but to make its evidence produce accountable follow-through.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Verified routed PYQ 1 - UPSC GS-II 2018, Q16 - 15 marks, 250 words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+### ORIGINAL MAINS PRACTICE - EXACTLY SIX MODELS
 
-**Detailed examiner-grade model answer:**
+### Original Mains 1 - 10 marks, 150 words
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Verified routed PYQ 1 - UPSC GS-II 2018, Q16 - 15 marks, 250 words”.
+**Question:** Distinguish civil-court inquiry powers from binding adjudicatory power in the PHRA.
 
-**Analytical body:**
+**Model answer:**
 
-1. **Claim and named evidence:** Verified routed PYQ 1 - UPSC GS-II 2018, Q16 - 15 marks, 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive decode: “Argue your case” requires a clear stand, not a neutral list. The answer must distinguish constitutional from statutory commissions before evaluating merger. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Thus, the problem is not specialisation but uncoordinated specialisation. India needs an apex coordination network, not institutional erasure. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It takes a position, uses Articles 338-338B and PHRA sections 3(3)/36, addresses both sides, explains mechanism and gives a constitutionally feasible middle path. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Compress the constitutional-versus-statutory objection into one sentence, then spend more words on the workable referral and coordination mechanism. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+NHRC possesses strong evidence-gathering powers but not general adjudicatory authority. Section 13 permits summons, examination on oath, document production, affidavit evidence, public-record requisition and commissions. It also creates limited deemed-court and judicial-proceeding consequences for specified offences and procedural provisions.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+These powers improve the reliability of findings. For example, compelled documents and sworn testimony can establish whether a public servant violated rights or negligently failed to prevent a violation. Yet section 18 uses different verbs: NHRC may recommend compensation, prosecution, further action or interim relief, and may approach the Supreme Court or High Court.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “Verified routed PYQ 1 - UPSC GS-II 2018, Q16 - 15 marks, 250 words”.
+Therefore, a strong evidentiary record does not become an executable decree or criminal conviction. Binding consequences arise when government accepts and implements recommendations, prosecutors invoke substantive law, or courts issue orders. The accurate description is a powerful statutory inquiry body with recommendatory remedies, not a civil or criminal court.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+### Original Mains 2 - 10 marks, 150 words
 
-#### Verified routed PYQ 2 - UPSC GS-II 2021, Q12 - 15 marks, 250 words
+**Question:** Explain the federal logic of SHRC jurisdiction and removal.
 
-**Verified question:** “Though the Human Rights Commissions have contributed immensely to the protection of human rights in India, yet they have failed to assert themselves against the mighty and powerful. Analyzing their structural and practical limitations, suggest remedial measures.”
+**Model answer:**
 
-**Directive decode:** The answer must first acknowledge contribution, then separate structural limits from practical limits, and match each limit with a remedy.
+SHRC design combines decentralised access with centrally protected tenure. Under section 21(5), an SHRC may inquire only into matters relatable to State List and Concurrent List entries. It must abstain where NHRC or another duly constituted commission is already inquiring into that matter. This aligns State-level rights scrutiny with the Seventh Schedule and limits duplicate proceedings.
 
-### Evidence-led model solution
+Appointment is local: the Governor appoints after recommendation by a committee led by the Chief Minister and including legislative and opposition offices. Removal is different. Under section 23, the President removes; proved misbehaviour or incapacity requires a Supreme Court inquiry.
 
-Human Rights Commissions are valuable fact-finding and publicity institutions, but their statutory design and operational dependence weaken remedies against powerful State actors.
+The asymmetry can reduce immediate State-executive pressure on a commission investigating State authorities. However, State provision of staff, investigators and finance still creates operational dependence. Thus, SHRC federalism is neither complete State autonomy nor Union control: it is State access, subject-matter limits, central removal safeguards and shared statutory procedure.
 
-**Contribution:** Section 12 enables suo motu inquiry, court intervention with approval, institution visits and safeguard review; section 13 supplies civil-court evidence powers. In *EEVFAM (2016)*, the Supreme Court treated NHRC inquiry as a meaningful accountability route while retaining Article 32 oversight. These tools expose violations and create public records, though they do not themselves complete prosecution.
+### Original Mains 3 - 15 marks, 250 words
 
-**Structural limits:** Section 18 frames compensation and prosecution as recommendations; governments must respond, not automatically comply. Section 36(2)'s one-year bar was treated as jurisdictional in *N.C. Dhoundial v. Union of India (2003)*. Section 19 substitutes a Central-government report for ordinary inquiry into armed-forces complaints. SHRCs are limited to State/Concurrent subjects, and section 36 reduces parallel inquiry.
+**Question:** Examine whether section 36(2)'s one-year bar should be retained.
 
-**Practical limits:** government-provided police investigators can face conflicts when police conduct is examined; short or incomplete membership, uneven SHRC resources, delayed official reports and limited civil-society access weaken capacity. GANHRI's March 2025 SCA report mapped similar concerns to independence, pluralism and open appointments. The recommendation remained challenged and the public listing remains A, so scrutiny must not be misstated as a completed downgrade.
+**Model answer:**
 
-**Remedies:** create an independent multidisciplinary investigation cadre; require compliance or detailed, time-bound rejection with court escalation; relax the one-year bar for grave/concealed violations; reform section 19 with safeguarded independent fact-finding; publish open selection criteria; ensure pluralism, resources and functioning Human Rights Courts.
+Section 36(2) bars NHRC and SHRC inquiry after one year from the alleged violative act. It protects timely evidence and prevents an open-ended statutory docket, but its inflexibility can exclude precisely those victims least able to complain quickly.
 
-The goal is not to turn NHRC into a criminal court, but to convert moral authority into accountable follow-through.
+**Case for retention:** memories fade, records disappear and officials change; a clear threshold promotes administrability. In *N.C. Dhoundial v Union of India* (2003), the Supreme Court treated the bar as jurisdictional and rejected the proposition that continuing effects automatically convert a completed detention into a continuing wrong.
 
-**Why this earns marks:** It follows the directive, balances contribution and failure, uses sections 12, 13, 18, 19 and 36, adds two cases and current GANHRI evidence, and pairs every diagnosis with a feasible remedy.
+**Case for reform:** victims of custody, trafficking, displacement, institutionalisation or intimidation may discover facts late or fear retaliation. Grave violations may involve concealment by the very authority controlling evidence. A rigid year can privilege official delay.
 
-**How to improve this answer:** Pair each statutory limitation with exactly one implementable remedy and reserve the final two sentences for a graded verdict on independence and enforceability.
+**Calibrated solution:** Parliament should retain a default period but permit reasoned condonation for grave violations, concealment, continuing acts or demonstrated incapacity, with notice and recorded reasons. The amendment should define factors, cap discretionary abuse and preserve other commissions' and courts' jurisdiction. Better digital preservation and referral should accompany reform.
 
-### Visual 69 - 2021 diagnosis-remedy chain
+Until amendment, the Commission cannot invent a general exception. A fair answer therefore respects *Dhoundial* as current law while arguing for a narrowly structured legislative safety valve.
 
-| Limitation | Named evidence | Remedy |
-|---|---|---|
-| recommendations not self-executing | section 18 | comply-or-reasoned-reject + escalation |
-| old complaints barred | section 36(2), *N.C. Dhoundial v. Union of India (2003)* | statutory exceptions for grave/concealed cases |
-| armed-forces inquiry restricted | section 19 | independent fact-finding with security safeguards |
-| police/deputation dependence | section 11, GANHRI SCA | independent investigation cadre |
-| pluralism/selection gaps | Paris Principles, SCA 2025 | open, participatory and diverse appointments |
-| weak district trial route | sections 30-31 | notifications, prosecutors and routing protocols |
+### Original Mains 4 - 15 marks, 250 words
 
-**Demand decoding:** The directive **answer** requires a direct position on “Verified routed PYQ 2 - UPSC GS-II 2021, Q12 - 15 marks, 250 words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**Question:** Discuss how Human Rights Courts can strengthen, but cannot replace, Human Rights Commissions.
 
-**Detailed examiner-grade model answer:**
+**Model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Verified routed PYQ 2 - UPSC GS-II 2021, Q12 - 15 marks, 250 words”.
+The PHRA separates inquiry from adjudication. NHRC and SHRC receive complaints, gather evidence, inspect institutions, review safeguards and recommend relief or prosecution. Sections 30 and 31 permit a State, with the High Court Chief Justice's concurrence, to specify a Court of Session as a Human Rights Court and to designate a Public Prosecutor or an advocate with at least seven years' practice.
 
-**Analytical body:**
+Human Rights Courts can strengthen the system by giving serious cases a visible trial route, trained prosecution and potentially quicker scheduling. Commission findings may identify evidence, institutional patterns and victims needing protection. Section 37 special investigation teams can support investigation and prosecution where government considers them necessary.
 
-1. **Claim and named evidence:** Verified routed PYQ 2 - UPSC GS-II 2021, Q12 - 15 marks, 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive decode: The answer must first acknowledge contribution, then separate structural limits from practical limits, and match each limit with a remedy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Human Rights Commissions are valuable fact-finding and publicity institutions, but their statutory design and operational dependence weaken remedies against powerful State actors. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The goal is not to turn NHRC into a criminal court, but to convert moral authority into accountable follow-through. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It follows the directive, balances contribution and failure, uses sections 12, 13, 18, 19 and 36, adds two cases and current GANHRI evidence, and pairs every diagnosis with a feasible remedy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+However, a designated Sessions Court does not create a new substantive offence, replace lawful police investigation or make a Commission recommendation conclusive proof. Nor can courts perform NHRC's promotional work, jail visits, treaty study, literacy, thematic review or public reporting. Uneven notifications, unclear referrals and ordinary docket pressure may also make designation symbolic.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+Reform should map offences under existing penal and special laws, create Commission-police-prosecutor referral protocols, train prosecutors, support witnesses and publish case-flow data. The institutions are complementary: Commissions investigate and recommend; investigators build criminal cases; prosecutors present them; courts decide guilt and binding relief.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “Verified routed PYQ 2 - UPSC GS-II 2021, Q12 - 15 marks, 250 words”.
+### Original Mains 5 - 20 marks, 250 words
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Question:** Evaluate NHRC independence against the Paris Principles and propose reforms.
 
-#### Cross-linked verified Prelims PYQ - UPSC 2023, Q35
+**Model answer:**
 
-**Verified question:** Consider the following organisations/bodies in India: (1) National Commission for Backward Classes, (2) National Human Rights Commission, (3) National Law Commission, and (4) National Consumer Disputes Redressal Commission. How many of the above are constitutional bodies? Options: only one; only two; only three; all four.
+NHRC has statutory independence safeguards, yet its institutional design does not fully eliminate executive dependence. The Paris Principles, endorsed by UN General Assembly Resolution 48/134 in 1993, emphasise a broad legal mandate, pluralism, stable tenure, adequate resources, independent methods and cooperation with civil society.
 
-**Key-status control:** The audited local ledger states that the official key is unavailable locally. No option letter is presented as an official or inferred UPSC key.
+**Safeguards:** the PHRA defines a broad protection-and-promotion mandate; appointment is by presidential warrant after a six-member committee recommendation; proved misbehaviour or incapacity requires a Supreme Court inquiry; section 13 gives substantial evidence powers; reports reach legislatures.
 
-**Doctrinal learning:** Article 338B creates NCBC; the PHRA creates NHRC; the Law Commission is executive; and the consumer commission is statutory. The question tests source classification, not whether a body performs important public functions.
+**Gaps:** political-executive actors dominate the selection committee; statutory pluralism is limited mainly to three experts and one-woman minimum; three-year renewable tenure may affect incentives; sections 11 and 14 rely on government-provided police and agencies; funding and vacancies affect capacity; section 18 follow-up remains recommendatory.
 
-### Visual 70 - Prelims source test
+GANHRI's March 2025 accreditation report recommended alteration to B status and identified independence and pluralism concerns. India challenged that recommendation. As of 8 September 2026, GANHRI's public material continued to list India at A while an alteration review was scheduled for November 2026; no final downgrade should be asserted.
 
-```text
-ASK FIRST: "Where is the body created?"
-Constitution article -> constitutional
-Act of legislature  -> statutory
-executive order     -> executive
-court judgment alone does not change the creating source
-```
+Reform should use open nominations, published criteria, diverse expertise, fixed appointment calendars, an independent multidisciplinary investigation cadre, protected resources, recommendation-wise reasoned responses and parliamentary follow-up. Independence means credible distance plus accountability, not absence of review.
 
-#### Original Solved Mains Practice - 8 questions
+### Original Mains 6 - 20 marks, 250 words
 
-#### Original Mains 1 - 10 marks, 150 words
+**Question:** Design a coordinated human-rights accountability architecture without creating a super-commission.
 
-**Question:** Explain the statutory meaning of “human rights” under the Protection of Human Rights Act, 1993. Why is the enforceability condition important?
+**Model answer:**
 
-**Directive decode:** “Explain” needs the exact definition, its components and the consequence of the enforceability filter.
+India's rights architecture should coordinate specialised institutions while preserving their legal mandates. NHRC and SHRC are statutory inquiry and promotion bodies. NCSC, NCST and NCBC are constitutional commissions; NCM, NCW, NCPCR and disability institutions have specialised statutory fields. Courts issue binding orders, police investigate offences, prosecutors conduct cases and legislatures scrutinise reports.
 
-### Model solution
+**Intake:** a common portal should record the alleged right, public authority, territory, date, vulnerability and parallel proceeding. It should preserve limitation dates rather than make victims restart.
 
-Section 2(d) of the Protection of Human Rights Act defines human rights as rights relating to **life, liberty, equality and dignity** that are guaranteed by the Constitution or embodied in the “International Covenants” and enforceable by courts in India.
+**Referral:** NHRC should use section 13(6) transfers only where the SHRC is competent. Section 36(1) and section 21(5) should prevent duplicate inquiry, with written reasons identifying the lead body.
 
-The first limb connects the Commission's mandate to India's constitutional rights order, especially equality and the judicially developed dignity content of Article 21. The second limb is not an open door to every international instrument. Section 2(f) expressly names the ICCPR and ICESCR and includes another UN General Assembly covenant or convention only when the Central Government specifies it by notification.
+**Joint learning:** commissions may share anonymised trend data, conduct lawful thematic studies and issue coordinated recommendations while each retains complaint authority. Deemed membership under section 3(3) supports section 12(b)-(j) cooperation but does not merge section 12(a) inquiries.
 
-The enforceability condition is important for three reasons. First, it anchors Commission inquiry in the domestic legal system. Second, it prevents soft-law declarations or unincorporated instruments from automatically becoming enforceable merely through Commission practice. Third, it aligns the Commission's recommendations with remedies that Indian courts can legally recognise.
+**Enforcement chain:** Commission findings should move through a tracked matrix to departments, independent investigators, prosecutors, Human Rights Courts and constitutional courts as appropriate. Governments should accept or reject each recommendation with reasons.
 
-However, the condition should not be read as making NHRC a court. It may study broader treaties under section 12(f), promote standards and recommend reform, while coercive enforcement remains with competent authorities and courts.
+**Safeguards:** data protection, victim consent, witness support, appeal or review routes and legislative oversight are essential.
 
-**Why this earns marks:** It quotes the four statutory values, names sections 2(d)/2(f), distinguishes treaties from enforceable law and ends with the Commission-court boundary.
-
-**How to improve this answer:** In 150 words, quote only the four statutory values and the enforceability gate; omit the longer covenant catalogue unless the question expressly asks for it.
-
-### Visual 72 - 10-marker spine: definition
-
-```text
-exact words -> International Covenants gate -> enforceability purpose
-           -> wider promotional function -> NHRC is not a court
-```
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the statutory meaning of “human rights” under the Protection of Human Rights Act,…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Explain the statutory meaning of “human rights” under the Protection of Human Rights Act, 1993. Why is the enforceability condition important?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Directive decode: “Explain” needs the exact definition, its components and the consequence of the enforceability filter. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It quotes the four statutory values, names sections 2(d)/2(f), distinguishes treaties from enforceable law and ends with the Commission-court boundary. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: In 150 words, quote only the four statutory values and the enforceability gate; omit the longer covenant catalogue unless the question expressly asks for it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** exact words -> International Covenants gate -> enforceability purpose **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** wider promotional function -> NHRC is not a court **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Explain the statutory meaning of “human rights” under the Protection of Human Rights Act, 1993. Why is the enforceability condition important?”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### Original Mains 2 - 10 marks, 150 words
-
-**Question:** Distinguish the NHRC from an SHRC with reference to composition, appointment, removal and jurisdiction.
-
-**Directive decode:** Use common comparison criteria; avoid two disconnected descriptions.
-
-### Model solution
-
-Both NHRC and SHRC are statutory commissions under the Protection of Human Rights Act, 1993, but their design reflects national and State roles.
-
-**Composition:** NHRC has a former CJI/SC-judge Chairperson, two judicial members and three human-rights experts, at least one a woman, plus seven deemed members for section 12(b)-(j). SHRC has a former High Court Chief Justice/judge Chairperson, one judicial member through the High Court/District Judge route and one expert, without that deemed-member layer.
-
-**Appointment:** The President appoints NHRC members on a committee led by the Prime Minister. The Governor appoints SHRC members on a committee led by the Chief Minister, with Legislative Council participation in bicameral States.
-
-**Removal:** Both are removed by the President. Proved misbehaviour/incapacity requires Supreme Court inquiry. The SHRC trap is therefore: Governor appoints and receives resignation, but President removes.
-
-**Jurisdiction:** NHRC has the national mandate, subject to statutory bars. SHRC is confined by section 21(5) to State and Concurrent List matters and cannot duplicate an inquiry already before NHRC/another commission. Section 29 also omits treaty study under section 12(f) for SHRCs.
-
-Thus, powers are broadly parallel, but composition and federal reach differ.
-
-**Why this earns marks:** It compares on four demanded heads, cites sections 21(5)/29 and includes the high-yield appointment-removal asymmetry.
-
-**How to improve this answer:** Use a five-row NHRC-SHRC comparison grid—source, composition, appointment/removal, jurisdiction and reporting—and end with the President-removal trap.
-
-### Visual 73 - 10-marker comparison grid
-
-| Head | NHRC | SHRC |
-|---|---|---|
-| appoint | President | Governor |
-| remove | President | President |
-| jurisdiction | national statutory mandate | State/Concurrent field |
-| treaty study | yes | omitted under section 29 |
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish the NHRC from an SHRC with reference to composition, appointment, removal and…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Distinguish the NHRC from an SHRC with reference to composition, appointment, removal and jurisdiction.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Directive decode: Use common comparison criteria; avoid two disconnected descriptions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Both NHRC and SHRC are statutory commissions under the Protection of Human Rights Act, 1993, but their design reflects national and State roles. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Removal: Both are removed by the President. Proved misbehaviour/incapacity requires Supreme Court inquiry. The SHRC trap is therefore: Governor appoints and receives resignation, but President removes. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Thus, powers are broadly parallel, but composition and federal reach differ. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It compares on four demanded heads, cites sections 21(5)/29 and includes the high-yield appointment-removal asymmetry. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Distinguish the NHRC from an SHRC with reference to composition, appointment, removal and jurisdiction.”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### Original Mains 3 - 10 marks, 150 words
-
-**Question:** “Civil-court powers do not make the NHRC a civil court.” Explain.
-
-**Directive decode:** Identify the powers, the limited deeming provisions and the remedy ceiling.
-
-### Model solution
-
-Section 13 gives NHRC important civil-court powers while inquiring into complaints: summoning witnesses, examination on oath, requiring documents, receiving affidavits, requisitioning public records and issuing commissions. Proceedings also receive specified judicial-proceeding status, and limited civil-court deeming enables action concerning offences committed in the Commission's presence.
-
-These powers make evidence gathering credible. For example, an executive authority cannot defeat inquiry merely by refusing documents or witness attendance. Section 16's hearing safeguard also requires fairness where conduct or reputation may be prejudiced.
-
-Yet legal character follows the whole statute, not one procedural clause. Under section 18, NHRC **recommends** compensation, prosecution or interim relief and may approach the Supreme Court/High Court. It does not execute a money decree, convict an accused or replace criminal trial. A Human Rights Court under sections 30-31, by contrast, is a notified Sessions Court capable of adjudication within criminal law.
-
-Therefore, NHRC is a statutory inquiry-and-recommendation body with selected court-like powers, not a court with plenary adjudicative jurisdiction.
-
-**Why this earns marks:** It names the section 13 toolkit, explains its purpose, contrasts section 18 and Human Rights Courts, and reaches a legally precise conclusion.
-
-**How to improve this answer:** Name only three section 13 powers, contrast them immediately with section 18 outputs, and avoid implying that civil-court powers create adjudicatory jurisdiction.
-
-### Visual 74 - Power-character test
-
-```text
-court-like evidence powers != court status
-read section 13 together with section 18 outputs
-```
-
-**Demand decoding:** The directive **explain** requires a direct position on ““Civil-court powers do not make the NHRC a civil court.” Explain.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in ““Civil-court powers do not make the NHRC a civil court.” Explain.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Directive decode: Identify the powers, the limited deeming provisions and the remedy ceiling. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Therefore, NHRC is a statutory inquiry-and-recommendation body with selected court-like powers, not a court with plenary adjudicative jurisdiction. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Why this earns marks: It names the section 13 toolkit, explains its purpose, contrasts section 18 and Human Rights Courts, and reaches a legally precise conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** How to improve this answer: Name only three section 13 powers, contrast them immediately with section 18 outputs, and avoid implying that civil-court powers create adjudicatory jurisdiction. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** read section 13 together with section 18 outputs **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in ““Civil-court powers do not make the NHRC a civil court.” Explain.”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### Original Mains 4 - 15 marks, 250 words
-
-**Question:** Examine the NHRC's institutional design against the Paris Principles. Refer to the current GANHRI accreditation scrutiny.
-
-**Directive decode:** “Examine” requires supporting features, gaps, current evidence and a qualified verdict.
-
-### Model solution
-
-The Paris Principles assess whether a national institution has a broad legal mandate, pluralist composition, independence, adequate resources, accessible methods and freedom to investigate and publicise. The NHRC's design partly satisfies each head but contains visible tensions.
-
-**Supporting design:** The PHRA provides a parliamentary mandate covering complaints, jail visits, safeguard review, research, literacy and NGO encouragement. Sections 13-14 create evidence and investigation machinery; fixed terms and President/Supreme Court removal procedure protect tenure; sections 18 and 20 require publication and legislative reporting. These features give NHRC visibility and institutional continuity.
-
-**Independence and pluralism gaps:** Section 11 requires government to make senior civil-service and police/investigative staff available. Where allegations concern police, secondment can create a real or perceived conflict despite Commission control under section 14. The expert-member category and one-woman minimum permit breadth but do not guarantee representation of India's social forces. The selection committee is high-level and bipartisan in formal composition, yet the Act does not require public advertisement, consultation or civil-society participation.
-
-**Mandate/access gaps:** Section 36(2)'s one-year bar and section 19's armed-forces report route narrow effective protection. Non-binding recommendations make follow-up dependent on governments and courts.
-
-**Current control:** GANHRI's March 2025 SCA recommended B status, citing investigation, Secretary-General, pluralism, selection, public response and civil-society concerns. India challenged the recommendation; GANHRI's public membership page still lists A as of 19 August 2026. The 2026 SCA report's silence is not a merits clearance.
-
-Reform should open appointments, diversify membership, secure independent staff/investigation, protect funding and require reasoned, time-bound follow-up.
-
-**Why this earns marks:** It applies each Paris head to named statutory provisions, uses the exact current accreditation qualification and proposes matched reforms.
-
-**How to improve this answer:** Organise the answer under mandate, pluralism, investigation, resources and follow-up; attach one statutory fact and one reform to each Paris-Principles head.
-
-### Visual 75 - Paris gap-to-reform map
-
-| Paris head | Gap | Reform |
-|---|---|---|
-| pluralism | minimum representation, not full diversity | open criteria and broader representation |
-| independence | executive-linked staff | autonomous recruitment/investigation |
-| resources | grant dependence | predictable protected funding |
-| accessibility | time and subject bars | calibrated exceptions and outreach |
-| effectiveness | non-binding follow-up | reasoned compliance/escalation |
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the NHRC's institutional design against the Paris Principles. Refer to the current…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Examine the NHRC's institutional design against the Paris Principles. Refer to the current GANHRI accreditation scrutiny.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Directive decode: “Examine” requires supporting features, gaps, current evidence and a qualified verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Mandate/access gaps: Section 36(2)'s one-year bar and section 19's armed-forces report route narrow effective protection. Non-binding recommendations make follow-up dependent on governments and courts. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Reform should open appointments, diversify membership, secure independent staff/investigation, protect funding and require reasoned, time-bound follow-up. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It applies each Paris head to named statutory provisions, uses the exact current accreditation qualification and proposes matched reforms. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Organise the answer under mandate, pluralism, investigation, resources and follow-up; attach one statutory fact and one reform to each Paris-Principles head. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Examine the NHRC's institutional design against the Paris Principles. Refer to the current GANHRI accreditation scrutiny.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### Original Mains 5 - 15 marks, 250 words
-
-**Question:** Is the one-year limitation under section 36(2) compatible with effective human-rights protection? Analyse with case law and propose a balanced reform.
-
-**Directive decode:** State current law, explain its rationale and harm, use *N.C. Dhoundial v. Union of India (2003)*, then design a legally workable reform.
-
-### Model solution
-
-Section 36(2) bars NHRC or an SHRC from inquiring more than one year after the alleged violative act. It supplies finality and protects an inquiry body from stale evidence, but its rigidity can exclude the persons most unable to complain quickly.
-
-**Current legal position:** In *N.C. Dhoundial v. Union of India (2003)*, a complaint concerned detention that had ended years earlier. The Supreme Court held that NHRC, as a creature of statute, cannot exceed its jurisdiction; section 36(2) is a jurisdictional embargo. The Court rejected the claim that every violation continues until reparation, because that would make the provision a dead letter. It also clarified that *Paramjit Kaur v. State of Punjab (1999)* was different: NHRC there acted as the Supreme Court's Article 32 expert body.
-
-**Case for the limit:** timely complaints preserve records, witness memory and administrative certainty. NHRC is only one remedy; Articles 32/226, criminal law and other statutory forums may remain available.
-
-**Case against rigidity:** custodial abuse, trafficking, disability, child abuse, remote geography or official concealment may delay knowledge and access. A uniform bar can therefore reward concealment and penalise vulnerability. Continuing or repeated acts also require fact-sensitive analysis rather than an automatic completed-act label.
-
-**Balanced reform:** retain a normal one-year rule but authorise a reasoned condonation mechanism for grave violations, concealed facts, continuing acts, disability/minority, childhood or circumstances beyond the victim's control. Require recorded reasons, an outer safeguard where appropriate and judicial review. Preserve the *Paramjit Kaur v. State of Punjab (1999)* constitutional-assignment exception.
-
-As of 19 August 2026, this remains a reform proposal; section 36(2) still says one year.
-
-**Why this earns marks:** It accurately states *N.C. Dhoundial v. Union of India (2003)*, balances evidence/finality with access, distinguishes constitutional assignment and labels reform as prospective.
-
-**How to improve this answer:** State the N.C. Dhoundial v. Union of India (2003) holding before evaluating it, distinguish delayed consequences from a continuing violation, and label any exception as a proposed amendment.
-
-### Visual 76 - Limitation balance
-
-```text
-FINALITY + FRESH EVIDENCE  <---->  ACCESS + CONCEALED/GRAVE VIOLATIONS
-                  balanced by reasoned condonation
-```
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Is the one-year limitation under section 36(2) compatible with effective human-rights…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Is the one-year limitation under section 36(2) compatible with effective human-rights protection? Analyse with case law and propose a balanced reform.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Directive decode: State current law, explain its rationale and harm, use N.C. Dhoundial v. Union of India (2003) , then design a legally workable reform. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Case for the limit: timely complaints preserve records, witness memory and administrative certainty. NHRC is only one remedy; Articles 32/226, criminal law and other statutory forums may remain available. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** As of 19 August 2026, this remains a reform proposal; section 36(2) still says one year. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It accurately states N.C. Dhoundial v. Union of India (2003) , balances evidence/finality with access, distinguishes constitutional assignment and labels reform as prospective. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: State the N.C. Dhoundial v. Union of India (2003) holding before evaluating it, distinguish delayed consequences from a continuing violation, and label any exception as a proposed amendment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Is the one-year limitation under section 36(2) compatible with effective human-rights protection? Analyse with case law and propose a balanced reform.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### Original Mains 6 - 15 marks, 250 words
-
-**Question:** Critically analyse the special procedure for complaints against the armed forces under section 19 of the Protection of Human Rights Act.
-
-**Directive decode:** Explain the exact procedure, evaluate both rationale and accountability cost, and propose safeguarded reform.
-
-### Model solution
-
-Section 19 creates a special, narrower route for allegations against members of the armed forces, defined to include naval, military, air and other Union armed forces.
-
-**Mechanism:** NHRC may act suo motu or on petition, but instead of ordinary direct inquiry it seeks a report from the Central Government. After receiving it, NHRC may close the complaint or make recommendations. The Centre reports action within three months or further time allowed; NHRC publishes the report, recommendation and action and supplies it to the petitioner.
-
-**Rationale:** operations may involve classified intelligence, chain-of-command evidence and national-security risks. A central report can ensure access to operational records and preserve specialised accountability processes.
-
-**Accountability cost:** the alleged institutional side controls the first factual narrative. That weakens independence and victim confidence, particularly because section 19 displaces the ordinary evidence route. Recommendations remain non-binding. *EEVFAM (2016)* demonstrates why constitutional oversight matters: the Supreme Court reiterated that excessive or retaliatory force is impermissible even in an AFSPA disturbed area and that death allegations require thorough inquiry. It did not treat security operations as a rights-free zone.
-
-**Reform:** permit an independent NHRC-led or court-supervised fact-finding team with security-cleared members; use in-camera handling and redaction for genuinely sensitive material; require preservation of evidence, victim participation, reasoned public outcomes and judicial escalation for non-cooperation. Operational secrecy should be tailored, not total.
-
-Section 19 should protect legitimate security information without making executive self-reporting the ceiling of accountability.
-
-**Why this earns marks:** It reproduces the statutory steps and timetable, connects *EEVFAM (2016)* to accountability, recognises security concerns and designs proportional safeguards.
-
-**How to improve this answer:** Reproduce section 19 as a four-step chain, use EEVFAM (2016) only for constitutional oversight, and separate security-sensitive procedure from immunity from scrutiny.
-
-### Visual 77 - Security-accountability design
-
-| Legitimate need | Safeguard |
-|---|---|
-| classified information | security-cleared inquiry, redaction/in-camera review |
-| operational urgency | prompt evidence preservation |
-| command responsibility | records and chain-of-command examination |
-| victim confidence | independent participation and reasoned outcome |
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Critically analyse the special procedure for complaints against the armed forces under…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Critically analyse the special procedure for complaints against the armed forces under section 19 of the Protection of Human Rights Act.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Directive decode: Explain the exact procedure, evaluate both rationale and accountability cost, and propose safeguarded reform. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Section 19 creates a special, narrower route for allegations against members of the armed forces, defined to include naval, military, air and other Union armed forces. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Section 19 should protect legitimate security information without making executive self-reporting the ceiling of accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It reproduces the statutory steps and timetable, connects EEVFAM (2016) to accountability, recognises security concerns and designs proportional safeguards. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Reproduce section 19 as a four-step chain, use EEVFAM (2016) only for constitutional oversight, and separate security-sensitive procedure from immunity from scrutiny. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Critically analyse the special procedure for complaints against the armed forces under section 19 of the Protection of Human Rights Act.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### Original Mains 7 - 20 marks, 300 words
-
-**Question:** Evaluate whether Human Rights Commissions in India possess sufficient independence and enforcement capacity. Suggest a phased reform programme.
-
-**Directive decode:** Evaluate design and practice, distinguish independence from enforcement, and prioritise reforms.
-
-### Model solution
-
-Human Rights Commissions possess meaningful investigative autonomy and public authority, but neither full operational independence nor sufficient compulsory enforcement.
-
-**Institutional independence:** The PHRA creates fixed eligibility, terms and removal safeguards. NHRC removal for proved misbehaviour/incapacity requires a Supreme Court inquiry, and SHRC members are removed by the President rather than the State executive. These features protect tenure. Yet section 11 makes the Central Government provide a Secretary-rank officer and police/investigative staff; section 27 creates a similar State arrangement. When police are accused, dependence on police personnel creates a conflict risk. Closed selection procedures and limited statutory pluralism further affect perceived independence. GANHRI's 2025 SCA scrutiny provides named external evidence, although the recommendation remains challenged and the public listing remains A.
-
-**Enforcement capacity:** Sections 13-14 provide strong fact-finding powers. Section 18 can recommend compensation, prosecution, interim relief and court action; reports are published and laid before legislatures. This is more than mere advice. However, a recommendation is not a decree, section 36(2) excludes old complaints and section 19 restricts armed-forces inquiry. Uneven SHRC staffing and government delays compound the statutory ceiling.
-
-**Phased reform:**
-
-1. **Immediate administrative phase:** fill vacancies through published calendars; digitise referral and track action-taken reports; train staff and Special Public Prosecutors; publish reasons for delay/non-acceptance.
-2. **Institutional phase:** create independent multidisciplinary investigation cadres, direct recruitment and protected budgets; establish civil-society advisory channels; strengthen field access and witness/victim support.
-3. **Legislative phase:** create comply-or-reasoned-reject duties with court escalation; add calibrated section 36 condonation; amend section 19 for independent fact finding; make appointments open and pluralist.
-4. **Judicial/legislative oversight:** regular report laying, committee scrutiny and reviewable reasons.
-
-The commissions should remain expert rights bodies rather than criminal courts, but their evidence must trigger a reliable remedy chain. Independence without follow-up is symbolic; enforcement without due process is unsafe.
-
-**Why this earns marks:** It separates two evaluative dimensions, uses sections 11, 13, 18, 19, 27 and 36, integrates current GANHRI control, and sequences feasible reforms.
-
-**How to improve this answer:** Divide the 20-marker into legal design and administrative practice, then rank reforms by what needs statutory amendment, rules, or executive action.
-
-### Visual 78 - Phased reform staircase
-
-```text
-PHASE 1: vacancies + transparency + case tracking
-          |
-PHASE 2: independent staff/investigation + resources
-          |
-PHASE 3: statutory follow-up + limitation/armed-forces reform
-          |
-PHASE 4: legislative and judicial oversight
-```
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate whether Human Rights Commissions in India possess sufficient independence and…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Evaluate whether Human Rights Commissions in India possess sufficient independence and enforcement capacity. Suggest a phased reform programme.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Directive decode: Evaluate design and practice, distinguish independence from enforcement, and prioritise reforms. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Human Rights Commissions possess meaningful investigative autonomy and public authority, but neither full operational independence nor sufficient compulsory enforcement. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Immediate administrative phase: fill vacancies through published calendars; digitise referral and track action-taken reports; train staff and Special Public Prosecutors; publish reasons for delay/non-acceptance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Institutional phase: create independent multidisciplinary investigation cadres, direct recruitment and protected budgets; establish civil-society advisory channels; strengthen field access and witness/victim support. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Legislative phase: create comply-or-reasoned-reject duties with court escalation; add calibrated section 36 condonation; amend section 19 for independent fact finding; make appointments open and pluralist. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Evaluate whether Human Rights Commissions in India possess sufficient independence and enforcement capacity. Suggest a phased reform programme.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### Original Mains 8 - 20 marks, 300 words
-
-**Question:** Human Rights Courts remain the missing enforcement link in India's commission-centred rights architecture. Discuss this claim and suggest how commissions, courts and specialised bodies should coordinate.
-
-**Directive decode:** Explain the court provisions, why the link is incomplete, and design coordination without institutional merger.
-
-### Model solution
-
-The PHRA separates fact-finding from adjudication. NHRC/SHRC inquire and recommend; sections 30-31 envisage Sessions Courts and Special Public Prosecutors for speedy trial. Human Rights Courts could therefore connect Commission findings to criminal accountability, but the statutory bridge is incomplete.
-
-**Legal design:** A State Government may, with concurrence of the High Court Chief Justice, notify a Court of Session for each district. Existing special courts are protected from duplication. For every notified court, the State specifies a Public Prosecutor or appoints an advocate with at least seven years' practice.
-
-**Why the link is weak:** The PHRA does not create a comprehensive catalogue of “human-rights offences,” an automatic transfer mechanism from Commission inquiry to prosecution, or a separate procedure overriding specialised criminal laws. A notified Sessions Court may remain only a label unless police register and investigate an offence, prosecutors are trained, victims receive support and case allocation is clear. Unsupported national counts should therefore be avoided.
-
-**Coordination architecture:**
-
-- NHRC/SHRC should produce legally structured records, preserve evidence and identify the competent offence/investigating authority, while respecting section 16 hearing rights.
-- Police/SITs should conduct criminal investigation independently of the Commission's recommendatory finding.
-- Prosecutors should assess admissible evidence and give reasons where prosecution is declined.
-- High Courts should oversee notifications, case allocation and delay through administrative and Article 226 powers.
-- NCSC, NCST, NCBC, NCW, NCM, NCPCR and disability institutions should use referral protocols and joint thematic action, not lose specialist mandates in one mega-body.
-- A shared case identifier can enforce section 36 anti-duplication while protecting data and victim choice.
-
-**Reform:** States should notify functional courts where needed, designate trained prosecutors, publish routing rules, create victim/witness services and report outcomes without compromising privacy.
-
-Human Rights Courts are potentially an enforcement link, but no court can repair weak investigation or vague case routing. The solution is a chain of lawful specialisation, not institutional collapse.
-
-**Why this earns marks:** It explains sections 30-31, identifies the legal/operational gap, integrates criminal procedure and specialised commissions, and offers a non-merger coordination model.
-
-**How to improve this answer:** Explain the missing referral bridge between Commission findings, police investigation, prosecution and the Sessions Court; do not present notification alone as operational success.
-
-### Visual 79 - Rights-enforcement chain
-
-```text
-COMPLAINT
-  -> NHRC/SHRC fact finding
-  -> police/SIT criminal investigation
-  -> prosecutor decision
-  -> notified Sessions/Human Rights Court trial
-  -> appeal/judicial review
-
-SPECIALISED COMMISSIONS feed expertise and referrals across the chain.
-```
-
-### Visual 80 - Practice inventory
-
-| Component | Count | Control |
-|---|---:|---|
-| direct verified routed Mains PYQs | 2 | exact local official-paper wording |
-| related verified Prelims cross-link | 1 | no unavailable official key claimed |
-| original MCQs | 36 | explanations; A-B-C-D rotation |
-| remedial MCQs | 12 | explanations; continuous rotation |
-| objective answer markers | 48 | exactly 12 A, 12 B, 12 C, 12 D |
-| original solved Mains | 8 | 3 x 10, 3 x 15, 2 x 20 marks |
-| solved routed Mains | 2 | examiner-grade evidence-led models |
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Human Rights Courts remain the missing enforcement link in India's commission-centred rights…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Human Rights Courts remain the missing enforcement link in India's commission-centred rights architecture. Discuss this claim and suggest how…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Directive decode: Explain the court provisions, why the link is incomplete, and design coordination without institutional merger. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** NHRC/SHRC should produce legally structured records, preserve evidence and identify the competent offence/investigating authority, while respecting section 16 hearing rights. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Police/SITs should conduct criminal investigation independently of the Commission's recommendatory finding. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Prosecutors should assess admissible evidence and give reasons where prosecution is declined. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** High Courts should oversee notifications, case allocation and delay through administrative and Article 226 powers. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Human Rights Courts remain the missing enforcement link in India's commission-centred rights architecture. Discuss this claim and suggest how…”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+The objective is one navigable system, not one legally overgrown institution.

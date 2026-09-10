@@ -1,147 +1,67 @@
----
-title: "Scheduled and Tribal Areas — Learner-v2 Refreshed"
-topic_key: polity-26
-cover_image: assets/polity-26_Teaching-Navigation_2026-08-28.png
-export_date: 2026-08-28
-approval: false
-evidence_key: "[FACT] verified constitutional, statutory, judicial or official proposition; [ANALYSIS] reasoned exam synthesis; [CURRENT] dated legal or institutional control; [LIMIT] qualification preventing overstatement"
----
-# Polity 26 - Scheduled and Tribal Areas - Complete Topic Package
+# SCHEDULED AND TRIBAL AREAS - COMPLETE LEARNING SESSION
 
-> **Subject:** Indian Polity | **Topic:** 26 | **GS-II + Prelims** | **Export date:** 2026-08-28
->
-> **Approval:** false - awaiting explicit user approval.
->
-> **Evidence key:** [FACT] verified constitutional, statutory, judicial or official proposition; [ANALYSIS] reasoned exam synthesis; [CURRENT] dated legal or institutional control; [LIMIT] qualification preventing overstatement.
+**Subject:** Indian Polity | **Topic:** 26 | **Level:** Core answer-complete, then optional advanced depth
 
-#### Package method, source priority and current legal control
+### SOURCE CONTROL AND LIMITS
 
-- [FACT] Source order followed: `basic/Scheduled-and-Tribal-Areas.md` -> `advanced/26_Scheduled-and-Tribal-Areas.md` -> Polity 23 Panchayati Raj, Polity 22 Special Provisions, Fundamental Rights, Supreme Court, Environment/FRA and EIA owners only for cross-links -> audited PYQ routing ledgers and locally held official Prelims papers/keys -> authoritative Constitution, India Code, Ministry of Tribal Affairs, Ministry of Panchayati Raj, Supreme Court and official State/ADC sources. Qdrant was not used.
-- [CURRENT] Legal and institutional control date is **5 September 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 5 September 2026:** Ministry of Tribal Affairs Fifth-Schedule material, Ministry of Panchayati Raj PESA-rules listings, MHA Ladakh committee material and the official Supreme Court judgment source were rechecked. Jharkhand PESA Rules, 2025 remain listed; no Sixth-Schedule grant to Ladakh was located.
-- [FACT] Article **244(1)** applies the Fifth Schedule to Scheduled Areas and Scheduled Tribes in States other than Assam, Meghalaya, Tripura and Mizoram. Article **244(2)** applies the Sixth Schedule to tribal areas in those four States.
-- [CURRENT] The official Ministry of Panchayati Raj state-wise document identifies notified Fifth Schedule areas in **10 States**: Andhra Pradesh, Telangana, Chhattisgarh, Gujarat, Himachal Pradesh, Jharkhand, Madhya Pradesh, Maharashtra, Odisha and Rajasthan.
-- [LIMIT] A State's inclusion in that list does not make the whole State a Scheduled Area. Only territory covered by the operative Presidential Orders has that status. Presence of a Scheduled Tribe population also does not by itself notify a Scheduled Area.
-- [CURRENT] The Ministry of Panchayati Raj's official PESA-rules listing contains rules for nine of the ten PESA States, including **Jharkhand Rules, 2025**; it does not list a separate notified Odisha PESA Rules instrument. This is a dated implementation control, not a claim that statutory compliance is complete in the nine.
-- [CURRENT] Ladakh remains a Union Territory outside the Sixth Schedule. Official MHA material records continuing consultation through the High-Powered Committee process; no official notification granting Sixth Schedule status was located by the control date.
-- [LIMIT] The Fifth Schedule assigns important functions to the Governor but does not textually convert every such function into unreviewable personal discretion. Do not state that the Governor may always disregard ministerial advice.
-- [LIMIT] A Tribal Advisory Council is advisory. A Sixth Schedule council is autonomous but not sovereign, not a State legislature and not outside the State's executive authority.
-- [LIMIT] PESA uses different legal verbs - **approve, identify, certify, consult, recommend, own, regulate, control and restore**. It does not create one undifferentiated Gram Sabha veto over every project.
-- [LIMIT] Current dashboards, claim counts, title acreage, council officeholders and programme totals change. This package uses durable legal design and dated official controls rather than freezing unstable totals.
+- Canonical Markdown was read first and remained read-only: `basic/Scheduled-and-Tribal-Areas.md`, `26_Scheduled-and-Tribal-Areas_Complete-Topic-Package.md` and `advanced/26_Scheduled-and-Tribal-Areas.md`.
+- OCR-searchable local books were checked next: *Indian Polity by M. Laxmikanth*, chapter 41 beginning at PDF page 857, and *Courseware on Indian Polity by M. Laxmikanth*, chapter 42 beginning at PDF page 836.
+- Constitutional text was controlled through the repository-held official Constitution updated 1 May 2026, especially Articles 244, 244A, 275, 339, 342 and the Fifth and Sixth Schedules.
+- Statutory control used the official PESA Act 1996 and FRA 2006 text. Judicial control used the official Supreme Court text or locally verified official judgment records for *Samatha* (1997), *Orissa Mining Corporation* (2013), *Wildlife First* procedural orders (2019) and *Chebrolu Leela Prasad Rao* (2020).
+- The Ministry of Tribal Affairs declaration page was directly accessible on 7 September 2026. Direct fetches of the Legislative Department Constitution PDF, India Code PESA PDF and the 4 August 2026 MHA parliamentary-answer PDF returned access restrictions; their propositions were checked against the repository-held official Constitution, canonical official-source extracts and accessible official search records.
+- Current district boundaries, TAC rosters, officeholders, grants and programme totals are volatile and are not frozen here. The dated 4 August 2026 MHA parliamentary answer is used only for the bounded statement that it listed ten Sixth Schedule ADCs across the four constitutional States.
+- Qdrant was not required.
 
-**Authoritative control set**
+### EVIDENCE KEY
 
-1. Constitution of India, Legislative Department, Articles 244, 244A, 275(1), 339 and the Fifth and Sixth Schedules.
-2. Ministry of Tribal Affairs, official *Scheduled Areas* note and Presidential-Order inventory.
-3. Ministry of Panchayati Raj, official state-wise notified Fifth Schedule areas, PESA Act and State PESA rules listings.
-4. Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996, section 4, India Code.
-5. Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, especially sections 2, 3, 4, 5 and 6, India Code.
-6. *Samatha (1997) v. State of Andhra Pradesh*, (1997) 8 SCC 191, read with the Andhra Pradesh Scheduled Areas Land Transfer Regulation and later scope qualification.
-7. *Orissa Mining Corporation (2013) Ltd. v. Ministry of Environment and Forest*, Supreme Court, 18 April 2013.
-8. Official Assam, Meghalaya, Tripura and Mizoram government/ADC material for current institutional examples.
-9. Official UPSC papers locally held for 2019, 2023, 2024, 2025 and 2026 and official Set-A keys locally held for 2024-2025.
+- **[FACT]** constitutional, statutory, judicial or official proposition.
+- **[CURRENT]** date-stamped institutional fact.
+- **[ANALYSIS]** reasoned exam synthesis.
+- **[LIMIT]** qualification preventing overstatement.
 
-#### Roadmap
-
-| Stage | Coverage | Exam outcome |
-|---|---|---|
-| Rationale and history | exclusion, protection and self-government | explains why two Schedules exist |
-| Article 244 map | Fifth, Sixth, 244A, 275 and 339 | solves provision traps |
-| Fifth Schedule | declaration, executive chain, TAC and Governor powers | handles protective administration |
-| Sixth Schedule | districts, regions, councils and powers | handles autonomous government |
-| Exact comparison | Fifth, Sixth, Article 371 and ordinary Panchayats | prevents false equivalence |
-| PESA | section 4 power verbs and limits | answers Gram Sabha questions precisely |
-| FRA | claims, CFR and conservation duties | connects tenure with self-governance |
-| Land and mining | PESA, FRA, State land law and cases | builds rights-development analysis |
-| Accountability | Governor, State, Union, councils and Gram Sabha | identifies institutional gaps |
-| Current reform | rules, capacity, convergence and review | adds dated evidence safely |
-| Workbook | six routed Prelims demands, 48 rotated MCQs and eight solved Mains | converts doctrine into marks |
-
-#### Scope ownership and cross-links
-
-- **Polity 22 - Special Provisions:** owns Article 371 family, Article 370 and the larger asymmetric-federalism framework. This package distinguishes those provisions from Fifth/Sixth Schedule protection.
-- **Polity 23 - Panchayati Raj:** owns Part IX, ordinary Gram Sabha and PRI architecture. This package owns Article 243M exclusion and PESA's Scheduled-Area modifications.
-- **Polity 07 - Fundamental Rights / DPSP:** owns Articles 14, 19, 21, 25-26, 29, 38, 39(b), 46 and Article 300A doctrine. This package applies them to tribal land, culture, religion and dignified participation.
-- **Polity 18/21 - Judiciary:** owns judicial review and court structure. This package owns the tribal-governance holdings and limits of *Samatha (1997)* and *Orissa Mining Corporation (2013)*.
-- **Environment 11 - Forest Rights Act:** owns full forest-law doctrine, eligibility and claims detail. This package owns the governance interface between FRA, PESA and the Schedules.
-- **Environment 16 / Economy land-mineral owners:** own EIA, forest clearance, mineral law and land acquisition in depth. This package owns the constitutional/community decision chain.
-- **Governance:** owns participatory governance, social audit and delivery systems. This package uses them only to design accountability in Scheduled Areas.
-- [LIMIT] Cross-links prevent duplicate ownership but do not make this package dependent on another file for answering a Fifth/Sixth Schedule, PESA or tribal-autonomy question.
-
-
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Polity Basic/Core is answer-complete before optional Advanced depth. |
-| Text hierarchy | Constitution/Act/rule/notification → binding judgment → authoritative institution → Constituent Assembly material → standard textbook. |
-| Legal precision | State exact Article, Part, Schedule, amendment, case, date, institution, procedure, exception and current operative status. |
-| Doctrine method | Text → institutional mechanism → controlling case → exception/limit → present legal status. |
-| Chronology | Enactment, commencement, amendment, judgment and implementation dates remain separate. |
-| Boundary method | Topic ownership and cross-owner bridges are explicit; adjacent PYQs never become fabricated direct routes. |
-| Practice contract | Every solved item has demand decoding, examiner-grade model, timed compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Polity\basic\Scheduled-and-Tribal-Areas.md`  
-**Canonical topic owner:** `upsc-ai-kit\knowledge\Polity\basic\Scheduled-and-Tribal-Areas.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Polity\advanced\26_Scheduled-and-Tribal-Areas.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Polity\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- **Four independent ledgers:** literal syllabus/index, indispensable
-  prerequisites, standard textbook taxonomy and complete routed 2018-2026 PYQ
-  demands were built before repair.
-- **Hostile search:** missing Articles, Parts, Schedules, amendments, cases,
-  institutional mechanisms, exceptions, chronology, source status and
-  cross-owner boundaries are hard failures.
-- **Answer rule:** claim → exact constitutional/statutory/case evidence →
-  institutional analysis → exception or qualification.
-- **Current-status note, rechecked 2026-09-05:** Rechecked 2026-09-05: official constitutional, MoTA, MoPR/India Code, MHA and Supreme Court sources preserve distinct Fifth Schedule, Sixth Schedule, PESA and FRA layers. MHA's 4 August 2026 answer lists ten Sixth-Schedule ADCs; Ladakh has not been added to the Schedule.
-
-**Authoritative live sources:**
-
-- `https://legislative.gov.in/en/constitution-of-india`
-- `https://tribal.nic.in/DivisionsFiles/clm/ScheduledAreas.pdf`
-- `https://www.indiacode.nic.in/show-data?actid=AC_CEN_18_21_00007_199640_1517807323053&sectionId=42808&sectionno=4&orderno=4`
-- `https://tribal.nic.in/FRA/data/FRARulesBook.pdf`
-- `https://www.mha.gov.in/MHA1/Par2017/pdfs/par2026-pdfs/LS04082026/2745.pdf`
-- `https://api.sci.gov.in/judis/4271.pdf`
-- `https://api.sci.gov.in/judis/19058.pdf`
 
 ## BASIC LEARNING SESSION
 
-![Refreshed teaching navigation](assets/polity-26_Teaching-Navigation_2026-08-28.png)
+### ROADMAP
 
-*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
+| Block | Sessions | Outcome |
+|---|---:|---|
+| Concept and Article 244 map | 1-3 | classify the territory, legal source and actor |
+| Fifth Schedule | 4-7 | master reporting, TAC, regulations, finance and amendment |
+| Sixth Schedule | 8-18 | explain councils, powers, State-specific rules and controls |
+| PESA and FRA | 19-23 | use exact statutory verbs without merging the laws |
+| Cases and resource conflicts | 24-27 | state holdings with jurisdictional limits |
+| Accountability and answer method | 28-31 | evaluate implementation and write reforms |
 
+### SESSION 1 - WHY DIFFERENTIATED TRIBAL-AREA GOVERNANCE EXISTS
 
-### SESSION 1 — WHY SPECIAL TRIBAL-AREA ADMINISTRATION EXISTS
+#### VISUAL FIRST
 
-#### DEFINITION / WHAT THIS IS CALLED
+```text
+DIFFERENT NEED -> DIFFERENTIATED INSTITUTION -> ACCOUNTABLE PROTECTION
+```
 
-**Plain-language definition:** Why Special Tribal-Area Administration Exists explains the exact constitutional, statutory and institutional rules governing why special tribal-area administration exists.
+*Caption: different need -> differentiated institution -> accountable protection.*
 
-**Technical definition:** Why Special Tribal-Area Administration Exists operates through the exact constitutional, statutory and institutional rules governing why special tribal-area administration exists, with authority, procedure, limits and dated status kept distinct.
+#### DEFINITION
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+Differentiated tribal-area governance is a constitutional response to historical dispossession, territorial concentration, customary institutions and unequal bargaining power.
 
-> Why Special Tribal-Area Administration Exists is best understood through the exact constitutional, statutory and institutional rules governing why special tribal-area administration exists.
+#### ANSWER-GRABBING LINE
+
+> The Fifth and Sixth Schedules pursue substantive equality through different institutional forms, not exceptions from constitutionalism.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **special**
-- **tribal**
-- **area**
-- **administration**
-- **exists**
+substantive equality; land; culture; agency; accountable autonomy
 
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with special to explain the mechanism, and use tribal for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 1 - The constitutional problem**
+**Claim:** Uniform administration can reproduce structural inequality. **Named evidence:** Fifth and Sixth Schedules under Part X. **Analysis:** They match legal institutions to different territorial and historical conditions. **Qualification:** Special status remains bounded by Fundamental Rights, accountability and judicial review.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - The constitutional problem**
 
 ```text
 FORMAL EQUALITY OF ONE ADMINISTRATIVE MODEL
@@ -167,49 +87,50 @@ Caption: The Schedules are devices of substantive equality: they differentiate a
 - [ANALYSIS] The central design question is not "special privilege versus equality" but whether identical rules would reproduce unequal bargaining power and historical dispossession.
 - [LIMIT] Protection can become paternalism if communities remain subjects of administration rather than participants in decisions.
 
-#### CLOSING RECALL FLOW — WHY SPECIAL TRIBAL-AREA ADMINISTRATION EXISTS
+
+
+#### PRELIMS TRAP
+
+Special administration is not constitutional isolation.
+
+#### MAINS USE
+
+Use as the normative introduction to any Fifth-versus-Sixth answer.
+
+#### RECAP
+
+different need -> differentiated institution -> accountable protection
+
+
+### SESSION 2 - ARTICLE 244 MAP AND EXACT VOCABULARY
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: WHY SPECIAL TRIBAL-AREA ADMINISTRATION EXISTS
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · special · tribal · area · administration · exists
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for why special tribal-area administration exists.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of why special tribal-area administration exists.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise why special tribal-area administration exists beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Why Special Tribal-Area Administration Exists is best understood through the exact constitutional, statutory and institutional rules governing why special tribal-area administration exists.
+244(1) FIFTH | 244(2) SIXTH | 244A ASSAM | 342 TRIBE LIST
 ```
-### SESSION 2 — HISTORICAL EVOLUTION
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: 244(1) Fifth | 244(2) Sixth | 244A Assam | 342 tribe list.*
 
-**Plain-language definition:** Historical Evolution explains the exact constitutional, statutory and institutional rules governing historical evolution.
+#### DEFINITION
 
-**Technical definition:** Historical Evolution operates through the exact constitutional, statutory and institutional rules governing historical evolution, with authority, procedure, limits and dated status kept distinct.
+Article 244 is the gateway applying the Fifth Schedule under clause (1) and the Sixth Schedule under clause (2), while Article 244A creates a separate Assam-only route.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Historical Evolution is best understood through the exact constitutional, statutory and institutional rules governing historical evolution.
+> Area status, tribal-area status and Scheduled Tribe status arise through different constitutional mechanisms.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **historical**
-- **evolution**
+Article 244(1); Article 244(2); Article 244A; Scheduled Area; tribal area; Article 342
 
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with historical to explain the mechanism, and use evolution for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 2 - From exclusion to negotiated constitutionalism**
+**Claim:** Correct classification prevents actor and territory errors. **Named evidence:** Articles 244, 244A and 342. **Analysis:** The Constitution separates territorial governance from community specification. **Qualification:** A large Scheduled Tribe population does not itself create a Scheduled Area or Sixth Schedule council.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - From exclusion to negotiated constitutionalism**
 
 ```text
 1874 Scheduled Districts Act
@@ -236,50 +157,7 @@ Constituent Assembly tribal-area subcommittees
 - [ANALYSIS] The Fifth Schedule partially transforms the colonial guardian model; the Sixth Schedule moves further toward territorial self-government.
 - [LIMIT] Constitutional continuity in special administration does not mean identical purposes: democratic accountability and tribal agency are now controlling values.
 
-#### CLOSING RECALL FLOW — HISTORICAL EVOLUTION
-
-```text
-START / CONCEPT: HISTORICAL EVOLUTION
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · historical · evolution
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for historical evolution.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of historical evolution.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise historical evolution beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Historical Evolution is best understood through the exact constitutional, statutory and institutional rules governing historical evolution.
-```
-### SESSION 3 — ARTICLE 244 MASTER MAP
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Article 244 Master Map explains the exact constitutional, statutory and institutional rules governing article 244 master map.
-
-**Technical definition:** Article 244 Master Map operates through the exact constitutional, statutory and institutional rules governing article 244 master map, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Article 244 Master Map is best understood through the exact constitutional, statutory and institutional rules governing article 244 master map.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **article**
-- **master**
-- **map**
-
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with article to explain the mechanism, and use master for the decisive comparison or qualification.
-
-**Visual 3 - The constitutional spine**
+**Source visual - The constitutional spine**
 
 | Provision | Territorial reach | Core function |
 |---|---|---|
@@ -294,51 +172,7 @@ ANSWER-GRABBING FORMULATION: Historical Evolution is best understood through the
 - [ANALYSIS] Articles 275 and 339 add fiscal and supervisory support to the territorial design.
 - [LIMIT] Article 244A is an enabling power for an autonomous State within Assam, not an automatic consequence of a Sixth Schedule council.
 
-#### CLOSING RECALL FLOW — ARTICLE 244 MASTER MAP
-
-```text
-START / CONCEPT: ARTICLE 244 MASTER MAP
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · article · master · map
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for article 244 master map.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of article 244 master map.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise article 244 master map beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Article 244 Master Map is best understood through the exact constitutional, statutory and institutional rules governing article 244 master map.
-```
-### SESSION 4 — TERMINOLOGY THAT DECIDES CLOSE OPTIONS
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Terminology That Decides Close Options explains the exact constitutional, statutory and institutional rules governing terminology that decides close options.
-
-**Technical definition:** Terminology That Decides Close Options operates through the exact constitutional, statutory and institutional rules governing terminology that decides close options, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Terminology That Decides Close Options is best understood through the exact constitutional, statutory and institutional rules governing terminology that decides close options.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **terminology**
-- **decides**
-- **close**
-- **options**
-
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with terminology to explain the mechanism, and use decides for the decisive comparison or qualification.
-
-**Visual 4 - Scheduled Area, tribal area and Scheduled Tribe**
+**Source visual - Scheduled Area, tribal area and Scheduled Tribe**
 
 | Term | Legal source | Who specifies/organises? | Exam trap |
 |---|---|---|---|
@@ -349,50 +183,50 @@ ANSWER-GRABBING FORMULATION: Article 244 Master Map is best understood through t
 
 > **Memory rule:** **President schedules the area and tribe list through different constitutional routes; Governor organises Sixth Schedule districts/regions; PESA recognises habitation-based village life.**
 
-#### CLOSING RECALL FLOW — TERMINOLOGY THAT DECIDES CLOSE OPTIONS
+
+
+#### PRELIMS TRAP
+
+Do not interchange Scheduled Area, tribal area and Scheduled Tribe.
+
+#### MAINS USE
+
+Use as the constitutional map in the first paragraph.
+
+#### RECAP
+
+244(1) Fifth | 244(2) Sixth | 244A Assam | 342 tribe list
+
+
+### SESSION 3 - FIFTH SCHEDULE REACH AND PRESIDENTIAL DECLARATION
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: TERMINOLOGY THAT DECIDES CLOSE OPTIONS
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · terminology · decides · close · options
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for terminology that decides close options.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of terminology that decides close options.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise terminology that decides close options beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Terminology That Decides Close Options is best understood through the exact constitutional, statutory and institutional rules governing terminology that decides close options.
+CRITERIA -> CONSULTATION ROUTE -> PRESIDENTIAL ORDER -> NOTIFIED AREA
 ```
-### SESSION 5 — CURRENT FIFTH SCHEDULE STATE MAP
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: criteria -> consultation route -> Presidential order -> notified area.*
 
-**Plain-language definition:** Current Fifth Schedule State Map explains the exact constitutional, statutory and institutional rules governing current fifth schedule state map.
+#### DEFINITION
 
-**Technical definition:** Current Fifth Schedule State Map operates through the exact constitutional, statutory and institutional rules governing current fifth schedule state map, with authority, procedure, limits and dated status kept distinct.
+A Scheduled Area is only territory covered by a Presidential order under paragraph 6 of the Fifth Schedule.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Current Fifth Schedule State Map is best understood through the exact constitutional, statutory and institutional rules governing current fifth schedule state map.
+> The Fifth Schedule applies in States other than Assam, Meghalaya, Tripura and Mizoram, but only to notified territory within those States.
 
 #### MUST-WRITE KEYWORDS
 
-- **Fifth Schedule**
-- **Governor**
-- **Tribes Advisory Council**
-- **fifth**
-- **schedule**
-- **map**
+paragraph 6; Presidential order; notified territory; Governor consultation; official criteria
 
-**How to use them:** Frame the answer through Fifth Schedule; define Governor, connect Tribes Advisory Council with fifth to explain the mechanism, and use schedule for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 5 - Officially supported 10-State inventory**
+**Claim:** Territorial protection begins with legally precise notification. **Named evidence:** Fifth Schedule paragraph 6 and Ministry of Tribal Affairs criteria. **Analysis:** The order converts administrative criteria into constitutional territorial status. **Qualification:** Criteria such as compactness or tribal preponderance guide identification but do not self-execute.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Officially supported 10-State inventory**
 
 ```text
 WEST / CENTRAL BELT
@@ -412,51 +246,7 @@ Himachal Pradesh
 - [FACT] Their legal coverage comes from operative Presidential Orders, including post-State-reorganisation application.
 - [LIMIT] District names and boundaries can change. Memorise the State inventory and declaration mechanism; verify granular district lists from current orders before quoting them.
 
-#### CLOSING RECALL FLOW — CURRENT FIFTH SCHEDULE STATE MAP
-
-```text
-START / CONCEPT: CURRENT FIFTH SCHEDULE STATE MAP
-        |
-        v
-EXACT TERMS: Fifth Schedule · Governor · Tribes Advisory Council · fifth · schedule · map
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for current fifth schedule state map.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of current fifth schedule state map.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise current fifth schedule state map beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Current Fifth Schedule State Map is best understood through the exact constitutional, statutory and institutional rules governing current fifth schedule state map.
-```
-### SESSION 6 — HOW A SCHEDULED AREA IS DECLARED OR CHANGED
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** How A Scheduled Area Is Declared Or Changed explains the exact constitutional, statutory and institutional rules governing how a scheduled area is declared or changed.
-
-**Technical definition:** How A Scheduled Area Is Declared Or Changed operates through the exact constitutional, statutory and institutional rules governing how a scheduled area is declared or changed, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> How A Scheduled Area Is Declared Or Changed is best understood through the exact constitutional, statutory and institutional rules governing how a scheduled area is declared or changed.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **scheduled**
-- **area**
-- **declared**
-- **changed**
-
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with scheduled to explain the mechanism, and use area for the decisive comparison or qualification.
-
-**Visual 6 - Fifth Schedule paragraph 6 process**
+**Source visual - Fifth Schedule paragraph 6 process**
 
 ```text
 territorial facts / State reorganisation / review need
@@ -476,51 +266,7 @@ only the notified territory receives Scheduled Area status
 - [FACT] The Schedule permits increase, alteration, redefinition and rescission through specified presidential orders; consultation with the Governor is required in the cases stated in paragraph 6.
 - [LIMIT] Consultation is not the same as gubernatorial consent.
 
-#### CLOSING RECALL FLOW — HOW A SCHEDULED AREA IS DECLARED OR CHANGED
-
-```text
-START / CONCEPT: HOW A SCHEDULED AREA IS DECLARED OR CHANGED
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · scheduled · area · declared · changed
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for how a scheduled area is declared or changed.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of how a scheduled area is declared or changed.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise how a scheduled area is declared or changed beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: How A Scheduled Area Is Declared Or Changed is best understood through the exact constitutional, statutory and institutional rules governing how a scheduled area is declared or changed.
-```
-### SESSION 7 — ADMINISTRATIVE CRITERIA VERSUS CONSTITUTIONAL POWER
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Administrative Criteria Versus Constitutional Power explains the exact constitutional, statutory and institutional rules governing administrative criteria versus constitutional power.
-
-**Technical definition:** Administrative Criteria Versus Constitutional Power operates through the exact constitutional, statutory and institutional rules governing administrative criteria versus constitutional power, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Administrative Criteria Versus Constitutional Power is best understood through the exact constitutional, statutory and institutional rules governing administrative criteria versus constitutional power.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **administrative**
-- **criteria**
-- **constitutional**
-- **power**
-
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with administrative to explain the mechanism, and use criteria for the decisive comparison or qualification.
-
-**Visual 7 - Two-layer declaration test**
+**Source visual - Two-layer declaration test**
 
 | Layer | Content | Legal weight |
 |---|---|---|
@@ -531,51 +277,50 @@ ANSWER-GRABBING FORMULATION: How A Scheduled Area Is Declared Or Changed is best
 - [ANALYSIS] Criteria discipline the area approach by linking protection to demographic, territorial and developmental realities.
 - [LIMIT] Satisfying a criterion does not itself make an area Scheduled; notification remains indispensable.
 
-#### CLOSING RECALL FLOW — ADMINISTRATIVE CRITERIA VERSUS CONSTITUTIONAL POWER
+
+
+#### PRELIMS TRAP
+
+Never treat an entire listed State as automatically scheduled.
+
+#### MAINS USE
+
+Use to answer declaration-authority and current-map questions.
+
+#### RECAP
+
+criteria -> consultation route -> Presidential order -> notified area
+
+
+### SESSION 4 - GOVERNOR REPORT AND UNION DIRECTIONS
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: ADMINISTRATIVE CRITERIA VERSUS CONSTITUTIONAL POWER
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · administrative · criteria · constitutional · power
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for administrative criteria versus constitutional power.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of administrative criteria versus constitutional power.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise administrative criteria versus constitutional power beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Administrative Criteria Versus Constitutional Power is best understood through the exact constitutional, statutory and institutional rules governing administrative criteria versus constitutional power.
+STATE ADMINISTERS -> GOVERNOR REPORTS -> PRESIDENT -> UNION DIRECTIONS
 ```
-### SESSION 8 — FIFTH SCHEDULE EXECUTIVE CHAIN
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: State administers -> Governor reports -> President -> Union directions.*
 
-**Plain-language definition:** Fifth Schedule Executive Chain explains the exact constitutional, statutory and institutional rules governing fifth schedule executive chain.
+#### DEFINITION
 
-**Technical definition:** Fifth Schedule Executive Chain operates through the exact constitutional, statutory and institutional rules governing fifth schedule executive chain, with authority, procedure, limits and dated status kept distinct.
+State executive power continues in a Scheduled Area, subject to a constitutional reporting and Union-direction chain.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Fifth Schedule Executive Chain is best understood through the exact constitutional, statutory and institutional rules governing fifth schedule executive chain.
+> The Governor reports annually, or whenever required by the President, and Union executive power extends to directions on administration.
 
 #### MUST-WRITE KEYWORDS
 
-- **Fifth Schedule**
-- **Governor**
-- **Tribes Advisory Council**
-- **fifth**
-- **schedule**
-- **executive**
-- **chain**
+State executive power; annual report; on-demand report; President; Union directions
 
-**How to use them:** Frame the answer through Fifth Schedule; define Governor, connect Tribes Advisory Council with fifth to explain the mechanism, and use schedule for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 8 - State administration under Union supervision**
+**Claim:** The Fifth Schedule supervises State administration rather than replacing it. **Named evidence:** Paragraph 3 of the Fifth Schedule. **Analysis:** Reporting can expose land, service and rights failures to intergovernmental scrutiny. **Qualification:** The text does not create automatic Union takeover or a local body with total administration.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - State administration under Union supervision**
 
 ```text
 STATE EXECUTIVE POWER CONTINUES
@@ -599,50 +344,7 @@ on Scheduled-Area administration
 - [FACT] Union executive power extends to giving directions to the State regarding such administration.
 - [LIMIT] The Schedule creates supervision by report and direction, not an automatic Union takeover of total administration.
 
-#### CLOSING RECALL FLOW — FIFTH SCHEDULE EXECUTIVE CHAIN
-
-```text
-START / CONCEPT: FIFTH SCHEDULE EXECUTIVE CHAIN
-        |
-        v
-EXACT TERMS: Fifth Schedule · Governor · Tribes Advisory Council · fifth · schedule · executive · chain
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for fifth schedule executive chain.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of fifth schedule executive chain.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise fifth schedule executive chain beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Fifth Schedule Executive Chain is best understood through the exact constitutional, statutory and institutional rules governing fifth schedule executive chain.
-```
-### SESSION 9 — ACCOUNTABILITY MEANING OF THE GOVERNOR'S REPORT
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Accountability Meaning Of The Governor'S Report explains the exact constitutional, statutory and institutional rules governing accountability meaning of the governor's report.
-
-**Technical definition:** Accountability Meaning Of The Governor'S Report operates through the exact constitutional, statutory and institutional rules governing accountability meaning of the governor's report, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Accountability Meaning Of The Governor'S Report is best understood through the exact constitutional, statutory and institutional rules governing accountability meaning of the governor's report.
-
-#### MUST-WRITE KEYWORDS
-
-- **Fifth Schedule**
-- **Governor**
-- **Tribes Advisory Council**
-- **accountability**
-- **meaning**
-- **report**
-
-**How to use them:** Frame the answer through Fifth Schedule; define Governor, connect Tribes Advisory Council with accountability to explain the mechanism, and use meaning for the decisive comparison or qualification.
-
-**Visual 9 - Report-to-remedy loop**
+**Source visual - Report-to-remedy loop**
 
 ```text
 local evidence
@@ -664,51 +366,50 @@ public and legislative follow-up
 - [ANALYSIS] The report can convert local constitutional failures into an intergovernmental accountability record.
 - [LIMIT] The text does not itself prescribe a public template, tabling deadline or consequence for a weak report; institutional design must supply those controls.
 
-#### CLOSING RECALL FLOW — ACCOUNTABILITY MEANING OF THE GOVERNOR'S REPORT
+
+
+#### PRELIMS TRAP
+
+Governor reports to the President, not the Chief Minister to the Home Ministry.
+
+#### MAINS USE
+
+Use against the common 'State loses executive power' claim.
+
+#### RECAP
+
+State administers -> Governor reports -> President -> Union directions
+
+
+### SESSION 5 - TRIBES ADVISORY COUNCIL COMPOSITION AND FUNCTION
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: ACCOUNTABILITY MEANING OF THE GOVERNOR'S REPORT
-        |
-        v
-EXACT TERMS: Fifth Schedule · Governor · Tribes Advisory Council · accountability · meaning · report
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for accountability meaning of the governor's report.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of accountability meaning of the governor's report.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise accountability meaning of the governor's report beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Accountability Meaning Of The Governor'S Report is best understood through the exact constitutional, statutory and institutional rules governing accountability meaning of the governor's report.
+GOVERNOR REFERS -> TAC ADVISES -> EXECUTIVE RESPONDS
 ```
-### SESSION 10 — TRIBES ADVISORY COUNCIL: COMPOSITION
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: Governor refers -> TAC advises -> executive responds.*
 
-**Plain-language definition:** Tribes Advisory Council: Composition explains the exact constitutional, statutory and institutional rules governing tribes advisory council: composition.
+#### DEFINITION
 
-**Technical definition:** Tribes Advisory Council: Composition operates through the exact constitutional, statutory and institutional rules governing tribes advisory council: composition, with authority, procedure, limits and dated status kept distinct.
+A Tribes Advisory Council is a representative advisory institution, not a legislature.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Tribes Advisory Council: Composition is best understood through the exact constitutional, statutory and institutional rules governing tribes advisory council: composition.
+> It has not more than twenty members and, as nearly as may be, three-fourths must represent Scheduled Tribes in the State Legislative Assembly, with a shortfall rule.
 
 #### MUST-WRITE KEYWORDS
 
-- **Sixth Schedule**
-- **Autonomous District Council**
-- **Governor**
-- **tribes**
-- **advisory**
-- **council**
-- **composition**
+TAC; maximum twenty; three-fourths; ST Assembly representatives; welfare and advancement
 
-**How to use them:** Frame the answer through Sixth Schedule; define Autonomous District Council, connect Governor with tribes to explain the mechanism, and use advisory for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 10 - TAC design**
+**Claim:** TAC design connects tribal legislative representation to specialised advice. **Named evidence:** Fifth Schedule paragraph 4. **Analysis:** Advice can shape protective administration only when matters are referred and responses are reasoned. **Qualification:** Its advice is not binding law and its agenda depends on gubernatorial reference.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - TAC design**
 
 | Feature | Fifth Schedule rule |
 |---|---|
@@ -721,51 +422,7 @@ ANSWER-GRABBING FORMULATION: Accountability Meaning Of The Governor'S Report is 
 - [FACT] TAC composition seeks a legislative-representative connection rather than a purely bureaucratic advisory body.
 - [LIMIT] "Three-fourths ST MLAs" is shorthand. The Schedule says representatives of STs in the Assembly and supplies a shortfall rule.
 
-#### CLOSING RECALL FLOW — TRIBES ADVISORY COUNCIL: COMPOSITION
-
-```text
-START / CONCEPT: TRIBES ADVISORY COUNCIL: COMPOSITION
-        |
-        v
-EXACT TERMS: Sixth Schedule · Autonomous District Council · Governor · tribes · advisory · council · composition
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for tribes advisory council: composition.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of tribes advisory council: composition.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise tribes advisory council: composition beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Tribes Advisory Council: Composition is best understood through the exact constitutional, statutory and institutional rules governing tribes advisory council: composition.
-```
-### SESSION 11 — TAC DUTY AND ITS CEILING
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** TAC Duty And Its Ceiling explains the exact constitutional, statutory and institutional rules governing tac duty and its ceiling.
-
-**Technical definition:** TAC Duty And Its Ceiling operates through the exact constitutional, statutory and institutional rules governing tac duty and its ceiling, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> TAC Duty And Its Ceiling is best understood through the exact constitutional, statutory and institutional rules governing tac duty and its ceiling.
-
-#### MUST-WRITE KEYWORDS
-
-- **Fifth Schedule**
-- **Governor**
-- **Tribes Advisory Council**
-- **tac**
-- **duty**
-- **its**
-- **ceiling**
-
-**How to use them:** Frame the answer through Fifth Schedule; define Governor, connect Tribes Advisory Council with tac to explain the mechanism, and use duty for the decisive comparison or qualification.
-
-**Visual 11 - Advisory, not legislative**
+**Source visual - Advisory, not legislative**
 
 ```text
 Governor refers matter
@@ -784,50 +441,50 @@ NOT: statute | binding veto | executive order | court judgment
 - [ANALYSIS] Agenda control matters: an advisory body cannot scrutinise what is never referred.
 - [LIMIT] Do not describe TAC advice as legally binding or TAC as the Fifth Schedule equivalent of an Autonomous District Council.
 
-#### CLOSING RECALL FLOW — TAC DUTY AND ITS CEILING
+
+
+#### PRELIMS TRAP
+
+Do not copy the Sixth Schedule's thirty-member council rule into TAC.
+
+#### MAINS USE
+
+Use to evaluate institutional under-activation.
+
+#### RECAP
+
+Governor refers -> TAC advises -> executive responds
+
+
+### SESSION 6 - GOVERNOR'S LAW ADAPTATION AND REGULATION POWERS
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: TAC DUTY AND ITS CEILING
-        |
-        v
-EXACT TERMS: Fifth Schedule · Governor · Tribes Advisory Council · tac · duty · its · ceiling
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for tac duty and its ceiling.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of tac duty and its ceiling.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise tac duty and its ceiling beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: TAC Duty And Its Ceiling is best understood through the exact constitutional, statutory and institutional rules governing tac duty and its ceiling.
+ADAPT LAW OR REGULATE -> CONSULT TAC -> PRESIDENTIAL ASSENT
 ```
-### SESSION 12 — GOVERNOR'S LAW-APPLICATION POWER
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: adapt law OR regulate -> consult TAC -> Presidential assent.*
 
-**Plain-language definition:** Governor'S Law-Application Power explains the exact constitutional, statutory and institutional rules governing governor's law-application power.
+#### DEFINITION
 
-**Technical definition:** Governor'S Law-Application Power operates through the exact constitutional, statutory and institutional rules governing governor's law-application power, with authority, procedure, limits and dated status kept distinct.
+Paragraph 5 gives the Governor two distinct tools: adapting the application of legislation and making peace-and-good-government regulations.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Governor'S Law-Application Power is best understood through the exact constitutional, statutory and institutional rules governing governor's law-application power.
+> The Governor may exclude or modify parliamentary or State Acts for a Scheduled Area and regulate tribal land transfer, allotment and money-lending, subject to constitutional safeguards.
 
 #### MUST-WRITE KEYWORDS
 
-- **Fifth Schedule**
-- **Governor**
-- **Tribes Advisory Council**
-- **law**
-- **application**
-- **power**
+public notification; exceptions; modifications; retrospective effect; land transfer; money-lending; Presidential assent
 
-**How to use them:** Frame the answer through Fifth Schedule; define Governor, connect Tribes Advisory Council with law to explain the mechanism, and use application for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 12 - Paragraph 5(1) shield**
+**Claim:** Protective power is strongest when general law would otherwise facilitate alienation. **Named evidence:** Fifth Schedule paragraph 5. **Analysis:** The first tool filters existing law; the second creates tailored regulation. **Qualification:** Regulations require TAC consultation where one exists and have no effect until Presidential assent.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Paragraph 5(1) shield**
 
 ```text
 Act of Parliament or State Legislature
@@ -846,49 +503,7 @@ not apply          apply with          retrospective
 - [ANALYSIS] This is a constitutional adaptation power: general law can be filtered through local land, custom and institutional realities.
 - [LIMIT] It is not a general power to suspend the Constitution or Fundamental Rights.
 
-#### CLOSING RECALL FLOW — GOVERNOR'S LAW-APPLICATION POWER
-
-```text
-START / CONCEPT: GOVERNOR'S LAW-APPLICATION POWER
-        |
-        v
-EXACT TERMS: Fifth Schedule · Governor · Tribes Advisory Council · law · application · power
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for governor's law-application power.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of governor's law-application power.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise governor's law-application power beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Governor'S Law-Application Power is best understood through the exact constitutional, statutory and institutional rules governing governor's law-application power.
-```
-### SESSION 13 — GOVERNOR'S REGULATION POWER
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Governor'S Regulation Power explains the exact constitutional, statutory and institutional rules governing governor's regulation power.
-
-**Technical definition:** Governor'S Regulation Power operates through the exact constitutional, statutory and institutional rules governing governor's regulation power, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Governor'S Regulation Power is best understood through the exact constitutional, statutory and institutional rules governing governor's regulation power.
-
-#### MUST-WRITE KEYWORDS
-
-- **Fifth Schedule**
-- **Governor**
-- **Tribes Advisory Council**
-- **regulation**
-- **power**
-
-**How to use them:** Frame the answer through Fifth Schedule; define Governor, connect Tribes Advisory Council with regulation to explain the mechanism, and use power for the decisive comparison or qualification.
-
-**Visual 13 - Paragraph 5(2) protective subjects**
+**Source visual - Paragraph 5(2) protective subjects**
 
 | Regulation field | Protective purpose |
 |---|---|
@@ -897,7 +512,7 @@ ANSWER-GRABBING FORMULATION: Governor'S Law-Application Power is best understood
 | regulate allotment of land to ST members | secure access |
 | regulate money-lending to ST members | reduce exploitative credit |
 
-**Visual 14 - Regulation validity chain**
+**Source visual - Regulation validity chain**
 
 ```text
 draft regulation
@@ -917,49 +532,7 @@ NO EFFECT UNTIL PRESIDENTIAL ASSENT
 - [FACT] Consultation with the TAC is required before making such regulations where a TAC exists.
 - [LIMIT] PESA later adds broader statutory self-government functions; it does not erase the constitutional regulation route.
 
-#### CLOSING RECALL FLOW — GOVERNOR'S REGULATION POWER
-
-```text
-START / CONCEPT: GOVERNOR'S REGULATION POWER
-        |
-        v
-EXACT TERMS: Fifth Schedule · Governor · Tribes Advisory Council · regulation · power
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for governor's regulation power.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of governor's regulation power.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise governor's regulation power beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Governor'S Regulation Power is best understood through the exact constitutional, statutory and institutional rules governing governor's regulation power.
-```
-### SESSION 14 — GOVERNOR DISCRETION: SAFE ANSWER RULE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Governor Discretion: Safe Answer Rule explains the exact constitutional, statutory and institutional rules governing governor discretion: safe answer rule.
-
-**Technical definition:** Governor Discretion: Safe Answer Rule operates through the exact constitutional, statutory and institutional rules governing governor discretion: safe answer rule, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Governor Discretion: Safe Answer Rule is best understood through the exact constitutional, statutory and institutional rules governing governor discretion: safe answer rule.
-
-#### MUST-WRITE KEYWORDS
-
-- **Fifth Schedule**
-- **Governor**
-- **Tribes Advisory Council**
-- **discretion**
-- **rule**
-
-**How to use them:** Frame the answer through Fifth Schedule; define Governor, connect Tribes Advisory Council with discretion to explain the mechanism, and use rule for the decisive comparison or qualification.
-
-**Visual 15 - Text, convention and review**
+**Source visual - Text, convention and review**
 
 | Proposition | Safe treatment |
 |---|---|
@@ -970,51 +543,50 @@ ANSWER-GRABBING FORMULATION: Governor'S Regulation Power is best understood thro
 
 - [ANALYSIS] The exam-worthy criticism is not that the Governor owns sovereign tribal policy; it is that a protective constitutional power may remain under-used within an executive system dominated by ordinary State priorities.
 
-#### CLOSING RECALL FLOW — GOVERNOR DISCRETION: SAFE ANSWER RULE
+
+
+#### PRELIMS TRAP
+
+Fifth regulation -> President assent; Sixth council law -> Governor assent.
+
+#### MAINS USE
+
+Use as the institutional core of a Fifth Schedule answer.
+
+#### RECAP
+
+adapt law OR regulate -> consult TAC -> Presidential assent
+
+
+### SESSION 7 - FIFTH SCHEDULE AMENDMENT, ARTICLES 275, 339 AND 342
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: GOVERNOR DISCRETION: SAFE ANSWER RULE
-        |
-        v
-EXACT TERMS: Fifth Schedule · Governor · Tribes Advisory Council · discretion · rule
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for governor discretion: safe answer rule.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of governor discretion: safe answer rule.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise governor discretion: safe answer rule beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Governor Discretion: Safe Answer Rule is best understood through the exact constitutional, statutory and institutional rules governing governor discretion: safe answer rule.
+ORDINARY-LAW AMENDMENT + GRANTS + COMMISSION/DIRECTIONS + SEPARATE ST LIST
 ```
-### SESSION 15 — ARTICLE 339: COMMISSION AND UNION DIRECTIONS
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: ordinary-law amendment + grants + commission/directions + separate ST list.*
 
-**Plain-language definition:** Article 339: Commission And Union Directions explains the exact constitutional, statutory and institutional rules governing article 339: commission and union directions.
+#### DEFINITION
 
-**Technical definition:** Article 339: Commission And Union Directions operates through the exact constitutional, statutory and institutional rules governing article 339: commission and union directions, with authority, procedure, limits and dated status kept distinct.
+Territorial protection is supported by fiscal grants, Union supervision and a separate constitutional route for specifying Scheduled Tribes.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Article 339: Commission And Union Directions is best understood through the exact constitutional, statutory and institutional rules governing article 339: commission and union directions.
+> Paragraph 7 lets Parliament amend the Fifth Schedule by ordinary law and expressly excludes such law from Article 368 treatment.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 339**
-- **presidential commission**
-- **Union directions**
-- **article**
-- **commission**
-- **union**
-- **directions**
+paragraph 7; ordinary law; Article 275(1); Article 339; Article 342
 
-**How to use them:** Frame the answer through Article 339; define presidential commission, connect Union directions with article to explain the mechanism, and use commission for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 16 - Article 339's two clauses**
+**Claim:** The architecture combines adaptable text, finance, supervision and identity specification. **Named evidence:** Fifth Schedule paragraph 7 and Articles 275, 339 and 342. **Analysis:** These provisions support the Schedule without collapsing into one institution. **Qualification:** Article 342 concerns the ST list, not declaration of Scheduled Areas; wider reservation doctrine belongs elsewhere.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Article 339's two clauses**
 
 | Clause | Power | Precision |
 |---|---|---|
@@ -1024,50 +596,7 @@ ANSWER-GRABBING FORMULATION: Governor Discretion: Safe Answer Rule is best under
 - [FACT] The first Scheduled Areas and Scheduled Tribes Commission was chaired by U.N. Dhebar; a later commission was chaired by Dilip Singh Bhuria.
 - [LIMIT] Article 339(2) welfare-scheme directions and Fifth Schedule paragraph 3 directions on Scheduled-Area administration are related but textually distinct.
 
-#### CLOSING RECALL FLOW — ARTICLE 339: COMMISSION AND UNION DIRECTIONS
-
-```text
-START / CONCEPT: ARTICLE 339: COMMISSION AND UNION DIRECTIONS
-        |
-        v
-EXACT TERMS: Article 339 · presidential commission · Union directions · article · commission · union · directions
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for article 339: commission and union directions.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of article 339: commission and union directions.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise article 339: commission and union directions beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Article 339: Commission And Union Directions is best understood through the exact constitutional, statutory and institutional rules governing article 339: commission and union directions.
-```
-### SESSION 16 — ARTICLE 275(1): FISCAL SUPPORT
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Article 275(1): Fiscal Support explains the exact constitutional, statutory and institutional rules governing article 275(1): fiscal support.
-
-**Technical definition:** Article 275(1): Fiscal Support operates through the exact constitutional, statutory and institutional rules governing article 275(1): fiscal support, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Article 275(1): Fiscal Support is best understood through the exact constitutional, statutory and institutional rules governing article 275(1): fiscal support.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 275**
-- **grants-in-aid**
-- **tribal welfare**
-- **article**
-- **fiscal**
-- **support**
-
-**How to use them:** Frame the answer through Article 275; define grants-in-aid, connect tribal welfare with article to explain the mechanism, and use fiscal for the decisive comparison or qualification.
-
-**Visual 17 - Constitutional finance chain**
+**Source visual - Constitutional finance chain**
 
 ```text
 Parliament provides grants-in-aid
@@ -1085,51 +614,7 @@ State implementation + constitutional accountability
 - [ANALYSIS] Fiscal equalisation is essential because formal autonomy without administrative capacity can reproduce dependence.
 - [LIMIT] A grant is not proof of devolution, rights recognition or outcomes.
 
-#### CLOSING RECALL FLOW — ARTICLE 275(1): FISCAL SUPPORT
-
-```text
-START / CONCEPT: ARTICLE 275(1): FISCAL SUPPORT
-        |
-        v
-EXACT TERMS: Article 275 · grants-in-aid · tribal welfare · article · fiscal · support
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for article 275(1): fiscal support.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of article 275(1): fiscal support.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise article 275(1): fiscal support beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Article 275(1): Fiscal Support is best understood through the exact constitutional, statutory and institutional rules governing article 275(1): fiscal support.
-```
-### SESSION 17 — FIFTH SCHEDULE INSTITUTIONAL DASHBOARD
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Fifth Schedule Institutional Dashboard explains the exact constitutional, statutory and institutional rules governing fifth schedule institutional dashboard.
-
-**Technical definition:** Fifth Schedule Institutional Dashboard operates through the exact constitutional, statutory and institutional rules governing fifth schedule institutional dashboard, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Fifth Schedule Institutional Dashboard is best understood through the exact constitutional, statutory and institutional rules governing fifth schedule institutional dashboard.
-
-#### MUST-WRITE KEYWORDS
-
-- **Fifth Schedule**
-- **Governor**
-- **Tribes Advisory Council**
-- **fifth**
-- **schedule**
-- **institutional**
-- **dashboard**
-
-**How to use them:** Frame the answer through Fifth Schedule; define Governor, connect Tribes Advisory Council with fifth to explain the mechanism, and use schedule for the decisive comparison or qualification.
-
-**Visual 18 - Who does what?**
+**Source visual - Who does what?**
 
 | Actor | Core role | Accountability risk |
 |---|---|---|
@@ -1139,7 +624,7 @@ ANSWER-GRABBING FORMULATION: Article 275(1): Fiscal Support is best understood t
 | TAC | advice on referred welfare/advancement matters | weak agenda and non-binding advice |
 | Gram Sabha under PESA/FRA | specified participatory, resource and rights functions | capacity, record and enforcement gaps |
 
-**Visual 19 - Fifth Schedule performance equation**
+**Source visual - Fifth Schedule performance equation**
 
 ```text
 constitutional power
@@ -1152,51 +637,56 @@ constitutional power
 
 - [ANALYSIS] A strong text can deliver weak protection if any multiplier approaches zero.
 
-#### CLOSING RECALL FLOW — FIFTH SCHEDULE INSTITUTIONAL DASHBOARD
+
+##### FIFTH SCHEDULE PARAGRAPH 7
+
+- [FACT] Parliament may, by ordinary law, add to, vary or repeal provisions of the Fifth Schedule.
+- [FACT] Paragraph 7(2) expressly says such a law is not deemed an amendment of the Constitution for Article 368.
+- [LIMIT] The special amendment route does not free Parliament from Fundamental Rights, federal structure or judicial review.
+
+
+#### PRELIMS TRAP
+
+Do not call every change to the Fifth Schedule a constitutional amendment under Article 368.
+
+#### MAINS USE
+
+Use to add fiscal and supervisory depth without losing the territorial focus.
+
+#### RECAP
+
+ordinary-law amendment + grants + commission/directions + separate ST list
+
+
+### SESSION 8 - SIXTH SCHEDULE SCOPE AND TERRITORIAL ORGANISATION
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: FIFTH SCHEDULE INSTITUTIONAL DASHBOARD
-        |
-        v
-EXACT TERMS: Fifth Schedule · Governor · Tribes Advisory Council · fifth · schedule · institutional · dashboard
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for fifth schedule institutional dashboard.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of fifth schedule institutional dashboard.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise fifth schedule institutional dashboard beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Fifth Schedule Institutional Dashboard is best understood through the exact constitutional, statutory and institutional rules governing fifth schedule institutional dashboard.
+FOUR STATES -> DISTRICT -> DISTINCT TRIBES -> REGION
 ```
-### SESSION 18 — SIXTH SCHEDULE TERRITORIAL MAP
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: four States -> district -> distinct tribes -> region.*
 
-**Plain-language definition:** Sixth Schedule Territorial Map explains the exact constitutional, statutory and institutional rules governing sixth schedule territorial map.
+#### DEFINITION
 
-**Technical definition:** Sixth Schedule Territorial Map operates through the exact constitutional, statutory and institutional rules governing sixth schedule territorial map, with authority, procedure, limits and dated status kept distinct.
+The Sixth Schedule constitutionally organises specified tribal areas in Assam, Meghalaya, Tripura and Mizoram as autonomous districts and, where needed, regions.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Sixth Schedule Territorial Map is best understood through the exact constitutional, statutory and institutional rules governing sixth schedule territorial map.
+> The Governor may create, alter, unite, rename and redefine autonomous districts or regions through the Schedule's procedures.
 
 #### MUST-WRITE KEYWORDS
 
-- **Sixth Schedule**
-- **Autonomous District Council**
-- **Governor**
-- **sixth**
-- **schedule**
-- **territorial**
-- **map**
+Assam; Meghalaya; Tripura; Mizoram; autonomous district; autonomous region; Governor
 
-**How to use them:** Frame the answer through Sixth Schedule; define Autonomous District Council, connect Governor with sixth to explain the mechanism, and use schedule for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 20 - Four-State constitutional field**
+**Claim:** Territorial organisation allows autonomy to follow distinct tribal concentrations. **Named evidence:** Sixth Schedule paragraphs 1 and 20. **Analysis:** District and regional design can protect internal diversity within a larger autonomous district. **Qualification:** An autonomous district remains within the State and is not a sovereign enclave.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Four-State constitutional field**
 
 ```text
 ASSAM        MEGHALAYA       TRIPURA        MIZORAM
@@ -1209,50 +699,7 @@ District / Regional Councils under the Sixth Schedule
 - [FACT] The Sixth Schedule operates only in Assam, Meghalaya, Tripura and Mizoram.
 - [LIMIT] Nagaland, Manipur and Arunachal Pradesh have other constitutional/statutory arrangements; do not add them to the Sixth Schedule list.
 
-#### CLOSING RECALL FLOW — SIXTH SCHEDULE TERRITORIAL MAP
-
-```text
-START / CONCEPT: SIXTH SCHEDULE TERRITORIAL MAP
-        |
-        v
-EXACT TERMS: Sixth Schedule · Autonomous District Council · Governor · sixth · schedule · territorial · map
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for sixth schedule territorial map.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of sixth schedule territorial map.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise sixth schedule territorial map beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Sixth Schedule Territorial Map is best understood through the exact constitutional, statutory and institutional rules governing sixth schedule territorial map.
-```
-### SESSION 19 — AUTONOMOUS DISTRICT AND AUTONOMOUS REGION
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Autonomous District And Autonomous Region explains the exact constitutional, statutory and institutional rules governing autonomous district and autonomous region.
-
-**Technical definition:** Autonomous District And Autonomous Region operates through the exact constitutional, statutory and institutional rules governing autonomous district and autonomous region, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Autonomous District And Autonomous Region is best understood through the exact constitutional, statutory and institutional rules governing autonomous district and autonomous region.
-
-#### MUST-WRITE KEYWORDS
-
-- **Sixth Schedule**
-- **Autonomous District Council**
-- **Governor**
-- **autonomous**
-- **district**
-- **region**
-
-**How to use them:** Frame the answer through Sixth Schedule; define Autonomous District Council, connect Governor with autonomous to explain the mechanism, and use district for the decisive comparison or qualification.
-
-**Visual 21 - Territorial nesting**
+**Source visual - Territorial nesting**
 
 ```text
 STATE
@@ -1274,50 +721,7 @@ STATE
 - [FACT] Where different STs inhabit an autonomous district, the Governor may divide it into autonomous regions.
 - [LIMIT] An autonomous district remains within the State and subject to the Constitution; it is not a sovereign enclave.
 
-#### CLOSING RECALL FLOW — AUTONOMOUS DISTRICT AND AUTONOMOUS REGION
-
-```text
-START / CONCEPT: AUTONOMOUS DISTRICT AND AUTONOMOUS REGION
-        |
-        v
-EXACT TERMS: Sixth Schedule · Autonomous District Council · Governor · autonomous · district · region
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for autonomous district and autonomous region.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of autonomous district and autonomous region.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise autonomous district and autonomous region beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Autonomous District And Autonomous Region is best understood through the exact constitutional, statutory and institutional rules governing autonomous district and autonomous region.
-```
-### SESSION 20 — GOVERNOR'S TERRITORIAL ORGANISATION POWER
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Governor'S Territorial Organisation Power explains the exact constitutional, statutory and institutional rules governing governor's territorial organisation power.
-
-**Technical definition:** Governor'S Territorial Organisation Power operates through the exact constitutional, statutory and institutional rules governing governor's territorial organisation power, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Governor'S Territorial Organisation Power is best understood through the exact constitutional, statutory and institutional rules governing governor's territorial organisation power.
-
-#### MUST-WRITE KEYWORDS
-
-- **Fifth Schedule**
-- **Governor**
-- **Tribes Advisory Council**
-- **territorial**
-- **organisation**
-- **power**
-
-**How to use them:** Frame the answer through Fifth Schedule; define Governor, connect Tribes Advisory Council with territorial to explain the mechanism, and use organisation for the decisive comparison or qualification.
-
-**Visual 22 - Reorganisation tools**
+**Source visual - Reorganisation tools**
 
 | Governor may by public notification | Constitutional effect |
 |---|---|
@@ -1331,52 +735,50 @@ ANSWER-GRABBING FORMULATION: Autonomous District And Autonomous Region is best u
 - [FACT] The Schedule gives the Governor substantial territorial-organisation power, subject to its procedures.
 - [LIMIT] Reorganisation is not equivalent to State creation under Articles 2-3.
 
-#### CLOSING RECALL FLOW — GOVERNOR'S TERRITORIAL ORGANISATION POWER
+
+
+#### PRELIMS TRAP
+
+Do not include every North-Eastern State in the Sixth Schedule.
+
+#### MAINS USE
+
+Use to establish scope before discussing council powers.
+
+#### RECAP
+
+four States -> district -> distinct tribes -> region
+
+
+### SESSION 9 - COUNCIL COMPOSITION AND BOUNDED EXCEPTIONS
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: GOVERNOR'S TERRITORIAL ORGANISATION POWER
-        |
-        v
-EXACT TERMS: Fifth Schedule · Governor · Tribes Advisory Council · territorial · organisation · power
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for governor's territorial organisation power.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of governor's territorial organisation power.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise governor's territorial organisation power beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Governor'S Territorial Organisation Power is best understood through the exact constitutional, statutory and institutional rules governing governor's territorial organisation power.
+ORDINARY CEILING -> ELECTED MAJORITY -> NAMED CONSTITUTIONAL EXCEPTIONS
 ```
-### SESSION 21 — COUNCIL COMPOSITION: ORDINARY MODEL AND EXCEPTIONS
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: ordinary ceiling -> elected majority -> named constitutional exceptions.*
 
-**Plain-language definition:** Council Composition: Ordinary Model And Exceptions explains the exact constitutional, statutory and institutional rules governing council composition: ordinary model and exceptions.
+#### DEFINITION
 
-**Technical definition:** Council Composition: Ordinary Model And Exceptions operates through the exact constitutional, statutory and institutional rules governing council composition: ordinary model and exceptions, with authority, procedure, limits and dated status kept distinct.
+The ordinary District Council has not more than thirty members, with not more than four nominated by the Governor and the rest elected by adult suffrage.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Council Composition: Ordinary Model And Exceptions is best understood through the exact constitutional, statutory and institutional rules governing council composition: ordinary model and exceptions.
+> Composition is a default rule modified by State- and council-specific constitutional amendments.
 
 #### MUST-WRITE KEYWORDS
 
-- **Sixth Schedule**
-- **Autonomous District Council**
-- **Governor**
-- **council**
-- **composition**
-- **ordinary**
-- **model**
-- **exceptions**
+up to thirty; up to four nominated; adult suffrage; five-year term; Bodoland exception
 
-**How to use them:** Frame the answer through Sixth Schedule; define Autonomous District Council, connect Governor with council to explain the mechanism, and use composition for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 23 - Ordinary paragraph 2 model**
+**Claim:** Representation rules reveal that Sixth Schedule autonomy is internally asymmetric. **Named evidence:** Paragraph 2 and the 2003 Bodoland amendment. **Analysis:** The Bodoland Territorial Council has up to forty-six members: forty elected and six nominated, with specified representation. **Qualification:** Do not generalise Bodoland's forty-six-member design to Karbi Anglong, Dima Hasao or other councils.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Ordinary paragraph 2 model**
 
 ```text
 DISTRICT COUNCIL: not more than 30 members
@@ -1392,7 +794,7 @@ nominated tenure: pleasure of Governor
 - [FACT] The ordinary model is "up to 30", not an invariable 30.
 - [FACT] Special constitutional amendments create exceptions.
 
-**Visual 24 - Bodoland exception**
+**Source visual - Bodoland exception**
 
 | Ordinary council | Bodoland Territorial Council special design |
 |---|---|
@@ -1403,49 +805,7 @@ nominated tenure: pleasure of Governor
 - [CURRENT] Assam's official portal identifies BTC, Karbi Anglong and Dima Hasao/North Cachar Hills councils as its Sixth Schedule autonomous-council institutions.
 - [LIMIT] Do not generalise BTC's composition or subject list to all councils.
 
-#### CLOSING RECALL FLOW — COUNCIL COMPOSITION: ORDINARY MODEL AND EXCEPTIONS
-
-```text
-START / CONCEPT: COUNCIL COMPOSITION: ORDINARY MODEL AND EXCEPTIONS
-        |
-        v
-EXACT TERMS: Sixth Schedule · Autonomous District Council · Governor · council · composition · ordinary · model · exceptions
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for council composition: ordinary model and exceptions.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of council composition: ordinary model and exceptions.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise council composition: ordinary model and exceptions beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Council Composition: Ordinary Model And Exceptions is best understood through the exact constitutional, statutory and institutional rules governing council composition: ordinary model and exceptions.
-```
-### SESSION 22 — CURRENT INSTITUTIONAL EXAMPLES
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Current Institutional Examples explains the exact constitutional, statutory and institutional rules governing current institutional examples.
-
-**Technical definition:** Current Institutional Examples operates through the exact constitutional, statutory and institutional rules governing current institutional examples, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Current Institutional Examples is best understood through the exact constitutional, statutory and institutional rules governing current institutional examples.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **institutional**
-- **examples**
-
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with institutional to explain the mechanism, and use examples for the decisive comparison or qualification.
-
-**Visual 25 - State-wise council examples**
+**Source visual - State-wise council examples**
 
 | State | Officially supported examples | Safe recall |
 |---|---|---|
@@ -1456,50 +816,57 @@ ANSWER-GRABBING FORMULATION: Council Composition: Ordinary Model And Exceptions 
 
 - [LIMIT] Council names, rules and officeholders are institution-specific. The constitutional power map is common only to the extent the Schedule says so.
 
-#### CLOSING RECALL FLOW — CURRENT INSTITUTIONAL EXAMPLES
+
+##### BODOLAND COMPOSITION - BOUNDED EXCEPTION
+
+- [FACT] The 2003 amendment permits up to forty-six members: forty elected and six nominated by the Governor.
+- [FACT] Of the forty elected seats, thirty are reserved for Scheduled Tribes, five for non-tribal communities and five are open to all communities.
+- [FACT] The six nominees come from unrepresented communities, have the same rights including voting rights, and at least two must be women.
+- [LIMIT] This design belongs to the Bodoland Territorial Council and is not the default rule for every ADC.
+
+
+#### PRELIMS TRAP
+
+The ordinary model is a ceiling, not thirty compulsory members.
+
+#### MAINS USE
+
+Use for composition questions and State-specific qualification.
+
+#### RECAP
+
+ordinary ceiling -> elected majority -> named constitutional exceptions
+
+
+### SESSION 10 - ARTICLE 244A AND ASSAM'S DEEPER AUTONOMY ROUTE
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: CURRENT INSTITUTIONAL EXAMPLES
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · institutional · examples
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for current institutional examples.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of current institutional examples.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise current institutional examples beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Current Institutional Examples is best understood through the exact constitutional, statutory and institutional rules governing current institutional examples.
+ADC POWERS -> ASSAM-SPECIFIC ADDITIONS -> SEPARATE 244A ROUTE
 ```
-### SESSION 23 — SPECIAL ASSAM ARRANGEMENTS
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: ADC powers -> Assam-specific additions -> separate 244A route.*
 
-**Plain-language definition:** Special Assam Arrangements explains the exact constitutional, statutory and institutional rules governing special assam arrangements.
+#### DEFINITION
 
-**Technical definition:** Special Assam Arrangements operates through the exact constitutional, statutory and institutional rules governing special assam arrangements, with authority, procedure, limits and dated status kept distinct.
+Article 244A enables Parliament to form within Assam an autonomous State comprising specified tribal areas, with a legislature, Council of Ministers or both.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Special Assam Arrangements is best understood through the exact constitutional, statutory and institutional rules governing special assam arrangements.
+> Article 244A is a separate parliamentary route deeper than ordinary district-council autonomy.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **special**
-- **assam**
-- **arrangements**
+Article 244A; Assam; autonomous State; legislature; Council of Ministers; parliamentary law
 
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with special to explain the mechanism, and use assam for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 26 - Assam's layered autonomy**
+**Claim:** The provision shows that the Constitution offers more than one scale of autonomy within Assam. **Named evidence:** Article 244A and Sixth Schedule paragraphs 3A and 3B. **Analysis:** Assam-specific additions enlarge subjects for Karbi Anglong, Dima Hasao and Bodoland without converting them into States. **Qualification:** Article 244A is enabling and has not automatically transformed any existing council.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Assam's layered autonomy**
 
 ```text
 SIXTH SCHEDULE ORDINARY POWERS
@@ -1519,51 +886,54 @@ SIXTH SCHEDULE ORDINARY POWERS
 - [ANALYSIS] The Sixth Schedule is therefore asymmetric even within the four-State field.
 - [LIMIT] Article 244A's autonomous-State possibility is distinct from the current legal status of an ADC and does not convert BTC, KAAC or the Dima Hasao council into a State.
 
-#### CLOSING RECALL FLOW — SPECIAL ASSAM ARRANGEMENTS
+
+##### ARTICLE 244A - EXACT ROUTE
+
+The Constitution (Twenty-second Amendment) Act, 1969 inserted Article 244A. Parliament may by law form within Assam an autonomous State comprising all or any of the tribal areas in Part I of the Sixth Schedule and create for it a legislature, a Council of Ministers, or both. The law may allocate legislative and executive functions and provide financial relations. The route is enabling, Assam-specific and distinct from merely reorganising an autonomous district.
+
+
+#### PRELIMS TRAP
+
+BTC is neither a Fifth Schedule TAC nor an autonomous State under Article 244A.
+
+#### MAINS USE
+
+Use to distinguish council, autonomous State and full Statehood.
+
+#### RECAP
+
+ADC powers -> Assam-specific additions -> separate 244A route
+
+
+### SESSION 11 - COUNCIL LEGISLATIVE POWERS AND ASSENT
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: SPECIAL ASSAM ARRANGEMENTS
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · special · assam · arrangements
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for special assam arrangements.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of special assam arrangements.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise special assam arrangements beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Special Assam Arrangements is best understood through the exact constitutional, statutory and institutional rules governing special assam arrangements.
+SPECIFIED FIELD -> COUNCIL LAW -> GOVERNOR ASSENT
 ```
-### SESSION 24 — SIXTH SCHEDULE LEGISLATIVE POWERS
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: specified field -> council law -> Governor assent.*
 
-**Plain-language definition:** Sixth Schedule Legislative Powers explains the exact constitutional, statutory and institutional rules governing sixth schedule legislative powers.
+#### DEFINITION
 
-**Technical definition:** Sixth Schedule Legislative Powers operates through the exact constitutional, statutory and institutional rules governing sixth schedule legislative powers, with authority, procedure, limits and dated status kept distinct.
+District and Regional Councils legislate only over the fields specified by the Sixth Schedule and applicable amendments.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Sixth Schedule Legislative Powers is best understood through the exact constitutional, statutory and institutional rules governing sixth schedule legislative powers.
+> Core fields include land, non-reserved forests, agricultural water, shifting cultivation, village administration, chiefs, inheritance, marriage, divorce and social customs.
 
 #### MUST-WRITE KEYWORDS
 
-- **Sixth Schedule**
-- **Autonomous District Council**
-- **Governor**
-- **sixth**
-- **schedule**
-- **legislative**
-- **powers**
+paragraph 3; non-reserved forest; shifting cultivation; customs; Governor assent
 
-**How to use them:** Frame the answer through Sixth Schedule; define Autonomous District Council, connect Governor with sixth to explain the mechanism, and use schedule for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 27 - Paragraph 3 subject map**
+**Claim:** Council law-making constitutionalises customary and territorial self-government. **Named evidence:** Sixth Schedule paragraph 3. **Analysis:** A law has no effect until assented to by the Governor. **Qualification:** Reserved forests and plenary State-List competence remain outside the ordinary paragraph 3 grant.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Paragraph 3 subject map**
 
 | Council law field | Core scope |
 |---|---|
@@ -1576,7 +946,7 @@ ANSWER-GRABBING FORMULATION: Special Assam Arrangements is best understood throu
 | family/property custom | inheritance |
 | personal/customary law | marriage, divorce and social customs |
 
-**Visual 28 - Council-law validity chain**
+**Source visual - Council-law validity chain**
 
 ```text
 District / Regional Council passes law
@@ -1591,51 +961,7 @@ NO EFFECT UNTIL GOVERNOR'S ASSENT
 - [FACT] These powers are legislative in character and materially stronger than TAC advice.
 - [LIMIT] The subject list is specified and bounded; a council does not possess the plenary competence of a State legislature.
 
-#### CLOSING RECALL FLOW — SIXTH SCHEDULE LEGISLATIVE POWERS
-
-```text
-START / CONCEPT: SIXTH SCHEDULE LEGISLATIVE POWERS
-        |
-        v
-EXACT TERMS: Sixth Schedule · Autonomous District Council · Governor · sixth · schedule · legislative · powers
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for sixth schedule legislative powers.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of sixth schedule legislative powers.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise sixth schedule legislative powers beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Sixth Schedule Legislative Powers is best understood through the exact constitutional, statutory and institutional rules governing sixth schedule legislative powers.
-```
-### SESSION 25 — RESERVED FOREST AND MINERAL TRAPS
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Reserved Forest And Mineral Traps explains the exact constitutional, statutory and institutional rules governing reserved forest and mineral traps.
-
-**Technical definition:** Reserved Forest And Mineral Traps operates through the exact constitutional, statutory and institutional rules governing reserved forest and mineral traps, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Reserved Forest And Mineral Traps is best understood through the exact constitutional, statutory and institutional rules governing reserved forest and mineral traps.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **reserved**
-- **forest**
-- **mineral**
-- **traps**
-
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with reserved to explain the mechanism, and use forest for the decisive comparison or qualification.
-
-**Visual 29 - What paragraph 3 does not give**
+**Source visual - What paragraph 3 does not give**
 
 | Tempting claim | Correct position |
 |---|---|
@@ -1646,51 +972,50 @@ ANSWER-GRABBING FORMULATION: Sixth Schedule Legislative Powers is best understoo
 
 - [ANALYSIS] UPSC often converts one omitted adjective - "reserved" or "specified" - into the decisive close-option trap.
 
-#### CLOSING RECALL FLOW — RESERVED FOREST AND MINERAL TRAPS
+
+
+#### PRELIMS TRAP
+
+One omitted word - 'reserved' - can reverse the answer.
+
+#### MAINS USE
+
+Use to show autonomy and its subject-matter ceiling.
+
+#### RECAP
+
+specified field -> council law -> Governor assent
+
+
+### SESSION 12 - COUNCIL EXECUTIVE AND SERVICE-DELIVERY FUNCTIONS
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: RESERVED FOREST AND MINERAL TRAPS
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · reserved · forest · mineral · traps
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for reserved forest and mineral traps.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of reserved forest and mineral traps.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise reserved forest and mineral traps beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Reserved Forest And Mineral Traps is best understood through the exact constitutional, statutory and institutional rules governing reserved forest and mineral traps.
+CONSTITUTIONAL FUNCTION -> STAFF/FUND TRANSFER -> ACCOUNTABLE SERVICE
 ```
-### SESSION 26 — SIXTH SCHEDULE EXECUTIVE FUNCTIONS
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: constitutional function -> staff/fund transfer -> accountable service.*
 
-**Plain-language definition:** Sixth Schedule Executive Functions explains the exact constitutional, statutory and institutional rules governing sixth schedule executive functions.
+#### DEFINITION
 
-**Technical definition:** Sixth Schedule Executive Functions operates through the exact constitutional, statutory and institutional rules governing sixth schedule executive functions, with authority, procedure, limits and dated status kept distinct.
+The Sixth Schedule permits councils to establish or manage specified local institutions and receive additional entrusted functions.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Sixth Schedule Executive Functions is best understood through the exact constitutional, statutory and institutional rules governing sixth schedule executive functions.
+> Schools, dispensaries, markets, ferries, fisheries, roads and related local services form the constitutional service basket.
 
 #### MUST-WRITE KEYWORDS
 
-- **Sixth Schedule**
-- **Autonomous District Council**
-- **Governor**
-- **sixth**
-- **schedule**
-- **executive**
-- **functions**
+paragraph 6; primary schools; dispensaries; markets; ferries; fisheries; roads
 
-**How to use them:** Frame the answer through Sixth Schedule; define Autonomous District Council, connect Governor with sixth to explain the mechanism, and use schedule for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 30 - Local administration basket**
+**Claim:** Autonomy becomes real only when functions are matched by staff and funds. **Named evidence:** Sixth Schedule paragraph 6. **Analysis:** Local service authority can adapt administration to terrain, language and custom. **Qualification:** Formal subject allocation does not prove operational transfer or adequate capacity.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Local administration basket**
 
 ```text
 District Council
@@ -1707,51 +1032,50 @@ District Council
 - [FACT] The Governor may entrust additional functions relating to subjects such as agriculture, animal husbandry, community projects, cooperatives, social welfare and village planning.
 - [LIMIT] Actual functional transfer depends on the applicable constitutional amendment, State-council arrangements, rules, staff and finance.
 
-#### CLOSING RECALL FLOW — SIXTH SCHEDULE EXECUTIVE FUNCTIONS
+
+
+#### PRELIMS TRAP
+
+Do not call every State department function an inherent council function.
+
+#### MAINS USE
+
+Use in governance answers on the three Fs: functions, functionaries and funds.
+
+#### RECAP
+
+constitutional function -> staff/fund transfer -> accountable service
+
+
+### SESSION 13 - VILLAGE COURTS AND JUDICIAL POWERS
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: SIXTH SCHEDULE EXECUTIVE FUNCTIONS
-        |
-        v
-EXACT TERMS: Sixth Schedule · Autonomous District Council · Governor · sixth · schedule · executive · functions
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for sixth schedule executive functions.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of sixth schedule executive functions.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise sixth schedule executive functions beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Sixth Schedule Executive Functions is best understood through the exact constitutional, statutory and institutional rules governing sixth schedule executive functions.
+LOCAL DISPUTE -> VILLAGE/COUNCIL COURT -> APPEAL/REVIEW UNDER LAW
 ```
-### SESSION 27 — SIXTH SCHEDULE JUDICIAL POWERS
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: local dispute -> village/council court -> appeal/review under law.*
 
-**Plain-language definition:** Sixth Schedule Judicial Powers explains the exact constitutional, statutory and institutional rules governing sixth schedule judicial powers.
+#### DEFINITION
 
-**Technical definition:** Sixth Schedule Judicial Powers operates through the exact constitutional, statutory and institutional rules governing sixth schedule judicial powers, with authority, procedure, limits and dated status kept distinct.
+The Sixth Schedule authorises village councils or courts and appellate arrangements for specified disputes in the autonomous area.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Sixth Schedule Judicial Powers is best understood through the exact constitutional, statutory and institutional rules governing sixth schedule judicial powers.
+> The jurisdiction is bounded by the Schedule, applicable rules, parties, territory and offence or dispute type.
 
 #### MUST-WRITE KEYWORDS
 
-- **Sixth Schedule**
-- **Autonomous District Council**
-- **Governor**
-- **sixth**
-- **schedule**
-- **judicial**
-- **powers**
+paragraph 4; village councils; council courts; tribal parties; appeals; High Court
 
-**How to use them:** Frame the answer through Sixth Schedule; define Autonomous District Council, connect Governor with sixth to explain the mechanism, and use schedule for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 31 - Customary justice boundary**
+**Claim:** Customary adjudication can improve access while remaining nested in constitutional justice. **Named evidence:** Sixth Schedule paragraph 4. **Analysis:** Local forums reduce distance and recognise customary norms. **Qualification:** They do not replace High Courts or possess unlimited civil and criminal jurisdiction.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Customary justice boundary**
 
 ```text
 dispute / offence arises in autonomous area
@@ -1771,51 +1095,50 @@ specified jurisdiction
 - [FACT] The Governor frames/approves important jurisdictional and procedural rules under the Schedule.
 - [LIMIT] These bodies are not unrestricted substitutes for constitutional High Courts or the entire criminal-justice system.
 
-#### CLOSING RECALL FLOW — SIXTH SCHEDULE JUDICIAL POWERS
+
+
+#### PRELIMS TRAP
+
+ADC court is not a parallel sovereign judiciary.
+
+#### MAINS USE
+
+Use to show that Sixth Schedule power is legislative, executive, judicial and fiscal.
+
+#### RECAP
+
+local dispute -> village/council court -> appeal/review under law
+
+
+### SESSION 14 - LAND REVENUE, TAXES, MARKETS AND LICENCES
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: SIXTH SCHEDULE JUDICIAL POWERS
-        |
-        v
-EXACT TERMS: Sixth Schedule · Autonomous District Council · Governor · sixth · schedule · judicial · powers
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for sixth schedule judicial powers.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of sixth schedule judicial powers.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise sixth schedule judicial powers beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Sixth Schedule Judicial Powers is best understood through the exact constitutional, statutory and institutional rules governing sixth schedule judicial powers.
+ENUMERATED LEVY/REGULATION -> COUNCIL FUND -> AUDIT/ACCOUNTABILITY
 ```
-### SESSION 28 — SIXTH SCHEDULE FISCAL POWERS
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: enumerated levy/regulation -> council fund -> audit/accountability.*
 
-**Plain-language definition:** Sixth Schedule Fiscal Powers explains the exact constitutional, statutory and institutional rules governing sixth schedule fiscal powers.
+#### DEFINITION
 
-**Technical definition:** Sixth Schedule Fiscal Powers operates through the exact constitutional, statutory and institutional rules governing sixth schedule fiscal powers, with authority, procedure, limits and dated status kept distinct.
+District and Regional Councils possess enumerated fiscal and regulatory powers rather than general taxing sovereignty.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Sixth Schedule Fiscal Powers is best understood through the exact constitutional, statutory and institutional rules governing sixth schedule fiscal powers.
+> They may assess land revenue, levy specified taxes and regulate markets, money-lending and trading by non-tribals under the relevant paragraphs.
 
 #### MUST-WRITE KEYWORDS
 
-- **Sixth Schedule**
-- **Autonomous District Council**
-- **Governor**
-- **sixth**
-- **schedule**
-- **fiscal**
-- **powers**
+land revenue; District Fund; Regional Fund; markets; professions; vehicles; licensing; three-fourths
 
-**How to use them:** Frame the answer through Sixth Schedule; define Autonomous District Council, connect Governor with sixth to explain the mechanism, and use schedule for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 32 - Revenue basket**
+**Claim:** Own-source revenue supports autonomy when levies remain lawful and auditable. **Named evidence:** Sixth Schedule paragraphs 7, 8 and 10. **Analysis:** Paragraph 10 licensing regulations require a three-fourths majority and Governor assent, subject to its protection for established traders. **Qualification:** Enumerated taxes do not include every modern tax or confer immunity from audit.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Revenue basket**
 
 | Power | Examples under the Schedule |
 |---|---|
@@ -1828,50 +1151,50 @@ ANSWER-GRABBING FORMULATION: Sixth Schedule Judicial Powers is best understood t
 - [FACT] Councils have constitutionally recognised revenue powers that a Fifth Schedule TAC does not possess.
 - [LIMIT] The exact levy must fit the Schedule and valid council law; "fiscal autonomy" does not mean immunity from audit, State law or constitutional limits.
 
-#### CLOSING RECALL FLOW — SIXTH SCHEDULE FISCAL POWERS
+
+
+#### PRELIMS TRAP
+
+Do not turn market regulation into a blanket power over all commerce.
+
+#### MAINS USE
+
+Use to explain why an ADC is stronger than a TAC.
+
+#### RECAP
+
+enumerated levy/regulation -> council fund -> audit/accountability
+
+
+### SESSION 15 - MINERAL ROYALTY SHARING
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: SIXTH SCHEDULE FISCAL POWERS
-        |
-        v
-EXACT TERMS: Sixth Schedule · Autonomous District Council · Governor · sixth · schedule · fiscal · powers
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for sixth schedule fiscal powers.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of sixth schedule fiscal powers.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise sixth schedule fiscal powers beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Sixth Schedule Fiscal Powers is best understood through the exact constitutional, statutory and institutional rules governing sixth schedule fiscal powers.
+STATE LEASE -> ROYALTY -> AGREED COUNCIL SHARE -> GOVERNOR DECIDES DISPUTE
 ```
-### SESSION 29 — MINERAL ROYALTY ARRANGEMENT
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: State lease -> royalty -> agreed council share -> Governor decides dispute.*
 
-**Plain-language definition:** Mineral Royalty Arrangement explains the exact constitutional, statutory and institutional rules governing mineral royalty arrangement.
+#### DEFINITION
 
-**Technical definition:** Mineral Royalty Arrangement operates through the exact constitutional, statutory and institutional rules governing mineral royalty arrangement, with authority, procedure, limits and dated status kept distinct.
+Paragraph 9 creates a revenue-sharing mechanism for mineral licences or leases in an autonomous district.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Mineral Royalty Arrangement is best understood through the exact constitutional, statutory and institutional rules governing mineral royalty arrangement.
+> The State and District Council agree the share of annual royalties; a dispute goes to the Governor for determination.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **mineral**
-- **royalty**
-- **arrangement**
+paragraph 9; licence; lease; royalty share; State Government; District Council; Governor
 
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with mineral to explain the mechanism, and use royalty for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 33 - Paragraph 9 flow**
+**Claim:** Royalty sharing recognises territorial fiscal interest without transferring mineral sovereignty. **Named evidence:** Sixth Schedule paragraph 9. **Analysis:** The mechanism can internalise some local fiscal costs of extraction. **Qualification:** A royalty share is neither ownership, project consent nor a substitute for PESA/FRA/environmental compliance.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Paragraph 9 flow**
 
 ```text
 State grants mineral licence / lease
@@ -1892,50 +1215,50 @@ Governor determines under Schedule mechanism
 - [ANALYSIS] Revenue sharing can internalise some local costs but cannot substitute for rights compliance, environmental appraisal or rehabilitation.
 - [LIMIT] A royalty share is not ownership of all minerals and is not community consent.
 
-#### CLOSING RECALL FLOW — MINERAL ROYALTY ARRANGEMENT
+
+
+#### PRELIMS TRAP
+
+Money received is not proof that mining is otherwise lawful.
+
+#### MAINS USE
+
+Use in resource-federalism and autonomy answers.
+
+#### RECAP
+
+State lease -> royalty -> agreed council share -> Governor decides dispute
+
+
+### SESSION 16 - STATE-SPECIFIC APPLICATION OF LAWS
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: MINERAL ROYALTY ARRANGEMENT
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · mineral · royalty · arrangement
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for mineral royalty arrangement.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of mineral royalty arrangement.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise mineral royalty arrangement beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Mineral Royalty Arrangement is best understood through the exact constitutional, statutory and institutional rules governing mineral royalty arrangement.
+IDENTIFY STATE -> IDENTIFY PARAGRAPH -> IDENTIFY ACTOR -> APPLY EXACT FILTER
 ```
-### SESSION 30 — APPLICATION OF PARLIAMENT AND STATE LAWS
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: identify State -> identify paragraph -> identify actor -> apply exact filter.*
 
-**Plain-language definition:** Application Of Parliament And State Laws explains the exact constitutional, statutory and institutional rules governing application of parliament and state laws.
+#### DEFINITION
 
-**Technical definition:** Application Of Parliament And State Laws operates through the exact constitutional, statutory and institutional rules governing application of parliament and state laws, with authority, procedure, limits and dated status kept distinct.
+The Sixth Schedule uses different legal filters for Assam, Meghalaya, Tripura and Mizoram; there is no single rule for all four.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Application Of Parliament And State Laws is best understood through the exact constitutional, statutory and institutional rules governing application of parliament and state laws.
+> Paragraphs 12, 12A, 12AA and 12B allocate non-application, modification and repugnancy powers differently.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **application**
-- **parliament**
-- **laws**
+paragraph 12; 12A; 12AA; 12B; State Acts; parliamentary Acts; retrospective modification
 
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with application to explain the mechanism, and use parliament for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 34 - State-specific legal filters**
+**Claim:** State-specific filters prevent ordinary law from silently displacing autonomous competence. **Named evidence:** Sixth Schedule paragraphs 12 to 12B. **Analysis:** Assam, Tripura and Mizoram give councils a gate over specified State laws; Meghalaya instead gives State law primacy on repugnancy, while Presidential filtering applies to parliamentary Acts. **Qualification:** Never write that all Central and State laws require council consent.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - State-specific legal filters**
 
 | State field | Schedule technique |
 |---|---|
@@ -1947,49 +1270,61 @@ ANSWER-GRABBING FORMULATION: Mineral Royalty Arrangement is best understood thro
 - [FACT] The Sixth Schedule contains separate State-specific provisions on whether and how laws apply.
 - [LIMIT] Avoid the oversimplified sentence "Central and State laws do not apply unless the council agrees." The correct answer must identify that applicability, modification and notification rules vary by State and subject.
 
-#### CLOSING RECALL FLOW — APPLICATION OF PARLIAMENT AND STATE LAWS
+
+##### STATE-SPECIFIC LAW FILTERS - DO NOT FLATTEN
+
+| State | Controlling paragraph | Distinct rule |
+|---|---|---|
+| Assam | 12 | specified State laws in paragraph 3/3A/3B fields and non-distilled liquor apply only if the Council directs; Governor may exclude or modify other State or parliamentary Acts |
+| Meghalaya | 12A | State law prevails over repugnant Council law/regulation in the named fields; President may exclude or modify parliamentary Acts |
+| Tripura | 12AA | council gate for specified State laws; Governor filters other State Acts; President filters parliamentary Acts |
+| Mizoram | 12B | broadly parallels Tripura through its own paragraph; never cite 12AA for Mizoram |
+
+[LIMIT] Retrospective operation is available where the relevant paragraph says so. Always name the State, paragraph, actor and class of law.
+
+
+#### PRELIMS TRAP
+
+The State-specific paragraph, actor and subject decide the answer.
+
+#### MAINS USE
+
+Use as the strongest anti-flattening paragraph in a Mains answer.
+
+#### RECAP
+
+identify State -> identify paragraph -> identify actor -> apply exact filter
+
+
+### SESSION 17 - COMMISSION, SUSPENSION AND DISSOLUTION CONTROLS
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: APPLICATION OF PARLIAMENT AND STATE LAWS
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · application · parliament · laws
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for application of parliament and state laws.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of application of parliament and state laws.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise application of parliament and state laws beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Application Of Parliament And State Laws is best understood through the exact constitutional, statutory and institutional rules governing application of parliament and state laws.
+INQUIRY -> REASONS -> SUSPENSION/DISSOLUTION ROUTE -> LEGISLATIVE SCRUTINY
 ```
-### SESSION 31 — GOVERNOR'S CHECKS ON COUNCILS
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: inquiry -> reasons -> suspension/dissolution route -> legislative scrutiny.*
 
-**Plain-language definition:** Governor'S Checks On Councils explains the exact constitutional, statutory and institutional rules governing governor's checks on councils.
+#### DEFINITION
 
-**Technical definition:** Governor'S Checks On Councils operates through the exact constitutional, statutory and institutional rules governing governor's checks on councils, with authority, procedure, limits and dated status kept distinct.
+Council autonomy is checked through reasoned constitutional mechanisms rather than an unstructured gubernatorial override.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Governor'S Checks On Councils is best understood through the exact constitutional, statutory and institutional rules governing governor's checks on councils.
+> Paragraph 14 permits a commission; paragraph 15 permits annulment or suspension for safety of India or public order; paragraph 16 provides a commission-linked dissolution route.
 
 #### MUST-WRITE KEYWORDS
 
-- **Sixth Schedule**
-- **Autonomous District Council**
-- **Governor**
-- **checks**
-- **councils**
+paragraph 14 commission; paragraph 15 suspension; paragraph 16 dissolution; State Legislature; reasons
 
-**How to use them:** Frame the answer through Sixth Schedule; define Autonomous District Council, connect Governor with checks to explain the mechanism, and use councils for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 35 - Autonomy with constitutional brakes**
+**Claim:** Review mechanisms can correct failure but can also weaken autonomy if used politically. **Named evidence:** Sixth Schedule paragraphs 14-16. **Analysis:** Commission reports, legislative laying and bounded interim administration create institutional checks. **Qualification:** Tripura, Mizoram and Assam amendments alter parts of the ordinary model; the exact applicable text must be checked.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Autonomy with constitutional brakes**
 
 ```text
 COUNCIL AUTONOMY
@@ -2010,51 +1345,7 @@ State-legislative and judicial accountability
 - [FACT] The Schedule authorises gubernatorial intervention through specified procedures when council action threatens safety/public order or when administration requires inquiry and reconstitution.
 - [LIMIT] These are conditioned constitutional controls, not a free-standing power to erase autonomy for political convenience.
 
-#### CLOSING RECALL FLOW — GOVERNOR'S CHECKS ON COUNCILS
-
-```text
-START / CONCEPT: GOVERNOR'S CHECKS ON COUNCILS
-        |
-        v
-EXACT TERMS: Sixth Schedule · Autonomous District Council · Governor · checks · councils
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for governor's checks on councils.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of governor's checks on councils.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise governor's checks on councils beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Governor'S Checks On Councils is best understood through the exact constitutional, statutory and institutional rules governing governor's checks on councils.
-```
-### SESSION 32 — PRESIDENT'S ROLE IN THE SIXTH SCHEDULE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** President'S Role In The Sixth Schedule explains the exact constitutional, statutory and institutional rules governing president's role in the sixth schedule.
-
-**Technical definition:** President'S Role In The Sixth Schedule operates through the exact constitutional, statutory and institutional rules governing president's role in the sixth schedule, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> President'S Role In The Sixth Schedule is best understood through the exact constitutional, statutory and institutional rules governing president's role in the sixth schedule.
-
-#### MUST-WRITE KEYWORDS
-
-- **Sixth Schedule**
-- **Autonomous District Council**
-- **Governor**
-- **president**
-- **role**
-- **sixth**
-- **schedule**
-
-**How to use them:** Frame the answer through Sixth Schedule; define Autonomous District Council, connect Governor with president to explain the mechanism, and use role for the decisive comparison or qualification.
-
-**Visual 36 - Do not import the Fifth Schedule assent rule**
+**Source visual - Do not import the Fifth Schedule assent rule**
 
 | Function | Primary constitutional actor |
 |---|---|
@@ -2067,51 +1358,58 @@ ANSWER-GRABBING FORMULATION: Governor'S Checks On Councils is best understood th
 - [FACT] The President is not the routine assent authority for Sixth Schedule council laws.
 - [LIMIT] Union legislation, constitutional finance and parliamentary amendment remain important; autonomy is nested within the Union-State Constitution.
 
-#### CLOSING RECALL FLOW — PRESIDENT'S ROLE IN THE SIXTH SCHEDULE
+
+##### CONTROL MECHANISMS - EXACT SEQUENCE
+
+- [FACT] Paragraph 14 permits a Governor-appointed commission on administration, services, legislation and council-made law; its report enters the State-legislative accountability route.
+- [FACT] Paragraph 15 permits annulment or suspension of a council act or resolution likely to endanger India's safety or prejudice public order; reasons and legislative laying are required.
+- [FACT] Paragraph 16 ordinarily links dissolution to a paragraph 14 commission recommendation, followed by fresh election or bounded interim administration. Paragraph 16(2) also provides a temporary supersession/assumption route when administration cannot be carried on under the Schedule, subject to reasons, time limits and State-legislative control.
+- [LIMIT] Assam, Tripura and Mizoram amendments change parts of these mechanisms. State-specific text controls.
+- [FACT] Paragraph 21 permits Parliament to amend the Sixth Schedule by ordinary law and says such a law is not deemed an Article 368 amendment.
+
+
+#### PRELIMS TRAP
+
+Do not describe dissolution as an unrestricted pleasure power.
+
+#### MAINS USE
+
+Use to balance autonomy with constitutional accountability.
+
+#### RECAP
+
+inquiry -> reasons -> suspension/dissolution route -> legislative scrutiny
+
+
+### SESSION 18 - FIFTH VERSUS SIXTH SCHEDULE COMPARISON
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: PRESIDENT'S ROLE IN THE SIXTH SCHEDULE
-        |
-        v
-EXACT TERMS: Sixth Schedule · Autonomous District Council · Governor · president · role · sixth · schedule
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for president's role in the sixth schedule.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of president's role in the sixth schedule.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise president's role in the sixth schedule beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: President'S Role In The Sixth Schedule is best understood through the exact constitutional, statutory and institutional rules governing president's role in the sixth schedule.
+TERRITORY -> BODY -> POWERS -> ASSENT -> ACCOUNTABILITY -> STATUTORY LAYER
 ```
-### SESSION 33 — FIFTH VERSUS SIXTH SCHEDULE: EXACT COMPARISON
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: territory -> body -> powers -> assent -> accountability -> statutory layer.*
 
-**Plain-language definition:** Fifth Versus Sixth Schedule: Exact Comparison explains the exact constitutional, statutory and institutional rules governing fifth versus sixth schedule: exact comparison.
+#### DEFINITION
 
-**Technical definition:** Fifth Versus Sixth Schedule: Exact Comparison operates through the exact constitutional, statutory and institutional rules governing fifth versus sixth schedule: exact comparison, with authority, procedure, limits and dated status kept distinct.
+The Fifth Schedule is a protective-supervision model; the Sixth Schedule is a bounded territorial self-government model.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Fifth Versus Sixth Schedule: Exact Comparison is best understood through the exact constitutional, statutory and institutional rules governing fifth versus sixth schedule: exact comparison.
+> Their actors, territorial routes, law-making powers, assent authorities, courts, taxes and PESA relationship differ.
 
 #### MUST-WRITE KEYWORDS
 
-- **Sixth Schedule**
-- **Autonomous District Council**
-- **Governor**
-- **fifth**
-- **sixth**
-- **schedule**
-- **comparison**
+President declaration; TAC; ADC; Governor assent; President assent; PESA reach
 
-**How to use them:** Frame the answer through Sixth Schedule; define Autonomous District Council, connect Governor with fifth to explain the mechanism, and use sixth for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 37 - Master comparison matrix**
+**Claim:** Comparison must proceed on identical institutional axes. **Named evidence:** Articles 244(1)-(2), Fifth and Sixth Schedules. **Analysis:** The Sixth generally institutionalises more continuous local agency, while the Fifth supplies stronger guardian-style adaptation powers. **Qualification:** Neither model automatically guarantees participation, capacity or rights compliance.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Master comparison matrix**
 
 | Dimension | Fifth Schedule | Sixth Schedule |
 |---|---|---|
@@ -2128,57 +1426,57 @@ ANSWER-GRABBING FORMULATION: President'S Role In The Sixth Schedule is best unde
 | local-government statute | PESA applies | PESA does not apply |
 | autonomy ceiling | no elected territorial legislature in Schedule itself | substantial but subject-specific and supervised |
 
-**Visual 38 - One-line memory contrast**
+**Source visual - One-line memory contrast**
 
 ```text
 FIFTH = AREA + GOVERNOR/PRESIDENT + TAC + PESA
 SIXTH = DISTRICT/REGION + ELECTED COUNCIL + LAWS/COURTS/TAXES
 ```
 
-#### CLOSING RECALL FLOW — FIFTH VERSUS SIXTH SCHEDULE: EXACT COMPARISON
+
+
+#### PRELIMS TRAP
+
+TAC and ADC are not equivalent bodies.
+
+#### MAINS USE
+
+Use as a ready 15-mark structure.
+
+#### RECAP
+
+territory -> body -> powers -> assent -> accountability -> statutory layer
+
+
+### SESSION 19 - CONSTITUTIONAL ADCS, STATUTORY COUNCILS AND ARTICLE 371 BODIES
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: FIFTH VERSUS SIXTH SCHEDULE: EXACT COMPARISON
-        |
-        v
-EXACT TERMS: Sixth Schedule · Autonomous District Council · Governor · fifth · sixth · schedule · comparison
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for fifth versus sixth schedule: exact comparison.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of fifth versus sixth schedule: exact comparison.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise fifth versus sixth schedule: exact comparison beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Fifth Versus Sixth Schedule: Exact Comparison is best understood through the exact constitutional, statutory and institutional rules governing fifth versus sixth schedule: exact comparison.
+NAME -> SOURCE -> TERRITORY -> POWERS -> LIMITS
 ```
-### SESSION 34 — FOUR SYSTEMS THAT MUST NOT BE COLLAPSED
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: name -> source -> territory -> powers -> limits.*
 
-**Plain-language definition:** Four Systems That Must Not Be Collapsed explains the exact constitutional, statutory and institutional rules governing four systems that must not be collapsed.
+#### DEFINITION
 
-**Technical definition:** Four Systems That Must Not Be Collapsed operates through the exact constitutional, statutory and institutional rules governing four systems that must not be collapsed, with authority, procedure, limits and dated status kept distinct.
+Institutional labels such as hill council, autonomous council or committee do not establish a Sixth Schedule status.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Four Systems That Must Not Be Collapsed is best understood through the exact constitutional, statutory and institutional rules governing four systems that must not be collapsed.
+> A constitutional ADC derives authority from the Sixth Schedule; statutory councils derive from legislation; Article 371 committees derive from distinct Part XXI clauses.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **four**
-- **systems**
-- **collapsed**
+constitutional ADC; statutory council; Article 371B; Article 371C; hill council; legal source
 
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with four to explain the mechanism, and use systems for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 39 - Constitutional differentiation grid**
+**Claim:** Power follows source, not institutional name. **Named evidence:** Sixth Schedule, Article 371B, Article 371C and enabling statutes. **Analysis:** The distinction determines legislative competence, finance, judicial power and amendment route. **Qualification:** Nagaland, Manipur and Arunachal arrangements cannot be counted as Sixth Schedule councils merely because they protect tribal interests.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Constitutional differentiation grid**
 
 | System | Source | Territorial unit | Core institution |
 |---|---|---|---|
@@ -2191,49 +1489,50 @@ ANSWER-GRABBING FORMULATION: Fifth Versus Sixth Schedule: Exact Comparison is be
 - [FACT] PESA extends Part IX only to Fifth Schedule areas, with exceptions and modifications.
 - [LIMIT] Article 371A/371G customary-law and land/resource protections do not make Nagaland or all Mizoram a Sixth Schedule council system.
 
-#### CLOSING RECALL FLOW — FOUR SYSTEMS THAT MUST NOT BE COLLAPSED
+
+
+#### PRELIMS TRAP
+
+Decode the legal source before comparing powers.
+
+#### MAINS USE
+
+Use to avoid conflating ADCs with Ladakh hill councils or Hill Areas Committees.
+
+#### RECAP
+
+name -> source -> territory -> powers -> limits
+
+
+### SESSION 20 - PESA PURPOSE, SCOPE AND VILLAGE
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: FOUR SYSTEMS THAT MUST NOT BE COLLAPSED
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · four · systems · collapsed
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for four systems that must not be collapsed.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of four systems that must not be collapsed.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise four systems that must not be collapsed beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Four Systems That Must Not Be Collapsed is best understood through the exact constitutional, statutory and institutional rules governing four systems that must not be collapsed.
+ARTICLE 243M EXCLUSION -> PESA EXTENSION -> HABITATION VILLAGE -> GRAM SABHA
 ```
-### SESSION 35 — WHY PESA WAS ENACTED
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: Article 243M exclusion -> PESA extension -> habitation village -> Gram Sabha.*
 
-**Plain-language definition:** Why PESA Was Enacted explains the exact constitutional, statutory and institutional rules governing why pesa was enacted.
+#### DEFINITION
 
-**Technical definition:** Why PESA Was Enacted operates through the exact constitutional, statutory and institutional rules governing why pesa was enacted, with authority, procedure, limits and dated status kept distinct.
+PESA 1996 extends a modified Part IX only to Fifth Schedule Scheduled Areas.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Why PESA Was Enacted is best understood through the exact constitutional, statutory and institutional rules governing why pesa was enacted.
+> It requires State Panchayat law to respect customary law, social and religious practices and traditional management of community resources.
 
 #### MUST-WRITE KEYWORDS
 
-- **PESA**
-- **Gram Sabha**
-- **Scheduled Areas**
-- **was**
-- **enacted**
+PESA 1996; Article 243M; Fifth Schedule only; habitation; hamlet; Gram Sabha; custom
 
-**How to use them:** Frame the answer through PESA; define Gram Sabha, connect Scheduled Areas with was to explain the mechanism, and use enacted for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 40 - From protected subject to self-governing participant**
+**Claim:** PESA adds participatory self-government to the Fifth Schedule's supervisory design. **Named evidence:** PESA section 4(a)-(d). **Analysis:** Its village concept can follow a habitation, hamlet or group managing affairs by custom. **Qualification:** PESA does not apply to Sixth Schedule areas and custom remains subject to the Constitution and valid law.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - From protected subject to self-governing participant**
 
 ```text
 FIFTH SCHEDULE
@@ -2254,50 +1553,7 @@ development decisions become participatory and locally accountable
 - [ANALYSIS] It adds a self-rule logic to a Schedule otherwise centred on the Governor, State and Union.
 - [LIMIT] PESA operates through State legislation and implementation; central enactment alone does not create identical institutional practice everywhere.
 
-#### CLOSING RECALL FLOW — WHY PESA WAS ENACTED
-
-```text
-START / CONCEPT: WHY PESA WAS ENACTED
-        |
-        v
-EXACT TERMS: PESA · Gram Sabha · Scheduled Areas · was · enacted
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for why pesa was enacted.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of why pesa was enacted.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise why pesa was enacted beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Why PESA Was Enacted is best understood through the exact constitutional, statutory and institutional rules governing why pesa was enacted.
-```
-### SESSION 36 — PESA VILLAGE AND GRAM SABHA
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** PESA Village And Gram Sabha explains the exact constitutional, statutory and institutional rules governing pesa village and gram sabha.
-
-**Technical definition:** PESA Village And Gram Sabha operates through the exact constitutional, statutory and institutional rules governing pesa village and gram sabha, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> PESA Village And Gram Sabha is best understood through the exact constitutional, statutory and institutional rules governing pesa village and gram sabha.
-
-#### MUST-WRITE KEYWORDS
-
-- **PESA**
-- **Gram Sabha**
-- **Scheduled Areas**
-- **village**
-- **gram**
-- **sabha**
-
-**How to use them:** Frame the answer through PESA; define Gram Sabha, connect Scheduled Areas with village to explain the mechanism, and use gram for the decisive comparison or qualification.
-
-**Visual 41 - Habitation-based democratic unit**
+**Source visual - Habitation-based democratic unit**
 
 ```text
 hamlet / habitation / group of habitations
@@ -2317,49 +1573,62 @@ GRAM SABHA
 - [FACT] Every Gram Sabha is competent to safeguard traditions, customs, cultural identity, community resources and customary dispute resolution.
 - [LIMIT] Custom is constitutionally relevant but cannot be treated as immune from Fundamental Rights, statute or judicial review.
 
-#### CLOSING RECALL FLOW — PESA VILLAGE AND GRAM SABHA
+
+##### PESA VERB TABLE - EXAM-SAFE
+
+| Decision | Exact statutory intensity |
+|---|---|
+| village development plans/programmes/projects | Gram Sabha approval before implementation by village Panchayat |
+| beneficiary selection | Gram Sabha identifies/selects |
+| utilisation certificate | village Panchayat obtains Gram Sabha certification |
+| land acquisition and R&R | consultation with Gram Sabha or Panchayat at appropriate level |
+| minor-mineral prospecting licence/mining lease | mandatory prior recommendation of Gram Sabha or appropriate Panchayat |
+| minor-mineral auction concession | prior recommendation of Gram Sabha or Panchayat at appropriate level |
+| minor forest produce, markets, money-lending, intoxicants, land restoration, social sectors and local plans | State law must endow the Gram Sabha/Panchayat at the appropriate level as section 4(m) specifies |
+
+
+#### PRELIMS TRAP
+
+PESA is not the statute creating ADCs.
+
+#### MAINS USE
+
+Use as the bridge from constitutional protection to community decision-making.
+
+#### RECAP
+
+Article 243M exclusion -> PESA extension -> habitation village -> Gram Sabha
+
+
+### SESSION 21 - PESA'S EXACT DECISION VERBS
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: PESA VILLAGE AND GRAM SABHA
-        |
-        v
-EXACT TERMS: PESA · Gram Sabha · Scheduled Areas · village · gram · sabha
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for pesa village and gram sabha.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of pesa village and gram sabha.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise pesa village and gram sabha beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: PESA Village And Gram Sabha is best understood through the exact constitutional, statutory and institutional rules governing pesa village and gram sabha.
+DECISION TYPE -> EXACT VERB -> CORRECT INSTITUTION -> LEGAL EFFECT
 ```
-### SESSION 37 — PESA POWER VERBS
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: decision type -> exact verb -> correct institution -> legal effect.*
 
-**Plain-language definition:** PESA Power Verbs explains the exact constitutional, statutory and institutional rules governing pesa power verbs.
+#### DEFINITION
 
-**Technical definition:** PESA Power Verbs operates through the exact constitutional, statutory and institutional rules governing pesa power verbs, with authority, procedure, limits and dated status kept distinct.
+PESA distributes power through different statutory verbs and institutional levels.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> PESA Power Verbs is best understood through the exact constitutional, statutory and institutional rules governing pesa power verbs.
+> Approve, identify, certify, consult, recommend, own, regulate, control and restore are not interchangeable.
 
 #### MUST-WRITE KEYWORDS
 
-- **PESA**
-- **Gram Sabha**
-- **Scheduled Areas**
-- **power**
-- **verbs**
+approve; identify; certify; consult; prior recommendation; own; regulate; control; restore
 
-**How to use them:** Frame the answer through PESA; define Gram Sabha, connect Scheduled Areas with power to explain the mechanism, and use verbs for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 42 - Exact statutory verb matrix**
+**Claim:** Precision about the verb identifies the legal intensity of community participation. **Named evidence:** PESA section 4(e)-(m). **Analysis:** Plans require approval; acquisition and R&R require consultation; specified minor-mineral decisions require prior recommendation; section 4(m) requires State-law endowment of resource and control powers. **Qualification:** The Act does not create one universal Gram Sabha veto over every project.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Exact statutory verb matrix**
 
 | Verb | Object | Holder/level under section 4 |
 |---|---|---|
@@ -2369,10 +1638,10 @@ ANSWER-GRABBING FORMULATION: PESA Village And Gram Sabha is best understood thro
 | consult | land acquisition and resettlement/rehabilitation in Scheduled Areas | Gram Sabha or Panchayat at appropriate level |
 | manage | planning and management of minor water bodies | Panchayat at appropriate level |
 | recommend mandatorily | prospecting licence/mining lease for minor minerals | Gram Sabha or Panchayat at appropriate level |
-| recommend mandatorily | concession for minor-mineral exploitation by auction | Panchayat at appropriate level |
+| recommend mandatorily | concession for minor-mineral exploitation by auction | Gram Sabha or Panchayat at appropriate level |
 | own / regulate / control / restore | specified resources and institutions | State law must endow Gram Sabha and Panchayats at appropriate level as section 4(m) states |
 
-**Visual 43 - Section 4(m) substantive basket**
+**Source visual - Section 4(m) substantive basket**
 
 ```text
 ownership of minor forest produce
@@ -2386,51 +1655,7 @@ control local plans and resources, including tribal sub-plans
 
 - [LIMIT] Attribute each power to the statutory formulation - "Gram Sabha or Panchayats at the appropriate level" where relevant - rather than assigning everything exclusively to one Gram Sabha.
 
-#### CLOSING RECALL FLOW — PESA POWER VERBS
-
-```text
-START / CONCEPT: PESA POWER VERBS
-        |
-        v
-EXACT TERMS: PESA · Gram Sabha · Scheduled Areas · power · verbs
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for pesa power verbs.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of pesa power verbs.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise pesa power verbs beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: PESA Power Verbs is best understood through the exact constitutional, statutory and institutional rules governing pesa power verbs.
-```
-### SESSION 38 — CONSULTATION, RECOMMENDATION AND APPROVAL ARE DIFFERENT
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Consultation, Recommendation And Approval Are Different explains the exact constitutional, statutory and institutional rules governing consultation, recommendation and approval are different.
-
-**Technical definition:** Consultation, Recommendation And Approval Are Different operates through the exact constitutional, statutory and institutional rules governing consultation, recommendation and approval are different, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Consultation, Recommendation And Approval Are Different is best understood through the exact constitutional, statutory and institutional rules governing consultation, recommendation and approval are different.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **consultation**
-- **recommendation**
-- **approval**
-- **different**
-
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with consultation to explain the mechanism, and use recommendation for the decisive comparison or qualification.
-
-**Visual 44 - Legal intensity ladder**
+**Source visual - Legal intensity ladder**
 
 ```text
 INFORMATION
@@ -2451,52 +1676,50 @@ plan/programme/project needs Gram Sabha approval before local implementation
 - [FACT] The central Act keeps actual planning and implementation of acquisition-linked development projects coordinated at the State level.
 - [LIMIT] These provisions do not amount to a universal consent/veto rule for every acquisition, major mineral, forest clearance or infrastructure project.
 
-#### CLOSING RECALL FLOW — CONSULTATION, RECOMMENDATION AND APPROVAL ARE DIFFERENT
+
+
+#### PRELIMS TRAP
+
+Consultation is not consent; recommendation is not ownership.
+
+#### MAINS USE
+
+Use the verb matrix in every PESA answer.
+
+#### RECAP
+
+decision type -> exact verb -> correct institution -> legal effect
+
+
+### SESSION 22 - PESA LAND, MINERALS AND REPRESENTATION
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: CONSULTATION, RECOMMENDATION AND APPROVAL ARE DIFFERENT
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · consultation · recommendation · approval · different
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for consultation, recommendation and approval are different.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of consultation, recommendation and approval are different.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise consultation, recommendation and approval are different beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Consultation, Recommendation And Approval Are Different is best understood through the exact constitutional, statutory and institutional rules governing consultation, recommendation and approval are different.
+REPRESENTATION + EXACT PROJECT VERB + RESTORATION + LOWER-LEVEL PROTECTION
 ```
-### SESSION 39 — PESA LAND AND MINOR-MINERAL DECISION FLOW
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: representation + exact project verb + restoration + lower-level protection.*
 
-**Plain-language definition:** PESA Land And Minor-Mineral Decision Flow explains the exact constitutional, statutory and institutional rules governing pesa land and minor-mineral decision flow.
+#### DEFINITION
 
-**Technical definition:** PESA Land And Minor-Mineral Decision Flow operates through the exact constitutional, statutory and institutional rules governing pesa land and minor-mineral decision flow, with authority, procedure, limits and dated status kept distinct.
+PESA links community power to project stage, resource type and representative design.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> PESA Land And Minor-Mineral Decision Flow is best understood through the exact constitutional, statutory and institutional rules governing pesa land and minor-mineral decision flow.
+> Land acquisition/R&R, minor-mineral licences and auctions, land restoration and Panchayat reservation follow different clauses.
 
 #### MUST-WRITE KEYWORDS
 
-- **PESA**
-- **Gram Sabha**
-- **Scheduled Areas**
-- **land**
-- **minor**
-- **mineral**
-- **decision**
-- **flow**
+land acquisition; R&R; minor minerals; restoration; half ST seats; ST chairpersons; subsidiarity
 
-**How to use them:** Frame the answer through PESA; define Gram Sabha, connect Scheduled Areas with land to explain the mechanism, and use minor for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 45 - Project-stage precision**
+**Claim:** Representation and decision rights together reduce external and internal exclusion. **Named evidence:** PESA section 4(i)-(o). **Analysis:** At least half the seats at every Panchayat level in Scheduled Areas are reserved for STs and all chairperson offices are reserved for STs. **Qualification:** Reservation does not prove effective voice, and PESA's mineral rule is confined to minor minerals.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Project-stage precision**
 
 ```text
 PROPOSED ACTIVITY IN FIFTH SCHEDULE AREA
@@ -2508,7 +1731,7 @@ PROPOSED ACTIVITY IN FIFTH SCHEDULE AREA
              |       -> mandatory prior recommendation
              |
              +--> minor-mineral concession by auction
-             |       -> prior recommendation of appropriate Panchayat
+             |       -> prior recommendation of Gram Sabha or appropriate Panchayat
              |
              +--> forest land / recognised forest rights
                      -> FRA process + forest/environment law
@@ -2516,49 +1739,7 @@ PROPOSED ACTIVITY IN FIFTH SCHEDULE AREA
 
 - [ANALYSIS] Correct sequencing prevents a common answer error: using one PESA verb to describe a legally different stage.
 
-#### CLOSING RECALL FLOW — PESA LAND AND MINOR-MINERAL DECISION FLOW
-
-```text
-START / CONCEPT: PESA LAND AND MINOR-MINERAL DECISION FLOW
-        |
-        v
-EXACT TERMS: PESA · Gram Sabha · Scheduled Areas · land · minor · mineral · decision · flow
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for pesa land and minor-mineral decision flow.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of pesa land and minor-mineral decision flow.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise pesa land and minor-mineral decision flow beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: PESA Land And Minor-Mineral Decision Flow is best understood through the exact constitutional, statutory and institutional rules governing pesa land and minor-mineral decision flow.
-```
-### SESSION 40 — PESA REPRESENTATION AND RESERVATIONS
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** PESA Representation And Reservations explains the exact constitutional, statutory and institutional rules governing pesa representation and reservations.
-
-**Technical definition:** PESA Representation And Reservations operates through the exact constitutional, statutory and institutional rules governing pesa representation and reservations, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> PESA Representation And Reservations is best understood through the exact constitutional, statutory and institutional rules governing pesa representation and reservations.
-
-#### MUST-WRITE KEYWORDS
-
-- **PESA**
-- **Gram Sabha**
-- **Scheduled Areas**
-- **representation**
-- **reservations**
-
-**How to use them:** Frame the answer through PESA; define Gram Sabha, connect Scheduled Areas with representation to explain the mechanism, and use reservations for the decisive comparison or qualification.
-
-**Visual 46 - Scheduled-Area representation safeguards**
+**Source visual - Scheduled-Area representation safeguards**
 
 | Feature | PESA rule |
 |---|---|
@@ -2571,48 +1752,50 @@ ANSWER-GRABBING FORMULATION: PESA Land And Minor-Mineral Decision Flow is best u
 - [FACT] PESA also asks State legislation to endeavour to follow the Sixth Schedule pattern while designing district-level administrative arrangements in Scheduled Areas.
 - [LIMIT] Reservation supplies presence; actual influence still depends on meeting design, records, information and control over staff/resources.
 
-#### CLOSING RECALL FLOW — PESA REPRESENTATION AND RESERVATIONS
+
+
+#### PRELIMS TRAP
+
+Do not extend the prior-recommendation rule to every major-mineral project.
+
+#### MAINS USE
+
+Use for institution-plus-process answers.
+
+#### RECAP
+
+representation + exact project verb + restoration + lower-level protection
+
+
+### SESSION 23 - FRA CROSS-LINK WITHOUT MERGER
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: PESA REPRESENTATION AND RESERVATIONS
-        |
-        v
-EXACT TERMS: PESA · Gram Sabha · Scheduled Areas · representation · reservations
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for pesa representation and reservations.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of pesa representation and reservations.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise pesa representation and reservations beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: PESA Representation And Reservations is best understood through the exact constitutional, statutory and institutional rules governing pesa representation and reservations.
+FRA CLAIM -> GRAM SABHA RESOLUTION -> SDLC -> DLC -> RIGHTS + DUTIES
 ```
-### SESSION 41 — FRA RELATIONSHIP
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: FRA claim -> Gram Sabha resolution -> SDLC -> DLC -> rights + duties.*
 
-**Plain-language definition:** FRA Relationship explains the exact constitutional, statutory and institutional rules governing fra relationship.
+#### DEFINITION
 
-**Technical definition:** FRA Relationship operates through the exact constitutional, statutory and institutional rules governing fra relationship, with authority, procedure, limits and dated status kept distinct.
+The Forest Rights Act 2006 recognises forest rights through a claims process distinct from PESA local self-government.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> FRA Relationship is best understood through the exact constitutional, statutory and institutional rules governing fra relationship.
+> The Gram Sabha initiates claims; community forest resource rights and conservation duties connect tenure with stewardship.
 
 #### MUST-WRITE KEYWORDS
 
-- **FRA**
-- **forest rights**
-- **Gram Sabha**
-- **relationship**
+FRA 2006; individual rights; community rights; community forest resource; section 5; section 6
 
-**How to use them:** Frame the answer through FRA; define forest rights, connect Gram Sabha with relationship to explain the mechanism, and close with the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 47 - Rights-recognition ladder**
+**Claim:** Rights recognition changes whose livelihood, cultural and conservation interests must enter a decision. **Named evidence:** FRA sections 3, 5 and 6. **Analysis:** PESA asks who participates with what local power; FRA asks who holds which forest right and duty. **Qualification:** Neither statute by itself transfers all forests or minerals to the Gram Sabha.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Rights-recognition ladder**
 
 ```text
 GRAM SABHA
@@ -2634,51 +1817,7 @@ individual / community / community forest resource rights
 - [FACT] Section 5 assigns holders/Gram Sabha duties to protect wildlife, forests and biodiversity, preserve catchments and ensure decisions on access are taken through regulated community processes.
 - [LIMIT] FRA recognition does not transfer all forest administration or mineral ownership to the Gram Sabha.
 
-#### CLOSING RECALL FLOW — FRA RELATIONSHIP
-
-```text
-START / CONCEPT: FRA RELATIONSHIP
-        |
-        v
-EXACT TERMS: FRA · forest rights · Gram Sabha · relationship
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for fra relationship.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of fra relationship.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise fra relationship beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: FRA Relationship is best understood through the exact constitutional, statutory and institutional rules governing fra relationship.
-```
-### SESSION 42 — PESA AND FRA: OVERLAP WITHOUT MERGER
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** PESA And FRA: Overlap Without Merger explains the exact constitutional, statutory and institutional rules governing pesa and fra: overlap without merger.
-
-**Technical definition:** PESA And FRA: Overlap Without Merger operates through the exact constitutional, statutory and institutional rules governing pesa and fra: overlap without merger, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> PESA And FRA: Overlap Without Merger is best understood through the exact constitutional, statutory and institutional rules governing pesa and fra: overlap without merger.
-
-#### MUST-WRITE KEYWORDS
-
-- **PESA**
-- **Gram Sabha**
-- **Scheduled Areas**
-- **fra**
-- **overlap**
-- **without**
-- **merger**
-
-**How to use them:** Frame the answer through PESA; define Gram Sabha, connect Scheduled Areas with fra to explain the mechanism, and use overlap for the decisive comparison or qualification.
-
-**Visual 48 - Two statutes, two primary functions**
+**Source visual - Two statutes, two primary functions**
 
 | PESA | FRA |
 |---|---|
@@ -2687,7 +1826,7 @@ ANSWER-GRABBING FORMULATION: FRA Relationship is best understood through the exa
 | specified approval/consultation/recommendation powers | claims, title and conservation responsibilities |
 | minor forest produce ownership route in State law | ownership/access/use/disposal rights over MFP under statutory rights framework |
 
-**Visual 49 - Combined governance chain**
+**Source visual - Combined governance chain**
 
 ```text
 PESA: WHO PARTICIPATES AND WITH WHAT LOCAL POWER?
@@ -2702,51 +1841,50 @@ lawful project or conservation decision
 
 - [ANALYSIS] PESA and FRA are complementary but not interchangeable. A project may satisfy one and still fail another legal requirement.
 
-#### CLOSING RECALL FLOW — PESA AND FRA: OVERLAP WITHOUT MERGER
+
+
+#### PRELIMS TRAP
+
+Do not merge an FRA title with PESA consultation or constitutional area status.
+
+#### MAINS USE
+
+Use as a bounded cross-link in land and mining answers.
+
+#### RECAP
+
+FRA claim -> Gram Sabha resolution -> SDLC -> DLC -> rights + duties
+
+
+### SESSION 24 - LAND ALIENATION AND RESTORATION
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: PESA AND FRA: OVERLAP WITHOUT MERGER
-        |
-        v
-EXACT TERMS: PESA · Gram Sabha · Scheduled Areas · fra · overlap · without · merger
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for pesa and fra: overlap without merger.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of pesa and fra: overlap without merger.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise pesa and fra: overlap without merger beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: PESA And FRA: Overlap Without Merger is best understood through the exact constitutional, statutory and institutional rules governing pesa and fra: overlap without merger.
+RISK -> PROHIBITION -> RECORD -> FORUM -> RESTORATION
 ```
-### SESSION 43 — LAND ALIENATION: PREVENTION AND RESTORATION
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: risk -> prohibition -> record -> forum -> restoration.*
 
-**Plain-language definition:** Land Alienation: Prevention And Restoration explains the exact constitutional, statutory and institutional rules governing land alienation: prevention and restoration.
+#### DEFINITION
 
-**Technical definition:** Land Alienation: Prevention And Restoration operates through the exact constitutional, statutory and institutional rules governing land alienation: prevention and restoration, with authority, procedure, limits and dated status kept distinct.
+Land protection requires prevention, accurate records, accessible adjudication and restoration of unlawful alienation.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Land Alienation: Prevention And Restoration is best understood through the exact constitutional, statutory and institutional rules governing land alienation: prevention and restoration.
+> Fifth Schedule regulations and PESA State-law powers attack different stages of dispossession.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **land**
-- **alienation**
-- **prevention**
-- **restoration**
+anti-alienation; land transfer; allotment; money-lending; prevention; restoration; records
 
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with land to explain the mechanism, and use alienation for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 50 - Alienation control cycle**
+**Claim:** A paper prohibition fails when title, debt, fraud and remedies remain inaccessible. **Named evidence:** Fifth Schedule paragraph 5 and PESA section 4(m)(iii). **Analysis:** Constitutional and statutory tools can move policy from compensation after loss to prevention and restitution. **Qualification:** The operative transfer restriction and remedy are State-specific.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Alienation control cycle**
 
 ```text
 weak title / debt / fraud / coercion / administrative transfer
@@ -2770,104 +1908,105 @@ restoration rather than paper prohibition
 - [ANALYSIS] A prohibition without updated records, legal aid and restitution machinery can freeze illegality rather than reverse it.
 - [LIMIT] The applicable land-transfer regulation is State-specific; never assume identical wording or remedies across all 10 States.
 
-#### CLOSING RECALL FLOW — LAND ALIENATION: PREVENTION AND RESTORATION
+
+
+#### PRELIMS TRAP
+
+Do not assume identical land-transfer law across all Scheduled Areas.
+
+#### MAINS USE
+
+Use to connect constitutional design with lived dispossession.
+
+#### RECAP
+
+risk -> prohibition -> record -> forum -> restoration
+
+
+### SESSION 25 - SAMATHA AND ITS JURISDICTIONAL BOUNDARY
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: LAND ALIENATION: PREVENTION AND RESTORATION
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · land · alienation · prevention · restoration
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for land alienation: prevention and restoration.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of land alienation: prevention and restoration.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise land alienation: prevention and restoration beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Land Alienation: Prevention And Restoration is best understood through the exact constitutional, statutory and institutional rules governing land alienation: prevention and restoration.
+STATE REGULATION + SCHEDULED AREA + IMPUGNED LEASE -> INVALID; NATIONWIDE RULE -> NO
 ```
-### SESSION 44 — SAMATHA (1997): HOLDING AND BOUNDARY
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: State regulation + Scheduled Area + impugned lease -> invalid; nationwide rule -> no.*
 
-**Plain-language definition:** Samatha (1997): Holding And Boundary explains the exact constitutional, statutory and institutional rules governing Samatha (1997): holding and boundary.
+#### DEFINITION
 
-**Technical definition:** Samatha (1997): Holding And Boundary operates through the exact constitutional, statutory and institutional rules governing Samatha (1997): holding and boundary, with authority, procedure, limits and dated status kept distinct.
+Samatha v. State of Andhra Pradesh (1997) interpreted Andhra Pradesh's Scheduled Areas land-transfer regime to invalidate the impugned leases to non-tribal private mining companies.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Samatha (1997): Holding And Boundary is best understood through the exact constitutional, statutory and institutional rules governing Samatha (1997): holding and boundary.
+> The case is a powerful anti-alienation precedent whose proposition must remain tied to its regulation, land and lessee context.
 
 #### MUST-WRITE KEYWORDS
 
-- **Samatha (1997)**
-- **land transfer**
-- **mining leases**
-- **holding**
-- **boundary**
+Samatha 1997; Andhra Pradesh regulation; non-tribal private mining lease; trustee; BALCO boundary
 
-**How to use them:** Frame the answer through Samatha (1997); define land transfer, connect mining leases with holding to explain the mechanism, and use boundary for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 51 - Case-use discipline**
+**Claim:** Protective interpretation can stop the State from achieving indirectly what the transfer law prohibits directly. **Named evidence:** Samatha v. State of Andhra Pradesh, (1997) 8 SCC 191. **Analysis:** The judgment linked Fifth Schedule purpose to land and livelihood protection. **Qualification:** Later jurisdictional treatment, including the BALCO context, prevents automatic nationwide transplantation.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Case-use discipline**
 
 | Element | Safe proposition |
 |---|---|
-| case | *Samatha (1997) v. State of Andhra Pradesh* (1997) |
+| case | *Samatha v. State of Andhra Pradesh* (1997) |
 | legal setting | Andhra Pradesh Scheduled Areas Land Transfer Regulation read with Fifth Schedule |
 | majority holding | State grants/leases of land in Scheduled Areas to non-tribal private mining companies were invalid under that regulatory setting |
 | constitutional significance | State acts as trustee; anti-alienation purpose receives a protective reading |
 | qualification | later treatment, including the BALCO context, prevents presenting the Andhra Pradesh regulation-based holding as an automatic nationwide rule for every State |
 
-- [LIMIT] Do not convert *Samatha (1997)* into the sentence "all mining by every private company in every Scheduled Area is constitutionally prohibited." Identify the State regulation, land status, lessee and later legal context.
+- [LIMIT] Do not convert *Samatha* into the sentence "all mining by every private company in every Scheduled Area is constitutionally prohibited." Identify the State regulation, land status, lessee and later legal context.
 
-#### CLOSING RECALL FLOW — SAMATHA (1997): HOLDING AND BOUNDARY
+
+
+#### PRELIMS TRAP
+
+Never write 'all private mining in every Scheduled Area is void'.
+
+#### MAINS USE
+
+Use as named evidence for land protection with an express scope sentence.
+
+#### RECAP
+
+State regulation + Scheduled Area + impugned lease -> invalid; nationwide rule -> no
+
+
+### SESSION 26 - NIYAMGIRI AND GRAM SABHA DETERMINATION
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: SAMATHA (1997): HOLDING AND BOUNDARY
-        |
-        v
-EXACT TERMS: Samatha (1997) · land transfer · mining leases · holding · boundary
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for Samatha (1997): holding and boundary.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of Samatha (1997): holding and boundary.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise Samatha (1997): holding and boundary beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Samatha (1997): Holding And Boundary is best understood through the exact constitutional, statutory and institutional rules governing Samatha (1997): holding and boundary.
+CLAIMS -> GRAM SABHA FINDINGS -> STATE TRANSMITS -> MOEF FINAL DECISION
 ```
-### SESSION 45 — ORISSA MINING CORPORATION (2013) / NIYAMGIRI
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: claims -> Gram Sabha findings -> State transmits -> MoEF final decision.*
 
-**Plain-language definition:** Orissa Mining Corporation (2013) / Niyamgiri explains the exact constitutional, statutory and institutional rules governing Orissa Mining Corporation (2013) / niyamgiri.
+#### DEFINITION
 
-**Technical definition:** Orissa Mining Corporation (2013) / Niyamgiri operates through the exact constitutional, statutory and institutional rules governing Orissa Mining Corporation (2013) / niyamgiri, with authority, procedure, limits and dated status kept distinct.
+Orissa Mining Corporation v. MoEF (2013) required Gram Sabhas to determine specified FRA-linked community, cultural and religious claims concerning Niyamgiri.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Orissa Mining Corporation (2013) / Niyamgiri is best understood through the exact constitutional, statutory and institutional rules governing Orissa Mining Corporation (2013) / niyamgiri.
+> The decision made local evidence legally consequential while retaining the final Stage-II forest-clearance decision with MoEF.
 
 #### MUST-WRITE KEYWORDS
 
-- **Niyamgiri**
-- **Gram Sabha**
-- **forest rights**
-- **orissa**
-- **mining**
-- **corporation**
+Niyamgiri; Dongria Kondh; FRA; religious rights; community claims; MoEF Stage II
 
-**How to use them:** Frame the answer through Niyamgiri; define Gram Sabha, connect forest rights with orissa to explain the mechanism, and use mining for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 52 - Supreme Court's actual process**
+**Claim:** Participation changes the evidence before the final statutory authority. **Named evidence:** Orissa Mining Corporation Ltd. v. Ministry of Environment and Forest, 18 April 2013. **Analysis:** Sacred-landscape and community relationships could not be reduced to compensation alone. **Qualification:** The holding was project-, claim- and statute-specific, not an unlimited veto over every project.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Supreme Court's actual process**
 
 ```text
 FRA individual/community/cultural/religious claims
@@ -2889,51 +2028,50 @@ in light of Gram Sabha decisions
 - [FACT] The final Stage-II clearance decision remained with MoEF, to be taken in light of Gram Sabha decisions.
 - [LIMIT] The judgment is not authority for an unqualified Gram Sabha veto over every mine or ordinary EIA hearing.
 
-#### CLOSING RECALL FLOW — ORISSA MINING CORPORATION (2013) / NIYAMGIRI
+
+
+#### PRELIMS TRAP
+
+Gram Sabha determination and final clearance authority are separate stages.
+
+#### MAINS USE
+
+Use to show rights-sensitive administrative decision-making.
+
+#### RECAP
+
+claims -> Gram Sabha findings -> State transmits -> MoEF final decision
+
+
+### SESSION 27 - CHEBROLU, WILDLIFE FIRST AND JUDICIAL REVIEW
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: ORISSA MINING CORPORATION (2013) / NIYAMGIRI
-        |
-        v
-EXACT TERMS: Niyamgiri · Gram Sabha · forest rights · orissa · mining · corporation
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for Orissa Mining Corporation (2013) / niyamgiri.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of Orissa Mining Corporation (2013) / niyamgiri.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise Orissa Mining Corporation (2013) / niyamgiri beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Orissa Mining Corporation (2013) / Niyamgiri is best understood through the exact constitutional, statutory and institutional rules governing Orissa Mining Corporation (2013) / niyamgiri.
+PROTECTIVE PURPOSE -> LAWFUL MEANS -> REASONS/PROCEDURE -> JUDICIAL REVIEW
 ```
-### SESSION 46 — DEVELOPMENT, MINING AND DISPLACEMENT CONFLICT
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: protective purpose -> lawful means -> reasons/procedure -> judicial review.*
 
-**Plain-language definition:** Development, Mining And Displacement Conflict explains the exact constitutional, statutory and institutional rules governing development, mining and displacement conflict.
+#### DEFINITION
 
-**Technical definition:** Development, Mining And Displacement Conflict operates through the exact constitutional, statutory and institutional rules governing development, mining and displacement conflict, with authority, procedure, limits and dated status kept distinct.
+Protective governance remains reviewable for equality, legality, procedure and constitutional purpose.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Development, Mining And Displacement Conflict is best understood through the exact constitutional, statutory and institutional rules governing development, mining and displacement conflict.
+> Chebrolu Leela Prasad Rao (2020) invalidated 100 percent ST reservation for specified teacher posts in Scheduled Areas; Wildlife First's 2019 eviction direction was stayed pending scrutiny of rejected FRA claims.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **development**
-- **mining**
-- **displacement**
-- **conflict**
+Chebrolu 2020; equality; 100 percent reservation; Wildlife First; procedural stay; judicial review
 
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with development to explain the mechanism, and use mining for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 53 - Rights-impact chain**
+**Claim:** Courts can protect tribal rights and also police overbroad or procedurally defective measures. **Named evidence:** Articles 14 and 16; Fifth Schedule paragraph 5; Supreme Court orders. **Analysis:** Chebrolu shows that Scheduled-Area protection does not displace equality limits. **Qualification:** Wildlife First should be used only for procedural posture unless a final merits rule is verified.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Rights-impact chain**
 
 ```text
 mineral / infrastructure proposal
@@ -2949,60 +2087,16 @@ participatory evidence and reasoned decision
 avoid | redesign | condition | compensate/rehabilitate | reject
 ```
 
-**Visual 54 - Claim-evidence-analysis-qualification example**
+**Source visual - Claim-evidence-analysis-qualification example**
 
 | Step | Answer-writing content |
 |---|---|
 | claim | participation changes what counts as project impact |
-| named evidence | *Orissa Mining Corporation (2013)* required Gram Sabha determination of FRA-linked cultural/religious claims |
+| named evidence | *Orissa Mining Corporation* required Gram Sabha determination of FRA-linked cultural/religious claims |
 | analysis | sacred and community relationships cannot be reduced to market compensation |
 | qualification | MoEF retained the final clearance function; other statutory routes still applied |
 
-#### CLOSING RECALL FLOW — DEVELOPMENT, MINING AND DISPLACEMENT CONFLICT
-
-```text
-START / CONCEPT: DEVELOPMENT, MINING AND DISPLACEMENT CONFLICT
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · development · mining · displacement · conflict
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for development, mining and displacement conflict.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of development, mining and displacement conflict.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise development, mining and displacement conflict beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Development, Mining And Displacement Conflict is best understood through the exact constitutional, statutory and institutional rules governing development, mining and displacement conflict.
-```
-### SESSION 47 — FUNDAMENTAL RIGHTS AND DPSP INTERFACE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Fundamental Rights And Dpsp Interface explains the exact constitutional, statutory and institutional rules governing fundamental rights and dpsp interface.
-
-**Technical definition:** Fundamental Rights And Dpsp Interface operates through the exact constitutional, statutory and institutional rules governing fundamental rights and dpsp interface, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Fundamental Rights And Dpsp Interface is best understood through the exact constitutional, statutory and institutional rules governing fundamental rights and dpsp interface.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **fundamental**
-- **rights**
-- **dpsp**
-- **interface**
-
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with fundamental to explain the mechanism, and use rights for the decisive comparison or qualification.
-
-**Visual 55 - Constitutional rights web**
+**Source visual - Constitutional rights web**
 
 | Provision | Scheduled/tribal-area application |
 |---|---|
@@ -3017,49 +2111,80 @@ ANSWER-GRABBING FORMULATION: Development, Mining And Displacement Conflict is be
 - [ANALYSIS] The Schedules operationalise substantive equality but do not displace Part III.
 - [LIMIT] No single Article automatically decides a project; the correct answer integrates rights, enabling statutes, public purpose and proportionality.
 
-#### CLOSING RECALL FLOW — FUNDAMENTAL RIGHTS AND DPSP INTERFACE
+
+##### CASE-LAW CONTROL
+
+- [FACT] *Chebrolu Leela Prasad Rao v. State of Andhra Pradesh* (2020) invalidated 100 percent reservation of specified teacher posts for ST candidates in Scheduled Areas. Fifth Schedule protective power cannot become an equality-free zone.
+- [FACT] In *Wildlife First v. MoEFCC*, the Supreme Court's February 2019 direction concerning rejected FRA claimants was stayed later that month while States were required to examine process and data. It is used here only as procedural posture, not a final merits rule authorising mass eviction.
+
+
+#### PRELIMS TRAP
+
+Do not cite a stayed interim direction as final eviction law.
+
+#### MAINS USE
+
+Use to demonstrate that neither executive protection nor conservation administration is beyond review.
+
+#### RECAP
+
+protective purpose -> lawful means -> reasons/procedure -> judicial review
+
+
+### SESSION 28 - INTEGRATED LAND AND RESOURCE DECISION CHAIN
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: FUNDAMENTAL RIGHTS AND DPSP INTERFACE
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · fundamental · rights · dpsp · interface
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for fundamental rights and dpsp interface.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of fundamental rights and dpsp interface.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise fundamental rights and dpsp interface beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Fundamental Rights And Dpsp Interface is best understood through the exact constitutional, statutory and institutional rules governing fundamental rights and dpsp interface.
+STATUS -> TRANSFER LAW -> PESA -> FRA -> APPRAISAL -> REASONED DECISION -> REMEDY
 ```
-### SESSION 48 — ACCOUNTABILITY ARCHITECTURE
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: status -> transfer law -> PESA -> FRA -> appraisal -> reasoned decision -> remedy.*
 
-**Plain-language definition:** Accountability Architecture explains the exact constitutional, statutory and institutional rules governing accountability architecture.
+#### DEFINITION
 
-**Technical definition:** Accountability Architecture operates through the exact constitutional, statutory and institutional rules governing accountability architecture, with authority, procedure, limits and dated status kept distinct.
+A lawful resource decision in a tribal area is cumulative rather than satisfied by one meeting, clearance or payment.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Accountability Architecture is best understood through the exact constitutional, statutory and institutional rules governing accountability architecture.
+> Territorial status, State land law, PESA, FRA, acquisition/R&R, forest/environment law and reasoned alternatives operate in sequence.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **accountability**
-- **architecture**
+cumulative compliance; land status; PESA stage; FRA rights; clearance; R&R; remedy
 
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with accountability to explain the mechanism, and use architecture for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 56 - Five-accountability model**
+**Claim:** Sequencing prevents one institution from erasing another's legal function. **Named evidence:** Fifth Schedule, PESA, FRA and the Samatha/Niyamgiri lines. **Analysis:** The decision-maker must identify rights and participation before evaluating impact and alternatives. **Qualification:** Royalty, consultation, title and clearance are legally distinct.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Rights-impact chain**
+
+```text
+mineral / infrastructure proposal
+          |
+land take + forest diversion + ecological change
+          |
+livelihood + culture + sacred landscape + settlement impact
+          |
+PESA + FRA + land-transfer law + acquisition/R&R + environment law
+          |
+participatory evidence and reasoned decision
+          |
+avoid | redesign | condition | compensate/rehabilitate | reject
+```
+
+**Source visual - Claim-evidence-analysis-qualification example**
+
+| Step | Answer-writing content |
+|---|---|
+| claim | participation changes what counts as project impact |
+| named evidence | *Orissa Mining Corporation* required Gram Sabha determination of FRA-linked cultural/religious claims |
+| analysis | sacred and community relationships cannot be reduced to market compensation |
+| qualification | MoEF retained the final clearance function; other statutory routes still applied |
+
+**Source visual - Five-accountability model**
 
 ```text
 ELECTORAL     council / Panchayat representatives
@@ -3069,7 +2194,7 @@ ADMINISTRATIVE Governor/State/Union reporting and directions
 SOCIAL       Gram Sabha, public records, grievance and community monitoring
 ```
 
-**Visual 57 - Common accountability failures**
+**Source visual - Common accountability failures**
 
 | Failure | Institutional effect |
 |---|---|
@@ -3080,50 +2205,71 @@ SOCIAL       Gram Sabha, public records, grievance and community monitoring
 | Gram Sabha record is poor or manipulated | participation becomes formal compliance |
 | land/FRA records are incomplete | rights cannot survive project appraisal |
 
-#### CLOSING RECALL FLOW — ACCOUNTABILITY ARCHITECTURE
+
+
+#### PRELIMS TRAP
+
+Compensation is not consent; royalty is not ownership; consultation is not title.
+
+#### MAINS USE
+
+Use as the analytical centre of a 20-mark mining answer.
+
+#### RECAP
+
+status -> transfer law -> PESA -> FRA -> appraisal -> reasoned decision -> remedy
+
+
+### SESSION 29 - ACCOUNTABILITY AND IMPLEMENTATION INSTITUTIONS
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: ACCOUNTABILITY ARCHITECTURE
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · accountability · architecture
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for accountability architecture.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of accountability architecture.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise accountability architecture beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Accountability Architecture is best understood through the exact constitutional, statutory and institutional rules governing accountability architecture.
+POWER -> ACTOR -> RECORD -> RESOURCE -> REVIEW -> REMEDY
 ```
-### SESSION 49 — CURRENT IMPLEMENTATION CONTROL: PESA RULES
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: power -> actor -> record -> resource -> review -> remedy.*
 
-**Plain-language definition:** Current Implementation Control: PESA Rules explains the exact constitutional, statutory and institutional rules governing current implementation control: pesa rules.
+#### DEFINITION
 
-**Technical definition:** Current Implementation Control: PESA Rules operates through the exact constitutional, statutory and institutional rules governing current implementation control: pesa rules, with authority, procedure, limits and dated status kept distinct.
+Constitutional powers produce outcomes only when reports, records, staff, funds, reasons and remedies connect.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Current Implementation Control: PESA Rules is best understood through the exact constitutional, statutory and institutional rules governing current implementation control: pesa rules.
+> Governor reports, TAC advice, council funds, Gram Sabha records and administrative agencies each serve different roles.
 
 #### MUST-WRITE KEYWORDS
 
-- **PESA**
-- **Gram Sabha**
-- **Scheduled Areas**
-- **implementation**
-- **control**
-- **rules**
+public report; action-taken response; land/CFR record; staff-fund map; audit; ITDA; STC/TSP
 
-**How to use them:** Frame the answer through PESA; define Gram Sabha, connect Scheduled Areas with implementation to explain the mechanism, and use control for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 58 - Official rule-status snapshot, 19 Aug 2026**
+**Claim:** Visible decision chains reduce both paternalism and blame-shifting. **Named evidence:** Fifth/Sixth Schedule text, PESA/FRA procedure and administrative programme instruments. **Analysis:** Integrated Tribal Development Agencies and the Scheduled Tribe Component/older Tribal Sub-Plan terminology are administrative planning devices, not constitutional substitutes. **Qualification:** Counts, allocations and institutional forms vary by State and date and should be quoted only from current official sources.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Five-accountability model**
+
+```text
+ELECTORAL     council / Panchayat representatives
+LEGAL        Constitution, PESA, FRA, land and environment law
+FISCAL       grants, council funds, audit and utilisation records
+ADMINISTRATIVE Governor/State/Union reporting and directions
+SOCIAL       Gram Sabha, public records, grievance and community monitoring
+```
+
+**Source visual - Common accountability failures**
+
+| Failure | Institutional effect |
+|---|---|
+| TAC agenda controlled from above | advice becomes ceremonial |
+| Governor reports not transparent | Union supervision lacks public evidence |
+| council law awaits assent without timelines | autonomy becomes administrative delay |
+| parallel departments retain staff/funds | responsibility without control |
+| Gram Sabha record is poor or manipulated | participation becomes formal compliance |
+| land/FRA records are incomplete | rights cannot survive project appraisal |
+
+**Source visual - Official rule-status snapshot, 19 Aug 2026**
 
 | Official MoPR listing includes | Current qualification |
 |---|---|
@@ -3141,51 +2287,7 @@ ANSWER-GRABBING FORMULATION: Accountability Architecture is best understood thro
 - [CURRENT] The safe summary is **nine listed rule regimes for ten PESA States**, with Odisha the listed gap.
 - [LIMIT] Do not equate "rules notified" with "PESA fully implemented"; conformity of excise, markets, money-lending, land, minor minerals, forest produce and Panchayat laws must also be tested.
 
-#### CLOSING RECALL FLOW — CURRENT IMPLEMENTATION CONTROL: PESA RULES
-
-```text
-START / CONCEPT: CURRENT IMPLEMENTATION CONTROL: PESA RULES
-        |
-        v
-EXACT TERMS: PESA · Gram Sabha · Scheduled Areas · implementation · control · rules
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for current implementation control: pesa rules.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of current implementation control: pesa rules.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise current implementation control: pesa rules beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Current Implementation Control: PESA Rules is best understood through the exact constitutional, statutory and institutional rules governing current implementation control: pesa rules.
-```
-### SESSION 50 — CAPACITY, CONVERGENCE AND INSTITUTIONAL REFORM
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Capacity, Convergence And Institutional Reform explains the exact constitutional, statutory and institutional rules governing capacity, convergence and institutional reform.
-
-**Technical definition:** Capacity, Convergence And Institutional Reform operates through the exact constitutional, statutory and institutional rules governing capacity, convergence and institutional reform, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Capacity, Convergence And Institutional Reform is best understood through the exact constitutional, statutory and institutional rules governing capacity, convergence and institutional reform.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **capacity**
-- **convergence**
-- **institutional**
-- **reform**
-
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with capacity to explain the mechanism, and use convergence for the decisive comparison or qualification.
-
-**Visual 59 - From legal power to usable power**
+**Source visual - From legal power to usable power**
 
 | Gap | Reform design | Evidence discipline |
 |---|---|---|
@@ -3198,7 +2300,7 @@ ANSWER-GRABBING FORMULATION: Current Implementation Control: PESA Rules is best 
 | displaced responsibility | activity/staff/fund mapping | autonomy requires implementable functions |
 | weak remedy | accessible appeal, legal aid and restoration tracking | remedy must follow violation |
 
-**Visual 60 - ITDA / programme control**
+**Source visual - ITDA / programme control**
 
 ```text
 constitutional institution?  NO
@@ -3210,49 +2312,50 @@ can convergence programme waive PESA/FRA?  NO
 - [ANALYSIS] Integrated Tribal Development Agencies/Projects and current convergence programmes may coordinate delivery, but their mandate and territorial form are administrative and State-specific.
 - [LIMIT] Do not quote an ITDA count, dashboard total or programme reach without a dated official source.
 
-#### CLOSING RECALL FLOW — CAPACITY, CONVERGENCE AND INSTITUTIONAL REFORM
+
+
+#### PRELIMS TRAP
+
+Do not treat an ITDA, TAC, Gram Sabha and ADC as interchangeable.
+
+#### MAINS USE
+
+Use to move from diagnosis to implementable reform.
+
+#### RECAP
+
+power -> actor -> record -> resource -> review -> remedy
+
+
+### SESSION 30 - EXTENSION DEBATES AND CALIBRATED REFORM
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: CAPACITY, CONVERGENCE AND INSTITUTIONAL REFORM
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · capacity · convergence · institutional · reform
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for capacity, convergence and institutional reform.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of capacity, convergence and institutional reform.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise capacity, convergence and institutional reform beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Capacity, Convergence And Institutional Reform is best understood through the exact constitutional, statutory and institutional rules governing capacity, convergence and institutional reform.
+NEED -> COMPARE MODELS -> CONSULT -> LEGISLATE -> REVIEW OUTCOMES
 ```
-### SESSION 51 — LADAKH AND EXTENSION DEBATES
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: need -> compare models -> consult -> legislate -> review outcomes.*
 
-**Plain-language definition:** Ladakh And Extension Debates explains the exact constitutional, statutory and institutional rules governing ladakh and extension debates.
+#### DEFINITION
 
-**Technical definition:** Ladakh And Extension Debates operates through the exact constitutional, statutory and institutional rules governing ladakh and extension debates, with authority, procedure, limits and dated status kept distinct.
+Extension of Sixth Schedule-style autonomy should follow institutional fit, affected-community consultation and enacted legal design.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Ladakh And Extension Debates is best understood through the exact constitutional, statutory and institutional rules governing ladakh and extension debates.
+> Ladakh's demands illustrate why demographic description alone cannot create constitutional status.
 
 #### MUST-WRITE KEYWORDS
 
-- **Ladakh**
-- **Sixth Schedule**
-- **autonomy**
-- **extension**
-- **debates**
+territorial fit; customary institutions; minority safeguards; fiscal viability; hill council; enacted change
 
-**How to use them:** Frame the answer through Ladakh; define Sixth Schedule, connect autonomy with extension to explain the mechanism, and use debates for the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 61 - Extension test**
+**Claim:** The choice is among institutional designs, not between protection and no protection. **Named evidence:** Article 244, Article 244A, Article 371 models and statutory hill-council possibilities. **Analysis:** A tailored framework may combine land, culture, representation and accountability safeguards. **Qualification:** No political demand or committee discussion equals constitutional inclusion.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - Extension test**
 
 | Question | Analytical test |
 |---|---|
@@ -3266,49 +2369,7 @@ ANSWER-GRABBING FORMULATION: Capacity, Convergence And Institutional Reform is b
 - [CURRENT] Ladakh's constitutional-safeguard demand remains under official dialogue; Sixth Schedule status has not been granted.
 - [ANALYSIS] The strongest answer compares institutional fit rather than assuming that the Sixth Schedule is the only possible safeguard.
 
-#### CLOSING RECALL FLOW — LADAKH AND EXTENSION DEBATES
-
-```text
-START / CONCEPT: LADAKH AND EXTENSION DEBATES
-        |
-        v
-EXACT TERMS: Ladakh · Sixth Schedule · autonomy · extension · debates
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for ladakh and extension debates.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of ladakh and extension debates.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise ladakh and extension debates beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Ladakh And Extension Debates is best understood through the exact constitutional, statutory and institutional rules governing ladakh and extension debates.
-```
-### SESSION 52 — REFORM PRINCIPLES
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Reform Principles explains the exact constitutional, statutory and institutional rules governing reform principles.
-
-**Technical definition:** Reform Principles operates through the exact constitutional, statutory and institutional rules governing reform principles, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Reform Principles is best understood through the exact constitutional, statutory and institutional rules governing reform principles.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **reform**
-- **principles**
-
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with reform to explain the mechanism, and use principles for the decisive comparison or qualification.
-
-**Visual 62 - Eight-point reform compass**
+**Source visual - Eight-point reform compass**
 
 ```text
 1 territorial accuracy
@@ -3323,48 +2384,50 @@ ANSWER-GRABBING FORMULATION: Ladakh And Extension Debates is best understood thr
 
 - [ANALYSIS] Reform should convert protection into agency without romanticising custom or weakening constitutional rights.
 
-#### CLOSING RECALL FLOW — REFORM PRINCIPLES
+
+
+#### PRELIMS TRAP
+
+Do not state that Ladakh presently has Sixth Schedule status.
+
+#### MAINS USE
+
+Use for a balanced reform conclusion.
+
+#### RECAP
+
+need -> compare models -> consult -> legislate -> review outcomes
+
+
+### SESSION 31 - PRELIMS TRAPS AND MAINS ANSWER SPINE
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: REFORM PRINCIPLES
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · reform · principles
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for reform principles.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of reform principles.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise reform principles beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Reform Principles is best understood through the exact constitutional, statutory and institutional rules governing reform principles.
+DEFINE -> MAP -> MECHANISM -> EVIDENCE -> ANALYSIS -> LIMIT -> REFORM
 ```
-### SESSION 53 — PRELIMS TRAP BOARD
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: define -> map -> mechanism -> evidence -> analysis -> limit -> reform.*
 
-**Plain-language definition:** Prelims Trap Board explains the exact constitutional, statutory and institutional rules governing prelims trap board.
+#### DEFINITION
 
-**Technical definition:** Prelims Trap Board operates through the exact constitutional, statutory and institutional rules governing prelims trap board, with authority, procedure, limits and dated status kept distinct.
+A high-scoring answer identifies the territory, legal source, institution, exact power, assent route, evidence and qualification.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### ANSWER-GRABBING LINE
 
-> Prelims Trap Board is best understood through the exact constitutional, statutory and institutional rules governing prelims trap board.
+> Most errors arise from collapsing the Fifth Schedule, Sixth Schedule, PESA, FRA, Article 371 and statutory councils.
 
 #### MUST-WRITE KEYWORDS
 
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **board**
+territory; source; actor; verb; assent; named evidence; qualification; reform
 
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with board to explain the mechanism, and close with the decisive comparison or qualification.
+#### TOPIC-SPECIFIC PARAGRAPH LAB
 
-**Visual 63 - High-frequency reversals**
+**Claim:** Legal precision converts a descriptive list into constitutional analysis. **Named evidence:** Article 244 architecture and the verified PYQ pattern. **Analysis:** The answer spine works for comparison, land conflict, autonomy and accountability questions. **Qualification:** A list of Articles without mechanism or limits is incomplete.
+
+#### EVIDENCE AND EXPLANATION
+
+**Source visual - High-frequency reversals**
 
 | Wrong | Correct |
 |---|---|
@@ -3381,49 +2444,7 @@ ANSWER-GRABBING FORMULATION: Reform Principles is best understood through the ex
 | Niyamgiri made Gram Sabha final clearance authority | MoEF retained final Stage-II decision in light of Gram Sabha decisions |
 | Article 371 equals Sixth Schedule | separate constitutional techniques |
 
-#### CLOSING RECALL FLOW — PRELIMS TRAP BOARD
-
-```text
-START / CONCEPT: PRELIMS TRAP BOARD
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · board
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for prelims trap board.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of prelims trap board.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise prelims trap board beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Prelims Trap Board is best understood through the exact constitutional, statutory and institutional rules governing prelims trap board.
-```
-### SESSION 54 — MAINS ANSWER-WRITING METHOD
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Mains Answer-Writing Method explains the exact constitutional, statutory and institutional rules governing mains answer-writing method.
-
-**Technical definition:** Mains Answer-Writing Method operates through the exact constitutional, statutory and institutional rules governing mains answer-writing method, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Mains Answer-Writing Method is best understood through the exact constitutional, statutory and institutional rules governing mains answer-writing method.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **writing**
-- **method**
-
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with writing to explain the mechanism, and use method for the decisive comparison or qualification.
-
-**Visual 64 - Evidence-led paragraph**
+**Source visual - Evidence-led paragraph**
 
 ```text
 CLAIM
@@ -3442,49 +2463,7 @@ CLAIM
 - **Qualification:** it did not enact one universal veto.
 - **Mini-verdict:** legal precision strengthens, rather than weakens, the case for meaningful participation.
 
-#### CLOSING RECALL FLOW — MAINS ANSWER-WRITING METHOD
-
-```text
-START / CONCEPT: MAINS ANSWER-WRITING METHOD
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · writing · method
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for mains answer-writing method.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of mains answer-writing method.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise mains answer-writing method beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Mains Answer-Writing Method is best understood through the exact constitutional, statutory and institutional rules governing mains answer-writing method.
-```
-### SESSION 55 — THESIS SELECTOR
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Thesis Selector explains the exact constitutional, statutory and institutional rules governing thesis selector.
-
-**Technical definition:** Thesis Selector operates through the exact constitutional, statutory and institutional rules governing thesis selector, with authority, procedure, limits and dated status kept distinct.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Thesis Selector is best understood through the exact constitutional, statutory and institutional rules governing thesis selector.
-
-#### MUST-WRITE KEYWORDS
-
-- **Article 244**
-- **Scheduled Areas**
-- **tribal governance**
-- **thesis**
-- **selector**
-
-**How to use them:** Frame the answer through Article 244; define Scheduled Areas, connect tribal governance with thesis to explain the mechanism, and use selector for the decisive comparison or qualification.
-
-**Visual 65 - Demand-to-thesis matrix**
+**Source visual - Demand-to-thesis matrix**
 
 | Demand | Defensible thesis |
 |---|---|
@@ -3497,1309 +2476,896 @@ ANSWER-GRABBING FORMULATION: Mains Answer-Writing Method is best understood thro
 | mining conflict | lawful development requires cumulative compliance, not substitution of one clearance for another |
 | reform | transparency, records, capacity and remedy must connect constitutional text to community power |
 
-#### CLOSING RECALL FLOW — THESIS SELECTOR
 
-```text
-START / CONCEPT: THESIS SELECTOR
-        |
-        v
-EXACT TERMS: Article 244 · Scheduled Areas · tribal governance · thesis · selector
-        |
-        v
-MECHANISM / ARGUMENT: Trace the governing provision, empowered institution, procedure and legal check for thesis selector.
-        |
-        v
-CONSEQUENCE / CONTRAST: This determines the rights, autonomy, accountability and exam consequence of thesis selector.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not generalise thesis selector beyond its exact territorial field, legal verb, assent rule or dated status.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Thesis Selector is best understood through the exact constitutional, statutory and institutional rules governing thesis selector.
-```
-### POLITY HOSTILE SEMANTIC-REVIEW CORE CONTROL
 
-- **Must remember:** Keep Article 244, Article 244A, the Fifth Schedule and the Sixth Schedule separate before adding the statutory PESA and FRA layers.
-- **Close distinction:** PESA section 4 uses distinct verbs: approval, consultation, mandatory prior recommendation, ownership and control. None creates one universal veto.
-- **Legal/source limit:** The 4 August 2026 MHA parliamentary answer identifies ten Sixth-Schedule ADCs in four States; Ladakh remains outside the Sixth Schedule.
+#### PRELIMS TRAP
 
-### Semantic-completeness ownership and PYQ control
+President area/assent regulation; Governor district/assent council law.
 
-- **Constitutional map:** Article 244(1) applies the Fifth Schedule to Scheduled
-  Areas and Scheduled Tribes in States other than Assam, Meghalaya, Tripura and
-  Mizoram; Article 244(2) applies the Sixth Schedule to tribal areas in those
-  four States. Article 244A is a separate parliamentary route for an autonomous
-  State within Assam.
-- **Fifth-Schedule territory:** the President declares, enlarges, diminishes,
-  alters or rescinds a Scheduled Area by order after the constitutional
-  consultation route. Official Ministry of Tribal Affairs material continues
-  to list Scheduled Areas in ten States.
-- **Fifth-Schedule administration:** State executive power extends to Scheduled
-  Areas; the Governor reports annually, or whenever required, to the President;
-  and Union executive power extends to directions regarding administration.
-- **TAC precision:** a Tribes Advisory Council has not more than twenty members.
-  As nearly as may be, three-fourths are representatives of Scheduled Tribes in
-  the State Legislative Assembly, with the Schedule's shortfall rule. It advises
-  on welfare and advancement matters referred by the Governor; it does not legislate.
-- **Governor's paragraph 5 power:** by public notification the Governor may
-  direct that an Act does not apply, or applies with exceptions/modifications,
-  and may make peace-and-good-government regulations on tribal land transfer,
-  land allotment and money-lending. Regulations require presidential assent and,
-  where a TAC exists, consultation with it.
-- **Sixth-Schedule institutions:** the Governor organises autonomous districts
-  and regions. District and Regional Councils exercise textually specified
-  legislative, judicial, executive and revenue powers; council laws requiring
-  assent, State-law application and parliamentary-law application remain
-  paragraph- and State-specific rather than one blanket rule.
-- **Current council map:** an official MHA Lok Sabha answer dated 4 August 2026
-  lists ten Sixth-Schedule Autonomous District Councils: three in Assam, three
-  in Meghalaya, three in Mizoram and one in Tripura. Special council designs,
-  including Bodoland, must not be replaced by the ordinary maximum-thirty model.
-- **PESA verbs:** section 4 of the PESA Act, 1996 distinguishes Gram Sabha
-  approval of plans/programmes/projects, beneficiary identification, utilisation
-  certification, consultation before land acquisition and rehabilitation, and
-  mandatory prior recommendation for specified minor-mineral licences, leases
-  and concessions. Ownership of minor forest produce and specified control
-  powers do not create a universal project veto.
-- **FRA and judgments:** the Forest Rights Act, 2006 has its own rights-recognition
-  process initiated through the Gram Sabha. Samatha (1997) is used within its
-  Andhra Pradesh Scheduled-Area land-transfer setting. Orissa Mining Corporation
-  (2013) required Gram Sabha determination of specified FRA-linked cultural and
-  religious claims at Niyamgiri while leaving the final Stage-II decision with MoEF.
-- **Ownership/PYQ firewall:** Topic 23 owns Panchayat structure and the PESA
-  local-government bridge; Topic 22 owns Articles 371-371J; Topic 31 owns the
-  National Commissions; Topic 53 owns the wider special-provisions-for-classes
-  architecture. Direct and routed 2019-2026 Scheduled-Area demands retain their
-  official-key or answer-free status without fabricated answer letters.
+#### MAINS USE
+
+Use as the final writing checklist.
+
+#### RECAP
+
+define -> map -> mechanism -> evidence -> analysis -> limit -> reform
 
 ## BASIC MCQS / REMEDIATION
 
-### Original MCQ loop - strict continuous A -> B -> C -> D rotation
+This section contains exactly 32 original MCQs before the PYQs. The answer sequence is ABCD repeated eight times. Every option has a distinct question-specific explanation and every question has a unique examiner trap.
 
-### OM1. Article 244 mapping
+### MCQ 1
 
-Which pairing is correct?
+Which mapping is constitutionally correct?
 
-A. Article 244(1)-Fifth Schedule; Article 244(2)-Sixth Schedule.
-B. Article 339-Sixth Schedule council composition.
-C. Article 244(1)-Sixth Schedule; Article 244(2)-Fifth Schedule.
-D. Article 244A-Fifth Schedule declaration by President.
+A. Article 244(1) applies the Fifth Schedule.
+B. Article 244(1) applies the Sixth Schedule.
+C. Article 244(2) applies PESA.
+D. Article 244A declares Scheduled Areas.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 244 is the gateway that applies the two Schedules to their different territorial fields.
+**Option explanations**
 
-### OM2. Fifth Schedule States
+- A: Correct: clause (1) applies the Fifth Schedule to its defined field.
+- B: Clause (2), not clause (1), applies the Sixth Schedule.
+- C: PESA is a 1996 statute extending modified Part IX.
+- D: Article 244A enables an autonomous State within Assam.
 
-Which statement is correct as on 5 September 2026?
+**Examiner trap 1:** Map the clause before recalling the institution.
 
-A. Assam is one of the 10 Fifth Schedule States.
-B. Official Central material identifies notified Fifth Schedule areas in 10 States.
-C. Every State with an ST population has a notified Scheduled Area.
-D. All territory in those 10 States is scheduled.
+### MCQ 2
+
+The Fifth Schedule applies to Scheduled Areas in:
+
+A. all States including the four Sixth Schedule States.
+B. States other than Assam, Meghalaya, Tripura and Mizoram.
+C. only the four North-Eastern States.
+D. Union Territories alone.
 
 **Answer: B.**
 
-**Explanation:** [CURRENT] Ten States have notified areas; notification is territorial, not State-wide.
+**Option explanations**
 
-### OM3. Declaration authority
+- A: The constitutional text expressly excludes the four Sixth Schedule States.
+- B: Correct: Article 244(1) states this territorial rule.
+- C: Those four States are the field of Article 244(2).
+- D: The Fifth Schedule is framed for States, not a UT-only category.
 
-A legally effective Scheduled Area status is created by:
+**Examiner trap 2:** A State may contain both scheduled and non-scheduled territory.
 
-A. a Gram Sabha resolution under PESA.
-B. a State Cabinet decision.
-C. a Presidential Order under the Fifth Schedule.
-D. a TAC resolution.
+### MCQ 3
+
+Legal status as a Scheduled Area is created by:
+
+A. a TAC resolution.
+B. a State Cabinet memorandum.
+C. a Presidential order under paragraph 6.
+D. an Autonomous District Council law.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Administrative criteria guide identification, but the Presidential Order creates status.
+**Option explanations**
 
-### OM4. Executive power
+- A: TAC advice cannot notify territory.
+- B: Administrative recommendation does not create constitutional status.
+- C: Correct: paragraph 6 uses the Presidential-order route.
+- D: An ADC operates under the Sixth Schedule.
 
-Which is the most accurate consequence of Fifth Schedule notification?
+**Examiner trap 3:** Official criteria guide identification; the order creates status.
 
-A. The State loses all executive power.
-B. The area becomes a Union Territory.
-C. An ADC assumes total administration.
-D. State executive power continues, subject to Governor reporting and Union directions.
+### MCQ 4
+
+Which statement on administration of a Fifth Schedule area is correct?
+
+A. A local body assumes total administration.
+B. The Union automatically replaces the State.
+C. The TAC becomes the executive government.
+D. State executive power continues, with Governor reports and Union directions.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Paragraph 3 creates supervision, not automatic substitution of government.
+**Option explanations**
 
-### OM5. TAC composition
+- A: No such automatic local takeover exists.
+- B: The Union has a direction power, not automatic total administration.
+- C: TAC is advisory rather than executive.
+- D: Correct: paragraph 3 preserves State administration within supervision.
 
-Which statement reflects the Fifth Schedule?
+**Examiner trap 4:** Supervision is not substitution.
 
-A. TAC has not more than 20 members, with the specified ST-legislator representation rule.
-B. TAC is chaired constitutionally by the President.
-C. TAC exists only in Sixth Schedule States.
-D. TAC has 30 elected members and four nominees.
+### MCQ 5
+
+The ordinary TAC composition rule is:
+
+A. not more than twenty, with about three-fourths ST Assembly representatives.
+B. thirty members, all elected.
+C. forty-six members, including six nominees.
+D. a body composed only of officials.
 
 **Answer: A.**
 
-**Explanation:** [FACT] The 30-member pattern belongs to the ordinary Sixth Schedule council ceiling.
+**Option explanations**
 
-### OM6. TAC function
+- A: Correct: this is paragraph 4, including the shortfall mechanism.
+- B: Thirty is associated with the ordinary Sixth Schedule council ceiling.
+- C: Forty-six is the Bodoland-specific design.
+- D: The Schedule seeks tribal representative membership, not an official-only board.
 
-The primary constitutional duty of the TAC is to:
+**Examiner trap 5:** Remember 'twenty and three-fourths', not 'thirty and four'.
 
-A. decide forest-right claims.
-B. advise on ST welfare and advancement matters referred by the Governor.
-C. assent to State legislation.
-D. levy land revenue.
+### MCQ 6
+
+A Tribes Advisory Council primarily:
+
+A. enacts binding land laws.
+B. advises on ST welfare and advancement matters referred by the Governor.
+C. decides appeals from village courts.
+D. levies land revenue.
 
 **Answer: B.**
 
-**Explanation:** [FACT] TAC advice is not legislation, adjudication or executive approval.
+**Option explanations**
 
-### OM7. Fifth Schedule regulations
+- A: The Governor, not TAC, makes paragraph 5 regulations.
+- B: Correct: referral and advice define TAC's role.
+- C: Village/council courts belong to the Sixth Schedule.
+- D: TAC has no constitutional tax power.
 
-A Governor-made regulation under paragraph 5 takes effect after:
+**Examiner trap 6:** Advisory representation is not territorial government.
 
-A. State Assembly ratification.
-B. Supreme Court certification.
-C. presidential assent.
-D. TAC approval alone.
+### MCQ 7
+
+A Governor-made Fifth Schedule regulation becomes effective after:
+
+A. State Cabinet publication alone.
+B. Governor assent.
+C. Presidential assent.
+D. approval by an ADC.
 
 **Answer: C.**
 
-**Explanation:** [FACT] TAC consultation where it exists precedes the regulation; presidential assent gives effect.
+**Option explanations**
 
-### OM8. Law-application direction
+- A: Publication alone cannot replace the assent condition.
+- B: The Governor makes the regulation rather than assenting to it.
+- C: Correct: paragraph 5 requires submission to and assent by the President.
+- D: An ADC has no role in a Fifth Schedule regulation.
 
-Which power can expressly operate retrospectively?
+**Examiner trap 7:** Keep the Fifth-President and Sixth-Governor assent reversal clear.
 
-A. Article 342 ST notification only.
-B. TAC advice.
-C. Gram Sabha beneficiary selection.
-D. Governor's direction adapting/non-applying a law in a Scheduled Area.
+### MCQ 8
+
+Parliament may amend the Fifth Schedule:
+
+A. only through a referendum.
+B. only after ratification by half the States.
+C. only under Article 368 special majority.
+D. by ordinary law under paragraph 7, not deemed an Article 368 amendment.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Fifth Schedule paragraph 5(1) permits retrospective effect.
+**Option explanations**
 
-### OM9. Article 339
+- A: No referendum route is prescribed.
+- B: State ratification is not the paragraph 7 mechanism.
+- C: Paragraph 7 expressly excludes Article 368 treatment.
+- D: Correct: the Schedule contains its own amendment route.
 
-Article 339(2) principally concerns:
+**Examiner trap 8:** Special constitutional text can itself prescribe ordinary-law alteration.
 
-A. Union directions on State schemes essential for ST welfare.
-B. recognition of ST communities.
-C. Governor assent to ADC laws.
-D. creation of an autonomous State within Assam.
-
-**Answer: A.**
-
-**Explanation:** [FACT] It is a welfare-scheme direction power, distinct from Article 244A.
-
-### OM10. Article 275(1)
-
-Which provision supports grants for ST welfare and raising Scheduled-Area administration?
-
-A. Article 243D.
-B. Article 275(1).
-C. Article 300A.
-D. Article 371A.
-
-**Answer: B.**
-
-**Explanation:** [FACT] Article 275(1) is the constitutional fiscal route.
-
-### OM11. Fifth Schedule evaluation
-
-Which conclusion is best?
-
-A. Union directions remove the need for State administration.
-B. Constitutional powers guarantee outcomes without institutions.
-C. effectiveness depends on timely power use, participation, records and capacity.
-D. TAC is stronger than a legislature.
-
-**Answer: C.**
-
-**Explanation:** [ANALYSIS] The framework's performance is multiplicative, not self-executing.
-
-### OM12. Territorial trap
-
-Which statement is false?
-
-A. Some districts may be only partly covered.
-B. Presidential Orders define Scheduled Area coverage.
-C. ST population alone does not create status.
-D. Once a State is listed, its entire territory is a Scheduled Area.
-
-**Answer: D.**
-
-**Explanation:** [FACT] Legal status attaches only to notified territory.
-
-### OM13. Sixth Schedule States
-
-Which is the complete Sixth Schedule set?
-
-A. Assam, Meghalaya, Tripura and Mizoram.
-B. Assam, Nagaland, Manipur and Mizoram.
-C. Meghalaya, Tripura, Mizoram and Arunachal Pradesh.
-D. All eight North-Eastern States.
-
-**Answer: A.**
-
-**Explanation:** [FACT] "A-M-T-M" is the exact constitutional set.
-
-### OM14. Autonomous regions
-
-An autonomous region may be created where:
-
-A. Parliament declares a new State.
-B. different Scheduled Tribes inhabit parts of an autonomous district.
-C. a TAC demands taxation power.
-D. a Scheduled Area becomes a UT.
-
-**Answer: B.**
-
-**Explanation:** [FACT] The Governor may divide such areas into autonomous regions.
-
-### OM15. Ordinary council composition
-
-Which statement is correct?
-
-A. Every District Council has exactly 30 elected members.
-B. Elected members have no fixed term.
-C. The ordinary ceiling is 30, with not more than four Governor-nominated members.
-D. All members are nominated by the Governor.
-
-**Answer: C.**
-
-**Explanation:** [FACT] Special amendments, including BTC's design, create exceptions.
-
-### OM16. Council law
-
-A District/Regional Council law under paragraph 3 ordinarily takes effect after:
-
-A. President's assent.
-B. TAC consultation.
-C. State Cabinet approval alone.
-D. Governor's assent.
-
-**Answer: D.**
-
-**Explanation:** [FACT] This is the crucial Fifth-versus-Sixth assent reversal.
-
-### OM17. Council legislative field
-
-Which is a paragraph 3 subject?
-
-A. regulation of shifting cultivation.
-B. citizenship.
-C. defence.
-D. currency.
-
-**Answer: A.**
-
-**Explanation:** [FACT] Land, non-reserved forests, local institutions and customary matters are core fields.
-
-### OM18. Forest competence
-
-Which forest category is excluded from the ordinary paragraph 3 forest field?
-
-A. community forest resource.
-B. reserved forest.
-C. protected forest.
-D. village forest.
-
-**Answer: B.**
-
-**Explanation:** [FACT] The omission of "reserved" is a standard close-option discriminator.
-
-### OM19. Council courts
-
-The safest description of Sixth Schedule judicial power is:
-
-A. judicial power exists only under PESA.
-B. ADCs try every criminal offence.
-C. village/council courts handle specified matters within the tribal-party jurisdictional boundary.
-D. ADCs replace all High Courts.
-
-**Answer: C.**
-
-**Explanation:** [FACT] Jurisdiction is bounded by parties, territory, subject and rules.
-
-### OM20. Fiscal autonomy
-
-Which is within the Sixth Schedule revenue basket?
-
-A. corporation tax.
-B. customs duty.
-C. GST on inter-State supply.
-D. specified taxes on professions, animals/vehicles, markets and local services.
-
-**Answer: D.**
-
-**Explanation:** [FACT] Council fiscal power is constitutionally specified, not plenary.
-
-### OM21. Mineral royalties
-
-Paragraph 9 contemplates:
-
-A. an agreed share of mineral royalties for the District Council.
-B. automatic cancellation of every State lease.
-C. exclusive council ownership of all minerals.
-D. no State role in minerals.
-
-**Answer: A.**
-
-**Explanation:** [FACT] Revenue sharing is not mineral sovereignty.
-
-### OM22. Bodoland exception
-
-Which statement is accurate?
-
-A. BTC follows an invariable 26 elected plus four nominated design.
-B. BTC has a special 46-member design: 40 elected and six nominated.
-C. BTC is a Fifth Schedule TAC.
-D. BTC is an autonomous State under Article 244A.
-
-**Answer: B.**
-
-**Explanation:** [FACT] The exception warns against universalising the ordinary paragraph 2 model.
-
-### OM23. Assam asymmetry
-
-Paragraphs 3A and 3B illustrate:
-
-A. abolition of Governor assent.
-B. extension of PESA to BTC.
-C. additional subject allocations for specified Assam councils.
-D. automatic Statehood.
-
-**Answer: C.**
-
-**Explanation:** [FACT] Sixth Schedule autonomy is internally asymmetric.
-
-### OM24. Article 244A
+### MCQ 9
 
 Article 244A enables Parliament to:
 
-A. notify an ST list.
-B. create a PESA State.
-C. declare all Assam a Scheduled Area.
-D. create an autonomous State within Assam with a legislature/CoM.
-
-**Answer: D.**
-
-**Explanation:** [FACT] It is deeper than an ADC but remains an enabling constitutional route.
-
-### OM25. PESA reach
-
-PESA applies to:
-
-A. Fifth Schedule Scheduled Areas.
-B. all Sixth Schedule tribal areas.
-C. every rural area in India.
-D. only forest land.
+A. form an autonomous State within Assam with a legislature, Council of Ministers or both.
+B. notify Scheduled Areas throughout India.
+C. specify Scheduled Tribes.
+D. create every statutory hill council.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 243M exclusion is modified by PESA for Fifth Schedule areas.
+**Option explanations**
 
-### OM26. Acquisition and R&R
+- A: Correct: this is the Assam-only autonomous-State route.
+- B: Fifth Schedule paragraph 6 supplies that notification route.
+- C: Article 342 supplies the ST-specification route.
+- D: Statutory councils depend on their enabling Acts.
 
-PESA section 4 requires, before land acquisition and resettlement/rehabilitation:
+**Examiner trap 9:** An autonomous State route is distinct from an autonomous district.
+
+### MCQ 10
+
+The Sixth Schedule's exact State set is:
+
+A. Assam, Nagaland, Manipur and Mizoram.
+B. Assam, Meghalaya, Tripura and Mizoram.
+C. all eight North-Eastern States.
+D. Meghalaya, Tripura, Mizoram and Arunachal Pradesh.
+
+**Answer: B.**
+
+**Option explanations**
+
+- A: Nagaland and Manipur use other constitutional arrangements.
+- B: Correct: use the AMTM mnemonic.
+- C: The Schedule is not pan-North-East.
+- D: Arunachal Pradesh is not in the Article 244(2) set.
+
+**Examiner trap 10:** Geography is a high-frequency elimination tool.
+
+### MCQ 11
+
+Where different Scheduled Tribes inhabit parts of an autonomous district, the Governor may:
+
+A. declare a Fifth Schedule area.
+B. specify the ST list.
+C. divide the area into autonomous regions.
+D. create a new State without Parliament.
+
+**Answer: C.**
+
+**Option explanations**
+
+- A: Scheduled Area declaration is a Presidential route.
+- B: Article 342 concerns tribe specification.
+- C: Correct: autonomous regions protect internal territorial diversity.
+- D: State creation requires parliamentary constitutional procedure.
+
+**Examiner trap 11:** District contains region; region does not become a State.
+
+### MCQ 12
+
+Under the ordinary paragraph 2 model, a District Council has:
+
+A. exactly thirty elected members.
+B. twenty members with three-fourths ST MLAs.
+C. forty-six members in every State.
+D. not more than thirty, up to four nominated and the rest elected.
+
+**Answer: D.**
+
+**Option explanations**
+
+- A: Thirty is a ceiling and nominees are permitted.
+- B: That is a distorted TAC rule.
+- C: Forty-six is a bounded Bodoland exception.
+- D: Correct: this is the ordinary constitutional model.
+
+**Examiner trap 12:** Do not convert a ceiling into a compulsory composition.
+
+### MCQ 13
+
+Which statement accurately describes the Bodoland Territorial Council?
+
+A. It has a special up-to-forty-six design: forty elected and six nominated.
+B. It follows the twenty-member TAC rule.
+C. It is an autonomous State under Article 244A.
+D. It is a statutory council outside the Sixth Schedule.
+
+**Answer: A.**
+
+**Option explanations**
+
+- A: Correct: the 2003 amendment supplies the bounded exception.
+- B: TAC belongs to the Fifth Schedule.
+- C: Article 244A has not converted BTC into an autonomous State.
+- D: BTC is constitutionally located in the Sixth Schedule.
+
+**Examiner trap 13:** State-specific exception must stay attached to Bodoland.
+
+### MCQ 14
+
+Which is within the ordinary paragraph 3 legislative field?
+
+A. reserved forests.
+B. regulation of shifting cultivation.
+C. currency.
+D. defence.
+
+**Answer: B.**
+
+**Option explanations**
+
+- A: The text covers forests other than reserved forests.
+- B: Correct: shifting cultivation is expressly listed.
+- C: Currency is a Union field outside this grant.
+- D: Defence is not a council subject.
+
+**Examiner trap 14:** The adjective 'reserved' decides the forest option.
+
+### MCQ 15
+
+An ordinary District or Regional Council law under paragraph 3 takes effect after:
+
+A. Presidential assent in every case.
+B. TAC approval.
+C. Governor's assent.
+D. Supreme Court certification.
+
+**Answer: C.**
+
+**Option explanations**
+
+- A: President is not the routine assent authority for ordinary council laws.
+- B: TAC is a Fifth Schedule advisory body.
+- C: Correct: the Governor's assent is the ordinary rule.
+- D: Courts review disputes; they do not certify every council law.
+
+**Examiner trap 15:** Do not import the Fifth Schedule assent rule.
+
+### MCQ 16
+
+Sixth Schedule village or council courts:
+
+A. replace the High Court.
+B. exercise unlimited criminal jurisdiction.
+C. hear every dispute involving any resident.
+D. exercise specified jurisdiction within territorial, party and legal limits.
+
+**Answer: D.**
+
+**Option explanations**
+
+- A: High Court jurisdiction remains constitutionally available.
+- B: The Schedule and rules bound criminal competence.
+- C: Party and territorial conditions matter.
+- D: Correct: customary justice is constitutionally nested.
+
+**Examiner trap 16:** Local justice is not judicial sovereignty.
+
+### MCQ 17
+
+A Sixth Schedule council may constitutionally:
+
+A. assess and collect land revenue and levy specified taxes.
+B. levy any tax in the Seventh Schedule.
+C. appropriate the Consolidated Fund of India.
+D. abolish State audit.
+
+**Answer: A.**
+
+**Option explanations**
+
+- A: Correct: paragraphs 7 and 8 create enumerated fiscal powers.
+- B: Council taxing power is not plenary.
+- C: The Union fund is outside council appropriation.
+- D: Council funds remain subject to accounting and audit.
+
+**Examiner trap 17:** Enumerated fiscal autonomy is not sovereign taxation.
+
+### MCQ 18
+
+Paragraph 10 principally concerns:
+
+A. declaration of Scheduled Areas.
+B. regulation and licensing of money-lending and trading by non-tribals.
+C. formation of an autonomous State.
+D. specification of Scheduled Tribes.
+
+**Answer: B.**
+
+**Option explanations**
+
+- A: That is a Fifth Schedule Presidential function.
+- B: Correct: the paragraph uses council regulation, supermajority and Governor assent.
+- C: Article 244A supplies that route.
+- D: Article 342 supplies the specification route.
+
+**Examiner trap 18:** Licensing power has its own supermajority and established-trader limit.
+
+### MCQ 19
+
+Paragraph 9 of the Sixth Schedule provides for:
+
+A. council ownership of all subsoil minerals.
+B. a Gram Sabha veto over mining.
+C. an agreed share of mineral royalties, with Governor determination of disputes.
+D. automatic transfer of mining leases to the council.
+
+**Answer: C.**
+
+**Option explanations**
+
+- A: The Schedule does not vest all mineral ownership.
+- B: PESA/FRA procedures are different legal questions.
+- C: Correct: it is a State-Council revenue-sharing mechanism.
+- D: The lease remains governed by applicable mining and land law.
+
+**Examiner trap 19:** Royalty share is neither title nor consent.
+
+### MCQ 20
+
+Which statement on application of laws is correct?
+
+A. All four States use one identical council-consent rule.
+B. Every parliamentary Act is automatically excluded.
+C. State Acts always prevail in every State.
+D. Paragraphs 12, 12A, 12AA and 12B create different State-specific filters.
+
+**Answer: D.**
+
+**Option explanations**
+
+- A: The Constitution deliberately differentiates the four States.
+- B: Presidential or gubernatorial filtering depends on the paragraph.
+- C: Meghalaya's repugnancy rule cannot be universalised.
+- D: Correct: name the State, paragraph, actor and law class.
+
+**Examiner trap 20:** A blanket non-application sentence is constitutionally unsafe.
+
+### MCQ 21
+
+Under the ordinary Sixth Schedule control sequence:
+
+A. a paragraph 14 commission can support a paragraph 16 dissolution route.
+B. the President dissolves every council at pleasure.
+C. TAC advice is compulsory before suspension.
+D. Article 356 automatically follows a council dispute.
+
+**Answer: A.**
+
+**Option explanations**
+
+- A: Correct: commission, recommendation and bounded reconstitution/interim administration are linked.
+- B: The ordinary actor is the Governor under specified conditions.
+- C: TAC is not a Sixth Schedule body.
+- D: Council control mechanisms are distinct from President's Rule.
+
+**Examiner trap 21:** Separate commission, suspension and dissolution paragraphs.
+
+### MCQ 22
+
+Which comparison is legally sound?
+
+A. Every hill council is a Sixth Schedule ADC.
+B. A constitutional ADC, statutory council and Article 371 committee derive powers from different sources.
+C. Article 371B creates a District Council.
+D. PESA creates the Manipur Hill Areas Committee.
+
+**Answer: B.**
+
+**Option explanations**
+
+- A: Institutional name cannot prove constitutional source.
+- B: Correct: source determines field, finance and review.
+- C: Article 371B concerns an Assam Assembly committee.
+- D: The Hill Areas Committee derives from Article 371C arrangements.
+
+**Examiner trap 22:** Decode source before comparing powers.
+
+### MCQ 23
+
+PESA 1996 extends modified Part IX to:
+
+A. Sixth Schedule tribal areas only.
+B. all rural India without exception.
+C. Fifth Schedule Scheduled Areas.
+D. only forest villages.
+
+**Answer: C.**
+
+**Option explanations**
+
+- A: PESA does not govern Sixth Schedule areas.
+- B: Ordinary Part IX and PESA have different fields.
+- C: Correct: this is the statute's territorial purpose.
+- D: Its village concept is wider than only forest villages.
+
+**Examiner trap 23:** PESA is the Fifth Schedule bridge.
+
+### MCQ 24
+
+PESA's village concept may be based on:
+
+A. only a district headquarters.
+B. only a revenue district.
+C. only a statutory municipality.
+D. a habitation, hamlet or group managing affairs by traditions and customs.
+
+**Answer: D.**
+
+**Option explanations**
+
+- A: A headquarters is not the statutory definition.
+- B: The unit is intentionally more local than a district.
+- C: Municipal territory is not the PESA village model.
+- D: Correct: the law recognises lived community organisation.
+
+**Examiner trap 24:** Do not force the habitation into a large Gram Panchayat boundary.
+
+### MCQ 25
+
+Before village-Panchayat implementation, PESA requires the Gram Sabha to:
+
+A. approve local social and economic development plans, programmes and projects.
+B. assent to every State Act.
+C. issue mining leases for major minerals.
+D. declare the area scheduled.
+
+**Answer: A.**
+
+**Option explanations**
+
+- A: Correct: section 4(e) uses approval for this local-development stage.
+- B: Legislative assent is not a Gram Sabha function.
+- C: The Act does not confer general major-mineral leasing power.
+- D: Scheduled Area status comes by Presidential order.
+
+**Examiner trap 25:** Use 'approve' only for the decision that section 4 assigns it.
+
+### MCQ 26
+
+Before land acquisition and R&R in Scheduled Areas, the central PESA text requires:
 
 A. universal Gram Sabha consent.
 B. consultation with the Gram Sabha or Panchayat at the appropriate level.
 C. President's assent.
-D. TAC legislation.
+D. District Council legislation.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Consultation must not be inflated into the different verb "consent".
+**Option explanations**
 
-### OM27. Minor minerals
+- A: The statute uses consultation, not a universal consent formula.
+- B: Correct: section 4(i) uses this exact intensity.
+- C: Presidential assent belongs to Fifth Schedule regulations.
+- D: ADCs are Sixth Schedule institutions.
 
-Which PESA formulation is correct?
+**Examiner trap 26:** Consultation and consent are not synonyms.
 
-A. every major-mineral project needs TAC approval.
-B. every mine needs President's assent.
-C. specified minor-mineral licences/leases require mandatory prior recommendation.
-D. Gram Sabha owns all subsoil minerals.
+### MCQ 27
+
+For specified minor-mineral prospecting licences or mining leases, PESA requires:
+
+A. TAC enactment.
+B. MoEF title recognition.
+C. mandatory prior recommendation of the named local institution.
+D. Article 244A approval.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Section 4(k)-(l) uses recommendation for specified minor-mineral decisions.
+**Option explanations**
 
-### OM28. Section 4(m)
+- A: TAC advises; it does not issue the statutory recommendation.
+- B: FRA title and forest clearance are distinct.
+- C: Correct: section 4(k)-(l) uses prior recommendation for specified minor-mineral decisions.
+- D: Article 244A concerns an autonomous State in Assam.
 
-Which basket best reflects PESA?
+**Examiner trap 27:** Minor mineral is essential; do not generalise to every mineral.
 
-A. High Court appointments and police command.
-B. defence, foreign affairs and currency.
-C. Statehood, citizenship and emergency.
-D. minor forest produce, markets, money-lending, intoxicants and land-restoration powers.
+### MCQ 28
+
+PESA section 4(m) directs State law to endow powers concerning:
+
+A. foreign affairs and currency.
+B. Supreme Court appointments.
+C. national defence and railways.
+D. minor forest produce, markets, money-lending, intoxicants, land restoration and local institutions.
 
 **Answer: D.**
 
-**Explanation:** [FACT] State law must specifically endow the Gram Sabha/Panchayats at the appropriate level.
+**Option explanations**
 
-### OM29. FRA claims
+- A: Those are not local Scheduled-Area powers.
+- B: Judicial appointments are constitutionally separate.
+- C: These Union subjects are outside section 4(m).
+- D: Correct: the basket connects resources, markets, services and restoration.
 
-The statutory claims process begins with:
+**Examiner trap 28:** Assign each power to the Gram Sabha or appropriate Panchayat as the clause states.
+
+### MCQ 29
+
+Under FRA 2006, the forest-rights claims process begins with:
 
 A. the Gram Sabha.
-B. the District Council.
-C. the Governor.
+B. the TAC.
+C. the District Council in every State.
 D. the President.
 
 **Answer: A.**
 
-**Explanation:** [FACT] FRA section 6 makes the Gram Sabha the initiating authority.
+**Option explanations**
 
-### OM30. CFR right
+- A: Correct: section 6 makes it the initiating authority.
+- B: TAC has no FRA claims jurisdiction.
+- C: ADCs exist only in the Sixth Schedule field.
+- D: The President does not verify individual claims.
 
-Community Forest Resource rights include the right to:
+**Examiner trap 29:** Initiation by Gram Sabha is not final decision by Gram Sabha alone.
 
-A. abolish reserved forests.
-B. protect, regenerate, conserve or manage the community forest resource.
-C. bypass the FRA committee process.
-D. own every mineral.
+### MCQ 30
 
-**Answer: B.**
+The Niyamgiri judgment is best stated as:
 
-**Explanation:** [FACT] CFR is a management/conservation right distinct from an individual cultivation right.
-
-### OM31. Niyamgiri holding
-
-Which statement is most accurate?
-
-A. The Court granted every Gram Sabha a nationwide mining veto.
-B. The Court transferred mineral ownership to the Dongria Kondh.
-C. Gram Sabhas determined FRA-linked claims; MoEF retained final Stage-II decision in light of them.
-D. The case concerned only ordinary EIA public hearings.
-
-**Answer: C.**
-
-**Explanation:** [FACT] This preserves both community-right determination and statutory clearance authority.
-
-### OM32. *Samatha (1997)* limit
-
-The safest use of *Samatha (1997)* is:
-
-A. all private mining in India is void.
-B. Fifth Schedule itself nationalised minerals.
-C. the ruling has no tribal-land relevance.
-D. cite its Andhra Pradesh regulation-based holding and expressly qualify nationwide extension.
-
-**Answer: D.**
-
-**Explanation:** [LIMIT] Legal setting and later scope treatment are indispensable.
-
-### OM33. Article 371 distinction
-
-Which statement is correct?
-
-A. Article 371 provisions are distinct State-specific arrangements, not synonyms for the Sixth Schedule.
-B. Article 371 automatically creates ADCs.
-C. Article 371 eliminates Part III.
-D. Article 371 applies PESA to Mizoram.
-
-**Answer: A.**
-
-**Explanation:** [FACT] Examples include Article 371A and 371G, each with its own text.
-
-### OM34. Ordinary Panchayats
-
-Article 243M means that:
-
-A. ADCs are ordinary Zila Parishads.
-B. Scheduled Areas and tribal areas are excluded from automatic Part IX application, with PESA extending it to Fifth Schedule areas.
-C. Part IX automatically applies unchanged to every Scheduled/tribal area.
-D. Panchayats can never exist in the North-East.
+A. a nationwide veto over every mine.
+B. Gram Sabha determination of specified FRA-linked claims, followed by MoEF's final Stage-II decision.
+C. transfer of all mineral ownership to the Dongria Kondh.
+D. abolition of forest-clearance law.
 
 **Answer: B.**
 
-**Explanation:** [FACT] PESA is the Fifth Schedule modification route.
+**Option explanations**
 
-### OM35. Current PESA rule status
+- A: The holding was project- and statute-specific.
+- B: Correct: community findings and final clearance authority were separate.
+- C: The judgment did not confer subsoil ownership.
+- D: It operated within, not outside, the forest-clearance framework.
 
-Which dated statement is supported by the official MoPR listing on 5 September 2026?
+**Examiner trap 30:** Do not convert consequential participation into an unlimited veto.
 
-A. Odisha is the only State with rules.
-B. All ten States have identical rules.
-C. Nine State rule regimes are listed, including Jharkhand 2025; Odisha is not separately listed.
-D. PESA has been repealed.
+### MCQ 31
 
-**Answer: C.**
+The safest use of Samatha (1997) is:
 
-**Explanation:** [CURRENT] Notification status is not implementation completeness.
-
-### OM36. Reform principle
-
-Which reform best respects the constitutional design?
-
-A. let convergence programmes waive PESA/FRA.
-B. replace Gram Sabhas with dashboards.
-C. treat TAC advice as a statute.
-D. combine transparent reporting, land/CFR records, council capacity, precise participation and accessible remedies.
-
-**Answer: D.**
-
-**Explanation:** [ANALYSIS] Reform must connect legal authority to usable, reviewable community power.
-
-### Remedial MCQs - strict continuation A -> C -> A -> D rotation
-
-### RM1. President-Governor reversal
-
-Which matching is correct?
-
-A. President-declares Scheduled Area; Governor-organises Sixth Schedule districts/regions.
-B. Governor-declares Scheduled Area; President-organises ADCs.
-C. Gram Sabha-declares tribal area; Governor-declares ST list.
-D. TAC-declares ST list; Parliament-declares Scheduled Area.
-
-**Answer: A.**
-
-**Explanation:** [FACT] Keep area declaration, ST specification and Sixth Schedule organisation on separate tracks.
-
-### RM2. Assent reversal
-
-Which pairing is accurate?
-
-A. both-President assent.
-B. Fifth Schedule regulation-President assent; Sixth Schedule council law-Governor assent.
-C. neither requires assent.
-D. Fifth Schedule regulation-Governor assent; Sixth Schedule law-President assent.
-
-**Answer: B.**
-
-**Explanation:** [FACT] This reversal frequently decides a statement question.
-
-### RM3. TAC versus ADC
-
-Which institutional comparison is correct?
-
-A. TAC is more autonomous than an ADC.
-B. Both levy taxes.
-C. TAC advises; ADC can legislate, administer, adjudicate specified disputes and levy specified taxes.
-D. Both are advisory.
+A. Fifth Schedule itself bans all private mining nationally.
+B. the case has no relevance beyond compensation.
+C. the impugned non-tribal private mining leases were invalid under Andhra Pradesh's Scheduled-Area transfer regime, with later scope limits.
+D. the judgment created a Sixth Schedule council.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Fifth and Sixth Schedule bodies are not interchangeable.
+**Option explanations**
 
-### RM4. State executive power
+- A: The constitutional Schedule worked through the applicable State regulation.
+- B: The case directly concerned land transfer and protective governance.
+- C: Correct: this states holding and jurisdictional boundary together.
+- D: No ADC was created by the judgment.
 
-Scheduling an area under the Fifth Schedule:
+**Examiner trap 31:** Always name the regulation-based setting and the nationwide-limit sentence.
 
-A. creates a local sovereign government.
-B. ends the State's executive power.
-C. triggers President's Rule.
-D. retains State administration within the Schedule's reporting and direction structure.
+### MCQ 32
 
-**Answer: D.**
+Chebrolu Leela Prasad Rao (2020) demonstrates that:
 
-**Explanation:** [FACT] This directly remedies the 2025 PYQ trap.
-
-### RM5. PESA scope
-
-Which statement is correct?
-
-A. PESA modifies Part IX for Fifth Schedule Scheduled Areas.
-B. PESA replaces FRA.
-C. PESA creates Sixth Schedule councils.
-D. PESA applies only to one State.
-
-**Answer: A.**
-
-**Explanation:** [FACT] The statutes complement each other but have different objects.
-
-### RM6. PESA verb
-
-Before acquisition and R&R in a Scheduled Area, the central PESA text uses:
-
-A. ownership.
-B. consultation.
-C. adjudication.
-D. approval.
-
-**Answer: B.**
-
-**Explanation:** [FACT] Minor-mineral decisions use a different "recommendation" rule.
-
-### RM7. Forest rights
-
-Which institution initiates FRA claims?
-
-A. ADC in every State.
-B. MoEFCC.
-C. Gram Sabha.
-D. TAC.
-
-**Answer: C.**
-
-**Explanation:** [FACT] The process then moves through Sub-Divisional and District Level Committees.
-
-### RM8. Niyamgiri limit
-
-Which statement must be rejected?
-
-A. FRA-linked religious claims were considered.
-B. MoEF retained the final Stage-II decision.
-C. Gram Sabha decisions informed the clearance process.
-D. The judgment created an unlimited Gram Sabha veto over every Indian project.
+A. Scheduled Areas are outside Part III.
+B. the Governor may create unlimited reservation.
+C. all tribal preferences are invalid.
+D. 100 percent reservation for the specified teacher posts failed equality review despite the protective context.
 
 **Answer: D.**
 
-**Explanation:** [LIMIT] The holding was project-, statute- and claim-specific.
+**Option explanations**
 
-### RM9. Council forest power
+- A: Fundamental Rights continue to apply.
+- B: Paragraph 5 is not an equality-free power.
+- C: Targeted lawful preference remains possible.
+- D: Correct: protective purpose must use constitutionally valid means.
 
-Which is correct?
+**Examiner trap 32:** Protection and equality must be reconciled, not treated as mutually exclusive.
 
-A. Paragraph 3 includes management of forests other than reserved forests.
-B. FRA is inapplicable in the North-East.
-C. Council law requires President's assent.
-D. ADCs control every national park automatically.
+### REMEDIATION GRID
 
-**Answer: A.**
-
-**Explanation:** [FACT] Reserved-forest exclusion and Governor assent are the key qualifiers.
-
-### RM10. Article 244A
-
-Article 244A is specifically associated with:
-
-A. declaration of Scheduled Tribes.
-B. an autonomous-State route within Assam.
-C. PESA rules in Odisha.
-D. Fifth Schedule regulations nationwide.
-
-**Answer: B.**
-
-**Explanation:** [FACT] It should not be confused with an existing ADC.
-
-### RM11. Current law control
-
-Which is the safest dated statement?
-
-A. Every PESA State has fully implemented every section.
-B. Odisha has a separately listed official rule instrument.
-C. The MoPR listing shows nine rule regimes and the implementation gap remains a separate question.
-D. Jharkhand has no PESA rules.
-
-**Answer: C.**
-
-**Explanation:** [CURRENT] Jharkhand Rules 2025 appear in the official list; Odisha does not.
-
-### RM12. Answer-writing sequence
-
-The strongest mining-rights paragraph is:
-
-A. slogan -> unsourced statistic -> conclusion.
-B. case name -> universal claim.
-C. Article list without facts.
-D. claim -> Fifth/PESA/FRA/State-law evidence -> project mechanism -> analysis -> case-specific qualification.
-
-**Answer: D.**
-
-**Explanation:** [ANALYSIS] This sequence preserves legal accuracy and examiner-visible reasoning.
-
+| Error pattern | Repair cue |
+|---|---|
+| Fifth/Sixth reversal | 244(1) Fifth; 244(2) Sixth |
+| actor reversal | President declares Scheduled Area; Governor organises Sixth Schedule units |
+| assent reversal | Fifth regulation-President; ordinary Sixth council law-Governor |
+| body reversal | TAC advises; ADC governs listed fields |
+| PESA overstatement | use the exact verb and institution |
+| case overstatement | state holding, legal setting and qualification |
 
 ## PYQS AND ANSWER PRACTICE
 
-### Verified routed Prelims PYQs
 
 ### PYQ 1 - UPSC Prelims 2019, Q50
 
-**Verified from the locally held official paper:**
-
 > Under which Schedule of the Constitution of India can the transfer of tribal land to private parties for mining be declared null and void?
 >
-> A. Third Schedule  
-> B. Fifth Schedule  
-> C. Ninth Schedule  
+> A. Third Schedule
+> B. Fifth Schedule
+> C. Ninth Schedule
 > D. Twelfth Schedule
 
-**Key status:** The audited local ledger records that an official key is unavailable locally. No answer letter is presented as official.
+**Final-key discipline:** The exact paper is locally verified, but no final official key is held in the audited local corpus. No answer letter is presented as official.
 
-**Tested concept:** [FACT] Fifth Schedule paragraph 5 permits gubernatorial regulations restricting tribal land transfers in Scheduled Areas, subject to TAC consultation where one exists and presidential assent. [FACT] *Samatha (1997)* applied the Andhra Pradesh Scheduled Areas Land Transfer Regulation to invalidate the impugned mining leases in its specific legal setting.
-
-**Qualification:** [LIMIT] The legal result depends on the applicable Fifth Schedule regulation/State law and facts; the case is not a free-standing nationwide ban detached from those instruments.
+**Concept resolution:** Fifth Schedule paragraph 5 supports regulations restricting tribal land transfer. *Samatha* applied Andhra Pradesh's Scheduled-Area transfer regime to the impugned private mining leases. The result must not be detached from the applicable State law.
 
 ### PYQ 2 - UPSC Prelims 2022, Q73
 
 **Verified routed demand:** consequences of bringing an area under the Fifth Schedule.
 
-**Wording control:** The routing ledger preserves the neutral demand but the exact official-paper wording and official key are not available in the verified local corpus used for this export. They are not reconstructed.
+**Wording control:** Exact official-paper wording and a final official key are not present in the verified local corpus, so neither is reconstructed.
 
-**Concept model**
-
-| Consequence | Governing rule |
-|---|---|
-| legal status | President declares a Scheduled Area |
-| ordinary administration | State executive power continues |
-| supervision | Governor reports; Union may give directions |
-| advisory institution | TAC in the State |
-| protective adaptation | Governor may adapt laws and make land/money-lending regulations |
-| self-government layer | PESA applies through State law |
-
-**Key status:** No option is inferred. The concept lesson is that scheduling produces protective administration; it does not create a UT, a Sixth Schedule ADC or automatic Union administration.
+**Concept resolution:** Scheduling preserves State executive power while adding Presidential territory, Governor reporting, Union directions, TAC advice, paragraph 5 adaptation/regulation and the PESA self-government layer.
 
 ### PYQ 3 - UPSC Prelims 2023, Q39
 
-**Verified from the locally held official paper:**
-
 > With reference to "Scheduled Areas" in India, consider the following statements:
 >
-> 1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President.  
-> 2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block.  
+> 1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President.
+> 2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block.
 > 3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States.
 >
 > How many of the above statements are correct?
 >
-> A. Only one  
-> B. Only two  
-> C. All three  
+> A. Only one
+> B. Only two
+> C. All three
 > D. None
 
-**Key status:** The official key is unavailable in the audited local corpus; no option is inferred.
+**Final-key discipline:** The exact paper is locally verified; the final official key is unavailable in the audited local corpus, so no option is inferred.
 
-**Statement audit without key inference**
-
-- [FACT] Statement 1 tracks Fifth Schedule paragraph 6: Scheduled Area status is created through a Presidential Order.
-- [FACT] The Ministry's official administrative criteria speak of a viable unit such as a district, block or taluk and compact territory. [LIMIT] Because the official key is unavailable, this package does not convert that guidance into a declared answer on statement 2.
-- [FACT] Paragraph 3 assigns the annual/required report to the **Governor** and the recipient is the **President**, not the Chief Minister and Union Home Ministry as stated.
+**Statement audit:** Statement 1 follows paragraph 6. Official criteria refer to a viable administrative unit such as district, block or taluk, but statement 2 is not converted into an answer without the final key. Statement 3 is false because the Governor reports to the President.
 
 ### PYQ 4 - UPSC Prelims 2024, Q84
 
-**Verified from the locally held official paper:**
-
 > Consider the following statements:
 >
-> 1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe.  
+> 1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe.
 > 2. A community declared as a Scheduled Tribe in a State need not be so in another State.
 >
 > Which of the statements given above is/are correct?
 >
-> A. 1 only  
-> B. 2 only  
-> C. Both 1 and 2  
+> A. 1 only
+> B. 2 only
+> C. Both 1 and 2
 > D. Neither 1 nor 2
 
-**Official Set-A key: B.**
+**Official final Set-A key: B.**
 
-**Explanation:** [FACT] Article 342 authorises the President to specify STs for a State/UT by public notification, after the constitutionally required consultation, and Parliament may later include/exclude by law. [FACT] ST status is State/UT-specific, so the same community need not have the same status everywhere.
+**Explanation:** Article 342 uses Presidential notification for a State or Union Territory and parliamentary law for later inclusion or exclusion. Scheduled Tribe status is territorial, so recognition in one State need not carry into another.
 
 ### PYQ 5 - UPSC Prelims 2025, Q56
 
-**Verified from the locally held official paper:**
-
 > With reference to the Constitution of India, if an area in a State is declared as Scheduled Area under the Fifth Schedule:
 >
-> I. the State Government loses its executive power in such areas and a local body assumes total administration;  
+> I. the State Government loses its executive power in such areas and a local body assumes total administration;
 > II. the Union Government can take over the total administration of such areas under certain circumstances on the recommendations of the Governor.
 >
 > Which of the statements given above is/are correct?
 >
-> A. I only  
-> B. II only  
-> C. Both I and II  
+> A. I only
+> B. II only
+> C. Both I and II
 > D. Neither I nor II
 
-**Official Set-A key: D.**
+**Official final Set-A key: D.**
 
-**Explanation:** [FACT] State executive power continues. [FACT] The Governor reports to the President and Union executive power extends to directions on administration. [LIMIT] Neither proposition in the stem accurately describes a local-body or Union "total administration" takeover.
+**Explanation:** State executive power continues. The Governor reports to the President and Union executive power extends to directions; neither statement accurately describes total administrative takeover.
 
 ### PYQ 6 - UPSC Prelims 2026, Q57
 
-**Verified from the locally held official paper:**
-
 > Consider the following statements about the provisions pertaining to the Scheduled Castes and the Scheduled Tribes in India:
 >
-> 1. Provisions regarding the administration of the Tribal Areas in Assam, Meghalaya, Tripura and Mizoram are given in the Fifth Schedule.  
-> 2. Some tribes of India are entitled to exemption from paying Income Tax on certain incomes.  
+> 1. Provisions regarding the administration of the Tribal Areas in Assam, Meghalaya, Tripura and Mizoram are given in the Fifth Schedule.
+> 2. Some tribes of India are entitled to exemption from paying Income Tax on certain incomes.
 > 3. The Constitution provides for reservation of seats in Panchayats for women belonging to the Scheduled Castes and Scheduled Tribes.
 >
 > Which conclusion based on the statements is correct?
 >
-> A. There are two correct statements, including statement 2.  
-> B. There are two correct statements, statements 1 and 3.  
-> C. There is only one correct statement.  
+> A. There are two correct statements, including statement 2.
+> B. There are two correct statements, statements 1 and 3.
+> C. There is only one correct statement.
 > D. All three statements are correct.
 
-**Key status:** A provisional Set-A key is held locally, but the routing ledger deliberately records no answer letter and no answer is inferred here.
+**Final-key discipline:** A provisional local key exists but the audited routing ledger records no final answer letter; no option is declared here.
 
-**Concept audit**
+**Concept audit:** Statement 1 reverses the Schedules. Income-tax Act section 10(26) is a conditional statutory exemption for specified income of eligible ST members in specified areas, not a blanket exemption. Article 243D reserves Panchayat seats for SCs/STs and at least one-third of those reserved seats for women of those categories.
 
-- [FACT] Statement 1 reverses the Schedules: the four named States are the Sixth Schedule field.
-- [FACT] Income-tax Act section 10(26) contains a conditional statutory exemption for specified income of eligible ST members residing in specified areas; it is not a blanket tribal exemption.
-- [FACT] Article 243D includes SC/ST reservation in Panchayats and requires not less than one-third of reserved SC/ST seats to be reserved for women belonging to those categories.
-- [LIMIT] Because the locally held key is provisional and no letter is recorded in the ledger, this package does not declare an answer option.
+### ORIGINAL MAINS MODELS
 
-### PYQ coverage control
+### Original Mains 1 - 10 marks, 150 words
 
-- [FACT] The audited 2018-2026 routing ledgers identify six direct objective demands for this owner.
-- [LIMIT] Exact wording is reproduced only where verified against a locally held official paper. Official answer letters are stated only for the locally held final 2024 and 2025 Set-A keys.
+**Question:** Explain the constitutional rationale for separate administration of Scheduled and tribal areas.
 
+**Model answer (150 words):**
 
-### Original solved Mains practice
+          Differentiated administration seeks equality where land alienation, customary institutions and resource dependence make a uniform model inadequate.
 
-### M1. Explain the constitutional rationale for separate administration of Scheduled and tribal areas. (10 marks, 150 words)
+Article 244 creates two designs. The Fifth Schedule uses Presidential notification, continued State administration, Governor reports, Union directions, a Tribes Advisory Council and protective regulation of land transfer and money-lending. The Sixth Schedule gives specified tribal areas in Assam, Meghalaya, Tripura and Mizoram elected District or Regional Councils with legislative, executive, judicial and fiscal powers. PESA 1996 adds self-government in Fifth Schedule areas, while FRA 2006 separately recognises forest rights.
 
-**Model solution**
+Named evidence is the contrast between a TAC, which advises, and an ADC, which can legislate on listed subjects. This shows movement from executive guardianship toward local agency.
 
-**Thesis:** [ANALYSIS] The Fifth and Sixth Schedules use differentiated governance to achieve substantive equality where historical alienation, customary institutions, geographic isolation and land-resource dependence make ordinary administration inadequate.
+However, special status is not isolation: Fundamental Rights, State and Union authority, assent requirements and judicial review continue. Differentiation is justified when it protects land, culture and voice through accountable self-government rather than permanent paternalism.
 
-**Historical basis:** [FACT] Colonial excluded-area administration concentrated executive control. Constituent Assembly subcommittees led by A.V. Thakkar and Gopinath Bordoloi redesigned differentiation around protection and self-government. [ANALYSIS] The Constitution therefore retained special territory while changing its democratic purpose.
+### Original Mains 2 - 10 marks, 150 words
 
-**Two models:** [FACT] Article 244(1) applies the Fifth Schedule: Presidential declaration, Governor reporting/regulations, Union directions and TAC advice. Article 244(2) applies the Sixth: elected councils with specified legislative, executive, judicial and fiscal powers. [ANALYSIS] The first is guardian-centred protection; the second is territorial autonomy.
+**Question:** The Fifth Schedule is constitutionally powerful but institutionally under-used. Examine.
 
-**Rights layer:** [FACT] PESA 1996 and FRA 2006 add Gram Sabha participation and forest-right recognition. [ANALYSIS] They convert communities from administrative objects into rights-bearing participants.
+**Model answer (150 words):**
 
-**Qualification:** [LIMIT] Special administration can become paternalistic or opaque; custom also remains subject to Fundamental Rights.
+The Fifth Schedule contains strong protective tools. The President declares Scheduled Areas; State executive power continues; the Governor reports annually or when required; and the Union may issue directions. The Governor may adapt parliamentary or State laws and make peace-and-good-government regulations restricting tribal land transfer, allotment and money-lending. Regulations require TAC consultation where one exists and Presidential assent.
 
-**Verdict:** Differentiation is legitimate when it secures land, culture, voice and accountable self-rule, not when it creates permanent executive tutelage.
+Yet activation depends on institutions. TAC advice is limited to referred matters. The Constitution prescribes no public report template. State extractive priorities may conflict with anti-alienation purposes, while PESA powers remain fragmented across sectoral laws.
 
-**Why this earns marks:** It answers "why", names the constitutional models, supplies history and statutes, and ends with a qualified normative test.
+Samatha demonstrates the protective potential of State land-transfer law read with the Schedule. Its jurisdictional limit also shows that text alone cannot replace precise local legislation and enforcement.
 
-**How to improve / compress:** Compress the historical opening to two lines, then organise the body as Fifth Schedule protection versus Sixth Schedule self-government; reserve PESA/FRA for the final analytical paragraph.
+Reform should require evidence-based reports, fixed TAC calendars, reasoned action-taken responses, updated land records and accessible restoration remedies, while avoiding the claim that gubernatorial power is unreviewable personal discretion.
 
-**Demand decoding:** The directive **explain** requires a direct position on “M1. Explain the constitutional rationale for separate administration of Scheduled and tribal…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+### Original Mains 3 - 15 marks, 250 words
 
-**Detailed examiner-grade model answer:**
+**Question:** Discuss the powers of Sixth Schedule councils and their constitutional limits.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M1. Explain the constitutional rationale for separate administration of Scheduled and tribal areas. (10 marks, 150 words)”.
+**Model answer (206 words):**
 
-**Analytical body:**
+Sixth Schedule councils are constitutionally protected territorial governments, but they are subject-specific bodies within the State and Union framework.
 
-1. **Claim and named evidence:** M1. Explain the constitutional rationale for separate administration of Scheduled and tribal areas. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Rights layer: [FACT] PESA 1996 and FRA 2006 add Gram Sabha participation and forest-right recognition. [ANALYSIS] They convert communities from administrative objects into rights-bearing participants. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Qualification: [LIMIT] Special administration can become paternalistic or opaque; custom also remains subject to Fundamental Rights. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Verdict: Differentiation is legitimate when it secures land, culture, voice and accountable self-rule, not when it creates permanent executive tutelage. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It answers "why", names the constitutional models, supplies history and statutes, and ends with a qualified normative test. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+Legislatively, paragraph 3 covers land, forests other than reserved forests, agricultural water, shifting cultivation, village administration, chiefs, inheritance, marriage, divorce and social customs. Council laws require Governor assent. Assam-specific paragraphs 3A and 3B enlarge subjects for named councils.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+Executively, paragraph 6 permits management of primary schools, dispensaries, markets, ferries, fisheries and roads, with additional functions capable of entrustment. Judicially, paragraph 4 permits village or council courts and appellate arrangements for specified disputes involving tribal parties. These forums do not displace High Courts. Fiscally, councils assess land revenue, levy enumerated taxes, maintain District or Regional Funds and regulate specified markets and non-tribal trading. Paragraph 9 provides an agreed share of mineral royalties, with disputes determined by the Governor.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “M1. Explain the constitutional rationale for separate administration of Scheduled and tribal areas. (10 marks, 150 words)”.
+The limits are equally important. Competence is enumerated, not plenary. State-specific paragraphs 12, 12A, 12AA and 12B govern application of State and parliamentary laws differently. Paragraphs 14-16 provide commission, suspension and dissolution controls. Bodoland's forty-six-member arrangement and Assam's additional subjects are bounded exceptions.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+Thus, the Schedule creates real autonomy only when functions, staff, funds, assent decisions, audit and judicial remedies operate together. It is neither municipal delegation nor sovereign Statehood.
 
-**How to improve this answer:** For “M1. Explain the constitutional rationale for separate administration of Scheduled and tribal…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+### Original Mains 4 - 15 marks, 250 words
 
-### M2. "The Fifth Schedule is constitutionally powerful but institutionally under-activated." Examine. (10 marks, 150 words)
+**Question:** PESA is a calibrated code of community power, not a universal Gram Sabha veto. Discuss.
 
-**Model solution**
+**Model answer (218 words):**
 
-**Thesis:** [FACT] The Fifth Schedule supplies strong supervisory and protective tools; [ANALYSIS] their impact depends on transparent use by the Governor, State and Union and meaningful community participation.
+PESA 1996 extends modified Part IX only to Fifth Schedule Scheduled Areas. Its strength lies in assigning different legal verbs to different decisions.
 
-**Power:** The President declares/changes Scheduled Areas. The Governor reports annually, may adapt parliamentary/State laws and make peace-and-good-government regulations on land transfer, allotment and money-lending, subject to TAC consultation and presidential assent. Union directions and Articles 275(1)/339 add fiscal and welfare supervision.
+The Gram Sabha approves village-level social and economic development plans, programmes and projects before implementation and identifies beneficiaries. The village Panchayat obtains Gram Sabha certification of fund use. For land acquisition and resettlement or rehabilitation, the Act requires consultation with the Gram Sabha or Panchayat at the appropriate level. For specified prospecting licences, mining leases and auction concessions concerning minor minerals, prior recommendation is mandatory. Section 4(m) requires State law to endow powers over minor forest produce, village markets, money-lending, intoxicants, land-alienation prevention and restoration, social-sector institutions and local plans or resources.
 
-**Under-activation:** [ANALYSIS] TAC agenda depends on gubernatorial reference; reports lack a constitutionally mandated public template; protective regulations and PESA conformity may lag; State revenue/mining priorities can conflict with anti-alienation goals.
+Named evidence is the statutory contrast between 'consult' for acquisition and 'recommend' for minor-mineral decisions. Analysis follows: each verb identifies a different level of legal intensity, actor and project stage. Treating them as one veto obscures both enforceable powers and real gaps.
 
-**Named evidence:** [FACT] PESA section 4 creates precise Gram Sabha/Panchayat powers, while the official 2026 rule listing still shows Odisha without a separately listed rules instrument. [ANALYSIS] Enactment has not ensured uniform implementation.
+PESA also protects custom, cultural identity and community resources through a habitation-based village concept. However, it does not apply to Sixth Schedule areas, does not confer title under FRA and does not replace forest, environment, acquisition or mining law.
 
-**Qualification:** [LIMIT] The Governor's powers should not be misstated as unreviewable personal discretion.
+Implementation therefore requires conformity of State sectoral laws, usable records, inclusive Gram Sabhas and remedies keyed to the exact statutory verb.
 
-**Verdict:** Activation requires public reporting, reasoned TAC follow-up, cross-law conformity, records and enforceable remedies.
+### Original Mains 5 - 20 marks, 250 words
 
-**Why this earns marks:** It balances text and performance, uses exact institutions and a dated official implementation control.
+**Question:** Analyse tribal land and resource protection through the Fifth Schedule, PESA, FRA and judicial review.
 
-**How to improve / compress:** Add one paragraph separating constitutional design from implementation: Governor report/TAC/paragraph 5 powers on one side and dated PESA-rule compliance on the other.
+**Model answer (219 words):**
 
-**Demand decoding:** The directive **examine** requires a direct position on “M2. "The Fifth Schedule is constitutionally powerful but institutionally under-activated."…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Tribal resource governance is cumulative: no single consultation, clearance or payment satisfies the whole legal chain.
 
-**Detailed examiner-grade model answer:**
+First, Fifth Schedule paragraph 5 permits regulations restricting land transfer, land allotment and money-lending. The operative State regulation determines the actual prohibition and remedy. Second, PESA assigns consultation for acquisition and R&R, prior recommendation for specified minor-mineral decisions and State-law powers to prevent and restore alienated land. Third, FRA recognises individual, community and community forest resource rights; the Gram Sabha initiates claims and section 5 links rights with conservation duties.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M2. "The Fifth Schedule is constitutionally powerful but institutionally under-activated." Examine. (10 marks, 150 words)”.
+Samatha v. State of Andhra Pradesh (1997) invalidated the impugned leases to non-tribal private mining companies under Andhra Pradesh's Scheduled-Area transfer regime. Its principle protects against indirect State-facilitated alienation, but later jurisdictional treatment prevents using it as an automatic nationwide mining ban.
 
-**Analytical body:**
+Orissa Mining Corporation v. MoEF (2013) required Gram Sabhas to determine specified FRA-linked cultural, religious and community claims at Niyamgiri. MoEF retained the final Stage-II clearance decision. Chebrolu (2020) adds the equality boundary: protective Scheduled-Area policy cannot justify 100 percent reservation without constitutional limits.
 
-1. **Claim and named evidence:** M2. "The Fifth Schedule is constitutionally powerful but institutionally under-activated." Examine. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [FACT] The Fifth Schedule supplies strong supervisory and protective tools; [ANALYSIS] their impact depends on transparent use by the Governor, State and Union and meaningful community participation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Qualification: [LIMIT] The Governor's powers should not be misstated as unreviewable personal discretion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Verdict: Activation requires public reporting, reasoned TAC follow-up, cross-law conformity, records and enforceable remedies. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It balances text and performance, uses exact institutions and a dated official implementation control. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+Therefore, a lawful project must identify territorial status, apply transfer law, complete PESA and FRA stages, conduct environmental appraisal, consider alternatives and provide enforceable restoration or R&R. Judicial review secures legality and reasons; it does not create an absolute community veto or erase statutory authorities.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+### Original Mains 6 - 20 marks, 250 words
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “M2. "The Fifth Schedule is constitutionally powerful but institutionally under-activated." Examine. (10 marks, 150 words)”.
+**Question:** Design an accountability reform for Fifth and Sixth Schedule institutions.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Model answer (221 words):**
 
-**How to improve this answer:** For “M2. "The Fifth Schedule is constitutionally powerful but institutionally under-activated."…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Reform should preserve constitutional asymmetry while making the exercise and non-exercise of power visible, reasoned and remediable.
 
-### M3. Discuss the legislative, executive, judicial and fiscal powers of Sixth Schedule councils and their constitutional limits. (15 marks, 250 words)
+For the Fifth Schedule, publish current Presidential Orders and habitation maps; standardise Governor reports around land alienation, PESA, FRA, services and outcomes; and require fixed TAC calendars with action-taken responses. The TAC must remain advisory, but agenda control should not make it ceremonial.
 
-**Model solution**
+For PESA, align Panchayat, land, excise, market, money-lending and minor-mineral laws with section 4's exact verbs. Support local-language notice, inclusive meetings, independent facilitation and authenticated records. Link land and community forest resource maps to legal aid and restoration tracking.
 
-**Thesis:** [FACT] Sixth Schedule councils are constitutionally protected territorial governments with multi-functional autonomy; [ANALYSIS] they remain subject-specific bodies within State and Union constitutional authority, not sovereign legislatures.
+For Sixth Schedule councils, publish council laws and assent reasons, map functions with staff and funds, strengthen audit and committee scrutiny, and train village-court personnel while preserving appeals and High Court review. Paragraph 14 commissions and paragraphs 15-16 controls should use evidence, reasons and legislative oversight, not partisan substitution.
 
-**Legislative:** Paragraph 3 covers land use, non-reserved forests, agricultural water, shifting cultivation, village administration, chiefs/headmen, inheritance, marriage/divorce and social customs. Laws require Governor assent. Assam paragraphs 3A/3B enlarge powers for specified councils.
+Article 275 grants and Article 339 directions can support capacity and convergence. Integrated Tribal Development Agencies and the Scheduled Tribe Component are administrative instruments; they cannot replace TACs, Gram Sabhas or ADCs.
 
-**Executive:** Paragraph 6 permits management of primary schools, dispensaries, markets, ferries, fisheries, roads and entrusted welfare/planning functions. [ANALYSIS] Functional autonomy is strongest where staff and funds follow the subject.
+The final test is institutional alignment: the body that decides should possess information, resources and responsibility, while affected communities can challenge illegality. Digital systems must not exclude remote groups, and customary autonomy must remain compatible with equality, dignity and internal-minority protection.
 
-**Judicial:** Paragraph 4 allows village/council courts and appeals for specified disputes involving tribal parties. [LIMIT] High Courts and the ordinary justice system retain their constitutional place.
+## OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER
 
-**Fiscal:** Councils assess land revenue, levy specified taxes and maintain District/Regional Funds; paragraph 9 provides a mineral-royalty share. Article 275(1) supports capacity. [LIMIT] Revenue sharing is neither mineral ownership nor fiscal sovereignty.
+### ADVANCED 1 - ASYMMETRIC FEDERALISM WITHOUT SOVEREIGNTY
 
-**Checks:** Governor assent/approval, inquiry, suspension and specified dissolution/supersession powers; State-specific paragraphs govern application of laws; Parliament may amend the Schedule.
+The Fifth and Sixth Schedules are forms of territorial asymmetry inside one Constitution. The first strengthens protective supervision; the second disperses listed governmental powers. Neither removes State and Union competence, Fundamental Rights, audit or judicial review.
 
-**Named examples:** [CURRENT] Assam's BTC has a special 46-member design; Meghalaya's three ADCs route instruments through State scrutiny to the Governor.
+**Advanced answer line:** asymmetry is legitimate when it improves democratic fit and protects vulnerable land-resource relations while preserving reviewable public power.
 
-**Verdict:** The Schedule creates meaningful autonomy when constitutional powers, administrative transfer and democratic accountability operate together.
+### ADVANCED 2 - GOVERNOR POWER, ADVICE AND REVIEW
 
-**Why this earns marks:** It organises the answer by four power types, names paragraphs/examples and repeatedly identifies the limits.
+The Schedules assign powers to the Governor, but it is unsafe to convert every reference into an unreviewable personal-discretion rule. The text, any express discretion clause, governing constitutional convention, Council-of-Ministers relationship and judicial review must be examined function by function. A strong answer criticises unexplained inaction without inventing sovereign gubernatorial policy power.
 
-**How to improve / compress:** Use four labelled heads—legislative, executive, judicial and fiscal—and attach one textual limit to each; omit minor examples if writing a 10-marker.
+### ADVANCED 3 - SIXTH SCHEDULE INTERNAL ASYMMETRY
 
-**Demand decoding:** The directive **discuss** requires a direct position on “M3. Discuss the legislative, executive, judicial and fiscal powers of Sixth Schedule councils…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+The ordinary thirty-member model, Assam paragraphs 3A/3B, Bodoland composition, Meghalaya repugnancy rule and Tripura/Mizoram law filters show that the Sixth Schedule is a family of constitutional arrangements rather than one uniform council code. State-specific amendments must remain attached to the State and institution they modify.
 
-**Detailed examiner-grade model answer:**
+### ADVANCED 4 - ARTICLE 275, ARTICLE 339 AND ADMINISTRATIVE PLANNING
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M3. Discuss the legislative, executive, judicial and fiscal powers of Sixth Schedule councils and their constitutional limits. (15 marks, 250 words)”.
+Article 275(1) is a constitutional grant route for ST welfare schemes and raising Scheduled-Area administration. Article 339 provides a presidential commission route and Union directions for essential welfare schemes. The Scheduled Tribe Component, older Tribal Sub-Plan terminology and Integrated Tribal Development Agencies are administrative planning or implementation devices. They may finance or coordinate delivery but cannot replace the Governor, TAC, Gram Sabha or ADC.
 
-**Analytical body:**
+### ADVANCED 5 - INTERNAL DEMOCRACY AND MINORITY PROTECTION
 
-1. **Claim and named evidence:** M3. Discuss the legislative, executive, judicial and fiscal powers of Sixth Schedule councils and their constitutional limits. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Judicial: Paragraph 4 allows village/council courts and appeals for specified disputes involving tribal parties. [LIMIT] High Courts and the ordinary justice system retain their constitutional place. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Checks: Governor assent/approval, inquiry, suspension and specified dissolution/supersession powers; State-specific paragraphs govern application of laws; Parliament may amend the Schedule. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Named examples: [CURRENT] Assam's BTC has a special 46-member design; Meghalaya's three ADCs route instruments through State scrutiny to the Governor. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: The Schedule creates meaningful autonomy when constitutional powers, administrative transfer and democratic accountability operate together. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+Community autonomy can reproduce exclusion within the community. Women, smaller tribes, non-tribal residents and remote habitations require fair representation, notice, records, reasons and appeal. Chebrolu supplies the equality warning; village-court and customary-law powers remain subject to dignity, legality and constitutional remedies.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+### ADVANCED 6 - CURRENT INSTITUTIONAL CONTROL
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “M3. Discuss the legislative, executive, judicial and fiscal powers of Sixth Schedule councils and their constitutional limits. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M3. Discuss the legislative, executive, judicial and fiscal powers of Sixth Schedule councils…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### M4. Compare the Fifth and Sixth Schedules as competing models of tribal governance. (15 marks, 250 words)
-
-**Model solution**
-
-**Thesis:** [ANALYSIS] The Schedules answer the same problem through different institutional theories: the Fifth relies on protective supervision; the Sixth constitutionalises elected territorial self-government.
-
-| Dimension | Fifth | Sixth |
-|---|---|---|
-| territory | Presidential Scheduled Area Orders in 10 States | tribal areas in four North-Eastern States |
-| institution | advisory TAC | elected District/Regional Councils |
-| law | Governor adapts laws/makes regulations; President assents | council laws on specified subjects; Governor assents |
-| administration | State continues under reporting/Union directions | councils manage specified services within State authority |
-| justice/finance | no Schedule-created TAC courts/taxes | specified courts, land revenue and taxes |
-| local participation | PESA extends modified Part IX | PESA does not apply |
-
-**Analysis:** [FACT] The Fifth's land-transfer and money-lending regulation powers can be strong, and PESA/FRA deepen community agency. Yet TAC advice and gubernatorial initiative may remain dormant. The Sixth's elected councils provide continuous local law-making and finance, but assent delays, limited subjects, State control and intra-area representation disputes constrain autonomy.
-
-**Named evidence:** *Samatha (1997)* illustrates protective land law in the Fifth context; BTC's special design shows adaptable Sixth Schedule autonomy.
-
-**Qualification:** [LIMIT] "Sixth is always better" ignores context, council accountability and non-Sixth alternatives such as Article 371 or strengthened hill councils.
-
-**Verdict:** The best reform imports the Sixth's agency into Fifth Schedule practice without treating either model as institutionally complete.
-
-**Why this earns marks:** It compares on identical axes, uses evidence and avoids a simplistic hierarchy.
-
-**How to improve / compress:** Build the comparison on identical axes (territory, body, powers, assent, finance and accountability), then give a qualified verdict rather than calling one model universally superior.
-
-**Demand decoding:** The directive **compare** requires a direct position on “M4. Compare the Fifth and Sixth Schedules as competing models of tribal governance. (15…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M4. Compare the Fifth and Sixth Schedules as competing models of tribal governance. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M4. Compare the Fifth and Sixth Schedules as competing models of tribal governance. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [ANALYSIS] The Schedules answer the same problem through different institutional theories: the Fifth relies on protective supervision; the Sixth constitutionalises elected territorial self-government. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** territory Presidential Scheduled Area Orders in 10 States tribal areas in four North-Eastern States **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** institution advisory TAC elected District/Regional Councils **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** law Governor adapts laws/makes regulations; President assents council laws on specified subjects; Governor assents **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M4. Compare the Fifth and Sixth Schedules as competing models of tribal governance. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M4. Compare the Fifth and Sixth Schedules as competing models of tribal governance. (15…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### M5. PESA is a calibrated code of community power, not a universal Gram Sabha veto. Discuss. (15 marks, 250 words)
-
-**Model solution**
-
-**Thesis:** [FACT] PESA section 4 assigns different powers to the Gram Sabha and Panchayats according to the decision; [ANALYSIS] its strength lies in legal precision, not a single maximalist verb.
-
-**Approval:** Gram Sabha approves village-level social/economic plans, programmes and projects before implementation and identifies beneficiaries.
-
-**Certification:** Village Panchayat obtains Gram Sabha certification of fund utilisation.
-
-**Consultation:** Gram Sabha or appropriate Panchayat is consulted before land acquisition and R&R in Scheduled Areas. [LIMIT] Consultation is not statutory universal consent.
-
-**Mandatory recommendation:** Prior recommendation is required for specified prospecting licences/mining leases for minor minerals and for auction concessions, with the statutory holder varying by clause.
-
-**Substantive endowment:** State law must endow ownership of minor forest produce, village-market control, regulation of money-lending/intoxicants, land-alienation prevention/restoration, local-plan/resource control and social-sector oversight.
-
-**Named evidence:** [FACT] PESA's habitation-based village and cultural-resource safeguard recognise living customary institutions. [CURRENT] Official MoPR material lists nine State rule regimes; notification does not prove cross-sector compliance.
-
-**Critical gap:** large Gram Panchayat boundaries, weak records, sectoral-law inconsistency and formal meetings can dilute powers.
-
-**Verdict:** Courts and administrators should enforce the exact statutory verb at each project stage while States strengthen Gram Sabha information, inclusion and remedy.
-
-**Why this earns marks:** It directly proves the proposition with section-specific verbs, then adds implementation and qualification.
-
-**How to improve / compress:** Quote the exact PESA verb for each proposition; in a 150-word answer retain approve, consult, recommend and restore, and delete general participation rhetoric.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “M5. PESA is a calibrated code of community power, not a universal Gram Sabha veto. Discuss.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M5. PESA is a calibrated code of community power, not a universal Gram Sabha veto. Discuss. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M5. PESA is a calibrated code of community power, not a universal Gram Sabha veto. Discuss. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [FACT] PESA section 4 assigns different powers to the Gram Sabha and Panchayats according to the decision; [ANALYSIS] its strength lies in legal precision, not a single maximalist verb. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Approval: Gram Sabha approves village-level social/economic plans, programmes and projects before implementation and identifies beneficiaries. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Certification: Village Panchayat obtains Gram Sabha certification of fund utilisation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Consultation: Gram Sabha or appropriate Panchayat is consulted before land acquisition and R&R in Scheduled Areas. [LIMIT] Consultation is not statutory universal consent. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M5. PESA is a calibrated code of community power, not a universal Gram Sabha veto. Discuss. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M5. PESA is a calibrated code of community power, not a universal Gram Sabha veto. Discuss.…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### M6. Analyse how the Fifth Schedule, PESA, FRA and judicial decisions regulate land and mining conflicts in tribal areas. (15 marks, 250 words)
-
-**Model solution**
-
-**Thesis:** [ANALYSIS] Tribal land/mining governance is cumulative: no one clearance or consultation substitutes for constitutional regulation, community power, forest-right recognition and sectoral law.
-
-**Fifth Schedule:** Paragraph 5 permits regulations restricting tribal land transfer, allotment and money-lending. [ANALYSIS] It supplies the anti-alienation constitutional base, but the operative State regulation matters.
-
-**PESA:** section 4 requires consultation for acquisition/R&R, mandatory prior recommendation for specified minor-mineral decisions and powers to prevent/restore alienated land. [LIMIT] Major minerals and all projects cannot be swept into one veto claim.
-
-**FRA:** Gram Sabha initiates individual/community/CFR claims; section 5 adds conservation duties. [ANALYSIS] A project must first know whose rights and cultural relationships are affected.
-
-**Cases:** [FACT] *Samatha (1997)* invalidated the impugned Andhra Pradesh Scheduled-Area mining leases under the State land-transfer regulation; its nationwide reach must be qualified. [FACT] *Orissa Mining Corporation (2013)* required Gram Sabha determination of FRA-linked cultural/religious claims, while MoEF retained the final Stage-II clearance decision.
-
-**Conflict mechanism:** insecure records, debt, acquisition and forest diversion can combine to dispossess communities even where one procedure is formally completed.
-
-**Verdict:** lawful development requires sequenced rights recognition, exact PESA compliance, environmental appraisal, reasoned alternatives and enforceable restoration/R&R.
-
-**Why this earns marks:** It integrates four legal layers, uses two accurately bounded cases and explains the causal mechanism of dispossession.
-
-**How to improve / compress:** Present the conflict as a sequence—territorial status, land-transfer law, PESA process, FRA recognition, environmental decision—and state the precise limit of each judgment.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “M6. Analyse how the Fifth Schedule, PESA, FRA and judicial decisions regulate land and mining…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M6. Analyse how the Fifth Schedule, PESA, FRA and judicial decisions regulate land and mining conflicts in tribal areas. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M6. Analyse how the Fifth Schedule, PESA, FRA and judicial decisions regulate land and mining conflicts in tribal areas. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [ANALYSIS] Tribal land/mining governance is cumulative: no one clearance or consultation substitutes for constitutional regulation, community power, forest-right recognition and sectoral law. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Fifth Schedule: Paragraph 5 permits regulations restricting tribal land transfer, allotment and money-lending. [ANALYSIS] It supplies the anti-alienation constitutional base, but the operative State regulation matters. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** FRA: Gram Sabha initiates individual/community/CFR claims; section 5 adds conservation duties. [ANALYSIS] A project must first know whose rights and cultural relationships are affected. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Conflict mechanism: insecure records, debt, acquisition and forest diversion can combine to dispossess communities even where one procedure is formally completed. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M6. Analyse how the Fifth Schedule, PESA, FRA and judicial decisions regulate land and mining conflicts in tribal areas. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M6. Analyse how the Fifth Schedule, PESA, FRA and judicial decisions regulate land and mining…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### M7. Design an accountability reform for Fifth and Sixth Schedule institutions. (20 marks, 250 words)
-
-**Model solution**
-
-**Thesis:** [ANALYSIS] Reform should preserve constitutional asymmetry while making every exercise or non-exercise of power visible, reasoned, participatory and remediable.
-
-**1. Territorial accuracy:** publish current Presidential Orders, habitation maps and council boundaries in accessible local formats; distinguish whole districts from partial coverage.
-
-**2. Governor accountability:** standardise annual Fifth Schedule reports around land alienation, PESA, FRA, services and outcomes; publish them with justified confidentiality exceptions. Require reasoned disposal of TAC advice.
-
-**3. TAC renewal:** fixed meeting calendar, community/expert evidence, public agendas and action-taken statements. [LIMIT] retain its advisory constitutional character.
-
-**4. PESA implementation:** harmonise Panchayat, excise, market, money-lending, land and minor-mineral laws; notify the remaining rules gap; support habitation-level Gram Sabhas and inclusive meetings.
-
-**5. Sixth Schedule capacity:** activity, staff and fund maps; assent timelines and reasons; independent audit; transparent council law databases; strengthen village/council-court training and appeal records.
-
-**6. Land/FRA infrastructure:** geo-referenced but privacy-sensitive land/CFR records, legal aid and restoration tracking.
-
-**7. Project sequencing:** rights determination -> statutory consultation/recommendation -> environmental/social appraisal -> reasoned decision -> monitored R&R/restoration.
-
-**8. Intergovernmental review:** use Articles 275/339 and State departments for capacity and convergence, not command substitution.
-
-**Qualification:** digitisation can exclude remote communities; custom cannot override equality and dignity.
-
-**Verdict:** accountability should align who decides, who implements, who records reasons and who can obtain a remedy.
-
-**Why this earns marks:** It offers a sequenced institution-specific design, protects autonomy and attaches qualifications to each reform logic.
-
-**How to improve / compress:** Prioritise six executable reforms with actor, action and accountability indicator; compress the diagnosis to one opening paragraph in a 250-word response.
-
-**Demand decoding:** The directive **answer** requires a direct position on “M7. Design an accountability reform for Fifth and Sixth Schedule institutions. (20 marks, 250…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M7. Design an accountability reform for Fifth and Sixth Schedule institutions. (20 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M7. Design an accountability reform for Fifth and Sixth Schedule institutions. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [ANALYSIS] Reform should preserve constitutional asymmetry while making every exercise or non-exercise of power visible, reasoned, participatory and remediable. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Territorial accuracy: publish current Presidential Orders, habitation maps and council boundaries in accessible local formats; distinguish whole districts from partial coverage. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** TAC renewal: fixed meeting calendar, community/expert evidence, public agendas and action-taken statements. [LIMIT] retain its advisory constitutional character. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** PESA implementation: harmonise Panchayat, excise, market, money-lending, land and minor-mineral laws; notify the remaining rules gap; support habitation-level Gram Sabhas and inclusive meetings. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M7. Design an accountability reform for Fifth and Sixth Schedule institutions. (20 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M7. Design an accountability reform for Fifth and Sixth Schedule institutions. (20 marks, 250…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### M8. Should Sixth Schedule-style autonomy be extended to Ladakh or other tribal regions? Critically examine. (20 marks, 250 words)
-
-**Model solution**
-
-**Thesis:** [ANALYSIS] Extension should follow institutional fit, not population alone: the issue is which legal form best protects land, culture, representation and accountable development within the relevant State/UT structure.
-
-**Case for extension:** elected territorial councils can legislate on land/custom, manage services, raise specified revenue and provide continuous local voice. [CURRENT] Ladakh's official dialogue concerns land, culture, employment and empowerment of hill councils; no Sixth Schedule status has been enacted.
-
-**Why the model attracts demands:** [FACT] Sixth Schedule councils are stronger than a Fifth Schedule TAC and ordinary administrative councils because they combine legislative, executive, judicial and fiscal powers.
-
-**Limits:** the Schedule presently operates in four named States; council boundaries can create minority-insider disputes; gubernatorial assent, weak staff/funds and State overlap can reduce promised autonomy. Ladakh is a UT with existing hill councils and strategic/ecological constraints, so transplantation requires careful legal design.
-
-**Alternatives/complements:** an Article 371-type provision, strengthened elected hill councils, land/employment legislation, cultural-language guarantees, legislative representation or a tailored parliamentary framework may better match some regions.
-
-**Decision test:** territorial compactness; customary institutions; consent of affected groups; minority safeguards; fiscal viability; relation with State/UT legislature; judicial and audit accountability.
-
-**Qualification:** [LIMIT] high ST population is evidence of need, not a self-executing constitutional entitlement to one model.
-
-**Verdict:** consider Sixth Schedule extension where territorial self-government is the proportional solution, but choose through transparent consultation and enacted constitutional design rather than slogan or analogy.
-
-**Why this earns marks:** It uses current Ladakh control, compares institutional benefits and costs, offers alternatives and answers "should" with a conditional test.
-
-**How to improve / compress:** Keep the Ladakh status sentence dated and conditional; compare Sixth Schedule benefits with institutional fit, then mention two tailored alternatives before the verdict.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “M8. Should Sixth Schedule-style autonomy be extended to Ladakh or other tribal regions?…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M8. Should Sixth Schedule-style autonomy be extended to Ladakh or other tribal regions? Critically examine. (20 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M8. Should Sixth Schedule-style autonomy be extended to Ladakh or other tribal regions? Critically examine. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why the model attracts demands: [FACT] Sixth Schedule councils are stronger than a Fifth Schedule TAC and ordinary administrative councils because they combine legislative, executive, judicial and fiscal powers. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Decision test: territorial compactness; customary institutions; consent of affected groups; minority safeguards; fiscal viability; relation with State/UT legislature; judicial and audit accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: [LIMIT] high ST population is evidence of need, not a self-executing constitutional entitlement to one model. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: consider Sixth Schedule extension where territorial self-government is the proportional solution, but choose through transparent consultation and enacted constitutional design rather than slogan or analogy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M8. Should Sixth Schedule-style autonomy be extended to Ladakh or other tribal regions? Critically examine. (20 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “M8. Should Sixth Schedule-style autonomy be extended to Ladakh or other tribal regions?…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
-
-### Scheduled & Tribal Areas (Article 244, Fifth & Sixth Schedules, Part X) — ADVANCED / COMPLETE
-
-> **Subject:** Polity · **Tier:** Advanced (exam depth) · **GS Paper:** GS-II
-> **Grounded in:** Indian Polity by M. Laxmikant, Ch. 41 (direct check of the local Sixth Revised Edition PDF).
-> ✅ = from source book · ⚠️ = inference / case law · 📰 = current affairs.
-> *Companion: `basic/Scheduled-and-Tribal-Areas.md`.*
-
----
-
-### THE BIG PICTURE ⭐
-✅ **Art 244 (Part X)** envisages a special administrative system for **"scheduled areas"** and **"tribal areas"**:
-| Schedule | Covers | Applies to |
-|---|---|---|
-| ✅ **Fifth Schedule** | Administration & control of **scheduled areas & STs** | **Any state EXCEPT** Assam, Meghalaya, Tripura, Mizoram |
-| ✅ **Sixth Schedule** | Administration of **tribal areas** | The **4 NE states**: Assam, Meghalaya, Tripura, Mizoram |
-
-✅ **10 states have Fifth Schedule Areas** (2019): AP, Telangana, Chhattisgarh, Gujarat, HP, Jharkhand, MP,
-Maharashtra, Odisha, Rajasthan.
-
----
-
-### PART A — FIFTH SCHEDULE (Administration of Scheduled Areas) ⭐
-✅ Rationale: inhabited by **aboriginals**, socially/economically backward → the normal state machinery is not
-fully extended and the **Centre has greater responsibility**.
-1. ✅ **Declaration:** the **President** declares/alters/rescinds a scheduled area (in consultation with the
-   Governor).
-2. ✅ **Executive power:** state's executive power extends there, **but the Governor has a special
-   responsibility** — must send an **annual report** to the President; the **Centre can give directions** on
-   administration.
-3. ✅ **Tribes Advisory Council (TAC):** every Fifth-Schedule state must set one up — **20 members, 3/4 being ST
-   MLAs** of the state assembly.
-4. ✅ **Governor's powers:** may direct that an Act of Parliament/state legislature does **not apply** (or applies
-   with modifications) to a scheduled area; may make **regulations** (prohibit/restrict land transfer among
-   tribals, regulate money-lending) — all such regulations need the **President's assent**.
-- ✅ **Article 339(1) commissions:** the President was required to appoint one after ten years from commencement and may appoint further commissions; **Dhebar (1960)** and **Bhuria (2002)** are the standard examples.
-
----
-
-### PART B — SIXTH SCHEDULE (Administration of Tribal Areas) ⭐
-✅ For the **4 NE states** (Assam, Meghalaya, Tripura, Mizoram) whose tribes retain their own culture → given
-**autonomy** for self-government.
-| Feature | Detail |
-|---|---|
-| ✅ **Autonomous Districts** | Tribal areas constituted as **autonomous districts** (still within state executive authority); Governor organises/reorganises them |
-| ✅ **Autonomous Regions** | Where different tribes exist within a district |
-| ✅ **District Council** | Ordinary model: up to **30 members** — 4 Governor-nominated + 26 elected, 5-year elected term; **Bodoland Territorial Council is a special 46-member exception** |
-| ✅ **Law-making** | Councils legislate on **land, forests, canal water, shifting cultivation, inheritance, marriage/divorce, social customs** — need Governor's assent |
-| ✅ **Judicial** | Councils can constitute **village councils/courts** for tribal disputes |
-| ✅ **Finance** | Assess & collect **land revenue** + specified taxes; manage schools, markets, ferries, roads |
-| ✅ **Application of Acts varies** | State-specific Sixth-Schedule paragraphs govern non-application or application with exceptions/modifications; do not use one blanket rule |
-
-✅ **Special Article 244A:** allows formation of an **autonomous state** within Assam (with its own legislature/CoM).
-
----
-
-### PART C — FIFTH vs SIXTH SCHEDULE (compare) ⭐⭐
-| Point | Fifth Schedule | Sixth Schedule |
-|---|---|---|
-| ✅ Applies to | Scheduled areas in **10 states** (except the 4 NE) | Tribal areas in **4 NE states** |
-| ✅ Key body | **Tribes Advisory Council** (advisory) | **Autonomous District/Regional Councils** (law-making + executive) |
-| ✅ Degree of autonomy | Lower (protective; Governor/Centre-driven) | **Higher** (genuine self-government with elected councils) |
-| ✅ Declares/controls | President declares; Governor reports | Governor organises districts; councils legislate |
-
----
-
-#### UPSC Traps
-- ❌ Sixth Schedule applies to all NE states → only **Assam, Meghalaya, Tripura, Mizoram** (not Nagaland/Manipur/
-  Arunachal).
-- ❌ Fifth Schedule covers the whole country → **excludes the 4 Sixth-Schedule states**.
-- ❌ Tribes Advisory Council makes laws → it is **advisory** only; the **District Councils** (Sixth Schedule) legislate.
-- ❌ District Council has 30 all-elected members → **26 elected + 4 nominated** by the Governor.
-- ❌ President declares tribal areas under the Sixth Schedule → the **Governor** organises autonomous districts;
-  the **President** declares **scheduled areas** (Fifth Schedule).
-- ❌ Fifth-Schedule regulations need the Governor's assent → they need the **President's** assent.
-
-#### 📰 CA hooks
-- 📰 ⚠️ **Ladakh's demand for Sixth Schedule status** (tribal-majority UT) — a major live agitation (links to Ch 22
-  & Ch 25).
-- 📰 ⚠️ **PESA (1996)** extends Panchayat provisions to **Fifth Schedule** areas — Gram Sabha empowerment (links to
-  Ch 23).
-- 📰 ⚠️ **Forest Rights Act 2006** & tribal land alienation, mining consent, Governor's under-used special powers.
-- 📰 ⚠️ Demands for **new autonomous councils** (e.g., in Assam) & Bodoland accord implementation.
-
-#### Mains angles
-- Compare the Fifth and Sixth Schedules as models of tribal self-governance — which better protects tribal identity?
-- "The Governor's special responsibility under the Fifth Schedule remains largely dormant." Examine.
-- Should the Sixth Schedule be extended to Ladakh and other tribal regions? Discuss.
+The MHA Lok Sabha answer dated 4 August 2026 listed ten Sixth Schedule ADCs: three each in Assam, Meghalaya and Mizoram and one in Tripura. This is a date-stamped official count, not a permanent constitutional number. Council names, boundaries and officeholders should be refreshed before quotation.
 
 ## CONSOLIDATED REGISTER NOTES
 
@@ -4833,7 +3399,7 @@ Fifth Schedule   Article 342              Sixth Schedule
 ### Fifth Schedule State and declaration control
 
 ```text
-10 STATES
+10 STATES - OFFICIAL CENTRAL LIST RECHECKED 7 SEP 2026
 AP | Telangana | Chhattisgarh | Gujarat | Himachal Pradesh
 Jharkhand | Madhya Pradesh | Maharashtra | Odisha | Rajasthan
 ```
@@ -4910,7 +3476,7 @@ STATE
 
 | Fifth | Sixth |
 |---|---|
-| Scheduled Areas in 10 States | tribal areas in four States |
+| Scheduled Areas in 10 States (official list rechecked 7 Sep 2026) | tribal areas in four States |
 | President declares territory | Governor organises districts/regions within constitutional list |
 | TAC advice | elected council government |
 | Governor law adaptation/regulations | council legislation |
@@ -4943,7 +3509,7 @@ CONTROL   social-sector institutions, local plans/resources
 - State law should endeavour to follow the Sixth Schedule pattern in district-level administrative arrangements.
 - ST seats at least half; all chairperson posts reserved for STs.
 - Consultation != recommendation != approval != universal veto.
-- Official control on 19 Aug 2026: nine State rule regimes listed; Odisha not separately listed; Jharkhand Rules 2025 listed.
+- Official control rechecked to 7 Sep 2026: nine State rule regimes listed; Odisha not separately listed; Jharkhand Rules 2025 listed.
 
 ### FRA linkage
 
@@ -4966,8 +3532,8 @@ Fifth Schedule regulation
  = lawful cumulative decision
 ```
 
-- *Samatha (1997)*: Andhra Pradesh Scheduled-Area land-transfer regulation invalidated impugned private mining leases; always state the State-law boundary and later scope qualification.
-- *Orissa Mining Corporation (2013)*: Gram Sabha decided FRA-linked community/cultural/religious claims; MoEF made final Stage-II decision in light of those decisions.
+- *Samatha* (1997): Andhra Pradesh Scheduled-Area land-transfer regulation invalidated impugned private mining leases; always state the State-law boundary and later scope qualification.
+- *Orissa Mining Corporation* (2013): Gram Sabha decided FRA-linked community/cultural/religious claims; MoEF made final Stage-II decision in light of those decisions.
 - Never write "Niyamgiri = universal Gram Sabha veto".
 - Royalty sharing != consent; compensation != recognition of sacred/community rights.
 
@@ -5037,9 +3603,9 @@ Fifth Schedule regulation
 
 **Land/mining**
 
-> land status and State regulation -> PESA stage -> FRA rights -> environment/mineral/acquisition law -> *Samatha (1997)*/*OMC* with limits -> cumulative-compliance verdict.
+> land status and State regulation -> PESA stage -> FRA rights -> environment/mineral/acquisition law -> *Samatha*/*OMC* with limits -> cumulative-compliance verdict.
 
-### Final twenty-second recall
+### Final rapid recall
 
 ```text
 FIFTH:
@@ -5055,268 +3621,19 @@ VERDICT:
 protection must become accountable community agency
 ```
 
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
-
-#### ASCII MASTER FLOW — PANEL 1/12: Article 244 starting point and the autonomy-development rationale
-
-```ascii-master
-ROOT PROBLEM
-ordinary territorial administration may reproduce dispossession and weak bargaining
-power.
-
-ARTICLE 244(1)
-Fifth Schedule -> Scheduled Areas and Scheduled Tribes outside the Sixth Schedule map.
-
-ARTICLE 244(2)
-Sixth Schedule -> tribal areas in Assam, Meghalaya, Tripura and Mizoram.
-
-ARTICLE 244A
-Parliament may create an autonomous State within Assam with legislature/CoM.
-
-TERMS
-Scheduled Tribe = Article 342 community status
-| Scheduled Area = presidential territorial declaration
-| tribal area = Sixth Schedule territorial unit.
-
-CORE IDEA differentiated institutions pursue substantive equality within one
-Constitution.
-MUST REMEMBER: Keep Article 244, Article 244A, the Fifth Schedule and the Sixth Schedule
-  separate before adding the statutory PESA and FRA layers.
-```
-
-#### ASCII MASTER FLOW — PANEL 2/12: Fifth Schedule: declaration, Governor, TAC and regulation chain
-
-```ascii-master
-SCHEDULED AREA
-President declares, enlarges, diminishes or alters after the constitutional consultation
-route.
-
-EXECUTIVE CHAIN
-State executive applies -> Governor reports annually/when required to President
--> Union may issue directions on administration.
-
-TRIBES ADVISORY COUNCIL
-up to 20 members; as nearly as may be three-fourths ST legislators in the State.
-advises on ST welfare/advancement matters referred by Governor.
-
-GOVERNOR'S REGULATION
-peace and good government -> restrict/prohibit tribal land transfer
--> regulate allotment -> regulate money-lending
--> may amend State/Parliament law for the area.
-
-CHECK
-regulation requires Presidential assent; personal-discretion claims need exact
-authority.
-```
-
-#### ASCII MASTER FLOW — PANEL 3/12: Sixth Schedule territory, council composition and four-State scope
-
-```ascii-master
-SCOPE
-Assam | Meghalaya | Tripura | Mizoram only.
-
-AUTONOMOUS DISTRICT
-Governor organises territory; multiple tribes may form autonomous regions.
-
-ORDINARY DISTRICT COUNCIL MODEL
-not more than 30 members -> up to four nominated by Governor
--> remainder elected by adult suffrage -> normally five-year elected term.
-
-REGIONAL COUNCIL
-created for an autonomous region; powers follow the Schedule and applicable rules.
-
-ASSAM VARIATION
-special paragraphs/statutes/accord implementation may modify composition and powers.
-
-LIMIT ADC != State, municipality, ordinary Panchayat or Article 244A autonomous State.
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: Sixth Schedule legislative, executive, judicial and fiscal powers
-
-```ascii-master
-LEGISLATIVE
-land other than reserved forest | non-reserved forest | shifting cultivation
-| village administration | inheritance | marriage/divorce | social customs.
-Governor assent is required for council laws.
-
-EXECUTIVE
-primary schools, dispensaries, markets, roads and specified local services.
-
-JUDICIAL
-village courts/council courts for specified tribal-party disputes
-subject to constitutional/statutory supervision and jurisdiction rules.
-
-FISCAL
-District/Regional Funds | land revenue | listed taxes/fees | mineral-royalty share.
-
-CHECKS
-Governor territorial and suspension/dissolution powers
-| Parliament/State-law application controls | audit and judicial review.
-
-LIMIT autonomy is substantial but enumerated and supervised, not sovereignty.
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Fifth and Sixth Schedules: complete close-option comparison
-
-```ascii-master
-DIMENSION          FIFTH SCHEDULE             SIXTH SCHEDULE
-States             multiple notified States      Assam/Meghalaya/Tripura/Mizoram
-territory          Scheduled Area                 autonomous district/region
-core body          Governor + TAC                 elected District/Regional Council
-law mechanism      Governor regulation            council law + Governor assent
-judicial power     no Schedule-created ADC courts council/village courts in listed field
-finance            State/Union channels           own funds + listed taxes/royalty share
-local democracy    PESA in covered areas           council system; Part IX ordinarily
-excluded
-
-COMMON PURPOSE
-land/custom protection + self-government + development administration.
-
-TRAP
-TAC is advisory, not an ADC | Sixth Schedule does not cover every North-Eastern State.
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: PESA, FRA, land and resource rights with judicial boundaries
-
-```ascii-master
-PESA, 1996
-Part IX extension to Fifth Schedule areas -> customary village/Gram Sabha
--> plans/resources/markets/land safeguards through exact statutory verbs.
-
-FRA, 2006
-individual/community forest rights + community forest-resource governance
-through its own claim and recognition procedure.
-
-LAND / MINING CHAIN
-territorial law -> land-transfer rule -> PESA role -> FRA rights
--> forest/environment clearance -> rehabilitation -> judicial review.
-
-Samatha (1997)
-protected Scheduled-Area land under the applicable Andhra Pradesh regime;
-not a detached nationwide mining ban.
-
-Orissa Mining Corporation (2013)
-Gram Sabhas determined specified FRA religious/community-right claims at Niyamgiri;
-not an unlimited veto over every project.
-CLOSE DISTINCTION: PESA section 4 uses distinct verbs: approval, consultation, mandatory prior
-  recommendation, ownership and control. None creates one universal veto.
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Scheduled Tribe safeguards beyond territorial autonomy
-
-```ascii-master
-RIGHTS AND REPRESENTATION
-Article 46 -> education/economic interests and protection from exploitation.
-Articles 330/332 -> ST political reservation in Lok Sabha/State Assemblies.
-Article 335 -> service claims consistent with administrative efficiency.
-
-FINANCE AND OVERSIGHT
-Article 275(1) -> specified grants
-| Article 338A -> National Commission for Scheduled Tribes
-| Article 339 -> commission and Union welfare-scheme directions.
-
-NCST ROLE
-monitor safeguards -> inquire into complaints -> advise planning
--> report to President -> recommendations and follow-up.
-
-BOUNDARY
-NCST does not replace Governor/TAC, Gram Sabha, ADC, courts or elected governments.
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: Article 371, Panchayats and autonomous-council boundaries
-
-```ascii-master
-DO NOT COLLAPSE FOUR SYSTEMS
-Article 371A/371G -> State-specific Part XXI consent shields.
-Fifth Schedule -> Governor/TAC administration for Scheduled Areas.
-Sixth Schedule -> autonomous district/regional councils in four States.
-ordinary Part IX -> Panchayats outside exclusions; PESA modifies Fifth Schedule route.
-
-ACCOUNTABILITY TENSIONS
-autonomy vs elite capture | custom vs individual rights
-| development vs land/resource security | Governor oversight vs elected legitimacy.
-
-CURRENT CONTROL
-Ladakh or other demands for Sixth Schedule/Statehood/Article 371 safeguards
-remain proposals until the Constitution or law is validly changed.
-
-REFORM
-clear jurisdiction + audited funds + accessible laws + women/community voice
--> transparent Governor action + timely rights recognition.
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Prelims firewalls and Mains synthesis
-
-```ascii-master
-PRELIMS FIREWALL
-President declares Scheduled Areas | Governor makes Fifth Schedule regulations
-| President assents | TAC advisory | ADC laws need Governor assent
-| reserved forest excluded from listed ADC forest power
-| Article 244A applies only within Assam.
-
-PYQ ROUTES
-Fifth/Sixth identification | council composition/powers
-| PESA verbs | FRA relationship | Article 275/339 | land/mining case limits.
-
-MAINS SPINE
-define differentiated autonomy -> identify territory -> map institution/power
--> rights/development purpose -> accountability risk -> named case with limit
--> reform through voice, legality, capacity and audit.
-
-SYNTHESIS
-autonomy earns legitimacy when it protects land and custom while remaining inclusive,
-reviewable, fiscally accountable and capable of delivering development.
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Article 275(1), Article 339 and the Union accountability chain
-
-```ascii-master
-ARTICLE 275(1)
-grants-in-aid support Scheduled-Area administration and ST welfare schemes.
-
-ARTICLE 339(1)
-President appoints a commission on Scheduled Areas and ST welfare.
-
-ARTICLE 339(2)
-Union may direct States on schemes essential to ST welfare.
-
-ACCOUNTABILITY ROUTE
-local evidence -> Governor report -> Union scrutiny -> funded corrective action.
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: PESA exact-verb decision ladder and FRA interface
-
-```ascii-master
-PESA SECTION 4
-Gram Sabha approves plans; identifies beneficiaries; certifies fund use; is consulted
-before land acquisition; gives mandatory recommendation for specified minor-mineral
-decisions; owns minor forest produce; controls markets and money-lending; prevents and
-restores alienated land.
-
-FRA, 2006
-Gram Sabha initiates rights claims and protects community forest resources.
-
-LIMIT
-consultation, recommendation and approval are not interchangeable and do not create one
-universal veto.
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Current controls, reform route and extension test
-
-```ascii-master
-DATED CONTROL — 28 AUGUST 2026
-Fifth Schedule areas remain notified in 10 States. Jharkhand PESA Rules, 2025 are listed
-by MoPR; no separate Odisha rules instrument is listed. Ladakh remains outside the Sixth
-Schedule.
-
-REFORM ROUTE
-publish outcome-based Governor reports -> reasoned TAC disposal -> align State laws with
-PESA -> strengthen ADC audit and own-source revenue -> converge FRA records and legal
-aid.
-
-EXTENSION TEST
-tribal geography + customary institutions + democratic demand + viable powers + federal
-fit; never treat Sixth Schedule as an automatic template.
-LEGAL/SOURCE LIMIT: The 4 August 2026 MHA parliamentary answer identifies ten Sixth-Schedule
-  ADCs in four States; Ladakh remains outside the Sixth Schedule.
-```
+### Amendment and case capsule
+
+- Fifth Schedule paragraph 7: Parliament may amend by ordinary law; the law is not deemed an Article 368 amendment.
+- Sixth Schedule paragraph 21: Parliament has a parallel ordinary-law amendment route for the Schedule.
+- Forty-ninth Amendment, 1984: inserted the Tripura tribal-area framework, effective 1 April 1985.
+- Sixth Schedule Amendment, 1988: adapted Tripura and Mizoram provisions, including State-specific paragraphs.
+- Sixth Schedule Amendment, 1995: added Assam paragraph 3A powers and named the North Cachar Hills and Karbi Anglong councils.
+- Sixth Schedule Amendment, 2003: added Bodoland's special composition and paragraph 3B powers.
+- Samatha (1997): Andhra Pradesh transfer-law holding; not a free-standing nationwide ban.
+- Orissa Mining Corporation (2013): Gram Sabha determination of specified FRA-linked claims; MoEF retained final Stage-II decision.
+- Wildlife First (2019): eviction direction stayed pending procedural scrutiny; no final merits rule used here.
+- Chebrolu (2020): 100 percent teacher reservation invalid; Scheduled-Area protection remains subject to equality.
+
+### Final answer spine
+
+> Define territory -> cite Article/Schedule -> identify actor -> explain exact power/verb -> add named evidence -> analyse institutional effect -> state jurisdictional or rights limit -> propose accountable reform.

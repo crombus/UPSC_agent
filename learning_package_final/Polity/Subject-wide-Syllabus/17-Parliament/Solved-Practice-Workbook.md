@@ -5,590 +5,797 @@ topic_key: polity-17
 # Parliament — Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
-### Original MCQ loop - strict A → B → C → D rotation
 
-### OM1. Constitutional composition
+### 32 original MCQs
 
-Parliament under Article 79 consists of:
+**Answer rotation:** ABCD repeated eight times. Each question contains four substantive option-specific explanations and one unique question-specific Examiner trap.
+
+#### MCQ 1. Article 79 composition
+
+Under Article 79, Parliament consists of:
 
 A. President, Rajya Sabha and Lok Sabha
 B. Prime Minister, Rajya Sabha and Lok Sabha
 C. President and Lok Sabha only
 D. Rajya Sabha and Lok Sabha only
 
-**Answer: A.** [FACT] The President is an integral organ of Parliament though not a member of either House.
+**Answer: A.**
 
-### OM2. Rajya Sabha election
+**Option explanations:**
+- **A:** Correct: Article 79 makes the President an integral component with both Houses.
+- **B:** Incorrect: the Prime Minister leads government but is not a separate component of Parliament.
+- **C:** Incorrect: excluding Rajya Sabha removes the constitutionally created Council of States.
+- **D:** Incorrect: the two Houses alone omit the President from the legislative institution.
 
-Which correctly describes election of elected Rajya Sabha members from States?
+**Examiner trap 1:** The trap turns 'not a member of either House' into 'not part of Parliament'.
 
-A. Direct FPTP through territorial constituencies
+#### MCQ 2. Rajya Sabha election
+
+How are elected State representatives to Rajya Sabha chosen?
+
+A. Direct FPTP by State voters
 B. Proportional representation by single transferable vote through elected MLAs
-C. List proportional representation through all adults
-D. Nomination by Governors after Assembly consultation
+C. List voting by all members of the State Legislature
+D. Nomination by the Governor
 
-**Answer: B.** [FACT] Elected MLAs form the electorate; the 2003 statutory change introduced open ballot.
+**Answer: B.**
 
-### OM3. Seat-freeze extension
+**Option explanations:**
+- **A:** Incorrect: direct territorial election belongs to Lok Sabha.
+- **B:** Correct: elected MLAs vote through proportional representation by single transferable vote.
+- **C:** Incorrect: the electorate excludes Legislative Council members and the method is not closed-list PR.
+- **D:** Incorrect: Governors do not nominate the elected State component.
 
-Which amendment extended readjustment until publication of figures of the first census taken after 2026?
+**Examiner trap 2:** The electorate is elected MLAs, not the whole State Legislature.
 
-A. 42nd Amendment
-B. 61st Amendment
-C. 84th Amendment
-D. 87th Amendment
+#### MCQ 3. Lok Sabha Emergency extension
 
-**Answer: C.** [FACT] The 42nd began the freeze; the 84th extended it; the 87th changed the boundary-readjustment census basis to 2001.
+During a national emergency, Parliament may extend Lok Sabha's term:
 
-### OM4. Lok Sabha nomination
+A. once for the entire emergency
+B. for six months at a time without an outer limit
+C. one year at a time, not beyond six months after the emergency ends
+D. only after Rajya Sabha is dissolved
 
-Which statement is correct?
+**Answer: C.**
 
-A. Anglo-Indian nomination was converted into Rajya Sabha nomination.
-B. Lok Sabha has twelve nominated members.
-C. The President may presently nominate two Anglo-Indians to Lok Sabha.
-D. The 104th Amendment ended the Anglo-Indian nomination provision for Lok Sabha.
+**Option explanations:**
+- **A:** Incorrect: Article 83 permits repeated annual extensions while the emergency operates.
+- **B:** Incorrect: the extension unit is one year, with a six-month post-emergency outer limit.
+- **C:** Correct: both the annual unit and final six-month ceiling must be stated.
+- **D:** Incorrect: Rajya Sabha is a continuing House and is never dissolved.
 
-**Answer: D.** [FACT] Present Lok Sabha composition has no nominated Anglo-Indian members.
+**Examiner trap 3:** UPSC often swaps the one-year extension with the six-month terminal limit.
 
-### OM5. Article 84
+#### MCQ 4. Seat-freeze trigger
+
+Which statement correctly describes the present constitutional readjustment gate?
+
+A. Readjustment automatically began on 1 January 2026.
+B. The 87th Amendment permanently prohibited changing State seat totals.
+C. Only Census conduct, not publication, is constitutionally relevant.
+D. Relevant figures of the first census taken after 2026 must be published before the deferred readjustment opens.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: the date 2026 is not self-executing.
+- **B:** Incorrect: the 87th Amendment changed the census basis for boundary work without creating a permanent ban.
+- **C:** Incorrect: publication of relevant figures is part of the constitutional wording.
+- **D:** Correct: the 84th Amendment preserved the publication-linked gate.
+
+**Examiner trap 4:** Do not convert 'after 2026' into 'in 2026'.
+
+#### MCQ 5. Article 84 qualification
 
 Which is a constitutional qualification for Parliament membership?
 
 A. Citizenship of India
-B. Prior legislative experience
-C. Graduation from a recognised university
-D. Residence for ten years in the represented State
+B. A university degree
+C. Ten years' residence in the represented State
+D. Prior service in a legislature
 
-**Answer: A.** [FACT] Citizenship, prescribed oath, minimum age and statutory qualifications form the gate.
+**Answer: A.**
 
-### OM6. Sitting-member disqualification
+**Option explanations:**
+- **A:** Correct: citizenship is expressly required alongside age, oath-related and statutory conditions.
+- **B:** Incorrect: the Constitution prescribes no degree requirement.
+- **C:** Incorrect: no such ten-year constitutional residence test exists.
+- **D:** Incorrect: legislative experience is politically relevant but legally unnecessary.
 
-Who decides an Article 102(1) question concerning a sitting MP?
+**Examiner trap 5:** Statutory qualifications may supplement Article 84, but educational and experience conditions are not implied.
 
-A. Speaker acting alone
+#### MCQ 6. Article 103 forum
+
+Who decides whether a sitting MP incurred an Article 102(1) disqualification?
+
+A. Speaker acting without another institution
 B. President after obtaining the Election Commission's opinion
 C. Supreme Court in original jurisdiction
-D. Returning Officer
+D. Returning Officer after the election
 
-**Answer: B.** [FACT] Article 103 creates the President-ECI decision route.
+**Answer: B.**
 
-### OM7. Leader of Opposition
+**Option explanations:**
+- **A:** Incorrect: the Speaker's separate Tenth Schedule jurisdiction must not be imported.
+- **B:** Correct: Article 103 creates the President-ECI route.
+- **C:** Incorrect: courts may review but do not replace the first-instance constitutional forum.
+- **D:** Incorrect: a returning officer handles candidature-stage issues, not this later reference.
 
-Which statement best reflects the Core control?
+**Examiner trap 6:** Identify whether the issue is Article 102(1), defection or election validity before naming the forum.
 
-A. LoP is appointed by the President.
-B. LoP is a purely constitutional office named in Article 75.
-C. LoP is statutory under the 1977 Act; the Act itself prescribes no ten-percent threshold.
-D. The largest opposition leader automatically becomes LoP in all circumstances.
+#### MCQ 7. Article 101 absence
 
-**Answer: C.** [FACT] Distinguish the statutory recognised office from the political leader of the largest opposition party.
+A House may declare an MP's seat vacant for unauthorised absence of:
 
-### OM8. Prorogation
+A. thirty calendar days
+B. forty-five sittings
+C. sixty days calculated with Article 101's excluded periods
+D. six consecutive months in every case
 
-Prorogation:
+**Answer: C.**
 
-A. Causes every pending Bill to lapse.
-B. Is ordered by the Speaker.
-C. Ends the life of Lok Sabha.
-D. Ends a session through presidential action while pending Bills generally survive.
+**Option explanations:**
+- **A:** Incorrect: thirty days is not the constitutional period.
+- **B:** Incorrect: Article 101 does not use forty-five sittings.
+- **C:** Correct: sixty days applies subject to constitutionally excluded adjournment/prorogation periods.
+- **D:** Incorrect: six months is the Article 85 session-gap ceiling, not the absence rule.
 
-**Answer: D.** [FACT] Adjournment is by the chair; dissolution, not prorogation, ends Lok Sabha.
+**Examiner trap 7:** The distractor borrows six months from summoning law.
 
-### OM9. Starred question
+#### MCQ 8. Article 85
 
-A starred question ordinarily:
+Article 85 constitutionally requires that:
 
-A. Receives an oral answer and permits supplementary questions.
-B. Cannot concern a ministry.
-C. Is identical to Zero Hour.
-D. Receives only a written answer.
+A. three named sessions be held annually
+B. Parliament sit for at least 100 days
+C. both Houses always meet simultaneously
+D. six months shall not intervene between the last sitting of one session and first sitting of the next
 
-**Answer: A.** [FACT] Oral follow-up makes starred questions the principal live cross-examination device.
+**Answer: D.**
 
-### OM10. No-confidence motion
+**Option explanations:**
+- **A:** Incorrect: Budget, Monsoon and Winter are conventional labels.
+- **B:** Incorrect: no constitutional minimum sitting-day number is written.
+- **C:** Incorrect: Houses may have different sitting arrangements.
+- **D:** Correct: the inter-session ceiling is the textual safeguard.
 
-Which is correct?
+**Examiner trap 8:** At least two sessions is an inference from the interval rule, not the Article's wording.
 
-A. Its defeat dissolves Rajya Sabha.
-B. It belongs only to Lok Sabha and needs support of 50 members for admission.
-C. It must specify charges against each minister.
-D. It can be moved in either House.
+#### MCQ 9. Quorum
 
-**Answer: B.** [FACT] Article 75(3) ties collective responsibility to Lok Sabha; reasons need not be stated.
+Until Parliament otherwise provides, Article 100 fixes quorum at:
 
-### OM11. Speaker after dissolution
+A. one-tenth of the total number of members of the House
+B. one-third of sanctioned strength
+C. fifty members in either House
+D. a majority of members present
 
-On dissolution of Lok Sabha, the Speaker:
+**Answer: A.**
 
-A. Vacates immediately with all members.
-B. Continues for six months.
-C. Continues until immediately before the first sitting of the new Lok Sabha.
-D. Becomes a Rajya Sabha officer.
+**Option explanations:**
+- **A:** Correct: one-tenth is the constitutional fraction.
+- **B:** Incorrect: one-third is associated with Rajya Sabha retirement, not quorum.
+- **C:** Incorrect: the Houses do not share a fixed fifty-member quorum.
+- **D:** Incorrect: present members cannot define quorum circularly.
 
-**Answer: C.** [FACT] Article 94 preserves institutional continuity.
+**Examiner trap 9:** Keep quorum separate from the majority needed to decide an ordinary question.
 
-### OM12. Speaker's removal resolution
+#### MCQ 10. Article 88 participation
 
-While a resolution for the Speaker's removal is considered:
+A Rajya Sabha minister in Lok Sabha may:
 
-A. The Speaker cannot enter the House.
-B. The Deputy Speaker cannot preside.
-C. The Speaker presides and uses only a casting vote.
-D. The Speaker does not preside, may vote in the first instance and has no casting vote.
+A. vote only on Money Bills
+B. speak and participate but vote only through House membership
+C. neither speak nor join a committee
+D. cast one vote in each House
 
-**Answer: D.** [FACT] Article 96 removes the conflict in presiding, not the member's right to participate.
+**Answer: B.**
 
-### OM13. *Sita Soren (2024)*
+**Option explanations:**
+- **A:** Incorrect: Article 88 creates no special financial vote.
+- **B:** Correct: voice extends across Houses; voting follows membership.
+- **C:** Incorrect: participation expressly includes relevant committees.
+- **D:** Incorrect: ministerial office never creates dual-House membership.
 
-The 2024 seven-judge ruling establishes that:
+**Examiner trap 10:** Article 88 enlarges participation, not the electorate of either House.
 
-A. Legislative privilege does not immunise acceptance of a bribe for speech or vote.
-B. Only actual voting, not bribe acceptance, can complete bribery.
-C. Article 105 has been invalidated.
-D. All parliamentary speech may be criminally prosecuted.
+#### MCQ 11. Speaker removal sitting
 
-**Answer: A.** [FACT] The offence is complete on acceptance; bona fide speech/vote immunity survives.
+While the Speaker's removal resolution is under consideration, which combination is correct?
 
-### OM14. Ordinary Bill deadlock
+A. Speaker presides and has only a casting vote
+B. Speaker cannot speak or vote
+C. Speaker does not preside, may vote in the first instance, and has no casting vote
+D. Deputy Speaker must also leave the House
 
-Which is a recognised Article 108 trigger?
+**Answer: C.**
 
-A. States refuse to ratify an amendment.
-B. The second House rejects an ordinary Bill or the Houses finally disagree.
-C. President returns a Bill.
+**Option explanations:**
+- **A:** Incorrect: Article 96 removes the Speaker from the chair for this proceeding.
+- **B:** Incorrect: the Speaker retains speech and first-instance voting rights.
+- **C:** Correct: this balances participation with conflict-of-interest control.
+- **D:** Incorrect: no automatic exclusion of the Deputy Speaker follows.
+
+**Examiner trap 11:** The special voting rule reverses the Speaker's ordinary no-first-vote/casting-vote position.
+
+#### MCQ 12. Rajya Sabha Chairman
+
+Which statement about the Rajya Sabha Chairman is correct?
+
+A. The Chairman is elected from Rajya Sabha members.
+B. The Chairman votes in the first instance on every question.
+C. The Chairman continues as an MP after Vice-Presidential resignation.
+D. The Vice-President is ex officio Chairman but is not a Rajya Sabha member.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Rajya Sabha elects the Deputy Chairman, not the Chairman.
+- **B:** Incorrect: the Chairman ordinarily has only a casting vote on equality.
+- **C:** Incorrect: the office flows from the Vice-Presidency, not House membership.
+- **D:** Correct: Article 64 and Article 89 create the ex officio arrangement.
+
+**Examiner trap 12:** Do not describe the Vice-President as the presiding 'member' of Rajya Sabha.
+
+#### MCQ 13. Privilege and bribery
+
+What did Sita Soren v. Union of India (2024) establish?
+
+A. Accepting a bribe for a legislative speech or vote is not immunised by Articles 105/194.
+B. All parliamentary speech can be prosecuted.
+C. Privilege provisions were struck down.
+D. Only the House may investigate bribery.
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the offence of bribery is independent of the protected legislative act.
+- **B:** Incorrect: bona fide speech and voting immunity survives.
+- **C:** Incorrect: the Court interpreted privilege; it did not invalidate the Articles.
+- **D:** Incorrect: ordinary criminal law and courts remain available.
+
+**Examiner trap 13:** The holding narrows corruption immunity without destroying deliberative immunity.
+
+#### MCQ 14. Question Hour
+
+Which pairing is correct?
+
+A. Starred-written-no supplementaries
+B. Unstarred-written-no supplementaries
+C. Short-notice-written only
+D. Zero Hour-formally codified first hour
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: starred questions are answered orally and permit supplementaries.
+- **B:** Correct: unstarred questions create a written record without oral follow-up.
+- **C:** Incorrect: short-notice questions are ordinarily oral on urgent matters.
+- **D:** Incorrect: Zero Hour is an informal Indian innovation, not the rule-based first hour.
+
+**Examiner trap 14:** The answer turns on reply mode and follow-up, not on urgency alone.
+
+#### MCQ 15. No-confidence motion
+
+Which statement is correct about a no-confidence motion?
+
+A. It may be moved in either House.
+B. It must list charges against each minister.
+C. It is a Lok Sabha device requiring fifty members to support leave and tests the Council collectively.
+D. Its admission itself compels resignation.
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: collective responsibility is to Lok Sabha.
+- **B:** Incorrect: reasons need not be stated for no-confidence.
+- **C:** Correct: Rule 198 admission and Article 75(3) consequence must be combined.
+- **D:** Incorrect: only passage, not admission, determines political survival.
+
+**Examiner trap 15:** Do not merge censure's reasoned criticism with no-confidence's bare majority test.
+
+#### MCQ 16. Resolution distinction
+
+Which statement best distinguishes a resolution?
+
+A. Every procedural motion is a resolution.
+B. A resolution can never arise under a statute.
+C. A resolution necessarily removes the government.
+D. A resolution is a self-contained substantive expression of House opinion or decision; every resolution is a motion, but not every motion is a resolution.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: many motions merely regulate procedure.
+- **B:** Incorrect: statutory resolutions are a recognised category.
+- **C:** Incorrect: most resolutions do not test confidence.
+- **D:** Correct: the hierarchy captures both form and consequence.
+
+**Examiner trap 16:** UPSC may use 'motion' as the wider genus and 'resolution' as a substantive species.
+
+#### MCQ 17. Private Member's Bill
+
+A Private Member's Bill is:
+
+A. introduced by an MP who is not a minister and processed under specially allotted House business
+B. introduced only by a recognised opposition leader
+C. exempt from presidential assent
+D. incapable of becoming law
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: sponsor status, not party, defines private-member business.
+- **B:** Incorrect: government-party backbenchers may also be private members.
+- **C:** Incorrect: enactment still requires the ordinary constitutional completion route.
+- **D:** Incorrect: rarity of enactment is political practice, not legal incapacity.
+
+**Examiner trap 17:** Private member means non-minister, not opposition member.
+
+#### MCQ 18. Ordinary Bill origin
+
+An ordinary Union Bill may constitutionally originate:
+
+A. only in Lok Sabha
+B. in either House, subject to any specific constitutional recommendation requirement
+C. only after joint-committee scrutiny
+D. only when introduced by a minister
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: Lok Sabha-only origin is a special financial rule.
+- **B:** Correct: Article 107 permits either-House origin for ordinary legislation.
+- **C:** Incorrect: committee scrutiny is not an automatic precondition.
+- **D:** Incorrect: private members may introduce Bills.
+
+**Examiner trap 18:** Classify the Bill before applying an origin restriction.
+
+#### MCQ 19. Money Bill content
+
+For a Bill to be a Money Bill under Article 110, it must:
+
+A. contain at least one taxation clause regardless of other content
+B. be titled a Finance Bill
+C. contain only listed Article 110 matters and incidental provisions
+D. be passed at a joint sitting
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: unrelated substantive provisions defeat the 'only' requirement.
+- **B:** Incorrect: title does not determine constitutional classification.
+- **C:** Correct: exclusivity is the controlling textual firewall.
+- **D:** Incorrect: no joint sitting exists for Money Bills.
+
+**Examiner trap 19:** A financial subject somewhere in the Bill is insufficient.
+
+#### MCQ 20. Financial Bill-II
+
+Which statement correctly describes an Article 117(3) Financial Bill?
+
+A. It is a Money Bill.
+B. It can originate only in Lok Sabha.
+C. Rajya Sabha may only recommend changes.
+D. It may originate in either House, but presidential recommendation is required before consideration.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: it contains expenditure implications without being confined to Article 110.
+- **B:** Incorrect: the Lok Sabha-only rule belongs to clause (1).
+- **C:** Incorrect: both Houses otherwise have ordinary-Bill powers.
+- **D:** Correct: recommendation timing is before consideration.
+
+**Examiner trap 20:** Do not apply Financial Bill-I restrictions to Financial Bill-II.
+
+#### MCQ 21. Appropriation Bill
+
+What is the central function of an Appropriation Bill?
+
+A. To authorise withdrawal from the Consolidated Fund of India for voted grants and charged expenditure
+B. To impose every tax announced in the Budget
+C. To obtain Rajya Sabha's vote on demands for grants
+D. To approve CAG reports
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Article 114 converts parliamentary financial approval into lawful withdrawal authority.
+- **B:** Incorrect: taxation measures ordinarily travel through finance legislation.
+- **C:** Incorrect: demands for grants are voted only in Lok Sabha.
+- **D:** Incorrect: PAC examines CAG material after expenditure.
+
+**Examiner trap 21:** Budget presentation and grant voting still do not permit withdrawal without appropriation.
+
+#### MCQ 22. Joint-sitting trigger
+
+Which is an Article 108 deadlock trigger for an eligible Bill?
+
+A. President returns the Bill once.
+B. The second House rejects it or the Houses finally disagree on amendments.
+C. A State Legislature refuses ratification.
 D. Rajya Sabha recommends changes to a Money Bill.
 
-**Answer: B.** [FACT] Eligible deadlocks include rejection, final disagreement and specified delay; Money and amendment Bills are excluded.
+**Answer: B.**
 
-### OM15. Money Bill
+**Option explanations:**
+- **A:** Incorrect: presidential reconsideration is governed by Article 111.
+- **B:** Correct: rejection and final disagreement are express deadlock routes.
+- **C:** Incorrect: State ratification belongs to Article 368 and has no joint sitting.
+- **D:** Incorrect: Money Bill recommendations are handled under Article 109.
 
-Which condition is essential?
+**Examiner trap 22:** Joint sitting resolves inter-House ordinary-law deadlock, not every failed consent.
 
-A. A joint sitting resolves disagreement.
-B. Rajya Sabha must consent within fourteen days.
-C. It must contain only Article 110 matters and incidental provisions.
-D. It may include any policy matter if taxation is also present.
-
-**Answer: C.** [FACT] “Only” is the classification firewall; Rajya Sabha recommendations are non-binding.
-
-### OM16. Financial Bill-II
-
-Which statement is correct?
-
-A. It can originate only in Lok Sabha.
-B. Rajya Sabha has recommendation-only power.
-C. It is always a Money Bill.
-D. It may originate in either House, with presidential recommendation required before consideration.
-
-**Answer: D.** [FACT] Article 117(3) differs from both Money Bill and Financial Bill-I.
-
-### OM17. Joint-sitting history
-
-How many joint sittings had been held according to the controlled Core?
-
-A. Three
-B. Five
-C. One
-D. Four
-
-**Answer: A.** [FACT] Dowry 1961, Banking Service 1978 and POTA 2002.
-
-### OM18. Bill lapse
+#### MCQ 23. Bill lapse
 
 Which Bill lapses on Lok Sabha dissolution?
 
-A. Bill for which joint sitting was notified
-B. Bill passed by Lok Sabha but pending in Rajya Sabha
-C. Bill passed by both Houses awaiting assent
-D. Bill pending in Rajya Sabha and never passed by Lok Sabha
+A. A Bill passed by both Houses awaiting assent
+B. A Rajya-Sabha-origin Bill still pending only in Rajya Sabha
+C. A Bill passed by Lok Sabha and pending in Rajya Sabha
+D. A Bill for which joint-sitting intention was notified before dissolution
 
-**Answer: B.** [FACT] It carries the expired Lok Sabha's unfinished mandate.
+**Answer: C.**
 
-### OM19. Charged expenditure
+**Option explanations:**
+- **A:** Incorrect: bicameral passage preserves the Bill for assent.
+- **B:** Incorrect: it has not acquired an expired Lok Sabha mandate.
+- **C:** Correct: unfinished Lok Sabha passage lapses with that House.
+- **D:** Incorrect: prior joint-sitting notification prevents lapse.
 
-Charged expenditure on the Consolidated Fund:
+**Examiner trap 23:** Track whether the dissolved Lok Sabha had passed the Bill.
 
-A. Is voted by both Houses.
-B. Is neither discussed nor voted.
-C. May be discussed but is not submitted to vote.
-D. Is voted only by Rajya Sabha.
+#### MCQ 24. Constitution Amendment Bill
 
-**Answer: C.** [FACT] The non-votable character protects specified constitutional expenditures while allowing discussion.
+Which statement about an Article 368 Bill is correct?
 
-### OM20. Token cut
+A. It must originate in Lok Sabha.
+B. A simple majority in a joint sitting can pass it.
+C. The President may return it for reconsideration.
+D. Each House must separately pass the required special majority; no joint sitting cures failure.
 
-A Token Cut Motion reduces a demand by:
+**Answer: D.**
 
-A. Ten per cent
-B. Re 1
-C. The full disputed amount
-D. Rs 100
+**Option explanations:**
+- **A:** Incorrect: either House may introduce it.
+- **B:** Incorrect: Article 108 does not apply.
+- **C:** Incorrect: after valid passage the President shall give assent.
+- **D:** Correct: bicameral special consent is independently required.
 
-**Answer: D.** [FACT] Re 1 is Policy Cut; Token Cut ventilates a specific grievance.
+**Examiner trap 24:** An amendment Bill is not an ordinary Bill with a higher combined vote.
 
-### OM21. Public Account
+#### MCQ 25. Charged expenditure
 
-Which fund does not require parliamentary appropriation for withdrawal?
+Charged expenditure on the Consolidated Fund of India:
 
-A. Public Account of India
-B. Consolidated Fund of India
-C. Contingency Fund after recoupment
-D. Every constitutional fund requires identical appropriation
+A. may be discussed but is not submitted to Lok Sabha vote
+B. cannot even be discussed
+C. is voted by Rajya Sabha alone
+D. requires a cut motion
 
-**Answer: A.** [FACT] Public Account contains money held in trust; Consolidated Fund withdrawal requires appropriation.
+**Answer: A.**
 
-### OM22. PAC
+**Option explanations:**
+- **A:** Correct: Article 113 preserves discussion while withholding the grant vote.
+- **B:** Incorrect: non-votable does not mean non-discussable.
+- **C:** Incorrect: Rajya Sabha does not vote demands for grants.
+- **D:** Incorrect: cut motions apply to votable demands.
 
-Which correctly describes PAC?
+**Examiner trap 25:** UPSC tests the difference between discussion and voting.
 
-A. 30 Lok Sabha members; prospective estimates scrutiny
-B. 22 members (15 LS + 7 RS); examines CAG reports; Opposition chair by convention
-C. 22 members; examines only private corporations
-D. 31 members; every ministry has a separate PAC
+#### MCQ 26. Public Accounts Committee
 
-**Answer: B.** [FACT] PAC is retrospective audit scrutiny; ministers are barred.
+Which description of the PAC is correct?
 
-### OM23. Estimates Committee
+A. Thirty Lok Sabha members examining estimates
+B. Twenty-two members examining CAG-linked accounts; Opposition chair is a convention
+C. Thirty-one members examining ministry Bills
+D. A minister-chaired consultative body
 
-Which is correct?
+**Answer: B.**
 
-A. It decides whether expenditure was legally authorised after the fact.
-B. It is conventionally chaired by the Opposition.
-C. It has 30 Lok Sabha members and examines economy/efficiency in estimates.
-D. It has seven Rajya Sabha members.
+**Option explanations:**
+- **A:** Incorrect: that composition and forward-looking function belong to Estimates Committee.
+- **B:** Correct: 15 Lok Sabha and 7 Rajya Sabha members conduct post-expenditure scrutiny.
+- **C:** Incorrect: 31-member structures describe DRSCs.
+- **D:** Incorrect: ministers cannot sit on the financial committees.
 
-**Answer: C.** [FACT] PAC handles post-expenditure CAG audit; Estimates is Lok Sabha-only and prospective.
+**Examiner trap 26:** Opposition chairmanship is convention, while composition and function come from rules.
 
-### OM24. DRSC composition
+#### MCQ 27. Estimates Committee
 
-Each DRSC has:
+Which feature belongs to the Estimates Committee?
 
-A. 30 members: 20 LS + 10 RS
-B. 22 members: 15 LS + 7 RS
-C. 31 members: 20 LS + 11 RS
-D. 31 members: 21 LS + 10 RS
+A. Seven Rajya Sabha members
+B. Post-audit examination of CAG reports
+C. Thirty Lok Sabha-only members examining economy and efficiency in estimates
+D. Review of delegated rules
 
-**Answer: D.** [FACT] There were 17 in 1993 and 24 from 2004; 16 are LS-serviced and 8 RS-serviced.
+**Answer: C.**
 
-### OM25. Welfare of SCs/STs Committee
+**Option explanations:**
+- **A:** Incorrect: Rajya Sabha has no representation on this committee.
+- **B:** Incorrect: that is the PAC's principal audit route.
+- **C:** Correct: it is the largest financial committee and looks forward to economies.
+- **D:** Incorrect: subordinate legislation has a separate scrutiny committee.
 
-Which is correct?
+**Examiner trap 27:** Do not swap pre-expenditure economy review with post-expenditure audit.
 
-A. It has 30 members (20 LS + 10 RS) and examines NCSC/NCST reports and Article 335 representation.
-B. It is the same institution as the NCSC.
-C. Ministers must constitute half its membership.
-D. It has only Lok Sabha members.
+#### MCQ 28. Subordinate legislation
 
-**Answer: A.** [FACT] It is a standing parliamentary committee; ministers are barred.
+The Committee on Subordinate Legislation principally examines whether:
 
-### OM26. Rajya Sabha's exclusive powers
+A. the Council retains confidence
+B. CAG certified expenditure
+C. a Bill should be treated as a Money Bill
+D. rules and regulations remain within the parent Act and proper delegated authority
 
-The controlled pair is:
+**Answer: D.**
 
-A. Articles 75 and 113
-B. Articles 249 and 312
-C. Articles 110 and 123
-D. Articles 108 and 111
+**Option explanations:**
+- **A:** Incorrect: confidence belongs to the House floor.
+- **B:** Incorrect: PAC handles CAG-linked financial scrutiny.
+- **C:** Incorrect: Money Bill certification belongs to the Speaker.
+- **D:** Correct: the committee checks delegated-law legality and propriety.
 
-**Answer: B.** [FACT] Rajya Sabha initiates national-interest State List legislation and creation of All-India Services.
+**Examiner trap 28:** The committee scrutinises executive-made detail after legislative delegation.
 
-### OM27. Anti-defection merger
+#### MCQ 29. Article 249
 
-Which threshold supports the surviving merger exception?
+A valid Rajya Sabha resolution under Article 249 enables:
 
-A. Half of members present
-B. One-third of the House
-C. At least two-thirds of the legislature party
-D. Unanimous party membership
+A. Parliament to legislate temporarily on a State List matter in the national interest
+B. Rajya Sabha to amend the State List permanently
+C. the President to dissolve a State Assembly
+D. creation of an All India Service
 
-**Answer: C.** [FACT] The 91st Amendment deleted the former one-third split defence.
+**Answer: A.**
 
-### OM28. Nominated member under Tenth Schedule
+**Option explanations:**
+- **A:** Correct: the resolution opens a time-bound national-interest legislative window.
+- **B:** Incorrect: constitutional distribution is not permanently rewritten.
+- **C:** Incorrect: dissolution questions arise under other provisions.
+- **D:** Incorrect: service creation is Article 312.
 
-Which statement is correct?
+**Examiner trap 29:** Article 249 shifts legislative competence temporarily, not ownership of the subject.
 
-A. The rule is identical to that for an independent.
-B. A nominated member can never join a party.
-C. A nominated member may join at any time without consequence.
-D. A nominated member may join within six months; joining after that can disqualify.
+#### MCQ 30. Article 312
 
-**Answer: D.** [FACT] An independent is disqualified upon joining any party.
+Article 312 requires which gateway for creating a new All India Service?
 
-### OM29. IPG
+A. Lok Sabha simple majority
+B. Rajya Sabha resolution by two-thirds of members present and voting in the national interest
+C. Approval by every State Legislature
+D. A joint sitting
 
-The Indian Parliamentary Group:
+**Answer: B.**
 
-A. Is India's National Group in the IPU and main India Branch of the CPA.
-B. Is limited to Rajya Sabha members.
-C. Is a wing of the Ministry of External Affairs.
-D. Represents governments at the United Nations.
+**Option explanations:**
+- **A:** Incorrect: the special federal gateway is located in Rajya Sabha.
+- **B:** Correct: the present-and-voting supermajority precedes parliamentary law.
+- **C:** Incorrect: unanimous State ratification is not required.
+- **D:** Incorrect: Article 108 is irrelevant.
 
-**Answer: A.** [FACT] IPG organises parliamentary exchange; IPU is global and CPA Commonwealth-specific.
+**Examiner trap 30:** Keep the Article 312 gateway distinct from the later law that creates the service.
 
-### OM30. 106th Amendment status
+#### MCQ 31. Ordinance reassembly
 
-As of 28 August 2026:
+If the Houses reassemble on different dates, the six-week ordinance period is counted from:
 
-A. One-third of current Lok Sabha seats are already reserved.
-B. It commenced on 16 April 2026, but the reservation remains non-operational pending the Article 334A sequence.
-C. The quota necessarily ends in 2041.
-D. The Act has not commenced.
+A. the earlier House's date
+B. the date of promulgation
+C. the later reassembly date
+D. the next Budget Session
 
-**Answer: B.** [FACT] Commenced and operational are different registers; no end year should be derived.
+**Answer: C.**
 
-### OM31. Census trigger
+**Option explanations:**
+- **A:** Incorrect: the Constitution uses the later date for the combined parliamentary opportunity.
+- **B:** Incorrect: promulgation begins operation but not the six-week reassembly clock.
+- **C:** Correct: the later date controls.
+- **D:** Incorrect: conventional session labels do not govern Article 123 expiry.
 
-What must occur immediately before delimitation can switch on the Article 334A reservation sequence?
+**Examiner trap 31:** The two-House calculation is a classic close-option trap.
 
-A. Completion of houselisting alone
-B. Reference date of 1 March 2027
-C. Publication of the relevant figures of the first post-commencement census
-D. Passage of an ordinary resolution
+#### MCQ 32. Article 122
 
-**Answer: C.** [FACT] Enumeration/reference dates are not publication dates.
+Which statement best states Article 122?
 
-### OM32. 2026 delimitation package
+A. It bars all judicial review of parliamentary action.
+B. It makes every Speaker ruling final against Fundamental Rights.
+C. It allows courts to supervise daily House procedure.
+D. It protects proceedings from challenge for mere procedural irregularity while leaving substantive constitutional illegality reviewable.
 
-Which statement is correct?
+**Answer: D.**
 
-A. Lok Sabha's ceiling is now 850.
-B. The package created a binding precedent.
-C. Delimitation must now use the 2011 Census.
-D. The 131st Amendment Bill proposed 850 but was defeated for want of the Article 368 special majority.
+**Option explanations:**
+- **A:** Incorrect: Raja Ram Pal rejects blanket immunity.
+- **B:** Incorrect: constitutional violations remain reviewable.
+- **C:** Incorrect: courts do not manage ordinary parliamentary procedure.
+- **D:** Correct: procedural autonomy and constitutional supremacy coexist.
 
-**Answer: D.** [FACT] 298:230 cleared the total-membership limb but not two-thirds of 528 present and voting.
-
-### OM33. Money Bill judicial status
-
-Which is the safest current formulation?
-
-A. Article 110 says final, but narrow constitutional review remains and the *Rojer Mathew v. South Indian Bank (2019)* larger issue has no visible final resolution as of 28 August 2026.
-B. *Puttaswamy* unanimously settled every Article 110 issue.
-C. Speaker certification is wholly immune from courts.
-D. *Rojer Mathew v. South Indian Bank (2019)* finally invalidated all Money Bills.
-
-**Answer: A.** [FACT]/[CURRENT] The formulation preserves textual finality, narrow review and pending-status caution.
-
-### OM34. Deputy Speaker
-
-Which statement is correct?
-
-A. The office automatically falls vacant on every adjournment.
-B. The House elects the Deputy Speaker, who has the Speaker's powers when presiding.
-C. The Deputy Speaker is appointed by the Speaker.
-D. The Constitution fixes a thirty-day election deadline.
-
-**Answer: B.** [FACT] Article 93 says “as soon as may be” but supplies no numerical deadline.
-
-### OM35. Parliamentary reform
-
-Which reform most directly improves clause-level legislative scrutiny?
-
-A. Abolishing Rajya Sabha
-B. Treating every Bill as a Money Bill
-C. Default committee referral with reasoned urgency exceptions
-D. Expanding every whip to every vote
-
-**Answer: C.** [ANALYSIS] It targets the point where evidence and legal text can be tested without destroying emergency flexibility.
-
-### OM36. MPLADS
-
-Which statement follows the controlled routed demand?
-
-A. The current annual amount may be quoted without checking.
-B. Its funds necessarily lapse at year-end.
-C. MPLADS is a constitutional entitlement.
-D. It is a scheme with non-lapsable funds; current rupee amount requires live official verification.
-
-**Answer: D.** [FACT]/[LIMIT] Stable scheme characteristics can be stated; live amounts cannot be guessed.
-
-### Remedial MCQs - strict A -> B -> A -> D rotation
-
-### RM1. President and membership
-
-Which correction is accurate?
-
-A. The President is an integral part of Parliament but not a member of either House.
-B. Parliament excludes the President.
-C. The President votes in joint sittings.
-D. The President is a nominated Rajya Sabha member.
-
-**Answer: A.** The Article 79 architecture distinguishes institutional membership from being an integral constitutional organ.
-
-### RM2. Session rule
-
-The Constitution requires:
-
-A. At least 100 Lok Sabha sitting days
-B. No more than six months between the relevant sittings of successive sessions
-C. Exactly three sessions every year
-D. A Winter Session every November
-
-**Answer: B.** Budget/Monsoon/Winter are conventions; Article 85 supplies the six-month ceiling, not a sitting-day quota.
-
-### RM3. Prorogation trap
-
-What ordinarily happens to a pending Bill on prorogation?
-
-A. It lapses if introduced by a private member.
-B. It becomes an ordinance.
-C. It survives.
-D. It goes automatically to joint sitting.
-
-**Answer: C.** Prorogation ends a session; dissolution creates the selective lapse rules.
-
-### RM4. Speaker removal
-
-Which statement is correct?
-
-A. Speaker must preside over the resolution.
-B. No advance notice is required.
-C. Removal uses a simple majority of members present and voting.
-D. Removal needs a majority of all the then members after fourteen days' notice.
-
-**Answer: D.** This is an effective majority; Article 96 separately bars the Speaker from presiding.
-
-### RM5. Financial Bill-I trap
-
-A Financial Bill-I:
-
-A. Starts only in Lok Sabha on presidential recommendation, but Rajya Sabha retains full legislative power.
-B. Cannot go to joint sitting.
-C. Is always subject to the fourteen-day recommendation rule.
-D. Contains only Article 110 matters.
-
-**Answer: A.** The presence of other matters takes it outside the narrow Money Bill procedure.
-
-### RM6. Joint-sitting exclusion
-
-Which pair has no joint-sitting route?
-
-A. Government Bill and Private Member's Bill
-B. Money Bill and Constitution Amendment Bill
-C. Ordinary Bill and Financial Bill-I
-D. Ordinary Bill and Financial Bill-II
-
-**Answer: B.** Money Bills have Article 109 procedure; amendments require separate Article 368 passage.
-
-### RM7. Committee-number trap
-
-Which statement is correct?
-
-A. Estimates Committee has 15 LS and 7 RS members.
-B. Welfare of SCs/STs Committee has 31 members.
-C. DRSCs were 17 in 1993 and 24 from 2004; each has 21 LS and 10 RS members.
-D. DRSCs were 24 from their introduction in 1993.
-
-**Answer: C.** The standard distractors wrongly backdate 24 or swap the 21+10 composition.
-
-### RM8. Privilege trap
-
-After *Sita Soren (2024)*:
-
-A. Article 105 was repealed judicially.
-B. No speech in Parliament is protected.
-C. Members have immunity for a bribe if they later vote.
-D. Bribery lacks privilege immunity, while bona fide speech/vote protection remains.
-
-**Answer: D.** The judgment targets the separate criminal bargain, not legislative freedom of debate.
-
-### RM9. Rajya Sabha status
-
-Which statement is most accurate?
-
-A. Rajya Sabha is weaker on money/confidence, equal in major legislative fields and exclusive under Articles 249/312.
-B. Rajya Sabha may remove the Union ministry.
-C. Rajya Sabha is inferior in every field.
-D. Rajya Sabha alone votes demands for grants.
-
-**Answer: A.** A graded comparison is required; blanket equality or inferiority is wrong.
-
-### RM10. Women's reservation trap
-
-Which is correct as of 28 August 2026?
-
-A. The Act remains uncommenced.
-B. The Act commenced, but operational reservation awaits publication-linked delimitation.
-C. Its end date is conclusively 2041.
-D. Reservation automatically began with Census houselisting.
-
-**Answer: B.** Enacted, commenced and operational are three separate registers.
-
-### RM11. 2026 Bill arithmetic
-
-The 131st Amendment Bill failed because:
-
-A. Rajya Sabha rejected it after Lok Sabha passage.
-B. It failed the total-membership-majority limb.
-C. It cleared a simple majority but failed two-thirds of members present and voting.
-D. It received fewer ayes than noes.
-
-**Answer: C.** 298 exceeded half of 543 but not two-thirds of 528; it never reached Rajya Sabha.
-
-### RM12. Deputy Speaker status
-
-Which statement is correct on the official Lok Sabha control checked 28 August 2026?
-
-A. The Constitution requires election within thirty days.
-B. The Deputy Speaker's office is permanently abolished.
-C. The official page dates the vacancy from 2018.
-D. The office is vacant, and the official page dates the vacancy from May 2019.
-
-**Answer: D.** Article 93 governs election by the House; the vacancy statement is a dated official
-control and must not be converted into a timeless constitutional rule.
+**Examiner trap 32:** Irregularity is not the same as illegality or unconstitutionality.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Answer-writing architecture
-**Visual 39 - Mandatory answer spine**
+### Answer-writing control
 
-```text
-CLAIM
-directly answer the directive
-   |
-NAMED EVIDENCE
-Article / case / committee / amendment / dated official event
-   |
-ANALYSIS
-explain mechanism, consequence or significance
-   |
-QUALIFICATION
-state counter-evidence, status limit or variation
-   |
-VERDICT
-graded answer to the exact question
-```
+| Marks | Maximum length | Minimum viable architecture |
+|---:|---:|---|
+| 10 | 150 words | Direct thesis -> two mechanisms -> named evidence -> qualification -> verdict |
+| 15 | 250 words | Define boundary -> 4-5 dimensions -> case/committee/article evidence -> counterpoint -> reform/verdict |
+| 20 | 250 words | Constitutional map -> institutional operation -> criticism and counter-evidence -> reforms -> qualified conclusion |
 
-### Directive fidelity
+**Mandatory paragraph logic:** claim -> named evidence -> analysis -> qualification. A list of devices without explaining how they change executive incentives is not analysis.
 
-| Directive | Required operation | Common failure |
-|---|---|---|
-| Discuss | Explain major dimensions with balance | Mere list |
-| Examine | Test the proposition using evidence | One-sided assertion |
-| Evaluate | Apply criteria, strengths and weaknesses, then judge | Description without judgment |
-| To what extent | Give a degree-based answer | Absolute yes/no |
-| Highlight factors and areas | Separate causes from fields of effect | Mixing both |
-| Elucidate | Clarify mechanism with evidence | Generic merits/demerits |
+### Audited routed Prelims PYQs
 
-### Mark-scaled evidence load
+[FACT] The question numbers and neutral demands below follow the repository's audited local official-paper routing ledgers. Older scanned booklets are recorded without inventing an answer key. The 2024-2025 letters are printed only because final official Set-A keys are held locally; the 2026 key is provisional and is therefore withheld.
 
-| Marks/words | Structure | Named evidence target |
-|---:|---|---|
-| 10 / 150 | Thesis -> 2-3 mechanisms -> one qualification -> verdict | 2-3 precise Articles/cases/committees |
-| 15 / 250 | Thesis -> 4-5 dimensions -> counterpoint -> verdict | 4-6 named units |
-| 20 / 250 | Thesis -> architecture -> causes -> consequences -> counterevidence -> reform -> graded verdict | 5-8 named units |
+#### PYQ-P1. 2018 Prelims — routed question 1
 
-### Reusable answer spines
+**Verified demand:** First Lok Sabha opposition party and Leader of Opposition history.
 
-- **Executive accountability:** Article 75(3) -> questions/discussions -> motions -> budget -> committees -> whip/time limits -> degree-based verdict.
-- **Rajya Sabha:** money/confidence subordination -> ordinary/amendment equality -> Articles 249/312 -> continuity/federal role -> supporting-not-subordinate verdict.
-- **Speaker:** Articles 93-97 -> rule/Money Bill/defection powers -> British convention contrast -> judicial/structural limits -> reform.
-- **Committees:** standing/ad hoc -> financial trio -> DRSCs -> usefulness -> advisory/referral weaknesses -> strengthen, not bypass.
-- **Decline:** whip -> executive calendar -> guillotine/referral decline -> bypass routes -> counter-instruments -> reforms.
-- **Money Bill:** Article 110 “only” -> Article 109 procedure -> Speaker certificate -> *Puttaswamy/Rojer Mathew v. South Indian Bank (2019)* -> federal cost -> qualified pending-status verdict.
+**Answer withheld pending official UPSC key.**
 
-### Solved directly routed Mains PYQs
+**Answer route:** Use the Parliament rule taught in Sessions 1 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P2. 2018 Prelims — routed question 20
+
+**Verified demand:** Parliamentary committee that scrutinises delegated legislation.
+
+**Answer withheld pending official UPSC key.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 2 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P3. 2018 Prelims — routed question 31
+
+**Verified demand:** Constitutional provisions and definition of a Money Bill.
+
+**Answer withheld pending official UPSC key.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 3 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P4. 2019 Prelims — routed question 49
+
+**Verified demand:** Parliament (Prevention of Disqualification) Act and office of profit.
+
+**Answer withheld pending official UPSC key.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 4 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P5. 2019 Prelims — routed question 69
+
+**Verified demand:** Parliamentary committees reviewing independent sector regulators.
+
+**Answer withheld pending official UPSC key.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 5 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P6. 2020 Prelims — routed question 2
+
+**Verified demand:** Area in which Rajya Sabha has power equal to Lok Sabha.
+
+**Answer withheld pending official UPSC key.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 6 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P7. 2020 Prelims — routed question 3
+
+**Verified demand:** MPLADS durable assets, SC/ST allocation and carry-forward rules.
+
+**Answer withheld pending official UPSC key.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 7 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P8. 2020 Prelims — routed question 20
+
+**Verified demand:** Presidential summoning and the constitutional session interval.
+
+**Answer withheld pending official UPSC key.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 8 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P9. 2022 Prelims — routed question 15
+
+**Verified demand:** Exclusive constitutional powers of Lok Sabha.
+
+**Answer withheld pending official UPSC key.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 9 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P10. 2022 Prelims — routed question 20
+
+**Verified demand:** Election and rulings of the Deputy Speaker of Lok Sabha.
+
+**Answer withheld pending official UPSC key.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 10 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P11. 2023 Prelims — routed question 37
+
+**Verified demand:** Finance Bill and Money Bill: Rajya Sabha powers and joint sitting.
+
+**Answer withheld pending official UPSC key.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 11 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P12. 2024 Prelims — routed question 68
+
+**Verified demand:** Money Bill: Article 109, Rajya Sabha recommendation and non-binding changes.
+
+**Official Set-A answer: C.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 12 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P13. 2024 Prelims — routed question 80
+
+**Verified demand:** Lok Sabha Ethics Committee: ad hoc origin, complaint route and sub judice bar.
+
+**Official Set-A answer: C.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 13 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P14. 2024 Prelims — routed question 81
+
+**Verified demand:** Nari Shakti Vandan Adhiniyam: commencement, duration and SC-women sub-reservation.
+
+**Official Set-A answer: C.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 14 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P15. 2024 Prelims — routed question 93
+
+**Verified demand:** Speaker during consideration of a removal resolution.
+
+**Official Set-A answer: A.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 15 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P16. 2024 Prelims — routed question 94
+
+**Verified demand:** Bills that lapse on dissolution of Lok Sabha.
+
+**Official Set-A answer: B.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 16 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P17. 2024 Prelims — routed question 95
+
+**Verified demand:** Prorogation and dissolution by the President on ministerial advice.
+
+**Official Set-A answer: C.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 17 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P18. 2025 Prelims — routed question 87
+
+**Verified demand:** Speaker's post-dissolution continuity, party membership and removal majority.
+
+**Official Set-A answer: C.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 18 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P19. 2026 Prelims — routed question 58
+
+**Verified demand:** Starred/unstarred questions and supplementary questions in Parliament.
+
+**Answer withheld pending official UPSC key.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 19 and state the decisive close-option distinction rather than guessing from political practice.
+
+#### PYQ-P20. 2026 Prelims — routed question 59
+
+**Verified demand:** Parliamentary Committee on Welfare of Scheduled Castes and Scheduled Tribes.
+
+**Answer withheld pending official UPSC key.**
+
+**Answer route:** Use the Parliament rule taught in Sessions 20 and state the decisive close-option distinction rather than guessing from political practice.
+
+### Eight directly routed Mains PYQs with model answers
+
 
 > **Provenance rule:** The seven 2018-2023 demands are routed by the audited Core owner. The 2024 GS-II Q3 wording is verified in the cross-owned Polity 11/16 packages. Neutral wording is used where exact UPSC wording has not been independently reproduced here.
 
@@ -619,25 +826,7 @@ graded answer to the exact question
 
 **How to improve this answer:** If compressed, retain Estimates 30 LS-only, PAC-CAG, one DRSC function and the advisory/referral limit; drop the wider committee catalogue.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M1. 2018 GS-II Q4 - Usefulness of parliamentary committees, especially the Estimates…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M1. 2018 GS-II Q4 - Usefulness of parliamentary committees, especially the Estimates Committee”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M1. 2018 GS-II Q4 - Usefulness of parliamentary committees, especially the Estimates Committee **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Discuss” requires functions, usefulness, limitations and a balanced conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 150 words: use three institutional units, not a catalogue of every committee. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: Parliamentary committees are indispensable “working rooms” of Parliament because they preserve detailed scrutiny when plenary time is scarce. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualification: Reports are advisory; attendance, research support and Bill referral vary. Estimates recommendations cannot themselves alter grants. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M1. 2018 GS-II Q4 - Usefulness of parliamentary committees, especially the Estimates Committee”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 ### PYQ-M2. 2019 GS-II Q15 - Decline of the individual parliamentarian and debate quality
 
@@ -666,25 +855,7 @@ graded answer to the exact question
 
 **How to improve this answer:** For 150 words, keep Tenth Schedule, executive agenda, one scrutiny loss and one reform; for 250 words retain counter-evidence and variation by majority size.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M2. 2019 GS-II Q15 - Decline of the individual parliamentarian and debate quality”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M2. 2019 GS-II Q15 - Decline of the individual parliamentarian and debate quality”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M2. 2019 GS-II Q15 - Decline of the individual parliamentarian and debate quality **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Discuss” requires mechanisms causing decline, surviving opportunities and reforms. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 250 words: separate member autonomy, House time and scrutiny quality. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: The individual MP's law-making role has declined because party and executive institutions increasingly determine both the vote and the agenda. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualification: Decline varies with majority size, coalition politics, committee referral and presiding-officer practice; it is not a constitutional disappearance of the MP. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M2. 2019 GS-II Q15 - Decline of the individual parliamentarian and debate quality”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 ### PYQ-M3. 2020 GS-II Q5 - “Once a Speaker, always a Speaker” and objectivity
 
@@ -713,25 +884,7 @@ graded answer to the exact question
 
 **How to improve this answer:** Compress to Article 110, Tenth Schedule and party-linked career; improve further by separating perceived bias from proof of bias in one explicit sentence.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M3. 2020 GS-II Q5 - “Once a Speaker, always a Speaker” and objectivity”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M3. 2020 GS-II Q5 - “Once a Speaker, always a Speaker” and objectivity”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M3. 2020 GS-II Q5 - “Once a Speaker, always a Speaker” and objectivity **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Answer both parts: whether the convention operates in India and its implications for objectivity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 150 words: one institutional contrast, three powers, one reform. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: The British convention that a Speaker severs party ties and is normally returned unopposed does not operate in India; therefore neutrality rests more on individual conduct than institutional insulation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualification: Article 94 continuity after dissolution, charged salary and House removal safeguards provide some independence; party origin does not prove actual partisanship. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M3. 2020 GS-II Q5 - “Once a Speaker, always a Speaker” and objectivity”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 ### PYQ-M4. 2020 GS-II Q14 - Rajya Sabha as a supporting organ
 
@@ -762,25 +915,7 @@ graded answer to the exact question
 
 **How to improve this answer:** Under time pressure use a three-row power matrix, then add Articles 249/312 and the population-weighted federal caveat before the verdict.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M4. 2020 GS-II Q14 - Rajya Sabha as a supporting organ”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M4. 2020 GS-II Q14 - Rajya Sabha as a supporting organ”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M4. 2020 GS-II Q14 - Rajya Sabha as a supporting organ **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Highlight factors and areas” requires separate treatment of causes and fields of subordination. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 250 words: avoid the absolute claim that Rajya Sabha is inferior everywhere. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: Rajya Sabha is a supporting chamber in finance and confidence, but a co-equal or distinctive chamber in ordinary law, constitutional amendment and federal protection. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualification: State representation is population-weighted, not equal-per-State; its federal design is therefore weaker than a senate based on State equality. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M4. 2020 GS-II Q14 - Rajya Sabha as a supporting organ”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 ### PYQ-M5. 2021 GS-II Q4 - Extent of Parliament's executive accountability
 
@@ -809,25 +944,7 @@ graded answer to the exact question
 
 **How to improve this answer:** Retain Article 75(3), one financial-control chain, one committee and two operating limits; do not spend words cataloguing every motion.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M5. 2021 GS-II Q4 - Extent of Parliament's executive accountability”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M5. 2021 GS-II Q4 - Extent of Parliament's executive accountability”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M5. 2021 GS-II Q4 - Extent of Parliament's executive accountability **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “To what extent” demands a graded judgment, not a list of devices. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 150 words: instruments -> limits -> degree-based verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: Parliament possesses a comprehensive accountability toolkit, but its effectiveness is conditional on time, information and party incentives. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Analysis: These instruments cover the full administrative cycle - information, authorisation, ongoing criticism, financial audit and ultimate removal. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M5. 2021 GS-II Q4 - Extent of Parliament's executive accountability”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 ### PYQ-M6. 2021 GS-II Q15 - Working of DRSCs in enforcing executive control
 
@@ -858,25 +975,7 @@ graded answer to the exact question
 
 **How to improve this answer:** If shortening, preserve composition, demands/Bill scrutiny, optional referral and one reform; remove generic praise before removing institutional evidence.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M6. 2021 GS-II Q15 - Working of DRSCs in enforcing executive control”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M6. 2021 GS-II Q15 - Working of DRSCs in enforcing executive control”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M6. 2021 GS-II Q15 - Working of DRSCs in enforcing executive control **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Evaluate” requires criteria: design, performance, weaknesses and final assessment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 250 words: exact composition is essential. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: DRSCs are Parliament's most capable instrument of continuous ministry-wise oversight, but they enforce control through information and persuasion rather than binding command. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualification: Non-binding status is not uselessness: reasoned reports shape debate, media and later policy, while final law and supply must remain with the House. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M6. 2021 GS-II Q15 - Working of DRSCs in enforcing executive control”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 ### PYQ-M7. 2023 GS-II Q16 - Committee structure and role of financial committees
 
@@ -907,25 +1006,7 @@ graded answer to the exact question
 
 **How to improve this answer:** Use a standing-versus-ad-hoc opening, then PAC 15+7, Estimates 30 LS-only and CoPU 15+7; end with advisory-status and follow-up limits.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M7. 2023 GS-II Q16 - Committee structure and role of financial committees”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M7. 2023 GS-II Q16 - Committee structure and role of financial committees”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M7. 2023 GS-II Q16 - Committee structure and role of financial committees **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Explain the structure” requires classification before evaluating the financial arm. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 250 words: use exact committee compositions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: Parliament's committee system combines permanent subject/House oversight with task-specific inquiry; its financial committees operationalise the constitutional power of the purse. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Analysis: Estimates supplies prospective efficiency scrutiny, PAC retrospective legality/regularity scrutiny and CoPU institution-specific commercial accountability. DRSC examination of demands bridges these stages. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M7. 2023 GS-II Q16 - Committee structure and role of financial committees”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 ### PYQ-M8. 2024 GS-II Q3 - Cabinet growth and marginalisation of parliamentary supremacy
 
@@ -953,68 +1034,11 @@ graded answer to the exact question
 
 **How to improve this answer:** For 150 words, keep Article 75(3), agenda control, whip, committee/Question Hour counterweight and one activation reform; avoid repeating the word dominance.
 
-### Routed Parliament Prelims demand laboratory
+### Six original solved Mains answers
 
-> **Answer-key provenance:** For 2018-2023, official keys are not held locally. For 2024-2025, official Set-A keys are held locally but no option letter is reproduced or inferred here. For 2026, the locally held Set-A keys are provisional and no option letter is reproduced or inferred. Each entry therefore gives the doctrinal solution and elimination logic, not an invented key.
+#### Original Q1 — 10 marks, 150 words
 
-### 2018-2023 routed demands: 11
-
-| Year/Q | Demand | Doctrinal resolution | Provenance/limit |
-|---|---|---|---|
-| 2018 Q1 | First Lok Sabha opposition/LoP history | LoP is a statutory office under the 1977 Act; the Act prescribes no ten-percent threshold and leaves recognition to the presiding officer. Distinguish statutory text, recognition practice and largest opposition-party leadership. | Official key unavailable locally; do not invent first-party identity without exact source. |
-| 2018 Q20 | Committee scrutinising delegated legislation | **Committee on Subordinate Legislation** examines whether delegated powers are properly exercised. | Not PAC, Estimates or Government Assurances. |
-| 2018 Q31 | Money Bill definition/procedure | Article 110 “only” test; Lok Sabha origin; President recommendation; Speaker certificate; Rajya Sabha recommendations within 14 days; no joint sitting. | Official key unavailable locally; resolve each statement doctrinally. |
-| 2019 Q49 | Parliament Disqualification Act/office of profit | Articles 102/103 plus Parliament (Prevention of Disqualification) Act, 1959; President decides a sitting-member question after ECI opinion. | Exemption is office-specific, not a general immunity. |
-| 2019 Q69 | Committees reviewing independent regulators | No single general “regulators committee”; relevant DRSC scrutinises the regulator with its parent ministry and subject field. | Committee jurisdiction follows ministry/subject allocation. |
-| 2020 Q2 | Rajya Sabha powers equal to Lok Sabha | Equal on ordinary Bills, constitutional amendments and specified elections; unequal on Money Bills, demands and confidence; RS alone initiates Articles 249/312. | Avoid absolute equal/unequal statements. |
-| 2020 Q3 | MPLADS inspection/carry-forward | MPLADS is a scheme; funds are **non-lapsable** and carry forward; utilisation is monitored/inspected under the scheme framework. | No current per-MP rupee amount is quoted without live official verification. |
-| 2020 Q20 | Sessions, summoning and minimum sittings | President summons under Article 85; gap between sessions cannot exceed six months; no constitutional minimum sitting-day count. | Three named sessions are convention, not constitutional compulsion. |
-| 2022 Q15 | Exclusive Lok Sabha powers | Money Bill origin/certification route, voting demands and holding confidence key are Lok Sabha domains; distinguish from shared legislative powers. | RS has separate Articles 249/312 powers. |
-| 2022 Q20 | Deputy Speaker election and powers | House elects under Article 93; when presiding, Deputy has Speaker's powers and casting vote; answerable to House, not Speaker; no constitutional deadline. | Do not assume a current vacancy without verification. |
-| 2023 Q37 | Finance Bill and Money Bill procedure | Money Bill is the narrow Article 110 subset. Financial Bill-I starts in LS on recommendation but RS has full power; Financial Bill-II may start in either House and recommendation is needed before consideration. | “All Money Bills are Financial Bills, not vice versa.” |
-
-### 2024-2025 routed demands: 7
-
-| Year/Q | Demand | Doctrinal resolution | Provenance/limit |
-|---|---|---|---|
-| 2024 Q68 | Article 109/Money Bill and Rajya Sabha | RS cannot reject/amend; it recommends within 14 days; LS may reject recommendations; no return means deemed passage in LS form. | Official Set-A key exists locally; no option letter recorded here. |
-| 2024 Q80 | Lok Sabha Ethics Committee | Examines unethical conduct of members; distinct from Privileges Committee, which addresses privilege/contempt. | Do not merge ethical misconduct and institutional privilege. |
-| 2024 Q81 | Nari Shakti Vandan Adhiniyam | 106th Amendment: Arts 330A/332A/334A; enacted 2023, commenced 16 Apr 2026, reservation not operational pending publication -> delimitation sequence. | Official key exists; current status updated beyond exam date. No 2041 calculation. |
-| 2024 Q93 | Speaker during removal resolution | Article 96: Speaker does not preside; may speak and vote in first instance, but no casting vote in that proceeding. | Removal requires effective majority and 14 days' notice. |
-| 2024 Q94 | Bill lapse on dissolution | Lapses if pending in LS or passed LS/pending RS; survives if pending only in RS, awaiting assent, returned, or joint sitting notified. | Apply status, not a blanket rule. |
-| 2024 Q95 | Prorogation/dissolution | Both are President's acts under Article 85; prorogation ends session and Bills survive; dissolution ends LS life; adjournment is chair's act. | RS is never dissolved. |
-| 2025 Q87 | Speaker after dissolution/party resignation | Speaker continues until immediately before new House first sitting; Indian Speaker need not resign party membership. | Official Set-A key exists; no option letter recorded here. |
-
-### 2026 routed demands: 2
-
-| Year/Q | Demand | Doctrinal resolution | Provenance/limit |
-|---|---|---|---|
-| 2026 Q58 | Starred, unstarred and supplementary questions | Starred: oral and supplementary allowed; unstarred: written and no supplementaries; supplementary is follow-up to oral answer; short-notice is a distinct urgent oral category. | Local Set-A key is provisional; no option letter recorded or inferred. |
-| 2026 Q59 | Welfare of SCs/STs Committee | 30 members = 20 LS + 10 RS; one-year term; chair appointed by Speaker; ministers barred; examines NCSC/NCST reports and Article 335 representation. | Parliamentary committee, not the constitutional Commissions. Provisional-key caution applies. |
-
-### Original solved Mains practice
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M8. 2024 GS-II Q3 - Cabinet growth and marginalisation of parliamentary supremacy”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M8. 2024 GS-II Q3 - Cabinet growth and marginalisation of parliamentary supremacy”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M8. 2024 GS-II Q3 - Cabinet growth and marginalisation of parliamentary supremacy **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Elucidate” requires a mechanism showing how cabinet growth affects Parliament. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** “Parliamentary supremacy” must mean effective control/deliberation, not UK-style legal sovereignty. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** marks 150 words: three mechanisms, correctives and qualified verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Claim: The cabinet remains responsible to Lok Sabha under Article 75(3) , yet fusion of executive and legislature can let a disciplined cabinet majority dominate the institution meant to control it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M8. 2024 GS-II Q3 - Cabinet growth and marginalisation of parliamentary supremacy”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### M1. Explain how the constitutional design of parliamentary sessions both enables and limits executive accountability. (10 marks, 150 words)
+**Question:** Explain how the constitutional design of parliamentary sessions both enables and limits executive accountability.
 
 **Demand decoding:** “Explain how” requires a mechanism, not merely definitions. Cover summoning rule, devices and the weak sitting-day floor.
 
@@ -1036,25 +1060,10 @@ graded answer to the exact question
 
 **How to improve this answer:** If space is tight, retain Article 85, two live accountability devices and the no-minimum-sitting-days qualification; state the reform as protected scrutiny time.
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M1. Explain how the constitutional design of parliamentary sessions both enables and limits executive accountability. (10 marks, 150 words)”.
+#### Original Q2 — 10 marks, 150 words
 
-**Analytical body:**
-
-1. **Claim and named evidence:** M1. Explain how the constitutional design of parliamentary sessions both enables and limits executive accountability. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: Session design keeps the executive periodically answerable but leaves the intensity of accountability to political control of the calendar. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Analysis: Periodic summoning prevents indefinite executive rule without Parliament, while oral questions and motions convert presence into public responsibility. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Verdict: The design guarantees recurrence, not adequacy. A predictable calendar and protected accountability time would convert the six-month floor into effective control. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Examiner comment: Strong because Article 85 is linked to actual devices and its design limitation, rather than treated as a calendar fact. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M1. Explain how the constitutional design of parliamentary sessions both enables and limits executive accountability. (10 marks, 150 words)”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### M2. Legislative privilege is a functional immunity, not a personal impunity. Discuss with reference to *Sita Soren (2024)*. (10 marks, 150 words)
+**Question:** Legislative privilege is a functional immunity, not a personal impunity. Discuss with reference to *Sita Soren (2024)*.
 
 **Demand decoding:** Define function, apply the case and preserve the surviving immunity.
 
@@ -1076,25 +1085,10 @@ graded answer to the exact question
 
 **How to improve this answer:** Keep the functional-nexus test, the overruled precedent and the acceptance-completes-bribery rule; do not imply that ordinary speech immunity disappeared.
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M2. Legislative privilege is a functional immunity, not a personal impunity. Discuss with reference to Sita Soren (2024). (10 marks, 150 words)”.
+#### Original Q3 — 15 marks, 250 words
 
-**Analytical body:**
-
-1. **Claim and named evidence:** M2. Legislative privilege is a functional immunity, not a personal impunity. Discuss with reference to Sita Soren (2024) . (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: Article 105 protects fearless legislative functioning, not private criminal bargains. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Analysis: The functional-nexus test explains the distinction: debate and voting require autonomy from external litigation, whereas a bribe subverts rather than enables that function. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: The judgment did not expose bona fide speeches or votes to ordinary suits. Nor does judicial review authorise courts to manage routine House procedure. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Privilege remains a shield for institutional independence, but Sita Soren (2024) correctly denies its conversion into a personal criminal safe harbour. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M2. Legislative privilege is a functional immunity, not a personal impunity. Discuss with reference to Sita Soren (2024). (10 marks, 150 words)”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### M3. The Money Bill procedure is necessary for popular control of finance but vulnerable to bicameral bypass. Critically examine. (15 marks, 250 words)
+**Question:** The Money Bill procedure is necessary for popular control of finance but vulnerable to bicameral bypass. Critically examine.
 
 **Demand decoding:** “Critically examine” requires the rationale, misuse risk, case law and a bounded verdict.
 
@@ -1108,7 +1102,7 @@ graded answer to the exact question
 
 **Judicial evidence:** *Puttaswamy (Aadhaar), 2018* upheld the Aadhaar route by 4:1; *Rojer Mathew v. South Indian Bank (2019)* doubted the reasoning and referred the larger question to seven judges.
 
-**Qualification:** Textual finality is not ordinary merits appeal, yet narrow constitutional review for illegality/misuse remains. As of 28 August 2026 no visible final larger-Bench resolution was located.
+**Qualification:** Textual finality is not ordinary merits appeal, yet narrow constitutional review for illegality/misuse remains. As of 7 September 2026 no visible final larger-Bench resolution was located.
 
 **Verdict:** Popular financial control requires the special procedure, but constitutional fidelity requires strict enforcement of “only”, reasoned certification and narrow review.
 
@@ -1118,25 +1112,10 @@ graded answer to the exact question
 
 **How to improve this answer:** Use a two-column rationale-versus-bypass frame; quote Article 110 only, preserve the pending-status date and avoid presenting review as a merits appeal.
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M3. The Money Bill procedure is necessary for popular control of finance but vulnerable to bicameral bypass. Critically examine. (15 marks, 250 words)”.
+#### Original Q4 — 15 marks, 250 words
 
-**Analytical body:**
-
-1. **Claim and named evidence:** M3. The Money Bill procedure is necessary for popular control of finance but vulnerable to bicameral bypass. Critically examine. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: Articles 109-110 legitimately privilege the directly elected Lok Sabha in narrowly fiscal legislation, but overbroad certification can convert financial primacy into general legislative supremacy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Judicial evidence: Puttaswamy (Aadhaar), 2018 upheld the Aadhaar route by 4:1; Rojer Mathew v. South Indian Bank (2019) doubted the reasoning and referred the larger question to seven judges. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: Textual finality is not ordinary merits appeal, yet narrow constitutional review for illegality/misuse remains. As of 28 August 2026 no visible final larger-Bench resolution was located. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Popular financial control requires the special procedure, but constitutional fidelity requires strict enforcement of “only”, reasoned certification and narrow review. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M3. The Money Bill procedure is necessary for popular control of finance but vulnerable to bicameral bypass. Critically examine. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### M4. Parliament's power of the purse is exercised through a chain, not a single budget vote. Analyse. (15 marks, 250 words)
+**Question:** Parliament's power of the purse is exercised through a chain, not a single budget vote. Analyse.
 
 **Demand decoding:** Build the complete authorisation-to-audit cycle and identify weak links.
 
@@ -1156,25 +1135,10 @@ graded answer to the exact question
 
 **How to improve this answer:** Draw the authorisation-to-audit chain first, then add charged expenditure and Public Account as the two highest-value distinctions; omit minor grant taxonomy if necessary.
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M4. Parliament's power of the purse is exercised through a chain, not a single budget vote. Analyse. (15 marks, 250 words)”.
+#### Original Q5 — 20 marks, 250 words
 
-**Analytical body:**
-
-1. **Claim and named evidence:** M4. Parliament's power of the purse is exercised through a chain, not a single budget vote. Analyse. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: Financial control is a sequence of disclosure, deliberation, authorisation, expenditure and audit rather than one annual approval. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Verdict: The chain is constitutionally comprehensive but only as strong as DRSC time, grant debate and audit follow-up. Protecting these stages matters more than ritual budget passage. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Examiner comment: The answer maps the entire cycle and differentiates charged expenditure, Public Account and Rajya Sabha's role. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: Six named constitutional/institutional units linked analytically rather than listed. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M4. Parliament's power of the purse is exercised through a chain, not a single budget vote. Analyse. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### M5. Delimitation after the population freeze is simultaneously a democratic-equality and a federal-fairness problem. Examine with reference to the women's reservation trigger. (15 marks, 250 words)
+**Question:** Delimitation after the population freeze is simultaneously a democratic-equality and a federal-fairness problem. Examine with reference to the women's reservation trigger.
 
 **Demand decoding:** Examine both normative claims, then integrate Article 334A and current controls.
 
@@ -1198,25 +1162,10 @@ graded answer to the exact question
 
 **How to improve this answer:** Separate democratic equality, federal fairness and Article 334A into three paragraphs; never turn the defeated 850-seat proposal or an unknown publication date into law.
 
-**Detailed examiner-grade model answer:**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M5. Delimitation after the population freeze is simultaneously a democratic-equality and a federal-fairness problem. Examine with reference to the…”.
+#### Original Q6 — 20 marks, 250 words
 
-**Analytical body:**
-
-1. **Claim and named evidence:** M5. Delimitation after the population freeze is simultaneously a democratic-equality and a federal-fairness problem. Examine with reference to the women's reservation trigger. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: Restoring population-proportional representation answers malapportionment but may penalise States that reduced fertility, making delimitation a federal bargain rather than a cartographic exercise. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Counterpoint: Permanent under-representation of populous citizens is itself a democratic deficit; the freeze cannot substitute forever for representation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: The defeated 131st Amendment Bill's 850 ceiling and 2011 basis are not law. No State or women's-seat projection is valid. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Reform must reconcile vote equality with demographic-performance fairness, possibly through negotiated House design, without forecasting an outcome the Constitution has not yet produced. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M5. Delimitation after the population freeze is simultaneously a democratic-equality and a federal-fairness problem. Examine with reference to the…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### M6. “Parliament is strong in constitutional instruments but weak in their political use.” Critically examine and propose reforms. (20 marks, 250 words)
+**Question:** “Parliament is strong in constitutional instruments but weak in their political use.” Critically examine and propose reforms.
 
 **Demand decoding:** Test both halves, cover the full accountability architecture and rank reforms.
 
@@ -1240,62 +1189,3 @@ graded answer to the exact question
 
 **How to improve this answer:** Rank reforms by the diagnosed cause: time, information, referral and whip. In a shorter answer retain four instruments, four constraints and three matched remedies.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M6. “Parliament is strong in constitutional instruments but weak in their political use.” Critically examine and propose reforms. (20 marks, 250…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M6. “Parliament is strong in constitutional instruments but weak in their political use.” Critically examine and propose reforms. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: Parliament retains formidable powers over law, supply and executive survival, yet majority discipline and scarcity of scrutiny time often convert control into formal ratification. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Verdict: The constitutional hardware remains sound; political incentives and procedural time are the failing software. Reform should activate existing accountability before inventing new devices. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Examiner comment: Covers instruments, causal limits, counterevidence and a prioritised reform package within the directive. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: Eight named evidence units and a memorable but qualified hardware/software verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M6. “Parliament is strong in constitutional instruments but weak in their political use.” Critically examine and propose reforms. (20 marks, 250…”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### M7. Evaluate whether Rajya Sabha and parliamentary committees together can compensate for executive dominance of Lok Sabha. (20 marks, 250 words)
-
-**Demand decoding:** Evaluate two institutions jointly, specify what they can and cannot compensate for, and give a degree-based judgment.
-
-**Model solution**
-
-**Claim:** Rajya Sabha and committees can improve revision, information and financial audit, but cannot fully neutralise a disciplined executive majority controlling confidence, supply and House time.
-
-**Rajya Sabha contribution:** It is equal on ordinary and constitutional amendment Bills, permanent, committee-integrated and capable of federal debate. **Articles 249 and 312** give it exclusive federal initiative. A government lacking an Upper-House majority must negotiate on non-Money legislation.
-
-**Committee contribution:** The **24 DRSCs (21 LS + 10 RS each)** scrutinise demands, referred Bills and reports; **PAC (15+7)** connects CAG audit to parliamentary accountability; Estimates and CoPU add prospective and undertaking-specific scrutiny. Smaller forums encourage expertise and cross-party consensus.
-
-**Limits:** Article 109 reduces Rajya Sabha to recommendations on Money Bills; it cannot vote demands or remove the ministry under Article 75(3). Joint-sitting numbers favour Lok Sabha. Committee reports are advisory, Bill referral varies and the executive can control information and follow-up. Overbroad Money Bill use may bypass both Upper-House veto and ordinary committee pressure.
-
-**Qualification:** Influence is not measured only by government defeat; reports, delay, amendment and public reasons can improve law.
-
-**Verdict:** Together they are strong compensating correctives but not a counter-government. Strict Article 110 classification, default referral, research capacity and protected scrutiny time are needed for meaningful balance.
-
-**Examiner comment:** Integrates bicameral and committee mechanisms and defines compensation by scrutiny quality rather than vote defeat alone.
-
-**Why this earns marks:** Joint institutional evaluation, exact committee evidence, structural limits and reform-linked verdict.
-
-**How to improve this answer:** Evaluate compensation by revision, information and audit rather than government defeat; preserve Money Bill, confidence and non-binding-report limits in the final paragraph.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M7. Evaluate whether Rajya Sabha and parliamentary committees together can compensate for executive dominance of Lok Sabha. (20 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M7. Evaluate whether Rajya Sabha and parliamentary committees together can compensate for executive dominance of Lok Sabha. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: Rajya Sabha and committees can improve revision, information and financial audit, but cannot fully neutralise a disciplined executive majority controlling confidence, supply and House time. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Qualification: Influence is not measured only by government defeat; reports, delay, amendment and public reasons can improve law. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Examiner comment: Integrates bicameral and committee mechanisms and defines compensation by scrutiny quality rather than vote defeat alone. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: Joint institutional evaluation, exact committee evidence, structural limits and reform-linked verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M7. Evaluate whether Rajya Sabha and parliamentary committees together can compensate for executive dominance of Lok Sabha. (20 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.

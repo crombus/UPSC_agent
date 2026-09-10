@@ -1,139 +1,207 @@
-ASCII MASTER FLOW — PANEL 1/12: Federal test, formation and territory
-FEDERAL TEST
-  +-- Constitution protects Union and State authority in assigned spheres
-  +-- both levels act directly on citizens; neither is an ordinary delegate
-  +-- one sovereign constitutional order; no unilateral State secession
+ASCII MASTER FLOW — PANEL 1/12: Federal root and analytical axes
+```ascii-master
+CENTRAL QUESTION: HOW CAN INDIA COMBINE NATIONAL CAPACITY WITH PROTECTED STATE AUTONOMY?
+                                     |
+                 +-------------------+-------------------+
+                 |                                       |
+          STRUCTURAL FEDERALISM                    PROCESS FEDERALISM
+  Constitution allocates authority         governments negotiate overlap
+  Union and States act directly            councils + finance + parties + courts
+                 |                                       |
+                 +-------------------+-------------------+
+                                     |
+                    FEDERAL TEST = SELF-RULE + SHARED RULE
+                                     |
+               one sovereign order; no unilateral State secession
+```
 
-INDIAN FORMATION
-  +-- Article 1: Union of States; holding-together, Union-weighted design
-  +-- Article 3: presidential recommendation + State views, not State consent
-  +-- Article 4: reorganisation law is not an Article 368 amendment
-MUST REMEMBER: Test federalism through dual government, constitutional distribution,
-  supremacy, rigidity, independent courts and bicameral representation, then map the Union
-  tilt through Articles 3, 248-253, 256-257, 312, 352-356 and integrated constitutional
-  institutions.
+ASCII MASTER FLOW — PANEL 2/12: Origin, holding-together choice and adaptation
+```ascii-master
+1919: provincial dyarchy; no federation
+  -> 1935: proposed All-India Federation + autonomy + three Lists + Federal Court
+  -> federation did not operate
+  -> 1946-49: Constituent Assembly chooses strong Union after Partition/integration
+  -> 26 JAN 1950: Union of States under one supreme Constitution
+  -> 1953-56: linguistic reorganisation + States Reorganisation Act + 7th Amendment
+  -> 1990: Inter-State Council | 1992-93: local bodies constitutionalised
+  -> 1994: S.R. BOMMAI protects federalism | 2016: 101st Amendment creates GST
 
-ASCII MASTER FLOW — PANEL 2/12: Federal features and Union bias
-FEDERAL FEATURES
-  +-- dual polity + written supreme Constitution + Seventh Schedule
-  +-- selective rigidity + independent judiciary + Rajya Sabha
+CONTROL: colonial antecedent explains architecture; democratic Constitution supplies legitimacy.
+```
 
-UNION BIAS
-  +-- residuary power + State-field exceptions + emergencies
-  +-- integrated services + single citizenship + greater fiscal capacity
+ASCII MASTER FLOW — PANEL 3/12: Federal features versus centralising adaptation
+```ascii-master
+FEDERAL CORE                              UNION-WEIGHTED ADAPTATION
+dual polity                              Article 3 territorial power
+written + supreme Constitution           Article 248 + Entry 97 residue
+Seventh Schedule division                Articles 249/250/252/253 gateways
+Article 368 State ratification            single citizenship + one Constitution
+independent judicial review              integrated courts, CAG, ECI and services
+Rajya Sabha State representation         Governors + emergency provisions
+          |                                             |
+          +---------------------+-----------------------+
+                                |
+          VERDICT: constitutionally federal; asymmetrical; strong-Union, not unitary
 
-VERDICT: constitutionally federal and Union-weighted, not unitary in spirit.
+TRAP: Rajya Sabha represents States but does not represent every State equally.
+```
 
-ASCII MASTER FLOW — PANEL 3/12: Legislative distribution and conflict
-ARTICLES 245-246: territorial reach + three-List allocation
-  +-- Union 100 | State 61 | Concurrent 52: standard exam counts
-  +-- 246A: GST competence | 248 + Entry 97: parliamentary residuary power
+ASCII MASTER FLOW — PANEL 4/12: Legislative allocation and conflict sequence
+```ascii-master
+ARTICLE 245: territorial reach
+       |
+       v
+ARTICLE 246 + SEVENTH SCHEDULE
+  +-- List I: Parliament
+  +-- List II: States, subject to constitutional exceptions
+  +-- List III: both levels
+       |
+       +-- Article 246A: special GST competence
+       +-- Article 248 + Entry 97: residue to Parliament
+       |
+       v
+OVERLAP METHOD
+  pith and substance -> harmonious construction -> colourable legislation / nexus
+       |
+       v
+ARTICLE 254: irreconcilable Concurrent conflict; assent exception; later Union override
+```
 
-CONFLICT METHOD
-  +-- pith and substance -> true nature
-  +-- harmonious construction -> reconcile overlap
-  +-- Article 254 -> Concurrent conflict only; assent may save State law locally
+ASCII MASTER FLOW — PANEL 5/12: Constitutional gateways into the State field
+```ascii-master
+NORMAL RULE: LIST II BELONGS TO STATES
+       |
+       +-- 249: Rajya Sabha; 2/3 present and voting; national interest
+       |        resolution up to one year; renewable; law survives six months
+       +-- 250: Article 352 National Emergency; law survives six months
+       +-- 252: two or more State resolutions; other States may adopt
+       |        only Parliament can amend or repeal the parliamentary law
+       +-- 253: treaty / convention / international decision implementation
+       +-- 356-357: State constitutional breakdown; parliamentary power; BOMMAI review
 
-ASCII MASTER FLOW — PANEL 4/12: Parliament entering the State field
-STATE-FIELD DOORS
-  +-- 249: Rajya Sabha, two-thirds present/voting, national interest
-  +-- 250: Article 352 Emergency; law survives six months after it ends
-  +-- 252: two or more States request; Parliament controls amendment/repeal
-  +-- 253: treaty implementation; still subject to the Constitution
-  +-- 356-357: affected State during President's Rule; S.R. Bommai (1994) review
+TRAP: these are distinct doors, not one undefined national-interest power.
+```
 
-TRAP: no general Union power to legislate on List II.
+ASCII MASTER FLOW — PANEL 6/12: Executive, administrative and intergovernmental process
+```ascii-master
+IMPLEMENTATION RELATION
+  +-- Articles 256-257: compliance + non-impediment directions
+  +-- directions remain text-bounded; no general Union takeover
+  +-- Articles 258 / 258A: consensual entrustment in either direction
+  +-- Article 312: All-India Service after Rajya Sabha federal trigger
+                         |
+                         v
+CONSULTATION RELATION
+  +-- Article 263: inquiry + discussion + recommendation
+  +-- Inter-State Council != court != legislature
+                         |
+                         v
+HEALTHY EXECUTIVE FEDERALISM = legal basis + participation + reasons + accountability
+```
 
-ASCII MASTER FLOW — PANEL 5/12: Administrative relations
-ARTICLES 256-257
-  +-- secure compliance and prevent impedance of Union executive power
-  +-- directions are text-bounded, not a general administrative takeover
+ASCII MASTER FLOW — PANEL 7/12: Fiscal capacity and GST shared rule
+```ascii-master
+RESPONSIBILITIES REQUIRE RESOURCES
+  |
+  +-- VERTICAL IMBALANCE: revenue/expenditure mismatch between Union and States
+  +-- HORIZONTAL IMBALANCE: unequal capacity and need among States
+  |
+  +-- Articles 268-270 / 269A: levy, collection, assignment, apportionment
+  +-- Articles 275 and 282: distinct grant routes
+  +-- Articles 280-281: periodic Finance Commission recommendations
+  +-- Article 293: conditional Union consent to specified State borrowing
+  |
+  +-- 101st Amendment, 2016 -> 246A + 269A + 279A
+      MOHIT MINERALS, 2022 -> GST Council recommendations are not binding
 
-RECIPROCAL DELEGATION
-  +-- 258: Union functions -> State with consent
-  +-- 258A: State functions -> Union with Union consent
+CURRENT: 16th FC report for 2026-31 submitted 17 Nov 2025; 41% is a dated recommendation.
+```
 
-261 full faith/credit | 262 water-dispute law | 263 Inter-State Council
+ASCII MASTER FLOW — PANEL 8/12: Judicial doctrine and the federal floor
+```ascii-master
+STATE OF WEST BENGAL, 1963 -> States lack sovereign-compact immunity
+        |
+KESAVANANDA BHARATI, 1973 -> amendment power cannot damage Basic Structure
+        |
+STATE OF RAJASTHAN, 1977 -> cautious pre-Bommai review of Article 356 context
+        |
+S.R. BOMMAI, 1994 -> federalism Basic Structure + Article 356 review + floor test
+        |
+KULDIP NAYAR, 2006 -> domicile/equal-seat template not indispensable
+        |
+MOHIT MINERALS, 2022 -> GST recommendations non-binding
+        |
+2024 WEST BENGAL RULING -> Article 131 suit survived preliminary objection;
+                           CBI-consent merits were not finally decided
 
-ASCII MASTER FLOW — PANEL 6/12: Financial distribution and fiscal autonomy
-FISCAL CONSTITUTION
-  +-- 268/269/269A: levy, collection, assignment and IGST apportionment
-  +-- 270: divisible pool | 275 and 282: distinct grant routes
-  +-- 280-281: Finance Commission report | 293: conditional borrowing consent
+COURTS PROTECT A MINIMUM; THEY DO NOT REPLACE DAILY INTERGOVERNMENTAL BARGAINING.
+```
 
-16TH FINANCE COMMISSION
-  +-- report submitted 17 Nov 2025 | award 2026-31
-  +-- States: 41% vertical share; exact horizontal weights need official report
-CLOSE DISTINCTION: Article 1's 'Union of States' rejects a secession compact but does not make
-  India unitary. Federalism is basic structure; the Union may be stronger and States
-  territorially alterable while each level retains constitutionally assigned fields.
+ASCII MASTER FLOW — PANEL 9/12: Asymmetry, Delhi and Jammu and Kashmir
+```ascii-master
+ASYMMETRY = DIFFERENTIATED GOVERNANCE WITHIN ONE CITIZENSHIP
+  +-- Fifth Schedule: Scheduled Areas + Governor / Tribes Advisory Council
+  +-- Sixth Schedule: autonomous councils in specified areas of four States
+  +-- Articles 371-371J: distinct State-specific arrangements
+  +-- Article 239AA: Delhi legislature/ministry; public order, police, land excluded
+  |
+  +-- NCT DELHI, 2018 / 2023: representative government within special UT design
+  +-- later 2023 legislation means the services judgment alone is not current law
+  |
+  +-- ARTICLE 370 JUDGMENT, 11 DEC 2023
+      upheld 2019 changes | accepted Ladakh UT | no statehood-restoration date fixed
 
-ASCII MASTER FLOW — PANEL 7/12: Basic Structure and emergency control
-CASE CHAIN
-  +-- West Bengal (1962): no sovereign-State compact
-  +-- Kesavananda Bharati (1973): limited amendment power
-  +-- S.R. Bommai (1994): federalism Basic Structure; Article 356 review
+TRAP: asymmetry is differentiated authority, not unequal Indian citizenship.
+```
 
-DUTY != REMEDY
-  +-- Article 355: protect States and ensure constitutional government
-  +-- Articles 356-357: exceptional remedy + legislative consequence
-  +-- disputed majority ordinarily belongs on the House floor
-  +-- State of Rajasthan v. Union of India (1977): cautious pre-S.R. Bommai (1994) review
+ASCII MASTER FLOW — PANEL 10/12: Territorial, functional and multi-level governance
+```ascii-master
+TERRITORIAL FEDERALISM                   FUNCTIONAL FEDERALISM
+who governs which field/territory?       who must cooperate for the task?
+Articles 1 and 3 + Seventh Schedule      GST, health, disasters, infrastructure
+               |                                      |
+               +------------------+-------------------+
+                                  |
+                     MULTI-LEVEL GOVERNANCE
+                Union <-> State <-> local institutions
+                                  |
+       Parts IX / IXA recognise local bodies; Articles 243G / 243W
+       depend on State legislation for actual functions and authority
 
-ASCII MASTER FLOW — PANEL 8/12: Working modes and shared-rule institutions
-MODES COEXIST
-  +-- cooperative: GST, transfers, disaster coordination
-  +-- competitive: investment, innovation, outcome improvement
-  +-- bargaining: parties, schemes, fiscal negotiation
-  +-- confrontational: assent, CBI, water, tax and borrowing disputes
+CONTROL: local bodies are a third governance tier, not co-sovereign federal units.
+```
 
-CHANNELS: Rajya Sabha + ISC + Zonal Councils + GST Council + FC + courts
-HEALTH TEST: conflict becomes reasons, negotiation and adjudication.
-  +-- Mohit Minerals (2022): GST Council advice is non-binding
-2024 West Bengal ruling (2024 INSC 502): Article 131 suit survived
-preliminary objections; CBI-consent merits were not decided.
+ASCII MASTER FLOW — PANEL 11/12: Challenges, reforms and answer architecture
+```ascii-master
+CHALLENGE                 MECHANISM OF STRAIN              REFORM
+Governor friction         delay / parallel discretion      prompt reasons + neutrality
+fiscal centralisation     cesses / schemes / borrowing     transparency + predictability
+GST disagreement          common market vs policy space    reasoned Council negotiation
+inter-State disputes      durable externalities            adjudication + implementation
+regional representation  competing fairness principles    broad consultation
+Article 356 misuse        elected government displaced     BOMMAI + floor test + last resort
+weak local devolution     distant service decisions        functions + funds + staff
+irregular consultation    executive centralisation         regular Article 263 process
 
-ASCII MASTER FLOW — PANEL 9/12: Asymmetric federalism
-ASYMMETRY = DIFFERENTIATED CONSTITUTIONAL ACCOMMODATION
-  +-- Fifth Schedule: Scheduled Areas + Governor/TAC safeguards
-  +-- Sixth Schedule: tribal areas in four States + autonomous councils
-  +-- Article 371 family + differentiated Union-Territory arrangements
-  +-- Article 239AA illustrates a distinct capital-territory design
+ANSWER METHOD: claim -> named Article/case -> mechanism -> counterpoint -> precise reform.
+```
 
-LIMIT: common citizenship continues; asymmetry is not arbitrary inequality.
-
-ASCII MASTER FLOW — PANEL 10/12: Representation and current controls
-REPRESENTATION
-  +-- Rajya Sabha gives unequal State representation; Lok Sabha tracks population
-  +-- 131st Bill: negatived 17 Apr 2026, 298-230; proposed 850 is not law
-  +-- Census conduct/reference dates != publication or delimitation dates
-
-CURRENT FRICTION
-  +-- Governor assent: no fixed timeline/deemed assent; prolonged silence reviewable
-  +-- CBI: State consent rule; constitutional-court exception
-
-ASCII MASTER FLOW — PANEL 11/12: Verified PYQs and Prelims traps
-TEN ROUTES
-  +-- 2020: modes + centralising laws | 2021: CBI + federal essence
-  +-- 2022: party incentives | 2023: Article 356 + GST + prisons
-  +-- 2024: Centre-State trust | 2025: fiscal federalism
-
-TRAPS
-  +-- Article 254 is Concurrent-specific | 262 exclusion needs parliamentary law
-  +-- Article 355 is not automatic 356 | GST recommendations are non-binding
-  +-- State competence is autonomous, not sovereign
-
-ASCII MASTER FLOW — PANEL 12/12: Marks-scaled answer spine
-10 MARKS: define -> one Article cluster -> one case -> qualified verdict
-15 MARKS: add mechanisms -> named evidence -> counterpoint -> specific reform
-20 MARKS: integrate asymmetry + representation + current control -> graded verdict
-
-MASTER SPINE
-  definition -> allocation -> administration/finance -> operation -> evidence
-  -> limitation -> reform -> conclusion
-
-VERDICT: Union capacity earns federal legitimacy through consultation and restraint.
-LEGAL/SOURCE LIMIT: Current federal claims must distinguish enacted law, advisory judgments
-  and failed proposals: the 2025 Article 143 opinion controls assent, the 16th Finance
-  Commission retains 41 percent vertical devolution, and the defeated 131st Amendment Bill,
-  2026 never amended the Constitution.
+ASCII MASTER FLOW — PANEL 12/12: Integrated revision spine and qualified conclusion
+```ascii-master
+DEFINE -> constitutional self-rule + shared rule
+   |
+TRACE -> 1919 / 1935 / Constituent Assembly / 1950 / 1956 / 1994 / 2016
+   |
+PROVE -> dual polity + supreme text + Lists + rigidity + courts + Rajya Sabha
+   |
+QUALIFY -> Article 3 + residue + State-field doors + integrated machinery + emergency
+   |
+OPERATE -> administration + finance + GST + councils + parties + adjudication
+   |
+ACCOMMODATE -> Fifth/Sixth Schedules + 371 family + 239AA + bounded J&K status
+   |
+EVALUATE -> Governor + fiscal space + disputes + representation + local devolution
+   |
+CONCLUDE -> constitutionally federal, Union-weighted and asymmetrical;
+            cooperation gives capacity, restraint gives legitimacy.
+```

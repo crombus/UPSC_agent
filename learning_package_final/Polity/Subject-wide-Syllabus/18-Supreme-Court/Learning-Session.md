@@ -1,107 +1,49 @@
 ---
-title: "Supreme Court — Learner-v2 Refreshed"
+title: "Supreme Court — Complete Repaired Learning Session"
 topic_key: polity-18
-cover_image: assets/polity-18_Teaching-Navigation_2026-08-28.png
-export_date: 2026-08-28
-approval: false
-evidence_key: "[FACT] verified constitutional, judicial or official proposition; [ANALYSIS] reasoned exam synthesis; [CURRENT] dated live control; [LIMIT] qualification preventing overstatement"
+export_date: 2026-09-07
+evidence_key: "[FACT] constitutional/statutory/judicial/official; [ANALYSIS] reasoned synthesis; [CURRENT] date-stamped; [LIMIT] boundary"
 ---
-# Polity 18 - Supreme Court - Complete Topic Package
+# Polity 18 — Supreme Court — Complete Topic Package
 
-> **Subject:** Indian Polity | **Topic:** 18 | **GS-II + Prelims** | **Export date:** 2026-08-28
+> **Subject:** Indian Polity | **Topic:** 18 | **GS-II + Prelims** | **Controlled to:** 7 September 2026
 >
-> **Approval:** false - awaiting explicit user approval.
+> **Source order:** canonical Supreme Court Markdown owners -> OCR-searchable local polity PDFs -> Constitution, statutes, judgments, Supreme Court and institutional sources -> Qdrant not required.
 >
-> **Evidence key:** [FACT] verified constitutional, judicial or official proposition; [ANALYSIS] reasoned exam synthesis; [CURRENT] dated live control; [LIMIT] qualification preventing overstatement.
+> **Learning contract:** Foundation/Core is independently answer-complete. Optional Advanced is separately labelled. Consolidated register notes remain the final H2 section.
 
-### Package method, source priority and current control
+### Current legal and institutional control
 
-- Source order followed: authoritative Core owner `Polity/basic/Supreme-Court.md` -> optional depth in `Polity/advanced/18_Supreme-Court.md` -> necessary cross-links in Polity 07, Polity 10, Polity 15, `basic/High-Court.md`, `basic/Administrative-Tribunals.md`, `basic/Comparative-Constitutional-Schemes.md`, `basic/Constitutional-Interpretation-Doctrines.md` and Environment and Ecology 16 -> dated official controls. Qdrant was not used.
-- [LIMIT] Part I is independently answer-complete for Foundation and Core preparation. Part II is optional analytical enrichment; no examination answer depends on opening it.
-- [CURRENT] Status is controlled to **28 August 2026, Asia/Kolkata**.
-- [CURRENT] The Chief Justice of India is **Justice Surya Kant**, sworn in on **24 November 2025**; his scheduled retirement is **9 February 2027**. This is a dated officeholder control, not a major doctrinal fact.
-- [FACT] The sanctioned strength of the Supreme Court is **34 including the CJI**. [CURRENT] The official
-  sitting-judges roster listed **34 judges on 28 August 2026**, so working strength equalled sanctioned
-  strength on that control date. [LIMIT] Working strength changes with appointments and retirements.
-- [CURRENT] The latest visible comprehensive official publication located is the **Indian Judiciary Annual
-  Report 2024-25**. No later comprehensive report was relied on, so no unverified pendency total is quoted.
-- [CURRENT] The Supreme Court continues to publish Collegium Resolutions; the official listing includes a statement dated **27 May 2026** concerning appointments to the Supreme Court. [LIMIT] No exact count of pending recommendations or executive delay is asserted.
-- [CURRENT] The Presidential Reference under Article 143, opinion dated **20 November 2025**, **2025 INSC 1333**, held that the Court cannot impose rigid assent timelines or create deemed assent under Article 142. Prolonged unexplained inaction remains reviewable.
-- [LIMIT] That Article 143 opinion is advisory and non-binding. It did **not** “overrule” *State of Tamil Nadu v. Governor* (8 April 2025); the later position is used narrowly for the assent issue.
-- Package standard delivered in this Markdown: more than 20 text-native visuals, eight solved Mains PYQ demands, all seven routed Prelims demands, 36 original MCQs, 12 remedial MCQs and seven original solved Mains questions.
+- [FACT] Articles **124-147 in Part V** establish and regulate the Union Judiciary; connected provisions are decoded where they operate directly.
+- [FACT] The **Supreme Court (Number of Judges) Amendment Act, 2026 (Act 14 of 2026), section 2** substituted **thirty-seven** for **thirty-three** in the 1956 Act and is deemed in force from **16 May 2026**. Sanctioned strength is **38 including the CJI**.
+- [CURRENT] The official Supreme Court roster listed **34 sitting judges, including Chief Justice of India Justice Surya Kant, on 7 September 2026**. The dated vacancy count was therefore **four**. These figures must be re-verified before later use.
+- [CURRENT] The official Court continues to provide e-filing and live-stream access. *Swapnil Tripathi v. Supreme Court of India* (2018) supplies the open-justice foundation for live streaming of suitable proceedings, subject to safeguards.
+- [LIMIT] No unsupported live pendency total is frozen. The latest comprehensive official annual report relied on remains 2024-25.
+- [CURRENT] The 20 November 2025 Article 143 assent opinion, **2025 INSC 1333**, rejected rigid court-made assent timelines and deemed assent under Article 142 while preserving limited review of prolonged unexplained inaction. It is advisory and did not “overrule” the 8 April 2025 Tamil Nadu judgment.
 
 ### Roadmap
 
-| Stage | Coverage | Exam outcome |
-|---|---|---|
-| Architecture | History, integrated judiciary, Articles 124-147, seat and benches | Defines the institution accurately |
-| Personnel | Appointment, collegium, NJAC, qualifications, tenure and removal | Solves high-frequency Prelims traps |
-| Institutional design | Independence, accountability and in-house process | Builds GS-II evaluation |
-| Jurisdiction | Articles 131-137, 143 and writs | Classifies every judicial gateway |
-| Constitutional powers | Articles 129, 141, 142, 144 and 145 | Explains authority and limits |
-| Review state | Basic structure, Ninth Schedule and tribunals | Connects Supreme Court to constitutional supremacy |
-| Social transformation | PIL, activism, judicial legislation and environment | Answers recurring Mains demands |
-| Comparative and professional | India-UK, India-USA, Bar Council and Advocates Act | Adds cross-system depth |
-| Delivery | Pendency, access and e-Courts reform | Produces realistic reform conclusions |
-| Practice | PYQs, MCQs, remedials and Mains models | Converts knowledge into marks |
-
-### Scope ownership and cross-links
-
-- **Polity 07 - Fundamental Rights:** complete Article 32 rights framework and the five writs.
-- **Polity 10 - Amendment and Basic Structure:** Article 368, *Kesavananda Bharati (1973)*, Ninth Schedule and *I.R. Coelho (2007)*.
-- **Polity 15 - President and Vice-President:** Article 143 reference, presidential appointments and the 2025 assent opinion.
-- **High Court:** Article 226, Article 227 and the everyday constitutional-court role in the States.
-- **Administrative Tribunals:** Articles 323A/323B, *L. Chandra Kumar (1997)* and tribunal-independence litigation.
-- **Comparative Constitutional Schemes:** India-UK judicial systems and India-USA appointment design.
-- **Constitutional Interpretation Doctrines:** ratio, obiter, bench strength, purposive interpretation and Article 141.
-- **Environment and Ecology 16:** EIA, NGT and the regulatory side of environmental adjudication.
-- [LIMIT] Cross-links prevent unnecessary duplication, but every Supreme Court-specific rule required for Prelims and GS-II is complete in Part I.
-
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Polity Basic/Core is answer-complete before optional Advanced depth. |
-| Text hierarchy | Constitution/Act/rule/notification → binding judgment → authoritative institution → Constituent Assembly material → standard textbook. |
-| Legal precision | State exact Article, Part, Schedule, amendment, case, date, institution, procedure, exception and current operative status. |
-| Doctrine method | Text → institutional mechanism → controlling case → exception/limit → present legal status. |
-| Chronology | Enactment, commencement, amendment, judgment and implementation dates remain separate. |
-| Boundary method | Topic ownership and cross-owner bridges are explicit; adjacent PYQs never become fabricated direct routes. |
-| Practice contract | Every solved item has demand decoding, examiner-grade model, timed compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Polity\basic\Supreme-Court.md`  
-**Canonical topic owner:** `upsc-ai-kit\knowledge\Polity\18_Supreme-Court_Complete-Topic-Package.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Polity\advanced\18_Supreme-Court.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Polity\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- **Four independent ledgers:** literal syllabus/index, indispensable
-  prerequisites, standard textbook taxonomy and complete routed 2018-2026 PYQ
-  demands were built before repair.
-- **Hostile search:** missing Articles, Parts, Schedules, amendments, cases,
-  institutional mechanisms, exceptions, chronology, source status and
-  cross-owner boundaries are hard failures.
-- **Answer rule:** claim → exact constitutional/statutory/case evidence →
-  institutional analysis → exception or qualification.
-- **Current-status note, rechecked 2026-09-05:** Rechecked 2026-09-05: Justice Surya Kant is Chief Justice of India. Act 14 of 2026 raises the sanctioned strength to 38 including the CJI and is deemed in force from 16 May 2026. Working strength and pendency remain dynamic. The 20 November 2025 Article 143 opinion remains advisory.
-
-**Authoritative live sources:**
-
-- `https://legislative.gov.in/documents/constitution-of-india`
-- `https://www.sci.gov.in/chief-justice-judges/`
-- `https://egazette.gov.in/WriteReadData/2026/275379.pdf`
-- `https://www.sci.gov.in/collegium-resolutions/`
-- `https://api.sci.gov.in/supremecourt/2025/39157/39157_2025_1_1501_66169_Judgement_20-Nov-2025.pdf`
+| Sequence | Outcome |
+|---:|---|
+| Sessions 1-7 | origin, composition, appointments, collegium/NJAC, tenure, independence and accountability |
+| Sessions 8-16 | complete jurisdiction map, writs, appeals, advice, review, contempt, precedent, complete justice and temporary judges |
+| Sessions 17-21 | judicial review, tribunals, PIL, judicial legislation and environmental constitutionalism |
+| Sessions 22-26 | diversity, comparison, profession, access, technology and reform |
+| Practice | exactly 32 original MCQs, seven routed Prelims PYQs, eight routed Mains PYQs and six original Mains answers |
+| Optional Advanced | deeper analytical enrichment after the complete Core |
+| Register notes | final compressed recall followed by the 12-panel ASCII master |
 
 ## BASIC LEARNING SESSION
 
-![Refreshed teaching navigation](assets/polity-18_Teaching-Navigation_2026-08-28.png)
-
-*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
-
 ### SESSION 1 — HISTORICAL TRANSITION AND THE INTEGRATED JUDICIARY
+
+#### VISUAL FIRST
+
+```text
+Privy Council -> Federal Court (1937) -> Constitution -> Supreme Court (28 January 1950)
+```
+
+*This gateway locates historical transition and the integrated judiciary before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -167,6 +109,18 @@ Final constitutional + civil + criminal appellate court
 
 > **Core thesis:** The Supreme Court is the apex of one judicial system, but constitutional justice is delivered through a distributed network of High Courts and subordinate courts.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** The Supreme Court converted final appeal from imperial supervision into constitutional adjudication.
+- **Named evidence:** Articles 124-147 and the 28 January 1950 inauguration replaced the Federal Court/Privy Council endpoint.
+- **Analysis:** One integrated hierarchy now applies Union and State law while Article 141 supplies national legal coherence.
+- **Qualification:** Integration does not erase the autonomous constitutional position of High Courts under Articles 226, 227 and 235.
+- **Prelims trap:** Integrated judiciary does not mean that High Courts are administrative branches of the Supreme Court.
+- **Mains use:** Use this paragraph to introduce the Court's constitutional identity and historical transition.
+- **Mini recap:** Constitutional apex, integrated hierarchy, territorially distributed justice.
+
+**Paragraph model:** The Supreme Court converted final appeal from imperial supervision into constitutional adjudication. Articles 124-147 and the 28 January 1950 inauguration replaced the Federal Court/Privy Council endpoint. One integrated hierarchy now applies Union and State law while Article 141 supplies national legal coherence. Integration does not erase the autonomous constitutional position of High Courts under Articles 226, 227 and 235.
+
 #### CLOSING RECALL FLOW — HISTORICAL TRANSITION AND THE INTEGRATED JUDICIARY
 
 ```text
@@ -188,6 +142,14 @@ UPSC TRAP / ANSWER-USE: Do not equate an integrated hierarchy with unitary judic
 ANSWER-GRABBING FORMULATION: The 1950 transition replaced imperial final appeal with a constitutional apex inside one integrated but territorially distributed judicial system.
 ```
 ### SESSION 2 — CONSTITUTIONAL LOCATION, COMPOSITION, SEAT AND BENCHES
+
+#### VISUAL FIRST
+
+```text
+Article 124 creation -> statutory strength -> Article 130 seat -> Article 145(3) Constitution Bench
+```
+
+*This gateway locates constitutional location, composition, seat and benches before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -214,17 +176,16 @@ ANSWER-GRABBING FORMULATION: The 1950 transition replaced imperial final appeal 
 | Feature | Stable constitutional or statutory control |
 |---|---|
 | Constitutional range | [FACT] Articles 124-147, Part V |
-| Sanctioned strength | [FACT] 38 including the CJI |
-| Working strength | [CURRENT] Dynamic official roster; re-verify before use |
+| Sanctioned strength | [FACT] 38 including the CJI under Act 14 of 2026 |
+| Working strength | [CURRENT] 34 sitting judges on the official roster, checked 7 September 2026; four vacancies against the sanctioned total |
 | Original constitutional design | [FACT] CJI plus not more than seven other judges |
 | Retirement | [FACT] 65 years |
 | Principal seat | [FACT] Delhi under Article 130 |
 | Other place of sitting | [FACT] CJI may appoint with the President's approval |
 | Constitution Bench | [FACT] Minimum five judges under Article 145(3) |
 
-- [FACT] Parliament increased the number of puisne judges over time; the **Supreme Court (Number of Judges) Amendment Act, 2019** produced the sanctioned total of 34.
-- [LIMIT] Sanctioned strength and working strength are distinct even though the two figures need not match on any dated
-  28 August 2026 roster. Vacancies can change immediately and the working figure must be re-verified.
+- [FACT] The **Supreme Court (Number of Judges) Amendment Act, 2026 (Act 14 of 2026), section 2** substituted **thirty-seven** for **thirty-three** in section 2 of the 1956 Act and is deemed in force from **16 May 2026**; total sanctioned strength is therefore **38 including the CJI**.
+- [CURRENT] The official Supreme Court roster listed **34 sitting judges including CJI Surya Kant on 7 September 2026**, leaving **four vacancies** against the statutory ceiling. [LIMIT] Working strength and vacancies are volatile and must be re-verified before later use.
 - [FACT] Article 130 places the Court in Delhi but permits another place or places when the CJI, with presidential approval, so appoints.
 
 **Visual 4 - Bench-size ladder**
@@ -243,6 +204,18 @@ Prior larger-bench precedent             cannot be overruled by smaller bench
 - [FACT] Article 145(3) requires at least **five judges** to decide a substantial question of law as to constitutional interpretation or to hear an Article 143 reference.
 - [LIMIT] Every constitutional argument does not automatically require a Constitution Bench. The question must be substantial and arise for decision.
 - [ANALYSIS] Bench strength is an authority rule: a larger bench does not merely have more judges; it has greater precedential weight.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Composition, working strength, seat and bench size answer four different institutional questions.
+- **Named evidence:** Article 124 creates the Court; Act 14 of 2026 fixes 37 puisne judges; Articles 130 and 145(3) govern place and the five-judge minimum.
+- **Analysis:** The Constitution establishes the institution while Parliament adjusts capacity and the Court allocates judicial business.
+- **Qualification:** A vacancy figure is a dated roster fact, and not every constitutional argument requires a Constitution Bench.
+- **Prelims trap:** Do not confuse sanctioned strength, working strength, ordinary bench size and Constitution Bench size.
+- **Mains use:** Use this paragraph in questions on court capacity, regional benches or Constitution Benches.
+- **Mini recap:** Text creates; statute sizes; Article 130 locates; Article 145 structures benches.
+
+**Paragraph model:** Composition, working strength, seat and bench size answer four different institutional questions. Article 124 creates the Court; Act 14 of 2026 fixes 37 puisne judges; Articles 130 and 145(3) govern place and the five-judge minimum. The Constitution establishes the institution while Parliament adjusts capacity and the Court allocates judicial business. A vacancy figure is a dated roster fact, and not every constitutional argument requires a Constitution Bench.
 
 #### CLOSING RECALL FLOW — CONSTITUTIONAL LOCATION, COMPOSITION, SEAT AND BENCHES
 
@@ -265,6 +238,14 @@ UPSC TRAP / ANSWER-USE: Sanctioned strength is not automatically the same as wor
 ANSWER-GRABBING FORMULATION: Composition, seat and bench strength answer different institutional questions and must not be collapsed into one fact.
 ```
 ### SESSION 3 — APPOINTMENT ARCHITECTURE AND THE CJI CONVENTION
+
+#### VISUAL FIRST
+
+```text
+Article 124 appointment -> collegium recommendation -> Union processing -> presidential warrant
+```
+
+*This gateway locates appointment architecture and the cji convention before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -313,6 +294,18 @@ Constitutional text: President appoints under Article 124
 - [LIMIT] Seniority is a convention, not an express Article 124 command.
 - [CURRENT] Justice Surya Kant became the CJI on 24 November 2025. [LIMIT] Use the officeholder only for a current-affairs hook; UPSC usually tests the institution, not biographical trivia.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** The appointment system separates the formal constitutional appointer from the institution holding decisive recommending primacy.
+- **Named evidence:** Article 124 names the President; the Judges Cases make the CJI-led collegium's view institutionally controlling.
+- **Analysis:** This division seeks to prevent executive patronage while retaining formal inter-branch processing.
+- **Qualification:** The senior-most-judge rule for appointing the CJI is convention and Memorandum-of-Procedure practice, not constitutional text.
+- **Prelims trap:** Never describe the collegium as a body created by Article 124.
+- **Mains use:** Use this paragraph to distinguish text, judgment, convention and current appointment practice.
+- **Mini recap:** Formal appointment is executive; decisive recommendation is judicial; seniority is conventional.
+
+**Paragraph model:** The appointment system separates the formal constitutional appointer from the institution holding decisive recommending primacy. Article 124 names the President; the Judges Cases make the CJI-led collegium's view institutionally controlling. This division seeks to prevent executive patronage while retaining formal inter-branch processing. The senior-most-judge rule for appointing the CJI is convention and Memorandum-of-Procedure practice, not constitutional text.
+
 #### CLOSING RECALL FLOW — APPOINTMENT ARCHITECTURE AND THE CJI CONVENTION
 
 ```text
@@ -334,6 +327,14 @@ UPSC TRAP / ANSWER-USE: The collegium is a judicial creation and CJI seniority i
 ANSWER-GRABBING FORMULATION: The appointment system separates the formal appointing authority from the institution that has decisive recommending primacy.
 ```
 ### SESSION 4 — THE JUDGES CASES, COLLEGIUM EVOLUTION AND NJAC
+
+#### VISUAL FIRST
+
+```text
+1981 executive primacy -> 1993 collegium -> 1998 plurality -> 2014 NJAC -> 2015 invalidation
+```
+
+*This gateway locates the judges cases, collegium evolution and njac before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -397,6 +398,18 @@ NJAC invalidated; collegium restored
 - [CURRENT] Official Collegium Resolutions remain published, including a Supreme Court appointment statement dated 27 May 2026.
 - [LIMIT] Do not claim an exact number of pending names, vacancies or days of delay without a dated official record.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** The collegium is the product of a judicial chronology, not a single constitutional clause.
+- **Named evidence:** S.P. Gupta (1981), SCAORA (1993), the 1998 Presidential Reference and SCAORA (NJAC, 2015) successively changed appointment control.
+- **Analysis:** The sequence moved primacy from the executive to a plural judicial body and then tested that primacy against a commission model.
+- **Qualification:** The NJAC ruling invalidated that design for harming judicial independence; it did not forbid every conceivable commission.
+- **Prelims trap:** Do not say the First Judges Case created the collegium or that the NJAC judgment constitutionalised judicial self-selection without limits.
+- **Mains use:** Use the chronology before evaluating opacity, diversity, delay and accountable independence.
+- **Mini recap:** Appointment doctrine evolved through holdings; reform must preserve independence without preserving opacity.
+
+**Paragraph model:** The collegium is the product of a judicial chronology, not a single constitutional clause. S.P. Gupta (1981), SCAORA (1993), the 1998 Presidential Reference and SCAORA (NJAC, 2015) successively changed appointment control. The sequence moved primacy from the executive to a plural judicial body and then tested that primacy against a commission model. The NJAC ruling invalidated that design for harming judicial independence; it did not forbid every conceivable commission.
+
 #### CLOSING RECALL FLOW — THE JUDGES CASES, COLLEGIUM EVOLUTION AND NJAC
 
 ```text
@@ -418,6 +431,14 @@ UPSC TRAP / ANSWER-USE: The NJAC judgment invalidated its particular design; it 
 ANSWER-GRABBING FORMULATION: The Judges Cases trace collegium evolution from executive primacy to judicial primacy and frame the NJAC test of judicial independence.
 ```
 ### SESSION 5 — QUALIFICATIONS, OATH, TENURE, SALARY AND EXIT
+
+#### VISUAL FIRST
+
+```text
+Eligibility -> oath -> protected service -> retirement/resignation/removal
+```
+
+*This gateway locates qualifications, oath, tenure, salary and exit before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -497,6 +518,18 @@ President orders removal
 - [FACT] **No Supreme Court judge has ever been removed.**
 - [ANALYSIS] The high threshold protects decisional independence but leaves a gap between informal correction and the ultimate sanction.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** A judge's lifecycle is constitutionally designed to combine professional eligibility with decisional security.
+- **Named evidence:** Article 124 provides citizenship plus the five-year judge, ten-year advocate or distinguished-jurist routes, oath, age 65 and removal grounds.
+- **Analysis:** Protected tenure and conditions reduce dependence on political favour after appointment.
+- **Qualification:** No minimum appointment age is prescribed, and the distinguished-jurist route remains legally available despite non-use.
+- **Prelims trap:** Do not transfer the High Court retirement age of 62 to the Supreme Court.
+- **Mains use:** Use this paragraph in appointment, tenure and independence answers.
+- **Mini recap:** Eligibility opens the office; oath disciplines it; tenure protects it; removal remains exceptional.
+
+**Paragraph model:** A judge's lifecycle is constitutionally designed to combine professional eligibility with decisional security. Article 124 provides citizenship plus the five-year judge, ten-year advocate or distinguished-jurist routes, oath, age 65 and removal grounds. Protected tenure and conditions reduce dependence on political favour after appointment. No minimum appointment age is prescribed, and the distinguished-jurist route remains legally available despite non-use.
+
 #### CLOSING RECALL FLOW — QUALIFICATIONS, OATH, TENURE, SALARY AND EXIT
 
 ```text
@@ -518,6 +551,14 @@ UPSC TRAP / ANSWER-USE: There is no minimum appointment age, and Article 124(7) 
 ANSWER-GRABBING FORMULATION: Qualifications, oath, tenure, salary protection and constitutional exit routes together create the judge’s service-cycle firewall.
 ```
 ### SESSION 6 — CONSTITUTIONAL SAFEGUARDS OF JUDICIAL INDEPENDENCE
+
+#### VISUAL FIRST
+
+```text
+Tenure + charged expenditure + Article 121 + Article 129 + Article 50 -> decisional independence
+```
+
+*This gateway locates constitutional safeguards of judicial independence before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -568,6 +609,18 @@ ANSWER-GRABBING FORMULATION: Qualifications, oath, tenure, salary protection and
 - [ANALYSIS] Independence is functional, not personal privilege: it exists so judges can decide according to law.
 - [LIMIT] Independence without reasoned accountability can produce opacity; accountability without insulation can produce political compliance.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Judicial independence is a system of dispersed safeguards rather than a privilege of individual judges.
+- **Named evidence:** Articles 121, 124, 125, 129 and 146, together with Article 50, protect tenure, finance, institutional authority and separation.
+- **Analysis:** Removing several pressure points enables courts to review the same political branches that appoint and fund them.
+- **Qualification:** Independence is functional, not immunity from reasons, ethics, recusal or constitutional accountability.
+- **Prelims trap:** A charged salary is non-votable expenditure, not expenditure outside audit or law.
+- **Mains use:** Use the safeguards as mechanisms, not as an unanalysed list.
+- **Mini recap:** Independence protects adjudication; it does not create unaccountable office.
+
+**Paragraph model:** Judicial independence is a system of dispersed safeguards rather than a privilege of individual judges. Articles 121, 124, 125, 129 and 146, together with Article 50, protect tenure, finance, institutional authority and separation. Removing several pressure points enables courts to review the same political branches that appoint and fund them. Independence is functional, not immunity from reasons, ethics, recusal or constitutional accountability.
+
 #### CLOSING RECALL FLOW — CONSTITUTIONAL SAFEGUARDS OF JUDICIAL INDEPENDENCE
 
 ```text
@@ -589,6 +642,14 @@ UPSC TRAP / ANSWER-USE: Independence is functional protection for adjudication, 
 ANSWER-GRABBING FORMULATION: The constitutional safeguards of judicial independence remove several distinct levers of political reward, pressure and retaliation.
 ```
 ### SESSION 7 — ACCOUNTABILITY, ETHICS AND THE IN-HOUSE PROCESS
+
+#### VISUAL FIRST
+
+```text
+Open reasons -> recusal/disclosure -> in-house inquiry -> Article 124(4) removal
+```
+
+*This gateway locates accountability, ethics and the in-house process before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -637,6 +698,18 @@ Article 124(4) removal for proved misconduct/incapacity
 
 > **Mains line:** Independence protects the decision; accountability legitimises the manner in which institutional power is exercised.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Judicial accountability must fill the space between ordinary criticism and the extreme removal remedy.
+- **Named evidence:** The 1997 Restatement, 1999 in-house procedure, asset disclosure practice, recusal law and Article 124(4) form different accountability layers.
+- **Analysis:** Reasoned and visible process protects legitimacy without handing case outcomes to the executive.
+- **Qualification:** The in-house mechanism is non-statutory, recusals lack one codified national procedure and a lapsed Bill is not law.
+- **Prelims trap:** Do not present the in-house procedure as a substitute for constitutional removal.
+- **Mains use:** Use this paragraph to argue for graded, fair and independent accountability.
+- **Mini recap:** Accountability concerns process and conduct; independence concerns freedom of decision.
+
+**Paragraph model:** Judicial accountability must fill the space between ordinary criticism and the extreme removal remedy. The 1997 Restatement, 1999 in-house procedure, asset disclosure practice, recusal law and Article 124(4) form different accountability layers. Reasoned and visible process protects legitimacy without handing case outcomes to the executive. The in-house mechanism is non-statutory, recusals lack one codified national procedure and a lapsed Bill is not law.
+
 #### CLOSING RECALL FLOW — ACCOUNTABILITY, ETHICS AND THE IN-HOUSE PROCESS
 
 ```text
@@ -658,6 +731,14 @@ UPSC TRAP / ANSWER-USE: The 2010 Judicial Standards and Accountability Bill laps
 ANSWER-GRABBING FORMULATION: The accountability problem lies in the wide gap between informal correction and the exceptional sanction of removal.
 ```
 ### SESSION 8 — MASTER JURISDICTION MAP
+
+#### VISUAL FIRST
+
+```text
+131 original | 32 writ | 132-136 appellate | 137 review | 143 advisory
+```
+
+*This gateway locates master jurisdiction map before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -696,6 +777,18 @@ disputes                                      correction  protection
 - [ANALYSIS] A strong answer classifies the gateway before discussing the outcome.
 - [LIMIT] Article 142 is a remedial power within a cause before the Court, not a freestanding head of jurisdiction.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** The Supreme Court's power is plural: every jurisdiction has a separate constitutional doorway and purpose.
+- **Named evidence:** Articles 131-137 and 143 distribute federal, rights, appellate, corrective and advisory functions.
+- **Analysis:** Classification prevents a broad claim of inherent unlimited jurisdiction and identifies the threshold for each remedy.
+- **Qualification:** Articles 129, 141, 142, 144 and 145 are constitutional powers and operating rules, not substitutes for jurisdictional gateways.
+- **Prelims trap:** Do not treat SLP, review, curative relief and advisory opinion as interchangeable appeals.
+- **Mains use:** Use the jurisdiction map at the start of any answer asking what the Court can do.
+- **Mini recap:** Choose the doorway before discussing the remedy.
+
+**Paragraph model:** The Supreme Court's power is plural: every jurisdiction has a separate constitutional doorway and purpose. Articles 131-137 and 143 distribute federal, rights, appellate, corrective and advisory functions. Classification prevents a broad claim of inherent unlimited jurisdiction and identifies the threshold for each remedy. Articles 129, 141, 142, 144 and 145 are constitutional powers and operating rules, not substitutes for jurisdictional gateways.
+
 #### CLOSING RECALL FLOW — MASTER JURISDICTION MAP
 
 ```text
@@ -717,6 +810,14 @@ UPSC TRAP / ANSWER-USE: Court-of-record status and judicial review are powers or
 ANSWER-GRABBING FORMULATION: The master jurisdiction map begins by identifying the constitutional gateway before evaluating the Supreme Court’s power or remedy.
 ```
 ### SESSION 9 — ORIGINAL JURISDICTION UNDER ARTICLE 131
+
+#### VISUAL FIRST
+
+```text
+Listed governments + legal-right dispute -> Article 131 exclusive original jurisdiction
+```
+
+*This gateway locates original jurisdiction under article 131 before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -766,6 +867,18 @@ Supreme Court exclusive original jurisdiction
 - [FACT] Parliament may provide under Article 262 for exclusion of court jurisdiction over inter-State river-water disputes.
 - [ANALYSIS] Article 131 makes the Court a federal umpire, but only for legal controversy, not political mediation.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Article 131 makes the Court a federal umpire through a narrow party-and-rights test.
+- **Named evidence:** The Union-State and State-State combinations, the legal-right requirement, the treaty proviso and Article 262 define the gateway.
+- **Analysis:** Direct apex adjudication prevents one constituent government from being forced into another's ordinary courts.
+- **Qualification:** Political disagreement, a private party and excluded inter-State water adjudication do not become Article 131 disputes.
+- **Prelims trap:** Original jurisdiction is not a general forum for every dispute involving government.
+- **Mains use:** Use this paragraph to link federalism with jurisdictional restraint.
+- **Mini recap:** Federal status opens the door only when a legal right is genuinely in dispute.
+
+**Paragraph model:** Article 131 makes the Court a federal umpire through a narrow party-and-rights test. The Union-State and State-State combinations, the legal-right requirement, the treaty proviso and Article 262 define the gateway. Direct apex adjudication prevents one constituent government from being forced into another's ordinary courts. Political disagreement, a private party and excluded inter-State water adjudication do not become Article 131 disputes.
+
 #### CLOSING RECALL FLOW — ORIGINAL JURISDICTION UNDER ARTICLE 131
 
 ```text
@@ -787,6 +900,14 @@ UPSC TRAP / ANSWER-USE: Private parties, abstract political disagreements and ex
 ANSWER-GRABBING FORMULATION: Article 131 makes the Court a federal umpire through a narrow legal gateway, not a general political forum.
 ```
 ### SESSION 10 — ARTICLE 32, THE FIVE WRITS AND ARTICLE 226 COMPARISON
+
+#### VISUAL FIRST
+
+```text
+Article 32: Fundamental Rights nationwide <-> Article 226: FRs + other legal rights territorially
+```
+
+*This gateway locates article 32, the five writs and article 226 comparison before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -841,6 +962,18 @@ Public office unlawfully occupied?         QUO WARRANTO
 - [LIMIT] “Article 226 is wider” means wider **in purpose**, not unlimited territorial reach.
 - [LIMIT] Article 32 is not a bypass for every legal grievance; a Fundamental Right injury must be shown.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Article 32 is stronger as a guaranteed remedy, while Article 226 is wider in subject matter.
+- **Named evidence:** Both constitutional courts issue the five writs; Article 32 is itself a Fundamental Right and Article 226 extends to 'any other purpose'.
+- **Analysis:** The dual design combines an apex guarantee with accessible State-level constitutional justice.
+- **Qualification:** High Court discretion and territorial cause-of-action rules do not make Article 226 constitutionally inferior.
+- **Prelims trap:** Do not say Article 32 is wider merely because the Supreme Court has national reach.
+- **Mains use:** Use the nature-purpose-reach comparison rather than a single word such as 'wider'.
+- **Mini recap:** Article 32 guarantees FR enforcement; Article 226 broadens public-law protection.
+
+**Paragraph model:** Article 32 is stronger as a guaranteed remedy, while Article 226 is wider in subject matter. Both constitutional courts issue the five writs; Article 32 is itself a Fundamental Right and Article 226 extends to 'any other purpose'. The dual design combines an apex guarantee with accessible State-level constitutional justice. High Court discretion and territorial cause-of-action rules do not make Article 226 constitutionally inferior.
+
 #### CLOSING RECALL FLOW — ARTICLE 32, THE FIVE WRITS AND ARTICLE 226 COMPARISON
 
 ```text
@@ -862,6 +995,14 @@ UPSC TRAP / ANSWER-USE: Wider purpose does not make a High Court hierarchically 
 ANSWER-GRABBING FORMULATION: The exam-safe comparison is guaranteed but subject-limited Article 32 versus wider-purpose and territorially grounded Article 226.
 ```
 ### SESSION 11 — APPELLATE JURISDICTION: ARTICLES 132-136
+
+#### VISUAL FIRST
+
+```text
+132 constitutional -> 133 civil -> 134 criminal -> 134A certificate -> 136 exceptional special leave
+```
+
+*This gateway locates appellate jurisdiction: articles 132-136 before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -917,6 +1058,18 @@ Residual exceptional doorway: Article 136 Special Leave
 - [ANALYSIS] SLP permits correction of grave injustice beyond ordinary appeal routes.
 - [LIMIT] Treating SLP as a routine third appeal increases apex-court overload and dilutes its constitutional role.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** The appellate structure combines certified routes with a residual discretionary safety valve.
+- **Named evidence:** Articles 132-134A prescribe constitutional, civil and criminal channels; Article 136 permits special leave except from Armed-Forces courts or tribunals.
+- **Analysis:** Certification screens regular appeals, while SLP enables correction of exceptional injustice across jurisdictions.
+- **Qualification:** Article 136 is plenary but discretionary; it is not an automatic fourth appeal or a replacement for ordinary procedure.
+- **Prelims trap:** Do not omit the express Armed-Forces exclusion.
+- **Mains use:** Use this paragraph to explain breadth without claiming routine appellate entitlement.
+- **Mini recap:** Certified appeal is structured; special leave is exceptional.
+
+**Paragraph model:** The appellate structure combines certified routes with a residual discretionary safety valve. Articles 132-134A prescribe constitutional, civil and criminal channels; Article 136 permits special leave except from Armed-Forces courts or tribunals. Certification screens regular appeals, while SLP enables correction of exceptional injustice across jurisdictions. Article 136 is plenary but discretionary; it is not an automatic fourth appeal or a replacement for ordinary procedure.
+
 #### CLOSING RECALL FLOW — APPELLATE JURISDICTION: ARTICLES 132-136
 
 ```text
@@ -938,6 +1091,14 @@ UPSC TRAP / ANSWER-USE: Article 136 is not a right of appeal and excludes decisi
 ANSWER-GRABBING FORMULATION: The ordinary appeal routes and Article 136 must be separated because only the latter is exceptional judicial discretion.
 ```
 ### SESSION 12 — ADVISORY JURISDICTION UNDER ARTICLE 143
+
+#### VISUAL FIRST
+
+```text
+President's reference -> Article 143 hearing -> advisory opinion -> political-constitutional consideration
+```
+
+*This gateway locates advisory jurisdiction under article 143 before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1005,6 +1166,18 @@ prolonged unexplained inaction still reviewable
 - [LIMIT] It is advisory and does not “overrule” the April 2025 judgment.
 - [LIMIT] The holding is narrow. It does not generally curtail Article 142 in unrelated fields.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Article 143 creates constitutional advice, not private appellate litigation.
+- **Named evidence:** Clause (1) permits a public-importance reference that the Court may answer; clause (2) covers the Article 131 proviso category and uses a mandatory hearing/report formula.
+- **Analysis:** The reference enables institutional clarification before or outside ordinary adversarial finality.
+- **Qualification:** The opinion is not binding like Article 141 law from an ordinary judgment and cannot be said to overrule a prior judgment.
+- **Prelims trap:** Do not convert the 2025 assent opinion into a general curtailment of Article 142.
+- **Mains use:** Use this paragraph for the nature, value and limits of advisory jurisdiction.
+- **Mini recap:** Authoritative advice is constitutionally important but doctrinally distinct from a binding decree.
+
+**Paragraph model:** Article 143 creates constitutional advice, not private appellate litigation. Clause (1) permits a public-importance reference that the Court may answer; clause (2) covers the Article 131 proviso category and uses a mandatory hearing/report formula. The reference enables institutional clarification before or outside ordinary adversarial finality. The opinion is not binding like Article 141 law from an ordinary judgment and cannot be said to overrule a prior judgment.
+
 #### CLOSING RECALL FLOW — ADVISORY JURISDICTION UNDER ARTICLE 143
 
 ```text
@@ -1026,6 +1199,14 @@ UPSC TRAP / ANSWER-USE: An Article 143 opinion is advisory and must not be descr
 ANSWER-GRABBING FORMULATION: Advisory jurisdiction enables constitutional consultation without turning the opinion into ordinary binding adjudication.
 ```
 ### SESSION 13 — REVIEW UNDER ARTICLE 137 AND THE CURATIVE PETITION
+
+#### VISUAL FIRST
+
+```text
+Judgment -> narrow Article 137 review -> dismissal -> exceptional curative screening
+```
+
+*This gateway locates review under article 137 and the curative petition before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1069,6 +1250,18 @@ final exceptional correction, not another appeal
 - [LIMIT] Curative jurisdiction is exceptional, especially for denial of natural justice or reasonable apprehension of bias; it is not a routine second review.
 - [ANALYSIS] Finality preserves certainty, while review and curative jurisdiction prevent finality from becoming institutional infallibility.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Finality is preserved by making self-correction progressively narrower.
+- **Named evidence:** Article 137 authorises review subject to law and rules; Rupa Ashok Hurra (2002) created curative relief for rare gross miscarriage after review.
+- **Analysis:** The sequence corrects patent injustice without turning every final judgment into endless appeal.
+- **Qualification:** A curative petition is not a constitutional appeal and requires the exceptional safeguards laid down by the Court.
+- **Prelims trap:** Do not describe curative jurisdiction as a routine second review.
+- **Mains use:** Use this paragraph in questions about finality versus justice.
+- **Mini recap:** Correction survives finality, but only through narrowing gates.
+
+**Paragraph model:** Finality is preserved by making self-correction progressively narrower. Article 137 authorises review subject to law and rules; Rupa Ashok Hurra (2002) created curative relief for rare gross miscarriage after review. The sequence corrects patent injustice without turning every final judgment into endless appeal. A curative petition is not a constitutional appeal and requires the exceptional safeguards laid down by the Court.
+
 #### CLOSING RECALL FLOW — REVIEW UNDER ARTICLE 137 AND THE CURATIVE PETITION
 
 ```text
@@ -1090,6 +1283,14 @@ UPSC TRAP / ANSWER-USE: A curative petition is not a second review or a routine 
 ANSWER-GRABBING FORMULATION: Finality remains the rule even though the Court possesses two exceptional self-correction mechanisms.
 ```
 ### SESSION 14 — COURT OF RECORD AND CONTEMPT UNDER ARTICLE 129
+
+#### VISUAL FIRST
+
+```text
+Article 129 court of record -> authoritative records + contempt power -> fair-criticism boundary
+```
+
+*This gateway locates court of record and contempt under article 129 before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1126,6 +1327,18 @@ ANSWER-GRABBING FORMULATION: Finality remains the rule even though the Court pos
 - [LIMIT] Contempt protects administration of justice, not judicial immunity from fair criticism.
 - [ANALYSIS] The constitutional balance is between effective courts and democratic freedom to scrutinise institutions.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Contempt protects the administration of justice, not judicial reputation from all criticism.
+- **Named evidence:** Article 129 is the constitutional source; the Contempt of Courts Act, 1971 regulates civil and criminal contempt and recognises bounded defences.
+- **Analysis:** Enforcement authority is necessary because courts lack their own purse or executive machinery.
+- **Qualification:** Statute cannot extinguish the constitutional power, but free expression, truth, bona fides and proportionality discipline its use.
+- **Prelims trap:** Sharp criticism is not automatically criminal contempt.
+- **Mains use:** Use this paragraph to balance institutional authority with democratic scrutiny.
+- **Mini recap:** Protect adjudication from obstruction without insulating judges from reasoned criticism.
+
+**Paragraph model:** Contempt protects the administration of justice, not judicial reputation from all criticism. Article 129 is the constitutional source; the Contempt of Courts Act, 1971 regulates civil and criminal contempt and recognises bounded defences. Enforcement authority is necessary because courts lack their own purse or executive machinery. Statute cannot extinguish the constitutional power, but free expression, truth, bona fides and proportionality discipline its use.
+
 #### CLOSING RECALL FLOW — COURT OF RECORD AND CONTEMPT UNDER ARTICLE 129
 
 ```text
@@ -1147,6 +1360,14 @@ UPSC TRAP / ANSWER-USE: Fair criticism is not contempt, and the statutory scheme
 ANSWER-GRABBING FORMULATION: Contempt protects the administration of justice, not judges from every form of criticism.
 ```
 ### SESSION 15 — ARTICLES 141, 142, 144 AND 145
+
+#### VISUAL FIRST
+
+```text
+141 declares binding law -> 142 completes justice -> 144 secures aid -> 145 regulates procedure
+```
+
+*This gateway locates articles 141, 142, 144 and 145 before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1226,6 +1447,18 @@ no rigid clocks or deemed assent
 - [FACT] Article 145(3) fixes the minimum five-judge Constitution Bench for substantial constitutional questions and Article 143 references.
 - [LIMIT] Article 144 requires legal aid to Court orders; it does not remove the constitutional competences of other authorities.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Articles 141, 142, 144 and 145 convert judgments into doctrine, remedy, implementation and orderly process.
+- **Named evidence:** Article 141 binds courts through the ratio; Article 142 operates in a pending cause; Article 144 requires aid; Article 145 authorises rules and Constitution Benches.
+- **Analysis:** Together they connect authoritative interpretation to executable relief and institutional procedure.
+- **Qualification:** A.R. Antulay, Prem Chand Garg and Supreme Court Bar Association reject using complete justice to defeat rights, substantive law or jurisdictional fairness.
+- **Prelims trap:** Article 142 is supplementary, not a free-standing legislative power.
+- **Mains use:** Use this paragraph whenever 'complete justice' is evaluated.
+- **Mini recap:** Precedent declares; complete justice remedies; authorities aid; rules regularise.
+
+**Paragraph model:** Articles 141, 142, 144 and 145 convert judgments into doctrine, remedy, implementation and orderly process. Article 141 binds courts through the ratio; Article 142 operates in a pending cause; Article 144 requires aid; Article 145 authorises rules and Constitution Benches. Together they connect authoritative interpretation to executable relief and institutional procedure. A.R. Antulay, Prem Chand Garg and Supreme Court Bar Association reject using complete justice to defeat rights, substantive law or jurisdictional fairness.
+
 #### CLOSING RECALL FLOW — ARTICLES 141, 142, 144 AND 145
 
 ```text
@@ -1247,6 +1480,14 @@ UPSC TRAP / ANSWER-USE: Article 142 cannot violate Fundamental Rights or supplan
 ANSWER-GRABBING FORMULATION: The four Articles form an authority-to-remedy-to-implementation chain but confer different powers.
 ```
 ### SESSION 16 — ACTING, AD HOC AND RETIRED JUDGES
+
+#### VISUAL FIRST
+
+```text
+126 acting CJI | 127 ad hoc judge | 128 retired judge sitting -> separate triggers and consents
+```
+
+*This gateway locates acting, ad hoc and retired judges before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1283,6 +1524,18 @@ ANSWER-GRABBING FORMULATION: The four Articles form an authority-to-remedy-to-im
 - [FACT] Article 124(7) bars pleading or acting; it does not textually bar every public appointment, arbitration or commission role.
 - [ANALYSIS] Post-retirement appointments raise a perception-of-independence issue even where legally permissible. Reform options include cooling-off rules, transparent selection and narrower eligibility.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Temporary judicial-capacity provisions are tailored continuity devices, not alternative permanent appointments.
+- **Named evidence:** Articles 126, 127 and 128 separately govern an acting CJI, an ad hoc High Court judge and an eligible retired judge sitting in the Supreme Court.
+- **Analysis:** Each mechanism addresses a different incapacity, quorum or expertise need while preserving consent safeguards.
+- **Qualification:** Article 128 sitting does not repeal Article 124(7)'s post-retirement practice bar.
+- **Prelims trap:** Do not merge ad hoc judges with retired judges or omit required consent.
+- **Mains use:** Use this paragraph for close-option questions on temporary judicial service.
+- **Mini recap:** Continuity devices differ by trigger, person and consent.
+
+**Paragraph model:** Temporary judicial-capacity provisions are tailored continuity devices, not alternative permanent appointments. Articles 126, 127 and 128 separately govern an acting CJI, an ad hoc High Court judge and an eligible retired judge sitting in the Supreme Court. Each mechanism addresses a different incapacity, quorum or expertise need while preserving consent safeguards. Article 128 sitting does not repeal Article 124(7)'s post-retirement practice bar.
+
 #### CLOSING RECALL FLOW — ACTING, AD HOC AND RETIRED JUDGES
 
 ```text
@@ -1304,6 +1557,14 @@ UPSC TRAP / ANSWER-USE: Article 128 sitting does not cancel the Article 124(7) b
 ANSWER-GRABBING FORMULATION: Acting, ad hoc and retired judges must be separated by trigger, appointing or requesting authority, consent and function.
 ```
 ### SESSION 17 — JUDICIAL REVIEW, BASIC STRUCTURE AND THE NINTH SCHEDULE
+
+#### VISUAL FIRST
+
+```text
+Constitutional supremacy -> review of law/action/amendment -> invalidity only on a legal ground
+```
+
+*This gateway locates judicial review, basic structure and the ninth schedule before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1368,6 +1629,18 @@ protection survives       insertion/law may fail
 - [FACT] *I.R. Coelho (2007) v. State of Tamil Nadu* (2007) rejects blanket immunity for post-cut-off insertions.
 - [LIMIT] Post-1973 Ninth Schedule laws are **reviewable**, not automatically void.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Judicial review preserves constitutional supremacy without making courts supreme over every policy choice.
+- **Named evidence:** Kesavananda Bharati (1973) limits amendment power; Minerva Mills (1980) protects limited government; I.R. Coelho (2007) subjects post-24 April 1973 Ninth Schedule insertions to impact review.
+- **Analysis:** The Court polices constitutional competence, rights and basic structure rather than substituting its preferred policy.
+- **Qualification:** Reviewability is not automatic invalidity, and basic structure is not an exhaustive judicial veto over ordinary politics.
+- **Prelims trap:** Do not say Kesavananda made Fundamental Rights wholly unamendable.
+- **Mains use:** Use the amendment-effect-test distinction in every basic-structure answer.
+- **Mini recap:** Judicial review enforces constitutional limits; it does not confer policy supremacy.
+
+**Paragraph model:** Judicial review preserves constitutional supremacy without making courts supreme over every policy choice. Kesavananda Bharati (1973) limits amendment power; Minerva Mills (1980) protects limited government; I.R. Coelho (2007) subjects post-24 April 1973 Ninth Schedule insertions to impact review. The Court polices constitutional competence, rights and basic structure rather than substituting its preferred policy. Reviewability is not automatic invalidity, and basic structure is not an exhaustive judicial veto over ordinary politics.
+
 #### CLOSING RECALL FLOW — JUDICIAL REVIEW, BASIC STRUCTURE AND THE NINTH SCHEDULE
 
 ```text
@@ -1389,6 +1662,14 @@ UPSC TRAP / ANSWER-USE: Reviewability does not mean automatic invalidity; the co
 ANSWER-GRABBING FORMULATION: Judicial review preserves constitutional supremacy by reviewing laws, executive action and even the constitutional effect of amendments.
 ```
 ### SESSION 18 — TRIBUNALS AND THE BASIC-STRUCTURE FLOOR
+
+#### VISUAL FIRST
+
+```text
+Specialised tribunal -> first-instance expertise -> High Court review -> Supreme Court constitutional control
+```
+
+*This gateway locates tribunals and the basic-structure floor before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1432,6 +1713,18 @@ appeal / SLP where legally available
 - [LIMIT] Tribunalisation is not unconstitutional by itself. The constitutional question is whether design preserves independence and review.
 - [ANALYSIS] The efficiency test is institutional: shifting cases without judges, members, staff and digital records shifts delay rather than cures it.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Tribunals may supplement adjudication but cannot replace the constitutional-court structure.
+- **Named evidence:** L. Chandra Kumar (1997) held that Articles 226/227 and 32 review form part of the basic structure and tribunal decisions remain reviewable.
+- **Analysis:** Specialisation and speed are legitimate only when independence, competence and constitutional supervision survive.
+- **Qualification:** The ruling does not make every tribunal unconstitutional or every order directly appealable to the Supreme Court.
+- **Prelims trap:** Do not confuse tribunal substitution with tribunal supplementation.
+- **Mains use:** Use this paragraph to connect tribunal reform with separation of powers and access.
+- **Mini recap:** Expert forums may decide first; constitutional courts retain the final legality floor.
+
+**Paragraph model:** Tribunals may supplement adjudication but cannot replace the constitutional-court structure. L. Chandra Kumar (1997) held that Articles 226/227 and 32 review form part of the basic structure and tribunal decisions remain reviewable. Specialisation and speed are legitimate only when independence, competence and constitutional supervision survive. The ruling does not make every tribunal unconstitutional or every order directly appealable to the Supreme Court.
+
 #### CLOSING RECALL FLOW — TRIBUNALS AND THE BASIC-STRUCTURE FLOOR
 
 ```text
@@ -1453,6 +1746,14 @@ UPSC TRAP / ANSWER-USE: Tribunals are not direct substitutes for High Courts in 
 ANSWER-GRABBING FORMULATION: Tribunals may add specialised adjudication, but the Basic Structure floor preserves review by constitutional courts.
 ```
 ### SESSION 19 — PIL, LOCUS STANDI, EPISTOLARY JURISDICTION AND CONTINUING MANDAMUS
+
+#### VISUAL FIRST
+
+```text
+Relaxed standing -> epistolary access -> representative litigation -> continuing mandamus
+```
+
+*This gateway locates pil, locus standi, epistolary jurisdiction and continuing mandamus before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1512,6 +1813,18 @@ case retained to monitor compliance
 - [LIMIT] PIL is not a licence to bypass evidence, standing discipline or separation of powers.
 - [ANALYSIS] Frivolous “publicity-interest” litigation consumes scarce judicial time and can displace ordinary litigants.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** PIL changed who may approach constitutional courts and how compliance may be supervised.
+- **Named evidence:** Hussainara Khatoon (1979) advanced speedy trial; S.P. Gupta (1981) widened representative standing; Vineet Narain (1998) illustrates continuing mandamus.
+- **Analysis:** The model converts inaccessible group injury into enforceable public-law claims and sustained compliance.
+- **Qualification:** Standing is relaxed for bona fide public injury, not erased for publicity, private rivalry or abstract governance.
+- **Prelims trap:** PIL is a procedural access innovation, not a licence to bypass evidence and institutional competence.
+- **Mains use:** Use this paragraph to explain both democratisation and docket/overreach risks.
+- **Mini recap:** PIL opens the courthouse; judicial discipline determines whether it remains justice.
+
+**Paragraph model:** PIL changed who may approach constitutional courts and how compliance may be supervised. Hussainara Khatoon (1979) advanced speedy trial; S.P. Gupta (1981) widened representative standing; Vineet Narain (1998) illustrates continuing mandamus. The model converts inaccessible group injury into enforceable public-law claims and sustained compliance. Standing is relaxed for bona fide public injury, not erased for publicity, private rivalry or abstract governance.
+
 #### CLOSING RECALL FLOW — PIL, LOCUS STANDI, EPISTOLARY JURISDICTION AND CONTINUING MANDAMUS
 
 ```text
@@ -1533,6 +1846,14 @@ UPSC TRAP / ANSWER-USE: Relaxed standing is not erased standing, and continuing 
 ANSWER-GRABBING FORMULATION: PIL changed who may approach constitutional courts and how compliance may be supervised after judgment.
 ```
 ### SESSION 20 — JUDICIAL ACTIVISM, RESTRAINT AND JUDICIAL LEGISLATION
+
+#### VISUAL FIRST
+
+```text
+Rights violation + legal vacuum -> interim judicial norm -> legislative replacement
+```
+
+*This gateway locates judicial activism, restraint and judicial legislation before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1590,6 +1911,18 @@ statutory framework supersedes interim court norms
 - [LIMIT] Courts cannot become permanent legislatures. Under *SCBA* (1998), Article 142 supplements rather than supplants substantive law.
 - [ANALYSIS] A court crosses from adjudication toward governance when it designs policy without a constitutional hook, lacks administrable standards or continues management after lawful institutions can act.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Judicial legislation is most defensible as temporary rights-protecting gap filling.
+- **Named evidence:** Vishaka (1997) used constitutional guarantees and CEDAW to prescribe workplace safeguards until Parliament enacted the 2013 statute.
+- **Analysis:** Article 141 allowed an enforceable bridge where legislative absence exposed rights to continuing harm.
+- **Qualification:** The bridge must yield to valid legislation and cannot become permanent judicial administration.
+- **Prelims trap:** Do not treat every creative interpretation as legislation or every policy order as justified activism.
+- **Mains use:** Use the right-vacuum-necessity-temporariness test.
+- **Mini recap:** Courts may bridge a rights-threatening vacuum, not occupy the legislature.
+
+**Paragraph model:** Judicial legislation is most defensible as temporary rights-protecting gap filling. Vishaka (1997) used constitutional guarantees and CEDAW to prescribe workplace safeguards until Parliament enacted the 2013 statute. Article 141 allowed an enforceable bridge where legislative absence exposed rights to continuing harm. The bridge must yield to valid legislation and cannot become permanent judicial administration.
+
 #### CLOSING RECALL FLOW — JUDICIAL ACTIVISM, RESTRAINT AND JUDICIAL LEGISLATION
 
 ```text
@@ -1611,6 +1944,14 @@ UPSC TRAP / ANSWER-USE: Vishaka (1997)-style gap-filling does not authorise cour
 ANSWER-GRABBING FORMULATION: Judicial activism, restraint and judicial legislation are evaluated by legal anchor, remedial necessity and respect for institutional boundaries.
 ```
 ### SESSION 21 — ENVIRONMENTAL CONSTITUTIONALISM
+
+#### VISUAL FIRST
+
+```text
+Article 21 + 48A + 51A(g) -> liability/principles -> continuing supervision -> regulator implementation
+```
+
+*This gateway locates environmental constitutionalism before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1660,6 +2001,18 @@ regulatory enforcement by executive, CPCB/SPCBs, NGT and courts
 - [LIMIT] Courts can compel legality and supervise failure, but cannot replace scientific regulators, local consultation and continuous administration.
 - [FACT] Appeals from specified NGT decisions lie to the Supreme Court under the NGT Act.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Environmental constitutionalism transformed ecological injury into an enforceable life-and-governance claim.
+- **Named evidence:** M.C. Mehta (Oleum Gas), Vellore Citizens, M.C. Mehta v Kamal Nath and T.N. Godavarman supply absolute liability, precaution, polluter pays, public trust and continuing mandamus.
+- **Analysis:** Constitutionalisation raises regulatory floors and gives affected communities a rights route.
+- **Qualification:** Courts can catalyse compliance but cannot replace CPCB, State Boards, expert appraisal or the NGT.
+- **Prelims trap:** Do not confuse absolute liability with English strict liability.
+- **Mains use:** Use cases as propositions, not as an unexplained catalogue.
+- **Mini recap:** The Court constitutionalised environmental protection while implementation remains institutionally shared.
+
+**Paragraph model:** Environmental constitutionalism transformed ecological injury into an enforceable life-and-governance claim. M.C. Mehta (Oleum Gas), Vellore Citizens, M.C. Mehta v Kamal Nath and T.N. Godavarman supply absolute liability, precaution, polluter pays, public trust and continuing mandamus. Constitutionalisation raises regulatory floors and gives affected communities a rights route. Courts can catalyse compliance but cannot replace CPCB, State Boards, expert appraisal or the NGT.
+
 #### CLOSING RECALL FLOW — ENVIRONMENTAL CONSTITUTIONALISM
 
 ```text
@@ -1681,6 +2034,14 @@ UPSC TRAP / ANSWER-USE: Constitutionalisation does not make courts technical reg
 ANSWER-GRABBING FORMULATION: Environmental cases show how judicial review can translate constitutional values into doctrine while still depending on regulators.
 ```
 ### SESSION 22 — WOMEN AND DIVERSITY IN THE HIGHER JUDICIARY
+
+#### VISUAL FIRST
+
+```text
+Equality pipeline -> Bar/bench opportunity -> transparent selection -> representative legitimacy
+```
+
+*This gateway locates women and diversity in the higher judiciary before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1734,6 +2095,18 @@ bench diversity + institutional legitimacy
 | Narrow feeder pool | Consider capable Bar candidates alongside senior judicial service |
 | Symbolic appointment | Retention, leadership and fair allocation of work |
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Judicial diversity concerns both equal opportunity and the legitimacy of constitutional interpretation.
+- **Named evidence:** Articles 14-16 and Justice M. Fathima Beevi's 1989 appointment frame the equality and historical-representation issue.
+- **Analysis:** A wider professional pipeline can enrich deliberation, public confidence and sensitivity to lived barriers.
+- **Qualification:** Merit is not a self-defining neutral filter, but diversity must not be reduced to unsupported live percentages or token appointments.
+- **Prelims trap:** Date-stamp every current representation figure or omit it.
+- **Mains use:** Use this paragraph in gender and institutional-legitimacy questions.
+- **Mini recap:** Diversity strengthens legitimacy when selection remains transparent, fair and professionally rigorous.
+
+**Paragraph model:** Judicial diversity concerns both equal opportunity and the legitimacy of constitutional interpretation. Articles 14-16 and Justice M. Fathima Beevi's 1989 appointment frame the equality and historical-representation issue. A wider professional pipeline can enrich deliberation, public confidence and sensitivity to lived barriers. Merit is not a self-defining neutral filter, but diversity must not be reduced to unsupported live percentages or token appointments.
+
 #### CLOSING RECALL FLOW — WOMEN AND DIVERSITY IN THE HIGHER JUDICIARY
 
 ```text
@@ -1755,6 +2128,14 @@ UPSC TRAP / ANSWER-USE: Identity does not predetermine judgment, and undated rep
 ANSWER-GRABBING FORMULATION: Representation is an institutional legitimacy question as well as a question of individual appointment.
 ```
 ### SESSION 23 — INDIA AND THE UNITED KINGDOM: JUDICIAL SYSTEMS
+
+#### VISUAL FIRST
+
+```text
+Shared precedent and independence -> India constitutional supremacy | UK parliamentary sovereignty
+```
+
+*This gateway locates india and the united kingdom: judicial systems before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1794,6 +2175,18 @@ ANSWER-GRABBING FORMULATION: Representation is an institutional legitimacy quest
 - [LIMIT] The UK Constitution is **uncodified**, not literally unwritten.
 - [ANALYSIS] Convergence lies in common-law method and executive review; divergence lies in the location of legal sovereignty.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** India and the United Kingdom share judicial method but differ in the legal location of final constitutional authority.
+- **Named evidence:** India's written supreme Constitution, enforceable rights and basic-structure review contrast with Westminster parliamentary sovereignty and the UK's distinct legal systems.
+- **Analysis:** The comparison explains why an Indian court may invalidate legislation while a UK court ordinarily uses interpretation or declarations within its statutory framework.
+- **Qualification:** The UK Constitution is uncodified, not literally absent, and convergence does not erase structural divergence.
+- **Prelims trap:** Do not copy the label 'integrated judiciary' mechanically to the United Kingdom.
+- **Mains use:** Use a common-method/constitutional-authority matrix.
+- **Mini recap:** Similar adjudicative craft operates inside different sovereignty structures.
+
+**Paragraph model:** India and the United Kingdom share judicial method but differ in the legal location of final constitutional authority. India's written supreme Constitution, enforceable rights and basic-structure review contrast with Westminster parliamentary sovereignty and the UK's distinct legal systems. The comparison explains why an Indian court may invalidate legislation while a UK court ordinarily uses interpretation or declarations within its statutory framework. The UK Constitution is uncodified, not literally absent, and convergence does not erase structural divergence.
+
 #### CLOSING RECALL FLOW — INDIA AND THE UNITED KINGDOM: JUDICIAL SYSTEMS
 
 ```text
@@ -1815,6 +2208,14 @@ UPSC TRAP / ANSWER-USE: Do not call the UK Constitution simply unwritten or infe
 ANSWER-GRABBING FORMULATION: Comparison should distinguish judicial method from the constitutional rule governing primary legislation.
 ```
 ### SESSION 24 — INDIA AND THE USA: APPOINTMENTS AND JUDICIAL POWER
+
+#### VISUAL FIRST
+
+```text
+India: collegium + retirement 65 | USA: presidential nomination + Senate confirmation + good-behaviour tenure
+```
+
+*This gateway locates india and the usa: appointments and judicial power before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1860,6 +2261,18 @@ ANSWER-GRABBING FORMULATION: Comparison should distinguish judicial method from 
 - [ANALYSIS] India maximises insulation but under-produces public reasons; the USA maximises visible political accountability but risks partisan capture.
 - [LIMIT] Mechanical transplantation is unsound. Reform should add transparency to Indian insulation rather than import a different constitutional conflict.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** India and the United States trade transparency and insulation in opposite ways.
+- **Named evidence:** India's Judges Cases prioritise judicial primacy; the US Constitution uses executive nomination, legislative confirmation and life tenure during good behaviour.
+- **Analysis:** India reduces overt partisan confirmation but risks opacity; the USA exposes selection publicly but risks ideological polarisation.
+- **Qualification:** Neither model can be transplanted apart from its wider constitutional and political system.
+- **Prelims trap:** Do not describe US federal and State judiciaries as one integrated hierarchy.
+- **Mains use:** Use the comparison to justify India-specific accountable-independence reforms.
+- **Mini recap:** The reform question is not which model wins, but which risk India must correct.
+
+**Paragraph model:** India and the United States trade transparency and insulation in opposite ways. India's Judges Cases prioritise judicial primacy; the US Constitution uses executive nomination, legislative confirmation and life tenure during good behaviour. India reduces overt partisan confirmation but risks opacity; the USA exposes selection publicly but risks ideological polarisation. Neither model can be transplanted apart from its wider constitutional and political system.
+
 #### CLOSING RECALL FLOW — INDIA AND THE USA: APPOINTMENTS AND JUDICIAL POWER
 
 ```text
@@ -1881,6 +2294,14 @@ UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: neither model can
 ANSWER-GRABBING FORMULATION: The comparison exposes opposite risks: opaque insulation in India and visible politicisation in the United States.
 ```
 ### SESSION 25 — ADVOCATES ACT, BAR COUNCIL AND PROFESSIONAL REGULATION
+
+#### VISUAL FIRST
+
+```text
+Advocates Act -> State Bar enrolment -> BCI standards/appeals -> Supreme Court practice rules/AoR
+```
+
+*This gateway locates advocates act, bar council and professional regulation before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1926,6 +2347,18 @@ Supreme Court Rules / Advocate-on-Record system
 - [LIMIT] The Supreme Court Bar Association (1998) is a professional association, not the statutory regulator of the entire profession.
 - [ANALYSIS] An independent Bar is part of judicial independence because rights adjudication depends on fearless, competent representation.
 
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** The legal profession is governed by a statutory bar structure alongside the Court's procedural control.
+- **Named evidence:** The Advocates Act, 1961 creates State Bar Councils and the Bar Council of India; Supreme Court Rules regulate practice and the Advocate-on-Record system.
+- **Analysis:** Professional discipline and court-controlled filing responsibility protect both client rights and judicial administration.
+- **Qualification:** The Attorney-General's Article 76/88 functions and right of audience are distinct from BCI regulation, while SCBA is an association.
+- **Prelims trap:** BCI is statutory, not constitutional; SCBA is not the national regulator.
+- **Mains use:** Use this paragraph to separate advocate regulation, court procedure and the Attorney-General interface.
+- **Mini recap:** Statute regulates the profession; Court rules regulate Supreme Court practice.
+
+**Paragraph model:** The legal profession is governed by a statutory bar structure alongside the Court's procedural control. The Advocates Act, 1961 creates State Bar Councils and the Bar Council of India; Supreme Court Rules regulate practice and the Advocate-on-Record system. Professional discipline and court-controlled filing responsibility protect both client rights and judicial administration. The Attorney-General's Article 76/88 functions and right of audience are distinct from BCI regulation, while SCBA is an association.
+
 #### CLOSING RECALL FLOW — ADVOCATES ACT, BAR COUNCIL AND PROFESSIONAL REGULATION
 
 ```text
@@ -1947,6 +2380,14 @@ UPSC TRAP / ANSWER-USE: The BCI is statutory, not constitutional, and State Bar 
 ANSWER-GRABBING FORMULATION: Professional regulation is shared among statutory councils and constitutional courts rather than monopolised by one body.
 ```
 ### SESSION 26 — PENDENCY, ACCESS TO JUSTICE AND E-COURTS REFORM
+
+#### VISUAL FIRST
+
+```text
+Access -> filing/listing -> hearing -> reasoned judgment -> implementation -> feedback
+```
+
+*This gateway locates pendency, access to justice and e-courts reform before the detailed explanation.*
 
 #### DEFINITION / WHAT THIS IS CALLED
 
@@ -1985,7 +2426,7 @@ SLP-heavy apex docket
 delay -> cost -> unequal access -> weaker enforcement
 ```
 
-- [CURRENT] No comprehensive 2025-26 annual report was visible by 17 August 2026; no unverified pendency total is used.
+- [LIMIT] No later comprehensive official annual report was relied on by 7 September 2026; no unsupported live pendency total is printed.
 - [ANALYSIS] Delay is not merely administrative. A remedy delivered too late can hollow out liberty, livelihood and federal certainty.
 - [LIMIT] Pendency is a stock-flow problem: disposal alone is insufficient if filings, vacancies, process design and government appeals are ignored.
 
@@ -2019,6 +2460,18 @@ human safeguards: privacy, cybersecurity, accessibility, assisted access
 - [CURRENT] The e-Courts Mission Mode Project, the e-Committee, digital filing, hybrid processes and judicial-data systems remain central reform instruments.
 - [ANALYSIS] Technology should remove transaction costs, not automate exclusion.
 - [LIMIT] Virtual access cannot substitute for judge strength, registry capacity, reasoned listing and physical access for digitally excluded litigants.
+
+#### HOW TO WRITE THE ANSWER PARAGRAPH
+
+- **Claim:** Judicial power becomes justice only when litigants can reach the Court and orders can be implemented.
+- **Named evidence:** e-Filing, hybrid hearings, neutral citations, translation, legal services, live streaming after Swapnil Tripathi (2018) and e-Courts systems widen access and transparency.
+- **Analysis:** Technology can reduce distance and information costs while case management and stronger High Courts reduce apex overload.
+- **Qualification:** Digital systems can reproduce disability, language, connectivity, privacy and cybersecurity exclusion; no unsupported pendency total should be frozen.
+- **Prelims trap:** Technology is an access tool, not a substitute for judges, registry reform or lower-court capacity.
+- **Mains use:** Use a delivery-chain diagnosis linked to precise reforms.
+- **Mini recap:** Authority is incomplete without timely, intelligible, accessible and executable remedies.
+
+**Paragraph model:** Judicial power becomes justice only when litigants can reach the Court and orders can be implemented. e-Filing, hybrid hearings, neutral citations, translation, legal services, live streaming after Swapnil Tripathi (2018) and e-Courts systems widen access and transparency. Technology can reduce distance and information costs while case management and stronger High Courts reduce apex overload. Digital systems can reproduce disability, language, connectivity, privacy and cybersecurity exclusion; no unsupported pendency total should be frozen.
 
 #### CLOSING RECALL FLOW — PENDENCY, ACCESS TO JUSTICE AND E-COURTS REFORM
 
@@ -2088,596 +2541,640 @@ ANSWER-GRABBING FORMULATION: Pendency is a chain problem, so technology alone ca
   independence, collegium, PIL, environment and accountability demands were
   preserved; current judge, vacancy and pendency figures remain date-labelled.
 
+
+
+
+
+
+
 ## BASIC MCQS / REMEDIATION
 
-### Original MCQ loop - strict A → B → C → D rotation
+### 32 original MCQs
 
-#### OM1. Integrated judiciary
+**Answer rotation:** ABCD repeated eight times. Each question contains four substantive option-specific explanations and one unique question-specific Examiner trap.
 
-Which statement best describes India's judicial structure?
+#### MCQ 1. Integrated judiciary
 
-A. A single integrated hierarchy administers both Union and State law.
-B. Separate federal and State court systems end in different apex courts.
-C. State law cannot be interpreted by the Supreme Court.
-D. High Courts are administrative branches of the Supreme Court.
+Which proposition best describes India's judicial structure?
 
-**Answer: A.** [FACT] India uses one integrated hierarchy, unlike the USA's dual federal-State court structure. [LIMIT] High Courts retain constitutionally protected powers and are not branches of the Supreme Court.
+A. One integrated hierarchy administers both Union and State law.
+B. Separate federal and State systems end in different apex courts.
+C. High Courts are administrative branches of the Supreme Court.
+D. State law is outside Supreme Court interpretation.
 
-#### OM2. Seat of the Supreme Court
+**Answer: A.**
 
-Under Article 130, the Supreme Court:
+**Option explanations:**
+- **A:** Correct: India has one integrated judicial hierarchy applying Union and State law.
+- **B:** Incorrect: the dual federal-State court model is associated with the United States, not India.
+- **C:** Incorrect: High Courts possess independent constitutional powers under Articles 214, 226, 227 and 235.
+- **D:** Incorrect: State-law questions can reach the Supreme Court through constitutional and appellate routes.
 
-A. must hold one annual sitting in every State capital.
-B. sits in Delhi, but the CJI may appoint another place with the President's approval.
-C. must sit only in Delhi in all circumstances.
-D. may shift permanently by a resolution of the collegium alone.
+**Examiner trap 1:** Integrated hierarchy means legal unity, not unitary administrative control.
 
-**Answer: B.** [FACT] Delhi is the seat; another place requires action by the CJI with presidential approval.
+#### MCQ 2. Seat under Article 130
 
-#### OM3. Constitution Bench
+Under Article 130, which statement is correct?
 
-Which proposition is correct under Article 145(3)?
+A. The Court must sit annually in every State capital.
+B. The Court sits in Delhi, while the CJI may appoint another place with presidential approval.
+C. The collegium may permanently shift the seat.
+D. Parliament must approve each circuit sitting by constitutional amendment.
 
-A. Every Fundamental Rights case requires seven judges.
-B. A Constitution Bench must include every available Supreme Court judge.
-C. A substantial constitutional-interpretation question requires a bench of at least five judges.
-D. Every appeal from a High Court requires five judges.
+**Answer: B.**
 
-**Answer: C.** [FACT] Five is the constitutional minimum for the specified questions and Article 143 references.
+**Option explanations:**
+- **A:** Incorrect: Article 130 creates no annual State-capital circuit.
+- **B:** Correct: Delhi is the constitutional seat, with a CJI-plus-presidential-approval route for another place.
+- **C:** Incorrect: the collegium does not hold the Article 130 location power.
+- **D:** Incorrect: Article 130 itself supplies the mechanism; constitutional amendment is unnecessary.
 
-#### OM4. Qualification
+**Examiner trap 2:** A demand for regional benches is a reform proposal, not proof that Article 130 already mandates them.
 
-Which person may qualify for appointment as a Supreme Court judge under the Constitution?
+#### MCQ 3. Constitution Bench
 
-A. Any advocate with five years of practice in any court
-B. Any district judge with three years of service
-C. A non-citizen with twenty years of comparative-law teaching
-D. A distinguished jurist in the President's opinion who is an Indian citizen
+Article 145(3) requires at least five judges when the Court decides:
 
-**Answer: D.** [FACT] Distinguished jurist is an express Supreme Court eligibility route; no minimum appointment age is prescribed.
+A. every Fundamental Rights petition.
+B. every appeal from a High Court.
+C. a substantial question of law as to constitutional interpretation or an Article 143 reference.
+D. every case in which Union and State governments disagree.
 
-#### OM5. CJI convention
+**Answer: C.**
 
-The practice of appointing the senior-most Supreme Court judge as CJI is:
+**Option explanations:**
+- **A:** Incorrect: ordinary Article 32 petitions need not be heard by five judges.
+- **B:** Incorrect: High Court appeals commonly go before smaller benches.
+- **C:** Correct: Article 145(3) fixes the five-judge minimum for the specified constitutional questions and references.
+- **D:** Incorrect: party identity does not itself determine Constitution Bench size.
 
-A. a constitutional convention rather than an express Article 124 rule.
-B. a requirement introduced by the 99th Amendment.
-C. decided by a vote of all High Court Chief Justices.
-D. mandated by the Judges (Inquiry) Act, 1968.
+**Examiner trap 3:** A constitutional argument is not enough; the interpretive question must be substantial and arise for decision.
 
-**Answer: A.** [FACT] Seniority is a convention, historically broken in 1973 and 1977.
+#### MCQ 4. Sanctioned and working strength
 
-#### OM6. Third Judges Case (1998)
+Which statement was accurate on the official control date of 7 September 2026?
 
-For appointments to the Supreme Court, the Third Judges Case (1998) framework uses:
+A. The Constitution permanently fixed 38 judges.
+B. The 2019 Act still fixed the total at 34.
+C. Working strength necessarily equalled sanctioned strength.
+D. Act 14 of 2026 sanctioned 38 including the CJI, while the official roster listed 34 sitting judges.
 
-A. CJI alone
-B. CJI plus four senior-most Supreme Court judges
-C. Law Minister plus CJI plus Leader of Opposition
-D. CJI plus two senior-most High Court Chief Justices
+**Answer: D.**
 
-**Answer: B.** [FACT] The 1998 Presidential Reference established plurality through the CJI plus four senior-most judges.
+**Option explanations:**
+- **A:** Incorrect: Article 124 leaves the number of puisne judges to parliamentary law.
+- **B:** Incorrect: the 2019 total was superseded by the 2026 amendment.
+- **C:** Incorrect: vacancies can make working strength lower than the statutory ceiling.
+- **D:** Correct: the amended ceiling was 38 and the dated official roster contained 34 names.
 
-#### OM7. NJAC
+**Examiner trap 4:** Always separate statutory ceiling, dated working strength and resulting vacancy count.
 
-Which statement correctly describes the NJAC episode?
+#### MCQ 5. Qualifications
 
-A. The NJAC replaced judicial review of appointments permanently.
-B. The NJAC judgment held that no appointment commission can ever be constitutional.
-C. The 99th Amendment and NJAC Act were struck down in 2015 on judicial-independence/basic-structure grounds.
-D. The NJAC was only an executive order.
+Which person satisfies an express Article 124 qualification route, assuming Indian citizenship?
 
-**Answer: C.** [FACT] The specific design was invalidated. [LIMIT] The holding should not be converted into a ban on every possible commission model.
+A. A distinguished jurist in the President's opinion.
+B. Any advocate with five years' practice.
+C. Any district judge with three years' service.
+D. Any legal academic regardless of citizenship.
 
-#### OM8. Removal notice
+**Answer: A.**
 
-Under the Judges (Inquiry) Act route, the correct notice threshold is:
+**Option explanations:**
+- **A:** Correct: distinguished jurist is an express route, though unused in appointment practice.
+- **B:** Incorrect: the advocate route requires at least ten years as a High Court advocate.
+- **C:** Incorrect: district-judge service by itself is not the stated Supreme Court route.
+- **D:** Incorrect: citizenship of India is mandatory for every route.
 
-A. 50 Lok Sabha or 25 Rajya Sabha members
-B. 75 Lok Sabha or 40 Rajya Sabha members
-C. 100 members of either House
-D. 100 Lok Sabha or 50 Rajya Sabha members
+**Examiner trap 5:** The Constitution prescribes no minimum appointment age, but it does prescribe citizenship and professional routes.
 
-**Answer: D.** [FACT] These thresholds start the parliamentary inquiry process; admission by the presiding officer is not automatic.
+#### MCQ 6. CJI seniority convention
 
-#### OM9. Original jurisdiction
+Appointment of the senior-most Supreme Court judge considered fit as CJI is best classified as:
 
-Article 131 principally concerns:
+A. a rule inserted by the 99th Amendment.
+B. a constitutional convention reflected in appointment practice, not express Article 124 text.
+C. a requirement of the Judges (Inquiry) Act, 1968.
+D. a decision made by all High Court Chief Justices.
 
-A. legal-right disputes between constitutionally specified Union and State parties.
-B. private commercial disputes involving a public-sector company.
-C. appeals from every inter-State river tribunal.
-D. election petitions concerning all legislators.
+**Answer: B.**
 
-**Answer: A.** [FACT] The parties and legal-right requirement make Article 131 a federal, not general, original jurisdiction.
+**Option explanations:**
+- **A:** Incorrect: the 99th Amendment concerned the NJAC and was invalidated.
+- **B:** Correct: seniority is convention/Memorandum-of-Procedure practice, historically breached in 1973 and 1977.
+- **C:** Incorrect: the 1968 Act concerns investigation for removal, not CJI selection.
+- **D:** Incorrect: High Court Chief Justices do not elect the CJI.
 
-#### OM10. Article 32 and Article 226
+**Examiner trap 6:** Convention may be settled and important without becoming constitutional text.
 
-Which is correct?
+#### MCQ 7. Third Judges Case
 
-A. Article 32 is territorial while Article 226 is national.
-B. Article 226 is wider in purpose because it reaches Fundamental Rights and other legal rights.
-C. Article 32 reaches every legal right, while Article 226 reaches only Fundamental Rights.
-D. Neither jurisdiction forms part of the basic structure.
+For a Supreme Court appointment, the 1998 Presidential Reference requires consultation within a collegium comprising:
 
-**Answer: B.** [FACT] Article 32 is itself a Fundamental Right but is narrower in subject matter.
+A. the CJI acting alone.
+B. the CJI and two senior-most Supreme Court judges.
+C. the CJI and four senior-most Supreme Court judges.
+D. the CJI, Law Minister and two eminent persons.
 
-#### OM11. Writ of Prohibition
+**Answer: C.**
 
-Prohibition is best described as:
+**Option explanations:**
+- **A:** Incorrect: the institutional opinion cannot be reduced to the CJI's personal view.
+- **B:** Incorrect: the two-senior-most formulation is associated with a different stage of collegium evolution.
+- **C:** Correct: the Third Judges Case expanded the Supreme Court collegium to the CJI plus four senior-most judges.
+- **D:** Incorrect: that mixed composition resembles part of the invalidated NJAC design.
 
-A. a remedy quashing a completed administrative order.
-B. a challenge to an unlawful occupant of public office.
-C. a preventive order stopping a lower court or tribunal from exceeding jurisdiction.
-D. a command to release an unlawfully detained person.
+**Examiner trap 7:** Remember the Supreme Court appointment collegium as five judges in total.
 
-**Answer: C.** [FACT] Prohibition acts before completion; certiorari is the classic quashing remedy.
+#### MCQ 8. NJAC boundary
 
-#### OM12. Article 136
+Which statement most accurately describes the 2015 NJAC judgment?
 
-Special leave under Article 136:
+A. It upheld the 99th Amendment but invalidated only rules.
+B. It held that appointments can never involve any non-judge.
+C. It converted the collegium into express constitutional text.
+D. It struck down the 99th Amendment and NJAC Act for damaging judicial independence, without declaring every possible commission unconstitutional.
 
-A. applies only to civil cases.
-B. is issued by the President on judicial advice.
-C. is an automatic right after every High Court judgment.
-D. is discretionary and excludes courts or tribunals under Armed-Forces law.
+**Answer: D.**
 
-**Answer: D.** [FACT] SLP is exceptional, plenary and discretionary, with the express Armed-Forces exclusion.
+**Option explanations:**
+- **A:** Incorrect: both the constitutional amendment and the NJAC Act fell.
+- **B:** Incorrect: the holding addressed the enacted design and basic-structure defect, not every hypothetical commission.
+- **C:** Incorrect: the collegium remains a judicial construction.
+- **D:** Correct: SCAORA (2015) restored the collegium because the specific NJAC design impaired judicial independence.
 
-#### OM13. Advisory jurisdiction
+**Examiner trap 8:** Do not overclaim the judgment as an eternal ban on appointment commissions.
 
-Which statement is correct?
+#### MCQ 9. Removal
 
-A. An Article 143 advisory opinion is not binding like an ordinary judgment.
-B. Every public-importance reference must be answered under Article 143(1).
-C. Advisory jurisdiction creates a private right of appeal.
-D. Only Parliament can send a reference to the Court.
+A Supreme Court judge may be removed after:
 
-**Answer: A.** [FACT] The President refers; under Article 143(1) the Court may report its opinion.
+A. each House adopts an address in the same session by the prescribed special majority on proved misbehaviour or incapacity, followed by a presidential order.
+B. a simple-majority joint sitting.
+C. a collegium finding of ethical impropriety.
+D. a Supreme Court Bar Association resolution.
 
-#### OM14. Review
+**Answer: A.**
 
-Article 137:
+**Option explanations:**
+- **A:** Correct: Article 124(4) requires the separate-House special-majority address and presidential order.
+- **B:** Incorrect: removal has no joint sitting and no simple-majority route.
+- **C:** Incorrect: the collegium cannot constitutionally remove a judge.
+- **D:** Incorrect: a voluntary association cannot exercise Article 124(4) power.
 
-A. converts every rejected SLP into a review petition.
-B. permits the Supreme Court to review its own judgments or orders subject to law and rules.
-C. abolishes finality of judgments.
-D. gives High Courts power to review Supreme Court judgments.
+**Examiner trap 9:** The Constitution uses 'removal', while public discussion often inaccurately says 'impeachment'.
 
-**Answer: B.** [FACT] Review is a narrow self-correction mechanism, not a fresh appeal.
+#### MCQ 10. Financial independence
 
-#### OM15. Curative petition
+Which provision protects a sitting Supreme Court judge's allowances and pension rights from disadvantageous variation after appointment, subject to the Financial Emergency exception?
 
-The curative petition is associated with:
+A. Article 121
+B. Article 125
+C. Article 129
+D. Article 146(3)
 
-A. *Kesavananda Bharati (1973)* and amendment review
-B. *S.P. Gupta* and locus standi
-C. *Rupa Ashok Hurra (2002)* and prevention of gross miscarriage after review
-D. *Vishaka (1997)* and interim workplace norms
+**Answer: B.**
 
-**Answer: C.** [FACT] The curative jurisdiction is extraordinary and follows dismissal of review.
+**Option explanations:**
+- **A:** Incorrect: Article 121 restricts parliamentary discussion of judicial conduct.
+- **B:** Correct: Article 125 contains the service-condition protection and its constitutional exception.
+- **C:** Incorrect: Article 129 concerns court-of-record and contempt power.
+- **D:** Incorrect: Article 146(3) charges the Court's administrative expenses on the Consolidated Fund.
 
-#### OM16. Contempt
+**Examiner trap 10:** Salary expenditure and Court administrative expenditure are protected through related but distinct provisions.
 
-Which statement is constitutionally sound?
+#### MCQ 11. Temporary judges
 
-A. The Contempt of Courts Act creates the Supreme Court's entire contempt jurisdiction.
-B. Parliament may abolish Article 129 power by ordinary law.
-C. Fair criticism of a judgment automatically constitutes criminal contempt.
-D. The 1971 Act regulates contempt but cannot cut down the Court's constitutional power.
+Which matching is constitutionally correct?
 
-**Answer: D.** [FACT] Article 129 is the constitutional source; free expression and fair criticism remain relevant limits.
+A. Article 126—retired judge; 127—acting CJI; 128—ad hoc judge.
+B. Article 126—ad hoc judge; 127—retired judge; 128—acting CJI.
+C. Article 126—acting CJI; 127—ad hoc judge; 128—retired judge sitting.
+D. All three concern permanent appointments.
 
-#### OM17. Article 141
+**Answer: C.**
 
-Under Article 141:
+**Option explanations:**
+- **A:** Incorrect: each Article is shifted to the wrong temporary office.
+- **B:** Incorrect: Article 126 does not govern ad hoc judges and Article 128 does not govern an acting CJI.
+- **C:** Correct: Articles 126, 127 and 128 respectively address acting CJI, ad hoc judge and retired judge sitting.
+- **D:** Incorrect: these are continuity mechanisms rather than permanent Article 124 appointments.
 
-A. the law declared by the Supreme Court binds all courts in India.
-B. every factual sentence in every order is binding law.
-C. a two-judge bench may overrule a five-judge bench.
-D. Parliament is bound as if every judgment were a constitutional amendment.
+**Examiner trap 11:** The three Articles differ in trigger, eligible person and consent route.
 
-**Answer: A.** [FACT] The binding rule is the ratio, read with bench-strength discipline.
-
-#### OM18. Article 142
-
-Which formula most accurately states the limit on Article 142?
-
-A. It authorises the Court to enact permanent codes.
-B. It supplements existing law but cannot supplant substantive law or violate Fundamental Rights.
-C. It is available only in advisory references.
-D. It can override any statute whenever equity requires.
-
-**Answer: B.** [FACT] *Prem Chand Garg* and *SCBA* supply the two hard limits.
-
-#### OM19. Article 144
-
-Article 144 requires:
-
-A. the Supreme Court to seek executive permission before contempt action.
-B. Parliament to approve every Supreme Court order.
-C. all civil and judicial authorities in India to act in aid of the Supreme Court.
-D. only subordinate courts to follow Supreme Court procedure.
-
-**Answer: C.** [FACT] Article 144 provides the cooperation bridge for implementation.
-
-#### OM20. Article 145
-
-Which statement is correct?
-
-A. Article 145 abolishes dissenting opinions.
-B. Article 145 fixes the Court's sanctioned strength.
-C. Supreme Court Rules need approval of all High Courts.
-D. Article 145 supports Court-made procedural rules and the five-judge constitutional minimum.
-
-**Answer: D.** [FACT] Strength is statutory under Article 124 architecture; procedure and Constitution Bench rules lie in Article 145.
-
-#### OM21. Retired judge sitting
-
-Article 128 permits:
-
-A. the CJI, with required presidential and personal consent, to request an eligible retired judge to sit and act in the Supreme Court.
-B. any retired judge to resume office unilaterally.
-C. Parliament to appoint retired judges for life.
-D. a Governor to nominate an ad hoc Supreme Court judge.
-
-**Answer: A.** [FACT] The request mechanism is consent-based and temporary.
-
-#### OM22. Post-retirement practice
+#### MCQ 12. Post-retirement practice
 
 Article 124(7) provides that a former Supreme Court judge:
 
-A. cannot hold any public office whatsoever.
-B. cannot plead or act before any court or authority within India.
-C. cannot write or teach law.
-D. automatically becomes a Rajya Sabha member.
+A. cannot hold any public office.
+B. cannot teach or publish.
+C. automatically joins an arbitral panel.
+D. cannot plead or act before any court or authority within India.
 
-**Answer: B.** [FACT] The text is a practice bar, not a complete ban on every post-retirement role.
+**Answer: D.**
 
-#### OM23. Ninth Schedule
+**Option explanations:**
+- **A:** Incorrect: the Constitution does not impose a complete post-retirement public-office ban.
+- **B:** Incorrect: academic work is not prohibited by Article 124(7).
+- **C:** Incorrect: no automatic arbitral appointment follows retirement.
+- **D:** Correct: the textual bar concerns pleading or acting before any Indian court or authority.
 
-Which is the correct post-*I.R. Coelho (2007)* proposition?
+**Examiner trap 12:** The practice bar should not be inflated into a prohibition on every post-retirement assignment.
 
-A. Every law inserted after 1973 is automatically void.
-B. Every Ninth Schedule law is immune from all review.
-C. Post-24 April 1973 insertions are reviewable for rights impact damaging basic structure.
-D. Only the President may test Ninth Schedule laws.
+#### MCQ 13. Article 131
 
-**Answer: C.** [FACT] Reviewability and invalidity are different stages.
+Article 131 principally confers:
 
-#### OM24. Tribunals
+A. exclusive original jurisdiction over specified Union-State or State-State disputes involving a legal right.
+B. general original jurisdiction over all government contracts.
+C. automatic jurisdiction over inter-State river-water disputes.
+D. exclusive jurisdiction over every election petition.
 
-After *L. Chandra Kumar (1997)*:
+**Answer: A.**
 
-A. only the Supreme Court can review tribunal decisions.
-B. every tribunal was abolished.
-C. tribunal decisions are final and immune from constitutional courts.
-D. tribunal decisions remain reviewable by a High Court Division Bench under Articles 226/227.
+**Option explanations:**
+- **A:** Correct: both the listed governmental parties and the legal-right issue are essential.
+- **B:** Incorrect: ordinary commercial disputes do not become Article 131 cases merely because government is involved.
+- **C:** Incorrect: Article 262 legislation may exclude Supreme Court jurisdiction over river-water disputes.
+- **D:** Incorrect: Article 71 separately governs President and Vice-President election disputes.
 
-**Answer: D.** [FACT] Tribunals supplement but cannot supplant constitutional review.
+**Examiner trap 13:** Test parties, legal right and exclusions before calling a dispute federal original jurisdiction.
 
-#### OM25. PIL standing
+#### MCQ 14. Articles 32 and 226
 
-The defining access innovation of PIL was:
+Which comparison is correct?
 
-A. relaxation of locus standi for representation of those unable to approach the court.
-B. replacement of evidence with public opinion.
-C. mandatory admission of every letter.
-D. abolition of the need for a legal injury.
+A. Article 32 covers every legal right and Article 226 only Fundamental Rights.
+B. Article 32 is itself a Fundamental Right; Article 226 is wider in purpose because it also reaches other legal rights.
+C. Article 226 has nationwide territorial reach while Article 32 is State-bound.
+D. High Courts cannot issue quo warranto.
 
-**Answer: A.** [FACT] Standing was relaxed, not erased; courts still screen bona fides and legal injury.
+**Answer: B.**
 
-#### OM26. Continuing mandamus
+**Option explanations:**
+- **A:** Incorrect: the subject-matter scopes are reversed.
+- **B:** Correct: Article 32 guarantees FR enforcement while Article 226 extends to other legal purposes.
+- **C:** Incorrect: the Supreme Court's reach is national; High Court jurisdiction is territorially connected.
+- **D:** Incorrect: High Courts may issue all five constitutional writs.
 
-Continuing mandamus means:
+**Examiner trap 14:** Wider in purpose and wider in territory are different comparisons.
 
-A. permanent invalidation of Parliament's legislative power.
-B. retaining a case and requiring periodic compliance with judicial directions.
-C. issuing only a declaratory judgment.
-D. transferring every PIL to an executive commission.
+#### MCQ 15. Transfer of cases
 
-**Answer: B.** [FACT] It converts one-time adjudication into monitored implementation, with corresponding overreach risks.
+Article 139A enables the Supreme Court, in the specified circumstances, to:
 
-#### OM27. Judicial legislation
+A. appoint additional High Court judges.
+B. adjudicate judicial misconduct complaints.
+C. withdraw cases involving the same or substantially the same substantial legal questions and transfer cases between High Courts.
+D. change the principal seat without presidential approval.
 
-Why is *Vishaka (1997)* a defensible example of judicial legislation?
+**Answer: C.**
 
-A. It held that separation of powers does not exist.
-B. It relied only on Article 142 against a complete statute.
-C. It framed interim rights-protective norms in a vacuum until Parliament enacted the 2013 law.
-D. It permanently prevented Parliament from legislating.
+**Option explanations:**
+- **A:** Incorrect: additional High Court judges are governed by Article 224.
+- **B:** Incorrect: Article 139A is not an ethics mechanism.
+- **C:** Correct: it coordinates overlapping substantial legal questions and inter-High-Court transfers.
+- **D:** Incorrect: Article 130 governs the Supreme Court's seat.
 
-**Answer: C.** [FACT] The temporary and rights-linked design is central to its legitimacy.
+**Examiner trap 15:** Separate Article 139A constitutional transfer from statutory criminal/civil transfer powers.
 
-#### OM28. Judicial restraint
+#### MCQ 16. Special leave
 
-Judicial restraint most accurately means:
+Article 136 special leave is:
 
-A. abandoning judicial review of legislation.
-B. refusing to enforce Fundamental Rights.
-C. accepting every government claim as conclusive.
-D. respecting institutional competence and democratic choice while still enforcing constitutional limits.
+A. a guaranteed appeal after every High Court order.
+B. limited to civil matters.
+C. available from Armed-Forces courts without exception.
+D. an extraordinary discretionary route from courts or tribunals, excluding those constituted under Armed-Forces law.
 
-**Answer: D.** [ANALYSIS] Restraint is disciplined review, not judicial surrender.
+**Answer: D.**
 
-#### OM29. Environmental constitutionalism
+**Option explanations:**
+- **A:** Incorrect: no litigant has an automatic Article 136 appeal.
+- **B:** Incorrect: the provision is not confined to civil jurisdiction.
+- **C:** Incorrect: the Constitution expressly excludes Armed-Forces courts and tribunals.
+- **D:** Correct: SLP is broad in source but exceptional in exercise.
 
-Which constitutional combination anchors the Supreme Court's environmental-rights line?
+**Examiner trap 16:** Breadth of jurisdiction does not convert discretion into a regular fourth appeal.
 
-A. Articles 21, 48A and 51A(g)
-B. Articles 110, 112 and 114
-C. Articles 324, 325 and 326
-D. Articles 72, 123 and 356
+#### MCQ 17. Review
 
-**Answer: A.** [FACT] Life, State environmental duty and citizen duty form the principal constitutional chain.
+Article 137 authorises the Supreme Court to:
 
-#### OM30. India-UK comparison
+A. review its own judgments or orders subject to parliamentary law and Court rules.
+B. reopen every dismissed SLP as of right.
+C. review only advisory opinions.
+D. transfer every review to a High Court.
 
-The sharpest judicial-system divergence is that:
+**Answer: A.**
 
-A. UK courts cannot review executive action.
-B. Indian courts may invalidate unconstitutional legislation, while UK courts ordinarily cannot invalidate a Westminster Act.
-C. India has parliamentary sovereignty identical to the UK.
-D. the UK has no courts using precedent.
+**Option explanations:**
+- **A:** Correct: review is a constitutionally authorised, rule-governed self-correction power.
+- **B:** Incorrect: dismissal of an SLP does not create an automatic rehearing.
+- **C:** Incorrect: Article 137 is not confined to references.
+- **D:** Incorrect: the Supreme Court reviews its own decisions.
 
-**Answer: B.** [FACT] Both systems use precedent and executive review; legal sovereignty differs.
+**Examiner trap 17:** Review is narrower than appeal and cannot be argued as a second merits hearing.
 
-#### OM31. India-USA appointments
+#### MCQ 18. Curative petition
 
-Which pairing is correct?
+The curative petition recognised in Rupa Ashok Hurra (2002) is:
 
-A. India: Senate confirmation; USA: collegium
-B. Both systems constitutionally require public legislative hearings
-C. India: collegium recommendation; USA: presidential nomination and Senate confirmation
-D. India: life tenure; USA: retirement at 65
+A. a statutory appeal under the CPC.
+B. an exceptional post-review remedy against gross miscarriage, subject to strict screening.
+C. an Article 143 reference.
+D. a remedy available before ordinary review.
 
-**Answer: C.** [FACT] The systems embody different independence-accountability trade-offs.
+**Answer: B.**
 
-#### OM32. Bar Council of India
+**Option explanations:**
+- **A:** Incorrect: curative jurisdiction was judicially fashioned, not created as a regular statutory appeal.
+- **B:** Correct: it is a rare final safeguard after review, especially for grave natural-justice failure or bias.
+- **C:** Incorrect: the President does not initiate a curative petition.
+- **D:** Incorrect: review ordinarily precedes curative consideration.
 
-The Bar Council of India is:
+**Examiner trap 18:** Curative relief is not a routine second review.
 
-A. an executive department of the Supreme Court.
-B. a private association with no statutory powers.
-C. a constitutional court under Article 129.
-D. a statutory body under the Advocates Act, 1961.
+#### MCQ 19. Advisory jurisdiction
 
-**Answer: D.** [FACT] State Bar Councils enrol; the BCI performs national statutory regulatory functions.
+Which statement about Article 143 is correct?
 
-#### OM33. Current strength caution
+A. A private party may demand an advisory opinion.
+B. Every opinion binds future benches exactly like Article 141 precedent.
+C. The President refers; an Article 143(1) opinion is advisory and the Court may decline to answer.
+D. The Court may grant deemed assent to legislation through every reference.
 
-Which statement is safe as of the package control date?
+**Answer: C.**
 
-A. The sanctioned Supreme Court strength is 34 including the CJI, but working strength should be separately verified.
-B. The Constitution permanently fixes exactly 34 judges.
-C. Vacancy figures never change during a year.
-D. Sanctioned and working strength are always identical.
+**Option explanations:**
+- **A:** Incorrect: the reference power belongs to the President.
+- **B:** Incorrect: an advisory opinion is not an ordinary binding decree.
+- **C:** Correct: clause (1) uses a discretionary reporting structure for public-importance questions.
+- **D:** Incorrect: the 2025 assent opinion rejected automatic deemed assent under Article 142.
 
-**Answer: A.** [CURRENT] The sanctioned total is stable; filled positions are live data.
+**Examiner trap 19:** Authoritative constitutional advice remains distinct from binding adjudication.
 
-#### OM34. e-Courts reform
+#### MCQ 20. Contempt
 
-Which reform principle is strongest?
+Which proposition is constitutionally accurate?
 
-A. Hybrid hearings eliminate the need for High Courts.
-B. Technology should reduce transaction costs while preserving assisted access, privacy and cybersecurity.
-C. Pendency can be solved by dashboards without judges or case management.
-D. Digital-only filing should replace every physical access channel.
+A. The 1971 Act creates the whole contempt power.
+B. Fair criticism always amounts to criminal contempt.
+C. Parliament may abolish Article 129 by ordinary law.
+D. Article 129 is the constitutional source; the 1971 Act regulates but cannot extinguish that power.
 
-**Answer: B.** [ANALYSIS] Digital reform must be capacity-enhancing and inclusion-sensitive.
+**Answer: D.**
 
-#### OM35. Current CJI
+**Option explanations:**
+- **A:** Incorrect: constitutional courts possess inherent authority under Articles 129 and 215.
+- **B:** Incorrect: criticism must be distinguished from substantial interference with justice.
+- **C:** Incorrect: ordinary legislation cannot erase an express constitutional power.
+- **D:** Correct: statute structures contempt while constitutional authority remains controlling.
 
-As controlled to 17 August 2026, the Chief Justice of India is:
+**Examiner trap 20:** The object is administration of justice, not protection from every reputational injury.
 
-A. Justice B.R. Gavai
-B. Justice Sanjiv Khanna
-C. Justice Surya Kant
-D. Justice D.Y. Chandrachud
+#### MCQ 21. Article 141
 
-**Answer: C.** [CURRENT] Justice Surya Kant took office on 24 November 2025. [LIMIT] Officeholder trivia should not displace doctrine.
+Article 141 means that:
 
-#### OM36. Current assent opinion
+A. the law declared by the Supreme Court binds all courts in India, with ratio and bench strength controlling.
+B. every factual observation in every order is binding law.
+C. a smaller bench may overrule a larger bench.
+D. Parliament is bound as though every judgment amended the Constitution.
 
-The narrow position in the 20 November 2025 Article 143 opinion is that:
+**Answer: A.**
 
-A. Article 142 may always create deemed assent.
-B. the opinion formally overruled the April 2025 judgment.
-C. all assent decisions are immune from review.
-D. rigid court-made timelines and deemed assent were rejected, while prolonged unexplained inaction remains reviewable.
+**Option explanations:**
+- **A:** Correct: the binding proposition is the declared law, read through ratio and precedent discipline.
+- **B:** Incorrect: obiter and fact-specific observations do not automatically become binding ratios.
+- **C:** Incorrect: judicial discipline requires reference to an equal or larger bench.
+- **D:** Incorrect: judgments interpret and apply law; they are not constitutional amendments.
 
-**Answer: D.** [CURRENT] The opinion is advisory and non-binding; its use must remain issue-specific.
+**Examiner trap 21:** Identify the ratio and the authoritative bench rather than citing a case name alone.
 
-### Remedial MCQs - strict A -> A -> B -> D rotation
+#### MCQ 22. Article 142
 
-#### RM1. Removal terminology
+The safest statement of Article 142 is:
 
-Which expression is technically accurate in constitutional writing?
+A. it authorises permanent law-making whenever equity favours it.
+B. it permits complete-justice orders in a pending cause but cannot violate Fundamental Rights or supplant substantive law.
+C. it is confined to advisory references.
+D. it allows any statutory prohibition to be ignored.
 
-A. Removal of a Supreme Court judge under Article 124(4)
-B. Judicial no-confidence motion
-C. Presidential recall of a judge
-D. Automatic impeachment after inquiry
+**Answer: B.**
 
-**Answer: A.** [FACT] “Impeachment” is common usage, but the Constitution prescribes removal.
+**Option explanations:**
+- **A:** Incorrect: Article 142 is remedial, not a general legislative competence.
+- **B:** Correct: Prem Chand Garg and Supreme Court Bar Association supply constitutional and substantive-law limits.
+- **C:** Incorrect: the power operates in causes or matters before the Court generally.
+- **D:** Incorrect: complete justice cannot become a licence to defeat governing law.
 
-#### RM2. Writ width
+**Examiner trap 22:** Use 'supplement, not supplant' and avoid calling Article 142 unlimited.
 
-Why is Article 226 described as wider than Article 32?
+#### MCQ 23. Article 144
 
-A. It permits High Courts to overrule the Supreme Court.
-B. It reaches Fundamental Rights and other legal rights/public duties.
-C. It binds foreign courts.
-D. It has no territorial limit.
+Article 144 requires:
 
-**Answer: B.** [FACT] Width refers to purpose, not reach.
+A. only subordinate courts to follow Supreme Court procedure.
+B. the Union Cabinet to approve every decree.
+C. all civil and judicial authorities in India to act in aid of the Supreme Court.
+D. the Court to seek State consent before enforcement.
 
-#### RM3. Prohibition-certiorari trap
+**Answer: C.**
 
-Which distinction is correct?
+**Option explanations:**
+- **A:** Incorrect: the duty is not restricted to subordinate courts.
+- **B:** Incorrect: executive approval is not a condition for judicial authority.
+- **C:** Correct: Article 144 supplies a constitution-wide assistance obligation.
+- **D:** Incorrect: State consent is not the textual trigger.
 
-A. Certiorari is always preventive and prohibition always corrective.
-B. Neither can be issued to a tribunal.
-C. Prohibition stops a jurisdictional wrong; certiorari quashes an order already made.
-D. Both writs challenge occupation of public office.
+**Examiner trap 23:** Article 144 is the implementation bridge, not the source of appellate jurisdiction.
 
-**Answer: C.** [FACT] Timing and remedial operation distinguish the pair.
+#### MCQ 24. Article 145
 
-#### RM4. Article 142 trap
+Article 145 primarily concerns:
 
-Article 142:
+A. the retirement age of judges.
+B. federal original jurisdiction.
+C. the statutory strength of the Court.
+D. Supreme Court rules of practice/procedure and specified bench requirements.
 
-A. allows automatic deemed assent whenever delay occurs.
-B. supplies unlimited legislative competence.
-C. overrides Fundamental Rights in exceptional cases.
-D. is supplementary and cannot supplant substantive law.
+**Answer: D.**
 
-**Answer: D.** [FACT] *SCBA* supplies the controlling phrase.
+**Option explanations:**
+- **A:** Incorrect: retirement at 65 appears in Article 124.
+- **B:** Incorrect: Article 131 governs federal original jurisdiction.
+- **C:** Incorrect: Parliament fixes strength under the Article 124 statutory framework.
+- **D:** Correct: Article 145 includes rule-making and the five-judge constitutional minimum.
 
-#### RM5. Advisory-opinion trap
+**Examiner trap 24:** Rules require presidential approval, but the President does not decide individual bench composition.
 
-An Article 143 opinion:
+#### MCQ 25. Judicial review
 
-A. is advisory and not binding like an ordinary judgment.
-B. must always be unanimous.
-C. can be requested by any private citizen.
-D. is a constitutional amendment.
+Which statement best captures judicial review?
 
-**Answer: A.** [FACT] Authoritative reasoning and binding adjudication must be distinguished.
+A. It tests constitutional validity of legislative and executive action and is part of the basic structure.
+B. It permits courts to replace any policy they consider unwise.
+C. It exists only under Article 32.
+D. It makes every Ninth Schedule law automatically void.
 
-#### RM6. Constitution Bench trap
+**Answer: A.**
 
-The minimum bench under Article 145(3) is:
+**Option explanations:**
+- **A:** Correct: review enforces constitutional limits across several provisions and doctrines.
+- **B:** Incorrect: legality review does not authorise merits substitution.
+- **C:** Incorrect: Articles 13, 226 and other jurisdictional provisions also support review.
+- **D:** Incorrect: post-1973 insertion creates reviewability, not automatic invalidity.
 
-A. seven judges for every Fundamental Right case.
-B. five judges for a substantial constitutional-interpretation question or Article 143 reference.
-C. nine judges for every review petition.
-D. three judges for every constitutional petition.
+**Examiner trap 25:** Constitutional supremacy differs from judicial policy supremacy.
 
-**Answer: B.** [FACT] Five is a minimum, not a universal constitutional-case size.
+#### MCQ 26. Tribunal review
 
-#### RM7. Retired-judge trap
+L. Chandra Kumar (1997) held that:
 
-Which pairing is correct?
+A. tribunals may finally exclude all High Court review.
+B. tribunal decisions remain subject to Articles 226/227 review, with constitutional judicial review preserved as basic structure.
+C. every tribunal order goes directly to a Constitution Bench.
+D. tribunals themselves form the basic structure.
 
-A. Article 124(7) lets former SC judges practise in High Courts.
-B. Article 128 bars all retired judges from public service.
-C. Article 128 permits requested sitting; Article 124(7) bars later pleading or acting before courts/authorities.
-D. Article 224A appoints the CJI.
+**Answer: B.**
 
-**Answer: C.** [FACT] Temporary judicial service and the practice bar answer different questions.
+**Option explanations:**
+- **A:** Incorrect: exclusion of High Court review was the defect rejected.
+- **B:** Correct: tribunals supplement rather than replace constitutional courts.
+- **C:** Incorrect: ordinary review proceeds through the appropriate High Court, not automatically a five-judge bench.
+- **D:** Incorrect: the protected feature is constitutional judicial review, not each tribunal.
 
-#### RM8. Tribunal trap
+**Examiner trap 26:** Specialised first-instance adjudication and constitutional supervision can coexist.
 
-Which statement follows *L. Chandra Kumar (1997)*?
+#### MCQ 27. PIL standing
 
-A. Tribunal expertise makes judicial independence irrelevant.
-B. Tribunals replace High Courts entirely.
-C. Article 32 can be repealed by tribunal legislation.
-D. Tribunal decisions remain subject to High Court constitutional review.
+S.P. Gupta (1981) is important to PIL because it:
 
-**Answer: D.** [FACT] Review is the basic-structure floor.
+A. abolished the need for legal injury in every case.
+B. created the National Legal Services Authority.
+C. widened representative standing for bona fide public-interest claims involving persons unable to approach the Court.
+D. made every letter a mandatory writ petition.
 
-#### RM9. Ninth Schedule trap
+**Answer: C.**
 
-Which statement is correct?
+**Option explanations:**
+- **A:** Incorrect: PIL relaxes standing; it does not erase justiciability or injury.
+- **B:** Incorrect: NALSA rests on later statutory architecture.
+- **C:** Correct: the case helped broaden locus standi for disadvantaged groups.
+- **D:** Incorrect: epistolary jurisdiction remains judicially screened.
 
-A. Post-24 April 1973 Ninth Schedule insertions are reviewable, not automatically invalid.
-B. *I.R. Coelho (2007)* abolished the Ninth Schedule.
-C. All pre-1973 laws were declared unconstitutional.
-D. Article 31B was inserted by the 42nd Amendment.
+**Examiner trap 27:** Public interest is a gateway for genuine collective injury, not publicity-interest litigation.
 
-**Answer: A.** [FACT] The Court applies an impact-on-basic-structure test.
+#### MCQ 28. Judicial legislation
 
-#### RM10. Contempt trap
+Vishaka (1997) is best understood as:
 
-The best constitutional formulation is:
+A. a permanent judicial takeover of workplace regulation.
+B. a declaration that treaties automatically override statutes.
+C. a contempt case.
+D. rights-based interim guidelines in a legislative vacuum, later superseded by the 2013 statute.
 
-A. The 1971 Act alone creates contempt power.
-B. Article 129 confers constitutional power; statute regulates without cutting it down.
-C. Fair criticism is automatically contempt.
-D. Truth can never be considered.
+**Answer: D.**
 
-**Answer: B.** [FACT] Power, regulation and free-expression limits must be held together.
+**Option explanations:**
+- **A:** Incorrect: the guidelines expressly operated until legislation.
+- **B:** Incorrect: international norms were used consistently with constitutional guarantees, not as an automatic supremacy rule.
+- **C:** Incorrect: the case concerned workplace sexual harassment and rights protection.
+- **D:** Correct: it is the classic bounded gap-filling example under Article 141.
 
-#### RM11. Collegium trap
+**Examiner trap 28:** Defensible judicial legislation is temporary, rights-anchored and yielding to valid statute.
 
-The Supreme Court collegium is:
+#### MCQ 29. Recusal
 
-A. expressly listed in Article 124.
-B. a statutory body under the Advocates Act.
-C. a judicially developed mechanism shaped by the Second and Third Judges Cases.
-D. identical to the invalidated NJAC.
+Which proposition best describes Supreme Court recusal practice?
 
-**Answer: C.** [FACT] Judicial creation is the precise status.
+A. The impartiality principle is judicially recognised, but no single exhaustive statutory recusal code compels public reasons in every case.
+B. A litigant may choose the replacement judge.
+C. Every allegation automatically disqualifies the judge.
+D. Recusal is decided by Parliament.
 
-#### RM12. Current-control trap
+**Answer: A.**
 
-Which present-tense statement should be avoided without fresh verification?
+**Option explanations:**
+- **A:** Correct: natural-justice principles operate through judge-led practice rather than one comprehensive statute.
+- **B:** Incorrect: parties cannot select the bench.
+- **C:** Incorrect: tactical allegations do not automatically establish reasonable apprehension of bias.
+- **D:** Incorrect: Parliament does not decide case-specific recusals.
 
-A. Article 145(3) requires at least five judges in specified cases.
-B. Supreme Court judges retire at 65.
-C. Sanctioned strength is 38 including the CJI.
-D. The exact working strength, vacancy count or pendency total is fixed and current.
+**Examiner trap 29:** Balance actual/apparent impartiality against strategic bench-shopping.
 
-**Answer: D.** [LIMIT] Working strength and pendency are live variables.
+#### MCQ 30. Attorney-General interface
+
+Which Supreme Court-related statement about the Attorney-General is correct?
+
+A. The Attorney-General appoints Advocates-on-Record.
+B. The Attorney-General has a right of audience in all courts in India and may assist the Supreme Court, but is not the Court's administrative officer.
+C. The Attorney-General is a member of the collegium.
+D. The Attorney-General decides Article 131 disputes.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: Advocate-on-Record status is governed by Supreme Court practice rules.
+- **B:** Correct: Article 76 and statutory/professional law support the Union's chief legal officer and right of audience.
+- **C:** Incorrect: the Attorney-General has no seat in the collegium.
+- **D:** Incorrect: adjudication belongs to the Court.
+
+**Examiner trap 30:** Separate the Union's chief legal adviser from the Court, BCI and SCBA.
+
+#### MCQ 31. Live streaming
+
+Swapnil Tripathi (2018) is associated with:
+
+A. abolition of open-court hearings.
+B. mandatory broadcast of every trial without exception.
+C. recognition and guidelines for live streaming proceedings of constitutional/national importance, subject to safeguards.
+D. replacement of court records by video archives.
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: live streaming extends rather than abolishes open justice.
+- **B:** Incorrect: privacy, sensitivity and administration require exclusions and safeguards.
+- **C:** Correct: the judgment constitutionalised technology-assisted open-court access for suitable proceedings.
+- **D:** Incorrect: audiovisual access supplements the authoritative judicial record.
+
+**Examiner trap 31:** Open justice supports streaming, but privacy and fair-trial interests still govern exclusions.
+
+#### MCQ 32. e-Courts reform
+
+Which reform package best addresses Supreme Court access without technological overclaim?
+
+A. Only more livestream cameras.
+B. Only a higher sanctioned strength.
+C. Only compulsory virtual hearings.
+D. e-filing and hybrid access plus physical assistance, translation, legal aid, case management, cybersecurity and stronger High Courts.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: transparency alone does not solve filing, cost or delay.
+- **B:** Incorrect: judge numbers cannot by themselves repair procedure and lower-court capacity.
+- **C:** Incorrect: compulsory virtual access may exclude litigants with connectivity or disability barriers.
+- **D:** Correct: the combined institutional package addresses entry, processing, comprehension, security and apex overload.
+
+**Examiner trap 32:** Technology is an enabling layer, not a substitute for human assistance and institutional reform.
+
 
 ## PYQS AND ANSWER PRACTICE
 
-### 27. Answer-writing architecture
+### Answer-writing control
 
-**Visual 42 - Mandatory examiner-grade spine**
+| Marks | Maximum length | Minimum viable architecture |
+|---:|---:|---|
+| 10 | 150 words | thesis -> two mechanisms -> named evidence -> qualification -> verdict |
+| 15 | 250 words | boundary -> 4-5 dimensions -> authority -> counterpoint -> reform/verdict |
+| 20 | 250 words | constitutional map -> operation -> criticism -> reforms -> qualified conclusion |
 
-```text
-CLAIM
-answer the directive directly
-   |
-NAMED EVIDENCE
-Article / case / statute / dated official control
-   |
-ANALYSIS
-explain mechanism, consequence and significance
-   |
-QUALIFICATION
-counterpoint, institutional limit or status caution
-   |
-VERDICT
-graded answer to the exact demand
-```
+**Mandatory paragraph logic:** claim -> named evidence -> analysis -> qualification.
 
-#### Directive fidelity
-
-| Directive | Required operation | Common failure |
-|---|---|---|
-| Discuss | Cover major dimensions with balance | A case-law list |
-| Explain | Show how or why the mechanism works | Definitions without causation |
-| Comment | State and defend a compact judgment | Neutral description |
-| Justify | Establish the proposition, then set limits | One-sided praise |
-| Critically examine | Test advantages, defects and comparison | Separate unconnected pros/cons |
-| Evaluate | Apply criteria and give a degree-based verdict | No final judgment |
-
-#### Mark-scaled evidence load
-
-| Marks/words | Architecture | Named evidence target |
-|---:|---|---|
-| 10 / 150 | Thesis -> 2-3 mechanisms -> one qualification -> verdict | 2-3 precise Articles/cases |
-| 15 / 250 | Thesis -> 4-5 dimensions -> counterpoint -> reform/verdict | 4-6 named units |
-| 20 / 250 | Constitutional design -> doctrine -> consequences -> criticism -> reform -> graded verdict | 5-8 named units |
-
-#### Reusable answer spines
-
-- **Independence:** Articles 121/124/125/129/146 -> basic structure -> collegium -> accountability gap -> transparent independence.
-- **PIL/power:** relaxed locus -> epistolary route -> continuing mandamus -> Article 141/142 reach -> compliance/overreach limits.
-- **Collegium:** Article 124 text -> First/Second/Third Judges Cases -> NJAC -> opacity versus capture -> reform.
-- **Article 142:** text -> *Prem Chand Garg* -> *SCBA* -> useful remedy -> 2025 assent qualification -> supplement-not-supplant verdict.
-- **Environment:** Articles 21/48A/51A(g) -> case line -> continuing mandamus -> regulator dependence -> constitutionalisation verdict.
-- **Comparative:** shared function -> structural divergence -> consequence -> risk in each model -> no mechanical transplant.
-
-> **Workbook boundary:** This section contains solved PYQ demands, routed Prelims doctrine, original MCQs, remedial MCQs and solved Mains practice. The separate final register notes begin at the later H2 and are not part of the workbook.
-
-### Solved routed Mains PYQ demands
-
-> **Wording rule:** Neutral demand wording is used because the authoritative Core provides routes rather than verified verbatim stems. No unverified quotation is presented as exact UPSC wording.
+### Eight audited routed Mains PYQs with model answers
 
 #### PYQ-M1. 2020 GS-II Q4 - Convergence and divergence of Indian and UK judicial systems
 
@@ -2706,26 +3203,6 @@ graded answer to the exact demand
 
 **How to improve this answer:** In 150 words retain precedent, constitutional supremacy versus parliamentary sovereignty, one Human Rights Act qualification and the final contrast; omit institutional history.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M1. 2020 GS-II Q4 - Convergence and divergence of Indian and UK judicial systems”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M1. 2020 GS-II Q4 - Convergence and divergence of Indian and UK judicial systems”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M1. 2020 GS-II Q4 - Convergence and divergence of Indian and UK judicial systems **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Highlight key points” requires compact comparison, not two separate country descriptions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 150 words: use common method, constitutional divergence and one consequence. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: Indian and UK judicial systems share a common-law method but operate under opposite locations of legal sovereignty. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Analysis: Thus convergence lies in adjudicatory craft and rule-of-law control, while divergence lies in constitutional supremacy versus parliamentary sovereignty. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M1. 2020 GS-II Q4 - Convergence and divergence of Indian and UK judicial systems”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
 #### PYQ-M2. 2020 GS-II Q12 - Judicial legislation, separation of powers and public-interest petitions
 
 **Demand decoding**
@@ -2737,7 +3214,7 @@ graded answer to the exact demand
 
 **Claim:** Judicial legislation is justified in India when it temporarily fills a rights-threatening legal vacuum; it becomes illegitimate when it substitutes the Court for Parliament.
 
-**Named evidence:** Articles **32 and 226** empower constitutional remedies, while Article **141** gives binding force to law declared. Relaxed locus standi in ***S.P. Gupta* (1981)** allowed public-spirited litigants to represent those unable to approach courts. In ***Vishaka (1997) v. State of Rajasthan* (1997)**, the Supreme Court framed workplace-sexual-harassment guidelines from Articles 14, 15, 19 and 21 and CEDAW, expressly operating until legislation. Parliament's **2013 Act** then occupied the field. Continuing mandamus in ***Vineet Narain* (1998)** demonstrates how PIL can secure implementation.
+**Named evidence:** Articles **32 and 226** empower constitutional remedies, while Article **141** gives binding force to law declared. Relaxed locus standi in ***S.P. Gupta* (1981)** allowed public-spirited litigants to represent those unable to approach courts. In ***Vishaka v. State of Rajasthan* (1997)**, the Supreme Court framed workplace-sexual-harassment guidelines from Articles 14, 15, 19 and 21 and CEDAW, expressly operating until legislation. Parliament's **2013 Act** then occupied the field. Continuing mandamus in ***Vineet Narain* (1998)** demonstrates how PIL can secure implementation.
 
 **Analysis:** India's functional separation of powers permits limited overlap where judicial inaction would leave Fundamental Rights without remedy. PIL supplies access; Articles 141/142 supply effective relief.
 
@@ -2752,26 +3229,6 @@ graded answer to the exact demand
 **Why this earns marks:** It defines bounded judicial legislation, links PIL to the remedial mechanism and proves the limit through Vishaka (1997), the 2013 Act and SCBA.
 
 **How to improve this answer:** Compress around legal vacuum, Articles 32/141, Vishaka (1997) and SCBA; explicitly state that statutory enactment displaces the interim judicial norm.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M2. 2020 GS-II Q12 - Judicial legislation, separation of powers and public-interest…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M2. 2020 GS-II Q12 - Judicial legislation, separation of powers and public-interest petitions”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M2. 2020 GS-II Q12 - Judicial legislation, separation of powers and public-interest petitions **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Justify” requires a defence of bounded gap-filling, followed by the constitutional limit. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 250 words: define judicial legislation, explain PIL as vehicle, use at least four named anchors. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: Judicial legislation is justified in India when it temporarily fills a rights-threatening legal vacuum; it becomes illegitimate when it substitutes the Court for Parliament. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Analysis: India's functional separation of powers permits limited overlap where judicial inaction would leave Fundamental Rights without remedy. PIL supplies access; Articles 141/142 supply effective relief. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M2. 2020 GS-II Q12 - Judicial legislation, separation of powers and public-interest petitions”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### PYQ-M3. 2021 GS-II Q2 - Desirability of greater representation of women in the higher judiciary
 
@@ -2800,26 +3257,6 @@ graded answer to the exact demand
 
 **How to improve this answer:** For 150 words retain Articles 14-16, Fathima Beevi, pipeline inequality and transparent diversity-aware criteria; avoid undated percentages.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M3. 2021 GS-II Q2 - Desirability of greater representation of women in the higher…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M3. 2021 GS-II Q2 - Desirability of greater representation of women in the higher judiciary”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M3. 2021 GS-II Q2 - Desirability of greater representation of women in the higher judiciary **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Discuss desirability” requires reasons, constraints and a non-tokenistic route. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 150 words: equality anchor, legitimacy analysis, pipeline qualification. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: Greater representation of women in the higher judiciary is desirable because equality in public institutions strengthens both adjudicatory perspective and democratic legitimacy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Analysis: “Merit” is produced through access to briefs, senior designation, leadership and visibility. If those pipelines are unequal, formally neutral appointment may reproduce exclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M3. 2021 GS-II Q2 - Desirability of greater representation of women in the higher judiciary”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
 #### PYQ-M4. 2022 GS-II Q1 - Constitutionalisation of environmental problems by the Supreme Court
 
 **Demand decoding**
@@ -2846,26 +3283,6 @@ graded answer to the exact demand
 **Why this earns marks:** Every environmental case is tied to a doctrine, followed by regulator dependence and an institutional-restraint verdict.
 
 **How to improve this answer:** Keep Article 21 with Articles 48A/51A(g), three doctrine-case pairs and the regulator limit; cut the longer case catalogue first.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M4. 2022 GS-II Q1 - Constitutionalisation of environmental problems by the Supreme Court”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M4. 2022 GS-II Q1 - Constitutionalisation of environmental problems by the Supreme Court”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M4. 2022 GS-II Q1 - Constitutionalisation of environmental problems by the Supreme Court **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Discuss with case laws” makes cases the analytical evidence, not decorative names. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 150 words: constitutional text, three doctrinal innovations, implementation limit. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: The Supreme Court constitutionalised environmental problems by converting ecological welfare from a policy objective into an enforceable dimension of life and dignity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Analysis: Rights language enabled standing, judicial review and effective remedies where regulatory failure threatened health and livelihood. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M4. 2022 GS-II Q1 - Constitutionalisation of environmental problems by the Supreme Court”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### PYQ-M5. 2023 GS-II Q1 - Judicial independence as a prerequisite of democracy
 
@@ -2894,26 +3311,6 @@ graded answer to the exact demand
 
 **How to improve this answer:** Use Article 32, Article 124(4), Article 121 and the NJAC/basic-structure anchor; add one sentence distinguishing decisional independence from institutional opacity.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M5. 2023 GS-II Q1 - Judicial independence as a prerequisite of democracy”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M5. 2023 GS-II Q1 - Judicial independence as a prerequisite of democracy”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M5. 2023 GS-II Q1 - Judicial independence as a prerequisite of democracy **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Comment” requires a clear judgment on necessity, then a qualification. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 150 words: explain democratic function, safeguards and accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: Judicial independence is a necessary, though not sufficient, condition of constitutional democracy because rights and limits are meaningful only when adjudicated without political fear. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Analysis: These safeguards preserve electoral competition, minority rights, federal balance and legality of government. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M5. 2023 GS-II Q1 - Judicial independence as a prerequisite of democracy”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
 #### PYQ-M6. 2024 GS-II Q14 - Growth of PIL and emergence of a powerful Supreme Court
 
 **Demand decoding**
@@ -2941,26 +3338,6 @@ graded answer to the exact demand
 
 **How to improve this answer:** In 250 words use two short subheadings—growth and power—then retain Article 144 dependence and an administrable-remedy conclusion.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M6. 2024 GS-II Q14 - Growth of PIL and emergence of a powerful Supreme Court”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M6. 2024 GS-II Q14 - Growth of PIL and emergence of a powerful Supreme Court”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M6. 2024 GS-II Q14 - Growth of PIL and emergence of a powerful Supreme Court **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Explain reasons” and assess power: separate causes of PIL growth from the power verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 250 words: origins, remedial instruments, examples, counter-power and qualified judgment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: PIL transformed the Supreme Court into one of the world's most powerful constitutional courts, but the power remains legally bounded and operationally dependent. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: PIL made the Court unusually powerful in rights access and remedy, not sovereign. Its legitimacy depends on evidence, administrable relief, institutional competence and an exit from governance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M6. 2024 GS-II Q14 - Growth of PIL and emergence of a powerful Supreme Court”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
 #### PYQ-M7. 2025 GS-II Q11 - Constitutional morality, judicial independence and accountability
 
 **Demand decoding**
@@ -2987,26 +3364,6 @@ graded answer to the exact demand
 **Why this earns marks:** The abstract idea of constitutional morality is operationalised through safeguards, ethical process and the gap between in-house correction and removal.
 
 **How to improve this answer:** Retain a one-line definition, three independence safeguards, three accountability practices and the warning against executive intimidation; drop peripheral case names if compressed.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M7. 2025 GS-II Q11 - Constitutional morality, judicial independence and accountability”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M7. 2025 GS-II Q11 - Constitutional morality, judicial independence and accountability”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ-M7. 2025 GS-II Q11 - Constitutional morality, judicial independence and accountability **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Explain” requires defining constitutional morality and applying it to both independence and accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 250 words: values, safeguards, accountability gap and synthesis. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: Constitutional morality reconciles judicial independence and accountability by demanding fidelity to constitutional role rather than loyalty to either government or corporate judicial interest. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Constitutional morality means independence in what a judge decides and accountability in how judicial office is constituted and exercised. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M7. 2025 GS-II Q11 - Constitutional morality, judicial independence and accountability”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### PYQ-M8. 2025 GS-II Q13 - Collegium evolution and India-USA appointment systems
 
@@ -3037,361 +3394,171 @@ graded answer to the exact demand
 
 **How to improve this answer:** Use a four-stage Judges Cases timeline and a two-column trade-off; preserve the non-transplant qualification and prioritise secretariat, criteria and reasoned resolutions.
 
-### Routed Prelims demand laboratory
+### Seven audited routed Prelims PYQs
 
-> **Provenance:** The six 2019-2022 demands come from the audited local 2018-2023 routing ledger; official keys were unavailable locally. The 2024 Q83 official Set-A key exists locally, but its answer was not recorded in the Core. No option letter is invented below.
+[FACT] Numbering and neutral demands follow the repository's audited local official-paper routing ledgers. A letter is printed only where the final local official Set-A key is held.
 
-| Year/Q | Routed demand | Doctrinal resolution | Provenance/limit |
-|---|---|---|---|
-| 2019 Q46 | Removal of Supreme Court judges | Article 124(4): proved misbehaviour/incapacity; presidential order after special-majority address by each House. Judges (Inquiry) Act notice: 100 LS or 50 RS; three-member inquiry. Constitution says removal, not impeachment. No SC judge removed. | Official key unavailable locally; resolve statements doctrinally. |
-| 2019 Q52 | Article 142 and constitutional authority | Complete justice in a cause; supplementary, not supplanting. Cannot violate FRs (*Prem Chand Garg*) or displace substantive law (*SCBA*). 2025 assent opinion rejects deemed assent/rigid timelines. | Official key unavailable locally; later doctrine added with date and narrow scope. |
-| 2019 Q81 | High Court jurisdiction and Supreme Court review | Article 226 is wider in purpose because it reaches FRs and other legal rights; Article 32 is itself an FR but limited to FR enforcement. Tribunal decisions remain under HC review after *L. Chandra Kumar (1997)*. | Official key unavailable locally; “wider” means purpose, not national reach. |
-| 2021 Q88 | Retired SC judges and HC powers | Article 128 lets CJI, with President's prior consent and the person's consent, request a retired SC judge or qualified retired HC judge to sit in SC. Article 224A governs retired HC judges. Article 124(7) bars former SC judges from pleading/acting before any court or authority. | Official key unavailable locally; distinguish sitting from post-retirement practice. |
-| 2022 Q11 | Contempt of Courts Act and constitutional courts | Articles 129/215 confer inherent constitutional contempt power; the 1971 Act regulates but cannot curtail it. Civil/criminal contempt are distinct; bona fide public-interest truth defence is recognised. | Official key unavailable locally; statute does not create the entire power. |
-| 2022 Q12 | Advocates and Bar Council powers | BCI is statutory under Advocates Act, 1961; State Bar Councils enrol; BCI regulates professional conduct/legal education and statutory disciplinary appeals. Court rules regulate practice. | Official key unavailable locally; not a constitutional body. |
-| 2024 Q83 | Writ of Prohibition | Issued by SC/HC to a lower court or tribunal to stop proceedings without/in excess of jurisdiction; preventive, before decision. Certiorari quashes a completed order. Prohibition is not directed to a legislature or purely private body. | Official Set-A key exists locally, answer not recorded; no option letter inferred. |
+#### PYQ-P1. 2019 Prelims — routed question 46
 
-### Original solved Mains practice
+**Verified demand:** Removal of Supreme Court judges.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ-M8. 2025 GS-II Q13 - Collegium evolution and India-USA appointment systems”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**Answer withheld pending official UPSC key.**
 
-**Detailed examiner-grade model answer:**
+**Answer route:** Article 124(4) requires proved misbehaviour or incapacity, a special-majority address in each House and a presidential order; the Judges (Inquiry) Act route begins with 100 Lok Sabha or 50 Rajya Sabha members.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ-M8. 2025 GS-II Q13 - Collegium evolution and India-USA appointment systems”.
+#### PYQ-P2. 2019 Prelims — routed question 52
 
-**Analytical body:**
+**Verified demand:** Article 142 and constitutional authority.
 
-1. **Claim and named evidence:** PYQ-M8. 2025 GS-II Q13 - Collegium evolution and India-USA appointment systems **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Critically examine” requires evolution, comparative advantages/disadvantages and a reform verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** marks 250 words: do not narrate the Judges Cases without comparison. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Claim: India secures judicial insulation at the cost of transparency, while the USA secures visible inter-branch accountability at the cost of partisan politicisation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** India analysis: Judicial primacy limits executive capture and protects basic structure, but opaque criteria, no confirmation hearing, delay and perceived favouritism weaken legitimacy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Answer withheld pending official UPSC key.**
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Answer route:** Article 142 supplies complete justice in a pending cause, but Prem Chand Garg, A.R. Antulay and Supreme Court Bar Association prevent its use against Fundamental Rights, jurisdictional fairness or substantive law.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ-M8. 2025 GS-II Q13 - Collegium evolution and India-USA appointment systems”.
+#### PYQ-P3. 2019 Prelims — routed question 81
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Verified demand:** High Court jurisdiction and Supreme Court review.
 
-#### M1. Explain how Article 131 makes the Supreme Court a federal umpire while preserving limits on judicial intervention. (10 marks, 150 words)
+**Answer withheld pending official UPSC key.**
 
-**Demand decoding:** “Explain how” requires the party structure, legal-right test, exclusions and institutional purpose.
+**Answer route:** Article 226 is wider in purpose because it reaches Fundamental Rights and other legal rights; Article 32 is itself a Fundamental Right and remains nationally available for Fundamental Rights.
 
-**Evidence chain:** Article 131 parties -> legal-right requirement -> exclusive original jurisdiction -> Article 262 water-dispute qualification -> federal verdict.
+#### PYQ-P4. 2021 Prelims — routed question 88
 
-**Model solution**
+**Verified demand:** Retired Supreme Court judges and High Court powers.
 
-**Claim:** Article 131 converts the Supreme Court into a neutral federal umpire, but only for defined legal disputes between constitutional governments.
+**Answer withheld pending official UPSC key.**
 
-**Named evidence:** It grants exclusive original jurisdiction where the **Union and one or more States**, opposing Union-State groupings, or **two or more States** dispute the existence or extent of a legal right. A private party therefore cannot create Article 131 jurisdiction merely by joining a State. The pre-Constitution treaty/covenant exception and Parliament's power under **Article 262** to exclude inter-State water disputes preserve specialised constitutional arrangements.
+**Answer route:** Article 128 permits a consent-based retired-judge sitting in the Supreme Court; Article 224A is the High Court counterpart; Article 124(7) separately bars former Supreme Court judges from pleading or acting.
 
-**Analysis:** Direct apex adjudication prevents a State from being forced into another State's courts and protects the legal distribution of federal power.
+#### PYQ-P5. 2022 Prelims — routed question 11
 
-**Qualification:** The Court is not a political mediator. Abstract political disagreement, policy dissatisfaction or a dispute without a legal-right issue falls outside Article 131.
+**Verified demand:** Contempt of Courts Act and constitutional court powers.
 
-**Verdict:** Article 131 secures judicial federalism through a narrow legal gateway: authoritative enough to settle Union-State conflict, disciplined enough to avoid governing politics.
+**Answer withheld pending official UPSC key.**
 
-**Examiner comment:** Strong because it links parties, subject matter and exclusions to the reason for exclusive original jurisdiction.
+**Answer route:** Articles 129 and 215 are constitutional sources; the 1971 Act defines and regulates contempt but cannot extinguish the inherent constitutional power.
 
-**Mark/word discipline:** 10 marks; 145-155 words; 3 Article-level units and one limit.
+#### PYQ-P6. 2022 Prelims — routed question 12
 
-**Why this earns marks:** The answer defines Article 131 through parties, legal-right content and exclusions, then explains why the narrow gateway serves federalism.
+**Verified demand:** Advocates and Bar Council powers.
 
-**How to improve this answer:** Draw the three eligible party combinations, add the legal-right test and Article 262 qualification, and avoid calling the Court a political mediator.
+**Answer withheld pending official UPSC key.**
 
-**Detailed examiner-grade model answer:**
+**Answer route:** The Bar Council of India is statutory under the Advocates Act, 1961; State Bar Councils enrol advocates, while Court rules separately regulate Supreme Court practice.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M1. Explain how Article 131 makes the Supreme Court a federal umpire while preserving limits on judicial intervention. (10 marks, 150 words)”.
+#### PYQ-P7. 2024 Prelims — routed question 83
 
-**Analytical body:**
+**Verified demand:** Writ of Prohibition.
 
-1. **Claim and named evidence:** M1. Explain how Article 131 makes the Supreme Court a federal umpire while preserving limits on judicial intervention. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Evidence chain: Article 131 parties -> legal-right requirement -> exclusive original jurisdiction -> Article 262 water-dispute qualification -> federal verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: Article 131 converts the Supreme Court into a neutral federal umpire, but only for defined legal disputes between constitutional governments. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Analysis: Direct apex adjudication prevents a State from being forced into another State's courts and protects the legal distribution of federal power. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualification: The Court is not a political mediator. Abstract political disagreement, policy dissatisfaction or a dispute without a legal-right issue falls outside Article 131. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Official Set-A answer: C.**
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Answer route:** Prohibition prevents a lower court or tribunal from continuing without or beyond jurisdiction; certiorari ordinarily quashes a completed decision.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “M1. Explain how Article 131 makes the Supreme Court a federal umpire while preserving limits on judicial intervention. (10 marks, 150 words)”.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+### Exactly six original Mains questions with model answers
 
-#### M2. The contempt power protects justice, not judges from criticism. Discuss. (10 marks, 150 words)
+#### Original Q1 — 10 marks, 150 words
 
-**Demand decoding:** “Discuss” requires constitutional purpose, statutory regulation, free-expression concern and a calibrated conclusion.
+Explain how Article 131 makes the Supreme Court a federal umpire while preserving jurisdictional limits.
 
-**Evidence chain:** Article 129 -> Contempt of Courts Act, 1971 -> civil/criminal distinction -> truth/fair criticism -> proportionality verdict.
+**Model answer**
 
-**Model solution**
+**Claim:** Article 131 makes the Supreme Court a neutral federal umpire through a narrow legal gateway.
 
-**Claim:** Contempt is legitimate as a shield for adjudication and compliance, not as a personal shield against scrutiny of judges.
+**Named evidence:** It grants exclusive original jurisdiction when the Union and one or more States, opposing Union-State groupings, or two or more States dispute the existence or extent of a legal right. The proviso preserves exclusions linked to specified pre-Constitution instruments, while Article 262 legislation may exclude inter-State water disputes.
 
-**Named evidence:** **Article 129** makes the Supreme Court a court of record with constitutional contempt power. The **Contempt of Courts Act, 1971** regulates civil contempt, such as wilful disobedience, and criminal contempt affecting the administration of justice. Its framework recognises bona fide public-interest truth as a possible defence.
+**Analysis:** Direct apex adjudication prevents one constituent government from being forced into another's ordinary courts and authoritatively protects the federal distribution of power.
 
-**Analysis:** Courts lack an independent enforcement service; deliberate obstruction, intimidation of participants or defiance of orders can destroy the rule of law. Yet public reasoning also makes judicial institutions answerable to criticism.
+**Qualification:** A private party, policy disagreement or political grievance without a legal-right issue does not become an Article 131 dispute.
 
-**Qualification:** The statute cannot cut down the constitutional power, but Article 19 values require necessity and proportionality. Incorrect, sharp or unpopular criticism is not automatically an interference with justice.
+**Verdict:** The provision is powerful because it is bounded: it judicialises genuine federal legality without converting the Court into a general political mediator.
 
-**Verdict:** Contempt should be used narrowly against real obstruction, preserving both judicial authority and democratic examination of judicial conduct.
+#### Original Q2 — 10 marks, 150 words
 
-**Examiner comment:** The answer separates institution-protection from reputation-protection and avoids treating statutory power as the source of Article 129.
+How do Article 141 and bench-strength discipline promote legal certainty without freezing constitutional interpretation?
 
-**Mark/word discipline:** 10 marks; target 145-155 words; one Article, one Act, two purposes and one speech qualification.
+**Model answer**
 
-**Why this earns marks:** It distinguishes the institutional purpose of contempt from personal insulation, integrates statute and free speech, and gives a proportionality-based conclusion.
+**Claim:** Article 141 creates national legal coherence by binding all courts to the law declared by the Supreme Court.
 
-**How to improve this answer:** Retain Article 129, civil/criminal distinction, truth or fair-criticism protection and one misuse warning; do not imply criticism is immune when it obstructs justice.
+**Named evidence:** The binding element is the ratio decidendi, not every factual remark or obiter observation. Judicial discipline requires a smaller bench to follow a larger bench; a coordinate bench that doubts precedent should seek reference rather than overrule it.
 
-**Detailed examiner-grade model answer:**
+**Analysis:** This hierarchy allows citizens and institutions to plan around stable rules while preventing fragmented constitutional meanings across an integrated judiciary.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M2. The contempt power protects justice, not judges from criticism. Discuss. (10 marks, 150 words)”.
+**Qualification:** The Supreme Court is not absolutely bound by its own precedent: review, curative safeguards and a properly constituted larger bench permit principled correction.
 
-**Analytical body:**
+**Verdict:** Article 141 therefore balances certainty with learning—precedent governs until an institutionally competent bench changes the law through reasons.
 
-1. **Claim and named evidence:** M2. The contempt power protects justice, not judges from criticism. Discuss. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Evidence chain: Article 129 -> Contempt of Courts Act, 1971 -> civil/criminal distinction -> truth/fair criticism -> proportionality verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: Contempt is legitimate as a shield for adjudication and compliance, not as a personal shield against scrutiny of judges. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: The statute cannot cut down the constitutional power, but Article 19 values require necessity and proportionality. Incorrect, sharp or unpopular criticism is not automatically an interference with justice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Contempt should be used narrowly against real obstruction, preserving both judicial authority and democratic examination of judicial conduct. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+#### Original Q3 — 15 marks, 250 words
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+The collegium protects judicial independence but suffers an accountability deficit. Critically examine.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “M2. The contempt power protects justice, not judges from criticism. Discuss. (10 marks, 150 words)”.
+**Model answer**
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Claim:** The collegium secures decisional insulation, but its legitimacy weakens when selection criteria and responsibility remain opaque.
 
-#### M3. Article 32 is the guaranteed constitutional remedy, yet Article 226 is the wider practical rights jurisdiction. Analyse. (15 marks, 250 words)
+**Named evidence:** Article 124 originally used consultation. *S.P. Gupta* (1981) favoured executive primacy; *Supreme Court Advocates-on-Record Association* (1993) created judicial primacy; the 1998 Presidential Reference required the CJI plus four senior-most judges for Supreme Court appointments. The 99th Amendment and NJAC Act, 2014 were invalidated in 2015 because the enacted design impaired judicial independence, a basic-structure value.
 
-**Demand decoding:** “Analyse” requires resolving the apparent paradox through nature, purpose, reach, discretion and institutional role.
+**Analysis:** Judicial control reduces the danger that the government rewards compliant judges. Collegial consultation also pools professional knowledge. However, unpublished or thinly reasoned criteria, weak diversity disclosure, delay and perceived favouritism reduce public confidence and blur responsibility between Court and executive.
 
-**Evidence chain:** Article 32 as FR -> Article 226 “any other purpose” -> writ distinctions -> *L. Chandra Kumar (1997)* -> access and alternate-remedy qualification.
+**Qualification:** The NJAC ruling did not prohibit every commission model, and criticism of opacity does not justify executive primacy.
 
-**Model solution**
+**Reform:** Retain judicial primacy while creating a permanent secretariat, published eligibility and diversity criteria, reasoned resolutions with privacy redactions, fixed processing stages and transparent vacancy data.
 
-**Claim:** Article 32 is stronger as a guaranteed Fundamental Right, while Article 226 is wider in subject matter and usually closer to the citizen.
+**Verdict:** The constitutional objective is accountable independence: insulation in the decision, transparency in the process.
 
-**Named evidence:** Article **32** guarantees movement of the Supreme Court for enforcement of Fundamental Rights and authorises directions, orders and the five writs. Ambedkar called it the Constitution's “heart and soul”. Article **226** empowers High Courts to enforce Fundamental Rights **and any other legal right or public duty**. Its territorial design is extended by cause-of-action rules, while Article 32 has national reach.
+#### Original Q4 — 15 marks, 250 words
 
-**Analysis:** The two provisions divide constitutional labour. Article 32 preserves an apex guarantee against rights failure; Article 226 handles both rights and ordinary public-law illegality within the States. Habeas corpus, mandamus, prohibition, certiorari and quo warranto tailor relief to detention, duty, jurisdiction and public office.
+Article 142 is indispensable for complete justice but dangerous when detached from law. Critically examine.
 
-**Judicial evidence:** ***L. Chandra Kumar (1997)*** treats review under Articles 32 and 226/227 as basic structure and keeps tribunal decisions under High Court scrutiny.
+**Model answer**
 
-**Qualification:** Article 226 is discretionary and usually respects adequate alternative remedies, subject to rights, natural-justice and jurisdictional exceptions. Article 32 also requires an actual Fundamental Right claim and is not a general appeal.
+**Claim:** Article 142 is a remedial power for complete justice in a cause or matter, not a parallel legislative competence.
 
-**Verdict:** Article 32 constitutionalises the right to a remedy; Article 226 makes constitutional justice broad, local and operational.
+**Named evidence:** It allows the Supreme Court to tailor relief where ordinary remedies would leave injustice unresolved. Yet *Prem Chand Garg* (1963) requires consistency with Fundamental Rights. *A.R. Antulay* (1988) shows that complete justice cannot sustain an order that causes jurisdictional unfairness. *Supreme Court Bar Association* (1998) states the controlling formula: Article 142 supplements existing law but cannot supplant substantive law. The 20 November 2025 Article 143 assent opinion rejected rigid judicial timelines and deemed assent under Article 142, while leaving prolonged unexplained inaction reviewable.
 
-**Examiner comment:** The answer explains “guaranteed” versus “wider” instead of ranking the courts simplistically.
+**Analysis:** Flexibility is valuable in complex litigation, restitution and institutional deadlock. But an unbounded equity claim would make outcomes bench-dependent and disturb separation of powers.
 
-**Mark/word discipline:** 15 marks; target 230-250 words; 5 comparative axes, five-writ reference and one case.
+**Qualification:** The 2025 opinion is advisory and issue-specific; it did not generally curtail Article 142 or overrule the April 2025 Tamil Nadu judgment.
 
-**Why this earns marks:** The answer accurately separates Article 32’s guaranteed status from Article 226’s wider purpose and converts that distinction into an access-to-justice analysis.
+**Verdict:** Article 142 remains legitimate when relief is case-linked, rights-consistent, reasoned and supplementary to law.
 
-**How to improve this answer:** Use a compact comparison table covering right, purpose, territorial nexus and discretion; conclude that wider does not mean hierarchically superior.
+#### Original Q5 — 20 marks, 250 words
 
-**Detailed examiner-grade model answer:**
+Has PIL made the Supreme Court excessively powerful? Analyse through access, remedies and separation of powers.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M3. Article 32 is the guaranteed constitutional remedy, yet Article 226 is the wider practical rights jurisdiction. Analyse. (15 marks, 250 words)”.
+**Model answer**
 
-**Analytical body:**
+**Claim:** PIL made the Supreme Court unusually accessible and remedially powerful, but “excessive” depends on whether rights enforcement remains distinct from governance.
 
-1. **Claim and named evidence:** M3. Article 32 is the guaranteed constitutional remedy, yet Article 226 is the wider practical rights jurisdiction. Analyse. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Evidence chain: Article 32 as FR -> Article 226 “any other purpose” -> writ distinctions -> L. Chandra Kumar (1997) -> access and alternate-remedy qualification. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: Article 32 is stronger as a guaranteed Fundamental Right, while Article 226 is wider in subject matter and usually closer to the citizen. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Judicial evidence: L. Chandra Kumar (1997) treats review under Articles 32 and 226/227 as basic structure and keeps tribunal decisions under High Court scrutiny. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Article 32 constitutionalises the right to a remedy; Article 226 makes constitutional justice broad, local and operational. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Named evidence:** *Hussainara Khatoon* (1979) connected Article 21 with speedy trial. *S.P. Gupta* (1981) widened representative standing for those unable to approach courts. Epistolary jurisdiction reduced formality, while *Vineet Narain* (1998) illustrates continuing mandamus. Article 141 gives declared law national reach and Article 142 enables complete justice.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Analysis:** These tools opened constitutional courts to bonded labourers, under-trials and environmentally affected groups; they also enabled monitoring where executive inertia made a one-time order ineffective. The same design can overload the docket, reward publicity litigation and turn judges into continuing administrators lacking budgetary or technical capacity.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “M3. Article 32 is the guaranteed constitutional remedy, yet Article 226 is the wider practical rights jurisdiction. Analyse. (15 marks, 250 words)”.
+**Named boundary:** *Vishaka* (1997) is defensible gap filling because its workplace safeguards were rights-based, temporary and superseded by the 2013 statute. Article 142 remains supplementary, not supplanting.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Qualification:** The Court has neither purse nor sword and depends on executive compliance; High Courts under Article 226 remain central to access.
 
-#### M4. Article 142 is indispensable for complete justice but dangerous when detached from law. Critically examine. (15 marks, 250 words)
+**Verdict:** PIL created a powerful constitutional court, not an unlimited one. Bona fide standing, evidence, administrability, sunset points and deference outside rights-threatening vacuums preserve legitimacy.
 
-**Demand decoding:** “Critically examine” requires utility, hard legal limits, current control and a reasoned threshold for use.
+#### Original Q6 — 20 marks, 250 words
 
-**Evidence chain:** Article 142 text -> remedial utility -> *Prem Chand Garg* -> *SCBA* -> 2025 assent opinion -> bounded verdict.
+Judicial independence is a prerequisite of democracy, but accountability and access determine its legitimacy. Evaluate and suggest reforms.
 
-**Model solution**
+**Model answer**
 
-**Claim:** Article 142 is indispensable because general law cannot anticipate every remedial gap, but its legitimacy depends on remaining supplementary to constitutional and substantive law.
+**Claim:** Judicial independence is necessary because only an insulated court can enforce rights, review power and umpire federal conflict; it is insufficient unless institutional conduct is accountable and remedies are accessible.
 
-**Utility:** The provision lets the Supreme Court make orders necessary for “complete justice” in a cause before it. It can settle complex multi-party disputes, prevent procedural failure and fashion transitional relief where ordinary remedies would leave proven rights ineffective. Article **144** then requires authorities to aid implementation.
+**Named evidence:** Articles 121, 124 and 125 protect conduct discussion, tenure and service conditions; Articles 129 and 146 protect authority and administration; Article 50 directs separation. *Kesavananda Bharati* (1973) preserves constitutional supremacy, and the NJAC judgment (2015) treats judicial independence as basic structure.
 
-**Hard limits:** In ***Prem Chand Garg v. Excise Commissioner* (1963)**, the Court held that Article 142 cannot operate contrary to Fundamental Rights. In ***Supreme Court Bar Association (1998) v. Union of India* (1998)**, it described the power as supplementary and refused to let it supplant substantive law governing professional discipline.
+**Analysis:** These safeguards reduce retaliation by political branches. Yet the extreme Article 124(4) removal threshold leaves a gap below removal. The 1997 Restatement, 1999 in-house procedure, recusals, asset disclosure and collegium resolutions are important but largely non-statutory or unevenly reasoned. Pendency, cost, language and digital exclusion can make formal independence irrelevant to ordinary litigants.
 
-**Current qualification:** The **20 November 2025 Article 143 opinion, 2025 INSC 1333**, rejected rigid assent timelines and deemed assent through Article 142 while retaining review of prolonged unexplained inaction. Being advisory, it did not overrule the April 2025 judgment and should not be generalised.
+**Qualification:** External control may become political pressure; complete self-regulation may become opacity.
 
-**Risk:** Vague equity can become policy-making, reduce predictability and bypass institutions with evidence and democratic competence.
+**Reforms:** Establish a permanent appointments secretariat, published criteria, reasoned recusal practice, fair graded complaints procedure, timely vacancy processing, stronger High Courts and legal aid, disciplined SLP admission, case-flow management, translation, accessible e-filing and privacy-secure hybrid hearings.
 
-**Verdict:** Use Article 142 to complete lawful adjudication, never to create freestanding jurisdiction or an alternative legal code.
+**Verdict:** Democracy needs independent decisions, accountable process and practical access—the three are complements, not rivals.
 
-**Examiner comment:** The answer uses the exact “supplement, not supplant” boundary and treats the 2025 opinion narrowly.
-
-**Mark/word discipline:** 15 marks; target 230-250 words; 2 benefits, 3 limits and one current control.
-
-**Why this earns marks:** It treats Article 142 as remedial power, anchors both constitutional and statutory limits, and gives a calibrated complete-justice test.
-
-**How to improve this answer:** Keep cause-or-matter nexus, Prem Chand Garg and SCBA; remove illustrative uses before removing the two hard limits.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M4. Article 142 is indispensable for complete justice but dangerous when detached from law. Critically examine. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M4. Article 142 is indispensable for complete justice but dangerous when detached from law. Critically examine. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Evidence chain: Article 142 text -> remedial utility -> Prem Chand Garg -> SCBA -> 2025 assent opinion -> bounded verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: Article 142 is indispensable because general law cannot anticipate every remedial gap, but its legitimacy depends on remaining supplementary to constitutional and substantive law. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Risk: Vague equity can become policy-making, reduce predictability and bypass institutions with evidence and democratic competence. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Use Article 142 to complete lawful adjudication, never to create freestanding jurisdiction or an alternative legal code. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M4. Article 142 is indispensable for complete justice but dangerous when detached from law. Critically examine. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M5. Retired judges can add capacity and expertise, but post-retirement deployment can affect perceptions of independence. Examine. (15 marks, 250 words)
-
-**Demand decoding:** “Examine” requires distinguishing Article 128 sitting from other appointments, then balancing capacity against incentives.
-
-**Evidence chain:** Articles 126-128 continuity -> Article 124(7) practice bar -> capacity benefit -> perception risk -> design reforms.
-
-**Model solution**
-
-**Claim:** Retired-judge deployment is constitutionally useful when it fills a defined adjudicatory need, but opaque post-retirement appointments can create an appearance of future reward.
-
-**Named evidence:** Article **128** permits the CJI, with the President's prior consent and the retired judge's consent, to request a retired Supreme Court judge or a qualified retired High Court judge to sit and act in the Supreme Court. Article **127** separately provides ad hoc judges, while Article **126** provides an acting CJI. Article **124(7)** bars a former Supreme Court judge from pleading or acting before any court or authority in India.
-
-**Analysis:** A retired judge can add subject expertise, bench strength and continuity without lowering qualifications. The constitutional request-and-consent design preserves formal safeguards.
-
-**Qualification:** Article 124(7) does not prohibit every tribunal, commission, arbitration or public role. However, appointments controlled by a frequent litigant immediately after retirement may create a perception that future office influenced present adjudication. Retired deployment cannot replace regular vacancies.
-
-**Reform:** Use transparent eligibility, cooling-off where appropriate, independent selection, fixed terms and published reasons; reserve Article 128 for genuine judicial need.
-
-**Verdict:** Expertise is valuable, but independence includes public confidence that office is neither retrospective reward nor prospective inducement.
-
-**Examiner comment:** The answer distinguishes constitutional sitting from the wider post-retirement debate and proposes proportionate safeguards.
-
-**Mark/word discipline:** 15 marks; target 230-250 words; 4 Articles, 2 benefits, 3 risks and 4 reforms.
-
-**Why this earns marks:** The answer distinguishes Articles 128 and 124(7), identifies capacity gains and addresses independence risks without inventing a total post-retirement ban.
-
-**How to improve this answer:** Retain consent requirements, the practice bar and two safeguards—cooling-off and transparent selection; distinguish judicial sitting from executive appointment.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M5. Retired judges can add capacity and expertise, but post-retirement deployment can affect perceptions of independence. Examine. (15 marks, 250…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M5. Retired judges can add capacity and expertise, but post-retirement deployment can affect perceptions of independence. Examine. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Evidence chain: Articles 126-128 continuity -> Article 124(7) practice bar -> capacity benefit -> perception risk -> design reforms. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: Retired-judge deployment is constitutionally useful when it fills a defined adjudicatory need, but opaque post-retirement appointments can create an appearance of future reward. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Analysis: A retired judge can add subject expertise, bench strength and continuity without lowering qualifications. The constitutional request-and-consent design preserves formal safeguards. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Reform: Use transparent eligibility, cooling-off where appropriate, independent selection, fixed terms and published reasons; reserve Article 128 for genuine judicial need. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M5. Retired judges can add capacity and expertise, but post-retirement deployment can affect perceptions of independence. Examine. (15 marks, 250…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M6. Judicial review preserves constitutional supremacy, but its legitimacy depends on doctrinal and institutional restraint. Evaluate with reference to amendments, the Ninth Schedule and tribunals. (20 marks, 250 words)
-
-**Demand decoding:** “Evaluate” requires three doctrinal applications, criticism, limiting principles and a degree-based judgment.
-
-**Evidence chain:** ordinary-law review -> *Kesavananda Bharati (1973)/Minerva* -> *Waman Rao/Coelho* -> *L. Chandra Kumar (1997)/Madras Bar Association* -> legitimacy controls.
-
-**Model solution**
-
-**Claim:** Judicial review is the enforcement mechanism of constitutional supremacy, but it remains legitimate only when the Court identifies a constitutional standard rather than replacing policy choice with preference.
-
-**Amendments:** ***Kesavananda Bharati (1973)*** permits wide Article 368 amendment but bars damage or destruction of basic structure. ***Minerva Mills (1980)*** protects limited amending power, judicial review and the Fundamental Rights-Directive Principles balance. This prevents an elected super-majority from abolishing future democracy or independent adjudication.
-
-**Ninth Schedule:** ***Waman Rao*** uses **24 April 1973** as the cut-off. ***I.R. Coelho (2007)*** asks whether a later insertion's impact on Part III damages an underlying basic feature. Reviewability is not automatic invalidity.
-
-**Tribunals:** ***L. Chandra Kumar (1997)*** preserves Articles 226/227 and 32 review, making tribunals supplementary. The ***Madras Bar Association*** line tests whether appointments and tenure preserve separation of powers where judicial work is transferred.
-
-**Criticism:** Basic structure is not textually enumerated; open-ended review may become counter-majoritarian or uncertain. Tribunal review can add appellate delay.
-
-**Qualification:** Ordinary laws must be tied to competence, Part III or another express constitutional provision; courts should demand a clear constitutional hook, exact ratio and proportionate remedy.
-
-**Verdict:** Review is indispensable, not supreme: its legitimacy rises when doctrine is text-linked, bench-disciplined and institutionally modest.
-
-**Examiner comment:** The answer evaluates one principle across three fields and supplies limiting rules instead of a generic overreach paragraph.
-
-**Mark/word discipline:** 20 marks; target 245-260 words; 7 named cases/provisions, 3 applications and 3 legitimacy controls.
-
-**Why this earns marks:** It integrates amendment review, Ninth Schedule impact review and tribunal supervision into one constitutional-supremacy argument with restraint.
-
-**How to improve this answer:** Organise by three review objects—amendments, immunised laws and tribunal decisions—then attach one case and one precise limit to each.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M6. Judicial review preserves constitutional supremacy, but its legitimacy depends on doctrinal and institutional restraint. Evaluate with reference…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M6. Judicial review preserves constitutional supremacy, but its legitimacy depends on doctrinal and institutional restraint. Evaluate with reference to amendments, the Ninth Schedule and tribunals. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Evidence chain: ordinary-law review -> Kesavananda Bharati (1973)/Minerva -> Waman Rao/Coelho -> L. Chandra Kumar (1997)/Madras Bar Association -> legitimacy controls. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: Judicial review is the enforcement mechanism of constitutional supremacy, but it remains legitimate only when the Court identifies a constitutional standard rather than replacing policy choice with preference. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Ninth Schedule: Waman Rao uses 24 April 1973 as the cut-off. I.R. Coelho (2007) asks whether a later insertion's impact on Part III damages an underlying basic feature. Reviewability is not automatic invalidity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Criticism: Basic structure is not textually enumerated; open-ended review may become counter-majoritarian or uncertain. Tribunal review can add appellate delay. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M6. Judicial review preserves constitutional supremacy, but its legitimacy depends on doctrinal and institutional restraint. Evaluate with reference…”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M7. The Supreme Court's constitutional authority is strong, but access and implementation determine whether that authority becomes justice. Critically examine and suggest reforms. (20 marks, 250 words)
-
-**Demand decoding:** Test legal authority against delivery constraints; reforms must address docket, access, compliance and accountability.
-
-**Evidence chain:** Articles 32/131/136/141/142 -> PIL/basic structure -> Article 144 dependency -> pendency/access chain -> institutional reforms.
-
-**Model solution**
-
-**Claim:** The Supreme Court is among the world's strongest constitutional courts in legal authority, yet constitutional justice depends on affordable access, timely adjudication and executive compliance.
-
-**Authority:** Article **32** guarantees rights remedies; Article **131** makes the Court a federal umpire; Article **136** supplies exceptional appellate correction. Articles **141 and 142** combine nationwide precedent and complete-justice relief, while ***Kesavananda Bharati (1973)*** permits review of constitutional amendments. PIL relaxed standing and enabled structural-rights remedies.
-
-**Delivery constraints:** The Court sits principally in Delhi; legal cost, language and digital exclusion affect access. A large SLP docket can crowd out Constitution Benches. Vacancies, government litigation, adjournments and uneven registry capacity produce delay. Article **144** reveals the implementation dependency: the Court has neither purse nor an independent enforcement bureaucracy. Collegium opacity and thin graded accountability can weaken legitimacy.
-
-**Qualification:** Strong High Courts, legal services, tribunals and mediation are not rivals but necessary parts of the integrated system. Technology alone cannot replace judges or fair process.
-
-**Reforms:** publish a predictable Constitution Bench calendar; use disciplined SLP admission and case management; reduce routine government appeals; strengthen High Courts and legal aid; expand assisted e-filing, translation and accessible judgments; create a collegium secretariat and fair complaints framework; track compliance with clear exit points.
-
-**Verdict:** Authority becomes justice only when institutional design converts a powerful judgment into a timely, intelligible and implemented remedy.
-
-**Examiner comment:** The answer moves from constitutional power to delivery mechanisms and prioritises reforms rather than listing technology.
-
-**Mark/word discipline:** 20 marks; target 245-260 words; 6 authority units, 6 constraints and 7 reform actions.
-
-**Why this earns marks:** The authority-delivery chain answers the question causally and matches pendency, digital access and implementation reforms to distinct bottlenecks.
-
-**How to improve this answer:** Use authority → access → hearing → reasoned order → implementation as the spine; cite only dated official data and pair each diagnosed deficit with one feasible reform.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M7. The Supreme Court's constitutional authority is strong, but access and implementation determine whether that authority becomes justice.…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M7. The Supreme Court's constitutional authority is strong, but access and implementation determine whether that authority becomes justice. Critically examine and suggest reforms. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Evidence chain: Articles 32/131/136/141/142 -> PIL/basic structure -> Article 144 dependency -> pendency/access chain -> institutional reforms. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: The Supreme Court is among the world's strongest constitutional courts in legal authority, yet constitutional justice depends on affordable access, timely adjudication and executive compliance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: Strong High Courts, legal services, tribunals and mediation are not rivals but necessary parts of the integrated system. Technology alone cannot replace judges or fair process. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Authority becomes justice only when institutional design converts a powerful judgment into a timely, intelligible and implemented remedy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M7. The Supreme Court's constitutional authority is strong, but access and implementation determine whether that authority becomes justice.…”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
@@ -3839,7 +4006,7 @@ delay + cost + unequal access
 ```
 
 - [CURRENT] Latest visible comprehensive annual report: 2024-25.
-- [LIMIT] No 2025-26 report visible by 17 Aug 2026; no invented total.
+- [LIMIT] No later comprehensive official annual report was relied on by 7 September 2026; no unsupported live pendency total is printed.
 - Reform stack:
   - predictable Constitution Bench calendar;
   - disciplined SLP admission;
@@ -3912,214 +4079,208 @@ delay + cost + unequal access
 
 ### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
 
-#### ASCII MASTER FLOW — PANEL 1/12: Apex court, integrated hierarchy and institutional identity
+#### ASCII MASTER FLOW — PANEL 1/12: Identity, origin, composition and current control
 
 ```ascii-master
-ARTICLES 124-147, PART V: UNION JUDICIARY
-Privy Council -> Federal Court (1937) -> Constitution (26 Jan 1950) -> SC (28 Jan 1950)
+Privy Council -> Federal Court of India (1937) -> Constitution, 26 Jan 1950
+-> Supreme Court inaugurated, 28 Jan 1950.
 
-SUPREME COURT -> HIGH COURTS -> SUBORDINATE COURTS
-one hierarchy applies Union + State law; Article 141 promotes national legal uniformity.
-LIMIT: integrated does not mean unitary administration; Articles 226, 227 and 235 remain vital.
+ARTICLES 124-147, PART V -> apex constitutional + federal + appellate court.
+Integrated hierarchy -> Supreme Court -> High Courts -> subordinate courts.
+Article 141 promotes national legal uniformity; Articles 226/227/235 preserve High Court authority.
 
-CONTROL CARD, 28 AUG 2026
-sanctioned 38 including CJI | working strength: live roster | retirement 65
-seat Delhi, Article 130 | Article 145(3): five-judge minimum for specified questions.
-MUST REMEMBER: Map Articles 124-147 with exact appointment, qualification, tenure, removal,
-  independence, jurisdiction, precedent, review, contempt and complete-justice rules; do not
-  merge Article 32, 136, 137, 141, 142 or 143.
+CURRENT CONTROL, 7 SEPTEMBER 2026
+Act 14 of 2026, s.2 -> 1956 Act: "thirty-three" replaced by "thirty-seven";
+deemed in force 16 May 2026 -> sanctioned strength 38 including CJI.
+Official SCI roster -> 34 sitting judges including CJI Surya Kant -> 4 vacancies.
+LIMIT: roster/vacancy figures are volatile; re-verify before later use.
 ```
 
-#### ASCII MASTER FLOW — PANEL 2/12: Appointment text, collegium evolution and NJAC test
+#### ASCII MASTER FLOW — PANEL 2/12: Article 124 appointments and the collegium timeline
 
 ```ascii-master
-ARTICLE 124: PRESIDENT APPOINTS -> CONSTITUTIONALLY REQUIRED CONSULTATION
-Current operation: collegium recommendation -> Union processing -> presidential appointment.
+TEXT -> President appoints; required consultation; other judges require CJI consultation.
+CONVENTION -> senior-most SC judge considered fit ordinarily appointed CJI;
+breached in 1973 (A.N. Ray) and 1977 (M.H. Beg); not express constitutional text.
 
-First Judges Case (1981) -> executive primacy
-Second Judges Case (1993) -> judicial primacy; collegium created
-Third Judges Case (1998) -> SC collegium: CJI + four senior-most judges
-2014 99th Amendment + NJAC Act -> six-member commission
-Fourth Judges Case (2015) -> NJAC invalid; collegium restored
-
-CJI SENIORITY: settled convention reflected in MoP, not express constitutional text.
-REFORM TEST: transparent criteria + diversity + time discipline without executive capture.
+S.P. Gupta / First Judges (1981) -> consultation not concurrence; executive primacy.
+SCAORA / Second Judges (1993) -> judicial primacy; collegium created; CJI view institutional.
+Third Judges / Presidential Reference (1998) -> SC collegium = CJI + 4 senior-most judges.
+99th Amendment (2014) + NJAC Act, 2014 -> six-member commission model.
+SCAORA / Fourth Judges-NJAC (2015) -> design invalid for damaging judicial independence;
+collegium restored. LIMIT: no holding that every possible commission is unconstitutional.
 ```
 
-#### ASCII MASTER FLOW — PANEL 3/12: Qualifications, service conditions and removal route
+#### ASCII MASTER FLOW — PANEL 3/12: Qualifications, oath, tenure, removal and finance
 
 ```ascii-master
-ELIGIBILITY -> Indian citizen + five years HC judge OR ten years HC advocate
-              OR distinguished jurist in the President's opinion; no minimum age.
+ARTICLE 124 -> Indian citizen + 5 years HC judge OR 10 years HC advocate
+OR distinguished jurist in President's opinion; no minimum age; retirement at 65.
+ARTICLE 124(6) + THIRD SCHEDULE -> constitutional oath; resignation addressed to President.
+ARTICLE 124(4) -> proved misbehaviour/incapacity -> special-majority address in each House
+in same session -> presidential removal order. No joint sitting; no SC judge removed.
+Judges (Inquiry) Act, 1968 -> notice: 100 LS or 50 RS -> presiding officer -> 3-member inquiry.
 
-OATH -> secure tenure to 65 -> resignation to President OR Article 124(4) removal
-REMOVAL: proved misbehaviour/incapacity -> inquiry -> special majority in each House
-         -> presidential order; Constitution says removal, not impeachment.
-
-FINANCIAL FIREWALL
-salary charged under Article 112(3)(d)(i) | conditions protected by Article 125
-Court administrative expenses charged under Article 146(3).
-Article 124(7): former SC judge cannot plead or act before any Indian court/authority.
+ARTICLE 125 -> salary by law; allowances/leave/pension not varied to disadvantage,
+except Financial Emergency. ARTICLE 112(3)(d)(i) -> judges' salaries charged expenditure.
+ARTICLE 146(3) -> Court administrative expenses charged on Consolidated Fund of India.
+ARTICLE 124(7) -> former SC judge cannot plead/act before any Indian court or authority.
 ```
 
-#### ASCII MASTER FLOW — PANEL 4/12: Independence and accountability must operate together
+#### ASCII MASTER FLOW — PANEL 4/12: Temporary judges, independence and accountability
 
 ```ascii-master
-INDEPENDENCE SHIELD
-appointment insulation | tenure | protected conditions | Article 121 | Article 129
-Article 50 separation | binding authority | administrative and financial autonomy
+ARTICLE 126 -> President appoints acting CJI when office is vacant or CJI cannot act.
+ARTICLE 127 -> ad hoc qualified HC judge requested where quorum unavailable;
+CJI acts with presidential consent and after consulting the HC Chief Justice.
+ARTICLE 128 -> CJI may, with presidential consent and person's consent, request an
+eligible retired SC judge or qualified retired HC judge to sit and act.
 
-ACCOUNTABILITY CHANNELS
-reasoned judgments + recusals + disclosure + published collegium resolutions
-1997 Restatement + 1999 in-house procedure: non-statutory
-Article 124(4): extreme removal endpoint; no SC judge has been removed.
-
-DIALECTIC
-independence without accountability -> opacity
-accountability without insulation -> political compliance
-VERDICT -> independent decisions + transparent institutional process.
+INDEPENDENCE -> tenure + protected conditions + Article 121 conduct shield
++ Article 129 contempt + Article 50 separation + appointment insulation.
+ACCOUNTABILITY -> reasoned judgments + open court + recusal + asset disclosure
++ 1997 Restatement + 1999 in-house procedure + Article 124(4) endpoint.
+LIMITS -> in-house process is non-statutory; no exhaustive recusal code; lapsed Bill is not law.
+VERDICT -> independence in decisions must coexist with transparent institutional process.
 ```
 
-#### ASCII MASTER FLOW — PANEL 5/12: Jurisdiction gateway and the federal-rights routes
+#### ASCII MASTER FLOW — PANEL 5/12: Original, writ and transfer jurisdiction
 
 ```ascii-master
-CHOOSE THE CONSTITUTIONAL DOOR
-federal legal dispute among listed governments -> Article 131, exclusive original
-Fundamental Right enforcement -> Article 32, itself a Fundamental Right
-other public-law right -> High Court Article 226, wider in purpose
+ARTICLE 131 -> exclusive original jurisdiction for listed Union-State/State-State parties
+where existence or extent of a legal right is in dispute.
+LIMITS -> political disagreement/private party excluded; treaty proviso checked;
+Article 262 law may exclude inter-State water-dispute jurisdiction.
+ARTICLE 71 -> President/Vice-President election disputes: separate original jurisdiction.
 
-FIVE WRITS
-habeas corpus: liberty | mandamus: public duty | prohibition: stop proceeding
-certiorari: quash completed order | quo warranto: test public office
-
-ARTICLE 131 LIMITS
-eligible parties + existence/extent of legal right; not a political mediation forum.
-Treaty proviso and Article 262 water-dispute exclusion must be checked.
+ARTICLE 32 -> guaranteed Supreme Court remedy for Fundamental Rights; five writs.
+ARTICLE 226 -> High Court: Fundamental Rights + other legal rights; wider in purpose.
+ARTICLE 138 -> Parliament may enlarge Supreme Court jurisdiction by law.
+ARTICLE 139 -> Parliament may confer additional writ powers beyond Article 32 purposes.
+ARTICLE 139A -> withdrawal of same/substantially same substantial legal questions
+and inter-High-Court transfer in specified circumstances.
 ```
 
-#### ASCII MASTER FLOW — PANEL 6/12: Appeals, special leave and presidential reference
+#### ASCII MASTER FLOW — PANEL 6/12: Appeals, special leave, review and curative relief
 
 ```ascii-master
-APPELLATE ROUTES
-Article 132: constitutional | 133: civil | 134: criminal | 134A: certificate process
-Article 136: extraordinary discretionary special leave, not a regular fourth appeal
-              no SLP from Armed Forces courts or tribunals.
+ARTICLE 132 -> constitutional appeal with High Court certificate.
+ARTICLE 133 -> civil appeal under constitutional/statutory conditions.
+ARTICLE 134 -> specified criminal appeals.
+ARTICLE 134A -> High Court considers certificate after judgment/order.
+ARTICLE 135 -> pre-Constitution Federal Court jurisdiction continues where applicable.
+ARTICLE 136 -> extraordinary discretionary SLP from court/tribunal;
+express Armed-Forces court/tribunal exclusion; not a regular fourth appeal.
 
-ARTICLE 143 ADVISORY ROUTE
-143(1): public-importance question; Court may report opinion
-143(2): dispute within Article 131 proviso; Court shall hear and report
-Opinion remains advisory, not an ordinary binding decree.
-
-2025 ASSENT OPINION: no rigid court-made timelines or automatic deemed assent;
-prolonged unexplained inaction remains reviewable. Use as dated, issue-specific evidence.
-State of Tamil Nadu v. Governor of Tamil Nadu (2025) -> facts-specific assent relief.
-In re Assent, Withholding or Reservation of Bills (2025) -> advisory control.
-CLOSE DISTINCTION: Keep collegium doctrine, NJAC invalidation, judicial review, Basic
-  Structure, PIL and judicial legislation proposition-specific. Article 142 supplies complete
-  justice in a cause or matter, not free-standing power to ignore substantive law.
+ARTICLE 137 -> Supreme Court reviews own judgment/order subject to law and rules.
+Rupa Ashok Hurra (2002) -> rare curative petition after review for gross miscarriage,
+natural-justice failure or bias; strict certification/screening; not a second ordinary review.
 ```
 
-#### ASCII MASTER FLOW — PANEL 7/12: Finality, review, curative power and contempt
+#### ASCII MASTER FLOW — PANEL 7/12: Record, precedent, complete justice, aid and rules
 
 ```ascii-master
-JUDGMENT -> ARTICLE 137 REVIEW -> FINALITY
-review corrects prescribed error; it is not a rehearing of the appeal.
+ARTICLE 129 -> court of record + constitutional contempt power.
+Contempt of Courts Act, 1971 -> regulates civil/criminal contempt; cannot extinguish Art 129.
+Fair criticism and bona fide public-interest truth protect democratic scrutiny.
 
-AFTER REVIEW DISMISSAL -> CURATIVE PETITION
-Rupa Ashok Hurra (2002): rare grave-miscarriage route with added safeguards
-LIMIT: no routine second review.
-
-ARTICLE 129: COURT OF RECORD
-permanent authoritative records + constitutional contempt power
-civil contempt -> wilful disobedience | criminal contempt -> substantial interference
-fair criticism and statutory truth defence protect speech; power protects justice, not ego.
+ARTICLE 141 -> law declared binds all courts; ratio + bench strength control.
+ARTICLE 142 -> complete justice in cause/matter before Court.
+Prem Chand Garg (1963) -> cannot violate Fundamental Rights.
+A.R. Antulay (1988) -> cannot sustain jurisdictional unfairness under complete justice.
+Supreme Court Bar Association (1998) -> supplementary; cannot supplant substantive law.
+ARTICLE 144 -> all civil and judicial authorities act in aid.
+ARTICLE 145 -> Court rules with presidential approval; 5-judge minimum for Article 143
+references and substantial constitutional-interpretation questions.
 ```
 
-#### ASCII MASTER FLOW — PANEL 8/12: Precedent, complete justice, assistance and procedure
+#### ASCII MASTER FLOW — PANEL 8/12: Advisory jurisdiction and Articles 140, 143, 146, 147
 
 ```ascii-master
-ARTICLE 141 -> ratio of law declared binds all courts
-larger Bench > smaller Bench; coordinate disagreement ordinarily goes to larger Bench.
+ARTICLE 143(1) -> President may refer public-importance law/fact question;
+Court may hear and report. ARTICLE 143(2) -> proviso-to-131 dispute; shall hear/report.
+Opinion is advisory, not an ordinary binding decree and does not overrule a judgment.
 
-ARTICLE 142 -> complete justice in the cause or matter before the Court
-Prem Chand Garg -> cannot violate Fundamental Rights
-Supreme Court Bar Association (1998) -> cannot supplant substantive law.
-ARTICLE 144 -> civil and judicial authorities act in aid.
-ARTICLE 145 -> rules; five-judge floor for Article 143 and substantial interpretation.
+20 NOVEMBER 2025 ASSENT OPINION, 2025 INSC 1333 -> no rigid judge-made assent
+timeline or deemed assent under Article 142; prolonged unexplained inaction remains reviewable.
+LIMIT -> issue-specific advisory control, not a general curtailment of Article 142.
 
-CONTINUITY TOOLS
-126 acting CJI | 127 ad hoc judge | 128 retired judge sitting: distinct consent routes.
+ARTICLE 140 -> Parliament may confer ancillary powers needed for effective jurisdiction.
+ARTICLE 146 -> CJI/authorised officer controls appointments of Court staff subject to text;
+service rules and charged administrative expenditure protect institutional administration.
+ARTICLE 147 -> interpretation references include Government of India Act, 1935 and specified
+historical enactments/orders for this Chapter and Chapter V of Part VI.
 ```
 
-#### ASCII MASTER FLOW — PANEL 9/12: Judicial review, Basic Structure, Ninth Schedule and tribunals
+#### ASCII MASTER FLOW — PANEL 9/12: Judicial review, interpretation and tribunal boundary
 
 ```ascii-master
-CONSTITUTIONAL SUPREMACY -> REVIEW OF LAW + EXECUTIVE ACTION + AMENDMENT EFFECT
-Kesavananda Bharati (1973) -> amendment cannot damage Basic Structure
-Minerva Mills (1980) -> limited power + Parts III-IV harmony
-I.R. Coelho (2007) -> post-24 Apr 1973 Ninth Schedule insertions face impact review
-LIMIT: reviewability is not automatic invalidity.
+JUDICIAL REVIEW -> legality of legislation, executive action and amendment effect;
+flows through Articles 13, 32, 131-136, 143, 226, 246, 251, 372 and structure.
+Kesavananda Bharati (1973) -> Article 368 power cannot damage Basic Structure.
+Minerva Mills (1980) -> limited amendment power and Parts III-IV harmony are protected.
+I.R. Coelho (2007) -> post-24 Apr 1973 Ninth Schedule insertions face impact review;
+reviewability does not mean automatic invalidity.
 
-TRIBUNAL FLOOR
-L. Chandra Kumar (1997) -> tribunals may supplement adjudication
-BUT Articles 226/227 High Court review and Article 32 review cannot be wholly excluded.
-Specialisation remains under constitutional-court supervision.
+L. Chandra Kumar (1997) -> Articles 226/227 and 32 judicial review are Basic Structure;
+tribunals supplement adjudication, but their decisions remain under High Court review.
+INTERPRETIVE DISCIPLINE -> text + structure + precedent + purpose; legality, not policy wisdom.
 ```
 
-#### ASCII MASTER FLOW — PANEL 10/12: PIL, activism, judicial legislation and environment
+#### ASCII MASTER FLOW — PANEL 10/12: PIL, judicial legislation and open justice
 
 ```ascii-master
-ACCESS EXPANSION
-relaxed locus standi + epistolary jurisdiction + continuing mandamus
-Hussainara Khatoon (1979): speedy trial | S.P. Gupta (1981): representative standing
-LIMIT: standing is relaxed, not erased; screen bona fides and administrability.
+Hussainara Khatoon (1979) -> Article 21 speedy-trial protection for under-trials.
+S.P. Gupta (1981) -> representative standing widened for persons unable to approach Court.
+EPISTOLARY JURISDICTION -> letters may be treated as petitions after bona fide screening.
+Vineet Narain (1998) -> continuing mandamus supports monitored compliance.
 
-JUDICIAL LEGISLATION
-Vishaka (1997): rights-based interim norm in legal vacuum until 2013 legislation
-legitimacy test -> right + vacuum + necessity + temporary, legally anchored remedy.
+Vishaka (1997) -> rights-based interim workplace norms in a legal vacuum;
+yielded to Sexual Harassment of Women at Workplace Act, 2013.
+LIMIT -> court may bridge a rights-threatening vacuum, not become permanent administrator.
 
-ENVIRONMENTAL LINE
-Article 21 + 48A + 51A(g) -> absolute liability, precaution, polluter pays, public trust
-Court catalyses compliance; CPCB, State boards and NGT remain indispensable.
+Swapnil Tripathi (2018) -> live streaming of suitable constitutional/national-importance
+proceedings advances open justice, subject to privacy, fair-trial and administrative safeguards.
+K.S. Puttaswamy (2017) -> privacy is a Fundamental Right shaping digital-court safeguards.
 ```
 
-#### ASCII MASTER FLOW — PANEL 11/12: Comparison, diversity, profession and delivery reform
+#### ASCII MASTER FLOW — PANEL 11/12: Procedure, profession, access and current reform
 
 ```ascii-master
-DIVERSITY -> equality + legitimacy + wider professional pipeline
-Fathima Beevi (1989): first woman SC judge; avoid undated percentages.
+BENCHES -> CJI as master of roster allocates cases/constitutes benches under institutional rules;
+larger Bench binds smaller; coordinate disagreement goes to appropriate larger Bench.
+SEAT -> Delhi under Article 130; another place by CJI with President's approval.
+SUPREME COURT RULES, 2013 -> filing, review, curative and practice procedure.
 
-INDIA-UK -> shared precedent; constitutional supremacy versus parliamentary sovereignty
-INDIA-USA -> collegium + retirement 65 versus nomination + Senate + good-behaviour tenure
+ADVOCATES ACT, 1961 -> State Bar Councils enrol; BCI sets statutory national standards
+and hears specified disciplinary appeals. Supreme Court Rules -> Advocate-on-Record system.
+ARTICLE 76 / ATTORNEY-GENERAL -> Union chief legal adviser with right of audience;
+may assist/represent before Court but is not Court officer, collegium member or BCI.
 
-PROFESSION -> State Bar Councils enrol; BCI sets national statutory standards and appeals
-BCI is statutory, not constitutional; courts retain practice and proceeding rules.
-
-DELIVERY CHAIN
-accessible filing -> timely listing/hearing -> reasoned order -> implementation
-technology + legal aid + judges + case management; e-Courts alone cannot cure exclusion.
+REFORM CHAIN -> legal aid + physical/digital filing help + translation + hybrid hearings
++ neutral citations + e-Courts + cybersecurity/privacy + case-flow management
++ disciplined SLP admission + stronger High Courts. No unsupported live pendency total.
 ```
 
-#### ASCII MASTER FLOW — PANEL 12/12: Prelims firewalls, PYQ routes and examiner-ready synthesis
+#### ASCII MASTER FLOW — PANEL 12/12: Traps, PYQ routes and examiner-ready answer spine
 
 ```ascii-master
 PRELIMS FIREWALL
-Article 32 narrower in purpose than 226 | Article 136 discretionary | 143 advisory
-Article 142 bounded | Constitution Bench minimum five | curative is exceptional
-collegium not constitutional text | removal is not impeachment | working strength is dated.
+38 sanctioned / 34 working / 4 vacancies only on 7 Sep 2026 | retirement 65
+CJI seniority convention | collegium judicial creation | removal, not constitutional impeachment
+Article 32 narrower in purpose than 226 | prohibition prevents; certiorari quashes
+Article 136 discretionary + Armed-Forces exclusion | Article 143 advisory
+Article 142 supplementary, not supplanting | Constitution Bench minimum five
+Article 128 sitting != Article 124(7) practice bar | BCI statutory, SCBA association.
 
-PYQ ROUTES
-India-UK | judicial legislation/PIL | women | environmental constitutionalism
-independence | PIL and judicial power | constitutional morality | India-USA appointments.
+PYQ ROUTES -> India-UK | judicial legislation/PIL | women | environmental constitutionalism
+| judicial independence | PIL and powerful Court | constitutional morality | India-USA collegium.
 
 MAINS SPINE
-define institutional role -> Article -> mechanism -> case + year -> consequence
--> counterpoint/limit -> matched reform -> qualified conclusion.
+define role -> classify source (text/statute/judgment/convention/current practice)
+-> exact Article/case holding -> mechanism -> consequence -> counterpoint/limit
+-> matched reform -> qualified verdict.
 
-VERDICT
-The Court guards constitutional supremacy only when independent authority is joined to
-reasoned restraint, accountable process, accessible remedies and executable orders.
-LEGAL/SOURCE LIMIT: Act 14 of 2026 raises the statutory maximum to thirty-seven judges
-  excluding the CJI, total sanctioned strength thirty-eight, deemed in force from 16 May 2026.
-  Working strength and pendency remain dynamic.
+VERDICT -> The Supreme Court guards constitutional supremacy only when independent authority
+is joined to reasoned restraint, accountable process, accessible remedies and executable orders.
 ```

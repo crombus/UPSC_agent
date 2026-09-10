@@ -1,1444 +1,277 @@
-# Polity 20 - State Legislature
+# Polity 20 — State Legislature — Self-Contained Quick-Glance Tree
 
-## Quick-Glance Tree Chart
+> Stable sequence: core concept -> origin/timeline -> decoded constitutional spine -> mechanisms -> cases/reforms -> traps -> answer spine.
+
+## 1. Core concept and constitutional origin
 
 ```text
-STATE LEGISLATURE
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Articles 168 to 212 create no uniform state legislature. Every State has the
-Governor and a directly elected Legislative Assembly; only selected States also
-have a permanent, indirectly elected Legislative Council. The Assembly is the
-confidence, finance and final legislative chamber. A Council can revise and
-delay but cannot defeat the Assembly, making it an optional advisory chamber
-rather than a federal equal. The quality of state law-making therefore depends
-less on bicameral form alone than on sittings, committees, impartial presiding
-officers, constitutional assent and meaningful executive accountability.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-TOPIC 20 OWNS:
-Articles 168-212;
-unicameral / bicameral design;
-Article 169;
-Assembly / Council composition;
-duration / membership;
-presiding officers;
-State Bill / financial procedure;
-Council weakness;
-accountability / committees;
-anti-defection interface;
-women's reservation / delimitation.
-                              |
-                              v
-GOVERNOR:
-office / discretion /
-Article 200 doctrine.
-CM / COUNCIL:
-executive organisation.
-ANTI-DEFECTION:
-full Tenth Schedule.
-ELECTION COMMISSION:
-election administration.
-PARLIAMENT:
-Union comparison.
-                              |
-                              v
-                  BRANCH I: ARTICLE 168
-STATE LEGISLATURE =
-Governor
-+ one House
-or two Houses.
-                              |
-                              v
-UNICAMERAL
-Governor
-+ Legislative Assembly.
-                              |
-                              v
-BICAMERAL
-Governor
-+ Legislative Assembly
-+ Legislative Council.
-                              |
-                              v
-MOST STATES
-unicameral.
-                              |
-                              v
-CURRENT BICAMERAL SIX
-Andhra Pradesh,
-Telangana,
-Uttar Pradesh,
-Bihar,
-Maharashtra,
-Karnataka.
-                              |
-                              v
-MEMORY
-KATBUM.
-                              |
-                              v
-J&K
-Council abolished
-under 2019 reorganisation.
-                              |
-                              v
-TAMIL NADU
-2010 creation Act
-never brought into force.
-                              |
-                              v
-                  BRANCH II: ARTICLE 169
-PURPOSE
-create or abolish
-Legislative Council.
-                              |
-                              v
-STEP 1
-State Legislative Assembly
-passes resolution.
-                              |
-                              v
-ASSEMBLY MAJORITY
-majority of total membership
-+ two-thirds present / voting.
-                              |
-                              v
-STEP 2
-Parliament may enact law.
-                              |
-                              v
-PARLIAMENTARY MAJORITY
-simple.
-                              |
-                              v
-STATUS
-law not deemed
-constitutional amendment
-under Article 368.
-                              |
-                              v
-PARLIAMENT
-not strictly bound
-to enact merely because
-State resolution passed.
-                              |
-                              v
-FRAGILITY
-Council existence depends
-on Assembly initiative /
-Parliamentary law.
-                              |
-                              v
-                  BRANCH III: COUNCIL HISTORY
-ANDHRA PRADESH
-created 1957,
-abolished 1985,
-revived 2007.
-                              |
-                              v
-TAMIL NADU
-abolished 1986;
-later revival Act
-not operational.
-                              |
-                              v
-PUNJAB / WEST BENGAL
-Councils abolished 1969.
-                              |
-                              v
-J&K
-abolished 2019.
-                              |
-                              v
-CURRENT PROPOSALS
-periodically arise
-in Rajasthan,
-Odisha,
-Assam
-and others.
-                              |
-                              v
-CAUTION
-proposal /
-Assembly resolution
-does not itself create Council.
-                              |
-                              v
-                  BRANCH IV: LEGISLATIVE ASSEMBLY
-ARTICLE 170.
-                              |
-                              v
-NATURE
-popular /
-lower /
-confidence chamber.
-                              |
-                              v
-ELECTION
-direct,
-territorial constituencies,
-universal adult franchise.
-                              |
-                              v
-NORMAL STRENGTH
-sixty to five hundred.
-                              |
-                              v
-SPECIAL EXCEPTIONS
-smaller States
-under constitutional /
-statutory provisions.
-                              |
-                              v
-CURRENT EXAMPLES
-Sikkim 32,
-Goa 40,
-Mizoram 40.
-                              |
-                              v
-CAUTION
-special constitutional minima
-not always current strength.
-                              |
-                              v
-ANGLO-INDIAN NOMINATION
-Governor's former Assembly power
-lapsed under 104th Amendment.
-                              |
-                              v
-                  BRANCH V: DELIMITATION / RESERVATION
-TERRITORIAL CONSTITUENCIES
-population representation.
-                              |
-                              v
-SC / ST RESERVATION
-population proportion /
-constitutional provisions.
-                              |
-                              v
-42ND AMENDMENT
-seat readjustment freeze.
-                              |
-                              v
-84TH AMENDMENT 2001
-deferred interstate /
-state Assembly readjustment
-until relevant figures
-of first census after 2026
-are published.
-                              |
-                              v
-87TH AMENDMENT
-2001 census
-for constituency readjustment
-within existing allocation.
-                              |
-                              v
-TRAP
-no automatic delimitation
-merely when 2026 begins / ends.
-                              |
-                              v
-                  BRANCH VI: LEGISLATIVE COUNCIL STRENGTH
-ARTICLE 171.
-                              |
-                              v
-MAXIMUM
-one-third
-of Assembly strength.
-                              |
-                              v
-MINIMUM
-forty.
-                              |
-                              v
-NATURE
-indirectly elected
-+ partly nominated.
-                              |
-                              v
-ELECTION METHOD
-proportional representation
-by single transferable vote.
-                              |
-                              v
-ROUNDING / ACTUAL STRENGTH
-determined under law.
-                              |
-                              v
-TRAP
-minimum not sixty.
-                              |
-                              v
-                  BRANCH VII: COUNCIL COMPOSITION
-ONE-THIRD
-elected by local bodies.
-                              |
-                              v
-ONE-TWELFTH
-graduates
-of three years' standing
-under statutory qualification.
-                              |
-                              v
-ONE-TWELFTH
-teachers
-of three years' standing
-in prescribed institutions.
-                              |
-                              v
-ONE-THIRD
-elected by Assembly members
-from persons
-not Assembly members.
-                              |
-                              v
-ONE-SIXTH
-nominated by Governor.
-                              |
-                              v
-NOMINATION FIELDS
-literature,
-science,
-art,
-co-operative movement,
-social service.
-                              |
-                              v
-TOTAL
-five-sixths elected indirectly;
-one-sixth nominated.
-                              |
-                              v
-CAUTION
-occupational constituencies
-reflect historic design /
-raise contemporary representation questions.
-                              |
-                              v
-                  BRANCH VIII: DURATION
-ASSEMBLY
-five years
-from first meeting,
-unless dissolved.
-                              |
-                              v
-NATIONAL EMERGENCY
-Parliament may extend
-one year at a time,
-not beyond six months
-after Emergency.
-                              |
-                              v
-COUNCIL
-permanent,
-not dissolved.
-                              |
-                              v
-COUNCIL MEMBER
-six-year term.
-                              |
-                              v
-RETIREMENT
-one-third
-every two years.
-                              |
-                              v
-PARALLEL
-Assembly like Lok Sabha;
-Council like Rajya Sabha
-only on continuity,
-not power.
-                              |
-                              v
-                  BRANCH IX: QUALIFICATIONS
-CITIZENSHIP.
-                              |
-                              v
-OATH /
-AFFIRMATION.
-                              |
-                              v
-AGE
-Assembly 25;
-Council 30.
-                              |
-                              v
-OTHER
-parliamentary law /
-Representation of People Act.
-                              |
-                              v
-ASSEMBLY
-elector in state /
-statutory conditions.
-                              |
-                              v
-COUNCIL
-relevant electorate /
-qualification by constituency.
-                              |
-                              v
-CAUTION
-qualification for a House
-!= election by every voter.
-                              |
-                              v
-                  BRANCH X: DISQUALIFICATIONS
-OFFICE OF PROFIT.
-                              |
-                              v
-UNSOUND MIND
-declared by competent court.
-                              |
-                              v
-UNDISCHARGED INSOLVENT.
-                              |
-                              v
-FOREIGN CITIZENSHIP /
-ALLEGIANCE.
-                              |
-                              v
-STATUTORY
-election offences /
-conviction /
-contracts /
-office.
-                              |
-                              v
-TENTH SCHEDULE
-defection.
-                              |
-                              v
-ARTICLE 192
-Governor decides
-Article 191 questions
-after Election Commission opinion,
-except defection.
-                              |
-                              v
-DEFECTION
-Speaker / Chairman,
-subject to judicial review.
-                              |
-                              v
-                  BRANCH XI: SESSIONS
-ARTICLE 174
-Governor summons
-each House.
-                              |
-                              v
-MAXIMUM GAP
-six months.
-                              |
-                              v
-PROROGATION
-Governor.
-                              |
-                              v
-DISSOLUTION
-Assembly only.
-                              |
-                              v
-ADJOURNMENT
-presiding officer.
-                              |
-                              v
-ADJOURNMENT SINE DIE
-presiding officer.
-                              |
-                              v
-CAUTION
-Governor normally acts
-on advice;
-Nabam Rebia limits discretion.
-                              |
-                              v
-                  BRANCH XII: GOVERNOR'S ADDRESS / MESSAGE
-ARTICLE 175
-address either /
-both Houses;
-send messages.
-                              |
-                              v
-ARTICLE 176
-special address:
-first session after general election;
-first session each year.
-                              |
-                              v
-MOTION OF THANKS
-debates government programme.
-                              |
-                              v
-ARTICLE 208
-House rules of procedure.
-                              |
-                              v
-ARTICLE 212
-court restraint
-over procedural irregularity.
-                              |
-                              v
-LIMIT
-substantive unconstitutionality
-remains reviewable.
-                              |
-                              v
-                  BRANCH XIII: ASSEMBLY PRESIDING OFFICERS
-ARTICLES 178-181.
-                              |
-                              v
-SPEAKER /
-DEPUTY SPEAKER
-elected by Assembly.
-                              |
-                              v
-VACANCY
-ceases member;
-resignation;
-removal.
-                              |
-                              v
-RESIGNATION
-Speaker to Deputy;
-Deputy to Speaker.
-                              |
-                              v
-REMOVAL
-majority of all
-then members;
-fourteen-day notice.
-                              |
-                              v
-OWN REMOVAL
-officer does not preside.
-                              |
-                              v
-CONTINUITY
-Speaker remains after dissolution
-until immediately before
-first meeting of new Assembly.
-                              |
-                              v
-                  BRANCH XIV: COUNCIL PRESIDING OFFICERS
-ARTICLE 182
-Chairman /
-Deputy Chairman.
-                              |
-                              v
-ELECTED
-by Council members.
-                              |
-                              v
-REMOVAL
-majority of all
-then members;
-notice.
-                              |
-                              v
-OWN REMOVAL
-cannot preside.
-                              |
-                              v
-VACANCY / ABSENCE
-Deputy /
-other member.
-                              |
-                              v
-DIFFERENCE
-not Vice-President;
-State Council elects chair.
-                              |
-                              v
-                  BRANCH XV: PRESIDING POWERS
-MAINTAIN ORDER.
-                              |
-                              v
-INTERPRET RULES.
-                              |
-                              v
-DECIDE ADMISSIBILITY /
-POINTS OF ORDER.
-                              |
-                              v
-CASTING VOTE
-under Article 189.
-                              |
-                              v
-MONEY BILL CERTIFICATION
-Assembly Speaker,
-Article 199.
-                              |
-                              v
-ANTI-DEFECTION
-Speaker / Chairman.
-                              |
-                              v
-COMMITTEE CONTROL /
-BUSINESS.
-                              |
-                              v
-DISCIPLINE /
-SUSPENSION
-under rules.
-                              |
-                              v
-                  BRANCH XVI: IMPARTIALITY PROBLEM
-PARTY MEMBERSHIP
-retained.
-                              |
-                              v
-GOVERNMENT SURVIVAL
-may depend on
-defection ruling /
-agenda.
-                              |
-                              v
-DELAY
-can alter majority.
-                              |
-                              v
-MONEY BILL
-certification affects Council.
-                              |
-                              v
-KEISHAM MEGHACHANDRA 2020
-defection petitions
-ordinarily decided
-within three months
-absent exceptional circumstances;
-independent tribunal suggested.
-                              |
-                              v
-PADI KAUSHIK REDDY 2025
-judicial direction
-to Telangana Speaker
-to decide specified petitions
-within three months.
-                              |
-                              v
-REFORM
-party resignation /
-independent tribunal /
-reasoned deadline.
-                              |
-                              v
-                  BRANCH XVII: QUORUM / VOTING
-ARTICLE 189.
-                              |
-                              v
-ORDINARY DECISION
-majority of members
-present / voting.
-                              |
-                              v
-PRESIDING OFFICER
-no first-instance vote;
-casting vote on equality.
-                              |
-                              v
-QUORUM DEFAULT
-ten members
-or one-tenth total membership,
-whichever greater.
-                              |
-                              v
-STATE LAW
-may provide otherwise.
-                              |
-                              v
-BELOW QUORUM
-adjourn /
-suspend sitting.
-                              |
-                              v
-VACANCIES
-do not invalidate
-House proceedings
-solely by existence.
-                              |
-                              v
-                  BRANCH XVIII: PRIVILEGES
-ARTICLE 194.
-                              |
-                              v
-SPEECH FREEDOM
-within House
-under Constitution / rules.
-                              |
-                              v
-IMMUNITY
-for speech / vote
-and authorised publication.
-                              |
-                              v
-HOUSE POWERS
-breach / contempt.
-                              |
-                              v
-SITA SOREN 2024
-legislative bribery
-not immunised
-by speech / vote privilege.
-                              |
-                              v
-JUDICIAL REVIEW
-substantive constitutional violation
-not barred by procedure privilege.
-                              |
-                              v
-PURPOSE
-institutional independence,
-not personal impunity.
-                              |
-                              v
-                  BRANCH XIX: ORDINARY BILL - UNICAMERAL
-INTRODUCTION
-Assembly.
-                              |
-                              v
-READINGS /
-COMMITTEE /
-PASSAGE
-under State rules.
-                              |
-                              v
-GOVERNOR
-Article 200 options.
-                              |
-                              v
-RETURN
-non-Money Bill
-for reconsideration.
-                              |
-                              v
-RE-PASSED
-Governor shall not withhold,
-subject to current reservation /
-assent doctrine.
-                              |
-                              v
-NO SECOND HOUSE
-scrutiny depends
-on committees / debate.
-                              |
-                              v
-                  BRANCH XX: ORDINARY BILL - BICAMERAL
-MAY ORIGINATE
-either House
-for ordinary matter.
-                              |
-                              v
-ASSEMBLY-PASSED BILL
-Council may reject /
-amend /
-hold.
-                              |
-                              v
-FIRST DELAY
-up to three months.
-                              |
-                              v
-ASSEMBLY RE-PASSES
-with or without Council amendments.
-                              |
-                              v
-SECOND DELAY
-up to one month.
-                              |
-                              v
-RESULT
-deemed passed
-in Assembly form.
-                              |
-                              v
-TOTAL MAX DELAY
-approximately four months.
-                              |
-                              v
-NO JOINT SITTING
-at State level.
-                              |
-                              v
+CENTRAL IDEA
+Articles 168-212 create the State legislature: Governor + Assembly in every State,
+with a Council only where the Constitution and an Article 169 law provide one.
+
+ORIGIN / TIMELINE
+1861-1935: colonial legislative councils widen representation but retain executive dominance.
+1935 Act: provincial autonomy and bicameral experience influence Constitution-making.
+1950: Part VI, Chapter III commences.
+1957/1985/2007: Andhra Pradesh Council created, abolished, and revived.
+1969: Punjab and West Bengal Councils abolished by parliamentary laws.
+1986: Tamil Nadu Council abolished; later revival legislation did not become operational.
+2019: former Jammu and Kashmir Council ended through reorganisation.
+
+DESIGN VERDICT
+Assembly = direct mandate + confidence + supply + final ordinary-Bill control.
+Council = optional continuity + reconsideration, never a co-equal federal chamber.
+```
+
+## 2. Articles 168-177: composition, duration, sessions and participation
+
+```text
+ARTICLE 168 -> Governor plus one or two Houses; Governor is not a House member.
+ARTICLE 169 -> Assembly total-membership majority + two-thirds present/voting;
+Parliament may then create/abolish Council by ordinary law, not Article 368 amendment.
+ARTICLE 170 -> Assembly directly elected from territorial constituencies; ordinary range 60-500,
+subject to constitutional/statutory exceptions and delimitation controls.
+ARTICLE 171 -> Council <= one-third Assembly and >=40; 1/3 local bodies, 1/12 graduates,
+1/12 teachers, 1/3 MLAs elect non-MLAs, remainder nominated for named fields.
+ARTICLE 172 -> Assembly five years unless dissolved; Council continuing body.
+ARTICLE 173 -> citizenship, oath-related requirement, age 25 Assembly / 30 Council, statutory qualifications.
+ARTICLE 174 -> summon/prorogue/dissolve Assembly; no fixed session count; six-month maximum gap rule.
+ARTICLE 175 -> Governor may address either/both Houses and send messages.
+ARTICLE 176 -> special address after general election and first session each year.
+ARTICLE 177 -> Ministers and Advocate-General may participate; vote follows membership.
+```
+
+## 3. Articles 178-193: officers, oath, voting, vacancy and disqualification
+
+```text
+ARTICLES 178-181 -> Assembly Speaker/Deputy Speaker: election, vacancy, acting and removal safeguards.
+ARTICLES 182-185 -> Council Chairman/Deputy Chairman mirror, without Assembly-dissolution rule.
+ARTICLE 186 -> salaries/allowances fixed by State law; constitutional interim protection.
+ARTICLE 187 -> separate State-legislature secretarial staff; State law may regulate service conditions.
+ARTICLE 188 -> oath/affirmation before Governor or appointed person before taking seat.
+ARTICLE 189 -> majority present/voting; chair's casting vote; vacancies do not invalidate;
+default quorum ten or one-tenth, whichever greater, until State law provides otherwise.
+ARTICLE 190 -> double membership, resignation accepted only if voluntary/genuine,
+and sixty-day absence route with constitutional exclusions.
+ARTICLE 191 -> office of profit, court-declared unsound mind, insolvency, citizenship/allegiance,
+parliamentary-law grounds; clause (2) adds Tenth Schedule.
+ARTICLE 192 -> Governor decides Article 191(1) sitting-member questions and must follow ECI opinion.
+ARTICLE 193 -> Rs 500 per day liability for knowingly sitting/voting without oath or while barred.
+```
+
+## 4. Privileges, ethics and judicial boundaries
+
+```text
+ARTICLE 194
+speech/vote and authorised-publication immunity + House/member/committee privileges.
+Protection is functional; it is not a licence for bribery or unrelated criminality.
+ARTICLE 195 -> member salaries/allowances by State law.
+
+1978 - 44TH AMENDMENT, SECTION 26
+amended Article 194(3): removed the House of Commons reference and preserved the
+pre-commencement privilege baseline until the State Legislature defines privileges by law.
+
+SPECIAL REFERENCE NO. 1 OF 1964 / KESHAV SINGH (1965)
+Legislative privilege and judicial power must coexist; jurisdictional constitutional questions remain reviewable.
+RAJA RAM PAL (2007)
+Expulsion/privilege power exists, but substantive illegality, mala fides and unconstitutionality remain reviewable.
+AMARINDER SINGH (2010)
+Punjab Assembly could not use privilege-based expulsion for conduct lacking the required nexus to House functioning.
+SITA SOREN (2024)
+Articles 105/194 do not immunise bribery connected with speech or vote.
+
+ARTICLE 212 SHIELD
+mere procedural irregularity is protected; substantive illegality is not.
+```
+
+## 5. Ordinary Bills, deadlock and lapse
+
+```text
+ARTICLE 196 BASELINE
+ordinary Bill may originate in either House in a bicameral State; prorogation does not lapse Bills.
+
+ARTICLE 197 ASSEMBLY OVERRIDE
+Assembly passes -> Council rejects / disagrees / holds >3 months
+-> Assembly repasses in same or next session
+-> Council rejects / disagrees / holds >1 month
+-> Bill deemed passed in Assembly's second-passage form.
+
+NO STATE JOINT SITTING
+Article 108 is a Union mechanism; there is no State counterpart.
+
+LAPSE ON ASSEMBLY DISSOLUTION
+pending in Assembly -> lapses.
+passed by Assembly, pending in Council -> lapses.
+pending in Council, not passed by Assembly -> does not lapse.
+passed by required House(s), awaiting Governor/President -> does not lapse.
+
 COUNCIL-ORIGINATED BILL
-if Assembly rejects,
-Bill ends.
-                              |
-                              v
-                  BRANCH XXI: MONEY BILL
+If Assembly rejects it, Article 197 supplies no Council override.
+```
+
+## 6. Money Bills, Financial Bills and Assembly primacy
+
+```text
+ARTICLE 198
+Money Bill: Assembly-only introduction on Governor's recommendation;
+Council may recommend within 14 days; Assembly accepts or rejects.
 ARTICLE 199
-definition.
-                              |
-                              v
-INTRODUCTION
-Assembly only.
-                              |
-                              v
-GOVERNOR RECOMMENDATION
-required.
-                              |
-                              v
-SPEAKER CERTIFICATE.
-                              |
-                              v
-COUNCIL
-cannot reject / amend;
-recommendations only.
-                              |
-                              v
-TIME
-fourteen days.
-                              |
-                              v
-ASSEMBLY
-accepts / rejects recommendations.
-                              |
-                              v
-NO JOINT SITTING.
-                              |
-                              v
-GOVERNOR
-cannot return Money Bill
-under Article 200.
-                              |
-                              v
-                  BRANCH XXII: FINANCIAL BILLS
-ARTICLE 207(1)
-contains Article 199(1)(a)-(f)
-financial matters
-+ possibly others.
-                              |
-                              v
-INTRODUCTION
-Assembly only
-with Governor recommendation.
-                              |
-                              v
-AFTER INTRODUCTION
-ordinary-Bill route
-where not pure Money Bill.
-                              |
-                              v
-ARTICLE 207(3)
-Bill involving expenditure
-from Consolidated Fund
-cannot be passed
-without Governor recommendation
-for consideration.
-                              |
-                              v
-ORIGIN
-may be either House
-if not Article 207(1).
-                              |
-                              v
+only listed matters + incidental matters qualify; Assembly Speaker certifies.
+ARTICLE 207(1) FINANCIAL BILL-I
+contains Article 199(1)(a)-(f) matter plus other matter;
+Governor recommendation + Assembly-only introduction; then ordinary-Bill treatment.
+ARTICLE 207(3) FINANCIAL BILL-II
+would involve expenditure from Consolidated Fund;
+may originate either House, but cannot be passed without recommendation for consideration.
+
+ASSEMBLY PRIMACY
+confidence under Article 164(2) + grants under Article 203 + Money Bill control.
+Council neither removes ministry nor votes demands for grants.
+
 TRAP
-all Financial Bills
-are not Money Bills.
-                              |
-                              v
-                  BRANCH XXIII: ARTICLE 200 / 201
-GOVERNOR
-assent;
-withhold;
-return non-Money Bill;
-reserve for President.
-                              |
-                              v
-MANDATORY RESERVATION
-High Court power
-derogation threatening
-constitutional position.
-                              |
-                              v
-PRESIDENT
-assent,
-withhold,
-direct return
-of non-Money Bill.
-                              |
-                              v
-STATE RE-PASSAGE
-does not bind President.
-                              |
-                              v
-2025 CURRENT DOCTRINE
-no rigid judge-made timeline /
-automatic deemed assent;
-indefinite unexplained inaction
-reviewable.
-                              |
-                              v
-OWNERSHIP
-Governor topic
-holds full case sequence.
-                              |
-                              v
-                  BRANCH XXIV: BILL LAPSE
-PROROGATION
-does not lapse Bills.
-                              |
-                              v
-COUNCIL-ORIGINATED BILL
-pending in Council
-does not lapse
-on Assembly dissolution.
-                              |
-                              v
-BILL PENDING IN ASSEMBLY
-lapses on dissolution.
-                              |
-                              v
-ASSEMBLY-PASSED BILL
-pending in Council
-lapses.
-                              |
-                              v
-PASSED BY BOTH /
-AWAITING ASSENT
-does not lapse.
-                              |
-                              v
-CAUTION
-State rules differ
-from simple Union analogy
-where Council weakness matters.
-                              |
-                              v
-                  BRANCH XXV: BUDGET
-ANNUAL FINANCIAL STATEMENT
-Article 202.
-                              |
-                              v
-CHARGED EXPENDITURE
-discussed,
-not voted.
-                              |
-                              v
-VOTED EXPENDITURE
-Demands for Grants
-Assembly only.
-                              |
-                              v
-COUNCIL
-may discuss Budget
-but cannot vote grants.
-                              |
-                              v
-APPROPRIATION BILL
-withdrawal from
-Consolidated Fund.
-                              |
-                              v
-FINANCE BILL
-taxation.
-                              |
-                              v
-SUPPLEMENTARY /
-ADDITIONAL /
-EXCESS GRANTS.
-                              |
-                              v
-VOTE ON ACCOUNT /
-CREDIT /
-EXCEPTIONAL GRANT.
-                              |
-                              v
-                  BRANCH XXVI: ACCOUNTABILITY DEVICES
-QUESTION HOUR.
-                              |
-                              v
-ZERO HOUR
-where rules / practice permit.
-                              |
-                              v
-NO-CONFIDENCE
-Assembly only.
-                              |
-                              v
-CENSURE /
-ADJOURNMENT /
-CALLING ATTENTION.
-                              |
-                              v
-CUT MOTIONS.
-                              |
-                              v
-BUDGET / GRANTS.
-                              |
-                              v
-COMMITTEES.
-                              |
-                              v
-GOVERNOR'S ADDRESS /
-MOTION OF THANKS.
-                              |
-                              v
-AUDIT
-CAG reports /
-PAC.
-                              |
-                              v
-                  BRANCH XXVII: STATE COMMITTEES
-PUBLIC ACCOUNTS.
-                              |
-                              v
-ESTIMATES.
-                              |
-                              v
-PUBLIC UNDERTAKINGS.
-                              |
-                              v
-BUSINESS ADVISORY.
-                              |
-                              v
-PRIVILEGES.
-                              |
-                              v
-PETITIONS.
-                              |
-                              v
-SUBORDINATE LEGISLATION.
-                              |
-                              v
-SELECT COMMITTEE.
-                              |
-                              v
-DRSC
-not uniformly developed
-across states.
-                              |
-                              v
-STRENGTH
-detailed,
-less partisan scrutiny.
-                              |
-                              v
-LIMIT
-resources,
-referral,
-meeting,
-report follow-up.
-                              |
-                              v
-                  BRANCH XXVIII: ANTI-DEFECTION
-TENTH SCHEDULE.
-                              |
-                              v
-DECIDER
-Speaker / Chairman.
-                              |
-                              v
-GOVERNMENT MAJORITY
-may turn on decision timing.
-                              |
-                              v
-KIHOTO HOLLOHAN
-judicial review.
-                              |
-                              v
-KEISHAM
-reasonable period,
-ordinarily three months.
-                              |
-                              v
-SUBHASH DESAI 2023
-whip belongs
-to political party,
-not legislative faction;
-larger Nabam Rebia issue pending
-as sourced.
-                              |
-                              v
-REFORM
-independent tribunal /
-narrow whip /
-fixed process.
-                              |
-                              v
-                  BRANCH XXIX: COUNCIL VERSUS RAJYA SABHA
-COMMON
-permanent,
-indirect election,
-one-third retirement.
-                              |
-                              v
-RAJYA SABHA
-federal chamber.
-                              |
-                              v
-COUNCIL
-state internal chamber,
-no federal function.
-                              |
-                              v
-RAJYA SABHA
-substantial ordinary-Bill equality;
-joint-sitting role.
-                              |
-                              v
-COUNCIL
-four-month delay only;
-no joint sitting.
-                              |
-                              v
-RAJYA SABHA
-Articles 249 / 312
-exclusive powers.
-                              |
-                              v
-COUNCIL
-no equivalent.
-                              |
-                              v
-EXISTENCE
-Rajya Sabha constitutional permanence;
-Council optional under Article 169.
-                              |
-                              v
-                  BRANCH XXX: COUNCIL CASE FOR
-SECOND LOOK
-on legislation.
-                              |
-                              v
-EXPERTS
-Governor-nominated members.
-                              |
-                              v
-LOCAL BODY VOICE.
-                              |
-                              v
-CONTINUITY
-permanent chamber.
-                              |
-                              v
-MINORITY /
-REGIONAL INTEREST
-additional forum.
-                              |
-                              v
-CHECK
-on hasty Assembly majority.
-                              |
-                              v
-POLITICAL TRAINING /
-EXPERIENCE.
-                              |
-                              v
-                  BRANCH XXXI: COUNCIL CASE AGAINST
-COSTLY ORNAMENTAL LUXURY.
-                              |
-                              v
-WHITE ELEPHANT.
-                              |
-                              v
-DELAY
-without final veto.
-                              |
-                              v
-PATRONAGE
-nominations /
-defeated politicians.
-                              |
-                              v
-OUTDATED ELECTORATES
-graduates /
-teachers.
-                              |
-                              v
-NO FEDERAL ROLE.
-                              |
-                              v
-ASSEMBLY DEPENDENCE
-creation / abolition.
-                              |
-                              v
+expenditure consequence alone does not convert every Financial Bill into a Money Bill.
+```
+
+## 7. Articles 200-201: assent and reservation after the 2025 doctrine
+
+```text
+ARTICLE 200 - THREE CONSTITUTIONAL OPTIONS (2025 INSC 1333)
+1 assent;
+2 reserve for President;
+3 withhold and return with comments, only for a non-Money Bill.
+First proviso restricts/implements withholding; it is not a fourth free-standing option.
+Second proviso mandates reservation if High Court powers are derogated so as to endanger its position.
+
+ARTICLE 201
+President may assent or withhold; may direct return of a non-Money Bill through Governor.
+State House(s) reconsider within six months; re-passage does not compel presidential assent.
+
+STATE OF PUNJAB (10 NOV 2023)
+No indefinite inaction; withholding linked to return under the first proviso.
+STATE OF TAMIL NADU (8 APR 2025, 2025 INSC 481)
+On its facts invalidated second-round reservation, prescribed timelines and used Article 142 deemed assent.
+ARTICLE 143 OPINION (20 NOV 2025, 2025 INSC 1333)
+Called general timeline/deemed-assent reasoning erroneous; no rigid clock or deemed assent;
+no pre-enactment merits review; limited mandamus for glaring prolonged unexplained inaction.
+It advised on law; it did not appellate-set aside the Tamil Nadu inter partes relief.
+```
+
+## 8. Articles 202-207: budget, grants and appropriation
+
+```text
+ARTICLE 202 -> annual financial statement: receipts/expenditure; charged versus voted.
+ARTICLE 203 -> charged expenditure discussed, not voted; Assembly alone votes demands for grants.
+Governor recommendation is required for a demand.
+ARTICLE 204 -> Appropriation Bill authorises withdrawal from Consolidated Fund;
+no amendment may vary amount/destination or charged expenditure.
+ARTICLE 205 -> supplementary, additional and excess grants use the Articles 202-204 logic.
+ARTICLE 206 -> vote on account, vote of credit and exceptional grant.
+ARTICLE 207 -> recommendation and introduction controls for financial Bills.
+
+ACCOUNTABILITY CHAIN
+estimate -> debate -> grant vote -> appropriation -> execution -> audit -> PAC follow-up.
+
+COUNCIL LIMIT
+may discuss the financial statement but cannot vote grants or overcome Assembly control.
+```
+
+## 9. Questions, motions, committees and local House practice
+
+```text
+CONSTITUTIONAL TEXT
+Article 164(2): ministry collectively responsible to Assembly.
+Article 208: each House makes procedural rules, subject to Constitution.
+Articles 202-207: financial accountability framework.
+
+LOCAL HOUSE RULES / DIRECTIONS / CONVENTIONS
+Question Hour, Zero Hour or special mention, calling attention, short-duration discussion,
+adjournment/censure/no-confidence motions, cut motions, privilege procedure and committee details.
+Names, notices, admissibility, membership and referral vary by State.
+
+COMMITTEE FUNCTIONS
+PAC -> appropriation and CAG-linked audit.
+Estimates -> economy, efficiency and estimate presentation.
+Public Undertakings -> State enterprise scrutiny.
+Privileges/Ethics/Petitions/Subordinate Legislation/subject committees -> specialised control.
+
+HARD LIMIT
+Do not copy Lok Sabha rule numbers, committee sizes or a fixed DRSC structure into every State.
+```
+
+## 10. Anti-defection, Speaker neutrality and case chronology
+
+```text
+1985 - 52ND AMENDMENT, SECTION 5
+inserted Article 191(2); section 6 inserted Tenth Schedule.
+2003 - 91ST AMENDMENT, SECTION 5
+removed paragraph 3 split protection; two-thirds merger protection remains under paragraph 4.
+
+KIHOTO HOLLOHAN (1992)
+Presiding officer is a tribunal; final decision is judicially reviewable on recognised grounds.
+RAVI NAIK (1994)
+Voluntarily giving up membership may be inferred from conduct, not only formal resignation.
+RAJENDRA SINGH RANA (2007)
+Speaker cannot avoid deciding disqualification by accepting an unsupported split claim.
+NABAM REBIA (2016)
+Speaker-removal notice restricted adjudication; correctness referred by SUBHASH DESAI (2023).
+KEISHAM MEGHACHANDRA (2020)
+Absent exceptional circumstances, petitions should ordinarily be decided within three months;
+Court urged Parliament to consider an independent tribunal.
+SUBHASH DESAI (2023)
+Political party, not a legislature-party faction, appoints the authorised whip/leader;
+larger-Bench reference leaves Nabam Rebia issue unresolved.
+PADI KAUSHIK REDDY (31 JUL 2025)
+Review survives and Telangana petitions received a case-specific three-month direction.
+```
+
+## 11. Representation, amendments, Council comparison and Article 213
+
+```text
+1976 - 42ND AMENDMENT, SECTION 38
+amended Article 170 delimitation/readjustment framework and introduced the freeze architecture.
+2001 - 84TH AMENDMENT, SECTION 5
+amended Article 170: extended freeze to first post-2026 census publication and enabled limited readjustment.
+2003 - 87TH AMENDMENT, SECTION 4
+substituted 2001 for 1991 census references in Article 170.
+2019 - 104TH AMENDMENT, SECTION 2
+amended Article 334: SC/ST reservation extended; Anglo-Indian special representation ceased after its period.
+2023 - 106TH AMENDMENT, SECTIONS 2-5
+inserted Delhi clauses and Articles 330A, 332A, 334A; one-third reservation for women in
+Lok Sabha/Assemblies, including within SC/ST seats, operates after Article 334A census-delimitation sequence.
+It does not cover Legislative Councils.
+S.O. 1922(E), 16 April 2026 commenced the Amendment; commencement did not itself activate reserved seats.
+
+ARTICLE 213 ORDINANCE
+specified House-recess condition + immediate-action satisfaction + State legislative competence;
+Act-like force, mandatory laying and expiry six weeks after later reassembly unless earlier ended.
+D.C. WADHWA (1987) and KRISHNA KUMAR SINGH (2017) reject routine repromulgation.
+```
+
+## 12. Prelims traps, reform and Mains answer spine
+
+```text
+PRELIMS FIREWALL
+Governor is legislature component, not House member.
+Article 169: Assembly special majority; Parliament ordinary law.
+Article 174: six-month maximum gap; no fixed three sessions or annual sitting minimum.
+Council: 3+1 month ordinary-Bill delay; 14-day Money-Bill recommendation; no joint sitting.
+Article 192 route excludes Tenth Schedule.
+Article 212 shields procedural irregularity, not illegality.
+Article 213 is temporary and competence-bound.
+No invented current Council strength or uniform House-rule number.
+
+REFORM MENU
+minimum evidence-based sitting calendar; default committee scrutiny with stated exceptions;
+research and drafting support; protected Question Hour; reasoned/timely chair rulings;
+narrower confidence-linked whip; independent defection tribunal debate;
+modernise Council electorates and nominations; post-legislative review.
+
+MAINS SPINE
+define -> locate exact Article -> classify text/statute/rule/convention/judgment
+-> explain mechanism -> name evidence -> test democratic/accountability effect
+-> state exception/status -> targeted reform -> qualified verdict.
+
 VERDICT
-utility depends
-on independent scrutiny /
-reformed composition.
-                              |
-                              v
-                  BRANCH XXXII: SCRUTINY DEFICIT
-FEW SITTING DAYS
-qualitative trend;
-use verified state-specific data
-if citing numbers.
-                              |
-                              v
-RUSHED BILLS.
-                              |
-                              v
-LIMITED COMMITTEE REFERRAL.
-                              |
-                              v
-DISRUPTION.
-                              |
-                              v
-EXECUTIVE MAJORITY.
-                              |
-                              v
-ORDINANCE RELIANCE.
-                              |
-                              v
-WEAK RESEARCH SUPPORT.
-                              |
-                              v
-LOCAL MEDIA ATTENTION
-lower than Parliament.
-                              |
-                              v
-REFORM
-calendar,
-committees,
-impact review,
-digital records,
-public consultation.
-                              |
-                              v
-                  BRANCH XXXIII: WOMEN'S RESERVATION
-106TH AMENDMENT 2023.
-                              |
-                              v
-ARTICLE 332A
-one-third reservation
-in State Assemblies,
-including within
-SC / ST reserved seats.
-                              |
-                              v
-COMMENCED
-16 April 2026.
-                              |
-                              v
-NOT OPERATIONAL
-Article 334A:
-relevant first
-post-commencement census figures
-must be published
-+ delimitation.
-                              |
-                              v
-ROTATION
-after each delimitation
-as constitutional design provides.
-                              |
-                              v
-CAUTION
-no implementation election /
-seat count
-without authoritative process.
-                              |
-                              v
-                  BRANCH XXXIV: ARTICLES 208-212
-ARTICLE 208
-rules of procedure.
-                              |
-                              v
-ARTICLE 209
-law may regulate
-financial-business procedure.
-                              |
-                              v
-ARTICLE 210
-language in legislature.
-                              |
-                              v
-ARTICLE 211
-no discussion
-of SC / HC judge conduct
-in discharge of duties.
-                              |
-                              v
-ARTICLE 212
-court cannot question proceedings
-for procedural irregularity.
-                              |
-                              v
-LIMIT
-substantive illegality /
-unconstitutionality /
-mala fides
-may remain reviewable.
-                              |
-                              v
-                    CONSTITUTIONAL CASE / EXAMPLE BANK
-KEISHAM MEGHACHANDRA 2020
-defection timing /
-tribunal suggestion.
-                              |
-                              v
-PADI KAUSHIK REDDY 2025
-Telangana decision direction.
-                              |
-                              v
-KIHOTO HOLLOHAN 1992
-presiding-officer review.
-                              |
-                              v
-SITA SOREN 2024
-bribery privilege boundary.
-                              |
-                              v
-NABAM REBIA 2016
-summoning / Governor limits.
-                              |
-                              v
-ARTICLE 143 OPINION 2025
-assent timing.
-                              |
-                              v
-ANDHRA COUNCIL
-creation-abolition-revival.
-                              |
-                              v
-                    SOURCE CRITICISM
-bicameral proposal != operating Council;
-constitutional minimum != current strength;
-indirect election != direct mandate;
-Council delay != veto;
-Speaker finality != no judicial review;
-procedural immunity != substantive immunity;
-Money Bill label != every financial measure;
-committee existence != effective scrutiny;
-state-level data require state / date;
-commencement != women's-seat operation.
-                              |
-                              v
-                    MAJOR DEBATES
-UNICAMERAL OR BICAMERAL?
-speed / cost
-versus scrutiny / representation.
-                              |
-                              v
-COUNCIL:
-REVISING CHAMBER OR PATRONAGE?
-reform determines value.
-                              |
-                              v
-SPEAKER:
-UMPIRE OR PARTY ACTOR?
-institutional insulation.
-                              |
-                              v
-ASSEMBLY PRIMACY:
-DEMOCRATIC OR MAJORITARIAN?
-confidence / finance legitimacy
-needs scrutiny.
-                              |
-                              v
-ASSENT:
-CHECK OR DELAY?
-reasoned action /
-limited review.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-only six bicameral states;
-Article 169 two-stage process;
-Parliament simple majority;
-Council max one-third,
-min forty;
-five-sixths elected indirectly;
-one-sixth nominated;
-Assembly 60-500 normally;
-Council permanent;
-ordinary-Bill delay four months;
-Money Bill fourteen days;
-no State joint sitting;
-CoM responsible only Assembly;
-Speaker survives dissolution.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT MAINS:
-2021 GS-II Q14
-constitutional provisions /
-working of Legislative Councils;
-15 marks,
-250 words.
-                              |
-                              v
-2023 GS-II Q5
-presiding officers
-and impartial conduct;
-10 marks,
-150 words.
-No Mains answer key.
-                              |
-                              v
-PRELIMS ROUTES:
-2018 GS-I Q39
-Assembly Speaker
-vacation / continuity;
-older official key unavailable,
-no answer letter invented.
-                              |
-                              v
-2019 GS-I Q53
-Governor's address /
-Assembly procedure;
-older official key unavailable,
-no answer letter invented.
-                              |
-                              v
-2025 GS-I Q59
-cross-owned current
-state-legislature / Governor route;
-official-key status retained
-only as owner package records;
-no unsupported letter added.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-Article 168
--> six bicameral states
--> Article 169
--> Assembly
--> Council fractions
--> duration / qualification
--> sessions / officers / quorum
--> ordinary Bill
--> Money / Financial Bills
--> budget
--> committees
--> anti-defection
--> Council debate / reservation.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-COUNCIL QUESTION:
-optional-bicameral thesis
--> Article 169
--> Article 171 composition
--> legislative / financial weakness
--> Rajya Sabha distinction
--> case for / against
--> reform
--> conditional verdict.
-                              |
-                              v
-PRESIDING OFFICER:
-constitutional office
--> procedural / certification /
-defection powers
--> partisan incentives
--> cases
--> reform
--> impartiality conclusion.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-The Legislative Assembly rightly dominates State government because it alone
-carries direct popular confidence and financial control. A Legislative Council
-can nevertheless improve law-making where it supplies independent scrutiny,
-expertise and local representation; without those functions it becomes a costly
-delay chamber. Across both forms, the more urgent reform is institutional:
-impartial presiding officers, timely defection rulings, committee scrutiny,
-adequate sittings and assent practices that respect democratic legislation
-without abandoning constitutional review.
+Assembly primacy is constitutionally deliberate; legitimacy improves when primacy is matched
+by deliberation, impartial procedure, financial scrutiny and reviewable constitutional boundaries.
 ```

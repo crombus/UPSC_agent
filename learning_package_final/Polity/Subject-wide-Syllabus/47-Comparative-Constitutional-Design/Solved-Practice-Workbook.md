@@ -1,492 +1,655 @@
 ---
-title: "Comparative Constitutional Design — Solved Practice Workbook"
+title: "Polity 47 - Comparative Constitutional Design - Solved Practice Workbook"
 topic_key: polity-47
 ---
-# Comparative Constitutional Design — Solved Practice Workbook
+# Polity 47 - Comparative Constitutional Design - Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-### MCQ 1
+### MCQ 1. Controlled comparison
 
-Which statement is most constitutionally accurate about constitutional scheme?
-A. A constitutional scheme connects institutions, rights, territorial power and accountability.
-B. It is only a list of foreign sources.
-C. A common title proves identical power.
-D. Political context is irrelevant to constitutional operation.
+Which sequence best represents a constitutionally disciplined comparative method?
 
-**Answer: A.** A constitutional scheme connects institutions, rights, territorial power and accountability.
+A. Hold the public function constant; compare selection, tenure, removal, powers, accountability and context; then state the consequence.
+B. List foreign constitutional features alphabetically and select the most familiar one.
+C. Treat identical institutional titles as proof of identical legal authority.
+D. Compare an ideal foreign text only with disputed Indian practice.
 
-### MCQ 2
+**Answer: A.**
 
-Which proposition best supports a disciplined comparison of constitutional scheme?
-A. It is only a list of foreign sources.
-B. A constitutional scheme connects institutions, rights, territorial power and accountability.
-C. Political context is irrelevant to constitutional operation.
-D. A common title proves identical power.
+**Option-by-option explanation:**
 
-**Answer: B.** A constitutional scheme connects institutions, rights, territorial power and accountability.
+- **A:** Correct. It compares like functions across the complete institutional life cycle and ends with constitutional consequence.
+- **B:** Alphabetical description supplies no common variable, causal analysis or India-anchored conclusion.
+- **C:** Titles such as President, Senate and Supreme Court conceal different selection rules and powers.
+- **D:** Text-to-practice asymmetry creates selective idealisation; like must be compared with like.
 
-### MCQ 3
+**Question-specific trap:** The trap is mistaking breadth of country facts for control of the comparison.
 
-Select the least vulnerable claim concerning constitutional scheme.
-A. Political context is irrelevant to constitutional operation.
-B. A common title proves identical power.
-C. A constitutional scheme connects institutions, rights, territorial power and accountability.
-D. It is only a list of foreign sources.
+### MCQ 2. Sources of constitutional operation
 
-**Answer: C.** A constitutional scheme connects institutions, rights, territorial power and accountability.
+Which statement correctly distinguishes constitutional text, statute, convention and practice?
 
-### MCQ 4
+A. Convention always overrides enacted constitutional text when political actors accept it.
+B. Text supplies supreme rules; statutes implement or alter rules within competence; conventions guide political conduct; practice may diverge from formal design.
+C. Practice and constitutional validity are synonyms because repeated conduct becomes lawful.
+D. A statute and a judicial convention are interchangeable sources in every system.
 
-Which statement is most constitutionally accurate about codification and rigidity?
-A. Every written constitution is rigid.
-B. Flexibility necessarily eliminates constitutionalism.
-C. An uncodified constitution contains no written law.
-D. Codification and amendment rigidity are analytically separate variables.
+**Answer: B.**
 
-**Answer: D.** Codification and amendment rigidity are analytically separate variables.
+**Option-by-option explanation:**
 
-### MCQ 5
+- **A:** Convention may guide discretion but cannot automatically displace binding constitutional text.
+- **B:** Correct. The four sources perform different legal and political functions and must not be collapsed.
+- **C:** Repeated conduct can remain unconstitutional; operation does not by itself determine validity.
+- **D:** Statutes are enacted law, whereas conventions are political norms whose legal treatment varies.
 
-Which proposition best supports a disciplined comparison of codification and rigidity?
-A. Codification and amendment rigidity are analytically separate variables.
-B. Every written constitution is rigid.
-C. Flexibility necessarily eliminates constitutionalism.
-D. An uncodified constitution contains no written law.
+**Question-specific trap:** The trap is assigning the legal force of one source category to another.
 
-**Answer: A.** Codification and amendment rigidity are analytically separate variables.
+### MCQ 3. Responsible government
 
-### MCQ 6
+With reference to India and the United Kingdom, which feature most directly expresses responsible government?
 
-Select the least vulnerable claim concerning codification and rigidity.
-A. An uncodified constitution contains no written law.
-B. Codification and amendment rigidity are analytically separate variables.
-C. Every written constitution is rigid.
-D. Flexibility necessarily eliminates constitutionalism.
+A. The head of State personally directs day-to-day cabinet policy.
+B. The executive holds a fixed term unaffected by the lower House.
+C. The ministry remains in office while it retains the confidence of the popularly responsible chamber.
+D. Courts select the Prime Minister after every general election.
 
-**Answer: B.** Codification and amendment rigidity are analytically separate variables.
+**Answer: C.**
 
-### MCQ 7
+**Option-by-option explanation:**
 
-Which statement is most constitutionally accurate about executive systems?
-A. A parliamentary executive has a constitutionally fixed tenure immune from confidence.
-B. Every President exercises personal executive power.
-C. Parliamentary responsibility and presidential separation create different tenure and accountability incentives.
-D. Semi-presidentialism contains no legislative responsibility.
+- **A:** In both systems the constitutional head ordinarily does not personally govern against responsible advice.
+- **B:** A confidence-based cabinet has politically variable tenure, unlike a presidential fixed term.
+- **C:** Correct. Collective responsibility connects executive survival to lower-house confidence.
+- **D:** Government formation is political-constitutional, not a routine judicial appointment function.
 
-**Answer: C.** Parliamentary responsibility and presidential separation create different tenure and accountability incentives.
+**Question-specific trap:** The trap is confusing a ceremonial head of State with the politically responsible government.
 
-### MCQ 8
+### MCQ 4. Separation and dissolution
 
-Which proposition best supports a disciplined comparison of executive systems?
-A. Every President exercises personal executive power.
-B. A parliamentary executive has a constitutionally fixed tenure immune from confidence.
-C. Semi-presidentialism contains no legislative responsibility.
-D. Parliamentary responsibility and presidential separation create different tenure and accountability incentives.
+Which proposition is accurate regarding the United States presidential system?
 
-**Answer: D.** Parliamentary responsibility and presidential separation create different tenure and accountability incentives.
+A. The President may dissolve Congress to resolve legislative deadlock.
+B. Congress may remove the President through an ordinary no-confidence vote.
+C. Cabinet secretaries must simultaneously hold seats in Congress.
+D. The President and Congress possess separately grounded tenure, so deadlock is managed through checks rather than dissolution.
 
-### MCQ 9
+**Answer: D.**
 
-Select the least vulnerable claim concerning executive systems.
-A. Parliamentary responsibility and presidential separation create different tenure and accountability incentives.
-B. Semi-presidentialism contains no legislative responsibility.
-C. Every President exercises personal executive power.
-D. A parliamentary executive has a constitutionally fixed tenure immune from confidence.
+**Option-by-option explanation:**
 
-**Answer: A.** Parliamentary responsibility and presidential separation create different tenure and accountability incentives.
+- **A:** The US President has no power to dissolve Congress; dissolution belongs to parliamentary logic.
+- **B:** Presidential removal uses impeachment and conviction, not loss of legislative confidence.
+- **C:** The Incompatibility Clause separates congressional membership from executive office.
+- **D:** Correct. Separate mandates create stability but also veto points and possible deadlock.
 
-### MCQ 10
+**Question-specific trap:** The trap is importing a Westminster deadlock remedy into a presidential constitution.
 
-Which statement is most constitutionally accurate about parliamentary sovereignty?
-A. UK courts routinely invalidate Westminster primary legislation.
-B. India adopted parliamentary government within a supreme written Constitution.
-C. India adopted unlimited British parliamentary sovereignty.
-D. Basic structure limits ordinary UK legislation.
+### MCQ 5. Head of State and government
 
-**Answer: B.** India adopted parliamentary government within a supreme written Constitution.
+Which comparison of India, the United Kingdom and the United States is most accurate?
 
-### MCQ 11
+A. India and the UK separate a constitutional head of State from a confidence-dependent head of government; the US President combines both roles.
+B. All three systems vest personal executive discretion in the head of State to the same extent.
+C. Only the United States has a politically accountable executive.
+D. The Indian President may independently dismiss a Prime Minister who retains a Lok Sabha majority.
 
-Which proposition best supports a disciplined comparison of parliamentary sovereignty?
-A. UK courts routinely invalidate Westminster primary legislation.
-B. India adopted unlimited British parliamentary sovereignty.
-C. India adopted parliamentary government within a supreme written Constitution.
-D. Basic structure limits ordinary UK legislation.
+**Answer: A.**
 
-**Answer: C.** India adopted parliamentary government within a supreme written Constitution.
+**Option-by-option explanation:**
 
-### MCQ 12
+- **A:** Correct. The shared parliamentary dual executive contrasts with the US single presidential executive.
+- **B:** Formal vesting and practical authority differ sharply; ministerial advice is central in India and the UK.
+- **C:** Parliamentary collective responsibility is a direct form of political accountability.
+- **D:** A majority-supported Prime Minister cannot be dismissed merely on the President's personal preference.
 
-Select the least vulnerable claim concerning parliamentary sovereignty.
-A. UK courts routinely invalidate Westminster primary legislation.
-B. India adopted unlimited British parliamentary sovereignty.
-C. Basic structure limits ordinary UK legislation.
-D. India adopted parliamentary government within a supreme written Constitution.
+**Question-specific trap:** The trap is equating formal executive vesting with independent governing authority.
 
-**Answer: D.** India adopted parliamentary government within a supreme written Constitution.
+### MCQ 6. Veto, confidence and deadlock
 
-### MCQ 13
+Which institution-mechanism pairing is constitutionally sound?
 
-Which statement is most constitutionally accurate about federal residuary power?
-A. Residuary power lies with the Union in India and the federal Parliament in Canada.
-B. Australia assigns all unenumerated power to its Commonwealth Parliament.
-C. Residuary allocation is identical in all federations.
-D. The US Tenth Amendment assigns residuary power to Congress.
+A. India — presidential veto permanently overrides a repassed ordinary Bill.
+B. United Kingdom — government defeat on confidence may require resignation or an election route under governing law and convention.
+C. United States — impeachment is the ordinary device for resolving policy disagreement with Congress.
+D. India — dissolution converts the President into an independently elected political executive.
 
-**Answer: A.** Residuary power lies with the Union in India and the federal Parliament in Canada.
+**Answer: B.**
 
-### MCQ 14
+**Option-by-option explanation:**
 
-Which proposition best supports a disciplined comparison of federal residuary power?
-A. Residuary allocation is identical in all federations.
-B. Residuary power lies with the Union in India and the federal Parliament in Canada.
-C. The US Tenth Amendment assigns residuary power to Congress.
-D. Australia assigns all unenumerated power to its Commonwealth Parliament.
+- **A:** An Indian presidential return of an ordinary Bill may be overcome by parliamentary repassage; it is not a US-style final veto.
+- **B:** Correct. Confidence and government formation operate through law and convention in parliamentary government.
+- **C:** Impeachment addresses constitutionally grave misconduct, not ordinary policy deadlock.
+- **D:** Dissolution does not alter the President's parliamentary constitutional role.
 
-**Answer: B.** Residuary power lies with the Union in India and the federal Parliament in Canada.
+**Question-specific trap:** The trap is treating veto, no-confidence, impeachment and dissolution as interchangeable removal devices.
 
-### MCQ 15
+### MCQ 7. India's federal description
 
-Select the least vulnerable claim concerning federal residuary power.
-A. The US Tenth Amendment assigns residuary power to Congress.
-B. Australia assigns all unenumerated power to its Commonwealth Parliament.
-C. Residuary power lies with the Union in India and the federal Parliament in Canada.
-D. Residuary allocation is identical in all federations.
+Which formulation best describes India's territorial constitution?
 
-**Answer: C.** Residuary power lies with the Union in India and the federal Parliament in Canada.
+A. A unitary State because Parliament may alter State boundaries.
+B. A confederation because States created an indissoluble compact.
+C. A federation or Union with constitutionally divided powers and significant centralising features.
+D. A quasi-federal system in which federal rules have no binding legal status.
 
-### MCQ 16
+**Answer: C.**
 
-Which statement is most constitutionally accurate about territorial chambers?
-A. Canada's Senate consists of provincial-government delegates.
-B. The US Senate uses population-weighted State representation.
-C. Rajya Sabha gives every State equal seats.
-D. The Bundesrat represents Land governments, unlike Rajya Sabha's indirectly elected membership.
+**Option-by-option explanation:**
 
-**Answer: D.** The Bundesrat represents Land governments, unlike Rajya Sabha's indirectly elected membership.
+- **A:** Boundary alteration is centralising, but it does not erase the Seventh Schedule or constitutional federal adjudication.
+- **B:** India was not formed by a revocable treaty among sovereign States.
+- **C:** Correct. This formulation recognises both federal structure and Union-weighted design without sloganising.
+- **D:** The quasi-federal label is too blunt when used to deny operative federalism.
 
-### MCQ 17
+**Question-specific trap:** The trap is forcing India into a unitary/federal binary instead of identifying the actual allocation.
 
-Which proposition best supports a disciplined comparison of territorial chambers?
-A. The Bundesrat represents Land governments, unlike Rajya Sabha's indirectly elected membership.
-B. Rajya Sabha gives every State equal seats.
-C. The US Senate uses population-weighted State representation.
-D. Canada's Senate consists of provincial-government delegates.
+### MCQ 8. Residuary powers
 
-**Answer: A.** The Bundesrat represents Land governments, unlike Rajya Sabha's indirectly elected membership.
+Which set correctly states the broad residuary-power allocation?
 
-### MCQ 18
+A. India—States; United States—Congress; Canada—provinces; Australia—Commonwealth.
+B. India—Union; United States—President; Canada—courts; Australia—Senate.
+C. India—Union; United States—States or people; Canada—federal Parliament; Australia—States.
+D. All federations reserve residuary power to constituent units.
 
-Select the least vulnerable claim concerning territorial chambers.
-A. The US Senate uses population-weighted State representation.
-B. The Bundesrat represents Land governments, unlike Rajya Sabha's indirectly elected membership.
-C. Canada's Senate consists of provincial-government delegates.
-D. Rajya Sabha gives every State equal seats.
+**Answer: D.**
 
-**Answer: B.** The Bundesrat represents Land governments, unlike Rajya Sabha's indirectly elected membership.
+**Option-by-option explanation:**
 
-### MCQ 19
+- **A:** Every pairing is reversed or constitutionally misplaced.
+- **B:** Presidents, courts and upper chambers are not the general residuary repositories named here.
+- **C:** Correct. The distribution demonstrates why federalism cannot be inferred from one universal model.
+- **D:** Canada and India are direct counterexamples to the claimed universal rule.
 
-Which statement is most constitutionally accurate about judicial remedies?
-A. Indian courts cannot invalidate legislation.
-B. UK parliamentary sovereignty is identical to Indian constitutional supremacy.
-C. A UK Human Rights Act declaration of incompatibility does not itself invalidate an Act.
-D. US judicial review is a parliamentary remedy.
+**Question-specific trap:** The trap is assuming coming-together and holding-together federations allocate residue identically.
 
-**Answer: C.** A UK Human Rights Act declaration of incompatibility does not itself invalidate an Act.
+### MCQ 9. Territorial second chambers
 
-### MCQ 20
+Which comparison is accurate?
 
-Which proposition best supports a disciplined comparison of judicial remedies?
-A. US judicial review is a parliamentary remedy.
-B. UK parliamentary sovereignty is identical to Indian constitutional supremacy.
-C. Indian courts cannot invalidate legislation.
-D. A UK Human Rights Act declaration of incompatibility does not itself invalidate an Act.
+A. Rajya Sabha uses equal State representation like the US and Australian Senates.
+B. The Canadian Senate consists of instructed provincial-government delegations.
+C. The German Bundesrat is directly elected on one-person-one-vote principles.
+D. Rajya Sabha is population-weighted and indirectly elected, while the Bundesrat represents Land governments.
 
-**Answer: D.** A UK Human Rights Act declaration of incompatibility does not itself invalidate an Act.
+**Answer: A.**
 
-### MCQ 21
+**Option-by-option explanation:**
 
-Select the least vulnerable claim concerning judicial remedies.
-A. A UK Human Rights Act declaration of incompatibility does not itself invalidate an Act.
-B. US judicial review is a parliamentary remedy.
-C. Indian courts cannot invalidate legislation.
-D. UK parliamentary sovereignty is identical to Indian constitutional supremacy.
+- **A:** Indian States have unequal Rajya Sabha representation; US and Australian States have equality within their Senates.
+- **B:** Canadian senators are appointed within a regional allocation; they are not provincial cabinet delegates.
+- **C:** Bundesrat votes are cast by Land governments, not by a separately elected chamber.
+- **D:** Correct. Selection and representational principle distinguish the institutions.
 
-**Answer: A.** A UK Human Rights Act declaration of incompatibility does not itself invalidate an Act.
+**Question-specific trap:** The trap is using the generic label upper house to erase who is represented.
 
-### MCQ 22
+### MCQ 10. Fiscal federalism
 
-Which statement is most constitutionally accurate about rights and directives?
-A. Indian DPSPs are ordinary individual writ claims.
-B. South Africa textually protects justiciable socio-economic rights, unlike Indian DPSPs.
-C. The US Constitution contains India's DPSP chapter.
-D. Irish directive principles are enforced exactly like South African rights.
+Which proposition best captures fiscal federalism in comparative design?
 
-**Answer: B.** South Africa textually protects justiciable socio-economic rights, unlike Indian DPSPs.
+A. Legislative competence, revenue assignment, transfers and borrowing rules jointly shape real self-rule.
+B. A written division of legislative subjects makes fiscal transfers constitutionally irrelevant.
+C. Equal upper-house seats guarantee equal fiscal capacity among units.
+D. Residuary legislative power alone determines every intergovernmental fiscal outcome.
 
-### MCQ 23
+**Answer: B.**
 
-Which proposition best supports a disciplined comparison of rights and directives?
-A. Indian DPSPs are ordinary individual writ claims.
-B. Irish directive principles are enforced exactly like South African rights.
-C. South Africa textually protects justiciable socio-economic rights, unlike Indian DPSPs.
-D. The US Constitution contains India's DPSP chapter.
+**Option-by-option explanation:**
 
-**Answer: C.** South Africa textually protects justiciable socio-economic rights, unlike Indian DPSPs.
+- **A:** Correct. Formal powers require revenue capacity and transfer arrangements to become operational autonomy.
+- **B:** Vertical and horizontal imbalances persist despite enumerated legislative authority.
+- **C:** Representation cannot equalise tax bases, expenditure needs or transfer dependence.
+- **D:** Fiscal outcomes also depend on tax assignment, grants, institutions and political bargaining.
 
-### MCQ 24
+**Question-specific trap:** The trap is measuring federal autonomy only through legislative lists.
 
-Select the least vulnerable claim concerning rights and directives.
-A. Indian DPSPs are ordinary individual writ claims.
-B. The US Constitution contains India's DPSP chapter.
-C. Irish directive principles are enforced exactly like South African rights.
-D. South Africa textually protects justiciable socio-economic rights, unlike Indian DPSPs.
+### MCQ 11. Asymmetry
 
-**Answer: D.** South Africa textually protects justiciable socio-economic rights, unlike Indian DPSPs.
+Which is the most defensible understanding of constitutional asymmetry?
 
-### MCQ 25
+A. It is necessarily temporary discrimination that contradicts federalism.
+B. It can allocate differentiated autonomy or representation to manage distinct territorial conditions within a common constitution.
+C. It means every constituent unit possesses a unilateral right to secede.
+D. It exists only in India and has no comparative relevance.
 
-Which statement is most constitutionally accurate about secularism?
-A. Indian secularism combines liberty, equality, accommodation and constitutionally permitted reform.
-B. US non-establishment requires absolute state isolation from religion.
-C. French laicite and Indian secularism are operationally identical.
-D. Indian secularism authorises religious preference without equality review.
+**Answer: C.**
 
-**Answer: A.** Indian secularism combines liberty, equality, accommodation and constitutionally permitted reform.
+**Option-by-option explanation:**
 
-### MCQ 26
+- **A:** Asymmetry can be a durable constitutional accommodation rather than a defect.
+- **B:** Correct. Differentiation may support integration while remaining bounded by constitutional equality and structure.
+- **C:** Autonomy arrangements do not ordinarily imply a secession right.
+- **D:** Canada and other multinational or territorially diverse orders also use differentiated arrangements.
 
-Which proposition best supports a disciplined comparison of secularism?
-A. Indian secularism authorises religious preference without equality review.
-B. Indian secularism combines liberty, equality, accommodation and constitutionally permitted reform.
-C. French laicite and Indian secularism are operationally identical.
-D. US non-establishment requires absolute state isolation from religion.
+**Question-specific trap:** The trap is confusing unequal constitutional treatment with unconstitutional arbitrariness.
 
-**Answer: B.** Indian secularism combines liberty, equality, accommodation and constitutionally permitted reform.
+### MCQ 12. Emergency and federal balance
 
-### MCQ 27
+Which statement is correct about emergency federalism in India?
 
-Select the least vulnerable claim concerning secularism.
-A. French laicite and Indian secularism are operationally identical.
-B. US non-establishment requires absolute state isolation from religion.
-C. Indian secularism combines liberty, equality, accommodation and constitutionally permitted reform.
-D. Indian secularism authorises religious preference without equality review.
+A. Article 356 is entirely beyond judicial review because it concerns political satisfaction.
+B. Every emergency automatically abolishes State governments.
+C. Emergency provisions can centralise authority, but their triggers, approvals and effects differ and remain constitutionally reviewable.
+D. Financial Emergency has been repeatedly proclaimed since 1950.
 
-**Answer: C.** Indian secularism combines liberty, equality, accommodation and constitutionally permitted reform.
+**Answer: D.**
 
-### MCQ 28
+**Option-by-option explanation:**
 
-Which statement is most constitutionally accurate about judicial appointments?
-A. Public hearings automatically eliminate partisan selection.
-B. The US President appoints Supreme Court judges without Senate participation.
-C. India's Constitution expressly names the collegium.
-D. India's collegium and US Senate-confirmation system expose different independence-accountability risks.
+- **A:** S. R. Bommai confirms judicial review of Article 356 proclamations.
+- **B:** Articles 352, 356 and 360 create different legal regimes; none supports this universal claim.
+- **C:** Correct. Comparison must disaggregate each regime and its safeguards.
+- **D:** No Financial Emergency has been proclaimed; the option invents practice.
 
-**Answer: D.** India's collegium and US Senate-confirmation system expose different independence-accountability risks.
+**Question-specific trap:** The trap is treating three distinct Indian emergency provisions as one automatic consequence.
 
-### MCQ 29
+### MCQ 13. Due process and Article 21
 
-Which proposition best supports a disciplined comparison of judicial appointments?
-A. India's collegium and US Senate-confirmation system expose different independence-accountability risks.
-B. India's Constitution expressly names the collegium.
-C. Public hearings automatically eliminate partisan selection.
-D. The US President appoints Supreme Court judges without Senate participation.
+Which statement best describes the India–US comparison?
 
-**Answer: A.** India's collegium and US Senate-confirmation system expose different independence-accountability risks.
+A. India's text says procedure established by law, but Maneka Gandhi requires procedure to be just, fair and reasonable.
+B. India amended Article 21 to replace its text with the US phrase due process of law.
+C. US due process is a non-justiciable directive principle.
+D. Procedure established by law prevents any review of the quality of legal procedure.
 
-### MCQ 30
+**Answer: A.**
 
-Select the least vulnerable claim concerning judicial appointments.
-A. The US President appoints Supreme Court judges without Senate participation.
-B. India's collegium and US Senate-confirmation system expose different independence-accountability risks.
-C. Public hearings automatically eliminate partisan selection.
-D. India's Constitution expressly names the collegium.
+**Option-by-option explanation:**
 
-**Answer: B.** India's collegium and US Senate-confirmation system expose different independence-accountability risks.
+- **A:** Correct. Indian doctrine deepened fairness without rewriting the constitutional phrase.
+- **B:** No such textual replacement occurred; doctrinal development is not formal amendment.
+- **C:** Due process is constitutional and judicially enforceable in the United States.
+- **D:** Maneka Gandhi rejects a merely formal reading of procedure.
 
-### MCQ 31
+**Question-specific trap:** The trap is converting doctrinal convergence into a false claim of textual identity.
 
-Which statement is most constitutionally accurate about amendment?
-A. Article V allows the US President to amend the Constitution.
-B. Germany's Article 79(3) and India's basic structure have the same textual source.
-C. India uses multiple amendment routes and a judicially developed basic-structure limit.
-D. Australia's section 128 requires no referendum.
+### MCQ 14. Human Rights Act remedy
 
-**Answer: C.** India uses multiple amendment routes and a judicially developed basic-structure limit.
+Under the United Kingdom's Human Rights Act framework, a higher court's declaration of incompatibility:
 
-### MCQ 32
+A. Automatically voids the Act from the date of enactment.
+B. Signals incompatibility but does not itself invalidate the primary legislation.
+C. Converts the UK Supreme Court into a sovereign constitutional legislature.
+D. Binds Indian courts as foreign constitutional precedent.
 
-Which proposition best supports a disciplined comparison of amendment?
-A. Germany's Article 79(3) and India's basic structure have the same textual source.
-B. Australia's section 128 requires no referendum.
-C. Article V allows the US President to amend the Constitution.
-D. India uses multiple amendment routes and a judicially developed basic-structure limit.
+**Answer: B.**
 
-**Answer: D.** India uses multiple amendment routes and a judicially developed basic-structure limit.
+**Option-by-option explanation:**
 
-### MCQ 33
+- **A:** The declaration leaves the Act legally operative unless changed through the political process.
+- **B:** Correct. It exemplifies dialogic or weak-form review within parliamentary sovereignty.
+- **C:** Courts interpret and declare; they do not acquire Westminster's legislative authority.
+- **D:** Foreign decisions and statutes may persuade but do not bind India.
 
-Select the least vulnerable claim concerning amendment.
-A. India uses multiple amendment routes and a judicially developed basic-structure limit.
-B. Article V allows the US President to amend the Constitution.
-C. Australia's section 128 requires no referendum.
-D. Germany's Article 79(3) and India's basic structure have the same textual source.
+**Question-specific trap:** The trap is assuming every rights remedy has Indian-style invalidating force.
 
-**Answer: A.** India uses multiple amendment routes and a judicially developed basic-structure limit.
+### MCQ 15. Canada's Charter override
 
-### MCQ 34
+Which statement about section 33 of the Canadian Charter is accurate?
 
-Which statement is most constitutionally accurate about elections?
-A. France elects its President through Indian-style weighted State voting.
-B. India's indirect presidential election fits a parliamentary and federal office design.
-C. An identical electoral formula is suitable for every head of state.
-D. The office's power is irrelevant to its election method.
+A. It permanently excludes the entire Constitution from judicial review.
+B. It permits courts to suspend Parliament whenever a right is limited.
+C. It is identical to the UK doctrine of unlimited parliamentary sovereignty.
+D. It allows an express, time-limited legislative override of specified Charter rights, subject to constitutional conditions.
 
-**Answer: B.** India's indirect presidential election fits a parliamentary and federal office design.
+**Answer: C.**
 
-### MCQ 35
+**Option-by-option explanation:**
 
-Which proposition best supports a disciplined comparison of elections?
-A. France elects its President through Indian-style weighted State voting.
-B. The office's power is irrelevant to its election method.
-C. India's indirect presidential election fits a parliamentary and federal office design.
-D. An identical electoral formula is suitable for every head of state.
+- **A:** The override is bounded by subject, form and renewal; constitutional review continues elsewhere.
+- **B:** Section 33 is a legislative instrument, not a judicial suspension power.
+- **C:** Canada remains constitutionally supreme; section 33 is an entrenched exception mechanism.
+- **D:** Correct. Its limited scope prevents treating it as a general cancellation of rights.
 
-**Answer: C.** India's indirect presidential election fits a parliamentary and federal office design.
+**Question-specific trap:** The trap is expanding a specified override into total legislative supremacy.
 
-### MCQ 36
+### MCQ 16. South African socio-economic rights
 
-Select the least vulnerable claim concerning elections.
-A. The office's power is irrelevant to its election method.
-B. An identical electoral formula is suitable for every head of state.
-C. France elects its President through Indian-style weighted State voting.
-D. India's indirect presidential election fits a parliamentary and federal office design.
+Which proposition is most accurate?
 
-**Answer: D.** India's indirect presidential election fits a parliamentary and federal office design.
+A. South Africa expressly entrenches justiciable socio-economic rights reviewed through constitutional standards.
+B. Grootboom held that every claimant must immediately receive a house from a court.
+C. India's DPSPs and South Africa's Bill of Rights have identical justiciability.
+D. Socio-economic rights eliminate resource and reasonableness analysis.
 
-### MCQ 37
+**Answer: D.**
 
-Which statement is most constitutionally accurate about pardon?
-A. The US federal pardon does not reach State offences and cannot license future offences.
-B. The US pardon power covers impeachment.
-C. India's President exercises Article 72 without ministerial advice.
-D. Preemptive pardon means permission for future crimes.
+**Option-by-option explanation:**
 
-**Answer: A.** The US federal pardon does not reach State offences and cannot license future offences.
+- **A:** Correct. Textual rights to housing, health care and related interests operate with duties and limitation analysis.
+- **B:** Grootboom focused on the reasonableness of the State programme, especially provision for desperate need.
+- **C:** Indian DPSPs are non-justiciable as such, though they inform legislation and rights interpretation.
+- **D:** Courts still assess progressive realisation, reasonableness and available resources where the text so provides.
 
-### MCQ 38
+**Question-specific trap:** The trap is equating justiciability with an unconditional individual entitlement to an immediate good.
 
-Which proposition best supports a disciplined comparison of pardon?
-A. The US pardon power covers impeachment.
-B. The US federal pardon does not reach State offences and cannot license future offences.
-C. Preemptive pardon means permission for future crimes.
-D. India's President exercises Article 72 without ministerial advice.
+### MCQ 17. Proportionality
 
-**Answer: B.** The US federal pardon does not reach State offences and cannot license future offences.
+In K. S. Puttaswamy, proportionality is best understood as requiring:
 
-### MCQ 39
+A. Any executive preference to prevail once national security is invoked.
+B. Only a formally enacted law, with no inquiry into aim or means.
+C. Legality, a legitimate aim, a rational and necessary relationship, and safeguards against disproportionate intrusion.
+D. Automatic adoption of every foreign privacy judgment.
 
-Select the least vulnerable claim concerning pardon.
-A. India's President exercises Article 72 without ministerial advice.
-B. The US pardon power covers impeachment.
-C. The US federal pardon does not reach State offences and cannot license future offences.
-D. Preemptive pardon means permission for future crimes.
+**Answer: A.**
 
-**Answer: C.** The US federal pardon does not reach State offences and cannot license future offences.
+**Option-by-option explanation:**
 
-### MCQ 40
+- **A:** Security claims remain subject to constitutional justification and institutional safeguards.
+- **B:** Legality is necessary but not the complete proportionality inquiry.
+- **C:** Correct. The test disciplines both purpose and means in rights limitation.
+- **D:** Comparative decisions may inform reasons but cannot replace Indian constitutional analysis.
 
-Which statement is most constitutionally accurate about emergency design?
-A. Exceptional power has no effect on federal relations.
-B. Judicial review is irrelevant to emergency design.
-C. A common emergency label proves identical safeguards.
-D. Emergency comparison must cover trigger, approval, duration, rights, federal effect and review.
+**Question-specific trap:** The trap is reducing proportionality either to mere legality or to free-floating judicial preference.
 
-**Answer: D.** Emergency comparison must cover trigger, approval, duration, rights, federal effect and review.
+### MCQ 18. Comparative precedent
 
-### MCQ 41
+What is the proper Indian use of Marbury, Miller, Grootboom or Makwanyane?
 
-Which proposition best supports a disciplined comparison of emergency design?
-A. Emergency comparison must cover trigger, approval, duration, rights, federal effect and review.
-B. Judicial review is irrelevant to emergency design.
-C. Exceptional power has no effect on federal relations.
-D. A common emergency label proves identical safeguards.
+A. Treat each as binding under Article 141.
+B. Apply them only when the foreign constitution uses identical words.
+C. Ignore them because comparative reasoning is constitutionally forbidden.
+D. Use their reasoning persuasively after identifying the Indian text, structure and contextual fit.
 
-**Answer: A.** Emergency comparison must cover trigger, approval, duration, rights, federal effect and review.
+**Answer: B.**
 
-### MCQ 42
+**Option-by-option explanation:**
 
-Select the least vulnerable claim concerning emergency design.
-A. A common emergency label proves identical safeguards.
-B. Emergency comparison must cover trigger, approval, duration, rights, federal effect and review.
-C. Exceptional power has no effect on federal relations.
-D. Judicial review is irrelevant to emergency design.
+- **A:** Article 141 concerns law declared by India's Supreme Court, not foreign courts.
+- **B:** Identical wording is neither necessary nor sufficient; institutional context still matters.
+- **C:** Indian constitutional adjudication may consider comparative material.
+- **D:** Correct. Persuasive dialogue requires an Indian anchor and a stated transplantation limit.
 
-**Answer: B.** Emergency comparison must cover trigger, approval, duration, rights, federal effect and review.
+**Question-specific trap:** The trap is choosing between blind adoption and total exclusion instead of bounded persuasion.
 
-### MCQ 43
+### MCQ 19. India and US appointments
 
-Which statement is most constitutionally accurate about constitutional borrowing?
-A. Foreign origin establishes present constitutional identity.
-B. Institutional transplantation is independent of party systems.
-C. Source influence is transformed by Indian text, structure, doctrine and practice.
-D. Borrowed from means copied unchanged.
+Which comparison is constitutionally correct?
 
-**Answer: C.** Source influence is transformed by Indian text, structure, doctrine and practice.
+A. India's collegium is judicially developed; US Justices are presidentially nominated and require Senate advice and consent.
+B. India's Constitution expressly lists the Chief Justice and four senior-most judges as a collegium.
+C. The US Senate plays no role after presidential nomination.
+D. Public confirmation hearings necessarily eliminate partisan influence.
 
-### MCQ 44
+**Answer: C.**
 
-Which proposition best supports a disciplined comparison of constitutional borrowing?
-A. Foreign origin establishes present constitutional identity.
-B. Borrowed from means copied unchanged.
-C. Institutional transplantation is independent of party systems.
-D. Source influence is transformed by Indian text, structure, doctrine and practice.
+**Option-by-option explanation:**
 
-**Answer: D.** Source influence is transformed by Indian text, structure, doctrine and practice.
+- **A:** Correct. The contrast is judicial primacy versus separated political participation.
+- **B:** The collegium's present form emerged through the Judges Cases, not express constitutional enumeration.
+- **C:** Advice and consent is an indispensable constitutional stage.
+- **D:** Visibility may improve accountability while intensifying ideological contestation.
 
-### MCQ 45
+**Question-specific trap:** The trap is confusing formal appointing authority with the decisive selection mechanism.
 
-Select the least vulnerable claim concerning constitutional borrowing.
-A. Source influence is transformed by Indian text, structure, doctrine and practice.
-B. Institutional transplantation is independent of party systems.
-C. Foreign origin establishes present constitutional identity.
-D. Borrowed from means copied unchanged.
+### MCQ 20. UK JAC and South African JSC
 
-**Answer: A.** Source influence is transformed by Indian text, structure, doctrine and practice.
+Which statement is accurate?
 
-### MCQ 46
+A. Both bodies are identical elected upper houses that confirm judges.
+B. The UK JAC is statutory, while South Africa's JSC is constitutionally structured with plural institutional participation.
+C. The JSC removes judges by its decision alone without any legislative role.
+D. Neither model addresses independence-accountability trade-offs.
 
-Which statement is most constitutionally accurate about comparative answer method?
-A. Exact PYQ limbs may be omitted if examples are numerous.
-B. A strong comparison moves from common function to difference, reason, consequence and qualification.
-C. The best conclusion ranks countries without criteria.
-D. Two separate country descriptions are sufficient comparison.
+**Answer: D.**
 
-**Answer: B.** A strong comparison moves from common function to difference, reason, consequence and qualification.
+**Option-by-option explanation:**
 
-### MCQ 47
+- **A:** They are appointments institutions, not legislative chambers.
+- **B:** Correct. Their source, membership logic and surrounding appointment rules differ.
+- **C:** South African removal also requires the constitutionally specified National Assembly support and presidential action.
+- **D:** Both seek to structure expertise, legitimacy and independence, though with different risks.
 
-Which proposition best supports a disciplined comparison of comparative answer method?
-A. Two separate country descriptions are sufficient comparison.
-B. The best conclusion ranks countries without criteria.
-C. A strong comparison moves from common function to difference, reason, consequence and qualification.
-D. Exact PYQ limbs may be omitted if examples are numerous.
+**Question-specific trap:** The trap is importing one commission's legal source and powers into another system.
 
-**Answer: C.** A strong comparison moves from common function to difference, reason, consequence and qualification.
+### MCQ 21. Removal of Indian judges
 
-### MCQ 48
+A Supreme Court judge in India may be removed through:
 
-Select the least vulnerable claim concerning comparative answer method.
-A. Two separate country descriptions are sufficient comparison.
-B. Exact PYQ limbs may be omitted if examples are numerous.
-C. The best conclusion ranks countries without criteria.
-D. A strong comparison moves from common function to difference, reason, consequence and qualification.
+A. A Prime Ministerial order after loss of political confidence.
+B. A simple-majority resolution of either House for unpopular judgments.
+C. A presidential decision based solely on a collegium recommendation.
+D. A presidential order after an address by each House supported by the constitutionally prescribed special majority on proved misbehaviour or incapacity.
 
-**Answer: D.** A strong comparison moves from common function to difference, reason, consequence and qualification.
+**Answer: A.**
+
+**Option-by-option explanation:**
+
+- **A:** Judicial tenure is not dependent on cabinet confidence.
+- **B:** The high threshold protects adjudication from ordinary majoritarian retaliation.
+- **C:** The collegium selects judges; it does not possess a unilateral removal power.
+- **D:** Correct. Article 124(4) integrates a defined ground, parliamentary threshold and formal removal.
+
+**Question-specific trap:** The trap is calling every difficult removal process impeachment without stating India's exact ground and address procedure.
+
+### MCQ 22. India's amendment routes
+
+Which statement about Indian constitutional amendment is correct?
+
+A. India uses more than one route, and specified Article 368 changes require ratification by at least half the States.
+B. Every constitutional provision may be amended by simple majority alone.
+C. State legislatures may initiate an Article 368 amendment Bill.
+D. Basic structure is an express list printed in Article 368.
+
+**Answer: B.**
+
+**Option-by-option explanation:**
+
+- **A:** Correct. The scheme differentiates simple-majority changes, special-majority amendments and federal ratification.
+- **B:** Core constitutional changes require the thresholds specified by Article 368.
+- **C:** An Article 368 Bill is introduced in Parliament, though States ratify specified subjects.
+- **D:** Basic structure is a judicially developed doctrine identified case by case.
+
+**Question-specific trap:** The trap is searching for one uniform procedure or a closed textual list of basic features.
+
+### MCQ 23. US Article V
+
+Which is a constitutionally accurate feature of the US amendment process?
+
+A. The President proposes and vetoes constitutional amendments.
+B. Proposal requires constitutionally specified supermajorities, followed by ratification by three-fourths of the States through an authorised mode.
+C. Congress may amend the Constitution by an ordinary statute confirmed by the Supreme Court.
+D. A national referendum is mandatory for every amendment.
+
+**Answer: C.**
+
+**Option-by-option explanation:**
+
+- **A:** The President has no formal Article V proposal or veto role.
+- **B:** Correct. Article V separates proposal from State ratification and creates high rigidity.
+- **C:** Ordinary legislation cannot substitute for constitutional amendment.
+- **D:** Article V does not require a national popular referendum.
+
+**Question-specific trap:** The trap is inserting the ordinary legislative process into constituent amendment.
+
+### MCQ 24. Canada Part V
+
+Which statement best describes Canada's constitutional amendment architecture?
+
+A. Every amendment requires unanimous provincial consent.
+B. Parliament may amend every federal and provincial institution unilaterally.
+C. Part V contains multiple formulae whose applicable threshold depends on the subject of amendment.
+D. Canada has no written amendment procedure because it follows UK conventions.
+
+**Answer: D.**
+
+**Option-by-option explanation:**
+
+- **A:** Unanimity applies to specified matters, not all constitutional changes.
+- **B:** Unilateral federal and provincial routes are bounded by subject matter.
+- **C:** Correct. The general, unanimity, bilateral and unilateral formulae prevent a one-threshold description.
+- **D:** The Constitution Act, 1982 entrenched written Part V procedures.
+
+**Question-specific trap:** The trap is replacing a formula-based system with a single remembered fraction.
+
+### MCQ 25. South African amendment
+
+Which proposition is most accurate about South Africa?
+
+A. All constitutional provisions use the same ordinary legislative majority.
+B. Provincial participation is constitutionally irrelevant to amendment.
+C. The Constitutional Court may amend the text without legislative action.
+D. Section 74 differentiates thresholds, with founding values and the Bill of Rights receiving specially calibrated protection.
+
+**Answer: A.**
+
+**Option-by-option explanation:**
+
+- **A:** The Constitution grades thresholds according to the provision affected.
+- **B:** The National Council of Provinces participates for constitutionally specified amendments.
+- **C:** Judicial interpretation and formal amendment remain distinct functions.
+- **D:** Correct. Differentiation balances entrenchment, democracy and territorial participation.
+
+**Question-specific trap:** The trap is assuming a supreme constitution must use one rigidity level for every clause.
+
+### MCQ 26. India and Weimar emergency design
+
+Which comparative use of Weimar Article 48 is defensible?
+
+A. Use it as a bounded warning that repeated decree power without effective controls can normalise exception, while analysing India's own text and safeguards.
+B. Claim that Article 352 is a word-for-word copy of Article 48.
+C. Infer that every emergency proclamation necessarily ends constitutional democracy.
+D. Treat historical experience as legally binding Indian precedent.
+
+**Answer: B.**
+
+**Option-by-option explanation:**
+
+- **A:** Correct. Historical comparison identifies a risk mechanism without erasing institutional differences.
+- **B:** India's provisions have multiple sources and their own constitutional architecture.
+- **C:** Emergency outcomes depend on safeguards, institutions and political resistance.
+- **D:** Foreign constitutional history may illuminate but does not bind Indian law.
+
+**Question-specific trap:** The trap is turning a historical analogy into identity of text or inevitable outcome.
+
+### MCQ 27. Youngstown and US emergency power
+
+Youngstown Sheet & Tube Co. v Sawyer is relevant because it:
+
+A. Created a permanent US equivalent of Article 356.
+B. Demonstrated judicial limits on presidential action and related executive power to congressional authorisation.
+C. Held that the President may seize any industry during war without law.
+D. Bound the Indian President's exercise of Article 352.
+
+**Answer: C.**
+
+**Option-by-option explanation:**
+
+- **A:** The case concerned steel seizure, not federal takeover of a State government.
+- **B:** Correct. The majority rejected the seizure, and Jackson's framework links power to congressional support or opposition.
+- **C:** The holding rejected, rather than endorsed, inherent seizure power.
+- **D:** It is comparative persuasive material, not an Indian constitutional command.
+
+**Question-specific trap:** The trap is remembering emergency context but reversing the limitation imposed by the case.
+
+### MCQ 28. France Article 16
+
+Which statement is safest regarding France's Fifth Republic emergency design?
+
+A. Article 16 is identical to India's Article 356 and concerns dismissal of State governments.
+B. It gives the French President an ordinary power to dissolve all courts permanently.
+C. It proves semi-presidential systems lack legislative or judicial safeguards.
+D. It provides exceptional presidential powers under constitutional conditions and must be compared through trigger, duration, supervision and rights effects.
+
+**Answer: D.**
+
+**Option-by-option explanation:**
+
+- **A:** France is unitary and Article 16 is not an Indian federal-failure mechanism.
+- **B:** Exceptional authority does not amount to permanent abolition of courts.
+- **C:** Semi-presidential design still contains constitutional institutions and controls.
+- **D:** Correct. A safeguard matrix avoids sensational and false equivalence.
+
+**Question-specific trap:** The trap is describing exceptional power without its constitutional conditions and review structure.
+
+### MCQ 29. UK, US and Ireland borrowings
+
+Which source-effect set is conventionally accurate for India?
+
+A. UK—parliamentary cabinet and rule of law; US—Fundamental Rights, judicial review and impeachment; Ireland—DPSPs and nominated Rajya Sabha members.
+B. UK—Fundamental Rights; US—DPSPs; Ireland—presidential separation.
+C. UK—written federal supremacy; US—collective ministerial responsibility; Ireland—judicial review.
+D. All three features operate in India exactly as in their source systems.
+
+**Answer: A.**
+
+**Option-by-option explanation:**
+
+- **A:** Correct. Each source attribution must still be followed by the Indian adaptation.
+- **B:** The listed lineages are constitutionally misplaced.
+- **C:** These pairings reverse the conventional borrowing map.
+- **D:** India changed source mechanisms through republicanism, federalism, review and transformative commitments.
+
+**Question-specific trap:** The trap is either misassigning the source or stopping before the Indian adaptation.
+
+### MCQ 30. Canada and Australia borrowings
+
+Which statement is accurate?
+
+A. India borrowed equal State representation in Rajya Sabha from Australia.
+B. Canada influenced the strong-centre federation, residuary Union power and appointment of Governors; Australia influenced the Concurrent List, joint sitting and trade provisions.
+C. Australia supplied India's basic-structure doctrine.
+D. Canada supplied an elected Governor for every Indian State.
+
+**Answer: B.**
+
+**Option-by-option explanation:**
+
+- **A:** Rajya Sabha representation is unequal and population-linked, unlike Australia's equal-State Senate.
+- **B:** Correct. These are conventional source links whose Indian operation remains distinct.
+- **C:** Basic structure was judicially developed in India.
+- **D:** Indian Governors are appointed by the President, not elected under a Canadian borrowing.
+
+**Question-specific trap:** The trap is importing a donor country's entire federal package instead of the specific influenced feature.
+
+### MCQ 31. Germany, USSR, South Africa and Japan
+
+Which conventional borrowing map is correct?
+
+A. Germany—Fundamental Duties; USSR—procedure established by law; South Africa—emergency; Japan—Rajya Sabha election.
+B. Germany—DPSPs; USSR—judicial review; South Africa—parliamentary cabinet; Japan—residuary power.
+C. Germany—emergency-related ideas; former USSR—Fundamental Duties and justice ideals; South Africa—amendment procedure elements and Rajya Sabha election; Japan—procedure established by law.
+D. Each borrowing retained the donor country's exact doctrinal meaning.
+
+**Answer: C.**
+
+**Option-by-option explanation:**
+
+- **A:** The source-feature pairings are scrambled.
+- **B:** None of these is the accepted conventional map.
+- **C:** Correct. The list identifies influences, while Indian text and doctrine determine current meaning.
+- **D:** Article 21's later fairness doctrine is a clear example of adaptation beyond source wording.
+
+**Question-specific trap:** The trap is memorising a source list without checking whether the Indian effect changed.
+
+### MCQ 32. Identity and judicial dialogue
+
+Which proposition best combines constitutional identity and comparative citation?
+
+A. Constitutional identity permits courts to ignore enacted text whenever a foreign court reaches a desirable result.
+B. Foreign judgments bind India whenever they concern universal human rights.
+C. Transformative constitutionalism abolishes institutional competence limits.
+D. Foreign reasoning may illuminate Indian guarantees, but basic structure, text, history and institutional role control the Indian conclusion.
+
+**Answer: D.**
+
+**Option-by-option explanation:**
+
+- **A:** Identity constrains and interprets power; it does not license text-free adjudication.
+- **B:** Persuasive value does not become Article 141 binding force.
+- **C:** Transformation remains constitutional and therefore bounded by separation, competence and remedy.
+- **D:** Correct. Dialogue is useful only after contextual translation into India's constitutional order.
+
+**Question-specific trap:** The trap is treating comparative openness as legal subordination to foreign courts.
+
 
 ## PYQS AND ANSWER PRACTICE
+
+**Official-key discipline:** UPSC publishes no official descriptive model-answer key. The question wording below is retained from the repository-verified GS-II ledger; each solution is an examiner-oriented model, not an official answer.
 
 ### VERIFIED DIRECT PYQ 1 — 2018 GS-II Q13 — 15 marks — 250 words
 
@@ -914,264 +1077,146 @@ The lesson is accountable independence, not transplantation: appointment design 
 
 ### ORIGINAL MAINS PRACTICE 1 — 10 marks — 150 words
 
-**Question:** Distinguish constitutional borrowing from constitutional adaptation.
+**Question:** Distinguish constitutional borrowing from constitutional adaptation with reference to India.
 
 **Directive:** Distinguish
 
-**Model answer:** Begin with a demand-specific comparative thesis. Define borrowing as source influence and adaptation as altered text, institution and operation. Use parliamentary government, federal residuary power, DPSPs and judicial review as examples. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+**Model answer:**
 
-**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+<!-- ORIGINAL-MAINS-1-ANSWER-START -->
+Borrowing identifies a source influence; adaptation explains how India changed that influence to serve its own constitutional purposes. The distinction is visible in three examples.
 
-**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+First, India adopted Westminster cabinet government, but Articles 74-75 place it inside a republican, written and judicially reviewable Constitution. Secondly, Fundamental Rights and judicial review reflect US influence, yet India added express restrictions, constitutional writs and a DPSP relationship. Thirdly, Canadian strong-centre federal ideas appear in Union residuary power, but Indian federalism also uses the Seventh Schedule, single citizenship and asymmetric arrangements.
 
-**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+These changes affect operation. Collective responsibility is textually secured in Article 75(3); Parliament is limited by basic structure; and the Union-State balance remains judicially enforceable.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish constitutional borrowing from constitutional adaptation.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Therefore, constitutional ancestry is evidence of learning, not proof of identity. India imported mechanisms but re-tuned them to a federal, republican and transformative order.
+<!-- ORIGINAL-MAINS-1-ANSWER-END -->
 
-**Detailed examiner-grade model answer:**
+**[ORIGINAL MAINS 1 MODEL ANSWER WORD COUNT: 137]**
 
-**Introduction and thesis:** Begin with a demand-specific comparative thesis. Define borrowing as source influence and adaptation as altered text, institution and operation. Use parliamentary government, federal residuary power, DPSPs and judicial review as examples. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+**Examiner note:** The model follows claim -> named evidence -> analysis -> qualification and stays within the stated ceiling.
 
-**Analytical body:**
+### ORIGINAL MAINS PRACTICE 2 — 10 marks — 150 words
 
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 1 — 10 marks — 150 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It uses controlled comparison rather than feature listing and supplies an executable evidence order. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Question:** Why must constitutional text, convention, statute and political practice be separated in comparative analysis?
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Directive:** Explain
 
-**Qualified conclusion:** Begin with a demand-specific comparative thesis. Define borrowing as source influence and adaptation as altered text, institution and operation. Use parliamentary government, federal residuary power, DPSPs and judicial review as examples. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+**Model answer:**
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+<!-- ORIGINAL-MAINS-2-ANSWER-START -->
+A valid comparison separates legal source from political operation. Constitutional text supplies supreme rules; statutes implement them; conventions guide political actors; practice records how institutions actually behave.
 
-### ORIGINAL MAINS PRACTICE 2 — 15 marks — 250 words
+India and the United Kingdom illustrate the need. Collective responsibility is expressly stated in Article 75(3) in India, while much Westminster conduct rests on convention. The UK's Human Rights Act authorises interpretation and declarations of incompatibility, but parliamentary sovereignty remains the legal baseline. In India, Fundamental Rights and judicial review can invalidate legislation.
 
-**Question:** Compare Rajya Sabha, the US Senate, Canadian Senate and German Bundesrat.
+If sources are collapsed, repeated practice may be mistaken for legal validity, or a convention may be assigned the force of entrenched text. Party majorities may also make formally similar cabinets operate differently.
+
+Thus, compare text with text and practice with practice, then explain how convention and political context mediate each design.
+<!-- ORIGINAL-MAINS-2-ANSWER-END -->
+
+**[ORIGINAL MAINS 2 MODEL ANSWER WORD COUNT: 133]**
+
+**Examiner note:** The model follows claim -> named evidence -> analysis -> qualification and stays within the stated ceiling.
+
+### ORIGINAL MAINS PRACTICE 3 — 15 marks — 250 words
+
+**Question:** Compare parliamentary and presidential government through the Indian and United States constitutional designs.
 
 **Directive:** Compare
 
-**Model answer:** Begin with a demand-specific comparative thesis. Hold territorial representation constant; compare selection, equality, government representation, special powers and democratic legitimacy. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+**Model answer:**
 
-**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+<!-- ORIGINAL-MAINS-3-ANSWER-START -->
+India and the United States are constitutional democracies, but they organise executive accountability through different institutional logics.
 
-**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+India uses a dual parliamentary executive. The President is head of State, while the Prime Minister and Council of Ministers exercise political authority and remain collectively responsible to the Lok Sabha under Article 75(3). Ministers sit in Parliament, executive and legislative leadership are fused, and loss of confidence can remove the government. Lok Sabha may be dissolved within constitutional rules.
 
-**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+The United States combines head of State and government in a separately elected President. Presidential and congressional terms are independently grounded; executive officers do not simultaneously sit in Congress. The President cannot dissolve Congress, and Congress cannot remove the President by no-confidence. Removal requires impeachment by the House and conviction by the Senate. Vetoes, appointments, appropriations and oversight create checks but also deadlock.
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare Rajya Sabha, the US Senate, Canadian Senate and German Bundesrat.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Fusion gives India continuous political responsibility and easier replacement, yet a disciplined majority may concentrate power. Separation gives the United States tenure stability and multiple veto points, yet divided government may obstruct policy.
 
-**Detailed examiner-grade model answer:**
+Neither model is universally superior. Office design, party system and federal context determine performance; India should improve parliamentary accountability rather than transplant a presidential executive.
+<!-- ORIGINAL-MAINS-3-ANSWER-END -->
 
-**Introduction and thesis:** Begin with a demand-specific comparative thesis. Hold territorial representation constant; compare selection, equality, government representation, special powers and democratic legitimacy. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+**[ORIGINAL MAINS 3 MODEL ANSWER WORD COUNT: 199]**
 
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 2 — 15 marks — 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It uses controlled comparison rather than feature listing and supplies an executable evidence order. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a demand-specific comparative thesis. Hold territorial representation constant; compare selection, equality, government representation, special powers and democratic legitimacy. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### ORIGINAL MAINS PRACTICE 3 — 10 marks — 150 words
-
-**Question:** Compare written/uncodified and rigid/flexible constitutions without treating the pairs as synonyms.
-
-**Directive:** Analyse
-
-**Model answer:** Begin with a demand-specific comparative thesis. Separate codification from amendment difficulty and legal from political constraint, using India, UK, USA and Australia. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
-
-**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
-
-**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare written/uncodified and rigid/flexible constitutions without treating the pairs as…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin with a demand-specific comparative thesis. Separate codification from amendment difficulty and legal from political constraint, using India, UK, USA and Australia. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 3 — 10 marks — 150 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It uses controlled comparison rather than feature listing and supplies an executable evidence order. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a demand-specific comparative thesis. Separate codification from amendment difficulty and legal from political constraint, using India, UK, USA and Australia. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Examiner note:** The model follows claim -> named evidence -> analysis -> qualification and stays within the stated ceiling.
 
 ### ORIGINAL MAINS PRACTICE 4 — 15 marks — 250 words
 
-**Question:** Assess India's parliamentary-federal hybrid against the UK, Canada and Australia.
-
-**Directive:** Assess
-
-**Model answer:** Begin with a demand-specific comparative thesis. Compare responsible government, constitutional supremacy, residuary power, upper houses, judiciary and amendment, then explain India's synthesis. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
-
-**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
-
-**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess India's parliamentary-federal hybrid against the UK, Canada and Australia.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin with a demand-specific comparative thesis. Compare responsible government, constitutional supremacy, residuary power, upper houses, judiciary and amendment, then explain India's synthesis. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 4 — 15 marks — 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It uses controlled comparison rather than feature listing and supplies an executable evidence order. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a demand-specific comparative thesis. Compare responsible government, constitutional supremacy, residuary power, upper houses, judiciary and amendment, then explain India's synthesis. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### ORIGINAL MAINS PRACTICE 5 — 20 marks — 300 words
-
-**Question:** Compare judicial review in India, USA, UK, France and South Africa.
-
-**Directive:** Compare and evaluate
-
-**Model answer:** Begin with a demand-specific comparative thesis. Distinguish diffuse/concentrated review, strong/dialogic remedies, constitutional supremacy, access and rights text. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
-
-**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
-
-**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare judicial review in India, USA, UK, France and South Africa.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin with a demand-specific comparative thesis. Distinguish diffuse/concentrated review, strong/dialogic remedies, constitutional supremacy, access and rights text. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 5 — 20 marks — 300 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It uses controlled comparison rather than feature listing and supplies an executable evidence order. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a demand-specific comparative thesis. Distinguish diffuse/concentrated review, strong/dialogic remedies, constitutional supremacy, access and rights text. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### ORIGINAL MAINS PRACTICE 6 — 15 marks — 250 words
-
-**Question:** Compare Indian DPSPs with Irish directive principles and South African socio-economic rights.
+**Question:** Compare rights review in India, the United Kingdom, Canada and South Africa.
 
 **Directive:** Compare
 
-**Model answer:** Begin with a demand-specific comparative thesis. Trace source influence but distinguish justiciability, textual rights, legislative guidance, remedies and Indian judicial harmonisation. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+**Model answer:**
 
-**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+<!-- ORIGINAL-MAINS-4-ANSWER-START -->
+The four systems protect rights through different combinations of text, limitation and remedy.
 
-**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+India entrenches Fundamental Rights under constitutional supremacy. The Supreme Court and High Courts may invalidate unconstitutional law and issue writs. *Maneka Gandhi* requires fair procedure, while *K. S. Puttaswamy* uses legality, legitimate aim, proportionality and safeguards. Rights coexist with express restrictions and non-justiciable DPSPs.
 
-**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+The United Kingdom protects rights through common law, statutes and the Human Rights Act 1998. Courts seek compatible interpretation and may issue a declaration of incompatibility, but that declaration does not itself invalidate a Westminster Act.
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare Indian DPSPs with Irish directive principles and South African socio-economic rights.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Canada's Charter combines judicial review with section 1 reasonable limits. Section 33 permits an express, renewable override of specified rights; it is a bounded constitutional device, not general parliamentary sovereignty.
 
-**Detailed examiner-grade model answer:**
+South Africa's transformative Bill of Rights expressly includes socio-economic rights. *Grootboom* reviewed whether the housing programme reasonably addressed urgent need; it did not create an unconditional immediate house for every claimant. Section 36 supplies a general limitations framework.
 
-**Introduction and thesis:** Begin with a demand-specific comparative thesis. Trace source influence but distinguish justiciability, textual rights, legislative guidance, remedies and Indian judicial harmonisation. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+The comparison shows that rights strength depends on the entire chain from text to remedy. India may learn from reasoned limitations and legislative dialogue, but any reform must preserve its own constitutional supremacy and basic-structure commitments.
+<!-- ORIGINAL-MAINS-4-ANSWER-END -->
 
-**Analytical body:**
+**[ORIGINAL MAINS 4 MODEL ANSWER WORD COUNT: 197]**
 
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 6 — 15 marks — 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It uses controlled comparison rather than feature listing and supplies an executable evidence order. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Examiner note:** The model follows claim -> named evidence -> analysis -> qualification and stays within the stated ceiling.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+### ORIGINAL MAINS PRACTICE 5 — 20 marks — 250 words
 
-**Qualified conclusion:** Begin with a demand-specific comparative thesis. Trace source influence but distinguish justiciability, textual rights, legislative guidance, remedies and Indian judicial harmonisation. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### ORIGINAL MAINS PRACTICE 7 — 15 marks — 250 words
-
-**Question:** Evaluate emergency constitutionalism in India through comparative safeguards.
+**Question:** Evaluate India's federal design against the United States, Canada and Australia.
 
 **Directive:** Evaluate
 
-**Model answer:** Begin with a demand-specific comparative thesis. Use declaration threshold, approval, duration, rights, federal effect, judicial review and anti-normalisation safeguards; avoid one-to-one borrowing claims. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+**Model answer:**
 
-**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+<!-- ORIGINAL-MAINS-5-ANSWER-START -->
+India is a federation or Union with constitutionally divided powers and marked centralising features; its design should be evaluated as a bundle rather than labelled quasi-federal.
 
-**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+On legislative allocation, India enumerates Union, State and Concurrent fields and assigns residue to Parliament. Canada also places residue federally, whereas the US Tenth Amendment and Australian design broadly preserve unassigned authority for States. India's Union can alter State boundaries by constitutional procedure, unlike the stronger territorial consent protection associated with US and Australian States.
 
-**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+Shared rule also differs. Rajya Sabha represents States unequally and is indirectly elected. US and Australian Senates use equal State representation; the US Senate additionally confirms appointments and approves treaties. None is equivalent to executive delegation.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate emergency constitutionalism in India through comparative safeguards.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+India has an integrated judiciary, single citizenship and emergency centralisation. Yet *S. R. Bommai* affirms federalism and subjects Article 356 to review. Fiscal federalism operates through tax assignment, the Finance Commission, grants and the GST Council; formal State powers therefore coexist with vertical dependence. Asymmetry accommodates distinctive regions within the Union.
 
-**Detailed examiner-grade model answer:**
+Canada confirms that a federation may constitutionally favour the centre; the United States and Australia show stronger constituent-unit protection. India's synthesis sought unity after Partition while preserving diversity.
 
-**Introduction and thesis:** Begin with a demand-specific comparative thesis. Use declaration threshold, approval, duration, rights, federal effect, judicial review and anti-normalisation safeguards; avoid one-to-one borrowing claims. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+Reform should strengthen consultation, predictable finance and institutional federalism, not pursue formal symmetry. The design is federal in structure, Union-weighted in operation and constitutionally reviewable.
+<!-- ORIGINAL-MAINS-5-ANSWER-END -->
 
-**Analytical body:**
+**[ORIGINAL MAINS 5 MODEL ANSWER WORD COUNT: 221]**
 
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 7 — 15 marks — 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It uses controlled comparison rather than feature listing and supplies an executable evidence order. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Examiner note:** The model follows claim -> named evidence -> analysis -> qualification and stays within the stated ceiling.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+### ORIGINAL MAINS PRACTICE 6 — 20 marks — 250 words
 
-**Qualified conclusion:** Begin with a demand-specific comparative thesis. Use declaration threshold, approval, duration, rights, federal effect, judicial review and anti-normalisation safeguards; avoid one-to-one borrowing claims. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+**Question:** Assess whether foreign constitutional mechanisms should be transplanted into India.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Directive:** Assess
 
-### ORIGINAL MAINS PRACTICE 8 — 20 marks — 300 words
+**Model answer:**
 
-**Question:** Design a method for deciding whether India should adopt a foreign constitutional institution.
+<!-- ORIGINAL-MAINS-6-ANSWER-START -->
+Foreign constitutional experience is a laboratory, not a catalogue. A transplant should pass functional, structural, incentive, capacity, rights and accountability tests.
 
-**Directive:** Propose
+First, identify the public function. US Senate confirmation seeks visible democratic participation in judicial appointments; India's collegium protects judges from executive primacy. Importing hearings without accounting for party polarisation may exchange opacity for partisan capture. The better lesson is published criteria, reasons and timelines within accountable independence.
 
-**Model answer:** Begin with a demand-specific comparative thesis. Apply functional, structural, incentive, capacity, rights, transition and accountability fit before recommending adaptation. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
+Secondly, test structural fit. Canada's section 33 operates within Charter supremacy and applies only to specified rights. Detached from those limits, an Indian override could weaken basic-structure and rights protection. Germany's textual eternity clause and India's judicially developed basic structure protect identity through different sources; identical drafting is unnecessary.
 
-**Why this earns marks:** It uses controlled comparison rather than feature listing and supplies an executable evidence order.
+Thirdly, examine political incentives and capacity. Westminster conventions operate within a distinct party and constitutional history. India codified collective responsibility and subjects Parliament to rights, federalism and review. Borrowed rules consequently perform a different job.
 
-**How to improve this answer:** Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion.
+Comparative judgments such as *Marbury*, *Youngstown*, *Miller*, *Grootboom* and *Makwanyane* may offer persuasive reasons, but Article 141 and Indian text control the result.
 
-**Compression guidance:** Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict.
+India should adopt transferable principles—transparency, proportionality, federal consultation and time-limited emergency supervision—while redesigning mechanisms for Indian institutions. Fit, not fidelity to the donor, is the constitutional standard.
+<!-- ORIGINAL-MAINS-6-ANSWER-END -->
 
-**Demand decoding:** The directive **answer** requires a direct position on “Design a method for deciding whether India should adopt a foreign constitutional institution.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**[ORIGINAL MAINS 6 MODEL ANSWER WORD COUNT: 204]**
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin with a demand-specific comparative thesis. Apply functional, structural, incentive, capacity, rights, transition and accountability fit before recommending adaptation. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 8 — 20 marks — 300 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It uses controlled comparison rather than feature listing and supplies an executable evidence order. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Add one exact provision or institutional practice for each compared system; remove any country fact that does not change the conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Retain the thesis, four decisive axes, two consequences, one context caveat and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a demand-specific comparative thesis. Apply functional, structural, incentive, capacity, rights, transition and accountability fit before recommending adaptation. For every axis, state the common function, each design, the reason for difference and its consequence. End with a qualified Indian adaptation verdict.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Examiner note:** The model follows claim -> named evidence -> analysis -> qualification and stays within the stated ceiling.

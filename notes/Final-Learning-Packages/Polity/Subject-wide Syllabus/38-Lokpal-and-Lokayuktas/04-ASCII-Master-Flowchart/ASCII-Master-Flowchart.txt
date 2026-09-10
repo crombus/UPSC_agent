@@ -1,190 +1,142 @@
-ASCII MASTER FLOW — PANEL 1/12: Ombudsman evolution and statutory identity
-ROOT QUESTION
-How can high public office be investigated without merging complaint, police and court?
+[1/12] IDENTITY AND EVOLUTION
+1809 Sweden: ombudsman idea
+  -> 1966 First ARC: Lokpal at Union + Lokayuktas in States
+  -> repeated parliamentary Bills from 1968
+  -> 2011 public anti-corruption movement adds political pressure
+  -> Lokpal and Lokayuktas Act, 2013
+  -> assent 1 Jan 2014; commencement 16 Jan 2014
+LEGAL IDENTITY: statutory, corruption-specific, not constitutional
+ANSWER LINE: Lokpal is a process authority, not police, prosecutor and judge combined.
 
-1809 Sweden -> ombudsman model.
-1966 First ARC -> Union Lokpal + State Lokayuktas.
-1968 onward -> repeated Bills.
-2013 Act -> assent 1 January 2014 -> commencement 16 January 2014.
+[2/12] COMPOSITION, ELIGIBILITY AND REPRESENTATION
+LOKPAL = Chairperson + not more than 8 Members
+Members: 50% Judicial Members
+Members: not less than 50% from SC/ST/OBC/minorities/women
+Chair: CJI/former CJI, SC judge/former SC judge, or qualified eminent person
+Judicial Member: SC judge/former SC judge or HC Chief Justice/former HC CJ
+Other Member: impeccable integrity + outstanding ability + >=25 years listed expertise
+Minimum age: 45
+TRAP: both percentage rules use Members, not Chairperson-plus-Members.
 
-LEGAL IDENTITY
-statutory | corruption-specific | Union institution | no general suo-motu route.
+[3/12] SELECTION, APPOINTMENT, TERM AND REMOVAL
+Selection Committee:
+PM (chair) | Lok Sabha Speaker | Lok Sabha LoP | CJI/nominee | eminent jurist
+Search Committee: >=7 experts; diversity floor; panel is not exclusive
+President appoints by warrant
+Term: 5 years or age 70, whichever earlier; no ordinary reappointment
+Member -> Chair allowed only within aggregate 5 years
+Removal for misbehaviour: 100 MPs petition -> President reference -> SC inquiry
+Direct grounds: insolvency | paid outside work | qualifying infirmity
+COMMON CAUSE (2017): vacancy did not make the Act unworkable; no invented substitute seat.
 
-CORE DISTINCTION
-Lokpal directs a legal process; the Special Court decides criminal guilt.
-MUST REMEMBER: Treat Lokpal as a statutory corruption-complaint institution under the 2013
-  Act, not as a constitutional court, police force or ombudsman for every grievance.
+[4/12] PERSONS AND ENTITIES WITHIN SECTION 14
+PM/former PM -> special filters
+Union Ministers/former Ministers -> covered
+MPs/former MPs -> covered, subject to Article 105(2)
+Groups A, B, C and D Union officials -> covered; section 20 routing differs
+Former functionaries -> only conduct during covered capacity
+Parliament-created / Central-controlled / Central-financed bodies -> conditional coverage
+Other societies/associations/trusts:
+  clause (g): government finance + notified annual-income threshold
+  clause (h): foreign-source donation > Rs 10 lakh/year or higher notified amount
+Section 14(3): connected abettor/bribe-giver/bribe-taker/conspirator may be reached
+TRAP: this is not jurisdiction over every private person.
 
-ASCII MASTER FLOW — PANEL 2/12: Composition and eligibility
-COMPOSITION
-Chairperson + not more than eight Members.
-50% judicial | at least 50% from named social categories.
+[5/12] PRIME MINISTER AND PARLIAMENTARY PRIVILEGE
+PM INCLUDED, BUT:
+  excluded subjects = international relations | external/internal security
+                      | public order | atomic energy | space
+  full bench considers initiation
+  >= two-thirds of Members approve
+  inquiry in camera
+  if dismissed, inquiry records not published/made available
+MP RULE:
+  section 14(2) preserves Article 105(2) for speech/vote in Parliament
+  SITA SOREN (2024): bribery itself is not protected by Articles 105(2)/194(2)
+TRAP: bribery immunity was rejected; legislative privilege was not abolished.
 
-ELIGIBILITY
-judicial and eminent-person routes have distinct statutory conditions.
+[6/12] COMPLAINT AND PRELIMINARY INQUIRY
+Complaint = prescribed allegation of a PC Act offence by covered public servant
+Complaint Rules 2020 -> Form I + identity + affidavit + particulars + annexures
+Registry scrutiny -> form | jurisdiction | limitation | defects
+Section 20 choice:
+  preliminary inquiry to test prima facie case
+  OR investigation where prima facie case exists, after explanation
+PI report: within 60 days from reference
+PI ordinarily: 90 days + further 90 days for recorded reasons
+>=3-Member bench + hearing -> investigate | departmental/other action | close
+TRAP: filing defect, closure and false complaint are three different conclusions.
 
-TRAP
-representation applies to Members; it is not an extra seat count.
+[7/12] INVESTIGATION, SANCTION, PROSECUTION AND TRIAL
+Investigation by CBI/DSPE or other agency
+  -> 6 months from order
+  -> extension <=6 months at a time, reasons recorded
+Agency report -> jurisdictional court + copy to Lokpal
+>=3-Member bench + comments -> charge-sheet/sanction | closure | departmental action
+Section 23: Lokpal sanction in section 20 route, subject to constitutional-office limit
+Section 24: special route after findings against PM, Union Minister or MP
+Section 12 Prosecution Wing / agency -> Special Court
+Section 35 trial target: 1 year; 3-month reasoned extensions; total <=2 years
+TRAP: sanction or charge-sheet is not conviction.
 
-CURRENT ROSTER: 5 SEPTEMBER 2026
-Chairperson: Justice Ajay Manikrao Khanwilkar.
-Judicial Members: Justice L. Narayana Swamy | Justice Sanjay Yadav
-| Justice Ritu Raj Awasthi.
-Members: Sushil Chandra | Pankaj Kumar | Ajay Tirkey.
-No occupant is inferred for an unfilled statutory seat.
+[8/12] INQUIRY WING, CVC AND CBI/DSPE
+Inquiry Wing (s.11) -> preliminary inquiry, not police trial
+Prosecution Wing (s.12) -> files/conducts prosecution when directed
+CVC route under s.20:
+  Groups A/B -> preliminary report returns to Lokpal
+  Groups C/D -> CVC Act route
+DSPE/CBI under s.25:
+  superintendence/direction only for Lokpal-referred matters
+  no direction to investigate/dispose in a particular manner
+  referred-case investigating officer transfer needs Lokpal approval
+CVO = departmental vigilance node; not CVC, CBI, prosecutor or court.
 
-ASCII MASTER FLOW — PANEL 3/12: Selection, tenure and removal
-SELECTION
-PM | Speaker | LoP | CJI/nominee | eminent jurist.
-Search Committee assists; President appoints on recommendation.
+[9/12] SEARCH, ATTACHMENT, CONFISCATION AND SAFEGUARDS
+Section 26 -> Lokpal may authorise entrusted agency to search/seize
+Section 27 -> specified civil-court powers for inquiry
+Section 29 -> written reasons + suspected corruption proceeds + concealment risk
+              -> provisional attachment <=90 days -> sealed material to Special Court
+Section 30 -> Prosecution Wing application within 30 days -> court confirmation
+              acquittal -> restoration with accrued benefits, subject to court order
+              conviction -> relatable proceeds confiscated and vest in Union
+Section 31 -> Special Court interim confiscation; return/value + 5% interest if reversed
+TRAP: Lokpal cannot finally confiscate property by administrative declaration.
 
-TENURE
-five years or age seventy | no reappointment.
+[10/12] ASSETS, FALSE COMPLAINTS, LIMITATION AND ACCOUNTABILITY
+Section 44 after 2016 substitution:
+  every public servant declares assets/liabilities in prescribed form and manner
+Section 45:
+  conditional rebuttable presumption for wilful non-declaration/misleading information
+Section 46:
+  false AND frivolous or vexatious complaint -> Special Court process
+  up to 1 year imprisonment + fine up to Rs 1 lakh; compensation/costs possible
+  good-faith complaint protected
+Section 53: complaint after 7 years from alleged offence -> no inquiry/investigation
+Sections 13, 40-43, 48:
+  charged expenditure | budget/grants | CAG audit | annual report to Parliament.
 
-REMOVAL
-misbehaviour: President -> Supreme Court inquiry.
-Specified direct-removal grounds remain separate.
+[11/12] LOKAYUKTAS AND FEDERAL VARIATION
+Section 63:
+  every State to establish Lokayukta, if absent, by State law within one year
+NO UNIFORM NATIONAL DESIGN for:
+  composition | appointment | jurisdiction | tenure | removal
+  suo-motu power | investigation | prosecution | recommendation effect
+Maharashtra 1971 -> historical early State inquiry/report model
+Karnataka 1984 -> distinct Lokayukta/Upalokayukta investigation/prosecution design
+TRAP: never transplant Lokpal's eight-member bench or five-person selection panel to States
+REFORM: model minimum safeguards can coexist with State legislative choice.
 
-Common Cause v. Union of India (2017): vacancy did not make the Act unworkable.
-
-ASCII MASTER FLOW — PANEL 4/12: Jurisdiction over persons and entities
-PERSONS
-PM | Ministers | MPs | Groups A-D | former covered functionaries.
-
-ENTITIES
-government-linked bodies and specified donation/foreign-contribution recipients,
-subject to statutory thresholds.
-
-TRAP
-coverage is conditional; Lokpal has no general private-sector jurisdiction.
-
-ASCII MASTER FLOW — PANEL 5/12: Prime Minister and parliamentary privilege
-PM FILTER
-excluded domains: international relations | security | public order | atomic energy | space.
-Full bench + two-thirds approval | in camera | record controls.
-
-MP RULE
-section 14(2) preserves genuine speech/vote functions.
-Sita Soren (2024): bribery is not immunised merely because linked to a vote.
-
-ASCII MASTER FLOW — PANEL 6/12: Complaint and preliminary inquiry
-PRESCRIBED COMPLAINT
-identity + affidavit + particulars + supporting material -> scrutiny.
-
-LOKPAL CHOICE
-preliminary inquiry | investigation | lawful closure.
-
-INQUIRY
-prima facie screen -> public-servant hearing -> reasoned report.
-Inquiry is not investigation and allegation is not guilt.
-CLOSE DISTINCTION: Prime-Minister safeguards, parliamentary privilege, the seven-year bar,
-  agency dependence and State-law Lokayukta variation must remain explicit.
-
-ASCII MASTER FLOW — PANEL 7/12: Investigation, prosecution and Special Court
-INVESTIGATION
-CBI/other agency gathers evidence within statutory timelines.
-
-LOKPAL BENCH
-closure | departmental action | sanction/prosecution route.
-
-PROSECUTION WING
-files and conducts prosecution when directed.
-
-SPECIAL COURT
-adjudicates guilt; target one year with recorded extensions, total two years.
-
-ASCII MASTER FLOW — PANEL 8/12: Inquiry Wing, CVC and CBI interfaces
-INQUIRY WING
-preliminary inquiry and prima facie assessment.
-
-PROSECUTION WING
-files and conducts prosecution when Lokpal directs.
-
-CVC ROUTE
-specified Groups A-D preliminary-inquiry categories under the statutory distribution.
-
-CBI / DSPE ROUTE
-criminal investigation; Lokpal superintendence is confined to Lokpal-referred matters.
-Investigating-officer transfer in a referred matter needs Lokpal approval.
-
-VIGILANCE / WHISTLEBLOWER / GRIEVANCE
-distinct entry tests and outputs; no automatic jurisdictional substitution.
-
-LIMIT
-superintendence != power to dictate a predetermined investigative result.
-
-ASCII MASTER FLOW — PANEL 9/12: Powers, assets and limitation
-PROCESS POWERS
-search/seizure | civil-court powers | provisional attachment | prosecution sanction.
-
-ATTACHMENT
-recorded reasons + suspected corruption proceeds + maximum ninety-day provisional order
--> material sent to Special Court -> confirmation, refusal or later restoration.
-
-SECTION 44
-2016 substitution -> assets/liabilities in prescribed form and manner.
-Checked official material did not yield a later fresh replacement form-and-manner rule.
-
-LIMITATION
-complaint barred after seven years from the alleged offence.
-
-FALSE COMPLAINT
-statutory safeguard requires legal proof; it must not deter bona fide disclosures.
-
-Lok Prahari v. Union of India (2018)
-electoral disclosure case; it did not restore the pre-2016 Lokpal return format.
-
-ASCII MASTER FLOW — PANEL 10/12: Lokayuktas and federal diversity
-SECTION 63
-each State shall establish a Lokayukta by State law.
-
-VARIATION AXES
-single/member body | selection panel | tenure | jurisdiction | suo-motu power
-| minister coverage | investigation support | recommendation/enforcement route.
-
-DO NOT UNIVERSALISE
-one State's Governor panel, age, term, Upalokayukta or report consequence.
-
-FEDERAL GAIN
-State adaptation and experimentation.
-
-FEDERAL RISK
-uneven minimum protection, vacancies and dependence on State agencies.
-
-REFORM
-model baseline + State autonomy + transparent appointments + public follow-up.
-
-ASCII MASTER FLOW — PANEL 11/12: Cases and current legal controls
-Common Cause v. Union of India (2017) -> Act workable despite committee vacancy.
-Lok Prahari v. Union of India (2018) -> electoral disclosure, not section 44 restoration.
-Sita Soren (2024) -> bribery outside privilege immunity.
-
-2025 HIGH COURT-JUDGE ISSUE
-Supreme Court stayed the Lokpal order; no final merits holding.
-
-CURRENT CLAIMS
-use dated primary sources; do not freeze transient statistics.
-
-PENDING-JURISDICTION CONTROL
-The Supreme Court's 20 February 2025 interim order stayed the Lokpal's
-High Court-judge jurisdiction order. Do not convert the stay into a final merits rule.
-
-ASCII MASTER FLOW — PANEL 12/12: UPSC traps and answer synthesis
-PRELIMS FIREWALL
-statutory, not constitutional | maximum eight Members | PM included with filters
-| speech/vote exclusion | no general suo-motu power | seven-year limitation
-| referred-case CBI superintendence only | Lokayukta design varies.
-
-2025 PRELIMS ROUTE
-jurisdiction + composition -> test percentage denominator, PM safeguards and privilege.
-
-MAINS SPINE
-ombudsman evolution -> legal identity -> composition/independence
--> jurisdiction -> complaint-to-court process -> agency interfaces
--> powers and safeguards -> State variation -> capacity reform.
-
-VERDICT
-Lokpal has real process powers, but credibility depends on appointments, agency autonomy,
-reasoned transparency and court-controlled legality rather than institutional mythology.
-LEGAL/SOURCE LIMIT: Justice A. M. Khanwilkar and the six officially listed Members form the
-  dated central roster; the 2025 High Court-judge jurisdiction order remains stayed.
+[12/12] INSTITUTIONAL FIREWALL, TRAPS AND ANSWER SPINE
+Lokpal -> complaint routing, referred-case supervision, sanction/directions
+CVC -> vigilance advice + specified preliminary inquiries
+CVO -> departmental vigilance and disciplinary coordination
+CBI/DSPE -> criminal investigation
+Prosecutor/Prosecution Wing -> presents case
+Special Court -> attachment control, trial, conviction/acquittal/sentence
+CAG -> public-account audit | CIC -> RTI disclosure/appeals | courts -> judicial review
+NEVER WRITE:
+  constitutional Lokpal | PM wholly immune | all private persons covered
+  all CBI cases controlled | every official automatically dismissed | Lokpal convicts
+MAINS VERDICT:
+  broad statutory reach + procedural safeguards, but effectiveness depends on timely
+  appointments, staffed capacity, agency independence, reasoned transparency and federal fit.

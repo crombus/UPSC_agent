@@ -1,111 +1,115 @@
-ASCII MASTER FLOW — PANEL 1/12: 2015 origin, legal status and power boundary
-1 JANUARY 2015 -> Union Cabinet resolution creates NITI Aayog
-STATUS -> executive + non-constitutional + non-statutory
-ROLE -> advise, convene, strategise, monitor and support capacity
-NO OWN POWER -> legislate, tax, allocate divisible pool or impose State plans
+POLITY TOPIC 34 - NITI AAYOG - ASCII MASTER FLOW
 
-LIMIT: recommendation becomes action only through competent government authority.
-MUST REMEMBER: NITI Aayog is an executive, non-constitutional and non-statutory policy
-  platform created by the Cabinet resolution of 1 January 2015.
+PANEL 1/12 - START: LEGAL IDENTITY AND CHRONOLOGY
+[15 Mar 1950 Planning Commission: executive resolution]
+        -> [1952 National Development Council: plan-era executive forum]
+        -> [2014 transition announced]
+        -> [1 Jan 2015 NITI Aayog: Union Cabinet Resolution]
+        -> [2017-18 plan/non-plan budget classification ended separately]
+RULE: replacement required no constitutional amendment.
+NITI = executive + non-constitutional + non-statutory + recommendatory.
 
-ASCII MASTER FLOW — PANEL 2/12: Mandate: think, convene and learn
-THINK -> strategy, policy research and knowledge networks
-CONVENE -> Union-State dialogue and inter-sector coordination
-LEARN -> monitoring, evaluation, feedback and adaptation
-FOUNDATION -> shared vision + bottom-up plans + vulnerable groups + technology
+PANEL 2/12 - FOUNDATIONAL PURPOSE
+CENTRAL QUESTION: how can a diverse federal polity plan without a command planner?
+        |
+        +-> shared national priorities with active State involvement
+        +-> credible plans developing from village level upward
+        +-> long-term strategy and policy/programme frameworks
+        +-> inter-sectoral coordination and vulnerable-section focus
+        +-> monitoring, feedback, technology and capacity building
+LIMIT: broad mandate does not create binding law or exclusive jurisdiction.
 
-TRAP: an official objective is a mandate, not evidence of achieved outcomes.
+PANEL 3/12 - TWO-HUB OPERATING MODEL
+TEAM INDIA HUB                         KNOWLEDGE AND INNOVATION HUB
+State/UT engagement                    research + technical advice
+cooperative federalism                 knowledge partnerships
+shared priorities                      innovation + best-practice diffusion
+             \                         /
+              -> THINK -> CONVENE -> LEARN -> ADVISE
+LIMIT: NITI cannot command ministries or States.
 
-ASCII MASTER FLOW — PANEL 3/12: Composition and notification-sensitive roles
-CHAIRPERSON -> Prime Minister
-GOVERNING COUNCIL -> State CMs + relevant UT leadership
-EXPERT SIDE -> Vice-Chairperson + full-time and part-time members
-UNION LINK -> ex-officio Ministers + special invitees
-ADMINISTRATION -> CEO
+PANEL 4/12 - COMPOSITION
+Prime Minister = Chairperson
+        |
+        +-> Governing Council:
+        |   Chief Ministers of all States and Union Territories with legislatures
+        |   + Lieutenant Governors of other Union Territories
+        +-> Vice-Chairperson appointed by PM
+        +-> full-time members
+        +-> up to 2 rotational part-time members from relevant knowledge bodies
+        +-> up to 4 ex-officio Union ministers nominated by PM
+        +-> CEO: PM-appointed, fixed tenure, Secretary to GoI rank
+        +-> special invitees with relevant expertise + secretariat
+TRAP: ex-officio members != special invitees != part-time members.
 
-CONTROL: names, portfolios and invitees require a dated official notification.
+PANEL 5/12 - GOVERNING AND REGIONAL COUNCILS
+GOVERNING COUNCIL = apex NITI Union-State/UT development-policy forum
+        -> deliberation and consensus may influence policy
+        -> not Parliament, not Article 280, not Article 279A, not a tribunal
+REGIONAL COUNCIL = specific issue affecting >1 State or a region
+        -> specified tenure -> concerned CMs/LGs -> PM or nominee chairs
+        -> experts/practitioners may be invited
+TRAP: NITI Regional Council != statutory Zonal Council != Article 263 ISC.
 
-LATEST FORMAL ROSTER: 24 APRIL 2026
-Vice Chairperson: Ashok Kumar Lahiri.
-Full-time: Rajiv Gauba | K. V. Raju | Gobardhan Das
-| Abhay Karandikar | M. Srinivas.
-Ex-officio members and special invitees remain those in the 16 July 2024 notice.
+PANEL 6/12 - PLANNING COMMISSION TRANSITION
+PLANNING COMMISSION                    NITI AAYOG
+executive resolution                   executive resolution
+Five-Year Plan framework               strategy / policy framework
+central plan + resource leverage       advisory; no former plan-allocation power
+top-down tendency                      bottom-up and cooperative aspiration
+NDC plan-era forum                     Governing Council within NITI
+VERDICT: same broad legal form; different philosophy, instruments and leverage.
 
-ASCII MASTER FLOW — PANEL 4/12: Governing Council and Regional Councils
-GOVERNING COUNCIL -> continuing PM-chaired development-policy forum
-MEMBERS -> State and UT political leadership under current constitution/order
-REGIONAL COUNCIL -> temporary, issue-specific, multi-State or regional mechanism
-PROCESS -> agenda -> joint diagnosis -> consultation -> agreed follow-up
+PANEL 7/12 - FEDERALISM MECHANISM
+COOPERATIVE: State voice -> shared priority -> coordinated implementation -> feedback
+SUCCESS TEST: agenda access + reasoned response + capacity + follow-through
+COMPETITIVE: common indicator -> comparison -> reputation -> policy response
+SAFEGUARDS: fair baseline + disclosed method + data audit + qualitative evaluation
+LIMIT: consultation != State veto; ranking != causation.
 
-LIMIT: consensus is political coordination, not binding law or a State veto.
+PANEL 8/12 - ASPIRATIONAL DISTRICTS AND BLOCKS
+ADP (Jan 2018, district) / ABP (2023, block)
+        |
+        +-> CONVERGENCE of existing schemes
+        +-> COLLABORATION across levels and field administration
+        +-> COMPETITION through monitored progress
+        +-> delta/change measure distinct from absolute level
+LIMIT: programme != new constitutional tier; dashboard != proved impact.
 
-ASCII MASTER FLOW — PANEL 5/12: Planning Commission transition
-CONTINUITY -> both bodies arose through executive resolution
-PLANNING COMMISSION -> Five-Year Plans + plan-resource influence + central negotiation
-NITI -> indicative strategy + federal dialogue + monitoring + knowledge
-LATER REFORM -> plan/non-plan budget distinction ended separately
+PANEL 9/12 - SDGs, DMEO AND AIM
+SDG India Index -> State/UT benchmarking and localisation
+        LIMIT: score != legal duty, fiscal award or causal evaluation
+DMEO -> attached office of NITI -> monitoring + evaluation + learning
+        INPUT -> ACTIVITY -> OUTPUT -> OUTCOME -> IMPACT
+Atal Innovation Mission -> initiative under NITI, including tinkering/incubation tools
+        AIM 2.0: Cabinet-approved Nov 2024 continuation through 31 Mar 2028
+        LIMIT: not a statutory regulator; freeze no volatile programme metrics.
 
-VERDICT: directive allocation shifted toward advisory coordination and softer leverage.
+PANEL 10/12 - INSTITUTIONAL FIREWALL
+NITI: advice, strategy, convening, monitoring/evaluation support
+Finance Commission: Article 280 fiscal recommendations
+GST Council: Article 279A GST recommendations
+Inter-State Council: Article 263 inquiry/discussion/advice route
+NDC: historical executive plan-era coordination/approval forum
+Ministries: policy decision, budget, rules and implementation
+CAG: Articles 148-151 public audit and legislative accountability
+NITI DOES NOT legislate, adjudicate, command States or allocate constitutional devolution.
 
-ASCII MASTER FLOW — PANEL 6/12: Cooperative and competitive federalism
-COOPERATIVE -> shared agenda + State voice + joint problem-solving + capacity support
-COMPETITIVE -> common indicator -> comparison -> reputation -> administrative response
-STATE SUPPORT -> policy and institutional capability partnerships
-RISKS -> central agenda power + boycott/non-attendance + unequal capacity + data gaming
+PANEL 11/12 - STRENGTHS, CRITICISMS AND REFORM
+STRENGTHS: flexibility + federal forum + expertise + benchmarking + targeted focus
+CRITICISMS: PM-centred agenda/appointments + no fiscal leverage + weak traceability
+            + overlap + data gaming + output/outcome confusion
+REFORM: State agenda route + regular Council cycle + response/action matrix
+        + independent evaluation/data checks + role charters + committee scrutiny
+GUARDRAIL: improve accountable soft power; do not create a super-ministry.
 
-BALANCE: participation improves legitimacy only when evidence and follow-up are credible.
-CLOSE DISTINCTION: Advice, convening, monitoring and rankings do not confer legislative,
-  taxing, devolution, fund-allocation or implementation powers.
-
-ASCII MASTER FLOW — PANEL 7/12: Evidence, indicators and evaluation
-OUTCOME -> indicator -> baseline -> verified data -> comparison
-        -> diagnosis -> intervention -> reassessment
-DMEO -> monitoring and evaluation support
-SAFE REPORTING -> rank + absolute level + change + uncertainty + field evidence
-
-TRAP: dashboard movement does not by itself establish causation or durable welfare gain.
-
-ASCII MASTER FLOW — PANEL 8/12: Aspirational Districts and Blocks
-CONVERGENCE -> align schemes and agencies
-COLLABORATION -> Centre + State + district/block teams
-COMPETITION -> delta indicators and peer comparison
-DELIVERY -> remains with competent governments and field administration
-
-LIMIT: NITI coordinates and monitors; it does not directly deliver every service.
-
-ASCII MASTER FLOW — PANEL 9/12: SDGs, DMEO and Atal Innovation Mission
-SDG LOCALISATION -> goals -> indicators -> State/local attention
-DMEO -> programme monitoring and evaluation
-AIM -> innovation initiative under NITI; architecture is date-sensitive
-PROGRAMME TEST -> owner + mechanism + implementer + evidence + limit
-
-PYQ 2019: institutional ownership matters more than the programme name.
-
-ASCII MASTER FLOW — PANEL 10/12: NITI and neighbouring institutions
-NITI -> executive strategy, dialogue and monitoring
-FINANCE COMMISSION -> Article 280 fiscal recommendations
-GST COUNCIL -> Article 279A GST recommendations
-INTER-STATE COUNCIL -> Article 263 coordination route
-ZONAL COUNCILS -> statutory regional cooperation
-STATE FINANCE COMMISSIONS -> State-local fiscal recommendations
-
-Never transfer one body’s source or power to another.
-
-ASCII MASTER FLOW — PANEL 11/12: Strengths, deficits and accountable reform
-STRENGTHS -> flexibility + expertise + convening + cross-sector evidence
-DEFICITS -> non-binding advice + central agenda + weak reporting + data risk
-REFORM -> State agenda windows + published consultations + independent data audit
-        -> action tracking + parliamentary visibility + implementation feedback
-
-GOAL: retain flexibility while making influence transparent and evaluable.
-
-ASCII MASTER FLOW — PANEL 12/12: PYQ routes and answer synthesis
-PYQ 2018 -> NITI principles versus Planning Commission
-PYQ 2019 -> Atal Innovation Mission institutional location
-PRELIMS -> executive != unconstitutional | Council != legislature | index != power
-MAINS -> origin -> mandate -> composition -> federal mechanism -> programme evidence
-        -> fiscal/data limits -> accountable reform -> qualified verdict
-
-NITI succeeds through credible persuasion, State ownership and implementation.
-LEGAL/SOURCE LIMIT: The 24 April 2026 Gazette replaced the Vice Chairperson and full-time
-  member roster while retaining the July 2024 ex-officio members and invitees.
+PANEL 12/12 - EXAM ROUTE AND QUALIFIED CONCLUSION
+PRELIMS: SOURCE -> POWER -> FUNCTION -> NEIGHBOUR-INSTITUTION FILTER
+2018 GS-III: same executive status -> compare principle, method, funds, instruments
+2019 Prelims route: AIM is under NITI; exact stem/key not reconstructed
+MAINS PARAGRAPH: claim -> named evidence -> mechanism -> result -> qualification
+CONCLUSION:
+NITI replaced directive resource planning with advisory federal coordination.
+Its legitimacy depends on genuine State voice, credible evidence and transparent
+follow-through; it must neither be dismissed for lacking coercion nor credited
+with powers and outcomes that belong to constitutional bodies and governments.

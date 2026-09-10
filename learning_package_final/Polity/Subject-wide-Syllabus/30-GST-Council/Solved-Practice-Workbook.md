@@ -1,695 +1,611 @@
 ---
 title: "GST Council — Solved Practice Workbook"
 topic_key: polity-30
+subject: Polity
+control_date: 2026-09-08
 ---
 # GST Council — Solved Practice Workbook
 
+**Control date:** 8 September 2026  
+**Locked discipline:** exactly 32 original MCQs before PYQs; `ABCD` repeated eight times; 128 unique option explanations; 32 unique examiner traps; official-key status stated; exactly six original Mains models.
+
 ## BASIC MCQS / REMEDIATION
 
-### ORIGINAL MCQS — 36 QUESTIONS
+Exactly **32 original MCQs** appear before PYQs. Correct-option sequence: `ABCD` repeated eight times. Every option has a distinct explanation and every question has a unique examiner trap.
 
-### OM1. Special legislative competence
+### MCQ 1. Article 246A is best described as:
 
-Which provision creates the special shared legislative power over GST?
-
-A. Article 246A
-B. Article 280
-C. Article 301
-D. Article 263
+A. a special GST competence shared by Parliament and States, with Parliament exclusive for inter-State supplies
+B. the Finance Commission's tax-sharing clause
+C. a parliamentary power over customs alone
+D. the Council's voting clause
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 246A gives Parliament and State legislatures GST competence, subject to Parliament's exclusive power over inter-State supplies.
+**Option-specific explanations:**
 
-### OM2. Inter-State supply
+- **A:** Article 246A creates simultaneous GST power and reserves inter-State GST legislation to Parliament.
+- **B:** Article 280, not Article 246A, creates the Finance Commission.
+- **C:** Customs competence is not the defining subject of Article 246A.
+- **D:** Voting is governed by Article 279A, not Article 246A.
 
-Under Article 246A(2), exclusive legislative power over GST on inter-State supply belongs to:
+**Examiner trap 1:** Trap 1: shared intra-State competence does not erase Parliament's exclusive inter-State field.
 
-A. the Finance Commission.
-B. Parliament.
-C. the GST Council.
-D. State legislatures collectively.
+### MCQ 2. Which constitutional change accompanied the 101st Amendment?
+
+A. Deletion of Article 286
+B. Omission of Article 268A
+C. Omission of Article 270
+D. Insertion of Article 280A
 
 **Answer: B.**
 
-**Explanation:** [FACT] The Council recommends and Article 269A handles allocation, but Parliament has the exclusive inter-State legislative field.
+**Option-specific explanations:**
 
-### OM3. IGST bridge
+- **A:** Article 286 was amended to fit supply-based restrictions, not deleted.
+- **B:** Article 268A's separate service-tax route was omitted.
+- **C:** Article 270 was amended, not omitted.
+- **D:** No Article 280A was inserted for GST.
 
-Which Article provides for Union levy and collection of GST on inter-State supplies with apportionment?
+**Examiner trap 2:** Trap 2: distinguish an omitted provision from provisions merely amended.
 
-A. Article 268
-B. Article 279
-C. Article 269A
-D. Article 270
+### MCQ 3. Article 269A primarily governs:
+
+A. GST Council membership
+B. State excise on alcohol
+C. inter-State GST levy, collection and apportionment
+D. Finance Commission grants
 
 **Answer: C.**
 
-**Explanation:** [FACT] Article 269A is the constitutional IGST and place-of-supply bridge.
+**Option-specific explanations:**
 
-### OM4. Council chair
+- **A:** Council membership is found in Article 279A(2).
+- **B:** Alcohol excise survives in separate constitutional fields.
+- **C:** Article 269A is the constitutional IGST and apportionment bridge.
+- **D:** Article 275 and Article 280 concern grants and Finance Commission advice.
 
-The constitutional Chairperson of the GST Council is:
+**Examiner trap 3:** Trap 3: Article 269A is about inter-State flow, not the Council itself.
 
-A. the Minister of State for Finance.
-B. the Prime Minister.
-C. the Revenue Secretary.
-D. the Union Finance Minister.
+### MCQ 4. Who chairs the GST Council?
+
+A. Revenue Secretary
+B. Prime Minister
+C. Union Minister of State for Finance
+D. Union Finance Minister
 
 **Answer: D.**
 
-**Explanation:** [FACT] Article 279A(2)(b) expressly names the Union Finance Minister.
+**Option-specific explanations:**
 
-### OM5. State representation
+- **A:** The Revenue Secretary supports the Secretariat but is not constitutional Chairperson.
+- **B:** The Prime Minister does not chair the Article 279A body.
+- **C:** The Union MoS is a member, not Chairperson.
+- **D:** Article 279A(2)(a) names the Union Finance Minister as Chairperson.
 
-Each State Government is represented constitutionally by:
+**Examiner trap 4:** Trap 4: administrative prominence does not create constitutional membership.
 
-A. its finance/taxation minister or another minister it nominates.
-B. one legislator elected by the Assembly.
-C. its Chief Secretary only.
-D. the Governor.
+### MCQ 5. A State is represented in the Council by:
+
+A. its finance/tax minister or another minister nominated by the State Government
+B. its Chief Secretary only
+C. one MLA elected by the Assembly
+D. the Governor
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 279A(2)(b) uses ministerial representation, not officials as voting substitutes.
+**Option-specific explanations:**
 
-### OM6. Vice-Chair
+- **A:** Article 279A permits the finance/tax minister or another State-nominated minister.
+- **B:** A Chief Secretary is not the State's constitutional voting member.
+- **C:** The Constitution does not use an elected-MLA formula for Council membership.
+- **D:** The Governor does not cast the State's Council vote.
 
-The Vice-Chairperson is chosen:
+**Examiner trap 5:** Trap 5: the representative must be a minister, but need not always hold the finance portfolio.
 
-A. automatically by seniority among Chief Ministers.
-B. by State members from among themselves for a period they decide.
-C. by the Council Secretariat.
-D. by the President from Union ministers.
+### MCQ 6. The Council's Vice-Chairperson is:
+
+A. appointed by the President
+B. chosen by State members from among themselves
+C. always the senior-most Chief Minister
+D. the Union MoS by office
 
 **Answer: B.**
 
-**Explanation:** [FACT] Article 279A(3) leaves both selection and period to State members.
+**Option-specific explanations:**
 
-### OM7. Secretariat status
+- **A:** The President constitutes the Council but does not select its Vice-Chair under clause (3).
+- **B:** State members choose one among themselves and decide the period.
+- **C:** No seniority convention is constitutionalised.
+- **D:** The Union MoS is a member, not automatic Vice-Chair.
 
-Which statement is correct?
+**Examiner trap 6:** Trap 6: the States control the vice-chair choice and period.
 
-A. The Constitution creates an independent permanent GST civil service.
-B. The CBIC Chairperson carries the Union's one-third vote.
-C. The Secretariat is an administrative arrangement supporting the constitutional Council.
-D. Article 279A makes the Revenue Secretary a voting member.
+### MCQ 7. The constitutional quorum is:
+
+A. one-third of members present
+B. three-fourths of total membership
+C. one-half of total membership
+D. two-thirds of State members
 
 **Answer: C.**
 
-**Explanation:** [FACT] The Cabinet approved the Secretariat, ex-officio Secretary and non-voting invitee; these are not additional constitutional members.
+**Option-specific explanations:**
 
-### OM8. Recommendation field
+- **A:** One-third is associated with Union vote weight, not quorum.
+- **B:** Three-fourths is the weighted decision threshold.
+- **C:** Article 279A(7) fixes one-half of total membership.
+- **D:** The Constitution does not define quorum as two-thirds of State members.
 
-Which subject is not an Article 279A(4) recommendation field?
+**Examiner trap 7:** Trap 7: quorum counts members; vote weights apply after a meeting is quorate.
 
-A. floor rates with bands.
-B. thresholds for GST exemption.
-C. special disaster rates.
-D. horizontal tax devolution among States from the divisible pool.
+### MCQ 8. A formal Council decision needs at least:
+
+A. a simple headcount majority
+B. two-thirds of unweighted votes
+C. unanimity
+D. three-fourths of weighted votes of members present and voting
 
 **Answer: D.**
 
-**Explanation:** [FACT] Horizontal devolution belongs to the Finance Commission architecture, not GST Council rate design.
+**Option-specific explanations:**
 
-### OM9. Petroleum date
+- **A:** Simple majority understates the constitutional threshold.
+- **B:** Two-thirds is the States' aggregate weight, not the passing rule.
+- **C:** Consensus is usual practice but not the only constitutional route.
+- **D:** Article 279A(9) prescribes at least three-fourths of weighted votes.
 
-Article 279A(5) requires the Council to recommend:
+**Examiner trap 8:** Trap 8: consensus practice does not repeal the formal weighted rule.
 
-A. the date for GST levy on five specified petroleum products.
-B. customs duty on crude oil.
-C. permanent exclusion of every petroleum product.
-D. State VAT rates on alcohol.
+### MCQ 9. The Union's weight in votes cast is:
+
+A. one-third
+B. one-half
+C. two-thirds
+D. three-fourths
 
 **Answer: A.**
 
-**Explanation:** [FACT] Crude, HSD, petrol, natural gas and ATF are deferred to a Council-recommended date.
+**Option-specific explanations:**
 
-### OM10. Quorum
+- **A:** The Union has one-third of total votes cast.
+- **B:** One-half is the quorum fraction.
+- **C:** Two-thirds belongs collectively to States.
+- **D:** Three-fourths is the passing threshold.
 
-The constitutional quorum is:
+**Examiner trap 9:** Trap 9: memorise each fraction with its distinct function.
 
-A. two-thirds of all members.
-B. one-half of total Council members.
-C. one-third of voting States.
-D. three-fourths of members present.
+### MCQ 10. States together hold:
+
+A. one-third of votes cast
+B. two-thirds of votes cast
+C. three-fourths of votes cast
+D. one-half of total membership
 
 **Answer: B.**
 
-**Explanation:** [FACT] Article 279A(7) fixes one-half of total membership.
+**Option-specific explanations:**
 
-### OM11. Passing threshold
+- **A:** One-third belongs to the Union.
+- **B:** State members present and voting collectively carry two-thirds.
+- **C:** Three-fourths is the required majority.
+- **D:** One-half describes quorum, not State weight.
 
-A formal Council decision requires:
+**Examiner trap 10:** Trap 10: State weight is collective and then shared equally among participating State members.
 
-A. simple majority of persons present.
-B. unanimity.
-C. at least three-fourths of weighted votes present and voting.
-D. two-thirds of unweighted votes.
+### MCQ 11. The Union can block a proposal because:
+
+A. the Chair has an express veto
+B. States have no constitutional vote
+C. States' maximum collective two-thirds falls below the three-fourths threshold
+D. Parliament must approve every Council agenda
 
 **Answer: C.**
 
-**Explanation:** [FACT] Consensus is practice; Article 279A(9) supplies the weighted legal threshold.
+**Option-specific explanations:**
 
-### OM12. Vote weights
+- **A:** Article 279A does not state a separate chairperson's veto.
+- **B:** States collectively hold the larger vote share.
+- **C:** Without Union support, the maximum two-thirds cannot reach three-fourths.
+- **D:** Parliamentary pre-approval is not part of Council voting.
 
-Which pairing is correct?
+**Examiner trap 11:** Trap 11: call it blocking arithmetic, not an express constitutional veto.
 
-A. Union one-fourth; States three-fourths.
-B. Union one-half; States one-half.
-C. Union two-thirds; States one-third.
-D. Union one-third; States together two-thirds.
+### MCQ 12. Article 279A(10) means Council proceedings are not invalid merely because of:
+
+A. judicial review
+B. absence of any quorum
+C. failure to meet the voting threshold
+D. specified vacancy/appointment/constitution defects or non-merits procedural irregularity
 
 **Answer: D.**
 
-**Explanation:** [FACT] The Constitution divides total votes cast in that ratio.
+**Option-specific explanations:**
 
-### OM13. Union blocking position
+- **A:** Judicial review is not excluded by clause (10).
+- **B:** Clause (10) does not authorise business without quorum.
+- **C:** A failed majority cannot be cured as a minor defect.
+- **D:** The clause protects proceedings from the enumerated defects and immaterial irregularity.
 
-Why can the Union block a proposal?
+**Examiner trap 12:** Trap 12: defect protection is not permission to ignore quorum or voting.
 
-A. Without Union support, State weight can reach only two-thirds, below three-fourths.
-B. Every State vote is advisory.
-C. Parliament must first approve each vote.
-D. The Chairperson has an absolute veto written in Article 279A.
+### MCQ 13. Which is expressly within Article 279A(4)?
+
+A. threshold turnover below which GST may be exempted
+B. horizontal Finance Commission devolution
+C. CAG certification of net proceeds
+D. appointment of GSTAT judges
 
 **Answer: A.**
 
-**Explanation:** [ANALYSIS] The blocking effect follows arithmetically from the constitutional weights, not from a separate veto clause.
+**Option-specific explanations:**
 
-### OM14. State coalition needed
+- **A:** Thresholds are an express recommendation field.
+- **B:** Horizontal devolution belongs to Article 280 architecture.
+- **C:** CAG certification arises under Article 279.
+- **D:** GSTAT appointments follow statute, not Article 279A(4)'s list.
 
-If the Union votes in favour, what fraction of State votes present and voting must support the proposal at minimum?
+**Examiner trap 13:** Trap 13: identify recommendation subjects, not every institution touching public finance.
 
-A. two-thirds.
-B. five-eighths.
-C. three-fourths.
-D. one-half.
+### MCQ 14. Article 279A(5) concerns the date for GST levy on:
+
+A. alcoholic liquor for human consumption
+B. five specified petroleum products
+C. electricity duty
+D. stamp duty
 
 **Answer: B.**
 
-**Explanation:** [ANALYSIS] Three-fourths minus one-third leaves five-twelfths; divided by the States' two-thirds weight, this equals five-eighths.
+**Option-specific explanations:**
 
-### OM15. Consensus
+- **A:** Alcohol is excluded from the GST definition, not deferred under clause (5).
+- **B:** Crude, HSD, petrol, natural gas and ATF are the five named products.
+- **C:** Electricity duty remains a distinct State field.
+- **D:** Stamp duty is outside the clause (5) list.
 
-Which statement best describes consensus in the Council?
+**Examiner trap 14:** Trap 14: petroleum is deferred; alcohol is excluded.
 
-A. It constitutionally replaces voting.
-B. It requires judicial certification.
-C. It is a preferred practice operating alongside the formal Article 279A(9) rule.
-D. It means the Union has no vote.
+### MCQ 15. Which statement about recommendations is correct?
+
+A. They automatically amend all GST Acts.
+B. They are judicial decrees.
+C. They have persuasive constitutional value, while enforceability follows valid law or notification.
+D. They bind only private taxpayers directly.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The official Council page describes consensus practice; [LIMIT] the weighted rule remains legally available.
+**Option-specific explanations:**
 
-### OM16. Council recommendation and law
+- **A:** A Council decision does not itself rewrite legislation.
+- **B:** The Council is not a court.
+- **C:** This states the recommendation-to-law chain after Mohit Minerals.
+- **D:** Taxpayers are bound by applicable law, not directly by the recommendation.
 
-A Council press release announcing a rate change:
+**Examiner trap 15:** Trap 15: avoid both automatic-binding and legal-irrelevance extremes.
 
-A. is equivalent to a Supreme Court order.
-B. binds consumers before any effective date.
-C. automatically amends every GST Act.
-D. must be followed through the competent legal instrument for enforceable effect.
+### MCQ 16. A rate recommendation in a press release becomes enforceable through:
+
+A. a newspaper report
+B. a GSTN portal banner alone
+C. a Finance Commission memorandum
+D. the competent Act/rule/Gazette notification with an effective date
 
 **Answer: D.**
 
-**Explanation:** [FACT] Statutes and Gazette notifications create the applicable liability.
+**Option-specific explanations:**
 
-### OM17. Dual GST
+- **A:** Media publication cannot create tax liability.
+- **B:** Portal display is administrative information, not delegated legislation.
+- **C:** Finance Commission documents do not set GST rates.
+- **D:** The authorised legal instrument supplies enforceability and timing.
 
-An ordinary intra-State taxable supply broadly attracts:
+**Examiner trap 16:** Trap 16: recommendation date and legal effective date may differ.
 
-A. CGST plus SGST/UTGST.
-B. customs duty only.
-C. IGST only.
-D. compensation cess only.
+### MCQ 17. An intra-State taxable supply ordinarily attracts:
+
+A. CGST plus SGST or applicable UTGST
+B. IGST only
+C. SGST plus IGST
+D. customs duty only
 
 **Answer: A.**
 
-**Explanation:** [FACT] Parallel Union and State/UT laws operationalise the shared Article 246A field.
+**Option-specific explanations:**
 
-### OM18. Input-tax credit
+- **A:** The dual intra-State structure combines Central and subnational components.
+- **B:** IGST is the inter-State/import bridge.
+- **C:** SGST and IGST are not the standard same-supply intra-State pair.
+- **D:** Customs duty concerns importation and does not replace domestic GST.
 
-The core economic function of eligible ITC is to:
+**Examiner trap 17:** Trap 17: choose the supply's territorial character before choosing the levy.
 
-A. exempt every business input.
-B. reduce cascading by crediting eligible input tax against output liability.
-C. transfer GST Council votes.
-D. replace every tax with a fee.
+### MCQ 18. Imports are treated for GST purposes as:
+
+A. outside all GST
+B. inter-State supplies
+C. intra-State supplies in the port State
+D. State excise supplies
 
 **Answer: B.**
 
-**Explanation:** [FACT] Sections 16 and 49 form the broad credit-entitlement and use architecture.
+**Option-specific explanations:**
 
-### OM19. Inverted duty
+- **A:** Imports may attract GST through the inter-State route.
+- **B:** Article 269A deems import supplies inter-State.
+- **C:** Port location does not convert the import into an intra-State supply.
+- **D:** State excise is not the general import-GST mechanism.
 
-An inverted duty structure occurs where:
+**Examiner trap 18:** Trap 18: import IGST is distinct from basic customs duty.
 
-A. no invoice is issued.
-B. direct tax exceeds indirect tax.
-C. the input tax rate exceeds the output tax rate.
-D. output is exported.
+### MCQ 19. Input-tax credit primarily seeks to:
+
+A. replace constitutional competence
+B. give the Council adjudicatory power
+C. tax value addition by offsetting eligible input tax against output liability
+D. exempt every business input
 
 **Answer: C.**
 
-**Explanation:** [FACT] The mismatch can accumulate credit and create refund/cash-flow pressure.
+**Option-specific explanations:**
 
-### OM20. Zero-rating
+- **A:** Credit rules do not allocate legislative power.
+- **B:** ITC does not create Council adjudication.
+- **C:** Eligible offset limits cascading and focuses burden on value addition.
+- **D:** Blocked and ineligible credits remain possible.
 
-Which category is designed to preserve a credit/refund route despite relief from output burden?
+**Examiner trap 19:** Trap 19: ITC is conditional credit, not universal exemption.
 
-A. every nil-rated supply.
-B. every non-GST supply.
-C. every exempt domestic supply.
-D. zero-rated supply under the IGST framework.
+### MCQ 20. GSTN is best described as:
+
+A. the Article 279A voting forum
+B. the appellate tribunal
+C. the Central tax legislature
+D. the common GST technology platform
 
 **Answer: D.**
 
-**Explanation:** [FACT] Exports and qualifying SEZ supplies are the standard zero-rating examples, subject to law.
+**Option-specific explanations:**
 
-### OM21. Alcohol boundary
+- **A:** The GST Council is the constitutional forum.
+- **B:** GSTAT is the statutory appellate institution.
+- **C:** Parliament legislates Central GST law.
+- **D:** GSTN supports registration, returns and shared digital processes.
 
-Alcoholic liquor for human consumption is:
+**Examiner trap 20:** Trap 20: technology infrastructure is not constitutional policy authority.
 
-A. excluded from the GST definition by Article 366(12A).
-B. merely deferred under Article 279A(5).
-C. zero-rated by Article 269A.
-D. assigned to the Finance Commission.
+### MCQ 21. Alcoholic liquor for human consumption is:
+
+A. excluded from the Article 366(12A) GST definition
+B. deferred only until an Article 279A(5) date
+C. within GST plus Union excise like tobacco
+D. an IGST-only supply
 
 **Answer: A.**
 
-**Explanation:** [FACT] This is a constitutional definition exclusion, unlike the petroleum-date mechanism.
+**Option-specific explanations:**
 
-### OM22. Electricity boundary
+- **A:** Article 366(12A) expressly excludes this supply from GST.
+- **B:** The date mechanism applies to five petroleum products.
+- **C:** Tobacco has a different concurrent treatment.
+- **D:** Alcohol is not converted into an IGST-only category.
 
-Which statement is precise?
+**Examiner trap 21:** Trap 21: constitutional exclusion is stronger than present-rate exemption.
 
-A. The GST Council alone collects electricity duty.
-B. State List Entry 53 retains tax on consumption or sale of electricity; GST supply treatment also depends on law/notification.
-C. Electricity duty was constitutionally converted into IGST.
-D. Electricity is excluded by the same words as alcohol in Article 366(12A).
+### MCQ 22. Tobacco products may bear:
+
+A. State VAT only
+B. GST plus retained Union excise
+C. no indirect tax
+D. only compensation cess and no GST
 
 **Answer: B.**
 
-**Explanation:** [FACT] Electricity follows a different constitutional and notification route from alcohol and petroleum.
+**Option-specific explanations:**
 
-### OM23. Compensation base
+- **A:** Tobacco is not confined to State VAT.
+- **B:** The amended constitutional field permits GST alongside Union excise.
+- **C:** Tobacco is not tax-free.
+- **D:** Cess treatment does not displace the underlying GST/excise structure.
 
-The Compensation Act used which base year?
+**Examiner trap 22:** Trap 22: tobacco is the classic GST-plus-Union-excise boundary.
 
-A. 2017-18.
-B. 2016-17.
-C. financial year ending 31 March 2016.
-D. 2019-20.
+### MCQ 23. The five-year compensation transition ended in:
+
+A. June 2017
+B. March 2020
+C. June 2022
+D. September 2025
 
 **Answer: C.**
 
-**Explanation:** [FACT] Section 4 identifies FY 2015-16 as the base year.
+**Option-specific explanations:**
 
-### OM24. Protected growth
+- **A:** GST had not yet begun in June 2017.
+- **B:** March 2020 was within the transition and pandemic shock.
+- **C:** The protected five-year period ended on 30 June 2022.
+- **D:** The 56th meeting did not extend the original entitlement to 2025.
 
-The projected nominal annual growth rate under the Compensation Act was:
+**Examiner trap 23:** Trap 23: cess continuation does not move the entitlement end date.
 
-A. 10 per cent.
-B. 15 per cent.
-C. 12 per cent.
-D. 14 per cent.
+### MCQ 24. Post-June 2022 compensation cess collection should be described as:
+
+A. a permanent 14 per cent State guarantee
+B. a Finance Commission grant
+C. proof that compensation never ended
+D. a separately authorised loan/interest-servicing arrangement, with current dates checked officially
 
 **Answer: D.**
 
-**Explanation:** [FACT] Section 3 set 14 per cent for the transition period.
+**Option-specific explanations:**
 
-### OM25. Compensation duration
+- **A:** The protected growth guarantee was time-bound.
+- **B:** The cess is not an Article 280 grant.
+- **C:** Collection after transition does not revive the expired entitlement.
+- **D:** This preserves the legal distinction and date sensitivity.
 
-The statutory transition period was:
+**Examiner trap 24:** Trap 24: label the purpose of continued cess, not merely its name.
 
-A. five years from the transition date.
-B. ten years from enactment.
-C. permanent.
-D. dependent on each Finance Commission.
+### MCQ 25. Mohit Minerals held Council recommendations to be:
+
+A. persuasive rather than binding on Union and State legislatures
+B. binding constitutional commands
+C. irrelevant to GST law
+D. binding only on States
 
 **Answer: A.**
 
-**Explanation:** [FACT] The five-year period ended in June 2022 for the GST launch timeline.
+**Option-specific explanations:**
 
-### OM26. Cess after June 2022
+- **A:** The Court assigned persuasive value and preserved simultaneous legislative power.
+- **B:** A binding-command reading was rejected.
+- **C:** The Council remains a central harmonising institution.
+- **D:** The holding does not subordinate States alone.
 
-Which statement is safe?
+**Examiner trap 25:** Trap 25: non-binding does not mean institutionally optional in every setting.
 
-A. Every cess entered the divisible pool.
-B. Cess continuation for pandemic loan/interest servicing is distinct from extending the five-year entitlement.
-C. States acquired power to set the cess unilaterally.
-D. The compensation entitlement automatically became permanent.
+### MCQ 26. The ocean-freight dispute involved:
+
+A. State electricity duty
+B. a separate reverse-charge IGST levy in a CIF import/composite-supply setting
+C. the Finance Commission's divisible pool
+D. Council vice-chair election
 
 **Answer: B.**
 
-**Explanation:** [CURRENT] The official 56th FAQ links specified cess continuation to discharge of loan and interest liabilities.
+**Option-specific explanations:**
 
-### OM27. *Mohit Minerals (2022)*
+- **A:** Electricity duty was not the challenged levy.
+- **B:** The statutory vires analysis concerned ocean freight within CIF imports.
+- **C:** No Article 280 allocation question was before the Court.
+- **D:** Council office procedure was not the dispute.
 
-The Supreme Court held Council recommendations to legislatures are:
+**Examiner trap 26:** Trap 26: know the factual setting before citing the constitutional holding.
 
-A. irrelevant.
-B. binding decrees.
-C. persuasive/recommendatory.
-D. constitutional amendments.
+### MCQ 27. Article 279A(11) concerns:
+
+A. private contract arbitration
+B. ordinary income-tax appeals
+C. specified intergovernmental disputes arising from Council recommendations or implementation
+D. appointment of GST officers
 
 **Answer: C.**
 
-**Explanation:** [FACT] The Court tied recommendatory status to simultaneous legislative power and collaborative dialogue.
+**Option-specific explanations:**
 
-### OM28. Delegated notification
+- **A:** Private arbitration is outside the clause.
+- **B:** Income-tax appeals use a different legal regime.
+- **C:** Clause (11) lists Union-State and State-State dispute combinations.
+- **D:** Officer appointment is an administrative matter.
 
-After *Mohit Minerals (2022)*, where a GST statute authorises notification “on the recommendations of the Council”:
+**Examiner trap 27:** Trap 27: the parties are governments, not ordinary taxpayers.
 
-A. the recommendation automatically becomes primary law.
-B. only States must comply.
-C. the executive may ignore the condition.
-D. the executive must satisfy the statutory condition.
+### MCQ 28. GSTAT is:
+
+A. the GST Council Secretariat
+B. the Finance Commission
+C. the Article 279A(11) mechanism automatically
+D. a statutory appellate tribunal for GST disputes
 
 **Answer: D.**
 
-**Explanation:** [FACT] The judgment separates legislative autonomy from statute-bound delegated action.
+**Option-specific explanations:**
 
-### OM29. Ocean freight
+- **A:** The Secretariat supports Council work.
+- **B:** Article 280 creates the Finance Commission.
+- **C:** No automatic identity follows from GSTAT's existence.
+- **D:** GSTAT hears statutory appeals under GST law.
 
-The ocean-freight levy was ultimately invalid because:
+**Examiner trap 28:** Trap 28: appellate tax adjudication and intergovernmental constitutional adjudication differ.
 
-A. it conflicted with the statutory composite-supply scheme and duplicated the freight component.
-B. imports cannot be inter-State supplies.
-C. the Council lacked any power to discuss freight.
-D. Article 279A was repealed.
+### MCQ 29. The Finance Commission primarily:
+
+A. recommends Article 280 tax devolution and grants
+B. sets GST rates
+C. operates GSTN
+D. administers CGST returns
 
 **Answer: A.**
 
-**Explanation:** [FACT] The Court's outcome rested on the IGST/CGST statutory scheme, not a blanket invalidation of Council-linked notifications.
+**Option-specific explanations:**
 
-### OM30. Article 279A(11)
+- **A:** Its constitutional role concerns devolution and grants.
+- **B:** GST rate coordination belongs to the Council.
+- **C:** GSTN operates technology.
+- **D:** CBIC and State administrations handle tax administration.
 
-The clause (11) mechanism concerns:
+**Examiner trap 29:** Trap 29: do not merge two federal fiscal institutions because both discuss revenue.
 
-A. private commercial arbitration.
-B. intergovernmental disputes arising from Council recommendations or implementation.
-C. taxpayer assessment appeals.
-D. election disputes.
+### MCQ 30. Council practice is best stated as:
 
-**Answer: B.**
-
-**Explanation:** [FACT] It covers Union-State and State-State disputes, not the ordinary taxpayer hierarchy.
-
-### OM31. Finance Commission comparison
-
-Which body recommends Union-State tax devolution and grants?
-
-A. GST Council.
-B. Zonal Council.
-C. Finance Commission.
-D. Inter-State Council.
-
-**Answer: C.**
-
-**Explanation:** [FACT] Article 280 performs redistribution; Article 279A coordinates GST design.
-
-### OM32. Inter-State Council comparison
-
-The Inter-State Council is best distinguished as:
-
-A. a statutory regional body.
-B. the rate-notification authority.
-C. a periodic expert tax commission.
-D. a broad advisory coordination forum enabled by Article 263.
-
-**Answer: D.**
-
-**Explanation:** [FACT] It does not possess the GST Council's weighted tax vote.
-
-### OM33. Local-government effect
-
-Which is the soundest analytical statement?
-
-A. Subsuming entry tax/octroi can affect local own-revenue space, requiring State-local fiscal adjustment.
-B. Article 279A replaced State Finance Commissions.
-C. Municipalities became GST Council voting members.
-D. GST compensation was paid constitutionally to every municipality.
-
-**Answer: A.**
-
-**Explanation:** [ANALYSIS] Local effects are real, but constitutional compensation was to States and local finance remains State-mediated.
-
-### OM34. Latest located meeting release
-
-For this package's control date, the latest official meeting recommendation release located was:
-
-A. a 2026 57th meeting release.
-B. the 56th meeting release of 3 September 2025.
-C. the 55th meeting only.
-D. no official release.
+A. formal voting is unconstitutional
+B. consensus is usually preferred, while Article 279A(9) remains available
+C. every decision is unanimous by constitutional command
+D. the Union decides after consultation
 
 **Answer: B.**
 
-**Explanation:** [CURRENT] No later official meeting release was established; April 2026 material was a newsletter, not a new meeting outcome.
+**Option-specific explanations:**
 
-### OM35. Current rate writing
+- **A:** The Constitution expressly provides a voting rule.
+- **B:** This separates institutional practice from legal rule.
+- **C:** Unanimity is not constitutionally mandatory.
+- **D:** The Union cannot replace the Council's weighted process.
 
-The safest way to state a current GST rate is:
+**Examiner trap 30:** Trap 30: convention and constitutional text must be separately labelled.
 
-A. rely only on coaching summaries.
-B. assume every recommendation was notified unchanged.
-C. identify the applicable notification, classification, conditions and effective date.
-D. quote the Council headline without date.
+### MCQ 31. Notification 19/2024-Central Tax fixed which anti-profiteering transition?
 
-**Answer: C.**
-
-**Explanation:** [LIMIT] Council recommendations and legally effective rates are distinct stages.
-
-### OM36. Reform status
-
-Which statement correctly labels reform?
-
-A. An independent fiscal council currently sets GST rates.
-B. Article 279A already mandates public release of every internal model.
-C. Article 279A(11) has been repealed.
-D. Fuller reasons, independent data and a neutral dispute panel are proposals, not current law.
-
-**Answer: D.**
-
-**Explanation:** [ANALYSIS] Reform proposals must be separated from enacted constitutional and statutory rules.
-
-### REMEDIAL MCQS — 12 QUESTIONS
-
-### RM1. Quorum-versus-weight trap
-
-Which pairing is correct?
-
-A. quorum one-half; Union vote weight one-third.
-B. both are three-fourths.
-C. quorum one-third; Union vote weight one-half.
-D. both are two-thirds.
-
-**Answer: A.**
-
-**Explanation:** [FACT] These are separate constitutional fractions with different functions.
-
-### RM2. Union-pass trap
-
-The Union voting alone:
-
-A. passes because it chairs the meeting.
-B. cannot pass because its weight is only one-third.
-C. converts the recommendation into law.
-D. passes if quorum exists.
-
-**Answer: B.**
-
-**Explanation:** [FACT] Three-fourths weighted support is required.
-
-### RM3. States-alone trap
-
-All States present and voting in favour, with the Union opposed, produce at most:
-
-A. unanimity.
-B. four-fifths.
-C. two-thirds, so the proposal fails.
-D. three-fourths.
+A. CCI began all GST appeals in 2017
+B. GSTAT replaced Article 279A(11)
+C. no new section 171 examination requests from 1 April 2025
+D. all pending cases automatically ended on 30 September 2024
 
 **Answer: C.**
 
-**Explanation:** [ANALYSIS] State weight cannot cross the formal threshold without Union support.
+**Option-specific explanations:**
 
-### RM4. Recommendation trap
+- **A:** CCI's earlier role does not describe this notification.
+- **B:** The notification does not create the constitutional intergovernmental mechanism.
+- **C:** The notified sunset concerns acceptance of new examination requests.
+- **D:** Pending matters were not erased by the notification's publication date.
 
-“Council recommendations are non-binding” means:
+**Examiner trap 31:** Trap 31: a filing sunset is not retrospective cancellation of pending matters.
 
-A. no GST notification needs Council input.
-B. the Council is unconstitutional.
-C. States may ignore every statutory condition.
-D. primary legislatures retain power, while delegated action remains governed by its statute.
+### MCQ 32. Which reform most directly answers the constitutional dispute gap?
 
-**Answer: D.**
-
-**Explanation:** [FACT] This is the precise *Mohit Minerals (2022)* distinction.
-
-### RM5. Petroleum trap
-
-Which statement corrects “petrol can never enter GST”?
-
-A. Article 279A(5) allows GST from a Council-recommended and legally notified date.
-B. State legislatures alone decide inter-State petrol GST.
-C. Petrol was excluded by Article 366(12A).
-D. The Finance Commission fixes the date.
-
-**Answer: A.**
-
-**Explanation:** [FACT] Deferral is not permanent constitutional exclusion.
-
-### RM6. Compensation trap
-
-Which statement is correct?
-
-A. June 2022 ended every compensation-cess liability immediately.
-B. The 2017 Act created a five-year, formula-based transition guarantee.
-C. Article 279A permanently guarantees 14 per cent revenue growth.
-D. Compensation is an Article 280 grant.
-
-**Answer: B.**
-
-**Explanation:** [FACT] Separate constitutional direction, statute, cess and loan servicing.
-
-### RM7. Exemption trap
-
-Which distinction is correct?
-
-A. the Council itself credits refunds.
-B. non-GST and nil-rated are constitutional synonyms.
-C. zero-rating can preserve credit/refund pathways unlike ordinary exemption.
-D. exempt and zero-rated always have identical ITC consequences.
-
-**Answer: C.**
-
-**Explanation:** [FACT] Credit consequences depend on the category and statutory framework.
-
-### RM8. Secretariat trap
-
-Which statement is inaccurate?
-
-A. CBIC Chair is a non-voting permanent invitee.
-B. the Secretariat supports Council proceedings.
-C. Revenue Secretary is ex-officio Secretary by administrative arrangement.
-D. Article 279A makes the Secretariat a fourth constitutional government.
+A. abolish State GST laws
+B. treat press releases as statutes
+C. give GSTN power to decide federal disputes
+D. operationalise a transparent Article 279A(11) mechanism while preserving courts and statutory appeals
 
 **Answer: D.**
 
-**Explanation:** [LIMIT] Administrative support must not be inflated into a constitutional tier.
+**Option-specific explanations:**
 
-### RM9. Latest-source trap
+- **A:** Abolition would contradict the shared competence design.
+- **B:** Press releases cannot replace legal instruments.
+- **C:** A technology platform lacks adjudicatory constitutional authority.
+- **D:** This targets the correct clause without confusing taxpayer remedies.
 
-Which dated formulation is safest?
-
-A. “As of 19 August 2026, the latest official meeting release located is the 56th meeting release of 3 September 2025.”
-B. “All 2025 recommendations were self-executing.”
-C. “The April 2026 newsletter is the 57th meeting.”
-D. “A 57th meeting certainly occurred in August 2026.”
-
-**Answer: A.**
-
-**Explanation:** [CURRENT] The statement reports the evidence located without claiming universal absence.
-
-### RM10. Electricity trap
-
-Electricity is best handled by saying:
-
-A. it is a Finance Commission tax.
-B. State Entry 53 and applicable GST notifications must be distinguished.
-C. it is excluded by Article 366(12A) exactly like alcohol.
-D. Article 269A makes every electricity sale inter-State.
-
-**Answer: B.**
-
-**Explanation:** [FACT] This avoids collapsing different constitutional and statutory routes.
-
-### RM11. Clause (11) trap
-
-GSTAT is not automatically the Article 279A(11) mechanism because:
-
-A. only Parliament may hear tax cases.
-B. Article 279A(11) was omitted.
-C. GSTAT handles statutory taxpayer appeals, while clause (11) concerns intergovernmental disputes.
-D. GSTAT sets rates.
-
-**Answer: C.**
-
-**Explanation:** [FACT] The disputants and legal sources differ.
-
-### RM12. Institutional comparison trap
-
-Which pairing is wrong?
-
-A. Inter-State Council - broad coordination.
-B. Zonal Councils - regional statutory forum.
-C. Finance Commission - tax devolution.
-D. GST Council - final CAG certification of net proceeds.
-
-**Answer: D.**
-
-**Explanation:** [FACT] CAG certification under Article 279 belongs to fiscal-transfer mechanics, not Council rate design.
+**Examiner trap 32:** Trap 32: reform must match the legal defect and the correct institution.
 
 
 ## PYQS AND ANSWER PRACTICE
 
-[FACT] This H2 deliberately begins all practice material so that `markdown_learning_pdf.py --mode workbook` extracts the workbook and stops before the final consolidated register notes.
+### VERIFIED PYQ AUDIT
 
-[FACT] Audited routing ledgers for 2018-2023, 2024-2025 and 2026 were searched for GST Council, Article 279A, Article 246A, GST, cooperative/accommodative federalism and *Mohit Minerals (2022)*.
+- **Direct owner:** UPSC GS-II 2023 Q15 on the 101st Amendment and accommodative federalism.
+- **Closely adjacent verified papers:** Prelims 2018 Q97; GS-III 2019 Q1; GS-III 2020 Q12; GS-II 2025 Q14.
+- **Official-key discipline:** Mains papers have no official answer key. The locally audited route for Prelims 2018 did not include a verified final official key, so no answer letter is presented as an official UPSC key.
+- **Boundary:** no direct standalone 2024, 2025 or 2026 GST Council PYQ was located in the audited routes.
 
-[FACT] One direct Polity Mains PYQ was verified: **2023 GS-II Q15** on the 101st Amendment and accommodative federalism.
-
-[FACT] Three closely adjacent verified GST questions are included without relabelling ownership: **2018 Prelims Q97** on GST exemption, **2019 GS-III Q1** on subsumed indirect taxes/revenue implications, and **2020 GS-III Q12** on compensation/COVID federal tension.
-
-[FACT] One wider adjacent fiscal-federalism question, **2025 GS-II Q14**, is included because GST is one necessary reform dimension; its principal owner remains Centre-State Relations.
-
-[LIMIT] No direct standalone 2024, 2025 or 2026 GST Council question was found in the audited routes. The 2016 Essay prompt “Cooperative federalism: Myth or reality” is thematically useful but is not relabelled here as a GST Council PYQ.
-
-### Visual 51 - PYQ route audit
-
-| Year | Stage/paper | Directness | Package treatment |
-|---:|---|---|---|
-| 2018 | Prelims GS-I Q97 | adjacent GST-rate/exemption mechanics | solve with historical-key limitation |
-| 2019 | GS-III Q1 | adjacent GST structure/economy | full model solution |
-| 2020 | GS-III Q12 | adjacent compensation/federalism | full model solution |
-| 2023 | GS-II Q15 | direct constitutional owner | full model solution |
-| 2025 | GS-II Q14 | broad fiscal-federalism adjacency | full routed model, ownership qualified |
-
-**Demand decoding:** The directive **answer** requires a direct position on “Visual 51 - PYQ route audit”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Visual 51 - PYQ route audit”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Year Stage/paper Directness Package treatment **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** 2018 Prelims GS-I Q97 adjacent GST-rate/exemption mechanics solve with historical-key limitation **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** 2019 GS-III Q1 adjacent GST structure/economy full model solution **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** 2020 GS-III Q12 adjacent compensation/federalism full model solution **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** 2023 GS-II Q15 direct constitutional owner full model solution **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Visual 51 - PYQ route audit”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
-
-**How to improve this answer:** For “Visual 51 - PYQ route audit”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### Verified PYQ 1 - UPSC Prelims 2018, Q97
+### VERIFIED PYQ 1 — PRELIMS 2018, Q97
 
 **Question:** Consider the following items:
 
-1. Cereal grains hulled  
-2. Chicken eggs cooked  
-3. Fish processed and canned  
+1. Cereal grains hulled
+2. Chicken eggs cooked
+3. Fish processed and canned
 4. Newspapers containing advertising material
 
 Which of the above items is/are exempted under GST (Goods and Services Tax)?
@@ -699,576 +615,140 @@ B. 2 and 3 only
 C. 1, 2 and 4 only  
 D. 1, 2, 3 and 4
 
-### Controlled resolution
+**Official-key status:** The question is verified from the official paper, but no final official key was available in the audited local source set. No option is labelled an official UPSC answer. The item tests historical 2018 classifications and must not be used as a present-rate catalogue.
 
-- [FACT] The audited ledger verifies the official question route but records that the local official key was unavailable.
-- [ANALYSIS] The historically accepted resolution is **C: 1, 2 and 4**; processed/canned fish was not within the exemption combination.
-- [LIMIT] This is not labelled an official UPSC key in this package. Item-specific 2018 rates are historical and must not be used as a 2026 rate list.
-
-
-### Verified PYQ 2 - UPSC GS-III 2019, Q1 - 10 marks, 150 words
+### VERIFIED PYQ 2 — GS-III 2019, Q1 — 10 MARKS, 150 WORDS
 
 **Question:** “Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in India. Also, comment on the revenue implications of the GST introduced in India since July 2017.”
 
-### Demand decoding
+**Demand route:** enumerate Union and State levies; explain ITC/destination gains; qualify transition, exclusions, refunds and compliance.
 
-| Part | Required response |
-|---|---|
-| enumerate | name Central and State levies, not generic “many taxes” |
-| comment | gains plus transition/revenue qualifications |
-| time frame | introduction since July 2017 |
+**Model route:** Central excise on most goods, service tax, additional customs/excise components and relevant cesses joined State VAT/sales tax on most goods, CST, entry tax, luxury tax and most entertainment/betting levies. Article 246A created a shared base and Article 269A enabled destination settlement. ITC can reduce cascading and digital reporting can widen compliance. Yet refunds, blocked credits, rate changes and adjustment costs affect working capital and revenue. Alcohol, specified petroleum treatment, electricity duty, stamp duty and basic customs duty qualify the “single tax” claim. Revenue performance therefore depends on legal design, administration, economic conditions and federal trust.
 
-### Evidence-led model solution
-
-GST subsumed major Central levies such as central excise on most goods, service tax, additional excise duties, countervailing duty and special additional customs duty, along with relevant Central cesses and surcharges on supply. At the State level it absorbed VAT/sales tax on most goods, Central Sales Tax, purchase tax, entry tax/octroi, luxury tax, and most entertainment, betting, gambling and lottery taxes.
-
-The revenue logic was positive in design. [FACT] Article 246A created a shared tax base, Article 269A enabled destination-based IGST settlement, and invoice-linked ITC reduced cascading. [ANALYSIS] A wider common base and digital reporting could improve buoyancy and formalisation.
-
-The transition was uneven. Rate changes, refund delays, ITC mismatches and compliance costs affected collections and working capital. Destination taxation generated adjustment concerns for producing States, which explains the five-year Compensation Act bargain. Petroleum, alcohol, electricity duty, stamp duty and basic customs duty also qualify the “single tax” claim.
-
-GST therefore improved the architecture for long-run revenue and a common market, but its fiscal result depends on base design, compliance, refunds, economic conditions and federal trust rather than the label alone.
-
-
-
-**Why this earns marks:** It enumerates both Union and State levies, connects revenue effects to ITC and IGST, and qualifies exclusions and transition costs.
-
-**How to improve / compress:** Use two compact levy columns, then devote half the answer to revenue implications; omit current rate examples and close with buoyancy, compliance and federal trust.
-
-**Demand decoding:** The directive **comment** requires a direct position on ““Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in ““Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in India. Also, comment on the revenue implications of the…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Verified PYQ 2 - UPSC GS-III 2019, Q1 - 10 marks, 150 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** enumerate name Central and State levies, not generic “many taxes” **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** comment gains plus transition/revenue qualifications **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** GST therefore improved the architecture for long-run revenue and a common market, but its fiscal result depends on base design, compliance, refunds, economic conditions and federal trust rather than the label alone. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It enumerates both Union and State levies, connects revenue effects to ITC and IGST, and qualifies exclusions and transition costs. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in ““Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in India. Also, comment on the revenue implications of the…”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For ““Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### Verified PYQ 3 - UPSC GS-III 2020, Q12 - 15 marks, 250 words
+### VERIFIED PYQ 3 — GS-III 2020, Q12 — 15 MARKS, 250 WORDS
 
 **Question:** “Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund and created new federal tensions?”
 
-### Evidence-led model solution
+**Demand route:** transition bargain -> statutory formula -> pandemic shortfall -> borrowing response -> federal trust -> June 2022 limit.
 
-The Compensation to States Act, 2017 converted the political assurance behind GST into a time-bound statutory revenue guarantee. States surrendered VAT, entry tax and other independent levies and accepted a destination-based common tax. Manufacturing States feared transition losses and all States faced uncertainty over a new base and compliance system.
+**Model route:** The 2017 Act converted the political bargain behind State consent into a five-year revenue-protection formula using FY 2015-16 and 14 per cent projected growth. Compensation cess funded the calculated gap. COVID-19 simultaneously compressed tax/cess receipts and enlarged State expenditure needs, creating a funding shortfall and disagreement over borrowing responsibility. Back-to-back loans and later cess servicing addressed debt, but did not extend the original compensation entitlement beyond June 2022. The dispute exposed the asymmetry between State service obligations and reduced unilateral rate space. Durable reform requires transparent cess accounts, predictable settlement and a negotiated shock-sharing rule.
 
-[FACT] The Act therefore defined a five-year transition period, adopted FY 2015-16 as the base and projected 14 per cent annual nominal growth in protected revenue. Compensation equalled the statutory gap between projected and actual revenue, financed through a compensation cess and fund. [ANALYSIS] This was the credibility price of pooled sovereignty.
-
-COVID-19 simultaneously reduced GST/cess receipts and raised State health and welfare expenditure. The compensation requirement exceeded the available cess fund, producing disagreement over whether and how the Union should borrow. Back-to-back loans were arranged and cess collection continued beyond the compensation period for debt and interest servicing.
-
-The tension was federal because States had lost much unilateral rate space yet remained responsible for essential services. The Union faced its own borrowing and macro-stability constraints. Delays and uncertainty weakened trust in the Council bargain.
-
-The five-year compensation entitlement ended in June 2022; current cess servicing must not be described as an extension of that entitlement. Future reform requires transparent cess accounts, predictable settlement and a negotiated shock-sharing framework rather than ad hoc bargaining.
-
-
-
-**Why this earns marks:** It explains the statutory formula, pandemic shortfall, borrowing response and competing Union-State constraints with the June 2022 boundary.
-
-**How to improve / compress:** Draw the protected-revenue minus actual-revenue formula, separate fund shortfall from legal entitlement, and finish with a three-part shock-sharing reform.
-
-**Demand decoding:** The directive **explain** requires a direct position on ““Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in ““Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Verified PYQ 3 - UPSC GS-III 2020, Q12 - 15 marks, 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It explains the statutory formula, pandemic shortfall, borrowing response and competing Union-State constraints with the June 2022 boundary. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve / compress: Draw the protected-revenue minus actual-revenue formula, separate fund shortfall from legal entitlement, and finish with a three-part shock-sharing reform. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in ““Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For ““Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### Verified PYQ 4 - UPSC GS-II 2023, Q15 - 15 marks, 250 words
+### VERIFIED PYQ 4 — GS-II 2023, Q15 — 15 MARKS, 250 WORDS
 
 **Question:** “Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?”
 
-### Demand decoding
+**Demand route:** constitutional surgery -> pooled sovereignty -> Council/vote -> compensation -> *Mohit Minerals* -> graded verdict.
 
-| Demand | Evidence route |
-|---|---|
-| significance | pre-GST fragmentation; Articles 246A, 269A, 279A; common market |
-| accommodative extent | composition, vote, compensation and dialogue |
-| qualification | Union veto, State autonomy cost, compensation friction, *Mohit Minerals (2022)* |
+**Model route:** The Amendment is significant because it redesigned fiscal competence rather than merely adding a tax. Article 246A created simultaneous Union-State GST power, Article 269A built the inter-State settlement bridge and Article 279A institutionalised continuous bargaining. Accommodation appears in State ministerial representation, the one-third/two-thirds vote balance, the three-fourths threshold and the five-year compensation bargain. *Mohit Minerals* preserved legislative autonomy by treating Council recommendations as persuasive. However, the Union's blocking arithmetic, State dependence on settlement and compensation, and loss of unilateral rate flexibility qualify equality. It is accommodative federalism by pooled design, but its practical quality depends on consensus, transparency and fiscal trust.
 
-### Evidence-led model solution
-
-The 101st Constitutional Amendment is significant because it did not merely introduce a tax; it restructured India's fiscal Constitution. [FACT] Article 246A gives Parliament and State legislatures simultaneous GST power, while reserving inter-State supply to Parliament. Article 269A creates the IGST levy-apportionment bridge. Article 279A establishes a permanent Union-State Council. Article 366(12A) shifts the base to supply while excluding alcoholic liquor for human consumption.
-
-The design reflects accommodative federalism in four ways. First, it pools previously separate tax fields rather than transferring them wholly to one level. Second, every State receives ministerial representation. Third, the Union has one-third and States collectively two-thirds of weighted votes, while three-fourths is required; neither side can pass alone. Fourth, the five-year Compensation Act bargain protected the transition.
-
-Accommodation is qualified. The Union can block a proposal, States lost unilateral rate flexibility, and the end of compensation exposed revenue dependence. Exclusions and compliance burdens prevent a fully seamless market.
-
-*Mohit Minerals (2022)* preserves the federal balance by treating Council recommendations as persuasive, not binding on legislatures, while recognising collaborative dialogue. Statutes may nevertheless condition executive notifications on Council recommendation.
-
-Thus, the Amendment is India's boldest experiment in pooled fiscal sovereignty. Its accommodative character is strong in design but depends in practice on transparent evidence, consensus, dispute settlement and respect for State fiscal capacity.
-
-
-
-**Why this earns marks:** It answers constitutional significance and degree of accommodation through Articles 246A, 269A and 279A, voting, compensation and Mohit Minerals (2022).
-
-**How to improve / compress:** Use a pooled-sovereignty thesis, one three-Article table, two accommodative features and two asymmetries; reserve the final line for a graded verdict.
-
-**Demand decoding:** The directive **explain** requires a direct position on ““Explain the significance of the 101st Constitutional Amendment Act. To what extent does it…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in ““Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?” Demand…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Verified PYQ 4 - UPSC GS-II 2023, Q15 - 15 marks, 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** significance pre-GST fragmentation; Articles 246A, 269A, 279A; common market **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** accommodative extent composition, vote, compensation and dialogue **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** qualification Union veto, State autonomy cost, compensation friction, Mohit Minerals (2022) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It answers constitutional significance and degree of accommodation through Articles 246A, 269A and 279A, voting, compensation and Mohit Minerals (2022). **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in ““Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?” Demand…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For ““Explain the significance of the 101st Constitutional Amendment Act. To what extent does it…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### Verified adjacent PYQ 5 - UPSC GS-II 2025, Q14 - 15 marks, 250 words
+### VERIFIED PYQ 5 — GS-II 2025, Q14 — ADJACENT OWNER
 
 **Question:** “Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India?”
 
-[LIMIT] The principal owner is Centre-State Relations. GST Council material supplies one dimension and cannot replace Finance Commission, Article 282, cesses/surcharges and borrowing analysis.
+**Ownership note:** The principal owner is Centre-State Relations. GST contributes one dimension: pooled Article 246A power, Council bargaining, destination settlement, compensation and cesses. A complete answer must also cover Finance Commission devolution, Article 282 transfers, centrally sponsored schemes, borrowing and cesses/surcharges.
 
-### Evidence-led routed model solution
+### EXACTLY SIX ORIGINAL MAINS MODELS
 
-Centre-State finance evolved from a mixed Finance Commission-Planning Commission system toward a more rule-based but still Union-influenced architecture. During planned development, Finance Commissions handled tax sharing and grants while the Planning Commission and centrally sponsored schemes channelled significant discretionary assistance under Article 282.
+### ORIGINAL MAINS 1 — 10 MARKS — MAXIMUM 150 WORDS
 
-Recent reforms changed both institutions and tax bases. The Fourteenth Finance Commission enlarged untied devolution; NITI Aayog replaced the Planning Commission; and plan/non-plan classification ended. [FACT] The 101st Amendment then pooled major indirect taxes through Articles 246A, 269A and 279A. The GST Council gave States a continuing role in common tax design, and the five-year compensation law eased transition.
+**Question:** Distinguish Articles 246A, 269A and 279A in India's GST architecture.
 
-The impact is substantial but mixed. Formula-based devolution and the Council improved predictability and consultation. *Mohit Minerals (2022)* protected legislative autonomy by making Council recommendations persuasive. Yet cesses and surcharges narrow the divisible pool, centrally sponsored schemes retain conditions, GST reduced unilateral State rate-setting, and the June 2022 end of compensation sharpened revenue concerns. Article 293 borrowing consent and uneven State tax capacity add asymmetry.
+**Model answer:**
 
-Reform should widen transparent untied transfers, rationalise cesses and schemes, publish GST revenue modelling, operationalise Article 279A(11), strengthen State and local own revenues and coordinate debt rules.
+Article 246A answers **who legislates**: Parliament and State legislatures have simultaneous GST power, while Parliament alone legislates for inter-State supplies. Article 269A answers **how inter-State GST moves**: the Union levies and collects it, imports are deemed inter-State, and proceeds are apportioned under parliamentary law; Parliament also frames place-of-supply principles. Article 279A answers **where policy is coordinated**: the Union and States meet in the GST Council to recommend the tax base, model laws, thresholds, rates and related design.
 
-Fiscal federalism has become more institutionalised and consultative, but not automatically more decentralised. Its quality depends on the real fiscal space behind the formal forums.
+The three provisions therefore form a competence-flow-coordination triangle. *Mohit Minerals* confirms that Article 279A recommendations are persuasive rather than binding on legislatures because Article 246A preserves simultaneous power. Yet a statute may require a Council recommendation before delegated notification. The provisions are complementary, not interchangeable: the Council neither levies IGST nor replaces Parliament and State legislatures.
 
+**Audited model prose word count:** 133.
 
+**Examiner method:** claim -> named constitutional/statutory/case evidence -> analysis -> qualification -> verdict.
 
-**Why this earns marks:** It keeps GST inside the wider devolution, grants, borrowing and scheme architecture instead of treating the Council as the whole of fiscal federalism.
+### ORIGINAL MAINS 2 — 10 MARKS — MAXIMUM 150 WORDS
 
-**How to improve / compress:** Use a plan-era versus post-reform timeline, give GST one bounded paragraph, and retain Finance Commission, cesses and Article 293 for ownership balance.
+**Question:** Explain the GST Council's voting design and federal significance.
 
-**Demand decoding:** The directive **examine** requires a direct position on ““Examine the evolving pattern of Centre-State financial relations in the context of planned…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**Model answer:**
 
-**Detailed examiner-grade model answer:**
+Article 279A requires one-half of total membership as quorum. In votes cast, the Union carries one-third and all participating States together two-thirds, shared equally among them. A decision needs at least three-fourths of weighted votes of members present and voting.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in ““Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms…”.
+The design creates structured interdependence. The Union cannot pass a proposal alone; States also cannot pass alone because their maximum two-thirds falls below three-fourths. Thus the Union has an arithmetic blocking position, though Article 279A does not name a separate veto. With Union support, at least five-eighths of the State vote weight is needed.
 
-**Analytical body:**
+In practice the Council usually seeks consensus, which can stabilise nationwide rules and avoid visible federal division. However, consensus should not conceal unequal revenue dependence. The voting formula is therefore cooperative in requiring a cross-level coalition, but asymmetric in bargaining power.
 
-1. **Claim and named evidence:** Verified adjacent PYQ 5 - UPSC GS-II 2025, Q14 - 15 marks, 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** [LIMIT] The principal owner is Centre-State Relations. GST Council material supplies one dimension and cannot replace Finance Commission, Article 282, cesses/surcharges and borrowing analysis. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Reform should widen transparent untied transfers, rationalise cesses and schemes, publish GST revenue modelling, operationalise Article 279A(11), strengthen State and local own revenues and coordinate debt rules. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Fiscal federalism has become more institutionalised and consultative, but not automatically more decentralised. Its quality depends on the real fiscal space behind the formal forums. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It keeps GST inside the wider devolution, grants, borrowing and scheme architecture instead of treating the Council as the whole of fiscal federalism. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Audited model prose word count:** 135.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Examiner method:** claim -> named constitutional/statutory/case evidence -> analysis -> qualification -> verdict.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in ““Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For ““Examine the evolving pattern of Centre-State financial relations in the context of planned…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### ORIGINAL SOLVED MAINS PRACTICE — 8 QUESTIONS
-
-### Original Solved Mains 1 - 10 marks, 150 words
-
-**Question:** Distinguish the constitutional roles of Articles 246A, 269A and 279A in India's GST architecture.
-
-#### Model solution
-
-The three provisions solve different parts of one federal tax problem.
-
-[FACT] **Article 246A** creates legislative competence. Parliament and State legislatures possess simultaneous power over GST, while Parliament has exclusive power over inter-State supplies. It is a special constitutional field, not a normal Concurrent List entry.
-
-[FACT] **Article 269A** creates the inter-State bridge. The Government of India levies and collects IGST, which is apportioned between Union and States under parliamentary law on Council recommendation. Imports are treated as inter-State supplies and Parliament formulates place-of-supply principles.
-
-[FACT] **Article 279A** establishes the Union-State Council that recommends rates, exemptions, thresholds, model laws, apportionment principles and other GST matters.
-
-[ANALYSIS] Together they connect power, revenue destination and negotiated harmonisation. [LIMIT] The Council does not enact tax statutes, and Article 269A does not give States independent inter-State legislative power.
-
-Thus, Article 246A answers **who legislates**, Article 269A **how inter-State GST is allocated**, and Article 279A **how common design is negotiated**.
-
-
-
-**Why this earns marks:** It distinguishes special shared competence from ordinary concurrency and identifies Parliament’s exclusive inter-State field.
-
-**How to improve / compress:** Lead with Article 246A’s notwithstanding clause, compare intra-State and inter-State fields in two lines, then add Mohit Minerals (2022) only as a legislative-autonomy consequence.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish the constitutional roles of Articles 246A, 269A and 279A in India's GST…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Distinguish the constitutional roles of Articles 246A, 269A and 279A in India's GST architecture.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Solved Mains 1 - 10 marks, 150 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The three provisions solve different parts of one federal tax problem. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** [FACT] Article 279A establishes the Union-State Council that recommends rates, exemptions, thresholds, model laws, apportionment principles and other GST matters. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** [ANALYSIS] Together they connect power, revenue destination and negotiated harmonisation. [LIMIT] The Council does not enact tax statutes, and Article 269A does not give States independent inter-State legislative power. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Thus, Article 246A answers who legislates , Article 269A how inter-State GST is allocated , and Article 279A how common design is negotiated . **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Distinguish the constitutional roles of Articles 246A, 269A and 279A in India's GST architecture.”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “Distinguish the constitutional roles of Articles 246A, 269A and 279A in India's GST…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### Original Solved Mains 2 - 10 marks, 150 words
-
-**Question:** Explain the GST Council's voting arithmetic and its federal significance.
-
-#### Model solution
-
-[FACT] Article 279A requires one-half of total members for quorum. A decision needs at least three-fourths of weighted votes of members present and voting. The Union has one-third; States collectively have two-thirds.
-
-The arithmetic deliberately prevents unilateral passage. The Union alone has only one-third. States alone can reach only two-thirds, below three-fourths. If the Union supports a proposal, the remaining five-twelfths must come from the States; this equals five-eighths, or 62.5 per cent, of State votes present and voting.
-
-[ANALYSIS] The system combines a Union blocking position with a compulsory State coalition. It supports harmonisation because both levels must negotiate. Consensus practice further lowers the political cost of formal division.
-
-[LIMIT] The balance is asymmetric: the Union can block alone, while no single State has comparable weight. Abstentions also alter the State denominator.
-
-The voting design is therefore accommodative but not perfectly equal federalism: it constitutionalises bargaining between a nationally weighted Union and collectively weighted States.
-
-
-
-**Why this earns marks:** It traces IGST from levy through place of supply, credit and destination settlement without calling it a third final tax.
-
-**How to improve / compress:** Use a supplier-to-destination flow, name Article 269A(5), and omit detailed statutory settlement formulae unless specifically demanded.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the GST Council's voting arithmetic and its federal significance.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Explain the GST Council's voting arithmetic and its federal significance.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Solved Mains 2 - 10 marks, 150 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** [FACT] Article 279A requires one-half of total members for quorum. A decision needs at least three-fourths of weighted votes of members present and voting. The Union has one-third; States collectively have two-thirds. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** [LIMIT] The balance is asymmetric: the Union can block alone, while no single State has comparable weight. Abstentions also alter the State denominator. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The voting design is therefore accommodative but not perfectly equal federalism: it constitutionalises bargaining between a nationally weighted Union and collectively weighted States. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It traces IGST from levy through place of supply, credit and destination settlement without calling it a third final tax. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Explain the GST Council's voting arithmetic and its federal significance.”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “Explain the GST Council's voting arithmetic and its federal significance.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### Original Solved Mains 3 - 15 marks, 250 words
+### ORIGINAL MAINS 3 — 15 MARKS — MAXIMUM 250 WORDS
 
 **Question:** “The GST Council recommends, but legislatures and governments give legal effect.” Examine.
 
-#### Model solution
+**Model answer:**
 
-The GST Council is a constitutional coordinating institution, not a super-legislature.
+The proposition separates constitutional coordination from legal enforceability. Article 279A authorises the GST Council to recommend model laws, exemptions, thresholds, rates, place-of-supply principles and related matters. Article 246A, however, vests GST legislative competence in Parliament and State legislatures, with Parliament exclusive for inter-State supplies.
 
-[FACT] Article 279A(4) authorises recommendations on subsumed taxes, taxable or exempt supplies, model laws, place of supply, thresholds and rates. Article 246A separately vests legislative power in Parliament and State legislatures. The CGST, SGST and IGST Acts therefore create the charge, liability, credit, procedure and remedies.
+The usual chain is: Council recommendation -> parliamentary or State enactment/amendment -> authorised rule or Gazette notification -> administration -> appellate or judicial review. A Council press release therefore does not itself change a taxpayer's liability. The applicable Act, delegated authority, notification and effective date must be identified.
 
-Delegated action forms the next layer. [FACT] CGST Act section 9 permits notified rates and specified reverse-charge categories on Council recommendation; section 11 permits public-interest exemptions on Council recommendation. The applicable rate depends on the competent Gazette notification, classification, conditions and effective date, not merely the meeting press release.
+*Union of India v Mohit Minerals* (2022) held that Council recommendations have persuasive value and are not binding commands to Union or State legislatures. This protects simultaneous legislative power and cooperative dialogue. Yet the judgment does not make recommendations legally irrelevant. Where an enacted statute conditions an exemption or rate notification on the Council's recommendation, the executive must obey that statutory condition.
 
-*Mohit Minerals (2022)* clarifies the relationship. Council recommendations are persuasive, not binding on primary legislatures, because Article 246A confers simultaneous legislative power. However, where a statute conditions executive rule-making or notification on Council recommendation, the executive must follow that statutory requirement.
+Thus the Council is neither a tax legislature nor an optional talking shop. Its constitutional influence promotes harmonisation, while enforceability remains grounded in competent legislation and valid delegated action.
 
-[ANALYSIS] This layered system preserves democratic legislative authority while enabling national harmonisation. Its weakness is communication: recommendation, enactment, notification and portal implementation may occur at different times.
+**Audited model prose word count:** 180.
 
-[LIMIT] “Non-binding” does not mean irrelevant, and “Council decided” does not by itself prove a taxpayer's current liability.
+**Examiner method:** claim -> named constitutional/statutory/case evidence -> analysis -> qualification -> verdict.
 
-Reform should publish a single tracker marking recommendation, instrument, effective date and implementation status.
+### ORIGINAL MAINS 4 — 15 MARKS — MAXIMUM 250 WORDS
 
+**Question:** Assess the compensation bargain and the post-June 2022 federal trust problem.
 
+**Model answer:**
 
-**Why this earns marks:** It computes the weighted coalition requirement and evaluates both consensus incentives and Union blocking power.
+GST required States to surrender important independent indirect-tax fields and accept a destination-based common system. Section 18 of the 101st Amendment directed Parliament to provide five-year compensation on the Council's recommendation. The GST (Compensation to States) Act, 2017 made that bargain calculable: FY 2015-16 was the base, projected revenue grew at 14 per cent annually, and compensation covered the statutory projected-actual gap through a cess-funded arrangement.
 
-**How to improve / compress:** Show the 1/3–2/3–3/4 arithmetic visually, distinguish quorum from vote weight, and end with one reform for reasoned consensus records.
+The mechanism reduced transition risk and helped secure State consent. COVID-19 then compressed GST and cess receipts while expanding State health and welfare obligations. The shortfall produced conflict over borrowing responsibility; back-to-back loans were arranged and cess collection continued for debt and interest servicing.
 
-**Demand decoding:** The directive **examine** requires a direct position on ““The GST Council recommends, but legislatures and governments give legal effect.” Examine.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+The central legal boundary is that the protected five-year entitlement ended on 30 June 2022. Continued cess for servicing specified pandemic-era liabilities is not an extension of the compensation right. Trust nevertheless remains affected because States retain major expenditure duties but have less unilateral rate flexibility.
 
-**Detailed examiner-grade model answer:**
+A durable compact needs transparent cess and loan accounts, predictable settlement, independent revenue-impact assessment and a negotiated shock-sharing rule. Compensation should be remembered as a time-bound transition guarantee whose credibility shaped cooperative federalism beyond its formal expiry.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in ““The GST Council recommends, but legislatures and governments give legal effect.” Examine.”.
+**Audited model prose word count:** 193.
 
-**Analytical body:**
+**Examiner method:** claim -> named constitutional/statutory/case evidence -> analysis -> qualification -> verdict.
 
-1. **Claim and named evidence:** Original Solved Mains 3 - 15 marks, 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The GST Council is a constitutional coordinating institution, not a super-legislature. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** [LIMIT] “Non-binding” does not mean irrelevant, and “Council decided” does not by itself prove a taxpayer's current liability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Reform should publish a single tracker marking recommendation, instrument, effective date and implementation status. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It computes the weighted coalition requirement and evaluates both consensus incentives and Union blocking power. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+### ORIGINAL MAINS 5 — 20 MARKS — MAXIMUM 250 WORDS
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Question:** Evaluate *Mohit Minerals* as a judgment on fiscal federalism and statutory vires.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in ““The GST Council recommends, but legislatures and governments give legal effect.” Examine.”.
+**Model answer:**
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+*Union of India v Mohit Minerals Pvt. Ltd.* (2022) arose from a separate reverse-charge IGST levy on ocean freight in cost-insurance-freight imports. The importer already faced IGST on the composite import value. The Supreme Court tested the notification against the IGST/CGST statutory scheme and the treatment of composite supply; the levy failed that vires analysis.
 
-**How to improve this answer:** For ““The GST Council recommends, but legislatures and governments give legal effect.” Examine.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+The constitutional importance lay in the Court's reading of Articles 246A and 279A. Parliament and State legislatures possess simultaneous GST power, subject to Parliament's inter-State field. The Council's recommendations therefore have persuasive value, not binding force over primary legislatures. Cooperative federalism was described as collaborative dialogue rather than hierarchy.
 
-### Original Solved Mains 4 - 15 marks, 250 words
+The ruling protects State legislative autonomy and prevents a recommendatory body from becoming a super-legislature. At the same time, it does not make the Council irrelevant. Political agreement, uniform statutory design and statutory provisions requiring prior recommendation still give Council decisions major practical and legal consequence. Nor does it mean an administrator may ignore an enacted condition.
 
-**Question:** Assess whether GST has strengthened cooperative federalism while weakening State fiscal autonomy.
+The case thus joins two disciplines: federal constitutionalism and delegated-legislation control. Its correct lesson is persuasive coordination plus binding valid law, not universal administrative choice or automatic invalidity of Council-linked notifications.
 
-#### Model solution
+**Audited model prose word count:** 193.
 
-GST simultaneously strengthens intergovernmental cooperation and narrows unilateral State tax choice.
+**Examiner method:** claim -> named constitutional/statutory/case evidence -> analysis -> qualification -> verdict.
 
-**Cooperation strengthened.** [FACT] Article 279A places every State at a ministerial table with the Union. The one-third Union, two-thirds States and three-fourths threshold prevents unilateral passage. Article 269A requires common inter-State settlement, while the five-year Compensation Act enabled States to enter a destination-based system. Shared rules reduce cascading and internal tax barriers.
+### ORIGINAL MAINS 6 — 20 MARKS — MAXIMUM 250 WORDS
 
-**Autonomy constrained.** States surrendered VAT, entry tax and other levies and cannot independently redesign the common base without credit-chain and market consequences. The Union's one-third weight gives it a blocking position. Compliance systems, rate rationalisation and the June 2022 end of compensation can deepen revenue dependence, especially for States with narrow own-tax bases.
+**Question:** Suggest reforms for a simpler, inclusive and trusted GST Council system.
 
-**Constitutional counterweight.** [FACT] *Mohit Minerals (2022)* treats Council recommendations as persuasive, preserving State legislative power under Article 246A. States also retain alcohol, electricity-duty and specified-petroleum fields. Thus GST collectivises rather than extinguishes autonomy.
+**Model answer:**
 
-[ANALYSIS] The correct test is not whether States remain fully sovereign over rates, but whether negotiated decisions rest on transparent data, credible transitions and fair dispute resolution.
+Reform should strengthen the chain from recommendation to lawful, inclusive implementation.
 
-[LIMIT] Consensus can coexist with unequal fiscal leverage.
+First, publish concise reasons, fiscal-incidence estimates and recorded dissent for major rate, exemption and compliance changes. This would improve State bargaining and public scrutiny without forcing disclosure of every negotiating detail. Second, maintain a recommendation-to-notification tracker showing the competent Act, notification and effective date; this would prevent press releases from being mistaken for law.
 
-GST is cooperative in institutional design and centralising in some fiscal effects. Its federal legitimacy depends on making pooled sovereignty genuinely reciprocal.
+Third, operationalise a transparent Article 279A(11) mechanism for specified intergovernmental disputes, while preserving GSTAT for statutory taxpayer appeals and courts for judicial review. Fourth, disclose compensation-cess collections, back-to-back loan liabilities and interest servicing, clearly separating debt repayment from the expired five-year compensation right.
 
+Fifth, rationalise rates and inverted structures through a stable review calendar supported by distributional and State-wise revenue modelling. Sixth, reduce small-firm burdens through simpler returns, reliable refunds, assisted digital access and proportionate data requirements. Finally, coordinate CBIC, State administrations, GSTN and GSTAT without blurring accountability.
 
+The goal is not Council supremacy. It is credible cooperative federalism: reasoned recommendations, valid legal instruments, accessible compliance, independent adjudication and transparent fiscal adjustment.
 
-**Why this earns marks:** It states Mohit Minerals (2022) precisely and preserves the separate rule that delegated notifications remain statute-bound.
+**Audited model prose word count:** 178.
 
-**How to improve / compress:** Separate constitutional legislative autonomy from statutory executive conditions; attach the ocean-freight result only to the composite-supply problem.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess whether GST has strengthened cooperative federalism while weakening State fiscal…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Assess whether GST has strengthened cooperative federalism while weakening State fiscal autonomy.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Solved Mains 4 - 15 marks, 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** GST simultaneously strengthens intergovernmental cooperation and narrows unilateral State tax choice. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** [ANALYSIS] The correct test is not whether States remain fully sovereign over rates, but whether negotiated decisions rest on transparent data, credible transitions and fair dispute resolution. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** [LIMIT] Consensus can coexist with unequal fiscal leverage. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** GST is cooperative in institutional design and centralising in some fiscal effects. Its federal legitimacy depends on making pooled sovereignty genuinely reciprocal. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Assess whether GST has strengthened cooperative federalism while weakening State fiscal autonomy.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “Assess whether GST has strengthened cooperative federalism while weakening State fiscal…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### Original Solved Mains 5 - 15 marks, 250 words
-
-**Question:** Explain the compensation bargain under GST and evaluate the post-June 2022 federal challenge.
-
-#### Model solution
-
-GST compensation was the transition price of a major federal tax bargain.
-
-[FACT] Section 18 of the 101st Amendment directed a parliamentary law for five-year compensation. The 2017 Act used FY 2015-16 as the base, projected 14 per cent annual nominal growth and compensated the statutory gap between projected and actual revenue. A compensation cess and non-lapsable fund financed payments.
-
-[ANALYSIS] The design addressed three State concerns: surrender of VAT and entry-tax autonomy, destination-based revenue movement away from production, and uncertainty during migration to a common compliance system. It converted political assurance into a calculable legal commitment.
-
-COVID-19 damaged both sides of the formula: collections and cess receipts fell while protected requirements and State expenditure pressure rose. Back-to-back borrowing bridged part of the shortfall and cess collection continued for debt/interest servicing.
-
-The compensation entitlement ended in June 2022. [LIMIT] Continuing cess on specified goods is not a perpetual extension of the 14 per cent guarantee. The official 56th meeting FAQ linked transition of specified tobacco rates to complete discharge of loan and interest liabilities but gave no exact final date used here.
-
-Post-2022 challenges include weaker trust, uneven State revenue capacity and no settled shock-sharing rule. Reform should publish cess accounts, distinguish entitlement from debt service, model State-specific transition effects and negotiate a rules-based emergency facility.
-
-
-
-**Why this earns marks:** It compares alcohol, petroleum and electricity through different constitutional and statutory routes, preventing a common exclusion trap.
-
-**How to improve / compress:** Use a three-row boundary table and name Article 366(12A), Article 279A(5) and Entry 53; avoid freezing commodity rates.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the compensation bargain under GST and evaluate the post-June 2022 federal challenge.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Explain the compensation bargain under GST and evaluate the post-June 2022 federal challenge.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Solved Mains 5 - 15 marks, 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** GST compensation was the transition price of a major federal tax bargain. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Why this earns marks: It compares alcohol, petroleum and electricity through different constitutional and statutory routes, preventing a common exclusion trap. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** How to improve / compress: Use a three-row boundary table and name Article 366(12A), Article 279A(5) and Entry 53; avoid freezing commodity rates. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Explain the compensation bargain under GST and evaluate the post-June 2022 federal challenge.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “Explain the compensation bargain under GST and evaluate the post-June 2022 federal challenge.”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### Original Solved Mains 6 - 20 marks, 250 words
-
-**Question:** Critically analyse the constitutional and economic case for bringing the five specified petroleum products into GST.
-
-#### Model solution
-
-The Constitution postpones, rather than prohibits, GST on petroleum crude, high-speed diesel, petrol, natural gas and aviation turbine fuel. [FACT] Article 279A(5) requires a Council-recommended date; Article 246A's explanation and CGST Act section 9(2) connect levy to that date and notification.
-
-**Case for inclusion.** Petroleum is a major business input. Exclusion breaks ITC chains in transport, aviation, industry and power-linked sectors, embeds tax in prices and weakens the common-market claim. IGST settlement could reduce inter-State distortions, and a harmonised base could improve transparency.
-
-**Federal and fiscal objections.** State VAT on fuel is a substantial, adjustable own-revenue source; Union excise also serves fiscal and policy goals. GST inclusion could reduce rate flexibility, create compensation demands and expose revenue to Council bargaining. Fuel prices carry inflation, environmental and distributional effects, so a low uniform rate may be fiscally costly while a high rate may defeat simplification.
-
-**Design route.** The Council should use product-specific modelling rather than an all-at-once slogan: publish revenue-neutral scenarios, protect existing debt/fiscal space, allow a transition band, integrate ITC gradually, and review carbon and transport effects. Natural gas or ATF may present different trade-offs from petrol and diesel.
-
-[LIMIT] Inclusion requires a Council recommendation and legally effective instrument; it is not achieved by policy speech.
-
-Petroleum inclusion has a strong efficiency case but must be a negotiated fiscal transition. The constitutional answer is phased cooperative federalism, not permanent exclusion or abrupt uniformity.
-
-
-
-**Why this earns marks:** It evaluates compensation as the credibility price of pooled sovereignty and distinguishes entitlement, cess and pandemic debt servicing.
-
-**How to improve / compress:** Organise chronologically—2017 bargain, COVID shock, June 2022 boundary, loan servicing—and propose a transparent future shock-sharing rule.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Critically analyse the constitutional and economic case for bringing the five specified…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Critically analyse the constitutional and economic case for bringing the five specified petroleum products into GST.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Solved Mains 6 - 20 marks, 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** [LIMIT] Inclusion requires a Council recommendation and legally effective instrument; it is not achieved by policy speech. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Petroleum inclusion has a strong efficiency case but must be a negotiated fiscal transition. The constitutional answer is phased cooperative federalism, not permanent exclusion or abrupt uniformity. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It evaluates compensation as the credibility price of pooled sovereignty and distinguishes entitlement, cess and pandemic debt servicing. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve / compress: Organise chronologically—2017 bargain, COVID shock, June 2022 boundary, loan servicing—and propose a transparent future shock-sharing rule. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Critically analyse the constitutional and economic case for bringing the five specified petroleum products into GST.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “Critically analyse the constitutional and economic case for bringing the five specified…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### Original Solved Mains 7 - 20 marks, 250 words
-
-**Question:** Evaluate *Mohit Minerals (2022)* as a judgment on fiscal federalism rather than merely an ocean-freight tax case.
-
-#### Model solution
-
-*Mohit Minerals (2022)* arose from IGST on ocean freight in CIF imports, but its constitutional significance lies in defining authority inside the GST compact.
-
-[FACT] The Supreme Court held Council recommendations non-binding on Union and State legislatures and persuasive within collaborative dialogue. Article 246A grants simultaneous power; it is not made subject to Article 279A. Treating Council recommendations as binding edicts would subordinate legislatures and disturb fiscal federalism.
-
-The judgment nevertheless preserves coordination. Where CGST/IGST statutes condition delegated notification or rule-making on Council recommendation, the executive is bound by that statutory requirement. The Court also did not invalidate the Council as an institution. It invalidated the ocean-freight levy because the separate service charge conflicted with the statutory composite-supply framework in which IGST had already captured freight within import value.
-
-[ANALYSIS] The ruling shifts GST from hierarchical uniformity to negotiated harmonisation. States retain constitutional voice and may contest, while credit chains and market costs create incentives to agree. This recognises Indian federalism as cooperation plus possible contestation.
-
-[LIMIT] The decision can generate divergence if political dialogue fails, and it does not answer every notification dispute. Nor does it make Council expertise dispensable.
-
-The best institutional response is reasoned recommendations, transparent impact data and an operational Article 279A(11) mechanism. *Mohit Minerals (2022)* strengthens the Council by grounding its legitimacy in persuasion and law, not command.
-
-
-
-**Why this earns marks:** It evaluates common-market gains, autonomy costs, administrative asymmetry and institutional reforms rather than offering one-sided cooperative-federalism praise.
-
-**How to improve / compress:** Group gains and costs under tax base, voice, revenue and compliance; use one current official recommendation only after labelling its legal status.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate Mohit Minerals (2022) as a judgment on fiscal federalism rather than merely an ocean-…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Evaluate Mohit Minerals (2022) as a judgment on fiscal federalism rather than merely an ocean-freight tax case.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Solved Mains 7 - 20 marks, 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Mohit Minerals (2022) arose from IGST on ocean freight in CIF imports, but its constitutional significance lies in defining authority inside the GST compact. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** [LIMIT] The decision can generate divergence if political dialogue fails, and it does not answer every notification dispute. Nor does it make Council expertise dispensable. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It evaluates common-market gains, autonomy costs, administrative asymmetry and institutional reforms rather than offering one-sided cooperative-federalism praise. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve / compress: Group gains and costs under tax base, voice, revenue and compliance; use one current official recommendation only after labelling its legal status. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Evaluate Mohit Minerals (2022) as a judgment on fiscal federalism rather than merely an ocean-freight tax case.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “Evaluate Mohit Minerals (2022) as a judgment on fiscal federalism rather than merely an ocean-…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
-
-### Original Solved Mains 8 - 20 marks, 250 words
-
-**Question:** Suggest an accountability and reform framework that can make the GST Council a more durable institution of fiscal federalism.
-
-#### Model solution
-
-The Council's durability depends on whether States and taxpayers can trace a recommendation from evidence to legal effect and fiscal outcome.
-
-**First, improve deliberative transparency.** Publish agendas where feasible, fuller minutes, dissent, revenue assumptions and reasons. A notification tracker should separately mark Council recommendation, statutory authority, Gazette instrument, effective date and portal implementation.
-
-**Second, strengthen evidence.** An independent technical unit should publish distributional, State-revenue, inflation, ITC and compliance modelling with assumptions and error bands. [LIMIT] It should advise, not acquire rate-setting power.
-
-**Third, operationalise Article 279A(11).** A neutral intergovernmental panel needs defined jurisdiction, timelines, reasoned decisions and a clear relationship with Article 131 and judicial review. It must remain separate from taxpayer appeals and GSTAT.
-
-**Fourth, rebuild transition trust.** Publish compensation-cess and loan-servicing accounts, avoid implying a permanent 14 per cent guarantee, and design a rules-based shock facility for future nationwide disruptions.
-
-**Fifth, simplify without fiscal blindness.** Use a stable review calendar, reduce inversions and classification disputes, support small firms and assess State/local-government revenue effects before changes.
-
-**Sixth, protect federal reciprocity.** Preserve consensus where possible, record formal votes when needed and disclose implementation delays by both levels.
-
-[FACT] Articles 246A, 269A and 279A already supply competence, settlement and negotiation; *Mohit Minerals (2022)* protects legislative autonomy. [ANALYSIS] Reform should therefore improve legitimacy and execution, not replace legislatures with technocracy.
-
-The goal is transparent pooled sovereignty: common rules produced by evidence, reciprocal accommodation and enforceable legal instruments.
-
-
-
-**Why this earns marks:** It diagnoses the missing Article 279A(11) mechanism and proposes jurisdiction, composition, procedure and review safeguards.
-
-**How to improve / compress:** Define covered intergovernmental disputes first, expressly exclude taxpayer appeals/GSTAT, and present an implementable neutral-panel design with judicial review.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Suggest an accountability and reform framework that can make the GST Council a more durable…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Suggest an accountability and reform framework that can make the GST Council a more durable institution of fiscal federalism.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Solved Mains 8 - 20 marks, 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The Council's durability depends on whether States and taxpayers can trace a recommendation from evidence to legal effect and fiscal outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Fourth, rebuild transition trust. Publish compensation-cess and loan-servicing accounts, avoid implying a permanent 14 per cent guarantee, and design a rules-based shock facility for future nationwide disruptions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Fifth, simplify without fiscal blindness. Use a stable review calendar, reduce inversions and classification disputes, support small firms and assess State/local-government revenue effects before changes. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Sixth, protect federal reciprocity. Preserve consensus where possible, record formal votes when needed and disclose implementation delays by both levels. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Suggest an accountability and reform framework that can make the GST Council a more durable institution of fiscal federalism.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-**How to improve this answer:** For “Suggest an accountability and reform framework that can make the GST Council a more durable…”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Examiner method:** claim -> named constitutional/statutory/case evidence -> analysis -> qualification -> verdict.

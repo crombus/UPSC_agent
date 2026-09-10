@@ -1,164 +1,223 @@
-ASCII MASTER FLOW — PANEL 1/12: Responsible State executive: legal form and democratic command
-ARTICLES 153-167
-People -> Legislative Assembly -> confidence -> CM + Council -> real executive
-Governor -> constitutional State head -> formal acts and continuity
+ASCII MASTER FLOW - PANEL 1/12: Core concept and constitutional origin
+CENTRAL QUESTION
+Who governs a State when executive power is formally vested in the Governor?
 
-ARTICLE MAP
-153 office | 154 power | 155 appointment | 156 pleasure | 157-159 conditions/oath
-161 clemency | 163 advice/discretion | 164 ministry | 165 AG | 166 business | 167 CM duties
+ORIGIN / EVOLUTION
+1935: provincial Governors retained broad reserve and discretionary powers under colonial responsibility.
+1949: Constituent Assembly rejected an elected Governor to avoid a rival mandate.
+26 Jan 1950: parliamentary State executive commenced under Articles 153-167.
+1956: Seventh Amendment, section 6 added the Article 153 proviso for one person to govern two or more States.
 
-CORE RULE
-Union appointment creates a federal link, not authority to govern as a Central party agent.
-MUST REMEMBER: Teach Articles 153-167 office by office, then separate aid and advice, express
-  or necessarily implied discretion, government formation, floor tests, Article 356 reporting,
-  assent, ordinance and clemency.
+ANSWER
+Governor = constitutional head and process guardian.
+CM-led Council = confidence-holding political executive responsible to the Assembly.
+Union appointment is a federal link, not legal subordination to the Union government.
 
-ASCII MASTER FLOW — PANEL 2/12: Appointment, conditions, immunity and pleasure tenure
-ENTRY: President appoints by warrant -> citizen + 35 -> Article 159 oath
-CONDITIONS: no legislative seat or other office of profit; emoluments protected.
-COMMON GOVERNOR: Article 153 proviso allows one person for multiple States.
+ASCII MASTER FLOW - PANEL 2/12: Decoded Articles 153-162: office, tenure, power and clemency
+ARTICLE 153: Governor for each State; same person may hold two or more distinct State offices.
+ARTICLE 154: State executive power vested in Governor, exercised constitutionally through subordinate officers.
+ARTICLE 155: President appoints by warrant under hand and seal; no election.
+ARTICLE 156: President's pleasure + resignation to President + five-year outer term + holdover until successor.
+ARTICLE 157: citizen of India and completed age thirty-five.
+ARTICLE 158: no legislative seat or other office of profit; residence and protected emoluments.
+ARTICLE 159: oath before High Court Chief Justice or available senior judge.
+ARTICLE 160: President may provide for an unprovided contingency.
+ARTICLE 161: all six clemency limbs for State-field offences; no court-martial limb.
+ARTICLE 162: State executive extent broadly follows State legislative competence, subject to Union limits.
 
-ARTICLE 156
-five-year outer term + President pleasure + resignation + holdover until successor.
-B.P. Singhal (2010): no arbitrary, capricious, unreasonable or mala fide removal;
-no guaranteed five-year lease and no routine duty to disclose reasons.
+ASCII MASTER FLOW - PANEL 3/12: Appointment, pleasure, transfer and immunity
+ENTRY
+President appoints -> Article 157 eligibility -> Article 158 conditions -> Article 159 oath.
 
-ARTICLE 361: personal temporary immunity; underlying government action remains reviewable.
+TENURE
+Five years is not guaranteed; pleasure can end office.
+Transfer, reappointment and additional/common charge are constitutionally possible.
 
-ASCII MASTER FLOW — PANEL 3/12: Complete power classification and source control
-EXECUTIVE: appoint CM; ministers on CM advice; AG, SEC, SPSC and district-judge roles.
-LEGISLATIVE: 168, 171, 174-176, 200 and 213.
-FINANCIAL: 202 budget, 203 grants, 207 Money/financial Bills, 243-I SFC.
-CLEMENCY: Article 161 within State executive field; advice-bound and reviewable.
-SPECIAL: Article 356 report; constitutionally specified responsibilities.
-STATUTORY: university Chancellor only where State law provides.
+HARGOVIND PANT (1979)
+Context: Article 319(d) challenge to appointing a former SPSC member as Governor.
+Holding: Governor is an independent constitutional office, not employment under the Union.
 
-TRAPS: Governor does not appoint HC judges or nominate Assembly members.
+B.P. SINGHAL (2010)
+Pleasure survives, but removal cannot be arbitrary, capricious, unreasonable or mala fide.
+Reasons need not routinely be communicated; a prima facie arbitrariness case requires Union justification.
 
-ASCII MASTER FLOW — PANEL 4/12: Aid and advice, discretion and special responsibilities
-DEFAULT -> Shamsher Singh (1974): CM-led Council advice controls.
-EXCEPTION -> express text or necessary implication; discretion remains purpose-bound.
+ARTICLE 361
+Personal non-answerability, criminal-process and arrest immunity during term; governmental action remains reviewable.
 
-BOUNDED FIELDS
-hung-House appointment | objective floor-test doubt | Article 200 reservation
-Article 356 report | UT additional charge | constitutionally specified responsibilities.
+ASCII MASTER FLOW - PANEL 4/12: Union-State parliamentary mirrors
+FORMAL POWER
+Union Article 53: executive power vested in President.
+State Article 154: executive power vested in Governor.
 
-SPECIAL TEXTS
-Article 371A(1)(b): Nagaland law and order | 371H(a): Arunachal law and order
-individual judgment after consulting Council; Sixth Schedule assigns specified functions.
-LIMIT: exceptional State texts do not create general discretion for every Governor.
+AID AND ADVICE
+Union Article 74: PM-headed Council.
+Constitution (Forty-second Amendment) Act, 1976, section 13 substituted Article 74(1), effective 3 Jan 1977, making action according to advice explicit.
+Constitution (Forty-fourth Amendment) Act, 1978, section 11 inserted the Article 74(1) proviso, effective 20 Jun 1979: one reconsideration, reiterated advice binding.
+State Article 163: CM-headed Council; bounded discretion where Constitution requires.
 
-ASCII MASTER FLOW — PANEL 5/12: Case-law ladder: from advice to objective material
-Shamsher Singh (1974) -> constitutional head; advice is norm
-S.R. Bommai (1994) -> Article 356 review; House floor ordinarily tests majority
-Rameshwar Prasad (2006) -> speculative horse-trading cannot justify dissolution
-B.P. Singhal (2010) -> pleasure survives; arbitrary removal does not
-Nabam Rebia (2016) -> Articles 174-175 normally advice-bound
-Subhash Desai (2023) -> objective material; no intra-party arbitration by floor test
+MINISTERS
+Article 75(3): Union Council responsible to Lok Sabha.
+Article 164(2): State Council responsible to Legislative Assembly.
 
-CURRENT: referred Nabam Rebia (2016) Speaker-removal issue remains unresolved at 28 Aug 2026.
+BUSINESS / INFORMATION / PARTICIPATION
+Union Article 77 and State Article 166: executive action expressed in the formal head's name.
+Union Article 78 and State Article 167: PM/CM duties to communicate decisions and furnish information.
+Union Article 88 and State Article 177: ministers and law officers may participate; voting follows membership.
 
-ASCII MASTER FLOW — PANEL 6/12: Government formation, floor test, dismissal and dissolution
-CLEAR MAJORITY -> appoint recognised leader -> ordinary responsible government.
-HUNG HOUSE -> invite credible confidence claimant -> early floor test -> no secret count.
-LATER DOUBT -> objective material -> prompt floor test in Assembly.
+ASCII MASTER FLOW - PANEL 5/12: Aid, advice and bounded discretion
+DEFAULT
+Shamsher Singh (1974), seven judges: President and Governor are formal heads ordinarily acting on ministerial advice; Article 234 appointments are not personal satisfaction.
 
-AFTER TEST
-confidence retained -> ministry continues
-confidence lost -> resignation/dismissal -> test alternative -> dissolution only if needed.
-CARETAKER -> continuity with restraint, not a fresh policy mandate.
+CONSTITUTIONALLY ANCHORED OR NECESSARILY IMPLIED FIELDS
+Article 200 choice after the 2025 Article 143 opinion.
+Reasoned Article 356 report.
+Hung-Assembly CM appointment and objective floor-test trigger.
+Response after demonstrated loss of confidence; dissolution only after testing alternatives.
+UT administrator role when separately appointed.
 
-Subhash Desai (2023): factional dissent alone insufficient.
-Rameshwar Prasad (2006): anticipated misconduct cannot replace House process.
-CLOSE DISTINCTION: Apply Shamsher Singh (1974), S.R. Bommai (1994), Rameshwar Prasad (2006),
-  B.P. Singhal, Nabam Rebia (2016) and Subhash Desai (2023) only for their stated
-  propositions. Article 200 discretion does not create general gubernatorial discretion.
+SPECIAL TEXTS - DO NOT GENERALISE
+Article 371(2): specified development-board responsibility in Maharashtra/Gujarat.
+Article 371A(1)(b): Nagaland law and order.
+Article 371C: Manipur Hill Areas Committee reporting/special responsibility.
+Article 371H(a): Arunachal Pradesh law and order.
+Sixth Schedule: specified autonomous-area constitution/delimitation and royalty-dispute functions.
 
-ASCII MASTER FLOW — PANEL 7/12: Article 356 report and the federal firewall
-GOVERNOR'S REASONED REPORT OR OTHER MATERIAL
-                 |
-                 v
-PRESIDENTIAL PROCLAMATION -> parliamentary approval -> temporary consequences
-                 |
-                 v
-JUDICIAL REVIEW UNDER S.R. BOMMAI (1994)
-relevance | mala fides | constitutional purpose | possible restoration
+NO GENERAL DOMAIN
+Policy disagreement, minister selection, party leadership and partisan session timing remain outside discretion.
 
-FLOOR-TEST PRIORITY
-A majority dispute ordinarily belongs in the House, not in Raj Bhavan's assessment.
-TRAP: Governor recommends/reports; the Governor does not proclaim President's Rule.
+ASCII MASTER FLOW - PANEL 6/12: Chief Minister appointment and confidence mechanism
+CLEAR MAJORITY
+Governor appoints recognised leader under Article 164(1).
 
-ASCII MASTER FLOW — PANEL 8/12: Articles 200-201 and the 2025 assent control
-ARTICLE 200
-assent | withhold | return non-Money Bill once | reserve for President
-mandatory reservation: Bill endangers High Court constitutional powers.
-After repassage Governor cannot return again; exact remaining route is text-specific.
+HUNG ASSEMBLY
+Assess objective, credible support -> invite a likely confidence-holder -> require an early floor test.
+Sarkaria preference principles guide neutrality but are not inflexible law.
+
+ELIGIBILITY
+B.R. Kapur (2001): a person disqualified from legislative membership cannot use Article 164(4) to become CM.
+S.R. Chaudhuri (2001): repeated non-member minister reappointment cannot defeat the six-consecutive-month limit.
+
+FLOOR-TEST CASES
+S.R. Bommai (1994): House floor ordinarily tests majority; Article 356 reviewable.
+Shivraj Singh Chouhan (2020): objective resignation material justified a prompt floor test; Governor cannot decide the result.
+Subhash Desai (2023): intra-party dissent/faction letters alone were insufficient; Governor cannot resolve party leadership.
+
+AFTER LOSS
+Resignation/dismissal -> test viable alternative -> dissolution only if no government is possible -> caretaker restraint.
+
+ASCII MASTER FLOW - PANEL 7/12: Articles 168, 171 and 174-177: legislative interface
+ARTICLE 168
+Governor is a component of State legislature but not a House member.
+
+ARTICLE 171
+Governor nominates one-sixth of a Legislative Council from literature, science, art, cooperative movement and social service.
+
+ARTICLE 174
+Summon, prorogue and dissolve Assembly; no more than six months between specified sittings.
+Nabam Rebia (2016): Governor could not unilaterally pre-pone the session and dictate the removal agenda; these powers are normally advice-bound.
+
+ARTICLES 175-176
+Addresses/messages and special address after a general election and at first session each year.
+
+ARTICLE 177
+Ministers and Advocate General may speak and participate in both Houses/committees; no vote without membership.
+
+STATE OF PUNJAB (2023)
+Governor could not question validly reconvened sittings and had to decide pending Bills under Article 200.
+
+ASCII MASTER FLOW - PANEL 8/12: Articles 200-201 after the 2025 doctrine
+ARTICLE 200 - THREE OPTIONS IN 2025 INSC 1333
+1 assent;
+2 reserve for President;
+3 withhold and return with comments, only for a non-Money Bill.
+First proviso restricts/implements withholding; it is not a fourth free-standing option.
+Second proviso: mandatory reservation where the Bill would so derogate from High Court powers as to endanger its constitutional position.
 
 ARTICLE 201
-President: assent | withhold | direct return of non-Money Bill through Governor
-repassage does not compel presidential assent.
+President assents or withholds; for a non-Money Bill may direct return through Governor.
+State Houses must reconsider within six months; re-passage does not compel presidential assent.
 
-2025 CONTROL
-State of Tamil Nadu v. Governor of Tamil Nadu (2025): facts-specific timelines/deemed assent
-In re Assent, Withholding or Reservation of Bills (2025): advisory; no rigid timelines
-or automatic deemed assent; prolonged unexplained inaction remains reviewable.
+REVIEW
+No pre-enactment merits review of the chosen option.
+Glaring prolonged, unexplained and indefinite inaction permits limited mandamus to act within reasonable time.
+No court-created rigid timeline and no deemed assent.
 
-ASCII MASTER FLOW — PANEL 9/12: Ordinance power and clemency comparison
-ARTICLE 213
-required House(s) not in session + immediate necessity -> ordinance with Act-like force
--> must be laid -> expires six weeks after reassembly unless approved earlier.
-D.C. Wadhwa (1986): serial re-promulgation is fraud on Constitution.
-Krishna Kumar Singh (2017): laying mandatory; satisfaction reviewable; no routine survival.
+ASCII MASTER FLOW - PANEL 9/12: Punjab, Tamil Nadu and the Article 143 opinion: precise relationship
+PUNJAB, 10 NOV 2023
+Article 200 does not permit indefinite inaction; withholding must be read with return under the first proviso.
 
-ARTICLE 161 V ARTICLE 72
-Governor: State-field offences; may pardon death within that field; no court-martial limb.
-President: court-martial, Union-field offences and every death sentence.
-Both ordinarily act on advice and remain reviewable for recognised defects.
+STATE OF TAMIL NADU, 8 APR 2025, 2025 INSC 481
+Held the second-round reservations illegal; prescribed general timelines; deemed assent to ten re-passed Bills under Article 142 on the case facts.
 
-ASCII MASTER FLOW — PANEL 10/12: Chief Minister, Article 167 and State Council
-GOVERNOR APPOINTS CM -> CM PROVES ASSEMBLY CONFIDENCE
-CM selects ministers -> allocates portfolios -> coordinates policy -> advises Governor.
-ARTICLE 167 -> communicate Council decisions, furnish information, collectivise decisions.
+ARTICLE 143 OPINION, 20 NOV 2025, 2025 INSC 1333, FIVE JUDGES
+Expressly called Tamil Nadu's general timeline paragraphs erroneous.
+Rejected deemed assent and judicial substitution.
+Held Governor chooses among three Article 200 options in discretion and is not bound by Cabinet advice for that choice.
+Barred merits review of a decision, while allowing limited mandamus for glaring prolonged inaction.
 
-COUNCIL UNDER ARTICLES 163-164
-appoint ministers on CM advice | collective responsibility to Assembly
-individual pleasure is mediated by CM advice and confidence | non-member: maximum six months.
+RELATIONSHIP
+The advisory opinion did not appellate-set aside Tamil Nadu's inter partes relief.
+Exam wording: it disapproved/qualified the general propositions; do not say it formally overruled the judgment.
 
-91ST AMENDMENT
-ministers <=15% of Assembly, minimum 12; defector bar under Article 164(1B).
+ASCII MASTER FLOW - PANEL 10/12: Ordinance, clemency and judicial-service controls
+ARTICLE 213 ORDINANCE
+Relevant House(s) not in session + immediate necessity + State competence.
+President's instructions required in the three specified sanction/reservation situations.
+Act-like force -> mandatory laying -> withdrawal/disapproval or six weeks after later reassembly.
+D.C. Wadhwa (1987 report): routine re-promulgation is fraud on Constitution.
+Krishna Kumar Singh (2017), seven judges 5:2: laying mandatory; satisfaction reviewable; no automatic survival of every effect.
 
-ASCII MASTER FLOW — PANEL 11/12: Tribal minister, Advocate General, business and comparison
-TRIBAL WELFARE MINISTER
-required in Chhattisgarh, Jharkhand, Madhya Pradesh and Odisha under Article 164 proviso.
+ARTICLE 161 v ARTICLE 72
+Governor: all six forms for State-field offences generally; cannot pardon a death sentence,
+but may suspend, remit or commute it within that field; no court-martial power.
+President: Union-field offences, court-martial and every death sentence, including pardon.
+Maru Ram (1980): Cabinet advice binds.
+Epuru Sudhakar (2006): review for mala fides, arbitrariness, non-application of mind and material defects.
 
-ARTICLE 165 -> Advocate General: HC-judge qualification; advises State government.
-ARTICLE 166 -> authentication and business-allocation rules; not personal Governor policy.
+ARTICLES 233-234
+District judges: Governor with High Court consultation.
+Other judicial service: Governor under rules after SPSC and High Court consultation.
 
-PRESIDENT v GOVERNOR
-both constitutional heads | Article 74 differs textually from 163
-Article 72 wider than 161 | Governor reserves State Bills under 200
-Governor has State-specific special responsibilities; neither difference creates general discretion.
-CHANCELLOR: statute-specific, not inherent constitutional office.
+ASCII MASTER FLOW - PANEL 11/12: Chief Minister, Council, Advocate General and amendments
+CHIEF MINISTER / ARTICLE 167
+Head of Council and real executive.
+Communicate Council decisions and legislative proposals; furnish information; collectivise an individual minister's decision.
 
-ASCII MASTER FLOW — PANEL 12/12: Federal neutrality, reforms, PYQs and answer synthesis
+ARTICLE 164
+Other ministers appointed on CM advice; Third-Schedule oaths of office and secrecy.
+Collective responsibility to Legislative Assembly; individual exit mediated by CM.
+Non-member ceases after six consecutive months.
+
+NINETY-FIRST AMENDMENT ACT, 2003, SECTION 3
+Inserted Articles 164(1A)-(1B), effective 1 Jan 2004.
+Total ministers including CM <=15% of total Assembly membership; minimum twelve.
+Specified Tenth-Schedule defector barred until term end or earlier re-election.
+
+NINETY-FOURTH AMENDMENT ACT, 2006, SECTION 2
+In Article 164 proviso, substituted Chhattisgarh and Jharkhand for Bihar.
+Tribal Welfare Minister now mandatory in Chhattisgarh, Jharkhand, Madhya Pradesh and Odisha.
+
+ARTICLE 165
+Advocate General must qualify as a High Court judge and advises the State government.
+ARTICLE 177
+Advocate General may speak and participate in either House and committees without an automatic vote.
+
+ASCII MASTER FLOW - PANEL 12/12: Federal friction, reforms, traps and answer spine
 FAULT LINE
-Union appointment + pleasure tenure + State-facing formation/assent/356 powers.
-BRIDGE
-constitutional continuity, neutral information, lawful transition and emergency warning.
+Union appointment + pleasure tenure + State-facing formation, assent, Article 356 and statutory-university disputes.
+Chancellor role is created only by the relevant State university statute, never inherently by Article 153.
 
-REFORM ROUTE
-Sarkaria: eminent outsider, detached politics, CM consultation
-NCRWC/Punchhi: transparent selection, tenure restraint, reasoned action, House-centred tests
+REFORMS
+Sarkaria (1988): eminent outsider, politically detached, CM consultation, secure convention, Article 356 last resort and House-centred majority tests.
+NCRWC (2002): plural appointment committee including PM, Home Minister, Lok Sabha Speaker and State CM; tenure disturbed only in rare cases.
+Punchhi (2010): stronger tenure/removal safeguards, reasoned action, floor-test discipline and separation of statutory Chancellor role.
 All are proposals unless enacted.
 
-PRELIMS: elected? NO | guaranteed five years? NO | general discretion? NO
-Money Bill return? NO | Chancellor constitutional? NO | Article 361 = State immunity? NO.
+PRELIMS TRAPS
+appointed, not elected | five years not guaranteed | no general discretion
+Governor cannot pardon death sentence | may suspend/remit/commute it in State field | no court-martial limb
+Article 200 has no pocket veto or deemed assent | Article 201 re-passage does not compel assent
+Article 361 protects person, not unconstitutional action | Chancellor is statutory.
 
 MAINS SPINE
-text -> advice default -> exceptional trigger -> case + year -> federal risk
--> matched reform -> neutral constitutional-head conclusion.
-LEGAL/SOURCE LIMIT: The 20 November 2025 Article 143 opinion gives three Article 200 options,
-  rejects rigid timelines and deemed assent, and permits only limited mandamus against
-  prolonged unexplained indefinite inaction. Article 161 can include pardon of a death
-  sentence where the offence-law nexus lies within State executive power; court-martial
-  remains outside it.
+claim -> decoded Article -> named holding -> mechanism -> federal/accountability cost -> qualification -> matched reform -> neutral constitutional-head verdict.

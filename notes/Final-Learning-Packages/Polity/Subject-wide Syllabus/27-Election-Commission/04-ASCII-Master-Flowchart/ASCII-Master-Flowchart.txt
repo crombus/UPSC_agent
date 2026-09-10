@@ -1,243 +1,184 @@
-ASCII MASTER FLOW — PANEL 1/12: Article 324 and the collegial Election Commission
-ARTICLE 324
-superintendence, direction and control of rolls and elections to
-Parliament | State legislatures | President | Vice-President.
++--------------------------------------------------------------------------------------------------+
+| PANEL 01/12 - CONCEPT AND CONSTITUTIONAL FIELD                                                   |
++--------------------------------------------------------------------------------------------------+
+| - Article 324: ECI controls rolls and elections to Parliament, State legislatures, President     |
+|   and Vice-President.                                                                            |
+| - Articles 325-329: general roll, adult suffrage, legislative powers and election-petition       |
+|   channel.                                                                                       |
+| - Articles 103/192: President/Governor decides specified disqualification after obtaining ECI    |
+|   opinion.                                                                                       |
+| - Articles 243K/243ZA: State Election Commission, not ECI, controls Panchayat and municipal      |
+|   polls.                                                                                         |
+| - Answer line: independent supervision is broad but remains bounded by Constitution, statute     |
+|   and review.                                                                                    |
++--------------------------------------------------------------------------------------------------+
 
-COMPOSITION
-CEC + such number of Election Commissioners as President fixes.
-President may appoint Regional Commissioners after consulting the ECI.
+                                                |
+                                                v
 
-COLLEGIALITY
-multi-member Commission decides by majority under the governing statute.
++--------------------------------------------------------------------------------------------------+
+| PANEL 02/12 - COMPOSITION, HISTORY AND COLLEGIALITY                                              |
++--------------------------------------------------------------------------------------------------+
+| - CEC + such number of other ECs as President fixes, subject to parliamentary law.               |
+| - 1950 single member -> Oct 1989 multi -> Jan 1990 single -> Oct 1993 continuing three-member    |
+|   body.                                                                                          |
+| - CEC is Chairman; unanimity is preferred and differences are decided by majority.               |
+| - T.N. Seshan (1995): multi-member Commission and equal decisional status are valid.             |
+| - Regional Commissioner: President appoints after consulting ECI; assistance office, not SEC.    |
++--------------------------------------------------------------------------------------------------+
 
-EXCLUSION
-local-body elections -> State Election Commissions under Articles 243K and 243ZA.
+                                                |
+                                                v
 
-CONSTITUTIONAL POSITION
-independent election manager + distributed field machinery
-bounded by Constitution, enacted law, natural justice and judicial review.
-MUST REMEMBER: Separate Article 324, Articles 325-329, the RPA 1950, the RPA 1951, the 2023
-  appointment Act and the non-statutory Model Code.
++--------------------------------------------------------------------------------------------------+
+| PANEL 03/12 - CURRENT APPOINTMENT LAW                                                            |
++--------------------------------------------------------------------------------------------------+
+| - Anoop Baranwal (2023): PM + Opposition leader + CJI only until Parliament enacted a law.       |
+| - Act 49 of 2023 commenced 2 Jan 2024 and repealed the 1991 Act.                                 |
+| - Search: Law Minister + two Secretary-rank members -> panel of five.                            |
+| - Select: PM + LoP/largest opposition leader + PM-nominated Union Cabinet Minister.              |
+| - President appoints by warrant; section 8 permits consideration beyond the search panel.        |
+| - 7 Sep 2026: Act operative; 22 Mar 2024 interim refusal; no located final merits ruling or      |
+|   stay.                                                                                          |
++--------------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 2/12: Appointment Act, tenure, removal and independence safeguards
-Anoop Baranwal (2023)
-interim PM + Opposition leader + CJI committee only until Parliament made a law.
+                                                |
+                                                v
 
-2023 APPOINTMENT ACT
-Search Committee led by Law Minister -> panel of five
--> Selection Committee: PM + Union Cabinet Minister + Opposition leader
--> President appoints.
++--------------------------------------------------------------------------------------------------+
+| PANEL 04/12 - TERM, SERVICE CONDITIONS AND REMOVAL                                               |
++--------------------------------------------------------------------------------------------------+
+| - Eligibility: Secretary-equivalent rank + integrity + election-management                       |
+|   knowledge/experience.                                                                          |
+| - Term: six years or age 65, whichever earlier; no reappointment; aggregate six-year cap.        |
+| - Enacted section 10: salary equal to a Supreme Court judge.                                     |
+| - CEC removal: same manner and grounds as Supreme Court judge.                                   |
+| - Other EC/Regional Commissioner: President only on CEC recommendation.                          |
+| - Article 324 protects CEC service conditions from disadvantageous variation after               |
+|   appointment.                                                                                   |
++--------------------------------------------------------------------------------------------------+
 
-TERM
-six years or age 65, whichever earlier; no reappointment under the Act.
+                                                |
+                                                v
 
-REMOVAL
-CEC -> like Supreme Court judge.
-EC/Regional Commissioner -> President only on CEC recommendation.
++--------------------------------------------------------------------------------------------------+
+| PANEL 05/12 - SECRETARIAT, STAFF AND ELECTION TIMETABLE                                          |
++--------------------------------------------------------------------------------------------------+
+| - Article 324(6): President/Governor supplies staff when ECI requests it.                        |
+| - Constitution does not create a separate election cadre or blanket charged-expenditure          |
+|   clause.                                                                                        |
+| - Schedule announcement -> notification -> nomination -> scrutiny -> withdrawal -> poll ->       |
+|   count -> result.                                                                               |
+| - Section 151A: by-election ordinarily within six months, subject to exact exceptions.           |
+| - Sections 57/58/58A: adjournment, fresh poll and booth-capturing remedies use distinct          |
+|   triggers.                                                                                      |
++--------------------------------------------------------------------------------------------------+
 
-CURRENT LEGAL CONTROL: 24 AUGUST 2026
-Act operates; challenge pending; no claim of final validation or invalidation.
+                                                |
+                                                v
 
-INDEPENDENCE TEST
-appointment + removal + finance + secretariat + staff + transparent reasons.
++--------------------------------------------------------------------------------------------------+
+| PANEL 06/12 - RPA 1950, ROLLS AND DELIMITATION                                                   |
++--------------------------------------------------------------------------------------------------+
+| - RPA 1950: allocation/constituency framework plus electoral-roll infrastructure.                |
+| - Section 19: age and ordinary residence; sections 21-23: revision, correction/deletion and      |
+|   inclusion.                                                                                     |
+| - Four qualifying dates: 1 Jan | 1 Apr | 1 Jul | 1 Oct.                                          |
+| - Roll integrity = include every eligible citizen + delete only through notice and lawful        |
+|   process.                                                                                       |
+| - 2026 INSC 564: limited electoral citizenship inquiry, not final citizenship adjudication.      |
+| - Delimitation Commission is a distinct statutory body; ECI participates only as law provides.   |
++--------------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Election administration from schedule and rolls to repoll
-ADMINISTRATIVE CHAIN
-roll revision -> schedule announcement -> statutory notification
--> nomination -> scrutiny -> withdrawal -> campaign
--> poll -> count -> result -> election-petition route.
+                                                |
+                                                v
 
-ROLLS
-citizenship + qualifying age + ordinary residence + inclusion/deletion due process.
++--------------------------------------------------------------------------------------------------+
+| PANEL 07/12 - RPA 1951: CONDUCT, DISQUALIFICATION AND DISPUTES                                   |
++--------------------------------------------------------------------------------------------------+
+| - RPA 1951: nominations, polling, expenses, parties, corrupt practices, disqualification and     |
+|   petitions.                                                                                     |
+| - Sections 8-10A supply principal statutory disqualification grounds.                            |
+| - Lily Thomas (2013): section 8(4) sitting-member shield invalid.                                |
+| - Section 123 defines corrupt practices; Abhiram Singh (2017) controls identity/religious        |
+|   appeals.                                                                                       |
+| - High Court tries election petitions under sections 80/80A; section 116A appeal lies to         |
+|   Supreme Court.                                                                                 |
++--------------------------------------------------------------------------------------------------+
 
-FIELD CONTROL
-Returning Officers | observers | security coordination | expenditure teams.
+                                                |
+                                                v
 
-URGENT INTEGRITY POWER
-adjournment, repoll or countermand only through the applicable legal basis and facts.
++--------------------------------------------------------------------------------------------------+
+| PANEL 08/12 - CANDIDATES, CRIMINALISATION, MONEY AND MEDIA                                       |
++--------------------------------------------------------------------------------------------------+
+| - ADR (2002) and PUCL (2003): voter right to material candidate information.                     |
+| - Public Interest Foundation (2018/2020): antecedent publicity and party reasons for             |
+|   selection.                                                                                     |
+| - Candidate expense account/ceiling is distinct from total political-party campaign spending.    |
+| - Paid news: evidence -> monitoring -> expense attribution or applicable legal route.            |
+| - Social media/deepfakes: ad transparency + MCC + applicable election/criminal/technology law.   |
+| - ECI cannot invent new offences, convictions or disqualification grounds.                       |
++--------------------------------------------------------------------------------------------------+
 
-DISQUALIFICATION ADVICE
-President under Article 103 and Governor under Article 192 obtain ECI opinion.
-Tenth Schedule disqualification belongs to Speaker/Chairman, not ECI.
+                                                |
+                                                v
 
-ASCII MASTER FLOW — PANEL 4/12: RPA interface, delimitation boundary, voter registration and NOTA
-RPA 1950
-seat allocation/delimitation framework + electoral rolls + eligibility architecture.
++--------------------------------------------------------------------------------------------------+
+| PANEL 09/12 - PARTIES, SYMBOLS AND MODEL CODE                                                    |
++--------------------------------------------------------------------------------------------------+
+| - RPA 1951 section 29A registration != recognition != reserved symbol.                           |
+| - Institute of Social Welfare (2002): ECI has no general deregistration power; narrow            |
+|   exceptions.                                                                                    |
+| - Symbols Order 1968 paragraph 15 decides recognised-party rival-group claims.                   |
+| - Kanhiya Lal Omar (1985): Symbols Order is legally valid.                                       |
+| - MCC: non-statutory code from schedule announcement to completion.                              |
+| - MCC conduct may independently violate RPA, BNS or another statute.                             |
++--------------------------------------------------------------------------------------------------+
 
-RPA 1951
-conduct, candidates, expenses, corrupt practices, disqualifications and petitions.
+                                                |
+                                                v
 
-DELIMITATION
-Delimitation Commission is the statutory authority when constituted;
-CEC/ECI participates as law provides but is not the ordinary sole delimiting body.
++--------------------------------------------------------------------------------------------------+
+| PANEL 10/12 - EVM-VVPAT AND AUDIT                                                                |
++--------------------------------------------------------------------------------------------------+
+| - Ballot Unit -> Control Unit -> VVPAT display and sealed paper slip -> counting protocol.       |
+| - Rule 49MA: alleged mismatch procedure; Rule 56D: application for paper-slip count.             |
+| - Subramanian Swamy (2013): VVPAT paper trail supports voter confidence.                         |
+| - ADR v ECI (26 Apr 2024): no paper-ballot return or universal count; limited safeguards         |
+|   added.                                                                                         |
+| - 7 May 2025 order: diagnostic certification, preservation and candidate-requested protocol.     |
+| - Technology answer = architecture + custody + audit + complaint remedy.                         |
++--------------------------------------------------------------------------------------------------+
 
-People's Union for Civil Liberties (2013)
-secret NOTA protects voter expression and secrecy.
+                                                |
+                                                v
 
-NOTA LIMIT
-NOTA plurality does not automatically cancel the election or force a repoll.
++--------------------------------------------------------------------------------------------------+
+| PANEL 11/12 - ARTICLE 324 CASE CODE AND COURT BOUNDARY                                           |
++--------------------------------------------------------------------------------------------------+
+| - Mohinder Singh Gill (1978): Article 324 is a reservoir where law is silent; recorded reasons   |
+|   matter.                                                                                        |
+| - A.C. Jose (1984): ECI supplements, never supplants, enacted law and rules.                     |
+| - Ponnuswami (1952): do not derail an election midway; petition is the ordinary challenge.       |
+| - Ashok Kumar (2000): limited review may facilitate, but not obstruct, the process.              |
+| - President/Vice-President disputes go to Supreme Court under Article 71, not High Court         |
+|   petition.                                                                                      |
++--------------------------------------------------------------------------------------------------+
 
-ARTICLE 329
-electoral process receives anti-interruption protection; post-result petition remains
-available.
+                                                |
+                                                v
 
-ASCII MASTER FLOW — PANEL 5/12: Political parties, symbols and Model Code enforcement
-PARTY REGISTRATION
-RPA 1951 section 29A -> registration.
-
-RECOGNITION / SYMBOL
-Symbols Order, 1968 -> national/State recognition, reserved/free symbols
-and quasi-judicial symbol disputes.
-
-MODEL CODE OF CONDUCT
-consensus-based non-statutory code -> operates from election-schedule announcement
-until completion -> rapid preventive correction and level-playing-field control.
-
-LEGAL OVERLAP
-bribery, communal appeals, expenditure and other conduct may independently violate law.
-
-LIMITS
-registration != recognition | symbol jurisdiction != every internal party dispute
-| MCC is not by itself a complete penal code.
-
-ASCII MASTER FLOW — PANEL 6/12: Campaign finance, criminalisation, paid news and social-media limits
-CAMPAIGN FINANCE
-candidate account + statutory ceiling + observers/teams
-!= one identical ceiling for total political-party campaign spending.
-
-CRIMINALISATION
-candidate affidavit disclosure + RPA disqualification + court process.
-ECI cannot invent new conviction or disqualification grounds.
-
-PAID NEWS
-media monitoring -> evidence -> expense attribution or legal route where supported.
-
-SOCIAL MEDIA / DEEPFAKES
-ad certification + MCC/advisories + applicable election/criminal/technology law.
-ECI is not a general platform regulator or universal censor.
-
-TRANSPARENCY
-Union of India v. Association for Democratic Reforms (2002)
--> voter right to candidate information.
-
-REFORM TEST
-clear law + reasons + equal enforcement + rapid remedy + audit trail.
-CLOSE DISTINCTION: The ECI conducts Union, State, Presidential and Vice-Presidential
-  elections; State Election Commissions conduct local-body elections, and the Delimitation
-  Commission remains a distinct statutory body.
-
-ASCII MASTER FLOW — PANEL 7/12: EVM-VVPAT architecture and current judicial controls
-POLLING CHAIN
-Ballot Unit -> Control Unit -> VVPAT slip display/drop -> sealed records -> counting
-protocol.
-
-VVPAT PURPOSE
-voter-verifiable paper audit trail, not a take-home ballot.
-
-Association for Democratic Reforms v. Election Commission of India (2024)
-rejected paper-ballot return and universal 100% VVPAT counting;
-added limited post-result technical safeguards.
-
-2025 FOLLOW-UP
-candidate-requested diagnostic/check process operates within the Court's stated
-protocol.
-
-ANSWER DISCIPLINE
-device security + roll accuracy + staff neutrality + campaign fairness
--> transparent audit + reasoned judicial/administrative safeguards.
-
-LIMIT unsupported fraud claims and unsupported infallibility claims are both
-exam-unsafe.
-
-ASCII MASTER FLOW — PANEL 8/12: Article 324 case-law code: power, law, collegiality and rights
-Mohinder Singh Gill (1977)
-Article 324 is a reservoir where law is silent; it cannot override enacted law.
-
-A.C. Jose (1984)
-ECI fills gaps but cannot act contrary to a field occupied by legislation/rules.
-
-T.N. Seshan (1995)
-multi-member Commission and equal decision-making status are constitutionally valid.
-
-Union of India v. Association for Democratic Reforms (2002)
-candidate disclosure serves the voter's Article 19(1)(a) right.
-
-People's Union for Civil Liberties (2013)
-secret NOTA protects expression; it is not a binding reject option.
-
-Anoop Baranwal (2023) -> temporary appointment rule until legislation.
-The VVPAT ruling is separately controlled by its full 2024 case label in Stage 06.
-
-ASCII MASTER FLOW — PANEL 9/12: ECI-SEC boundary, reform priorities, traps and final answer spine
-ECI                                  STATE ELECTION COMMISSION
-Parliament/State legislature/P/VP     Panchayat and municipal elections
-Article 324                           Articles 243K and 243ZA
-national election statutes            State local-government election law.
-
-PRELIMS FIREWALL
-CEC removal != EC removal | ECI advice != Tenth Schedule decision
-| ECI assists delimitation != sole delimiting authority
-| party registration != recognition | NOTA != automatic repoll.
-
-REFORM
-credible plural appointment + stable secretariat/finance
--> equal collegial security with accountability -> transparent complaint orders
--> cleaner rolls -> faster disputes -> audited technology and campaign enforcement.
-
-MAINS SPINE
-Article 324 purpose -> power/function -> legal boundary -> case-year
--> independence deficit -> accountable reform -> trust-ecosystem verdict.
-
-ASCII MASTER FLOW — PANEL 10/12: Appointment-law status and institutional-independence test
-ARTICLE 324
-President appoints CEC and ECs subject to parliamentary law.
-
-ANOOP BARANWAL (2023)
-PM + LoP + CJI was an interim rule only until Parliament enacted a law.
-
-ACT 49 OF 2023
-Search Committee -> eligible panel -> PM + LoP + nominated Cabinet Minister ->
-President.
-
-DATED CONTROL — 28 AUGUST 2026
-Act operative; official 22 March 2024 order declined interim interference; no later
-official stay or merits judgment located.
-
-REFORM TEST
-independence + transparency + diversity + reasoned selection + equal institutional
-protection.
-
-ASCII MASTER FLOW — PANEL 11/12: Roll, delimitation and election-dispute boundaries
-RPA 1950
-seat allocation and electoral-roll infrastructure; ordinary residence, qualifying dates,
-revision, claims and objections.
-
-DELIMITATION
-statutory Delimitation Commission; ECI participates but is not ordinary sole authority.
-
-RPA 1951
-nominations, campaign, poll, corrupt practices, disputes and election petitions.
-
-ARTICLE 329(b)
-no mid-process challenge that interrupts election; post-result election petition before
-High Court, then statutory Supreme Court appeal.
-
-ASCII MASTER FLOW — PANEL 12/12: Scheduling, repoll and countermanding legality chain
-SCHEDULE ANNOUNCEMENT
-ECI fixes the programme under Article 324 and election law; legal notification follows
-the statutory authority and stage.
-
-DISTURBED POLL
-adjournment or repoll requires the applicable RPA/Conduct Rules ground and recorded
-material.
-
-CANDIDATE DEATH / BOOTH CAPTURE / CORRUPT INFLUENCE
-use the exact statutory provision; countermanding is not a free-standing political
-discretion.
-
-CONTROL
-reasoned order -> natural justice where applicable -> preserve election timetable ->
-post-result petition for final election challenge.
-LEGAL/SOURCE LIMIT: The official ECI roster lists CEC Gyanesh Kumar and ECs Dr Sukhbir Singh
-  Sandhu and Dr Vivek Joshi. The 2023 Act operates while its section 7 challenge remains
-  undecided.
++--------------------------------------------------------------------------------------------------+
+| PANEL 12/12 - TRAPS, REFORM AND ANSWER SPINE                                                     |
++--------------------------------------------------------------------------------------------------+
+| - Traps: ECI != SEC | CEC vote != superior | six-year term is statutory | registration !=        |
+|   recognition.                                                                                   |
+| - Reform: independent search, reasoned selection, stable secretariat and predictable finance.    |
+| - Clean rolls, transparent political finance, public MCC reasons and audited digital             |
+|   campaigning.                                                                                   |
+| - Time-bound election courts and evidence-based EVM-VVPAT communication.                         |
+| - Answer spine: define -> exact source/actor -> claim -> named evidence -> analysis ->           |
+|   qualification.                                                                                 |
+| - Verdict: electoral trust requires administration that is lawful, observable and correctable.   |
++--------------------------------------------------------------------------------------------------+

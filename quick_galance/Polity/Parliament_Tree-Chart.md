@@ -1,1515 +1,211 @@
-# Polity 17 - Parliament
+# Polity 17 — Parliament — Self-Contained Quick-Glance Tree
 
-## Quick-Glance Tree Chart
+> Stable sequence: core concept -> origin/timeline -> decoded constitutional spine -> mechanisms -> amendments/cases/institutions -> traps -> answer spine. Every retained Article is decoded.
+
+## 1. Core Concept And Ownership
 
 ```text
-PARLIAMENT
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Parliament is the constitutional legislature of the Union, comprising the
-President, Rajya Sabha and Lok Sabha. It makes law, authorises taxation and
-expenditure, represents citizens and states, and holds the executive politically
-accountable. Unlike the British Parliament, it is not sovereign: legislative
-competence, Fundamental Rights, federalism, judicial review and the basic
-structure limit it. Its contemporary challenge is not absence of formal power
-but weakening deliberation through executive agenda control, party whips,
-limited sittings, rushed Bills and underused committees.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-TOPIC 17 OWNS:
-Articles 79-122;
-composition / membership;
-sessions;
-presiding officers;
-privileges;
-legislative / financial procedure;
-bill types / lapse / joint sitting;
-accountability devices;
-committees;
-Rajya Sabha powers;
-anti-defection interface;
-delimitation / reservation.
-                              |
-                              v
-PARLIAMENTARY SYSTEM:
-executive-legislature relationship.
-PM / COM:
-executive organisation.
-ELECTION COMMISSION:
-election administration.
-ANTI-DEFECTION:
-complete adjudication doctrine.
-BUDGET:
-public-finance detail.
-                              |
-                              v
-                  BRANCH I: ARTICLE 79
-PARLIAMENT =
-President
-+ Council of States
-+ House of People.
-                              |
-                              v
-PRESIDENT
-not a member,
-but integral component.
-                              |
-                              v
-PRESIDENTIAL FUNCTIONS
-summon,
-prorogue,
-address,
-assent,
-ordinance.
-                              |
-                              v
-BICAMERAL PURPOSE
-popular representation
-+ state / revising chamber.
-                              |
-                              v
-CONSTITUTIONAL SUPREMACY
-Parliament created /
-limited by Constitution.
-                              |
-                              v
-                  BRANCH II: RAJYA SABHA COMPOSITION
-CONSTITUTIONAL MAXIMUM
-250.
-                              |
-                              v
-ELECTED COMPONENT
-up to 238
-representing states / UTs.
-                              |
-                              v
-NOMINATED
-12 by President.
-                              |
-                              v
-FIELDS
-literature,
-science,
-art,
-social service.
-                              |
-                              v
-SANCTIONED STRENGTH
-245 in sourced current framework;
-working strength varies.
-                              |
-                              v
-STATE ELECTION
-elected MLAs
-using proportional representation
-by single transferable vote.
-                              |
-                              v
-UT REPRESENTATION
-Delhi,
-Puducherry,
-J&K
-under applicable law.
-                              |
-                              v
-SEATS
-not equal by state;
-Fourth Schedule /
-population-weighted.
-                              |
-                              v
-                  BRANCH III: LOK SABHA COMPOSITION
-CONSTITUTIONAL CEILING
-550:
-530 states
-+ 20 Union territories
-under current post-104th text.
-                              |
-                              v
-ELECTED SEATS
-543 in established allocation.
-                              |
-                              v
-ELECTION
-direct,
-universal adult franchise,
-first-past-the-post.
-                              |
-                              v
-VOTING AGE
-18,
-61st Amendment 1988.
-                              |
-                              v
-ANGLO-INDIAN NOMINATION
-former two-seat provision
-ceased through
-104th Amendment 2019 /
-effective 2020.
-                              |
-                              v
-WORKING STRENGTH
-depends on vacancies.
-                              |
-                              v
-                  BRANCH IV: DURATION
-RAJYA SABHA
-permanent,
-never dissolved.
-                              |
-                              v
-MEMBER TERM
-six years.
-                              |
-                              v
-RETIREMENT
-one-third
-every two years.
-                              |
-                              v
-LOK SABHA
-normal term five years.
-                              |
-                              v
-DISSOLUTION
-possible before term.
-                              |
-                              v
-NATIONAL EMERGENCY
-term may extend
-one year at a time.
-                              |
-                              v
-OUTER LIMIT
-not beyond six months
-after Emergency ceases.
-                              |
-                              v
-                  BRANCH V: DELIMITATION / SEAT FREEZE
-ARTICLE 81
-population-linked
-Lok Sabha representation.
-                              |
-                              v
-ARTICLE 82
-readjustment after census
-under parliamentary law.
-                              |
-                              v
-42ND AMENDMENT 1976
-froze interstate allocation
-on 1971 census
-to 2000.
-                              |
-                              v
-84TH AMENDMENT 2001
-extended freeze
-until relevant figures
-of first census after 2026
-are published.
-                              |
-                              v
-87TH AMENDMENT 2003
-allowed constituency
-boundary readjustment
-using 2001 census
-without changing state totals.
-                              |
-                              v
-SC / ST SEATS
-population-based reservation,
-no separate electorate.
-                              |
-                              v
-CAUTION
-2026 itself does not
-automatically trigger delimitation;
-publication and legal exercise matter.
-                              |
-                              v
-                  BRANCH VI: MEMBERSHIP QUALIFICATIONS
-CITIZENSHIP.
-                              |
-                              v
-OATH /
-AFFIRMATION.
-                              |
-                              v
-AGE
-Lok Sabha 25;
-Rajya Sabha 30.
-                              |
-                              v
-OTHER
-qualifications by Parliament
-under Representation of People law.
-                              |
-                              v
-ELECTORAL REGISTRATION /
-STATUTORY CONDITIONS.
-                              |
-                              v
-DISQUALIFICATION
-office of profit;
-unsound mind declared by court;
-undischarged insolvent;
-foreign citizenship /
-allegiance;
-statutory grounds;
-Tenth Schedule.
-                              |
-                              v
-DECISION
-President
-after Election Commission opinion
-for Article 102 grounds,
-except Tenth Schedule
-by presiding officer.
-                              |
-                              v
-                  BRANCH VII: VACANCIES / OATH / SALARY
-DOUBLE MEMBERSHIP
-seat vacation under law.
-                              |
-                              v
-RESIGNATION
-to Speaker /
-Chairman;
-must be voluntary / genuine.
-                              |
-                              v
-ABSENCE
-sixty days
-may lead House
-to declare vacancy,
-subject to excluded periods.
-                              |
-                              v
-OATH BEFORE SITTING
-failure can attract penalty.
-                              |
-                              v
-SALARY / ALLOWANCE
-Parliamentary law.
-                              |
-                              v
-OFFICE OF PROFIT
-prevents executive patronage,
-subject to exemptions.
-                              |
-                              v
-                  BRANCH VIII: LEADER OF OPPOSITION
-STATUS
-statutory recognition
-under 1977 law.
-                              |
-                              v
-ROLE
-institutional opposition,
-selection committees,
-scrutiny,
-alternative government.
-                              |
-                              v
-TEN-PERCENT RULE
-often invoked as convention /
-direction,
-not express constitutional threshold
-for every statutory function.
-                              |
-                              v
-CAUTION
-vacancy of recognised LoP
-does not eliminate opposition.
-                              |
-                              v
-REFORM
-clarify recognition /
-committee representation.
-                              |
-                              v
-                  BRANCH IX: SESSIONS
-ARTICLE 85
-President summons Houses.
-                              |
-                              v
-MAXIMUM GAP
-not more than six months
-between last sitting
-of one session
-and first sitting of next.
-                              |
-                              v
-MINIMUM PRACTICE
-at least twice yearly.
-                              |
-                              v
-BUDGET /
-MONSOON /
-WINTER
-conventional labels,
-not constitutional fixed calendar.
-                              |
-                              v
-SITTING
-daily meeting.
-                              |
-                              v
-SESSION
-period from first sitting
-to prorogation.
-                              |
-                              v
-                  BRANCH X: ADJOURNMENT / PROROGATION / DISSOLUTION
-ADJOURNMENT
-suspends sitting;
-presiding officer;
-pending business survives.
-                              |
-                              v
-ADJOURNMENT SINE DIE
-ends sitting
-without fixed next date;
-presiding officer.
-                              |
-                              v
-PROROGATION
-ends session;
-President;
-pending Bills survive,
-notices generally lapse.
-                              |
-                              v
-DISSOLUTION
-ends life of Lok Sabha;
-Rajya Sabha never dissolves.
-                              |
-                              v
-LAME-DUCK SESSION
-last session
-of outgoing Lok Sabha.
-                              |
-                              v
-QUORUM
-one-tenth total membership,
-Article 100(3).
-                              |
-                              v
-                  BRANCH XI: BILL LAPSE
-LAPSES ON LS DISSOLUTION:
-Bill pending in Lok Sabha.
-                              |
-                              v
-LAPSES:
-Bill passed by Lok Sabha
-but pending in Rajya Sabha.
-                              |
-                              v
-DOES NOT LAPSE:
-Bill pending in Rajya Sabha
-not yet passed by Lok Sabha.
-                              |
-                              v
-DOES NOT LAPSE:
-Bill passed by both Houses
-awaiting Presidential assent.
-                              |
-                              v
-DOES NOT LAPSE:
-Bill returned by President.
-                              |
-                              v
-DOES NOT LAPSE:
-Bill for which joint sitting
-already notified.
-                              |
-                              v
-TRAP
-prorogation does not lapse Bills.
-                              |
-                              v
-                  BRANCH XII: QUESTION HOUR / ZERO HOUR
-QUESTION HOUR
-normally first hour;
-rule-based.
-                              |
-                              v
-STARRED
-oral answer
-+ supplementary questions.
-                              |
-                              v
-UNSTARRED
-written answer,
-no supplementary.
-                              |
-                              v
-SHORT NOTICE
-urgent public importance,
-less than normal notice.
-                              |
-                              v
-ZERO HOUR
-informal Indian innovation
-since 1962.
-                              |
-                              v
-NOT
-mentioned in formal Rules.
-                              |
-                              v
-PURPOSE
-immediate public issue.
-                              |
-                              v
-                  BRANCH XIII: MOTIONS
-NO-CONFIDENCE
-Lok Sabha only;
-tests whole Council;
-admission support convention
-of fifty members.
-                              |
-                              v
-CENSURE
-specific policy /
-ministerial criticism.
-                              |
-                              v
-ADJOURNMENT MOTION
-Lok Sabha;
-definite urgent public matter;
-fifty-member support;
-censure effect.
-                              |
-                              v
-CALLING ATTENTION
-Indian innovation;
-ministerial statement.
-                              |
-                              v
-CUT MOTIONS
-policy cut:
-demand to Re 1;
-economy cut:
-specified reduction;
-token cut:
-Rs 100.
-                              |
-                              v
-PRIVILEGE MOTION
-breach allegation.
-                              |
-                              v
-                  BRANCH XIV: SPEAKER
-ELECTED
-by Lok Sabha
-from members.
-                              |
-                              v
-VACATES
-ceases member;
-resigns to Deputy Speaker;
-removed by effective majority
-after fourteen days.
-                              |
-                              v
-CONTINUITY
-does not vacate
-on dissolution;
-continues until
-before first meeting
-of new House.
-                              |
-                              v
-POWERS
-order,
-Rules,
-admissibility,
-casting vote,
-committee reference,
-joint sitting,
-Money Bill certificate,
-anti-defection.
-                              |
-                              v
-INDEPENDENCE
-salary charged
-on Consolidated Fund.
-                              |
-                              v
-KIHOTO HOLLOHAN 1992
-Tenth Schedule decision
-subject to judicial review.
-                              |
-                              v
-                  BRANCH XV: SPEAKER NEUTRALITY
-INDIAN DESIGN
-Speaker retains
-party membership.
-                              |
-                              v
-RISK
-Money Bill certification,
-defection delay,
-debate allocation,
-disciplinary action
-may appear partisan.
-                              |
-                              v
-UK CONVENTION
-once Speaker,
-politically neutral
-and normally re-elected uncontested.
-                              |
-                              v
-REFORM
-resign party;
-security of tenure;
-independent defection tribunal;
-reasoned rulings.
-                              |
-                              v
-DEPUTY SPEAKER
-elected by House.
-                              |
-                              v
-STATUS CHECK 28 AUG 2026
-Lok Sabha office vacant
-since May 2019.
-                              |
-                              v
-CAUTION
-dated vacancy
-not constitutional permission
-for indefinite non-election.
-                              |
-                              v
-                  BRANCH XVI: RAJYA SABHA CHAIR
-VICE-PRESIDENT
-ex-officio Chairman.
-                              |
-                              v
-NOT MEMBER
-of Rajya Sabha.
-                              |
-                              v
-DEPUTY CHAIRMAN
-elected by Rajya Sabha
-from members.
-                              |
-                              v
-CASTING VOTE
-Chair in tie.
-                              |
-                              v
-NO MONEY BILL CERTIFICATION.
-                              |
-                              v
-ANTI-DEFECTION
-Chairman decides
-Rajya Sabha cases.
-                              |
-                              v
-                  BRANCH XVII: PRIVILEGES
-PURPOSE
-independent parliamentary functioning,
-not personal status.
-                              |
-                              v
-ARTICLE 105
-speech freedom
-and privileges.
-                              |
-                              v
-SPEECH / VOTE IMMUNITY
-for parliamentary acts
-within constitutional scope.
-                              |
-                              v
-PUBLICATION
-authorised reports protected.
-                              |
-                              v
-HOUSE
-punishes breach / contempt,
-subject to constitutional review.
-                              |
-                              v
-SITA SOREN 2024
-seven-judge Supreme Court
-overruled P.V. Narasimha Rao
-on bribery immunity:
-legislator taking bribe
-not protected merely
-because linked to vote / speech.
-                              |
-                              v
-PRINCIPLE
-privilege protects legislative function,
-not corruption.
-                              |
-                              v
-                  BRANCH XVIII: ORDINARY BILL
-INTRODUCTION
-either House,
-minister / private member.
-                              |
-                              v
-FIRST READING
-introduction,
-publication.
-                              |
-                              v
-SECOND READING
-general discussion
--> committee
--> clause consideration.
-                              |
-                              v
-THIRD READING
-accept / reject whole.
-                              |
-                              v
-SECOND HOUSE
-pass;
-amend;
-reject;
-hold six months.
-                              |
-                              v
-DEADLOCK
-Article 108 joint sitting
-if conditions.
-                              |
-                              v
-PRESIDENT
-assent,
-withhold,
-return once.
-                              |
-                              v
-RE-PASSAGE
-ordinary majority;
-assent mandatory.
-                              |
-                              v
-                  BRANCH XIX: JOINT SITTING
-ARTICLE 108.
-                              |
-                              v
-TRIGGERS
-rejection;
-final disagreement;
-six-month inaction.
-                              |
-                              v
-SUMMONED
-by President.
-                              |
-                              v
-PRESIDED
-Speaker;
-then Deputy Speaker;
-then Deputy Chairman;
-then person determined.
-                              |
-                              v
-MAJORITY
-members present / voting.
-                              |
-                              v
-NOT FOR
-Money Bill.
-                              |
-                              v
-NOT FOR
-Constitution Amendment Bill.
-                              |
-                              v
-HELD THREE TIMES
-Dowry Prohibition 1961;
-Banking Service Commission repeal 1978;
-POTA 2002.
-                              |
-                              v
-                  BRANCH XX: MONEY BILL
-ARTICLE 110
-only listed financial matters.
-                              |
-                              v
-INTRODUCTION
-Lok Sabha only.
-                              |
-                              v
-PRESIDENTIAL RECOMMENDATION
-required.
-                              |
-                              v
-INTRODUCER
-minister.
-                              |
-                              v
-SPEAKER CERTIFICATE
-required;
-text calls final,
-subject to narrow constitutional review
-for illegality / misuse.
-                              |
-                              v
-RAJYA SABHA
-recommendations only;
-fourteen days.
-                              |
-                              v
-LOK SABHA
-may accept / reject recommendations.
-                              |
-                              v
-NO JOINT SITTING.
-                              |
-                              v
-PRESIDENT
-cannot return;
-may assent / withhold
-within text.
-                              |
-                              v
-                  BRANCH XXI: FINANCIAL BILLS
-MONEY BILL
-Article 110 subset.
-                              |
-                              v
-FINANCIAL BILL I
-Article 117(1):
-contains Article 110 matter
-+ other matter;
-Lok Sabha only /
-Presidential recommendation,
-but Rajya Sabha has ordinary-Bill power.
-                              |
-                              v
-FINANCIAL BILL II
-Article 117(3):
-involves Consolidated Fund expenditure;
-may originate either House;
-recommendation before consideration.
-                              |
-                              v
-FORMULA
-all Money Bills
-are Financial Bills;
-not all Financial Bills
-are Money Bills.
-                              |
-                              v
-CONTROVERSY
-Aadhaar /
-Finance Act certification;
-larger-bench issue
-requires current case status.
-                              |
-                              v
-                  BRANCH XXII: CONSTITUTION AMENDMENT BILL
-ARTICLE 368.
-                              |
-                              v
-EITHER HOUSE.
-                              |
-                              v
-NO PRIOR PRESIDENTIAL RECOMMENDATION.
-                              |
-                              v
-SPECIAL MAJORITY
-in each House separately.
-                              |
-                              v
-NO JOINT SITTING.
-                              |
-                              v
-FEDERAL SUBJECT
-half-state ratification.
-                              |
-                              v
-PRESIDENT
-must assent.
-                              |
-                              v
-BASIC STRUCTURE
-substantive limit.
-                              |
-                              v
-                  BRANCH XXIII: BUDGET / FUNDS
-ARTICLE 112
-Annual Financial Statement.
-                              |
-                              v
-CONSOLIDATED FUND OF INDIA
-all revenues,
-loans,
-loan recoveries;
-withdrawal by appropriation law.
-                              |
-                              v
-PUBLIC ACCOUNT
-other public moneys;
-withdrawal rules,
-not appropriation vote.
-                              |
-                              v
-CONTINGENCY FUND
-urgent advances,
-later authorisation.
-                              |
-                              v
-CHARGED EXPENDITURE
-discussed,
-not voted.
-                              |
-                              v
-VOTED EXPENDITURE
-demands for grants
-in Lok Sabha.
-                              |
-                              v
-APPROPRIATION BILL
-authorises withdrawal.
-                              |
-                              v
-FINANCE BILL
-tax proposals.
-                              |
-                              v
-                  BRANCH XXIV: PARLIAMENTARY FINANCIAL CONTROL
-BUDGET DEBATE.
-                              |
-                              v
-DEMANDS FOR GRANTS
-Lok Sabha.
-                              |
-                              v
-CUT MOTIONS.
-                              |
-                              v
-APPROPRIATION.
-                              |
-                              v
-TAX AUTHORISATION.
-                              |
-                              v
-SUPPLEMENTARY /
-ADDITIONAL /
-EXCESS GRANTS.
-                              |
-                              v
-VOTE ON ACCOUNT /
-CREDIT /
-EXCEPTIONAL GRANT.
-                              |
-                              v
-CAG REPORTS
-to committees.
-                              |
-                              v
-LIMIT
-guillotine,
-time pressure,
-party majority.
-                              |
-                              v
-                  BRANCH XXV: EXECUTIVE CONTROL
-COLLECTIVE RESPONSIBILITY
-Article 75(3).
-                              |
-                              v
-NO-CONFIDENCE.
-                              |
-                              v
-QUESTIONS /
-MOTIONS /
-DEBATES.
-                              |
-                              v
-FINANCIAL CONTROL.
-                              |
-                              v
-COMMITTEES.
-                              |
-                              v
-POLICY / REPORT SCRUTINY.
-                              |
-                              v
-IMPEACHMENT /
-REMOVAL FUNCTIONS
-for specified offices.
-                              |
-                              v
-LIMIT
-majority government
-controls agenda /
-vote.
-                              |
-                              v
-                  BRANCH XXVI: FINANCIAL COMMITTEES
-PUBLIC ACCOUNTS COMMITTEE
-22:
-15 Lok Sabha
-+ 7 Rajya Sabha.
-                              |
-                              v
-PAC
-examines CAG reports /
-appropriation;
-post-mortem control.
-                              |
-                              v
-PAC CHAIR
-Opposition member
-by convention since 1967.
-                              |
-                              v
-ESTIMATES COMMITTEE
-30,
-Lok Sabha only.
-                              |
-                              v
-ROLE
-economy,
-efficiency,
-alternative policy,
-budget estimates.
-                              |
-                              v
-COMMITTEE ON PUBLIC UNDERTAKINGS
-22:
-15 Lok Sabha
-+ 7 Rajya Sabha.
-                              |
-                              v
-ROLE
-public enterprises /
-CAG commercial reports.
-                              |
-                              v
-MINISTERS
-cannot be members
-of financial committees.
-                              |
-                              v
-                  BRANCH XXVII: DRSCs
-NUMBER
-24.
-                              |
-                              v
-ALLOCATION
-16 Lok Sabha-related;
-8 Rajya Sabha-related.
-                              |
-                              v
-MEMBERS
-31:
-21 Lok Sabha
-+ 10 Rajya Sabha.
-                              |
-                              v
-MINISTERS
-cannot be members.
-                              |
-                              v
-EXAMINE
-Demands for Grants;
-Bills referred;
-annual reports;
-long-term policy documents.
-                              |
-                              v
-STRENGTH
-specialisation,
-cross-party work,
-evidence gathering.
-                              |
-                              v
-LIMIT
-recommendatory;
-not every Bill referred;
-time / research constraints.
-                              |
-                              v
-                  BRANCH XXVIII: OTHER COMMITTEES
-SELECT COMMITTEE
-one House,
-Bill-specific.
-                              |
-                              v
-JOINT COMMITTEE
-both Houses,
-Bill-specific.
-                              |
-                              v
-JOINT PARLIAMENTARY COMMITTEE
-ad hoc inquiry.
-                              |
-                              v
-BUSINESS ADVISORY /
-RULES /
-PRIVILEGES /
-PETITIONS /
-SUBORDINATE LEGISLATION
-procedural / oversight.
-                              |
-                              v
-CONSULTATIVE COMMITTEES
-minister-chaired,
-not parliamentary committees.
-                              |
-                              v
-TRAP
-committee status depends
-on House creation /
-membership,
-not name alone.
-                              |
-                              v
-                  BRANCH XXIX: RAJYA SABHA SPECIAL POWERS
-ARTICLE 249
-two-thirds present / voting
-authorises Parliament
-on State List
-for national interest.
-                              |
-                              v
-ARTICLE 312
-two-thirds present / voting
-authorises creation
-of All-India Service.
-                              |
-                              v
-VICE-PRESIDENT REMOVAL
-resolution originates
-in Rajya Sabha.
-                              |
-                              v
-FEDERAL VOICE
-represents states,
-though unequal seats.
-                              |
-                              v
-CONTINUITY
-permanent House
-during Lok Sabha dissolution.
-                              |
-                              v
-UNEQUAL AREAS
-Money Bills;
-Demands for Grants;
-confidence;
-joint-sitting numbers.
-                              |
-                              v
-VERDICT
-not merely supporting organ,
-but structurally weaker
-on executive / finance.
-                              |
-                              v
-                  BRANCH XXX: ANTI-DEFECTION / INDIVIDUAL MP
-TENTH SCHEDULE
-52nd Amendment 1985.
-                              |
-                              v
-DISQUALIFICATION
-voluntary party relinquishment;
-whip violation
-without condonation;
-independent joining party;
-nominated member after six months.
-                              |
-                              v
-DECISION
-Speaker / Chairman.
-                              |
-                              v
-KIHOTO HOLLOHAN
-judicial review.
-                              |
-                              v
-91ST AMENDMENT
-merger threshold two-thirds;
-ministership bar.
-                              |
-                              v
-BENEFIT
-stability.
-                              |
-                              v
-COST
-MP deliberative autonomy /
-executive scrutiny.
-                              |
-                              v
-REFORM
-whip limited to
-confidence / money /
-core manifesto.
-                              |
-                              v
-                  BRANCH XXXI: PARLIAMENTARY DECLINE
-FEWER SITTING DAYS
-long-run trend.
-                              |
-                              v
-DISRUPTION
-lost scrutiny time.
-                              |
-                              v
-RUSHED BILLS
-limited debate /
-committee referral.
-                              |
-                              v
-WHIP
-individual MP decline.
-                              |
-                              v
-EXECUTIVE AGENDA CONTROL.
-                              |
-                              v
-MONEY BILL /
-ORDINANCE /
-DELEGATED LAW
-bicameral / deliberative bypass.
-                              |
-                              v
-WEAK PRIVATE MEMBERS'
-LEGISLATION.
-                              |
-                              v
-COUNTER
-committee evidence,
-live debate,
-opposition,
-public broadcast,
-judicial limits.
-                              |
-                              v
-                  BRANCH XXXII: REFORM
-CALENDAR
-minimum predictable sittings.
-                              |
-                              v
-COMMITTEE REFERRAL
-default with urgency exception.
-                              |
-                              v
-RESEARCH
-strengthen members /
-committees.
-                              |
-                              v
-WHIP
-narrow.
-                              |
-                              v
-SPEAKER
-greater insulation /
-reasoned decisions.
-                              |
-                              v
-DEPUTY SPEAKER
-timely election.
-                              |
-                              v
-MONEY BILL
-narrow certification /
-review.
-                              |
-                              v
-POST-LEGISLATIVE SCRUTINY.
-                              |
-                              v
-PUBLIC CONSULTATION.
-                              |
-                              v
-                  BRANCH XXXIII: WOMEN'S RESERVATION
-106TH AMENDMENT 2023
-Nari Shakti Vandan Adhiniyam.
-                              |
-                              v
-INSERTED
-Articles 330A,
-332A,
-334A.
-                              |
-                              v
-RESERVATION
-one-third in covered
-Lok Sabha /
-State Assemblies,
-including within SC / ST seats.
-                              |
-                              v
-COMMENCED
-16 April 2026
-through S.O. 1922(E).
-                              |
-                              v
-NOT OPERATIONAL
-Article 334A requires
-publication of relevant
-first post-commencement census figures
-+ delimitation for purpose.
-                              |
-                              v
-CAUTION
-commencement != seat implementation;
-no election year
-should be invented.
-                              |
-                              v
-                  BRANCH XXXIV: CENSUS 2027 / DELIMITATION
-HOUSING CENSUS
-1 April-30 September 2026 window,
-state-specific thirty-day period.
-                              |
-                              v
-POPULATION ENUMERATION
-February 2027;
-snow-bound areas
-September 2026.
-                              |
-                              v
-REFERENCE DATES
-1 March 2027 generally;
-1 October 2026
-snow-bound areas.
-                              |
-                              v
-FIRST FULLY DIGITAL CENSUS
-+ self-enumeration;
-caste enumeration announced.
-                              |
-                              v
-CONSTITUTIONAL TRIGGERS
-Article 82 freeze
-+ Article 334A.
-                              |
-                              v
-DEPEND
-on publication
-of relevant figures.
-                              |
-                              v
-NO SAFE CLAIM
-on publication /
-delimitation /
-women-reservation election date.
-                              |
-                              v
-                  BRANCH XXXV: 131ST AMENDMENT BILL 2026
-PROPOSED
-Article 81 ceiling
-550 to 850.
-                              |
-                              v
-INTRODUCED
-16 April 2026.
-                              |
-                              v
-VOTE
-17 April:
-298 for,
-230 against,
-528 present / voting.
-                              |
-                              v
-FAILED
-two-thirds present-voting limb.
-                              |
-                              v
-STATUS
-defeated;
-never law;
-linked Bills withdrawn.
-                              |
-                              v
-USE
-illustrates Article 368
-special-majority arithmetic.
-                              |
-                              v
-PROHIBITED INFERENCE
-no seat projection /
-implementation date /
-precedent.
-                              |
-                              v
-                    CONSTITUTIONAL CASE / EXAMPLE BANK
-KIHOTO HOLLOHAN 1992
-defection review.
-                              |
-                              v
-ROJER MATHEW /
-PUTTASWAMY MONEY-BILL LINE
-certification concern.
-                              |
-                              v
-SITA SOREN 2024
-bribery not privilege.
-                              |
-                              v
-106TH AMENDMENT
-commenced / not operational.
-                              |
-                              v
-PAC / ESTIMATES / COPU
-financial accountability.
-                              |
-                              v
-DRSC
-deliberative substitute
-for time-constrained floor.
-                              |
-                              v
-                    SOURCE CRITICISM
-constitutional maximum != working strength;
-sanctioned strength != filled seats;
-prorogation != dissolution;
-Money Bill != every Financial Bill;
-Speaker finality != immunity from constitutional review;
-privilege != corruption immunity;
-committee report != binding law;
-bill passage != scrutiny quality;
-commencement != operational reservation;
-proposal / defeated Bill != law.
-                              |
-                              v
-                    MAJOR DEBATES
-SOVEREIGN OR LIMITED?
-constitutional supremacy.
-                              |
-                              v
-DELIBERATION OR MAJORITY RULE?
-efficient decision
-needs meaningful scrutiny.
-                              |
-                              v
-SPEAKER:
-PARTY MEMBER OR NEUTRAL UMPIRE?
-institutional reform.
-                              |
-                              v
-RAJYA SABHA:
-OBSTRUCTION OR REVISION?
-federal / deliberative check.
-                              |
-                              v
-COMMITTEE:
-MINI-PARLIAMENT OR ADVISORY?
-expert scrutiny,
-non-binding output.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-President part of Parliament;
-Rajya Sabha permanent;
-Lok Sabha no nominated Anglo-Indians;
-RS STV,
-LS FPTP;
-Zero Hour not Rules;
-prorogation by President;
-Money Bill LS only;
-RS fourteen-day recommendations;
-joint sitting not Money / Amendment;
-Estimates LS only;
-PAC 15+7;
-DRSC 24 / 31 members;
-bill pending only in RS does not lapse;
-privilege does not shield bribery.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT MAINS:
-2018 GS-II Q4
-committees /
-Estimates Committee;
-2019 GS-II Q15
-decline of individual parliamentarian;
-2020 GS-II Q5
-once a Speaker always a Speaker;
-2020 GS-II Q14
-Rajya Sabha as supporting organ;
-2021 GS-II Q4
-executive accountability;
-2021 GS-II Q15
-DRSC working;
-2023 GS-II Q16
-committee structure /
-financial committees;
-2024 GS-II Q3
-cabinet growth /
-Parliament marginalisation.
-No Mains answer key.
-                              |
-                              v
-PRELIMS ROUTING STATUS
-2018-2023 official keys
-unavailable locally;
-2024-2025 official Set-A keys held
-but package does not reproduce /
-infer option letters;
-2026 local key provisional.
-Chart preserves demand-level routing
-without inventing letters.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-Article 79
--> RS / LS composition
--> term / delimitation
--> membership
--> sessions / lapse
--> devices
--> Speaker / privilege
--> ordinary / money /
-financial / amendment Bills
--> budget
--> committees
--> RS powers
--> anti-defection
--> current reservation.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-PARLIAMENT QUESTION:
-constitutional role
--> composition / bicameral purpose
--> relevant procedure
--> accountability mechanism
--> practical deficit
--> case / current control
--> reform
--> constitutional-supremacy conclusion.
-                              |
-                              v
-COMMITTEE QUESTION:
-need
--> structure
--> functions
--> evidence advantage
--> limits
--> mandatory-referral /
-research reform
--> deliberative verdict.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-Parliament remains the central forum of representation, law and executive
-accountability, but constitutional authority does not guarantee deliberative
-quality. Bicameralism, financial control, privileges and committees matter only
-when time, information and political space permit scrutiny. Strengthening
-Parliament requires predictable sittings, routine committee examination,
-narrower whips, impartial presiding officers and careful use of Money Bills and
-ordinances, while preserving constitutional and judicial limits on majority
-power.
+PARLIAMENT = President + Rajya Sabha + Lok Sabha (Article 79)
+|
++-- law-making and constitutional amendment
++-- taxation, supply and expenditure authorisation
++-- representation of people and States
++-- executive accountability
++-- deliberation, petitions, committees and public record
+`-- constitutionally limited: competence + rights + federalism + review + basic structure
+
+Cross-links after minimum rule:
+- Article 75(3): Council collectively responsible to Lok Sabha -> detailed owner Topic 16.
+- Article 123: temporary ordinance power during the specified recess condition -> President interface.
+- Tenth Schedule: defection grounds and adjudication -> anti-defection owner.
+- Article 368: special amendment procedure and basic-structure limit -> amendment owner.
+```
+
+## 2. Origin And Timeline
+
+```text
+Ancient sabha/samiti -> historical vocabulary, not direct legal source
+1861-1935 councils -> representation, questions, budget discussion and bicameral experience
+1946-49 Constituent Assembly -> responsible government + bicameralism + constitutional supremacy
+1950 Articles 79-122 commence
+1951 First Amendment, s.6 -> substituted Article 85(1)-(2): six-month inter-session ceiling plus presidential prorogation/dissolution powers
+1952 first Lok Sabha / Council of States begin
+1985 52nd Amendment -> Article 102(2) + Tenth Schedule defection disqualification
+2001 84th Amendment, ss.3-7 -> Article 81(3) proviso, Article 82 third proviso and linked Articles 170/330/332: freeze extended to first post-2026 census publication; 1991 data enabled limited boundary/reserved-seat readjustment
+2003 87th Amendment, ss.2-5 -> Article 81(3) proviso cl.(ii), Article 82 third proviso cl.(ii), Article 170(2)/(3) Explanations and Article 330 Explanation: 1991 replaced by 2001 census
+2019 104th Amendment, s.2 -> Article 334 long line: eighty years for cl.(a) SC/ST reservation, seventy years for cl.(b) Anglo-Indian special representation; latter ceased after 2020
+2023 106th Amendment, ss.2-5 -> inserted Article 239AA(2)(ba)-(bc), Articles 330A/332A/334A: one-third women's reservation, including within SC/ST seats, after the census-publication/delimitation trigger
+```
+
+## 3. Articles 79-88 — Organisation, Composition And Time
+
+```text
+79 -> President + Council of States + House of the People constitute Parliament.
+80 -> Rajya Sabha: State/UT representation + 12 presidential nominees in literature, science, art and social service.
+81 -> Lok Sabha: State/UT seats and population-representation principles; current elected strength 543, vacancies vary.
+82 -> readjustment follows census through parliamentary law/authority, subject to constitutional freeze provisos.
+83 -> Rajya Sabha continues; LS normally five years; Emergency extension one year at a time, max six months after cessation.
+84 -> citizenship, prescribed oath-related requirement, age 30 RS/25 LS and qualifications by parliamentary law.
+85 -> President summons/prorogues and dissolves LS; max six months between last sitting and next session's first sitting.
+86 -> President may address either/both Houses and send messages.
+87 -> special address after general election and first session each year; Houses discuss the address.
+88 -> ministers/Attorney-General may participate across Houses/joint sitting/committees; vote follows membership.
+```
+
+## 4. Articles 89-106 — Officers, Secretariats And Membership
+
+```text
+89-92 -> Vice-President is ex officio RS Chairman; RS elects Deputy Chairman; vacancy/acting/removal safeguards decoded.
+93-96 -> LS elects Speaker/Deputy Speaker; effective-majority removal + 14 days' notice; Speaker survives dissolution to new House's first sitting.
+97 -> presiding-officer salaries/allowances by parliamentary law and charged on Consolidated Fund.
+98 -> each House has separate secretariat; common posts possible; Parliament regulates service conditions.
+99 -> Third Schedule oath/affirmation before taking seat.
+100 -> present-and-voting majority; chair casting vote on equality; vacancies do not invalidate proceedings; quorum one-tenth.
+101 -> double membership, resignation, disqualification vacancy and sixty-day unauthorised-absence route.
+102(1) -> office of profit, court-declared unsound mind, undischarged insolvency, foreign citizenship/allegiance, statutory grounds.
+102(2) -> Tenth Schedule defection disqualification, inserted by 52nd Amendment (1985).
+103 -> President decides Article 102(1) sitting-member question after obtaining ECI opinion.
+104 -> daily constitutional monetary liability for knowingly sitting/voting before oath or while unqualified/disqualified.
+105 -> speech/vote/publication immunity and House privileges; functional, not criminal impunity.
+106 -> MPs' salaries/allowances determined by parliamentary law.
+Current checked 7 September 2026 -> Speaker Om Birla; LS Deputy Speaker vacant; RS Chairman C. P. Radhakrishnan; Deputy Chairman Harivansh.
+```
+
+## 5. Sessions, Language, Questions, Motions And Resolutions
+
+```text
+SESSION (President summons/prorogues) -> SITTING (chair adjourns/sine die)
+Budget/Monsoon/Winter -> convention, not constitutional categories.
+Article 120 -> Hindi or English; chair may permit mother tongue.
+Question Hour -> starred oral + supplementaries; unstarred written; short-notice urgent oral; private-member questions possible.
+Zero Hour -> informal Indian innovation since 1962; not written in Rules.
+Calling Attention -> urgent ministerial statement; no vote.
+Adjournment Motion -> LS extraordinary urgent-public-matter censure; fifty-member support.
+No-confidence -> LS Rule 198; fifty-member leave; reasons unnecessary; passage tests whole Council under Article 75(3).
+Censure -> reasons/policy or actor specified; politically serious but not identical to no-confidence.
+Resolution -> self-contained substantive decision/opinion; every resolution is a motion, not every motion a resolution.
+Cut motions -> policy Re 1; economy specified reduction; token Rs 100.
+```
+
+## 6. Articles 107-111 — Law-Making, Deadlock And Assent
+
+```text
+107 -> ordinary Bill may originate either House; both ordinarily agree; prorogation does not lapse Bills.
+Ordinary route -> introduction -> principle -> committee/detailed scrutiny -> clauses -> third reading -> second House -> President.
+Government Bill -> minister sponsor; Private Member's Bill -> non-minister sponsor under allotted House time.
+108 -> eligible deadlock: rejection, final amendment disagreement or >6-month delay -> President may summon joint sitting.
+Joint sitting excluded -> Money Bill and Constitution Amendment Bill.
+Three instances -> Dowry Prohibition 1961; Banking Service Commission Repeal 1978; POTA 2002.
+109 -> Money Bill LS-only; RS recommendations within 14 days; LS may accept/reject; no joint sitting.
+110 -> Bill must contain ONLY listed money matters + incidental provisions; Speaker certifies.
+111 -> President: assent/withhold; may return non-Money Bill once; repassage makes assent mandatory.
+Lapse on LS dissolution -> Bill pending in LS; Bill passed by LS pending in RS.
+No lapse -> RS-pending not passed by LS; both-House-passed awaiting assent; returned Bill; notified joint-sitting intention.
+```
+
+## 7. Articles 112-119 — Budget And Financial Bills
+
+```text
+112 Annual Financial Statement -> estimated receipts/expenditure + charged/voted split.
+113 -> charged expenditure discussed, not voted; LS votes demands for grants on presidential recommendation.
+114 -> Appropriation Act legally authorises withdrawal from Consolidated Fund.
+115 -> supplementary/additional/excess grants.
+116 -> vote on account / vote of credit / exceptional grant.
+117(1) Financial Bill-I -> Article 110 matter + other matter; LS-only introduction + recommendation; RS otherwise ordinary power.
+117(3) Financial Bill-II -> either-House origin; recommendation before consideration; ordinary bicameral power.
+118 -> House rules and joint-sitting procedure.
+119 -> Parliament may by law regulate financial-business completion.
+Power-of-purse chain -> Budget -> grants/cut motions -> appropriation -> execution -> CAG -> PAC.
+```
+
+## 8. Committees, Delegated Legislation And Accountability
+
+```text
+Standing -> financial / DRSC / inquiry / scrutiny-control / day-to-day House committees.
+Ad hoc -> Select or Joint Committee on Bill; inquiry JPC.
+PAC -> 22 (15 LS+7 RS); CAG-linked post-expenditure regularity; Opposition chair by convention.
+Estimates -> 30 LS only; economies, efficiency and estimate presentation.
+CoPU -> 22 (15 LS+7 RS); specified public undertakings.
+DRSCs -> 24; normally 31 each (21 LS+10 RS); demands, referred Bills, annual reports, long-term policy; ministers barred.
+Subordinate Legislation Committee -> checks rules/regulations against parent Act, delegation and procedure.
+Government Assurances Committee -> tracks ministerial undertakings on floor.
+Ethics Committee -> unethical conduct; distinct from privilege breach.
+Private Members' Bills and Resolutions Committee -> classification/time allocation for LS private business.
+Committee value -> time + expertise + evidence + cross-party work.
+Limit -> advisory reports + discretionary referral + one-year term + attendance/research constraints.
+```
+
+## 9. Rajya Sabha, Lok Sabha And Parliamentary Sovereignty Limits
+
+```text
+EQUAL -> ordinary Bills, Article 368 amendments, impeachment/removal participation, elections where Constitution so provides.
+LOK SABHA SPECIAL -> confidence Art 75(3); demands Art 113; Money/Financial-I origin Arts 109/117; joint-sitting numbers.
+RAJYA SABHA SPECIAL ->
+  Art 249: 2/3 present/voting national-interest resolution opens temporary State-List competence.
+  Art 312: same gateway authorises creation of All India Service by parliamentary law.
+  Art 67(b): initiates Vice-President removal; LS agrees.
+  Arts 352/356/360: approval-continuity bridge when LS is dissolved, subject to later LS approval.
+INDIAN PARLIAMENT != WESTMINSTER SOVEREIGN ->
+  limited by Seventh Schedule competence, Fundamental Rights, federalism, special procedures, judicial review and basic structure.
+```
+
+## 10. Amendments And Cases — Exact Effect / One-Line Holding
+
+```text
+First Amendment 1951, s.6 -> substituted Article 85(1)-(2): six-month inter-session control and presidential prorogation/dissolution powers.
+31st Amendment 1973, s.2 -> Article 81(1)(a)-(b) and proviso to Article 81(2)(a): raised then-applicable State ceiling to 525, fixed UT ceiling at 20 and protected small States from strict inter-State ratio.
+42nd Amendment 1976, ss.24-25 -> proviso to Article 81(3) and third proviso to Article 82: 1971 census basis retained until publication of the first census after 2000.
+52nd Amendment 1985, s.3 and Schedule -> inserted Article 102(2) and the Tenth Schedule: parliamentary defection becomes disqualification.
+61st Amendment 1988, s.2 -> Article 326: voting age reduced from 21 to 18, enlarging the Lok Sabha electorate.
+84th Amendment 2001, ss.3-7 -> Article 81(3) proviso, Article 82 third proviso and linked Articles 170/330/332: extended the freeze and enabled 1991-based limited readjustment.
+87th Amendment 2003, ss.2-5 -> Article 81(3) proviso cl.(ii), Article 82 third proviso cl.(ii), Article 170(2)/(3) Explanations and Article 330 Explanation: 1991 replaced by 2001.
+104th Amendment 2019, s.2 -> Article 334: cl.(a) SC/ST reservation extended to eighty years; cl.(b) Anglo-Indian special representation retained only for seventy years and ceased.
+106th Amendment 2023, ss.2-5 -> Article 239AA(2)(ba)-(bc) plus Articles 330A/332A/334A: one-third women's reservation, including SC/ST sub-reservation, after the statutory trigger.
+Kuldip Nayar (2006) -> upheld RS open ballot and removal of State-domicile requirement.
+Kihoto Hollohan (1992) -> Speaker's Tenth Schedule decision subject to judicial review.
+Lily Thomas (2013) -> invalidated RPA s.8(4) sitting-member conviction shield.
+Raja Ram Pal (2007) -> expulsion power exists, but privilege action is reviewable for substantive illegality.
+Sita Soren (2024) -> bribery for speech/vote receives no legislative immunity; overrules PV Narasimha Rao on that point.
+Rojer Mathew (2019) -> Money Bill certification not wholly immune; broader Article 110 issue referred to larger Bench.
+D.C. Wadhwa (1987) / Krishna Kumar Singh (2017) -> routine ordinance repromulgation is constitutionally impermissible.
+```
+
+## 11. Current Control, Traps And Reform
+
+```text
+106th Amendment -> commenced 16 April 2026; reservation still non-operational under Article 334A sequence.
+Census 2027 -> notified; publication date of relevant figures and delimitation date remain unknown.
+2026 delimitation-linked Bills -> introduced, constitutional amendment defeated 17 April 2026; proposals never became law.
+Rojer Mathew larger-Bench Article 110 issue -> no final official judgment located by 7 September 2026.
+
+TRAPS:
+- President part of Parliament, not House member.
+- RS State seats unequal; RS permanent, members not permanent.
+- Article 85 has no three-session or sitting-day minimum.
+- Speaker continues after dissolution; no constitutional party-resignation duty.
+- Money Bill != every Finance Bill; Appropriation != taxation.
+- charged expenditure discussable, not voted.
+- joint sitting excludes Money and amendment Bills.
+- Article 122 irregularity shield != immunity from substantive review.
+
+REFORM:
+minimum sitting calendar + default committee referral + protected Question Hour
++ reasoned/timely presiding rulings + narrower survival whip
++ pre-legislative consultation + post-legislative review + research support.
+```
+
+## 12. Answer Spine And Qualified Verdict
+
+```text
+1 DEFINE -> Article 79 tripartite, bicameral and constitutionally limited institution.
+2 CLASSIFY SOURCE -> text / statute / House rule / convention / judgment / dated practice.
+3 MAP MECHANISM -> representation -> deliberation -> legislation/supply -> scrutiny -> accountability.
+4 NAME EVIDENCE -> exact Article + committee/case/amendment + one-line effect.
+5 EVALUATE -> formal capacity versus political use; popular mandate versus federal revision.
+6 QUALIFY -> procedure autonomy does not erase constitutional review; stability does not justify deliberative bypass.
+7 REFORM -> target the diagnosed mechanism, not generic 'strengthening'.
+
+VERDICT:
+Parliament remains constitutionally powerful but never sovereign; democratic authority becomes legitimate
+when popular choice, federal revision, financial consent, detailed scrutiny and constitutional limits operate together.
 ```

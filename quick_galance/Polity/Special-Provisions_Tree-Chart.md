@@ -1,1208 +1,187 @@
-# Polity 22 - Special Provisions
+# Polity 22 - Special Provisions - Self-Contained Quick-Glance Tree
 
-## Quick-Glance Tree Chart
+> Stable sequence: core concept -> origin/timeline -> State-wise decoded spine -> mechanisms/orders -> amendments/cases -> traps -> answer spine. Current status checked 7 September 2026.
+
+## 1. CORE CONCEPT AND OWNERSHIP
 
 ```text
-SPECIAL PROVISIONS FOR SOME STATES
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Part XXI expresses asymmetric federalism: equal citizenship and membership in
-one Union coexist with differentiated constitutional arrangements for identity,
-customary law, land, representation, regional development and security.
-Asymmetry is not a concession outside federalism but a technique of integration
-through constitutionally bounded difference. Each Article assigns a distinct
-subject, beneficiary and decision-maker; no generic "special status" formula
-exists. Article 370's former J&K arrangement must be separated from the living
-Articles 371 to 371J and from Fifth and Sixth Schedule institutions.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-TOPIC 22 OWNS:
-Part XXI state-specific asymmetry;
-Articles 371-371J;
-minimum Article 370 / 35A
-history and current status;
-State,
-actor,
-amendment
-and consent distinctions.
-                              |
-                              v
-TOPIC 25:
-J&K / Ladakh UT machinery.
-TOPIC 26:
-Fifth / Sixth Schedules.
-TOPIC 23:
-PESA.
-FEDERAL SYSTEM:
-general asymmetry theory.
-HISTORY:
-accession / movement narrative.
-                              |
-                              v
-                  BRANCH I: PART XXI
-TITLE
-Temporary,
-Transitional
-and Special Provisions.
-                              |
-                              v
-INCLUDES
-Article 369;
-Articles 370-371J;
-Articles 372-392
-transitional / miscellaneous continuities.
-                              |
-                              v
-THIS TOPIC
-focuses Articles 371-371J
-+ minimum Article 370.
-                              |
-                              v
-PURPOSE
-manage historical agreements,
-regional imbalance,
-tribal identity,
-customary law,
-administrative transition.
-                              |
-                              v
-METHOD
-different constitutional treatment
-for substantively different conditions.
-                              |
-                              v
-                  BRANCH II: ASYMMETRIC FEDERALISM
-SYMMETRY
-same institutional powers
-for every unit.
-                              |
-                              v
-ASYMMETRY
-different powers /
-safeguards /
-procedures
-within one federation.
-                              |
-                              v
-RATIONALE
-accommodation,
-peace,
-integration,
-identity protection,
-balanced development.
-                              |
-                              v
-BENEFIT
-reduces pressure
-for uniform assimilation.
-                              |
-                              v
-RISK
-complexity,
-unequal expectations,
-elite capture,
-inter-regional grievance.
-                              |
-                              v
-CONSTITUTIONAL LIMIT
-tailored provision
-does not create sovereignty /
-secession.
-                              |
-                              v
-                  BRANCH III: ARTICLE 370 - ORIGINAL DESIGN
-STATE
-Jammu and Kashmir.
-                              |
-                              v
-LOCATION
-Part XXI.
-                              |
-                              v
-CHARACTER
-temporary provision.
-                              |
-                              v
-FORMER EFFECT
-own Constitution;
-separate flag;
-limited Union-law application
-through constitutional orders /
-concurrence framework.
-                              |
-                              v
-ARTICLE 35A
-inserted through
-1954 Presidential Order.
-                              |
-                              v
-PERMANENT RESIDENTS
-special rules
-on land,
-employment
-and benefits.
-                              |
-                              v
-CAUTION
-historical operation
-must not be stated
-as current law.
-                              |
-                              v
-                  BRANCH IV: 2019 CONSTITUTIONAL CHANGE
-5 AUGUST 2019
-C.O. 272.
-                              |
-                              v
-6 AUGUST 2019
-C.O. 273.
-                              |
-                              v
-RESULT
-Article 370 rendered inoperative
-for operative purposes.
-                              |
-                              v
-TEXT
-Article remains printed;
-not formally deleted.
-                              |
-                              v
-ARTICLE 35A
-ceased with supersession
-of 1954 Order.
-                              |
-                              v
-J&K REORGANISATION ACT 2019
-effective 31 October 2019.
-                              |
-                              v
-FORMER STATE
-split into:
-J&K UT with legislature;
-Ladakh UT without legislature.
-                              |
-                              v
-                  BRANCH V: IN RE ARTICLE 370 2023
-DATE
-11 December 2023.
-                              |
-                              v
-COURT
-Supreme Court,
-unanimous outcome.
-                              |
-                              v
-HELD
-Article 370 temporary.
-                              |
-                              v
-HELD
-J&K possessed
-no separate internal sovereignty.
-                              |
-                              v
-UPHELD
-constitutional result
-of 2019 measures.
-                              |
-                              v
-ARTICLE 367 SUBSTITUTION
-held invalid
-to stated extent
-but unnecessary
-to final outcome.
-                              |
-                              v
-LADAKH
-UT creation upheld.
-                              |
-                              v
-J&K STATE-TO-UT
-not finally adjudicated
-after Union assurance
-of restoration.
-                              |
-                              v
-ELECTION DIRECTION
-Assembly election
-by September 2024.
-                              |
-                              v
-STATEHOOD
-restore at earliest;
-no judicial deadline.
-                              |
-                              v
-                  BRANCH VI: CURRENT J&K / LADAKH
-ASSEMBLY ELECTION
-held September-October 2024.
-                              |
-                              v
-J&K
-Union Territory
-with elected 90-member Assembly.
-                              |
-                              v
-LADAKH
-Union Territory
-without legislature.
-                              |
-                              v
-STATEHOOD
-not restored
-by 5 September 2026.
-                              |
-                              v
-SIXTH SCHEDULE
-not extended to Ladakh
-by that date.
-                              |
-                              v
-POLITICAL DEMAND
-statehood /
-tribal safeguards
-continues.
-                              |
-                              v
-CAUTION
-assurance / protest
-does not alter operative law.
-                              |
-                              v
-                  BRANCH VII: ARTICLE 371
-STATES
-Maharashtra
-and Gujarat.
-                              |
-                              v
-PRESIDENT
-may assign Governor
-special responsibility.
-                              |
-                              v
-DEVELOPMENT BOARDS
-Vidarbha,
-Marathwada;
-Saurashtra,
-Kutch
-and specified regions.
-                              |
-                              v
-ANNUAL REPORT
-to State Assembly.
-                              |
-                              v
-EQUITABLE ALLOCATION
-development expenditure.
-                              |
-                              v
-OPPORTUNITY
-technical / vocational education
-+ State services.
-                              |
-                              v
-PURPOSE
-intra-state regional balance.
-                              |
-                              v
-                  BRANCH VIII: ARTICLE 371A
-STATE
-Nagaland.
-                              |
-                              v
-ORIGIN
-13th Amendment 1962.
-                              |
-                              v
-ASSEMBLY-CONSENT SHIELD
-Parliamentary law
-does not apply unless Assembly resolves
-for specified subjects.
-                              |
-                              v
-SUBJECT 1
-Naga religious /
-social practices.
-                              |
-                              v
-SUBJECT 2
-Naga customary law /
-procedure.
-                              |
-                              v
-SUBJECT 3
-administration of civil /
-criminal justice
-involving customary law.
-                              |
-                              v
-SUBJECT 4
-ownership / transfer
-of land and resources.
-                              |
-                              v
-GOVERNOR
-special law-and-order
-responsibility
-under transitional text /
-individual judgment after consultation.
-                              |
-                              v
-TUENSANG
-additional transitional machinery.
-                              |
-                              v
-STRENGTH
-one of strongest
-custom / land protections.
-                              |
-                              v
-                  BRANCH IX: ARTICLE 371B
-STATE
-Assam.
-                              |
-                              v
-ORIGIN
-22nd Amendment 1969.
-                              |
-                              v
-PRESIDENT
-may constitute
-committee of Assembly.
-                              |
-                              v
-MEMBERS
-from specified tribal areas
-+ others named
-by Presidential order.
-                              |
-                              v
-PURPOSE
-tribal-area legislative voice.
-                              |
-                              v
-NOT
-Sixth Schedule
-Autonomous District Council.
-                              |
-                              v
-                  BRANCH X: ARTICLE 371C
-STATE
-Manipur.
-                              |
-                              v
-ORIGIN
-27th Amendment 1971.
-                              |
-                              v
-HILL AREAS COMMITTEE
-of Assembly.
-                              |
-                              v
-GOVERNOR
-special responsibility
-for proper functioning.
-                              |
-                              v
-ANNUAL REPORT
-to President.
-                              |
-                              v
-UNION
-may issue directions
-to State.
-                              |
-                              v
-NOT
-identical to Assam 371B
-or Sixth Schedule council.
-                              |
-                              v
-                  BRANCH XI: ARTICLES 371D / 371E
-STATES
-Andhra Pradesh
-and Telangana
-for 371D.
-                              |
-                              v
-ORIGIN
-32nd Amendment 1973.
-                              |
-                              v
-2014
-AP Reorganisation Act
-adapted 371D
-for Telangana.
-                              |
-                              v
-PURPOSE
-equitable opportunities /
-facilities
-in public employment
-and education.
-                              |
-                              v
-MECHANISM
-Presidential Orders,
-local areas,
-cadres,
-admission.
-                              |
-                              v
-FORMER AP ADMINISTRATIVE TRIBUNAL
-abolished
-14 January 2020;
-do not present as operating.
-                              |
-                              v
-ARTICLE 371E
-Parliament may establish
-Central University
-in Andhra Pradesh.
-                              |
-                              v
-TRAP
-371E is enabling
-and not Telangana provision.
-                              |
-                              v
-                  BRANCH XII: ARTICLE 371F
-STATE
-Sikkim.
-                              |
-                              v
-ORIGIN
-36th Amendment 1975.
-                              |
-                              v
-PURPOSE
-accession /
-integration settlement.
-                              |
-                              v
-ASSEMBLY
-minimum thirty.
-                              |
-                              v
-REPRESENTATION
-special transitional allocation.
-                              |
-                              v
-EXISTING LAWS
-continue until altered.
-                              |
-                              v
-COURTS / AUTHORITIES
-continuity.
-                              |
-                              v
-LOK SABHA
-one seat
-under arrangement.
-                              |
-                              v
-GOVERNOR
-special responsibility
-for peace
-and equitable advancement
-of sections.
-                              |
-                              v
-CAUTION
-not merely an Assembly-minimum clause.
-                              |
-                              v
-                  BRANCH XIII: ARTICLE 371G
-STATE
-Mizoram.
-                              |
-                              v
-ORIGIN
-53rd Amendment 1986.
-                              |
-                              v
-ASSEMBLY-CONSENT SHIELD
-specified Parliamentary law
-does not apply unless
-Assembly resolves.
-                              |
-                              v
-SUBJECTS
-Mizo religious /
-social practices;
-customary law /
-procedure;
-customary justice;
-land ownership /
-transfer.
-                              |
-                              v
-ASSEMBLY
-minimum forty.
-                              |
-                              v
-PARALLEL
-similar to 371A,
-but text not identical.
-                              |
-                              v
-                  BRANCH XIV: ARTICLE 371H
-STATE
-Arunachal Pradesh.
-                              |
-                              v
-ORIGIN
-55th Amendment 1986.
-                              |
-                              v
-GOVERNOR
-special responsibility
-for law and order.
-                              |
-                              v
-PROCESS
-consult Council,
-then act in individual judgment
-within clause.
-                              |
-                              v
-PRESIDENT
-may terminate responsibility.
-                              |
-                              v
-ASSEMBLY
-minimum thirty.
-                              |
-                              v
-CAUTION
-bounded exception,
-not general Governor discretion.
-                              |
-                              v
-                  BRANCH XV: ARTICLE 371I
-STATE
-Goa.
-                              |
-                              v
-ORIGIN
-56th Amendment 1987.
-                              |
-                              v
-PROVISION
-Legislative Assembly
-minimum thirty members.
-                              |
-                              v
-NO BROAD CUSTOMARY-LAW SHIELD.
-                              |
-                              v
-TRAP
-do not attribute
-Article 371A-style land protection
-to Goa.
-                              |
-                              v
-                  BRANCH XVI: ARTICLE 371J
-STATE
-Karnataka.
-                              |
-                              v
-ORIGIN
-98th Amendment 2012;
-effective 2013.
-                              |
-                              v
-REGION IN TEXT
-Hyderabad-Karnataka.
-                              |
-                              v
-CURRENT NAME
-Kalyana Karnataka.
-                              |
-                              v
-PRESIDENTIAL ORDER
-may assign Governor
-special responsibility.
-                              |
-                              v
-DEVELOPMENT BOARD.
-                              |
-                              v
-EQUITABLE FUNDS.
-                              |
-                              v
-OPPORTUNITY
-local education /
-public employment.
-                              |
-                              v
-LOCAL RESERVATION
-seats / posts
-under constitutional order.
-                              |
-                              v
-                  BRANCH XVII: STATE / ARTICLE MAP
-371
-Maharashtra / Gujarat.
-                              |
-                              v
-371A
-Nagaland.
-                              |
-                              v
-371B
-Assam.
-                              |
-                              v
-371C
-Manipur.
-                              |
-                              v
-371D
-Andhra Pradesh / Telangana.
-                              |
-                              v
-371E
-Andhra Pradesh.
-                              |
-                              v
-371F
-Sikkim.
-                              |
-                              v
-371G
-Mizoram.
-                              |
-                              v
-371H
-Arunachal Pradesh.
-                              |
-                              v
-371I
-Goa.
-                              |
-                              v
-371J
-Karnataka.
-                              |
-                              v
-TOTAL
-twelve States
-because Articles 371 / 371D
-cover two each.
-                              |
-                              v
-                  BRANCH XVIII: ACTOR MAP
-ASSEMBLY CONSENT
-371A Nagaland;
-371G Mizoram.
-                              |
-                              v
-ASSEMBLY COMMITTEE
-371B Assam;
-371C Manipur
-with added Governor / Union role.
-                              |
-                              v
-PRESIDENTIAL ORDER
-371,
-371B,
-371D,
-371J
-as text specifies.
-                              |
-                              v
-GOVERNOR SPECIAL RESPONSIBILITY
-371,
-371C,
-371F,
-371H,
-371J
-in different forms.
-                              |
-                              v
-PARLIAMENT
-371E Central University.
-                              |
-                              v
-CONSTITUTION DIRECT
-371I Goa minimum.
-                              |
-                              v
-TRAP
-same actor does not
-control every special provision.
-                              |
-                              v
-                  BRANCH XIX: CONSENT SHIELDS
-NAGALAND 371A
-Parliamentary law
-on four protected subjects
-requires Assembly resolution.
-                              |
-                              v
-MIZORAM 371G
-parallel shield
-for Mizo subjects / land.
-                              |
-                              v
-NOT VETO OVER
-all Union laws.
-                              |
-                              v
-NOT
-secession /
-sovereignty.
-                              |
-                              v
-PURPOSE
-internal autonomy /
-peace settlement /
-custom protection.
-                              |
-                              v
-LIMIT
-scope follows exact
-subject wording.
-                              |
-                              v
-                  BRANCH XX: FIFTH / SIXTH SCHEDULE FIREWALL
-ARTICLE 371 FAMILY
-Part XXI,
-State-specific.
-                              |
-                              v
-FIFTH SCHEDULE
-Article 244(1),
-Scheduled Areas
-outside four Sixth-Schedule states;
-Governor,
-Tribes Advisory Council,
-President,
-protective regulation.
-                              |
-                              v
-SIXTH SCHEDULE
-Article 244(2),
-autonomous district /
-regional councils
-in Assam,
-Meghalaya,
-Tripura,
-Mizoram.
-                              |
-                              v
-PESA 1996
-extends Panchayat framework
-to Fifth Schedule areas.
-                              |
-                              v
-NEC
-statutory regional council,
-not Article 371
-or Sixth Schedule body.
-                              |
-                              v
-OWNER
-Topic 26
-holds full detail.
-                              |
-                              v
-                  BRANCH XXI: NORTH EASTERN COUNCIL
-SOURCE
-NEC Act 1971.
-                              |
-                              v
-STATUS
-statutory.
-                              |
-                              v
-MEMBERSHIP
-Governors / Chief Ministers
-of region's states
-+ three Presidential nominees
-under amended framework.
-                              |
-                              v
-LEADERSHIP
-Union Home Minister /
-DoNER Minister
-under current statutory arrangement.
-                              |
-                              v
-NOT
-Article 371 body.
-                              |
-                              v
-NOT
-Sixth Schedule council.
-                              |
-                              v
-                  BRANCH XXII: DEVELOPMENTAL ASYMMETRY
-PROBLEM
-intra-state regional imbalance.
-                              |
-                              v
-DEVICE
-development board.
-                              |
-                              v
-RESOURCE
-equitable expenditure.
-                              |
-                              v
-OPPORTUNITY
-education /
-employment.
-                              |
-                              v
-REPORTING
-Assembly accountability.
-                              |
-                              v
-EXAMPLES
-Article 371
-+ 371J.
-                              |
-                              v
-RISK
-board without funds /
-data /
-authority
-becomes symbolic.
-                              |
-                              v
-                  BRANCH XXIII: CULTURAL ASYMMETRY
-PROBLEM
-customary law /
-land /
-identity vulnerability.
-                              |
-                              v
-DEVICE
-Assembly-consent shield.
-                              |
-                              v
-EXAMPLES
-371A,
-371G.
-                              |
-                              v
-BENEFIT
-constitutional confidence /
-peace.
-                              |
-                              v
-TENSION
-individual rights,
-gender equality,
-national law,
-resource development.
-                              |
-                              v
-METHOD
-interpret exact subject /
-consent /
-rights framework,
-not blanket immunity.
-                              |
-                              v
-                  BRANCH XXIV: POLITICAL / SECURITY ASYMMETRY
-LAW AND ORDER
-371A /
-371H.
-                              |
-                              v
-HILL / TRIBAL COMMITTEE
-371B /
-371C.
-                              |
-                              v
-INTEGRATION SETTLEMENT
-371F.
-                              |
-                              v
-RATIONALE
-conflict transition /
-minority confidence /
-border security.
-                              |
-                              v
-RISK
-executive discretion /
-prolonged exception.
-                              |
-                              v
-CHECK
-constitutional text,
-ministerial consultation,
-President,
-Assembly,
-judicial review.
-                              |
-                              v
-                  BRANCH XXV: ASYMMETRY DEBATE
-INTEGRATION ARGUMENT
-recognition secures loyalty /
-peace.
-                              |
-                              v
-EQUALITY ARGUMENT
-different rules
-may appear privileged.
-                              |
-                              v
-REPLY
-formal sameness
-can deepen substantive inequality.
-                              |
-                              v
-RISK
-dominant local group
-may suppress internal minority.
-                              |
-                              v
-DESIGN TEST
-clear purpose,
-proportionate scope,
-accountability,
-periodic evaluation.
-                              |
-                              v
-                  BRANCH XXVI: J&K ASSEMBLY BOUNDARY
-2019 ACT
-created UT legislature,
-not State legislature.
-                              |
-                              v
-POWERS
-State / Concurrent fields
-except public order / police;
-land not excluded.
-                              |
-                              v
-PARLIAMENT
-retains overriding UT competence.
-                              |
-                              v
-LG
-substantial statutory power.
-                              |
-                              v
-2025 GS-II Q4
-primary owner:
-Union Territories.
-                              |
-                              v
-HERE
-direct Article 370 /
-asymmetry application only;
-do not duplicate ownership.
-                              |
-                              v
-                  BRANCH XXVII: CURRENT STATUS DISCIPLINE
-ARTICLE 370
-in text,
-inoperative.
-                              |
-                              v
-ARTICLE 35A
-ceased.
-                              |
-                              v
-J&K
-UT with legislature.
-                              |
-                              v
-LADAKH
-UT without legislature.
-                              |
-                              v
-STATEHOOD
-pending at
-5 September 2026.
-                              |
-                              v
-LADAKH SIXTH SCHEDULE
-not enacted
-by that date.
-                              |
-                              v
-371D TRIBUNAL
-abolished 2020.
-                              |
-                              v
-KALYANA KARNATAKA
-current regional name;
-constitutional text retains
-Hyderabad-Karnataka.
-                              |
-                              v
-                    CONSTITUTIONAL CASE / EXAMPLE BANK
-IN RE ARTICLE 370 2023
-temporary status /
-2019 result.
-                              |
-                              v
-371A
-land / custom consent.
-                              |
-                              v
-371C
-Hill Areas Committee.
-                              |
-                              v
-371F
-Sikkim integration.
-                              |
-                              v
-371J
-regional-development opportunity.
-                              |
-                              v
-J&K 2024 ELECTION
-representative restoration
-without Statehood.
-                              |
-                              v
-                    SOURCE CRITICISM
-special provision != separate sovereignty;
-Article 370 in text != operative status;
-court-recorded assurance != deadline;
-Assembly election != Statehood;
-371A / 371G consent != veto over all Union law;
-Article 371 committee != Sixth Schedule council;
-constitutional text name != current regional label;
-amendment origin must be matched exactly;
-political demand != enacted protection.
-                              |
-                              v
-                    MAJOR DEBATES
-ASYMMETRY:
-INTEGRATION OR INEQUALITY?
-purpose-specific difference
-can secure substantive unity.
-                              |
-                              v
-ARTICLE 370:
-INTEGRATION OR FEDERAL CONSENT LOSS?
-2023 legality
-does not end political debate.
-                              |
-                              v
-CUSTOM OR INDIVIDUAL RIGHTS?
-protect community
-without internal domination.
-                              |
-                              v
-DEVELOPMENT BOARD:
-REAL DEVOLUTION OR SYMBOLISM?
-funds / powers / reporting decide.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-Part XXI;
-Article 370 not deleted,
-but inoperative;
-Article 35A ceased;
-J&K remains UT;
-371 covers Maharashtra / Gujarat;
-371A Nagaland;
-371B Assam;
-371C Manipur;
-371D AP / Telangana;
-371E AP university;
-371F Sikkim;
-371G Mizoram;
-371H Arunachal;
-371I Goa;
-371J Karnataka;
-Fifth / Sixth Schedules distinct.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-2025 GS-II Q4
-J&K Assembly after 2019;
-verified neutral demand;
-primary owner:
-Polity 25 Union Territories;
-direct Article 370 /
-asymmetry application here.
-No Mains answer key.
-                              |
-                              v
-2024 PRELIMS Q70
-North Eastern Council composition;
-direct supporting route;
-official-key letter not supplied
-in owner package;
-none invented.
-                              |
-                              v
-2022 PRELIMS Q73
-Fifth Schedule consequences;
-cross-owned Topic 26;
-historical official key unavailable.
-                              |
-                              v
-2025 PRELIMS Q56
-Fifth Schedule executive power;
-cross-owned Topic 26;
-official-key status retained
-without unsupported letter.
-                              |
-                              v
-2026 PRELIMS Q57
-Scheduled / tribal safeguards;
-provisional key only;
-cross-owned Topic 26;
-no official answer inferred.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-Part XXI / asymmetry
--> Article 370 history
--> 2019 orders / reorganisation
--> 2023 judgment / current status
--> 371 state map
--> actor map
--> consent shields
--> development clauses
--> Fifth / Sixth firewall
--> current cautions.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-SPECIAL PROVISION:
-define asymmetry
--> historical purpose
--> exact Article / State
--> protected subject
--> constitutional actor
--> integration benefit
--> equality / rights risk
--> bounded-difference verdict.
-                              |
-                              v
-ARTICLE 370:
-original arrangement
--> 2019 legal steps
--> reorganisation
--> 2023 holdings
--> elections / Statehood status
--> federal consent debate
--> precise current conclusion.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-India's special provisions reject the assumption that unity requires identical
-institutions. Properly designed asymmetry protects vulnerable cultures, corrects
-regional imbalance and translates peace settlements into constitutional trust.
-It remains legitimate only when its scope follows exact text, protects internal
-minorities and stays accountable to democratic institutions and rights. The
-post-2019 J&K settlement shows that formal integration can coexist with an
-unfinished political task of restoring durable representative federal trust.
+ASCII MASTER FLOW - PANEL 1/12: CORE CONCEPT AND OWNERSHIP
+PART XXI -> temporary + transitional + State-specific special provisions
+ONE UNION -> ordinary federal rules + purpose-specific constitutional differences
+ASYMMETRY != identical autonomy: classify each clause by State, protected field and actor
+OWNER -> Articles 371-371J + bounded Article 370/35A current-law bridge
+CROSS-LINK ONLY -> Fifth/Sixth Schedules (Topic 26); special classes (Topic 53)
+ANSWER LINE -> Indian unity accommodates difference through bounded constitutional design.
 ```
+
+## 2. ORIGIN AND TIMELINE
+
+```text
+ASCII MASTER FLOW - PANEL 2/12: ORIGIN AND TIMELINE
+1956 7th Amendment s.22 substitutes Article 371; 1960 Bombay reorganisation adapts it
+1962 13th -> 371A | 1969 22nd -> 371B | 1971 27th -> 371C
+1973 32nd -> 371D/371E and removes Andhra Pradesh from Article 371
+1974 35th -> Sikkim associate-State phase | 1975 36th -> Statehood + 371F
+1986 53rd -> 371G | 1986 55th -> 371H | 1987 56th -> 371I
+2012 98th -> 371J; effective 1 Oct 2013 | 2014 s.97 adapts 371D
+2019 Article 370 orders/reorganisation | 2023 Supreme Court judgment.
+```
+
+## 3. ARTICLE 371 - REGIONAL EQUITY
+
+```text
+ASCII MASTER FLOW - PANEL 3/12: ARTICLE 371 - REGIONAL EQUITY
+PRESIDENTIAL ORDER may assign Governor special responsibility for:
+MAHARASHTRA -> Vidarbha + Marathwada + rest of Maharashtra
+GUJARAT -> Saurashtra + Kutch + rest of Gujarat
+MECHANISM -> separate boards -> annual Assembly report -> equitable development funds
+           -> adequate technical/vocational facilities + State-service opportunities
+LIMIT -> constitutional authority does not prove a board is currently constituted.
+TRAP -> Article 371 is a development-equity device, not a customary-law veto.
+```
+
+## 4. ARTICLE 371A - NAGALAND
+
+```text
+ASCII MASTER FLOW - PANEL 4/12: ARTICLE 371A - NAGALAND
+ASSEMBLY-RESOLUTION SHIELD covers only:
+1 religious/social practices | 2 customary law/procedure
+3 civil/criminal justice involving decisions under customary law
+4 ownership/transfer of land AND its resources
+SEPARATE CLAUSES -> earmarked Union grants; conditional Governor law-order responsibility
+TUENSANG -> 35-member Regional Council and special administration for base ten years
+             from 1 Dec 1963, extendable by notified Governor action
+LIMIT -> historical transition is not a perpetual general veto over Parliament.
+```
+
+## 5. COMMITTEE MODELS - 371B AND 371C
+
+```text
+ASCII MASTER FLOW - PANEL 5/12: COMMITTEE MODELS - 371B AND 371C
+371B ASSAM -> President may create Assembly committee:
+members elected from Sixth-Schedule Part I tribal areas + specified other MLAs
+and may modify Assembly procedure for its functioning
+371C MANIPUR -> President may create Hill Areas Committee and modify business/procedure
+Governor -> special responsibility + annual/on-demand report to President
+Union -> may direct State on administration of declared Hill Areas
+TRAP -> legislative committees are not Sixth Schedule autonomous councils.
+```
+
+## 6. ARTICLE 371D/371E - LOCAL OPPORTUNITY
+
+```text
+ASCII MASTER FLOW - PANEL 6/12: ARTICLE 371D/371E - LOCAL OPPORTUNITY
+371D -> President may secure equitable public-employment and education opportunity
+TOOLS -> local cadres + local areas + residence/study-based preference or reservation
+2014 AP Reorganisation Act s.97 -> applies framework separately to AP and Telangana
+TELANGANA -> G.S.R. 820(E), 29 Aug 2018; republished G.O.Ms.124, 30 Aug 2018
+ANDHRA PRADESH -> S.O.5777(E), 15 Dec 2025; republished G.O.Ms.45, 20 Apr 2026
+371E -> Parliament may establish a Central University in Andhra Pradesh
+TRAP -> 371E is enabling power, not the local-reservation mechanism.
+```
+
+## 7. TRIBUNAL HISTORY UNDER ARTICLE 371D
+
+```text
+ASCII MASTER FLOW - PANEL 7/12: TRIBUNAL HISTORY UNDER ARTICLE 371D
+371D(3)-(4) -> President could constitute tribunal for specified service matters
+371D(5) -> State confirmation/annulment mechanism
+P. SAMBAMURTHY (1987) -> clause (5), including proviso, void:
+executive veto over adjudication violated rule of law/basic structure
+371D(7) text excluded High Court superintendence; later tribunal doctrine restored review
+371D(8) -> President may abolish tribunal and transfer pending cases
+G.S.R. 30(E), 14 Jan 2020 -> AP Administrative Tribunal abolished
+LIMIT -> tribunal history must not be presented as the current opportunity framework.
+```
+
+## 8. ARTICLE 371F - SIKKIM INTEGRATION
+
+```text
+ASCII MASTER FLOW - PANEL 8/12: ARTICLE 371F - SIKKIM INTEGRATION
+35th Amendment, 1974 -> Article 2A + old Tenth Schedule: associate-State phase
+36th Amendment, 1975 -> full Statehood; omitted associate-State scheme; inserted 371F
+CURRENT CORE -> Assembly at least 30; Parliament may protect population sections
+CONTINUITY -> existing High Court, courts, authorities, property and laws continued
+GOVERNOR -> discretion for peace and equitable advancement, subject to President
+PRESIDENT -> two-year adaptation power for old laws; extension of other State enactments
+R.C. POUDYAL (1993) -> historically tailored representation largely sustained.
+```
+
+## 9. 371G, 371H AND 371I
+
+```text
+ASCII MASTER FLOW - PANEL 9/12: 371G, 371H AND 371I
+371G MIZORAM -> Assembly resolution needed for Parliamentary laws on:
+Mizo practices | customary law/procedure | customary justice | land ownership/transfer
+PRE-COMMENCEMENT CENTRAL ACTS saved; Assembly minimum 40
+371H ARUNACHAL -> Governor consults ministers, then individual judgment on law/order;
+President may terminate responsibility; Assembly minimum 30
+371I GOA -> Assembly minimum 30; no land/custom shield or Governor discretion
+TRAP -> similar Statehood-era origins did not produce identical constitutional designs.
+```
+
+## 10. ARTICLE 371J - KALYANA KARNATAKA
+
+```text
+ASCII MASTER FLOW - PANEL 10/12: ARTICLE 371J - KALYANA KARNATAKA
+Constitutional text names HYDERABAD-KARNATAKA; official current usage: KALYANA KARNATAKA
+PRESIDENTIAL ORDER may assign Governor responsibility for:
+development board + annual Assembly report + equitable funds + opportunity
+371J(2) may reserve a proportion of regional education/training seats
+and identified State-controlled posts for persons belonging by birth or domicile
+2013 State notifications operationalise employment/admission/certificate machinery
+LIMIT -> Constitution fixes no universal percentage; current rules/orders control details.
+```
+
+## 11. ARTICLE 370/35A - BOUNDED OWNER BRIDGE
+
+```text
+ASCII MASTER FLOW - PANEL 11/12: ARTICLE 370/35A - BOUNDED OWNER BRIDGE
+1947 accession -> Article 370 application mechanism -> 1954 Order inserts Article 35A
+5 Aug 2019 C.O.272 applies Constitution comprehensively and supersedes 1954 framework
+6 Aug 2019 C.O.273 renders Article 370 inoperative except modified clause (1)
+31 Oct 2019 -> J&K UT with legislature + Ladakh UT without legislature
+IN RE ARTICLE 370 (11 Dec 2023) -> temporary character; no separate sovereignty;
+Article 367 substitution ultra vires to stated extent; result and C.O.273 upheld
+LIMIT -> J&K State-to-UT validity not finally decided; Ladakh creation upheld.
+```
+
+## 12. TRAPS AND MAINS ANSWER SPINE
+
+```text
+ASCII MASTER FLOW - PANEL 12/12: TRAPS AND MAINS ANSWER SPINE
+NEVER FLATTEN -> development | consent shield | committee | local opportunity
+                 integration | law-order responsibility | minimum Assembly size
+NEVER MERGE -> constitutional text | amendment | Presidential order | statute
+               State implementation | judgment | dated current status
+ANSWER -> define asymmetry -> timeline -> classify provision -> name actor
+       -> decode mechanism -> cite amendment/order/case -> evaluate benefit
+       -> qualify implementation, equality and judicial-review limits
+CONCLUSION -> calibrated difference can deepen unity when transparent and reviewable.
+```
+
+## Complete amendment decoder
+
+- **Seventh Amendment, 1956, section 22:** substituted Article 371; Bombay Reorganisation Act, 1960 later adapted Maharashtra/Gujarat wording.
+- **Thirteenth Amendment, 1962, section 2:** inserted Article 371A; effective 1 December 1963.
+- **Twenty-second Amendment, 1969, section 4:** inserted Article 371B; effective 25 September 1969.
+- **Twenty-seventh Amendment, 1971, section 5:** inserted Article 371C; effective 15 February 1972.
+- **Thirty-second Amendment, 1973, sections 2-3:** removed Andhra Pradesh/old clause (1) from Article 371 and inserted Articles 371D-371E; effective 1 July 1974.
+- **Thirty-fifth Amendment, 1974:** inserted Article 2A and the former Tenth Schedule for Sikkim's associate-State phase.
+- **Thirty-sixth Amendment, 1975:** ended association, made Sikkim a State and inserted Article 371F; effective 26 April 1975.
+- **Forty-second Amendment, 1976, section 56 / Forty-fourth Amendment, 1978, section 43:** first lengthened and then restored the duration references in Article 371F(c), a clause confined to Sikkim's transitional 1974 Assembly.
+- **Fifty-third Amendment, 1986, section 2:** inserted Article 371G; effective 20 February 1987.
+- **Fifty-fifth Amendment, 1986, section 2:** inserted Article 371H; effective 20 February 1987.
+- **Fifty-sixth Amendment, 1987, section 2:** inserted Article 371I; effective 30 May 1987.
+- **Ninety-eighth Amendment, 2012, section 2:** inserted Article 371J; effective 1 October 2013.
+- **AP Reorganisation Act, 2014, section 97:** adapted Article 371D's heading and clauses (1) and (3) for Andhra Pradesh and Telangana.
+
+## Named-case and institutional decoder
+
+- **P. Sambamurthy (1987):** invalidated Article 371D(5), including its executive annulment proviso, because ineffective judicial review violated rule of law/basic structure; it did not invalidate all of Article 371D.
+- **R.C. Poudyal (1993):** majority largely sustained Sikkim's historically tailored representation in the integration context; it did not create blanket immunity from equality review.
+- **In re Article 370 (2023):** held Article 370 temporary, rejected separate sovereignty, sustained C.O.273/result, held the Article 367 substitution ultra vires to the stated extent, upheld Ladakh and left J&K conversion unfinally decided after the Statehood assurance.
+- **Article 371D Presidential orders:** operational instruments defining current local cadres/local areas; Telangana's 2018 order and Andhra Pradesh's 2025 order must not be confused with constitutional text.
+- **Kalyana Karnataka Region Development Board:** State implementation institution for the region constitutionally called Hyderabad-Karnataka; its current programme details are administrative, not self-executing constitutional rules.
+
+**Qualified conclusion:** Indian federalism uses calibrated, clause-specific difference to integrate and equalise; legitimacy depends on exact legal authority, democratic participation, transparent implementation and judicial review.

@@ -1,15 +1,17 @@
 ---
-title: "Parliamentary System — Solved Practice Workbook"
+title: "Parliamentary System - Solved Practice Workbook"
 topic_key: polity-11
 ---
-# Parliamentary System — Solved Practice Workbook
+
+# Parliamentary System - Solved Practice Workbook
+
+> **Source and status control:** Constitution of India; canonical Basic and Advanced owners; audited UPSC papers and routing ledgers; OCR-searchable local polity books; Supreme Court judgments and official parliamentary material checked through 7 September 2026. Exactly 32 original MCQs precede five audited direct/routed PYQs. The locally held final official keys do not cover the two historical objective questions, so their answer letters are withheld.
 
 ## BASIC MCQS / REMEDIATION
 
-### Original hard MCQs
+Exactly **32 original MCQs** use strict `ABCD` x8 rotation. Every option has a substantive question-specific explanation, and every question closes with a unique Examiner trap.
 
-
-#### OM1. Article 74 control
+### Q1. Article 74 control
 
 Consider the following statements:
 
@@ -26,9 +28,14 @@ D. 2 and 3 only
 
 **Answer: A.**
 
-The 44th Amendment permits one reconsideration, after which the advice binds. Article 74(2) protects advice from inquiry; constitutional review of the action may still proceed on available material and legal grounds.
+- **A:** Correct. The 44th Amendment allows one reconsideration, and Article 74(2) shields the advice from inquiry without making the resulting action immune from review.
+- **B:** Incorrect. It omits statement 3, which preserves review of the executive action on constitutional grounds even though ministerial advice itself is protected.
+- **C:** Incorrect. Statement 2 invents a permanent presidential veto after reconsideration, contrary to the binding character of reiterated advice.
+- **D:** Incorrect. Statement 2 is false, while statement 1 correctly recognises the single reconsideration opportunity.
 
-#### OM2. Union-State architecture
+**Examiner trap:** Do not convert Article 74(2)'s advice privilege into immunity for the executive action or its supporting material.
+
+### Q2. Union-State architecture
 
 Which pairing is correct?
 
@@ -39,9 +46,14 @@ D. Article 77 - collective responsibility to Lok Sabha
 
 **Answer: B.**
 
-Article 167 is the State parallel to Article 78. Article 77 concerns Union executive business, Article 88 parliamentary participation, and Article 166 State executive business.
+- **A:** Incorrect. Article 166 concerns State executive action in the Governor's name, not Union business in the President's name.
+- **B:** Correct. Article 167 requires the Chief Minister to communicate Council decisions and furnish information to the Governor.
+- **C:** Incorrect. Article 88 governs participation of Union ministers and the Attorney-General in Parliament; State collective responsibility is in Article 164(2).
+- **D:** Incorrect. Article 77 regulates the form, authentication and allocation of Union executive business; Article 75(3) supplies collective responsibility.
 
-#### OM3. Ministry-size controls
+**Examiner trap:** Pair Union Articles 77-78 with State Articles 166-167; responsibility is located separately in Articles 75 and 164.
+
+### Q3. Ministry-size controls
 
 Consider the following:
 
@@ -59,9 +71,14 @@ D. 2 and 3 only
 
 **Answer: C.**
 
-Articles 75(1A) and 164(1A), inserted by the 91st Amendment, establish the two 15% caps; the State Council also has a minimum of 12.
+- **A:** Incorrect. It excludes the State ministry cap and minimum, both expressly contained in Article 164(1A).
+- **B:** Incorrect. It omits the constitutional minimum of twelve ministers for a State Council.
+- **C:** Correct. The 91st Amendment inserted the Union and State 15% caps, with a State minimum of twelve.
+- **D:** Incorrect. The Union cap and the common amendment source are also correct, so this partial combination is incomplete.
 
-#### OM4. Minister in the other House
+**Examiner trap:** The 15% ceiling applies at both levels, but only the State provision carries a minimum of twelve.
+
+### Q4. Minister in the other House
 
 A Union minister who belongs to Rajya Sabha attends Lok Sabha. Which statement is most accurate?
 
@@ -72,9 +89,14 @@ D. The minister may speak and participate but cannot vote in Lok Sabha.
 
 **Answer: D.**
 
-Article 88 enables participation in either House, joint sittings and named committees, but gives no vote by virtue of office. Voting follows House membership.
+- **A:** Incorrect. Article 88 does not create a bill-specific voting right for a minister who lacks membership of that House.
+- **B:** Incorrect. Executive office permits participation, not voting across House boundaries.
+- **C:** Incorrect. Article 88 expressly permits the minister to speak and participate in the other House.
+- **D:** Correct. The Rajya Sabha minister may participate in Lok Sabha but votes only in Rajya Sabha, where membership lies.
 
-#### OM5. Nominal and real executive
+**Examiner trap:** Separate participation by office under Article 88 from voting by House membership.
+
+### Q5. Nominal and real executive
 
 Which proposition best reflects *Shamsher Singh*?
 
@@ -85,9 +107,14 @@ D. The President has a personal popular mandate equal to Lok Sabha.
 
 **Answer: A.**
 
-The case constitutionalises the formal-head position and ministerial responsibility. It does not erase specific gubernatorial discretion or create personal presidential government.
+- **A:** Correct. *Shamsher Singh* treats the President and Governor as constitutional heads ordinarily acting on responsible advice, while preserving constitutionally assigned gubernatorial discretion.
+- **B:** Incorrect. Formal vesting under Article 53 must be read with Article 74; it does not authorise personal presidential government.
+- **C:** Incorrect. Article 163 and specific constitutional provisions preserve a bounded field of Governor discretion.
+- **D:** Incorrect. The President is indirectly elected and does not possess a rival political mandate to govern against Lok Sabha-responsible ministers.
 
-#### OM6. Dissolution and continuity
+**Examiner trap:** Formal vesting and ministerial control coexist; neither proposition cancels the other.
+
+### Q6. Dissolution and continuity
 
 What was the central implication of *U.N.R. Rao v. Indira Gandhi*?
 
@@ -98,9 +125,14 @@ D. Lok Sabha dissolution automatically dismisses the Council.
 
 **Answer: B.**
 
-The Court harmonised continuity under Article 74 with confidence under Article 75(3). Dissolution prevents an immediate floor test; it does not terminate responsible government.
+- **A:** Incorrect. Dissolution does not create an interval of personal presidential rule.
+- **B:** Correct. *U.N.R. Rao* harmonised mandatory ministerial advice under Article 74 with the temporary absence of a House capable of testing Article 75(3) confidence.
+- **C:** Incorrect. Collective responsibility is not permanently suspended; it becomes testable when the new House exists.
+- **D:** Incorrect. The Council continues through dissolution to preserve responsible executive continuity.
 
-#### OM7. Non-member Prime Minister
+**Examiner trap:** A dissolved House cannot test confidence, but dissolution does not abolish the Council of Ministers.
+
+### Q7. Non-member Prime Minister
 
 Which is correct after *S.P. Anand*?
 
@@ -111,9 +143,14 @@ D. A non-member PM may continue until the next general election.
 
 **Answer: C.**
 
-Article 75(5) permits a six-month window. The Indian Constitution does not import the British convention that the PM must sit in the Commons.
+- **A:** Incorrect. An Indian Prime Minister may belong to Rajya Sabha; the British Commons convention is not constitutional law in India.
+- **B:** Incorrect. Existing Lok Sabha membership is not a condition precedent to appointment.
+- **C:** Correct. *S.P. Anand* supports appointment of a non-member PM subject to entry into either House within six consecutive months.
+- **D:** Incorrect. Article 75(5) fixes six months, not the life of the Lok Sabha.
 
-#### OM8. Floor-test doctrine
+**Examiner trap:** The six-month rule is a temporary bridge to legislative membership, not an external-executive exception.
+
+### Q8. Floor-test doctrine
 
 Which statement is the most precise use of *S.R. Bommai* in this topic?
 
@@ -124,9 +161,14 @@ D. It supports floor determination of disputed Assembly majority and judicial re
 
 **Answer: D.**
 
-Bommai's main operational field is State government and President's Rule. It supports the wider responsible-government principle that legislative support is tested in the House.
+- **A:** Incorrect. *Bommai* rejects private or subjective majority assessment as a substitute for the Assembly floor.
+- **B:** Incorrect. The case concerns disputed State majority and Article 356 review, not the confidence status of every Union bill.
+- **C:** Incorrect. *Bommai* limits and reviews Article 356 use; it does not repeal the Article.
+- **D:** Correct. The judgment supports floor determination of majority and judicial examination of proclamation material.
 
-#### OM9. Collective responsibility
+**Examiner trap:** Use *Bommai* for House-based proof of majority, while leaving detailed Governor procedure to its own topic.
+
+### Q9. Collective responsibility
 
 Which statement best captures collective responsibility?
 
@@ -137,9 +179,14 @@ D. Every minister is individually elected by Lok Sabha.
 
 **Answer: A.**
 
-Collective responsibility combines confidence and solidarity. Internal debate is possible; public opposition while remaining in office conflicts with cabinet solidarity.
+- **A:** Correct. Collective responsibility combines continuing Lok Sabha confidence with public solidarity behind settled government policy.
+- **B:** Incorrect. Article 75(3) names Lok Sabha, not Rajya Sabha, as the confidence chamber.
+- **C:** Incorrect. Cabinet government permits candid internal disagreement before a collective decision.
+- **D:** Incorrect. Ministers are appointed constitutionally; Lok Sabha does not elect each minister individually.
 
-#### OM10. Financial defeat
+**Examiner trap:** Collective responsibility is both external confidence and internal solidarity, not uniform private opinion.
+
+### Q10. Financial defeat
 
 Which is the safest constitutional formulation?
 
@@ -150,9 +197,14 @@ D. The Budget has no relationship with confidence.
 
 **Answer: B.**
 
-Parliamentary convention treats supply as essential to governing, but not every adverse division is automatically a confidence loss. Lok Sabha is the confidence chamber.
+- **A:** Incorrect. Parliamentary practice does not make every adverse division an automatic confidence loss.
+- **B:** Correct. Express confidence defeat and denial of essential supply are decisive or grave; other defeats require context and possible testing.
+- **C:** Incorrect. Rajya Sabha cannot dismiss the Union Council, and it has only a recommendatory role on a Money Bill.
+- **D:** Incorrect. Supply is indispensable to governing and therefore closely linked to confidence.
 
-#### OM11. Political homogeneity
+**Examiner trap:** Do not equate an ordinary legislative setback with a carried no-confidence motion.
+
+### Q11. Political homogeneity
 
 In a coalition ministry, political homogeneity is best understood as:
 
@@ -163,9 +215,14 @@ D. automatic loss of office whenever partners disagree.
 
 **Answer: C.**
 
-Homogeneity is a classic political tendency. Coalition government adapts it through agreed programmes and cabinet solidarity.
+- **A:** Incorrect. Coalition participation by regional parties is compatible with parliamentary government.
+- **B:** Incorrect. Political homogeneity is a textbook tendency, not a single-party constitutional condition.
+- **C:** Correct. Coalitions translate homogeneity into a common programme, negotiated consensus and cabinet solidarity.
+- **D:** Incorrect. Political disagreement may be managed; it does not automatically terminate the ministry.
 
-#### OM12. Secrecy
+**Examiner trap:** In coalition government, common responsibility matters more than identical ideology.
+
+### Q12. Secrecy
 
 Which statement is correct?
 
@@ -176,9 +233,14 @@ D. Secrecy protects candid deliberation but coexists with legislative, judicial,
 
 **Answer: D.**
 
-Ministers take the Third Schedule oath. Its purpose is not absolute executive opacity.
+- **A:** Incorrect. The Third Schedule gives secrecy a constitutional oath basis.
+- **B:** Incorrect. Secrecy does not override constitutional courts or lawful disclosure duties in every situation.
+- **C:** Incorrect. Cabinet confidentiality coexists with parliamentary questions, financial control and audit.
+- **D:** Correct. Secrecy protects candid deliberation while remaining bounded by legislative, judicial, audit and statutory accountability.
 
-#### OM13. System comparison
+**Examiner trap:** Treat secrecy as functional confidentiality, never as absolute executive opacity.
+
+### Q13. System comparison
 
 Which combination correctly distinguishes parliamentary from presidential government?
 
@@ -189,9 +251,14 @@ D. Fixed executive tenure, collective responsibility and fusion.
 
 **Answer: A.**
 
-The parliamentary cluster is responsibility, double membership and dissolution. Presidential government features separate selection, fixed tenure and separation.
+- **A:** Correct. Confidence dependence, ministerial legislative membership and possible lower-House dissolution form the parliamentary cluster.
+- **B:** Incorrect. A defining parliamentary possibility is lower-House dissolution under constitutional rules.
+- **C:** Incorrect. Presidential department heads cannot simultaneously serve in Congress.
+- **D:** Incorrect. Fixed tenure and separation are presidential features, whereas collective responsibility and fusion are parliamentary.
 
-#### OM14. US executive terminology
+**Examiner trap:** Compare systems by institutional axes, not by attaching one familiar feature to the wrong cluster.
+
+### Q14. US executive terminology
 
 Which is correct?
 
@@ -202,9 +269,14 @@ D. The House of Representatives can dismiss the US cabinet by no-confidence.
 
 **Answer: B.**
 
-The informal label must not be confused with the formal cabinet. The presidential executive is not collectively responsible to Congress.
+- **A:** Incorrect. The incompatibility of executive office and congressional membership is a feature of the US separation model.
+- **B:** Correct. Department secretaries are formal officers; 'kitchen cabinet' denotes informal advisers.
+- **C:** Incorrect. The informal historical label is not the constitutional title of the US Cabinet.
+- **D:** Incorrect. Congress exercises oversight and impeachment-related powers, but no-confidence does not remove the US Cabinet.
 
-#### OM15. India-Britain difference
+**Examiner trap:** Never use 'Kitchen Cabinet' as the formal American equivalent of India's Council of Ministers.
+
+### Q15. India-Britain difference
 
 Consider the following:
 
@@ -221,9 +293,14 @@ D. 1 only
 
 **Answer: C.**
 
-All three distinctions are central. India constitutionalised Westminster responsibility without importing Crown heredity or parliamentary legal omnipotence.
+- **A:** Incorrect. Statements 1 and 2 are true, but statement 3 is also a valid India-Britain distinction.
+- **B:** Incorrect. It omits India's republican headship while correctly including the other two differences.
+- **C:** Correct. Republican headship, constitutional supremacy and eligibility of an Indian PM from either House distinguish the Indian adaptation.
+- **D:** Incorrect. It ignores the written supreme Constitution and the House-membership convention.
 
-#### OM16. Adoption rationale
+**Examiner trap:** India borrowed responsible government, not monarchy or Westminster parliamentary sovereignty.
+
+### Q16. Adoption rationale
 
 Which was **not** a defensible reason for India's adoption of parliamentary government?
 
@@ -234,9 +311,14 @@ D. Desire to make Parliament legally sovereign over the Constitution
 
 **Answer: D.**
 
-India chose responsible government under constitutional supremacy. The design rejected British-style unlimited parliamentary sovereignty.
+- **A:** Incorrect. Ambedkar's responsibility-over-fixed-stability reasoning supports the parliamentary choice.
+- **B:** Incorrect. A multi-member ministry can facilitate plural and coalition representation.
+- **C:** Incorrect. Experience with responsible institutions was a practical transition argument.
+- **D:** Correct. India placed Parliament under a supreme Constitution rather than making it legally unlimited.
 
-#### OM17. Coalition evidence
+**Examiner trap:** Do not confuse choosing parliamentary government with importing British parliamentary sovereignty.
+
+### Q17. Coalition evidence
 
 Which conclusion is best supported by Indian experience?
 
@@ -247,9 +329,14 @@ D. Anti-defection guarantees perfect cabinet stability.
 
 **Answer: A.**
 
-Short-lived governments demonstrate risk; full-term NDA and UPA coalitions demonstrate negotiated stability. Institutional incentives and political conditions matter.
+- **A:** Correct. Coalition instability is a risk, but full-term coalition governments demonstrate that it depends on party agreements and political conditions.
+- **B:** Incorrect. A single-party majority can intensify cabinet or prime-ministerial dominance.
+- **C:** Incorrect. Indian coalition history includes governments completing a full Lok Sabha term.
+- **D:** Incorrect. Anti-defection reduces some switching but cannot guarantee cohesion, legitimacy or policy agreement.
 
-#### OM18. Cabinet-dominance chain
+**Examiner trap:** Institutional form shapes incentives; it does not mechanically determine a government's lifespan.
+
+### Q18. Cabinet-dominance chain
 
 Which sequence is most accurate?
 
@@ -260,9 +347,14 @@ D. Judicial review -> cabinet secrecy -> parliamentary sovereignty
 
 **Answer: B.**
 
-The majority-whip-agenda mechanism explains practical dominance. It is checked, not erased, by scrutiny institutions.
+- **A:** Incorrect. Federalism and fixed tenure do not describe the causal route by which an Indian cabinet controls Parliament.
+- **B:** Correct. Majority support and whip discipline aid agenda control, which may reduce scrutiny but remains qualified by committees and confidence mechanisms.
+- **C:** Incorrect. Rajya Sabha cannot carry a no-confidence motion against the Union Council.
+- **D:** Incorrect. Judicial review limits legal power; it does not create cabinet secrecy or parliamentary sovereignty.
 
-#### OM19. PRS evidence
+**Examiner trap:** Cabinet dominance is a mechanism chain, not proof that Parliament has lost constitutional authority.
+
+### Q19. PRS evidence
 
 Which statement reflects the verified PRS anchor used in this package?
 
@@ -273,11 +365,16 @@ D. PRS found that parliamentary committees had been abolished.
 
 **Answer: C.**
 
-PRS reported 274 sitting days and a 16% referral rate, down from 26% in the 16th and 71% in the 15th Lok Sabha.
+- **A:** Incorrect. The verified figure is 274 sitting days, not a claim of an all-time record among every House.
+- **B:** Incorrect. Only 16% of Bills were referred to committees, so universal referral is the opposite of the evidence.
+- **C:** Correct. PRS reports 274 sitting days and lower referral than the 16th and 15th Lok Sabhas.
+- **D:** Incorrect. Parliamentary committees continued to exist; the issue is reduced referral, not abolition.
 
-#### OM20. Simultaneous-elections control
+**Examiner trap:** Use the PRS figures as evidence of scrutiny opportunity, not as proof that every Bill escaped examination.
 
-As of 28 August 2026, which is correct?
+### Q20. Simultaneous-elections control
+
+As of 7 September 2026, which is correct?
 
 A. Parliament has enacted a mandatory implementation year.
 B. Article 82A is operative constitutional law.
@@ -286,9 +383,14 @@ D. The 129th Amendment Bill remains a proposal under Joint Committee considerati
 
 **Answer: D.**
 
-The Bill was introduced on 17 December 2024 and remains under committee review. No enacted Article 82A or implementation year may be asserted.
+- **A:** Incorrect. No mandatory implementation year has been enacted.
+- **B:** Incorrect. Proposed Article 82A has not entered the Constitution.
+- **C:** Incorrect. Committee consideration is not final parliamentary or judicial review of every clause.
+- **D:** Correct. The official committee page still lists the 129th Amendment Bill inquiry; the proposal is not current law.
 
-#### OM21. Articles 77 and 78
+**Examiner trap:** Bill, committee report, enacted amendment, commencement and implementation are separate legal stages.
+
+### Q21. Articles 77 and 78
 
 Which pairing is correct?
 
@@ -299,9 +401,14 @@ D. Article 77 - parliamentary privilege; Article 78 - dissolution.
 
 **Answer: A.**
 
-Article 77 structures executive business in the President's name; Article 78 sustains the constitutional communication channel.
+- **A:** Correct. Article 77 governs Union business form and authentication; Article 78 creates the PM-President information channel.
+- **B:** Incorrect. State business is Article 166 and gubernatorial discretion is principally connected to Article 163.
+- **C:** Incorrect. No-confidence arises from Article 75(3) responsibility, while oaths are under Article 75(4) and the Third Schedule.
+- **D:** Incorrect. Privilege and dissolution are governed elsewhere; neither is the function of Articles 77-78.
 
-#### OM22. State Council
+**Examiner trap:** Read Articles 77-78 as administration plus constitutional communication, not confidence rules.
+
+### Q22. State Council
 
 Which statement is correct?
 
@@ -312,9 +419,14 @@ D. A non-legislator State minister has a twelve-month window.
 
 **Answer: B.**
 
-Article 164 mirrors the lower-House confidence rule, applies a six-month membership window and imposes the cap/minimum.
+- **A:** Incorrect. Article 163 discretion is bounded; no general permanent veto over reiterated advice exists.
+- **B:** Correct. Article 164(2) fixes Assembly responsibility and Article 164(1A) combines the 15% ceiling with a minimum of twelve.
+- **C:** Incorrect. Even in bicameral States, the Council is collectively responsible to the Legislative Assembly.
+- **D:** Incorrect. Article 164(4) gives a six-month, not twelve-month, non-member window.
 
-#### OM23. Three responsibility concepts
+**Examiner trap:** The lower House is the confidence chamber at both Union and State levels.
+
+### Q23. Three responsibility concepts
 
 Which classification is correct?
 
@@ -325,9 +437,14 @@ D. Collective responsibility means each minister must countersign every presiden
 
 **Answer: C.**
 
-The three concepts answer different questions: survival of ministry, tenure of individual minister, and formal legal authentication/countersignature.
+- **A:** Incorrect. Rajya Sabha cannot dismiss an individual minister through confidence procedure.
+- **B:** Incorrect. Legal countersignature and political team responsibility answer different constitutional questions.
+- **C:** Correct. Collective, individual and legal responsibility concern ministry survival, a minister's tenure, and formal countersignature respectively.
+- **D:** Incorrect. India does not require each minister to countersign every presidential act.
 
-#### OM24. Advanced labels
+**Examiner trap:** Do not collapse three responsibility doctrines into the single phrase 'ministerial responsibility'.
+
+### Q24. Advanced labels
 
 Which is correct?
 
@@ -338,11 +455,14 @@ D. These are analytical labels for power distribution and must not be treated as
 
 **Answer: D.**
 
-Bagehot, Jennings, Laski/Muir, Crossman/Mackintosh and core-executive analysis help interpret practice; the Constitution remains the legal framework.
+- **A:** Incorrect. Article 78 establishes communication duties; it does not constitutionalise the scholarly label 'prime-ministerial government'.
+- **B:** Incorrect. 'Cabinet dictatorship' is a political critique, not a binding judicial doctrine.
+- **C:** Incorrect. Elective dictatorship describes majority-enabled concentration despite elections; it does not abolish elections.
+- **D:** Correct. These labels interpret political practice and cannot displace constitutional text, conventions and cases.
 
-### Remedial MCQs
+**Examiner trap:** Analytical labels diagnose power distribution; they are not Articles, holdings or automatic facts.
 
-#### RM1. Advice after reconsideration
+### Q25. Advice after reconsideration
 
 The President returns advice once. The Council reaffirms it. What follows?
 
@@ -353,9 +473,14 @@ D. The President may call a referendum.
 
 **Answer: A.**
 
-The 44th Amendment created a single reconsideration opportunity, not a permanent veto.
+- **A:** Correct. Reconsideration is available once; reiterated advice binds the President.
+- **B:** Incorrect. Rajya Sabha has no referral role in the Article 74 reconsideration process.
+- **C:** Incorrect. Reaffirmed advice remains operative rather than lapsing.
+- **D:** Incorrect. The Constitution provides no referendum route for ministerial advice.
 
-#### RM2. Confidence chamber
+**Examiner trap:** One reconsideration is a cautionary delay, not a second executive mandate.
+
+### Q26. Confidence chamber
 
 Which body can remove the Union Council through a no-confidence motion?
 
@@ -366,9 +491,14 @@ D. Supreme Court
 
 **Answer: B.**
 
-Article 75(3) fixes collective responsibility to Lok Sabha. Courts enforce law; they do not hold confidence votes.
+- **A:** Incorrect. A joint sitting cannot substitute for Lok Sabha confidence.
+- **B:** Correct. Article 75(3) makes Lok Sabha the body before which the Union Council survives or falls.
+- **C:** Incorrect. Rajya Sabha can scrutinise but cannot remove the Council by no-confidence.
+- **D:** Incorrect. Courts review legality; they do not cast legislative confidence votes.
 
-#### RM3. Six-month rule
+**Examiner trap:** Locate confidence in the popularly elected House, not in Parliament collectively.
+
+### Q27. Six-month rule
 
 A person appointed minister while not a member of Parliament:
 
@@ -379,9 +509,14 @@ D. can never vote but may remain for five years.
 
 **Answer: C.**
 
-The temporary exception preserves appointment flexibility while requiring legislative connection.
+- **A:** Incorrect. Appointment does not create automatic membership of Rajya Sabha.
+- **B:** Incorrect. The person may enter either House, not only Lok Sabha.
+- **C:** Correct. Article 75(5) requires membership of either House within six consecutive months.
+- **D:** Incorrect. The constitutional window is six months and cannot last for the full term.
 
-#### RM4. Government versus sovereignty
+**Examiner trap:** A non-member minister is constitutionally temporary, not a permanent technocratic exception.
+
+### Q28. Government versus sovereignty
 
 Which statement is correct?
 
@@ -392,9 +527,14 @@ D. India has parliamentary government within a supreme, judicially enforceable C
 
 **Answer: D.**
 
-The confidence relationship and the location of final legal authority are separate constitutional questions.
+- **A:** Incorrect. Parliamentary government does not itself produce British legal sovereignty.
+- **B:** Incorrect. Responsible government can operate beneath a supreme written Constitution.
+- **C:** Incorrect. Judicial review and parliamentary responsibility control different relationships and coexist in India.
+- **D:** Correct. India's ministry is confidence-dependent while Parliament remains constitutionally limited and judicially reviewable.
 
-#### RM5. US “Kitchen Cabinet”
+**Examiner trap:** Separate who controls the ministry from what legal norm is supreme.
+
+### Q29. US “Kitchen Cabinet”
 
 The safest statement is:
 
@@ -405,9 +545,14 @@ D. It is collectively responsible to Congress.
 
 **Answer: A.**
 
-This correction prevents a common textbook-label overreach.
+- **A:** Correct. 'Kitchen cabinet' denotes informal presidential advisers, not the formal departmental structure.
+- **B:** Incorrect. The phrase has no meaning as the US lower legislative chamber.
+- **C:** Incorrect. Informal advisers need not be senators.
+- **D:** Incorrect. Informal advisers and department secretaries are not collectively responsible to Congress.
 
-#### RM6. Government defeat
+**Examiner trap:** The informal label cannot be used to describe the legally constituted US Cabinet.
+
+### Q30. Government defeat
 
 Which formulation is most accurate?
 
@@ -418,9 +563,14 @@ D. Financial business never affects confidence.
 
 **Answer: B.**
 
-Confidence doctrine is serious but should not be converted into an automatic rule for every bill or amendment.
+- **A:** Incorrect. Union confidence is not determined by Rajya Sabha alone.
+- **B:** Correct. Express confidence loss or essential supply defeat is grave, while other adverse votes need contextual assessment.
+- **C:** Incorrect. A lost division does not automatically dissolve the House.
+- **D:** Incorrect. Financial authorisation is central to a government's capacity to remain in office.
 
-#### RM7. Floor test
+**Examiner trap:** Ask whether the vote expressly or functionally tests the government's ability to govern.
+
+### Q31. Floor test
 
 The floor-test doctrine is most directly associated in this package with:
 
@@ -431,9 +581,14 @@ D. authentication under Article 77.
 
 **Answer: C.**
 
-Use Bommai to show that majority is proved in the representative chamber; take procedural Governor detail to Polity 19.
+- **A:** Incorrect. Judicial appointments are unrelated to the floor-test doctrine examined here.
+- **B:** Incorrect. Presidential election disputes follow a separate constitutional process.
+- **C:** Correct. The doctrine addresses disputed State-government support and judicial review of Article 356 action.
+- **D:** Incorrect. Article 77 authentication does not require a legislative majority test.
 
-#### RM8. Article 82A status
+**Examiner trap:** Floor tests prove political support in the House; they do not validate unrelated constitutional acts.
+
+### Q32. Article 82A status
 
 As of the package control date:
 
@@ -444,8 +599,12 @@ D. Article 82A remains proposed text in a pending constitutional-amendment Bill.
 
 **Answer: D.**
 
-The proposal is relevant to the stability-accountability debate only; it is not current law.
+- **A:** Incorrect. No first simultaneous cycle has been constitutionally notified under an enacted Article 82A.
+- **B:** Incorrect. No final Supreme Court implementation year exists for the pending proposal.
+- **C:** Incorrect. Proposed Article 82A has not shortened Assembly terms because it is not operative text.
+- **D:** Correct. It remains proposed text in the 129th Amendment Bill under Joint Committee consideration on the located official record.
 
+**Examiner trap:** Never answer a current-law question with the content of a pending constitutional-amendment Bill.
 
 ## PYQS AND ANSWER PRACTICE
 
@@ -461,12 +620,12 @@ B. the Government is responsible to the Parliament and can be removed by it
 C. the Government is elected by the people and can be removed by them  
 D. the Government is chosen by the Parliament but cannot be removed by it before completion of a fixed term
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: B.**
+**Answer withheld pending official UPSC key.**
 
-- A is wrong: an opposition remains outside government; an all-party ministry is not a defining requirement.
-- B is correct: political responsibility and removability through the lower House are the controlling features.
-- C is wrong: electors choose legislators; the ministry ordinarily emerges through the House majority and is removed by confidence procedure.
-- D is wrong: fixed, confidence-independent tenure is presidential, not parliamentary.
+- Option A does not define parliamentary government: an opposition remains outside government; an all-party ministry is not a defining requirement.
+- Option B states the defining rule: political responsibility and removability through the lower House are the controlling features.
+- Option C confuses legislative and direct-popular removal: electors choose legislators; the ministry ordinarily emerges through the House majority and is removed by confidence procedure.
+- Option D wrongly imports fixed tenure: fixed, confidence-independent tenure is presidential, not parliamentary.
 - **Confidence:** Very high. The local official question is verified; the historical official key is not held locally.
 
 #### PYQ 2 - UPSC Prelims 2021, GS-I, Q77
@@ -483,10 +642,10 @@ B. 2 only
 C. Both 1 and 2  
 D. Neither 1 nor 2
 
-**INFERRED ANSWER - NOT OFFICIALLY VERIFIED: C.**
+**Answer withheld pending official UPSC key.**
 
-- Statement 1 is correct: Indian legislation is limited by legislative competence, Fundamental Rights, other constitutional provisions and judicial review; orthodox British doctrine treats Parliament as sovereign.
-- Statement 2 is accepted as correct in the PYQ's intended frame: Article 145(3) requires at least five judges where a case involves a substantial question of law as to constitutional interpretation.
+- Statement 1 accurately distinguishes the two systems: Indian legislation is limited by legislative competence, Fundamental Rights, other constitutional provisions and judicial review; orthodox British doctrine treats Parliament as sovereign.
+- Statement 2 is ordinarily read with the PYQ's intended frame: Article 145(3) requires at least five judges where a case involves a substantial question of law as to constitutional interpretation.
 - [LIMIT] Not every routine statutory challenge becomes a Constitution Bench matter; the constitutional threshold is a **substantial question of interpretation**.
 - **Confidence:** High. The local official question is verified; the historical official key is not held locally.
 
@@ -530,25 +689,6 @@ are the appropriate correctives.
 - Draw a one-line chain — `fusion → disciplined majority → agenda control → weaker scrutiny` — if
   space permits.
 
-**Demand decoding:** The directive **answer** requires a direct position on ““The growth of cabinet system has practically resulted in the marginalisation of the…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in ““The growth of cabinet system has practically resulted in the marginalisation of the parliamentary supremacy.” Elucidate.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** “Elucidate” requires mechanism and evidence, not a generic merits/demerits list. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** “Parliamentary supremacy” must be clarified as effective control and deliberation, not UK-style legal sovereignty. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** A high-scoring answer should accept the tendency, identify correctives and give a qualified verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Article 75(3) makes the cabinet responsible to Lok Sabha, yet the same fusion can let the executive **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** dominate its scrutineer. A disciplined majority and Tenth Schedule-backed whip reduce independent **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in ““The growth of cabinet system has practically resulted in the marginalisation of the parliamentary supremacy.” Elucidate.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### PYQ 4 - UPSC GS-II 2018, Q13 - supporting/cross-owned
 
@@ -595,25 +735,6 @@ Therefore, both systems seek limited democratic government, but India prioritise
 - If compressed, retain Articles 74–75, fixed tenure/separation and one federal contrast before the
   qualified conclusion.
 
-**Demand decoding:** The directive **examine** requires a direct position on “India and USA are two large democracies. Examine the basic tenets on which the two political…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “India and USA are two large democracies. Examine the basic tenets on which the two political systems are based.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ 4 - UPSC GS-II 2018, Q13 - supporting/cross-owned **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Ownership label: Cross-owned by comparative constitutional design; included here because parliamentary-presidential structure is central to the demand. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** “Examine” requires both common constitutional commitments and structural differences. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Avoid reducing the answer to a table of President versus PM. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Use evidence from constitutional form, federalism, rights, review and accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “India and USA are two large democracies. Examine the basic tenets on which the two political systems are based.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### PYQ 5 - UPSC GS-II 2023, Q4 - supporting/cross-owned
 
@@ -657,25 +778,6 @@ Constitution.
 
 ### Original Mains practice with model solutions
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare and contrast the British and Indian approaches to Parliamentary sovereignty.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Compare and contrast the British and Indian approaches to Parliamentary sovereignty.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ 5 - UPSC GS-II 2023, Q4 - supporting/cross-owned **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Ownership label: Cross-owned by comparative constitutional design; included here to prevent confusion between parliamentary government and parliamentary sovereignty. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Britain and India share responsible cabinet government, but not the same source of legal supremacy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Under orthodox British doctrine, Parliament may enact or repeal any law; courts cannot invalidate **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** an Act merely for inconsistency with a superior codified Constitution. Conventions regulate much **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Compare and contrast the British and Indian approaches to Parliamentary sovereignty.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### M1. 10 marks | 150 words
 
@@ -717,25 +819,6 @@ Sabha controls the ministry's survival.
 - Omit secondary clause detail if the answer exceeds 150 words; keep collective responsibility and
   the Article 88 voting caveat.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain how Articles 74, 75, 77, 78 and 88 together convert formal executive power into…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Explain how Articles 74, 75, 77, 78 and 88 together convert formal executive power into responsible government.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** “Explain how” requires an integrated mechanism, not five isolated Article definitions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Connect advice, appointment, business form, information and parliamentary participation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The Constitution formally vests Union executive power in the President, but five provisions make **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Article 74 places a PM-headed Council to aid and advise the President; after one reconsideration, **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** advice binds, while Article 74(2) protects the advice from inquiry. Article 75 gives democratic **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Explain how Articles 74, 75, 77, 78 and 88 together convert formal executive power into responsible government.”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### M2. 10 marks | 150 words
 
@@ -748,7 +831,7 @@ Sabha controls the ministry's survival.
 
 **Model solution**
 
-Article 75(3) makes collective responsibility the bedrock of Union parliamentary government in two senses.
+Article 75(3) makes collective responsibility central to Union parliamentary government in two senses.
 
 **Survival:** The Council must retain Lok Sabha confidence. A carried no-confidence motion requires
 resignation or a constitutionally proper dissolution route. Denial of essential supply is grave,
@@ -759,7 +842,7 @@ resign. Parliament therefore confronts one accountable government.
 
 *U.N.R. Rao* (1971) held that dissolution does not terminate the Council: Article 74 preserves
 continuity while confidence can be tested only when a House exists. *Shamsher Singh* (1974) located
-political responsibility in the advice-giving ministry. At State level, *Subhash Desai* (2023)
+responsibility in the advice-giving ministry. *Subhash Desai* (2023)
 required objective material of lost House confidence before a Governor-directed floor test;
 intra-party disagreement alone is insufficient.
 
@@ -774,30 +857,11 @@ House; it neither prohibits internal debate nor makes every lost vote fatal.
 
 #### How to improve this answer
 
-- Use one case for continuity (*U.N.R. Rao*) and one for the floor-test limit (*Subhash Desai*);
+- Use one case for continuity (*U.N.R. Rao*) and one for floor-test limit (*Subhash Desai*);
   additional cases should appear only if space remains.
 - Finish with a two-part verdict — solidarity inside government, confidence before the House — to
   mirror the question exactly.
 
-**Demand decoding:** The directive **analyse** requires a direct position on “Collective responsibility is both a rule of government survival and a rule of cabinet…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Collective responsibility is both a rule of government survival and a rule of cabinet solidarity. Analyse with judicial support.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Use at least two cases and qualify dissolution/floor-test context. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Article 75(3) makes collective responsibility the bedrock of Union parliamentary government in two senses. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Survival: The Council must retain Lok Sabha confidence. A carried no-confidence motion requires **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** resignation or a constitutionally proper dissolution route. Denial of essential supply is grave, **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** though not every legislative defeat equals confidence loss. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Collective responsibility is both a rule of government survival and a rule of cabinet solidarity. Analyse with judicial support.”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### M3. 15 marks | 250 words
 
@@ -844,25 +908,6 @@ Therefore, parliamentary government remains better suited not because it guarant
   the examiner rewards the assessment, not a catalogue.
 - Add one counterweight — fixed-tenure stability or deadlock risk — immediately before the verdict.
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare parliamentary and presidential systems and assess why the parliamentary form remains…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Compare parliamentary and presidential systems and assess why the parliamentary form remains better suited to India's constitutional conditions.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Assessment needs Indian reasons, counterarguments and a graded verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Parliamentary and presidential systems differ primarily in the relationship between executive and legislature. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Executive Formal head plus real ministry Single political executive **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Selection Ministry from legislative support President separately elected **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Responsibility Daily to lower House Not politically responsible to legislature **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Compare parliamentary and presidential systems and assess why the parliamentary form remains better suited to India's constitutional conditions.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
 
 #### M4. 15 marks | 250 words
 
@@ -915,27 +960,8 @@ sittings, committee referral and narrower whip use are the remedy.
 - Use either the 274 sitting-day statistic or the 16% referral statistic in the exam, not both, if
   the word limit is tight.
 
-**Demand decoding:** The directive **discuss** requires a direct position on ““Cabinet dominance in India is a product of constitutional fusion amplified by party and…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in ““Cabinet dominance in India is a product of constitutional fusion amplified by party and procedural power.” Discuss.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Separate the constitutional base from political amplifiers. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Explain consequences and correctives; avoid calling the cabinet legally sovereign. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Articles 74–75 create a ministry drawn from Parliament and sustained by Lok Sabha confidence. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** This fusion enables coordination, but does not alone explain cabinet dominance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Party amplification: A governing majority controls House outcomes. The whip, backed where **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in ““Cabinet dominance in India is a product of constitutional fusion amplified by party and procedural power.” Discuss.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M5. 20 marks | 250-300 words
+#### M5. 20 marks | 250 words
 
 **Question:** Critically evaluate whether India's parliamentary system has delivered responsibility at an unacceptable cost to stability and policy continuity.
 
@@ -950,7 +976,7 @@ India's framers preferred day-to-day responsibility to fixed-term stability. The
 confidence-based instability prevents governance without improving accountability.
 
 **Responsibility delivered:** Article 75(3) makes survival depend on Lok Sabha confidence.
-Questions, committees, financial voting and no-confidence enable continuing scrutiny and
+Questions, committees, financial voting and no-confidence enable scrutiny and
 replacement without constitutional rupture. *Shamsher Singh* locates responsibility in the
 advice-giving Council; *U.N.R. Rao* preserves ministerial continuity during dissolution.
 
@@ -958,9 +984,9 @@ advice-giving Council; *U.N.R. Rao* preserves ministerial continuity during diss
 defection can delay decisions and disrupt policy. Confidence incentives may also encourage
 short-term calculation.
 
-**Counterevidence:** Full-term coalitions after 1999 show that negotiated programmes,
+**Counterevidence:** Coalitions after 1999 show that negotiated programmes,
 anti-defection discipline and institutional learning can produce stability. Bureaucratic, judicial
-and intergovernmental institutions preserve substantial policy continuity. Presidential tenure
+and intergovernmental institutions preserve policy continuity. Presidential tenure
 would reduce one instability but risk executive-legislative deadlock and personal concentration.
 
 **Deeper deficit:** Majority whips, reduced sittings, weak committee referral and PMO
@@ -989,27 +1015,8 @@ accountability are preferable to abandoning responsible government.
 - Compress historical examples into one line and devote the extra space to reforms that restore
   scrutiny without abandoning confidence government.
 
-**Demand decoding:** The directive **evaluate** requires a direct position on “Critically evaluate whether India's parliamentary system has delivered responsibility at an…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Critically evaluate whether India's parliamentary system has delivered responsibility at an unacceptable cost to stability and policy continuity.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** “Critically evaluate” requires criteria, positive evidence, negative evidence, counterevidence and a reasoned threshold judgment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Responsibility, stability and continuity must all be addressed. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** India's framers preferred day-to-day responsibility to fixed-term stability. The test is whether **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** confidence-based instability prevents governance without improving accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Responsibility delivered: Article 75(3) makes survival depend on Lok Sabha confidence. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Critically evaluate whether India's parliamentary system has delivered responsibility at an unacceptable cost to stability and policy continuity.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M6. 20 marks | 250-300 words
+#### M6. 20 marks | 250 words
 
 **Question:** The simultaneous-elections proposal revives the parliamentary dilemma between stability and accountability. Examine the constitutional trade-offs without treating the proposal as current law.
 
@@ -1022,8 +1029,8 @@ accountability are preferable to abandoning responsible government.
 **Model solution**
 
 The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 proposes Article 82A for
-simultaneous Lok Sabha and Assembly elections. As of 28 August 2026 it remains under Joint
-Committee review after a 30 July extension to report by the Winter Session 2026: it is not law and
+simultaneous Lok Sabha and Assembly elections. As of 7 September 2026 it remains under Joint
+Committee review it is not law and
 no implementation year is established.
 
 **Stability case:** Fewer election cycles may create a predictable administrative calendar, reduce
@@ -1061,23 +1068,3 @@ responsibility. Until enactment, this remains an analytical illustration, not co
 - Put `Bill, not law` in the first line and avoid predicting an implementation year.
 - Use a four-box answer plan — stability, confidence flexibility, federalism, safeguards — and end
   with conditions for constitutionally acceptable design rather than a yes/no political position.
-
-**Demand decoding:** The directive **examine** requires a direct position on “The simultaneous-elections proposal revives the parliamentary dilemma between stability and…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “The simultaneous-elections proposal revives the parliamentary dilemma between stability and accountability. Examine the constitutional trade-offs…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Use the proposal only as a system-design debate. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Balance governance claims against confidence flexibility, federalism and voter accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The Constitution (One Hundred and Twenty-Ninth Amendment) Bill, 2024 proposes Article 82A for **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** simultaneous Lok Sabha and Assembly elections. As of 28 August 2026 it remains under Joint **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Committee review after a 30 July extension to report by the Winter Session 2026: it is not law and **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “The simultaneous-elections proposal revives the parliamentary dilemma between stability and accountability. Examine the constitutional trade-offs…”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.

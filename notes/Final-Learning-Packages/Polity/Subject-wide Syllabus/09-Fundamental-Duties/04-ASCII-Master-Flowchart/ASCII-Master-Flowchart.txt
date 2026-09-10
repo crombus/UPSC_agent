@@ -1,208 +1,116 @@
-ASCII MASTER FLOW — PANEL 1/12: From absent list to Part IVA and eleven citizen duties
-ORIGINAL CONSTITUTION
-  +-- enforceable rights in Part III
-  +-- State duties in Part IV
-  +-- no separate constitutional list of citizen duties
-        |
-1976 SWARAN SINGH COMMITTEE
-  +-- recommended a separate chapter and eight duties
-  +-- penalties and tax duty were among proposals not fully enacted
-        |
-42ND AMENDMENT, 1976
-  +-- inserted PART IVA and ARTICLE 51A
-  +-- enacted ten duties, clauses (a) to (j)
-        |
-86TH AMENDMENT, 2002
-  +-- inserted clause (k): education opportunity for child / ward, age 6-14
+ASCII MASTER FLOW - PANEL 1/12: Origin, insertion and democratic caution
+ORIGINAL CONSTITUTION (1950) -> Part III rights + Part IV State directives
+                              -> no separate list of citizen duties
+SWARAN SINGH COMMITTEE (1976) -> recommended a separate chapter + eight duties
+42ND AMENDMENT (1976) -> inserted Part IVA, Article 51A, clauses (a)-(j): ten duties
+J.S. VERMA COMMITTEE (1999) -> education, awareness and existing-law implementation
+86TH AMENDMENT (2002) -> inserted clause (k): present total eleven
+SOURCE TAG -> erstwhile USSR; LIMIT -> Indian duties remain democratic and rights-bounded
 
-USSR is the conventional source influence; Indian duties remain rights-bounded.
-MUST REMEMBER: Part IVA contains the exact eleven duties in Article 51A: ten inserted by the
-  42nd Amendment in 1976 and clause (k) by the 86th Amendment in 2002; the Swaran Singh
-  Committee recommended eight, not the enacted ten.
+ASCII MASTER FLOW - PANEL 2/12: Exact Article 51A clauses (a)-(d)
+OPENING -> "It shall be the duty of every citizen of India"
+(a) abide by the Constitution and respect its ideals and institutions,
+    the National Flag and the National Anthem
+(b) cherish and follow the noble ideals which inspired our national struggle for freedom
+(c) uphold and protect the sovereignty, unity and integrity of India
+(d) defend the country and render national service when called upon to do so
+TRAP -> lawful criticism is not disloyalty; clause (d) does not itself create conscription.
 
-ASCII MASTER FLOW — PANEL 2/12: The eleven duties grouped for exact recall
-CONSTITUTIONAL LOYALTY AND NATION
-  +-- (a) Constitution, ideals, institutions, Flag and Anthem
-  +-- (b) freedom-struggle ideals
-  +-- (c) sovereignty, unity and integrity
-  +-- (d) defend country and render national service when called
+ASCII MASTER FLOW - PANEL 3/12: Exact Article 51A clauses (e)-(h)
+(e) promote harmony and the spirit of common brotherhood amongst all the people of India
+    transcending religious, linguistic and regional or sectional diversities;
+    renounce practices derogatory to the dignity of women
+(f) value and preserve the rich heritage of our composite culture
+(g) protect and improve the natural environment including forests, lakes, rivers and
+    wild life, and have compassion for living creatures
+(h) develop scientific temper, humanism and the spirit of inquiry and reform
+TRAP -> dignity of women is in (e); compassion is in (g); reform is in (h).
 
-SOCIAL AND CULTURAL CITIZENSHIP
-  +-- (e) harmony and brotherhood; renounce practices derogatory to women
-  +-- (f) value and preserve the rich heritage of composite culture
+ASCII MASTER FLOW - PANEL 4/12: Exact Article 51A clauses (i)-(k)
+(i) safeguard public property and abjure violence
+(j) strive towards excellence in all spheres of individual and collective activity so
+    that the nation constantly rises to higher levels of endeavour and achievement
+(k) parent or guardian: provide opportunities for education to his child or ward
+    between the age of six and fourteen years
+EDUCATION TRIAD -> Article 21A child right, 6-14 | Article 45 State effort, below 6
+                  | Article 51A(k) parent/guardian duty, 6-14
 
-ECOLOGICAL AND RATIONAL CITIZENSHIP
-  +-- (g) environment and compassion for living creatures
-  +-- (h) scientific temper, humanism, inquiry and reform
+ASCII MASTER FLOW - PANEL 5/12: Legal status and enforceability firewall
+ARTICLE 51A ADDRESSEE -> citizens only; foreigners remain bound by valid ordinary law
+DIRECT STATUS -> non-justiciable; no standalone writ merely for breach
+CRIMINAL STATUS -> no offence, prosecutor, procedure or punishment in Article 51A itself
+MEDIATED EFFECT -> civic education + policy + interpretive aid + valid legislation
+VALID LAW -> legislative competence + defined elements + procedure + proof + sanction
+REVIEW -> Fundamental Rights + equality + due process + proportionality + judicial review
+RULE -> duty may explain purpose; it cannot cure an unconstitutional law.
 
-PUBLIC ETHIC AND CAPABILITY
-  +-- (i) safeguard public property; abjure violence
-  +-- (j) strive for individual and collective excellence
-  +-- (k) education opportunity for child / ward aged six to fourteen
+ASCII MASTER FLOW - PANEL 6/12: Rights, DPSP and duties without slogans
+PART III RIGHTS -> protect liberty, equality, conscience and remedies
+PART IV DPSP -> direct State policy toward social and economic justice
+PART IVA DUTIES -> orient citizen responsibility for common constitutional goods
+BRIDGES -> 48A + 51A(g) environment | 21A + 45 + 51A(k) education
+         -> fraternity + 51A(e) harmony/gender dignity
+LIMIT -> no Part substitutes for another; duties do not automatically override rights.
 
-ASCII MASTER FLOW — PANEL 3/12: Legal character: constitutional duty mediated by enforceable law
-ARTICLE 51A APPLIES TO EVERY CITIZEN
-  +-- not directly to foreigners
-  +-- several clauses need legislation or institutional support
-  |
-NON-JUSTICIABLE
-  +-- no writ merely to compel abstract performance
-  +-- no automatic penalty from Article 51A alone
-  |
-LEGAL MEDIATION
-  +-- legislatures enact valid laws within competence
-  +-- the executive implements law and civic education
-  +-- courts use duty values in interpretation where relevant
-  +-- implementing laws remain subject to rights and judicial review
+ASCII MASTER FLOW - PANEL 7/12: Constitutional patriotism and national symbols
+51A(a) -> Constitution, institutions, Flag and Anthem
+BIJOE EMMANUEL (1986) -> respectful non-singing protected by Articles 19 and 25
+NAVEEN JINDAL (2004) -> dignified Flag display is Article 19(1)(a) expression
+SHYAM NARAYAN CHOUKSEY -> 2016 interim cinema mandate
+                              -> final order 9 Jan 2018: playing optional/directory
+NATIONAL HONOUR ACT 1971 -> defined insult, prevention and disturbance offences
+VERDICT -> respect without compelled conformity; conscience is not automatic disrespect.
 
-moral and civic norm -> education + valid law + institutions -> enforceable obligation
-TRAP: no separate statute exists for every duty.
+ASCII MASTER FLOW - PANEL 8/12: Civic domains and interpretive cases
+51A(e) -> fraternity across difference + renounce practices derogatory to women
+51A(f) -> plural, layered composite culture; preservation does not freeze inequality
+51A(h) -> scientific temper + humanism + inquiry + reform
+ARUNA ROY (2002) -> non-proselytising comparative/value education permissible;
+                    no licence for dogma or superstition
+51A(j) + AIIMS STUDENTS UNION (2001) -> excellence has interpretive significance
+51A(i) -> public property + non-violence; peaceful dissent remains protected
 
-ASCII MASTER FLOW — PANEL 4/12: Rights, duties and DPSP: three constitutional directions
-PART III: RIGHTS
-  +-- protected claims, autonomy and enforceable remedies
-        |
-        +---- CONSTITUTIONAL BALANCE ----+
-        |                                |
-PART IVA: DUTIES                     PART IV: DIRECTIVES
-  +-- citizen responsibility            +-- State welfare purpose
-  +-- non-justiciable text               +-- non-justiciable programme
-        |                                |
-        +---------- DEMOCRATIC RECIPROCITY ----------+
+ASCII MASTER FLOW - PANEL 9/12: Environmental citizenship and animal compassion
+ARTICLE 48A (State) + ARTICLE 51A(g) (citizen) + ARTICLE 21 (right)
+  -> shared environmental constitutionalism
+M.C. MEHTA (1991) -> environmental education and awareness
+STATUTES -> Environment Protection Act 1986 | Wild Life Protection Act 1972
+         -> Van (Sanrakshan Evam Samvardhan) Adhiniyam 1980
+A. NAGARAJA (2014) -> strong compassion-based statutory/constitutional reasoning
+JALLIKATTU CONSTITUTION BENCH (2023) -> amended State regimes upheld with safeguards
+LIMIT -> neither case creates a free-standing absolute animal right from clause (g).
 
-rights protect responsible agency
-  -> duties sustain civic conditions
-  -> DPSP directs public power toward justice
+ASCII MASTER FLOW - PANEL 10/12: Real statutory nexus and committee separation
+SYMBOLS -> Prevention of Insults to National Honour Act 1971; Flag Code 2002
+SOVEREIGNTY / HARMONY -> UAPA 1967; BNS 196-197; RPA 123(3)/(3A)
+DIGNITY -> Protection of Civil Rights Act 1955; SC/ST PoA Act 1989; gender laws
+ENVIRONMENT -> environment, wildlife and forest enactments
+PUBLIC PROPERTY -> Prevention of Damage to Public Property Act 1984
+EDUCATION -> RTE Act 2009, including section 10
+SWARAN SINGH -> recommended duties; omitted tax/blanket-penalty proposals stay omitted
+J.S. VERMA -> operationalisation through teaching, awareness and existing law
+RULE -> illustrative nexus, not an exhaustive or false one-to-one statutory map.
 
-LIMIT: duty cannot erase a right; right does not immunise violence or illegality.
+ASCII MASTER FLOW - PANEL 11/12: Criticism, civic republicanism and graded reform
+CRITICISM -> vague/open-textured | no general sanction | citizen-only text
+           -> Emergency provenance | selective moral policing | State hypocrisy risk
+REPLY -> constitutional visibility | active citizenship | interpretive value
+      -> fraternity, environmental citizenship, scientific temper, public ethics
+COERCION RISK -> majoritarian definitions of patriotism/culture/harmony
+SAFEGUARDS -> constitutional literacy -> institutional example -> enforce existing law
+           -> civil/administrative measures -> narrow harm-based legislation
+           -> equality, conscience, due process, proportionality and review
 
-ASCII MASTER FLOW — PANEL 5/12: Patriotism and symbols: respect without compelled conformity
-ARTICLE 51A(a): RESPECT CONSTITUTION, INSTITUTIONS, FLAG AND ANTHEM
-  |
-BIJOE EMMANUEL (1986)
-  +-- respectful standing without singing was protected
-  +-- genuine conscience defeated compelled conformity
-  |
-NAVEEN JINDAL (2004)
-  +-- respectful Flag display falls within Article 19(1)(a)
-  +-- use remains subject to valid statutory restrictions
-  |
-SHYAM NARAYAN CHOUKSEY (2018)
-  +-- 2016 cinema direction was interim
-  +-- 9 January 2018 final order: cinema playing optional / directory
-
-VERDICT: protect republican symbols without reducing patriotism to one performance.
-
-ASCII MASTER FLOW — PANEL 6/12: Citizenship domains and the education triad
-CLAUSE   DOMAIN                  OPERATIVE DISTINCTION
-51A(e)   harmony + dignity       includes renouncing practices derogatory to women
-51A(f)   composite culture      plural inheritance, not one frozen culture
-51A(g)   environment + animals  works with Article 48A, Article 21 and statutes
-51A(h)   reason and reform       inquiry, not State-defined orthodoxy
-51A(i)   property + non-violence peaceful protest remains protected
-51A(j)   excellence             aspiration, not automatic rank or admission right
-51A(k)   child education        parent / guardian duty for ages six to fourteen
-
-EDUCATION TRIAD
-Article 21A -> State-guaranteed right, ages 6-14
-Article 45  -> early-childhood care and education below six
-51A(k)      -> parent / guardian duty, ages 6-14
-
-2023 Jallikattu ruling qualifies the stronger 2014 animal-welfare reading.
-CLOSE DISTINCTION: Fundamental Duties bind citizens, are non-justiciable and create no
-  automatic offence. Legal consequences arise only through valid statutes, while courts may
-  use duties as interpretive context subject to Fundamental Rights.
-
-ASCII MASTER FLOW — PANEL 7/12: Verma Committee and the existing-law implementation web
-J.S. VERMA COMMITTEE, 1999
-  +-- preferred education, awareness and enforcement of existing laws
-  +-- did not assume that every duty needs a separate penal statute
-  +-- proposed sensitisation and Fundamental Duties Day, 3 January
-
-EXISTING-LAW WEB: ILLUSTRATIVE, NOT ONE-TO-ONE
-  +-- National Honour Act / Flag law -> clause (a)
-  +-- UAPA, election and criminal-law fields -> sovereignty and harmony
-  +-- civil-rights and atrocity laws -> dignity and fraternity
-  +-- environment, wildlife and forest laws -> clause (g)
-  +-- Public Property Act -> clause (i)
-  +-- Right to Education Act -> clause (k)
-
-CONTROL: valid statute defines offence and penalty; Article 51A supplies context.
-
-ASCII MASTER FLOW — PANEL 8/12: Criticism, enforceability debate and proportionate reform
-CRITICISM                         RESPONSE / REFORM
-vague terms                        teach meaning through civic education
-non-justiciability                 enforce valid laws, not abstract commands
-Emergency-era insertion            ground duties in democratic constitutionalism
-citizens-only reach                use ordinary law for institutions and foreigners
-selective moral policing           require legality, proportionality and equality
-no duty to vote / pay tax          do not read rejected proposals into the text
-
-REFORM LADDER
-1 constitutional literacy and public education
-2 map gaps in existing laws and implementation
-3 prefer civil / administrative measures where adequate
-4 legislate narrowly for demonstrable harm
-5 preserve rights, federal competence and judicial review
-
-VERDICT: strengthen civic capacity before creating an omnibus penal code.
-
-ASCII MASTER FLOW — PANEL 9/12: Current legal status and evidence control
-CURRENT STATUS — CHECK BEFORE THE EXAM
-  +-- Durga Dutt v Union of India, W.P.(C) 67/2022: pending on 28 August 2026
-  +-- written order, 11 September 2024: enactment synopsis sought; matter relisted
-  +-- oral hearing observations are not a final ratio
-
-OPERATIVE STATUTORY CONTROLS
-  +-- National Honour Act, 1971: defined symbol/Anthem offences
-  +-- BNS 196/197: harmony and national-integration fields
-  +-- RTE Act, 2009 section 10: parent/guardian admission duty
-  +-- Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980: current short title
-
-EVIDENCE RULE
-Constitutional duty supplies context; the statute supplies elements, process and sanction.
-
-ASCII MASTER FLOW — PANEL 10/12: Prelims traps and verified PYQ routes
-PRELIMS CONTROL
-Part IVA -> Article 51A only          citizens only; non-justiciable text
-42nd -> ten duties                   86th -> clause (k), total eleven
-Swaran Singh -> eight recommended    tax duty / blanket penalties not enacted
-51A(g) citizen duty                  48A State directive
-21A right / 45 below-six DPSP        51A(k) parent duty, ages 6-14
-
-VERIFIED PYQ STATUS
-  +-- no direct routed PYQ found in the maintained 2018-2025 ledgers
-  +-- 2020 Q8 and 2025 Q55 are supporting questions owned by Polity 08
-  +-- 2025 local official Set-A key = C
-  +-- 2020 answer remains explicitly inferred
-
-TRAP: never manufacture a direct Mains PYQ from a coaching practice question.
-
-ASCII MASTER FLOW — PANEL 11/12: Executable 10, 15 and 20-mark answer routes
-10 MARKS / 150 WORDS
-Part IVA status -> amendment origin -> two legal effects -> one rights limit -> verdict
-
-15 MARKS / 250 WORDS
-exact duty / issue -> statute or case mechanism -> criticism -> graded reform
-
-20 MARKS / 300 WORDS
-thesis -> rights-DPSP-duty architecture -> grouped clauses -> evidence
-       -> coercion counter-case -> proportionate implementation -> qualified conclusion
-
-EXECUTION CHECK
-  +-- exact Article / amendment / case status
-  +-- claim -> named evidence -> analysis -> qualification
-  +-- increase dimensions with marks; do not lengthen generic prose
-
-FINAL LINE
-Responsible citizenship gains legal effect through precise, rights-compatible institutions.
-
-ASCII MASTER FLOW — PANEL 12/12: Current legal-status firewall: duty is not automatic liability
-ARTICLE 51A -> constitutional duty, citizens only, non-justiciable
-NATIONAL HONOUR ACT / BNS / RTE / ENVIRONMENT LAWS -> separate statutory elements
-DURGA DUTT ORDER, 11 SEP 2024 -> synopsis requested; no final enforceability holding
-ORAL OBSERVATION != RATIO | MORAL DUTY != OFFENCE | DUTY != UNLIMITED RESTRICTION
-VERDICT: operationalise through precise law, civic education and rights-compatible review.
-LEGAL/SOURCE LIMIT: Durga Dutt remains a pending proceeding on the located official record;
-  its 11 September 2024 order sought a legislative synopsis and did not make duties
-  justiciable or convert reported oral observations into ratio.
+ASCII MASTER FLOW - PANEL 12/12: Current status, PYQs, traps and answer spine
+DURGA DUTT, W.P.(C) 67/2022 -> pending on official record checked 7 Sep 2026
+ORDER 11 SEP 2024 -> Attorney General asked for Central/State enactment synopsis
+                   -> no final justiciability holding; oral observation != ratio
+PYQS -> no direct owned objective/Mains item in audited ledgers
+     -> supporting 2020 Q8: no final official/local-official key held; no letter printed
+     -> supporting 2025 Q55: final local-official key C
+TRAPS -> Swaran 8 / enacted 10 / current 11 | tax and vote not enumerated
+       -> citizen duty != State licence | duty != offence | respect != compulsion
+ANSWER SPINE -> thesis -> exact clause -> case/statute -> mechanism -> rights limit
+             -> graded reform -> qualified verdict
+WORD LIMITS -> 10 marks: 150 words | 15 marks: 250 words | 20 marks: 250 words
+VERDICT -> responsible freedom through civic education and precise, reviewable law.

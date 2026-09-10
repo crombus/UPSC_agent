@@ -1,1283 +1,871 @@
----
-title: "Governor CM State Council — Solved Practice Workbook"
-topic_key: polity-19
----
-# Governor CM State Council — Solved Practice Workbook
+# Governor, Chief Minister and State Council — Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-### Original MCQ loop - strict A → B → C → D rotation
+### Exactly 32 original MCQs — answer sequence ABCD × 8
 
-#### OM1. Mode of selection
+Each option is explained independently. The Examiner trap identifies the specific close-option error.
 
-Which statement correctly describes the constitutional selection of a State Governor?
+#### MCQ 1.
 
-A. The President appoints the Governor by warrant.
-B. An electoral college of State legislators and MPs elects the Governor.
-C. The Chief Minister nominates and the High Court confirms the Governor.
-D. The State Assembly elects the Governor by proportional representation.
+Article 153 after the Seventh Amendment permits which arrangement?
 
-**Answer: A.**
-
-**Explanation:** [FACT] Article 155 provides presidential appointment. There is no gubernatorial electoral college.
-
-#### OM2. Common Governor
-
-The Constitution permits:
-
-A. one State to have two Governors simultaneously with equal authority.
-B. the same person to be appointed Governor of two or more States.
-C. a Chief Minister to serve automatically as Governor of another State.
-D. Parliament to merge two States merely by appointing a common Governor.
-
-**Answer: B.**
-
-**Explanation:** [FACT] The proviso to Article 153 permits a common incumbent. [LIMIT] The States and their ministries remain constitutionally distinct.
-
-#### OM3. Tenure
-
-Which formulation is most accurate?
-
-A. A Governor can neither be transferred nor reappointed.
-B. The Governor serves until removed by the State Assembly.
-C. The five-year term is subject to the President's pleasure, and the Governor continues until a successor enters office.
-D. The Governor has an unqualified five-year tenure.
-
-**Answer: C.**
-
-**Explanation:** [FACT] Article 156 combines pleasure, five years and continuity. Five years is not a fixed enforceable lease.
-
-#### OM4. Oath
-
-Who ordinarily administers the Governor's oath?
-
-A. Chief Minister.
-B. President of India.
-C. Speaker of the Legislative Assembly.
-D. Chief Justice of the High Court exercising jurisdiction, or the available senior judge in the Chief Justice's absence.
-
-**Answer: D.**
-
-**Explanation:** [FACT] Article 159 supplies the High Court-based oath arrangement.
-
-#### OM5. Article 361
-
-Which is protected during a Governor's term?
-
-A. No criminal proceeding may be instituted or continued against the Governor.
-B. No civil claim can ever be brought for personal acts.
-C. Every State-government action becomes immune from review.
-D. The Governor acquires legislative speech privilege as a House member.
+A. One person may be Governor of two or more States.
+B. Two Governors may exercise equal authority in one State.
+C. A Chief Minister may assume gubernatorial office automatically.
+D. A common Governor merges the participating State executives.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 361 supplies personal criminal-process and arrest protections. [LIMIT] It does not erase review of governmental action.
+**Option A explanation:** This states the proviso added to Article 153; each State office remains distinct.
 
-#### OM6. Legislative privilege
+**Option B explanation:** Article 153 contemplates one Governor for each State, not co-equal dual incumbency.
 
-Why does Article 194 speech immunity not automatically attach to the Governor?
+**Option C explanation:** No constitutional succession rule converts a Chief Minister into Governor.
 
-A. Article 361 repeals Article 194 whenever the Governor addresses the House.
-B. The Governor is a component under Article 168 but is not a member of either House.
-C. The Governor is outside the State legislature for all purposes.
-D. Article 194 applies only to Parliament.
+**Option D explanation:** A common incumbent does not merge States, legislatures or Councils of Ministers.
+
+**Examiner trap 1:** Common incumbent is not constitutional merger.
+
+#### MCQ 2.
+
+How is a State Governor constitutionally selected?
+
+A. By an electoral college of State legislators.
+B. By the President through a warrant under hand and seal.
+C. By the Chief Minister subject to High Court confirmation.
+D. By the Legislative Assembly through proportional representation.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Membership, not mere inclusion in the legislative composition, controls member privilege.
+**Option A explanation:** No gubernatorial electoral college exists; that logic belongs to other offices.
 
-#### OM7. Nomination
+**Option B explanation:** Article 155 supplies presidential appointment by warrant under hand and seal.
 
-In a bicameral State, the Governor nominates:
+**Option C explanation:** The Chief Minister has no constitutional nomination-and-confirmation route.
 
-A. one-third of the Legislative Council.
-B. all members representing graduates and teachers.
-C. one-sixth of the Legislative Council.
-D. one-sixth of the Legislative Assembly.
+**Option D explanation:** The Assembly neither elects nor confirms the Governor.
+
+**Examiner trap 2:** Do not import the President's election method into Article 155.
+
+#### MCQ 3.
+
+Which pair exhausts the constitutional qualifications in Article 157?
+
+A. Residence in the State and a law degree.
+B. Thirty years of age and legislative membership.
+C. Indian citizenship and completed age of thirty-five years.
+D. Eminence in public life and political non-partisanship.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Article 171 reserves one-sixth of the Council for gubernatorial nominees with specified knowledge/experience.
+**Option A explanation:** Residence and education are not Article 157 qualifications.
 
-#### OM8. Article 166
+**Option B explanation:** The age is thirty-five and legislative membership is incompatible with office.
 
-Which statement is correct?
+**Option C explanation:** Article 157 contains precisely citizenship and completed age thirty-five.
 
-A. Every order in the Governor's name must have been personally decided by the Governor.
-B. Business rules are framed by the State Assembly alone.
-C. Article 166 makes the Governor the political head of every department.
-D. State executive action is expressed in the Governor's name and authenticated under rules, without implying personal decision-making.
+**Option D explanation:** These are reform preferences, not constitutional eligibility conditions.
+
+**Examiner trap 3:** Sarkaria criteria must not be converted into Article 157 text.
+
+#### MCQ 4.
+
+Who ordinarily administers the Governor's oath under Article 159?
+
+A. The President of India.
+B. The Chief Minister.
+C. The Speaker of the Assembly.
+D. The Chief Justice of the jurisdictional High Court, or the available senior judge in the Chief Justice's absence.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Article 166 provides form, authentication and allocation/transaction rules for responsible government.
+**Option A explanation:** The President appoints but does not ordinarily administer this oath.
 
-#### OM9. Article 163 default
+**Option B explanation:** The political executive does not administer the Governor's constitutional oath.
 
-The constitutional default is that the Governor:
+**Option C explanation:** The Assembly Speaker has no Article 159 role.
 
-A. acts on the aid and advice of the CM-led Council except in a narrow recognised discretionary field.
-B. may reject every advised decision without reasons.
-C. is bound only by directions of the Union Home Ministry.
-D. acts independently whenever political controversy exists.
+**Option D explanation:** Article 159 places oath administration in the High Court judiciary.
+
+**Examiner trap 4:** Appointment and oath are performed by different constitutional authorities.
+
+#### MCQ 5.
+
+Which statement best reflects Article 156 read with B.P. Singhal (2010)?
+
+A. Five years is subject to presidential pleasure, but removal cannot be arbitrary, capricious, unreasonable or mala fide.
+B. A Governor has an enforceable five-year tenure unless impeached.
+C. The State Assembly may remove the Governor by effective majority.
+D. Every removal is non-justiciable because reasons are never relevant.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 163 and *Shamsher Singh (1974)* establish advice as the norm. Discretion is the exception.
+**Option A explanation:** This preserves pleasure while adding constitutional non-arbitrariness review.
 
-#### OM10. Discretion
+**Option B explanation:** No Governor impeachment process or guaranteed lease exists.
 
-Which is the best example of constitutionally recognised gubernatorial discretion?
+**Option C explanation:** Article 156 assigns no Assembly removal vote.
 
-A. Selecting individual ministers contrary to the CM's advice.
-B. Reserving an appropriate State Bill for the President under Article 200.
-C. deciding which faction is the real political party.
-D. rewriting the State budget.
+**Option D explanation:** A prima facie arbitrariness case may require Union justification.
+
+**Examiner trap 5:** Pleasure is broad tenure power, not a synonym for arbitrariness.
+
+#### MCQ 6.
+
+What did Hargovind Pant v. Dr Raghukul Tilak (1979) decide?
+
+A. A Governor must be an outsider to the State.
+B. The Governor's office is an independent constitutional office, not employment under the Union for Article 319(d).
+C. A former SPSC member can never become Governor.
+D. The Governor is a subordinate employee of the President.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Reservation is a recognised discretionary field. Party identity and ordinary policy belong to other institutions.
+**Option A explanation:** Outsider status is a recommendation, not this case's holding.
 
-#### OM11. *Shamsher Singh (1974)*
+**Option B explanation:** The Article 319(d) challenge failed because the office was not Union employment.
 
-The main proposition of *Shamsher Singh (1974)* for this topic is:
+**Option C explanation:** The judgment upheld rather than barred the appointment.
 
-A. Article 356 is wholly non-justiciable.
-B. every Governor must be elected.
-C. the President and Governor are constitutional heads ordinarily acting on ministerial advice.
-D. the Governor may pardon a court-martial sentence.
+**Option D explanation:** Presidential appointment does not create an employer-employee relationship.
+
+**Examiner trap 6:** Use the Article 319(d) context, not a vague independence slogan.
+
+#### MCQ 7.
+
+Which proposition about Article 361 is correct?
+
+A. No civil proceeding may ever be filed for a Governor's personal act.
+B. Every governmental act done in the Governor's name is immune from review.
+C. The Governor enjoys personal process protections during office, while the underlying governmental action can still be reviewed.
+D. Article 361 gives House-speech immunity under Article 194.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The case prevents formal vesting from becoming personal executive rule.
+**Option A explanation:** Personal civil proceedings may follow the constitutional two-month notice route.
 
-#### OM12. *S.R. Bommai (1994)*
+**Option B explanation:** Rameshwar Prasad confirms that personal immunity does not shield the action's validity.
 
-Which proposition is most closely associated with *S.R. Bommai (1994)*?
+**Option C explanation:** This separates the office-holder's immunity from review of constitutional action.
 
-A. A Legislative Council must exist in every State.
-B. Article 200 creates automatic deemed assent.
-C. A common Governor is unconstitutional.
-D. Article 356 is reviewable and disputed majority should ordinarily be tested on the House floor.
+**Option D explanation:** Article 194 protects legislative members; the Governor is not a House member.
+
+**Examiner trap 7:** Immunity of person is not immunity of decision or supporting material.
+
+#### MCQ 8.
+
+How should Articles 154 and 163 be read together?
+
+A. Article 154 makes every executive decision personally discretionary.
+B. Article 163 transfers State executive power to the President.
+C. Article 154 eliminates collective responsibility.
+D. Formal vesting in the Governor operates through the CM-led Council's advice except in a bounded constitutional field.
 
 **Answer: D.**
 
-**Explanation:** [FACT] *S.R. Bommai (1994)* constitutionalised review and floor-test discipline and recognised federalism as Basic Structure.
+**Option A explanation:** Formal vesting cannot be isolated from responsible government.
 
-#### OM13. *Rameshwar Prasad (2006)*
+**Option B explanation:** State executive power is not transferred to the Union executive.
 
-The case principally warns that:
+**Option C explanation:** Article 164(2), not Article 154, expressly states collective responsibility.
 
-A. apprehension of future horse-trading cannot replace objective constitutional material for dissolution.
-B. courts cannot review an Assembly dissolution.
-C. the Governor must always invite the single largest party.
-D. every post-election coalition is illegal.
+**Option D explanation:** This is the parliamentary reading affirmed in Shamsher Singh.
+
+**Examiner trap 8:** Formal vesting does not prove personal government.
+
+#### MCQ 9.
+
+The central holding of Shamsher Singh (1974) for State executive power is that:
+
+A. The Governor is a constitutional head ordinarily acting on ministerial advice, including in Article 234 appointments.
+B. Article 163 creates unlimited personal discretion.
+C. The Governor may dismiss any majority-holding ministry.
+D. Every power expressed in the Governor's name requires personal satisfaction.
 
 **Answer: A.**
 
-**Explanation:** [FACT] The Bihar dissolution based on anticipated conduct was held unconstitutional/mala fide.
+**Option A explanation:** The seven-judge ruling rejected broad personal satisfaction and protected cabinet government.
 
-#### OM14. *Nabam Rebia (2016)*
+**Option B explanation:** Discretion remains exceptional rather than general.
 
-For gubernatorial power, *Nabam Rebia (2016)* supports which rule?
+**Option C explanation:** Assembly confidence constrains pleasure over the ministry.
 
-A. every Speaker-removal question is finally settled.
-B. summoning, prorogation and messages are normally advice-bound; discretion cannot be self-expanded.
-C. the Governor may adjudicate Tenth Schedule petitions.
-D. Article 174 is wholly personal to the Governor.
+**Option D explanation:** The case rejects, rather than establishes, universal personal satisfaction.
+
+**Examiner trap 9:** Attach Shamsher Singh to advice and its subordinate-judiciary context.
+
+#### MCQ 10.
+
+Which is outside a legitimate domain of gubernatorial discretion?
+
+A. Choosing a credible CM claimant in a genuinely hung Assembly.
+B. Selecting ministers contrary to the Chief Minister's advice because the Governor prefers another team.
+C. Sending a reasoned Article 356 report on constitutional breakdown.
+D. Using a specially worded constitutional responsibility in a named State.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The case narrows Article 163 discretion. [CURRENT/LIMIT] The Speaker-removal issue was referred in *Subhash Desai (2023)* and is treated as unresolved here.
+**Option A explanation:** Hung-House selection is a temporary situational necessity followed by floor proof.
 
-#### OM15. *Subhash Desai (2023)*
+**Option B explanation:** Article 164 requires other ministers to be appointed on CM advice.
 
-Which statement is correct?
+**Option C explanation:** A reasoned breakdown report is constitutionally recognised, though reviewable.
 
-A. The Court disqualified the relevant legislators itself.
-B. The Court restored the previous Maharashtra government.
-C. A floor test needs objective material indicating possible loss of House confidence; intra-party dissent alone is insufficient.
-D. The Governor may call a floor test to decide internal party leadership.
+**Option D explanation:** Special responsibilities remain bounded to their exact texts.
+
+**Examiner trap 10:** Political controversy by itself does not manufacture discretion.
+
+#### MCQ 11.
+
+Which statement correctly bounds special gubernatorial responsibilities?
+
+A. Every Governor has personal law-and-order control.
+B. Article 371A applies uniformly to all tribal States.
+C. Articles 371A(1)(b) and 371H(a) create named law-and-order responsibilities; Sixth Schedule functions are provision-specific.
+D. Special responsibility authorises disregard of the Council in ordinary policy.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The objective-material rule is central. [LIMIT] No restoration followed because the CM resigned without facing the test.
+**Option A explanation:** Law-and-order individual judgment exists only where a special text supplies it.
 
-#### OM16. Non-member CM
+**Option B explanation:** Article 371A is Nagaland-specific.
 
-A person appointed Chief Minister without being a member of the State legislature must ordinarily secure membership within:
+**Option C explanation:** This preserves State-specific constitutional asymmetry without generalisation.
 
-A. one year.
-B. the remainder of the Assembly term.
-C. three months.
-D. six consecutive months.
+**Option D explanation:** Exceptional responsibility does not convert routine governance into personal rule.
+
+**Examiner trap 11:** Never turn a named-State exception into an all-India gubernatorial power.
+
+#### MCQ 12.
+
+In a hung Assembly, the constitutionally safest course is to:
+
+A. Always invite the single largest party regardless of support.
+B. Wait indefinitely until parties agree unanimously.
+C. Allow the Governor to count confidence privately and finally.
+D. Invite a credible claimant on objective support and require a prompt floor test.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Article 164(4) supplies the six-month rule. [LIMIT] It cannot cure an underlying disqualification.
+**Option A explanation:** No inflexible single-largest-party rule overrides credible coalition support.
 
-#### OM17. Floor-test trigger
+**Option B explanation:** Delay can distort political choice and administration.
 
-Which is the best constitutional basis for requiring a floor test?
+**Option C explanation:** The Governor facilitates but does not finally decide majority.
 
-A. Objective material creating a genuine doubt about Assembly confidence.
-B. Any newspaper report of party disagreement.
-C. A Governor's disagreement with policy.
-D. A request from the Union executive without State-level material.
+**Option D explanation:** Invitation remains provisional until the House supplies democratic proof.
+
+**Examiner trap 12:** Appointment opens the process; the floor test validates the government.
+
+#### MCQ 13.
+
+Which case most directly supports a prompt floor test where resignations created objective doubt in 2020 Madhya Pradesh?
+
+A. Shivraj Singh Chouhan v. Speaker, Madhya Pradesh Legislative Assembly.
+B. Hargovind Pant v. Raghukul Tilak.
+C. Epuru Sudhakar v. Government of Andhra Pradesh.
+D. B.P. Singhal v. Union of India.
 
 **Answer: A.**
 
-**Explanation:** [FACT] *Subhash Desai (2023)* requires objective material; *S.R. Bommai (1994)* identifies the floor as the forum.
+**Option A explanation:** The Court upheld a prompt test on objective resignation material while leaving the House to decide numbers.
 
-#### OM18. Dismissal
+**Option B explanation:** Hargovind Pant concerns Article 319(d) and office status.
 
-When may dismissal of a State ministry become constitutionally defensible?
+**Option C explanation:** Epuru Sudhakar concerns clemency review.
 
-A. When a Legislative Council criticises the ministry.
-B. After demonstrable loss of confidence where the ministry refuses to resign.
-C. Immediately after a party faction changes its leader.
-D. Whenever the Governor dislikes a Bill.
+**Option D explanation:** B.P. Singhal concerns gubernatorial removal.
+
+**Examiner trap 13:** Use Shivraj for objective resignation material, not every factional quarrel.
+
+#### MCQ 14.
+
+What is the exact warning from Rameshwar Prasad (2006)?
+
+A. The Governor must invite only a pre-poll alliance.
+B. Anticipated horse-trading cannot replace objective material and House process to justify pre-emptive dissolution.
+C. Article 356 proclamations are wholly non-justiciable.
+D. Courts must always restore a dissolved Assembly.
 
 **Answer: B.**
 
-**Explanation:** [ANALYSIS] Pleasure does not displace Assembly confidence. Dismissal is exceptional after loss is properly established.
+**Option A explanation:** The case did not constitutionalise one invitation order.
 
-#### OM19. Caretaker government
+**Option B explanation:** The Bihar dissolution was held unconstitutional; speculative future misconduct was insufficient.
 
-Which statement is most accurate?
+**Option C explanation:** The judgment reinforces, not denies, judicial review.
 
-A. The Constitution codifies a complete caretaker-government chapter.
-B. Dissolution leaves the State without any Council of Ministers.
-C. Caretaker continuity rests mainly on convention, with restraint on avoidable irreversible action.
-D. A caretaker ministry cannot perform urgent administration.
+**Option D explanation:** Relief depends on circumstances; the Assembly was not restored after election steps had advanced.
+
+**Examiner trap 14:** Invalidity of dissolution and the eventual remedy are separate questions.
+
+#### MCQ 15.
+
+Nabam Rebia (2016) held, in the Arunachal Pradesh context, that the Governor:
+
+A. May dictate the legislative agenda whenever removal of the Speaker is proposed.
+B. Possesses final authority over Tenth Schedule disqualification.
+C. Could not unilaterally pre-pone the session and prescribe the Speaker-removal agenda; Article 174 functions are normally advice-bound.
+D. May dissolve the Assembly without considering ministerial advice.
 
 **Answer: C.**
 
-**Explanation:** [ANALYSIS] Continuity is necessary, while restraint preserves electoral fairness and successor choice.
+**Option A explanation:** The impugned intervention was invalidated, not approved.
 
-#### OM20. Article 356 input
+**Option B explanation:** Disqualification belongs to the Speaker subject to review.
 
-Which statement is correct?
+**Option C explanation:** This is the bounded Governor holding; a separate Speaker-removal issue was later referred.
 
-A. A Governor's report automatically dissolves the Assembly.
-B. Courts cannot examine the material.
-C. Article 356 can be used only on a Governor's report.
-D. The President may act on a Governor's report or otherwise, but the action remains subject to constitutional controls.
+**Option D explanation:** Dissolution does not become an unrestricted personal power.
+
+**Examiner trap 15:** Separate the valid Governor holding from the referred Speaker-removal question.
+
+#### MCQ 16.
+
+According to Subhash Desai (2023), a Governor should call a floor test:
+
+A. To identify which faction controls a political party.
+B. Whenever any group of legislators alleges internal dissatisfaction.
+C. To decide the validity of a party whip.
+D. Only on objective material indicating possible loss of House confidence, not factional dissent alone.
 
 **Answer: D.**
 
-**Explanation:** [FACT] "Report or otherwise" is textual. Parliament and *S.R. Bommai (1994)* review remain.
+**Option A explanation:** Party identity is not for gubernatorial adjudication.
 
-#### OM21. Return of Bill
+**Option B explanation:** Intra-party discontent alone was held insufficient.
 
-Under Article 200, the Governor may return for reconsideration:
+**Option C explanation:** Whip validity follows party and Tenth Schedule processes.
 
-A. a non-Money Bill.
-B. a constitutional amendment passed by Parliament.
-C. only a Money Bill.
-D. a Finance Commission recommendation.
+**Option D explanation:** The Court found the Maharashtra call unjustified on the material before the Governor.
+
+**Examiner trap 16:** A floor test verifies House confidence; it does not create the doubt it purports to test.
+
+#### MCQ 17.
+
+State of Punjab v. Principal Secretary to the Governor (2023) establishes that:
+
+A. The Governor cannot keep Bills pending indefinitely and, if withholding assent, must follow the return route in Article 200's first proviso.
+B. A Governor may invalidate a legislative sitting merely by questioning it.
+C. Every pending Bill receives automatic deemed assent.
+D. The Court may dictate which Article 200 option the Governor selects.
 
 **Answer: A.**
 
-**Explanation:** [FACT] The first proviso's return mechanism excludes Money Bills.
+**Option A explanation:** The judgment required a decision and linked withholding with reconsideration.
 
-#### OM22. Mandatory reservation
+**Option B explanation:** The Court upheld the reconvened sittings and rejected this claimed power.
 
-Reservation is constitutionally mandatory where the Governor considers that a Bill:
+**Option C explanation:** Punjab did not create deemed assent.
 
-A. reduces a minister's salary.
-B. so derogates from High Court powers as to endanger its constitutional position.
-C. creates a Legislative Council.
-D. is opposed by the Union ruling party.
+**Option D explanation:** It required constitutional action without choosing the merits of the option.
+
+**Examiner trap 17:** Punjab rejects inaction, not the Governor's listed constitutional choices.
+
+#### MCQ 18.
+
+Under the five-judge 2025 Article 143 opinion, Article 200 presents:
+
+A. Four independent options including a free-standing return power.
+B. Three options: assent; reserve; or withhold and return a non-Money Bill with comments.
+C. Only assent or reservation.
+D. A personal pocket veto of indefinite silence.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The second proviso to Article 200 protects the High Court's constitutional position.
+**Option A explanation:** The first proviso restricts the withholding route rather than adding a fourth option.
 
-#### OM23. Article 201
+**Option B explanation:** Conclusion 165.1 states this three-option structure.
 
-After a reserved non-Money Bill is returned and repassed by the State legislature:
+**Option C explanation:** Withholding-return remains constitutionally available for a non-Money Bill.
 
-A. the Governor alone gives final assent without presidential consideration.
-B. it automatically becomes law.
-C. the President is not subject to an Article 200-style obligation to assent.
-D. the Supreme Court must certify it.
+**Option D explanation:** Prolonged unexplained indefinite inaction may attract limited mandamus.
+
+**Examiner trap 18:** Count the current opinion's routes, not isolated verbs in the bare text.
+
+#### MCQ 19.
+
+How should the April and November 2025 assent decisions be related?
+
+A. The advisory opinion appellate-set aside all relief in the Tamil Nadu case.
+B. The Tamil Nadu judgment remains the sole general rule on fixed timelines.
+C. The later advisory opinion expressly called the general timeline/deemed-assent reasoning erroneous, but did not formally overrule or set aside the inter partes relief.
+D. Both decisions require automatic assent after three months.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Article 201 does not reproduce the direct-return obligation applicable to the Governor.
+**Option A explanation:** Article 143 advice was not an appeal in the Tamil Nadu case.
 
-#### OM24. Current assent doctrine
+**Option B explanation:** The later five-judge opinion rejects the fixed-clock rule.
 
-As controlled to 28 August 2026, which statement is most accurate?
+**Option C explanation:** This captures both doctrinal disapproval and procedural relationship.
 
-A. Courts may choose whether the Governor should assent or reserve.
-B. The November 2025 opinion bindingly overruled every part of the April case.
-C. Every Bill is deemed assented after three months.
-D. No court-created rigid timeline or automatic deemed assent applies, but prolonged unexplained indefinite inaction may attract limited mandamus.
+**Option D explanation:** The opinion rejects rigid timelines and deemed assent.
+
+**Examiner trap 19:** Say 'disapproved the general propositions', not 'formally overruled'.
+
+#### MCQ 20.
+
+After a non-Money Bill reserved under Article 201 is returned and passed again, the President:
+
+A. Must assent because Article 200's repassage rule applies identically.
+B. Loses power to withhold assent.
+C. Must obtain a fresh Article 143 opinion.
+D. Is not constitutionally compelled to assent; Article 201 contains no 'shall not withhold' command.
 
 **Answer: D.**
 
-**Explanation:** [CURRENT] This is the later narrow controlling position. [LIMIT] The opinion is advisory and non-binding.
+**Option A explanation:** Article 200's direct-return language cannot be imported into Article 201.
 
-#### OM25. Ordinance session condition
+**Option B explanation:** The President retains the constitutional assent/withholding choice.
 
-Which statement is correct?
+**Option C explanation:** The 2025 opinion says an Article 143 reference is not mandatory.
 
-A. Article 213 is unavailable when the relevant legislature is fully in session under the constitutional session rule.
-B. A Governor may issue an ordinance on any Union List subject.
-C. An ordinance never needs to be laid before the legislature.
-D. An ordinance may be issued only after an Assembly rejects the same Bill.
+**Option D explanation:** This is the textually decisive distinction.
+
+**Examiner trap 20:** The State Houses' six-month reconsideration duty does not bind the President to assent.
+
+#### MCQ 21.
+
+When can an Article 213 ordinance ordinarily be promulgated in a bicameral State?
+
+A. When the Legislative Assembly is not in session or when both Houses are not simultaneously in session, and immediate action is necessary.
+B. Only when both Houses have been dissolved.
+C. Whenever the Governor disagrees with pending legislation.
+D. Only after presidential assent to the ordinance text.
 
 **Answer: A.**
 
-**Explanation:** [FACT] The power bridges a session gap and remains limited by legislative competence and laying.
+**Option A explanation:** Article 213's bicameral session condition and urgency requirement are stated here.
 
-#### OM26. *D.C. Wadhwa (1986)*
+**Option B explanation:** Dissolution of both Houses is neither required nor generally possible for a continuing Council.
 
-Routine serial re-promulgation was described as:
+**Option C explanation:** Policy disagreement cannot satisfy constitutional necessity.
 
-A. an exercise of legislative privilege.
-B. a fraud on the Constitution.
-C. a non-justiciable political question.
-D. a constitutional convention.
+**Option D explanation:** Presidential instructions are required only in the three specified proviso situations.
+
+**Examiner trap 21:** The power is unavailable only when both Houses are in session together.
+
+#### MCQ 22.
+
+D.C. Wadhwa v. State of Bihar is best known for holding that:
+
+A. Every ordinance is unconstitutional.
+B. Routine serial re-promulgation to avoid the legislature is a fraud on the Constitution.
+C. Ordinances survive permanently after lapse.
+D. The Governor may legislate on Union List subjects.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The case condemns executive repetition used to avoid the legislature.
+**Option A explanation:** The case condemned abuse, not the ordinance institution.
 
-#### OM27. *Krishna Kumar Singh (2017)*
+**Option B explanation:** This phrase captures Bihar's repeated bypass of legislative scrutiny.
 
-Which proposition is correct?
+**Option C explanation:** Lapse does not automatically preserve the ordinance as permanent law.
 
-A. Laying an ordinance is optional.
-B. Every lapsed ordinance creates permanent rights.
-C. Laying is mandatory, re-promulgation subverts legislative supremacy and satisfaction is reviewable at constitutional limits.
-D. Only a three-judge Bench decided the case unanimously.
+**Option D explanation:** Legislative competence remains a substantive limit.
+
+**Examiner trap 22:** The vice is repetition as a governing method, not a genuinely urgent first ordinance.
+
+#### MCQ 23.
+
+Krishna Kumar Singh (2017) adds which control to ordinance doctrine?
+
+A. The Governor's satisfaction can never be reviewed.
+B. Re-promulgation becomes valid after three cycles.
+C. Laying before the legislature is mandatory, satisfaction is reviewable at constitutional limits, and effects do not automatically endure.
+D. Every ordinance must first be approved by the High Court.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The seven-judge, 5:2 decision strengthened legislative control and rejected automatic enduring effects.
+**Option A explanation:** The seven-judge decision preserves review.
 
-#### OM28. Death sentence and Article 161
+**Option B explanation:** No numerical safe harbour for re-promulgation exists.
 
-The Governor:
+**Option C explanation:** These are the central legislative-supremacy holdings.
 
-A. may pardon every death sentence and every court-martial sentence.
-B. has no clemency role in death-sentence cases.
-C. may deal with court-martial but not State-field offences.
-D. may pardon a death sentence where the offence-law nexus lies within State executive power, but has no court-martial limb.
+**Option D explanation:** Judicial pre-clearance is not an Article 213 condition.
+
+**Examiner trap 23:** Do not reduce Krishna Kumar Singh to only the six-week expiry rule.
+
+#### MCQ 24.
+
+Which comparison of Articles 72 and 161 is correct?
+
+A. A Governor may pardon a death sentence whenever the offence lies in the State field.
+B. A Governor has no clemency power at all in a death-sentence case.
+C. A Governor may exercise clemency over court-martial punishment arising within the State.
+D. A Governor cannot pardon a death sentence, but may suspend, remit or commute it within the State field; the President may pardon a death sentence and exercises court-martial clemency.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Article 161 is delimited by the State offence-law field; Article 72 separately covers court-martial and every death sentence.
+**Option A explanation:** State-field jurisdiction does not authorise a Governor to pardon a death sentence.
 
-#### OM29. Article 167
+**Option B explanation:** Article 161 still permits suspension, remission or commutation of a death sentence within the State field.
 
-Which is an express duty of the Chief Minister?
+**Option C explanation:** Court-martial clemency is exclusively within Article 72, not Article 161.
 
-A. Communicate Council decisions and furnish information sought by the Governor.
-B. countersign every judicial order.
-C. appoint the Advocate General personally.
-D. Obtain Legislative Council confidence every month.
+**Option D explanation:** This states the Article 72(1)(c)/72(3) distinction and the separate court-martial exclusion accurately.
+
+**Examiner trap 24:** Article 161 uses the word 'pardon' generally, but a Governor cannot pardon a death sentence; do not erase the retained powers to suspend, remit or commute it.
+
+#### MCQ 25.
+
+Maru Ram (1980) treats constitutional clemency as:
+
+A. A power exercised by the appropriate government through binding ministerial advice, not personal mercy.
+B. A judicial appeal from the conviction.
+C. An unrestricted personal discretion of the Governor.
+D. A power exercisable only after legislative approval.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 167 also permits the Governor to require collectivisation of an individual minister's unconsidered decision.
+**Option A explanation:** The Court located real decision-making in the responsible government.
 
-#### OM30. Collective responsibility
+**Option B explanation:** Clemency is executive and does not replace appellate adjudication.
 
-The State Council of Ministers is collectively responsible to:
+**Option C explanation:** The holding rejects personal gubernatorial clemency.
 
-A. the Legislative Council.
-B. the Legislative Assembly.
-C. both Houses in equal measure.
-D. the Governor personally.
+**Option D explanation:** No prior House vote is a constitutional condition.
+
+**Examiner trap 25:** Article 161 orders are governmental decisions in constitutional form.
+
+#### MCQ 26.
+
+Epuru Sudhakar (2006) permits judicial review of clemency for:
+
+A. Any disagreement with the sentence length.
+B. Mala fides, arbitrariness, non-application of mind, exclusion of relevant material or reliance on irrelevant material.
+C. A complete rehearing of guilt in every case.
+D. Only a defect in the Governor's signature.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Article 164(2) locates confidence in the popularly elected Assembly.
+**Option A explanation:** Courts do not substitute ordinary sentencing preferences.
 
-#### OM31. Ministry-cap base
+**Option B explanation:** These recognised defects police constitutional decision quality.
 
-The maximum State ministry under Article 164(1A) is calculated with reference to:
+**Option C explanation:** Clemency review is limited rather than a universal retrial.
 
-A. combined membership of both State Houses.
-B. elected Assembly members excluding vacancies.
-C. total membership of the Legislative Assembly.
-D. a number fixed by the Governor.
+**Option D explanation:** Authentication is not the exclusive ground of review.
+
+**Examiner trap 26:** Limited review tests decision defects, not the wisdom of mercy as an appeal.
+
+#### MCQ 27.
+
+Article 167(c) enables the Governor to require the Chief Minister to:
+
+A. Dismiss an individual minister without Cabinet consideration.
+B. Disclose Cabinet advice in court.
+C. Place before the Council a matter decided by a minister but not considered by the Council.
+D. Transfer State executive power to the Union.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The cap is 15% of total Assembly membership and includes the CM.
+**Option A explanation:** Individual exit operates through CM-led ministerial responsibility.
 
-#### OM32. Minimum ministry
+**Option B explanation:** Article 163(3) protects advice from judicial inquiry.
 
-The constitutional minimum number of State ministers is:
+**Option C explanation:** This 'collectivise' duty reinforces Cabinet responsibility.
 
-A. 10.
-B. 6.
-C. 8.
-D. 12.
+**Option D explanation:** Information duties do not alter the federal allocation of power.
+
+**Examiner trap 27:** Article 167 creates an information bridge, not departmental command.
+
+#### MCQ 28.
+
+Which statement accurately describes Article 164 responsibility and membership?
+
+A. The Council is responsible to both State Houses equally.
+B. A non-member minister has one year to enter the legislature.
+C. Governor pleasure allows dismissal of a majority-holding CM at will.
+D. The Council is collectively responsible to the Assembly, and a minister ceases after six consecutive months without legislative membership.
 
 **Answer: D.**
 
-**Explanation:** [FACT] State ministries have a minimum of 12; the Union has no equivalent constitutional minimum.
+**Option A explanation:** The Legislative Council cannot remove the ministry.
 
-#### OM33. Tribal Welfare Minister
+**Option B explanation:** The constitutional period is six consecutive months.
 
-Which set is covered by the Article 164 tribal-welfare-minister rule?
+**Option C explanation:** Pleasure is structured by confidence and advice.
 
-A. Chhattisgarh, Jharkhand, Madhya Pradesh and Odisha.
-B. Rajasthan, Gujarat, Maharashtra and Goa.
-C. All States having Scheduled Areas.
-D. Bihar, Assam, Meghalaya and Nagaland.
+**Option D explanation:** Both responsibility and the membership limit are correctly paired.
+
+**Examiner trap 28:** The confidence House and the cap base are both the Legislative Assembly, but membership may be in either House.
+
+#### MCQ 29.
+
+What did the Ninety-first Amendment Act, 2003, section 3 insert for States?
+
+A. Articles 164(1A)-(1B): a fifteen-per-cent Assembly-based cap with minimum twelve and a specified defector bar.
+B. A fixed five-year term for Governors.
+C. Direct election of Chief Ministers.
+D. A uniform constitutional Cabinet-rank hierarchy.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Recall CJMO. [LIMIT] The rule is not a general list of every State with tribal population or Scheduled Areas.
+**Option A explanation:** The provisions took effect on 1 January 2004 and include the CM in the count.
 
-#### OM34. University Chancellor
+**Option B explanation:** Article 156 remains unchanged.
 
-Which statement is accurate?
+**Option C explanation:** Chief Ministers continue to be appointed within parliamentary government.
 
-A. Article 153 makes every Governor Chancellor of all universities.
-B. A Chancellor role exists only where the relevant State statute creates it.
-C. The role is part of Article 161.
-D. Parliament alone may define every State university Chancellor.
+**Option D explanation:** Ministerial ranks remain conventional/practical.
 
-**Answer: B.**
+**Examiner trap 29:** The fifteen-per-cent denominator is total Assembly membership, not both Houses.
 
-**Explanation:** [FACT] The Chancellor hat is statutory, not inherent in the Constitution.
+#### MCQ 30.
 
-#### OM35. Reform commissions
+The Ninety-fourth Amendment Act, 2006, section 2 changed Article 164 by:
 
-How should Sarkaria, Punchhi and NCRWC recommendations be used?
-
-A. As proof that every Governor must be elected.
-B. As binding constitutional amendments already in force.
-C. As reform proposals supporting neutral appointment, tenure security and bounded discretion.
-D. As Supreme Court orders that remove Article 156.
-
-**Answer: C.**
-
-**Explanation:** [LIMIT] They are persuasive reform evidence, not law.
-
-#### OM36. Advice-binding trap
-
-Which is the most precise statement?
-
-A. The Governor may ignore advice in every legislative matter.
-B. Article 163 gives unlimited personal discretion.
-C. Ministerial advice is expressly binding on the Governor in exactly the same words as Article 74.
-D. Advice is not expressed in the same binding terms as for the President, but constitutional practice and case law make advice the norm and discretion narrow.
-
-**Answer: D.**
-
-**Explanation:** [FACT] The textual difference must be preserved without converting it into general discretion.
-
-### Remedial MCQs - strict A -> B -> A -> D rotation
-
-#### R1. Age trap
-
-The minimum age for appointment as Governor is:
-
-A. 35 years.
-B. 30 years.
-C. 40 years.
-D. 25 years.
-
-**Answer: A.**
-
-**Remedy:** Link Article 157 with the fixed number 35.
-
-#### R2. Nomination trap
-
-The Governor's one-sixth nomination applies to:
-
-A. Inter-State Council.
-B. Legislative Council.
-C. Legislative Assembly.
-D. Rajya Sabha.
+A. Abolishing the Tribal Welfare Minister requirement.
+B. Substituting Chhattisgarh and Jharkhand for Bihar in the named-State proviso.
+C. Adding every Fifth Schedule State to the proviso.
+D. Moving the requirement into the Sixth Schedule.
 
 **Answer: B.**
 
-**Remedy:** Governor -> Council; President -> Rajya Sabha nomination under a different provision.
+**Option A explanation:** The constitutional requirement continues.
 
-#### R3. Tenure trap
+**Option B explanation:** The current list is Chhattisgarh, Jharkhand, Madhya Pradesh and Odisha.
 
-Which statement is correct?
+**Option C explanation:** The rule is not coextensive with Scheduled Areas.
 
-A. Five years cannot be shortened.
-B. Transfer is constitutionally prohibited.
-C. Five years is subject to President's pleasure.
-D. The Assembly removes by impeachment.
+**Option D explanation:** Article 164, not the Sixth Schedule, contains this ministerial proviso.
 
-**Answer: C.**
+**Examiner trap 30:** Remember the exact substitution and resulting four-State list.
 
-**Remedy:** Read Article 156 as pleasure first, five-year outer term second.
+#### MCQ 31.
 
-#### R4. Immunity trap
+Under Articles 165 and 177, the Advocate General:
 
-During the term:
-
-A. personal civil claims need no notice.
-B. all State action is immune.
-C. Article 194 makes the Governor a House member.
-D. criminal proceedings cannot be instituted or continued against the Governor.
-
-**Answer: D.**
-
-**Remedy:** Article 361 protects the office-holder; it does not erase review of government action.
-
-#### R5. Return trap
-
-The Governor's Article 200 return power applies to:
-
-A. a non-Money Bill.
-B. a Money Bill only.
-C. a Union Budget.
-D. a constitutional-amendment Bill.
-
-**Answer: A.**
-
-**Remedy:** Return = non-Money Bill; reservation is a separate route.
-
-#### R6. Reserved Bill trap
-
-After re-passage of a Bill returned under Article 201:
-
-A. the Governor becomes final decision-maker.
-B. the President is not constitutionally compelled to assent.
-C. the Bill becomes a Money Bill.
-D. assent is automatically deemed.
-
-**Answer: B.**
-
-**Remedy:** Do not import Article 200's direct-return language into Article 201.
-
-#### R7. 2025 doctrine trap
-
-Which current statement is accurate?
-
-A. Courts must impose a three-month clock.
-B. April 2025 has no continuing relevance because it was formally overruled.
-C. No rigid judicial clock/deemed assent, but prolonged unexplained inaction may receive limited review.
-D. Inaction is entirely non-justiciable.
+A. Must be a sitting High Court judge.
+B. May vote in either State House without membership.
+C. Must qualify for appointment as a High Court judge and may speak/participate without an automatic vote.
+D. Is appointed by the Chief Justice of the High Court.
 
 **Answer: C.**
 
-**Remedy:** Later controlling position narrowly; advisory, not an overruling.
+**Option A explanation:** Qualification is required; current judicial office is not.
 
-#### R8. Floor-test trap
+**Option B explanation:** Voting follows membership, not office as Advocate General.
 
-A Governor should not use a floor test:
+**Option C explanation:** This combines eligibility, function and legislative participation accurately.
 
-A. where objective numbers create genuine doubt.
-B. after a ministry volunteers to prove confidence.
-C. after an express coalition withdrawal.
-D. merely to resolve an intra-party leadership dispute.
+**Option D explanation:** The Governor appoints the Advocate General.
 
-**Answer: D.**
+**Examiner trap 31:** Participation under Article 177 is not House membership.
 
-**Remedy:** *Subhash Desai (2023)* separates House confidence from party faction.
+#### MCQ 32.
 
-#### R9. Non-member trap
+Which final combination is constitutionally accurate?
 
-A non-member minister ordinarily ceases after:
-
-A. six consecutive months without entering the legislature.
-B. one Assembly session.
-C. three months.
-D. one year.
-
-**Answer: A.**
-
-**Remedy:** Article 164(4) mirrors the Union six-month rule.
-
-#### R10. Cap trap
-
-The 15% State ministry cap uses:
-
-A. State population.
-B. total Legislative Assembly membership.
-C. elected Assembly members only.
-D. both Houses together.
-
-**Answer: B.**
-
-**Remedy:** Assembly is both the cap base and the confidence House.
-
-#### R11. Clemency trap
-
-Which statement is correct?
-
-A. Governor may pardon court-martial sentences.
-B. Governor may pardon every death sentence.
-C. Governor may suspend/remit/commute a death sentence but cannot pardon it.
-D. Article 161 is wider than Article 72.
-
-**Answer: C.**
-
-**Remedy:** Article 72 is broader on court-martial and death pardon.
-
-#### R12. Referred-question trap
-
-According to the controlling Core, the *Nabam Rebia (2016)* issue concerning a Speaker facing a removal notice:
-
-A. was decided by the Governor.
-B. was abolished by constitutional amendment.
-C. was finally affirmed without qualification in *Subhash Desai (2023)*.
-D. was referred to a larger seven-judge Bench and remains unresolved.
+A. The Governor appoints High Court judges and is Chancellor by Article 153.
+B. Article 234 requires only gubernatorial personal satisfaction.
+C. University statutes cannot alter a Governor's Chancellor role.
+D. Articles 233-234 build High Court/SPSC consultation into judicial-service appointments, while any Chancellor role arises only from the relevant State statute.
 
 **Answer: D.**
 
-**Remedy:** Separate *Nabam Rebia (2016)*'s Governor-advice proposition from the referred Speaker-removal issue.
+**Option A explanation:** The President appoints High Court judges; Chancellor status is not inherent.
+
+**Option B explanation:** Shamsher Singh rejects personal satisfaction, and Article 234 names consultations.
+
+**Option C explanation:** State legislation creates and may redesign the statutory office subject to constitutional limits.
+
+**Option D explanation:** This preserves judicial-independence checks and the statutory-role boundary.
+
+**Examiner trap 32:** Do not place a statute-created university office inside the constitutional Governor power list.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Verified routed PYQs
+### Audited objective PYQs
 
-#### PYQ 1 - UPSC GS-II 2022, Q12 - direct owner
+#### PYQ-P1 — UPSC Prelims 2018, GS-I Q41
 
-**Verified neutral demand:** Discuss the Governor's legislative powers and the legality/constitutional implications of re-promulgating ordinances.  
+**Verified demand:** criminal proceedings against a Governor and protection against diminution of gubernatorial emoluments/allowances.
+
+**Answer withheld pending official UPSC key.**
+
+**Doctrinal solution:** Article 361 bars institution or continuation of criminal proceedings and arrest/imprisonment process during the term. Article 158 protects emoluments and allowances from diminution during the term. The immunity is personal and temporary; governmental action remains reviewable.
+
+#### PYQ-P2 — UPSC Prelims 2019, GS-I Q66
+
+**Verified demand:** recommendations concerning the qualities and appointment of an ideal Governor.
+
+**Answer withheld pending official UPSC key.**
+
+**Doctrinal solution:** Citizenship and age thirty-five are constitutional qualifications. Eminence, outsider status, political detachment and consultation with the Chief Minister belong to the Sarkaria reform framework, not binding Article 157 text.
+
+#### PYQ-P3 — UPSC Prelims 2025, GS-I Q54
+
+Consider the following statements:
+
+1. The Constitution of India explicitly mentions that in certain spheres the Governor of a State acts in his/her own discretion.
+2. The President of India can, of his/her own, reserve a bill passed by a State Legislature for his/her consideration without it being forwarded by the Governor of the State concerned.
+
+Which of the statements given above is/are correct?
+
+A. 1 only  
+B. 2 only  
+C. Both 1 and 2  
+D. Neither 1 nor 2
+
+**Official Set-A answer: A.**
+
+**Doctrinal solution:** Article 163 and specially worded provisions recognise bounded discretion, so statement 1 is correct. Article 201 begins only when the Governor reserves the Bill; the President cannot self-reserve it, so statement 2 is incorrect.
+
+#### PYQ-P4 — UPSC Prelims 2025, GS-I Q59
+
+With reference to the Indian polity, consider the following statements:
+
+1. The Governor of a State is not answerable to any court for the exercise and performance of the powers and duties of his/her office.
+2. No criminal proceedings shall be instituted or continued against the Governor during his/her term of office.
+3. Members of a State Legislature are not liable to any proceedings in any court in respect of anything said within the House.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+**Official Set-A answer: D.**
+
+**Doctrinal solution:** Statements 1-2 follow Article 361. Statement 3 follows Article 194. The Governor is a component of the legislature under Article 168 but does not receive Article 194 privilege as a member; the question separately states the members' protection.
+
+### Audited Mains PYQs
+
+#### PYQ-M1 — UPSC GS-II 2022, Q12 — direct owner
+
+**Verified demand:** Discuss the Governor's legislative powers and the legality/constitutional implications of re-promulgating ordinances.  
 **15 marks | 250 words**
 
-**Demand decoding**
+**Model answer — claim -> named evidence -> analysis -> qualification**
 
-- "Discuss" requires the legislative-power map plus focused treatment of ordinance re-promulgation.
-- The answer must distinguish valid ordinance power from its serial abuse.
-- The current assent doctrine is a value addition, not a substitute for Article 213.
+**Claim:** The Governor's legislative powers facilitate State law-making, but responsible government and legislative supremacy prevent their conversion into personal veto or serial executive legislation.
 
-**Model answer**
+**Named evidence:** Article 168 makes the Governor a component of the legislature. Articles 174-176 cover sessions, messages and special address; Article 171 permits nomination of one-sixth of a Legislative Council; Articles 200-201 govern assent and reservation. Under the 2025 Article 143 opinion, Article 200 has three routes and no deemed assent, though prolonged unexplained inaction can receive limited mandamus.
 
-**Claim:** [FACT] The Governor is a component of the State legislature under Article 168, but as a constitutional head ordinarily exercises legislative powers on ministerial advice. These powers preserve continuity and scrutiny; they become problematic when used to bypass the elected House.
+**Analysis:** Article 213 is the temporary bridge. It requires the relevant House or Houses not to be in session, immediate necessity, State competence, presidential instructions in specified cases, laying and six-week expiry. *D.C. Wadhwa* called routine re-promulgation a fraud on the Constitution. *Krishna Kumar Singh* made laying mandatory, preserved review and rejected automatic survival of every lapsed ordinance's effects.
 
-**Named evidence and analysis:** Under Articles 174-176, the Governor summons/prorogues the legislature, may dissolve the Assembly, sends messages and delivers the special address. Article 171 permits nomination of one-sixth of a Legislative Council. Article 200 permits assent, withholding, return of a non-Money Bill or reservation for the President; the High Court-protection proviso makes reservation mandatory in its field. Article 201 then governs presidential action. [CURRENT] The 20 November 2025 Article 143 opinion rejects rigid judicial assent timelines and automatic deemed assent, while allowing limited mandamus against prolonged unexplained inaction.
+**Qualification:** A genuinely new emergency can justify a fresh ordinance; the constitutional vice is repetition designed to avoid legislative scrutiny. The Governor's role is facilitative and advice-based, not an alternative law-making chamber.
 
-Article 213 permits an ordinance when the session condition is met and immediate action is necessary. It has Act-like force but must be laid and ceases six weeks after reassembly. *D.C. Wadhwa (1986)* called routine re-promulgation a "fraud on the Constitution." *Krishna Kumar Singh (2017)* made laying mandatory, reaffirmed review and rejected automatic survival of every lapsed ordinance's effects.
-
-**Qualification and verdict:** [LIMIT] Ordinances remain legitimate emergency bridges; occasional fresh circumstances may require new law. But serial reissue to avoid legislative scrutiny subverts representative government. The Governor's legislative legitimacy therefore lies in constitutional facilitation, not executive law-making by repetition.
-
-**Examiner comment:** Do not write only on Article 200. The question's second half requires Article 213, six-week control and both ordinance cases.
-
-**Evidence chain:** Article 168 -> Articles 174-176/171/200-201 -> Article 213 -> *Wadhwa* -> *Krishna Kumar Singh (2017)* -> current 2025 assent qualification.
-
-**Why this earns marks:** It answers both limbs, uses more than six precise constitutional/case anchors, explains what abuse does and ends with a qualified verdict.
-
-**How to improve this answer:** In 250 words separate Article 200 from Article 213, retain the six-week rule and both re-promulgation cases, and use the 2025 assent opinion only as a dated qualification.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ 1 - UPSC GS-II 2022, Q12 - direct owner”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ 1 - UPSC GS-II 2022, Q12 - direct owner”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Verified neutral demand: Discuss the Governor's legislative powers and the legality/constitutional implications of re-promulgating ordinances. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** "Discuss" requires the legislative-power map plus focused treatment of ordinance re-promulgation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The answer must distinguish valid ordinance power from its serial abuse. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The current assent doctrine is a value addition, not a substitute for Article 213. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Examiner comment: Do not write only on Article 200. The question's second half requires Article 213, six-week control and both ordinance cases. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ 1 - UPSC GS-II 2022, Q12 - direct owner”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 2 - UPSC GS-II 2020, Q3 - cross-owned federalism application
+#### PYQ-M2 — UPSC GS-II 2020, Q3 — supporting federalism application
 
 **Question:** How far have cooperation, competition and confrontation shaped the nature of federation in India?  
-**10 marks | 150 words | Primary owner: Polity 12; application here: Governor-State friction**
+**10 marks | 150 words | Primary owner: Polity 12**
 
-**Model answer**
+**Model route:** Cooperation appears through fiscal and intergovernmental institutions; competition through State policy innovation; confrontation through assent, Article 356, fiscal and investigative disputes. Articles 155-156 create the Governor's Union link, while Bommai and the 2025 assent opinion make conflict reviewable and bounded. Conflict is not inherently anti-federal, but partisan use of constitutional offices destroys bargaining trust.
 
-**Claim:** [ANALYSIS] Indian federalism is neither permanently cooperative nor permanently coercive; all three modes operate together.
-
-**Named evidence:** Cooperation appears in the GST Council, Finance Commission transfers and intergovernmental crisis coordination. Competition appears in State welfare and investment innovation. Confrontation appears in Governor assent disputes, Article 356 reports, CBI consent, fiscal conditions and river conflicts.
-
-**Analysis:** Governor disputes reveal why institutional design matters: Article 155 creates Union appointment, Article 156 pleasure tenure and Article 200 a gate in State law-making. Yet *S.R. Bommai (1994)* protects federalism as Basic Structure and subjects Article 356 to review; the 2025 assent opinion permits limited action against prolonged unexplained delay.
-
-**Qualification and verdict:** [LIMIT] Conflict is not itself anti-federal; federalism expects disagreement. It becomes destructive when constitutional offices substitute partisan delay for reasoned decision. India is therefore a bargaining federation whose success depends on keeping confrontation institutional, reviewable and negotiable.
-
-**Examiner comment:** Use the Governor as one application, not as the whole federalism answer.
-
-**Evidence chain:** GST/Finance Commission -> Articles 155/156/200 -> *S.R. Bommai (1994)* -> 2025 assent control.
-
-**Why this earns marks:** It covers all three terms, links a topic-specific example to federal theory and qualifies confrontation.
-
-**How to improve this answer:** For 150 words keep one example each of cooperation, competition and confrontation, then use Articles 155-156/200 and S.R. Bommai (1994) as the Governor-specific analytical link.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How far have cooperation, competition and confrontation shaped the nature of federation in…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “How far have cooperation, competition and confrontation shaped the nature of federation in India?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ 2 - UPSC GS-II 2020, Q3 - cross-owned federalism application **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** marks 150 words Primary owner: Polity 12; application here: Governor-State friction **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: [ANALYSIS] Indian federalism is neither permanently cooperative nor permanently coercive; all three modes operate together. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Examiner comment: Use the Governor as one application, not as the whole federalism answer. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Evidence chain: GST/Finance Commission -> Articles 155/156/200 -> S.R. Bommai (1994) -> 2025 assent control. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “How far have cooperation, competition and confrontation shaped the nature of federation in India?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 3 - UPSC GS-II 2022, Q13 - cross-owned federalism application
+#### PYQ-M3 — UPSC GS-II 2022, Q13 — supporting party-federalism application
 
 **Question:** While national political parties in India favour centralisation, regional parties favour State autonomy. Comment.  
-**15 marks | 250 words | Primary owner: Polity 12; application here: Governor reform**
+**15 marks | 250 words | Primary owner: Polity 12**
 
-**Model answer**
+**Model route:** The proposition captures an incentive, not an invariant ideology. Parties often reverse positions with their location in power. The Governor illustrates structural asymmetry because Union appointment and pleasure tenure intersect with State formation, assent and breakdown. Sarkaria, NCRWC and Punchhi reforms seek office-neutrality whichever party governs the Union.
 
-**Claim:** [ANALYSIS] The proposition identifies a recurring incentive but overstates ideological permanence. Parties often change federal preferences with their location in power.
+#### PYQ-M4 — UPSC GS-II 2023, Q13 — supporting emergency application
 
-**Named evidence:** A national party controlling the Union may prefer uniform policy, central agencies, conditional schemes and the leverage of Articles 155-156, 200 and 356. Regional parties commonly seek greater tax autonomy, fewer scheme conditions, neutral Governors and restraint in Union intervention. Coalition eras after 1989 increased regional bargaining at the Union.
+**Verified demand:** Account for legal and political factors behind reduced Article 356 use since the mid-1990s.  
+**15 marks | 250 words | Primary owner: Polity 14**
 
-**Analysis:** The Governor illustrates the asymmetry. A Union-appointed, pleasure-tenure constitutional head controls sensitive formation, assent and breakdown gateways. Rival-party States therefore perceive delay or crisis intervention as centralisation. Sarkaria, Punchhi and NCRWC proposed neutral selection, consultation and tenure reform precisely to reduce this distrust.
+**Model route:** *S.R. Bommai* made proclamations reviewable and floor tests central; *Rameshwar Prasad* invalidated speculative dissolution. Coalition federalisation, regional parties, public scrutiny and commission norms raised political costs. Article 356 remains available on a report or otherwise, so restraint reflects altered incentives rather than textual repeal.
 
-**Counter-evidence:** National parties demand autonomy when in opposition in States; regional parties may centralise power within their own governments. GST demonstrates acceptance of pooled authority, while *S.R. Bommai (1994)* prevents either party type from erasing the federal Basic Structure.
+#### PYQ-M5 — UPSC GS-II 2024, Q13 — supporting Centre-State application
 
-**Verdict:** Party family influences rhetoric, but office, coalition arithmetic and issue-specific interest explain conduct better. Federal trust needs institutions that remain neutral whichever party occupies the Union.
+**Verified demand:** Explain recent changes in Centre-State relations and measures for trust and stronger federalism.  
+**15 marks | 250 words | Primary owner: Polity 13**
 
-**Examiner comment:** "Comment" needs a clear judgement; do not merely list national and regional parties.
+**Model route:** Use GST and intergovernmental coordination for cooperation, fiscal/agency/assent disputes for confrontation, and judicial controls for constitutional bargaining. Match reforms to defects: transparent gubernatorial reasons, prompt floor tests, consultative appointment, predictable transfers and statute-specific university governance. Commission recommendations remain proposals.
 
-**Evidence chain:** Party incentives -> Articles 155/156/200/356 -> coalition era -> commissions -> *S.R. Bommai (1994)*.
+### Exactly six original Mains questions with model solutions
 
-**Why this earns marks:** It accepts, tests and qualifies the proposition with a Governor-specific mechanism and named reforms.
+#### Original Q1 — 10 marks — answer in not more than 150 words
 
-**How to improve this answer:** Organise by party incentives, office effects and counter-evidence; retain commission reforms but do not present national or regional party behaviour as ideologically fixed.
+**Question:** "The Governor's discretion is constitutionally necessary but politically dangerous." Examine.
 
-**Demand decoding:** The directive **comment** requires a direct position on “While national political parties in India favour centralisation, regional parties favour…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**Model solution**
 
-**Detailed examiner-grade model answer:**
+**Claim:** Article 163 permits discretion only where the Constitution expressly or necessarily requires it; it does not create a rival executive.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “While national political parties in India favour centralisation, regional parties favour State autonomy. Comment.”.
+**Named evidence:** *Shamsher Singh* makes advice the rule. Legitimate threshold functions include hung-Assembly appointment, an objective floor-test trigger, Article 200 choice under the 2025 opinion, Article 356 reporting and named special responsibilities.
 
-**Analytical body:**
+**Analysis:** These functions prevent paralysis where ministerial advice cannot neutrally settle who holds office or where the Constitution assigns scrutiny. Yet Union appointment and pleasure tenure can turn timing into partisan leverage.
 
-1. **Claim and named evidence:** PYQ 3 - UPSC GS-II 2022, Q13 - cross-owned federalism application **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** marks 250 words Primary owner: Polity 12; application here: Governor reform **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: [ANALYSIS] The proposition identifies a recurring incentive but overstates ideological permanence. Parties often change federal preferences with their location in power. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Verdict: Party family influences rhetoric, but office, coalition arithmetic and issue-specific interest explain conduct better. Federal trust needs institutions that remain neutral whichever party occupies the Union. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Examiner comment: "Comment" needs a clear judgement; do not merely list national and regional parties. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Qualification:** *Bommai*, *Rameshwar Prasad*, *Nabam Rebia* and *Subhash Desai* require objective material, House-centred proof and reviewable purpose. Discretion is legitimate as process guardianship, dangerous as political supervision.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+#### Original Q2 — 10 marks — answer in not more than 150 words
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “While national political parties in India favour centralisation, regional parties favour State autonomy. Comment.”.
+**Question:** Explain why the Chief Minister and State Council of Ministers constitute the real State executive.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Model solution**
 
-#### PYQ 4 - UPSC GS-II 2023, Q13 - cross-owned emergency application
+**Claim:** Formal power is gubernatorial, but political power belongs to the Assembly-responsible ministry.
 
-**Question:** Account for the legal and political factors responsible for the reduced frequency of Article 356 use since the mid-1990s.  
-**15 marks | 250 words | Primary owner: Polity 14; application here: Governor reports and floor tests**
+**Named evidence:** Articles 163-164 place advice, ministerial appointment and collective responsibility around the Chief Minister. Article 167 makes the CM the constitutional information channel; Article 166 merely expresses action in the Governor's name.
 
-**Model answer**
+**Analysis:** The CM selects and coordinates ministers, controls portfolios, leads the legislative programme and converts majority support into administration. The Council stands or falls together before the Assembly.
 
-**Claim:** [FACT] Article 356 declined without textual repeal because law raised the constitutional cost and political federalisation raised the electoral cost of partisan dismissal.
+**Qualification:** The Governor retains real threshold and scrutiny functions in formation, assent and breakdown. Nevertheless, ordinary policy authority follows democratic responsibility; hence the State executive is formally gubernatorial but substantively ministerial.
 
-**Named legal evidence:** *S.R. Bommai (1994)* made proclamations reviewable, required relevant material, prioritised a floor test for majority disputes and permitted restoration after invalid action. *Rameshwar Prasad (2006)* held the Bihar dissolution based on anticipated horse-trading unconstitutional. The Governor's report thus became evidence subject to scrutiny, not an unchallengeable verdict.
+#### Original Q3 — 15 marks — answer in not more than 250 words
 
-**Named political evidence:** Coalition Union governments often depended on regional parties; strong State parties raised parliamentary and electoral costs. Media, opposition and civil-society scrutiny made partisan removals reputationally expensive. Sarkaria and Punchhi norms reinforced warning, speaking reports and last-resort use.
+**Question:** "Article 200 creates a constitutional gate, not a gubernatorial pocket veto." Discuss after the 2025 decisions.
 
-**Analysis:** Legal review changed incentives at Raj Bhavan and the Union; political dependence made misuse threaten government survival.
+**Model solution**
 
-**Qualification and verdict:** [LIMIT] Article 356 still contains "report or otherwise," and disputes have not disappeared. Reduced use reflects judicial discipline plus bargaining federalism, not the disappearance of centralising power.
+**Claim:** Article 200 requires a constitutional choice and contains no power of indefinite silence.
 
-**Examiner comment:** Separate legal from political causes and identify the Governor's report as an input, not the final constitutional act.
+**Named evidence:** *State of Punjab* linked withholding with return and required action. *State of Tamil Nadu* prescribed timelines and deemed assent to ten Bills. The later five-judge Article 143 opinion states three routes—assent, reserve, or withhold-and-return a non-Money Bill—while mandatory reservation protects a High Court endangered by the Bill.
 
-**Evidence chain:** *S.R. Bommai (1994)* -> floor test/review/restoration -> *Rameshwar Prasad (2006)* -> coalition/regional parties -> commission norms.
+**Analysis:** The opinion treats choice among the routes as discretionary and bars pre-enactment merits review. It nevertheless permits limited mandamus where inaction is glaring, prolonged, unexplained and indefinite. It rejects rigid court-made timelines and judicially deemed assent because courts cannot substitute themselves for the constitutional decision-maker.
 
-**Why this earns marks:** It directly "accounts for" decline through two causal groups and preserves the textual qualification.
+**Qualification:** The advisory opinion expressly disapproved the April judgment's general timeline and deemed-assent reasoning, but did not appellate-set aside its inter partes relief. Therefore, Article 200 is neither a personal veto nor an automatic-assent mechanism: the Governor must decide, while courts police non-performance without choosing the result.
 
-**How to improve this answer:** Use two labelled causal blocks—legal and political—and preserve the “report or otherwise” qualification; remove generic federalism praise before named evidence.
+#### Original Q4 — 15 marks — answer in not more than 250 words
 
-**Demand decoding:** The directive **answer** requires a direct position on “Account for the legal and political factors responsible for the reduced frequency of Article…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**Question:** Frame a constitutionally proper response to a hung Assembly and a later claim that the ministry has lost confidence.
 
-**Detailed examiner-grade model answer:**
+**Model solution**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Account for the legal and political factors responsible for the reduced frequency of Article 356 use since the mid-1990s.”.
+**Claim:** The Governor's role is temporary and procedural: enable government formation, then let the Assembly determine political title.
 
-**Analytical body:**
+**Named evidence:** Article 164 authorises CM appointment but gives no rigid invitation order. Objective coalition support, pre-poll arrangements and credible letters may guide a provisional invitation. *Bommai* makes the floor the ordinary majority forum. *Shivraj Singh Chouhan* upheld a prompt test where resignations created objective doubt; *Subhash Desai* rejected factional dissent alone.
 
-1. **Claim and named evidence:** PYQ 4 - UPSC GS-II 2023, Q13 - cross-owned emergency application **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** marks 250 words Primary owner: Polity 14; application here: Governor reports and floor tests **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: [FACT] Article 356 declined without textual repeal because law raised the constitutional cost and political federalisation raised the electoral cost of partisan dismissal. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Analysis: Legal review changed incentives at Raj Bhavan and the Union; political dependence made misuse threaten government survival. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Examiner comment: Separate legal from political causes and identify the Governor's report as an input, not the final constitutional act. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Analysis:** An early test minimises private arithmetic and ensures public accountability. If the ministry loses, it should resign; if it refuses after demonstrated loss, dismissal may follow. The Governor should explore a viable alternative before dissolution.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Qualification:** *Rameshwar Prasad* prohibits pre-emptive dissolution based on anticipated horse-trading. Disqualification, whip and symbol disputes remain with the Speaker, courts and ECI. A caretaker continues essentials with restraint. The stable sequence is objective support -> invitation -> prompt floor test -> alternative government -> dissolution only as last resort.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “Account for the legal and political factors responsible for the reduced frequency of Article 356 use since the mid-1990s.”.
+#### Original Q5 — 20 marks — answer in not more than 250 words
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Question:** "The Governor is a federal bridge in constitutional theory but a fault line in political practice." Critically examine and suggest reforms.
 
-#### PYQ 5 - UPSC GS-II 2024, Q13 - cross-owned Centre-State application
+**Model solution**
 
-**Question:** What recent changes have occurred in Centre-State relations, and what measures can build trust and strengthen federalism?  
-**15 marks | 250 words | Primary owner: Polity 13; application here: neutral Governor**
+**Claim:** The office links Union and State while preserving a formal head for responsible government, but its incentive structure can undermine neutrality.
 
-**Model answer**
+**Named evidence:** Articles 155-156 place appointment and pleasure at Union level; Articles 164, 200 and 356 engage government formation, State legislation and constitutional breakdown. Hargovind Pant denies that the Governor is a Union employee, while B.P. Singhal bars arbitrary removal.
 
-**Claim:** [ANALYSIS] Centre-State relations have become more institutionally shared yet more politically contested: GST and Finance Commission rules coexist with disputes over cesses, central agencies, legislation and Governors.
+**Analysis:** A neutral Governor facilitates transitions, obtains constitutional information and warns of breakdown. Friction arises when rival-party governments face delayed Bills, questionable floor tests, speculative dissolution or statutory university disputes. *Bommai*, *Rameshwar Prasad*, *Nabam Rebia*, *Subhash Desai* and the 2025 assent opinion move these conflicts toward objective material, the House and limited review.
 
-**Named evidence:** NITI Aayog replaced plan-era allocation architecture; GST pooled indirect-tax authority; Finance Commission transfers remain rules-based. At the same time, Governor assent, statutory Chancellor roles, CBI consent, borrowing conditions and centrally sponsored schemes generate distrust. *S.R. Bommai (1994)* protects federalism through review; the November 2025 assent opinion rejects deemed assent but permits limited mandamus against prolonged unexplained inaction.
+**Counter-case:** Appointment from outside the State and national perspective can protect continuity, minorities and constitutional compliance; abolition would not remove political conflict.
 
-**Measures:** Convene the Inter-State Council regularly; consult States on Concurrent subjects; use transparent fiscal transfers; follow Sarkaria/Punchhi neutrality norms; publish reasoned gubernatorial decisions; track Bills without inventing deemed assent; use prompt floor tests; clarify Chancellor powers in State statutes; and strengthen neutral dispute processes.
+**Reforms and qualification:** Sarkaria supports an eminent detached outsider, CM consultation and Article 356 restraint; NCRWC proposes plural selection; Punchhi favours stronger tenure/removal safeguards and clearer crisis rules. Transparent reasons, prompt tests and statute-specific Chancellor design should supplement law. These remain proposals. The objective is accountable neutrality, not a powerless Governor.
 
-**Qualification and verdict:** [LIMIT] No single reform eliminates political conflict, and commission proposals are not law. Trust is produced through repeated experience of consultation, reasons, predictable finance and non-partisan constitutional offices.
+#### Original Q6 — 20 marks — answer in not more than 250 words
 
-**Examiner comment:** Each reform must answer a diagnosed problem. Avoid generic calls for "cooperative federalism."
+**Question:** Evaluate Article 213 as a balance between executive necessity and legislative supremacy.
 
-**Evidence chain:** GST/NITI/Finance Commission -> Governor/CBI/fiscal disputes -> *S.R. Bommai (1994)* -> 2025 assent control -> targeted reforms.
+**Model solution**
 
-**Why this earns marks:** It addresses changes and measures, supplies current legal control and links Governor reform to the federal trust deficit.
+**Claim:** Article 213 is a valid emergency bridge whose legitimacy depends on rapid return to representative law-making.
 
-**How to improve this answer:** Match each reform to one diagnosed trust deficit: fiscal predictability, consultation, assent reasons, floor-test neutrality or statutory Chancellor conflict.
+**Named evidence:** The relevant House or Houses must not be in session and immediate action must be necessary. An ordinance has Act-like force within State competence, requires presidential instructions in three specified situations, must be laid and ceases six weeks after the later reassembly unless withdrawn or disapproved earlier.
 
-### Routed Prelims demands - provenance without invented answer letters
+**Analysis:** The power prevents legal and administrative paralysis between sittings. Its danger is executive avoidance of debate, committee scrutiny and an uncertain majority. *D.C. Wadhwa* called routine re-promulgation a fraud on the Constitution. *Krishna Kumar Singh*, seven judges by 5:2, made laying mandatory, preserved review of satisfaction and rejected automatic survival of all lapsed effects.
 
-#### Prelims route 1 - 2018 GS-I Q41
+**Qualification:** Courts should test competence, mala fides, relevant material and repetition, not substitute their view of policy urgency. A fresh, genuinely changed emergency may justify fresh action.
 
-**Verified neutral demand:** Criminal proceedings against a Governor and protection of gubernatorial emoluments.  
-**Provenance:** Local routing ledger; older official key unavailable locally. No answer letter is invented.
-
-**Doctrinal solution**
-
-- [FACT] Article 361 bars institution or continuation of criminal proceedings during the term.
-- [FACT] No arrest or imprisonment process may issue during the term.
-- [FACT] Article 158 protects emoluments and allowances from diminution during the term.
-- [LIMIT] Immunity is temporary/personal; it does not erase liability forever or immunise governmental action from review.
-
-**Elimination rule:** Reject any statement permitting criminal prosecution during the term or allowing reduction of protected emoluments during that term.
-
-#### Prelims route 2 - 2019 GS-I Q66
-
-**Verified neutral demand:** Recommendations concerning the qualities/appointment of an ideal Governor.  
-**Provenance:** Local routing ledger; older official key unavailable locally. No answer letter is invented.
-
-**Doctrinal solution**
-
-- [FACT] The Constitution itself requires citizenship and age 35, not outsider status or CM consultation.
-- [ANALYSIS] Sarkaria recommended an eminent person, outsider to the State, detached from local politics and selected after consultation with the CM.
-- [ANALYSIS] Punchhi and NCRWC proposed additional appointment/tenure insulation.
-- [LIMIT] These are recommendations, not enacted qualifications.
-
-**Elimination rule:** Distinguish constitutional eligibility from commission criteria; reject options presenting proposals as law.
-
-#### Prelims route 3 - 2025 GS-I Q54
-
-**Verified neutral demand:** Governor's discretion and the President's role where a State Bill is reserved.  
-**Provenance:** Official 2025 Set-A key exists locally, but the answer is not recorded in the authoritative Core and is not inferred here.
-
-**Doctrinal solution**
-
-- [FACT] Reserving a Bill for the President under Article 200 is a constitutionally recognised discretionary field.
-- [FACT] Mandatory reservation applies to the High Court-endangering category in the second proviso.
-- [FACT] Under Article 201 the President may assent, withhold, or for a non-Money Bill direct return.
-- [FACT] The President is not obliged to assent after re-passage of a reserved Bill.
-
-**Elimination rule:** Reject any claim that reservation is always bound by ordinary advice or that re-passage automatically compels presidential assent.
-
-#### Prelims route 4 - 2025 GS-I Q59
-
-**Verified neutral demand:** Governor's immunity compared with immunity for words spoken in a State legislature.  
-**Provenance:** Official 2025 Set-A key exists locally, but the answer is not recorded in the authoritative Core and is not inferred here.
-
-**Doctrinal solution**
-
-- [FACT] Article 361 protects the Governor in specified ways during the term.
-- [FACT] Article 194 speech/vote immunity belongs to members of the State legislature.
-- [FACT] The Governor is part of the legislature under Article 168 but is not a member of a House.
-
-**Elimination rule:** Reject any option transferring Article 194 member privilege to the Governor merely because Article 168 includes the office in the legislature.
-
-### Original solved Mains practice
-
-**Demand decoding:** The directive **answer** requires a direct position on “What recent changes have occurred in Centre-State relations, and what measures can build…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “What recent changes have occurred in Centre-State relations, and what measures can build trust and strengthen federalism?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ 5 - UPSC GS-II 2024, Q13 - cross-owned Centre-State application **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** marks 250 words Primary owner: Polity 13; application here: neutral Governor **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Examiner comment: Each reform must answer a diagnosed problem. Avoid generic calls for "cooperative federalism." **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Evidence chain: GST/NITI/Finance Commission -> Governor/CBI/fiscal disputes -> S.R. Bommai (1994) -> 2025 assent control -> targeted reforms. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It addresses changes and measures, supplies current legal control and links Governor reform to the federal trust deficit. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “What recent changes have occurred in Centre-State relations, and what measures can build trust and strengthen federalism?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M1. "The Governor's discretion is constitutionally necessary but politically dangerous." Examine. (10 marks, 150 words)
-
-**Directive fidelity:** "Examine" requires the need, the constitutional limits, evidence of danger and a graded verdict.
-
-**Model answer**
-
-**Claim:** [FACT] Article 163 preserves limited gubernatorial discretion for hung Assemblies, Bill reservation and constitutional-breakdown reports.
-
-**Named evidence:** *Shamsher Singh (1974)* makes advice the norm. *Nabam Rebia (2016)* prevents self-expanded discretion over sessions. *S.R. Bommai (1994)* requires floor testing and review of Article 356 material. *Subhash Desai (2023)* requires objective material and bars a floor test for intra-party dissent.
-
-**Analysis:** Discretion restarts responsible government when no ministry clearly commands confidence. It becomes dangerous because Articles 155-156 combine Union appointment with pleasure tenure.
-
-**Qualification and verdict:** [LIMIT] Not every disputed decision is unconstitutional, and Article 163 is not empty. Yet legitimacy depends on narrow purpose, recorded objective material and rapid transfer of the decisive question to the Assembly. Discretion is therefore a **procedural safety valve, not a competing political mandate**.
-
-**Examiner comment:** A 10-marker should not list every power. Centre the answer on the default-exception-control structure.
-
-**Evidence chain:** Article 163 -> *Shamsher Singh (1974)* -> *Nabam Rebia (2016)* -> *S.R. Bommai (1994)* -> *Subhash Desai (2023)*.
-
-**Why this earns marks:** It supplies four named cases, explains both necessity and danger, states a qualification and answers the proposition directly.
-
-**How to improve this answer:** For a 10-marker use advice default, two narrow exceptions, one case and one commission reform; do not catalogue every Governor power.
-
-**Demand decoding:** The directive **examine** requires a direct position on “M1. "The Governor's discretion is constitutionally necessary but politically dangerous."…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M1. "The Governor's discretion is constitutionally necessary but politically dangerous." Examine. (10 marks, 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M1. "The Governor's discretion is constitutionally necessary but politically dangerous." Examine. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive fidelity: "Examine" requires the need, the constitutional limits, evidence of danger and a graded verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: [FACT] Article 163 preserves limited gubernatorial discretion for hung Assemblies, Bill reservation and constitutional-breakdown reports. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Analysis: Discretion restarts responsible government when no ministry clearly commands confidence. It becomes dangerous because Articles 155-156 combine Union appointment with pleasure tenure. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Examiner comment: A 10-marker should not list every power. Centre the answer on the default-exception-control structure. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M1. "The Governor's discretion is constitutionally necessary but politically dangerous." Examine. (10 marks, 150 words)”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M2. Explain why the Chief Minister and State Council of Ministers constitute the real executive. (10 marks, 150 words)
-
-**Directive fidelity:** "Explain why" requires a constitutional mechanism, not merely the labels "real" and "nominal."
-
-**Model answer**
-
-**Claim:** [FACT] Although Article 154 vests power in the Governor, Articles 163-164 locate political authority in the CM-led Council responsible to the Assembly.
-
-**Named evidence:** Other ministers are appointed on CM advice; the CM allocates portfolios, chairs the Council and secures individual exits. Article 164(2) makes the Council stand or fall with Assembly confidence. Article 167 makes the CM the communication and information link. Article 166's name clause does not create personal gubernatorial policy.
-
-**Analysis:** The ministry draws authority from the Assembly, controls policy and administration, and bears collective accountability. The Governor supplies constitutional form and limited process supervision.
-
-**Qualification and verdict:** [LIMIT] The Governor is not irrelevant: hung-House appointment, Bill reservation and Article 356 reporting remain sensitive functions. Nevertheless, ordinary government belongs to the CM-Council because power follows responsibility. The State executive is therefore formally gubernatorial but substantively ministerial.
-
-**Examiner comment:** Connect each power to Assembly responsibility; do not treat "real executive" as a memorised definition.
-
-**Evidence chain:** Articles 154/163 -> Article 164(2) -> Article 166 -> Article 167.
-
-**Why this earns marks:** It uses four constitutional provisions to prove, rather than assert, the real-executive conclusion.
-
-**How to improve this answer:** Retain Articles 163, 164(2) and 167, the Assembly-confidence chain and one qualification on Governor pleasure; cut ceremonial functions first.
-
-**Demand decoding:** The directive **explain** requires a direct position on “M2. Explain why the Chief Minister and State Council of Ministers constitute the real…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M2. Explain why the Chief Minister and State Council of Ministers constitute the real executive. (10 marks, 150 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M2. Explain why the Chief Minister and State Council of Ministers constitute the real executive. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive fidelity: "Explain why" requires a constitutional mechanism, not merely the labels "real" and "nominal." **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: [FACT] Although Article 154 vests power in the Governor, Articles 163-164 locate political authority in the CM-led Council responsible to the Assembly. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Analysis: The ministry draws authority from the Assembly, controls policy and administration, and bears collective accountability. The Governor supplies constitutional form and limited process supervision. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Examiner comment: Connect each power to Assembly responsibility; do not treat "real executive" as a memorised definition. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M2. Explain why the Chief Minister and State Council of Ministers constitute the real executive. (10 marks, 150 words)”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M3. "Article 200 creates a constitutional gate, not a gubernatorial pocket veto." Discuss in light of the 2025 assent cases. (15 marks, 250 words)
-
-**Directive fidelity:** "Discuss" requires Article 200's options, the democratic concern, both dated 2025 controls and a balanced conclusion.
-
-**Model answer**
-
-**Claim:** [FACT] Article 200 places the Governor within State law-making to ensure constitutional scrutiny, but its listed choices do not expressly create a power of indefinite non-decision.
-
-**Named evidence:** A presented Bill may receive assent, withholding, return for reconsideration if it is not a Money Bill, or reservation for the President. Reservation is mandatory where the Bill would so derogate from High Court powers as to endanger its constitutional position. Under Article 201 the President may assent, withhold or direct return of a non-Money Bill; unlike the Article 200 direct-return loop, re-passage does not compel presidential assent.
-
-**Current evidence and analysis:** In *State of Tamil Nadu v. Governor of Tamil Nadu (2025)* (8 April 2025, 2025 INSC 481), the Court prescribed timelines and used deemed assent on the facts, responding to constitutional paralysis. The later five-judge Article 143 opinion (20 November 2025, 2025 INSC 1333) held that courts cannot add rigid timelines or automatic deemed assent to Articles 200-201. Yet prolonged, unexplained and indefinite inaction remains open to limited review and mandamus requiring action.
-
-**Qualification:** [LIMIT] The later opinion is advisory and non-binding; it did not "overrule" the April judgment. A court may require decision but not choose assent, withholding, return or reservation.
-
-**Verdict:** Article 200 is a scrutiny gate, not a pocket veto. Federal legitimacy requires constitutional expedition and reasons, while separation of powers forbids judicial invention of a new deemed-assent option.
-
-**Examiner comment:** Preserve the April-November sequence and the advisory-status qualification.
-
-**Evidence chain:** Article 200 options -> mandatory HC proviso -> Article 201 distinction -> April 2025 -> November 2025 -> limited mandamus.
-
-**Why this earns marks:** It uses the exact current legal control, explains both democratic effectiveness and separation-of-powers limits, and avoids the prohibited "overruled" claim.
-
-**How to improve this answer:** Use an Article 200 decision tree, then contrast the April judgment with the November advisory opinion without saying either created a pocket veto or overruled the other.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “M3. "Article 200 creates a constitutional gate, not a gubernatorial pocket veto." Discuss in…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M3. "Article 200 creates a constitutional gate, not a gubernatorial pocket veto." Discuss in light of the 2025 assent cases. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M3. "Article 200 creates a constitutional gate, not a gubernatorial pocket veto." Discuss in light of the 2025 assent cases. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive fidelity: "Discuss" requires Article 200's options, the democratic concern, both dated 2025 controls and a balanced conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: [FACT] Article 200 places the Governor within State law-making to ensure constitutional scrutiny, but its listed choices do not expressly create a power of indefinite non-decision. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: [LIMIT] The later opinion is advisory and non-binding; it did not "overrule" the April judgment. A court may require decision but not choose assent, withholding, return or reservation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Article 200 is a scrutiny gate, not a pocket veto. Federal legitimacy requires constitutional expedition and reasons, while separation of powers forbids judicial invention of a new deemed-assent option. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M3. "Article 200 creates a constitutional gate, not a gubernatorial pocket veto." Discuss in light of the 2025 assent cases. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M4. Frame a constitutionally proper response to a hung Assembly and a later claim that the ministry has lost confidence. (15 marks, 250 words)
-
-**Directive fidelity:** The question requires a sequential government-formation and confidence-loss protocol, with cases and limits.
-
-**Model answer**
-
-**Claim:** [ANALYSIS] The Governor's role is temporary and procedural: identify a plausible confidence-holder, then let the Legislative Assembly decide who governs.
-
-**Appointment stage:** Article 164(1) authorises appointment of the CM. With a clear majority, the recognised leader must be invited. In a hung House, the Governor should examine objective support such as a pre-poll alliance, coalition agreement or credible support commitments, appoint the person most likely to command confidence and require a prompt floor test. Sarkaria-style preference guides promote neutrality but are recommendations, not an inflexible legal code.
-
-**Later confidence claim:** *S.R. Bommai (1994)* makes the floor the ordinary forum. Objective events such as withdrawal of coalition support, resignations affecting numbers or a credible rival claim may justify a test. *Subhash Desai (2023)* bars reliance on intra-party dissent or factional letters alone and holds that the Governor cannot use a test to decide an internal party dispute. Speaker disqualification and Election Commission symbol proceedings remain separate tracks.
-
-**Failure stage:** If the ministry loses and resigns, the Governor should explore a viable alternative before dissolution. If it refuses to resign after demonstrated loss, dismissal may follow. *Rameshwar Prasad (2006)* warns against pre-emptive dissolution based on anticipated horse-trading.
-
-**Qualification and verdict:** [LIMIT] Political configurations vary, so rigid invitation arithmetic can mislead. The constant rules are objective material, equal treatment, prompt floor proof and no partisan adjudication. Appointment opens the door; Assembly confidence keeps it open.
-
-**Examiner comment:** Sequence is essential: invitation -> floor test -> alternative -> dissolution.
-
-**Evidence chain:** Article 164 -> objective support -> *S.R. Bommai (1994)* -> *Subhash Desai (2023)* -> *Rameshwar Prasad (2006)*.
-
-**Why this earns marks:** It gives an operational protocol, five named anchors, institutional separation and a qualified verdict.
-
-**How to improve this answer:** Present hung-House invitation and later loss-of-majority as two distinct stages; attach objective material and an early floor test to both.
-
-**Demand decoding:** The directive **answer** requires a direct position on “M4. Frame a constitutionally proper response to a hung Assembly and a later claim that the…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M4. Frame a constitutionally proper response to a hung Assembly and a later claim that the ministry has lost confidence. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M4. Frame a constitutionally proper response to a hung Assembly and a later claim that the ministry has lost confidence. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive fidelity: The question requires a sequential government-formation and confidence-loss protocol, with cases and limits. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: [ANALYSIS] The Governor's role is temporary and procedural: identify a plausible confidence-holder, then let the Legislative Assembly decide who governs. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Examiner comment: Sequence is essential: invitation -> floor test -> alternative -> dissolution. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Evidence chain: Article 164 -> objective support -> S.R. Bommai (1994) -> Subhash Desai (2023) -> Rameshwar Prasad (2006) . **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M4. Frame a constitutionally proper response to a hung Assembly and a later claim that the ministry has lost confidence. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M5. Does the pleasure doctrine make the Governor and State ministers agents of the appointing authority? Analyse. (15 marks, 250 words)
-
-**Directive fidelity:** "Analyse" requires separating gubernatorial pleasure from ministerial pleasure and tracing each through parliamentary responsibility.
-
-**Model answer**
-
-**Claim:** [FACT] "Pleasure" appears in two different relationships and cannot be read literally as unlimited personal command. Article 156 places the Governor during the President's pleasure; Article 164 places ministers during the Governor's pleasure.
-
-**Governor:** The five-year term is expressly subject to presidential pleasure. Transfer and reappointment are possible, and no State-legislature removal process exists. [ANALYSIS] This insecurity can create perceived dependence on the Union, particularly in assent, government formation and Article 356 disputes. Sarkaria, Punchhi and NCRWC consequently proposed consultative selection and stronger tenure protection.
-
-**Ministers:** Article 164's pleasure operates inside responsible government. Other ministers are appointed on CM advice; the CM ordinarily secures an individual minister's removal. The whole Council, however, survives on Legislative Assembly confidence under Article 164(2). A Governor cannot dismiss a majority-holding CM merely by invoking pleasure.
-
-**Named judicial evidence:** *Shamsher Singh (1974)* makes ministerial advice the default. *S.R. Bommai (1994)* and *Subhash Desai (2023)* shift confidence questions to objective material and the House floor.
-
-**Qualification:** [FACT] *B.P. Singhal* preserves presidential pleasure but rejects capricious,
-unreasonable or mala fide removal; routine disclosure of reasons is not mandatory, though a prima facie
-arbitrariness challenge requires the Union to justify its action.
-
-**Verdict:** Pleasure creates dependence, but not agency in the private-law sense. For ministers it is democratically mediated by the CM and Assembly; for Governors its structural Union tilt justifies tenure and appointment reform.
-
-**Examiner comment:** Do not merge Article 156 and Article 164 or say the Governor personally controls every minister.
-
-**Evidence chain:** Article 156 -> Article 164(1)/(2) -> *Shamsher Singh (1974)* -> *S.R. Bommai (1994)/Subhash Desai (2023)* -> commissions.
-
-**Why this earns marks:** It distinguishes two doctrines, explains their mechanisms and uses the source-bound case caution.
-
-**How to improve this answer:** Distinguish Governor pleasure under Article 156 from ministerial pleasure mediated by CM advice and Assembly confidence; add B.P. Singhal to bound the former.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “M5. Does the pleasure doctrine make the Governor and State ministers agents of the appointing…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M5. Does the pleasure doctrine make the Governor and State ministers agents of the appointing authority? Analyse. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M5. Does the pleasure doctrine make the Governor and State ministers agents of the appointing authority? Analyse. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive fidelity: "Analyse" requires separating gubernatorial pleasure from ministerial pleasure and tracing each through parliamentary responsibility. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Named judicial evidence: Shamsher Singh (1974) makes ministerial advice the default. S.R. Bommai (1994) and Subhash Desai (2023) shift confidence questions to objective material and the House floor. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: [FACT] B.P. Singhal preserves presidential pleasure but rejects capricious, **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** unreasonable or mala fide removal; routine disclosure of reasons is not mandatory, though a prima facie **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M5. Does the pleasure doctrine make the Governor and State ministers agents of the appointing authority? Analyse. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M6. Compare Articles 72 and 161 and assess the constitutional limits on the Governor's clemency power. (15 marks, 250 words)
-
-**Directive fidelity:** "Compare and assess" requires common parameters, cases, the death/court-martial distinctions and review.
-
-**Model answer**
-
-**Claim:** [FACT] Articles 72 and 161 create parallel humanitarian powers, but presidential jurisdiction is broader.
-
-**Comparison:** The President may grant pardon, reprieve, respite, remission or commutation in court-martial cases, Union-field offences and every death sentence. The Governor acts for offences against laws within State executive power. The Governor has no court-martial jurisdiction but may pardon a death sentence where the offence-law nexus lies within State executive power.
-
-**Named evidence:** *Maru Ram* establishes that clemency is exercised on ministerial advice, defeating the notion of personal mercy. *Kehar Singh*, in the presidential context, shows that the executive may reconsider merits without becoming an appellate court. *Epuru Sudhakar* permits limited review for mala fides, arbitrariness, non-application of mind and relevant/irrelevant-material defects.
-
-**Analysis:** Clemency corrects exceptional harshness, considers public policy and supplies a constitutional safety valve beyond strict judicial sentencing. Advice preserves democratic responsibility; review preserves legality.
-
-**Qualification:** [LIMIT] Courts do not ordinarily substitute their preferred mercy outcome, and no automatic rule follows from delay in every category. Article 161 also cannot reach an offence outside the State executive field merely because the prisoner is held in that State.
-
-**Verdict:** The Governor's power is substantial but jurisdictionally narrower and institutionally controlled: humanitarian discretion operates through the State Council, within subject-matter limits and under limited review.
-
-**Examiner comment:** The death-sentence formula must be exact: no pardon, but suspension/remission/commutation.
-
-**Evidence chain:** Article 72 field -> Article 161 field -> *Maru Ram* -> *Kehar Singh* -> *Epuru Sudhakar*.
-
-**Why this earns marks:** It compares on identical parameters, uses three cases and preserves both jurisdiction and review qualifications.
-
-**How to improve this answer:** Use an identical parameter table—field of offence, death sentence, court martial, advice and review—and avoid saying Article 161 lacks every power over death sentences.
-
-**Demand decoding:** The directive **compare** requires a direct position on “M6. Compare Articles 72 and 161 and assess the constitutional limits on the Governor's…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M6. Compare Articles 72 and 161 and assess the constitutional limits on the Governor's clemency power. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M6. Compare Articles 72 and 161 and assess the constitutional limits on the Governor's clemency power. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive fidelity: "Compare and assess" requires common parameters, cases, the death/court-martial distinctions and review. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: [FACT] Articles 72 and 161 create parallel humanitarian powers, but presidential jurisdiction is broader. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Examiner comment: The death-sentence formula must be exact: no pardon, but suspension/remission/commutation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Evidence chain: Article 72 field -> Article 161 field -> Maru Ram -> Kehar Singh -> Epuru Sudhakar . **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M6. Compare Articles 72 and 161 and assess the constitutional limits on the Governor's clemency power. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M7. "The Governor's dual role is a bridge in constitutional theory but a fault line in federal practice." Critically examine and suggest reforms. (20 marks, 250 words)
-
-**Directive fidelity:** "Critically examine and suggest" requires design, benefits, failures, counter-evidence and reforms linked to diagnosed defects.
-
-**Model answer**
-
-**Claim:** [ANALYSIS] The Governor links the Union-weighted federation to responsible State government: Article 155 supplies Union appointment, while Articles 154 and 163 make the office the State head. The same duality can facilitate coordination or generate divided-loyalty distrust.
-
-**Bridge function:** The Governor ensures constitutional continuity, appoints a CM where no majority is clear, completes legislation, reserves sensitive Bills and reports exceptional breakdown. Article 167 information can warn without displacing elected policy. A statutory Chancellor role may support university oversight where State law provides.
-
-**Fault-line evidence:** Article 156 pleasure tenure weakens perceived independence. Assent delay can suspend State legislation; factional formation disputes can alter government; an Article 356 report can trigger central takeover; Chancellor powers can create a parallel statutory executive. *Rameshwar Prasad (2006)* exposed speculative dissolution, while *Subhash Desai (2023)* rejected a floor test based on factional dissent.
-
-**Counter-controls:** *Shamsher Singh (1974)* makes advice the norm; *S.R. Bommai (1994)* constitutionalises review and floor testing; the November 2025 assent opinion allows limited mandamus against prolonged unexplained inaction while rejecting deemed assent.
-
-**Reforms:** Use consultative appointment; protect tenure or require compelling reasons; publish neutral hung-House criteria; record floor-test material; issue reasoned, trackable Bill decisions without invented deadlines; use Article 356 only after warning/floor process; and define Chancellor powers in State statutes. Sarkaria, Punchhi and NCRWC support this direction.
-
-**Qualification and verdict:** [LIMIT] Recommendations are not law, and over-codification may sacrifice flexibility. The office should be retained as a **neutral process guardian**, but its Union dependence must be offset by transparent reasons, tenure insulation and House-centred decision-making.
-
-**Examiner comment:** Reform must map onto appointment, tenure, formation, assent, emergency and statutory-role defects.
-
-**Evidence chain:** Articles 155/156/163/167 -> Article 200/356 -> *Rameshwar Prasad (2006)*/*Subhash Desai (2023)* -> *S.R. Bommai (1994)* -> 2025 opinion -> commissions.
-
-**Why this earns marks:** It provides eight evidence units, a genuine counter-case, targeted reforms and a graded institutional verdict.
-
-**How to improve this answer:** Define the bridge and fault-line functions separately, attach a case to each misuse channel and rank reforms by appointment, tenure, reasons and House-centred testing.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “M7. "The Governor's dual role is a bridge in constitutional theory but a fault line in…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M7. "The Governor's dual role is a bridge in constitutional theory but a fault line in federal practice." Critically examine and suggest reforms. (20…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M7. "The Governor's dual role is a bridge in constitutional theory but a fault line in federal practice." Critically examine and suggest reforms. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive fidelity: "Critically examine and suggest" requires design, benefits, failures, counter-evidence and reforms linked to diagnosed defects. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Examiner comment: Reform must map onto appointment, tenure, formation, assent, emergency and statutory-role defects. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Evidence chain: Articles 155/156/163/167 -> Article 200/356 -> Rameshwar Prasad (2006) / Subhash Desai (2023) -> S.R. Bommai (1994) -> 2025 opinion -> commissions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It provides eight evidence units, a genuine counter-case, targeted reforms and a graded institutional verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M7. "The Governor's dual role is a bridge in constitutional theory but a fault line in federal practice." Critically examine and suggest reforms. (20…”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M8. Evaluate the ordinance power of the Governor as a test of executive necessity versus legislative supremacy. (20 marks, 250 words)
-
-**Directive fidelity:** "Evaluate" requires criteria, legitimate uses, abuse mechanisms, case-law controls and a reasoned balance.
-
-**Model answer**
-
-**Claim:** [FACT] Article 213 is a constitutionally valid emergency bridge, not an alternative legislative chamber. Its legitimacy depends on genuine temporal necessity and prompt return to representative scrutiny.
-
-**Constitutional design:** The Governor may promulgate when the session condition permits and immediate action is considered necessary. In a bicameral State, the power is unavailable when both Houses are in session. An ordinance has Act-like force but must remain within State legislative competence, comply with Fundamental Rights and obtain presidential instructions in specified sanction/reservation situations. It must be laid and ends six weeks after reassembly, earlier disapproval or withdrawal.
-
-**Necessity case:** Public emergencies, urgent fiscal/legal gaps or immediate implementation needs may arise between sittings. Temporary law prevents administrative paralysis.
-
-**Supremacy danger:** The executive can avoid debate, committee scrutiny and an uncertain Assembly majority. Serial re-promulgation converts a short bridge into executive legislation.
-
-**Named evidence:** *D.C. Wadhwa (1986)* called routine re-promulgation a fraud on the Constitution. *Krishna Kumar Singh (2017)* (seven judges, 5:2) made laying mandatory, reaffirmed review, protected legislative supremacy and rejected automatic survival of every lapsed ordinance's effects.
-
-**Reform and qualification:** Require publicly stated urgency, immediate laying, committee scrutiny and explanation of any fresh ordinance. [LIMIT] Courts should review competence, mala fides and constitutional abuse but not abolish the power or substitute their policy judgement.
-
-**Verdict:** Article 213 is legitimate when it bridges time; it is unconstitutional in spirit and law when repetition bypasses representation. Necessity authorises the first step, but legislative accountability must control the destination.
-
-**Examiner comment:** Include session condition, competence, presidential instructions, laying, six weeks and both cases.
-
-**Evidence chain:** Article 213 preconditions -> Act-like force/competence -> laying/six weeks -> *Wadhwa* -> *Krishna Kumar Singh (2017)* -> urgency-and-scrutiny reform.
-
-**Why this earns marks:** It evaluates against explicit criteria, presents both necessity and abuse, uses more than six precise anchors and gives proportionate reform.
-
-**How to improve this answer:** Build the answer around necessity, session condition, laying, six-week expiry and re-promulgation; preserve legislative supremacy and avoid treating every ordinance as suspect.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “M8. Evaluate the ordinance power of the Governor as a test of executive necessity versus…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M8. Evaluate the ordinance power of the Governor as a test of executive necessity versus legislative supremacy. (20 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M8. Evaluate the ordinance power of the Governor as a test of executive necessity versus legislative supremacy. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Directive fidelity: "Evaluate" requires criteria, legitimate uses, abuse mechanisms, case-law controls and a reasoned balance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Claim: [FACT] Article 213 is a constitutionally valid emergency bridge, not an alternative legislative chamber. Its legitimacy depends on genuine temporal necessity and prompt return to representative scrutiny. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Necessity case: Public emergencies, urgent fiscal/legal gaps or immediate implementation needs may arise between sittings. Temporary law prevents administrative paralysis. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Supremacy danger: The executive can avoid debate, committee scrutiny and an uncertain Assembly majority. Serial re-promulgation converts a short bridge into executive legislation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M8. Evaluate the ordinance power of the Governor as a test of executive necessity versus legislative supremacy. (20 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Verdict:** Necessity can authorise temporary law, but only legislative scrutiny can legitimise its continuation. Article 213 balances the two values when the ordinance is exceptional, reasoned, laid promptly and never used as a parallel legislature.

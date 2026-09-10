@@ -1,173 +1,237 @@
-ASCII MASTER FLOW — PANEL 1/12: Articles 168-212: one mandatory House, one optional House
-STATE LEGISLATURE UNDER ARTICLE 168
-Governor + Assembly in every State
-Governor + Assembly + Council in six bicameral States.
+ASCII MASTER FLOW - PANEL 1/12: Core concept and constitutional origin
+CENTRAL IDEA
+Articles 168-212 create the State legislature: Governor + Assembly in every State,
+with a Council only where the Constitution and an Article 169 law provide one.
 
-SIX COUNCIL STATES
-Andhra Pradesh | Telangana | Uttar Pradesh | Bihar | Maharashtra | Karnataka
+ORIGIN / TIMELINE
+1861-1935: colonial legislative councils widen representation but retain executive dominance.
+1935 Act: provincial autonomy and bicameral experience influence Constitution-making.
+1950: Part VI, Chapter III commences.
+1957/1985/2007: Andhra Pradesh Council created, abolished, and revived.
+1969: Punjab and West Bengal Councils abolished by parliamentary laws.
+1986: Tamil Nadu Council abolished; later revival legislation did not become operational.
+2019: former Jammu and Kashmir Council ended through reorganisation.
 
-CONSTITUTIONAL RAIL
-168-177 design/membership/sessions -> 178-195 officers/privilege
--> 196-207 Bills/finance -> 208-212 procedure and judicial restraint.
+DESIGN VERDICT
+Assembly = direct mandate + confidence + supply + final ordinary-Bill control.
+Council = optional continuity + reconsideration, never a co-equal federal chamber.
 
-CORE: Assembly has direct mandate and confidence; Council offers optional delay and continuity.
-MUST REMEMBER: Audit Articles 168-212 through legislature shape, Article 169, composition,
-  duration, membership, officers, sessions, privileges, ordinary and financial Bills, budget,
-  procedure and judicial-review limits.
+ASCII MASTER FLOW - PANEL 2/12: Articles 168-177: composition, duration, sessions and participation
+ARTICLE 168 -> Governor plus one or two Houses; Governor is not a House member.
+ARTICLE 169 -> Assembly total-membership majority + two-thirds present/voting;
+Parliament may then create/abolish Council by ordinary law, not Article 368 amendment.
+ARTICLE 170 -> Assembly directly elected from territorial constituencies; ordinary range 60-500,
+subject to constitutional/statutory exceptions and delimitation controls.
+ARTICLE 171 -> Council <= one-third Assembly and >=40; 1/3 local bodies, 1/12 graduates,
+1/12 teachers, 1/3 MLAs elect non-MLAs, remainder nominated for named fields.
+ARTICLE 172 -> Assembly five years unless dissolved; Council continuing body.
+ARTICLE 173 -> citizenship, oath-related requirement, age 25 Assembly / 30 Council, statutory qualifications.
+ARTICLE 174 -> summon/prorogue/dissolve Assembly; no fixed session count; six-month maximum gap rule.
+ARTICLE 175 -> Governor may address either/both Houses and send messages.
+ARTICLE 176 -> special address after general election and first session each year.
+ARTICLE 177 -> Ministers and Advocate-General may participate; vote follows membership.
 
-ASCII MASTER FLOW — PANEL 2/12: Article 169 creation or abolition route
-STATE ASSEMBLY RESOLUTION
-majority of total membership + at least two-thirds present and voting
-                         |
-                         v
-PARLIAMENT MAY ENACT ORDINARY LAW
-simple majority | incidental constitutional text changes | not Article 368 amendment
-                         |
-                         v
-COUNCIL CREATED OR ABOLISHED
+ASCII MASTER FLOW - PANEL 3/12: Articles 178-193: officers, oath, voting, vacancy and disqualification
+ARTICLES 178-181 -> Assembly Speaker/Deputy Speaker: election, vacancy, acting and removal safeguards.
+ARTICLES 182-185 -> Council Chairman/Deputy Chairman mirror, without Assembly-dissolution rule.
+ARTICLE 186 -> salaries/allowances fixed by State law; constitutional interim protection.
+ARTICLE 187 -> separate State-legislature secretarial staff; State law may regulate service conditions.
+ARTICLE 188 -> oath/affirmation before Governor or appointed person before taking seat.
+ARTICLE 189 -> majority present/voting; chair's casting vote; vacancies do not invalidate;
+default quorum ten or one-tenth, whichever greater, until State law provides otherwise.
+ARTICLE 190 -> double membership, resignation accepted only if voluntary/genuine,
+and sixty-day absence route with constitutional exclusions.
+ARTICLE 191 -> office of profit, court-declared unsound mind, insolvency, citizenship/allegiance,
+parliamentary-law grounds; clause (2) adds Tenth Schedule.
+ARTICLE 192 -> Governor decides Article 191(1) sitting-member questions and must follow ECI opinion.
+ARTICLE 193 -> Rs 500 per day liability for knowingly sitting/voting without oath or while barred.
 
-LIMITS
-Resolution does not itself create a Council and does not compel Parliament to legislate.
-
-ASCII MASTER FLOW — PANEL 3/12: Assembly and Council composition, duration and membership
-ASSEMBLY
-Article 170 | direct territorial election | normal 60-500 with exceptions
-age 25 | five years unless sooner dissolved | confidence chamber.
-
-COUNCIL
-Article 171 | <= one-third Assembly; ordinarily >=40 | permanent | age 30
-1/3 local bodies | 1/12 graduates | 1/12 teachers | 1/3 MLAs | 1/6 nominated
-STV for elected streams | one-third retire every two years | six-year member term.
-
-ARTICLE 190
-resignation needs voluntary/genuine acceptance; unauthorised sixty-day absence may vacate seat.
-
-ASCII MASTER FLOW — PANEL 4/12: Sessions, officers, quorum and participation
-ARTICLE 174
-Governor summons on advice -> sitting -> adjournment -> prorogation -> Assembly dissolution
-no more than six months between last sitting and next session's first sitting.
-
-OFFICERS
-Assembly Speaker/Deputy Speaker | Council Chairman/Deputy Chairman
-removal: majority of all then members + fourteen days notice.
-Speaker survives dissolution until immediately before new Assembly's first meeting.
-
-ARTICLE 189 DEFAULT
-until State law provides otherwise: ten or one-tenth, whichever greater.
-Ordinary vote: present and voting; chair has casting vote on equality.
-
-ASCII MASTER FLOW — PANEL 5/12: Presiding officer neutrality and anti-defection control
-TENTH SCHEDULE
-party exit/whip breach | independent joins | nominated joins after six months
-only two-thirds merger defence survives.
-
-Kihoto Hollohan (1992) -> Speaker is tribunal; judicial review survives.
-Keisham Meghachandra (2020) -> ordinarily three-month outer limit absent exception.
-Padi Kaushik Reddy (2025) -> Telangana petitions ordered concluded within three months.
-Subhash Desai (2023) -> political party, not faction, appoints authorised whip/leader.
-Nabam Rebia (2016) referred Speaker-removal issue remains unresolved.
-
-REFORM: reasoned orders, equal procedure and independent adjudication proposal.
-
-ASCII MASTER FLOW — PANEL 6/12: Privileges, accountability devices and review
+ASCII MASTER FLOW - PANEL 4/12: Privileges, ethics and judicial boundaries
 ARTICLE 194
-speech/vote immunity + authorised publication protection -> functional legislative shield.
-Sita Soren (2024) -> bribery is not protected by speech/vote privilege.
-Amarinder Singh (2010) -> privilege is no general punishment for unrelated past executive acts.
-Raja Ram Pal (2007) -> substantive illegality, mala fides and jurisdiction remain reviewable.
+speech/vote and authorised-publication immunity + House/member/committee privileges.
+Protection is functional; it is not a licence for bribery or unrelated criminality.
+ARTICLE 195 -> member salaries/allowances by State law.
 
-ACCOUNTABILITY
-questions -> discussions -> motions -> budget scrutiny -> committees -> no-confidence.
-Only Assembly confidence can make or unmake the ministry.
-TRAP: Governor is a legislative component, not an Article 194-protected member.
-CLOSE DISTINCTION: Keep the Council's four-month ordinary-Bill delay, fourteen-day Money-Bill
-  role and absence of a State joint sitting distinct. Article 207(1) and 207(3) financial
-  Bills are not automatically Money Bills.
+1978 - 44TH AMENDMENT, SECTION 26
+amended Article 194(3): removed the House of Commons reference and preserved the
+pre-commencement privilege baseline until the State Legislature defines privileges by law.
 
-ASCII MASTER FLOW — PANEL 7/12: Ordinary Bills, lapse and unequal bicameralism
-UNICAMERAL
-Assembly readings/committee/vote -> Article 200 assent gateway.
+SPECIAL REFERENCE NO. 1 OF 1964 / KESHAV SINGH (1965)
+Legislative privilege and judicial power must coexist; jurisdictional constitutional questions remain reviewable.
+RAJA RAM PAL (2007)
+Expulsion/privilege power exists, but substantive illegality, mala fides and unconstitutionality remain reviewable.
+AMARINDER SINGH (2010)
+Punjab Assembly could not use privilege-based expulsion for conduct lacking the required nexus to House functioning.
+SITA SOREN (2024)
+Articles 105/194 do not immunise bribery connected with speech or vote.
 
-BICAMERAL ASSEMBLY BILL
-Assembly passes -> Council delay up to 3 months -> Assembly repasses
--> Council delay up to 1 month -> Assembly form prevails; no State joint sitting.
+ARTICLE 212 SHIELD
+mere procedural irregularity is protected; substantive illegality is not.
+
+ASCII MASTER FLOW - PANEL 5/12: Ordinary Bills, deadlock and lapse
+ARTICLE 196 BASELINE
+ordinary Bill may originate in either House in a bicameral State; prorogation does not lapse Bills.
+
+ARTICLE 197 ASSEMBLY OVERRIDE
+Assembly passes -> Council rejects / disagrees / holds >3 months
+-> Assembly repasses in same or next session
+-> Council rejects / disagrees / holds >1 month
+-> Bill deemed passed in Assembly's second-passage form.
+
+NO STATE JOINT SITTING
+Article 108 is a Union mechanism; there is no State counterpart.
+
+LAPSE ON ASSEMBLY DISSOLUTION
+pending in Assembly -> lapses.
+passed by Assembly, pending in Council -> lapses.
+pending in Council, not passed by Assembly -> does not lapse.
+passed by required House(s), awaiting Governor/President -> does not lapse.
 
 COUNCIL-ORIGINATED BILL
-Council passes -> Assembly rejects -> Bill ends; no reciprocal Council override.
+If Assembly rejects it, Article 197 supplies no Council override.
 
-ARTICLE 196 LAPSE
-prorogation: no lapse | pending only in Council: no lapse on Assembly dissolution
-pending in Assembly or passed Assembly/pending Council: lapses on dissolution.
+ASCII MASTER FLOW - PANEL 6/12: Money Bills, Financial Bills and Assembly primacy
+ARTICLE 198
+Money Bill: Assembly-only introduction on Governor's recommendation;
+Council may recommend within 14 days; Assembly accepts or rejects.
+ARTICLE 199
+only listed matters + incidental matters qualify; Assembly Speaker certifies.
+ARTICLE 207(1) FINANCIAL BILL-I
+contains Article 199(1)(a)-(f) matter plus other matter;
+Governor recommendation + Assembly-only introduction; then ordinary-Bill treatment.
+ARTICLE 207(3) FINANCIAL BILL-II
+would involve expenditure from Consolidated Fund;
+may originate either House, but cannot be passed without recommendation for consideration.
 
-ASCII MASTER FLOW — PANEL 8/12: Money Bills and Article 207 financial categories
-MONEY BILL: ARTICLES 198-199
-Governor recommendation -> Assembly introduction -> Speaker certificate
--> Council recommendations within 14 days -> Assembly decides -> Article 200.
-Council cannot reject, amend, vote grants or force joint sitting.
+ASSEMBLY PRIMACY
+confidence under Article 164(2) + grants under Article 203 + Money Bill control.
+Council neither removes ministry nor votes demands for grants.
 
-ARTICLE 207(1) WIDER FINANCIAL BILL
-contains Article 199(1)(a)-(f) matter plus others -> recommendation + Assembly origin
--> ordinary-Bill route after introduction.
+TRAP
+expenditure consequence alone does not convert every Financial Bill into a Money Bill.
 
-ARTICLE 207(3) EXPENDITURE BILL
-may originate in either House -> cannot be passed without Governor recommendation
-for consideration -> not automatically a Money Bill.
+ASCII MASTER FLOW - PANEL 7/12: Articles 200-201: assent and reservation after the 2025 doctrine
+ARTICLE 200 - THREE CONSTITUTIONAL OPTIONS (2025 INSC 1333)
+1 assent;
+2 reserve for President;
+3 withhold and return with comments, only for a non-Money Bill.
+First proviso restricts/implements withholding; it is not a fourth free-standing option.
+Second proviso mandates reservation if High Court powers are derogated so as to endanger its position.
 
-ASCII MASTER FLOW — PANEL 9/12: Budget, funds, committees and executive scrutiny
-ARTICLES 202-207
-Annual Financial Statement -> charged items discussed, not voted
--> demands for grants voted only by Assembly -> appropriation authorises withdrawal
--> Finance/financial legislation completes revenue authority.
-
-COMMITTEE RAIL
-Public Accounts -> audit and appropriation
-Estimates -> economy and administrative improvement
-Public Undertakings -> State enterprise scrutiny
-State-specific subject/Bill committees -> evidence and clause-level examination.
-
-EFFECTIVE CONTROL = time + data + research + tracked government response.
-
-ASCII MASTER FLOW — PANEL 10/12: Articles 200-201 assent and current legal control
-ARTICLE 200
-assent | withhold | return non-Money Bill once | reserve for President
-mandatory reservation where High Court constitutional powers are endangered.
 ARTICLE 201
-President may assent, withhold or direct return of non-Money Bill;
-repassage does not compel presidential assent.
+President may assent or withhold; may direct return of a non-Money Bill through Governor.
+State House(s) reconsider within six months; re-passage does not compel presidential assent.
 
-State of Tamil Nadu v. Governor of Tamil Nadu (2025)
--> timelines and deemed assent used on the facts.
-In re Assent, Withholding or Reservation of Bills (2025)
--> advisory; no rigid timelines or automatic deemed assent;
-prolonged unexplained inaction remains reviewable. No technical overruling claim.
+STATE OF PUNJAB (10 NOV 2023)
+No indefinite inaction; withholding linked to return under the first proviso.
+STATE OF TAMIL NADU (8 APR 2025, 2025 INSC 481)
+On its facts invalidated second-round reservation, prescribed timelines and used Article 142 deemed assent.
+ARTICLE 143 OPINION (20 NOV 2025, 2025 INSC 1333)
+Called general timeline/deemed-assent reasoning erroneous; no rigid clock or deemed assent;
+no pre-enactment merits review; limited mandamus for glaring prolonged unexplained inaction.
+It advised on law; it did not appellate-set aside the Tamil Nadu inter partes relief.
 
-ASCII MASTER FLOW — PANEL 11/12: Council versus Assembly and Rajya Sabha
-ASSEMBLY                         COUNCIL
-mandatory, direct                  optional, indirect/nominated
-may dissolve                       permanent
-confidence + grants                questions/debate, no confidence control
-final ordinary-Bill will           maximum 3+1 month delay
-Money Bill control                 14-day recommendations
-Article 169 initiation             existence depends on Assembly route.
+ASCII MASTER FLOW - PANEL 8/12: Articles 202-207: budget, grants and appropriation
+ARTICLE 202 -> annual financial statement: receipts/expenditure; charged versus voted.
+ARTICLE 203 -> charged expenditure discussed, not voted; Assembly alone votes demands for grants.
+Governor recommendation is required for a demand.
+ARTICLE 204 -> Appropriation Bill authorises withdrawal from Consolidated Fund;
+no amendment may vary amount/destination or charged expenditure.
+ARTICLE 205 -> supplementary, additional and excess grants use the Articles 202-204 logic.
+ARTICLE 206 -> vote on account, vote of credit and exceptional grant.
+ARTICLE 207 -> recommendation and introduction controls for financial Bills.
 
-RAJYA SABHA CONTRAST
-mandatory federal House | broadly co-equal ordinary law | Articles 249 and 312 powers.
-Council legitimacy rests on scrutiny, not federal representation or final veto.
+ACCOUNTABILITY CHAIN
+estimate -> debate -> grant vote -> appropriation -> execution -> audit -> PAC follow-up.
 
-ASCII MASTER FLOW — PANEL 12/12: Current representation controls and exam synthesis
-CURRENT AT 28 AUGUST 2026
-six Council States | 106th Amendment reservation not operational
-Census reference: 1 Mar 2027 generally; 1 Oct 2026 in specified snow-bound areas
-2026 delimitation-linked Bills failed/withdrawn and are not law.
+COUNCIL LIMIT
+may discuss the financial statement but cannot vote grants or overcome Assembly control.
 
-REFORM ROUTE
-predictable sittings | prior Bill publication | stronger committees
-non-partisan research | timely Speaker decisions | transparent nominations
-public assent tracker | modernised Council representation.
+ASCII MASTER FLOW - PANEL 9/12: Questions, motions, committees and local House practice
+CONSTITUTIONAL TEXT
+Article 164(2): ministry collectively responsible to Assembly.
+Article 208: each House makes procedural rules, subject to Constitution.
+Articles 202-207: financial accountability framework.
+
+LOCAL HOUSE RULES / DIRECTIONS / CONVENTIONS
+Question Hour, Zero Hour or special mention, calling attention, short-duration discussion,
+adjournment/censure/no-confidence motions, cut motions, privilege procedure and committee details.
+Names, notices, admissibility, membership and referral vary by State.
+
+COMMITTEE FUNCTIONS
+PAC -> appropriation and CAG-linked audit.
+Estimates -> economy, efficiency and estimate presentation.
+Public Undertakings -> State enterprise scrutiny.
+Privileges/Ethics/Petitions/Subordinate Legislation/subject committees -> specialised control.
+
+HARD LIMIT
+Do not copy Lok Sabha rule numbers, committee sizes or a fixed DRSC structure into every State.
+
+ASCII MASTER FLOW - PANEL 10/12: Anti-defection, Speaker neutrality and case chronology
+1985 - 52ND AMENDMENT, SECTION 5
+inserted Article 191(2); section 6 inserted Tenth Schedule.
+2003 - 91ST AMENDMENT, SECTION 5
+removed paragraph 3 split protection; two-thirds merger protection remains under paragraph 4.
+
+KIHOTO HOLLOHAN (1992)
+Presiding officer is a tribunal; final decision is judicially reviewable on recognised grounds.
+RAVI NAIK (1994)
+Voluntarily giving up membership may be inferred from conduct, not only formal resignation.
+RAJENDRA SINGH RANA (2007)
+Speaker cannot avoid deciding disqualification by accepting an unsupported split claim.
+NABAM REBIA (2016)
+Speaker-removal notice restricted adjudication; correctness referred by SUBHASH DESAI (2023).
+KEISHAM MEGHACHANDRA (2020)
+Absent exceptional circumstances, petitions should ordinarily be decided within three months;
+Court urged Parliament to consider an independent tribunal.
+SUBHASH DESAI (2023)
+Political party, not a legislature-party faction, appoints the authorised whip/leader;
+larger-Bench reference leaves Nabam Rebia issue unresolved.
+PADI KAUSHIK REDDY (31 JUL 2025)
+Review survives and Telangana petitions received a case-specific three-month direction.
+
+ASCII MASTER FLOW - PANEL 11/12: Representation, amendments, Council comparison and Article 213
+1976 - 42ND AMENDMENT, SECTION 38
+amended Article 170 delimitation/readjustment framework and introduced the freeze architecture.
+2001 - 84TH AMENDMENT, SECTION 5
+amended Article 170: extended freeze to first post-2026 census publication and enabled limited readjustment.
+2003 - 87TH AMENDMENT, SECTION 4
+substituted 2001 for 1991 census references in Article 170.
+2019 - 104TH AMENDMENT, SECTION 2
+amended Article 334: SC/ST reservation extended; Anglo-Indian special representation ceased after its period.
+2023 - 106TH AMENDMENT, SECTIONS 2-5
+inserted Delhi clauses and Articles 330A, 332A, 334A; one-third reservation for women in
+Lok Sabha/Assemblies, including within SC/ST seats, operates after Article 334A census-delimitation sequence.
+It does not cover Legislative Councils.
+S.O. 1922(E), 16 April 2026 commenced the Amendment; commencement did not itself activate reserved seats.
+
+ARTICLE 213 ORDINANCE
+specified House-recess condition + immediate-action satisfaction + State legislative competence;
+Act-like force, mandatory laying and expiry six weeks after later reassembly unless earlier ended.
+D.C. WADHWA (1987) and KRISHNA KUMAR SINGH (2017) reject routine repromulgation.
+
+ASCII MASTER FLOW - PANEL 12/12: Prelims traps, reform and Mains answer spine
+PRELIMS FIREWALL
+Governor is legislature component, not House member.
+Article 169: Assembly special majority; Parliament ordinary law.
+Article 174: six-month maximum gap; no fixed three sessions or annual sitting minimum.
+Council: 3+1 month ordinary-Bill delay; 14-day Money-Bill recommendation; no joint sitting.
+Article 192 route excludes Tenth Schedule.
+Article 212 shields procedural irregularity, not illegality.
+Article 213 is temporary and competence-bound.
+No invented current Council strength or uniform House-rule number.
+
+REFORM MENU
+minimum evidence-based sitting calendar; default committee scrutiny with stated exceptions;
+research and drafting support; protected Question Hour; reasoned/timely chair rulings;
+narrower confidence-linked whip; independent defection tribunal debate;
+modernise Council electorates and nominations; post-legislative review.
 
 MAINS SPINE
-Article/design -> mechanism -> Assembly-Council comparison -> case/current evidence
--> democratic or scrutiny consequence -> targeted reform -> representative-federal verdict.
-LEGAL/SOURCE LIMIT: Six States retain Councils. The 106th Amendment is commenced but its
-  reservation is not operational; Census 2027 reference dates do not equal publication of
-  figures or commencement of delimitation.
+define -> locate exact Article -> classify text/statute/rule/convention/judgment
+-> explain mechanism -> name evidence -> test democratic/accountability effect
+-> state exception/status -> targeted reform -> qualified verdict.
+
+VERDICT
+Assembly primacy is constitutionally deliberate; legitimacy improves when primacy is matched
+by deliberation, impartial procedure, financial scrutiny and reviewable constitutional boundaries.

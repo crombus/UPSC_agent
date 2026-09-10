@@ -1,1492 +1,175 @@
-# Polity 18 - Supreme Court
+# Polity 18 — Supreme Court
 
 ## Quick-Glance Tree Chart
 
 ```text
-SUPREME COURT OF INDIA
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-The Supreme Court is the apex of India's integrated judiciary, constitutional
-umpire, final appellate court and guarantor of Fundamental Rights. Its
-independence is protected because courts must review the political branches and
-resolve federal disputes; its power remains legitimate only through reasoned
-precedent, open process, jurisdictional restraint and institutional
-accountability. Judicial review, PIL and Article 142 enable transformative
-remedies, but do not authorise the Court to become a continuing legislature or
-administrator without constitutional standards and implementation limits.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-TOPIC 18 OWNS:
-Articles 124-147;
-composition / appointment /
-removal;
-independence / accountability;
-original,
-writ,
-appellate,
-advisory,
-review jurisdiction;
-Articles 129,
-141,
-142;
-PIL;
-activism / restraint;
-tribunals;
-judicial reform.
-                              |
-                              v
-FUNDAMENTAL RIGHTS:
-substantive right doctrines.
-HIGH COURT:
-Article 226 / state judiciary detail.
-AMENDMENT:
-basic-structure chronology.
-PARLIAMENT:
-legislative privilege /
-removal procedure.
-ENVIRONMENT:
-substantive regulation.
-                              |
-                              v
-                  BRANCH I: HISTORICAL POSITION
-FEDERAL COURT
-established 1937
-under GoI Act 1935.
-                              |
-                              v
-PRIVY COUNCIL
-former highest appellate body.
-                              |
-                              v
-CONSTITUTION
-Supreme Court
-under Part V,
-Articles 124-147.
-                              |
-                              v
-INAUGURATED
-28 January 1950.
-                              |
-                              v
-SUCCESSION
-replaced Federal Court
-+ Privy Council appeal.
-                              |
-                              v
-INTEGRATED JUDICIARY
-SC
--> High Courts
--> subordinate courts.
-                              |
-                              v
-ONE SYSTEM
-administers Union /
-state law,
-unlike US dual judiciary.
-                              |
-                              v
-                  BRANCH II: COMPOSITION
-CHIEF JUSTICE OF INDIA.
-                              |
-                              v
-OTHER JUDGES
-number fixed by parliamentary law.
-                              |
-                              v
-ORIGINAL
-eight judges
-including CJI
-in 1950 framework.
-                              |
-                              v
-2019 AMENDMENT ACT
-sanctioned strength
-raised to 34:
-one CJI
-+ thirty-three.
-                              |
-                              v
-OFFICIAL ROSTER
-34 sitting judges
-on 28 August 2026
-in sourced control.
-                              |
-                              v
-CAUTION
-sanctioned,
-working
-and vacancy figures differ
-and require dates.
-                              |
-                              v
-                  BRANCH III: SEAT / BENCH
-SEAT
-Delhi.
-                              |
-                              v
-OTHER PLACE
-CJI may appoint
-with President's approval.
-                              |
-                              v
-DIVISION BENCHES
-ordinary cases.
-                              |
-                              v
-CONSTITUTION BENCH
-minimum five judges
-for substantial constitutional
-interpretation question
-or Article 143 reference.
-                              |
-                              v
-LARGER BENCH
-resolves precedent conflict /
-major doctrine.
-                              |
-                              v
-MASTER OF ROSTER
-CJI allocates cases /
-constitutes benches,
-subject to institutional norms.
-                              |
-                              v
-                  BRANCH IV: APPOINTMENT TEXT
-PRESIDENT
-appoints judges.
-                              |
-                              v
-ARTICLE 124
-consultation framework.
-                              |
-                              v
-CJI
-appointed after required
-constitutional consultation.
-                              |
-                              v
-OTHER JUDGES
-CJI consultation obligatory.
-                              |
-                              v
-CURRENT PRACTICE
-collegium recommendations
-under Judges Cases /
-Memorandum of Procedure.
-                              |
-                              v
-CJI CONVENTION
-seniormost judge considered fit.
-                              |
-                              v
-NOT EXPRESS TEXT
-seniority is convention /
-MoP practice.
-                              |
-                              v
-BREACHES
-A.N. Ray 1973;
-M.H. Beg 1977.
-                              |
-                              v
-                  BRANCH V: FIRST JUDGES CASE 1981
-MEANING OF CONSULTATION
-not concurrence.
-                              |
-                              v
-PRIMACY
-executive.
-                              |
-                              v
-TRANSFER / APPOINTMENT
-executive latitude.
-                              |
-                              v
-LATER
-overturned by
-Second Judges Case.
-                              |
-                              v
-                  BRANCH VI: SECOND JUDGES CASE 1993
-CONSULTATION
-read as concurrence
-in appointment context.
-                              |
-                              v
-PRIMACY
-judiciary.
-                              |
-                              v
-COLLEGIUM
-created judicially.
-                              |
-                              v
-CJI OPINION
-institutional,
-not personal.
-                              |
-                              v
-PURPOSE
-judicial independence.
-                              |
-                              v
-CRITIQUE
-textual rewriting /
-opacity.
-                              |
-                              v
-                  BRANCH VII: THIRD JUDGES CASE 1998
-PRESIDENTIAL REFERENCE.
-                              |
-                              v
-COLLEGIUM FOR SC
-CJI
-+ four seniormost judges.
-                              |
-                              v
-PLURALITY
-required.
-                              |
-                              v
-CONSULTATION
-records / views
-under procedure.
-                              |
-                              v
-SIGNIFICANCE
-reduced individual CJI control.
-                              |
-                              v
-                  BRANCH VIII: NJAC 2015
-99TH AMENDMENT
-+ NJAC ACT 2014.
-                              |
-                              v
-MODEL
-judges,
-executive,
-eminent persons
-in commission.
-                              |
-                              v
-FOURTH JUDGES CASE
-Supreme Court invalidated.
-                              |
-                              v
-GROUND
-judicial independence
-as basic structure.
-                              |
-                              v
-RESULT
-collegium restored.
-                              |
-                              v
-CRITIQUE
-judicial self-selection /
-transparency deficit.
-                              |
-                              v
-REFORM OBJECT
-accountable independence,
-not executive primacy.
-                              |
-                              v
-                  BRANCH IX: QUALIFICATIONS
-CITIZEN OF INDIA.
-                              |
-                              v
-HIGH COURT JUDGE
-for at least five years.
-                              |
-                              v
-OR HIGH COURT ADVOCATE
-for at least ten years.
-                              |
-                              v
-OR DISTINGUISHED JURIST
-in President's opinion.
-                              |
-                              v
-NO MINIMUM AGE
-in Constitution.
-                              |
-                              v
-RETIREMENT
-sixty-five.
-                              |
-                              v
-DISTINGUISHED JURIST
-never appointed
-in sourced practice.
-                              |
-                              v
-TRAP
-High Court retirement
-is sixty-two,
-not Supreme Court.
-                              |
-                              v
-                  BRANCH X: OATH / TENURE / EXIT
-OATH
-President
-or authorised person.
-                              |
-                              v
-TENURE
-until age sixty-five.
-                              |
-                              v
-RESIGNATION
-to President.
-                              |
-                              v
-REMOVAL
-President after
-address by both Houses.
-                              |
-                              v
-GROUND
-proved misbehaviour
-or incapacity.
-                              |
-                              v
-NOT CONSTITUTIONALLY CALLED
-impeachment.
-                              |
-                              v
-NO JUDGE
-ever removed
-through completed process.
-                              |
-                              v
-V. RAMASWAMI
-motion failed in 1993
-after abstentions.
-                              |
-                              v
-                  BRANCH XI: REMOVAL PROCEDURE
-NOTICE
-one hundred Lok Sabha members
-or fifty Rajya Sabha members.
-                              |
-                              v
-PRESIDING OFFICER
-admits / refuses
-under Judges Inquiry law.
-                              |
-                              v
-INQUIRY COMMITTEE
-three members.
-                              |
-                              v
-IF PROVED
-motion considered.
-                              |
-                              v
-EACH HOUSE
-special majority:
-majority total membership
-+ two-thirds present / voting.
-                              |
-                              v
-PRESIDENT
-issues removal order.
-                              |
-                              v
-CAUTION
-failed motion /
-resignation
-is not completed removal.
-                              |
-                              v
-                  BRANCH XII: INDEPENDENCE SAFEGUARDS
-SECURITY OF TENURE.
-                              |
-                              v
-DIFFICULT REMOVAL.
-                              |
-                              v
-SERVICE CONDITIONS
-not varied to disadvantage
-after appointment,
-except Financial Emergency rule.
-                              |
-                              v
-SALARIES
-charged on
-Consolidated Fund of India
-under Article 112.
-                              |
-                              v
-COURT ADMINISTRATION EXPENSES
-charged under Article 146(3).
-                              |
-                              v
-CONDUCT
-not discussed in Parliament
-except removal motion.
-                              |
-                              v
-CONTEMPT POWER.
-                              |
-                              v
-SEPARATION
-from executive.
-                              |
-                              v
-POST-RETIREMENT
-Article 124(7)
-bars pleading / acting
-before any Indian court / authority.
-                              |
-                              v
-                  BRANCH XIII: ACCOUNTABILITY
-REASONED JUDGMENTS.
-                              |
-                              v
-OPEN COURT
-subject to lawful exceptions.
-                              |
-                              v
-APPEAL / REVIEW /
-CURATIVE.
-                              |
-                              v
-REMOVAL PROCESS.
-                              |
-                              v
-IN-HOUSE PROCEDURE
-judicial misconduct complaints.
-                              |
-                              v
-RECUSAL
-impartiality /
-disclosure.
-                              |
-                              v
-ASSET / ETHICS TRANSPARENCY
-institutional reform area.
-                              |
-                              v
-CONTEMPT
-protects administration,
-but cannot suppress
-fair criticism.
-                              |
-                              v
-TENSION
-external control may threaten
-independence;
-self-regulation may lack transparency.
-                              |
-                              v
-                  BRANCH XIV: MASTER JURISDICTION MAP
-ORIGINAL
-Article 131.
-                              |
-                              v
-WRIT
-Article 32.
-                              |
-                              v
-APPELLATE
-Articles 132-136.
-                              |
-                              v
-ADVISORY
-Article 143.
-                              |
-                              v
-REVIEW
-Article 137.
-                              |
-                              v
-COURT OF RECORD
-Article 129.
-                              |
-                              v
-BINDING LAW
-Article 141.
-                              |
-                              v
-COMPLETE JUSTICE
-Article 142.
-                              |
-                              v
-AID
-Article 144.
-                              |
-                              v
-RULES / BENCH
-Article 145.
-                              |
-                              v
-                  BRANCH XV: ARTICLE 131 ORIGINAL JURISDICTION
-PARTIES
-Union versus one / more states.
-                              |
-                              v
-UNION + STATE(S)
-versus other state(s).
-                              |
-                              v
-STATE VERSUS STATE.
-                              |
-                              v
-REQUIREMENT
-legal right
-depends on dispute.
-                              |
-                              v
-EXCLUSIVE
-within qualifying federal disputes.
-                              |
-                              v
-EXCLUDED / LIMITED
-pre-Constitution treaties
-where jurisdiction excluded;
-inter-state water disputes
-under Article 262 law;
-Finance Commission matters;
-political disputes without legal right.
-                              |
-                              v
-PRESIDENT / VP ELECTION
-separate original,
-exclusive,
-final jurisdiction
-under Article 71.
-                              |
-                              v
-                  BRANCH XVI: ARTICLE 32 / WRITS
-RIGHT
-move Supreme Court
-for Fundamental Rights.
-                              |
-                              v
-AMBEDKAR
-heart and soul.
-                              |
-                              v
-WRITS
-habeas corpus,
-mandamus,
-prohibition,
-certiorari,
-quo warranto.
-                              |
-                              v
-SCOPE
-Fundamental Rights only.
-                              |
-                              v
-ORIGINAL
-but not exclusive;
-High Courts concurrent.
-                              |
-                              v
-ARTICLE 226
-Fundamental Rights
-+ any other legal purpose.
-                              |
-                              v
-GEOGRAPHY
-Supreme Court nationwide;
-High Court territory /
-cause of action.
-                              |
-                              v
-DISCRETION
-Article 32 right;
-Article 226 discretionary
-with alternative-remedy doctrine.
-                              |
-                              v
-                  BRANCH XVII: APPELLATE JURISDICTION
-ARTICLE 132
-constitutional cases
-with High Court certificate.
-                              |
-                              v
-ARTICLE 133
-civil appeals
-under constitutional /
-statutory conditions.
-                              |
-                              v
-ARTICLE 134
-criminal appeals.
-                              |
-                              v
-ARTICLE 134A
-certificate procedure.
-                              |
-                              v
-ARTICLE 136
-special leave to appeal.
-                              |
-                              v
-SLP
-discretionary,
-exceptional,
-plenary corrective power.
-                              |
-                              v
-FROM
-court / tribunal
-in India.
-                              |
-                              v
-EXCLUDED
-armed-forces court /
-tribunal.
-                              |
-                              v
-CAUTION
-Article 136
-not regular fourth appeal.
-                              |
-                              v
-                  BRANCH XVIII: ARTICLE 143 ADVISORY
-PRESIDENT
-may refer question
-of law / fact
-of public importance.
-                              |
-                              v
-SUPREME COURT
-may report opinion
-or decline
-in general reference.
-                              |
-                              v
-PRE-CONSTITUTION TREATY /
-AGREEMENT DISPUTE
-Court must report
-when referred
-under special clause.
-                              |
-                              v
-OPINION
-not binding
-on President /
-government /
-future bench.
-                              |
-                              v
-PERSUASIVE
-high constitutional authority.
-                              |
-                              v
-2025 ASSENT REFERENCE
-clarified Articles 200 / 201:
-no rigid judge-made timeline /
-automatic deemed assent;
-limited review of indefinite inaction.
-                              |
-                              v
-                  BRANCH XIX: ARTICLE 137 REVIEW / CURATIVE
-REVIEW
-Supreme Court
-may review own judgment
-under Constitution /
-Rules.
-                              |
-                              v
-GROUNDS
-limited:
-error apparent /
-specified legal basis.
-                              |
-                              v
-CURATIVE PETITION
-judicially created
-after dismissal of review.
-                              |
-                              v
-RUPA ASHOK HURRA 2002
-prevent gross miscarriage
-in rare case.
-                              |
-                              v
-REQUIREMENTS
-natural-justice violation /
-bias /
-grave abuse,
-certification /
-screening.
-                              |
-                              v
-CAUTION
-curative is not
-ordinary second review.
-                              |
-                              v
-                  BRANCH XX: ARTICLE 129 / CONTEMPT
-COURT OF RECORD
-records have evidentiary value /
-precedential authority.
-                              |
-                              v
-CONTEMPT
-punish civil /
-criminal contempt.
-                              |
-                              v
-PURPOSE
-protect justice administration,
-not judicial reputation
-from all criticism.
-                              |
-                              v
-FAIR CRITICISM
-permitted.
-                              |
-                              v
-TRUTH
-statutory defence
-subject to public interest /
-bona fides.
-                              |
-                              v
-TENSION
-authority of courts
-versus speech.
-                              |
-                              v
-                  BRANCH XXI: ARTICLES 141 / 142 / 144 / 145
-ARTICLE 141
-law declared by Supreme Court
-binding on all courts
-in India.
-                              |
-                              v
-PRECEDENT
-ratio,
-not every observation.
-                              |
-                              v
-LARGER BENCH
-binds smaller bench.
-                              |
-                              v
-ARTICLE 142
-orders necessary
-for complete justice
-in pending cause / matter.
-                              |
-                              v
-LIMIT
-cannot routinely replace
-substantive law /
-ignore constitutional prohibition.
-                              |
-                              v
-ARTICLE 144
-all civil / judicial authorities
-act in aid.
-                              |
-                              v
-ARTICLE 145
-Court rules /
-Constitution Bench.
-                              |
-                              v
-DISTINCTION
-Article 141 declares law;
-Article 142 tailors remedy.
-                              |
-                              v
-                  BRANCH XXII: ACTING / AD HOC / RETIRED JUDGES
-ACTING CJI
-Article 126.
-                              |
-                              v
-AD HOC JUDGE
-Article 127:
-qualified High Court judge,
-with consent /
-Presidential approval.
-                              |
-                              v
-RETIRED JUDGE
-Article 128:
-may sit / act
-with consent
-and Presidential approval
-under procedure.
-                              |
-                              v
-PURPOSE
-quorum,
-arrears,
-expertise.
-                              |
-                              v
-CAUTION
-temporary judicial service
-does not alter
-retirement age /
-appointment safeguards.
-                              |
-                              v
-                  BRANCH XXIII: JUDICIAL REVIEW
-MEANING
-test legislative /
-executive action
-against Constitution.
-                              |
-                              v
-TEXTUAL ANCHORS
-Articles 13,
-32,
-131-136,
-143,
-226,
-246,
-251,
-372.
-                              |
-                              v
-GROUNDS
-Fundamental Rights violation;
-legislative incompetence;
-other constitutional violation;
-procedural failure.
-                              |
-                              v
-BASIC STRUCTURE
-judicial review itself protected.
-                              |
-                              v
-CONSTITUTION AMENDMENT
-reviewed for basic-structure damage.
-                              |
-                              v
-ORDINARY LAW
-must violate text /
-competence /
-rights;
-not merely undefined basic feature.
-                              |
-                              v
-ANJUM KADARI 2024
-confirms boundary.
-                              |
-                              v
-                  BRANCH XXIV: NINTH SCHEDULE
-ARTICLE 31B
-validation shield.
-                              |
-                              v
-WAMAN RAO
-post-24 April 1973
-amendments reviewable.
-                              |
-                              v
-I.R. COELHO 2007
-post-cut-off insertion
-tested for rights impact
-on basic structure.
-                              |
-                              v
-NOT
-automatic invalidity.
-                              |
-                              v
-NOT
-absolute immunity.
-                              |
-                              v
-                  BRANCH XXV: TRIBUNALS
-PURPOSE
-specialisation /
-speed /
-technical expertise.
-                              |
-                              v
-CONSTITUTIONAL BASIS
-Articles 323A / 323B
-for specified tribunals.
-                              |
-                              v
-L. CHANDRA KUMAR 1997
-High Court Article 226 / 227
-and Supreme Court Article 32 review
-cannot be excluded;
-basic structure.
-                              |
-                              v
-TRIBUNAL
-supplement,
-not substitute
-for constitutional courts.
-                              |
-                              v
-INDEPENDENCE
-appointments,
-tenure,
-executive control
-remain concerns.
-                              |
-                              v
-                  BRANCH XXVI: PIL ORIGIN
-US
-public-interest law
-from 1960s.
-                              |
-                              v
-INDIA
-late 1970s /
-early 1980s.
-                              |
-                              v
-PIONEERS
-Justice V.R. Krishna Iyer;
-Justice P.N. Bhagwati.
-                              |
-                              v
-INNOVATION
-relaxed locus standi.
-                              |
-                              v
-PUBLIC-SPIRITED PERSON
-may approach
-for disadvantaged group.
-                              |
-                              v
-EPistolary jurisdiction
-letters treated as petitions
-in appropriate cases.
-                              |
-                              v
-OTHER LABELS
-social-action litigation,
-social-interest litigation,
-class-action litigation.
-                              |
-                              v
-GOALS
-access,
-rights,
-rule of law,
-government accountability.
-                              |
-                              v
-                  BRANCH XXVII: PIL EXPANSION
-PRISONERS.
-                              |
-                              v
-BONDED LABOUR.
-                              |
-                              v
-CHILDREN /
-WOMEN.
-                              |
-                              v
-ENVIRONMENT.
-                              |
-                              v
-DISPLACEMENT /
-LIVELIHOOD.
-                              |
-                              v
-CORRUPTION /
-GOVERNANCE.
-                              |
-                              v
-CONTINUING MANDAMUS
-Court monitors compliance
-over time.
-                              |
-                              v
-BENEFIT
-voice for diffuse /
-poor claimants.
-                              |
-                              v
-RISK
-publicity-interest litigation,
-forum shopping,
-policy takeover,
-pendency.
-                              |
-                              v
-SCREENING
-bona fides,
-rights nexus,
-institutional competence.
-                              |
-                              v
-                  BRANCH XXVIII: ACTIVISM / RESTRAINT
-ACTIVISM
-expansive interpretation /
-remedy
-to protect rights
-or fill vacuum.
-                              |
-                              v
-JUSTIFICATIONS
-executive failure,
-legislative inaction,
-rights of voiceless,
-constitutional mandate.
-                              |
-                              v
-RESTRAINT
-deference to democratic /
-expert branches
-where lawful.
-                              |
-                              v
-OVERREACH
-court administers policy
-without standards /
-capacity /
-accountability.
-                              |
-                              v
-LEGITIMATE TEST
-text,
-rights,
-institutional failure,
-remedial fit,
-exit path.
-                              |
-                              v
-JUDICIAL LEGISLATION
-temporary norm in vacuum
-may be justified,
-but Parliament retains
-law-making role.
-                              |
-                              v
-                  BRANCH XXIX: ENVIRONMENTAL CONSTITUTIONALISM
-ARTICLE 21
-healthy environment.
-                              |
-                              v
-ARTICLE 48A
-State directive.
-                              |
-                              v
-ARTICLE 51A(g)
-citizen duty.
-                              |
-                              v
-PIL
-relaxed standing.
-                              |
-                              v
-DOCTRINES
-polluter pays,
-precautionary principle,
-public trust,
-sustainable development.
-                              |
-                              v
-CONTINUING MANDAMUS
-monitoring.
-                              |
-                              v
-BENEFIT
-enforcement where agencies fail.
-                              |
-                              v
-RISK
-technical policy /
-livelihood trade-offs
-without full evidence.
-                              |
-                              v
-                  BRANCH XXX: WOMEN / DIVERSITY
-ISSUE
-low representation
-in higher judiciary.
-                              |
-                              v
-WHY DESIRABLE
-legitimacy,
-experience diversity,
-equal opportunity,
-institutional trust.
-                              |
-                              v
-BARRIERS
-bar pipeline,
-brief allocation,
-seniority,
-care burden,
-opaque selection,
-retention.
-                              |
-                              v
-CAUTION
-representation does not mean
-women judges decide
-in one essentialised way.
-                              |
-                              v
-REFORM
-transparent criteria,
-talent pipeline,
-data,
-workplace support,
-reasoned diversity consideration.
-                              |
-                              v
-                  BRANCH XXXI: INDIA / UK
-COMMON
-independent courts,
-adversarial process,
-common-law precedent.
-                              |
-                              v
-INDIA
-written supreme Constitution;
-judicial review
-of primary legislation.
-                              |
-                              v
-UK
-parliamentary sovereignty;
-courts cannot ordinarily
-invalidate Act of Parliament
-on constitutional inconsistency.
-                              |
-                              v
-INDIA
-integrated federal court /
-Article 32.
-                              |
-                              v
-UK
-different institutional history /
-Human Rights Act framework.
-                              |
-                              v
-VERDICT
-common legal ancestry,
-different constitutional supremacy.
-                              |
-                              v
-                  BRANCH XXXII: INDIA / USA APPOINTMENTS
-INDIA
-President formally appoints;
-judicial collegium has primacy.
-                              |
-                              v
-USA
-President nominates;
-Senate confirms publicly.
-                              |
-                              v
-INDIA STRENGTH
-insulation from executive.
-                              |
-                              v
-INDIA WEAKNESS
-opacity,
-self-selection,
-diversity.
-                              |
-                              v
-USA STRENGTH
-public accountability /
-formal checks.
-                              |
-                              v
-USA WEAKNESS
-partisan politicisation.
-                              |
-                              v
-REFORM AIM
-transparent,
-reasoned,
-diverse
-and independent selection.
-                              |
-                              v
-                  BRANCH XXXIII: BAR / PROFESSIONAL REGULATION
-ADVOCATES ACT 1961.
-                              |
-                              v
-BAR COUNCIL OF INDIA
-standards /
-legal education /
-discipline
-under statute.
-                              |
-                              v
-STATE BAR COUNCILS
-enrolment /
-discipline.
-                              |
-                              v
-SUPREME COURT
-controls practice /
-Advocates-on-Record
-under constitutional /
-rule-making authority.
-                              |
-                              v
-TENSION
-professional autonomy
-versus court administration /
-public interest.
-                              |
-                              v
-                  BRANCH XXXIV: PENDENCY / ACCESS REFORM
-PENDENCY
-system-wide,
-date-sensitive.
-                              |
-                              v
-CAUSES
-vacancies,
-government litigation,
-adjournment,
-procedure,
-infrastructure,
-case inflow.
-                              |
-                              v
-E-COURTS
-digital filing /
-cause lists /
-orders /
-hybrid hearings.
-                              |
-                              v
-LEGAL AID
-Article 39A /
-NALSA.
-                              |
-                              v
-CASE MANAGEMENT
-timelines /
-mediation /
-special benches.
-                              |
-                              v
-REGIONAL ACCESS
-bench debate
-versus institutional unity.
-                              |
-                              v
-CAUTION
-use dated official data;
-do not freeze approximate
-five-crore system figure.
-                              |
-                              v
-                  BRANCH XXXV: INDEPENDENCE / ACCOUNTABILITY BALANCE
-INDEPENDENCE
-decide without
-executive /
-legislative /
-private pressure.
-                              |
-                              v
-ACCOUNTABILITY
-reasons,
-ethics,
-recusal,
-transparency,
-discipline,
-efficiency.
-                              |
-                              v
-FALSE CHOICE
-accountability need not mean
-executive control.
-                              |
-                              v
-CONSTITUTIONAL MORALITY
-independence as trust,
-not personal privilege.
-                              |
-                              v
-DESIGN
-institutionally independent
-complaints /
-appointment transparency
-+ adjudicatory autonomy.
-                              |
-                              v
-                    CONSTITUTIONAL CASE / EXAMPLE BANK
-JUDGES CASES 1981 / 1993 / 1998
-appointment evolution.
-                              |
-                              v
-NJAC 2015
-independence / accountability tension.
-                              |
-                              v
-KESAVANANDA 1973
-basic structure.
-                              |
-                              v
-MINERVA MILLS 1980
-limited power / review.
-                              |
-                              v
-I.R. COELHO 2007
-Ninth Schedule.
-                              |
-                              v
-L. CHANDRA KUMAR 1997
-tribunal review.
-                              |
-                              v
-RUPA HURRA 2002
-curative petition.
-                              |
-                              v
-PUTTASWAMY 2017
-privacy /
-ADM repudiation.
-                              |
-                              v
-                    SOURCE CRITICISM
-sanctioned strength != working strength;
-CJI seniority != express constitutional rule;
-collegium != constitutional text;
-removal != colloquial impeachment;
-Article 32 scope != Article 226 scope;
-Article 143 advice != binding judgment;
-Article 142 != unlimited legislative power;
-PIL standing != merits;
-continuing mandamus != permanent administration;
-pendency statistic requires date.
-                              |
-                              v
-                    MAJOR DEBATES
-COLLEGIUM OR COMMISSION?
-independence
-versus accountable transparency.
-                              |
-                              v
-ACTIVISM OR OVERREACH?
-rights remedy
-versus policy substitution.
-                              |
-                              v
-PIL:
-ACCESS OR ABUSE?
-screened public justice.
-                              |
-                              v
-CONTEMPT:
-AUTHORITY OR SPEECH CHILL?
-protect justice,
-permit fair criticism.
-                              |
-                              v
-INDEPENDENCE OR ACCOUNTABILITY?
-institutional mechanisms
-without executive capture.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-Articles 124-147;
-retirement 65;
-no minimum appointment age;
-distinguished jurist eligible;
-collegium judicial creation;
-CJI convention not express text;
-removal for proved misbehaviour / incapacity;
-no SC judge removed;
-Article 131 excludes water disputes;
-Article 32 FR only;
-Article 226 wider;
-Article 143 opinion non-binding;
-Article 136 excludes military courts;
-Article 141 != Article 142.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT / ROUTED MAINS:
-2020 GS-II Q4
-India-UK judicial systems;
-2020 GS-II Q12
-judicial legislation /
-separation / PIL;
-2021 GS-II Q2
-women in higher judiciary;
-2022 GS-II Q1
-environment constitutionalisation;
-2023 GS-II Q1
-judicial independence;
-2024 GS-II Q14
-PIL growth /
-powerful Supreme Court;
-2025 GS-II Q11
-constitutional morality /
-independence-accountability;
-2025 GS-II Q13
-collegium evolution /
-India-USA appointments.
-No Mains answer key.
-                              |
-                              v
-PRELIMS ROUTING
-six 2019-2022 demands
-from audited ledger;
-historical official keys unavailable.
-2024 Q83 official Set-A key
-exists locally,
-but owner package does not
-record / infer option letter;
-none invented here.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-history / composition
--> appointment cases
--> qualification / removal
--> independence / accountability
--> Article 131
--> 32 / 226
--> appeals / 143 / 137
--> 129 / 141 / 142
--> judges
--> review / tribunals
--> PIL / activism
--> reform.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-COURT QUESTION:
-constitutional role
--> institutional design
--> jurisdiction / doctrine
--> contribution
--> accountability /
-separation concern
--> case evidence
--> reform
--> bounded-power conclusion.
-                              |
-                              v
-PIL / ACTIVISM:
-origin / relaxed standing
--> rights / access gain
--> continuing remedy
--> overreach / capacity risk
--> screening / exit rule
--> constitutional balance.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-The Supreme Court's strength lies in independence joined to constitutional
-reasoning, not in institutional supremacy. Its review, writ and remedial powers
-protect rights and federal limits, while PIL makes justice accessible beyond
-traditional litigants. The same tools require restraint, transparent
-appointments, ethical accountability and remedies calibrated to institutional
-capacity. A powerful Court remains democratic when it secures the constitutional
-floor without permanently occupying the policy space of elected government.
+ASCII MASTER FLOW — PANEL 1/12: Identity, origin, composition and current control
+Privy Council -> Federal Court of India (1937) -> Constitution, 26 Jan 1950
+-> Supreme Court inaugurated, 28 Jan 1950.
+
+ARTICLES 124-147, PART V -> apex constitutional + federal + appellate court.
+Integrated hierarchy -> Supreme Court -> High Courts -> subordinate courts.
+Article 141 promotes national legal uniformity; Articles 226/227/235 preserve High Court authority.
+
+CURRENT CONTROL, 7 SEPTEMBER 2026
+Act 14 of 2026, s.2 -> 1956 Act: "thirty-three" replaced by "thirty-seven";
+deemed in force 16 May 2026 -> sanctioned strength 38 including CJI.
+Official SCI roster -> 34 sitting judges including CJI Surya Kant -> 4 vacancies.
+LIMIT: roster/vacancy figures are volatile; re-verify before later use.
+
+ASCII MASTER FLOW — PANEL 2/12: Article 124 appointments and the collegium timeline
+TEXT -> President appoints; required consultation; other judges require CJI consultation.
+CONVENTION -> senior-most SC judge considered fit ordinarily appointed CJI;
+breached in 1973 (A.N. Ray) and 1977 (M.H. Beg); not express constitutional text.
+
+S.P. Gupta / First Judges (1981) -> consultation not concurrence; executive primacy.
+SCAORA / Second Judges (1993) -> judicial primacy; collegium created; CJI view institutional.
+Third Judges / Presidential Reference (1998) -> SC collegium = CJI + 4 senior-most judges.
+99th Amendment (2014) + NJAC Act, 2014 -> six-member commission model.
+SCAORA / Fourth Judges-NJAC (2015) -> design invalid for damaging judicial independence;
+collegium restored. LIMIT: no holding that every possible commission is unconstitutional.
+
+ASCII MASTER FLOW — PANEL 3/12: Qualifications, oath, tenure, removal and finance
+ARTICLE 124 -> Indian citizen + 5 years HC judge OR 10 years HC advocate
+OR distinguished jurist in President's opinion; no minimum age; retirement at 65.
+ARTICLE 124(6) + THIRD SCHEDULE -> constitutional oath; resignation addressed to President.
+ARTICLE 124(4) -> proved misbehaviour/incapacity -> special-majority address in each House
+in same session -> presidential removal order. No joint sitting; no SC judge removed.
+Judges (Inquiry) Act, 1968 -> notice: 100 LS or 50 RS -> presiding officer -> 3-member inquiry.
+
+ARTICLE 125 -> salary by law; allowances/leave/pension not varied to disadvantage,
+except Financial Emergency. ARTICLE 112(3)(d)(i) -> judges' salaries charged expenditure.
+ARTICLE 146(3) -> Court administrative expenses charged on Consolidated Fund of India.
+ARTICLE 124(7) -> former SC judge cannot plead/act before any Indian court or authority.
+
+ASCII MASTER FLOW — PANEL 4/12: Temporary judges, independence and accountability
+ARTICLE 126 -> President appoints acting CJI when office is vacant or CJI cannot act.
+ARTICLE 127 -> ad hoc qualified HC judge requested where quorum unavailable;
+CJI acts with presidential consent and after consulting the HC Chief Justice.
+ARTICLE 128 -> CJI may, with presidential consent and person's consent, request an
+eligible retired SC judge or qualified retired HC judge to sit and act.
+
+INDEPENDENCE -> tenure + protected conditions + Article 121 conduct shield
++ Article 129 contempt + Article 50 separation + appointment insulation.
+ACCOUNTABILITY -> reasoned judgments + open court + recusal + asset disclosure
++ 1997 Restatement + 1999 in-house procedure + Article 124(4) endpoint.
+LIMITS -> in-house process is non-statutory; no exhaustive recusal code; lapsed Bill is not law.
+VERDICT -> independence in decisions must coexist with transparent institutional process.
+
+ASCII MASTER FLOW — PANEL 5/12: Original, writ and transfer jurisdiction
+ARTICLE 131 -> exclusive original jurisdiction for listed Union-State/State-State parties
+where existence or extent of a legal right is in dispute.
+LIMITS -> political disagreement/private party excluded; treaty proviso checked;
+Article 262 law may exclude inter-State water-dispute jurisdiction.
+ARTICLE 71 -> President/Vice-President election disputes: separate original jurisdiction.
+
+ARTICLE 32 -> guaranteed Supreme Court remedy for Fundamental Rights; five writs.
+ARTICLE 226 -> High Court: Fundamental Rights + other legal rights; wider in purpose.
+ARTICLE 138 -> Parliament may enlarge Supreme Court jurisdiction by law.
+ARTICLE 139 -> Parliament may confer additional writ powers beyond Article 32 purposes.
+ARTICLE 139A -> withdrawal of same/substantially same substantial legal questions
+and inter-High-Court transfer in specified circumstances.
+
+ASCII MASTER FLOW — PANEL 6/12: Appeals, special leave, review and curative relief
+ARTICLE 132 -> constitutional appeal with High Court certificate.
+ARTICLE 133 -> civil appeal under constitutional/statutory conditions.
+ARTICLE 134 -> specified criminal appeals.
+ARTICLE 134A -> High Court considers certificate after judgment/order.
+ARTICLE 135 -> pre-Constitution Federal Court jurisdiction continues where applicable.
+ARTICLE 136 -> extraordinary discretionary SLP from court/tribunal;
+express Armed-Forces court/tribunal exclusion; not a regular fourth appeal.
+
+ARTICLE 137 -> Supreme Court reviews own judgment/order subject to law and rules.
+Rupa Ashok Hurra (2002) -> rare curative petition after review for gross miscarriage,
+natural-justice failure or bias; strict certification/screening; not a second ordinary review.
+
+ASCII MASTER FLOW — PANEL 7/12: Record, precedent, complete justice, aid and rules
+ARTICLE 129 -> court of record + constitutional contempt power.
+Contempt of Courts Act, 1971 -> regulates civil/criminal contempt; cannot extinguish Art 129.
+Fair criticism and bona fide public-interest truth protect democratic scrutiny.
+
+ARTICLE 141 -> law declared binds all courts; ratio + bench strength control.
+ARTICLE 142 -> complete justice in cause/matter before Court.
+Prem Chand Garg (1963) -> cannot violate Fundamental Rights.
+A.R. Antulay (1988) -> cannot sustain jurisdictional unfairness under complete justice.
+Supreme Court Bar Association (1998) -> supplementary; cannot supplant substantive law.
+ARTICLE 144 -> all civil and judicial authorities act in aid.
+ARTICLE 145 -> Court rules with presidential approval; 5-judge minimum for Article 143
+references and substantial constitutional-interpretation questions.
+
+ASCII MASTER FLOW — PANEL 8/12: Advisory jurisdiction and Articles 140, 143, 146, 147
+ARTICLE 143(1) -> President may refer public-importance law/fact question;
+Court may hear and report. ARTICLE 143(2) -> proviso-to-131 dispute; shall hear/report.
+Opinion is advisory, not an ordinary binding decree and does not overrule a judgment.
+
+20 NOVEMBER 2025 ASSENT OPINION, 2025 INSC 1333 -> no rigid judge-made assent
+timeline or deemed assent under Article 142; prolonged unexplained inaction remains reviewable.
+LIMIT -> issue-specific advisory control, not a general curtailment of Article 142.
+
+ARTICLE 140 -> Parliament may confer ancillary powers needed for effective jurisdiction.
+ARTICLE 146 -> CJI/authorised officer controls appointments of Court staff subject to text;
+service rules and charged administrative expenditure protect institutional administration.
+ARTICLE 147 -> interpretation references include Government of India Act, 1935 and specified
+historical enactments/orders for this Chapter and Chapter V of Part VI.
+
+ASCII MASTER FLOW — PANEL 9/12: Judicial review, interpretation and tribunal boundary
+JUDICIAL REVIEW -> legality of legislation, executive action and amendment effect;
+flows through Articles 13, 32, 131-136, 143, 226, 246, 251, 372 and structure.
+Kesavananda Bharati (1973) -> Article 368 power cannot damage Basic Structure.
+Minerva Mills (1980) -> limited amendment power and Parts III-IV harmony are protected.
+I.R. Coelho (2007) -> post-24 Apr 1973 Ninth Schedule insertions face impact review;
+reviewability does not mean automatic invalidity.
+
+L. Chandra Kumar (1997) -> Articles 226/227 and 32 judicial review are Basic Structure;
+tribunals supplement adjudication, but their decisions remain under High Court review.
+INTERPRETIVE DISCIPLINE -> text + structure + precedent + purpose; legality, not policy wisdom.
+
+ASCII MASTER FLOW — PANEL 10/12: PIL, judicial legislation and open justice
+Hussainara Khatoon (1979) -> Article 21 speedy-trial protection for under-trials.
+S.P. Gupta (1981) -> representative standing widened for persons unable to approach Court.
+EPISTOLARY JURISDICTION -> letters may be treated as petitions after bona fide screening.
+Vineet Narain (1998) -> continuing mandamus supports monitored compliance.
+
+Vishaka (1997) -> rights-based interim workplace norms in a legal vacuum;
+yielded to Sexual Harassment of Women at Workplace Act, 2013.
+LIMIT -> court may bridge a rights-threatening vacuum, not become permanent administrator.
+
+Swapnil Tripathi (2018) -> live streaming of suitable constitutional/national-importance
+proceedings advances open justice, subject to privacy, fair-trial and administrative safeguards.
+K.S. Puttaswamy (2017) -> privacy is a Fundamental Right shaping digital-court safeguards.
+
+ASCII MASTER FLOW — PANEL 11/12: Procedure, profession, access and current reform
+BENCHES -> CJI as master of roster allocates cases/constitutes benches under institutional rules;
+larger Bench binds smaller; coordinate disagreement goes to appropriate larger Bench.
+SEAT -> Delhi under Article 130; another place by CJI with President's approval.
+SUPREME COURT RULES, 2013 -> filing, review, curative and practice procedure.
+
+ADVOCATES ACT, 1961 -> State Bar Councils enrol; BCI sets statutory national standards
+and hears specified disciplinary appeals. Supreme Court Rules -> Advocate-on-Record system.
+ARTICLE 76 / ATTORNEY-GENERAL -> Union chief legal adviser with right of audience;
+may assist/represent before Court but is not Court officer, collegium member or BCI.
+
+REFORM CHAIN -> legal aid + physical/digital filing help + translation + hybrid hearings
++ neutral citations + e-Courts + cybersecurity/privacy + case-flow management
++ disciplined SLP admission + stronger High Courts. No unsupported live pendency total.
+
+ASCII MASTER FLOW — PANEL 12/12: Traps, PYQ routes and examiner-ready answer spine
+PRELIMS FIREWALL
+38 sanctioned / 34 working / 4 vacancies only on 7 Sep 2026 | retirement 65
+CJI seniority convention | collegium judicial creation | removal, not constitutional impeachment
+Article 32 narrower in purpose than 226 | prohibition prevents; certiorari quashes
+Article 136 discretionary + Armed-Forces exclusion | Article 143 advisory
+Article 142 supplementary, not supplanting | Constitution Bench minimum five
+Article 128 sitting != Article 124(7) practice bar | BCI statutory, SCBA association.
+
+PYQ ROUTES -> India-UK | judicial legislation/PIL | women | environmental constitutionalism
+| judicial independence | PIL and powerful Court | constitutional morality | India-USA collegium.
+
+MAINS SPINE
+define role -> classify source (text/statute/judgment/convention/current practice)
+-> exact Article/case holding -> mechanism -> consequence -> counterpoint/limit
+-> matched reform -> qualified verdict.
+
+VERDICT -> The Supreme Court guards constitutional supremacy only when independent authority
+is joined to reasoned restraint, accountable process, accessible remedies and executable orders.
 ```

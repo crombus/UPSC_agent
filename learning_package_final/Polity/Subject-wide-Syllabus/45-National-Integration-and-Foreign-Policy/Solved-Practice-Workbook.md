@@ -1,1089 +1,879 @@
 ---
-title: "National Integration and Foreign Policy — Solved Practice Workbook"
+title: "National Integration and Foreign Policy - Solved Practice Workbook"
 topic_key: polity-45
 ---
-# National Integration and Foreign Policy — Solved Practice Workbook
+# Polity 45 - National Integration and Foreign Policy - Solved Practice Workbook
+
+**Subject:** Polity | **GS Paper:** GS-II with routed GS-I/IR applications | **Legal/current control date:** 8 September 2026
+
+**Practice discipline:** exactly 32 original MCQs before the PYQ section; answer order `ABCD` repeated eight times; 128 substantive option-specific explanations; 32 question-specific traps; verified relevant descriptive PYQs with official-key discipline; exactly six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-### Original MCQs 1-36 — Broad Coverage
+Exactly **32 original MCQs** appear before the PYQ section. Questions 25-32 provide treaty, institution and doctrine remediation. Correct-answer sequence: `ABCDABCDABCDABCDABCDABCDABCDABCD`.
 
-#### OM1. National integration is best understood as
+### MCQ 1. Conceptual definition
 
-- A. equal constitutional membership across legitimate diversity
-- B. only territorial control
-- C. absence of regional identities
-- D. cultural uniformity imposed by law
+Which formulation best defines national integration?
 
-**Answer: A**
+A. Equal constitutional membership across legitimate diversity
+B. Permanent cultural sameness
+C. Territorial control without citizenship equality
+D. The absence of all regional organisations
 
-**Explanation:** Integration combines shared belonging with protected diversity.
+**Answer: A. Equal constitutional membership across legitimate diversity**
 
-#### OM2. Which Preamble value expressly links dignity with national cohesion?
+**Option-specific explanations:**
 
-- A. republic
-- B. fraternity
-- C. adult suffrage
-- D. socialism
+- **A:** Correct: it combines common membership with protected difference.
+- **B:** Cultural sameness mistakes integration for compulsory assimilation.
+- **C:** Control is necessary but cannot alone create civic belonging.
+- **D:** Regional organisation may channel claims peacefully rather than negate unity.
 
-**Answer: B**
+**Examiner trap 1:** Test whether the option preserves both common citizenship and legitimate diversity.
 
-**Explanation:** Fraternity assures dignity and the unity and integrity of the nation.
+### MCQ 2. Assimilation and accommodation
 
-#### OM3. Which provision protects a distinct language, script or culture?
+Which statement correctly distinguishes assimilation from accommodation?
 
-- A. Article 23
-- B. Article 360
-- C. Article 29
-- D. Article 17
+A. Accommodation requires one dominant culture.
+B. Assimilation absorbs difference; accommodation protects difference within common rules.
+C. Assimilation creates a constitutional right to secede.
+D. Accommodation exempts groups from equality norms.
 
-**Answer: C**
+**Answer: B. Assimilation absorbs difference; accommodation protects difference within common rules.**
 
-**Explanation:** Article 29 protects cultural interests.
+**Option-specific explanations:**
 
-#### OM4. Which duty concerns harmony and common brotherhood?
+- **A:** This reverses accommodation's plural logic.
+- **B:** Correct: the distinction concerns whether difference remains institutionally recognised.
+- **C:** Neither model creates a secession right.
+- **D:** Accommodation remains bounded by equality, accountability and common law.
 
-- A. Article 51A(a)
-- B. Article 51A(j)
-- C. Article 51A(h)
-- D. Article 51A(e)
+**Examiner trap 2:** Reject options that convert accommodation into separate sovereignty or legal immunity.
 
-**Answer: D**
+### MCQ 3. Preamble linkage
 
-**Explanation:** Article 51A(e) addresses harmony across diversities.
+The Preamble links fraternity most directly with:
 
-#### OM5. Linguistic reorganisation primarily illustrates
+A. Only adult suffrage
+B. Only territorial administration
+C. Dignity of the individual and unity and integrity of the nation
+D. A judicially enforceable Fundamental Duty
 
-- A. integration by accommodation
-- B. judicial legislation
-- C. constitutional emergency
-- D. external cession
+**Answer: C. Dignity of the individual and unity and integrity of the nation**
 
-**Answer: A**
+**Option-specific explanations:**
 
-**Explanation:** Internal borders accommodated language claims within the Union.
+- **A:** Adult suffrage is vital but not the Preamble's fraternity phrase.
+- **B:** Territorial administration omits dignity and civic solidarity.
+- **C:** Correct: the text expressly joins these ideas.
+- **D:** Fraternity is a Preamble value, not itself a separately enforceable duty.
 
-#### OM6. Which mechanism gives autonomous district arrangements in parts of the North-East?
+**Examiner trap 3:** Recall the exact dignity-unity-integrity sequence.
 
-- A. Twelfth Schedule
-- B. Sixth Schedule
-- C. Tenth Schedule
-- D. Ninth Schedule
+### MCQ 4. Union of States
 
-**Answer: B**
+Which proposition about Article 1 is safest?
 
-**Explanation:** The Sixth Schedule provides autonomous district and regional councils.
+A. It gives every State a right to withdraw.
+B. It declares India a federation formed by a revocable compact.
+C. It prevents Parliament from changing internal boundaries.
+D. India is a Union of States, while territorial change follows constitutional procedure.
 
-#### OM7. Which is an exam-safe distinction?
+**Answer: D. India is a Union of States, while territorial change follows constitutional procedure.**
 
-- A. dissent is disloyalty
-- B. religious identity is communalism
-- C. regional identity is not necessarily secessionism
-- D. migration proves collective guilt
+**Option-specific explanations:**
 
-**Answer: C**
+- **A:** No unilateral secession right follows from Article 1.
+- **B:** The Constitution does not rest on a revocable State compact.
+- **C:** Articles 2-4 allow constitutionally controlled territorial change.
+- **D:** Correct: durability of Union coexists with internal adaptability.
 
-**Explanation:** Identity and unconstitutional mobilisation must not be conflated.
+**Examiner trap 4:** Do not import compact theory into the phrase 'Union of States'.
 
-#### OM8. Article 355 concerns the Union's duty to
+### MCQ 5. Article 3 procedure
 
-- A. appoint the NIC
-- B. create linguistic minorities
-- C. ratify treaties
-- D. protect States and ensure constitutional government
+Which statement about an Article 3 Bill is correct?
 
-**Answer: D**
+A. It requires the President's recommendation and referral for the affected State legislature's views.
+B. It requires consent of every State legislature.
+C. It is always an Article 368 amendment.
+D. It may cede Indian territory to a foreign State by ordinary law.
 
-**Explanation:** Article 355 states the protective and constitutional-government duty.
+**Answer: A. It requires the President's recommendation and referral for the affected State legislature's views.**
 
-#### OM9. The National Integration Council is
+**Option-specific explanations:**
 
-- A. extra-constitutional, non-statutory and advisory
-- B. a constitutional commission
-- C. a parliamentary committee
-- D. a statutory tribunal
+- **A:** Correct: recommendation and consultation are mandatory procedural elements.
+- **B:** The affected State legislature has a voice, not a constitutional veto.
+- **C:** Article 4 excludes specified consequential changes from Article 368 treatment.
+- **D:** Foreign cession raises a distinct constitutional issue.
 
-**Answer: A**
+**Examiner trap 5:** Separate consultation from consent and internal reorganisation from external cession.
 
-**Explanation:** The NIC has no constitutional or statutory status.
+### MCQ 6. Article 19 mobility
 
-#### OM10. The latest officially located NIC meeting used in this package occurred in
+Which is constitutionally accurate?
 
-- A. 2024
-- B. 2013
-- C. 1961
-- D. 1990
+A. Residence preference is always forbidden.
+B. Article 19 protects citizen movement and residence, subject to Article 19(5) restrictions.
+C. State domicile replaces Indian citizenship for admissions.
+D. Sons-of-soil exclusion is automatically valid when popular.
 
-**Answer: B**
+**Answer: B. Article 19 protects citizen movement and residence, subject to Article 19(5) restrictions.**
 
-**Explanation:** The sixteenth meeting was held on 23 September 2013.
+**Option-specific explanations:**
 
-#### OM11. Which claim is most defensible?
+- **A:** Bounded preferences may be justified in limited contexts.
+- **B:** Correct: rights and the specific restriction clause must be read together.
+- **C:** Pradeep Jain rejected separate State domicile as the governing identity.
+- **D:** Popularity does not cure unequal or disproportionate exclusion.
 
-- A. NIC was constitutionally abolished
-- B. NIC controls State police
-- C. irregular advisory follow-up limits the NIC
-- D. NIC directions bind courts
+**Examiner trap 6:** Use the correct Article 19(5) limit rather than an absolute rule.
 
-**Answer: C**
+### MCQ 7. Cultural rights
 
-**Explanation:** Its advisory nature and irregularity limit implementation.
+Article 29(1) protects:
 
-#### OM12. Which response best supports durable integration?
+A. Only institutions recognised by the National Commission for Minorities
+B. Only religious practices
+C. Any section of citizens with a distinct language, script or culture seeking conservation
+D. Only languages in the Eighth Schedule
 
-- A. suppression of every regional demand
-- B. permanent emergency
-- C. collective punishment
-- D. graded accommodation, development, lawful security and review
+**Answer: C. Any section of citizens with a distinct language, script or culture seeking conservation**
 
-**Answer: D**
+**Option-specific explanations:**
 
-**Explanation:** A differentiated constitutional response avoids overbreadth.
+- **A:** Commission recognition is not the textual trigger.
+- **B:** Religious practice is chiefly addressed by Articles 25-28.
+- **C:** Correct: the clause is framed for any qualifying section of citizens.
+- **D:** Eighth Schedule listing is not required by Article 29(1).
 
-#### OM13. Article 51 is located among the
+**Examiner trap 7:** Do not narrow Article 29(1) to notified minorities.
 
-- A. Directive Principles of State Policy
-- B. Fundamental Rights
-- C. Fundamental Duties
-- D. Emergency Provisions
+### MCQ 8. Linguistic safeguards
 
-**Answer: A**
+Which pair is correctly matched?
 
-**Explanation:** Article 51 is a non-justiciable DPSP.
+A. Article 350A - national language declaration
+B. Article 350B - State power to expel migrants
+C. Article 351 - Special Officer for linguistic minorities
+D. Article 350A - primary-stage mother-tongue facilities; Article 350B - Special Officer
 
-#### OM14. Union foreign-affairs competence is detailed chiefly through
+**Answer: D. Article 350A - primary-stage mother-tongue facilities; Article 350B - Special Officer**
 
-- A. Article 324
-- B. Article 246 and Union List Entries 10-21
-- C. State List Entries 1-5
-- D. Article 280 alone
+**Option-specific explanations:**
 
-**Answer: B**
+- **A:** Article 350A concerns educational facilities, not a national language.
+- **B:** Article 350B creates an officer, not expulsion power.
+- **C:** The Special Officer is under Article 350B, not Article 351.
+- **D:** Correct: both provision-function matches are precise.
 
-**Explanation:** Foreign affairs and related subjects are in the Union List.
+**Examiner trap 8:** Keep 350A, 350B and 351 institutionally distinct.
 
-#### OM15. Article 73 extends Union executive power to
+### MCQ 9. Fundamental Duties
 
-- A. every municipal subject without limit
-- B. judicial review alone
-- C. parliamentary fields and treaty-derived rights or jurisdiction
-- D. constitutional amendment
+Which set was inserted with Part IVA by the 42nd Amendment Act, 1976?
 
-**Answer: C**
+A. Article 51A(c), (e), (f) and (i)
+B. Only Article 51A(k)
+C. Article 44 and Article 51
+D. Articles 14-19
 
-**Explanation:** This is the textually accurate scope.
+**Answer: A. Article 51A(c), (e), (f) and (i)**
 
-#### OM16. Article 253 empowers
+**Option-specific explanations:**
 
-- A. States alone to ratify treaties
-- B. the NIC to legislate
-- C. courts to sign agreements
-- D. Parliament to implement international obligations notwithstanding ordinary distribution
+- **A:** Correct: these duties concern integrity, harmony, composite culture, public property and violence.
+- **B:** Clause (k) was added later through the 86th Amendment.
+- **C:** Articles 44 and 51 are DPSPs, not Fundamental Duties.
+- **D:** Articles 14-19 are Fundamental Rights and pre-date Part IVA.
 
-**Answer: D**
+**Examiner trap 9:** Distinguish the 42nd-Amendment duties from later clause (k).
 
-**Explanation:** Article 253 is an overriding implementation competence.
+### MCQ 10. DPSP boundary
 
-#### OM17. Which statement about treaties is accurate?
+Which statement is most accurate?
 
-- A. international commitment and domestic legal effect are distinct
-- B. every treaty automatically overrides statutes
-- C. all treaties require State ratification
-- D. Article 51 self-executes treaties
+A. Article 44 directly invalidates all personal law.
+B. Article 38 addresses welfare and inequalities; Article 44 states a non-justiciable endeavour toward a uniform civil code.
+C. Article 38 guarantees identical State incomes.
+D. Article 44 is the sole constitutional basis of integration.
 
-**Answer: A**
+**Answer: B. Article 38 addresses welfare and inequalities; Article 44 states a non-justiciable endeavour toward a uniform civil code.**
 
-**Explanation:** Domestic implementation depends on constitutional and legal compatibility.
+**Option-specific explanations:**
 
-#### OM18. Berubari Union (1960) is authority for the proposition that
+- **A:** Article 44 is not self-executing invalidation.
+- **B:** Correct: both clauses are bounded DPSP directions.
+- **C:** Article 38 directs State policy but does not guarantee identical outcomes.
+- **D:** Integration also rests on rights, federalism, fraternity and institutions.
 
-- A. all boundary surveys need amendment
-- B. cession of Indian territory requires constitutional amendment
-- C. courts negotiate treaties
-- D. Article 3 governs foreign cession
+**Examiner trap 10:** Use Article 44 cautiously and do not equate legal uniformity with national unity.
 
-**Answer: B**
+### MCQ 11. Pradeep Jain
 
-**Explanation:** External cession is distinct from internal boundary alteration.
+What is the safest reading of *Pradeep Jain v Union of India* (1984)?
 
-#### OM19. Maganbhai chiefly helps distinguish
+A. All residence preference is unconstitutional.
+B. States possess separate constitutional citizenship.
+C. India-wide domicile is the baseline, while limited residence preference may be justified for local needs.
+D. Migrants may be collectively excluded from public education.
 
-- A. religion from language
-- B. DPSPs from duties
-- C. executive implementation under existing law from law-changing action
-- D. NIC from ISC
+**Answer: C. India-wide domicile is the baseline, while limited residence preference may be justified for local needs.**
 
-**Answer: C**
+**Option-specific explanations:**
 
-**Explanation:** It addresses implementation and need for legislation.
+- **A:** The judgment did not impose an absolute ban on every preference.
+- **B:** The Constitution provides one citizenship rather than State citizenship.
+- **C:** Correct: it balances national mobility with bounded local considerations.
+- **D:** Collective exclusion is inconsistent with the judgment's integrative reasoning.
 
-#### OM20. Jolly George Varghese v. Bank of Cochin (1980) rejected
+**Examiner trap 11:** Domicile and residence preference are not synonyms.
 
-- A. all use of international law
-- B. parliamentary treaty legislation
-- C. judicial review
-- D. automatic override of inconsistent domestic law by a covenant
+### MCQ 12. Bal Patil
 
-**Answer: D**
+*Bal Patil v Union of India* (2005) is best used for which proposition?
 
-**Explanation:** International covenants do not automatically displace municipal law.
+A. Every community must be declared a national minority.
+B. Courts alone create minority lists.
+C. Minority status is never context-specific.
+D. Minority recognition is contextual and should not mechanically multiply separatist classifications.
 
-#### OM21. Gramophone Company of India v. Birendra Bahadur Pandey (1984) supports
+**Answer: D. Minority recognition is contextual and should not mechanically multiply separatist classifications.**
 
-- A. harmonious use of international law where domestic law is not contrary
-- B. automatic treaty supremacy
-- C. foreign judicial control
-- D. State treaty veto
+**Option-specific explanations:**
 
-**Answer: A**
+- **A:** The case did not constitutionalise every recognition demand.
+- **B:** Recognition involves the statutory and executive framework, not courts alone.
+- **C:** Context matters to minority analysis.
+- **D:** Correct: this captures the caution without denying protection.
 
-**Explanation:** Municipal law prevails where conflict exists.
+**Examiner trap 12:** Do not turn judicial caution into denial of minority rights.
 
-#### OM22. Vishaka (1997) used international norms to
+### MCQ 13. Bommai
 
-- A. cede territory
-- B. fill a domestic-law vacuum consistently with Fundamental Rights
-- C. suspend Article 14
-- D. create the NIC
+Which proposition follows from *S.R. Bommai* (1994)?
 
-**Answer: B**
+A. Article 356 proclamations are reviewable and majority should ordinarily be tested on the floor.
+B. The Union may dismiss any State government for policy disagreement.
+C. Secularism has no constitutional relevance to State government.
+D. Federalism gives States treaty sovereignty.
 
-**Explanation:** International norms aided rights-consistent gap filling.
+**Answer: A. Article 356 proclamations are reviewable and majority should ordinarily be tested on the floor.**
 
-#### OM23. Parliament's foreign-affairs role includes
+**Option-specific explanations:**
 
-- A. no constitutional function
-- B. treaty negotiation exclusively
-- C. legislation, finance, debate and committees
-- D. only ceremonial addresses
+- **A:** Correct: review and floor-test principles restrain central overreach.
+- **B:** Political disagreement is not constitutional breakdown.
+- **C:** The case treats secularism as a basic constitutional commitment.
+- **D:** Federalism does not transfer foreign-affairs sovereignty to States.
 
-**Answer: C**
+**Examiner trap 13:** Use Bommai to bound, not abolish, Article 356.
 
-**Explanation:** Executive primacy does not erase legislative functions.
+### MCQ 14. Article 355
 
-#### OM24. Where treaties substantially affect State administration, the best reform is
+Article 355:
 
-- A. secret implementation
-- B. automatic nullity
-- C. judicial treaty negotiation
-- D. structured consultation without a State veto
+A. Automatically suspends Fundamental Rights.
+B. States a Union duty to protect States and ensure constitutional government, but is not unlimited central power.
+C. Uses 'armed rebellion' as its only internal phrase.
+D. Creates the National Integration Council.
 
-**Answer: D**
+**Answer: B. States a Union duty to protect States and ensure constitutional government, but is not unlimited central power.**
 
-**Explanation:** Consultation supports federal implementation while preserving Union competence.
+**Option-specific explanations:**
 
-#### OM25. Panchsheel was placed in the preamble of a 1954 agreement concerning
+- **A:** No automatic rights suspension follows.
+- **B:** Correct: duty and lawful means must be separated.
+- **C:** Article 355 retains 'internal disturbance'; Article 352 uses 'armed rebellion'.
+- **D:** The NIC is executive-created and non-statutory.
 
-- A. trade and intercourse with the Tibet region of China
-- B. the UN Charter
-- C. the Commonwealth
-- D. SAARC
+**Examiner trap 14:** Never treat a constitutional duty as a blank cheque.
 
-**Answer: A**
+### MCQ 15. Article 352
 
-**Explanation:** This is the historical instrument.
+After the 44th Amendment, the domestic ground in Article 352 is:
 
-#### OM26. Non-alignment means
+A. Public disorder
+B. Internal disturbance
+C. Armed rebellion
+D. Regionalism
 
-- A. membership in no organisation
-- B. independent judgment rather than bloc subordination
-- C. neutrality in every conflict
-- D. international isolation
+**Answer: C. Armed rebellion**
 
-**Answer: B**
+**Option-specific explanations:**
 
-**Explanation:** NAM was a policy of decision independence.
+- **A:** Public order does not itself trigger national emergency.
+- **B:** That phrase remains in Article 355, not Article 352's current domestic ground.
+- **C:** Correct: 'armed rebellion' replaced 'internal disturbance'.
+- **D:** Regional identity or mobilisation is not an emergency trigger.
 
-#### OM27. Strategic autonomy is best described as
+**Examiner trap 15:** Do not transfer wording between Articles 352 and 355.
 
-- A. equal distance from every State
-- B. constitutional neutrality
-- C. decision independence supported by diversified partnerships and capability
-- D. withdrawal from trade
+### MCQ 16. NIC status
 
-**Answer: C**
+Which description of the National Integration Council is accurate?
 
-**Explanation:** Autonomy is compatible with partnerships.
+A. A constitutional federal chamber
+B. A statutory tribunal
+C. A binding security command
+D. An executive-created, non-statutory advisory forum
 
-#### OM28. The phrase multi-alignment should be treated as
+**Answer: D. An executive-created, non-statutory advisory forum**
 
-- A. a UN treaty
-- B. a constitutional amendment
-- C. a judicial command
-- D. analytical shorthand rather than binding doctrine
+**Option-specific explanations:**
 
-**Answer: D**
+- **A:** No constitutional article creates the NIC.
+- **B:** No Act gives it tribunal status.
+- **C:** It has no operational command authority.
+- **D:** Correct: this captures legal status and function.
 
-**Explanation:** Officially grounded strategic autonomy is safer.
+**Examiner trap 16:** Status first: executive, extra-constitutional, non-statutory, advisory.
 
-#### OM29. Quad, BRICS and SCO together illustrate
+### MCQ 17. Zonal Councils
 
-- A. issue-based cooperation across different groupings
-- B. abandonment of autonomy
-- C. one collective-defence alliance
-- D. identical memberships
+Zonal Councils are:
 
-**Answer: A**
+A. Statutory consultative bodies under the States Reorganisation Act, 1956 framework
+B. Constitutional courts under Article 263
+C. The same body as the North Eastern Council
+D. Treaty-making institutions
 
-**Explanation:** Their different purposes demonstrate diversified engagement.
+**Answer: A. Statutory consultative bodies under the States Reorganisation Act, 1956 framework**
 
-#### OM30. The third Voice of Global South Summit was hosted in
+**Option-specific explanations:**
 
-- A. December 2022
-- B. August 2024
-- C. March 2026
-- D. January 2020
+- **A:** Correct: their basis and consultative role are statutory.
+- **B:** Article 263 concerns inter-State coordination, not constitutional courts.
+- **C:** The North Eastern Council has a separate statutory basis.
+- **D:** Foreign affairs remain a Union responsibility.
 
-**Answer: B**
+**Examiner trap 17:** Do not merge adjacent cooperative-federal institutions.
 
-**Explanation:** India hosted it virtually on 17 August 2024.
+### MCQ 18. Inter-State Council
 
-#### OM31. Which is a sound current-affairs practice?
+Which is correct about the Inter-State Council?
 
-- A. omit the source
-- B. freeze every membership count
-- C. date and source the example and connect it to a theme
-- D. treat rhetoric as law
+A. It is the NIC under another name.
+B. It was established under Article 263 by Presidential Order in 1990.
+C. It distributes tax revenue under Article 280.
+D. It independently ratifies treaties affecting States.
 
-**Answer: C**
+**Answer: B. It was established under Article 263 by Presidential Order in 1990.**
 
-**Explanation:** Dated primary evidence avoids stale claims.
+**Option-specific explanations:**
 
-#### OM32. Which statement about Article 51 is false?
+- **A:** The two forums have distinct bases and functions.
+- **B:** Correct: Article 263 supplies the constitutional route.
+- **C:** Finance Commission performs the Article 280 recommendation role.
+- **D:** Consultation does not create treaty sovereignty.
 
-- A. it mentions arbitration
-- B. it promotes international peace
-- C. it is a DPSP
-- D. it is the sole enforceable source of treaty power
+**Examiner trap 18:** Remember Article 263 and the 1990 establishment.
 
-**Answer: D**
+### MCQ 19. Finance and local government
 
-**Explanation:** Article 51 is a value directive, not enforceable treaty competence.
+Which pairing best explains distinct integration functions?
 
-#### OM33. Article 351 concerns
+A. Finance Commission conducts communal-riot trials; municipalities ratify treaties.
+B. Finance Commission recognises minorities; Panchayats alter State borders.
+C. Finance Commission supports fiscal equalisation; local government improves participation and service responsiveness.
+D. Both are non-statutory advisory forums chaired by the Prime Minister.
 
-- A. development and promotion of Hindi
-- B. foreign cession
-- C. treaty implementation
-- D. NIC meetings
+**Answer: C. Finance Commission supports fiscal equalisation; local government improves participation and service responsiveness.**
 
-**Answer: A**
+**Option-specific explanations:**
 
-**Explanation:** It must be read with plural language arrangements.
+- **A:** Courts, not the Commission, try offences; local bodies lack treaty power.
+- **B:** These are not their constitutional functions.
+- **C:** Correct: fiscal and participatory channels are distinct.
+- **D:** Finance Commission is constitutional and local bodies have constitutional status.
 
-#### OM34. Article 350B provides for
+**Examiner trap 19:** Match each institution to its actual mechanism.
 
-- A. Inter-State Council
-- B. Special Officer for Linguistic Minorities
-- C. Attorney General
-- D. CAG
+### MCQ 20. Speech doctrine
 
-**Answer: B**
+Under *Shreya Singhal* (2015), which distinction is central?
 
-**Explanation:** The office reports on linguistic-minority safeguards.
+A. Discussion and advocacy are protected until the incitement threshold relevant to restriction.
+B. All online speech is immune from law.
+C. Unpopular advocacy equals secession.
+D. Section 66A was upheld with guidelines.
 
-#### OM35. Secularism and federalism were emphasised as basic features in
+**Answer: D. Section 66A was upheld with guidelines.**
 
-- A. Berubari Union (1960)
-- B. Jolly George
-- C. S. R. S.R. Bommai (1994)
-- D. Vishaka (1997)
+**Option-specific explanations:**
 
-**Answer: C**
+- **A:** Correct: proximity to incitement separates protected expression from punishable harm.
+- **B:** Other valid laws and restrictions continue to apply.
+- **C:** Criticism and advocacy cannot be presumed secessionist.
+- **D:** The Court struck Section 66A down.
 
-**Explanation:** S.R. Bommai (1994) is central to emergency and federal review.
+**Examiner trap 20:** Do not inflate one invalidated provision into absolute internet immunity.
 
-#### OM36. A sound integration answer should avoid
+### MCQ 21. Union List allocation
 
-- A. distinguishing identity from mobilisation
-- B. using a qualified verdict
-- C. linking rights and duties
-- D. equating dissent with disloyalty
+Which subject is not part of the Union List 10-21 foreign-affairs cluster?
 
-**Answer: D**
+A. Diplomatic representation
+B. Municipal sanitation
+C. Treaties and agreements
+D. Passports and visas
 
-**Explanation:** Conflation produces constitutional and analytical error.
+**Answer: A. Diplomatic representation**
 
-### Remedial MCQs 37-48 — Close-Option Control
+**Option-specific explanations:**
 
-#### RM1. The 2018 communalism PYQ demands
+- **A:** Entry 11 covers diplomatic and consular representation.
+- **B:** Correct: municipal sanitation belongs to local/State governance, not this cluster.
+- **C:** Entry 14 covers treaty entry and implementation.
+- **D:** Entry 19 covers passports and visas with related migration matters.
 
-- A. argument using power struggle or relative deprivation with illustrations
-- B. only a definition of NIC
-- C. a diaspora balance sheet
-- D. a list of treaties
+**Examiner trap 21:** Spot the local-governance intruder among external-affairs heads.
 
-**Answer: A**
+### MCQ 22. Article 51
 
-**Explanation:** The directive requires causal argument and examples.
+Article 51 is best described as:
 
-**Demand decoding:** The directive **answer** requires a direct position on “RM1. The 2018 communalism PYQ demands”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+A. A Fundamental Right to treaty enforcement
+B. A non-justiciable DPSP expressing international-peace and international-law values
+C. The exclusive treaty-making power
+D. A rule that all customary law overrides statutes
 
-**Detailed examiner-grade model answer:**
+**Answer: B. A non-justiciable DPSP expressing international-peace and international-law values**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “RM1. The 2018 communalism PYQ demands”.
+**Option-specific explanations:**
 
-**Analytical body:**
+- **A:** No individual automatic treaty right arises.
+- **B:** Correct: Article 51 guides State policy.
+- **C:** Executive and legislative competence comes from other provisions too.
+- **D:** Contrary statute and the Constitution remain controlling.
 
-1. **Claim and named evidence:** A. argument using power struggle or relative deprivation with illustrations **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Explanation: The directive requires causal argument and examples. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Examiner trap 22:** Separate constitutional value from institutional competence.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+### MCQ 23. Article 73
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “RM1. The 2018 communalism PYQ demands”.
+Article 73 primarily concerns:
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+A. Only declaration of war
+B. Only appointment of ambassadors
+C. The extent of Union executive power, including parliamentary fields and treaty-derived rights or jurisdiction
+D. Parliamentary privilege
 
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
+**Answer: C. The extent of Union executive power, including parliamentary fields and treaty-derived rights or jurisdiction**
 
-**How to improve this answer:** For “RM1. The 2018 communalism PYQ demands”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Option-specific explanations:**
 
-#### RM2. The 2022 BIMSTEC PYQ requires
+- **A:** War and peace is only one external subject.
+- **B:** Appointments do not exhaust executive extent.
+- **C:** Correct: this reflects the text's broader structure.
+- **D:** Articles 105 and 194 address legislative privileges.
 
-- A. only expansion of acronyms
-- B. comparison with SAARC and linkage to Indian objectives
-- C. constitutional cession doctrine
-- D. a NAM history
+**Examiner trap 23:** Do not nickname Article 73 as only the treaty-making article.
 
-**Answer: B**
+### MCQ 24. Article 253
 
-**Explanation:** All three components must be answered.
+What is distinctive about Article 253?
 
-**Demand decoding:** The directive **answer** requires a direct position on “RM2. The 2022 BIMSTEC PYQ requires”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+A. It allows Parliament to implement international obligations notwithstanding ordinary federal distribution.
+B. It requires State ratification of every treaty.
+C. It makes Article 51 enforceable.
+D. It authorises the NIC to issue law.
 
-**Detailed examiner-grade model answer:**
+**Answer: D. It authorises the NIC to issue law.**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “RM2. The 2022 BIMSTEC PYQ requires”.
+**Option-specific explanations:**
 
-**Analytical body:**
+- **A:** Correct: it supplies overriding legislative competence for implementation.
+- **B:** No universal State ratification rule exists.
+- **C:** DPSP status is unchanged.
+- **D:** The NIC has no legislative authority.
 
-1. **Claim and named evidence:** B. comparison with SAARC and linkage to Indian objectives **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Explanation: All three components must be answered. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Examiner trap 24:** Article 253 reallocates legislative competence; it does not erase rights.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+### MCQ 25. Need for legislation
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “RM2. The 2022 BIMSTEC PYQ requires”.
+When is fresh domestic legislation most clearly required?
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+A. Whenever a minister travels abroad.
+B. Whenever a treaty is politically important.
+C. When implementation must change existing law, rights or rules beyond executive authority.
+D. Only when every State agrees.
 
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
+**Answer: A. Whenever a minister travels abroad.**
 
-**How to improve this answer:** For “RM2. The 2022 BIMSTEC PYQ requires”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Option-specific explanations:**
 
-#### RM3. The 2023 ethnic-identity PYQ connects communalism to
+- **A:** Official travel is not the legal test.
+- **B:** Political salience and domestic legal effect are different.
+- **C:** Correct: domestic change triggers the law requirement.
+- **D:** Article 253 does not create a universal State-consent condition.
 
-- A. the 1954 treaty alone
-- B. NIC composition
-- C. the post-liberal economy
-- D. Article 253 only
+**Examiner trap 25:** Ask what changes in municipal law, not how prominent the treaty is.
 
-**Answer: C**
+### MCQ 26. Maganbhai
 
-**Explanation:** It requires a political-economy mechanism.
+*Maganbhai Ishwarbhai Patel* (1969) supports which proposition?
 
-**Demand decoding:** The directive **answer** requires a direct position on “RM3. The 2023 ethnic-identity PYQ connects communalism to”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+A. Every boundary agreement cedes territory.
+B. Executive implementation may suffice where existing law permits and no law or right must change.
+C. Parliament may never legislate on treaties.
+D. International awards override the Constitution.
 
-**Detailed examiner-grade model answer:**
+**Answer: B. Executive implementation may suffice where existing law permits and no law or right must change.**
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “RM3. The 2023 ethnic-identity PYQ connects communalism to”.
+**Option-specific explanations:**
 
-**Analytical body:**
+- **A:** Boundary ascertainment and cession must be distinguished.
+- **B:** Correct: domestic effect determines the legal route.
+- **C:** Parliament has Article 253 power where legislation is needed.
+- **D:** Constitutional supremacy remains.
 
-1. **Claim and named evidence:** RM3. The 2023 ethnic-identity PYQ connects communalism to **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Explanation: It requires a political-economy mechanism. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Examiner trap 26:** Do not convert a contextual executive-power holding into universal self-execution.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+### MCQ 27. Jolly George
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “RM3. The 2023 ethnic-identity PYQ connects communalism to”.
+*Jolly George Varghese v Bank of Cochin* (1980) held, in substance, that:
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+A. The ICCPR automatically repealed the Code of Civil Procedure.
+B. Every debt default requires imprisonment.
+C. Treaties are irrelevant to interpretation.
+D. An international covenant did not displace municipal law, though consistent interpretation should be pursued where possible.
 
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
+**Answer: C. Treaties are irrelevant to interpretation.**
 
-**How to improve this answer:** For “RM3. The 2023 ethnic-identity PYQ connects communalism to”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+**Option-specific explanations:**
 
-#### RM4. The 2023 diaspora PYQ asks for
+- **A:** The Court did not give the covenant automatic repealing force.
+- **B:** Mere inability to pay was not enough for detention.
+- **C:** International norms informed the interpretive discussion.
+- **D:** Correct: domestic law controlled with a harmony preference.
 
-- A. a critique of SAARC
-- B. only remittance figures
-- C. only consular crises
-- D. economic and political benefits for India
+**Examiner trap 27:** Remember the difference between interpretive influence and direct displacement.
 
-**Answer: D**
+### MCQ 28. Gramophone Company
 
-**Explanation:** Both dimensions must be covered.
+The 1984 *Gramophone Company v Birendra Bahadur Pandey* principle is:
 
-#### RM5. Which answer structure is strongest for communalism?
+A. International law is respected and may be incorporated unless a contrary statute controls.
+B. Every treaty provision is a Fundamental Right.
+C. Copyright cover versions require no consent in all cases.
+D. Courts may ignore an unambiguous statute to satisfy comity.
 
-- A. define, causal mechanisms, illustrations, qualification and remedy
-- B. unqualified slogan
-- C. constitutional articles without mechanism
-- D. chronology only
+**Answer: D. Courts may ignore an unambiguous statute to satisfy comity.**
 
-**Answer: A**
+**Option-specific explanations:**
 
-**Explanation:** Directive-sensitive causal analysis earns marks.
+- **A:** Correct: harmony operates until municipal conflict.
+- **B:** The case did not constitutionalise all treaty norms.
+- **C:** That proposition belongs to a different later copyright dispute.
+- **D:** Domestic legislation prevails when conflict is clear.
 
-#### RM6. Which answer structure is strongest for strategic autonomy?
+**Examiner trap 28:** Identify the 1984 international-law case, not the 2001 cover-version case.
 
-- A. one current event without analysis
-- B. interests, instruments, dated evidence, constraints and verdict
-- C. grouping names only
-- D. Nehru quotations only
+### MCQ 29. Vishaka
 
-**Answer: B**
+Which condition was central to the use of international norms in *Vishaka* (1997)?
 
-**Explanation:** It connects doctrine to executable evidence.
+A. A treaty always overrides Parliament.
+B. The executive had ratified every convention by statute.
+C. Norms consistent with Fundamental Rights could fill a domestic legislative vacuum.
+D. Foreign courts had ordered India to act.
 
-#### RM7. Diaspora influence should be qualified by
+**Answer: A. A treaty always overrides Parliament.**
 
-- A. absence of political risk
-- B. constitutional voting in India by all diaspora
-- C. host-State law and diverse diaspora interests
-- D. automatic control of foreign governments
+**Option-specific explanations:**
 
-**Answer: C**
+- **A:** The judgment did not establish treaty supremacy.
+- **B:** A general incorporating statute was absent.
+- **C:** Correct: domestic rights and legal vacuum were essential.
+- **D:** The authority came from the Supreme Court's constitutional jurisdiction.
 
-**Explanation:** Diasporas are plural and operate under host-country institutions.
+**Examiner trap 29:** Vishaka needs both consistency with rights and absence of contrary domestic law.
 
-#### RM8. Energy security affects foreign policy through
+### MCQ 30. Parliamentary scrutiny
 
-- A. linguistic reorganisation
-- B. Article 51A alone
-- C. NIC membership
-- D. supplier diversification, logistics, prices and strategic choices
+Which statement is constitutionally safest?
 
-**Answer: D**
+A. Articles 105 and 122 require a ratification vote on every treaty.
+B. Parliament has no foreign-policy role.
+C. Questions, budgets, committees and implementing laws provide scrutiny without a universal ratification rule.
+D. Committee reports are always legally binding.
 
-**Explanation:** Energy dependence creates external-policy constraints.
+**Answer: B. Parliament has no foreign-policy role.**
 
-#### RM9. Which reform best addresses treaty accountability?
+**Option-specific explanations:**
 
-- A. publication, impact assessment and parliamentary scrutiny
-- B. abolish Article 253
-- C. State unanimity for all talks
-- D. automatic judicial ratification
+- **A:** Neither Article creates such a vote.
+- **B:** Financial, deliberative and legislative roles are substantial.
+- **C:** Correct: it captures real tools and the ratification limit.
+- **D:** Standing-committee recommendations are generally persuasive, not binding.
 
-**Answer: A**
+**Examiner trap 30:** Do not measure Parliament's role only by treaty votes.
 
-**Explanation:** Scrutiny can coexist with executive negotiation.
+### MCQ 31. State paradiplomacy
 
-#### RM10. Which claim about Article 253 is wrong?
+State paradiplomacy means:
 
-- A. it can reach State subjects
-- B. it gives each State a veto over treaty implementation
-- C. it covers international decisions
-- D. it empowers Parliament
+A. Independent State treaty sovereignty
+B. Bounded external engagement such as investment, culture or implementation within Union authority
+C. A State right to veto Article 253
+D. Diplomatic recognition of foreign States by Chief Ministers
 
-**Answer: B**
+**Answer: C. A State right to veto Article 253**
 
-**Explanation:** The provision overrides ordinary federal distribution.
+**Option-specific explanations:**
 
-#### RM11. The strongest synthesis is
+- **A:** Indian States are not internationally sovereign treaty-makers.
+- **B:** Correct: engagement operates within the national constitutional framework.
+- **C:** No general State veto follows from Article 253.
+- **D:** Recognition is an external sovereign function of the Union.
 
-- A. foreign policy has no domestic foundation
-- B. uniformity guarantees unity
-- C. domestic inclusion builds resilience while strategic autonomy protects external choice
-- D. security removes accountability
+**Examiner trap 31:** External contact by a State is not independent foreign policy.
 
-**Answer: C**
+### MCQ 32. Non-alignment and integration
 
-**Explanation:** Integration and foreign policy are mutually reinforcing.
+Which synthesis is most accurate?
 
-#### RM12. A qualified final verdict should emphasise
+A. Non-alignment is independent judgment, strategic autonomy is choice under interdependence, and domestic plural legitimacy supports external credibility.
+B. Non-alignment legally requires neutrality in every war.
+C. Strategic autonomy requires isolation from partnerships.
+D. Panchsheel is enforceable constitutional law.
 
-- A. unreviewable executive power
-- B. cultural erasure
-- C. permanent exception
-- D. constitutional inclusion, capable institutions and accountable flexibility
+**Answer: D. Panchsheel is enforceable constitutional law.**
 
-**Answer: D**
+**Option-specific explanations:**
 
-**Explanation:** The package's central evaluative standard joins legitimacy and capacity.
+- **A:** Correct: the concepts preserve decision-space while allowing issue-based cooperation.
+- **B:** Neutrality and non-alignment are distinct concepts.
+- **C:** Autonomy depends on diversified capability and partnerships, not isolation.
+- **D:** Panchsheel is a political principle, not constitutional text.
+
+**Examiner trap 32:** Reject false equations: non-alignment/neutrality, autonomy/isolation, Panchsheel/constitutional law.
 
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** The directive **answer** requires a direct position on “RM4. The 2023 diaspora PYQ asks for”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+### VERIFIED RELEVANT UPSC PYQS
 
-**Detailed examiner-grade model answer:**
+**Verification scope:** The four questions below are reproduced from the official-paper routing ledger for 2018-2023. The 2018 and 2023 GS-I questions directly test integration stresses; the 2022 GS-II and 2023 GS-II questions are supporting foreign-policy applications. No official descriptive key is claimed.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “RM4. The 2023 diaspora PYQ asks for”.
+### DIRECT VERIFIED UPSC PYQ 1 - 2018 GS-I - 10 marks - 150 words
 
-**Analytical body:**
+**Question (official wording):** "Communalism arises either due to power struggle or relative deprivation." Argue by giving suitable illustrations.
 
-1. **Claim and named evidence:** Explanation: Both dimensions must be covered. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** RM5. Which answer structure is strongest for communalism? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** A. define, causal mechanisms, illustrations, qualification and remedy **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Explanation: Directive-sensitive causal analysis earns marks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** RM6. Which answer structure is strongest for strategic autonomy? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Official-key discipline:** UPSC publishes no official descriptive answer key or model answer. The solution below is an original examiner-oriented model based on the verified official-paper wording.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Demand decode:** Address every operative phrase, attach named evidence to the causal or institutional claim, and end with a qualified verdict.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “RM4. The 2023 diaspora PYQ asks for”.
+**Original model answer:**
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+Communalism is the political use of religious identity to organise antagonistic group claims. Power struggle and relative deprivation are major, interacting causes.
 
-**Why this earns marks:** The answer obeys the directive, explains rather than lists, integrates India-centric evidence and avoids homogenisation, legalism and causal overclaim.
+Political actors may sharpen religious boundaries to assemble vote blocs, discredit rivals or divert attention from governance. Colonial separate electorates and later competitive mobilisation illustrate how institutions and leadership can convert identity into political power. Relative deprivation operates when a community compares its jobs, security, representation or status with another and perceives unfair decline. Economic change, segregated settlements or selective memories can make such perceptions credible even when aggregate data are mixed.
 
-**How to improve this answer:** For “RM4. The 2023 diaspora PYQ asks for”, replace the weakest generalisation with one named community, region, institution, movement or source-dated dataset and state what that evidence cannot establish.
+Neither cause acts automatically. Organisations, rumours, hate speech and weak policing translate grievance into communal action. Conversely, equal services, credible representation, inter-group associations and impartial law enforcement can interrupt the chain.
 
-### VERIFIED DIRECT PYQ 1 — 2018 GS-I — 10 marks — 150 words
+Thus communalism is not inherent in religious diversity; it emerges when political competition frames real or perceived deprivation as collective religious threat.
 
-**Question (exact):** “‘Communalism arises either due to power struggle or relative deprivation.’ Argue by giving suitable illustrations.”
+**Why this earns marks:** It answers the directive, uses named evidence, explains mechanism and preserves a limitation instead of claiming an official key.
 
-**Model answer:** Communalism is the political mobilisation of religious identity through antagonistic group claims. Power struggle explains it when elites use polarisation to consolidate votes, displace rivals or control institutions. Competitive religious appeals, hate campaigns and local contest over offices can convert ordinary difference into a zero-sum conflict.
+### SUPPORTING VERIFIED UPSC PYQ 2 - 2022 GS-II - 10 marks - 150 words
 
-Relative deprivation explains mobilisation when a group perceives that its status, security or access has declined compared with another group or with its own expectations. Economic transition, uneven urbanisation and rumours about preferential treatment can supply such perceptions even when objective deprivation is mixed.
+**Question (official wording):** Do you think that BIMSTEC is a parallel organisation like the SAARC? What are the similarities and dissimilarities between the two? How are Indian foreign policy objectives realized by forming this new organisation?
 
-The two mechanisms interact: political entrepreneurs frame employment, land or representation anxieties as religious injury. Communalism is therefore neither an automatic product of faith nor reducible to poverty.
+**Official-key discipline:** UPSC publishes no official descriptive answer key or model answer. The solution below is an original examiner-oriented model based on the verified official-paper wording.
 
-The remedy must combine impartial law enforcement, equal opportunity, civic education, local dialogue and accountability for incitement. Constitutional fraternity requires transforming distributive and political conflict into democratic bargaining rather than collective blame.
+**Demand decode:** Address every operative phrase, attach named evidence to the causal or institutional claim, and end with a qualified verdict.
 
-**Why this earns marks:** It defines the phenomenon, argues both stated causes, explains interaction and supplies a constitutional remedy.
+**Original model answer:**
 
-**How to improve this answer:** Add one precisely recalled Indian illustration for each mechanism; do not treat every religious dispute as communalism.
+BIMSTEC and SAARC are regional cooperation organisations with overlapping South Asian membership, but BIMSTEC is not merely a parallel copy.
 
-**Compression guidance:** Keep definition, two causal paragraphs, interaction, two remedies and verdict.
+Both seek cooperation, connectivity, development and people-to-people exchange. SAARC is a South Asian organisation and includes Pakistan; BIMSTEC links South and Southeast Asia around the Bay of Bengal and excludes Pakistan. Their geographic logic, membership and sectoral design therefore differ.
 
-**Demand decoding:** The directive **answer** requires a direct position on “VERIFIED DIRECT PYQ 1 — 2018 GS-I — 10 marks — 150 words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+For India, BIMSTEC connects Neighbourhood First with Act East, gives the eastern and north-eastern regions a Bay of Bengal framework, and supports cooperation in connectivity, security, energy, disaster management and development. It also offers functional engagement less constrained by India-Pakistan deadlock.
 
-**Detailed examiner-grade model answer:**
+However, institutional capacity, implementation delays, political instability and connectivity gaps limit outcomes. India should strengthen BIMSTEC's secretariat and delivery while treating it as a complementary regional platform rather than declaring SAARC legally or strategically extinguished.
 
-**Introduction and thesis:** Communalism is the political mobilisation of religious identity through antagonistic group claims. Power struggle explains it when elites use polarisation to consolidate votes, displace rivals or control institutions. Competitive religious appeals, hate campaigns and local contest over offices can convert ordinary difference into a zero-sum conflict.
+**Why this earns marks:** It answers the directive, uses named evidence, explains mechanism and preserves a limitation instead of claiming an official key.
 
-Relative deprivation explains mobilisation when a group perceives that its status, security or access has declined compared with another group or with its own expectations. Economic transition, uneven urbanisation and rumours about preferential treatment can supply such perceptions even when objective deprivation is mixed.
+### DIRECT VERIFIED UPSC PYQ 3 - 2023 GS-I - 15 marks - 250 words
 
-The two mechanisms interact: political entrepreneurs frame employment, land or representation anxieties as religious injury. Communalism is therefore neither an automatic product of faith nor reducible to poverty.
+**Question (official wording):** Discuss the impact of post-liberal economy on ethnic identity and communalism.
 
-The remedy must combine impartial law enforcement, equal opportunity, civic education, local dialogue and accountability for incitement. Constitutional fraternity requires transforming distributive and political conflict into democratic bargaining rather than collective blame.
+**Official-key discipline:** UPSC publishes no official descriptive answer key or model answer. The solution below is an original examiner-oriented model based on the verified official-paper wording.
 
-**Analytical body:**
+**Demand decode:** Address every operative phrase, attach named evidence to the causal or institutional claim, and end with a qualified verdict.
 
-1. **Claim and named evidence:** VERIFIED DIRECT PYQ 1 — 2018 GS-I — 10 marks — 150 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Question (exact): “‘Communalism arises either due to power struggle or relative deprivation.’ Argue by giving suitable illustrations.” **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The two mechanisms interact: political entrepreneurs frame employment, land or representation anxieties as religious injury. Communalism is therefore neither an automatic product of faith nor reducible to poverty. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It defines the phenomenon, argues both stated causes, explains interaction and supplies a constitutional remedy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Add one precisely recalled Indian illustration for each mechanism; do not treat every religious dispute as communalism. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Original model answer:**
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+The post-1991 economy changed the resources, mobility and media through which ethnic identity and communalism operate; its effects are mixed rather than uniformly divisive.
 
-**Qualified conclusion:** Communalism is the political mobilisation of religious identity through antagonistic group claims. Power struggle explains it when elites use polarisation to consolidate votes, displace rivals or control institutions. Competitive religious appeals, hate campaigns and local contest over offices can convert ordinary difference into a zero-sum conflict.
+Growth, urbanisation, education and inter-State migration expanded interaction and produced shared workplaces and consumer cultures. A larger middle class, digital networks and civil-society mobilisation created new routes for cross-community cooperation. Fiscal capacity also enabled welfare and infrastructure that can reduce regional exclusion.
 
-Relative deprivation explains mobilisation when a group perceives that its status, security or access has declined compared with another group or with its own expectations. Economic transition, uneven urbanisation and rumours about preferential treatment can supply such perceptions even when objective deprivation is mixed.
+Yet gains were uneven across regions, classes and communities. Job scarcity, agrarian stress and informal urbanisation generated relative-deprivation narratives. Migrants became visible targets of sons-of-soil politics. Market competition and land acquisition sometimes acquired ethnic or religious framing. Private media and digital platforms lowered mobilisation costs but also accelerated rumours, stereotyping and polarised identity entrepreneurship. Prosperous groups used networks and capital to consolidate political influence, while excluded groups mobilised for recognition or protection.
 
-The two mechanisms interact: political entrepreneurs frame employment, land or representation anxieties as religious injury. Communalism is therefore neither an automatic product of faith nor reducible to poverty.
+The causal chain is therefore not liberalisation -> communalism. Economic change creates opportunities and disruptions; political organisations, institutional fairness, residential segregation, policing and public communication determine whether these become democratic claims or antagonistic identities.
 
-The remedy must combine impartial law enforcement, equal opportunity, civic education, local dialogue and accountability for incitement. Constitutional fraternity requires transforming distributive and political conflict into democratic bargaining rather than collective blame.
+Policy must combine regionally balanced development, portable welfare, fair urban services, anti-discrimination enforcement, multilingual access, platform accountability and inter-group institutions. Post-liberal integration depends on distributing opportunity and governing mobility, not suppressing identity.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Why this earns marks:** It answers the directive, uses named evidence, explains mechanism and preserves a limitation instead of claiming an official key.
 
-### VERIFIED SUPPORTING PYQ 2 — 2022 GS-II — 10 marks — 150 words
+### DIRECT VERIFIED UPSC PYQ 4 - 2023 GS-II - 10 marks - 150 words
 
-**Question (exact):** “Do you think that BIMSTEC is a parallel organisation like the SAARC? What are the similarities and dissimilarities between the two? How are Indian foreign policy objectives realized by forming this new organisation?”
+**Question (official wording):** Indian diaspora has scaled new heights in the West. Describe its economic and political benefits for India.
 
-**Model answer:** BIMSTEC and SAARC are regional cooperation organisations, but BIMSTEC is not merely a parallel copy. Both seek functional cooperation, development and connectivity and include South Asian members. SAARC is South Asia-wide and includes Pakistan and Afghanistan; BIMSTEC links South and Southeast Asia around the Bay of Bengal and excludes Pakistan.
+**Official-key discipline:** UPSC publishes no official descriptive answer key or model answer. The solution below is an original examiner-oriented model based on the verified official-paper wording.
 
-BIMSTEC supports India's Neighbourhood First and Act East policies by connecting its eastern and north-eastern regions to Bay of Bengal economies. Sectoral cooperation can advance connectivity, trade, energy, disaster management, security and people-to-people ties. It also offers a forum less constrained by India-Pakistan deadlock.
+**Demand decode:** Address every operative phrase, attach named evidence to the causal or institutional claim, and end with a qualified verdict.
 
-However, weak institutional capacity, delayed agreements, connectivity deficits and political instability limit delivery. BIMSTEC should complement rather than mechanically replace SAARC.
+**Original model answer:**
 
-Thus, its value lies in a distinct geography and functional agenda that widens India's strategic options while requiring stronger implementation.
+The Indian diaspora benefits India through economic links, knowledge networks and political bridge-building, but it remains autonomous rather than an instrument of the State.
 
-**Why this earns marks:** It answers similarity, dissimilarity and Indian objectives, then qualifies institutional performance.
+Economically, overseas Indians send remittances, invest, create market and technology connections, support start-ups and philanthropy, and facilitate professional mobility. Scientists, entrepreneurs and executives can connect Indian institutions with global innovation and supply chains.
 
-**How to improve this answer:** Add one dated summit or agreement only if accurately recalled; avoid saying BIMSTEC was created solely to isolate Pakistan.
+Politically, diaspora organisations explain Indian perspectives, encourage legislative and civic engagement in host countries, support cultural familiarity and strengthen people-to-people relations. Individuals of Indian origin in public life can widen access and understanding, though their positions reflect host-country duties and personal politics.
 
-**Compression guidance:** Use two similarities, three differences, four objectives, two limits and verdict.
+Benefits require effective consular protection, predictable mobility arrangements and credible domestic pluralism. Diaspora lobbying cannot substitute for formal diplomacy, and communities should not be treated as uniform or pressured into partisan alignment.
 
-**Demand decoding:** The directive **answer** requires a direct position on “VERIFIED SUPPORTING PYQ 2 — 2022 GS-II — 10 marks — 150 words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Thus, a confident, rights-respecting India gains most by engaging the diaspora as partners and citizens of their respective countries, not as proxies.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It answers the directive, uses named evidence, explains mechanism and preserves a limitation instead of claiming an official key.
 
-**Introduction and thesis:** BIMSTEC and SAARC are regional cooperation organisations, but BIMSTEC is not merely a parallel copy. Both seek functional cooperation, development and connectivity and include South Asian members. SAARC is South Asia-wide and includes Pakistan and Afghanistan; BIMSTEC links South and Southeast Asia around the Bay of Bengal and excludes Pakistan.
 
-BIMSTEC supports India's Neighbourhood First and Act East policies by connecting its eastern and north-eastern regions to Bay of Bengal economies. Sectoral cooperation can advance connectivity, trade, energy, disaster management, security and people-to-people ties. It also offers a forum less constrained by India-Pakistan deadlock.
+### ORIGINAL MAINS PRACTICE - EXACTLY SIX MODEL ANSWERS
 
-However, weak institutional capacity, delayed agreements, connectivity deficits and political instability limit delivery. BIMSTEC should complement rather than mechanically replace SAARC.
+### ORIGINAL MAINS 1 - 10 marks - 150 words
 
-Thus, its value lies in a distinct geography and functional agenda that widens India's strategic options while requiring stronger implementation.
+**Question:** Distinguish unity, integrity, fraternity, assimilation and accommodation in the context of national integration. Answer within the stated word limit.
 
-**Analytical body:**
+**Model answer:**
 
-1. **Claim and named evidence:** VERIFIED SUPPORTING PYQ 2 — 2022 GS-II — 10 marks — 150 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** However, weak institutional capacity, delayed agreements, connectivity deficits and political instability limit delivery. BIMSTEC should complement rather than mechanically replace SAARC. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Thus, its value lies in a distinct geography and functional agenda that widens India's strategic options while requiring stronger implementation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It answers similarity, dissimilarity and Indian objectives, then qualifies institutional performance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Add one dated summit or agreement only if accurately recalled; avoid saying BIMSTEC was created solely to isolate Pakistan. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+<!-- ORIGINAL-MAINS-1-ANSWER-START -->
+Unity is shared political belonging; integrity is the territorial and constitutional wholeness of the polity. Fraternity is the civic solidarity that connects individual dignity with the unity and integrity named in the Preamble.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+Assimilation expects difference to merge into a dominant public identity. Accommodation allows religious, linguistic, regional and tribal identities to remain visible while all citizens share constitutional rules and institutions. India's linguistic States, Articles 29-30 and differentiated federal arrangements show the accommodation route.
 
-**Qualified conclusion:** BIMSTEC and SAARC are regional cooperation organisations, but BIMSTEC is not merely a parallel copy. Both seek functional cooperation, development and connectivity and include South Asian members. SAARC is South Asia-wide and includes Pakistan and Afghanistan; BIMSTEC links South and Southeast Asia around the Bay of Bengal and excludes Pakistan.
+Accommodation is not separate sovereignty. It remains limited by equality, democratic accountability, rights and national competence. Assimilation may sometimes occur voluntarily, but compulsory cultural sameness can convert identity into insecurity.
 
-BIMSTEC supports India's Neighbourhood First and Act East policies by connecting its eastern and north-eastern regions to Bay of Bengal economies. Sectoral cooperation can advance connectivity, trade, energy, disaster management, security and people-to-people ties. It also offers a forum less constrained by India-Pakistan deadlock.
+National integration therefore combines unity and integrity as outcomes, fraternity as the civic bond, and calibrated accommodation as a principal method. The test is whether differences can be expressed and negotiated within equal citizenship rather than erased or weaponised.
+<!-- ORIGINAL-MAINS-1-ANSWER-END -->
 
-However, weak institutional capacity, delayed agreements, connectivity deficits and political instability limit delivery. BIMSTEC should complement rather than mechanically replace SAARC.
+**[ORIGINAL MAINS 1 MODEL ANSWER WORD COUNT: 144]**
 
-Thus, its value lies in a distinct geography and functional agenda that widens India's strategic options while requiring stronger implementation.
+**Examiner check:** The answer follows claim -> named evidence -> analysis -> qualification, answers the directive and stays within the ceiling.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+### ORIGINAL MAINS 2 - 10 marks - 150 words
 
-### VERIFIED DIRECT PYQ 3 — 2023 GS-I — 15 marks — 250 words
+**Question:** Explain why Article 355 cannot be treated as an unlimited source of central power. Answer within the stated word limit.
 
-**Question (exact):** “Discuss the impact of post-liberal economy on ethnic identity and communalism.”
+**Model answer:**
 
-**Model answer:** Economic liberalisation widened mobility, markets, media and aspirational consumption. It also produced uneven gains across regions, occupations and social groups. These changes reshape ethnic identity and communalism through contradictory mechanisms.
+<!-- ORIGINAL-MAINS-2-ANSWER-START -->
+Article 355 imposes a duty on the Union to protect every State against external aggression and internal disturbance and to ensure that State government is carried on according to the Constitution.
 
-First, migration and urbanisation create mixed workplaces and networks that can weaken inherited boundaries. New middle classes, digital communication and national markets can support identities based on profession, consumption and citizenship.
+A duty does not itself identify unlimited means. Union action must rest on a constitutional or statutory power, respect federal distribution and Fundamental Rights, and satisfy legality, necessity and proportionality. Article 352 separately requires war, external aggression or armed rebellion; Article 356 separately addresses failure of constitutional machinery.
 
-Second, uneven development intensifies relative deprivation. Competition over jobs, land, housing, welfare and political representation may be framed through regional, caste, linguistic or religious identities. Local elites can convert distributive conflict into ethnic or communal mobilisation.
+In S.R. Bommai, the Supreme Court made Article 356 proclamations reviewable and treated a legislative floor test as the ordinary method for proving majority. Political disagreement, protest or routine disorder therefore cannot automatically justify displacement of a State government.
 
-Third, commercial media and social platforms allow rapid cultural assertion but also profitable polarisation, rumours and targeted hate. Fourth, market-led displacement and insecure informal work can produce anxieties that exclusionary movements redirect against migrants or minorities.
+Article 355 supports timely protection and coordination, but its integrative purpose would be defeated if it became a blank cheque for partisan centralisation or permanent emergency.
+<!-- ORIGINAL-MAINS-2-ANSWER-END -->
 
-The outcome is not economically predetermined. Inclusive growth, portable welfare, fair urban governance, anti-discrimination, regional fiscal balance, credible policing and platform accountability mediate it.
+**[ORIGINAL MAINS 2 MODEL ANSWER WORD COUNT: 145]**
 
-Therefore, the post-liberal economy simultaneously creates cross-cutting integration and new identity insecurity. Constitutional policy must distribute opportunity and provide democratic channels so that economic competition does not become collective blame.
+**Examiner check:** The answer follows claim -> named evidence -> analysis -> qualification, answers the directive and stays within the ceiling.
 
-**Why this earns marks:** It presents both integrating and fragmenting mechanisms and identifies mediating institutions.
+### ORIGINAL MAINS 3 - 15 marks - 250 words
 
-**How to improve this answer:** Add one regional or urban example and explicitly separate ethnicity from communalism if space permits.
+**Question:** Analyse the constitutional mechanisms through which India accommodates diversity while preserving national unity. Answer within the stated word limit.
 
-**Compression guidance:** Retain four mechanisms, two counter-effects, policy mediation and the qualified verdict.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “VERIFIED DIRECT PYQ 3 — 2023 GS-I — 15 marks — 250 words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+<!-- ORIGINAL-MAINS-3-ANSWER-START -->
+India preserves unity by combining common citizenship and national institutions with differentiated channels for identity, territory and development.
 
-**Detailed examiner-grade model answer:**
+First, the Preamble links fraternity and dignity with unity and integrity. Articles 14-19 make membership credible through equality, voice, association, movement and residence. Articles 25-30 protect conscience, culture and minority education within constitutional limits.
 
-**Introduction and thesis:** Economic liberalisation widened mobility, markets, media and aspirational consumption. It also produced uneven gains across regions, occupations and social groups. These changes reshape ethnic identity and communalism through contradictory mechanisms.
+Second, territorial flexibility converts regional claims into federal bargaining. Articles 1-4 permit internal reorganisation; linguistic State formation brought major language demands inside the Union. Fifth and Sixth Schedule arrangements and State-specific Article 371 provisions respond to distinct conditions without creating separate sovereignty.
 
-First, migration and urbanisation create mixed workplaces and networks that can weaken inherited boundaries. New middle classes, digital communication and national markets can support identities based on profession, consumption and citizenship.
+Third, language safeguards reduce fears of domination. Articles 350A and 350B provide primary-stage mother-tongue facilities and a Special Officer for linguistic minorities. Statutory continuation of English and State language choices support administrative accommodation.
 
-Second, uneven development intensifies relative deprivation. Competition over jobs, land, housing, welfare and political representation may be framed through regional, caste, linguistic or religious identities. Local elites can convert distributive conflict into ethnic or communal mobilisation.
+Fourth, institutions address coordination and material inequality. Zonal Councils, the Inter-State Council, Finance Commission transfers, local government and civil society perform different consultative, fiscal and participatory functions.
 
-Third, commercial media and social platforms allow rapid cultural assertion but also profitable polarisation, rumours and targeted hate. Fourth, market-led displacement and insecure informal work can produce anxieties that exclusionary movements redirect against migrants or minorities.
+Finally, Article 355 and emergency provisions provide a security backstop, but S.R. Bommai requires constitutional purpose and review. The model is therefore neither forced assimilation nor unbounded autonomy. Calibrated accommodation must remain tied to equality, public capacity, lawful security and democratic accountability.
+<!-- ORIGINAL-MAINS-3-ANSWER-END -->
 
-The outcome is not economically predetermined. Inclusive growth, portable welfare, fair urban governance, anti-discrimination, regional fiscal balance, credible policing and platform accountability mediate it.
+**[ORIGINAL MAINS 3 MODEL ANSWER WORD COUNT: 197]**
 
-Therefore, the post-liberal economy simultaneously creates cross-cutting integration and new identity insecurity. Constitutional policy must distribute opportunity and provide democratic channels so that economic competition does not become collective blame.
+**Examiner check:** The answer follows claim -> named evidence -> analysis -> qualification, answers the directive and stays within the ceiling.
 
-**Analytical body:**
+### ORIGINAL MAINS 4 - 15 marks - 250 words
 
-1. **Claim and named evidence:** VERIFIED DIRECT PYQ 3 — 2023 GS-I — 15 marks — 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Question (exact): “Discuss the impact of post-liberal economy on ethnic identity and communalism.” **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The outcome is not economically predetermined. Inclusive growth, portable welfare, fair urban governance, anti-discrimination, regional fiscal balance, credible policing and platform accountability mediate it. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It presents both integrating and fragmenting mechanisms and identifies mediating institutions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Add one regional or urban example and explicitly separate ethnicity from communalism if space permits. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Question:** Discuss the constitutional distribution of foreign-affairs power and the roles of Parliament, the executive, courts and States. Answer within the stated word limit.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Model answer:**
 
-**Qualified conclusion:** Economic liberalisation widened mobility, markets, media and aspirational consumption. It also produced uneven gains across regions, occupations and social groups. These changes reshape ethnic identity and communalism through contradictory mechanisms.
+<!-- ORIGINAL-MAINS-4-ANSWER-START -->
+Foreign affairs are Union-centred but institutionally shared in accountability and implementation.
 
-First, migration and urbanisation create mixed workplaces and networks that can weaken inherited boundaries. New middle classes, digital communication and national markets can support identities based on profession, consumption and citizenship.
+Article 246 with Union List Entries 10-21 assigns foreign affairs, diplomacy, the United Nations, treaties, war and peace, extradition, passports, citizenship and aliens to the Union field. Article 73 extends Union executive power; Articles 53 and 74 place formal authority in the President acting on ministerial advice, while Article 77 structures Union business. The Prime Minister, Cabinet, Cabinet Committee on Security, MEA and missions provide political direction and execution.
 
-Second, uneven development intensifies relative deprivation. Competition over jobs, land, housing, welfare and political representation may be framed through regional, caste, linguistic or religious identities. Local elites can convert distributive conflict into ethnic or communal mobilisation.
+Parliament does not constitutionally ratify every treaty. It nevertheless scrutinises policy through questions, debates, budgets, the Committee on External Affairs and implementing legislation. Article 253 empowers Parliament to implement international obligations notwithstanding ordinary federal distribution.
 
-Third, commercial media and social platforms allow rapid cultural assertion but also profitable polarisation, rumours and targeted hate. Fourth, market-led displacement and insecure informal work can produce anxieties that exclusionary movements redirect against migrants or minorities.
+Courts review competence, statutory conflict and Fundamental Rights. They usually exercise restraint on diplomatic merits, but foreign-policy labels do not create legal immunity.
 
-The outcome is not economically predetermined. Inclusive growth, portable welfare, fair urban governance, anti-discrimination, regional fiscal balance, credible policing and platform accountability mediate it.
+States lack independent treaty sovereignty, yet border management, investment, culture, trade facilitation and implementation often require their knowledge and administration. Structured consultation therefore improves legitimacy and compliance, especially where Article 253 legislation reaches State fields.
 
-Therefore, the post-liberal economy simultaneously creates cross-cutting integration and new identity insecurity. Constitutional policy must distribute opportunity and provide democratic channels so that economic competition does not become collective blame.
+The constitutional design combines coherent Union representation with parliamentary control, judicial legality and cooperative-federal implementation.
+<!-- ORIGINAL-MAINS-4-ANSWER-END -->
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**[ORIGINAL MAINS 4 MODEL ANSWER WORD COUNT: 188]**
 
-### VERIFIED DIRECT PYQ 4 — 2023 GS-II — 10 marks — 150 words
+**Examiner check:** The answer follows claim -> named evidence -> analysis -> qualification, answers the directive and stays within the ceiling.
 
-**Question (exact):** “Indian diaspora has scaled new heights in the West. Describe its economic and political benefits for India.”
+### ORIGINAL MAINS 5 - 20 marks - 250 words
 
-**Model answer:** The Indian diaspora in Western countries benefits India economically through remittances, investment, entrepreneurship, technology and professional networks. It connects Indian firms and institutions to capital, skills, research ecosystems and markets and can support philanthropy and crisis relief.
+**Question:** Critically examine India's treaty-making framework in light of Articles 73 and 253 and the Supreme Court's international-law cases. Answer within the stated word limit.
 
-Politically, elected representatives, professionals and civic organisations can improve knowledge of India, support closer bilateral ties and create constituencies for cooperation in education, technology, security and mobility. Diaspora achievement also contributes to India's reputation and soft power.
+**Model answer:**
 
-These benefits are neither automatic nor uniform. Diaspora communities have diverse political views, operate under host-country law and may face racism, visa insecurity or conflicts over homeland politics. India should therefore prioritise consular protection, skills and investment channels and respectful cultural engagement rather than expect political loyalty.
+<!-- ORIGINAL-MAINS-5-ANSWER-START -->
+India's treaty framework gives the Union executive negotiating flexibility but leaves accountability and domestic-effect questions to constitutional law.
 
-The diaspora is best treated as a bridge of people and capability, not an instrument controlled by the Indian State.
+Article 73 supports executive action in Union fields and treaty-derived authority. Article 253 empowers Parliament to legislate for international implementation even across ordinary federal boundaries. India has no general rule requiring a parliamentary ratification vote for every treaty.
 
-**Why this earns marks:** It covers both named dimensions, provides mechanisms and adds a realistic qualification.
+The case law supplies the domestic-effect test. In Maganbhai Ishwarbhai Patel, executive implementation was sufficient where a boundary award could operate under existing law without cession or alteration of rights; law-changing action requires the proper legislative or constitutional route. Jolly George Varghese held that an international covenant did not displace contrary municipal law, though consistent interpretation was desirable. Gramophone Company accepted customary international law unless a contrary statute controls. Vishaka used international norms consistent with Fundamental Rights to fill a legislative vacuum; it did not make every treaty self-executing.
 
-**How to improve this answer:** Include one precise sectoral example rather than an uncertain aggregate statistic.
+Thus, the executive may create international commitments but cannot amend statutes, rights or the Constitution by treaty alone. Parliament's budget, questions, committees and legislation remain essential, while courts review legality with restraint on strategic merits.
 
-**Compression guidance:** Use five economic benefits, three political benefits, one caveat and verdict.
+Reform should require publication or reasoned classification, legal and rights screening, impact assessment, committee scrutiny and structured State consultation. Exceptions for negotiation and security should be narrow and time-bound. The objective is accountable flexibility, not automatic incorporation or diplomacy by plebiscite.
+<!-- ORIGINAL-MAINS-5-ANSWER-END -->
 
-**Demand decoding:** The directive **answer** requires a direct position on “VERIFIED DIRECT PYQ 4 — 2023 GS-II — 10 marks — 150 words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**[ORIGINAL MAINS 5 MODEL ANSWER WORD COUNT: 221]**
 
-**Detailed examiner-grade model answer:**
+**Examiner check:** The answer follows claim -> named evidence -> analysis -> qualification, answers the directive and stays within the ceiling.
 
-**Introduction and thesis:** The Indian diaspora in Western countries benefits India economically through remittances, investment, entrepreneurship, technology and professional networks. It connects Indian firms and institutions to capital, skills, research ecosystems and markets and can support philanthropy and crisis relief.
+### ORIGINAL MAINS 6 - 20 marks - 250 words
 
-Politically, elected representatives, professionals and civic organisations can improve knowledge of India, support closer bilateral ties and create constituencies for cooperation in education, technology, security and mobility. Diaspora achievement also contributes to India's reputation and soft power.
+**Question:** National integration and foreign policy are mutually reinforcing, but each can also destabilise the other. Analyse and suggest reforms. Answer within the stated word limit.
 
-These benefits are neither automatic nor uniform. Diaspora communities have diverse political views, operate under host-country law and may face racism, visa insecurity or conflicts over homeland politics. India should therefore prioritise consular protection, skills and investment channels and respectful cultural engagement rather than expect political loyalty.
+**Model answer:**
 
-The diaspora is best treated as a bridge of people and capability, not an instrument controlled by the Indian State.
+<!-- ORIGINAL-MAINS-6-ANSWER-START -->
+National integration supplies the legitimacy and capacity on which foreign policy depends; foreign policy protects the territorial, economic and security conditions of integration.
 
-**Analytical body:**
+A polity grounded in equal citizenship, federal accommodation and plural rights gains diplomatic credibility and reliable implementation. Border communities support connectivity and security when they receive services, voice and lawful treatment. State governments implement trade, migration, climate and infrastructure commitments. Diaspora relationships benefit from a domestic order that visibly respects diversity.
 
-1. **Claim and named evidence:** VERIFIED DIRECT PYQ 4 — 2023 GS-II — 10 marks — 150 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Question (exact): “Indian diaspora has scaled new heights in the West. Describe its economic and political benefits for India.” **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The diaspora is best treated as a bridge of people and capability, not an instrument controlled by the Indian State. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It covers both named dimensions, provides mechanisms and adds a realistic qualification. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** How to improve this answer: Include one precise sectoral example rather than an uncertain aggregate statistic. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+The reverse effects are also significant. External conflict, disinformation, refugee or migration pressure, energy shocks and cross-border violence can intensify communal or regional suspicion. Governments may over-securitise dissent in the name of integrity. Treaties negotiated without rights, fiscal or federal assessment can create domestic resistance. Diaspora politics can be misread as uniform or instrumental.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+Reform requires two connected tracks. Domestically, strengthen equal policing, language access, portable welfare, fiscal balance, local participation and trusted public communication. Externally, establish a treaty framework for publication or classification, parliamentary committee review, rights and implementation impact assessments, and structured consultation with affected States. Strategic communication should separate verified threats from partisan identity claims.
 
-**Qualified conclusion:** The Indian diaspora in Western countries benefits India economically through remittances, investment, entrepreneurship, technology and professional networks. It connects Indian firms and institutions to capital, skills, research ecosystems and markets and can support philanthropy and crisis relief.
+India should pursue strategic autonomy through domestic inclusion and institutional competence. Neither cultural uniformity nor secretive diplomacy produces durable strength; constitutional legitimacy and accountable capacity do.
+<!-- ORIGINAL-MAINS-6-ANSWER-END -->
 
-Politically, elected representatives, professionals and civic organisations can improve knowledge of India, support closer bilateral ties and create constituencies for cooperation in education, technology, security and mobility. Diaspora achievement also contributes to India's reputation and soft power.
+**[ORIGINAL MAINS 6 MODEL ANSWER WORD COUNT: 208]**
 
-These benefits are neither automatic nor uniform. Diaspora communities have diverse political views, operate under host-country law and may face racism, visa insecurity or conflicts over homeland politics. India should therefore prioritise consular protection, skills and investment channels and respectful cultural engagement rather than expect political loyalty.
-
-The diaspora is best treated as a bridge of people and capability, not an instrument controlled by the Indian State.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### ORIGINAL MAINS PRACTICE 1 — 10 marks — 150 words
-
-**Question:** National integration in India is better understood as accommodation than assimilation. Examine.
-
-**Model answer:** Begin with a precise thesis responsive to the directive. Define both models; use linguistic States, minority rights, asymmetric federalism and common citizenship; conclude that calibrated accommodation needs equal rights and state capacity. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Why this earns marks:** The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion.
-
-**How to improve this answer:** Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay.
-
-**Compression guidance:** Preserve the thesis, four strongest evidence units, one counterpoint and the verdict.
-
-**Demand decoding:** The directive **examine** requires a direct position on “National integration in India is better understood as accommodation than assimilation.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin with a precise thesis responsive to the directive. Define both models; use linguistic States, minority rights, asymmetric federalism and common citizenship; conclude that calibrated accommodation needs equal rights and state capacity. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 1 — 10 marks — 150 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Preserve the thesis, four strongest evidence units, one counterpoint and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a precise thesis responsive to the directive. Define both models; use linguistic States, minority rights, asymmetric federalism and common citizenship; conclude that calibrated accommodation needs equal rights and state capacity. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### ORIGINAL MAINS PRACTICE 2 — 15 marks — 250 words
-
-**Question:** Examine the constitutional architecture through which India manages regionalism, communalism and separatism.
-
-**Model answer:** Begin with a precise thesis responsive to the directive. Organise by diagnosis, rights, federal accommodation, development, security limits, Articles 355-356 and judicial review; separate legitimate identity from violence. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Why this earns marks:** The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion.
-
-**How to improve this answer:** Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay.
-
-**Compression guidance:** Preserve the thesis, four strongest evidence units, one counterpoint and the verdict.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the constitutional architecture through which India manages regionalism, communalism…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin with a precise thesis responsive to the directive. Organise by diagnosis, rights, federal accommodation, development, security limits, Articles 355-356 and judicial review; separate legitimate identity from violence. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 2 — 15 marks — 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Preserve the thesis, four strongest evidence units, one counterpoint and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a precise thesis responsive to the directive. Organise by diagnosis, rights, federal accommodation, development, security limits, Articles 355-356 and judicial review; separate legitimate identity from violence. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### ORIGINAL MAINS PRACTICE 3 — 10 marks — 150 words
-
-**Question:** Is the National Integration Council still institutionally relevant? Comment.
-
-**Model answer:** Begin with a precise thesis responsive to the directive. State its non-statutory advisory status and 2013 latest located meeting; assess deliberative value and weak follow-up; propose reconstitution or equivalent accountable federal consultation. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Why this earns marks:** The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion.
-
-**How to improve this answer:** Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay.
-
-**Compression guidance:** Preserve the thesis, four strongest evidence units, one counterpoint and the verdict.
-
-**Demand decoding:** The directive **comment** requires a direct position on “Is the National Integration Council still institutionally relevant? Comment.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin with a precise thesis responsive to the directive. State its non-statutory advisory status and 2013 latest located meeting; assess deliberative value and weak follow-up; propose reconstitution or equivalent accountable federal consultation. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 3 — 10 marks — 150 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Preserve the thesis, four strongest evidence units, one counterpoint and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a precise thesis responsive to the directive. State its non-statutory advisory status and 2013 latest located meeting; assess deliberative value and weak follow-up; propose reconstitution or equivalent accountable federal consultation. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### ORIGINAL MAINS PRACTICE 4 — 15 marks — 250 words
-
-**Question:** Article 51 states values but does not exhaust the constitutional foundations of Indian foreign policy. Discuss.
-
-**Model answer:** Begin with a precise thesis responsive to the directive. Pair Article 51 with Articles 73, 246 and 253 and Union List Entries 10-21; distinguish value, competence, executive action and implementation. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Why this earns marks:** The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion.
-
-**How to improve this answer:** Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay.
-
-**Compression guidance:** Preserve the thesis, four strongest evidence units, one counterpoint and the verdict.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Article 51 states values but does not exhaust the constitutional foundations of Indian…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin with a precise thesis responsive to the directive. Pair Article 51 with Articles 73, 246 and 253 and Union List Entries 10-21; distinguish value, competence, executive action and implementation. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 4 — 15 marks — 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Preserve the thesis, four strongest evidence units, one counterpoint and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a precise thesis responsive to the directive. Pair Article 51 with Articles 73, 246 and 253 and Union List Entries 10-21; distinguish value, competence, executive action and implementation. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### ORIGINAL MAINS PRACTICE 5 — 15 marks — 250 words
-
-**Question:** India's treaty practice combines executive flexibility with a democratic-accountability gap. Critically examine.
-
-**Model answer:** Begin with a precise thesis responsive to the directive. Explain negotiation, international obligation, domestic-law test, Parliament's legislative and financial roles, case doctrine, federal effects and scrutiny reforms. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Why this earns marks:** The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion.
-
-**How to improve this answer:** Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay.
-
-**Compression guidance:** Preserve the thesis, four strongest evidence units, one counterpoint and the verdict.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “India's treaty practice combines executive flexibility with a democratic-accountability gap.…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin with a precise thesis responsive to the directive. Explain negotiation, international obligation, domestic-law test, Parliament's legislative and financial roles, case doctrine, federal effects and scrutiny reforms. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 5 — 15 marks — 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Preserve the thesis, four strongest evidence units, one counterpoint and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a precise thesis responsive to the directive. Explain negotiation, international obligation, domestic-law test, Parliament's legislative and financial roles, case doctrine, federal effects and scrutiny reforms. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### ORIGINAL MAINS PRACTICE 6 — 10 marks — 150 words
-
-**Question:** Distinguish non-alignment, neutrality and strategic autonomy.
-
-**Model answer:** Begin with a precise thesis responsive to the directive. Define all three; show continuity of independent judgment and change in partnerships and capability; avoid calling multi-alignment a binding doctrine. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Why this earns marks:** The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion.
-
-**How to improve this answer:** Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay.
-
-**Compression guidance:** Preserve the thesis, four strongest evidence units, one counterpoint and the verdict.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish non-alignment, neutrality and strategic autonomy.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin with a precise thesis responsive to the directive. Define all three; show continuity of independent judgment and change in partnerships and capability; avoid calling multi-alignment a binding doctrine. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 6 — 10 marks — 150 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Preserve the thesis, four strongest evidence units, one counterpoint and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a precise thesis responsive to the directive. Define all three; show continuity of independent judgment and change in partnerships and capability; avoid calling multi-alignment a binding doctrine. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### ORIGINAL MAINS PRACTICE 7 — 15 marks — 250 words
-
-**Question:** How do domestic inclusion and federal consultation strengthen India's external policy?
-
-**Model answer:** Begin with a precise thesis responsive to the directive. Link legitimacy, border regions, State implementation, diaspora, climate and trade to consultation; preserve Union competence while arguing for structured participation. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Why this earns marks:** The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion.
-
-**How to improve this answer:** Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay.
-
-**Compression guidance:** Preserve the thesis, four strongest evidence units, one counterpoint and the verdict.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How do domestic inclusion and federal consultation strengthen India's external policy?”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin with a precise thesis responsive to the directive. Link legitimacy, border regions, State implementation, diaspora, climate and trade to consultation; preserve Union competence while arguing for structured participation. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 7 — 15 marks — 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Preserve the thesis, four strongest evidence units, one counterpoint and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a precise thesis responsive to the directive. Link legitimacy, border regions, State implementation, diaspora, climate and trade to consultation; preserve Union competence while arguing for structured participation. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### ORIGINAL MAINS PRACTICE 8 — 20 marks — 250 words
-
-**Question:** Unity without uniformity and autonomy without isolation are complementary principles of Indian statecraft. Analyse.
-
-**Model answer:** Begin with a precise thesis responsive to the directive. Build two halves: constitutional integration and strategic autonomy; connect them through legitimacy, capability and accountable power; test security and geopolitical constraints. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Why this earns marks:** The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion.
-
-**How to improve this answer:** Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay.
-
-**Compression guidance:** Preserve the thesis, four strongest evidence units, one counterpoint and the verdict.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Unity without uniformity and autonomy without isolation are complementary principles of…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Begin with a precise thesis responsive to the directive. Build two halves: constitutional integration and strategic autonomy; connect them through legitimacy, capability and accountable power; test security and geopolitical constraints. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** ORIGINAL MAINS PRACTICE 8 — 20 marks — 250 words **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: The answer has a directive-sensitive thesis, an executable evidence order, a limitation and a qualified conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** How to improve this answer: Convert the stated spine into mark-scaled paragraphs and add one precisely recalled authority; do not substitute a generic foreign-policy or unity essay. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Compression guidance: Preserve the thesis, four strongest evidence units, one counterpoint and the verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Begin with a precise thesis responsive to the directive. Build two halves: constitutional integration and strategic autonomy; connect them through legitimacy, capability and accountable power; test security and geopolitical constraints. Use constitutional provisions or dated evidence only where they advance the demand. End with a qualified verdict joining legitimacy, institutional capacity and accountability.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Examiner check:** The answer follows claim -> named evidence -> analysis -> qualification, answers the directive and stays within the ceiling.

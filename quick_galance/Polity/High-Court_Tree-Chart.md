@@ -1,1468 +1,190 @@
-# Polity 21 - High Court and Subordinate Courts
+# Polity 21 - High Court and Subordinate Courts - Self-Contained Quick-Glance Tree
 
-## Quick-Glance Tree Chart
+> Stable sequence: core concept -> origin/timeline -> decoded constitutional and statutory spine -> mechanisms -> cases/reforms -> traps -> answer spine.
+
+## 1. Constitutional location and origin
 
 ```text
-HIGH COURT AND SUBORDINATE COURTS
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-The High Court is the State-level constitutional court and the administrative
-guardian of the subordinate judiciary. Article 226 gives it a wider remedial
-purpose than Article 32 because writs may enforce Fundamental Rights and any
-other legal right; Articles 227, 228 and 235 make it supervisor, constitutional
-question filter and controller of district courts. Independence therefore
-requires both decisional safeguards and practical capacity. Vacancies, pendency,
-infrastructure and recruitment can hollow out a jurisdiction that the Supreme
-Court has recognised as part of the basic structure.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-TOPIC 21 OWNS:
-Articles 214-237;
-High Court organisation /
-judges / independence;
-Article 226 writs;
-Articles 227 / 228;
-original / appellate jurisdiction;
-subordinate judiciary;
-Articles 233-235;
-legal-aid forums;
-AIJS;
-vacancy / eCourts reform.
-                              |
-                              v
-SUPREME COURT:
-Articles 124-147.
-FUNDAMENTAL RIGHTS:
-substantive rights.
-DPSP:
-Article 39A.
-TRIBUNALS:
-sector-specific law.
-LOCAL COURTS:
-State procedural detail.
-                              |
-                              v
-                  BRANCH I: INTEGRATED JUDICIARY
-SUPREME COURT
-apex.
-                              |
-                              v
-HIGH COURTS
-State / territorial
-constitutional courts.
-                              |
-                              v
-DISTRICT / SESSIONS COURTS.
-                              |
-                              v
-CIVIL JUDGE /
-CHIEF JUDICIAL MAGISTRATE.
-                              |
-                              v
-MUNSIFF /
-JUDICIAL MAGISTRATE.
-                              |
-                              v
-ONE HIERARCHY
-enforces Union
-and State law.
-                              |
-                              v
-US CONTRAST
-dual federal /
-state court systems.
-                              |
-                              v
-                  BRANCH II: HISTORY / ARTICLES
-FIRST HIGH COURTS
-Calcutta,
-Bombay,
-Madras,
-1862.
-                              |
-                              v
-ALLAHABAD
-1866.
-                              |
-                              v
-PART VI
-Articles 214-231:
-High Courts.
-                              |
-                              v
-ARTICLES 233-237
-subordinate courts.
-                              |
-                              v
-ARTICLE 214
-High Court for each State.
-                              |
-                              v
-ARTICLE 231
-common High Court
-for two or more States
-or State / UT.
-                              |
-                              v
-7TH AMENDMENT 1956
-common-HC framework.
-                              |
-                              v
-CURRENT
-25 High Courts.
-                              |
-                              v
-TRAP
-not one High Court
-per State.
-                              |
-                              v
-                  BRANCH III: COMPOSITION
-CHIEF JUSTICE
-+ other judges.
-                              |
-                              v
-NUMBER
-President determines
-as necessary
-under constitutional / statutory process.
-                              |
-                              v
-NO FIXED CONSTITUTIONAL STRENGTH.
-                              |
-                              v
-DEPARTMENT OF JUSTICE
-1 July 2026 snapshot:
-1,122 sanctioned,
-781 working,
-341 vacant.
-                              |
-                              v
-CAUTION
-figures are dated
-and must be reverified
-before future reuse.
-                              |
-                              v
-VACANCY
-affects benches,
-pendency,
-access,
-administrative load.
-                              |
-                              v
-                  BRANCH IV: APPOINTMENT
-ARTICLE 217.
-                              |
-                              v
-PRESIDENT
-appoints.
-                              |
-                              v
-HIGH COURT CHIEF JUSTICE
-consult:
-CJI
-+ State Governor.
-                              |
-                              v
-OTHER HIGH COURT JUDGE
-also consult
-High Court Chief Justice.
-                              |
-                              v
-ORIGINATING HIGH COURT
-Chief Justice consults
-two seniormost colleagues.
-                              |
-                              v
-SUPREME COURT STAGE
-collegium:
-CJI
-+ two seniormost SC judges.
-                              |
-                              v
-COLLEGIUM
-judicial creation,
-not constitutional text.
-                              |
-                              v
-NJAC
-99th Amendment /
-Act struck down 2015.
-                              |
-                              v
-                  BRANCH V: QUALIFICATIONS
-CITIZEN OF INDIA.
-                              |
-                              v
-TEN YEARS
-judicial office
-in India.
-                              |
-                              v
-OR TEN YEARS
-advocate of one /
-more High Courts.
-                              |
-                              v
-NO DISTINGUISHED JURIST ROUTE
-unlike Supreme Court.
-                              |
-                              v
-NO MINIMUM AGE
-in Constitution.
-                              |
-                              v
-RETIREMENT
-sixty-two.
-                              |
-                              v
-SC RETIREMENT
-sixty-five.
-                              |
-                              v
-                  BRANCH VI: OATH / TENURE / EXIT
-OATH
-before Governor
-or authorised person.
-                              |
-                              v
-TENURE
-until sixty-two.
-                              |
-                              v
-RESIGNATION
-to President.
-                              |
-                              v
-REMOVAL
-same constitutional process
-as Supreme Court judge.
-                              |
-                              v
-GROUND
-proved misbehaviour /
-incapacity.
-                              |
-                              v
-TRANSFER
-to another High Court.
-                              |
-                              v
-ELEVATION
-to Supreme Court.
-                              |
-                              v
-POST-RETIREMENT
-Article 220:
-retired permanent judge
-may practise only
-before Supreme Court /
-other High Courts,
-not own former High Court
-or subordinate courts.
-                              |
-                              v
-                  BRANCH VII: INDEPENDENCE SAFEGUARDS
-SECURITY OF TENURE.
-                              |
-                              v
-DIFFICULT REMOVAL.
-                              |
-                              v
-SALARY / ALLOWANCE
-charged expenditure
-under constitutional budget.
-                              |
-                              v
-SERVICE CONDITIONS
-not varied to disadvantage
-after appointment,
-except Financial Emergency.
-                              |
-                              v
-JUDGE CONDUCT
-not discussed in legislature
-except removal motion.
-                              |
-                              v
-COURT OF RECORD /
-CONTEMPT.
-                              |
-                              v
-STAFF
-Chief Justice control,
-Article 229.
-                              |
-                              v
-EXPENSES
-charged on
-State Consolidated Fund.
-                              |
-                              v
-SUBORDINATE CONTROL
-Article 235.
-                              |
-                              v
-                  BRANCH VIII: TRANSFER
-ARTICLE 222.
-                              |
-                              v
-PRESIDENT
-transfers judge
-after consulting CJI.
-                              |
-                              v
-CONSENT
-not constitutionally required.
-                              |
-                              v
-CURRENT CONSULTATION
-CJI,
-four seniormost SC judges,
-Chief Justices
-of transferor / transferee HCs
-under MoP practice.
-                              |
-                              v
-SANKALCHAND SHETH 1977
-transfer permissible
-in public interest,
-not punitive.
-                              |
-                              v
-JUDGES CASES
-strengthen judicial primacy.
-                              |
-                              v
-TENSION
-administrative flexibility
-versus pressure on judge.
-                              |
-                              v
-                  BRANCH IX: ACTING / ADDITIONAL / RETIRED
-ARTICLE 223
-acting Chief Justice
-when vacancy / absence.
-                              |
-                              v
-ARTICLE 224
-additional judge
-for temporary business rise /
-arrears;
-acting judge
-for absent permanent judge.
-                              |
-                              v
-AGE CEILING
-sixty-two.
-                              |
-                              v
-ARTICLE 224A
-Chief Justice,
-with President's prior consent,
-requests retired HC judge
-to sit / act.
-                              |
-                              v
-CONSENT
-of retired judge.
-                              |
-                              v
-STATUS
-not deemed permanent
-serving judge generally.
-                              |
-                              v
-PURPOSE
-stop-gap,
-not substitute for appointments.
-                              |
-                              v
-                  BRANCH X: ARTICLE 215
-HIGH COURT
-court of record.
-                              |
-                              v
-RECORDS
-evidentiary /
-precedential authority.
-                              |
-                              v
-CONTEMPT POWER
-inherent /
-constitutional.
-                              |
-                              v
-PURPOSE
-protect administration of justice.
-                              |
-                              v
-LIMIT
-fair criticism /
-free speech.
-                              |
-                              v
-SUBORDINATE COURT CONTEMPT
-High Court statutory /
-supervisory role.
-                              |
-                              v
-                  BRANCH XI: JURISDICTION MAP
-ORIGINAL.
-                              |
-                              v
-WRIT
-Article 226.
-                              |
-                              v
-APPELLATE
-civil / criminal.
-                              |
-                              v
-SUPERVISORY
-Article 227.
-                              |
-                              v
-CONSTITUTIONAL WITHDRAWAL
-Article 228.
-                              |
-                              v
-CONTROL
-Article 235.
-                              |
-                              v
-COURT OF RECORD
-Article 215.
-                              |
-                              v
-JUDICIAL REVIEW.
-                              |
-                              v
-                  BRANCH XII: ARTICLE 226
-POWER
-writs,
-orders,
-directions.
-                              |
-                              v
-PURPOSE
-Fundamental Rights
-AND any other legal purpose.
-                              |
-                              v
-WIDER THAN ARTICLE 32
-in subject matter.
-                              |
-                              v
-NOT WIDER
-in territorial reach.
-                              |
-                              v
-ARTICLE 226(2)
-cause of action
-wholly or partly
-within territory,
-even if authority outside.
-                              |
-                              v
-15TH AMENDMENT 1963
-expanded territorial reach.
-                              |
-                              v
-DISCRETIONARY
-High Court may decline
-for adequate alternative remedy.
-                              |
-                              v
-BASIC STRUCTURE
-L. Chandra Kumar 1997.
-                              |
-                              v
-                  BRANCH XIII: ARTICLE 32 VERSUS 226
-ARTICLE 32
-itself Fundamental Right.
-                              |
-                              v
-ARTICLE 226
-constitutional power,
-not Fundamental Right.
-                              |
-                              v
-32 PURPOSE
-Fundamental Rights only.
-                              |
-                              v
-226 PURPOSE
-Fundamental Rights
-+ ordinary legal rights.
-                              |
-                              v
-32 TERRITORY
-whole India.
-                              |
-                              v
-226 TERRITORY
-High Court territory /
-cause-of-action rule.
-                              |
-                              v
-32 DUTY
-Supreme Court cannot ordinarily refuse
-valid FR remedy.
-                              |
-                              v
-226 DISCRETION
-alternative remedy /
-equitable principles.
-                              |
-                              v
-                  BRANCH XIV: FIVE WRITS
-HABEAS CORPUS
-produce detained person;
-public or private detention;
-legality of custody.
-                              |
-                              v
-MANDAMUS
-command performance
-of public duty;
-may reach private body
-with public duty.
-                              |
-                              v
-PROHIBITION
-stop lower court /
-tribunal
-before excess-jurisdiction decision.
-                              |
-                              v
-CERTIORARI
-quash / transfer
-after or before completion;
-jurisdictional / natural-justice error.
-                              |
-                              v
-QUO WARRANTO
-challenge unlawful holding
-of substantive public office;
-relaxed standing.
-                              |
-                              v
-CAUTION
-High Court also issues
-directions / orders
-beyond technical English forms.
-                              |
-                              v
-                  BRANCH XV: ALTERNATIVE REMEDY
-GENERAL RULE
-High Court may decline writ
-when adequate statutory remedy exists.
-                              |
-                              v
-NATURE
-self-imposed discretion,
-not jurisdictional bar.
-                              |
-                              v
-EXCEPTIONS
-Fundamental Right violation;
-natural justice denied;
-order wholly without jurisdiction;
-constitutional validity challenge
-where appropriate.
-                              |
-                              v
-RATIONALE
-respect statutory hierarchy /
-fact-finding.
-                              |
-                              v
-CAUTION
-existence of remedy
-does not automatically
-oust Article 226.
-                              |
-                              v
-                  BRANCH XVI: JUDICIAL REVIEW
-TARGET
-Union / State law
-and executive action.
-                              |
-                              v
-GROUNDS
-legislative incompetence;
-Fundamental Rights;
-constitutional prohibition;
-procedural illegality.
-                              |
-                              v
-L. CHANDRA KUMAR 1997
-Articles 226 / 227
-and Article 32 review
-basic structure.
-                              |
-                              v
-TRIBUNALS
-cannot exclude
-High Court Division Bench review.
-                              |
-                              v
-ROLE
-State-level constitutional guardian.
-                              |
-                              v
-LIMIT
-review legality,
-not routine policy merits.
-                              |
-                              v
-                  BRANCH XVII: ARTICLE 227
-SUPERINTENDENCE
-over all courts /
-tribunals
-within territory.
-                              |
-                              v
-EXCEPTION
-forums under Armed Forces law.
-                              |
-                              v
-NATURE
-administrative
-+ judicial.
-                              |
-                              v
-SUO MOTU
-possible.
-                              |
-                              v
-PURPOSE
-keep inferior forums
-within jurisdiction /
-fair procedure.
-                              |
-                              v
-NOT
-substitute appellate jurisdiction.
-                              |
-                              v
-RADHEY SHYAM 2015
-civil-court judicial orders
-ordinarily supervised
-under Article 227,
-not Article 226 writ.
-                              |
-                              v
-K. VALARMATHI 2025
-supervision cannot supplant
-trial / statutory appeal.
-                              |
-                              v
-                  BRANCH XVIII: ARTICLE 228
-CASE IN SUBORDINATE COURT
-involves substantial question
-of constitutional interpretation.
-                              |
-                              v
-HIGH COURT
-withdraws case.
-                              |
-                              v
-OPTION
-decide entire case.
-                              |
-                              v
-OR
-decide constitutional question
-and return case
-with ruling.
-                              |
-                              v
-PURPOSE
-centralise constitutional interpretation
-at High Court level.
-                              |
-                              v
-LIMIT
-substantial constitutional question,
-not ordinary statutory issue.
-                              |
-                              v
-                  BRANCH XIX: ORIGINAL / APPELLATE
-ORIGINAL
-writ,
-contempt,
-election disputes,
-admiralty.
-                              |
-                              v
-ORIGINAL CIVIL
-chartered High Courts:
-Calcutta,
-Bombay,
-Madras,
-Delhi
-under relevant jurisdiction.
-                              |
-                              v
-NOT UNIVERSAL
-across all High Courts.
-                              |
-                              v
-APPELLATE CIVIL
-subordinate judgments.
-                              |
-                              v
-APPELLATE CRIMINAL.
-                              |
-                              v
-DEATH SENTENCE
-Sessions Judge award
-requires High Court confirmation.
-                              |
-                              v
-ELECTION
-statutory election petitions
-under jurisdiction.
-                              |
-                              v
-                  BRANCH XX: HIGH COURT BENCHES
-PRINCIPAL SEAT
-under law /
-notification.
-                              |
-                              v
-PERMANENT / CIRCUIT BENCH
-improves territorial access.
-                              |
-                              v
-COMMON HIGH COURT
-multiple states / UTs.
-                              |
-                              v
-ARTICLE 230
-Parliament may extend /
-exclude HC jurisdiction
-over UT.
-                              |
-                              v
-ACCESS BENEFIT
-lower travel / litigation cost.
-                              |
-                              v
-RISK
-fragmented registry /
-bench-shopping /
-resource spread.
-                              |
-                              v
-POLICY
-workload,
-distance,
-infrastructure,
-not political symbolism alone.
-                              |
-                              v
-                  BRANCH XXI: SUBORDINATE JUDICIARY
-ARTICLES 233-237.
-                              |
-                              v
-TOP DISTRICT LEVEL
-District Judge
-= Sessions Judge.
-                              |
-                              v
-MIDDLE CIVIL
-Civil Judge,
-Senior Division.
-                              |
-                              v
-MIDDLE CRIMINAL
-Chief Judicial Magistrate.
-                              |
-                              v
-LOWER CIVIL
-Civil Judge,
-Junior Division /
-Munsiff.
-                              |
-                              v
-LOWER CRIMINAL
-Judicial Magistrate.
-                              |
-                              v
-METRO
-City Civil Courts /
-Metropolitan Magistrates.
-                              |
-                              v
-SMALL CAUSES /
-SPECIAL COURTS
-under law.
-                              |
-                              v
-                  BRANCH XXII: ARTICLE 233
-DISTRICT JUDGE
-appointed by Governor
-in consultation
-with High Court.
-                              |
-                              v
-OUTSIDE-SERVICE CANDIDATE
-advocate / pleader
-for at least seven years
-+ High Court recommendation.
-                              |
-                              v
-SERVING JUDICIAL OFFICER
-promotion /
-current direct-recruitment doctrine.
-                              |
-                              v
-REJANISH K.V. 2025
-prospectively overruled
-Dheeraj Mor exclusion;
-qualifying serving judicial officers
-may compete in direct recruitment
-under combined-experience,
-age
-and application-date conditions.
-                              |
-                              v
-CAUTION
-judicially prescribed current rule,
-not literal Article text.
-                              |
-                              v
-                  BRANCH XXIII: ARTICLE 234
-PERSONS OTHER THAN
-DISTRICT JUDGES
-appointed by Governor.
-                              |
-                              v
-RULES
-made after consultation
-with State Public Service Commission
-+ High Court.
-                              |
-                              v
-CURRENT CIVIL-JUDGE CONTROL
-All India Judges Association,
-20 May 2025.
-                              |
-                              v
-RULE
-prospective minimum
-three-year Bar practice
-for Civil Judge Junior Division
-recruitment
-+ revised promotion routes.
-                              |
-                              v
-CAUTION
-implementation follows
-judgment / recruitment rules
-and prospective dates.
-                              |
-                              v
-                  BRANCH XXIV: ARTICLE 235
-CONTROL
-over district courts /
-subordinate courts
-vested in High Court.
-                              |
-                              v
-INCLUDES
-posting,
-promotion,
-leave,
-discipline
-within doctrine.
-                              |
-                              v
-PURPOSE
-shield trial judiciary
-from executive pressure.
-                              |
-                              v
-GOVERNOR / SPSC
-retain appointment /
-rule roles
-under Articles 233-234.
-                              |
-                              v
-BALANCE
-shared recruitment,
-judicial administrative control.
-                              |
-                              v
-                  BRANCH XXV: ARTICLE 236 / 237
-ARTICLE 236
-district judge
-defined broadly:
-additional,
-joint,
-assistant district judges,
-Sessions judges,
-specified judicial offices.
-                              |
-                              v
-ARTICLE 237
-Governor may apply
-subordinate-court chapter
-to specified magistrate classes
-by notification.
-                              |
-                              v
-CAUTION
-"district judge"
-not one designation only.
-                              |
-                              v
-                  BRANCH XXVI: ADMINISTRATIVE / JUDICIAL RESPONSIBILITY
-HIGH COURT
-inspections,
-posting,
-promotion,
-discipline,
-rules,
-case allocation.
-                              |
-                              v
-STATE
-infrastructure,
-budget,
-staff,
-recruitment cooperation.
-                              |
-                              v
-DISTRICT JUDGE
-court administration /
-judicial work.
-                              |
-                              v
-SEPARATION
-Article 50 DPSP
-supports judicial independence.
-                              |
-                              v
-PROBLEM
-constitutional control
-without adequate fiscal /
-staff capacity.
-                              |
-                              v
-                  BRANCH XXVII: LEGAL AID
-ARTICLE 39A
-equal justice /
-free legal aid.
-                              |
-                              v
-LEGAL SERVICES AUTHORITIES ACT 1987
-in force 1995.
-                              |
-                              v
-CHAIN
-NALSA
--> SLSA
--> DLSA
--> Taluk Committee.
-                              |
-                              v
-ELIGIBLE
-women,
-children,
-SC / ST,
-persons with disability,
-custody,
-disaster victims,
-trafficking / begar victims,
-industrial workmen,
-income route.
-                              |
-                              v
-CAUTION
-income ceiling
-not one timeless national amount.
-                              |
-                              v
-                  BRANCH XXVIII: LOK ADALAT
-STATUTORY
-under 1987 Act.
-                              |
-                              v
-NATURE
-conciliation /
-compromise forum.
-                              |
-                              v
-CASES
-civil
-+ compoundable criminal matters.
-                              |
-                              v
-NOT
-non-compoundable crime.
-                              |
-                              v
-AWARD
-civil-court decree;
-final,
-binding,
-no appeal.
-                              |
-                              v
-NO SETTLEMENT
-ordinary Lok Adalat
-cannot decide merits;
-case returns.
-                              |
-                              v
-PERMANENT LOK ADALAT
-public utility services;
-pre-litigation;
-may decide merits
-after failed conciliation
-within statutory scope.
-                              |
-                              v
-                  BRANCH XXIX: LOK ADALAT / ARBITRATION
-LOK ADALAT
-statutory legal-aid /
-settlement institution.
-                              |
-                              v
-ARBITRATION
-consensual private adjudication
-under arbitration law.
-                              |
-                              v
-DECISION BASIS
-Lok Adalat:
-compromise,
-except Permanent variant.
-                              |
-                              v
-ARBITRAL TRIBUNAL
-adjudicatory award.
-                              |
-                              v
-CRIMINAL
-Lok Adalat:
-compoundable only.
-                              |
-                              v
-ARBITRATION
-criminal prosecution
-not arbitrable.
-                              |
-                              v
-APPEAL / CHALLENGE
-different statutory regimes.
-                              |
-                              v
-                  BRANCH XXX: FAMILY COURTS / GRAM NYAYALAYAS
-FAMILY COURTS ACT 1984
-conciliation-oriented
-family jurisdiction.
-                              |
-                              v
-GRAM NYAYALAYAS ACT 2008
-local mobile /
-village-level access.
-                              |
-                              v
-STATUS
-statutory courts,
-not constitutional panchayats.
-                              |
-                              v
-BENEFIT
-access,
-specialisation,
-informality.
-                              |
-                              v
-LIMIT
-uneven establishment /
-vacancies /
-awareness.
-                              |
-                              v
-DISTINCTION
-Nyaya Panchayat /
-Gram Kutchery
-varies by State law.
-                              |
-                              v
-                  BRANCH XXXI: ALL INDIA JUDICIAL SERVICE
-ARTICLE 312
-Parliament may create
-after Rajya Sabha
-two-thirds present / voting
-national-interest resolution.
-                              |
-                              v
-ARTICLE 312(3)
-cannot include post
-inferior to district judge.
-                              |
-                              v
-ARGUMENT FOR
-merit pool,
-uniform standards,
-vacancy filling,
-diversity,
-training.
-                              |
-                              v
-ARGUMENT AGAINST
-High Court Article 235 control,
-State Articles 233-234 role,
-language,
-local law,
-federalism,
-career progression.
-                              |
-                              v
-STATUS
-no consensus /
-not established
-in sourced current position.
-                              |
-                              v
-VERDICT
-national standards
-must preserve High Court control /
-local competence.
-                              |
-                              v
-                  BRANCH XXXII: PENDENCY / VACANCY
-VACANCIES
-reduce bench capacity.
-                              |
-                              v
-GOVERNMENT LITIGATION
-major case source.
-                              |
-                              v
-ADJOURNMENTS /
-PROCEDURE /
-VACANCIES /
-INFRASTRUCTURE
-compound delay.
-                              |
-                              v
-CASE MIX
-writ,
-appeal,
-supervision,
-administration
-compete for judicial time.
-                              |
-                              v
-DATA
-National Judicial Data Grid
-+ DoJ vacancy statements.
-                              |
-                              v
-CAUTION
-live figures require date
-and category.
-                              |
-                              v
-                  BRANCH XXXIII: eCOURTS PHASE III
-DIGITAL CASE RECORDS.
-                              |
-                              v
-E-FILING /
-E-PAYMENT.
-                              |
-                              v
-VIDEO /
-HYBRID HEARINGS.
-                              |
-                              v
-INTEROPERABILITY.
-                              |
-                              v
-DIGITISATION
-legacy files.
-                              |
-                              v
-CITIZEN SERVICES /
-TRANSLATION /
-ACCESS.
-                              |
-                              v
-RISK
-digital divide,
-cybersecurity,
-privacy,
-vendor dependence.
-                              |
-                              v
-PRINCIPLE
-technology should reduce
-procedural cost,
-not exclude litigants.
-                              |
-                              v
-                  BRANCH XXXIV: NJDG / DATA GOVERNANCE
-NATIONAL JUDICIAL DATA GRID
-case institution /
-disposal /
-pendency dashboards.
-                              |
-                              v
-USE
-management,
-research,
-transparency,
-bottleneck detection.
-                              |
-                              v
-LIMIT
-case count
-does not measure
-complexity /
-quality /
-access.
-                              |
-                              v
-DATA QUALITY
-classification /
-updating /
-duplicate records.
-                              |
-                              v
-PRIVACY
-personal information safeguards.
-                              |
-                              v
-                  BRANCH XXXV: GOVERNMENT LITIGATION
-UNION / STATE
-repeat litigants.
-                              |
-                              v
-CAUSE
-automatic appeals,
-poor coordination,
-delayed compliance,
-unclear responsibility.
-                              |
-                              v
-REFORM
-litigation policy,
-appeal screening,
-department accountability,
-mediation,
-compliance.
-                              |
-                              v
-BENEFIT
-reduce avoidable caseload
-without restricting meritorious appeal.
-                              |
-                              v
-                  BRANCH XXXVI: INDEPENDENCE / ACCOUNTABILITY
-INDEPENDENCE
-appointments,
-tenure,
-transfer safeguards,
-Article 226 / 235 control.
-                              |
-                              v
-ACCOUNTABILITY
-reasoned decisions,
-ethics,
-recusal,
-complaints,
-timeliness,
-administrative transparency.
-                              |
-                              v
-CAPACITY
-vacancies /
-infrastructure
-are independence issues
-when they impair adjudication.
-                              |
-                              v
-FALSE CHOICE
-accountability need not
-mean executive control.
-                              |
-                              v
-REFORM
-transparent collegium reasons,
-appointment calendar,
-independent complaints process,
-data-supported administration.
-                              |
-                              v
-                    CONSTITUTIONAL CASE / EXAMPLE BANK
-L. CHANDRA KUMAR 1997
-writ review basic structure.
-                              |
-                              v
-RADHEY SHYAM 2015
-Article 227 route.
-                              |
-                              v
-SANKALCHAND SHETH 1977
-transfer.
-                              |
-                              v
-REJANISH K.V. 2025
-district-judge recruitment.
-                              |
-                              v
-ALL INDIA JUDGES ASSOCIATION 2025
-civil-judge Bar practice.
-                              |
-                              v
-LOK ADALAT
-access / settlement.
-                              |
-                              v
-eCOURTS / NJDG
-capacity / transparency.
-                              |
-                              v
-                    SOURCE CRITICISM
-25 High Courts != one per State;
-sanctioned != working strength;
-collegium stage != constitutional wording;
-transfer != punitive by definition;
-Article 226 wider in purpose,
-not national reach;
-superintendence != appeal;
-alternative remedy != absolute bar;
-district judge appointment != High Court alone;
-Lok Adalat != arbitration;
-pendency number must be dated.
-                              |
-                              v
-                    MAJOR DEBATES
-WIDER WRIT POWER OR
-JUDICIAL OVERLOAD?
-discretion / alternative-remedy discipline.
-                              |
-                              v
-TRANSFER:
-ADMINISTRATION OR PRESSURE?
-public interest /
-transparent process.
-                              |
-                              v
-AIJS:
-UNIFORMITY OR FEDERAL EROSION?
-national merit
-+ local / HC control.
-                              |
-                              v
-LEGAL AID:
-DISPOSAL OR JUSTICE?
-quality / informed settlement.
-                              |
-                              v
-INDEPENDENCE:
-DESIGN OR CAPACITY?
-both.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-Articles 214-231 / 233-237;
-25 High Courts,
-some common;
-retirement 62;
-no distinguished-jurist option;
-oath before Governor;
-Article 226 FR + other purpose;
-Article 227 supervisory;
-Article 228 withdrawal;
-district judge by Governor
-after HC consultation;
-Article 235 HC control;
-death sentence needs HC confirmation;
-AIJS excludes below district judge.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT / APPLICATION MAINS:
-2024 GS-II Q2
-Lok Adalat
-versus Arbitration Tribunal,
-civil / criminal scope;
-access-to-justice application.
-                              |
-                              v
-2025 GS-II Q13
-collegium evolution /
-India-USA appointments;
-High Court appointment application,
-primary Supreme Court /
-comparative route.
-No Mains answer key.
-                              |
-                              v
-CROSS-OWNED PRELIMS:
-2019 GS-I Q81
-judicial / writ-related demand;
-2021 GS-I Q88
-court-jurisdiction demand;
-official historical keys unavailable;
-no answer letter invented.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-integrated hierarchy
--> Articles 214-231
--> appointment / qualification
--> tenure / transfer
--> Article 215
--> Article 226 / writs
--> alternative remedy
--> Articles 227 / 228
--> Articles 233-235
--> court hierarchy
--> legal aid
--> AIJS / eCourts.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-HIGH COURT:
-constitutional role
--> appointment / independence
--> Article 226 breadth
--> supervision / subordinate control
--> capacity problem
--> case
--> reform
--> accessible-independence verdict.
-                              |
-                              v
-SUBORDINATE JUDICIARY:
-Articles 233-235
--> recruitment
--> High Court control
--> current judgments
--> pendency / infrastructure
--> AIJS debate
--> federal-capacity conclusion.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-High Courts are the working constitutional courts of the federation because
-they combine broad writ jurisdiction with supervision and control of the
-subordinate judiciary. Their independence is protected in text but depends in
-practice on timely appointments, adequate infrastructure and transparent
-administration. Reform must preserve Article 226 and Article 235 while improving
-recruitment, case management, legal aid and digital access. National uniformity
-should strengthen, not displace, locally accountable judicial institutions.
++-- 1861 High Courts Act; Calcutta, Bombay and Madras opened in 1862; Allahabad in 1866.
++-- Articles 214-231 create and protect High Courts; Articles 233-237 protect subordinate courts.
++-- Integrated hierarchy: Supreme Court -> High Court -> district and subordinate courts.
+\-- Core line: territorial constitutional adjudication with national doctrinal unity.
 ```
+
+## 2. Establishment, composition and common courts
+
+```text
++-- Article 214: High Court for each State; Article 216: Chief Justice plus other judges.
++-- Article 231: Parliament may establish a common High Court for States and/or Union Territories.
++-- Seventh Amendment, 1956 reorganised the common-court provisions; Article 232 stands repealed.
+\-- Dated control: 25 High Courts on 7 September 2026; no one-State-one-court inference.
+```
+
+## 3. Appointments and collegium
+
+```text
++-- Article 217: President appoints after consultation with CJI and Governor; HC Chief Justice also for puisne judges.
++-- Second Judges Case (1993): judicial primacy; Third Judges Reference (1998): plural consultation.
++-- HC initiation: Chief Justice plus two senior colleagues; SC stage: CJI plus two senior-most judges.
+\-- 99th Amendment/NJAC Act invalidated in 2015; collegium remains operative, not textually named.
+```
+
+## 4. Qualifications, tenure and independence
+
+```text
++-- Article 217(2): citizen plus 10 years judicial office OR 10 years High Court advocacy.
++-- Articles 219-221: oath before Governor/appointee; retirement 62; restricted later practice; protected conditions.
++-- Article 218 applies Article 124(4)-(5) removal: proved misbehaviour/incapacity and parliamentary special majority.
+\-- Article 229(3) charges High Court expenses on the State Consolidated Fund; Article 360 is the salary exception.
+```
+
+## 5. Transfer and temporary judges
+
+```text
++-- Article 222: President transfers after CJI consultation; consent not an express constitutional condition.
++-- Sankalchand Sheth (1977) and Third Judges Reference require public-interest institutional safeguards.
++-- Article 223 Acting CJ; Article 224 additional judge up to two years or acting judge for absence.
+\-- Article 224A: retired HC judge sits on CJ request, prior presidential consent and retiree consent.
+```
+
+## 6. Record, jurisdiction and source firewall
+
+```text
++-- Article 215: court of record plus constitutional contempt power; 1971 Act regulates it.
++-- Article 225 preserves existing jurisdiction subject to Constitution and competent legislation.
++-- Original civil, appellate, election, admiralty and commercial powers are charter/statute-specific.
+\-- Never universalise one High Court's original jurisdiction, bench arrangement or pecuniary rule.
+```
+
+## 7. Article 226 writ jurisdiction
+
+```text
++-- Article 226 covers Fundamental Rights and any other legal purpose; Article 32 is a Fundamental Right for FR enforcement.
++-- Article 226(2): material cause of action wholly or partly in territory; residence alone is insufficient.
++-- Whirlpool (1998)/Radha Krishan (2021): alternative remedy is restraint, not jurisdictional extinction.
+\-- Five writs: habeas corpus, mandamus, prohibition, certiorari and quo warranto; PIL relaxes standing.
+```
+
+## 8. Review, tribunals and supervision
+
+```text
++-- L. Chandra Kumar (1997): Articles 226/227 review is Basic Structure; tribunals supplement courts.
++-- Madras Bar Association cases: tribunal independence, tenure and selection must meet judicial standards.
++-- Article 227: judicial/administrative superintendence, no routine appeal; Armed-Forces-law exception.
+\-- Article 228: withdraw substantial constitutional question; decide case or return after ruling.
+```
+
+## 9. Administration, territory and benches
+
+```text
++-- Article 229: Chief Justice controls staff; bounded Governor role; expenses charged.
++-- Article 230: Parliament extends/excludes High Court jurisdiction to/from a Union Territory.
++-- Article 231 common High Court; Article 241 separate UT court route.
+\-- Principal seat, permanent bench and circuit sitting depend on specific statutes/orders and are not synonyms.
+```
+
+## 10. Subordinate judiciary: Articles 233-237
+
+```text
++-- Article 233: Governor plus High Court consultation; direct route has seven-year advocacy and recommendation.
++-- Article 233A: Twentieth Amendment, 1966 validation of specified past appointments and judgments.
++-- Article 234: Governor rules after SPSC and High Court consultation; Article 235: High Court career control.
+\-- Articles 236-237 define judicial service and permit notified application to classes of magistrates; Article 50 separates.
+```
+
+## 11. Recruitment, access and specialised courts
+
+```text
++-- Chandra Mohan (1966): executive officers cannot bypass the judicial-service scheme.
++-- Ranga Muhammad (1967): transfer of serving district judges lies within Article 235 control.
++-- AIJA series, Malik Mazhar Sultan and 2025 rulings address conditions, calendars, practice and promotion.
+\-- NALSA/Lok Adalat, Gram Nyayalaya, Family and Commercial Courts remain statute-bound institutions.
+```
+
+## 12. Reform, traps and answer spine
+
+```text
++-- Article 312 can create AIJS only after Rajya Sabha resolution and law; Article 312(3) excludes posts below district judge.
++-- e-Courts Phase III: 2023-2027, Rs 7,210 crore; NJDG is dated administrative evidence, not adjudication.
++-- High Court Bar Association Allahabad (2024): no automatic six-month vacation of all interim stays.
+\-- Answer spine: source -> mechanism -> named authority -> consequence -> limitation -> targeted reform.
+```
+
+## Complete Article decoder
+
+```text
+214 -> High Court for each State, read with Article 231.
+215 -> court of record and contempt power.
+216 -> Chief Justice plus other appointed judges; no uniform constitutional strength.
+217 -> appointment consultations, qualifications, tenure and age-determination route.
+218 -> applies Article 124(4)-(5) removal provisions to High Court judges.
+219 -> Third Schedule oath before Governor or authorised person.
+220 -> former permanent judge may practise only before Supreme Court and other High Courts.
+221 -> salaries, allowances and protected service conditions.
+222 -> presidential transfer after CJI consultation; compensatory allowance may be provided.
+223 -> Acting Chief Justice during vacancy, absence or inability.
+224 -> additional judge for temporary business/arrears, maximum two years; acting judge for absence.
+224A -> retired High Court judge may sit with CJ request, prior President consent and own consent.
+225 -> existing jurisdiction/law administered continues, subject to Constitution and legislation.
+226 -> writs for Fundamental Rights and any other purpose; territorial and ex parte safeguards.
+227 -> judicial/administrative superintendence; Armed-Forces-law exception.
+228 -> withdrawal of case needing substantial constitutional interpretation.
+229 -> Chief Justice-led staff control, bounded Governor role and charged expenses.
+230 -> Parliament may extend/exclude High Court jurisdiction to/from a Union Territory.
+231 -> Parliament may establish a common High Court for States and/or Union Territories.
+232 -> repealed by the Constitution (Seventh Amendment) Act, 1956.
+233 -> district-judge appointment/posting/promotion: Governor with High Court consultation.
+233A -> validates specified past district-judge appointments and judgments.
+234 -> other judicial-service recruitment under Governor rules after SPSC and HC consultation.
+235 -> High Court control over district and subordinate courts.
+236 -> defines district judge and judicial service.
+237 -> Governor may apply Chapter VI to classes of magistrates by public notification.
+```
+
+## Amendment decoder
+
+- **Seventh Amendment (1956):** reorganised Articles 230-231 for Union Territory jurisdiction and common High Courts and repealed Article 232.
+- **Twentieth Amendment (1966):** inserted Article 233A to validate specified past district-judge appointments, postings, promotions, transfers and judgments.
+- **Forty-second Amendment (1976):** amended Article 312(1) to expressly include an All India Judicial Service and inserted Article 312(3), excluding posts below district judge.
+- **Forty-fourth Amendment (1978), section 30:** substituted the present Article 226(3) ex parte interim-order mechanism and renumbered the preserved Supreme Court clause as Article 226(4), effective 1 August 1979.
+
+## High-yield case and institution decoder
+
+- **Second Judges Case (1993):** converted consultation into judicial primacy and created the collegium foundation.
+- **Third Judges Presidential Reference (1998):** required plural collegium consultation and clarified appointment/transfer procedure.
+- **NJAC judgment (2015):** invalidated the 99th Amendment and NJAC Act design for damaging judicial independence; it did not immunise the collegium from reform.
+- **L. Chandra Kumar (1997):** preserved High Court review over tribunals under Articles 226/227 as part of the Basic Structure.
+- **Chandra Mohan (1966):** protected the judicial-service route from executive-service entry and linked it to Article 50 separation.
+- **State of Assam v. Ranga Muhammad (1967):** placed transfer of serving district judges within Article 235 High Court control.
+- **All India Judges Association series:** developed national service-condition, promotion and professionalisation standards; the 2025 ruling restored prospective three-year Bar practice for Civil Judge entry.
+- **Malik Mazhar Sultan (2006 onward):** prescribed recurring recruitment timelines for subordinate-judiciary vacancies.
+- **Madras Bar Association cases:** require tribunal design to respect judicial independence, tenure and selection safeguards.
+- **High Court Bar Association Allahabad (2024):** rejected universal automatic six-month vacation of interim stays; continuation or vacation requires judicial control.
+- **e-Committee / e-Courts:** technology and policy architecture for digitisation and court-process modernisation.
+- **NALSA:** statutory legal-services network implementing Article 39A through legal aid and Lok Adalats.
+
+## Prelims traps
+
+```text
+214 default != one court per State        | 231 permits common High Courts
+226 wider in purpose != unlimited territory | cause of action controls
+alternative remedy != jurisdictional extinction | recognised exceptions survive
+227 supervision != routine appeal          | 228 constitutional withdrawal is separate
+233 appointment != 235 career control       | Governor and High Court roles differ
+AIJS enabled != AIJS created                | no post below district judge
+special court name != unlimited jurisdiction | statute and notification control
+```
+
+## Mains answer spine
+
+```text
+Define the High Court's constitutional role
+        -> decode the relevant Article/statute
+        -> explain the institutional mechanism
+        -> cite one exact case/current source
+        -> analyse access, independence or federalism
+        -> state the jurisdictional/implementation limit
+        -> give a targeted reform and qualified conclusion
+```
+
+**Qualified conclusion:** High Courts preserve constitutional legality locally and subordinate-court independence institutionally; their effectiveness depends on lawful appointments, protected control, clear jurisdiction and accessible capacity.

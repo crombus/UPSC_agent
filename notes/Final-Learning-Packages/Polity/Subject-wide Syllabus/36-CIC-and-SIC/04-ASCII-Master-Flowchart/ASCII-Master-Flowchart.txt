@@ -1,144 +1,114 @@
-ASCII MASTER FLOW — PANEL 1/12: Constitutional right, RTI identity and public-authority test
-ARTICLE 19(1)(a) -> constitutional right to know.
-RTI ACT, 2005 -> statutory access and enforcement machinery.
+POLITY TOPIC 36 - CIC AND SIC - ASCII MASTER FLOW DIAGRAM
 
-INFORMATION
-existing material held by or controlled by a public authority, including accessible
-private-body material.
+[1/12] IDENTITY AND CHRONOLOGY
+Article 19(1)(a) right-to-know doctrine
+  -> RTI Act assent: 15 Jun 2005
+  -> listed institutional provisions immediate; full working provisions: 12 Oct 2005
+  -> statutory CIC/SIC, not constitutional courts
+  -> 2019 Amendment + Rules recast service conditions
+  -> 13 Nov 2025 DPDP s.44(3) substitutes RTI s.8(1)(j)
 
-PUBLIC AUTHORITY: Constitution | law | notification/order | ownership/control | substantial
-finance.
+[2/12] DEFINITIONS AND COVERAGE
+s.2(f) information = material in any form + private-body information legally accessible
+s.2(j) right = inspect | notes/extracts | certified copies | certified samples | electronic access
+s.2(h) public authority:
+  Constitution | parliamentary/State law | notification/order
+  + owned | substantially controlled | substantially financed
+  + substantially financed NGO, directly or indirectly
+Limits: existing/controlled information only; no fresh opinion, inference or record
+Cases: CBSE (held records); Thalappalam (substantial control); DAV College Trust (material finance)
 
-LIMIT
-RTI gives covered records, not compelled creation of answers or opinions.
-MUST REMEMBER: Keep the constitutional Article 19(1)(a) right-to-know root distinct from the
-  statutory CIC/SIC machinery created by the RTI Act, 2005.
+[3/12] PREVENTION AND REQUEST
+s.4 records: catalogue/index -> computerise where appropriate -> proactive publication
+  -> policy facts + reasons -> maximum suo motu disclosure
+s.5 PIO decides; APIO receives/forwards (+5 days); assisting officer deemed PIO for contravention
+s.6 no reasons; assistance for oral request; transfer within 5 days
+s.7: 30 days | life/liberty 48 hours | silence deemed refusal | delayed supply free
 
-ASCII MASTER FLOW — PANEL 2/12: Proactive disclosure and the request route
-SECTION 4
-record management + organisation, powers, norms, budgets and decision reasons
--> maximum proactive disclosure -> minimum resort to applications.
+[4/12] ROLE FIREWALL
+PIO -> primary access decision
+FAA -> senior departmental first appeal
+CIC/SIC -> s.18 inquiry + s.19 second appeal + s.20 consequences
+High Court/Supreme Court -> constitutional judicial review
+NONE may: create records | grant underlying service | prosecute corruption | rewrite exemptions
+            | exercise general contempt jurisdiction
 
-SECTIONS 5-7
-PIO/APIO -> request without reasons -> ordinary 30 days | life/liberty 48 hours.
-Transfer under section 6(3): as soon as practicable, not later than five days.
+[5/12] EXEMPTION AND PARTIAL DISCLOSURE
+s.8(1) enumerated protected interests
+  -> s.8(2) public-interest-over-harm override, notwithstanding OSA and s.8(1)
+  -> s.8(3) 20-year disclosure; clauses (a), (c), (i) continue
+s.9 non-State copyright
+s.10 sever non-exempt part
+s.11 third-party route: notice 5 days -> representation 10 -> decision 40
+       procedure, not exemption; objection, not veto
+Current s.8(1)(j): "information which relates to personal information"
 
-TRAP
-additional clocks apply to APIO and third-party routes.
+[6/12] CIC - SECTIONS 12 TO 14
+Chief Information Commissioner + up to 10 Information Commissioners
+President <- recommendation: PM (chair) + Lok Sabha LoP/deemed leader
+                             + Union Cabinet Minister nominated by PM
+eminent public life: law | science-tech | social service | management
+                     journalism | mass media | administration-governance
+bars: legislature | office of profit | party | business | profession
+removal: President; proved misbehaviour/incapacity -> Supreme Court inquiry
 
-ASCII MASTER FLOW — PANEL 3/12: Four distinct routes: request, complaint and two appeals
-REQUEST -> PIO decision.
-FIRST APPEAL -> senior departmental officer.
-SECOND APPEAL -> CIC/SIC; PIO bears denial burden; decision binding under section 19(7).
-SECTION 18 COMPLAINT -> access-system failures and inquiry powers.
+[7/12] SIC - SECTIONS 15 TO 17
+State Chief Information Commissioner + up to 10 State Information Commissioners
+Governor <- recommendation: CM (chair) + Assembly LoP/deemed leader
+                            + State Cabinet Minister nominated by CM
+same expertise/conflict bars
+removal: Governor; proved misbehaviour/incapacity -> Supreme Court inquiry
+jurisdiction follows public authority, not applicant residence
 
-CHIEF INFORMATION COMMISSIONER V. STATE OF MANIPUR (2011)
-complaint is not an automatic substitute for the appellate disclosure remedy.
+[8/12] 2019 ACT-RULES DISTINCTION
+Pre-2019 Act: fixed 5 years + Election-Commission-linked salary/status
+2019 Amendment: term/pay/allowances/service conditions delegated to Central prescription
+2019 Rules:
+  term = 3 years from entry, subject to statutory age 65
+  pay = Central Chief Rs 2,50,000; Central IC/State Chief/State IC Rs 2,25,000
+Act retains: age ceiling | appointment | reappointment limits | protected removal
+IC may become Chief by fresh process; aggregate IC+Chief service <=5 years
 
-ASCII MASTER FLOW — PANEL 4/12: CIC and SIC composition and appointment
-CIC: Chief + up to ten Information Commissioners.
-President appoints after PM + Lok Sabha LoP + nominated Union Cabinet Minister committee.
+[9/12] COMPLAINT VERSUS APPEAL
+s.18 complaint: no PIO/application blocked/refusal/delay/unreasonable fee/
+                incomplete-misleading-false information/other access matter
+  -> reasonable-grounds inquiry -> summons/oath/affidavit/records/inspection
+  -> possible s.20 consequence
+  X no automatic disclosure order
+s.19: first appeal 30 days -> senior officer
+      second appeal 90 days -> CIC/SIC
+      PIO bears denial burden; decision binding
+Case: Chief Information Commissioner v State of Manipur (2011)
 
-SIC: State Chief + up to ten State Information Commissioners.
-Governor appoints after CM + Assembly LoP + nominated State Cabinet Minister committee.
+[10/12] REMEDIES AND PENALTY
+s.19(8): disclosure + PIO appointment + publication + record reform + training + reporting
+         + compensation for applicant loss/detriment + penalty process
+s.20(1): responsible PIO, Rs 250/day, max Rs 25,000
+  triggers without reasonable cause: refusal | delay | mala fide denial |
+  knowingly incorrect/incomplete/misleading | destruction | obstruction
+  hearing + PIO burden to prove reasonable/diligent conduct
+s.20(2): persistent default -> disciplinary recommendation under service rules
 
-ELIGIBILITY
-eminence across listed fields; conflict disqualifications apply.
+[11/12] OVERRIDE, SECURITY, REPORTING
+s.22 RTI overrides inconsistent OSA/other law, but RTI's own limits remain
+s.23 ordinary proceeding bar; Articles 226/32 review survives
+s.24 listed intelligence/security organisations:
+  general exclusion
+  corruption allegation -> Act applies
+  human-rights allegation -> CIC/SIC approval + 45 days
+s.25 annual report -> Government -> Parliament/State Legislature
+s.26 awareness + disadvantaged-community outreach + PIO training + updated guide
 
-CURRENT CENTRAL ROSTER: 5 SEPTEMBER 2026
-Chief: Raj Kumar Goyal.
-ICs: Anandi Ramalingam | Vinod Kumar Tiwari | Surendra Singh Meena
-| Ashutosh Chaturvedi | Swagat Das | Sudha Rani Relangi | P. R. Ramesh
-| Khushwant Singh Sethi | Jaya Varma Sinha | Sanjeev Kumar Jindal.
-SIC incumbency is State-specific; never infer one national State roster.
-
-ASCII MASTER FLOW — PANEL 5/12: Tenure, service conditions and removal after 2019
-2019 AMENDMENT
-Act-fixed term and Election-Commission pay linkage removed
--> Central Government prescribes tenure, pay and service conditions.
-2019 SERVICE-CONDITION RULES: three-year term; age ceiling remains 65.
-
-REMOVAL
-CIC: President | SIC: Governor.
-Proved misbehaviour/incapacity -> Supreme Court inquiry/report; direct statutory grounds
-remain separate.
-
-ASCII MASTER FLOW — PANEL 6/12: Section 18 inquiry and evidence powers
-COMPLAINT TRIGGERS
-no PIO | inability to apply | refusal | delay | unreasonable fee | incomplete/false/misleading
-information.
-
-INQUIRY POWERS
-summons | oath | documents | affidavits | public records | commissions.
-Commission may inspect covered records notwithstanding another objection.
-
-LIMIT
-evidence powers do not themselves supply the section 19 disclosure remedy.
-CLOSE DISTINCTION: Separate requests, first appeals, second appeals and section 18 complaints;
-  a Commission cannot be treated as a record-creation agency.
-
-ASCII MASTER FLOW — PANEL 7/12: Appeal, compliance, compensation and penalty
-SECTION 19 APPEAL
-binding decision + disclosure/compliance directions + compensation by public authority.
-SECTION 20
-personal PIO penalty: Rs 250 per day, maximum Rs 25,000, after hearing and statutory grounds.
-Disciplinary recommendation remains distinct.
-
-BOUNDARY
-binding does not exclude Article 226/32 judicial review.
-
-ASCII MASTER FLOW — PANEL 8/12: Exemptions, override, severability and third-party process
-SECTION 8(1): enumerated protected interests.
-SECTION 8(2): public-interest override over Official Secrets Act and section 8(1) harms.
-SECTION 8(3): twenty-year rule with specified exceptions.
-SECTION 9: copyright limit.
-SECTION 10: sever non-exempt material.
-SECTION 11: consultation, not independent exemption or third-party veto.
-
-ASCII MASTER FLOW — PANEL 9/12: Security organisations and statutory priority
-SECTION 24
-Second Schedule intelligence/security bodies generally exempt.
-PROVISOS: corruption and human-rights allegations remain routes; HR disclosure needs CIC
-approval and uses special time.
-SECTION 22: RTI Act overrides inconsistent secrecy law.
-
-TRAP
-security exemption is not absolute immunity from corruption or human-rights information.
-
-ASCII MASTER FLOW — PANEL 10/12: Personal information after the DPDP substitution
-DPDP ACT section 44(3), effective 13 November 2025
--> section 8(1)(j): information which relates to personal information.
-Historical clause-specific tests are no longer current text.
-
-SURVIVING ANALYSIS
-section 8(2) | severability | other statutes | Article 19(1)(a) and privacy proportionality.
-
-LIMIT
-do not invent a stay, Constitution Bench reference or final judgment.
-
-CURRENT-LAW CONTROL: 5 SEPTEMBER 2026
-Section 44(3) substitution has operated since 13 November 2025.
-The shorter clause is in force; section 8(2), severability, appeal
-and judicial review survive. No final constitutional merits ruling is asserted.
-
-ASCII MASTER FLOW — PANEL 11/12: Case law and public-authority boundaries
-STATE OF U.P. V. RAJ NARAIN (1975): right to know public acts.
-S.P. GUPTA V. UNION OF INDIA (1981): open government.
-CBSE v. Aditya Bandopadhyay (2011): existing records, not compelled new opinions.
-CHIEF INFORMATION COMMISSIONER V. STATE OF MANIPUR (2011): complaint route != disclosure appeal.
-RBI v. Jayantilal N. Mistry (2015): no blanket regulatory fiduciary shield.
-SUBHASH CHANDRA AGARWAL (2019): CJI office is public authority, subject to exemptions/balancing.
-ANJALI BHARDWAJ V. UNION OF INDIA (2019): timely transparent appointments.
-
-Political-party CIC ruling is not a final Supreme Court holding.
-
-ASCII MASTER FLOW — PANEL 12/12: Independence, reform, PYQ and qualified verdict
-STRENGTHS: binding appeal | compliance directions | compensation | personal penalty.
-LIMITS: vacancies | backlog | weak records | underused penalties | service-condition dependence.
-REFORM: fixed transparent appointments | protected conditions | digital interoperability |
-proactive disclosure | reasoned penalty practice.
-
-PYQ 2020: amendment and autonomy, 10 marks, 150 words.
-VERDICT: legal teeth require independent, staffed and accessible commissions.
-LEGAL/SOURCE LIMIT: The 13 November 2025 DPDP substitution is operative but section 8(2),
-  section 10 and judicial review remain; Raj Kumar Goyal heads the CIC.
+[12/12] CASES, PERFORMANCE AND ANSWER VERDICT
+CBSE (2011): evaluated answer books; no record creation
+Girish (2012): personal records under old clause; date-control after 2025
+Jayantilal Mistry (2015): no blanket RBI fiduciary secrecy
+Subhash Chandra Agarwal (2019): CJI office public authority; balanced disclosure
+ADR electoral bonds (2024): voter political-funding information under Art.19(1)(a);
+                            constitutional holding, not new CIC jurisdiction
+Performance chain:
+advance appointments -> adequate benches/staff -> good records -> reasoned FAA/Commission orders
+-> penalty where justified -> compliance tracking -> inclusive offline/digital access
+QUALIFIED VERDICT:
+binding legal teeth exist; autonomy, capacity, records, privacy balancing and access design
+determine whether statutory transparency becomes timely democratic accountability.

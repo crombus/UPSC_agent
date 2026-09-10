@@ -1,98 +1,99 @@
-ASCII MASTER FLOW — PANEL 1/12: Article 39A and the access-to-justice chain
-ART 39A -> equal-opportunity justice + free legal aid.
-Hussainara Khatoon (1979) -> Art 21 fair procedure, legal assistance and speedy justice.
-1987 ACT -> institutions + eligibility + Lok Adalats.
+ASCII MASTER FLOW - PANEL 1/12: Constitutional starting point
+ARTICLE 39A -> equal-opportunity justice + free legal aid against economic/other disability.
+42ND AMENDMENT ACT, 1976 -> inserted Article 39A in Part IV.
+ARTICLE 21 -> reasonable, fair and just procedure; speedy trial and qualifying legal aid.
+HUSSAINARA (1979) -> speedy trial + legal aid; State cannot plead inability.
+KHATRI II (1981) -> duty from first production/remand; judge must inform.
+SUK DAS (1986) -> uninformed, unaided indigent accused: conviction/trial vitiated.
+ANITA KUSHWAHA (2016) -> effective, accessible, timely and affordable justice.
 
-VERDICT: Directive Principle becomes operational through law and remedies.
-MUST REMEMBER: Keep ordinary Lok Adalat compromise, Permanent Lok Adalat hybrid power,
-  mediation, arbitration, Gram Nyayalaya and ordinary adjudication distinct.
+ASCII MASTER FLOW - PANEL 2/12: Legal-services ladder and meaning
+1987 ACT, s 2(1)(c) -> case/proceeding assistance + legal advice.
+NALSA (ss 3-4) -> national policy, schemes, funds, literacy, research, monitoring.
+SCLSC (s 3A) -> Supreme Court legal services.
+SLSA (ss 6-7) -> State implementation, services, Lok Adalats.
+HCLSC (s 8A) -> High Court legal services.
+DLSA (ss 9-10) -> district programmes + Taluk coordination.
+TALUK COMMITTEE (ss 11A-11B) -> local services + Lok Adalats.
 
-ASCII MASTER FLOW — PANEL 2/12: Legal-services authority ladder
-NALSA -> national policy and schemes.
-SUPREME COURT COMMITTEE -> Supreme Court matters.
-SLSA + HIGH COURT COMMITTEE -> State/High Court delivery.
-DLSA + TLSC -> district/taluk implementation.
+ASCII MASTER FLOW - PANEL 3/12: Eligibility and entitlement
+SECTION 12 ALTERNATIVE GATES:
+SC/ST | trafficking/begar victim | woman/child | disability |
+mass disaster/ethnic violence/caste atrocity/flood/drought/earthquake/industrial disaster |
+industrial workman | specified custody | income below prescribed limit.
+SECTION 13 -> authority must find a prima facie case to prosecute or defend.
+INCOME AFFIDAVIT -> ordinarily sufficient unless reason exists to disbelieve.
+TRAP -> eligibility is not only a national income test.
 
-TRAP: statutory SLSA, not SALSA; bodies are not constitutional courts.
+ASCII MASTER FLOW - PANEL 4/12: Ordinary Lok Adalat jurisdiction
+SECTION 19 -> statutory sitting organised by listed authorities/committees.
+PENDING CASE or PRE-LITIGATION MATTER -> must fall within relevant court jurisdiction.
+NON-COMPOUNDABLE OFFENCE -> excluded.
+SECTION 20 REFERRAL -> agreement/application/court satisfaction + required hearing.
+ROLE -> justice/equity/fair-play guided conciliation; no trial on merits.
 
-ASCII MASTER FLOW — PANEL 3/12: Section 12 eligibility and quality gate
-STATUS ROUTES -> SC/ST, women/children, disability, custody, workmen and listed vulnerability.
-INCOME ROUTE -> prescribed ceiling.
-SECTION 13 -> prima facie case.
+ASCII MASTER FLOW - PANEL 5/12: Ordinary award and failure
+GENUINE COMPROMISE -> s 21 award -> deemed civil-court decree/order.
+EFFECT -> final and binding; no statutory appeal; referred court fee refundable.
+NO COMPROMISE -> no award and no merits decision.
+PENDING CASE -> record returns; court continues from pre-referral stage.
+PRE-LITIGATION MATTER -> parties advised to seek ordinary court remedy.
+JALOUR SINGH (2008) -> ordinary Lok Adalat is conciliatory, not adjudicatory.
+NARROW ARTICLES 226/227 ROUTE -> consent, fraud, jurisdiction or comparable illegality.
 
-QUALITY TEST: early advice + competent representation + accessible delivery.
+ASCII MASTER FLOW - PANEL 6/12: National Lok Adalat
+NATIONAL LOK ADALAT -> coordinated statutory drive across jurisdictions.
+EACH BENCH -> ordinary Sections 19-21 power.
+NATIONAL SCALE != new constitutional court or separate appellate tier.
+MEGA/MOBILE/CONTINUOUS/E-LOK ADALAT -> administrative mode, not expanded power.
 
-ASCII MASTER FLOW — PANEL 4/12: Ordinary Lok Adalat jurisdiction
-PENDING CASE or PRE-LITIGATION DISPUTE within court jurisdiction.
-EXCLUDED -> non-compoundable offence.
-PROCESS -> referral/application -> conciliation -> compromise.
+ASCII MASTER FLOW - PANEL 7/12: PLA jurisdiction
+CHAPTER VI-A, ss 22A-22E -> standing public-utility pre-litigation forum.
+PUBLIC UTILITY -> transport; postal/telegraph/telephone; power/light/water;
+sanitation; hospital/dispensary; insurance; additionally notified service.
+APPLICATION -> before dispute reaches court; same-dispute court route barred thereafter.
+EXCLUSIONS -> non-compoundable offence + current notified pecuniary framework.
+NO UNSOURCED FROZEN RUPEE CEILING.
 
-State of Punjab v. Jalour Singh (2008): no merits adjudication.
+ASCII MASTER FLOW - PANEL 8/12: PLA sequence and effect
+STATEMENTS/DOCUMENTS -> independent and impartial conciliation.
+ELEMENTS OF SETTLEMENT -> PLA formulates possible terms -> party observations.
+AGREEMENT -> signed settlement award.
+NO AGREEMENT -> if dispute relates to no offence, s 22C(8) merits decision.
+s 22D -> natural justice/objectivity/fair play/equity; not bound by CPC/Evidence Act.
+s 22E -> majority award; final/binding; deemed decree; executable.
+CANARA BANK (2022) -> do not skip statutory conciliation before adjudication.
 
-ASCII MASTER FLOW — PANEL 5/12: Ordinary award, failure and review
-SETTLEMENT -> award deemed civil-court decree -> final/binding -> no statutory appeal.
-NO SETTLEMENT -> pending case returns / ordinary remedy continues.
-WRIT CONTROL -> fraud, no genuine consent, jurisdiction or natural-justice defect.
+ASCII MASTER FLOW - PANEL 9/12: Ordinary versus Permanent
+ORDINARY -> pending/pre-litigation | broad court-linked subject | consent-only outcome.
+PLA -> pre-litigation only | defined public utility | conciliation then bounded merits power.
+BOTH -> statutory finality + deemed decree + constitutional legality.
+INTERGLOBE (2011) -> keep the two mechanisms distinct.
+BAR COUNCIL (2012) -> Chapter VI-A design upheld.
 
-FINALITY != power to compel compromise.
+ASCII MASTER FLOW - PANEL 10/12: Family Courts
+1984 ACT s 3 -> State establishes after High Court consultation.
+s 7 -> marriage/status/property/injunction/legitimacy/maintenance/guardianship/custody/access.
+s 9 -> settlement endeavour; failure permits adjudication.
+ss 10-17 -> adapted procedure, in camera rule, no lawyer as of right, useful evidence, reasons.
+s 19 -> High Court appeal from qualifying non-interlocutory orders; consent and maintenance
+category exclusions plus specified revision route.
+FAMILY COURT != compromise-only Lok Adalat.
 
-ASCII MASTER FLOW — PANEL 6/12: Permanent Lok Adalat jurisdiction
-CHAPTER VI-A -> standing body for PUBLIC UTILITY SERVICES.
-STAGE -> pre-litigation only.
-BAR -> non-compoundable offence + notified pecuniary boundary.
+ASCII MASTER FLOW - PANEL 11/12: Gram Nyayalayas and adjacent forums
+2008 ACT s 3 -> State MAY establish after High Court consultation.
+s 9 -> mobile court; ss 11-14 -> scheduled/notified civil and criminal jurisdiction.
+s 26 -> civil conciliation; failure -> judicial decision.
+ss 33-34 -> Session/District appeal routes with statutory exclusions.
+GRAM NYAYALAYA != constitutionally mandatory Panchayat court.
+FAST TRACK COURT -> capacity scheme; SPECIAL COURT -> parent statute/notification.
+TRIBUNALS -> Topic 46; MEDIATION -> separate statutory consensual route.
 
-InterGlobe Aviation v. N. Satchidanand (2011): ordinary and Permanent Lok Adalats differ.
-CLOSE DISTINCTION: Test each forum by statute, stage, subject matter, consent, merits power,
-  award effect, appeal or review and natural-justice safeguards.
-
-ASCII MASTER FLOW — PANEL 7/12: PLA conciliation-to-adjudication sequence
-APPLICATION -> conciliation papers -> settlement terms -> agreement award.
-IF FAILURE -> eligible merits decision.
-Bar Council of India v. Union of India (2012) -> design upheld.
-Canara Bank v. G.S. Jayarama (2022) -> follow statutory conciliation sequence.
-
-ASCII MASTER FLOW — PANEL 8/12: Gram Nyayalaya as a statutory court
-2008 ACT -> State establishment after High Court consultation.
-NYAYADHIKARI -> JMFC qualification.
-MOBILE FIRST INSTANCE -> scheduled civil/criminal cases + conciliation.
-APPEAL -> District Court / Sessions Court.
-
-TRAP: not Panchayat, khap or Lok Adalat.
-
-ASCII MASTER FLOW — PANEL 9/12: Family and specialist-court distinctions
-FAMILY COURT -> adjudication + conciliation + privacy + High Court appeal.
-FAST TRACK -> capacity scheme.
-SPECIAL COURT -> parent-statute jurisdiction.
-COMMERCIAL COURT -> statutory civil court and case management.
-EVENING COURT -> administrative sitting format.
-
-ASCII MASTER FLOW — PANEL 10/12: Mediation, arbitration and court firewall
-Afcons Infrastructure v. Cherian Varkey Construction (2010) -> structured ADR referral.
-MEDIATION -> party-made settlement.
-ARBITRATION -> private adjudication and statutory award challenge.
-ORDINARY LOK ADALAT -> compromise award.
-PLA -> limited post-conciliation adjudication.
-
-CURRENT STATUS: 5 SEPTEMBER 2026
-S.O. 4384(E) commenced only specified Mediation Act sections.
-S.O. 4781(E) established the Mediation Council of India at Delhi on
-27 August 2026; this did not commence every remaining provision.
-
-ASCII MASTER FLOW — PANEL 11/12: Fairness, data and digital access
-Patil Automation v. Rakheja Engineers (2022)
--> mandatory commercial pre-institution mediation absent an urgent-relief exception.
-CONSENT QUALITY -> advice + no coercion + understood terms.
-DIGITAL -> identity, privacy, language, disability and offline option.
-CURRENT DATA -> date every count, ceiling and notified service.
-
-ASCII MASTER FLOW — PANEL 12/12: UPSC forum-selection answer spine
-1 LEGAL SOURCE.
-2 SUBJECT / STAGE / COMPOUNDABILITY.
-3 CONSENT OR MERITS POWER.
-4 AWARD / APPEAL / REVIEW.
-5 ACCESS AND POWER-ASYMMETRY SAFEGUARDS.
-
-VERDICT: affordable justice must remain competent and voluntary where required.
-Illegality remains reviewable.
-LEGAL/SOURCE LIMIT: The Mediation Act remains only partly commenced; S.O. 4781(E) established
-  the Mediation Council of India at Delhi on 27 August 2026.
+ASCII MASTER FLOW - PANEL 12/12: Examiner answer route
+STEP 1 CONSTITUTION -> Article 39A + Article 21 proposition.
+STEP 2 SOURCE -> exact Act, Chapter and Section.
+STEP 3 FORUM -> authority, Lok Adalat, PLA, Family Court or Gram Nyayalaya.
+STEP 4 FILTER -> stage + subject + consent + merits power.
+STEP 5 EFFECT -> settlement/judgment/award + appeal/review.
+STEP 6 EVALUATE -> affordability, distance, delay, counsel quality, voluntariness, staffing.
+QUALIFIED VERDICT -> plural forums advance access only when jurisdiction and fairness survive.

@@ -1,131 +1,155 @@
-ASCII MASTER FLOW — PANEL 1/12: Four-dimensional constitutional map
-CENTRE-STATE AND INTER-STATE RELATIONS
-  +-- LEGISLATIVE: Articles 245-255 and Seventh Schedule
-  +-- ADMINISTRATIVE: Articles 256-263
-  +-- FINANCIAL: Articles 265-293 plus 246A / 269A / 279A
-  +-- INTER-STATE / MARKET: Articles 261-263 and 301-307
+ASCII MASTER FLOW - PANEL 1/12: Four-dimensional constitutional map
+```ascii-master
+CENTRAL QUESTION: HOW CAN UNION CAPACITY COEXIST WITH STATE AUTONOMY?
+                               |
+     +-------------+-----------+-----------+----------------+
+     |             |                       |                |
+ LEGISLATIVE   ADMINISTRATIVE           FINANCIAL       INTER-STATE
+ 245-255       256-263 + 312          266-293          131, 261-263
+ competence    implementation         tax/grants       disputes/recognition
+ conflict      direction/delegation   borrowing/GST    common market
+                               |
+             DIAGNOSE CHANNEL -> ARTICLE -> INSTITUTION -> LIMIT
+```
 
-METHOD: identify field -> constitutional route -> check -> remedy.
-MUST REMEMBER: Keep four owned dimensions separate: legislative relations under Articles
-  245-255, administrative relations under Articles 256-263 and 355/365, financial relations
-  under Articles 268-293, and inter-State coordination under Articles 261-263 and 301-307.
+ASCII MASTER FLOW - PANEL 2/12: Territory, Lists, GST and residue
+```ascii-master
+ARTICLE 245: Parliament whole/part of India; extra-territorial operation protected
+  -> State extra-State effect only with real and pertinent territorial nexus
+ARTICLE 246 + SEVENTH SCHEDULE
+  -> List I Parliament | List II States | List III both
+  -> standard examination counts 100 / 61 / 52
+ARTICLE 246A: simultaneous GST power; Parliament exclusive for inter-State supplies
+ARTICLE 247: additional courts for Union-field laws
+ARTICLE 248 + ENTRY 97: genuine residue, including tax, belongs to Parliament
+CONTROL: test Lists II and III before calling a matter residuary.
+```
 
-ASCII MASTER FLOW — PANEL 2/12: Legislative competence and State-field entry
-COMPETENCE FIRST
-Article 245 reach -> Article 246 lists -> Article 248 residue
-  +-- Union 100 | State 61 | Concurrent 52
-  +-- Article 246A: special GST competence
+ASCII MASTER FLOW - PANEL 3/12: Parliament in the State field
+```ascii-master
+NORMAL RULE: LIST II -> STATES
+  249: Rajya Sabha 2/3 present and voting; <=1 year; renewable; 6-month tail
+  250: National Emergency; 6-month tail
+  252: 2+ State resolutions; later adoption; Parliament alone amends/repeals
+  253: treaty/agreement/convention/international decision
+  356-357: President's Rule; law continues until altered/repealed/amended
+ARTICLE 251: 249/250 Union law prevails only while effective and to inconsistency extent
+TRAP: five doors, five triggers; no undefined general Union override.
+```
 
-PARLIAMENT IN STATE FIELD
-249 Rajya Sabha | 250 Emergency | 252 State request | 253 treaty | 356 breakdown
-Each route has a separate trigger, duration and amendment consequence.
+ASCII MASTER FLOW - PANEL 4/12: Doctrines, repugnancy and State Bills
+```ascii-master
+TRUE CHARACTER -> FIELD -> HARMONIOUS OPERATION -> CONFLICT
+  pith and substance | territorial nexus | incidental encroachment
+  colourable legislation | delegated details within parent Act
+ARTICLE 254: real Concurrent-field repugnancy
+  254(1): Union priority
+  254(2): President-assented State law may prevail in that State
+           -> Parliament can later override
+ARTICLES 200/201: Governor/President stages | 304(b): previous sanction
+ARTICLE 255: limited procedural cure, never a cure for lack of competence.
+```
 
-ASCII MASTER FLOW — PANEL 3/12: Doctrines, repugnancy and State Bills
-TRUE NATURE -> ENTRY -> RECONCILIATION -> CONFLICT
-pith and substance -> harmonious construction -> Article 254 repugnancy
-*M. Karunanidhi* (1979): real, direct and irreconcilable Concurrent-field conflict
+ASCII MASTER FLOW - PANEL 5/12: Administrative cooperation and agencies
+```ascii-master
+256: State compliance with parliamentary/applicable law + Union directions
+257: no impediment; communications and railway-protection directions + cost rules
+258(1): Union function -> State with consent
+258(2): parliamentary law may confer duties; cost adjustment
+258A: State function -> Union with consent
+259 omitted | 260 agreed functions relating to territory outside India
+312: Rajya Sabha trigger -> AIS common to Union and States
+DSPE section 6: ordinary CBI State consent; Articles 32/226 court exception.
+```
 
-STATE BILL CONTROLS
-prior presidential sanction != Governor reservation under Article 200
-Article 201 presidential consideration; no automatic assent after State reconsideration.
+ASCII MASTER FLOW - PANEL 6/12: Duty, breakdown and judicial status
+```ascii-master
+ARTICLE 355 DUTY
+  -> protect State; ensure constitutional government
+ARTICLE 365
+  -> non-compliance may support an inference; not automatic President's Rule
+ARTICLE 356
+  -> exceptional remedy; parliamentary control; BOMMAI review/floor test
+ARTICLE 357
+  -> exercise/delegation of State legislative power; continuation rule
+2024 WEST BENGAL CBI SUIT
+  -> preliminary objection rejected; merits expressly left open
+BOUNDARY: detailed Emergency procedure belongs to Topic 14.
+```
 
-ASCII MASTER FLOW — PANEL 4/12: Administrative cooperation and central agencies
-ARTICLES 256-257
-State compliance + no impediment -> bounded Union directions
-ARTICLES 258 / 258A -> reciprocal entrustment
-ARTICLE 312 -> Rajya Sabha route for IAS / IPS / Indian Forest Service
+ASCII MASTER FLOW - PANEL 7/12: Financial Constitution
+```ascii-master
+266-267: separate Consolidated and Contingency Funds
+268: Union levy / State collection-appropriation
+269: Union levy-collection / assignment | 269A: inter-State GST apportionment
+270: divisible-pool distribution | 271: Union surcharge; GST excluded
+273 historical temporary grant | 274 Presidential recommendation
+275 constitutional grants | 276 profession tax <= Rs 2,500
+279 net proceeds/CAG | 280-281 Finance Commission/laying | 282 public-purpose grants
+285/289 qualified immunities | 292/293 borrowing.
+```
 
-CBI / DSPE ACT
-State consent for ordinary operation; Articles 32/226 court orders remain possible
-2024 West Bengal ruling: Article 131 suit maintainable at preliminary stage, merits open.
+ASCII MASTER FLOW - PANEL 8/12: Fiscal evolution, imbalance and borrowing
+```ascii-master
+VERTICAL: Union-State revenue/responsibility mismatch
+HORIZONTAL: unequal capacity and need among States
+PLAN ERA -> Article 282 + Planning Commission/NDC
+POST-2015 -> NITI + Finance Commission devolution + GST
+16FC: report 17 Nov 2025; award 2026-31; accepted vertical share 41% divisible pool
+HORIZONTAL: income distance 42.5 | population 17.5 | four criteria at 10 each
+PRESSURES: cesses/surcharges | CSS conditions | transfer timing | Article 293
+KERALA 2024: interim relief denied; 5-judge reference; merits not settled.
+```
 
-ASCII MASTER FLOW — PANEL 5/12: Articles 355-365 and judicial limits
-DUTY -> REMEDY -> TEMPORARY CONSEQUENCE
-Article 355 Union duty
-Article 356 exceptional proclamation + Parliament + review
-Article 357 temporary exercise of State legislative power
-Article 360 separate financial-emergency route
-Article 365 non-compliance may supply material, never automatic rule
+ASCII MASTER FLOW - PANEL 9/12: GST as negotiated fiscal federalism
+```ascii-master
+101ST AMENDMENT
+  246A: simultaneous legislative power
+  269A: inter-State GST levy/collection and apportionment
+  279A: Council recommendation
+COUNCIL: quorum 1/2 | decision 3/4 weighted
+         Union 1/3 | States together 2/3
+MOHIT MINERALS, 2022:
+  recommendations persuasive/recommendatory for primary legislation
+  no automatic Article 254-style supremacy
+CONTROL: non-binding != irrelevant; enacted law and statutory rules still bind.
+```
 
-*State of Rajasthan* (1977) -> review not wholly excluded
-*S.R. Bommai* (1994) -> federalism, review and floor-test discipline.
+ASCII MASTER FLOW - PANEL 10/12: Water disputes, Article 131 and councils
+```ascii-master
+ARTICLE 131: qualifying government dispute + legal right + constitutional exclusions
+ARTICLE 262: Parliament may provide adjudication and exclude courts
+RIVER BOARDS ACT 1956: advisory regulation/development
+WATER DISPUTES ACT 1956: dispute-specific tribunal + section 11 bar
+2019 SINGLE-TRIBUNAL BILL: did not become law
+ARTICLE 263 + 1990 ORDER: ISC inquiry/discussion/advice
+SRA 1956: five Zonal Councils | NEC ACT 1971: separate body
+ARTICLE 261: recognition/proof/effect + civil judgment execution.
+```
 
-ASCII MASTER FLOW — PANEL 6/12: Fiscal architecture from tax to borrowing
-ARTICLE 265: authority of law
-268 / 269 / 269A -> assigned and apportioned revenue
-270 -> divisible pool | 271 -> Union surcharge outside sharing
-275 -> constitutional grants | 282 -> any-public-purpose grants
-280 -> Finance Commission | 292 / 293 -> borrowing
-285 / 289 -> reciprocal property and income tax immunities with exceptions.
-CLOSE DISTINCTION: Article 254 repugnancy is principally a Concurrent-List conflict rule; pith
-  and substance tests competence, Article 262 permits statutory exclusion for defined river
-  disputes, and Article 263 creates an enabling power rather than a self-executing
-  adjudicatory council.
+ASCII MASTER FLOW - PANEL 11/12: Common market, commissions and close distinctions
+```ascii-master
+PART XIII: 301 freedom -> 302 public interest -> 303 preference bar
+           -> 304(a) tax non-discrimination
+           -> 304(b) reasonable restriction + previous Presidential sanction
+JINDAL STAINLESS: tax-free market rejected; discrimination is central
+FIRST ARC: ISC/delegation/resources
+RAJAMANNAR: far-reaching State autonomy
+SARKARIA: strong Union without over-centralisation; 356 last resort; ISC
+PUNCHHI: updated Governor/council/fiscal reforms
+FIREWALL: recommendation != binding constitutional law.
+```
 
-ASCII MASTER FLOW — PANEL 7/12: Fiscal evolution, Sixteenth Finance Commission and GST
-PLAN ERA -> FC / GST / NITI ERA
-Planning Commission discretion -> NITI has no devolution power
-Sixteenth Finance Commission 2026-31 -> 41% vertical share
-horizontal weights include income distance, demography, ecology and GDP contribution
-
-GST: Articles 246A + 269A + 279A
-Union one-third votes | States two-thirds | three-fourths decision threshold
-*Mohit Minerals* (2022): Council recommendations are recommendatory, not binding.
-
-ASCII MASTER FLOW — PANEL 8/12: River-water dispute route and jurisdiction
-ARTICLE 262 + 1956 ACT
-negotiation -> dispute-specific tribunal -> publication -> implementation
-Parliament may exclude court jurisdiction over the defined water dispute
-Article 131 does not displace the special Article 262 statutory bar
-
-CURRENT CONTROL
-2019 Amendment Bill lapsed with the Seventeenth Lok Sabha
-A revised permanent-tribunal proposal is not enacted law
-Cauvery implementation uses the 2018 Scheme and management institutions.
-
-ASCII MASTER FLOW — PANEL 9/12: Intergovernmental forums and current operation
-ARTICLE 263 INTER-STATE COUNCIL
-President establishes when public interest requires; inquiry, discussion, recommendation
-1990 presidential order | PM chair | advisory
-
-ZONAL COUNCILS
-Five statutory councils under States Reorganisation Act 1956 | Home Minister chair
-NEC is separate under 1971 Act, not a sixth Zonal Council
-2026 official activity: Central, Northern, Eastern and Southern zonal mechanisms.
-
-ASCII MASTER FLOW — PANEL 10/12: Common market, recognition and layered regulation
-ARTICLE 261 -> recognition of public acts, records and proceedings; civil execution
-ARTICLES 301-304 -> free trade with bounded regulation and non-discrimination
-*Jindal Stainless* (2016): no tax-free promise; Article 304(a) targets discrimination
-
-MINOR MINERALS
-MMDR Section 3(e) Centre notifies category
-Section 15 States make concession rules -> layered power, not State exclusion.
-
-ASCII MASTER FLOW — PANEL 11/12: Commissions, eleven PYQs and Prelims firewalls
-REFORM EVIDENCE
-Rajamannar -> State autonomy | Sarkaria -> cooperative safeguards | Punchhi -> modern machinery
-
-ELEVEN PYQ ROUTES
-2019 doctrines | 2020 centralisation | 2021 CBI | 2022 parties/autonomy
-2023 Article 356 + GST | 2024 relations reform + list trap
-2025 fiscal federalism + constitutional-body + minor-mineral traps
-
-FIREWALLS: Article 365 is not automatic; GST is not a Concurrent-list tax entry;
-Zonal Councils are statutory; the 2019 water Bill is not law.
-
-ASCII MASTER FLOW — PANEL 12/12: Marks-scaled answer spine and qualified verdict
-10 MARKS: definition -> 2-3 anchors -> qualification -> verdict
-15 MARKS: thesis -> dimensions -> evidence/case -> counterpoint -> reform
-20 MARKS: legislative + administrative + fiscal + inter-State -> diagnosis -> reform
-
-EVIDENCE CHAIN
-claim -> Article/institution -> operation -> State/Union counterpoint -> commission remedy
-
-VERDICT
-Strong Union power is constitutionally bounded; durable relations require consultation
-before compulsion, predictable finance, shared data and reviewable discretion.
-LEGAL/SOURCE LIMIT: Special Reference No. 1 of 2025 rejects rigid judicial timelines and
-  deemed assent, recognises Article 200 discretion, and permits only a limited mandamus
-  against prolonged, unexplained and indefinite inaction. Do not continue the displaced April
-  2025 timeline rule.
+ASCII MASTER FLOW - PANEL 12/12: Answer spine and balanced reform
+```ascii-master
+DEFINE CHANNEL -> CITE ARTICLE -> EXPLAIN MECHANISM -> NAME EVIDENCE
+        -> STATE PROCEDURAL / LEGAL LIMIT -> BALANCE CAPACITY AND AUTONOMY
+CHALLENGE                 REFORM
+assent/directions         prompt reasons + text-bounded power
+cesses/transfers/CSS      transparent base + predictability + flexibility
+GST disagreement          data + deliberation + dispute mechanism
+borrowing conflict        objective risk rules + reasons + adjudication
+river disputes            shared data + timely award + implementation
+under-used ISC            regular agenda + published follow-up
+VERDICT: consultation before compulsion; rules before discretion; implementation after award.
+```

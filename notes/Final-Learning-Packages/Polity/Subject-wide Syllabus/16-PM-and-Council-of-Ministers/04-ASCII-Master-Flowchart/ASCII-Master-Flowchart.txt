@@ -1,224 +1,170 @@
-ASCII MASTER FLOW — PANEL 1/12: RESPONSIBLE EXECUTIVE AND CONSTITUTIONAL CHAIN
-00. RESPONSIBLE EXECUTIVE AND CONSTITUTIONAL CHAIN
+ASCII MASTER FLOW — PANEL 1/12: RESPONSIBLE EXECUTIVE: CORE CONCEPT AND ORIGIN
 
-  Article 74 creates PM-headed advice
-       |
-       v
-  Article 75 creates responsibility to Lok Sabha
-       |
-       v
-  Article 77 gives formal expression and business rules
-       |
-       v
-  Article 78 preserves the information bridge
+START -> British cabinet convention separated the dignified head from the responsible ministry;
+         India's Constitution codified the relationship.
+      -> Article 53: Union executive power is formally vested in the President.
+      -> Article 74: a Council headed by the Prime Minister aids and advises the President.
+      -> Article 75(3): the Council is collectively responsible to Lok Sabha.
+      -> Answer line: The President supplies constitutional form, while the PM-led Council
+         supplies responsible political choice and Lok Sabha accountability.
 
-ANSWER LINE:
-The President supplies constitutional form while the PM-led Council supplies politically
-responsible executive choice.
-MUST REMEMBER: Reconstruct the responsible Union executive through Articles 74, 75, 77, 78 and
-  88: appointment, advice, confidence, responsibility, membership, business allocation and
-  parliamentary participation are separate constitutional questions.
+ASCII MASTER FLOW — PANEL 2/12: TIMELINE: TEXT, AMENDMENT, CASE AND PRACTICE
 
-ASCII MASTER FLOW — PANEL 2/12: PRIME MINISTER APPOINTMENT, ELIGIBILITY AND CONFIDENCE
-01. PRIME MINISTER APPOINTMENT, ELIGIBILITY AND CONFIDENCE
+START -> 1950: Articles 74-75, 77-78 and 88 commence.
+      -> 1961: Allocation of Business and Transaction of Business Rules operationalise Article
+         77(3).
+      -> U. N. R. Rao (1971): Lok Sabha dissolution does not remove the need for a Council.
+      -> Shamsher Singh (1974): President and Governor ordinarily act on responsible ministerial
+         advice.
+      -> 1976 42nd Amendment: Article 74(1) expressly requires action according to advice.
+      -> 1978 44th Amendment: Article 74(1) proviso permits one reconsideration; reiterated
+         advice binds; Article 352(3) requires written Cabinet decision.
+      -> S. P. Anand (1996): a non-member may be PM subject to six consecutive months.
+      -> S.R. Chaudhuri (2001): State analogue rejects serial six-month reappointments; B. R.
+         Kapur (2001): disqualification cannot be bypassed.
+      -> 2003 91st Amendment: Article 75(1A) size cap and 75(1B) defector bar.
 
-  Clear majority narrows presidential choice
-       |
-       v
-  Hung House requires objective support material
-       |
-       v
-  Prompt floor test determines survival
-       |
-       v
-  Article 75(5) allows only six consecutive months
+ASCII MASTER FLOW — PANEL 3/12: DECODED UNION CONSTITUTIONAL SPINE
 
-ANSWER LINE:
-Appointment begins government formation, but Lok Sabha confidence completes democratic
-authority.
+START -> Article 74(1): PM-headed Council advises; President may return advice once under the
+         44th Amendment proviso.
+      -> Article 74(2): courts cannot inquire whether or what advice was tendered; resulting
+         action is not automatically immune.
+      -> Article 75(1): President appoints PM; other ministers are appointed on PM's advice.
+      -> Article 75(2)-(6): pleasure, Lok Sabha responsibility, oaths, six-month rule and
+         salaries by parliamentary law.
+      -> Article 77: Union action in President's name, authentication and business rules.
+      -> Article 78: PM must communicate, furnish information and collectivise specified
+         individual decisions.
+      -> Article 88: ministers and Attorney-General may participate across Houses; voting
+         follows membership.
 
-ASCII MASTER FLOW — PANEL 3/12: PRIME MINISTER POWERS AND PRESIDENTIAL RELATION
-02. PRIME MINISTER POWERS AND PRESIDENTIAL RELATION
+ASCII MASTER FLOW — PANEL 4/12: FORMATION, MEMBERSHIP, TENURE AND DISSOLUTION
 
-  Selects ministers and allocates portfolios
-       |
-       v
-  Chairs Cabinet and coordinates policy
-       |
-       v
-  Article 78 channels information to President
-       |
-       v
-  Party and coalition arithmetic condition power
+START -> Clear majority: recognised leader is invited; a hung House activates bounded
+         presidential judgment.
+      -> Objective support -> appointment -> prompt floor test; S.R. Bommai (1994) supplies the
+         broader State-context floor-test principle.
+      -> PM may belong to either House; Article 75(5) allows a non-member only six consecutive
+         months.
+      -> Article 75(4) + Third Schedule: President administers oaths of office and secrecy.
+      -> Article 75(6) + Salaries and Allowances of Ministers Act, 1952: pay is governed by
+         parliamentary law.
+      -> PM resignation/death ends the ministry politically; one minister's exit does not.
+      -> Dissolution advice concerns Lok Sabha; Rajya Sabha is continuing; viable alternative
+         support is relevant in a defeated/caretaker context.
 
-ANSWER LINE:
-Prime-ministerial authority combines constitutional position with party leadership and
-remains conditional on confidence.
+ASCII MASTER FLOW — PANEL 5/12: RESPONSIBILITY, ADVICE SECRECY AND PARLIAMENT
 
-ASCII MASTER FLOW — PANEL 4/12: COUNCIL, CABINET, RANKS AND THE 91ST AMENDMENT
-03. COUNCIL, CABINET, RANKS AND THE 91ST AMENDMENT
+START -> Collective: Article 75(3) -> confidence, solidarity and unified accountability to Lok
+         Sabha.
+      -> Individual: Article 75(2) -> one minister may leave through PM-led pleasure without
+         ending the Council.
+      -> Legal: no universal countersignature; ordinary criminal, civil, statutory and
+         public-law accountability remains.
+      -> Article 74(2) protects advice from judicial inquiry; Article 75(4) oath protects
+         official secrecy; neither creates blanket secrecy over all underlying material.
+      -> Article 76 creates the Attorney-General as the Union's chief legal adviser; Article 88
+         gives that office and ministers participation across Houses without an office-based
+         vote.
+      -> Ambedkar's 1951 resignation illustrates solidarity through exit after fundamental
+         disagreement.
 
-  Council is the wider constitutional ministry
-       |
-       v
-  Cabinet is the Cabinet-rank decision core
-       |
-       v
-  Ranks are conventional, not a four-rank constitutional code
-       |
-       v
-  Article 75(1A) uses total Lok Sabha membership
+ASCII MASTER FLOW — PANEL 6/12: COUNCIL, CABINET, RANKS AND 91ST AMENDMENT
 
-ANSWER LINE:
-The 91st Amendment disciplines ministry size and defectors without fixing the actual size or
-ranks of the ministry.
+START -> Council of Ministers: wider constitutional ministry under Articles 74-75; bears
+         collective responsibility.
+      -> Cabinet: PM plus Cabinet-rank decision core; expressly defined for Article 352(3)'s
+         written emergency advice.
+      -> Minister of State may hold independent charge or be attached; Deputy Minister is
+         conventional; Deputy PM has no separate constitutional power.
+      -> Article 75(1A), 91st Amendment (2003): PM plus all Union ministers <= 15% of total Lok
+         Sabha membership; no Union minimum.
+      -> Article 75(1B): specified Tenth Schedule defector is barred from ministership for the
+         constitutional period.
+      -> Prelims firewall: conventional ranks are not a four-rank constitutional classification.
 
-ASCII MASTER FLOW — PANEL 5/12: COLLECTIVE, INDIVIDUAL AND LEGAL RESPONSIBILITY
-04. COLLECTIVE, INDIVIDUAL AND LEGAL RESPONSIBILITY
+ASCII MASTER FLOW — PANEL 7/12: PRIME MINISTER'S POWER AND POSITION
 
-  Article 75(3): ministry stands or falls together
-       |
-       v
-  Article 75(2): PM enforces individual exit
-       |
-       v
-  Cabinet solidarity requires public defence or resignation
-       |
-       v
-  No universal countersignature does not erase ordinary liability
+START -> Ministry: recommends appointments, allocates/reshuffles portfolios, chairs Cabinet and
+         coordinates policy.
+      -> President: sole Article 78 information channel; advice operates through the Council.
+      -> Parliament: leads government programme and confidence; advises
+         summoning/prorogation/dissolution within the parliamentary system.
+      -> Party/coalition: control varies with majority, allies, outside support and internal
+         party authority.
+      -> Nation: political leadership in crises, intergovernmental coordination and
+         international representation.
+      -> Qualified verdict: constitutional centrality plus political elasticity; no unlimited
+         personal power.
 
-ANSWER LINE:
-Responsibility is strongest when confidence, solidarity, personal discipline and legal
-accountability are kept distinct.
+ASCII MASTER FLOW — PANEL 8/12: ARTICLE 77 BUSINESS MACHINERY
 
-ASCII MASTER FLOW — PANEL 6/12: ARTICLE 77 AND GOVERNMENT BUSINESS
-05. ARTICLE 77 AND GOVERNMENT BUSINESS
+START -> Article 77(1): executive action is expressed in the President's name; this is
+         institutional form, not personal decision.
+      -> Article 77(2): instruments are authenticated under rules; authentication does not erase
+         underlying legality.
+      -> Article 77(3): rules allocate and transact Union business.
+      -> Allocation of Business Rules, 1961: which ministry/department owns a subject.
+      -> Transaction of Business Rules, 1961: departmental disposal, consultation and cases
+         requiring PM, committee, Cabinet or President approval.
+      -> Flow: department -> consultation -> escalation -> recorded decision -> implementation
+         -> monitoring.
 
-  Allocation Rules answer who handles a subject
-       |
-       v
-  Transaction Rules answer how important cases move
-       |
-       v
-  Defined cases escalate to PM, committees, Cabinet or President
-       |
-       v
-  Authentication is not personal presidential decision
+ASCII MASTER FLOW — PANEL 9/12: COMMITTEES, SECRETARIAT, PMO AND INFORMAL CORE
 
-ANSWER LINE:
-Article 77 turns political direction into traceable departmental action through allocation,
-consultation and escalation.
-CLOSE DISTINCTION: Keep Council of Ministers, Cabinet, Cabinet Committees, Cabinet
-  Secretariat, PMO and kitchen cabinet distinct by source, membership, legal status and
-  function; do not constitutionalise administrative or informal bodies.
+START -> Cabinet Committees: standing/ad hoc ministerial bodies; extra-constitutional;
+         specialise and coordinate; composition is notification-sensitive.
+      -> Official control: Cabinet Secretariat composition document dated 27 July 2026; never
+         freeze number, members or chair.
+      -> Cabinet Secretariat: administers business rules, agendas, records, coordination, crisis
+         support and implementation monitoring.
+      -> PMO: non-constitutional staff office supporting PM; influence is not independent legal
+         competence.
+      -> Kitchen cabinet: informal trusted circle, possibly including outsiders; substantive
+         decisions must return to formal channels.
+      -> Groups of Ministers: ad hoc cross-portfolio devices; Second ARC favoured selective,
+         time-bound use.
 
-ASCII MASTER FLOW — PANEL 7/12: CABINET COMMITTEES AND CURRENT CONTROL
-06. CABINET COMMITTEES AND CURRENT CONTROL
+ASCII MASTER FLOW — PANEL 10/12: POLITICAL CONTEXTS AND CONTINUITY
 
-  Standing and ad hoc committees specialise Cabinet work
-       |
-       v
-  Cabinet retains the collective-responsibility frame
-       |
-       v
-  Number, membership and chairs vary by notification
-       |
-       v
-  Official composition document is dated 27 July 2026
+START -> Cohesive majority -> strongest PM personnel, party and agenda leverage.
+      -> Coalition -> negotiated portfolios, common programme and ally veto points; Article
+         75(3) remains intact.
+      -> Minority -> issue-based/outside support may sustain confidence; largest-party status
+         alone is insufficient.
+      -> Caretaker -> legal continuity with conventional restraint on major irreversible
+         decisions unless necessary.
+      -> U. N. R. Rao (1971): a Council remains constitutionally necessary after Lok Sabha
+         dissolution.
+      -> Confidence loss -> resignation or constitutionally proper dissolution route; viable
+         alternative support must be objectively assessed.
 
-ANSWER LINE:
-Cabinet Committees improve specialisation, but current composition must come from the dated
-official notification.
+ASCII MASTER FLOW — PANEL 11/12: UNION-STATE MIRRORS, CASES AND EXAMINER TRAPS
 
-ASCII MASTER FLOW — PANEL 8/12: CABINET SECRETARIAT, PMO AND INFORMAL SUPPORT
-07. CABINET SECRETARIAT, PMO AND INFORMAL SUPPORT
+START -> Article 74 / 163: PM-Council advice to President / CM-Council advice to Governor, with
+         bounded State discretion.
+      -> Article 75 / 164: Lok Sabha / Assembly responsibility; State cap also has minimum
+         twelve.
+      -> Article 77 / 166: Union / State action and business rules.
+      -> Article 78 / 167: PM / CM information duties.
+      -> Article 88 / 177: participation across Houses; vote only through membership.
+      -> Shamsher Singh (1974): advice default; S. P. Anand (1996): non-member PM valid for six
+         months; Devi Lal (1990): Deputy PM label adds no power.
+      -> Traps: Article 74 secrecy != act immunity; Council != Cabinet; Cabinet Committee !=
+         parliamentary committee; PM may sit in either House.
 
-  Cabinet Secretariat administers business rules
-       |
-       v
-  It records, coordinates and monitors Cabinet decisions
-       |
-       v
-  PMO is non-constitutional staff support without independent competence
-       |
-       v
-  Kitchen Cabinet and GoMs are informal or ad hoc mechanisms
+ASCII MASTER FLOW — PANEL 12/12: MAINS ANSWER SPINE AND QUALIFIED VERDICT
 
-ANSWER LINE:
-Coordination bodies assist the formal executive but cannot replace ministerial competence or
-parliamentary responsibility.
-
-ASCII MASTER FLOW — PANEL 9/12: CARETAKER, COALITION AND CONTINUITY
-08. CARETAKER, COALITION AND CONTINUITY
-
-  PM resignation or death ends the ministry politically
-       |
-       v
-  Article 74 requires continuity until successor assumes office
-       |
-       v
-  Coalition bargaining affects solidarity, not Article 75(3)
-       |
-       v
-  Caretaker restraint is convention, not a separate constitutional code
-
-ANSWER LINE:
-Political arithmetic changes the intensity of PM power, while constitutional continuity and
-confidence remain constant.
-
-ASCII MASTER FLOW — PANEL 10/12: PARLIAMENTARY ACCOUNTABILITY AND PRIME-MINISTERIAL GOVERNMENT
-09. PARLIAMENTARY ACCOUNTABILITY AND PRIME-MINISTERIAL GOVERNMENT
-
-  Question Hour, committees, finance and audit create scrutiny
-       |
-       v
-  No-confidence supplies the collective sanction
-       |
-       v
-  Whip and Tenth Schedule may compress legislative autonomy
-       |
-       v
-  Courts, federalism, elections and Cabinet colleagues constrain dominance
-
-ANSWER LINE:
-India shows a prime-ministerial tendency within cabinet government, not a legal replacement
-of cabinet government.
-
-ASCII MASTER FLOW — PANEL 11/12: PYQ AND PRELIMS TRAP ROUTES
-10. PYQ AND PRELIMS TRAP ROUTES
-
-  Shamsher Singh (1974): responsible advice
-       |
-       v
-  S.R. Chaudhuri (2001): no serial six-month appointments
-       |
-       v
-  2024 GS-II Q3 asks how Cabinet growth marginalises scrutiny
-       |
-       v
-  Article 88 gives participation, not a vote without membership
-
-ANSWER LINE:
-High-scoring responses identify the exact provision, reject frozen counts and separate Union
-rules from State analogues.
-
-ASCII MASTER FLOW — PANEL 12/12: ANSWER EXECUTION, REFORM AND QUALIFIED VERDICT
-11. ANSWER EXECUTION, REFORM AND QUALIFIED VERDICT
-
-  10 marks: provision, mechanism, limitation, verdict
-       |
-       v
-  15 marks: add institutional chain and named evidence
-       |
-       v
-  20 marks: balance concentration against counterweights
-       |
-       v
-  Reforms must target whip, scrutiny, PMO subsidiarity and traceability
-
-ANSWER LINE:
-Strong executive coordination earns constitutional legitimacy only when each decision
-remains traceable to collective responsibility.
-LEGAL/SOURCE LIMIT: Use the current Prime Minister and the Cabinet Secretariat's Allocation of
-  Business and Transaction of Business Rules only as dated official controls. Committee
-  number, membership and chairmanship remain notification-sensitive.
+START -> Start with decoded Article and direct thesis.
+      -> Add named amendment, case, commission, rule or institutional example.
+      -> Explain mechanism: personnel, confidence, information, business routing, scrutiny or
+         coalition arithmetic.
+      -> Qualify by text, State-context boundary, convention, dynamic notification or
+         institutional counterweight.
+      -> Use 2024 GS-II route: fusion + whip + agenda/time control -> reduced deliberation ->
+         committees/no-confidence/courts as correctives.
+      -> Reform: sittings, committee referral, narrower survival whip, traceable business rules,
+         PMO subsidiarity and reviewed GoMs.
+      -> Verdict: strong coordination is legitimate only while decisions remain formally
+         competent and collectively accountable.

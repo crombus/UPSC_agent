@@ -1,1026 +1,802 @@
 ---
-title: "Anti Defection Law — Solved Practice Workbook"
+title: "Anti-Defection Law - Solved Practice Workbook"
 topic_key: polity-42
 ---
-# Anti Defection Law — Solved Practice Workbook
+# Anti-Defection Law - Solved Practice Workbook
+
+**Subject:** Polity | **GS Paper:** GS-II | **Control date:** 8 September 2026
+
+**Practice discipline:** exactly 32 original MCQs before PYQs; answer order `ABCD` repeated eight times; 128 substantive option-specific explanations; 32 question-specific traps; verified relevant PYQs with official-key discipline; exactly six original Mains models.
 
 ## BASIC MCQS / REMEDIATION
 
-### Original MCQs 1-36 — Strict Continuous A -> B -> C -> D Rotation
+Exactly **32 original MCQs** appear before the PYQ section. Questions 25-32 are targeted remediation. Correct-answer sequence: `ABCDABCDABCDABCDABCDABCDABCDABCD`.
 
-#### Q1. With reference to the 52nd Amendment, which statement is correct?
+### MCQ 1. 52nd Amendment architecture
 
-A. The Act is dated 15 February 1985, while the Tenth Schedule came into force on 1 March 1985.
-B. It amended only Articles 102 and 191.
-C. It came into force on 1 January 2004.
-D. It inserted the Ninth Schedule.
+Which statement correctly describes the 52nd Amendment?
 
-**Answer: A.**
+A. It inserted the Tenth Schedule and amended Articles 101, 102, 190 and 191.
+B. It inserted the Tenth Schedule but left seat-vacancy Articles untouched.
+C. It created only a statutory, not constitutional, disqualification.
+D. It omitted paragraph 3 and inserted Article 361B.
 
-**Explanation:** `[FACT]` The 52nd Amendment amended Articles 101, 102, 190 and 191 and inserted the Tenth Schedule; the official consolidation records effect from 1 March 1985.
+**Answer: A. It inserted the Tenth Schedule and amended Articles 101, 102, 190 and 191.**
 
-#### Q2. “Legislature party” under paragraph 1 most accurately means:
+**Option-specific explanations:**
 
-A. the national executive of a political party.
-B. all members of that House who for the time being belong to that political party under the Schedule.
-C. any faction supported by two-thirds of the House.
-D. only elected members, excluding nominated members.
+- **A:** Correct: the four Articles and Tenth Schedule form the 1985 constitutional design.
+- **B:** Incorrect: Articles 101 and 190 were amended to connect disqualification with vacancy.
+- **C:** Incorrect: the ground is constitutional through Articles 102(2) and 191(2).
+- **D:** Incorrect: those are 91st-Amendment changes effective in 2004.
 
-**Answer: B.**
+**Examiner trap 1:** Separate the 52nd Amendment's creation from the 91st Amendment's tightening.
 
-**Explanation:** `[FACT]` It is a House-specific group. It is not the party organisation or any self-declared faction.
+### MCQ 2. Article decoder
 
-#### Q3. A nominated member who was not a party member at nomination:
+Article 102(2) means that a person is disqualified for Parliament when:
 
-A. can never join a party.
-B. is treated exactly like an independent elected member.
-C. may join within six months from taking the seat without paragraph 2(3) disqualification.
-D. may join only after six months.
+A. the Election Commission independently declares a party split.
+B. the person is disqualified under the Tenth Schedule.
+C. the Council of Ministers advises the President to remove the member.
+D. the House passes an ordinary resolution by simple majority.
 
-**Answer: C.**
+**Answer: B. the person is disqualified under the Tenth Schedule.**
 
-**Explanation:** `[FACT]` The first-six-month choice window is specific to the nominated member.
+**Option-specific explanations:**
 
-#### Q4. An independently elected member is disqualified if the member:
+- **A:** Incorrect: ECI does not independently decide paragraph 2 membership.
+- **B:** Correct: Article 102(2) imports the Tenth Schedule ground for either House of Parliament.
+- **C:** Incorrect: ministerial advice is not the paragraph 6 decision route.
+- **D:** Incorrect: House resolution is not the constitutional test.
 
-A. declines ministerial office.
-B. criticises a political party.
-C. abstains on a non-whipped motion.
-D. joins any political party after election.
+**Examiner trap 2:** Do not confuse Article 102(2) with Article 103 procedure for Article 102(1) questions.
 
-**Answer: D.**
+### MCQ 3. Paragraph 1 definitions
 
-**Explanation:** `[FACT]` Paragraph 2(2) provides no six-month grace period.
+Which entity is the House-specific group of members belonging to one political party?
 
-#### Q5. Which best states *Ravi S. Naik (1994)*?
+A. Original political party.
+B. Election symbol group.
+C. Legislature party.
+D. Coalition bloc.
 
-A. Voluntarily giving up membership may be inferred from conduct and is not confined to formal resignation.
-B. Only a written resignation can establish defection.
-C. Expulsion automatically ends Tenth Schedule membership.
-D. ECI decides conduct-based defection.
+**Answer: C. Legislature party.**
 
-**Answer: A.**
+**Option-specific explanations:**
 
-**Explanation:** `[FACT]` The phrase is wider than formal resignation, though inference remains evidence- and context-dependent.
+- **A:** Incorrect: original political party identifies organisational belonging for paragraph 2(1).
+- **B:** Incorrect: symbol classification belongs to the Election Commission's separate field.
+- **C:** Correct: paragraph 1 defines the legislature party by membership in that House.
+- **D:** Incorrect: coalition cooperation does not create the defined legislature party.
 
-#### Q6. Paragraph 2(1)(b) requires, among other things:
+**Examiner trap 3:** The political party and legislature party cannot be swapped in whip and merger analysis.
 
-A. a criminal conviction.
-B. contrary vote/abstention without prior permission and no condonation within 15 days.
-C. a formal party resignation.
-D. a direction only from the legislature party.
+### MCQ 4. Voluntary giving up
 
-**Answer: B.**
+Ravi S. Naik (1994) is authority for which proposition?
 
-**Explanation:** `[FACT]` Direction, contrary voting/abstention, no prior permission and no timely condonation form the textual chain.
+A. Only a signed resignation proves defection.
+B. Party expulsion automatically ends deemed belonging.
+C. Courts must decide every petition before the Speaker.
+D. Voluntary giving up may be inferred from conduct without formal resignation.
 
-#### Q7. After *Subhash Desai (2023)*, the authorised Whip for Tenth Schedule purposes is appointed by:
+**Answer: D. Voluntary giving up may be inferred from conduct without formal resignation.**
 
-A. the largest faction in the legislature party.
-B. the Governor.
-C. the political party.
-D. the Election Commission.
+**Option-specific explanations:**
 
-**Answer: C.**
+- **A:** Incorrect: the case rejects a resignation-only test.
+- **B:** Incorrect: G. Viswanathan controls the expulsion issue.
+- **C:** Incorrect: paragraph 6 leaves first-instance adjudication with the presiding officer.
+- **D:** Correct: substantive conduct can establish abandonment of allegiance.
 
-**Explanation:** `[FACT]` The political party, not merely the legislature party, appoints the Whip and Leader.
+**Examiner trap 4:** Inference from conduct must still be supported by context, evidence and fair hearing.
 
-#### Q8. Which conduct is least capable, by itself, of establishing paragraph 2(1)(b)?
+### MCQ 5. Whip test
 
-A. voting without prior permission and without condonation.
-B. voting contrary to a valid direction.
-C. abstaining contrary to a valid direction.
-D. making a dissenting speech without a contrary vote or abstention.
+A party member votes contrary to a valid direction without prior permission, but the authorised party authority condones the vote on day 12. The best conclusion is:
 
-**Answer: D.**
+A. Paragraph 2(1)(b) is not completed because timely condonation cures the contrary vote.
+B. Disqualification is automatic at the moment of voting and cannot be cured.
+C. Condonation is effective only if granted by the Election Commission.
+D. The member remains disqualified unless two-thirds support the vote.
 
-**Explanation:** `[LIMIT]` The constitutional voting ground is not a general speech-control provision.
+**Answer: A. Paragraph 2(1)(b) is not completed because timely condonation cures the contrary vote.**
 
-#### Q9. Paragraph 4 protection requires:
+**Option-specific explanations:**
 
-A. a merger framework and not less than two-thirds of the legislature party agreeing to the merger.
-B. only a public statement by the defecting members.
-C. approval by the Governor.
-D. one-third of the legislature party forming a faction.
+- **A:** Correct: the text allows condonation within fifteen days by the authorised source.
+- **B:** Incorrect: the constitutional cure period disproves automatic final liability.
+- **C:** Incorrect: ECI is not the condoning authority under paragraph 2(1)(b).
+- **D:** Incorrect: two-thirds belongs to paragraph 4 merger, not whip condonation.
 
-**Answer: A.**
+**Examiner trap 5:** Prior permission and fifteen-day condonation are distinct routes.
 
-**Explanation:** `[FACT]` Two-thirds operates within paragraph 4's merger structure.
+### MCQ 6. Dissent boundary
 
-#### Q10. Paragraph 3 of the Tenth Schedule:
+Which act, standing alone, least directly completes paragraph 2(1)(b)?
 
-A. creates judicial review.
-B. was omitted by the 91st Amendment.
-C. protects nominated members.
-D. gives ECI jurisdiction.
+A. Abstaining contrary to a valid direction without permission.
+B. Delivering a critical speech without a contrary vote or abstention.
+C. Voting contrary to a valid direction without permission.
+D. Remaining absent where abstention itself violates a valid direction.
 
-**Answer: B.**
+**Answer: B. Delivering a critical speech without a contrary vote or abstention.**
 
-**Explanation:** `[FACT]` The former one-third split defence ceased with effect from 1 January 2004.
+**Option-specific explanations:**
 
-#### Q11. Paragraph 5 protection can apply to:
+- **A:** Incorrect: contrary abstention is expressly covered.
+- **B:** Correct: paragraph 2(1)(b) regulates voting or abstention, not speech by itself.
+- **C:** Incorrect: contrary voting is the central textual trigger.
+- **D:** Incorrect: an abstention contrary to direction may be covered on the facts.
 
-A. every minister.
-B. every committee chair.
-C. a listed Speaker/Deputy Speaker or Chairman/Deputy Chairman who satisfies the conditions.
-D. every constitutional officeholder.
+**Examiner trap 6:** Do not convert political dissent into disqualification without matching a paragraph 2 ground.
 
-**Answer: C.**
+### MCQ 7. Independent member
 
-**Explanation:** `[FACT]` It is an exact office-and-condition exemption, not a general neutrality clause.
+An independently elected MLA becomes a formal member of a political party two months after election. Under paragraph 2:
 
-#### Q12. If the disqualification question concerns the Speaker:
+A. The joining is protected for six months.
+B. The joining is protected if no whip is issued.
+C. The member is disqualified; independents have no six-month joining window.
+D. The member is protected if the party is part of the governing coalition.
 
-A. ECI decides.
-B. the Governor decides.
-C. the Deputy Speaker automatically decides.
-D. a member elected by the House for that purpose decides.
+**Answer: C. The member is disqualified; independents have no six-month joining window.**
 
-**Answer: D.**
+**Option-specific explanations:**
 
-**Explanation:** `[FACT]` This is the proviso to paragraph 6(1).
+- **A:** Incorrect: six months is the nominated-member rule.
+- **B:** Incorrect: paragraph 2(2) turns on joining, not whip issuance.
+- **C:** Correct: joining any political party after election attracts the independent-member ground.
+- **D:** Incorrect: coalition status does not alter paragraph 2(2).
 
-#### Q13. The current legal effect of paragraph 7 is that:
+**Examiner trap 7:** Never transfer the nominated member's grace period to an independent.
 
-A. its printed court-bar text remains, but it is invalid under *Kihoto* for want of ratification.
-B. it transfers jurisdiction to ECI.
-C. it fully excludes judicial review.
-D. it was omitted by the 91st Amendment.
+### MCQ 8. Nominated member
 
-**Answer: A.**
+A person nominated to a House while unaffiliated first joins a party five months after taking the seat. Which is correct?
 
-**Explanation:** `[FACT]` The official 2026 Constitution includes the text and the invalidity footnote.
+A. Joining is always prohibited for a nominated member.
+B. The President must first approve the joining.
+C. The member is treated as an independent forever.
+D. Joining within six months is permitted and fixes deemed party belonging.
 
-#### Q14. *Kihoto* permits review for:
+**Answer: D. Joining within six months is permitted and fixes deemed party belonging.**
 
-A. only delay.
-B. constitutional violation, mala fides, natural-justice breach and perversity.
-C. only a criminal offence.
-D. every factual disagreement as a full appeal.
+**Option-specific explanations:**
 
-**Answer: B.**
+- **A:** Incorrect: the Schedule expressly permits the bounded initial choice.
+- **B:** Incorrect: no presidential approval appears in paragraph 2(3).
+- **C:** Incorrect: nomination and independent election are separate categories.
+- **D:** Correct: the clock runs from taking the seat and the first timely party becomes relevant.
 
-**Explanation:** `[FACT]` The review is limited to jurisdictional/constitutional infirmities.
+**Examiner trap 8:** The six months run from taking the seat, not nomination.
 
-#### Q15. Ordinary interlocutory court interference under *Kihoto* is:
+### MCQ 9. Paragraph 3
 
-A. identical to appellate review.
-B. controlled by ECI.
-C. generally excluded, subject to grave and irreversible interlocutory consequences.
-D. mandatory in every petition.
+What is the current status of the former one-third split defence?
 
-**Answer: C.**
+A. It was omitted by the 91st Amendment and is no longer available.
+B. It survives for State legislatures but not Parliament.
+C. It survives whenever the Governor recognises a faction.
+D. It was converted into the paragraph 5 exemption.
 
-**Explanation:** `[FACT]` The baseline protects first-instance Speaker adjudication while preserving a narrow exception.
+**Answer: A. It was omitted by the 91st Amendment and is no longer available.**
 
-#### Q16. On decision time, the Tenth Schedule:
+**Option-specific explanations:**
 
-A. fixes 15 days.
-B. fixes three months expressly.
-C. fixes 30 days.
-D. contains no express deadline.
+- **A:** Correct: paragraph 3 was deleted with effect from 1 January 2004.
+- **B:** Incorrect: deletion applies across the Tenth Schedule.
+- **C:** Incorrect: gubernatorial recognition cannot revive omitted text.
+- **D:** Incorrect: paragraph 5 concerns listed presiding officers.
 
-**Answer: D.**
+**Examiner trap 9:** A one-third faction has no current split safe harbour.
 
-**Explanation:** `[FACT]` The three-month norm comes from *Keisham Meghachandra Singh (2020)*, not the text.
+### MCQ 10. Merger elements
 
-#### Q17. *Keisham Meghachandra Singh (2020)* stated that, absent exceptional circumstances:
+Which statement best states paragraph 4?
 
-A. three months is the ordinary outer limit and Parliament should consider an independent tribunal.
-B. delay is wholly non-justiciable.
-C. every petition must go directly to the Supreme Court.
-D. ECI must decide in 15 days.
+A. Any two-thirds of an original political party nationwide must merge.
+B. Protection operates within an original-party merger framework when at least two-thirds of the legislature party agree.
+C. Election Commission symbol recognition alone conclusively proves merger.
+D. A post-election coalition is automatically deemed a merger.
 
-**Answer: A.**
+**Answer: B. Protection operates within an original-party merger framework when at least two-thirds of the legislature party agree.**
 
-**Explanation:** `[FACT]` The Court tied reasonable time to the Schedule's constitutional objective.
+**Option-specific explanations:**
 
-#### Q18. The official 31 July 2025 Telangana judgment:
+- **A:** Incorrect: the threshold is measured in the legislature party concerned, not nationwide membership.
+- **B:** Correct: both original-party language and the two-thirds deeming rule matter.
+- **C:** Incorrect: symbol jurisdiction and paragraph 4 adjudication are separate.
+- **D:** Incorrect: coalition and organisational merger are distinct.
 
-A. imposed criminal punishment.
-B. directed conclusion of specified proceedings within three months.
-C. finally settled every future timeline case.
-D. abolished Speaker jurisdiction.
+**Examiner trap 10:** Two-thirds is not a free-standing licence to switch parties.
 
-**Answer: B.**
+### MCQ 11. Non-accepting members
 
-**Explanation:** `[FACT]` It was a case-specific judicial direction, not a constitutional amendment.
+If paragraph 4 is validly engaged, members who do not accept the merger and opt to function as a separate group are:
 
-#### Q19. Under *Shrimanth Balasaheb Patil (2019)*, a resignation tendered after the alleged defection:
+A. automatically treated as independents for every purpose.
+B. required to join the merged party within fifteen days.
+C. protected in the manner specified by paragraph 4.
+D. disqualified unless the Governor recognises them.
 
-A. automatically ends the petition.
-B. creates a permanent election bar.
-C. does not erase prior defection or the Speaker's jurisdiction.
-D. transfers the case to ECI.
+**Answer: C. protected in the manner specified by paragraph 4.**
 
-**Answer: C.**
+**Option-specific explanations:**
 
-**Explanation:** `[FACT]` Disqualification relates to the date of the defection act.
+- **A:** Incorrect: paragraph 4 supplies a specific deemed political status, not generic independence.
+- **B:** Incorrect: the fifteen-day rule concerns whip condonation.
+- **C:** Correct: paragraph 4 expressly protects the non-accepting separate group.
+- **D:** Incorrect: the Governor is not the paragraph 4 decider.
 
-#### Q20. The Speaker's power after disqualification includes:
+**Examiner trap 11:** Remember both protected choices under paragraph 4, not only the accepting group.
 
-A. barring all future elections.
-B. imposing any politically desirable penalty.
-C. ordering imprisonment.
-D. no power to add a term-long election-contest ban beyond the Constitution.
+### MCQ 12. Paragraph 5
 
-**Answer: D.**
+Which office is expressly within paragraph 5's party-neutrality exemption?
 
-**Explanation:** `[FACT]` *Shrimanth* struck down the extra duration/election restriction.
+A. Prime Minister.
+B. Chairperson of every House committee.
+C. Chief Whip.
+D. Deputy Chairman of the Rajya Sabha.
 
-#### Q21. Articles 75(1B), 164(1B) and 361B:
+**Answer: D. Deputy Chairman of the Rajya Sabha.**
 
-A. create specified ministerial/remunerative-post disabilities after paragraph 2 disqualification.
-B. protect a one-third split.
-C. transfer defection cases to the President.
-D. prohibit contesting every election.
+**Option-specific explanations:**
 
-**Answer: A.**
+- **A:** Incorrect: ministerial office is not paragraph 5's neutrality route.
+- **B:** Incorrect: committee chairs are not generically listed.
+- **C:** Incorrect: a whip represents party discipline, not the protected chair.
+- **D:** Correct: the Deputy Chairman of the Council of States is listed.
 
-**Explanation:** `[FACT]` The disabilities last until term expiry or earlier declared re-election, whichever is earlier.
+**Examiner trap 12:** The Rajya Sabha Chairman is ex officio Vice-President and is not the listed member-office.
 
-#### Q22. ECI's role in a Tenth Schedule petition is:
+### MCQ 13. Paragraph 6 decider
 
-A. issuing the party whip.
-B. no paragraph 6 adjudicatory role.
-C. automatic appellate authority.
-D. first-instance adjudication.
+Who ordinarily decides whether a Lok Sabha member is disqualified under the Tenth Schedule?
 
-**Answer: B.**
+A. The Speaker of the Lok Sabha.
+B. The President on advice of the Union Council of Ministers.
+C. The Election Commission acting alone.
+D. A High Court as original fact-finder.
 
-**Explanation:** `[FACT]` ECI has separate symbol and Articles 103/192 functions.
+**Answer: A. The Speaker of the Lok Sabha.**
 
-#### Q23. According to *Subhash Desai (2023)*, symbol and defection proceedings:
+**Option-specific explanations:**
 
-A. are both decided by the Governor.
-B. must be merged in the Supreme Court.
-C. may proceed concurrently before ECI and Speaker on separate tracks.
-D. cannot coexist.
+- **A:** Correct: paragraph 6 assigns the question to the Speaker.
+- **B:** Incorrect: this misstates both the advice source and the applicable procedure.
+- **C:** Incorrect: ECI's opinion belongs to different constitutional questions.
+- **D:** Incorrect: judicial review does not ordinarily replace first-instance adjudication.
 
-**Answer: C.**
+**Examiner trap 13:** Do not import Article 103 procedure into Article 102(2).
 
-**Explanation:** `[FACT]` One proceeding does not automatically suspend the other.
+### MCQ 14. Speaker concerned
 
-#### Q24. The Governor's role in a live party split is best stated as:
+If the disqualification question concerns the Speaker personally, paragraph 6 requires decision by:
 
-A. deciding who defected.
-B. appointing the party Whip.
-C. deciding the symbol dispute.
-D. exercising constitutional government-formation/floor-test functions without replacing Speaker or ECI jurisdictions.
+A. the Deputy Speaker automatically.
+B. a member elected by the House for that purpose.
+C. the Election Commission after hearing the Speaker.
+D. the Governor or President, depending on the House.
 
-**Answer: D.**
+**Answer: B. a member elected by the House for that purpose.**
 
-**Explanation:** `[FACT]` *Subhash Desai (2023)* keeps institutional tracks distinct and requires objective material.
+**Option-specific explanations:**
 
-#### Q25. As controlled for this package, *Nabam Rebia (2016)*:
+- **A:** Incorrect: the proviso does not automatically designate the Deputy Speaker.
+- **B:** Correct: the House elects a member to decide the question.
+- **C:** Incorrect: paragraph 6 does not transfer the matter to ECI.
+- **D:** Incorrect: the executive head is not the proviso's substitute.
 
-A. remains a rule whose correctness was referred to seven judges in *Subhash Desai (2023)*, with no later verified merits ruling used here.
-B. concerns nominated members.
-C. was conclusively overruled in 2023.
-D. abolished judicial review.
+**Examiner trap 14:** Use the exact House-elected-member proviso.
 
-**Answer: A.**
+### MCQ 15. Paragraph 7
 
-**Explanation:** `[CURRENT][LIMIT]` A reference is not itself an overruling.
+Which is the legally accurate description of paragraph 7?
 
-#### Q26. Which is a direct legal consequence of Tenth Schedule disqualification?
+A. It was omitted by the 91st Amendment.
+B. It validly excludes every form of judicial review.
+C. Its court-ouster text remains printed but is invalid under Kihoto for want of ratification.
+D. It gives first-instance power to the Supreme Court.
 
-A. cancellation of party registration.
-B. vacancy of the seat.
-C. criminal conviction.
-D. permanent ban from politics.
+**Answer: C. Its court-ouster text remains printed but is invalid under Kihoto for want of ratification.**
 
-**Answer: B.**
+**Option-specific explanations:**
 
-**Explanation:** `[FACT]` The Schedule concerns membership, with linked constitutional office bars.
+- **A:** Incorrect: paragraph 3, not paragraph 7, was omitted.
+- **B:** Incorrect: Kihoto preserved constitutional judicial review.
+- **C:** Correct: text and invalid legal effect must be stated together.
+- **D:** Incorrect: paragraph 6 still allocates first instance to the presiding officer.
 
-#### Q27. Party expulsion of a legislator:
+**Examiner trap 15:** Never quote the ouster text without Kihoto's invalidity holding.
 
-A. automatically makes the person independent.
-B. transfers the seat to the party.
-C. does not by itself erase deemed original-party belonging for Tenth Schedule purposes.
-D. automatically disqualifies under paragraph 2.
+### MCQ 16. Kihoto review
 
-**Answer: C.**
+Kihoto Hollohan permits judicial review principally for:
 
-**Explanation:** `[FACT]` *G. Viswanathan* prevents the “unattached” label from defeating the Schedule.
+A. a complete rehearing of every factual disagreement.
+B. review only when the Election Commission consents.
+C. review only after the House term expires.
+D. constitutional violation, mala fides, natural-justice breach and perversity.
 
-#### Q28. A post-election office-of-profit or RPA disqualification question for a sitting State member is ordinarily decided by:
+**Answer: D. constitutional violation, mala fides, natural-justice breach and perversity.**
 
-A. ECI alone.
-B. Speaker under paragraph 6.
-C. Chief Minister.
-D. Governor under Article 192 after obtaining and acting according to ECI opinion.
+**Option-specific explanations:**
 
-**Answer: D.**
+- **A:** Incorrect: review is supervisory, not an ordinary appeal.
+- **B:** Incorrect: ECI consent is not a jurisdictional gateway.
+- **C:** Incorrect: review need not await expiry of the House.
+- **D:** Correct: these are the controlled review grounds.
 
-**Explanation:** `[FACT]` This differs from the Tenth Schedule route.
+**Examiner trap 16:** Finality under paragraph 6 is compatible with limited judicial review.
 
-#### Q29. Breach of privilege and defection:
+### MCQ 17. Paragraph 8
 
-A. are distinct constitutional regimes even though paragraph 8 rules may address wilful rule contravention like privilege.
-B. are both decided by ECI.
-C. are always identical.
-D. always produce permanent disqualification.
+Paragraph 8 rules may validly provide for:
 
-**Answer: A.**
+A. records, leader reports and procedure for deciding disqualification questions.
+B. new substantive grounds beyond paragraph 2.
+C. removal of the natural-justice requirement.
+D. automatic disqualification solely on party complaint.
 
-**Explanation:** `[FACT]` Their protected interests, grounds and procedures differ.
+**Answer: A. records, leader reports and procedure for deciding disqualification questions.**
 
-#### Q30. The strongest democratic defence of anti-defection is:
+**Option-specific explanations:**
 
-A. it makes courts unnecessary.
-B. it protects government stability and the party-linked electoral mandate.
-C. it eliminates all corruption.
-D. party leaders should control every speech.
+- **A:** Correct: these are within the procedural rule-making field.
+- **B:** Incorrect: subordinate House rules cannot amend the Schedule.
+- **C:** Incorrect: fairness remains constitutionally required.
+- **D:** Incorrect: complaint initiates inquiry; it does not itself prove liability.
 
-**Answer: B.**
+**Examiner trap 17:** Procedure operationalises the Schedule but cannot rewrite it.
 
-**Explanation:** `[ANALYSIS]` The defence is substantial but must be balanced against deliberative freedom.
+### MCQ 18. Rajendra Singh Rana
 
-#### Q31. A narrow-whip reform would most plausibly:
+Rajendra Singh Rana (2007) is most safely used for which proposition?
 
-A. remove all confidence discipline.
-B. give ECI power to legislate.
-C. confine seat-risk directions to confidence, money/supply or core matters.
-D. abolish parties.
+A. A one-third split remains valid today.
+B. Unsupported split recognition and disabling inaction cannot defeat the Schedule.
+C. The Election Commission must decide merger before the Speaker.
+D. A Speaker may recognise a faction without deciding pending petitions.
 
-**Answer: C.**
+**Answer: B. Unsupported split recognition and disabling inaction cannot defeat the Schedule.**
 
-**Explanation:** `[ANALYSIS]` The goal is calibrated party discipline, not no discipline.
+**Option-specific explanations:**
 
-#### Q32. The safest statement on paragraph 4 controversy is:
+- **A:** Incorrect: paragraph 3 has since been omitted.
+- **B:** Correct: the Court addressed non-decision and inadequate proof.
+- **C:** Incorrect: the case does not create that sequencing rule.
+- **D:** Incorrect: that was the adjudicatory failure condemned.
 
-A. two-thirds can always defect freely.
-B. original-party text is irrelevant.
-C. the issue was conclusively settled in 2026.
-D. exact text and competing interpretations must be stated; no unverified final 2026 rule should be claimed.
+**Examiner trap 18:** Use the case as anti-inaction authority, not as revival of deleted paragraph 3.
 
-**Answer: D.**
+### MCQ 19. Expulsion
 
-**Explanation:** `[CURRENT][LIMIT]` The package preserves the unresolved interpretive question.
+After G. Viswanathan (1996), expulsion of a legislator from the party:
 
-#### Q33. Under official Lok Sabha procedure, a compliant petition is followed by:
+A. automatically makes the legislator an independent.
+B. automatically vacates the legislative seat.
+C. does not erase deemed belonging to the original party for Schedule purposes.
+D. transfers defection jurisdiction to the Election Commission.
 
-A. service of copies/comments and a reasonable opportunity before an adverse finding.
-B. immediate automatic vacancy.
-C. ECI investigation.
-D. a criminal trial.
+**Answer: C. does not erase deemed belonging to the original party for Schedule purposes.**
 
-**Answer: A.**
+**Option-specific explanations:**
 
-**Explanation:** `[FACT]` The procedure reflects the adjudicatory nature recognised in *Kihoto*.
+- **A:** Incorrect: deemed belonging continues.
+- **B:** Incorrect: expulsion and constitutional disqualification are distinct.
+- **C:** Correct: the member cannot claim independent status merely from expulsion.
+- **D:** Incorrect: paragraph 6 allocation remains unchanged.
 
-#### Q34. Paragraph 6(2)'s deeming of proceedings as legislative proceedings:
+**Examiner trap 19:** Expulsion is not itself the same legal event as Tenth Schedule disqualification.
 
-A. eliminates natural justice.
-B. protects against mere procedural-irregularity attacks but not jurisdictional constitutional review.
-C. removes every court power.
-D. makes the Speaker a political party officer.
+### MCQ 20. Resignation
 
-**Answer: B.**
+A resignation tendered after alleged disqualifying conduct:
 
-**Explanation:** `[FACT]` *Kihoto* limits, rather than abolishes, review.
+A. necessarily ends all Speaker jurisdiction.
+B. can be ignored forever without examining genuineness.
+C. automatically creates a term-long election ban.
+D. does not erase jurisdiction over antecedent defection.
 
-#### Q35. The 2025 routed concept emphasising “political party” is best answered by noting:
+**Answer: D. does not erase jurisdiction over antecedent defection.**
 
-A. ECI becomes the defection tribunal.
-B. only legislature-party numbers matter.
-C. the Schedule links candidate-setting, membership and directions to the political party.
-D. political parties are not mentioned in paragraph 2.
+**Option-specific explanations:**
 
-**Answer: C.**
+- **A:** Incorrect: Shrimanth rejects resignation as an automatic jurisdictional escape.
+- **B:** Incorrect: resignation has its own constitutional inquiry.
+- **C:** Incorrect: the Speaker cannot invent that additional disability.
+- **D:** Correct: prior conduct remains adjudicable.
 
-**Explanation:** `[FACT]` The phrase is structurally central to the Schedule.
+**Examiner trap 20:** Separate resignation validity, defection liability and later electoral eligibility.
 
-#### Q36. Which statement about a nominated member is correct?
+### MCQ 21. Keisham timing
 
-A. a party can be joined only after six months.
-B. joining at any time is prohibited.
-C. the six-month period runs from nomination.
-D. joining within six months from taking the seat is permitted without paragraph 2(3) disqualification.
+Which statement accurately describes Keisham Meghachandra Singh (2020)?
 
-**Answer: D.**
+A. It stated an ordinary three-month decision norm absent reasoned exceptional circumstances.
+B. It amended the Tenth Schedule to insert a ninety-day deadline.
+C. It permanently transferred all petitions to a retired-judge tribunal.
+D. It abolished judicial review of Speaker inaction.
 
-**Explanation:** `[FACT]` This is the exact distinction tested by the 2022 route.
+**Answer: A. It stated an ordinary three-month decision norm absent reasoned exceptional circumstances.**
 
-### Remedial MCQs 37-48 — Same Continuous Rotation
+**Option-specific explanations:**
 
-#### Q37. A member votes against a valid direction but receives condonation from the authorised party authority on day 12. The best conclusion is:
+- **A:** Correct: the Court supplied an ordinary constitutional time norm.
+- **B:** Incorrect: judicial decision did not amend the Schedule's text.
+- **C:** Incorrect: tribunal was recommended to Parliament, not created.
+- **D:** Incorrect: the case strengthens control over delay.
 
-A. paragraph 2(1)(b) disqualification does not arise on that vote because condonation occurred within 15 days.
-B. condonation must occur before voting.
-C. disqualification is automatic at the moment of voting.
-D. only ECI can condone.
+**Examiner trap 21:** Three months is a judicial benchmark, not express bare text.
 
-**Answer: A.**
+### MCQ 22. Nabam status
 
-**Explanation:** `[FACT]` Prior permission and post-vote condonation within 15 days are separate textual protections.
+As of 8 September 2026, the safest statement on Nabam Rebia is:
 
-#### Q38. A group containing exactly one-third of a legislature party claims a split in 2026. It is:
+A. It has been overruled by Parliament.
+B. Its removal-notice rule stands, while Subhash Desai referred its correctness for larger-bench reconsideration.
+C. It concerns resignation of ordinary members.
+D. It gives the Governor final power over defection.
 
-A. protected by old paragraph 3.
-B. not protected because paragraph 3 stands omitted.
-C. protected if the Governor agrees.
-D. automatically a merger.
+**Answer: B. Its removal-notice rule stands, while Subhash Desai referred its correctness for larger-bench reconsideration.**
 
-**Answer: B.**
+**Option-specific explanations:**
 
-**Explanation:** `[FACT]` The one-third split defence ended on 1 January 2004.
+- **A:** Incorrect: no constitutional amendment overruled the case.
+- **B:** Correct: state the operative proposition and unresolved reference together.
+- **C:** Incorrect: it concerns notice for removal of the Speaker.
+- **D:** Incorrect: paragraph 6 remains the adjudicatory source.
 
-#### Q39. Two-thirds of a legislature party announce that they have “merged”, while the original party denies any merger. The best exam answer is:
+**Examiner trap 22:** Do not present the larger-bench question as already decided.
 
-A. ECI must disqualify them.
-B. they are automatically criminals.
-C. apply paragraph 4's exact original-party and deeming text and identify the unresolved interpretive controversy.
-D. they are automatically protected.
+### MCQ 23. Subhash whip
 
-**Answer: C.**
+Under Subhash Desai (2023), the whip for Tenth Schedule purposes is appointed by:
 
-**Explanation:** `[LIMIT]` A categorical numerical shortcut would erase the legal controversy.
+A. the Governor after a floor test.
+B. the largest faction of the legislature party.
+C. the political party through its authorised structure.
+D. the Election Commission whenever a symbol dispute exists.
 
-#### Q40. A court is asked to stop the Speaker from deciding merely because an adverse decision is feared. The *Kihoto* baseline is:
+**Answer: C. the political party through its authorised structure.**
 
-A. ECI reference.
-B. Governor's permission.
-C. automatic injunction.
-D. no ordinary quia timet intervention before decision.
+**Option-specific explanations:**
 
-**Answer: D.**
+- **A:** Incorrect: the Governor does not appoint party whips.
+- **B:** Incorrect: headcount alone cannot create authorisation.
+- **C:** Correct: organisational party authority controls.
+- **D:** Incorrect: symbol jurisdiction does not appoint the legislative whip.
 
-**Explanation:** `[FACT]` Courts generally do not pre-empt the constitutionally assigned adjudicator.
+**Examiner trap 23:** Political party and legislature party have different constitutional functions.
 
-#### Q41. A Speaker sits on a petition until the Assembly term is nearly over. Which chain is most relevant?
+### MCQ 24. Parallel tracks
 
-A. *Rajendra Singh Rana* -> *Keisham Meghachandra Singh (2020)* -> judicial direction against disabling inaction.
-B. parliamentary privilege exclusively.
-C. Article 352 -> emergency.
-D. ECI Symbols Order only.
+Which pair may proceed on separate legal tracks under Subhash Desai?
 
-**Answer: A.**
+A. A criminal trial and presidential election petition only.
+B. A privilege motion and every civil suit only.
+C. A Governor's party-membership decision and Speaker's symbol decision.
+D. ECI symbol proceedings and Speaker defection proceedings.
 
-**Explanation:** `[FACT]` Delay cannot be used to frustrate the Schedule's constitutional objective.
+**Answer: D. ECI symbol proceedings and Speaker defection proceedings.**
 
-#### Q42. A disqualified member wins a by-election before the old term ends. The 91st-Amendment office disability:
+**Option-specific explanations:**
 
-A. necessarily lasts for life.
-B. ends on declared re-election if that occurs earlier than original term expiry.
-C. becomes criminal punishment.
-D. is decided by the party whip.
+- **A:** Incorrect: it does not answer the Tenth Schedule allocation at issue.
+- **B:** Incorrect: the option is unrelated and overbroad.
+- **C:** Incorrect: both roles are reversed or invented.
+- **D:** Correct: the jurisdictions answer different legal questions.
 
-**Answer: B.**
+**Examiner trap 24:** Parallel proceedings do not mean identical legal tests or binding outcomes.
 
-**Explanation:** `[FACT]` Articles 75(1B), 164(1B) and 361B use the earlier-event formula.
+### MCQ 25. Council cap
 
-#### Q43. An expelled member joins another political party. The most relevant authority is:
+Which statement on the 91st-Amendment ministry caps is correct?
 
-A. *Minerva Mills*.
-B. *Bommai*.
-C. *G. Viswanathan*.
-D. *Kesavananda Bharati*.
+A. Union ministers including the Prime Minister cannot exceed 15% of Lok Sabha; State ministers including the Chief Minister cannot exceed 15% of Assembly, with a State minimum of 12.
+B. Both Union and State ministries have a fixed minimum of twelve.
+C. The cap is ten per cent for every House.
+D. The cap is calculated from the total strength of both Houses combined.
 
-**Answer: C.**
+**Answer: A. Union ministers including the Prime Minister cannot exceed 15% of Lok Sabha; State ministers including the Chief Minister cannot exceed 15% of Assembly, with a State minimum of 12.**
 
-**Explanation:** `[FACT]` Deemed original-party belonging continues for Tenth Schedule purposes.
+**Option-specific explanations:**
 
-#### Q44. Which proposition is outside *Subhash Desai (2023)*?
+- **A:** Correct: this states Articles 75(1A) and 164(1A) accurately.
+- **B:** Incorrect: the twelve-minister minimum is only for States.
+- **C:** Incorrect: the constitutional percentage is fifteen.
+- **D:** Incorrect: the reference House is Lok Sabha or the State Assembly.
 
-A. Speaker and ECI tracks may proceed concurrently.
-B. split defence is unavailable.
-C. political party appoints the Whip.
-D. the Supreme Court itself disqualified every disputed member.
+**Examiner trap 25:** Separate the State minimum from the common fifteen-per-cent ceiling.
 
-**Answer: D.**
+### MCQ 26. Minister bar end point
 
-**Explanation:** `[LIMIT]` The Court left first-instance disqualification to the Speaker.
+A party member disqualified under paragraph 2 contests and is declared elected before the old House term expires. The ministerial disability:
 
-#### Q45. The best way to write paragraph 7 is:
+A. always continues for life.
+B. ends on the date the person is declared elected, under the earlier-event formula.
+C. ends only if the former party consents.
+D. never applies to State ministers.
 
-A. “It textually bars courts, but *Kihoto* invalidated it for want of State ratification.”
-B. “It concerns merger.”
-C. “It is fully operative.”
-D. “It was deleted by Parliament.”
+**Answer: B. ends on the date the person is declared elected, under the earlier-event formula.**
 
-**Answer: A.**
+**Option-specific explanations:**
 
-**Explanation:** `[FACT]` This preserves both text and legal effect.
+- **A:** Incorrect: the bar is temporary and textually bounded.
+- **B:** Correct: declared re-election is the earlier terminating event.
+- **C:** Incorrect: party consent is not the constitutional endpoint.
+- **D:** Incorrect: Article 164(1B) supplies the State rule.
 
-#### Q46. A proposal to vest defection decisions in the President/Governor on ECI advice would:
+**Examiner trap 26:** The endpoint is old-term expiry or earlier declared re-election, whichever comes first.
 
-A. describe existing paragraph 6.
-B. require legal/constitutional change and mirrors the Articles 103/192 model.
-C. be implemented by a party whip.
-D. automatically solve every bias concern.
+### MCQ 27. Article 361B
 
-**Answer: B.**
+Article 361B principally concerns:
 
-**Explanation:** `[ANALYSIS][LIMIT]` It shifts institutional risk; it is not current law.
+A. the size of the Union Council of Ministers.
+B. the Speaker's removal procedure.
+C. a temporary bar on remunerative political posts for the specified disqualified member.
+D. the Election Commission's power over party symbols.
 
-#### Q47. Which reform most directly addresses loss of ordinary legislative deliberation?
+**Answer: C. a temporary bar on remunerative political posts for the specified disqualified member.**
 
-A. broader whips.
-B. longer Speaker delay.
-C. limiting binding whips to survival/core votes.
-D. making defection criminal.
+**Option-specific explanations:**
 
-**Answer: C.**
+- **A:** Incorrect: Article 75(1A) supplies the Union ministry cap.
+- **B:** Incorrect: Speaker removal is governed elsewhere.
+- **C:** Correct: Article 361B targets publicly remunerated political reward.
+- **D:** Incorrect: symbol power comes from the Symbols Order framework.
 
-**Explanation:** `[ANALYSIS]` It protects necessary stability while restoring issue-wise judgment.
+**Examiner trap 27:** Ministerial bars and remunerative-political-post bars are related but separately located.
 
-#### Q48. The best final verdict on the law is:
+### MCQ 28. Whip reform
 
-A. wholly useless.
-B. unconstitutional in its entirety.
-C. perfectly effective.
-D. justified in principle but weakened by broad whips, group/resignation routes and partisan delay.
+Which proposition is a reform proposal rather than present Tenth Schedule law?
 
-**Answer: D.**
+A. A party member may be disqualified for voluntarily giving up membership.
+B. An independent is disqualified on joining a political party.
+C. The Speaker or Chairman ordinarily decides paragraph 6 questions.
+D. Whip-backed disqualification should be confined to confidence, money/supply or comparable survival votes.
 
-**Explanation:** `[ANALYSIS]` A graded verdict recognises both stability gains and design failures.
+**Answer: D. Whip-backed disqualification should be confined to confidence, money/supply or comparable survival votes.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: this is current paragraph 2(1)(a).
+- **B:** Incorrect: this is current paragraph 2(2).
+- **C:** Incorrect: this is current paragraph 6.
+- **D:** Correct: narrow-whip models are recommended reforms, not enacted limits.
+
+**Examiner trap 28:** Status-label reform recommendations; do not constitutionalise them by repetition.
+
+### MCQ 29. Coalition versus merger
+
+Two parties form a post-election governing coalition but retain separate organisations. This is:
+
+A. not automatically a paragraph 4 merger.
+B. always a merger if they share a common minimum programme.
+C. a merger only when the Governor calls a floor test.
+D. proof that every member voluntarily gave up membership.
+
+**Answer: A. not automatically a paragraph 4 merger.**
+
+**Option-specific explanations:**
+
+- **A:** Correct: cooperation does not itself merge original political parties.
+- **B:** Incorrect: a programme is political evidence, not the paragraph 4 test.
+- **C:** Incorrect: floor-test power does not define organisational merger.
+- **D:** Incorrect: collective government support is not automatic para 2(1)(a) proof.
+
+**Examiner trap 29:** Merger changes party identity; coalition coordinates distinct parties.
+
+### MCQ 30. Sita Soren boundary
+
+Why is Sita Soren (2024) only a boundary case here?
+
+A. It restored the one-third split defence.
+B. It concerns bribery and legislative privilege, not the elements of paragraph 2 defection.
+C. It transferred defection petitions to criminal courts.
+D. It held every whip unconstitutional.
+
+**Answer: B. It concerns bribery and legislative privilege, not the elements of paragraph 2 defection.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: the case did not amend the Tenth Schedule.
+- **B:** Correct: its privilege holding prevents bribery immunity but is not a defection test.
+- **C:** Incorrect: it did not change paragraph 6 allocation.
+- **D:** Incorrect: it did not invalidate party directions.
+
+**Examiner trap 30:** Do not merge criminal bribery, privilege and defection into one doctrine.
+
+### MCQ 31. Court role
+
+A High Court receives a petition asking it to decide disputed defection facts before the Speaker acts. The ordinary constitutional approach is:
+
+A. the court always conducts the first trial.
+B. the President must decide on Cabinet advice.
+C. the court ordinarily allows paragraph 6 first-instance adjudication, while retaining review and remedies against disabling inaction.
+D. the petition automatically becomes a symbol dispute.
+
+**Answer: C. the court ordinarily allows paragraph 6 first-instance adjudication, while retaining review and remedies against disabling inaction.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: courts are not the routine first-instance forum.
+- **B:** Incorrect: this is not the paragraph 6 process.
+- **C:** Correct: allocation, review and anti-delay remedies coexist.
+- **D:** Incorrect: factual overlap does not change jurisdictional character.
+
+**Examiner trap 31:** Judicial review is not synonymous with judicial first-instance adjudication.
+
+### MCQ 32. Reform synthesis
+
+Which reform package most directly answers the law's principal institutional weaknesses?
+
+A. Restore the one-third split and eliminate judicial review.
+B. Let the Governor choose the authorised political party.
+C. Make every dissenting speech a disqualification ground.
+D. Narrow high-stakes whips, neutral time-bound adjudication, clearer merger proof and stronger internal party democracy.
+
+**Answer: D. Narrow high-stakes whips, neutral time-bound adjudication, clearer merger proof and stronger internal party democracy.**
+
+**Option-specific explanations:**
+
+- **A:** Incorrect: both elements reverse constitutional lessons.
+- **B:** Incorrect: the Governor cannot decide intra-party leadership.
+- **C:** Incorrect: this would exceed paragraph 2 and suppress deliberation.
+- **D:** Correct: it addresses freedom, delay, merger engineering and party authorisation.
+
+**Examiner trap 32:** A credible reform must address both substantive reach and decision architecture.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Anti-Defection PYQ and Practice Workbook
+### Verified relevant UPSC PYQs
 
-[FACT] Audited local routing identifies two direct Prelims demands and one cross-owned Mains demand relevant to this package.
-
-[FACT] Exact wording and answer letters for the two objective questions were checked against the UPSC question-paper/answer-key record; the routing ledgers establish topic ownership. The 2023 GS-II wording, marks and word limit were also verified.
-
-### Visual 71 — Verified PYQ Route Map
-
-| Year | Stage | Q | Verified neutral demand | Key/wording control |
-|---:|---|---:|---|---|
-| 2022 | Prelims GS-I | 16 | nominated member and absence of a decision time-frame | official answer: B (2 only) |
-| 2025 | Prelims GS-I | 88 | Tenth Schedule decider and mention of political party | official answer: D (neither I nor II) |
-| 2023 | Mains GS-II | 5 | role of State presiding officers in order and impartial conduct | 10 marks, 150 words |
-
-*Caption: The package solves the concepts without inventing missing official keys or wording.*
-
-### Routed Prelims PYQ 1 — 2022 GS-I Q16
+#### PYQ 1 - UPSC CSE Prelims 2022, GS Paper I, Question 16
 
 **Exact question:** With reference to anti-defection law in India, consider the following statements:
 
 1. The law specifies that a nominated legislator cannot join any political party within six months of being appointed to the House.
 2. The law does not provide any time-frame within which the presiding officer has to decide a defection case.
 
-Which of the statements given above is/are correct?  
+Which of the statements given above is/are correct?
+
 A. 1 only  
 B. 2 only  
 C. Both 1 and 2  
 D. Neither 1 nor 2
 
-**Official answer: B — 2 only.**
+**Official key: B - 2 only.**
 
-**Resolution:** Statement 1 is incorrect because paragraph 2(3) permits a nominated member to join within six months from taking the seat and disqualifies joining after that period. Statement 2 is correct because the Schedule contains no express decision deadline; *Keisham Meghachandra Singh (2020)* later stated an ordinary three-month judicial norm absent exceptional circumstances.
+**Solution:** Statement 1 is incorrect. A nominated member who was unaffiliated may join within six months from taking the seat; joining after six months attracts paragraph 2(3). Statement 2 is correct because the Schedule has no express decision deadline. Keisham's ordinary three-month norm is judicial doctrine, not bare text.
 
-### Routed Prelims PYQ 2 — 2025 GS-I Q88
+#### PYQ 2 - UPSC CSE Prelims 2025, GS Paper I, Question 88
 
 **Exact question:** Consider the following statements:
 
-I. If any question arises as to whether a Member of the House of the People has become subject to disqualification under the Tenth Schedule, the President's decision in accordance with the opinion of the Council of Union Ministers shall be final.
+I. If any question arises as to whether a Member of the House of the People has become subject to disqualification under the Tenth Schedule, the President's decision in accordance with the opinion of the Council of Union Ministers shall be final.  
 II. There is no mention of the word 'political party' in the Constitution of India.
 
-Which of the statements given above is/are correct?  
+Which of the statements given above is/are correct?
+
 A. I only  
 B. II only  
 C. Both I and II  
 D. Neither I nor II
 
-**Official answer: D — Neither I nor II.**
+**Official key: D - Neither I nor II.**
 
-**Resolution:** Statement I is incorrect because paragraph 6 assigns the initial decision to the Speaker/Chairman, not the President acting on ministerial advice. Statement II is incorrect because the Tenth Schedule repeatedly uses “political party”. Do not confuse this route with Article 103 questions under Article 102(1), where the President acts on the Election Commission's opinion.
+**Solution:** Statement I is incorrect because paragraph 6 assigns the initial question to the Speaker, not the President acting on ministerial advice. Statement II is incorrect because the Tenth Schedule repeatedly uses 'political party'. Article 103 procedure for Article 102(1) disqualifications is a different route.
 
-### Routed Mains PYQ — 2023 GS-II Q5
+#### PYQ 3 - UPSC CSE Mains 2023, GS-II, Question 5 (supporting presiding-officer route)
 
-**Exact question:** “Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices.”  
-**GS-II | 10 marks | 150 words**
+**Exact question:** "Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices."  
+**10 marks | 150 words**
 
-**Model solution**
+**Official-key discipline:** UPSC does not publish an official descriptive model answer. The following is an original examiner-oriented solution, not an official key.
 
-**Thesis:** `[FACT]` State presiding officers are procedural guardians whose powers over debate, discipline, voting and defection make impartiality a constitutional operating condition.
+**Model solution:** State presiding officers are procedural guardians: they recognise speakers and motions, enforce rules, maintain order and protect both majority decision and opposition scrutiny. Their constitutional functions include voting arrangements under Article 189, Money Bill certification under Article 199 and defection adjudication under paragraph 6 of the Tenth Schedule.
 
-1. `[CLAIM]` They maintain orderly deliberation. `[EVIDENCE]` Articles 178-185 create the offices; House rules govern recognition, admissibility, discipline and voting. `[ANALYSIS]` fair allocation of speaking and motion time protects majority decision and opposition scrutiny. `[LIMIT]` broad procedural discretion requires consistent reasons.
-2. `[CLAIM]` They perform high-impact constitutional functions. `[EVIDENCE]` Article 189 supplies the casting vote, Article 199 involves Money Bill certification, and paragraph 6 of the Tenth Schedule assigns defection adjudication. `[ANALYSIS]` these decisions can affect bicameral scrutiny and government survival. `[LIMIT]` political membership creates an appearance-of-bias risk.
-3. `[CLAIM]` Judicial control supports impartiality. `[EVIDENCE]` *Kihoto Hollohan (1992)* treats the Speaker as a reviewable tribunal; *Keisham Meghachandra Singh (2020)* requires reasonable-time decision-making. `[ANALYSIS]` legality and timeliness prevent procedure from becoming partisan strategy. `[LIMIT]` the proposed independent tribunal is not enacted.
+These powers make impartiality operational rather than ceremonial. Kihoto treats the Speaker deciding defection as a reviewable tribunal; Keisham requires ordinarily prompt disposal. Reasoned rulings, equal opportunity, disclosed procedure and timely decisions prevent discretion from becoming a partisan device.
 
-**Verdict:** Impartiality should be institutionalised through reasoned rulings, equal procedure, timely decisions and neutral defection adjudication, not left to personal convention alone.
+Yet continuing party affiliation creates an appearance-of-bias risk. Best democratic practice therefore requires transparent rulings, convention-based detachment and neutral, time-bound defection adjudication subject to judicial review. The office should facilitate deliberation and lawful majority formation, not manufacture either.
 
-**Why this earns marks:** It connects functions to impartiality, uses Articles and cases, and avoids a generic list of Speaker powers.
+### Original Mains practice with model solutions
 
-**How to improve this answer:** In the exam, compress the three numbered dimensions to one sentence each and reserve 25-30 words for reforms. Improve further by naming one House-rule example and explicitly linking timely defection rulings to “best democratic practices”.
+#### Mains 1 - 10 marks | 150 words
 
-**Compression plan:** Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls.
+**Question:** Explain the paragraph 2 grounds and the distinct treatment of party, independent and nominated members.
 
-### Visual 72 — MCQ Rotation Plan
+**Directive route:** Define the issue, use exact constitutional text and a named holding, analyse institutional consequences, add a counter-position and close with a qualified verdict.
 
-```text
-Q1 A -> Q2 B -> Q3 C -> Q4 D
-repeat without interruption through Q48
+<!-- WORD-COUNT START M1 -->
+Paragraph 2 protects the political identity through which a legislator enters the House, but it uses category-specific rules. A party member is disqualified by voluntarily giving up membership or by voting or abstaining contrary to an authorised party direction without prior permission and without condonation within fifteen days. Ravi S. Naik confirms that voluntary giving up may be inferred from proved conduct, not only formal resignation.
 
-Original MCQs: Q1-Q36
-Remedials: Q37-Q48
-```
+An independent member is disqualified on joining any political party after election because the electorate chose a non-party candidate. A nominated member may join a party within six months from taking the seat; joining after that period attracts disqualification. If already affiliated at nomination, deemed belonging follows that party.
 
-*Caption: The answer-key sequence is continuous across both practice blocks.*
+Thus, the Schedule does not punish every dissent. It applies precise grounds, permissions and time rules, subject to paragraph 4 merger, paragraph 5 exemption, fair adjudication and judicial review.
+<!-- WORD-COUNT END M1 -->
 
-### Visual 73 — Solved-Mains Evidence Bank
+#### Mains 2 - 10 marks | 150 words
 
-| Issue | Constitutional anchor | Case/reform anchor |
-|---|---|---|
-| grounds | paragraph 2 | *Ravi S. Naik (1994)* |
-| merger | paragraph 4 | *Rajendra Singh Rana* analogy; current controversy |
-| Speaker | paragraph 6 | *Kihoto*, *Keisham Meghachandra Singh (2020)* |
-| resignation | Articles 101/190 | *Shrimanth* |
-| whip authority | paragraph 2(1)(b) | *Subhash Desai (2023)* |
-| office consequence | 75(1B), 164(1B), 361B | 91st Amendment |
-| reform | constitutional amendment | Goswami, Law Commission, *Keisham Meghachandra Singh (2020)* |
+**Question:** Distinguish political party, legislature party and original political party under the Tenth Schedule.
 
-*Caption: Each model answer should select only evidence that advances its thesis.*
+**Directive route:** Define the issue, use exact constitutional text and a named holding, analyse institutional consequences, add a counter-position and close with a qualified verdict.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Routed Mains PYQ — 2023 GS-II Q5”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+<!-- WORD-COUNT START M2 -->
+The political party is the organisational and electoral entity that sets up candidates and authorises legislative directions. The legislature party is the House-specific group of all members who belong to that political party. The original political party is the party to which a member belongs for paragraph 2(1).
 
-**Detailed examiner-grade model answer:**
+The distinction has two consequences. First, paragraph 2 discipline flows from the political party. Subhash Desai held that a breakaway legislature-party majority cannot appoint a rival whip merely through headcount; the Speaker must identify authorisation from the party constitution and organisation. Second, legislature-party numbers matter within paragraph 4: not less than two-thirds must agree to the merger for the deeming protection.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Routed Mains PYQ — 2023 GS-II Q5”.
+Therefore, two-thirds is not a free-standing power to create a new party. Organisational merger, legislative threshold and evidentiary inquiry must be separately established.
+<!-- WORD-COUNT END M2 -->
 
-**Analytical body:**
+#### Mains 3 - 15 marks | 250 words
 
-1. **Claim and named evidence:** Exact question: “Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices.” **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [FACT] State presiding officers are procedural guardians whose powers over debate, discipline, voting and defection make impartiality a constitutional operating condition. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Verdict: Impartiality should be institutionalised through reasoned rulings, equal procedure, timely decisions and neutral defection adjudication, not left to personal convention alone. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It connects functions to impartiality, uses Articles and cases, and avoids a generic list of Speaker powers. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Compression plan: Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Question:** Discuss Kihoto Hollohan's constitutional settlement on the Tenth Schedule and judicial review.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+**Directive route:** Define the issue, use exact constitutional text and a named holding, analyse institutional consequences, add a counter-position and close with a qualified verdict.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “Routed Mains PYQ — 2023 GS-II Q5”.
+<!-- WORD-COUNT START M3 -->
+Kihoto Hollohan preserved anti-defection while preventing the Tenth Schedule from becoming an enclave beyond the Constitution. The majority substantially upheld the 52nd Amendment and paragraph 6, rejecting the claim that entrusting the Speaker or Chairman necessarily destroyed the basic structure.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+However, paragraph 7 attempted to exclude every court from matters connected with Schedule disqualification. Because that ouster affected the jurisdiction of the Supreme Court and High Courts under Articles 136, 226 and 227, the proviso to Article 368 required ratification by at least half the States. The amendment lacked that ratification; paragraph 7 was therefore invalid without invalidating the remainder.
 
-### Original Mains 1 — Grounds and Member Types (10 marks, 150 words)
+Kihoto also characterised the presiding officer as a tribunal when deciding defection. The order is reviewable for constitutional mandate violation, mala fides, breach of natural justice and perversity. Review is supervisory, not a routine appeal on every factual disagreement. Ordinarily it follows the final decision, though grave and irreversible interlocutory consequences may justify exceptional intervention.
 
-**Question:** Explain the grounds of disqualification under the Tenth Schedule and the distinct treatment of independent and nominated members.
+The settlement is therefore dual: first-instance institutional allocation remains with the House's presiding officer, but finality cannot extinguish basic-structure judicial review. Later delay cases show the qualification: review corrects illegality, yet a partisan or inactive adjudicator can still distort legislative majorities before review arrives.
+<!-- WORD-COUNT END M3 -->
 
-**Model solution**
+#### Mains 4 - 15 marks | 250 words
 
-**Thesis:** `[FACT]` Paragraph 2 uses different rules because party-ticket, independent and nominated members enter the House with different electoral relationships.
+**Question:** Analyse resignation, defection disqualification and the 91st-Amendment office disabilities.
 
-1. `[CLAIM]` A party member faces two grounds. `[EVIDENCE]` Paragraph 2(1)(a) covers voluntarily giving up membership; *Ravi S. Naik (1994)* permits inference from conduct. Paragraph 2(1)(b) covers contrary voting/abstention without prior permission and without condonation within 15 days. `[ANALYSIS]` The first protects continuing allegiance; the second enforces authorised voting discipline. `[LIMIT]` every speech or dissent is not a whip breach.
-2. `[CLAIM]` An independent member has the strictest joining rule. `[EVIDENCE]` Paragraph 2(2) disqualifies on joining any party after election. `[ANALYSIS]` The voter chose a non-party candidate. `[LIMIT]` no six-month window exists.
-3. `[CLAIM]` A nominated member receives a limited choice period. `[EVIDENCE]` Paragraph 2(3) disqualifies only for joining after six months from taking the seat. `[ANALYSIS]` The text permits early political alignment. `[LIMIT]` the clock does not run from nomination.
+**Directive route:** Define the issue, use exact constitutional text and a named holding, analyse institutional consequences, add a counter-position and close with a qualified verdict.
 
-**Verdict:** The Schedule protects the electoral identity through category-specific rules rather than one universal prohibition.
+<!-- WORD-COUNT START M4 -->
+Resignation and defection are separate constitutional inquiries. A member may tender resignation under Article 101 or 190, while paragraph 6 may simultaneously require decision on earlier conduct under the Tenth Schedule. The sequence matters because a later resignation cannot retrospectively erase a completed paragraph 2 ground.
 
-**Why this earns marks:** It states every ground, supplies the 15-day and six-month controls, and uses *Ravi S. Naik (1994)* with a qualification.
+Shrimanth Balasaheb Patil held that the Speaker retained jurisdiction over antecedent defection despite resignations. This blocks the resign-and-escape route. Yet the Speaker exceeded constitutional authority by barring the members from contesting elections for the remainder of the Assembly term. Tenth Schedule disqualification vacates the seat; it does not itself create a term-long electoral prohibition.
 
-**How to improve this answer:** Use a three-row member-type table in rough work, then write one sentence per category. Improve by stating that the nominated-member clock runs from taking the seat and by separating prior permission from 15-day condonation.
+The 91st Amendment separately blocks immediate rewards. Articles 75(1B) and 164(1B) bar the specified paragraph-2-disqualified party member from ministership. Article 361B bars a remunerative political post. Each disability runs from disqualification until the old term would expire or, if the person contests earlier, the date declared elected, whichever occurs first.
 
-**Compression plan:** Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls.
+Thus, the framework combines anti-evasion with bounded consequences. Resignation cannot defeat jurisdiction, but neither the Speaker nor political criticism may invent a punishment beyond the constitutional text. Re-election may end the temporary office disability, exposing why resignation strategies remain a practical reform concern.
+<!-- WORD-COUNT END M4 -->
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the grounds of disqualification under the Tenth Schedule and the distinct treatment…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+#### Mains 5 - 20 marks | 250 words
 
-**Detailed examiner-grade model answer:**
+**Question:** Critically examine whether the anti-defection law protects stability at the cost of representative democracy.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Explain the grounds of disqualification under the Tenth Schedule and the distinct treatment of independent and nominated members.”.
+**Directive route:** Define the issue, use exact constitutional text and a named holding, analyse institutional consequences, add a counter-position and close with a qualified verdict.
 
-**Analytical body:**
+<!-- WORD-COUNT START M5 -->
+The Tenth Schedule answers a genuine democratic injury: legislators elected on a party mandate should not trade allegiance and office to overturn government. Paragraph 2, the deletion of the one-third split and the 91st-Amendment reward bars have reduced open individual floor-crossing and strengthened cabinet stability.
 
-1. **Claim and named evidence:** Original Mains 1 — Grounds and Member Types (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [FACT] Paragraph 2 uses different rules because party-ticket, independent and nominated members enter the House with different electoral relationships. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Verdict: The Schedule protects the electoral identity through category-specific rules rather than one universal prohibition. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It states every ground, supplies the 15-day and six-month controls, and uses Ravi S. Naik (1994) with a qualification. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Compression plan: Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+The same design creates costs. Paragraph 2(1)(b) does not confine disqualifying directions to confidence or Money Bills. Broad whips can suppress policy dissent, committee-minded scrutiny and constituency representation. Leadership thereby gains control without a parallel constitutional guarantee of internal party democracy. Paragraph 4 also channels strategy towards two-thirds group engineering, while resignation tactics may alter the effective majority before adjudication.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+Institutional design compounds the problem. The Speaker is both a political actor and paragraph 6 tribunal. Kihoto preserves review, Rajendra Singh Rana controls disabling inaction, and Keisham states an ordinary three-month norm, yet delay can still decide political outcomes before legality is settled. Subhash Desai restores organisational party authority over the whip but cannot itself democratise that authority.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “Explain the grounds of disqualification under the Tenth Schedule and the distinct treatment of independent and nominated members.”.
+The answer is calibrated reform, not repeal: confine disqualification-backed whips to government-survival and supply votes; create a neutral, time-bound adjudicator subject to review; require transparent party authorisation; and clarify that paragraph 4 demands genuine merger proof, not headcount alone. Stability is constitutionally valuable, but it should be secured by precise discipline rather than legislative servitude.
+<!-- WORD-COUNT END M5 -->
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+#### Mains 6 - 20 marks | 250 words
 
-### Original Mains 2 — Political Party and Legislature Party (10 marks, 150 words)
+**Question:** Using Subhash Desai (2023), analyse the distribution of authority during an intra-party legislative conflict.
 
-**Question:** Distinguish “political party” from “legislature party” under the Tenth Schedule. Why does the distinction matter?
+**Directive route:** Define the issue, use exact constitutional text and a named holding, analyse institutional consequences, add a counter-position and close with a qualified verdict.
 
-**Model solution**
+<!-- WORD-COUNT START M6 -->
+Subhash Desai rejects the idea that one institution or legislative faction controls every consequence of an intra-party conflict. Authority is distributed by function.
 
-**Thesis:** `[FACT]` A political party is the organisational/electoral entity; a legislature party is its group of members within a particular House.
+The political party, acting through its constitutionally relevant organisational structure, appoints the whip and leader. A legislature-party faction cannot manufacture that authority merely by assembling more legislators. The Speaker then identifies the authorised political party from its constitution, records and leadership material and decides Tenth Schedule petitions under paragraph 6. Courts supervise legality but do not ordinarily replace this first-instance fact-finding.
 
-- `[CLAIM]` Electoral belonging flows from the political party. `[EVIDENCE]` Paragraph 2 deems an elected member to belong to the party that set the member up. `[ANALYSIS]` Voter mandate cannot be rewritten only by House-level numbers. `[LIMIT]` membership disputes still require evidence.
-- `[CLAIM]` Voting authority flows from the political party. `[EVIDENCE]` Paragraph 2(1)(b) recognises its direction or an authorised person's direction; *Subhash Desai (2023)* holds that the political party appoints the Whip and Leader. `[ANALYSIS]` A factional legislature majority cannot manufacture a rival whip. `[LIMIT]` the Speaker must identify authorisation through inquiry and party rules.
-- `[CLAIM]` Legislature-party numbers matter in paragraph 4. `[EVIDENCE]` two-thirds agreement triggers the merger deeming rule. `[ANALYSIS]` This creates the present organisational-versus-numerical controversy. `[LIMIT]` two-thirds is not a free-standing right to defect.
+The Election Commission follows a separate track under the Symbols Order. It may decide a symbol dispute while disqualification petitions remain pending because symbol entitlement and paragraph 2 liability ask different questions. The Governor performs constitutional functions but cannot determine intra-party leadership. In the Maharashtra facts, the Court found no objective material for the impugned floor-test call based merely on internal dissent.
 
-**Verdict:** The distinction protects party mandate while exposing the unresolved tension in the merger exception.
+The judgment neither disqualified members itself nor restored the former government, whose Chief Minister had resigned. It also referred the correctness of Nabam Rebia's removal-notice restriction for larger-bench reconsideration; no later official merits ruling was located through 8 September 2026.
 
-**Why this earns marks:** It defines, applies and qualifies the distinction through both paragraph 2 and paragraph 4.
-
-**How to improve this answer:** Compress to definition → two legal uses → merger qualification. Improve by quoting “set up as a candidate” and explaining that legislature-party numbers matter only within a specified Schedule mechanism.
-
-**Compression plan:** Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish “political party” from “legislature party” under the Tenth Schedule. Why does the…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Distinguish “political party” from “legislature party” under the Tenth Schedule. Why does the distinction matter?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Mains 2 — Political Party and Legislature Party (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [FACT] A political party is the organisational/electoral entity; a legislature party is its group of members within a particular House. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Verdict: The distinction protects party mandate while exposing the unresolved tension in the merger exception. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It defines, applies and qualifies the distinction through both paragraph 2 and paragraph 4. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Compression plan: Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Distinguish “political party” from “legislature party” under the Tenth Schedule. Why does the distinction matter?”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### Original Mains 3 — Speaker as Adjudicator (10 marks, 150 words)
-
-**Question:** Evaluate the constitutional position of the Speaker as the adjudicator of defection petitions.
-
-**Model solution**
-
-**Thesis:** `[FACT]` Paragraph 6 entrusts the Speaker/Chairman with first-instance decision, but judicial doctrine treats that role as adjudicatory rather than politically immune.
-
-1. `[CLAIM]` The arrangement keeps the question within the House. `[EVIDENCE]` Paragraph 6 declares the decision final and provides a House-elected substitute when the Speaker is personally concerned. `[ANALYSIS]` institutional familiarity may aid speed. `[LIMIT]` continued party affiliation creates perceived bias.
-2. `[CLAIM]` Finality is constitutionally controlled. `[EVIDENCE]` *Kihoto Hollohan (1992)* classifies the Speaker as a tribunal and permits review for constitutional breach, mala fides, natural-justice violation and perversity. `[ANALYSIS]` legality survives the finality clause. `[LIMIT]` review is not a full appeal.
-3. `[CLAIM]` delay is a structural weakness. `[EVIDENCE]` *Keisham Meghachandra Singh (2020)* identifies an ordinary three-month outer limit and proposes an independent tribunal. `[ANALYSIS]` delayed justice can alter government survival. `[LIMIT]` no express Schedule deadline or tribunal amendment exists.
-
-**Verdict:** The current model is legally reviewable but institutionally fragile; neutral, time-bound adjudication is the stronger design.
-
-**Why this earns marks:** It balances constitutional text, judicial control, practical bias and reform within the word limit.
-
-**How to improve this answer:** Spend about 35 words each on text, review and delay, then give a two-line verdict. Improve by distinguishing paragraph 6 finality from paragraph 7 invalidity and by avoiding the claim that ECI currently decides defection.
-
-**Compression plan:** Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate the constitutional position of the Speaker as the adjudicator of defection petitions.”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Evaluate the constitutional position of the Speaker as the adjudicator of defection petitions.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Mains 3 — Speaker as Adjudicator (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [FACT] Paragraph 6 entrusts the Speaker/Chairman with first-instance decision, but judicial doctrine treats that role as adjudicatory rather than politically immune. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Verdict: The current model is legally reviewable but institutionally fragile; neutral, time-bound adjudication is the stronger design. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It balances constitutional text, judicial control, practical bias and reform within the word limit. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Compression plan: Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Evaluate the constitutional position of the Speaker as the adjudicator of defection petitions.”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### Original Mains 4 — Kihoto and Judicial Review (15 marks, 250 words)
-
-**Question:** “Kihoto Hollohan (1992) saved the anti-defection law from both invalidation and unaccountability.” Discuss.
-
-**Model solution**
-
-**Thesis:** `[FACT]` *Kihoto* upheld the central Tenth Schedule design while invalidating its attempted total ouster of courts, producing a controlled compromise between House adjudication and constitutional review.
-
-**Saved from invalidation**
-
-- `[CLAIM]` The majority rejected the argument that vesting power in the Speaker necessarily destroyed the basic structure. `[EVIDENCE]` It emphasised the high constitutional office and retained paragraph 6. `[ANALYSIS]` This preserved the 52nd Amendment's anti-defection mechanism. `[LIMIT]` the minority's bias concern later informed reform debate.
-
-**Saved from unaccountability**
-
-- `[CLAIM]` Paragraph 7 could not validly exclude Supreme Court/High Court jurisdiction. `[EVIDENCE]` It affected Articles 136, 226 and 227 but lacked ratification by half the States under Article 368(2). `[ANALYSIS]` amendment procedure protected federal participation and judicial review. `[LIMIT]` paragraph 7 remains printed but legally invalid.
-- `[CLAIM]` The Speaker is a tribunal. `[EVIDENCE]` Review survives for constitutional mandate violation, mala fides, natural-justice breach and perversity. `[ANALYSIS]` a political office exercising judicial power must give a legally defensible order. `[LIMIT]` review is jurisdictional, not a routine merits appeal.
-- `[CLAIM]` First-instance authority remains with the Speaker. `[EVIDENCE]` ordinary quia timet/interlocutory intervention is restricted. `[ANALYSIS]` this respects constitutional allocation. `[LIMIT]` *Keisham Meghachandra Singh (2020)* later clarifies that courts may aid prompt decision against inaction.
-
-**Verdict:** *Kihoto* did not perfect the law; it constitutionalised accountability around a structurally partisan decider. Later delay cases expose why judicial review is necessary but not sufficient.
-
-**Why this earns marks:** It answers both halves of the quotation, explains ratification, review grounds and timing, and adds a measured limitation.
-
-**How to improve this answer:** Compress the answer into two labelled halves—validity and accountability—before the verdict. Improve by naming Articles 136, 226 and 227 and stating that ordinary pre-decision intervention remains exceptional.
-
-**Compression plan:** Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls.
-
-**Demand decoding:** The directive **discuss** requires a direct position on ““Kihoto Hollohan (1992) saved the anti-defection law from both invalidation and unaccountability.”…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in ““Kihoto Hollohan (1992) saved the anti-defection law from both invalidation and unaccountability.” Discuss.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Mains 4 — Kihoto and Judicial Review (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [FACT] Kihoto upheld the central Tenth Schedule design while invalidating its attempted total ouster of courts, producing a controlled compromise between House adjudication and constitutional review. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Verdict: Kihoto did not perfect the law; it constitutionalised accountability around a structurally partisan decider. Later delay cases expose why judicial review is necessary but not sufficient. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Why this earns marks: It answers both halves of the quotation, explains ratification, review grounds and timing, and adds a measured limitation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Compression plan: Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in ““Kihoto Hollohan (1992) saved the anti-defection law from both invalidation and unaccountability.” Discuss.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### Original Mains 5 — Merger Exception (15 marks, 250 words)
-
-**Question:** “The merger exception risks converting a prohibition on defection into a numerical licence for wholesale defection.” Critically examine.
-
-**Model solution**
-
-**Thesis:** `[FACT]` Paragraph 4 protects genuine party merger, but its two-thirds deeming rule can be used to present coordinated legislative migration as constitutional realignment.
-
-**Why protection exists**
-
-- `[CLAIM]` Parties may genuinely reorganise. `[EVIDENCE]` Paragraph 4 protects members accepting another/new party and those rejecting the merger and functioning separately. `[ANALYSIS]` A rigid individual-only rule could punish authentic collective realignment. `[LIMIT]` protection must remain tied to merger, not convenience.
-
-**Why it becomes a loophole**
-
-- `[CLAIM]` The threshold rewards group engineering. `[EVIDENCE]` not less than two-thirds of the legislature party triggers the deeming rule after the one-third split defence was deleted. `[ANALYSIS]` actors rationally aggregate numbers rather than defect individually. `[LIMIT]` threshold alone does not answer the original-political-party language.
-- `[CLAIM]` Organisational mandate may be bypassed. `[EVIDENCE]` Paragraph 4(1) speaks of the original political party merging; *Subhash Desai (2023)* elsewhere stresses political-party authority over mere legislature factions. `[ANALYSIS]` voter choice is weakened if House numbers can rewrite party identity. `[LIMIT]` paragraph 4(2)'s deeming fiction creates a genuine interpretive dispute.
-- `[CLAIM]` *Rajendra Singh Rana* supplies a cautionary analogy. `[EVIDENCE]` under old paragraph 3, legislator numbers did not themselves prove an original-party split. `[ANALYSIS]` organisational reality matters. `[LIMIT]` that case interpreted the now-omitted split rule, not a final modern merger rule.
-
-**Reform:** Clarify organisational consent/evidence, redesign or remove the defence, and protect only transparent, genuine mergers followed by electoral accountability.
-
-**Verdict:** Paragraph 4 should remain an exception proved strictly, not a numerical safe harbour presumed automatically.
-
-**Why this earns marks:** It preserves the textual controversy, gives both rationales and avoids claiming an unverified 2026 settlement.
-
-**How to improve this answer:** Use paragraph 4(1) and 4(2) as the organising axis, not political examples. Improve by separating a genuine organisational merger from the two-thirds deeming rule and by labelling *Rajendra Singh Rana* only as an analogy.
-
-**Compression plan:** Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on ““The merger exception risks converting a prohibition on defection into a numerical licence…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in ““The merger exception risks converting a prohibition on defection into a numerical licence for wholesale defection.” Critically examine.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Mains 5 — Merger Exception (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [FACT] Paragraph 4 protects genuine party merger, but its two-thirds deeming rule can be used to present coordinated legislative migration as constitutional realignment. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Reform: Clarify organisational consent/evidence, redesign or remove the defence, and protect only transparent, genuine mergers followed by electoral accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Verdict: Paragraph 4 should remain an exception proved strictly, not a numerical safe harbour presumed automatically. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It preserves the textual controversy, gives both rationales and avoids claiming an unverified 2026 settlement. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in ““The merger exception risks converting a prohibition on defection into a numerical licence for wholesale defection.” Critically examine.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### Original Mains 6 — Resignation and Office Bars (15 marks, 250 words)
-
-**Question:** Analyse the relationship between resignation, defection disqualification and the office disabilities introduced by the 91st Amendment.
-
-**Model solution**
-
-**Thesis:** `[FACT]` Resignation and disqualification are distinct vacancy mechanisms; the 91st Amendment prevents a person adjudged a defector from immediately converting seat loss into ministerial or remunerative office.
-
-**Resignation does not erase prior defection**
-
-- `[CLAIM]` Liability is tied to the defection date. `[EVIDENCE]` *Shrimanth Balasaheb Patil (2019)* holds that a later resignation does not vaporise the taint or terminate Speaker jurisdiction. `[ANALYSIS]` otherwise a member could defeat paragraph 2 by timing a resignation. `[LIMIT]` the Speaker still must prove the ground through fair process.
-
-**Disqualification does not create an unlimited election ban**
-
-- `[CLAIM]` The Speaker's power is text-bound. `[EVIDENCE]` *Shrimanth* struck down the direction barring re-election until the Assembly term ended. `[ANALYSIS]` desirability cannot supply a qualification absent from the Constitution/RPA. `[LIMIT]` re-election does not retrospectively validate the earlier conduct.
-
-**91st-Amendment disabilities**
-
-- `[CLAIM]` Articles 75(1B) and 164(1B) bar ministerial appointment; Article 361B bars a remunerative political post. `[EVIDENCE]` each runs from disqualification until original term expiry or earlier declared re-election. `[ANALYSIS]` this targets the office reward that can motivate defection. `[LIMIT]` it is not criminal punishment or lifetime exclusion.
-
-**Verdict:** The scheme now follows a calibrated sequence: adjudicate past defection despite resignation, vacate the seat, impose temporary office disability, but preserve the electorate's power to return the candidate.
-
-**Why this earns marks:** It separates three legal mechanisms, uses the controlling case and states the exact duration formula.
-
-**How to improve this answer:** Write the events chronologically: alleged act → resignation → adjudication → office disability → possible re-election. Improve by stating “declared elected” and “whichever earlier”, rather than the loose phrase “until re-election or term end”.
-
-**Compression plan:** Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Analyse the relationship between resignation, defection disqualification and the office…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Analyse the relationship between resignation, defection disqualification and the office disabilities introduced by the 91st Amendment.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Mains 6 — Resignation and Office Bars (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Thesis: [FACT] Resignation and disqualification are distinct vacancy mechanisms; the 91st Amendment prevents a person adjudged a defector from immediately converting seat loss into ministerial or remunerative office. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Disqualification does not create an unlimited election ban **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Verdict: The scheme now follows a calibrated sequence: adjudicate past defection despite resignation, vacate the seat, impose temporary office disability, but preserve the electorate's power to return the candidate. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It separates three legal mechanisms, uses the controlling case and states the exact duration formula. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Analyse the relationship between resignation, defection disqualification and the office disabilities introduced by the 91st Amendment.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### Original Mains 7 — Effectiveness and Reform (20 marks, 300 words)
-
-**Question:** Has the anti-defection law strengthened parliamentary democracy or reduced legislators to agents of party leadership? Critically examine and suggest reforms.
-
-**Model solution**
-
-**Thesis:** `[ANALYSIS]` The Tenth Schedule strengthened government stability and party-linked electoral accountability, but its broad whip, merger incentives and partisan adjudication weakened deliberative representation. It is a necessary principle with an overbroad and poorly enforced design.
-
-**Democratic gains**
-
-1. `[CLAIM]` It raises the cost of opportunistic floor-crossing. `[EVIDENCE]` the 52nd Amendment constitutionalised seat loss for voluntary abandonment and whip defiance. `[ANALYSIS]` this protects the voter from office-driven mandate trading. `[LIMIT]` it cannot eliminate incentives.
-2. `[CLAIM]` It stabilises responsible government. `[EVIDENCE]` confidence arithmetic becomes more predictable. `[ANALYSIS]` ministries can implement programmes. `[LIMIT]` stability without scrutiny may become executive dominance.
-3. `[CLAIM]` It recognises political parties as constitutional actors. `[EVIDENCE]` candidate-setting, membership and directions all refer to the political party. `[ANALYSIS]` party labels shape electoral choice. `[LIMIT]` party leadership may be internally undemocratic.
-
-**Democratic costs**
-
-1. `[CLAIM]` Broad whips chill judgment. `[EVIDENCE]` paragraph 2(1)(b) is not confined to confidence or money votes. `[ANALYSIS]` legislators become numbers rather than deliberators. `[LIMIT]` core survival votes justify stronger discipline.
-2. `[CLAIM]` Group and resignation routes displace individual defection. `[EVIDENCE]` paragraph 4 and *Shrimanth* reveal merger/resignation strategies. `[ANALYSIS]` the law redirects rather than removes defections. `[LIMIT]` genuine merger and resignation remain legitimate constitutional possibilities.
-3. `[CLAIM]` Speaker timing can determine political outcomes. `[EVIDENCE]` *Kihoto*, *Rajendra Singh Rana*, *Keisham Meghachandra Singh (2020)* and the 2025 Telangana direction. `[ANALYSIS]` delayed adjudication can make final review hollow. `[LIMIT]` complex cases may require justified extension.
-
-**Reforms**
-
-- narrow binding whips to confidence/no-confidence, money/supply and clearly defined core commitments;
-- create an independent tribunal or a carefully insulated President/Governor-on-ECI-advice model;
-- enact a fixed deadline with reasoned exceptional extension;
-- redesign paragraph 4 to require transparent proof of genuine organisational merger;
-- require recorded party authorisation and strengthen internal party democracy;
-- preserve judicial review and natural justice.
-
-**Verdict:** Anti-defection should protect the mandate at moments of government survival, not extinguish representative judgment throughout legislative life.
-
-**Why this earns marks:** It balances achievement and harm, uses eight named anchors, explains mechanisms and offers matched reforms.
-
-**How to improve this answer:** For 300 words, use two gains, three costs and four matched reforms; drop secondary examples before dropping constitutional anchors. Improve by linking each reform to a diagnosed failure—whip breadth, Speaker bias, delay or merger engineering.
-
-**Compression plan:** Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls.
-
-**Demand decoding:** The directive **critically examine** requires a direct position on “Has the anti-defection law strengthened parliamentary democracy or reduced legislators to…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Has the anti-defection law strengthened parliamentary democracy or reduced legislators to agents of party leadership? Critically examine and suggest…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Mains 7 — Effectiveness and Reform (20 marks, 300 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** [CLAIM] It stabilises responsible government. [EVIDENCE] confidence arithmetic becomes more predictable. [ANALYSIS] ministries can implement programmes. [LIMIT] stability without scrutiny may become executive dominance. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** narrow binding whips to confidence/no-confidence, money/supply and clearly defined core commitments **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** create an independent tribunal or a carefully insulated President/Governor-on-ECI-advice model **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** enact a fixed deadline with reasoned exceptional extension **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Has the anti-defection law strengthened parliamentary democracy or reduced legislators to agents of party leadership? Critically examine and suggest…”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### Original Mains 8 — Maharashtra Institutional Conflict (20 marks, 300 words)
-
-**Question:** Using *Subhash Desai (2023)*, analyse how the Tenth Schedule distributes authority among the political party, legislature party, Speaker, Election Commission, Governor and courts.
-
-**Model solution**
-
-**Thesis:** `[FACT]` *Subhash Desai (2023)* rejects a single-institution solution to a party split. It assigns each institution a legally bounded function and prevents legislative headcount from silently replacing political-party authority.
-
-**Political party and legislature party**
-
-- `[CLAIM]` The political party controls authorised legislative direction. `[EVIDENCE]` it appoints the Whip and Leader; paragraph 2 links the member to the party that set the candidate up. `[ANALYSIS]` a factional legislature majority cannot self-authorise a rival whip. `[LIMIT]` the Speaker must determine authentic authority through the party constitution and evidence.
-- `[CLAIM]` Legislature-party numbers remain relevant but not sovereign. `[EVIDENCE]` paragraph 4 uses the two-thirds threshold. `[ANALYSIS]` numbers serve a defined constitutional defence. `[LIMIT]` they do not automatically settle party identity.
-
-**Speaker and ECI**
-
-- `[CLAIM]` The Speaker decides paragraph 6 petitions. `[EVIDENCE]` *Kihoto* tribunal doctrine and *Subhash Desai (2023)* first-instance rule. `[ANALYSIS]` membership liability remains House-linked. `[LIMIT]` decisions must be timely and reviewable.
-- `[CLAIM]` ECI decides the separate Symbols Order dispute. `[EVIDENCE]` *Subhash Desai (2023)* permits concurrent proceedings. `[ANALYSIS]` symbol recognition and defection ask different legal questions. `[LIMIT]` neither result mechanically controls the other.
-
-**Governor and courts**
-
-- `[CLAIM]` The Governor may use constitutionally relevant objective material for government formation/floor test, but cannot decide defection. `[EVIDENCE]` the impugned floor-test call lacked objective material; later government invitation after vacancy was upheld. `[ANALYSIS]` majority testing cannot become an indirect party-recognition mechanism. `[LIMIT]` facts and timing matter.
-- `[CLAIM]` Courts police boundaries. `[EVIDENCE]` judicial review remains; the Court did not ordinarily decide disqualifications first instance. `[ANALYSIS]` constitutional supervision preserves distributed authority. `[LIMIT]` *Nabam Rebia (2016)* correctness remains referred.
-
-**Verdict:** The judgment's enduring principle is jurisdictional discipline: political authority, legislative grouping, membership adjudication, symbol recognition and government formation must interact without collapsing into one another.
-
-**Why this earns marks:** It addresses all six institutions, uses exact holdings and preserves the unresolved *Nabam Rebia (2016)* issue.
-
-**How to improve this answer:** Use a six-box jurisdiction map in rough work and give each institution one verb. Improve by separating Speaker party-identification for Schedule purposes from ECI symbol adjudication and by stating that the seven-judge reference has not produced a verified merits ruling as of 5 September 2026.
-
-**Compression plan:** Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Using Subhash Desai (2023), analyse how the Tenth Schedule distributes authority among the political…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Using Subhash Desai (2023), analyse how the Tenth Schedule distributes authority among the political party, legislature party, Speaker, Election Commission,…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Original Mains 8 — Maharashtra Institutional Conflict (20 marks, 300 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Why this earns marks: It addresses all six institutions, uses exact holdings and preserves the unresolved Nabam Rebia (2016) issue. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Compression plan: Retain the thesis, exact constitutional anchor, one controlling case, one qualification and the verdict; remove examples before legal controls. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Using Subhash Desai (2023), analyse how the Tenth Schedule distributes authority among the political party, legislature party, Speaker, Election Commission,…”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+The case therefore supplies an institutional firewall: party authorises, Speaker adjudicates, ECI decides symbols, Governor stays within constitutional limits and courts review. Accurate answers must preserve these parallel jurisdictions rather than letting legislative headcount decide them all.
+<!-- WORD-COUNT END M6 -->

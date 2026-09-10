@@ -1,8 +1,6 @@
 # Polity — Subject-wide Syllabus
 
 Topics: **55**  
-Approval: **Approval pending**
-
 | # | Topic | Session | Workbook | Graphical | ASCII |
 |---:|---|---|---|---|---|
 | 01 | [Historical Background](01-Historical-Background/README.txt) | [PDF](01-Historical-Background/01-Complete-Learning-Session/Complete-Learning-Session.pdf) | [PDF](01-Historical-Background/02-Solved-Practice-Workbook/Solved-Practice-Workbook.pdf) | [Poster](01-Historical-Background/03-Carvaka-Graphical-Flowchart/At-a-Glance-Poster.pdf) | [PDF](01-Historical-Background/04-ASCII-Master-Flowchart/ASCII-Master-Flowchart.pdf) |

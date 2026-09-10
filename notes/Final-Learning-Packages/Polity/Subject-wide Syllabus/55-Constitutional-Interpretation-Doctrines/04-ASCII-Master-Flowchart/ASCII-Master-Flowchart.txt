@@ -1,90 +1,110 @@
-ASCII MASTER FLOW — PANEL 1/12: Method before doctrine
-TEXT -> STRUCTURE -> HISTORY -> PURPOSE -> BINDING PRECEDENT.
-TRIGGER -> TEST -> CASE/YEAR -> EFFECT -> LIMIT -> REMEDY.
-APPLICATION -> facts must satisfy every operative element.
-DOCTRINE != free-standing Article or slogan.
-MUST REMEMBER: Begin with constitutional text and the legal problem before selecting a
-  doctrine; a case label is not a substitute for an operative test.
+ASCII MASTER FLOW - PANEL 1/12: Constitutional foundation and doctrine route
+CONSTITUTIONAL SUPREMACY -> every public power remains constitution-bound.
+ARTICLE 13 -> inconsistent law void to extent of FR contravention.
+ARTICLE 32 -> guaranteed Supreme Court remedy for Fundamental Rights.
+ARTICLE 226 -> High Court writs for FRs and any other purpose.
+ARTICLE 141 -> Supreme Court law declared binds all courts in India.
+DOCTRINES -> structured judicial tests, not Articles or free policy licences.
+ANSWER START -> governing text -> trigger -> test -> holding -> effect -> limit.
 
-ASCII MASTER FLOW — PANEL 2/12: Severability, eclipse and waiver
-R.M.D. Chamarbaugwala v. Union of India (1957) -> separable workable remainder.
-Bhikaji Narain Dhakras (1955) -> pre-Constitution law dormant to conflict extent.
-Basheshar Nath (1958) -> consent cannot validate unconstitutional State action.
-OBJECT CHECK -> part of law / enforceability / individual consent.
+ASCII MASTER FLOW - PANEL 2/12: Interpretive methods
+TEXT -> words + definitions + provisos + Part + Schedule.
+STRUCTURE -> institutions + federal allocation + rights + checks.
+PURPOSE -> make guarantee/power effective without replacing enacted limits.
+PRECEDENT -> controlling ratio + bench strength under Article 141.
+HISTORY/ORIGINAL MATERIALS -> persuasive founding context, not enacted law.
+LIVING CONSTITUTION -> enduring text applied to new conditions.
+LIMIT -> no textless purpose, historical freezing or free judicial policy.
 
-ASCII MASTER FLOW — PANEL 3/12: Pith, ancillary power and colourability
-Prafulla Kumar Mukherjee (1947) -> true nature and character.
-State of Bombay v. F.N. Balsara (1951) -> incidental overlap / effective entry.
-K.C. Gajapati Narayan Deo (1953) -> disguised lack of competence.
+ASCII MASTER FLOW - PANEL 3/12: Article 13 validity doctrines
+SEVERABILITY -> part invalid -> separability + legislative intent + workable remainder.
+R.M.D. CHAMARBAUGWALA (1957) -> preserve valid independent scheme; no rewriting.
+ECLIPSE -> classical pre-Constitution law + Article 13(1) inconsistency.
+BHIKAJI NARAIN DHAKRAS (1955) -> dormant to extent, not repeal; possible revival.
+AMBICA MILLS (1974) -> claimant/right-specific qualification for later-law contexts.
+NON-WAIVER -> BASHESHAR NATH (1958): consent cannot validate unconstitutional State action.
+LIMIT -> private, statutory and procedural waivers require separate governing law.
 
-MOTIVE alone is insufficient.
+ASCII MASTER FLOW - PANEL 4/12: Legislative competence
+ARTICLES 245-246 + SEVENTH SCHEDULE -> territorial and subject competence.
+PITH AND SUBSTANCE -> true nature: purpose + scope + legal/practical effect.
+PRAFULLA KUMAR (1947); F.N. BALSARA (1951) -> incidental encroachment tolerated.
+ANCILLARY POWER -> measures reasonably necessary for valid field.
+COLOURABLE LEGISLATION -> K.C. GAJAPATI (1953): disguised lack of competence.
+COLOURABILITY != political motive or personal mala fides.
+TERRITORIAL NEXUS -> real, sufficient, liability-relevant State connection.
 
-ASCII MASTER FLOW — PANEL 4/12: Territorial nexus
-ART 245 -> territorial competence.
-State of Bombay v. R.M.D. Chamarbaugwala (1957) -> real and sufficient nexus.
-TEST: connection between State, subject and imposed liability/operation.
+ASCII MASTER FLOW - PANEL 5/12: Repugnancy and occupied field
+ARTICLE 254 PRECONDITION -> valid Union + State laws in same Concurrent field.
+DEEP CHAND (1959); M. KARUNANIDHI (1979).
+TEST -> direct conflict / impossible simultaneous obedience / exhaustive Parliamentary code.
+EFFECT -> Union law prevails; State law void only to extent of repugnancy.
+ARTICLE 254(2) -> reserved + Presidential assent: State priority within that State.
+LIMIT -> assent cannot cure incompetence; Parliament may later override.
+OCCUPIED FIELD -> demonstrated exhaustive intent, not mere central legislation.
 
-REMOTE OR ILLUSORY nexus fails.
+ASCII MASTER FLOW - PANEL 6/12: Harmony, supremacy and saving interpretation
+HARMONIOUS CONSTRUCTION -> each provision retains meaningful operation.
+KERALA EDUCATION BILL (1958); VENKATARAMANA DEVARU (1958).
+FEDERAL SUPREMACY -> only after reconciliation fails; apply Articles 246/254 precisely.
+READING DOWN -> narrower valid meaning already borne by text; KEDAR NATH (1962).
+READING INTO -> necessary implication with strong rights/structural basis; VISHAKA (1997).
+SHREYA SINGHAL (2015) -> incurably vague Section 66A could not be judicially rewritten.
+REMEDY ORDER -> read down -> sever -> strike, matching the identified defect.
 
-ASCII MASTER FLOW — PANEL 5/12: Article 254 repugnancy and occupied field
-Deep Chand v. State of Uttar Pradesh (1959) + M. Karunanidhi v. Union of India (1979).
-SAME CONCURRENT FIELD -> actual inconsistency / exhaustive scheme -> Union priority.
-ART 254(1) EFFECT -> State law void only to the extent of repugnancy.
-ART 254(2) ASSENT -> State prevalence; no cure for incompetence; Parliament may override.
+ASCII MASTER FLOW - PANEL 7/12: Precedent and time
+ARTICLE 141 -> law declared by Supreme Court binds all courts.
+RATIO -> necessary principle; OBITER -> persuasive observation.
+PER INCURIAM -> ignored binding statute/precedent; narrow exception.
+SUB SILENTIO -> point passed without conscious determination.
+DAWOODI BOHRA (2005) -> larger bench controls; coordinate doubt requires reference.
+GOLAKNATH (1967) -> prospective overruling introduced in Indian constitutional law.
+PROSPECTIVE EFFECT -> expressly reasoned temporal remedy, not permission to ignore precedent.
 
-ASCII MASTER FLOW — PANEL 6/12: Harmony, reading and invalidity
-In re Kerala Education Bill (1958) -> meaningful reconciliation.
-Kedar Nath Singh (1962) -> reading down within text.
-READING INTO -> strong constitutional basis; cannot create a complete code.
-SEVER / STRIKE -> only after saving construction fails.
-CLOSE DISTINCTION: Keep competence, rights review, interpretive meaning, precedent, temporal
-  effect and remedy as distinct stages with bench-strength discipline.
+ASCII MASTER FLOW - PANEL 8/12: Basic structure timeline
+1ST AMENDMENT 1951 -> Article 31B + Ninth Schedule.
+24TH AMENDMENT 1971 -> Articles 13(4), 368(3); constituent power affirmed.
+KESAVANANDA 24-04-1973 -> wide Article 368 power, no basic-structure damage.
+INDIRA GANDHI 1975 -> 39th Amendment Article 329A(4) invalidated.
+42ND AMENDMENT 1976 -> expanded Article 31C + Article 368(4)-(5).
+MINERVA MILLS 1980 -> limited amendment, review, Part III-IV harmony.
+WAMAN RAO 1981 / I.R. COELHO 2007 -> post-cut-off Ninth Schedule review.
+99TH AMENDMENT 2014 / NJAC CASE 2015 -> judicial independence protected.
 
-ASCII MASTER FLOW — PANEL 7/12: Time, amendment and basic structure
-I.C. Golaknath (1967) -> reasoned prospective overruling.
-Kesavananda Bharati (1973) -> Article 368 cannot damage basic structure.
-Minerva Mills (1980) -> limited amending power + Part III/IV harmony.
+ASCII MASTER FLOW - PANEL 9/12: Rights-review intensity
+PRESUMPTION -> ordinary law initially valid, but rebuttable.
+CLASSIFICATION -> intelligible differentia + rational nexus.
+ROYAPPA -> arbitrariness antithetical to equality.
+SHAYARA BANO -> manifest arbitrariness is a demanding legislative standard.
+PROPORTIONALITY -> authority -> aim -> connection -> necessity -> balance.
+MODERN DENTAL (2016); PUTTASWAMY (2017); ANURADHA BHASIN (2020).
+LIMIT -> structured review, not judicial replacement of preferred policy.
 
-INTERPRETATION != AMENDMENT.
+ASCII MASTER FLOW - PANEL 10/12: Morality, transformation and dynamic meaning
+CONSTITUTIONAL MORALITY -> text + procedures + equal citizenship + role obligations.
+NCT DELHI (2018); NAVTEJ (2018).
+TRANSFORMATIVE CONSTITUTIONALISM -> lawful dismantling of status hierarchy.
+VALUES -> liberty + equality + dignity + fraternity.
+LIVING CONSTITUTION -> enduring guarantees applied to new social/technical facts.
+ORIGINAL MATERIALS -> context and rejected alternatives; adopted text controls.
+LIMIT -> no free-standing personal morality or textless progressive policy.
 
-ASCII MASTER FLOW — PANEL 8/12: Equality standards and proportionality
-Ram Krishna Dalmia (1958) -> rebuttable validity presumption.
-E.P. Royappa (1973) -> arbitrariness/equality.
-Modern Dental College (2016) -> structured proportionality.
-Shayara Bano v. Union of India (2017) -> manifest arbitrariness.
-K.S. Puttaswamy (2017) + Anuradha Bhasin (2020) -> rights justification.
+ASCII MASTER FLOW - PANEL 11/12: Essential religious practices
+ARTICLES 25-26 -> conscience/practice + denominational rights, subject to limits.
+SHIRUR MUTT (1954) -> religious matters versus associated secular activity.
+NEXT -> public order + morality + health + social reform + other Part III rights.
+SABARIMALA (2018) -> ERP, autonomy, equality, dignity and morality interaction.
+CRITIQUE -> judicial theology + frozen internal diversity.
+STATUS 14-05-2026 -> nine-judge reference judgment reserved.
+CAUTION -> hearing/reservation is not a fresh final holding.
 
-ASCII MASTER FLOW — PANEL 9/12: Morality, transformation and religion
-Navtej Singh Johar v. Union of India (2018) -> constitutional morality + transformation.
-Shirur Mutt (1954) -> religious/secular distinction.
-Indian Young Lawyers Association (2018) -> equality, dignity and religion conflict.
-
-PENDING review/reference != changed holding.
-
-ASCII MASTER FLOW — PANEL 10/12: Administration and textual restraint
-Shamsher Singh (1974) -> pleasure/responsible government.
-Motilal Padampat Sugar Mills (1978) -> promissory estoppel limits.
-Navjyoti Cooperative Group Housing (1992) -> legitimate expectation.
-Padma Sundara Rao (2002) -> casus omissus restraint.
-
-ASCII MASTER FLOW — PANEL 11/12: Precedent, bench strength and Article 142
-ARTICLE 141 -> binding ratio; distinguish or refer.
-Supreme Court Bar Association (1998) -> Article 142 cannot disregard substantive law.
-SMALLER BENCH -> no silent overruling.
-OBITER -> persuasive, not automatically binding.
-
-ASCII MASTER FLOW — PANEL 12/12: UPSC integrated decision tree
-1 COMPETENCE -> pith / colour / nexus / Art 254.
-2 MEANING -> harmony / purpose / precedent.
-3 RIGHTS -> equality / proportionality.
-4 INVALIDITY -> read down / sever / strike.
-5 TIME + AUTHORITY -> prospective effect / Article 141.
-
-VERDICT: exact tests constrain judicial choice.
-
-CURRENT CONTROL: 5 SEPTEMBER 2026
-No located 2025-26 official judgment displaced this doctrine map.
-The nine-judge essential-religious-practices reference remains pending;
-a pending reference does not overrule the controlling larger-bench law.
-LEGAL/SOURCE LIMIT: No located 2025-26 authority displaced the established doctrine map; the
-  nine-judge essential-religious-practices reference remains pending.
+ASCII MASTER FLOW - PANEL 12/12: Examiner selection and answer spine
+1 IDENTIFY TEXT -> Arts 13 / 25-26 / 32 / 141 / 245-246 / 254 / 368.
+2 IDENTIFY TRIGGER -> meaning / competence / conflict / right / amendment / time.
+3 STATE TEST -> complete elements, not slogan.
+4 NAME HOLDING -> leading case + year + exact proposition.
+5 APPLY -> facts to each element.
+6 STATE EFFECT -> coexist / prevail / read down / sever / strike / future operation.
+7 QUALIFY -> claimant, field, bench, counter-right and institutional limit.
+VERDICT -> constitutional adaptation remains legitimate only when text, structure,
+precedent, competence and a narrow remedy discipline judicial choice.

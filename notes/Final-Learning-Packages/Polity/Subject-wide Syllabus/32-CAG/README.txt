@@ -1,19 +1,31 @@
-FINAL LEARNING PACKAGE
-======================
+POLITY TOPIC 32 - COMPTROLLER AND AUDITOR GENERAL OF INDIA
 
-Topic: CAG
-Subject: Polity
-Section: Subject-wide Syllabus
-Catalogue number: 32
-Source record ID: polity-32:learner-v2:g5
-Source generation: 5
-Approval: Approval pending
+Complete repaired package. Control date: 8 September 2026.
 
-Deliverables
-------------
-1. Complete Learning Session — PDF
-2. Solved Practice Workbook — PDF
-3. Carvaka Graphical Flowchart — poster PDF, printable tiled PDF, and high-resolution PNG
-4. ASCII Master Flowchart — standalone PDF and authored text
+01-Complete-Learning-Session\Complete-Learning-Session.pdf
+02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+03-Graphical-Flowchart\High-Resolution-Master.png
+03-Graphical-Flowchart\At-a-Glance-Poster.pdf
+03-Graphical-Flowchart\Printable-Tiled-Version.pdf
+04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
 
-Navigation command: Open final package: Polity — Subject-wide Syllabus — CAG
+Learning Markdown: 134,450 characters / 134,530 bytes; 12 visual-first core sessions.
+Workbook Markdown: 54,943 characters / 54,949 bytes.
+Quick-glance tree: 8,531 characters / 8,531 bytes.
+ASCII source: 5,250 characters; exactly 12 panels.
+Learning PDF: 54 pages / 146,878 extracted characters / 88 bookmarks.
+Workbook PDF: 19 pages / 63,530 extracted characters / 48 bookmarks.
+ASCII PDF: exactly 12 pages / 3,394 extracted characters.
+Workbook: 32 original MCQs before PYQs; ABCD repeated eight times;
+128 unique option explanations; 32 unique examiner traps; five verified direct/adjacent PYQs;
+exactly six original Mains models (2x10, 2x15, 2x20 marks).
+Original Mains model word counts: 134, 119, 167, 160, 171, 181.
+Graphical master: 4,800 x 12,600 pixels at approximately 300 DPI.
+Poster: one page embedding the exact master pixels.
+Native tile crops: rows 0-3500, 3100-6600, 6200-9700 and 9100-12600.
+Consecutive overlaps: 400, 400 and 600 pixels; complete vertical coverage.
+
+The learning session, workbook, quick-glance tree, 12-panel ASCII source and
+12-stage graphical master use the same constitutional, statutory and judicial spine.
+Volatile officeholder, vacancy, report-count and headline-loss figures are omitted.

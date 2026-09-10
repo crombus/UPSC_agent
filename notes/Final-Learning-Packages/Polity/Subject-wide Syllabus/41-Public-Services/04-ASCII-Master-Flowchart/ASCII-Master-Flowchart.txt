@@ -1,249 +1,223 @@
-ASCII MASTER FLOW — PANEL 1/12: Canonical scope: Part XIV services, not the PSC institution
-ROOT QUESTION
-How can an elected executive control administration without creating partisan tenure?
-
-OWNER SCOPE
-Articles 308-314 -> recruitment, tenure, discipline and All-India Services.
-Articles 315-323 -> Public Service Commissions; treated as a distinct institution topic.
-
-ARTICLE 308
-definition provision with present territorial reading after constitutional change.
-
-ARTICLE 309
-legislature regulates recruitment and service conditions.
-President/Governor makes rules until competent legislation operates.
-
-CLASSIFICATION
-Union/State civil service | All-India Service | civil post | defence-connected civil post.
-
-TRAP
-departmental label does not by itself decide constitutional status.
-MUST REMEMBER: Keep Articles 308-314 service law distinct from the Articles 315-323 Public
-  Service Commission institution.
-
-ASCII MASTER FLOW — PANEL 2/12: Article 309 rule hierarchy and service-rule interfaces
-AUTHORITY LADDER
-Constitution -> competent Act -> Article 309/AIS rules -> lawful executive instruction.
-A lower instrument cannot amend or contradict a higher one.
-
-RULE FAMILIES
-recruitment rules -> entry, eligibility and promotion.
-conduct rules -> behavioural obligations and misconduct standards.
-CCA rules -> classification, suspension, penalties, inquiry and appeal.
-
-ARTICLE 311 FLOOR
-service procedure must preserve constitutional safeguards unless an exact proviso applies.
-
-TRAP
-repeated departmental practice does not acquire statutory force by repetition.
-
-ASCII MASTER FLOW — PANEL 3/12: Doctrine of pleasure and the Article 311 protection trigger
-ARTICLE 310
-Union/AIS/civil-post tenure at President's pleasure.
-State civil tenure at Governor's pleasure.
-The Constitution's express safeguards and special tenure codes limit the doctrine.
-
-Shamsher Singh (1974)
-formal executive heads ordinarily act through constitutional government.
-
-ARTICLE 311 PERSONS
-Union civil service | AIS | State civil service | holder of Union/State civil post.
-
-ARTICLE 311 PENALTIES
-dismissal | removal | reduction in rank.
-
-ARTICLE 311(1)
-no dismissal/removal by an authority subordinate to the appointing authority.
-
-CORE RULE
-pleasure is constitutional power under law, not personal whim.
-
-ASCII MASTER FLOW — PANEL 4/12: Article 310(2) and Articles 312A-314 historical closure
-ARTICLE 310(2)
-specially qualified outsider + agreed tenure + non-misconduct early exit
--> contract may provide compensation.
-Not a general severance guarantee for every temporary or lateral appointee.
-
-ARTICLE 312A
-Parliament may vary or revoke specified former Secretary-of-State service conditions.
-
-ARTICLE 313
-pre-Constitution service law continues so far as consistent until replaced.
-
-ARTICLE 314
-repealed by the 28th Amendment, 1972.
-
-PURPOSE
-complete Part XIV without treating colonial-transition clauses as daily service rules.
-
-ASCII MASTER FLOW — PANEL 5/12: Article 311(2): inquiry and three exceptions
-REGULAR ARTICLE 311(2) ROUTE
-charges -> evidence -> reasonable opportunity -> inquiry finding -> competent penalty.
-
-Parshotam Lal Dhingra (1957) + Khem Chand (1957)
-punitive-foundation and reasonable-opportunity principles.
-
-42ND AMENDMENT EFFECT
-removed the separate constitutional opportunity on proposed penalty,
-not the charge-and-inquiry safeguard.
-
-THREE EXCEPTIONS
-(a) conviction on criminal charge.
-(b) inquiry not reasonably practicable; written reasons required.
-(c) President/Governor satisfied inquiry not expedient in State security.
-
-Union of India v. Tulsiram Patel (1985)
-exceptions are constitutional but their jurisdictional facts and legality remain reviewable.
-
-ECIL v. B. Karunakar (1993)
-inquiry-report supply and prejudice analysis strengthen fair disciplinary process.
-
-ASCII MASTER FLOW — PANEL 6/12: Penalty, termination and employment-status distinctions
-PENALTIES
-dismissal may carry future-employment consequences under rules.
-removal is distinct | reduction in rank is punitive demotion.
-
-TERMINATION SIMPLICITER
-form is not decisive; motive and foundation determine punitive character.
-
-OTHER ACTIONS
-suspension ordinarily interim | compulsory retirement may be punitive or non-punitive
-| probation/temporary exit requires the foundation test.
-
-STATUS SCREEN
-civil post -> Article 311 may apply.
-constitutional office -> special constitutional code first.
-statutory-body/PSU employee -> employer, statute and rules control.
-contractor/outsourced worker -> contract, labour law and real-control facts.
-
-TRAP
-public employment, office under State and civil post are not interchangeable labels.
-CLOSE DISTINCTION: Treat pleasure, Article 311 procedure, civil-post status, All-India
-  Services, tribunals, vigilance and reform as connected but separate tests.
-
-ASCII MASTER FLOW — PANEL 7/12: Article 312 and the All-India Services federal bridge
-CREATION ROUTE
-Rajya Sabha resolution by at least two-thirds of members present and voting
-that national interest requires one or more new All-India Services
--> Parliament may create by law.
-
-EXISTING AIS
-IAS | IPS | Indian Forest Service.
-Indian Foreign Service is a Central Civil Service, not AIS.
-
-DUAL CONTROL
-Union recruitment/cadre framework + State posting and field administration
--> shared career and deputation system.
-
-AIJS
-constitutionally enabled under Article 312; no post below district judge; not established.
-
-FEDERAL GAIN
-national standards and integration.
-FEDERAL RISK
-deputation conflict, centralisation and weak State voice.
-
-ASCII MASTER FLOW — PANEL 8/12: Article 335, neutrality, anonymity and public-service ethics
-ARTICLE 335
-SC/ST claims considered consistently with administrative efficiency,
-subject to the constitutional proviso on qualifying marks/standards for promotion.
-
-NEUTRALITY
-non-partisanship + constitutional commitment + candid advice + lawful implementation.
-
-ANONYMITY
-ministerial responsibility protects ordinary internal advice,
-but recordkeeping, courts, RTI law and accountability rules create lawful disclosure routes.
-
-ETHICS STACK
-integrity | objectivity | impartiality | political neutrality | empathy | accountability.
-
-ACCOUNTABILITY TRACKS
-departmental discipline | vigilance | criminal law | audit | legislative/judicial review.
-
-LIMIT
-neutrality is not resistance to lawful elected policy or silence about illegality.
-
-ASCII MASTER FLOW — PANEL 9/12: Specialists, lateral entry, training and performance management
-GENERALIST VALUE
-coordination, field experience and whole-of-government perspective.
-
-SPECIALIST VALUE
-technical depth, regulatory knowledge and domain continuity.
-
-LATERAL ENTRY
-post-specific recruitment mode -> equality, recruitment rules, UPSC-consultation question,
-reservation, tenure, conflict and cooling-off controls must be checked.
-
-MISSION KARMAYOGI
-competency-based capacity building + iGOT learning infrastructure
--> role mapping -> continuous learning -> workplace application.
-
-PERFORMANCE
-outcome + legality + process quality + citizen impact + team development.
-
-LIMIT
-course completion or short contracts do not themselves prove better administration.
-
-ASCII MASTER FLOW — PANEL 10/12: Discipline, vigilance, criminal law and remedy tracks
-CONDUCT BREACH
-conduct rule -> CCA inquiry -> proportionate service penalty -> departmental remedy.
-
-CORRUPTION / CRIME
-vigilance or criminal investigation -> prosecution under competent law.
-Article 311 does not bar investigation or trial.
-
-SERVICE DISPUTE
-CAT where jurisdiction applies -> High Court Division Bench review after L. Chandra Kumar (1997).
-
-TRANSFER / ORAL ORDER PRESSURE
-T.S.R. Subramanian (2013) -> Civil Services Boards, tenure stability and written directions.
-
-CORE BALANCE
-fair discipline protects both accountable government and honest administration.
-
-ASCII MASTER FLOW — PANEL 11/12: Tribunals, transfer reform and the case-law accountability spine
-CAT INTERFACE
-Article 323A/Administrative Tribunals Act route for covered service disputes.
-
-L. Chandra Kumar (1997)
-tribunal decisions remain subject to High Court judicial review.
-
-T.S.R. Subramanian (2013)
-Civil Services Boards, tenure stability and written recording of oral directions.
-
-TRANSFER PROBLEM
-formal Article 311 security may coexist with informal pressure through posting control.
-
-REFORM PACKAGE
-stable but reviewable tenure | written orders | merit and domain pathways
-| fair discipline | protected disclosure | transparent appraisal | reasoned transfers.
-
-VERDICT
-security without accountability breeds insulation; control without security breeds compliance.
-
-ASCII MASTER FLOW — PANEL 12/12: UPSC traps, supporting PYQ and qualified answer synthesis
-PRELIMS FIREWALL
-Article 309 legislature first | rules are subordinate legislation
-| pleasure not personal | Article 311 covers civil posts
-| three exceptions exactly | written reasons for clause (b)
-| State security for clause (c) | Rajya Sabha gateway for AIS
-| IFS not AIS | AIJS enabled, not established | CAT review survives.
-
-SUPPORTING 2020 GS-II ROUTE
-institutional quality and civil-service reform for democracy.
-
-MAINS SPINE
-permanent executive purpose -> 309 rules -> 310 pleasure
--> 311 fairness/exceptions -> AIS federal bridge -> Article 335
--> neutrality/accountability -> capacity and tenure reform.
-
-CONCLUSION
-professional autonomy is legitimate only inside constitutional responsibility.
-
-CURRENT CONTROL: 5 SEPTEMBER 2026
-AIJS remains constitutionally enabled but uncreated.
-Mission Karmayogi/CBC/iGOT is operative reform architecture;
-vacancies, lateral-entry advertisements and dashboard totals remain unfrozen.
-LEGAL/SOURCE LIMIT: AIJS remains uncreated; Mission Karmayogi is operative policy, while
-  vacancies, lateral-entry advertisements and platform totals remain date-sensitive.
+PUBLIC SERVICES - ASCII MASTER FLOW DIAGRAM
+
+PANEL 01/12 - CONSTITUTIONAL LOCATION, SCOPE AND CATEGORIES
++------------------------------------------------------------------------+
+| PART XIV: SERVICES UNDER THE UNION AND THE STATES                      |
+|                                                                        |
+| Arts 308-314 = service relationship       Arts 315-323 = PSCs          |
+| Topic 41 owns the first block             Topic 28 owns the second     |
+|                                                                        |
+| Article 308: "State" excludes the former State of Jammu and Kashmir    |
+| in the printed text; read that text with the 2019 territorial change.  |
+|                                                                        |
+| SERVICE MAP                                                            |
+| AIS: IAS + IPS + Indian Forest Service -> common Union-State services  |
+| Central civil services/posts -> Union law/rules                        |
+| State civil services/posts -> State law/rules                          |
+| Defence services/posts -> Art 310, but uniformed personnel lack 311    |
+| Constitutional offices -> their special tenure/removal code controls  |
+| PSU/statutory/contract staff -> Article 311 is not automatic            |
++------------------------------------------------------------------------+
+                                  |
+                                  v
+PANEL 02/12 - ARTICLE 309: LAW, RULES AND INSTRUCTIONS
++------------------------------------------------------------------------+
+| "Subject to this Constitution"                                         |
+|        |                                                               |
+|        v                                                               |
+| Appropriate Legislature may regulate recruitment + service conditions  |
+|        |                                                               |
+|        +--> Act may regulate directly or authorise delegated rules      |
+|        |                                                               |
+|        v                                                               |
+| Until provision by/under an Act:                                       |
+| President (Union) / Governor (State), or directed person, makes rules   |
+|        |                                                               |
+|        v                                                               |
+| Executive instructions may fill a genuine gap, but cannot contradict   |
+| Constitution > Act > statutory rule.                                   |
+|                                                                        |
+| Recruitment rules != Conduct rules != Discipline/appeal rules          |
++------------------------------------------------------------------------+
+                                  |
+                                  v
+PANEL 03/12 - EQUALITY, RESERVATION AND PSC CROSS-REFERENCE
++------------------------------------------------------------------------+
+| Arts 14 + 16(1): non-arbitrariness and equality of opportunity          |
+| Art 16(2): specified prohibited grounds                                |
+| Arts 16(3)-(6): bounded constitutional authorisations                  |
+|   residence law by Parliament | backward-class reservation |           |
+|   promotion/consequential-seniority provisions | religious office | EWS |
+| Art 335: SC/ST claims + efficiency; proviso permits stated relaxation   |
+|                                                                        |
+| Indra Sawhney -> Art 16(4) enabling; no promotion reservation under it  |
+| Nagaraj -> enabling amendments upheld with constitutional conditions    |
+| Jarnail Singh -> no SC/ST backwardness data; inadequacy/efficiency stay |
+| Mukesh Kumar -> no fundamental right to reservation/promotion quota     |
+|                                                                        |
+| Art 320 PSC consultation: constitutionally important, generally         |
+| advisory unless governing law gives a different consequence.           |
++------------------------------------------------------------------------+
+                                  |
+                                  v
+PANEL 04/12 - ARTICLE 310: PLEASURE, NOT PERSONAL WHIM
++------------------------------------------------------------------------+
+| Except as expressly provided by the Constitution:                      |
+| Union civil/AIS/defence tenure -> pleasure of President                 |
+| State civil tenure              -> pleasure of Governor                 |
+|                                                                        |
+| Shamsher Singh: formal head ordinarily acts on ministerial aid/advice   |
+| Constitutional fences: Arts 14, 16, 311, special removal provisions,   |
+| governing statute/rules, mala-fide review and constitutional remedies   |
+|                                                                        |
+| Art 310(2): narrow contract for specially qualified outsider, fixed     |
+| term, with compensation for qualifying early non-misconduct termination |
+|                                                                        |
+| B.P. Singhal (bounded analogy): even a pleasure tenure expressly used   |
+| for Governors is not an arbitrary, capricious removal licence.          |
++------------------------------------------------------------------------+
+                                  |
+                                  v
+PANEL 05/12 - ARTICLE 311: WHO, WHAT AND WHICH PENALTIES
++------------------------------------------------------------------------+
+| Protected persons: Union civil service + AIS + State civil service +    |
+| holder of a civil post under Union/State                                |
+| Not automatic: armed-forces member, PSU employee, contractor,           |
+| constitutional office with a separate removal code                     |
+|                                                                        |
+| Protected consequences: DISMISSAL | REMOVAL | REDUCTION IN RANK         |
+| Dismissal: ordinarily graver future-employment consequence under rules  |
+| Removal: ends service without that ordinary disqualification            |
+| Reduction: penal lowering in rank/status; not every bona fide reversion |
+|                                                                        |
+| 311(1): dismissing/removing authority cannot be subordinate to the       |
+| appointing authority; identical individual is unnecessary.              |
+| Article 311 = procedural protection, not job immunity.                  |
++------------------------------------------------------------------------+
+                                  |
+                                  v
+PANEL 06/12 - ARTICLE 311(2): REGULAR INQUIRY AND 42ND AMENDMENT
++------------------------------------------------------------------------+
+| Charge memorandum + definite imputations                               |
+|        -> reply and document/witness access                             |
+|        -> inquiry by competent officer                                  |
+|        -> evidence, cross-examination where applicable, defence         |
+|        -> findings based on record                                      |
+|        -> inquiry report supplied where law requires                    |
+|        -> disciplinary authority's reasoned penalty                     |
+|                                                                        |
+| Khem Chand: meaningful knowledge of case + defence opportunity           |
+| 42nd Amendment: removed separate constitutional opportunity to          |
+| represent on proposed penalty after inquiry. It did NOT remove inquiry, |
+| hearing on charges, report fairness, reasoned decision or review.       |
+| ECIL v B. Karunakar: report-supply breach tested through prejudice.      |
++------------------------------------------------------------------------+
+                                  |
+                                  v
+PANEL 07/12 - THREE EXCEPTIONS AND JUDICIAL REVIEW
++------------------------------------------------------------------------+
+| Second proviso to Article 311(2):                                       |
+| (a) conduct leading to conviction on a criminal charge                  |
+| (b) competent authority records written reasons that inquiry is not     |
+|     reasonably practicable                                              |
+| (c) President/Governor satisfied inquiry is not expedient in the        |
+|     interest of the security of the State                               |
+|                                                                        |
+| These gateways dispense with the regular inquiry, not competence,       |
+| relevant material, good faith, proportionality or review.               |
+|                                                                        |
+| Article 311(3): authority's practicability decision is final, but        |
+| Tulsiram Patel preserves review of existence, relevance and bona fides. |
+| Convenience != impracticability; public interest != State security.     |
++------------------------------------------------------------------------+
+                                  |
+                                  v
+PANEL 08/12 - PUNISHMENT TEST AND CASE-LAW SPINE
++------------------------------------------------------------------------+
+| Parshotam Lal Dhingra: look to substance, right to post/rank and penal   |
+| consequences; temporary/probation status does not end the inquiry.       |
+| Shamsher Singh: innocuous form cannot hide a misconduct foundation.      |
+| Motive alone may explain action; misconduct as foundation attracts 311. |
+|                                                                        |
+| Khem Chand -> reasonable opportunity                                   |
+| Tulsiram Patel -> exact provisos and review                             |
+| T.S.R. Subramanian -> written directions, Civil Services Boards, tenure |
+| B.P. Singhal -> bounded anti-arbitrariness point for pleasure tenure     |
+|                                                                        |
+| Court asks legality, evidence nexus, natural justice and proportionality;|
+| it is not a routine departmental appellate authority.                  |
++------------------------------------------------------------------------+
+                                  |
+                                  v
+PANEL 09/12 - CONDUCT, SUSPENSION, DISCIPLINE AND CRIMINAL PROCESS
++------------------------------------------------------------------------+
+| Conduct rules define service obligations: integrity, impartiality,      |
+| political neutrality, confidentiality and lawful obedience.             |
+| Suspension pending inquiry/investigation is ordinarily interim, not a    |
+| penalty; it remains rule-bound, reviewable and linked to subsistence pay.|
+|                                                                        |
+| CCS (CCA) illustrations only - never universalise:                      |
+| Rule 10 suspension | Rule 11 penalties | Rule 14 major inquiry |         |
+| Rule 16 minor-penalty procedure                                         |
+| Minor examples: censure, recovery, withholding promotion/increments      |
+| Major examples: reduction, compulsory retirement, removal, dismissal    |
+|                                                                        |
+| Departmental proof: preponderance; criminal proof: beyond reasonable     |
+| doubt. Tracks may coexist; acquittal does not mechanically erase         |
+| discipline, and conviction does not mechanically fix one penalty.        |
++------------------------------------------------------------------------+
+                                  |
+                                  v
+PANEL 10/12 - ARTICLE 312 AND THE ALL-INDIA SERVICES
++------------------------------------------------------------------------+
+| Rajya Sabha declares necessity/expediency in national interest          |
+| support: not less than 2/3 of members PRESENT AND VOTING                |
+|        -> Parliament may by law create one or more AIS                  |
+|        -> service is common to Union and States                         |
+|                                                                        |
+| Article 312(2): IAS and IPS deemed created under clause (1)             |
+| Indian Forest Service: created under AIS Act framework; constituted 1966|
+| Existing AIS = IAS + IPS + Indian Forest Service; IFS is not an AIS     |
+|                                                                        |
+| AIJS: constitutionally enabled, not established; no post below district |
+| judge; creating law may adjust Part VI Ch VI without Art 368 treatment. |
+| Federal design = Union rules/common standards + State cadre deployment. |
++------------------------------------------------------------------------+
+                                  |
+                                  v
+PANEL 11/12 - ARTICLES 312A, 313, 314 AND SERVICE REFORM
++------------------------------------------------------------------------+
+| 312A (28th Amendment, 1972): Parliament may vary/revoke specified        |
+| service conditions of certain former Secretary-of-State recruits;       |
+| express protection remains for listed high constitutional offices.      |
+| 313: consistent pre-Constitution service law continues until replaced.  |
+| 314: former guarantee repealed by the 28th Amendment.                   |
+|                                                                        |
+| Reform compact: neutral advice + lawful implementation + recorded reasons|
+| Stable tenure/Civil Services Boards -> resist arbitrary transfer         |
+| Lateral entry -> expertise, but transparent Article 16-compliant design  |
+| Generalist + specialist -> coordination plus domain depth                |
+| Mission Karmayogi -> role/competency capacity, not a legal substitute    |
+| Performance appraisal -> outcomes + teamwork + integrity + appeal        |
+| Whistleblower protection -> lawful channels, confidentiality, anti-reprisal|
++------------------------------------------------------------------------+
+                                  |
+                                  v
+PANEL 12/12 - FINAL ANSWER ROUTE AND QUALIFIED CONCLUSION
++------------------------------------------------------------------------+
+| PRELIMS CLOSE-OPTION CHECKS                                              |
+| law vs rule vs instruction | pleasure vs whim | dismissal vs removal    |
+| inquiry vs second penalty notice | conviction vs automatic dismissal    |
+| impracticability vs inconvenience | State security vs public interest   |
+| AIS vs Central service | posting expectation vs enforceable legal right |
+|                                                                        |
+| MAINS PARAGRAPH                                                         |
+| Claim -> named Article/case/rule -> institutional effect -> qualification|
+|                                                                        |
+| CORE VERDICT                                                            |
+| Public-service law seeks neutral competence under democratic control:   |
+| Article 309 legalises personnel administration, Article 310 preserves    |
+| responsibility, Article 311 checks arbitrary punishment, and Article 312 |
+| integrates federal capacity. Protection secures lawful candour, not      |
+| immunity; reform must join capability, equality, tenure and accountability.|
++------------------------------------------------------------------------+

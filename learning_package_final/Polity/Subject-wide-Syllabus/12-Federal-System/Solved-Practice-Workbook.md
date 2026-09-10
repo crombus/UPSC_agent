@@ -1,676 +1,671 @@
 ---
-title: "Federal System — Solved Practice Workbook"
+title: "Federal System - Solved Practice Workbook"
 topic_key: polity-12
 ---
-# Federal System — Solved Practice Workbook
+# Federal System - Solved Practice Workbook
+
+> Constitution, official judgments, audited UPSC paper routes and current federal sources checked through 7 September 2026. Exactly 32 original MCQs precede ten audited direct/shared PYQs and six original Mains solutions. Unavailable historical official objective keys are explicitly withheld.
 
 ## BASIC MCQS / REMEDIATION
 
-### Original hard MCQ set - strict A → B → C → D rotation
+Exactly **32 original MCQs** follow. Q1-Q24 diagnose the full syllabus spine; Q25-Q32 remediate close distinctions. Correct options follow `ABCD` eight times. Every option has a question-specific explanation and every question ends with a unique trap.
 
-#### OM1. Federal essence
+### Q1. Which proposition most accurately identifies the federal principle?
 
-Which proposition best defines a federation?
-
-A. The Constitution protects authority of general and regional governments in assigned spheres.
-B. A treaty league alone is federal.
-C. Regional governments receive revocable powers from the Union.
-D. Courts must always be dual.
+A. The Constitution protects authority of general and regional governments in assigned spheres.  
+B. Every regional authority must possess a unilateral right to secede.  
+C. A national government is federal only when it is institutionally weak.  
+D. A federation necessarily maintains two completely separate court systems.  
 
 **Answer: A.**
 
-Constitutionally protected distribution, not mere administrative devolution, is the controlling test.
+- **A:** Correct. Constitutional allocation gives both levels direct authority and distinguishes federal self-rule from revocable administrative delegation.
+- **B:** Incorrect. A federation normally forms one constitutional order; secession is not an essential feature of federalism.
+- **C:** Incorrect. Federalism tests protected regional competence, not whether the Union lacks national coordinating capacity.
+- **D:** Incorrect. India has an integrated judiciary, yet courts still enforce the federal allocation under one supreme Constitution.
 
-#### OM2. Holding together
+**Examiner trap:** Do not substitute a textbook institutional form for the controlling test of constitutionally protected divided authority.
 
-India is best described as:
+### Q2. With reference to Articles 1 and 3, which statement is most accurate?
 
-A. a legally unitary State with no State autonomy.
-B. a holding-together federation with a strong Union.
-C. a coming-together compact with a secession right.
-D. a confederation of sovereign States.
+A. Every alteration of a State boundary requires that State legislature's consent.  
+B. India is a Union of States, and Parliament may reorganise States after seeking the affected State legislature's views.  
+C. Article 3 gives States a constitutional right to secede after consultation.  
+D. A law under Article 3 must always satisfy the special amendment procedure in Article 368.  
 
 **Answer: B.**
 
-India constitutionally distributes power to govern an existing diverse polity; States did not create the Union by compact.
+- **A:** Incorrect. The President must refer the proposal for views, but the affected legislature's consent does not bind Parliament.
+- **B:** Correct. The Union is not a compact with secession, while territorial change follows the consultative Article 3 process.
+- **C:** Incorrect. Article 1 and the constitutional design reject a unilateral State right to leave the Union.
+- **D:** Incorrect. Article 4 states that supplemental territorial provisions under Articles 2 and 3 are not Article 368 amendments.
 
-#### OM3. Article 1
+**Examiner trap:** State consultation under Article 3 is mandatory as a step, but State approval is not a constitutional veto.
 
-The phrase 'Union of States' most safely indicates that:
+### Q3. Which statement about the Government of India Act, 1935 is correct?
 
-A. State governments are Union departments.
-B. the Seventh Schedule is optional.
-C. the Union is not the result of an agreement among sovereign States with a secession right.
-D. State boundaries can never change.
+A. Its All-India Federation began operating immediately in 1937.  
+B. It abolished provincial autonomy and restored dyarchy in every provincial subject.  
+C. It proposed an All-India Federation, introduced provincial autonomy and used a three-List distribution, but the federation did not operate.  
+D. It vested residuary power permanently in elected provincial legislatures.  
 
 **Answer: C.**
 
-The expression rejects compact/secession theory while coexisting with real constitutional federalism.
+- **A:** Incorrect. The accession condition for the princely States was not fulfilled, so the proposed federal centre never commenced.
+- **B:** Incorrect. The Act replaced provincial dyarchy with provincial autonomy, although safeguards and gubernatorial powers remained extensive.
+- **C:** Correct. Those features made the Act an important antecedent without turning its uncommenced federation into historical fact.
+- **D:** Incorrect. Residuary authority under the 1935 scheme was associated with the Governor-General, not the elected provinces.
 
-#### OM4. Federal feature
+**Examiner trap:** Differentiate 'provided for a federation' from 'brought the federation into operation'.
 
-Which combination most directly protects federal allocation?
+### Q4. Which combination most directly secures a classical federal distribution in India?
 
-A. Governor appointment and All-India Services
-B. Single citizenship and emergency provisions
-C. Parliamentary government and collective responsibility
-D. Written supreme Constitution, division of powers and independent judiciary
+A. Single citizenship, All-India Services and emergency powers  
+B. Governor appointment, integrated audit and Article 3  
+C. Parliamentary government, Fundamental Duties and universal franchise  
+D. A written supreme Constitution, divided legislative fields, selective rigidity and independent judicial review  
 
 **Answer: D.**
 
-These features make the allocation authoritative and judicially enforceable.
+- **A:** Incorrect. These are principally integrating or centralising features rather than the safeguards of divided competence.
+- **B:** Incorrect. The group illustrates Union influence and territorial flexibility, not the core federal protection package.
+- **C:** Incorrect. These are important constitutional features but do not by themselves establish a federal allocation.
+- **D:** Correct. Textual allocation, supremacy, entrenchment and an umpire make regional competence legally durable.
 
-#### OM5. Rajya Sabha
+**Examiner trap:** A feature may be democratic or constitutional without being specifically federal.
 
-Which statement is correct?
+### Q5. Which statement about Rajya Sabha is correct?
 
-A. Rajya Sabha is a federal chamber, but States do not receive equal representation.
-B. Union Territories have no possible representation.
-C. Rajya Sabha can amend the Seventh Schedule alone.
-D. Each State has two members.
+A. It represents States in Parliament, but its seats are not distributed equally among all States.  
+B. Every State has the same number of Rajya Sabha members.  
+C. Only State legislatures may initiate constitutional amendments affecting federal provisions.  
+D. Rajya Sabha alone can enact a law altering State boundaries.  
 
 **Answer: A.**
 
-Fourth Schedule allocation broadly follows population; India does not copy US Senate equality.
+- **A:** Correct. The Fourth Schedule differentiates State representation broadly by population while retaining a federal chamber.
+- **B:** Incorrect. Equal State representation is a feature of some federations, not the Indian Council of States.
+- **C:** Incorrect. Constitutional amendment Bills begin in Parliament; States participate only through ratification where Article 368 requires it.
+- **D:** Incorrect. Parliament legislates under Article 3 through the ordinary bicameral process, not Rajya Sabha acting alone.
 
-#### OM6. Residuary power
+**Examiner trap:** State representation and equal State representation are different propositions.
 
-Residuary legislative power in India belongs to:
+### Q6. Residuary legislative power under the Indian Constitution primarily belongs to:
 
-A. the Inter-State Council.
-B. Parliament under Article 248 and Union Entry 97.
-C. State legislatures collectively.
-D. the Supreme Court.
+A. State legislatures through State List Entry 1.  
+B. Parliament under Article 248 read with Union List Entry 97.  
+C. The Inter-State Council under Article 263.  
+D. The Supreme Court through Article 131.  
 
 **Answer: B.**
 
-This is a centralising feature and differs from several classic federations.
+- **A:** Incorrect. State List Entry 1 concerns public order and does not supply a general residuary competence.
+- **B:** Correct. Article 248 and Entry 97 allocate unenumerated legislative matters and residuary taxation to Parliament, subject to later GST design.
+- **C:** Incorrect. The Inter-State Council is a consultative mechanism and has no independent legislative field.
+- **D:** Incorrect. Article 131 grants original judicial jurisdiction over specified disputes, not lawmaking power.
 
-#### OM7. List counts
+**Examiner trap:** Do not import the American allocation of residue to constituent units into the Indian scheme.
 
-Which is the standard current examination statement?
+### Q7. Article 246A is best understood as:
 
-A. Union 98, State 59, Concurrent 52
-B. Union 100, State 60, Concurrent 50
-C. Union 100, State 61, Concurrent 52
-D. Union 97, State 66, Concurrent 47
+A. a new entry added to the Concurrent List.  
+B. a power allowing only Parliament to legislate on all GST supplies.  
+C. a special constitutional grant of simultaneous GST competence, with a distinct rule for inter-State supplies.  
+D. a provision making GST Council recommendations automatically enforceable.  
 
 **Answer: C.**
 
-Use 100/61/52; omitted and inserted numbering explains alternative literal counts.
+- **A:** Incorrect. Article 246A is a standalone constitutional competence provision rather than a Seventh Schedule entry.
+- **B:** Incorrect. State legislatures also possess GST competence, while Parliament has the specified exclusive inter-State role.
+- **C:** Correct. The provision creates shared competence and must be read with Articles 269A and 279A.
+- **D:** Incorrect. Legislative competence and the legal effect of Council recommendations are separate questions.
 
-#### OM8. Article 246
+**Examiner trap:** Special concurrent competence under Article 246A is not the same as placing GST in List III.
 
-Which statement is correct?
+### Q8. Which statement correctly describes Article 254?
 
-A. State List always overrides Union List.
-B. Article 246 contains no hierarchy.
-C. Concurrent power belongs only to Parliament.
-D. Union List power operates notwithstanding Concurrent and State clauses.
+A. It resolves every constitutional disagreement between the Union and a State.  
+B. It always invalidates a State law once Parliament legislates on any subject.  
+C. Presidential assent makes a State law permanently immune from later parliamentary law.  
+D. It principally governs repugnancy on Concurrent subjects, with a State-specific assent exception that Parliament may later override.  
 
 **Answer: D.**
 
-Article 246(1) uses a notwithstanding clause; State power is expressly subject to clauses (1) and (2).
+- **A:** Incorrect. Many disputes concern competence, executive power or constitutional rights and never enter Article 254.
+- **B:** Incorrect. Parliamentary priority depends on the constitutional field and an actual repugnancy, not mere legislative activity.
+- **C:** Incorrect. Article 254(2) preserves local operation after assent but expressly leaves later parliamentary override possible.
+- **D:** Correct. The provision supplies a priority rule for irreconcilable Concurrent-field conflict and a qualified State-law exception.
 
-#### OM9. Pith and substance
+**Examiner trap:** Repugnancy is narrower than overlap: first identify the field and attempt harmonious operation.
 
-The doctrine primarily asks:
+### Q9. Parliament's power under Article 249 is activated by:
 
-A. What is the true nature and character of the law?
-B. Is the law popular?
-C. Did Parliament consult every State?
-D. Was presidential assent politically wise?
+A. a Rajya Sabha resolution supported by two-thirds of members present and voting that national interest requires parliamentary legislation.  
+B. a simple majority resolution of Lok Sabha declaring any subject important.  
+C. identical resolutions of every State legislature.  
+D. a declaration by the Finance Commission.  
 
 **Answer: A.**
 
-A law within competence survives incidental encroachment into another field.
+- **A:** Correct. The Council of States supplies the special federal trigger and the resolution operates for a limited renewable period.
+- **B:** Incorrect. Article 249 deliberately assigns the triggering role to Rajya Sabha and prescribes a special present-and-voting threshold.
+- **C:** Incorrect. State resolutions belong to Article 252, and even there two or more States can initiate the route.
+- **D:** Incorrect. The Finance Commission recommends fiscal distribution and has no Article 249 legislative trigger.
 
-#### OM10. Article 254
+**Examiner trap:** Article 249 is the national-interest route through Rajya Sabha, not a general Lok Sabha override.
 
-A State law repugnant to an existing parliamentary law on a Concurrent subject may operate in that State if:
+### Q10. Which proposition about Article 250 is correct?
 
-A. the Inter-State Council recommends it.
-B. it is reserved for and receives Presidential assent.
-C. the Governor signs without reservation.
-D. Rajya Sabha alone approves it.
+A. It operates whenever President's Rule exists in any State.  
+B. It permits Parliament to legislate on State subjects while a National Emergency is in operation, with the law continuing for six months after the Emergency ends.  
+C. It requires prior resolutions from two State legislatures.  
+D. It permanently transfers the subject from List II to List I.  
 
 **Answer: B.**
 
-Parliament can subsequently override the assented State law.
+- **A:** Incorrect. President's Rule is governed by Articles 356-357; Article 250 is tied to Article 352 National Emergency.
+- **B:** Correct. The power and the six-month survival rule are temporary consequences of an operating National Emergency.
+- **C:** Incorrect. State initiative is the defining feature of Article 252, not Article 250.
+- **D:** Incorrect. The constitutional List remains unchanged after the temporary parliamentary law ceases to have effect.
 
-#### OM11. Article 249
+**Examiner trap:** Match the emergency correctly: Article 250 follows Article 352, not every proclamation in Part XVIII.
 
-Parliament may legislate on a State subject in national interest after:
+### Q11. A law made by Parliament under Article 252:
 
-A. every State consents.
-B. a simple Lok Sabha resolution.
-C. Rajya Sabha passes the prescribed two-thirds present-and-voting resolution.
-D. the Chief Justice certifies necessity.
+A. automatically applies to every State from enactment.  
+B. may be repealed independently by each requesting State legislature.  
+C. applies to requesting or later-adopting States, while Parliament retains amendment and repeal power.  
+D. requires a prior National Emergency.  
 
 **Answer: C.**
 
-The States' chamber supplies the special federal trigger.
+- **A:** Incorrect. The law initially binds the States whose legislatures requested parliamentary action.
+- **B:** Incorrect. Once enacted under Article 252, amendment or repeal belongs to Parliament rather than an individual participating State.
+- **C:** Correct. Other States may adopt the parliamentary law later, preserving a consent-based expansion mechanism.
+- **D:** Incorrect. The route depends on State resolutions, not an Article 352 proclamation.
 
-#### OM12. Article 252
+**Examiner trap:** State consent initiates and expands Article 252, but it does not leave unilateral State repeal power.
 
-Which statement is correct about a law under Article 252?
+### Q12. Article 253 enables Parliament to:
 
-A. It requires an Article 352 emergency.
-B. It automatically applies to every State.
-C. A requesting State may repeal it unilaterally.
-D. Parliament enacts on State request and Parliament alone can amend or repeal it.
+A. abolish judicial review whenever an international agreement is signed.  
+B. alter a State boundary without following Article 3.  
+C. legislate only after every affected State grants consent.  
+D. implement treaties, agreements, conventions or international decisions even when legislation touches a State subject.  
 
 **Answer: D.**
 
-Other States may later adopt the law.
+- **A:** Incorrect. Treaty implementation remains subject to Fundamental Rights, judicial review and other constitutional limitations.
+- **B:** Incorrect. Territorial reorganisation continues to be governed by Articles 2-4.
+- **C:** Incorrect. Article 253 does not textually require State consent before Parliament legislates for treaty implementation.
+- **D:** Correct. The provision supplies a national implementation power capable of reaching matters otherwise within List II.
 
-#### OM13. Article 253
+**Examiner trap:** Article 253 widens legislative reach for implementation; it does not suspend the Constitution.
 
-Article 253 permits Parliament to:
+### Q13. Articles 256 and 257 are most accurately described as:
 
-A. implement treaties even where legislation touches a State subject.
-B. change State boundaries without Article 3.
-C. suspend judicial review.
-D. abolish Rajya Sabha.
+A. text-bounded Union coordination and direction powers concerning compliance and non-impediment.  
+B. a general transfer of all State executive power to the Union.  
+C. judicial provisions authorising the Supreme Court to issue advisory opinions.  
+D. fiscal provisions distributing the divisible pool.  
 
 **Answer: A.**
 
-Treaty implementation is an express route into the State field, subject to the Constitution.
+- **A:** Correct. They connect State administration to applicable Union law and protect Union executive power from obstruction.
+- **B:** Incorrect. States retain executive authority; directions must rest on the constitutional purposes and fields specified.
+- **C:** Incorrect. Supreme Court advisory jurisdiction is found in Article 143, not Articles 256-257.
+- **D:** Incorrect. Tax distribution is addressed principally in Part XII, including Article 270.
 
-#### OM14. S.R. Bommai (1994)
+**Examiner trap:** A constitutional direction power is not a standing licence for central administration of every State subject.
 
-The strongest federal proposition from S.R. Bommai (1994) is:
+### Q14. Which statement about Article 263 is correct?
 
-A. Article 356 is non-justiciable.
-B. federalism is Basic Structure and Article 356 material is reviewable.
-C. States have a right to secede.
-D. Governors decide majority finally in private.
+A. It automatically creates a permanent court for all inter-State disputes.  
+B. It enables the President to establish a council for inquiry, discussion and recommendation on intergovernmental questions.  
+C. It makes every council recommendation binding on Parliament and States.  
+D. It concerns only the distribution of tax revenues.  
 
 **Answer: B.**
 
-S.R. Bommai (1994) constitutionalises federalism and favours floor determination of disputed majority.
+- **A:** Incorrect. Article 263 is enabling and consultative; adjudicatory routes arise from other constitutional or statutory provisions.
+- **B:** Correct. The provision can support investigation, discussion and recommendations to improve coordination.
+- **C:** Incorrect. The Inter-State Council's recommendations do not acquire binding legislative force merely through Article 263.
+- **D:** Incorrect. Fiscal distribution is centred on provisions such as Articles 270 and 280.
 
-#### OM15. Kuldip Nayar
+**Examiner trap:** Consultation, adjudication and legislation are distinct functions even when all address intergovernmental conflict.
 
-Kuldip Nayar is safely used to show that:
+### Q15. Which constitutional statement about All-India Services is correct?
 
-A. State representation is unconstitutional.
-B. all States require equal seats.
-C. a State residence requirement for Rajya Sabha candidature is not indispensable to Indian federalism.
-D. Rajya Sabha is not a federal chamber.
+A. They can be created by an ordinary executive order of the Union Cabinet.  
+B. Every State legislature must pass an identical law before creation.  
+C. Article 312 requires a Rajya Sabha national-interest resolution by two-thirds of members present and voting before Parliament creates a new service.  
+D. Their officers are accountable only to the Union while serving in State cadres.  
 
 **Answer: C.**
 
-The judgment recognises India's distinctive, not textbook-identical, federal design.
+- **A:** Incorrect. A new All-India Service requires the Article 312 parliamentary route, not executive instruction alone.
+- **B:** Incorrect. The constitutional trigger is a special Rajya Sabha resolution rather than identical State statutes.
+- **C:** Correct. The Council of States authorises Parliament to legislate, combining national administration with a federal safeguard.
+- **D:** Incorrect. Service in State cadres creates responsibilities within State administration alongside Union-level cadre arrangements.
 
-#### OM16. Cooperative federalism
+**Examiner trap:** Article 312 uses Rajya Sabha as a federal gate; it does not require unanimous State consent.
 
-Which statement is most precise?
+### Q16. Which relationship between Articles 355 and 356 is most accurate?
 
-A. It requires unanimous agreement.
-B. It eliminates State autonomy.
-C. It excludes competition.
-D. It denotes joint action while preserving constitutionally distinct governments.
+A. Every Article 355 concern automatically compels President's Rule.  
+B. Article 355 itself transfers State legislative power to Parliament.  
+C. Article 356 is immune from judicial review because Article 355 imposes a Union duty.  
+D. Article 355 states a Union duty, while Article 356 supplies an exceptional, separately conditioned and reviewable remedy.  
 
 **Answer: D.**
 
-Cooperation addresses interdependence; it does not merge the two levels.
+- **A:** Incorrect. Internal difficulty or a protection duty does not by itself prove constitutional government has become impossible.
+- **B:** Incorrect. Parliamentary exercise of State legislative power arises through Articles 356-357 after a valid proclamation.
+- **C:** Incorrect. *S.R. Bommai* confirms review of the proclamation's supporting material and constitutional purpose.
+- **D:** Correct. Duty and remedy have different legal functions, thresholds and consequences.
 
-#### OM17. Competitive federalism
+**Examiner trap:** Never use Article 355 as a shortcut around the distinct Article 356 threshold.
 
-A central benefit of competitive federalism is:
+### Q17. Which amendment proposition best protects the federal compact?
 
-A. policy innovation and diffusion among States.
-B. automatic equalisation of all capacities.
-C. abolition of transfers.
-D. removal of constitutional limits.
+A. Specified federal changes under Article 368 require a parliamentary special majority and ratification by at least half of State legislatures.  
+B. Every constitutional amendment requires ratification by all States.  
+C. State legislatures may introduce Article 368 amendment Bills.  
+D. A Governor's assent is required for a State ratification resolution.  
 
 **Answer: A.**
 
-Competition can improve outcomes but may widen capacity gaps.
+- **A:** Correct. The proviso to Article 368 gives States a limited but real role over enumerated federal subjects.
+- **B:** Incorrect. Most amendments do not require State ratification, and the federal category requires at least half rather than unanimity.
+- **C:** Incorrect. Amendment Bills may be introduced only in either House of Parliament.
+- **D:** Incorrect. State ratification occurs by legislative resolution and has no separate gubernatorial-assent stage.
 
-#### OM18. Morris-Jones
+**Examiner trap:** Selective rigidity protects named federal matters; it is not a universal State veto over amendment.
 
-The label 'bargaining federalism' is associated with:
+### Q18. What is the safest use of *State of West Bengal v. Union of India* (1963)?
 
-A. B.R. Ambedkar.
-B. Morris-Jones.
-C. K.C. Wheare.
-D. A.V. Dicey.
+A. It recognised a unilateral State right to secede from India.  
+B. It rejected sovereign-compact immunity of States from constitutionally valid Union power.  
+C. It held that State legislative fields are merely administrative delegations.  
+D. It made Article 3 dependent on unanimous State consent.  
 
 **Answer: B.**
 
-It captures negotiated Union-State political operation.
+- **A:** Incorrect. The Constitution creates an indestructible Union without a unilateral State secession right.
+- **B:** Correct. The case supports the strong-Union proposition that States are not sovereign entities outside the constitutional order.
+- **C:** Incorrect. The ruling did not erase the Seventh Schedule or reduce State competence to ordinary Union delegation.
+- **D:** Incorrect. Article 3 requires consultation through the constitutional process, not unanimity.
 
-#### OM19. GST Council
+**Examiner trap:** The case denies sovereign State immunity; it does not deny constitutional federalism.
 
-After Mohit Minerals (2022), GST Council recommendations are:
+### Q19. Which proposition follows most directly from *S.R. Bommai v. Union of India* (1994)?
 
-A. binding constitutional commands.
-B. irrelevant to GST law.
-C. recommendatory, within a system requiring collaboration.
-D. binding only on States.
+A. Article 356 can be invoked only after a constitutional amendment.  
+B. States possess sovereignty equal to the Union in international law.  
+C. Federalism is a basic feature, Article 356 material is reviewable and disputed majority ordinarily belongs on the Assembly floor.  
+D. The Governor's report conclusively binds Parliament and courts.  
 
 **Answer: C.**
 
-The Court preserved simultaneous legislative authority and dialogic cooperation.
+- **A:** Incorrect. Article 356 remains an operative constitutional power subject to its own procedure and judicial review.
+- **B:** Incorrect. Indian States exercise constitutional autonomy within one sovereign Union and do not conduct independent foreign relations.
+- **C:** Correct. The judgment joins basic-structure protection with practical controls on partisan displacement of State government.
+- **D:** Incorrect. Courts may examine relevant material, and a Governor's assessment cannot replace a proper floor test.
 
-#### OM20. Inter-State Council
+**Examiner trap:** Bommai constitutionalises restraint; it neither abolishes Article 356 nor creates co-equal sovereign States.
 
-Which pairing is correct?
+### Q20. What does *Kuldip Nayar v. Union of India* (2006) most safely establish for this topic?
 
-A. Article 280 - Inter-State Council
-B. Article 312 - Finance Commission
-C. Article 279A - Zonal Councils
-D. Article 263 - Inter-State Council
+A. Rajya Sabha has ceased to represent States.  
+B. Every federation must require equal seats and State domicile.  
+C. Open ballot and residence rules are irrelevant to constitutional review.  
+D. A State residence requirement for Rajya Sabha candidature is not indispensable to India's distinctive federal design.  
 
 **Answer: D.**
 
-Zonal Councils are statutory; the Finance Commission is Article 280.
+- **A:** Incorrect. Rajya Sabha remains constitutionally designated as the Council of States.
+- **B:** Incorrect. Classical models inform comparison but do not rigidly determine every Indian federal institution.
+- **C:** Incorrect. Institutional rules remain reviewable; the case assessed their compatibility rather than declaring them legally irrelevant.
+- **D:** Correct. The Court rejected the claim that domicile was an essential federal requirement in the Indian constitutional arrangement.
 
-#### OM21. Asymmetry
+**Examiner trap:** Use *Kuldip Nayar* to qualify textbook federalism, not to erase Rajya Sabha's federal role.
 
-Asymmetric federalism means:
+### Q21. After *Union of India v. Mohit Minerals* (2022), GST Council recommendations are:
 
-A. constitutionally differentiated arrangements for some units or regions.
-B. temporary President's Rule.
-C. unequal citizenship by default.
-D. no judicial review.
+A. persuasive products of collaborative dialogue, not binding commands to the Union or State legislatures.  
+B. binding only on States and optional for Parliament.  
+C. equivalent to constitutional amendments once adopted by vote.  
+D. unenforceable suggestions with no constitutional significance.  
 
 **Answer: A.**
 
-India uses asymmetry for accommodation through Schedules, Article 371 provisions and differentiated UT designs.
+- **A:** Correct. The judgment preserves legislative autonomy while recognising the Council's constitutional and practical importance.
+- **B:** Incorrect. The Court did not create an asymmetric rule binding States alone.
+- **C:** Incorrect. Article 279A recommendations do not bypass legislation or the Article 368 amendment procedure.
+- **D:** Incorrect. Non-binding recommendations can still structure harmonisation, political commitment and cooperative bargaining.
 
-#### OM22. Sixth Schedule
+**Examiner trap:** Non-binding does not mean meaningless; influential consultation and legal compulsion are different.
 
-The Sixth Schedule principally applies to tribal areas in:
+### Q22. Which statement best describes the GST Council's federal design?
 
-A. all north-eastern States.
-B. Assam, Meghalaya, Tripura and Mizoram.
-C. every Fifth Schedule State.
-D. only Assam.
+A. Every State has a constitutional veto over each recommendation.  
+B. Weighted voting requires both Union and collective State participation for the prescribed majority.  
+C. The Union's vote alone satisfies the constitutional decision threshold.  
+D. The Council replaces Parliament and State legislatures as the taxing authority.  
 
 **Answer: B.**
 
-It creates autonomous council architecture in the four named States.
+- **A:** Incorrect. Individual States participate, but Article 279A does not grant each one a unilateral veto.
+- **B:** Correct. The weight structure makes shared participation necessary and encourages negotiated outcomes.
+- **C:** Incorrect. The Union's one-third weight cannot by itself reach the three-fourths decision threshold.
+- **D:** Incorrect. Legislative competence remains with Parliament and State legislatures under Article 246A.
 
-#### OM23. Vertical imbalance
+**Examiner trap:** Council voting coordinates governments; it does not transfer legislative sovereignty to the Council.
 
-Vertical fiscal imbalance refers to:
+### Q23. The Finance Commission under Article 280 is:
 
-A. equal revenue and spending at both levels.
-B. only horizontal inequality among States.
-C. mismatch between revenue capacity and expenditure responsibilities across levels.
-D. a conflict within one State budget.
+A. a permanent chamber representing States equally.  
+B. an executive council whose directions bind State budgets.  
+C. a periodic constitutional body recommending tax distribution and grants.  
+D. the adjudicator of all disputes under Article 131.  
 
 **Answer: C.**
 
-States bear substantial spending duties while the Union controls broad tax bases.
+- **A:** Incorrect. Rajya Sabha is the continuing parliamentary chamber; the Finance Commission is periodically constituted.
+- **B:** Incorrect. It recommends fiscal arrangements and does not administer every State budget.
+- **C:** Correct. Article 280 provides the constitutional mechanism for periodic recommendations on devolution and specified grants.
+- **D:** Incorrect. Article 131 original jurisdiction belongs to the Supreme Court.
 
-#### OM24. 16th Finance Commission
+**Examiner trap:** Do not confuse recommendatory fiscal equalisation with binding executive control.
 
-Which current statement is used in this package?
+### Q24. Which pairing is correct?
 
-A. States receive 50% of all Union revenue.
-B. The Finance Commission was abolished.
-C. Cesses are automatically divisible.
-D. The 2026-31 vertical share remains 41% of the divisible pool.
+A. Vertical imbalance — unequal fiscal capacity among States  
+B. Horizontal imbalance — mismatch between Union revenue and State expenditure responsibilities  
+C. Vertical imbalance — only differences in population size  
+D. Horizontal imbalance — differences in fiscal capacity and expenditure need among States  
 
 **Answer: D.**
 
-Divisible pool is narrower than gross Union tax revenue because cesses and surcharges are excluded.
+- **A:** Incorrect. Differences among States define the horizontal dimension rather than the vertical Union-State mismatch.
+- **B:** Incorrect. Revenue-expenditure mismatch between governmental levels is vertical imbalance.
+- **C:** Incorrect. Population may influence need, but vertical imbalance concerns assignment across levels of government.
+- **D:** Correct. Horizontal imbalance compares States' ability to raise revenue and meet differing needs.
 
-#### OM25. Governor assent
+**Examiner trap:** Vertical compares levels; horizontal compares constituent units.
 
-Under the controlling 20 November 2025 opinion:
+### Q25. Which distinction between the Fifth and Sixth Schedules is accurate?
 
-A. no fixed judicial timelines or deemed assent exist, but prolonged inaction can invite a direction to act.
-B. every Bill is deemed assented after three months.
-C. courts choose assent or reservation.
-D. the Governor may keep a Bill forever without review.
+A. The Sixth Schedule creates autonomous district and regional councils in specified tribal areas, while the Fifth Schedule uses a different Scheduled Area and Tribes Advisory Council framework.  
+B. Both Schedules apply uniformly to every tribal area in India.  
+C. The Fifth Schedule gives each Scheduled Area a separate State constitution.  
+D. The Sixth Schedule abolishes the authority of the concerned State legislature.  
 
 **Answer: A.**
 
-Judicial intervention is limited: require action, not dictate the constitutional option.
+- **A:** Correct. The two schedules embody different institutional techniques and different territorial coverage.
+- **B:** Incorrect. Their application is constitutionally specified and neither is a universal tribal-governance code.
+- **C:** Incorrect. Fifth Schedule protection operates within the Constitution of India and does not create separate constitutions.
+- **D:** Incorrect. Autonomous councils possess defined powers without eliminating the State's constitutional role.
 
-#### OM26. CBI consent
+**Examiner trap:** Asymmetry requires clause-by-clause precision; Fifth and Sixth Schedule institutions are not interchangeable.
 
-Which is correct?
+### Q26. Article 239AA illustrates asymmetrical federalism because it:
 
-A. Police is in the Union List.
-B. Section 6 DSPE consent is ordinarily required, but constitutional courts can order CBI investigation.
-C. Withdrawal automatically voids every earlier proceeding.
-D. State consent can defeat a Supreme Court-ordered probe.
+A. makes Delhi a full State with authority over every State List subject.  
+B. creates an elected legislature and ministry for NCT Delhi while reserving public order, police and land outside its ordinary field.  
+C. gives the Lieutenant Governor an unrestricted personal veto over all administration.  
+D. removes Parliament's legislative competence concerning the National Capital Territory.  
 
 **Answer: B.**
 
-Consent protects federal police autonomy but is not absolute against constitutional judicial power.
+- **A:** Incorrect. Delhi remains a Union Territory with a special constitutional arrangement rather than full State status.
+- **B:** Correct. The design combines representative government with constitutionally excluded subjects and continuing parliamentary authority.
+- **C:** Incorrect. The Supreme Court has rejected routine displacement of the elected government's role by the Lieutenant Governor.
+- **D:** Incorrect. Article 239AA preserves substantial parliamentary competence for the National Capital Territory.
 
-#### OM27. Delimitation proposal
+**Examiner trap:** Delhi is neither an ordinary Union Territory nor a full State; answer through its specific text.
 
-The 850-seat figure discussed in 2026 should be described as:
+### Q27. Which statement about Articles 371 to 371J is correct?
 
-A. the current Article 81 ceiling.
-B. an Election Commission notification.
-C. a proposal in the defeated 131st Amendment Bill, not law.
-D. a Supreme Court direction.
+A. They create a single identical package of powers for every State.  
+B. They grant separate national citizenship to their beneficiary populations.  
+C. They contain differentiated State-specific arrangements responding to distinct historical and regional needs.  
+D. They operate only during a National Emergency.  
 
 **Answer: C.**
 
-Proposal text must never be converted into current constitutional fact.
+- **A:** Incorrect. The clauses differ substantially in subject, institution and territorial application.
+- **B:** Incorrect. India retains single citizenship; special governance arrangements do not create separate nationality.
+- **C:** Correct. The family exemplifies asymmetrical accommodation within a common constitutional order.
+- **D:** Incorrect. These are continuing constitutional provisions rather than emergency powers.
 
-#### OM28. Census control
+**Examiner trap:** Never compress the Article 371 family into one uniform privilege.
 
-Which statement is safest as of the control date?
+### Q28. Which statement most accurately reflects the 11 December 2023 Article 370 judgment?
 
-A. Enumeration dates are final publication dates.
-B. Delimitation must occur in 2027.
-C. Women's reservation is already operational.
-D. Notified census conduct dates do not establish publication, delimitation or election dates.
+A. It restored the former Article 370 arrangement and the separate J&K Constitution.  
+B. It fixed a legally binding calendar date for restoration of J&K statehood.  
+C. It held that Ladakh could not remain a Union Territory.  
+D. It upheld the 2019 constitutional changes, accepted Ladakh's Union Territory status and recorded an assurance of J&K statehood restoration without deciding the reorganisation issue finally.  
 
 **Answer: D.**
 
-The constitutional triggers depend on later steps; avoid invented timelines.
+- **A:** Incorrect. The Court upheld the application of the Constitution of India without the former special arrangement.
+- **B:** Incorrect. It directed Assembly elections by a date but did not prescribe a date for restoration of statehood.
+- **C:** Incorrect. The Court accepted the Union Territory status of Ladakh in the operative disposition.
+- **D:** Correct. This formulation preserves the judgment's holding, the assurance and the issue the Court did not finally determine.
 
-### Remedial MCQ loop - strict A → B → C → D rotation
+**Examiner trap:** Separate the Article 370 holding, Ladakh's status, the election direction and the un-fixed statehood question.
 
-#### RM1. Federal versus unitary
+### Q29. What principle is most closely associated with the 10 November 2023 Punjab Governor judgment?
 
-What makes State power federal rather than devolved?
-
-A. Its constitutional protection.
-B. The size of the State.
-C. A central grant.
-D. A Governor's speech.
+A. A Governor cannot indefinitely obstruct the normal legislative process and must act within the constitutional scheme.  
+B. A Governor may create an unlimited pocket veto over every State Bill.  
+C. The Speaker's conduct is controlled personally by the Governor.  
+D. Every Bill automatically becomes law if the Governor does not act within one month.  
 
 **Answer: A.**
 
-Constitutional origin and protection distinguish autonomy from revocable delegation.
+- **A:** Correct. The Court stressed constitutional action and rejected use of an unelected office to thwart ordinary lawmaking.
+- **B:** Incorrect. Indefinite inaction is inconsistent with the constitutional role and representative government.
+- **C:** Incorrect. The judgment respected the Speaker's procedural domain in the circumstances before it.
+- **D:** Incorrect. The Court did not invent an automatic one-month deemed-assent rule.
 
-#### RM2. Residuary power
+**Examiner trap:** Reject both extremes: indefinite obstruction and invented automatic assent.
 
-Who holds residuary legislative power?
+### Q30. Which pairing best distinguishes territorial and functional federalism?
 
-A. President personally
-B. Parliament
-C. Rajya Sabha alone
-D. States
-
-**Answer: B.**
-
-Article 248 and Union Entry 97 place it with Parliament.
-
-#### RM3. State List entry
-
-Which route begins with resolutions by two or more State legislatures?
-
-A. Article 250
-B. Article 249
-C. Article 252
-D. Article 253
-
-**Answer: C.**
-
-Article 252 is consensual State initiation followed by parliamentary law.
-
-#### RM4. Repugnancy
-
-Article 254 principally concerns conflict on:
-
-A. State List
-B. residuary subjects
-C. Union List
-D. Concurrent List
-
-**Answer: D.**
-
-It is not a general conflict clause for all Union-State disputes.
-
-#### RM5. S.R. Bommai (1994)
-
-Which is correct?
-
-A. Federalism is Basic Structure.
-B. Article 356 is immune from review.
-C. Governors decide majority conclusively.
-D. States can secede.
-
-**Answer: A.**
-
-S.R. Bommai (1994) supplies the core constitutional protection.
-
-#### RM6. GST Council
-
-Its recommendations are:
-
-A. binding on States only
-B. recommendatory
-C. constitutional amendments
-D. judicial orders
+A. Territorial federalism concerns only municipal boundaries; functional federalism concerns secession.  
+B. Territorial federalism allocates authority by level and territory; functional federalism coordinates governments around cross-cutting tasks.  
+C. Territorial federalism is constitutional; functional federalism abolishes the Constitution.  
+D. Functional federalism makes every intergovernmental body a sovereign tier.  
 
 **Answer: B.**
 
-Mohit Minerals (2022) confirms recommendatory status.
+- **A:** Incorrect. Territorial federalism includes the Union-State constitutional map, not merely local boundaries.
+- **B:** Correct. The distinction separates jurisdictional allocation from collaborative performance of interdependent functions.
+- **C:** Incorrect. Functional cooperation operates through constitutional and statutory authority rather than outside it.
+- **D:** Incorrect. A council or implementation network does not become a constituent sovereign government.
 
-#### RM7. Governor assent
+**Examiner trap:** A function may cross jurisdictions without dissolving the underlying territorial allocation.
 
-Which current proposition is correct?
+### Q31. Which statement about local governments in Indian federalism is correct?
 
-A. No review of inaction is possible
-B. Deemed assent after one month
-C. No deemed assent, but prolonged inaction may be reviewed
-D. Courts prescribe one universal deadline
+A. The Seventy-third and Seventy-fourth Amendments made local bodies sovereign constituent units equal to States.  
+B. Parliament directly assigns every local function throughout India.  
+C. Local bodies are constitutionally recognised, but Articles 243G and 243W depend on State legislation for devolution of powers.  
+D. Municipalities may invalidate State laws within their territory.  
 
 **Answer: C.**
 
-Use the November 2025 controlling opinion.
+- **A:** Incorrect. Constitutional recognition created a third level of governance, not a third co-sovereign federal order.
+- **B:** Incorrect. State legislatures occupy the central constitutional role in endowing panchayats and municipalities with powers.
+- **C:** Correct. The amendments secure institutional status while leaving the actual devolution architecture substantially State-mediated.
+- **D:** Incorrect. Local bodies exercise conferred powers and do not possess constitutional supremacy over State legislation.
 
-#### RM8. 2026 delimitation package
+**Examiner trap:** Use 'third tier of governance' without claiming a third constituent sovereignty.
 
-Its proposed numbers are:
+### Q32. Which conclusion is most defensible about Indian federalism?
 
-A. approved by the Supreme Court
-B. binding after introduction
-C. already in Article 81
-D. defeated proposal details, not current law
+A. India is purely unitary because Parliament can reorganise States.  
+B. India is purely federal because State List competence exists.  
+C. One scholarly label conclusively settles the constitutional classification.  
+D. India is constitutionally federal, Union-weighted and asymmetrical; cooperative, competitive and bargaining labels describe changing modes of operation.  
 
 **Answer: D.**
 
-Always preserve the proposal/not-law label.
+- **A:** Incorrect. Article 3 is a centralising feature, but it coexists with protected legislative and executive State competence.
+- **B:** Incorrect. State competence establishes a federal core but does not erase residuary, emergency and coordinating Union powers.
+- **C:** Incorrect. Scholarly descriptions illuminate dimensions and must be qualified against text, doctrine and practice.
+- **D:** Correct. The formulation integrates legal structure, asymmetry and changing intergovernmental behaviour without an absolute label.
+
+**Examiner trap:** A high-scoring verdict weighs structure, tilt and operation instead of choosing an unqualified binary label.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Routed PYQs with model solutions
+### Audited PYQ set and ownership discipline
 
-#### PYQ 1 - UPSC GS-II 2020, Q3 - direct
+- The ten questions below preserve the wording held in the repository's official-paper routing ledgers.
+- Direct Topic 12 routes are distinguished from shared or supporting routes whose full machinery belongs to Topics 13, 14 or 30.
+- The locally held final official keys do not cover the 2021 and 2023 objective questions; their answer letters are withheld.
 
-**Question:** How far do you think cooperation, competition and confrontation have shaped the nature of federation in India?  
+### PYQ 1 — UPSC GS-II 2020, Q3 — direct
+
+**Question:** How far do you think cooperation, competition and confrontation have shaped the nature of federation in India?
+
 **10 marks | 150 words**
 
 **Model solution**
 
 Indian federalism is constitutionally divided but politically dynamic; cooperation, competition
-and confrontation operate simultaneously.
+and confrontation operate simultaneously rather than in separate eras.
 
-**Cooperation** appears in the GST Council, Finance Commission, disaster response and shared
-schemes: the Union contributes scale while States supply implementation and local knowledge.
-**Competition** arises through investment, welfare innovation and outcome rankings, though unequal
-capacity can widen gaps. **Confrontation** occurs over Governor assent, CBI consent, devolution,
-cesses and river waters.
+**Cooperation** appears through GST deliberation, Finance Commission consultation, disaster
+coordination and shared programmes: the Union supplies scale while States contribute
+implementation and local knowledge. **Competition** appears in investment, welfare innovation
+and comparative performance, although unequal capacity can widen divergence. **Confrontation**
+arises over Governor conduct, CBI consent, taxes, borrowing and river disputes.
 
-Conflict need not destroy federalism when councils, Parliament, courts and elections channel it.
-*S.R. Bommai (1994)* makes federalism Basic Structure, while *Mohit Minerals (2022)* preserves legislative
-autonomy within GST cooperation. Granville Austin states the cooperative aspiration; Morris-Jones
-better captures bargaining practice.
+These tensions need not destroy the federation when Parliament, councils, courts and elections
+channel them. *S.R. Bommai* protects a basic federal floor, while *Mohit Minerals* preserves
+legislative autonomy within GST dialogue.
 
-Thus, cooperation remains the institutional base, competition drives innovation and confrontation
-tests whether bargaining remains constitutional.
+Thus cooperation is the institutional necessity, competition an incentive mechanism and
+confrontation a test of whether bargaining remains constitutional.
 
-##### Why this earns marks
+#### Why this earns marks
 
-It answers the extent demand, gives named examples of all three modes and closes with a hierarchy
-rather than treating them as chronological stages.
+It answers 'how far', gives a mechanism and evidence for all three modes, and reaches a graded hierarchy.
 
-##### How to improve this answer
+#### How to improve this answer
 
-Use a three-branch diagram and one example per branch; do not spend scarce 150-word space defining
-general federal features.
+Use one illustration per mode and reserve the conclusion for the relationship among them.
 
-**Demand decoding:** The directive **answer** requires a direct position on “How far do you think cooperation, competition and confrontation have shaped the nature of…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+### PYQ 2 — UPSC GS-II 2021, Q11 — shared route
 
-**Detailed examiner-grade model answer:**
+**Question:** The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned by various States. However, the power of States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “How far do you think cooperation, competition and confrontation have shaped the nature of federation in India?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Indian federalism is constitutionally divided but politically dynamic; cooperation, competition **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Cooperation appears in the GST Council, Finance Commission, disaster response and shared **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** schemes: the Union contributes scale while States supply implementation and local knowledge. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Competition arises through investment, welfare innovation and outcome rankings, though unequal **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** capacity can widen gaps. Confrontation occurs over Governor assent, CBI consent, devolution, **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “How far do you think cooperation, competition and confrontation have shaped the nature of federation in India?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 2 - UPSC GS-II 2021, Q11 - cross-owned
-
-**Question:** The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned by various States. However, the power of States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India.  
 **15 marks | 250 words**
 
 **Model solution**
 
-Police and public order are State subjects, while the CBI derives investigative authority from the Delhi Special Police Establishment Act, 1946. Section 6 therefore requires State consent before DSPE personnel exercise powers within a State.
+Police and public order are State subjects, while the CBI exercises police powers under the
+Delhi Special Police Establishment Act, 1946. Section 6 therefore requires State consent for
+ordinary exercise of those powers within a State.
 
-States commonly grant **general consent**. Its withdrawal means the CBI ordinarily needs case-specific consent for fresh cases. This protects territorial police autonomy and prevents a central agency from becoming an unrestricted parallel State police.
+General consent facilitates routine investigation; withdrawal ordinarily requires case-specific
+consent for fresh action. This protects territorial police autonomy and prevents an unrestricted
+parallel central police jurisdiction.
 
-The power is not absolute for three reasons. First, the Supreme Court under Article 32 and High Courts under Article 226 may order a CBI probe without State consent to protect fundamental rights and fair investigation. Second, withdrawal does not automatically invalidate every investigation validly begun earlier. Third, the legal effect can depend on the territorial acts, accused, offence and terms of existing consent.
+The power is not absolute. The Supreme Court under Article 32 and High Courts under Article 226
+may direct a CBI investigation without State consent to protect rights and the integrity of
+justice. Withdrawal also does not automatically invalidate every investigation lawfully begun
+earlier; effect depends on the consent terms and facts.
 
-In *State of West Bengal v. Union of India* (2024), the Supreme Court held West Bengal's Article 131 suit maintainable against the Union's preliminary objection. The merits remained for adjudication; the ruling should not be overstated as a final ban on all CBI action.
+In *State of West Bengal v. Union of India* (10 July 2024), the Supreme Court rejected the
+Union's preliminary maintainability objection to West Bengal's Article 131 suit. The Court did
+not finally decide the merits of every post-withdrawal investigation.
 
-Federalism here requires balance. State consent protects police autonomy; constitutional-court power protects justice where State investigation fails; national offences may require coordination. A clear CBI statute, transparent consent protocols and judicially supervised exceptions would reduce political confrontation.
+Federal balance therefore requires State consent as the statutory rule, constitutional-court
+power as an exceptional safeguard and clearer legislative protocols for accountability. Consent
+protects autonomy; it is not immunity from judicially ordered investigation.
 
-Thus, consent is a federal safeguard, not an immunity from constitutional judicial power.
+#### Why this earns marks
 
-##### Why this earns marks
+It separates the statutory rule, constitutional exception and limited 2024 holding.
 
-It states Section 6, explains general and case-specific consent, identifies the constitutional-
-court exception and qualifies the 2024 Article 131 order.
+#### How to improve this answer
 
-##### How to improve this answer
+Do not turn the maintainability ruling into a final merits decision on every CBI case.
 
-Separate `rule`, `exceptions` and `federal balance`; avoid implying that maintainability finally
-decided the legality of every investigation.
+### PYQ 3 — UPSC GS-II 2022, Q13 — shared route
 
-**Demand decoding:** The directive **answer** requires a direct position on “The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**Question:** While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy. Comment.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Thus, consent is a federal safeguard, not an immunity from constitutional judicial power. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** It states Section 6, explains general and case-specific consent, identifies the constitutional **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** court exception and qualifies the 2024 Article 131 order. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Separate rule , exceptions and federal balance ; avoid implying that maintainability finally **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 3 - UPSC GS-II 2022, Q13 - cross-owned
-
-**Question:** While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy. Comment.  
 **15 marks | 250 words**
 
 **Model solution**
 
-The proposition captures an important tendency but is too absolute. Federal preferences often follow institutional position and electoral incentives more than permanent ideology.
+The proposition identifies a tendency but is too absolute. Federal preferences often follow
+institutional position and electoral incentives more than permanent ideology.
 
-National parties controlling the Union may favour centralisation because uniform policy, national security, macroeconomic management and common markets strengthen their governing programme. Constitutional tools include residuary power, centrally sponsored schemes, Union directions, All-India Services and Parliament's exceptional access to State subjects.
+A national party controlling the Union may favour uniform policy, national schemes, central
+agencies and common standards. It can rely on residuary power, conditional finance, All-India
+Services and the constitutional routes into State subjects. Regional parties draw legitimacy
+from State-specific identities and commonly demand larger fiscal space, fewer scheme conditions,
+neutral Governors and regular intergovernmental consultation.
 
-Regional parties derive legitimacy from State-specific identities and interests. They commonly demand larger tax devolution, fewer scheme conditions, protection from partisan Governor action, stronger Inter-State Council consultation and restraint in deploying central agencies. Coalition governments from 1989 onward often increased their bargaining power at the Union.
+Yet the relationship reverses. National parties governing opposition States invoke autonomy;
+regional parties may centralise within their own States; national coalitions accommodate regional
+partners; and regional parties participating at the Union may support uniform policy. GST shows
+parties pooling tax authority despite State-centred incentives.
 
-However, counterevidence qualifies the claim. National parties seek State autonomy when they govern a State but oppose the Union. Regional parties may centralise authority within their own States. National-party-led coalitions have accommodated regional demands, while regional parties participating in Union government may support national uniformity. GST also shows parties accepting pooled sovereignty for a common market.
+The Constitution contains both impulses: List II and federal ratification protect autonomy,
+whereas Articles 3, 248 and emergency provisions strengthen the Union. *S.R. Bommai* prevents the
+party controlling the Union from erasing the federal basic structure.
 
-The Constitution itself combines both impulses: State List autonomy and federal amendment safeguards coexist with a strong Union and emergency powers. *S.R. Bommai (1994)* prevents the political majority at the Centre from erasing the federal basic structure.
+Therefore party type matters, but control of office, coalition arithmetic and issue-specific
+interests explain behaviour more reliably than the national-regional label alone.
 
-Therefore, party type influences federal preference, but control of office, coalition arithmetic and issue-specific interests explain behaviour more reliably than the national/regional label alone.
+#### Why this earns marks
 
-##### Why this earns marks
+It comments through a qualified causal thesis, evidence, reversals and constitutional limits.
 
-It comments rather than agrees mechanically, supplies constitutional tools and political
-counterevidence, and gives a qualified causal verdict.
+#### How to improve this answer
 
-##### How to improve this answer
+Organise the answer as incentive, evidence and counter-evidence rather than listing parties.
 
-Organise around `incentive → evidence → reversal`; use one coalition-era example if confidently
-recalled, rather than listing parties.
-
-**Demand decoding:** The directive **comment** requires a direct position on “While the national political parties in India favour centralisation, the regional parties are…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy. Comment.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The proposition captures an important tendency but is too absolute. Federal preferences often follow institutional position and electoral incentives more than permanent ideology. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Therefore, party type influences federal preference, but control of office, coalition arithmetic and issue-specific interests explain behaviour more reliably than the national/regional label alone. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** It comments rather than agrees mechanically, supplies constitutional tools and political **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** counterevidence, and gives a qualified causal verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Organise around incentive → evidence → reversal ; use one coalition-era example if confidently **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy. Comment.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 4 - UPSC Prelims 2021, Q86 - direct
+### PYQ 4 — UPSC Prelims 2021, Q86 — direct
 
 **Question:** Which one of the following in Indian polity is an essential feature that indicates that it is federal in character?
 
-A. The independence of judiciary is safeguarded  
-B. The Union Legislature has elected representatives from constituent units  
-C. The Union Cabinet can have elected representatives from regional parties  
+A. The independence of judiciary is safeguarded
+B. The Union Legislature has elected representatives from constituent units
+C. The Union Cabinet can have elected representatives from regional parties
 D. Fundamental Rights are enforceable by Courts of Law
 
-**Answer: A. INFERRED ANSWER - NOT OFFICIALLY VERIFIED.**
+**Objective | local official key unavailable**
 
-An independent judiciary is essential to interpret the Constitution and adjudicate competence disputes between two levels. The other options can exist in non-federal systems or do not create constitutional autonomy.
+**Model solution**
 
-**Demand decoding:** Treat “Which one of the following in Indian polity is an essential feature that indicates that it is…” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
+**Answer withheld pending official UPSC key.**
 
-**Detailed examiner-grade model answer:**
+**Concept route:** A federal allocation requires an impartial constitutional umpire capable of
+adjudicating competence. Elected representatives from territorial units, regional-party
+ministers and enforceable rights can exist without a constitutionally divided federation. The
+question therefore tests the distinction between a specifically federal safeguard and more
+general democratic or constitutional features.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Which one of the following in Indian polity is an essential feature that indicates that it is federal in character? A. The independence of judiciary…”.
+#### Why this earns marks
 
-**Analytical body:**
+It preserves key discipline while explaining the exact conceptual discriminator.
 
-1. **Claim and named evidence:** A. The independence of judiciary is safeguarded **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** B. The Union Legislature has elected representatives from constituent units **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** C. The Union Cabinet can have elected representatives from regional parties **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** D. Fundamental Rights are enforceable by Courts of Law **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Answer: A. INFERRED ANSWER - NOT OFFICIALLY VERIFIED. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+#### How to improve this answer
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+Do not print an inferred answer letter when the locally held official key is unavailable.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “Which one of the following in Indian polity is an essential feature that indicates that it is federal in character? A. The independence of judiciary…”.
-
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
-
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
-
-**How to improve this answer:** For “Which one of the following in Indian polity is an essential feature that indicates that it is…”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
-
-#### PYQ 5 - UPSC Prelims 2023, Q32 - direct
+### PYQ 5 — UPSC Prelims 2023, Q32 — direct
 
 **Question:** Consider the following statements:
 
@@ -679,681 +674,430 @@ An independent judiciary is essential to interpret the Constitution and adjudica
 
 Which one of the following is correct in respect of the above statements?
 
-A. Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
-B. Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation for Statement-I  
-C. Statement-I is correct, but Statement-II is incorrect  
+A. Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+B. Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation for Statement-I
+C. Statement-I is correct, but Statement-II is incorrect
 D. Statement-I is incorrect, but Statement-II is correct
 
-**Answer: B. INFERRED ANSWER - NOT OFFICIALLY VERIFIED.**
-
-Prisons are a State List subject under Entry 4, explaining current State management. The colonial Act also placed administration with provincial governments, but it is not the constitutional reason for the present federal allocation.
-
-**Demand decoding:** Treat “Consider the following statements: 1. In India, prisons are managed by State Governments with…” as a definition, category, constitutional boundary, institution, mechanism and source-date-status problem. Test each statement.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Consider the following statements: 1. In India, prisons are managed by State Governments with their own rules and regulations for day-to-day…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** In India, prisons are managed by State Governments with their own rules and regulations for day-to-day administration. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The Prisons Act, 1894 kept the subject of prisons under the control of Provincial Governments. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Which one of the following is correct in respect of the above statements? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** A. Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** B. Both Statement-I and Statement-II are correct, but Statement-II is not the correct explanation for Statement-I **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Consider the following statements: 1. In India, prisons are managed by State Governments with their own rules and regulations for day-to-day…”.
-
-**Executable exam-length answer / compression plan:** Fix the comparison axis; separate social category from legal status, right from institution and scheme from outcome; test the closest homogenisation, causation or stale-data distractor.
-
-**Why this earns marks:** It prevents a familiar label or aggregate statistic from replacing the exact concept, institutional mandate, mechanism or evidence status.
-
-**How to improve this answer:** For “Consider the following statements: 1. In India, prisons are managed by State Governments with…”, state why the nearest distractor fails on definition, group variation, causation, constitutional boundary, date or status.
-
-#### PYQ 6 - UPSC GS-II 2020, Q11 - supporting/cross-owned
-
-**Question:** The Indian Constitution exhibits centralising tendencies to maintain unity and
-integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897, the
-Disaster Management Act, 2005 and the recently passed Farm Acts.  
-**15 marks | 250 words**
-
-**Demand decoding:** Explain the constitutional centralising design, apply it to all three named
-laws, acknowledge the federal objection and give a graded verdict.
+**Objective | local official key unavailable**
 
 **Model solution**
 
-India's holding-together federation equips the Union to coordinate threats crossing State
-boundaries, but that capacity must remain tied to constitutional competence and consultation.
+**Answer withheld pending official UPSC key.**
 
-During COVID-19, the Union used the Disaster Management Act, 2005 for nationwide directions,
-while States also used the Epidemic Diseases Act, 1897 and their public-health machinery. The
-arrangement displayed national coordination resting heavily on State implementation. The 2020
-Farm Acts relied principally on Concurrent List Entry 33 concerning trade and commerce in
-foodstuffs, but affected agriculture and markets associated with State List Entries 14 and 28.
-Their enactment without adequate State consensus produced a competence-and-legitimacy dispute;
-their 2021 repeal showed political federalism correcting legislative centralisation.
+**Statement audit:** Prison administration is presently a State responsibility under Entry 4 of
+List II, and States regulate day-to-day administration. The colonial Prisons Act is historically
+relevant, but the current constitutional allocation rests on the Seventh Schedule. The
+explanation test therefore requires separating historical statutory administration from the
+present constitutional reason.
 
-The wider constitutional tilt includes Parliament's Articles 249, 250, 252 and 253 routes,
-residuary power under Article 248, Union directions and emergency provisions. Yet State List
-autonomy, Rajya Sabha, judicial review, Finance Commission transfers and the *S.R. Bommai (1994)* basic-
-structure limit prevent a general Union police power.
+#### Why this earns marks
 
-Thus, centralising capacity can protect unity during genuine externalities, but legitimacy
-depends on necessity, List competence, proportionality and prior intergovernmental consultation.
+It independently tests both statements and the causal link without promoting an unofficial key.
 
-##### Why this earns marks
+#### How to improve this answer
 
-It addresses every named statute, connects each to the competence structure, supplies a
-counterweight and distinguishes constitutional coordination from unlimited centralisation.
+In assertion-reason questions, factual truth and explanatory relationship are separate steps.
 
-##### How to improve this answer
+### PYQ 6 — UPSC GS-II 2020, Q11 — supporting; detailed machinery belongs to Topic 13
 
-In the exam, compress the examples to one line each and add a small `Union capacity ↔ State
-implementation` diagram; do not analyse the merits of farm policy beyond the federal demand.
+**Question:** The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897, the Disaster Management Act, 2005 and the recently passed Farm Acts.
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ 6 - UPSC GS-II 2020, Q11 - supporting/cross-owned **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897, the **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Disaster Management Act, 2005 and the recently passed Farm Acts. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** laws, acknowledge the federal objection and give a graded verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** India's holding-together federation equips the Union to coordinate threats crossing State **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “The Indian Constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 7 - UPSC GS-II 2023, Q13 - supporting/cross-owned
-
-**Question:** Account for the legal and political factors responsible for the reduced frequency
-of using Article 356 by the Union Governments since the mid-1990s.  
 **15 marks | 250 words**
-
-**Demand decoding:** Explain causation after the mid-1990s through both law and politics; do not
-merely describe Article 356 procedure.
 
 **Model solution**
 
-The decline in Article 356 use reflects the conversion of President's Rule from a broad political
-weapon into a reviewable exceptional remedy.
+India's holding-together federation gives the Union coordinating capacity for externalities that
+cross State boundaries, but central action must remain tied to legislative competence and
+consultation.
 
-Legally, *S.R. Bommai (1994)* made federalism part of the Basic Structure, subjected
-proclamations to judicial review, preferred a floor test for disputed majority and permitted
-restoration after unconstitutional dismissal. The Court's insistence on relevant material,
-combined with later floor-test jurisprudence, raised the legal and reputational cost of partisan
-action. Article 355's Union duty cannot by itself prove the Article 356 threshold that government
-cannot be carried on according to the Constitution.
+During COVID-19, national directions under the Disaster Management Act operated alongside State
+public-health administration and the Epidemic Diseases Act. The arrangement showed Union scale
+depending on State implementation. The 2020 Farm Acts relied significantly on Concurrent List
+Entry 33 concerning trade in foodstuffs but affected agriculture and markets associated with
+State List Entries 14 and 28. Their enactment without adequate political consensus produced a
+competence-and-legitimacy dispute; repeal in 2021 demonstrated political federal correction.
 
-Politically, coalition governments and stronger regional parties after 1989 increased State
-bargaining power. A more competitive party system made dismissals electorally costly, while
-media scrutiny, civil society and an assertive judiciary strengthened accountability. The
-Sarkaria and Punchhi recommendations also reinforced the convention that Article 356 is a last
-resort after warnings and feasible alternatives.
+The wider centralising design includes Article 248 residue, Articles 249, 250, 252 and 253,
+directions and emergency powers. Counterweights include List II autonomy, Rajya Sabha, judicial
+review and State electoral legitimacy.
 
-Use has not disappeared: breakdowns, hung Houses and security crises may still trigger it.
-Therefore, the reduced frequency is best explained by legal discipline interacting with
-coalition-era political federalism, not by removal of the constitutional power.
+Central capacity can protect unity where action is necessary and connected to an enumerated
+field. It becomes legitimate federal coordination only when competence is clear, measures are
+proportionate and States participate before implementation.
 
-##### Why this earns marks
+#### Why this earns marks
 
-It answers “account for” with two causal baskets, uses Article 355 as a close distinction, and
-ends with a qualified rather than absolute conclusion.
+It applies the constitutional balance to every named law and distinguishes coordination from unlimited centralisation.
 
-##### How to improve this answer
+#### How to improve this answer
 
-Use a two-column `legal/political` structure and reserve procedure details for one sentence; avoid
-unsupported counts of proclamations unless recalled from an authoritative source.
+Keep the policy merits subordinate to the question's legislative-competence and consultation demand.
 
-**Detailed examiner-grade model answer:**
+### PYQ 7 — UPSC GS-II 2023, Q13 — supporting; Article 356 detail belongs to Topic 14
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since the mid-1990s.”.
+**Question:** Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since the mid-1990s.
 
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ 7 - UPSC GS-II 2023, Q13 - supporting/cross-owned **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** of using Article 356 by the Union Governments since the mid-1990s. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The decline in Article 356 use reflects the conversion of President's Rule from a broad political **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Legally, S.R. Bommai (1994) made federalism part of the Basic Structure, subjected **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** proclamations to judicial review, preferred a floor test for disputed majority and permitted **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since the mid-1990s.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 8 - UPSC GS-II 2023, Q15 - supporting/cross-owned
-
-**Question:** Explain the significance of the 101st Constitutional Amendment Act. To what extent
-does it reflect the accommodative spirit of federalism?  
 **15 marks | 250 words**
-
-**Demand decoding:** Explain the constitutional redesign and then evaluate, rather than merely
-celebrate, its accommodative character.
 
 **Model solution**
 
-The 101st Amendment restructured India's fiscal Constitution by creating a shared indirect-tax
-field instead of transferring the whole field to either level.
+The reduced frequency of Article 356 reflects the conversion of President's Rule from a broad
+political weapon into a reviewable exceptional remedy.
 
-Article 246A gives Parliament and State legislatures simultaneous GST competence, while
-inter-State supplies remain with Parliament. Article 269A creates the levy-and-apportionment
-bridge for inter-State GST. Article 279A establishes the GST Council, where the Union holds
-one-third and States collectively two-thirds of weighted votes; a three-fourths majority means
-neither side can decide alone. The reform reduced cascading, supported a common market and
-replaced several separate Union and State taxes.
+Legally, *S.R. Bommai* (1994) made federalism a basic feature, subjected proclamation material to
+judicial review, preferred an Assembly floor test for disputed majority and permitted restoration
+after unconstitutional dismissal. Later floor-test decisions increased the legal and reputational
+cost of partisan action. Article 355's duty cannot itself prove the Article 356 threshold that
+government cannot be carried on according to the Constitution.
 
-Its federalism is accommodative because both levels pooled pre-existing tax autonomy, States
-participate institutionally and the transition included compensation. The qualification is
-substantial: States lost unilateral rate flexibility, the Union can block the voting threshold,
-compensation disputes exposed unequal fiscal capacity and exclusions prevent a completely uniform
-base. In *Mohit Minerals (2022)*, the Supreme Court held Council recommendations non-binding,
-preserving legislative autonomy within cooperative dialogue.
+Politically, coalition governments and strong regional parties increased State bargaining power.
+A competitive party system made arbitrary dismissal electorally costly, while media, opposition
+and judicial scrutiny strengthened accountability. Sarkaria and Punchhi recommendations reinforced
+the norm of warning, alternatives and last resort.
 
-Thus, the Amendment embodies negotiated, not hierarchical, federalism; accommodation depends on
-reasoned consultation and fair revenue adjustment in practice.
+Use has not disappeared because genuine constitutional breakdown can still occur. The decline is
+therefore best explained by judicial discipline interacting with plural party politics, not by
+repeal or desuetude of Article 356.
 
-##### Why this earns marks
+#### Why this earns marks
 
-It uses the three-Article architecture, explains the voting safeguard, evaluates both autonomy and
-coordination, and deploys the controlling judgment.
+It answers causation through distinct legal and political mechanisms and retains the exceptional power.
 
-##### How to improve this answer
+#### How to improve this answer
 
-Draw the `246A → 269A → 279A` chain and keep compensation as a qualification, not the whole answer.
+Avoid unsupported proclamation counts; the legal-political interaction is sufficient.
 
-**Detailed examiner-grade model answer:**
+### PYQ 8 — UPSC GS-II 2023, Q15 — supporting; GST detail belongs to Topic 30
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?”.
+**Question:** Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?
 
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ 8 - UPSC GS-II 2023, Q15 - supporting/cross-owned **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** does it reflect the accommodative spirit of federalism? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The 101st Amendment restructured India's fiscal Constitution by creating a shared indirect-tax **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** field instead of transferring the whole field to either level. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Article 246A gives Parliament and State legislatures simultaneous GST competence, while **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 9 - UPSC GS-II 2024, Q13 - direct application
-
-**Question:** What changes has the Union Government recently introduced in the domain of
-Centre-State relations? Suggest measures to be adopted to build the trust between the Centre and
-the States and for strengthening federalism.  
 **15 marks | 250 words**
-
-**Demand decoding:** Identify recent changes across more than one federal dimension, assess their
-trust effect and make institution-specific suggestions.
 
 **Model solution**
 
-Recent Centre-State relations combine greater rule-based coordination with new sites of mistrust.
-GST created a permanent shared-tax council and Finance Commission devolution remains the principal
-constitutional transfer route. NITI Aayog replaced plan allocation through the Planning
-Commission with a consultative platform. At the same time, cesses outside the divisible pool,
-centrally sponsored scheme conditions, borrowing controls, Governor-assent disputes and central-
-agency jurisdiction have generated claims of coercive federalism. Nationwide use of disaster
-powers and legislation touching State fields intensified the competence debate.
+The One Hundred and First Amendment restructured fiscal federalism by creating a shared
+indirect-tax field instead of assigning the whole field exclusively to one level.
 
-Trust requires process, predictability and neutral offices. The Inter-State Council should meet
-regularly with published follow-up; States should be consulted early on laws and schemes affecting
-List II. Finance Commission transfers and scheme shares should be predictable, with transparent
-cess data and a credible GST dispute mechanism. Governors should give prompt, reasoned decisions
-within the current Article 200 doctrine, without partisan delay. Article 356 must retain
-*S.R. Bommai (1994)* discipline, while central investigations should follow clear consent and accountability
-rules. Parliamentary committees and Rajya Sabha should scrutinise major federal measures.
+Article 246A gives Parliament and State legislatures simultaneous GST competence, with a distinct
+parliamentary role for inter-State supplies. Article 269A provides the inter-State levy and
+apportionment bridge. Article 279A creates the GST Council, where weighted voting requires
+participation by both Union and States. The reform reduced several internal tax barriers and
+supported a common market.
 
-India needs a capable Union, but capacity earns legitimacy when exercised through consultation.
-Cooperative federalism therefore requires institutionalised disagreement, not compelled unanimity.
+Its accommodative character lies in pooled pre-existing authority, institutional State
+participation and a constitutional expectation of negotiated harmonisation. Limits remain:
+States lost some unilateral rate flexibility, fiscal capacity is unequal, and compensation and
+base exclusions can generate conflict. In *Mohit Minerals* (2022), the Supreme Court held Council
+recommendations non-binding, preserving legislative authority within collaborative dialogue.
 
-##### Why this earns marks
+The Amendment therefore reflects accommodative federalism to a substantial but conditional
+extent. Its constitutional design requires bargaining; its success depends on transparent
+reasons, trust and fair adjustment rather than legal compulsion alone.
 
-It answers both limbs, covers legislative, administrative and fiscal change, and pairs each trust
-deficit with an executable institutional remedy.
+#### Why this earns marks
 
-##### How to improve this answer
+It explains the three-Article design and evaluates accommodation through both gains and limits.
 
-Use a `change → trust deficit → remedy` table. Name only changes you can date or legally anchor;
-avoid turning the response into a list of political allegations.
+#### How to improve this answer
 
-**Detailed examiner-grade model answer:**
+Do not say the Council binds legislatures after *Mohit Minerals*.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust…”.
+### PYQ 9 — UPSC GS-II 2024, Q13 — supporting; full relation machinery belongs to Topic 13
 
-**Analytical body:**
+**Question:** What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism.
 
-1. **Claim and named evidence:** PYQ 9 - UPSC GS-II 2024, Q13 - direct application **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Centre-State relations? Suggest measures to be adopted to build the trust between the Centre and **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** trust effect and make institution-specific suggestions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Recent Centre-State relations combine greater rule-based coordination with new sites of mistrust. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** GST created a permanent shared-tax council and Finance Commission devolution remains the principal **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 10 - UPSC GS-II 2025, Q14 - direct application
-
-**Question:** Examine the evolving pattern of Centre-State financial relations in the context of
-planned development in India. How far have the recent reforms impacted the fiscal federalism in
-India?  
 **15 marks | 250 words**
-
-**Demand decoding:** Trace the shift from plan-era discretion to the current mixed system, then
-judge how far reforms improved State autonomy and equalisation.
 
 **Model solution**
 
-Centre-State finance has moved from a dual system of constitutional Finance Commission transfers
-and Planning Commission plan assistance toward a more rule-based but still mixed architecture.
+Recent Centre-State relations combine rule-based coordination with new sources of mistrust. GST
+created permanent shared-tax negotiation; Finance Commission transfers remain the principal
+constitutional devolution route; and NITI Aayog replaced the Planning Commission's plan-allocation
+role with a consultative platform. At the same time, cesses outside the divisible pool,
+conditional schemes, borrowing constraints, Governor disputes and central-agency jurisdiction
+have generated centralisation concerns.
+
+Trust requires process and predictability. The Inter-State Council should meet regularly with
+published follow-up. States should be consulted early on laws and schemes affecting List II.
+Transfers, cesses and scheme shares should be transparent and stable. GST disputes need reasoned
+Council deliberation. Governors should act promptly and constitutionally, while Article 356 must
+remain under *Bommai* discipline. Major federal measures deserve Rajya Sabha and committee
+scrutiny.
+
+India needs a capable Union for common markets, rights and externalities, but capacity earns
+legitimacy through consultation. Cooperative federalism means institutionalised disagreement and
+reasoned compromise, not compelled unanimity.
+
+#### Why this earns marks
+
+It pairs each recent pattern with a trust deficit and an institution-specific remedy.
+
+#### How to improve this answer
+
+Use only dateable or legally anchored changes and avoid partisan allegations.
+
+### PYQ 10 — UPSC GS-II 2025, Q14 — supporting; fiscal detail belongs to Topic 13
+
+**Question:** Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India?
+
+**15 marks | 250 words**
+
+**Model solution**
+
+Centre-State finance has moved from a dual arrangement of constitutional Finance Commission
+transfers and Planning Commission plan assistance toward a more rule-based but still mixed
+architecture.
 
 During planned development, discretionary plan grants and centrally sponsored schemes gave the
-Union substantial influence over State priorities. After the Planning Commission's replacement by
+Union substantial influence over State priorities. After the Planning Commission was replaced by
 NITI Aayog, Finance Commission devolution became more prominent. GST pooled major indirect-tax
-powers through Articles 246A, 269A and 279A, while Article 280 remains the equalisation mechanism.
-The Sixteenth Finance Commission's 2026-31 award retains 41% vertical devolution.
+powers through Articles 246A, 269A and 279A. The official Sixteenth Finance Commission report for
+2026-31, submitted on 17 November 2025, recommends retaining the States' 41 per cent vertical share
+of the divisible pool.
 
-Reforms improved transparency, formula-based transfers and common-market coordination. States
-participate in GST decisions, and *Mohit Minerals (2022)* confirms that Council recommendations do not
-erase legislative autonomy. Yet vertical imbalance persists because States carry major service
-responsibilities while the Union controls buoyant bases. Cesses and surcharges outside the
-divisible pool, conditional schemes, unequal tax capacity and Article 293 borrowing constraints
-can narrow effective choice.
+Reforms improved formula-based transfers and common-market coordination. *Mohit Minerals* confirms
+that Council recommendations do not erase legislative autonomy. Yet vertical imbalance persists:
+States deliver major public services while the Union controls buoyant bases. Cesses and
+surcharges, conditional schemes, unequal tax capacity and Article 293 borrowing conditions can
+narrow effective State choice.
 
-The impact is therefore significant but incomplete: India has shifted from plan discretion toward
-constitutionalised interdependence, not fiscal independence. Predictable scheme design,
-transparent cesses, stronger State tax capacity and regular Union-State consultation are needed.
+The impact is significant but incomplete. India has moved from plan discretion toward
+constitutionalised interdependence, not fiscal independence. Predictable schemes, transparent
+cesses, stronger State revenue capacity and regular consultation remain necessary.
 
-##### Why this earns marks
+#### Why this earns marks
 
-It supplies chronology, Articles, a current Finance Commission anchor, benefits, limits and a
-clear “how far” verdict.
+It gives chronology, constitutional mechanisms, a dated official recommendation and a qualified extent verdict.
 
-##### How to improve this answer
+#### How to improve this answer
 
-Use a three-stage timeline—Planning Commission, post-2015 devolution, GST/16th FC—and avoid quoting
-horizontal weights unless verified from the official report.
+Keep horizontal formula weights out unless the exact report and year are cited.
 
-### Original Mains practice with examiner-grade models
+### Six original Mains questions with full model answers
 
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** PYQ 10 - UPSC GS-II 2025, Q14 - direct application **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** planned development in India. How far have the recent reforms impacted the fiscal federalism in **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** judge how far reforms improved State autonomy and equalisation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Centre-State finance has moved from a dual system of constitutional Finance Commission transfers **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** and Planning Commission plan assistance toward a more rule-based but still mixed architecture. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms…”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M1. 10 marks | 150 words
+### Original Q1 — 10 marks | 150 words
 
 **Question:** Distinguish federalism from administrative decentralisation and explain why India remains federal despite a strong Union.
 
-**Demand decoding**
-
-- Define the legal test, then show both State autonomy and Union tilt.
-- Use provisions plus one case; avoid label-only answers.
-
 **Model solution**
 
-Federalism constitutionally protects two levels; administrative decentralisation grants powers
-that the superior government may ordinarily withdraw.
+Federalism constitutionally protects governments at two levels; administrative decentralisation
+grants powers that a superior government may ordinarily withdraw.
 
-India meets the federal test through a supreme written Constitution, dual polity, Seventh Schedule
-distribution, selective State ratification, judicial review and Rajya Sabha. States legislate
-directly on police, public health and agriculture; this is not Union delegation.
+India meets the federal test through a supreme written Constitution, dual polity, Seventh
+Schedule distribution, selective State ratification, judicial review and Rajya Sabha. States
+legislate directly on police, public health and agriculture; this authority is not delegated by
+the Union.
 
-The Union is stronger: Parliament has residuary power, exceptional access to State subjects under
-Articles 249, 250, 252 and 253, territorial reorganisation power, integrated services and greater
-fiscal capacity. These features qualify rather than erase federalism because they are
-constitutionally limited and reviewable. *S.R. Bommai (1994)* makes federalism Basic Structure and
-disciplines Article 356.
+The Union is stronger through Article 248 residue, Articles 249, 250, 252 and 253, Article 3,
+integrated services and emergency powers. These features qualify rather than erase federalism
+because they are constitutionally enumerated, conditioned and reviewable. *S.R. Bommai* protects
+federalism as Basic Structure.
 
 India is therefore a holding-together, Union-weighted federation. The decisive test is protected
 State competence, not equal institutional weight.
 
-##### Why this earns marks
+**Answer-prose count:** 120 words.
 
-It defines the distinction, proves both autonomy and Union tilt through Articles, and reaches a
-case-supported classification within 150 words.
+#### Why this earns marks
 
-##### How to improve this answer
+The answer defines the axis, proves autonomy and Union tilt, and closes with a case-backed classification.
 
-Open with a two-line comparison and use only one Article cluster; do not reproduce all fourteen
-centralising features in a 10-marker.
+#### How to improve this answer
 
-**Demand decoding:** The directive **explain** requires a direct position on “Distinguish federalism from administrative decentralisation and explain why India remains…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+In ten marks, use one federal cluster and one centralising cluster rather than listing every feature.
 
-**Detailed examiner-grade model answer:**
+### Original Q2 — 10 marks | 150 words
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Distinguish federalism from administrative decentralisation and explain why India remains federal despite a strong Union.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Define the legal test, then show both State autonomy and Union tilt. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Use provisions plus one case; avoid label-only answers. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Federalism constitutionally protects two levels; administrative decentralisation grants powers **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** that the superior government may ordinarily withdraw. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** India meets the federal test through a supreme written Constitution, dual polity, Seventh Schedule **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Distinguish federalism from administrative decentralisation and explain why India remains federal despite a strong Union.”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M2. 10 marks | 150 words
-
-**Question:** Explain how the doctrines of pith and substance, repugnancy and harmonious construction maintain the federal distribution of legislative power.
-
-**Demand decoding:** Define each doctrine's distinct job, show their sequence in resolving overlap
-and include the Article 254 qualification.
+**Question:** How do Articles 1 and 3 combine national unity with territorial adaptability?
 
 **Model solution**
 
-The Seventh Schedule distributes subjects, but modern laws inevitably overlap. Constitutional doctrines preserve workable federalism without making every incidental encroachment fatal.
+Article 1 establishes India as a Union of States: the constitutional order is not a treaty among
+sovereign units and contains no unilateral right of secession. Article 3 gives Parliament power
+to form new States and alter areas, boundaries or names.
 
-**Pith and substance** identifies a law's true nature. If its dominant character lies within the enacting legislature's field, incidental impact on another List does not invalidate it. **Harmonious construction** reads entries broadly yet seeks to reconcile them so that each retains meaningful operation. **Repugnancy**, principally under Article 254, resolves an irreconcilable conflict between parliamentary and State laws on a Concurrent subject: parliamentary law ordinarily prevails. A reserved State law receiving Presidential assent may operate within that State, though Parliament can later override it.
+The process nevertheless contains consultation. A Bill requires the President's recommendation,
+and the President refers it to the affected State legislature for views within the specified
+period. Those views are not binding. Article 4 permits supplemental changes and excludes such a
+law from Article 368 merely because schedules and representation are adjusted.
 
-Together, the doctrines combine autonomy with national coherence. Pith and substance prevents rigid compartmentalisation; harmonious construction reduces avoidable collision; repugnancy supplies a final rule where coexistence is impossible.
+This flexibility enabled linguistic and later territorial reorganisation without repeatedly
+re-founding the Union. Its democratic weakness is that an affected State lacks consent power.
+Parliament should therefore use prior consultation, reasoned criteria and transition safeguards.
 
-The qualification is important: Article 254 is not a universal conflict rule, and judicial interpretation cannot create legislative competence absent from the Constitution.
+Articles 1 and 3 make the Union indestructible but its internal map adaptable.
 
-##### Why this earns marks
+**Answer-prose count:** 141 words.
 
-It distinguishes three doctrines, explains how each preserves workable allocation and states the
-Concurrent-List limit on repugnancy.
+#### Why this earns marks
 
-##### How to improve this answer
+It states both unity and procedure, then converts the absence of a veto into a balanced reform point.
 
-Present the sequence as `characterise → reconcile → resolve`; if space permits, add one verified
-case name rather than another abstract definition.
+#### How to improve this answer
 
-**Detailed examiner-grade model answer:**
+Do not confuse the State's right to express views with a right to approve the Bill.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Explain how the doctrines of pith and substance, repugnancy and harmonious construction maintain the federal distribution of legislative power.”.
+### Original Q3 — 15 marks | 250 words
 
-**Analytical body:**
-
-1. **Claim and named evidence:** The Seventh Schedule distributes subjects, but modern laws inevitably overlap. Constitutional doctrines preserve workable federalism without making every incidental encroachment fatal. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The qualification is important: Article 254 is not a universal conflict rule, and judicial interpretation cannot create legislative competence absent from the Constitution. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** It distinguishes three doctrines, explains how each preserves workable allocation and states the **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Present the sequence as characterise → reconcile → resolve ; if space permits, add one verified **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** case name rather than another abstract definition. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Explain how the doctrines of pith and substance, repugnancy and harmonious construction maintain the federal distribution of legislative power.”.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M3. 15 marks | 250 words
-
-**Question:** Indian federalism is cooperative in design, bargaining in operation and sometimes coercive in effect. Discuss.
-
-**Demand decoding:** Test all three labels with institutions and examples, then determine how they
-coexist without treating every Union standard as coercive.
+**Question:** Asymmetrical federalism is an instrument of integration, not a departure from equal citizenship. Examine.
 
 **Model solution**
 
-India's Constitution combines separate spheres with institutions requiring continuing interaction. The resulting federation cannot be captured by one adjective.
+Asymmetrical federalism means that territorial units possess different constitutional
+arrangements within one sovereign order. It seeks substantive integration by responding to
+different histories, identities and governing conditions.
 
-**Cooperative in design:** The GST Council, Finance Commission, Inter-State Council, Rajya Sabha's Articles 249 and 312 roles, centrally supported programmes and disaster coordination require joint action. Granville Austin's cooperative federalism captures this nation-building architecture.
+The Fifth Schedule protects Scheduled Areas through a Governor and Tribes Advisory Council
+framework. The Sixth Schedule creates autonomous district and regional councils in specified
+tribal areas of Assam, Meghalaya, Tripura and Mizoram. Articles 371 to 371J contain distinct
+State-specific provisions; they are not one uniform privilege. Article 239AA gives Delhi an
+elected legislature and ministry while excluding public order, police and land from its ordinary
+field.
 
-**Bargaining in operation:** Union-State outcomes depend on party alignment, coalition arithmetic, Finance Commission submissions, scheme negotiations and fiscal capacity. Morris-Jones's label explains why formal Union superiority does not always determine practical outcomes.
+These arrangements can reduce alienation, protect land and customary institutions, and permit
+metropolitan or border-specific governance. They therefore strengthen the Union by making
+membership compatible with meaningful difference.
 
-**Sometimes coercive in effect:** Conditional grants, Union directions, Governor controversies, deployment of central agencies and large vertical fiscal imbalance can narrow State choice. Cesses and scheme contributions may increase perceived dependence. Yet not every national standard is coercive; common markets, rights and externalities can justify coordination.
+Risks remain. Complexity can obscure accountability; exceptional powers may be under-implemented;
+and unequal treatment may become politically contested. The post-2019 J&K arrangement also shows
+that asymmetry can be reduced through constitutional action. The 2023 Article 370 judgment upheld
+the changes but did not fix a date for restoration of statehood.
 
-Confrontation is also constitutionalised. States litigate under Article 131, withdraw CBI general consent, contest tax arrangements and mobilise politically. *S.R. Bommai (1994)* ensures that Union strength cannot erase the federal basic structure. *Mohit Minerals (2022)* similarly treats the GST Council as recommendatory, preserving legislative autonomy within collaboration.
+Asymmetry does not create different grades of Indian citizenship. Its legitimacy depends on
+constitutional purpose, participation, rights and periodic review. Equality requires equal
+citizenship, not necessarily identical territorial institutions.
 
-Therefore, Indian federalism is a negotiated continuum. Cooperation is its institutional aspiration, bargaining its daily method and coercion its recurrent risk. Regular consultation, transparent transfers and neutral constitutional offices are needed to keep Union capacity from becoming domination.
+**Answer-prose count:** 202 words.
 
-##### Why this earns marks
+#### Why this earns marks
 
-It evaluates three analytical labels with named institutions, includes a counterpoint and gives a
-graded verdict plus reforms.
+It defines asymmetry, compares mechanisms, gives benefits and risks, and separates citizenship from institutions.
 
-##### How to improve this answer
+#### How to improve this answer
 
-Use a three-column comparison and attach one constitutional anchor to each mode; avoid repeating
-the same Governor/GST example under multiple headings.
+Name the precise schedule or article for every example instead of using 'special status' loosely.
 
-**Detailed examiner-grade model answer:**
+### Original Q4 — 15 marks | 250 words
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Indian federalism is cooperative in design, bargaining in operation and sometimes coercive in effect. Discuss.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** coexist without treating every Union standard as coercive. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** India's Constitution combines separate spheres with institutions requiring continuing interaction. The resulting federation cannot be captured by one adjective. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** It evaluates three analytical labels with named institutions, includes a counterpoint and gives a **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Use a three-column comparison and attach one constitutional anchor to each mode; avoid repeating **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** the same Governor/GST example under multiple headings. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Indian federalism is cooperative in design, bargaining in operation and sometimes coercive in effect. Discuss.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M4. 15 marks | 250 words
-
-**Question:** Critically examine the role of the Governor in India's federal system in the light of the current law on assent to State Bills.
-
-**Demand decoding:** Balance constitutional headship against federal friction, state the current
-Article 200 doctrine precisely and suggest convention-based as well as legal correctives.
+**Question:** Evaluate the role of the judiciary in maintaining the federal balance in India.
 
 **Model solution**
 
-The Governor links constitutional headship, State government and the Union, making the office both necessary and conflict-prone.
+The judiciary maintains federal balance by interpreting competence, adjudicating legal disputes
+and preventing exceptional powers from destroying the constitutional allocation.
 
-The federal concern begins with appointment by the President and tenure during presidential pleasure. Discretion in government formation, reports under Article 356 and reservation of Bills can be perceived as Union leverage, especially under opposing parties. Delayed assent can disable a State legislature without openly rejecting its policy.
+Under Article 131, the Supreme Court hears specified Union-State and inter-State disputes
+involving legal rights. In legislative cases, pith and substance identifies a law's true nature,
+harmonious construction reduces avoidable collision and Article 254 resolves irreconcilable
+Concurrent-field conflict.
 
-The controlling Constitution Bench advisory opinion of 20 November 2025 recalibrates Article 200. Courts cannot impose fixed timelines or create deemed assent, and they cannot substitute their own choice for the Governor's. However, prolonged unexplained inaction is not a constitutional pocket veto; limited judicial intervention may require the Governor to act without dictating assent, return, withholding or reservation.
+The case trajectory is equally important. *State of West Bengal* rejected sovereign-compact
+immunity but did not erase State competence. *Kesavananda Bharati* supplied the Basic Structure
+limitation. *S.R. Bommai* expressly protected federalism, reviewed Article 356 material and
+preferred Assembly floor testing. *Mohit Minerals* preserved legislative autonomy by treating
+GST Council recommendations as non-binding. The 2024 West Bengal ruling allowed an Article 131
+CBI-consent suit to proceed past preliminary objections without deciding the merits.
 
-The position protects decisional space but creates a higher duty of constitutional statesmanship. Reasons, prompt communication and fidelity to the elected government's legislative mandate are central to legitimacy. *S.R. Bommai (1994)* also requires gubernatorial action affecting State government to remain reviewable and ordinarily favours floor testing of majority.
+Judicial review has limits. Courts cannot replace fiscal bargaining, continuous consultation or
+political accountability, and excessive judicial management may narrow democratic choice.
 
-Reform should emphasise politically detached appointments, consultation with the Chief Minister, secure conventions, publicly reasoned action and compliance with Sarkaria/Punchhi norms.
+The judiciary is therefore a constitutional umpire and minimum-guarantee institution, not the
+daily manager of federal relations. Its strongest contribution is keeping bargaining within
+competence, reasons and review.
 
-Thus, the Governor should be a constitutional sentinel and mediator, not a parallel executive or partisan gatekeeper. Federal balance depends as much on convention and restraint as on justiciable rules.
+**Answer-prose count:** 181 words.
 
-##### Why this earns marks
+#### Why this earns marks
 
-It identifies the source of federal concern, states the controlling 2025 opinion without deemed-
-assent error, and balances review with constitutional discretion.
+It integrates jurisdiction, doctrines and cases while acknowledging institutional limits.
 
-##### How to improve this answer
+#### How to improve this answer
 
-Keep government formation, Article 356 and assent as three separate functions; spend most space on
-assent because the question expressly demands it.
+Use holdings narrowly and avoid presenting maintainability or advisory observations as final merits rules.
 
-**Detailed examiner-grade model answer:**
+### Original Q5 — 20 marks | 250 words
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Critically examine the role of the Governor in India's federal system in the light of the current law on assent to State Bills.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Article 200 doctrine precisely and suggest convention-based as well as legal correctives. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** The Governor links constitutional headship, State government and the Union, making the office both necessary and conflict-prone. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Reform should emphasise politically detached appointments, consultation with the Chief Minister, secure conventions, publicly reasoned action and compliance with Sarkaria/Punchhi norms. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Thus, the Governor should be a constitutional sentinel and mediator, not a parallel executive or partisan gatekeeper. Federal balance depends as much on convention and restraint as on justiciable rules. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** It identifies the source of federal concern, states the controlling 2025 opinion without deemed **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Critically examine the role of the Governor in India's federal system in the light of the current law on assent to State Bills.”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M5. 20 marks | 250-300 words
-
-**Question:** Evaluate whether fiscal federalism in India provides States meaningful autonomy or primarily produces transfer dependence.
-
-**Demand decoding:** Establish a test for meaningful fiscal autonomy, weigh own-source and transfer
-institutions against dependence, and deliver an extent-based verdict.
+**Question:** Fiscal federalism in India combines constitutional equalisation with persistent centralising pressure. Critically analyse.
 
 **Model solution**
 
-Meaningful federal autonomy requires both legal competence and usable fiscal capacity. India gives States major responsibilities but combines them with substantial dependence on Union transfers.
+Fiscal federalism asks whether each level has the resources to discharge its constitutional
+responsibilities. India combines tax assignment, devolution, grants and shared GST institutions,
+but practical autonomy remains uneven.
 
-**Autonomy:** States possess assigned taxes, borrow within constitutional rules, set expenditure priorities and receive a constitutionally structured share of the divisible pool. The Finance Commission is an independent periodic mechanism rather than a discretionary executive grant alone. GST gives States a voice in common-market taxation through the GST Council. The 16th Finance Commission retains 41% vertical devolution for 2026-31.
+Articles 268-270 allocate levy, collection and distribution. Articles 275 and 282 provide distinct
+grant routes. Article 280 creates a periodic Finance Commission to recommend vertical distribution,
+horizontal allocation and grants. Articles 246A, 269A and 279A constitutionalise shared GST
+governance. The Sixteenth Finance Commission report for 2026-31, submitted on 17 November 2025,
+recommends retaining a 41 per cent vertical share for States.
 
-**Dependence:** The Union controls broad and buoyant tax bases, while States finance health, police, agriculture and welfare delivery. Cesses and surcharges lie outside the divisible pool, reducing the effective shareable base. Centrally sponsored schemes may impose design conditions and matching contributions. Unequal State tax capacity also means formal autonomy yields unequal outcomes.
+These mechanisms support equalisation, predictable transfers and a common market. *Mohit
+Minerals* protects legislative autonomy by treating GST Council recommendations as persuasive
+rather than binding.
 
-**Balancing devices:** Horizontal devolution pursues equalisation through need, population, demographic performance, area, ecology and contribution-related criteria. Grants can address externalities and local-body capacity. *Mohit Minerals (2022)* protects legislative autonomy by holding GST Council recommendations non-binding.
+Centralising pressure persists. The Union controls several buoyant bases; States bear major
+health, education and local-service responsibilities. Cesses and surcharges outside the divisible
+pool, conditional centrally sponsored schemes, unequal tax capacity and Article 293 borrowing
+conditions can constrain policy choice. GST reduced independent rate space, and compensation
+disputes exposed dependence.
 
-However, dependence is not inherently anti-federal: redistribution and national standards can secure equal citizenship. It becomes coercive when conditions are opaque, consultation weak or States cannot exit without sacrificing essential services.
+Reform should improve cess transparency, stabilise scheme shares, strengthen State tax
+administration, publish reasons in GST deliberations and align borrowing conditions with
+objective fiscal risk.
 
-India therefore has constitutionally mediated interdependence, not fiscal independence. Greater transparency on cesses, predictable scheme shares, stronger State tax administration, a robust GST dispute mechanism and regular intergovernmental consultation would convert transfer dependence into accountable shared finance.
+India's fiscal system is constitutionally cooperative but materially asymmetric. Equalisation
+must preserve both national solidarity and sufficient State discretion.
 
-##### Why this earns marks
+**Answer-prose count:** 209 words.
 
-It balances autonomy and dependence, uses Articles and current 16th Finance Commission evidence,
-and explains when redistribution becomes coercive.
+#### Why this earns marks
 
-##### How to improve this answer
+It distinguishes constitutional design, benefits, centralising pressures and executable reforms before a balanced verdict.
 
-Add an `own revenue / shared revenue / grants / borrowing` matrix; avoid unverified percentages
-other than the official 41% vertical award.
+#### How to improve this answer
 
-**Detailed examiner-grade model answer:**
+Do not use an undated devolution percentage; attach the commission period and report date.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “Evaluate whether fiscal federalism in India provides States meaningful autonomy or primarily produces transfer dependence.”.
+### Original Q6 — 20 marks | 250 words
 
-**Analytical body:**
-
-1. **Claim and named evidence:** institutions against dependence, and deliver an extent-based verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Meaningful federal autonomy requires both legal competence and usable fiscal capacity. India gives States major responsibilities but combines them with substantial dependence on Union transfers. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** It balances autonomy and dependence, uses Articles and current 16th Finance Commission evidence, **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** and explains when redistribution becomes coercive. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Add an own revenue / shared revenue / grants / borrowing matrix; avoid unverified percentages **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Evaluate whether fiscal federalism in India provides States meaningful autonomy or primarily produces transfer dependence.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M6. 20 marks | 250-300 words
-
-**Question:** Delimitation after a new Census presents a conflict between democratic equality and federal fairness. Analyse.
-
-**Demand decoding:** Explain both constitutional values, identify the current legal sequence and
-propose safeguards without forecasting seats or implementation dates.
+**Question:** What are the principal challenges to Indian federalism, and how can constitutional trust be rebuilt without weakening legitimate Union capacity?
 
 **Model solution**
 
-Delimitation seeks broadly equal population representation, but long-term demographic divergence turns that democratic principle into a federal conflict.
+Indian federalism must reconcile a Union capable of national action with States that possess
+meaningful political, administrative and fiscal autonomy. The present difficulty is often the
+manner of exercising power rather than the absence of constitutional institutions.
 
-**Democratic-equality case:** Constituency populations should not diverge indefinitely. Updated allocation can reduce unequal vote weight, improve constituency manageability and reflect migration and urbanisation. A larger House may also lower the citizen-representative ratio.
+Governor delays and disputed majority assessments can obstruct elected governments. Fiscal
+dependence grows through cesses, conditional schemes and borrowing limits. GST creates common-
+market gains but also bargaining over revenue and policy space. Union legislation touching State
+concerns, central-agency jurisdiction and inter-State water disputes deepen mistrust. Unequal
+regional representation and weak devolution to local bodies add vertical and territorial
+tensions.
 
-**Federal-fairness concern:** States that successfully reduced fertility fear losing relative influence to higher-growth States. Representation affects Union governments, fiscal bargaining and constitutional amendment politics. A purely population-driven redistribution may therefore appear to punish policy success and alter the original political balance.
+Reform requires regular Inter-State Council meetings with published follow-up; early State
+consultation on List II effects; transparent tax, cess and scheme data; predictable transfer and
+borrowing rules; and reasoned GST Council deliberation. Governors should act promptly and
+non-partisanly. *S.R. Bommai* floor-test and review principles must govern Article 356. Rajya
+Sabha and parliamentary committees should scrutinise measures with major federal effects.
+States, in turn, should devolve functions, funds and staff to local bodies and use inter-State
+forums constructively.
 
-**Constitutional setting:** Articles 81 and 82 govern representation and readjustment, while constitutional amendments created the seat freeze. Rajya Sabha already uses unequal State representation, so Lok Sabha change affects both popular and federal power. Article 334A also links operational women's reservation to a post-commencement census and subsequent delimitation.
+National defence, rights, macroeconomic stability and cross-border externalities require Union
+capacity. Constitutional trust is rebuilt when that capacity is exercised through competence,
+necessity, consultation, reasons and review.
 
-**Current control:** The 2026 constitutional-delimitation package was defeated; its proposed 850-seat ceiling is not law. Census conduct dates do not supply a publication or delimitation date, and State-wise seat projections are speculative.
+India needs neither automatic centralisation nor reflexive decentralisation, but cooperative
+strength under a protected federal floor.
 
-**Possible principles:** increase total seats to reduce zero-sum loss; protect a floor of relative State representation for a transition; reward demographic performance through transparent criteria; strengthen Rajya Sabha's federal role; and secure broad inter-State consultation before amendment.
+**Answer-prose count:** 218 words.
 
-The solution cannot be arithmetic alone. Democratic equality requires updated representation, but federal legitimacy requires that population stabilisation not translate into abrupt political dispossession. A negotiated constitutional bargain is therefore essential.
+#### Why this earns marks
 
-##### Why this earns marks
+It links each challenge to a mechanism and pairs reform with a necessary national-capacity qualification.
 
-It treats delimitation as a two-value constitutional conflict, uses Articles 81/82/334A, dates the
-defeated proposal and avoids speculative projections.
+#### How to improve this answer
 
-##### How to improve this answer
-
-Draw a balance scale labelled `vote equality` and `federal fairness`; clearly separate current law,
-the defeated 2026 proposal and your reform suggestions.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Delimitation after a new Census presents a conflict between democratic equality and federal fairness. Analyse.”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** propose safeguards without forecasting seats or implementation dates. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Delimitation seeks broadly equal population representation, but long-term demographic divergence turns that democratic principle into a federal conflict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** It treats delimitation as a two-value constitutional conflict, uses Articles 81/82/334A, dates the **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** defeated proposal and avoids speculative projections. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Draw a balance scale labelled vote equality and federal fairness ; clearly separate current law, **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Delimitation after a new Census presents a conflict between democratic equality and federal fairness. Analyse.”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M7. 20 marks | 250-300 words
-
-**Question:** Does the combination of regional parties, judicial review and intergovernmental councils adequately counterbalance India's centralising constitutional design?
-
-**Demand decoding:** Evaluate each counterweight's mechanism and limitation, then answer
-“adequately” through a graded institutional verdict.
-
-**Model solution**
-
-India's Constitution gives the Union substantial power, but political and institutional safeguards often decentralise its operation.
-
-**Regional parties** articulate State-specific fiscal, linguistic and developmental interests. Coalition eras enabled them to bargain over ministries, schemes and national policy. Yet their influence depends on electoral arithmetic; they may also centralise power within their States.
-
-**Judicial review** supplies a legal boundary. *S.R. Bommai (1994)* makes federalism Basic Structure and reviews Article 356; competence doctrines protect State laws from invalidation for incidental overlap; Article 131 provides an original forum for specified Union-State disputes. Courts, however, cannot replace continuous political negotiation and may defer in policy-heavy fields.
-
-**Councils and commissions** institutionalise shared rule. The GST Council, Finance Commission, Inter-State Council and Zonal Councils permit information exchange, bargaining and coordination. *Mohit Minerals (2022)* preserves autonomy by treating GST Council recommendations as recommendatory. Weaknesses include irregular meetings, executive dominance, non-binding recommendations and unequal fiscal leverage.
-
-These safeguards are meaningful but uneven. A single-party Union majority reduces coalition bargaining; councils can become consultative rituals; litigation is slow and adversarial. Governors, central agencies, conditional schemes and cesses can still generate coercive effects.
-
-Therefore, the counterbalance is adequate to prevent easy destruction of federalism but not always adequate to ensure equal participation. Regular council meetings, reasoned decisions, stronger parliamentary scrutiny, neutral Governors, transparent transfers and better State capacity are required. India's federal equilibrium is maintained through repeated political contestation, not by constitutional text alone.
-
-##### Why this earns marks
-
-It tests three distinct counterweights, supplies limits for each and answers adequacy rather than
-merely listing institutions.
-
-##### How to improve this answer
-
-Allocate one short paragraph to each counterweight and one comparative paragraph to their combined
-effect; avoid treating non-binding councils as legally co-equal with courts.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Does the combination of regional parties, judicial review and intergovernmental councils adequately counterbalance India's centralising…”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** “adequately” through a graded institutional verdict. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** India's Constitution gives the Union substantial power, but political and institutional safeguards often decentralise its operation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** It tests three distinct counterweights, supplies limits for each and answers adequacy rather than **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Allocate one short paragraph to each counterweight and one comparative paragraph to their combined **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** effect; avoid treating non-binding councils as legally co-equal with courts. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Does the combination of regional parties, judicial review and intergovernmental councils adequately counterbalance India's centralising…”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+Group challenges into political, fiscal, functional and representational clusters before suggesting remedies.

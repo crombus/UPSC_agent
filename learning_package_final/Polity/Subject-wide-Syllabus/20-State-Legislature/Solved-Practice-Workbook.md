@@ -4,11 +4,13 @@ topic_key: polity-20
 ---
 # State Legislature — Solved Practice Workbook
 
+> Exactly 32 original MCQs precede the audited PYQs. The answer key is `ABCD` repeated eight times. Every option has a question-specific explanation and every MCQ has a distinct examiner trap.
+
 ## BASIC MCQS / REMEDIATION
 
-### Original MCQ loop - strict A → B → C → D rotation
+### Exactly 32 original MCQs — answer key ABCD x 8
 
-#### OM1. State bicameralism
+#### MCQ 1. State bicameralism
 
 Which statement is correct?
 
@@ -19,9 +21,15 @@ D. Every State must have two Houses.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 168 requires an Assembly in every State; Councils are optional.
+**Option explanations:**
+- **A:** Correct. Option A states "Every State has an Assembly, while only specified States have a Council." The controlling rule is: Article 168 makes the Assembly universal, while a Council exists only in the constitutionally specified bicameral design.
+- **B:** Incorrect. Option B states "Parliament alone may initiate a Council without State action." The controlling rule is: Article 168 makes the Assembly universal, while a Council exists only in the constitutionally specified bicameral design.
+- **C:** Incorrect. Option C states "The Governor is outside the State legislature." The controlling rule is: Article 168 makes the Assembly universal, while a Council exists only in the constitutionally specified bicameral design.
+- **D:** Incorrect. Option D states "Every State must have two Houses." The controlling rule is: Article 168 makes the Assembly universal, while a Council exists only in the constitutionally specified bicameral design.
 
-#### OM2. Article 169
+**Examiner trap:** Governor-plus-House composition does not make the Governor a House member.
+
+#### MCQ 2. Article 169
 
 Parliament may create a Council after:
 
@@ -32,9 +40,15 @@ D. ratification by half the States.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The Assembly initiates through the prescribed special majority.
+**Option explanations:**
+- **A:** Incorrect. Option A states "a simple-majority Council resolution." The controlling rule is: Article 169 requires the Assembly's total-membership majority plus two-thirds present and voting before Parliament may legislate.
+- **B:** Correct. Option B states "an Assembly special-majority resolution." The controlling rule is: Article 169 requires the Assembly's total-membership majority plus two-thirds present and voting before Parliament may legislate.
+- **C:** Incorrect. Option C states "presidential reference to the Supreme Court." The controlling rule is: Article 169 requires the Assembly's total-membership majority plus two-thirds present and voting before Parliament may legislate.
+- **D:** Incorrect. Option D states "ratification by half the States." The controlling rule is: Article 169 requires the Assembly's total-membership majority plus two-thirds present and voting before Parliament may legislate.
 
-#### OM3. Parliamentary majority
+**Examiner trap:** The Article 169 special majority belongs to the Assembly resolution, not Parliament's Act.
+
+#### MCQ 3. Parliamentary majority
 
 The Article 169 law is passed by Parliament:
 
@@ -45,9 +59,15 @@ D. only after State ratification.
 
 **Answer: C.**
 
-**Explanation:** [FACT] It is not treated as an Article 368 amendment.
+**Option explanations:**
+- **A:** Incorrect. Option A states "by two-thirds of total membership." The controlling rule is: Parliament's Article 169 law follows ordinary legislation and is expressly not treated as an Article 368 amendment.
+- **B:** Incorrect. Option B states "only in a joint sitting." The controlling rule is: Parliament's Article 169 law follows ordinary legislation and is expressly not treated as an Article 368 amendment.
+- **C:** Correct. Option C states "as an ordinary law by simple majority." The controlling rule is: Parliament's Article 169 law follows ordinary legislation and is expressly not treated as an Article 368 amendment.
+- **D:** Incorrect. Option D states "only after State ratification." The controlling rule is: Parliament's Article 169 law follows ordinary legislation and is expressly not treated as an Article 368 amendment.
 
-#### OM4. Council strength
+**Examiner trap:** An Article 169 law may alter constitutional text incidentally without becoming an Article 368 amendment.
+
+#### MCQ 4. Council strength
 
 The Council's strength is ordinarily:
 
@@ -58,9 +78,15 @@ D. not more than one-third of Assembly strength and not below 40.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Article 171 supplies both limits.
+**Option explanations:**
+- **A:** Incorrect. Option A states "at least 60." The controlling rule is: Article 171 caps a Council at one-third of Assembly strength and sets an ordinary minimum of forty.
+- **B:** Incorrect. Option B states "fixed by the Governor." The controlling rule is: Article 171 caps a Council at one-third of Assembly strength and sets an ordinary minimum of forty.
+- **C:** Incorrect. Option C states "exactly half the Assembly." The controlling rule is: Article 171 caps a Council at one-third of Assembly strength and sets an ordinary minimum of forty.
+- **D:** Correct. Option D states "not more than one-third of Assembly strength and not below 40." The controlling rule is: Article 171 caps a Council at one-third of Assembly strength and sets an ordinary minimum of forty.
 
-#### OM5. Local bodies
+**Examiner trap:** Do not substitute a sixty-member minimum for Article 171's forty-member floor.
+
+#### MCQ 5. Local bodies
 
 Approximately what share of a Council is elected by local authorities?
 
@@ -71,9 +97,15 @@ D. Two-thirds.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Local authorities elect one-third.
+**Option explanations:**
+- **A:** Correct. Option A states "One-third." The controlling rule is: Article 171 allocates approximately one-third of Council seats to specified local authorities.
+- **B:** Incorrect. Option B states "One-sixth." The controlling rule is: Article 171 allocates approximately one-third of Council seats to specified local authorities.
+- **C:** Incorrect. Option C states "One-twelfth." The controlling rule is: Article 171 allocates approximately one-third of Council seats to specified local authorities.
+- **D:** Incorrect. Option D states "Two-thirds." The controlling rule is: Article 171 allocates approximately one-third of Council seats to specified local authorities.
 
-#### OM6. Graduates
+**Examiner trap:** Local-authority members are not elected by the whole State electorate.
+
+#### MCQ 6. Graduates
 
 Graduates elect:
 
@@ -84,9 +116,15 @@ D. one-sixth.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The graduate and teacher categories each elect one-twelfth.
+**Option explanations:**
+- **A:** Incorrect. Option A states "one-third." The controlling rule is: The graduate and teacher electoral streams each account for approximately one-twelfth under Article 171.
+- **B:** Correct. Option B states "one-twelfth." The controlling rule is: The graduate and teacher electoral streams each account for approximately one-twelfth under Article 171.
+- **C:** Incorrect. Option C states "half." The controlling rule is: The graduate and teacher electoral streams each account for approximately one-twelfth under Article 171.
+- **D:** Incorrect. Option D states "one-sixth." The controlling rule is: The graduate and teacher electoral streams each account for approximately one-twelfth under Article 171.
 
-#### OM7. Governor nominations
+**Examiner trap:** Graduate and teacher constituencies are separate one-twelfth streams.
+
+#### MCQ 7. Governor nominations
 
 The Governor nominates:
 
@@ -97,9 +135,15 @@ D. one-twelfth of the Council.
 
 **Answer: C.**
 
-**Explanation:** [FACT] One-sixth is nominated for specified knowledge or experience.
+**Option explanations:**
+- **A:** Incorrect. Option A states "all teacher members." The controlling rule is: The Governor nominates the remainder, approximately one-sixth, from the five constitutionally named fields.
+- **B:** Incorrect. Option B states "one-third of the Assembly." The controlling rule is: The Governor nominates the remainder, approximately one-sixth, from the five constitutionally named fields.
+- **C:** Correct. Option C states "one-sixth of the Council." The controlling rule is: The Governor nominates the remainder, approximately one-sixth, from the five constitutionally named fields.
+- **D:** Incorrect. Option D states "one-twelfth of the Council." The controlling rule is: The Governor nominates the remainder, approximately one-sixth, from the five constitutionally named fields.
 
-#### OM8. Council duration
+**Examiner trap:** The nomination fields are literature, science, art, co-operative movement and social service; 'education' is not the text.
+
+#### MCQ 8. Council duration
 
 Which is correct?
 
@@ -110,9 +154,15 @@ D. Council is permanent and one-third retires every two years.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Individual members ordinarily serve six years.
+**Option explanations:**
+- **A:** Incorrect. Option A states "Half retires every three years." The controlling rule is: A Council is continuing; roughly one-third retires every second year and members ordinarily serve six years.
+- **B:** Incorrect. Option B states "Council dissolves with the Assembly." The controlling rule is: A Council is continuing; roughly one-third retires every second year and members ordinarily serve six years.
+- **C:** Incorrect. Option C states "Council has a five-year collective term." The controlling rule is: A Council is continuing; roughly one-third retires every second year and members ordinarily serve six years.
+- **D:** Correct. Option D states "Council is permanent and one-third retires every two years." The controlling rule is: A Council is continuing; roughly one-third retires every second year and members ordinarily serve six years.
 
-#### OM9. Minimum age
+**Examiner trap:** Permanent House does not mean permanent membership.
+
+#### MCQ 9. Minimum age
 
 Minimum age for Assembly membership is:
 
@@ -123,9 +173,15 @@ D. 21.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Assembly 25; Council 30.
+**Option explanations:**
+- **A:** Correct. Option A states "25." The controlling rule is: Article 173 sets the minimum age at twenty-five for an Assembly seat and thirty for a Council seat.
+- **B:** Incorrect. Option B states "30." The controlling rule is: Article 173 sets the minimum age at twenty-five for an Assembly seat and thirty for a Council seat.
+- **C:** Incorrect. Option C states "35." The controlling rule is: Article 173 sets the minimum age at twenty-five for an Assembly seat and thirty for a Council seat.
+- **D:** Incorrect. Option D states "21." The controlling rule is: Article 173 sets the minimum age at twenty-five for an Assembly seat and thirty for a Council seat.
 
-#### OM10. Assembly term
+**Examiner trap:** Assembly and Council candidacy ages are not identical.
+
+#### MCQ 10. Assembly term
 
 The normal Assembly term is:
 
@@ -136,9 +192,15 @@ D. four years.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Article 172 sets five years.
+**Option explanations:**
+- **A:** Incorrect. Option A states "permanent." The controlling rule is: Article 172 gives an Assembly a normal five-year life from its first meeting unless sooner dissolved.
+- **B:** Correct. Option B states "five years unless sooner dissolved." The controlling rule is: Article 172 gives an Assembly a normal five-year life from its first meeting unless sooner dissolved.
+- **C:** Incorrect. Option C states "six years." The controlling rule is: Article 172 gives an Assembly a normal five-year life from its first meeting unless sooner dissolved.
+- **D:** Incorrect. Option D states "four years." The controlling rule is: Article 172 gives an Assembly a normal five-year life from its first meeting unless sooner dissolved.
 
-#### OM11. Quorum
+**Examiner trap:** The five-year Assembly period runs from its first meeting and remains subject to earlier dissolution.
+
+#### MCQ 11. Quorum
 
 State House quorum is:
 
@@ -149,10 +211,15 @@ D. exactly ten in every House.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Article 189 supplies this default while permitting the State Legislature to provide
-otherwise by law.
+**Option explanations:**
+- **A:** Incorrect. Option A states "one-fifth." The controlling rule is: Article 189's default is ten members or one-tenth of total membership, whichever is greater, until State law provides otherwise.
+- **B:** Incorrect. Option B states "one-tenth, with no minimum." The controlling rule is: Article 189's default is ten members or one-tenth of total membership, whichever is greater, until State law provides otherwise.
+- **C:** Correct. Option C states "until the State Legislature otherwise provides by law, ten members or one-tenth, whichever is greater." The controlling rule is: Article 189's default is ten members or one-tenth of total membership, whichever is greater, until State law provides otherwise.
+- **D:** Incorrect. Option D states "exactly ten in every House." The controlling rule is: Article 189's default is ten members or one-tenth of total membership, whichever is greater, until State law provides otherwise.
 
-#### OM12. Casting vote
+**Examiner trap:** The quorum rule includes both the ten-member floor and the 'until otherwise provided by law' clause.
+
+#### MCQ 12. Casting vote
 
 The presiding officer:
 
@@ -163,9 +230,15 @@ D. ordinarily has no first vote but has a casting vote on equality.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Article 189 provides the casting vote.
+**Option explanations:**
+- **A:** Incorrect. Option A states "cannot vote in a tie." The controlling rule is: Under Article 189 the presiding officer ordinarily has no first vote but has a casting vote on equality.
+- **B:** Incorrect. Option B states "has two ordinary votes." The controlling rule is: Under Article 189 the presiding officer ordinarily has no first vote but has a casting vote on equality.
+- **C:** Incorrect. Option C states "always votes first." The controlling rule is: Under Article 189 the presiding officer ordinarily has no first vote but has a casting vote on equality.
+- **D:** Correct. Option D states "ordinarily has no first vote but has a casting vote on equality." The controlling rule is: Under Article 189 the presiding officer ordinarily has no first vote but has a casting vote on equality.
 
-#### OM13. Speaker after dissolution
+**Examiner trap:** A casting vote is triggered by equality; it is not a second ordinary vote.
+
+#### MCQ 13. Speaker after dissolution
 
 On Assembly dissolution, the Speaker:
 
@@ -176,9 +249,15 @@ D. continues for six months regardless of the new House.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 179 preserves continuity.
+**Option explanations:**
+- **A:** Correct. Option A states "continues until immediately before the first meeting of the new Assembly." The controlling rule is: Article 179 continues the Speaker until immediately before the first meeting of the new Assembly.
+- **B:** Incorrect. Option B states "becomes Governor." The controlling rule is: Article 179 continues the Speaker until immediately before the first meeting of the new Assembly.
+- **C:** Incorrect. Option C states "vacates immediately." The controlling rule is: Article 179 continues the Speaker until immediately before the first meeting of the new Assembly.
+- **D:** Incorrect. Option D states "continues for six months regardless of the new House." The controlling rule is: Article 179 continues the Speaker until immediately before the first meeting of the new Assembly.
 
-#### OM14. Speaker removal
+**Examiner trap:** Assembly dissolution does not instantly vacate the Speaker.
+
+#### MCQ 14. Speaker removal
 
 Removal requires:
 
@@ -189,9 +268,15 @@ D. two-thirds of total membership.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The effective-majority rule and notice apply.
+**Option explanations:**
+- **A:** Incorrect. Option A states "Governor's order." The controlling rule is: Speaker removal requires fourteen days' notice and a majority of all the then members of the Assembly.
+- **B:** Correct. Option B states "majority of all then members after 14 days' notice." The controlling rule is: Speaker removal requires fourteen days' notice and a majority of all the then members of the Assembly.
+- **C:** Incorrect. Option C states "simple majority of those present without notice." The controlling rule is: Speaker removal requires fourteen days' notice and a majority of all the then members of the Assembly.
+- **D:** Incorrect. Option D states "two-thirds of total membership." The controlling rule is: Speaker removal requires fourteen days' notice and a majority of all the then members of the Assembly.
 
-#### OM15. Defection adjudicator
+**Examiner trap:** Removal uses an effective majority of all then members, not two-thirds of total membership.
+
+#### MCQ 15. Defection adjudicator
 
 Tenth Schedule State-member disqualification is initially decided by:
 
@@ -202,9 +287,15 @@ D. Chief Minister.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The presiding officer decides, subject to judicial review.
+**Option explanations:**
+- **A:** Incorrect. Option A states "High Court." The controlling rule is: Tenth Schedule paragraph 6 assigns the initial decision to the Speaker or Chairman, subject to judicial review.
+- **B:** Incorrect. Option B states "Governor on ECI advice." The controlling rule is: Tenth Schedule paragraph 6 assigns the initial decision to the Speaker or Chairman, subject to judicial review.
+- **C:** Correct. Option C states "Speaker or Chairman." The controlling rule is: Tenth Schedule paragraph 6 assigns the initial decision to the Speaker or Chairman, subject to judicial review.
+- **D:** Incorrect. Option D states "Chief Minister." The controlling rule is: Tenth Schedule paragraph 6 assigns the initial decision to the Speaker or Chairman, subject to judicial review.
 
-#### OM16. Article 192
+**Examiner trap:** Article 192 and Tenth Schedule paragraph 6 use different decision-makers.
+
+#### MCQ 16. Article 192
 
 For a non-defection Article 191 disqualification question, the Governor:
 
@@ -215,9 +306,15 @@ D. obtains and acts according to the Election Commission's opinion.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Article 192 provides this route.
+**Option explanations:**
+- **A:** Incorrect. Option A states "acts personally without advice from any institution." The controlling rule is: Article 192 requires the Governor to obtain and act according to the Election Commission's opinion for Article 191(1) questions.
+- **B:** Incorrect. Option B states "sends it to Parliament." The controlling rule is: Article 192 requires the Governor to obtain and act according to the Election Commission's opinion for Article 191(1) questions.
+- **C:** Incorrect. Option C states "refers it to the Speaker." The controlling rule is: Article 192 requires the Governor to obtain and act according to the Election Commission's opinion for Article 191(1) questions.
+- **D:** Correct. Option D states "obtains and acts according to the Election Commission's opinion." The controlling rule is: Article 192 requires the Governor to obtain and act according to the Election Commission's opinion for Article 191(1) questions.
 
-#### OM17. Ordinary Bill delay
+**Examiner trap:** The Governor must follow the ECI opinion under Article 192.
+
+#### MCQ 17. Ordinary Bill delay
 
 Maximum Council delay across Article 197 stages is approximately:
 
@@ -228,9 +325,15 @@ D. fourteen days.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Three months plus one month.
+**Option explanations:**
+- **A:** Correct. Option A states "four months." The controlling rule is: Article 197 permits a maximum three-month first delay and one-month second delay by the Council.
+- **B:** Incorrect. Option B states "six months." The controlling rule is: Article 197 permits a maximum three-month first delay and one-month second delay by the Council.
+- **C:** Incorrect. Option C states "one year." The controlling rule is: Article 197 permits a maximum three-month first delay and one-month second delay by the Council.
+- **D:** Incorrect. Option D states "fourteen days." The controlling rule is: Article 197 permits a maximum three-month first delay and one-month second delay by the Council.
 
-#### OM18. Joint sitting
+**Examiner trap:** Three months plus one month is delay, not an absolute veto.
+
+#### MCQ 18. Joint sitting
 
 For disagreement between State Houses:
 
@@ -241,9 +344,15 @@ D. Supreme Court resolves amendments.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Assembly preference prevails through Article 197.
+**Option explanations:**
+- **A:** Incorrect. Option A states "President chairs a joint sitting." The controlling rule is: The Constitution provides no joint sitting for disagreement between the two State Houses.
+- **B:** Correct. Option B states "no constitutional joint sitting exists." The controlling rule is: The Constitution provides no joint sitting for disagreement between the two State Houses.
+- **C:** Incorrect. Option C states "Governor always calls a joint sitting." The controlling rule is: The Constitution provides no joint sitting for disagreement between the two State Houses.
+- **D:** Incorrect. Option D states "Supreme Court resolves amendments." The controlling rule is: The Constitution provides no joint sitting for disagreement between the two State Houses.
 
-#### OM19. Money Bill introduction
+**Examiner trap:** Article 108's joint sitting has no State-level mirror.
+
+#### MCQ 19. Money Bill introduction
 
 A State Money Bill may be introduced:
 
@@ -254,9 +363,15 @@ D. only in Parliament.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The Assembly has initiation monopoly.
+**Option explanations:**
+- **A:** Incorrect. Option A states "only in the Council." The controlling rule is: A State Money Bill can be introduced only in the Legislative Assembly.
+- **B:** Incorrect. Option B states "in either House." The controlling rule is: A State Money Bill can be introduced only in the Legislative Assembly.
+- **C:** Correct. Option C states "only in the Assembly." The controlling rule is: A State Money Bill can be introduced only in the Legislative Assembly.
+- **D:** Incorrect. Option D states "only in Parliament." The controlling rule is: A State Money Bill can be introduced only in the Legislative Assembly.
 
-#### OM20. Council on Money Bill
+**Examiner trap:** A Money Bill cannot originate in the Council.
+
+#### MCQ 20. Council on Money Bill
 
 The Council:
 
@@ -267,9 +382,15 @@ D. may recommend within 14 days.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Assembly may accept or reject recommendations.
+**Option explanations:**
+- **A:** Incorrect. Option A states "can amend conclusively." The controlling rule is: The Council has fourteen days to make recommendations on a Money Bill; the Assembly decides whether to accept them.
+- **B:** Incorrect. Option B states "can reject permanently." The controlling rule is: The Council has fourteen days to make recommendations on a Money Bill; the Assembly decides whether to accept them.
+- **C:** Incorrect. Option C states "has three months." The controlling rule is: The Council has fourteen days to make recommendations on a Money Bill; the Assembly decides whether to accept them.
+- **D:** Correct. Option D states "may recommend within 14 days." The controlling rule is: The Council has fourteen days to make recommendations on a Money Bill; the Assembly decides whether to accept them.
 
-#### OM21. Money Bill certificate
+**Examiner trap:** Council recommendations on a Money Bill never bind the Assembly.
+
+#### MCQ 21. Money Bill certificate
 
 Who certifies a State Money Bill?
 
@@ -280,9 +401,15 @@ D. Council Chairman.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Article 199 assigns the Speaker.
+**Option explanations:**
+- **A:** Correct. Option A states "Assembly Speaker." The controlling rule is: Article 199 assigns final constitutional certification of a State Money Bill to the Assembly Speaker.
+- **B:** Incorrect. Option B states "Advocate General." The controlling rule is: Article 199 assigns final constitutional certification of a State Money Bill to the Assembly Speaker.
+- **C:** Incorrect. Option C states "Governor." The controlling rule is: Article 199 assigns final constitutional certification of a State Money Bill to the Assembly Speaker.
+- **D:** Incorrect. Option D states "Council Chairman." The controlling rule is: Article 199 assigns final constitutional certification of a State Money Bill to the Assembly Speaker.
 
-#### OM22. Confidence
+**Examiner trap:** Speaker certification and gubernatorial recommendation are different steps.
+
+#### MCQ 22. Confidence
 
 The State Council of Ministers is collectively responsible to:
 
@@ -293,9 +420,15 @@ D. both Houses equally.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Article 164(2) establishes Assembly responsibility.
+**Option explanations:**
+- **A:** Incorrect. Option A states "the Governor personally." The controlling rule is: Article 164(2) makes the State Council of Ministers collectively responsible to the Legislative Assembly.
+- **B:** Correct. Option B states "the Legislative Assembly." The controlling rule is: Article 164(2) makes the State Council of Ministers collectively responsible to the Legislative Assembly.
+- **C:** Incorrect. Option C states "the Legislative Council." The controlling rule is: Article 164(2) makes the State Council of Ministers collectively responsible to the Legislative Assembly.
+- **D:** Incorrect. Option D states "both Houses equally." The controlling rule is: Article 164(2) makes the State Council of Ministers collectively responsible to the Legislative Assembly.
 
-#### OM23. Demands for grants
+**Examiner trap:** Council debate cannot replace Assembly confidence.
+
+#### MCQ 23. Demands for grants
 
 Demands for grants are voted by:
 
@@ -306,9 +439,15 @@ D. both Houses.
 
 **Answer: C.**
 
-**Explanation:** [FACT] The power of the purse follows the confidence chamber.
+**Option explanations:**
+- **A:** Incorrect. Option A states "the Council alone." The controlling rule is: Article 203 submits demands for grants only to the vote of the Legislative Assembly.
+- **B:** Incorrect. Option B states "the Governor." The controlling rule is: Article 203 submits demands for grants only to the vote of the Legislative Assembly.
+- **C:** Correct. Option C states "the Assembly alone." The controlling rule is: Article 203 submits demands for grants only to the vote of the Legislative Assembly.
+- **D:** Incorrect. Option D states "both Houses." The controlling rule is: Article 203 submits demands for grants only to the vote of the Legislative Assembly.
 
-#### OM24. Charged expenditure
+**Examiner trap:** The Council may discuss finance but cannot vote demands for grants.
+
+#### MCQ 24. Charged expenditure
 
 Charged expenditure:
 
@@ -319,9 +458,15 @@ D. may be discussed but is not voted.
 
 **Answer: D.**
 
-**Explanation:** [FACT] Article 203 preserves discussion but excludes voting.
+**Option explanations:**
+- **A:** Incorrect. Option A states "requires a joint sitting." The controlling rule is: Charged expenditure may be discussed but is not submitted to vote under Article 203.
+- **B:** Incorrect. Option B states "is neither discussed nor voted." The controlling rule is: Charged expenditure may be discussed but is not submitted to vote under Article 203.
+- **C:** Incorrect. Option C states "is voted only by Council." The controlling rule is: Charged expenditure may be discussed but is not submitted to vote under Article 203.
+- **D:** Correct. Option D states "may be discussed but is not voted." The controlling rule is: Charged expenditure may be discussed but is not submitted to vote under Article 203.
 
-#### OM25. Article 200 return
+**Examiner trap:** Charged expenditure is discussable even though it is not voted.
+
+#### MCQ 25. Article 200 return
 
 The Governor may return for reconsideration:
 
@@ -332,9 +477,15 @@ D. a Money Bill only.
 
 **Answer: A.**
 
-**Explanation:** [FACT] A Money Bill cannot be returned under Article 200.
+**Option explanations:**
+- **A:** Correct. Option A states "a non-Money Bill." The controlling rule is: The first proviso to Article 200 permits return only of a non-Money Bill for reconsideration.
+- **B:** Incorrect. Option B states "a demand for grant." The controlling rule is: The first proviso to Article 200 permits return only of a non-Money Bill for reconsideration.
+- **C:** Incorrect. Option C states "a constitutional amendment Bill." The controlling rule is: The first proviso to Article 200 permits return only of a non-Money Bill for reconsideration.
+- **D:** Incorrect. Option D states "a Money Bill only." The controlling rule is: The first proviso to Article 200 permits return only of a non-Money Bill for reconsideration.
 
-#### OM26. Mandatory reservation
+**Examiner trap:** A Money Bill cannot be returned under Article 200's first proviso.
+
+#### MCQ 26. Mandatory reservation
 
 Reservation for the President is mandatory where a Bill:
 
@@ -345,9 +496,15 @@ D. creates a Council.
 
 **Answer: B.**
 
-**Explanation:** [FACT] The second proviso to Article 200 controls.
+**Option explanations:**
+- **A:** Incorrect. Option A states "changes House rules." The controlling rule is: The second proviso to Article 200 mandates reservation where derogation from High Court powers endangers its constitutional position.
+- **B:** Correct. Option B states "endangers the constitutional position of the High Court by derogating from its powers." The controlling rule is: The second proviso to Article 200 mandates reservation where derogation from High Court powers endangers its constitutional position.
+- **C:** Incorrect. Option C states "alters a municipal boundary." The controlling rule is: The second proviso to Article 200 mandates reservation where derogation from High Court powers endangers its constitutional position.
+- **D:** Incorrect. Option D states "creates a Council." The controlling rule is: The second proviso to Article 200 mandates reservation where derogation from High Court powers endangers its constitutional position.
 
-#### OM27. Article 201
+**Examiner trap:** The High Court-protection proviso is mandatory, unlike a general policy disagreement.
+
+#### MCQ 27. Article 201
 
 After a reserved non-Money Bill is returned and repassed:
 
@@ -358,9 +515,15 @@ D. it becomes law automatically.
 
 **Answer: C.**
 
-**Explanation:** [FACT] Article 201 differs from the direct Article 200 return loop.
+**Option explanations:**
+- **A:** Incorrect. Option A states "Governor must enact it without presentation." The controlling rule is: Under Article 201, repassage after a presidentially directed return does not constitutionally compel presidential assent.
+- **B:** Incorrect. Option B states "President must assent." The controlling rule is: Under Article 201, repassage after a presidentially directed return does not constitutionally compel presidential assent.
+- **C:** Correct. Option C states "presidential assent is not constitutionally compelled." The controlling rule is: Under Article 201, repassage after a presidentially directed return does not constitutionally compel presidential assent.
+- **D:** Incorrect. Option D states "it becomes law automatically." The controlling rule is: Under Article 201, repassage after a presidentially directed return does not constitutionally compel presidential assent.
 
-#### OM28. Assent status
+**Examiner trap:** Article 201 contains no repassage command equivalent to Article 200's text.
+
+#### MCQ 28. Assent status
 
 The November 2025 advisory opinion supports:
 
@@ -371,9 +534,15 @@ D. limited review of prolonged unexplained inaction without deemed assent.
 
 **Answer: D.**
 
-**Explanation:** [CURRENT] Courts may direct action but cannot invent assent.
+**Option explanations:**
+- **A:** Incorrect. Option A states "rigid judicial timelines in every case." The controlling rule is: The 2025 Article 143 opinion rejects rigid judicial timelines and deemed assent but preserves limited mandamus for glaring prolonged inaction.
+- **B:** Incorrect. Option B states "absolute non-justiciability of inaction." The controlling rule is: The 2025 Article 143 opinion rejects rigid judicial timelines and deemed assent but preserves limited mandamus for glaring prolonged inaction.
+- **C:** Incorrect. Option C states "automatic deemed assent after one month." The controlling rule is: The 2025 Article 143 opinion rejects rigid judicial timelines and deemed assent but preserves limited mandamus for glaring prolonged inaction.
+- **D:** Correct. Option D states "limited review of prolonged unexplained inaction without deemed assent." The controlling rule is: The 2025 Article 143 opinion rejects rigid judicial timelines and deemed assent but preserves limited mandamus for glaring prolonged inaction.
 
-#### OM29. Privilege
+**Examiner trap:** Limited mandamus to act is not judicial selection of assent, withholding or reservation.
+
+#### MCQ 29. Privilege
 
 Article 194 primarily protects:
 
@@ -384,9 +553,15 @@ D. all party communications.
 
 **Answer: A.**
 
-**Explanation:** [FACT] Privilege is function-linked.
+**Option explanations:**
+- **A:** Correct. Option A states "member speech and votes in the House/committees." The controlling rule is: Article 194 protects speech, votes and legislative functions; it does not create general personal criminal immunity.
+- **B:** Incorrect. Option B states "every private act of a legislator." The controlling rule is: Article 194 protects speech, votes and legislative functions; it does not create general personal criminal immunity.
+- **C:** Incorrect. Option C states "the Governor as a House member." The controlling rule is: Article 194 protects speech, votes and legislative functions; it does not create general personal criminal immunity.
+- **D:** Incorrect. Option D states "all party communications." The controlling rule is: Article 194 protects speech, votes and legislative functions; it does not create general personal criminal immunity.
 
-#### OM30. Article 212
+**Examiner trap:** Sita Soren removes bribery from the privilege shield.
+
+#### MCQ 30. Article 212
 
 Article 212 bars courts from questioning proceedings merely for:
 
@@ -397,9 +572,15 @@ D. violation of Fundamental Rights.
 
 **Answer: B.**
 
-**Explanation:** [FACT] Substantive constitutional review remains possible.
+**Option explanations:**
+- **A:** Incorrect. Option A states "lack of legislative competence." The controlling rule is: Article 212 bars challenge merely for procedural irregularity, not review of substantive constitutional illegality.
+- **B:** Correct. Option B states "procedural irregularity." The controlling rule is: Article 212 bars challenge merely for procedural irregularity, not review of substantive constitutional illegality.
+- **C:** Incorrect. Option C states "mala fides." The controlling rule is: Article 212 bars challenge merely for procedural irregularity, not review of substantive constitutional illegality.
+- **D:** Incorrect. Option D states "violation of Fundamental Rights." The controlling rule is: Article 212 bars challenge merely for procedural irregularity, not review of substantive constitutional illegality.
 
-#### OM31. Women's reservation
+**Examiner trap:** Procedural irregularity and substantive illegality are not synonyms.
+
+#### MCQ 31. Women's reservation
 
 The 106th Amendment reservation applies to:
 
@@ -410,698 +591,172 @@ D. Legislative Councils only.
 
 **Answer: C.**
 
-**Explanation:** [FACT/CURRENT] It does not cover Councils and is not operational yet.
+**Option explanations:**
+- **A:** Incorrect. Option A states "Rajya Sabha and Councils." The controlling rule is: Article 332A covers State Legislative Assemblies, while Article 334A postpones operation until the census-publication and delimitation sequence.
+- **B:** Incorrect. Option B states "every nominated seat." The controlling rule is: Article 332A covers State Legislative Assemblies, while Article 334A postpones operation until the census-publication and delimitation sequence.
+- **C:** Correct. Option C states "Lok Sabha and State Legislative Assemblies, subject to activation conditions." The controlling rule is: Article 332A covers State Legislative Assemblies, while Article 334A postpones operation until the census-publication and delimitation sequence.
+- **D:** Incorrect. Option D states "Legislative Councils only." The controlling rule is: Article 332A covers State Legislative Assemblies, while Article 334A postpones operation until the census-publication and delimitation sequence.
 
-#### OM32. Delimitation trigger
+**Examiner trap:** Women's reservation does not extend to Legislative Councils and commencement is not electoral operation.
 
-Which is accurate as of 28 August 2026?
+#### MCQ 32. Article 213 ordinance interface
 
-A. The failed 2026 Bills are law.
-B. Delimitation automatically occurred on 1 January 2026.
-C. Women's reservation already applies to all Assembly elections.
-D. Publication of the relevant post-2026 census figures and delimitation remain pending.
+Under Article 213, which statement is correct?
 
-**Answer: D.**
-
-**Explanation:** [CURRENT] Census and delimitation dates remain unresolved.
-
-#### OM33. Rajya Sabha comparison
-
-Unlike a Council, Rajya Sabha:
-
-A. has federal representation and special Articles 249/312 powers.
-B. is optional.
-C. is directly elected by citizens.
-D. may be abolished by Article 169 law.
-
-**Answer: A.**
-
-**Explanation:** [FACT] The Council has no equivalent federal power.
-
-#### OM34. Governor's special address
-
-Article 176 requires it:
-
-A. only during emergency.
-B. after each general election and at the first session of each year.
-C. only in bicameral States.
-D. before every sitting.
-
-**Answer: B.**
-
-**Explanation:** [FACT] These are the two constitutional occasions.
-
-#### OM35. Assembly dissolution and Bills
-
-Which statement is generally correct?
-
-A. Council Bills always become law.
-B. Money Bills transfer to Parliament.
-C. Bills pending in or passed by the Assembly at relevant stages may lapse on dissolution.
-D. Every Bill survives dissolution.
-
-**Answer: C.**
-
-**Explanation:** [FACT] Lapse analysis depends on House and stage.
-
-#### OM36. Council verdict
-
-The most accurate constitutional description is:
-
-A. permanent veto chamber.
-B. co-equal federal chamber.
-C. confidence chamber.
-D. optional, permanent and mainly suspensive/advisory chamber.
+A. The Governor may promulgate an ordinance whenever one House adjourns for a day.
+B. A State ordinance survives until the legislature expressly repeals it.
+C. A State ordinance may amend the Constitution within that State.
+D. The power is recess-conditioned, competence-bound and subject to later legislative scrutiny.
 
 **Answer: D.**
 
-**Explanation:** [ANALYSIS] This captures Article 169 status and Articles 197-199 weakness.
+**Option explanations:**
+- **A:** Incorrect. Option A states "The Governor may promulgate an ordinance whenever one House adjourns for a day." The controlling rule is: Article 213 is conditioned by legislative recess, immediate necessity, competence, laying and the six-week reassembly control.
+- **B:** Incorrect. Option B states "A State ordinance survives until the legislature expressly repeals it." The controlling rule is: Article 213 is conditioned by legislative recess, immediate necessity, competence, laying and the six-week reassembly control.
+- **C:** Incorrect. Option C states "A State ordinance may amend the Constitution within that State." The controlling rule is: Article 213 is conditioned by legislative recess, immediate necessity, competence, laying and the six-week reassembly control.
+- **D:** Correct. Option D states "The power is recess-conditioned, competence-bound and subject to later legislative scrutiny." The controlling rule is: Article 213 is conditioned by legislative recess, immediate necessity, competence, laying and the six-week reassembly control.
 
-### Remedial MCQs - strict A -> C -> A -> D rotation
+**Examiner trap:** An ordinance is not a constitutional amendment, permanent Act or substitute for legislative sessions.
 
-#### R1. Bicameral-State trap
-
-Which is currently bicameral?
-
-A. Karnataka.
-B. Tamil Nadu.
-C. Odisha.
-D. Rajasthan.
-
-**Answer: A.**
-
-**Remedy:** Use KATBUM.
-
-#### R2. Article 169 trap
-
-The Assembly resolution uses:
-
-A. unanimous vote.
-B. total-membership majority plus two-thirds present and voting.
-C. simple majority only.
-D. half-State ratification.
-
-**Answer: B.**
-
-**Remedy:** Special Assembly resolution, ordinary parliamentary law.
-
-#### R3. Composition trap
-
-Teachers elect:
-
-A. one-third.
-B. half.
-C. one-twelfth.
-D. one-sixth.
-
-**Answer: C.**
-
-**Remedy:** 1/3 - 1/12 - 1/12 - 1/3 - 1/6.
-
-#### R4. Council power trap
-
-On an ordinary Bill, Council ultimately:
-
-A. sends it to Supreme Court.
-B. has absolute veto.
-C. forces a joint sitting.
-D. can delay but not defeat Assembly preference.
-
-**Answer: D.**
-
-**Remedy:** Three months plus one month; no State joint sitting.
-
-#### R5. Speaker trap
-
-The Assembly Speaker after dissolution:
-
-A. continues until immediately before the new Assembly's first meeting.
-B. vacates instantly.
-C. becomes caretaker Chief Minister.
-D. continues for a fixed six years.
-
-**Answer: A.**
-
-**Remedy:** Continuity is an explicit Article 179 exception.
-
-#### R6. Quorum trap
-
-Correct quorum:
-
-A. ten or one-tenth, whichever is smaller.
-B. until altered by State law, ten or one-tenth, whichever is greater.
-C. one-tenth only.
-D. twenty in every House.
-
-**Answer: B.**
-
-**Remedy:** Remember both the default ten-member floor and the opening legislative-variation clause.
-
-#### R7. Disqualification trap
-
-Non-defection Article 191 disputes go to:
-
-A. President.
-B. Speaker without review.
-C. Governor acting according to ECI opinion.
-D. Chief Minister.
-
-**Answer: C.**
-
-**Remedy:** Article 192 differs from the Tenth Schedule.
-
-#### R8. Privilege trap
-
-Article 194:
-
-A. bars all judicial review.
-B. protects every criminal act.
-C. makes Governor a House member.
-D. protects member speech/votes in legislative functions.
-
-**Answer: D.**
-
-**Remedy:** Privilege is member- and function-specific.
-
-#### R9. Money Bill trap
-
-Council may:
-
-A. recommend within 14 days.
-B. veto permanently.
-C. certify it.
-D. amend conclusively.
-
-**Answer: A.**
-
-**Remedy:** Speaker certifies; Assembly decides recommendations.
-
-#### R10. Confidence trap
-
-No-confidence is effective in:
-
-A. Governor's office.
-B. Assembly only.
-C. either House.
-D. Council only.
-
-**Answer: B.**
-
-**Remedy:** Collective responsibility is to the Assembly.
-
-#### R11. Reservation trap
-
-Women's reservation presently covers constitutionally:
-
-A. Councils only.
-B. every House immediately.
-C. Lok Sabha and Assemblies, but activation remains pending.
-D. Rajya Sabha only.
-
-**Answer: C.**
-
-**Remedy:** Separate constitutional provision from operational implementation.
-
-#### R12. Article 212 trap
-
-Courts remain able to review:
-
-A. no legislative matter.
-B. every minor procedural error.
-C. only Council composition.
-D. substantive constitutional illegality despite Article 212.
-
-**Answer: D.**
-
-**Remedy:** Procedural irregularity is not substantive illegality.
 
 ## PYQS AND ANSWER PRACTICE
 
-### Verified routed Mains PYQs
+### Audited Mains PYQs
 
-#### PYQ 1 - UPSC GS-II 2021, Q14 - direct owner
+#### PYQ-M1 — UPSC CSE Mains 2021, GS-II, Q14
 
-**Verified neutral demand:** Explain the constitutional provisions for Legislative Councils and review their working.  
+**Official paper wording:** "Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations."  
 **15 marks | 250 words**
 
-**Demand decoding**
+**Model answer:** Legislative Councils are optional second chambers. Article 168 permits bicameral State legislatures; Article 169 requires an Assembly resolution supported by a majority of total membership and two-thirds present and voting, after which Parliament may enact an ordinary law. Article 171 fixes mixed indirect composition: local authorities, graduates, teachers and MLAs elect five-sixths, while the Governor nominates the remainder from specified fields. The Council is continuing, with one-third retiring every two years.
 
-- "Explain" requires Articles 169 and 171 plus legislative powers.
-- "Review" requires a judgement on actual utility and weakness.
-- A complete answer must compare the Council with the Assembly and Rajya Sabha.
+Its working is deliberately subordinate. Under Article 197 it may delay an ordinary Bill for three months and, after Assembly repassage, one month; no joint sitting exists. Under Articles 198-199 it may only recommend changes to a Money Bill within fourteen days. It cannot vote grants or remove the ministry, which is responsible to the Assembly.
 
-**Model answer**
+Councils can check haste, preserve continuity and represent local or expert voices. Yet occupational electorates, patronage, cost and weak committee capacity may make them duplicative. Their value is therefore State-specific: retain where independent scrutiny is demonstrable, reform electorates and nominations, and use Article 169 abolition where the chamber remains merely ornamental.
 
-**Claim:** [FACT] A Legislative Council is an optional, permanent and structurally subordinate second chamber. Its constitutional purpose is reconsideration and wider representation, not equality with the Assembly.
+#### PYQ-M2 — UPSC CSE Mains 2023, GS-II, Q5
 
-**Named evidence:** Under Article 169, an Assembly initiates creation or abolition through a total-membership majority plus two-thirds present and voting; Parliament then enacts an ordinary law, which is not an Article 368 amendment. Article 171 limits strength to one-third of the Assembly with a minimum of 40 and distributes membership among local authorities, graduates, teachers, MLAs and Governor-nominated experts. Five-sixths are indirectly elected through STV and one-sixth nominated. Councillors serve six years, with one-third retiring every two years.
-
-**Working and analysis:** Articles 197-199 make the Council weak. It may delay an ordinary Bill for about four months but cannot veto it; on a Money Bill it can only recommend within 14 days. It neither votes grants nor removes the ministry, which is responsible only to the Assembly. Unlike the Rajya Sabha, it has no federal or Article 249/312-type special power.
-
-**Review:** It can check haste, preserve continuity and include local/expert voices. Yet dated occupational constituencies, indirect election, cost and patronage create the "ornamental chamber" criticism.
-
-**Qualification and verdict:** [LIMIT] Utility varies by State and political composition. Councils should be retained where they produce independent scrutiny, but their electorates, nominations and committee work need reform; where they merely duplicate the Assembly, Article 169 abolition remains constitutionally legitimate.
-
-**Examiner comment:** Do not stop after composition. "Working" demands Articles 197-199, confidence/finance weakness and a reviewed conclusion.
-
-**Evidence chain:** Article 169 -> Article 171 -> permanence -> Articles 197-199 -> Assembly confidence -> Rajya Sabha comparison -> reform.
-
-**Why this earns marks:** It answers provision and performance, uses precise fractions and timelines, supplies counter-arguments and ends with a conditional verdict.
-
-**How to improve this answer:** Compress the Article 171 fractions into one line, devote a separate paragraph to Articles 197-199, and end with a State-specific retain-reform-abolish test rather than a generic defence of bicameralism.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ 1 - UPSC GS-II 2021, Q14 - direct owner”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ 1 - UPSC GS-II 2021, Q14 - direct owner”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Verified neutral demand: Explain the constitutional provisions for Legislative Councils and review their working. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** "Explain" requires Articles 169 and 171 plus legislative powers. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** "Review" requires a judgement on actual utility and weakness. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** A complete answer must compare the Council with the Assembly and Rajya Sabha. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Claim: [FACT] A Legislative Council is an optional, permanent and structurally subordinate second chamber. Its constitutional purpose is reconsideration and wider representation, not equality with the Assembly. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ 1 - UPSC GS-II 2021, Q14 - direct owner”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### PYQ 2 - UPSC GS-II 2023, Q5 - direct owner
-
-**Verified neutral demand:** Discuss the role of Presiding Officers of State legislatures in maintaining order and impartial conduct of business.  
+**Official paper wording:** "Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices."  
 **10 marks | 150 words**
 
-**Model answer**
+**Model answer:** Presiding officers are the procedural guardians of State legislatures. Articles 178-185 establish the Speaker, Deputy Speaker, Chairman and Deputy Chairman with removal safeguards. They maintain order, interpret House rules, admit questions and motions, recognise speakers and committees, and use a casting vote under Article 189. The Assembly Speaker also certifies Money Bills under Article 199 and the presiding officer decides Tenth Schedule petitions.
 
-**Claim:** [FACT] The Speaker/Chairman is the procedural guardian of the State House, but the constitutional design gives the office powers whose legitimacy depends on visible impartiality.
+These powers shape debate, finance and even government survival. Continued party affiliation and strategic delay can therefore damage neutrality. *Kihoto Hollohan* makes defection decisions reviewable; *Keisham Meghachandra* stated an ordinarily three-month norm absent exceptional circumstances; *Subhash Desai* protected the political party's authority over the whip.
 
-**Named evidence:** Articles 178-185 establish the offices and removal safeguards. The presiding officer interprets rules, maintains order, recognises members, decides admissibility, uses a casting vote under Article 189 and, in the Assembly, certifies Money Bills under Article 199. Under the Tenth Schedule the Speaker/Chairman adjudicates defection.
+Impartiality requires reasoned rulings, equal speaking opportunities, timely decisions, stronger secretariats and reconsideration of the presiding officer's defection role. Convention matters, but institutional insulation makes neutrality credible.
 
-**Analysis:** These powers determine who speaks, which motion proceeds, whether a government survives and whether bicameral scrutiny applies. Continued party membership creates a conflict, especially when defection petitions are delayed.
+### Audited objective PYQs — official-key discipline
 
-**Judicial control:** *Kihoto Hollohan (1992)* subjects tribunal-like defection decisions to review. *Keisham Meghachandra* urged decisions ordinarily within three months and proposed an independent tribunal.
+#### PYQ-P1 — UPSC Prelims 2018, GS-I, official paper
 
-**Qualification and verdict:** [LIMIT] The tribunal and deadline are not enacted law. Impartiality therefore needs reasoned rulings, equal rules, stronger conventions and transfer of defection adjudication to a neutral body. The chair is indispensable, but neutrality must be institutional rather than merely personal.
+Consider the following statements:
 
-**Examiner comment:** Link each power to impartial business; avoid a generic list of Speaker functions.
+1. The Speaker of the Legislative Assembly shall vacate his/her office if he/she ceases to be a member of the Assembly.
+2. Whenever the Legislative Assembly is dissolved, the Speaker shall vacate his/her office immediately.
 
-**Evidence chain:** Articles 178-185 -> Articles 189/199 -> Tenth Schedule -> *Kihoto* -> *Keisham* -> reform.
+Which of the statements given above is/are correct?
 
-**Why this earns marks:** It fits 150 words conceptually, combines functions with the neutrality problem and gives targeted reform.
+A. 1 only  
+B. 2 only  
+C. Both 1 and 2  
+D. Neither 1 nor 2
 
-**How to improve this answer:** For 150 words retain only office, three decisive functions, the partisan-delay mechanism, Kihoto plus the 2025 Padi Kaushik Reddy control, and one institutional reform.
+**Answer withheld pending official UPSC key.**
 
-### Routed Prelims demands - provenance without invented answer letters
+**Doctrinal solution:** Article 179 makes statement 1 correct and statement 2 incorrect: the Speaker continues until immediately before the first meeting of the new Assembly.
 
-#### Prelims route 1 - 2018 GS-I Q39
+#### PYQ-P2 — UPSC Prelims 2019, GS-I, Q53
 
-**Verified neutral demand:** Vacation and continuation of the Legislative Assembly Speaker's office.
+With reference to the Legislative Assembly of a State in India, consider the following statements:
 
-**Doctrinal solution**
+1. The Governor makes a customary address to Members of the House at the commencement of the first session of the year.
+2. When a State Legislature does not have a rule on a particular matter, it follows the Lok Sabha rule on that matter.
 
-- [FACT] The Speaker vacates on ceasing to be a member, resignation to the Deputy Speaker, or removal by a majority of all then Assembly members after 14 days' notice.
-- [FACT] Dissolution does not immediately vacate the Speaker's office; the Speaker continues until immediately before the first meeting of the new Assembly.
+Which of the statements given above is/are correct?
 
-**Elimination rule:** Reject any statement that dissolution instantly ends the Speaker's tenure.
+A. 1 only  
+B. 2 only  
+C. Both 1 and 2  
+D. Neither 1 nor 2
 
-#### Prelims route 2 - 2019 GS-I Q53
+**Answer withheld pending official UPSC key.**
 
-**Verified neutral demand:** Governor's address/messages and State legislative procedure.
+**Doctrinal solution:** Article 176 requires the special address at the first session each year; Article 208 lets a House make its own rules and does not automatically import Lok Sabha rules.
 
-**Doctrinal solution**
+#### PYQ-P3 — UPSC Prelims 2025, GS-I, Q59, Set A
 
-- [FACT] Article 175 permits address and messages.
-- [FACT] Article 176 requires the special address after a general election and at the first session of each year.
-- [FACT] Article 208 concerns House rules; Article 212 protects against review of procedural irregularity.
+With reference to the Indian polity, consider the following statements:
 
-**Elimination rule:** Distinguish the discretionary Article 175 power from the constitutionally required Article 176 occasions.
+1. The Governor of a State is not answerable to any court for the exercise and performance of the powers and duties of his/her office.
+2. No criminal proceedings shall be instituted or continued against the Governor during his/her term of office.
+3. Members of a State Legislature are not liable to any proceedings in any court in respect of anything said within the House.
 
-#### Prelims route 3 - 2025 GS-I Q59 - cross-owned
+Which of the statements given above are correct?
 
-**Verified neutral demand:** Governor's immunity and immunity for words spoken in a State legislature.
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
 
-**Doctrinal solution**
+**Official Set-A answer: D.**
 
-- [FACT] Article 361 protects the Governor in specified ways.
-- [FACT] Article 194 speech/vote immunity applies to House members.
-- [FACT] The Governor is a legislative component under Article 168 but not a House member.
+**Doctrinal solution:** Article 361 supplies the first two personal immunities and Article 194(2) supplies the member speech immunity. The official locally held final Set-A key marks D.
 
-**Elimination rule:** Do not transfer member privilege to the Governor.
+### Exactly six original Mains questions with model solutions
 
-### Original solved Mains practice
+#### Original Q1 — 10 marks, answer in not more than 150 words
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ 2 - UPSC GS-II 2023, Q5 - direct owner”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**"A Legislative Council is a revising convenience, not a revising power." Examine.**
 
-**Detailed examiner-grade model answer:**
+**Model answer (126 words):** A Legislative Council gives a State Bill a second deliberative stage but cannot defeat the directly elected Assembly. Article 197 permits a first delay of up to three months and a second delay of one month after Assembly repassage; there is no State joint sitting. Articles 198-199 reduce its Money Bill role to recommendations within fourteen days. It cannot vote demands for grants or remove the ministry because Article 164(2) makes the Council of Ministers responsible only to the Assembly. These limits preserve democratic primacy while allowing continuity, expert participation and exposure of drafting defects. However, delay adds value only where membership and committee work produce independent scrutiny. Where the chamber merely reproduces party patronage, cost and duplication dominate. The Council is therefore a revising convenience whose justification must be demonstrated State by State.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “PYQ 2 - UPSC GS-II 2023, Q5 - direct owner”.
+#### Original Q2 — 10 marks, answer in not more than 150 words
 
-**Analytical body:**
+**Analyse the neutrality problem of the State Legislative Assembly Speaker.**
 
-1. **Claim and named evidence:** Verified neutral demand: Discuss the role of Presiding Officers of State legislatures in maintaining order and impartial conduct of business. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [FACT] The Speaker/Chairman is the procedural guardian of the State House, but the constitutional design gives the office powers whose legitimacy depends on visible impartiality. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Judicial control: Kihoto Hollohan (1992) subjects tribunal-like defection decisions to review. Keisham Meghachandra urged decisions ordinarily within three months and proposed an independent tribunal. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Examiner comment: Link each power to impartial business; avoid a generic list of Speaker functions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Evidence chain: Articles 178-185 -> Articles 189/199 -> Tenth Schedule -> Kihoto -> Keisham -> reform. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Model answer (137 words):** The Speaker protects orderly and equal deliberation, yet combines procedural authority with continuing party affiliation. Articles 178-181 secure the office; Article 189 gives a casting vote; Article 199 assigns Money Bill certification; and Tenth Schedule paragraph 6 makes the Speaker the initial defection adjudicator. These powers can determine agenda, finance and government survival. *Kihoto Hollohan* subjected defection decisions to judicial review, while *Keisham Meghachandra* stated that petitions should ordinarily be decided within three months absent exceptional circumstances. *Subhash Desai* held that the political party, not a legislature-party faction, appoints the authorised whip and leader. Judicial review corrects abuse after or around decision, but cannot supply daily impartiality. Reasoned rulings, protected debate time, professional secretariats and an independent defection tribunal deserve consideration. Neutrality should be institutionally supported rather than left entirely to personal convention.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+#### Original Q3 — 15 marks, answer in not more than 250 words
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “PYQ 2 - UPSC GS-II 2023, Q5 - direct owner”.
+**Reconcile the 2023 Punjab Governor judgment, the 2025 Tamil Nadu judgment and the 2025 Article 143 opinion on Articles 200-201.**
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Model answer (195 words):** Article 200 places a completed State Bill before the Governor, while Article 201 governs a Bill reserved for the President. The constitutional problem is how to prevent paralysis without replacing the named decision-maker.
 
-#### M1. "The Legislative Council is a revising convenience, not a revising power." Examine. (10 marks, 150 words)
+In *State of Punjab v. Principal Secretary to the Governor* (2023), the Supreme Court rejected indefinite inaction and read withholding with the first-proviso return mechanism. In *State of Tamil Nadu v. Governor of Tamil Nadu* (8 April 2025), the Court invalidated the second-round reservation of repassed Bills, prescribed timelines and, on its facts, used Article 142 to deem assent to ten Bills.
 
-**Model answer**
+The five-judge advisory opinion of 20 November 2025, 2025 INSC 1333, stated that Article 200 offers three options: assent; reserve; or withhold and return a non-Money Bill with comments. It held that courts cannot prescribe rigid general timelines, conduct pre-enactment merits review, substitute the constitutional decision under Article 142 or create deemed assent. Yet glaring, prolonged, unexplained and indefinite inaction remains open to limited mandamus requiring action within reasonable time.
 
-**Claim:** [FACT] A Council offers a second deliberative stage but lacks the authority to defeat the elected Assembly.
+The opinion is advisory, not an appellate order setting aside Tamil Nadu's inter partes relief. The current synthesis is therefore: no pocket veto, no judicially invented assent, and bounded review focused on inaction rather than merits.
 
-**Named evidence:** Article 197 permits only about four months' delay on ordinary Bills. Articles 198-199 limit it to 14-day recommendations on Money Bills. It cannot vote grants or remove the ministry, which is responsible only to the Assembly.
+#### Original Q4 — 15 marks, answer in not more than 250 words
 
-**Analysis:** These limits preserve democratic primacy while allowing reconsideration, expert participation and institutional continuity. Different party control may expose drafting flaws or compel public justification.
+**Explain how Articles 202-207 establish Assembly primacy while retaining constitutional financial discipline.**
 
-**Qualification:** [LIMIT] Delay without committee capacity can become mere duplication, and graduate/teacher constituencies may no longer represent scarce expertise.
+**Model answer (183 words):** Articles 202-207 convert executive fiscal proposals into legislative authority. Article 202 requires the annual financial statement and separates charged from voted expenditure. Article 203 allows discussion of charged expenditure but submits demands for grants only to the Assembly, and only on the Governor's recommendation. Article 204 then requires appropriation before withdrawal from the Consolidated Fund. Articles 205-206 accommodate supplementary, additional, excess and exceptional needs without bypassing legislative authorisation.
 
-**Verdict:** The Council is valuable when delay produces evidence-based scrutiny; it is ornamental when it only reproduces party patronage. Retention should therefore be linked to composition reform and measurable legislative work.
+Article 207 distinguishes financial categories. A Bill containing Article 199(1)(a)-(f) matters requires gubernatorial recommendation and Assembly-only introduction. A Bill merely involving expenditure from the Consolidated Fund may originate in either House but cannot be passed without recommendation for consideration. Neither category is automatically a Money Bill; classification depends on content.
 
-**Evidence chain:** Articles 197-199 -> finance/confidence weakness -> scrutiny value -> reform.
+This architecture gives the confidence chamber control of supply while preserving discussion and audit. A Council may discuss the budget but cannot vote demands or bind the Assembly on a Money Bill. Assembly primacy, however, is not executive licence: meaningful control still requires adequate debate, committee examination, CAG-linked Public Accounts Committee follow-up and transparent supplementary demands. Constitutional power becomes accountability only through effective House practice.
 
+#### Original Q5 — 20 marks, answer in not more than 250 words
 
-**Why this earns marks:** It identifies the Council’s exact delay, finance and confidence limits while preserving the counter-case that delay can improve scrutiny.
+**Evaluate the institutional causes of weak State legislative scrutiny and propose targeted reforms.**
 
-**How to improve this answer:** In a 150-word answer use one sentence each for Article 197, Articles 198-199, confidence weakness, scrutiny value and conditional verdict; omit the full composition formula.
+**Model answer (217 words):** State legislatures possess substantial formal powers over law, confidence and finance, but institutional conditions often reduce scrutiny. Article 174 sets only a maximum inter-session gap, not a minimum annual sitting calendar. Governments can therefore compress business into short sessions. Rushed passage narrows amendment and opposition opportunity; weak research support increases member dependence on departments; discretionary committee referral limits evidence-based review; and delayed replies weaken questions and assurances. Ordinance reliance under Article 213 may further shift initiative to the executive, although *D. C. Wadhwa* and *Krishna Kumar Singh* reject routine repromulgation.
 
-**Demand decoding:** The directive **examine** requires a direct position on “M1. "The Legislative Council is a revising convenience, not a revising power." Examine. (10…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+Presiding-officer incentives compound the problem. Control over admissibility, debate, Money Bill certification and defection timing affects government survival. *Kihoto Hollohan*, *Keisham Meghachandra* and *Subhash Desai* preserve review, timeliness and political-party authority, but litigation is a late safeguard. Councils can provide a second look, yet Articles 197-199 leave them unable to defeat Assembly preference.
 
-**Detailed examiner-grade model answer:**
+Reform should target mechanisms: an evidence-based minimum sitting calendar; protected Question Hour and opposition time; publication and pre-legislative consultation; default committee referral with reasoned exceptions; professional non-partisan research and drafting services; time-bound executive responses to committee reports; transparent, reasoned rulings; and reconsideration of the Speaker's defection jurisdiction. Uniform national copying should be avoided because State rules and capacities differ. Stronger process, not merely more institutions, converts Assembly primacy into accountable representative government.
 
-**Introduction and thesis:** The answer must resolve the sociological demand in “M1. "The Legislative Council is a revising convenience, not a revising power." Examine. (10 marks, 150 words)”.
+#### Original Q6 — 20 marks, answer in not more than 250 words
 
-**Analytical body:**
+**Compare Parliament and a bicameral State legislature, focusing on second-chamber power, deadlock, lapse and ordinance control.**
 
-1. **Claim and named evidence:** M1. "The Legislative Council is a revising convenience, not a revising power." Examine. (10 marks, 150 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [FACT] A Council offers a second deliberative stage but lacks the authority to defeat the elected Assembly. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Analysis: These limits preserve democratic primacy while allowing reconsideration, expert participation and institutional continuity. Different party control may expose drafting flaws or compel public justification. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: [LIMIT] Delay without committee capacity can become mere duplication, and graduate/teacher constituencies may no longer represent scarce expertise. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Evidence chain: Articles 197-199 -> finance/confidence weakness -> scrutiny value -> reform. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Model answer (221 words):** Parliament and a bicameral State legislature share responsible-government logic but allocate second-chamber power differently. At the Union, the Rajya Sabha represents States, is broadly co-equal on ordinary and constitutional-amendment Bills and has special powers under Articles 249 and 312. A Legislative Council has mixed local, occupational, MLA-elected and nominated membership under Article 171 and no equivalent federal role.
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+For an ordinary State Bill, Article 197 allows a Council delay of three months and, after Assembly repassage, one month. The Assembly's second-passage text then prevails. Unlike Article 108 at the Union, there is no State joint sitting. A Council-originated Bill rejected by the Assembly ends. Under Article 196, prorogation does not lapse Bills; a Bill pending in the Assembly, or passed by it and pending in the Council, lapses on dissolution, while a Council-only pending Bill does not.
 
-**Qualified conclusion:** The answer must resolve the sociological demand in “M1. "The Legislative Council is a revising convenience, not a revising power." Examine. (10 marks, 150 words)”.
+Financial asymmetry is sharper. Articles 198-199 give the Council only a fourteen-day recommendatory role on Money Bills, while Article 203 reserves grant voting to the Assembly. The ministry is responsible only to the Assembly.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+Article 213 mirrors the temporary-law principle of Article 123 but operates within State competence and its specific recess condition. Mandatory laying and six-week expiry after later reassembly, reinforced by *D. C. Wadhwa* and *Krishna Kumar Singh*, prevent ordinance government. Thus parliamentary comparison is useful only after each constitutional mechanism is separately decoded.
 
-#### M2. Should Legislative Councils be abolished? Discuss with constitutional and democratic arguments. (15 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [ANALYSIS] Uniform abolition is as crude as automatic retention because Article 169 deliberately makes State bicameralism optional.
-
-**For abolition:** Councils impose cost, cannot block ordinary or Money Bills, may provide patronage posts and rest partly on dated occupational electorates. Their existence depends on Assembly initiative and ordinary parliamentary law, confirming that they are not federal essentials.
-
-**For retention:** Permanence preserves memory; local-body, teacher, graduate and expert categories diversify representation; a second chamber can slow hasty majoritarian legislation and strengthen committees. Where the Council has a different majority, it may force reasons and negotiation.
-
-**Named evidence:** Articles 169 and 171 establish optionality and composition; Articles 197-199 establish subordination. Rajya Sabha comparison shows that weakness is real but does not prove zero deliberative value.
-
-**Reform:** Modernise electorates, publish nomination criteria, strengthen committee referral, assess legislative outputs and prevent use as rehabilitation for defeated politicians.
-
-**Verdict:** Use a State-specific retain-reform-abolish test. Councils that add independent scrutiny deserve reform; those that merely delay and reward patronage may legitimately be abolished through Article 169.
-
-
-**Why this earns marks:** It tests abolition against constitutional optionality, democratic cost, representational benefit and practicable reform instead of choosing an absolute position.
-
-**How to improve this answer:** Group the body under abolition, retention and reform; cite Articles 169, 171 and 197-199 once each and finish with measurable State-specific criteria.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “M2. Should Legislative Councils be abolished? Discuss with constitutional and democratic…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M2. Should Legislative Councils be abolished? Discuss with constitutional and democratic arguments. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M2. Should Legislative Councils be abolished? Discuss with constitutional and democratic arguments. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [ANALYSIS] Uniform abolition is as crude as automatic retention because Article 169 deliberately makes State bicameralism optional. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Named evidence: Articles 169 and 171 establish optionality and composition; Articles 197-199 establish subordination. Rajya Sabha comparison shows that weakness is real but does not prove zero deliberative value. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Reform: Modernise electorates, publish nomination criteria, strengthen committee referral, assess legislative outputs and prevent use as rehabilitation for defeated politicians. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Use a State-specific retain-reform-abolish test. Councils that add independent scrutiny deserve reform; those that merely delay and reward patronage may legitimately be abolished through Article 169. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M2. Should Legislative Councils be abolished? Discuss with constitutional and democratic arguments. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M3. Analyse the constitutional position and impartiality challenge of State Speakers. (15 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [FACT] The Speaker is simultaneously procedural judge, constitutional certifier and politically elected member, creating an unavoidable neutrality challenge.
-
-**Named evidence:** Articles 178-181 establish election, continuity and removal. Article 189 provides the casting vote; Article 199 assigns Money Bill certification; the Tenth Schedule assigns defection adjudication. *Kihoto Hollohan (1992)* subjects this tribunal role to review. *Keisham Meghachandra* urged decisions ordinarily within three months and an independent tribunal. *Subhash Desai* requires recognition of the political party's authorised whip.
-
-**Analysis:** Agenda control, recognition and delayed disqualification can alter confidence arithmetic. Party membership means the adjudicator may have an institutional stake in the outcome.
-
-**Counterpoint:** The office needs decisional authority to preserve order, and excessive external intervention may weaken House autonomy.
-
-**Reform:** Require reasoned orders, equal scheduling rules, transparent recognition decisions, strong removal safeguards and transfer defection disputes to a neutral tribunal.
-
-**Verdict:** The Speaker should remain master of procedure, but not final partisan judge of government survival. Institutional separation is stronger than appeals to personal restraint.
-
-
-**Why this earns marks:** It links the Speaker’s procedural, certification and defection powers to the concrete incentive for partisan delay and supplies current judicial control.
-
-**How to improve this answer:** Add Padi Kaushik Reddy (2025), distinguish House-procedure autonomy from tribunal-like defection adjudication, and rank reforms rather than listing them.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “M3. Analyse the constitutional position and impartiality challenge of State Speakers. (15…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M3. Analyse the constitutional position and impartiality challenge of State Speakers. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M3. Analyse the constitutional position and impartiality challenge of State Speakers. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [FACT] The Speaker is simultaneously procedural judge, constitutional certifier and politically elected member, creating an unavoidable neutrality challenge. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Analysis: Agenda control, recognition and delayed disqualification can alter confidence arithmetic. Party membership means the adjudicator may have an institutional stake in the outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Counterpoint: The office needs decisional authority to preserve order, and excessive external intervention may weaken House autonomy. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Reform: Require reasoned orders, equal scheduling rules, transparent recognition decisions, strong removal safeguards and transfer defection disputes to a neutral tribunal. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M3. Analyse the constitutional position and impartiality challenge of State Speakers. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M4. Compare the legislative powers of a State Assembly and Legislative Council. (15 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [FACT] State bicameralism is formally dual but functionally Assembly-dominant.
-
-**Ordinary legislation:** Either House may ordinarily initiate, but Article 197 allows the Council only three months plus one month of delay; there is no joint sitting.
-
-**Finance:** Money Bills originate only in the Assembly on recommendation; the Council has 14 days to recommend. Demands for grants are voted only by the Assembly.
-
-**Executive accountability:** Ministers may participate in either House, but collective responsibility and no-confidence belong only to the Assembly.
-
-**Constitutional status:** The Assembly can initiate Council creation or abolition under Article 169. Council members neither elect the President nor possess a Rajya Sabha-like federal role.
-
-**Counterpoint:** The Council is permanent and can debate, question ministers, initiate non-Money Bills and add expert/local representation.
-
-**Verdict:** The Assembly decides; the Council advises and delays. This asymmetry protects direct democratic control but makes Council legitimacy depend on the quality of scrutiny rather than formal power.
-
-
-**Why this earns marks:** It compares both Houses on ordinary law, finance, confidence, elections and continuity using the same parameters.
-
-**How to improve this answer:** State that a Council-originated Bill rejected by the Assembly ends, distinguish a 207(1) Bill from 207(3) expenditure legislation, and use a compact comparison table in the exam.
-
-**Demand decoding:** The directive **compare** requires a direct position on “M4. Compare the legislative powers of a State Assembly and Legislative Council. (15 marks,…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M4. Compare the legislative powers of a State Assembly and Legislative Council. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M4. Compare the legislative powers of a State Assembly and Legislative Council. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [FACT] State bicameralism is formally dual but functionally Assembly-dominant. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Ordinary legislation: Either House may ordinarily initiate, but Article 197 allows the Council only three months plus one month of delay; there is no joint sitting. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Finance: Money Bills originate only in the Assembly on recommendation; the Council has 14 days to recommend. Demands for grants are voted only by the Assembly. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Executive accountability: Ministers may participate in either House, but collective responsibility and no-confidence belong only to the Assembly. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M4. Compare the legislative powers of a State Assembly and Legislative Council. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M5. "State legislative decline strengthens executive federalism at the cost of representative federalism." Analyse. (15 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [ANALYSIS] When State Houses sit briefly, scrutinise few Bills and rely on weak committees, policy shifts from elected deliberation toward cabinets, bureaucracy and Union-State executive bargaining.
-
-**Mechanism:** Rushed Bills reduce opposition and stakeholder input. Weak financial scrutiny lowers departmental accountability. Ordinances and delegated legislation enlarge executive law-making. Limited research support makes members dependent on departments. Intergovernmental decisions then occur through councils, ministries and party leadership rather than State legislatures.
-
-**Constitutional evidence:** Articles 168-212 create a complete legislative and financial-control structure; Article 164(2) makes the executive responsible to the Assembly. A weak Assembly therefore hollows the responsible-government link even if formal confidence survives.
-
-**Qualification:** [LIMIT] Executive coordination is necessary in a complex federation, and sitting-day performance varies widely across States.
-
-**Reform:** Adopt predictable calendars, pre-legislative publication, subject committees, non-partisan research, post-legislative review and tracked government responses.
-
-**Verdict:** Strong State autonomy requires not only powerful State executives but capable State legislatures. Representative federalism begins inside each State House.
-
-
-**Why this earns marks:** It explains a causal shift from weak legislative scrutiny to cabinet and intergovernmental executive dominance, then reconnects reform to responsible government.
-
-**How to improve this answer:** Use only verified State-specific performance data if available; otherwise retain qualitative mechanisms and compress reforms to calendar, committee, research and follow-up.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “M5. "State legislative decline strengthens executive federalism at the cost of representative…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M5. "State legislative decline strengthens executive federalism at the cost of representative federalism." Analyse. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M5. "State legislative decline strengthens executive federalism at the cost of representative federalism." Analyse. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [ANALYSIS] When State Houses sit briefly, scrutinise few Bills and rely on weak committees, policy shifts from elected deliberation toward cabinets, bureaucracy and Union-State executive bargaining. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Qualification: [LIMIT] Executive coordination is necessary in a complex federation, and sitting-day performance varies widely across States. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Reform: Adopt predictable calendars, pre-legislative publication, subject committees, non-partisan research, post-legislative review and tracked government responses. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Strong State autonomy requires not only powerful State executives but capable State legislatures. Representative federalism begins inside each State House. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M5. "State legislative decline strengthens executive federalism at the cost of representative federalism." Analyse. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M6. Explain how Articles 200-201 balance State democracy, constitutional scrutiny and Union oversight. (15 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [FACT] Articles 200-201 make assent a constitutional checkpoint rather than a second political mandate.
-
-**Mechanism:** The Governor may assent, withhold, return a non-Money Bill or reserve it. Repassage after direct return normally closes withholding. Reservation is mandatory where High Court powers are endangered. For a reserved Bill, the President may assent, withhold or direct return; repassage does not compel assent.
-
-**Analysis:** Return enables State reconsideration, mandatory reservation protects judicial structure and presidential consideration provides Union oversight where the Constitution contemplates it. Yet unexplained delay suspends an elected legislature without taking an accountable decision.
-
-**Current control:** [CURRENT] The November 2025 Article 143 opinion rejects rigid judicial deadlines and automatic deemed assent while permitting limited review of prolonged unexplained inaction.
-
-**Qualification:** [LIMIT] It is advisory and did not overrule the April judgment. Courts may direct decision, not dictate the option.
-
-**Verdict:** Federal balance requires prompt, reasoned constitutional choice: scrutiny without pocket veto and review without judicial substitution.
-
-
-**Why this earns marks:** It tracks every Article 200-201 option, explains the federal purpose and accurately reconciles the two 2025 decisions.
-
-**How to improve this answer:** Use a four-branch decision tree, separate mandatory High Court-protection reservation, and say the November opinion qualified timelines/deemed assent without technically overruling April.
-
-**Demand decoding:** The directive **explain** requires a direct position on “M6. Explain how Articles 200-201 balance State democracy, constitutional scrutiny and Union…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M6. Explain how Articles 200-201 balance State democracy, constitutional scrutiny and Union oversight. (15 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M6. Explain how Articles 200-201 balance State democracy, constitutional scrutiny and Union oversight. (15 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [FACT] Articles 200-201 make assent a constitutional checkpoint rather than a second political mandate. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Current control: [CURRENT] The November 2025 Article 143 opinion rejects rigid judicial deadlines and automatic deemed assent while permitting limited review of prolonged unexplained inaction. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: [LIMIT] It is advisory and did not overrule the April judgment. Courts may direct decision, not dictate the option. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Verdict: Federal balance requires prompt, reasoned constitutional choice: scrutiny without pocket veto and review without judicial substitution. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M6. Explain how Articles 200-201 balance State democracy, constitutional scrutiny and Union oversight. (15 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M7. Evaluate the case for reforming Legislative Council composition. (20 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [ANALYSIS] Article 171's mixed design sought expertise and local representation, but its legitimacy depends on whether twentieth-century categories still serve democratic scrutiny.
-
-**Strengths:** Local-authority members connect decentralisation to State law-making. Graduate and teacher constituencies may add policy knowledge. MLA-elected and nominated members bring experience and permit representation outside mass elections. STV supports proportionality.
-
-**Weaknesses:** Graduate status is no longer a narrow expertise proxy; teacher constituencies exclude other public-service professions; electoral rolls and turnout may be weak; nominations may become partisan patronage; MLA-elected seats can rehabilitate defeated politicians.
-
-**Institutional context:** Because Articles 197-199 make the Council weak, it cannot justify itself through decisional power. It must justify itself through better debate, committees and representation.
-
-**Reforms:** Update occupational categories after evidence review, strengthen local-body voice, publish objective nomination criteria, require conflict disclosure, invest in research and measure committee/Bill contributions.
-
-**Qualification:** [LIMIT] Article 171 redesign needs national constitutional/parliamentary action; State-specific experimentation is constrained.
-
-**Verdict:** Reform should preserve plural representation while replacing inherited status categories with transparent, contemporary expertise and democratic linkage.
-
-
-**Why this earns marks:** It evaluates each Article 171 constituency against current representation and scrutiny rather than assuming that expertise automatically justifies indirect franchise.
-
-**How to improve this answer:** Distinguish reforms possible through parliamentary law from those needing constitutional change, and connect nomination transparency to actual committee outputs.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “M7. Evaluate the case for reforming Legislative Council composition. (20 marks, 250 words)”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M7. Evaluate the case for reforming Legislative Council composition. (20 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M7. Evaluate the case for reforming Legislative Council composition. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [ANALYSIS] Article 171's mixed design sought expertise and local representation, but its legitimacy depends on whether twentieth-century categories still serve democratic scrutiny. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Institutional context: Because Articles 197-199 make the Council weak, it cannot justify itself through decisional power. It must justify itself through better debate, committees and representation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Reforms: Update occupational categories after evidence review, strengthen local-body voice, publish objective nomination criteria, require conflict disclosure, invest in research and measure committee/Bill contributions. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Qualification: [LIMIT] Article 171 redesign needs national constitutional/parliamentary action; State-specific experimentation is constrained. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M7. Evaluate the case for reforming Legislative Council composition. (20 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### M8. Assess how delimitation and women's reservation will reshape State Assemblies. (20 marks, 250 words)
-
-**Model answer**
-
-**Claim:** [CURRENT] Delimitation and one-third women's reservation could transform Assembly size, constituency boundaries, party recruitment and federal representation, but neither transformation is operational yet.
-
-**Constitutional sequence:** The 84th Amendment freeze lasts until publication of the first census after 2026. The 106th Amendment links women's reservation in the Lok Sabha and Assemblies to the first census after commencement and subsequent delimitation. Reservation includes SC/ST sub-reservation and seat rotation.
-
-**Potential effects:** Fresh boundaries may correct population disparities but create North-South and population-control concerns. Larger or redrawn Assemblies may alter ministry caps, constituency workload and regional balance. Women's reservation can broaden descriptive representation and party pipelines but rotation may weaken constituency continuity.
-
-**Current evidence:** [CURRENT] The 2026 Bills proposed using the 2011 Census and changing the sequence but failed to become law. Census 2027 publication and delimitation dates remain unknown.
-
-**Qualification:** [LIMIT] No current seat projection is legally operative, and Councils are outside the reservation.
-
-**Verdict:** Legitimacy needs transparent criteria, federal consultation, timely census publication and safeguards against penalising successful population stabilisation. Representation reform must expand inclusion without converting demographic change into federal distrust.
-
-
-**Why this earns marks:** It gives the constitutional sequence, institutional effects and federal risks while refusing unsupported seat projections.
-
-**How to improve this answer:** Mention the separate 1 October 2026 census reference date only if space permits; focus the answer on publication, delimitation, activation, rotation and federal consultation.
-
-**Demand decoding:** The directive **assess** requires a direct position on “M8. Assess how delimitation and women's reservation will reshape State Assemblies. (20 marks,…”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “M8. Assess how delimitation and women's reservation will reshape State Assemblies. (20 marks, 250 words)”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** M8. Assess how delimitation and women's reservation will reshape State Assemblies. (20 marks, 250 words) **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Claim: [CURRENT] Delimitation and one-third women's reservation could transform Assembly size, constituency boundaries, party recruitment and federal representation, but neither transformation is operational yet. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Current evidence: [CURRENT] The 2026 Bills proposed using the 2011 Census and changing the sequence but failed to become law. Census 2027 publication and delimitation dates remain unknown. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Qualification: [LIMIT] No current seat projection is legally operative, and Councils are outside the reservation. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It gives the constitutional sequence, institutional effects and federal risks while refusing unsupported seat projections. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “M8. Assess how delimitation and women's reservation will reshape State Assemblies. (20 marks, 250 words)”.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.

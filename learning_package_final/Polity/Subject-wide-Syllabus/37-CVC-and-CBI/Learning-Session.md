@@ -1,4529 +1,2471 @@
----
-title: "CVC and CBI — Learner-v2 Refreshed"
-topic_key: polity-37
-cover_image: assets/polity-37_Teaching-Navigation_2026-08-28.png
----
-# Polity 37 — Central Vigilance Commission (CVC) and Central Bureau of Investigation (CBI)
+# Polity Topic 37 - Central Vigilance Commission and Central Bureau of Investigation
 
-**Complete learning session + solved PYQs + solved practice + final register notes**
+**Subject:** Polity | **GS Paper:** GS-II | **Control date:** 8 September 2026
 
-**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
+**Source control:** canonical Basic/Core and optional Advanced owners; official UPSC 2021 GS-II and controlled 2026 Prelims routing; the CVC Act, 2003; DSPE Act, 1946 as amended; Lokpal and Lokayuktas Act, 2013; Prevention of Corruption Act, 1988 as amended; official institutional histories; and proposition-controlled Supreme Court authorities. Volatile officeholders, live consent-state counts, vacancies, caseload and conviction statistics are omitted.
 
-> **Tag key:** `[FACT]` = directly supported by a named legal/official source; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for this package's control date; `[LIMIT]` = a boundary, qualification, unresolved issue, or deliberately unfrozen fact.
-
-#### How to Use This Package
-
-This is an independent UPSC learning session, not a short revision sheet. Read the concept sections first, then attempt the PYQ and practice workbook. The **Final Consolidated Register Notes** are deliberately placed last.
-
-### Visual 01 — Learning Roadmap
-
-```text
-FOUNDATION
-   |
-   +--> Evolution: SPE -> DSPE Act -> CBI resolution -> CVC resolution -> CVC Act
-   |
-CORE INSTITUTIONS
-   |
-   +--> CVC design + section 8 functions + CVO system
-   +--> CBI organisation + DSPE police powers + offence domains
-   |
-FEDERAL CONTROL
-   |
-   +--> DSPE sections 5-6 -> State consent -> court-directed investigation
-   |
-INDEPENDENCE AND ACCOUNTABILITY
-   |
-   +--> Director selection/tenure -> superintendence split -> case law
-   |
-APPLICATION
-   |
-   +--> Lokpal interface -> investigation safeguards -> comparisons -> reforms
-   |
-PRACTICE
-   |
-   +--> Verified PYQs -> 48 MCQs -> 8 solved Mains -> register notes
-```
-
-*Caption: The topic moves from legal identity to institutional interaction, federalism, safeguards and exam application.*
-
-
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Polity Basic/Core is answer-complete before optional Advanced depth. |
-| Text hierarchy | Constitution/Act/rule/notification → binding judgment → authoritative institution → Constituent Assembly material → standard textbook. |
-| Legal precision | State exact Article, Part, Schedule, amendment, case, date, institution, procedure, exception and current operative status. |
-| Doctrine method | Text → institutional mechanism → controlling case → exception/limit → present legal status. |
-| Chronology | Enactment, commencement, amendment, judgment and implementation dates remain separate. |
-| Boundary method | Topic ownership and cross-owner bridges are explicit; adjacent PYQs never become fabricated direct routes. |
-| Practice contract | Every solved item has demand decoding, examiner-grade model, timed compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Polity\basic\CVC-and-CBI.md`  
-**Canonical topic owner:** `upsc-ai-kit\knowledge\Polity\basic\CVC-and-CBI.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Polity\advanced\37_CVC-and-CBI.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Polity\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- **Four independent ledgers:** literal syllabus/index, indispensable
-  prerequisites, standard textbook taxonomy and complete routed 2018-2026 PYQ
-  demands were built before repair.
-- **Hostile search:** missing Articles, Parts, Schedules, amendments, cases,
-  institutional mechanisms, exceptions, chronology, source status and
-  cross-owner boundaries are hard failures.
-- **Answer rule:** claim → exact constitutional/statutory/case evidence →
-  institutional analysis → exception or qualification.
-- **Current-status note, rechecked 2026-09-05:** Rechecked 2026-09-05: the CVC Act, DSPE Act, 2021 Director-tenure amendment, CVC/CBI/DoPT material and Supreme Court consent cases remain operative. A S Rajeev is acting CVC, Praveen Vashista is Vigilance Commissioner and Praveen Sood's dated CBI term runs to 24 May 2027.
-
-**Authoritative live sources:**
-
-- `https://www.indiacode.nic.in/handle/123456789/2068`
-- `https://www.indiacode.nic.in/handle/123456789/2258`
-- `https://cvc.gov.in/`
-- `https://cbi.gov.in/`
-- `https://dopt.gov.in/`
-- `https://pib.gov.in/PressReleasePage.aspx?PRID=2215352&reg=3&lang=1`
-- `https://api.sci.gov.in/supremecourt/2018/15968/15968_2018_Judgement_15-Feb-2019.pdf`
-- `https://api.sci.gov.in/supremecourt/2025/6153/6153_2025_2_2_64992_Order_09-Oct-2025.pdf`
+**Core thesis:** CVC supervises vigilance, CBI is the executive-created organisation, DSPE supplies police power, State consent governs the ordinary State-area route, constitutional courts retain an exceptional route, prosecution is separate and courts alone determine guilt.
 
 ## BASIC LEARNING SESSION
 
-![Refreshed teaching navigation](assets/polity-37_Teaching-Navigation_2026-08-28.png)
+### Learning roadmap
 
-*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
+| Foundation | CVC | CBI/DSPE | Federalism and safeguards | Application |
+|---|---|---|---|---|
+| identity, chronology, role firewall | composition, tenure, section 8, CVO, PIDPI | organisation, sections 2-4, Director, prosecution | sections 5-6, withdrawal, courts, Vineet Narain, 6A, 17A/19 | Lokpal interface, lifecycle, problems, reforms |
 
-### SESSION 1 — CORE IDEA: ONE ANTI-CORRUPTION SYSTEM, DIFFERENT LEGAL ROLES
+### SESSION 1 - LEGAL IDENTITY: CVC, CBI AND DSPE ARE NOT THE SAME THING
 
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** This session explains Core Idea: One Anti-Corruption System, Different Legal Roles through the distinct legal roles of vigilance, investigation and accountability.
-
-**Technical definition:** CVC and CBI occupy different points in the anti-corruption chain. The CVC supervises vigilance administration and has limited statutory superintendence over DSPE investigations under the Prevention of Corruption Act; the CBI investigates notified offences using DSPE Act police powers.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> CVC and CBI occupy different points in the anti-corruption chain.
-
-#### MUST-WRITE KEYWORDS
-
-- **IDEA**
-- **ANTI-CORRUPTION**
-- **SYSTEM,**
-- **DIFFERENT**
-- **LEGAL**
-- **CVC**
-- **CBI**
-
-**How to use them:** Frame the answer through IDEA; define ANTI-CORRUPTION, connect SYSTEM, with DIFFERENT to explain the mechanism, and use LEGAL for the decisive comparison or qualification.
-
-[FACT] The CVC and CBI are not interchangeable. The **CVC is a statutory vigilance, supervisory and advisory institution** under the Central Vigilance Commission Act, 2003. The **CBI is an organisation created by a Government of India resolution dated 1 April 1963**, while the police establishment from which its investigative powers are principally derived is the **Delhi Special Police Establishment (DSPE)** constituted under the DSPE Act, 1946.
-
-[ANALYSIS] UPSC commonly tests the gap between a familiar label and its precise legal source. “CBI is a statutory body under the DSPE Act” is imprecise: the Act constitutes and empowers the DSPE; the 1963 executive resolution established the wider CBI organisation and made the DSPE its Investigation and Anti-Corruption Division.
-
-[LIMIT] Neither institution is a universal anti-corruption authority. Their jurisdiction, functions, offence domain, personnel coverage and coercive powers depend on the governing statute, notification, reference, consent or court order.
-
-#### Visual 02 — Legal Identity in One Frame
-
-| Institution/establishment | Creation or legal basis | Primary character | Key exam correction |
-|---|---|---|---|
-| CVC | CVC Act, 2003; preceded by 1964 resolution | Statutory apex vigilance institution | Supervisory/advisory; not a police station or court |
-| CBI | Government of India resolution, 1 April 1963 | Executive-created organisation | No standalone “CBI Act” |
-| DSPE | DSPE Act, 1946 | Statutory police establishment | Source of core police powers exercised by CBI investigators |
-| Lokpal | Lokpal and Lokayuktas Act, 2013 | Statutory anti-corruption ombudsman | Can route preliminary inquiry/investigation as the Act provides |
-| Departmental CVO | Vigilance-administration framework | Internal vigilance node | Works within an organisation; not a substitute for criminal investigation |
-
-*Caption: Legal basis determines power; similar anti-corruption purposes do not create identical jurisdictions.*
-
-#### Visual 03 — Five Questions Before Naming an Agency
+#### VISUAL FIRST
 
 ```text
-1. WHAT IS THE ALLEGED OFFENCE?
-              |
-2. WHO IS THE PERSON / WHICH ORGANISATION?
-              |
-3. WHICH TERRITORY IS INVOLVED?
-              |
-4. WHAT IS THE ENTRY ROUTE?
-   complaint / reference / consent / notification / court order
-              |
-5. WHAT OUTPUT IS SOUGHT?
-   vigilance advice / departmental action / FIR-investigation /
-   prosecution / adjudication
+CVC ACT, 2003                    1 APRIL 1963 RESOLUTION
+statutory Commission            creates CBI organisation
+        |                                  |
+vigilance supervision                     +---- broader bureau
+advice and review                          |
+        |                           DSPE ACT, 1946
+        +-------- interfaces ------- statutory police powers
+
+LOKPAL = complaint/referral body | CVO = departmental vigilance node
+PROSECUTOR = presents State case | COURT = determines guilt
 ```
 
-*Caption: Institutional competence is decided by offence, person, territory, entry route and legal output—not by prestige.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-#### CLOSING RECALL FLOW — CORE IDEA: ONE ANTI-CORRUPTION SYSTEM, DIFFERENT LEGAL ROLES
+#### Definition
+
+The Central Vigilance Commission (CVC) is a statutory vigilance, supervisory and advisory commission. The Central Bureau of Investigation (CBI) is an executive-resolution organisation; its core police powers are exercised through the Delhi Special Police Establishment (DSPE) constituted by the DSPE Act, 1946.
+
+#### Answer-grabbing line
+
+> In anti-corruption answers, institutional accuracy begins by separating the CVC's vigilance oversight from the CBI/DSPE's police investigation.
+
+#### Must-write keywords
+
+**statutory CVC; executive-resolution CBI; statutory DSPE; vigilance; police investigation; prosecution; adjudication**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Legal source determines institutional power.
+- **Named evidence:** CVC Act, 2003; Government of India Resolution dated 1 April 1963; DSPE Act, 1946.
+- **Analysis:** The resolution explains the CBI's organisational form, but arrest, search, investigation and territorial authority require statutory and procedural authority. The CVC's statutory status does not give it police or judicial power.
+- **Qualification:** Calling CBI 'non-statutory' must not be turned into the false claim that DSPE officers exercise no statutory police power.
+
+#### Evidence and explanation
+
+- [FACT] Neither CVC nor CBI is a constitutional body.
+- [FACT] CBI is not created by the DSPE Act; DSPE is the statutory police establishment whose officers supply CBI's principal investigative powers.
+- [FACT] CVC may supervise and advise within its statutory field, but it does not convict, sentence or impose criminal guilt.
+- [FACT] A final police report or charge sheet is an investigative output; prosecution and adjudication remain separate stages.
+
+#### Evidence checkpoint
+
+Prove **Legal source determines institutional power.** with **CVC Act, 2003; Government of India Resolution dated 1 April 1963; DSPE Act, 1946.**; explain that **The resolution explains the CBI's organisational form, but arrest, search, investigation and territorial authority require statutory and procedural authority. The CVC's statutory status does not give it police or judicial power.**; then close with this limit: **Calling CBI 'non-statutory' must not be turned into the false claim that DSPE officers exercise no statutory police power.**
+
+#### Prelims trap
+
+Do not write 'CBI is a statutory body under the DSPE Act' or 'CVC is the anti-corruption court.'
+
+#### Mains use
+
+Use the organisation-versus-power distinction as the introduction to autonomy, federalism or reform questions.
+
+#### Recap
+
+CVC supervises vigilance; CBI organises investigation; DSPE supplies police power; prosecutors prosecute; courts decide guilt.
+
+### SESSION 2 - CHRONOLOGY: FROM THE 1941 SPE TO THE CURRENT LAYERED ARCHITECTURE
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: CORE IDEA: ONE ANTI-CORRUPTION SYSTEM, DIFFERENT LEGAL ROLES
-        |
-        v
-EXACT TERMS: IDEA · ANTI-CORRUPTION · SYSTEM, · DIFFERENT · LEGAL · CVC · CBI
-        |
-        v
-MECHANISM / ARGUMENT: CVC and CBI occupy different points in the anti-corruption chain. The CVC supervises vigilance administration and has limited statutory superintendence over DSPE investigations under the Prevention of Corruption Act; the CBI investigates notified offences using DSPE Act police powers.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design preserves institutional role clarity and prevents a legally inaccurate one-agency narrative.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge CVC, CBI, departmental, prosecution and judicial powers or mutate the CVC, CBI and DSPE acronyms.
-        |
-        v
-ANSWER-GRABBING FORMULATION: CVC and CBI occupy different points in the anti-corruption chain.
+1941 SPE ----> 1946 DSPE Act ----> 1 Apr 1963 CBI Resolution
+   |                                      |
+   |                               executive organisation
+   v
+1964 CVC Resolution --> 18 Dec 1997 VINEET NARAIN
+                               |
+             1998 CVC Ordinance / statutory bridge
+                               |
+                  1999 parliamentary Bill process
+                               |
+                  11 Sep 2003 CVC Act
+                               |
+         16 Jan 2014 Lokpal Act amendments operative
+                               |
+           14 Nov 2021 Director-tenure amendment
 ```
-### SESSION 2 — EVOLUTION: FROM WARTIME POLICE UNIT TO A LAYERED VIGILANCE SYSTEM
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-**Plain-language definition:** This session explains Evolution: From Wartime Police Unit To A Layered Vigilance System through the distinct legal roles of vigilance, investigation and accountability.
+#### Definition
 
-**Technical definition:** The CVC originated in a 1964 executive resolution and became statutory under the Central Vigilance Commission Act, 2003. The CBI organisation arose through a 1963 executive resolution, while its police powers, jurisdiction and consent framework come from the Delhi Special Police Establishment Act, 1946.
+The present system is a historical composite: a wartime police unit became the statutory DSPE; CBI was organised by resolution; CVC moved from a 1964 resolution through the post-Vineet Narain ordinance and legislative process to the CVC Act, 2003; the Lokpal Act later recast referral and appointment interfaces.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### Answer-grabbing line
 
-> The CVC originated in a 1964 executive resolution and became statutory under the Central Vigilance Commission Act, 2003.
+> India's anti-corruption architecture evolved by layering executive organisation, statutory police authority, vigilance oversight and constitutional judicial control.
 
-#### MUST-WRITE KEYWORDS
+#### Must-write keywords
 
-- **EVOLUTION**
-- **FROM**
-- **WARTIME**
-- **POLICE**
-- **UNIT**
-- **LAYERED**
-- **CVC**
-- **CBI**
+**SPE 1941; DSPE Act 1946; CBI Resolution 1963; CVC Resolution 1964; Vineet Narain 1997; Ordinance 1998; CVC Act 2003; Lokpal Act 2013**
 
-**How to use them:** Frame the answer through EVOLUTION; define FROM, connect WARTIME with POLICE to explain the mechanism, and use UNIT for the decisive comparison or qualification.
+#### Claim -> named evidence -> analysis -> qualification
 
-#### Visual 04 — Evolution Timeline
+- **Claim:** Chronology explains why no single legal instrument contains the whole CVC-CBI design.
+- **Named evidence:** Official CBI institutional history; Vineet Narain v Union of India (18 December 1997); Central Vigilance Commission Act 45 of 2003.
+- **Analysis:** Each reform answered a different weakness: continuity after wartime, organisational expansion, vigilance coordination, insulation from executive interference, statutory status and later ombudsman-linked accountability.
+- **Qualification:** The 1998 Ordinance was an interim statutory bridge; the durable current source is the CVC Act, 2003 as amended.
 
-| Year | Institutional development | Legal significance |
-|---|---|---|
-| 1941 | Special Police Establishment (SPE) set up by executive order during World War II | Investigated bribery and corruption connected with War and Supply transactions |
-| 1943 | Wartime ordinance gave the SPE a legal framework | Transitional legal basis during the war |
-| 1946 | Delhi Special Police Establishment Act enacted | DSPE obtained continuing statutory police powers |
-| 1963 | CBI established by Home Ministry resolution dated 1 April | Executive creation; DSPE became a division within CBI |
-| 1964 | CVC created by Government resolution following Santhanam Committee recommendation | Executive vigilance body at inception |
-| 1997 | *Vineet Narain v. Union of India (1997) v Union of India* | Supreme Court prescribed institutional safeguards and pressed for statutory CVC |
-| 2003 | CVC Act enacted | CVC became statutory; DSPE superintendence architecture was codified |
-| 2013-14 | Lokpal and Lokayuktas Act created a new complaint-routing and supervisory interface | Added Lokpal-CVC-CBI coordination rules |
-| 2021 | CVC and DSPE tenure-extension amendments | Permitted structured one-year extensions up to aggregate five years, subject to statutory conditions |
-| 2023 | *Dr Jaya Thakur v. Union of India (2023) v Union of India* | Supreme Court upheld the amendment framework; extension is not automatic |
+#### Evidence and explanation
 
-*Caption: CBI and CVC began through executive action, but their present powers are not traceable to the same legal instrument.*
+- [FACT] The Special Police Establishment began in 1941 in the wartime supply-corruption setting.
+- [FACT] The DSPE Act, 1946 provided a continuing statutory police establishment.
+- [FACT] The Government of India established CBI by executive resolution dated 1 April 1963.
+- [FACT] CVC began under a Government resolution in 1964 after the Santhanam Committee's anti-corruption recommendations.
+- [FACT] Vineet Narain triggered the statutory-status and investigative-insulation trajectory; the CVC Ordinance, 1998 preceded the final 2003 Act.
 
-[FACT] The official CBI history records the SPE’s 1941 wartime origin, extension to railway corruption, the DSPE Act of 1946, and the 1963 CBI resolution.
+#### Evidence checkpoint
 
-[FACT] Section 24 of the CVC Act connects the statutory Commission with the earlier CVC created through the Ministry of Home Affairs resolution dated 11 February 1964.
+Prove **Chronology explains why no single legal instrument contains the whole CVC-CBI design.** with **Official CBI institutional history; Vineet Narain v Union of India (18 December 1997); Central Vigilance Commission Act 45 of 2003.**; explain that **Each reform answered a different weakness: continuity after wartime, organisational expansion, vigilance coordination, insulation from executive interference, statutory status and later ombudsman-linked accountability.**; then close with this limit: **The 1998 Ordinance was an interim statutory bridge; the durable current source is the CVC Act, 2003 as amended.**
 
-[ANALYSIS] Institutional evolution produced a **hybrid system**: executive organisation, statutory police powers, statutory vigilance oversight, executive administration, federal consent and constitutional-court review coexist.
+#### Prelims trap
 
-#### Visual 05 — Executive Creation vs Statutory Power
+Do not move the CBI's birth to 1946 or the CVC's statutory birth to 1964.
+
+#### Mains use
+
+Use the timeline to show that reform has been incremental rather than the product of one comprehensive anti-corruption code.
+
+#### Recap
+
+1941 police unit -> 1946 statute -> 1963 bureau -> 1964 vigilance body -> 1997 safeguards -> 1998 ordinance -> 2003 Act -> 2013/14 Lokpal interfaces.
+
+### SESSION 3 - ROLE FIREWALL: VIGILANCE, INVESTIGATION, PROSECUTION AND TRIAL
+
+#### VISUAL FIRST
 
 ```text
-EXECUTIVE RESOLUTION                         PARLIAMENTARY STATUTE
---------------------                         ---------------------
-Creates organisational form                  Confers defined legal powers
-Can allocate administrative business         Sets jurisdiction and safeguards
-Example: CBI, 1963                            Example: DSPE Act, CVC Act
-
-                 BOTH OPERATE TOGETHER
-  CBI organisation + DSPE statutory police establishment
+PREVENTION / DEPARTMENTAL CONTROL
+CVO + disciplinary authority
+           |
+           v
+VIGILANCE OVERSIGHT
+CVC: advice, review, supervision
+           |
+  lawful referral / report
+           v
+CRIMINAL INVESTIGATION
+CBI/DSPE or competent police
+           |
+     final police report
+           v
+PROSECUTION ----> COMPETENT COURT
+argues the case    cognizance, trial, acquittal/conviction
 ```
 
-*Caption: An executive origin does not mean that every operational power is merely executive; statutory powers must be traced separately.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-#### CLOSING RECALL FLOW — EVOLUTION: FROM WARTIME POLICE UNIT TO A LAYERED VIGILANCE SYSTEM
+#### Definition
+
+Vigilance administration prevents and processes misconduct inside government; criminal investigation gathers evidence under police law; prosecution presents the State's criminal case; and the court adjudicates guilt.
+
+#### Answer-grabbing line
+
+> Anti-corruption legitimacy depends on a sequence of specialised institutions, not on one agency combining complaint, investigation, punishment and judgment.
+
+#### Must-write keywords
+
+**preventive vigilance; disciplinary authority; FIR; investigation; prosecution sanction; cognizance; trial; presumption of innocence**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Institutional separation protects both effectiveness and due process.
+- **Named evidence:** CVC Act section 8; DSPE Act; Prevention of Corruption Act sections 17A and 19; criminal procedure.
+- **Analysis:** A CVO can detect a procurement risk before crime occurs; CVC can review vigilance handling; police can investigate a cognizable offence; the sanctioning authority and prosecutor address prosecution; only a court may convict.
+- **Qualification:** The same facts may support departmental and criminal tracks, but one track does not automatically prove the other.
+
+#### Evidence and explanation
+
+- [FACT] Departmental proceedings use service-law standards and penalties; criminal trials require proof according to criminal law.
+- [FACT] CVC advice is not a criminal verdict and CBI registration is not proof of guilt.
+- [FACT] CBI does not award punishment; it may submit a charge sheet or closure report to the competent court.
+- [FACT] Courts can review legality and evidence without becoming the day-to-day investigating agency.
+
+#### Evidence checkpoint
+
+Prove **Institutional separation protects both effectiveness and due process.** with **CVC Act section 8; DSPE Act; Prevention of Corruption Act sections 17A and 19; criminal procedure.**; explain that **A CVO can detect a procurement risk before crime occurs; CVC can review vigilance handling; police can investigate a cognizable offence; the sanctioning authority and prosecutor address prosecution; only a court may convict.**; then close with this limit: **The same facts may support departmental and criminal tracks, but one track does not automatically prove the other.**
+
+#### Prelims trap
+
+Do not equate vigilance advice with FIR, charge sheet with conviction, or departmental penalty with criminal sentence.
+
+#### Mains use
+
+Use this firewall to organise any answer comparing CVC, CBI, Lokpal, departmental vigilance and courts.
+
+#### Recap
+
+prevent -> supervise -> investigate -> prosecute -> adjudicate; every verb belongs to a different legal actor.
+
+### SESSION 4 - CVC SECTION 3: COMPOSITION AND QUALIFICATION BALANCE
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: EVOLUTION: FROM WARTIME POLICE UNIT TO A LAYERED VIGILANCE SYSTEM
-        |
-        v
-EXACT TERMS: EVOLUTION · FROM · WARTIME · POLICE · UNIT · LAYERED · CVC · CBI
-        |
-        v
-MECHANISM / ARGUMENT: The CVC originated in a 1964 executive resolution and became statutory under the Central Vigilance Commission Act, 2003. The CBI organisation arose through a 1963 executive resolution, while its police powers, jurisdiction and consent framework come from the Delhi Special Police Establishment Act, 1946.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design preserves institutional role clarity and prevents a legally inaccurate one-agency narrative.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge CVC, CBI, departmental, prosecution and judicial powers or mutate the CVC, CBI and DSPE acronyms.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The CVC originated in a 1964 executive resolution and became statutory under the Central Vigilance Commission Act, 2003.
-```
-### SESSION 3 — THE INSTITUTIONAL ARCHITECTURE
+CENTRAL VIGILANCE COMMISSION
+                      |
+     +----------------+----------------+
+     |                |                |
+   CVC              VC 1             VC 2
+ Chairperson      up to two members in total
 
-#### DEFINITION / WHAT THIS IS CALLED
+CATEGORY A                         CATEGORY B
+AIS/Union service or post          central statutory corporation /
+vigilance, policy, administration  government company experience
+including police administration    finance, law, vigilance, investigation
 
-**Plain-language definition:** The Union anti-corruption system separates vigilance oversight, investigation, departmental action, prosecution and adjudication.
-
-**Technical definition:** CVC supervises vigilance and specified corruption investigations; CBI investigates through DSPE powers; departments and prosecutors retain distinct legal functions.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Institutional architecture matters because no single anti-corruption body owns the entire accountability chain.
-
-#### MUST-WRITE KEYWORDS
-
-- **CVC**
-- **CBI**
-- **CVO**
-- **Lokpal**
-- **DoPT**
-- **investigation**
-- **prosecution**
-- **adjudication**
-
-**How to use them:** Frame the answer through CVC; define CBI, connect CVO with Lokpal to explain the mechanism, and use DoPT for the decisive comparison or qualification.
-
-#### Visual 06 — Anti-Corruption and Investigation Architecture
-
-```text
-                         PARLIAMENT / STATUTES
-                                  |
-             +--------------------+--------------------+
-             |                    |                    |
-         CVC ACT              DSPE ACT             LOKPAL ACT
-             |                    |                    |
-            CVC          DSPE within CBI              Lokpal
-             |                    |                    |
-      vigilance advice       police inquiry/       complaint scrutiny,
-      and supervision        investigation          referral and oversight
-             |                    |                    |
-             +-------- CVOs -----+------ agencies ----+
-                                  |
-                         COMPETENT COURT
-                    charge sheet / trial / judgment
+If all 3 offices are filled: not more than 2 from either category.
 ```
 
-*Caption: Advice, investigation, prosecution and adjudication occur at different institutional stages.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-#### Visual 07 — Power-Type Matrix
+#### Definition
 
-| Power type | CVC | CBI/DSPE | Lokpal | Court |
-|---|---:|---:|---:|---:|
-| Vigilance-system supervision | Yes, within statutory field | No | Limited to matters under its Act | Judicial review only |
-| Police investigation | No general police power | Yes, within legal jurisdiction | May direct an agency; own Inquiry Wing is for preliminary inquiry | May direct investigation in appropriate cases |
-| Arrest/search/seizure as police | No general power | Yes, subject to criminal procedure and special statutes | Search may be authorised through agency under Lokpal Act | Issues judicial warrants/orders as law provides |
-| Prosecution decision/output | Advises/reviews sanction progress | Investigates and files statutory report; prosecution structure applies | Can direct Prosecution Wing/agency under its Act | Takes cognizance, tries and decides |
-| Final guilt determination | No | No | No | Yes |
+Section 3 constitutes a multi-member Commission consisting of one Central Vigilance Commissioner as Chairperson and not more than two Vigilance Commissioners, selected from two statutory experience categories.
 
-*Caption: The power to supervise investigation is not the power to convict, and an investigative recommendation is not proof of guilt.*
+#### Answer-grabbing line
 
-#### CLOSING RECALL FLOW — THE INSTITUTIONAL ARCHITECTURE
+> Section 3 combines administrative-vigilance experience with public-sector specialist expertise and prevents a fully staffed Commission from being monopolised by one category.
 
-```text
-START / CONCEPT: THE INSTITUTIONAL ARCHITECTURE
-        |
-        v
-EXACT TERMS: CVC · CBI · CVO · Lokpal · DoPT · investigation · prosecution · adjudication
-        |
-        v
-MECHANISM / ARGUMENT: A complaint moves through the legally competent referral, inquiry, investigation, sanction, prosecution and court stages.
-        |
-        v
-CONSEQUENCE / CONTRAST: Separation creates checks but also coordination and delay risks.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not describe CVC, CBI, Lokpal and courts as one hierarchy or interchangeable agencies.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Institutional architecture matters because no single anti-corruption body owns the entire accountability chain.
-```
-### SESSION 4 — CVC: STATUS, COMPOSITION AND APPOINTMENT
+#### Must-write keywords
 
-#### DEFINITION / WHAT THIS IS CALLED
+**section 3; one CVC; not more than two VCs; multi-member; police administration; finance; law; vigilance; investigations; category cap**
 
-**Plain-language definition:** This session explains CVC: Status, Composition And Appointment through the distinct legal roles of vigilance, investigation and accountability.
+#### Claim -> named evidence -> analysis -> qualification
 
-**Technical definition:** The CVC consists of the Central Vigilance Commissioner and not more than two Vigilance Commissioners. Appointment follows the statutory committee process; statutory status does not make the Commission a constitutional body or court.
+- **Claim:** Composition is designed for institutional breadth rather than judicial membership.
+- **Named evidence:** Central Vigilance Commission Act, 2003, section 3(2)-(3).
+- **Analysis:** The public-service category brings knowledge of administration and police systems; the corporation/government-company category brings finance, banking, insurance, law and investigative experience. The category cap encourages a mixed Commission when three posts are occupied.
+- **Qualification:** The Act allows up to two VCs; it does not require both posts to be continuously filled and it does not prescribe a judicial member.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### Evidence and explanation
 
-> The CVC consists of the Central Vigilance Commissioner and not more than two Vigilance Commissioners.
+- [FACT] The Central Vigilance Commissioner is the Chairperson.
+- [FACT] The Commission's maximum statutory size is three.
+- [FACT] Category A includes All-India/Union service or Union civil-post experience in vigilance, policy and administration, including police administration.
+- [FACT] Category B concerns specified central public-sector office and expertise in finance, including insurance and banking, law, vigilance and investigations.
 
-#### MUST-WRITE KEYWORDS
+#### Evidence checkpoint
 
-- **STATUS,**
-- **COMPOSITION**
-- **APPOINTMENT**
-- **CVC**
-- **CBI**
-- **DSPE**
+Prove **Composition is designed for institutional breadth rather than judicial membership.** with **Central Vigilance Commission Act, 2003, section 3(2)-(3).**; explain that **The public-service category brings knowledge of administration and police systems; the corporation/government-company category brings finance, banking, insurance, law and investigative experience. The category cap encourages a mixed Commission when three posts are occupied.**; then close with this limit: **The Act allows up to two VCs; it does not require both posts to be continuously filled and it does not prescribe a judicial member.**
 
-**How to use them:** Frame the answer through STATUS,; define COMPOSITION, connect APPOINTMENT with CVC to explain the mechanism, and use CBI for the decisive comparison or qualification.
+#### Prelims trap
 
-[FACT] Section 3 of the CVC Act constitutes the Commission. It consists of:
+Do not say 'CVC is a single-member body', 'exactly two VCs must exist', or 'a Supreme Court judge is compulsory.'
 
-- one **Central Vigilance Commissioner**, as Chairperson; and
-- **not more than two Vigilance Commissioners**, as Members.
+#### Mains use
 
-[FACT] The statute draws eligible persons from two broad experience pools:
+Use the category design to evaluate expertise, diversity and the absence of a wholly independent professional cadre.
 
-1. All-India Service, Union civil service or Union civil post experience involving vigilance, policy-making and administration, including police administration; or
-2. specified public-sector corporate experience and expertise in finance (including insurance and banking), law, vigilance and investigations.
+#### Recap
 
-[FACT] The proviso prevents all three offices from being monopolised by one eligibility category: not more than two persons may belong to either category.
+1 Chairperson + up to 2 members; two experience pools; maximum two appointees from either pool.
 
-#### Visual 08 — Composition
+### SESSION 5 - CVC APPOINTMENT, TENURE, SERVICE LIMITS AND REMOVAL
 
-```text
-                 CENTRAL VIGILANCE COMMISSION
-                              |
-          +-------------------+-------------------+
-          |                   |                   |
-       CENTRAL            VIGILANCE           VIGILANCE
-      VIGILANCE          COMMISSIONER         COMMISSIONER
-    COMMISSIONER          (if appointed)       (if appointed)
-     Chairperson              Member               Member
-
-Maximum size = 3; statutory wording = "not more than two" VCs
-```
-
-*Caption: The Commission is multi-member but the Act does not require that both Vigilance Commissioner posts be occupied at all times.*
-
-#### Visual 09 — Appointment Chain
-
-```text
-SELECTION COMMITTEE RECOMMENDATION
-   |
-   +--> Prime Minister (Chairperson)
-   +--> Minister of Home Affairs
-   +--> Leader of Opposition in Lok Sabha
-        |
-        +--> if no recognised LoP:
-             leader of single largest opposition group
-   |
-PRESIDENT APPOINTS BY WARRANT UNDER HAND AND SEAL
-```
-
-*Caption: The statutory substitute for an unrecognised Lok Sabha LoP is expressly written into the CVC Act.*
-
-[FACT] Section 4 states that the President appoints the CVC and VCs by warrant under hand and seal after obtaining the recommendation of the committee above.
-
-[LIMIT] A vacancy in the selection committee does not by itself invalidate an appointment. This statutory rule must not be confused with whether a particular selection process was fair on its facts.
-
-#### Visual 10 — Eligibility Logic
-
-| Category A | Category B | Diversity guardrail |
-|---|---|---|
-| Union/All-India public-service experience | Public-sector corporate office/expertise | Maximum two appointees from either single category |
-| Vigilance, policy, administration, police administration | Finance, insurance, banking, law, vigilance, investigation | At least one seat must therefore come from the other category if all three seats are filled |
-
-*Caption: The Act combines administrative knowledge with specialist expertise and inserts a limited category-balancing rule.*
-
-#### CLOSING RECALL FLOW — CVC: STATUS, COMPOSITION AND APPOINTMENT
-
-```text
-START / CONCEPT: CVC: STATUS, COMPOSITION AND APPOINTMENT
-        |
-        v
-EXACT TERMS: STATUS, · COMPOSITION · APPOINTMENT · CVC · CBI · DSPE
-        |
-        v
-MECHANISM / ARGUMENT: The CVC consists of the Central Vigilance Commissioner and not more than two Vigilance Commissioners. Appointment follows the statutory committee process; statutory status does not make the Commission a constitutional body or court.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design preserves institutional role clarity and prevents a legally inaccurate one-agency narrative.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge CVC, CBI, departmental, prosecution and judicial powers or mutate the CVC, CBI and DSPE acronyms.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The CVC consists of the Central Vigilance Commissioner and not more than two Vigilance Commissioners.
-```
-### SESSION 5 — CVC TENURE, REAPPOINTMENT, POST-TENURE BARS AND REMOVAL
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** This session explains CVC Tenure, Reappointment, Post-Tenure Bars And Removal through the distinct legal roles of vigilance, investigation and accountability.
-
-**Technical definition:** The CVC Act fixes tenure, regulates reappointment, imposes specified post-tenure restrictions and provides a safeguarded removal process. These protections support independence but must be stated exactly rather than analogised to constitutional offices.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> The CVC Act fixes tenure, regulates reappointment, imposes specified post-tenure restrictions and provides a safeguarded removal process.
-
-#### MUST-WRITE KEYWORDS
-
-- **TENURE,**
-- **REAPPOINTMENT,**
-- **POST-TENURE**
-- **BARS**
-- **REMOVAL**
-- **CVC**
-- **CBI**
-- **DSPE**
-
-**How to use them:** Frame the answer through TENURE,; define REAPPOINTMENT,, connect POST-TENURE with BARS to explain the mechanism, and use REMOVAL for the decisive comparison or qualification.
-
-#### Visual 11 — Tenure Clock
-
-```text
-ENTRY INTO OFFICE
-      |
-      +--> Four years
-      |
-      +--> Age 65
-      |
-WHICHEVER OCCURS EARLIER
-
-VC -> may be appointed CVC
-but aggregate service as VC + CVC cannot exceed four years
-```
-
-*Caption: “Four years or 65” is a ceiling rule; appointment as CVC does not restart a former VC’s four-year clock.*
-
-[FACT] The CVC is ineligible for reappointment in the Commission after ceasing office. A VC may be appointed CVC through the statutory process, subject to the aggregate four-year cap.
-
-[FACT] On ceasing office, the CVC and VCs are ineligible for specified diplomatic/presidential assignments and for further employment in an office of profit under the Union or a State.
-
-#### Visual 12 — Post-Tenure Restriction
-
-| After office | Legal position |
-|---|---|
-| Reappointment as CVC/VC | CVC cannot be reappointed; VC-to-CVC route is specially allowed within aggregate cap |
-| Diplomatic assignment / UT Administrator / specified presidential appointment | Barred |
-| Further government office of profit | Barred |
-| Private activity | Governed by other applicable law/ethics; the cited statutory bar is not a universal ban on every activity |
-
-*Caption: State the statutory bars exactly; do not enlarge them into an unsupported lifetime prohibition.*
-
-#### Visual 13 — Two Removal Routes
-
-```text
-ROUTE 1: PROVED MISBEHAVIOUR OR INCAPACITY
-President makes reference
-        -> Supreme Court inquiry
-        -> Court reports whether removal is warranted
-        -> President orders removal
-
-ROUTE 2: LISTED DIRECT STATUTORY GROUNDS
-President may remove for:
-insolvency / conviction involving moral turpitude /
-outside paid employment / mental or physical infirmity /
-prejudicial financial or other interest
-```
-
-*Caption: The Supreme Court inquiry route and the expressly listed direct-removal grounds must be kept separate.*
-
-[FACT] The President may suspend and prohibit attendance during the Supreme Court inquiry after a reference.
-
-[FACT] A prohibited interest in a Government of India contract or agreement, beyond the ordinary position of a member of an incorporated company, is statutorily deemed misbehaviour.
-
-[ANALYSIS] Security of tenure protects institutional independence; tightly defined direct-removal grounds protect integrity and functionality.
-
-#### Visual 14 — Independence Safeguards and Limits
-
-| Design safeguard | Independence value | Continuing limit |
-|---|---|---|
-| Multi-member selection committee | Reduces unilateral executive choice | Committee remains political-executive heavy |
-| Fixed term/age ceiling | Protects against ordinary pleasure removal | Short maximum tenure may reduce continuity |
-| Supreme Court inquiry for proved misbehaviour/incapacity | High removal threshold | Direct statutory grounds remain |
-| Post-tenure employment bars | Reduces inducement risk | Does not itself create budget/cadre autonomy |
-| Expenses charged on Consolidated Fund of India | Financial protection | Operational capacity still depends on staffing and administration |
-
-*Caption: Institutional independence is cumulative; no single safeguard eliminates all executive or organisational dependence.*
-
-#### CLOSING RECALL FLOW — CVC TENURE, REAPPOINTMENT, POST-TENURE BARS AND REMOVAL
-
-```text
-START / CONCEPT: CVC TENURE, REAPPOINTMENT, POST-TENURE BARS AND REMOVAL
-        |
-        v
-EXACT TERMS: TENURE, · REAPPOINTMENT, · POST-TENURE · BARS · REMOVAL · CVC · CBI · DSPE
-        |
-        v
-MECHANISM / ARGUMENT: The CVC Act fixes tenure, regulates reappointment, imposes specified post-tenure restrictions and provides a safeguarded removal process. These protections support independence but must be stated exactly rather than analogised to constitutional offices.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design preserves institutional role clarity and prevents a legally inaccurate one-agency narrative.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge CVC, CBI, departmental, prosecution and judicial powers or mutate the CVC, CBI and DSPE acronyms.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The CVC Act fixes tenure, regulates reappointment, imposes specified post-tenure restrictions and provides a safeguarded removal process.
-```
-### SESSION 6 — CVC FUNCTIONS UNDER SECTION 8
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** This session explains CVC Functions Under Section 8 through the distinct legal roles of vigilance, investigation and accountability.
-
-**Technical definition:** Section 8 assigns vigilance review, advice and limited superintendence over DSPE corruption investigations to the CVC. It does not make the Commission the investigating, prosecuting or adjudicating authority in every vigilance matter.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Section 8 assigns vigilance review, advice and limited superintendence over DSPE corruption investigations to the CVC.
-
-#### MUST-WRITE KEYWORDS
-
-- **FUNCTIONS**
-- **UNDER**
-- **SECTION**
-- **CVC**
-- **CBI**
-- **DSPE**
-
-**How to use them:** Frame the answer through FUNCTIONS; define UNDER, connect SECTION with CVC to explain the mechanism, and use CBI for the decisive comparison or qualification.
-
-[FACT] Section 8 is the operational core of the CVC Act. It gives the Commission a combination of DSPE superintendence, constrained directions, inquiry/investigation routing, progress review, advice and vigilance-administration supervision.
-
-#### Visual 15 — Section 8 Function Map
-
-| Section 8 function | What CVC may do | Boundary |
-|---|---|---|
-| DSPE superintendence | Supervise DSPE functioning for Prevention of Corruption Act investigations and connected same-trial offences | Does not cover every CBI matter |
-| Directions to DSPE | Give directions for discharge of the statutory responsibility | Cannot require investigation or disposal of a particular case in a particular manner |
-| Central Government reference | Inquire or cause inquiry/investigation concerning covered central/public-sector servants | Reference and statutory offence/person coverage matter |
-| Complaint jurisdiction | Inquire or cause inquiry/investigation against specified categories | Not every public servant everywhere |
-| Investigation review | Review progress of relevant DSPE investigations | Review is not adjudication |
-| Sanction review | Review progress of prosecution-sanction applications | Review does not erase the competent authority’s statutory role |
-| Advice | Advise Union Government and covered central organisations | Advice is not automatically binding |
-| Vigilance administration | Supervise vigilance administration across covered central entities | Cannot contradict Government vigilance directions or issue policy directions beyond the proviso |
-
-*Caption: CVC’s section 8 powers are broad within central vigilance, but each is textually bounded.*
-
-#### Visual 16 — Superintendence Without Case Dictation
-
-```text
-PERMITTED LEVEL                         PROHIBITED LEVEL
----------------                         ----------------
-systemic supervision                    "reach this result"
-progress monitoring                     "charge this named person"
-lawful general directions               "close this particular case"
-sanction-delay review                   "investigate in this exact manner"
-integrity/process oversight             "dispose of case as instructed"
-```
-
-*Caption: The proviso protects investigative judgment by prohibiting CVC from dictating the particular manner of investigation or disposal.*
-
-[ANALYSIS] “Superintendence” should be understood as lawful oversight of the agency and process, not remote authorship of the evidence, charges or final report in a named case.
-
-#### Visual 17 — Person-Coverage Gate
-
-```text
-COMPLAINT RECEIVED
-       |
-Is the alleged conduct within the statutory offence field?
-       |
-Is the officer/person in a section 8(2) covered category?
-       |
-Is there a valid reference/complaint route?
-       |
-YES -> CVC may inquire or cause inquiry/investigation
-NO  -> another statutory/departmental route may apply
-```
-
-*Caption: A complaint’s seriousness does not by itself confer CVC jurisdiction.*
-
-[FACT] For the complaint route in section 8(1)(d), section 8(2) covers:
-
-- members of All-India Services serving in connection with Union affairs and Group A officers of the Central Government; and
-- notified levels in covered central corporations, Government companies, societies and local authorities, with the Act’s transitional deeming provision.
-
-[LIMIT] Lokpal-referred complaints introduce a separate statutory interface. Do not collapse the original section 8 complaint category into all Group A-D public servants without stating the Lokpal route.
-
-#### Visual 18 — Advice Is Not a Command
-
-```text
-INQUIRY REPORT
-      |
-      v
-     CVC
-      |
-      v
-ADVICE TO UNION / COVERED ORGANISATION
-      |
-      +--> agrees -> appropriate action
-      |
-      +--> disagrees -> written reasons communicated to CVC
-```
-
-*Caption: Section 17 requires consideration of CVC advice and written reasons for disagreement, but the advice is not self-executing punishment.*
-
-[ANALYSIS] This model combines expert vigilance review with administrative responsibility. Its weakness is potential dilution through repeated disagreement or delay; its accountability tool is reason-giving.
-
-#### Visual 19 — CVC’s Inquiry-Related Civil-Court Powers
-
-| CVC may, for specified inquiries | CVC still is not |
-|---|---|
-| Summon and enforce attendance | A criminal trial court |
-| Examine on oath | A general police station |
-| Require discovery/production of documents | A sentencing authority |
-| Receive affidavit evidence | A universal ombudsman |
-| Requisition public records | A substitute for the competent disciplinary authority |
-| Issue commissions for witnesses/documents | The final judge of guilt |
-
-*Caption: Civil-court-like procedural powers do not transform the Commission into a court of criminal jurisdiction.*
-
-#### Visual 20 — Annual Accountability Loop
-
-```text
-CVC WORK DURING YEAR
-       |
-Annual report within six months of year-end
-       |
-Separate part on DSPE anti-corruption functioning
-       |
-President
-       |
-Both Houses of Parliament
-       |
-Public / legislative scrutiny
-```
-
-*Caption: Reporting creates parliamentary visibility without turning Parliament into the investigator of individual cases.*
-
-#### CLOSING RECALL FLOW — CVC FUNCTIONS UNDER SECTION 8
-
-```text
-START / CONCEPT: CVC FUNCTIONS UNDER SECTION 8
-        |
-        v
-EXACT TERMS: FUNCTIONS · UNDER · SECTION · CVC · CBI · DSPE
-        |
-        v
-MECHANISM / ARGUMENT: Section 8 assigns vigilance review, advice and limited superintendence over DSPE corruption investigations to the CVC. It does not make the Commission the investigating, prosecuting or adjudicating authority in every vigilance matter.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design preserves institutional role clarity and prevents a legally inaccurate one-agency narrative.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge CVC, CBI, departmental, prosecution and judicial powers or mutate the CVC, CBI and DSPE acronyms.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Section 8 assigns vigilance review, advice and limited superintendence over DSPE corruption investigations to the CVC.
-```
-### SESSION 7 — CVOS AND DEPARTMENTAL VIGILANCE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** This session explains CVOs And Departmental Vigilance through the distinct legal roles of vigilance, investigation and accountability.
-
-**Technical definition:** Chief Vigilance Officers connect departments and covered public bodies to the central vigilance system through preventive vigilance, complaint examination and coordination of departmental action. CVOs do not displace disciplinary, CVC, CBI or prosecution powers.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Chief Vigilance Officers connect departments and covered public bodies to the central vigilance system through preventive vigilance, complaint examination and coordination of departmental action.
-
-#### MUST-WRITE KEYWORDS
-
-- **CVOS**
-- **DEPARTMENTAL**
-- **VIGILANCE**
-- **CVC**
-- **CBI**
-- **DSPE**
-
-**How to use them:** Frame the answer through CVOS; define DEPARTMENTAL, connect VIGILANCE with CVC to explain the mechanism, and use CBI for the decisive comparison or qualification.
-
-[FACT] Chief Vigilance Officers (CVOs) are the vigilance nodes within Ministries, departments and covered public organisations. They support preventive vigilance, complaint handling, examination of processes, disciplinary coordination and communication with the CVC.
-
-[ANALYSIS] A CVO’s proximity to organisational records can identify systemic risk early. The same proximity can create conflict or dependence if the post lacks functional protection.
-
-#### Visual 21 — CVC-CVO Operating Chain
-
-```text
-                    CVC
-                     |
-        general vigilance supervision
-                     |
-                    CVO
-          within Ministry / PSU / body
-             /          |          \
-   preventive review  complaints  disciplinary coordination
-             \          |          /
-                organisational head
-```
-
-*Caption: The CVO is an internal vigilance bridge, not an independent criminal court or a branch office with unlimited CBI powers.*
-
-#### Visual 22 — Preventive vs Punitive Vigilance
-
-| Preventive vigilance | Punitive/disciplinary response |
-|---|---|
-| Process redesign | Fact-finding after alleged misconduct |
-| Rotation in sensitive posts | Departmental charge and inquiry |
-| Conflict-of-interest control | Penalty by competent authority |
-| Procurement transparency | Referral for criminal investigation where warranted |
-| Audit trails and risk analytics | Prosecution-sanction process where applicable |
-
-*Caption: A mature vigilance system prevents opportunity as well as responds to completed misconduct.*
-
-#### CLOSING RECALL FLOW — CVOS AND DEPARTMENTAL VIGILANCE
-
-```text
-START / CONCEPT: CVOS AND DEPARTMENTAL VIGILANCE
-        |
-        v
-EXACT TERMS: CVOS · DEPARTMENTAL · VIGILANCE · CVC · CBI · DSPE
-        |
-        v
-MECHANISM / ARGUMENT: Chief Vigilance Officers connect departments and covered public bodies to the central vigilance system through preventive vigilance, complaint examination and coordination of departmental action. CVOs do not displace disciplinary, CVC, CBI or prosecution powers.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design preserves institutional role clarity and prevents a legally inaccurate one-agency narrative.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge CVC, CBI, departmental, prosecution and judicial powers or mutate the CVC, CBI and DSPE acronyms.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Chief Vigilance Officers connect departments and covered public bodies to the central vigilance system through preventive vigilance, complaint examination and coordination of departmental action.
-```
-### SESSION 8 — CBI AND DSPE: ORGANISATION, POLICE POWER AND JURISDICTION
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** This session explains CBI And DSPE: Organisation, Police Power And Jurisdiction through the distinct legal roles of vigilance, investigation and accountability.
-
-**Technical definition:** The CBI is an executive-created organisation whose investigative police powers derive from the DSPE Act. Its mandate depends on notified offences, territorial extension and applicable State consent.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> The CBI is an executive-created organisation whose investigative police powers derive from the DSPE Act.
-
-#### MUST-WRITE KEYWORDS
-
-- **DSPE**
-- **ORGANISATION,**
-- **POLICE**
-- **POWER**
-- **JURISDICTION**
-- **CVC**
-- **CBI**
-
-**How to use them:** Frame the answer through DSPE; define ORGANISATION,, connect POLICE with POWER to explain the mechanism, and use JURISDICTION for the decisive comparison or qualification.
-
-[FACT] The CBI’s organisational identity and the DSPE’s statutory identity must be stated together but not merged. The 1963 resolution broadened the organisational mandate; investigators exercise police powers through the DSPE Act and applicable criminal law.
-
-#### Visual 23 — CBI/DSPE Legal Stack
-
-```text
-CBI ORGANISATION
-created by 1963 executive resolution
-          |
-          +--> DSPE / Investigation and Anti-Corruption
-          |       powers: DSPE Act + criminal procedure + notified offences
-          |
-          +--> Economic-offence work
-          |
-          +--> Special-crime work on a selective lawful basis
-          |
-          +--> INTERPOL National Central Bureau for India
-```
-
-*Caption: Organisational wings do not enlarge statutory police jurisdiction beyond law, notification, consent or court order.*
-
-#### Visual 24 — DSPE Act Jurisdiction Ladder
-
-```text
-SECTION 2
-DSPE police powers in Union Territories
-        |
-SECTION 3
-Central Government notifies offence classes
-        |
-SECTION 5
-Central Government may extend powers/jurisdiction to a State area
-        |
-SECTION 6
-State consent required for exercise in that State area
-        |
-EXCEPTIONAL CONSTITUTIONAL ROUTE
-Supreme Court / High Court direction under Articles 32 / 226
-```
-
-*Caption: State consent is one route; a constitutional-court direction is a distinct route and does not derive from State consent.*
-
-[FACT] Under section 2, DSPE members have police powers in Union Territories. Under section 3, the Central Government specifies offence classes by notification. Under section 5, it may extend DSPE powers and jurisdiction to State areas; section 6 ordinarily requires the State Government’s consent for that exercise.
-
-[LIMIT] “CBI can investigate any case in India” and “CBI can never act without State consent” are both overbroad.
-
-#### Visual 25 — Officially Supported CBI Domains
-
-| Domain | Typical legal character | Essential qualification |
-|---|---|---|
-| Anti-corruption | PC Act offences and connected offences | CVC superintendence applies to the relevant DSPE investigations |
-| Economic offences | Complex fraud/economic crime under notified laws | CBI is not the same as ED or SFIO |
-| Special crimes | Serious conventional crime on a selective lawful basis | Territorial jurisdiction/consent/court-order questions remain |
-| INTERPOL NCB | International police-cooperation channel for India | Coordination does not itself determine domestic guilt or jurisdiction |
-
-*Caption: CBI’s diverse work remains legally compartmentalised.*
-
-#### Visual 26 — Police Power Is Not Organisational Reputation
-
-```text
-HIGH PUBLIC IMPORTANCE
-        does not automatically produce
-LEGAL JURISDICTION
-
-Jurisdiction requires:
-DSPE power + notified offence + territorial authority
-+ applicable consent/reference/court direction
-+ compliance with criminal-procedure safeguards
-```
-
-*Caption: Public demand for a CBI probe is politically relevant but not a substitute for a lawful jurisdictional route.*
-
-#### CLOSING RECALL FLOW — CBI AND DSPE: ORGANISATION, POLICE POWER AND JURISDICTION
-
-```text
-START / CONCEPT: CBI AND DSPE: ORGANISATION, POLICE POWER AND JURISDICTION
-        |
-        v
-EXACT TERMS: DSPE · ORGANISATION, · POLICE · POWER · JURISDICTION · CVC · CBI
-        |
-        v
-MECHANISM / ARGUMENT: The CBI is an executive-created organisation whose investigative police powers derive from the DSPE Act. Its mandate depends on notified offences, territorial extension and applicable State consent.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design preserves institutional role clarity and prevents a legally inaccurate one-agency narrative.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge CVC, CBI, departmental, prosecution and judicial powers or mutate the CVC, CBI and DSPE acronyms.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The CBI is an executive-created organisation whose investigative police powers derive from the DSPE Act.
-```
-### SESSION 9 — SUPERINTENDENCE, ADMINISTRATION AND INVESTIGATIVE JUDGMENT
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Superintendence, Administration And Investigative Judgment comprises Superintendence, Administration and Investigative Judgment as its core connected dimensions.
-
-**Technical definition:** The Lokpal Act creates a special superintendence-and-direction rule for matters referred by the Lokpal to DSPE, while repeating the prohibition on requiring investigation or disposal in a particular manner.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> The Lokpal Act creates a special superintendence-and-direction rule for matters referred by the Lokpal to DSPE, while repeating the prohibition on requiring investigation or disposal in a particular manner.
-
-#### MUST-WRITE KEYWORDS
-
-- **Superintendence**
-- **Administration**
-- **Investigative Judgment**
-- **insulated investigation plus answerable power**
-- **Investigation of PC Act offences**
-- **CVC**
-
-**How to use them:** Frame the answer through Superintendence; define Administration, connect Investigative Judgment with insulated investigation plus answerable power to explain the mechanism, and use Investigation of PC Act offences for the decisive comparison or qualification.
-
-#### Visual 27 — Statutory Superintendence Split
-
-| DSPE matter | Superintendence under section 4 | Administration |
-|---|---|---|
-| Investigation of PC Act offences | CVC | Director, CBI/DSPE under statutory structure |
-| Other DSPE matters | Central Government, save as otherwise provided | Director, CBI/DSPE |
-| Lokpal-referred preliminary inquiry/investigation | Lokpal’s special section 25 power operates notwithstanding DSPE section 4/CVC section 8 | Agency remains bound by law and Lokpal Act safeguards |
-
-*Caption: Superintendence changes with the legal subject and referral route; there is no single controller for every CBI function.*
-
-[FACT] DSPE Act section 4(1) vests superintendence over PC Act investigations in the CVC. Section 4(2) vests superintendence over other matters in the Central Government, subject to other statutory provisions. Section 4(3) vests administration in the Director.
-
-[FACT] The Lokpal Act creates a special superintendence-and-direction rule for matters referred by the Lokpal to DSPE, while repeating the prohibition on requiring investigation or disposal in a particular manner.
-
-#### Visual 28 — Administration vs Case Investigation
-
-| Administrative control may concern | Investigative judgment concerns |
-|---|---|
-| Budget and establishment | Evidence collection in a case |
-| Personnel policy and deputation | Witness assessment |
-| Infrastructure and inter-departmental coordination | Search/arrest decisions under law |
-| Allocation within statutory framework | Legal sufficiency for final report |
-| Service conditions | Whether evidence supports charge or closure |
-
-*Caption: CBI’s administrative placement under DoPT does not prove that the PMO lawfully dictates every investigative decision.*
-
-[ANALYSIS] Independence is compromised when administrative leverage is used to influence case outcomes. Accountability is compromised when “independence” is invoked to avoid lawful supervision, audit, courts or reasons. The constitutional objective is **insulated investigation plus answerable power**.
-
-#### Visual 29 — Four-Layer Control Model
-
-```text
-LAYER 1: LAW
-DSPE Act / CVC Act / PC Act / Lokpal Act / criminal procedure
-                        |
-LAYER 2: INSTITUTIONAL OVERSIGHT
-CVC / Lokpal / Central Government within allocated fields
-                        |
-LAYER 3: AGENCY ADMINISTRATION
-Director and internal hierarchy
-                        |
-LAYER 4: JUDICIAL CONTROL
-trial court / High Court / Supreme Court
-```
-
-*Caption: The layers constrain one another; none is a licence for extra-legal command.*
-
-#### CLOSING RECALL FLOW — SUPERINTENDENCE, ADMINISTRATION AND INVESTIGATIVE JUDGMENT
-
-```text
-START / CONCEPT: SUPERINTENDENCE, ADMINISTRATION AND INVESTIGATIVE JUDGMENT
-        |
-        v
-EXACT TERMS: Superintendence · Administration · Investigative Judgment · insulated investigation plus answerable power · Investigation of PC Act offences · CVC
-        |
-        v
-MECHANISM / ARGUMENT: Independence is compromised when administrative leverage is used to influence case outcomes.
-        |
-        v
-CONSEQUENCE / CONTRAST: Accountability is compromised when “independence” is invoked to avoid lawful supervision, audit, courts or reasons.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: the constitutional objective is insulated investigation plus answerable power.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The Lokpal Act creates a special superintendence-and-direction rule for matters referred by the Lokpal to DSPE, while repeating the prohibition on requiring investigation or disposal in a particular manner.
-```
-### SESSION 10 — CBI DIRECTOR: APPOINTMENT, TENURE, TRANSFER AND SENIOR POSTS
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** The CBI Director safeguard system protects professional control of the investigating establishment through committee-based appointment, a minimum tenure and restricted transfer.
-
-**Technical definition:** Sections 4A, 4B, 4BA and 4C of the DSPE Act distribute Director selection, tenure, conditional extension, transfer protection and senior appointment inputs among specified statutory authorities.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> CBI autonomy depends less on a slogan of independence than on a rule-bound Director architecture that separates high-level selection, secure minimum tenure, lawful extension and day-to-day administration.
-
-#### MUST-WRITE KEYWORDS
-
-- **Section 4A**
-- **Section 4B**
-- **Section 4BA**
-- **Section 4C**
-- **selection committee**
-- **minimum tenure**
-- **conditional extension**
-- **transfer safeguard**
-
-**How to use them:** Use sections 4A to 4C in sequence: identify the selection committee, state the two-year floor, qualify the current extension route and explain the committee safeguard against transfer-equivalent interference.
-
-#### Visual 30 — Director Appointment Pipeline
-
-```text
-ELIGIBLE IPS OFFICERS
-     |
-     | panel based on seniority, integrity and
-     | experience in anti-corruption investigation
-     v
-HIGH-POWERED COMMITTEE
-     +--> Prime Minister (Chairperson)
-     +--> Lok Sabha Leader of Opposition
-     |    or leader of largest opposition party where no LoP
-     +--> Chief Justice of India or Supreme Court judge nominated by CJI
-     |
-     v
-COMMITTEE RECOMMENDATION
-     |
-     v
-CENTRAL GOVERNMENT APPOINTS DIRECTOR
-```
-
-*Caption: The present section 4A high-powered committee is different from the older CVC-chaired panel that prepares the eligible officer panel.*
-
-[FACT] DSPE Act section 4A requires the Central Government to appoint the Director on the recommendation of the Prime Minister-LoP-CJI committee. Where no LoP is recognised, the leader of the single largest opposition party in the Lok Sabha is substituted.
-
-[FACT] Before the high-powered committee stage, the CVC-chaired institutional committee prepares the panel under the statutory criteria, after considering the outgoing Director’s views.
-
-[LIMIT] Selection by a high-powered committee is an independence safeguard, not an immunity from legal review or administrative accountability.
-
-#### Visual 31 — Director Tenure and Extension
+#### VISUAL FIRST
 
 ```text
 APPOINTMENT
+PM (Chair) + Home Minister + Lok Sabha LoP/statutory substitute
+                      |
+        recommendation to President
+                      |
+     warrant under hand and seal
+
+TENURE: 4 years OR age 65, whichever earlier
+VC -> CVC possible, but aggregate Commission service <= 4 years
+
+REMOVAL A: President -> Supreme Court inquiry -> proved misconduct/incapacity
+REMOVAL B: listed direct grounds such as insolvency or disqualifying interest
+```
+
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
+
+#### Definition
+
+CVC and VCs are appointed by the President on a three-member committee's recommendation, hold office for four years or until age sixty-five, and enjoy a protected removal process with separate direct statutory grounds.
+
+#### Answer-grabbing line
+
+> The CVC Act protects tenure without creating personal entitlement: appointment is committee-based, service is capped, and integrity failures remain removable under defined procedures.
+
+#### Must-write keywords
+
+**President; Prime Minister; Home Minister; Leader of Opposition; four years; age 65; aggregate cap; Supreme Court inquiry; post-tenure bar**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Appointment dispersion and removal protection are complementary independence safeguards.
+- **Named evidence:** CVC Act sections 4, 5 and 6; Centre for Public Interest Litigation v Union of India (2011).
+- **Analysis:** A plural recommending committee reduces unilateral choice; a fixed term limits ordinary pleasure removal; Supreme Court inquiry protects against retaliatory removal; and post-tenure government-employment bars reduce inducement risk.
+- **Qualification:** Centre for PIL requires the committee to protect institutional integrity, but judicial review does not convert the Court into the selection authority.
+
+#### Evidence and explanation
+
+- [FACT] The appointment committee is PM, Union Home Minister and Lok Sabha Leader of Opposition; the Act supplies a substitute where no LoP is recognised.
+- [FACT] Term is four years or age sixty-five, whichever is earlier.
+- [FACT] A VC may become CVC, but total service as VC plus CVC cannot exceed four years.
+- [FACT] The CVC may resign by writing to the President; statutory pay/service treatment and the bar on disadvantageous variation protect office conditions.
+- [FACT] After office, specified diplomatic/presidential assignments and further government office-of-profit employment are barred.
+- [FACT] Proved misbehaviour or incapacity ordinarily requires a Presidential reference and Supreme Court inquiry; listed objective grounds form a separate route.
+
+#### Evidence checkpoint
+
+Prove **Appointment dispersion and removal protection are complementary independence safeguards.** with **CVC Act sections 4, 5 and 6; Centre for Public Interest Litigation v Union of India (2011).**; explain that **A plural recommending committee reduces unilateral choice; a fixed term limits ordinary pleasure removal; Supreme Court inquiry protects against retaliatory removal; and post-tenure government-employment bars reduce inducement risk.**; then close with this limit: **Centre for PIL requires the committee to protect institutional integrity, but judicial review does not convert the Court into the selection authority.**
+
+#### Prelims trap
+
+Do not import the CJI into the CVC appointment committee or state a five-year term.
+
+#### Mains use
+
+Use Centre for PIL to add the institutional-integrity test to a statutory appointment answer.
+
+#### Recap
+
+PM-HM-LoP recommend; President appoints; 4 years/65; aggregate cap; protected removal plus direct listed grounds.
+
+### SESSION 6 - CVC SECTION 8: THE COMPLETE FUNCTION MAP
+
+#### VISUAL FIRST
+
+```text
+S  Superintend DSPE PC Act investigations
+D  Direct DSPE generally, but never dictate a particular case's manner/result
+I  Inquire or cause inquiry/investigation on reference or covered complaint
+R  Review investigation progress
+S  Review prosecution-sanction applications
+A  Advise Union and covered central bodies
+V  Supervise vigilance administration
+
+MEMORY LINE: S-D-I-R-S-A-V
+```
+
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
+
+#### Definition
+
+Section 8 gives CVC a combined supervisory, inquiry-routing, progress-review, advisory and vigilance-administration mandate within specified central anti-corruption fields.
+
+#### Answer-grabbing line
+
+> Section 8 makes CVC an oversight hub, not a universal investigator: its strength lies in supervision, review and reasoned advice across the vigilance chain.
+
+#### Must-write keywords
+
+**section 8; superintendence; directions; inquiry; investigation review; sanction review; advice; vigilance administration**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** CVC's operational importance comes from connecting system supervision with case-progress review.
+- **Named evidence:** CVC Act section 8(1)(a)-(h) and section 8(2).
+- **Analysis:** The Commission can see recurring risks across departments, monitor DSPE corruption investigations, examine delayed sanction requests and advise competent authorities, thereby linking preventive and punitive vigilance without replacing police or disciplinary decision-makers.
+- **Qualification:** Every clause has a person, offence, organisation or direction boundary; seriousness alone does not create jurisdiction.
+
+#### Evidence and explanation
+
+- [FACT] CVC superintendence concerns DSPE investigation of Prevention of Corruption Act offences and connected same-trial offences within the statutory formulation.
+- [FACT] CVC may inquire or cause inquiry/investigation on Central Government reference and on covered complaints.
+- [FACT] The ordinary complaint category includes members of All-India Services serving in connection with Union affairs, Group A Central officers and notified levels in covered central entities; Lokpal references add the amended Group-wise route.
+- [FACT] It reviews progress of relevant DSPE investigations and pending prosecution-sanction applications.
+- [FACT] It advises the Union and covered central entities and supervises vigilance administration within the Act.
+
+#### Evidence checkpoint
+
+Prove **CVC's operational importance comes from connecting system supervision with case-progress review.** with **CVC Act section 8(1)(a)-(h) and section 8(2).**; explain that **The Commission can see recurring risks across departments, monitor DSPE corruption investigations, examine delayed sanction requests and advise competent authorities, thereby linking preventive and punitive vigilance without replacing police or disciplinary decision-makers.**; then close with this limit: **Every clause has a person, offence, organisation or direction boundary; seriousness alone does not create jurisdiction.**
+
+#### Prelims trap
+
+Do not reduce section 8 to 'CVC controls CBI' or enlarge complaint coverage to every person and every government.
+
+#### Mains use
+
+Use the S-D-I-R-S-A-V chain to explain both functional reach and the advisory ceiling.
+
+#### Recap
+
+supervise, direct within limits, inquire, review investigation, review sanction, advise, supervise vigilance.
+
+### SESSION 7 - SUPERINTENDENCE WITHOUT CASE DICTATION
+
+#### VISUAL FIRST
+
+```text
+PERMITTED SYSTEM LEVEL                 PROHIBITED CASE RESULT
+progress monitoring                    "charge this person"
+lawful general directions              "close this case"
+delay and integrity review              "use this evidence"
+compliance and capacity checks          "reach this conclusion"
+             \                         /
+              \                       /
+          INVESTIGATIVE JUDGMENT REMAINS WITH DSPE
+```
+
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
+
+#### Definition
+
+Superintendence is lawful institutional oversight over functioning and responsibility; it is not authority to require investigation or disposal of a particular case in a particular manner.
+
+#### Answer-grabbing line
+
+> The non-dictation proviso is the hinge between accountable investigation and politically managed investigation.
+
+#### Must-write keywords
+
+**superintendence; general direction; particular manner; investigative judgment; evidence; final report; non-dictation proviso**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Oversight and operational independence are not opposites.
+- **Named evidence:** CVC Act section 8(1)(b) proviso; DSPE Act section 4; Lokpal Act section 25 proviso.
+- **Analysis:** System-level supervision can correct delay, poor procedures or capacity failure while investigators retain responsibility for witnesses, evidence and the legally appropriate final report. The same principle constrains Lokpal supervision over referred DSPE matters.
+- **Qualification:** The proviso protects professional judgment; it does not immunise unlawful investigation from courts, statutory review or disciplinary control.
+
+#### Evidence and explanation
+
+- [FACT] CVC may give directions to DSPE for discharge of its statutory responsibility.
+- [FACT] CVC cannot require a particular case to be investigated or disposed of in a particular manner.
+- [FACT] Lokpal's special superintendence over referred cases carries a parallel non-dictation limit.
+- [FACT] Courts retain review over jurisdiction, legality, fairness and the final criminal process.
+
+#### Evidence checkpoint
+
+Prove **Oversight and operational independence are not opposites.** with **CVC Act section 8(1)(b) proviso; DSPE Act section 4; Lokpal Act section 25 proviso.**; explain that **System-level supervision can correct delay, poor procedures or capacity failure while investigators retain responsibility for witnesses, evidence and the legally appropriate final report. The same principle constrains Lokpal supervision over referred DSPE matters.**; then close with this limit: **The proviso protects professional judgment; it does not immunise unlawful investigation from courts, statutory review or disciplinary control.**
+
+#### Prelims trap
+
+Do not describe superintendence as power to write the charge sheet, choose guilt or compel closure.
+
+#### Mains use
+
+Use this distinction to answer the 'independence versus accountability' tension without demanding an unanswerable police agency.
+
+#### Recap
+
+supervise systems and progress; do not script evidence, charges or result.
+
+### SESSION 8 - CVOs AND DEPARTMENTAL VIGILANCE: PREVENTION BEFORE POLICE POWER
+
+#### VISUAL FIRST
+
+```text
+CVC
+                   |
+        vigilance policy / advice
+                   |
+                  CVO
+     +-------------+-------------+
+     |             |             |
+risk review    complaint scan   disciplinary liaison
+     |             |             |
+procurement    fact report      competent authority
+controls            |
+             criminal indicators?
+               /                                      no               yes
+      departmental route   lawful police referral
+```
+
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
+
+#### Definition
+
+A Chief Vigilance Officer (CVO) is the internal vigilance link in a Ministry, department or covered public organisation, coordinating preventive vigilance, complaint examination and departmental follow-up.
+
+#### Answer-grabbing line
+
+> The CVO system treats corruption risk as an administrative-design problem before it becomes only a criminal-case problem.
+
+#### Must-write keywords
+
+**CVO; preventive vigilance; punitive vigilance; sensitive posts; procurement; complaint scrutiny; disciplinary authority; referral**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Departmental vigilance and criminal investigation solve different problems.
+- **Named evidence:** CVC's section 8 vigilance-administration mandate and the Union CVO framework.
+- **Analysis:** CVO access to files, workflows and procurement systems enables early risk correction, while police powers are reserved for a competent investigating agency when facts disclose criminality. This division avoids turning every administrative lapse into an FIR.
+- **Qualification:** A CVO is ordinarily embedded in the organisation; functional access and independence therefore require safeguards against local pressure.
+
+#### Evidence and explanation
+
+- [FACT] Preventive vigilance includes risk mapping, rotation in sensitive posts, procurement controls, conflict management and audit trails.
+- [FACT] Punitive vigilance includes complaint examination, fact collection and coordination of departmental proceedings.
+- [FACT] The competent disciplinary authority, not the CVO or CVC alone, imposes service penalties.
+- [FACT] Criminal referral does not erase the need for territorial jurisdiction, offence notification and procedural safeguards.
+
+#### Evidence checkpoint
+
+Prove **Departmental vigilance and criminal investigation solve different problems.** with **CVC's section 8 vigilance-administration mandate and the Union CVO framework.**; explain that **CVO access to files, workflows and procurement systems enables early risk correction, while police powers are reserved for a competent investigating agency when facts disclose criminality. This division avoids turning every administrative lapse into an FIR.**; then close with this limit: **A CVO is ordinarily embedded in the organisation; functional access and independence therefore require safeguards against local pressure.**
+
+#### Prelims trap
+
+Do not call a CVO a CBI branch, police station, prosecutor or final disciplinary authority.
+
+#### Mains use
+
+Use CVO reform - stable tenure, expertise, direct access and auditable follow-up - as the preventive half of anti-corruption reform.
+
+#### Recap
+
+CVO prevents and coordinates; disciplinary authority penalises service misconduct; police investigate crime.
+
+### SESSION 9 - CVC ADVICE, CIVIL-COURT POWERS, REPORTING AND PIDPI
+
+#### VISUAL FIRST
+
+```text
+COMPLAINT / REFERENCE
+        |
+  inquiry machinery
+summons | oath | documents | affidavits
+        |
+     CVC ADVICE
+ agree / disagree with written reasons
+        |
+ANNUAL REPORT within 6 months of year-end
+separate DSPE anti-corruption part -> President -> Parliament
+
+PIDPI 2004: CVC designated agency -> protected written disclosure
+identity confidentiality; not anonymous/pseudonymous processing
+```
+
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
+
+#### Definition
+
+CVC combines inquiry-related civil-court powers, advisory outputs, parliamentary reporting and a designated-agency role under the 2004 Public Interest Disclosure and Protection of Informers (PIDPI) Resolution.
+
+#### Answer-grabbing line
+
+> CVC accountability relies less on direct punishment than on evidence-gathering, recorded disagreement, protected disclosure and public-institutional reporting.
+
+#### Must-write keywords
+
+**civil-court powers; section 17; written reasons; section 14; annual report; PIDPI Resolution 2004; confidentiality; whistle-blower**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Reason-giving and reporting give an advisory institution institutional force.
+- **Named evidence:** CVC Act sections 11, 14 and 17; Government of India PIDPI Resolution dated 21 April 2004.
+- **Analysis:** Civil-court powers make inquiry credible; written disagreement prevents silent disregard of advice; Parliament receives system-level visibility; PIDPI gives a protected disclosure channel for corruption or misuse-of-office complaints within its applicable central field.
+- **Qualification:** The Whistle Blowers Protection Act, 2014 should not be cited as the operative source of CVC's PIDPI role without verified commencement; PIDPI is the controlled authority used here.
+
+#### Evidence and explanation
+
+- [FACT] For specified inquiries CVC may summon, examine on oath, require documents, receive affidavits, requisition public records and issue commissions.
+- [FACT] A covered organisation may disagree with CVC advice but must record reasons in writing and communicate them.
+- [FACT] The annual report is presented to the President within six months of year-end and laid before both Houses; it contains a separate relevant DSPE part.
+- [FACT] Under PIDPI, CVC receives protected written disclosures and safeguards the complainant's identity under the Resolution's procedure.
+
+#### Evidence checkpoint
+
+Prove **Reason-giving and reporting give an advisory institution institutional force.** with **CVC Act sections 11, 14 and 17; Government of India PIDPI Resolution dated 21 April 2004.**; explain that **Civil-court powers make inquiry credible; written disagreement prevents silent disregard of advice; Parliament receives system-level visibility; PIDPI gives a protected disclosure channel for corruption or misuse-of-office complaints within its applicable central field.**; then close with this limit: **The Whistle Blowers Protection Act, 2014 should not be cited as the operative source of CVC's PIDPI role without verified commencement; PIDPI is the controlled authority used here.**
+
+#### Prelims trap
+
+Do not call CVC advice binding, civil-court powers criminal-trial power, or PIDPI an anonymous complaint route.
+
+#### Mains use
+
+Use reason-giving and annual reporting as accountability mechanisms, then evaluate whether follow-up is sufficiently transparent.
+
+#### Recap
+
+inquire with procedural powers -> advise -> require reasons for disagreement -> report -> protect eligible disclosure.
+
+### SESSION 10 - CBI ORGANISATION AND STABLE FUNCTIONAL CATEGORIES
+
+#### VISUAL FIRST
+
+```text
+CBI ORGANISATION
+                         |
+    +--------------------+--------------------+
+    |                    |                    |
+ANTI-CORRUPTION     ECONOMIC OFFENCES    SPECIAL CRIMES
+PC Act and          complex notified     selective serious
+connected crime     economic offences    conventional crime
     |
-    +--> Minimum protected tenure: 2 years
-    |
-    +--> Possible extension after initial appointment
-           |
-           +--> public interest
-           +--> section 4A committee recommendation
-           +--> reasons recorded in writing
-           +--> one year at a time
-           +--> aggregate maximum: 5 years
+DSPE statutory police establishment
 
-Maximum is not an automatic entitlement.
+SUPPORT: policy/coordination, forensics, administration,
+         prosecution and INTERPOL National Central Bureau
 ```
 
-*Caption: The 2021 amendment creates a conditional extension architecture, not a routine five-year appointment.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-[FACT] Section 4B protects a minimum two-year tenure. Transfer requires prior consent of the section 4A committee.
+#### Definition
 
-[FACT] The 2021 amendment permits extension in public interest, on the committee’s recommendation, for reasons recorded in writing, one year at a time, with no extension beyond an aggregate five-year period including the initial appointment.
+CBI is a Union investigative organisation created in 1963, operating through stable functional categories such as anti-corruption, economic offences and special crimes, with support and international-police coordination functions.
 
-[FACT] In *Dr Jaya Thakur v. Union of India (2023) v Union of India* (2023 INSC 616), the Supreme Court upheld the amended statutory extension framework. The Court’s separate conclusion that particular extensions granted to the then Director of Enforcement violated an earlier mandamus must not be converted into invalidation of the CBI/ED amendment architecture itself.
+#### Answer-grabbing line
 
-#### Visual 32 — Appointment, Transfer and Extension Controls
+> CBI's organisational breadth does not create inherent all-India police power; each investigation still needs offence, territory and entry-route authority.
 
-| Decision | Statutory control | Independence purpose |
-|---|---|---|
-| Initial appointment | High-powered section 4A committee recommendation | Disperses selection power |
-| Tenure below two years | Generally barred by protected minimum | Prevents easy premature removal |
-| Transfer during protected tenure | Prior committee consent | Prevents transfer-equivalent ouster |
-| Annual extension | Public interest + committee recommendation + written reasons | Requires fresh justification |
-| Aggregate service | Maximum five years | Prevents indefinite continuation |
+#### Must-write keywords
 
-*Caption: Appointment security and extension accountability operate together.*
+**CBI Resolution 1963; anti-corruption; economic offences; special crimes; INTERPOL NCB; notified offence; territorial authority**
 
-#### Visual 33 — *Alok Verma* Procedure Principle
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Organisational division improves specialisation but cannot enlarge jurisdiction.
+- **Named evidence:** Government of India Resolution dated 1 April 1963; official CBI organisational descriptions; DSPE Act.
+- **Analysis:** Specialisation supports forensic accounting, complex inter-State evidence and serious-crime investigation. Yet the legal authority for coercive steps remains tied to DSPE notification, territory, consent or court order and applicable criminal law.
+- **Qualification:** Divisional names and internal structures can change; UPSC answers should use stable categories rather than volatile branch counts or officeholder lists.
+
+#### Evidence and explanation
+
+- [FACT] Anti-corruption work centres on Prevention of Corruption Act and connected offences.
+- [FACT] Economic-offence work does not make CBI the Enforcement Directorate or confer PMLA powers.
+- [FACT] Special-crime work is selective and depends on a lawful jurisdictional route.
+- [FACT] INTERPOL NCB coordination facilitates international police cooperation but does not itself prove domestic jurisdiction or guilt.
+
+#### Evidence checkpoint
+
+Prove **Organisational division improves specialisation but cannot enlarge jurisdiction.** with **Government of India Resolution dated 1 April 1963; official CBI organisational descriptions; DSPE Act.**; explain that **Specialisation supports forensic accounting, complex inter-State evidence and serious-crime investigation. Yet the legal authority for coercive steps remains tied to DSPE notification, territory, consent or court order and applicable criminal law.**; then close with this limit: **Divisional names and internal structures can change; UPSC answers should use stable categories rather than volatile branch counts or officeholder lists.**
+
+#### Prelims trap
+
+Do not infer a power merely from the word 'central', 'economic' or 'international.'
+
+#### Mains use
+
+Use stable functional categories to discuss capacity while keeping the DSPE legal gate visible.
+
+#### Recap
+
+specialised bureau, bounded police power: category helps expertise; law supplies authority.
+
+### SESSION 11 - DSPE SECTIONS 2 AND 3: TERRITORY AND NOTIFIED OFFENCES
+
+#### VISUAL FIRST
 
 ```text
-FORMAL TRANSFER?
-       |
-       +--> committee consent required
-
-DIVESTING DIRECTOR OF POWERS / FUNCTIONS?
-       |
-       +--> has transfer-like effect
-       +--> cannot bypass section 4A committee protection
+SECTION 2                         SECTION 3
+DSPE constituted                  Central Government notification
+police powers in UTs              specifies offences/classes
+      |                                  |
+      +---------------+------------------+
+                      |
+           BOTH GATES MUST BE SATISFIED
+                      |
+        public importance alone is insufficient
 ```
 
-*Caption: In *Alok Kumar Verma v. Union of India (2019) v Union of India* (2019), substance prevailed over the label attached to the executive action.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-[FACT] The Supreme Court held that divesting the Director of powers and functions has transfer-equivalent consequences within the protective statutory scheme and required consideration by the section 4A committee.
+#### Definition
 
-#### Visual 34 — Senior Appointment Architecture
+Section 2 supplies the DSPE's baseline police establishment and powers in Union Territories; section 3 requires the Central Government to notify the offences or classes of offences that DSPE may investigate.
 
-| Post/level | Core statutory relationship |
-|---|---|
-| Director, CBI | Appointed by Central Government on section 4A high-powered committee recommendation |
-| SP and above in DSPE | CVC-chaired committee recommends appointment, extension or curtailment of tenure after consulting Director |
-| Director of Prosecution | Central Government appoints on CVC recommendation; minimum two-year tenure |
-| Director of Prosecution’s work | Exercises powers/functions under overall supervision and control of Director, CBI |
+#### Answer-grabbing line
 
-*Caption: Do not confuse the Director-selection committee with the CVC-chaired machinery for other senior appointments.*
+> CBI jurisdiction begins with two questions: where may DSPE officers act, and is the alleged offence within a section 3 notification?
 
-[LIMIT] Current officeholders are deliberately not named. UPSC answers should prefer statutory design over transient personalities.
+#### Must-write keywords
 
-#### CLOSING RECALL FLOW — CBI DIRECTOR: APPOINTMENT, TENURE, TRANSFER AND SENIOR POSTS
+**DSPE section 2; Union Territory; police powers; section 3; notification; offence class; cognizable offence**
 
-```text
-START / CONCEPT: CBI DIRECTOR: APPOINTMENT, TENURE, TRANSFER AND SENIOR POSTS
-        |
-        v
-EXACT TERMS: Section 4A · Section 4B · Section 4BA · Section 4C · selection committee · minimum tenure · conditional extension · transfer safeguard
-        |
-        v
-MECHANISM / ARGUMENT: The statutory committee recommends the Director, a protected minimum tenure supports continuity, any extension must satisfy current recorded conditions, and transfer or equivalent divestment engages the protective scheme.
-        |
-        v
-CONSEQUENCE / CONTRAST: The architecture reduces abrupt executive displacement while preserving legal supervision, judicial review and accountability for investigative decisions.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not describe the two-year minimum as an automatic five-year term, include the Home Minister in the Director committee or treat superintendence as power to dictate a case result.
-        |
-        v
-ANSWER-GRABBING FORMULATION: CBI autonomy depends less on a slogan of independence than on a rule-bound Director architecture that separates high-level selection, secure minimum tenure, lawful extension and day-to-day administration.
-```
-### SESSION 11 — STATE CONSENT AND INDIAN FEDERALISM
+#### Claim -> named evidence -> analysis -> qualification
 
-#### DEFINITION / WHAT THIS IS CALLED
+- **Claim:** Territory and subject-matter jurisdiction are independent legal gates.
+- **Named evidence:** Delhi Special Police Establishment Act, 1946, sections 2 and 3.
+- **Analysis:** A case can be nationally important yet fall outside a notified offence class; conversely, a notified offence does not itself authorise exercise of police power in every State. The two gates prevent prestige-based jurisdiction.
+- **Qualification:** Union Territory baseline remains subject to the Act and applicable criminal procedure; it is not a licence for unlawful investigation.
 
-**Plain-language definition:** Police and public order are primarily State List fields.
+#### Evidence and explanation
 
-**Technical definition:** The DSPE Act therefore uses a territorial-consent architecture when the Union police establishment exercises powers in a State.
+- [FACT] Section 2 is the statutory police-establishment base, not the provision that creates CBI as a bureau.
+- [FACT] Section 3 uses Central Government notification to identify offence classes.
+- [FACT] Connected offences may travel with a competent investigation as criminal law permits, but competence must first exist.
+- [FACT] Public demand, political resolution or media attention cannot replace statutory notification.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### Evidence checkpoint
 
-> The DSPE Act therefore uses a territorial-consent architecture when the Union police establishment exercises powers in a State.
+Prove **Territory and subject-matter jurisdiction are independent legal gates.** with **Delhi Special Police Establishment Act, 1946, sections 2 and 3.**; explain that **A case can be nationally important yet fall outside a notified offence class; conversely, a notified offence does not itself authorise exercise of police power in every State. The two gates prevent prestige-based jurisdiction.**; then close with this limit: **Union Territory baseline remains subject to the Act and applicable criminal procedure; it is not a licence for unlawful investigation.**
 
-#### MUST-WRITE KEYWORDS
+#### Prelims trap
 
-- **Indian Federalism**
-- **Standing consent for defined classes/categories**
-- **Reduces repeated administrative requests**
-- **Preserves closer State control**
-- **May contain conditions/riders**
-- **Scope depends on precise terms**
+Do not jump directly from 'CBI case' to nationwide jurisdiction without checking section 2 territory and section 3 offences.
 
-**How to use them:** Frame the answer through Indian Federalism; define Standing consent for defined classes/categories, connect Reduces repeated administrative requests with Preserves closer State control to explain the mechanism, and use May contain conditions/riders for the decisive comparison or qualification.
+#### Mains use
 
-[FACT] Police and public order are primarily State List fields. The DSPE Act therefore uses a territorial-consent architecture when the Union police establishment exercises powers in a State.
+Start a jurisdiction answer with the section 2-section 3 dual gate before discussing State consent.
 
-#### Visual 35 — Sections 5 and 6 as a Federal Sequence
+#### Recap
+
+section 2 asks where; section 3 asks what; neither alone completes jurisdiction.
+
+### SESSION 12 - DSPE SECTION 4: SUPERINTENDENCE SPLIT AND DIRECTOR'S ADMINISTRATION
+
+#### VISUAL FIRST
 
 ```text
-CENTRAL GOVERNMENT
-extends DSPE powers/jurisdiction to State area (section 5)
-                        |
-                        v
-STATE GOVERNMENT CONSENT (section 6)
-                        |
-                        v
-DSPE officers exercise police powers for the specified legal field
+DSPE INVESTIGATION SUBJECT
+            |
+   +--------+--------+
+   |                 |
+PC ACT            OTHER MATTERS
+   |                 |
+  CVC          CENTRAL GOVERNMENT
+s.4(1)              s.4(2)
+   \                 /
+    \               /
+     DIRECTOR: ADMINISTRATION s.4(3)
+
+  Special statute: Lokpal s.25 for Lokpal-referred matters
 ```
 
-*Caption: Extension and consent are distinct statutory steps; both must be read with offence notification and any court order.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-#### Visual 36 — General Consent vs Case-Specific Consent
+#### Definition
 
-| General consent | Case-specific consent |
-|---|---|
-| Standing consent for defined classes/categories | Consent for a named case, FIR, persons or facts |
-| Reduces repeated administrative requests | Preserves closer State control |
-| May contain conditions/riders | Scope depends on precise terms |
-| Can be prospectively withdrawn | Must be evaluated for each requested case |
+DSPE section 4 separates superintendence by subject: CVC for Prevention of Corruption Act investigations, Central Government for other matters, and administration of the police establishment in the Director.
 
-*Caption: “Consent” is not one undifferentiated instrument; its text, date, conditions and scope matter.*
+#### Answer-grabbing line
 
-[ANALYSIS] General consent supports speed and continuity. Case-specific consent gives States a stronger gatekeeping role. The institutional risk is reciprocal politicisation: refusal may obstruct neutral investigation, while over-centralisation may weaken federal trust.
+> CBI has no single universal controller: superintendence changes with the legal subject, while day-to-day administration is vested in the Director.
 
-#### Visual 37 — Withdrawal of General Consent
+#### Must-write keywords
+
+**section 4(1); CVC; PC Act; section 4(2); Central Government; section 4(3); administration; Director; Lokpal section 25**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** The statutory split distinguishes oversight policy from agency administration.
+- **Named evidence:** DSPE Act section 4; Lokpal and Lokayuktas Act section 25.
+- **Analysis:** The split addresses corruption-specific insulation through CVC while retaining executive superintendence for other DSPE work. Director administration supplies internal command; Lokpal creates a special override only for matters referred under its Act.
+- **Qualification:** Administrative placement under DoPT does not prove lawful case-specific political direction, and statutory superintendence does not permit dictating a result.
+
+#### Evidence and explanation
+
+- [FACT] CVC superintendence is not over every CBI division or case.
+- [FACT] Central Government superintendence remains for other DSPE matters, save a special statutory rule.
+- [FACT] The Director exercises specified Inspector-General-like powers over administration.
+- [FACT] Lokpal section 25 operates notwithstanding DSPE section 4 for Lokpal-referred preliminary inquiries/investigations.
+
+#### Evidence checkpoint
+
+Prove **The statutory split distinguishes oversight policy from agency administration.** with **DSPE Act section 4; Lokpal and Lokayuktas Act section 25.**; explain that **The split addresses corruption-specific insulation through CVC while retaining executive superintendence for other DSPE work. Director administration supplies internal command; Lokpal creates a special override only for matters referred under its Act.**; then close with this limit: **Administrative placement under DoPT does not prove lawful case-specific political direction, and statutory superintendence does not permit dictating a result.**
+
+#### Prelims trap
+
+Do not write 'CVC controls all CBI cases' or 'Central Government has no role in CBI.'
+
+#### Mains use
+
+Use the three-part split to diagnose where executive influence may arise and where legal safeguards apply.
+
+#### Recap
+
+PC Act -> CVC; other DSPE -> Centre; administration -> Director; Lokpal referrals -> special section 25 route.
+
+### SESSION 13 - DSPE SECTIONS 5 AND 6: EXTENSION, GENERAL CONSENT AND SPECIFIC CONSENT
+
+#### VISUAL FIRST
 
 ```text
-GENERAL CONSENT EXISTS
-       |
-CBI validly begins investigation
-       |
-STATE WITHDRAWS GENERAL CONSENT
-       |
-       +--> future/new cases: fresh legal authority ordinarily needed
-       |
-       +--> already-instituted investigation:
-            withdrawal does not automatically extinguish it
-            (*Kazi Lhendup Dorji v. CBI (1994)*, fact-specific rule)
+SECTION 3 NOTIFIED OFFENCE
+               |
+    SECTION 5 CENTRAL ORDER
+    extends powers to State area
+               |
+    SECTION 6 STATE CONSENT
+       /                         GENERAL CONSENT      SPECIFIC CONSENT
+standing, defined    named case/facts/officers
+categories/riders    instrument-specific scope
 ```
 
-*Caption: Withdrawal is prospective in the cited precedent; never write that it automatically nullifies every pending investigation.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-[FACT] In *Kazi Lhendup Dorji v. CBI (1994) v CBI* (1994), the Supreme Court held that withdrawal of consent did not operate retrospectively to terminate investigations already undertaken; CBI could complete them and submit the statutory police report.
+#### Definition
 
-[LIMIT] The holding does not create a free-standing power to start any later investigation without consent.
+Section 5 permits the Central Government to extend DSPE powers and jurisdiction to a State area for notified offences; section 6 requires the State Government's consent for their exercise there.
 
-#### Visual 38 — Union Territory Baseline
+#### Answer-grabbing line
 
-| Territory | DSPE baseline |
-|---|---|
-| Union Territory | Section 2 directly gives DSPE members the relevant police powers, subject to the Act |
-| State | Sections 5-6 ordinarily require extension plus State consent |
-| State under SC/HC direction | Constitutional-court direction is an independent authority route |
+> State consent is not administrative courtesy but the statutory expression of policing federalism in the ordinary DSPE State-area route.
 
-*Caption: A State-consent answer is incomplete if it fails to distinguish the Union Territory baseline.*
+#### Must-write keywords
 
-#### Visual 39 — Three Routes to a CBI/DSPE Investigation in a State
+**section 5 extension; section 6 consent; State List; police; public order; general consent; specific consent; riders**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Consent translates the State's constitutional police domain into a statutory investigative gate.
+- **Named evidence:** DSPE Act sections 5 and 6; Seventh Schedule, State List Entries 1 and 2.
+- **Analysis:** General consent reduces repetitive permissions for defined cases; specific consent gives closer State control over a named investigation. Both can be conditioned by text, date, persons, offences and territory.
+- **Qualification:** Consent is necessary in the ordinary executive route but does not bind constitutional courts exercising Articles 32 or 226.
+
+#### Evidence and explanation
+
+- [FACT] Section 5 extension and section 6 consent are distinct legal steps.
+- [FACT] General consent is a standing permission whose exact scope depends on its instrument.
+- [FACT] Specific consent is limited to the case, facts, persons or offences described.
+- [FACT] The roster of States granting or withholding general consent is volatile and should not be memorised without a dated official source.
+
+#### Evidence checkpoint
+
+Prove **Consent translates the State's constitutional police domain into a statutory investigative gate.** with **DSPE Act sections 5 and 6; Seventh Schedule, State List Entries 1 and 2.**; explain that **General consent reduces repetitive permissions for defined cases; specific consent gives closer State control over a named investigation. Both can be conditioned by text, date, persons, offences and territory.**; then close with this limit: **Consent is necessary in the ordinary executive route but does not bind constitutional courts exercising Articles 32 or 226.**
+
+#### Prelims trap
+
+Do not treat a Central Government order under section 5 as a substitute for State consent under section 6.
+
+#### Mains use
+
+Link sections 5-6 to State List policing, then balance autonomy with inter-State accountability needs.
+
+#### Recap
+
+notification -> extension -> consent; general and specific consent are different instruments.
+
+### SESSION 14 - WITHDRAWAL OF CONSENT: PROSPECTIVE EFFECT AND FACT-SENSITIVE LIMITS
+
+#### VISUAL FIRST
 
 ```text
-ROUTE A                         ROUTE B                         ROUTE C
-State consent                   Supreme Court                  High Court
-general/specific                Article 32                     Article 226
-    |                               |                              |
-DSPE Act route                 constitutional route            constitutional route
+VALID GENERAL CONSENT
+          |
+  investigation lawfully begins
+          |
+  State withdraws consent
+       /                          /                      EXISTING CASES      NEW CASES
+may continue under  fresh consent/order ordinarily needed
+Kazi Lhendup Dorji   after withdrawal
 
-Consent and court direction are legally distinct.
+Fertico: consent disputes remain fact- and prejudice-sensitive.
 ```
 
-*Caption: Constitutional courts do not “deem” State consent; they exercise their own constitutional power.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-#### CLOSING RECALL FLOW — STATE CONSENT AND INDIAN FEDERALISM
+#### Definition
 
-```text
-START / CONCEPT: STATE CONSENT AND INDIAN FEDERALISM
-        |
-        v
-EXACT TERMS: Indian Federalism · Standing consent for defined classes/categories · Reduces repeated administrative requests · Preserves closer State control · May contain conditions/riders · Scope depends on precise terms
-        |
-        v
-MECHANISM / ARGUMENT: In Kazi Lhendup Dorji v. CBI (1994) v CBI (1994), the Supreme Court held that withdrawal of consent did not operate retrospectively to terminate investigations already undertaken; CBI could complete them and submit the statutory police report.
-        |
-        v
-CONSEQUENCE / CONTRAST: The holding does not create a free-standing power to start any later investigation without consent.
-        |
-        v
-UPSC TRAP / ANSWER-USE: The institutional risk is reciprocal politicisation: refusal may obstruct neutral investigation, while over-centralisation may weaken federal trust.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The DSPE Act therefore uses a territorial-consent architecture when the Union police establishment exercises powers in a State.
-```
-### SESSION 12 — CONSTITUTIONAL COURTS AND THE CONSENT RULE
+Withdrawal of general consent ordinarily changes authority for future investigations; it does not automatically erase investigations validly begun while consent operated.
 
-#### DEFINITION / WHAT THIS IS CALLED
+#### Answer-grabbing line
 
-**Plain-language definition:** This session explains Constitutional Courts And The Consent Rule through the distinct legal roles of vigilance, investigation and accountability.
+> The legally safe formula is prospective withdrawal, continuity of validly instituted cases and close attention to the text and timing of consent.
 
-**Technical definition:** The Supreme Court and High Courts may direct a CBI investigation without State consent under Articles 32 and 226. This exceptional constitutional power preserves judicial review and does not erase the ordinary federal consent rule for executive extension under the DSPE Act.
+#### Must-write keywords
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+**withdrawal; prospective operation; existing investigation; new case; Kazi Lhendup Dorji; Fertico; timing; prejudice**
 
-> The Supreme Court and High Courts may direct a CBI investigation without State consent under Articles 32 and 226.
+#### Claim -> named evidence -> analysis -> qualification
 
-#### MUST-WRITE KEYWORDS
+- **Claim:** Consent withdrawal is meaningful without being retrospectively destructive.
+- **Named evidence:** Kazi Lhendup Dorji v CBI (1994); Fertico Marketing and Investment Pvt Ltd v CBI (2020).
+- **Analysis:** Prospective operation preserves legal certainty and completed investigative steps, while requiring a new authority route for later cases. Fertico illustrates that riders, parties, subsequent consent and pleaded prejudice can matter.
+- **Qualification:** Fertico must not be converted into a universal proposition that post-facto consent always cures an absent jurisdictional foundation.
 
-- **CONSTITUTIONAL**
-- **COURTS**
-- **CONSENT**
-- **RULE**
-- **CVC**
-- **CBI**
-- **DSPE**
+#### Evidence and explanation
 
-**How to use them:** Frame the answer through CONSTITUTIONAL; define COURTS, connect CONSENT with RULE to explain the mechanism, and use CVC for the decisive comparison or qualification.
+- [FACT] Kazi Lhendup Dorji allowed completion and statutory reporting of investigations validly initiated before withdrawal.
+- [FACT] The case does not confer permanent jurisdiction for every future investigation.
+- [FACT] Consent instruments may differ in offence, officer and territorial coverage.
+- [FACT] A completed investigation is not retrospectively invalid merely because general consent was later withdrawn.
 
-[FACT] In *State of West Bengal v State of West Bengal v. Committee for Protection of Democratic Rights (2010)*, a Constitution Bench held that a High Court may direct a CBI investigation in a State without State consent while exercising Article 226 power. The same constitutional logic applies to the Supreme Court under Article 32.
+#### Evidence checkpoint
 
-[FACT] The Court held that this does not violate the federal structure or separation of powers because judicial review is part of the Constitution and the courts enforce fundamental rights and legality.
+Prove **Consent withdrawal is meaningful without being retrospectively destructive.** with **Kazi Lhendup Dorji v CBI (1994); Fertico Marketing and Investment Pvt Ltd v CBI (2020).**; explain that **Prospective operation preserves legal certainty and completed investigative steps, while requiring a new authority route for later cases. Fertico illustrates that riders, parties, subsequent consent and pleaded prejudice can matter.**; then close with this limit: **Fertico must not be converted into a universal proposition that post-facto consent always cures an absent jurisdictional foundation.**
 
-[LIMIT] The Court also cautioned that the extraordinary power must be used **sparingly, cautiously and in exceptional situations**—not merely because allegations are made against local police.
+#### Prelims trap
 
-#### Visual 40 — *STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010)* Federal Balance
+Do not claim withdrawal automatically nullifies completed steps or, at the opposite extreme, has no legal effect.
+
+#### Mains use
+
+Use prospective operation to answer the official 2021 GS-II consent question precisely.
+
+#### Recap
+
+valid old case may continue; new case needs a fresh route; later consent questions are fact-specific.
+
+### SESSION 15 - ARTICLES 32 AND 226: CONSTITUTIONAL COURT DIRECTIONS WITHOUT STATE CONSENT
+
+#### VISUAL FIRST
 
 ```text
-STATE POLICE AUTONOMY                   CONSTITUTIONAL RIGHTS
+ORDINARY EXECUTIVE ROUTE                CONSTITUTIONAL ROUTE
+DSPE ss.5-6                             SC Art.32 / HC Art.226
+State consent required                  independent judicial power
         |                                      |
-        +-------------- balance ---------------+
-                           |
-                  SC / HC judicial review
-                           |
-              exceptional CBI direction possible
-                           |
-          no routine displacement of State police
+        +---------------+----------------------+
+                        |
+             FAIR INVESTIGATION / RIGHTS
+
+CPDR (2010): valid without State consent, but use sparingly,
+cautiously and in exceptional situations.
 ```
 
-*Caption: The judgment preserves federalism by making court-directed CBI investigation exceptional rather than unavailable.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-#### Visual 41 — What “Consent Is Not Absolute” Means
+#### Definition
 
-| Correct meaning | Incorrect overstatement |
-|---|---|
-| State consent controls the ordinary DSPE Act route | State consent has no constitutional value |
-| SC/HC may order CBI investigation without consent | Union executive can always ignore section 6 |
-| Existing valid investigations may survive later withdrawal | Withdrawal is always legally meaningless |
-| Other statute/court routes must be separately shown | CBI has inherent nationwide police jurisdiction |
+A High Court under Article 226 and the Supreme Court under Article 32 may direct a CBI investigation within a State without its consent because the authority flows from the Constitution, not from an executive bypass of section 6.
 
-*Caption: The federal answer is about qualified routes, not about declaring one level of government supreme in every case.*
+#### Answer-grabbing line
 
-#### CLOSING RECALL FLOW — CONSTITUTIONAL COURTS AND THE CONSENT RULE
+> CPDR preserves federalism by keeping State consent ordinary and constitutional-court displacement exceptional.
+
+#### Must-write keywords
+
+**Article 32; Article 226; judicial review; basic structure; fair investigation; CPDR 2010; exceptional; cautious**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Statutory consent cannot curtail constitutional judicial review.
+- **Named evidence:** State of West Bengal v Committee for Protection of Democratic Rights, West Bengal (2010), Constitution Bench.
+- **Analysis:** The Court reconciled State police autonomy with its duty to enforce fundamental rights and legality. The order is not deemed consent; it is an independent constitutional command binding public authorities.
+- **Qualification:** The power is not routine and cannot be claimed by the Union executive merely because it prefers CBI over State police.
+
+#### Evidence and explanation
+
+- [FACT] The Constitution Bench held that an Article 226 direction for CBI investigation without State consent is valid and does not violate federalism or separation of powers.
+- [FACT] Article 32 supports the Supreme Court's corresponding constitutional power.
+- [FACT] Judicial review is part of the Constitution's basic structure.
+- [FACT] The Court cautioned that CBI transfer should be sparing, cautious and exceptional.
+
+#### Evidence checkpoint
+
+Prove **Statutory consent cannot curtail constitutional judicial review.** with **State of West Bengal v Committee for Protection of Democratic Rights, West Bengal (2010), Constitution Bench.**; explain that **The Court reconciled State police autonomy with its duty to enforce fundamental rights and legality. The order is not deemed consent; it is an independent constitutional command binding public authorities.**; then close with this limit: **The power is not routine and cannot be claimed by the Union executive merely because it prefers CBI over State police.**
+
+#### Prelims trap
+
+Do not write 'State consent is never required' or 'the Union Government may invoke CPDR to ignore section 6.'
+
+#### Mains use
+
+Use CPDR as the qualification after explaining sections 5-6, not as the opening rule.
+
+#### Recap
+
+executive route needs consent; constitutional court route is independent, rights-based and exceptional.
+
+### SESSION 16 - VINEET NARAIN: INDEPENDENCE SAFEGUARDS AND THE SINGLE DIRECTIVE
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: CONSTITUTIONAL COURTS AND THE CONSENT RULE
-        |
-        v
-EXACT TERMS: CONSTITUTIONAL · COURTS · CONSENT · RULE · CVC · CBI · DSPE
-        |
-        v
-MECHANISM / ARGUMENT: The Supreme Court and High Courts may direct a CBI investigation without State consent under Articles 32 and 226. This exceptional constitutional power preserves judicial review and does not erase the ordinary federal consent rule for executive extension under the DSPE Act.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design preserves institutional role clarity and prevents a legally inaccurate one-agency narrative.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge CVC, CBI, departmental, prosecution and judicial powers or mutate the CVC, CBI and DSPE acronyms.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The Supreme Court and High Courts may direct a CBI investigation without State consent under Articles 32 and 226.
+PROBLEM: investigative inertia + executive interference
+                    |
+           VINEET NARAIN (1997)
+    +---------------+----------------+
+    |               |                |
+statutory CVC   CVC oversight     CBI Director
+trajectory      of PC Act work    minimum 2-year tenure
+    |               |                |
+committee-based selection/transfer safeguards
+    |
+Single Directive requiring approval for senior officers struck down
 ```
-### SESSION 13 — CONSENT CASE LAW: EXACT HOLDINGS, NARROW INFERENCES
 
-#### DEFINITION / WHAT THIS IS CALLED
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-**Plain-language definition:** The safe UPSC formulation is: consent defects require close attention to statutory text, timing, parties, prejudice and precedent.
+#### Definition
 
-**Technical definition:** In Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020) the Supreme Court dealt with the particular consent terms, private parties, the way State servants emerged during investigation, later consent, and the absence of a pleaded prejudice.
+Vineet Narain used continuing mandamus to prescribe institutional safeguards for CBI and Enforcement Directorate functioning pending legislation, including statutory CVC, corruption-investigation oversight, Director tenure and invalidation of the executive Single Directive.
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+#### Answer-grabbing line
 
-> The safe UPSC formulation is: consent defects require close attention to statutory text, timing, parties, prejudice and precedent.
+> Vineet Narain did not free CBI from law or government; it replaced opaque executive dependence with rule-bound supervision and tenure safeguards.
 
-#### MUST-WRITE KEYWORDS
+#### Must-write keywords
 
-- **Consent Case Law**
-- **Exact Holdings**
-- **Narrow Inferences**
-- **Kazi Lhendup Dorji v. CBI (1994) v CBI (1994)**
-- **Prospective-withdrawal principle; not blanket authority for new cases**
-- **Exceptional, cautious exercise**
+**Vineet Narain; 18 December 1997; continuing mandamus; statutory CVC; two-year tenure; Single Directive; committee safeguard; CBI Manual**
 
-**How to use them:** Frame the answer through Consent Case Law; define Exact Holdings, connect Narrow Inferences with Kazi Lhendup Dorji v. CBI (1994) v CBI (1994) to explain the mechanism, and use Prospective-withdrawal principle; not blanket authority for new cases for the decisive comparison or qualification.
+#### Claim -> named evidence -> analysis -> qualification
 
-#### Visual 42 — Consent Precedent Matrix
+- **Claim:** Investigative independence requires institutional design, not merely honest individuals.
+- **Named evidence:** Vineet Narain v Union of India, (1998) 1 SCC 226, judgment dated 18 December 1997.
+- **Analysis:** Fixed tenure reduces transfer pressure; plural selection reduces unilateral appointment; CVC oversight creates corruption-specific accountability; invalidating the Single Directive removed rank-based executive permission before investigation.
+- **Qualification:** Later statutes altered parts of the architecture; cite the judgment for its directions and trajectory, then state the current amended law.
 
-| Case | Holding useful for Topic 37 | Qualification |
-|---|---|---|
-| *Kazi Lhendup Dorji v. CBI (1994) v CBI* (1994) | Later withdrawal did not halt investigations validly initiated under earlier consent | Prospective-withdrawal principle; not blanket authority for new cases |
-| *State of West Bengal v STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010)* | HC/SC may constitutionally order CBI investigation without State consent | Exceptional, cautious exercise |
-| *Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020) and Investment Pvt Ltd v CBI* (2020) | On its facts, the Court rejected invalidity claims involving a general-consent rider, later emergence of State servants, subsequent consent and no pleaded prejudice | Do not generalise that “post-facto consent always cures” absence of consent |
-| *State of West Bengal v Union of India* (2024 INSC 502) | Supreme Court rejected a preliminary maintainability objection to the State’s original suit | Merits of the consent dispute were expressly not decided in that judgment |
+#### Evidence and explanation
 
-*Caption: Case names score only when paired with the narrow proposition actually decided.*
+- [FACT] The Court required statutory status for CVC.
+- [FACT] It made CVC responsible for CBI's efficient functioning in the anti-corruption oversight design and required structured reporting/review.
+- [FACT] Its then Director-selection direction used a CVC-headed committee with the Home Secretary and Secretary (Personnel); current section 4A now uses the post-Lokpal PM-LoP-CJI committee.
+- [FACT] It protected a minimum two-year tenure for the CBI Director, required committee control over premature transfer, and protected the Director's internal work-allocation freedom.
+- [FACT] It required adherence to the CBI Manual as an essential professional safeguard.
+- [FACT] It invalidated the Single Directive that protected senior officers through prior executive permission.
 
-#### Visual 43 — *Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)* Qualification Funnel
+#### Evidence checkpoint
+
+Prove **Investigative independence requires institutional design, not merely honest individuals.** with **Vineet Narain v Union of India, (1998) 1 SCC 226, judgment dated 18 December 1997.**; explain that **Fixed tenure reduces transfer pressure; plural selection reduces unilateral appointment; CVC oversight creates corruption-specific accountability; invalidating the Single Directive removed rank-based executive permission before investigation.**; then close with this limit: **Later statutes altered parts of the architecture; cite the judgment for its directions and trajectory, then state the current amended law.**
+
+#### Prelims trap
+
+Do not claim Vineet Narain created CBI, gave CVC control over all CBI work, or made investigation unaccountable.
+
+#### Mains use
+
+Use the case as the historical foundation for current sections 4, 4A and 4B and the CVC Act.
+
+#### Recap
+
+statutory vigilance + corruption oversight + secure Director + no rank-based executive shield.
+
+### SESSION 17 - SECTION 6A HISTORY, SUBRAMANIAN SWAMY, SECTION 17A AND SECTION 19
+
+#### VISUAL FIRST
 
 ```text
-Was there general consent with a rider?
-              |
-Did State-public-servant involvement emerge during investigation?
-              |
-Was later consent given?
-              |
-Was jurisdictional prejudice specifically pleaded/shown?
-              |
-FACT-SPECIFIC RESULT
+SINGLE DIRECTIVE (executive) ---- struck down in VINEET NARAIN
+             |
+DSPE SECTION 6A (statutory senior-rank approval)
+             |
+SUBRAMANIAN SWAMY (2014): struck down under Article 14
 
-Not a universal "later consent cures everything" rule.
+CURRENT DISTINCT GATES UNDER PC ACT
+s.17A: prior approval before inquiry/investigation of
+       recommendation/decision in official functions
+       exception: on-the-spot undue-advantage arrest
+s.19 : sanction before court takes cognizance of specified offences
 ```
 
-*Caption: The factual chain is part of the holding; removing it produces an unsafe generalisation.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-[FACT] In *Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)* the Supreme Court dealt with the particular consent terms, private parties, the way State servants emerged during investigation, later consent, and the absence of a pleaded prejudice.
+#### Definition
 
-[ANALYSIS] The safe UPSC formulation is: **consent defects require close attention to statutory text, timing, parties, prejudice and precedent.**
+Former DSPE section 6A created rank-based prior approval for investigation of senior officers and was invalidated in 2014; current PC Act sections 17A and 19 operate at different stages and on different statutory tests.
 
-#### Visual 44 — 2024 West Bengal Original-Suit Control
+#### Answer-grabbing line
+
+> The equality defect in section 6A cannot be used to erase today's distinct decision-linked investigation approval and prosecution-sanction gates.
+
+#### Must-write keywords
+
+**section 6A; Article 14; Subramanian Swamy 2014; PC Act section 17A; official decision; trap case; section 19; cognizance**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Rank-based immunity and function-linked procedural protection are legally different designs.
+- **Named evidence:** Subramanian Swamy v Director, CBI (2014); Prevention of Corruption Act sections 17A and 19.
+- **Analysis:** Section 6A protected a senior rank as a class and impeded even preliminary investigation; section 17A asks whether the allegation relates to a recommendation or decision in official duties, while section 19 governs the later court-cognizance stage.
+- **Qualification:** Section 17A applicability is fact-sensitive and contains the on-the-spot undue-advantage exception; approval or sanction is not a finding of innocence or guilt.
+
+#### Evidence and explanation
+
+- [FACT] The Constitution Bench struck down DSPE section 6A as violating Article 14.
+- [FACT] Section 17A requires previous approval before enquiry, inquiry or investigation into specified decision-linked official conduct.
+- [FACT] No section 17A approval is needed for an on-the-spot arrest for accepting or attempting to accept undue advantage.
+- [FACT] Section 19 concerns prior sanction before a court takes cognizance of specified PC Act offences.
+
+#### Evidence checkpoint
+
+Prove **Rank-based immunity and function-linked procedural protection are legally different designs.** with **Subramanian Swamy v Director, CBI (2014); Prevention of Corruption Act sections 17A and 19.**; explain that **Section 6A protected a senior rank as a class and impeded even preliminary investigation; section 17A asks whether the allegation relates to a recommendation or decision in official duties, while section 19 governs the later court-cognizance stage.**; then close with this limit: **Section 17A applicability is fact-sensitive and contains the on-the-spot undue-advantage exception; approval or sanction is not a finding of innocence or guilt.**
+
+#### Prelims trap
+
+Do not say Subramanian Swamy invalidated section 17A, or merge investigation approval with prosecution sanction.
+
+#### Mains use
+
+Use a stage table: before investigation (17A where attracted), investigation, sanction for cognizance (19), trial and judgment.
+
+#### Recap
+
+6A rank shield invalid; 17A decision-linked pre-investigation gate; 19 pre-cognizance prosecution gate.
+
+### SESSION 18 - CBI DIRECTOR: APPOINTMENT, TENURE, EXTENSION AND TRANSFER
+
+#### VISUAL FIRST
 
 ```text
-PRELIMINARY OBJECTION
-Is the Article 131 suit maintainable against Union?
-              |
-Supreme Court: objection rejected at this stage
-              |
-MERITS OF CONSENT / INVESTIGATIONS
-              |
-Not decided by the cited 10 July 2024 judgment
+DSPE s.4A COMMITTEE
+PM (Chair) + Lok Sabha LoP/largest opposition leader
++ CJI or nominated Supreme Court judge
+             |
+panel from IPS: seniority + integrity +
+anti-corruption investigation experience
+             |
+Central Government appoints Director
+
+s.4B: minimum 2 years
+extension: public interest + same committee + written reasons
+           one year at a time; aggregate maximum 5 years
+transfer: previous consent of s.4A committee
 ```
 
-*Caption: A maintainability ruling permits adjudication; it does not predetermine the final merits.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-[CURRENT] The package relies on the official 2024 judgment only for its stated preliminary result. It does not claim a later merits outcome without a separately verified official decision.
+#### Definition
 
-#### CLOSING RECALL FLOW — CONSENT CASE LAW: EXACT HOLDINGS, NARROW INFERENCES
+The current DSPE Act disperses CBI Director selection across government, opposition and judiciary; protects a two-year minimum; permits conditional annual extension up to five years in aggregate; and requires committee consent for transfer.
+
+#### Answer-grabbing line
+
+> The two-year floor protects continuity, while committee-based annual extension and a five-year ceiling prevent continuation from becoming an automatic entitlement.
+
+#### Must-write keywords
+
+**section 4A; Prime Minister; Leader of Opposition; CJI nominee; IPS panel; section 4B; two-year floor; written reasons; aggregate five years; transfer consent**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Selection, minimum tenure, extension and transfer address four different independence risks.
+- **Named evidence:** DSPE Act sections 4A and 4B; Lokpal Act amendments effective 16 January 2014; 2014 LoP-substitute amendment; DSPE Amendment Act, 2021.
+- **Analysis:** Plural selection limits unilateral choice; a minimum term protects continuity; transfer consent blocks disguised ouster; annual reasoned extensions require fresh institutional approval rather than a flat five-year appointment.
+- **Qualification:** The section 4A committee itself recommends the IPS panel; do not invent a separate CVC-chaired eligibility panel for the Director under current law.
+
+#### Evidence and explanation
+
+- [FACT] The Central Government appoints on the section 4A committee's recommendation.
+- [FACT] Where no recognised LoP exists, the leader of the single largest opposition party in Lok Sabha is the statutory substitute.
+- [FACT] The committee chooses an IPS panel on seniority, integrity and anti-corruption investigation experience.
+- [FACT] Each extension is up to one year at a time in public interest, on committee recommendation and written reasons, within five years total.
+
+#### Evidence checkpoint
+
+Prove **Selection, minimum tenure, extension and transfer address four different independence risks.** with **DSPE Act sections 4A and 4B; Lokpal Act amendments effective 16 January 2014; 2014 LoP-substitute amendment; DSPE Amendment Act, 2021.**; explain that **Plural selection limits unilateral choice; a minimum term protects continuity; transfer consent blocks disguised ouster; annual reasoned extensions require fresh institutional approval rather than a flat five-year appointment.**; then close with this limit: **The section 4A committee itself recommends the IPS panel; do not invent a separate CVC-chaired eligibility panel for the Director under current law.**
+
+#### Prelims trap
+
+Do not state an automatic five-year tenure or put the Home Minister/CVC on the current Director appointment committee.
+
+#### Mains use
+
+Evaluate the annual-extension incentive while preserving the distinction between valid framework and possible misuse in a particular decision.
+
+#### Recap
+
+PM-LoP-CJI committee; IPS criteria; two-year floor; conditional yearly extension; five-year ceiling; committee transfer consent.
+
+### SESSION 19 - ALOK KUMAR VERMA AND SENIOR PERSONNEL/PROSECUTION ARCHITECTURE
+
+#### VISUAL FIRST
 
 ```text
-START / CONCEPT: CONSENT CASE LAW: EXACT HOLDINGS, NARROW INFERENCES
-        |
-        v
-EXACT TERMS: Consent Case Law · Exact Holdings · Narrow Inferences · Kazi Lhendup Dorji v. CBI (1994) v CBI (1994) · Prospective-withdrawal principle; not blanket authority for new cases · Exceptional, cautious exercise
-        |
-        v
-MECHANISM / ARGUMENT: In Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020) the Supreme Court dealt with the particular consent terms, private parties, the way State servants emerged during investigation, later consent, and the absence of a pleaded prejudice.
-        |
-        v
-CONSEQUENCE / CONTRAST: It does not claim a later merits outcome without a separately verified official decision.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: it does not claim a later merits outcome without a separately verified official decision.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The safe UPSC formulation is: consent defects require close attention to statutory text, timing, parties, prejudice and precedent.
-```
-### SESSION 14 — THE VINEET NARAIN V. UNION OF INDIA (1997) SAFEGUARD ARCHITECTURE
+DIRECTOR PROTECTION
+formal transfer OR transfer-like divestment of powers
+             |
+ALOK KUMAR VERMA (2019)
+section 4A committee safeguard cannot be bypassed by label
 
-#### DEFINITION / WHAT THIS IS CALLED
+OTHER SENIOR POSTS
+s.4C committee: CVC (Chair) + VCs + Home Secretary + Personnel Secretary
+consult Director -> SP and above appointment/tenure recommendation
 
-**Plain-language definition:** This session explains The Vineet Narain v. Union of India (1997) Safeguard Architecture through the distinct legal roles of vigilance, investigation and accountability.
-
-**Technical definition:** Vineet Narain v. Union of India (1997) established institutional safeguards against extraneous control, including vigilance supervision and protection for the CBI Director. The case is an independence baseline, not authority for treating investigation, prosecution sanction and adjudication as a single process.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Vineet Narain v. Union of India (1997) established institutional safeguards against extraneous control, including vigilance supervision and protection for the CBI Director.
-
-#### MUST-WRITE KEYWORDS
-
-- **VINEET**
-- **NARAIN**
-- **SAFEGUARD**
-- **ARCHITECTURE**
-- **CVC**
-- **CBI**
-- **DSPE**
-
-**How to use them:** Frame the answer through VINEET; define NARAIN, connect SAFEGUARD with ARCHITECTURE to explain the mechanism, and use CVC for the decisive comparison or qualification.
-
-[FACT] *Vineet Narain v. Union of India (1997) v Union of India* (1997) arose from concern about investigative inertia and executive interference. The Supreme Court framed institutional directions pending suitable legislation.
-
-#### Visual 45 — *Vineet Narain v. Union of India (1997)* Safeguard Chain
-
-```text
-RISK: political/executive interference
-                |
-                v
-Statutory status for CVC
-                |
-CVC supervision over CBI anti-corruption work
-                |
-Protected minimum tenure for CBI Director
-                |
-Committee control over transfer
-                |
-Director's internal freedom in work allocation
-                |
-Compliance with CBI Manual / fair procedure
+s.4BA Director of Prosecution
+Central Government appoints on CVC recommendation
+minimum 2 years; overall supervision/control of CBI Director
 ```
 
-*Caption: The judgment addressed both external interference and internal investigative professionalism.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-[ANALYSIS] The post-*Vineet Narain v. Union of India (1997)* model is not “CBI outside government.” It is a set of legal buffers within a system that still requires administration, funding, staffing, legislative authority and judicial control.
+#### Definition
 
-#### Visual 46 — Judgment-to-Statute Trajectory
+The Director's statutory protection extends to transfer-like divestment of powers, while separate CVC-chaired and prosecution provisions govern other senior DSPE posts and the Directorate of Prosecution.
 
-| Judicial concern/direction | Later statutory expression |
-|---|---|
-| CVC should have statutory status | CVC Act, 2003 |
-| CVC supervision of anti-corruption investigation | CVC Act section 8; DSPE Act section 4 |
-| Director minimum two-year tenure | DSPE Act section 4B |
-| Committee role in appointment/transfer | DSPE Act sections 4A-4B |
-| Professional agency process | CBI Manual, criminal procedure and judicial review continue |
+#### Answer-grabbing line
 
-*Caption: Institutional reform moved from continuing mandamus to statutory codification.*
+> Independence safeguards follow the substance of an action, but the law deliberately uses different appointment routes for the Director, senior police posts and prosecution leadership.
 
-#### CLOSING RECALL FLOW — THE VINEET NARAIN V. UNION OF INDIA (1997) SAFEGUARD ARCHITECTURE
+#### Must-write keywords
 
-```text
-START / CONCEPT: THE VINEET NARAIN V. UNION OF INDIA (1997) SAFEGUARD ARCHITECTURE
-        |
-        v
-EXACT TERMS: VINEET · NARAIN · SAFEGUARD · ARCHITECTURE · CVC · CBI · DSPE
-        |
-        v
-MECHANISM / ARGUMENT: Vineet Narain v. Union of India (1997) established institutional safeguards against extraneous control, including vigilance supervision and protection for the CBI Director. The case is an independence baseline, not authority for treating investigation, prosecution sanction and adjudication as a single process.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design preserves institutional role clarity and prevents a legally inaccurate one-agency narrative.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge CVC, CBI, departmental, prosecution and judicial powers or mutate the CVC, CBI and DSPE acronyms.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Vineet Narain v. Union of India (1997) established institutional safeguards against extraneous control, including vigilance supervision and protection for the CBI Director.
-```
-### SESSION 15 — JUDICIAL CONTROLS ON DIRECTOR INDEPENDENCE
+**Alok Kumar Verma 2019; divestment; transfer-equivalent; section 4C; SP and above; section 4BA; Director of Prosecution**
 
-#### DEFINITION / WHAT THIS IS CALLED
+#### Claim -> named evidence -> analysis -> qualification
 
-**Plain-language definition:** This session explains Judicial Controls On Director Independence through the distinct legal roles of vigilance, investigation and accountability.
+- **Claim:** Procedural safeguards cannot be defeated by relabelling an ouster as an interim administrative measure.
+- **Named evidence:** Alok Kumar Verma v Union of India (8 January 2019); DSPE Act sections 4BA and 4C.
+- **Analysis:** The case protects institutional continuity at the top; section 4C adds plural input for SP-and-above staffing; section 4BA separates prosecution leadership while keeping overall supervision in the CBI Director.
+- **Qualification:** The judgment restored statutory process; it did not grant the Director immunity from lawful committee action or investigation.
 
-**Technical definition:** The CBI Director is selected through the statutory high-level committee and has a minimum two-year tenure. Annual extensions require committee recommendation and recorded reasons, and total tenure cannot exceed five years; transfer or divestment safeguards should not be misstated as a complete removal code.
+#### Evidence and explanation
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+- [FACT] The Supreme Court set aside orders divesting the Director of powers because the statutory committee process had been bypassed.
+- [FACT] Section 4C's committee is CVC-led and covers SP-and-above posts except Director after consulting the Director.
+- [FACT] The Director of Prosecution is at least Joint Secretary rank and conducts prosecution of cases under the Act.
+- [FACT] The Central Government appoints the Director of Prosecution on CVC recommendation; minimum tenure is two years.
 
-> The CBI Director is selected through the statutory high-level committee and has a minimum two-year tenure.
+#### Evidence checkpoint
 
-#### MUST-WRITE KEYWORDS
+Prove **Procedural safeguards cannot be defeated by relabelling an ouster as an interim administrative measure.** with **Alok Kumar Verma v Union of India (8 January 2019); DSPE Act sections 4BA and 4C.**; explain that **The case protects institutional continuity at the top; section 4C adds plural input for SP-and-above staffing; section 4BA separates prosecution leadership while keeping overall supervision in the CBI Director.**; then close with this limit: **The judgment restored statutory process; it did not grant the Director immunity from lawful committee action or investigation.**
 
-- **JUDICIAL**
-- **CONTROLS**
-- **DIRECTOR**
-- **INDEPENDENCE**
-- **CVC**
-- **CBI**
-- **DSPE**
+#### Prelims trap
 
-**How to use them:** Frame the answer through JUDICIAL; define CONTROLS, connect DIRECTOR with INDEPENDENCE to explain the mechanism, and use CVC for the decisive comparison or qualification.
+Do not confuse section 4A Director selection with the section 4C CVC-chaired senior-post committee.
 
-#### Visual 47 — Director Cases and Principles
+#### Mains use
 
-| Case | Principle |
-|---|---|
-| *Vineet Narain v. Union of India (1997)* | Fixed minimum tenure, oversight and professional autonomy safeguards |
-| *Common Cause* line of institutional litigation | Reinforced concern with lawful selection, tenure and non-arbitrary executive action |
-| *Alok Kumar Verma v. Union of India (2019)* | Divesting powers can be transfer-equivalent; committee safeguard cannot be evaded by label |
-| *Dr Jaya Thakur v. Union of India (2023)* | 2021 extension framework upheld; statutory conditions control each extension |
+Use Alok Verma to show why tenure protection must cover functional displacement, not merely a formal transfer order.
 
-*Caption: Judicial doctrine protects process, not personal entitlement to office.*
+#### Recap
 
-#### Visual 48 — Tenure Is a Floor, Extension Is Conditional
+Director: section 4A committee; SP+ posts: section 4C CVC committee; prosecution head: section 4BA.
 
-```text
-MINIMUM TENURE                         EXTENDED TENURE
---------------                         ---------------
-Institutional protection               Not automatic
-Prevents premature displacement        Fresh statutory satisfaction
-Committee control over transfer        One year at a time
-                                       Aggregate ceiling
-```
+### SESSION 20 - LOKPAL-CVC-CBI INTERFACE UNDER THE 2013 ACT
 
-*Caption: Independence requires a secure floor; accountability requires reasoned controls above that floor.*
-
-[LIMIT] The legal five-year maximum is not a guarantee that every Director will or should serve five years.
-
-#### CLOSING RECALL FLOW — JUDICIAL CONTROLS ON DIRECTOR INDEPENDENCE
-
-```text
-START / CONCEPT: JUDICIAL CONTROLS ON DIRECTOR INDEPENDENCE
-        |
-        v
-EXACT TERMS: JUDICIAL · CONTROLS · DIRECTOR · INDEPENDENCE · CVC · CBI · DSPE
-        |
-        v
-MECHANISM / ARGUMENT: The CBI Director is selected through the statutory high-level committee and has a minimum two-year tenure. Annual extensions require committee recommendation and recorded reasons, and total tenure cannot exceed five years; transfer or divestment safeguards should not be misstated as a complete removal code.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design preserves institutional role clarity and prevents a legally inaccurate one-agency narrative.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge CVC, CBI, departmental, prosecution and judicial powers or mutate the CVC, CBI and DSPE acronyms.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The CBI Director is selected through the statutory high-level committee and has a minimum two-year tenure.
-```
-### SESSION 16 — “CAGED PARROT”: USE AS CONTEXT, NOT RATIO
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** This session explains “Caged Parrot”: Use As Context, Not Ratio through the distinct legal roles of vigilance, investigation and accountability.
-
-**Technical definition:** The Supreme Court’s “caged parrot” description expressed concern about external influence. It is a critique supporting structural reform, transparent appointments, stable tenure and accountable autonomy—not a rule that every CBI investigation is legally invalid.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> The Supreme Court’s “caged parrot” description expressed concern about external influence.
-
-#### MUST-WRITE KEYWORDS
-
-- **CAGED**
-- **PARROT**
-- **RATIO**
-- **CVC**
-- **CBI**
-- **DSPE**
-
-**How to use them:** Frame the answer through CAGED; define PARROT, connect RATIO with CVC to explain the mechanism, and use CBI for the decisive comparison or qualification.
-
-[FACT] The phrase “caged parrot speaking in its master’s voice” entered public discourse through Supreme Court courtroom criticism during coal-block investigation proceedings.
-
-[LIMIT] It should be used as **judicial criticism and institutional context**, not presented as the binding ratio of a reported judgment creating a new legal test.
-
-#### Visual 49 — Safe Use of the Metaphor
-
-| Weak answer | Strong answer |
-|---|---|
-| “Supreme Court held CBI is a caged parrot; therefore all its probes are invalid.” | “The courtroom criticism captured public concern over executive influence; enforceable safeguards must still be traced to statute and judgments such as *Vineet Narain v. Union of India (1997)* and *Alok Verma*.” |
-
-*Caption: Metaphor diagnoses a legitimacy problem; legal analysis identifies the actual remedy.*
-
-#### CLOSING RECALL FLOW — “CAGED PARROT”: USE AS CONTEXT, NOT RATIO
-
-```text
-START / CONCEPT: “CAGED PARROT”: USE AS CONTEXT, NOT RATIO
-        |
-        v
-EXACT TERMS: CAGED · PARROT · RATIO · CVC · CBI · DSPE
-        |
-        v
-MECHANISM / ARGUMENT: The Supreme Court’s “caged parrot” description expressed concern about external influence. It is a critique supporting structural reform, transparent appointments, stable tenure and accountable autonomy—not a rule that every CBI investigation is legally invalid.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design preserves institutional role clarity and prevents a legally inaccurate one-agency narrative.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge CVC, CBI, departmental, prosecution and judicial powers or mutate the CVC, CBI and DSPE acronyms.
-        |
-        v
-ANSWER-GRABBING FORMULATION: The Supreme Court’s “caged parrot” description expressed concern about external influence.
-```
-### SESSION 17 — LOKPAL, CVC, CBI AND CVO: COMPLEMENTARY, NOT HIERARCHICAL DUPLICATES
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Lokpal, CVC, CBI and departmental CVOs perform connected but legally distinct anti-corruption roles.
-
-**Technical definition:** Lokpal receives and routes covered complaints, CVC supervises vigilance and specified DSPE work, CBI investigates, and CVOs administer departmental vigilance.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Lokpal, CVC, CBI and CVO are complementary institutions, not hierarchical duplicates.
-
-#### MUST-WRITE KEYWORDS
-
-- **Lokpal**
-- **CVC**
-- **CBI**
-- **CVO**
-- **Inquiry Wing**
-- **investigation**
-- **vigilance**
-- **referral**
-
-**How to use them:** Frame the answer through Lokpal; define CVC, connect CBI with CVO to explain the mechanism, and use Inquiry Wing for the decisive comparison or qualification.
-
-[FACT] The Lokpal Act creates its own Inquiry Wing and Prosecution Wing. On receiving a complaint and deciding to proceed, the Lokpal may order preliminary inquiry by its Inquiry Wing or an agency including DSPE, or investigation by an agency including DSPE when a prima facie case exists, subject to the Act’s procedure.
-
-[FACT] For preliminary inquiry into complaints concerning Group A-D public servants, section 20 routes the complaints to CVC. The CVC reports Group A-B preliminary inquiries to Lokpal; for Group C-D it proceeds under the CVC Act as the Lokpal Act states.
-
-[FACT] For a matter referred to DSPE, section 25 gives Lokpal superintendence and direction notwithstanding DSPE section 4 and CVC section 8, but Lokpal too cannot require investigation/disposal in a particular manner.
-
-#### Visual 50 — Lokpal Complaint Route
+#### VISUAL FIRST
 
 ```text
 COMPLAINT TO LOKPAL
-        |
-Lokpal decides whether to proceed
-        |
-        +--> Preliminary inquiry
-        |       |
-        |       +--> Group A/B/C/D route to CVC as section 20 provides
-        |       +--> Inquiry Wing / agency in other permitted route
-        |
-        +--> Investigation when prima facie case exists
+              |
+      Lokpal decides statutory route
+       /                            PRELIMINARY INQUIRY          INVESTIGATION
+       |                      |
+CVC route for specified       agency including DSPE
+Group A-D references          |
+ |              |             |
+A/B -> report to Lokpal       Lokpal s.25 superintendence
+C/D -> CVC Act action         no particular-case dictation
+              \               /
+               prosecution / departmental / closure decision
+```
+
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
+
+#### Definition
+
+The Lokpal Act creates a special complaint, preliminary-inquiry, investigation and supervision interface with CVC and DSPE rather than making all three bodies a permanent hierarchy.
+
+#### Answer-grabbing line
+
+> Lokpal changes the route for referred matters, not the legal identity of CVC or CBI.
+
+#### Must-write keywords
+
+**Lokpal Act 2013; section 20; Group A-B; Group C-D; CVC reference; section 25; superintendence; transfer approval**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Referral-specific authority can override ordinary superintendence without merging institutions.
+- **Named evidence:** Lokpal and Lokayuktas Act sections 20 and 25; corresponding CVC Act amendments including sections 8A and 8B.
+- **Analysis:** The design uses CVC's vigilance network for preliminary inquiry and DSPE's police capacity for investigation, while Lokpal retains decision and supervision powers for matters referred under its Act.
+- **Qualification:** For Groups A-B, CVC reports the preliminary inquiry to Lokpal; for Groups C-D, CVC proceeds under the amended CVC Act framework. Exact procedure depends on the Lokpal route selected.
+
+#### Evidence and explanation
+
+- [FACT] Section 20 permits Lokpal to route specified Group A-D preliminary-inquiry complaints to CVC.
+- [FACT] CVC reports Group A-B preliminary inquiries back to Lokpal for statutory decision.
+- [FACT] For Group C-D references, CVC proceeds under its amended Act, including sections 8A-8B.
+- [FACT] Section 25 gives Lokpal superintendence over DSPE matters referred by it and protects investigating officers from transfer without Lokpal approval.
+
+#### Evidence checkpoint
+
+Prove **Referral-specific authority can override ordinary superintendence without merging institutions.** with **Lokpal and Lokayuktas Act sections 20 and 25; corresponding CVC Act amendments including sections 8A and 8B.**; explain that **The design uses CVC's vigilance network for preliminary inquiry and DSPE's police capacity for investigation, while Lokpal retains decision and supervision powers for matters referred under its Act.**; then close with this limit: **For Groups A-B, CVC reports the preliminary inquiry to Lokpal; for Groups C-D, CVC proceeds under the amended CVC Act framework. Exact procedure depends on the Lokpal route selected.**
+
+#### Prelims trap
+
+Do not describe Lokpal as CBI's permanent administrative superior or CVC as deciding every Lokpal complaint.
+
+#### Mains use
+
+Use the referral map to explain coordination without collapsing vigilance, investigation and prosecution.
+
+#### Recap
+
+Lokpal receives and routes; CVC conducts specified preliminary inquiry; DSPE investigates; special superintendence attaches only to referred matters.
+
+### SESSION 21 - INVESTIGATION, PROSECUTION AND COURT: THE COMPLETE CASE LIFECYCLE
+
+#### VISUAL FIRST
+
+```text
+complaint / source information / reference
                 |
-                +--> agency including DSPE
-                        |
-                        +--> report to jurisdictional court
-                        +--> copy to Lokpal
+   jurisdiction + offence + threshold
+                |
+    PE where appropriate OR FIR/RC
+                |
+         lawful investigation
+ documents | witnesses | search | forensics
+                |
+  s.17A approval where attracted
+                |
+      charge sheet / closure report
+                |
+     s.19 sanction where required
+                |
+  court cognizance -> trial -> judgment
 ```
 
-*Caption: Lokpal can route work to CVC/CBI while retaining the specific statutory role assigned by its Act.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-#### Visual 51 — Four-Institution Relationship
+#### Definition
 
-| Institution | Primary role | Typical output |
-|---|---|---|
-| Lokpal | Statutory complaint scrutiny, inquiry/investigation direction, supervision for referred matters | Closure, departmental direction, charge-sheet/prosecution direction as Act provides |
-| CVC | Central vigilance supervision, advice, inquiry routing and DSPE anti-corruption oversight | Vigilance advice, inquiry/investigation referral, progress review |
-| CBI/DSPE | Police investigation | FIR/regular case, evidence, final police report/charge sheet or closure |
-| CVO | Departmental preventive and punitive vigilance coordination | System correction, fact report, disciplinary processing, referral |
+A corruption case moves through legally distinct threshold, investigation, approval, prosecution and adjudication stages; no stage may be treated as proof of the next.
 
-*Caption: The relationship is a legally allocated workflow, not a single chain of command.*
+#### Answer-grabbing line
 
-#### Visual 52 — Lokpal Prosecution Wing
+> CBI gathers and presents evidence, the prosecution advances the case, and the court alone converts proof beyond reasonable doubt into conviction.
+
+#### Must-write keywords
+
+**preliminary enquiry; FIR/Regular Case; cognizable offence; evidence; final report; charge sheet; closure; sanction; cognizance; trial**
+
+#### Claim -> named evidence -> analysis -> qualification
+
+- **Claim:** Due process is a sequence of evidentiary thresholds, not an obstacle external to anti-corruption effectiveness.
+- **Named evidence:** Lalita Kumari v Government of Uttar Pradesh; CBI v Thommandru Hannah Vijayalakshmi (2021); PC Act sections 17A and 19.
+- **Analysis:** Direct FIR registration is permissible when information discloses a cognizable offence; preliminary enquiry can screen uncertain information but cannot become indefinite delay. Later approvals, prosecution and trial test different legal questions.
+- **Qualification:** A preliminary enquiry is not mandatory in every corruption case and is not a right of the proposed accused.
+
+#### Evidence and explanation
+
+- [FACT] Thommandru confirms that CBI may register a Regular Case directly when cognizable-offence information exists.
+- [FACT] Investigation may end in a charge sheet or closure report; the court considers the report.
+- [FACT] Prosecution sanction does not establish guilt, and refusal does not rewrite the underlying facts.
+- [FACT] Presumption of innocence continues through investigation and prosecution.
+
+#### Evidence checkpoint
+
+Prove **Due process is a sequence of evidentiary thresholds, not an obstacle external to anti-corruption effectiveness.** with **Lalita Kumari v Government of Uttar Pradesh; CBI v Thommandru Hannah Vijayalakshmi (2021); PC Act sections 17A and 19.**; explain that **Direct FIR registration is permissible when information discloses a cognizable offence; preliminary enquiry can screen uncertain information but cannot become indefinite delay. Later approvals, prosecution and trial test different legal questions.**; then close with this limit: **A preliminary enquiry is not mandatory in every corruption case and is not a right of the proposed accused.**
+
+#### Prelims trap
+
+Do not write PE -> FIR -> arrest -> conviction as an automatic chain.
+
+#### Mains use
+
+Use the lifecycle to place section 17A, section 19, CVC review and the Director of Prosecution in their proper stages.
+
+#### Recap
+
+threshold -> lawful investigation -> final report -> sanction/cognizance -> trial -> court verdict.
+
+### SESSION 22 - FEDERALISM, CONTROL ALLEGATIONS, CAPACITY PROBLEMS AND REFORMS
+
+#### VISUAL FIRST
 
 ```text
-INVESTIGATION REPORT
-        |
-Lokpal bench considers statutory options
-        |
-        +--> closure
-        +--> departmental proceedings
-        +--> sanction / direction to file charge sheet
-                         |
-                         v
-              Prosecution Wing or agency
-                         |
-                         v
-                    Special Court
+STRUCTURAL RISKS                    MATCHED REFORMS
+resolution-based CBI status   -> dedicated law after federal consultation
+executive staffing/budget     -> protected, audited functional capacity
+consent disputes              -> lawful model protocols and joint teams
+deputation gaps               -> stable multidisciplinary cadre
+forensic delay                -> laboratories, digital evidence standards
+sanction/prosecution delay     -> time tracking and reasoned decisions
+selective-use perception      -> auditable allocation and recusals
+weak reporting                -> aggregate parliamentary scrutiny
 ```
 
-*Caption: The Prosecution Wing acts after Lokpal direction and within the statutory case route; it is not the CBI’s general prosecution hierarchy.*
+*Caption: The diagram isolates the legal mechanism and the boundary most likely to be tested.*
 
-#### CLOSING RECALL FLOW — LOKPAL, CVC, CBI AND CVO: COMPLEMENTARY, NOT HIERARCHICAL DUPLICATES
+#### Definition
 
-```text
-START / CONCEPT: LOKPAL, CVC, CBI AND CVO: COMPLEMENTARY, NOT HIERARCHICAL DUPLICATES
-        |
-        v
-EXACT TERMS: Lokpal · CVC · CBI · CVO · Inquiry Wing · investigation · vigilance · referral
-        |
-        v
-MECHANISM / ARGUMENT: A complaint follows the competent statutory referral, preliminary inquiry, investigation, sanction and departmental or prosecutorial route.
-        |
-        v
-CONSEQUENCE / CONTRAST: Clear role separation prevents duplication and preserves accountability at each stage.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not state that Lokpal administratively controls every CBI case or that CVC prosecutes offences.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Lokpal, CVC, CBI and CVO are complementary institutions, not hierarchical duplicates.
-```
-### SESSION 18 — INVESTIGATION LIFECYCLE AND SAFEGUARDS
+CVC-CBI performance is shaped by institutional law, federal trust, personnel, forensics, prosecution coordination, transparency and the risk of improper political control.
 
-#### DEFINITION / WHAT THIS IS CALLED
+#### Answer-grabbing line
 
-**Plain-language definition:** In CBI v CBI v. Thommandru Hannah Vijayalakshmi (2021), the Supreme Court held that a Preliminary Enquiry is not mandatory before every corruption FIR.
+> The reform goal is neither a 'caged' agency nor an unanswerable police force, but operational insulation within federal, statutory, parliamentary and judicial limits.
 
-**Technical definition:** A Preliminary Enquiry remains valuable in an appropriate case but cannot be demanded by the accused as a right.
+#### Must-write keywords
 
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
+**federalism; political control allegation; general consent; manpower; deputation; forensics; prosecution delay; statutory charter; audit; parliamentary accountability**
 
-> In CBI v CBI v. Thommandru Hannah Vijayalakshmi (2021), the Supreme Court held that a Preliminary Enquiry is not mandatory before every corruption FIR.
+#### Claim -> named evidence -> analysis -> qualification
 
-#### MUST-WRITE KEYWORDS
+- **Claim:** Every autonomy reform needs a reciprocal accountability safeguard.
+- **Named evidence:** Vineet Narain safeguards; DSPE sections 4-6; CVC annual-report architecture; recurrent parliamentary and administrative reform debate.
+- **Analysis:** Staffing and budget dependence can influence capacity; consent disputes can delay cross-border cases; weak forensics can reduce evidentiary quality; sanction and prosecution delays can neutralise investigation. Transparent criteria and protected professional systems answer these mechanisms better than slogans.
+- **Qualification:** Allegations of political misuse require case-specific evidence; structural vulnerability is not proof that every investigation is controlled.
 
-- **Investigation Lifecycle**
-- **Safeguards**
-- **Limited threshold verification where appropriate**
-- **Formal registration of cognizable offence information**
-- **Starts statutory investigation**
-- **Not mandatory in every corruption case**
+#### Evidence and explanation
 
-**How to use them:** Frame the answer through Investigation Lifecycle; define Safeguards, connect Limited threshold verification where appropriate with Formal registration of cognizable offence information to explain the mechanism, and use Starts statutory investigation for the decisive comparison or qualification.
+- [FACT] A dedicated CBI law remains a reform proposal, not current law.
+- [FACT] A permanent multidisciplinary cadre must retain external accountability and federal sensitivity.
+- [FACT] Consent protocols cannot amend section 6 by executive convenience.
+- [FACT] Parliamentary reporting should use aggregate data without prejudicing live investigations or trials.
+- [FACT] CVC reforms should strengthen CVO independence, reasoned compliance and preventive vigilance without granting conviction power.
 
-#### Visual 53 — Investigation Lifecycle
+#### Evidence checkpoint
 
-```text
-COMPLAINT / SOURCE INFORMATION / REFERENCE
-                    |
-        Does information disclose a cognizable offence?
-              /                         \
-            YES                         UNCLEAR
-             |                            |
-   FIR / Regular Case may be       Preliminary Enquiry may be
-   registered directly             used in an appropriate case
-              \                         /
-                     INVESTIGATION
-                         |
-          documents / witnesses / searches /
-          expert evidence / suspect response
-                         |
-       statutory approvals or sanctions where applicable
-                         |
-           FINAL REPORT TO COMPETENT COURT
-              /                         \
-        charge sheet                 closure report
-              \                         /
-                  judicial consideration
-                         |
-                   trial if instituted
-                         |
-                 acquittal / conviction
-```
+Prove **Every autonomy reform needs a reciprocal accountability safeguard.** with **Vineet Narain safeguards; DSPE sections 4-6; CVC annual-report architecture; recurrent parliamentary and administrative reform debate.**; explain that **Staffing and budget dependence can influence capacity; consent disputes can delay cross-border cases; weak forensics can reduce evidentiary quality; sanction and prosecution delays can neutralise investigation. Transparent criteria and protected professional systems answer these mechanisms better than slogans.**; then close with this limit: **Allegations of political misuse require case-specific evidence; structural vulnerability is not proof that every investigation is controlled.**
 
-*Caption: Preliminary Enquiry is not a mandatory right of the accused, and an FIR is not a finding of guilt.*
+#### Prelims trap
 
-[FACT] In *CBI v CBI v. Thommandru Hannah Vijayalakshmi (2021)*, the Supreme Court held that a Preliminary Enquiry is not mandatory before every corruption FIR. If complaint or “source information” discloses a cognizable offence, CBI may directly register a Regular Case. A Preliminary Enquiry remains valuable in an appropriate case but cannot be demanded by the accused as a right.
+Do not convert 'caged parrot' criticism into a binding rule invalidating all CBI work.
 
-[FACT] *Lalita Kumari* requires FIR registration when information discloses a cognizable offence; limited preliminary inquiry remains permissible.
+#### Mains use
 
-[CURRENT] Older judgments use the Code of Criminal Procedure terminology applicable when decided. Current procedure must be read with the Bharatiya Nagarik Suraksha Sanhita, 2023 and operative transition provisions; this package preserves the judgments’ principles without pretending that every old section citation is the current code label.
+Conclude with operational independence + legal answerability + cooperative federalism + due process.
 
-#### Visual 54 — PE vs FIR
+#### Recap
 
-| Preliminary Enquiry (PE) | FIR/Regular Case |
-|---|---|
-| Limited threshold verification where appropriate | Formal registration of cognizable offence information |
-| Asks whether a cognizable offence is disclosed | Starts statutory investigation |
-| Not mandatory in every corruption case | Required when legal registration threshold is met |
-| Not a mini-trial | Not proof that allegation is true |
-| Cannot become indefinite delay | Must be investigated fairly and lawfully |
-
-*Caption: PE protects against abuse at the threshold; FIR protects the duty to investigate disclosed crime.*
-
-#### Visual 55 — Safeguard Gates
-
-```text
-JURISDICTION GATE
-offence + territory + consent/order
-        |
-THRESHOLD GATE
-PE where appropriate / FIR where required
-        |
-PUBLIC-SERVANT DECISION GATE
-PC Act section 17A approval where legally attracted
-        |
-INVESTIGATION GATE
-fair procedure + evidence integrity + judicial warrants where required
-        |
-PROSECUTION GATE
-sanction under applicable law where required
-        |
-TRIAL GATE
-open adjudication + defence rights + proof beyond reasonable doubt
-```
-
-*Caption: Anti-corruption effectiveness and due process are sequential complements, not opposites.*
-
-[FACT] PC Act section 17A governs previous approval for enquiry, inquiry or investigation into specified allegations relatable to a public servant’s recommendation or decision in discharge of official functions, subject to its statutory exceptions. Section 19 governs previous sanction for court cognizance of specified PC Act offences.
-
-[LIMIT] Approval/sanction is not a declaration of innocence or guilt. Its applicability depends on the statutory conditions and facts.
-
-#### Visual 56 — Presumption of Innocence
-
-```text
-ALLEGATION != FIR != ARREST != CHARGE SHEET != CONVICTION
-
-Each stage has a different legal threshold.
-Only the competent court determines criminal guilt after trial.
-```
-
-*Caption: CBI recommendations and media reporting cannot replace adjudication.*
-
-#### CLOSING RECALL FLOW — INVESTIGATION LIFECYCLE AND SAFEGUARDS
-
-```text
-START / CONCEPT: INVESTIGATION LIFECYCLE AND SAFEGUARDS
-        |
-        v
-EXACT TERMS: Investigation Lifecycle · Safeguards · Limited threshold verification where appropriate · Formal registration of cognizable offence information · Starts statutory investigation · Not mandatory in every corruption case
-        |
-        v
-MECHANISM / ARGUMENT: A Preliminary Enquiry remains valuable in an appropriate case but cannot be demanded by the accused as a right.
-        |
-        v
-CONSEQUENCE / CONTRAST: Approval/sanction is not a declaration of innocence or guilt.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not miss this limiting distinction: lalita Kumari requires FIR registration when information discloses a cognizable offence.
-        |
-        v
-ANSWER-GRABBING FORMULATION: In CBI v CBI v. Thommandru Hannah Vijayalakshmi (2021), the Supreme Court held that a Preliminary Enquiry is not mandatory before every corruption FIR.
-```
-### SESSION 19 — COMPARISON: CVC, CBI, LOKPAL, ED, NIA AND STATE AGENCIES
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Anti-corruption and investigative bodies differ in legal source, offence field, coercive power and accountability.
-
-**Technical definition:** CVC advises and supervises specified vigilance work; CBI uses DSPE police powers; Lokpal has statutory inquiry/referral powers; ED, NIA and State police follow separate statutes.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Comparison must begin with each institution’s legal source rather than its acronym or political visibility.
-
-#### MUST-WRITE KEYWORDS
-
-- **CVC**
-- **CBI**
-- **Lokpal**
-- **ED**
-- **NIA**
-- **legal source**
-- **jurisdiction**
-
-**How to use them:** Frame the answer through CVC; define CBI, connect Lokpal with ED to explain the mechanism, and use NIA for the decisive comparison or qualification.
-
-#### Visual 57 — Full Comparison Matrix
-
-| Body | Legal basis | Core domain |
-|---|---|---|
-| CVC | CVC Act, 2003 | Central vigilance and anti-corruption supervision |
-| CBI/DSPE | CBI resolution + DSPE Act | Anti-corruption, economic offences, selected special crimes |
-| Lokpal | Lokpal and Lokayuktas Act, 2013 | Corruption complaints against covered Union public servants |
-| ED | FEMA, PMLA and related law | Foreign exchange and money laundering |
-| NIA | NIA Act, 2008 and scheduled-offence laws | National-security and scheduled offences |
-| State ACB/Vigilance | State law/executive framework + criminal law | State-public-servant corruption |
-| State police | Constitution, police law, criminal procedure | General policing and public order |
-
-| Body | Power and jurisdiction | Typical output |
-|---|---|---|
-| CVC | No general police power; Covered central persons/entities and statutory references | Advice, review, referral, vigilance supervision |
-| CBI/DSPE | Police powers through DSPE framework; UT baseline; State extension/consent; court direction | FIR, investigation, final report/charge sheet |
-| Lokpal | Inquiry Wing; may direct agencies including DSPE; prosecution framework; Persons and procedures under Lokpal Act | Inquiry decision, investigation/prosecution/departmental direction |
-| ED | Statute-specific investigation, search, attachment/arrest powers; Offence and proceeds-of-crime nexus under governing statutes | Complaint, attachment, adjudicatory/criminal proceedings |
-| NIA | Police investigation under special statutory scheme; Central direction/statutory scheduled-offence architecture | Investigation and charge sheet before special court |
-| State ACB/Vigilance | State police/vigilance powers; State territory and State jurisdiction | FIR, departmental recommendation, charge sheet |
-| State police | General police powers; State territory, subject to law/courts | FIR, investigation, final report |
-
-*Caption: Similar tools such as search or arrest arise from different statutes and must not be transferred from one agency to another by analogy.*
-
-#### Visual 58 — Offence-to-Agency Map
-
-```text
-BRIBERY BY COVERED CENTRAL PUBLIC SERVANT
-   -> CBI/DSPE investigation route + CVC oversight; Lokpal route may apply
-
-PROCEEDS OF CRIME / MONEY LAUNDERING
-   -> ED under PMLA; predicate-offence agency may be separate
-
-SCHEDULED NATIONAL-SECURITY OFFENCE
-   -> NIA statutory route where invoked
-
-CORPORATE FRAUD UNDER COMPANIES ACT
-   -> SFIO route where law/order assigns investigation
-
-STATE PUBLIC-SERVANT CORRUPTION
-   -> State ACB/police ordinarily; CBI route needs lawful authority
-```
-
-*Caption: More than one agency may lawfully touch a transaction, but each must remain within its own statute.*
-
-#### Visual 59 — Frequent Conflations
-
-| Trap | Correction |
-|---|---|
-| CBI investigates money laundering because it investigates economic offences | PMLA investigation is ED’s statutory domain; CBI may investigate a connected predicate offence if competent |
-| NIA and CBI are interchangeable central police | NIA has a scheduled-offence statute; CBI/DSPE has a different jurisdiction architecture |
-| Lokpal is CBI’s permanent administrative superior | Lokpal has special powers only for matters referred under its Act |
-| CVC can order conviction or punishment | CVC advises/supervises; competent authority/court acts under law |
-| State ACB is subordinate to CBI | They are separate Union/State investigative arrangements |
-
-*Caption: UPSC distractors often move a true power from one body to the wrong body.*
-
-#### CLOSING RECALL FLOW — COMPARISON: CVC, CBI, LOKPAL, ED, NIA AND STATE AGENCIES
-
-```text
-START / CONCEPT: COMPARISON: CVC, CBI, LOKPAL, ED, NIA AND STATE AGENCIES
-        |
-        v
-EXACT TERMS: CVC · CBI · Lokpal · ED · NIA · legal source · jurisdiction
-        |
-        v
-MECHANISM / ARGUMENT: Classify the body, offence, territorial authority, investigative power, prosecution route and review mechanism.
-        |
-        v
-CONSEQUENCE / CONTRAST: Correct classification prevents overlap from becoming a false claim of hierarchy.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not transfer consent, arrest, attachment or superintendence rules from one agency to another.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Comparison must begin with each institution’s legal source rather than its acronym or political visibility.
-```
-### SESSION 20 — INDEPENDENCE, ACCOUNTABILITY AND PERFORMANCE
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Institutional independence protects professional decisions, while accountability checks legality, integrity and performance.
-
-**Technical definition:** CBI and CVC reform must combine stable leadership, rule-bound supervision, transparent case allocation, legislative scrutiny and judicial review without erasing executive responsibility or federal consent.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Institutional independence and accountability are complementary safeguards.
-
-#### MUST-WRITE KEYWORDS
-
-- **independence**
-- **accountability**
-- **performance**
-- **CBI**
-- **CVC**
-- **oversight**
-
-**How to use them:** Frame the answer through independence; define accountability, connect performance with CBI to explain the mechanism, and use CVC for the decisive comparison or qualification.
-
-#### Visual 60 — Independence-Accountability Balance
-
-```text
-INDEPENDENCE                              ACCOUNTABILITY
-------------                              --------------
-fixed Director tenure                     law-defined jurisdiction
-high-powered selection                    reasoned decisions
-committee transfer control                CVC/Lokpal supervision
-case-allocation insulation                judicial review
-professional cadre                        parliamentary reporting
-                       \                 /
-                        \               /
-                    LEGITIMATE INVESTIGATION
-```
-
-*Caption: Independence without accountability risks arbitrariness; accountability without insulation risks political control.*
-
-#### Visual 61 — Structural Challenge Matrix
-
-| Challenge | Why it matters | Safe evidence-led formulation |
-|---|---|---|
-| Executive administrative dependence | Staffing, budget and deputation can shape capacity | Administrative placement creates influence risk but does not prove case-specific dictation |
-| State-consent fragmentation | Can delay multi-State investigation | Federal consent is a legal safeguard; predictable protocols can reduce tactical blockage |
-| Vacancies/deputation dependence | Affects continuity and expertise | Discuss structurally; do not freeze current vacancy counts |
-| Prosecution-sanction delay | Delays transition to trial | CVC statutorily reviews progress; do not invent pending numbers |
-| Selective-use perception | Weakens legitimacy | Transparency and even-handed criteria are required; perception is not proof in a named case |
-| Weak standalone CBI statutory design | Organisational mandate remains resolution-based | Dedicated legislation is a reform proposal, not existing law |
-| Limited legislative visibility | Individual cases should not be politicised, yet system scrutiny matters | Strengthen aggregate reporting without revealing protected investigation detail |
-
-*Caption: A high-scoring critique identifies the mechanism of dependence and then proposes a legally compatible remedy.*
-
-[LIMIT] This package omits transient officeholder, consent, pendency, conviction, vacancy and sanction figures unless supported by date-specific official data.
-
-#### Visual 62 — Reform Ladder
-
-```text
-LEVEL 1: PROCESS
-transparent case allocation, written recusals, digital audit trails
-        |
-LEVEL 2: PERSONNEL
-stable specialist cadre, bounded deputation, protected tenure
-        |
-LEVEL 3: FEDERALISM
-model consent protocols, time-bound requests, joint coordination
-        |
-LEVEL 4: FINANCE AND REPORTING
-functional budget protection, aggregate parliamentary reporting
-        |
-LEVEL 5: LEGISLATION
-debated dedicated CBI law defining mandate, autonomy and accountability
-```
-
-*Caption: Reform should combine operational, federal, personnel and legislative measures rather than rely on one slogan.*
-
-#### Visual 63 — Proposal-Test Matrix
-
-| Proposal | Potential gain | Design safeguard needed |
-|---|---|---|
-| Dedicated CBI law | Clear organisation, mandate and accountability | Preserve State List and constitutional-court powers |
-| Independent budget line | Reduces day-to-day leverage | Audit by CAG/Parliament |
-| Permanent specialist cadre | Retains expertise | Diversity, lateral expertise and external accountability |
-| Transparent case allocation | Reduces selective manipulation | Protect witness and operational secrecy |
-| Federal consent protocol | Predictability in inter-State cases | Cannot amend section 6 by executive convenience |
-| Stronger legislative report | System-level scrutiny | No disclosure prejudicing live investigation/trial |
-
-*Caption: Every autonomy reform needs a reciprocal accountability control.*
-
-#### CLOSING RECALL FLOW — INDEPENDENCE, ACCOUNTABILITY AND PERFORMANCE
-
-```text
-START / CONCEPT: INDEPENDENCE, ACCOUNTABILITY AND PERFORMANCE
-        |
-        v
-EXACT TERMS: independence · accountability · performance · CBI · CVC · oversight
-        |
-        v
-MECHANISM / ARGUMENT: Stable tenure and professional discretion operate with transparent procedures, audit, legislative control and judicial review.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design reduces improper influence while preserving answerability for delay, illegality and weak performance.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not equate autonomy with absence of oversight or government control with unrestricted interference.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Institutional independence and accountability are complementary safeguards.
-```
-### SESSION 21 — CURRENT AND LEGAL CONTROL SHEET
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** This session explains Current And Legal Control Sheet through the distinct legal roles of vigilance, investigation and accountability.
-
-**Technical definition:** A strong answer separates CVC supervision, CBI investigation, departmental discipline, prosecution sanction, prosecution and judicial determination. It also distinguishes State consent from court-directed probes and treats the PIDPI Resolution—not the uncommenced Whistle Blowers Protection Act, 2014—as the operative whistle-blower route.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> A strong answer separates CVC supervision, CBI investigation, departmental discipline, prosecution sanction, prosecution and judicial determination.
-
-#### MUST-WRITE KEYWORDS
-
-- **LEGAL**
-- **CONTROL**
-- **SHEET**
-- **CVC**
-- **CBI**
-- **DSPE**
-
-**How to use them:** Frame the answer through LEGAL; define CONTROL, connect SHEET with CVC to explain the mechanism, and use CBI for the decisive comparison or qualification.
-
-#### Visual 64 — What Is Frozen and What Is Not
-
-| Included as stable legal control | Deliberately not frozen |
-|---|---|
-| CVC/DSPE/Lokpal statutory design | Current officeholders |
-| 2021 extension text and 2023 validity ruling | Number of non-consenting States |
-| Official holdings of cited judgments | Live case totals/conviction rates |
-| Official CBI history and jurisdiction explanation | Current vacancy or sanction-pendency figures |
-| 2026 Prelims question wording | Provisional answer letter/count |
-
-*Caption: Durable legal structure belongs in core notes; volatile data belongs in a dated current-affairs update.*
-
-[CURRENT] Legal verification for this package used official statute/Gazette or Government-hosted text and official Supreme Court judgments/orders available for the control exercise.
-
-[LIMIT] “Current as of 19 August 2026” is a control label for the package. Where a live matter lacks a separately verified official merits decision, the text stops at the last verified holding instead of predicting an outcome.
-
-#### CLOSING RECALL FLOW — CURRENT AND LEGAL CONTROL SHEET
-
-```text
-START / CONCEPT: CURRENT AND LEGAL CONTROL SHEET
-        |
-        v
-EXACT TERMS: LEGAL · CONTROL · SHEET · CVC · CBI · DSPE
-        |
-        v
-MECHANISM / ARGUMENT: A strong answer separates CVC supervision, CBI investigation, departmental discipline, prosecution sanction, prosecution and judicial determination. It also distinguishes State consent from court-directed probes and treats the PIDPI Resolution—not the uncommenced Whistle Blowers Protection Act, 2014—as the operative whistle-blower route.
-        |
-        v
-CONSEQUENCE / CONTRAST: This design preserves institutional role clarity and prevents a legally inaccurate one-agency narrative.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not merge CVC, CBI, departmental, prosecution and judicial powers or mutate the CVC, CBI and DSPE acronyms.
-        |
-        v
-ANSWER-GRABBING FORMULATION: A strong answer separates CVC supervision, CBI investigation, departmental discipline, prosecution sanction, prosecution and judicial determination.
-```
-### SESSION 22 — ANSWER-WRITING FRAMEWORKS
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Answer frameworks convert the CVC-CBI legal map into directive-specific structures.
-
-**Technical definition:** A strong answer states source and jurisdiction, explains mechanism, evaluates autonomy or federalism and ends with a qualified reform.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> CVC-CBI answers score through exact legal routes, not generic anti-corruption commentary.
-
-#### MUST-WRITE KEYWORDS
-
-- **directive**
-- **legal source**
-- **jurisdiction**
-- **case law**
-- **federalism**
-- **autonomy**
-- **reform**
-
-**How to use them:** Frame the answer through directive; define legal source, connect jurisdiction with case law to explain the mechanism, and use federalism for the decisive comparison or qualification.
-
-#### Visual 65 — Claim-Evidence-Analysis-Qualification
-
-```text
-CLAIM
-"State consent is central to ordinary DSPE jurisdiction."
-        |
-NAMED EVIDENCE
-DSPE Act sections 5-6
-        |
-ANALYSIS
-protects State police domain in a federal Constitution
-        |
-QUALIFICATION
-SC/HC may order CBI probe exceptionally under Articles 32/226
-```
-
-*Caption: Every major paragraph should move from proposition to authority to reasoning to limit.*
-
-#### Visual 66 — 15-Mark Answer Spine
-
-```text
-INTRO: define institution + identify legal tension
-   |
-BODY 1: statutory architecture
-   |
-BODY 2: named case law
-   |
-BODY 3: independence/accountability problem
-   |
-BODY 4: feasible reform
-   |
-CONCLUSION: cooperative federalism + rule-bound investigation
-```
-
-*Caption: A balanced answer uses law first, criticism second and reform last.*
-
-#### Visual 67 — Directive Decoder
-
-| Directive | Required response |
-|---|---|
-| Explain | Clarify mechanism and why it operates |
-| Discuss | Present dimensions and balanced evaluation |
-| Examine | Test a proposition against law/evidence |
-| Analyse | Break into causal/institutional parts |
-| Critically analyse | Establish value, identify limits, weigh alternatives and conclude |
-
-*Caption: Do not answer “Explain” with an unstructured critique or “Critically analyse” with a list of provisions.*
-
-#### CLOSING RECALL FLOW — ANSWER-WRITING FRAMEWORKS
-
-```text
-START / CONCEPT: ANSWER-WRITING FRAMEWORKS
-        |
-        v
-EXACT TERMS: directive · legal source · jurisdiction · case law · federalism · autonomy · reform
-        |
-        v
-MECHANISM / ARGUMENT: Decode the demand, select the statutory chain, add a controlling case and compress to the mark limit.
-        |
-        v
-CONSEQUENCE / CONTRAST: The framework keeps Core law before optional agency comparison.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not use the same generic structure for consent, vigilance, Director tenure and prosecution questions.
-        |
-        v
-ANSWER-GRABBING FORMULATION: CVC-CBI answers score through exact legal routes, not generic anti-corruption commentary.
-```
-### SESSION 23 — HIGH-YIELD TRAPS AND MINI-RECAP
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** High-yield traps test legal source, committee composition, consent, superintendence and investigation-prosecution boundaries.
-
-**Technical definition:** The recap distinguishes executive-created CBI from statutory DSPE powers, partial CVC supervision and court-directed investigations without State consent.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> High-yield traps and recap rules prevent errors about CVC-CBI source, consent and powers.
-
-#### MUST-WRITE KEYWORDS
-
-- **CVC Act**
-- **DSPE Act**
-- **CBI Director**
-- **superintendence**
-- **investigation**
-- **prosecution**
-
-**How to use them:** Frame the answer through CVC Act; define DSPE Act, connect CBI Director with superintendence to explain the mechanism, and use investigation for the decisive comparison or qualification.
-
-#### Visual 68 — Twenty Prelims Traps
-
-| Trap statement | Correct position |
-|---|---|
-| CBI was created by DSPE Act | CBI by 1963 resolution; DSPE by 1946 Act |
-| CVC is constitutional | CVC is statutory |
-| CVC has three Vigilance Commissioners | One CVC + not more than two VCs |
-| CVC appointment has CJI member | CVC committee: PM, Home Minister, Lok Sabha LoP/substitute |
-| Director CBI committee has Home Minister | It has PM, Lok Sabha LoP/substitute, CJI/nominee |
-| CVC advice is always binding | Disagreement is allowed with written reasons |
-| CVC can dictate disposal of a CBI case | Statutory proviso prohibits this |
-| CVC controls every CBI investigation | CVC superintendence is for the relevant PC Act field |
-| Director has an automatic five-year term | Two-year minimum; conditional annual extensions; aggregate ceiling |
-| State withdrawal kills every pending case | Validly instituted cases may continue under *Kazi Lhendup Dorji v. CBI (1994)* |
-| Courts need State consent | SC/HC exercise independent constitutional powers |
-| Courts routinely transfer cases to CBI | *STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010)* requires exceptional, cautious use |
-| Post-facto consent always cures defect | *Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)* is fact-specific |
-| 2024 West Bengal ruling decided consent merits | It rejected a preliminary maintainability objection |
-| PE is mandatory before every corruption FIR | *CBI v. Thommandru Hannah Vijayalakshmi (2021)* says no |
-| FIR proves guilt | Only trial court determines guilt |
-| Lokpal, CVC and CBI are a hierarchy | Their statutory functions intersect but remain distinct |
-| ED is CBI’s economic-offence wing | ED is a separate statutory enforcement agency |
-| DoPT placement means PMO dictates all cases | Administrative placement is not proof of case-level command |
-| “Caged parrot” is a statutory doctrine | It is criticism/context, not a statutory rule |
-
-*Caption: Most prelims errors are caused by transferring one true fact to the wrong institution, field or procedural stage.*
-
-#### Visual 69 — One-Minute Recall
-
-```text
-CVC = VIGILANCE + ADVICE + PC-ACT SUPERINTENDENCE
-CBI = ORGANISATION BY RESOLUTION
-DSPE = POLICE POWER BY STATUTE
-STATE = CONSENT IN ORDINARY STATE-AREA ROUTE
-COURTS = EXCEPTIONAL CONSTITUTIONAL ROUTE
-DIRECTOR = COMMITTEE + 2-YEAR FLOOR + CONDITIONAL EXTENSION
-LOKPAL = COMPLAINT-ROUTING AND REFERRED-MATTER SUPERVISION
-COURT = FINAL GUILT
-```
-
-*Caption: This recall line provides the legal skeleton for both Prelims and Mains.*
-
-#### CLOSING RECALL FLOW — HIGH-YIELD TRAPS AND MINI-RECAP
-
-```text
-START / CONCEPT: HIGH-YIELD TRAPS AND MINI-RECAP
-        |
-        v
-EXACT TERMS: CVC Act · DSPE Act · CBI Director · superintendence · investigation · prosecution
-        |
-        v
-MECHANISM / ARGUMENT: Check source, authority, territorial route, offence field and legal effect for every statement.
-        |
-        v
-CONSEQUENCE / CONTRAST: This method eliminates close-option errors and overbroad Mains claims.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not call CBI a constitutional body, CVC a police agency or State consent an absolute veto.
-        |
-        v
-ANSWER-GRABBING FORMULATION: High-yield traps and recap rules prevent errors about CVC-CBI source, consent and powers.
-```
-### SESSION 24 — VERIFIED SOURCE AND AUTHORITY MAP
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** The authority map links every major CVC-CBI claim to legislation, official material or a controlling judgment.
-
-**Technical definition:** The CVC Act, DSPE Act, Lokpal amendments, Prevention of Corruption Act and Supreme Court holdings control different parts of the system.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Source discipline prevents executive practice, statutory power and judicial exception from being confused.
-
-#### MUST-WRITE KEYWORDS
-
-- **CVC Act**
-- **DSPE Act**
-- **Lokpal Act**
-- **Prevention of Corruption Act**
-- **Supreme Court**
-- **official source**
-
-**How to use them:** Frame the answer through CVC Act; define DSPE Act, connect Lokpal Act with Prevention of Corruption Act to explain the mechanism, and use Supreme Court for the decisive comparison or qualification.
-
-#### Visual 70 — Authority Hierarchy Used
-
-| Priority | Source class | Use in this package |
-|---:|---|---|
-| 1 | Statutes/Gazette/India Code or official Government-hosted text | Composition, powers, consent, tenure, Lokpal interface |
-| 2 | Official Supreme Court judgments/orders | Binding holdings and qualifications |
-| 3 | Official CBI/CVC/DoPT pages | Institutional history, organisation and administrative description |
-| 4 | Local UPSC knowledge/PYQ ledgers and official question paper | Routing, exact question wording and package continuity |
-| 5 | Generic summaries | Discovery only; not relied on for contested legal propositions |
-
-*Caption: Authority strength is part of answer quality; case law and statutory text outrank generic institutional description.*
-
-#### Named Primary Authorities
-
-- `[FACT]` Central Vigilance Commission Act, 2003: sections 3-8, 11-14, 17-19 and relevant amended interfaces.
-- `[FACT]` Delhi Special Police Establishment Act, 1946, as amended: sections 2-6, 4A, 4B, 4BA and 4C.
-- `[FACT]` Lokpal and Lokayuktas Act, 2013: sections 11-12, 20, 23 and 25.
-- `[FACT]` Prevention of Corruption Act, 1988, as amended: sections 17A and 19 for the limited approval/sanction explanation.
-- `[FACT]` Official CBI history/about pages and DSPE text.
-- `[FACT]` *Vineet Narain v. Union of India (1997) v Union of India* (1997).
-- `[FACT]` *Kazi Lhendup Dorji v. CBI (1994) v CBI* (1994).
-- `[FACT]` *State of West Bengal v State of West Bengal v. Committee for Protection of Democratic Rights (2010)*.
-- `[FACT]` *Alok Kumar Verma v. Union of India (2019) v Union of India* (2019).
-- `[FACT]` *Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020) and Investment Pvt Ltd v CBI* (2020).
-- `[FACT]` *CBI v CBI v. Thommandru Hannah Vijayalakshmi (2021)*.
-- `[FACT]` *Dr Jaya Thakur v. Union of India (2023) v Union of India* (2023 INSC 616).
-- `[FACT]` *State of West Bengal v Union of India* (2024 INSC 502), limited to the preliminary ruling stated above.
-- `[FACT]` Official UPSC Civil Services (Main) Examination 2021 GS-II question and official 2026 Prelims GS-I Set A paper.
-
-#### CLOSING RECALL FLOW — VERIFIED SOURCE AND AUTHORITY MAP
-
-```text
-START / CONCEPT: VERIFIED SOURCE AND AUTHORITY MAP
-        |
-        v
-EXACT TERMS: CVC Act · DSPE Act · Lokpal Act · Prevention of Corruption Act · Supreme Court · official source
-        |
-        v
-MECHANISM / ARGUMENT: Match each composition, power, consent, tenure and safeguard claim to its exact authority.
-        |
-        v
-CONSEQUENCE / CONTRAST: Dated source control keeps volatile consent and officeholder facts out of static doctrine.
-        |
-        v
-UPSC TRAP / ANSWER-USE: Do not use commentary as authority where the Act or judgment supplies the controlling rule.
-        |
-        v
-ANSWER-GRABBING FORMULATION: Source discipline prevents executive practice, statutory power and judicial exception from being confused.
-```
-### POLITY HOSTILE SEMANTIC-REVIEW CORE CONTROL
-
-- **Must remember:** Keep the statutory CVC, executive-created CBI and statutory DSPE police establishment legally distinct despite their connected vigilance work.
-- **Close distinction:** CVC superintendence is offence-field specific and does not permit dictating a particular investigation, conviction or disciplinary result.
-- **Legal/source limit:** A S Rajeev is acting Central Vigilance Commissioner; Praveen Vashista is Vigilance Commissioner; Praveen Sood's CBI term runs to 24 May 2027.
-
-### Semantic-completeness ownership and PYQ control
-
-- **Legal identity:** CVC is statutory under the Central Vigilance Commission
-  Act, 2003. CBI is an organisation constituted by executive resolution on
-  1 April 1963; the Delhi Special Police Establishment Act, 1946 supplies its
-  core police powers. Neither is a constitutional body.
-- **Current leadership, checked 5 September 2026:** A S Rajeev, a serving
-  Vigilance Commissioner, is authorised to act as Central Vigilance
-  Commissioner from 3 August 2026; Praveen Vashista is the other officially
-  identified Vigilance Commissioner. Praveen Sood continues as CBI Director
-  under the dated extension through 24 May 2027.
-- **CVC appointment and tenure:** the President appoints the Central Vigilance
-  Commissioner and up to two Vigilance Commissioners after recommendation by
-  the PM-Home Minister-LoP committee. The term is four years or age sixty-five,
-  whichever is earlier. Removal for proved misbehaviour/incapacity uses a
-  Supreme Court inquiry; direct statutory grounds remain separate.
-- **CVC jurisdiction:** section 8 functions include specified superintendence
-  over DSPE corruption investigations, vigilance administration, inquiry or
-  investigation on references/complaints, review of investigation progress and
-  prosecution-sanction applications, and advice. Directions cannot require
-  disposal of a particular case in a particular manner.
-- **CVO and disciplinary boundary:** Central Vigilance Officers connect
-  prevention, complaint scrutiny and departmental action. CVC advice informs
-  the competent disciplinary authority but is not a criminal judgment or
-  universally binding adjudication.
-- **CBI Director:** appointment follows DSPE section 4A through the
-  PM-LoP-CJI/nominee committee after the statutory eligibility panel. The
-  minimum tenure is two years. The 2021 amendment permits recorded
-  public-interest extensions one year at a time up to five years in aggregate;
-  five years is not automatic. Transfer requires committee consent.
-- **Territorial jurisdiction:** sections 3 and 5 identify notified offences and
-  extension of DSPE powers; section 6 ordinarily requires State consent.
-  General consent can be withdrawn prospectively, specific consent remains
-  possible, and constitutional courts retain exceptional Articles 32/226 power
-  to direct a CBI investigation without consent.
-- **Superintendence split:** CVC superintends DSPE investigation of specified
-  Prevention of Corruption Act offences; the Central Government superintends
-  other DSPE matters. Lokpal has bounded superintendence for Lokpal-referred cases.
-- **Case controls:** Vineet Narain v. Union of India (1997) created the independence architecture;
-  State of West Bengal v. Committee for Protection of Democratic Rights (2010) preserves constitutional
-  court power; Kazi Lhendup Dorji v. CBI (1994) addresses validly begun investigations after
-  consent withdrawal; Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020) is fact-specific; Alok Kumar Verma v. Union of India (2019) protects the
-  statutory Director process; Dr Jaya Thakur v. Union of India (2023) upheld the conditional extension framework.
-- **PYQ firewall:** the verified 2021 GS-II federal-consent demand and the
-  controlled 2026 objective institutional-matching demand are owned here.
-  No current State-consent count or caseload statistic is frozen.
+clear law, professional capacity, lawful federal coordination, auditable decisions, timely prosecution and court-controlled guilt.
 
 ## BASIC MCQS / REMEDIATION
 
-#### D. Original MCQs — 36 Questions
+Exactly **32 original MCQs** appear before PYQs. Correct-option sequence: `ABCD` repeated eight times. Every question has four substantive option-specific explanations and one unique question-specific examiner trap.
 
-### MCQ 1
+### MCQ 1. Legal identity
 
-Which statement most accurately describes the legal creation of the CBI?
+Which formulation is legally most accurate?
 
-A. It was established by a Government of India resolution in 1963, while DSPE police powers arise from the DSPE Act, 1946.
-B. It was created as a statutory body by the CVC Act, 2003.
-C. It was established by the Lokpal and Lokayuktas Act, 2013.
-D. It was constituted directly by Article 312 of the Constitution.
-
-**Answer: A.**
-
-**Explanation:** `[FACT]` CBI is an organisation created by the 1 April 1963 resolution. The DSPE Act constitutes the police establishment and supplies its central statutory powers.
-
-### MCQ 2
-
-The Central Vigilance Commission consists of:
-
-A. A Chairperson, one judicial member and one expert member.
-B. A Central Vigilance Commissioner and not more than two Vigilance Commissioners.
-C. A Central Vigilance Commissioner alone.
-D. A Central Vigilance Commissioner and exactly three Vigilance Commissioners.
-
-**Answer: B.**
-
-**Explanation:** `[FACT]` CVC Act section 3 specifies one CVC as Chairperson and not more than two VCs as Members.
-
-### MCQ 3
-
-Who are members of the statutory committee recommending appointment of the Central Vigilance Commissioner?
-
-A. Prime Minister, Chief Justice of India and Home Minister
-B. Prime Minister, Speaker of Lok Sabha and Lok Sabha Leader of Opposition
-C. Prime Minister, Home Minister and Lok Sabha Leader of Opposition/statutory substitute
-D. President, Prime Minister and Chief Justice of India
-
-**Answer: C.**
-
-**Explanation:** `[FACT]` CVC appointments use the PM-Home Minister-LoP committee. The CJI belongs to the CBI Director committee, not the CVC committee.
-
-### MCQ 4
-
-Which is correct regarding CVC/VC tenure?
-
-A. Four years with automatic reappointment
-B. Six years or age 65, whichever is earlier
-C. Five years with no age ceiling
-D. Four years or age 65, whichever is earlier
-
-**Answer: D.**
-
-**Explanation:** `[FACT]` The four-year/65 rule applies. A VC appointed CVC remains subject to the aggregate four-year cap.
-
-### MCQ 5
-
-Removal of the CVC for proved misbehaviour or incapacity ordinarily requires:
-
-A. Presidential reference, Supreme Court inquiry and presidential removal order
-B. A simple majority resolution of Lok Sabha
-C. CVC selection committee recommendation alone
-D. Cabinet advice followed by immediate termination
+A. CVC is statutory; CBI is executive-created; DSPE supplies the principal statutory police powers used by CBI investigators.
+B. CVC and CBI are both constitutional bodies, while DSPE is merely an internal manual.
+C. CBI was created by the CVC Act, 2003 and CVC by the DSPE Act, 1946.
+D. CBI's 1963 resolution alone supplies unlimited police power throughout India.
 
 **Answer: A.**
 
-**Explanation:** `[FACT]` Section 6 prescribes the Supreme Court inquiry route for proved misbehaviour or incapacity, distinct from listed direct statutory grounds.
+**Option-specific explanations:**
 
-### MCQ 6
+- **A:** This preserves all three identities and traces coercive police authority to statute rather than organisational reputation.
+- **B:** Neither institution is constitutional, and the DSPE Act is parliamentary law rather than an internal instruction.
+- **C:** The statutes do not cross-create the institutions: CVC Act creates statutory CVC; DSPE Act constitutes DSPE.
+- **D:** An executive resolution cannot displace offence notification, territory, State consent, criminal procedure or court control.
 
-While supervising DSPE anti-corruption investigations, the CVC:
+**Examiner trap 1: 'Non-statutory CBI' does not mean 'non-statutory police powers'; always add the DSPE layer.**
 
-A. May order conviction of a public servant
-B. Cannot require investigation or disposal of a particular case in a particular manner
-C. Replaces the trial court in evaluating evidence
-D. May exercise unlimited police power throughout India
+### MCQ 2. Chronology
+
+Consider the following sequence: 1. Special Police Establishment; 2. DSPE Act; 3. CBI resolution; 4. CVC resolution; 5. Vineet Narain; 6. CVC Act. Which order is correct?
+
+A. 2-1-3-4-6-5
+B. 1-2-3-4-5-6
+C. 1-3-2-4-6-5
+D. 4-1-2-3-5-6
 
 **Answer: B.**
 
-**Explanation:** `[FACT]` The section 8 proviso protects case-specific investigative judgment from dictated manner or result.
+**Option-specific explanations:**
 
-### MCQ 7
+- **A:** The DSPE Act followed, rather than preceded, the 1941 SPE, and the 2003 Act followed Vineet Narain.
+- **B:** The sequence is 1941, 1946, 1963, 1964, 1997 and 2003; the 1998 Ordinance is the interim statutory bridge.
+- **C:** CBI's 1963 organisation did not precede the 1946 statutory police establishment.
+- **D:** The CVC resolution arose in 1964, after the wartime and CBI stages.
 
-If a covered organisation disagrees with CVC advice after an inquiry report, it must:
+**Examiner trap 2: distinguish institutional origin, enactment, judgment and later statutory status rather than sorting only by names.**
 
-A. Refer every disagreement to Parliament
-B. Obtain Supreme Court approval
-C. Record reasons in writing and communicate them to CVC
-D. Treat the advice as void without response
+### MCQ 3. Role firewall
+
+Which institution finally determines criminal guilt in a CBI-investigated corruption case?
+
+A. Central Vigilance Commission, because it superintends PC Act investigations
+B. CBI Director, because the Director administers DSPE
+C. The competent court after cognizance and trial
+D. Chief Vigilance Officer of the concerned department
 
 **Answer: C.**
 
-**Explanation:** `[FACT]` CVC advice is not automatically binding, but section 17 requires written reasons for disagreement.
+**Option-specific explanations:**
 
-### MCQ 8
+- **A:** CVC supervises and advises but neither convicts nor sentences.
+- **B:** Administrative command over an investigating establishment does not include judicial guilt determination.
+- **C:** Only the court applies the criminal standard of proof and may acquit or convict after due process.
+- **D:** A CVO coordinates departmental vigilance and may support referral, not criminal adjudication.
 
-The CVC’s annual report:
+**Examiner trap 3: FIR, arrest, charge sheet and conviction are four different legal thresholds.**
 
-A. Is submitted directly to the Supreme Court
-B. Is sent only to DoPT and remains confidential by statute
-C. Excludes all reference to DSPE functioning
-D. Is presented to the President and laid before both Houses, with a separate relevant DSPE part
+### MCQ 4. CVC composition
+
+Under section 3 of the CVC Act, the Commission consists of
+
+A. one Central Vigilance Commissioner and exactly three Vigilance Commissioners.
+B. one Central Vigilance Commissioner alone unless Parliament appoints experts.
+C. a judicial Chairperson, two police members and one finance member.
+D. one Central Vigilance Commissioner and not more than two Vigilance Commissioners.
 
 **Answer: D.**
 
-**Explanation:** `[FACT]` Section 14 creates the annual reporting and parliamentary-laying mechanism.
+**Option-specific explanations:**
 
-### MCQ 9
+- **A:** The statutory ceiling is two Vigilance Commissioners, not three.
+- **B:** The Act creates a multi-member design and does not condition member appointment on a fresh parliamentary vote.
+- **C:** Section 3 uses experience categories, not a compulsory judicial-police-finance seat formula.
+- **D:** This reproduces the statutory maximum: one Chairperson plus up to two Members.
 
-Under DSPE Act section 2, the baseline territorial police powers of DSPE apply to:
+**Examiner trap 4: 'not more than two' is a ceiling, not a command that both posts must always be occupied.**
 
-A. Union Territories
-B. Only railway property
-C. All States automatically
-D. Foreign territories
+### MCQ 5. CVC qualifications
+
+Which statement best reflects section 3's qualification design?
+
+A. It uses public-service and central public-sector specialist categories, with not more than two appointees from either category if all three offices are filled.
+B. Every appointee must be a retired Supreme Court judge.
+C. Only serving Indian Police Service officers are eligible.
+D. The Act contains no experience qualifications and leaves them entirely to executive rules.
 
 **Answer: A.**
 
-**Explanation:** `[FACT]` The State-area route is built through sections 5-6; Union Territories are the section 2 baseline.
+**Option-specific explanations:**
 
-### MCQ 10
+- **A:** The two categories cover administration including police administration and specified finance, law, vigilance and investigation expertise, with a category cap.
+- **B:** Judicial office is not a mandatory qualification for CVC or VC.
+- **C:** IPS experience may fit one route, but section 3 is broader than a serving-police-only rule.
+- **D:** The experience fields and category-balance proviso are stated in section 3 itself.
 
-The classes of offences to be investigated by DSPE are specified by:
+**Examiner trap 5: do not confuse a high-integrity office with a compulsory judicial-member model.**
 
-A. Every State Governor independently
-B. The Central Government by notification under section 3
-C. The CVC through an annual report
-D. The Lok Sabha Speaker
+### MCQ 6. CVC appointment committee
+
+Who is not a member of the committee recommending appointment of the Central Vigilance Commissioner?
+
+A. Prime Minister
+B. Chief Justice of India
+C. Union Home Minister
+D. Leader of Opposition in the Lok Sabha or statutory substitute
 
 **Answer: B.**
 
-**Explanation:** `[FACT]` Section 3 is the notified-offence gate; organisational importance alone does not create offence jurisdiction.
+**Option-specific explanations:**
 
-### MCQ 11
+- **A:** The Prime Minister chairs the three-member recommending committee.
+- **B:** The CJI belongs to the CBI Director committee, not the CVC appointment committee.
+- **C:** The Union Home Minister is the executive member named by section 4.
+- **D:** The opposition member, with the statutory substitute where needed, supplies plural political input.
 
-Which correctly states the DSPE superintendence split?
+**Examiner trap 6: the easiest wrong option is a true member of another anti-corruption appointment committee.**
 
-A. Central Government supervises every PC Act investigation without limitation.
-B. CVC supervises every CBI function, including INTERPOL administration.
-C. CVC supervises relevant PC Act investigations; Central Government supervises other DSPE matters, subject to special law.
-D. State Governments jointly supervise all CBI cases.
+### MCQ 7. CVC tenure and service
+
+A Vigilance Commissioner serves for two years and is then appointed Central Vigilance Commissioner. Ignoring the age ceiling, what is the maximum additional Commission service available under the aggregate rule?
+
+A. Four years, because the CVC appointment restarts the clock
+B. Three years, because the CVC term is five years
+C. Two years, because VC plus CVC service cannot exceed four years
+D. No limit, because only the age ceiling applies
 
 **Answer: C.**
 
-**Explanation:** `[FACT]` DSPE Act section 4 divides superintendence by subject and remains subject to special provisions such as the Lokpal Act.
+**Option-specific explanations:**
 
-### MCQ 12
+- **A:** A later appointment does not erase service already rendered as VC.
+- **B:** The ordinary statutory term is four years or age sixty-five, not five years.
+- **C:** Two years already served leave at most two years within the aggregate four-year cap.
+- **D:** Both a duration cap and an age ceiling apply.
 
-CBI’s administrative placement under DoPT necessarily means:
+**Examiner trap 7: distinguish the ordinary term from the special aggregate VC-to-CVC service ceiling.**
 
-A. State consent is unnecessary
-B. CVC has no statutory role
-C. Every investigation is unconstitutional
-D. Administrative placement alone does not prove lawful case-specific PMO direction
+### MCQ 8. CVC removal
+
+Which is a listed direct statutory ground on which the President may remove a CVC/VC without first using the proved-misbehaviour Supreme Court inquiry route?
+
+A. Disagreement with a CVC minority opinion
+B. Criticism by a parliamentary committee
+C. Failure to secure Cabinet confidence
+D. Being adjudged insolvent
 
 **Answer: D.**
 
-**Explanation:** `[ANALYSIS]` Administration and investigative judgment are distinct. Any interference claim needs evidence and legal analysis.
+**Option-specific explanations:**
 
-### MCQ 13
+- **A:** Internal disagreement is not a removal ground and can be part of multi-member deliberation.
+- **B:** Legislative criticism does not substitute for the statutory removal grounds.
+- **C:** The office is not held at ordinary Cabinet pleasure.
+- **D:** Insolvency is one of the direct objective grounds separately listed in section 6.
 
-The high-powered committee recommending appointment of the CBI Director includes:
+**Examiner trap 8: keep proved misbehaviour/incapacity separate from insolvency, moral-turpitude conviction, outside paid work, infirmity and prejudicial interest.**
 
-A. Prime Minister, Lok Sabha LoP/substitute, and CJI or CJI nominee
-B. Prime Minister, Home Minister and CVC
-C. Cabinet Secretary, Home Secretary and CJI
-D. President, CVC and Attorney General
+### MCQ 9. Section 8 functions
+
+Which combination belongs to CVC's section 8 functions?
+
+A. Review relevant DSPE investigations, review prosecution-sanction applications, advise covered central bodies and supervise vigilance administration.
+B. Conduct every criminal trial involving a Central Government employee.
+C. Exercise ordinary policing throughout every State without consent.
+D. Issue binding sentences and disqualify elected representatives.
 
 **Answer: A.**
 
-**Explanation:** `[FACT]` This is the present section 4A committee. It should not be confused with the CVC appointment committee.
+**Option-specific explanations:**
 
-### MCQ 14
+- **A:** These are express supervisory, review, advisory and vigilance-administration functions.
+- **B:** Trial belongs to the competent court, not CVC.
+- **C:** CVC lacks general police power, and DSPE State-area authority has separate gates.
+- **D:** CVC does not possess general criminal-sentencing or electoral-disqualification jurisdiction.
 
-The statutorily protected minimum tenure of the CBI Director is:
+**Examiner trap 9: a broad function list becomes wrong when one police or judicial verb is smuggled into it.**
 
-A. Three years
-B. Two years
-C. One year
-D. Five years
+### MCQ 10. Case-dictation boundary
+
+While exercising superintendence or giving directions, CVC may
+
+A. require DSPE to arrest a named person regardless of evidence.
+B. monitor systemic progress but not require a particular case to be investigated or disposed of in a particular manner.
+C. write the final police report for the investigating officer.
+D. direct the trial court to convict.
 
 **Answer: B.**
 
-**Explanation:** `[FACT]` Section 4B creates a two-year floor; five years is only the aggregate maximum after conditional extensions.
+**Option-specific explanations:**
 
-### MCQ 15
+- **A:** Arrest requires lawful investigative judgment and statutory conditions, not an outcome command.
+- **B:** This states the section 8 proviso's system-oversight/particular-case boundary.
+- **C:** The final report is the investigating agency's statutory responsibility.
+- **D:** CVC cannot direct judicial outcome or displace the court.
 
-Under the 2021 DSPE amendment, a Director’s extension:
+**Examiner trap 10: 'directions' is true only when read with the immediate non-dictation proviso.**
 
-A. Can continue without an aggregate ceiling
-B. Is automatic until five years
-C. Requires public interest, committee recommendation and recorded reasons, one year at a time
-D. May be granted for any period by DoPT alone
+### MCQ 11. Advice and disagreement
+
+If a covered organisation disagrees with CVC advice under the section 17 framework, it must
+
+A. obtain State consent.
+B. treat the advice as automatically void.
+C. record reasons in writing and communicate them to CVC.
+D. seek prior approval of the Supreme Court in every case.
 
 **Answer: C.**
 
-**Explanation:** `[FACT]` The conditions are cumulative and the aggregate period cannot exceed five years.
+**Option-specific explanations:**
 
-### MCQ 16
+- **A:** State consent concerns DSPE territorial exercise, not disagreement with vigilance advice.
+- **B:** The Act does not permit silent disregard without the accountability step.
+- **C:** Written, communicated reasons preserve competent-authority responsibility while enabling scrutiny.
+- **D:** Supreme Court inquiry is relevant to removal for proved misconduct/incapacity, not routine advice disagreement.
 
-Transfer of the CBI Director during protected tenure requires:
+**Examiner trap 11: non-binding advice is not consequence-free advice; reason-giving is the statutory accountability device.**
 
-A. CVC advice only
-B. State consent
-C. Parliamentary approval
-D. Prior consent of the section 4A committee
+### MCQ 12. PIDPI
+
+Which statement accurately describes CVC's whistle-blower role?
+
+A. It arises only from a fully commenced Whistle Blowers Protection Act in every context.
+B. Anonymous complaints must always be treated as protected PIDPI disclosures.
+C. PIDPI authorises CVC to convict the person complained against.
+D. CVC is the designated agency under the 2004 PIDPI Resolution for protected written disclosures within its applicable field.
 
 **Answer: D.**
 
-**Explanation:** `[FACT]` The committee safeguard also informed the Supreme Court’s substance-based reasoning in *Alok Verma*.
+**Option-specific explanations:**
 
-### MCQ 17
+- **A:** The controlled operative authority used here is the PIDPI Resolution; the 2014 Act should not be assumed operative without commencement verification.
+- **B:** PIDPI procedure requires identifiable protected disclosure and does not convert anonymous or pseudonymous material into the protected route.
+- **C:** The mechanism enables examination and recommended action, not criminal adjudication.
+- **D:** This preserves the correct source, designated-agency role and bounded complaint field.
 
-Which best distinguishes general and case-specific State consent?
+**Examiner trap 12: distinguish confidentiality of identity from anonymity of the complaint.**
 
-A. General consent is standing for defined classes; case-specific consent is tied to a named case/facts.
-B. General consent applies only to Union Territories.
-C. General consent comes from courts; specific consent comes from Parliament.
-D. There is no legal difference.
+### MCQ 13. CVO system
+
+A departmental Chief Vigilance Officer is best described as
+
+A. an internal vigilance node for prevention, complaint scrutiny and disciplinary coordination, with criminal referral where warranted.
+B. the final criminal court for departmental corruption.
+C. a constitutional officer superior to CVC.
+D. an officer with inherent DSPE police power in every State.
 
 **Answer: A.**
 
-**Explanation:** `[FACT]` Scope, conditions and timing of the consent instrument determine its effect.
+**Option-specific explanations:**
 
-### MCQ 18
+- **A:** The description captures preventive and punitive vigilance without transferring police or judicial powers.
+- **B:** Criminal guilt belongs to courts and service penalties to the competent disciplinary authority.
+- **C:** CVOs arise from the vigilance-administration framework, not the Constitution.
+- **D:** A CVO does not acquire DSPE jurisdiction merely by coordinating a complaint.
 
-According to *Kazi Lhendup Dorji v. CBI (1994)*, withdrawal of consent:
+**Examiner trap 13: internal access to files is an administrative advantage, not a source of arrest or conviction power.**
 
-A. Retrospectively voids every act of investigation
-B. Does not automatically terminate investigations validly begun before withdrawal
-C. Gives CBI permanent jurisdiction over all future State cases
-D. Removes the need for a police report
+### MCQ 14. DSPE section 2
+
+The baseline territorial police powers of DSPE under section 2 are associated with
+
+A. all States without further authority.
+B. Union Territories, subject to the Act.
+C. foreign countries through INTERPOL.
+D. only offences referred by Lokpal.
 
 **Answer: B.**
 
-**Explanation:** `[FACT]` The rule is prospective and must not be enlarged into a general future-investigation power.
+**Option-specific explanations:**
 
-### MCQ 19
+- **A:** State-area exercise ordinarily requires sections 5 and 6 or an independent court route.
+- **B:** Section 2 supplies the Union Territory baseline for the statutory police establishment.
+- **C:** INTERPOL coordination does not itself confer domestic or foreign coercive jurisdiction.
+- **D:** Lokpal reference is one special route, not the origin of all DSPE powers.
 
-The *STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010)* Constitution Bench held that:
+**Examiner trap 14: identify territory before discussing consent; Union Territory and State routes are different.**
 
-A. Parliament alone may order a CBI investigation
-B. Every allegation against State police must go to CBI
-C. SC/HC may exceptionally direct CBI investigation without State consent under Articles 32/226
-D. State consent is never required under section 6
+### MCQ 15. DSPE section 3
+
+Under section 3, the offences or classes of offences investigated by DSPE are specified by
+
+A. the CVC through its annual report.
+B. each High Court through standing rules.
+C. the Central Government by notification.
+D. the CBI Director through an internal press release.
 
 **Answer: C.**
 
-**Explanation:** `[FACT]` Constitutional judicial review supplies a separate route, to be used sparingly and cautiously.
+**Option-specific explanations:**
 
-### MCQ 20
+- **A:** CVC reporting reviews functioning but does not replace offence notification.
+- **B:** Courts may direct a particular investigation, but section 3 notification is an executive statutory function.
+- **C:** The Central Government notification supplies the subject-matter gate.
+- **D:** Internal communication cannot substitute for a statutory notification.
 
-The safest reading of *Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)* is:
+**Examiner trap 15: a court-directed case still needs legal offence competence; the court order and section 3 notification answer different questions.**
 
-A. Later consent is constitutionally prohibited
-B. Consent defects are always irrelevant
-C. CBI may investigate any State employee without authority
-D. Its result was fact-specific and does not establish that later consent always cures absence of consent
+### MCQ 16. DSPE section 4
+
+Which statement correctly states the current superintendence architecture?
+
+A. CVC superintends every CBI matter, including all special crimes and administration.
+B. Central Government superintends every PC Act investigation without qualification.
+C. State Governments jointly administer the CBI Director.
+D. CVC superintends PC Act investigations; Central Government superintends other DSPE matters; administration vests in the Director, subject to special law.
 
 **Answer: D.**
 
-**Explanation:** `[FACT]` The consent rider, manner in which State servants emerged, later consent and pleaded prejudice were material.
+**Option-specific explanations:**
 
-### MCQ 21
+- **A:** CVC's field is corruption-specific and does not include all CBI work or Director administration.
+- **B:** Section 4(1) assigns the PC Act investigation field to CVC.
+- **C:** State consent limits territorial exercise but does not create joint administration of the Director.
+- **D:** This reproduces subsections (1)-(3) and leaves room for Lokpal's referred-matter override.
 
-The 2024 Supreme Court judgment in *State of West Bengal v Union of India* cited here:
+**Examiner trap 16: separate superintendence by subject from administration of the police establishment.**
 
-A. Rejected a preliminary maintainability objection but did not decide merits
-B. Finally upheld every challenged CBI investigation
-C. Declared CBI unconstitutional
-D. Abolished section 6 consent
+### MCQ 17. Sections 5 and 6
+
+For the ordinary executive route into a State, which sequence is most accurate?
+
+A. Section 3 notified offence -> section 5 extension order -> section 6 State consent.
+B. Section 6 consent -> constitutional amendment -> automatic nationwide power.
+C. CVC advice -> State Governor's judicial warrant -> trial.
+D. CBI resolution -> no further jurisdictional step.
 
 **Answer: A.**
 
-**Explanation:** `[FACT]` The Court expressly limited the decision to the preliminary objection.
+**Option-specific explanations:**
 
-### MCQ 22
+- **A:** The sequence preserves subject-matter, extension and federal-consent gates.
+- **B:** Consent is statutory, not a constitutional amendment, and it does not create automatic nationwide authority.
+- **C:** CVC advice and gubernatorial action are not the statutory section 5-6 route.
+- **D:** The 1963 resolution cannot override the DSPE Act's territorial limits.
 
-The central principle of *Alok Kumar Verma v. Union of India (2019)* for Director protection is:
+**Examiner trap 17: section 5 power and section 6 consent are cumulative, not alternative.**
 
-A. The Director is immune from all supervision
-B. Divesting powers may have transfer-equivalent effect and cannot evade committee protection
-C. Only a written transfer order can affect tenure
-D. The President alone selects the Director
+### MCQ 18. General and specific consent
+
+Which distinction is correct?
+
+A. General consent comes only from constitutional courts; specific consent comes only from Parliament.
+B. General consent is standing permission for defined categories; specific consent is tied to a named case, facts or persons.
+C. General consent applies only to Union Territories.
+D. Specific consent always continues after any later statutory change regardless of its terms.
 
 **Answer: B.**
 
-**Explanation:** `[FACT]` The Court focused on the substance and effect of the action.
+**Option-specific explanations:**
 
-### MCQ 23
+- **A:** Both are State-government consent instruments in the ordinary DSPE route, not court/Parliament substitutes.
+- **B:** The difference is breadth and continuing scope, with both controlled by their precise text.
+- **C:** Union Territory baseline comes from section 2 and does not require this State-consent classification.
+- **D:** No consent instrument should be read beyond its wording, duration and governing law.
 
-*Dr Jaya Thakur v. Union of India (2023)* held that:
+**Examiner trap 18: 'general' means standing and defined, not unlimited.**
 
-A. The 2021 amendment was wholly unconstitutional
-B. Every Director is entitled to five years
-C. The extension framework is valid, but its statutory conditions must govern each extension
-D. Written reasons are unnecessary
+### MCQ 19. Withdrawal of consent
+
+A State withdraws general consent after a DSPE investigation was validly instituted. Which is the safest proposition?
+
+A. Every completed investigative act becomes void retrospectively.
+B. CBI obtains permanent power to start all future cases.
+C. The existing investigation does not automatically terminate, but new cases ordinarily need a fresh authority route.
+D. The withdrawal necessarily binds the Supreme Court under Article 32.
 
 **Answer: C.**
 
-**Explanation:** `[FACT]` Validity of the framework and legality of a particular extension are separate inquiries.
+**Option-specific explanations:**
 
-### MCQ 24
+- **A:** Kazi Lhendup Dorji rejects automatic retrospective destruction of validly initiated investigations.
+- **B:** Continuity of an existing case does not create unlimited future jurisdiction.
+- **C:** This states prospective withdrawal and preserves the requirement of consent/order for later cases.
+- **D:** A State instrument cannot curtail constitutional judicial review.
 
-The “caged parrot” phrase should be used in an answer as:
+**Examiner trap 19: ask whether the case began before or after withdrawal; timing changes the answer.**
 
-A. The text of DSPE Act section 4
-B. A binding test invalidating all CBI reports
-C. Proof of interference in every case
-D. Judicial criticism/context, with enforceable safeguards traced to actual statutes and holdings
+### MCQ 20. Constitutional court route
+
+According to the Constitution Bench in CPDR, a High Court may direct a CBI investigation without State consent
+
+A. whenever a political party demands it.
+B. because section 6 has been repealed.
+C. only after the Union Cabinet certifies failure of State police.
+D. under Article 226 in exceptional situations, because constitutional judicial review is not controlled by section 6.
 
 **Answer: D.**
 
-**Explanation:** `[LIMIT]` The metaphor captures a legitimacy concern; it is not a substitute for ratio or proof.
+**Option-specific explanations:**
 
-### MCQ 25
+- **A:** Political demand is not the constitutional threshold.
+- **B:** Section 6 remains part of the ordinary executive route.
+- **C:** The Constitution does not make Cabinet certification a precondition to Article 226.
+- **D:** This preserves the independent constitutional source and the Court's caution.
 
-Under Lokpal Act section 20, complaints selected for preliminary inquiry concerning Group A-D public servants are routed:
+**Examiner trap 20: the court does not 'grant deemed consent'; it exercises a different legal power.**
 
-A. To CVC in the manner specified by the Act
-B. Only to State police
-C. Automatically to ED
-D. Directly to Parliament
+### MCQ 21. Vineet Narain
+
+Which was part of the Vineet Narain safeguard trajectory?
+
+A. Statutory CVC, corruption-investigation oversight, minimum Director tenure and invalidation of the Single Directive.
+B. Abolition of State consent for all CBI investigations.
+C. Conversion of CBI into a constitutional court.
+D. Automatic five-year tenure for every CBI Director.
 
 **Answer: A.**
 
-**Explanation:** `[FACT]` The Act then distinguishes how CVC handles Group A-B and Group C-D matters.
+**Option-specific explanations:**
 
-### MCQ 26
+- **A:** These safeguards addressed institutional independence and later influenced statutory design.
+- **B:** The judgment did not erase DSPE section 6 federalism.
+- **C:** It strengthened investigation architecture without changing CBI into a court.
+- **D:** The two-year floor belongs to the safeguard; conditional extension up to five years came much later.
 
-Which is correct after *CBI v. Thommandru Hannah Vijayalakshmi (2021)*?
+**Examiner trap 21: separate the 1997 judicial directions from the 2021 extension amendment.**
 
-A. A PE must determine guilt.
-B. PE is not mandatory before every corruption FIR; a Regular Case may be directly registered when cognizable offence information is disclosed.
-C. CBI can never use source information.
-D. PE is an enforceable right of every accused.
+### MCQ 22. Former section 6A
+
+Subramanian Swamy v Director, CBI (2014) struck down former DSPE section 6A because it
+
+A. required State consent for Union Territory cases.
+B. created a rank-based prior-approval shield for senior officers that violated Article 14.
+C. gave courts power under Article 226.
+D. required written reasons for CVC disagreement.
 
 **Answer: B.**
 
-**Explanation:** `[FACT]` PE remains useful in an appropriate case but is not a compulsory precondition or a defence entitlement.
+**Option-specific explanations:**
 
-### MCQ 27
+- **A:** Section 6A concerned Central approval for specified senior officials, not State territorial consent.
+- **B:** The Constitution Bench rejected status-based investigative protection as an unequal anti-corruption barrier.
+- **C:** Article 226 power was addressed in CPDR, not created by section 6A.
+- **D:** Written disagreement belongs to the CVC advice framework.
 
-Which institution finally determines criminal guilt?
+**Examiner trap 22: section 6A and section 6 sound similar but concern different approvals and different governments.**
 
-A. CVC
-B. CVO
-C. The competent court after due process
-D. CBI
+### MCQ 23. PC Act section 17A
+
+Section 17A generally concerns previous approval before enquiry, inquiry or investigation when the alleged PC Act offence is relatable to
+
+A. any private contract dispute.
+B. every arrest made by police.
+C. a public servant's recommendation or decision in discharge of official functions, subject to the statutory on-the-spot undue-advantage exception.
+D. court cognizance after the charge sheet.
 
 **Answer: C.**
 
-**Explanation:** `[FACT]` Investigation and advice produce inputs; adjudication and conviction belong to the court.
+**Option-specific explanations:**
 
-### MCQ 28
+- **A:** The provision is confined to specified public-function decision allegations under the PC Act.
+- **B:** It is not a universal arrest-approval code.
+- **C:** This states both the functional nexus and the trap-case exception.
+- **D:** Court cognizance is the stage addressed by section 19 sanction.
 
-Which statement correctly separates CBI and ED?
+**Examiner trap 23: section 17A is function-linked, not a revived senior-rank shield identical to old section 6A.**
 
-A. CBI exercises every power under PMLA.
-B. ED is a wing of CBI.
-C. ED needs State consent under DSPE section 6 for every PMLA action.
-D. CBI may investigate a competent predicate offence, while ED separately exercises PMLA powers over money laundering.
+### MCQ 24. PC Act section 19
+
+Section 19 is best distinguished from section 17A because section 19 primarily governs
+
+A. State consent before DSPE enters a State.
+B. CVC appointment procedure.
+C. notification of DSPE offences.
+D. previous sanction before the court takes cognizance of specified PC Act offences.
 
 **Answer: D.**
 
-**Explanation:** `[FACT]` Overlapping facts do not merge statutory mandates.
+**Option-specific explanations:**
 
-### MCQ 29
+- **A:** State consent is DSPE section 6.
+- **B:** CVC appointment is governed by CVC Act section 4.
+- **C:** DSPE offence classes are notified under section 3.
+- **D:** Section 19 is the prosecution/cognizance gate, later than investigation approval.
 
-NIA differs from CBI primarily because NIA:
+**Examiner trap 24: 'prior approval' and 'previous sanction' are not interchangeable merely because both precede something.**
 
-A. Operates under the NIA Act’s scheduled-offence architecture
-B. Is supervised by CVC for every case
-C. Was created by the 1963 CBI resolution
-D. Has no police powers
+### MCQ 25. CBI Director appointment
+
+The current section 4A committee for CBI Director appointment consists of
+
+A. Prime Minister, Lok Sabha LoP/largest opposition-party leader, and CJI or nominated Supreme Court judge.
+B. Prime Minister, Home Minister and Central Vigilance Commissioner.
+C. President, Speaker and Attorney General.
+D. CVC, Vigilance Commissioners, Home Secretary and Personnel Secretary.
 
 **Answer: A.**
 
-**Explanation:** `[FACT]` The NIA Act supplies a distinct central-investigation route for scheduled offences.
+**Option-specific explanations:**
 
-### MCQ 30
+- **A:** This is the post-Lokpal high-powered committee, including the 2014 opposition substitute.
+- **B:** This mixes the CVC appointment committee with a CBI post.
+- **C:** None of these three together forms the statutory recommendation committee.
+- **D:** This resembles the separate section 4C committee for SP-and-above posts, not the Director.
 
-A departmental CVO is best understood as:
+**Examiner trap 25: three distinct panels exist in this topic; identify the post before recalling the members.**
 
-A. A general police station
-B. An internal vigilance node connecting preventive/disciplinary work with the CVC framework
-C. A constitutional authority superior to CVC
-D. The final criminal court
+### MCQ 26. Director tenure
+
+Which description of CBI Director tenure is accurate after the 2021 amendment?
+
+A. A flat five-year initial appointment with no review.
+B. A two-year minimum, with public-interest extension on section 4A committee recommendation and written reasons, one year at a time, up to five years total.
+C. One year at the pleasure of the Home Minister.
+D. An unlimited term until age sixty-five.
 
 **Answer: B.**
 
-**Explanation:** `[FACT]` CVOs assist vigilance administration but do not acquire the full police powers of DSPE.
+**Option-specific explanations:**
 
-### MCQ 31
+- **A:** The amendment did not replace the initial protected floor with an automatic five-year term.
+- **B:** Every element - public interest, committee recommendation, reasons, annual step and aggregate ceiling - matters.
+- **C:** The Home Minister is not the unilateral tenure authority under section 4B.
+- **D:** The DSPE Director provision uses duration and extension controls, not this age-based formula.
 
-Which reform best combines independence with accountability?
+**Examiner trap 26: 'maximum possible total' is not the same as 'ordinary tenure' or 'entitlement.'**
 
-A. Abolition of all judicial review
-B. Unlimited executive power to transfer investigators
-C. Transparent case-allocation safeguards plus protected operational confidentiality and audit
-D. Complete secrecy with no reporting
+### MCQ 27. Alok Kumar Verma
+
+The central statutory principle applied in Alok Kumar Verma (2019) was that
+
+A. the Director is immune from all inquiry.
+B. only a document titled 'transfer order' can affect tenure.
+C. divesting the Director of powers can have transfer-like effect and cannot bypass the section 4A committee safeguard.
+D. CVC may permanently remove the Director without committee involvement.
 
 **Answer: C.**
 
-**Explanation:** `[ANALYSIS]` Insulation must coexist with lawful review, reason-giving and aggregate reporting.
+**Option-specific explanations:**
 
-### MCQ 32
+- **A:** The judgment restored process; it did not grant personal immunity.
+- **B:** The Court examined substance and effect rather than the label attached to executive action.
+- **C:** This is the precise procedural-insulation principle relevant to the case.
+- **D:** CVC's oversight does not confer unilateral permanent-ouster power.
 
-Which statement on State consent is most accurate?
+**Examiner trap 27: institutional protection attaches to functional displacement, not only formal wording.**
 
-A. It is absolute even against a High Court order.
-B. It applies only to economic offences.
-C. It is irrelevant because CBI is a Union agency.
-D. It governs the ordinary DSPE State-area route but is qualified by constitutional-court power and precedent on pending cases.
+### MCQ 28. Lokpal interface
+
+Which statement correctly describes Lokpal's relationship with CVC and DSPE?
+
+A. Lokpal permanently administers every CBI case.
+B. Every complaint automatically becomes a CBI FIR.
+C. CVC decides guilt in all Group A-B cases.
+D. Lokpal may route specified preliminary inquiries to CVC and has special superintendence over DSPE matters referred under its Act, subject to non-dictation limits.
 
 **Answer: D.**
 
-**Explanation:** `[FACT]` This formulation preserves both section 6 federalism and judicial review.
+**Option-specific explanations:**
 
-### MCQ 33
+- **A:** Lokpal's special authority is reference-specific, not universal CBI administration.
+- **B:** The Act contains scrutiny and route decisions rather than automatic criminal registration.
+- **C:** CVC conducts specified inquiry functions and reports/acts as the statute provides; it does not adjudicate guilt.
+- **D:** This preserves section 20 routing, section 25 superintendence and the particular-case boundary.
 
-CVC’s inquiry-related civil-court powers include:
+**Examiner trap 28: 'notwithstanding DSPE section 4' applies to referred matters, not to the whole CBI organisation.**
 
-A. Summoning persons and requiring document production
-B. Sentencing an accused to imprisonment
-C. Overriding a trial judgment
-D. Registering every FIR in India
+### MCQ 29. Prosecution and court
+
+Which sequence assigns the correct actor to each output?
+
+A. CBI/DSPE investigates and submits a report; prosecution presents the case; court decides cognizance, trial and guilt.
+B. CVC investigates every case, prosecutes it and convicts.
+C. CVO arrests, CBI sentences and Parliament hears the appeal.
+D. Lokpal's annual report automatically becomes a criminal judgment.
 
 **Answer: A.**
 
-**Explanation:** `[FACT]` Procedural powers for inquiry do not make CVC a criminal court.
+**Option-specific explanations:**
 
-### MCQ 34
+- **A:** The sequence respects police, prosecution and judicial functions.
+- **B:** CVC has no universal police, prosecution or conviction bundle.
+- **C:** CVO lacks general arrest power and CBI lacks sentencing power.
+- **D:** Reporting creates accountability but not a judicial decree.
 
-Which statement about the CBI Director of Prosecution is correct?
+**Examiner trap 29: ask what legal document each institution produces - advice, report, charge sheet, prosecution submission or judgment.**
 
-A. The officer appoints the CBI Director.
-B. Central Government appoints on CVC recommendation, and the officer works under overall supervision and control of the CBI Director.
-C. The post is filled by State Governors.
-D. The post has no statutory tenure protection.
+### MCQ 30. CBI functional categories
 
-**Answer: B.**
+Which is a stable, legally safe description of CBI work?
 
-**Explanation:** `[FACT]` DSPE Act section 4BA also provides a minimum two-year tenure.
-
-### MCQ 35
-
-For DSPE posts of Superintendent of Police and above, the CVC-chaired committee:
-
-A. Conducts criminal trials
-B. Replaces the section 4A Director committee
-C. Recommends appointment and tenure-related decisions after consulting the Director
-D. Requires approval from every State
-
-**Answer: C.**
-
-**Explanation:** `[FACT]` Section 4C creates this separate senior-personnel mechanism.
-
-### MCQ 36
-
-For a Mains answer on CBI federalism, the strongest structure is:
-
-A. State that either Union or States have absolute power
-B. Begin and end with the “caged parrot” phrase
-C. List allegations without law
-D. Claim -> sections 5-6 -> named cases -> federal analysis -> qualified reform
-
-**Answer: D.**
-
-**Explanation:** `[ANALYSIS]` The structure converts description into authority-backed evaluation.
-
-#### E. Remedial MCQs — 12 Questions
-
-### Remedial MCQ 1
-
-A student writes: “CBI is a statutory body created by the DSPE Act.” What is the best correction?
-
-A. CBI was created by the 1963 resolution; DSPE is the statutory police establishment under the 1946 Act.
-B. CBI was created by the CVC Act.
-C. CBI is a constitutional body.
-D. The statement is fully correct.
-
-**Answer: A.**
-
-**Explanation:** Separate organisation from statutory police establishment.
-
-### Remedial MCQ 2
-
-“CVC superintendence” permits CVC to:
-
-A. Order automatic conviction
-B. Supervise relevant processes but not dictate a particular case’s investigation or disposal manner
-C. Ignore the section 8 proviso
-D. Write the final judgment
+A. CBI is India's universal police for all offences.
+B. It has anti-corruption, economic-offence and special-crime work, plus support/INTERPOL coordination, each subject to lawful jurisdiction.
+C. It is the statutory money-laundering authority under PMLA.
+D. It is identical to the National Investigation Agency.
 
 **Answer: B.**
 
-**Explanation:** The case-dictation prohibition is a central independence safeguard.
+**Option-specific explanations:**
 
-### Remedial MCQ 3
+- **A:** The federal and notified-offence architecture excludes universal inherent police power.
+- **B:** The categories reflect stable organisational functions without claiming that a label overrides law.
+- **C:** PMLA powers belong to the Enforcement Directorate's separate statutory field.
+- **D:** NIA operates under a different scheduled-offence statute and jurisdiction design.
 
-Which proposition correctly follows from *Kazi Lhendup Dorji v. CBI (1994)*?
+**Examiner trap 30: organisational specialisation never removes the need to identify the controlling statute.**
 
-A. Consent can never be withdrawn.
-B. Withdrawal authorises all new CBI cases.
-C. Withdrawal does not retrospectively terminate investigations validly begun under earlier consent.
-D. State police cease to exist.
+### MCQ 31. Reform design
 
-**Answer: C.**
+Which reform package best balances autonomy, federalism and accountability?
 
-**Explanation:** The holding protects continuity of already instituted investigations, not unlimited future jurisdiction.
-
-### Remedial MCQ 4
-
-A High Court orders CBI investigation without State consent in an exceptional rights case. The authority comes from:
-
-A. DoPT administrative control
-B. CVC annual report
-C. Deemed general consent
-D. Article 226 constitutional power as recognised in *STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010)*
-
-**Answer: D.**
-
-**Explanation:** Court direction is not a disguised section 6 consent route.
-
-### Remedial MCQ 5
-
-Which condition belongs to the 2021 Director-extension framework?
-
-A. One-year-at-a-time extension on committee recommendation, public interest and recorded reasons
-B. Oral reasons by DoPT alone
-C. Automatic five-year tenure from day one
-D. No aggregate ceiling
-
-**Answer: A.**
-
-**Explanation:** Every annual extension requires statutory satisfaction; five years is only the aggregate maximum.
-
-### Remedial MCQ 6
-
-For a Lokpal-referred DSPE investigation, the Lokpal:
-
-A. Becomes the State police chief
-B. Has special statutory superintendence but cannot dictate investigation/disposal in a particular manner
-C. Decides guilt itself
-D. Abolishes CVC
-
-**Answer: B.**
-
-**Explanation:** Section 25 combines special supervision with an express non-dictation safeguard.
-
-### Remedial MCQ 7
-
-An FIR by CBI means:
-
-A. State consent can never be questioned
-B. Conviction is certain
-C. The formal investigation threshold is crossed, not that guilt is proved
-D. CVC has imposed a penalty
+A. Remove all reporting, audit and judicial review.
+B. Allow the Union executive to ignore section 6 whenever it alleges urgency.
+C. Debate a dedicated CBI law, protect professional capacity, create lawful consent protocols, audit allocation/recusal and strengthen aggregate parliamentary reporting.
+D. Give CVC power to convict without trial.
 
 **Answer: C.**
 
-**Explanation:** Allegation, FIR, charge sheet and conviction are different stages with different thresholds.
+**Option-specific explanations:**
 
-### Remedial MCQ 8
+- **A:** An unreviewable police agency would replace political risk with coercive arbitrariness.
+- **B:** Executive convenience cannot amend statutory federal consent.
+- **C:** Each reform is matched to a diagnosed weakness and retains reciprocal controls.
+- **D:** Conviction without a competent court would violate role separation and due process.
 
-Why does this package not state how many States currently withhold general consent?
+**Examiner trap 31: a reform answer earns marks when every autonomy gain has an accountability control.**
 
-A. Such data can never be published.
-B. State consent is irrelevant.
-C. No State can withdraw it.
-D. The count is transient and must be verified against a date-specific official source.
+### MCQ 32. Integrated scenario
 
-**Answer: D.**
+A new PC Act case concerns an official decision by a State public servant after the State withdrew general consent. No constitutional court has ordered CBI investigation. Which is the most complete starting analysis?
 
-**Explanation:** `[LIMIT]` Durable notes should not freeze a volatile number without live official evidence.
-
-### Remedial MCQ 9
-
-When a covered organisation disagrees with CVC advice, the accountability device is:
-
-A. Written reasons communicated to CVC
-B. Automatic imprisonment
-C. A fresh constitutional amendment
-D. State consent
-
-**Answer: A.**
-
-**Explanation:** Reason-giving enables institutional scrutiny while preserving competent-authority responsibility.
-
-### Remedial MCQ 10
-
-Which trio belongs to the CBI Director selection committee?
-
-A. President, Speaker, Attorney General
-B. PM, Lok Sabha LoP/substitute, CJI/nominee
-C. PM, Home Minister, CVC
-D. CVC, CAG, UPSC Chairperson
-
-**Answer: B.**
-
-**Explanation:** Do not import the CVC appointment committee into DSPE section 4A.
-
-### Remedial MCQ 11
-
-Which pairing is correct?
-
-A. CVC — general criminal trial
-B. NIA — PMLA
-C. CBI/DSPE — notified offences and DSPE jurisdiction; ED — PMLA money-laundering field
-D. ED — DSPE Act
-
-**Answer: C.**
-
-**Explanation:** Each body’s power must be traced to its own governing law.
-
-### Remedial MCQ 12
-
-Who gives the final determination of criminal guilt?
-
-A. CBI Director
-B. Media
-C. CVC
-D. Competent court
+A. CBI may proceed everywhere because PC Act is a Central law.
+B. CVC's superintendence itself supplies State consent and section 17A approval.
+C. Withdrawal retrospectively invalidates every older CBI case in the State.
+D. Check section 3 notification, section 5 extension, fresh section 6 authority, section 17A applicability/exception and the distinct later section 19 sanction stage.
 
 **Answer: D.**
 
-**Explanation:** The presumption of innocence continues through investigation and prosecution.
+**Option-specific explanations:**
 
-### Visual 74 — MCQ Rotation Audit
+- **A:** A Central offence statute does not erase DSPE territorial federalism.
+- **B:** CVC oversight cannot substitute for State consent or competent-authority approval under another statute.
+- **C:** Prospective withdrawal does not automatically destroy validly initiated older cases.
+- **D:** This option identifies subject, territory, entry authority, investigation approval and prosecution as separate gates.
 
-```text
-Original MCQs 1-36:
-A B C D | A B C D | A B C D | A B C D | A B C D
-| A B C D | A B C D | A B C D | A B C D
-
-Remedials 1-12:
-A B C D | A B C D | A B C D
-
-Continuous total:
-48 markers = (A B C D) repeated 12 times
-```
-
-*Caption: The correct option never repeats consecutively and the rotation continues across the original/remedial boundary.*
-
+**Examiner trap 32: integrated questions are solved by a gate sequence, not by choosing the most powerful-sounding institution.**
 
 ## PYQS AND ANSWER PRACTICE
 
-#### PYQ, Practice and Solved Workbook
+### Verified-PYQ and official-key discipline
 
-#### A. PYQ Routing Audit
+The audited repository routing identifies one direct Mains demand and one relevant 2026 objective matching demand. The Mains wording below is reproduced from the controlled official-paper record. The 2026 objective paper is reproduced, but no final official answer letter is claimed because the repository control records only a provisional key.
 
-[FACT] The local direct-owner and cross-cutting routing ledgers, topic owners, recent Polity packages and official papers were searched for CVC/CBI-linked questions.
+### Verified Mains PYQ - UPSC Civil Services (Main) Examination 2021, GS-II, Question 11 - 15 marks, 250 words
 
-### Visual 71 — Verified PYQ Coverage
+> "The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned by various States. However, the power of States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India."
 
-| Year/paper | Question | Routing status | Treatment |
-|---|---|---|---|
-| 2021 GS-II Q11 | CBI jurisdiction, State consent and federal character | Verified cross-cutting Polity PYQ | Fully solved below |
-| 2026 Prelims GS-I Q63, Set A | Organisation-function-controlling Ministry matching | Verified official paper; provisional key only in local control ledger | Exact question reproduced; deliberately unsolved |
+**Demand decoding:** Explain the ordinary State-consent rule, the legal effect of withdrawal and the constitutional qualifications; then evaluate the balance in federal terms.
 
-*Caption: No additional question is labelled as a direct verified PYQ merely because it is thematically similar.*
+**Model answer:**
 
-[LIMIT] The 2026 key in the local audit trail is provisional and records no answer letter. This package neither infers an answer from a provisional count nor resolves individual rows indirectly.
+The CBI is an executive-created organisation whose police powers principally arise from the Delhi Special Police Establishment Act, 1946. **Claim:** State consent is a real federal gate in the ordinary route. **Evidence:** sections 5 and 6 permit Central extension of DSPE powers to a State area but require that State's consent; police and public order lie in State List Entries 2 and 1. **Analysis:** general consent facilitates routine cases, while specific consent preserves closer State control. Withdrawal ordinarily operates prospectively for new cases. **Qualification:** in *Kazi Lhendup Dorji v CBI* (1994), investigations validly begun before withdrawal were not automatically terminated.
 
-#### B. Verified Mains PYQ — 2021 GS-II Q11
+The State veto is not absolute. **Claim:** constitutional courts retain an independent corrective route. **Evidence:** the Constitution Bench in *State of West Bengal v Committee for Protection of Democratic Rights* (2010) held that High Courts under Article 226 and the Supreme Court under Article 32 may direct CBI investigation without State consent. **Analysis:** judicial review and protection of fundamental rights cannot be curtailed by section 6. **Qualification:** the Court required sparing, cautious and exceptional use, preserving the ordinary responsibility of State police.
 
-> **Question:** “The jurisdiction of the Central Bureau of Investigation regarding lodging an FIR and conducting a probe within a particular State is being questioned by various States. However, the power of States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India.”  
-> **15 marks | 250 words | Directive: Explain**
+Thus Indian federalism rejects both an inherent all-India CBI police power and an unreviewable State shield. Cooperative consent protocols, neutral investigation and exceptional constitutional review provide the defensible balance.
 
-### Visual 72 — PYQ Demand Map
+**Why this earns marks:** It answers both halves of the question with sections 5-6, State List entries, *Kazi Lhendup Dorji* and *CPDR*, and ends with a qualified federal verdict.
 
-```text
-PART 1: Why State consent exists
-DSPE sections 5-6 + State police field
-               |
-PART 2: Why it is not absolute
-SC/HC constitutional power + pending-case rule
-               |
-PART 3: Federal evaluation
-State autonomy + rights + judicial review
-               |
-PART 4: Balanced conclusion
-exceptional court power + cooperative protocols
-```
+### Verified Prelims PYQ - UPSC Civil Services (Preliminary) Examination 2026, GS Paper I, Question 63
 
-*Caption: The question asks for a qualified federal explanation, not a defence of either unlimited Union power or an absolute State veto.*
-
-### Model Solution
-
-The CBI is an executive-created organisation, while its core police powers arise from the Delhi Special Police Establishment Act, 1946. `[FACT]` Sections 5 and 6 reflect India’s federal structure: the Central Government may extend DSPE powers to a State area, but their ordinary exercise requires the State Government’s consent. This respects “police” and “public order” as State List subjects.
-
-Consent may be general for defined classes of cases or case-specific. `[FACT]` A State may prospectively withdraw general consent, thereby requiring a fresh legal basis for new investigations. However, the veto is not absolute for three reasons.
-
-First, `[FACT]` in *Kazi Lhendup Dorji v. CBI (1994) v CBI* (1994), the Supreme Court held that later withdrawal did not terminate investigations validly commenced while consent operated; CBI could complete them and submit its police report.
-
-Second, `[FACT]` in *State of West Bengal v State of West Bengal v. Committee for Protection of Democratic Rights (2010)*, a Constitution Bench held that High Courts under Article 226 and the Supreme Court under Article 32 may direct a CBI investigation without State consent. Such power flows from the Constitution, not section 6, and protects fundamental rights and judicial review. `[LIMIT]` The Court required sparing, cautious and exceptional use; routine transfer would itself erode federal balance and State-police responsibility.
-
-Third, the precise terms and timing of consent matter. `[FACT]` *Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)* reached a fact-specific result and cannot be converted into a universal rule that later consent always cures a defect.
-
-`[ANALYSIS]` Thus, Indian federalism creates neither an unchecked central police nor an unreviewable State shield. The preferred equilibrium is State consent in the ordinary route, constitutional-court intervention in exceptional cases, and transparent Union-State protocols for investigations crossing jurisdictions.
-
-**Why this earns marks:** It explains sections 5-6, distinguishes general and specific consent, uses Kazi Lhendup Dorji v. CBI (1994) and STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010) for the two qualifications, and reaches a federal rather than partisan conclusion.
-
-**How to improve this answer:** Compress the consent history into three legal steps—ordinary State consent, survival of valid pending cases, and exceptional constitutional-court direction—then use the final 40 words for federal evaluation.
-
-### Examiner Value Addition
-
-- Use “qualified State veto,” not “State consent is irrelevant.”
-- Name sections 5-6 before citing *STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010)*.
-- Distinguish pending cases from new cases after withdrawal.
-- End with cooperative federalism and rights-protecting judicial review.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Visual 72 — PYQ Demand Map”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the sociological demand in “Visual 72 — PYQ Demand Map”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** SC/HC constitutional power + pending-case rule **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** exceptional court power + cooperative protocols **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Caption: The question asks for a qualified federal explanation, not a defence of either unlimited Union power or an absolute State veto. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Third, the precise terms and timing of consent matter. [FACT] Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020) reached a fact-specific result and cannot be converted into a universal rule that later consent always cures a defect. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It explains sections 5-6, distinguishes general and specific consent, uses Kazi Lhendup Dorji v. CBI (1994) and STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010) for the two qualifications, and reaches a federal rather than partisan conclusion. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The answer must resolve the sociological demand in “Visual 72 — PYQ Demand Map”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-#### C. Verified Prelims PYQ — 2026 GS-I Q63 (Controlled Unsolved)
-
-> **63. With reference to the organisations under the Government of India, consider the following details:**
+> With reference to the organisations under the Government of India, consider the following details:
 
 | Sl. No. | Organisation | Function | Controlling Union Ministry |
 |---:|---|---|---|
-| 1. | Central Economic Intelligence Bureau (CEIB) | To coordinate between various law enforcement agencies | Ministry of Home Affairs |
-| 2. | Serious Fraud Investigation Office (SFIO) | To investigate complex corporate frauds | Ministry of Finance |
-| 3. | Central Bureau of Investigation (CBI) | To preserve values in public life and ensure the health of the national economy | Ministry of Personnel, Public Grievances and Pension |
+| 1 | Central Economic Intelligence Bureau (CEIB) | To coordinate between various law enforcement agencies | Ministry of Home Affairs |
+| 2 | Serious Fraud Investigation Office (SFIO) | To investigate complex corporate frauds | Ministry of Finance |
+| 3 | Central Bureau of Investigation (CBI) | To preserve values in public life and ensure the health of the national economy | Ministry of Personnel, Public Grievances and Pension |
 
-> **In how many of the above rows are the given details correctly matched?**  
-> (a) 1  
-> (b) 2  
-> (c) 3  
+> In how many of the above rows are the given details correctly matched?
+>
+> (a) 1
+>
+> (b) 2
+>
+> (c) 3
+>
 > (d) None
 
-### Visual 73 — How to Audit a Matching Question Without Guessing
+**Official-key discipline:** The question wording is controlled, but the available local answer-key record is provisional. No answer letter, row count or "official solution" is asserted here.
 
-```text
-FOR EACH ROW, VERIFY THREE INDEPENDENT ELEMENTS
+**Exam method:** Verify each row independently on three axes - organisation, assigned function and controlling ministry/department - before counting. A correct function cannot cure a wrong ministry, and a correct ministry cannot cure an inaccurate mandate.
 
-organisation identity
-        +
-officially assigned function
-        +
-current administrative ministry/department
-        =
-row-level conclusion
+### ORIGINAL MAINS PRACTICE - EXACTLY SIX MODELS
 
-Only then count correct rows.
-```
+### Original Mains 1 - 10 marks, 150 words
 
-*Caption: A familiar function cannot compensate for a wrong ministry, and a correct ministry cannot compensate for an inaccurate mandate.*
+> **Explain why the CBI's organisational creation and its police powers must be traced to different legal instruments.**
 
-[LIMIT] **Resolution withheld:** the official paper wording is verified, but the available local answer-key control is provisional and contains no recorded answer letter. No option, count or row-wise conclusion is supplied here.
+**Model answer:**
 
-#### F. Original Solved Mains Practice — 8 Questions
+CBI has a hybrid legal identity. **Claim:** its organisational form is executive-created. **Evidence:** the Government of India Resolution dated 1 April 1963 established the Central Bureau of Investigation and placed the Delhi Special Police Establishment within its investigative structure. **Analysis:** the resolution explains mandate and administration. **Qualification:** it cannot independently create coercive police jurisdiction.
 
-### Solved Mains 1 — 10 Marks / 150 Words
+**Claim:** core police powers are statutory. **Evidence:** the DSPE Act, 1946 constitutes the police establishment; section 2 supplies the Union Territory baseline, section 3 notified offences, sections 5-6 State extension and consent, and section 4 superintendence and administration. **Analysis:** arrest, search and investigation therefore depend on statute and criminal procedure. **Qualification:** calling CBI "non-statutory" does not mean its investigators act without law.
 
-> **“The CBI’s organisational birth and its investigative powers arise from different legal instruments.” Explain.**
+The precise answer is: CBI is organised by resolution, while DSPE provides its principal statutory police power. A dedicated CBI law remains a reform proposal, not current law.
 
-### Visual 75 — Two-Layer Thesis
+**Why this earns marks:** The answer states the two legal sources, names operative sections, explains why the distinction matters and avoids the opposite errors of calling CBI statutory or lawless.
 
-```text
-ORGANISATION                         POLICE POWER
-CBI resolution, 1963                DSPE Act, 1946
-mandate and structure               powers, offences, territory
-          \                           /
-           \                         /
-            CBI/DSPE in operation
-```
+### Original Mains 2 - 10 marks, 150 words
 
-*Caption: The distinction prevents the common error of calling CBI itself a statutory body created by the DSPE Act.*
+> **Differentiate departmental vigilance, CVC oversight, CBI investigation, prosecution and judicial adjudication.**
 
-**Model solution:**
+**Model answer:**
 
-The Central Bureau of Investigation is a Union investigative organisation, but its legal identity is hybrid.
+Anti-corruption administration is a sequence, not a single authority. **Claim:** departmental vigilance prevents and processes misconduct. **Evidence:** Chief Vigilance Officers review systems, scrutinise complaints and coordinate disciplinary action. **Analysis:** proximity to records enables early risk correction. **Qualification:** CVOs are neither police nor final disciplinary authorities.
 
-`[FACT]` The Government of India established CBI through a Home Ministry resolution dated 1 April 1963. The resolution organised a wider bureau covering investigation and anti-corruption, economic offences, special crimes and related work. Therefore, no standalone “CBI Act” created the organisation.
+**Claim:** CVC provides statutory vigilance oversight. **Evidence:** section 8 of the CVC Act authorises supervision, inquiry routing, investigation and sanction review, advice and vigilance-administration control. **Analysis:** it connects departments with the anti-corruption system. **Qualification:** it cannot dictate a particular case or convict.
 
-`[FACT]` Its core police powers are principally exercised through the Delhi Special Police Establishment constituted under the DSPE Act, 1946. Section 2 supplies the Union Territory baseline; section 3 requires notified offence classes; sections 5-6 govern extension to State areas and State consent. The DSPE Act also provides the superintendence, Director-selection, tenure and senior-appointment architecture.
+**Claim:** CBI/DSPE performs police investigation. **Evidence:** the DSPE Act supplies offence and territorial powers. It may submit a charge sheet or closure report. **Qualification:** State consent or another lawful route may be required.
 
-`[ANALYSIS]` Thus, executive creation explains organisational form, while statute supplies coercive authority and limits. An executive resolution cannot by itself override federal consent, criminal procedure or judicial safeguards.
+Prosecution presents the State's case after applicable sanction; the competent court alone takes cognizance, conducts trial and determines guilt.
 
-`[LIMIT]` Calling CBI “non-statutory” should not imply that its investigators act without statutory power. The precise formulation is: **CBI is executive-created; DSPE police powers are statutory.**
+**Why this earns marks:** It assigns a distinct verb and output to every actor, uses CVC section 8 and the DSPE Act, and closes with the court's exclusive guilt-determination role.
 
-**Conclusion:** A dedicated CBI law may improve institutional clarity, but until enacted, answers must preserve this two-layer legal identity.
+### Original Mains 3 - 15 marks, 250 words
 
-**Why this earns marks:** It preserves the hybrid identity: executive-created CBI organisation, statutory DSPE police power and federal limits.
+> **Examine whether the CVC is an effective apex vigilance institution despite its advisory character.**
 
-**How to improve this answer:** In 150 words, use a two-column creation-versus-power distinction and omit organisational branches unless the question asks for them.
+**Model answer:**
 
-**Demand decoding:** The directive **answer** requires a direct position on “Solved Mains 1 — 10 Marks / 150 Words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+The CVC Act, 2003 makes CVC the statutory apex of Union vigilance, but not a general anti-corruption police force.
 
-**Detailed examiner-grade model answer:**
+**Claim:** institutional design provides independence. **Evidence:** section 3 creates a multi-member Commission; section 4 uses the PM-Home Minister-LoP committee; sections 5-6 provide fixed tenure, age ceiling and protected removal; expenses are charged on the Consolidated Fund. **Analysis:** these safeguards reduce ordinary executive pleasure. **Qualification:** appointment remains executive-heavy, and a four-year ceiling may limit continuity.
 
-**Introduction and thesis:** The Central Bureau of Investigation is a Union investigative organisation, but its legal identity is hybrid.
+**Claim:** section 8 creates meaningful system reach. **Evidence:** CVC superintends DSPE PC Act investigations, gives bounded directions, causes inquiry/investigation, reviews investigation and sanction progress, advises covered bodies and supervises vigilance administration. CVOs extend prevention into departments. **Analysis:** the Commission can connect systemic risk, case delay and disciplinary response. **Qualification:** it cannot dictate a particular case, exercise universal police power or determine guilt.
 
-`[FACT]` The Government of India established CBI through a Home Ministry resolution dated 1 April 1963. The resolution organised a wider bureau covering investigation and anti-corruption, economic offences, special crimes and related work. Therefore, no standalone “CBI Act” created the organisation.
+**Claim:** advice can still produce accountability. **Evidence:** section 17 requires written reasons for disagreement; section 14 requires an annual report with a separate DSPE part laid before Parliament. **Analysis:** reason-giving and publicity make non-acceptance reviewable institutionally. **Qualification:** formal reasons and weak follow-up can dilute impact.
 
-`[FACT]` Its core police powers are principally exercised through the Delhi Special Police Establishment constituted under the DSPE Act, 1946. Section 2 supplies the Union Territory baseline; section 3 requires notified offence classes; sections 5-6 govern extension to State areas and State consent. The DSPE Act also provides the superintendence, Director-selection, tenure and senior-appointment architecture.
+Effectiveness therefore depends on timely appointments, professional CVOs, reasoned compliance, sanction tracking and legislative scrutiny. CVC is an important oversight hub, but its credibility rests on implementation rather than statutory status alone.
 
-`[ANALYSIS]` Thus, executive creation explains organisational form, while statute supplies coercive authority and limits. An executive resolution cannot by itself override federal consent, criminal procedure or judicial safeguards.
+**Why this earns marks:** The model balances design, section 8 powers and advisory limits, names the reason-giving and reporting mechanisms, and ties each reform to a diagnosed weakness.
 
-`[LIMIT]` Calling CBI “non-statutory” should not imply that its investigators act without statutory power. The precise formulation is: **CBI is executive-created; DSPE police powers are statutory.**
+### Original Mains 4 - 15 marks, 250 words
 
-**Analytical body:**
+> **Analyse the distinction between section 17A approval and section 19 prosecution sanction under the Prevention of Corruption Act.**
 
-1. **Claim and named evidence:** “The CBI’s organisational birth and its investigative powers arise from different legal instruments.” Explain. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** mandate and structure powers, offences, territory **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Caption: The distinction prevents the common error of calling CBI itself a statutory body created by the DSPE Act. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The Central Bureau of Investigation is a Union investigative organisation, but its legal identity is hybrid. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** [LIMIT] Calling CBI “non-statutory” should not imply that its investigators act without statutory power. The precise formulation is: CBI is executive-created; DSPE police powers are statutory. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
+**Model answer:**
 
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
+Sections 17A and 19 protect different stages of the anti-corruption process and should never be merged.
 
-**Qualified conclusion:** The Central Bureau of Investigation is a Union investigative organisation, but its legal identity is hybrid.
+**Claim:** section 17A is an investigation-stage gate. **Evidence:** it requires previous approval before enquiry, inquiry or investigation where the alleged PC Act offence is relatable to a public servant's recommendation or decision in discharge of official functions. The competent authority depends on Union, State or other employment. **Analysis:** the provision seeks to protect honest official decision-making from vexatious criminal process. **Qualification:** it is fact-sensitive and does not apply when a person is arrested on the spot for accepting or attempting to accept undue advantage.
 
-`[FACT]` The Government of India established CBI through a Home Ministry resolution dated 1 April 1963. The resolution organised a wider bureau covering investigation and anti-corruption, economic offences, special crimes and related work. Therefore, no standalone “CBI Act” created the organisation.
+**Claim:** section 19 is a prosecution-stage gate. **Evidence:** it restricts a court from taking cognizance of specified PC Act offences without previous sanction from the competent government or authority. **Analysis:** it screens the transition from completed investigation to criminal prosecution. **Qualification:** sanction is not a finding that the accused is guilty or innocent.
 
-`[FACT]` Its core police powers are principally exercised through the Delhi Special Police Establishment constituted under the DSPE Act, 1946. Section 2 supplies the Union Territory baseline; section 3 requires notified offence classes; sections 5-6 govern extension to State areas and State consent. The DSPE Act also provides the superintendence, Director-selection, tenure and senior-appointment architecture.
+**Claim:** CVC's role is review, not substitution. **Evidence:** CVC Act section 8 authorises review of pending prosecution-sanction applications. **Analysis:** monitoring can reduce delay. **Qualification:** the competent authority retains its statutory decision.
 
-`[ANALYSIS]` Thus, executive creation explains organisational form, while statute supplies coercive authority and limits. An executive resolution cannot by itself override federal consent, criminal procedure or judicial safeguards.
+Thus the correct sequence is: jurisdiction and information threshold -> section 17A where attracted -> investigation -> final report -> section 19 sanction where required -> court cognizance and trial. Clear stage separation protects honest administration without confusing safeguards with impunity.
 
-`[LIMIT]` Calling CBI “non-statutory” should not imply that its investigators act without statutory power. The precise formulation is: **CBI is executive-created; DSPE police powers are statutory.**
+**Why this earns marks:** It identifies the trigger, authority, stage and exception for each provision, adds CVC's review role and finishes with a legally ordered lifecycle.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+### Original Mains 5 - 20 marks, 250 words
 
-### Solved Mains 2 — 15 Marks / 250 Words
+> **Critically analyse the State-consent architecture governing CBI investigations and its implications for Indian federalism.**
 
-> **Examine whether the CVC is an effective “apex vigilance institution” despite being primarily advisory and supervisory.**
+**Model answer:**
 
-### Visual 76 — CVC Effectiveness Test
+CBI's State-area jurisdiction reflects a federal compromise: national investigative capacity operates through a police establishment whose ordinary reach is conditioned by State authority.
 
-```text
-LEGAL STATUS + INDEPENDENCE SAFEGUARDS
-                    |
-SECTION 8 POWERS ---+--- CVO NETWORK
-                    |
-ADVICE + REVIEW + REPORTING
-                    |
-       EFFECTIVENESS DEPENDS ON
-compliance / staffing / reasons / follow-up
-```
+**Claim:** consent is a substantive federal gate. **Evidence:** DSPE section 5 permits Central extension of powers to a State area, while section 6 requires State consent; police and public order are State List Entries 2 and 1. **Analysis:** general consent enables routine defined cases, whereas specific consent preserves case-level control. **Qualification:** the instrument's exact offences, persons, territory and riders determine its scope.
 
-*Caption: Formal power creates capacity; organisational compliance converts capacity into outcome.*
+**Claim:** withdrawal ordinarily operates prospectively. **Evidence:** *Kazi Lhendup Dorji v CBI* allowed investigations validly begun before withdrawal to continue. **Analysis:** this protects legal certainty and completed investigative steps. **Qualification:** it gives no permanent authority for new cases after withdrawal.
 
-**Model solution:**
+**Claim:** the State veto is not constitutionally absolute. **Evidence:** the Constitution Bench in *State of West Bengal v CPDR* held that High Courts under Article 226 and the Supreme Court under Article 32 may direct CBI investigation without consent. **Analysis:** judicial review and fundamental-rights protection cannot be reduced by statute. **Qualification:** the power must be sparing, cautious and exceptional.
 
-The CVC Act, 2003 makes the Central Vigilance Commission the statutory apex of the Union vigilance framework, but not a general anti-corruption police force.
+Consent can prevent central overreach, yet politically tactical withdrawal may delay inter-State corruption cases. Conversely, automatic Union jurisdiction would erode the State police domain. Reforms should use transparent consent instruments, time-bound requests, joint teams and neutral criteria, without executive circumvention of section 6.
 
-`[FACT]` Its institutional strength lies in a multi-member Commission, committee-based presidential appointment, fixed tenure, protected removal, post-tenure employment restrictions, expenditure charged on the Consolidated Fund of India and annual reporting to Parliament.
+Indian federalism therefore supports a qualified State gate, exceptional constitutional correction and cooperative investigative protocols.
 
-Operationally, `[FACT]` section 8 gives CVC superintendence over DSPE investigations under the Prevention of Corruption Act, constrained direction power, complaint/reference inquiry routes, review of investigations and prosecution-sanction applications, advice to covered central organisations and supervision of vigilance administration. Through CVOs, it can combine preventive vigilance with departmental follow-up.
+**Why this earns marks:** The answer uses statutory text, State List entries and two controlling cases, evaluates both centralisation and obstruction risks, and proposes reforms compatible with section 6.
 
-However, its model is deliberately bounded. It cannot dictate how a named case must be investigated or disposed of, conduct every criminal investigation itself, impose criminal guilt, or operate as a universal ombudsman. `[FACT]` Its advice is not automatically binding; the organisation may disagree after recording and communicating reasons.
+### Original Mains 6 - 20 marks, 250 words
 
-`[ANALYSIS]` Advisory status is not necessarily weakness. It preserves departmental responsibility and avoids merging investigator, prosecutor and adjudicator. Yet effectiveness falls when reasons are formulaic, appointments or staffing are delayed, CVOs lack functional independence, prosecution sanction is slow, or aggregate reporting does not produce legislative scrutiny.
+> **Suggest reforms that can strengthen CBI independence and CVC effectiveness without creating an unaccountable investigative state.**
 
-**Way forward:** strengthen time-bound reasoned compliance, professional CVO protection, digital vigilance analytics, public aggregate reporting and follow-up audit, while retaining the prohibition on case-specific dictation.
+**Model answer:**
 
-**Conclusion:** CVC is structurally significant but outcome-dependent—an oversight hub whose credibility rests on the quality of advice, compliance and transparent institutional response.
+Reform must insulate evidence-based investigation from improper control while keeping coercive power answerable to federalism, law, Parliament and courts.
 
-**Why this earns marks:** It evaluates CVC through legal status, section 8 mechanisms, advisory limits and practical compliance rather than using a slogan.
+**First, clarify legal status. Claim:** CBI's resolution-based organisation creates ambiguity. **Evidence:** police powers come through the 1946 DSPE Act, while the bureau dates to the 1963 resolution. **Analysis:** Parliament should debate a dedicated CBI law defining mandate, allocation, interference offences and reporting. **Qualification:** legislation must preserve section 6 consent and Articles 32/226.
 
-**How to improve this answer:** Rank CVC strengths and limits under authority, independence and follow-up; attach one practical reform to each diagnosed weakness.
+**Second, secure professional capacity. Claim:** staffing, deputation, forensics and prosecution delays weaken outcomes. **Evidence:** complex corruption requires financial, cyber and scientific expertise. **Analysis:** build a stable multidisciplinary cadre, laboratory capacity, fixed investigator tenures and common digital-evidence standards. **Qualification:** capacity needs audit, diversity and external review.
 
-**Demand decoding:** The directive **answer** requires a direct position on “Solved Mains 2 — 15 Marks / 250 Words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
+**Third, protect investigation governance.** Use auditable case allocation, written recusals, documented transfers and non-sensitive publication of policy criteria. *Alok Kumar Verma* shows that transfer-like divestment must respect the statutory committee. Annual Director extensions should retain genuine public-interest reasons and committee scrutiny.
 
-**Detailed examiner-grade model answer:**
+**Fourth, strengthen CVC.** Professionalise CVOs, track investigation and sanction delay, require substantive reasons when advice is rejected, and improve section 14 aggregate reporting. **Qualification:** CVC must not dictate particular-case outcomes or acquire conviction power.
 
-**Introduction and thesis:** The CVC Act, 2003 makes the Central Vigilance Commission the statutory apex of the Union vigilance framework, but not a general anti-corruption police force.
+**Fifth, repair federal trust.** Adopt lawful model consent protocols, time-bound decisions and joint coordination for multi-State cases.
 
-`[FACT]` Its institutional strength lies in a multi-member Commission, committee-based presidential appointment, fixed tenure, protected removal, post-tenure employment restrictions, expenditure charged on the Consolidated Fund of India and annual reporting to Parliament.
+The target is not "CBI beyond government" but operational insulation plus legal answerability, with courts determining guilt and Parliament examining institutional performance.
 
-Operationally, `[FACT]` section 8 gives CVC superintendence over DSPE investigations under the Prevention of Corruption Act, constrained direction power, complaint/reference inquiry routes, review of investigations and prosecution-sanction applications, advice to covered central organisations and supervision of vigilance administration. Through CVOs, it can combine preventive vigilance with departmental follow-up.
-
-However, its model is deliberately bounded. It cannot dictate how a named case must be investigated or disposed of, conduct every criminal investigation itself, impose criminal guilt, or operate as a universal ombudsman. `[FACT]` Its advice is not automatically binding; the organisation may disagree after recording and communicating reasons.
-
-`[ANALYSIS]` Advisory status is not necessarily weakness. It preserves departmental responsibility and avoids merging investigator, prosecutor and adjudicator. Yet effectiveness falls when reasons are formulaic, appointments or staffing are delayed, CVOs lack functional independence, prosecution sanction is slow, or aggregate reporting does not produce legislative scrutiny.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Examine whether the CVC is an effective “apex vigilance institution” despite being primarily advisory and supervisory. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Caption: Formal power creates capacity; organisational compliance converts capacity into outcome. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** The CVC Act, 2003 makes the Central Vigilance Commission the statutory apex of the Union vigilance framework, but not a general anti-corruption police force. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Conclusion: CVC is structurally significant but outcome-dependent—an oversight hub whose credibility rests on the quality of advice, compliance and transparent institutional response. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It evaluates CVC through legal status, section 8 mechanisms, advisory limits and practical compliance rather than using a slogan. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The CVC Act, 2003 makes the Central Vigilance Commission the statutory apex of the Union vigilance framework, but not a general anti-corruption police force.
-
-`[FACT]` Its institutional strength lies in a multi-member Commission, committee-based presidential appointment, fixed tenure, protected removal, post-tenure employment restrictions, expenditure charged on the Consolidated Fund of India and annual reporting to Parliament.
-
-Operationally, `[FACT]` section 8 gives CVC superintendence over DSPE investigations under the Prevention of Corruption Act, constrained direction power, complaint/reference inquiry routes, review of investigations and prosecution-sanction applications, advice to covered central organisations and supervision of vigilance administration. Through CVOs, it can combine preventive vigilance with departmental follow-up.
-
-However, its model is deliberately bounded. It cannot dictate how a named case must be investigated or disposed of, conduct every criminal investigation itself, impose criminal guilt, or operate as a universal ombudsman. `[FACT]` Its advice is not automatically binding; the organisation may disagree after recording and communicating reasons.
-
-`[ANALYSIS]` Advisory status is not necessarily weakness. It preserves departmental responsibility and avoids merging investigator, prosecutor and adjudicator. Yet effectiveness falls when reasons are formulaic, appointments or staffing are delayed, CVOs lack functional independence, prosecution sanction is slow, or aggregate reporting does not produce legislative scrutiny.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### Solved Mains 3 — 15 Marks / 250 Words
-
-> **Analyse the constitutional and statutory limits on State power to deny CBI jurisdiction.**
-
-### Visual 77 — Qualified State Veto
-
-```text
-ORDINARY ROUTE                    QUALIFICATIONS
-DSPE ss.5-6                       pending valid cases
-State-area extension              SC Article 32
-+ State consent                   HC Article 226
-       |                                 |
-       +---------- FEDERAL BALANCE ------+
-```
-
-*Caption: State consent is legally meaningful but not superior to constitutional judicial review.*
-
-**Model solution:**
-
-State control over police and public order is a core federal feature. The DSPE Act translates that feature into an ordinary territorial gate for CBI/DSPE investigations.
-
-`[FACT]` Section 5 authorises the Central Government to extend DSPE powers to a State area, while section 6 requires the State Government’s consent. Consent may be general for defined categories or specific to a case. A State may prospectively withdraw general consent, ordinarily requiring fresh authority for new investigations.
-
-The power is nevertheless qualified. First, `[FACT]` *Kazi Lhendup Dorji v. CBI (1994) v CBI* held that withdrawal did not retrospectively terminate investigations validly begun when consent existed. The agency could complete investigation and submit the police report.
-
-Second, `[FACT]` the Constitution Bench in *State of West Bengal v STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010)* held that the Supreme Court and High Courts may direct a CBI probe without State consent under Articles 32 and 226. Such authority arises from constitutional judicial review and protection of fundamental rights, not from a fiction of consent. `[LIMIT]` The power must be used sparingly, cautiously and exceptionally, so State police are not routinely displaced.
-
-Third, consent disputes remain fact-sensitive. `[FACT]` *Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)* cannot be generalised into an automatic post-facto cure. Likewise, the 2024 *West Bengal v Union* ruling cited here rejected only a maintainability objection and did not settle merits.
-
-`[ANALYSIS]` An absolute State veto could shield rights violations; an unchecked Union police could undermine the State List. Federalism therefore requires a rule-bound ordinary consent route, exceptional judicial correction and cooperative protocols for inter-jurisdictional crime.
-
-**Conclusion:** The State’s power is substantial, prospective and federal—but neither retrospective over every pending case nor immune from constitutional review.
-
-**Why this earns marks:** It states the ordinary consent rule, pending-case qualification and constitutional-court exception with narrow case holdings.
-
-**How to improve this answer:** Draw the answer around sections 2, 5 and 6, then give one sentence each to pending investigations and court-ordered probes.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Solved Mains 3 — 15 Marks / 250 Words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** State control over police and public order is a core federal feature. The DSPE Act translates that feature into an ordinary territorial gate for CBI/DSPE investigations.
-
-`[FACT]` Section 5 authorises the Central Government to extend DSPE powers to a State area, while section 6 requires the State Government’s consent. Consent may be general for defined categories or specific to a case. A State may prospectively withdraw general consent, ordinarily requiring fresh authority for new investigations.
-
-The power is nevertheless qualified. First, `[FACT]` *Kazi Lhendup Dorji v. CBI (1994) v CBI* held that withdrawal did not retrospectively terminate investigations validly begun when consent existed. The agency could complete investigation and submit the police report.
-
-Second, `[FACT]` the Constitution Bench in *State of West Bengal v STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010)* held that the Supreme Court and High Courts may direct a CBI probe without State consent under Articles 32 and 226. Such authority arises from constitutional judicial review and protection of fundamental rights, not from a fiction of consent. `[LIMIT]` The power must be used sparingly, cautiously and exceptionally, so State police are not routinely displaced.
-
-Third, consent disputes remain fact-sensitive. `[FACT]` *Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)* cannot be generalised into an automatic post-facto cure. Likewise, the 2024 *West Bengal v Union* ruling cited here rejected only a maintainability objection and did not settle merits.
-
-`[ANALYSIS]` An absolute State veto could shield rights violations; an unchecked Union police could undermine the State List. Federalism therefore requires a rule-bound ordinary consent route, exceptional judicial correction and cooperative protocols for inter-jurisdictional crime.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Analyse the constitutional and statutory limits on State power to deny CBI jurisdiction. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Caption: State consent is legally meaningful but not superior to constitutional judicial review. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** State control over police and public order is a core federal feature. The DSPE Act translates that feature into an ordinary territorial gate for CBI/DSPE investigations. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Conclusion: The State’s power is substantial, prospective and federal—but neither retrospective over every pending case nor immune from constitutional review. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It states the ordinary consent rule, pending-case qualification and constitutional-court exception with narrow case holdings. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** State control over police and public order is a core federal feature. The DSPE Act translates that feature into an ordinary territorial gate for CBI/DSPE investigations.
-
-`[FACT]` Section 5 authorises the Central Government to extend DSPE powers to a State area, while section 6 requires the State Government’s consent. Consent may be general for defined categories or specific to a case. A State may prospectively withdraw general consent, ordinarily requiring fresh authority for new investigations.
-
-The power is nevertheless qualified. First, `[FACT]` *Kazi Lhendup Dorji v. CBI (1994) v CBI* held that withdrawal did not retrospectively terminate investigations validly begun when consent existed. The agency could complete investigation and submit the police report.
-
-Second, `[FACT]` the Constitution Bench in *State of West Bengal v STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010)* held that the Supreme Court and High Courts may direct a CBI probe without State consent under Articles 32 and 226. Such authority arises from constitutional judicial review and protection of fundamental rights, not from a fiction of consent. `[LIMIT]` The power must be used sparingly, cautiously and exceptionally, so State police are not routinely displaced.
-
-Third, consent disputes remain fact-sensitive. `[FACT]` *Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)* cannot be generalised into an automatic post-facto cure. Likewise, the 2024 *West Bengal v Union* ruling cited here rejected only a maintainability objection and did not settle merits.
-
-`[ANALYSIS]` An absolute State veto could shield rights violations; an unchecked Union police could undermine the State List. Federalism therefore requires a rule-bound ordinary consent route, exceptional judicial correction and cooperative protocols for inter-jurisdictional crime.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### Solved Mains 4 — 20 Marks / 300 Words
-
-> **“The central challenge is not to make CBI unaccountable to government, but to make investigation independent of improper control while keeping the agency answerable to law.” Critically analyse.**
-
-### Visual 78 — Insulation with Answerability
-
-```text
-IMPROPER CONTROL                     LAWFUL ACCOUNTABILITY
-political case selection             statute and jurisdiction
-transfer threats                     CVC/Lokpal oversight
-evidence/result dictation            courts and fair procedure
-selective resource pressure          audit and reporting
-            \                         /
-             \                       /
-              PROFESSIONAL AUTONOMY
-```
-
-*Caption: Institutional design must remove outcome manipulation without creating a secret, self-judging police authority.*
-
-**Model solution:**
-
-CBI occupies a difficult constitutional position: it handles nationally significant investigations, yet its organisation is executive-created, its administration lies within the Union executive and its State-area powers are federally conditioned.
-
-Several safeguards support independence. `[FACT]` *Vineet Narain v. Union of India (1997)* led to statutory CVC supervision over PC Act investigations, a protected minimum tenure and committee-based appointment/transfer safeguards. DSPE section 4A disperses Director selection across the Prime Minister, Opposition and judiciary. Section 4B protects a two-year minimum and requires committee consent for transfer. `[FACT]` *Alok Verma* prevented evasion of this protection through transfer-equivalent divestment of powers. The 2021 extension regime requires public interest, committee recommendation, written reasons and annual renewal within a five-year aggregate ceiling.
-
-Yet vulnerabilities remain. `[ANALYSIS]` Executive influence may operate through staffing, deputation, budget, promotion, selective references or public narratives even without a written direction. State-consent withdrawals can fragment investigations. Sanction delays and vacancies can weaken timelines. Perceived selective use damages public trust even where evidence in a particular case is sound.
-
-However, complete insulation from government would be constitutionally undesirable. Police power requires legal jurisdiction, financial audit, service regulation, prosecution scrutiny and judicial review. CVC and Lokpal superintendence are themselves bounded: neither may dictate a particular case result. Parliament must receive system-level information, while courts ensure due process and the accused retains the presumption of innocence.
-
-Reform should therefore:
-
-1. enact a debated CBI law defining organisation, mandate and accountability;
-2. protect a professional multidisciplinary cadre and functional budget;
-3. make case allocation, recusals and transfer reasons auditable;
-4. develop statutory-consistent federal consent protocols;
-5. strengthen aggregate parliamentary reporting without prejudicing live cases; and
-6. penalise unlawful interference while preserving lawful supervision.
-
-**Conclusion:** The goal is neither “CBI under command” nor “CBI beyond control,” but **operationally insulated, legally bounded and publicly accountable investigation**.
-
-**Why this earns marks:** It separates supervision, administration and investigative judgment and gives reforms matched to each interference risk.
-
-**How to improve this answer:** Use a three-layer grid—CVC corruption supervision, Central Government other superintendence, Director operational control—and avoid saying any actor may dictate case outcomes.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Solved Mains 4 — 20 Marks / 300 Words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** CBI occupies a difficult constitutional position: it handles nationally significant investigations, yet its organisation is executive-created, its administration lies within the Union executive and its State-area powers are federally conditioned.
-
-Several safeguards support independence. `[FACT]` *Vineet Narain v. Union of India (1997)* led to statutory CVC supervision over PC Act investigations, a protected minimum tenure and committee-based appointment/transfer safeguards. DSPE section 4A disperses Director selection across the Prime Minister, Opposition and judiciary. Section 4B protects a two-year minimum and requires committee consent for transfer. `[FACT]` *Alok Verma* prevented evasion of this protection through transfer-equivalent divestment of powers. The 2021 extension regime requires public interest, committee recommendation, written reasons and annual renewal within a five-year aggregate ceiling.
-
-Yet vulnerabilities remain. `[ANALYSIS]` Executive influence may operate through staffing, deputation, budget, promotion, selective references or public narratives even without a written direction. State-consent withdrawals can fragment investigations. Sanction delays and vacancies can weaken timelines. Perceived selective use damages public trust even where evidence in a particular case is sound.
-
-However, complete insulation from government would be constitutionally undesirable. Police power requires legal jurisdiction, financial audit, service regulation, prosecution scrutiny and judicial review. CVC and Lokpal superintendence are themselves bounded: neither may dictate a particular case result. Parliament must receive system-level information, while courts ensure due process and the accused retains the presumption of innocence.
-
-Reform should therefore:
-
-1. enact a debated CBI law defining organisation, mandate and accountability;
-2. protect a professional multidisciplinary cadre and functional budget;
-3. make case allocation, recusals and transfer reasons auditable;
-4. develop statutory-consistent federal consent protocols;
-5. strengthen aggregate parliamentary reporting without prejudicing live cases; and
-6. penalise unlawful interference while preserving lawful supervision.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** “The central challenge is not to make CBI unaccountable to government, but to make investigation independent of improper control while keeping the agency answerable to law.” Critically analyse. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** political case selection statute and jurisdiction **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** evidence/result dictation courts and fair procedure **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** selective resource pressure audit and reporting **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Caption: Institutional design must remove outcome manipulation without creating a secret, self-judging police authority. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** CBI occupies a difficult constitutional position: it handles nationally significant investigations, yet its organisation is executive-created, its administration lies within the Union executive and its State-area powers are federally conditioned.
-
-Several safeguards support independence. `[FACT]` *Vineet Narain v. Union of India (1997)* led to statutory CVC supervision over PC Act investigations, a protected minimum tenure and committee-based appointment/transfer safeguards. DSPE section 4A disperses Director selection across the Prime Minister, Opposition and judiciary. Section 4B protects a two-year minimum and requires committee consent for transfer. `[FACT]` *Alok Verma* prevented evasion of this protection through transfer-equivalent divestment of powers. The 2021 extension regime requires public interest, committee recommendation, written reasons and annual renewal within a five-year aggregate ceiling.
-
-Yet vulnerabilities remain. `[ANALYSIS]` Executive influence may operate through staffing, deputation, budget, promotion, selective references or public narratives even without a written direction. State-consent withdrawals can fragment investigations. Sanction delays and vacancies can weaken timelines. Perceived selective use damages public trust even where evidence in a particular case is sound.
-
-However, complete insulation from government would be constitutionally undesirable. Police power requires legal jurisdiction, financial audit, service regulation, prosecution scrutiny and judicial review. CVC and Lokpal superintendence are themselves bounded: neither may dictate a particular case result. Parliament must receive system-level information, while courts ensure due process and the accused retains the presumption of innocence.
-
-Reform should therefore:
-
-1. enact a debated CBI law defining organisation, mandate and accountability;
-2. protect a professional multidisciplinary cadre and functional budget;
-3. make case allocation, recusals and transfer reasons auditable;
-4. develop statutory-consistent federal consent protocols;
-5. strengthen aggregate parliamentary reporting without prejudicing live cases; and
-6. penalise unlawful interference while preserving lawful supervision.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### Solved Mains 5 — 10 Marks / 150 Words
-
-> **Differentiate the roles of Lokpal, CVC, CBI and departmental CVOs in processing corruption allegations.**
-
-### Visual 79 — Role-to-Output Chain
-
-```text
-LOKPAL        -> complaint route and statutory directions
-CVC           -> vigilance supervision, advice and referral
-CBI/DSPE      -> police investigation and final report
-CVO           -> departmental vigilance and preventive control
-COURT         -> guilt determination
-```
-
-*Caption: Complementarity arises because each institution produces a different legal output.*
-
-**Model solution:**
-
-The four institutions form an interconnected but non-hierarchical anti-corruption network.
-
-`[FACT]` Lokpal receives complaints against persons covered by the Lokpal Act. It may order preliminary inquiry or investigation through its Inquiry Wing or an agency including DSPE. Section 20 routes specified Group A-D preliminary inquiries to CVC, and section 25 gives Lokpal special superintendence over DSPE matters referred by it.
-
-`[FACT]` CVC is the apex Union vigilance institution. It supervises relevant DSPE anti-corruption investigations, reviews investigation and sanction progress, advises covered organisations and oversees vigilance administration. It cannot dictate a named case’s manner of disposal.
-
-`[FACT]` CBI/DSPE exercises police powers: registration, evidence collection, searches/arrests where lawful and submission of charge sheet or closure report.
-
-CVOs are departmental nodes for preventive vigilance, complaint examination, system correction and disciplinary coordination.
-
-`[ANALYSIS]` The institutions are complementary because complaint scrutiny, vigilance advice, police investigation, prosecution and adjudication require different safeguards.
-
-**Conclusion:** Treating one as the universal superior of the others obscures statutory routes and produces incorrect UPSC answers.
-
-**Why this earns marks:** It maps Lokpal referral, CVC oversight, CBI investigation and prosecution sanction without inventing a single hierarchy.
-
-**How to improve this answer:** Write the referral chain chronologically and identify the legal authority at every hand-off; reserve overlap criticism for the evaluation paragraph.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Solved Mains 5 — 10 Marks / 150 Words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The four institutions form an interconnected but non-hierarchical anti-corruption network.
-
-`[FACT]` Lokpal receives complaints against persons covered by the Lokpal Act. It may order preliminary inquiry or investigation through its Inquiry Wing or an agency including DSPE. Section 20 routes specified Group A-D preliminary inquiries to CVC, and section 25 gives Lokpal special superintendence over DSPE matters referred by it.
-
-`[FACT]` CVC is the apex Union vigilance institution. It supervises relevant DSPE anti-corruption investigations, reviews investigation and sanction progress, advises covered organisations and oversees vigilance administration. It cannot dictate a named case’s manner of disposal.
-
-`[FACT]` CBI/DSPE exercises police powers: registration, evidence collection, searches/arrests where lawful and submission of charge sheet or closure report.
-
-CVOs are departmental nodes for preventive vigilance, complaint examination, system correction and disciplinary coordination.
-
-`[ANALYSIS]` The institutions are complementary because complaint scrutiny, vigilance advice, police investigation, prosecution and adjudication require different safeguards.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Differentiate the roles of Lokpal, CVC, CBI and departmental CVOs in processing corruption allegations. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** LOKPAL -> complaint route and statutory directions **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** CVC -> vigilance supervision, advice and referral **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** CBI/DSPE -> police investigation and final report **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** CVO -> departmental vigilance and preventive control **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** The four institutions form an interconnected but non-hierarchical anti-corruption network.
-
-`[FACT]` Lokpal receives complaints against persons covered by the Lokpal Act. It may order preliminary inquiry or investigation through its Inquiry Wing or an agency including DSPE. Section 20 routes specified Group A-D preliminary inquiries to CVC, and section 25 gives Lokpal special superintendence over DSPE matters referred by it.
-
-`[FACT]` CVC is the apex Union vigilance institution. It supervises relevant DSPE anti-corruption investigations, reviews investigation and sanction progress, advises covered organisations and oversees vigilance administration. It cannot dictate a named case’s manner of disposal.
-
-`[FACT]` CBI/DSPE exercises police powers: registration, evidence collection, searches/arrests where lawful and submission of charge sheet or closure report.
-
-CVOs are departmental nodes for preventive vigilance, complaint examination, system correction and disciplinary coordination.
-
-`[ANALYSIS]` The institutions are complementary because complaint scrutiny, vigilance advice, police investigation, prosecution and adjudication require different safeguards.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise three points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### Solved Mains 6 — 15 Marks / 250 Words
-
-> **Discuss how the appointment and tenure architecture of the CBI Director attempts to reconcile continuity with democratic accountability.**
-
-### Visual 80 — Director Safeguard Triangle
-
-```text
-              SELECTION
- PM + Opposition + Judiciary
-           /              \
-          /                \
-   TENURE FLOOR -------- EXTENSION CONTROL
-   two years             public interest,
-   transfer consent      reasons, annual review
-```
-
-*Caption: Selection dispersion, tenure security and conditional continuation address different risks.*
-
-**Model solution:**
-
-Continuity in a premier investigation agency protects ongoing cases from disruption, while democratic accountability prevents the Director from becoming an unreviewable authority.
-
-`[FACT]` DSPE Act section 4A requires appointment by the Central Government on recommendation of a committee comprising the Prime Minister, Lok Sabha Leader of Opposition—or statutory substitute—and Chief Justice of India or nominee. The cross-institutional design reduces unilateral appointment.
-
-`[FACT]` A CVC-chaired committee prepares the eligible IPS panel on seniority, integrity and anti-corruption investigation experience, considering the outgoing Director’s views. Section 4B then provides a minimum two-year tenure and requires prior section 4A committee consent for transfer.
-
-The judiciary has protected the substance of tenure. `[FACT]` *Alok Kumar Verma v. Union of India (2019)* treated divestment of powers as having transfer-like effect and required committee consideration.
-
-The 2021 amendment introduced conditional continuation beyond the initial tenure: `[FACT]` each extension must be in public interest, based on section 4A committee recommendation, supported by written reasons, granted one year at a time and remain within an aggregate five-year ceiling. *Dr Jaya Thakur v. Union of India (2023)* upheld this framework.
-
-`[ANALYSIS]` The design creates continuity but raises two concerns: repeated annual extensions may create perceived dependence on reappointment, and “public interest” can become formulaic unless reasons receive genuine scrutiny.
-
-**Reform:** publish non-sensitive reasons, initiate succession planning early, maintain objective performance criteria and preserve judicial review.
-
-**Conclusion:** The two-year floor protects independence; committee-based, reasoned annual extension protects accountability. Neither the floor nor the ceiling is a personal entitlement.
-
-**Why this earns marks:** It distinguishes investigation from prosecution and trial while locating section 17A and section 19 at different stages.
-
-**How to improve this answer:** Separate approval to begin decision-linked inquiry, investigation evidence, sanction to prosecute and judicial adjudication into four numbered stages.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Solved Mains 6 — 15 Marks / 250 Words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Continuity in a premier investigation agency protects ongoing cases from disruption, while democratic accountability prevents the Director from becoming an unreviewable authority.
-
-`[FACT]` DSPE Act section 4A requires appointment by the Central Government on recommendation of a committee comprising the Prime Minister, Lok Sabha Leader of Opposition—or statutory substitute—and Chief Justice of India or nominee. The cross-institutional design reduces unilateral appointment.
-
-`[FACT]` A CVC-chaired committee prepares the eligible IPS panel on seniority, integrity and anti-corruption investigation experience, considering the outgoing Director’s views. Section 4B then provides a minimum two-year tenure and requires prior section 4A committee consent for transfer.
-
-The judiciary has protected the substance of tenure. `[FACT]` *Alok Kumar Verma v. Union of India (2019)* treated divestment of powers as having transfer-like effect and required committee consideration.
-
-The 2021 amendment introduced conditional continuation beyond the initial tenure: `[FACT]` each extension must be in public interest, based on section 4A committee recommendation, supported by written reasons, granted one year at a time and remain within an aggregate five-year ceiling. *Dr Jaya Thakur v. Union of India (2023)* upheld this framework.
-
-`[ANALYSIS]` The design creates continuity but raises two concerns: repeated annual extensions may create perceived dependence on reappointment, and “public interest” can become formulaic unless reasons receive genuine scrutiny.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Discuss how the appointment and tenure architecture of the CBI Director attempts to reconcile continuity with democratic accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Caption: Selection dispersion, tenure security and conditional continuation address different risks. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Continuity in a premier investigation agency protects ongoing cases from disruption, while democratic accountability prevents the Director from becoming an unreviewable authority. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** The judiciary has protected the substance of tenure. [FACT] Alok Kumar Verma v. Union of India (2019) treated divestment of powers as having transfer-like effect and required committee consideration. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Reform: publish non-sensitive reasons, initiate succession planning early, maintain objective performance criteria and preserve judicial review. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Continuity in a premier investigation agency protects ongoing cases from disruption, while democratic accountability prevents the Director from becoming an unreviewable authority.
-
-`[FACT]` DSPE Act section 4A requires appointment by the Central Government on recommendation of a committee comprising the Prime Minister, Lok Sabha Leader of Opposition—or statutory substitute—and Chief Justice of India or nominee. The cross-institutional design reduces unilateral appointment.
-
-`[FACT]` A CVC-chaired committee prepares the eligible IPS panel on seniority, integrity and anti-corruption investigation experience, considering the outgoing Director’s views. Section 4B then provides a minimum two-year tenure and requires prior section 4A committee consent for transfer.
-
-The judiciary has protected the substance of tenure. `[FACT]` *Alok Kumar Verma v. Union of India (2019)* treated divestment of powers as having transfer-like effect and required committee consideration.
-
-The 2021 amendment introduced conditional continuation beyond the initial tenure: `[FACT]` each extension must be in public interest, based on section 4A committee recommendation, supported by written reasons, granted one year at a time and remain within an aggregate five-year ceiling. *Dr Jaya Thakur v. Union of India (2023)* upheld this framework.
-
-`[ANALYSIS]` The design creates continuity but raises two concerns: repeated annual extensions may create perceived dependence on reappointment, and “public interest” can become formulaic unless reasons receive genuine scrutiny.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### Solved Mains 7 — 15 Marks / 250 Words
-
-> **Compare CBI with ED, NIA and State anti-corruption agencies. Why is legal-domain separation essential?**
-
-### Visual 81 — Domain Separation
-
-```text
-CBI/DSPE -> notified corruption/economic/special crimes
-ED       -> FEMA/PMLA enforcement and money laundering
-NIA      -> NIA Act scheduled offences
-State ACB-> State-public-servant corruption / State police field
-
-Same transaction can create parallel lawful proceedings,
-but no agency inherits another statute's powers.
-```
-
-*Caption: Factual overlap allows coordination; it does not erase jurisdictional boundaries.*
-
-**Model solution:**
-
-India’s enforcement system is functionally specialised rather than organised around a single national police body.
-
-`[FACT]` CBI is an executive-created organisation whose core police powers come through the DSPE Act. It handles notified anti-corruption, economic and selected special-crime work, subject to territorial consent or court-order rules.
-
-ED is a separate Union agency operating under FEMA and the Prevention of Money Laundering Act. Its money-laundering, attachment and related powers cannot be attributed to CBI merely because CBI investigates economic offences.
-
-NIA operates under the NIA Act’s scheduled-offence and national-security architecture. Its central assumption of investigation follows a different statute and cannot be used to explain DSPE section 6.
-
-State ACBs/vigilance police ordinarily investigate corruption involving State public servants under State police jurisdiction and applicable criminal law. They are not subordinate branches of CBI.
-
-`[ANALYSIS]` A single transaction may involve bribery, corporate fraud, a scheduled offence and laundering of proceeds. Parallel agencies may therefore act, but each needs its own offence nexus, territorial authority and procedure. Domain separation:
-
-- protects federalism and legality;
-- prevents forum shopping and duplicated coercion;
-- clarifies evidence-sharing and prosecution responsibility;
-- enables judicial review of each power; and
-- helps the accused and public understand legal thresholds.
-
-**Way forward:** create formal inter-agency coordination protocols, common digital evidence standards and lead-agency rules while preserving statutory independence.
-
-**Conclusion:** Coordination should connect jurisdictions, not collapse them. The correct question is never “which agency is strongest?” but “which statute authorises which act?”
-
-**Why this earns marks:** It compares bodies by exact source, mandate, coercive power and accountability, avoiding acronym-based generalisation.
-
-**How to improve this answer:** Use a compact comparison table and include only institutions demanded; do not let ED/NIA detail displace the CVC-CBI core.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Solved Mains 7 — 15 Marks / 250 Words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** India’s enforcement system is functionally specialised rather than organised around a single national police body.
-
-`[FACT]` CBI is an executive-created organisation whose core police powers come through the DSPE Act. It handles notified anti-corruption, economic and selected special-crime work, subject to territorial consent or court-order rules.
-
-ED is a separate Union agency operating under FEMA and the Prevention of Money Laundering Act. Its money-laundering, attachment and related powers cannot be attributed to CBI merely because CBI investigates economic offences.
-
-NIA operates under the NIA Act’s scheduled-offence and national-security architecture. Its central assumption of investigation follows a different statute and cannot be used to explain DSPE section 6.
-
-State ACBs/vigilance police ordinarily investigate corruption involving State public servants under State police jurisdiction and applicable criminal law. They are not subordinate branches of CBI.
-
-`[ANALYSIS]` A single transaction may involve bribery, corporate fraud, a scheduled offence and laundering of proceeds. Parallel agencies may therefore act, but each needs its own offence nexus, territorial authority and procedure. Domain separation:
-
-- protects federalism and legality;
-- prevents forum shopping and duplicated coercion;
-- clarifies evidence-sharing and prosecution responsibility;
-- enables judicial review of each power; and
-- helps the accused and public understand legal thresholds.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Compare CBI with ED, NIA and State anti-corruption agencies. Why is legal-domain separation essential? **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** CBI/DSPE -> notified corruption/economic/special crimes **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** ED -> FEMA/PMLA enforcement and money laundering **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** State ACB-> State-public-servant corruption / State police field **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Same transaction can create parallel lawful proceedings, **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** India’s enforcement system is functionally specialised rather than organised around a single national police body.
-
-`[FACT]` CBI is an executive-created organisation whose core police powers come through the DSPE Act. It handles notified anti-corruption, economic and selected special-crime work, subject to territorial consent or court-order rules.
-
-ED is a separate Union agency operating under FEMA and the Prevention of Money Laundering Act. Its money-laundering, attachment and related powers cannot be attributed to CBI merely because CBI investigates economic offences.
-
-NIA operates under the NIA Act’s scheduled-offence and national-security architecture. Its central assumption of investigation follows a different statute and cannot be used to explain DSPE section 6.
-
-State ACBs/vigilance police ordinarily investigate corruption involving State public servants under State police jurisdiction and applicable criminal law. They are not subordinate branches of CBI.
-
-`[ANALYSIS]` A single transaction may involve bribery, corporate fraud, a scheduled offence and laundering of proceeds. Parallel agencies may therefore act, but each needs its own offence nexus, territorial authority and procedure. Domain separation:
-
-- protects federalism and legality;
-- prevents forum shopping and duplicated coercion;
-- clarifies evidence-sharing and prosecution responsibility;
-- enables judicial review of each power; and
-- helps the accused and public understand legal thresholds.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise five points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
-
-### Solved Mains 8 — 20 Marks / 300 Words
-
-> **Propose a reform framework for CVC-CBI that strengthens anti-corruption effectiveness without weakening federalism, due process or parliamentary accountability.**
-
-### Visual 82 — Reform Architecture
-
-```text
-                 CLEAR LAW
-                    |
- PROFESSIONAL CADRE + FEDERAL PROTOCOL
-          \          |          /
-           \         |         /
-        TRANSPARENT PROCESS CONTROLS
-                    |
-      CVC / LOKPAL / COURT OVERSIGHT
-                    |
-       PARLIAMENTARY SYSTEM REPORTING
-                    |
-         RIGHTS-RESPECTING OUTCOMES
-```
-
-*Caption: Durable reform aligns mandate, capacity, federal consent, due process and public accountability.*
-
-**Model solution:**
-
-Anti-corruption reform must address both ineffective investigation and misuse of investigative power. A stronger CBI without federal or rights safeguards may centralise coercion; a stronger consent veto without accountability may obstruct serious cases.
-
-**1. Clear legislative mandate:** `[ANALYSIS]` Parliament should debate a dedicated CBI law defining organisational status, offence domain, internal allocation, appointment machinery, protected functional budget, reporting and unlawful-interference offences. It must preserve DSPE section 6 principles and constitutional-court powers.
-
-**2. Professional capacity:** Build a stable multidisciplinary cadre in policing, forensic accounting, cyber evidence, procurement and prosecution. Deputation should remain available for diversity but should not create chronic dependence. Fixed investigator tenures and documented transfers can protect continuity.
-
-**3. Federal protocol:** Union and States should adopt a legally consistent model for general/case-specific consent, time-bound requests, reasons, joint teams and evidence transfer. `[LIMIT]` An executive protocol cannot override sections 5-6; it can only make their exercise predictable.
-
-**4. CVC effectiveness:** Strengthen CVO functional protection, sanction-delay dashboards, preventive-vigilance analytics, reasoned disagreement with CVC advice and follow-up audits. Preserve the statutory bar on directing a case’s particular result.
-
-**5. Transparent investigation governance:** Use auditable case allocation, written recusals, conflict registers and non-sensitive publication of policy criteria. Operational secrecy should protect evidence and witnesses, not hide arbitrary selection.
-
-**6. Due process:** Ensure jurisdictional review, section 17A/19 compliance where applicable, time-bound PE/FIR decisions, disclosure obligations, presumption of innocence and effective judicial remedies. Investigative speed cannot substitute for evidentiary quality.
-
-**7. Parliamentary accountability:** CVC’s annual report should present comparable aggregate indicators on investigation stages, sanction delays, systemic risks and action on advice. Committees may scrutinise institutions without demanding prejudicial detail from live cases.
-
-**8. Independent review:** Periodic expert review of institutional design and public reporting can test whether safeguards reduce both delay and interference.
-
-**Conclusion:** The reform objective is a **federal, professional and rights-bound national investigation capacity**—independent in evidence and case judgment, accountable in jurisdiction, resources, reasons and outcomes.
-
-**Why this earns marks:** It uses Vineet Narain v. Union of India (1997), STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010), Common Cause and statutory safeguards to produce a balanced autonomy-accountability answer.
-
-**How to improve this answer:** Structure reforms by statute, appointment/tenure, investigation autonomy and legislative reporting, then qualify against unchecked-agency risk.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Solved Mains 8 — 20 Marks / 300 Words”, all clauses, a sociological mechanism, historical trajectory, intersectional and regional variation, named Indian evidence, constitutional/institutional boundaries and a qualified conclusion.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Anti-corruption reform must address both ineffective investigation and misuse of investigative power. A stronger CBI without federal or rights safeguards may centralise coercion; a stronger consent veto without accountability may obstruct serious cases.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Propose a reform framework for CVC-CBI that strengthens anti-corruption effectiveness without weakening federalism, due process or parliamentary accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-2. **Claim and named evidence:** Caption: Durable reform aligns mandate, capacity, federal consent, due process and public accountability. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-3. **Claim and named evidence:** Independent review: Periodic expert review of institutional design and public reporting can test whether safeguards reduce both delay and interference. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-4. **Claim and named evidence:** Conclusion: The reform objective is a federal, professional and rights-bound national investigation capacity —independent in evidence and case judgment, accountable in jurisdiction, resources, reasons and outcomes. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-5. **Claim and named evidence:** Why this earns marks: It uses Vineet Narain v. Union of India (1997), STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010), Common Cause and statutory safeguards to produce a balanced autonomy-accountability answer. **Analysis:** Connect structure or institution → norm/incentive/power/agency mechanism → differentiated social outcome → feedback or policy implication. **Qualification:** State internal group variation, regional/historical scope, correlation-versus-causation or legal-norm-versus-lived-outcome boundary.
-
-**Counter-position / limit:** Neither a constitutional provision, one scheme, aggregate correlation nor a single community example establishes uniform implementation, causation or national experience; test institutions, power, agency, intersectionality, region, period and evidence status.
-
-**Qualified conclusion:** Anti-corruption reform must address both ineffective investigation and misuse of investigative power. A stronger CBI without federal or rights safeguards may centralise coercion; a stronger consent veto without accountability may obstruct serious cases.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, spend about one-sixth of the time decoding the directive and drawing the mechanism; define and state a thesis; organise six to eight points as claim → named evidence → analysis → qualification; compress examples before mechanisms and reserve the final minute for causation, group variation and legal-outcome limits.
+**Why this earns marks:** The model matches each reform to a mechanism of weakness, uses statutory and case evidence, preserves reciprocal controls and rejects both executive command and agency impunity.
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-### Adjacent enforcement bodies and deeper design
-- [LIMIT] ED, NIA, SFIO and FIU comparisons are useful only to distinguish legal source and mandate; they must not displace the CVC-CBI Core.
-- [ANALYSIS] A dedicated CBI statute could clarify mandate, appointment, finance, reporting and accountability, but independence must be balanced by prosecutorial and judicial checks.
-- [LIMIT] The “caged parrot” remark is institutional context, not a statutory holding that invalidates every CBI investigation.
-- [ANALYSIS] Comparative design should separate investigation, prosecution, vigilance advice and adjudication because concentrating all four functions would create its own accountability risk.
-- [ANALYSIS] Cross-border economic crime may require coordination with ED, SFIO, FIU-IND and State police, but each body must remain within its own statute and notification.
-- [LIMIT] Changing consent rosters, officeholders, investigation totals and conviction rates require dated primary evidence and are not permanent institutional facts.
+### Advanced 1 - Institutional integrity in CVC appointment
+
+**Claim:** formal eligibility does not exhaust a high-level appointment body's duty. **Named evidence:** *Centre for Public Interest Litigation v Union of India* (2011) required the section 4 committee to consider the institutional integrity of CVC and quashed the impugned appointment after relevant material had not been properly considered. **Analysis:** public trust in an integrity institution depends on the credibility of the selection process, not merely on a candidate meeting a service-description threshold. **Qualification:** judicial review tests legality and relevant consideration; it does not substitute the Court's preferred candidate.
+
+### Advanced 2 - Consent defects remain instrument-specific
+
+*Fertico Marketing and Investment Pvt Ltd v CBI* (2020) is useful only with its facts: the general-consent terms, the manner in which State officials emerged, subsequent consent and the absence of demonstrated prejudice mattered. It is not authority for the proposition that later consent always cures an investigation begun without jurisdiction. In an advanced answer, write: **text of consent -> timing -> persons/offences -> prejudice -> narrow precedent**.
+
+### Advanced 3 - The "caged parrot" metaphor
+
+The Supreme Court's courtroom criticism during coal-block proceedings became a powerful description of perceived executive influence. Use it as institutional context, not as a statutory provision, binding test or proof that every CBI investigation is controlled. A higher-quality paragraph moves from the metaphor to mechanisms: resolution-based organisation, staffing and budget dependence, transfers, selective reference, annual-extension incentives, consent conflict and prosecution delay; it then tests those mechanisms against *Vineet Narain*, section 4A/4B and *Alok Kumar Verma*.
+
+### Advanced 4 - Independence is multi-dimensional
+
+Appointment independence, tenure security, functional investigation autonomy, financial capacity, personnel stability and post-investigation prosecution quality are distinct. A plural appointment committee cannot compensate for weak forensics; an independent investigator cannot compensate for delayed sanction; a strong prosecution cannot cure unlawful territorial jurisdiction. Therefore reform must be evaluated as a chain rather than a single statutory amendment.
+
+### Advanced 5 - Accountability without prejudicing investigation
+
+Parliament and the public need system-level information on delays, staffing, sanction movement, action on advice and recurring risk. Live evidence, witnesses and strategy need operational confidentiality. The defensible model is aggregate, comparable section 14 reporting plus judicially reviewable individual decisions, not public trial by disclosure or complete secrecy.
 
 ## CONSOLIDATED REGISTER NOTES
 
-#### Final Consolidated Register Notes
+### Core identity
 
-### 1. Topic Thesis
+| Actor | Legal basis | Primary output | Cannot do |
+|---|---|---|---|
+| CVC | CVC Act, 2003 | vigilance supervision, review, advice | general policing, prosecution, conviction |
+| CBI | Resolution, 1 April 1963 | investigative organisation | claim inherent all-India authority |
+| DSPE | DSPE Act, 1946 | statutory police investigation | bypass notified-offence/territorial gates |
+| CVO | departmental vigilance framework | prevention, complaint and disciplinary coordination | act as court or automatic CBI unit |
+| Lokpal | Lokpal and Lokayuktas Act, 2013 | complaint routing and referred-matter decisions | permanently administer every CBI case |
+| Prosecution | DSPE/PC Act and criminal process | present State case | decide guilt |
+| Court | Constitution and criminal law | cognizance, trial, judgment | become routine departmental vigilance |
 
-> **CVC supervises vigilance; CBI is the organisation; DSPE supplies police power; States control the ordinary State-area route; constitutional courts retain exceptional corrective power.**
+### Chronology
 
-### Visual 83 — Register-Page Master Map
+1941 SPE -> 1946 DSPE Act -> 1 April 1963 CBI Resolution -> 1964 CVC Resolution -> 18 December 1997 *Vineet Narain* -> 1998 CVC Ordinance -> 1999 Bill process -> 11 September 2003 CVC Act -> 16 January 2014 Lokpal amendments operative -> 14 November 2021 Director-extension amendment operative.
 
-```text
-CVC ACT 2003                    DSPE ACT 1946
-statutory vigilance            statutory police establishment
-advice + review                FIR + investigation
-PC Act superintendence         sections 2-6 jurisdiction
-         \                         /
-          \                       /
-           CBI ORGANISATION, 1963
-                    |
-      LOKPAL ACT REFERRED-MATTER ROUTE
-                    |
-              COMPETENT COURT
-```
+### CVC design
 
-*Caption: Use this as the first diagram in any revision notebook.*
+- Section 3: one Central Vigilance Commissioner as Chairperson plus not more than two Vigilance Commissioners.
+- Two experience pools: Union/AIS administration including police administration; specified central public-sector experience in finance, law, vigilance and investigations.
+- Category guard: not more than two appointees from either pool when all three offices are filled.
+- Appointment: President after PM + Home Minister + Lok Sabha LoP/statutory substitute recommendation.
+- Term: four years or age sixty-five, whichever earlier.
+- VC-to-CVC is possible, but aggregate Commission service cannot exceed four years.
+- Removal: proved misbehaviour/incapacity through Presidential reference and Supreme Court inquiry; separate direct grounds include insolvency, qualifying conviction, outside paid employment, infirmity and prejudicial interest.
+- *Centre for PIL* (2011): selection must protect institutional integrity.
 
-### 2. Evolution in Six Lines
+### CVC section 8 and limits
 
-1. `[FACT]` 1941: wartime SPE created by executive order for bribery/corruption connected with War and Supply transactions.
-2. `[FACT]` 1943: wartime ordinance supplied an interim legal framework.
-3. `[FACT]` 1946: DSPE Act created the continuing statutory police establishment.
-4. `[FACT]` 1963: Government resolution created CBI; DSPE became its Investigation and Anti-Corruption Division.
-5. `[FACT]` 1964: CVC created by resolution following the Santhanam Committee recommendation.
-6. `[FACT]` *Vineet Narain v. Union of India (1997)* trajectory led to statutory CVC and codified Director/oversight safeguards through the CVC Act, 2003 and DSPE amendments.
+**S-D-I-R-S-A-V:** superintend DSPE PC Act work; direct within the non-dictation proviso; inquire/cause inquiry or investigation; review investigation; review sanction applications; advise; supervise vigilance administration.
 
-### Visual 84 — Evolution Mnemonic
+- CVC superintendence is not over all CBI matters.
+- CVC cannot require a particular investigation or disposal manner.
+- Civil-court inquiry powers do not create criminal-trial power.
+- Advice is not automatically binding; section 17 requires written reasons for disagreement.
+- Section 14: annual report within six months of year-end; separate relevant DSPE part; President lays it before both Houses.
 
-```text
-S - Special Police Establishment
-D - DSPE Act
-B - Bureau created by resolution
-V - Vigilance Commission by resolution
-J - Judicial safeguards in Vineet Narain v. Union of India (1997)
-S - Statutory CVC
+### CVO and PIDPI
 
-"S D B V J S" = SPE -> DSPE -> Bureau -> Vigilance -> Judgment -> Statute
-```
+- CVO: preventive vigilance, complaint scrutiny, process correction, disciplinary liaison and lawful criminal referral.
+- PIDPI Resolution, 21 April 2004: CVC is designated agency for protected written disclosures within the applicable field and safeguards identity.
+- Confidential identity is not the same as an anonymous/pseudonymous protected complaint.
+- Do not use the Whistle Blowers Protection Act, 2014 as operative authority without verified commencement.
 
-*Caption: The mnemonic preserves the correct executive/statutory sequence.*
+### DSPE 2-3-4-5-6 ladder
 
-### 3. CVC Snapshot
+| Section | Recall |
+|---:|---|
+| 2 | Union Territory police-power baseline |
+| 3 | Central notification of offences/classes |
+| 4 | CVC for PC Act superintendence; Centre otherwise; Director administers |
+| 5 | Central extension order to State area |
+| 6 | State consent for ordinary exercise in State |
 
-| Head | Register note |
+General consent is standing and defined; specific consent is case/fact/person specific. Withdrawal ordinarily affects new cases prospectively. *Kazi Lhendup Dorji* protects continuity of investigations validly begun before withdrawal. *Fertico* is fact-specific.
+
+### Constitutional court route
+
+*State of West Bengal v CPDR* (2010): High Courts under Article 226 and the Supreme Court under Article 32 may direct CBI investigation without State consent. The source is constitutional judicial review, not deemed consent. Use is sparing, cautious and exceptional. The Union executive cannot claim this exception for itself.
+
+### Vineet Narain and approval gates
+
+- *Vineet Narain* (1997): statutory-CVC trajectory, CVC anti-corruption oversight/reporting, minimum Director tenure, its then CVC-Home Secretary-Personnel Secretary selection route, transfer and internal work-allocation safeguards, CBI Manual discipline, and invalidation of the Single Directive. The current section 4A committee is different.
+- Former DSPE section 6A: senior-rank approval shield; struck down under Article 14 in *Subramanian Swamy v Director, CBI* (2014).
+- PC Act section 17A: previous approval before decision-linked enquiry/inquiry/investigation where attracted; on-the-spot undue-advantage arrest exception.
+- PC Act section 19: sanction before court cognizance of specified offences.
+- Never merge section 17A with section 19 or treat either as guilt determination.
+
+### CBI Director and senior posts
+
+- Section 4A Director committee: PM + Lok Sabha LoP/largest opposition-party leader + CJI or nominated Supreme Court judge.
+- Committee recommends an IPS panel using seniority, integrity and anti-corruption investigation experience.
+- Section 4B: two-year minimum; transfer requires committee consent.
+- Extension: public interest + same committee + written reasons + one year at a time + aggregate maximum five years.
+- *Alok Kumar Verma* (2019): divestment of powers can be transfer-like; committee safeguard cannot be bypassed by label.
+- Section 4C: CVC-chaired committee for SP-and-above posts except Director, after consulting Director.
+- Section 4BA: Director of Prosecution appointed by Central Government on CVC recommendation; minimum two-year tenure; overall supervision/control of CBI Director.
+
+### Lokpal interface
+
+- Section 20: specified Group A-D preliminary-inquiry complaints may be routed to CVC.
+- Groups A-B: CVC reports to Lokpal; Groups C-D: CVC proceeds under the amended CVC Act route.
+- Section 25: Lokpal superintends DSPE matters referred under its Act, approves transfer of the investigating officer and cannot dictate a particular case's manner or result.
+
+### Investigation lifecycle
+
+complaint/source/reference -> jurisdiction and threshold -> PE where appropriate or FIR/Regular Case -> evidence collection -> section 17A where attracted -> charge sheet/closure -> section 19 where required -> court cognizance -> trial -> acquittal/conviction.
+
+*Thommandru Hannah Vijayalakshmi* (2021): PE is not mandatory before every corruption FIR and is not an accused's right when information already discloses a cognizable offence.
+
+### Problems and reforms
+
+| Problem | Reform |
 |---|---|
-| Status | Statutory apex vigilance institution; not constitutional |
-| Composition | CVC + not more than two VCs |
-| Appointment | President; recommendation of PM + Home Minister + Lok Sabha LoP/substitute |
-| Eligibility | Union/All-India administrative-vigilance experience or specified public-sector/specialist experience |
-| Category balance | Not more than two of the three appointees from either eligibility category |
-| Tenure | Four years or age 65, whichever earlier |
-| VC-to-CVC | Permitted through appointment process; aggregate maximum four years |
-| Post-tenure | Specified presidential assignments and further government office-of-profit employment barred |
-| Expenses | Charged on Consolidated Fund of India |
-| Report | President -> both Houses; separate relevant DSPE part |
+| resolution-based CBI status | debated dedicated law preserving section 6 and Articles 32/226 |
+| staffing/deputation dependence | stable multidisciplinary cadre with audit and diversity |
+| forensic/digital delay | laboratory capacity and evidence standards |
+| consent conflict | lawful model instruments, time-bound requests, joint coordination |
+| selective-use perception | auditable allocation, recusals and transfer reasons |
+| sanction/prosecution delay | stage tracking and reasoned decisions |
+| weak CVC follow-up | professional CVOs, substantive disagreement reasons, stronger aggregate reporting |
 
-### 4. CVC Removal
+### Verified PYQ route
 
-**Route A — proved misbehaviour/incapacity**
+2021 GS-II: define CBI/DSPE -> State List -> sections 5-6 -> general/specific consent -> prospective withdrawal and *Kazi* -> Articles 32/226 and *CPDR* -> qualified federal verdict.
 
-`President reference -> Supreme Court inquiry -> Court report -> President removal order`
+### Final answer spine
 
-**Route B — listed direct grounds**
+> CVC-CBI reform should secure operationally independent evidence-gathering while retaining statutory superintendence, State consent in the ordinary route, exceptional constitutional-court correction, prosecution safeguards, parliamentary system scrutiny and final judicial determination of guilt.
 
-- adjudged insolvent;
-- conviction involving moral turpitude in Central Government’s opinion;
-- paid outside employment during term;
-- mental/physical infirmity making continuation unfit in President’s opinion; or
-- prejudicial financial/other interest.
-
-**Deemed misbehaviour:** prohibited concern/interest in specified Government of India contract or benefit, subject to the incorporated-company qualification.
-
-### 5. CVC Section 8 Core
-
-### Visual 85 — “S-D-I-R-A-V” Recall
+### COMPLETE ASCII MASTER FLOW DIAGRAM
 
 ```text
-S = Superintend DSPE PC Act investigations
-D = Directions, but no particular-case dictation
-I = Inquiry/investigation on reference or covered complaint
-R = Review investigations and sanction applications
-A = Advice to Union/covered bodies
-V = Vigilance-administration supervision
-```
-
-*Caption: “S-D-I-R-A-V” reproduces the operational sequence without turning CVC into police or court.*
-
-**Critical limits**
-
-- `[LIMIT]` not a general police station;
-- `[LIMIT]` no power to force a case to be investigated/disposed in a particular manner;
-- `[LIMIT]` no criminal conviction power;
-- `[LIMIT]` complaint/person coverage is statutory, not universal;
-- `[FACT]` advice may be disagreed with, but written reasons must be communicated;
-- `[FACT]` civil-court-like inquiry powers do not make CVC a criminal court.
-
-### 6. CVO Notes
-
-- CVO = internal vigilance bridge within a Ministry/department/PSU/body.
-- Preventive role: risk mapping, sensitive-post rotation, procurement control, conflict management, audit trails.
-- Punitive role: complaint examination, disciplinary coordination, referral for investigation.
-- CVO is neither CBI officer by default nor final disciplinary/criminal authority.
-- Reform focus: stable tenure, professional expertise, direct functional access and auditable follow-up.
-
-### 7. CBI/DSPE Snapshot
-
-| Head | Register note |
-|---|---|
-| CBI creation | 1 April 1963 Government resolution |
-| DSPE creation | DSPE Act, 1946 |
-| Police powers | DSPE Act + applicable criminal procedure/special law |
-| Section 2 | UT baseline |
-| Section 3 | Central Government-notified offence classes |
-| Section 4 | Superintendence split; administration in Director |
-| Section 5 | Extension of DSPE jurisdiction/powers to State area |
-| Section 6 | State consent for ordinary exercise in State |
-| Domains | Anti-corruption, officially supported economic/special-crime work, INTERPOL NCB |
-| Administrative placement | DoPT; not proof of lawful PMO direction in individual cases |
-
-### Visual 86 — DSPE “2-3-4-5-6” Ladder
-
-```text
-2 = Union Territory powers
-3 = offence notification
-4 = superintendence + administration
-5 = extend to State area
-6 = State consent
-```
-
-*Caption: This five-number ladder is the fastest prelims and Mains recall device for jurisdiction.*
-
-### 8. Superintendence Split
-
-- `[FACT]` CVC: DSPE investigations concerning PC Act offences and connected same-trial offences.
-- `[FACT]` Central Government: other DSPE matters, save special statutory provisions.
-- `[FACT]` Director: administration of DSPE.
-- `[FACT]` Lokpal: special superintendence over preliminary inquiry/investigation referred by it.
-- `[LIMIT]` CVC and Lokpal are both barred from dictating investigation/disposal of a particular case in a particular manner.
-
-### 9. CBI Director
-
-**Appointment**
-
-`Eligible IPS panel -> CVC-chaired panel preparation -> PM + LoP/substitute + CJI/nominee recommendation -> Central Government appointment`
-
-**Tenure**
-
-- minimum protected tenure: two years;
-- transfer: prior section 4A committee consent;
-- extension: public interest + committee recommendation + written reasons;
-- one year at a time;
-- aggregate maximum five years;
-- five years is not automatic.
-
-**Cases**
-
-- *Vineet Narain v. Union of India (1997)*: tenure/oversight/internal professional safeguards.
-- *Alok Verma*: divesting powers can be transfer-equivalent; committee safeguard applies to substance.
-- *Dr Jaya Thakur v. Union of India (2023)*: extension amendments valid; statutory conditions remain mandatory.
-
-**Senior posts**
-
-- Director of Prosecution: Central Government appoints on CVC recommendation; minimum two years; overall supervision/control of CBI Director.
-- SP and above: CVC-chaired committee recommends appointment/tenure decisions after consulting Director.
-
-### 10. State Consent
-
-### Visual 87 — Consent Decision Tree
-
-```text
-WHERE?
- |
- +--> Union Territory -> section 2 baseline
- |
- +--> State
-       |
-       +--> valid State consent? -> ordinary DSPE route
-       |
-       +--> SC/HC order? -> constitutional route
-       |
-       +--> investigation validly began before withdrawal?
-              -> may continue under *Kazi Lhendup Dorji v. CBI (1994)*
-```
-
-*Caption: Always identify territory before discussing consent.*
-
-**General consent**
-
-- standing permission for specified case/offence/person categories;
-- may contain riders;
-- can be prospectively withdrawn.
-
-**Case-specific consent**
-
-- tied to named facts, FIR, persons or offences;
-- scope depends on exact instrument.
-
-**Never write**
-
-- State consent is meaningless;
-- State veto is absolute against constitutional courts;
-- withdrawal automatically voids pending cases;
-- post-facto consent always cures absence of consent;
-- a current number of withholding States without date-specific official proof.
-
-### 11. Consent Cases
-
-| Case | One-line holding | Qualification |
-|---|---|---|
-| *Kazi Lhendup Dorji v. CBI (1994)* | Withdrawal did not stop investigations validly begun earlier | No blanket future power |
-| *STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010)* | SC/HC can order CBI probe without State consent | Exceptional, sparing, cautious |
-| *Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)* | Challenge failed on its specific consent/fact/prejudice setting | No universal post-facto-cure rule |
-| *West Bengal v Union* (2024) | Preliminary maintainability objection rejected | Merits not decided in cited ruling |
-
-### 12. *Vineet Narain v. Union of India (1997)* Safeguards
-
-1. statutory CVC;
-2. CVC oversight of anti-corruption investigation;
-3. minimum Director tenure;
-4. committee control over transfer;
-5. Director’s professional/internal work-allocation freedom;
-6. CBI Manual adherence;
-7. continuing judicial concern with institutional independence.
-
-`[ANALYSIS]` These are buffers against improper control, not a declaration that CBI is outside government and law.
-
-### 13. Lokpal Interface
-
-### Visual 88 — Lokpal-CVC-CBI-Court Flow
-
-```text
-LOKPAL COMPLAINT
-      |
-preliminary inquiry / investigation decision
-      |
-      +--> CVC route for specified Group A-D preliminary inquiries
-      |
-      +--> DSPE/agency investigation
-                  |
-             investigation report
-                  |
-         Lokpal statutory decision
-                  |
-      prosecution wing / agency -> Special Court
-```
-
-*Caption: Lokpal controls its referred-matter route without becoming the investigator or trial court in every case.*
-
-**Key provisions**
-
-- Inquiry Wing: preliminary inquiry into alleged PC Act offences by covered public servants.
-- Prosecution Wing: files case before Special Court after Lokpal direction.
-- Section 20: preliminary inquiry/investigation routes and procedural safeguards.
-- Section 23: prosecution-sanction power in the Lokpal route, subject to the Act.
-- Section 25: Lokpal superintendence over referred DSPE matters; no case-result dictation.
-
-### 14. Investigation Lifecycle
-
-1. complaint/source information/reference;
-2. threshold assessment;
-3. PE where appropriate, or direct FIR/Regular Case where cognizable offence information is disclosed;
-4. lawful investigation and evidence collection;
-5. statutory approval/sanction gates where applicable;
-6. final police report—charge sheet or closure;
-7. court consideration;
-8. trial;
-9. acquittal or conviction.
-
-**Judicial control**
-
-- *Lalita Kumari*: FIR registration duty where cognizable offence disclosed; limited preliminary inquiry where appropriate.
-- *CBI v. Thommandru Hannah Vijayalakshmi (2021)*: PE not mandatory in every corruption case and not an accused’s right; direct Regular Case permissible on sufficient cognizable-offence information.
-
-> **Threshold mnemonic:** `PE tests disclosure; FIR starts investigation; charge sheet states agency case; trial determines guilt.`
-
-### 15. PC Act Safeguard Gates
-
-- Section 17A: previous approval for specified inquiry/investigation concerning official recommendations/decisions, when statutory conditions apply; read exceptions exactly.
-- Section 19: previous sanction for cognizance of specified offences.
-- CVC reviews progress of sanction applications.
-- Approval/sanction is not guilt determination.
-- Delay weakens effectiveness; removal of safeguards altogether risks harassment and poor decision-making.
-
-### 16. Comparison Capsule
-
-| Body | Memory phrase |
-|---|---|
-| CVC | Vigilance supervisor and adviser |
-| CBI/DSPE | Police investigator under consent/jurisdiction rules |
-| Lokpal | Statutory complaint router and referred-matter supervisor |
-| CVO | Departmental vigilance node |
-| ED | FEMA/PMLA enforcement and money-laundering agency |
-| NIA | Scheduled-offence national-security investigator |
-| State ACB/police | State police-domain corruption/general investigation |
-| Court | Final adjudicator |
-
-### 17. Independence vs Accountability
-
-**Independence tools**
-
-- high-powered Director selection;
-- protected minimum tenure;
-- committee transfer control;
-- CVC/Lokpal non-dictation provisos;
-- stable investigator tenure;
-- professional cadre;
-- auditable case allocation.
-
-**Accountability tools**
-
-- statutory offence and territorial limits;
-- CVC/Lokpal supervision;
-- judicial review and trial;
-- written reasons;
-- financial audit;
-- annual/parliamentary reporting;
-- due-process rights and presumption of innocence.
-
-### Visual 89 — Balance Formula
-
-```text
-INDEPENDENCE
-  - improper outcome control
-  - transfer threats
-  - selective case allocation
-
-+ ACCOUNTABILITY
-  - jurisdiction
-  - reasons
-  - courts
-  - audit/reporting
-
-= LEGITIMATE INVESTIGATION
-```
-
-*Caption: Use the formula as the conclusion to any institutional-reform answer.*
-
-### 18. Critiques
-
-- executive administrative dependence;
-- resolution-based organisational status;
-- deputation and specialist-capacity dependence;
-- federal consent fragmentation;
-- sanction and inter-agency delay;
-- perception of selective use;
-- confidentiality-accountability tension;
-- weak public understanding of differing legal thresholds.
-
-`[LIMIT]` Do not convert structural risk into an allegation against a named officeholder or case without evidence.
-
-### 19. Reform Notes
-
-1. dedicated CBI legislation after federal consultation;
-2. independent but audited functional budget;
-3. stable multidisciplinary cadre;
-4. transparent, protected case allocation and recusal;
-5. time-bound, legally compliant State-consent protocol;
-6. written reasons for transfers, extensions and disagreement with CVC advice;
-7. CVO professionalisation and preventive-vigilance analytics;
-8. aggregate parliamentary reporting that protects live investigations;
-9. digital evidence and inter-agency standards;
-10. effective remedy against unlawful interference.
-
-### 20. Mains Vocabulary
-
-Use:
-
-- “executive-created organisation with statutory police powers through DSPE”;
-- “qualified federal consent gate”;
-- “constitutional-court route independent of section 6 consent”;
-- “operational insulation with legal answerability”;
-- “superintendence without case-result dictation”;
-- “reason-giving as an accountability device”;
-- “conditional extension, not automatic entitlement”;
-- “parallel statutory jurisdictions, not institutional merger.”
-
-Avoid:
-
-- “CBI is a constitutional/statutory body”;
-- “CVC can punish/convict”;
-- “State consent is absolute/irrelevant”;
-- “CBI investigates all money laundering”;
-- “five-year Director tenure is automatic”;
-- “caged parrot is binding legal doctrine.”
-
-### Visual 90 — Final 30-Second Revision Box
-
-```text
-CVC: 2003 Act | 1 + <=2 | PM-HM-LoP | 4 yrs/65
-SECTION 8: supervise, direct-with-limit, inquire, review, advise, vigilance
-CBI: 1963 resolution | DSPE: 1946 Act
-DSPE 2-3-4-5-6: UT, offences, control, extension, consent
-DIRECTOR: PM-LoP-CJI | 2-year floor | transfer consent
-EXTENSION: public interest + committee + reasons + 1 year + max 5
-COURTS: *STATE OF WEST BENGAL V. COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010)* exceptional no-consent route
-WITHDRAWAL: *Kazi* pending valid cases continue
-LOKPAL: referred-matter route | no case-result dictation
-GUILT: court alone
-```
-
-*Caption: If these ten lines are correct, the core topic is legally controlled.*
-
-### 21. Current-Control Limits to Write in the Margin
-
-- `[CURRENT]` Structure and holdings controlled to 19 August 2026 for this package.
-- `[LIMIT]` No current officeholders frozen.
-- `[LIMIT]` No count of States withholding consent frozen.
-- `[LIMIT]` No live case, conviction, vacancy or sanction-pendency statistic frozen.
-- `[LIMIT]` 2026 Prelims Q63 remains unresolved here because the routed key is provisional and records no answer letter.
-- `[LIMIT]` The cited 2024 West Bengal judgment is used only for preliminary maintainability, not merits.
-- `[LIMIT]` “Caged parrot” is context, not ratio.
-- `[LIMIT]` Every CBI jurisdiction answer must identify offence, territory and authority route.
-
-> **Final conclusion:** CVC-CBI reform should protect evidence-based investigation from improper power while preserving federal consent, constitutional judicial review, due process, reasoned supervision and parliamentary system accountability.
-
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
-
-#### ASCII MASTER FLOW — PANEL 1/12: Santhanam trajectory and the CVC-CBI-DSPE legal identity map
-
-```ascii-master
-ROOT QUESTION
-How should vigilance supervision, police investigation and final adjudication be separated?
-
-EVOLUTION
-1941 Special Police Establishment -> DSPE Act, 1946
--> CBI resolution, 1 April 1963
--> CVC resolution, 1964 after Santhanam Committee
--> Vineet Narain v. Union of India (1997) safeguards -> CVC Act, 2003.
-
-LEGAL IDENTITY
-CVC -> statutory commission under CVC Act.
-CBI -> executive-created organisation.
-DSPE -> statutory police establishment supplying core investigative powers.
-
-LIMIT
-common anti-corruption purpose does not merge advice, police power, prosecution and judgment.
-MUST REMEMBER: Keep the statutory CVC, executive-created CBI and statutory DSPE police
-  establishment legally distinct despite their connected vigilance work.
-```
-
-#### ASCII MASTER FLOW — PANEL 2/12: CVC composition, appointment and tenure
-
-```ascii-master
-COMPOSITION
-Central Vigilance Commissioner as Chairperson
-+ not more than two Vigilance Commissioners.
-
-APPOINTMENT
-President by warrant after committee recommendation:
-Prime Minister + Union Home Minister + Lok Sabha Opposition Leader/substitute.
-
-QUALIFICATION
-experience in vigilance, policy, administration, police administration,
-finance including insurance and banking, law or investigations.
-
-CURRENT LEADERSHIP: 5 SEPTEMBER 2026
-A S Rajeev: acting Central Vigilance Commissioner from 3 August 2026.
-Praveen Vashista: Vigilance Commissioner.
-Acting charge does not alter the statutory appointment architecture.
-```
-
-#### ASCII MASTER FLOW — PANEL 3/12: CVC removal, service safeguards and legal limits
-
-```ascii-master
-TERM
-four years or age 65, whichever earlier; statutory post-tenure restrictions apply.
-
-REMOVAL
-proved misbehaviour or incapacity -> President after Supreme Court inquiry.
-Direct statutory grounds cover insolvency, moral-turpitude conviction,
-outside paid employment, infirmity and prejudicial interest.
-
-LIMIT
-secure removal does not convert advice into binding adjudication.
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: CVC section 8 vigilance and CBI supervision
-
-```ascii-master
-CVC FUNCTIONS
-superintend DSPE investigation of specified Prevention of Corruption Act matters
-| issue directions without dictating disposal of a particular case
-| review investigation progress and prosecution-sanction applications
-| inquire or cause inquiry into covered public-servant complaints
-| advise Central Government and covered organisations
-| exercise vigilance-administration superintendence.
-
-CVO CHAIN
-prevention -> surveillance and complaint scrutiny -> departmental inquiry
--> CVC advice where applicable -> disciplinary authority reasoned decision.
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: CVO network, advice and prosecution-sanction monitoring
-
-```ascii-master
-PROSECUTION SANCTION
-section 19 PC Act concerns prosecution stage;
-section 17A prior approval concerns specified inquiry/investigation decisions.
-
-LIMIT
-CVC is not a police station, trial court or universal controller of every CBI case.
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: CBI organisation, DSPE powers and mandate
-
-```ascii-master
-CBI ORGANISATION
-investigation and anti-corruption | economic offences | special crimes
-| policy, administration, forensics and international cooperation.
-
-DSPE ACT
-section 2 -> Union Territory police-establishment baseline.
-section 3 -> Central notification specifies offence classes.
-section 5 -> Central extension of powers to State areas.
-section 6 -> State consent for ordinary exercise in State area.
-
-POLICE POWER
-FIR or regular case -> search, seizure, arrest and examination under law
--> evidence assessment -> closure report or charge sheet -> court.
-
-BOUNDARY
-organisational mandate does not override notified offences, territory,
-criminal procedure, special statutes, consent or court directions.
-CLOSE DISTINCTION: CVC superintendence is offence-field specific and does not permit dictating
-  a particular investigation, conviction or disciplinary result.
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: CBI superintendence and investigative judgment
-
-```ascii-master
-SUPERINTENDENCE
-CVC for DSPE investigation of specified corruption offences.
-Central Government for other DSPE matters.
-
-ADMINISTRATION
-Director controls day-to-day administration and investigative judgment,
-subject to statute, law and lawful oversight.
-
-DIRECTOR APPOINTMENT
-Central Government appoints on committee recommendation:
-Prime Minister + Lok Sabha Opposition Leader/substitute + CJI or nominee.
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: CBI Director appointment, tenure and transfer safeguards
-
-```ascii-master
-TENURE
-minimum two years under DSPE Act.
-Current law permits conditional one-year extensions,
-with recorded public-interest reasons, up to aggregate five years.
-
-TRANSFER
-statutory committee safeguard applies.
-
-TRAP
-two-year floor != automatic five-year term and superintendence != case-outcome command.
-
-CURRENT DIRECTOR: 5 SEPTEMBER 2026
-Praveen Sood's dated extension runs through 24 May 2027.
-A one-year extension under the amended law is not an automatic five-year term.
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: State consent and constitutional-court directions
-
-```ascii-master
-ORDINARY STATE-AREA ROUTE
-section 5 extension + section 6 general or case-specific State consent.
-Withdrawal of general consent operates prospectively for new ordinary entries.
-
-Kazi Lhendup Dorji v. CBI (1994)
-later withdrawal did not terminate investigations validly begun while consent operated.
-
-State of West Bengal v. Committee for Protection of Democratic Rights (2010)
-High Court under Article 226 and Supreme Court under Article 32
-may direct CBI investigation without State consent, exceptionally and cautiously.
-
-Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)
-fact-specific consent result; no universal rule that later consent always cures defect.
-
-State of West Bengal v. Union of India (2024)
-preliminary maintainability objection rejected; cited judgment did not decide consent merits.
-
-FEDERAL VERDICT
-qualified State control in ordinary cases + exceptional rights-protecting judicial review.
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Lokpal interface, investigation lifecycle and procedural safeguards
-
-```ascii-master
-LOKPAL ROUTE
-complaint scrutiny -> preliminary inquiry or investigation under Lokpal Act
--> CVC/CBI or statutory wings as assigned -> reports and directions within the Act.
-
-INVESTIGATION LIFECYCLE
-source information/complaint -> jurisdiction and approval screen
--> preliminary verification where law permits -> FIR/regular case
--> evidence collection -> sanction question -> final police report
--> prosecution -> trial -> judgment.
-
-CBI v. Thommandru Hannah Vijayalakshmi (2021)
-preliminary inquiry is not mandatory before every corruption FIR;
-criminal-procedure and corruption-law requirements control.
-
-SAFEGUARDS
-lawful approval | reasons | search and arrest standards
-| disclosure and fair trial | judicial review | presumption of innocence.
-
-LIMIT
-FIR, charge sheet, vigilance advice and sanction are not findings of guilt.
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: CVC, CBI, Lokpal, NIA and State Police: power-type comparison
-
-```ascii-master
-CVC
-statutory vigilance supervision and advice | no general police power.
-
-CBI / DSPE
-executive organisation + statutory police powers | consent and offence controls.
-
-LOKPAL
-statutory ombudsman and complaint-routing authority for covered public functionaries.
-
-NIA
-statutory national-security investigation under NIA Act and scheduled-offence framework.
-
-STATE POLICE / ACB
-State police power and territorial responsibility under ordinary criminal law.
-
-DEPARTMENTAL CVO
-internal prevention, scrutiny and disciplinary-vigilance coordination.
-
-COURT
-authorises, reviews, tries and finally determines guilt.
-
-TRAP
-administrative placement, vigilance supervision and police command are different relationships.
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Cases, caged-parrot criticism and reform synthesis
-
-```ascii-master
-Vineet Narain v. Union of India (1997)
-institutional safeguards, Director tenure and statutory CVC trajectory.
-
-Alok Kumar Verma v. Union of India (2019)
-statutory committee safeguard constrained removal of Director's functions.
-
-Dr Jaya Thakur v. Union of India (2023)
-current extension framework upheld; extension remains conditional, not automatic.
-
-"CAGED PARROT"
-judicial criticism of perceived executive influence in 2013;
-not a statutory status, doctrine or licence for judicial administration of every case.
-
-REFORM
-dedicated law with federal safeguards + predictable consent protocol
--> professional cadre and budget -> transparent case allocation
--> timely sanctions -> parliamentary system review + judicial accountability.
-
-PYQ SPINE
-2021 State consent and federalism | 2026 controlled institutional matching.
-
-VERDICT
-operational autonomy must be paired with legality, federal restraint and answerable coercive power.
-LEGAL/SOURCE LIMIT: A S Rajeev is acting Central Vigilance Commissioner; Praveen Vashista is
-  Vigilance Commissioner; Praveen Sood's CBI term runs to 24 May 2027.
+POLITY TOPIC 37 - CVC AND CBI - ASCII MASTER FLOW DIAGRAM
+
+[1/12] IDENTITY AND ROLE FIREWALL
+CVC Act 2003 -> statutory vigilance, supervision, advice
+CBI Resolution 1 Apr 1963 -> executive-created organisation
+DSPE Act 1946 -> statutory police establishment and principal CBI police powers
+CVO -> departmental prevention/discipline liaison
+Lokpal -> complaint and referred-matter route
+Prosecutor -> presents State case | Court -> cognizance, trial, guilt
+Core warning: advice != FIR != charge sheet != conviction
+
+[2/12] CHRONOLOGY
+1941 Special Police Establishment in wartime supply-corruption setting
+  -> 1946 DSPE Act gives continuing statutory police framework
+  -> 1 Apr 1963 Government Resolution establishes CBI
+  -> 1964 Government Resolution establishes CVC after Santhanam Committee
+  -> 18 Dec 1997 Vineet Narain independence directions
+  -> 1998 CVC Ordinance gives interim statutory bridge
+  -> 1999 Bill process -> 11 Sep 2003 CVC Act
+  -> 16 Jan 2014 Lokpal Act amendments operative
+  -> 14 Nov 2021 DSPE Director-extension amendment operative
+
+[3/12] CVC DESIGN - SECTIONS 3 TO 6
+Composition: Central Vigilance Commissioner (Chairperson) + not more than 2 VCs
+Qualification pools:
+  A. AIS/Union service or civil post: vigilance, policy, administration incl. police
+  B. central statutory corporation/government company: finance incl. banking/insurance,
+     law, vigilance, investigations
+Category guard: if 3 offices filled, not more than 2 from either pool
+Appointment: President <- PM (chair) + Home Minister + Lok Sabha LoP/substitute
+Term: 4 years or age 65, earlier; VC->CVC allowed, aggregate service <=4 years
+Removal: proved misconduct/incapacity -> President reference -> Supreme Court inquiry;
+         separate listed direct grounds; post-tenure government-employment limits
+
+[4/12] CVC SECTION 8 - POWER AND BOUNDARY
+Superintend DSPE investigation of PC Act and connected same-trial offences
+  -> give lawful directions
+  X never require investigation/disposal of a particular case in a particular manner
+Inquire/cause inquiry or investigation on Central reference or covered complaint
+Review DSPE investigation progress + prosecution-sanction applications
+Advise Union/covered central bodies + supervise vigilance administration
+Civil-court inquiry powers do not create police, prosecution or conviction power
+
+[5/12] CVO, ADVICE, REPORTING AND PIDPI
+CVC -> CVO -> preventive vigilance | complaint scrutiny | disciplinary coordination
+CVO X police station | prosecutor | final disciplinary authority
+CVC advice may be rejected -> section 17 written reasons communicated to CVC
+section 14 annual report within 6 months of year-end:
+  separate relevant DSPE part -> President -> both Houses of Parliament
+PIDPI Resolution 21 Apr 2004:
+  CVC designated agency -> protected written disclosure -> identity confidentiality
+  X anonymous/pseudonymous protected route | X conviction power
+Whistle Blowers Protection Act 2014 not used as operative authority without commencement
+
+[6/12] CBI ORGANISATION AND DSPE LEGAL STACK
+Stable CBI categories: anti-corruption | economic offences | special crimes
+                       support/forensics/prosecution | INTERPOL NCB
+Organisational category never enlarges legal jurisdiction
+DSPE section 2 -> Union Territory police-power baseline
+DSPE section 3 -> Central Government notification of offences/classes
+Public importance or "central agency" label is not a jurisdiction source
+
+[7/12] DSPE SECTIONS 4, 5 AND 6
+section 4(1): CVC superintendence for PC Act investigations
+section 4(2): Central Government superintendence for other DSPE matters
+section 4(3): administration in Director
+section 5: Central order extends powers/jurisdiction to State area for notified offences
+section 6: State consent for ordinary exercise in State
+  general consent = standing, defined, possibly conditional
+  specific consent = named case/facts/persons/offences
+Sequence: notified offence -> section 5 extension -> section 6 consent
+
+[8/12] WITHDRAWAL AND CONSTITUTIONAL COURTS
+State withdraws general consent:
+  existing investigation validly begun -> may continue: Kazi Lhendup Dorji (1994)
+  new investigation -> fresh consent or other lawful route ordinarily required
+  Fertico (2020) is fact-specific; no universal post-facto-cure rule
+CPDR Constitution Bench (2010):
+  High Court Art.226 / Supreme Court Art.32 may order CBI probe without State consent
+  source = constitutional judicial review, not deemed consent
+  use sparingly, cautiously, exceptionally; Union executive cannot self-invoke exception
+
+[9/12] VINEET NARAIN, SECTION 6A AND PC ACT GATES
+Vineet Narain (1997):
+  statutory CVC trajectory | CVC anti-corruption oversight | Director 2-year floor
+  then CVC-Home Sec-Personnel Sec selection route | transfer/work-allocation safeguards
+  CBI Manual discipline | Single Directive struck down
+Former DSPE section 6A revived senior-rank approval shield
+  -> Subramanian Swamy v Director CBI (2014): invalid under Article 14
+Current distinct PC Act gates:
+  section 17A -> previous approval before decision-linked inquiry/investigation
+                 exception: on-the-spot undue-advantage arrest
+  section 19  -> sanction before court cognizance of specified offences
+Neither approval nor sanction determines guilt
+
+[10/12] DIRECTOR, SENIOR POSTS, LOKPAL AND PROSECUTION
+section 4A Director committee:
+  PM + Lok Sabha LoP/largest opposition leader + CJI/SC judge nominee
+  panel from IPS on seniority + integrity + anti-corruption investigation experience
+section 4B: minimum 2 years; transfer needs committee consent
+  extension = public interest + committee + written reasons + 1 year at a time
+              aggregate maximum 5 years, never automatic
+Alok Kumar Verma (2019): divestment can be transfer-like; process cannot be bypassed
+section 4C SP+ committee: CVC + VCs + Home Secretary + Personnel Secretary; consult Director
+section 4BA Director of Prosecution: Central appointment on CVC recommendation; >=2 years
+Lokpal ss.20/25: CVC preliminary-inquiry route + referred-DSPE superintendence;
+                 no particular-case dictation
+
+[11/12] PERFORMANCE PROBLEMS AND REFORM MATCH
+Political-control allegation -> auditable allocation, recusals, protected transfers
+Resolution-based CBI status -> debated dedicated law, preserving federalism and courts
+Deputation/manpower gaps -> stable multidisciplinary cadre with external accountability
+Forensic/digital delay -> laboratories, standards, chain-of-custody capacity
+Consent disputes -> lawful model instruments, time-bound requests, joint coordination
+Sanction/prosecution delay -> dashboards, reasoned decisions, prosecution coordination
+Weak follow-up on CVC advice -> substantive reasons + CVO protection + section 14 scrutiny
+Rule: every autonomy gain requires audit, reasons, judicial review and due process
+
+[12/12] PRELIMS TRAPS, PYQ ROUTE AND QUALIFIED VERDICT
+Never write:
+  CBI statutory/constitutional | CVC controls all CBI | State consent always/never needed
+  withdrawal retrospectively voids completed investigation | five-year Director term automatic
+  section 17A = section 19 | CVC/CBI convict or punish | Lokpal permanently runs CBI
+2021 GS-II answer route:
+  CBI/DSPE identity -> State List -> ss.5-6 -> general/specific consent
+  -> prospective withdrawal/Kazi -> Arts.32/226 CPDR exception -> federal verdict
+QUALIFIED VERDICT:
+  CVC-CBI legitimacy requires operationally insulated investigation, bounded supervision,
+  cooperative federal consent, timely prosecution, parliamentary system scrutiny,
+  due process and final judicial determination of guilt.
 ```

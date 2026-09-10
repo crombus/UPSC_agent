@@ -1,1059 +1,154 @@
-# Polity 31 - National Commissions SC ST BC
+# Polity 31 - National Commissions for SCs, STs and Backward Classes
 
 ## Quick-Glance Tree Chart
 
 ```text
 NATIONAL COMMISSIONS FOR SCs, STs AND BACKWARD CLASSES
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Articles 338, 338A and 338B create specialised constitutional watchdogs for
-groups whose formal equality is insufficient against inherited exclusion.
-NCSC, NCST and NCBC investigate safeguards, inquire into complaints, advise on
-development, report to constitutional authorities and exercise specified
-civil-court powers. They do not legislate, adjudicate binding remedies or
-themselves alter constitutional lists. Their effectiveness depends on timely
-consultation, independent investigation, reasoned government responses,
-transparent data and clear separation from statutory commissions.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-TOPIC 31 OWNS:
-Articles 338,
-338A,
-338B,
-341,
-342,
-342A,
-366(26C),
-350B;
-commission evolution;
-composition;
-duties;
-civil-court powers;
-reports;
-consultation;
-SC / ST / SEBC list mechanics.
-                              |
-                              v
-RESERVATION:
-Articles 15 / 16 doctrine.
-SCHEDULED AREAS:
-Fifth / Sixth Schedules.
-NHRC / NCM / NCW / NCPCR:
-statutory bodies.
-SOCIAL JUSTICE:
-programme outcomes.
-                              |
-                              v
-                  BRANCH I: BODY MAP
-NCSC
-Article 338,
-constitutional.
-                              |
-                              v
-NCST
-Article 338A,
-constitutional.
-                              |
-                              v
-NCBC
-Article 338B,
-constitutional since 2018.
-                              |
-                              v
-COMMISSIONER FOR
-LINGUISTIC MINORITIES
-Article 350B,
-constitutional office.
-                              |
-                              v
-NCW,
-NCM,
-NHRC,
-NCPCR
-statutory,
-not constitutional.
-                              |
-                              v
-                  BRANCH II: HISTORICAL EVOLUTION
-ORIGINAL
-Special Officer
-for SCs / STs.
-                              |
-                              v
-65TH AMENDMENT 1990
-multi-member combined
-National Commission
-for SCs / STs.
-                              |
-                              v
-89TH AMENDMENT 2003
-bifurcated.
-                              |
-                              v
-2004
-separate NCSC /
-NCST operational.
-                              |
-                              v
-MANDAL / INDRA SAWHNEY 1992
-permanent backward-class body
-directed.
-                              |
-                              v
-NCBC ACT 1993
-statutory NCBC.
-                              |
-                              v
-102ND AMENDMENT 2018
-constitutional NCBC,
-Article 338B
-+ Article 342A
-+ Article 366(26C).
-                              |
-                              v
-105TH AMENDMENT 2021
-restored State / UT
-SEBC-list power.
-                              |
-                              v
-                  BRANCH III: COMMON COMPOSITION
-CHAIRPERSON.
-                              |
-                              v
-VICE-CHAIRPERSON.
-                              |
-                              v
-THREE OTHER MEMBERS.
-                              |
-                              v
-TOTAL
-five.
-                              |
-                              v
-APPOINTED
-by President
-by warrant
-under hand / seal.
-                              |
-                              v
-SERVICE CONDITIONS /
-TENURE
-determined under
-presidential rules.
-                              |
-                              v
-CAUTION
-do not freeze
-rule-based tenure / roster
-without current verification.
-                              |
-                              v
-                  BRANCH IV: SIX COMMON DUTIES
-INVESTIGATE / MONITOR
-constitutional,
-legal
-and governmental safeguards.
-                              |
-                              v
-INQUIRE
-into specific complaints
-of deprivation.
-                              |
-                              v
-PARTICIPATE / ADVISE
-planning process
-for socio-economic development.
-                              |
-                              v
-EVALUATE
-progress.
-                              |
-                              v
-REPORT
-annually
-and at other times
-to President.
-                              |
-                              v
-RECOMMEND
-effective implementation /
-protection /
-welfare /
-development.
-                              |
-                              v
-DISCHARGE
-other functions
-specified by President
-under law / rules.
-                              |
-                              v
-                  BRANCH V: CIVIL-COURT POWERS
-SUMMON
-and enforce attendance.
-                              |
-                              v
-EXAMINE
-on oath.
-                              |
-                              v
-DISCOVERY /
-PRODUCTION
-of documents.
-                              |
-                              v
-RECEIVE
-evidence on affidavits.
-                              |
-                              v
-REQUISITION
-public record /
-copy.
-                              |
-                              v
-ISSUE
-commissions
-for examination
-of witnesses / documents.
-                              |
-                              v
-OTHER MATTERS
-prescribed by President.
-                              |
-                              v
-LIMIT
-civil-court powers
-for inquiry
-do not make Commission
-a civil court
-with binding decree.
-                              |
-                              v
-                  BRANCH VI: REPORTING
-REPORT
-to President.
-                              |
-                              v
-PRESIDENT
-lays Union-related report
-before Parliament.
-                              |
-                              v
-STATE-RELATED PORTION
-sent to Governor.
-                              |
-                              v
-GOVERNOR
-lays before State Legislature.
-                              |
-                              v
-MEMORANDUM
-action taken
-+ reasons for non-acceptance.
-                              |
-                              v
-PURPOSE
-convert recommendation
-into public accountability.
-                              |
-                              v
-LIMIT
-report itself
-not binding order.
-                              |
-                              v
-                  BRANCH VII: POLICY CONSULTATION
-UNION / STATE GOVERNMENTS
-must consult relevant Commission
-on major policy matters
-affecting protected group.
-                              |
-                              v
-TIMING
-meaningful consultation
-should precede final decision.
-                              |
-                              v
-CONTENT
-adequate information /
-opportunity to advise.
-                              |
-                              v
-NOT
-Commission veto.
-                              |
-                              v
-PROBLEM
-late / formal consultation.
-                              |
-                              v
-REFORM
-publish consultation note /
-government response.
-                              |
-                              v
-                  BRANCH VIII: NCSC ARTICLE 338
-DOMAIN
-Scheduled Castes.
-                              |
-                              v
-SAFEGUARDS
-Constitution,
-law,
-government orders.
-                              |
-                              v
-COMPLAINTS
-rights / safeguards deprivation.
-                              |
-                              v
-DEVELOPMENT
-participation / evaluation.
-                              |
-                              v
-REPORTS /
-RECOMMENDATIONS.
-                              |
-                              v
-OTHER BACKWARD CLASSES
-removed from NCSC domain
-after constitutional NCBC
-except historical context.
-                              |
-                              v
-CAUTION
-NCSC cannot itself
-add caste to Article 341 list.
-                              |
-                              v
-                  BRANCH IX: ARTICLE 341 SC LIST
-PRESIDENT
-specifies castes,
-races,
-tribes
-or parts / groups
-for State / UT.
-                              |
-                              v
-STATE CASE
-Governor consultation.
-                              |
-                              v
-PARLIAMENT
-may include / exclude
-by law afterward.
-                              |
-                              v
-STATE-SPECIFIC
-status need not transfer
-across State boundary.
-                              |
-                              v
-STATE GOVERNMENT /
-COMMISSION
-may recommend,
-not finally alter list.
-                              |
-                              v
-CAUTION
-Presidential notification
-plus parliamentary amendment
-is exact route.
-                              |
-                              v
-                  BRANCH X: SC SUB-CLASSIFICATION
-E.V. CHINNAIAH 2004
-earlier bar
-on State sub-classification.
-                              |
-                              v
-STATE OF PUNJAB
-v DAVINDER SINGH,
-1 August 2024.
-                              |
-                              v
-SEVEN-JUDGE BENCH
-overruled Chinnaiah.
-                              |
-                              v
-HOLDING
-States may sub-classify
-Scheduled Castes
-for reservation
-on quantifiable /
-demonstrable data.
-                              |
-                              v
-LIMIT
-cannot exclude
-the remainder
-of Presidential-list class
-from benefit.
-                              |
-                              v
-CREAMY LAYER
-discussed in concurrences;
-not one unanimous ratio
-of all seven judges.
-                              |
-                              v
-                  BRANCH XI: NCST ARTICLE 338A
-DOMAIN
-Scheduled Tribes.
-                              |
-                              v
-COMMON SIX DUTIES
-+ tribal-specific concerns.
-                              |
-                              v
-LAND ALIENATION.
-                              |
-                              v
-FOREST RIGHTS.
-                              |
-                              v
-MINING /
-DISPLACEMENT.
-                              |
-                              v
-MINOR FOREST PRODUCE.
-                              |
-                              v
-PESA IMPLEMENTATION.
-                              |
-                              v
-FRA IMPLEMENTATION.
-                              |
-                              v
-DEVELOPMENT IMPACT /
-REHABILITATION.
-                              |
-                              v
-CAUTION
-NCST investigates /
-advises;
-does not replace
-Gram Sabha,
-Governor
-or forest authority.
-                              |
-                              v
-                  BRANCH XII: ARTICLE 342 ST LIST
-PRESIDENT
-specifies STs
-for State / UT
-by public notification.
-                              |
-                              v
-CONSULTATION
-Governor for State.
-                              |
-                              v
-PARLIAMENT
-later inclusion /
-exclusion by law.
-                              |
-                              v
-STATE-SPECIFIC
-same tribe may differ
-across States.
-                              |
-                              v
-GOVERNOR
-does not declare
-ST status.
-                              |
-                              v
-NCST
-advises /
-scrutinises;
-does not amend list.
-                              |
-                              v
-                  BRANCH XIII: NCBC ARTICLE 338B
-ORIGIN
-statutory Commission
-under 1993 Act.
-                              |
-                              v
-102ND AMENDMENT 2018
-constitutional status.
-                              |
-                              v
-COMPOSITION
-Chair,
-Vice-Chair,
-three members.
-                              |
-                              v
-FUNCTIONS
-SEBC safeguards,
-complaints,
-development,
-reports,
-recommendations.
-                              |
-                              v
-CONSULTATION
-Union / States
-on major policies
-affecting SEBCs.
-                              |
-                              v
-STATUS
-on par structurally
-with NCSC / NCST,
-but group-specific domain.
-                              |
-                              v
-                  BRANCH XIV: ARTICLE 342A / 105TH
-102ND AMENDMENT
-Article 342A
-central list mechanism.
-                              |
-                              v
-MARATHA RESERVATION CASE 2021
-Supreme Court reading
-centralised identification
-under amended text.
-                              |
-                              v
-105TH AMENDMENT 2021
-restored State / UT power
-to prepare / maintain
-own SEBC lists
-for own purposes.
-                              |
-                              v
-CENTRAL LIST
-President specifies
-for Central Government purposes
-under current text.
-                              |
-                              v
-PARLIAMENT
-inclusion / exclusion
-from Central List
-by law.
-                              |
-                              v
-ARTICLE 366(26C)
-definition of SEBC.
-                              |
-                              v
-TRAP
-NCBC does not itself
-finally notify lists.
-                              |
-                              v
-                  BRANCH XV: NCSC / NCST / NCBC COMPARISON
-LEGAL STATUS
-all constitutional.
-                              |
-                              v
-COMPOSITION
-same five-member design.
-                              |
-                              v
-APPOINTMENT
-President.
-                              |
-                              v
-POWERS
-civil-court inquiry.
-                              |
-                              v
-REPORT
-President /
-Parliament /
-State route.
-                              |
-                              v
-CONSULTATION
-major policy.
-                              |
-                              v
-DIFFERENCE
-beneficiary /
-list Article /
-special subject.
-                              |
-                              v
-NCSC
-SC safeguard.
-NCST
-tribal land / forest.
-NCBC
-SEBC / list federalism.
-                              |
-                              v
-                  BRANCH XVI: LINGUISTIC MINORITIES
-ARTICLE 350B.
-                              |
-                              v
-INSERTED
-7th Amendment 1956.
-                              |
-                              v
-BACKGROUND
-States Reorganisation Commission.
-                              |
-                              v
-SPECIAL OFFICER
-appointed by President.
-                              |
-                              v
-DESIGNATION
-Commissioner for
-Linguistic Minorities.
-                              |
-                              v
-FUNCTION
-investigate safeguards.
-                              |
-                              v
-REPORT
-President
--> Parliament
-+ State governments.
-                              |
-                              v
-MINISTRY
-Minority Affairs.
-                              |
-                              v
-HEADQUARTERS
-New Delhi
-since 1 June 2015.
-                              |
-                              v
-CONSTITUTION SILENT
-qualification,
-tenure,
-salary,
-removal.
-                              |
-                              v
-                  BRANCH XVII: RELATED LINGUISTIC RIGHTS
-ARTICLE 29
-conserve language /
-script /
-culture.
-                              |
-                              v
-ARTICLE 30
-minority educational institutions.
-                              |
-                              v
-ARTICLE 350
-representation for grievance
-in Union / State language.
-                              |
-                              v
-ARTICLE 350A
-mother-tongue instruction
-at primary stage
-for linguistic-minority children.
-                              |
-                              v
-ARTICLE 350B
-investigative reporting officer.
-                              |
-                              v
-CAUTION
-Commissioner is not
-full adjudicatory commission.
-                              |
-                              v
-                  BRANCH XVIII: CONSTITUTIONAL / STATUTORY BODY FIREWALL
-CONSTITUTIONAL:
-NCSC,
-NCST,
-NCBC,
-Linguistic Minorities Officer.
-                              |
-                              v
-STATUTORY:
-National Commission for Women.
-                              |
-                              v
-National Commission for Minorities.
-                              |
-                              v
-NHRC.
-                              |
-                              v
-National Commission
-for Protection of Child Rights.
-                              |
-                              v
-SOURCE
-Act of Parliament,
-not Constitution.
-                              |
-                              v
-TRAP
-similar name /
-national mandate
-does not determine legal status.
-                              |
-                              v
-                  BRANCH XIX: INVESTIGATION FLOW
-COMPLAINT /
-SUO MOTU INPUT.
-                              |
-                              v
-JURISDICTION CHECK
-group /
-safeguard /
-subject.
-                              |
-                              v
-NOTICE /
-INFORMATION.
-                              |
-                              v
-SUMMON /
-DOCUMENT /
-AFFIDAVIT /
-PUBLIC RECORD.
-                              |
-                              v
-HEARING /
-FIELD INQUIRY.
-                              |
-                              v
-FINDING.
-                              |
-                              v
-RECOMMENDATION.
-                              |
-                              v
-GOVERNMENT RESPONSE.
-                              |
-                              v
-REPORT /
-LEGISLATIVE ACCOUNTABILITY.
-                              |
-                              v
-LIMIT
-recommendation generally
-not executable decree.
-                              |
-                              v
-                  BRANCH XX: INDEPENDENCE
-CONSTITUTIONAL STATUS.
-                              |
-                              v
-PRESIDENTIAL APPOINTMENT.
-                              |
-                              v
-CIVIL-COURT POWERS.
-                              |
-                              v
-DIRECT REPORTING.
-                              |
-                              v
-PARLIAMENTARY LAYING.
-                              |
-                              v
-PUBLIC VISIBILITY.
-                              |
-                              v
-WEAKNESSES
-executive-framed tenure /
-service rules;
-government staff;
-vacancies;
-advisory output;
-limited independent enforcement.
-                              |
-                              v
-REFORM
-transparent appointment,
-secure tenure,
-independent staff /
-budget,
-follow-up deadlines.
-                              |
-                              v
-                  BRANCH XXI: ACCOUNTABILITY
-COMMISSION
-must use fair inquiry /
-reasons /
-group-specific expertise.
-                              |
-                              v
-GOVERNMENT
-action-taken memorandum.
-                              |
-                              v
-PARLIAMENT /
-STATE LEGISLATURE
-debate reports.
-                              |
-                              v
-COURTS
-review constitutional /
-statutory action.
-                              |
-                              v
-PUBLIC
-access reports /
-data.
-                              |
-                              v
-OVERLAP
-coordinate referrals
-without forum shopping /
-duplication.
-                              |
-                              v
-                  BRANCH XXII: PRACTICAL LIMITS
-ADVISORY RECOMMENDATIONS.
-                              |
-                              v
-NO DIRECT PUNISHMENT.
-                              |
-                              v
-NO LIST-ALTERATION POWER.
-                              |
-                              v
-DEPENDENCE
-on government data /
-investigation.
-                              |
-                              v
-VACANCIES /
-CASE DELAY.
-                              |
-                              v
-OVERLAPPING COMMISSIONS.
-                              |
-                              v
-WEAK FOLLOW-UP
-on reports.
-                              |
-                              v
-DATA GAP
-especially SEBC /
-sub-group outcomes.
-                              |
-                              v
-                  BRANCH XXIII: REFORM AGENDA
-APPOINTMENT
-transparent,
-plural,
-merit-based.
-                              |
-                              v
-STAFF
-independent investigation /
-research cadres.
-                              |
-                              v
-CONSULTATION
-mandatory early stage
-with published response.
-                              |
-                              v
-REPORTS
-time-bound laying /
-debate.
-                              |
-                              v
-RECOMMENDATIONS
-reasoned acceptance /
-rejection.
-                              |
-                              v
-DATA
-disaggregated,
-comparable,
-privacy-safe.
-                              |
-                              v
-COORDINATION
-NCSC / NCST / NCBC /
-statutory bodies.
-                              |
-                              v
-REMEDY
-follow-up power
-without converting
-Commission into court.
-                              |
-                              v
-                    CONSTITUTIONAL CASE / EXAMPLE BANK
-INDRA SAWHNEY 1992
-statutory NCBC impetus /
-reservation doctrine.
-                              |
-                              v
-MARATHA RESERVATION 2021
-102nd Amendment list issue.
-                              |
-                              v
-105TH AMENDMENT 2021
-State SEBC lists restored.
-                              |
-                              v
-DAVINDER SINGH 2024
-SC sub-classification.
-                              |
-                              v
-ARTICLE 342
-State-specific ST status.
-                              |
-                              v
-ARTICLE 350B
-linguistic safeguards.
-                              |
-                              v
-                    SOURCE CRITICISM
-constitutional status != binding decision;
-civil-court powers != court decree;
-consultation != veto;
-Commission recommendation != list notification;
-Central SEBC list != State list;
-SC / ST status is State-specific;
-sub-classification != exclusion of residual class;
-concurrence opinion != unanimous holding;
-statutory commission != constitutional body;
-report submission != implementation.
-                              |
-                              v
-                    MAJOR DEBATES
-CONSTITUTIONAL STATUS OR REAL POWER?
-legal visibility
-without enforcement.
-                              |
-                              v
-GROUP PROTECTION OR
-INTERNAL EQUALITY?
-sub-classification /
-creamy-layer debate.
-                              |
-                              v
-CENTRAL OR STATE OBC LIST?
-105th dual-list settlement.
-                              |
-                              v
-ADVISORY OR BINDING?
-accountability
-without adjudicatory substitution.
-                              |
-                              v
-SPECIALISATION OR OVERLAP?
-clear mandates /
-joint referral.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-NCSC 338;
-NCST 338A;
-NCBC 338B;
-all five members;
-89th split in 2004;
-102nd constitutionalised NCBC;
-105th restored State lists;
-President specifies SC / ST;
-Parliament changes lists;
-NCBC does not notify list;
-350B officer constitutional;
-NCM / NCW / NHRC statutory;
-civil-court powers not binding judgment.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-VERIFIED MAINS:
-2018 GS-II Q2
-National Commission for Backward Classes
-and constitutional status;
-10 marks,
-150 words.
-                              |
-                              v
-2018 GS-II Q16
-National Commission for Scheduled Tribes /
-tribal safeguards;
-15 marks,
-250 words.
-                              |
-                              v
-2020 GS-II Q15
-NCW effectiveness /
-constitutional-status comparison;
-statutory-body cross-owner.
-                              |
-                              v
-2022 GS-II Q5
-NCBC constitutional role /
-social justice;
-owner route.
-No Mains answer key.
-                              |
-                              v
-PRELIMS:
-2023 Q35
-classification of commissions;
-official historical key unavailable;
-concept resolved
-without official answer claim.
-                              |
-                              v
-2024 Q84
-who declares ST /
-State-specific status;
-official Set-A answer B;
-cross-linked Scheduled Areas owner.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-body / Article map
--> evolution
--> composition
--> duties / civil powers
--> reporting / consultation
--> NCSC / Article 341
--> NCST / Article 342
--> NCBC / 342A / 105th
--> linguistic minorities
--> status firewall
--> reform.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-COMMISSION QUESTION:
-constitutional origin
--> composition
--> safeguards domain
--> powers
--> reporting / consultation
--> legal limits
--> performance gap
--> reform
--> accountability verdict.
-                              |
-                              v
-LIST / RESERVATION:
-exact Article
--> President / Parliament /
-State role
--> commission role
--> judgment / amendment
--> data requirement
--> substantive-equality conclusion.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-The national commissions constitutionalise attention to entrenched social
-disadvantage but do not themselves redistribute power or deliver binding
-remedies. Their value lies in investigation, policy scrutiny, public reporting
-and forcing governments to answer for safeguards. Constitutional status must be
-matched by independent staff, timely consultation, reliable disaggregated data
-and legislative follow-up. Effective commissions should strengthen rights and
-administration without confusing advice with adjudication or list-making power.
+|
++-- 1. CONCEPT AND CONSTITUTIONAL ROLE
+|   +-- Articles 338, 338A and 338B create specialist constitutional watchdogs.
+|   +-- Shared cycle: monitor safeguards -> inquire complaints -> advise/evaluate
+|   |   -> report and recommend.
+|   +-- Legal character: investigative + advisory + recommendatory.
+|   +-- Limit: civil-court procedure does not make them courts; they do not grant
+|       reservation, amend lists, prosecute offences or issue binding decrees.
+|
++-- 2. CONSTITUTIONAL HISTORY
+|   +-- Original Article 338 -> President-appointed Special Officer for SCs/STs;
+|   |   investigated safeguards and reported to the President.
+|   +-- 1978 executive resolution -> non-statutory multi-member SC/ST commission;
+|   |   renamed National Commission for SCs/STs in 1987.
+|   +-- 65th Amendment (1990) -> substituted Article 338 with a constitutional,
+|   |   multi-member combined NCSC/ST; first commission constituted 12 March 1992.
+|   +-- 89th Amendment (2003) -> amended Article 338 for NCSC and inserted
+|   |   Article 338A for NCST; separation effective 19 February 2004.
+|   +-- Indra Sawhney v Union of India (1992) -> directed a permanent body for
+|   |   backward-class inclusion/over-inclusion/under-inclusion complaints.
+|   +-- NCBC Act, 1993 -> statutory NCBC, principally list-focused.
+|   +-- 102nd Amendment (2018) -> inserted Article 338B, Article 342A and
+|   |   Article 366(26C); constitutional NCBC commenced 15 August 2018.
+|   +-- 105th Amendment (2021) -> amended Article 338B(9), Article 342A and
+|       Article 366(26C) to restore/clarify State/UT own SEBC-list power.
+|
++-- 3. ARTICLES 338 / 338A / 338B
+|   +-- Article 338 -> NCSC: safeguards for Scheduled Castes.
+|   +-- Article 338A -> NCST: safeguards for Scheduled Tribes.
+|   +-- Article 338B -> NCBC: safeguards for socially and educationally backward
+|   |   classes (SEBCs).
+|   +-- Clauses (1)-(4) -> creation; Chairperson + Vice-Chairperson + 3 Members;
+|   |   Presidential warrant; commission regulates its procedure.
+|   +-- Clauses (5)-(9) -> duties; reports; civil-court evidence powers;
+|   |   consultation on major policy.
+|   +-- Article 338(10), after the 102nd Amendment -> SC reference also includes
+|       the Anglo-Indian community; the old backward-class extension was removed.
+|
++-- 4. COMPOSITION, SERVICE CONDITIONS AND TENURE
+|   +-- Each present commission has five persons.
+|   +-- President appoints by warrant under hand and seal.
+|   +-- Constitution leaves service conditions and tenure to Presidential rules,
+|   |   subject to parliamentary law.
+|   +-- 2004 NCSC/NCST rules and 2018 NCBC rules -> three-year term and no more
+|       than two terms; do not present this as wording inside the Articles.
+|
++-- 5. FUNCTIONS, CIVIL-COURT POWERS AND CONSULTATION
+|   +-- Six duties under clause (5):
+|   |   1 monitor safeguards; 2 inquire specific complaints;
+|   |   3 participate/advise in socio-economic development;
+|   |   4 evaluate progress; 5 report/recommend; 6 other specified functions.
+|   +-- Clause (8) during investigation/inquiry:
+|   |   summon and examine on oath; compel documents; receive affidavits;
+|   |   requisition public records; issue evidentiary commissions; other matter.
+|   +-- Clause (9) -> Union and States shall consult on major policy matters.
+|   +-- Consultation != concurrence or veto.
+|   +-- 105th proviso -> Article 338B(9) does not apply for Article 342A(3)
+|       State/UT own-list purposes.
+|
++-- 6. REPORTS AND LEGISLATIVE ACCOUNTABILITY
+|   +-- Union matter -> Commission -> President -> each House of Parliament.
+|   |   Government memorandum states action taken/proposed and reasons for
+|   |   rejecting recommendations.
+|   +-- State matter under Articles 338(7)/338A(7) -> Governor -> State
+|   |   Legislature + memorandum.
+|   +-- NCBC textual difference, Article 338B(7) -> State Government causes
+|   |   laying before State Legislature + memorandum.
+|   +-- Constitutional force = reason-giving + visibility; recommendation remains
+|       advisory and submission/laying/scrutiny/implementation can diverge.
+|
++-- 7. COMMISSION-SPECIFIC DOMAINS
+|   +-- NCSC -> untouchability, equality, services, representation and monitoring
+|   |   of PCR/SC-ST PoA safeguards; police/prosecutors/Special Courts enforce.
+|   +-- NCST -> common Article 338A duties plus 2005 President-specified functions:
+|   |   minor forest produce; minerals/water as provided by law; livelihoods;
+|   |   displacement; land alienation; forest participation; PESA; shifting
+|   |   cultivation.
+|   +-- NCST limit -> does not administer Scheduled Areas, PESA Gram Sabhas or
+|   |   finally decide Forest Rights Act claims.
+|   +-- NCBC -> 1993 list-focused statutory origin; Article 338B broadened it to
+|       safeguards, complaints, development, reports and consultation.
+|
++-- 8. LIST SPECIFICATION: IDENTIFICATION IS NOT COMMISSION POWER
+|   +-- Article 341 SC list -> President initially specifies by public notification
+|   |   after Governor consultation for a State; Parliament later includes/excludes
+|   |   by law.
+|   +-- Article 342 ST list -> parallel route; status is State/UT-specific.
+|   +-- Article 342A(1)-(2) -> Central SEBC List for Central Government purposes:
+|   |   President specifies; Parliament varies.
+|   +-- Article 342A(3) -> State/UT may by law prepare and maintain own SEBC list
+|   |   for own purposes; it may differ from the Central List.
+|   +-- Article 366(26C) -> SEBC definition bridge to the applicable Article 342A
+|   |   list.
+|   +-- Commission recommendation, caste-certificate administration and quota
+|       percentage are legally distinct from constitutional list specification.
+|
++-- 9. AMENDMENT AND CASE TIMELINE
+|   +-- Jaishri Laxmanrao Patil v Chief Minister (2021, Maratha case) ->
+|   |   majority read original 342A as displacing State identification power;
+|   |   separate holding invalidated the Maratha quota on ceiling/exception grounds.
+|   +-- 105th Amendment response -> explicit State/UT own-list power; own-list
+|   |   competence remains subject to equality and judicial review.
+|   +-- State of Punjab v Davinder Singh (2024) -> evidence-based SC
+|   |   sub-classification permissible; E.V. Chinnaiah overruled on that issue;
+|   |   sub-classification cannot alter the Article 341 list.
+|   +-- Creamy-layer observations in concurrences != one unanimous ratio.
+|   +-- Jarnail Singh -> bounded promotion/creamy-layer cross-link.
+|   +-- Janhit Abhiyan -> EWS cross-link only; neither case expands commission power.
+|
++-- 10. INSTITUTIONAL DISTINCTIONS
+|   +-- Commission -> monitor, investigate, advise, report.
+|   +-- Ministry/department -> policy, budget and implementation.
+|   +-- Police/prosecutor -> criminal investigation and prosecution.
+|   +-- Court/tribunal -> binding adjudication within jurisdiction.
+|   +-- State commission -> territorial complement under its own legal framework.
+|   +-- NHRC, NCW, NCM and NCPCR -> statutory bodies; Law Commission -> executive;
+|       NCSC, NCST and NCBC -> constitutional bodies.
+|
++-- 11. INDEPENDENCE, ACCESS AND REFORM
+|   +-- Strengths -> entrenchment, Presidential appointment, own procedure,
+|   |   compulsory evidence, consultation and legislative reporting.
+|   +-- Risks -> executive-led selection, vacancies, staff dependence, weak
+|   |   regional access, fragmented case management, poor disaggregated data,
+|   |   delayed reports and weak follow-up.
+|   +-- Intersectionality -> multilingual/offline access, assisted filing, reasoned
+|   |   referral and lawful joint inquiry.
+|   +-- Reforms -> public selection criteria, vacancy calendar, research cadres,
+|   |   privacy-protective dashboards, recommendation-wise government replies and
+|       legislative-committee scrutiny.
+|
++-- 12. PRELIMS TRAPS AND MAINS ANSWER SPINE
+    +-- Current body = 5; historical combined body = 7.
+    +-- 89th Act 2003; separation effective 19 February 2004.
+    +-- Civil-court powers = evidence tools, not court status.
+    +-- “Issue commissions” = examine witnesses/documents, not create institutions.
+    +-- NCSC/NCST State report -> Governor; NCBC State report -> State Government.
+    +-- Consultation != consent; Article 338B(9) has a 342A(3) exception.
+    +-- President initially specifies SC/ST; Parliament later varies by law.
+    +-- Central SEBC List != State/UT own list.
+    +-- Davinder Singh sub-classification != list deletion or commission veto.
+    +-- ANSWER: define body/article -> chronology -> exact function/list route ->
+        named rule/case -> institutional effect -> advisory/list boundary ->
+        capacity reform -> graded verdict.
 ```
+
+## Qualified Conclusion
+
+NCSC, NCST and NCBC are constitutionally entrenched specialist accountability bodies. Their force lies in evidence, consultation, reports, public reasons and follow-up—not in being courts, ministries or list-amending authorities.

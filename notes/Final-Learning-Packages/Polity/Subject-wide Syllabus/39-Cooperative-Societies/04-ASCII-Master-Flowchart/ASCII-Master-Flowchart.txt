@@ -1,180 +1,220 @@
-ASCII MASTER FLOW — PANEL 1/12: Cooperative identity, principles and evolution
+ASCII MASTER FLOW — PANEL 1/12: Identity, forms and principles
 ROOT QUESTION
-How can member-owned enterprise combine democratic control with commercial discipline?
+How can a member-owned enterprise create scale without surrendering democratic control?
 
-CORE IDENTITY
-voluntary association + member ownership + one-member democratic voice + shared benefit.
+IDENTITY
+voluntary association -> jointly owned enterprise -> democratic member control -> common need.
+
+FORMS AS EXPLANATION
+PACS/credit -> local finance | dairy -> pooling/processing | housing -> common property/services.
+Examples explain functions; they do not prove current numbers or universal success.
 
 SEVEN PRINCIPLES
-voluntary/open membership | democratic control | member economic participation
-| autonomy | education | cooperation among cooperatives | community concern.
+voluntary/open membership | democratic control | member economic participation | autonomy
+| education/training/information | cooperation among cooperatives | concern for community.
 
-EVOLUTION
-1904 credit law -> 1912 general law -> provincial/State field -> 97th Amendment.
+SOURCE LIMIT
+ICA principles are normative; enforceability follows the applicable Act, rules and bye-laws.
 
-FEDERAL LOCATION
-Entry 32: State cooperatives | Entry 44: multi-State corporations | Entry 45: banking.
+ASCII MASTER FLOW — PANEL 2/12: Statutory origin and federal location
+1904 credit law -> 1912 general cooperative law -> 1919/1935 provincial field
+-> 1950 constitutional competence split.
 
-LIMIT
-international principles guide interpretation; applicable Indian law controls outcomes.
-MUST REMEMBER: Preserve the post-Union of India v. Rajendra N. Shah (2021) split: State-field
-  cooperatives remain under Entry 32 and State law; Part IXB survives for the multi-State
-  field.
+PRE-2011 POSITION
+Cooperatives already had statutory personality under State or central law.
+The 97th Amendment constitutionalised values/rules; it did not create the legal form.
 
-ASCII MASTER FLOW — PANEL 2/12: Federal competence and the 97th Amendment
 ENTRY 32, STATE LIST
-State-field cooperatives: State law and Registrar.
+incorporation, regulation and winding up of State-field cooperative societies.
 
 ENTRY 44, UNION LIST
-corporations with objects not confined to one State: MSCS field.
+corporations, trading or not, whose objects are not confined to one State.
 
-97TH AMENDMENT
-Article 19(1)(c) + Article 43B + Part IXB.
-Formation freedom is subject to Article 19(4); Article 43B is a DPSP.
+ENTRY 45, UNION LIST
+banking overlay where the cooperative carries on regulated banking business.
 
-ASCII MASTER FLOW — PANEL 3/12: Union of India v. Rajendra N. Shah (2021): severability
-Union of India v. Rajendra N. Shah (2021)
-Part IXB altered the State legislative field without half-State ratification.
+ASCII MASTER FLOW — PANEL 3/12: The 97th Amendment's three effects
+CONSTITUTION (NINETY-SEVENTH AMENDMENT) ACT, 2011
+assent 12 Jan 2012 -> Gazette 13 Jan 2012 -> effective 15 Feb 2012.
 
-MAJORITY RESULT
-State-field application invalid | Article 19(1)(c) and Article 43B survive.
-Article 243ZR permits severance for the valid multi-State field.
+1. ARTICLE 19(1)(c)
+citizens' freedom to form cooperative societies; reasonable restrictions under Article 19(4).
 
-UT NUANCE
-MSCS operations in UTs survive; a society confined within one UT is not automatically covered.
+2. ARTICLE 43B
+DPSP: voluntary formation + autonomous functioning + democratic control
++ professional management; non-justiciable but fundamental in governance.
 
-ASCII MASTER FLOW — PANEL 4/12: Part IXB board and election design
+3. PART IXB
+Articles 243ZH-243ZT: detailed governance code.
+
+TRAP
+The three effects have separate legal characters and separate post-2021 consequences.
+
+ASCII MASTER FLOW — PANEL 4/12: Rajendra N. Shah — ratification and severability
+ENTRY 32 STATE FIELD
+        |
+Part IXB substantially conditioned State legislation
+        |
+Article 368(2) proviso required ratification by at least half the States
+        |
+ratification absent
+        |
+STATE-FIELD OPERATION OF PART IXB INVALID.
+
+MAJORITY SEVERANCE
+Article 243ZR + Entry 44 -> Part IXB survives for multi-State cooperative societies.
+
+UNTOUCHED
+Article 19(1)(c) + Article 43B.
+
+TRAP
+The whole 97th Amendment was not struck down; use the majority, not the dissent, as law.
+
+ASCII MASTER FLOW — PANEL 5/12: Articles 243ZH-243ZJ
+243ZH DEFINITIONS
+authorised person | board | cooperative society | multi-State cooperative society
+| office bearer | Registrar | State Act | State-level cooperative society.
+
+243ZI
+law on incorporation/regulation/winding up based on voluntary formation,
+democratic member control, member economic participation and autonomous functioning.
+
 243ZJ
-maximum twenty-one directors | five-year term | conditional reserved seats
-| limited expert co-option | functional directors separately treated.
+board ceiling 21 | one SC or ST seat + two women seats where membership condition exists
+| elected board/office-bearer term 5 years | casual vacancy nomination only if remaining
+term is less than half | up to 2 expert co-options beyond 21 | no office-bearer-election
+vote/no office for co-opted experts | functional directors excluded from ceiling.
 
-243ZK
-election before term expiry; vacancy election within statutory period.
+POST-2021 LABEL
+Detailed commands operate in the surviving multi-State field, not directly for State societies.
 
-CONTROL
-These rules now operate only in the constitutionally valid multi-State field.
+ASCII MASTER FLOW — PANEL 6/12: Articles 243ZK-243ZL
+243ZK ELECTION
+before outgoing term expires -> new board assumes immediately on expiry.
+Electoral-roll preparation and election control vest in the authority/body created by law.
 
-ASCII MASTER FLOW — PANEL 5/12: Supersession, audit and returns
-243ZL
-limited grounds | ordinarily six months | banking cooperative ceiling differs.
-No supersession where no government share, loan, aid or guarantee.
+243ZL GROUNDS
+persistent default | negligence | prejudicial act | board stalemate | election-body failure.
 
-243ZM
-audit within six months.
+GENERAL TEXTUAL CEILING
+six months; administrator must complete election and hand management to elected board.
 
-243ZN-243ZP
-meetings, member information and returns within statutory clocks.
-243ZQ identifies offence families.
+AUTONOMY PROVISO
+no supersession/suspension where no government share, loan, financial assistance or guarantee.
 
-ASCII MASTER FLOW — PANEL 6/12: State societies and multi-State societies
-STATE-FIELD SOCIETY
-Entry 32 | State Act/rules/bye-laws | State Registrar.
+BANKING PROVISOS
+Banking Regulation Act also applies; one-year substitution is textually only for a banking
+cooperative other than an MSCS. After Rajendra N. Shah, that State-field command is not directly binding.
 
-MULTI-STATE COOPERATIVE SOCIETY
-Entry 44 | MSCS Act 2002 | Central Registrar | surviving Part IXB field.
+ASCII MASTER FLOW — PANEL 7/12: Articles 243ZM-243ZQ
+243ZM AUDIT
+annual accounts | legislated auditor qualifications | general-body appointment from approved panel
+| completion within 6 months | apex-society audit report laid before legislature as law provides.
 
-TRAP
-operating in several districts is not the same as statutory multi-State status.
-CLOSE DISTINCTION: Do not merge the Ministry, CRCS, Election Authority, Ombudsman, RBI,
-  NABARD, representative federations or operating cooperative societies.
+243ZN AGM
+within 6 months of financial-year close.
 
-ASCII MASTER FLOW — PANEL 7/12: MSCS Amendment 2023 institutions
-CO-OPERATIVE ELECTION AUTHORITY
-conducts board elections under the amended statute.
+243ZO MEMBER GOVERNANCE
+access to transaction-related books/information/accounts | minimum participation/service use
+| cooperative education and training.
 
-CO-OPERATIVE OMBUDSMAN
-member grievance and appeal functions.
+243ZP RETURNS WITHIN 6 MONTHS
+activities | audited accounts | surplus plan | bye-law changes | AGM/election declaration
+| other Registrar-required information.
 
-CO-OPERATIVE INFORMATION OFFICER
-member information route with reasoned response.
+243ZQ OFFENCE FAMILIES
+false information | disobeying lawful process | employee-deduction non-remittance within 14 days
+| failure to hand over records/property | corrupt electoral practice.
 
-OTHER CONTROLS
-concurrent audit | conflict rules | rehabilitation, reconstruction and development fund.
+ASCII MASTER FLOW — PANEL 8/12: Articles 243ZR-243ZT and operative regimes
+243ZR MULTI-STATE ADAPTATION
+State Legislature/Act/Government -> Parliament/Central Act/Central Government.
 
-ASCII MASTER FLOW — PANEL 8/12: Ministry, Central Registrar and policy boundary
-MINISTRY OF COOPERATION
-executive-policy coordination; does not transfer Entry 32 competence.
+243ZS UNION TERRITORY TEXT
+administrator for UT without legislature; UT legislature where present; presidential exclusion possible.
+Read with Rajendra N. Shah: safest operative formula is Part IXB for the valid multi-State field,
+including MSCS operations in UTs; do not assert blanket coverage of every UT-confined society.
 
-CENTRAL REGISTRAR
-registration, regulation and winding-up functions under the MSCS Act.
+243ZT TRANSITION
+inconsistent pre-amendment law continued only until competent amendment/repeal or one year,
+whichever was earlier; it is not permanent validation.
 
-CRCS INSTITUTIONS
-Election Authority and Ombudsman publish current official processes.
-Use dated official data; do not freeze dashboard counts.
+STATE SOCIETY
+Entry 32 -> State Act/rules/bye-laws -> State Registrar/election/audit machinery.
 
-CURRENT POLICY CONTROL: 5 SEPTEMBER 2026
-National Cooperation Policy 2025 was launched on 24 July 2025.
-Its governance, professionalisation, digital, market, finance and
-inclusion programme is policy; Entry 32 and State-law variation remain.
+MSCS
+Entry 44 -> MSCS Act 2002 -> Central Registrar -> surviving Part IXB.
 
-ASCII MASTER FLOW — PANEL 9/12: Cooperative banking regulation
-INSTITUTIONS
-Ministry -> Union policy/allocated business.
-CRCS -> MSCS statutory administration.
-State Registrar -> State-law administration.
-NCDC -> statutory development finance.
-NCUI/representative body -> advocacy, education and coordination.
-Operating cooperative -> member-owned enterprise, not regulator.
+ASCII MASTER FLOW — PANEL 9/12: MSCS Act 2002 as amended in 2023
+INCORPORATION / REGULATION / WINDING UP
+Central Registrar under section 4 and the central Act.
 
-BANKING OVERLAY
-incorporation/governance law + Banking Regulation Act/RBI
-| NABARD supervision for specified rural cooperative banks
-| PACS boundary must not be erased.
+ELECTION AUTHORITY
+Chairperson + Vice-Chairperson + not more than 3 Members; MSCS electoral rolls/elections.
 
-EXAMPLES
-dairy pooling | credit access | agricultural marketing | collective input/procurement.
+MEMBER REMEDIES
+Co-operative Ombudsman -> specified member grievances.
+Co-operative Information Officer -> provide or reasonedly reject member information.
 
-TRAP
-credit, dairy and agricultural cooperatives do not share one prudential regulator.
+GOVERNANCE CONTROLS
+conflict/nepotism restrictions | annual audit | delegated concurrent audit for notified large MSCS
+| rehabilitation/reconstruction/development fund | State-society-to-existing-MSCS merger route.
 
-ASCII MASTER FLOW — PANEL 10/12: Article 12, Article 226 and RTI tests
-ARTICLE 12
-instrumentality/control test; registration or aid alone is insufficient.
+LIMIT
+These are statutory MSCS mechanisms, not constitutional bodies or State-wide authorities.
 
-ARTICLE 226
-writ may follow a public duty even without Article 12 status.
+ASCII MASTER FLOW — PANEL 10/12: Cooperative banking boundaries
+COOPERATIVE-LAW IDENTITY
+State society -> State Registrar | MSCS -> Central Registrar.
 
-RTI
-section 2(h) control or substantial-finance test is separate.
+BANKING IDENTITY
+Entry 45 + Banking Regulation Act as applicable -> RBI licensing/prudential supervision.
+2020 amendment strengthened RBI governance, capital, audit and reconstruction tools.
 
-Thalappalam Service Cooperative Bank (2013)
-substantial finance/control requires evidence, not assumption.
+RURAL SUPERVISION
+NABARD statutory inspection/supervision for State Cooperative Banks and DCCBs.
 
-ASCII MASTER FLOW — PANEL 11/12: Governance failures and reform sequence
-Thalappalam Service Cooperative Bank (2013)
-registration and ordinary Registrar control did not automatically create RTI public authority.
-
-THREE DIFFERENT TESTS
-Article 12 State | Article 226 public duty | RTI section 2(h) public authority.
-
-FAILURE CHAIN
-political capture -> delayed elections -> weak audit -> connected lending
--> member apathy -> losses -> State rescue -> reduced autonomy.
-
-REFORM CHAIN
-timely elections + fit expertise + independent audit + member information
--> digital but inclusive records + regulator coordination + proportionate intervention.
+PACS FIREWALL
+primarily State-law credit society | not automatically RBI-licensed | no automatic DICGC cover
+| cannot conduct unauthorised public banking or freely use 'bank'.
 
 VERDICT
-autonomy without accountability permits capture; control without autonomy kills cooperation.
+multiple regulation is justified by different functions; coordination prevents accountability gaps.
 
-ASCII MASTER FLOW — PANEL 12/12: UPSC traps, PYQs and answer synthesis
-PRELIMS FIREWALL
-Part IXB not uniform for all State cooperatives | Article 43B is DPSP
-| right to form != right to State aid | Entry 32 != Entry 44
-| Ministry != Registrar | RBI != every governance function
-| scheduled constitutional text != enforceable State-field command after 2021.
+ASCII MASTER FLOW — PANEL 11/12: Democracy, capture and reform
+DEMOCRATIC PROMISE
+member voice + aggregation + local surplus + community knowledge.
 
-ADJACENT VERIFIED ROUTES
-2020 DCCB | 2021 UCB | 2023 Small Farmer Large Field.
-They remain Economy/agriculture routes, not invented direct Polity PYQs.
+FAILURE CHAIN
+passive membership -> elite/political capture -> delayed elections -> weak audit
+-> related decisions/poor credit -> weak capital/service -> member or depositor harm.
+
+REFORM CHAIN
+clean rolls -> timely independent elections -> professional management
+-> conflict disclosure -> usable risk-based audit -> member information/grievance remedy
+-> RBI/NABARD/Registrar coordination -> secure inclusive digitisation.
+
+BALANCE
+autonomy without accountability permits capture;
+control without autonomy converts cooperation into administration.
+
+ASCII MASTER FLOW — PANEL 12/12: Current policy, PYQs and answer spine
+MINISTRY OF COOPERATION
+executive allocation of business from 6 July 2021; policy/coordination and MSCS administration.
+
+NATIONAL COOPERATION POLICY 2025
+launched 24 July 2025; policy framework, not constitutional law or Entry 32 transfer.
+
+VERIFIED ADJACENT PRELIMS ROUTES
+2020 DCCB -> official final key B | 2021 UCB -> official final key B
+| 2023 Small Farmer Large Field -> official final key B.
+They test banking/agricultural interfaces; no direct Polity PYQ is invented.
 
 MAINS SPINE
-identity/principles -> federal competence -> 97th Amendment
--> Union of India v. Rajendra N. Shah (2021) -> State/MSCS regimes -> 2023 accountability
--> banking coordination -> member-centric professionalisation.
+identity/principles -> pre-2011 statute -> Entries 32/44/45 -> 97th Amendment
+-> Rajendra N. Shah -> Part IXB clause map -> State/MSCS split -> 2023 Act
+-> banking tensions -> member-centred reform.
 
-CONCLUSION
-valid reform is cooperative in both enterprise form and federal method.
-LEGAL/SOURCE LIMIT: The MSCS Amendment Act and Rules, 2023 remain operative; National
-  Cooperation Policy 2025 is policy, not a transfer of legislative competence.
+QUALIFIED CONCLUSION
+Cooperation must remain cooperative in both enterprise design and federal method:
+member control under professional accountability, pursued through constitutionally valid law.
