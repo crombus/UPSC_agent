@@ -2,2069 +2,330 @@
 
 ## Quick-Glance Tree Chart
 
+> **Transliteration note.** The tree below uses plain ASCII transliteration inside the
+> fixed-width diagram so that alignment survives in any terminal. The accurate IAST forms
+> used throughout the learning session and workbook are: *pratītyasamutpāda*,
+> *kṣaṇikavāda*, *nairātmyavāda*, *madhyamā pratipad* (Pali: *majjhimā paṭipadā*),
+> *āryāṣṭāṅgamārga*, *dvādaśa-nidāna*, *pañca-skandha*, *nirvāṇa* (Pali: *nibbāna*),
+> *arthakriyākāritva*, *santāna*, *ālaya-vijñāna*, *vijñaptimātra*, *tri-svabhāva*,
+> *śūnyatā*, *svabhāva*, *catuṣkoṭi*, *saṃvṛti-satya*, *paramārtha-satya*, *apoha*,
+> *svalakṣaṇa*, *avyākṛta*. The two governing formulae are *yat sat tat kṣaṇikam*
+> (whatever is real is momentary) and *na sa eva na cānyaḥ* (neither the same nor another).
+
 ```text
-BUDDHIST PHILOSOPHY: DEPENDENT ORIGINATION, MOMENTARINESS, NO-SELF AND SCHOOLS
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Because phenomena arise only in dependence on causes, conditions, parts, concepts and
-relations, nothing conditioned is permanent or independently self-subsistent. This
-insight explains impermanence, no-self, suffering and cessation. Buddhist schools agree
-on dependent origination and liberation but differ over what remains conventionally or
-ultimately real: Vaibhāṣika defends directly known dharmas, Sautrāntika infers external
-particulars, Yogācāra analyses experience as consciousness-only, and Madhyamaka denies
-intrinsic nature to every dharma without reducing conventional reality to nothing.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-Four Noble Truths;
-Middle Path;
-three marks;
-pratītyasamutpāda;
-twelve links;
-kṣaṇikavāda;
-arthakriyākāritva;
-santāna;
-memory /
-karma without self;
-nairātmyavāda;
-five skandhas;
-pudgala /
-dharma no-self;
-nirvāṇa;
-Vaibhāṣika;
-Sautrāntika;
-Yogācāra /
-Vijñānavāda;
-Madhyamaka /
-Śūnyavāda;
-ālaya-vijñāna;
-tri-svabhāva;
-śūnyatā;
-catuṣkoṭi;
-two truths;
-Dignāga-Dharmakīrti
-pramāṇa;
-svalakṣaṇa /
-sāmānyalakṣaṇa;
-apoha.
-                              |
-                              v
-BOUNDARIES:
-Cārvāka body-self:
-Indian Topic 01;
-Jaina enduring jīva:
-Indian Topic 02;
-Nyāya self /
-realism /
-God:
-Indian Topic 04;
-Advaita Brahman /
-māyā:
-Vedānta;
-religious history /
-art /
-councils:
-GS History unless
-philosophically needed.
-                              |
-                              v
-SOURCE / SCHOOL CAUTION
-EARLY BUDDHISM /
-THERAVĀDA /
-MAHĀYĀNA
-are broad historical-
-religious formations.
-                              |
-                              v
-VAIBHĀṢIKA /
-SAUTRĀNTIKA /
-YOGĀCĀRA /
-MADHYAMAKA
-are philosophical
-school classifications.
-                              |
-                              v
-not four equivalent
-sects in one
-historical moment.
-                              |
-                              v
-"Hīnayāna" is
-polemical /
-historically broad;
-avoid using it
-as neutral synonym
-for Theravāda.
-                              |
-                              v
-Pali /
-Sanskrit vocabularies
-differ.
-                              |
-                              v
-state doctrinal layer
-and school before
-attributing claims.
-                              |
-                              v
-              BRANCH I: FOUR NOBLE TRUTHS
-1. DUḤKHA.
-                              |
-                              v
-conditioned existence
-is unsatisfactory.
-                              |
-                              v
-birth /
-ageing /
-death /
-separation /
-frustrated craving.
-                              |
-                              v
-subtle instability
-even in pleasure.
-                              |
-                              v
-2. SAMUDAYA.
-                              |
-                              v
-origin in craving
-conditioned by
-ignorance.
-                              |
-                              v
-3. NIRODHA.
-                              |
-                              v
-cessation of craving /
-ignorance and hence
-suffering.
-                              |
-                              v
-4. MĀRGA.
-                              |
-                              v
-Noble Eightfold Path.
-                              |
-                              v
-diagnosis ->
-cause ->
-possibility of cure ->
-therapy.
-                              |
-                              v
-philosophy is
-soteriological,
-not speculation
-detached from practice.
-                              |
-                              v
-              BRANCH II: MIDDLE PATH
-PRACTICAL.
-                              |
-                              v
-avoids sensual
-indulgence.
-                              |
-                              v
-avoids self-
-mortification.
-                              |
-                              v
-Eightfold Path:
-right view.
-                              |
-                              v
-intention.
-                              |
-                              v
-speech.
-                              |
-                              v
-action.
-                              |
-                              v
-livelihood.
-                              |
-                              v
-effort.
-                              |
-                              v
-mindfulness.
-                              |
-                              v
-concentration.
-                              |
-                              v
-DOCTRINAL.
-                              |
-                              v
-avoids eternalism:
-unchanging self /
-substance.
-                              |
-                              v
-avoids annihilationism:
-causeless disappearance /
-moral discontinuity.
-                              |
-                              v
-dependent causal
-continuity without
-permanent carrier.
-                              |
-                              v
-              BRANCH III: THREE MARKS
-ANITYA.
-                              |
-                              v
-impermanence.
-                              |
-                              v
-DUḤKHA.
-                              |
-                              v
-unsatisfactoriness.
-                              |
-                              v
-ANĀTMAN.
-                              |
-                              v
-absence of permanent,
-independent self.
-                              |
-                              v
-because conditioned
-things change.
-                              |
-                              v
-grasping them as
-"mine /
-I /
-self"
-produces suffering.
-                              |
-                              v
-nirvāṇa treated
-differently across
-traditions regarding
-conditioned /
-unconditioned status.
-                              |
-                              v
-do not flatten
-all Buddhist ontology.
-                              |
-                              v
-              BRANCH IV: DEPENDENT ORIGINATION
-imasmin sati
-idaṃ bhavati:
-when this is,
-that comes to be.
-                              |
-                              v
-with arising of this,
-that arises.
-                              |
-                              v
-when this is not,
-that does not
-come to be.
-                              |
-                              v
-with cessation of this,
-that ceases.
-                              |
-                              v
-CONDITIONALITY.
-                              |
-                              v
-not single first cause.
-                              |
-                              v
-not creator.
-                              |
-                              v
-not blind chance.
-                              |
-                              v
-not self-causation.
-                              |
-                              v
-phenomena arise
-dependently.
-                              |
-                              v
-therefore no
-svabhāva as
-independent essence
-in Madhyamaka.
-                              |
-                              v
-early formula first
-explains suffering /
-rebirth and cessation.
-                              |
-                              v
-later schools draw
-different ontological
-implications.
-                              |
-                              v
-              BRANCH V: TWELVE LINKS
-1. avidyā.
-                              |
-                              v
-ignorance.
-                              |
-                              v
-2. saṃskāra.
-                              |
-                              v
-volitional formations.
-                              |
-                              v
-3. vijñāna.
-                              |
-                              v
-consciousness.
-                              |
-                              v
-4. nāma-rūpa.
-                              |
-                              v
-name-and-form /
-psycho-physicality.
-                              |
-                              v
-5. ṣaḍāyatana.
-                              |
-                              v
-six sense bases.
-                              |
-                              v
-6. sparśa.
-                              |
-                              v
-contact.
-                              |
-                              v
-7. vedanā.
-                              |
-                              v
-feeling.
-                              |
-                              v
-8. tṛṣṇā.
-                              |
-                              v
-craving.
-                              |
-                              v
-9. upādāna.
-                              |
-                              v
-clinging.
-                              |
-                              v
-10. bhava.
-                              |
-                              v
-becoming.
-                              |
-                              v
-11. jāti.
-                              |
-                              v
-birth.
-                              |
-                              v
-12. jarā-maraṇa.
-                              |
-                              v
-ageing-and-death /
-sorrow.
-                              |
-                              v
-interpretations:
-three-life model.
-                              |
-                              v
-moment-to-moment
-psychological process.
-                              |
-                              v
-structural account
-of dependent suffering.
-                              |
-                              v
-reverse cessation:
-end ignorance
--> formations cease
--> chain unwinds.
-                              |
-                              v
-not rigid linearity
-in every school;
-relations include
-feedback /
-mutual conditioning.
-                              |
-                              v
-              BRANCH VI: FROM DEPENDENCE TO MOMENTARINESS
-whatever arises
-through causes.
-                              |
-                              v
-exists only while
-causal conditions
-operate.
-                              |
-                              v
-changing causal
-conditions entail
-changing effect.
-                              |
-                              v
-no self-sustaining
-permanent core.
-                              |
-                              v
-later Abhidharma /
-logic radicalises:
-conditioned dharmas
-momentary.
-                              |
-                              v
-CAUTION:
-dependent origination
-does not by one
-uncontested step
-prove every developed
-version of strict
-momentariness.
-                              |
-                              v
-argument requires
-causal assumptions.
-                              |
-                              v
-              BRANCH VII: ARTHAKRIYĀ ARGUMENT
-REAL =
-causally efficient.
-                              |
-                              v
-arthakriyākāritva.
-                              |
-                              v
-if entity permanent,
-same complete causal
-nature exists at
-all times.
-                              |
-                              v
-then it should
-produce effect always
-or never.
-                              |
-                              v
-if auxiliary conditions
-give new efficacy,
-it changes.
-                              |
-                              v
-if they give nothing,
-delay unexplained.
-                              |
-                              v
-therefore causally
-efficient real
-is momentary.
-                              |
-                              v
-each moment produces
-successor and
-perishes.
-                              |
-                              v
-NYĀYA OBJECTION.
-                              |
-                              v
-enduring cause produces
-when auxiliaries
-jointly present.
-                              |
-                              v
-no need for
-intrinsic change.
-                              |
-                              v
-BUDDHIST REPLY.
-                              |
-                              v
-relation to auxiliaries
-must alter causal
-situation or be
-irrelevant.
-                              |
-                              v
-RESIDUAL:
-debate turns on
-whether relational
-change implies
-intrinsic momentariness.
-                              |
-                              v
-              BRANCH VIII: DESTRUCTION ARGUMENT
-conditioned thing
-arises.
-                              |
-                              v
-destruction does not
-need separate cause;
-thing's nature is
-to perish.
-                              |
-                              v
-if destruction required
-external destroyer,
-why does destroyer
-not merely produce
-another state?
-                              |
-                              v
-therefore arising
-already bears cessation.
-                              |
-                              v
-OBJECTION:
-we observe enduring
-objects.
-                              |
-                              v
-REPLY:
-continuity is series
-of similar moments,
-like flame /
-stream /
-film.
-                              |
-                              v
-similarity conceals
-replacement.
-                              |
-                              v
-              BRANCH IX: SANTĀNA
-causal continuum.
-                              |
-                              v
-neither numerically
-same permanent thing.
-                              |
-                              v
-nor unrelated
-sequence.
-                              |
-                              v
-each moment conditions
-next.
-                              |
-                              v
-continuity through
-causal dependence.
-                              |
-                              v
-lamp flame.
-                              |
-                              v
-river current.
-                              |
-                              v
-seed /
-sprout.
-                              |
-                              v
-PERSON:
-psychophysical stream.
-                              |
-                              v
-conventional identity
-tracks causal /
-functional continuity.
-                              |
-                              v
-no substantial
-owner required.
-                              |
-                              v
-              BRANCH X: MEMORY / RECOGNITION
-OBJECTION.
-                              |
-                              v
-rememberer must be
-same as experiencer.
-                              |
-                              v
-recognition:
-"this is that".
-                              |
-                              v
-momentary subject
-cannot connect times.
-                              |
-                              v
-BUDDHIST REPLY.
-                              |
-                              v
-experience deposits
-causal trace /
-impression.
-                              |
-                              v
-later moment arises
-with memory-content.
-                              |
-                              v
-causal continuity
-sufficient for
-appropriation.
-                              |
-                              v
-same substance
-not necessary.
-                              |
-                              v
-Yogācāra:
-seeds in
-ālaya-vijñāna.
-                              |
-                              v
-Sautrāntika:
-latent potency
-in continuum.
-                              |
-                              v
-CRITIQUE:
-why call later
-memory mine rather
-than another's?
-                              |
-                              v
-reply:
-unique causal lineage,
-not metaphysical ego.
-                              |
-                              v
-              BRANCH XI: KARMA WITHOUT SELF
-problem:
-actor perishes.
-                              |
-                              v
-later experiencer
-different moment.
-                              |
-                              v
-reward /
-punishment appears
-misallocated.
-                              |
-                              v
-Buddhist middle:
-neither same
-nor wholly other.
-                              |
-                              v
-deed conditions
-later continuum.
-                              |
-                              v
-causal inheritance,
-not soul transfer.
-                              |
-                              v
-milk ->
-curd analogy.
-                              |
-                              v
-seed ->
-fruit.
-                              |
-                              v
-identity not required
-for causal responsibility.
-                              |
-                              v
-total difference
-blocked by lineage.
-                              |
-                              v
-OPPONENT:
-causal continuity
-may explain effect,
-not deserved effect.
-                              |
-                              v
-reply:
-moral quality of
-volition shapes
-result-producing
-continuum.
-                              |
-                              v
-residual:
-normative desert remains
-philosophically disputed.
-                              |
-                              v
-              BRANCH XII: FIVE SKANDHAS
-RŪPA.
-                              |
-                              v
-material form.
-                              |
-                              v
-VEDANĀ.
-                              |
-                              v
-feeling tone.
-                              |
-                              v
-SAṂJÑĀ.
-                              |
-                              v
-recognition /
-perception /
-labeling.
-                              |
-                              v
-SAṂSKĀRA.
-                              |
-                              v
-volitional /
-mental formations.
-                              |
-                              v
-VIJÑĀNA.
-                              |
-                              v
-discriminative
-consciousness.
-                              |
-                              v
-person =
-dependently grouped
-aggregates.
-                              |
-                              v
-no aggregate
-permanent.
-                              |
-                              v
-no self outside
-aggregates found.
-                              |
-                              v
-no aggregate is
-"this is mine /
-I am this /
-this is my self".
-                              |
-                              v
-ANĀTMAN !=
-no empirical person.
-                              |
-                              v
-person conventionally
-designated.
-                              |
-                              v
-              BRANCH XIII: CHARIOT ANALOGY
-Nāgasena /
-Milindapañha.
-                              |
-                              v
-chariot not identical
-with axle /
-wheels /
-yoke /
-parts.
-                              |
-                              v
-not separately found
-apart from parts.
-                              |
-                              v
-"chariot" valid
-conventional designation
-on arrangement.
-                              |
-                              v
-likewise person.
-                              |
-                              v
-neither independent
-self nor sheer
-nonexistence.
-                              |
-                              v
-analogy supports
-reduction /
-dependent designation.
-                              |
-                              v
-school interpretations
-vary on ultimate
-status of component
-dharmas.
-                              |
-                              v
-              BRANCH XIV: TWO NO-SELF THESES
-PUDGALA-
-NAIRĀTMYA.
-                              |
-                              v
-no independent
-personal self.
-                              |
-                              v
-shared broadly.
-                              |
-                              v
-DHARMA-
-NAIRĀTMYA.
-                              |
-                              v
-phenomena themselves
-lack intrinsic nature.
-                              |
-                              v
-especially Mahāyāna /
-Madhyamaka /
-Yogācāra analyses.
-                              |
-                              v
-earlier realist
-Abhidharma:
-person unreal /
-dharmas ultimately
-real.
-                              |
-                              v
-Madhyamaka:
-person and dharmas
-empty.
-                              |
-                              v
-Yogācāra:
-subject-object duality
-constructed /
-three natures.
-                              |
-                              v
-do not treat
-two no-self concepts
-as synonyms.
-                              |
-                              v
-              BRANCH XV: NIRVĀṆA
-cessation of
-greed /
-hatred /
-delusion.
-                              |
-                              v
-cessation of
-craving-conditioned
-suffering /
-rebirth.
-                              |
-                              v
-not annihilation
-of eternal soul,
-because no such
-soul existed.
-                              |
-                              v
-not ordinary
-momentary event only.
-                              |
-                              v
-Theravāda /
-Abhidharma:
-unconditioned element
-in important accounts.
-                              |
-                              v
-Madhyamaka:
-saṃsāra and nirvāṇa
-not intrinsically
-separate;
-difference concerns
-ignorant versus
-non-grasping apprehension.
-                              |
-                              v
-CONSISTENCY.
-                              |
-                              v
-momentariness applies
-to conditioned
-phenomena.
-                              |
-                              v
-no-self removes
-possessor,
-not possibility
-of cessation.
-                              |
-                              v
-liberation =
-causal ending of
-ignorance /
-craving.
-                              |
-                              v
-OBJECTION:
-who is liberated?
-                              |
-                              v
-REPLY:
-conventionally the
-continuum;
-ultimately no
-unchanging agent.
-                              |
-                              v
-              BRANCH XVI: THREE JEWELS
-BUDDHA.
-                              |
-                              v
-awakened teacher /
-model.
-                              |
-                              v
-DHARMA.
-                              |
-                              v
-teaching /
-truth /
-path /
-realisation.
-                              |
-                              v
-SAṄGHA.
-                              |
-                              v
-community,
-especially noble
-community.
-                              |
-                              v
-internal relation:
-Buddha discovers /
-teaches Dharma.
-                              |
-                              v
-Dharma produces
-awakening.
-                              |
-                              v
-Saṅgha preserves /
-embodies /
-transmits.
-                              |
-                              v
-no-self consistency:
-refuge concerns
-causal /
-normative functions,
-not eternal substances.
-                              |
-                              v
-conventional persons /
-institutions remain.
-                              |
-                              v
-              BRANCH XVII: VAIBHĀṢIKA
-Sarvāstivāda
-Abhidharma association.
-                              |
-                              v
-external realism.
-                              |
-                              v
-dharmas ultimately
-real.
-                              |
-                              v
-external objects
-directly perceived.
-                              |
-                              v
-knowledge has
-object contact /
-presentation.
-                              |
-                              v
-sarvam asti:
-dharmas of
-past /
-present /
-future exist
-in differentiated
-modes in Sarvāstivāda.
-                              |
-                              v
-causal efficacy
-especially present.
-                              |
-                              v
-composite person /
-pot /
-chariot conventionally
-real.
-                              |
-                              v
-CRITIQUE:
-three-time existence
-threatens momentariness.
-                              |
-                              v
-reply:
-temporal mode /
-activity distinguishes
-present.
-                              |
-                              v
-do not equate
-Vaibhāṣika with
-all Theravāda.
-                              |
-                              v
-              BRANCH XVIII: SAUTRĀNTIKA
-appeal to sūtras
-against some
-Abhidharma reifications.
-                              |
-                              v
-external realism.
-                              |
-                              v
-only present moment
-exists.
-                              |
-                              v
-external object not
-directly perceived.
-                              |
-                              v
-cognition apprehends
-mental image /
-representation.
-                              |
-                              v
-external cause
-inferred from
-representation.
-                              |
-                              v
-representational realism.
-                              |
-                              v
-past deed persists
-through seed /
-potency in
-continuum,
-not past entity.
-                              |
-                              v
-VAIBHĀṢIKA:
-direct external
-perception.
-                              |
-                              v
-SAUTRĀNTIKA:
-external object
-inferred.
-                              |
-                              v
-CRITIQUE:
-if only image known,
-how prove external
-cause?
-                              |
-                              v
-reply:
-variation /
-constraint /
-causal regularity
-not explained by
-subjective will.
-                              |
-                              v
-              BRANCH XIX: YOGĀCĀRA / VIJÑĀNAVĀDA
-vijñaptimātra /
-cittamātra.
-                              |
-                              v
-experience is
-representation-only /
-mind-only.
-                              |
-                              v
-denies independently
-existing external
-object as ordinarily
-conceived.
-                              |
-                              v
-dream argument.
-                              |
-                              v
-apparently external
-objects occur without
-external correlates.
-                              |
-                              v
-shared experience
-explained through
-common karmic seeds.
-                              |
-                              v
-spatial /
-temporal order
-arises from
-seed maturation.
-                              |
-                              v
-external-object hypothesis
-does not solve
-part-whole /
-atom problems.
-                              |
-                              v
-NOT simple
-individual solipsism.
-                              |
-                              v
-multiple streams /
-karmic coordination
-in standard account.
-                              |
-                              v
-              BRANCH XX: ĀLAYA-VIJÑĀNA
-storehouse
-consciousness.
-                              |
-                              v
-continuous causal
-stream carrying
-bīja /
-seeds.
-                              |
-                              v
-explains:
-memory.
-                              |
-                              v
-karmic continuity.
-                              |
-                              v
-habit.
-                              |
-                              v
-common world
-appearance.
-                              |
-                              v
-manifest cognitions
-perfume /
-deposit seeds.
-                              |
-                              v
-seeds mature into
-future cognition /
-experience.
-                              |
-                              v
-NOT permanent
-self.
-                              |
-                              v
-momentary /
-conditioned /
-transformable.
-                              |
-                              v
-OBJECTION:
-functional resemblance
-to ātman.
-                              |
-                              v
-reply:
-no unity /
-permanence /
-independent agency.
-                              |
-                              v
-residual:
-continuity may seem
-self-like.
-                              |
-                              v
-              BRANCH XXI: THREE NATURES
-PARIKALPITA.
-                              |
-                              v
-imagined /
-constructed nature.
-                              |
-                              v
-subject-object duality
-and intrinsic
-character projected.
-                              |
-                              v
-PARATANTRA.
-                              |
-                              v
-dependent nature.
-                              |
-                              v
-causal flow of
-cognition /
-seeds.
-                              |
-                              v
-PARINIṢPANNA.
-                              |
-                              v
-perfected nature.
-                              |
-                              v
-dependent flow
-known as empty
-of imagined duality.
-                              |
-                              v
-not three separate
-worlds.
-                              |
-                              v
-three ways of
-understanding same
-experiential process.
-                              |
-                              v
-transformation of
-basis:
-āśraya-parāvṛtti.
-                              |
-                              v
-              BRANCH XXII: MADHYAMAKA
-Nāgārjuna.
-                              |
-                              v
-Mūlamadhyamaka-
-kārikā.
-                              |
-                              v
-śūnyatā =
-absence of
-svabhāva.
-                              |
-                              v
-because dependently
-originated.
-                              |
-                              v
-if intrinsic nature,
-entity would be
-independent /
-unchanging.
-                              |
-                              v
-then causal relation /
-transformation impossible.
-                              |
-                              v
-therefore dependence
-and emptiness are
-coextensive.
-                              |
-                              v
-EMPTY !=
-nonexistent.
-                              |
-                              v
-phenomena function
-conventionally.
-                              |
-                              v
-empty also applies
-to emptiness:
-no absolute
-metaphysical substrate.
-                              |
-                              v
-              BRANCH XXIII: CATUṢKOṬI
-for thesis P:
-P.
-                              |
-                              v
-not-P.
-                              |
-                              v
-both P and not-P.
-                              |
-                              v
-neither P nor not-P.
-                              |
-                              v
-Madhyamaka examines /
-undermines all four
-when asserted as
-intrinsic ultimate
-descriptions.
-                              |
-                              v
-not endorsement of
-flat contradiction.
-                              |
-                              v
-prasaṅga exposes
-consequences of
-opponent's reification.
-                              |
-                              v
-example:
-cause and effect
-not intrinsically
-same.
-                              |
-                              v
-not intrinsically
-different.
-                              |
-                              v
-not both.
-                              |
-                              v
-not neither.
-                              |
-                              v
-dependent relation
-works conventionally.
-                              |
-                              v
-              BRANCH XXIV: TWO TRUTHS
-SAṂVṚTI-SATYA.
-                              |
-                              v
-conventional truth.
-                              |
-                              v
-language /
-persons /
-causation /
-ethics /
-path.
-                              |
-                              v
-PARAMĀRTHA-SATYA.
-                              |
-                              v
-ultimate truth.
-                              |
-                              v
-all phenomena empty
-of intrinsic nature.
-                              |
-                              v
-without conventional,
-ultimate cannot be
-taught.
-                              |
-                              v
-without ultimate,
-nirvāṇa not realised.
-                              |
-                              v
-two truths not
-two separate worlds.
-                              |
-                              v
-ultimate does not
-destroy conventional
-function.
-                              |
-                              v
-NIHILISM OBJECTION.
-                              |
-                              v
-if all empty,
-no truths /
-path /
-karma.
-                              |
-                              v
-REPLY.
-                              |
-                              v
-only intrinsically
-fixed entities denied.
-                              |
-                              v
-causal efficacy
-possible precisely
-because things are
-dependent /
-changeable.
-                              |
-                              v
-              BRANCH XXV: "EVERYTHING REAL" / "EVERYTHING VOID"
-same base:
-pratītyasamutpāda.
-                              |
-                              v
-ABHIDHARMA REALIST
-READING.
-                              |
-                              v
-dependent effects
-must involve causally
-effective dharmas.
-                              |
-                              v
-composites reduced,
-dharmas real.
-                              |
-                              v
-"everything real"
-must be qualified:
-conditioned dharmas,
-not permanent self.
-                              |
-                              v
-MADHYAMAKA READING.
-                              |
-                              v
-whatever depends
-lacks independent
-svabhāva.
-                              |
-                              v
-all dharmas empty.
-                              |
-                              v
-"everything void"
-means empty,
-not sheer nothing.
-                              |
-                              v
-opposed conclusions
-result from different
-criteria of ultimate
-reality:
-causal efficacy
-versus independence.
-                              |
-                              v
-              BRANCH XXVI: BUDDHIST PRAMĀṆA
-Dignāga /
-Dharmakīrti.
-                              |
-                              v
-two pramāṇas.
-                              |
-                              v
-PRATYAKṢA.
-                              |
-                              v
-non-conceptual /
-free from construction:
-kalpanāpoḍha.
-                              |
-                              v
-non-erroneous:
-abhrānta
-in developed formula.
-                              |
-                              v
-grasps svalakṣaṇa.
-                              |
-                              v
-ANUMĀNA.
-                              |
-                              v
-conceptual /
-linguistic.
-                              |
-                              v
-grasps sāmānyalakṣaṇa
-through exclusion /
-sign.
-                              |
-                              v
-other pramāṇas
-reducible to
-these two.
-                              |
-                              v
-perception types:
-sense.
-                              |
-                              v
-mental.
-                              |
-                              v
-self-awareness in
-some formulations.
-                              |
-                              v
-yogic.
-                              |
-                              v
-school /
-text variation
-must be acknowledged.
-                              |
-                              v
-              BRANCH XXVII: PARTICULAR / UNIVERSAL
-SVALAKṢAṆA.
-                              |
-                              v
-unique particular.
-                              |
-                              v
-momentary /
-causally efficient /
-non-conceptual object.
-                              |
-                              v
-SĀMĀNYALAKṢAṆA.
-                              |
-                              v
-general character /
-conceptual construction.
-                              |
-                              v
-not independently
-real universal.
-                              |
-                              v
-language operates
-through concepts.
-                              |
-                              v
-perception reaches
-bare particular.
-                              |
-                              v
-inference reaches
-constructed generality.
-                              |
-                              v
-tension:
-if particular
-non-conceptual,
-how identify it?
-                              |
-                              v
-reply:
-identification belongs
-to later conceptual
-construction.
-                              |
-                              v
-              BRANCH XXVIII: APOHA
-word meaning =
-exclusion of
-the other.
-                              |
-                              v
-"cow" does not
-denote real universal
-cowness.
-                              |
-                              v
-it functions by
-excluding non-cows.
-                              |
-                              v
-preserves linguistic
-generality without
-universal entity.
-                              |
-                              v
-positive appearance
-arises through
-habit /
-conceptual construction.
-                              |
-                              v
-NYĀYA /
-MĪMĀṂSĀ OBJECTION:
-double negation
-presupposes positive
-class.
-                              |
-                              v
-BUDDHIST REPLY:
-causal similarity /
-shared exclusion
-suffices,
-no eternal universal.
-                              |
-                              v
-residual:
-exclusion may depend
-on what it seeks
-to explain.
-                              |
-                              v
-              BRANCH XXIX: CREATOR-GOD CRITIQUE
-if creator eternal /
-unchanging.
-                              |
-                              v
-why creation at
-one time?
-                              |
-                              v
-if desire /
-purpose arises,
-creator changes /
-lacks something.
-                              |
-                              v
-if all effects
-caused by God,
-ordinary causal
-conditions redundant.
-                              |
-                              v
-evil /
-suffering challenge
-perfect benevolence.
-                              |
-                              v
-karma does explanatory
-work without creator.
-                              |
-                              v
-if God governed by
-karma,
-not ultimate.
-                              |
-                              v
-NYĀYA reply belongs
-primarily Topic 04.
-                              |
-                              v
-              BRANCH XXX: NAMED OPPONENTS
-NYĀYA.
-                              |
-                              v
-memory /
-recognition /
-responsibility need
-enduring self.
-                              |
-                              v
-Buddhist:
-causal continuum /
-traces sufficient.
-                              |
-                              v
-KUMĀRILA /
-MĪMĀṂSĀ.
-                              |
-                              v
-self revealed across
-cognitions;
-universals needed.
-                              |
-                              v
-Buddhist:
-reflexive awareness /
-causal sequence /
-apoha.
-                              |
-                              v
-ŚAṄKARA /
-ADVAITA.
-                              |
-                              v
-momentary cognitions
-cannot reveal sequence;
-emptiness cannot
-ground liberation.
-                              |
-                              v
-Buddhist:
-no permanent witness
-must be posited;
-conventional continuity /
-two truths.
-                              |
-                              v
-CĀRVĀKA.
-                              |
-                              v
-rejects karma /
-rebirth /
-inference.
-                              |
-                              v
-Buddhist:
-perception plus
-inference /
-causal continuity.
-                              |
-                              v
-JAINA.
-                              |
-                              v
-permanent-changing
-jīva and dravya.
-                              |
-                              v
-Buddhist:
-such substance either
-causally changes or
-is inert.
-                              |
-                              v
-              BRANCH XXXI: INTERNAL SCHOOL DIALECTIC
-VAIBHĀṢIKA:
-external dharma
-directly perceived.
-                              |
-                              v
-SAUTRĀNTIKA:
-only representation
-perceived;
-external cause inferred.
-                              |
-                              v
-YOGĀCĀRA:
-if only representation
-known,
-external cause
-unnecessary.
-                              |
-                              v
-MADHYAMAKA:
-consciousness too
-is dependently arisen
-and empty.
-                              |
-                              v
-progressive critique
-of reification:
-person
--> composite object
--> external object
--> consciousness
-itself.
-                              |
-                              v
-not simple chronology /
-linear replacement.
-                              |
-                              v
-              BRANCH XXXII: THINKER / TEXT BANK
-Buddha:
-dependent origination /
-Middle Path /
-Four Truths.
-                              |
-                              v
-Nāgasena:
-chariot dialogue,
-Milindapañha.
-                              |
-                              v
-Vasubandhu:
-Abhidharmakośa;
-later Yogācāra works
-with attribution
-caution.
-                              |
-                              v
-Asaṅga:
-Yogācāra.
-                              |
-                              v
-Nāgārjuna:
-Mūlamadhyamaka-
-kārikā /
-Madhyamaka.
-                              |
-                              v
-Dignāga:
-Pramāṇasamuccaya /
-Buddhist logic.
-                              |
-                              v
-Dharmakīrti:
-Pramāṇavārttika /
-arthakriyā /
-apoha development.
-                              |
-                              v
-Candrakīrti:
-Madhyamaka /
-prasaṅga.
-                              |
-                              v
-do not fabricate
-verbatim quotations.
-                              |
-                              v
-secure paraphrase:
-whatever is
-dependently arisen
-lacks independent
-self-nature.
-                              |
-                              v
-              HIGH-RISK OPTIONAL TRAPS
-dependent origination !=
-linear first cause;
-Middle Path !=
-compromise on every issue;
-anitya !=
-no causal continuity;
-momentary !=
-causeless;
-santāna !=
-hidden soul;
-anātman !=
-no conventional person;
-five aggregates !=
-five substances;
-nirvāṇa !=
-annihilation of self;
-karma !=
-soul transfer;
-Theravāda !=
-Hīnayāna simply;
-four schools !=
-four Buddhist councils;
-Vaibhāṣika !=
-all Theravāda;
-Sautrāntika !=
-idealism;
-Yogācāra !=
-individual solipsism;
-ālaya !=
-ātman;
-three natures !=
-three worlds;
-śūnyatā !=
-nothingness;
-two truths !=
-two realities;
-catuṣkoṭi !=
-asserting contradiction;
-dharmas real !=
-permanent;
-all void !=
-no conventional function;
-apoha !=
-simple dictionary negation;
-no creator !=
-no ethics /
-causality.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT VERIFIED
-2018-2025:
-13 primary-owned
-question-parts.
-                              |
-                              v
-2018:
-dependent origination
-to emptiness
-[10];
-no-self with nirvāṇa
-[15].
-                              |
-                              v
-2019:
-Yogācāra denial
-of external world
-[10];
-dependent origination
-to momentariness
-[15].
-                              |
-                              v
-2020:
-momentariness as
-logical derivative
-of dependent origination
-[20];
-five aggregates /
-liberation without soul
-[15].
-                              |
-                              v
-2021:
-personal versus
-phenomenal no-self
-[10];
-memory /
-personal identity
-under momentariness
-[15].
-                              |
-                              v
-2022:
-momentariness /
-karma /
-opponent objections
-[20];
-Three Jewels /
-no-self consistency
-[15].
-                              |
-                              v
-2023:
-ignorance /
-knowledge of dependent
-origination and
-soteriology
-[20].
-                              |
-                              v
-2024:
-void versus real
-from same dependent
-origination
-[15].
-                              |
-                              v
-2025:
-nirvāṇa consonance
-with momentariness /
-no-self
-[15].
-                              |
-                              v
-BOUNDARY VERIFIED:
-2024 Cārvāka
-versus Buddhist
-self rejection
-[20],
-primary ownership
-Cārvāka but direct
-Buddhist comparison.
-                              |
-                              v
-STATUS:
-wording /
-marks verified from
-local official
-Indian Paper I
-corpus.
-                              |
-                              v
-OFFICIAL-KEY STATUS:
-UPSC Mains provides
-no official answer
-key /
-model answer.
-                              |
-                              v
-                REVISION CHAIN
-Four Truths
--> Middle Path
--> dependent origination
--> twelve links
--> momentariness
--> causal efficiency
--> continuum
--> no-self
--> aggregates
--> karma /
-memory
--> nirvāṇa
--> Vaibhāṣika
--> Sautrāntika
--> Yogācāra
--> Madhyamaka
--> two truths
--> pramāṇa /
-apoha.
-                              |
-                              v
-             OPTIONAL-PAPER ANSWER SPINE
-DEFINE
-doctrine and
-school location.
-                              |
-                              v
-RECONSTRUCT
-premises ->
-inference ->
-conclusion.
-                              |
-                              v
-CONNECT
-dependent origination
-with momentariness /
-no-self /
-cessation.
-                              |
-                              v
-DISTINGUISH
-conventional /
-ultimate and
-school-specific claims.
-                              |
-                              v
-ILLUSTRATE
-with flame /
-river /
-chariot /
-seed.
-                              |
-                              v
-PRESENT
-named Nyāya /
-Mīmāṃsā /
-Advaita objection.
-                              |
-                              v
-GIVE
-best Buddhist reply.
-                              |
-                              v
-ASSESS
-residual identity /
-realism /
-nihilism concern.
-                              |
-                              v
-CONCLUDE
-without flattening
-traditions.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-Buddhist philosophy replaces substance with conditioned process while preserving causal,
-ethical and soteriological intelligibility through the continuum. Its schools are best
-read as competing accounts of what dependence permits us to call real: external dharmas,
-representational causes, consciousness-flow or only empty conventional relations. The
-system's power lies in exposing reification and linking analysis to the cessation of
-suffering; its permanent challenge is to explain memory, responsibility and liberation
-without allowing the causal series to become a self under another name.
+SCHOOLS OF BUDDHISM — QUICK-GLANCE REVISION TREE
+Syllabus (verbatim): "Schools of Buddhism : Prat Ityasamutpada; Ksanikavada, Nairatmyavada"
+                              |
+                              v
+                      CENTRAL THESIS
+Buddhism is a therapy that had to become a metaphysics. The Four Noble Truths need a
+causal theory (dependent origination), an impermanence claim (momentariness) and a
+changeable person (no permanent self) -- so the three PRINTED terms are exactly the three
+commitments the therapy requires. Strength = suffering becomes removable because it is
+produced. Weakness = the OWNER of memory, desert and the unity of one life is removed
+while the property is kept.
+                              |
+                              v
++-- 1. THREE DENIALS, NEVER MERGED --------------------------------------------------+
+|  Veda-rejecting (nastika)  -> rejects VEDIC AUTHORITY      [not "atheist"]          |
+|  Non-theistic              -> rejects a NECESSARY CREATOR  [not materialist]        |
+|  Anti-substantialist       -> rejects a PERMANENT SELF     [not the person]         |
+|  Keeps: causation · moral consequence · rebirth · liberation · conventional speech  |
+|  TRAP -> "Buddhism and Jainism both deny the soul" is FALSE: Jainism affirms jiva   |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 2. FOUR NOBLE TRUTHS AS A CAUSAL CIRCUIT -----------------------------------------+
+|  1 duhkha IS            -> the diagnosis (not pessimism)                             |
+|  2 duhkha has an ORIGIN -> craving (trsna) conditioned by ignorance (avidya)         |
+|  3 the origin CAN CEASE -> a COROLLARY of 2, not a separate article of faith         |
+|  4 a PATH exists        -> Noble Eightfold Path                                       |
+|  READ FORWARD = theory of bondage. READ BACKWARD = theory of liberation.              |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 3. THE DOUBLE MIDDLE PATH (madhyama pratipad) ------------------------------------+
+|  PRACTICAL   sensual indulgence X ---- MIDDLE ---- X self-mortification               |
+|              positive content = NOBLE EIGHTFOLD PATH under THREE TRAININGS:           |
+|              wisdom (prajna)  : right view · right intention                          |
+|              conduct (sila)   : right speech · right action · right livelihood        |
+|              meditation       : right effort · right mindfulness · right concentration|
+|              (samadhi)                                                                |
+|  DOCTRINAL   eternalism (sasvatavada) X ---- MIDDLE ---- X annihilationism            |
+|              (ucchedavada); positive content = CONDITIONED CONTINUITY                 |
+|  SHARED ASSUMPTION DENIED -> "continuity requires an identical persisting thing"      |
+|  STRUCTURAL TEST -> eternalism defeats TRUTH 3; annihilationism defeats TRUTH 4       |
+|  TARGET -> insight cuts at IGNORANCE; mindfulness cuts at FEELING -> CRAVING          |
+|  TRAP -> the middle is NOT moderation and NOT an Aristotelian mean                    |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 4. WHO IS SPEAKING: TRADITIONS AND LABELS ----------------------------------------+
+|  EARLY BUDDHISM   pre-systematic common core                                          |
+|  THERAVADA        ONE surviving school; Pali Tipitaka (Vinaya/Sutta/Abhidhamma);      |
+|                   liberated-saint (arhat; Pali arahant) ideal                         |
+|  SARVASTIVADA ORBIT  Vaibhasika (Kashmir Mahavibhasa) · Sautrantika (sutra-privileging)|
+|  MAHAYANA         Yogacara · Madhyamika; awakening-being (bodhisattva) ideal          |
+|  "HINAYANA" = a MAHAYANA-APPLIED, loaded label; NOT a self-designation, NOT Theravada |
+|  [CONTESTED] the fourfold matrix is a PHILOSOPHICAL DOXOGRAPHY, not an institutional  |
+|              history; early material also survives in Chinese Agamas and Sanskrit     |
+|  TRAP -> "selfish arhat vs altruistic bodhisattva" is a caricature both sides refute  |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 5. DEPENDENT ORIGINATION (pratityasamutpada) -------------------------------------+
+|  FORMULA, FOUR CLAUSES -- quote ALL FOUR                                              |
+|    imasmim sati idam hoti          | this being, that becomes                         |
+|    imass' uppada idam uppajjati    | from the arising of this, that arises            |
+|    imasmim asati idam na hoti      | this not being, that is not                      |
+|    imassa nirodha idam nirujjhati  | from the cessation of this, that ceases          |
+|  => CESSATION IS BUILT IN; truth 3 is an ENTAILMENT, not a hope                       |
+|  THREE MARKS (trilaksana): impermanence (anitya) · unsatisfactoriness (duhkha) ->     |
+|    of CONDITIONED FORMATIONS; no-self (anatman) -> applied MORE WIDELY                |
+|  [CONTESTED] early impermanence is NOT verbally identical with later momentariness    |
+|  CAUTION -> nirvana is classified UNCONDITIONED (asamskrta) in important traditions   |
+|  OBJECTION infinite regress of conditions   REPLY the aim is soteriological, not      |
+|                                             genetic; no first cause is claimed        |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 6. THE TWELVE LINKS (dvadasa-nidana) AND THE CUT ---------------------------------+
+|  1 avidya (ignorance)     2 samskara (formations)   3 vijnana (consciousness)         |
+|  4 nama-rupa (name-form)  5 sadayatana (six bases)  6 sparsa (contact)                |
+|  7 vedana (feeling)  ===== CUT HERE =====> 8 trsna (craving)                          |
+|  9 upadana (clinging)     10 bhava (becoming)       11 jati (birth)                   |
+| 12 jara-marana (ageing and death)                                                     |
+|  FRAGILE PAIRS -> formations BEFORE consciousness; craving BEFORE clinging BEFORE     |
+|                   becoming                                                            |
+|  THREE READINGS -> three-life pedagogic | present-process psychological |             |
+|                    structural-soteriological                                          |
+|  NOT FATALISM -> links 8-10 are PRESENT CAUSES and remain OPEN                         |
+|  REVERSE ORDER (pratiloma) -> cessation of ignorance ... cessation of ageing-death     |
+|  bhava-cakra is drawn as a WHEEL because avidya is itself conditioned                  |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 7. MOMENTARINESS (ksanikavada) ---------------------------------------------------+
+|  THESIS    yat sat tat ksanikam  (in substance: sattve satyeva ksanikatvam)           |
+|  CRITERION sat = arthakriya-samartha -- the real is what CAN PRODUCE AN EFFECT        |
+|  DILEMMA   yaugapadya horn: all at once -> nothing left for later production          |
+|            krama horn: successively -> functions differently -> HAS CHANGED           |
+|  NYAYA ESCAPE "it acts when auxiliaries (sahakarin) are present"                       |
+|  CLOSED BY sahakari-anapeksa: power was already there (auxiliaries idle) OR the        |
+|            auxiliaries supply it (permanent thing redundant)                           |
+|  SECOND ARGUMENT vinasitva / ksanabhanga -- perishing is INTRINSIC; no external        |
+|            destroyer is needed                                                         |
+|  CONTINUITY santana (causal series) + sadrsya (similarity); FLAME and STREAM           |
+|  METHOD    established NEGATIVELY by elimination -- momentary phases are not perceived |
+|  TRAP -> "momentary" does NOT mean "non-existent"; the real is EVENTAL, not substantial|
+|  [RESIDUE] Nyaya pratyabhijna: a JUDGEMENT of sameness seems to need one subject       |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 8. NO PERMANENT SELF (nairatmyavada) ---------------------------------------------+
+|  FIVE AGGREGATES (panca-skandha)                                                       |
+|    rupa (form) · vedana (feeling) · samjna (perception) · samskara (formations,        |
+|    where INTENTION/cetana lives) · vijnana (consciousness)                             |
+|  TEST -> permanent? NO | independent? NO | fit to be "mine, I, my self"? NO            |
+|  THE ARGUMENT IS THE EXHAUSTIVENESS OF THE LIST -- a sixth item would refute it        |
+|  CHARIOT (Milinda-panha) -> a term can be TRUE without naming a further entity;        |
+|    "self" is a DESIGNATION (prajnapti): conventionally valid, not self-subsistent      |
+|  TWO NO-SELVES                                                                          |
+|    pudgala-nairatmya  denies the enduring PERSON  -> shared minimum thesis             |
+|    dharma-nairatmya   denies INTRINSIC NATURE in the factors -> Mahayana/Madhyamika    |
+|    ONE-LINE CONTRAST -> the first dissolves the OWNER, the second the INVENTORY        |
+|  FOIL -> Puggalavada (Vatsiputriya): a person "neither identical nor different";        |
+|    REJECTED as a relapse; proves the ownership pressure was felt INSIDE Buddhism       |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 9. CONTINUITY WITHOUT AN OWNER ---------------------------------------------------+
+|  FORMULA -> na sa eva na canyah : NEITHER THE SAME NOR ANOTHER                         |
+|    strict identity -> eternalism returns | strict difference -> fruit falls on a       |
+|    stranger  => DENY THE DISJUNCTION                                                   |
+|  who remembers?  -> santana      | who recognises? -> sadrsya                          |
+|  who deserves?   -> na sa eva na canyah | what is reborn? -> pratisandhana (RELINKING) |
+|  what stores it? -> alaya-vijnana + bija (Yogacara) -- a CONDITIONED stream, NOT atman |
+|  MORAL QUALITY LIVES IN INTENTION (cetana), itself an aggregate                        |
+|  Rebirth is a RELATION, not a traveller: one series conditions another; nothing crosses|
+|  [RESIDUE] a series explains SUCCESSION better than OWNERSHIP; desert is relocated to  |
+|            conventional truth                                                          |
+|  TRAP -> never answer the karma objection by smuggling in a subtle self                |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 10. CESSATION (nirvana) AND THE THREE JEWELS (Triratna) --------------------------+
+|  DEFINITION -> extinction of the THREE FIRES: attachment (raga) · aversion (dvesa) ·  |
+|    delusion (moha) => ceasing of the PROCESS that produces suffering                   |
+|  CLASSIFICATION -> unconditioned (asamskrta): OUTSIDE the dependent series, NOT a      |
+|    substance; X not another momentary event  X not an eternal self attained            |
+|  FOUR CONSISTENCY MOVES                                                                |
+|    1 "who attains?" ASSUMES the disputed self                                           |
+|    2 nirvana is not an entity possessed                                                 |
+|    3 it IS cessation of craving, ignorance and the suffering-series                     |
+|    4 => no-self removes the false claimant; momentariness explains why it CAN cease     |
+|  THREE JEWELS -> Buddha DISCOVERED · Dharma LIBERATES · Sangha TRANSMITS                |
+|    origin order Buddha->Dharma->Sangha ; access order Sangha->Dharma->Buddha            |
+|    refuge-taker = CONVENTIONAL PERSON (prajnapti-purusa)                                |
+|  NAGARJUNA -> samsara and nirvana are NOT two independent realms                        |
+|  [RESIDUE] "I am liberated" is a conventional index; the Advaitic unity-of-experience   |
+|            objection is answered by REFUSAL, not explanation                             |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 11. THE FOUR SCHOOLS AS ONE ESCALATION -------------------------------------------+
+|  VAIBHASIKA   direct realism (bahya-pratyaksa-vada); sarvam asti -- dharmas of the     |
+|               three times have SOME mode of existence (a past act must bear fruit; a   |
+|               cognition must have an object).  COST overpopulated ontology             |
+|        |  Sautrantika objects: this weakens momentariness                              |
+|        v                                                                                |
+|  SAUTRANTIKA  representational realism (bahyanumeya-vada); presentism; the object-      |
+|               moment has CEASED, so cognition bears only the FORM (akara) and the        |
+|               object is INFERRED.  COST owes an account of CORRESPONDENCE                |
+|        |  Yogacara objects: the inferred object does no work                            |
+|        v                                                                                |
+|  YOGACARA     representation-only (vijnaptimatra). THREE ARGUMENTS, divided by function:|
+|               dream -> removes EVIDENCE | atoms -> removes COHERENCE (partless atoms    |
+|               cannot combine; atoms with parts are not ultimate) | time-gap -> removes  |
+|               EXPLANATORY ROLE. Order from alaya-vijnana + bija + vasana; shared world  |
+|               = shared KARMIC CONDITIONING, not solipsism. tri-svabhava: parikalpita    |
+|               (imagined) | paratantra (dependent) | parinispanna (perfected) = THREE    |
+|               DESCRIPTIONS OF ONE FLOW. svasamvedana blocks a regress of knowers.       |
+|               COST consciousness itself looks reified                                    |
+|        |  Madhyamaka objects: even consciousness lacks svabhava                          |
+|        v                                                                                |
+|  MADHYAMIKA   emptiness (sunyata). SIX-STEP DERIVATION: svabhava = existing through     |
+|               itself -> the self-existent does not await conditions -> the conditioned  |
+|               does -> so nothing conditioned has svabhava -> lacking it = EMPTY ->      |
+|               the dependently arisen IS the empty.  COST no positive ultimate            |
+|  catuskoti  asti | nasti | both | neither -- ALL FOUR DENIED, but SCOPED to what is     |
+|             taken as self-established; negation is prasajya (non-implicative), NOT      |
+|             paryudasa -> NO FIFTH THESIS is installed                                    |
+|  DEFENCES  "no thesis (pratijna) of my own" (Vigrahavyavartani) | "my words are empty   |
+|             too" | nirmitaka simile | EMPTINESS OF EMPTINESS                             |
+|  TWO TRUTHS samvrti-satya keeps persons/causation/karma/practice; paramartha-satya      |
+|             denies own-being. Conventional truth is NOT falsehood.                       |
+|  WARNING   emptiness wrongly grasped destroys, like a SNAKE WRONGLY SEIZED               |
+|  TRAP -> X emptiness = non-existence   X emptiness = Advaita Brahman                     |
+|  X Vaibhasika/Sautrantika are NOT Theravada branches                                     |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 12. KNOWING, MEANING AND SILENCE (core supporting depth) -------------------------+
+|  TWO OBJECTS -> TWO PRAMANAS (Dignaga · Dharmakirti)                                    |
+|    svalaksana (unique particular): momentary · causally efficient · ineffable ·         |
+|      ULTIMATELY real -> PERCEPTION      | samanyalaksana (general character):            |
+|      constructed · expressible · causally inert · CONVENTIONALLY real -> INFERENCE      |
+|    upamana, arthapatti, anupalabdhi, sabda are REDUCED, not omitted                     |
+|  PERCEPTION = kalpanapodha (non-conceptual, Dignaga) + abhranta (non-erroneous,          |
+|    Dharmakirti -- excludes the double moon and the whirling-firebrand circle)            |
+|    four types: indriya | manasa | svasamvedana | yogi-pratyaksa                          |
+|  APOHA "cow" = "not-non-cow" via anya-apoha, grounded in SHARED CAUSAL CAPACITY          |
+|    OBJECTION (Kumarila Bhatta, Uddyotakara) circular + no positive determination         |
+|  pramana = pramanaphala -- instrument NOT ultimately different from result, because      |
+|    there is NO ENDURING KNOWER  (Nyaya keeps pramatr | pramana | prameya | pramiti)      |
+|  UNDECLARED QUESTIONS (avyakrta) world eternal/not, finite/infinite | jiva same as body  |
+|    or different | Tathagata after death exists/not/both/neither                          |
+|    TWO REASONS  na arthasamhita (arrow parable, Culamalukya) + PRESUPPOSITIONAL DEFECT   |
+|    FIRE SIMILE  a fire gone out has not gone east/west/north/south                       |
+|    THREE READINGS agnostic (weakest) | pragmatic-therapeutic | logical-semantic          |
+|    EXAM USE -> COMBINE THE LAST TWO; the four options ARE the four corners               |
+|  CREATOR-GOD CRITIQUE = refusal of EXPLANATORY SURPLUS -- one or two lines only          |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 13. NAMED OBJECTIONS, REPLIES AND RESIDUES ---------------------------------------+
+|  NYAYA (Vatsyayana/Uddyotakara/Udayana) memory, recognition, desert need a self         |
+|     REPLY santana + sadrsya + flame/river  [RESIDUE] a series may not OWN memories      |
+|  NYAYA REALIST a permanent substance acts when auxiliaries are present                   |
+|     REPLY sahakari-anapeksa  [RESIDUE] the substance-quality model remains intuitive     |
+|  KUMARILA BHATTA self for duty and memory; real universals for word-meaning              |
+|     REPLY momentary cognitions + apoha  [RESIDUE] positive determination unexplained     |
+|  SANKARA-TYPE ADVAITA liberation and the unity of the knower need a witness               |
+|     REPLY two truths + self-revealing cognition  [RESIDUE] unity of experience           |
+|  NYAYA/REALIST emptiness is nihilism; "no thesis" is self-refuting                        |
+|     REPLY scoped prasajya negation + two truths  [RESIDUE] Prasangika/Svatantrika split  |
+|  ALL THREE karma without a self is unjust                                                 |
+|     REPLY neither identity nor difference  [RESIDUE] is continuity ENOUGH for DESERT?    |
+|  ONE COMPLAINT BEHIND ALL FIVE -> Buddhism removed the OWNER and kept the PROPERTY       |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 14. CLOSE-OPTION DISTINCTIONS (write these, do not gesture at them) --------------+
+|  vs JAINISM  both non-Vedic, both non-creationist; JAINISM AFFIRMS a real conscious     |
+|              soul with permanence-in-substance + change-in-mode.  X never "both deny    |
+|              the soul"                                                                   |
+|  vs ADVAITA  both deny naive realism; Advaita's ultimate is POSITIVE self-luminous       |
+|              Brahman, Madhyamaka's is the ABSENCE of own-being.  X never "emptiness =   |
+|              Brahman"                                                                    |
+|  vs CARVAKA  both reject an eternal self; Carvaka REDUCES to body and abolishes rebirth, |
+|              karma and liberation; Buddhism ANALYSES into aggregates and keeps them      |
+|              without a bearer                                                            |
+|  vs NYAYA    enduring self + real universals + four pramanas + instrument distinct from  |
+|              result   VS   momentary particulars + apoha + two pramanas +                |
+|              pramana = pramanaphala                                                      |
+|  INTERNAL    Vaibhasika direct vs Sautrantika inferred | Yogacara consciousness-only vs  |
+|              Madhyamika emptiness of consciousness too                                   |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 15. PYQ ROUTE 2018-2025 ----------------------------------------------------------+
+|  2018 Q5(b) 10  Madhyamika: from dependent origination to emptiness                      |
+|  2018 Q6(b) 15  consistency of no-self with nirvana                                       |
+|  2018 Q5(d) 10  Buddhists and Nyaya on 'absence of the jar'   [routed, Nyaya-owned]      |
+|  2019 Q5(b) 10  how Yogacara denies the external world                                    |
+|  2019 Q7(c) 15  what is dependent origination; how it proves momentariness                |
+|  2020 Q6(a) 20  momentariness as a LOGICAL DERIVATIVE of dependent origination            |
+|  2020 Q7(b) 15  self via the five aggregates; liberation without a soul                   |
+|  2021 Q5(d) 10  pudgala- vs dharma-nairatmyavada                                          |
+|  2021 Q7(b) 15  memory and personal identity under momentariness                          |
+|  2022 Q6(a) 20  momentariness and karma; responses to opponents                           |
+|  2022 Q7(b) 15  Triratna, its internal relation, and no-self                              |
+|  2023 Q8(a) 20  "ignorance of dependent origination is suffering" -- soteriology          |
+|  2024 Q6(b) 15  "everything is void" and "everything is real" from ONE doctrine           |
+|  2024 Q6(a) 20  Carvaka vs Buddhist rejection of self          [routed, Carvaka-owned]   |
+|  2025 Q8(c) 15  nirvana in consonance with momentariness and no-self                      |
+|  2025 Q5(b) 10  Naiyayikas and Buddhists on pramana/pramanaphala [routed, Nyaya-owned]   |
+|  13 primary-owned parts across 2018-2025 -- one in EVERY year                             |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
++-- 16. TRAP LIST — READ LAST BEFORE THE EXAM ----------------------------------------+
+|  1  nastika = Veda-rejecting, NOT atheist; the creator denial is a SEPARATE claim        |
+|  2  duhkha is a diagnosis, not pessimism; truth 3 is optimistic                          |
+|  3  the Middle Path is NOT moderation -- state BOTH senses                                |
+|  4  quote ALL FOUR clauses of the formula; the cessation half carries truth 3             |
+|  5  formations BEFORE consciousness; craving BEFORE clinging BEFORE becoming              |
+|  6  avidya heads the list but is NOT a first cause -- the figure is a WHEEL                |
+|  7  momentariness needs the CAUSAL-EFFICACY premise; dependence alone gives impermanence  |
+|  8  momentary is not non-existent; explain continuity by santana, NEVER by a self         |
+|  9  list the FIVE AGGREGATES -- the enumeration IS the argument                            |
+|  10 pudgala-nairatmya (owner) vs dharma-nairatmya (inventory) -- do not merge              |
+|  11 the chariot proves NON-REFERENTIAL CORRECTNESS, not unreality                          |
+|  12 moral quality sits in INTENTION (cetana), not in outward act                            |
+|  13 rebirth is RELINKING, not transmigration; alaya-vijnana is NOT a soul                   |
+|  14 nirvana: unconditioned means OUTSIDE THE SERIES, not a substance                        |
+|  15 Triratna needs the INTERNAL RELATION, not three separate objects of devotion            |
+|  16 sarvam asti is a three-times thesis, NOT eternalism                                     |
+|  17 Sautrantika is a REALIST -- it disputes ACCESS, not existence                            |
+|  18 give Yogacara THREE arguments, not just the dream                                        |
+|  19 tri-svabhava = three descriptions of ONE flow, not three worlds                          |
+|  20 catuskoti denial is SCOPED and prasajya -- Nagarjuna does not reject logic                |
+|  21 never omit the TWO TRUTHS from an emptiness answer                                        |
+|  22 Buddhist logic is not "Nyaya with fewer pramanas"                                          |
+|  23 the silence is refusal of a MALFORMED QUESTION, not agnosticism                            |
+|  24 present the four schools as an ESCALATION, never as a list                                 |
+|  25 "critically discuss" requires the RESIDUAL FORCE, not a triumphant reply                   |
++-------------------------------------------------------------------------------------+
+                              |
+                              v
+                    QUALIFIED CONCLUSION
+Buddhism replaces substance with conditioned process, and that single move buys almost
+everything: suffering becomes removable because it is produced, the double Middle Path
+keeps continuity without permanence, the causal-efficacy argument dismantles the
+permanent cause, and the two truths deny own-being without abolishing practice. Its one
+genuinely unfinished problem is OWNERSHIP -- a causal series explains why a memory, a
+fruit or a liberation OCCURS more convincingly than it explains WHOSE it is. Write:
+"strongest as a therapeutic and causal philosophy of liberation; weakest exactly where
+ownership rather than succession is at stake", then name the residue you are conceding.
 ```

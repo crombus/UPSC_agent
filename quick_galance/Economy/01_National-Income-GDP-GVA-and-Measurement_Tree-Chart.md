@@ -1,1049 +1,115 @@
-# Economy 01 - National Income: GDP, GVA, GNP, NDP and Measurement
+# Economy 01 - National Income: GDP, GVA, GNI/GNP, NDP, NNI and Measurement
 
 ## Quick-Glance Tree Chart
 
 ```text
-NATIONAL INCOME: GDP, GVA, GNP, NDP AND MEASUREMENT
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-National accounts measure production, income and expenditure over a stated
-territory, residence concept, price basis, period and data vintage. The same
-economic activity can be viewed through output, income or final expenditure,
-but every comparison must preserve boundaries: domestic versus national,
-gross versus net, nominal versus real, basic versus market prices, and estimate
-versus final revision.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-GDP /
-GVA /
-GNP /
-NDP /
-NNP;
-three methods;
-production boundary;
-nominal-real conversion;
-deflator;
-base year;
-informal estimation;
-potential GDP /
-output gap;
-ICOR /
-saving-growth logic.
-                              |
-                              v
-GROWTH /
-WELFARE:
-Topic 02.
-INFLATION INDICES:
-Topic 03.
-FISCAL /
-EXTERNAL ACCOUNTS:
-later Economy owners.
-                              |
-                              v
-                BRANCH I: TERRITORY vs RESIDENCE
-GDP
-DOMESTIC TERRITORY.
-                              |
-                              v
-GNP /
-GNI
-NORMAL RESIDENTS.
-                              |
-                              v
-NFIA
-net factor income
-from abroad.
-                              |
-                              v
-GNP = GDP + NFIA.
-                              |
-                              v
-DOMESTIC
-foreign-owned production
-enters GDP.
-                              |
-                              v
-RESIDENT
-factor income abroad
-enters GNP.
-                              |
-                              v
-NATIONALITY
-!= residence.
-                              |
-                              v
-                BRANCH II: GROSS-TO-NET LADDER
-GDPmp.
-                              |
-                              v
-MINUS
-DEPRECIATION.
-                              |
-                              v
-NDPmp.
-                              |
-                              v
-PLUS
-NFIA
-before /
-after depreciation
-as applicable.
-                              |
-                              v
-GNPmp.
-                              |
-                              v
-MINUS
-DEPRECIATION.
-                              |
-                              v
-NNPmp.
-                              |
-                              v
-GROSS
-includes capital consumption.
-                              |
-                              v
-NET
-excludes depreciation.
-                              |
-                              v
-                BRANCH III: PRICE BRIDGE
-GVA
-AT BASIC PRICES.
-                              |
-                              v
-PLUS
-PRODUCT TAXES.
-                              |
-                              v
-MINUS
-PRODUCT SUBSIDIES.
-                              |
-                              v
-GDP
-AT MARKET PRICES.
-                              |
-                              v
-GDPmp =
-GVA basic
-+ net taxes on products.
-                              |
-                              v
-BASIC PRICE
-producer perspective.
-                              |
-                              v
-MARKET PRICE
-purchaser perspective.
-                              |
-                              v
-FACTOR COST
-older concept,
-not interchangeable
-with basic price.
-                              |
-                              v
-                BRANCH IV: PRODUCTION METHOD
-GROSS OUTPUT.
-                              |
-                              v
-MINUS
-INTERMEDIATE
-CONSUMPTION.
-                              |
-                              v
-= GVA.
-                              |
-                              v
-SUM
-across producers /
-sectors.
-                              |
-                              v
-ADD
-net product taxes.
-                              |
-                              v
-= GDPmp.
-                              |
-                              v
-VALUE ADDED
-prevents
-double counting.
-                              |
-                              v
-FINAL GOOD
-or value-added stages,
-not both.
-                              |
-                              v
-                BRANCH V: INCOME METHOD
-COMPENSATION
-OF EMPLOYEES.
-                              |
-                              v
-OPERATING
-SURPLUS.
-                              |
-                              v
-MIXED
-INCOME.
-                              |
-                              v
-TAXES LESS
-SUBSIDIES
-on production /
-imports
-as accounting requires.
-                              |
-                              v
-SUM
-factor incomes
-generated by production.
-                              |
-                              v
-TRANSFER
-PAYMENTS
-excluded
-because no current production.
-                              |
-                              v
-CAPITAL GAIN
-excluded
-from production income.
-                              |
-                              v
-                BRANCH VI: EXPENDITURE METHOD
-GDP =
-C + I + G + (X - M).
-                              |
-                              v
-C
-private final
-consumption.
-                              |
-                              v
-I
-gross capital
-formation /
-inventory.
-                              |
-                              v
-G
-government final
-consumption.
-                              |
-                              v
-X
-exports.
-                              |
-                              v
-M
-imports.
-                              |
-                              v
-IMPORTS SUBTRACTED
-because already embedded
-in C /
-I /
-G /
-X
-but not domestic output.
-                              |
-                              v
-                BRANCH VII: THREE-METHOD IDENTITY
-ONE PRODUCTION
-creates output.
-                              |
-                              v
-OUTPUT
-creates income.
-                              |
-                              v
-INCOME /
-FINANCE
-supports expenditure.
-                              |
-                              v
-PRODUCTION =
-INCOME =
-FINAL EXPENDITURE
-conceptually.
-                              |
-                              v
-STATISTICAL
-DISCREPANCY
-arises from
-different sources /
-timing /
-coverage /
-revisions.
-                              |
-                              v
-DISCREPANCY
-is reconciliation item,
-not new production.
-                              |
-                              v
-                BRANCH VIII: NOMINAL vs REAL
-NOMINAL GDP
-current prices.
-                              |
-                              v
-REAL GDP
-constant /
-reference prices.
-                              |
-                              v
-NOMINAL CHANGE
-= volume effect
-+ price effect
-+ interaction.
-                              |
-                              v
-REAL GROWTH
-aims to isolate
-volume.
-                              |
-                              v
-GDP DEFLATOR =
-Nominal GDP /
-Real GDP x 100.
-                              |
-                              v
-REAL GDP =
-Nominal GDP /
-Deflator x 100.
-                              |
-                              v
-HIGH NOMINAL
-growth
-need not mean
-high real growth.
-                              |
-                              v
-                BRANCH IX: GDP DEFLATOR
-COVERS
-domestically produced
-final goods /
-services.
-                              |
-                              v
-IMPLICIT
-PRICE INDEX.
-                              |
-                              v
-WEIGHTS
-change with output.
-                              |
-                              v
-EXCLUDES
-imports directly.
-                              |
-                              v
-CPI
-household consumption basket.
-                              |
-                              v
-WPI
-wholesale goods.
-                              |
-                              v
-DEFLATOR /
-CPI /
-WPI
-answer different questions.
-                              |
-                              v
-                BRANCH X: PRODUCTION BOUNDARY
-MARKET
-PRODUCTION.
-                              |
-                              v
-GOVERNMENT
-NON-MARKET SERVICES.
-                              |
-                              v
-OWN-ACCOUNT
-PRODUCTION
-where recognised.
-                              |
-                              v
-IMPUTED
-RENT
-of owner-occupied housing.
-                              |
-                              v
-INVENTORY
-CHANGE.
-                              |
-                              v
-INTANGIBLE
-CAPITAL
-where capitalised.
-                              |
-                              v
-UNPAID
-HOUSEHOLD
-CARE
-generally outside
-core GDP boundary.
-                              |
-                              v
-SECOND-HAND SALE
-excluded,
-current service margin included.
-                              |
-                              v
-                BRANCH XI: INCLUDED / EXCLUDED
-INCLUDED:
-CURRENT FINAL
-PRODUCTION.
-                              |
-                              v
-INCLUDED:
-LEGAL MARKET
-OUTPUT.
-                              |
-                              v
-INCLUDED:
-PUBLIC SERVICES
-valued by cost.
-                              |
-                              v
-EXCLUDED:
-TRANSFER PAYMENTS.
-                              |
-                              v
-EXCLUDED:
-FINANCIAL ASSET
-PURCHASE.
-                              |
-                              v
-EXCLUDED:
-CAPITAL GAINS.
-                              |
-                              v
-EXCLUDED:
-INTERMEDIATE GOODS
-as separate final value.
-                              |
-                              v
-EXCLUDED:
-PAST OUTPUT
-resale.
-                              |
-                              v
-                BRANCH XII: SECTOR CLASSIFICATION
-PRIMARY
-agriculture /
-mining.
-                              |
-                              v
-SECONDARY
-manufacturing /
-construction /
-utilities.
-                              |
-                              v
-TERTIARY
-services.
-                              |
-                              v
-ACTIVITY
-classification
-depends on
-nature of production,
-not ownership.
-                              |
-                              v
-PUBLIC BANK
-is service.
-                              |
-                              v
-AGRO-PROCESSING
-is manufacturing,
-not agriculture.
-                              |
-                              v
-                BRANCH XIII: INSTITUTIONAL SECTORS
-HOUSEHOLDS.
-                              |
-                              v
-NON-FINANCIAL
-CORPORATIONS.
-                              |
-                              v
-FINANCIAL
-CORPORATIONS.
-                              |
-                              v
-GENERAL
-GOVERNMENT.
-                              |
-                              v
-NON-PROFIT
-INSTITUTIONS
-SERVING HOUSEHOLDS.
-                              |
-                              v
-REST OF WORLD
-counterpart account.
-                              |
-                              v
-ACTIVITY SECTOR
-!= institutional sector.
-                              |
-                              v
-                BRANCH XIV: INFORMAL ECONOMY
-UNREGISTERED /
-UNINCORPORATED
-UNITS.
-                              |
-                              v
-LIMITED
-DIRECT RECORDS.
-                              |
-                              v
-BENCHMARK
-SURVEYS.
-                              |
-                              v
-LABOUR /
-ENTERPRISE
-DATA.
-                              |
-                              v
-PROXY
-INDICATORS.
-                              |
-                              v
-EXTRAPOLATION.
-                              |
-                              v
-FORMAL-SECTOR
-PROXY
-may misstate
-informal shock.
-                              |
-                              v
-REVISION
-improves estimates
-as data arrive.
-                              |
-                              v
-                BRANCH XV: DATA AGENCIES
-NSO /
-MoSPI
-national accounts.
-                              |
-                              v
-ADMINISTRATIVE
-DATA.
-                              |
-                              v
-CORPORATE
-FILINGS.
-                              |
-                              v
-SURVEYS.
-                              |
-                              v
-GOVERNMENT
-ACCOUNTS.
-                              |
-                              v
-RBI /
-SECTORAL
-DATA INPUTS.
-                              |
-                              v
-ESTIMATE
-VINTAGES:
-advance,
-provisional,
-revised.
-                              |
-                              v
-NEVER MIX
-vintages without label.
-                              |
-                              v
-                BRANCH XVI: BASE YEAR
-REFERENCE
-PRICE STRUCTURE.
-                              |
-                              v
-WEIGHTS /
-CLASSIFICATION /
-DATA SOURCES.
-                              |
-                              v
-REVISED
-to reflect
-current economy.
-                              |
-                              v
-OLD SERIES
-and new series
-may differ.
-                              |
-                              v
-BACK SERIES
-needed
-for long comparison.
-                              |
-                              v
-27 FEBRUARY 2026
-national-accounts
-series update
-in source.
-                              |
-                              v
-SERIES BREAK
-must be disclosed.
-                              |
-                              v
-BASE-YEAR CHANGE
-does not itself
-create real output.
-                              |
-                              v
-                BRANCH XVII: GDP METHODOLOGY CHANGE
-PRE-2015
-series.
-                              |
-                              v
-POST-2015
-new series /
-base /
-data /
-valuation changes.
-                              |
-                              v
-GVA
-at basic prices
-prominent.
-                              |
-                              v
-MCA
-corporate database
-use.
-                              |
-                              v
-MARKET-PRICE
-GDP bridge.
-                              |
-                              v
-COMPARABILITY
-challenge.
-                              |
-                              v
-METHODOLOGY
-should be evaluated
-through concepts /
-coverage /
-data quality,
-not political assertion.
-                              |
-                              v
-                BRANCH XVIII: POTENTIAL GDP
-MAXIMUM
-SUSTAINABLE OUTPUT
-consistent with
-normal utilisation /
-stable inflation.
-                              |
-                              v
-NOT
-physical maximum.
-                              |
-                              v
-UNOBSERVED
-estimate.
-                              |
-                              v
-DEPENDS ON
-labour,
-capital,
-productivity,
-institutions.
-                              |
-                              v
-ACTUAL GDP
-may be above /
-below.
-                              |
-                              v
-MODEL /
-FILTER
-uncertainty.
-                              |
-                              v
-                BRANCH XIX: OUTPUT GAP
-OUTPUT GAP =
-Actual output
-- Potential output.
-                              |
-                              v
-POSITIVE GAP
-demand above
-sustainable capacity.
-                              |
-                              v
-INFLATION
-pressure.
-                              |
-                              v
-NEGATIVE GAP
-slack /
-unemployment.
-                              |
-                              v
-CYCLICAL
-policy support
-possible.
-                              |
-                              v
-MISMEASUREMENT
-can cause
-wrong policy.
-                              |
-                              v
-                BRANCH XX: SAVING / INVESTMENT / ICOR
-SAVING
-finances investment
-directly /
-through external balance.
-                              |
-                              v
-INVESTMENT
-adds capital stock.
-                              |
-                              v
-CAPITAL
-plus productivity
-raises potential output.
-                              |
-                              v
-ICOR =
-Investment rate /
-Growth rate
-as simplified relation.
-                              |
-                              v
-LOWER ICOR
-means greater
-capital efficiency,
-other things equal.
-                              |
-                              v
-HIGH SAVING
-with poor allocation /
-high ICOR
-can yield low growth.
-                              |
-                              v
-ACCOUNTING RELATION
-not immutable law.
-                              |
-                              v
-                BRANCH XXI: PPP vs MARKET EXCHANGE RATE
-MARKET-RATE GDP
-uses exchange rate.
-                              |
-                              v
-PPP GDP
-uses relative
-price levels.
-                              |
-                              v
-PPP
-better for
-real-volume /
-living-standard
-comparisons.
-                              |
-                              v
-MARKET RATE
-relevant for
-external purchasing /
-finance.
-                              |
-                              v
-RANK
-depends on measure.
-                              |
-                              v
-PPP
-does not equal
-internationally spendable income.
-                              |
-                              v
-                BRANCH XXII: GDP LIMITS
-INCOME
-DISTRIBUTION.
-                              |
-                              v
-UNPAID
-CARE.
-                              |
-                              v
-ENVIRONMENTAL
-DEPLETION.
-                              |
-                              v
-POLLUTION.
-                              |
-                              v
-LEISURE.
-                              |
-                              v
-HEALTH /
-EDUCATION
-OUTCOMES.
-                              |
-                              v
-QUALITY
-CHANGE.
-                              |
-                              v
-INFORMAL /
-ILLEGAL
-MEASUREMENT.
-                              |
-                              v
-GDP
-is production measure,
-not welfare verdict.
-                              |
-                              v
-                BRANCH XXIII: INTERPRETATION DASHBOARD
-REAL GDP
-growth.
-                              |
-                              v
-REAL GVA
-sector pattern.
-                              |
-                              v
-PER CAPITA
-income.
-                              |
-                              v
-EMPLOYMENT.
-                              |
-                              v
-PRODUCTIVITY.
-                              |
-                              v
-INFLATION.
-                              |
-                              v
-INEQUALITY /
-POVERTY.
-                              |
-                              v
-FISCAL /
-EXTERNAL
-balance.
-                              |
-                              v
-ENVIRONMENT.
-                              |
-                              v
-NO SINGLE
-aggregate suffices.
-                              |
-                              v
-                    DATA / POLICY / EXAMPLE BANK
-GDPmp =
-GVA basic
-+ net product taxes.
-                              |
-                              v
-GNP =
-GDP + NFIA.
-                              |
-                              v
-NDP =
-GDP - depreciation.
-                              |
-                              v
-GDP =
-C + I + G + X - M.
-                              |
-                              v
-GDP deflator =
-Nominal /
-Real x 100.
-                              |
-                              v
-Potential GDP /
-output gap.
-                              |
-                              v
-ICOR /
-PPP /
-base-year revision.
-                              |
-                              v
-                    SOURCE CRITICISM
-domestic != national;
-resident != citizen;
-gross != net;
-basic != market /
-factor cost;
-nominal != real;
-final != intermediate;
-stock != flow;
-transfer != production;
-base-year revision != new output;
-advance estimate != final;
-PPP rank != market-rate capacity;
-GDP != welfare.
-                              |
-                              v
-                    MAJOR DEBATES
-GDP
-OR GVA?
-complementary.
-                              |
-                              v
-NOMINAL
-OR REAL?
-purpose-specific.
-                              |
-                              v
-FORMAL DATA
-OR INFORMAL REALITY?
-measurement challenge.
-                              |
-                              v
-BASE-YEAR REVISION
-OR SERIES MANIPULATION?
-judge transparent method /
-back series.
-                              |
-                              v
-GDP GROWTH
-OR DEVELOPMENT?
-necessary,
-insufficient.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-GDP is domestic;
-GNP adds NFIA;
-net subtracts depreciation;
-GDPmp adds net product taxes to GVA basic;
-imports are subtracted,
-not because bad,
-but because non-domestic;
-transfer payments excluded;
-inventory change included;
-PPP and market exchange measures differ;
-ICOR lower implies efficiency,
-other things equal.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT 2020 GS-III
-potential GDP
-and determinants;
-reasons for output gap.
-Mains has no objective answer key.
-                              |
-                              v
-DIRECT 2021 GS-III
-methodology used
-for GDP before /
-after 2015.
-Mains has no objective answer key.
-                              |
-                              v
-PRELIMS ROUTES:
-2018 ICOR;
-2019 PPP;
-2022 real-sector activities;
-2023 intangible investment.
-Official 2018-2023 keys
-unavailable locally.
-No answer inferred.
-                              |
-                              v
-PRELIMS 2024 Q45
-activity-sector matching;
-Q47 working /
-fixed capital.
-Official Set-A key
-present locally.
-No option or answer letter
-recorded or inferred.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-territory /
-residence
--> gross /
-net
--> basic /
-market
--> three methods
--> nominal /
-real /
-deflator
--> production boundary
--> base year /
-vintage
--> potential /
-gap
--> ICOR /
-PPP
--> GDP limits.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-DEFINE
-boundary /
-price /
-period.
-                              |
-                              v
-WRITE
-identity.
-                              |
-                              v
-EXPLAIN
-measurement mechanism.
-                              |
-                              v
-ADD
-Indian data /
-methodology issue.
-                              |
-                              v
-QUALIFY
-informal /
-revision /
-welfare limits.
-                              |
-                              v
-CONCLUDE
-dashboard,
-not single number.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-National-income aggregates are coherent only when their territorial, residence,
-price, depreciation and data-vintage boundaries are stated. GDP and GVA are
-indispensable measures of production, but policy must read them with employment,
-distribution, productivity, environmental and human-development indicators.
-Better source coverage, transparent revisions and consistent back series improve
-both economic diagnosis and public trust.
+1. CORE CONCEPT
+   National accounts measure one production flow through three windows:
+   production = income = final expenditure (conceptually)
+   |
+   '-- Statistical discrepancy = source/timing/coverage/revision residual,
+       never a fourth source of output.
+
+2. TIMELINE / METHODOLOGY
+   |
+   +-- 2015
+   |   +-- Base changed from 2004-05 to 2011-12
+   |   +-- Headline shifted to GDP at market prices; GVA at basic prices
+   |   '-- Wider corporate coverage through MCA21
+   |
+   +-- 27 February 2026 [MoSPI new-series press note]
+   |   +-- Base changed to 2022-23
+   |   +-- Multi-activity company segregation; annual unincorporated surveys
+   |   +-- GST/administrative inputs; COICOP 2018 for PFCE
+   |   +-- Double deflation: agriculture and manufacturing
+   |   +-- Volume/single extrapolation: remaining sectors
+   |   '-- Proportional Denton quarterly benchmarking + SUT integration
+   |
+   +-- 5 June 2026 [MoSPI Provisional Estimates]
+   |   '-- FY2025-26 real GDP 7.7%; real GVA 7.9%, constant 2022-23 prices
+   |
+   '-- 31 August 2026 [MoSPI NAS 2026]
+       '-- Updated PPI, IIP and BkSPI inputs; estimates revised from 2022-23
+
+3. DECODED FORMULA SPINE
+   |
+   +-- GVA basic + taxes on products - subsidies on products = GDP market prices
+   +-- GDP + net primary income from abroad = GNI (legacy product label: GNP)
+   +-- GDP - consumption of fixed capital (CFC) = NDP
+   +-- GNI - CFC = NNI
+   +-- GNI/NNI + net current transfers from abroad = GNDI/NNDI
+   +-- GDP expenditure = PFCE + GFCE + GFCF + stocks + valuables + X - M
+   '-- GDP deflator = nominal GDP / real GDP x 100
+
+4. MEASUREMENT PROCESS
+   |
+   +-- Production approach
+   |   '-- output - intermediate consumption = value added; sum sectors
+   +-- Income approach
+   |   '-- compensation + operating surplus + mixed income + relevant taxes/subsidies
+   +-- Expenditure approach
+   |   '-- final consumption + capital formation + net exports
+   +-- Value-added control
+   |   '-- use decides final/intermediate; inventories count when produced
+   +-- Imputation
+   |   +-- owner-occupied housing -> imputed rent
+   |   +-- government non-market output -> mainly production costs
+   |   '-- financial services -> explicit fees + FISIM allocation
+   +-- Boundary exclusions
+   |   '-- pure transfers, capital gains and old-asset value; current brokerage counts
+   '-- Informal/underground
+       +-- informal output estimated through surveys, benchmarks and indicators
+       +-- mutually agreed illegal market production inside boundary in principle
+       '-- theft = redistribution, not production
+
+5. INDIAN INSTITUTIONS / DATA
+   |
+   +-- MoSPI: ministry responsible for official statistics
+   +-- NSO: national statistical producer
+   +-- National Accounts Division: compiles GDP, GVA, GNI and NAS
+   +-- State DES: compiles regional/GSDP accounts with national coordination
+   +-- RBI/ministries/regulators: input providers and analysts, not GDP compiler
+   +-- Source pyramid: surveys + MCA21 + GST + government accounts + sector data
+   '-- Vintage cycle: FAE -> SAE -> PE -> revised/final
+       [dates are calendar-specific; use the current MoSPI Advance Release Calendar]
+
+6. DEBATES / LIMITS
+   |
+   +-- MCA21: coverage gain vs active-unit, filing and activity-classification risks
+   +-- Deflators: double deflation improves concept but needs good output/input prices
+   +-- Informal proxies: benchmark-indicator relation can break during shocks
+   +-- Base year: updates prices/weights/sources/methods; needs official back series
+   +-- India 2026 headline: fixed 2022-23-base constant-price GDP
+   |   '-- chain volume is a comparative concept; do not invent chain-linked status
+   +-- Sector reading: contribution depends on weight and growth; share != growth
+   +-- GDP limits: distribution, most unpaid care, environment, quality and job security
+   +-- Disaster: destruction lowers wealth; reconstruction can raise current GDP
+   +-- HDI/MPI detail -> Economy Topic 2
+   '-- Green accounting detail -> Economy Topic 25
+
+7. PRELIMS TRAPS
+   |
+   +-- domestic != national; residence != citizenship
+   +-- gross/net != nominal/real
+   +-- basic prices != factor cost; only net product taxes bridge GVA to GDP
+   +-- personal remittance/current transfer != primary income automatically
+   +-- imports subtracted as a territorial correction, not a welfare judgment
+   +-- inventory inclusion != proof of strong demand
+   +-- imputed rent counts; pension transfer does not directly add output
+   +-- informal != illegal; illegal market production not automatically excluded
+   +-- FAE/SAE/PE/revised estimates are not interchangeable
+   '-- PPP rank requires source/reference year and differs from market-rate capacity
+
+8. MAINS ANSWER SPINE
+   DEFINE boundary and price basis
+     -> WRITE the bridge/formula
+     -> EXPLAIN the accounting or estimation mechanism
+     -> CITE named, dated MoSPI evidence
+     -> TEST coverage, deflator, proxy and revision
+     -> QUALIFY welfare and series limits
+     -> CONCLUDE: GDP is the production anchor; development needs a dashboard.
 ```
+
+**Dated-source rule:** Methodology and current estimates above come from MoSPI releases dated
+27 February, 5 June and 31 August 2026. Release timing must be checked against the applicable
+Advance Release Calendar; no current estimate should be detached from its period and vintage.

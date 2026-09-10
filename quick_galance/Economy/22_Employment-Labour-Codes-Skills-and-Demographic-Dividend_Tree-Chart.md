@@ -1,1078 +1,143 @@
-# Economy 22 - Employment, Labour Codes, Skills and Demographic Dividend
+# Economy Topic 22 - Employment, Labour Codes, Skills and Demographic Dividend
 
-## Quick-Glance Tree Chart
+**Current-source cutoff:** 9 September 2026
 
 ```text
-EMPLOYMENT, LABOUR CODES, SKILLS AND DEMOGRAPHIC DIVIDEND
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-A favourable working-age structure becomes a demographic dividend only when
-people are healthy, educated, skilled, able to participate and matched to
-productive jobs with rising real earnings and portable protection. A low
-unemployment rate can coexist with low participation, underemployment,
-disguised work or unpaid family labour; every labour statistic therefore needs
-its denominator, reference period and quality dimension.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-LFPR /
-WPR /
-UR;
-PLFS;
-unemployment types;
-job quality;
-productivity /
-wages;
-demographic dividend;
-skills /
-PMKVY;
-four Labour Codes;
-fixed-term /
-casual /
-gig work;
-care economy;
-social protection.
-                              |
-                              v
-INFLATION:
-Topic 03.
-POVERTY /
-SOCIAL SECTOR:
-Topic 23.
-DIGITAL PLATFORM
-BUSINESS MODEL:
-Topic 24.
-                              |
-                              v
-                BRANCH I: LABOUR INDICATORS
-LABOUR FORCE =
-employed
-+ unemployed
-seeking /
-available.
-                              |
-                              v
-LFPR =
-labour force /
-specified population
-x 100.
-                              |
-                              v
-WPR =
-employed /
-specified population
-x 100.
-                              |
-                              v
-UR =
-unemployed /
-labour force
-x 100.
-                              |
-                              v
-OUTSIDE
-LABOUR FORCE
-is not unemployed.
-                              |
-                              v
-DENOMINATOR
-must be named.
-                              |
-                              v
-                BRANCH II: PLFS CLOCK
-PERIODIC
-LABOUR FORCE
-SURVEY.
-                              |
-                              v
-NSO.
-                              |
-                              v
-USUAL
-PRINCIPAL STATUS.
-                              |
-                              v
-USUAL
-PRINCIPAL AND
-SUBSIDIARY STATUS.
-                              |
-                              v
-365-DAY
-REFERENCE.
-                              |
-                              v
-CURRENT
-WEEKLY STATUS.
-                              |
-                              v
-7-DAY
-REFERENCE.
-                              |
-                              v
-CURRENT
-DAILY STATUS
-day-level /
-underemployment sensitivity.
-                              |
-                              v
-AGE /
-RURAL-URBAN /
-SEX
-must be stated.
-                              |
-                              v
-                BRANCH III: UNEMPLOYMENT TYPES
-FRICTIONAL
-job transition.
-                              |
-                              v
-STRUCTURAL
-skill /
-location /
-sector mismatch.
-                              |
-                              v
-CYCLICAL
-demand downturn.
-                              |
-                              v
-SEASONAL
-within-year
-work pattern.
-                              |
-                              v
-DISGUISED
-surplus labour;
-removal does not
-reduce output.
-                              |
-                              v
-UNDEREMPLOYMENT
-insufficient hours /
-productivity.
-                              |
-                              v
-ONE RATE
-cannot identify
-the type.
-                              |
-                              v
-                BRANCH IV: JOB-QUALITY DASHBOARD
-QUANTITY.
-                              |
-                              v
-HOURS.
-                              |
-                              v
-PRODUCTIVITY.
-                              |
-                              v
-REAL
-EARNINGS.
-                              |
-                              v
-SECURITY.
-                              |
-                              v
-WORKING
-CONDITIONS.
-                              |
-                              v
-FORMAL
-COVERAGE.
-                              |
-                              v
-MOBILITY.
-                              |
-                              v
-VOICE /
-BARGAINING.
-                              |
-                              v
-EMPLOYED
-!= adequately employed.
-                              |
-                              v
-                BRANCH V: PRODUCTIVITY-JOBS LINK
-CAPITAL /
-TECHNOLOGY /
-SKILLS.
-                              |
-                              v
-OUTPUT
-PER WORKER.
-                              |
-                              v
-FIRM
-COMPETITIVENESS.
-                              |
-                              v
-OUTPUT
-EXPANSION.
-                              |
-                              v
-LABOUR
-DEMAND
-depends on
-elasticity /
-sector.
-                              |
-                              v
-REAL
-WAGES
-depend on
-bargaining /
-institutions.
-                              |
-                              v
-PRODUCTIVITY
-GROWTH
-does not guarantee
-job growth.
-                              |
-                              v
-LABOUR-INTENSIVE
-SECTORS
-matter.
-                              |
-                              v
-                BRANCH VI: HUMAN-CAPITAL CHAIN
-HEALTH.
-                              |
-                              v
-NUTRITION.
-                              |
-                              v
-FOUNDATIONAL
-LEARNING.
-                              |
-                              v
-GENERAL
-EDUCATION.
-                              |
-                              v
-VOCATIONAL
-SKILL.
-                              |
-                              v
-WORK
-EXPERIENCE /
-APPRENTICESHIP.
-                              |
-                              v
-PRODUCTIVE
-MATCH.
-                              |
-                              v
-EARNINGS /
-ADAPTABILITY.
-                              |
-                              v
-CERTIFICATE
-alone
-!= human-capital outcome.
-                              |
-                              v
-                BRANCH VII: PMKVY
-PRADHAN MANTRI
-KAUSHAL VIKAS
-YOJANA.
-                              |
-                              v
-SKILL INDIA
-MISSION.
-                              |
-                              v
-SHORT-DURATION
-TRAINING.
-                              |
-                              v
-ASSESSMENT.
-                              |
-                              v
-CERTIFICATION.
-                              |
-                              v
-NSQF
-alignment.
-                              |
-                              v
-EMPLOYER
-RECOGNITION /
-DEMAND.
-                              |
-                              v
-PLACEMENT /
-RETENTION /
-WAGE GAIN
-must be measured.
-                              |
-                              v
-ENROLLED
-!= employed.
-                              |
-                              v
-                BRANCH VIII: CERTIFICATION-OUTCOME LADDER
-ENROLLED.
-                              |
-                              v
-TRAINED.
-                              |
-                              v
-ASSESSED.
-                              |
-                              v
-CERTIFIED.
-                              |
-                              v
-PLACED.
-                              |
-                              v
-RETAINED.
-                              |
-                              v
-REAL-WAGE
-GAIN.
-                              |
-                              v
-CAREER
-MOBILITY.
-                              |
-                              v
-EACH TRANSITION
-needs evidence.
-                              |
-                              v
-TRAINING SUPPLY
-must match
-job demand.
-                              |
-                              v
-                BRANCH IX: DEMOGRAPHIC DIVIDEND
-WORKING-AGE
-SHARE RISES.
-                              |
-                              v
-DEPENDENCY
-RATIO FALLS.
-                              |
-                              v
-POTENTIAL
-SAVING /
-LABOUR SUPPLY.
-                              |
-                              v
-x HEALTH /
-EDUCATION.
-                              |
-                              v
-x PARTICIPATION.
-                              |
-                              v
-x PRODUCTIVE
-JOBS.
-                              |
-                              v
-x PRODUCTIVITY.
-                              |
-                              v
-= DEMOGRAPHIC
-DIVIDEND.
-                              |
-                              v
-YOUNG POPULATION
-alone
-does not guarantee dividend.
-                              |
-                              v
-WINDOW
-is time-bound.
-                              |
-                              v
-                BRANCH X: AGEING-BEFORE-RICH RISK
-WORKING-AGE
-SHARE
-eventually peaks.
-                              |
-                              v
-AGEING
-raises dependency.
-                              |
-                              v
-PENSION /
-HEALTH /
-CARE
-cost.
-                              |
-                              v
-IF
-jobs /
-productivity /
-human capital
-lag,
-income may remain low.
-                              |
-                              v
-DEMOGRAPHIC WINDOW
-can close
-before prosperity.
-                              |
-                              v
-                BRANCH XI: FEMALE LFPR
-EDUCATION.
-                              |
-                              v
-CARE
-BURDEN.
-                              |
-                              v
-SAFETY.
-                              |
-                              v
-MOBILITY.
-                              |
-                              v
-SOCIAL
-NORMS.
-                              |
-                              v
-WAGE /
-JOB
-AVAILABILITY.
-                              |
-                              v
-RURAL /
-URBAN
-PATTERN.
-                              |
-                              v
-RISING
-headline LFPR
-may include
-unpaid family /
-low-productivity work.
-                              |
-                              v
-QUALITY
-must be checked.
-                              |
-                              v
-                BRANCH XII: CARE ECONOMY
-CHILDCARE.
-                              |
-                              v
-ELDERCARE.
-                              |
-                              v
-COOKING /
-CLEANING.
-                              |
-                              v
-PAID
-CARE SERVICES.
-                              |
-                              v
-UNPAID
-HOUSEHOLD CARE.
-                              |
-                              v
-TIME
-CONSTRAINT.
-                              |
-                              v
-ENABLES
-MONETISED ECONOMY.
-                              |
-                              v
-OUTSIDE
-SNA /
-GDP boundary
-does not mean
-no economic value.
-                              |
-                              v
-3R:
-recognise,
-reduce,
-redistribute.
-                              |
-                              v
-                BRANCH XIII: TIME-USE EVIDENCE
-TIME USE
-IN INDIA
-2019.
-                              |
-                              v
-WOMEN
-about 299 minutes
-daily
-unpaid domestic services.
-                              |
-                              v
-MEN
-about 97 minutes.
-                              |
-                              v
-PARTICIPATION:
-women 81.2 percent.
-                              |
-                              v
-men 26.1 percent.
-                              |
-                              v
-SURVEY-BASED /
-SELF-REPORTED.
-                              |
-                              v
-2019
-VINTAGE.
-                              |
-                              v
-DO NOT
-assume later trend.
-                              |
-                              v
-                BRANCH XIV: CARE INFRASTRUCTURE
-ANGANWADI.
-                              |
-                              v
-CRECHE.
-                              |
-                              v
-ELDERCARE.
-                              |
-                              v
-HEALTH /
-SOCIAL
-CARE.
-                              |
-                              v
-REDUCES
-UNPAID TIME
-constraint.
-                              |
-                              v
-CREATES
-CARE JOBS.
-                              |
-                              v
-ANGANWADI
-WORKERS /
-HELPERS
-often honorary /
-volunteer category,
-not regular formal employees.
-                              |
-                              v
-CARE EXPANSION
-must improve
-job quality too.
-                              |
-                              v
-                BRANCH XV: FOUR LABOUR CODES
-CODE ON WAGES
-2019.
-                              |
-                              v
-INDUSTRIAL
-RELATIONS CODE
-2020.
-                              |
-                              v
-CODE ON
-SOCIAL SECURITY
-2020.
-                              |
-                              v
-OSHWC CODE
-2020.
-                              |
-                              v
-CONSOLIDATE
-29 CENTRAL
-LABOUR LAWS.
-                              |
-                              v
-LABOUR
-CONCURRENT LIST.
-                              |
-                              v
-CENTRAL /
-STATE
-RULES /
-ENFORCEMENT.
-                              |
-                              v
-                BRANCH XVI: IMPLEMENTATION STATUS
-ENACTED
-2019-2020.
-                              |
-                              v
-NOTIFIED
-COMMENCEMENT
-21 November 2025
-in source.
-                              |
-                              v
-FINAL
-CENTRAL RULES
-May 2026.
-                              |
-                              v
-STATE
-RULE NOTIFICATION /
-ENFORCEMENT
-varies.
-                              |
-                              v
-CENTRAL
-COMMENCEMENT
-!= uniform
-pan-India readiness.
-                              |
-                              v
-CURRENT STATUS
-must be dated.
-                              |
-                              v
-                BRANCH XVII: CODE MERITS
-SIMPLIFICATION.
-                              |
-                              v
-COMMON
-DEFINITIONS.
-                              |
-                              v
-WAGE
-COVERAGE.
-                              |
-                              v
-FORMALISED
-COMPLIANCE.
-                              |
-                              v
-SOCIAL
-SECURITY
-architecture.
-                              |
-                              v
-GIG /
-PLATFORM
-recognition.
-                              |
-                              v
-SAFETY /
-WORKING
-CONDITIONS.
-                              |
-                              v
-EASE
-OF BUSINESS.
-                              |
-                              v
-                BRANCH XVIII: CODE CONCERNS
-THRESHOLD
-EFFECTS.
-                              |
-                              v
-FIRM
-AVOIDANCE /
-STAYING SMALL.
-                              |
-                              v
-HIRING /
-RETRENCHMENT
-BALANCE.
-                              |
-                              v
-COLLECTIVE
-BARGAINING.
-                              |
-                              v
-SOCIAL-SECURITY
-FUNDING.
-                              |
-                              v
-GIG
-EMPLOYER /
-AGGREGATOR
-CONTRIBUTION.
-                              |
-                              v
-STATE
-CAPACITY /
-INSPECTION.
-                              |
-                              v
-LEGAL
-TRANSITION
-UNCERTAINTY.
-                              |
-                              v
-                BRANCH XIX: FIXED-TERM / CASUAL / CONTRACT
-FIXED-TERM
-EMPLOYMENT
-defined duration.
-                              |
-                              v
-ENTITLEMENT
-parity rules
-as law provides.
-                              |
-                              v
-CASUAL
-WORKER
-engaged intermittently /
-without regular status.
-                              |
-                              v
-CONTRACT
-LABOUR
-through contractor.
-                              |
-                              v
-LEGAL
-STATUS /
-EMPLOYER
-RESPONSIBILITY
-must be identified.
-                              |
-                              v
-FLEXIBILITY
-!= absence
-of wage /
-social-security rights.
-                              |
-                              v
-                BRANCH XX: GIG / PLATFORM WORK
-TASK
-MATCHING.
-                              |
-                              v
-ALGORITHMIC
-ALLOCATION.
-                              |
-                              v
-RATINGS.
-                              |
-                              v
-DYNAMIC
-PRICING.
-                              |
-                              v
-FLEXIBLE
-ENTRY /
-HOURS.
-                              |
-                              v
-VARIABLE
-EARNINGS /
-DEMAND RISK.
-                              |
-                              v
-EMPLOYMENT
+LABOUR-MARKET ACCOUNTING
+|- labour force = employed + unemployed seeking/available
+|- LFPR = labour force / specified population
+|- WPR = employed / specified population
+`- UR = unemployed / labour force
+
+REFERENCE PERIODS
+|- usual status ps+ss -> 365 days; structural picture
+|- CWS -> seven days; one hour work qualifies
+`- CDS -> person-days; best for partial underemployment
+PLFS REDESIGN -> from January 2025: monthly CWS and rural+urban quarterly reporting
+
+UNEMPLOYMENT
+|- open -> seeking/available, no work
+|- disguised unemployment -> surplus labour, near-zero marginal product
+|- seasonal -> predictable calendar gap
+|- structural -> skill/occupation/location mismatch
+|- frictional -> search transition
+|- cyclical -> aggregate-demand weakness
+`- underemployment -> too few hours or skill underuse despite work
+
+PLFS 2025 | AGE 15+ | USUAL STATUS ps+ss
+|- LFPR 59.3% | WPR 57.4% | UR 3.1%
+|- female LFPR 40.0% | female WPR 38.8%
+|- self-employed 56.2% | regular wage/salaried 23.6% | casual 20.2%
+|- youth age 15-29 UR 9.9%: rural 8.3%, urban 13.6%
+`- formal vocational training: age 15-59 4.2%; age 15-29 5.0%
+
+PLFS JULY 2026 | AGE 15+ | CWS
+|- LFPR 55.4% | WPR 52.5% | UR 5.1%
+`- female LFPR 34.4%
+CAUTION -> monthly CWS is not directly comparable with annual usual status
+
+EMPLOYMENT QUALITY
+quantity -> hours -> real earnings -> contract -> security -> safety -> productivity
+Formal job != organised enterprise.
+Wage formalisation != employment formalisation != social-security coverage.
+Employment elasticity = % employment growth / % output growth.
+Jobless growth = period-specific weak employment response to output, not literally zero jobs.
+
+PARTICIPATION AND MOBILITY
+|- care economy -> paid + unpaid care; recognise, reduce and redistribute unpaid work
+|- migration -> match workers to places, with housing and portable rights
+|- urban employment -> firms + public investment + transport + housing + childcare
+`- female participation -> test care, safety, mobility, norms, job design and earnings
+
+DEMOGRAPHIC DIVIDEND
+favourable age structure
+-> health + foundational learning
+-> female/youth participation
+-> productive jobs
+-> saving + investment + productivity
+WINDOW -> differs across states and later becomes ageing pressure
+
+SKILL CHAIN
+education -> TVET -> PMKVY / RPL -> apprenticeship / PM-NAPS -> job
+|- NSDC -> ecosystem implementation
+|- Sector Skill Councils -> occupational standards
+|- PMKVY 4.0 -> Short-Term Training + RPL + Special Projects
+|- NAPS-2 -> 25% stipend support, max Rs 1,500/apprentice/month
+`- evaluate placement + retention + real wage, not certificates alone
+DATED STATUS -> Skill India umbrella approved 7 Feb 2025:
+Rs 8,800 crore for FY2022-23 to FY2025-26; 27.24 lakh PMKVY 4.0
+trainees reported at 31 Mar 2026; neither figure proves placement
+
+FOUR LABOUR CODES
+|- Code on Wages, 2019
+|- Industrial Relations Code, 2020
+|- Code on Social Security, 2020
+`- OSHWC Code, 2020
+Together -> 29 central labour laws
+
 STATUS
-ambiguity.
-                              |
-                              v
-PORTABLE
+|- commencement notifications: 21 November 2025
+|- final Central Rules GSR 342(E)-345(E): 8 May 2026
+|- Wages and Social Security notices list specified provisions
+|- labour is Concurrent List
+`- 32 States/UTs had published draft rules in Economic Survey 2025-26;
+   draft status != uniform final enforcement
+
+KEY CODE MECHANISMS
+|- Wages -> floor wage below which applicable minimum wages cannot fall
+|- IR -> negotiating union/council; 300-worker standing-order and specified permission thresholds
+|- Social Security -> EPF/ESI/gratuity/maternity + unorganised/gig enabling schemes
+|- aggregator contribution -> 1-2% annual turnover, capped at 5% worker payments
+`- OSHWC -> safety/conditions, contract labour, migrants, women night work with consent/safeguards
+
 SOCIAL SECURITY
-need.
-                              |
-                              v
-PLATFORM ECONOMICS
-detail:
-Topic 24.
-                              |
-                              v
-                BRANCH XXI: INFLATION-EMPLOYMENT LINK
-INFLATION
-erodes
-REAL WAGES.
-                              |
-                              v
-LOWER
-PURCHASING POWER.
-                              |
-                              v
-WEAKER
-CONSUMPTION DEMAND.
-                              |
-                              v
-LABOUR-INTENSIVE
-SECTOR EFFECT.
-                              |
-                              v
-RATE HIKES
-may reduce
-demand /
-job creation.
-                              |
-                              v
-WELFARE
-SCHEMES
-cushion shocks.
-                              |
-                              v
-DO NOT
-create durable
-productive jobs alone.
-                              |
-                              v
-                BRANCH XXII: LIMITATIONS
-SKILL-
-JOB MISMATCH.
-                              |
-                              v
-LOW
-FEMALE PARTICIPATION.
-                              |
-                              v
-INFORMALITY.
-                              |
-                              v
-LOW
-REAL-WAGE
-GROWTH.
-                              |
-                              v
-UNDEREMPLOYMENT.
-                              |
-                              v
-REGIONAL
-MISMATCH.
-                              |
-                              v
-CARE
-BURDEN.
-                              |
-                              v
-STATE
-ENFORCEMENT
-VARIATION.
-                              |
-                              v
-AUTOMATION /
-CLIMATE
-TRANSITION.
-                              |
-                              v
-                BRANCH XXIII: WAY FORWARD
-FOUNDATIONAL
-HEALTH /
-LEARNING.
-                              |
-                              v
-DEMAND-LINKED
-SKILLS.
-                              |
-                              v
-APPRENTICESHIP.
-                              |
-                              v
-LABOUR-INTENSIVE
-MANUFACTURING /
-SERVICES.
-                              |
-                              v
-CARE
-INFRASTRUCTURE.
-                              |
-                              v
-SAFE
-MOBILITY.
-                              |
-                              v
-PORTABLE
-SOCIAL SECURITY.
-                              |
-                              v
-BETTER
-LABOUR-MARKET
-INFORMATION.
-                              |
-                              v
-STATE
-ENFORCEMENT
-CAPACITY.
-                              |
-                              v
-MEASURE
-RETENTION /
-REAL WAGES,
-not certificates.
-                              |
-                              v
-                    DATA / POLICY / EXAMPLE BANK
-PLFS
-UPS /
-UPSS /
-CWS /
-CDS.
-                              |
-                              v
-PMKVY /
-NSQF.
-                              |
-                              v
-Second National Commission
-on Labour 2002.
-                              |
-                              v
-four Labour Codes.
-                              |
-                              v
-e-Shram /
-EPFO /
-ESIC.
-                              |
-                              v
-Time Use Survey 2019.
-                              |
-                              v
-                    SOURCE CRITICISM
-outside labour force != unemployed;
-UR denominator != population;
-employment != adequate work;
-usual status != weekly /
-daily;
-certificate != placement /
-retention;
-young population != dividend;
-female LFPR rise != quality-job rise;
-unpaid care outside GDP != valueless;
-Code enacted != uniform implementation;
-gig recognition != funded universal protection.
-                              |
-                              v
-                    MAJOR DEBATES
-FLEXIBILITY
-OR SECURITY?
-portable floors
-plus adaptable contracts.
-                              |
-                              v
-SKILLS
-OR JOBS?
-demand-linked ecosystem.
-                              |
-                              v
-FORMALISATION
-OR EMPLOYMENT?
-reduce compliance cost
-without eroding rights.
-                              |
-                              v
-DEMOGRAPHY
-DIVIDEND OR BURDEN?
-conversion conditions.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-LFPR denominator is population;
-UR denominator is labour force;
-PLFS reference period matters;
-structural != cyclical unemployment;
-disguised labour can be removed
-without output fall;
-four Codes subsume 29 laws;
-labour is Concurrent List;
-care work exclusion is accounting boundary;
-PMKVY certification is not employment.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT MAINS:
-2022 productivity-led
-job creation;
-2023 structural unemployment /
-measurement;
-2023 care economy
-versus monetised economy;
-2024 Labour Codes.
-                              |
-                              v
-CROSS-COMPLETED:
-2022 inflation /
-unemployment
-beyond welfare;
-2023 skills,
-education
-and employment.
-Mains has no objective answer key.
-                              |
-                              v
-PRELIMS:
-human capital;
-PMKVY;
-fixed-term work;
-casual workers;
-industrial-dispute
-statistics agency.
-Official historical keys
-unavailable locally.
-No option or answer letter
-is inferred.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-LFPR /
-WPR /
-UR
--> PLFS periods
--> unemployment types
--> job quality
--> skills ladder
--> demographic window
--> female LFPR /
-care
--> four Codes
--> work categories /
-protection.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-DEFINE
-indicator /
-denominator /
-reference.
-                              |
-                              v
-DIAGNOSE
-unemployment /
-quality problem.
-                              |
-                              v
-TRACE
-health-skill-job
-conversion.
-                              |
-                              v
-ADD
-law /
-institution /
-gender-care
-dimension.
-                              |
-                              v
-QUALIFY
-measurement /
-implementation.
-                              |
-                              v
-CONCLUDE
-productive jobs,
-real earnings,
-portable protection.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-India's demographic advantage is a narrowing opportunity, not an automatic
-dividend. Policy must move beyond training and headline unemployment toward
-productive matching, real earnings, women's participation, care infrastructure
-and portable security across formal, casual and platform work. Labour-law
-codification will matter only when state rules and enforcement make rights
-operational.
+|- EPFO -> EPF + EPS + EDLI
+|- ESIC -> medical + sickness/maternity/disablement cash benefits
+`- e-Shram -> 31.89+ crore registrations at 26 Aug 2026;
+   registration != automatic benefit
 ```
+
+## Acronym and institution decoder
+
+| Term | Meaning |
+|---|---|
+| PLFS / MoSPI | Periodic Labour Force Survey / Ministry of Statistics and Programme Implementation |
+| LFPR / WPR / UR | Labour Force Participation Rate / Worker Population Ratio / Unemployment Rate |
+| ps+ss / CWS / CDS | Principal plus subsidiary status / Current Weekly Status / Current Daily Status |
+| TVET / RPL | Technical and Vocational Education and Training / Recognition of Prior Learning |
+| MSDE / NSDC / SSC | Ministry of Skill Development and Entrepreneurship / National Skill Development Corporation / Sector Skill Council |
+| PMKVY / PM-NAPS / JSS | Pradhan Mantri Kaushal Vikas Yojana / Pradhan Mantri National Apprenticeship Promotion Scheme / Jan Shikshan Sansthan |
+| EPFO / EPF / EPS / EDLI | Employees' Provident Fund Organisation / Provident Fund / Pension Scheme / Deposit Linked Insurance |
+| ESIC | Employees' State Insurance Corporation |
+| OSHWC | Occupational Safety, Health and Working Conditions |
+| UAN | Universal Account Number; context distinguishes EPFO and e-Shram usage |
+| IR / G.S.R. | Industrial Relations / General Statutory Rules Gazette notification |
+
+## Prelims traps
+
+| Trap | Correction |
+|---|---|
+| Outside labour force means unemployed | Unemployment is measured within the labour force |
+| LFPR is employment rate | WPR measures employed persons relative to population |
+| CWS one-hour rule proves full employment | It establishes weekly employed status only |
+| Low UR proves a strong market | Check LFPR, WPR, hours and earnings |
+| Self-employed means entrepreneur | Category also includes own-account and unpaid household helpers |
+| Registered enterprise means formal job | Enterprise and job formality differ |
+| Training count means placement | Follow completion, placement, retention and wages |
+| Young population means dividend | Health, participation and productive jobs must convert it |
+| Codes enacted in 2019-20 were automatically fully operational | Commencement, rules and enforcement are separate |
+| Floor wage equals every minimum wage | Appropriate governments notify rates not below the floor |
+| Fixed-term employee equals contract labour | Fixed-term is direct employment; contract labour is triangular |
+| e-Shram registrant equals beneficiary | It is a registry and linkage platform |
+
+## Mains answer spine
+
+1. Define the indicator or legal category and its denominator/perimeter.
+2. State reference period, age group, jurisdiction and dated status.
+3. Diagnose participation, demand, mismatch, underemployment or protection failure.
+4. Trace the mechanism through firms, workers, households and state capacity.
+5. Balance flexibility with wages, voice, safety, portable security and reskilling.
+6. Measure quantity, hours, real earnings, security, productivity and inclusion.
+7. Conclude with employment-rich structural transformation, not scheme listing.
+
+**Boundary:** Poverty/inclusion belongs Topic 23 | platform-market structure Topic 24 | MSME tools Topic 17 | inflation mechanics Topic 3.

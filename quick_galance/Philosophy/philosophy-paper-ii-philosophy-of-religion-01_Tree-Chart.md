@@ -31,7 +31,13 @@ NOTIONS OF GOD: PERSONAL, IMPERSONAL, TRANSCENDENT AND IMMANENT
 |   +-- One God; necessary, eternal, self-existent, omnipotent, omniscient, perfectly good.
 |   +-- Personal: knows, wills, loves and acts intentionally.
 |   +-- Creator and sustainer distinct from world.
+|   +-- Creation from nothing (creatio ex nihilo) = no material co-principle; dependence is
+|       continuous, and primary divine causation does not compete with secondary natural causes.
 |   +-- Immanent through sustaining presence; transcendent because not exhausted by creation.
+|   +-- Six role-profiles, not synonyms: creator | sustainer | providential ruler |
+|       moral governor | ground of being (Tillich: revisionary) | absolute.
+|   +-- Trap: one-God belief (monotheism) is only the counting claim; it supplies none of
+|       necessity, creation, simplicity, immutability or perfect goodness.
 |   +-- Problems: attribute coherence, evil, freedom/foreknowledge and anthropomorphism.
 |
 +-- II. DEISM / PANTHEISM / PANENTHEISM
@@ -41,12 +47,19 @@ NOTIONS OF GOD: PERSONAL, IMPERSONAL, TRANSCENDENT AND IMMANENT
 |   +-- Process model: God/world internally related; persuasive rather than coercive power.
 |   +-- Trap: panentheism is neither classical theism nor pantheism.
 |
-+-- III. MONOTHEISM / POLYTHEISM / HENOTHEISM / MONISM
++-- III. MONOTHEISM / POLYTHEISM / HENOTHEISM / MONOLATRY / MONISM
 |   +-- Monotheism: one divine personal ultimate.
 |   +-- Polytheism: many distinct gods with spheres/powers.
-|   +-- Henotheism/kathenotheism: devotion to one deity as supreme without categorical denial
-|       of others.
+|   +-- Henotheism/kathenotheism: the invoked deity addressed as supreme, one at a time,
+|       without denial of the others; terms introduced by F. Max Muller for the Rgvedic pattern.
+|   +-- Monolatry: worship restricted to one deity while others may exist.
 |   +-- Monism: reality ultimately one; may be impersonal and is not synonymous with monotheism.
+|   +-- Evidence for the 2018 verdict: RV 1.164.46 (one existent, many names) | RV 10.129
+|       Nasadiya (the One; even the overseer may not know) | Brhadaranyaka 3.9 (pantheon
+|       reduced to one) | istadevata | avatara and trimurti | Vaisnava/Saiva/Sakta theisms
+|       are each monotheistic in form.
+|   +-- Criterion first: plurality of ULTIMATES vs plurality of names, forms and access-points;
+|       and say that the category itself is imported from the Abrahamic dispute.
 |   +-- Hindu traditions can combine many divine forms with one underlying reality or supreme
 |       deity; answer must specify level/tradition.
 |
@@ -60,21 +73,32 @@ NOTIONS OF GOD: PERSONAL, IMPERSONAL, TRANSCENDENT AND IMMANENT
 +-- V. ATTRIBUTES
 |   +-- Aseity: depends on nothing else.
 |   +-- Necessity: cannot fail to exist.
-|   +-- Eternity: timeless or everlasting, interpretations differ.
-|   +-- Simplicity: no metaphysical composition.
-|   +-- Omnipotence: power to do all logically possible acts consistent with nature.
+|   +-- Eternity: timeless possession of life or everlasting duration; readings differ.
+|   +-- Simplicity: no metaphysical composition (Aquinas, ST I qq.3-13); essence = existence.
+|   +-- Omnipotence: power over the absolutely possible (ST I q.25 a.3); contradictions name
+|       no possible object; Mackie's first-order vs second-order power; Descartes is the
+|       outlier who makes even the eternal truths depend on divine will.
 |   +-- Omniscience: knowledge of all truths.
 |   +-- Perfect goodness: no moral defect.
-|   +-- Immutability/impassibility: no change or passive suffering in classical account.
+|   +-- Immutability/impassibility: no intrinsic change or passive suffering in classical account.
+|   +-- Personhood: intelligence, will, love and addressability, predicated analogically,
+|       without body or sex.
+|   +-- Indian parity of simplicity: sat-cit-ananda as svarupa-laksana (essential mark) vs
+|       tatastha-laksana (relational mark, janmady asya yatah); Ramanuja demands savisesa;
+|       Madhva uses visesa, a real distinguisher inside a partless substance.
 |
 +-- VI. COHERENCE PROBLEMS
 |   +-- Stone paradox: logically contradictory tasks do not define genuine powers.
 |   +-- Freedom/foreknowledge:
-|       +-- If God infallibly knows future act, can agent do otherwise?
-|       +-- Timeless-knowledge reply: knowledge does not cause choice.
-|       +-- Ockhamist/open-theist alternatives revise past necessity/future truth.
+|       +-- Premises: infallible past belief -> fixity of the past -> no alternatives.
+|       +-- Boethian/Thomist eternity: no *fore*knowledge; cost = responsiveness.
+|       +-- Ockhamism: soft facts about the past; cost = non-circular hard/soft criterion.
+|       +-- Molinism: middle knowledge (scientia media); cost = grounding objection.
+|       +-- Open theism: future contingents not yet true; cost = amended omniscience.
+|       +-- Indian parity: Nyaya allots fruits according to adrsta, preserving purusakara;
+|           Gita 18.61 (yantra) held with 18.63 (act as you wish); Ramanuja's anumati.
 |   +-- Omnipotence/goodness/evil: ability plus goodness intensifies evil problem.
-|   +-- Simplicity/personhood: real knowledge/will relations seem to imply distinctions.
+|   +-- Simplicity/personhood: modal collapse; Plantinga's property-vs-person objection.
 |   +-- Immutability/love: responsive relation appears to require change.
 |
 +-- VII. IMMANENCE / TRANSCENDENCE
@@ -95,35 +119,54 @@ NOTIONS OF GOD: PERSONAL, IMPERSONAL, TRANSCENDENT AND IMMANENT
 |   +-- Reply: intellectual love of God and necessity replace superstition.
 |
 +-- IX. ADVAITA
-|   +-- Nirguṇa Brahman: non-dual, attributeless in limiting sense, ultimate.
-|   +-- Saguṇa Īśvara: Brahman associated with māyā, creator/ruler within empirical reality.
+|   +-- Nirguṇa Brahman: non-dual, free of limiting predicates, ultimate (pāramārthika);
+|       sat-cit-ānanda as essential nature, not three added properties.
+|   +-- Method: neti neti (Bṛhadāraṇyaka 2.3.6); limit of speech, yato vāco nivartante
+|       (Taittirīya 2.9); ātman is Brahman (Tat tvam asi, Chāndogya 6.8.7).
+|   +-- Saguṇa Īśvara: Brahman associated with māyā, creator/ruler within empirical reality
+|       (vyāvahārika); world is vivarta, apparent transformation (rope-snake).
+|   +-- Terminology control: anirvacanīya marks māyā and the world-appearance, NOT Brahman,
+|       whose ineffability is the failure of predication (avācya).
 |   +-- Theism has genuine soteriological/empirical place but is sublated in non-dual knowledge.
 |   +-- Objection: nirguṇa empties religious God.
 |   +-- Reply: negation removes finite predicates, not reality/consciousness.
 |
 +-- X. VIŚIṢṬĀDVAITA
 |   +-- Brahman/Nārāyaṇa is personal and necessarily possessed of auspicious qualities.
-|   +-- Selves and world are real modes/body of God.
+|   +-- Selves (cit) and world (acit) are real modes and body of God; the world is God's
+|       real transformation (pariṇāma), not an appearance.
+|   +-- Śarīra-śarīrī: body-and-self relation; God is the inner controller (antaryāmin).
 |   +-- Apṛthaksiddhi: inseparable dependence without identity.
 |   +-- God is both immanent indweller and transcendent whole/controller.
+|   +-- Path: knowledge -> action -> bhakti -> prapatti (surrender) -> grace.
 |   +-- Self remains distinct and dependent in liberation.
 |
-+-- XI. NYĀYA / OTHER INDIAN PROFILES
-|   +-- Nyāya Īśvara: one eternal omniscient self, efficient cause/arranger, karmic allocator
-|       and Vedic authority; not material cause.
-|   +-- Sāṃkhya: classical nirīśvara dualism; no creator needed.
-|   +-- Yoga: special Puruṣa untouched by affliction/karma, chiefly liberating aid.
++-- XI. NYAYA / OTHER INDIAN PROFILES
+|   +-- Nyaya Isvara: one eternal omniscient incorporeal self, efficient/ordering cause
+|       (nimitta-karana), karmic allocator (adrsta) and Vedic authority; NOT material cause.
+|   +-- Samkhya: classical nirisvara dualism; no creator needed.
+|   +-- Yoga: special Purusa (purusa-visesa) untouched by affliction/karma, archetypal teacher.
+|   +-- Mimamsa: eternal Veda, ritual order and unseen potency without a required divine author.
 |   +-- Jainism: no creator; perfected omniscient liberated beings.
 |   +-- Buddhism: creator rejected; ultimate analysis varies by school.
-|   +-- Śaiva/Śākta traditions: consciousness/divine power and manifestation, internally diverse.
+|   +-- Parity bench for "any one Indian religion" (2019): Saiva Siddhanta pati-pasu-pasa,
+|       bonds anava/karma/maya, panca-krtya, liberation siva-tulya | Kashmir Saivism
+|       prakasa+vimarsa, abhasa, svatantrya, pratyabhijna | Sakta: Sakti as the dynamic
+|       divine itself (Devi-Mahatmya) | Madhva: svatantra-paratantra, panca-bheda,
+|       bimba-pratibimba (dependence, not identity), taratamya.
+|   +-- Control: non-theistic does not mean irreligious or morally empty.
 |
 +-- XII. PHYSICAL MANIFESTATION
-|   +-- Ultimate cause need not possess a finite body.
+|   +-- Separate four notions: descent/appearance (avatara) | embodiment | material causation |
+|       metaphysical dependence. Ultimacy requires only the last.
+|   +-- Ultimate cause need not possess a finite body; physical form would compromise
+|       non-dependence.
 |   +-- Classical theism: immaterial agent causes/sustains physical world.
-|   +-- Incarnation/avatāra concerns manifestation, not necessary embodiment of divine essence.
+|   +-- Ramanuja: world as God's "body" states dependence, not anthropomorphic form.
 |   +-- Pantheism/qualified non-dualism offer different world-presence accounts.
 |   +-- Objection: causation without shared physical relation is obscure.
-|   +-- Reply: agency and ontological dependence need not be mechanical contact.
+|   +-- Reply: agency and ontological dependence need not be mechanical contact; and
+|       "we know causes through effects" is epistemic, not a claim about being.
 |
 +-- XIII. GENDERED / ANALOGICAL GOD-LANGUAGE
 |   +-- Masculine imagery can reflect and reinforce social hierarchy.
@@ -146,12 +189,18 @@ NOTIONS OF GOD: PERSONAL, IMPERSONAL, TRANSCENDENT AND IMMANENT
 |
 +-- HIGH-RISK CONCEPTUAL TRAPS
 |   +-- Monism is not monotheism; polytheism is not automatically metaphysical pluralism.
-|   +-- Henotheism is not simple monotheism; deism is not atheism.
-|   +-- Pantheism is not panentheism; immanence is not identity.
-|   +-- Nirguṇa is not non-being; saguṇa is not unreal in every Vedānta.
+|   +-- Monotheism is not classical theism: counting one God supplies no attribute package.
+|   +-- Henotheism is not simple monotheism; monolatry is about worship, not ontology;
+|       deism is not atheism.
+|   +-- Pantheism is not panentheism; immanence is not identity; transcendence is not distance.
+|   +-- Nirguṇa is not non-being; anirvacanīya belongs to māyā, not to Brahman.
+|   +-- Apṛthaksiddhi is not identity; bimba-pratibimba is dependence, not identity.
+|   +-- Śaiva Siddhānta (dualistic) must not be merged with Kashmir Śaivism (non-dual).
 |   +-- Nyāya God is efficient, not material cause; Yoga God is not Nyāya creator by default.
 |   +-- Omnipotence excludes pseudo-tasks generated by contradiction.
-|   +-- Foreknowledge is not itself causal compulsion, though modal tension remains.
+|   +-- Foreknowledge is not itself causal compulsion, though modal tension remains; name the
+|       premise you deny instead of asserting timelessness.
+|   +-- Simplicity is not "God is uncomplicated"; it denies composition and costs modal freedom.
 |
 +-- AUTHORITATIVE PYQ OWNERSHIP / ROUTING
 |   +-- Direct verified 2018–2024 corpus: 13 owned questions; no direct 2025 owner.

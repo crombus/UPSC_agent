@@ -1,1806 +1,425 @@
 # Philosophy Optional — Paper I — Western Philosophy 09 — Phenomenology (Husserl)
 
+> **Quick-glance revision tree.** Concise and revision-oriented. It does not
+> duplicate the complete learning session, the ASCII master flow diagram or the
+> graphical at-a-glance package; it is the thirty-second refresher that carries
+> the central thesis, the exact examinable data, the traps and the PYQ answer
+> routes.
+> **Syllabus, verbatim:** *Phenomenology (Husserl): Method; Theory of Essences; Avoidance of Psychologism.*
+> **Terminology and citation:** English concept first, source term immediately after in parentheses — *natural attitude (natürliche Einstellung)*, *general thesis (Generalthesis)*, *suspension (epoché)*, *bracketing (Einklammerung)*, *essence (Wesen, eidos)*, *intuition of essences (Wesensschau)*, *profile (Abschattung)*, *lived body (Leib)*, *appresentation (Appräsentation)*, *life-world (Lebenswelt)*. *Ideas I* is cited by **§ number**, stable across the Boyce Gibson (1931) and Kersten (1982) translations; the *Logical Investigations* are cited **by volume**. Several texts are posthumous in whole or in part, and the dates are examinable.
+
 ## Quick-Glance Tree Chart
 
 ```text
-PHENOMENOLOGY: EDMUND HUSSERL
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Husserl seeks a presuppositionless rigorous science of how things are given to
-consciousness. The epoché suspends, rather than denies, the natural attitude's
-existence-positing and redirects inquiry to intentional experience. Eidetic variation
-discloses invariant essences; transcendental reflection examines how object-sense and
-validity are constituted. Anti-psychologism preserves the ideal necessity of logic
-against reduction to contingent mental events. Phenomenology is thus correlational:
-consciousness is always of something, while objects appear through profiles, horizons
-and intersubjectively confirmable syntheses.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-natural attitude /
-general thesis;
-epoché /
-bracketing;
-phenomenological /
-eidetic /
-transcendental
-reductions;
-intentionality;
-noesis /
-noema;
-hyle /
-morphe;
-profiles /
-horizons /
-fulfilment;
-inner time-
-consciousness;
-transcendental ego;
-life-world;
-essences /
-imaginative variation /
-Wesensschau /
-regional ontology;
-psychologism /
-anti-psychologism;
-intersubjectivity /
-pairing /
-appresentation.
-                              |
-                              v
-DOES NOT OWN:
-Heideggerian
-being-in-world:
-Topic 10;
-Sartrean consciousness:
-Topic 10;
-full Frege;
-full logic;
-complete Merleau-Ponty /
-Levinas systems.
-                              |
-                              v
-SOURCE DEVELOPMENT:
-Philosophy of
-Arithmetic,
-1891.
-                              |
-                              v
-Logical Investigations,
-1900-1901.
-                              |
-                              v
-Ideas I,
-1913.
-                              |
-                              v
-time-consciousness
-lectures 1893-1917,
-published 1928.
-                              |
-                              v
-Cartesian Meditations,
-French 1931 /
-German 1950.
-                              |
-                              v
-Crisis,
-Parts I-II 1936 /
-full 1954.
-                              |
-                              v
-SOURCE CAUTION:
-Husserl's programme
-develops;
-do not project
-Ideas vocabulary
-unchanged into
-Logical Investigations.
-                              |
-                              v
-              BRANCH I: PROGRAMME
-philosophy as
-rigorous science.
-                              |
-                              v
-return to
-things themselves.
-                              |
-                              v
-not naive return
-to physical objects.
-                              |
-                              v
-return to phenomena
-as given.
-                              |
-                              v
-describe structures
-before causal /
-metaphysical theory.
-                              |
-                              v
-presuppositionless
-aspiration.
-                              |
-                              v
-first-person evidence.
-                              |
-                              v
-intersubjective
-validity.
-                              |
-                              v
-descriptive /
-eidetic /
-transcendental
-dimensions.
-                              |
-                              v
-              BRANCH II: NATURAL ATTITUDE
-everyday stance.
-                              |
-                              v
-world simply exists.
-                              |
-                              v
-objects have
-determinate properties
-independent of
-awareness.
-                              |
-                              v
-world existed before
-me /
-continues after.
-                              |
-                              v
-GENERAL THESIS.
-                              |
-                              v
-unreflective existence
-positing.
-                              |
-                              v
-includes common
-sense.
-                              |
-                              v
-also natural sciences.
-                              |
-                              v
-science presupposes
-domain it studies.
-                              |
-                              v
-natural attitude
-not false.
-                              |
-                              v
-philosophically naive.
-                              |
-                              v
-cannot examine
-how world acquires
-meaning while
-positing it
-uncritically.
-                              |
-                              v
-              BRANCH III: EPOCHÉ
-Greek:
-suspension /
-withholding.
-                              |
-                              v
-bracket general
-thesis.
-                              |
-                              v
-neither affirm
-nor deny
-world existence.
-                              |
-                              v
-content of experience
-remains.
-                              |
-                              v
-tree still appears
-with colour /
-shape /
-location.
-                              |
-                              v
-existence claim
-placed out
-of play.
-                              |
-                              v
-stream of
-intentional experience
-remains as residue.
-                              |
-                              v
-EPOCHÉ !=
-Cartesian doubt.
-                              |
-                              v
-Descartes doubts /
-seeks indubitable
-existence.
-                              |
-                              v
-Husserl suspends /
-studies givenness.
-                              |
-                              v
-not scepticism.
-                              |
-                              v
-methodological
-neutralisation.
-                              |
-                              v
-              BRANCH IV: REDUCTIONS
-SUSPENSION.
-                              |
-                              v
-withhold natural
-existence posit.
-                              |
-                              v
-PHENOMENOLOGICAL
-REDUCTION.
-                              |
-                              v
-redirect to
-how object is
-given in
-intentional correlation.
-                              |
-                              v
-EIDETIC REDUCTION.
-                              |
-                              v
-fact to
-essence by
-imaginative variation.
-                              |
-                              v
-TRANSCENDENTAL
-REDUCTION.
-                              |
-                              v
-empirical self /
-world bracketed
-as mundane.
-                              |
-                              v
-inquiry into
-constituting
-subjectivity.
-                              |
-                              v
-not one mechanical
-chronological ladder.
-                              |
-                              v
-eidetic inquiry can
-operate before /
-alongside transcendental
-turn.
-                              |
-                              v
-REDUCTION !=
-elimination /
-denial.
-                              |
-                              v
-              BRANCH V: INTENTIONALITY
-Brentano inheritance.
-                              |
-                              v
-every consciousness
-is consciousness
-of something.
-                              |
-                              v
-perceiving-of.
-                              |
-                              v
-remembering-of.
-                              |
-                              v
-imagining-of.
-                              |
-                              v
-judging-that.
-                              |
-                              v
-loving /
-fearing.
-                              |
-                              v
-directedness,
-not deliberate
-intention.
-                              |
-                              v
-object need not
-exist.
-                              |
-                              v
-centaur fantasy /
-hallucination
-still intentional.
-                              |
-                              v
-directed structure
-without successful
-reference.
-                              |
-                              v
-              BRANCH VI: NOESIS / NOEMA
-Ideas I
-vocabulary.
-                              |
-                              v
-NOESIS.
-                              |
-                              v
-act-mode:
-perceiving /
-remembering /
-judging /
-doubting.
-                              |
-                              v
-NOEMA.
-                              |
-                              v
-object-as-intended /
-sense-aspect.
-                              |
-                              v
-same object can
-be intended
-as perceived /
-remembered /
-imagined.
-                              |
-                              v
-correlation is
-structure of
-intentional experience.
-                              |
-                              v
-NOEMA !=
-private mental
-picture /
-veil.
-                              |
-                              v
-interpretations differ:
-ideal sense /
-object-as-intended /
-structured appearance.
-                              |
-                              v
-in veridical perception
-actual worldly object
-may be intended
-through profiles.
-                              |
-                              v
-              BRANCH VII: PROFILES / HORIZONS / SYNTHESIS
-spatial object
-given perspectivally.
-                              |
-                              v
-Abschattungen:
-profiles /
-adumbrations.
-                              |
-                              v
-only one side
-originally seen.
-                              |
-                              v
-unseen sides
-co-intended.
-                              |
-                              v
-INTERNAL HORIZON.
-                              |
-                              v
-possible further
-profiles of
-same object.
-                              |
-                              v
-EXTERNAL HORIZON.
-                              |
-                              v
-surrounding world /
-relations.
-                              |
-                              v
-SYNTHESIS OF
-IDENTIFICATION.
-                              |
-                              v
-changing profiles
-unified as
-one object.
-                              |
-                              v
-EMPTY INTENTION.
-                              |
-                              v
-anticipates feature.
-                              |
-                              v
-FULFILMENT.
-                              |
-                              v
-further givenness
-confirms /
-disappoints.
-                              |
-                              v
-evidence is
-graded /
-dynamic.
-                              |
-                              v
-adequate givenness
-of spatial object
-is ideal limit.
-                              |
-                              v
-              BRANCH VIII: HYLE / MORPHE
-analysis within
-noetic side.
-                              |
-                              v
-HYLE /
-hyletic data.
-                              |
-                              v
-lived sensory
-stuff:
-colour /
-sound /
-tactile data.
-                              |
-                              v
-non-intentional
-in Ideas I
-analysis.
-                              |
-                              v
-lived,
-not perceived
-as object.
-                              |
-                              v
-MORPHE.
-                              |
-                              v
-animating /
-apprehending form.
-                              |
-                              v
-confers directedness.
-                              |
-                              v
-same brownish data
-may be apprehended
-as house /
-painting patch /
-stain.
-                              |
-                              v
-Husserl not
-sense-datum theorist:
-we perceive house,
-not infer it
-from inner data.
-                              |
-                              v
-CRITIQUE:
-if hyle non-intentional,
-how given at all?
-                              |
-                              v
-Merleau-Ponty /
-Sartre reject
-inert matter plus
-imposed form.
-                              |
-                              v
-later passive
-synthesis modifies
-scheme.
-                              |
-                              v
-              BRANCH IX: INNER TIME-CONSCIOUSNESS
-problem:
-melody cannot be
-series of isolated
-nows.
-                              |
-                              v
-LIVING PRESENT.
-                              |
-                              v
-PRIMAL IMPRESSION.
-                              |
-                              v
-now-phase.
-                              |
-                              v
-RETENTION.
-                              |
-                              v
-just-past still
-held in
-present perception.
-                              |
-                              v
-not recollection.
-                              |
-                              v
-secondary memory
-re-presents what
-is no longer
-present.
-                              |
-                              v
-PROTENTION.
-                              |
-                              v
-anticipation of
-next phase.
-                              |
-                              v
-can be fulfilled /
-disappointed.
-                              |
-                              v
-melody /
-spoken sentence
-unified through
-threefold flow.
-                              |
-                              v
-objective temporal
-identity constituted
-through flow.
-                              |
-                              v
-REGRESS PROBLEM:
-what constitutes
-constituting flow?
-                              |
-                              v
-Husserl:
-flow self-constitutes.
-                              |
-                              v
-whether explanation
-or stipulation
-is disputed.
-                              |
-                              v
-              BRANCH X: EIDETIC REDUCTION
-begin with
-factual instance.
-                              |
-                              v
-vary freely
-in imagination.
-                              |
-                              v
-colour.
-                              |
-                              v
-size.
-                              |
-                              v
-material.
-                              |
-                              v
-duration.
-                              |
-                              v
-context.
-                              |
-                              v
-ask what can
-change while
-phenomenon remains
-that kind.
-                              |
-                              v
-invariant =
-essence /
-eidos /
-Wesen.
-                              |
-                              v
-single instance can
-launch variation.
-                              |
-                              v
-not empirical
-induction across
-many cases.
-                              |
-                              v
-triangle:
-size /
-orientation /
-material varied.
-                              |
-                              v
-three-sided plane
-structure remains
-within framework.
-                              |
-                              v
-avoid Euclidean
-angle-sum as
-all-geometry invariant.
-                              |
-                              v
-              BRANCH XI: ESSENCES
-invariant whatness.
-                              |
-                              v
-ideal.
-                              |
-                              v
-non-spatiotemporal.
-                              |
-                              v
-not causally
-efficient.
-                              |
-                              v
-not generated
-by empirical
-mental act.
-                              |
-                              v
-non-psychological
-validity.
-                              |
-                              v
-intersubjectively
-accessible.
-                              |
-                              v
-not separated
-Platonic Forms.
-                              |
-                              v
-given through
-instances /
-variation.
-                              |
-                              v
-ESSENCE !=
-whatever feels
-self-evident.
-                              |
-                              v
-variation /
-fulfilment /
-repeatability
-constrain.
-                              |
-                              v
-              BRANCH XII: WESENSSCHAU / CATEGORIAL INTUITION
-WESENSSCHAU.
-                              |
-                              v
-eidetic intuition /
-"seeing" essence.
-                              |
-                              v
-not inference
-from cases.
-                              |
-                              v
-CATEGORIAL INTUITION.
-                              |
-                              v
-Logical Investigations VI.
-                              |
-                              v
-fulfilment of
-intentions to
-states of affairs /
-categorial forms
-beyond sensory item.
-                              |
-                              v
-related to,
-not identical across
-development with,
-later eidetic intuition.
-                              |
-                              v
-EVIDENZ.
-                              |
-                              v
-intuitive fulfilment.
-                              |
-                              v
-graded /
-partial.
-                              |
-                              v
-not private feeling
-of certainty.
-                              |
-                              v
-CRITICISM:
-how verify same
-essence across
-subjects?
-                              |
-                              v
-Husserl invokes
-self-evidence /
-repeatable variation.
-                              |
-                              v
-residual remains.
-                              |
-                              v
-              BRANCH XIII: REGIONAL / FORMAL ONTOLOGY
-regions:
-nature.
-                              |
-                              v
-consciousness.
-                              |
-                              v
-culture.
-                              |
-                              v
-mathematics.
-                              |
-                              v
-MATERIAL /
-REGIONAL ONTOLOGY.
-                              |
-                              v
-specific essential
-structures of
-domain.
-                              |
-                              v
-FORMAL ONTOLOGY.
-                              |
-                              v
-object /
-property /
-relation /
-state of affairs /
-whole /
-part.
-                              |
-                              v
-applies across
-regions.
-                              |
-                              v
-phenomenology grounds
-regional sciences
-by clarifying
-object constitution.
-                              |
-                              v
-ambition:
-foundational science.
-                              |
-                              v
-              BRANCH XIV: CORRELATIONAL A PRIORI
-object structure
-and act structure
-essentially correlated.
-                              |
-                              v
-perceived spatial
-thing requires
-profiled /
-horizonal givenness.
-                              |
-                              v
-perceptual act
-requires object
-as transcending
-current profile.
-                              |
-                              v
-one eidetic
-structure describes
-their togetherness.
-                              |
-                              v
-continuity between
-consciousness /
-being.
-                              |
-                              v
-not merger.
-                              |
-                              v
-not third
-intermediate entity.
-                              |
-                              v
-reframes realism /
-idealism.
-                              |
-                              v
-does not conclusively
-settle transcendental-
-idealist objection.
-                              |
-                              v
-              BRANCH XV: TRANSCENDENTAL EGO
-empirical person
-bracketed as
-worldly object.
-                              |
-                              v
-transcendental
-subjectivity disclosed.
-                              |
-                              v
-field for which
-object-sense /
-validity arise.
-                              |
-                              v
-not Cartesian
-res cogitans.
-                              |
-                              v
-not empirical
-psyche.
-                              |
-                              v
-not merely Kant's
-formal I-think.
-                              |
-                              v
-includes intentionality /
-temporality /
-habituality /
-sedimentation.
-                              |
-                              v
-CONSTITUTION !=
-fabrication.
-                              |
-                              v
-subject discloses /
-constitutes sense,
-does not create
-arbitrary object.
-                              |
-                              v
-              BRANCH XVI: HUSSERL / DESCARTES
-COMMON:
-seek presuppositionless
-beginning.
-                              |
-                              v
-self-givenness of
-thinking act.
-                              |
-                              v
-DESCARTES.
-                              |
-                              v
-doubt.
-                              |
-                              v
-cogito.
-                              |
-                              v
-thinking substance.
-                              |
-                              v
-God guarantees
-world knowledge.
-                              |
-                              v
-HUSSERL.
-                              |
-                              v
-suspension.
-                              |
-                              v
-intentional stream.
-                              |
-                              v
-constituting field,
-not substance.
-                              |
-                              v
-world not denied /
-reproved through God.
-                              |
-                              v
-modes of givenness
-analysed.
-                              |
-                              v
-ego is temporal /
-intersubjective.
-                              |
-                              v
-GAIN:
-avoids substance
-dualism /
-divine bridge.
-                              |
-                              v
-RISK:
-transcendental
-idealism /
-solipsism.
-                              |
-                              v
-              BRANCH XVII: LIFE-WORLD
-Lebenswelt.
-                              |
-                              v
-pre-scientific /
-pre-theoretical
-world of
-lived experience.
-                              |
-                              v
-science abstracts /
-mathematises.
-                              |
-                              v
-idealisation forgets
-origin in
-life-world.
-                              |
-                              v
-crisis of
-scientific objectivism.
-                              |
-                              v
-life-world is
-pre-given horizon
-of science.
-                              |
-                              v
-SEDIMENTATION.
-                              |
-                              v
-meanings /
-methods inherited
-as taken-for-granted.
-                              |
-                              v
-Crisis:
-Parts I-II 1936.
-                              |
-                              v
-Husserl died 1938.
-                              |
-                              v
-full text 1954.
-                              |
-                              v
-late enrichment,
-not separate
-printed owner.
-                              |
-                              v
-              BRANCH XVIII: PSYCHOLOGISM
-logic reduced to
-empirical psychology.
-                              |
-                              v
-logical laws =
-generalisations about
-how humans think.
-                              |
-                              v
-truth =
-what mind is
-compelled to believe.
-                              |
-                              v
-different species
-could have
-different logic.
-                              |
-                              v
-J. S. Mill /
-Lipps /
-Sigwart /
-early Husserl.
-                              |
-                              v
-Husserl's Philosophy
-of Arithmetic,
-1891,
-psychological grounding
-of number.
-                              |
-                              v
-Frege review,
-1894,
-attacks confusion
-of act /
-content.
-                              |
-                              v
-causal role of
-Frege in reversal
-is disputed.
-                              |
-                              v
-safe:
-review sharpened
-developing anti-
-psychologism.
-                              |
-                              v
-              BRANCH XIX: FOUR ANTI-PSYCHOLOGISM ARGUMENTS
-1.
-NECESSITY /
-PROBABILITY.
-                              |
-                              v
-psychological laws
-inductive /
-probable.
-                              |
-                              v
-logical laws
-necessary.
-                              |
-                              v
-necessary cannot
-derive from
-merely probable.
-                              |
-                              v
-2.
-IDEAL CONTENT /
-REAL ACT.
-                              |
-                              v
-2+2=4 content
-atemporal /
-ideal.
-                              |
-                              v
-judging act
-datable /
-psychic event.
-                              |
-                              v
-psychologism conflates.
-                              |
-                              v
-3.
-RELATIVISM /
-SELF-REFUTATION.
-                              |
-                              v
-truth species-relative.
-                              |
-                              v
-"truth is relative"
-asserted absolutely.
-                              |
-                              v
-4.
-CAUSE /
-VALIDITY.
-                              |
-                              v
-psychological cause
-of belief
-does not provide
-reason for truth.
-                              |
-                              v
-genetic fallacy.
-                              |
-                              v
-              BRANCH XX: IDEAL OBJECTIVITY
-logical /
-mathematical meanings
-not mental events.
-                              |
-                              v
-validity independent
-of when /
-who thinks.
-                              |
-                              v
-acts are real /
-temporal.
-                              |
-                              v
-contents ideal /
-repeatable.
-                              |
-                              v
-phenomenology studies
-acts through which
-ideal meaning
-is grasped.
-                              |
-                              v
-does not reduce
-meaning to act.
-                              |
-                              v
-does not place
-meanings in
-separate spatial
-Platonic realm.
-                              |
-                              v
-access through
-intentional consciousness.
-                              |
-                              v
-              BRANCH XXI: TRANSCENDENTAL PSYCHOLOGISM OBJECTION
-after Ideas,
-all meaning constituted
-in transcendental ego.
-                              |
-                              v
-is truth subject-
-dependent again?
-                              |
-                              v
-HUSSERL'S REPLY.
-                              |
-                              v
-transcendental ego !=
-empirical psyche.
-                              |
-                              v
-constitution !=
-creation.
-                              |
-                              v
-ideal content remains
-atemporal /
-objective.
-                              |
-                              v
-subjectivity =
-medium of access /
-sense constitution,
-not arbitrary source
-of validity.
-                              |
-                              v
-transcendental
-intersubjectivity grounds
-objectivity.
-                              |
-                              v
-CRITICISM:
-transcendental ego
-may remain too
-idealist /
-subject-centred.
-                              |
-                              v
-              BRANCH XXII: INTERSUBJECTIVITY PROBLEM
-after reduction,
-others appear as
-sense constituted
-for my ego.
-                              |
-                              v
-risk:
-transcendental
-solipsism.
-                              |
-                              v
-Husserl's question
-is not natural-
-attitude proof
-of other minds.
-                              |
-                              v
-question:
-how is sense
-"another subject"
-constituted with
-proper evidence?
-                              |
-                              v
-Fifth Cartesian
-Meditation.
-                              |
-                              v
-              BRANCH XXIII: OWNNESS / LIVED BODY
-abstract from
-other-derived cultural
-meanings.
-                              |
-                              v
-sphere of ownness /
-primordial sphere.
-                              |
-                              v
-MY BODY.
-                              |
-                              v
-LEIB.
-                              |
-                              v
-lived body.
-                              |
-                              v
-organ of will.
-                              |
-                              v
-field of sensing.
-                              |
-                              v
-absolute here.
-                              |
-                              v
-OTHER BODY.
-                              |
-                              v
-KORPER.
-                              |
-                              v
-physical body
-appearing there.
-                              |
-                              v
-another body resembles
-mine /
-behaves expressively.
-                              |
-                              v
-              BRANCH XXIV: PAIRING / APPRESENTATION
-PAIRING /
-Paarung.
-                              |
-                              v
-passive associative
-synthesis.
-                              |
-                              v
-my body /
-other body
-constituted as pair.
-                              |
-                              v
-pre-predicative,
-not explicit
-inference.
-                              |
-                              v
-APPRESENTATION.
-                              |
-                              v
-other subjectivity
-co-intended,
-not originally
-presented.
-                              |
-                              v
-like unseen back
-of table.
-                              |
-                              v
-analogising transfer
-of sense.
-                              |
-                              v
-not argument
-from analogy.
-                              |
-                              v
-other =
-alter ego.
-                              |
-                              v
-another here,
-which is my there.
-                              |
-                              v
-non-originality is
-constitutive.
-                              |
-                              v
-if other's experience
-were given as mine,
-other would be me.
-                              |
-                              v
-harmonious behaviour
-confirms /
-disappoints
-appresentation.
-                              |
-                              v
-world gains
-intersubjective
-objectivity.
-                              |
-                              v
-              BRANCH XXV: INTERSUBJECTIVITY CRITIQUES
-SCHUTZ.
-                              |
-                              v
-ownness reduction
-may presuppose
-other-body sense.
-                              |
-                              v
-reply:
-abstractive layer,
-not temporal
-genesis.
-                              |
-                              v
-residual circularity.
-                              |
-                              v
-SARTRE.
-                              |
-                              v
-other encountered
-through Look /
-shame,
-not neutral
-appresentation.
-                              |
-                              v
-Husserlian reply:
-Look is one
-modality presupposing
-sense of other.
-                              |
-                              v
-LEVINAS.
-                              |
-                              v
-alter ego reduces
-Other to
-another me.
-                              |
-                              v
-ethics before
-epistemology.
-                              |
-                              v
-Husserl's reply:
-analysis concerns
-sense constitution,
-not ethical priority.
-                              |
-                              v
-HEIDEGGER.
-                              |
-                              v
-Dasein is already
-Mitsein;
-no ownness-first
-problem.
-                              |
-                              v
-              BRANCH XXVI: HEIDEGGER / MERLEAU-PONTY CRITIQUE
-HEIDEGGER.
-                              |
-                              v
-being-in-world is
-more primordial
-than reflective
-transcendental ego.
-                              |
-                              v
-epoché may miss
-existential involvement.
-                              |
-                              v
-HUSSERL REPLY:
-suspension thematises
-meaning of existence,
-does not eliminate it.
-                              |
-                              v
-MERLEAU-PONTY.
-                              |
-                              v
-complete reduction
-impossible.
-                              |
-                              v
-embeddedness /
-body /
-world always
-shape reflection.
-                              |
-                              v
-reduction as
-asymptotic /
-renewed effort.
-                              |
-                              v
-hyle-morphe
-too intellectualist.
-                              |
-                              v
-perception already
-bodily organised.
-                              |
-                              v
-late life-world /
-passive synthesis
-partly broaden
-Husserl.
-                              |
-                              v
-              BRANCH XXVII: ARGUMENT ARCHITECTURE
-PREMISE 1:
-natural attitude
-presupposes world.
-                              |
-                              v
-PREMISE 2:
-philosophy must
-examine modes
-of givenness.
-                              |
-                              v
-PREMISE 3:
-consciousness is
-intentional /
-temporally synthetic.
-                              |
-                              v
-PREMISE 4:
-ideal validity cannot
-reduce to empirical
-mental fact.
-                              |
-                              v
-METHOD:
-suspend.
-                              |
-                              v
-describe correlation.
-                              |
-                              v
-vary imaginatively.
-                              |
-                              v
-identify invariant.
-                              |
-                              v
-analyse constitution /
-intersubjectivity.
-                              |
-                              v
-CONCLUSION:
-phenomenology grounds
-knowledge in
-givenness without
-naive realism /
-psychologism.
-                              |
-                              v
-              BRANCH XXVIII: SOURCE / ATTRIBUTION CAUTION
-watchword attribution
-requires caution.
-                              |
-                              v
-noesis-noema =
-Ideas I phase.
-                              |
-                              v
-hyle-morphe =
-Ideas I §85.
-                              |
-                              v
-time lectures edited
-by Edith Stein,
-published by
-Heidegger 1928.
-                              |
-                              v
-Cartesian Meditations
-first French 1931,
-German 1950.
-                              |
-                              v
-Crisis full text
-1954,
-not wholly 1936.
-                              |
-                              v
-Frege review influence
-contested.
-                              |
-                              v
-"astronomy by
-psychology of
-astronomers" is
-textbook paraphrase,
-not Frege quote.
-                              |
-                              v
-              THINKER / TEXT / TERM BANK
-epoché /
-Einklammerung.
-                              |
-                              v
-natural attitude /
-Generalthesis.
-                              |
-                              v
-intentionality /
-noesis /
-noema.
-                              |
-                              v
-hyle /
-morphe.
-                              |
-                              v
-profile /
-horizon /
-fulfilment.
-                              |
-                              v
-retention /
-primal impression /
-protention.
-                              |
-                              v
-eidos /
-Wesen /
-Wesensschau.
-                              |
-                              v
-regional /
-formal ontology.
-                              |
-                              v
-transcendental ego /
-Lebenswelt.
-                              |
-                              v
-Leib /
-Korper /
-Paarung /
-Appresentation.
-                              |
-                              v
-              HIGH-RISK OPTIONAL TRAPS
-epoché !=
-doubt /
-denial;
-reduction !=
-elimination;
-phenomenological !=
-eidetic reduction;
-intentionality !=
-deliberate intention;
-intentional object !=
-existing object;
-noema !=
-mental image;
-hyle !=
-perceived object;
-retention !=
-recollection;
-protention !=
-prediction theory;
-essence !=
-separate Platonic
-Form;
-variation !=
-induction;
-evidence !=
-private feeling;
-transcendental ego !=
-empirical psyche /
-substance;
-constitution !=
-fabrication;
-psychologism !=
-study of consciousness;
-logic validity !=
-psychological causation;
-appresentation !=
-argument from analogy;
-other's non-originality !=
-defective evidence.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT VERIFIED
-2018-2025:
-7 primary-owned
-parts;
-2018 no
-primary-owned part.
-                              |
-                              v
-2019:
-hallucination as
-intentional act
-[10].
-                              |
-                              v
-2020:
-psychologism and
-phenomenological method
-[10].
-                              |
-                              v
-2021:
-critical exposition
-of natural attitude /
-phenomenological method
-[20].
-                              |
-                              v
-2022:
-psychologism and
-transcendental
-phenomenology
-[10].
-                              |
-                              v
-2023:
-significance of
-bracketing /
-reduction
-[15].
-                              |
-                              v
-2024:
-essences and
-continuity between
-consciousness /
-being
-[15].
-                              |
-                              v
-2025:
-Husserl's I think
-versus Descartes
-[20].
-                              |
-                              v
-CROSS-ROUTED:
-2018 Heidegger
-question begins
-with epoché /
-reduction but
-primary owner =
-Existentialism.
-                              |
-                              v
-STATUS:
-exact wording /
-marks verified from
-local official
-Paper I corpus.
-                              |
-                              v
-OFFICIAL-KEY STATUS:
-UPSC Philosophy
-Mains provides no
-official answer key /
-model answer.
-                              |
-                              v
-                REVISION CHAIN
-natural attitude
--> epoché
--> phenomenological
-reduction
--> intentionality
--> noesis /
-noema
--> profiles /
-horizons
--> hyle /
-morphe
--> time-consciousness
--> eidetic variation
--> essences
--> transcendental ego
--> psychologism
--> ideal objectivity
--> intersubjectivity /
-life-world.
-                              |
-                              v
-             OPTIONAL-PAPER ANSWER SPINE
-IDENTIFY
-Husserlian phase /
-text /
-operation.
-                              |
-                              v
-DISTINGUISH
-suspension /
-reductions.
-                              |
-                              v
-RECONSTRUCT
-intentional correlation.
-                              |
-                              v
-USE
-profile /
-melody /
-variation /
-hallucination example.
-                              |
-                              v
-STATE
-ideal validity /
-anti-psychologism
-argument.
-                              |
-                              v
-PRESENT
-solipsism /
-embodiment /
-circularity
-objection.
-                              |
-                              v
-OFFER
-intersubjective /
-life-world reply.
-                              |
-                              v
-OBSERVE
-development /
-publication /
-translation caution.
-                              |
-                              v
-CONCLUDE
-with correlation-
-based verdict.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-Husserl successfully transforms philosophy from speculation about an independently
-assumed world into disciplined analysis of how objects, meanings and evidence are
-given. His anti-psychologism protects ideal validity, and intentionality avoids a
-representational veil. Yet the transcendental ego, eidetic intuition and constitution
-of other subjects remain contested. Phenomenology's durable achievement is the
-correlational method: neither consciousness nor being can be adequately described in
-isolation from their modes of appearing together.
+PHENOMENOLOGY (HUSSERL) (syllabus item 9)
+        |
+        v
+CENTRAL THESIS
+Stop asking WHETHER the world exists; ask HOW anything comes to have MEANING
+for consciousness. The existence-question is neither answered nor denied - it
+is PUT OUT OF PLAY, so that the MODES IN WHICH OBJECTS ARE GIVEN can be
+described without prejudice. Three printed limbs in dependency order: METHOD
+opens a field, ESSENCES say what is found in it that is more than a private
+episode, and AVOIDANCE OF PSYCHOLOGISM is the standing prohibition that keeps
+both from becoming empirical psychology. Write the third limb last or it reads
+as an unrelated quarrel about logic.
+        |
+        v
+SCOPE FIREWALL
+ OWNS ....... natural attitude and the GENERAL THESIS | suspension (epoche)
+              and bracketing | the FOUR OPERATIONS and the THREE PURPOSES |
+              intentionality, noesis/noema, non-existent objects, HALLUCINATION
+              | the PRINCIPLE OF PRINCIPLES (Ideas I 24) | profiles, horizons,
+              synthesis, fulfilment, GRADED EVIDENCE | hyle and morphe |
+              retention / primal impression / protention | essence, FREE
+              IMAGINATIVE VARIATION, Wesensschau, formal and regional ontology
+              | the CORRELATIONAL A PRIORI | psychologism and the FOUR
+              PROLEGOMENA ARGUMENTS | IDEAL OBJECTIVITY | the transcendental-
+              turn objection and reply | the TRANSCENDENTAL EGO and the
+              Descartes comparison | the FIFTH CARTESIAN MEDITATION | ALL SEVEN
+              routed 2018-2025 parts
+ BOUNDED .... inner time-consciousness (optional methodological depth) |
+   ORIENTATION categorial intuition | formal / regional ontology | the LIFE-
+              WORLD and the Crisis | Frege's 1894 review and the Foellesdal /
+              Mohanty dispute | Merleau-Ponty's 'incomplete reduction'
+ DOES NOT ... BEING-IN-THE-WORLD, DASEIN, ECSTATIC TEMPORALITY, AUTHENTICITY,
+   OWN        SARTRE ON FREEDOM AND BAD FAITH (Topic 10 - critics here, not
+              limbs) | METHODIC DOUBT, THE COGITO'S PROOF, GOD-PROOFS, MIND-
+              BODY DUALISM (Topic 02 - the CONTRAST TERM only) | CATEGORIES AND
+              APPERCEPTION (Topic 04) | VERIFICATION AND THE VIENNA CIRCLE
+              (Topic 07 - a RIVAL that rejects eidetic intuition) |
+              PHENOMENOLOGY OF RELIGIOUS EXPERIENCE, OTTO, SCHELER (Paper II)
+ CORPUS ..... 7 owned parts of 112, 2018-2025. 2018 IS THE ONLY EMPTY YEAR -
+   SIGNAL     and its Q4(a) still OPENS 'What is Epoche?' before turning to
+              Heidegger. METHOD is tested THREE TIMES (2021, 2023, 2025);
+              PSYCHOLOGISM TWICE, two years apart, in almost the same words
+              (2020, 2022); ESSENCES ONCE (2024); INTENTIONALITY ONCE (2019).
+              The METHOD IS THE LOAD-BEARING WALL.
+        |
+        v
+DATES THAT EARN MARKS - much of the corpus is POSTHUMOUS
+1891 PHILOSOPHIE DER ARITHMETIK - number grounded in acts of COLLECTING and
+     COUNTING. HUSSERL'S OWN PSYCHOLOGISTIC PHASE. Naming it converts 'Husserl
+     opposed psychologism' into 'Husserl REVERSED HIMSELF'
+1894 FREGE'S REVIEW, Zeitschrift fuer Philosophie und philosophische Kritik.
+     PARAPHRASE the charge - content of thought slid into act of thinking.
+     X NEVER quote the 'astronomy / psychology of astronomers' sentence as
+     Frege's; it is a textbook paraphrase
+1900-01 LOGICAL INVESTIGATIONS. VOL I = PROLEGOMENA TO PURE LOGIC (the four
+     arguments). VOL II = the six Investigations; the SIXTH carries CATEGORIAL
+     INTUITION, and 'ZU DEN SACHEN SELBST' stands in its INTRODUCTION.
+     2nd revised edn 1913; tr. FINDLAY 1970. CITE THE VOLUME
+1911 'PHILOSOPHY AS A RIGOROUS SCIENCE', journal LOGOS - naturalism and
+     historicism named as the enemies
+1913 IDEAS I - natural attitude, epoche (31-32), reductions, noesis-noema,
+     hyle-morphe (85), PRINCIPLE OF PRINCIPLES (24). Tr. BOYCE GIBSON 1931,
+     KERSTEN 1982 - WORDING differs, SECTION NUMBERS do not.
+     X IDEAS II-III are POSTHUMOUS, 1952
+1893-1917 / 1928  the INTERNAL-TIME lectures, edited by EDITH STEIN, published
+     by HEIDEGGER 1928.  X NEVER 'Husserl's 1928 book'
+1929 Feb  PARIS LECTURES at the Sorbonne
+1931 MEDITATIONS CARTESIENNES - FRENCH FIRST, tr. LEVINAS and PEIFFER
+1950 German CARTESIANISCHE MEDITATIONEN, POSTHUMOUS (Husserliana I); tr.
+     CAIRNS 1960.  X NEVER 'Cartesian Meditations (1931, German)'
+1936 CRISIS, PARTS I-II ONLY, journal PHILOSOPHIA (Belgrade)
+1938 HUSSERL DIES, the Crisis unfinished
+1954 COMPLETE CRISIS (Husserliana VI, ed. BIEMEL); tr. CARR 1970.
+     SAFE FORM 'Parts I-II 1936; full text posthumously 1954'
+THE FIVE BOUNDED CRITICS  HEIDEGGER 1927 | SARTRE 1943 | MERLEAU-PONTY 1945 |
+     SCHUTZ 1957 | LEVINAS 1961 - name each WITH THE DOCTRINE HE REJECTS
+        |
+        v
+LIMB 1 - METHOD
+ THE NATURAL ATTITUDE (natuerliche Einstellung)
+   the world is PRE-GIVEN, not concluded to. Its belief-character is the
+   GENERAL THESIS: 'the world exists, always existed, would exist without me'
+   - LIVED, NOT ASSERTED
+   SCOPE  common sense + THE NATURAL SCIENCES (they dispute WHAT the world
+   contains, never THAT it is there) + EMPIRICAL PSYCHOLOGY (consciousness as
+   one worldly item) -> which is why PSYCHOLOGISM IS THE NATURAL ATTITUDE
+   APPLIED TO LOGIC
+   THE CRITICISM  UNCRITICAL, NOT FALSE. It blocks the question HOW DOES THE
+   WORLD COME TO HAVE MEANING FOR US. The SCEPTIC is no better placed - he
+   merely answers the existence-question negatively and keeps it primary.
+   THEREFORE the remedy is a CHANGE OF ATTITUDE, not a counter-argument
+ SUSPENSION (epoche) AND BRACKETING (Einklammerung) - Ideas I 31-32
+   BRACKETED  the EXISTENCE-POSIT | the naive validity of the sciences | my
+              psyche AS A WORLDLY THING
+   NOT        the STREAM with all its intentional contents | the FULL CONTENT
+   BRACKETED  of what appears | the object's claim to be THAT KIND of object
+   RESIDUE (Residuum) = the whole field of PURE EXPERIENCE - WIDER, NOT
+   NARROWER, because nothing about it is now assumed from outside
+   ONE-LINE FIX  X 'the epoche brackets the world'
+                 OK 'it brackets the world's EXISTENCE-POSITING'
+   THE BRACKET FALLS ON A VALIDITY-CLAIM, NEVER ON A CONTENT
+ NOT CARTESIAN DOUBT - THREE DIFFERENCES, NOT ONE
+   OPERATION  Descartes DENIES; Husserl WITHHOLDS ASSENT
+   AIM        the INDUBITABLE vs the PURELY GIVEN
+   RESULT     a THINKING SUBSTANCE whose world must be REBUILT vs a FIELD OF
+              CONSTITUTION in which the world was NEVER LOST
+   ALSO NOT   scepticism (which answers) | Berkeley (esse est percipi) | a
+              proof of idealism (that is an ARGUED RESULT, not a consequence
+              of the bracket)
+ THE FOUR OPERATIONS - DISTINCT, NOT A LADDER
+   SUSPENSION ............ am I leaning on the existence-claim?  -> the residue
+   PHENOMENOLOGICAL ...... HOW is this given? (re-ducere, LEAD BACK)
+     REDUCTION             -> intentional correlation
+   EIDETIC REDUCTION ..... what cannot be VARIED AWAY?  -> the INVARIANT
+   TRANSCENDENTAL ........ for WHOM does sense arise?   -> transcendental
+     REDUCTION             subjectivity as a FIELD
+   ! NO MECHANICAL LADDER - eidetic analysis already works in the LOGICAL
+     INVESTIGATIONS (1900-01), before the transcendental turn of IDEAS I (1913)
+   TWO BOUNDARY ERRORS  X suspension confused with DOUBT
+                        X phenomenological reduction fused with EIDETIC - one
+                          brackets EXISTENCE, the other extracts ESSENCE
+ THE THREE PURPOSES - the 2023 demand, and what each PREVENTS
+   (i)   EVIDENCE UNDER A CHANGED ATTITUDE - the stream is APODICTIC AS
+         EXPERIENCED, but apodicticity is NOT EXHAUSTIVE TRANSPARENCY
+         WITHOUT IT  no evidence-base at all
+   (ii)  NO SUBSTANCE-INFERENCE - consciousness as INTENTIONAL LIFE; this
+         REFORMULATES, does not dissolve, the mind-body problem
+         WITHOUT IT  Cartesian dualism with new vocabulary
+   (iii) THE EIDETIC AND TRANSCENDENTAL QUESTIONS BECOME ASKABLE
+         WITHOUT IT  a diary of experiences - i.e. EMPIRICAL PSYCHOLOGY
+ INTENTIONALITY - the structure running through all three limbs
+   from BRENTANO (intentionale Inexistenz), TRANSFORMED: the CONTAINER image
+   is replaced by a CORRELATION
+   NOESIS = manner of intending | NOEMA = object-AS-INTENDED (Ideas I, 1913
+   vocabulary - do not project back onto 1900-01)
+   CORE NEGATIVE CLAIM  the noema is NOT AN INNER PICTURE. ? the positive
+   account (ideal sense / object-as-meant / appearance-structure) is DISPUTED
+   INTENTIONAL OBJECTS NEED NOT EXIST -> HALLUCINATION IS A GENUINE ACT:
+   perceptual-seeming NOESIS + full NOEMA - FULFILMENT; the lack shows as
+   DISAPPOINTMENT.  'INTENTIONAL' does NOT mean 'DELIBERATE'
+   PRINCIPLE OF PRINCIPLES, Ideas I 24 - originary intuition legitimates,
+   BUT ONLY WITHIN THE LIMITS IN WHICH IT IS PRESENTED
+ PROFILES, HORIZONS, EVIDENCE
+   a spatial thing is given only in PROFILES (Abschattungen) - ESSENTIALLY,
+   not accidentally; unseen sides are CO-INTENDED; INTERNAL HORIZON = further
+   profiles of THIS object, EXTERNAL HORIZON = the surrounding world.
+   HORIZON IS DETERMINABLE INDETERMINACY, NOT VAGUENESS
+   the SYNTHESIS OF IDENTIFICATION (temporal) makes the series ONE object -
+   identity is NEITHER one sensation NOR a private image
+   EMPTY INTENTION -> FULFILMENT or DISAPPOINTMENT (which forces CORRECTION
+   OF SENSE). EVIDENCE (Evidenz) is GRADED and DYNAMIC; ADEQUACY IS AN IDEAL
+   LIMIT for transcendent objects; it is NOT a feeling of certainty
+ HYLE AND MORPHE - Ideas I 85, 'sensuous hyle, intentional morphe'
+   HYLE = NON-INTENTIONAL sensory content, LIVED THROUGH (erlebt), NEVER
+   OBSERVED - a DEPENDENT MOMENT found only in reflection
+   MORPHE = the ANIMATING APPREHENSION (Auffassung / Beseelung).
+   ONLY THE WHOLE INTENDS: the same brownish data -> HOUSE FROM THE FRONT /
+   PATCH IN A PAINTING / STAIN
+   PAYOFF  hyletic data are NEVER THE OBJECTS of perception -> NO VEIL OF
+   IDEAS, NO INFERENCE from data to world -> SEPARATES HUSSERL FROM LOCKE AND
+   RUSSELL and is the best answer to the SUBJECTIVISM charge
+   REVOLT POINT  MERLEAU-PONTY - the BODY organises the field before any
+   apprehension; SARTRE - consciousness has NO CONTENTS  (both TOPIC 10)
+   ? DIFFICULTY  a NON-INTENTIONAL datum cannot be given AS anything, yet 24
+   grounds cognition in GIVENNESS. Later PASSIVE SYNTHESIS absorbs the hyle -
+   a TACIT CONCESSION
+ INNER TIME-CONSCIOUSNESS - optional methodological depth
+   LIVING PRESENT = RETENTION + PRIMAL IMPRESSION (Urimpression) + PROTENTION
+   RETENTION IS NOT RECOLLECTION - the single most examinable line.
+   RETENTION = PRIMARY MEMORY, part of THIS perception ('comet's tail',
+   running-off phenomena / Ablaufsphaenomene). RECOLLECTION (Wiedererinnerung)
+   = SECONDARY MEMORY, a RE-PRESENTATION (Vergegenwaertigung) of what is NO
+   LONGER PRESENT
+   THE FORCING ARGUMENT  if the just-played note were REMEMBERED rather than
+   STILL HEARD, the melody would have to be COMPLETE BEFORE IT COULD BE
+   PERCEIVED
+   PROTENTION IS PROVED BY DISAPPOINTMENT - not by prediction
+   CONSEQUENCES  temporal identity constituted in the flow | ANSWERS HUME (the
+   self is in the CONSTITUTING FLOW, not among the contents) | grounds
+   HABITUALITY and SEDIMENTATION | HEIDEGGER transforms it into ECSTATIC
+   TEMPORALITY (Topic 10)
+   ? REGRESS  'the flow constitutes its own unity' - self-grounding or
+   stipulation; commentators divide
+        |
+        v
+LIMB 2 - THEORY OF ESSENCES
+ ESSENCE (Wesen, eidos) = the INVARIANT 'whatness'
+   IS      IDEAL (not spatio-temporal, not causally efficacious, NOT GENERATED
+           BY MENTAL ACTS - which is what keeps Limb 2 consistent with Limb 3),
+           NON-PSYCHOLOGICAL, OBJECTIVE
+   IS NOT  X a PLATONIC FORM in a SEPARATE realm (chorismos) - essences are
+           given IN AND THROUGH instances; NO TWO-WORLD THEORY
+           X a psychological item  X a synonym for 'ideal meaning' or
+           'noematic sense'  X an empirical generalisation
+ FREE IMAGINATIVE VARIATION - the marked content of this limb
+   1 begin from a FACTUAL INSTANCE  2 VARY FREELY IN IMAGINATION  3 does the
+   phenomenon SURVIVE or COLLAPSE?  4 what CANNOT be varied away IS the essence
+   WORKED CASE  size, colour, material, orientation vary -> still a triangle;
+   REMOVE A SIDE -> BREAK. INVARIANT = a CLOSED THREE-SIDED PLANE FIGURE
+   ! THE ANGLE-SUM CLAIM IS FRAMEWORK-DEPENDENT - do not offer it as the
+     invariant of every possible geometry
+   NOT INDUCTION - and say WHY: induction generalises from OBSERVED FREQUENCY
+   and yields PROBABILITY; variation is A PRIORI, conducted IN IMAGINATION,
+   and A SINGLE INSTANCE SUFFICES, because what is sought is a LIMIT, and no
+   number of further instances makes a LIMIT more secure
+ INTUITION OF ESSENCES (Wesensschau)
+   essences are SEEN, not INFERRED. ANCESTOR = CATEGORIAL INTUITION
+   (kategoriale Anschauung), SIXTH LOGICAL INVESTIGATION - CLOSELY RELATED,
+   NOT ONE UNCHANGED DOCTRINE
+   STRONG PRESUPPOSITION  intellectual seeing is as legitimate as
+   sense-perception -> ? RYLE and AYER: how do two subjects intuit THE SAME
+   essence? REPLY: EVIDENCE as FULFILMENT, no more mysterious than seeing that
+   a proof is valid. CONSTRAINTS: FURTHER VARIATION, COUNTER-VARIATION,
+   INTERSUBJECTIVE REPEATABILITY. RESIDUE: FRAMEWORK-DEPENDENCE
+ FORMAL vs REGIONAL ONTOLOGY - orientation depth only
+   FORMAL    object, property, relation, state of affairs, whole-part -
+             applies to EVERY region; analogous to FORMAL LOGIC
+   REGIONAL  NATURE (extension, duration, causality) | CONSCIOUSNESS
+             (intentionality, temporal flow) | CULTURE (intersubjectivity,
+             norms) | MATHEMATICS
+   phenomenology is envisaged as the FOUNDATIONAL SCIENCE grounding them all
+ THE CORRELATIONAL A PRIORI - the 2024 answer
+   the essential structure of the OBJECT AS EXPERIENCED is CORRELATED with the
+   essential structure of the ACT that intends it. CONTINUITY, NOT IDENTITY.
+   WORKED CASE, ESSENCE OF 'PERCEPTION OF A SPATIAL THING'
+     OBJECT SIDE  three-dimensional; given in profiles, never exhausted by one;
+                  INTERNAL HORIZON; identical through the series
+     ACT SIDE     perspectival; through profiles; unseen sides CO-INTENDED;
+                  TEMPORAL SYNTHESIS OF IDENTIFICATION; open to FULFILMENT or
+                  DISAPPOINTMENT
+   STATE THREE-DIMENSIONALITY AND YOU HAVE SPECIFIED PERSPECTIVAL GIVENNESS;
+   STATE PERSPECTIVAL GIVENNESS AND YOU HAVE SPECIFIED A HORIZONED OBJECT.
+   THAT MUTUAL ENTAILMENT *IS* THE CONTINUITY
+   NOT  X a merger  X a third entity between mind and world  X production of
+        being by consciousness
+   CONSEQUENCE  realism/idealism is REFRAMED as 'how is WORLD-SENSE
+   CONSTITUTED?' ? whether idealism is thereby AVOIDED is CONTESTED. NOT
+   BERKELEY: the noema is an OBJECTIVE CORRELATE and objectivity is completed
+   only by TRANSCENDENTAL INTERSUBJECTIVITY
+        |
+        v
+LIMB 3 - AVOIDANCE OF PSYCHOLOGISM
+ PSYCHOLOGISM  logical laws are EMPIRICAL GENERALISATIONS about how human
+ beings IN FACT THINK; logic as a branch of DESCRIPTIVE PSYCHOLOGY.
+ HOLDERS  MILL | LIPPS | SIGWART - and EARLY HUSSERL
+ THREE CHARACTERISTIC CLAIMS  non-contradiction describes how we CANNOT think |
+ laws hold BECAUSE OF our mental constitution | truth is what we are COMPELLED
+ TO BELIEVE
+ THE ONE CONFUSION  the ACT ('I judged at 3 p.m., in this brain, while tired')
+ is REAL and DATABLE; the CONTENT ('2+2=4') is IDEAL and ATEMPORAL.
+ PSYCHOLOGISM READS THE CONTENT AS A FEATURE OF THE ACT
+ THE FOUR PROLEGOMENA ARGUMENTS (Vol. I, 1900-01)
+   (i)   NECESSARY vs MERELY PROBABLE - you cannot derive the NECESSARY from
+         the merely PROBABLE
+   (ii)  IDEAL CONTENT vs REAL ACT             <-- THE ROOT CONFUSION
+   (iii) RELATIVISM SELF-REFUTES (Anthropologismus) - 'truth is relative' is
+         offered as ABSOLUTELY true; SHARP FORM: the psychologist's own
+         reasoning would be only PROBABLE and would UNDERMINE ITS OWN SUPPORT
+                                               <-- STRONGEST AT 15/20
+   (iv)  CONDITIONS OF THINKING vs GROUNDS OF VALIDITY - the GENETIC FALLACY
+ POSITIVE RESULT - IDEAL OBJECTIVITY  validity is NOT identical with any
+ datable psychological act. THE ACTS ARE REAL; THE CONTENTS ARE IDEAL. This
+ DUAL recognition defeats BOTH psychologism (which denied the ideal) AND naive
+ Platonism (which denied that the ideal is ACCESSIBLE).
+ ! avoid 'subsist' if it suggests a separately located realm
+ ! ANTI-PSYCHOLOGISM IS NOT ANTI-MENTALISM - Husserl studies intentional acts
+   throughout; he refuses only to make LOGICAL VALIDITY depend on EMPIRICAL
+   MENTAL LAWS
+ ? THE REFLEXIVE WORRY (2022)  after IDEAS (1913) all constitution is located
+ in the TRANSCENDENTAL EGO. Has psychologism returned AT A HIGHER LEVEL?
+ THE THREE-PART REPLY
+   1 the transcendental ego is NOT the EMPIRICAL PSYCHE - the psyche is a
+     MUNDANE OBJECT WITHIN the world; the ego is the CONDITION of world-sense
+   2 CONSTITUTION IS NOT FABRICATION - sense is DISCLOSED, not made up;
+     SUBJECTIVITY IS THE MEDIUM OF ACCESS, NOT THE SOURCE OF VALIDITY
+   3 objectivity rests on TRANSCENDENTAL INTERSUBJECTIVITY - which TRANSFERS
+     THE BURDEN to the Fifth Meditation
+ VERDICT  PSYCHOLOGISM PROPER IS ESCAPED; TRANSCENDENTAL IDEALISM IS NOT -
+ a DIFFERENT and WEAKER charge. The reply is COHERENT BUT NOT DECISIVE
+        |
+        v
+THE TRANSCENDENTAL EGO AND THE OTHER
+ THE EGO  IS a FIELD OF SENSE-CONSTITUTION - intentional, TEMPORAL, HABITUAL,
+ ultimately INTERSUBJECTIVE.  IS NOT a RES COGITANS | NOT Kant's formal 'I
+ think' WITHOUT QUALIFICATION | NOT the EMPIRICAL PSYCHE
+ AGAINST DESCARTES (2025) - AGREEMENT FIRST, THEN THREE DIVERGENCES
+   AGREEMENT  both start from the indubitable SELF-GIVENNESS of the thinking
+              act and want a PRESUPPOSITIONLESS beginning
+   DIVERGENCE 1  SUBSTANCE - Descartes concludes to a THINKING SUBSTANCE;
+                 Husserl SUSPENDS the mundane ontological inference
+   DIVERGENCE 2  WORLD-ACCESS - Descartes needs DIVINE NON-DECEPTION; Husserl
+                 brackets the POSITING, never the world.  NO GOD-BRIDGE IS
+                 NEEDED BECAUSE NO CHASM WAS OPENED
+   DIVERGENCE 3  SCOPE - intentional, temporal, INTERSUBJECTIVE
+ THE COST - TRANSCENDENTAL SOLIPSISM, treated by Husserl as the MOST SERIOUS
+ objection to his own programme
+ ! FIRST CORRECT THE QUESTION  he is NOT PROVING that other minds exist - a
+   natural-attitude demand the epoche has suspended. He asks HOW THE SENSE
+   'another subject, for whom the world is also there' IS CONSTITUTED
+ FIFTH CARTESIAN MEDITATION - NINE STEPS
+   1 OWNNESS (Eigenheitssphaere) - abstract from all sense owing to others
+     ('hammer', 'book', 'road', objectivity-for-anyone)
+   2 MY LIVED BODY (Leib) is unique: ORGAN OF WILL, FIELD OF SENSINGS, the
+     absolute HERE; every other body is a mere KOERPER
+   3 ANOTHER BODY appears, resembling mine in GOVERNED EXPRESSIVE BEHAVIOUR
+   4 PAIRING (Paarung) - a PASSIVE SYNTHESIS, before any judgement
+   5 APPRESENTATION (Appraesentation) - co-intended without being presented,
+     as the UNSEEN BACK OF A TABLE is in seeing its front
+     ! AN ANALOGISING TRANSFER OF SENSE, NOT AN ARGUMENT FROM ANALOGY
+   6 THE 'AS IF I WERE THERE' - an ALTER EGO, an INTENTIONAL MODIFICATION
+   7 NON-ORIGINALITY IS A NECESSITY, NOT A DEFECT - original givenness would
+     make him ME; INACCESSIBILITY BELONGS TO THE SENSE 'OTHER'
+   8 VERIFICATION IS HARMONIOUS BEHAVIOUR - the same fulfilment structure as
+     ordinary perception
+   9 RESULT - the world is available to PERSPECTIVES OTHER THAN MINE ->
+     OBJECTIVITY. 'COMMUNITY OF MONADS' is a LEIBNIZIAN TERM only
+ FOUR PRESUPPOSITIONS  ownness is coherent | my body is originally given as
+ LIVED | pairing is genuinely PASSIVE | constitution is ASYMMETRICAL
+        |
+        v
+LIFE-WORLD - bounded enrichment, ONE PARAGRAPH AT MOST
+ LEBENSWELT = the PRE-SCIENTIFIC, PRE-THEORETICAL world of lived experience;
+ the PRE-GIVEN HORIZON presupposed by scientific idealisation. The sciences
+ ABSTRACT from it and substitute IDEALISATIONS (GALILEAN MATHEMATISATION).
+ THE CRISIS  science has FORGOTTEN ITS OWN ORIGIN and treats its abstractions
+ as 'the real'. SEDIMENTATION explains why the forgetting is STRUCTURAL.
+ ! THE TARGET IS OBJECTIVISM, NOT SCIENCE - no physical result is disputed
+ ! NOT a retreat to the natural attitude: it is a CONSTITUTIVE question
+        |
+        v
+TEN-LINE TRAP SHEET
+ 1  X 'epoche = Cartesian doubt'          -> doubt DENIES; epoche SUSPENDS
+ 2  X 'the epoche brackets the world'     -> it brackets the EXISTENCE-POSIT
+ 3  X 'the natural attitude is false'     -> UNCRITICAL, not false
+ 4  X 'phenomenological = eidetic'        -> one brackets EXISTENCE, the other
+                                             extracts ESSENCE
+ 5  X 'retention is a kind of memory'     -> PRIMARY memory INSIDE this
+                                             perception; recollection is a
+                                             RE-PRESENTATION
+ 6  X 'essences are Platonic Forms'       -> given IN AND THROUGH instances;
+                                             NO chorismos
+ 7  X 'variation is induction'            -> A PRIORI; ONE INSTANCE SUFFICES;
+                                             a LIMIT, not a FREQUENCY
+ 8  X 'the noema is a mental picture'     -> the OBJECT AS INTENDED
+ 9  X 'Husserl proved other minds exist'  -> constitution of a SENSE
+ 10 X 'the Crisis (1936)' / 'Cartesian    -> PARTS I-II 1936, FULL TEXT 1954 /
+      Meditations (1931, German)' /          FRENCH FIRST 1931, GERMAN 1950 /
+      the 'astronomy' sentence as Frege's    a PARAPHRASE, never a quotation
+        |
+        v
+PYQ ROUTING - 7 OWNED PARTS, WITH ANSWER ROUTES
+ 2019 Q1(b) 10m  hallucination as intentional act
+      ROUTE  directedness not reference -> perceptual-seeming NOESIS + full
+             NOEMA -> what is missing is FULFILMENT -> disappointment ->
+             qualify: not thereby veridical
+ 2020 Q1(c) 10m  what is wrong with psychologism + how the METHOD addresses it
+      ROUTE  definition and holders -> four arguments from ONE confusion ->
+             the METHOD-LINK: consciousness as the SITE where ideal meanings
+             are grasped, without reduction -> the open transcendental worry
+ 2021 Q4(a) 20m  critical exposition of the criticism of the natural attitude
+      ROUTE  general thesis -> scope INCLUDES THE SCIENCES -> UNCRITICAL NOT
+             FALSE -> the sceptic is inside it too -> CHANGE OF ATTITUDE ->
+             four operations -> Heidegger / Merleau-Ponty / circularity ->
+             ruling: diagnosis succeeds, complete presuppositionlessness is
+             regulative
+ 2022 Q1(d) 10m  psychologism in TRANSCENDENTAL PHENOMENOLOGY
+      ROUTE  definition -> four arguments compressed -> THE REFLEXIVE WORRY ->
+             three-part reply -> verdict COHERENT BUT NOT DECISIVE.
+             STOPPING AT THE FOUR ARGUMENTS ANSWERS HALF
+ 2023 Q3(b) 15m  significance of bracketing and reduction
+      ROUTE  what is bracketed and what survives -> FOUR OPERATIONS, NOT A
+             LADDER -> THE THREE PURPOSES, each with what it PREVENTS ->
+             Merleau-Ponty's conceded limit
+ 2024 Q4(b) 15m  essences and the continuity of consciousness and being
+      ROUTE  essence as invariant, non-Platonic -> CORRELATIONAL A PRIORI ->
+             the TWO-COLUMN worked case -> three denials -> realism/idealism
+             REFRAMED, not settled
+ 2025 Q4(a) 20m  Husserl's 'I think' vs Descartes
+      ROUTE  AGREEMENT FIRST -> substance / world-access / scope -> the
+             solipsism cost -> Fifth Meditation compressed -> verdict:
+             advance on substance and God-bridge, intersubjective question
+             genuinely open
+ SUPPORTING, OWNED ELSEWHERE
+ 2018 Q4(a) 20m  'What is Epoche?' then Heidegger        -> TOPIC 10
+ 2022 Q4(b) 15m  Descartes on certainty of the self      -> TOPIC 02
+        |
+        v
+ANSWER SPINE - USABLE ON ANY OF THE SEVEN
+ 1 NAME THE DEMAND in one clause (method / essences / psychologism / ego)
+ 2 STATE THE POSITION with the ENGLISH concept and the SOURCE TERM
+ 3 GIVE THE MECHANISM - which OPERATION, which STRUCTURE, which EVIDENCE
+ 4 GIVE ONE WORKED CASE - the tree in profiles | the melody | the triangle |
+   '2+2=4' | the other's governed behaviour
+ 5 DRAW THE DISTINCTION being tested - suspension/doubt | phenomenological/
+   eidetic | retention/recollection | content/act | correlation/identity |
+   transfer of sense/inference
+ 6 STATE THE OBJECTION, THE REPLY AND THE RESIDUE
+ 7 CLOSE WITH A QUALIFIED RULING
+        |
+        v
+QUALIFIED CONCLUSION
+ Husserl's achievement is a METHOD that makes the constitution of sense a
+ describable subject-matter, and a THEORY OF ESSENCES that secures ideal
+ validity without a separate realm and without reduction to psychic events.
+ The limits belong in the answer, not outside it: COMPLETE
+ PRESUPPOSITIONLESSNESS is regulative; the HYLE is absorbed into passive
+ synthesis rather than defended; the SELF-CONSTITUTING FLOW is reflexively
+ difficult; TRANSCENDENTAL IDEALISM is avowed rather than avoided; and the
+ OWNNESS-FIRST route to the other remains exposed to circularity.
+ PSYCHOLOGISM IS DEFEATED; IDEALISM IS NOT - and that distinction, held
+ firmly, is the most defensible verdict on the clause.
 ```

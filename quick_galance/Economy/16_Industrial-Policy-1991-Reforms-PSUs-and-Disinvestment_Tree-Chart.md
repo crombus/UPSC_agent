@@ -1,1016 +1,136 @@
-# Economy 16 - Industrial Policy, 1991 Reforms, PSUs and Disinvestment
+# Economy Topic 16 — Industrial Policy, 1991 Reforms, PSUs and Disinvestment
 
-## Quick-Glance Tree Chart
+## CENTRAL THESIS
 
 ```text
-INDUSTRIAL POLICY, 1991 REFORMS, PSUs AND DISINVESTMENT
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Industrial policy determines the conditions for entry, competition, technology,
-location, finance and strategic capability. The 1991 reforms shifted the state
-from pervasive licensing and ownership toward market allocation and regulation,
-but did not end the developmental state. PSU policy must distinguish ownership,
-control, public obligation and regulation; disinvestment, strategic sale,
-privatisation and asset monetisation are different instruments.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-industrial-policy chronology;
-1948 /
-1956 /
-1980s /
-1991;
-licensing /
-delicensing;
-LPG reform;
-PSU mandate /
-governance;
-disinvestment /
-privatisation /
-strategic sale;
-New PSE Policy;
-asset monetisation;
-competition;
-CSR /
-Coal Controller distinctions.
-                              |
-                              v
-MSME /
-PLI /
-SEMICONDUCTORS:
-Topic 17.
-INFRASTRUCTURE /
-NMP:
-Topic 18 where project finance.
-FISCAL RECEIPTS:
-Topic 09.
-                              |
-                              v
-                BRANCH I: POLICY CHRONOLOGY
-1948
-INDUSTRIAL POLICY
-RESOLUTION.
-                              |
-                              v
-MIXED
-ECONOMY.
-                              |
-                              v
-1956
-INDUSTRIAL POLICY
-RESOLUTION.
-                              |
-                              v
-SCHEDULES
-A /
-B /
-C.
-                              |
-                              v
-COMMANDING
-HEIGHTS /
-PUBLIC SECTOR.
-                              |
-                              v
-IMPORT
-SUBSTITUTION.
-                              |
-                              v
-1980s
-modernisation /
-selective liberalisation.
-                              |
-                              v
-1991
-systemic reform.
-                              |
-                              v
-                BRANCH II: PRE-1991 REGIME
-INDUSTRIES
-DEVELOPMENT AND
-REGULATION ACT
-1951.
-                              |
-                              v
-ENTRY
-LICENCE.
-                              |
-                              v
-CAPACITY
-CONTROL.
-                              |
-                              v
-LOCATION
-CONTROL.
-                              |
-                              v
-IMPORT /
-FOREX
-CONTROL.
-                              |
-                              v
-PUBLIC-SECTOR
-RESERVATION.
-                              |
-                              v
-SMALL-SCALE
-RESERVATION.
-                              |
-                              v
-RATIONALE:
-scarce capital,
-coordination,
-self-reliance.
-                              |
-                              v
-COST:
-entry barriers,
-rent seeking,
-low competition.
-                              |
-                              v
-                BRANCH III: 1991 CRISIS / REFORM
-BALANCE-OF-PAYMENTS
-CRISIS.
-                              |
-                              v
-MACRO
-STABILISATION.
-                              |
-                              v
-INDUSTRIAL
-DELICENSING.
-                              |
-                              v
-TRADE
-OPENING.
-                              |
-                              v
-EXCHANGE-RATE
-REFORM.
-                              |
-                              v
-FOREIGN
-INVESTMENT
-LIBERALISATION.
-                              |
-                              v
-FINANCIAL
-REFORM.
-                              |
-                              v
-PUBLIC-SECTOR
-POLICY CHANGE.
-                              |
-                              v
-CONNECTED
-PACKAGE,
-not one measure.
-                              |
-                              v
-                BRANCH IV: LICENCE-TO-COMPETITION
-DELICENSING.
-                              |
-                              v
-EASIER
-ENTRY /
-EXPANSION.
-                              |
-                              v
-GREATER
-FIRM CHOICE.
-                              |
-                              v
-DOMESTIC /
-IMPORT
-COMPETITION.
-                              |
-                              v
-PRODUCTIVITY
-PRESSURE.
-                              |
-                              v
-TECHNOLOGY /
-SCALE.
-                              |
-                              v
-WINNERS /
-LOSERS.
-                              |
-                              v
-REGULATION
-still needed
-for competition,
-environment,
-safety,
-labour.
-                              |
-                              v
-DELICENSING
-!= deregulation of everything.
-                              |
-                              v
-                BRANCH V: INDUSTRIAL-POLICY FUNCTIONS
-PUBLIC
-GOODS.
-                              |
-                              v
-INFRASTRUCTURE.
-                              |
-                              v
-SKILLS.
-                              |
-                              v
-R&D /
-TECHNOLOGY.
-                              |
-                              v
-FINANCE.
-                              |
-                              v
-STANDARDS.
-                              |
-                              v
-PROCUREMENT.
-                              |
-                              v
-CLUSTER /
-LOCATION.
-                              |
-                              v
-COMPETITION.
-                              |
-                              v
-STRATEGIC
-RESILIENCE.
-                              |
-                              v
-INDUSTRIAL POLICY
-!= subsidy only.
-                              |
-                              v
-                BRANCH VI: PSU RATIONALE
-NATURAL
-MONOPOLY.
-                              |
-                              v
-STRATEGIC
-SECTOR.
-                              |
-                              v
-INFRASTRUCTURE.
-                              |
-                              v
-SOCIAL /
-REGIONAL
-OBJECTIVE.
-                              |
-                              v
-LONG
-GESTATION.
-                              |
-                              v
-MARKET
-FAILURE.
-                              |
-                              v
-SECURITY
-OF SUPPLY.
-                              |
-                              v
-PUBLIC OWNERSHIP
-needs explicit mandate
-and accountability.
-                              |
-                              v
-                BRANCH VII: PSU PROBLEMS
-SOFT
-BUDGET CONSTRAINT.
-                              |
-                              v
-POLITICAL
-INTERFERENCE.
-                              |
-                              v
-MULTIPLE
-OBJECTIVES.
-                              |
-                              v
-WEAK
-BOARD AUTONOMY.
-                              |
-                              v
-DELAYED
-INVESTMENT.
-                              |
-                              v
-OVERSTAFFING /
-SKILL MISMATCH.
-                              |
-                              v
-MONOPOLY
-POWER.
-                              |
-                              v
-UNDER-PRICED
-PUBLIC OBLIGATION.
-                              |
-                              v
-PERFORMANCE
-must separate
-commercial /
-social mandates.
-                              |
-                              v
-                BRANCH VIII: OWNERSHIP-CHANGE SPECTRUM
-MINORITY
-SHARE SALE.
-                              |
-                              v
-GOVERNMENT
-RETAINS CONTROL.
-                              |
-                              v
-DISINVESTMENT.
-                              |
-                              v
-STRATEGIC
-DISINVESTMENT.
-                              |
-                              v
-SUBSTANTIAL
-STAKE
-+ MANAGEMENT CONTROL.
-                              |
-                              v
-PRIVATISATION.
-                              |
-                              v
-PRIVATE
-OWNERSHIP /
-CONTROL.
-                              |
-                              v
-MERGER /
-CLOSURE
-separate routes.
-                              |
-                              v
-EVERY DISINVESTMENT
-!= privatisation.
-                              |
-                              v
-                BRANCH IX: AIR INDIA
-TRANSACTION
-DESIGN.
-                              |
-                              v
-BID /
-APPROVAL.
-                              |
-                              v
-TRANSFER
-TO TALACE
-PRIVATE LIMITED /
-TATA SONS.
-                              |
-                              v
-COMPLETED
-JANUARY 2022.
-                              |
-                              v
-OWNERSHIP /
-MANAGEMENT
-CONTROL TRANSFER.
-                              |
-                              v
-PRIVATISATION
-through strategic
-disinvestment.
-                              |
-                              v
-ONE CASE
-cannot be generalised
-to every CPSE.
-                              |
-                              v
-                BRANCH X: NEW PSE POLICY
-ANNOUNCED
-BUDGET 2021-22.
-                              |
-                              v
-STRATEGIC
-SECTORS.
-                              |
-                              v
-BARE-MINIMUM
-PUBLIC PRESENCE.
-                              |
-                              v
-OTHER
-STRATEGIC CPSEs:
-privatise,
-merge,
-subsidiary,
-close
-as policy provides.
-                              |
-                              v
-NON-STRATEGIC:
-privatise where feasible
-or consider closure.
-                              |
-                              v
-EXCLUDED
-CLASSES /
-POLICY BOUNDARY
-must be verified.
-                              |
-                              v
-POLICY INTENT
-!= transaction completion.
-                              |
-                              v
-                BRANCH XI: ASSET MONETISATION
-BROWNFIELD
-PUBLIC ASSET.
-                              |
-                              v
-TIME-BOUND
-OPERATING /
-REVENUE RIGHTS.
-                              |
-                              v
-PRIVATE
-OPERATOR /
-INVESTOR.
-                              |
-                              v
-UPFRONT /
-PERIODIC
-CONSIDERATION.
-                              |
-                              v
-OWNERSHIP
-REMAINS /
-REVERTS
-to government
-under structure.
-                              |
-                              v
-DISINVESTMENT
-sells equity.
-                              |
-                              v
-MONETISATION
-commercialises asset right.
-                              |
-                              v
-NOT
-costless financing.
-                              |
-                              v
-                BRANCH XII: COMPETITION SAFEGUARD
-PRIVATISATION.
-                              |
-                              v
-WITHOUT
-CONTESTABILITY.
-                              |
-                              v
-PRIVATE
-MARKET POWER.
-                              |
-                              v
-PRICE /
-QUALITY /
-ACCESS
-RISK.
-                              |
-                              v
-COMPETITION
-COMMISSION.
-                              |
-                              v
-SECTOR
-REGULATOR.
-                              |
-                              v
-OPEN
-ACCESS /
-STANDARDS.
-                              |
-                              v
-PUBLIC MONOPOLY
-must not become
-unregulated private monopoly.
-                              |
-                              v
-                BRANCH XIII: INSTITUTIONS
-DPIIT
-industrial policy /
-investment facilitation.
-                              |
-                              v
-DEPARTMENT
-OF PUBLIC ENTERPRISES
-PSE policy /
-performance.
-                              |
-                              v
-DIPAM
-disinvestment /
-asset management.
-                              |
-                              v
-CCI
-competition.
-                              |
-                              v
-SECTOR
-REGULATORS.
-                              |
-                              v
-LINE
-MINISTRIES.
-                              |
-                              v
-OWNERSHIP
-FUNCTION
-!= regulatory function.
-                              |
-                              v
-                BRANCH XIV: FIVE-YEAR PLAN THRUSTS
-SECOND PLAN
-1956-61.
-                              |
-                              v
-MAHALANOBIS.
-                              |
-                              v
-HEAVY /
-BASIC
-INDUSTRY.
-                              |
-                              v
-PUBLIC-SECTOR
-LEADERSHIP.
-                              |
-                              v
-SIXTH PLAN
-1980-85:
-modernisation /
-productivity /
-limited loosening.
-                              |
-                              v
-SEVENTH PLAN
-1985-90:
-technology,
-capacity use,
-exports,
-early delicensing.
-                              |
-                              v
-EIGHTH PLAN
-1992-97:
-post-1991 industrial /
-financial reform.
-                              |
-                              v
-PLANS
-did not have
-identical thrust.
-                              |
-                              v
-                BRANCH XV: COAL CONTROLLER
-SUBORDINATE
-OFFICE
-UNDER MINISTRY OF COAL.
-                              |
-                              v
-HEADQUARTERS
-KOLKATA.
-                              |
-                              v
-MINING /
-MINE-CLOSURE
-PLAN APPROVAL
-under MMDR framework.
-                              |
-                              v
-OPENING /
-REOPENING
-REGULATION.
-                              |
-                              v
-COAL-GRADING /
-QUALITY
-DISPUTES.
-                              |
-                              v
-OFFICIAL
-COAL STATISTICS.
-                              |
-                              v
-COMMISSIONER
-OF PAYMENT
-under Coal Mines
-Special Provisions Act 2015.
-                              |
-                              v
-CCO
-!= Coal India
-producer.
-                              |
-                              v
-NOT
-standalone autonomous
-statutory regulator.
-                              |
-                              v
-                BRANCH XVI: CSR
-SECTION 135
-COMPANIES ACT
-2013.
-                              |
-                              v
-PRESCRIBED
-NET WORTH /
-TURNOVER /
-NET PROFIT
-threshold:
-any one.
-                              |
-                              v
-BOARD
-RESPONSIBILITY.
-                              |
-                              v
-CSR COMMITTEE
-where obligation
-exceeds prescribed amount.
-                              |
-                              v
-PRESCRIBED
-MINIMUM SHARE
-of average net profit
-of preceding three years.
-                              |
-                              v
-SCHEDULE VII
-activities.
-                              |
-                              v
-UNSPENT
-AMOUNT /
-DISCLOSURE
-rules.
-                              |
-                              v
-STATUTORY
-CORPORATE-GOVERNANCE DUTY.
-                              |
-                              v
-NOT
-ordinary tax
-or voluntary donation.
-                              |
-                              v
-NUMERIC THRESHOLDS
-must use current law.
-                              |
-                              v
-                BRANCH XVII: INDUSTRIAL OUTCOME CHAIN
-RULES /
-INFRASTRUCTURE /
-FINANCE.
-                              |
-                              v
-FIRM
-ENTRY /
-INVESTMENT.
-                              |
-                              v
-COMPETITION.
-                              |
-                              v
-TECHNOLOGY /
-PRODUCTIVITY.
-                              |
-                              v
-SCALE.
-                              |
-                              v
-JOBS.
-                              |
-                              v
-EXPORTS.
-                              |
-                              v
-REGIONAL
-SPREAD.
-                              |
-                              v
-STRUCTURAL
-TRANSFORMATION.
-                              |
-                              v
-OUTCOME
-depends on capability,
-not policy announcement.
-                              |
-                              v
-                BRANCH XVIII: CURRENT INDUSTRY SIGNAL
-REAL
-INDUSTRY GVA
-grew
-7.00 percent
-in H1 FY2025-26.
-                              |
-                              v
-MEDIUM /
-HIGH-TECH
-activity
-46.3 percent
-of manufacturing
-value added
-in Survey highlights.
-                              |
-                              v
-SURVEY
-urges shift
-from insulation
-to strategic resilience /
-indispensability.
-                              |
-                              v
-DATED
-SURVEY EVIDENCE.
-                              |
-                              v
-NOT
-proof of every
-policy's causal effect.
-                              |
-                              v
-                BRANCH XIX: LIMITATIONS
-ONE-OFF
-DISINVESTMENT RECEIPT.
-                              |
-                              v
-VALUATION /
-BUYER
-RISK.
-                              |
-                              v
-EMPLOYEE /
-REGIONAL
-ADJUSTMENT.
-                              |
-                              v
-STRATEGIC-SECTOR
-AMBIGUITY.
-                              |
-                              v
-PRIVATE
-MONOPOLY RISK.
-                              |
-                              v
-REGULATORY
-CAPACITY GAP.
-                              |
-                              v
-LARGE-FIRM
-POLICY BIAS.
-                              |
-                              v
-JOBLESS /
-CAPITAL-INTENSIVE
-GROWTH.
-                              |
-                              v
-POLICY
-UNCERTAINTY.
-                              |
-                              v
-                BRANCH XX: WAY FORWARD
-STATE
-EXPLICIT
-PUBLIC MANDATES.
-                              |
-                              v
-SEPARATE
-OWNER /
-REGULATOR.
-                              |
-                              v
-PERIODIC
-ENTERPRISE REVIEW.
-                              |
-                              v
-COMPETITIVE /
-TRANSPARENT
-SALE.
-                              |
-                              v
-PROTECT
-EMPLOYEES /
-CONSUMERS.
-                              |
-                              v
-BUILD
-COMPETITION
-BEFORE PRIVATISATION.
-                              |
-                              v
-USE PROCEEDS
-for durable
-asset /
-debt objectives.
-                              |
-                              v
-MEASURE
-PRODUCTIVITY /
-JOBS /
-REGIONAL
-OUTCOMES.
-                              |
-                              v
-                    DATA / POLICY / EXAMPLE BANK
-IPR 1948 /
-IPR 1956.
-                              |
-                              v
-IDR Act 1951.
-                              |
-                              v
-New Industrial Policy 1991.
-                              |
-                              v
-Air India
-January 2022.
-                              |
-                              v
-New PSE Policy
-2021-22.
-                              |
-                              v
-NMP.
-                              |
-                              v
-DPIIT /
-DPE /
-DIPAM /
-CCI.
-                              |
-                              v
-CSR /
-CCO.
-                              |
-                              v
-                    SOURCE CRITICISM
-1991 != end of state;
-delicensing != no regulation;
-disinvestment != privatisation;
-minority sale != control transfer;
-strategic sale != every asset sale;
-monetisation != equity sale;
-one-off receipt != recurring revenue;
-strategic classification != completed restructuring;
-PSU != natural monopoly;
-CSR != tax /
-voluntary donation;
-CCO != Coal India.
-                              |
-                              v
-                    MAJOR DEBATES
-STATE
-OR MARKET?
-capable state
-and competitive market.
-                              |
-                              v
-PUBLIC
-OR PRIVATE OWNERSHIP?
-mandate /
-performance /
-market structure.
-                              |
-                              v
-DISINVESTMENT
-OR REFORM?
-ownership change
-plus governance.
-                              |
-                              v
-EFFICIENCY
-OR EMPLOYMENT?
-adjustment /
-regional policy.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-1956 Schedules A /
-B /
-C;
-1991 was connected reform package;
-disinvestment may retain control;
-strategic sale transfers management;
-Air India completed January 2022;
-NMP transfers time-bound rights;
-Second /
-Sixth /
-Seventh /
-Eighth Plan thrusts differ;
-CSR is Board-owned statutory duty.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-NO ROUTED MAINS DEMAND
-is manufactured.
-                              |
-                              v
-PRELIMS 2019
-Five-Year Plan
-industrial /
-financial thrusts.
-Official key unavailable locally.
-                              |
-                              v
-PRELIMS 2022
-Coal Controller's Organisation.
-Cross-routed with
-coal-sector owner.
-Official key unavailable locally.
-                              |
-                              v
-PRELIMS 2024 Q50
-CSR rules.
-Official Set-A key
-present locally.
-No option or answer letter
-is recorded or inferred.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-1948 /
-1956 /
-1980s /
-1991
--> licence /
-competition
--> reform package
--> PSU rationale /
-governance
--> disinvestment /
-strategic sale /
-privatisation
--> Air India
--> New PSE Policy
--> monetisation /
-CSR /
-CCO.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-TRACE
-historical constraint.
-                              |
-                              v
-EXPLAIN
-1991 transmission.
-                              |
-                              v
-DISTINGUISH
-ownership instruments.
-                              |
-                              v
-ASSESS
-competition /
-capability /
-jobs /
-regions.
-                              |
-                              v
-ADD
-governance /
-regulation.
-                              |
-                              v
-CONCLUDE
-strategic,
-contestable,
-reviewed state role.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-The 1991 reforms replaced pervasive entry control with competition, but the
-state's role shifted rather than disappeared. Public ownership remains
-defensible where strategic or public-service obligations are explicit and
-measured. Elsewhere, transparent disinvestment or privatisation should be paired
-with competition, regulation and worker transition so that a public monopoly is
-not merely converted into private market power.
+OLD STATE: OWN + LICENSE + ALLOCATE
+ -> 1991: DELICENSE + OPEN + COMPETE
+ -> MODERN STATE: REGULATE + BUILD CAPABILITY + DEFINE STRATEGIC OWNERSHIP
 ```
+
+## 1. CHRONOLOGY
+
+| Year | Policy | Core shift |
+|---|---|---|
+| 1948 | Industrial Policy Resolution | mixed economy; strategic State domain |
+| 1951 | IDR Act | statutory industrial licensing |
+| 1956 | Industrial Policy Resolution | Schedule A/B/C; commanding heights |
+| 1969 | MRTP Act | concentration and large-firm pre-entry control |
+| 1973 | FERA | strict foreign-exchange conservation |
+| 1977 | Industrial Policy Statement | small/tiny/cottage and decentralisation |
+| 1980s | selective liberalisation | modernisation, broad-banding, flexibility |
+| 24 July 1991 | New Industrial Policy | delicensing + PSU + MRTP + FDI/technology |
+| 2002 | Competition Act | conduct/effects-based competition law |
+| 4 February 2021 | New PSE Policy | strategic/non-strategic ownership framework |
+
+## 2. 1956 SCHEDULES
+
+```text
+SCHEDULE A -> STATE RESPONSIBILITY
+SCHEDULE B -> PROGRESSIVELY EXPANDING STATE ROLE
+SCHEDULE C -> REMAINING INDUSTRIES, GENERALLY PRIVATE UNDER CONTROLS
+```
+
+## 3. 1991 CRISIS AND PILLARS
+
+```text
+BOP PRESSURE -> STABILISATION
+STRUCTURAL WEAKNESS -> DELICENSING + PSU RESERVATION CUT
+                    + MRTP PRE-ENTRY CHANGE
+                    + FDI/TECHNOLOGY LIBERALISATION
+```
+
+- Stabilisation != structural reform.
+- Liberalisation != privatisation != globalisation != deregulation.
+- Historical 51% automatic FDI in specified high-priority industries is not today's universal cap.
+
+## 4. CURRENT INDUSTRIAL LICENSING — CHECKED 9 SEPTEMBER 2026
+
+1. Electronic aerospace and defence equipment.
+2. Industrial explosives.
+3. Specified hazardous chemicals: hydrocyanic acid/phosgene derivatives and specified isocyanates.
+4. Cigars/cigarettes of tobacco and manufactured tobacco substitutes.
+
+**Public-sector reservation:** Atomic Energy and core Railway operations, subject to notified mass-rapid-transport and specified-infrastructure exceptions. Delicensing does not remove safety, environment, land, competition or sector rules.
+
+## 5. CPSE ARCHITECTURE
+
+- **PSU:** Public Sector Undertaking, broad usage.
+- **PSE:** Public Sector Enterprise.
+- **CPSE:** Central Public Sector Enterprise.
+- Forms: departmental undertaking; statutory corporation; government company.
+- Companies Act section 2(45) government company: at least 51% paid-up share capital held by Central/State government(s), singly or jointly; includes a subsidiary.
+- **DPE:** Department of Public Enterprises—policy/performance framework.
+- **DIPAM:** Department of Investment and Public Asset Management—disinvestment, capital management and public-asset transactions.
+- Owner/administrative ministry != board management != sector regulator.
+- Public-service obligation should be explicit and costed.
+- Soft budget constraint: expected rescue weakens restructuring/exit discipline.
+
+## 6. RATNA CRITERIA — CURRENT DPE MATERIAL
+
+| Status | Cumulative eligibility core |
+|---|---|
+| Maharatna | Navratna; Indian listing/public shareholding; 3-year average turnover >Rs25,000 crore, net worth >Rs15,000 crore, PAT >Rs5,000 crore; significant global presence |
+| Navratna | Schedule A + Miniratna-I + Excellent/Very Good MoU in 3 of preceding 5 years + score >=60/100 |
+| Miniratna-I | profit 3 consecutive years + positive net worth + PBT >=Rs30 crore in one |
+| Miniratna-II | profit 3 consecutive years + positive net worth |
+
+**Navratna six indicators:** net profit/net worth; manpower cost/total cost; PBDIT/capital employed; PBDIT/turnover; earnings per share; inter-sectoral performance.
+
+**Decode:** PAT = Profit After Tax; PBT = Profit Before Tax; PBDIT = Profit Before Depreciation, Interest and Tax; MoU = Memorandum of Understanding. DPE review guidance checked through 16 June 2026.
+
+## 7. DISINVESTMENT MAP
+
+```text
+MINORITY SALE/OFS/IPO/ETF/BUYBACK -> CONTROL RETAINED
+STRATEGIC DISINVESTMENT -> SUBSTANTIAL/ENTIRE STAKE + CONTROL
+PRIVATISATION -> CONTROL TO PRIVATE BUYER
+ASSET MONETISATION -> TIME-BOUND ASSET RIGHTS; OWNERSHIP MAY REMAIN PUBLIC
+CLOSURE / MERGER / IBC RESOLUTION -> DISTINCT EXIT/RESTRUCTURING ROUTES
+```
+
+- OFS = Offer for Sale.
+- IPO = Initial Public Offer.
+- ETF = Exchange Traded Fund.
+- IBC = Insolvency and Bankruptcy Code, 2016.
+- Air India: completed private strategic sale in January 2022.
+
+## 8. NEW PSE POLICY — 4 FEBRUARY 2021
+
+**Four strategic groups:**
+1. Atomic Energy, Space and Defence.
+2. Transport and Telecommunications.
+3. Power, Petroleum, Coal and other Minerals.
+4. Banking, Insurance and Financial Services.
+
+- Strategic: bare-minimum public commercial presence at holding-company level; others may privatise, merge, subsidiarise or close.
+- Non-strategic: privatise where feasible, otherwise close.
+- Policy intent != transaction completion.
+
+## 9. CURRENT RECEIPT STATUS
+
+| Series | Dated value | Meaning |
+|---|---:|---|
+| Receipt Budget 2026-27 BE | Rs80,000 crore | combined miscellaneous capital receipts |
+| Receipt Budget 2025-26 RE | Rs33,837 crore | revised combined head |
+| DIPAM FY2025-26 portal | Rs16,885.56 crore | disinvestment receipts, checked 9 September 2026 |
+
+BE = Budget Estimate; RE = Revised Estimate. Combined budget head != pure disinvestment target.
+
+## 10. COMPETITION, EXIT AND OUTCOMES
+
+- CCI = Competition Commission of India.
+- Competition Act: anti-competitive agreements, abuse of dominance, combinations.
+- Dominance itself is not prohibited; abuse is.
+- IBC provides corporate resolution/liquidation; it is not disinvestment policy.
+- Gains: entry, competition, scale, technology, choice and productivity.
+- Limits: job displacement, inequality, regional concentration, market power, weak domestic R&D and incomplete State capacity.
+
+## 11. MAINS REFORM SPINE
+
+```text
+NAME FAILURE -> CHOOSE HORIZONTAL/TARGETED TOOL -> PRESERVE COMPETITION
+ -> MEASURE CAPABILITY/ADDITIONALITY -> PROTECT TRANSITION -> SUNSET/REVIEW
+```
+
+**Boundary:** PLI/MSMEs/semiconductors -> Topic 17; detailed asset monetisation -> Topic 18; fiscal receipts -> Topic 9; IBC depth -> Topic 6.

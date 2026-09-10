@@ -1,870 +1,123 @@
-# Economy 12 - MSP, Procurement, Buffer Stocks, PDS and Food Security
+# Economy Topic 12 — MSP, Procurement, Buffer Stocks, PDS and Food Security
 
-## Quick-Glance Tree Chart
+## CENTRAL THESIS
 
 ```text
-MSP, PROCUREMENT, BUFFER STOCKS, PDS AND FOOD SECURITY
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-India's food-policy chain links a price signal for farmers to physical
-procurement, storage, release and household entitlement. MSP announcement does
-not guarantee purchase, procurement is concentrated by crop and region, and a
-large stock is useful only when storage, rotation and release serve price
-stability and nutrition. Farmer remuneration and consumer affordability must be
-balanced rather than treated as separate systems.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-MSP /
-CACP /
-CCEA;
-cost concepts;
-procurement;
-FCI;
-economic cost;
-buffer norms /
-stocks;
-OMSS;
-NFSA;
-PDS /
-TPDS;
-One Nation One Ration Card;
-food security /
-nutrition;
-millet inclusion.
-                              |
-                              v
-CROPPING SYSTEMS:
-Topic 11.
-APMC /
-MARKETING:
-Topic 13.
-STORAGE /
-PROCESSING:
-Topic 15 where commercial.
-                              |
-                              v
-                BRANCH I: PRICE-TO-FOOD RAIL
-COST /
-MARKET
-CONDITIONS.
-                              |
-                              v
-CACP
-RECOMMENDATION.
-                              |
-                              v
-CCEA
-ANNOUNCEMENT
-OF MSP.
-                              |
-                              v
-ACTUAL
-PROCUREMENT
-by designated agencies.
-                              |
-                              v
-FCI /
-STATE
-STORAGE.
-                              |
-                              v
-BUFFER /
-OPERATIONAL
-STOCK.
-                              |
-                              v
-PDS /
-NFSA /
-OMSS
-release.
-                              |
-                              v
-FARMER /
-CONSUMER /
-PRICE
-OUTCOME.
-                              |
-                              v
-                BRANCH II: MSP
-ADMINISTERED
-PRICE SIGNAL.
-                              |
-                              v
-ANNOUNCED
-for specified crops /
-seasons.
-                              |
-                              v
-CACP
-recommends.
-                              |
-                              v
-CCEA
-approves /
-announces.
-                              |
-                              v
-OBJECTIVES:
-remuneration,
-production signal,
-food security.
-                              |
-                              v
-MSP
-!= legal entitlement
-to unlimited purchase
-for every crop /
-location.
-                              |
-                              v
-ANNOUNCEMENT
-!= procurement.
-                              |
-                              v
-                BRANCH III: COST-CONCEPT LADDER
-A2
-PAID-OUT
-COST.
-                              |
-                              v
-A2 + FL
-paid-out cost
-+ imputed
-family labour.
-                              |
-                              v
-C2
-broader cost
-including imputed
-rental value /
-interest on owned
-capital assets
-as methodology provides.
-                              |
-                              v
-MSP FORMULA CLAIM
-must identify
-which cost concept.
-                              |
-                              v
-COST
-estimate varies
-by crop /
-state /
-method.
-                              |
-                              v
-                BRANCH IV: PROCUREMENT
-FARMER
-OFFERS PRODUCE.
-                              |
-                              v
-QUALITY /
-FAQ
-STANDARD.
-                              |
-                              v
-PURCHASE
-AT MSP
-where operation exists.
-                              |
-                              v
-FCI /
-STATE AGENCY /
-OTHER DESIGNATED
-AGENCY.
-                              |
-                              v
-PAYMENT.
-                              |
-                              v
-MOVEMENT /
-STORAGE.
-                              |
-                              v
-PROCUREMENT
-DEPTH
-varies by crop /
-region.
-                              |
-                              v
-PADDY /
-WHEAT
-deeper than
-many pulses /
-oilseeds.
-                              |
-                              v
-                BRANCH V: FCI ECONOMIC COST
-PROCUREMENT
-INCIDENTALS.
-                              |
-                              v
-ACQUISITION
-COST.
-                              |
-                              v
-DISTRIBUTION
-COST.
-                              |
-                              v
-HANDLING.
-                              |
-                              v
-STORAGE.
-                              |
-                              v
-TRANSPORT.
-                              |
-                              v
-ECONOMIC COST
-reflects more than MSP.
-                              |
-                              v
-MSP
-!= FCI economic cost.
-                              |
-                              v
-ISSUE PRICE
-may be below
-economic cost.
-                              |
-                              v
-FOOD SUBSIDY
-bridges policy gap.
-                              |
-                              v
-                BRANCH VI: BUFFER STOCK
-FOODGRAIN
-held above
-immediate distribution need
-for policy purposes.
-                              |
-                              v
-BUFFER
-NORMS.
-                              |
-                              v
-OPERATIONAL
-REQUIREMENT.
-                              |
-                              v
-STRATEGIC /
-EMERGENCY
-ROLE.
-                              |
-                              v
-SEASONAL
-PROCUREMENT /
-RELEASE.
-                              |
-                              v
-PRICE
-STABILISATION.
-                              |
-                              v
-FOOD
-SECURITY.
-                              |
-                              v
-EXCESS STOCK
-creates carrying /
-storage cost.
-                              |
-                              v
-                BRANCH VII: STOCK RELEASE
-PDS /
-NFSA
-entitlement.
-                              |
-                              v
-OTHER
-WELFARE
-SCHEMES.
-                              |
-                              v
-OPEN MARKET
-SALE SCHEME.
-                              |
-                              v
-MARKET
-PRICE MODERATION.
-                              |
-                              v
-EMERGENCY /
-DISASTER.
-                              |
-                              v
-EXPORT /
-DISPOSAL
-subject to policy.
-                              |
-                              v
-TIMING
-determines stabilisation.
-                              |
-                              v
-RELEASE
-too late
-cannot prevent spike.
-                              |
-                              v
-                BRANCH VIII: PRICE STABILISATION
-SUPPLY
-SHOCK.
-                              |
-                              v
-MARKET
-SHORTAGE /
-EXPECTATION.
-                              |
-                              v
-PUBLIC
-STOCK RELEASE.
-                              |
-                              v
-ADDITIONAL
-MARKET SUPPLY.
-                              |
-                              v
-PRICE
-PRESSURE MODERATES.
-                              |
-                              v
-EFFECT
-depends on
-quantity,
-timing,
-location,
-logistics.
-                              |
-                              v
-BUFFER
-is not substitute
-for production /
-imports.
-                              |
-                              v
-                BRANCH IX: NFSA 2013
-RIGHTS-BASED
-FOOD-SECURITY
-FRAMEWORK.
-                              |
-                              v
-ELIGIBLE
-HOUSEHOLDS.
-                              |
-                              v
-PRIORITY
-HOUSEHOLDS.
-                              |
-                              v
-ANTYODAYA
-ANNA YOJANA
-households.
-                              |
-                              v
-SUBSIDISED /
-ENTITLED
-FOODGRAIN.
-                              |
-                              v
-MATERNITY /
-CHILD
-NUTRITION
-provisions
-within Act.
-                              |
-                              v
-GRIEVANCE /
-TRANSPARENCY /
-SOCIAL AUDIT
-architecture.
-                              |
-                              v
-ENTITLEMENT
-!= nutritional adequacy
-by itself.
-                              |
-                              v
-                BRANCH X: PDS DELIVERY
-CENTRAL
-PROCUREMENT /
-ALLOCATION.
-                              |
-                              v
-STATE
-LIFTING /
-TRANSPORT.
-                              |
-                              v
-FAIR PRICE
-SHOP.
-                              |
-                              v
-BENEFICIARY
-IDENTIFICATION.
-                              |
-                              v
-AUTHENTICATION.
-                              |
-                              v
-DISTRIBUTION.
-                              |
-                              v
-GRIEVANCE /
-SOCIAL AUDIT.
-                              |
-                              v
-DELIVERY
-CHAIN
-can fail at each stage.
-                              |
-                              v
-                BRANCH XI: PDS REFORMS
-DIGITISE
-RATION CARDS.
-                              |
-                              v
-DE-DUPLICATE.
-                              |
-                              v
-COMPUTERISE
-SUPPLY CHAIN.
-                              |
-                              v
-GPS /
-TRACK
-MOVEMENT.
-                              |
-                              v
-ELECTRONIC
-POINT OF SALE.
-                              |
-                              v
-PUBLIC
-DISCLOSURE.
-                              |
-                              v
-SOCIAL
-AUDIT.
-                              |
-                              v
-GRIEVANCE
-REDRESS.
-                              |
-                              v
-PORTABILITY.
-                              |
-                              v
-TECHNOLOGY
-must not create
-authentication exclusion.
-                              |
-                              v
-                BRANCH XII: ONORC
-ONE NATION
-ONE RATION CARD.
-                              |
-                              v
-PORTABILITY
-OF FOODGRAIN
-ENTITLEMENT.
-                              |
-                              v
-MIGRANT
-HOUSEHOLDS.
-                              |
-                              v
-INTER-STATE /
-INTRA-STATE
-transactions.
-                              |
-                              v
-CENTRAL
-DATA /
-SETTLEMENT.
-                              |
-                              v
-FAMILY
-SPLIT LIFTING
-where enabled.
-                              |
-                              v
-AUTHENTICATION /
-CONNECTIVITY
-risk.
-                              |
-                              v
-PORTABILITY
-!= universal eligibility.
-                              |
-                              v
-                BRANCH XIII: FOOD SECURITY DIMENSIONS
-AVAILABILITY.
-                              |
-                              v
-ACCESS.
-                              |
-                              v
-AFFORDABILITY.
-                              |
-                              v
-UTILISATION /
-NUTRITION.
-                              |
-                              v
-STABILITY
-OVER TIME.
-                              |
-                              v
-CALORIE
-!= nutrition.
-                              |
-                              v
-GRAIN
-ENTITLEMENT
-!= diversified diet.
-                              |
-                              v
-SANITATION /
-HEALTH /
-CARE
-affect nutrition.
-                              |
-                              v
-                BRANCH XIV: MILLETS / NUTRITION
-NUTRIENT
-DENSITY.
-                              |
-                              v
-DRYLAND
-RESILIENCE.
-                              |
-                              v
-LOWER
-WATER NEED
-than paddy
-in typical comparison.
-                              |
-                              v
-PROCUREMENT.
-                              |
-                              v
-STORAGE /
-PROCESSING.
-                              |
-                              v
-PDS /
-SCHOOL MEAL
-INCLUSION.
-                              |
-                              v
-CONSUMER
-ACCEPTANCE.
-                              |
-                              v
-2024 GS-III
-nutrition-security
-demand.
-                              |
-                              v
-BRANDING
-alone insufficient.
-                              |
-                              v
-                BRANCH XV: FARMER-CONSUMER BALANCE
-HIGHER MSP
-supports producer.
-                              |
-                              v
-PROCUREMENT
-creates assurance.
-                              |
-                              v
-HIGHER
-ACQUISITION /
-STORAGE COST.
-                              |
-                              v
-MARKET /
-CONSUMER
-PRICE EFFECT.
-                              |
-                              v
-FOOD
-SUBSIDY.
-                              |
-                              v
-CROP /
-WATER
-INCENTIVE.
-                              |
-                              v
-BALANCE
-income,
-affordability,
-nutrition,
-sustainability.
-                              |
-                              v
-                BRANCH XVI: LIMITATIONS
-PROCUREMENT
-CONCENTRATION.
-                              |
-                              v
-CROP
-BIAS.
-                              |
-                              v
-REGIONAL
-BIAS.
-                              |
-                              v
-STORAGE
-LOSS.
-                              |
-                              v
-HIGH
-CARRYING COST.
-                              |
-                              v
-LEAKAGE /
-DIVERSION.
-                              |
-                              v
-EXCLUSION /
-INCLUSION
-ERROR.
-                              |
-                              v
-AUTHENTICATION
-FAILURE.
-                              |
-                              v
-NUTRITION
-NARROWNESS.
-                              |
-                              v
-PRICE /
-WATER
-DISTORTION.
-                              |
-                              v
-                BRANCH XVII: WAY FORWARD
-WIDEN
-EFFECTIVE
-PROCUREMENT
-selectively.
-                              |
-                              v
-DECENTRALISED
-PROCUREMENT.
-                              |
-                              v
-SCIENTIFIC
-STORAGE /
-SILOS.
-                              |
-                              v
-TIMELY
-STOCK RELEASE.
-                              |
-                              v
-TRANSPARENT
-PDS.
-                              |
-                              v
-PORTABILITY
-with offline /
-grievance backup.
-                              |
-                              v
-DIVERSIFY
-FOOD BASKET.
-                              |
-                              v
-ALIGN
-MSP /
-WATER /
-NUTRITION
-signals.
-                              |
-                              v
-                    DATA / POLICY / EXAMPLE BANK
-MSP /
-CACP /
-CCEA.
-                              |
-                              v
-A2 /
-A2+FL /
-C2.
-                              |
-                              v
-FCI
-economic cost.
-                              |
-                              v
-buffer norms /
-OMSS.
-                              |
-                              v
-NFSA 2013 /
-TPDS /
-ONORC.
-                              |
-                              v
-millet /
-nutrition linkage.
-                              |
-                              v
-                    SOURCE CRITICISM
-MSP announcement != procurement;
-CACP recommendation != CCEA decision;
-MSP != universal legal purchase guarantee;
-A2+FL != C2;
-MSP != economic cost;
-procurement != buffer stock;
-buffer norm != actual stock;
-issue price != market price;
-foodgrain access != nutrition outcome;
-portability != eligibility;
-authentication success != absence of exclusion.
-                              |
-                              v
-                    MAJOR DEBATES
-PRICE SUPPORT
-OR INCOME SUPPORT?
-complementary tools.
-                              |
-                              v
-FARMER PRICE
-OR CONSUMER PRICE?
-calibrated subsidy /
-release.
-                              |
-                              v
-CENTRALISED
-OR DECENTRALISED
-PROCUREMENT?
-capacity /
-crop diversity.
-                              |
-                              v
-UNIVERSAL
-OR TARGETED PDS?
-coverage /
-fiscal /
-error trade-off.
-                              |
-                              v
-GRAIN
-OR NUTRITION?
-diversified basket.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-CACP recommends;
-CCEA announces MSP;
-procurement is not unlimited
-for every crop /
-state;
-FCI economic cost exceeds
-mere purchase price;
-NFSA 2013 is rights-based;
-ONORC gives portability,
-not new entitlement;
-oilseed procurement has limits;
-niger seed has MSP /
-season-specific facts.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT MAINS:
-2018 MSP /
-low farm income;
-2019 food-distribution reform;
-2021 NFSA /
-hunger;
-2022 PDS challenges /
-transparency;
-2024 millets /
-nutrition;
-2024 buffer stocks /
-price stabilisation /
-storage.
-Mains has no objective answer key.
-                              |
-                              v
-PRELIMS:
-2018 CCEA /
-MSP;
-2019 FCI economic cost;
-2020 rice-price factors;
-2020 oilseed procurement limits;
-2023 niger seed.
-Official historical keys
-unavailable locally.
-No option or answer letter
-is inferred.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-MSP /
-CACP /
-CCEA
--> cost concepts
--> procurement
--> FCI economic cost
--> buffer /
-norms
--> release /
-OMSS
--> NFSA /
-PDS
--> ONORC
--> nutrition /
-millets.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-DEFINE
-price-to-food chain.
-                              |
-                              v
-EXPLAIN
-farmer incentive.
-                              |
-                              v
-TRACE
-procurement /
-storage /
-distribution.
-                              |
-                              v
-ASSESS
-price /
-fiscal /
-water /
-nutrition effects.
-                              |
-                              v
-ADD
-delivery reforms.
-                              |
-                              v
-CONCLUDE
-farmer-consumer balance.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-MSP, procurement, buffer stocks and the PDS form one linked policy system, but
-each stage has a different legal and operational status. Food security requires
-remunerative production, efficient stocks, portable entitlements and a more
-nutritious basket. Reform should reduce crop and regional concentration while
-protecting both small producers and vulnerable consumers.
+CACP RECOMMENDATION -> CCEA MSP -> ACTUAL PROCUREMENT
+ -> CENTRAL POOL -> STORAGE / MOVEMENT -> NFSA OR OMSS RELEASE
 ```
+
+Announcement, purchase, stock norm, actual stock, allocation, offtake and household receipt are different stages.
+
+## 1. MSP AND CURRENT STATUS
+
+- **MSP:** pre-season administered price for specified crops; not automatic universal purchase or farm income.
+- **CACP:** expert advisory body; **CCEA:** final Union decision.
+- **22 mandated crops:** 14 kharif, 6 rabi, jute and copra. Toria and de-husked coconut use derived prices. Sugarcane uses separate **FRP**.
+- **RMS 2026-27:** approved **1 October 2025**.
+- **KMS 2026-27:** approved **13 May 2026**.
+- Quote a current rate only with crop, variety, rupees/quintal, marketing season and official release.
+
+## 2. COST LADDER AND FORMULA
+
+```text
+A2 = paid-out cultivation cost
+A2+FL = A2 + imputed unpaid family labour
+C2 = A2+FL + owned-land rent + owned fixed-capital interest
+OFFICIAL POLICY FLOOR = at least 1.5 x all-India weighted average A2+FL
+```
+
+C2-plus-50 is a separate farmer demand. CACP also examines demand-supply, inter-crop parity, prices, terms of trade and policy effects.
+
+## 3. PROCUREMENT
+
+- Actual agency purchase requires crop, **Fair Average Quality**, season, location and operational window.
+- Open-ended procurement: conforming paddy/wheat offered in an operating system is purchased without a preset aggregate cap; it is not universal across crops or places.
+- Pulses/oilseeds/copra may use conditional PSS operations through NAFED, NCCF and States.
+- **DCP:** State procures, stores and distributes its NFSA requirement; excess/shortfall adjusts through central pool and approved reimbursement.
+- Procurement remains concentrated by crop and State.
+
+## 4. FCI, CENTRAL POOL AND COST
+
+- FCI: statutory corporation under Food Corporations Act, 1964; procurement support, storage, movement, distribution, buffers and OMSS.
+- Central pool: public stocks for NFSA, welfare, buffer, emergencies and market management.
+- Acquisition cost = MSP + procurement incidentals.
+- Economic cost = acquisition cost + distribution cost.
+- Carrying cost = financing + storage + handling + preservation over time.
+
+## 5. QUARTERLY BUFFER NORMS
+
+| Date | Wheat MMT | Rice MMT | Total MMT |
+|---|---:|---:|---:|
+| 1 April | 7.46 | 13.58 | 21.04 |
+| 1 July | 27.58 | 13.54 | 41.12 |
+| 1 October | 20.52 | 10.25 | 30.77 |
+| 1 January | 13.80 | 7.61 | 21.41 |
+
+Approved in January 2015 and still cited in official material checked **9 September 2026**. These are minimum norms, not actual current stock.
+
+## 6. RELEASE INSTRUMENTS
+
+- **NFSA release:** fulfils identified household entitlement.
+- **OMSS(D):** FCI sale through notified market channels to influence supply/prices or manage stocks.
+- **Price Stabilisation Fund:** separate intervention/buffer route for selected commodities.
+- Allocation != offtake != fair-price-shop transaction != household consumption.
+
+## 7. NFSA 2013
+
+- Coverage: up to **75% rural** and **50% urban**; State identification within ceilings.
+- **PHH:** 5 kg/person/month.
+- **AAY:** 35 kg/household/month.
+- Current free-foodgrain arrangement: about **81.35 crore** beneficiaries, **1 January 2024-December 2028**.
+- Centre: procurement/allocation/support. States: identification, cards, FPS, intra-State delivery and grievance.
+- Accountability: disclosure, social audit, vigilance committees, DGRO, State Food Commission and food-security allowance.
+
+## 8. ONORC AND DIGITISATION
+
+- DFPD Year End Review 2025: ONORC implemented across all **36 States/UTs**.
+- Portability follows an identified entitlement; it is not universal eligibility.
+- ePoS and digitisation improve traceability but biometric/network failure needs alternate authentication and prompt grievance.
+- Deletion, inclusion error, exclusion error and leakage are distinct.
+
+## 9. FOOD SECURITY AND NUTRITION
+
+```text
+AVAILABILITY + ACCESS + UTILISATION + STABILITY
+```
+
+- National grain surplus does not prove household nutrition.
+- Fortified rice continuation: **July 2024-December 2028**; complements dietary diversity.
+- Pulses, millets and diverse foods improve protein and micronutrient security.
+- Cash transfers offer choice but shift inflation, banking and local-market risk to households.
+
+## 10. WTO CROSS-LINK
+
+- Market price support AMS = (administered price - **1986-88** external reference price) x eligible production.
+- Developing-country product-specific de minimis: **10%** of value of production.
+- Bali **2013** peace clause and **27 November 2014** clarification provide conditional interim protection for covered public-stockholding programmes.
+- Detailed subsidy-box and notification analysis belongs to Topic 28.
+
+## 11. PRELIMS TRAPS
+
+1. CACP recommendation != CCEA decision.
+2. MSP list != procurement coverage.
+3. A2+FL != C2.
+4. MSP != FCI economic cost.
+5. Buffer norm != actual stock.
+6. NFSA coverage != entitlement quantity.
+7. PHH uses person; AAY uses household.
+8. ONORC portability != universal eligibility.
+9. OMSS != NFSA release.
+10. Peace clause != unlimited WTO exemption.
+
+## 12. MAINS REFORM SPINE
+
+```text
+TRANSPARENT COSTS AND PRICE DECISION
+ -> DIVERSIFIED / DECENTRALISED PROCUREMENT
+ -> DYNAMIC STOCKS + SMART STORAGE + PREDICTABLE OMSS
+ -> PORTABLE, EXCLUSION-SAFE NFSA
+ -> NUTRITION, FISCAL AND ECOLOGICAL BALANCE
+```
+
+**Boundary:** APMC, e-NAM, FPOs and general agricultural supply chains belong to Topic 13.

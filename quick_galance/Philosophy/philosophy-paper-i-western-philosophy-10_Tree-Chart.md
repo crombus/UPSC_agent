@@ -1,1942 +1,247 @@
-# Philosophy Optional — Paper I — Western Philosophy 10 — Existentialism
+# Existentialism (Kierkegaard, Sartre, Heidegger) — Quick-Glance Tree Chart
 
-## Quick-Glance Tree Chart
+**Subject:** Philosophy Optional · **Paper I, Section A** · **Syllabus item 10**
+**Syllabus, verbatim:** *Existentialism (Kierkegaard, Sarte, Heidegger): Existence and Essence; Choice, Responsibility and Authentic Existence; Being-in-the-world and Temporality.*
+📝 The paper prints "Sarte"; the philosopher is **Jean-Paul Sartre**.
 
-```text
-EXISTENTIALISM: KIERKEGAARD, SARTRE AND HEIDEGGER
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Existentialism is a retrospective family of distinct projects centred on concrete,
-finite and situated existence. Kierkegaard defends the single individual's passionate
-religious appropriation against systematic closure. Sartre makes consciousness a
-nihilating, radically free project without predetermined human essence. Heidegger uses
-Dasein's being-in-the-world, care, death and temporality to reopen the question of
-Being, not to offer a humanist ethics. Their shared concern with choice, anxiety and
-authenticity conceals major disagreements about God, freedom, subjectivity and ontology.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-Kierkegaard /
-Sartre /
-Heidegger;
-existence /
-essence;
-single individual /
-truth as
-subjectivity;
-spheres of
-existence;
-anxiety /
-despair /
-faith /
-leap;
-Sartrean in-itself /
-for-itself /
-nothingness /
-facticity /
-transcendence /
-freedom /
-responsibility /
-bad faith /
-Look /
-being-for-others;
-Heideggerian Dasein /
-being-in-world /
-worldhood /
-equipment /
-existentialia /
-care /
-they /
-authenticity /
-death /
-temporality.
-                              |
-                              v
-DOES NOT OWN:
-Nietzsche /
-Camus /
-Jaspers /
-Marcel /
-de Beauvoir
-as independent
-printed thinkers;
-full Husserl:
-Topic 09;
-full Hegel:
-Topic 05;
-later Sartrean
-Marxism /
-politics.
-                              |
-                              v
-SOURCE MAP:
-Kierkegaard:
-pseudonymous /
-signed works.
-                              |
-                              v
-Sartre:
-Being and Nothingness,
-1943.
-                              |
-                              v
-Existentialism Is
-a Humanism,
-1946.
-                              |
-                              v
-Heidegger:
-Being and Time,
-1927.
-                              |
-                              v
-Letter on Humanism,
-1947.
-                              |
-                              v
-SOURCE CAUTION:
-official syllabus
-prints "Sarte";
-intended thinker
-is Sartre;
-preserve typo only
-when quoting syllabus.
-                              |
-                              v
-              BRANCH I: FAMILY / DIFFERENCE
-shared:
-concrete existence.
-                              |
-                              v
-finitude.
-                              |
-                              v
-choice /
-commitment.
-                              |
-                              v
-anxiety /
-alienation.
-                              |
-                              v
-resistance to
-abstract closure.
-                              |
-                              v
-KIERKEGAARD:
-theistic /
-religious /
-anti-systematic.
-                              |
-                              v
-SARTRE:
-atheistic /
-humanist /
-freedom-centred.
-                              |
-                              v
-HEIDEGGER:
-fundamental ontology /
-anti-humanist /
-Being-centred.
-                              |
-                              v
-existentialism !=
-one creed.
-                              |
-                              v
-"existence precedes
-essence" !=
-shared slogan
-of all three.
-                              |
-                              v
-              BRANCH II: KIERKEGAARD AGAINST SYSTEM
-target:
-Hegelian completed
-system.
-                              |
-                              v
-individual treated
-as moment of
-Absolute Spirit.
-                              |
-                              v
-Kierkegaard:
-system explains
-everything except
-existing individual.
-                              |
-                              v
-existence is:
-particular.
-                              |
-                              v
-temporal.
-                              |
-                              v
-passionate.
-                              |
-                              v
-deciding.
-                              |
-                              v
-risk-laden.
-                              |
-                              v
-cannot be captured
-from finished
-impersonal standpoint.
-                              |
-                              v
-DEN ENKELTE.
-                              |
-                              v
-single individual.
-                              |
-                              v
-crowd enables
-evasion of
-personal responsibility.
-                              |
-                              v
-critique is of
-existential closure,
-not every logical
-system.
-                              |
-                              v
-              BRANCH III: TRUTH IS SUBJECTIVITY
-Johannes Climacus.
-                              |
-                              v
-Concluding Unscientific
-Postscript,
-1846.
-                              |
-                              v
-not relativism.
-                              |
-                              v
-does not deny
-objective truth
-in logic /
-science.
-                              |
-                              v
-ethical /
-religious truth
-requires mode
-of appropriation.
-                              |
-                              v
-HOW one relates
-to truth matters.
-                              |
-                              v
-passionate inwardness.
-                              |
-                              v
-commitment /
-risk.
-                              |
-                              v
-knowing proposition
-about God !=
-existing before
-God.
-                              |
-                              v
-"subjectivity is
-untruth" complements:
-finite /
-sinful subject
-not identical
-with eternal truth.
-                              |
-                              v
-LIMIT:
-may slide into
-fideism /
-insufficient public
-reason.
-                              |
-                              v
-              BRANCH IV: INDIRECT COMMUNICATION
-objective information
-can be transmitted
-directly.
-                              |
-                              v
-existential truth
-is mode of
-living /
-appropriation.
-                              |
-                              v
-direct doctrine
-would turn it
-into information.
-                              |
-                              v
-therefore indirect
-communication.
-                              |
-                              v
-reader must choose /
-appropriate.
-                              |
-                              v
-Socratic maieutics.
-                              |
-                              v
-author as
-vanishing occasion.
-                              |
-                              v
-PSEUDONYMS =
-personified existence
-possibilities,
-not disguises.
-                              |
-                              v
-Victor Eremita.
-                              |
-                              v
-Johannes de Silentio.
-                              |
-                              v
-Constantin Constantius.
-                              |
-                              v
-Vigilius Haufniensis.
-                              |
-                              v
-Johannes Climacus.
-                              |
-                              v
-Anti-Climacus.
-                              |
-                              v
-cite pseudonym,
-not simply
-Kierkegaard,
-where doctrine
-belongs to voice.
-                              |
-                              v
-double authorship:
-signed Edifying
-Discourses alongside
-pseudonyms.
-                              |
-                              v
-              BRANCH V: THREE SPHERES
-AESTHETIC.
-                              |
-                              v
-immediacy /
-pleasure /
-interesting /
-avoid commitment.
-                              |
-                              v
-irony /
-detachment.
-                              |
-                              v
-limit:
-boredom /
-fragmentation /
-despair.
-                              |
-                              v
-ETHICAL.
-                              |
-                              v
-universal duty.
-                              |
-                              v
-commitment /
-marriage /
-vocation.
-                              |
-                              v
-responsible self-
-choice.
-                              |
-                              v
-limit:
-guilt /
-inability to
-fulfil universal
-perfectly.
-                              |
-                              v
-RELIGIOUS.
-                              |
-                              v
-singular individual
-before God.
-                              |
-                              v
-faith /
-paradox /
-infinite passion.
-                              |
-                              v
-Abraham /
-knight of faith
-in Fear and
-Trembling.
-                              |
-                              v
-teleological suspension
-of ethical
-is pseudonymous
-paradox,
-not licence
-for private violence.
-                              |
-                              v
-MOVEMENT:
-qualitative leap,
-not chronological
-maturation /
-Hegelian deduction.
-                              |
-                              v
-relapse possible.
-                              |
-                              v
-              BRANCH VI: KIERKEGAARD ANXIETY / DESPAIR
-ANXIETY /
-ANGEST.
-                              |
-                              v
-dizziness of
-freedom.
-                              |
-                              v
-object =
-nothing determinate.
-                              |
-                              v
-possibility of
-being able.
-                              |
-                              v
-abyss example.
-                              |
-                              v
-drawn to /
-repelled by
-possibility.
-                              |
-                              v
-presupposition of
-choice /
-sin /
-selfhood.
-                              |
-                              v
-DESPAIR.
-                              |
-                              v
-Anti-Climacus,
-Sickness unto Death.
-                              |
-                              v
-misrelation in
-self's relation
-to itself /
-grounding power.
-                              |
-                              v
-not willing to
-be oneself.
-                              |
-                              v
-defiantly willing
-to be self
-without God.
-                              |
-                              v
-different from
-Sartre's lecture-term
-despair.
-                              |
-                              v
-              BRANCH VII: SARTRE'S SLOGAN
-existence precedes
-essence.
-                              |
-                              v
-paper-knife.
-                              |
-                              v
-artisan has design
-before object.
-                              |
-                              v
-traditional theism:
-God has human
-blueprint.
-                              |
-                              v
-Sartrean atheism:
-no divine artisan.
-                              |
-                              v
-human first exists.
-                              |
-                              v
-encounters self /
-world.
-                              |
-                              v
-defines self
-through projects.
-                              |
-                              v
-no predetermined
-human essence.
-                              |
-                              v
-biology /
-history /
-society form
-facticity,
-not complete
-meaning.
-                              |
-                              v
-Sartre's atheism
-is premise of
-argument.
-                              |
-                              v
-Kierkegaard's theism
-shows slogan not
-definition of
-all existentialism.
-                              |
-                              v
-              BRANCH VIII: HEIDEGGER REJECTS SLOGAN
-Being and Time §9:
-essence of Dasein
-lies in existence.
-                              |
-                              v
-not Sartrean
-self-creation formula.
-                              |
-                              v
-existence =
-mode of being /
-standing-out into
-disclosure.
-                              |
-                              v
-Letter on Humanism,
-1947.
-                              |
-                              v
-Sartre merely reverses
-traditional priority
-within metaphysics
-of subjectivity.
-                              |
-                              v
-Heidegger's question:
-Being,
-not human essence
-construction.
-                              |
-                              v
-human as
-shepherd of Being,
-not lord of
-beings.
-                              |
-                              v
-HEIDEGGER !=
-Sartrean humanist.
-                              |
-                              v
-              BRANCH IX: EN-SOI / POUR-SOI
-BEING-IN-ITSELF.
-                              |
-                              v
-en-soi.
-                              |
-                              v
-full /
-solid /
-opaque /
-self-identical.
-                              |
-                              v
-is what it is.
-                              |
-                              v
-stone /
-table as
-illustrations.
-                              |
-                              v
-BEING-FOR-ITSELF.
-                              |
-                              v
-pour-soi.
-                              |
-                              v
-consciousness.
-                              |
-                              v
-nihilating /
-self-surpassing /
-non-self-identical.
-                              |
-                              v
-is what it
-is not.
-                              |
-                              v
-future possibilities
-define project.
-                              |
-                              v
-is not what
-it is.
-                              |
-                              v
-transcends past /
-role /
-facticity.
-                              |
-                              v
-EN-SOI !=
-matter simply.
-                              |
-                              v
-POUR-SOI !=
-Cartesian mind
-substance.
-                              |
-                              v
-ontological distinction.
-                              |
-                              v
-              BRANCH X: NOTHINGNESS / NIHILATION
-consciousness introduces
-negation into being.
-                              |
-                              v
-questions.
-                              |
-                              v
-absence.
-                              |
-                              v
-possibility.
-                              |
-                              v
-distance from
-what is.
-                              |
-                              v
-NEANTISATION.
-                              |
-                              v
-for-itself stands
-back from
-facticity.
-                              |
-                              v
-can project
-otherwise.
-                              |
-                              v
-freedom grounded
-in non-coincidence.
-                              |
-                              v
-for-itself desires
-self-identical completeness
-of in-itself.
-                              |
-                              v
-pour-soi-en-soi /
-God ideal
-is contradictory.
-                              |
-                              v
-human as
-useless passion
-in Sartrean conclusion.
-                              |
-                              v
-              BRANCH XI: FACTICITY / TRANSCENDENCE
-FACTICITY.
-                              |
-                              v
-body.
-                              |
-                              v
-past.
-                              |
-                              v
-social position.
-                              |
-                              v
-historical situation.
-                              |
-                              v
-constraints.
-                              |
-                              v
-TRANSCENDENCE.
-                              |
-                              v
-project /
-possibility /
-negation /
-self-surpassing.
-                              |
-                              v
-human reality
-is both.
-                              |
-                              v
-BAD FAITH:
-identify as
-facticity only.
-                              |
-                              v
-or transcendence
-only.
-                              |
-                              v
-AUTHENTICITY would
-own tension,
-though Sartre's
-positive account
-is underdeveloped.
-                              |
-                              v
-              BRANCH XII: RADICAL FREEDOM
-freedom not
-property possessed.
-                              |
-                              v
-freedom is
-being of
-for-itself.
-                              |
-                              v
-condemned to
-be free.
-                              |
-                              v
-did not choose
-existence.
-                              |
-                              v
-cannot avoid
-taking stance.
-                              |
-                              v
-non-choice is
-choice.
-                              |
-                              v
-deferral /
-conformity /
-inaction
-take up situation.
-                              |
-                              v
-motives do not
-mechanically determine.
-                              |
-                              v
-become reasons
-through meaning
-within project.
-                              |
-                              v
-freedom is
-SITUATED.
-                              |
-                              v
-not omnipotence.
-                              |
-                              v
-cannot fly /
-erase oppression.
-                              |
-                              v
-must interpret /
-take up facticity.
-                              |
-                              v
-CRITIQUE:
-trauma /
-coercion /
-poverty /
-racism /
-illness constrain
-action and perceived
-possibilities.
-                              |
-                              v
-later Sartre
-adds scarcity /
-practico-inert /
-seriality.
-                              |
-                              v
-              BRANCH XIII: ANGUISH / ABANDONMENT / DESPAIR
-ANGUISH.
-                              |
-                              v
-awareness of
-freedom /
-no internal
-guarantee.
-                              |
-                              v
-vertigo before
-possibility.
-                              |
-                              v
-ABANDONMENT.
-                              |
-                              v
-no God /
-pre-given
-value order.
-                              |
-                              v
-values invented
-through choice.
-                              |
-                              v
-DESPAIR.
-                              |
-                              v
-act without relying
-on outcomes beyond
-control.
-                              |
-                              v
-not Kierkegaard's
-theological despair.
-                              |
-                              v
-CHOICE FOR ALL.
-                              |
-                              v
-in choosing self,
-choose image
-of humanity.
-                              |
-                              v
-quasi-Kantian
-universalisability.
-                              |
-                              v
-TENSION:
-whence universal
-form if no
-a priori values?
-                              |
-                              v
-              BRANCH XIV: BAD FAITH
-self-deception.
-                              |
-                              v
-flight from freedom.
-                              |
-                              v
-WAITER.
-                              |
-                              v
-over-scripted role /
-thing-like identity.
-                              |
-                              v
-role-performance alone
-not automatically
-bad faith.
-                              |
-                              v
-WOMAN ON DATE.
-                              |
-                              v
-gesture treated
-as neutral fact
-while freedom /
-meaning denied.
-                              |
-                              v
-double evasion
-of facticity /
-transcendence.
-                              |
-                              v
-PARADOX:
-self-deceiver must
-know and
-not know.
-                              |
-                              v
-Sartre rejects
-Freudian unconscious.
-                              |
-                              v
-pre-reflective awareness
-without thematic
-avowal as reply.
-                              |
-                              v
-coherence remains
-debated.
-                              |
-                              v
-inauthenticity /
-alienation:
-self lives as
-fixed role /
-object.
-                              |
-                              v
-              BRANCH XV: LOOK / BEING-FOR-OTHERS
-keyhole example.
-                              |
-                              v
-absorbed looking.
-                              |
-                              v
-no thematic ego.
-                              |
-                              v
-footsteps /
-being seen.
-                              |
-                              v
-shame.
-                              |
-                              v
-I become object
-for Other.
-                              |
-                              v
-other revealed
-non-inferentially
-as subject
-for whom I
-am object.
-                              |
-                              v
-Other mediates
-self's external
-being.
-                              |
-                              v
-being-for-others.
-                              |
-                              v
-strategies:
-possess other's
-freedom through
-love /
-masochism.
-                              |
-                              v
-or objectify Other
-through indifference /
-desire /
-sadism /
-hate.
-                              |
-                              v
-both fail.
-                              |
-                              v
-conflict as
-original relation.
-                              |
-                              v
-"Hell is other
-people"
-from No Exit.
-                              |
-                              v
-not claim all
-relations always
-poisonous.
-                              |
-                              v
-CRITIQUE:
-pathological examples /
-subject-object exclusivity.
-                              |
-                              v
-later solidarity /
-Levinas /
-care challenge.
-                              |
-                              v
-              BRANCH XVI: FEAR / ANXIETY
-FEAR.
-                              |
-                              v
-determinate object.
-                              |
-                              v
-dog /
-exam /
-fall.
-                              |
-                              v
-remain within
-world of concern.
-                              |
-                              v
-ANXIETY /
-DREAD /
-ANGUISH.
-                              |
-                              v
-no determinate
-object.
-                              |
-                              v
-KIERKEGAARD:
-possibility /
-freedom.
-                              |
-                              v
-HEIDEGGER:
-being-in-world
-as whole /
-world insignificance.
-                              |
-                              v
-SARTRE:
-own freedom.
-                              |
-                              v
-Kierkegaard abyss.
-                              |
-                              v
-Heidegger anxiety
-§40.
-                              |
-                              v
-Sartre cliff /
-gambler.
-                              |
-                              v
-philosophically discloses
-freedom /
-finitude /
-groundlessness.
-                              |
-                              v
-NATURALIST OBJECTION:
-anxiety is
-neuropsychological state,
-not ontology.
-                              |
-                              v
-existentialist reply:
-objectless structure
-is phenomenon
-requiring explanation.
-                              |
-                              v
-              BRANCH XVII: HEIDEGGER'S BEING-QUESTION
-fundamental ontology.
-                              |
-                              v
-ONTOLOGICAL DIFFERENCE.
-                              |
-                              v
-Being !=
-particular being.
-                              |
-                              v
-Being =
-intelligibility through
-which entities
-show as entities.
-                              |
-                              v
-Dasein selected
-because own Being
-is issue for it.
-                              |
-                              v
-pre-ontological
-understanding of
-Being.
-                              |
-                              v
-moods /
-death /
-authenticity
-serve Being-question.
-                              |
-                              v
-not existentialist
-psychology.
-                              |
-                              v
-              BRANCH XVIII: BEING-IN-THE-WORLD
-In-der-Welt-sein.
-                              |
-                              v
-unitary hyphenated
-structure.
-                              |
-                              v
-not subject
-inside container-world.
-                              |
-                              v
-Dasein does not
-first exist alone,
-then infer world.
-                              |
-                              v
-constitutively engaged.
-                              |
-                              v
-practical /
-concernful /
-social.
-                              |
-                              v
-dissolves Cartesian
-subject-object split.
-                              |
-                              v
-Heidegger's objection
-to Husserlian
-transcendental ego:
-reflective reduction
-is less primordial
-than already involved
-worldhood.
-                              |
-                              v
-not simple rejection
-of phenomenological
-description.
-                              |
-                              v
-              BRANCH XIX: WORLDHOOD / EQUIPMENT
-world !=
-sum of
-physical objects.
-                              |
-                              v
-meaningful referential
-context.
-                              |
-                              v
-READY-TO-HAND.
-                              |
-                              v
-Zuhandenheit.
-                              |
-                              v
-equipment in
-practical use.
-                              |
-                              v
-hammer for
-hammering.
-                              |
-                              v
-nail /
-wood /
-house /
-dwelling
-referential totality.
-                              |
-                              v
-PRESENT-AT-HAND.
-                              |
-                              v
-Vorhandenheit.
-                              |
-                              v
-object with
-properties for
-theoretical observation.
-                              |
-                              v
-derived mode,
-not false.
-                              |
-                              v
-BREAKDOWN.
-                              |
-                              v
-broken /
-missing /
-obstructive tool
-makes equipment /
-network conspicuous.
-                              |
-                              v
-practical significance
-precedes detached
-object theory.
-                              |
-                              v
-              BRANCH XX: EXISTENTIALIA
-BEFINDLICHKEIT.
-                              |
-                              v
-attunement /
-disposedness.
-                              |
-                              v
-mood discloses
-situation /
-world.
-                              |
-                              v
-not subjective
-colour added
-to neutral world.
-                              |
-                              v
-VERSTEHEN.
-                              |
-                              v
-understanding /
-projection upon
-possibilities.
-                              |
-                              v
-practical know-how,
-not theory only.
-                              |
-                              v
-REDE.
-                              |
-                              v
-discourse /
-articulation of
-understanding.
-                              |
-                              v
-condition of
-speech /
-listening.
-                              |
-                              v
-together constitute
-disclosedness /
-the Da.
-                              |
-                              v
-              BRANCH XXI: CARE
-Sorge.
-                              |
-                              v
-unitary Being
-of Dasein.
-                              |
-                              v
-AHEAD-OF-ITSELF.
-                              |
-                              v
-projection /
-future possibilities.
-                              |
-                              v
-ALREADY-IN.
-                              |
-                              v
-thrownness /
-facticity /
-world.
-                              |
-                              v
-ALONGSIDE.
-                              |
-                              v
-absorption in
-entities /
-concern.
-                              |
-                              v
-care not
-psychological worry.
-                              |
-                              v
-ontological structure
-making attitudes /
-actions possible.
-                              |
-                              v
-              BRANCH XXII: DAS MAN / INAUTHENTICITY
-being-with others.
-                              |
-                              v
-anonymous "they".
-                              |
-                              v
-what one does /
-says /
-thinks.
-                              |
-                              v
-IDLE TALK.
-                              |
-                              v
-received opinion
-without appropriation.
-                              |
-                              v
-CURIOSITY.
-                              |
-                              v
-restless novelty.
-                              |
-                              v
-AMBIGUITY.
-                              |
-                              v
-everything appears
-understood,
-nothing owned.
-                              |
-                              v
-FALLING.
-                              |
-                              v
-absorption in
-world /
-publicness.
-                              |
-                              v
-not theological
-fall /
-moral sin.
-                              |
-                              v
-inauthenticity is
-default existential
-mode,
-not moral badness.
-                              |
-                              v
-              BRANCH XXIII: AUTHENTICITY
-Eigentlichkeit.
-                              |
-                              v
-existential modification,
-not virtue.
-                              |
-                              v
-CALL OF CONSCIENCE.
-                              |
-                              v
-silent summons
-from dispersal
-to own responsibility.
-                              |
-                              v
-no moral rule /
-programme.
-                              |
-                              v
-BEING-TOWARD-DEATH.
-                              |
-                              v
-ownmost.
-                              |
-                              v
-non-relational.
-                              |
-                              v
-certain.
-                              |
-                              v
-indefinite when.
-                              |
-                              v
-inauthentic:
-"one dies".
-                              |
-                              v
-authentic:
-anticipatory
-resoluteness.
-                              |
-                              v
-own finitude /
-possibilities.
-                              |
-                              v
-does not abolish
-being-with.
-                              |
-                              v
-FORMAL-EMPTINESS
-CRITIQUE:
-no substantive
-ethical content.
-                              |
-                              v
-political ambiguity.
-                              |
-                              v
-              BRANCH XXIV: TEMPORALITY
-meaning of
-Care =
-Zeitlichkeit.
-                              |
-                              v
-three ecstases.
-                              |
-                              v
-FUTURE.
-                              |
-                              v
-coming toward
-possibilities /
-death.
-                              |
-                              v
-ahead-of-itself.
-                              |
-                              v
-HAVING-BEEN.
-                              |
-                              v
-thrown past
-still operative.
-                              |
-                              v
-already-in.
-                              |
-                              v
-PRESENT.
-                              |
-                              v
-making present
-in engagement.
-                              |
-                              v
-alongside.
-                              |
-                              v
-future has
-existential priority.
-                              |
-                              v
-anticipation gathers
-life into whole.
-                              |
-                              v
-ecstatic unity,
-not three boxes.
-                              |
-                              v
-PRIMORDIAL TIME.
-                              |
-                              v
-finite /
-ecstatic /
-Dasein's existence.
-                              |
-                              v
-VULGAR /
-ORDINARY TIME.
-                              |
-                              v
-sequence of nows /
-clock time.
-                              |
-                              v
-derived,
-not false /
-useless.
-                              |
-                              v
-HISTORICALITY.
-                              |
-                              v
-inherit /
-project possibilities.
-                              |
-                              v
-              BRANCH XXV: THREE FREEDOMS / AUTHENTICITIES
-KIERKEGAARD.
-                              |
-                              v
-finite qualitative
-choice before God.
-                              |
-                              v
-authenticity through
-faith /
-passionate inwardness.
-                              |
-                              v
-SARTRE.
-                              |
-                              v
-radical situated
-freedom of
-for-itself.
-                              |
-                              v
-bad faith as
-evasion.
-                              |
-                              v
-positive authenticity
-underdeveloped.
-                              |
-                              v
-HEIDEGGER.
-                              |
-                              v
-thrown projection.
-                              |
-                              v
-authenticity through
-anticipatory resoluteness.
-                              |
-                              v
-not voluntarist
-self-creation /
-moral code.
-                              |
-                              v
-three views
-not interchangeable.
-                              |
-                              v
-              BRANCH XXVI: OBJECTION / REPLY
-KIERKEGAARD:
-subjectivity =
-relativism.
-                              |
-                              v
-REPLY:
-mode of
-ethical-religious
-appropriation,
-not factual truth
-variation.
-                              |
-                              v
-RESIDUAL:
-fideism /
-public reason.
-                              |
-                              v
-SARTRE:
-radical freedom
-ignores oppression.
-                              |
-                              v
-REPLY:
-freedom situated
-in facticity;
-later social turn.
-                              |
-                              v
-RESIDUAL:
-early account
-under-describes
-structural constraint.
-                              |
-                              v
-SARTRE:
-bad faith incoherent
-self-deception.
-                              |
-                              v
-REPLY:
-pre-reflective awareness
-without reflective
-avowal.
-                              |
-                              v
-RESIDUAL:
-whether distinction
-solves contradiction.
-                              |
-                              v
-HEIDEGGER:
-authenticity morally
-empty /
-politically dangerous.
-                              |
-                              v
-REPLY:
-fundamental ontology
-not ethics.
-                              |
-                              v
-RESIDUAL:
-lack of norms
-remains serious.
-                              |
-                              v
-HEIDEGGER:
-death-centred /
-solitary.
-                              |
-                              v
-REPLY:
-finitude enables
-owned engagement.
-                              |
-                              v
-Levinas /
-Arendt offer
-Other /
-natality
-alternatives.
-                              |
-                              v
-              BRANCH XXVII: SOURCE / ATTRIBUTION CAUTION
-Sartre slogan
-belongs to
-atheistic humanism.
-                              |
-                              v
-Heidegger rejects
-that formulation.
-                              |
-                              v
-Kierkegaard concepts
-often pseudonymous.
-                              |
-                              v
-attribute truth-
-subjectivity to
-Johannes Climacus.
-                              |
-                              v
-teleological suspension
-to Johannes de Silentio.
-                              |
-                              v
-anxiety analysis
-to Vigilius.
-                              |
-                              v
-despair analysis
-to Anti-Climacus.
-                              |
-                              v
-"Hell is other people"
-is dramatic line,
-not whole
-intersubjectivity doctrine.
-                              |
-                              v
-Heidegger technical
-terms require
-German /
-hyphen discipline.
-                              |
-                              v
-              THINKER / TEXT / TERM BANK
-Kierkegaard:
-den Enkelte /
-subjectivity /
-spheres /
-leap /
-Angest /
-despair /
-pseudonymity.
-                              |
-                              v
-Sartre:
-en-soi /
-pour-soi /
-neant /
-neantisation /
-facticity /
-transcendence /
-bad faith /
-Look /
-being-for-others.
-                              |
-                              v
-Heidegger:
-Dasein /
-ontological difference /
-being-in-world /
-Zuhandenheit /
-Vorhandenheit /
-Befindlichkeit /
-Verstehen /
-Rede /
-Sorge /
-das Man /
-being-toward-death /
-Zeitlichkeit.
-                              |
-                              v
-              HIGH-RISK OPTIONAL TRAPS
-existentialism !=
-one doctrine;
-"Sarte" !=
-fourth thinker;
-existence precedes
-essence !=
-Kierkegaard /
-Heidegger slogan;
-subjectivity !=
-relativism;
-spheres !=
-chronological stages;
-leap !=
-logical inference;
-faith paradox !=
-licence for harm;
-en-soi !=
-matter;
-pour-soi !=
-mind substance;
-freedom !=
-omnipotence;
-facticity !=
-determinism;
-bad faith !=
-simple lying;
-Look !=
-proof by analogy;
-fear !=
-anxiety;
-Dasein !=
-human organism
-simply;
-being-in-world !=
-spatial containment;
-ready-to-hand !=
-subjective idea;
-care !=
-worry;
-das Man !=
-specific group;
-inauthenticity !=
-moral evil;
-authenticity !=
-moral goodness;
-being-toward-death !=
-suicide /
-death fear;
-temporality !=
-clock sequence.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT VERIFIED
-2018-2025:
-14 primary-owned
-question-parts,
-at least one
-every year.
-                              |
-                              v
-2018:
-Sartre bad faith /
-inauthenticity /
-alienation
-[10];
-epoché /
-Heidegger rejection /
-being-in-world versus
-transcendental ego
-[20].
-                              |
-                              v
-2019:
-Dasein authenticity /
-temporality
-[20];
-Sartre freedom /
-determinism
-[15].
-                              |
-                              v
-2020:
-Kierkegaard
-subjectivity /
-single individual
-[20];
-Sartre facticity /
-transcendence
-statement
-[20].
-                              |
-                              v
-2021:
-non-choice as
-choice /
-responsibility
-[15].
-                              |
-                              v
-2022:
-being-in-world /
-authenticity
-[20];
-Kierkegaard subjectivity /
-three spheres
-[20].
-                              |
-                              v
-2023:
-Kierkegaard versus
-Hegel universal spirit
-[10];
-Sartre consciousness
-formula
-[15].
-                              |
-                              v
-2024:
-Kierkegaard truth /
-subjectivity
-[10];
-existence precedes
-essence /
-freedom
-[20].
-                              |
-                              v
-2025:
-pour-soi /
-en-soi
-[10].
-                              |
-                              v
-STATUS:
-exact wording /
-marks verified from
-local official
-Paper I corpus.
-                              |
-                              v
-OFFICIAL-KEY STATUS:
-UPSC Philosophy
-Mains provides no
-official answer key /
-model answer.
-                              |
-                              v
-                REVISION CHAIN
-family differences
--> Kierkegaard /
-single individual
--> subjectivity
--> indirect communication
--> spheres /
-anxiety /
-despair
--> Sartre existence /
-essence
--> en-soi /
-pour-soi
--> nothingness
--> facticity /
-transcendence
--> freedom /
-bad faith /
-Look
--> fear /
-anxiety
--> Heidegger
--> being-in-world
--> equipment
--> existentialia
--> care
--> das Man
--> authenticity /
-death /
-temporality.
-                              |
-                              v
-             OPTIONAL-PAPER ANSWER SPINE
-IDENTIFY
-thinker /
-pseudonym /
-text.
-                              |
-                              v
-STATE
-project /
-question,
-not generic
-existentialism.
-                              |
-                              v
-DEFINE
-technical pair.
-                              |
-                              v
-RECONSTRUCT
-argument /
-phenomenological
-example.
-                              |
-                              v
-COMPARE
-thinkers without
-merging vocabularies.
-                              |
-                              v
-PRESENT
-strong social /
-ethical /
-ontological
-objection.
-                              |
-                              v
-OFFER
-thinker-specific
-reply /
-later revision.
-                              |
-                              v
-OBSERVE
-translation /
-pseudonym /
-syllabus-typo
-discipline.
-                              |
-                              v
-CONCLUDE
-with thinker-specific
-graded verdict.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-Existentialism's shared achievement is to restore finite, situated existence against
-abstract systems and fixed human essences. Kierkegaard shows that existential truth
-requires appropriation; Sartre exposes freedom, self-deception and responsibility;
-Heidegger reveals practical world-involvement, finitude and temporality beneath the
-detached subject. Their limits are equally distinct: fideism, socially abstract radical
-freedom and ethically underdetermined authenticity. They form a contested conversation,
-not a single doctrine.
+> Revision-only. It does not duplicate the learning session, the ASCII master or the graphical package. Read the branches, not paragraphs.
+
+---
+
+## 1. CENTRAL THESIS — SAY THIS FIRST
+
+- **"Existentialism" is a retrospective family label, not a school.**
+  - Kierkegaard **d. 1855** — never met the word.
+  - Heidegger **denied** it — "Letter on Humanism", written **1946**, published **1947**.
+  - Sartre **accepted and defined** it — lecture **Oct 1945**, published **1946**.
+- **What unites them is a refusal, not a thesis:** no general essence settles in advance what it is for **this** individual to exist.
+- **Three non-identical concepts:** the single individual (*den Enkelte*) → the for-itself (*pour-soi*) → **Dasein**.
+- **Fatal opening:** "The existentialists held that…"
+
+---
+
+## 2. SCOPE FIREWALL — WHAT IS NOT OWNED HERE
+
+- Husserl's suspension, essences, anti-psychologism **as doctrine** → **Topic 09** (enters only as the method Heidegger redirects).
+- Hegel's dialectic, Absolute Spirit **as doctrine** → **Topic 05** (enters only as Kierkegaard's target).
+- Descartes' cogito and dualism **as doctrine** → **Topic 02** (the position being-in-the-world dissolves).
+- Kant on freedom and the antinomies → **Topic 04** (universalisability is quasi-Kantian, one clause).
+- **Nietzsche entirely** — not a printed thinker. No nihilism, will to power, recurrence, overhuman.
+- Camus, Jaspers, Marcel, de Beauvoir **as systems** — bounded comparison only.
+- Existentialist theology, faith and revelation, death and immortality → **Paper II**.
+
+---
+
+## 3. CORPUS SIGNAL
+
+- **14 of 112** Western Philosophy parts, 2018–2025 — **joint-highest** with Rationalism and Moore–Russell–Early Wittgenstein.
+- **At least one part in every one of the eight years.**
+- Split: **Sartre 8 · Kierkegaard 4 · Heidegger 3**; 2024 Q4(a) needs all three.
+- **Three statement questions:** 2020 Q4(a), 2021 Q4(b), 2023 Q3(c) → locate the sentence in its own author's system first.
+
+---
+
+## 4. MARKS-EARNING DATES
+
 ```
+1843 Either/Or (Victor Eremita) · Fear and Trembling (Johannes de Silentio)
+1844 The Concept of Anxiety (Vigilius Haufniensis) — Lowrie: "Dread"
+1846 Concluding Unscientific Postscript (Johannes Climacus)
+       + the "First and Last Declaration"
+1848/1859 The Point of View — written 1848, published posthumously 1859
+1849 The Sickness unto Death (Anti-Climacus)      1855 Kierkegaard dies
+1927 Being and Time — PUBLISHED UNFINISHED; Division III never published
+1929 What is Metaphysics? — the Nothing; "Nothing noths", never "noughts"
+1943 Being and Nothingness       1944 Huis clos ("hell is other people")
+1945/1946 Existentialism Is a Humanism — ALL THE SLOGANS COME FROM HERE
+1946/1947 Letter on Humanism — the repudiation
+1960 Critique of Dialectical Reason — the concession
+1965 Sartre's recorded preface correcting "hell is other people"
+```
+
+---
+
+## 5. KIERKEGAARD — THE THEISTIC LIMB
+
+- **Target: Hegel's System** — Absolute Spirit, mediation, the individual as a moment.
+  - Counter: **"A logical system is possible; an existential system is impossible."**
+  - No system contains the one who **builds** it — he must still exist, choose, die.
+  - Contrast pairs: **either/or vs both/and** · **the leap vs mediation** · **indirect communication vs the lecture**.
+- **"Truth is subjectivity"** — **Johannes Climacus**, *Postscript* **1846**.
+  - = the **how** of appropriation (infinite passionate inwardness, commitment, risk) for **ethical/religious** truth.
+  - **Three denials:** not relativism · not a denial of objective truth · not "facts vary with passion" — only **insufficiency**.
+  - **Complement:** **"subjectivity is untruth"** — sin, finitude, need of the leap. *A relativist could not use it.*
+  - Social form: **"the crowd is untruth"**.
+- **Three spheres → three collapses**
+  - **Aesthetic** (the *interesting*, irony, no binding commitment) → **boredom**, fragmentation.
+  - **Ethical** (universal duty; Judge William) → **guilt**.
+  - **Religious** (before God; faith as "the absurd") → **paradox**.
+  - **Qualitative spheres, not chronological stages. Relapse is always possible.**
+- **The leap (*Springet*)** — not mediation, not maturation. ⚠️ "**Leap of faith**" is the **English tradition's** fused phrase.
+- **Teleological suspension of the ethical** — *Fear and Trembling*, **de Silentio**, Abraham. **Stages the paradox**; not a licence for private revelation.
+  - **Knight of infinite resignation** = visible renunciation · **knight of faith** = invisible, double movement, lives fully in the finite.
+- **Anxiety (*Angest*)** — Vigilius Haufniensis, **1844**: object is "**a nothing**"; discloses **possibility**; "**the dizziness of freedom**"; the abyss — *dizziness in the eye*; present in **innocence**; **presupposition** of the leap.
+- **Despair** — Anti-Climacus, **1849**: the self is **a relation relating itself to itself** and thereby to **the power that established it**; despair is a **misrelation**, possibly **unfelt**; two forms — **not willing** / **defiantly willing** to be oneself.
+  - ⚠️ **Not** Sartrean *désespoir*.
+- **Indirect communication** (Core since **15 Aug 2026**): existential truth is a **mode of existing** → direct telling **falsifies** it → Socratic **maieutics**, "deceives into the truth", the author as **vanishing occasion** → **pseudonymity**.
+  - Pseudonyms as **existence-possibilities**: Eremita · de Silentio · Constantius · Haufniensis · Climacus · Anti-Climacus.
+  - **Double authorship** — signed *Upbuilding Discourses* are the direct pole.
+  - **"First and Last Declaration"** (1846): "author's author", **prompter**, **cite the pseudonym**.
+  - Cost: the *Postscript* **revokes itself** — self-consuming **by design**.
+
+---
+
+## 6. SARTRE — THE ATHEISTIC LIMB
+
+- **Existence precedes essence** (lecture **1945**, published **1946**)
+  - **Paper-knife** (*coupe-papier*): artisan → design → object.
+  - **Atheism is a PREMISE**, not a conclusion: no divine artisan → no blueprint.
+  - "Man first of all exists… and defines himself afterwards."
+  - ⚠️ **Facticity still constrains**; the lecture's "nothing else but what he makes of himself" must be balanced by **situation**.
+- **En-soi vs pour-soi** (ontological, **not** matter vs mind)
+  - **En-soi**: "**it is what it is**" — full, self-identical, opaque, contingent (**de trop** → nausea).
+  - **Pour-soi**: "**it is what it is not and is not what it is**".
+    - "is what it is not" = ahead of itself, defined by a **future** that does not exist.
+    - "is not what it is" = cannot coincide with **past/facticity** (the waiter).
+  - **Nihilation** (*néantisation*) — questions, imagines, projects. "The being by which **nothingness** comes into the world."
+  - **Impossible synthesis**: *pour-soi-en-soi* = God = contradiction → "**man is a useless passion**".
+- **Freedom**
+  - Freedom is **what the for-itself is**, not what it has. "**Condemned to be free**." ("Thrown" is **Heidegger's** word.)
+  - **Non-choice is choice** — and typically **bad faith**.
+  - **Three moods**: **anguish** (vertigo before my freedom) · **abandonment** (no *a priori* values) · **despair** (no reliance on outcomes).
+  - "**In choosing myself, I choose man**" — quasi-Kantian; source of the **weight** and the anguish.
+- **Bad faith** = **collapse of the facticity/transcendence tension** (not "lying to oneself")
+  - **Waiter** — denial that a role **exhausts** the for-itself (role-playing alone is *not* automatically bad faith).
+  - **Woman on the date** — the **double lie**: denies her transcendence **and** the gesture's facticity.
+  - **Paradox**: must know and not know → **no Freudian unconscious** → **pre-reflective, non-thetic** awareness. ❓ Contested (Fingarette).
+  - **2018 chain: bad faith (project) → inauthenticity (mode) → alienation (cost).**
+  - Everyday form: the **serious spirit**. Residue: **no completed positive doctrine of authenticity**.
+- **Freedom and determinism** — a **false problem**
+  - Motive → **meaning-conferral** → an act of the for-itself → **no motive determines unless constituted as one**.
+  - "**You can always make something out of what you have been made into**" = facticity **conceded** + transcendence **asserted** + "always" is **structural**.
+  - "**No excuses**" = responsibility for **taking up** motives, not the denial of coercion.
+  - **1960 Critique**: scarcity · seriality · practico-inert · group-in-fusion — a **concession**.
+- **The Look** (bounded — one development, never the spine)
+  - **Keyhole**: absorbed (**no ego**) → **caught** → an **outside** is conferred → **shame**.
+  - "**Shame is by nature recognition**"; "**the Other is the indispensable mediator between myself and me**".
+  - Two failing strategies: **assimilate** (love, language, masochism) · **transcend** (indifference, desire, sadism, hate).
+  - "**Conflict is the original meaning of being-for-others**"; *Huis clos* **1944**; **1965** correction — the characters are **dead**, i.e. fixed.
+  - **Four accounts**: Husserl (pairing/appresentation) · Heidegger (*Mitsein*) · Sartre (the Look) · **Levinas** (the **face**) — **unanswered** in 1943.
+
+---
+
+## 7. HEIDEGGER — THE ONTOLOGICAL LIMB
+
+- **Project: fundamental ontology** — the **meaning of Being**, not a psychology of moods.
+  - **Ontological difference**: **Being** (intelligibility) ≠ **beings**. Being is **not** a supreme entity.
+  - Dasein chosen because it has a **pre-ontological understanding of Being** and **its own Being is at issue**.
+  - **§9**: "the essence of Dasein lies in its existence" → **existentialia**, not categories.
+  - *Being and Time* **1927** is **unfinished**; then the **turn** (*Kehre*).
+- **Against the transcendental ego** (2018 Q4(a))
+  - *Epoché* = **Husserl's** suspension of the existence-posit — **one accurate sentence**.
+  - Objection is about **order**: reflection presupposes a spectator; the primordial condition is **already-involved being-in-the-world**; **subject and object are derivative**.
+  - He **redirects** description, does not abandon it. ❌ Not spatial containment; ❌ not Sartrean consciousness.
+- **Being-in-the-world** — **unitary**; the hyphens are the doctrine; the Cartesian bridge problem is **dissolved**.
+  - **Worldhood** = **referential context of meaning**, not the totality of objects.
+  - **Ready-to-hand** primary · **present-at-hand** derivative (a **modification** of practical engagement).
+  - **In-order-to**: hammer → nail → board → house → **dwelling**, a possibility of Dasein's own being.
+  - **Breakdown**: unusability · absence · obstruction → network **conspicuous**; ⚠️ significance **not** erased.
+- **Existentialia and care**
+  - **Attunement** (*Befindlichkeit*) — mood **discloses**, never colours; even indifference is a mood.
+  - **Understanding** (*Verstehen*) — **projection upon possibilities**, practical know-how.
+  - **Discourse** (*Rede*) — **articulation**; idle talk is its deficient mode.
+  - → **disclosedness** = the **"there"** (*Da*).
+  - **Care (§41): "ahead-of-itself — already-in — alongside."** ⚠️ **Ontological**, not worry.
+  - **Concern** (equipment) vs **solicitude** (others); **being-with §26** is **constitutive**.
+- **Authenticity** — an **existential modification**, **not** a virtue
+  - ***Das Man*** = the impersonal **anyone**: **idle talk · curiosity · ambiguity**; **falling** is **structure**, not sin.
+  - Dasein is inauthentic **proximally and for the most part** — *structural*, not a failing.
+  - **Call of conscience** (§§54–60): **silent**, **no rule**, calls Dasein to its **null** responsibility.
+  - **Death** (§§46–53): **ownmost · non-relational · certain · indefinite as to when** — a **possibility**. Inauthentic: "**one dies**".
+  - **Anticipatory resoluteness** → existence **as a whole**; individualisation **modifies**, does not abolish, being-with.
+- **Temporality** — the **meaning of care**
+  - **ahead-of-itself → future** · **already-in → having-been** (*Gewesenheit* = the past I **still am**) · **alongside → present**.
+  - **Ecstases**, not segments: simultaneous, a **finite unity**. **The future has priority**; authenticity is **futural**.
+  - **Ordinary time** = infinite **now-series**, **derived** via **world-time and public dating**. ⚠️ "**Vulgar**" = **levelled**, not a moral defect.
+  - **Historicality**: possibilities are **inherited** and **projected**. **Division III never published**.
+
+---
+
+## 8. FEAR vs ANXIETY — THE DISTINCTION THE CLAUSE TURNS ON
+
+| | Fear | Anxiety / dread / anguish |
+|---|---|---|
+| Object | a **determinate entity** in the world | **none** — "the object of anxiety is a nothing" |
+| Really about | the threatening thing | **K**: possibility · **H**: being-in-the-world · **S**: my freedom |
+| Direction | flees **toward** the world | **individualises**; world-significance collapses |
+| Disclosive value | a **threat** | **freedom, finitude, groundlessness** — a **privileged** mood |
+
+- **Argument:** moods disclose → fear discloses an **entity** → anxiety has **none** → yet has **content** → so it discloses a **structure** → hence **privileged**.
+- **K**: the abyss — *dizziness in the eye*. **H (§40)**: "**complete insignificance**"; in-the-face-of-which = for-which = **being-in-the-world**; *solus ipse*; **1929** the **Nothing**.
+- **S**: the **cliff path** (nothing prevents me) **and** the **gambler** (yesterday's resolution is powerless). ⚠️ Anguish ≠ **nausea** (contingency of the in-itself).
+- ❓ Naturalist objection **met, not defeated**: a mood can disclose a structure without being infallible cognition.
+
+---
+
+## 9. TEN-LINE TRAP SHEET
+
+1. "Existence precedes essence" is **Sartre's** — Heidegger **repudiated** it (1946/47), Kierkegaard **d. 1855**.
+2. The slogans come from the **1945 lecture, published 1946** — **not** *Being and Nothingness* (1943).
+3. "Truth is subjectivity" ≠ **relativism** — Climacus also writes "**subjectivity is untruth**".
+4. Cite the **pseudonym**, not Kierkegaard — he printed the request in 1846.
+5. The spheres are **qualitative**, not chronological; **relapse is always possible**.
+6. *En-soi* ≠ matter, *pour-soi* ≠ mind — the distinction is **ontological**.
+7. Bad faith = the **collapse of a tension**, not "lying to oneself"; the waiter is not in bad faith merely for doing his job.
+8. **Authenticity is not a moral virtue**; inauthenticity is **not** a failing; the call gives **no content**.
+9. **Being-toward-death** is a **possibility**, not fear of dying; give **all four** characters.
+10. **Clock-time is derived, not defective**; ❌ never "nothing noughts"; ❌ never "*Being and Time* is complete".
+
+---
+
+## 10. PYQ ROUTING — 14 OWNED PARTS WITH ANSWER ROUTES
+
+| Year · Q · Marks | Demand | Route |
+|---|---|---|
+| 2018 Q1(d) · 10 | inauthenticity, bad faith, alienation | facticity/transcendence evasion → date example → self-alienation → thin authenticity |
+| 2018 Q4(a) · 20 | *Epoché*, its rejection, being-in-the-world vs transcendental ego | Husserl in one sentence → order-objection → unitary structure → equipment → care → verdict |
+| 2019 Q3(a) · 20 | Is Dasein authentic existence? temporality | **No** → *das Man*/falling → conscience/death → care ↔ ecstases → formal emptiness |
+| 2019 Q4(c) · 15 | freedom of choice and determinism | motive → meaning-conferral → false problem → situation → 1960 concession |
+| 2020 Q3(a) · 20 | "Subjectivity is the truth"; the single individual | Climacus → appropriation → three denials → "subjectivity is untruth" → the crowd → indirect communication |
+| 2020 Q4(a) · 20 | "You can always make something out of what you have been made into." | facticity **conceded** → transcendence asserted → "always" is structural → oppression → 1960 |
+| 2021 Q4(b) · 15 | "if I do not choose, I am still choosing" | freedom is constitutive → non-choice is a stance → bad faith → universalisability → coercion |
+| 2022 Q2(a) · 20 | being-in-the-world; authenticity | unitary structure → worldhood/equipment → care → *das Man*/death → emptiness charge |
+| 2022 Q4(a) · 20 | subjectivity; three stages | Climacus → the *how* → three spheres with collapses → the leap → fideism verdict |
+| 2023 Q1(d) · 10 | against Hegel's universal spirit | structural counter → "existential system impossible" → either/or, leap → bounded verdict |
+| 2023 Q3(c) · 15 | "Consciousness is what it is not…" | en-soi/pour-soi → **both halves** → nihilation → freedom, bad faith, useless passion → coherence objection |
+| 2024 Q1(e) · 10 | truth in terms of subjectivity | Climacus → the *how* → three denials → the complement → fideism ruling |
+| 2024 Q4(a) · 20 | "existence precedes essence"; existence and freedom | **correct the attribution while answering** → paper-knife → §9 repudiation → Kierkegaard's date → three freedoms |
+| 2025 Q1(c) · 10 | being-for-itself vs being-in-itself | ontological, not mind–matter → both formulas → nihilation → impossible synthesis |
+
+---
+
+## 11. ANSWER SPINE
+
+```
+1  NAME THE OWNER of the term or sentence in line one
+2  DEFINE the pair it turns on (pour-soi/en-soi · facticity/transcendence ·
+     ready-to-hand/present-at-hand · fear/anxiety · authenticity/inauthenticity)
+3  RECONSTRUCT the argument in numbered steps, with the work and the date
+4  ADD the named example (paper-knife · waiter · keyhole · hammer · abyss ·
+     cliff path · gambler · Abraham)
+5  QUALIFY: facticity constrains · authenticity has no content · clock-time is
+     derived, not false · the spheres are not stages
+6  CRITICISE thinker-specifically, never at movement level
+7  CLOSE with the graded verdict — 10 / 15 / 20 have different closers
+8  SPEND THE FOUR CHEAP MARKS: § number · translation named · 1945/46 dating ·
+     pseudonym quoted
+```
+
+---
+
+## 12. QUALIFIED CONCLUSION
+
+> "Existentialism" names a **shared refusal**, not a shared doctrine: no general essence settles in advance what it is for this individual to exist. Beyond that refusal the three printed thinkers diverge on God, on method, on what freedom is, and on what authentic existence would be. Kierkegaard's account is powerful against systematic closure and exposed to the **fideism** charge and a thin treatment of community; Sartre's is powerful on project and responsibility and underdeveloped on value-criteria and situated constraint, as his own **1960** revision concedes; Heidegger's is the most rigorously ontological and the most **normatively empty**, and the defence that fundamental ontology is not ethics is textually correct and philosophically unsatisfying.
+
+---
+
+**Companion artifacts:** complete learning session PDF · solved practice workbook PDF · ASCII master flow diagram (53 panels) · graphical at-a-glance poster and printable tiled version.

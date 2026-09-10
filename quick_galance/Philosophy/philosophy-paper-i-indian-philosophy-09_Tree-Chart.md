@@ -6,9 +6,10 @@
 SRI AUROBINDO: INTEGRAL NON-DUALISM, EVOLUTION AND DIVINE LIFE
 |
 +-- CENTRAL PRINCIPLE
-|   +-- Saccidānanda freely manifests itself through involution into multiplicity and
-|       apparent inconscience; evolution is the reverse disclosure of involved
-|       consciousness through matter, life and mind toward Supermind.
+|   +-- Existence-Consciousness-Bliss (saccidānanda, also written sat-cit-ānanda) freely
+|       manifests itself through involution into multiplicity and apparent inconscience;
+|       evolution is the reverse disclosure of involved consciousness through matter, life
+|       and mind toward Supermind (vijñāna / Truth-Consciousness).
 |   +-- Human beings are transitional, capable of consciously assisting evolution through
 |       Integral Yoga's psychic, spiritual and supramental transformations.
 |   +-- Liberation from ignorance is necessary but not sufficient: the aim is descent of
@@ -44,6 +45,11 @@ SRI AUROBINDO: INTEGRAL NON-DUALISM, EVOLUTION AND DIVINE LIFE
 |       textually verified; this chart uses them as attributed doctrinal formulas.
 |   +-- Spiritual experiences are reported philosophical evidence within the system, not
 |       independently verified scientific observations.
+|   +-- The standard local survey by Chatterjee and Datta supplies no substantive Aurobindo
+|       chapter; C. D. Sharma gives a compact survey and the primary works carry the finer
+|       distinctions.
+|   +-- Where edition-level verification is unavailable, state the doctrine without
+|       quotation marks and name the work-family instead of inventing a citation.
 |
 +-- I. MODERN POSITION
 |   +-- Integral philosophy seeks to reconcile:
@@ -113,12 +119,25 @@ SRI AUROBINDO: INTEGRAL NON-DUALISM, EVOLUTION AND DIVINE LIFE
 |       +-- It is first creative self-determination/mediating truth-plane.
 |
 +-- VI. THREE POISES OF SUPERMIND
-|   +-- First poise:
-|   |   +-- Comprehensive unity; multiplicity held implicitly in oneness.
-|   +-- Second poise:
-|   |   +-- One consciousness distributes itself into centres while retaining unity.
-|   +-- Third poise:
-|       +-- Individualised standpoint becomes pronounced without loss of truth-unity.
+|   +-- First poise, comprehending/transcendent:
+|   |   +-- All things held in undivided unity; the many are present but not yet stationed
+|   |       as separate centres.
+|   +-- Second poise, apprehending/creative:
+|   |   +-- A subject-object distinction is projected within unity; the Divine stands back
+|   |       as knower and puts forth the cosmos as known.
+|   |   +-- This is the poise of the cosmic Self or the Lord (īśvara); distinction appears
+|   |       without loss of unity.
+|   +-- Third poise, projecting/individualising:
+|       +-- Consciousness stands in each centre and knows from that standpoint.
+|       +-- Individuality is real here; separateness begins only below Supermind, in
+|           Overmind and mind.
+|   +-- Payoff:
+|   |   +-- The One becomes many without an unreal illusion and without a real
+|   |       fragmentation of the Absolute; multiplicity is a real self-modification of
+|   |       consciousness, neither false appearance nor diminution.
+|   +-- Naming caution:
+|   |   +-- "Comprehending / apprehending / projecting" is one standard presentation;
+|   |       naming and numbering vary, so defend the substance, not the labels.
 |   +-- These are conceptual descriptions of one truth-conscious operation, not three
 |       separate substances or chronological universes.
 |
@@ -128,9 +147,17 @@ SRI AUROBINDO: INTEGRAL NON-DUALISM, EVOLUTION AND DIVINE LIFE
 |   +-- Still luminous and cosmic, but no longer holds indivisible truth-unity with
 |       supramental exactness.
 |   +-- Makes division possible without itself being ordinary ignorance.
+|   +-- Last plane before ignorance becomes possible:
+|   |   +-- Once one truth stands as many independent powers, a partial standpoint can be
+|   |       taken for a self-sufficient whole; the Overmind is the condition of possibility
+|   |       of ignorance, not its cause.
 |   +-- Deities/religious truth-formations can express overmental powers.
+|   +-- Soteriological consequence:
+|   |   +-- Earlier attainments may reach liberation or overmental universality, but not the
+|   |       supramental transformation of terrestrial nature.
 |   +-- Trap:
-|       +-- Overmind is not a weaker synonym for Supermind.
+|       +-- Overmind is not a weaker synonym for Supermind; the difference is structural
+|           (distributed versus indivisible truth), not a degree of light.
 |
 +-- VIII. PLANES OF CONSCIOUSNESS
 |   +-- Saccidānanda.
@@ -212,6 +239,15 @@ SRI AUROBINDO: INTEGRAL NON-DUALISM, EVOLUTION AND DIVINE LIFE
 |       +-- Emergent novelty.
 |       +-- Continuity because higher is involved in lower.
 |       +-- Teleological direction toward fuller manifestation.
+|   +-- Involved possibility, stated precisely:
+|       +-- "Already involved" does not mean that future species, institutions or ideas
+|           exist in matter as miniature preformed objects awaiting unfolding.
+|       +-- What is involved is the power or principle of consciousness, whose later
+|           manifestation takes genuinely new organisation and expression in time.
+|       +-- Continuity of ontological potential is combined with novelty of evolutionary
+|           form; an emergentist may still deny that novelty requires prior involution, and
+|           that is the philosophical dispute, not a disagreement about the observed
+|           biological sequence.
 |   +-- Not a denial of biological evolution:
 |       +-- It proposes metaphysical depth and future consciousness beyond biological account.
 |
@@ -251,6 +287,9 @@ SRI AUROBINDO: INTEGRAL NON-DUALISM, EVOLUTION AND DIVINE LIFE
 +-- XVII. PSYCHIC BEING
 |   +-- Caitya puruṣa / evolving soul-principle behind heart.
 |   +-- Divine element that grows through successive lives and experience.
+|   +-- Delegate of the individual eternal self (jīvātman) in the evolution.
+|   +-- Its coming forward is psychicisation, which replaces ego-guidance with
+|       soul-guidance.
 |   +-- Organises personality toward truth, beauty, goodness and surrender.
 |   +-- Distinct from:
 |       +-- Ego: surface constructed individuality.
@@ -355,8 +394,20 @@ SRI AUROBINDO: INTEGRAL NON-DUALISM, EVOLUTION AND DIVINE LIFE
 |       +-- Collective terrestrial possibility.
 |   +-- Shared:
 |       +-- Discipline, concentration, purification and supra-rational cognition.
-|   +-- Ṛtambharā prajñā and Supermind:
-|       +-- Controlled resonance only; not identical doctrines.
+|   +-- Compact contrast:
+|       +-- Patañjali aims at release from nature (prakṛti); Aurobindo aims at
+|           transformation of nature.
+|   +-- Ṛtambharā prajñā and supramental knowledge - echo, never identity:
+|       +-- Ontological status: ṛtambharā is a purified mental modification
+|           (citta-vṛtti) at highest clarity; supramental knowledge is not a mental
+|           modification at all but a distinct plane above mind.
+|       +-- Yogic location: ṛtambharā arises with nirvicāra-vaiśāradya and leads toward
+|           seedless absorption (nirbīja samādhi); supramental knowledge must descend and
+|           be established in mind, life and body.
+|       +-- Final destiny: ṛtambharā too must cease, because isolation (kaivalya) requires
+|           cessation of all modifications; supramental knowledge is to be embodied, not
+|           transcended.
+|       +-- Never write that Aurobindo adopts Patañjali's ṛtambharā.
 |
 +-- XXVI. DIFFERENCE FROM ADVAITA
 |   +-- Advaita:
@@ -372,6 +423,9 @@ SRI AUROBINDO: INTEGRAL NON-DUALISM, EVOLUTION AND DIVINE LIFE
 |       +-- Spiritual unity and transcendence of ego.
 |
 +-- XXVII. ASCETIC AND MATERIALIST PARTIALITY
+|   +-- Decoding the printed 2025 line:
+|       +-- The criticism attaches to their negation, not to their affirmation, so both
+|           affirmations survive the integral synthesis.
 |   +-- Ascetic negation:
 |       +-- Affirms Spirit by denying/escaping world.
 |       +-- Truth: transcendence and freedom are real.
@@ -386,31 +440,65 @@ SRI AUROBINDO: INTEGRAL NON-DUALISM, EVOLUTION AND DIVINE LIFE
 |       +-- Goal is spiritualisation of life, not mutual cancellation.
 |
 +-- XXVIII. LIFE DIVINE
+|   +-- Definition:
+|       +-- An embodied earthly existence governed increasingly by supramental
+|           truth-consciousness rather than by ego, division and ignorance.
+|   +-- Four negations that block standard misreadings:
+|       +-- Not post-mortem heaven.
+|       +-- Not private mystical release.
+|       +-- Not political utopia.
+|       +-- Not the perfection of ordinary intellect.
 |   +-- Possibility:
-|       +-- Supermind is involved in existence.
-|       +-- Evolution has already crossed matter-life-mind thresholds.
-|       +-- Human consciousness can consciously collaborate.
+|       +-- Matter is involved Spirit, not an alien anti-spiritual substance.
+|       +-- Life and mind have already emerged from apparently inconscient matter; this is
+|           the strongest reason because the opponent already concedes it.
+|       +-- Supermind coordinates unity and multiplicity and is not foreign to manifestation.
+|       +-- Psychic and spiritual transformation prepare mind, life and body.
+|       +-- The gnostic being names the individual form of the result.
 |   +-- Inevitability:
-|       +-- Refers to deep tendency/logic of manifestation in the metaphysical scheme.
-|       +-- Does not imply immediate, automatic or universally scheduled historical event.
+|       +-- Refers to the inner direction of cosmic evolution: mind is transitional and the
+|           involved truth-consciousness presses toward fuller manifestation.
+|       +-- Does not imply universal individual attainment, a fixed historical timetable or
+|           a mechanical effect of human effort.
+|       +-- The scheme requires both an aspiration or call from below and a sanction or
+|           descent from above, which is what blocks automatism.
+|       +-- Calibration line: cosmic teleology is stronger than mere possibility but weaker
+|           than empirical prediction with a specified date and mechanism.
 |   +-- Individual consequence:
-|       +-- Gnostic transformation.
+|       +-- Gnostic transformation; body and life become instruments of consciousness
+|           rather than obstacles.
 |   +-- Collective consequence:
-|       +-- Social relations no longer organised primarily by ego, division and coercion.
+|       +-- The spread of a new principle of consciousness through terrestrial life; social
+|           relations no longer organised primarily by ego, division and coercion.
+|       +-- Never rule by a self-certified spiritual elite.
 |   +-- Caution:
-|       +-- No empirically verifiable timetable is supplied.
+|       +-- No empirically verifiable timetable is supplied, and no publicly established
+|           supramental collectivity yet confirms the claim.
 |
 +-- XXIX. IGNORANCE
 |   +-- Not absolute absence of consciousness.
-|   +-- Consciousness limiting itself to a field and forgetting totality.
-|   +-- Forms include:
-|       +-- Original ignorance of Absolute.
-|       +-- Cosmic ignorance of universal self.
-|       +-- Egoistic ignorance.
-|       +-- Temporal ignorance.
-|       +-- Psychological ignorance.
-|       +-- Constitutional ignorance.
-|       +-- Practical ignorance.
+|   +-- Consciousness narrowed, self-limited and divided from its larger truth.
+|   +-- Genealogy inside the system:
+|       +-- Integral truth is native to Supermind.
+|       +-- Overmind distributes one truth into multiple independent powers.
+|       +-- Separative mind treats partial standpoints as self-sufficient wholes.
+|   +-- The ordinary ego is constituted by four simultaneous losses:
+|       +-- Awareness of its transcendent source.
+|       +-- Awareness of cosmic unity.
+|       +-- Awareness of its subliminal depths.
+|       +-- Temporal continuity.
+|       +-- What remains after those losses, taken as a centre, is the ego: not a thing that
+|           has limits but the limits mistaken for a self.
+|   +-- Two terms of one process:
+|       +-- Inconscience is the extreme term of self-concealment.
+|       +-- Mental ignorance is its active divided mode in thought, desire and action.
+|   +-- Status:
+|       +-- Real in its evolutionary effects but not an independent anti-divine substance.
+|       +-- A restricted operation of consciousness and therefore capable of reintegration,
+|           which is why liberation is a re-widening rather than a destruction.
+|   +-- Residual:
+|       +-- "Concealed consciousness" can sound verbally protected from disproof; Aurobindo
+|           answers by graded experience, and public verification remains incomplete.
 |   +-- Knowledge is recovery/integration, not acquisition by an originally unconscious spirit.
 |
 +-- XXX. PROBLEM OF EVIL
@@ -470,6 +558,50 @@ SRI AUROBINDO: INTEGRAL NON-DUALISM, EVOLUTION AND DIVINE LIFE
 |   +-- Aurobindo and Gītā:
 |       +-- Synthesis of knowledge, devotion and works expanded into evolutionary Yoga.
 |
++-- XXXIII. CONTROLLED WESTERN COMPARISON
+|   +-- Rubric:
+|   |   +-- Illustrative only; never a substitute for Aurobindo's own argument.
+|   |   +-- Always accompanied by the disanalogy; at most one or two lines, and only after
+|   |       the Aurobindo case is complete.
+|   |   +-- Writing "Aurobindo is the Indian Bergson, Hegel or Teilhard" without the
+|   |       disanalogy is a marked weakness.
+|   +-- Bergson:
+|   |   +-- Contact: rejects mechanistic and purely Darwinian accounts; creative and
+|   |       directional evolution; intuition over analytic intellect.
+|   |   +-- Disanalogy: élan vital is an impersonal life-impulse with no prior involution
+|   |       and no determinate goal; its creativity is open-ended, whereas Aurobindo's
+|   |       evolution is teleologically closed by the recovery of Existence-Consciousness-
+|   |       Bliss; Bergsonian intuition is duration-consciousness, not a supramental plane;
+|   |       no divine descent and no bodily transformation. Do not assert influence.
+|   +-- Hegel:
+|   |   +-- Contact: dynamic Absolutes; the finite is a moment of the Infinite's
+|   |       self-realisation rather than mere illusion.
+|   |   +-- Disanalogy: Hegel's process is dialectical and conceptual, moving through
+|   |       contradiction and sublation (Aufhebung) toward Absolute Knowing as
+|   |       self-conscious thought; Aurobindo's is supramental and experiential, aiming at
+|   |       divine life in matter and body; Hegel has no knowledge by identity, no yogic
+|   |       method and no descent.
+|   +-- Teilhard de Chardin:
+|   |   +-- Contact: the closest structural parallel - cosmogenesis,
+|   |       complexity-consciousness, noosphere and Omega Point.
+|   |   +-- Disanalogy: Christological and personalist; Omega is the cosmic Christ and
+|   |       convergence occurs at the end of the world-process, whereas Aurobindo's
+|   |       Supermind descends into and transforms terrestrial life including the body,
+|   |       within manifestation; Teilhard has no involution as prior self-concealment and
+|   |       no yogic method. Treat convergence as parallel development, not influence.
+|   +-- Nietzsche:
+|   |   +-- Contact: the human as transitional and self-overcoming.
+|   |   +-- Disanalogy: the Übermensch is naturalistic, anti-metaphysical and centred on
+|   |       will and earth without Divine descent.
+|   +-- Whitehead:
+|   |   +-- Contact: process-friendly; rejects a static, world-negating metaphysics.
+|   |   +-- Disanalogy: God and actual occasions do not map onto planes of consciousness,
+|   |       involution, supramental descent or bodily transformation.
+|   +-- Plotinus:
+|       +-- Contact: procession from the One and return resemble involution and evolution.
+|       +-- Disanalogy: the Plotinian return is an ascent away from matter, the dimmest
+|           emanation; Aurobindo's completion is descent into matter and its transformation.
+|
 +-- VERIFIED TEXT / THINKER / EXAMPLE BANK
 |   +-- Sri Aurobindo:
 |       +-- The Life Divine.
@@ -507,6 +639,21 @@ SRI AUROBINDO: INTEGRAL NON-DUALISM, EVOLUTION AND DIVINE LIFE
 |   +-- Liberation is not final goal.
 |   +-- Gnostic being is not an omnipotent superhuman fantasy.
 |   +-- Life Divine inevitability is not a dated prediction.
+|   +-- Life Divine is not post-mortem heaven, private mystical release, political utopia or
+|       the perfection of ordinary intellect.
+|   +-- Knowledge by identity is not ordinary intuition: it is knowing by being, not a quick
+|       mental guess, and it is determinate rather than blank ineffability.
+|   +-- Supramental knowledge is not Patañjali's ṛtambharā prajñā: the latter is a purified
+|       mental modification that must itself cease before isolation.
+|   +-- Jīvātman and psychic being are not the same: the first presides without evolving,
+|       the second is the evolving soul-personality and its delegate in the evolution.
+|   +-- Evil is real but not ultimate, and the theodicy must not be presented as
+|       problem-free; write that it is integrated into the involution-evolution
+|       metaphysics, not solved.
+|   +-- The 2025 statement criticises the ascetic's and the materialist's negation, not
+|       their affirmation.
+|   +-- Involution is load-bearing and close to question-begging against an emergentist;
+|       name it as the contestable premise rather than presenting it as self-evident.
 |
 +-- AUTHORITATIVE PYQ OWNERSHIP / ROUTING
 |   +-- Direct verified corpus, 2018–2025: eight primary-owned questions.
@@ -542,6 +689,10 @@ SRI AUROBINDO: INTEGRAL NON-DUALISM, EVOLUTION AND DIVINE LIFE
 |       gnostic being -> collective Life Divine.
 |
 +-- OPTIONAL-PAPER ANSWER SPINE
+|   +-- Word budgets: 10 marks about 150 words; 15 marks about 250; 20 marks about 350.
+|   +-- Directive fidelity: examine exposes presuppositions; critically examine adds
+|       objection, reply and residual weakness; evaluate requires a weighed conclusion; a
+|       quoted line must be decoded before it is discussed.
 |   +-- Define the Aurobindonian term without collapsing it into an older school.
 |   +-- Place it in the Saccidānanda–involution–evolution architecture.
 |   +-- Reconstruct why the mediating principle or transformation is required.

@@ -1,1172 +1,146 @@
-# Economy 11 - Land Reforms, Green Revolution and Cropping Systems
+# Economy Topic 11 — Land Reforms, Green Revolution and Cropping Systems
 
-## Quick-Glance Tree Chart
+## CENTRAL THESIS
 
 ```text
-LAND REFORMS, GREEN REVOLUTION AND CROPPING SYSTEMS
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Agrarian transformation requires a connected chain: secure and recorded rights,
-workable operational holdings, access to water, seed, credit and knowledge,
-remunerative markets and ecological resilience. Land law without implementation
-does not alter incentives; seed without complementary inputs does not create a
-Green Revolution; diversification without buyers, storage and risk protection
-does not become a viable farm strategy.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-agrarian structure;
-intermediary abolition;
-tenancy;
-ceilings;
-consolidation;
-land records;
-Green Revolution;
-cropping pattern /
-intensity;
-diversification;
-millets;
-regional concentration;
-Visvesvaraya /
-Swaminathan.
-                              |
-                              v
-MSP /
-PROCUREMENT:
-Topic 12.
-MARKETS /
-FPOs:
-Topic 13.
-IRRIGATION /
-INPUTS:
-Topic 14.
-PROCESSING:
-Topic 15.
-                              |
-                              v
-                BRANCH I: AGRARIAN STRUCTURE
-OWNERSHIP.
-                              |
-                              v
-TENANCY.
-                              |
-                              v
-OPERATIONAL
-HOLDING.
-                              |
-                              v
-FRAGMENTATION.
-                              |
-                              v
-LAND
-RECORD.
-                              |
-                              v
-ACCESS
-TO COMMONS.
-                              |
-                              v
-CULTIVATOR
-INCENTIVES.
-                              |
-                              v
-OWNERSHIP SIZE
-alone does not determine
-operational efficiency.
-                              |
-                              v
-                BRANCH II: LAND-REFORM TOOLKIT
-ABOLITION
-OF INTERMEDIARIES.
-                              |
-                              v
-TENANCY
-REFORM.
-                              |
-                              v
-LAND
-CEILINGS.
-                              |
-                              v
-REDISTRIBUTION
-OF SURPLUS.
-                              |
-                              v
-CONSOLIDATION
-OF HOLDINGS.
-                              |
-                              v
-LAND-RECORD
-MODERNISATION.
-                              |
-                              v
-SECURE /
-FAIR
-LEASING.
-                              |
-                              v
-LAND REFORM
-!= redistribution only.
-                              |
-                              v
-                BRANCH III: LAW-TO-OUTCOME
-STATE
-LAW.
-                              |
-                              v
-SURVEY /
-SETTLEMENT.
-                              |
-                              v
-ACCURATE
-RECORDS.
-                              |
-                              v
-TENANT
-IDENTIFICATION.
-                              |
-                              v
-LOCAL
-ADMINISTRATION.
-                              |
-                              v
-POLITICAL
-MOBILISATION.
-                              |
-                              v
-DISPUTE
-RESOLUTION.
-                              |
-                              v
-ACTUAL
-TENURE /
-REDISTRIBUTION.
-                              |
-                              v
-STATUTE
-!= field outcome.
-                              |
-                              v
-                BRANCH IV: INTERMEDIARY ABOLITION
-REMOVES
-RENT-RECEIVING
-LAYER.
-                              |
-                              v
-DIRECT
-CULTIVATOR-STATE
-RELATIONSHIP.
-                              |
-                              v
-TENURE
-SECURITY
-potential.
-                              |
-                              v
-RECORD /
-COMPENSATION /
-LITIGATION.
-                              |
-                              v
-SUB-INFEUDATION
-may persist informally.
-                              |
-                              v
-ABOLITION
-does not ensure
-efficient holding /
-credit.
-                              |
-                              v
-                BRANCH V: TENANCY REFORM
-RENT
-REGULATION.
-                              |
-                              v
-SECURITY
-OF TENURE.
-                              |
-                              v
-OWNERSHIP
-RIGHTS
-in some models.
-                              |
-                              v
-RECORDING
-ACTUAL CULTIVATOR.
-                              |
-                              v
-INVESTMENT
-INCENTIVE.
-                              |
-                              v
-CREDIT /
-SCHEME
-ELIGIBILITY.
-                              |
-                              v
-OWNER
-FEAR OF LOSING CONTROL
-may drive concealed tenancy.
-                              |
-                              v
-FORMAL LEASING
-must protect both sides.
-                              |
-                              v
-                BRANCH VI: CEILINGS
-MAXIMUM
-PERMISSIBLE HOLDING.
-                              |
-                              v
-IDENTIFY
-SURPLUS LAND.
-                              |
-                              v
-ACQUIRE /
-REDISTRIBUTE.
-                              |
-                              v
-EQUITY
-OBJECTIVE.
-                              |
-                              v
-EXEMPTIONS.
-                              |
-                              v
-BENAMI /
-FAMILY
-PARTITION.
-                              |
-                              v
-WEAK
-RECORDS.
-                              |
-                              v
-POLITICAL
-RESISTANCE.
-                              |
-                              v
-CEILING LAW
-does not prove
-redistribution.
-                              |
-                              v
-                BRANCH VII: CONSOLIDATION / RECORDS
-SCATTERED
-PLOTS.
-                              |
-                              v
-CONSOLIDATE
-into workable parcel.
-                              |
-                              v
-LOWER
-BOUNDARY /
-TRAVEL
-COST.
-                              |
-                              v
-ENABLE
-IRRIGATION /
-MACHINERY.
-                              |
-                              v
-BUT
-protect
-customary /
-vulnerable users.
-                              |
-                              v
-DIGITAL
-RECORD
-improves access.
-                              |
-                              v
-RECORD
-!= conclusive title
-unless law provides.
-                              |
-                              v
-                BRANCH VIII: STATE EXPERIENCES
-OPERATION BARGA.
-                              |
-                              v
-WEST BENGAL.
-                              |
-                              v
-SHARECROPPER
-RECORDING.
-                              |
-                              v
-TENURE /
-BARGAINING
-IMPROVEMENT.
-                              |
-                              v
-KERALA
-LAND REFORMS.
-                              |
-                              v
-TENANCY ABOLITION /
-CEILING DEPTH.
-                              |
-                              v
-JAMMU AND KASHMIR
-BIG LANDED ESTATES
-ABOLITION ACT
-1950.
-                              |
-                              v
-EARLY
-ESTATE RESTRUCTURING.
-                              |
-                              v
-CONTEXTS
-not mechanically transferable.
-                              |
-                              v
-                BRANCH IX: WHY SUCCESS VARIED
-LAND
-IS STATE SUBJECT.
-                              |
-                              v
-POLITICAL
-WILL.
-                              |
-                              v
-PEASANT
-MOBILISATION.
-                              |
-                              v
-RECORD
-QUALITY.
-                              |
-                              v
-ADMINISTRATIVE
-CAPACITY.
-                              |
-                              v
-JUDICIAL /
-LEGAL
-DESIGN.
-                              |
-                              v
-EXEMPTIONS /
-EVASION.
-                              |
-                              v
-LOCAL
-POWER STRUCTURE.
-                              |
-                              v
-TIMING
-OF REFORM.
-                              |
-                              v
-                BRANCH X: GREEN REVOLUTION PACKAGE
-HIGH-YIELDING
-VARIETY SEED.
-                              |
-                              v
-ASSURED
-IRRIGATION.
-                              |
-                              v
-FERTILISER.
-                              |
-                              v
-PEST /
-DISEASE
-CONTROL.
-                              |
-                              v
-CREDIT.
-                              |
-                              v
-EXTENSION.
-                              |
-                              v
-MECHANISATION.
-                              |
-                              v
-MSP /
-PROCUREMENT.
-                              |
-                              v
-RURAL
-INFRASTRUCTURE.
-                              |
-                              v
-PACKAGE,
-not seed alone.
-                              |
-                              v
-                BRANCH XI: PRODUCTION EFFECT
-YIELD
-RISE.
-                              |
-                              v
-MULTIPLE
-CROPPING.
-                              |
-                              v
-MARKETED
-SURPLUS.
-                              |
-                              v
-FOODGRAIN
-AVAILABILITY.
-                              |
-                              v
-BUFFER /
-PROCUREMENT
-CAPACITY.
-                              |
-                              v
-RURAL
-DEMAND.
-                              |
-                              v
-AGRO-INPUT /
-MACHINERY
-INDUSTRY.
-                              |
-                              v
-FOOD
-SELF-RELIANCE
-gain.
-                              |
-                              v
-                BRANCH XII: CONCENTRATION LEGACY
-PUNJAB.
-                              |
-                              v
-HARYANA.
-                              |
-                              v
-WESTERN
-UTTAR PRADESH.
-                              |
-                              v
-WHEAT.
-                              |
-                              v
-LATER
-RICE.
-                              |
-                              v
-IRRIGATION /
-PROCUREMENT
-ADVANTAGE.
-                              |
-                              v
-RAINFED
-REGIONS /
-PULSES /
-OILSEEDS
-lagged.
-                              |
-                              v
-REGIONAL /
-CROP
-INEQUALITY.
-                              |
-                              v
-                BRANCH XIII: ECOLOGICAL COST
-GROUNDWATER
-DEPLETION.
-                              |
-                              v
-WATERLOGGING /
-SALINITY
-in some areas.
-                              |
-                              v
-NUTRIENT
-IMBALANCE.
-                              |
-                              v
-PESTICIDE
-LOAD.
-                              |
-                              v
-SOIL
-DEGRADATION.
-                              |
-                              v
-RESIDUE
-BURNING.
-                              |
-                              v
-BIODIVERSITY
-LOSS.
-                              |
-                              v
-ENERGY
-SUBSIDY /
-PUMPING
-LOCK-IN.
-                              |
-                              v
-YIELD MAXIMISATION
-!= sustainability.
-                              |
-                              v
-                BRANCH XIV: CROPPING PATTERN
-DISTRIBUTION
-OF CULTIVATED AREA
-among crops
-at a time.
-                              |
-                              v
-DEPENDS ON:
-agro-climate.
-                              |
-                              v
-WATER.
-                              |
-                              v
-SOIL.
-                              |
-                              v
-EXPECTED
-RETURN.
-                              |
-                              v
-PRICE /
-PROCUREMENT.
-                              |
-                              v
-RISK.
-                              |
-                              v
-TECHNOLOGY /
-LABOUR.
-                              |
-                              v
-MARKET /
-PROCESSING.
-                              |
-                              v
-TIME /
-GEOGRAPHY
-must be stated.
-                              |
-                              v
-                BRANCH XV: CROPPING INTENSITY
-GROSS
-CROPPED AREA.
-                              |
-                              v
-DIVIDED BY
-NET SOWN AREA.
-                              |
-                              v
-x 100.
-                              |
-                              v
-MORE THAN
-ONE CROP
-on same land
-raises intensity.
-                              |
-                              v
-IRRIGATION /
-SHORT-DURATION
-CROP /
-INPUT
-support.
-                              |
-                              v
-HIGHER INTENSITY
-may raise output.
-                              |
-                              v
-MAY ALSO
-raise water /
-soil stress.
-                              |
-                              v
-INTENSITY
-!= diversification.
-                              |
-                              v
-                BRANCH XVI: DIVERSIFICATION
-SHIFT
-ACROSS CROPS.
-                              |
-                              v
-PULSES.
-                              |
-                              v
-OILSEEDS.
-                              |
-                              v
-MILLETS.
-                              |
-                              v
-HORTICULTURE.
-                              |
-                              v
-OR
-ALLIED ACTIVITIES.
-                              |
-                              v
-LIVESTOCK.
-                              |
-                              v
-DAIRY.
-                              |
-                              v
-FISHERIES.
-                              |
-                              v
-REDUCES
-CORRELATED RISK
-if markets exist.
-                              |
-                              v
-                BRANCH XVII: HIGH-VALUE CROP DECISION
-AGRO-CLIMATE.
-                              |
-                              v
-WATER.
-                              |
-                              v
-EXPECTED
-NET RETURN.
-                              |
-                              v
-PRICE
-VOLATILITY.
-                              |
-                              v
-SEED /
-INPUT /
-SKILL.
-                              |
-                              v
-CREDIT /
-INSURANCE.
-                              |
-                              v
-LABOUR.
-                              |
-                              v
-PERISHABILITY.
-                              |
-                              v
-COLD CHAIN /
-PROCESSING.
-                              |
-                              v
-BUYER /
-CONTRACT
-RELIABILITY.
-                              |
-                              v
-                BRANCH XVIII: MILLETS
-JOWAR.
-                              |
-                              v
-BAJRA.
-                              |
-                              v
-RAGI.
-                              |
-                              v
-FOXTAIL /
-KODO /
-LITTLE /
-PROSO /
-BARNYARD
-millets.
-                              |
-                              v
-C4
-DRYLAND /
-RAINFED
-crops.
-                              |
-                              v
-SHORT DURATION
-roughly 60-100 days
-in source.
-                              |
-                              v
-LOWER
-WATER /
-INPUT
-need
-than paddy /
-sugarcane.
-                              |
-                              v
-FIBRE /
-PROTEIN /
-IRON /
-CALCIUM /
-LOW GLYCEMIC
-value.
-                              |
-                              v
-                BRANCH XIX: MILLET REVIVAL
-UN
-INTERNATIONAL YEAR
-OF MILLETS
-2023.
-                              |
-                              v
-INDIA-PROPOSED.
-                              |
-                              v
-"SHREE ANNA"
-Budget 2023.
-                              |
-                              v
-NFSM
-NUTRI-CEREALS.
-                              |
-                              v
-MSP /
-PROCUREMENT.
-                              |
-                              v
-PDS /
-MID-DAY-MEAL
-demand.
-                              |
-                              v
-PROCESSING /
-BRANDING.
-                              |
-                              v
-CONSTRAINTS:
-yield,
-taste,
-market,
-processing.
-                              |
-                              v
-BRANDING
-!= viable transition.
-                              |
-                              v
-                BRANCH XX: WATER-CROP LOCK-IN
-ASSURED
-PROCUREMENT.
-                              |
-                              v
-CHEAP /
-UNMETERED
-POWER.
-                              |
-                              v
-GROUNDWATER
-PUMPING.
-                              |
-                              v
-PADDY /
-WHEAT
-SPECIALISATION.
-                              |
-                              v
-FARMER
-RISK REDUCTION
-in short run.
-                              |
-                              v
-AQUIFER /
-SOIL
-STRESS.
-                              |
-                              v
-ALTERNATIVE CROP
-lacks assured buyer.
-                              |
-                              v
-PATH
-DEPENDENCE.
-                              |
-                              v
-                BRANCH XXI: VISVESVARAYA
-ENGINEERING /
-STATE CAPACITY.
-                              |
-                              v
-AUTOMATIC
-SLUICE-GATE /
-WEIR FLOODGATE
-SYSTEM.
-                              |
-                              v
-KHADAKWASLA
-1903.
-                              |
-                              v
-TIGRA DAM.
-                              |
-                              v
-KRISHNA RAJA
-SAGAR DAM.
-                              |
-                              v
-CHIEF ENGINEER
-OF MYSORE
-context.
-                              |
-                              v
-BLOCK SYSTEM
-OF IRRIGATION
-in Bombay Presidency.
-                              |
-                              v
-ASSURED /
-REGULATED
-WATER SYSTEMS.
-                              |
-                              v
-NOT
-sole origin
-of Indian irrigation.
-                              |
-                              v
-                BRANCH XXII: SWAMINATHAN
-AGRICULTURAL
-SCIENCE.
-                              |
-                              v
-IARI.
-                              |
-                              v
-NORIN-10-DERIVED
-SEMI-DWARF WHEAT.
-                              |
-                              v
-NORMAN
-BORLAUG
-collaboration.
-                              |
-                              v
-INDIAN
-TRIAL /
-ADAPTATION.
-                              |
-                              v
-IR8
-SEMI-DWARF RICE
-from IRRI.
-                              |
-                              v
-AGRONOMIC
-PACKAGE /
-EXTENSION.
-                              |
-                              v
-PRINCIPAL
-ARCHITECT,
-not sole author.
-                              |
-                              v
-LATER
-NATIONAL COMMISSION
-ON FARMERS
-is distinct role.
-                              |
-                              v
-                BRANCH XXIII: CURRENT SECTOR SIGNAL
-AGRICULTURE GVA
-average growth
-4.7 percent
-FY2020-FY2024.
-                              |
-                              v
-CROPS
-4.0 percent.
-                              |
-                              v
-LIVESTOCK
-6.1 percent.
-                              |
-                              v
-FISHING /
-AQUACULTURE
-7.2 percent.
-                              |
-                              v
-ECONOMIC SURVEY
-2025-26.
-                              |
-                              v
-ALLIED SECTORS
-support diversification /
-income smoothing.
-                              |
-                              v
-PERIOD AVERAGE
-not current-year forecast.
-                              |
-                              v
-                BRANCH XXIV: LIMITATIONS
-SMALL /
-FRAGMENTED
-HOLDINGS.
-                              |
-                              v
-TENANCY
-INFORMALITY.
-                              |
-                              v
-RECORD
-DISPUTES.
-                              |
-                              v
-WATER
-STRESS.
-                              |
-                              v
-PRICE /
-MARKET
-RISK.
-                              |
-                              v
-CREDIT /
-INSURANCE
-GAPS.
-                              |
-                              v
-EXTENSION
-WEAKNESS.
-                              |
-                              v
-COLD-CHAIN /
-PROCESSING
-GAPS.
-                              |
-                              v
-MECHANISATION
-and labour
-transition.
-                              |
-                              v
-                BRANCH XXV: WAY FORWARD
-SECURE
-RIGHTS /
-RECORD TENANTS.
-                              |
-                              v
-ENABLE
-SAFE LEASING.
-                              |
-                              v
-CONSOLIDATE /
-SHARE
-MACHINERY SERVICES.
-                              |
-                              v
-REGION-SPECIFIC
-CROP PLAN.
-                              |
-                              v
-WATER
-BUDGETING.
-                              |
-                              v
-REBALANCE
-PROCUREMENT /
-PRICE INCENTIVE.
-                              |
-                              v
-LINK
-INSURANCE /
-CREDIT /
-EXTENSION.
-                              |
-                              v
-BUILD
-PROCESSING /
-BUYERS.
-                              |
-                              v
-PROMOTE
-ALLIED SECTORS.
-                              |
-                              v
-                    DATA / POLICY / EXAMPLE BANK
-Operation Barga.
-                              |
-                              v
-Kerala Land Reforms.
-                              |
-                              v
-J&K Big Landed Estates
-Abolition Act 1950.
-                              |
-                              v
-Punjab-Haryana-western UP
-Green Revolution.
-                              |
-                              v
-Punjab Subsoil Water Act 2009.
-                              |
-                              v
-Millets /
-Shree Anna /
-IYOM 2023.
-                              |
-                              v
-Visvesvaraya /
-Swaminathan.
-                              |
-                              v
-                    SOURCE CRITICISM
-land reform != redistribution only;
-law != implementation;
-record != conclusive title automatically;
-ownership size != operational scale;
-Green Revolution != seed alone;
-national success != uniform regional outcome;
-cropping pattern != intensity;
-intensity != sustainability;
-diversification != food abandonment;
-organic != every low-chemical system;
-public investment != recurring subsidy;
-scientific achievement != sole-person authorship.
-                              |
-                              v
-                    MAJOR DEBATES
-EQUITY
-OR EFFICIENCY?
-secure smallholders
-plus workable scale.
-                              |
-                              v
-OWNER
-OR CULTIVATOR?
-record actual farming
-with safeguards.
-                              |
-                              v
-FOOD SECURITY
-OR DIVERSIFICATION?
-broader nutritious basket.
-                              |
-                              v
-HIGH YIELD
-OR ECOLOGY?
-sustainable productivity.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-land is state subject;
-Operation Barga is tenancy recording;
-Green Revolution is input-policy package;
-early concentration was wheat-rice /
-irrigated northwest;
-cropping intensity =
-gross cropped area /
-net sown area x 100;
-millets are mainly dryland crops;
-NPOP under APEDA;
-Sikkim first full organic state
-in standard policy usage.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT MAINS:
-2018 cropping change /
-millets;
-2019 Visvesvaraya /
-Swaminathan;
-2020 science /
-farm technology;
-2020 rice-wheat
-success /
-consequences;
-2021 marginal farmers /
-land reform;
-2021 crop diversification /
-technology;
-2023 land-reform objectives /
-ceilings;
-2023 consumption /
-marketing-driven
-cropping change;
-2024 successful
-land-reform factors.
-Mains has no objective answer key.
-                              |
-                              v
-PRELIMS:
-NSSO 70th Round;
-NPOP /
-APEDA /
-Sikkim;
-kharif area;
-public investment;
-black /
-green gram;
-water-intensive crops.
-Official historical keys
-unavailable locally.
-No option or answer letter
-is inferred.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-agrarian structure
--> reform toolkit
--> implementation factors
--> state examples
--> Green Revolution package
--> gains /
-ecological legacy
--> pattern /
-intensity
--> diversification /
-millets
--> scientist-engineer distinction.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-DEFINE
-rights /
-records /
-holding.
-                              |
-                              v
-TRACE
-technology-water-price-market
-package.
-                              |
-                              v
-COMPARE
-regional outcomes.
-                              |
-                              v
-EVALUATE
-income /
-food /
-ecology.
-                              |
-                              v
-PROPOSE
-viable diversification.
-                              |
-                              v
-CONCLUDE
-secure rights
-plus sustainable productivity.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-India's agrarian transition cannot be reduced either to redistribution or to
-yield-enhancing technology. Secure cultivator rights and capable state
-institutions enabled stronger reform outcomes, while the Green Revolution's
-success depended on a complete input and procurement package. The next phase
-must retain food security while correcting water-intensive, crop-concentrated
-path dependence through regionally viable diversification.
+RIGHTS -> RECORDS -> WORKABLE HOLDINGS -> TECHNOLOGY -> CROP CHOICE
+   -> PRODUCTIVITY -> INCOME -> STRUCTURAL TRANSFORMATION
 ```
+
+Land reform alters agrarian institutions; the Green Revolution altered the production package; cropping systems translate ecology, incentives and risk into land-use choices.
+
+## 1. COLONIAL TENURE: CAUSAL RELEVANCE ONLY
+
+| System | Revenue relationship | Reform-relevant legacy |
+|---|---|---|
+| Zamindari / Permanent Settlement 1793 | Recognised intermediary between State and cultivator | Rent-receiving hierarchy and sub-tenancy questions |
+| Ryotwari | Direct assessment of recorded ryot in much of Madras/Bombay | Direct settlement did not guarantee secure title or affordable demand |
+| Mahalwari | Village estate, mahal or co-sharer body responsible | Collective records plus internal hierarchy |
+
+## 2. POST-INDEPENDENCE REFORM TOOLKIT
+
+- **Intermediary abolition:** extinguish specified rent-receiving layers; not automatic ownership for every tenant.
+- **Tenancy reform:** fair rent, security, recording and State-law ownership routes; prohibition can drive leases underground.
+- **Ceilings:** maximum permissible holding -> verified surplus -> possession -> redistribution -> mutation.
+- **Consolidation:** reorganises scattered plots; does not necessarily change total ownership.
+- **Cooperative farming:** voluntary pooling of operations or services, not State collectivisation.
+- **Bhoodan:** voluntary land gift movement begun by Vinoba Bhave at Pochampally in 1951.
+- **Gramdan:** wider community commitment concerning village land; pledged, transferred and cultivable areas differ.
+
+## 3. CONSTITUTIONAL MAP
+
+- **State List Entry 18:** land, rights in land and land tenures are principally State subjects.
+- **Article 31A:** protects specified categories including acquisition of estates and modification of related rights; not blanket immunity.
+- **Article 31B + Ninth Schedule:** protects specifically listed laws against Part III invalidity, subject to basic-structure review.
+- **Article 31C:** operative shield is for laws giving effect to **Article 39(b) or 39(c)** against Articles 14 and 19 challenges.
+- **I.R. Coelho v State of Tamil Nadu (2007):** post-**24 April 1973** Ninth-Schedule insertions remain reviewable for basic-structure damage.
+
+## 4. WHY IMPLEMENTATION VARIED
+
+```text
+LAW + POLITICAL WILL + RECORDS + LOCAL ADMINISTRATION
+    + BENEFICIARY MOBILISATION + COMPLEMENTARY SERVICES
+                         -> OUTCOME
+```
+
+- Operation Barga: recording of West Bengal sharecroppers; evidence for tenancy security and mobilisation.
+- Kerala: comparatively deep tenancy and ceiling reform, without eliminating later smallholding constraints.
+- Jammu and Kashmir Big Landed Estates Abolition Act, 1950: distinct early episode; do not generalise its political-legal setting.
+- Evasion routes: benami transfers, anticipatory partitions, exemptions, litigation, delayed possession and mutation.
+
+## 5. INCLUSION AND LEASING
+
+- Women's rights: Hindu Succession amendment, 2005 -> legal share; effective control still requires mutation, possession and decision power.
+- Tribal/customary rights: individual, community and common-property claims may coexist; unrecorded does not mean ownerless.
+- NITI Aayog Model Agricultural Land Leasing Act, 2016: advisory State framework; written lease should protect owner title and cultivator security.
+
+## 6. DIGITAL LAND RECORDS — CURRENT, DATED
+
+| Mechanism | Current fact | Ownership caveat |
+|---|---|---|
+| DILRMP | DILRMP 3.0 Operational Guidelines cover **2026-2031** | Modernisation and integration do not by themselves guarantee title |
+| ULPIN / Bhu-Aadhaar | DoLR page retrieved **9 September 2026** states rollout in **26 States/UTs** | 14-digit parcel identifier; georeferencing required; it identifies land, not rights |
+| SVAMITVA | PIB reply dated **29 January 2026** reported **3.06 crore cards across 1.86 lakh villages** | Rural **abadi** focus; State-law process; card is not uniformly indefeasible title |
+
+> **Decode:** Record of Rights (RoR) = official record of recognised interests; presumptive title = evidence open to challenge; conclusive title = State-guaranteed register backed by adjudication and assurance.
+
+## 7. GREEN REVOLUTION
+
+```text
+SEMI-DWARF HYV + ASSURED WATER + FERTILISER + CREDIT
+ + SEED SYSTEM + EXTENSION + PRICE/PROCUREMENT OUTLET
+                    -> HIGHER CEREAL YIELDS
+```
+
+- Mid-1960s package; HYV expansion in 1966-67 followed intensive-area experiments.
+- Agricultural Prices Commission and Food Corporation of India were created in 1965; detailed MSP/procurement remains Topic 12.
+- Early concentration: wheat, then rice; Punjab, Haryana and western Uttar Pradesh.
+- Achievements: yield/output, marketed surplus, reduced chronic import dependence, rural linkages.
+- Limits: regional/crop inequality, unequal input access, groundwater depletion, nutrient imbalance, salinity, residue and monoculture stress.
+- **Evergreen Revolution:** sustained productivity with ecological resilience and farmer viability.
+
+## 8. CROPPING SYSTEMS
+
+| Term | Exact meaning |
+|---|---|
+| Cropping pattern | Distribution of cultivated area among crops in a defined geography/time |
+| Cropping intensity | Gross cropped area / net area sown x 100 |
+| Crop rotation | Different crops sequenced over time on a plot |
+| Multiple cropping | More than one crop cycle/use of the land in a year |
+| Mixed cropping | Crops together without fixed row arrangement; risk spreading |
+| Intercropping | Crops together in a planned spatial/row arrangement |
+
+- **Kharif:** monsoon-linked; **rabi:** winter-linked; **zaid:** short summer window. Regional and irrigated exceptions exist.
+- **Production = area x yield.** Productivity/yield is output per unit area. A yield gap is attainable minus realised yield under defined conditions.
+
+## 9. INDIA-CENTRIC AGRO-CLIMATIC MAP
+
+```text
+NORTH-WEST IRRIGATED : wheat-rice, cotton
+HUMID EAST           : rice, jute, tea belts
+DRY DECCAN / ARID    : millets, pulses, oilseeds, cotton
+COASTS / HUMID HILLS : rice, coconut, spices, tea, coffee, rubber
+```
+
+Food, commercial, plantation and horticulture are analytical categories; they can overlap economically.
+
+## 10. DIVERSIFICATION DECISION
+
+Agro-climate -> water -> expected net return -> volatility -> seed/credit/insurance -> labour -> storage/processing -> buyer/standards.
+
+- Millets and pulses can support dryland resilience, nutrition and water economy.
+- International Year of Millets **2023** and Union Budget **2023** 'Shree Anna' are dated policy signals, not proof of automatic area or income gains.
+- High-value horticulture requires cold chains, grading, processing and reliable buyers.
+
+## 10A. NAMED SCIENCE AND POLICY ANCHORS
+
+- **M. Visvesvaraya:** automatic sluice-gate and block-system irrigation evidence; primarily an engineering and water-management contribution.
+- **M.S. Swaminathan:** IARI-led adaptation of semi-dwarf wheat and rice technology; distinguish this scientific role from his later National Commission on Farmers work.
+- **NPOP / APEDA:** certification architecture; organic practice, natural farming and certified organic production are not synonyms.
+- **Sikkim:** standard named full-organic-State example.
+- **Public investment:** irrigation, research, extension, storage, marketing infrastructure and rural connectivity; not identical to recurring input subsidy.
+
+## 11. PRELIMS TRAPS
+
+1. Land reform is not only redistribution.
+2. Abolition, tenancy, ceilings and consolidation are separate instruments.
+3. Article 31A is category-specific; Article 31B requires Ninth-Schedule listing.
+4. Ninth-Schedule laws are not absolutely immune after I.R. Coelho.
+5. Digitised record, ULPIN, property card and conclusive title are not synonyms.
+6. SVAMITVA principally concerns rural abadi areas.
+7. Green Revolution was a package, not seed alone.
+8. Cropping intensity is not yield.
+9. Mixed cropping is not intercropping.
+10. Production growth may come from area rather than productivity.
+
+## 12. MAINS ANSWER SPINE
+
+```text
+DEFINE THE INSTITUTION OR CROPPING CONCEPT
+ -> NAME THE LAW / CASE / PROGRAMME / REGION
+ -> EXPLAIN THE INCENTIVE OR PRODUCTION MECHANISM
+ -> TEST DISTRIBUTION, FEDERAL AND ECOLOGICAL LIMITS
+ -> PROPOSE REGION-SPECIFIC, RIGHTS-SAFE REFORM
+```
+
+**Boundary:** Topic 12 owns detailed MSP, procurement, buffer-stock and PDS architecture. Topic 14 owns detailed irrigation, input, credit, insurance and sustainable-agriculture instruments.

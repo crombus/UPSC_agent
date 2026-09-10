@@ -3,1163 +3,154 @@
 ## Quick-Glance Tree Chart
 
 ```text
-CLIMATE ECONOMICS, GREEN FINANCE AND CIRCULAR ECONOMY
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Climate change and material waste are economic externalities: private prices do
-not fully reflect social damage, depletion or future risk. Policy therefore
-combines prices, standards, disclosure, public investment, innovation and
-finance. A credible transition must reduce emissions and vulnerability while
-protecting workers, regions, consumers and energy access. Green labels require
-taxonomy, allocation, outcome evidence and verification.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-externalities;
-Social Cost of Carbon;
-carbon tax /
-trading;
-PAT /
-CCTS;
-physical /
-transition risk;
-green finance /
-bonds /
-BRSR;
-greenwashing;
-circular economy;
-EPR;
-just transition;
-green hydrogen;
-trade-climate interface.
-                              |
-                              v
-CLIMATE SCIENCE:
-Environment.
-TRADE-LAW /
-CBAM:
-Topic 20.
-ENERGY INFRASTRUCTURE:
-later Economy owner.
-                              |
-                              v
-                BRANCH I: EXTERNALITY-TO-TRANSITION
-RESOURCE
-EXTRACTION.
-                              |
-                              v
-ENERGY
-USE.
-                              |
-                              v
-PRODUCTION /
-CONSUMPTION.
-                              |
-                              v
-EMISSIONS /
-WASTE.
-                              |
-                              v
-UNPRICED
-SOCIAL COST.
-                              |
-                              v
-PRICE /
-RULE /
-FINANCE /
-INNOVATION.
-                              |
-                              v
-LOW-CARBON
-RESILIENT
-CIRCULAR OUTCOME.
-                              |
-                              v
-POLICY
-must address
-market failure.
-                              |
-                              v
-                BRANCH II: MITIGATION / ADAPTATION
-MITIGATION
-reduces emissions
-or increases sinks.
-                              |
-                              v
-ENERGY
-EFFICIENCY.
-                              |
-                              v
-RENEWABLES.
-                              |
-                              v
-ELECTRIFICATION.
-                              |
-                              v
-FORESTS /
-CCUS.
-                              |
-                              v
-ADAPTATION
-reduces exposure /
-vulnerability.
-                              |
-                              v
-RESILIENT
-INFRASTRUCTURE.
-                              |
-                              v
-WATER /
-CROP /
-HEALTH
-adaptation.
-                              |
-                              v
-BOTH REQUIRED.
-                              |
-                              v
-ONE
-does not substitute
-for other.
-                              |
-                              v
-                BRANCH III: SOCIAL COST OF CARBON
-ONE ADDITIONAL
-TONNE OF
-CO2-EQUIVALENT.
-                              |
-                              v
-FUTURE
-CLIMATE /
-HEALTH /
-ECONOMIC
-DAMAGE.
-                              |
-                              v
-MONETISED
-PRESENT VALUE.
-                              |
-                              v
-DISCOUNT
-RATE.
-                              |
-                              v
-DAMAGE
-FUNCTION.
-                              |
-                              v
-POLICY
-APPRAISAL
-BENCHMARK.
-                              |
-                              v
-NOT
-statutory tax.
-                              |
-                              v
-NOT
-market-clearing
-permit price.
-                              |
-                              v
-NO
-single universal value.
-                              |
-                              v
-                BRANCH IV: CARBON-VALUE TRIANGLE
-SOCIAL COST
-OF CARBON
-damage valuation.
-                              |
-                              v
-CARBON TAX
-government-set
-levy per tonne.
-                              |
-                              v
-TRADING PRICE
-supply-demand outcome
-for allowances /
-credits.
-                              |
-                              v
-THREE VALUES
-may diverge.
-                              |
-                              v
-TAX /
-CAP STRINGENCY
-determines incentive.
-                              |
-                              v
-PRICE
-needs distribution /
-competitiveness
-design.
-                              |
-                              v
-                BRANCH V: PAT
-PERFORM,
-ACHIEVE
-AND TRADE.
-                              |
-                              v
-ENERGY
-CONSERVATION ACT
-framework.
-                              |
-                              v
-DESIGNATED
-CONSUMERS.
-                              |
-                              v
-ENERGY-
-INTENSITY
-TARGET.
-                              |
-                              v
-ENERGY SAVING
-CERTIFICATES.
-                              |
-                              v
-OVER-
-ACHIEVER
-sells.
-                              |
-                              v
-UNDER-
-ACHIEVER
-buys /
-complies.
-                              |
-                              v
-ENERGY INTENSITY
-!= absolute emissions.
-                              |
-                              v
-OUTPUT GROWTH
-may raise
-total emissions.
-                              |
-                              v
-                BRANCH VI: CCTS
-CARBON CREDIT
-TRADING SCHEME.
-                              |
-                              v
-ENERGY CONSERVATION
-AMENDMENT ACT
-2022
-lineage.
-                              |
-                              v
-BUREAU OF
-ENERGY EFFICIENCY
-administration.
-                              |
-                              v
-GHG
-EMISSION-INTENSITY
-TARGET.
-                              |
-                              v
-OBLIGATED
-ENTITY.
-                              |
-                              v
-BASELINE /
-CREDIT
-DESIGN.
-                              |
-                              v
-CARBON CREDIT
-CERTIFICATE.
-                              |
-                              v
-PHASED
-SECTOR COVERAGE.
-                              |
-                              v
-NOT
-mature economy-wide
-market.
-                              |
-                              v
-                BRANCH VII: STEEL DRAFT STATUS
-MoEFCC
-DRAFT
-G.S.R. 517(E).
-                              |
-                              v
-26 JUNE 2026.
-                              |
-                              v
-255
-IRON /
-STEEL
-PLANTS.
-                              |
-                              v
-FY2023-24
-BASELINE
-for production /
-existing intensity.
-                              |
-                              v
-PLANT-SPECIFIC
-REDUCTIONS
-about 2.1-9.3 percent
-in source.
-                              |
-                              v
-MEDIAN
-about 5.5 percent.
-                              |
-                              v
-INTENDED
-FY2026-27
-COMPLIANCE.
-                              |
-                              v
-60-DAY
-CONSULTATION.
-                              |
-                              v
-DRAFT,
-not final
-binding notification
-at source cut-off.
-                              |
-                              v
-                BRANCH VIII: CLIMATE-RISK CHANNELS
-PHYSICAL
-RISK.
-                              |
-                              v
-ACUTE:
-flood,
-cyclone,
-heat.
-                              |
-                              v
-CHRONIC:
-temperature,
-water,
-sea-level.
-                              |
-                              v
-TRANSITION
-RISK.
-                              |
-                              v
-POLICY.
-                              |
-                              v
-TECHNOLOGY.
-                              |
-                              v
-MARKET /
-PREFERENCE.
-                              |
-                              v
-LEGAL /
-REPUTATION.
-                              |
-                              v
-TRANSMITS
-to credit,
-market,
-liquidity,
-operation,
-insurance,
-fiscal position.
-                              |
-                              v
-                BRANCH IX: GREEN FINANCE
-ELIGIBLE
-ACTIVITY /
-TAXONOMY.
-                              |
-                              v
-PROJECT
-APPRAISAL.
-                              |
-                              v
-CAPITAL
-ALLOCATION.
-                              |
-                              v
-USE-OF-
-PROCEEDS.
-                              |
-                              v
-OUTPUT
-METRIC.
-                              |
-                              v
-ENVIRONMENTAL
-OUTCOME.
-                              |
-                              v
-REPORTING.
-                              |
-                              v
-EXTERNAL
-ASSURANCE.
-                              |
-                              v
-ADDITIONALITY.
-                              |
-                              v
-GREEN LABEL
-alone insufficient.
-                              |
-                              v
-                BRANCH X: BOND TAXONOMY
-GREEN BOND
-environmental
-uses.
-                              |
-                              v
-SOCIAL BOND
-social uses.
-                              |
-                              v
-SUSTAINABILITY BOND
-green plus social
-use of proceeds.
-                              |
-                              v
-SUSTAINABILITY-
-LINKED BOND
-issuer performance
-targets.
-                              |
-                              v
-TRANSITION
-FINANCE
-for credible
-decarbonisation pathways.
-                              |
-                              v
-LABEL
-does not remove
-credit /
-interest-rate risk.
-                              |
-                              v
-                BRANCH XI: SOVEREIGN GREEN BONDS
-GOVERNMENT
-BORROWING.
-                              |
-                              v
-FIRST ISSUANCE
-FROM FY2022-23.
-                              |
-                              v
-ELIGIBLE
-PUBLIC-SECTOR
-GREEN PROJECTS.
-                              |
-                              v
-SOVEREIGN
-GREEN BOND
-FRAMEWORK.
-                              |
-                              v
-ALLOCATION /
-REPORTING.
-                              |
-                              v
-FINANCE /
-REFINANCE.
-                              |
-                              v
-SOVEREIGN
-LABEL
-!= verified
-environmental outcome.
-                              |
-                              v
-DEBT
-remains government liability.
-                              |
-                              v
-                BRANCH XII: BRSR
-BUSINESS
-RESPONSIBILITY
-AND SUSTAINABILITY
-REPORT.
-                              |
-                              v
-SEBI
-DISCLOSURE
-FRAMEWORK.
-                              |
-                              v
-TOP
-LISTED
-COMPANIES
-coverage phased
-as rules provide.
-                              |
-                              v
-ENVIRONMENTAL.
-                              |
-                              v
-SOCIAL.
-                              |
-                              v
-GOVERNANCE.
-                              |
-                              v
-STANDARDISED
-DISCLOSURE.
-                              |
-                              v
-DISCLOSURE
-!= performance.
-                              |
-                              v
-ASSURANCE /
-COMPARABILITY
-matter.
-                              |
-                              v
-                BRANCH XIII: GREENWASHING
-VAGUE
-GREEN CLAIM.
-                              |
-                              v
-WEAK
-TAXONOMY.
-                              |
-                              v
-SELECTIVE
-DISCLOSURE.
-                              |
-                              v
-NO
-ADDITIONALITY.
-                              |
-                              v
-OFFSET
-QUALITY ISSUE.
-                              |
-                              v
-UNVERIFIED
-OUTCOME.
-                              |
-                              v
-MISLEADS
-INVESTOR /
-CONSUMER.
-                              |
-                              v
-REMEDY:
-criteria,
-MRV,
-assurance,
-penalty,
-transition plan.
-                              |
-                              v
-                BRANCH XIV: RENEWABLE AUCTIONS
-SECI /
-STATE
-AGENCIES.
-                              |
-                              v
-COMPETITIVE
-BIDDING.
-                              |
-                              v
-DISCOVERED
-TARIFF.
-                              |
-                              v
-CAPACITY
-AWARD.
-                              |
-                              v
-LAND /
-TRANSMISSION /
-FINANCE.
-                              |
-                              v
-COMMISSIONING.
-                              |
-                              v
-LOW BID
-can reduce cost.
-                              |
-                              v
-CAN ALSO
-create viability /
-quality /
-payment risk.
-                              |
-                              v
-AUCTION
-!= operational capacity.
-                              |
-                              v
-                BRANCH XV: GREEN HYDROGEN
-RENEWABLE
-ELECTRICITY.
-                              |
-                              v
-ELECTROLYSER.
-                              |
-                              v
-HYDROGEN
-PRODUCTION.
-                              |
-                              v
-STORAGE /
-TRANSPORT.
-                              |
-                              v
-REFINING /
-FERTILISER /
-STEEL /
-SHIPPING.
-                              |
-                              v
-NATIONAL
-GREEN HYDROGEN
-MISSION
-approved
-January 2023.
-                              |
-                              v
-SUPPLY /
-DEMAND
-CREATION.
-                              |
-                              v
-EARLY /
-CAPITAL-INTENSIVE.
-                              |
-                              v
-CAPACITY /
-COST
-claims require
-dated source.
-                              |
-                              v
-                BRANCH XVI: CIRCULAR ECONOMY
-REDUCE.
-                              |
-                              v
-REDESIGN.
-                              |
-                              v
-REUSE.
-                              |
-                              v
-REPAIR.
-                              |
-                              v
-REFURBISH.
-                              |
-                              v
-REMANUFACTURE.
-                              |
-                              v
-RECYCLE
-RESIDUAL MATERIAL.
-                              |
-                              v
-KEEP
-PRODUCTS /
-MATERIALS
-in use.
-                              |
-                              v
-DESIGN OUT
-WASTE /
-POLLUTION.
-                              |
-                              v
-RECYCLING
-alone
-!= circular economy.
-                              |
-                              v
-                BRANCH XVII: EMISSIONS CHANNEL
-LOWER
-VIRGIN MATERIAL
-EXTRACTION.
-                              |
-                              v
-LOWER
-PROCESS ENERGY.
-                              |
-                              v
-LONGER
-PRODUCT LIFE.
-                              |
-                              v
-LOWER
-LANDFILL /
-INCINERATION.
-                              |
-                              v
-SECONDARY
-MATERIALS.
-                              |
-                              v
-REBOUND
-may offset gains
-if total consumption rises.
-                              |
-                              v
-QUALITY /
-COLLECTION
-limits.
-                              |
-                              v
-                BRANCH XVIII: EPR
-EXTENDED
-PRODUCER
-RESPONSIBILITY.
-                              |
-                              v
-PRODUCER /
-BRAND OWNER
-OBLIGATION.
-                              |
-                              v
-COLLECTION.
-                              |
-                              v
-RECYCLING /
-PROCESSING.
-                              |
-                              v
-TARGET.
-                              |
-                              v
-CERTIFICATE.
-                              |
-                              v
-VERIFICATION.
-                              |
-                              v
-ACTUAL
-MATERIAL OUTCOME.
-                              |
-                              v
-PLASTICS /
-E-WASTE
-examples.
-                              |
-                              v
-CERTIFICATE
-!= verified recycling
-without MRV.
-                              |
-                              v
-                BRANCH XIX: JUST TRANSITION
-WORKERS.
-                              |
-                              v
-SKILLS /
-REDEPLOYMENT.
-                              |
-                              v
-COAL /
-FOSSIL
-REGIONS.
-                              |
-                              v
-LOCAL
-REVENUE.
-                              |
-                              v
-CONSUMERS.
-                              |
-                              v
-AFFORDABILITY.
-                              |
-                              v
-ENERGY
-ACCESS.
-                              |
-                              v
-SOCIAL
-PROTECTION.
-                              |
-                              v
-COMMUNITY
-PARTICIPATION.
-                              |
-                              v
-GREEN FINANCE
-does not automatically
-fund transition justice.
-                              |
-                              v
-                BRANCH XX: CBAM BOUNDARY
-EU
-CARBON BORDER
-ADJUSTMENT MECHANISM.
-                              |
-                              v
-EXTERNAL
-IMPORT RULE.
-                              |
-                              v
-DEFINITIVE
-REGIME
-1 January 2026.
-                              |
-                              v
-CEMENT /
-IRON /
-STEEL /
-ALUMINIUM /
-FERTILISER /
-ELECTRICITY /
-HYDROGEN.
-                              |
-                              v
-INDIA'S
-CCTS /
-MRV
-is domestic architecture.
-                              |
-                              v
-CBAM
-!= Indian carbon market.
-                              |
-                              v
-RECOGNITION
-of domestic carbon cost
-not settled
-in source.
-                              |
-                              v
-TRADE-LAW DETAIL:
-Topic 20.
-                              |
-                              v
-                BRANCH XXI: CURRENT CAPACITY ANCHOR
-FY2025-26
-UP TO
-31 December 2025.
-                              |
-                              v
-38.61 GW
-renewable capacity
-installed.
-                              |
-                              v
-SOLAR
-30.16 GW.
-                              |
-                              v
-WIND
-4.47 GW.
-                              |
-                              v
-BIO-POWER
-0.03 GW.
-                              |
-                              v
-HYDRO
-3.24 GW.
-                              |
-                              v
-PERIOD ADDITION,
-not total installed capacity.
-                              |
-                              v
-                BRANCH XXII: LIMITATIONS
-SCC
-MODEL /
-DISCOUNT
-UNCERTAINTY.
-                              |
-                              v
-CARBON
-LEAKAGE.
-                              |
-                              v
-INTENSITY
-vs absolute emissions.
-                              |
-                              v
-EARLY
-MARKET LIQUIDITY.
-                              |
-                              v
-GREENWASHING.
-                              |
-                              v
-PROJECT
-ADDITIONALITY.
-                              |
-                              v
-HIGH
-CAPITAL COST.
-                              |
-                              v
-GRID /
-STORAGE.
-                              |
-                              v
-INFORMAL
-RECYCLING.
-                              |
-                              v
-WORKER /
-REGIONAL
-TRANSITION.
-                              |
-                              v
-                BRANCH XXIII: WAY FORWARD
-CREDIBLE
-TAXONOMY.
-                              |
-                              v
-ROBUST
-MRV.
-                              |
-                              v
-PHASED
-CCTS
-with liquidity.
-                              |
-                              v
-DISCLOSURE /
-ASSURANCE.
-                              |
-                              v
-GREEN
-PROJECT PIPELINE.
-                              |
-                              v
-LOW-COST
-FINANCE.
-                              |
-                              v
-GRID /
-STORAGE /
-R&D.
-                              |
-                              v
-EPR
-ENFORCEMENT.
-                              |
-                              v
-REPAIR /
-REUSE
-ECOSYSTEM.
-                              |
-                              v
-JUST-TRANSITION
-FUNDS /
-SKILLS.
-                              |
-                              v
-                    DATA / POLICY / EXAMPLE BANK
-SCC /
-carbon tax /
-trading price.
-                              |
-                              v
-PAT /
-CCTS.
-                              |
-                              v
-steel draft
-26 June 2026.
-                              |
-                              v
-sovereign green bonds.
-                              |
-                              v
-BRSR.
-                              |
-                              v
-Green Hydrogen Mission.
-                              |
-                              v
-EPR /
-circular ladder.
-                              |
-                              v
-EU CBAM boundary.
-                              |
-                              v
-                    SOURCE CRITICISM
-SCC != carbon tax /
-market price;
-mitigation != adaptation;
-energy intensity != absolute emissions;
-PAT != CCTS;
-draft notification != final rule;
-green bond != zero-risk bond;
-allocation != outcome;
-disclosure != performance;
-label != additionality;
-recycling != circularity;
-EPR certificate != verified recovery;
-CBAM != Indian policy;
-period capacity addition != total capacity.
-                              |
-                              v
-                    MAJOR DEBATES
-CARBON TAX
-OR MARKET?
-administrative certainty
-versus quantity /
-price discovery.
-                              |
-                              v
-GROWTH
-OR DECARBONISATION?
-innovation /
-sequencing.
-                              |
-                              v
-GREEN FINANCE
-OR GREENWASHING?
-taxonomy /
-MRV.
-                              |
-                              v
-CIRCULARITY
-OR RECYCLING?
-design first.
-                              |
-                              v
-TRANSITION
-OR JUST TRANSITION?
-distribution integral.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-SCC is damage estimate;
-carbon tax is statutory price;
-trading price is market outcome;
-PAT targets energy intensity;
-CCTS is phased GHG compliance;
-steel notification was draft
-at source cut-off;
-BRSR is disclosure;
-sustainability bond covers
-environmental plus social uses;
-recycling is last,
-not first,
-circular strategy.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-NO ROUTED MAINS DEMAND
-is claimed directly
-by audited ledgers.
-Related climate /
-energy Mains demands
-remain with their owners.
-                              |
-                              v
-PRELIMS 2020
-Social Cost of Carbon.
-Official key unavailable locally.
-No answer inferred.
-                              |
-                              v
-PRELIMS 2022
-greenwashing.
-Official key unavailable locally.
-No answer inferred.
-                              |
-                              v
-PRELIMS 2025
-BRSR;
-circular economy /
-emission channels.
-Official Set-A key
-present locally.
-No option or answer letter
-is recorded or inferred.
-                              |
-                              v
-PRELIMS 2026 Q92
-sustainability bonds.
-Only provisional Set-A key
-present locally.
-No option or answer letter
-is recorded or inferred.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-externality
--> mitigation /
-adaptation
--> SCC /
-tax /
-market
--> PAT /
-CCTS
--> physical /
-transition risk
--> green finance /
-bonds /
-BRSR
--> circular ladder /
-EPR
--> just transition /
-CBAM.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-DEFINE
-externality /
-metric /
-status.
-                              |
-                              v
-TRACE
-price,
-rule,
-finance,
-innovation.
-                              |
-                              v
-ADD
-mitigation /
-adaptation.
-                              |
-                              v
-TEST
-additionality /
-MRV /
-distribution.
-                              |
-                              v
-LINK
-circularity /
-trade /
-jobs.
-                              |
-                              v
-CONCLUDE
-credible,
-just,
-resilient transition.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-Climate policy becomes economically durable when environmental costs influence
-prices, finance and design without sacrificing energy access or vulnerable
-livelihoods. India should deepen credible MRV, phased carbon markets, green
-finance and circular production while distinguishing draft rules from binding
-obligations. A just transition is not an add-on but the condition for sustained
-decarbonisation.
+ECONOMY TOPIC 25 | CLIMATE ECONOMICS, GREEN FINANCE AND CIRCULAR ECONOMY
+CURRENT-SOURCE CUTOFF: 10 SEPTEMBER 2026
+READ: DEFINE FAILURE -> IDENTIFY INSTRUMENT -> TRACE FINANCE/MATERIAL FLOW -> TEST INTEGRITY -> DISTRIBUTION
+============================================================================================================
+[01 MARKET FAILURE]
+  |- negative externality: social cost > private cost
+  |- climate stability: public-good features
+  |- atmosphere/carbon budget: commons-like scarcity
+  |- cross-border + intergenerational free riding
+  `- uncertainty does not erase expected damage
+------------------------------------------------------------------------------------------------------------
+[02 RESPONSE TRIAD]
+  |- mitigation -> lower emissions / increase sinks
+  |- adaptation -> lower exposure / vulnerability
+  |- loss and damage -> residual economic/non-economic harm
+  |- resilience -> capacity to absorb, adapt and recover
+  `- separate objectives, metrics and finance
+------------------------------------------------------------------------------------------------------------
+[03 CARBON-VALUE MAP]
+  |- SCC -> discounted marginal damage estimate
+  |- carbon tax -> government fixes price
+  |- cap-and-trade -> regulator fixes allowance quantity
+  |- baseline-credit -> performance against benchmark
+  `- offset -> project reduction/removal against counterfactual
+------------------------------------------------------------------------------------------------------------
+[04 INTEGRITY CHECK]
+  |- monitoring + reporting + verification
+  |- additionality + conservative baseline
+  |- leakage + permanence
+  |- registry + surrender + no double counting
+  `- certificate != guaranteed climate outcome
+------------------------------------------------------------------------------------------------------------
+[05 INDIA CERTIFICATE MAP]
+  |- PAT / ESCert -> energy-efficiency intensity
+  |- REC -> renewable-electricity attribute
+  |- CCTS / CCC -> tCO2e reduction/removal under scheme
+  |- BEE administrator | GCI registry | CERC trading regulator
+  `- never merge ESCert, REC and CCC
+------------------------------------------------------------------------------------------------------------
+[06 CCTS DATED STATUS]
+  |- notified 28 Jun 2023; offset arm added 19 Dec 2023
+  |- Oct 2025 -> 282 obligated entities / four sectors
+  |- 13 Jan 2026 -> +208 / four categories = 490 total
+  |- 26 Jun 2026 steel targets -> draft at cutoff
+  `- no unsupported price, volume or mature-market claim
+------------------------------------------------------------------------------------------------------------
+[07 CLIMATE FINANCE]
+  |- public / private / alternative sources
+  |- mitigation / adaptation / loss-and-damage purposes
+  |- provided != mobilised != committed != disbursed
+  |- concessionality != additionality
+  `- blended finance -> barrier-specific risk absorption
+------------------------------------------------------------------------------------------------------------
+[08 GREEN INSTRUMENTS]
+  |- green bond -> debt + eligible use of proceeds
+  |- SGrB framework approved 9 Nov 2022
+  |- FY23-24 issuance Rs 20,000 crore
+  |- eligible transfers Rs 20,785.60 crore; top-up Rs 785.60 crore
+  `- greenium and environmental impact require separate proof
+------------------------------------------------------------------------------------------------------------
+[09 RBI + SEBI]
+  |- RBI green-deposit directions -> 28 Nov 2025
+  |- RBI climate disclosure -> draft 28 Feb 2024 at cutoff
+  |- BRSR Core -> top 500 FY25-26; top 1,000 FY26-27
+  |- value-chain ESG disclosure voluntary from FY25-26
+  `- disclosure != prudential resilience != environmental outcome
+------------------------------------------------------------------------------------------------------------
+[10 TAXONOMY + GREENWASHING]
+  |- DEA taxonomy framework -> draft 7 May 2025
+  |- taxonomy -> activity + threshold + safeguards
+  |- label -> allocation -> output -> outcome -> additionality
+  |- assurance reduces information asymmetry
+  `- draft / label / review never equals verified impact
+------------------------------------------------------------------------------------------------------------
+[11 CIRCULAR ECONOMY]
+  |- refuse/redesign -> reduce -> reuse -> repair
+  |- refurbish -> remanufacture -> recycle -> recover
+  |- LCA checks extraction-to-disposal impacts
+  |- EPR shifts specified end-of-life responsibility upstream
+  `- track rebound, absolute throughput and informal workers
+------------------------------------------------------------------------------------------------------------
+[12 INTEGRATED ANSWER]
+  |- carbon price + standards + innovation + public investment
+  |- adaptation grants/concessional finance for public benefits
+  |- CBAM from 1 Jan 2026 -> EU trade measure, not CCTS
+  |- just transition -> workers + regions + consumers + access
+  `- judge emissions, resilience, materials, jobs, equity and fiscal risk
+
 ```
+
+## Decoding and dated fact rail
+
+| Item | Exact meaning / dated status |
+|---|---|
+| Externality / public bad / commons | Uncompensated third-party cost / shared harm from emissions / overuse pressure on finite atmospheric capacity |
+| SCC | Social Cost of Carbon: discounted marginal damage from one additional tonne of CO2-equivalent; not a tax or traded price |
+| Tax / ETS / baseline-credit / offset | Government-set price / capped allowance market / benchmark-performance credits / project credit against counterfactual |
+| MRV | Monitoring, Reporting and Verification; integrity also requires additionality, leakage, permanence and no double counting |
+| PAT / SEC / ESCert | Perform, Achieve and Trade / Specific Energy Consumption / Energy Saving Certificate |
+| REC / RPO | Renewable Energy Certificate / Renewable Purchase Obligation under CERC's electricity framework |
+| CCTS / CCC | Carbon Credit Trading Scheme / Carbon Credit Certificate representing one tCO2e under scheme rules |
+| BEE / GCI / CERC | Bureau of Energy Efficiency administrator / Grid Controller of India registry operator / Central Electricity Regulatory Commission trading regulator |
+| CCTS status | 28 Jun 2023 notification; 19 Dec 2023 offset amendment; 490 obligated entities notified by 13 Jan 2026; steel draft dated 26 Jun 2026 |
+| Climate finance | Public, private or alternative finance supporting mitigation and adaptation; provided, mobilised, committed and disbursed amounts differ |
+| Additionality / concessionality | Beyond-counterfactual result / finance on terms more favourable than market |
+| SGrB / GFWC / PDMC | Sovereign Green Bond / Green Finance Working Committee / Public Debt Management Cell |
+| SGrB FY 2023-24 | Rs 20,000 crore issued; Rs 20,785.60 crore eligible transfers, including Rs 785.60 crore general-revenue top-up |
+| Greenium | Yield difference against a matched conventional bond; not environmental-impact proof |
+| RBI green deposit | Fixed-period earmarked deposit under 28 Nov 2025 directions for covered banks and deposit-taking NBFCs/HFCs |
+| RBI disclosure status | Separate climate-risk disclosure framework dated 28 Feb 2024 remained draft at cutoff |
+| BRSR / ESG | Business Responsibility and Sustainability Report / Environmental, Social and Governance |
+| BRSR Core | Top 500 listed entities in FY25-26; top 1,000 in FY26-27; value-chain disclosure voluntary from FY25-26 |
+| DEA taxonomy | Department of Economic Affairs draft framework dated 7 May 2025; no final national taxonomy identified by cutoff |
+| SEEA / EnviStats | System of Environmental-Economic Accounting / MoSPI environmental-account publication |
+| LCA | Life-Cycle Assessment from extraction through production, use and end of life |
+| EPR / CPCB | Extended Producer Responsibility / Central Pollution Control Board; category-specific waste rules and portals |
+| EPR dates | Plastic packaging Feb 2022; waste tyres 21 Jul 2022; batteries 22 Aug 2022; e-waste rules 2 Nov 2022 effective 1 Apr 2023; used oil 18 Sep 2023 |
+| CBAM | EU Carbon Border Adjustment Mechanism; definitive regime from 1 Jan 2026, separate from CCTS |
+
+## Prelims traps
+
+- SCC, carbon tax and a traded carbon price can differ.
+- Baseline-and-credit does not impose an economy-wide absolute cap.
+- PAT's ESCert, electricity REC and CCTS CCC are not interchangeable.
+- CCTS notification, target coverage, registry readiness, issuance and liquid trading are separate stages.
+- Green bond allocation, environmental output and additionality are different evidence.
+- Green deposits remain liabilities of the accepting regulated entity.
+- RBI's green-deposit directions did not silently finalise its separate 2024 disclosure draft.
+- BRSR is a SEBI framework; BRSR Core and value-chain disclosure have different glide paths.
+- Recycling is below refusal, reduction, reuse and repair in the circular hierarchy.
+- EPR is waste-stream specific; certificate generation is not proof against fraud or double counting.
+- CBAM is an EU import measure, not India's CCTS.
+
+## Mains answer spine
+
+1. Define the market failure, finance instrument or material loop.
+2. Identify authority, legal perimeter, unit, date and implementation stage.
+3. Trace price, quantity, balance-sheet or lifecycle transmission.
+4. Test MRV, additionality, leakage, greenwashing, rebound and stranded assets.
+5. Evaluate absolute emissions, resilience, throughput, jobs, affordability and fiscal risk.
+6. Conclude with a coherent mix: price + standards + innovation + public investment + social protection.
+
+## Ownership firewall
+
+- GDP measurement and national accounts: Topic 1.
+- Securities-market mechanics: Topic 8.
+- Infrastructure finance: Topic 18.
+- WTO/trade-law analysis of CBAM: Topic 20.
+- Labour-Code treatment of workers: Topic 22.
+- Energy infrastructure and security: Topic 31.
+- Climate science, treaties and CCUS engineering depth: Environment and Ecology.

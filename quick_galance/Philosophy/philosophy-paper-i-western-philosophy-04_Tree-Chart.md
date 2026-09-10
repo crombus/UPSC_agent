@@ -1,1539 +1,599 @@
 # Philosophy Optional — Paper I — Western Philosophy 04 — Kant
 
+> **Quick-glance revision tree.** Concise and revision-oriented. It does not
+> duplicate the complete learning session, the ASCII master flow diagram or the
+> graphical at-a-glance package; it is the thirty-second refresher that carries
+> the central thesis, the exact examinable data, the traps and the PYQ answer
+> routes.
+> **Syllabus, verbatim:** *Kant: Possibility of Synthetic a priori Judgments; Space and Time; Categories; Ideas of Reason; Antinomies; Critique of Proofs for the Existence of God.*
+> **Terminology:** English concept first, the German term immediately after in parentheses; every English sentence attributed to Kant is a translation, cited by A/B pagination.
+
 ## Quick-Glance Tree Chart
 
 ```text
-IMMANUEL KANT
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Kant asks how synthetic a priori knowledge is possible and answers through the critical
-or transcendental method: experience is possible because sensibility supplies a priori
-forms of space and time while understanding synthesises the manifold through categories
-under the unity of apperception. We know phenomena as constituted under these conditions,
-not things in themselves. Reason becomes dialectically illusory when it treats the
-unconditioned as an object of knowledge, generating paralogisms, antinomies and invalid
-proofs of God.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-analytic /
-synthetic;
-a priori /
-a posteriori;
-synthetic a priori;
-Copernican turn;
-space /
-time;
-transcendental
-idealism /
-empirical realism;
-categories;
-deduction;
-apperception;
-schematism;
-Analogies;
-causation /
-Hume response;
-Refutation of
-Idealism;
-phenomena /
-noumena;
-ideas of reason;
-paralogisms /
-antinomies;
-God-proof critique;
-practical postulates.
-                              |
-                              v
-DOES NOT OWN:
-full Kantian ethics;
-post-Kantian idealism:
-Topic 05;
-Hume beyond
-response:
-Topic 03;
-modern science
-history beyond
-bounded critique.
-                              |
-                              v
-PRIMARY TEXT:
-Critique of Pure Reason.
-                              |
-                              v
-A edition 1781.
-                              |
-                              v
-B edition 1787.
-                              |
-                              v
-cite A /
-B pagination.
-                              |
-                              v
-SOURCE CAUTION:
-some passages
-edition-specific;
-translations vary;
-Copernican Revolution
-is traditional label,
-not Kant's self-label.
-                              |
-                              v
-              BRANCH I: TWO DISTINCTIONS
-ANALYTIC.
-                              |
-                              v
-predicate contained
-in subject concept.
-                              |
-                              v
-explicative.
-                              |
-                              v
-denial contradictory.
-                              |
-                              v
-SYNTHETIC.
-                              |
-                              v
-predicate adds
-new content.
-                              |
-                              v
-ampliative.
-                              |
-                              v
-A PRIORI.
-                              |
-                              v
-independent of
-particular experience.
-                              |
-                              v
-necessary /
-universal.
-                              |
-                              v
-A POSTERIORI.
-                              |
-                              v
-grounded in
-experience.
-                              |
-                              v
-contingent.
-                              |
-                              v
-CROSS-CLASSIFICATION:
-analytic a priori.
-                              |
-                              v
-synthetic a posteriori.
-                              |
-                              v
-SYNTHETIC A PRIORI.
-                              |
-                              v
-informative yet
-necessary /
-universal.
-                              |
-                              v
-central problem.
-                              |
-                              v
-analytic a posteriori
-normally empty /
-misclassified.
-                              |
-                              v
-              BRANCH II: WHY SYNTHETIC A PRIORI?
-mathematics.
-                              |
-                              v
-"7 + 5 = 12"
-adds content yet
-is necessary.
-                              |
-                              v
-geometry in
-Kant's framework.
-                              |
-                              v
-natural science.
-                              |
-                              v
-"every event has
-a cause".
-                              |
-                              v
-metaphysics seeks
-necessary synthetic
-knowledge.
-                              |
-                              v
-HUME'S FORK
-excluded such
-category.
-                              |
-                              v
-Kant's question:
-what conditions
-make experience /
-science possible?
-                              |
-                              v
-TRANSCENDENTAL ARGUMENT.
-                              |
-                              v
-given accepted
-experience F.
-                              |
-                              v
-F possible only
-if condition C.
-                              |
-                              v
-therefore C is
-necessary condition
-of possible experience.
-                              |
-                              v
-              BRANCH III: COPERNICAN TURN
-traditional assumption:
-knowledge conforms
-to objects.
-                              |
-                              v
-Kant reverses:
-objects of possible
-experience conform
-to cognitive
-conditions.
-                              |
-                              v
-mind does not
-create things
-in themselves.
-                              |
-                              v
-mind supplies
-forms /
-categories
-for appearances.
-                              |
-                              v
-explains necessity
-within possible
-experience.
-                              |
-                              v
-reconciles:
-rationalist a priori
-structure.
-                              |
-                              v
-empiricist necessity
-of sensory content.
-                              |
-                              v
-"thoughts without
-content are empty;
-intuitions without
-concepts are blind"
-A51/B75.
-                              |
-                              v
-official 2023 paper
-misprints "precepts";
-retain paper wording
-when citing PYQ,
-correct doctrine
-in answer.
-                              |
-                              v
-              BRANCH IV: TRANSCENDENTAL AESTHETIC
-SENSIBILITY.
-                              |
-                              v
-capacity to receive
-representations.
-                              |
-                              v
-INTUITION.
-                              |
-                              v
-immediate singular
-representation.
-                              |
-                              v
-SPACE.
-                              |
-                              v
-a priori form
-of outer sense.
-                              |
-                              v
-TIME.
-                              |
-                              v
-a priori form
-of inner sense
-and all appearances.
-                              |
-                              v
-not empirical
-concepts abstracted
-from experience.
-                              |
-                              v
-experience presupposes
-spatial /
-temporal ordering.
-                              |
-                              v
-              BRANCH V: METAPHYSICAL EXPOSITION
-space /
-time are a priori.
-                              |
-                              v
-cannot represent
-absence of space /
-time while
-representing appearances.
-                              |
-                              v
-necessary conditions
-of experience.
-                              |
-                              v
-not general
-discursive concepts.
-                              |
-                              v
-represented as
-single /
-infinite wholes.
-                              |
-                              v
-parts are limitations
-within whole,
-not instances
-under concept.
-                              |
-                              v
-therefore pure
-intuitions.
-                              |
-                              v
-              BRANCH VI: TRANSCENDENTAL EXPOSITION
-shows how
-a priori intuition
-grounds synthetic
-a priori knowledge.
-                              |
-                              v
-space grounds
-geometry in
-Kant's framework.
-                              |
-                              v
-time grounds
-mathematics /
-change /
-succession.
-                              |
-                              v
-TRANSCENDENTAL IDEALITY.
-                              |
-                              v
-space /
-time not properties
-of things in
-themselves.
-                              |
-                              v
-EMPIRICAL REALITY.
-                              |
-                              v
-valid for every
-possible appearance.
-                              |
-                              v
-Kant does not
-say space /
-time unreal.
-                              |
-                              v
-MODERN LIMIT:
-non-Euclidean geometry /
-relativity challenge
-showcase geometry
-argument.
-                              |
-                              v
-metaphysical-exposition
-strategy remains
-distinct.
-                              |
-                              v
-              BRANCH VII: TRANSCENDENTAL ANALYTIC
-UNDERSTANDING.
-                              |
-                              v
-spontaneously thinks
-given manifold.
-                              |
-                              v
-concepts /
-judgments.
-                              |
-                              v
-CATEGORIES.
-                              |
-                              v
-pure concepts
-of understanding.
-                              |
-                              v
-four headings:
-quantity.
-                              |
-                              v
-quality.
-                              |
-                              v
-relation.
-                              |
-                              v
-modality.
-                              |
-                              v
-three categories
-under each.
-                              |
-                              v
-table derived from
-forms of judgment.
-                              |
-                              v
-CRITICISM:
-logical table
-not independently
-justified;
-inventory may be
-contingent.
-                              |
-                              v
-              BRANCH VIII: TRANSCENDENTAL DEDUCTION
-question:
-why do categories
-apply objectively
-to appearances?
-                              |
-                              v
-manifold must be
-synthesised.
-                              |
-                              v
-representations must
-belong to one
-consciousness.
-                              |
-                              v
-"I think" must
-be able to
-accompany all
-representations,
-B131-132.
-                              |
-                              v
-TRANSCENDENTAL UNITY
-OF APPERCEPTION.
-                              |
-                              v
-formal /
-logical condition,
-not empirical soul.
-                              |
-                              v
-synthesis according
-to categories
-makes unified
-objective experience
-possible.
-                              |
-                              v
-categories valid
-for objects of
-possible experience.
-                              |
-                              v
-not for things
-in themselves.
-                              |
-                              v
-ANTI-HUMEAN FORCE:
-objectivity is
-condition,
-not habit alone.
-                              |
-                              v
-              BRANCH IX: APPERCEPTION / AESTHETIC
-space /
-time supply
-manifold form.
-                              |
-                              v
-apperception unifies
-manifold as
-my experience.
-                              |
-                              v
-categories provide
-rules of synthesis.
-                              |
-                              v
-apperception not
-deduced by
-transcendental exposition
-of space /
-time.
-                              |
-                              v
-Aesthetic =
-how objects
-are given.
-                              |
-                              v
-Analytic =
-how objects
-are thought.
-                              |
-                              v
-unity of consciousness
-does not prove
-substantial soul.
-                              |
-                              v
-answers Hume bundle
-at formal /
-transcendental level.
-                              |
-                              v
-              BRANCH X: SCHEMATISM
-problem:
-categories are
-pure /
-intellectual.
-                              |
-                              v
-intuitions are
-sensible.
-                              |
-                              v
-how apply?
-                              |
-                              v
-SCHEMA.
-                              |
-                              v
-rule of
-time-determination.
-                              |
-                              v
-not image.
-                              |
-                              v
-homogeneous with
-category as rule.
-                              |
-                              v
-homogeneous with
-appearance through
-time.
-                              |
-                              v
-examples:
-substance =
-permanence in time.
-                              |
-                              v
-causality =
-succession according
-to rule.
-                              |
-                              v
-community =
-coexistence /
-reciprocity.
-                              |
-                              v
-"art concealed
-in depths of
-human soul"
-A141/B180-181,
-translation varies.
-                              |
-                              v
-CRITICISM:
-mechanism asserted
-more than explained.
-                              |
-                              v
-              BRANCH XI: ANALOGIES OF EXPERIENCE
-time itself
-not perceived.
-                              |
-                              v
-objective time
-relations require
-rules.
-                              |
-                              v
-FIRST ANALOGY.
-                              |
-                              v
-permanence of
-substance.
-                              |
-                              v
-change presupposes
-persistent substrate.
-                              |
-                              v
-SECOND ANALOGY.
-                              |
-                              v
-causality.
-                              |
-                              v
-objective succession
-distinguished from
-subjective order
-by rule-governed
-sequence.
-                              |
-                              v
-Kant's deepest
-reply to Hume.
-                              |
-                              v
-does not discover
-particular causal law
-a priori.
-                              |
-                              v
-establishes causal
-ordering as condition
-of objective events.
-                              |
-                              v
-THIRD ANALOGY.
-                              |
-                              v
-community /
-reciprocity.
-                              |
-                              v
-objective simultaneity
-requires reciprocal
-interaction.
-                              |
-                              v
-              BRANCH XII: HUME / KANT
-HUME.
-                              |
-                              v
-no impression
-of necessary
-connection.
-                              |
-                              v
-constant conjunction.
-                              |
-                              v
-habit /
-expectation.
-                              |
-                              v
-KANT.
-                              |
-                              v
-causality not
-read from objects.
-                              |
-                              v
-a priori category
-constituting possible
-experience.
-                              |
-                              v
-"every event has
-a cause"
-synthetic a priori
-within phenomena.
-                              |
-                              v
-REPLY LEVEL:
-entitlement to
-objective causal
-concept.
-                              |
-                              v
-not knowledge of
-which specific
-cause operates.
-                              |
-                              v
-CRITIQUE:
-does objective order
-require causal
-necessitation,
-or only ordered
-succession?
-                              |
-                              v
-              BRANCH XIII: REFUTATION OF IDEALISM
-B-only:
-B274-279.
-                              |
-                              v
-Descartes starts
-with inner certainty
-and infers outer.
-                              |
-                              v
-Kant reverses.
-                              |
-                              v
-determinate inner
-time consciousness
-requires something
-persistent.
-                              |
-                              v
-inner representations
-alone are changing.
-                              |
-                              v
-persistent object
-must be represented
-in outer experience.
-                              |
-                              v
-outer experience
-is condition of
-determinate inner
-experience.
-                              |
-                              v
-EMPIRICAL REALISM
-inside transcendental
-idealism.
-                              |
-                              v
-LIMIT:
-may prove need
-to represent
-persistent externality,
-not thing-in-itself.
-                              |
-                              v
-"scandal of
-philosophy"
-is B-Preface note,
-not Refutation
-sentence.
-                              |
-                              v
-              BRANCH XIV: PHENOMENA / NOUMENA
-PHENOMENA.
-                              |
-                              v
-objects as appearing
-under space /
-time /
-categories.
-                              |
-                              v
-knowable.
-                              |
-                              v
-empirically real.
-                              |
-                              v
-NOUMENA /
-THING IN ITSELF.
-                              |
-                              v
-object considered
-apart from our
-forms of cognition.
-                              |
-                              v
-not positively
-knowable by
-theoretical reason.
-                              |
-                              v
-LIMITING CONCEPT.
-                              |
-                              v
-prevents equation
-of appearance with
-reality absolutely.
-                              |
-                              v
-TRAP:
-noumenon is not
-a known object
-behind appearance
-causing it.
-                              |
-                              v
-using causality
-beyond experience
-would violate
-Kant's own limit.
-                              |
-                              v
-Jacobi-style
-objection exposes
-tension.
-                              |
-                              v
-              BRANCH XV: IDEAS OF REASON
-reason seeks
-unconditioned totality.
-                              |
-                              v
-SOUL.
-                              |
-                              v
-WORLD.
-                              |
-                              v
-GOD.
-                              |
-                              v
-REGULATIVE USE.
-                              |
-                              v
-guide inquiry /
-systematic unity.
-                              |
-                              v
-CONSTITUTIVE MISUSE.
-                              |
-                              v
-treat Idea as
-known object
-beyond experience.
-                              |
-                              v
-produces transcendental
-illusion.
-                              |
-                              v
-illusion natural /
-inescapable,
-but can be
-diagnosed.
-                              |
-                              v
-              BRANCH XVI: PARALOGISMS
-rational psychology.
-                              |
-                              v
-"I think"
-mistaken for
-knowledge of
-substantial /
-simple /
-immortal soul.
-                              |
-                              v
-apperception supplies
-formal unity.
-                              |
-                              v
-does not provide
-intuition of soul
-as object.
-                              |
-                              v
-logical subject
-mistaken for
-metaphysical substance.
-                              |
-                              v
-Kant answers
-Cartesian /
-Humean self
-without proving
-immortal substance.
-                              |
-                              v
-              BRANCH XVII: ANTINOMIES
-reason treats
-world as
-completed totality.
-                              |
-                              v
-thesis and
-antithesis both
-apparently demonstrable.
-                              |
-                              v
-FIRST:
-world has beginning /
+IMMANUEL KANT - THE CRITICAL PHILOSOPHY (A 1781 / B 1787)
+        |
+        v
+CENTRAL THESIS
+Kant replaces the old question. Instead of asking how cognition conforms to
+objects, he asks what must already be true OF US for anything to be given as
+an object. The answer is that sensibility supplies the pure forms SPACE and
+TIME, the understanding supplies twelve CATEGORIES justified through the unity
+of APPERCEPTION, and the imagination supplies SCHEMATA that are determinations
+of TIME. Necessity is therefore located in the CONDITIONS OF OBJECTHOOD-FOR-US
+- not in objects (rationalism) and not in habit (Hume). The same argument that
+secures mathematics and the fundamental principles of natural science forbids
+theoretical knowledge of soul, world-totality and God.
+        |
+        v
+SCOPE FIREWALL
+ OWNS ....... synthetic a priori judgment; analytic/synthetic and a priori/a
+              posteriori; the change of standpoint traditionally called the
+              Copernican revolution; space and time with the metaphysical and
+              transcendental expositions; transcendental ideality with
+              empirical reality; the twelve categories; metaphysical and
+              transcendental deductions; apperception; "Understanding makes
+              Nature"; schematism; the three Analogies; the Refutation of
+              Idealism; phenomena and noumena; the Ideas of Reason; regulative
+              versus constitutive; the Paralogisms; the Ideal of Pure Reason;
+              the four Antinomies; the critique of the ontological,
+              cosmological and physico-theological proofs; God as a practical
+              postulate; all TEN routed PYQs
+ DOES NOT ... KANTIAN ETHICS AS DOCTRINE - good will, duty, the hypothetical
+   OWN        and categorical imperatives, the formula of universal law, the
+              formula of humanity, autonomy, the kingdom of ends. The printed
+              clause is entirely THEORETICAL and no 2018-2025 PYQ routes an
+              ethics question here. Also excluded: the Critique of Judgment on
+              beauty, the sublime and purposiveness; Hegel's positive system
+              (Topic 05); Moore's and Russell's own philosophies (Topic 06);
+              Quine on the analytic/synthetic distinction (Topic 11); Hume's
+              epistemology as doctrine (Topic 03)
+ BOUNDED .... once speculative proof of God fails, Kant reinstates God, freedom
+   EXCEPTION  and immortality as POSTULATES of practical reason. TWO SENTENCES,
+              then stop. A God-proof answer that becomes an ethics survey has
+              left the printed clause.
+        |
+        v
+THE ONE ARGUMENT-FORM THAT RUNS THROUGH EVERYTHING
+   GIVEN F, AND F IS POSSIBLE ONLY IF C, THEREFORE C
+   1 identify a fact both parties accept - there IS mathematics; there IS a
+     difference between an objective event and a subjective sequence; my
+     representations are all MINE
+   2 ask what conditions must hold if that fact is possible at all
+   3 show the conditions cannot come from the objects, or they would be
+     contingent and a posteriori
+   4 conclude that they are a priori forms of the SUBJECT
+   5 NOTE THE PRICE - they hold of objects AS THEY CAN APPEAR TO US, and of
+     nothing beyond. Reporting the necessity and omitting the restriction is
+     reporting half of Kant.
+   DISCRIMINATION: TRANSCENDENTAL = concerning conditions (legitimate).
+                   TRANSCENDENT = beyond all possible experience (illusion).
+
++------------------------- THE CENTRAL PROBLEM ----------------------------+
+|  TWO DISTINCTIONS, CROSSED - not one distinction with four names          |
+|    MEANING  ANALYTIC predicate covertly CONTAINED, explicative, denial     |
+|             self-contradictory | SYNTHETIC predicate ADDS, ampliative      |
+|    WARRANT  A PRIORI = necessity + STRICT universality (B3-4)              |
+|             A POSTERIORI = contingent, comparative generality only         |
+|    B1: all cognition BEGINS with experience but does not all ARISE from it |
+|    THE EMPTY CELL: analytic a posteriori is IMPOSSIBLE - containment makes |
+|      empirical warrant idle. Naming it proves you have the grid.           |
+|                                                                           |
+|  THE OCCUPIED THIRD BOX - SYNTHETIC A PRIORI  [PYQ 2023 Q1e]              |
+|    7 + 5 = 12 ......... SYNTHETIC because the concept of the SUM contains  |
+|      only their union, not twelve, which is brought in by counting in pure |
+|      intuition. A PRIORI because no experiment could falsify it.           |
+|    STRAIGHT = SHORTEST  SYNTHETIC because "straight" is a QUALITY and      |
+|      "shortest" a QUANTITY. A PRIORI because constructed in pure spatial   |
+|      intuition.                                                            |
+|    EVERY EVENT HAS A CAUSE  SYNTHETIC because the concept of an EVENT      |
+|      contains no determining antecedent. A PRIORI because it cannot be     |
+|      induced without circularity - objective time-order presupposes it.    |
+|    METAPHYSICS ASPIRES TO THE CLASS AND FAILS - and the grading IS the     |
+|      argument.                                                             |
+|                                                                           |
+|  HUME'S FORK SUPERIMPOSED                                                  |
+|    RELATIONS OF IDEAS = analytic a priori | MATTERS OF FACT = synthetic a  |
+|    posteriori | THERE IS NO THIRD TINE -> hence CUSTOM, and metaphysics to |
+|    the flames. KANT: the third box is occupied, so the FORK IS INCOMPLETE. |
+|    The question is quid juris, not quid facti.                             |
+|                                                                           |
+|  QUALIFICATION, STATED HONESTLY: non-Euclidean geometry and relativity     |
+|    removed the assumption that ONE Euclidean geometry is uniquely valid.   |
+|    "7+5=12" is untouched; "the straight line is the shortest" as a truth   |
+|    about PHYSICAL space is not. The CLASS survives the loss of an example. |
++---------------------------------------------------------------------------+
+        |
+        v
++------------------ THE COPERNICAN CHANGE OF STANDPOINT --------------------+
+|  Bxvi-xviii: "let us try whether we may not have better success if we      |
+|  suppose that OBJECTS MUST CONFORM TO OUR COGNITION."                      |
+|  RESTRICTING CLAUSE, part of the hypothesis: objects AS OBJECTS OF         |
+|  POSSIBLE EXPERIENCE. THINGS IN THEMSELVES ARE EXEMPTED.                   |
+|  PROVENANCE: "Copernican revolution" is the COMMENTATORS' label.           |
+|  THE ANALOGY: Copernicus explained apparent celestial motion by moving the |
+|    OBSERVER. He DISPLACED the earth - so "man at the centre" inverts the   |
+|    comparison it claims to use.                                            |
+|  SUPREME PRINCIPLE (A158/B197): the conditions of the possibility of       |
+|    EXPERIENCE are at the same time conditions of the possibility of the    |
+|    OBJECTS of experience.                                                  |
+|  FOUR DENIALS: no creation of empirical objects (form, not matter) | no    |
+|    noumenal conformity | space is EMPIRICALLY REAL | not "raw data plus    |
+|    imposed scheme".                                                        |
+|                                                                           |
+|  THE RECONCILIATION FORMULA  [PYQ 2023 Q1a]                               |
+|    A51/B75 "Thoughts without content are EMPTY, intuitions without         |
+|    concepts are BLIND."                                                     |
+|    EMPTY corrects RATIONALISM | BLIND corrects EMPIRICISM                  |
+|    TWO STEMS: sensibility RECEPTIVE supplies content; understanding        |
+|      SPONTANEOUS supplies rule. "The understanding can intuit nothing, and |
+|      the senses can think nothing."                                        |
+|    NOT 50:50 - empiricist about the SOURCE OF CONTENT, rationalist about   |
+|      the SOURCE OF NECESSITY.                                              |
+|    THE 2023 PAPER PRINTS "Precepts" TWICE. FOUR-STEP PROTOCOL: quote as    |
+|      printed -> restore A51/B75 -> note the substitution and transposition |
+|      -> answer the question asked. NEVER silently correct an official      |
+|      paper.                                                                |
++---------------------------------------------------------------------------+
+        |
+        v
++------------- TRANSCENDENTAL AESTHETIC - SPACE AND TIME -------------------+
+|  [PYQ 2019 Q4a] "transcendence" = the A PRIORI and TRANSCENDENTALLY IDEAL  |
+|  status, NOT existence beyond experience. Say this in line one.            |
+|                                                                           |
+|  DOCTRINE                                                                  |
+|    SPACE = a priori FORM OF OUTER SENSE                                    |
+|    TIME  = a priori FORM OF INNER SENSE, and thereby of ALL representations|
+|    Both are PURE INTUITIONS - singular, immediate, prior to perception     |
+|    NOT Newton's self-subsistent containers | NOT Leibniz's confused        |
+|    relations among things in themselves | NOT empirical abstractions       |
+|                                                                           |
+|  METAPHYSICAL EXPOSITION - FOUR ARGUMENTS, TWO JOBS                        |
+|    1 NOT DERIVED FROM EXPERIENCE - to refer sensations to something        |
+|      "outside me" space must already be presupposed .............. A PRIORI|
+|    2 NECESSARY - we can think space empty of objects but cannot think it   |
+|      away ......................................................... A PRIORI|
+|    3 SINGULAR - there is ONE space; particular spaces are LIMITATIONS      |
+|      within it, not instances under it .......................... INTUITION|
+|    4 GIVEN AS AN INFINITE MAGNITUDE - no concept contains infinitely many  |
+|      representations WITHIN it .................................. INTUITION|
+|    TIME, in parallel: succession and simultaneity presuppose it; it cannot |
+|      be thought away; times are parts of one time; it is given unlimited.  |
+|    >>> SORT THE PAIRS. 1-2 give apriority; 3-4 give intuitivity.           |
+|                                                                           |
+|  TRANSCENDENTAL EXPOSITION - what it EXPLAINS                              |
+|    SPACE -> GEOMETRY: figures CONSTRUCTED in pure intuition, so what is     |
+|      proved of the construction holds of every object of outer sense       |
+|    TIME  -> ARITHMETIC and the pure doctrine of motion: NUMBER is          |
+|      successive addition; alteration is possible only in time              |
+|                                                                           |
+|  THE TWO RIVALS FAIL FOR OPPOSITE REASONS                                   |
+|    NEWTON: two eternal non-entities that condition everything real, and    |
+|      no experience could acquaint us with them                             |
+|    LEIBNIZ: relations abstracted from things could never be known with     |
+|      NECESSITY, so apodictic geometry is lost                              |
+|    KANT: neither a thing nor a relation among things, but the FORM OF      |
+|      ENCOUNTER - so the dispute DISSOLVES rather than being decided        |
+|                                                                           |
+|  DOUBLE RESULT - NEVER QUOTE ONE HALF ALONE                                |
+|    TRANSCENDENTAL IDEALITY blocks Newton AND Leibniz together              |
+|    EMPIRICAL REALITY blocks the charge of illusion - the Berkeley reading  |
+|                                                                           |
+|  LOAD-BEARING ASYMMETRY: outer representations are in space AND time;      |
+|    inner representations are in TIME ONLY. Only time is in EVERY           |
+|    representation - which is why the SCHEMATISM uses time, not space.      |
++---------------------------------------------------------------------------+
+        |
+        v
++------------ TRANSCENDENTAL ANALYTIC - CATEGORIES AND DEDUCTION -----------+
+|  METAPHYSICAL DEDUCTION - which concepts (quid facti)                      |
+|    PREMISE: the understanding is a FACULTY OF JUDGING, so the functions of |
+|      unity in judgement exhaust it                                         |
+|    CATEGORY = the logical function applied to a MANIFOLD GIVEN IN INTUITION|
+|      WORKED CASE: hypothetical "if p then q" -> "this state follows that   |
+|      one ACCORDING TO A RULE" = CAUSALITY                                  |
+|    QUANTITY unity/plurality/totality ........... extensive magnitude       |
+|    QUALITY  reality/negation/limitation ........ intensive magnitude,      |
+|                                                  degree                    |
+|    RELATION substance-accident / cause-effect /  objective TIME relations  |
+|             community ........................... -> THE THREE ANALOGIES   |
+|    MODALITY possible/actual/necessary .......... relation of the object to |
+|             OUR FACULTY OF COGNITION -> the Postulates, not a law of nature|
+|    >>> MODALITY TRAP: no modal category licenses an inference to a         |
+|        necessary BEING - the confusion the Fourth Antinomy and the         |
+|        cosmological proof exploit.                                         |
+|    THIRD OF EACH GROUP = the first two combined, but a SPECIAL ACT of the  |
+|      understanding is still required.                                      |
+|    OBJECTION: why exactly twelve? REPLY: the table of judgements is claimed|
+|      exhaustive. VERDICT: DETACH STRATEGY FROM INVENTORY and the Deduction |
+|      stands (Strawson's austere reading).                                  |
+|                                                                           |
+|  TRANSCENDENTAL DEDUCTION - by what right (quid juris)  [PYQ 2022 Q1e]     |
+|    1 "The I THINK MUST BE ABLE TO accompany all my representations"        |
+|      (B131-2) - note the MODAL form                                        |
+|    2 the unity is ORIGINAL and TRANSCENDENTAL, not derived                 |
+|    3 COMBINATION can never come to us through the senses; synthesis is an  |
+|      act of SPONTANEITY through the productive imagination                 |
+|    4 one consciousness requires RULE-GOVERNED synthesis                    |
+|    5 those rules ARE the categories                                        |
+|    6 an object is "that in the concept of which the manifold of a given    |
+|      intuition is UNITED" -> objective validity for all possible experience|
+|    STRENGTH: the sceptic concedes only that his experiences are HIS.       |
+|    RESTRICTION: valid of objects AS THEY CAN BE GIVEN TO US.               |
+|    REMAINING GAP: HOW a pure category reaches an appearance -> SCHEMATISM. |
+|                                                                           |
+|  APPERCEPTION - IS / IS NOT                                                |
+|    IS: formal | original | transcendental | a CONDITION | a FUNCTION       |
+|    IS NOT: an inner observation | an impression | Hume's BUNDLE | a        |
+|      SUBSTANCE | knowledge of myself as I am in myself                     |
+|    TWO FLANKING ERRORS: Hume sought the self among IMPRESSIONS (it is a    |
+|      condition, not a content); rational psychology inferred a SOUL-       |
+|      SUBSTANCE (the PARALOGISM). Kant's self is a FUNCTION - presupposed,  |
+|      not found and not proved.                                             |
+|    ARCHITECTURE CAUTION FOR 2022: the transcendental exposition does NOT   |
+|      deduce apperception. Aesthetic gives the FORMS -> Deduction justifies |
+|      the CATEGORIES through apperceptive unity -> Schematism mediates      |
+|      their TEMPORAL APPLICATION.                                           |
+|                                                                           |
+|  "UNDERSTANDING MAKES NATURE"  [PYQ 2018 Q2b, first limb]                  |
+|    Nature FORMALLY considered = the law-governed unity of appearances      |
+|    ARGUMENT: sensations unordered -> synthesis under categories -> objects |
+|      in objective temporal relations -> universal laws                     |
+|    FOUR DENIALS: not the MATTER of sensation | not PARTICULAR empirical    |
+|      laws | not things in themselves | not PRIVATE IMAGINATION             |
+|    OBJECTION: this collapses nature into mind. REPLY: transcendental       |
+|      idealism IS empirical realism.                                        |
++---------------------------------------------------------------------------+
+        |
+        v
++---------------- SCHEMATISM AND THE ANALOGIES OF EXPERIENCE ---------------+
+|  SCHEMATISM (A137-47 / B176-87)                                            |
+|    PROBLEM: subsumption requires HOMOGENEITY; categories and appearances   |
+|      are HETEROGENEOUS. The Deduction proved THAT, not HOW.                |
+|    SOLUTION: a THIRD THING (ein Drittes) - the transcendental SCHEMA, a    |
+|      TRANSCENDENTAL DETERMINATION OF TIME (transzendentale Zeitbestimmung),|
+|      produced by the PRODUCTIVE IMAGINATION. Homogeneous with each in a    |
+|      DIFFERENT RESPECT, not partly each.                                   |
+|    WHY TIME: it must be (a) a priori and universal like the category and   |
+|      (b) present in EVERY appearance like intuition. SPACE FAILS (b).      |
+|    SCHEMA = RULE; IMAGE = PRODUCT. Triangle (rule of construction vs a     |
+|      determinate drawn figure) | five ("a METHOD of representing a         |
+|      multitude in one image") | dog (a four-footed animal IN GENERAL).     |
+|      >>> "The schema is a mental picture resembling both" LOSES the        |
+|          section.                                                          |
+|    FOUR ASPECTS "SCOR-S": time-SERIES -> NUMBER | time-CONTENT -> DEGREE | |
+|      time-ORDER -> permanence, succession by rule, coexistence by rule |   |
+|      time-SUM-TOTAL -> at some / at a determinate / at all times           |
+|    P4: no schema, no sense for objects -> the unschematised category is    |
+|      THINKABLE (negative noumenon) but NOT KNOWABLE                        |
+|    OBJECTIONS: heterogeneity reappears | HEGEL on artificial division and  |
+|      artificial rejoining (the deepest) | redundancy (Warren, Paton) -     |
+|      answered FUNCTIONALLY, since the Analogies ARE the Relation schemata  |
+|    CONCESSION: "an art concealed in the depths of the human soul"          |
+|      (A141/B180-1)                                                         |
+|                                                                           |
+|  ANALOGIES OF EXPERIENCE (A176-218 / B218-265)                             |
+|    GENERAL PRINCIPLE (B218): experience is possible only through the       |
+|      representation of a NECESSARY CONNECTION of perceptions. REGULATIVE   |
+|      for intuition, CONSTITUTIVE for experience.                           |
+|    MASTER PREMISE (A176/B219, A183/B226): TIME ITSELF CANNOT BE PERCEIVED. |
+|      Three modes of time -> three proxies -> exactly three Analogies.      |
+|    FIRST - DURATION: SUBSTANCE PERSISTS; change is the ALTERATION          |
+|      (Veranderung) of STATES, not the perishing of substance; "its quantum |
+|      in nature is neither increased nor diminished" (B224). Defeats Hume   |
+|      WITHOUT contradicting him: substance is a CONDITION, not a content,   |
+|      so "show me the impression" is the WRONG DEMAND. OBJECTION: it may    |
+|      prove only RELATIVE persistence, and the conservation clause looks    |
+|      Newtonian.                                                            |
+|    SECOND - SUCCESSION: HOUSE reversible (I choose the order) vs SHIP      |
+|      irreversible (I cannot). Apprehension is successive in BOTH, so the   |
+|      difference lies in the NECESSITY of the order, which requires a RULE: |
+|      "everything that happens presupposes something upon which it follows  |
+|      ACCORDING TO A RULE" (A189).                                          |
+|    THIRD - SIMULTANEITY: thoroughgoing RECIPROCITY, commercium (B256).     |
+|      The least examined and the best evidence of COMPLETENESS.             |
+|                                                                           |
+|  THE ADJUDICATION ON HUME  [PYQ 2024 Q1b]                                  |
+|    HUME -> KANT: constant conjunction + custom -> an A PRIORI CATEGORY;    |
+|      psychological necessity -> a synthetic a priori PRINCIPLE;            |
+|      unjustifiable induction -> a CONSTITUTIVE condition; habit -> science |
+|    WON: the ENTITLEMENT to the concept of cause.                           |
+|    NOT WON: knowledge of PARTICULAR causal connections - and Kant never    |
+|      claimed it, since particular laws remain empirical.                   |
+|    OBJECTION: STRAWSON's "non-sequitur of numbing grossness" - the order of|
+|      apprehension being determined does not yield causal necessitation in  |
+|      nature. GUYER: at most SOME rule. ALLISON: the conditions under which |
+|      a succession can be JUDGED objective.                                 |
+|    RESTRICTION: appearances only - so the same argument forbids inferring  |
+|      a first cause.                                                        |
++---------------------------------------------------------------------------+
+        |
+        v
++--------- REFUTATION OF IDEALISM AND THE PHENOMENA/NOUMENA BOUNDARY -------+
+|  REFUTATION OF IDEALISM (B274-9) - SECOND EDITION ONLY, 1787               |
+|    TRIGGER: the 1781 Garve-Feder review called the Critique Berkeleyan.    |
+|      Kant answers twice, and complains that it remains "A SCANDAL OF       |
+|      PHILOSOPHY" that the existence of things outside us must be accepted  |
+|      on faith (Bxxxix n. - a FOOTNOTE IN THE PREFACE, not in the proof).   |
+|    TAXONOMY (B274): PROBLEMATIC idealism = DESCARTES (doubtful and         |
+|      indemonstrable; Kant calls it rational and philosophically            |
+|      respectable) | DOGMATIC idealism = BERKELEY (matter impossible)       |
+|      DIVISION OF LABOUR: BERKELEY is answered by the AESTHETIC; DESCARTES  |
+|      by the REFUTATION.                                                    |
+|    THESIS (B275): the mere but EMPIRICALLY DETERMINED consciousness of my  |
+|      own existence proves the existence of objects in space outside me.    |
+|    PROOF: determinate inner time-order -> requires something PERSISTENT    |
+|      (First Analogy) -> the persistent CANNOT be inner, since the flux     |
+|      cannot measure itself [P3 DOES ALL THE WORK] -> therefore outside me  |
+|      in space -> outer experience is a CONDITION of inner experience, not  |
+|      an inference from it. COROLLARY (B278-9): inner experience in general |
+|      is possible only through outer experience in general.                 |
+|    OBJECTIONS: Strawson and Guyer - at most I must REPRESENT a persistent |
+|      | the Preface footnote revision | only EMPIRICALLY external objects,  |
+|      which Kant ACCEPTS as the doctrine.                                   |
+|    COMPARISON: MOORE blocks the sceptic's question; KANT turns it.         |
+|                                                                           |
+|  PHENOMENA AND NOUMENA  [PYQ 2020 Q3c, second limb; 2025 Q1e is Topic 05]  |
+|    APPEARANCE (Erscheinung) is NOT ILLUSION (Schein) - illusion is         |
+|      distinguished WITHIN appearances by empirical criteria.               |
+|    THING IN ITSELF (Ding an sich) = the object considered apart from our   |
+|      sensible conditions.                                                  |
+|    NEGATIVE NOUMENON = a LIMITING CONCEPT (Grenzbegriff). LEGITIMATE.      |
+|    POSITIVE NOUMENON = an object of INTELLECTUAL INTUITION, which we lack. |
+|      PROBLEMATIC, not cognised.                                            |
+|    THINKABLE BUT NOT KNOWABLE - thinking needs only the logical function.  |
+|    TWO-WORLD vs TWO-ASPECT: state the SHARED LIMIT first, then choose.     |
+|    AFFECTION PROBLEM - JACOBI: "without the assumption of things in        |
+|      themselves I cannot enter the system; with it I cannot remain." A     |
+|      GENUINE tension. NEVER assert noumenal causation as Kant's doctrine - |
+|      that is the single most common Kant error in scripts.                 |
+|    HEGEL: the in-itself is an EMPTY ABSTRACTION from a FIXED opposition.   |
+|      ADJUDICATION: his objection SUCCEEDS against a KNOWLEDGE-CLAIM        |
+|      reading and FAILS against the LIMITING-CONCEPT reading.               |
++---------------------------------------------------------------------------+
+        |
+        v
++-------------- TRANSCENDENTAL DIALECTIC - THE THREE COLLAPSES -------------+
+|  TRANSCENDENTAL ILLUSION is NATURAL and UNAVOIDABLE, unlike logical        |
+|    illusion which vanishes on exposure. Criticism prevents DECEPTION, not  |
+|    the APPEARANCE - as the moon still looks larger on the horizon.         |
+|  REASON'S PRINCIPLE: if the conditioned is given, the whole series of      |
+|    conditions - the UNCONDITIONED - is also given. The ambiguity in "is    |
+|    given" generates the entire Dialectic.                                  |
+|  THREE IDEAS FROM THREE RELATIONS - not an arbitrary list                  |
+|    CATEGORICAL -> SOUL  -> rational psychology -> PARALOGISMS              |
+|    HYPOTHETICAL -> WORLD -> rational cosmology -> ANTINOMIES               |
+|    DISJUNCTIVE -> GOD   -> rational theology  -> IDEAL + FAILED PROOFS     |
+|  REGULATIVE (maxims of systematic enquiry - legitimate) vs CONSTITUTIVE    |
+|    (claims about existing objects - illegitimate). The Ideas are perfectly |
+|    good INSTRUCTIONS and perfectly bad OBJECTS.                            |
+|                                                                           |
+|  PARALOGISMS - substantiality | simplicity | personality | ideality        |
+|    FALLACY = EQUIVOCATION on the middle term, between the "I" as LOGICAL   |
+|      SUBJECT OF THOUGHT and the "I" as a REAL OBJECT. The "I think" is the |
+|      VEHICLE of all concepts, and the vehicle cannot be one of the items   |
+|      carried. NOTE: the FOURTH Paralogism in its original form is A-ONLY.  |
+|    WHAT SURVIVES: the UNITY of apperception; what fails is the INFERENCE   |
+|      to a knowable soul. I know myself only as I APPEAR to myself.         |
+|                                                                           |
+|  IDEAL OF PURE REASON - complete determination -> the SUM-TOTAL of all     |
+|    possible predicates -> the MOST REAL BEING (ens realissimum) ->         |
+|    HYPOSTATIZED. This is WHY all three God-proofs converge on the same     |
+|    being, and therefore why ONE refutation can kill all three.             |
+|                                                                           |
+|  ANTINOMIES  [PYQ 2020 Q3c and 2022 Q3a]                                   |
+|    WHEN: pure reason enters antinomy when its legitimate search for        |
+|      conditions demands an absolutely unconditioned, COMPLETED world-series|
+|      and treats that totality AS AN OBJECT IN ITSELF.                      |
+|    2020 RULING: they culminate TRANSCENDENTAL REALISM ABOUT APPEARANCES -  |
+|      the phenomena/noumena distinction is the CURE, not the disease.       |
+|    CONSTRUCTION: one cosmological Idea per category-group | BOTH sides     |
+|      proved by REDUCTIO at full force | both share the premise that the    |
+|      world is a GIVEN WHOLE | the conflict is NECESSARY, not careless.     |
+|      "Thesis"/"Antithesis" are KANT'S OWN printed headings.                |
+|    1 beginning + limits    vs  no beginning, infinite     MATHEMATICAL     |
+|    2 simple parts          vs  nothing simple             MATHEMATICAL     |
+|    3 freedom + nature      vs  nature alone               DYNAMICAL        |
+|    4 a necessary being     vs  no necessary being         DYNAMICAL        |
+|    MATHEMATICAL (homogeneous series) -> BOTH FALSE; the world-whole is not |
+|      an object; the regress is INDEFINITE.                                 |
+|    DYNAMICAL (heterogeneous series) -> BOTH MAY BE TRUE at different       |
+|      standpoints. THIRD: the antithesis holds of appearances; the thesis   |
+|      is THINKABLE of the same agent as noumenon - ROOM, NOT PROOF. FOURTH: |
+|      no necessary being IN the series; an intelligible ground is neither   |
+|      contradicted nor proved.                                              |
+|    SIGNIFICANCE: supersensible metaphysics is not a science | the critical |
+|      turn is motivated | they are the INDIRECT PROOF of transcendental     |
+|      idealism. LIMIT: the proof needs there to be NO THIRD DIAGNOSIS, and  |
+|      HEGEL supplies one - contradiction as PRODUCTIVE.                     |
++---------------------------------------------------------------------------+
+        |
+        v
++--------- CRITIQUE OF THE PROOFS FOR THE EXISTENCE OF GOD -----------------+
+|  FRAMEWORK: God (the ens realissimum) lies BEYOND possible experience, and |
+|  the categories have objective use only through their schemata. There are  |
+|  ONLY THREE speculative routes - and that exhaustiveness claim is itself   |
+|  an argument, because it licenses one refutation to close the field.       |
+|                                                                           |
+|  1 ONTOLOGICAL  [PYQ 2021 Q2c, 2024 Q2c]                                   |
+|    ARGUMENT: God = most perfect being; existence is a perfection; a being  |
+|      lacking existence would not be most perfect; therefore God exists.    |
+|    REFUTATION: "BEING IS NOT A REAL PREDICATE" (A598/B626). REAL means     |
+|      CONTENT-ADDING (Bestimmung, from res) - NOT "concerning a real        |
+|      thing". Existence POSITS the object; it does not DETERMINE the        |
+|      concept. "A hundred real thalers do not contain the least coin more   |
+|      than a hundred possible thalers" - what differs is my financial       |
+|      position, not my concept.                                             |
+|    COROLLARY: "God does not exist" is not self-contradictory - reject      |
+|      subject AND predicate together and nothing remains to contradict.     |
+|  2 COSMOLOGICAL                                                            |
+|    BLOW 1: it misapplies CAUSALITY beyond experience - the totality of     |
+|      existents is not an event in time, so the schema has no purchase.     |
+|    BLOW 2 (decisive): identifying the necessary being with the MOST REAL   |
+|      BEING is the ontological argument in disguise. A "NEST OF DIALECTICAL |
+|      ASSUMPTIONS".                                                         |
+|  3 PHYSICO-THEOLOGICAL                                                     |
+|    KANT'S RESPECT: the oldest, clearest and most in conformity with common |
+|      human reason - say so.                                                |
+|    CEILING: an ARCHITECT ordering pre-existing material, not a CREATOR; a  |
+|      finite effect licenses only a proportionate cause.                    |
+|    BORROWING: needs an infinite cause -> cosmological -> ontological.      |
+|                                                                           |
+|  DEPENDENCY CHAIN: DESIGN -> COSMOLOGICAL -> ONTOLOGICAL -> FAILS ->       |
+|    ALL THREE FALL TOGETHER. One refutation, three casualties.              |
+|                                                                           |
+|  POSITIVE RESIDUE, BOUNDED: theoretical AGNOSTICISM, never atheism |       |
+|    practical reason POSTULATES God (with freedom and immortality) as a     |
+|    condition of the highest good | "I had to deny knowledge in order to    |
+|    make room for faith" (Bxxx; Glaube = faith in Kemp Smith, belief in     |
+|    Guyer-Wood) | THEN STOP.                                                |
+|  ASSESSMENT for "critically examine": DEVASTATING against Descartes and    |
+|    Anselm | CONTESTED against MODAL versions (Malcolm, Plantinga) |        |
+|    VINDICATED by the later formalisation of existence in the EXISTENTIAL   |
+|    QUANTIFIER.                                                             |
++---------------------------------------------------------------------------+
+        |
+        v
+COMPARISON - ONE AXIS GENERATES EVERY ROW: WHERE DOES NECESSITY COME FROM?
+   AXIS                RATIONALISM        HUME             KANT
+   source of knowledge reason/innate      experience        BOTH: forms +
+                       structure          supplies content  content
+   causality           a necessary truth  habit/custom      AN A PRIORI
+                                                            CATEGORY
+   synthetic a priori  asserted beyond    excluded by the   EXPLAINED via
+                       secure limits      fork              conditions
+   metaphysics         possible and       impossible        not a SCIENCE of
+                       necessary                            noumena; possible
+                                                            as a CRITIQUE
+   God                 provable           unknowable        thinkable, not
+                                                            knowable;
+                                                            postulate
+   things in           knowable by        not raised        UNKNOWABLE
+   themselves          reason
+   self                substance          bundle            APPERCEPTION - a
+                                                            condition, not a
+                                                            substance
+        |
+        v
+CRITICISM -> REPLY -> RESIDUAL LEDGER
+   HEGEL on the empty in-itself -> it is a BOUNDARY, not knowledge of a
+     hidden object -> RESIDUAL: can a boundary be drawn without standing on
+     both sides of it?
+   WHY EXACTLY TWELVE -> the table of judgements is claimed exhaustive ->
+     RESIDUAL: detach STRATEGY from INVENTORY and the Deduction stands
+   THE BERKELEY CHARGE (Garve, Feder) -> Berkeley DENIES external objects,
+     Kant AFFIRMS them; B274 is the explicit answer -> RESIDUAL: none serious
+   JACOBI'S AFFECTION PROBLEM -> Kant speaks of what AFFECTS sensibility ->
+     RESIDUAL: a GENUINE tension
+   TWO-WORLD DUALISM -> one world under two ASPECTS -> RESIDUAL: the textual
+     dispute is live
+   SCHEME AND CONTENT -> sensible content is already spatio-temporal ->
+     RESIDUAL: the language of a "given" manifold still invites the dualism
+        |
+        v
+PYQ ROUTES, 2018-2025 - TEN OWNED PARTS; 2025 IS THE ONLY EMPTY YEAR
+   2018 Q2(b) 15m  "Understanding makes Nature" + Hegel's Absolutism
+       ROUTE: dictum FORMALLY considered -> three-line argument -> four
+       denials -> Hegel accepts/radicalises/rejects -> RULING: culmination in
+       one sense, ATTEMPTED OVERCOMING in another
+   2019 Q4(a) 20m  "transcendence" of space and time
+       ROUTE: wording caution -> metaphysical exposition sorted 1-2 / 3-4 ->
+       transcendental exposition -> Newton and Leibniz -> ideality WITH
+       reality -> non-Euclidean qualification
+   2020 Q3(c) 15m  when reason enters antinomy; natural culmination?
+       ROUTE: trigger -> double reductio -> RULING: NO, it culminates
+       TRANSCENDENTAL REALISM ABOUT APPEARANCES -> two reasons
+   2021 Q2(c) 15m  Cartesian ontological argument criticised
+       ROUTE: Descartes' version -> "real predicate" glossed -> thalers ->
+       contradiction corollary -> non-provability, not non-existence
+   2022 Q1(e) 10m  apperception with the transcendental exposition
+       ROUTE: B131-2 modal definition -> three negations -> architecture ->
+       the caution that the exposition does not deduce apperception
+   2022 Q3(a) 20m  construction and examination of the antinomies
+       ROUTE: illusion -> four construction features -> four pairs ->
+       classification -> BOTH FALSE / BOTH MAY BE TRUE -> indirect proof and
+       its limit
+   2023 Q1(a) 10m  "Precepts without concepts are blind..."
+       ROUTE: four-step wording protocol -> both halves -> two stems -> not
+       50:50 -> anti-metaphysical restriction
+   2023 Q1(e) 10m  arguments that a priori synthetic judgements are possible
+       ROUTE: arithmetic / geometry / fundamental science, each with WHY
+       SYNTHETIC and WHY A PRIORI -> the Copernican explanation
+   2024 Q1(b) 10m  response to Hume's scepticism on a priori judgments
+       ROUTE: the fork -> Kant's CONCESSION -> the fork is not exhaustive ->
+       Second Analogy mechanism -> entitlement vs particular laws
+   2024 Q2(c) 15m  critically examine the objections to the ontological
+       argument
+       ROUTE: three objections -> ASSESSMENT: devastating, contested against
+       modal versions, vindicated by the quantifier
+   NAMED BUT OWNED ELSEWHERE: 2018 Q2(c) and the Quine parts (Topic 11) |
+     2020 Q2(a) and 2025 Q2(c) (Topic 03) | 2025 Q1(e) (Topic 05). In each
+     case the OWNER'S argument must be complete BEFORE Kant's reply.
+        |
+        v
+ANSWER SPINES BY MARK-WEIGHT
+   10 MARKS  transcendental question -> the doctrine in three or four
+     numbered moves with A/B references -> the restriction to appearances ->
+     one verdict line
+   15 MARKS  add ONE named objection with reply and residual, and a graded
+     verdict from the verdict bank
+   20 MARKS  add the classification or the comparison limb, the assessment,
+     and the qualified conclusion
+   DIRECTIVES: "how is X possible" -> the transcendental form | "critically
+     examine" -> assessment dominates | "how far do you agree" -> a RULING
+     WITH A DISTINCTION | "give reasons" -> two independent grounds
+        |
+        v
+PROVENANCE AND CITATION RULES
+   Cite by A/B PAGINATION - translation-invariant.
+   B-ONLY: the Refutation of Idealism B274-9; the B-Deduction B129-69.
+   A-ONLY: the original Fourth Paralogism.
+   Glaube = "faith" (Kemp Smith) / "belief" (Guyer-Wood) - say which.
+   "Real predicate" = CONTENT-ADDING; gloss it or the sentence misleads.
+   "Copernican revolution" is the COMMENTATORS' label, not Kant's.
+   unterbrach = INTERRUPTED, and the sentence is in the PROLEGOMENA (1783).
+   "Thesis"/"Antithesis" ARE Kant's own printed headings in the Antinomy.
+   NEVER write that Kant "proved space and time do not exist", or that the
+   noumenon is "a thing behind appearances that causes them".
+        |
+        v
+TEN-LINE TRAP SHEET
+   1  transcendental (conditions) is NOT transcendent (beyond experience)
+   2  "a priori" is NOT "analytic" - warrant versus meaning
+   3  the Copernican analogy is about the DIRECTION OF EXPLANATION
+   4  quote transcendental ideality WITH empirical reality, always
+   5  metaphysical deduction IDENTIFIES; transcendental deduction JUSTIFIES
+   6  apperception is a FUNCTION - keep the modal "must be ABLE to"
+   7  "Understanding makes Nature" = FORM, not matter; UNIVERSAL law, not
+      particular laws
+   8  schema = RULE; image = PRODUCT
+   9  antinomies: MATHEMATICAL both false, DYNAMICAL both may be true;
+      freedom is ROOM, not PROOF
+  10  Kant is theoretically AGNOSTIC, never atheistic - and Kantian ETHICS is
+      outside this printed clause
+        |
+        v
+QUALIFIED CONCLUSION
+Kant's critical philosophy is one argument with two faces. The demonstration
+that secures mathematics and the fundamental principles of natural science as
+SYNTHETIC A PRIORI cognition is the same demonstration that forbids
+theoretical knowledge of soul, world-totality and God, because the forms that
+make necessity possible reach only what can APPEAR to us. Its permanent
+achievements are the relocation of necessity from objects and habits to the
+CONDITIONS OF OBJECTHOOD-FOR-US, and the demonstration that objectivity is
+RULE-GOVERNED TIME-DETERMINATION. Its permanent costs are equally clear: the
+completeness of the table of categories is inherited rather than proved; the
+affection of sensibility by things in themselves cannot be described in the
+terms the system allows; and the boundary between appearance and reality can
+be STATED more securely than it can be EXPLAINED - which is why Hegel could
+plausibly claim that Kant's greatest insight was betrayed by Kant's own
 limits.
-                              |
-                              v
-versus infinite
-in time /
-space.
-                              |
-                              v
-SECOND:
-composites consist
-of simples.
-                              |
-                              v
-versus no simples.
-                              |
-                              v
-THIRD:
-freedom causality.
-                              |
-                              v
-versus natural
-causality only.
-                              |
-                              v
-FOURTH:
-necessary being
-exists.
-                              |
-                              v
-versus none exists.
-                              |
-                              v
-MATHEMATICAL:
-first /
-second.
-                              |
-                              v
-both sides false:
-world-whole not
-legitimate object.
-                              |
-                              v
-DYNAMICAL:
-third /
-fourth.
-                              |
-                              v
-both may be
-true in
-different respects.
-                              |
-                              v
-phenomenal causality.
-                              |
-                              v
-noumenal freedom /
-necessary ground
-as thinkable,
-not knowable.
-                              |
-                              v
-antinomies =
-indirect support
-for transcendental
-idealism.
-                              |
-                              v
-HEGELIAN CHALLENGE:
-contradiction may be
-productive,
-not mere pathology.
-                              |
-                              v
-              BRANCH XVIII: GOD-PROOF CRITIQUE
-ONTOLOGICAL.
-                              |
-                              v
-God defined as
-most perfect.
-                              |
-                              v
-existence treated
-as perfection.
-                              |
-                              v
-KANT:
-being /
-existence is not
-real predicate,
-A598/B626.
-                              |
-                              v
-existence adds no
-conceptual content.
-                              |
-                              v
-hundred real /
-possible thalers
-same concept.
-                              |
-                              v
-cannot define
-entity into existence.
-                              |
-                              v
-COSMOLOGICAL.
-                              |
-                              v
-contingent world
-to necessary being.
-                              |
-                              v
-identifying necessary
-being with
-most real being
-depends on
-ontological step.
-                              |
-                              v
-PHYSICO-THEOLOGICAL /
-DESIGN.
-                              |
-                              v
-order may support
-architect,
-not infinite
-necessary creator.
-                              |
-                              v
-ultimately depends
-on cosmological /
-ontological move.
-                              |
-                              v
-one core refutation
-undermines all three.
-                              |
-                              v
-              BRANCH XIX: PRACTICAL POSTULATES
-theoretical reason
-cannot prove God.
-                              |
-                              v
-does not disprove
-God.
-                              |
-                              v
-moral reason
-postulates:
-freedom.
-                              |
-                              v
-immortality.
-                              |
-                              v
-God.
-                              |
-                              v
-conditions of
-highest good /
-moral life.
-                              |
-                              v
-"deny knowledge
-to make room
-for belief /
-faith"
-Bxxx,
-translation differs.
-                              |
-                              v
-God relocated
-from theoretical
-object to
-practical postulate.
-                              |
-                              v
-not scientific
-knowledge.
-                              |
-                              v
-              BRANCH XX: KANT / RATIONALISM / EMPIRICISM
-RATIONALISM provides:
-a priori necessity /
-conceptual structure.
-                              |
-                              v
-problem:
-dogmatic metaphysics /
-empty concepts.
-                              |
-                              v
-EMPIRICISM provides:
-sensory content /
-critical restraint.
-                              |
-                              v
-problem:
-no necessity /
-unity /
-causal warrant.
-                              |
-                              v
-KANTIAN SYNTHESIS:
-intuitions supply
-content.
-                              |
-                              v
-concepts organise
-content.
-                              |
-                              v
-knowledge begins
-with experience.
-                              |
-                              v
-not all knowledge
-arises from
-experience.
-                              |
-                              v
-phenomenal objectivity
-secured.
-                              |
-                              v
-noumenal knowledge
-denied.
-                              |
-                              v
-              BRANCH XXI: KANT / HEGEL
-Kant retains:
-phenomenon /
-noumenon.
-                              |
-                              v
-finite categories.
-                              |
-                              v
-limits on
-theoretical reason.
-                              |
-                              v
-Hegel's challenge:
-unknowable limit
-is internally
-unstable.
-                              |
-                              v
-to know noumenon
-as unknowable
-already relates
-thought to it.
-                              |
-                              v
-contradiction should
-be developed /
-sublated,
-not fixed.
-                              |
-                              v
-KANTIAN REPLY:
-noumenon is
-limiting concept,
-not positive
-knowledge claim.
-                              |
-                              v
-VERDICT:
-Hegel exposes
-tension if noumenon
-is reified;
-less decisive if
-read merely
-negatively.
-                              |
-                              v
-              BRANCH XXII: OBJECTION / REPLY
-OBJECTION:
-synthetic a priori
-examples refuted
-by modern science.
-                              |
-                              v
-REPLY:
-specific geometry /
-physics examples
-may fail;
-transcendental question
-about presuppositions
-survives.
-                              |
-                              v
-OBJECTION:
-categories table
-arbitrary.
-                              |
-                              v
-REPLY:
-Deduction strategy
-can survive with
-revised inventory.
-                              |
-                              v
-OBJECTION:
-schematism obscure.
-                              |
-                              v
-REPLY:
-functional necessity:
-without time-rule
-category cannot
-apply to intuition.
-                              |
-                              v
-OBJECTION:
-Kant only relocates
-Hume's causation.
-                              |
-                              v
-REPLY:
-he establishes
-objective time-order
-condition,
-not psychological
-expectation.
-                              |
-                              v
-OBJECTION:
-thing in itself
-causes appearance.
-                              |
-                              v
-REPLY:
-Kant cannot
-legitimately apply
-causality beyond
-experience;
-noumenon is boundary.
-                              |
-                              v
-              BRANCH XXIII: SOURCE / TEXT DISCIPLINE
-Critique A 1781 /
-B 1787.
-                              |
-                              v
-use A/B references.
-                              |
-                              v
-Refutation of
-Idealism B-only.
-                              |
-                              v
-second-edition
-Deduction B-only.
-                              |
-                              v
-original Fourth
-Paralogism A-only.
-                              |
-                              v
-"thoughts /
-intuitions"
-A51/B75
-safe standard
-rendering.
-                              |
-                              v
-"precepts" belongs
-to official PYQ
-misprint,
-not doctrine.
-                              |
-                              v
-Hume interrupted
-dogmatic slumber
-is Prolegomena,
-not Critique;
-popular "awoke"
-is loose rendering.
-                              |
-                              v
-              THINKER / TEXT / TERM BANK
-synthetic a priori.
-                              |
-                              v
-Copernican turn.
-                              |
-                              v
-transcendental
-aesthetic /
-analytic /
-dialectic.
-                              |
-                              v
-space /
-time.
-                              |
-                              v
-categories /
-deduction /
-apperception.
-                              |
-                              v
-schema /
-Analogies.
-                              |
-                              v
-phenomenon /
-noumenon.
-                              |
-                              v
-regulative /
-constitutive.
-                              |
-                              v
-paralogism /
-antinomy.
-                              |
-                              v
-existence not
-real predicate.
-                              |
-                              v
-              HIGH-RISK OPTIONAL TRAPS
-analytic !=
-a priori synonym;
-synthetic !=
-a posteriori synonym;
-Copernican label !=
-Kant's phrase;
-mind constitutes
-appearance !=
-creates thing;
-space /
-time ideal !=
-unreal;
-intuition !=
-concept;
-category !=
-innate image;
-apperception !=
-empirical self;
-schema !=
-image;
-causality category !=
-particular causal law;
-Refutation !=
-thing-in-itself proof;
-phenomenon !=
-illusion;
-noumenon !=
-known hidden cause;
-Idea of reason !=
-object of knowledge;
-antinomy !=
-simple logical mistake;
-mathematical /
-dynamical resolutions !=
-same;
-God unprovable !=
-God disproved;
-existence not predicate !=
-existence meaningless.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT VERIFIED
-2018-2025:
-10 primary-owned
-question-parts;
-2025 only year
-without Kant-owned
-part.
-                              |
-                              v
-2018 Q2(b):
-"Understanding makes
-Nature" and whether
-Hegelian Absolutism
-culminates Kantian
-dualism.
-[15]
-                              |
-                              v
-2019 Q4(a):
-transcendence /
-transcendental status
-of space and time.
-[20]
-                              |
-                              v
-2020 Q3(c):
-pure reason /
-antinomies /
-phenomena-noumena.
-[15]
-                              |
-                              v
-2021 Q2(c):
-Kant's critique of
-Cartesian ontological
-argument.
-[15]
-                              |
-                              v
-2022 Q1(e):
-apperception with
-transcendental exposition
-of space /
-time.
-[10]
-                              |
-                              v
-2022 Q3(a):
-construction /
-examination of
-four antinomies.
-[20]
-                              |
-                              v
-2023 Q1(a):
-official "precepts"
-misprint question
-on rationalism-
-empiricism reconciliation.
-[10]
-                              |
-                              v
-2023 Q1(e):
-arguments for
-synthetic a priori
-judgments.
-[10]
-                              |
-                              v
-2024 Q1(b):
-Kant's response to
-Humean scepticism
-about a priori
-judgments.
-[10]
-                              |
-                              v
-2024 Q2(c):
-Kant's objections
-to ontological proof.
-[15]
-                              |
-                              v
-STATUS:
-exact wording /
-marks verified from
-local official
-Paper I corpus.
-                              |
-                              v
-OFFICIAL-KEY STATUS:
-UPSC Philosophy
-Mains provides no
-official answer key /
-model answer.
-                              |
-                              v
-                REVISION CHAIN
-analytic /
-synthetic
--> a priori /
-a posteriori
--> synthetic a priori
--> Copernican turn
--> space /
-time
--> categories
--> deduction
--> apperception
--> schema
--> Analogies
--> Hume response
--> Refutation
--> phenomena /
-noumena
--> Ideas /
-paralogisms
--> antinomies
--> God proofs /
-postulates.
-                              |
-                              v
-             OPTIONAL-PAPER ANSWER SPINE
-IDENTIFY
-Critique section /
-A-B reference.
-                              |
-                              v
-STATE
-problem in
-question form.
-                              |
-                              v
-RECONSTRUCT
-transcendental argument:
-given F /
-F requires C /
-therefore C.
-                              |
-                              v
-DISTINGUISH
-faculties /
-domains /
-uses.
-                              |
-                              v
-EXPLAIN
-system role.
-                              |
-                              v
-PRESENT
-strong objection.
-                              |
-                              v
-OFFER
-Kantian reply /
-residual.
-                              |
-                              v
-OBSERVE
-edition /
-translation /
-PYQ wording
-caution.
-                              |
-                              v
-CONCLUDE
-with scope-limited
-verdict.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-Kant's critical philosophy secures the objectivity of possible experience by locating
-its necessary form in the knowing subject rather than in speculative access to things
-in themselves. This rescues mathematics, causation and unified experience from Humean
-scepticism while limiting knowledge to phenomena. The price is a difficult architecture
-of categories, schemata and the noumenal boundary. Its lasting achievement is not a
-catalogue of unrevisable truths but the transcendental question of what experience and
-objective judgment necessarily presuppose.
+        |
+        v
+FIFTEEN-SECOND MEMORY CHAIN
+SYNTHETIC A PRIORI -> COPERNICAN STANDPOINT -> SPACE AND TIME AS FORMS ->
+TWELVE CATEGORIES -> DEDUCTION VIA APPERCEPTION -> SCHEMATISM AS TIME-
+DETERMINATION -> ANALOGIES (SUBSTANCE, CAUSE, COMMUNITY) -> REFUTATION OF
+IDEALISM -> PHENOMENA / NOUMENA -> IDEAS OF REASON -> PARALOGISMS ->
+ANTINOMIES -> GOD-PROOFS -> POSTULATES
 ```

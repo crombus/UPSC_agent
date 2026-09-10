@@ -1,1017 +1,204 @@
-# Economy 06 - NPAs, Basel Norms, Resolution and Financial Inclusion
+# Economy Topic 6 - Non-Performing Assets (NPAs), Basel Norms, Resolution and Financial Inclusion
 
-## Quick-Glance Tree Chart
+**Current-source cutoff: 9 September 2026**
 
 ```text
-NPAs, BASEL NORMS, RESOLUTION AND FINANCIAL INCLUSION
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Sound credit requires early stress recognition, realistic provisioning,
-risk-sensitive capital, collective resolution and governance reform. Losses do
-not disappear when an asset is restructured, written off or transferred.
-Financial inclusion completes the framework only when access becomes safe,
-affordable and useful usage rather than a count of dormant accounts.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-NPA classification;
-GNPA /
-NNPA;
-provision /
-write-off /
-waiver;
-Basel capital;
-CRAR;
-Twin Balance Sheet;
-AQR /
-PCA /
-4R;
-SARFAESI /
-DRT /
-IBC /
-ARC /
-NARCL /
-ICA;
-FI-Index /
-PMJDY /
-SHG linkage.
-                              |
-                              v
-BANK TYPES:
-Topic 05.
-IBC DETAIL:
-insolvency owner.
-FISCAL RECAPITALISATION:
-Topic 09.
-                              |
-                              v
-                BRANCH I: STRESS CHAIN
-WEAK
-PROJECT /
-BORROWER
-CASH FLOW.
-                              |
-                              v
-DEBT-SERVICE
-FAILURE.
-                              |
-                              v
-OVERDUE
-INTEREST /
-PRINCIPAL.
-                              |
-                              v
-NPA
-RECOGNITION.
-                              |
-                              v
-INCOME
-REVERSAL /
-PROVISIONING.
-                              |
-                              v
-PROFIT /
-CAPITAL
-PRESSURE.
-                              |
-                              v
-LOWER
-FRESH LENDING.
-                              |
-                              v
-RECOVERY /
-RESOLUTION /
-TRANSFER.
-                              |
-                              v
-CLEANER
-BALANCE SHEET.
-                              |
-                              v
-                BRANCH II: NPA
-NON-PERFORMING
-ASSET.
-                              |
-                              v
-TERM LOAN:
-interest /
-principal
-overdue
-more than 90 days
-as standard test.
-                              |
-                              v
-OTHER FACILITIES
-have product-specific
-tests.
-                              |
-                              v
-ASSET
-CLASSIFICATION
-is prudential,
-not moral label.
-                              |
-                              v
-RESTRUCTURED
-!= fraud.
-                              |
-                              v
-                BRANCH III: GNPA / NNPA
-GROSS NPA
-total recognised
-non-performing exposure.
-                              |
-                              v
-PROVISIONS
-absorb expected loss.
-                              |
-                              v
-NET NPA
-unprovided residual
-relative to net advances
-under prescribed formula.
-                              |
-                              v
-NNPA
-lower than GNPA
-when provisions exist.
-                              |
-                              v
-FALLING RATIO
-may reflect
-recoveries,
-write-offs,
-credit growth
-or denominator effect.
-                              |
-                              v
-RATIO
-needs numerator /
-denominator diagnosis.
-                              |
-                              v
-                BRANCH IV: PROVISION / WRITE-OFF / WAIVER
-PROVISION
-charge against income
-for expected loss.
-                              |
-                              v
-WRITE-OFF
-removes asset
-from active books.
-                              |
-                              v
-RECOVERY RIGHT
-may continue
-after write-off.
-                              |
-                              v
-WAIVER
-legally relinquishes
-borrower liability.
-                              |
-                              v
-RESTRUCTURING
-changes terms
-to restore viability.
-                              |
-                              v
-EVERGREENING
-conceals stress
-through fresh accommodation.
-                              |
-                              v
-FORBEARANCE
-temporary regulatory relief,
-not permanent concealment.
-                              |
-                              v
-                BRANCH V: TWIN BALANCE SHEET
-CORPORATE
-OVER-LEVERAGE.
-                              |
-                              v
-WEAK
-INTEREST COVERAGE.
-                              |
-                              v
-PROJECT
-STALLING.
-                              |
-                              v
-BANK
-NPAs.
-                              |
-                              v
-CAPITAL
-EROSION.
-                              |
-                              v
-WEAK
-FRESH CREDIT.
-                              |
-                              v
-LOWER
-CORPORATE INVESTMENT.
-                              |
-                              v
-MUTUALLY
-REINFORCING DISTRESS.
-                              |
-                              v
-ECONOMIC SURVEY
-2016-17
-diagnostic,
-not current ratio.
-                              |
-                              v
-                BRANCH VI: INTEREST COVERAGE RATIO
-ICR =
-earnings available
-for interest /
-interest expense.
-                              |
-                              v
-ICR < 1
-suggests operating earnings
-insufficient
-for interest.
-                              |
-                              v
-BORROWER
-STRESS INDICATOR.
-                              |
-                              v
-NOT
-legal definition
-of NPA.
-                              |
-                              v
-ACCOUNTING /
-SECTOR
-differences matter.
-                              |
-                              v
-                BRANCH VII: BASEL ARCHITECTURE
-PILLAR 1
-minimum capital /
-risk.
-                              |
-                              v
-PILLAR 2
-supervisory review.
-                              |
-                              v
-PILLAR 3
-market discipline /
-disclosure.
-                              |
-                              v
-CAPITAL
-against
-risk-weighted assets.
-                              |
-                              v
-NOT
-flat ratio
-on total assets.
-                              |
-                              v
-CREDIT /
-MARKET /
-OPERATIONAL
-risk.
-                              |
-                              v
-                BRANCH VIII: BASEL / RBI RATIOS
-BASEL III
-GLOBAL MINIMUM:
-CET1 4.5 percent.
-                              |
-                              v
-TIER 1
-6 percent.
-                              |
-                              v
-TOTAL CAPITAL
-8 percent.
-                              |
-                              v
-RBI INDIA
-STANDALONE MINIMUM:
-CET1 5.5 percent.
-                              |
-                              v
-TIER 1
-7 percent.
-                              |
-                              v
-TOTAL CRAR
-9 percent.
-                              |
-                              v
-CCB
-2.5 percent
-CET1.
-                              |
-                              v
-EFFECTIVE
-CET1 8 percent /
-TOTAL 11.5 percent.
-                              |
-                              v
-LATEST SOURCE:
-RBI Master Circular
-1 April 2025.
-                              |
-                              v
-                BRANCH IX: BUFFER LOGIC
-CET1
-highest-quality
-going-concern capital.
-                              |
-                              v
-ADDITIONAL
-TIER 1.
-                              |
-                              v
-TIER 2
-gone-concern
-loss absorption.
-                              |
-                              v
-CAPITAL
-CONSERVATION BUFFER
-usable under stress
-with distribution constraints.
-                              |
-                              v
-COUNTERCYCLICAL
-BUFFER
-up to 2.5 percent.
-                              |
-                              v
-NOT ACTIVATED
-by RBI
-as of source guidance.
-                              |
-                              v
-RATIO
-must be dated.
-                              |
-                              v
-                BRANCH X: AQR / RECOGNITION
-ASSET QUALITY
-REVIEW.
-                              |
-                              v
-IDENTIFY
-under-reported stress.
-                              |
-                              v
-HARMONISE
-classification.
-                              |
-                              v
-FORCE
-provisioning.
-                              |
-                              v
-SHORT RUN:
-reported GNPA rises.
-                              |
-                              v
-LONG RUN:
-information credibility /
-repair improves.
-                              |
-                              v
-RECOGNITION
-does not create loss;
-it reveals it.
-                              |
-                              v
-                BRANCH XI: 4R / PCA
-RECOGNITION.
-                              |
-                              v
-RESOLUTION.
-                              |
-                              v
-RECAPITALISATION.
-                              |
-                              v
-REFORMS.
-                              |
-                              v
-PCA
-graduated supervisory
-restrictions /
-remedial action
-for weak banks.
-                              |
-                              v
-RECAPITALISATION
-absorbs loss /
-restores lending capacity.
-                              |
-                              v
-WITHOUT GOVERNANCE
-reform,
-moral hazard persists.
-                              |
-                              v
-                BRANCH XII: SARFAESI / DRT
-SARFAESI ACT
-2002.
-                              |
-                              v
-SECURED-ASSET
-ENFORCEMENT.
-                              |
-                              v
-OUTSIDE
-ordinary civil-suit
-route
-subject to law.
-                              |
-                              v
-DRTs
-specialised
-debt-recovery forums.
-                              |
-                              v
-RECOVERY
-FOCUS.
-                              |
-                              v
-WORK BEST
-with clear security /
-documentation.
-                              |
-                              v
-NOT
-complete insolvency system.
-                              |
-                              v
-                BRANCH XIII: IBC
-INSOLVENCY AND
-BANKRUPTCY CODE
-2016.
-                              |
-                              v
-COLLECTIVE
-PROCESS.
-                              |
-                              v
-NCLT.
-                              |
-                              v
-IBBI.
-                              |
-                              v
-INSOLVENCY
-PROFESSIONAL.
-                              |
-                              v
-COMMITTEE
-OF CREDITORS.
-                              |
-                              v
-MORATORIUM.
-                              |
-                              v
-RESOLUTION PLAN
-or liquidation.
-                              |
-                              v
-VALUE
-MAXIMISATION /
-TIME BOUND.
-                              |
-                              v
-ADMISSION
-!= resolution.
-                              |
-                              v
-HAIRCUT
-!= automatic failure;
-compare liquidation value /
-time.
-                              |
-                              v
-                BRANCH XIV: ICA
-INTER-CREDITOR
-AGREEMENT.
-                              |
-                              v
-COORDINATES
-MULTIPLE LENDERS.
-                              |
-                              v
-REDUCES
-HOLDOUT /
-FREE-RIDER
-PROBLEM.
-                              |
-                              v
-NEGOTIATED
-RESOLUTION.
-                              |
-                              v
-NOT
-COURT.
-                              |
-                              v
-NOT
-INSOLVENCY TRIBUNAL.
-                              |
-                              v
-SUCCESS
-depends on
-creditor cooperation /
-viability.
-                              |
-                              v
-                BRANCH XV: ARC / NARCL
-BANK
-TRANSFERS
-STRESSED ASSET.
-                              |
-                              v
-ARC /
-NARCL
-aggregates.
-                              |
-                              v
-SPECIALISED
-RECOVERY /
-RESTRUCTURING /
-SALE.
-                              |
-                              v
-BANK
-BALANCE SHEET
-unclogged.
-                              |
-                              v
-LOSS
-does not vanish.
-                              |
-                              v
-TRANSFER
-PRICE.
-                              |
-                              v
-SECURITY RECEIPTS /
-RECOVERY.
-                              |
-                              v
-BUYER
-INTEREST /
-ASSET VALUE
-decisive.
-                              |
-                              v
-                BRANCH XVI: RESOLUTION CHOICE
-VIABLE
-BORROWER?
-                              |
-                              v
-RESTRUCTURE.
-                              |
-                              v
-SECURED
-ENFORCEMENT?
-                              |
-                              v
-SARFAESI.
-                              |
-                              v
-DEBT
-RECOVERY?
-                              |
-                              v
-DRT.
-                              |
-                              v
-MULTI-CREDITOR
-INSOLVENCY?
-                              |
-                              v
-IBC.
-                              |
-                              v
-SPECIALISED
-TRANSFER?
-                              |
-                              v
-ARC /
-NARCL.
-                              |
-                              v
-NO
-one-size instrument.
-                              |
-                              v
-                BRANCH XVII: FINANCIAL INCLUSION
-ACCESS.
-                              |
-                              v
-USAGE.
-                              |
-                              v
-QUALITY.
-                              |
-                              v
-AFFORDABILITY.
-                              |
-                              v
-SUITABILITY.
-                              |
-                              v
-CONSUMER
-PROTECTION.
-                              |
-                              v
-GRIEVANCE
-REDRESS.
-                              |
-                              v
-FINANCIAL
-LITERACY.
-                              |
-                              v
-ACCOUNT
-OPENING
-is only first step.
-                              |
-                              v
-                BRANCH XVIII: RBI FI-INDEX
-THREE
-DIMENSIONS.
-                              |
-                              v
-ACCESS.
-                              |
-                              v
-USAGE.
-                              |
-                              v
-QUALITY.
-                              |
-                              v
-NO
-BASE YEAR.
-                              |
-                              v
-COMPOSITE
-MEASURE.
-                              |
-                              v
-NOT
-count of accounts /
-borrowers.
-                              |
-                              v
-SOURCE LINK
-requires caution
-because attempted URL
-resolved to unrelated release
-in package audit.
-                              |
-                              v
-                BRANCH XIX: DELIVERY INSTRUMENTS
-PMJDY
-transaction-account
-platform.
-                              |
-                              v
-DBT
-receipt channel.
-                              |
-                              v
-BUSINESS
-CORRESPONDENTS.
-                              |
-                              v
-SHG-BANK
-LINKAGE.
-                              |
-                              v
-GROUP
-SAVINGS /
-CREDIT.
-                              |
-                              v
-SHG
-is not bank.
-                              |
-                              v
-WATERCREDIT
-microfinance-oriented
-water /
-sanitation
-model.
-                              |
-                              v
-TARGETED CREDIT
-!= plain consumption loan.
-                              |
-                              v
-                BRANCH XX: CURRENT ASSET QUALITY
-SCHEDULED
-COMMERCIAL BANKS.
-                              |
-                              v
-GNPA
-2.2 percent.
-                              |
-                              v
-NNPA
-0.5 percent.
-                              |
-                              v
-SEPTEMBER 2025.
-                              |
-                              v
-ECONOMIC SURVEY
-2025-26.
-                              |
-                              v
-MULTI-DECADE-LOW
-asset-quality ratios
-in source.
-                              |
-                              v
-DATED
-SYSTEM AGGREGATE.
-                              |
-                              v
-DO NOT
-generalise to
-every bank /
-borrower.
-                              |
-                              v
-                BRANCH XXI: TRADE-OFFS
-EARLY
-RECOGNITION
-credibility /
-short-run ratio shock.
-                              |
-                              v
-HIGHER
-CAPITAL
-resilience /
-lending constraint.
-                              |
-                              v
-FAST
-RECOVERY
-discipline /
-enterprise-value risk.
-                              |
-                              v
-FORBEARANCE
-bridge /
-zombie risk.
-                              |
-                              v
-RECAPITALISATION
-stability /
-moral hazard.
-                              |
-                              v
-DIGITAL
-INCLUSION
-low cost /
-exclusion /
-mis-selling.
-                              |
-                              v
-                BRANCH XXII: WAY FORWARD
-EARLY
-WARNING.
-                              |
-                              v
-HONEST
-CLASSIFICATION.
-                              |
-                              v
-ADEQUATE
-PROVISIONS.
-                              |
-                              v
-RISK-BASED
-CAPITAL.
-                              |
-                              v
-TIME-BOUND
-COLLECTIVE
-RESOLUTION.
-                              |
-                              v
-SPECIALISED
-RECOVERY.
-                              |
-                              v
-GOVERNANCE
-REFORM.
-                              |
-                              v
-DEEP
-SECONDARY
-STRESSED-ASSET
-MARKET.
-                              |
-                              v
-USEFUL /
-PROTECTED
-INCLUSION.
-                              |
-                              v
-                    DATA / POLICY / EXAMPLE BANK
-GNPA /
-NNPA.
-                              |
-                              v
-Basel global:
-4.5 /
-6 /
-8.
-                              |
-                              v
-RBI:
-5.5 /
-7 /
-9
-+ 2.5 CCB.
-                              |
-                              v
-TBS /
-AQR /
-PCA /
-4R.
-                              |
-                              v
-SARFAESI /
-DRT /
-IBC /
-ICA /
-ARC /
-NARCL.
-                              |
-                              v
-PMJDY /
-FI-Index /
-SHG /
-WaterCredit.
-                              |
-                              v
-                    SOURCE CRITICISM
-NPA != fraud;
-GNPA != NNPA;
-provision != write-off;
-write-off != waiver;
-restructuring != evergreening;
-ICR != NPA definition;
-capital ratio uses RWA,
-not total assets;
-Basel floor != RBI floor;
-IBC admission != resolution;
-asset transfer != loss elimination;
-account access != inclusion outcome;
-dated system ratio != every lender.
-                              |
-                              v
-                    MAJOR DEBATES
-RECOGNITION
-OR FORBEARANCE?
-temporary bridge,
-no concealment.
-                              |
-                              v
-RECOVERY
-OR RESOLUTION?
-claim enforcement
-versus enterprise value.
-                              |
-                              v
-CAPITAL
-OR CREDIT GROWTH?
-resilience supports
-sustainable lending.
-                              |
-                              v
-BAD BANK
-OR LOSS TRANSFER?
-specialisation,
-not erasure.
-                              |
-                              v
-ACCESS
-OR QUALITY?
-both.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-term-loan NPA standard:
-over 90 days;
-write-off does not waive liability;
-Basel total floor 8 percent;
-RBI total floor 9 percent;
-effective with CCB 11.5 percent;
-ICA is not tribunal;
-SARFAESI is secured recovery;
-IBC is collective insolvency;
-SHG is not bank;
-FI-Index measures access,
-usage and quality.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-NO ROUTED MAINS DEMAND
-is manufactured.
-                              |
-                              v
-PRELIMS 2018
-capital adequacy;
-2019
-Inter-Creditor Agreement;
-2020
-Interest Coverage Ratio;
-2021
-WaterCredit;
-2023
-SHG-Bank Linkage.
-Official 2018-2023 keys
-unavailable locally.
-No option or answer letter
-is inferred.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-stress /
-90-day test
--> GNPA /
-NNPA
--> provision /
-write-off /
-waiver
--> Basel /
-RBI ratios
--> TBS /
-AQR /
-4R
--> recovery /
-IBC /
-transfer
--> FI-Index /
-inclusion.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-DEFINE
-stress /
-classification.
-                              |
-                              v
-TRACE
-balance-sheet /
-capital effect.
-                              |
-                              v
-COMPARE
-recovery,
-resolution,
-transfer.
-                              |
-                              v
-ADD
-governance /
-supervision.
-                              |
-                              v
-LINK
-clean credit
-to responsible inclusion.
-                              |
-                              v
-CONCLUDE
-recognition,
-loss absorption,
-resolution,
-reform.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-India's banking repair architecture works when losses are recognised before
-they become systemic, capital reflects risk and viable firms are resolved rather
-than merely pursued lender by lender. Cleaner balance sheets must support sound
-new credit, while inclusion must be assessed through usage, quality and
-protection. Neither accounting write-offs nor account-opening totals are
-substitutes for economic recovery.
+DECODE KEY
+|
++-- RBI = Reserve Bank of India
++-- NPA = Non-Performing Asset; IRACP = Income Recognition, Asset
+|   Classification and Provisioning
++-- CC/OD = Cash Credit/Overdraft; GNPA/NNPA = Gross/Net NPA
++-- PCR = Provisioning Coverage Ratio; ICR = Interest Coverage Ratio
++-- SCB = Scheduled Commercial Bank; SFB = Small Finance Bank
++-- RRB = Regional Rural Bank; RWA = Risk-Weighted Assets
++-- CET1/AT1 = Common Equity Tier 1/Additional Tier 1
++-- CRAR = Capital to Risk-Weighted Assets Ratio
++-- CCB/CCyB = Capital Conservation/Countercyclical Capital Buffer
++-- D-SIB = Domestic Systemically Important Bank
++-- LCR = Liquidity Coverage Ratio; HQLA = High-Quality Liquid Assets
++-- NSFR = Net Stable Funding Ratio; SMA = Special Mention Account
++-- AQR = Asset Quality Review; CRILC = Central Repository of Information
+|   on Large Credits; PCA = Prompt Corrective Action
++-- ICA = Inter-Creditor Agreement; RP = Resolution Plan
++-- SARFAESI = Securitisation and Reconstruction of Financial Assets and
+|   Enforcement of Security Interest Act, 2002
++-- DRT/DRAT = Debt Recovery Tribunal/Debt Recovery Appellate Tribunal
++-- ARC/SR = Asset Reconstruction Company/Security Receipt
++-- IBC/CIRP = Insolvency and Bankruptcy Code, 2016/Corporate Insolvency
+|   Resolution Process
++-- NCLT = National Company Law Tribunal; CoC = Committee of Creditors
++-- IP = Insolvency Professional; IBBI = Insolvency and Bankruptcy Board of India
++-- NARCL = National Asset Reconstruction Company Limited
++-- IDRCL = India Debt Resolution Company Limited
++-- DFS = Department of Financial Services
++-- DICGC = Deposit Insurance and Credit Guarantee Corporation
++-- PMJDY = Pradhan Mantri Jan-Dhan Yojana; DBT = Direct Benefit Transfer
++-- BSBD = Basic Savings Bank Deposit; BC = Business Correspondent
++-- PSL = Priority Sector Lending; ANBC = Adjusted Net Bank Credit
++-- CEOBE = Credit Equivalent of Off-Balance Sheet Exposures
++-- MUDRA/PMMY = Micro Units Development and Refinance Agency/
+|   Pradhan Mantri Mudra Yojana
++-- NABARD = National Bank for Agriculture and Rural Development
++-- SHG/JLG = Self-Help Group/Joint Liability Group
+`-- FI-Index = Financial Inclusion Index
+
+NPA RECOGNITION — RBI Commercial Banks IRACP Directions 2025,
+updated 01-07-2026
+|
++-- overdue = unpaid on contractual due date
++-- term loan -> principal/interest overdue >90 days
++-- bills purchased/discounted -> overdue >90 days
++-- agriculture -> 2 crop seasons short crop; 1 crop season long crop
+`-- CC/OD out of order for 90 days:
+    excess over sanctioned limit/drawing power; OR
+    no credits; OR credits cannot cover interest debited in prior 90 days
+
+ASSET CLASSIFICATION
+|
+STANDARD -> SUBSTANDARD (NPA <=12 months)
+         -> DOUBTFUL (after 12 months substandard)
+         -> LOSS (identified uncollectible; write off or 100% provision)
+|
+`-- borrower-wise within one bank; security does not normally delay recognition
+
+GNPA / NNPA / PROVISION
+|
++-- GNPA = recognised gross non-performing exposure
++-- PCR = provisions / GNPA
++-- NNPA = residual after prescribed provisions/adjustments
++-- provision -> profit charge; loan remains
++-- technical write-off -> accounting removal; recovery may continue
+`-- waiver -> liability relinquished to stated extent
+
+GENERAL NPA PROVISIONS — RBI directions updated 01-07-2026
+|
++-- substandard: 15%; unsecured substandard: 25%
++-- doubtful unsecured portion: 100%
++-- doubtful secured portion: 25% <=1 year; 40% 1-3 years; 100% >3 years
+`-- loss asset retained in books: 100%
+
+STRESS AND CONCEALMENT
+|
++-- weak appraisal / project delay / macro shock / leverage / governance
++-- ICR = earnings available for interest / interest expense
+|   `-- stress indicator, NOT legal NPA definition
++-- Twin Balance Sheet -> Economic Survey 2016-17 diagnostic
++-- restructuring -> viable concession + prudential recognition
++-- forbearance -> temporary regulatory relief
+`-- evergreening -> fresh accommodation hides unviable old dues
+
+BASEL ARCHITECTURE
+|
++-- Basel I: credit-risk capital
++-- Basel II: Pillar 1 minimum | Pillar 2 review | Pillar 3 disclosure
+`-- Basel III: better capital + buffers + leverage + liquidity
+
+RBI BASEL III — Master Circular 01-04-2025; covered SCBs
+|
++-- CET1 5.5% | Tier 1 7% | Total CRAR 9% of RWA, before buffers
++-- CCB 2.5% CET1 -> effective CET1 8%; total capital 11.5%
++-- CCyB framework up to 2.5%; not activated in cited circular
+`-- excludes SFB, Payments Bank and RRB; category rules differ
+
+RWA + CAPITAL QUALITY
+|
++-- RWA -> credit + market + operational risk
++-- CRAR = eligible regulatory capital / RWA x100
+`-- CET1 highest-quality going concern -> AT1 going concern -> Tier 2 gone concern
+
+LEVERAGE + LIQUIDITY
+|
++-- leverage ratio: Tier 1 / exposure measure
+|   `-- 4% D-SIB; 3.5% others, effective 01-10-2019
++-- LCR: HQLA / 30-day stressed net cash outflows >=100% from 01-01-2019
+`-- NSFR: available / required stable funding >=100% from 01-10-2021
+
+EARLY WARNING + PCA
+|
++-- SMA-0 <=30 days | SMA-1 >30-60 | SMA-2 >60-90
++-- AQR reveals under-recognised stress; CRILC shares large-credit data
+`-- PCA 02-11-2021, effective 01-01-2022
+    capital + NNPA + leverage; NNPA bands begin 6% / 9% / 12%
+    -> corrective restrictions, NOT closure or deposit-insurance payout
+
+RBI OUT-OF-COURT RESOLUTION — Directions 2025, updated 01-07-2026
+|
++-- default/credit event -> 30-day Review Period
++-- ICA: 75% by value + 60% by number binds signatories
++-- independent credit evaluation: Rs100 cr+; two at Rs500 cr+; RP4+
++-- covered RP implementation: 180 days after Review Period
+`-- delay: +20% provision; later +15% = total extra 35%
+
+RECOVERY AND INSOLVENCY
+|
++-- SARFAESI Act 2002 section 13(2): 60-day notice
+|   `-- section 13(4) secured enforcement; borrower remedy at DRT
++-- Recovery of Debts and Bankruptcy Act 1993
+|   `-- DRT adjudication/recovery; DRAT appeal
++-- ARC under SARFAESI + RBI ARC Directions 2024, updated 23-04-2025
+|   `-- acquire assets; Security Receipt = undivided interest in pool
+`-- IBC 2016
+    NCLT admission -> section 14 moratorium -> IP -> CoC
+    -> plan >=66% voting share -> NCLT approval
+    -> or liquidation + section 53 waterfall
+    IBBI regulates ecosystem; it does not decide an individual case
+
+PERSONAL GUARANTOR — bounded cross-link
+|
++-- specified Part III provisions operational from 01-12-2019
++-- IBC section 60 aligns forum with corporate-debtor NCLT
+`-- corporate moratorium != automatic personal-guarantor moratorium
+
+NARCL-IDRCL — operational status in DFS Annual Report 2024-25
+|
++-- NARCL = RBI-registered ARC / acquirer
++-- IDRCL = resolution manager
++-- 15% cash + 85% Security Receipts
+`-- guarantee supports eligible SR shortfall; loss does not vanish
+
+CONDUCT CLASSIFICATIONS
+|
++-- NPA -> repayment/asset status
++-- wilful default -> deliberate capacity/misuse test
+|   RBI Directions 30-07-2024; threshold Rs25 lakh outstanding
+`-- fraud -> separate deception/investigation/reporting process
+    RBI Directions 15-07-2024; show cause + >=21 days + reasoned order
+
+FINANCIAL INCLUSION
+|
++-- PMJDY launched 28-08-2014 -> basic account + RuPay + DBT + BC
++-- BSBD amendment 04-12-2025, effective 01-04-2026
+|   no minimum balance + listed free services + >=4 free withdrawals/month
++-- BC = bank's agent; principal bank responsible
++-- PSL effective 01-04-2025: most domestic banks 40% ANBC/CEOBE
++-- SFB PSL 60% from FY 2025-26 (circular 20-06-2025)
++-- MUDRA/PMMY: Shishu <=Rs50,000; Kishore >Rs50,000-Rs5 lakh;
+|   Tarun >Rs5 lakh-Rs10 lakh
+|   `-- Tarun Plus >Rs10 lakh-Rs20 lakh for eligible repeat borrower
+|       from 24-10-2024
++-- NABARD SHG-Bank Linkage pilot 1992; JLG uses mutual liability
+`-- RBI FI-Index: Access + Usage + Quality (release 22-07-2025)
+
+PRELIMS TRAPS
+|
++-- overdue != NPA immediately | SMA != NPA
++-- provision != write-off != waiver
++-- CRAR denominator is RWA | LCR != NSFR
++-- ICA 75/60 != IBC CoC 66%
++-- SARFAESI recovery != IBC collective insolvency
++-- ARC Security Receipt != insured deposit
++-- NPA != wilful default != fraud
+`-- access/account opening != meaningful inclusion
+
+MAINS ANSWER ROUTE
+|
+define exact trigger and dated perimeter
+-> recognise loss -> provision/capital/liquidity impact
+-> choose restructure/recovery/transfer/IBC by viability and security
+-> assign RBI/DRT/NCLT/IBBI/ARC/NARCL/DICGC correctly
+-> evaluate time + value + governance + distribution + moral hazard
+`-- conclude with responsible inclusion and credible exit
 ```
+
+> **Qualified conclusion:** Honest recognition, adequate loss absorption and credible resolution protect the same trust on which durable financial inclusion depends.

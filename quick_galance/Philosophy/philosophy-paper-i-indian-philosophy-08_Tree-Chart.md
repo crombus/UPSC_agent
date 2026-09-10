@@ -14,7 +14,7 @@ SCHOOLS OF VEDĀNTA: BRAHMAN, SELF, WORLD, BONDAGE AND LIBERATION
 |       selves/world; later schools map further forms of difference and non-difference.
 |   +-- Their disagreements are not over whether scripture liberates, but over what is
 |       ultimately real, how causation works and whether mokṣa is identity, communion,
-|       proximity, participation or blissful service.
+|       participation or blissful service.
 |
 +-- SCOPE / OWNERSHIP FIREWALL
 |   +-- Owns: prasthāna-traya; Brahman; Īśvara; ātman/jīva/sākṣī; jagat; māyā/avidyā;
@@ -110,20 +110,25 @@ SCHOOLS OF VEDĀNTA: BRAHMAN, SELF, WORLD, BONDAGE AND LIBERATION
 |
 +-- VI. BRAHMAN AS CAUSE
 |   +-- Advaita:
-|   |   +-- Brahman is both nimitta and upādāna cause through māyā.
+|   |   +-- Brahman is both nimitta and upādāna cause; there is no second material.
 |   |   +-- As material cause, no real modification occurs in Brahman.
-|   |   +-- Spider/web and clay/pot analogies are qualified; vivarta avoids transformation.
+|   |   +-- Spider/web shows one source supplying agency and stuff; rope/snake shows a
+|   |       substrate supporting what it never becomes; vivarta avoids transformation.
+|   |   +-- Milk/curd is the contrast case of real transformation, which Advaita rejects.
 |   +-- Viśiṣṭādvaita:
 |   |   +-- Brahman is intelligent and material cause.
 |   |   +-- Subtle cit/acit form its body before manifestation.
 |   |   +-- World is real transformation of Brahman's modes, not essence corrupted.
 |   +-- Dvaita:
-|       +-- God is efficient cause/controller.
-|       +-- Matter remains distinct dependent material cause.
+|       +-- God is efficient cause/controller only, not material cause.
+|       +-- Dependent prakṛti remains the distinct real material cause.
 |   +-- Sāṃkhya:
 |       +-- Unconscious Prakṛti material cause, no creator.
 |   +-- Nyāya:
 |       +-- God efficient cause; eternal atoms material cause.
+|   +-- Formula:
+|       +-- Sāṃkhya splits material from intelligence; Nyāya splits efficient from
+|           material; Vedānta reunites both, except in Dvaita.
 |
 +-- VII. ADVAITA PRAMĀṆAS
 |   +-- Six:
@@ -188,9 +193,13 @@ SCHOOLS OF VEDĀNTA: BRAHMAN, SELF, WORLD, BONDAGE AND LIBERATION
 |   |   +-- Original consciousness.
 |   +-- Pratibimba:
 |   |   +-- Reflection in mind/avidyā.
-|   +-- One sun appears as many reflections in water.
+|   +-- One face appears as many images in many mirrors.
 |   +-- Multiplicity depends on reflecting media, not original.
 |   +-- Distortions belong to medium/reflection, not original consciousness.
+|   +-- Later variants:
+|       +-- Cosmic reflection read as Īśvara, individual reflections as jīvas.
+|       +-- Other accounts make Īśvara original relative to jīva, or prefer avaccheda
+|           and ābhāsa models; name the model rather than attributing one uniformly.
 |   +-- Soteriological significance:
 |       +-- Purification clarifies reflection.
 |       +-- Knowledge removes mistaken independence.
@@ -199,6 +208,8 @@ SCHOOLS OF VEDĀNTA: BRAHMAN, SELF, WORLD, BONDAGE AND LIBERATION
 |       +-- Formless consciousness cannot literally be reflected.
 |   +-- Reply:
 |       +-- Analogy marks dependent manifestation, not optical mechanism.
+|   +-- Caution:
+|       +-- Madhva uses the same original/reflection language for real difference.
 |
 +-- XII. THREE STATES AND WITNESS
 |   +-- Waking:
@@ -311,12 +322,17 @@ SCHOOLS OF VEDĀNTA: BRAHMAN, SELF, WORLD, BONDAGE AND LIBERATION
 |   +-- Superimposition:
 |       +-- Appearance elsewhere of what was previously experienced, in standard
 |           Śaṅkara formulation.
+|       +-- Shorthand: atasmin tad-buddhiḥ — cognition of one thing in what is not that.
 |   +-- Mutual superimposition:
 |       +-- Self's consciousness attributed to body/mind.
 |       +-- Body/mind's limitation and agency attributed to self.
 |   +-- Natural and beginningless.
+|   +-- Components: āvaraṇa conceals, vikṣepa projects — mirroring māyā's two powers.
 |   +-- Grounds subject-object, agent-action, mine/not-mine and ritual transaction.
 |   +-- Scripture begins from empirical superimposition to remove it.
+|   +-- Process versus status:
+|       +-- Adhyāsa is the process; anirvacanīya-khyāti states the presented object's
+|           status. Connect them; never conflate them.
 |
 +-- XXIII. ANIRVACANĪYA-KHYĀTI
 |   +-- Illusory object is neither:
@@ -393,8 +409,13 @@ SCHOOLS OF VEDĀNTA: BRAHMAN, SELF, WORLD, BONDAGE AND LIBERATION
 +-- XXVIII. VALLABHA
 |   +-- Śuddhādvaita / pure non-dualism.
 |   +-- Brahman manifests world really without māyā-based falsification.
+|   +-- Avikṛta-pariṇāma:
+|   |   +-- Unchanged real manifestation: the effect is real while Brahman is unaltered.
+|   |   +-- Neither Advaita's apparent transformation nor ordinary transformation.
 |   +-- World is Brahman's real expression.
 |   +-- Saṃsāra is bondage-producing mistaken attachment, not world as sheer illusion.
+|   +-- Puṣṭi-mārga:
+|   |   +-- Path of grace; devotion and service are central, not provisional aids.
 |   +-- Grace and loving participation are central.
 |   +-- Mokṣa:
 |       +-- Participation in divine bliss, not erasure of manifestation.
@@ -516,10 +537,13 @@ SCHOOLS OF VEDĀNTA: BRAHMAN, SELF, WORLD, BONDAGE AND LIBERATION
 |       +-- Rope/snake: adhyāsa and sublation.
 |       +-- Shell/silver: anirvacanīya error.
 |       +-- Pot-space: avaccheda.
-|       +-- Sun reflections: pratibimba.
+|       +-- Face/mirrors: pratibimba.
+|       +-- Cloud/sun: concealment relative to the viewer, and its limit.
+|       +-- Milk/curd: real transformation, the contrast case for vivarta.
 |       +-- Body/soul: apṛthaksiddhi.
 |       +-- Devadatta: mahāvākya implied meaning.
 |       +-- Spider/web: cause relation, used only with school qualification.
+|       +-- Released arrow: prārabdha sustaining the body after knowledge.
 |   +-- Do not fabricate quotations or treat school summaries as primary-source sentences.
 |
 +-- HIGH-RISK CONCEPTUAL TRAPS
@@ -542,6 +566,11 @@ SCHOOLS OF VEDĀNTA: BRAHMAN, SELF, WORLD, BONDAGE AND LIBERATION
 |   +-- Acintya is not licence for contradiction.
 |   +-- Advaita mokṣa is not a produced event.
 |   +-- Viśiṣṭādvaita/Dvaita mokṣa does not erase individuality.
+|   +-- Madhva makes God the efficient cause only, not the material cause.
+|   +-- Jīvanmukti is Advaita's; the realist theisms do not accept it in that strict sense.
+|   +-- "Brahma satyaṃ jagan-mithyā" is a traditional summary verse, not a mahāvākya.
+|   +-- Advaita is not subjective idealism; the empirical world is public and
+|       intersubjective, and consciousness-only doctrine is refuted by Śaṅkara.
 |
 +-- AUTHORITATIVE PYQ OWNERSHIP / ROUTING
 |   +-- Direct verified corpus, 2018–2025: 20 primary-owned question-parts.

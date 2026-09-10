@@ -1,1733 +1,272 @@
-# Philosophy Optional — Paper I — Western Philosophy 11 — Quine and Strawson
+# Quine and Strawson — Quick-Glance Tree Chart
 
-## Quick-Glance Tree Chart
+**Subject:** Philosophy Optional · **Paper I, Section A** · **Syllabus item 11**
+**Syllabus, verbatim:** *Quine and Strawson : Critique of Empiricism; Theory of Basic Particulars and Persons.*
+📝 The paper prints a space before the colon; preserve it only inside a verbatim quotation.
 
-```text
-QUINE AND STRAWSON
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Quine reconstructs empiricism after rejecting its two dogmas: a sharp analytic-
-synthetic boundary and sentence-by-sentence reduction to experience. Knowledge forms a
-revisable web tested as a corporate body, while ontology and translation are relative
-to regimented theory and publicly available evidence. Strawson pursues descriptive
-metaphysics: objective identification presupposes a public spatio-temporal framework
-whose basic particulars are material bodies and persons. A person is conceptually
-primitive because physical and psychological predicates apply to the same embodied
-subject, undercutting both Cartesian dualism and no-ownership theories.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-Quine's Two Dogmas;
-analytic /
-synthetic critique;
-reductionism;
-confirmation holism;
-web of belief;
-Duhem-Quine thesis;
-pragmatic revision;
-ontological commitment;
-naturalised
-epistemology;
-radical translation /
-gavagai /
-stimulus meaning /
-indeterminacy /
-inscrutability /
-ontological relativity;
-Strawson's
-descriptive /
-revisionary metaphysics;
-basic particulars;
-spatio-temporal
-identification;
-persons /
-M-predicates /
-P-predicates;
-self /
-other ascription;
-presupposition /
-reference as
-bounded enrichment.
-                              |
-                              v
-DOES NOT OWN:
-logical positivism's
-positive programme:
-Topic 07;
-later Wittgenstein:
-Topic 08;
-full philosophy
-of science;
-full free will /
-reactive attitudes;
-Russell's descriptions
-except Strawson
-comparison.
-                              |
-                              v
-TEXT MAP:
-Quine,
-Two Dogmas of
-Empiricism,
-1951.
-                              |
-                              v
-Word and Object,
-1960.
-                              |
-                              v
-Epistemology
-Naturalized,
-1969.
-                              |
-                              v
-Philosophy of Logic,
-1970.
-                              |
-                              v
-Strawson,
-On Referring,
-1950.
-                              |
-                              v
-Individuals,
-1959.
-                              |
-                              v
-SOURCE CAUTION:
-printed critique of
-empiricism belongs
-primarily to Quine;
-basic particulars /
-persons belong
-to Strawson;
-do not invent
-joint doctrine.
-                              |
-                              v
-              BRANCH I: TWO DOGMAS
-DOGMA ONE.
-                              |
-                              v
-sharp analytic /
-synthetic distinction.
-                              |
-                              v
-analytic truths
-true by meaning.
-                              |
-                              v
-synthetic truths
-true by fact.
-                              |
-                              v
-DOGMA TWO.
-                              |
-                              v
-reductionism /
-verificationism.
-                              |
-                              v
-each meaningful
-statement has
-its own experiential
-confirmation conditions.
-                              |
-                              v
-Quine attacks
-both pillars.
-                              |
-                              v
-retains empiricism /
-science /
-sensory evidence.
-                              |
-                              v
-QUINE !=
-anti-empiricist.
-                              |
-                              v
-QUINE !=
-logical positivist.
-                              |
-                              v
-internal radical
-critic.
-                              |
-                              v
-              BRANCH II: ANALYTICITY CIRCLE
-analytic =
-true by meaning.
-                              |
-                              v
-what is meaning?
-                              |
-                              v
-SYNONYMY.
-                              |
-                              v
-what is synonymy?
-                              |
-                              v
-DEFINITION.
-                              |
-                              v
-definitions record
-pre-existing synonymy.
-                              |
-                              v
-circular.
-                              |
-                              v
-INTERCHANGEABILITY
-SALVA VERITATE.
-                              |
-                              v
-substitute synonymous
-terms preserving
-truth.
-                              |
-                              v
-works only with
-necessity /
-intensional contexts.
-                              |
-                              v
-necessity presupposes
-analyticity.
-                              |
-                              v
-circular.
-                              |
-                              v
-SEMANTICAL RULES.
-                              |
-                              v
-analytic-in-language-L
-can be stipulated.
-                              |
-                              v
-general explanatory
-notion "semantic rule"
-remains unclear.
-                              |
-                              v
-CONCLUSION:
-no non-question-
-begging foundational
-boundary supplied.
-                              |
-                              v
-Quine does not
-claim familiar
-analytic examples
-are false.
-                              |
-                              v
-              BRANCH III: GRICE / STRAWSON REPLY
-ordinary speakers
-distinguish:
-"all bachelors
-are unmarried".
-                              |
-                              v
-from:
-"all bachelors
-are unhappy".
-                              |
-                              v
-contrast cannot be
-dismissed merely
-because philosophical
-definition is hard.
-                              |
-                              v
-Quine's rejoinder:
-pre-theoretical
-sorting does not
-provide principled
-foundation needed
-by empiricism.
-                              |
-                              v
-dispute concerns
-standards of
-explication.
-                              |
-                              v
-modest semantic
-distinction may survive.
-                              |
-                              v
-sharp epistemological
-immunity is pressured.
-                              |
-                              v
-ENTRENCHMENT
-in web is
-not replacement
-definition of
-analyticity.
-                              |
-                              v
-              BRANCH IV: REDUCTIONISM
-logical empiricism:
-sentence translated /
-reduced to
-observation content.
-                              |
-                              v
-each statement
-tested individually.
-                              |
-                              v
-Quine:
-no isolated statement
-faces experience.
-                              |
-                              v
-hypotheses work with:
-auxiliary assumptions.
-                              |
-                              v
-background theory.
-                              |
-                              v
-instrument theory.
-                              |
-                              v
-initial conditions.
-                              |
-                              v
-meaning /
-confirmation are
-system-dependent.
-                              |
-                              v
-second dogma falls.
-                              |
-                              v
-sentence-by-sentence
-verification loses
-foundation.
-                              |
-                              v
-              BRANCH V: WEB OF BELIEF
-total knowledge =
-web /
-field of force.
-                              |
-                              v
-experience impinges
-at periphery.
-                              |
-                              v
-observation sentences
-near edge.
-                              |
-                              v
-theory /
-mathematics /
-logic nearer centre.
-                              |
-                              v
-failed prediction
-requires revision
-somewhere.
-                              |
-                              v
-evidence does not
-uniquely identify
-sentence to abandon.
-                              |
-                              v
-"statements face
-tribunal of experience
-as corporate body".
-                              |
-                              v
-"any statement
-can be held true
-come what may"
-if drastic changes
-made elsewhere.
-                              |
-                              v
-conditional clause
-is essential.
-                              |
-                              v
-"no statement
-immune to revision"
-in early essay.
-                              |
-                              v
-NOT:
-anything goes.
-                              |
-                              v
-constraints:
-experience.
-                              |
-                              v
-predictive success.
-                              |
-                              v
-conservatism.
-                              |
-                              v
-simplicity.
-                              |
-                              v
-fecundity.
-                              |
-                              v
-minimum mutilation.
-                              |
-                              v
-later Quine:
-radical logic change
-may change subject.
-                              |
-                              v
-              BRANCH VI: DUHEM-QUINE
-test form:
-(H and A)
-implies O.
-                              |
-                              v
-observe not-O.
-                              |
-                              v
-logic yields:
-not(H and A).
-                              |
-                              v
-H false OR
-some auxiliary false.
-                              |
-                              v
-logic cannot select
-which.
-                              |
-                              v
-DUHEM.
-                              |
-                              v
-scope:
-theoretical physics.
-                              |
-                              v
-logic /
-mathematics exempt.
-                              |
-                              v
-no isolated
-crucial experiment.
-                              |
-                              v
-QUINE.
-                              |
-                              v
-scope:
-whole science /
-knowledge.
-                              |
-                              v
-logic included
-in principle.
-                              |
-                              v
-holism /
-underdetermination
-pressure.
-                              |
-                              v
-NEPTUNE.
-                              |
-                              v
-Uranus anomaly.
-                              |
-                              v
-revise planet-count
-auxiliary,
-retain Newton.
-                              |
-                              v
-VULCAN.
-                              |
-                              v
-Mercury anomaly.
-                              |
-                              v
-invented planet failed.
-                              |
-                              v
-deep revision through
-general relativity.
-                              |
-                              v
-same logical shape,
-different rational
-revision.
-                              |
-                              v
-POPPER REPLY:
-methodological rules
-control ad hoc
-rescues.
-                              |
-                              v
-LAKATOS:
-hard core /
-protective belt /
-progressive programme.
-                              |
-                              v
-              BRANCH VII: EMPIRICISM WITHOUT DOGMAS
-sensory evidence
-retained.
-                              |
-                              v
-scientific method
-retained.
-                              |
-                              v
-analytic immunity
-rejected.
-                              |
-                              v
-atomistic reduction
-rejected.
-                              |
-                              v
-knowledge continuous
-with science.
-                              |
-                              v
-pragmatism in
-theory revision.
-                              |
-                              v
-no first philosophy
-outside web.
-                              |
-                              v
-central /
-peripheral differences
-are degree,
-not sharp kind.
-                              |
-                              v
-CONCERN:
-can normative
-standards survive
-naturalised web?
-                              |
-                              v
-              BRANCH VIII: NATURALISED EPISTEMOLOGY
-traditional epistemology
-seeks a priori
-foundation for
-science.
-                              |
-                              v
-Quine:
-project fails /
-belongs within
-science.
-                              |
-                              v
-study how
-sensory stimulation
-produces theory.
-                              |
-                              v
-epistemology becomes
-chapter of psychology /
-natural science.
-                              |
-                              v
-no external
-Cartesian tribunal.
-                              |
-                              v
-NORMATIVE OBJECTION:
-causal explanation
-of belief does not
-answer what one
-ought to believe.
-                              |
-                              v
-Quinean reply:
-truth-seeking /
-prediction /
-method engineering
-can be improved
-from within science.
-                              |
-                              v
-RESIDUAL:
-is-ought gap /
-epistemic normativity
-not fully dissolved.
-                              |
-                              v
-              BRANCH IX: ONTOLOGICAL COMMITMENT
-regiment accepted
-theory into
-quantificational form.
-                              |
-                              v
-theory committed to
-entities over which
-bound variables
-must range
-for truth.
-                              |
-                              v
-standard slogan:
-to be is
-to be value
-of bound variable.
-                              |
-                              v
-criterion of
-commitment.
-                              |
-                              v
-not count nouns
-in ordinary grammar.
-                              |
-                              v
-names may be
-paraphrased away.
-                              |
-                              v
-quantification may
-commit without
-names.
-                              |
-                              v
-does not choose
-best theory /
-ontology.
-                              |
-                              v
-choice also uses
-empirical adequacy /
-simplicity /
-explanatory power.
-                              |
-                              v
-"desert landscapes"
-parsimony,
-not nominalism
-at any price.
-                              |
-                              v
-abstract entities
-accepted if
-indispensably quantified.
-                              |
-                              v
-              BRANCH X: RADICAL TRANSLATION
-field linguist.
-                              |
-                              v
-no dictionary /
-bilingual informant /
-shared script.
-                              |
-                              v
-public evidence:
-stimulations /
-assent /
-dissent.
-                              |
-                              v
-GAVAGAI.
-                              |
-                              v
-rabbit passes.
-                              |
-                              v
-native says
-"gavagai".
-                              |
-                              v
-possible translations:
-rabbit.
-                              |
-                              v
-undetached rabbit
-parts.
-                              |
-                              v
-rabbit stage.
-                              |
-                              v
-rabbithood.
-                              |
-                              v
-"it rabbits".
-                              |
-                              v
-same observable
-stimulus conditions.
-                              |
-                              v
-              BRANCH XI: TRANSLATION TERMS
-STIMULUS MEANING.
-                              |
-                              v
-stimulations prompting
-assent /
-dissent.
-                              |
-                              v
-OCCASION SENTENCE.
-                              |
-                              v
-assent depends on
-current stimulation.
-                              |
-                              v
-STANDING SENTENCE.
-                              |
-                              v
-assent persists
-without immediate
-prompt.
-                              |
-                              v
-OBSERVATION SENTENCE.
-                              |
-                              v
-occasion sentence
-with stimulus meaning
-stable across
-speakers.
-                              |
-                              v
-ANALYTICAL HYPOTHESES.
-                              |
-                              v
-linguist's proposed
-segmentation /
-grammar /
-translation.
-                              |
-                              v
-underdetermined by
-behavioural evidence.
-                              |
-                              v
-              BRANCH XII: INSCRUTABILITY / INDETERMINACY
-ask native:
-same gavagai?
-                              |
-                              v
-requires already
-translated identity /
-articles /
-plural /
-quantifiers.
-                              |
-                              v
-apparatus of
-individuation is
-what is disputed.
-                              |
-                              v
-compensating changes
-in manual preserve
-all behaviour.
-                              |
-                              v
-INSCRUTABILITY
-OF REFERENCE.
-                              |
-                              v
-sub-sentential reference
-not uniquely fixed.
-                              |
-                              v
-INDETERMINACY
-OF TRANSLATION.
-                              |
-                              v
-incompatible manuals
-fit total evidence.
-                              |
-                              v
-ONTOLOGICAL
-RELATIVITY.
-                              |
-                              v
-reference specified
-relative to
-background manual /
-theory.
-                              |
-                              v
-DISTINGUISH:
-ontological commitment
-audits variables.
-                              |
-                              v
-ontological relativity
-concerns reference
-within framework.
-                              |
-                              v
-CHOMSKY OBJECTION:
-behavioural evidence
-underdetermines physics
-too;
-why no facts
-of meaning?
-                              |
-                              v
-Quinean answer:
-nothing beyond
-dispositions /
-theory to
-make one manual
-uniquely right.
-                              |
-                              v
-naturalist premise
-does heavy work.
-                              |
-                              v
-              BRANCH XIII: QUINE / LATER WITTGENSTEIN
-both reject
-fixed meaning
-entities /
-private mental
-definitions.
-                              |
-                              v
-Quine:
-behavioural evidence /
-naturalised science /
-indeterminacy.
-                              |
-                              v
-Wittgenstein:
-grammar /
-practice /
-rule-following /
-forms of life.
-                              |
-                              v
-Quine offers
-scientific-naturalist
-theory.
-                              |
-                              v
-Wittgenstein offers
-therapeutic description.
-                              |
-                              v
-Quine:
-rival manuals.
-                              |
-                              v
-Wittgenstein:
-meaning constituted
-in practice.
-                              |
-                              v
-similar anti-mentalism,
-different projects.
-                              |
-                              v
-              BRANCH XIV: STRAWSON'S PROJECT
-Individuals,
-1959.
-                              |
-                              v
-DESCRIPTIVE
-METAPHYSICS.
-                              |
-                              v
-describe actual
-structure of
-our thought
-about world.
-                              |
-                              v
-fundamental conceptual
-scheme.
-                              |
-                              v
-REVISIONARY
-METAPHYSICS.
-                              |
-                              v
-construct improved /
-alternative scheme.
-                              |
-                              v
-Aristotle /
-Kant as
-descriptive exemplars.
-                              |
-                              v
-Descartes /
-Leibniz /
-Berkeley as
-revisionary exemplars
-in Strawson's framing.
-                              |
-                              v
-revision may serve
-description,
-but cannot replace
-scheme actually used.
-                              |
-                              v
-              BRANCH XV: IDENTIFICATION
-objective thought
-requires reference
-to particulars.
-                              |
-                              v
-speaker /
-hearer identify
-same object.
-                              |
-                              v
-RE-IDENTIFICATION.
-                              |
-                              v
-recognise object
-as same across
-time /
-places /
-encounters.
-                              |
-                              v
-requires public
-framework.
-                              |
-                              v
-one spatio-temporal
-system.
-                              |
-                              v
-objects occupy
-places /
-times /
-paths.
-                              |
-                              v
-identity tracked
-through framework.
-                              |
-                              v
-private sense-data
-momentary /
-subject-relative.
-                              |
-                              v
-cannot anchor
-public re-identification.
-                              |
-                              v
-              BRANCH XVI: BASIC PARTICULARS
-particulars not
-identified by
-reference to
-other particulars.
-                              |
-                              v
-serve as
-identification anchors.
-                              |
-                              v
-MATERIAL BODIES.
-                              |
-                              v
-publicly observable.
-                              |
-                              v
-spatio-temporally
-located.
-                              |
-                              v
-enduring /
-reidentifiable.
-                              |
-                              v
-PERSONS.
-                              |
-                              v
-embodied /
-spatio-temporal.
-                              |
-                              v
-bear physical /
-psychological
-predicates.
-                              |
-                              v
-BASIC !=
-microscopic atom /
-metaphysical simple.
-                              |
-                              v
-macroscopic ordinary
-framework anchors.
-                              |
-                              v
-claim concerns
-our conceptual
-scheme.
-                              |
-                              v
-not direct proof
-of mind-independent
-ontology.
-                              |
-                              v
-              BRANCH XVII: NO-SPACE WORLD
-thought experiment.
-                              |
-                              v
-auditory-only world.
-                              |
-                              v
-can objective
-particulars be
-identified without
-ordinary space?
-                              |
-                              v
-would require
-analogue of
-spatial framework.
-                              |
-                              v
-ordered sound
-locations /
-relations /
-continuity.
-                              |
-                              v
-Strawson does not
-simply declare
-sound-world impossible.
-                              |
-                              v
-argument:
-objective identification
-needs public
-structuring framework,
-not visual space
-specifically.
-                              |
-                              v
-              BRANCH XVIII: REFERENCE / PREDICATION
-reference identifies
-particular.
-                              |
-                              v
-predication says
-something of it.
-                              |
-                              v
-basic subject-predicate
-structure of
-thought /
-language.
-                              |
-                              v
-FEATURE-PLACING
-expressions.
-                              |
-                              v
-"it is raining".
-                              |
-                              v
-may not identify
-particular subject.
-                              |
-                              v
-but full objective
-scheme requires
-particular identification.
-                              |
-                              v
-linguistic forms
-reflect conceptual
-structure.
-                              |
-                              v
-not every sentence
-must have
-surface subject.
-                              |
-                              v
-              BRANCH XIX: PERSON AS PRIMITIVE
-problem:
-mind-body dualism.
-                              |
-                              v
-mind substance.
-                              |
-                              v
-body substance.
-                              |
-                              v
-how united?
-                              |
-                              v
-NO-OWNERSHIP THEORY.
-                              |
-                              v
-mental events occur
-but no subject
-owns them.
-                              |
-                              v
-STRAWSON:
-PERSON is
-primitive concept.
-                              |
-                              v
-not constructed
-from mind +
-body.
-                              |
-                              v
-logically prior
-to individual
-consciousness concept.
-                              |
-                              v
-primitive =
-conceptual priority.
-                              |
-                              v
-not third
-substance.
-                              |
-                              v
-not materialism.
-                              |
-                              v
-              BRANCH XX: M / P PREDICATES
-M-PREDICATES.
-                              |
-                              v
-material /
-physical.
-                              |
-                              v
-weighs 70 kg.
-                              |
-                              v
-is in room.
-                              |
-                              v
-has injured arm.
-                              |
-                              v
-P-PREDICATES.
-                              |
-                              v
-personal /
-psychological.
-                              |
-                              v
-is in pain.
-                              |
-                              v
-believes.
-                              |
-                              v
-intends.
-                              |
-                              v
-remembers.
-                              |
-                              v
-same subject
-bears both.
-                              |
-                              v
-person neither
-body alone
-nor mind alone.
-                              |
-                              v
-conceptual scheme
-begins with
-embodied person.
-                              |
-                              v
-              BRANCH XXI: SELF / OTHER ASCRIPTION
-P-predicate usable
-for self.
-                              |
-                              v
-"I am in pain".
-                              |
-                              v
-not ordinarily
-based on
-observing behaviour.
-                              |
-                              v
-P-predicate usable
-for others.
-                              |
-                              v
-"She is in pain".
-                              |
-                              v
-based on
-behaviour /
-situation.
-                              |
-                              v
-same concept
-must permit
-both modes.
-                              |
-                              v
-to self-ascribe
-meaningfully,
-must be able
-to other-ascribe.
-                              |
-                              v
-public applicability
-is condition of
-psychological concept.
-                              |
-                              v
-subject identified
-as person.
-                              |
-                              v
-dual ascription
-cannot be built
-from private
-mind alone.
-                              |
-                              v
-              BRANCH XXII: AGAINST DUALISM / NO-OWNERSHIP
-DUALISM decomposes
-person into
-mind /
-body.
-                              |
-                              v
-then faces
-interaction /
-reidentification.
-                              |
-                              v
-Strawson:
-decomposition presupposes
-prior person unity.
-                              |
-                              v
-mental predicate
-belongs to
-embodied person.
-                              |
-                              v
-NO-OWNERSHIP:
-experiences without
-owner.
-                              |
-                              v
-to deny owner,
-must use
-P-predicate grammar
-that presupposes
-subjects /
-persons.
-                              |
-                              v
-person concept
-undercuts both
-starting points.
-                              |
-                              v
-LIMIT:
-"primitive" may
-end analysis
-without causal
-mind-body explanation.
-                              |
-                              v
-descriptive metaphysics
-aims to dissolve
-misframed problem,
-not solve
-neural mechanism.
-                              |
-                              v
-              BRANCH XXIII: STRAWSON / RUSSELL REFERRING
-Russell:
-definite description
-asserts existence /
-uniqueness /
-predication.
-                              |
-                              v
-empty description
-makes sentence false.
-                              |
-                              v
-Strawson,
-On Referring,
-1950.
-                              |
-                              v
-sentence versus
-use of sentence.
-                              |
-                              v
-ordinary use
-presupposes existence /
-uniqueness.
-                              |
-                              v
-if presupposition
-fails,
-utterance may be
-neither true
-nor false /
-misfired.
-                              |
-                              v
-speaker reference
-depends on context.
-                              |
-                              v
-Russell offers
-formal analysis.
-                              |
-                              v
-Strawson offers
-pragmatic /
-use-sensitive
-correction.
-                              |
-                              v
-On Referring is
-bounded enrichment,
-not printed limb.
-                              |
-                              v
-              BRANCH XXIV: QUINE / STRAWSON COMPARISON
-QUINE.
-                              |
-                              v
-revisionary /
-scientific /
-naturalist impulse.
-                              |
-                              v
-challenges meaning /
-analyticity.
-                              |
-                              v
-ontology through
-regimentation.
-                              |
-                              v
-knowledge web
-revisable.
-                              |
-                              v
-STRAWSON.
-                              |
-                              v
-descriptive /
-conceptual scheme.
-                              |
-                              v
-ordinary reference /
-identification.
-                              |
-                              v
-basic bodies /
-persons.
-                              |
-                              v
-framework conditions
-less revisionary.
-                              |
-                              v
-QUINE asks:
-what does best
-science commit
-us to?
-                              |
-                              v
-STRAWSON asks:
-what must our
-actual thought
-presuppose?
-                              |
-                              v
-QUINE'S naturalism
-pressures immutable
-scheme.
-                              |
-                              v
-STRAWSON'S framework
-pressures reduction
-to sensory input.
-                              |
-                              v
-distinct programmes,
-useful confrontation.
-                              |
-                              v
-              BRANCH XXV: OBJECTION / REPLY
-OBJECTION:
-Quine cannot define
-analyticity,
-therefore none exists.
-                              |
-                              v
-REPLY:
-his narrower claim
-targets sharp
-foundational boundary.
-                              |
-                              v
-OBJECTION:
-web means
-anything goes.
-                              |
-                              v
-REPLY:
-experience /
-simplicity /
-conservatism /
-prediction constrain.
-                              |
-                              v
-OBJECTION:
-logic revisable
-destroys rationality.
-                              |
-                              v
-REPLY:
-in-principle revisability
-plus extreme
-entrenchment /
-subject-change caution.
-                              |
-                              v
-OBJECTION:
-naturalised epistemology
-commits genetic
-fallacy.
-                              |
-                              v
-REPLY:
-normative engineering
-inside science.
-                              |
-                              v
-RESIDUAL:
-normativity remains
-difficult.
-                              |
-                              v
-OBJECTION:
-basic particulars
-only describe
-our scheme,
-not reality.
-                              |
-                              v
-REPLY:
-that is
-descriptive-metaphysical
-aim.
-                              |
-                              v
-OBJECTION:
-person primitive
-merely renames
-mind-body mystery.
-                              |
-                              v
-REPLY:
-it dissolves
-illicit decomposition,
-but does not
-explain causal
-mechanism.
-                              |
-                              v
-              BRANCH XXVI: SOURCE / ATTRIBUTION CAUTION
-"metaphysical article
-of faith" belongs
-2018 PYQ framing,
-not verified
-Quine quote.
-                              |
-                              v
-Two Dogmas,
-1951.
-                              |
-                              v
-Duhem thesis
-scope differs
-from Quine.
-                              |
-                              v
-bound-variable slogan
-audits commitment,
-not ontology choice.
-                              |
-                              v
-Gavagai terms
-must be separated.
-                              |
-                              v
-Strawson primitive =
-conceptual,
-not substance.
-                              |
-                              v
-On Referring
-is bounded,
-not printed owner.
-                              |
-                              v
-              THINKER / TEXT / TERM BANK
-Quine:
-two dogmas /
-synonymy circle /
-reductionism /
-corporate testing /
-web /
-minimum mutilation /
-bound variable /
-naturalisation /
-gavagai /
-stimulus meaning /
-indeterminacy /
-ontological relativity.
-                              |
-                              v
-Strawson:
-descriptive /
-revisionary metaphysics /
-identification /
-reidentification /
-basic particulars /
-M-predicate /
-P-predicate /
-person /
-presupposition.
-                              |
-                              v
-              HIGH-RISK OPTIONAL TRAPS
-Quine !=
-anti-empiricist;
-Quine !=
-logical positivist;
-analytic critique !=
-analytic examples false;
-entrenchment !=
-analyticity definition;
-holism !=
-arbitrary revision;
-any statement held true !=
-every revision rational;
-Duhem !=
-Quine scope;
-logic revisable !=
-casually abandoned;
-naturalisation !=
-normativity solved;
-ontological commitment !=
-noun counting;
-commitment !=
-ontology selection;
-indeterminacy !=
-translation impossibility;
-inscrutability !=
-sentence indeterminacy;
-ontological relativity !=
-ontological commitment;
-basic particular !=
-atom /
-simple;
-person primitive !=
-dualism /
-materialism /
-third substance;
-P-predicate !=
-private mental object;
-presupposition !=
-Russellian assertion.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT VERIFIED
-2018-2025:
-9 primary-owned
-parts;
-2022 only year
-without owned part.
-                              |
-                              v
-2018:
-Strawson person
-[10];
-Quine /
-Kantian a priori
-as PYQ-framed
-"article of faith"
-[15].
-                              |
-                              v
-2019:
-Quine against
-analytic-synthetic
-[10].
-                              |
-                              v
-2020:
-spatio-temporal
-thinking /
-basic particulars
-[15].
-                              |
-                              v
-2021:
-basic particulars /
-persons
-[15];
-empiricism without
-dogmas
-[15].
-                              |
-                              v
-2023:
-person primitive /
-dualism implication
-[20].
-                              |
-                              v
-2024:
-two dogmas
-[15].
-                              |
-                              v
-2025:
-any sentence held
-true through
-adjustments elsewhere
-[15].
-                              |
-                              v
-STATUS:
-exact wording /
-marks verified from
-local official
-Paper I corpus.
-                              |
-                              v
-OFFICIAL-KEY STATUS:
-UPSC Philosophy
-Mains provides no
-official answer key /
-model answer.
-                              |
-                              v
-                REVISION CHAIN
-two dogmas
--> analyticity circle
--> reductionism
--> web /
-holism
--> Duhem-Quine
--> naturalisation
--> ontological commitment
--> radical translation
--> inscrutability /
-indeterminacy
--> Strawson descriptive
-metaphysics
--> identification
--> basic particulars
--> persons
--> self /
-other ascription
--> Russell comparison.
-                              |
-                              v
-             OPTIONAL-PAPER ANSWER SPINE
-IDENTIFY
-Quine or Strawson
-printed burden.
-                              |
-                              v
-DEFINE
-technical doctrine.
-                              |
-                              v
-RECONSTRUCT
-argument chain /
-transcendental condition.
-                              |
-                              v
-USE
-Neptune-Vulcan /
-gavagai /
-sound-world /
-person example.
-                              |
-                              v
-DISTINGUISH
-related terms.
-                              |
-                              v
-PRESENT
-strong objection.
-                              |
-                              v
-OFFER
-bounded reply /
-residual.
-                              |
-                              v
-OBSERVE
-quotation /
-date /
-ownership caution.
-                              |
-                              v
-CONCLUDE
-with programme-
-specific verdict.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-Quine decisively undermines atomistic verification and the use of analyticity as an
-unquestioned epistemic boundary, while preserving a naturalistic empiricism constrained
-by science and pragmatic virtues. Strawson reveals the public spatio-temporal and
-personal framework already presupposed by objective reference. Quine shows that theory
-is revisable from within; Strawson shows that revision begins from a structured scheme
-of identification. Their tension is between scientific reconstruction and conceptual
-description, not between empiricism and anti-empiricism simply.
+> Revision-only. It does not duplicate the learning session, the ASCII master or the graphical package. Read the branches, not paragraphs.
+
+---
+
+## 1. CENTRAL THESIS — SAY THIS FIRST
+
+- **One printed heading, two separate projects.** Limb 1 **Critique of Empiricism → QUINE**. Limb 2 **Basic Particulars and Persons → STRAWSON**.
+- **Empiricism made two promises, and each man breaks a different one.**
+  - Sort every sentence into **true-by-meaning / true-by-fact** and test it **one at a time** → **Quine breaks this from inside**.
+  - Rebuild the world out of **private sensory givens** → **Strawson shows it cannot start**.
+- **They are not allies.** **Grice and Strawson, "In Defence of a Dogma" (1956)** defend the distinction Quine attacked in **1951**.
+- **The only legitimate joint sentence:** empiricism failed twice — about **confirmation** (Quine) and about **reference** (Strawson). A **problem-field**, not a thesis.
+- **Fatal opening:** "The Quine–Strawson critique of empiricism holds that…"
+
+---
+
+## 2. SCOPE FIREWALL — WHAT IS NOT OWNED HERE
+
+- Verification principle, Ayer, Carnap's *Aufbau*, the Vienna Circle **as doctrine** → **Topic 07** (enters only as the position Quine dismantles).
+- Hume's impressions/ideas, the bundle self, induction **as doctrine** → **Topic 03**.
+- Kant's synthetic a priori, transcendental deduction, antinomies **as doctrine** → **Topic 04** (enters only via the 2018 framing and Strawson's affinity).
+- Russell's theory of descriptions **as doctrine** → **Topic 06** (only as the rival "On Referring" answers).
+- Meaning as use, language-games, the private-language argument **as doctrine** → **Topic 08** (bounded comparison only).
+- **Strawson on freedom, resentment and the reactive attitudes ("Freedom and Resentment", 1962)** → bounded/cross-owned, **no PYQ 2018–2025**. One clause maximum.
+- Strawson on induction (1952) and on Kant (1966) → bounded enrichment. Personal identity over time, soul, immortality → **Paper II**.
+- **Bounded Quinean enrichment — taught in full, used only after the printed burden:** ontological commitment · radical translation and *gavagai* · inscrutability · indeterminacy · ontological relativity · naturalized epistemology.
+
+---
+
+## 3. CORPUS SIGNAL
+
+- **9 of 112** Western Philosophy parts, 2018–2025. **Quine 5 · Strawson 4.**
+- **Two each in 2018 and 2021**; one each in 2019, 2020, 2023, 2024, 2025; **none in 2022**.
+- The clause's **only 20-marker is Strawson's, 2023 Q4(a)**.
+- **One statement question — 2025 Q4(b)**: preserve the conditional clause.
+- **One framing phrase — 2018 Q2(c)**: "a metaphysical article of faith" is **the paper's wording**, not a verified Quine quotation.
+
+---
+
+## 4. MARKS-EARNING DATES
+
 ```
+1905 Russell, "On Denoting" ................. Topic 06's property
+1906 Duhem, La Theorie physique ............. PHYSICS ONLY; logic/maths EXEMPT
+       Eng. tr. Wiener 1954
+1928 Carnap, Aufbau ......................... the target programme (Topic 07)
+1934 Popper, Logik der Forschung (Eng. 1959)  accepts the logic, answers by method
+1936 Birkhoff and von Neumann ............... NON-DISTRIBUTIVE LATTICE (formal)
+1948 Quine, "On What There Is" .............. ONTOLOGICAL COMMITMENT lives here
+1950 Strawson, "On Referring", Mind ......... 9 YEARS BEFORE Individuals
+1951 "Two Dogmas of Empiricism", Phil Review, JANUARY; web passage = SECTION 6
+1953 From a Logical Point of View ........... "Two Dogmas" revised
+1956 Grice AND Strawson, "In Defence of a Dogma" (British spelling)
+1959 Individuals: An Essay in Descriptive Metaphysics
+       basic particulars Pt I | persons ch. 3 | phrase is in the SUBTITLE
+1960 Word and Object ........................ gavagai ch. 2; epigraph NEURATH'S BOAT
+1962 "Freedom and Resentment" ............... NOT a printed limb
+1966 The Bounds of Sense .................... "non-sequitur of numbing grossness"
+1968 Putnam, "Is Logic Empirical?" .......... the CLAIM; later ABANDONED
+1968 Dewey Lectures -> 1969 volume with "Epistemology Naturalized"
+1969 Chomsky, "Quine's Empirical Assumptions"
+1970 Philosophy of Logic .................... "change of logic, change of subject"
+                                              + MINIMUM MUTILATION
+1973 Davidson, "Radical INTERPRETATION" ..... not translation
+1985 Skepticism and Naturalism .............. transcendental arguments limited
+```
+
+---
+
+## 5. QUINE — DOGMA ONE: THE CIRCLE OF EXPLICATION
+
+- **The dogma:** a principled line between **analytic** (true by meaning) and **synthetic** (true by fact).
+- **Two classes of analytic truth** — start here, not at "circularity".
+  - **Class 1 logical truths** — "No unmarried man is married". Quine **grants** it.
+  - **Class 2 synonym-substitution** — "No bachelor is married". **This class needs SYNONYMY.**
+- **Three routes, three failures.**
+  - **Definition** → merely **records** an antecedent synonymy (stipulation excepted) → circular **in explanatory order**, not in form.
+  - **Interchangeability *salva veritate*** → **over-generates extensionally**: "creature with a heart" / "creature with a kidney"; repair by **necessity** → necessity needs analyticity → circular.
+  - **Semantical rules (Carnap)** → gives **"analytic-in-L"** by list; the general notion is no clearer than the target.
+- **The exact conclusion:** the available **explications fail** to secure the **sharp foundational boundary**.
+  - ❌ NOT "analytic sentences are false" · ❌ NOT "the word has no use" · ❌ NOT an inference from one missing dictionary entry.
+- **Replacement:** **degrees of entrenchment**. ⚠️ Entrenchment is **not** a new definition of "analytic".
+- **Objection → reply:** Grice–Strawson 1956 (usable distinction needs no definition) → **usability ≠ theoretical legitimacy**; the quarrel is about **standards of explication**.
+
+---
+
+## 6. QUINE — DOGMA TWO AND THE ROOT IDENTITY
+
+- **Reductionism**, two forms:
+  - **Radical** — term-by-term translation into a sense-datum language (*Aufbau*, 1928).
+  - **Attenuated** — each statement has **its own** confirming/disconfirming experiences.
+- **Why the label:** it **reduces** sentence-meaning to a set of **observation sentences**. (A cheap mark most scripts miss.)
+- ✅ *"Our statements about the external world face the tribunal of sense experience **not individually but only as a corporate body**."*
+- **Unit of empirical significance = THE WHOLE OF SCIENCE.** Not the term (already collapsed); not the sentence (the dogma being removed).
+- ⚠️ **The two dogmas are AT ROOT IDENTICAL:** "confirmed come what may" needs a contrast class of **individually** confirmed statements; remove dogma 2 and dogma 1 has nothing to contrast with.
+- ❌ Not "Quine denies that experience tests belief" — the tribunal still sits; it hears the **system**.
+
+---
+
+## 7. QUINE — THE WEB, THE TWO SENTENCES, THE CONSTRAINTS
+
+```
+   ( o ) ( o ) ( o ) ( o )   <- PERIPHERY: OBSERVATION SENTENCES
+      \    \   |   /            (NOT private sense-data)
+       [ physics / chemistry / biology ]  revised easily
+              [ mathematics ]             revised rarely
+                 [ LOGIC ]                revised last; NEVER immune
+   Source: "Two Dogmas" SECTION 6, "Empiricism without the Dogmas"
+```
+
+- **Three revision options:** peripheral belief · deep interior statement · **plead hallucination** (revise the observation itself).
+  - The **third** is what makes the famous sentence **literally** true. Omit it and the sentence looks rhetorical.
+- ✅ *"Any statement can be held true come what may, **if we make drastic enough adjustments elsewhere in the system**."* — **the conditional IS the doctrine**.
+- ✅ *"Conversely, by the same token, **no statement is immune to revision**."* — early essay includes **logic in principle**.
+- **Four consequences:** no sharp analytic/synthetic line · no sharp a priori/a posteriori line · **pragmatic** theory-choice · sentence-by-sentence meaning-criterion loses application (⚠️ holistic verificationism = a **further question**).
+- **What blocks "anything goes":** predictive success · **conservatism** · **simplicity** · **fecundity** · **minimum mutilation (1970)**.
+  - **Formula:** no statement is revisable **by nature**, only **by choice** — and choice has costs.
+
+---
+
+## 8. QUINE — DUHEM–QUINE, AND THE PAIR THAT PROVES IT
+
+```
+ (H & A) -> O   |   observe NOT-O   |   modus tollens gives ONLY NOT-(H & A)
+ => H is false OR some element of A is false.  LOGIC NAMES NO CONJUNCT.
+```
+
+- **A** = background theory + **instrument theory** + initial conditions.
+- **Consequence:** a reductionist criterion assigning each statement its own confirming experiences **has no application**.
+
+| | **DUHEM 1906** | **QUINE 1951** |
+|---|---|---|
+| Scope | **Physics only** (physiology etc. can test more nearly in isolation) | **All of knowledge** |
+| Logic / maths | **EXEMPT** | **INCLUDED** |
+| Corollary | no automatic ***experimentum crucis*** | holism + underdetermination pressure |
+| Motive | philosophy of physics | demolition of **dogma two** |
+
+- ⚠️ "Duhem–Quine thesis" is **later shorthand for two non-identical claims**. Say so.
+- **DEPLOY BOTH CASES:**
+  - **Uranus** → revise the auxiliary → **NEPTUNE**, Le Verrier and Adams, **1846**. *Shallow revision correct.*
+  - **Mercury** → same move → **"VULCAN" does not exist**; correct revision = **general relativity, 1915**. *Deep revision correct.*
+  - Same logical situation, **opposite** correct responses, **no advance rule**.
+- **Popper:** accepts the logic; falsification is a **methodological decision** (conventions on basic statements; no testability-reducing *ad hoc* rescues). **Lakatos:** **hard core** + **protective belt**. ❌ Popper does not deny the thesis.
+
+---
+
+## 9. QUINE — REVISING LOGIC, AND WHAT SURVIVES
+
+- **1936 Birkhoff and von Neumann** = the **formal** non-distributive lattice. **1968 Putnam** = the **claim** that the **distributive law** is empirically revisable. ❌ Never "Putnam/Birkhoff"; never merge dates. ❓ Putnam **later abandoned** it.
+- **1970 Quine, *Philosophy of Logic*:** "**change of logic, change of subject**" + **maxim of minimum mutilation**. The **later** Quine is a poor witness for the **earlier** Quine's boldest claim.
+- **Verdict line:** holism is **right about confirmation and overstated about revisability**; the defensible position is **Duhem's thesis with Quine's motivation**.
+- **Empiricism without the dogmas** — *subtraction, not replacement*.
+  - **Kept:** sensory evidence · scientific naturalism · **no first philosophy**.
+  - **Dropped:** sentence-by-sentence reduction · the foundational analytic/synthetic boundary.
+  - Metaphysics vs natural science → a difference of **degree**.
+- **2018 three moves against a certified a priori:** explication fails → **holism** (nothing a priori *by nature*) → **naturalism** (no external certifying standpoint). ❓ Kantian reply: transcendental conditions are not hypotheses in the web → rejoinder: that reasserts the privileged status in dispute.
+
+---
+
+## 10. QUINE — BOUNDED ENRICHMENT (AFTER THE PRINTED BURDEN)
+
+- **Ontological commitment — "On What There Is", 1948.**
+  - **Regiment** → read the **ranges of the bound variables** → those are the commitments. Slogan: *"to be is to be the value of a bound variable"* ❌ not from "Two Dogmas".
+  - Cautions: a criterion of **commitment**, not a rule of theory-choice · **paraphrase**, not word-counting · **"desert landscapes" = parsimony**, not nominalism · **indispensability = Quine and Putnam**.
+  - Conceded objection: rival **regimentations** display different commitments → the criterion **audits**, it does not **choose**.
+- ***Gavagai* — *Word and Object*, 1960, ch. 2.**
+  - Terms: **stimulus meaning** · **occasion / standing sentence** · **observation sentence** (constant across speakers) · **analytical hypotheses** (determined by **no** evidence).
+  - Rivals to "rabbit": **undetached rabbit-parts · a temporal stage of a rabbit · rabbithood · "it's rabbiting"**.
+  - ⚠️ **Cannot simply ask:** the identity question needs the **identity predicate**, articles, plurals, quantifiers — the **apparatus of individuation**, which is in dispute.
+  - **Inscrutability** (terms) → **indeterminacy** (rival manuals) → no determinate **meanings as entities** → **synonymy loses its anchor** → dogma one loses its key notion.
+  - **Objections:** **Chomsky 1969** (ordinary underdetermination; the **asymmetry presupposes the naturalism**) · **Searle/Evans** (reflexive; Quine: **acquiesce in the mother tongue**) · innateness (restricts candidates, creates no fact) · **Davidson 1973** (confines it, like a **measurement scale**).
+- **Ontological relativity + naturalized epistemology — 1968 lectures, 1969 volume.** ❌ Never 1951.
+  - Reference fixed only **relative to a background theory**; regress → practical stop = mother tongue.
+  - Epistemology = the study of how **meagre input** yields **torrential output**; image = **Neurath's boat** (epigraph of *Word and Object*).
+  - **Normativity objection** → **engineering reply** → **residual conceded**: continuity with science does not **derive** norms from causal facts.
+
+---
+
+## 11. STRAWSON — DESCRIPTIVE METAPHYSICS AND BASIC PARTICULARS
+
+- **Descriptive** = describe the **actual structure** of our thought. **Revisionary** = propose a **better** one. Revisionary is **in the service of** descriptive.
+  - **His own examples:** descriptive — **Aristotle, Kant**; revisionary — **Descartes, Leibniz, Berkeley**. ❌ Two definitions with no examples is the recorded fatal error.
+  - **Method: connective analysis**, not reduction to simples. **Arguments: transcendental in form.**
+- **The question basic particulars answer:** which particulars are such that **the possibility of identification and reference in general** depends on them?
+- **The five-step argument (*Individuals*, 1959, Pt I):**
+  1. Identify → must **distinguish** and **re-identify** across time.
+  2. Re-identification → needs **ONE unified spatio-temporal framework**.
+  3. **Material bodies** = its **enduring, publicly observable** occupants; anchors of **demonstrative** identification. ⚠️ The framework is a **condition of the scheme**, not a psychological image.
+  4. **Dependent particulars** — experiences, events, sounds — identified **through** relations to persons, bodies, places, times.
+  5. ∴ **material bodies are BASIC**.
+- **Three defects of sense-data:** **private** (no public identification) · **momentary** (no re-identification) · **non-spatial** (no framework at all). Failure is **structural**.
+- ❌ **Basic particulars ≠ atoms or ultimate simples** — they are **macroscopic** bodies **and persons**.
+- **Support:** basic particulars are basic **objects of reference**; **feature-placing** ("It is raining here") does **not replace** the framework.
+- **Purely auditory world:** pitch + succession alone cannot separate *the same particular again* from *a new exactly-similar one*.
+  - ❌ Not "simply impossible" → ✅ would require an **analogue of space**, e.g. a continuously available **master-sound**.
+  - Supports the need for a framework with the **individuating role**; answers the **anthropocentrism** objection; the evaluative core of **2020 Q3(b)**.
+
+---
+
+## 12. STRAWSON — PERSONS, AND THE TWO RIVALS
+
+- **Person = ONE subject** bearing **both**:
+  - **M-predicates** (also true of mere bodies) — "weighs 70 kg", "is in the kitchen", "has brown hair".
+  - **P-predicates** (states of consciousness) — "is in pain", "is thinking of Vienna", "believes it will rain", "intends to leave".
+- ✅ *"The concept of a person is **logically prior** to that of an individual consciousness."*
+- **The six-step argument:** self-ascribe → requires **other-ascription** → others identified as **embodied subjects** on **publicly available behavioural and situational criteria** (❌ not inference to a hidden Cartesian mind) → yet **self-ascribable without observation** → **dual character** → the concept is **logically primitive**.
+- **Two-way impossibility:** pure consciousness never reaches public criteria; pure body never reaches unobserved self-ascription. Only a subject **already both** satisfies both.
+- **"Primitive" = conceptual priority.** ❌ Not a third substance · ❌ not unanalysable in every respect · ❌ not materialism (which loses the P-predicates).
+- **Rival 1 — Cartesian dualism:** cannot identify/**re-identify** an immaterial soul in the one framework; interaction unintelligible. → **starting point undercut** (❌ not every dualist thesis disproved).
+- **Rival 2 — no-ownership / no-subject** (traced through **Schlick** and Wittgenstein-influenced writers): experiences **causally dependent** but not **possessed**.
+  - **Self-refutation:** to say which experiences, he must say "**all the experiences that are had by this body**" — "**had by**" is possessive; causal dependence cannot single out **these** experiences.
+- **Result:** the mind–body problem is **DISSOLVED, not solved** — the decomposition generating it is **illicit**.
+- **Cost, conceded:** "primitive" marks the **end of analysis**, not an explanation of the psychophysical unity.
+
+---
+
+## 13. STRAWSON — THE BOUNDED EDGE
+
+- **"On Referring" (1950) vs Russell's "On Denoting" (1905):** existence **presupposed** by a use, not **asserted** in the analysis; the speaker **fails to make** a true-or-false assertion; **referring is what speakers do on occasions**; sentence-meaning ≠ use.
+  - ⚠️ **Truth-value caution:** this reports the unsuccessful **use**, not a meaningless sentence-type; later theories divide between gap, falsity and pragmatic treatments.
+  - ⚠️ **Not in the printed clause** — fence it in one sentence, then use it as illustration of method.
+- **Five bounded connections:** sense-data as basics (Pt I) · bundle self / no-ownership (ch. 3) · reconstruction detached from use (1950) · induction (1952, optional) · objectivity from private data (1966, 1985, optional).
+- **The recurring form:** undisputed fact → its conditions → the empiricist's materials **cannot** satisfy them → something else is basic, **conceptually** not causally.
+- **Two honest qualifications:** **1956** blocks the "united front"; **descriptive** metaphysics limits the conclusion to **our scheme** — an empiricist may accept the geography and deny the ontology. **Conceding this strengthens an answer.**
+
+---
+
+## 14. PYQ ROUTES — 2018 TO 2025
+
+| Year · Part · Marks | Route in one line |
+|---|---|
+| **2018 Q1(e) · 10 · Strawson** | matrix → dual-ascription argument → dualism **and** no-ownership → "primitive = conceptual priority" |
+| **2018 Q2(c) · 15 · Quine** | flag the framing → explication fails → holism → naturalism → Kantian reply → graded verdict |
+| **2019 Q1(e) · 10 · Quine** | two classes → definition / *salva veritate* / semantical rules → exact conclusion → Grice–Strawson + rejoinder |
+| **2020 Q3(b) · 15 · Strawson** | identify → re-identify → one framework → three defects → **auditory world** → internal limitation |
+| **2021 Q3(b) · 15 · Strawson** | bodies (5 steps) **and** persons (M/P + duality) → anthropocentrism + "primitive" objections → scheme-relative verdict |
+| **2021 Q3(c) · 15 · Quine** | both dogmas → "at root identical" → corporate body → what survives → 1956 + arbitrariness → verdict |
+| **2023 Q4(a) · 20 · Strawson** | descriptive frame → why primitive → dualism → no-ownership → dissolution **and its cost** |
+| **2024 Q4(c) · 15 · Quine** | dogma 1 (circle) → dogma 2 (both forms + label) → why both fall → 1956 → empiricism without the dogmas |
+| **2025 Q4(b) · 15 · Quine** | keep the conditional → §6 → *modus tollens* → **Neptune/Vulcan** → constraints → refuse relativism |
+
+---
+
+## 15. TRAPS AND THE CLOSING QUALIFICATION
+
+- ❌ "Quine **rejects** empiricism" → **empiricism without the dogmas**; he is its internal critic.
+- ❌ "Strawson **defended empiricism**" → he defends a **distinction** *against Quine*, with **Grice**.
+- ❌ Quoting "come what may" without the conditional → that is relativism, not Quine.
+- ❌ "Duhem and Quine hold the same thesis" → scope and exemptions differ.
+- ❌ "Putnam/Birkhoff" as one proposal → **1936 formalism** vs **1968 claim**.
+- ❌ Sourcing the bound-variable slogan to "Two Dogmas" → **1948**.
+- ❌ Dating naturalized epistemology to 1951 → **1968/69**.
+- ❌ "Ontological commitment = count the nouns" → read the **bound variables after regimentation**.
+- ❌ Using "indeterminacy" and "inscrutability" interchangeably → **manuals** vs **terms**.
+- ❌ "A sound-only world is simply impossible" → it needs an **analogue of space**.
+- ❌ "Basic particulars = atoms" → macroscopic **bodies and persons**.
+- ❌ "Person is primitive = dualism / = materialism" → **conceptual priority**, both predicate-classes on one subject.
+- ❌ Refuting **only** dualism on a persons question → the chapter turns on the **second** rival.
+- **FOUR CHEAP MARKS:** cite "Two Dogmas" to **§6** · date the slogan to **1948** · name **Grice** · quote the **subtitle** of *Individuals*.
+- **CLOSE LIKE THIS.**
+  - **Quine:** the result is the **failure of an explication**, not the claim that "all bachelors are unmarried" is false.
+  - **Strawson:** the result is about **our conceptual scheme**; an empiricist can accept the whole of *Individuals* as conceptual geography while denying that it settles what exists.
+
+---
+
+*Companion artifacts:* complete learning session · solved practice workbook · continuous at-a-glance graphical flowchart · ASCII master flow diagram (42 panels).

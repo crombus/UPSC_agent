@@ -1,883 +1,187 @@
-# Economy 07 - Money Market, Capital Market and Financial Instruments
+# Economy Topic 7 — Money Market, Capital Market and Financial Instruments
 
-## Quick-Glance Tree Chart
+**Current-law cutoff:** 9 September 2026  
+**Central thesis:** classify every claim by purpose, maturity, issuer, security, venue, settlement and
+regulator; market development is sound only when access, price discovery and resilience improve together.
 
 ```text
-MONEY MARKET, CAPITAL MARKET AND FINANCIAL INSTRUMENTS
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Financial markets connect savers and borrowers through instruments whose tenor,
-claim, issuer, liquidity and risk differ. The money market manages short-term
-funding and liquidity; the capital market finances longer-term debt and equity.
-Primary issuance raises fresh funds, while secondary trading supplies liquidity
-and price discovery. Maturity, safety and liquidity must never be treated as
-synonyms.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-money /
-capital market;
-primary /
-secondary market;
-T-Bills /
-G-Secs;
-call money /
-repo /
-TREPS;
-CP /
-CD;
-corporate bonds;
-NDS-OM /
-CCIL /
-SGL;
-RTGS /
-NEFT;
-TReDS;
-risk /
-yield /
-liquidity.
-                              |
-                              v
-SECURITY VALUATION /
-DERIVATIVES /
-FUNDS:
-Topic 08.
-RBI POLICY:
-Topic 04.
-BANKING:
-Topic 05.
-                              |
-                              v
-                BRANCH I: MARKET-MATURITY FORK
-MONEY MARKET
-short-term funds.
-                              |
-                              v
-LIQUIDITY
-MANAGEMENT.
-                              |
-                              v
-CAPITAL MARKET
-medium /
-long-term finance.
-                              |
-                              v
-DEBT.
-                              |
-                              v
-EQUITY.
-                              |
-                              v
-CLASSIFY
-by tenor,
-claim
-and function.
-                              |
-                              v
-NOT
-issuer name alone.
-                              |
-                              v
-                BRANCH II: PRIMARY / SECONDARY
-PRIMARY MARKET
-new issue.
-                              |
-                              v
-FUNDS
-to issuer.
-                              |
-                              v
-PRICE /
-ALLOTMENT.
-                              |
-                              v
-SECONDARY MARKET
-existing security.
-                              |
-                              v
-FUNDS
-between investors.
-                              |
-                              v
-LIQUIDITY.
-                              |
-                              v
-PRICE DISCOVERY.
-                              |
-                              v
-LOWER
-future financing cost
-possible.
-                              |
-                              v
-SECONDARY TRADE
-does not directly
-raise new issuer funds.
-                              |
-                              v
-                BRANCH III: TREASURY BILLS
-GOVERNMENT
-SHORT-TERM
-SECURITIES.
-                              |
-                              v
-ZERO-COUPON /
-DISCOUNT
-INSTRUMENT.
-                              |
-                              v
-ISSUED
-below face value.
-                              |
-                              v
-REDEEMED
-at face value.
-                              |
-                              v
-SHORT
-MATURITY.
-                              |
-                              v
-SOVEREIGN
-CREDIT PROFILE.
-                              |
-                              v
-ROLLOVER
-RISK
-at short tenor.
-                              |
-                              v
-T-BILL
-!= dated G-Sec.
-                              |
-                              v
-                BRANCH IV: DATED G-SECS
-GOVERNMENT
-LONGER-TERM
-DEBT.
-                              |
-                              v
-COUPON.
-                              |
-                              v
-MATURITY.
-                              |
-                              v
-FACE VALUE.
-                              |
-                              v
-MARKET PRICE.
-                              |
-                              v
-YIELD.
-                              |
-                              v
-INTEREST-RATE
-RISK.
-                              |
-                              v
-SOVEREIGN BOND
-may be domestic /
-foreign-currency
-depending issue.
-                              |
-                              v
-SOVEREIGN
-does not mean
-price cannot fall.
-                              |
-                              v
-                BRANCH V: CALL MONEY
-UNSECURED.
-                              |
-                              v
-OVERNIGHT.
-                              |
-                              v
-INTERBANK /
-ELIGIBLE
-participants.
-                              |
-                              v
-SHORT-TERM
-LIQUIDITY.
-                              |
-                              v
-RATE
-responds to
-system liquidity.
-                              |
-                              v
-NO
-COLLATERAL.
-                              |
-                              v
-CALL
-!= notice /
-term money.
-                              |
-                              v
-                BRANCH VI: REPO / TREPS
-REPO
-COLLATERALISED
-BORROWING.
-                              |
-                              v
-SECURITY SOLD
-with repurchase
-agreement.
-                              |
-                              v
-TREPS
-TRI-PARTY REPO
-platform.
-                              |
-                              v
-THIRD PARTY
-manages collateral /
-settlement functions.
-                              |
-                              v
-CBLO
-older mechanism
-replaced by TREPS.
-                              |
-                              v
-TREPS
-!= unsecured call money.
-                              |
-                              v
-                BRANCH VII: COMMERCIAL PAPER
-UNSECURED
-SHORT-TERM
-PROMISSORY
-INSTRUMENT.
-                              |
-                              v
-CORPORATE /
-ELIGIBLE
-ISSUER.
-                              |
-                              v
-WORKING
-CAPITAL /
-SHORT FUNDING.
-                              |
-                              v
-MARKET
-DISCIPLINE.
-                              |
-                              v
-CREDIT
-RISK.
-                              |
-                              v
-ROLLOVER
-RISK.
-                              |
-                              v
-CP
-!= bank deposit.
-                              |
-                              v
-                BRANCH VIII: CERTIFICATE OF DEPOSIT
-NEGOTIABLE
-MONEY-MARKET
-INSTRUMENT.
-                              |
-                              v
-BANK /
-ELIGIBLE
-FINANCIAL INSTITUTION
-LIABILITY.
-                              |
-                              v
-SHORT-TERM
-FUNDING.
-                              |
-                              v
-TRADEABLE
-within rules.
-                              |
-                              v
-CD
-!= ordinary
-savings deposit.
-                              |
-                              v
-ISSUER
-distinguishes CD
-from CP.
-                              |
-                              v
-                BRANCH IX: CORPORATE BONDS
-CORPORATE
-DEBT CLAIM.
-                              |
-                              v
-COUPON /
-PRINCIPAL.
-                              |
-                              v
-SECURED /
-UNSECURED.
-                              |
-                              v
-CONVERTIBLE /
-NON-CONVERTIBLE.
-                              |
-                              v
-CREDIT
-RATING.
-                              |
-                              v
-DEFAULT /
-LIQUIDITY /
-INTEREST-RATE
-RISK.
-                              |
-                              v
-INSTITUTIONAL /
-RETAIL /
-FOREIGN
-INVESTORS
-subject to rules.
-                              |
-                              v
-RATING
-!= guarantee.
-                              |
-                              v
-                BRANCH X: MARKET INFRASTRUCTURE
-ISSUANCE.
-                              |
-                              v
-TRADING.
-                              |
-                              v
-CLEARING.
-                              |
-                              v
-SETTLEMENT.
-                              |
-                              v
-CUSTODY /
-OWNERSHIP RECORD.
-                              |
-                              v
-DEPOSITORY.
-                              |
-                              v
-PAYMENT RAIL.
-                              |
-                              v
-FAILURE
-at one stage
-creates systemic risk.
-                              |
-                              v
-                BRANCH XI: NDS-OM
-NEGOTIATED
-DEALING SYSTEM -
-ORDER MATCHING.
-                              |
-                              v
-ELECTRONIC
-G-SEC
-TRADING.
-                              |
-                              v
-ORDER
-MATCHING /
-TRANSPARENCY.
-                              |
-                              v
-DIRECT /
-INDIRECT /
-BROKER CONNECT
-access modes
-as current framework specifies.
-                              |
-                              v
-TRADING
-PLATFORM.
-                              |
-                              v
-NOT
-depository.
-                              |
-                              v
-NOT
-central counterparty.
-                              |
-                              v
-                BRANCH XII: CCIL / SGL / DEMAT
-CCIL
-CLEARING /
-SETTLEMENT /
-RISK MANAGEMENT.
-                              |
-                              v
-CENTRAL
-COUNTERPARTY
-functions
-where applicable.
-                              |
-                              v
-SGL
-government-securities
-ownership record
-with RBI framework.
-                              |
-                              v
-DEMAT
-electronic
-security holding.
-                              |
-                              v
-TRADING
-!= clearing
-!= custody.
-                              |
-                              v
-                BRANCH XIII: REGULATORS
-RBI
-money market.
-                              |
-                              v
-RBI
-government securities.
-                              |
-                              v
-RBI
-payment systems.
-                              |
-                              v
-SEBI
-securities issuance /
-exchanges /
-intermediaries.
-                              |
-                              v
-IFSCA
-unified IFSC
-perimeter.
-                              |
-                              v
-ISSUER /
-INSTRUMENT /
-VENUE
-determine regulator.
-                              |
-                              v
-REGULATORY
-OVERLAP
-needs coordination.
-                              |
-                              v
-                BRANCH XIV: LIQUIDITY QUALITY
-DEPTH
-large order
-without large
-price movement.
-                              |
-                              v
-BREADTH
-range of
-participants /
-instruments.
-                              |
-                              v
-IMMEDIACY
-quick transaction.
-                              |
-                              v
-RESILIENCE
-recovery after shock.
-                              |
-                              v
-TIGHT
-BID-ASK SPREAD
-one indicator.
-                              |
-                              v
-LIQUIDITY
-can evaporate
-under stress.
-                              |
-                              v
-                BRANCH XV: RISK / RETURN
-CREDIT
-RISK.
-                              |
-                              v
-INTEREST-RATE
-RISK.
-                              |
-                              v
-LIQUIDITY
-RISK.
-                              |
-                              v
-REINVESTMENT
-RISK.
-                              |
-                              v
-INFLATION
-RISK.
-                              |
-                              v
-CURRENCY
-RISK.
-                              |
-                              v
-ROLLOVER
-RISK.
-                              |
-                              v
-MARKET
-RISK.
-                              |
-                              v
-YIELD
-compensates
-expectations /
-premia,
-not one risk only.
-                              |
-                              v
-                BRANCH XVI: YIELD / PRICE
-FIXED
-COUPON.
-                              |
-                              v
-MARKET
-INTEREST RATE RISES.
-                              |
-                              v
-EXISTING
-BOND PRICE
-generally falls.
-                              |
-                              v
-MARKET RATE FALLS.
-                              |
-                              v
-EXISTING
-BOND PRICE
-generally rises.
-                              |
-                              v
-YIELD
-!= coupon.
-                              |
-                              v
-MATURITY
-and duration
-shape sensitivity.
-                              |
-                              v
-                BRANCH XVII: RTGS / NEFT
-RTGS
-REAL-TIME.
-                              |
-                              v
-GROSS.
-                              |
-                              v
-TRANSACTION-BY-
-TRANSACTION.
-                              |
-                              v
-NEFT
-BATCH
-SETTLEMENT.
-                              |
-                              v
-BOTH
-continuous operation
-in source.
-                              |
-                              v
-PAYMENT
-SYSTEM.
-                              |
-                              v
-NOT
-capital-market security.
-                              |
-                              v
-                BRANCH XVIII: TReDS
-TRADE RECEIVABLES
-DISCOUNTING SYSTEM.
-                              |
-                              v
-MSME
-RECEIVABLE.
-                              |
-                              v
-BUYER
-ACCEPTANCE.
-                              |
-                              v
-FINANCIER
-DISCOUNTS.
-                              |
-                              v
-EARLY
-LIQUIDITY
-to MSME.
-                              |
-                              v
-UNDERLYING
-TRADE RECEIVABLE.
-                              |
-                              v
-NOT
-government grant.
-                              |
-                              v
-NOT
-physical asset.
-                              |
-                              v
-                BRANCH XIX: FINANCIAL vs PHYSICAL ASSET
-BOND.
-                              |
-                              v
-EQUITY.
-                              |
-                              v
-DEPOSIT.
-                              |
-                              v
-DERIVATIVE.
-                              |
-                              v
-ETF.
-                              |
-                              v
-FINANCIAL
-CLAIMS.
-                              |
-                              v
-MOTOR
-VEHICLE /
-MACHINE /
-LAND
-physical assets.
-                              |
-                              v
-USED AS COLLATERAL
-does not turn
-physical asset
-into financial instrument.
-                              |
-                              v
-                BRANCH XX: MARKET DEVELOPMENT
-BROADEN
-INVESTOR BASE.
-                              |
-                              v
-RELIABLE
-BENCHMARK
-YIELD CURVE.
-                              |
-                              v
-TRANSPARENT
-DISCLOSURE.
-                              |
-                              v
-CREDIT
-ENHANCEMENT.
-                              |
-                              v
-MARKET
-MAKING.
-                              |
-                              v
-EFFICIENT
-CLEARING /
-SETTLEMENT.
-                              |
-                              v
-INSOLVENCY /
-ENFORCEMENT.
-                              |
-                              v
-RETAIL
-ACCESS
-with suitability.
-                              |
-                              v
-                    DATA / POLICY / EXAMPLE BANK
-T-Bills /
-dated G-Secs.
-                              |
-                              v
-call /
-repo /
-TREPS.
-                              |
-                              v
-CP /
-CD.
-                              |
-                              v
-NDS-OM /
-CCIL /
-SGL.
-                              |
-                              v
-RTGS /
-NEFT /
-TReDS.
-                              |
-                              v
-                    SOURCE CRITICISM
-money market != capital market;
-primary != secondary;
-maturity != liquidity;
-sovereign credit != price stability;
-coupon != yield;
-call money != repo;
-CBLO != current TREPS;
-CP != CD;
-trading != clearing /
-settlement /
-custody;
-payment rail != security;
-rating != guarantee;
-collateral != financial-asset classification.
-                              |
-                              v
-                    MAJOR DEBATES
-BANK
-OR MARKET FINANCE?
-complementary.
-                              |
-                              v
-DEPTH
-OR STABILITY?
-resilient liquidity.
-                              |
-                              v
-RETAIL ACCESS
-OR SUITABILITY?
-protected participation.
-                              |
-                              v
-SHORT-TERM
-EFFICIENCY
-OR ROLLOVER RISK?
-funding mix.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-T-Bills are short-term discount instruments;
-dated G-Secs are longer-term;
-call money is unsecured overnight;
-repo is collateralised;
-TREPS replaced CBLO;
-CP is corporate short-term instrument;
-CD is bank /
-eligible institution liability;
-NDS-OM trades G-Secs;
-CCIL clears /
-settles;
-RTGS is gross,
-NEFT batch-based.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-NO ROUTED MAINS DEMAND
-is manufactured.
-                              |
-                              v
-AUDITED OBJECTIVE ROUTES:
-CBLO /
-TREPS;
-corporate-bond /
-G-Sec investors;
-instrument classification;
-sovereign bonds;
-RTGS /
-NEFT;
-T-Bills;
-non-financial debt;
-bond yields;
-NDS-OM;
-CDSL;
-credit-rating agencies.
-                              |
-                              v
-Official 2018-2023 keys
-unavailable locally;
-official 2024-2025
-and provisional 2026
-statuses remain as recorded.
-No option or answer letter
-is inferred.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-money /
-capital
--> primary /
-secondary
--> T-Bill /
-G-Sec
--> call /
-repo /
-TREPS
--> CP /
-CD
--> NDS-OM /
-CCIL /
-SGL
--> yield /
-risk
--> RTGS /
-NEFT /
-TReDS.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-CLASSIFY
-tenor /
-issuer /
-claim.
-                              |
-                              v
-MAP
-primary /
-secondary.
-                              |
-                              v
-TRACE
-trading /
-clearing /
-settlement.
-                              |
-                              v
-ASSESS
-liquidity /
-risk /
-regulation.
-                              |
-                              v
-RECOMMEND
-depth,
-disclosure,
-resilience.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-Efficient financial markets require more than a wide menu of instruments.
-Issuance must connect to liquid secondary trading, sound clearing, reliable
-custody and informed investors. India should deepen government and corporate
-debt markets while preserving payment-system safety and avoiding the common
-error of equating short maturity, high liquidity and low risk.
+SAVINGS
+  |
+  +-- SHORT-TERM LIQUIDITY (generally <=1 year) -> MONEY MARKET
+  |      call / notice / term | repo / TREPS | T-Bills / CMBs | CP / CD / bills
+  |
+  +-- MEDIUM-LONG FINANCE / OWNERSHIP -> CAPITAL MARKET
+         dated G-Secs / SDLs | corporate bonds | equity / hybrids
+                               |
+                       PRIMARY ISSUE
+                               |
+                    SECONDARY LIQUIDITY
+                               |
+       TRADE -> CLEAR / NOVATE -> DvP SETTLE -> DEPOSITORY OWNERSHIP RECORD
 ```
+
+## 1. Decode the short-funds market
+
+| Category | Decoded rule |
+|---|---|
+| Call money | Unsecured overnight borrowing/lending |
+| Notice money | Unsecured, above one day and through 14 days |
+| Term money | Unsecured, above 14 days and through one year |
+| Source | RBI Call, Notice and Term Money Markets Directions, 1 April 2021; updated 8 June 2023 |
+| Repo | Collateralised sale plus agreed repurchase; reverse repo for cash lender |
+| TREPS | Tri-Party Repo Dealing and Settlement; current successor to CBLO |
+| CCIL | Clearing Corporation of India Limited; CCP in covered G-Sec/repo markets |
+| Repo source | RBI Repo Directions, 11 November 2025; market repo, excluding RBI LAF/MSF repo |
+
+**LAF = Liquidity Adjustment Facility; MSF = Marginal Standing Facility; CCP = Central Counterparty.**
+**RBI = Reserve Bank of India; CBLO = Collateralised Borrowing and Lending Obligation.**
+
+## 2. Instruments and current thresholds
+
+| Instrument | Exam definition | Dated current rule |
+|---|---|---|
+| T-Bill | Government of India discount security; 91, 182 or 364 days | RBI G-Sec Primer; General Notification 26 March 2025 |
+| CMB | Cash Management Bill below 91 days for temporary GoI cash mismatch | Not a standard fourth T-Bill |
+| CP | Commercial Paper: unsecured promissory-note money-market instrument | RBI Directions 3 January 2024, effective 1 April 2024 |
+| CP limits | 7 days-one year; minimum Rs 5 lakh; minimum rating A3 | Primary settlement no later than T+4; OTC T+0/T+1 |
+| Short-term NCD | Non-Convertible Debenture: secured under this framework; 90 days-one year | Same 2024 Directions |
+| CD | Certificate of Deposit: negotiable unsecured money-market instrument | RBI Directions 4 June 2021, effective 7 June 2021 |
+| Bank CD limits | 7 days-one year; demat; minimum Rs 5 lakh | Primary T+1; OTC T+0/T+1 through DvP |
+| Commercial bill | Trade receivable evidenced by a bill; discount/rediscount creates finance | Not a Treasury Bill |
+
+**SCB = Scheduled Commercial Bank; RRB = Regional Rural Bank; SFB = Small Finance Bank; AIFI =
+All-India Financial Institution; OTC = Over the Counter; DvP = Delivery versus Payment.**
+**GoI = Government of India; A3 is a credit-rating grade, not a count of rating agencies.**
+
+## 3. Sovereign debt and valuation
+
+```text
+CENTRAL GOVERNMENT                     STATE GOVERNMENT
+T-Bills (<1 year)                      SDLs (dated only)
+CMBs (<91 days)                        no State T-Bills
+Dated G-Secs (>=1 year)
+
+yield rises -> discount rate rises -> fixed-cash-flow present value falls -> bond price falls
+```
+
+- **G-Sec:** Government Security.
+- **SDL:** State Development Loan.
+- **Coupon rate:** annual coupon / face value.
+- **Current yield:** annual coupon / current price.
+- **YTM:** Yield to Maturity; one discount rate equating price to all promised cash flows.
+- **Duration:** weighted timing; modified duration approximates percentage price change for a small yield move.
+- **Primary Dealer:** RBI-authorised dealer supporting G-Sec auctions and secondary market making.
+- **Uniform-price auction:** all successful competitive bidders pay the cut-off.
+- **Multiple-price auction:** successful bidders pay their accepted own-bid prices.
+- **Non-competitive bid:** no price/yield quote; investor accepts auction-derived result.
+
+## 4. Capital claims and issuance
+
+| Term | Decode |
+|---|---|
+| Debt | Contractual creditor claim; promised service and priority |
+| Equity | Residual ownership and loss-bearing claim |
+| Hybrid | Combines contractual debt-like and equity-like features |
+| Secured debenture | Charge over specified assets |
+| Unsecured debenture | General-credit claim |
+| Convertible debenture | Can become equity under stated terms |
+| IPO | Initial Public Offer by an unlisted issuer |
+| FPO | Further Public Offer by an already listed issuer |
+| Rights issue | Offer to existing holders on record date |
+| Private placement | Offer to selected persons within legal conditions |
+| QIP | Qualified Institutions Placement by a listed issuer to QIBs |
+| QIB | Qualified Institutional Buyer |
+| Fresh issue | Proceeds ordinarily reach company |
+| OFS | Offer for Sale; proceeds ordinarily reach selling holder |
+
+**ICDR = SEBI Issue of Capital and Disclosure Requirements Regulations; current amendments through
+21 March 2026. SEBI = Securities and Exchange Board of India.**
+
+## 5. Venue, clearing, settlement and ownership
+
+| Link | Function | Trap |
+|---|---|---|
+| Exchange | Recognised organised venue | Not final custodian |
+| OTC | Bilateral or platform-facilitated non-exchange execution | Not automatically unregulated |
+| ETP | Electronic Trading Platform | Electronic does not always mean exchange |
+| Clearing corporation | Calculates obligations; can act as CCP | Not issuer or market-price guarantor |
+| Novation | CCP becomes buyer to seller and seller to buyer | Concentrates infrastructure risk |
+| DvP | Links final securities delivery and corresponding payment | Reduces principal risk, not every failure |
+| Depository | Electronic holdings and transfer records | Registered owner only for transfer |
+| DP | Depository Participant; investor-facing intermediary | Not the regulator |
+| Beneficial owner | Investor with substantive rights/liabilities | Depository does not take economic ownership |
+
+**Depositories Act 1996, section 10:** the depository is registered owner only to effect transfer; the
+beneficial owner retains all rights and liabilities.
+
+## 6. NDS-OM and current settlement
+
+- **NDS-OM:** Negotiated Dealing System-Order Matching, RBI-regulated anonymous G-Sec platform.
+- **SGL:** Subsidiary General Ledger account used to hold Government securities.
+- Directions dated 7 February 2025 and updated 27 April 2026 define:
+  - **Direct access:** member settles in own SGL/funds arrangements.
+  - **Indirect access:** another entity assumes settlement responsibility.
+  - **Stock Broker Connect:** access for eligible individual demat clients through brokers.
+- Equity cash market: **T+1 standard**, phased transition completed January 2023.
+- **Optional T+0** beta introduced 28 March 2024; expanded framework dated 10 December 2024.
+- SEBI circular 30 October 2025 further extended the Qualified Stock Broker implementation timeline
+  without a replacement date in that circular. **T+0 is optional same-day, not universal instantaneous.**
+
+## 7. Regulator map
+
+```text
+RBI
+  money market | G-Secs | foreign exchange | payment systems | regulated entities
+
+SEBI
+  public/listed securities | exchanges | clearing corporations | depositories
+  intermediaries | disclosure | market conduct
+
+ONE TRANSACTION MAY INVOLVE BOTH PERIMETERS + A VENUE + CCP + DEPOSITORY
+```
+
+**NSE = National Stock Exchange; BSE = BSE Limited; NSDL = National Securities Depository Limited;
+CDSL = Central Depository Services (India) Limited.**
+
+## 8. Functions, transmission and stability
+
+```text
+policy/liquidity expectations -> overnight rates -> T-Bills -> G-Sec curve
+                              -> bank and corporate funding -> investment
+
+PRIMARY: capital formation
+SECONDARY: liquidity + price discovery
+INFRASTRUCTURE: netting + DvP + ownership integrity
+```
+
+Qualifications: fiscal supply, inflation expectations, global yields, term premium, credit spreads and
+liquidity can weaken transmission. Faster settlement reduces open exposure but increases prefunding and
+operational-readiness demands.
+
+## 9. Prelims traps
+
+1. Money market is not risk-free.
+2. Repo is collateralised; call money is unsecured.
+3. Market repo is not automatically the RBI policy repo.
+4. States issue SDLs, not T-Bills.
+5. CP is unsecured; short-term NCD is secured under the 2024 definition.
+6. CD is negotiable bank funding, not an ordinary withdrawable deposit.
+7. Coupon, current yield and YTM differ.
+8. Price and yield move inversely for fixed cash flows.
+9. IPO/FPO does not reveal fresh issue versus OFS.
+10. QIP is one private-placement route.
+11. Clearing, settlement, custody and regulation differ.
+12. T+0 is optional same-day, not universal real-time settlement.
+
+## 10. PYQ route and Mains spine
+
+- 2024 official routes: CBLO/TREPS; eligible corporate-bond/G-Sec investors; financial-instrument
+  classification; sovereign Treasury debt.
+- 2025 official route: RTGS versus NEFT settlement.
+- 2018-2023 routed questions retain: **Answer withheld pending official UPSC key.**
+
+**Mains spine:** definition -> classification -> named dated framework -> market function -> risk /
+boundary -> resilient-inclusion conclusion.
+
+**Topic boundary:** detailed derivatives, mutual funds, exchange-traded funds, alternative investment
+funds and hedging strategy belong to Topic 8.

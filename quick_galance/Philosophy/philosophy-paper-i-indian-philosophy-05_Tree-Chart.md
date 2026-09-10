@@ -20,7 +20,7 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 |   |   five proofs of Prakṛti; Puruṣa and its five proofs; plurality of Puruṣas;
 |   |   twenty-five tattvas; buddhi/mahat/ahaṃkāra; subtle body; satkāryavāda;
 |   |   pariṇāmavāda; three sufferings; aviveka; viveka-khyāti; kaivalya;
-|   |   Puruṣa–Prakṛti proximity; teleology without creator; Śaṅkara's objections.
+|   |   Puruṣa–Prakṛti proximity; teleology without creator; Śaṃkara's objections.
 |   +-- Yoga owns: citta-vṛtti-nirodha, kleśas, aṣṭāṅga, samādhi and Īśvara as
 |   |   puruṣa-viśeṣa.
 |   +-- Nyāya owns: asatkāryavāda, inherence, atomism and creator proofs.
@@ -36,21 +36,45 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 |   +-- Vijñānabhikṣu develops a later theistic/reconciliatory reading; do not use it to
 |   |   erase classical nirīśvara Sāṃkhya.
 |   +-- Sanskrit formulae below are doctrine labels or careful paraphrases, not fabricated
-|       quotations.
+|   |   quotations.
+|   +-- Name-spelling control: this chart writes Śaṃkara, matching the canonical owner and
+|       the learning session. The printed 2023 and 2025 question papers spell the same
+|       name Śaṃkara; that printed spelling is preserved only inside quoted questions.
 |
 +-- I. EPISTEMOLOGICAL FRAME
 |   +-- Three pramāṇas:
 |   |   +-- Pratyakṣa: determinate cognition arising through sense-object relation.
 |   |   +-- Anumāna: knowledge through a sign pervaded by what is inferred.
 |   |   +-- Āptavacana / śabda: trustworthy verbal testimony.
-|   +-- Other candidates reduced:
-|   |   +-- Upamāna to perception plus testimony.
+|   +-- Exactly three are admitted; the rest are REDUCED, not rejected as useless:
+|   |   +-- Upamāna to inference or testimony.
 |   |   +-- Arthāpatti to inference.
-|   |   +-- Anupalabdhi to perception/inference according to explanatory context.
+|   |   +-- Anupalabdhi to perception's failure-conditions, not a separate pramāṇa.
+|   |   +-- Sambhava to inference.
+|   |   +-- Aitihya to testimony when reliable; otherwise rejected.
+|   +-- Anumāna is threefold:
+|   |   +-- Pūrvavat: antecedent/cause to effect. Clouds to rain.
+|   |   +-- Śeṣavat: effect/residue to cause. One drop to the sea being salty.
+|   |   +-- Sāmānyato-dṛṣṭa: general correlation whose connecting terms are not
+|   |       themselves perceived. Sun in different positions to the sun moving.
 |   +-- Sāmānyato-dṛṣṭa inference:
 |   |   +-- Infers imperceptible principles from general functional facts.
 |   |   +-- Central to proving Prakṛti and Puruṣa.
 |   |   +-- Does not infer one observed cause from one observed effect alone.
+|   +-- Eight causes of non-perception:
+|   |   +-- Excessive distance, excessive proximity, defect of the organ, inattention of
+|   |   |   mind, saukṣmya (subtlety), obstruction, being overpowered, admixture.
+|   |   +-- Mūla-prakṛti's imperceptibility is assigned to saukṣmya; Puruṣa is likewise
+|   |       atīndriya. Imperceptibility is therefore not non-existence.
+|   +-- The self-imposed burden:
+|   |   +-- Both ultimates are atīndriya, so perception cannot reach them, and testimony
+|   |   |   alone would beg the question against non-Vedic opponents.
+|   |   +-- The whole evidential weight therefore falls on sāmānyato-dṛṣṭa inference.
+|   +-- Objections:
+|   |   +-- Cārvāka: vyāpti cannot be secured for a term never perceived.
+|   |   |   +-- Reply: strict perceptualism cannot explain ordinary causal reasoning.
+|   |   +-- Nyāya: legitimate but over-extended; atoms plus Īśvara is more economical.
+|   |       +-- Reply: adding God does not explain material continuity itself.
 |   +-- Cognition is a modification of buddhi, not an action of Puruṣa.
 |   +-- Object affects senses -> manas coordinates -> ahaṃkāra appropriates ->
 |       buddhi determines -> consciousness reflected from Puruṣa illuminates cognition.
@@ -75,20 +99,30 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 |   +-- 1. Bhedānāṃ parimāṇāt: from finitude/determinateness of effects.
 |   |   +-- Limited, differentiated products require a common unlimited causal ground.
 |   |   +-- The manifest cannot be its own ultimate explanation.
-|   +-- 2. Samanvayāt: from common character among effects.
-|   |   +-- All experienced things display pleasure, pain and indifference.
-|   |   +-- These correspond to sattva, rajas and tamas.
-|   |   +-- Common effect-character points to a common three-guṇa cause.
-|   +-- 3. Śaktitaḥ pravṛtteś ca: from operation according to causal capacity.
-|   |   +-- A cause produces only what lies within its power.
+|   +-- 2. Samanvayāt: from uniformity running through effects.
+|   |   +-- Effects display an underlying order and common pattern.
+|   |   +-- Diverse products reveal continuity of constitution and dependence.
+|   |   +-- Coordinated diversity points to a common material basis.
+|   +-- 3. Śaktitaḥ pravṛtteś ca: from operation due to causal power.
+|   |   +-- A cause produces only what lies within its power (śakti).
 |   |   +-- The world's ordered potential requires a sufficient material source.
+|   |   +-- Textual control: Sāṃkhyakārikā 15 reads śaktitaḥ pravṛtteś ca, NOT
+|   |       kāryataḥ pravṛtteḥ. The argument is from power, not from planning;
+|   |       the misreading turns a nirīśvara argument into a design argument.
 |   +-- 4. Kāraṇa-kārya-vibhāgāt: from distinction of cause and effect.
 |   |   +-- Manifest products resolve into subtler causes.
 |   |   +-- Regress terminates in an unmanifest, non-product cause.
-|   +-- 5. Avibhāgād vaiśvarūpyasya: from reabsorption of differentiated reality.
-|       +-- At dissolution, diverse effects return to an undifferentiated source.
-|       +-- This most directly supports one Prakṛti because the whole diversified world
-|           resolves into one undivided material ground.
+|   +-- 5. Avibhāgāt vaiśvarūpyasya: from the undivided source of the diversified
+|       |   universe. THIS IS THE ONLY PROOF THAT SHOWS PRAKṚTI MUST BE ONE.
+|       +-- The world is astonishingly diverse, yet the diversity forms one
+|       |   interconnected cosmos.
+|       +-- A diversified whole points back to an undivided source in which later
+|       |   differentiations are not yet separated.
+|       +-- Bridge sentence for 2019 Q8(c): plurality at the root would destroy the
+|       |   undividedness from which the inference proceeds, falsifying the premise
+|       |   rather than merely complicating the conclusion.
+|       +-- Proofs 1-4 are each compatible with several material roots, because none
+|           of them takes unity as a premise.
 |
 +-- IV. THREE GUṆAS
 |   +-- Guṇa means constituent strand, not merely accidental quality.
@@ -162,8 +196,10 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 |   |   +-- Different beings act at different times.
 |   +-- Triguṇa-viparyayāt:
 |   |   +-- Guṇa constitutions and fortunes differ.
-|   +-- Liberation is non-simultaneous.
+|   +-- The three arguments above map directly onto Sāṃkhyakārikā 18.
+|   +-- Liberation is non-simultaneous. SUPPLEMENTARY inference only.
 |   |   +-- If one Puruṣa, one's release should release all.
+|   |   +-- It is NOT a fourth phrase of that verse; present it as reinforcement.
 |   +-- Moral individuality requires distinct witnessing centres.
 |   +-- Advaita objection:
 |   |   +-- One consciousness appears many through limiting adjuncts.
@@ -230,7 +266,7 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 |   +-- Buddhi is not Puruṣa despite seeming conscious.
 |   +-- It is transparent enough to reflect consciousness.
 |
-+-- XIII. ANTẠḤKARAṆA AND COGNITION
++-- XIII. ANTAḤKARAṆA AND COGNITION
 |   +-- Internal instrument:
 |   |   +-- Buddhi: determination.
 |   |   +-- Ahaṃkāra: appropriation.
@@ -244,9 +280,14 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 |       +-- Inactive Puruṣa appears agent/enjoyer.
 |
 +-- XIV. SUBTLE BODY AND TRANSMIGRATION
-|   +-- Liṅga-śarīra / sūkṣma-śarīra carries:
-|   |   +-- Buddhi, ahaṃkāra, manas, senses and subtle elements according to scheme.
-|   |   +-- Dharma/adharma and dispositions.
+|   +-- Liṅga-śarīra / sūkṣma-śarīra, commonly counted as EIGHTEEN constituents:
+|   |   +-- Buddhi 1 + ahaṃkāra 1 + eleven capacities INCLUDING manas 11 +
+|   |   |   five tanmātras 5 = 18.
+|   |   +-- Omitting manas from the eleven wrongly yields seventeen.
+|   +-- Conditioned by dispositions (bhāva) and the eight tendencies of buddhi:
+|   |   +-- Merit/demerit, knowledge/ignorance, detachment/non-detachment,
+|   |   |   power/powerlessness.
+|   |   +-- Described as primordially arisen within the evolutionary cycle.
 |   +-- Gross body ends.
 |   +-- Subtle psychophysical complex continues under karma.
 |   +-- Puruṣa itself does not travel as an acting thing; association with successive
@@ -317,7 +358,11 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 |   |   +-- Puruṣa is pure witness.
 |   +-- Prakṛti has two purposes:
 |   |   +-- Bhoga: experience.
-|   |   +-- Apavarga/kaivalya: release through discrimination.
+|   |   +-- Kaivalya: release through discrimination.
+|   +-- Three soteriological goals that must never be interchanged:
+|   |   +-- Kaivalya (Sāṃkhya): isolation of the witness.
+|   |   +-- Mokṣa (Advaita): identity with Brahman.
+|   |   +-- Apavarga (Nyāya): cessation of suffering.
 |   +-- Dancer analogy:
 |   |   +-- Dancer performs until seen, then withdraws.
 |   |   +-- Prakṛti ceases display for discriminating Puruṣa.
@@ -331,6 +376,9 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 |   +-- Videhamukti:
 |       +-- On exhaustion of residual karma, complete isolation.
 |   +-- Kaivalya is isolation, not merger, divine communion or production of bliss.
+|   +-- Strict formulation: Puruṣa is never really bound, liberated or transmigrating;
+|       these belong to Prakṛti and the subtle body, and knowledge ends false
+|       attribution.
 |
 +-- XX. PURUṢA–PRAKṚTI RELATION PROBLEM
 |   +-- They are independent, eternal and opposite.
@@ -338,13 +386,18 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 |   +-- How can relation, reflection, experience or purposive evolution begin?
 |   +-- Sāṃkhya response:
 |   |   +-- Sannidhi / proximity, not physical contact.
+|   |   +-- Magnet-iron analogy: explains ACTIVATION BY PRESENCE.
 |   |   +-- Crystal-flower analogy: transparent crystal seems coloured without becoming
-|   |       the flower.
-|   |   +-- Magnet-iron analogy: presence enables activity without ordinary transfer.
-|   +-- Śaṅkara's objection:
+|   |   |   the flower. Explains APPARENT CONTAMINATION WITHOUT REAL CHANGE.
+|   |   +-- The two analogies do different jobs; neither does both.
+|   +-- Śaṃkara's objection:
+|   |   +-- Even a magnet EXERTS FORCE, so a magnet-like Puruṣa would not be inactive.
+|   |   +-- The crystal explains appearance but not the INITIATION of world-process.
 |   |   +-- Mere proximity cannot explain influence.
 |   |   +-- If relation real, dual absolutes lose independence.
 |   |   +-- If relation unreal, experience remains unexplained.
+|   |   +-- Pressed verdict: the dualism is unstable and must either collapse toward
+|   |       monism or admit a third mediating principle.
 |   +-- Residual:
 |       +-- Reflection language describes appearance more readily than causal possibility.
 |
@@ -357,20 +410,29 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 |   |   +-- Nature's constitution yields experience-serving order.
 |   +-- Nyāya/Vedānta objection:
 |   |   +-- Unconscious material cannot organise itself toward another's end.
-|   +-- Sāṃkhya reply:
-|   |   +-- Introducing God creates motive, evil and relation problems.
-|   |   +-- Guṇa structure and karma suffice.
+|   +-- Sāṃkhya reply, five standard nirīśvara arguments:
+|   |   +-- 1. A God acting from desire or motive is neither perfect nor free.
+|   |   +-- 2. An eternally fulfilled God has no motive to create a painful world.
+|   |   +-- 3. Distributing results under karma limits divine independence; arbitrary
+|   |   |   distribution destroys justice.
+|   |   +-- 4. An immutable conscious God cannot be the material source of a changing
+|   |   |   unconscious world under Sāṃkhya's cause-effect continuity.
+|   |   +-- 5. Eternal Puruṣas and Prakṛti already explain consciousness and material
+|   |       evolution without a creator hypothesis.
+|   +-- Statement discipline: the classical position is non-theistic or God-unproved,
+|       not a proof that no divine being could exist.
 |   +-- Residual:
 |       +-- "For the sake of" language appears purposive even when intention is denied.
 |
-+-- XXII. WHY ŚAṄKARA CALLS SĀṂKHYA PRADHĀNA-MALLA
++-- XXII. WHY ŚAṂKARA CALLS SĀṂKHYA PRADHĀNA-MALLA
 |   +-- Sāṃkhya is Vedānta's strongest systematic rival because it offers:
 |   |   +-- One ultimate material source.
 |   |   +-- Ordered cosmology.
 |   |   +-- Consciousness/matter distinction.
 |   |   +-- Liberation through knowledge.
-|   +-- Śaṅkara's objections:
+|   +-- Śaṃkara's objections:
 |   |   +-- Upaniṣadic first cause is conscious; unconscious pradhāna cannot be intended.
+|   |   +-- Tajjña-type "knowing-cause" texts exclude an insentient nature.
 |   |   +-- Order and goal-direction require intelligence.
 |   |   +-- Independent Puruṣa and Prakṛti cannot relate coherently.
 |   |   +-- Scriptural passages do not establish pradhāna as ultimate.
@@ -446,6 +508,15 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 |   +-- Bondage does not alter pure Puruṣa.
 |   +-- Nirīśvara does not mean denial of all supersensible reality.
 |   +-- Proximity is not ordinary spatial touching.
+|   +-- Sāṃkhya reduces upamāna, arthāpatti, anupalabdhi, sambhava and aitihya; it does
+|   |   not reject them, and it never admits four or six pramāṇas.
+|   +-- Adhiṣṭhānāt is not a God-proof; it infers a presiding witness of lived order.
+|   +-- Differential liberation is not a fourth phrase of Sāṃkhyakārikā 18.
+|   +-- Jīva is not a twenty-sixth tattva.
+|   +-- Kaivalya, mokṣa and apavarga name three different goals.
+|   +-- Ritual means are graded as exhaustible, not denounced as false.
+|   +-- The subtle body is eighteen, not seventeen; manas is inside the eleven.
+|   +-- Satkāryavāda is not unique to Sāṃkhya; Advaita holds it as vivartavāda.
 |
 +-- AUTHORITATIVE PYQ OWNERSHIP / ROUTING
 |   +-- Direct verified Paper I corpus, 2018–2025: 10 owned question-parts.
@@ -462,14 +533,18 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 |   +-- 2022:
 |   |   +-- Examine and evaluate proofs for Puruṣa [10].
 |   +-- 2023:
-|   |   +-- Śaṅkara's relation objection to Sāṃkhya dualism [10].
+|   |   +-- Śaṃkara's relation objection to Sāṃkhya dualism [10].
 |   +-- 2024:
 |   |   +-- Evolution of Prakṛti; buddhi, mahat and ahaṃkāra [20, 10+10].
 |   +-- 2025:
-|       +-- Why Śaṅkara treats Sāṃkhya as pradhāna-malla and his arguments [20].
-|   +-- Cross-routes:
-|       +-- Nyāya prāgabhāva and causation.
-|       +-- Vedānta vivarta/parināma and conscious cause.
+|       +-- Why Śaṃkara treats Sāṃkhya as pradhāna-malla and his arguments [20].
+|   +-- Routed questions solved in this package, because Sāṃkhya's causal doctrine is
+|   |   the subject under examination although another owner holds the question:
+|   |   +-- 2021 Q5(a) [10, Nyāya-Vaiśeṣika]: does the seed contain the tree?
+|   |   +-- 2022 Q5(e) [10, Vedānta]: is vivartavāda the logical development of
+|   |   |   pariṇāmavāda?
+|   |   +-- 2023 Q8(b) [15, Nyāya-Vaiśeṣika]: prāgabhāva against Sāṃkhya causation.
+|   +-- Further cross-links, not separately solved:
 |       +-- Yoga shared ontology and distinct method/Īśvara.
 |   +-- Status: wording and marks verified from local official Paper I corpus.
 |   +-- Official-key status: UPSC Mains publishes no official answer key/model answer.
@@ -477,8 +552,9 @@ SĀṂKHYA: PURUṢA–PRAKṚTI DUALISM, EVOLUTION AND KAIVALYA
 +-- PRELIMS / RAPID REVISION CHAIN
 |   +-- Three pramāṇas -> one three-guṇa Prakṛti -> many witnessing Puruṣas ->
 |       five proofs each -> equilibrium/disequilibrium -> 25 tattvas ->
-|       satkāryavāda/parināma -> subtle body -> three sufferings ->
-|       aviveka -> viveka-khyāti -> kaivalya.
+|       satkāryavāda/pariṇāma -> subtle body -> three sufferings ->
+|       aviveka -> viveka-jñāna -> kaivalya.
+|   +-- Term control: viveka-jñāna is the Sāṃkhya term; viveka-khyāti belongs to Yoga.
 |
 +-- OPTIONAL-PAPER ANSWER SPINE
 |   +-- Define the exact Sanskrit doctrine.

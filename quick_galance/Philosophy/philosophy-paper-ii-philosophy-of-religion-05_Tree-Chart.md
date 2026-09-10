@@ -6,265 +6,278 @@
 REASON, REVELATION AND FAITH
 |
 +-- CENTRAL PRINCIPLE
-|   +-- Reason evaluates coherence and evidence; revelation claims disclosure unavailable
-|       by ordinary inquiry; faith is trusting commitment to what is taken as revealed.
-|   +-- Conflict arises when faith claims exemption from criticism or reason claims exhaustive
-|       jurisdiction over transcendent reality. A defensible relation treats reason as
-|       regulative, revelation as defeasible disclosure and faith as responsible trust.
+|   +-- Three epistemic OFFICES, not three rivals for one office: reason ARGUES,
+|       revelation DISCLOSES, faith TRUSTS.
+|   +-- Standing verdict: reason is REGULATIVE but not CONSTITUTIVE. It vetoes
+|       contradiction, weighs testimony, disciplines reading and names defeaters;
+|       it does not author the content revelation claims to supply.
+|   +-- Solo failure modes: reason alone -> reductionism | revelation alone ->
+|       unauthenticated authority | faith alone -> arbitrariness or fanaticism.
 |
 +-- SCOPE / OWNERSHIP FIREWALL
-|   +-- Owns: natural/revealed theology; propositional/non-propositional revelation;
-|       Aquinas, Kierkegaard, śraddhā; faith/belief; rationalism, fideism, critical
-|       rationality; science-religion models; miracles/Hume; evidentialism and Reformed
-|       epistemology; public/private revelation and epistemic justification.
-|   +-- Proofs, religious experience and religious language have separate owner charts.
+|   +-- Owns: reason's functions and limits; general/special and propositional/
+|       non-propositional revelation; authentication, circularity, rival revelation;
+|       faith's tenets and the faith-belief distinction; Aquinas, Kierkegaard, the
+|       four stances; evidentialism vs Reformed epistemology; miracles as SUPPORT for
+|       revelation-claims; Barbour's science-religion models; Indian testimony parity.
+|   +-- Not owned: detailed proofs for God (Proofs owner); phenomenology and object of
+|       religious experience (Religious Experience owner); meaning and falsification
+|       (Religious Language owner); full pluralist theory (Religious Pluralism owner);
+|       complete Mimamsa/Nyaya/Vedanta/Buddhist epistemology (Paper I owners).
 |
 +-- SOURCE / ATTRIBUTION CAUTION
-|   +-- Aquinas: Summa Theologiae; Kierkegaard: Fear and Trembling and Concluding
-|       Unscientific Postscript; Hick on revelation/experiencing-as; Plantinga on warrant.
-|   +-- Mīmāṃsā apauruṣeya śabda and Advaita śravaṇa differ from creator-spoken revelation.
-|   +-- "Leap of faith" is often oversimplified; Kierkegaard does not praise arbitrary belief.
+|   +-- Datable: Hume Enquiry X (1748) · Draper (1874) · Clifford (1877) · White (1896) ·
+|       James, The Will to Believe (1896) · W. C. Smith, Faith and Belief (1979) ·
+|       Plantinga (1983; Warranted Christian Belief 2000) · Alston, Perceiving God (1991) ·
+|       Barbour (1997; 2000) · Gould, Rocks of Ages (1999) · Earman (2000).
+|   +-- Cite by WORK, never by an invented year: Aquinas ST II-II qq.1-4; Anselm
+|       Proslogion 1; Kierkegaard, Fear and Trembling / Concluding Unscientific
+|       Postscript; Tillich, Dynamics of Faith; Buber's I-Thou; Hick.
+|   +-- Indian anchors: Gita 17.2-3 · Kalama Sutta AN 3.65 · Kevaddha Sutta DN 11 ·
+|       Yoga-sutra 3.37.
+|   +-- "Credo quia absurdum" is NOT verified Tertullian wording — call it a later
+|       slogan for extreme fideism.
+|   +-- Vivekananda's "science of the soul" is reported as a CLAIM, never endorsed.
 |
-+-- I. THREE EPISTEMIC JOBS
-|   +-- Reason:
-|       +-- Infers, tests consistency, weighs evidence and interprets.
-|   +-- Revelation:
-|       +-- Purported divine/ultimate self-disclosure.
-|   +-- Faith:
-|       +-- Personal trust, assent, fidelity and practical commitment.
-|   +-- Belief:
-|       +-- Propositional acceptance; may lack trust/commitment.
++-- I. THREE OFFICES, THREE DANGERS
+|   +-- Reason: infer, test coherence, interpret, regulate. Danger: rationalism that
+|       admits only what reason can independently prove.
+|   +-- Revelation: alleged divine self-disclosure unavailable to unaided reason.
+|       Danger: circular authentication, rival revelations, projection.
+|   +-- Faith: assent + trust + commitment + hope + fidelity. Danger: credulity,
+|       voluntarism, fanaticism, immunity from correction.
 |
-+-- II. REASON IN RELIGION
-|   +-- Constructive:
-|       +-- Natural theology, conceptual clarification, interpretation and coherence.
-|   +-- Critical:
-|       +-- Detect contradiction, false inference and harmful authority.
-|   +-- Regulative:
-|       +-- Sets limits on acceptable formulation without claiming to generate every mystery.
-|   +-- Limit:
-|       +-- If ultimate reality exceeds finite categories, reason may be necessary but incomplete.
++-- II. REASON — FIVE FUNCTIONS AND ONE LIMIT
+|   +-- (a) construct natural theology — Aquinas' preambles; Nyaya inference to Isvara.
+|   +-- (b) test coherence — no appeal to mystery makes a contradiction true.
+|   +-- (c) interpret — literal / analogical / historically conditioned senses.
+|   +-- (d) defend (apologetics) and correlatively criticise.
+|   +-- (e) REGULATE — veto, discipline, name defeaters. This is the 2021 hinge.
+|   +-- Natural theology argues TOWARD conclusions; philosophy of religion also analyses
+|       language, experience and warrant. Narrower, not identical.
+|   +-- LIMIT: the proofs are inconclusive; the transcendent may EXCEED reason.
+|       EXCEED, never CONTRADICT — the whole position rests on that word.
+|   +-- Kant: no speculative reason beyond possible experience. Reply: metaphysical
+|       inference concerns the CONDITIONS of experience, not a further observed object.
 |
-+-- III. NATURAL / REVEALED THEOLOGY
-|   +-- Natural theology:
-|       +-- Knowledge of God through reason and publicly available world/moral experience.
-|   +-- Revealed theology:
-|       +-- Truths received through special disclosure/scripture.
-|   +-- Aquinas:
-|       +-- Some truths about God accessible to reason.
-|       +-- Mysteries exceed but should not contradict sound reason.
-|   +-- Distinguish complementarity from two contradictory truths.
++-- III. THE TWO MIDDLE TERMS THAT WIN THE MARKS
+|   +-- constitutive | >>> REGULATIVE <<< | irrelevant  (reason's seat)
+|   +-- rational | >>> SUPRA-RATIONAL <<< | irrational  (faith's status)
+|   +-- Supra-rational EXCEEDS proof; irrational CONTRADICTS logic or decisive evidence.
+|   +-- Entry fee for both middle seats: DEFEASIBILITY.
+|   +-- Critical rationalism = committed belief kept open to criticism and defeaters.
 |
-+-- IV. PROPOSITIONAL REVELATION
-|   +-- God communicates truths in statements/doctrines.
-|   +-- Scripture/testimony conveys content.
-|   +-- Authentication criteria:
-|       +-- Source reliability.
-|       +-- Coherence.
-|       +-- Historical/testimonial support.
-|       +-- Moral fruits.
-|       +-- Consistency with established knowledge.
-|   +-- Problem: competing revelations make authority circular if each text certifies itself.
++-- IV. REVELATION — TWO INDEPENDENT AXES
+|   +-- Axis 1 SCOPE/MEDIUM: general (nature, conscience, universal history) vs special
+|       (event, person, scripture, community).
+|   +-- Axis 2 WHAT IT IS: propositional (truths communicated) vs non-propositional
+|       (divine acts and self-presence).
+|   +-- They CROSS. They are not one ladder. Collapsing them loses 2025 Q6(c).
+|   +-- NOT SYNONYMS: revelation = the disclosure | inspiration = divine-human authorship
+|       of the record | infallibility = freedom from error.
 |
-+-- V. NON-PROPOSITIONAL REVELATION
-|   +-- Divine reveals self/event rather than dictating sentences.
-|   +-- Propositions are community's interpretive response.
-|   +-- Hick:
-|       +-- Revelation as personal encounter/experiencing-as.
-|   +-- Strength:
-|       +-- Explains historical/cultural mediation.
-|   +-- Risk:
-|       +-- Doctrinal truth becomes too dependent on interpretation.
++-- V. PROPOSITIONAL MODEL AND THE 2025 DISTINCTION
+|   +-- Doctrine: revelation communicates divinely authorised TRUTHS unaided reason could
+|       not discover or securely know.
+|   +-- Argument: God can disclose -> prophets/scripture mediate -> signs, testimony and
+|       coherence warrant reception -> doctrine articulates content.
+|   +-- NATURAL THEOLOGY: publicly accessible premises; content = that God exists, some
+|       attributes; Aquinas' PREAMBLES.
+|   +-- REVEALED THEOLOGY: delivered premises; content = the MYSTERIES (Trinity,
+|       Incarnation), above reason and never against it.
+|   +-- The distinction is one of EPISTEMIC ACCESS — not importance, not rationality.
+|   +-- Indian complication: Mimamsa's AUTHORLESS (apauruseya) Veda is authoritative and
+|       is NOT a creator God's speech — scriptural authority with NO revealer.
 |
-+-- VI. AUTHORITY / TRADITION
-|   +-- Revelation reaches persons through language, canon and community.
-|   +-- Tradition preserves but also selects/interprets.
-|   +-- Individual experience alone risks subjectivism.
-|   +-- Institutional authority alone risks dogmatism.
-|   +-- Responsible model needs public criticism, historical inquiry and ethical scrutiny.
++-- VI. NON-PROPOSITIONAL MODEL — HICK
+|   +-- Chain: ambiguous event -> faith's EXPERIENCING-AS -> communal conceptualisation
+|       -> doctrine; doctrinal diversity reflects interpretive schemes.
+|   +-- Presupposition: experience is concept-laden; divine freedom is not exhausted by
+|       statements.
+|   +-- One event, two true descriptions: secular causal, and providential.
+|   +-- Objection PROJECTION -> reply: moral-spiritual transformation and the resistance
+|       of reality to arbitrary interpretation. Neither reply is decisive — say so.
 |
-+-- VII. FAITH / BELIEF
-|   +-- Belief: holding proposition true.
-|   +-- Faith adds:
-|       +-- Trust.
-|       +-- Commitment.
-|       +-- Loyalty/hope.
-|       +-- Practical orientation.
-|   +-- One can believe God exists without trusting God.
-|   +-- Faith has cognitive content but is not exhausted by assent.
-|   +-- Basic tenets: object, trust, commitment, endurance and transformative practice.
++-- VII. AUTHENTICATION — SIX TESTS, SIX LIMITS
+|   +-- source/testimony -> transmits error as well as truth.
+|   +-- coherence -> does not establish DIVINE origin.
+|   +-- moral-spiritual fruit -> useful effects occur under false beliefs.
+|   +-- tradition/community -> endurance may preserve power or bias.
+|   +-- experience + miracle-sign -> an anomaly authenticates no ONE reading.
+|   +-- cross-revelation comparison -> criteria are rarely tradition-neutral.
+|   +-- CIRCLE: scripture -> God -> scripture. Vicious if the ONLY support; arguably a
+|       coherent web once independent lines enter. Authority does NOT remove hermeneutics.
+|   +-- Competing revelation: rivals cannot all be literally infallible in incompatible
+|       claims. Reply: core disclosure vs historically conditioned reading — critics call
+|       this revisionary. Handover: the residual problem is DIVERSITY.
 |
-+-- VIII. AQUINAS
-|   +-- Faith is act of intellect assenting to divine truth under movement of will/grace.
-|   +-- Intellectual assent:
-|       +-- Faith is not blind emotion.
-|   +-- Will:
-|       +-- Commits where evidence does not compel.
-|   +-- Reason:
-|       +-- Establishes preambles, interprets and answers objections.
-|   +-- Revelation:
-|       +-- Supplies mysteries beyond natural demonstration.
-|   +-- No genuine contradiction because truth has one source.
++-- VIII. FAITH — SEVEN TENETS
+|   +-- (1) ultimate object (2) assent to content (3) trust exceeding evidence
+|       (4) commitment of will, with risk (5) hope (6) community and tradition (7) fruits.
+|   +-- Steps 1-2 shared with belief; step 3 is the departure; 4-7 belief never supplies.
 |
-+-- IX. KIERKEGAARD
-|   +-- Objective uncertainty and passionate inward appropriation.
-|   +-- Faith involves risk, decision and relation, not merely accepting evidence.
-|   +-- Abraham illustrates tension between universal ethical and absolute religious relation.
-|   +-- Not irrational whim:
-|       +-- Paradox is existentially confronted, not logically demonstrated.
-|   +-- Criticism:
-|       +-- Private passion may shield fanaticism.
-|   +-- Reply:
-|       +-- Authentic faith demands responsibility and self-transformation, but public
-|           discrimination remains a real problem.
++-- IX. FAITH VERSUS BELIEF — SIX AXES
+|   +-- object: proposition | person or ultimate.
+|   +-- grammar: believe THAT | believe IN, trust.
+|   +-- mode: cognitive assent | assent PLUS entrusting.
+|   +-- voluntariness: largely involuntary | engages the will; can be GIVEN.
+|   +-- failure-mode: falsehood | betrayal, infidelity, apostasy.   <== DECISIVE TEST
+|   +-- degrees: confidence | fidelity and depth.
+|   +-- Supports: fides quae creditur (content) / fides qua creditur (act); W. C. Smith on
+|       the modern narrowing of "belief"; Tillich's ULTIMATE CONCERN, failing as IDOLATRY;
+|       Buber's I-Thou irreducible to I-It.
+|   +-- Indian: Gita 17.2-3 grades sraddha sattvika/rajasa/tamasa — "as is one's sraddha,
+|       so is one"; Advaita makes it the trust that ENABLES inquiry, replaced by
+|       realisation; Buddhist saddha is verification-directed (Kalama Sutta AN 3.65).
+|   +-- Objection: "believing in" reduces to "believing that X exists and is trustworthy".
+|       Reply: one may believe a person reliable and still refuse to entrust anything.
 |
-+-- X. ŚRADDHĀ / INDIAN PARITY
-|   +-- Śraddhā:
-|       +-- Trustful receptivity to teacher/scripture/path, tested in understanding/practice.
-|   +-- Mīmāṃsā:
-|       +-- Veda authorless; śabda valid without creator revelation.
-|   +-- Advaita:
-|       +-- Śravaṇa, manana and nididhyāsana: hearing, reasoning and contemplation.
-|   +-- Bhakti:
-|       +-- Trust/devotion to personal divine.
-|   +-- Indian models show revelation need not equal divine dictation.
++-- X. AQUINAS — THE ANSWER SPINE
+|   +-- Faith is an act of INTELLECT assenting to divine truth, commanded by the WILL,
+|       moved by GRACE. (ST II-II qq.1-4; paraphrase, never fabricate a quotation.)
+|   +-- A MEAN: firmness of knowledge WITHOUT its vision; unlike opinion, no fear of the
+|       opposite.
+|   +-- Two storeys: reason proves the PREAMBLES; revelation supplies the MYSTERIES.
+|       Both routes issue from God -> apparent conflict = defective reasoning or reading.
+|   +-- HINGE against voluntarism: MOTIVES OF CREDIBILITY.
 |
-+-- XI. FOUR STANCES
-|   +-- Rationalism:
-|       +-- Religious belief must satisfy reason/evidence.
-|   +-- Fideism:
-|       +-- Faith has autonomous priority beyond proof.
-|   +-- Critical rationalism:
-|       +-- Beliefs remain open to criticism though not conclusively proven.
-|   +-- Complementarity:
-|       +-- Reason and revelation answer overlapping but non-identical questions.
-|   +-- Pragmatic permissibility:
-|       +-- Commitment may be rationally allowed under genuine option/underdetermination,
-|           but usefulness alone does not prove truth.
++-- XI. KIERKEGAARD AND THE PERMISSION LADDER
+|   +-- Objective uncertainty + infinite personal concern -> subjective appropriation;
+|       Abraham dramatises the paradox and the teleological suspension of the ethical.
+|   +-- TARGET = substitution of a system for decision, NOT evidence. He licenses neither
+|       contradiction nor irresponsibility.
+|   +-- Ladder strictest -> loosest: Clifford's evidentialism | critical rationalism |
+|       James (living, forced, momentous; evidence genuinely inconclusive) | Pascal's
+|       wager (prudential only; many-gods and authenticity objections) | insulated fideism.
 |
-+-- XII. SCIENCE / RELIGION
-|   +-- Conflict:
-|       +-- Competing factual claims.
-|   +-- Independence:
-|       +-- Distinct domains/methods.
-|   +-- Dialogue:
-|       +-- Boundary questions and conceptual exchange.
-|   +-- Integration:
-|       +-- Unified metaphysical account.
-|   +-- Science corrects empirical religious claims; religion may address value/meaning,
-|       but cannot claim immunity when making testable assertions.
++-- XII. THE FOUR STANCES AND THE BENCH
+|   +-- Rationalism (Clifford, Locke): believe only on evidence. Risk: reduces commitment.
+|   +-- Fideism (Kierkegaard as qualified case): proof cannot generate faith. Risk:
+|       arbitrariness.
+|   +-- Faith seeking understanding (Augustine, Anselm): credo ut intelligam.
+|   +-- Two-source harmony (Aquinas): natural + revealed theology. Risk: two-tier tension.
+|   +-- Bench risks: Hick -> projection | Mimamsa -> cross-tradition warrant | Advaita ->
+|       scriptural circularity | Plantinga -> religious diversity | Alston -> circularity
+|       shared with sense perception | Barbour -> descriptive, not normative.
+|   +-- Four recurring criticisms: evidential challenge | competing revelation |
+|       circularity | fideist immunity — each with its standard reply.
 |
-+-- XIII. MIRACLES
-|   +-- Hume:
-|       +-- Wise belief proportions to evidence.
-|       +-- Uniform experience supports natural law.
-|       +-- Testimony for miracle must be more improbable to be false than event miraculous.
-|       +-- Human credulity, wonder and competing religions weaken reports.
-|   +-- Replies:
-|       +-- Natural-law probability may not make intervention impossible.
-|       +-- Independent cumulative testimony may matter.
-|   +-- Residual:
-|       +-- Prior worldview strongly shapes probability assessment.
++-- XIII. JUSTIFICATION — EVIDENTIALISM vs REFORMED EPISTEMOLOGY
+|   +-- The question is the STANDARD, not whether God exists.
+|   +-- Locke (proportion to probability); Clifford 1877 (moral wrong; the shipowner);
+|       Flew (presumption of atheism; default is not-believing).
+|   +-- James 1896: living, forced, momentous + genuinely inconclusive evidence.
+|       Clifford's rule itself prefers avoiding error to gaining truth.
+|   +-- Plantinga: (1) presupposes CLASSICAL FOUNDATIONALISM -> (2) self-referentially
+|       INCOHERENT -> (3) too NARROW (memory, other minds, the past) -> (4) basicality is
+|       not confined to that list -> (5) theistic belief can be PROPERLY BASIC, grounded,
+|       not inferred.
+|   +-- WARRANT = proper function + appropriate environment + design plan aimed at truth;
+|       sensus divinitatis. Payoff: IF theism is true, theistic belief is very likely
+|       warranted -> no viable de jure objection independent of the de facto question.
+|   +-- Great Pumpkin -> grounding, DEFEASIBILITY, disciplined practice -> counter:
+|       community-relative, so "Son of Great Pumpkin" returns for mature rivals.
+|   +-- Alston 1991: no doxastic practice, sense perception included, is validated
+|       non-circularly.
+|   +-- EXACT Indian analogues: svatah-pramanya (intrinsic validity) ~ proper basicality;
+|       paratah-pramanya (extrinsic validity) ~ evidentialism; Carvaka = strict limit.
 |
-+-- XIV. EVIDENTIALISM
-|   +-- Belief rational only when supported proportionately by evidence.
-|   +-- Strength:
-|       +-- Public accountability and protection against wishful belief.
-|   +-- Problems:
-|       +-- Many basic beliefs are not inferred.
-|       +-- Evidence standards can be contestable.
-|       +-- Trust practices precede proof.
++-- XIV. MIRACLES AND TESTIMONY
+|   +-- Hume, Enquiry Section X (1748): a miracle = "a violation of the laws of nature" by
+|       a particular divine volition. The definition is itself contested.
+|   +-- PART I: proportion belief to evidence -> laws rest on uniform experience ->
+|       testimony on non-uniform -> the weaker yields -> MAXIM: testimony suffices only if
+|       its falsehood would be MORE MIRACULOUS than the fact.
+|   +-- PART II: (a) never enough high-quality witnesses (b) the passion for surprise and
+|       wonder (c) provenance among ignorant and barbarous nations (d) CONTRARY MIRACLES
+|       CANCEL.
+|   +-- Replies: definitional (Swinburne's NON-REPEATABLE COUNTER-INSTANCE) | evidential
+|       (principles of credulity and testimony) | Bayesian (Earman 2000, prior vs
+|       posterior) | circularity (C. S. Lewis) | contrary-miracles.
+|   +-- Survives: Part II as a checklist of caution. Too strong: Part I.
+|   +-- INDIAN CONTRAST, not parallel: Yoga-sutra 3.37 makes siddhis OBSTACLES; Kevaddha
+|       Sutta DN 11 — the Buddha rejects displays; the authorless Veda needs no miracle.
 |
-+-- XV. REFORMED EPISTEMOLOGY
-|   +-- Belief in God may be properly basic under suitable cognitive conditions.
-|   +-- Not inferred from other beliefs and not groundless.
-|   +-- Warrant tied to properly functioning faculties in appropriate environment/design plan.
-|   +-- Defeaters matter:
-|       +-- Basic belief can lose warrant under strong counterevidence.
-|   +-- Great-Pumpkin objection:
-|       +-- Why not any bizarre basic belief?
-|   +-- Reply:
-|       +-- Proper basicality is constrained by functioning, practice and defeater conditions,
-|           though neutrality of these criteria is debated.
++-- XV. SCIENCE AND RELIGION — BARBOUR'S FOUR MODELS
+|   +-- CONFLICT: scientific materialism / scriptural literalism. Warfare thesis = Draper
+|       1874, White 1896 — NOW REJECTED by most historians of science. Say so.
+|   +-- INDEPENDENCE: Gould's NOMA (Rocks of Ages 1999). Cost: mutual silence.
+|   +-- DIALOGUE: boundary questions (why a universe, why intelligible, why life-permitting
+|       constants) + methodological parallels. Cost: non-committal.
+|   +-- INTEGRATION: natural theology, theology of nature, process thought. Cost: hostage
+|       to current science.
+|   +-- Alternative frame: Haught — Conflict / Contrast / Contact / CONFIRMATION.
+|   +-- Indian: Vivekananda (claim); Radhakrishnan's levels of one integral experience;
+|       Aurobindo's evolutionary integration; classical root — is sabda an INDEPENDENT
+|       pramana? Carvaka no; Nyaya and Mimamsa yes.
+|   +-- Normative point: technology settles what we CAN do, not what we SHOULD do.
+|   +-- Verdict: dialogue at boundary questions, local conflict only on genuinely
+|       empirical claims. Do NOT narrate Galileo.
 |
-+-- XVI. PUBLIC / PRIVATE REVELATION
-|   +-- Private disclosure can rationally affect recipient.
-|   +-- Public doctrine coercing others needs shareable justification.
-|   +-- Testimonial warrant depends on:
-|       +-- Sincerity.
-|       +-- Competence.
-|       +-- Independent corroboration.
-|       +-- Coherence.
-|       +-- Moral consequences.
-|   +-- Competing revelations do not logically cancel all claims but raise comparative burden.
++-- XVI. INDIAN PARITY BENCH (six rows)
+|   +-- testimony independent? Locke/Hume reduce | Nyaya and Mimamsa: sabda is a pramana;
+|       Carvaka denies it.
+|   +-- validity intrinsic or extrinsic? foundationalism vs proper basicality |
+|       svatah-pramanya vs paratah-pramanya.   <== THE EXACT PARALLEL
+|   +-- whose speech is scripture? God's word | Mimamsa: APAURUSEYA, no author at all.
+|   +-- faith as trust? fides qua; ultimate concern | sraddha; saddha (verification-directed).
+|   +-- reason's role? preambles, coherence, apologetics | manana; tarka auxiliary, never
+|       independently probative in Vedanta.
+|   +-- miracles as authentication? central in the West | India largely DECLINES.
+|   +-- Advaita route: sruti -> sraddha -> sravana -> manana -> nididhyasana -> realisation;
+|       trust is REPLACED by realisation, not preserved.
 |
-+-- XVII. SELF-REVELATION: FAITH OR REASON?
-|   +-- Faith:
-|       +-- Opens trustful participation; personal disclosure cannot be forced by inference.
-|   +-- Reason:
-|       +-- Discerns authenticity and prevents projection.
-|   +-- Qualified answer:
-|       +-- Faith is receptive condition; reason is regulative/authenticating condition.
-|       +-- Neither alone is sufficient.
++-- XVII. EXAMINER TRAPS (write none of these)
+|   +-- "Faith is belief without evidence" — destroys 2020 Q7(c) and 2023 Q6(c) at once.
+|   +-- "Aquinas lets faith contradict reason" — the mysteries EXCEED reason.
+|   +-- Conflating revelation, inspiration and infallibility.
+|   +-- Calling the authorless Veda revelation from a personal God.
+|   +-- Quoting "credo quia absurdum" as verified Tertullian.
+|   +-- Merging objective disclosure with subjective reception in the 2022 answer.
+|   +-- Narrating Galileo instead of using Barbour; treating NOMA as costless.
+|   +-- Saying Hume proved miracles impossible; accepting his definition uncontested.
+|   +-- Clifford without James, or James without living/forced/momentous.
+|   +-- Saying Plantinga makes God's existence self-evident.
+|   +-- Asserting a looser Indian parallel than svatah-/paratah-pramanya.
+|   +-- Ending with "both reason and faith are important".
 |
-+-- OBJECTIONS / REPLIES
-|   +-- Faith is belief without evidence -> reply: faith can rest on testimony/experience
-|       while exceeding evidential compulsion.
-|   +-- Reason destroys mystery -> reply: criticism limits contradiction, not transcendence.
-|   +-- Revelation is circular -> reply: cumulative external/internal criteria, still defeasible.
-|   +-- Will cannot choose belief -> reply: indirect control through attention, trust and practice.
-|   +-- Proper basicality licenses anything -> reply: defeaters and responsible practice constrain.
++-- XVIII. ELEVEN PYQ ROUTES (2018 owns none; 11 of 112 audited Paper II parts)
+|   +-- 2019 Q5(a) 10m — self-revelation: faith or reason -> CHOOSE faith for reception,
+|       reason for regulation; concede the objective-content point.
+|   +-- 2020 Q5(a) 10m — religion vis-a-vis science/technology -> Barbour + costs +
+|       the normative point; correct the warfare thesis and NOMA.
+|   +-- 2020 Q7(c) 15m — tenets of faith; faith vs belief -> seven tenets FIRST, then the
+|       six axes; fides quae/qua, Smith, Tillich, Buber, Gita 17.2-3.
+|   +-- 2021 Q7(a) 20m — reason and faith; reason as regulative -> four functions, faith's
+|       role, then REGULATIVE not CONSTITUTIVE, and name the defeater.
+|   +-- 2022 Q5(d) 10m — faith indispensable for revelation -> one distinction, one
+|       objection, one verdict: RECEPTION not OCCURRENCE.
+|   +-- 2023 Q5(b) 10m — can religious beliefs be justified -> name the STANDARD first;
+|       evidentialism vs proper basicality; svatah-/paratah-pramanya; verdict = diversity.
+|   +-- 2023 Q6(c) 15m — rational and irrational aspects -> THREE categories; the
+|       supra-rational is the answer; give the testable criterion (accepts defeaters).
+|   +-- 2024 Q5(d) 10m — role of reason in religion -> four functions + the limit + Kant
+|       and reply; verdict in regulative terms.
+|   +-- 2024 Q7(b) 15m — epistemic justifications of revelation -> six criteria WITH limits,
+|       circularity and diversity, then RANK them yourself ("own comments").
+|   +-- 2025 Q5(e) 10m — Aquinas' intellectual assent -> the MECHANISM: two storeys, the
+|       three-way location, the hinge; answer voluntarism.
+|   +-- 2025 Q6(c) 15m — natural vs revealed theology -> INSIDE the propositional model;
+|       access criterion; revelation/inspiration/infallibility separated.
 |
-+-- VERIFIED THINKER / TEXT / EXAMPLE BANK
-|   +-- Aquinas, Kierkegaard, Hick, Hume, Plantinga; Mīmāṃsā and Advaita traditions.
-|   +-- Examples: testimony, personal encounter, miracle report, śravaṇa-manana-nididhyāsana.
-|   +-- No fabricated quotations; distinguish attributed doctrine from direct wording.
-|
-+-- HIGH-RISK CONCEPTUAL TRAPS
-|   +-- Reason is not scientism; revelation is not scripture alone.
-|   +-- Faith is not belief, emotion or irrationality alone.
-|   +-- Beyond reason is not against reason.
-|   +-- Natural theology is not revealed theology.
-|   +-- Propositional revelation is not non-propositional encounter.
-|   +-- Kierkegaard is not arbitrary fideism.
-|   +-- Śraddhā is not blind obedience.
-|   +-- Mīmāṃsā Veda is not creator speech.
-|   +-- Properly basic is not incorrigible.
-|   +-- Pragmatic benefit is not truth proof.
-|
-+-- AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-|   +-- Direct verified corpus: 11 questions; no direct 2018 owner.
-|   +-- 2019: faith or reason instrumental to self-revelation [10].
-|   +-- 2020: religion amid science/technology [10]; tenets of faith and faith/belief [15].
-|   +-- 2021: role of reason/faith and reason as regulative force [20].
-|   +-- 2022: whether faith indispensable to revelation [10].
-|   +-- 2023: justification of religious beliefs [10]; rational/irrational faith [15].
-|   +-- 2024: role of reason [10]; epistemic justification of revelation claims [15].
-|   +-- 2025: Aquinas's intellectual assent [10]; natural/revealed theology under
-|       propositional revelation [15].
-|   +-- Status: exact wording/marks verified from local official Paper II corpus.
-|   +-- Official-key status: UPSC Mains provides no official answer key/model answer.
-|
-+-- REVISION CHAIN
-|   +-- Reason/revelation/faith jobs -> natural/revealed theology ->
-|       propositional/non-propositional disclosure -> authority ->
-|       faith/belief -> Aquinas -> Kierkegaard -> śraddhā ->
-|       four stances -> science/religion -> miracles -> evidentialism/basic belief.
-|
-+-- OPTIONAL-PAPER ANSWER SPINE
-|   +-- Define the three epistemic roles.
-|   +-- Locate thinker/tradition and reconstruct justification.
-|   +-- Distinguish assent, trust and revelation content.
-|   +-- Apply reason as constructive and regulative.
-|   +-- Test competing revelation, circularity and defeaters.
-|   +-- Add Indian–Western comparison.
-|   +-- Conclude with responsible faith rather than proof-or-irrationality binary.
-|
-+-- QUALIFIED CONCLUSION
-    +-- Reason cannot manufacture revelation, and faith cannot authenticate itself merely
-        by intensity. Revelation reaches knowers through testimony, interpretation and
-        tradition, so it remains answerable to coherence, evidence and moral fruits.
-        Aquinas shows complementarity, Kierkegaard the irreducible risk of commitment,
-        and Indian śabda traditions alternative forms of disclosure. Religious belief is
-        strongest when trust exceeds proof without claiming exemption from criticism.
++-- XIX. ANSWER SPINE AND QUALIFIED VERDICT
+    +-- 10m: define the term asked -> internal relation -> one distinction -> one objection
+        -> direct verdict.
+    +-- 15m: frame the warrant problem -> the model in steps -> criteria -> rival model or
+        Indian comparison -> objection and reply.
+    +-- 20m: map the three concepts -> strongest harmony and conflict models ->
+        presuppositions -> competing-revelation and evidential objections -> Indian-Western
+        comparison -> defended synthesis.
+    +-- Six-step discipline: define the disputed term | say whether the issue is source,
+        reception, warrant or commitment | reconstruct one named position | add the
+        strongest objection and reply | use one exact Indian comparison | end with a graded
+        verdict AND the defeater that would change it.
+    +-- QUALIFIED VERDICT: rational religion is neither proof without trust nor trust
+        without criticism. Faith may go beyond coercive proof; it forfeits philosophical
+        standing when it claims a right to go AGAINST reason, or exemption from correction.
 ```

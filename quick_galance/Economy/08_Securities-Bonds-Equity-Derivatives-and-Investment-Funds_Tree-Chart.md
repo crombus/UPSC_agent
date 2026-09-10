@@ -1,1030 +1,207 @@
-# Economy 08 - Securities, Bonds, Equity, Derivatives and Investment Funds
+# Economy Topic 8 — Securities, Bonds, Equity, Derivatives and Investment Funds
 
-## Quick-Glance Tree Chart
+**Current-law cutoff:** 9 September 2026  
+**Central thesis:** classify the legal claim, cash flow, priority, optionality, leverage, liquidity promise
+and regulator before comparing return. This is education, not investment advice.
 
 ```text
-SECURITIES, BONDS, EQUITY, DERIVATIVES AND INVESTMENT FUNDS
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-A financial instrument is a contractual claim whose cash flow, priority,
-maturity, liquidity and risk determine its economic character. Debt promises
-contractual payment; equity receives residual value; derivatives transfer or
-create exposure; pooled vehicles hold assets under a mandate. Labels, ratings,
-exchange listing and tokenisation do not remove credit, market, liquidity,
-leverage, governance or custody risk.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-bonds /
-equity;
-coupon /
-yield /
-duration;
-credit spread;
-convertibles;
-futures /
-options /
-swaps;
-hedging /
-speculation;
-mutual funds /
-ETFs /
-AIFs;
-REITs /
-InvITs;
-P-Notes;
-IIBs;
-beta;
-green /
-social bonds;
-tokenisation.
-                              |
-                              v
-MARKET INFRASTRUCTURE:
-Topic 07.
-BANKING:
-Topics 05-06.
-                              |
-                              v
-                BRANCH I: CLAIM-PRIORITY WATERFALL
-ISSUER
-CASH FLOW.
-                              |
-                              v
-OPERATING /
-STATUTORY
-OBLIGATIONS.
-                              |
-                              v
-CONTRACTUAL
-DEBT SERVICE.
-                              |
-                              v
-SECURED /
-SENIOR
-BONDHOLDERS.
-                              |
-                              v
-SUBORDINATED
-DEBT.
-                              |
-                              v
-PREFERENCE
-CLAIMS.
-                              |
-                              v
-EQUITY
-RESIDUAL.
-                              |
-                              v
-HIGHER UPSIDE
-usually accompanies
-lower priority.
-                              |
-                              v
-                BRANCH II: BOND ANATOMY
-FACE VALUE.
-                              |
-                              v
-COUPON RATE.
-                              |
-                              v
-COUPON PAYMENT.
-                              |
-                              v
-MATURITY.
-                              |
-                              v
-REDEMPTION.
-                              |
-                              v
-MARKET PRICE.
-                              |
-                              v
-YIELD.
-                              |
-                              v
-COVENANTS.
-                              |
-                              v
-SECURITY /
-SENIORITY.
-                              |
-                              v
-COUPON
-!= yield.
-                              |
-                              v
-                BRANCH III: PRICE-YIELD LOGIC
-FIXED
-CASH FLOWS.
-                              |
-                              v
-MARKET YIELD
-RISES.
-                              |
-                              v
-PRESENT VALUE
-FALLS.
-                              |
-                              v
-BOND PRICE
-FALLS.
-                              |
-                              v
-MARKET YIELD
-FALLS.
-                              |
-                              v
-BOND PRICE
-RISES.
-                              |
-                              v
-INVERSE
-RELATIONSHIP.
-                              |
-                              v
-LONGER DURATION
-generally more sensitive.
-                              |
-                              v
-CONVEXITY
-refines estimate.
-                              |
-                              v
-                BRANCH IV: CREDIT SPREAD
-BENCHMARK
-YIELD.
-                              |
-                              v
-PLUS
-DEFAULT
-PREMIUM.
-                              |
-                              v
-PLUS
-LIQUIDITY
-PREMIUM.
-                              |
-                              v
-PLUS
-OTHER
-RISK PREMIA.
-                              |
-                              v
-= CORPORATE
-YIELD.
-                              |
-                              v
-CREDIT SPREAD =
-corporate yield
-- benchmark yield.
-                              |
-                              v
-WIDENING
-may signal
-risk /
-illiquidity.
-                              |
-                              v
-RATING
-is opinion,
-not guarantee.
-                              |
-                              v
-                BRANCH V: EQUITY
-OWNERSHIP
-CLAIM.
-                              |
-                              v
-VOTING
-RIGHTS
-as class permits.
-                              |
-                              v
-DIVIDEND
-not contractual.
-                              |
-                              v
-RESIDUAL
-PROFIT.
-                              |
-                              v
-RESIDUAL
-LIQUIDATION
-CLAIM.
-                              |
-                              v
-UNLIMITED
-UPSIDE.
-                              |
-                              v
-HIGH
-LOSS VOLATILITY.
-                              |
-                              v
-EQUITY
-!= guaranteed income.
-                              |
-                              v
-                BRANCH VI: CONVERTIBLE BOND
-DEBT
-AT ISSUE.
-                              |
-                              v
-COUPON /
-MATURITY.
-                              |
-                              v
-CONVERSION
-RIGHT /
-TERMS.
-                              |
-                              v
-POTENTIAL
-EQUITY UPSIDE.
-                              |
-                              v
-LOWER
-COUPON
-possible.
-                              |
-                              v
-DILUTION
-for existing shareholders.
-                              |
-                              v
-CONVERTIBLE
-remains debt
-until conversion.
-                              |
-                              v
-MANDATORY /
-OPTIONAL
-terms differ.
-                              |
-                              v
-                BRANCH VII: INFLATION-INDEXED BOND
-PRINCIPAL
-or coupon
-linked to
-specified inflation index.
-                              |
-                              v
-PROTECT
-REAL RETURN
-partly.
-                              |
-                              v
-INDEX
-CHOICE /
-LAG.
-                              |
-                              v
-MARKET PRICE
-still fluctuates.
-                              |
-                              v
-LIQUIDITY /
-TAX
-effects.
-                              |
-                              v
-INFLATION
-PROTECTION
-!= absence of
-interest-rate /
-credit risk.
-                              |
-                              v
-                BRANCH VIII: DERIVATIVE
-VALUE DERIVED
-FROM UNDERLYING.
-                              |
-                              v
-EQUITY.
-                              |
-                              v
-BOND /
-RATE.
-                              |
-                              v
-CURRENCY.
-                              |
-                              v
-COMMODITY.
-                              |
-                              v
-INDEX.
-                              |
-                              v
-CREDIT.
-                              |
-                              v
-TRANSFER
-or create exposure.
-                              |
-                              v
-NOT
-ownership of underlying
-automatically.
-                              |
-                              v
-                BRANCH IX: FUTURE
-STANDARDISED
-CONTRACT.
-                              |
-                              v
-BUYER
-OBLIGATION.
-                              |
-                              v
-SELLER
-OBLIGATION.
-                              |
-                              v
-FUTURE DATE /
-PRICE.
-                              |
-                              v
-EXCHANGE-TRADED
-commonly.
-                              |
-                              v
-MARGIN.
-                              |
-                              v
-MARK-TO-MARKET.
-                              |
-                              v
-CLEARING
-CORPORATION.
-                              |
-                              v
-SYMMETRIC
-OBLIGATIONS.
-                              |
-                              v
-                BRANCH X: OPTION
-BUYER
-has right,
-not obligation.
-                              |
-                              v
-CALL
-right to buy.
-                              |
-                              v
-PUT
-right to sell.
-                              |
-                              v
-PREMIUM
-paid.
-                              |
-                              v
-WRITER
-has contingent
-obligation.
-                              |
-                              v
-STRIKE.
-                              |
-                              v
-EXPIRY.
-                              |
-                              v
-ASYMMETRIC
-PAYOFF.
-                              |
-                              v
-OPTION BUYER
-loss generally limited
-to premium,
-subject to position.
-                              |
-                              v
-                BRANCH XI: SWAP
-EXCHANGE
-CASH-FLOW STREAMS.
-                              |
-                              v
-INTEREST-RATE
-SWAP.
-                              |
-                              v
-CURRENCY
-SWAP.
-                              |
-                              v
-FIXED /
-FLOATING.
-                              |
-                              v
-COUNTERPARTY
-RISK.
-                              |
-                              v
-COLLATERAL /
-CLEARING
-where applicable.
-                              |
-                              v
-NOT
-exchange of ownership
-in every case.
-                              |
-                              v
-                BRANCH XII: HEDGE vs SPECULATION
-PRE-EXISTING
-EXPOSURE?
-                              |
-                              v
-YES:
-position offsets risk.
-                              |
-                              v
-MATCH
-SIZE /
-TENOR /
-BASIS.
-                              |
-                              v
-HEDGE.
-                              |
-                              v
-NO:
-new net exposure.
-                              |
-                              v
-SPECULATION.
-                              |
-                              v
-SAME CONTRACT
-can hedge
-or speculate.
-                              |
-                              v
-PURPOSE /
-POSITION
-decides.
-                              |
-                              v
-                BRANCH XIII: DERIVATIVE RISKS
-LEVERAGE.
-                              |
-                              v
-MARGIN
-CALL.
-                              |
-                              v
-BASIS
-RISK.
-                              |
-                              v
-LIQUIDITY
-RISK.
-                              |
-                              v
-COUNTERPARTY
-RISK.
-                              |
-                              v
-MODEL
-RISK.
-                              |
-                              v
-VOLATILITY.
-                              |
-                              v
-CONCENTRATION.
-                              |
-                              v
-CLEARING
-reduces,
-not eliminates,
-risk.
-                              |
-                              v
-                BRANCH XIV: MUTUAL FUND
-POOLED
-INVESTOR MONEY.
-                              |
-                              v
-SCHEME
-MANDATE.
-                              |
-                              v
-PORTFOLIO.
-                              |
-                              v
-UNITS.
-                              |
-                              v
-NAV.
-                              |
-                              v
-OPEN-END /
-CLOSE-END
-structure.
-                              |
-                              v
-DEBT /
-EQUITY /
-HYBRID
-schemes.
-                              |
-                              v
-DIVERSIFICATION.
-                              |
-                              v
-MARKET LOSS
-remains.
-                              |
-                              v
-                BRANCH XV: ETF
-FUND
-UNIT.
-                              |
-                              v
-EXCHANGE
-TRADED.
-                              |
-                              v
-TRACKS
-INDEX /
-ASSET
-as mandate specifies.
-                              |
-                              v
-INTRADAY
-MARKET PRICE.
-                              |
-                              v
-NAV
-reference.
-                              |
-                              v
-TRACKING
-ERROR.
-                              |
-                              v
-LIQUIDITY
-depends on
-market making /
-underlying.
-                              |
-                              v
-ETF
-!= individual
-underlying security.
-                              |
-                              v
-                BRANCH XVI: AIF
-ALTERNATIVE
-INVESTMENT FUND.
-                              |
-                              v
-PRIVATELY
-POOLED.
-                              |
-                              v
-CATEGORY I.
-                              |
-                              v
-CATEGORY II.
-                              |
-                              v
-CATEGORY III.
-                              |
-                              v
-DIFFERENT
-strategy /
-leverage /
-purpose.
-                              |
-                              v
-NOT
-mutual fund.
-                              |
-                              v
-CLASSIFICATION
-depends on
-SEBI framework.
-                              |
-                              v
-HIGHER
-complexity /
-suitability concerns.
-                              |
-                              v
-                BRANCH XVII: REIT / InvIT
-POOLED
-VEHICLE.
-                              |
-                              v
-REIT
-real-estate
-cash flows.
-                              |
-                              v
-InvIT
-infrastructure
-cash flows.
-                              |
-                              v
-SPONSOR /
-TRUSTEE /
-MANAGER.
-                              |
-                              v
-UNITS.
-                              |
-                              v
-DISTRIBUTIONS.
-                              |
-                              v
-ASSET /
-PROJECT
-RISK.
-                              |
-                              v
-InvIT
-is not
-government infrastructure grant.
-                              |
-                              v
-                BRANCH XVIII: PARTICIPATORY NOTES
-OFFSHORE
-DERIVATIVE
-INSTRUMENT.
-                              |
-                              v
-ISSUED BY
-REGISTERED FPI
-under rules.
-                              |
-                              v
-UNDERLYING
-INDIAN SECURITIES
-EXPOSURE.
-                              |
-                              v
-INVESTOR
-does not register
-directly in same manner.
-                              |
-                              v
-KYC /
-TRANSPARENCY /
-ROUND-TRIPPING
-concerns.
-                              |
-                              v
-P-NOTE
-!= FPI itself.
-                              |
-                              v
-                BRANCH XIX: BETA
-RELATIVE
-SYSTEMATIC
-VOLATILITY.
-                              |
-                              v
-BETA = 1
-market-like sensitivity.
-                              |
-                              v
-BETA > 1
-higher sensitivity.
-                              |
-                              v
-BETA < 1
-lower sensitivity.
-                              |
-                              v
-NEGATIVE BETA
-opposite tendency
-in model.
-                              |
-                              v
-NOT
-TOTAL RISK.
-                              |
-                              v
-NOT
-GUARANTEED FUTURE
-PERFORMANCE.
-                              |
-                              v
-                BRANCH XX: USE-OF-PROCEEDS BONDS
-GREEN BOND
-environmental projects.
-                              |
-                              v
-SOCIAL BOND
-social projects.
-                              |
-                              v
-SUSTAINABILITY BOND
-green plus social.
-                              |
-                              v
-SUSTAINABILITY-LINKED
-may link issuer targets,
-not ring-fenced proceeds.
-                              |
-                              v
-FRAMEWORK /
-DISCLOSURE /
-REPORTING.
-                              |
-                              v
-LABEL
-does not eliminate
-credit risk.
-                              |
-                              v
-GREENWASHING
-risk.
-                              |
-                              v
-                BRANCH XXI: TOKENISATION
-REAL-WORLD
-ASSET.
-                              |
-                              v
-DIGITAL
-TOKEN
-REPRESENTATION.
-                              |
-                              v
-FRACTIONAL
-ACCESS
-possible.
-                              |
-                              v
-LEDGER /
-PLATFORM.
-                              |
-                              v
-LEGAL
-TITLE.
-                              |
-                              v
-CUSTODY.
-                              |
-                              v
-REDEMPTION.
-                              |
-                              v
-DISCLOSURE.
-                              |
-                              v
-TECHNICAL TOKEN
-does not settle
-property right.
-                              |
-                              v
-TOKENISATION
-!= underlying asset itself.
-                              |
-                              v
-                BRANCH XXII: INVESTOR-PROTECTION STACK
-DISCLOSURE.
-                              |
-                              v
-PRODUCT
-LABELLING.
-                              |
-                              v
-SUITABILITY.
-                              |
-                              v
-REGISTERED
-INTERMEDIARIES /
-ADVISERS.
-                              |
-                              v
-MARGIN.
-                              |
-                              v
-CLEARING /
-SETTLEMENT.
-                              |
-                              v
-CUSTODY.
-                              |
-                              v
-GRIEVANCE
-REDRESS.
-                              |
-                              v
-MARKET /
-BUSINESS
-LOSS
-cannot be eliminated.
-                              |
-                              v
-                BRANCH XXIII: LIMITATIONS
-INFORMATION
-ASYMMETRY.
-                              |
-                              v
-LEVERAGE.
-                              |
-                              v
-ILLIQUIDITY.
-                              |
-                              v
-MODEL
-COMPLEXITY.
-                              |
-                              v
-RATING
-CONFLICT.
-                              |
-                              v
-MIS-SELLING.
-                              |
-                              v
-HERDING.
-                              |
-                              v
-CYBER /
-CUSTODY.
-                              |
-                              v
-REGULATORY
-ARBITRAGE.
-                              |
-                              v
-                    DATA / POLICY / EXAMPLE BANK
-bond price-yield inverse relation.
-                              |
-                              v
-credit spread.
-                              |
-                              v
-future /
-option /
-swap.
-                              |
-                              v
-mutual fund /
-ETF /
-AIF.
-                              |
-                              v
-REIT /
-InvIT.
-                              |
-                              v
-P-Note /
-IIB /
-convertible /
-beta /
-token.
-                              |
-                              v
-                    SOURCE CRITICISM
-debt != equity;
-coupon != yield;
-yield rise generally means bond-price fall;
-rating != guarantee;
-convertible bond != equity before conversion;
-future != option;
-option buyer right != writer right;
-derivative != speculation by definition;
-ETF != stock;
-AIF != mutual fund;
-P-Note != FPI;
-token != legal title;
-green label != low credit risk.
-                              |
-                              v
-                    MAJOR DEBATES
-RISK TRANSFER
-OR RISK CREATION?
-position-dependent.
-                              |
-                              v
-INNOVATION
-OR COMPLEXITY?
-disclosure /
-suitability.
-                              |
-                              v
-PASSIVE
-OR ACTIVE?
-cost /
-tracking /
-selection.
-                              |
-                              v
-TOKENISATION
-OR LEGAL UNCERTAINTY?
-title and custody first.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-bondholders rank before equity;
-coupon is contractual,
-yield market-derived;
-futures bind both sides;
-option buyer has right;
-swap exchanges cash-flow streams;
-beta measures systematic sensitivity;
-IIB index linkage does not remove all risk;
-InvIT owns infrastructure cash-flow exposure;
-P-Notes are offshore access instruments.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-NO ROUTED MAINS DEMAND
-is manufactured.
-                              |
-                              v
-AUDITED OBJECTIVE ROUTES:
-Participatory Notes;
-Inflation-Indexed Bonds;
-convertible bonds;
-InvITs;
-beta;
-AIF classification;
-bondholder priority;
-equity derivatives;
-real-world-asset tokenisation.
-                              |
-                              v
-Official 2018-2023 keys,
-official 2024-2025 keys
-and provisional 2026 keys
-retain ledger status.
-No option or answer letter
-is inferred.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-claim priority
--> bond anatomy
--> price /
-yield /
-spread
--> equity /
-convertible /
-IIB
--> futures /
-options /
-swaps
--> hedge /
-speculate
--> funds /
-REIT /
-InvIT
--> P-Notes /
-beta /
-tokenisation.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-CLASSIFY
-claim /
-cash flow.
-                              |
-                              v
-EXPLAIN
-pricing /
-risk.
-                              |
-                              v
-MAP
-intermediary /
-regulator /
-settlement.
-                              |
-                              v
-IDENTIFY
-use case.
-                              |
-                              v
-QUALIFY
-leverage /
-liquidity /
-protection.
-                              |
-                              v
-CONCLUDE
-fit instrument
-to exposure.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-Financial innovation improves risk sharing and access only when the underlying
-claim, cash-flow priority and legal ownership remain transparent. Investors
-must distinguish yield from coupon, hedging from speculation and token
-representation from title. Regulation should support market depth while
-containing leverage, conflicts, mis-selling and settlement risk.
+DIRECT: debt / equity / hybrid
+DERIVED: forward / future / option / swap
+POOLED: mutual fund / ETF / REIT / InvIT / AIF
+MANAGED OR RETIREMENT: PMS / NPS
+        |
+price + payoff + liquidity + custody + conduct + systemic risk
 ```
+
+## 1. Claim hierarchy
+
+| Claim | Meaning | Boundary |
+|---|---|---|
+| Debt | Contractual creditor claim | Priority is not guaranteed recovery |
+| Equity | Residual ownership claim | Dividend and capital gain are not promised |
+| Preference share | Share capital with priority over ordinary equity | Ordinarily behind creditors |
+| Hybrid | Contract combines debt/equity features | Read actual conversion and loss terms |
+
+## 2. Bond sheet
+
+- Face value: contractual reference principal.
+- Coupon rate: annual coupon / face value.
+- Current yield: annual coupon / market price.
+- YTM: Yield to Maturity, discount rate equating price to promised cash flows through maturity.
+- Duration: cash-flow timing and approximate price sensitivity; not default probability.
+- Convexity: curvature correction beyond duration.
+- Credit spread: excess yield over benchmark reflecting default, liquidity and other premia.
+
+```text
+yield up -> discount rate up -> present value down -> bond price down
+```
+
+**Risks:** default, spread, interest rate, duration, reinvestment, liquidity, inflation, currency, event
+and embedded-option risk.
+
+## 3. Special bond types
+
+| Bond | Decode | Trap |
+|---|---|---|
+| Zero-coupon | No periodic coupon; issued at discount and redeemed later | Zero coupon != zero yield |
+| Floating-rate | Coupon resets to benchmark plus spread | Basis and credit risk remain |
+| Inflation-indexed | Specified cash flow linked to inflation index | No assured after-tax real return |
+| Callable | Issuer may redeem early | Creates investor reinvestment risk |
+| Puttable | Investor may demand redemption | Contract conditions govern |
+| Convertible | Debt may convert into equity | `May convert` != already equity |
+| Masala | Rupee-denominated debt issued overseas | Direct INR risk lies with overseas investor |
+| Green debt | Proceeds linked to eligible environmental uses | Label != credit guarantee |
+
+**SEBI green-debt disclosure/anti-greenwashing framework:** 6 February 2023.  
+**ECB = External Commercial Borrowing; INR = Indian rupee.** Current Masala-bond thresholds must be
+checked in the live RBI ECB framework rather than memorised from old circulars.
+
+## 4. Equity and ratios
+
+- Market capitalisation = market price per share x shares outstanding.
+- EPS = Earnings Per Share = relevant profit / weighted-average ordinary shares.
+- P-E = Price-Earnings ratio; weak with negative or cyclically distorted earnings.
+- P-B = Price-Book ratio; context matters for asset-light firms.
+- Dividend yield = dividend per share / market price; can rise because price fell.
+- Beta = historical co-movement relative to a chosen market benchmark, not guaranteed return.
+
+## 5. Derivative map and payoff
+
+| Contract | Rights/obligations | Venue / risk |
+|---|---|---|
+| Forward | Both parties obligated; customised | Usually OTC; bilateral/cleared exposure |
+| Future | Both parties obligated; standardised | Exchange, CCP, daily MTM and margin |
+| Call | Buyer has right to buy at strike | Writer has contingent obligation |
+| Put | Buyer has right to sell at strike | Premium affects break-even |
+| Swap | Exchange specified cash-flow streams | Rate/currency basis and counterparty risk |
+
+```text
+long call payoff = max(spot - strike, 0) - premium
+long put payoff  = max(strike - spot, 0) - premium
+
+hedge = offsets existing exposure
+speculation = creates/enlarges exposure
+arbitrage = exploits inconsistent prices using offsetting positions
+```
+
+**OTC = Over the Counter; CCP = Central Counterparty; MTM = Mark to Market.**
+
+## 6. Margin and current controls
+
+```text
+price shock -> MTM loss -> variation-margin call -> funding need
+           -> forced sale -> more price pressure -> contagion
+```
+
+- Initial margin covers potential future exposure; variation margin settles current change.
+- SEBI equity-index derivatives strengthening circular: 1 October 2024.
+- SEBI position-monitoring updates: 29 May and 1 September 2025.
+- RBI Margin for Derivative Contracts Directions: 8 May 2024.
+- RBI non-centrally cleared OTC derivative margin directions: updated 21 February 2025.
+- Exchange/CCP control does not abolish leverage, basis, liquidity or operational risk.
+
+## 7. Mutual-fund map
+
+```text
+investor -> units -> trust
+                  -> AMC manages
+                  -> trustee oversees
+                  -> custodian holds assets
+
+NAV = (assets - liabilities) / units outstanding
+```
+
+| Axis | Decode |
+|---|---|
+| Open-ended | Continuing purchase/redemption under applicable NAV rules |
+| Closed-ended | Fixed term; exchange route may provide liquidity |
+| Active | Manager selects securities |
+| Passive/index | Seeks benchmark tracking |
+| ETF | Exchange-Traded Fund; intraday market price may differ from NAV |
+| Equity/debt/hybrid | Underlying asset mix |
+| Direct plan | No distributor commission in plan expenses |
+| Regular plan | Distributor route and commission cost |
+| TER | Total Expense Ratio; reduces scheme return |
+
+**Current framework:** SEBI Mutual Funds Regulations dated 16 January 2026, effective 1 April 2026;
+Master Circular dated 20 March 2026. Current TER caps are scheme/framework-dependent and not frozen here.
+
+## 8. Riskometer and safeguards
+
+- Six levels: Low, Low to Moderate, Moderate, Moderately High, High, Very High.
+- SEBI circular dated 5 November 2024 strengthened expense, return, yield and Riskometer disclosure.
+- SID = Scheme Information Document; KIM = Key Information Memorandum.
+- Trustees oversee; AMC = Asset Management Company; custodian safeguards assets.
+- Segregated portfolio can isolate specified credit-event assets; it does not erase loss.
+- SCORES 2.0 = SEBI Complaints Redress System upgrade announced 1 April 2024.
+- Risk label, past return, rating and registration are not investment guarantees.
+
+## 9. Bounded vehicle comparison
+
+| Vehicle | Core identity | Current anchor |
+|---|---|---|
+| REIT | Real Estate Investment Trust; pooled real-estate cash-flow exposure | SEBI Master Circular 11 Jul 2025 |
+| InvIT | Infrastructure Investment Trust; pooled infrastructure exposure | SEBI Master Circular 11 Jul 2025 |
+| AIF | Alternative Investment Fund; privately pooled category framework | SEBI Master Circular 3 Jun 2026 |
+| PMS | Portfolio Management Services; client-specific management | SEBI Master Circular 16 Jul 2025 |
+| NPS | National Pension System; defined-contribution pension architecture | PFRDA |
+
+**AIF:** Category I includes specified venture/developmental funds; Category II is residual private
+pooling; Category III may use complex/leverage strategies. Hedge funds and venture-capital funds are
+AIFs; direct stocks and bonds are not.
+
+**NPS architecture:** PFRDA = Pension Fund Regulatory and Development Authority; NPS Trust oversees;
+pension funds invest; CRA = Central Recordkeeping Agency; PoP = Point of Presence; custodian holds assets.
+
+## 10. Jurisdiction
+
+| Regulator | Core scope |
+|---|---|
+| SEBI | Domestic listed securities, securities derivatives, mutual funds, AIFs, REITs, InvITs, PMS and conduct |
+| RBI | Government securities and specified OTC rate/foreign-exchange derivatives |
+| PFRDA | NPS and pension intermediaries |
+| IFSCA | International Financial Services Centres Authority; IFSC products, services and institutions |
+
+**GIFT IFSC = Gujarat International Finance Tec-City International Financial Services Centre.**
+IFSCA Fund Management Regulations were notified on 19 February 2025.
+AMFI = Association of Mutual Funds in India, an industry body rather than statutory regulator.
+
+## 11. Topic 7 infrastructure cross-link
+
+- Primary market creates and first allocates a security; secondary market transfers an existing claim.
+- Exchange/OTC execution, clearing, DvP settlement and depository custody are different functions.
+- Depositories Act 1996 section 10: depository is registered owner for transfer; investor remains
+  beneficial owner with substantive rights and liabilities.
+- T+1 is the standard equity cash settlement cycle after the January 2023 transition.
+- Optional T+0 was introduced 28 March 2024 and expanded 10 December 2024; it is not universal
+  instantaneous settlement.
+
+## 12. Market abuse and suitability
+
+- UPSI = Unpublished Price Sensitive Information.
+- Insider Trading Regulations amended through 12 March 2025.
+- PFUTP = Prohibition of Fraudulent and Unfair Trade Practices; regulations amended through 5 December 2025.
+- Insider trading, manipulation, front running, false disclosure and unregistered advice are distinct.
+- Disclosure informs; suitability matches product and investor; grievance systems provide remedy.
+- Registration does not endorse performance.
+
+## 13. Prelims traps and Mains route
+
+1. Fixed income != fixed market price.
+2. Coupon != current yield != YTM.
+3. Duration != maturity or default probability.
+4. Callable benefits issuer; puttable benefits investor.
+5. Green label != repayment guarantee.
+6. Long-option limited loss does not apply to the writer.
+7. Margin != purchase price or maximum loss.
+8. OTC != unregulated.
+9. ETF price can differ from NAV.
+10. Direct plan != direct security ownership.
+11. Diversification != elimination of market/liquidity risk.
+12. REIT, InvIT, AIF, PMS and NPS are different wrappers.
+
+**Mains spine:** define claim/vehicle -> draw payoff/cash flow -> cite dated regulator -> explain
+allocation benefit -> trace leverage/liquidity/conduct risk -> conclude with suitability and resilience.
+
+**Boundary:** Topic 7 owns issue, venue, clearing, depository and settlement plumbing. Topic 9 owns fiscal
+policy. Topic 8 owns product mechanics, derivative payoff, fund structure and investor risk.

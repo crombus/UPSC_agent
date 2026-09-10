@@ -1,1220 +1,170 @@
-# Economy 10 - Taxation, GST, Finance Commission and Fiscal Federalism
+# Economy Topic 10 — Taxation, GST, Finance Commission and Fiscal Federalism
 
-## Quick-Glance Tree Chart
+**Current-source cutoff:** 9 September 2026
+
+## Central thesis
+
+Taxation must be analysed as a chain: legal power -> tax base and rate -> collection and credit ->
+economic incidence -> Union-State assignment -> expenditure accountability. GST harmonises a
+destination-based value-added tax, while the Finance Commission addresses residual vertical and
+horizontal fiscal gaps.
+
+## 1. Tax principles
 
 ```text
-TAXATION, GST, FINANCE COMMISSION AND FISCAL FEDERALISM
-                              |
-                              v
-                     CENTRAL PRINCIPLE
-Tax design determines who is legally liable, who ultimately bears the burden
-and which government receives revenue. GST creates a destination-based value-
-added chain through input tax credit and intergovernmental settlement, while
-the Finance Commission addresses vertical and horizontal fiscal imbalances.
-Cooperative federalism requires harmonisation without erasing state autonomy,
-and devolution must be distinguished from grants, cesses and compensation.
-                              |
-                              v
-                 SCOPE / OWNERSHIP FIREWALL
-OWNS:
-direct /
-indirect taxes;
-incidence;
-progressivity;
-GST /
-ITC /
-IGST;
-subsumed /
-outside taxes;
-GST Council;
-compensation;
-Finance Commission;
-divisible pool;
-vertical /
-horizontal devolution;
-cess /
-surcharge;
-tax administration;
-agricultural-income /
-indirect-transfer edges.
-                              |
-                              v
-BUDGET /
-DEFICITS:
-Topic 09.
-CONSTITUTIONAL
-FEDERALISM DETAIL:
-Polity.
-                              |
-                              v
-                BRANCH I: TAX CLASSIFICATION
-DIRECT TAX
-legal incidence
-on income /
-profit /
-wealth base
-as law provides.
-                              |
-                              v
-INDIRECT TAX
-levied on
-transaction /
-consumption /
-supply.
-                              |
-                              v
-STATUTORY
-INCIDENCE.
-                              |
-                              v
-ECONOMIC
-INCIDENCE.
-                              |
-                              v
-BURDEN
-may shift
-through prices /
-wages /
-returns.
-                              |
-                              v
-DIRECT
-does not guarantee
-burden cannot shift.
-                              |
-                              v
-INDIRECT
-does not mean
-seller bears burden.
-                              |
-                              v
-                BRANCH II: EQUITY PRINCIPLES
-HORIZONTAL
-EQUITY:
-similar capacity,
-similar treatment.
-                              |
-                              v
-VERTICAL
-EQUITY:
-different capacity,
-differentiated burden.
-                              |
-                              v
-PROGRESSIVE
-average tax rate rises
-with base.
-                              |
-                              v
-PROPORTIONAL
-constant rate.
-                              |
-                              v
-REGRESSIVE
-burden proportion
-falls with capacity.
-                              |
-                              v
-STATUTORY RATE
-alone does not prove
-economic progressivity.
-                              |
-                              v
-BASE /
-EXEMPTIONS /
-INCIDENCE
-matter.
-                              |
-                              v
-                BRANCH III: GST CORE
-GOODS AND
-SERVICES TAX.
-                              |
-                              v
-DESTINATION-BASED
-CONSUMPTION TAX.
-                              |
-                              v
-MULTI-STAGE.
-                              |
-                              v
-VALUE-ADDED
-PRINCIPLE.
-                              |
-                              v
-OUTPUT TAX.
-                              |
-                              v
-MINUS
-ELIGIBLE INPUT
-TAX CREDIT.
-                              |
-                              v
-= NET TAX
-ON VALUE ADDITION.
-                              |
-                              v
-FINAL
-BURDEN
-tends toward consumer
-subject to incidence.
-                              |
-                              v
-                BRANCH IV: GST TYPES
-INTRA-STATE
-SUPPLY.
-                              |
-                              v
-CGST.
-                              |
-                              v
-SGST /
-UTGST.
-                              |
-                              v
-INTER-STATE
-SUPPLY.
-                              |
-                              v
-IGST.
-                              |
-                              v
-IMPORT
-treated within
-destination framework
-as law provides.
-                              |
-                              v
-EXPORT
-zero-rated
-under GST framework.
-                              |
-                              v
-ZERO-RATED
-!= exempt.
-                              |
-                              v
-                BRANCH V: ITC CHAIN
-INPUT
-PURCHASE.
-                              |
-                              v
-INPUT TAX
-PAID.
-                              |
-                              v
-OUTPUT
-SUPPLY.
-                              |
-                              v
-OUTPUT TAX
-LIABILITY.
-                              |
-                              v
-ELIGIBLE
-ITC OFFSET.
-                              |
-                              v
-NET TAX
-ON VALUE ADDITION.
-                              |
-                              v
-INVOICE /
-RETURN /
-MATCHING
-discipline.
-                              |
-                              v
-BLOCKED /
-INELIGIBLE
-CREDIT
-creates cost.
-                              |
-                              v
-BROKEN CHAIN
-creates cascading.
-                              |
-                              v
-                BRANCH VI: SUBSUMED UNION TAXES
-CENTRAL
-EXCISE
-on covered items.
-                              |
-                              v
-SERVICE TAX.
-                              |
-                              v
-ADDITIONAL
-CUSTOMS DUTIES
-CVD /
-SAD
-within covered design.
-                              |
-                              v
-OTHER
-SPECIFIED
-UNION LEVIES.
-                              |
-                              v
-SUBSUMPTION
-depends on
-item /
-legal vintage.
-                              |
-                              v
-BASIC
-CUSTOMS DUTY
-not subsumed.
-                              |
-                              v
-                BRANCH VII: SUBSUMED STATE TAXES
-STATE VAT
-on covered goods.
-                              |
-                              v
-CENTRAL SALES TAX
-administrative /
-revenue structure.
-                              |
-                              v
-ENTRY TAX /
-OCTROI
-covered forms.
-                              |
-                              v
-LUXURY TAX.
-                              |
-                              v
-ENTERTAINMENT
-TAX
-except specified
-local-body levy.
-                              |
-                              v
-PURCHASE /
-LOTTERY /
-BETTING
-taxes as GST design provides.
-                              |
-                              v
-VERIFY
-exact tax /
-exception.
-                              |
-                              v
-                BRANCH VIII: OUTSIDE GST
-BASIC
-CUSTOMS DUTY.
-                              |
-                              v
-STAMP
-DUTY.
-                              |
-                              v
-PROPERTY
-TAX.
-                              |
-                              v
-ELECTRICITY
-DUTY.
-                              |
-                              v
-ALCOHOL
-FOR HUMAN CONSUMPTION.
-                              |
-                              v
-SPECIFIED
-PETROLEUM PRODUCTS
-remain outside levy
-until Council /
-law determines inclusion.
-                              |
-                              v
-GST
-did not subsume
-every tax.
-                              |
-                              v
-                BRANCH IX: GST COUNCIL
-ARTICLE 279A.
-                              |
-                              v
-UNION
-FINANCE MINISTER
-chairperson.
-                              |
-                              v
-UNION
-MINISTER OF STATE
-for finance /
-revenue.
-                              |
-                              v
-STATE
-FINANCE /
-TAX
-ministers.
-                              |
-                              v
-RECOMMENDATIONS
-on rates,
-exemptions,
-thresholds,
-model laws,
-special provisions.
-                              |
-                              v
-COOPERATIVE
-FEDERAL FORUM.
-                              |
-                              v
-RECOMMENDATION
-and legal enactment
-remain distinct.
-                              |
-                              v
-                BRANCH X: GST COUNCIL VOTING
-CENTRE
-ONE-THIRD
-WEIGHT.
-                              |
-                              v
-ALL STATES
-TOGETHER
-TWO-THIRDS
-WEIGHT.
-                              |
-                              v
-DECISION
-at least
-THREE-FOURTHS
-weighted votes
-of members present /
-voting
-under framework.
-                              |
-                              v
-CENTRE
-cannot pass alone.
-                              |
-                              v
-STATES
-cannot reach threshold
-without Centre
-if all state votes counted.
-                              |
-                              v
-CONSENSUS
-is practice goal,
-not same as formal
-weighted rule.
-                              |
-                              v
-                BRANCH XI: IGST SETTLEMENT
-INTER-STATE
-SUPPLY.
-                              |
-                              v
-IGST
-COLLECTED.
-                              |
-                              v
-INPUT-CREDIT
-ADJUSTMENT.
-                              |
-                              v
-ORIGIN /
-DESTINATION
-ACCOUNTING.
-                              |
-                              v
-SETTLEMENT
-BETWEEN
-CENTRE /
-STATES.
-                              |
-                              v
-DESTINATION
-JURISDICTION
-receives consumption-linked
-revenue.
-                              |
-                              v
-SETTLEMENT
-depends on
-accurate returns /
-systems.
-                              |
-                              v
-                BRANCH XII: GST COMPENSATION
-STATE
-REVENUE
-TRANSITION RISK.
-                              |
-                              v
-2015-16
-BASE YEAR.
-                              |
-                              v
-14 percent
-ANNUAL
-PROTECTED GROWTH.
-                              |
-                              v
-FIVE YEARS
-2017-2022.
-                              |
-                              v
-COMPENSATION
-CESS.
-                              |
-                              v
-SHORTFALL
-FRAMEWORK.
-                              |
-                              v
-BORROWING /
-COVID
-stress.
-                              |
-                              v
-TRANSITIONAL
-GUARANTEE.
-                              |
-                              v
-NOT
-permanent entitlement.
-                              |
-                              v
-                BRANCH XIII: FINANCE COMMISSION
-ARTICLE 280.
-                              |
-                              v
-CONSTITUTIONAL
-BODY.
-                              |
-                              v
-CONSTITUTED
-periodically
-by President.
-                              |
-                              v
-RECOMMENDS
-distribution of
-net proceeds
-of shareable taxes.
-                              |
-                              v
-GRANTS-IN-AID.
-                              |
-                              v
-LOCAL-BODY
-RESOURCE
-augmentation.
-                              |
-                              v
-OTHER
-REFERRED MATTERS.
-                              |
-                              v
-RECOMMENDATIONS
-not identical
-to GST Council role.
-                              |
-                              v
-                BRANCH XIV: VERTICAL / HORIZONTAL
-VERTICAL
-DEVOLUTION.
-                              |
-                              v
-UNION
-versus
-STATES
-share.
-                              |
-                              v
-HORIZONTAL
-DISTRIBUTION.
-                              |
-                              v
-AMONG
-STATES.
-                              |
-                              v
-CRITERIA
-may include
-income distance,
-population,
-area,
-forest /
-ecology,
-demographic performance,
-tax effort
-as Commission specifies.
-                              |
-                              v
-WEIGHTS
-are Commission-specific.
-                              |
-                              v
-DO NOT
-carry one Commission's
-criteria automatically
-to another.
-                              |
-                              v
-                BRANCH XV: XV / XVI FINANCE COMMISSION
-FIFTEENTH
-FINANCE COMMISSION.
-                              |
-                              v
-VERTICAL
-SHARE
-41 percent
-in owner.
-                              |
-                              v
-SIXTEENTH
-FINANCE COMMISSION.
-                              |
-                              v
-AWARD PERIOD
-2026-27
-to 2030-31.
-                              |
-                              v
-ACCEPTED
-41 percent
-vertical share
-in owner.
-                              |
-                              v
-OTHER
-recommendations
-must be checked
-against official report.
-                              |
-                              v
-LIVE FC PAGES
-blocked in package audit;
-do not invent.
-                              |
-                              v
-                BRANCH XVI: DIVISIBLE POOL
-NET PROCEEDS
-OF SHAREABLE
-UNION TAXES.
-                              |
-                              v
-CONSTITUTIONAL
-DEVOLUTION.
-                              |
-                              v
-EXCLUDES
-taxes /
-amounts
-constitutionally
-outside pool.
-                              |
-                              v
-CESSES.
-                              |
-                              v
-SURCHARGES.
-                              |
-                              v
-COLLECTION COST /
-ASSIGNMENT
-as law applies.
-                              |
-                              v
-GROSS
-CENTRAL TAX REVENUE
-!= divisible pool.
-                              |
-                              v
-                BRANCH XVII: CESS / SURCHARGE
-CESS
-earmarked purpose
-as law provides.
-                              |
-                              v
-SURCHARGE
-additional charge
-on tax.
-                              |
-                              v
-GENERALLY
-not shareable
-through divisible pool
-under constitutional design.
-                              |
-                              v
-HIGHER SHARE
-reduces
-states' untied
-devolution base.
-                              |
-                              v
-CENTRE
-retains fiscal space.
-                              |
-                              v
-FEDERAL
-TRUST /
-TRANSPARENCY
-debate.
-                              |
-                              v
-                BRANCH XVIII: GRANTS
-POST-DEVOLUTION
-REVENUE-DEFICIT
-GRANTS.
-                              |
-                              v
-LOCAL-BODY
-GRANTS.
-                              |
-                              v
-DISASTER
-MANAGEMENT
-GRANTS.
-                              |
-                              v
-SECTOR /
-STATE-SPECIFIC
-grants
-as recommendations provide.
-                              |
-                              v
-TIED /
-UNTIED
-character matters.
-                              |
-                              v
-GRANT
-!= tax devolution.
-                              |
-                              v
-FINANCE COMMISSION
-!= Planning Commission.
-                              |
-                              v
-                BRANCH XIX: FISCAL FEDERALISM
-EXPENDITURE
-RESPONSIBILITIES.
-                              |
-                              v
-REVENUE
-POWERS.
-                              |
-                              v
-VERTICAL
-IMBALANCE.
-                              |
-                              v
-HORIZONTAL
-IMBALANCE.
-                              |
-                              v
-TAX
-DEVOLUTION.
-                              |
-                              v
-GRANTS.
-                              |
-                              v
-GST
-HARMONISATION.
-                              |
-                              v
-BORROWING
-RULES.
-                              |
-                              v
-LOCAL
-FINANCE.
-                              |
-                              v
-COOPERATION /
-AUTONOMY /
-ACCOUNTABILITY.
-                              |
-                              v
-                BRANCH XX: TAX ADMINISTRATION
-CBDT
-UNION DIRECT TAXES.
-                              |
-                              v
-CBIC
-UNION INDIRECT TAX /
-CUSTOMS /
-GST administration.
-                              |
-                              v
-STATE
-GST
-ADMINISTRATIONS.
-                              |
-                              v
-GSTN
-technology network
-role.
-                              |
-                              v
-DGGI
-GST intelligence /
-enforcement.
-                              |
-                              v
-DRI
-customs /
-smuggling intelligence.
-                              |
-                              v
-ED
-specified
-financial-crime statutes.
-                              |
-                              v
-FUNCTIONS
-not interchangeable.
-                              |
-                              v
-                BRANCH XXI: EQUALISATION LEVY
-SPECIFIED
-DIGITAL
-TRANSACTION /
-SERVICE
-HISTORY.
-                              |
-                              v
-DIRECT-TAX-LIKE
-EXTERNAL
-DIGITAL ECONOMY
-MEASURE.
-                              |
-                              v
-LEGAL
-SCOPE /
-RATE /
-REPEAL
-vintage-sensitive.
-                              |
-                              v
-NOT
-GST.
-                              |
-                              v
-DO NOT
-use old provisions
-as current
-without date.
-                              |
-                              v
-                BRANCH XXII: INDIRECT TRANSFER
-OFFSHORE
-SHARE /
-INTEREST
-TRANSFER.
-                              |
-                              v
-SUBSTANTIAL
-VALUE
-derived from
-Indian assets
-under legal test.
-                              |
-                              v
-INDIAN
-TAX NEXUS
-despite offshore form.
-                              |
-                              v
-ANTI-AVOIDANCE /
-TREATY /
-VALUATION
-issues.
-                              |
-                              v
-OFFSHORE
-location
-does not automatically
-remove Indian tax link.
-                              |
-                              v
-                BRANCH XXIII: AGRICULTURAL-INCOME BOUNDARY
-AGRICULTURAL
-INCOME
-defined by statute.
-                              |
-                              v
-LAND
-IN INDIA.
-                              |
-                              v
-AGRICULTURAL
-OPERATIONS.
-                              |
-                              v
-RENT /
-REVENUE /
-PROCESSING
-within conditions.
-                              |
-                              v
-ALLIED
-RURAL ACTIVITY
-not automatically
-agricultural income.
-                              |
-                              v
-RURAL
-AGRICULTURAL LAND
-capital-gains treatment
-depends on
-statutory conditions.
-                              |
-                              v
-LABEL
-"agriculture"
-is insufficient.
-                              |
-                              v
-                BRANCH XXIV: GST BENEFITS
-COMMON
-MARKET.
-                              |
-                              v
-REDUCED
-CASCADING
-through ITC.
-                              |
-                              v
-DIGITAL
-COMPLIANCE /
-TRACEABILITY.
-                              |
-                              v
-DESTINATION
-PRINCIPLE.
-                              |
-                              v
-FORMALISATION
-INCENTIVE.
-                              |
-                              v
-LOGISTICS
-EFFICIENCY.
-                              |
-                              v
-COORDINATED
-RATE SETTING.
-                              |
-                              v
-BENEFITS
-depend on
-simple rates /
-credit flow /
-compliance design.
-                              |
-                              v
-                BRANCH XXV: GST LIMITATIONS
-MULTIPLE
-RATE SLABS.
-                              |
-                              v
-CLASSIFICATION
-DISPUTES.
-                              |
-                              v
-ITC
-BLOCKAGE /
-REFUND DELAY.
-                              |
-                              v
-COMPLIANCE
-COST.
-                              |
-                              v
-INVERTED
-DUTY STRUCTURE.
-                              |
-                              v
-REVENUE
-UNCERTAINTY.
-                              |
-                              v
-STATE
-AUTONOMY
-CONCERNS.
-                              |
-                              v
-EXCLUDED
-PRODUCTS
-fragment chain.
-                              |
-                              v
-ENFORCEMENT /
-FRAUD.
-                              |
-                              v
-                BRANCH XXVI: FEDERAL TRUST
-PREDICTABLE
-DEVOLUTION.
-                              |
-                              v
-TIMELY
-SETTLEMENT.
-                              |
-                              v
-TRANSPARENT
-CESS USE.
-                              |
-                              v
-CONSULTATIVE
-GST DECISIONS.
-                              |
-                              v
-OBJECTIVE
-GRANT CRITERIA.
-                              |
-                              v
-STATE
-FISCAL SPACE.
-                              |
-                              v
-LOCAL-BODY
-CAPACITY.
-                              |
-                              v
-DATA
-RECONCILIATION.
-                              |
-                              v
-COOPERATIVE
-FEDERALISM
-requires credible rules.
-                              |
-                              v
-                BRANCH XXVII: WAY FORWARD
-SIMPLIFY
-GST RATE /
-CLASSIFICATION
-structure.
-                              |
-                              v
-STABILISE
-ITC /
-REFUNDS.
-                              |
-                              v
-BROADEN
-BASE
-fairly.
-                              |
-                              v
-REDUCE
-ARBITRARY
-EXEMPTIONS.
-                              |
-                              v
-PROTECT
-PROGRESSIVITY
-through direct taxes /
-targeted support.
-                              |
-                              v
-STRENGTHEN
-STATE /
-LOCAL
-REVENUE CAPACITY.
-                              |
-                              v
-DISCLOSE
-CESS /
-SURCHARGE
-effects.
-                              |
-                              v
-FOLLOW
-FINANCE COMMISSION
-with transparent action.
-                              |
-                              v
-                    DATA / POLICY / EXAMPLE BANK
-GST
-output tax minus ITC.
-                              |
-                              v
-Article 279A
-Council voting.
-                              |
-                              v
-IGST
-destination settlement.
-                              |
-                              v
-compensation
-2017-22 /
-14 percent /
-2015-16 base.
-                              |
-                              v
-Article 280
-Finance Commission.
-                              |
-                              v
-XV /
-XVI FC
-41 percent.
-                              |
-                              v
-divisible pool /
-cess /
-surcharge.
-                              |
-                              v
-                    SOURCE CRITICISM
-legal incidence != economic burden;
-indirect tax != necessarily regressive in every design;
-GST != one single rate;
-zero-rated != exempt;
-ITC eligibility != automatic refund;
-Council recommendation != tax law by itself;
-IGST collection != final retention by Centre;
-compensation != permanent entitlement;
-devolution != grant;
-gross tax revenue != divisible pool;
-cess != shareable tax;
-one Commission's criteria != another's.
-                              |
-                              v
-                    MAJOR DEBATES
-HARMONISATION
-OR STATE AUTONOMY?
-cooperative rule-making.
-                              |
-                              v
-EFFICIENCY
-OR EQUITY?
-incidence /
-targeting.
-                              |
-                              v
-CESS
-OR DEVOLUTION?
-purpose funding
-versus untied space.
-                              |
-                              v
-DESTINATION
-OR PRODUCING STATE?
-consumption principle
-and transition support.
-                              |
-                              v
-                  HIGH-RISK UPSC TRAPS
-GST is destination-based;
-CGST plus SGST for intra-state;
-IGST for inter-state;
-basic customs duty outside GST;
-alcohol for human consumption outside;
-Council Centre weight one-third,
-states two-thirds,
-threshold three-fourths;
-Finance Commission Article 280;
-GST Council Article 279A;
-devolution base excludes cesses /
-surcharges.
-                              |
-                              v
-       AUTHORITATIVE PYQ OWNERSHIP / ROUTING
-DIRECT MAINS ROUTES
-cover
-taxes subsumed in GST
-and GST compensation framework.
-Mains has no objective answer key.
-                              |
-                              v
-AUDITED OBJECTIVE ROUTES:
-equalisation levy;
-GST exemptions;
-indirect transfers;
-Fifteenth Finance Commission
-criteria;
-enforcement agencies;
-agricultural-income boundaries.
-Official /
-provisional key status
-remains ledger-specific.
-No option or answer letter
-is inferred.
-                              |
-                              v
-                PRELIMS REVISION CHAIN
-direct /
-indirect /
-incidence
--> GST /
-ITC
--> CGST /
-SGST /
-IGST
--> subsumed /
-outside
--> Council voting
--> compensation
--> Finance Commission
--> devolution /
-grants
--> divisible pool /
-cess
--> tax-base edges.
-                              |
-                              v
-                  MAINS ANSWER SPINE
-DEFINE
-tax base /
-incidence /
-destination.
-                              |
-                              v
-TRACE
-GST value-add /
-settlement chain.
-                              |
-                              v
-MAP
-Council /
-Centre /
-states.
-                              |
-                              v
-SEPARATE
-devolution,
-grants,
-compensation,
-cesses.
-                              |
-                              v
-ASSESS
-efficiency /
-equity /
-autonomy.
-                              |
-                              v
-CONCLUDE
-simple,
-predictable,
-cooperative federalism.
-                              |
-                              v
-                  QUALIFIED CONCLUSION
-GST and Finance Commission devolution address different parts of India's fiscal
-union: one harmonises indirect taxation and settles destination revenue, while
-the other corrects vertical and horizontal imbalances. Durable fiscal
-federalism requires simpler credit chains, predictable transfers, transparent
-cesses and respect for state and local fiscal capacity rather than centralisation
-disguised as uniformity.
+BASE + RATE -> STATUTORY LIABILITY -> MARKET ADJUSTMENT -> ECONOMIC BURDEN
+                       |                                  |
+             legal incidence                    prices/wages/returns
 ```
+
+| Term | Decoded meaning | Trap |
+|---|---|---|
+| Direct tax | Legal levy on income, profit or specified gains | Economic burden can still shift |
+| Indirect tax | Levy on supply/transaction/consumption | Seller remittance does not prove seller burden |
+| Progressive | Average burden rises with capacity | Not the same as high revenue |
+| Proportional | Constant burden rate | Distribution can still differ |
+| Regressive | Burden share falls as capacity rises | Need not mean falling invoice rate |
+| Buoyancy | Revenue response including policy/compliance change | Not elasticity |
+| Elasticity | Revenue response net of discretionary change | Requires estimation |
+| Tax expenditure | Benchmark revenue forgone through concession | Not evasion or guaranteed recoverable revenue |
+
+## 2. Constitutional assignment decoded
+
+| Provision | What it does |
+|---|---|
+| Article 246 | Ordinary Union/State/Concurrent legislative distribution through Seventh Schedule |
+| Article 246A | Special GST power: Parliament and States legislate; Parliament exclusive for inter-State GST |
+| Article 248 | Parliamentary residuary power, expressly subject to Article 246A |
+| Article 269A | Union levies/collects inter-State GST; apportionment and place-of-supply law; imports deemed inter-State |
+| Article 270 | Distribution of shareable net Union tax proceeds; specified cesses and Article 271 surcharges excluded |
+| Article 271 | Union surcharge power except GST under Article 246A; proceeds accrue to Union |
+| Article 275 | Grants-in-aid of State revenues |
+| Article 279A | GST Council's composition, recommendations, voting and dispute mechanism |
+| Article 280 | Finance Commission: Chairperson + four members; devolution, grants and local-body augmentation |
+| Article 281 | FC report plus action-taken memorandum laid before Parliament |
+| Article 282 | Union/State grants for any public purpose |
+| Articles 243-I / 243-Y | State Finance Commissions for Panchayats/Municipalities |
+
+**Seventh Schedule boundary:** Union retains income tax other than agricultural income and customs;
+States retain specified fields including taxes on land/buildings and alcoholic liquor for human
+consumption. Article 246A overlays a special GST space; it does not abolish every older entry.
+
+## 3. GST operating architecture
+
+```text
+SUPPLY
+ |-> intra-State -> CGST + SGST/UTGST
+ `-> inter-State/import -> IGST -> credit clearing -> destination apportionment
+
+OUTPUT TAX - ELIGIBLE INPUT TAX CREDIT = NET GST PAYMENT
+```
+
+- **Supply:** statutory taxable event; not every receipt or transfer is taxable.
+- **Place of supply:** determines territorial character and destination.
+- **ITC:** conditional business credit; blocked/exempt-use credit can become cost.
+- **Zero-rated:** exports and authorised SEZ supplies retain statutory credit/refund route.
+- **Exempt/nil-rated:** no output tax, generally attributable-credit restriction.
+- **Non-GST:** outside the levy; do not call it exemption.
+
+## 4. GST perimeter
+
+**Subsumed, bounded examples:** service tax; covered central excises; CVD and SAD; State VAT/sales
+tax; CST as collected; purchase tax; entry/octroi; luxury tax; specified entertainment and
+lottery/betting/gambling taxes.
+
+**Surviving/outside examples:** basic customs duty, stamp duty, electricity duty, property tax and
+State excise on alcohol for human consumption. Petroleum crude, petrol, diesel, natural gas and
+aviation turbine fuel await the date recommended under Article 279A(5).
+
+## 5. GST Council and Mohit Minerals
+
+- **Composition:** Union Finance Minister chairs; Union Minister of State for Revenue/Finance; each
+  State's nominated finance/taxation minister.
+- **Voting:** Centre = one-third weight; States together = two-thirds; decision requires at least
+  three-fourths of weighted votes present and voting; quorum is one-half.
+- **Mohit Minerals, 19 May 2022:** Council recommendations are persuasive, not binding. Article 246A
+  legislative power remains; enacted statutes and valid notifications are binding.
+- **Legal ladder:** recommendation -> legislation/delegated notification -> stated commencement ->
+  administration.
+
+## 6. Dated current GST facts
+
+| Fact | Date/status |
+|---|---|
+| Broad rate rationalisation | Most changes effective 22 September 2025: 5% merit, 18% standard, special 40%, plus nil/other notification-specific treatments |
+| Registration | Goods relief Rs 40 lakh in adopting jurisdictions / Rs 20 lakh in listed jurisdictions from 1 April 2019; services generally Rs 20/10 lakh; Section 24 and other exceptions apply |
+| Composition | Goods Rs 1.5 crore / Rs 75 lakh in specified States; separate service/mixed scheme Rs 50 lakh, effective 1 April 2019 |
+| Compensation transition | Five-year guarantee ended June 2022; 2015-16 base and 14% protected growth |
+| Current compensation cess | Notification 03/2025-Compensation Cess (Rate), dated 31 December 2025, made specified entries nil from 1 February 2026 |
+
+**Never quote an item rate without checking its operative notification.**
+
+## 7. Compliance and reform issues
+
+- GSTN invoice-return-credit trail can improve formalisation, but registration is not proof of
+  productivity or durable formality.
+- **Inverted duty:** input tax rate exceeds output rate -> accumulated credit -> statutory refund and
+  working-capital issue.
+- **Fraud:** fake invoice -> wrongful ITC -> reduced output payment; use risk analytics with due process.
+- Rate multiplicity, classification, refund delay, blocked credit and small-firm compliance remain
+  design concerns.
+
+## 8. Direct-tax architecture
+
+- Income-tax Act, 2025 assented 21 August 2025; Income-tax Rules, 2026 notified 20 March 2026; both
+  commenced 1 April 2026.
+- Earlier periods/proceedings remain governed by applicable earlier law.
+- Personal income, company profits and capital gains are distinct bases.
+- TDS/TCS are advance collection and information mechanisms with credit/reconciliation.
+- Avoid current slab and transaction-rate claims unless financial year and official Finance Act are given.
+
+## 9. Finance Commission and fiscal federalism
+
+```text
+DIVISIBLE POOL
+ |-> VERTICAL: Union versus States
+ `-> HORIZONTAL: inter se State allocation
+
+GRANTS: Article 275 / Article 282 routes
+LOCAL LINK: Union FC augmentation -> State fund -> State FC/local bodies
+```
+
+### Sixteenth Finance Commission — current award
+
+- Constituted **31 December 2023**; report submitted **17 November 2025**.
+- Award period: **2026-27 to 2030-31**, commencing 1 April 2026.
+- Accepted vertical share: **41% of divisible-pool net proceeds**.
+- Accepted horizontal weights: income distance **42.5%**; 2011 population **17.5%**;
+  demographic performance **10%**; area **10%**; forest **10%**; State GDP contribution **10%**.
+- No revenue-deficit, sector-specific or State-specific grants recommended.
+- Accepted local-body grants: **Rs 7,91,493 crore** for 2026-31, subject to constitutional,
+  accounts and State Finance Commission conditions.
+
+## 10. Three institutions — never confuse
+
+| Institution | Constitutional anchor | Core output |
+|---|---|---|
+| GST Council | Article 279A | GST recommendations |
+| Finance Commission | Articles 280-281 | Tax devolution and grant recommendations |
+| Union Budget | Articles 112-117 | Annual estimates, taxation legislation and expenditure authority |
+
+## Prelims traps
+
+1. IGST is Union-collected but apportioned; it is not all Union revenue.
+2. Zero-rated is not exempt.
+3. Non-GST is not nil-rated.
+4. GST Council recommendation is not itself a charging notification.
+5. Mohit Minerals does not make enacted GST optional.
+6. Rs 40 lakh registration relief is not universal.
+7. Composition threshold is not registration threshold.
+8. Compensation guarantee ended in 2022; current cess status requires the 2026 notification.
+9. Forty-one per cent is of divisible-pool net proceeds, not gross receipts.
+10. Horizontal weights divide the States' share; they do not determine the Union-State split.
+11. Cesses/surcharges and ordinary shareable taxes have different Article 270 treatment.
+12. GST Council, Finance Commission and Union Budget are not interchangeable.
+
+## Mains answer spine
+
+**Define -> locate constitutional/statutory authority -> explain mechanism -> name dated evidence ->
+analyse equity/efficiency/federal effect -> state implementation qualification -> conclude with
+transparent harmonisation and accountable autonomy.**
