@@ -1,378 +1,573 @@
-ASCII MASTER FLOW — PANEL 1/12: Where Ethics Enters Everyday Public Life
-CENTRAL FOCUS
-Where Ethics Enters Everyday Public Life
-  [1] Ethics begins where conduct affects another person or public trust.
-        |
-        v
-  [2] Ethics derives from ethikos and points to standards practised as habits.
-        |
-        v
-  [3] Society places standards on itself to guide choices and actions.
-        |
-        v
-  [4] Values orient conduct before a rule is consulted.
-        |
-        v
-  [5] Public duty tests values when authority meets citizen need.
-        |
-        v
-  [6] Private interest can distort judgment at this point of contact.
-        |
-        v
-  [7] Integrity joins declared standards to actual conduct under pressure.
-        |
-        v
-  [8] Corruption is a major manifestation of ethical failure.
-        |
-        v
-VERDICT -> Ethics is lived standards, not merely admirable language.
-ANSWER USE -> Open with ethics as standards guiding conduct, then locate the public interface.
-MUST REMEMBER: Ethics is reasoned evaluation of right conduct, morality is a person or
-  community's held code, values are enduring evaluative commitments, law is publicly
-  enforceable authority, and conscience is reflective moral judgment; overlap never makes
-  these terms synonyms.
-MUST REMEMBER: Ethics is reasoned evaluation of right conduct, morality is a person or...
+====================================================================================================
+  ETHICS AND HUMAN INTERFACE - ASCII MASTER FLOW DIAGRAM
+  GS-IV Topic 01 | Syllabus: essence, determinants and consequences of ethics in human actions;
+  dimensions of ethics; ethics in private and public relationships
+  Primary source: 2nd ARC, 4th Report, "Ethics in Governance", January 2007, Ch.1 paras 1.1-1.22
+====================================================================================================
 
-ASCII MASTER FLOW — PANEL 2/12: Four Ways to Ask an Ethical Question
-CENTRAL FOCUS
-Four Ways to Ask an Ethical Question
-  [1] Descriptive ethics records what a group actually believes or does.
-        |
-        v
-  [2] Normative ethics asks what a person ought to do and why.
-        |
-        v
-  [3] Meta-ethics tests the meaning and truth-status of moral language.
-        |
-        v
-  [4] Applied ethics brings normative standards to a specific professional field.
-        |
-        v
-  [5] A survey on gift-taking is descriptive rather than justificatory.
-        |
-        v
-  [6] A duty or consequence argument is normative rather than descriptive.
-        |
-        v
-  [7] A debate over the meaning of wrong is meta-ethical rather than applied.
-        |
-        v
-  [8] GS-IV primarily rewards normative and applied ethical reasoning.
-        |
-        v
-VERDICT -> Do not confuse a social fact with an ethical justification.
-ANSWER USE -> Name the inquiry level before applying a standard to an administrative case.
+ASCII MASTER FLOW — PANEL 1/29: The Central Question and the Essence of Ethics (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 1/15  THE CENTRAL QUESTION AND THE ESSENCE OF ETHICS            (ARC 1.1 - 1.2)            |
++--------------------------------------------------------------------------------------------------+
+| CENTRAL QUESTION: what makes conduct ethical where public power meets citizen need?              |
+|                                                                                                  |
+|   ETHICS = "a set of standards that society places on itself"                                    |
+|            which "helps guide behaviour, choices and actions"                    [ARC 1.1]       |
+|                    |                                                                             |
+|                    v                                                                             |
+|   BUT: "standards do not, by themselves, ensure ethical behaviour"                               |
+|                    |                                                                             |
+|        +-----------+-----------+-----------------+---------------------+                         |
+|        v                       v                 v                     v                         |
+|   ADOPTION IN ACTION    SANCTIONS AGAINST   COMPETENT DISCIPLINARY   CULTURE OF                  |
+|   (not "bold words")    VIOLATIONS          BODIES ACTING QUICKLY    INTEGRITY                   |
+|        |                       |                 |                     |                         |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 2/29: The Central Question and the Essence of Ethics (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|        +-----------+-----------+-----------------+---------------------+                         |
+|                    v                                                                             |
+|            ETHICAL BEHAVIOUR IN PRACTICE                                                         |
+|                    |                                                                             |
+|                    v  failure of the whole package                                               |
+|            CORRUPTION = "an important manifestation of the failure of ethics"    [ARC 1.2]       |
+|                                                                                                  |
+|   ETYMOLOGY: ethics < Greek ETHIKOS = "arising from habit"                                       |
+|              corrupt < Latin CORRUPTUS = "to break or destroy"                   [ARC 1.2]       |
+|   SCALE:     GRAND corruption (persons in high places)                                           |
+|              RETAIL corruption ("touching the everyday life of common people")   [ARC 1.2]       |
+|                                                                                                  |
+|   ANSWER-GRABBING LINE -> Ethics is not the language a society uses about itself but the         |
+|   conduct it can reproduce under pressure.                                                       |
+|   TRAP -> Defining ethics as "moral values". The definition is SOCIAL and OPERATIONAL.           |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 3/29: Origin and Minimum Chronology - Two Independent Clocks (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 2/15  ORIGIN AND MINIMUM CHRONOLOGY - TWO INDEPENDENT CLOCKS                               |
++--------------------------------------------------------------------------------------------------+
+| CONCEPTUAL CLOCK (undateable)          |  INSTITUTIONAL CLOCK (dateable and examinable)          |
+| ethikos -> ethics as trained habit     |  2001 Nov 30  ADB-OECD Anti-Corruption Action Plan      |
+| corruptus -> breaking a trust          |               endorsed by India                         |
+|                                        |  2003 Oct 31  UNCAC adopted by UNGA (res. 58/4)         |
+| MINIMUM DATING RULE:                   |  2005         Right to Information Act enacted          |
+| the vocabulary is ancient; the Indian  |  2005 Dec 9   India SIGNS UNCAC                         |
+| institutional framework is recent.     |  2006         IMF-World Bank Singapore joint            |
+| Never date an Indian anti-corruption   |               anti-fraud statement                      |
+| institution to the Greek or Latin root.|  2006 Sep     ARC National Colloquium, National         |
+|                                        |               Judicial Academy, Bhopal    [ARC 1.20]    |
+|                                        |  2007 Jan     2nd ARC 4th REPORT "ETHICS IN             |
+|                                        |               GOVERNANCE" - nine chapters [ARC 1.22]    |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 4/29: Origin and Minimum Chronology - Two Independent Clocks (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|                                        |  2011 May 9   India RATIFIES UNCAC                      |
+|                                        |  2020 Sep     Mission Karmayogi (NPCSCB) launched       |
+|                                        |  2026 Feb 6   PIB: 1.49 crore users, 4,342 courses,     |
+|                                        |               4,342 courses, 7.26 cr completions        |
+|                                                                                                  |
+| THE REPORT'S THREE TERMS OF REFERENCE ON ETHICS                                  [ARC 1.18]      |
+|   A. Vigilance and Corruption          -> EXAMINED IN THIS REPORT                                |
+|   B. Political Executive <-> Permanent -> DEFERRED to the ARC report on Civil Services Reforms   |
+|      Civil Service relationship                                                  [ARC 1.19]      |
+|   C. Codes of Conduct for organs of    -> EXAMINED IN THIS REPORT                                |
+|      Government                                                                                  |
+|                                                                                                  |
+|   TRAP -> India is NOT a party to the OECD Anti-Bribery Convention, 1997. Signature (2005)       |
+|   is not ratification (2011).                                                                    |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 5/29: Dimensions I - The Four Levels of Ethical Enquiry (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 3/15  DIMENSIONS I - THE FOUR LEVELS OF ETHICAL ENQUIRY                                    |
++--------------------------------------------------------------------------------------------------+
+|  LEVEL          QUESTION ASKED                 TEST CASE                      GS-IV WEIGHT       |
+|  -----          --------------                 ---------                      -----------        |
+|  DESCRIPTIVE    what do people in FACT         survey of officers' attitudes  one line           |
+|                 believe or do?                 to gift-taking                                    |
+|       |                                                                                          |
+|       |  IS -> OUGHT GAP : never cross silently. "Everyone does it" settles nothing.             |
+|       v                                                                                          |
+|  NORMATIVE      what OUGHT to be done, and     should the officer accept      HIGH               |
+|                 on what ground? (duty /        the gift?                                         |
+|                 consequence / virtue /                                                           |
+|                 justice / care)                                                                  |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 6/29: Dimensions I - The Four Levels of Ethical Enquiry (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|       |                                                                                          |
+|       v                                                                                          |
+|  META-ETHICS    what do moral words MEAN;      is "wrong" a fact or an        at most one line   |
+|                 can they be true?              attitude?                                         |
+|       |                                                                                          |
+|       v                                                                                          |
+|  APPLIED        what should THIS field do      administrative / medical /     HIGH               |
+|                 in THIS case?                  business / environmental / AI                     |
+|                                                                                                  |
+|  ANSWER-GRABBING LINE -> Every administrative dispute begins with a category error: a            |
+|  descriptive fact about custom is offered as a normative reason for right conduct.               |
+|  TRAP -> Over-writing meta-ethics. When a live decision is present, the level is APPLIED.        |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 7/29: Dimensions II - Six Working Dimensions of One Public Decision
++--------------------------------------------------------------------------------------------------+
+| PANEL 4/15  DIMENSIONS II - SIX WORKING DIMENSIONS OF ONE PUBLIC DECISION                        |
+|             (the exact demand set in 2024 GS-IV Q1(b), owned by this topic)                      |
++--------------------------------------------------------------------------------------------------+
+|  DIMENSION                  QUESTION IT FORCES                  FAILURE IT CATCHES               |
+|  ---------                  ------------------                  ------------------               |
+|  1 DUTY / RIGHTS            is this person an entitlement-       using a citizen as a means      |
+|                             holder, treated as an end?           or as an object of favour       |
+|  2 CONSEQUENCES             who is harmed, how much, how         good intention with             |
+|                             foreseeably?                         foreseeable damage              |
+|  3 JUSTICE / FAIRNESS       are like cases treated alike; is     silent, unexplained unequal     |
+|                             exclusion reasoned and recorded?     treatment                       |
+|  4 VIRTUE / CHARACTER       what does this decision habituate    situational courage,            |
+|                             me into becoming?                    selective honesty               |
+|  5 CARE / EMPATHY           what does the most vulnerable         procedural correctness that    |
+|                             claimant actually need?              is humanly blind                |
+|  6 ACCOUNTABILITY /         can I state my reasons publicly       decisions that survive only    |
+|    TRANSPARENCY             and be reviewed?                     while unexamined                |
+|                                                                                                  |
+|  MUTUAL-CHECK RULE -> rigid duty ignores hardship | outcome-only reasoning rationalises unfair   |
+|  means | care without fairness becomes favouritism | transparency without care exposes the weak  |
+|                                                                                                  |
+|  ANSWER-GRABBING LINE -> A decision is ethical not because one dimension is satisfied well but   |
+|  because it survives all six, and because the officer named the conflict instead of hiding it.   |
+|  TRAP -> Answering "dimensions" with a list of virtues. Dimensions are RESPECTS OF EVALUATION.   |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 8/29: The Precision Grid - Six Words, Six Different Tests (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 5/15  THE PRECISION GRID - SIX WORDS, SIX DIFFERENT TESTS                                  |
++--------------------------------------------------------------------------------------------------+
+|  ETHICS      systematic reasoned standard   -> "can this conduct be justified by argument?"      |
+|  MORALITY    beliefs and practices HELD     -> "what does this person or community hold right?"  |
+|  VALUES      enduring evaluative commitment -> "what do I consistently prize across cases?"      |
+|  LAW         enacted, enforceable authority -> "does an enacted rule permit or forbid this?"     |
+|  PROPRIETY   fitness to office and occasion -> "would a reasonable citizen see this as suited    |
+|                                                 to the office?"                                  |
+|  CONSCIENCE  reflective inner judgment      -> "can I answer for this to myself on reflection?"  |
+|                                                                                                  |
+|                  LEGAL?    MORAL?    PROPER?                                                     |
+|   CASE A          yes       yes       yes     -> unproblematic                                   |
+|   CASE B          yes       yes       NO      -> lavish dinner hosted by a bidder                |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 9/29: The Precision Grid - Six Words, Six Different Tests (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|   CASE C          yes       NO        NO      -> harsh but lawful eviction                       |
+|   CASE D          NO        yes       ---     -> conscientious refusal (still unlawful: Topic 10)|
+|                                                                                                  |
+|   ARC BOX 2.3 "NEED FOR ETHICAL CODE" (Senator Fulbright; Senate Ethics Manual, 2003 ed., p.6)   |
+|     "...those who, under the guise of friendship, accept favors, which offend the spirit of      |
+|      the law but do not violate its letter"                                                      |
+|     "...among so many influential people, morality has become identical with legality. We are    |
+|      certainly in a tragic plight if the accepted standard by which we measure the integrity     |
+|      of a man in public life is that he keep within the letter of the law."                      |
+|                                                                                                  |
+|   REMEDY MAP -> illegality: sanction | immorality: argument | impropriety: disclosure, recusal   |
+|   ANSWER-GRABBING LINE -> Legality is the floor of public conduct and propriety is its ceiling.  |
+|   TRAP -> "If it is legal, no ethical question arises." Box 2.3 exists to reject that.           |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 10/29: Determinants I - Inside the Person, and the Incentive Rule (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 6/15  DETERMINANTS I - INSIDE THE PERSON, AND THE INCENTIVE RULE       (ARC 1.4 - 1.5)     |
++--------------------------------------------------------------------------------------------------+
+|   NESTED LAYERS AROUND ONE ACT                                                                   |
+|     SOCIETY  (norms, tolerance of corruption, public cynicism)                    [ARC 1.3]      |
+|       > ORGANISATION  (work culture, what the boss rewards, peer practice)                       |
+|           > FAMILY + EDUCATION  (earliest habituation, role models, civil education)             |
+|               > THE PERSON  (conscience, values, temperament, courage)                           |
+|                                     |                                                            |
+|                                     v                                                            |
+|                       THE ACT AT THE COUNTER / ON THE FILE                                       |
+|                                                                                                  |
+|   ARC's OWN FINDING ON SUPPLY OF VALUES                                          [ARC 1.5]       |
+|     "Values ... exist in abundance in our society"                                               |
+|     "A sense of right and wrong is intrinsic to our culture and civilization"                    |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 11/29: Determinants I - Inside the Person, and the Incentive Rule (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|        => the scarce input is NOT values; it is conditions in which acting on them is survivable |
+|                                                                                                  |
+|   THE INCENTIVE RULE                                                             [ARC 1.4]       |
+|     good behaviour consistently REWARDED + bad behaviour consistently PUNISHED                   |
+|        -> "the bulk of the people follow the straight and narrow path"                           |
+|     good behaviour "fraught with difficulties" + bad behaviour "extravagantly rewarded"          |
+|        -> "the bulk of the people tend to stray from the honourable path"                        |
+|                                                                                                  |
+|   LIVE INSTRUMENT -> Mission Karmayogi: citizen-government interface, functional AND             |
+|   behavioural competencies, rules-based to roles-based shift, six pillars incl. iGOT.            |
+|   ANSWER-GRABBING LINE -> The operative question is not whether officials know what is right     |
+|   but what it costs them to do it.                                                               |
+|   TRAP -> Reducing "determinants" to upbringing and education alone.                             |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 12/29: Determinants II - The Bundle and the Three Indian Aggravators (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 7/15  DETERMINANTS II - THE BUNDLE AND THE THREE INDIAN AGGRAVATORS    (ARC 1.5 - 1.7)     |
++--------------------------------------------------------------------------------------------------+
+|   THE RISK-CREATING BUNDLE                                                       [ARC 1.5]       |
+|     PUBLIC OFFICE = AUTHORITY + DISCRETION + CONTROL OVER THE PUBLIC PURSE                       |
+|       -> "enormous temptation and opportunity to promote private gain at public cost"            |
+|       -> therefore "creation of institutions and designing of incentives are of utmost           |
+|          importance in promoting ethical conduct of public servants"                             |
+|                                                                                                  |
+|   AGGRAVATOR 1  COLONIAL LEGACY                                                  [ARC 1.6]       |
+|     "unchallenged authority and propensity to exercise power arbitrarily"                        |
+|     "In a society which worships power, it is easy for public officials to deviate from          |
+|      ethical conduct."                                                                           |
+|                                                                                                  |
+|   AGGRAVATOR 2  ASYMMETRY OF POWER   [2007 ILLUSTRATIVE FIGURES - NOT CURRENT]   [ARC 1.6]       |
+|     ~90% of people in the unorganized sector, many on subsistence wages, no job security         |
+|     ~70% of organized workers with job security and regular monthly wage employed by the state   |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 13/29: Determinants II - The Bundle and the Three Indian Aggravators (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|        directly or through PSUs; "educated" in a largely illiterate society; employment comes    |
+|        "with all the trappings of power"                                                         |
+|     => "reduces societal pressure to conform to ethical behaviour"                               |
+|                                                                                                  |
+|   AGGRAVATOR 3  EARLY POLICY CHOICE - UNINTENDED CONSEQUENCE                     [ARC 1.7]       |
+|     over-regulation + severe restrictions + excessive state control + near-monopoly +            |
+|     economy of scarcity + subsidies under power asymmetry                                        |
+|     => "converted the public servant into patron and master and reduced most citizens into       |
+|         mendicants"                                                                              |
+|     => raised corruption opportunity AND reduced "the citizens' capacity to resist               |
+|         extortionary demands"                                                                    |
+|                                                                                                  |
+|   ANSWER-GRABBING LINE -> The Indian interface is not ethically fragile by accident; three       |
+|   named aggravators converted routine administration into a site of extraction.                  |
+|   TRAP -> Citing the 90%/70% figures as current data, or calling the policy choice deliberate.   |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 14/29: Determinants III - The Two Multipliers (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 8/15  DETERMINANTS III - THE TWO MULTIPLIERS                           (ARC 1.8 - 1.9)     |
++--------------------------------------------------------------------------------------------------+
+|   MULTIPLIER 1                                                                   [ARC 1.8]       |
+|     MONOPOLY + DISCRETION      ---> INCREASE the propensity to corruption                        |
+|     COMPETITION + TRANSPARENCY ---> REDUCE corruption                                            |
+|       evidence: "As competition came in and choice expanded, corruption plummeted."              |
+|       NAMED SECTORS: TELEPHONES, STEEL, CEMENT, SUGAR, TWO-WHEELERS                              |
+|       NAMED SERVICES via computerisation and access to information:                              |
+|                      RAILWAY RESERVATION | ISSUING OF DRIVING LICENSES                           |
+|                                                                                                  |
+|   MULTIPLIER 2                                                                   [ARC 1.9]       |
+|     OVER-CENTRALISATION -> "the more remotely power is exercised from the people, the greater    |
+|     is the distance between authority and accountability"                                        |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 15/29: Determinants III - The Two Multipliers (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|       - many functionaries between citizen and final decision-maker -> accountability diffused   |
+|       - "For a large democracy, India probably has the smallest number of final decision         |
+|          makers"                                                                                 |
+|       - "Local Government is not allowed to take root"; power concentrated horizontally AND      |
+|          vertically -> "weakened citizenry and mounting corruption"                              |
+|                                                                                                  |
+|   BOUNDARY CASE -> a transparent, automated single-window monopoly can be LOW-corruption.        |
+|   The operative variable is DISCRETION WITHOUT TRANSPARENCY, not monopoly as such.               |
+|   EXCLUSION LIMIT -> automation can exclude the digitally weak and recreate a rent through       |
+|   intermediaries; an assisted offline channel with the same time guarantee is the safeguard.     |
+|   ANSWER-GRABBING LINE -> Corruption fell not because officials became honest but because        |
+|   citizens acquired an alternative.                                                              |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 16/29: The Determinant Ceiling - Political Market and Migration (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 9/15  THE DETERMINANT CEILING - POLITICAL MARKET AND MIGRATION             (ARC 1.12)      |
++--------------------------------------------------------------------------------------------------+
+|   "Perhaps the most important determinant of the integrity of a society or the prevalence of     |
+|    corruption is THE QUALITY OF POLITICS."                                                       |
+|                                                                                                  |
+|   IF POLITICS ATTRACTS AND REWARDS            |  IF HONESTY IS INCOMPATIBLE WITH SURVIVAL        |
+|   integrity, competence, passion for          |  IN POLITICS, and public life attracts           |
+|   public good                                 |  "undesirable and corrupt elements"              |
+|        -> "the society is safe and integrity  |     -> "abuse of authority and corruption        |
+|            is maintained"                     |         become the norm"                         |
+|                                               |     -> "desirable initiatives will not yield     |
+|                                               |         adequate dividends"                      |
+|                                                                                                  |
+|   THE MIGRATION EFFECT                                                                           |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 17/29: The Determinant Ceiling - Political Market and Migration (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|     competition + decentralisation reduce corruption in CERTAIN sectors                          |
+|        BUT if demand is fuelled by "inexhaustible appetite for illegitimate funds in politics"   |
+|        -> "other avenues of corruption will be forcibly opened up"                               |
+|        -> corruption "shifts to other, sometimes more dangerous, areas in which competition      |
+|            cannot be introduced and the state exercises a NATURAL MONOPOLY"                      |
+|            [land | mining leases | discretionary permissions | policing | clearances]            |
+|                                                                                                  |
+|   PRESCRIPTION -> "What is needed with liberalisation is corresponding POLITICAL AND GOVERNANCE  |
+|   REFORM to alter the incentives in politics and public office."                                 |
+|                                                                                                  |
+|   INFERENCE (labelled) -> if corruption were purely dispositional, liberalisation, which         |
+|   changed incentives and not characters, should not have reduced it - yet ARC 1.8 records that   |
+|   it did. This is the strongest internal argument that the diagnosis is STRUCTURAL.              |
+|   TRAP -> Concluding that competition and technology have "solved" corruption in India.          |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 18/29: Consequences I - Six Channels of Damage (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 10/15  CONSEQUENCES I - SIX CHANNELS OF DAMAGE       (Preface; ARC 1.2, 1.3, 1.7, 1.16)    |
++--------------------------------------------------------------------------------------------------+
+|   [1] TRANSACTIONAL   delays, harassment, lost opportunity, loss of precious time and wages,     |
+|                       uncertainty, "at times, potential danger of loss of life or limb"          |
+|                       - these are the costs of RESISTING corruption            [ARC 1.13]        |
+|   [2] DISTRIBUTIVE    retail corruption "touching the everyday life of common people"            |
+|                       - the poor pay the highest effective price               [ARC 1.2]         |
+|   [3] RELATIONAL      public servant becomes "patron and master"; citizens "reduced into         |
+|                       mendicants"                                              [ARC 1.7]         |
+|   [4] SYSTEMIC        "large-scale generation of black money, serious economic offences and      |
+|                       fraud, and money laundering leading even to the funding of terrorist       |
+|                       activities against the State"                            [ARC 1.16]        |
+|   [5] LEGITIMACY      interventions seen as "mere posturing"; used "for partisan, political      |
+|                       use to harass opponents"; "most people regard corruption as inevitable     |
+|                       and any effort to fight it as futile"; this cynicism "bodes ill for our    |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 19/29: Consequences I - Six Channels of Damage (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|                       democratic system itself"                                [ARC 1.3]         |
+|   [6] DEVELOPMENTAL   "Improved governance in the form of non-expropriation, contract            |
+|                       enforcement, and decrease in bureaucratic delays and corruption can        |
+|                       raise the GDP growth rate significantly"                 [Preface]         |
+|                                                                                                  |
+|   SIX GOVERNANCE-QUALITY MEASURES NAMED IN THE PREFACE: voice and accountability; absence of     |
+|   political instability and violence; government effectiveness; reasonableness of the            |
+|   regulatory burden; the RULE OF LAW; and the ABSENCE OF GRAFT (last two most directly           |
+|   significant for ethical governance).                                                           |
+|                                                                                                  |
+|   POSITIVE MIRROR -> predictability lowers transaction risk | equal treatment builds social      |
+|   harmony and lowers enforcement cost | reviewable reasons reduce disputes and speed disposal.   |
+|   ANSWER-GRABBING LINE -> The gravest consequence is not the bribe but the belief that the       |
+|   bribe is inevitable.                                                                           |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 20/29: Consequences II - Coercive versus Collusive Corruption (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 11/15  CONSEQUENCES II - COERCIVE vs COLLUSIVE CORRUPTION                  (ARC 1.13)      |
++--------------------------------------------------------------------------------------------------+
+|                        COERCIVE                          COLLUSIVE                               |
+|  WHO PAYS         citizen entitled to the service    bribe-giver who WANTS the irregular         |
+|                                                       outcome                                    |
+|  CITIZEN'S        "an unwilling victim of coercive    a beneficiary, not a victim                |
+|  POSITION          corruption"                                                                   |
+|  WHO GAINS        only the official                   "both parties benefit at immense cost      |
+|                                                        to society"                               |
+|  WHY IT PERSISTS  "a vicious cycle"; citizens "often  no complaining witness - neither side      |
+|                    end up losing much more by          wants to report                           |
+|                    resisting corruption"                                                         |
+|  ARC's NAMED      (extraction for an entitled         awarding of contracts for public works;    |
+|  EXAMPLES          service)                            procurement of goods and services;        |
+|                                                        recruitment of employees; evasion of      |
+|                                                        taxes; substandard projects; collusive    |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 21/29: Consequences II - Coercive versus Collusive Corruption (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|                                                        violation of regulations; adulteration    |
+|                                                        of foods and drugs; obstruction of        |
+|                                                        justice; concealing or doctoring          |
+|                                                        evidence in investigation                 |
+|                                                                                                  |
+|  TREND -> "As the economy is freed from state controls, EXTORTIONARY corruption DECLINES and     |
+|  COLLUSIVE corruption tends to INCREASE" - "undermining the very foundations of our democracy"   |
+|                                                                                                  |
+|  REMEDY SPLIT                                                                                    |
+|   COERCIVE  -> time-bound service guarantee | published fee | single window | automation of the  |
+|                discretionary step | safe complaint channel | protection of the complainant       |
+|   COLLUSIVE -> procurement transparency | third-party technical audit | asset and beneficial-    |
+|                interest scrutiny | whistle-blower protection | investigate BOTH sides            |
+|  BOUNDARY -> categories blur; a firm first extorted may later seek advantage. Labels follow      |
+|  facts, not stereotypes about bribe-givers.                                                      |
+|  TRAP -> "All corruption is the citizen's fault." ARC 1.13 says the opposite for extortion.      |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 22/29: Ethics in Private and Public Relationships (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 12/15  ETHICS IN PRIVATE AND PUBLIC RELATIONSHIPS                          (ARC 1.17)      |
++--------------------------------------------------------------------------------------------------+
+|   PRIVATE RELATIONSHIP                       |  PUBLIC RELATIONSHIP                              |
+|   partiality is LEGITIMATE                   |  partiality is a BREACH                           |
+|   trust is personal                          |  trust is FIDUCIARY - held for others             |
+|   resources are your own                     |  resources are ENTRUSTED, not owned               |
+|   discretion is liberty                      |  discretion is a DELEGATED POWER                  |
+|   accountable to persons you love            |  accountable to the public, in reasons capable    |
+|                                              |  of disclosure                                    |
+|                                                                                                  |
+|   THREE CROSSING POINTS AT THE INTERFACE                                                         |
+|     NEPOTISM / FAVOURITISM  -> private partiality imported into a public role                    |
+|     CONFLICT OF INTEREST    -> private stake in a public decision; the wrong is that the         |
+|                                decision can no longer be SHOWN to be impartial                   |
+|                                remedies: DISCLOSE - RECUSE - REALLOCATE (in writing)             |
+|     GIFTS / HOSPITALITY /   -> private benefit readable as a price for a public act              |
+|     POST-RETIREMENT OFFERS     (the Box 2.3 class: spirit of the law, not its letter)            |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 23/29: Ethics in Private and Public Relationships (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|                                                                                                  |
+|   THE PUBLIC TEST -> not "did I feel biased?" but "can I state this reason publicly, and would   |
+|   the citizen who LOST accept it as a reason?"                                                   |
+|                                                                                                  |
+|   THE REPORT'S OWN EXTENSION BEYOND GOVERNMENT                                   [ARC 1.17]      |
+|     ethics in governance "has a much wider import than what happens in the different arms of     |
+|     the government"; the effort must include                                                     |
+|       - corporate ethics and ethics in business: a "paradigm shift from the pejorative           |
+|         'business ethics' to 'ethics in business'"                                               |
+|       - "ethics in every profession, voluntary organization and civil society structure"         |
+|       - "finally, there should be ethics in citizen behaviour because such behaviour impinges    |
+|          directly on ethics in government and administration"                                    |
+|                                                                                                  |
+|   RECIPROCITY LIMIT -> citizen duty applies with full force to COLLUSIVE conduct and only        |
+|   weakly where the citizen is COERCED (ARC 1.13).                                                |
+|   ANSWER-GRABBING LINE -> Almost every failure at the human interface is the importation of a    |
+|   private relationship structure into a role held in trust for strangers.                        |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 24/29: The Three Corrective Levers (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 13/15  THE THREE CORRECTIVE LEVERS                              (ARC 1.8, 1.10, 1.11,      |
+|                                                                              1.15, 1.16)         |
++--------------------------------------------------------------------------------------------------+
+|   LEVER 1  STRUCTURAL - remove the three gaps                                                    |
+|     ALTERNATIVE gap  -> competition and choice                                   [ARC 1.8]       |
+|     INFORMATION gap  -> transparency, published rule and fee                                     |
+|     DISCRETION gap   -> automation of corruption-prone processes                 [ARC 1.15]      |
+|     ARC 1.15 named Indian initiatives: Supreme Court ruling requiring candidates to file         |
+|       WEALTH + EDUCATIONAL QUALIFICATIONS + CRIMINAL ANTECEDENTS with nomination papers;         |
+|       the RIGHT TO INFORMATION ACT ("a potent weapon to fight corruption");                      |
+|       ICT / e-governance / automation of corruption-prone processes                              |
+|                                                                                                  |
+|   LEVER 2  CITIZEN EMPOWERMENT - six instruments in one sentence                 [ARC 1.10]      |
+|     [1] Right to Information                    -> ends the informational monopoly               |
+|     [2] effective citizens' charters            -> converts a favour into a declared standard    |
+|     [3] opportunity + incentives for proactive  -> turns a passive recipient into a claimant     |
+|         citizens                                                                                 |
+|     [4] stakeholders' involvement in delivery   -> puts the affected party inside the chain      |
+|     [5] public consultation in decision-making  -> exposes reasons BEFORE the decision           |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 25/29: The Three Corrective Levers (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|     [6] social auditing                         -> tests the record against lived reality        |
+|     ARC's verdict: instruments that "dramatically curbed corruption and promoted integrity and   |
+|     quality of decision making"                                                                  |
+|     CAPTURE LIMIT -> each presupposes literacy, awareness, time and organisation; without        |
+|     facilitation and proactive disclosure the asymmetry reappears inside the remedy.             |
+|                                                                                                  |
+|   LEVER 3  PREVENTION *AND* PUNISHMENT - never either/or                    [ARC 1.11, 1.16]     |
+|     "enforcement of rule of law and deterrent punishment against corruption are critical to      |
+|      build an ethically sound society"                                                           |
+|     ALSO REQUIRED: "a detailed analysis of our anti-corruption mechanisms and the CAUSES OF      |
+|      THEIR FAILURE"                                                                              |
+|     ARC 1.16 RECOMMENDATIONS (status: recommendations of January 2007, not then law)             |
+|       - forfeiture of BENAMI properties and of assets illegally acquired                         |
+|       - WHISTLEBLOWER LEGISLATION to protect informants "against retribution"                    |
+|       - stronger institutional framework for INVESTIGATION                                       |
+|       - EXEMPLARY PUNISHMENT "thereby raising the risk associated with corrupt behaviour"        |
+|     ARITHMETIC -> prevention lowers OPPORTUNITY; punishment raises RISK. Remove only one and     |
+|     the product stays positive.                                                                  |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 26/29: The Synthesis and the National-Power Application (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 14/15  THE SYNTHESIS AND THE NATIONAL-POWER APPLICATION           (ARC 1.4 - 1.5)          |
++--------------------------------------------------------------------------------------------------+
+|   TWO CONTRARY ONE-CAUSE APPROACHES                                              [ARC 1.4]       |
+|     A "OVEREMPHASIS ON VALUES AND CHARACTER" - "until values are restored, nothing much can      |
+|       be done to improve the conduct of human beings"                                            |
+|         strength: disposition matters | weakness: cannot explain the ARC 1.8 sectoral fall       |
+|     B "DEVIANT MINORITY" - most people are "fundamentally decent and socially conscious";        |
+|       organised government exists to punish the deviant few                                      |
+|         strength: consistent reward/punishment works | weakness: treats the system as neutral    |
+|                                                                                                  |
+|   ARC'S OWN SYNTHESIS                                                            [ARC 1.5]       |
+|     "In the real world, BOTH values and institutions matter."                                    |
+|     "Values are needed to serve as guiding stars, and they exist in abundance in our society."   |
+|     "VALUES WITHOUT INSTITUTIONAL SUPPORT WILL SOON BE WEAKENED AND DISSIPATED."                 |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 27/29: The Synthesis and the National-Power Application (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|     "INSTITUTIONS PROVIDE THE CONTAINER, WHICH GIVES SHAPE AND CONTENT TO VALUES."               |
+|     "This is the basis of all statecraft and laws and institutions."                             |
+|                                                                                                  |
+|   APPLICATION - ETHICS AND COMPREHENSIVE NATIONAL POWER (2020 routed demand)                     |
+|     ECONOMIC       predictable rule of law and low graft cut the risk premium  [ARC 1.8; Preface]|
+|     MILITARY /     procurement integrity buys capability on merit, not commission;               |
+|     STRATEGIC      apolitical professionalism keeps the chain of command trusted                 |
+|     SOCIO-CULTURAL citizen empowerment builds legitimacy, which becomes soft power [ARC 1.10]    |
+|     TECHNOLOGICAL  research integrity and transparent data/AI norms sustain credibility          |
+|     DIPLOMATIC     honoured treaty and humanitarian commitments accumulate credibility           |
+|     THESIS -> ethics MULTIPLIES usable capacity; it does not SUBSTITUTE for material capacity.   |
+|     Social harmony is the component ethics contributes most directly.                            |
+|     LIMIT -> the causal link is indirect and works over a horizon longer than one policy cycle.  |
+|   TRAP -> Reading Comprehensive National Power as military strength alone.                       |
++--------------------------------------------------------------------------------------------------+
+                                        |
+                                        v
+ASCII MASTER FLOW — PANEL 28/29: Examiner Traps, PYQ Anchors and the Answer Spine (part 1 of 2)
++--------------------------------------------------------------------------------------------------+
+| PANEL 15/15  EXAMINER TRAPS, PYQ ANCHORS AND THE ANSWER SPINE                                    |
++--------------------------------------------------------------------------------------------------+
+|   THE EIGHT STANDING TRAPS                                                                       |
+|     1 defining ethics as "moral values" instead of ARC 1.1's social-operational definition       |
+|     2 treating ethics and morality as always identical - or as never overlapping                 |
+|     3 "if it is legal, no ethical question arises" (rejected by Box 2.3)                         |
+|     4 attributing to the ARC a single "decline of values" cause (rejected at 1.4-1.5)            |
+|     5 blaming the coerced citizen for paying (contradicted at 1.13)                              |
+|     6 quoting the 90%/70% figures as current statistics (they are 2007 illustrative framing)     |
+|     7 claiming liberalisation ended corruption (capped by the migration effect at 1.12)          |
+|     8 equating Comprehensive National Power with military strength                               |
+|                                                                                                  |
+|   PYQ ANCHORS AND OWNERSHIP                                                                      |
+|     2024 GS-IV Q1(b) "key dimensions of ethics ... professional context"  -> OWNED by Topic 01   |
+|         verbatim wording verified from the locally held official PDF (prints "decision&making")  |
+|     2025 GS-IV Q1(b) constitutional morality -> routed to Topics 13 and 14; used here as a       |
+|         CROSS-TOPIC ANCHOR only (verbatim wording verified; prints "adherance")                  |
+|     2020 GS-IV Q1(a) CNP and social harmony  -> routed to Topics 01 and 02 (NEUTRAL RENDERING;   |
+|         the 2020 paper is not held locally, so no verbatim claim is made)                        |
+|     2020 GS-IV Q1(b) education / NEP 2020    -> routed to Topics 01 and 02 (neutral rendering)   |
++--------------------------------------------------------------------------------------------------+
+ASCII MASTER FLOW — PANEL 29/29: Examiner Traps, PYQ Anchors and the Answer Spine (part 2 of 2)
++--------------------------------------------------------------------------------------------------+
+|     2020 GS-IV Q2(a) hatred and conscience   -> routed to Topics 01 and 05 (neutral rendering)   |
+|     2022 GS-IV Q2(a)/(b) mindset and conflict-> routed to Topics 03 and 01 (neutral rendering)   |
+|     FORMAT (verified from both local papers): Section A = 10 marks / 150 words;                  |
+|         Section B case study = 20 marks / 250 words. GS-IV HAS NO 15-MARK QUESTION.              |
+|                                                                                                  |
+|   THE ANSWER SPINE (150 words)                                                                   |
+|     [1] DEFINE + THESIS -> [2] MECHANISM (2-3 dimensions) -> [3] ONE NAMED INDIAN ILLUSTRATION   |
+|     PER DIMENSION -> [4] ONE EXPLICIT LIMIT (migration | digital exclusion | elite capture |     |
+|     political ceiling) -> [5] QUALIFIED VERDICT, never a restatement of [1]                      |
+|                                                                                                  |
+|   SECTION-B BOUNDARY -> the 20-mark case study uses the EIGHT-ELEMENT architecture owned by      |
+|   Topic 22: facts -> stakeholders -> constraints -> AT LEAST THREE options (steelman the         |
+|   strongest objection) -> named ethical evaluation -> decision -> implementation and             |
+|   communication -> residual-risk mitigation. Topic 01 supplies the CONTENT of the ethical        |
+|   evaluation step, not a rival format.                                                           |
+|                                                                                                  |
+|   QUALIFIED CONCLUSION -> Ethical conduct at the human interface is produced neither by values   |
+|   alone nor by institutions alone, but by values durably contained within institutions that      |
+|   reduce discretion, increase transparency and empower the citizen - subject to the political    |
+|   ceiling the Commission itself identifies at paragraph 1.12.                                    |
++--------------------------------------------------------------------------------------------------+
 
-ASCII MASTER FLOW — PANEL 3/12: Ethics, Morality, Law, and Propriety
-CENTRAL FOCUS
-Ethics, Morality, Law, and Propriety
-  [1] Legality asks whether enacted law has been followed.
-        |
-        v
-  [2] Morality asks whether conduct meets a standard of right action.
-        |
-        v
-  [3] Propriety asks whether conduct suits the office and occasion.
-        |
-        v
-  [4] Legal conduct can still undermine impartiality or public confidence.
-        |
-        v
-  [5] A lavish dinner from a bidder can fail propriety without a proven bribe.
-        |
-        v
-  [6] The letter of a rule cannot exhaust every conflict of interest.
-        |
-        v
-  [7] The spirit of public duty requires visible as well as actual integrity.
-        |
-        v
-  [8] A reasoned officer records and manages appearance-based conflicts.
-        |
-        v
-VERDICT -> Legal compliance is the floor; propriety protects the credibility of office.
-ANSWER USE -> Use the bidder-dinner example to explain why legality is not the whole ethical
-             test.
-
-ASCII MASTER FLOW — PANEL 4/12: The Human Interface: Power Meets Citizen Need
-CENTRAL FOCUS
-The Human Interface: Power Meets Citizen Need
-  [1] Human interface is where public duty meets a citizen's concrete need.
-        |
-        v
-  [2] The interface becomes ethically charged when private interest enters judgment.
-        |
-        v
-  [3] Discretion lets an official shape access, timing, or certification.
-        |
-        v
-  [4] Vulnerability makes delay and information asymmetry more damaging.
-        |
-        v
-  [5] A pension counter can turn entitlement into dependence through discretion.
-        |
-        v
-  [6] Clear criteria reduce scope for personal preference at the interface.
-        |
-        v
-  [7] Automation can reduce arbitrary contact when it retains appeal and access.
-        |
-        v
-  [8] Ethical service is timely, respectful, equal, and reviewable.
-        |
-        v
-VERDICT -> The ordinary service counter is a central site of public ethics.
-ANSWER USE -> Ground abstraction in an Indian service-delivery encounter.
-
-ASCII MASTER FLOW — PANEL 5/12: Why Values Need Institutions
-CENTRAL FOCUS
-Why Values Need Institutions
-  [1] Values give officials an internal reason to act with integrity.
-        |
-        v
-  [2] Institutions give values procedures, supervision, and consequences.
-        |
-        v
-  [3] Moral education alone leaves temptation-producing systems untouched.
-        |
-        v
-  [4] Punishment alone ignores culture, incentives, and ethical judgment.
-        |
-        v
-  [5] Transparent criteria make fair conduct easier to verify.
-        |
-        v
-  [6] Competent disciplinary machinery gives violations credible consequences.
-        |
-        v
-  [7] Audit trails make discretionary acts accountable to evidence.
-        |
-        v
-  [8] Durable integrity requires values contained within institutions.
-        |
-        v
-VERDICT -> Values and institutions are complementary, not rival explanations.
-ANSWER USE -> Use the synthesis to answer causes and remedies together.
-
-ASCII MASTER FLOW — PANEL 6/12: How Systems Produce or Prevent Corruption
-CENTRAL FOCUS
-How Systems Produce or Prevent Corruption
-  [1] Colonial habits normalised unchallenged official authority.
-        |
-        v
-  [2] Asymmetric power weakens citizen pressure for ethical conduct.
-        |
-        v
-  [3] Over-regulation made citizens dependent on official discretion.
-        |
-        v
-  [4] Monopoly and opacity increase opportunities for rent-seeking.
-        |
-        v
-  [5] Over-centralisation lengthens the path from authority to accountability.
-        |
-        v
-  [6] Competition and choice can reduce discretion-based corruption.
-        |
-        v
-  [7] Transparency and automation can narrow the scope for concealed bargains.
-        |
-        v
-  [8] Political incentives can displace corruption into protected sectors.
-        |
-        v
-VERDICT -> Corruption is often produced by incentives and power structures.
-ANSWER USE -> Explain mechanism before prescribing transparency, competition, or
-             decentralisation.
-
-ASCII MASTER FLOW — PANEL 7/12: Coercive and Collusive Corruption: Do Not Confuse Them
-CENTRAL FOCUS
-Coercive and Collusive Corruption: Do Not Confuse Them
-  [1] Coercive corruption extracts payment for an entitled public service.
-        |
-        v
-  [2] The coerced citizen is an unwilling victim of official power.
-        |
-        v
-  [3] Collusive corruption gives private gain to both giver and taker.
-        |
-        v
-  [4] Society bears the cost of collusion through loss, danger, or unfairness.
-        |
-        v
-  [5] A delayed pension for speed money is coercive corruption.
-        |
-        v
-  [6] False road certification by engineer and contractor is collusive corruption.
-        |
-        v
-  [7] Victim-safe complaints are essential against coercive extraction.
-        |
-        v
-  [8] Audit and investigation of networks are essential against collusion.
-        |
-        v
-VERDICT -> Classify the relationship before choosing an anti-corruption response.
-ANSWER USE -> Contrast victim protection with network disruption in one compact paragraph.
-
-ASCII MASTER FLOW — PANEL 8/12: Citizen Power, Transparency, and Ethical Governance
-CENTRAL FOCUS
-Citizen Power, Transparency, and Ethical Governance
-  [1] Information corrects the citizen's knowledge disadvantage.
-        |
-        v
-  [2] A meaningful charter states service, fee, time, officer, and remedy.
-        |
-        v
-  [3] Stakeholder participation gives affected persons voice before decisions.
-        |
-        v
-  [4] Public consultation makes policy reasons contestable.
-        |
-        v
-  [5] Social audit tests official records against community experience.
-        |
-        v
-  [6] RTI can expose unexplained delay and hidden decision grounds.
-        |
-        v
-  [7] Assisted access prevents digital systems from reproducing exclusion.
-        |
-        v
-  [8] Rule-of-law enforcement remains necessary after prevention fails.
-        |
-        v
-VERDICT -> Empowerment turns the citizen from supplicant into an accountability actor.
-ANSWER USE -> Link each tool to the asymmetry of power it corrects.
-
-ASCII MASTER FLOW — PANEL 9/12: Constitutional Morality and National Power
-CENTRAL FOCUS
-Constitutional Morality and National Power
-  [1] Constitutional morality is cultivated rather than naturally inherited.
-        |
-        v
-  [2] Civil education develops respect for constitutional values.
-        |
-        v
-  [3] Rule-of-law practice disciplines personal prejudice and arbitrary power.
-        |
-        v
-  [4] Equality and dignity guide treatment of unpopular minorities.
-        |
-        v
-  [5] Fair procedure makes administrative reasons visible and contestable.
-        |
-        v
-  [6] Ethical governance improves trust and social harmony.
-        |
-        v
-  [7] Integrity strengthens economic, strategic, scientific, and diplomatic capacity.
-        |
-        v
-  [8] CNP needs material capacity but values make it credible and durable.
-        |
-        v
-VERDICT -> Constitutional morality converts public power into legitimate authority.
-ANSWER USE -> Connect constitutional values to good governance, accountability, and social
-             cohesion.
-
-ASCII MASTER FLOW — PANEL 10/12: Writing a Balanced GS-IV Ethics Answer
-CENTRAL FOCUS
-Writing a Balanced GS-IV Ethics Answer
-  [1] Define the ethical concept with a clear boundary.
-        |
-        v
-  [2] State a thesis that answers the directive rather than repeats it.
-        |
-        v
-  [3] Explain two or three mechanisms that make the thesis true.
-        |
-        v
-  [4] Use one named Indian administrative illustration.
-        |
-        v
-  [5] Distinguish related concepts before comparing them.
-        |
-        v
-  [6] Test the institutional and value dimensions together.
-        |
-        v
-  [7] Add one genuine limitation or counterpoint.
-        |
-        v
-  [8] Conclude with a qualified, implementable verdict.
-        |
-        v
-VERDICT -> A GS-IV answer earns depth through mechanism and qualification.
-ANSWER USE -> Use this sequence for 10, 15, and 20-mark theory answers.
-CLOSE DISTINCTION: Legality, morality and propriety use different tests: lawful action can
-  remain ethically deficient, conscience cannot cancel valid law by assertion, and
-  constitutional morality is a public justificatory discipline rather than an official's
-  private preference.
-CLOSE DISTINCTION: Legality, morality and propriety use different tests: lawful action...
-
-ASCII MASTER FLOW — PANEL 11/12: MCQ and trap repair
-CENTRAL FOCUS
-MCQ and trap repair
-  [1] Ethics and morality are related but not technically identical.
-        |
-        v
-  [2] Descriptive evidence does not itself prove a normative conclusion.
-        |
-        v
-  [3] Meta-ethics is not the same as applied ethical decision-making.
-        |
-        v
-  [4] Legal conduct can fail propriety at a public office.
-        |
-        v
-  [5] Coercive corruption has an unwilling victim seeking an entitlement.
-        |
-        v
-  [6] Collusive corruption creates shared private benefit and public loss.
-        |
-        v
-  [7] Decentralisation needs audit and capacity to avoid local capture.
-        |
-        v
-  [8] Technology reduces discretion only when access and appeals remain real.
-        |
-        v
-VERDICT -> Identify the decisive threshold, not the familiar word, in close options.
-ANSWER USE -> Repair common confusions before attempting statement-based questions.
-EVIDENCE / AUTHORITY / APPLICATION LIMIT: Administrative examples must identify power,
-  affected citizen, duty, incentive and institutional safeguard; ARC claims and Mission
-  Karmayogi figures retain report or release dates and do not become timeless proof of ethical
-  conduct.
-EVIDENCE / AUTHORITY / APPLICATION LIMIT: Administrative examples must identify power,...
-
-ASCII MASTER FLOW — PANEL 12/12: PYQ and answer synthesis
-CENTRAL FOCUS
-PYQ and answer synthesis
-  [1] The 2024 routed theme tests dimensions shaping professional ethical decisions.
-        |
-        v
-  [2] The 2025 official question tests constitutional morality in public service.
-        |
-        v
-  [3] CNP answers need economic, strategic, social, and credibility mechanisms.
-        |
-        v
-  [4] Human-interface answers need a concrete citizen-official encounter.
-        |
-        v
-  [5] Corruption answers need values-plus-institutions rather than one cause.
-        |
-        v
-  [6] Citizen-empowerment answers need information, voice, remedy, and enforcement.
-        |
-        v
-  [7] A limitation prevents a formulaic and one-sided conclusion.
-        |
-        v
-  [8] A verdict must state the safeguard that makes reform ethically durable.
-        |
-        v
-VERDICT -> Translate every PYQ into a thesis, mechanism, illustration, limitation, and
-             verdict.
-ANSWER USE -> Use this rail as the final revision checklist before a GS-IV response.
+====================================================================================================
+  END OF ASCII MASTER FLOW DIAGRAM - 15 PANELS
+  Source discipline: every quoted string is from the 2nd ARC 4th Report (January 2007), Chapter 1
+  paragraphs 1.1-1.22, Box 2.3 or the Preface, read directly from books\ethics4.pdf.
+  Dated current anchors (Mission Karmayogi, UNCAC status) carry their own source and date.
+====================================================================================================
