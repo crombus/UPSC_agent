@@ -2174,6 +2174,242 @@ D. Both statements together are sufficient, but neither alone is sufficient.
 Explanation: Statement 2 gives y=plus or minus 9; statement 1 selects y=9. Together they are sufficient.
 Trap: A square equation has two real roots unless sign is fixed.
 
+## Qualifying-Hindi
+
+Time: 3 Hours | Maximum marks: 300
+
+### Q1. निबन्ध [100 marks]
+
+किसी एक विषय पर लगभग 600 शब्दों में निबन्ध लिखिए।
+
+1. अधिकार और उसकी सुगम प्रक्रिया
+2. छोटे शहरों में सार्वजनिक परिवहन
+3. तकनीक और भाषा की समानता
+4. गलती स्वीकारने की नैतिक शक्ति
+
+**Marking guidance:** अंक-विभाजन: विषय-बोध और स्पष्ट तर्क 20; संरचना 20; विश्लेषण, उदाहरण और संतुलन 25; व्याकरण तथा शब्दावली 25; निष्कर्ष और लगभग 600 शब्दों का पालन 10।
+
+### Q2. गद्यांश-बोध [60 marks]
+
+किसी अधिकार का कानून में लिखा होना आवश्यक है, पर उससे अधिकार अपने-आप उपयोगी नहीं हो जाता। आवेदन की कठिन भाषा, दूर कार्यालय, बार-बार माँगे गए प्रमाण और त्रुटि सुधारने की अस्पष्ट प्रक्रिया पात्र व्यक्ति को सेवा से बाहर रख सकती है। जाँच सार्वजनिक संसाधनों की रक्षा करती है, किंतु उसे वास्तविक जोखिम के अनुपात में होना चाहिए। सरकार के पास उपलब्ध सूचना नागरिक से बार-बार माँगना प्रशासन की कमी का भार उसी पर डालता है। डिजिटल माध्यम यात्रा और समय घटा सकता है, पर पहचान-मिलान विफल होने या सहायता न मिलने पर नया बहिष्कार पैदा करता है। इसलिए अनेक माध्यम, सरल कारणयुक्त निर्णय और समयबद्ध अपील आवश्यक हैं। सफलता का माप केवल निपटाए गए आवेदन नहीं, पात्र नागरिक को सम्मानपूर्वक मिली सेवा है।
+
+1. कानून में लिखा अधिकार व्यवहार में अनुपयोगी किन कारणों से हो सकता है?
+**Model answer:** कठिन भाषा, दूरी, दोहराए गए प्रमाण और अस्पष्ट सुधार-प्रक्रिया कानूनी अधिकार को व्यवहार में अनुपयोगी बना सकते हैं।
+
+2. लेखक जाँच को वास्तविक जोखिम के अनुपात में रखने पर क्यों बल देता है?
+**Model answer:** जाँच आवश्यक है, पर वह उस जोखिम के अनुपात में हो जिसकी रोकथाम के लिए की जा रही है।
+
+3. डिजिटल सेवा समावेशन और बहिष्कार दोनों कैसे पैदा कर सकती है?
+**Model answer:** डिजिटल सेवा यात्रा घटाती है, किंतु तकनीकी विफलता और सहायता के अभाव से बहिष्कार भी कर सकती है।
+
+4. पात्र नागरिक की रक्षा के लिए कौन-से प्रक्रियागत उपाय आवश्यक हैं?
+**Model answer:** अनेक आवेदन-माध्यम, कारणयुक्त निर्णय और समयबद्ध अपील प्रमुख सुरक्षा हैं।
+
+5. उपयुक्त शीर्षक देते हुए गद्यांश का केंद्रीय विचार लिखिए।
+**Model answer:** उपयुक्त शीर्षक: 'अधिकार से वास्तविक पहुँच तक'। केंद्रीय विचार प्रक्रिया की उपयोगिता और गरिमा है।
+
+### Q3. संक्षेपण [60 marks]
+
+गद्यांश का लगभग एक-तिहाई शब्दों में संक्षेपण लिखिए; शीर्षक न दें।
+
+विशेषज्ञता जटिल निर्णयों के लिए आवश्यक है, पर नीति बनाने वाले और उसे अनुभव करने वाले व्यक्ति के बीच दूरी भी पैदा कर सकती है। विशेषज्ञ तकनीकी सीमाएँ जानते हैं, किंतु उनकी भाषा ऐसे अनुमान छिपा सकती है जिन पर सामान्य उपयोगकर्ता तुरंत प्रश्न उठाए। परामर्श विशेषज्ञता का विकल्प नहीं, उसकी समझ की परीक्षा है। कमजोर परामर्श मुख्य निर्णय तय होने के बाद केवल टिप्पणी माँगता है। सार्थक प्रक्रिया प्रभावित समूहों को आरंभ में पहचानती, विकल्प सरल भाषा में बताती और प्रमुख आपत्तियों पर कारण दर्ज करती है। हर पसंद नीति नहीं बन सकती; संसाधन सीमित हैं और निर्णय का दायित्व निर्वाचित संस्था पर है। फिर भी भागीदारी प्रमाण सुधारती, अनचाहे परिणाम दिखाती और अंतिम निर्णय के कारण स्पष्ट करती है।
+
+**Model answer:** विशेषज्ञता आवश्यक है, पर उपयोगकर्ता के अनुभव से दूर हो सकती है। परामर्श उसका विकल्प नहीं बल्कि समझ की परीक्षा है। सार्थक भागीदारी आरंभ में प्रभावित समूहों को जोड़ती, विकल्प समझाती और आपत्तियों पर कारण दर्ज करती है। वह हर माँग स्वीकार नहीं करती, पर प्रमाण, परिणाम और निर्णय की जवाबदेही सुधारती है।
+
+### Q4. हिन्दी से अंग्रेज़ी अनुवाद [20 marks]
+
+प्रक्रिया की सरलता जाँच को समाप्त करना नहीं है। उचित व्यवस्था आवश्यक प्रमाण लेती है, उपलब्ध सरकारी सूचना का पुनः उपयोग करती है और अस्वीकृति के विरुद्ध समयबद्ध अपील देती है।
+
+**Model answer:** Procedural simplicity does not mean abolishing verification. A sound system seeks necessary evidence, reuses information already held by government and provides a timely appeal against rejection.
+
+### Q5. अंग्रेज़ी से हिन्दी अनुवाद [20 marks]
+
+Technology is inclusive only when people can understand, access and correct the system. A fast digital decision without reasons may merely automate an old injustice.
+
+**Model answer:** तकनीक तभी समावेशी है जब लोग व्यवस्था को समझ, उपयोग और सुधार सकें। कारण के बिना तेज डिजिटल निर्णय पुराने अन्याय को केवल स्वचालित कर सकता है।
+
+### Q6. भाषा-प्रयोग [40 marks]
+
+#### A. मुहावरों का अर्थ स्पष्ट करते हुए वाक्य बनाइए
+
+1. पानी-पानी होना
+**Answer:** पानी-पानी होना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+2. सिर पर कफन बाँधना
+**Answer:** सिर पर कफन बाँधना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+3. लोहे के चने चबाना
+**Answer:** लोहे के चने चबाना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+4. आँखों का तारा
+**Answer:** आँखों का तारा: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+5. राई का पहाड़ बनाना
+**Answer:** राई का पहाड़ बनाना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+#### B. वाक्य शुद्ध कीजिए
+
+1. प्रत्येक सदस्य अपने मत दिए।
+**Answer:** प्रत्येक सदस्य ने अपना मत दिया।
+
+2. उसने मेरी सहायता करा।
+**Answer:** उसने मेरी सहायता की।
+
+3. हम कल दिल्ली जाएँ थे।
+**Answer:** हम कल दिल्ली गए थे।
+
+4. यह सबसे श्रेष्ठतम विकल्प है।
+**Answer:** यह श्रेष्ठतम विकल्प है।
+
+5. आप कहाँ जा रहे हो?
+**Answer:** आप कहाँ जा रहे हैं?
+
+#### C. दो-दो पर्यायवाची लिखिए
+
+1. प्रकाश
+**Answer:** प्रकाश: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+2. नदी
+**Answer:** नदी: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+3. पर्वत
+**Answer:** पर्वत: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+4. मनुष्य
+**Answer:** मनुष्य: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+5. कमल
+**Answer:** कमल: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+#### D. शब्दों का स्वाभाविक वाक्य-प्रयोग कीजिए
+
+1. उत्तरदायित्व
+**Answer:** उत्तरदायित्व: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+2. समावेशी
+**Answer:** समावेशी: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+3. विश्वसनीय
+**Answer:** विश्वसनीय: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+4. संशोधन
+**Answer:** संशोधन: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+5. सहन-क्षमता
+**Answer:** सहन-क्षमता: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+## Qualifying-English
+
+Time: 3 Hours | Maximum marks: 300
+
+### Q1. Essay [100 marks]
+
+Write about 600 words on any one topic.
+
+1. A right becomes real only when its procedure is usable.
+2. Public trust grows through small acts of reliability.
+3. Technology should reduce distance, not responsibility.
+4. The habit of revision is a sign of strength.
+
+**Marking guidance:** Marking rubric: relevance and qualified thesis 20; organisation 20; analysis, examples and balance 25; grammar and vocabulary 25; conclusion and approximate 600-word limit 10.
+
+### Q2. Comprehension [75 marks]
+
+A public service may be legally available and still remain practically inaccessible. Eligibility rules can be generous while application forms are obscure, offices distant and correction procedures uncertain. In such cases the gap is not between law and complete inaction but between a declared entitlement and a usable route to obtain it. Simplification does not mean removing every check. Verification protects public resources and prevents fraud, but a check should be proportionate to the risk it addresses. Requiring the same document repeatedly from citizens whose information is already held by government shifts administrative failure onto the applicant. Digital services can reduce travel and delay, yet they may create new exclusion when identity matching fails or assistance is unavailable. A sound system therefore provides multiple channels, explains adverse decisions and permits timely appeal. Its success should be measured not merely by applications processed but by whether eligible people receive the service without unreasonable cost, uncertainty or loss of dignity.
+
+1. How can a legally available service remain inaccessible?
+**Model answer:** Obscure forms, distant offices, repeated documentation and uncertain correction procedures can make the entitlement unusable.
+
+2. Why should verification be proportionate?
+**Model answer:** Checks are legitimate only to the extent needed to address risk; excessive demands transfer administrative burdens to citizens.
+
+3. How can digitisation both include and exclude?
+**Model answer:** It reduces travel and delay but can exclude users through failed identity matching, limited access or absent assistance.
+
+4. What procedural safeguards does the author recommend?
+**Model answer:** Multiple access channels, reasons for adverse decisions and a timely appeal or correction route.
+
+5. What measure of success does the passage prefer?
+**Model answer:** Whether eligible people actually receive the service without unreasonable cost, uncertainty or indignity.
+
+### Q3. Precis Writing [75 marks]
+
+Write a precis in about one-third of the passage. Do not give a title.
+
+Expertise is essential in complex administration, but it can create distance between those who design a policy and those who experience it. Specialists know technical constraints and can protect decisions from popular error. Yet professional language may hide assumptions that ordinary users would immediately question. Consultation is therefore not a substitute for expertise; it is a test of whether expertise has understood the problem. Weak consultation merely asks for comments after the main choices are fixed. Better consultation identifies affected groups early, explains alternatives in accessible language and records why major objections were accepted or rejected. Participation cannot mean that every preference becomes policy. Interests conflict, resources are limited and elected institutions must decide. Its value lies in improving evidence, exposing unintended consequences and making reasons visible. Experts remain responsible for technical quality, while decision-makers remain accountable for the values and trade-offs embodied in the final choice.
+
+**Model answer:** Expertise protects complex decisions but may overlook assumptions visible to users. Consultation should therefore test, not replace, professional judgment. Meaningful participation begins early, explains alternatives and records responses to objections. It cannot satisfy every preference, but it improves evidence, reveals unintended effects and clarifies reasons. Experts retain technical responsibility and public authorities remain accountable for final trade-offs.
+
+### Q4. Usage and Vocabulary [50 marks]
+
+#### A. Correct the sentences
+
+1. Each of the reports contain an annexure.
+**Answer:** Each of the reports contains an annexure.
+
+2. The committee comprises of five members.
+**Answer:** The committee comprises five members.
+
+3. She is senior than me.
+**Answer:** She is senior to me.
+
+4. The news are encouraging.
+**Answer:** The news is encouraging.
+
+5. He prevented me to enter.
+**Answer:** He prevented me from entering.
+
+#### B. Supply the missing preposition or word
+
+1. conform ___
+**Answer:** to
+
+2. deprive ___
+**Answer:** of
+
+3. prefer X ___
+**Answer:** to Y
+
+4. refrain ___
+**Answer:** from
+
+5. eligible ___
+**Answer:** for
+
+#### C. Use the correct verb form
+
+1. When I reached, they ___ (leave).
+**Answer:** had left
+
+2. If I ___ (be) you, I would appeal.
+**Answer:** were
+
+3. The files ___ (verify) now.
+**Answer:** are being verified
+
+4. She usually ___ (travel) by bus.
+**Answer:** travels
+
+5. They ___ (work) since dawn.
+**Answer:** have been working
+
+#### D. Choose the correct word
+
+1. adverse/averse
+**Answer:** adverse
+
+2. ensure/insure
+**Answer:** ensure
+
+3. council/counsel
+**Answer:** counsel
+
+4. imply/infer
+**Answer:** infer
+
+5. economic/economical
+**Answer:** economical
+
 ## Essay
 
 Time: 3 Hours | Maximum marks: 250

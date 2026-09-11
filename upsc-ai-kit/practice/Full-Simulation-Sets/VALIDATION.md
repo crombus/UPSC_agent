@@ -1,7 +1,7 @@
 # Validation Summary
 
 - Overall: **PASS**
-- PDFs expected/non-empty: 72/72
+- PDFs expected/non-empty: 88/88
 - Unique objective stems: 720 (expected 720)
 - Unique GS descriptive questions: 292 (expected 292: 240 GS-I/II/III + 52 GS-IV)
 - Unique Philosophy Optional subparts: 224 (expected 224)
@@ -17,7 +17,7 @@
 - Word-count regex: `\b[A-Za-z0-9]+(?:[-'][A-Za-z0-9]+)*\b`
 - Objective keys: strict A, B, C, D rotation from Question 1 in every objective paper.
 - QP leakage scan: correct-option metadata, model-answer labels and solution labels.
-- Format checks: exact counts, 200/250 marks, two/three-hour durations, one-third objective penalties, CSAT 33% qualification, Essay 125x2 choice, and Philosophy Q1/Q5 plus-three cross-section rule.
+- Format checks: exact counts, 200/250/300 marks, two/three-hour durations, one-third objective penalties, CSAT 33% qualification, language-paper 25% qualification, Essay 125x2 choice, and Philosophy Q1/Q5 plus-three cross-section rule.
 - Current-source gate: repository-verified source file or directly fetched official government/constitutional source only.
 - Difficulty gate: every paper is above typical recent UPSC level through higher-order but fair reasoning; niche fact dumping, ambiguity and gratuitous calculation are rejected.
 - Descriptive-content gate: 80 substantive questions each across GS-I/II/III; 13-question recent-style GS-IV per set; mark-proportionate Philosophy answers; developed Essay frameworks; no directive-only uniqueness.

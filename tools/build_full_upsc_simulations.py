@@ -26,6 +26,8 @@ from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY, TA_LEFT
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import cm
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (
     PageBreak,
     Paragraph,
@@ -34,6 +36,8 @@ from reportlab.platypus import (
     Table,
     TableStyle,
 )
+
+from qualifying_language_simulations import build_language_papers
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -64,6 +68,10 @@ DIFFICULTY_STANDARD = {
     "philosophy": (
         "Textual and doctrinal precision, argument reconstruction, objections and strongest replies, "
         "and comparisons across thinkers or schools."
+    ),
+    "qualifying_language": (
+        "Matriculation-level language skills tested through demanding but fair comprehension, "
+        "precis, composition, translation and usage tasks."
     ),
 }
 FORBIDDEN_DEFECTIVE_STEMS = (
@@ -4541,6 +4549,7 @@ def build_all_sources() -> dict[int, dict[str, Any]]:
         papers = {
             "Prelims-GS-I": build_objective("Prelims-GS-I", set_no, prelims[set_no]),
             "Prelims-CSAT-II": build_objective("Prelims-CSAT-II", set_no, csat[set_no]),
+            **build_language_papers(set_no),
             "Essay": curated["Essay"],
             "GS-I": curated["GS-I"],
             "GS-II": curated["GS-II"],
@@ -4566,6 +4575,17 @@ GREEN = colors.HexColor("#1b5e20")
 RED = colors.HexColor("#8b1a1a")
 PAGE_W, PAGE_H = A4
 
+DEVANAGARI_FONT = Path(r"C:\Windows\Fonts\Nirmala.ttc")
+if not DEVANAGARI_FONT.exists():
+    raise FileNotFoundError(f"Devanagari font not found: {DEVANAGARI_FONT}")
+pdfmetrics.registerFont(TTFont("SimulationDevanagari", str(DEVANAGARI_FONT), subfontIndex=0))
+pdfmetrics.registerFont(TTFont("SimulationDevanagari-Bold", str(DEVANAGARI_FONT), subfontIndex=1))
+pdfmetrics.registerFontFamily(
+    "SimulationDevanagari",
+    normal="SimulationDevanagari",
+    bold="SimulationDevanagari-Bold",
+)
+
 
 def styles() -> dict[str, ParagraphStyle]:
     base = getSampleStyleSheet()
@@ -4590,11 +4610,22 @@ def styles() -> dict[str, ParagraphStyle]:
 
 
 ST = styles()
+ST_HI = {
+    name: ParagraphStyle(
+        f"{style.name}Hindi",
+        parent=style,
+        fontName="SimulationDevanagari-Bold" if "Bold" in style.fontName else "SimulationDevanagari",
+    )
+    for name, style in ST.items()
+}
 
 
 def para(text: Any, style: str = "body") -> Paragraph:
-    safe = plain(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-    return Paragraph(safe, ST[style])
+    raw = str(text)
+    devanagari = bool(re.search(r"[\u0900-\u097f]", raw))
+    safe_text = raw if devanagari else plain(raw)
+    safe = safe_text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    return Paragraph(safe, ST_HI[style] if devanagari else ST[style])
 
 
 def header_story(title: str, set_no: int, paper: dict[str, Any], answer_key: bool) -> list[Any]:
@@ -4727,6 +4758,39 @@ def render_optional(story: list[Any], paper: dict[str, Any], answer_key: bool) -
         story.append(Spacer(1, 0.18 * cm))
 
 
+def render_language(story: list[Any], paper: dict[str, Any], answer_key: bool) -> None:
+    for section in paper["sections"]:
+        story.append(para(
+            f"Q{section['no']}. {section['title']} [{section['marks']} marks]",
+            "h1",
+        ))
+        if section.get("instruction"):
+            story.append(para(section["instruction"], "small"))
+        if section.get("topics"):
+            for index, topic in enumerate(section["topics"], 1):
+                story.append(para(f"{index}. {topic}", "q"))
+            if answer_key:
+                story.append(para(f"Marking guidance: {section['answer']}", "answer"))
+        elif section.get("questions"):
+            story.append(para(section["passage"], "body"))
+            for index, question in enumerate(section["questions"], 1):
+                story.append(para(f"{index}. {question['text']}", "q"))
+                if answer_key:
+                    story.append(para(f"Model answer: {question['answer']}", "answer"))
+        elif section.get("groups"):
+            for label, group in zip("ABCD", section["groups"]):
+                story.append(para(f"{label}. {group['title']}", "h2"))
+                for index, item in enumerate(group["items"], 1):
+                    story.append(para(f"{index}. {item}", "q"))
+                    if answer_key:
+                        story.append(para(f"Answer: {group['answers'][index - 1]}", "answer"))
+        else:
+            story.append(para(section["passage"], "body"))
+            if answer_key:
+                story.append(para(f"Model answer: {section['answer']}", "answer"))
+        story.append(Spacer(1, 0.18 * cm))
+
+
 def render_pdf(paper: dict[str, Any], set_no: int, path: Path, answer_key: bool) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     doc = SimpleDocTemplate(
@@ -4743,6 +4807,8 @@ def render_pdf(paper: dict[str, Any], set_no: int, path: Path, answer_key: bool)
         render_essay(story, paper, answer_key)
     elif paper["kind"] == "optional":
         render_optional(story, paper, answer_key)
+    elif paper["kind"] == "language":
+        render_language(story, paper, answer_key)
     story.append(Spacer(1, 0.3 * cm))
     story.append(para("END OF PAPER" if not answer_key else "END OF DETAILED SOLUTIONS", "small"))
     label = f"Set {set_no:02d} | {paper['paper']} | {'AK' if answer_key else 'QP'}"
@@ -4787,6 +4853,33 @@ def source_markdown(set_data: dict[str, Any]) -> str:
                           "Examples: " + " | ".join(sol["examples"]),
                           f"Counterview: {sol['counterview']}",
                           f"Conclusion: {sol['conclusion']}", ""]
+        elif paper["kind"] == "language":
+            for section in paper["sections"]:
+                lines += [f"### Q{section['no']}. {section['title']} [{section['marks']} marks]", ""]
+                if section.get("instruction"):
+                    lines += [section["instruction"], ""]
+                if section.get("topics"):
+                    lines += [f"{index}. {topic}" for index, topic in enumerate(section["topics"], 1)]
+                    lines += ["", f"**Marking guidance:** {section['answer']}", ""]
+                elif section.get("questions"):
+                    lines += [section["passage"], ""]
+                    for index, question in enumerate(section["questions"], 1):
+                        lines += [
+                            f"{index}. {question['text']}",
+                            f"**Model answer:** {question['answer']}",
+                            "",
+                        ]
+                elif section.get("groups"):
+                    for label, group in zip("ABCD", section["groups"]):
+                        lines += [f"#### {label}. {group['title']}", ""]
+                        for index, item in enumerate(group["items"], 1):
+                            lines += [
+                                f"{index}. {item}",
+                                f"**Answer:** {group['answers'][index - 1]}",
+                                "",
+                            ]
+                else:
+                    lines += [section["passage"], "", f"**Model answer:** {section['answer']}", ""]
         else:
             for q in paper["questions"]:
                 lines.append(f"### Q{q['no']}{' (Compulsory)' if q['compulsory'] else ''}")
@@ -4864,6 +4957,7 @@ def validate_sources(all_sets: dict[int, dict[str, Any]]) -> dict[str, Any]:
     mains_stems: set[str] = set()
     optional_stems: set[str] = set()
     essay_stems: set[str] = set()
+    language_stems: set[str] = set()
     prelims_provenance: defaultdict[str, int] = defaultdict(int)
     forbidden_found: list[dict[str, Any]] = []
     topic_sequences: defaultdict[str, list[tuple[str, ...]]] = defaultdict(list)
@@ -5057,6 +5151,69 @@ def validate_sources(all_sets: dict[int, dict[str, Any]]) -> dict[str, Any]:
                         errors.append(f"Set {set_no} {key} Q{q['no']}: unnatural topic substitution")
                 set_stats[key] = {"questions": expected_count, "marks": marks,
                                   "model_answer_word_counts": counts}
+            elif paper["kind"] == "language":
+                if paper["max_marks"] != 300 or paper["time"] != "3 Hours":
+                    errors.append(f"Set {set_no} {key}: qualifying marks/time format failure")
+                if paper.get("qualifying_marks") != 75:
+                    errors.append(f"Set {set_no} {key}: 25 percent qualifying threshold missing")
+                expected_marks = (
+                    [100, 60, 60, 20, 20, 40]
+                    if key == "Qualifying-Hindi"
+                    else [100, 75, 75, 50]
+                )
+                section_marks = [section["marks"] for section in paper["sections"]]
+                if section_marks != expected_marks or sum(section_marks) != 300:
+                    errors.append(
+                        f"Set {set_no} {key}: section marks {section_marks} != {expected_marks}"
+                    )
+                if key == "Qualifying-Hindi" and not any(
+                    re.search(r"[\u0900-\u097f]", str(section))
+                    for section in paper["sections"]
+                ):
+                    errors.append(f"Set {set_no} {key}: Devanagari content missing")
+                for section in paper["sections"]:
+                    if section.get("topics"):
+                        if len(section["topics"]) != 4 or not section.get("answer"):
+                            errors.append(f"Set {set_no} {key} Q{section['no']}: essay choices/rubric incomplete")
+                        for topic in section["topics"]:
+                            normalized = (
+                                re.sub(r"\s+", " ", unicodedata.normalize("NFC", topic)).strip().lower()
+                                if key == "Qualifying-Hindi"
+                                else normalize_stem(topic)
+                            )
+                            if normalized in language_stems:
+                                errors.append(f"Duplicate qualifying-language essay topic: {topic}")
+                            language_stems.add(normalized)
+                    elif section.get("questions"):
+                        if len(section["questions"]) != 5 or any(
+                            not question.get("answer") for question in section["questions"]
+                        ):
+                            errors.append(f"Set {set_no} {key} Q{section['no']}: comprehension key incomplete")
+                        passage = (
+                            re.sub(
+                                r"\s+", " ",
+                                unicodedata.normalize("NFC", section["passage"]),
+                            ).strip().lower()
+                            if key == "Qualifying-Hindi"
+                            else normalize_stem(section["passage"])
+                        )
+                        if passage in language_stems:
+                            errors.append(f"Duplicate qualifying-language comprehension passage: {key}")
+                        language_stems.add(passage)
+                    elif section.get("groups"):
+                        if len(section["groups"]) != 4 or any(
+                            len(group["items"]) != 5
+                            or len(group["answers"]) != len(group["items"])
+                            for group in section["groups"]
+                        ):
+                            errors.append(f"Set {set_no} {key} Q{section['no']}: usage groups incomplete")
+                    elif not section.get("passage") or not section.get("answer"):
+                        errors.append(f"Set {set_no} {key} Q{section['no']}: passage/model missing")
+                set_stats[key] = {
+                    "sections": len(paper["sections"]),
+                    "marks": sum(section_marks),
+                    "qualifying_marks": paper["qualifying_marks"],
+                }
             elif paper["kind"] == "essay":
                 if paper["max_marks"] != 250 or paper["time"] != "3 Hours":
                     errors.append(f"Set {set_no} Essay: marks/time format failure")
@@ -5240,8 +5397,9 @@ def write_readme() -> None:
     SOURCE_ROOT.mkdir(parents=True, exist_ok=True)
     (SOURCE_ROOT / "README.md").write_text(
         "# Full UPSC Simulation Sets\n\n"
-        "Four deterministic simulation sets cover Prelims GS-I, CSAT, Essay, Mains GS-I-IV, "
-        "and Philosophy Optional Papers I-II. Question papers contain no keys or hints; every "
+        "Four deterministic simulation sets cover Prelims GS-I, CSAT, qualifying Hindi Paper A, "
+        "qualifying English Paper B, Essay, Mains GS-I-IV, and Philosophy Optional Papers I-II. "
+        "Question papers contain no keys or hints; every "
         "paper has a separate detailed answer-key PDF.\n\n"
         f"**Current-affairs cutoff:** {CUTOFF}. No later event is used.\n\n"
         "## Difficulty standard\n\n"
@@ -5250,6 +5408,7 @@ def write_readme() -> None:
         f"- **CSAT:** {DIFFICULTY_STANDARD['csat']}\n"
         f"- **Mains:** {DIFFICULTY_STANDARD['mains']}\n"
         f"- **Philosophy:** {DIFFICULTY_STANDARD['philosophy']}\n\n"
+        f"- **Qualifying languages:** {DIFFICULTY_STANDARD['qualifying_language']}\n\n"
         "## Regeneration\n\n"
         "From the repository root run:\n\n"
         "```powershell\n"
@@ -5257,7 +5416,7 @@ def write_readme() -> None:
         "```\n\n"
         "The script reads tracked `learning_package_final` workbooks for static Prelims items, "
         "uses checked deterministic CSAT generation, writes four JSON and Markdown source editions, "
-        "renders all PDFs, and recreates the manifest and validation reports.\n\n"
+        "renders all 88 PDFs, and recreates the manifest and validation reports.\n\n"
         "Current claims are admitted only from repository-verified source records or directly "
         "retrieved official PIB/MEA/RBI/ministry/constitutional sources. Generic web-search "
         "summaries are not source evidence; when official retrieval is blocked or thin, the sets "
@@ -5349,7 +5508,7 @@ def validate(all_sets: dict[int, dict[str, Any]]) -> dict[str, Any]:
         "generated_on": CUTOFF,
         "current_affairs_cutoff": CUTOFF,
         "difficulty_standard": DIFFICULTY_STANDARD,
-        "expected_pdf_count": 72,
+        "expected_pdf_count": 88,
         "actual_nonempty_pdf_count": len(expected_paths) - len(missing),
         "source_validation": source_report,
         "question_paper_leakage": leakage,
@@ -5383,7 +5542,7 @@ def validate(all_sets: dict[int, dict[str, Any]]) -> dict[str, Any]:
         f"- Word-count regex: `{WORD_RE.pattern}`",
         "- Objective keys: strict A, B, C, D rotation from Question 1 in every objective paper.",
         "- QP leakage scan: correct-option metadata, model-answer labels and solution labels.",
-        "- Format checks: exact counts, 200/250 marks, two/three-hour durations, one-third objective penalties, CSAT 33% qualification, Essay 125x2 choice, and Philosophy Q1/Q5 plus-three cross-section rule.",
+        "- Format checks: exact counts, 200/250/300 marks, two/three-hour durations, one-third objective penalties, CSAT 33% qualification, language-paper 25% qualification, Essay 125x2 choice, and Philosophy Q1/Q5 plus-three cross-section rule.",
         "- Current-source gate: repository-verified source file or directly fetched official government/constitutional source only.",
         "- Difficulty gate: every paper is above typical recent UPSC level through higher-order but fair reasoning; niche fact dumping, ambiguity and gratuitous calculation are rejected.",
         "- Descriptive-content gate: 80 substantive questions each across GS-I/II/III; 13-question recent-style GS-IV per set; mark-proportionate Philosophy answers; developed Essay frameworks; no directive-only uniqueness.",
@@ -5412,6 +5571,8 @@ def write_manifest(all_sets: dict[int, dict[str, Any]], report: dict[str, Any]) 
                 count = len(paper["questions"])
             elif paper["kind"] == "essay":
                 count = len(paper["topics"])
+            elif paper["kind"] == "language":
+                count = len(paper["sections"])
             else:
                 count = len(paper["questions"])
             files.append({
@@ -5422,8 +5583,8 @@ def write_manifest(all_sets: dict[int, dict[str, Any]], report: dict[str, Any]) 
                 "answer_key_sha256": hashlib.sha256(apath.read_bytes()).hexdigest(),
             })
     manifest = {
-        "schema_version": 1, "sets": 4, "papers_per_set": 9,
-        "pdf_count": 72, "current_affairs_cutoff": CUTOFF,
+        "schema_version": 1, "sets": 4, "papers_per_set": 11,
+        "pdf_count": 88, "current_affairs_cutoff": CUTOFF,
         "difficulty_standard": DIFFICULTY_STANDARD,
         "curated_prelims_bank": "upsc-ai-kit/practice/Full-Simulation-Sets/curated-prelims-bank.json",
         "curated_descriptive_bank": "upsc-ai-kit/practice/Full-Simulation-Sets/curated-descriptive-bank.json",

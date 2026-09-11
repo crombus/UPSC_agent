@@ -2174,6 +2174,242 @@ D. Both statements together are sufficient, but neither alone is sufficient.
 Explanation: Statement 2 gives y=plus or minus 8; statement 1 selects y=8. Together they are sufficient.
 Trap: A square equation has two real roots unless sign is fixed.
 
+## Qualifying-Hindi
+
+Time: 3 Hours | Maximum marks: 300
+
+### Q1. निबन्ध [100 marks]
+
+किसी एक विषय पर लगभग 600 शब्दों में निबन्ध लिखिए।
+
+1. सार्वजनिक स्थान और नागरिक जीवन
+2. काम और विश्राम का संतुलन
+3. वैज्ञानिक सोच में प्रश्न पूछने का साहस
+4. स्थानीय कला, आजीविका और बदलता बाजार
+
+**Marking guidance:** अंक-विभाजन: विषय-बोध और स्पष्ट तर्क 20; संरचना 20; विश्लेषण, उदाहरण और संतुलन 25; व्याकरण तथा शब्दावली 25; निष्कर्ष और लगभग 600 शब्दों का पालन 10।
+
+### Q2. गद्यांश-बोध [60 marks]
+
+एक विद्यालय के विद्यार्थियों ने पास के तालाब का साप्ताहिक अध्ययन आरंभ किया। वे एक ही समय पर पानी का स्तर, पक्षियों की प्रजातियाँ और किनारे के पौधे दर्ज करते थे। पहली वर्षा के बाद कम पक्षी दिखे तो कुछ विद्यार्थियों ने वर्षा को कारण मान लिया। शिक्षक ने समझाया कि एक दिन का दृश्य कारण सिद्ध नहीं करता; संख्या देखने के स्थान, समय, शोर और ऋतु से भी बदल सकती है। नियमित विधि से लंबे समय तक दर्ज जानकारी किसी पैटर्न पर सावधानी से विचार करने में सहायता करती है। नागरिक विज्ञान विशेषज्ञ अध्ययन का विकल्प नहीं, किंतु स्थानीय परिवर्तन का प्रारंभिक संकेत बन सकता है। इसके लिए अवलोकन और अनुमान को अलग लिखना, अनुपस्थित जानकारी स्वीकार करना और निष्कर्ष को प्रमाण से अधिक व्यापक न बनाना आवश्यक है।
+
+1. विद्यार्थियों ने तालाब का साप्ताहिक अध्ययन किस उद्देश्य से आरंभ किया?
+**Model answer:** विद्यार्थी पानी, पक्षियों और पौधों में समय के साथ होने वाले परिवर्तन समझना चाहते थे।
+
+2. एक दिन का अवलोकन कारण सिद्ध करने के लिए पर्याप्त क्यों नहीं है?
+**Model answer:** एक अवलोकन कारण सिद्ध नहीं करता, क्योंकि स्थान, समय, शोर और ऋतु जैसे अन्य कारक परिणाम बदल सकते हैं।
+
+3. एक जैसी विधि से बार-बार अवलोकन करने का क्या लाभ है?
+**Model answer:** एक जैसी विधि तुलना को विश्वसनीय बनाती है और वास्तविक पैटर्न पहचानने में सहायता करती है।
+
+4. नागरिक विज्ञान की उपयोगिता और सीमा स्पष्ट कीजिए।
+**Model answer:** नागरिक विज्ञान स्थानीय बदलाव का प्रारंभिक संकेत दे सकता है, पर विशेषज्ञ अध्ययन का स्थान नहीं लेता।
+
+5. उपयुक्त शीर्षक देते हुए लेखक का दृष्टिकोण लिखिए।
+**Model answer:** उपयुक्त शीर्षक: 'सावधान अवलोकन और नागरिक विज्ञान'। लेखक प्रमाण-सीमित निष्कर्ष का समर्थन करता है।
+
+### Q3. संक्षेपण [60 marks]
+
+गद्यांश का लगभग एक-तिहाई शब्दों में संक्षेपण लिखिए; शीर्षक न दें।
+
+शहर में सार्वजनिक स्थान केवल खाली भूमि नहीं होते। सड़क का किनारा, पुस्तकालय, बाजार, पार्क और बस स्टॉप अलग आयु, आय और पृष्ठभूमि के लोगों को साझा नियमों में मिलाते हैं। यदि स्थान सुरक्षित, स्वच्छ और सुलभ हो तो नागरिक एक-दूसरे की उपस्थिति को सामान्य रूप से स्वीकारना सीखते हैं। केवल सुंदर निर्माण पर ध्यान देकर छाया, बैठने की जगह, पैदल पहुँच और दिव्यांग सुविधा की उपेक्षा की जाए तो स्थान दिखने में आकर्षक पर व्यवहार में बहिष्कारी हो सकता है। उपयोगकर्ताओं की भागीदारी रखरखाव और वास्तविक जरूरत समझने में सहायक है, किंतु किसी प्रभावशाली समूह को सार्वजनिक स्थान पर निजी नियंत्रण नहीं मिलना चाहिए। अच्छा डिजाइन तभी सफल है जब नियमित सफाई, मरम्मत, प्रकाश और निष्पक्ष नियम उससे जुड़े हों।
+
+**Model answer:** सार्वजनिक स्थान विविध नागरिकों को साझा जीवन और नियमों का अनुभव देते हैं। सुंदरता के साथ सुरक्षा, छाया, बैठने, पैदल और दिव्यांग पहुँच आवश्यक है। उपयोगकर्ता भागीदारी जरूरत और रखरखाव सुधार सकती है, पर निजी कब्जा नहीं होना चाहिए। समावेशी डिजाइन को नियमित देखभाल और निष्पक्ष नियम ही सफल बनाते हैं।
+
+### Q4. हिन्दी से अंग्रेज़ी अनुवाद [20 marks]
+
+सार्वजनिक स्थान समानता का व्यावहारिक अनुभव देते हैं। उनकी गुणवत्ता केवल निर्माण से नहीं, सुरक्षित पहुँच, नियमित रखरखाव और निष्पक्ष उपयोग-नियमों से तय होती है।
+
+**Model answer:** Public spaces provide a practical experience of equality. Their quality depends not merely on construction but on safe access, regular maintenance and fair rules of use.
+
+### Q5. अंग्रेज़ी से हिन्दी अनुवाद [20 marks]
+
+Scientific temper requires curiosity as well as discipline. A useful question must be followed by careful observation, comparison and willingness to revise the conclusion.
+
+**Model answer:** वैज्ञानिक दृष्टिकोण में जिज्ञासा के साथ अनुशासन भी आवश्यक है। उपयोगी प्रश्न के बाद सावधान अवलोकन, तुलना और निष्कर्ष बदलने की तत्परता होनी चाहिए।
+
+### Q6. भाषा-प्रयोग [40 marks]
+
+#### A. मुहावरों का अर्थ स्पष्ट करते हुए वाक्य बनाइए
+
+1. दाँत खट्टे करना
+**Answer:** दाँत खट्टे करना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+2. नौ दो ग्यारह होना
+**Answer:** नौ दो ग्यारह होना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+3. नाक में दम करना
+**Answer:** नाक में दम करना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+4. चार चाँद लगाना
+**Answer:** चार चाँद लगाना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+5. कमर कसना
+**Answer:** कमर कसना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+#### B. वाक्य शुद्ध कीजिए
+
+1. अनेक व्यक्ति वहाँ उपस्थित था।
+**Answer:** अनेक व्यक्ति वहाँ उपस्थित थे।
+
+2. वह मेरे से बड़ा है।
+**Answer:** वह मुझसे बड़ा है।
+
+3. कृपया मेरे को सूचना दीजिए।
+**Answer:** कृपया मुझे सूचना दीजिए।
+
+4. उसने वापस लौटकर उत्तर दिया।
+**Answer:** उसने लौटकर उत्तर दिया।
+
+5. यह नियम सभी पर समान है ना।
+**Answer:** यह नियम सभी पर समान है न?
+
+#### C. दो-दो पर्यायवाची लिखिए
+
+1. अग्नि
+**Answer:** अग्नि: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+2. वायु
+**Answer:** वायु: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+3. समुद्र
+**Answer:** समुद्र: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+4. वन
+**Answer:** वन: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+5. रात्रि
+**Answer:** रात्रि: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+#### D. शब्दों का स्वाभाविक वाक्य-प्रयोग कीजिए
+
+1. उत्तरदायित्व
+**Answer:** उत्तरदायित्व: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+2. समावेशी
+**Answer:** समावेशी: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+3. विश्वसनीय
+**Answer:** विश्वसनीय: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+4. संशोधन
+**Answer:** संशोधन: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+5. सहन-क्षमता
+**Answer:** सहन-क्षमता: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+## Qualifying-English
+
+Time: 3 Hours | Maximum marks: 300
+
+### Q1. Essay [100 marks]
+
+Write about 600 words on any one topic.
+
+1. Rules gain legitimacy when they are understandable as well as enforceable.
+2. The ability to listen is a form of public responsibility.
+3. Progress should enlarge human judgment, not merely human choice.
+4. A city is made not only by buildings but by shared habits.
+
+**Marking guidance:** Marking rubric: relevance and qualified thesis 20; organisation 20; analysis, examples and balance 25; grammar and vocabulary 25; conclusion and approximate 600-word limit 10.
+
+### Q2. Comprehension [75 marks]
+
+Public discussion of data often begins with collection: how many records an institution holds and what patterns a computer can detect. Collection is only the first step. Facts become useful when they are accurate, interpreted carefully and connected to a decision for which someone is responsible. A correct record can still answer the wrong question. Attendance does not establish learning, clinic visits do not prove recovery and average traffic speed may hide danger to pedestrians. Numbers simplify reality so that it can be compared; they should not replace the reality they simplify. Good use of data requires judgment about what a measure excludes and what behaviour a target may encourage. This does not justify abandoning measurement. Without records, failure remains invisible and claims cannot be tested. Institutions should combine numerical evidence with observation, explanation and a route for correction. They should publish enough information for scrutiny and revise a measure when it begins to conceal the problem it was designed to reveal.
+
+1. What conditions make collected facts useful?
+**Model answer:** Facts must be accurate, carefully interpreted, connected to a decision and assigned to an accountable decision-maker.
+
+2. How can a correct record answer the wrong question?
+**Model answer:** A measure can be accurate yet fail to represent the intended outcome, as attendance may be counted without measuring learning.
+
+3. What does it mean to say that numbers may replace reality?
+**Model answer:** A simplified indicator may be treated as the complete objective, causing omitted experiences and outcomes to disappear from decisions.
+
+4. Is the author opposed to measurement? Give reasons.
+**Model answer:** No. Records reveal failures and permit testing, but they must be combined with observation, explanation and correction.
+
+5. Give a suitable title and identify the author's tone.
+**Model answer:** A suitable title is 'Using Data with Judgment'. The tone is cautiously supportive rather than hostile or celebratory.
+
+### Q3. Precis Writing [75 marks]
+
+Write a precis in about one-third of the passage. Do not give a title.
+
+Silence is often treated as the absence of communication, but in public life it may signify agreement, fear, confusion or exclusion. A chairperson who invites comments and receives none cannot assume that everyone has been heard. Participants may lack technical language, fear disagreeing with a superior or believe that the decision is already final. A formal opportunity to speak is therefore not identical with a fair opportunity to influence an outcome. Listening demands more than waiting politely. It requires asking whether the question was clear, whether relevant people were present, whether another format would permit candour and whether minority reasons were recorded. These steps may slow a decision but prevent avoidable misunderstanding. Listening also has limits: no institution can postpone action until disagreement disappears, and emergencies may require speed. The aim is not unanimity but the distinction between informed acceptance and silence produced by fear, confusion or exclusion. A public body can then decide firmly while remaining open to correction.
+
+**Model answer:** Silence does not necessarily imply consent; it may arise from fear, confusion or exclusion. A formal invitation to speak is insufficient when participants lack confidence, language or real influence. Responsible listening checks clarity, representation, safe formats and the recording of minority reasons. Although decisions cannot await unanimity, institutions must distinguish informed acceptance from constrained silence and remain open to correction.
+
+### Q4. Usage and Vocabulary [50 marks]
+
+#### A. Correct the sentences
+
+1. The list of candidates are displayed.
+**Answer:** The list of candidates is displayed.
+
+2. She has lived here since five years.
+**Answer:** She has lived here for five years.
+
+3. He insisted to inspect the file.
+**Answer:** He insisted on inspecting the file.
+
+4. Neither Rohan nor his friends was ready.
+**Answer:** Neither Rohan nor his friends were ready.
+
+5. I prefer walking than driving.
+**Answer:** I prefer walking to driving.
+
+#### B. Supply the missing preposition or word
+
+1. intended ___
+**Answer:** to
+
+2. familiar ___
+**Answer:** with
+
+3. based ___
+**Answer:** on
+
+4. accused ___
+**Answer:** of
+
+5. different ___
+**Answer:** from
+
+#### C. Use the correct verb form
+
+1. If the train ___ (leave), we will wait.
+**Answer:** leaves
+
+2. She ___ (prepare) when they arrived.
+**Answer:** was preparing
+
+3. By next June, they ___ (complete) it.
+**Answer:** will have completed
+
+4. Neither answer ___ (seem) sound.
+**Answer:** seems
+
+5. I ___ (not see) him since Monday.
+**Answer:** have not seen
+
+#### D. Choose the correct word
+
+1. elicit/illicit
+**Answer:** elicit
+
+2. exceed/accede
+**Answer:** exceed
+
+3. credible/credulous
+**Answer:** credible
+
+4. affect/effect
+**Answer:** effect
+
+5. together/altogether
+**Answer:** together
+
 ## Essay
 
 Time: 3 Hours | Maximum marks: 250

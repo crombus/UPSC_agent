@@ -1,6 +1,6 @@
 # Full UPSC Simulation Sets
 
-Four deterministic simulation sets cover Prelims GS-I, CSAT, Essay, Mains GS-I-IV, and Philosophy Optional Papers I-II. Question papers contain no keys or hints; every paper has a separate detailed answer-key PDF.
+Four deterministic simulation sets cover Prelims GS-I, CSAT, qualifying Hindi Paper A, qualifying English Paper B, Essay, Mains GS-I-IV, and Philosophy Optional Papers I-II. Question papers contain no keys or hints; every paper has a separate detailed answer-key PDF.
 
 **Current-affairs cutoff:** 2026-09-10. No later event is used.
 
@@ -12,6 +12,8 @@ Four deterministic simulation sets cover Prelims GS-I, CSAT, Essay, Mains GS-I-I
 - **Mains:** Synthesis, critique, competing viewpoints, constitutional/institutional or evidence-based analysis, qualification and current-static integration.
 - **Philosophy:** Textual and doctrinal precision, argument reconstruction, objections and strongest replies, and comparisons across thinkers or schools.
 
+- **Qualifying languages:** Matriculation-level language skills tested through demanding but fair comprehension, precis, composition, translation and usage tasks.
+
 ## Regeneration
 
 From the repository root run:
@@ -20,7 +22,7 @@ From the repository root run:
 python tools\build_full_upsc_simulations.py --all
 ```
 
-The script reads tracked `learning_package_final` workbooks for static Prelims items, uses checked deterministic CSAT generation, writes four JSON and Markdown source editions, renders all PDFs, and recreates the manifest and validation reports.
+The script reads tracked `learning_package_final` workbooks for static Prelims items, uses checked deterministic CSAT generation, writes four JSON and Markdown source editions, renders all 88 PDFs, and recreates the manifest and validation reports.
 
 Current claims are admitted only from repository-verified source records or directly retrieved official PIB/MEA/RBI/ministry/constitutional sources. Generic web-search summaries are not source evidence; when official retrieval is blocked or thin, the sets use static-current conceptual linkage instead of asserting an unsupported event.
 

@@ -2174,6 +2174,242 @@ D. Both statements together are sufficient, but neither alone is sufficient.
 Explanation: Statement 2 gives y=plus or minus 7; statement 1 selects y=7. Together they are sufficient.
 Trap: A square equation has two real roots unless sign is fixed.
 
+## Qualifying-Hindi
+
+Time: 3 Hours | Maximum marks: 300
+
+### Q1. निबन्ध [100 marks]
+
+किसी एक विषय पर लगभग 600 शब्दों में निबन्ध लिखिए।
+
+1. सुविधा और उत्तरदायित्व का संबंध
+2. सार्वजनिक जीवन में विश्वास का महत्त्व
+3. कृत्रिम बुद्धिमत्ता और मानवीय विवेक
+4. मातृभाषा में शिक्षा की संभावनाएँ
+
+**Marking guidance:** अंक-विभाजन: विषय-बोध और स्पष्ट तर्क 20; संरचना 20; विश्लेषण, उदाहरण और संतुलन 25; व्याकरण तथा शब्दावली 25; निष्कर्ष और लगभग 600 शब्दों का पालन 10।
+
+### Q2. गद्यांश-बोध [60 marks]
+
+लोकतांत्रिक शासन में शिकायत केवल असंतोष का संकेत नहीं, व्यवस्था को सुधारने वाली सूचना भी है। नागरिक कार्यालय, विद्यालय, अस्पताल और स्थानीय निकाय की कार्यप्रणाली को प्रतिदिन अनुभव करते हैं, इसलिए वे ऐसी कमियाँ पहचान सकते हैं जो दूर बैठे अधिकारी की रिपोर्ट में दिखाई नहीं देतीं। शिकायत तभी उपयोगी बनती है जब उसे सुनने, दर्ज करने, जाँचने और सुधारने की विश्वसनीय प्रक्रिया हो। केवल पंजीकरण संख्या समाधान नहीं है। यदि मामला गलत विभाग में भेज दिया जाए, बिना कारण बंद कर दिया जाए या अपील का मार्ग न हो, तो तकनीक निराशा को डिजिटल रूप दे देती है। हर माँग स्वीकार करना भी आवश्यक नहीं; तथ्यहीन या नियम-विरुद्ध शिकायत को कारणयुक्त उत्तर मिलना चाहिए। अनेक समान शिकायतों का विश्लेषण यह भी दिखा सकता है कि दोष किसी व्यक्ति में नहीं, पूरी प्रक्रिया में है।
+
+1. नागरिक व्यवस्था की कमियों को जल्दी क्यों पहचान सकते हैं?
+**Model answer:** नागरिक सेवाओं का प्रत्यक्ष और नियमित अनुभव करते हैं, इसलिए वे रिपोर्ट से छूटी व्यावहारिक कमियाँ जल्दी पहचानते हैं।
+
+2. केवल शिकायत संख्या पर्याप्त क्यों नहीं है? आवश्यक प्रक्रिया-तत्व लिखिए।
+**Model answer:** शिकायत को सुनना, दर्ज करना, जाँचना, जिम्मेदार अधिकारी को भेजना और सुधार या कारणयुक्त उत्तर देना आवश्यक है।
+
+3. तकनीक द्वारा निराशा को डिजिटल रूप देने का क्या अर्थ है?
+**Model answer:** इसका अर्थ है कि डिजिटल पंजीकरण तो हो, पर वास्तविक जाँच, कार्रवाई और अपील न हो।
+
+4. तथ्यहीन या नियम-विरुद्ध शिकायत होने पर संस्था का क्या दायित्व है?
+**Model answer:** तथ्यहीन या नियम-विरुद्ध शिकायत भी कारणयुक्त निर्णय और उपलब्ध अपील की अधिकारी है।
+
+5. उपयुक्त शीर्षक देते हुए लेखक का समग्र रुख स्पष्ट कीजिए।
+**Model answer:** उपयुक्त शीर्षक: 'शिकायत से प्रशासनिक सीख'। लेखक शिकायत को व्यक्तिगत राहत के साथ व्यवस्था-सुधार का साधन मानता है।
+
+### Q3. संक्षेपण [60 marks]
+
+गद्यांश का लगभग एक-तिहाई शब्दों में संक्षेपण लिखिए; शीर्षक न दें।
+
+किसी समाज की प्रगति केवल नई सड़क, विद्यालय, भवन या डिजिटल सेवा बनाने से नहीं मापी जा सकती। यह भी देखना आवश्यक है कि सुविधा समय के साथ विश्वसनीय रहती है या नहीं। उद्घाटन दिखाई देता है, पर रखरखाव छोटे नियमित कार्यों में बँटा होता है। थोड़ी रुकावट, छोटी दरार या पुरानी सुरक्षा-व्यवस्था तुरंत संकट नहीं बनती, किंतु प्रणाली की सहन-क्षमता घटाती रहती है। भारी वर्षा या अधिक भीड़ में ये कमियाँ जुड़कर बड़ी विफलता बनती हैं। समस्या केवल धन की नहीं; प्रशिक्षित कर्मचारी, पुर्जे, स्थानीय निरीक्षण और स्पष्ट जिम्मेदारी भी चाहिए। उपयोगकर्ता समस्या पहले पहचान सकते हैं, पर उनकी सूचना के लिए सरल शिकायत-माध्यम और कार्रवाई का उत्तर आवश्यक है। अच्छा रखरखाव पहले से खर्च धन का सम्मान, दुर्घटना की रोकथाम और समानता की रक्षा है, क्योंकि गरीब नागरिक सार्वजनिक सेवा विफल होने पर निजी विकल्प नहीं खरीद सकता।
+
+**Model answer:** प्रगति का सही माप नई सुविधा के साथ उसकी निरंतर विश्वसनीयता है। छोटी उपेक्षाएँ दबाव के समय बड़ी विफलता बनती हैं। रखरखाव के लिए धन के अतिरिक्त कर्मचारी, पुर्जे, निरीक्षण और स्पष्ट जिम्मेदारी चाहिए। उपयोगकर्ताओं की सूचना तभी उपयोगी है जब शिकायत पर कार्रवाई हो। नियमित रखरखाव सार्वजनिक धन, सुरक्षा और समानता की रक्षा करता है।
+
+### Q4. हिन्दी से अंग्रेज़ी अनुवाद [20 marks]
+
+किसी संस्था की विश्वसनीयता समान नियम, समयबद्ध उत्तर और गलती सुधारने की क्षमता से बनती है। पारदर्शिता का अर्थ केवल सूचना प्रकाशित करना नहीं, उसे सामान्य व्यक्ति के लिए समझने योग्य बनाना भी है।
+
+**Model answer:** An institution earns trust through equal rules, timely responses and the ability to correct mistakes. Transparency means not merely publishing information but making it understandable to an ordinary person.
+
+### Q5. अंग्रेज़ी से हिन्दी अनुवाद [20 marks]
+
+Education develops the ability to examine evidence, listen to disagreement and revise an opinion when better reasons become available. A democratic society needs these habits.
+
+**Model answer:** शिक्षा प्रमाण की जाँच करने, असहमति सुनने और बेहतर कारण मिलने पर मत बदलने की क्षमता विकसित करती है। लोकतांत्रिक समाज को इन आदतों की आवश्यकता होती है।
+
+### Q6. भाषा-प्रयोग [40 marks]
+
+#### A. मुहावरों का अर्थ स्पष्ट करते हुए वाक्य बनाइए
+
+1. आँख खुलना
+**Answer:** आँख खुलना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+2. टेढ़ी खीर
+**Answer:** टेढ़ी खीर: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+3. आकाश-पाताल एक करना
+**Answer:** आकाश-पाताल एक करना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+4. रंग में भंग पड़ना
+**Answer:** रंग में भंग पड़ना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+5. हाथ पर हाथ धरे बैठना
+**Answer:** हाथ पर हाथ धरे बैठना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+#### B. वाक्य शुद्ध कीजिए
+
+1. प्रत्येक विद्यार्थियों को पुस्तक मिली।
+**Answer:** प्रत्येक विद्यार्थी को पुस्तक मिली।
+
+2. सीता और मोहन बाजार गई।
+**Answer:** सीता और मोहन बाजार गए।
+
+3. मुझे एक चाय का कप चाहिए।
+**Answer:** मुझे एक कप चाय चाहिए।
+
+4. गांधीजी महान नेता था।
+**Answer:** गांधीजी महान नेता थे।
+
+5. जहाँ आज भवन है, यहाँ पहले मैदान था।
+**Answer:** जहाँ आज भवन है, वहाँ पहले मैदान था।
+
+#### C. दो-दो पर्यायवाची लिखिए
+
+1. आकाश
+**Answer:** आकाश: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+2. जल
+**Answer:** जल: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+3. सूर्य
+**Answer:** सूर्य: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+4. पृथ्वी
+**Answer:** पृथ्वी: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+5. पक्षी
+**Answer:** पक्षी: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+#### D. शब्दों का स्वाभाविक वाक्य-प्रयोग कीजिए
+
+1. उत्तरदायित्व
+**Answer:** उत्तरदायित्व: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+2. समावेशी
+**Answer:** समावेशी: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+3. विश्वसनीय
+**Answer:** विश्वसनीय: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+4. संशोधन
+**Answer:** संशोधन: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+5. सहन-क्षमता
+**Answer:** सहन-क्षमता: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+## Qualifying-English
+
+Time: 3 Hours | Maximum marks: 300
+
+### Q1. Essay [100 marks]
+
+Write about 600 words on any one topic.
+
+1. Convenience without responsibility weakens citizenship.
+2. Efficiency is not the same as effectiveness.
+3. Certainty can be a barrier to learning.
+4. Reading is an exercise in freedom.
+
+**Marking guidance:** Marking rubric: relevance and qualified thesis 20; organisation 20; analysis, examples and balance 25; grammar and vocabulary 25; conclusion and approximate 600-word limit 10.
+
+### Q2. Comprehension [75 marks]
+
+Public institutions often give greater attention to constructing a new asset than to maintaining an existing one. Construction creates a visible object and a date for inauguration; maintenance is repetitive, dispersed and difficult to celebrate. Yet the reliability of a road, school, irrigation channel or digital platform depends on regular inspection, repair and adaptation. Neglect rarely causes immediate collapse. A blocked drain, a small crack or an outdated software component first reduces the system's ability to absorb pressure. Under heavy rain, high demand or an emergency, minor weaknesses interact and create what appears to be a sudden failure. The problem is financial because capital and maintenance budgets are often separated. It is also institutional because responsibility may be divided among agencies, each expecting another to act. Users can supply early warnings, but their information matters only when complaints are acknowledged, assigned and followed by visible action. Good maintenance is therefore a form of public ethics: it respects money already spent, prevents avoidable harm and protects citizens who cannot purchase private alternatives.
+
+1. Why does construction usually receive more public attention than maintenance?
+**Model answer:** Construction is visible and offers an inauguration, whereas maintenance is repetitive, dispersed and less easily celebrated.
+
+2. Why may a supposedly sudden failure actually be the result of long neglect?
+**Model answer:** Small defects gradually reduce resilience and then interact under stress, producing a crisis whose causes accumulated over time.
+
+3. Identify one financial and one institutional cause of poor maintenance.
+**Model answer:** Financially, capital and maintenance budgets are separated; institutionally, fragmented responsibility allows each agency to wait for another.
+
+4. When does information supplied by users become useful?
+**Model answer:** It becomes useful when institutions acknowledge it, assign responsibility and report or undertake corrective action.
+
+5. Suggest a title and state the central argument.
+**Model answer:** A suitable title is 'The Ethics of Maintenance'. The passage argues that reliable maintenance is essential to efficiency, equity and accountable public service.
+
+### Q3. Precis Writing [75 marks]
+
+Write a precis in about one-third of the passage. Do not give a title.
+
+Modern life rewards speed. Messages travel instantly, goods arrive rapidly and public opinion forms before facts have been fully examined. Speed can save lives and reduce costs, so every delay is easily treated as incompetence. Yet valuable work often needs time for attention, verification and judgment. A doctor may need to act quickly, but an incomplete diagnosis can expose a patient to needless treatment. A judge should avoid unnecessary procedure, but a decision made without hearing the parties is not efficient justice. Digital interfaces intensify the conflict by shortening the distance between impulse and action. Institutions should therefore distinguish delay from deliberation. Delay occurs when work is unattended or procedure serves no purpose; deliberation occurs when evidence is gathered, claims are compared and reasons are recorded. Measurement must also go beyond disposal counts, because workers may close cases without solving them when only speed is rewarded. Individuals need similar habits: verify before forwarding, pause before replying in anger and examine alternatives before an irreversible choice. The mature alternative to haste is not endless postponement but disciplined timeliness: acting as soon as necessary knowledge, authority and safeguards are present.
+
+**Model answer:** Speed is valuable but cannot replace attention and judgment. In medicine, justice and digital action, haste may create serious errors. Institutions must separate idle delay from useful deliberation, which gathers evidence and records reasons. Performance measures should reward solved problems rather than rapid disposal. Individuals should also verify claims, control impulsive replies and consider alternatives. The proper goal is disciplined timeliness: action without needless delay once adequate knowledge and safeguards exist.
+
+### Q4. Usage and Vocabulary [50 marks]
+
+#### A. Correct the sentences
+
+1. One of the files are missing.
+**Answer:** One of the files is missing.
+
+2. She is capable to solve the problem.
+**Answer:** She is capable of solving the problem.
+
+3. The officer discussed about the proposal.
+**Answer:** The officer discussed the proposal.
+
+4. Neither of the alternatives are acceptable.
+**Answer:** Neither of the alternatives is acceptable.
+
+5. I have been waiting since three hours.
+**Answer:** I have been waiting for three hours.
+
+#### B. Supply the missing preposition or word
+
+1. comply ___
+**Answer:** with
+
+2. abstain ___
+**Answer:** from
+
+3. responsible ___
+**Answer:** for
+
+4. distinguish X ___
+**Answer:** from Y
+
+5. insist ___
+**Answer:** on
+
+#### C. Use the correct verb form
+
+1. By the time we arrived, the meeting ___ (end).
+**Answer:** had ended
+
+2. If she ___ (work) regularly, she will improve.
+**Answer:** works
+
+3. The officer ___ (read) when the call came.
+**Answer:** was reading
+
+4. The Earth ___ (move) around the Sun.
+**Answer:** moves
+
+5. He ___ (serve) here since 2022.
+**Answer:** has served
+
+#### D. Choose the correct word
+
+1. complement/compliment
+**Answer:** complement
+
+2. stationary/stationery
+**Answer:** stationery
+
+3. principal/principle
+**Answer:** principle
+
+4. affect/effect
+**Answer:** affect
+
+5. discreet/discrete
+**Answer:** discreet
+
 ## Essay
 
 Time: 3 Hours | Maximum marks: 250

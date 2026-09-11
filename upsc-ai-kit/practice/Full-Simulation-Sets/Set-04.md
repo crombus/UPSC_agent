@@ -2174,6 +2174,242 @@ D. Both statements together are sufficient, but neither alone is sufficient.
 Explanation: Statement 2 gives y=plus or minus 10; statement 1 selects y=10. Together they are sufficient.
 Trap: A square equation has two real roots unless sign is fixed.
 
+## Qualifying-Hindi
+
+Time: 3 Hours | Maximum marks: 300
+
+### Q1. निबन्ध [100 marks]
+
+किसी एक विषय पर लगभग 600 शब्दों में निबन्ध लिखिए।
+
+1. संकट से पहले बनती है सामाजिक सहन-क्षमता
+2. स्पष्ट भाषा और उत्तरदायी शासन
+3. साझा संसाधनों की देखभाल
+4. संशोधन ज्ञान की कमजोरी नहीं
+
+**Marking guidance:** अंक-विभाजन: विषय-बोध और स्पष्ट तर्क 20; संरचना 20; विश्लेषण, उदाहरण और संतुलन 25; व्याकरण तथा शब्दावली 25; निष्कर्ष और लगभग 600 शब्दों का पालन 10।
+
+### Q2. गद्यांश-बोध [60 marks]
+
+आपदा-तैयारी का आकलन केवल योजना-पत्र से नहीं किया जा सकता। दस्तावेज आवश्यक है, पर वह यह सिद्ध नहीं करता कि लोग अपनी भूमिका जानते हैं, उपकरण काम करते हैं या चेतावनी जोखिम में पड़े व्यक्ति तक पहुँचती है। तैयारी एक श्रृंखला है। सही पूर्वानुमान भी व्यर्थ है यदि संदेश देर से पहुँचे; समय पर चेतावनी भी विफल है यदि भाषा समझ में न आए; निकासी आदेश भी निष्फल है यदि परिवहन, आश्रय या विश्वास न हो। अभ्यास इन कमियों को संकट से पहले दिखा सकता है, बशर्ते वह पहले से तय सफलता का प्रदर्शन न हो। स्थानीय लोग जानते हैं कि कौन-सा मार्ग पहले डूबता है और किसे सहायता चाहिए। केंद्रीय समन्वय मानक और संसाधन दे, पर स्थानीय सूचना को दबाए नहीं। घटना के बाद समीक्षा का उद्देश्य सुविधाजनक दोषी खोजना नहीं, अनुभव को प्रशिक्षण, बजट और सुधरी प्रक्रिया में बदलना होना चाहिए।
+
+1. केवल योजना-पत्र आपदा-तैयारी का पर्याप्त प्रमाण क्यों नहीं है?
+**Model answer:** योजना-पत्र भूमिका की समझ, उपकरण की कार्यक्षमता और चेतावनी की वास्तविक पहुँच सिद्ध नहीं करता।
+
+2. तैयारी को एक श्रृंखला कहने का क्या आशय है?
+**Model answer:** पूर्वानुमान, संदेश, समझ, निकासी, परिवहन, आश्रय और विश्वास परस्पर जुड़ी कड़ियाँ हैं।
+
+3. अभ्यास वास्तविक कमियाँ कब उजागर कर सकता है?
+**Model answer:** यथार्थ दबाव वाला अभ्यास छिपी कमियाँ दिखाता है; पूर्वनियोजित प्रदर्शन वास्तविक तैयारी नहीं जाँचता।
+
+4. केंद्रीय समन्वय और स्थानीय ज्ञान का संबंध कैसा होना चाहिए?
+**Model answer:** केंद्र मानक और संसाधन दे, जबकि स्थानीय जोखिम और जरूरत की सूचना निर्णय में शामिल हो।
+
+5. उपयुक्त शीर्षक देते हुए घटना-पश्चात समीक्षा का उद्देश्य स्पष्ट कीजिए।
+**Model answer:** उपयुक्त शीर्षक: 'योजना से आगे आपदा-तैयारी'। लेखक सीखने वाली, श्रृंखला-आधारित तैयारी का पक्षधर है।
+
+### Q3. संक्षेपण [60 marks]
+
+गद्यांश का लगभग एक-तिहाई शब्दों में संक्षेपण लिखिए; शीर्षक न दें।
+
+गलती सुधारना प्रायः प्रतिष्ठा की हानि माना जाता है, इसलिए संस्था बदले प्रमाण के बाद भी पुराने निर्णय का बचाव करती रहती है। इससे अल्पकालिक छवि बच सकती है, पर दीर्घकालिक हानि बढ़ती है। सुधार-व्यवस्था को ईमानदार संशोधन और लापरवाही में अंतर करना चाहिए। उपलब्ध प्रमाण की उपेक्षा, गलती छिपाने और दोहराने पर जवाबदेही हो; नई जानकारी पर उचित निष्कर्ष बदलने को दंडित न किया जाए। अभिलेख बताते हैं कि निर्णय के समय क्या ज्ञात था और विपरीत प्रमाण कब मिला। चुपचाप नियम बदलना भविष्य की हानि रोक सकता है, पर पहले प्रभावित व्यक्ति को उपचार नहीं देता। जिम्मेदार संस्था बदलाव बताती, जहाँ संभव हो परिणाम सुधारती और पुनरावृत्ति रोकने की प्रक्रिया स्पष्ट करती है।
+
+**Model answer:** प्रतिष्ठा बचाने के लिए सुधार रोकना दीर्घकालिक हानि बढ़ाता है। जवाबदेही लापरवाही और गलती छिपाने पर हो, नई जानकारी के कारण उचित संशोधन पर नहीं। अभिलेख निर्णय और बदले प्रमाण का समय स्पष्ट करते हैं। जिम्मेदार सुधार बदलाव बताता, प्रभावित व्यक्ति को उपचार देता और पुनरावृत्ति रोकता है।
+
+### Q4. हिन्दी से अंग्रेज़ी अनुवाद [20 marks]
+
+सुधार का अर्थ केवल भविष्य का नियम बदलना नहीं है। संस्था को प्रभावित व्यक्ति तक पहुँचना, संभव उपचार देना और यह बताना चाहिए कि वही त्रुटि दोबारा कैसे रोकी जाएगी।
+
+**Model answer:** Correction means more than changing a future rule. The institution should reach affected people, provide a remedy where possible and explain how recurrence will be prevented.
+
+### Q5. अंग्रेज़ी से हिन्दी अनुवाद [20 marks]
+
+Preparedness is a chain, and its weakest link may determine the outcome. Forecasts, trusted warnings, transport, shelters and local knowledge must work together.
+
+**Model answer:** तैयारी एक श्रृंखला है और उसकी सबसे कमजोर कड़ी परिणाम तय कर सकती है। पूर्वानुमान, विश्वसनीय चेतावनी, परिवहन, आश्रय और स्थानीय ज्ञान को साथ काम करना चाहिए।
+
+### Q6. भाषा-प्रयोग [40 marks]
+
+#### A. मुहावरों का अर्थ स्पष्ट करते हुए वाक्य बनाइए
+
+1. रंगे हाथ पकड़ा जाना
+**Answer:** रंगे हाथ पकड़ा जाना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+2. एक और एक ग्यारह
+**Answer:** एक और एक ग्यारह: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+3. कान भरना
+**Answer:** कान भरना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+4. दाल न गलना
+**Answer:** दाल न गलना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+5. पलक पाँवड़े बिछाना
+**Answer:** पलक पाँवड़े बिछाना: अर्थ और स्वाभाविक वाक्य - प्रत्येक के 2 अंक।
+
+#### B. वाक्य शुद्ध कीजिए
+
+1. दोनों अधिकारी उपस्थित था।
+**Answer:** दोनों अधिकारी उपस्थित थे।
+
+2. मेरे को यह बात मालूम नहीं।
+**Answer:** मुझे यह बात मालूम नहीं है।
+
+3. वह केवल मात्र पाँच मिनट रुका।
+**Answer:** वह केवल पाँच मिनट रुका।
+
+4. कई समस्या सामने आई।
+**Answer:** कई समस्याएँ सामने आईं।
+
+5. वह काम करके वापस लौटा आया।
+**Answer:** वह काम करके लौट आया।
+
+#### C. दो-दो पर्यायवाची लिखिए
+
+1. चंद्रमा
+**Answer:** चंद्रमा: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+2. मेघ
+**Answer:** मेघ: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+3. घर
+**Answer:** घर: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+4. मार्ग
+**Answer:** मार्ग: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+5. मित्र
+**Answer:** मित्र: कोई दो मानक पर्यायवाची स्वीकार्य।
+
+#### D. शब्दों का स्वाभाविक वाक्य-प्रयोग कीजिए
+
+1. उत्तरदायित्व
+**Answer:** उत्तरदायित्व: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+2. समावेशी
+**Answer:** समावेशी: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+3. विश्वसनीय
+**Answer:** विश्वसनीय: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+4. संशोधन
+**Answer:** संशोधन: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+5. सहन-क्षमता
+**Answer:** सहन-क्षमता: अर्थ स्पष्ट करने वाला व्याकरण-सम्मत वाक्य।
+
+## Qualifying-English
+
+Time: 3 Hours | Maximum marks: 300
+
+### Q1. Essay [100 marks]
+
+Write about 600 words on any one topic.
+
+1. Resilience is built before a crisis becomes visible.
+2. Good communication makes authority more accountable.
+3. A society that cannot correct error cannot preserve knowledge.
+4. Shared spaces teach the practical meaning of equality.
+
+**Marking guidance:** Marking rubric: relevance and qualified thesis 20; organisation 20; analysis, examples and balance 25; grammar and vocabulary 25; conclusion and approximate 600-word limit 10.
+
+### Q2. Comprehension [75 marks]
+
+Preparedness is frequently judged by the existence of a plan. A document is necessary, but it cannot prove that people know their roles, equipment works or warnings reach those at risk. Real preparedness is a chain whose weakest link may determine the result. Forecasting is of little value if the message is delayed; a timely warning fails if it is not understood; an evacuation order fails when transport, shelters or trust are absent. Exercises expose these gaps before an emergency, provided they test realistic pressure rather than demonstrate a prearranged success. Local knowledge is equally important because residents know which road floods first, who needs assistance and which message will be trusted. Central coordination can supply standards and resources, but it should not silence local information. After an event, review must identify system failures without becoming a search for a convenient individual to blame. Preparedness improves when institutions convert experience into revised procedures, budgets, training and public communication.
+
+1. Why is the existence of a plan insufficient evidence of preparedness?
+**Model answer:** A plan does not show that roles are understood, equipment functions or warnings and assistance will reach people.
+
+2. Explain the chain character of preparedness.
+**Model answer:** Forecasting, communication, understanding, evacuation, transport, shelter and trust are linked; failure at one stage can defeat the rest.
+
+3. What makes an exercise useful?
+**Model answer:** It must reproduce realistic pressure and reveal gaps rather than stage a predetermined success.
+
+4. How should central coordination and local knowledge relate?
+**Model answer:** Central authorities should provide standards and resources while incorporating local knowledge about risks, people and trusted communication.
+
+5. What is the purpose of post-event review?
+**Model answer:** To identify systemic weaknesses and convert experience into improved procedures, budgets, training and communication.
+
+### Q3. Precis Writing [75 marks]
+
+Write a precis in about one-third of the passage. Do not give a title.
+
+Correction is often experienced as embarrassment because it admits that an earlier judgment was incomplete or wrong. Institutions may therefore defend a decision long after evidence has changed. This protects short-term reputation but increases long-term damage. A correction system should distinguish honest revision from negligence. People should be accountable for ignoring available evidence, concealing mistakes or repeating avoidable errors; they should not be punished merely for revising a reasonable conclusion when new facts emerge. Records make this distinction possible by showing what was known, why a choice was made and when contrary evidence appeared. Correction also requires communication. Quietly changing a rule may stop future harm but leaves affected people without remedy and allows false information to persist. A responsible institution states what changed, repairs consequences where possible and explains how recurrence will be prevented. The capacity to correct is thus not evidence of weakness. It is a discipline that preserves trust by making authority answerable to reality.
+
+**Model answer:** Institutions often resist correction to protect reputation, thereby increasing harm. Accountability should punish concealment, negligence and repeated avoidable error, not reasonable revision after new evidence. Records reveal what was known and when change became necessary. Responsible correction also informs affected people, repairs consequences and prevents recurrence. Revision is therefore a disciplined form of authority's accountability to reality.
+
+### Q4. Usage and Vocabulary [50 marks]
+
+#### A. Correct the sentences
+
+1. The quality of these roads have improved.
+**Answer:** The quality of these roads has improved.
+
+2. He ordered for a fresh inquiry.
+**Answer:** He ordered a fresh inquiry.
+
+3. She did not knew the rule.
+**Answer:** She did not know the rule.
+
+4. The equipment were tested.
+**Answer:** The equipment was tested.
+
+5. No sooner did he arrive when it rained.
+**Answer:** No sooner did he arrive than it rained.
+
+#### B. Supply the missing preposition or word
+
+1. adhere ___
+**Answer:** to
+
+2. entrust ___
+**Answer:** with
+
+3. protect ___
+**Answer:** from
+
+4. depend ___
+**Answer:** on
+
+5. object ___
+**Answer:** to
+
+#### C. Use the correct verb form
+
+1. By tomorrow, I ___ (finish) the draft.
+**Answer:** will have finished
+
+2. Unless he ___ (apologise), they will leave.
+**Answer:** apologises
+
+3. The bridge ___ (repair) last year.
+**Answer:** was repaired
+
+4. She ___ (write) when the lights failed.
+**Answer:** was writing
+
+5. We ___ (know) them for a decade.
+**Answer:** have known
+
+#### D. Choose the correct word
+
+1. adapt/adopt
+**Answer:** adopt
+
+2. precede/proceed
+**Answer:** precede
+
+3. personal/personnel
+**Answer:** personnel
+
+4. cite/site
+**Answer:** cite
+
+5. eminent/imminent
+**Answer:** imminent
+
 ## Essay
 
 Time: 3 Hours | Maximum marks: 250
