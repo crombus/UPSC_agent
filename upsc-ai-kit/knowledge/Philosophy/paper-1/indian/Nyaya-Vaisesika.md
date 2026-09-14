@@ -537,6 +537,118 @@ Using the hill-fire example:
 - ✅ If one is told that a **gavaya** resembles a cow, later encountering such an animal yields knowledge that this is what the word denotes.
 - ⚠️ The point is semantic acquisition via similarity.
 
+### 3.5A NYĀYA AND MĪMĀṂSĀ ON COMPARISON (UPAMĀNA) ✅ (owner block; 2026 Q8(a), 20 marks)
+
+> **Ownership note:** the full comparison is owned here; [`Mimamsa.md`](Mimamsa.md) §3.7 states the Mīmāṃsā definition and cross-links to this block. Do not duplicate the debate in both files.
+
+#### 3.5A.1 The Nyāya account — knowledge of the word–object relation ✅
+
+**Definition.** *Nyāya-sūtra* 1.1.6: comparison is the means by which something is made known **through its similarity to something already well known** (*prasiddha-sādharmya*). Its distinctive fruit is knowledge of the **relation between a name and what it names** (*saṃjñā–saṃjñi-sambandha*). ✅
+
+**The classical gavaya case, in four steps:**
+1. A **reliable speaker (āpta)** says: "A **gavaya** (wild ox) resembles a cow."
+2. The hearer goes to the forest and **perceives** an animal with that resemblance.
+3. He **remembers** the instruction.
+4. He cognises: "**This is what the word 'gavaya' denotes**." ✅ — the *upamiti*.
+
+**Why it is irreducible ✅ (the heart of any 20-mark answer):**
+
+| Reduction attempt | Nyāya's answer |
+|---|---|
+| It is just **perception** | Perception presents the animal; it cannot by itself establish that a *word* denotes it. The denotative relation is not a perceptible quality of the beast. |
+| It is just **testimony (śabda)** | The earlier sentence spoke of a general resemblance; it did not identify **this** individual as the referent. Testimony supplies the major premise of the resemblance, not the naming-cognition. |
+| It is just **inference** | No invariable concomitance (**vyāpti**) is employed and no *liṅga* is used as a probans; the cognition is direct upon perceiving the similarity. |
+| It is just **memory** | Memory reproduces the instruction; it does not generate the new naming-cognition. ✅ (See §3.7 — memory is not a pramāṇa.) |
+
+- ⚠️ **Structure:** testimony + perception + memory are **auxiliary conditions**; the operative instrument (*karaṇa*) is the **cognition of similarity**, and the fruit is the naming-cognition. Nyāya's realism about universals and about word–object relations underwrites this.
+
+#### 3.5A.2 The Mīmāṃsā account — knowledge of similarity in the absent thing ✅
+
+Mīmāṃsā keeps the same story and **changes the cognitive result**:
+1. One has previously known a **cow**.
+2. One now perceives a **gavaya** and perceives its similarity to the cow.
+3. Although the cow is **absent and only remembered**, one newly cognises: "**The cow (that I saw) resembles this gavaya.**" ✅
+
+**Why Mīmāṃsā says this is irreducible:**
+- **not perception** — the cow is not present to the senses now;
+- **not memory** — *this particular* cow-to-gavaya similarity was never previously experienced, so it cannot be reproduced;
+- **not inference** — the cognition is experienced as direct comparison and uses no independently established universal concomitance. ✅
+
+#### 3.5A.3 Comparison table ⚠️ — the table the 2026 part is asking for
+
+| Axis | **Nyāya** | **Mīmāṃsā** |
+|---|---|---|
+| Number of pramāṇas | four: perception, inference, comparison, testimony | six (Bhāṭṭa): + postulation and non-cognition; Prābhākara accepts five (no *anupalabdhi*) |
+| Object of the resulting cognition | the **word–object relation**: "'gavaya' denotes this" | the **similarity residing in the absent, remembered cow**: "the cow resembles this gavaya" |
+| Is testimony required? | **Yes** — the prior instruction "a gavaya is like a cow" is essential | **No** — no verbal instruction is needed; prior acquaintance with the cow suffices |
+| Direction of the comparison | from the **familiar** (cow) to the **unfamiliar** (gavaya) | from the **present** (gavaya) back to the **absent familiar** (cow) |
+| What is newly known | a semantic/linguistic fact | a real relation (similarity) qualifying an unperceived object |
+| Why not inference | no *vyāpti*, no probans | no *vyāpti*; comparison is direct |
+| Underlying motivation | account for how names are learned in a realist semantics | protect the plurality of independent knowledge-sources against Nyāya-style reduction |
+| Chief vulnerability | looks analysable into testimony + perception + memory | reverses the ordinary point of analogy — it informs us about what we already knew |
+
+#### 3.5A.4 Mutual objections and replies ✅
+
+**Mīmāṃsā against Nyāya**
+- ❌ The Nyāya cognition decomposes without remainder into **testimony** (the instruction), **perception** (of the similar animal) and **memory** (of the sentence); a genuinely new pramāṇa must not be a mere sum of others.
+- ✅ **Nyāya reply:** none of the three, alone or together, *yields* the denotative relation; the relation is grasped only when the perceived similarity activates the remembered sentence, and that operation is what "upamāna" names.
+
+**Nyāya against Mīmāṃsā**
+- ❌ Comparison is supposed to make the **unknown** known through the known; the Mīmāṃsā result tells us something about a cow we already knew.
+- ❌ The cognition of the absent cow can be assigned to **memory**.
+- ❌ Resemblance is symmetrical, so "the cow resembles this gavaya" can be reached **inferentially**: things sharing the relevant features resemble one another.
+- ✅ **Mīmāṃsā replies:** (i) memory cannot reproduce a relation **never previously cognised**; (ii) perception delivers only the *gavaya-to-cow* direction, whereas upamāna newly discloses the *cow-to-gavaya* direction in an object not now perceived; (iii) the inferential reconstruction presupposes the very similarity-cognition it claims to replace.
+
+#### 3.5A.5 Qualifications and neighbourhood ⚠️
+
+- ❓ **"The Mīmāṃsā view" is not uniform:** Kumārila (Bhāṭṭa) treats similarity as **shared qualities**, while Prabhākara treats similarity as a **distinct category**; the epistemic account is shared, the ontology is not.
+- ⚠️ **Internal to this file:** the four-pramāṇa list is **Nyāya's**. Classical **Vaiśeṣika accepts only perception and inference**, reducing comparison and testimony to inference (§3.1, §1.3). Never write "Nyāya-Vaiśeṣika accepts four pramāṇas" without this qualification.
+- ⚠️ **Other schools:** Sāṃkhya accepts three (perception, inference, testimony) and reduces upamāna; Cārvāka accepts perception alone; Advaita follows the Bhāṭṭa six. See [`../_themes/Pramana-across-schools.md`](../_themes/Pramana-across-schools.md).
+
+#### 3.5A.6 Presuppositions ⚠️
+
+- **P1 (both):** a pramāṇa must yield a **novel, non-reproductive** cognition.
+- **P2 (Nyāya):** word–object relations are real and learnable; similarity is a relation among real particulars sharing universals.
+- **P3 (Mīmāṃsā):** knowledge-sources are to be **multiplied** rather than reduced, because each irreducible cognitive result marks a distinct instrument.
+- **P4 (both):** the gavaya case is decided by asking **what exactly is newly known**, not by the psychology of the episode.
+
+#### 3.5A.7 Traps ❌
+
+- ❌ Writing the Nyāya story as the Mīmāṃsā definition (the commonest error): Mīmāṃsā needs **no prior sentence**.
+- ❌ Saying Mīmāṃsā "rejects" upamāna — it accepts it and redefines its object.
+- ❌ Treating upamāna as analogy in the Western sense, or as argument from analogy; it is a **pramāṇa**, not an inference-pattern.
+- ❌ Forgetting to state the irreducibility argument; a bare narration of the gavaya story earns little at 20 marks.
+- ❌ Ignoring the Vaiśeṣika two-pramāṇa position and the intra-Mīmāṃsā (Bhāṭṭa/Prābhākara) ontological split.
+
+#### 3.5A.8 Answer spine ⚠️
+
+```
+20-mark (2026 Q8a: "Present an account of Upamāna as an instrument of knowledge. How is the Nyāya
+view different from the Mīmāṃsā view?"):
+  Frame : Every pramāṇa is individuated by the NOVEL COGNITION it alone produces; upamāna is
+          contested precisely because rivals claim to decompose it.
+  Body A: Nyāya — NS 1.1.6; the four-step gavaya case; fruit = word–object relation; irreducibility
+          grid (not perception / not testimony / not inference / not memory).
+  Body B: Mīmāṃsā — same case, different fruit: "the remembered cow resembles this gavaya";
+          irreducibility on its own terms.
+  Body C: comparison table (object of cognition, need for testimony, direction, what is new).
+  Body D: reciprocal reduction objections and replies.
+  Qualif: Bhāṭṭa vs Prābhākara on the ontology of similarity; Vaiśeṣika's two-pramāṇa list.
+  Close : "Both defend an independent upamāna; they differ over whether it teaches us a NAME or a
+           RESEMBLANCE — a disagreement about what kind of fact a cognition can newly disclose."
+
+15-mark rewording ("Is upamāna an independent pramāṇa? Discuss"):
+  Body A: the two accounts compressed; Body B: the reduction attempts (Vaiśeṣika/Sāṃkhya/Buddhist);
+  Close: independence stands or falls with the novelty criterion, which both schools accept.
+
+10-mark rewording ("Explain upamāna with an example"):
+  Definition (NS 1.1.6) → gavaya case → fruit = naming-cognition → one line on the Mīmāṃsā variant.
+```
+
+**2026 route ✅** — Paper I, Section B, **Q8(a), 20 marks**: "Present an account of Upamāna as an instrument of knowledge (Pramāṇa). How is Nyāya view of Upamāna different from Mīmāṃsā view? Discuss." Primary owner: this file, §3.5A; Mīmāṃsā half cross-owned by [`Mimamsa.md`](Mimamsa.md) §3.7. See [`../_PYQ-Indian-Philosophy-2026.md`](../_PYQ-Indian-Philosophy-2026.md).
+
+**Source anchors ✅** — [IEP, *Nyāya*, §1.c](https://iep.utm.edu/nyaya/) (on *Nyāya-sūtra* 1.1.6); [S.C. Chatterjee, *The Nyāya Theory of Knowledge*, pp. 317–20](https://www.wisdomlib.org/hinduism/essay/the-nyaya-theory-of-knowledge/d/doc1540479.html); [S.N. Dasgupta, *A History of Indian Philosophy*, Vol. I, p. 391](https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-1/d/doc209839.html).
+
 ### 3.6 Testimony (śabda)
 
 #### Statement
@@ -564,6 +676,123 @@ Using the hill-fire example:
   3. proximity (**sannidhi / āsatti**) in utterance;
   4. intended meaning (**tātparya**) where ambiguity exists.
 - ⚠️ The 2021 PYQ requires more than “trustworthy person”: connect speaker reliability, sentence comprehension and the resulting cognition of the word–object relation.
+
+### 3.6A ŚĀBDABODHA — NAIYĀYIKAS vs PRĀBHĀKARA MĪMĀṂSAKAS ✅ (owner block; 2026 Q6(c), 15 marks)
+
+> **Ownership note:** the **Nyāya ↔ Prābhākara** contest is owned here. The **Bhāṭṭa vs Prābhākara** intra-Mīmāṃsā debate (*abhihitānvayavāda* vs *anvitābhidhānavāda*) is owned by [`Mimamsa.md`](Mimamsa.md) §8. Cross-read; do not re-narrate either block in the other file.
+
+#### 3.6A.1 The shared problem ✅
+
+**Śābdabodha** = the cognition of **sentence-meaning** produced by hearing a sentence. A sentence is heard as a **succession of words**, yet what is understood is a **single unified content**. Both schools must answer: *where does the connectedness (anvaya) come from?* ✅
+
+Both agree on the four conditions of a sentence-generated cognition:
+
+| Condition | Meaning | Failure example |
+|---|---|---|
+| **ākāṅkṣā** (expectancy) | each word syntactically expects the others | "cow horse man elephant" — a mere list |
+| **yogyatā** (fitness) | the meanings must be mutually compatible | "he wets it with fire" |
+| **sannidhi / āsatti** (proximity) | the words must be uttered without disabling interval | one word today, the next tomorrow |
+| **tātparya** (intention) | the speaker's intended purport fixes the sense among possibilities | "bring saindhava" — salt at dinner, a horse before a journey |
+
+#### 3.6A.2 The Naiyāyika account — meanings first, connection afterwards ✅
+
+**Causal chain (the Nyāya sequence to reproduce in the answer):**
+1. **Śabdajñāna** — hearing/perceiving the words.
+2. **Padārthopasthiti** — each word, through its denotative power (**śakti**), presents its **own** meaning; for Nyāya a noun denotes the **individual as qualified by the universal and the configuration** (§11.1).
+3. **Smṛti** — the separately presented meanings are held together in memory.
+4. **Anvayabodha** — under ākāṅkṣā, yogyatā, sannidhi and tātparya the meanings are **syntactically combined** into one qualificative cognition.
+
+**Structure of the result.** The resulting cognition is **viśeṣaṇa–viśeṣya**: a qualificand qualified by qualifiers through a relation. In "the man cooks rice", the *action* is typically taken as the chief qualificand, with agent and object as its qualifiers. ⚠️ This is why Nyāya can analyse *any* sentence uniformly, factual or injunctive.
+
+- ⚠️ **Why Nyāya is called "abhihitānvaya-type":** like the Bhāṭṭas it holds that words first express **isolated** meanings and connection supervenes. ❓ **But Nyāya is not Bhāṭṭa Mīmāṃsā:** Nyāya explains the connecting step by the ordinary **syntactic and causal conditions** listed above, whereas the Bhāṭṭas invoke a further power of the assembled word-meanings (*tātparya-śakti / lakṣaṇā*) to produce sentence-meaning. Writing "Nyāya = abhihitānvayavāda" without this qualification is an over-simplification. ❌
+
+#### 3.6A.3 The Prābhākara account — words denote already-connected meanings ✅
+
+**Thesis (anvitābhidhānavāda):** a word denotes its meaning **only as already related** to the meanings of the other words in the sentence. There is no stage at which an isolated meaning is grasped and then joined.
+
+**The learning (vyutpatti) argument ✅ — the argument to state:**
+1. A child never hears isolated words; he hears **sentences uttered in situations**, typically **commands** — "bring the cow", "tie the horse".
+2. He sees an elder act, and learns by observing **which behaviour follows which sentence**, and by **variation** (āvāpa-udvāpa) — when one word changes, the behaviour changes.
+3. Therefore what he learns as the meaning of a word is its **contribution to the connected sentence-sense**, not a free-standing referent.
+4. Hence denotation (*abhidhāna*) is **of the connected** (*anvita*). ✅
+
+**Motivation.** Prābhākara's semantics is built on **kārya / niyoga** — the sentence's core is *what is to be done*; Vedic injunction is the paradigm of meaningful speech, and factual sentences are understood on that model. ⚠️ This is exegetical motivation, not merely linguistic theory.
+
+- ❓ **Prābhākara ≠ Bhartṛhari.** Bhartṛhari's **sphoṭa** makes the sentence an **indivisible whole** whose parts are a convenient fiction. Prabhākara keeps **real word-meanings**; he only insists they are denoted *as connected*. Conflating the two is a standard error. ❌
+
+#### 3.6A.4 Comparison table ⚠️ — the table the 2026 part is asking for
+
+| Axis | **Naiyāyika** | **Prābhākara Mīmāṃsaka** |
+|---|---|---|
+| What a word denotes | its **own** meaning, in isolation | its meaning **as connected** with the other meanings |
+| Order of meaning and connection | meanings **first**, connection **after** | connection is **built into** denotation |
+| Role of memory | essential — isolated meanings are retained and then combined | not needed for connection; the sentence presents connected sense directly |
+| Source of the connectedness | ākāṅkṣā + yogyatā + sannidhi + tātparya operating on remembered meanings | the denotative function itself |
+| Paradigm sentence | any assertion; the **action** is the chief qualificand | the **injunction** (*kārya/niyoga*) |
+| How language is learned | by learning word-meanings and rules of combination | by observing behaviour following whole sentences (*vyutpatti*) |
+| Novel sentences | explained easily: fixed lexical meanings recombined | harder: must derive new connected meanings from observed uses |
+| Dictionary/isolated word | perfectly intelligible | strictly an **abstraction** from sentence-use |
+| Nearest ally / contrast | close to Bhāṭṭa *abhihitānvaya*, but with a syntactic not a further-power explanation | opposed to Bhāṭṭa; distinct from Bhartṛhari's sphoṭa |
+
+#### 3.6A.5 Objections and replies ✅
+
+**Nyāya against Prābhākara**
+- ❌ **Circularity/regress:** to denote "as connected" a word must already be known along with what it is connected to — but those meanings are themselves only denoted as connected.
+- ❌ **Novel sentences:** if meanings are only ever connected-meanings, the intelligibility of a sentence **never heard before** is unexplained.
+- ❌ **Lexical stability:** the same word keeps its sense across indefinitely many sentences, which presupposes a **fixed** denotation.
+- ❌ **Single words work:** "Fire!" or a one-word answer is understood; dictionaries and grammatical word-classes presuppose isolable meanings.
+
+**Prābhākara's replies ✅**
+- ✅ Learning is **behavioural and holistic**, so there is no vicious circle: the child acquires word-and-connection together by variation.
+- ✅ Novel sentences are handled because what is learned is a **function** — a word's role in a connected sense — which recombines.
+- ✅ An isolated word is understood only by supplying an **elliptical context** ("Fire!" = "there is fire, flee"), which concedes the thesis.
+
+**Prābhākara against Nyāya**
+- ❌ The Nyāya account needs an **extra step** — meanings first, then combination — for which experience gives no evidence; understanding is felt as immediate.
+- ❌ It makes the **isolated word** the semantic primitive although isolated words are never how language is met with.
+- ✅ **Nyāya reply:** the steps are **causal, not introspectable**; speed of understanding is no argument against analysis. And the analysis is confirmed by cases where a condition fails (ākāṅkṣā or yogyatā), where the separate meanings are present but no unified cognition arises. ✅
+
+#### 3.6A.6 Presuppositions ⚠️
+
+- **P1 (both):** sentence-meaning is a **single cognition**, not a bundle.
+- **P2 (Nyāya):** there are determinate word–object relations (**śakti**) independent of sentential context, and cognition has qualifier–qualified structure.
+- **P3 (Prābhākara):** the primary function of language is **directive**; meaning is learned from use in action.
+- **P4 (both):** the dispute is settled by **what best explains language-learning and novel understanding**, not by introspective immediacy.
+
+#### 3.6A.7 Traps ❌
+
+- ❌ Equating Nyāya with Bhāṭṭa Mīmāṃsā (see §3.6A.2) or Prābhākara with Bhartṛhari (see §3.6A.3).
+- ❌ Omitting the four conditions; a śābdabodha answer without ākāṅkṣā/yogyatā/sannidhi/tātparya is incomplete.
+- ❌ Treating the debate as psychological ("which is faster") rather than semantic ("what is denoted").
+- ❌ Forgetting the **vyutpatti** argument — it is Prabhākara's strongest card and examiners look for it.
+- ❌ Writing that Prābhākara denies word-meanings altogether; he denies **isolated** word-meanings.
+
+#### 3.6A.8 Answer spine ⚠️
+
+```
+15-mark (2026 Q6c: "How is the Naiyayikas' view on Sabdabodha different from that of Prabhakara
+Mimamsakas? Discuss."):
+  Frame : One sentence, heard as many words, understood as ONE content — the schools split over
+          WHERE the connectedness enters.
+  Body A: shared floor — definition + the four conditions.
+  Body B: Nyāya — śakti on isolated meanings → memory → anvayabodha under the four conditions;
+          viśeṣaṇa–viśeṣya structure. (Qualify: abhihitānvaya-TYPE, not Bhāṭṭa.)
+  Body C: Prābhākara — anvitābhidhāna + the vyutpatti argument + kārya/niyoga motivation.
+          (Qualify: not Bhartṛhari's sphoṭa.)
+  Body D: comparison table (denotation, order, memory, source of connection, learning).
+  Body E: two objections each way with replies.
+  Close : "Nyāya explains language-use from language-structure; Prabhākara explains
+           language-structure from language-learning."
+
+10-mark rewording ("What is śābdabodha? State its conditions"): definition → four conditions with
+  failure examples → one line on the two rival accounts of connection.
+20-mark rewording ("Discuss the theories of sentence-meaning in Indian philosophy"): add the
+  Bhāṭṭa abhihitānvayavāda and Bhartṛhari sphoṭa positions — see Mimamsa.md §8.
+```
+
+**2026 route ✅** — Paper I, Section B, **Q6(c), 15 marks**: "How is the Naiyayikas' view on Sabdabodha different from that of the Prabhakara Mimamsakas? Discuss." Primary owner: this file, §3.6A; Prābhākara half cross-owned by [`Mimamsa.md`](Mimamsa.md) §8. See [`../_PYQ-Indian-Philosophy-2026.md`](../_PYQ-Indian-Philosophy-2026.md).
+
+**Source anchors ✅** — [S.C. Chatterjee, *The Nyāya Theory of Knowledge*, pp. 356–59 (verbal knowledge and sentence-meaning)](https://www.wisdomlib.org/hinduism/essay/the-nyaya-theory-of-knowledge/d/doc1540497.html); [IEP, *Nyāya*, §1.d (testimony)](https://iep.utm.edu/nyaya/); [Vācaspati Miśra, *Tattvabindu* (on sentence-meaning theories)](https://www.wisdomlib.org/hinduism/compilation/tattvabindu); A. Saxena, "Anvitābhidhāna and Abhihitānvaya", *Journal of Indian Philosophy* 47 (2019), 489–506.
 
 ### 3.7 Why memory (smṛti) is not a pramāṇa (2024)
 
@@ -1164,6 +1393,18 @@ Using the hill-fire example:
 
 See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md).
 
+### 2026 additions ✅
+
+| Year | Question | Marks | Exact demand | Owner status |
+|---|---|---:|---|---|
+| 2026 | Q5(a) | 10 | What are the characteristics of hetu? Discuss. | **primary** — §3.3 ("Five characteristics of a valid hetu": pakṣadharmatā, sapakṣa-sattva, vipakṣa-asattva, abādhita-viṣayatva, asatpratipakṣa) |
+| 2026 | Q5(d) | 10 | Discuss the concept of samavāya. | **primary** — §2.9 (inherence as an eternal, single, non-perceptible relation) |
+| 2026 | Q6(c) | 15 | How is the Naiyayikas' view on Sabdabodha different from that of the Prabhakara Mimamsakas? Discuss. | **primary** — §3.6A; Prābhākara side cross-owned by [`Mimamsa.md`](Mimamsa.md) §8 |
+| 2026 | Q7(a) | 20 | Critically explain the arguments presented by the Akhyativadins for erroneous cognition; evaluate the Anyathakhyativadins' arguments against them. | **cross-owned** — Nyāya's *anyathākhyāti* is stated here (§4.1–4.4); the paired comparison is owned by [`Mimamsa.md`](Mimamsa.md) §6 |
+| 2026 | Q8(a) | 20 | Present an account of Upamāna as an instrument of knowledge. How is the Nyāya view different from the Mīmāṃsā view? | **primary** — §3.5A; Mīmāṃsā side cross-owned by [`Mimamsa.md`](Mimamsa.md) §3.7 |
+
+See the [Indian Philosophy PYQ Bank, 2026](../_PYQ-Indian-Philosophy-2026.md).
+
 ## 16. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 
 ### 16.1 For a 10-marker
@@ -1205,6 +1446,7 @@ Verdict: what remains philosophically strong and where difficulty persists.
 - [../_themes/Causation-across-schools.md](../_themes/Causation-across-schools.md) — ārambhavāda in context.
 - [../_themes/Self-and-liberation-across-schools.md](../_themes/Self-and-liberation-across-schools.md) — ātman and mokṣa contrasts.
 - [../_PYQ-Indian-Philosophy-2018-2025.md](../_PYQ-Indian-Philosophy-2018-2025.md) — Indian Philosophy PYQ bank.
+- [../_PYQ-Indian-Philosophy-2026.md](../_PYQ-Indian-Philosophy-2026.md) — Indian Philosophy PYQ bank, 2026 supplement (Q5(a), Q5(d), Q6(c), Q7(a), Q8(a) route here).
 - [../../paper-2/philosophy-of-religion/Proofs-for-God.md](../../paper-2/philosophy-of-religion/Proofs-for-God.md) — cross-paper theism and critique.
 
 ## SOURCES

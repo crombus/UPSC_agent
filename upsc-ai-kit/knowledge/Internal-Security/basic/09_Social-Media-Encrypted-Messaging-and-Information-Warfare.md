@@ -390,6 +390,76 @@ security capabilities, not soft add-ons.
   contest tactic; topic 08 for the CII/DPDP legal foundation this topic
   builds on.
 
+## 14. 2026 GS-III Mains Q9 — Fake news/disinformation threat and the 2026 IT Rules amendment
+
+> **Exact 2026 question (GS-III, Q9, 10 marks, 150 words):** "Explain how fake news and
+> disinformation pose threat to Internal Security and Public Order in Indian context? In this
+> regard, discuss salient features of amendments in respect of Information Technology
+> (Intermediary Guidelines and Digital Media Ethics Code) Rules 2021." **Provenance:** OCR of
+> `books/mains/2026/QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`; supporting facts from
+> Vajiram & Ravi *The Recitals*, February 2026, pp. 11-12 (local extract), plus live-source
+> verification for GAC composition/powers.
+
+- ✅ **How fake news/disinformation threaten internal security and public order (question's
+  first ask — already established in Sections 1-3, restated as the spine's opening):** false
+  or manipulated content can trigger real-world communal violence (2013 Muzaffarnagar,
+  Section 3), incite panic-driven population movement (2012 North-East exodus, Section 3),
+  disrupt essential services (the March 2020 Delhi metro-shutdown rumour, Section 3), and
+  serve as a hybrid-warfare tool exploiting social fault lines (Section 3's five hybrid-
+  warfare domains). ⚠️ **Distinguish misinformation/disinformation/malinformation** (Section
+  2) when explaining "how" — the internal-security threat is sharpest for deliberate
+  disinformation, since it is designed, not accidental.
+- ✅ **Chronology of the IT (Intermediary Guidelines and Digital Media Ethics Code) Rules,
+  2021 and its amendments — the "salient features of amendments" the question asks for:**
+
+| Date | Instrument | Salient feature |
+|---|---|---|
+| **2021** | Original IT (Intermediary Guidelines and Digital Media Ethics Code) Rules, framed under Section 87(2) of the IT Act, 2000 | Superseded the 2011 Intermediary Guidelines Rules; introduced due-diligence obligations (Rule 3), compliance-officer requirements for significant social media intermediaries (Rule 4(1)), first-originator traceability for messaging services (Rule 4(2)), and Section 79 safe-harbour loss on non-compliance (Rule 7) (Section 4). |
+| **2022 amendment** | Amendment strengthening user-grievance redressal | Introduced the **Grievance Appellate Committee (GAC)** mechanism under **Rule 3A**, giving users a government-run appeal forum against a platform Grievance Officer's decision, in addition to court remedies. |
+| **2023 amendment** | Fact-Check Unit (FCU) amendment | Empowered a government fact-check unit to flag online content about the Union Government's business as "fake or false"; ✅ **struck down by the Bombay High Court in 2024** as violative of Articles 14 and 19(1)(a) (Section 4) — cite as the clearest proportionality limit on state-directed content classification. |
+| **2023 GAC notification** | Rule 3A operationalisation | Three Grievance Appellate Committees were notified as government-appointed, three-member appellate bodies. Appeals are filed online through `gac.gov.in`, are intended to be resolved within **30 days**, and their orders bind the intermediary. The notified membership/roster can change, so do not memorise one office-holder as a permanent chair. |
+| **📰 10 February 2026 amendment (G.S.R. 120(E))** | Synthetically Generated Information (SGI)/deepfake amendment | Introduces a defined category of **"Synthetically Generated Information"** (AI-generated/deepfake content) with **labelling/disclosure obligations** for platforms, and shortens the compliance window to **3 hours** for specified government/court removal orders. Sensitive impersonation/non-consensual synthetic content retains its separately applicable expedited grievance route. Verify the exact trigger before quoting a clause number. |
+| **📰 'Sahyog' portal** | Government-intermediary coordination system | An automated portal for routing government blocking/takedown notices to intermediaries; ⚠️ **criticised for potentially bypassing the Section 69A procedural safeguards** (written order, review committee) that the *Shreya Singhal* (2015) judgment required — flag this as a live civil-liberties objection, not a settled legal position. |
+
+- ✅ **Case-law backbone to cite alongside the chronology (already partly in Section 4,
+  consolidated here for this exact answer):** *Shreya Singhal v. Union of India* (2015) —
+  struck down Section 66A, and required written reasons/hearing/review-committee process for
+  any blocking order (the standard the Sahyog portal is criticised against); *K.S. Puttaswamy
+  v. Union of India* (2017) — laid down the four-part proportionality test relevant to any
+  content-restriction/surveillance measure; *S. Rangarajan v. P. Jagjivan Ram* (1989) — the
+  "spark in a powder keg" test for when speech restriction is justified by imminent public-
+  order risk; *Anuradha Bhasin v. Union of India* (2020) — proportionality/review standard for
+  network-level shutdowns (Section 4).
+- ⚠️ **GAC's operative duties, stated precisely (to avoid a vague "it handles complaints"
+  answer):** (a) receive appeals from users dissatisfied with a platform Grievance Officer's
+  resolution; (b) review the platform's decision on a specific flagged-content complaint;
+  (c) issue directions binding on the intermediary — including a direction to remove or to
+  restore content; (d) operate the entire process online, targeting resolution within 30 days.
+  ⚠️ The GAC decides platform-versus-user grievance appeals — it is **not** the same channel
+  as a Section 69A government blocking order, and should not be conflated with it in an
+  answer.
+- ⚠️ **UPSC trap:** "The 2026 amendment created the IT Rules 2021 framework." → The 2026
+  amendment is one link in a chronology (2021 original → 2022 GAC/Rule 3A → 2023 FCU
+  amendment, struck down in 2024 → 2023 GAC notification → 2026 SGI/3-hour-compliance
+  amendment); an answer that treats 2026 as the origin misstates the framework's history.
+- ⚠️ **UPSC trap:** "The Grievance Appellate Committee and the Fact-Check Unit are the same
+  body." → The **GAC** (Rule 3A, since 2022/2023) is a user-appeal forum against platform
+  decisions; the **FCU** (2023 amendment) was a government body meant to flag content as
+  false — a materially different function, and one that courts struck down while the GAC
+  continues to operate.
+- **Exact 2026 answer spine (10 marks/150 words):** *Threat* → fake news/disinformation can
+  trigger communal violence, panic-driven displacement, disrupted essential services and
+  serve as a hybrid-warfare tool exploiting social fault lines, citing at least one named
+  incident (Muzaffarnagar 2013 or the 2020 Delhi metro rumour) (3-4 lines). *Amendments'
+  salient features* → trace the chronology briefly (2021 base Rules → 2022/2023 GAC under
+  Rule 3A, government-appointed three-member online appellate committees with
+  a 30-day disposal target → 2023 FCU amendment
+  struck down by the Bombay High Court in 2024 → 10 February 2026 amendment introducing
+  Synthetically Generated Information labelling and a 3-hour takedown window) (4-5 lines).
+  *Qualify* → note the Sahyog portal's bypass-of-safeguards criticism and that some elements
+  (exact SGI clause wording) require verification against the current gazette text (1-2
+  lines).
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

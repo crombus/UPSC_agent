@@ -76,6 +76,22 @@ the Lokpal) was needed.
    can direct or refer investigation to the CBI. ⚠️ Both are internal/institutional channels — the
    ladder's later, external-disclosure step is a last resort, not a substitute for using these first.
 
+7. **Routing a field-level intermediary/tout network** ⚠️ (the 2026 GS-IV Q9 fact pattern): a
+   district officer who discovers touts operating through subordinate officials has **three distinct
+   channels, and they are not interchangeable**. (i) The **CVO** of the department is the internal
+   vigilance route for the officials' conduct, feeding into the **CVC** (or the State Vigilance
+   Commission for state-cadre staff) — this is where a *secret preliminary verification* (`21`,
+   ARC 7.9(b)) is initiated and where the disciplinary track originates. (ii) The **state
+   Anti-Corruption Bureau** is the route for criminal action, including trap or surveillance
+   operations against the touts themselves under the PC Act's intermediary provision (`19`,
+   Section 7A) — a trap is an ACB/police function, not a collector's. (iii) The **PIDPI route to the
+   CVC**, for central-government and PSU employees, is the confidential channel through which a
+   *frightened subordinate* can report without exposure; ⚠️ note its two limits — it is unavailable
+   for anonymous or pseudonymous complaints, and it does not cover state-government employees, for
+   whom the equivalent state whistleblower or vigilance-commission mechanism must be identified.
+   ⚠️ The examiner-facing point: name the **right** channel for each actor and each purpose, rather
+   than offering "refer it to the CVC" as an undifferentiated answer.
+
 ## 4. Indian applications and examples
 
 - ✅ The CVC Act, 2003 was a direct legislative response to the Supreme Court's *Vineet Narain*
@@ -134,6 +150,11 @@ the Lokpal) was needed.
 - ⚠️ Case studies involving an official weighing whether/how to report suspected wrongdoing should
   route through the CVC (PIDPI)/Lokpal institutional channels named here as the "authorised
   channel" step of the whistleblowing ladder (`19`, `21`), before any external-disclosure step.
+- ✅ A Section-B case involving an **intermediary/tout network inside a district office** (2026
+  GS-IV Q9) should separate the three channels by actor and purpose — CVO/vigilance commission for
+  the officials' disciplinary track, the state ACB for trap or criminal action against the touts,
+  and a confidential PIDPI-style route for frightened staff — rather than a single undifferentiated
+  referral (mechanism point 7; assembled case at `22` Sec. 14.18).
 
 ## 8. Mains angles
 
@@ -168,3 +189,5 @@ the Lokpal) was needed.
   that precedes any CVC/Lokpal referral, and the POSH Act channel for harassment complaints.
 - ✅ `Polity/advanced/37_CVC-and-CBI.md` and `Polity/advanced/38_Lokpal-and-Lokayuktas.md` — full
   constitutional/statutory-body detail.
+- ✅ `22_Case-Study-Method-and-Answer-Architecture.md` Sec. 14.18 — the assembled tout-network case
+  study that routes through the CVO/ACB/PIDPI channels described in mechanism point 7.

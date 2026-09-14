@@ -2,7 +2,7 @@
 
 > **Syllabus (verbatim):** Proofs for the Existence of God and their Critique (Indian and Western).
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
-> **Placement:** The examiner expects reconstruction, presupposition, objection, reply, and Indian–Western comparison. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
+> **Placement:** The examiner expects reconstruction, presupposition, objection, reply, and Indian–Western comparison. PYQ routing below covers the fully audited 2018–2026 Paper II bank.
 
 ## Exact printed ownership and cross-topic firewall
 
@@ -15,6 +15,7 @@ the God of religion.
 |---|---|
 | ontological, cosmological, design and moral arguments | the attributes and God–world relation presupposed by an argument remain with [Notions of God](./Notions-of-God.md) |
 | Nyāya–Udayana arguments and Indian anti-creator objections | the full positive case for religious life without a creator remains with [Religion without God](./Religion-without-God.md) |
+| **Madhvācārya's epistemic case for God** — the *svatantra*/*paratantra* dependence argument, the role of the three *pramāṇas*, and his reservation about the design argument (2026 Q8(b)) | the nature and attributes of Viṣṇu-as-Brahman remain with [Notions of God](./Notions-of-God.md); *tāratamya*, *svarūpa-bheda* and Dvaita liberation remain with [Soul, Immortality, Rebirth and Liberation](./Soul-Immortality-Rebirth.md) |
 | suffering only when it is counter-evidence to a proof's conclusion | the full logical, evidential and theodicy debate remains with [Problem of Evil](./Problem-of-Evil.md) |
 | religious experience only as one bounded strand in a cumulative case | its phenomenology, object and veridicality remain with [Religious Experience](./Religious-Experience.md) |
 | rational warrant and burden attached to an argument | revelation, faith and properly basic belief remain with [Reason, Revelation and Faith](./Reason-Revelation-Faith.md) |
@@ -158,6 +159,8 @@ enters only as a condition for the highest good's possibility.
 8. **[Aquinas–Nyāya]** "Compare Aquinas' Five Ways with Nyāya's arguments." (2018, 20m) → §8.2 + §8.4 + §8.8 (both are cumulative cases).
 9. **[Moral]** "Critical account of the moral argument." (2021, 15m) → §8.5.
 10. **[Anselm]** "Is Anselm's ontological proof logical?" (2020, 20m) → §8.1 — answer *validity* and *soundness* separately.
+11. **[Madhva]** "Explain and examine Madhvacharya's arguments for the existence of God." (2026, 15m) → §8.9 (**this file is the primary owner**) — grade the four strands; never transplant Nyāya's proofs.
+12. **[Contingency]** "Explain Aquinas' argument from the contingency of the world." (2026, 10m) → §1(b) + §8.2 — the Third Way specifically, not the Five Ways in general.
 
 ---
 
@@ -170,6 +173,8 @@ enters only as a condition for the highest good's possibility.
 | From scripture's authority | Revealed theology | Udayana *pratyayataḥ*, *śruteḥ*, *vākyāt* | Mīmāṃsā's *apauruṣeya* Veda — authority without author |
 | From moral order | Kant's postulate | Īśvara as *karmādhyakṣa* | Karma/*apūrva* as self-fructifying |
 | From concept alone | Anselm, Descartes | ⚠️ No close classical analogue | — |
+| From dependence of all finite being | Aquinas Way 3 (contingency) | **Madhva's *svatantra*/*paratantra*** — dependence constitutes difference | Mīmāṃsā: the world-order needs no independent controller |
+| From order, but distrusted | Hume's "cause proportioned to effect" | **Madhva's reservation** — order yields an architect, not an ontological ground | — |
 | Aggregation | Swinburne's cumulative case | Udayana's eight-fold *stabaka* | Flew-type "leaky buckets" objection applies to both |
 
 ---
@@ -334,6 +339,143 @@ Concl : strongest as metaphysics, weakest as genealogy — explaining the belief
 
 
 
+### 8.9 Madhvācārya (Madhva): the epistemic case for God in Dvaita Vedānta (2026 Q8(b) — **primary owner**)
+> ✅ **Ownership note.** [Notions of God](./Notions-of-God.md) retains the *nature* of Viṣṇu-as-Brahman, the *saguṇa*/*nirguṇa* dispute and the Vedāntic God–soul relation; [Soul, Immortality, Rebirth and Liberation](./Soul-Immortality-Rebirth.md) retains *tāratamya*, *svarūpa-bheda* and Dvaita liberation. The 2026 stem prints "**arguments for the existence of God**", so the epistemic case belongs here.
+> ⚠️ **The single most important handling rule.** Madhva is **not** a Nyāya-style natural theologian. His writing is extremely compressed, his settled position is that the supersensible nature of Brahman is known through **scripture**, and much of the polished syllogistic Dvaita apparatus belongs to **Jayatīrtha** (1356–1388) and **Vyāsatīrtha / Vyāsarāya** (1478–1589), not to Madhva himself. An answer that simply transplants Udayana's proofs onto Madhva is factually wrong.
+
+**1. The ontology the argument is about** ✅
+
+- Reality divides exhaustively into ***svatantra-tattva*** — **independent** reality, which is **Brahman/Viṣṇu alone** — and ***paratantra-tattva*** — **dependent** reality, comprising *jīva*s (souls) and *jaḍa* (insentient matter).
+- Dependent realities are **real, not illusory**: this is why Madhva's own school calls itself ***tattvavāda***, "the realist viewpoint", rather than merely "dualism".
+- Dependence itself **constitutes difference**: because souls and matter would not exist apart from Brahman's will, they are permanently distinct from Brahman.
+- Hence the ***pañca-bheda*** (fivefold difference): (1) Viṣṇu–*jīva*, (2) Viṣṇu–*jaḍa*, (3) *jīva*–*jaḍa*, (4) *jīva*–*jīva*, (5) *jaḍa*–*jaḍa*.
+- ⚠️ **Trap in advance:** the fivefold difference is a **classification of real distinctions**, *not* five proofs of God's existence. Presenting it as "Madhva's five arguments" is a standard coaching error.
+- Source: Valerie Stoker, "Madhva", *Internet Encyclopedia of Philosophy*, §§intro and 3 — <https://iep.utm.edu/madhva/>.
+
+**2. The three *pramāṇas*, and why the realist epistemology matters** ✅
+
+Madhva admits exactly three means of knowledge: ***pratyakṣa*** (perception), ***anumāna*** (inference) and ***śabda/āgama*** (verbal testimony, above all scripture). Britannica states the point plainly: "In his epistemology, Madhva admitted three ways of knowing: perception, inference, and verbal testimony" — <https://www.britannica.com/topic/Indian-philosophy/Madhva>.
+
+His argument for the **intrinsic** reliability of the first two is a *transcendental* one, and it is the piece most worth reproducing:
+
+1. The Advaitin holds that the plurality presented in ordinary cognition is finally unreal.
+2. But scripture is itself accessible only through perception (hearing/reading) and inference (construing meaning).
+3. If perception and inference were not innately valid, the content of scripture could not be known either.
+4. Therefore perception and inference **must** be innately valid, and the plurality they present must be real.
+5. Consequently **scripture must be read in consonance with everyday experience**, and cannot teach the non-difference of *ātman* and *brahman*.
+
+- ✅ This is why Madhva re-reads *tat tvam asi* ("you are that") by carrying over the preceding 'a' as ***atat tvam asi*** — "you are **not** that". Cite it as the emblematic hermeneutical move; note that it is idiosyncratic.
+- ✅ On inference, Madhva requires the invariable concomitance (***vyāpti***) that yields knowledge of the probandum, and does **not** insist on Nyāya's fixed five-membered syllogism. (B. N. K. Sharma, *Philosophy of Sri Madhvacharya*, chs. XIV–XV, pp. 82–92 — <https://archive.org/download/Philosophy.of.Sri.Madhvacarya/Philosophy.of.Sri.Madhvacharya_djvu.txt>.)
+
+**3. The four strands of the case, separated and graded** — this is the examinable core ⚠️
+
+| # | Strand | Reconstructed argument | What it can establish | Madhva's own weight on it |
+|---|---|---|---|---|
+| **A** | **Scriptural (*śabda/āgama*)** | Brahman's supersensible identity as Viṣṇu, with a specific collocation of perfections, is disclosed by the Vedānta texts, which are valid testimony | the **content** of theology: who the independent being is, and with what attributes | ✅ **Decisive.** Britannica: "In Madhva's system the existence of God cannot be proved; it can be learned only from the scriptures" |
+| **B** | **Metaphysical dependence** | (1) the world, souls and their powers are real; (2) they are finite and do not control their own existence or activity; (3) dependent being presupposes an independent ground; (4) only Brahman is *svatantra*; (5) therefore all else exists and acts under Brahman | an **independent ground** of all dependent being — an ontological, not a temporal, conclusion | ⚠️ **Structurally central**, but it is a reconstruction of his ontology rather than a proof he labels as such |
+| **C** | **Order / design (*teleological*)** | the ordered arrangement of the world implies an intelligent arranger | at most a **supreme architect or demiurge** | ❌ **Explicitly under-weighted.** Sharma reports Madhva was "not very much enamoured" of the teleological argument, because order yields an arranger, not a being on whom all things are **metaphysically dependent** (Sharma, ch. XXXVII, pp. 230–31) |
+| **D** | **"Epistemological" / perfection** | God is the highest perfection conceivable by human intelligence — compared by Sharma with *id quo maius cogitari non potest* | the **concept and attributes** of Brahman | ❓ **Not an Anselmian existence-proof.** The discussion concerns divine perfection and conceivability (Sharma, ch. XXXVIII, pp. 235–45), and should never be presented as Madhva's ontological argument |
+
+> 🔑 **Mnemonic — "S-D-O-P, and only S closes it."** **S**cripture supplies the theology, **D**ependence supplies the metaphysical structure, **O**rder is deliberately demoted, **P**erfection concerns the concept. Only Scripture, on Madhva's own view, settles *that* and *who* God is.
+
+**4. The relation between reason and scripture, stated precisely** ⚠️ Three formulations, from weakest to strongest, and the one to use:
+
+- ❌ "Madhva proves God by inference." — **Wrong**; ignores his own subordination of reason.
+- ❌ "Madhva holds perception and inference to be invalid, so only scripture counts." — **Wrong**; it destroys the §2 transcendental argument and with it Dvaita realism.
+- ✅ **Correct:** *Perception establishes the reality of plurality and difference; inference organises and defends that realism and can reach an independent ground; scripture alone discloses the supersensible identity and full attributes of that ground as Viṣṇu; reason then tests interpretations for consistency with experience, but cannot generate revealed content by itself.*
+
+**5. What "creation" means here** ✅ Souls and primordial matter may be **beginningless** and still be *paratantra*. Madhva's "creation" is therefore **ontological dependence and divinely controlled manifestation**, not necessarily production from nothing in time. ⚠️ Do not import *creatio ex nihilo* into Dvaita; and note that Madhva's distinctive corollaries — the **hierarchy (*tāratamya*) of souls** graded by innate *guṇa*s and *doṣa*s, and the consequent claim that souls have innate propensities, with karma as the **mechanism** propelling a soul to its destiny — follow from this ontology (IEP §3).
+
+**Objections → replies** ⚠️
+
+| # | Objection | Dvaita reply | Residue for an "examine" answer |
+|---|---|---|---|
+| 1 | **Circularity** — scripture proves God and God guarantees scripture | Vedic testimony is *apauruṣeya* and **intrinsically valid** as an independent *pramāṇa*; it is not validated by first proving a divine author (Sharma, pp. 89–92) | It transfers the burden to the authority of the Veda, which a Cārvāka or Buddhist simply denies |
+| 2 | **Dependence under-determines the deity** — an independent ground need not be Viṣṇu with Madhva's attributes | Precisely why scripture is indispensable: inference reaches dependence, revelation supplies the identity | The system's theism is therefore **revelation-dependent**, which is Madhva's own position, not a defect he overlooked |
+| 3 | **Eternal souls and matter rival God** | Beginninglessness ≠ independence; their existence, powers and transformations remain *paratantra* and governed by Brahman | It is a **modal** dependence claim, and its defence requires the *svatantra*/*paratantra* asymmetry to be more than stipulation |
+| 4 | **Design gives only a demiurge** | ✅ **Madhva's own reservation** — order supports intelligent governance but not comprehensive ontological dependence | This is a genuine *strength*: he anticipates the standard Humean complaint about the design argument's modest conclusion |
+| 5 | **Predestined hierarchy of souls is morally objectionable** | Innate propensity explains the specificity of destinies that karma alone leaves unexplained | ❓ It sits uneasily with the ordinary karma theory, where status is explained by past acts — say so rather than glossing it over |
+| 6 | **Mīmāṃsā's counter** | The Veda is authorless and *dharma* self-fructifying, so no God is required — see §2 of this file | Madhva must, and does, argue that the Vedānta texts *speak of* an independent being, which is a hermeneutic claim, not an inference |
+
+**Comparison chart A — Madhva against the other Vedāntins on the epistemic route to God** ⚠️
+
+| | **Śaṃkara (Advaita)** | **Rāmānuja (Viśiṣṭādvaita)** | **Madhva (Dvaita)** |
+|---|---|---|---|
+| Ultimate | *nirguṇa* Brahman; Īśvara is empirical | *saguṇa* Brahman = Viṣṇu, with souls and matter as His body | *saguṇa* Brahman = Viṣṇu, ontologically **separate** from souls and matter |
+| Status of the world | *vyāvahārika*; *māyā* neither real nor unreal | real, a mode (*prakāra*) of Brahman | **fully real and permanently different** (*tattvavāda*) |
+| Soul–God relation | identity (*tat tvam asi*) | inseparable qualification; souls share Brahman's essential nature | ***atat tvam asi*** — permanent modal difference; unilateral dependence |
+| Route to knowledge of God | *śruti* + *manana*; reason cannot prove Brahman | *śruti*, with experience defended against Advaita | *śruti*, **read in consonance with valid perception and inference** |
+| Rational proof of God's existence | rejected as independently probative | subordinate to scripture | ✅ likewise subordinate — "cannot be proved; learned only from the scriptures" |
+| Liberation | knowledge dissolving ignorance | *bhakti* and *prapatti*, by grace | *bhakti* and grace; *tāratamya* persists in liberation |
+
+**Comparison chart B — Madhva against the classical proof-families in this file** ⚠️
+
+| Feature | **Nyāya–Udayana** (§2, §8.4) | **Aquinas** (§8.2) | **Madhva** |
+|---|---|---|---|
+| Primary instrument | *anumāna* — the world as *kārya* needs an intelligent maker | demonstrative *a posteriori* reasoning from motion, cause, contingency, gradation, order | ***śabda***, on a realist base of perception and inference |
+| Does reason alone reach God? | ✅ claimed | ✅ claimed for the *preambula fidei* | ❌ denied for the supersensible nature |
+| Core relation invoked | efficient causation of a composite | actualisation, causation, necessity | **dependence** (*svatantra*/*paratantra*) |
+| Design/order argument | ✅ central (*āyojanāt*, *dhṛtyādeḥ*) | ✅ the Fifth Way | ⚠️ present but **deliberately demoted** |
+| Scripture's role | one ground among eight (*śruteḥ*, *vākyāt*) | revealed theology *beyond* the preambles | **the indispensable and decisive ground** |
+| Matter's status | eternal atoms, God is efficient cause only | creation *ex nihilo* | *prakṛti* beginningless yet *paratantra*; no *ex nihilo* requirement |
+| Nearest Western analogue | Paley/Aquinas Way 5 | — | the **argument from radical contingency/dependence**, closer to Aquinas' Third Way than to Paley |
+
+**Comparison chart C — who actually said it (the historiographic ledger)** ✅
+
+| Claim | Madhva himself | Jayatīrtha (1356–1388) | Vyāsatīrtha / Vyāsarāya (1478–1589) |
+|---|---|---|---|
+| *Svatantra*/*paratantra* ontology, *pañca-bheda* | ✅ | elaborated | defended polemically |
+| Intrinsic validity of perception and inference | ✅ | systematised | deployed against Advaita |
+| Formal syllogistic proofs and *pramāṇa* theory in technical form | ⚠️ compressed, often implicit | ✅ *Nyāyasudhā*, *Pramāṇapaddhati* | ✅ further Dvaita dialectic |
+| Sustained refutation of rival schools | partial | ✅ | ✅ |
+
+⚠️ **Use of this chart:** if an answer attributes a polished proof to "Madhva", say *where* it actually comes from. That single sentence is a high-value discriminator. (IEP §3, "further developed by such major figures as Jayatirtha… and Vyasaraya"; Sharma's biographical introduction.)
+
+**Traps specific to this dossier** ⚠️
+1. Do **not** transplant Nyāya's *kāryāt* inference onto Madhva; he does not run the design proof as a primary argument and Sharma records his reservation about it.
+2. Do **not** say Madhva proves Viṣṇu by inference alone. Britannica's summary — "the existence of God cannot be proved; it can be learned only from the scriptures" — is the safe headline.
+3. Do **not** say scripture makes perception and inference dispensable; the transcendental argument in §2 requires both.
+4. Do **not** present *pañca-bheda* as five proofs of God.
+5. Do **not** read "dependence" as temporal creation *ex nihilo*.
+6. Do **not** call the perfection discussion an Anselmian ontological proof.
+7. Do **not** attribute *Nyāyasudhā*-level dialectic to Madhva; name Jayatīrtha and Vyāsatīrtha.
+8. Do **not** translate *tattvavāda* as "dualism" only; "realism" is the school's own self-description and it explains why difference is defended by epistemology.
+
+**Answer spines** ⚠️
+
+*15 marks (the printed 2026 demand — "Explain **and examine**")*
+```text
+EXPLAIN (about 60%):
+  open with the ontology: svatantra (Viṣṇu alone) vs paratantra (jīvas, jaḍa);
+  dependence constitutes difference → pañca-bheda (label it a classification, not proofs) →
+  the three pramāṇas; the transcendental argument for the intrinsic validity of
+    perception and inference (scripture is unreadable without them) →
+  the four strands, graded: A scripture (decisive) · B dependence (structural) ·
+    C design (demoted by Madhva himself) · D perfection (about the concept) →
+  the settled position: the supersensible nature of God is known from scripture,
+    reason securing realism and consistency.
+EXAMINE (about 40%):
+  circularity objection → apauruṣeya intrinsic validity reply;
+  under-determination → why revelation is required;
+  beginningless souls → beginninglessness is not independence;
+  design-gives-a-demiurge → note this is Madhva's OWN point, hence a strength;
+  historiographic caution: Jayatīrtha and Vyāsatīrtha supply the formal dialectic →
+Verdict: Madhva's case is epistemically modest and metaphysically strong — he declines
+  to make God the conclusion of an independent proof, and instead makes divine
+  independence the condition of everything that any proof would have to start from.
+```
+
+*10 marks* — ontology in two lines → three *pramāṇas* → scripture decisive (Britannica line) → dependence argument in five steps → the design reservation → one objection with reply → verdict.
+
+*20 marks* — add chart B in full (an explicit Madhva–Nyāya–Aquinas comparison, which converts the answer into the Indian–Western parity the examiner rewards), the Vedānta triad of chart A, objections 1–5 with replies, and the historiographic ledger of chart C; close by locating Madhva on this file's standing conclusion about the gap between the God of the arguments and the God of religion — for Madhva that gap is closed by *śabda* and *bhakti*, not by inference.
+
+- **2026 PYQ route.** ✅ **Q8(b), 15 marks:** "Explain and examine Madhvacharya's arguments for the existence of God." → **this module**, 15-mark spine. **Reworded-variant routes:** "Compare Madhva and Nyāya on the proof of God" → chart B; "Is scripture a valid means of knowing God?" → §2 + §4, cross-link [Reason, Revelation and Faith](./Reason-Revelation-Faith.md); "Explain Madhva's conception of God" → route **out** to [Notions of God](./Notions-of-God.md), keeping only strand A here; "Dvaita on the God–soul relation" → §1 + §5, cross-link [Soul, Immortality, Rebirth and Liberation](./Soul-Immortality-Rebirth.md).
+- **Verdict formula.** ⚠️ "Madhva does not offer a demonstrative proof of God and does not claim to. His case is that everything we encounter is dependent, that dependence requires an independent ground, and that only scripture — read in consonance with an experience whose validity he defends on transcendental grounds — can identify that ground as Viṣṇu with His specific perfections. Judged as natural theology this is a deliberate refusal; judged as a theology of *pramāṇa*s it is unusually consistent, because it never claims from reason more than reason can supply."
+
+**Sources for this module** ✅ Valerie Stoker, "Madhva (1238—1317)", *Internet Encyclopedia of Philosophy* — <https://iep.utm.edu/madhva/>. *Encyclopaedia Britannica*, "Indian philosophy — Madhva" — <https://www.britannica.com/topic/Indian-philosophy/Madhva>. B. N. K. Sharma, *Philosophy of Sri Madhvacharya* (rev. ed., Motilal Banarsidass) — full searchable text at <https://archive.org/details/Philosophy.of.Sri.Madhvacarya> (plain text: <https://archive.org/download/Philosophy.of.Sri.Madhvacarya/Philosophy.of.Sri.Madhvacharya_djvu.txt>), especially chs. XIV–XV (pp. 82–92, *pramāṇa*s and inference), chs. XXXVI–XXXVII (pp. 218–34, dependence and the design reservation), ch. XXXVIII (pp. 235–45, perfection) and ch. XXXIX (pp. 246–47, Brahman knowable but not exhaustively comprehensible).
+
+
+
 ## 9. INTER-THINKER / INTER-SCHOOL DEBATES
 
 | Proof | Starting point | Conclusion claimed | Indian parallel | Main critic |
@@ -346,6 +488,8 @@ Concl : strongest as metaphysics, weakest as genealogy — explaining the belief
 | Jain critique | ✅ Perfection excludes motive; karma is self-operating | No creator; divinity = perfected soul | — | Nyāya (adṛṣṭa needs an allocator) |
 | Buddhist critique | ✅ Causal efficacy; *krama-akrama* dilemma | A permanent cause cannot produce a temporal world | — | Nyāya (eternal will, timed effects) |
 | Cumulative case | ✅ Several C-inductive arguments | Probable theism | Udayana's eight-fold *stabaka* | Flew's leaky buckets |
+| **Madhva's dependence argument** | ✅ Every finite being is *paratantra* | One *svatantra* ground, identified as Viṣṇu **by scripture** | Aquinas' Third Way is the closest Western analogue | Mīmāṃsā (no controller needed); Advaita (difference is not ultimate) |
+| **Madhva on design** | ✅ Order in the world | ⚠️ Deliberately **not** pressed — order gives an architect, not an ontological ground | Converges with Hume's complaint about proportioning cause to effect | — |
 
 ## 10. CRITICISMS AND REPLIES
 
@@ -356,6 +500,8 @@ Concl : strongest as metaphysics, weakest as genealogy — explaining the belief
 | Weak world–artifact analogy | Design/Nyāya | Treat as probabilistic, not deductive | ⚠️ Conclusion becomes modest |
 | Cause need not be personal/perfect | Cosmological/design | Cumulative arguments add attributes | ⚠️ No single proof reaches classical theism |
 | Karma can operate without God | Nyāya | Intelligent allocation explains specificity | ❓ Dispute tracks rival metaphysics |
+| Scripture-based theism is circular | Madhva (§8.9) | Vedic testimony is *apauruṣeya* and intrinsically valid, so it does not presuppose a proved divine author | ⚠️ Shifts the burden to the Veda's authority, which non-Vedic schools reject outright |
+| An independent ground need not be *this* God | Madhva (§8.9) | Conceded — inference reaches dependence, scripture supplies the identity | ✅ Madhva's own position; do not misreport it as an oversight |
 
 ## 11. COMMON UPSC TRAPS
 
@@ -371,12 +517,18 @@ Concl : strongest as metaphysics, weakest as genealogy — explaining the belief
 10. ⚠️ Do not reduce the Buddhist case to "the Buddha was silent". The examinable argument is Dharmakīrti/Śāntarakṣita's **krama-akrama** dilemma about a permanent cause producing a temporal world.
 11. ⚠️ Do not present Udayana's list as a fixed canonical eight without noting that glosses of *padāt/pratyayataḥ/vākyāt/saṃkhyāviśeṣāt* differ; give the Sanskrit term plus one clause of content.
 12. ⚠️ Do not treat a cumulative case as a chain of deductions. It is Bayesian/rope-like; the standing objection is Flew's leaky buckets and the standing reply is that C-inductive arguments are not zero-valued.
+13. ⚠️ **Do not make Madhva a Nyāya-style natural theologian.** Britannica's summary of his system is that "the existence of God cannot be proved; it can be learned only from the scriptures".
+14. ⚠️ Do not present ***pañca-bheda*** as five proofs of God. It is a classification of five real differences.
+15. ⚠️ Do not say Madhva presses the design argument. Sharma records that he was "not very much enamoured" of it, because order yields an architect rather than a being on whom all else is metaphysically dependent.
+16. ⚠️ Do not call Madhva's discussion of divine perfection an Anselmian ontological proof; it concerns the concept and attributes of God, not a passage from concept to existence.
+17. ⚠️ Do not infer from Madhva's scripturalism that perception and inference are invalid for him; his realism rests on the argument that scripture itself could not be known without them.
+18. ⚠️ Do not attribute the formal Dvaita syllogistics to Madhva himself. Name **Jayatīrtha** (1356–1388) and **Vyāsatīrtha/Vyāsarāya** (1478–1589) as the later elaborators.
 
 ## 12. KEYWORD & STATEMENT BANK
 
-**Keywords:** ✅ *a priori* · *a posteriori* · ontological · necessary existence · real predicate · cosmological · essentially ordered series · contingency · sufficient reason · teleological · analogy · regularity · fine order · practical postulate · *summum bonum* · *kāryāt* · *āyojanāt* · *dhṛtyādeḥ* · *padāt* · *pratyayataḥ* · *śruteḥ* · *vākyāt* · *saṃkhyāviśeṣāt* · *apekṣā-buddhi* · efficient cause · *adṛṣṭa* · *karmādhyakṣa* · *apauruṣeya* · *arthakriyā-kāritva* · *krama-akrama-virodha* · *pratītyasamutpāda* · *avyākata* · arihanta/kevalin · tīrthaṅkara · siddha · *ananta-catuṣṭaya* · *vītarāga* · *svabhāva* · *lāghava* (parsimony) · C-inductive/P-inductive · cumulative case · leaky buckets.
+**Keywords:** ✅ *a priori* · *a posteriori* · ontological · necessary existence · real predicate · cosmological · essentially ordered series · contingency · sufficient reason · teleological · analogy · regularity · fine order · practical postulate · *summum bonum* · *kāryāt* · *āyojanāt* · *dhṛtyādeḥ* · *padāt* · *pratyayataḥ* · *śruteḥ* · *vākyāt* · *saṃkhyāviśeṣāt* · *apekṣā-buddhi* · efficient cause · *adṛṣṭa* · *karmādhyakṣa* · *apauruṣeya* · *arthakriyā-kāritva* · *krama-akrama-virodha* · *pratītyasamutpāda* · *avyākata* · arihanta/kevalin · tīrthaṅkara · siddha · *ananta-catuṣṭaya* · *vītarāga* · *svabhāva* · *lāghava* (parsimony) · C-inductive/P-inductive · cumulative case · leaky buckets · *svatantra*/*paratantra* · *tattvavāda* · *pañca-bheda* · *tāratamya* · *atat tvam asi* · *pratyakṣa*/*anumāna*/*śabda* · *vyāpti* · Jayatīrtha · Vyāsatīrtha.
 
-**Safe formulations:** ⚠️ "Most proofs underdetermine the rich God of religion." · "Nyāya and Western natural theology converge in inference from order, but diverge over material causation and karma." · "Jainism and Buddhism do not merely lack a proof of God; they supply arguments that a creator is either unmotivated or causally impossible." · "A cumulative case can raise probability; it cannot by itself select the God of worship."
+**Safe formulations:** ⚠️ "Most proofs underdetermine the rich God of religion." · "Nyāya and Western natural theology converge in inference from order, but diverge over material causation and karma." · "Jainism and Buddhism do not merely lack a proof of God; they supply arguments that a creator is either unmotivated or causally impossible." · "A cumulative case can raise probability; it cannot by itself select the God of worship." · "Madhva relocates the question from proof to dependence: God is not the conclusion of an inference but the condition of everything an inference starts from." · "Within Dvaita, reason secures realism and scripture supplies theology; the division of labour is deliberate, not evasive."
 
 <!-- expanded-pyq-depth:start -->
 ### CORPUS-DRIVEN DEPTH DELTA (expanded PYQ audit)
@@ -387,9 +539,9 @@ Concl : strongest as metaphysics, weakest as genealogy — explaining the belief
 
 <!-- expanded-pyq-depth:end -->
 
-## 13. PYQ ROUTING (2018–2025)
+## 13. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 12 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 12 primary-owned question-parts out of 112 across 2018–2025, plus **2 more in 2026** (14 of 126). The local Paper II corpus is continuous from 2018 through 2026. Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -405,8 +557,10 @@ Concl : strongest as metaphysics, weakest as genealogy — explaining the belief
 | 2024 | Q7(c) | 15 marks (10+5) | Present an exposition of ontological proof for the existence of God along with its criticism. |
 | 2025 | Q6(a) | 20 marks | Present an account of Design argument to prove the existence of God along with its criticism by David Hume. |
 | 2025 | Q7(b) | 15 marks | What proofs do Nyāya philosophers offer for the existence of God? Discuss. |
+| **2026** | **Q5(b)** | **10 marks** | Explain St. Thomas Aquinas' argument for the existence of God from the contingency of the world. → **§1(b) + §8.2** |
+| **2026** | **Q8(b)** | **15 marks** | Explain and examine Madhvacharya's arguments for the existence of God. → **§8.9** |
 
-See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md).
+See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md) and the [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md).
 
 ## 14. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)
 
@@ -474,6 +628,12 @@ two objections and replies → underdetermination of divine attributes → grade
 | Bhūridatta Jātaka anti-creator verses | ❓ Widely cited, wording translation-dependent | Paraphrase only |
 | "Ten leaky buckets" | ✅ Antony Flew, *God and Philosophy* | Pair it with the rope/Bayesian reply |
 | C-inductive / P-inductive | ✅ Richard Swinburne's terminology, *The Existence of God* | Use precisely — they are not synonyms |
+| "In Madhva's system the existence of God cannot be proved; it can be learned only from the scriptures" | ✅ *Encyclopaedia Britannica*, "Indian philosophy — Madhva" | The safe one-line headline for a Madhva answer |
+| *Svatantra*/*paratantra*, *pañca-bheda*, *tattvavāda* | ✅ IEP, "Madhva" (Valerie Stoker) | Give the Sanskrit plus one clause of content; never call *pañca-bheda* five proofs |
+| Madhva "not very much enamoured" of the teleological argument | ✅ B. N. K. Sharma, *Philosophy of Sri Madhvacharya*, ch. XXXVII (pp. 230–31) | Report as Sharma's characterisation of Madhva's weighting, and state the reason (architect ≠ ontological ground) |
+| *Id quo maius cogitari non potest* applied to Madhva | ❓ Sharma's **comparison** in ch. XXXVIII | Never present as Madhva's own ontological proof |
+| Madhva's dates | ❓ IEP gives 1238–1317; Britannica gives "born 1199?" | Write "traditionally 13th century"; flag the discrepancy if dates are demanded |
+| Formal Dvaita syllogistics | ✅ Jayatīrtha (1356–1388), Vyāsatīrtha/Vyāsarāya (1478–1589) | Attribute the polished dialectic to them, not to Madhva |
 
 
 
@@ -490,6 +650,8 @@ two objections and replies → underdetermination of divine attributes → grade
 - [Paper I: Mīmāṃsā](../../paper-1/indian/Mimamsa.md) — *apauruṣeya* Veda against Udayana's *vākyāt*/*śruteḥ*
 - [Paper I: Kant](../../paper-1/western/Kant.md) — the predicate objection and the practical postulate
 - [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md)
+- [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md) — full routing of all fourteen 2026 Section B parts
+- [Soul, Immortality, Rebirth and Liberation](./Soul-Immortality-Rebirth.md) — Dvaita *tāratamya* and the fate of the dependent soul
 
 ## SOURCES
 
@@ -499,6 +661,11 @@ two objections and replies → underdetermination of divine attributes → grade
 - Richard Swinburne, *The Existence of God*; Basil Mitchell, *The Justification of Religious Belief*; Antony Flew, *God and Philosophy*.
 - Udayana, *Nyāyakusumāñjali*; Śāntarakṣita, *Tattvasaṃgraha* with Kamalaśīla's *Pañjikā*.
 - John Hick, *Philosophy of Religion*.
+- Valerie Stoker, "Madhva (1238—1317)", *Internet Encyclopedia of Philosophy* — <https://iep.utm.edu/madhva/>.
+- *Encyclopaedia Britannica*, "Indian philosophy — Madhva" — <https://www.britannica.com/topic/Indian-philosophy/Madhva>.
+- B. N. K. Sharma, *Philosophy of Sri Madhvacharya* (Motilal Banarsidass) — <https://archive.org/details/Philosophy.of.Sri.Madhvacarya>
+  (searchable text: <https://archive.org/download/Philosophy.of.Sri.Madhvacarya/Philosophy.of.Sri.Madhvacharya_djvu.txt>);
+  chs. XIV–XV (*pramāṇa*s), XXXVI–XXXVIII (dependence, design reservation, perfection), XXXIX (knowability of Brahman).
 - Nyāya, Jain and Buddhist discussions in S. C. Chatterjee & D. M. Datta, *An Introduction to Indian Philosophy*; C. D. Sharma, *A Critical Survey of Indian Philosophy*; S. Radhakrishnan, *Indian Philosophy*, Vol. I.
 - Local searchable John Hick PDF, print pp. 15–29 (PDF pp. 26–40), for
   ontological, first-cause/cosmological, design/probability and moral arguments.

@@ -1,7 +1,8 @@
 # Answer-Worthiness Audit — Ethics
 
-> **Final status:** ✅ Complete  
-> **Certification date:** 14 August 2026  
+> **Final status:** ✅ Complete — recertified after the 2026 GS-IV stress test
+> **Original certification:** 14 August 2026
+> **2026 recertification:** 12 September 2026
 > **Standard:** [`../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md`](../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md)
 
 ## 1. Audit scope and inventory
@@ -20,8 +21,16 @@
 
 ## 2. Executive verdict
 
-Ethics is **answer-complete at Core level**. The final hostile certification
-found no paper-affecting Basic gap and no required dependency on Advanced.
+Ethics is **answer-complete at Core level after remediation against the official
+2026 GS-IV paper**. The earlier certification covered the syllabus and
+2013–2025 corpus, but the 2026 paper exposed four genuine static gaps and
+several underdeveloped applied transformations.
+
+The principal failures were therapeutic consent/paternalism, positive duties
+versus charity, forest-community displacement doctrine, and arms-transfer due
+diligence. Other owners contained useful fundamentals but lacked the exact
+comparison, legal floor or operational answer architecture demanded in 2026.
+Those weaknesses are now repaired in the controlling `basic/` owners.
 
 Basic independently supports unfamiliar Section-A questions and Section-B
 cases. The Section-B owner provides one controlling eight-element architecture,
@@ -29,6 +38,15 @@ hard-threshold versus weighted checks, conflict-of-interest sequencing, nested
 dilemma decomposition, steelmanning, written-order response, dissent and
 whistleblowing ladders, resignation as a last resort, triage and residual-risk
 closure.
+
+The 2026 recertification found:
+
+- **13/13 Section-A parts** routed exactly once;
+- **12/12 Section-B subparts** routed exactly once;
+- **25/25 total 2026 demands** answer-ready from Basic;
+- no marks-essential current-affairs dependency;
+- current affairs restricted to one short illustration or a necessary
+  legal/status caution.
 
 ## 3. Ten-criterion scorecard
 
@@ -93,6 +111,13 @@ of interest, environment-development, corporate AI, disaster/personal duty,
 custodial justice, public funds/resignation, data/privacy, scarce-resource
 triage and political pressure.
 
+The official 2026 paper then added a harder second stress test. It required
+academic-integrity analysis of AI use, forest and research ethics, Ambedkar on
+civil disobedience, administrative trusteeship, right intention, paternalism,
+positive duties, predictive policing, technology-mediated welfare exclusion,
+institutional capture, compromised neutrality and arms-transfer ethics. All
+thirteen theory parts and all twelve case-study subparts now pass.
+
 ## 6. Evidence-bank assessment
 
 | Major demand family | Named evidence available | Significance and limit supplied? | 10/15/20 readiness |
@@ -146,6 +171,24 @@ gate.
 - Synchronized README, framework, syllabus map, revision chart and Topic 01
   package with the Core firewall and case architecture.
 
+### 2026 recertification additions
+
+- Added academic/professional integrity under AI assistance and the
+  non-delegable-accountability test.
+- Added forest-community displacement, vulnerable-group research ethics,
+  predictive-policing bias and surveillance proportionality.
+- Added Ambedkar's conditional "grammar of anarchy" argument, a Rawls/King
+  comparison and Gandhi's seven-step trusteeship ladder.
+- Added autonomy, beneficence, soft/hard paternalism, positive duties,
+  supererogation, Singer's rescue principle and demandingness objections.
+- Added security-rights proportionality, right intention and Just War
+  criteria, ethics versus national interest and arms-transfer due diligence.
+- Added graded school enforcement, biometric welfare safeguards,
+  exclusion-error analysis and accountable authentication exceptions.
+- Added six complete 2026 case modules plus reusable consent-validity,
+  automated-adverse-decision, continuity-with-accountability and
+  criteria-based-denial templates.
+
 ## 9. Advanced-only improvements safely skippable
 
 Advanced companions retain optional philosophical depth, legal nuance,
@@ -165,6 +208,8 @@ attainable paper outcome.
   owner blocks.
 - `PYQ-INTEGRATION-AUDIT-2018-2023.md`.
 - This audit file and the master answer-worthiness tracker.
+- The 2026 recertification additionally updates fourteen Basic owners and adds
+  separate Section-A and Section-B 2026 routing supplements.
 
 ## 11. Validation evidence
 
@@ -178,10 +223,15 @@ attainable paper outcome.
 - Moral luck is answer-sufficient in Basic 08 and correctly linked from Basic 21.
 - Factual-risk regressions and internal local links passed.
 - Advanced remains optional.
+- The two 2026 routing supplements contain 25 unique subparts with no duplicate
+  primary ownership.
+- All sixteen files changed by the 2026 remediation have zero broken relative
+  links, zero malformed Markdown tables and zero unclosed code fences.
 
 ## 12. Final status and date
 
-**✅ Complete — 14 August 2026.**
+**✅ Complete — recertified 12 September 2026 after the official 2026 GS-IV paper.**
 
 Core is independently future-question ready for both GS-IV sections; Advanced
-remains optional enrichment.
+remains optional enrichment. The answer core is static ethics; current affairs
+is used only as a concise illustration or a verified legal/status anchor.

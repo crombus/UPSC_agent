@@ -168,6 +168,97 @@ THREE DISTINCT PROJECTS — A FAMILY RESEMBLANCE, NOT ONE CREED:
 - **"Is not what it is":** consciousness can never coincide with its past or its facticity. The waiter *is* a waiter (facticity) but simultaneously *is not* a waiter (he transcends the role, is free to quit). ✅
 - This **non-self-identity** is possible through **nihilation** (*néantisation*): consciousness introduces *nothingness* (*néant*) into being — it stands back from what is and negates it (questions it, imagines alternatives, projects beyond it). The pour-soi is "the being by which nothingness comes into the world." ✅
 
+### 2.4A CONSCIOUSNESS AS "NOTHING" — SARTRE MEASURED AGAINST HUSSERL ✅ (owner block; 2026 Q2(c), 15 marks)
+
+> **Ownership note:** Sartre's doctrine and the comparison are owned here. Husserl's own method — epoché, reductions, the transcendental ego, intersubjectivity — is owned by [`Phenomenology-Husserl.md`](Phenomenology-Husserl.md) §§1.2–1.5 and 3A, which cross-links back to this block.
+
+#### 2.4A.1 The shared phenomenological floor ✅ (state this first, or the contrast is unearned)
+
+1. **Intentionality.** Sartre takes over Husserl's thesis that consciousness is always **consciousness *of* something** and is directed beyond itself; the intentional object is not an inner picture standing between us and the world. ✅
+2. **Anti-representationalism.** Both refuse the "stomach of consciousness" model in which ideas are contents digested inside the mind.
+3. **Pre-reflective self-awareness.** Both accept that consciousness is tacitly aware of itself without first turning itself into an object. ✅
+4. **Method.** Both describe *how* things are given rather than inferring hidden causes.
+
+#### 2.4A.2 Sartre's radicalisation — six steps ✅
+
+1. **No contents.** If intentionality is taken seriously, consciousness has **no thing-like interior**: it is "a great emptiness, a wind blowing toward objects."
+2. **No inhabitant.** The Ego is **not** a transcendental subject *inside* consciousness; it is a **transcendent object constituted in reflection** (*The Transcendence of the Ego*, 1936–37) — the "I" is met in the world alongside other objects.
+3. **Pre-reflective cogito.** Consciousness is **non-positionally** aware of itself while **positionally** directed at the world; reflection is a later, second-order act that produces the Ego.
+4. **Why "nothing."** Consciousness is *néant* not because it does not exist, but because it **lacks the self-identity and plenitude of being-in-itself**: it has no essence, no nature, no given content to coincide with.
+5. **Nihilation.** As **for-itself**, it introduces negation into being: it withdraws from the given, questions it, projects possibilities — "it is what it is not and is not what it is."
+6. **Freedom.** Nothingness is the ontological ground of freedom: because no factual state is fused with consciousness, no state can mechanically fix how consciousness interprets or surpasses it. ✅
+
+- ✅ **The Pierre-in-the-café argument:** expecting Pierre, I find the café organised around his **absence**; the whole room "nihilates" itself as ground for a figure that is missing. Negation is therefore not merely a linguistic judgement added afterwards — it **structures the experienced field**, which is Sartre's evidence that nothingness is phenomenologically real.
+
+#### 2.4A.3 Contrast with Husserl ⚠️
+
+| Axis | **Husserl** | **Sartre** |
+|---|---|---|
+| Status of the ego | transcendental reduction discloses **constituting subjectivity**; the pure ego has habitualities and sedimented history | the ego is a **transcendent object of reflection**; consciousness is **non-egological** |
+| What unifies experience | the ego, together with inner time-consciousness, unifies streams and object-identities | the **object and the intentional structure** unify consciousness; no inner unifier is needed |
+| Core task | **constitution** of meaning/noematic sense for a transcendental subjectivity | **disclosure** of transcendent being and of the contingency ("de trop") of what is |
+| Metaphysical tendency | a transcendental-idealist strand after the *Ideas* | initially a **phenomenological realism**: being-in-itself is not constituted by consciousness |
+| Place of negation | negation analysed **within** intentional acts, judgement and fulfilment/frustration | nothingness becomes the **ontological structure of the for-itself** |
+| Result for the self | an ego that can be studied in its constituting life | selfhood as a **task/project**, never a substance; bad faith becomes possible |
+| Freedom | not the organising problem of the method | the direct consequence of consciousness's lack of being |
+
+#### 2.4A.4 Sartre's objections to the transcendental ego, numbered ✅
+
+1. **Superfluity:** a transcendental ego duplicates consciousness with an unnecessary inner observer; intentionality already unifies experience through its objects.
+2. **Opacity:** an ego *in* consciousness would introduce something non-transparent into what is, by its nature, translucent to itself.
+3. **Priority:** a constituting ego would have to pre-exist its acts — which conflicts with the primacy of the spontaneous field (and, later, with "existence precedes essence").
+4. **Reification:** it turns a spontaneous transcendental field into a substance-like thing, and thereby reopens the very substantialism phenomenology set out to bracket.
+
+#### 2.4A.5 Replies and the required qualification ❓ (the mark-winning paragraph)
+
+- **Husserlian reply:** the pure ego is *not* an inner object at all but the formal pole of acts; Husserl's analyses of habituality and time-consciousness answer real problems of identity over time that a strictly non-egological account must also solve.
+- **Textual qualification ✅:** the opposition is **contested**. In the *Logical Investigations* Husserl himself denied finding an ego as an immanent item; the "pure ego" is admitted only later. Scholars such as **Dan Zahavi** therefore read Sartre as a **non-egological reorientation *within* phenomenology**, not a wholesale rejection of Husserl.
+- **Residual force ⚠️:** even so, the two projects diverge in *aim* — Husserl explains how objectivity is **constituted**; Sartre explains how a being that is nothing can be **free and self-deceiving**.
+- ❌ **Do not write:** "Sartre refuted Husserl." Write: "Sartre keeps intentionality and pre-reflective self-awareness, removes the ego from consciousness, and converts the resulting emptiness into an ontology of freedom."
+
+#### 2.4A.6 Presuppositions ⚠️
+
+- **P1:** intentionality is exhaustive — nothing is *in* consciousness except as its object.
+- **P2:** consciousness is translucent; nothing opaque can inhabit it (this is what rules out both the ego and the Freudian unconscious, and generates bad faith instead of repression).
+- **P3:** being-in-itself is fully positive and self-identical; "nothing" is intelligible only as the contrast to that plenitude.
+- **P4:** reflection is a modification of consciousness, not a neutral observation of it.
+
+#### 2.4A.7 Traps ❌
+
+- ❌ "Consciousness is nothing" = consciousness does not exist, or is an illusion. It means **no essence, no content, no self-coincidence**.
+- ❌ Confusing Sartre's *néant* with Buddhist emptiness or Vedāntic negation; the reference class is Hegelian negativity and Husserlian intentionality (see [`../indian/Buddhism.md`](../indian/Buddhism.md) only if the question demands a comparison).
+- ❌ Attributing to Husserl the view that there is no ego (that is early Husserl and Sartre), or to Sartre the view that there is no self (there is — as a constituted, worldly object).
+- ❌ Omitting the shared ground; a pure contrast answer reads as a textbook list.
+- ❌ Dropping the *Transcendence of the Ego* reference, which is precisely where the 2026 difference is argued.
+
+#### 2.4A.8 Answer spine ⚠️
+
+```
+15-mark (2026 Q2c: "Describe Sartre's notion of consciousness as 'nothing'. How is it different
+from Husserl's notion of consciousness? Discuss."):
+  Frame : Both begin from intentionality; they divide over what, if anything, INHABITS consciousness.
+  Body A: Sartre — no contents; ego transcendent (Transcendence of the Ego); pre-reflective cogito;
+          "nothing" = lack of self-identical being; nihilation; Pierre's absence; freedom.
+  Body B: Husserl — epoché and transcendental reduction; constituting subjectivity; the pure ego with
+          habitualities; constitution of noematic sense.
+  Body C: contrast table in prose — ego, unifier, task, negation, freedom.
+  Qualif: LI-Husserl was himself non-egological; Zahavi reads Sartre as a reorientation, not a refutation.
+  Close : "For Husserl consciousness is that FOR WHICH the world has sense; for Sartre it is that
+           BY WHICH nothingness — and therefore freedom — enters being."
+
+10-mark rewording ("What does Sartre mean by consciousness as nothingness?"):
+  Definition → no contents/no ego → non-coincidence formula → nihilation and Pierre → freedom.
+
+20-mark rewording ("Sartre's ontology of the for-itself and its phenomenological inheritance"):
+  Add en-soi/pour-soi (§2.4), bad faith as the consequence of translucency (§2.3), the Look (§2A),
+  and the objection that an absolutely free consciousness cannot be situated — with the later
+  Critique of Dialectical Reason concession (§2.6).
+```
+
+**2026 route ✅** — Paper I, Section A, **Q2(c), 15 marks**: "Describe Sartre's notion of consciousness as 'nothing'. How is it different from Husserl's notion of consciousness? Discuss." Primary owner: this file, §2.4A (with §2.3, §2.4); Husserl's half cross-owned by [`Phenomenology-Husserl.md`](Phenomenology-Husserl.md). See [`../_PYQ-Western-Philosophy-2026.md`](../_PYQ-Western-Philosophy-2026.md).
+
+**Source anchors ✅** — [SEP, *Jean-Paul Sartre*, §§2 and 4.1](https://plato.stanford.edu/entries/sartre/); [SEP, *Edmund Husserl*, §2 (intentionality)](https://plato.stanford.edu/entries/husserl/); primary texts: Sartre, *The Transcendence of the Ego* (1936–37) and *Being and Nothingness* (1943), Introduction and Part I ch. 1.
+
 ### 2.5 Choice as Legislating for All Humanity ⚠️
 
 - Sartre adopts a quasi-Kantian universalisability principle: "In choosing myself, I choose man" — every choice implies an image of what human beings *ought* to be. If I choose to marry, I affirm that monogamy is valuable *for everyone*; I cannot choose "just for me" in moral isolation. ✅
@@ -549,6 +640,15 @@ Heidegger replaces the traditional "categories" (which apply to things) with **e
 
 See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
 
+### 2026 additions ✅
+
+| Year | Question | Marks | Exact demand | Owner status |
+|---|---|---:|---|---|
+| 2026 | Q2(c) | 15 marks | Describe Sartre's notion of consciousness as 'nothing'. How is it different from Husserl's notion of consciousness? Discuss. | **primary** — §2.4A; Husserl's half cross-owned by [`Phenomenology-Husserl.md`](Phenomenology-Husserl.md) |
+| 2026 | Q3(b) | 15 marks | Explain Heidegger's conception of authenticity and inauthenticity as modes of Dasein's being. | **primary** — §2.7, with §3.1–3.5 (Dasein, das Man, Care, temporality) |
+
+See the [Western Philosophy PYQ Bank, 2026](../_PYQ-Western-Philosophy-2026.md).
+
 ## 8. ANSWER ARCHITECTURE ⚠️
 
 ### 8.1 — PYQ 2025 Q1(c) 10m: "Explain the difference between pour-soi and en-soi."
@@ -792,6 +892,7 @@ Close  : For Sartre, the "problem" of freedom and determinism is a false problem
 - [../../paper-2/philosophy-of-religion/Reason-Revelation-Faith.md](../../paper-2/philosophy-of-religion/Reason-Revelation-Faith.md) — Kierkegaard's leap of faith; religion-without-God angle for atheistic existentialism.
 - [../../paper-2/philosophy-of-religion/Soul-Immortality-Rebirth.md](../../paper-2/philosophy-of-religion/Soul-Immortality-Rebirth.md) — being-toward-death vs immortality.
 - [../_PYQ-Western-Philosophy-2018-2025.md](../_PYQ-Western-Philosophy-2018-2025.md) — full PYQ bank.
+- [../_PYQ-Western-Philosophy-2026.md](../_PYQ-Western-Philosophy-2026.md) — 2026 PYQ bank (Section A).
 - [../../00_Master-Framework.md](../../00_Master-Framework.md) — house style and depth rules.
 
 ---

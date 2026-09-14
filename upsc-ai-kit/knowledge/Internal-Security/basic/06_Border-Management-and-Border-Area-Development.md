@@ -368,6 +368,96 @@ community reporting safeguards and audited technology alongside guarding.
   border's proxy-war dimension; topic 12 for BSF/ITBP/SSB/Assam Rifles
   mandates in full.
 
+## 14. 2026 GS-III Mains Q10 — Ladakh: BADP, Operation Sadbhavana and the Sixth Schedule demand
+
+> **Exact 2026 question (GS-III, Q10, 10 marks, 150 words):** "Ladakh is strategically located
+> between China and Pakistan. As a measure to win hearts and minds of locals, discuss the
+> Border Area Development Programme (BADP) by the Central Government and civic actions by the
+> Army. Also discuss demand of promulgation of provision of the Sixth Schedule of constitution
+> for Ladakh." **Provenance:** OCR of `books/mains/2026/QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`;
+> supporting facts from Vajiram & Ravi *The Recitals*, July 2026, pp. 11-13 (local extract),
+> plus live-source verification for Operation Sadbhavana's current activities.
+
+- ✅ **Ladakh's strategic location (question's framing, already implicit in Section 3's
+  border-by-border treatment):** Ladakh borders **both Pakistan** (the Kargil sector of the
+  Line of Control/Actual Ground Position Line, Section 3.1) **and China** (the Aksai
+  Chin/eastern-Ladakh sector of the disputed LAC, Section 3.2) — the only Indian region
+  fronting both adversarial borders simultaneously, which is precisely why "winning hearts and
+  minds" of the local population (not just guarding terrain) is treated as a security
+  priority here.
+- ✅ **Border Area Development Programme (BADP) in Ladakh (question's first specific ask —
+  applying the BADP definition from Section 2 to this UT):** BADP funds villages within
+  0-10 km of the international border/LAC through **non-lapsable Special Central Assistance**
+  for infrastructure, livelihood, education and health (Section 2) — in Ladakh this targets
+  remote, high-altitude, thinly populated border villages where normal state-plan
+  infrastructure spending is otherwise thin, aiming to retain population in border villages
+  (a "living border" objective) rather than have them migrate to towns, which would leave the
+  border thinner of civilian presence and local intelligence/support.
+- ✅ **Operation Sadbhavana — Army civic-action programme (question's second specific ask):**
+  the Indian Army's long-running goodwill initiative in Ladakh, running education (**Army
+  Goodwill Schools** — approximately 7 schools serving 2,200+ students), skill-development
+  programmes for women and youth (Pashmina-wool weaving, apricot-oil processing, yak-cheese
+  making, IT/vocational training), medical camps in remote villages (e.g., a camp at Tia
+  village reported in May 2026), self-defence training camps (reported June 2026), and small
+  infrastructure works (community halls, computer labs, solar lighting, village roads).
+  ✅ Roughly **₹8.82 crore** was allocated to Operation Sadbhavana activities in 2022-23 (a
+  dated figure — verify the current year's allocation before citing it as a live number).
+  ⚠️ **Distinguish this from BADP:** BADP is a **Central-Government-funded, civilian**
+  development scheme administered through the Department of Border Management (Section 4);
+  Operation Sadbhavana is an **Army-run civic-action** programme — both serve the same
+  "hearts and minds" objective through different institutional channels, which is exactly the
+  distinction the question's two-part structure ("BADP... and civic actions by the Army")
+  is testing.
+- ✅ **The Sixth Schedule demand for Ladakh (question's third specific ask):** since Ladakh
+  became a Union Territory without a legislature on **31 October 2019** (J&K Reorganisation
+  Act), Leh and Kargil have continued to be administered through their pre-existing
+  **Autonomous Hill Development Councils** (LAHDC Act, 1997, applied retrospectively from
+  1 June 1995) rather than through a Sixth Schedule Autonomous District Council. 📰 A **July
+  2026** proposal extends Autonomous Hill Development Councils under **Section 3(1) of the
+  LAHDC Act** to all **seven districts** of Ladakh (five new districts having been created in
+  2026), rather than granting Sixth Schedule status — this is the live policy response, and
+  candidates should not conflate the AHDC extension with an actual Sixth Schedule
+  notification.
+- ✅ **Comparison chart — Sixth Schedule Autonomous District Councils vs Ladakh's Hill
+  Development Councils (the precise distinction the demand requires):**
+
+| Feature | Sixth Schedule Autonomous District Councils | Ladakh Autonomous Hill Development Councils (LAHDC) |
+|---|---|---|
+| Constitutional basis | **Articles 244(2) and 275(1)**, Sixth Schedule — constitutional protection | **Statutory** — created under the LAHDC Act, 1997 (an ordinary law, not a constitutional schedule) |
+| Powers | Legislative (can make laws on land, forest, village administration, inheritance etc.), judicial (village/district councils can try certain cases) and financial (can levy specified taxes) | Primarily **administrative and developmental** (local infrastructure, planning execution) |
+| Autonomy from UT/state administration | High — constitutionally insulated from ordinary state/UT legislative override on scheduled subjects | Limited — functions **under the overall control of the UT Administration**, without independent legislative or judicial powers |
+| Applicability | Currently in parts of Assam, Meghalaya, Tripura and Mizoram | Leh and Kargil districts of Ladakh (proposed extension to all seven districts, July 2026) |
+| What the "demand" seeks | N/A (already exists elsewhere) | Ladakhi groups seek **Sixth Schedule status specifically** — i.e., an upgrade from the current statutory Hill Council model to constitutionally protected autonomy, primarily to safeguard land, demographic composition, and cultural/tribal identity given Ladakh's large Scheduled Tribe population, after the 2019 loss of Article 370-linked special status |
+
+- ⚠️ **Why the demand exists (the "discuss" the question asks for, beyond just naming it):**
+  after Ladakh's 2019 reorganisation into a UT without a legislature, local groups (Leh
+  Apex Body and Kargil Democratic Alliance) have sought either statehood or Sixth Schedule
+  inclusion, primarily citing land/resource protection, environmental fragility, and
+  protection of tribal demographic and cultural identity that a purely administrative Hill
+  Council (with no independent legislative power) cannot constitutionally guarantee.
+- ⚠️ **UPSC trap:** "Ladakh already has Sixth Schedule status through its Hill Councils." →
+  False; LAHDCs are **statutory bodies under an ordinary Act**, not Sixth Schedule
+  constitutional bodies — the demand is precisely for the **upgrade** from one to the other,
+  which has not been granted; the July 2026 development extends the *existing statutory*
+  Hill Council model to more districts — it does not confer Sixth Schedule status.
+- ⚠️ **UPSC trap:** "BADP and Operation Sadbhavana are the same programme." → BADP is a
+  **civilian, Central-Government-funded** development scheme; Operation Sadbhavana is an
+  **Army-run civic-action** initiative — both serve "hearts and minds" in Ladakh through
+  distinct institutional channels, and an answer should name both separately as the question
+  explicitly structures it.
+- **Exact 2026 answer spine (10 marks/150 words):** *Strategic context* → Ladakh uniquely
+  fronts both the Pakistan (Kargil/LoC-AGPL) and China (Aksai Chin/LAC) borders, making
+  civilian goodwill a security, not just a development, priority (1-2 lines). *BADP* →
+  Central-Government-funded, non-lapsable Special Central Assistance for border-village
+  infrastructure/livelihood within 0-10 km of the border/LAC, aimed at retaining population in
+  border villages (2 lines). *Army civic action* → Operation Sadbhavana's Goodwill Schools,
+  skill-training for women/youth, medical camps and small infrastructure works (2 lines).
+  *Sixth Schedule demand* → Ladakh currently has only statutory LAHDCs (administrative powers,
+  under UT Administration control), not constitutionally protected Sixth Schedule Autonomous
+  District Councils (legislative/judicial/financial powers); local groups demand the upgrade
+  to protect land, tribal demography and culture post-2019; July 2026 saw AHDCs extended to
+  all seven districts, short of Sixth Schedule status (3-4 lines).
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

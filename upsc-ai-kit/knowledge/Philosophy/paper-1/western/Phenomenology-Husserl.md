@@ -176,6 +176,8 @@ Noesis/noema is the *correlation* between act and object. **Hyle/morphe is the a
   - *Divergence:* (i) Descartes characterises the self as a thinking substance; Husserl suspends that mundane ontological inference and studies constituting subjectivity. (ii) Descartes invokes divine non-deception to rebuild world-knowledge; Husserl never denies the world but brackets its natural-attitude positing and analyses its modes of givenness. (iii) Husserl's ego is intentional, temporal and ultimately intersubjective, not a sealed inner thing. ⚠️
   - **Critical discussion:** the charge of **transcendental solipsism** — if the world is constituted *by* my transcendental ego, how can there be *other* egos? Husserl's reply in the *Cartesian Meditations*, Fifth Meditation: the other ego is constituted in my experience through **analogical appresentation** (pairing, empathy) — I perceive another body behaving like mine and thereby appresent an alter ego. Whether this fully escapes solipsism is debated. ❓
 
+> ⚠️ **Paired-owner cross-link — Sartre's non-egological critique (2026 Q2(c)).** Sartre accepts intentionality and pre-reflective self-awareness but denies that any ego **inhabits** consciousness: the "I" is a *transcendent object constituted in reflection* (*The Transcendence of the Ego*, 1936–37), and consciousness is therefore "nothing" — without contents, essence or self-coincidence. His four objections to the transcendental ego (superfluity, opacity, priority, reification), the full Husserl/Sartre contrast table, the qualification that the *Logical Investigations* Husserl was himself non-egological, and the 10/15/20-mark answer spines are owned by [`Existentialism.md`](Existentialism.md) §2.4A. Supply the Husserlian half from §1.2–1.5 and §3A here; do not duplicate the comparison. ❌ Never write that Sartre simply "refuted" Husserl.
+
 ### 1.6 The Lebenswelt (Life-World) ⚠️
 - In the late work *The Crisis of European Sciences and Transcendental Phenomenology*, Husserl introduces the **Lebenswelt** — the pre-scientific, pre-theoretical world of everyday lived experience.
   > ⚠️ **Publication status — state it correctly.** Parts I and II appeared in the journal *Philosophia* (Belgrade) in **1936**; Husserl died in **1938** leaving the work unfinished; **Part III and the full text were published posthumously only in 1954**, as *Husserliana* Vol. VI, edited by **Walter Biemel**; the English translation is **David Carr's (1970)**. ✅ **Safe form:** "the *Crisis* (Parts I–II 1936; full text posthumously 1954)." ❌ Do not write "the *Crisis* (1936)" as though the whole book appeared then, and do not treat the unfinished later sections as settled Husserlian doctrine.
@@ -476,6 +478,14 @@ Specific claims of psychologism: ✅
 
 See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
 
+### 2026 additions ✅
+
+| Year | Question | Marks | Exact demand | Owner status |
+|---|---|---:|---|---|
+| 2026 | Q2(c) | 15 marks | Describe Sartre's notion of consciousness as 'nothing'. How is it different from Husserl's notion of consciousness? Discuss. | **cross-owned** — supply the Husserlian half from §§1.2–1.5, 3A; comparison owned by [`Existentialism.md`](Existentialism.md) §2.4A |
+
+See the [Western Philosophy PYQ Bank, 2026](../_PYQ-Western-Philosophy-2026.md).
+
 ## 8. ANSWER ARCHITECTURE ⚠️
 
 ### 8.1 — PYQ 2025 Q4(a) 20m: "How is Husserl's 'I think' different from Descartes'? Critically discuss."
@@ -598,6 +608,7 @@ Close : Yes — hallucination is paradigmatically intentional; this shows that i
 - [../../paper-2/philosophy-of-religion/Religious-Experience.md](../../paper-2/philosophy-of-religion/Religious-Experience.md) — phenomenology of religious experience (describing the *intentional object* of the sacred; Otto, Scheler).
 - [../../paper-2/philosophy-of-religion/Reason-Revelation-Faith.md](../../paper-2/philosophy-of-religion/Reason-Revelation-Faith.md) — the life-world concept connects to faith as lived prior to theoretical theology.
 - [../_PYQ-Western-Philosophy-2018-2025.md](../_PYQ-Western-Philosophy-2018-2025.md) — full PYQ bank.
+- [../_PYQ-Western-Philosophy-2026.md](../_PYQ-Western-Philosophy-2026.md) — 2026 PYQ bank (Section A).
 - [../../00_Master-Framework.md](../../00_Master-Framework.md) — house style and depth rules.
 
 ---

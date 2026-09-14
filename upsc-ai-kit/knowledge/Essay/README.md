@@ -1,5 +1,14 @@
 # Essay — Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> provides command decoding, thesis patterns and mark-wise architectures; use its GS templates
+> selectively because Essay requires sustained argument rather than compressed headings.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes prompt signals to the Essay method, subject evidence and argument framework.
+
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies dated evidence bundles and qualified case studies for argument development.
+
 > **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
 
 > **Subject:** Essay | **GS Paper:** Essay (General Studies Paper — Essay,
@@ -288,3 +297,27 @@ link** (topic `12`), never a bare fact dump borrowed from another folder.
 strategy or analytical inference (never an official UPSC rule) | 📰 dated
 anchor, used only where genuinely time-sensitive | ❌ trap, misreading, or
 explicit boundary.
+
+## Physical-book inventory
+
+> **Recorded:** two books of sample essays.
+>
+> Their exact titles, authors and editions have not yet been supplied. A chapter-level
+> recommendation would therefore be fabricated and is deliberately not added.
+
+Until the titles are confirmed, use sample essays only through this evaluation grid:
+
+| What to examine | Accept only if |
+|---|---|
+| Prompt interpretation | The essay remains faithful to every operative word |
+| Thesis | One qualified central claim governs the whole essay |
+| Dimensions | Each dimension advances the thesis rather than creating a list |
+| Examples | They support a claim and include a limitation where needed |
+| Counter-view | The strongest opposing case is represented fairly |
+| Structure | Paragraphs follow a visible argumentative sequence |
+| Introduction/conclusion | The introduction frames the problem; the conclusion is earned |
+| Style | Expression is precise and readable without decorative verbosity |
+
+Do not memorise complete sample essays. Extract only reusable moves: opening type, argument
+transition, example placement, counterargument and conclusion method. The repository's
+`basic/` owners and audited PYQ corpus remain the primary practice system.

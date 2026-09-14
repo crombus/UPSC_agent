@@ -1,5 +1,15 @@
 # Disaster Management - Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> structures risk causality, institutional assessment and sequenced mitigation.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes hazard, vulnerability, resilience, community and infrastructure signals.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes hazard, risk, preparedness, response, recovery and resilience.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies warning, evacuation, community-response and resilience cases.
+
 > **Historical PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
 > remains the provenance record; all paper-essential Disaster Management
 > routes now terminate in Core, with legacy Advanced pointers explicitly
@@ -20,6 +30,22 @@
 > **PYQ corpus:** audited local UPSC GS-III text — `03 UPSC 2024
 > Paper-III.txt` and `UPSC Mains 2025 GS Paper 3 3.txt`.
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Major panels:** [`_revision/Major-Committees-Commissions-and-Reports.md`](_revision/Major-Committees-Commissions-and-Reports.md)
+> maps the national disaster architecture, hazard-specific reviews and disaster-finance commissions.
+> **Major Acts:** [`../MAJOR-ACTS-INDEX.md`](../MAJOR-ACTS-INDEX.md)
+> maps the Disaster Management Act, 2025 reforms, Dam Safety Act and emergency public-health law.
+> **Indices and reports:** [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
+> maps GAR, WorldRiskIndex, INFORM and Indian hazard/loss statistics.
+> **Institutions and regulators:** [`../INSTITUTIONS-AND-REGULATORS-INDEX.md`](../INSTITUTIONS-AND-REGULATORS-INDEX.md)
+> maps NDMA, NEC, NDRF, NIDM, State, district and urban disaster authorities.
+> **Government schemes:** [`../GOVERNMENT-SCHEMES-MATRIX.md`](../GOVERNMENT-SCHEMES-MATRIX.md)
+> maps Aapda Mitra, cyclone mitigation, flood management and resilient infrastructure delivery.
+> **International organisations:** [`../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md`](../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md)
+> maps UNDRR-linked cooperation, CDRI, climate finance and regional security mechanisms.
+> **Environmental conventions:** [`../ENVIRONMENT-CONVENTIONS-AND-PROTOCOLS-INDEX.md`](../ENVIRONMENT-CONVENTIONS-AND-PROTOCOLS-INDEX.md)
+> maps UNFCCC loss-and-damage mechanisms, Sendai, drought and marine-risk frameworks.
+> **Map-location bank:** [`../GEOGRAPHY-MAP-LOCATION-BANK.md`](../GEOGRAPHY-MAP-LOCATION-BANK.md)
+> maps plate margins, trenches, volcanoes, glaciers, coasts and other hazard settings.
 > **Pre-exam revision:** [`REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md`](REVISION-CHART_Hazards-Risk-and-Distinctive-Features.md)
 > compresses all 18 Core/Advanced pairs into one risk-to-resilience map,
 > hazard fingerprint sheet, institutional framework and GS-III answer structure.
@@ -239,3 +265,25 @@ reproduced verbatim from the local source rather than corrected.
 
 ✅ source-grounded | ⚠️ inference/analysis/refresh warning | 📰 dated
 current anchor | ❌ trap/stale-claim caution.
+
+## Physical-book inventory note
+
+Ashok Kumar Singh's *Challenges to Internal Security of India* is indexed in the sibling
+`Internal-Security/README.md`; it is **not a complete Disaster Management source**.
+
+For Disaster Management, use the existing physical/local spine:
+
+| Source block | Priority | Knowledge route |
+|---|---|---|
+| VisionIAS VAM: concepts, risk, resilience, cycle and Sendai | **A** | Topics 01 and 18 |
+| Legal/institutional architecture | **A** | Topic 02; update through the DM Amendment Act, 2025 and official sources |
+| Community-based and inclusive DRR | **A** | Topic 03 |
+| Early warning and technology | **A** | Topic 04 |
+| Hazard chapters: earthquake through forest fire | **A** | Topics 05-11 |
+| Industrial/CBRN and biological emergencies | **A** | Topics 12-13 |
+| Urban infrastructure and climate-risk application | **A** | Topics 14-15 |
+| Finance, relief, recovery and international cooperation | **A** | Topics 16-18 |
+
+**Physical-source gap:** there is no dedicated standard Disaster Management book in the
+confirmed inventory. The local VisionIAS VAM plus current NDMA/MHA/NIDM material already
+provides the required reading spine; the security book should not be stretched to fill it.

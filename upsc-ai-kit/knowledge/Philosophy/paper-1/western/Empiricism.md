@@ -73,6 +73,87 @@ Locke's *Essay Concerning Human Understanding* (1690) opens with a sustained dem
   - *Demonstrative* (requires intervening ideas — e.g. proofs in mathematics).
   - *Sensitive* (that particular things exist — least certain, though still reliable). ✅
 
+#### DEGREES OF KNOWLEDGE — INTUITIVE vs DEMONSTRATIVE ✅ (owner block; 2026 Q1(b) routes here)
+
+**Doctrine.** Knowledge is "the perception of the connexion and agreement, or disagreement and repugnancy, of any of our ideas" (*Essay* IV.i.2). What separates the degrees is therefore **not subject matter but the *mode* in which that agreement is perceived — immediately, or only through intervening ideas**. ✅ This is the single sentence on which the whole 2026 demand turns.
+
+| Degree | How the agreement is perceived | Certainty | Locke's stock examples | Text |
+|---|---|---|---|---|
+| **Intuitive** | the mind perceives the agreement/disagreement of two ideas **immediately, by themselves, without the intervention of any other idea** | highest — "irresistible," leaves no room for hesitation, doubt or examination; it is the "light" by which all other knowledge is seen | white is not black; three is more than two; a circle is not a triangle; **one's own existence** | IV.ii.1 |
+| **Demonstrative** | the agreement **cannot** be perceived immediately; the mind must find **intermediate ideas ("proofs")** that connect the two termini | certain but **lower** — it requires "pains and attention," proceeds by steps, and depends on memory of the steps already taken | mathematical proof (the paradigm); **God's existence**, demonstrated from one's own existence; Locke's hope that **morality** could be demonstrative if moral ideas were adequately defined | IV.ii.2–7 |
+| **Sensitive** | the actual present existence of a particular external thing on the occasion of sensation | lowest; it "goes not beyond… the bare existence," yet is sufficient for the conduct of life | this paper, this fire now before me | IV.ii.14 |
+
+**The argument, numbered ✅ — why demonstration is genuine knowledge yet ranks *below* intuition**
+1. Knowledge = perceived agreement/disagreement of ideas (IV.i.2).
+2. Sometimes the mind can perceive that agreement **at a single view**; that is intuition (IV.ii.1).
+3. Often it cannot — the two ideas will not be "applied" directly to each other; then the mind must interpose **a third idea, and a fourth**, each of which it *does* see immediately to agree with its neighbour (IV.ii.2–3).
+4. ∴ **Demonstration is a chain of intuitions.** Each link is intuitive; the conclusion is certain only because every link is.
+5. ∴ Demonstration is **derivative in warrant and inferior in luminosity**: (i) its certainty rests on intuitive links; (ii) unlike intuition it takes **time, attention and steps**; (iii) it requires **memory** to retain earlier links while later ones are formed; (iv) error can enter through an omitted, misremembered or unnoticed step. ✅
+6. ∴ "It is demonstration, but it is not so clear and bright, nor so ready, as intuitive knowledge" — hence *degrees*, not a difference between knowledge and non-knowledge.
+
+**Presuppositions ⚠️**
+- **P1 — Ideational content:** both termini are *ideas the mind already has*; nothing can be known whose ideas the mind lacks. Knowledge therefore "extends no further than our ideas."
+- **P2 — Availability of intermediates:** demonstration works only if a connecting idea can actually be found; Locke concedes there is no method guaranteeing that it can — which is why demonstrative knowledge is narrow in fact.
+- **P3 — Trustworthy memory:** a long proof is knowledge only if the earlier intuitive links are faithfully retained. Locke admits this openly.
+- **P4 — Degrees, not kinds of warrant:** everything below these degrees (probability, testimony, faith) is **judgement/opinion**, not knowledge. ⚠️ **Sensitive knowledge is the awkward third case** because "this thing exists" is not straightforwardly an agreement between two ideas.
+
+**Objection → Reply ledger**
+
+| Objection | Force | Locke's available reply | Verdict |
+|---|---|---|---|
+| ❌ If every demonstrative step is intuitive, demonstration is not a *distinct degree* but only intuition strung out. | Real. | The distinction is in the **mode of access**, not in the warrant: intuition is immediate and instantaneous, demonstration is mediate, successive and effortful. | ⚠️ Locke's reply holds if "degree" means phenomenology of evidence, not a second source of certainty. |
+| ❌ A chain is only as strong as its remembered links; memory is fallible, so long proofs cannot retain intuitive certainty. | Strong — pressed later by Hume on "reason's" self-degradation. | Locke concedes the practical risk and demands review of each step; certainty is preserved *in principle*, not guaranteed in every performance. | ❓ Genuinely open; concede it in the answer. |
+| ❌ "Sensitive knowledge" breaks the official definition. | Strong. | Locke keeps it because the existence of the particular thing is forced upon us and is practically indispensable; he ranks it lowest precisely because it is anomalous. | ⚠️ Best treated as an admitted strain, not silently ignored. |
+| ❌ Demonstrative morality is promised but never delivered. | Fair. | Moral ideas are *mixed modes*, made by us and therefore fully definable — so demonstration is possible in principle. | ❓ Unfulfilled programme; say so rather than asserting Locke proved it. |
+
+**Close-neighbour discriminations ⚠️ — the discrimination table examiners reward**
+
+| Position | What "intuition" means there | Do NOT conflate with Locke |
+|---|---|---|
+| **Locke** | immediate intellectual perception that two of *my own ideas* agree or disagree | — |
+| **Descartes** (see [`Rationalism.md`](Rationalism.md) §1.1–1.3) | *intuitus* of a simple nature + *deductio* as a continuous movement of thought | Descartes' intuition grounds a metaphysical foundation; Locke's grounds relations among experientially derived ideas |
+| **Spinoza** ([`Rationalism.md`](Rationalism.md) §1.7) | *scientia intuitiva*, the third kind, seeing things *sub specie aeternitatis* | Spinoza's third kind is a higher *ontological* standpoint; Locke's intuition is the humblest, most ordinary act of comparison |
+| **Kant** ([`Kant.md`](Kant.md)) | *Anschauung* — sensible givenness of an object | ❌ Never translate Locke's intuition into Kantian intuition |
+| Popular usage | hunch, mystical insight, gut feeling | ❌ Locke's intuition is neither non-rational nor extraordinary |
+
+**Traps ❌**
+- ❌ "Intuitive = certain, demonstrative = probable." Both are **knowledge**; probability begins *below* both.
+- ❌ Presenting the degrees as three *sources* (like sensation/reflection). They are three **modes of perceiving agreement**.
+- ❌ Omitting sensitive knowledge when the question says "distinction… as propounded by Locke": name it, rank it, and flag its anomaly.
+- ❌ Writing the Locke-on-innate-ideas essay instead. The 2026 demand is the *degrees* doctrine.
+- ❌ Claiming Locke demonstrated morality; he claimed it was **possible**.
+
+**Answer spine — reusable for any rewording of this demand**
+```
+10-mark ("Explain the distinction… propounded by Locke" — 2026 Q1b):
+  L1   : Knowledge = perception of agreement/disagreement of ideas (IV.i.2); degrees differ by
+         MODE of perception, not by object.
+  Body : (i) Intuitive — immediate, no intervening idea, irresistible (white≠black; own existence).
+         (ii) Demonstrative — mediate, via proofs; each link itself intuitive; mathematics; God.
+         (iii) Therefore demonstration = a chain of intuitions → lower because successive, effortful,
+               memory-dependent, error-prone.
+  Add  : one line on sensitive knowledge as the anomalous third degree.
+  Close: a difference in the evidence's luminosity, not a demotion of demonstration to opinion.
+
+15-mark ("Examine Locke's degrees of knowledge / their adequacy"):
+  Add to the above — P1–P4 presuppositions; the memory objection; the sensitive-knowledge strain;
+  the narrowness consequence (knowledge is far smaller than belief, which is why judgement and
+  probability occupy most of Book IV).
+
+20-mark (comparative rewording: Locke with Descartes/Spinoza, or "degrees of certainty in modern
+philosophy"):
+  Part A: Locke's three degrees, exactly as above.
+  Part B: the discrimination table — Cartesian intuitus/deductio, Spinoza's three kinds.
+  Part C: assessment — Locke keeps a rationalist architecture of certainty inside an empiricist
+          theory of ideas; the tension surfaces in sensitive knowledge and in demonstrative morality.
+  Close : Locke's real achievement is the *narrowing* of knowledge and the rehabilitation of
+          rational judgement below it.
+```
+
+**2026 route ✅** — Paper I, Section A, **Q1(b), 10 marks**: "Explain the distinction between Intuitive knowledge and Demonstrative knowledge as propounded by Locke." Primary owner: this file. See [`../_PYQ-Western-Philosophy-2026.md`](../_PYQ-Western-Philosophy-2026.md).
+
+**Source anchors ✅** — Locke, *Essay* IV.ii (["Of the Degrees of our Knowledge"](https://englishphilosophy.org/locke/ehu/4/2)); [IEP, *Locke's Epistemology*](https://iep.utm.edu/locke-ep/); [SEP, *John Locke*](https://plato.stanford.edu/entries/locke/).
+
 #### Representative Realism (the "veil of perception")
 
 - We do not perceive objects directly; we perceive **ideas** that *represent* external objects. ✅
@@ -602,6 +683,15 @@ Each step is the **previous thinker's premise taken more consistently**. This sl
 
 See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
 
+### 2026 additions ✅
+
+| Year | Question | Marks | Exact demand | Owner status |
+|---|---|---:|---|---|
+| 2026 | Q1(b) | 10 marks | Explain the distinction between Intuitive knowledge and Demonstrative knowledge as propounded by Locke. | **primary** — §1.1 "Degrees of knowledge" block |
+| 2026 | Q2(b) | 15 marks | How does Hume account for ideas of reason? How does Kant respond to Hume's views in this regard? Critically discuss. | **primary** — §1.3 (Hume's Fork, relations of ideas) + §3.5A; Kant's reply cross-linked to [`Kant.md`](Kant.md) |
+
+See the [Western Philosophy PYQ Bank, 2026](../_PYQ-Western-Philosophy-2026.md).
+
 ## 11. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 
 ### 10-mark: "Locke's concept of personal identity" (2021)
@@ -714,6 +804,7 @@ All three writers composed in **English**, so no translation issue arises — bu
 - [`../indian/Carvaka.md`](../indian/Carvaka.md) — empiricism/perception-only epistemology.
 - Cross-paper: [`../../paper-2/philosophy-of-religion/Proofs-for-God.md`](../../paper-2/philosophy-of-religion/Proofs-for-God.md) — Hume's critique of design argument.
 - PYQ bank: [`../_PYQ-Western-Philosophy-2018-2025.md`](../_PYQ-Western-Philosophy-2018-2025.md).
+- PYQ bank (2026): [`../_PYQ-Western-Philosophy-2026.md`](../_PYQ-Western-Philosophy-2026.md).
 
 ---
 

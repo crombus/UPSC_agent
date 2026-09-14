@@ -11,8 +11,9 @@
 > the Sexual Harassment of Women at Workplace Act, 2013; ICMR National Ethical Guidelines for
 > Biomedical and Health Research Involving Human Participants (2017); NHRC v. State of Arunachal
 > Pradesh (1996) 1 SCC 742; Mohammad Salimullah v. Union of India (2021); the 1989 Bhagalpur
-> violence Commission of Inquiry; the Nanavati Commission (constituted 2000); and D.K. Basu v.
-> State of West Bengal, (1997) 1 SCC 416.
+> violence Commission of Inquiry; the Nanavati Commission (constituted 2000); D.K. Basu v.
+> State of West Bengal, (1997) 1 SCC 416; Samira Kohli v. Dr. Prabha Manchanda, (2008) 2 SCC 1; and
+> Anuradha Bhasin v. Union of India, (2020) 3 SCC 637.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/23_Comparative-and-Named-Real-Case-Studies.md`.*
 
@@ -69,9 +70,11 @@ a mature GS-IV answer must retain this same balance, not collapse the record int
 ## 4. Cross-domain named evidence supporting the Basic 22 domain modules
 
 **Core proposition:** ⚠️ The domain modules in `22`'s Sec. 14 (procurement, whistleblowing, communal
-peace, clinical research, refugee protection, workplace harassment, environment, corporate AI) each
-rest on a specific named instrument or judgment, not a general impression — this section is the
-source bank for those modules, retaining precise citation, date and limitation exactly as Sec. 2-3
+peace, clinical research, refugee protection, workplace harassment, environment, corporate AI,
+therapeutic consent, algorithmic policing, institutional capture, welfare-technology exclusion,
+ethnic conflict and arms-transfer due diligence) each rest on a specific named instrument or
+judgment, not a general impression — this section is the source bank for those modules, retaining
+precise citation, date and limitation exactly as Sec. 2-3
 of this file already do for the anti-corruption cases above. It supplements, rather than replaces,
 this file's existing named-case core.
 
@@ -98,6 +101,7 @@ this file's existing named-case core.
 | ✅ **1989 Bhagalpur violence** | Communal violence in Bhagalpur, Bihar (October-November 1989) killed over a thousand people; a Commission of Inquiry examined the causes and the administrative/police response, finding that rumour, prior communal tension, and failures of local administration and policing (including allowing a provocative procession through a sensitive area) were central contributing factors. | ⚠️ The Commission's report took years to complete — illustrating that a formal inquiry is a post-facto accountability tool, not a preventive one. A case-study answer should not present a commission of inquiry as a substitute for real-time, proportionate administrative action of the kind modelled in `22` Sec. 14.3. |
 | ✅ **Nanavati Commission (constituted 2000)** | A Commission of Inquiry under Justice G.T. Nanavati was constituted in 2000 to re-examine the 1984 anti-Sikh riots — the sequence of events, and lapses in administrative/police response. Its report found evidence implicating some political actors and criticised police inaction, but was also criticised for cautious, non-definitive findings on individual culpability. | ⚠️ As with Bhagalpur, this illustrates a commission's real but limited role — retrospective fact-finding and recommendation, not real-time crisis management; do not conflate the two functions in an answer. |
 | ⚠️ **District-level peace/harmony committees (general administrative practice)** | Many Indian states maintain standing local peace/harmony committees — bringing together police, district administration and representative community leaders — as a preventive, dialogue-based mechanism intended to defuse tension before it escalates, distinct from the post-facto inquiry-commission mechanism above. | This is a general, widely documented administrative practice rather than a single named all-India statute; verify the specific committee/order relevant to a given state before citing it as a uniform, nationwide legal requirement. |
+| ✅ **Anuradha Bhasin v. Union of India (2020)** | (2020) 3 SCC 637; decided 10 January 2020, arising from restrictions on communication and movement in Jammu and Kashmir. The Court held that orders imposing restrictions must satisfy **proportionality** — a legitimate aim, a rational connection, the **least restrictive** alternative and a balance of interests; that such orders must be **published/made available** so that affected persons can challenge them, since an unpublished order is in practice unreviewable; that restrictions cannot be **indefinite** and must be subject to **periodic review**; and that freedom of speech and of trade through the internet enjoy constitutional protection. | ⚠️ The judgment lays down a **standard of review and a procedural discipline**, not a prohibition: it does not hold that restrictions can never be imposed in a disturbed district, and it does not by itself resolve any particular order's validity. Do not over-read it into "internet shutdowns are unconstitutional"; the correct use in a case-study answer is as the test each restriction must be *designed to satisfy* in advance — written, narrow, reasoned, published, time-bound and periodically reviewed — which is exactly how `22` Sec. 14.20 applies it to a conflict district, and how `22` Sec. 14.3 applies the same discipline to a shorter law-and-order event. |
 
 ### 4.4 Custodial-justice/policing jurisprudence
 
@@ -109,6 +113,35 @@ this file's existing named-case core.
   excess case — cite the safeguards as *procedural* obligations owed regardless of the eventual
   finding on whether force used was actually excessive, since skipping them is itself a breach
   independent of that separate factual question.
+
+### 4.5 Consent and bodily-integrity jurisprudence
+
+| Case | Source-grounded facts | Limitation |
+|---|---|---|
+| ✅ **Samira Kohli v. Dr. Prabha Manchanda (2008)** | (2008) 2 SCC 1; decided 16 January 2008. The appellant, an unmarried adult woman, gave written consent for a **"diagnostic and operative laparoscopy"** under general anaesthesia. Intra-operatively the surgeon concluded that further surgery was indicated and, while the patient remained unconscious, obtained the **mother's** written consent, then performed an **abdominal hysterectomy with bilateral salpingo-oophorectomy**. Holdings: consent must be **real and valid** — given by a person with capacity, voluntarily, after **adequate information** about the nature and procedure of the treatment, its purpose and benefits, the material risks and the available alternatives; **consent for a diagnostic procedure does not extend to therapeutic surgery**, and consent for a specific treatment does not extend to a different or additional procedure, unless the additional procedure is **necessary to save life or preserve health** and it would be **unreasonable to delay** it to obtain consent; and where the patient is a **competent adult, no question arises of anyone else consenting on her behalf**. The unauthorised surgery was held to be an unauthorised invasion of and interference with the patient's body, amounting to deficiency in service, though the Court expressly took the doctor's **bona fides** into account in moulding relief. | ⚠️ Two limits matter for a case-study answer. First, the case establishes the **consent standard**, not a rule that all intra-operative decisions are unlawful — where both limbs of the necessity exception are genuinely made out and contemporaneously documented, extended surgery is permissible. Second, the Court's treatment of the doctor's good faith is relevant to **culpability and relief**, and must not be read as a holding that a benevolent motive makes the act lawful; the act was still an autonomy violation. `22` Sec. 14.16 works through a near-identical fact pattern, and Sec. 14A.1 generalises the holding into a reusable consent-validity test applicable well beyond medicine. |
+| ⚠️ **Distinguish therapeutic consent from research consent** | The ICMR 2017 guidelines above govern **research** participation, with the Institutional Ethics Committee as the oversight forum (`22` Sec. 14.4). *Samira Kohli* governs **therapeutic/surgical** consent, where the forum is the treating team, the hospital's clinical ethics committee, the State Medical Council, a consumer forum or the civil/criminal court. | ⚠️ A frequent error is to answer a surgical-consent case using research-ethics machinery — citing an IEC where no research is involved imports the wrong institutional authority and signals that the candidate has matched a keyword rather than the problem. Keep the two tracks separate. |
+
+### 4.6 Algorithmic fairness — comparators, used with caution
+
+**Core proposition:** ⚠️ There is at present **no single Indian statute** that comprehensively
+governs algorithmic fairness, predictive policing or public-sector facial recognition. The operative
+Indian anchors are constitutional and general-statutory — Article 14/15 non-arbitrariness and
+non-discrimination, Article 21 read with the privacy and proportionality jurisprudence, and the data
+protection statute's principles, subject to the exemptions available to state instrumentalities
+(the substantive treatment belongs to `13_Emerging-Ethics-Technology-AI-and-Environment.md`). The
+comparators below are useful **only** for drawing a line precisely; they are not Indian law and must
+never be presented as binding here.
+
+| Comparator | What it usefully supplies | Caution |
+|---|---|---|
+| ⚠️ **Foreign risk-tiered AI regulation** (e.g. the European Union's AI Act framework) | The analytically valuable distinction between **individual criminal-risk prediction based solely on profiling or personality traits**, which such frameworks treat as impermissible, and **evidence-linked, place- and time-based deployment**, which remains permissible but is treated as high-risk and subjected to human-oversight, logging and transparency duties. This is the precise line `22` Sec. 14.17 uses to separate what the district SP may retain from what he must suspend. | ⚠️ **Foreign law with no application in India.** It is also a moving target with phased commencement and evolving guidance; do not quote article numbers, dates or obligations as settled unless verified against the primary text on the day of use. Cite it as an illustrative regulatory design, and let the Indian constitutional anchors carry the argument. |
+| ⚠️ **The "dirty data" / feedback-loop critique of predictive policing** (international research literature) | The mechanism by which historic **enforcement** records — arrests, stops, complaints — are mistaken for a record of **crime**, so that a historically over-policed area generates more recorded contacts, trains the model to send more patrols there, and thereby manufactures its own confirmation. Also the **proxy-variable** point: postcode, immigration status or income can stand in for protected characteristics without any explicitly discriminatory rule. | ⚠️ This is a **research-derived analytical concept**, not a legal finding, and not a demonstration that any particular Indian system is biased. Present it as the mechanism an allegation of bias asserts, and as the reason an **independent audit against victimisation-survey rather than arrest-count baselines** is the appropriate response — not as a conclusion that dispenses with the audit. |
+| ⚠️ **Algorithmic-fairness impossibility results** (technical literature) | The point that several intuitive fairness criteria — equal error rates across groups, equal predictive value, and calibration — **cannot in general all be satisfied simultaneously** where base rates differ. This is why "just make the algorithm fair" is not an implementable instruction, and why the choice of which fairness criterion to optimise is an **ethical and political decision that must be made openly and by an accountable human**, not a technical detail left to a vendor. | ⚠️ Do not overstate this into "fairness is impossible, so bias is unavoidable" — the correct inference is that the trade-off must be **named, chosen, justified and published**, which is itself a transparency and accountability obligation. Avoid quoting specific named results or authors unless verified. |
+
+- ⚠️ **Use in a case-study answer:** offer these as comparators in one or two sentences at most, always
+  labelled as foreign or research-derived, and always after the Indian constitutional anchor has been
+  stated. An answer that leads with a foreign statute and never reaches Article 14 or Article 21 has
+  inverted the hierarchy the examiner is looking for.
 
 ## 5. Must-Know Facts for Prelims
 
@@ -135,6 +168,20 @@ this file's existing named-case core.
   procedural safeguards on arrest/custody as flowing from Articles 21 and 22, later given
   statutory backing through Cr.P.C. amendments and now carried forward under the Bharatiya
   Nagarik Suraksha Sanhita, 2023.
+- ✅ *Samira Kohli v. Dr. Prabha Manchanda*, (2008) 2 SCC 1 (16 January 2008): consent for a
+  **diagnostic** laparoscopy does not extend to a **therapeutic** hysterectomy; consent must be real
+  and valid; and for a **competent adult patient no one else can consent on her behalf** — the
+  relative's written consent taken while the patient was under anaesthesia was therefore invalid.
+  ⚠️ The narrow exception is additional surgery **necessary to save life or preserve health** where
+  delay to obtain consent would be unreasonable — both limbs, not one.
+- ✅ *Anuradha Bhasin v. Union of India*, (2020) 3 SCC 637 (10 January 2020): restriction orders must
+  be proportionate and use the **least restrictive** alternative, must be **published** so they can
+  be challenged, and cannot be indefinite — they require **periodic review**. ⚠️ It is a standard of
+  review, not a bar on restrictions.
+- ⚠️ There is at present no single Indian statute comprehensively governing algorithmic fairness,
+  predictive policing or public-sector facial recognition; the operative anchors are constitutional
+  (Articles 14, 15, 21) and general-statutory. Foreign AI regulation and the research literature on
+  "dirty data" feedback loops are **comparators only** (Sec. 4.6).
 
 ## 6. UPSC traps
 
@@ -148,6 +195,21 @@ this file's existing named-case core.
   33/100 (rank 116 of 182) in CPI 2025 — the two variables are not simply, directly correlated. ⚠️
   Also state the penalty precisely: the 2018 Organic Act prescribes five to twenty years or life,
   while the death penalty appears only in specified Penal Code bribe-taking provisions.
+- ❌ A close relative's written consent validates surgery on an unconscious adult patient. ->
+  *Samira Kohli* holds that where the patient is a **competent adult**, no question arises of anyone
+  else consenting on her behalf; the only route is the narrow necessity exception, which requires
+  both a threat to life or health and the unreasonableness of waiting (Sec. 4.5).
+- ❌ A surgical-consent dispute is answered with the ICMR research-ethics guidelines and an
+  Institutional Ethics Committee. -> Those govern **research** participation; therapeutic consent is
+  governed by *Samira Kohli*, and the forum is the treating team, the hospital's clinical ethics
+  committee, the State Medical Council, a consumer forum or the court (Sec. 4.5).
+- ❌ *Anuradha Bhasin* held that internet shutdowns and movement restrictions are unconstitutional. ->
+  It laid down a proportionality standard and a procedural discipline — publication, narrow
+  tailoring, reasons, time limits and periodic review — not a prohibition (Sec. 4.3).
+- ❌ Foreign AI statutes can be cited as the governing law for an Indian predictive-policing case. ->
+  They are illustrative comparators with no application in India; the Indian argument runs on
+  Articles 14, 15 and 21 and the data-protection principles, with the comparator used at most to
+  draw a line precisely (Sec. 4.6).
 
 ## 7. PYQ application
 
@@ -162,6 +224,12 @@ this file's existing named-case core.
   refugee protection should cite the specific instrument or judgment in Sec. 4 (Vishaka/POSH Act;
   ICMR 2017 guidelines; *NHRC v. Arunachal Pradesh*/*Mohammad Salimullah*) rather than a generic
   "there are laws for this" statement — see the worked applications in `22` Sec. 14.4-14.6 and 14.5.
+- ✅ **2026 GS-IV Section B specifically:** Q7 (therapeutic consent) is anchored by *Samira Kohli*
+  (Sec. 4.5), Q11 (restrictions in a conflict district) by *Anuradha Bhasin* (Sec. 4.3) read with
+  the caution that a commission of inquiry is a post-facto instrument and not a crisis tool, and
+  Q8 (predictive policing) by the Indian constitutional anchors with Sec. 4.6's comparators used
+  sparingly and labelled. The worked cases are at `22` Sec. 14.16, 14.20 and 14.17 respectively, and
+  the subpart-level routing is in `../_PYQ-GS4-SectionB-2026.md`.
 
 ## 8. Mains angles
 
@@ -196,6 +264,12 @@ this file's existing named-case core.
   and *Mohammad Salimullah v. Union of India* (2021).
 - ⚠️ **Mains (10 marks):** Enumerate the key procedural safeguards laid down in *D.K. Basu v. State
   of West Bengal* (1997) and their significance for preventing custodial abuse.
+- ⚠️ **Mains (10 marks):** "Consent for a diagnostic procedure is not consent for a therapeutic one."
+  Discuss with reference to *Samira Kohli v. Dr. Prabha Manchanda* (2008) and the limits of the
+  emergency exception.
+- ⚠️ **Mains (15 marks):** Examine the proportionality and procedural requirements laid down in
+  *Anuradha Bhasin v. Union of India* (2020) for orders restricting movement or communication, and
+  their significance for administration in a disturbed district.
 
 ## 10. Study links
 
@@ -204,7 +278,10 @@ this file's existing named-case core.
 - ✅ `17_Citizens-Charters-Work-Culture-and-Service-Delivery.md` — Bhoomi/Gyandoot as service-delivery models.
 - ✅ `22_Case-Study-Method-and-Answer-Architecture.md` — applying these real cases, and the Sec. 4
   named evidence, within the eight-element case-study answer architecture (see especially Sec. 14's
-  domain modules).
+  domain modules); Sec. 14.16 uses Sec. 4.5, Sec. 14.20 uses Sec. 4.3, and Sec. 14.17 uses Sec. 4.6.
+- ✅ `13_Emerging-Ethics-Technology-AI-and-Environment.md` — substantive owner of the Indian
+  constitutional and statutory anchors for which Sec. 4.6 supplies only comparators.
+- ✅ `../_PYQ-GS4-SectionB-2026.md` — which 2026 Section-B subpart each named anchor serves.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

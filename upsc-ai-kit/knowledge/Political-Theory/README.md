@@ -1,5 +1,10 @@
 # Political Theory - Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> structures conceptual exposition, comparison, criticism and reasoned judgment.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes concepts and ideological comparisons to their controlling theory owners.
+
 > **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
 
 > **Subject:** Political Theory (GS-II / PSIR conceptual foundation) | **Spine:** O. P. Gauba,

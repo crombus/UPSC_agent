@@ -1,5 +1,15 @@
 # Governance - Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> supplies criteria-based evaluation, implementation analysis and reform architecture.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> separates policy-design, implementation, citizen-service and accountability demands.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes accountability, audits, decentralisation, delivery and institutional forms.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies official delivery metrics and institutional case studies.
+
 > **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
 
 > **Subject:** Governance | **GS Paper:** GS-II, with GS-IV accountability and GS-III
@@ -10,6 +20,18 @@
 > current official material from DARPG, DoPT, MeitY, CVC, CIC, Lokpal, CAG, NITI Aayog,
 > India Code and relevant ministries.
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Major panels:** [`_revision/Major-Committees-Commissions-and-Reports.md`](_revision/Major-Committees-Commissions-and-Reports.md)
+> maps administrative reform, civil services, transparency, police and service-delivery committees.
+> **Landmark judgments:** [`../LANDMARK-JUDGMENTS-INDEX.md`](../LANDMARK-JUDGMENTS-INDEX.md)
+> supplies the administrative-law, RTI, anti-corruption, civil-service and accountability case bank.
+> **Major Acts:** [`../MAJOR-ACTS-INDEX.md`](../MAJOR-ACTS-INDEX.md)
+> maps transparency, vigilance, anti-corruption, tribunal and administrative-justice statutes.
+> **Indices and reports:** [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
+> maps governance, democracy, corruption, justice, budgets and public-administration measures.
+> **Institutions and regulators:** [`../INSTITUTIONS-AND-REGULATORS-INDEX.md`](../INSTITUTIONS-AND-REGULATORS-INDEX.md)
+> maps accountability, federal, regulatory, tribunal and service-delivery institutions.
+> **Government schemes:** [`../GOVERNMENT-SCHEMES-MATRIX.md`](../GOVERNMENT-SCHEMES-MATRIX.md)
+> maps funding type, delivery architecture, beneficiaries and exclusion rules.
 > **Pre-exam revision:** [`REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md`](REVISION-CHART_Systems-Delivery-and-Distinctive-Features.md)
 > compresses all 16 Core/Advanced pairs into one governance-results chain, comparison
 > grid, trap sheet and Mains-answer framework.
@@ -179,3 +201,71 @@
 > **Superseded export warning:** `notes/Governance/01_Good-Governance-Concepts-and-Frameworks_Complete-Topic-Package_2026-08-09.pdf`
 > predates the 13 August 2026 GGI corrections and must not be used as the source of truth.
 > The current Core Markdown and this verification snapshot control until that PDF is regenerated.
+
+## Physical-notes reading index
+
+> **Confirmed physical material:** Pavneet Singh's notes on the Second Administrative
+> Reforms Commission reports.
+>
+> **Edition rule:** report titles, not the notes' chapter numbers, control this index because
+> compilations arrange the 15 reports differently. Treat every ARC statement as a dated
+> recommendation until a later Act, rule, order or operational programme is independently
+> verified.
+
+### Priority code
+
+| Code | Meaning |
+|---|---|
+| **A - Core** | Read closely and extract problem, recommendation, mechanism and limitation |
+| **B - Selective** | Read only the sections routed to the stated GS-II topic |
+| **C - Cross-subject** | Read from the notes only if the linked GS-III/GS-IV subject is being studied |
+
+### Pavneet Singh - Second ARC report notes
+
+| Second ARC report | Priority | UPSC route | What to extract / Core owner |
+|---|---|---|---|
+| 1. *Right to Information: Master Key to Good Governance* | **A** | Transparency, accountability and RTI | Record proactive disclosure, exemptions, records management, institutional capacity and misuse/delay safeguards; pair with `basic/08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md` |
+| 2. *Unlocking Human Capital: Entitlements and Governance* | **B** | Policy implementation and welfare delivery | Extract entitlement design, access, exclusion, convergence and accountability; pair with Topics `02` and Social Justice |
+| 3. *Crisis Management: From Despair to Hope* | **C** | GS-III disaster management | Read in the Disaster Management sequence, not as core Governance preparation |
+| 4. *Ethics in Governance* | **A/C** | Accountability institutions; GS-IV probity | Governance: corruption-control architecture, codes and institutional accountability. Detailed ethics and probity ownership remains in `Ethics/` |
+| 5. *Public Order* | **C** | GS-III internal security; policing and public order | Read with Internal Security; retain only police accountability and administration links here |
+| 6. *Local Governance* | **A** | Devolution, local finance and grassroots delivery | Extract subsidiarity, activity mapping, 3Fs, district planning and accountability; pair with `basic/12_Local-Governance-and-Service-Delivery.md` |
+| 7. *Capacity Building for Conflict Resolution* | **B/C** | Governance of regional, social and resource conflicts | Extract institutional prevention, dialogue and coordination principles; use detailed cases in the relevant Society/IR/Internal Security owner |
+| 8. *Combating Terrorism: Protecting by Righteousness* | **C** | GS-III internal security | Route to Internal Security; do not spend Governance revision time on operational detail |
+| 9. *Social Capital: A Shared Destiny* | **A** | NGOs, SHGs, associations and participatory governance | Extract trust, collective action, community institutions and state-civil society partnership; pair with Topics `04` and `14` |
+| 10. *Refurbishing of Personnel Administration: Scaling New Heights* | **A** | Role and reform of civil services | Extract recruitment, specialisation, performance, training, ethics, tenure and accountability; pair with `basic/09_Civil-Services-and-Mission-Karmayogi.md` |
+| 11. *Promoting e-Governance: The Smart Way Forward* | **A** | E-governance applications, models, successes and limitations | Extract process re-engineering, interoperability, inclusion, capacity and project design; pair with Topics `05` and `06` |
+| 12. *Citizen-Centric Administration: The Heart of Governance* | **A** | Citizens' Charters, grievance redress and service delivery | Extract service standards, Sevottam, consultation, grievance systems and accountability; pair with Topic `07` and Topic `08` |
+| 13. *Organisational Structure of Government of India* | **A** | Ministries/departments, coordination and machinery of government | Extract role clarity, departmental structure, coordination, decentralisation and agency design; pair with Topics `02`, `09`, `10` and Polity's ministries owner |
+| 14. *Strengthening Financial Management Systems* | **A** | Public expenditure, audit, budgeting and outcomes | Extract fiscal discipline, internal control, accrual/outcome orientation and legislative oversight; pair with Topic `13` and Topic `15` |
+| 15. *State and District Administration: A Fresh Look* | **A** | State/district capacity, field administration and local delivery | Extract district coordination, collector's role, decentralisation, citizen interface and state reform; pair with Topic `12` |
+
+### How to make notes from each report
+
+Use one page per report with five fixed headings:
+
+| Heading | Required content |
+|---|---|
+| Problem diagnosed | Administrative failure the ARC was responding to |
+| Recommendation | Exact reform direction, without presenting it as law |
+| Mechanism | How the reform is expected to improve incentives, capacity or accountability |
+| Present status | Proposed / accepted / enacted-notified / operational / evaluated |
+| Mains use | One criticism, one implementation constraint and one qualified way forward |
+
+### High-return reading order
+
+1. Reports **12, 11 and 1** - citizen interface, e-governance and transparency.
+2. Reports **10, 13 and 15** - personnel, Union machinery and field administration.
+3. Reports **6, 9 and 14** - local governance, participation and financial systems.
+4. Reports **2 and 4** - entitlement delivery and institutional ethics.
+5. Reports **3, 5, 7 and 8** only with their linked GS-III or conflict-governance topics.
+
+### Physical-source limits
+
+- These notes are a strong reform-recommendation source but cannot establish whether a
+  recommendation was later accepted, legislated, notified, funded or successfully
+  implemented.
+- They do not replace current coverage of DPI, data protection, CPGRAMS, Mission
+  Karmayogi, SNA-SPARSH, AI governance, contemporary regulators or later judicial changes.
+- The `basic/` Core owners remain the answer layer: they connect ARC diagnosis to current
+  institutions, evidence, criticism and mark-scaled answer structures.

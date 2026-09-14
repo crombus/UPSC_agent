@@ -1,7 +1,8 @@
 # Answer-Worthiness Audit — Philosophy Optional
 
-> **Final status:** ✅ Complete  
-> **Certification date:** 15 August 2026  
+> **Final status:** ✅ Complete — recertified after the 2026 Mains stress test
+> **Original certification:** 15 August 2026
+> **2026 recertification:** 12 September 2026
 > **Standard:** [`../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md`](../../../ANSWER-WORTHINESS-AUDIT-STANDARD.md)
 
 ## 1. Audit scope and inventory
@@ -12,7 +13,7 @@
   - 10 Socio-Political Philosophy;
   - 10 Philosophy of Religion.
 - Five Paper-I comparison/theme files.
-- Four exact PYQ banks covering 2018–2025.
+- Four exact PYQ banks covering 2018–2025 and four separate 2026 supplements.
 - Root README and master framework.
 - Advanced coverage matrix and four section dossiers.
 - Revision sheets, comparison matrices, glossary, playcards and application
@@ -23,15 +24,24 @@
 
 ## 2. Executive verdict
 
-Philosophy Optional is **answer-complete at Core level**. All four sections
-independently passed the final hostile gate. Relevant Political-Theory
-arguments were adapted into Philosophy owners; no Philosophy answer now
-depends on the separate Political-Theory folder.
+Philosophy Optional is **answer-complete at Core level after remediation against
+the official 2026 papers**. The earlier certification correctly covered the
+syllabus and 2018–2025 corpus, but the new paper exposed twelve question-specific
+depth weaknesses and four direct doctrine gaps. It also revealed two
+under-diagnosed socio-political weaknesses: Rawls's lexical priority was too thin,
+and the Marxist critique of "pure democracy" had no usable route.
+
+Those failures were methodological rather than evidence shortages: broad
+syllabus labels and source books existed, but several micro-doctrines,
+cross-owner comparisons and unfamiliar transformations had not been promoted
+into the canonical Core owners. The 2026 pass now embeds them at syllabus level
+rather than storing one-off model answers.
 
 The final certification found:
 
 - **40/40 Core owners passing**;
-- **448/448 PYQ parts** from 2018–2025 routed to one Core owner;
+- **504/504 PYQ parts** from 2018–2026 routed to one Core owner;
+- **56/56 parts of the 2026 Philosophy papers** routed exactly once;
 - every final unfamiliar section gate passed;
 - no marks-essential Advanced dependency;
 - no broken internal Markdown links.
@@ -182,6 +192,23 @@ No paper-affecting factual or quotation defect remained in the final gate.
 - Added four new full solved model answers and repaired the Plato–Aristotle
   package MCQs.
 
+### 2026 recertification additions
+
+- **Paper I — Western:** Locke's intuitive/demonstrative knowledge; Aristotle
+  against Atomists and Plato; Aristotle–Leibniz on entelechy; Sartre–Husserl on
+  consciousness; hierarchy of languages and early Wittgenstein.
+- **Paper I — Indian:** Nyāya–Mīmāṃsā on *upamāna* and
+  Naiyāyika–Prābhākara on *śābdabodha*, with paired-owner boundaries.
+- **Paper II — Socio-Political:** Rawls's lexical priority; Plato and modern
+  individual rights; anarchism's liberal/socialist roots; Marxism against
+  "pure democracy"; value education and corruption; regime comparison;
+  Ambedkar's social endosmosis; democracy and development.
+- **Paper II — Religion:** Tillich on faith, doubt and reason; Gandhi's shift
+  from "God is Truth" to "Truth is God"; Madhva's arguments for God.
+- Every new block includes doctrine, numbered argument, presuppositions,
+  objections and replies, detailed comparison charts, traps and mark-scaled
+  answer spines so reworded future questions remain answerable.
+
 ## 9. Advanced-only improvements safely skippable
 
 The Advanced dossiers now contain only specialist interpretations,
@@ -191,7 +218,7 @@ Advanced for marks-essential content, and no PYQ is primarily routed there.
 
 ## 10. Files changed
 
-- All 40 mandatory Philosophy owner files.
+- All 40 mandatory Philosophy owner files in the original certification.
 - Five Paper-I theme files.
 - Root README and master framework.
 - All seven Advanced governance/dossier files.
@@ -199,13 +226,18 @@ Advanced for marks-essential content, and no PYQ is primarily routed there.
 - Plato–Aristotle package and learning session.
 - The Socio-Political PYQ bank and matching owner-table transcriptions.
 - This audit file and the master answer-worthiness tracker.
+- The 2026 recertification additionally changed the relevant Paper-I and
+  Paper-II owners and added four section-level 2026 routing supplements.
 
 ## 11. Validation evidence
 
 - 40/40 owners passed.
 - Four section gates passed independently.
-- 448/448 PYQ parts have one Core owner.
+- 504/504 PYQ parts have one Core owner.
 - 2018–2025 banks reconcile to 112 parts per section.
+- All four 2026 supplements reconcile to 14 unique parts each: 56/56 total.
+- The 30 files changed by the 2026 Philosophy remediation have zero broken
+  relative links and zero malformed Markdown tables.
 - 1,393 internal links resolved; zero broken.
 - 988 table groups passed structural checks.
 - Zero unpaired code fences.
@@ -216,7 +248,9 @@ Advanced for marks-essential content, and no PYQ is primarily routed there.
 
 ## 12. Final status and date
 
-**✅ Complete — 15 August 2026.**
+**✅ Complete — recertified 12 September 2026 after the official 2026 papers.**
 
 The complete Philosophy Optional is independently future-question ready at
-Core level; Advanced remains optional.
+Core level; Advanced remains optional. This claim now includes the unfamiliar
+comparison and micro-doctrine patterns actually tested in 2026, not only the
+syllabus and 2018–2025 corpus.

@@ -371,6 +371,8 @@ A biodiversity hotspot is a scientific global prioritisation category based on h
 
 > **Trap:** Incineration is not automatically recycling, and source segregation is the foundation of effective downstream processing.
 
+> **2026 update:** SWM Rules 2026 (effective 1 Apr 2026) add four-stream segregation, a redefined Bulk Waste Generator/EBWGR, RDF mandate for cement plants (5%→15% over six years), and landfill fees set above segregation cost. Delhi = legacy-landfill biomining remediation (Ghazipur/Bhalswa/Okhla); Indore = landfill-free, segregation-led, Gobar-Dhan biogas. See `basic/15` Section 14.
+
 ---
 
 ## 15. EIA and NGT
@@ -527,6 +529,8 @@ Direct air capture removes CO2 from ambient air; point-source capture intercepts
 | UNCCD | Desertification, land degradation and drought |
 
 > **Prelims method:** Match convention with subject, secretariat/institutional family, binding/non-binding instrument, appendices/annexes and domestic implementing route.
+
+> **2026 update — KMGBF architecture:** four 2050 goals (A: ecosystem integrity; B: sustainable use; C: fair benefit-sharing; D: means of implementation/finance) and 23 2030 targets (headline: Target 3 "30x30"; Targets 18-19 finance/incentive-reform). India: NBSAP 2024-2030 + Seventh National Report (142 indicators/23 National Biodiversity Targets); named outcomes — 98 Ramsar sites, 58 Tiger Reserves, 25.17% forest/tree cover. See `basic/22` Section 14.
 
 ---
 

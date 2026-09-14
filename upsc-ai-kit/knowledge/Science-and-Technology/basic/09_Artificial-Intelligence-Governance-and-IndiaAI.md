@@ -184,6 +184,102 @@ trusted and socially useful AI deployment
 - **India AI Impact Summit 2026:** record only the verified fact that it was held in New Delhi on 19–20 February 2026. Do not invent a binding declaration, treaty, framework clause or implementation outcome unless an official text is available.
 - **AI Action Summit 2025:** identify it by place/date only from the audited route; do not conflate it with India’s 2026 summit or treat attendance as domestic AI regulation.
 
+## 13. 2026 GS-III Mains Q16 — Agentic AI: working model, applications and risks
+
+> **Exact 2026 question (GS-III, Q16, 15 marks, 250 words):** "What is agentic Artificial
+> Intelligence (AI)? Explain its working. Describe its applications with suitable examples.
+> Discuss the advantages, risks and challenges associated with agentic AI systems."
+> **Provenance:** OCR of `books/mains/2026/QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`;
+> supporting facts from Vajiram & Ravi *The Recitals*, December 2025, pp. 104-105 (local
+> extract).
+
+- ✅ **Definition:** Agentic AI refers to AI systems that possess **"agency"** — the ability
+  to **autonomously set sub-goals, plan a sequence of actions, decide, and act** toward a
+  given high-level objective **with minimal step-by-step human intervention**, as distinct
+  from AI that only responds to a single prompt.
+- ✅ **Generative AI vs Agentic AI — the tested distinction:** Generative AI **creates
+  content** (text, image, code) in response to a prompt and stops; Agentic AI **uses**
+  generated or retrieved outputs as inputs to a **goal-directed action loop** — it plans,
+  invokes tools/APIs, executes multi-step tasks, and iterates, without a human prompting each
+  intermediate step.
+- ✅ **Working model (sourced, December 2025 magazine framing) — five stages:**
+  1. **Perception** — the agent collects data from its environment/connected systems
+     (documents, APIs, sensors, prior conversation).
+  2. **Reasoning** — an underlying large language model interprets the collected context.
+  3. **Planning** — the agent sets goals and decomposes the overall objective into an ordered
+     sequence of smaller tasks.
+  4. **Action** — the agent executes tasks, which may include invoking external tools, APIs
+     or software, not just producing text.
+  5. **Reflection** — the agent evaluates the outcome of its actions and adapts its next
+     step, enabling iterative, self-correcting behaviour.
+  ⚠️ **Memory as a component:** a persistent **memory** store (retaining context, prior steps
+  and learned outcomes across a task or across sessions) is what allows the Perception→
+  Reasoning→Planning→Action→Reflection loop above to function as a continuing agent rather
+  than a one-shot response, and is standardly described as part of agentic-AI architecture in
+  the wider technical literature; this Memory layer is flagged here as an ⚠️ analytical
+  addition layered onto the five sourced stages above, not itself a verbatim magazine claim —
+  cite the five sourced stages as the primary evidence and Memory as the connective/
+  architectural inference if a question specifically asks for a "perceive-plan-act-memory"
+  framing.
+- ✅ **Comparison chart — Generative AI vs Agentic AI:**
+
+| Feature | Generative AI | Agentic AI |
+|---|---|---|
+| Core function | Creates content (text/image/code) from a prompt | Pursues a goal through autonomous multi-step action |
+| Human involvement | One prompt, one output; human reviews/prompts again | Human sets the goal; agent plans and executes intermediate steps itself |
+| Tool/API use | Not inherent | Central — agent invokes external tools/software to act |
+| Adaptation | No built-in feedback loop | Reflection stage adapts subsequent actions to outcomes |
+| Example | A chatbot drafting an email on request | An agent that drafts, sends, monitors replies and follows up unprompted |
+
+- ✅ **Applications with examples (sourced):** **Manus AI** — an autonomous general-purpose
+  agent that can work inside a sandbox environment, access the internet, and install
+  software to complete assigned tasks with limited supervision (cited as a prominent example
+  of an operating agentic-AI system; China restricted foreign investment in it, indicating
+  its strategic sensitivity). ⚠️ Analytical/illustrative extensions consistent with the
+  sourced working model: autonomous customer-support resolution (multi-step ticket handling
+  without human escalation), automated code-deployment agents (plan→write→test→deploy), and
+  autonomous research/analysis agents (retrieve data→synthesise→produce a report) — flag
+  these as illustrative applications of the same architecture, not separately sourced named
+  products.
+- 📰 **India-specific anchor:** Microsoft chairman Satya Nadella has noted strong Indian
+  enterprise momentum in AI and agentic-AI deployment (December 2025 reporting) — cite as an
+  industry observation, not an official government statistic.
+- ⚠️ **Advantages:** reduces need for constant human micromanagement of multi-step digital
+  tasks; can operate continuously (24/7) across tasks that would otherwise require sequential
+  human approval at each step; can coordinate across multiple tools/systems in one workflow.
+- ⚠️ **Risks and challenges:** (a) **accountability gap** — when an autonomous agent acts
+  wrongly (e.g., an erroneous transaction or data-access decision), attributing responsibility
+  between developer, deployer and agent is unresolved; (b) **loss of human oversight** — by
+  design, agentic systems act across several steps without per-step human sign-off, raising
+  safety concerns if goals are mis-specified; (c) **security/misuse risk** — an agent with
+  sandbox/internet/software-installation access (as with Manus AI) is a larger attack surface
+  and a stronger dual-use/misuse concern than a text-only generative model, which is the
+  specific reasoning behind regulatory caution (e.g., China's investment restriction); (d)
+  **goal mis-specification and reward-hacking** — an agent optimising literally for a stated
+  goal may take unintended shortcuts not anticipated by its designer; (e) **explainability** —
+  a multi-step autonomous action chain is harder to audit after the fact than a single
+  generated response.
+- ⚠️ **UPSC trap:** "Agentic AI and Generative AI are the same thing, just marketed
+  differently." → Generative AI **produces** content; agentic AI **acts** on goals using
+  generated/retrieved content as one input among several within a planning-execution loop —
+  the tested distinction is *creation* vs *autonomous goal-directed action*.
+- ⚠️ **UPSC trap:** "Agentic AI risk is purely hypothetical/future." → Regulatory action has
+  already occurred (e.g., a national restriction on foreign investment in a named agentic-AI
+  system), indicating the risk is treated as a present governance concern, not a distant one.
+- **Exact 2026 answer spine (15 marks/250 words):** *Definition* → AI with "agency": sets
+  sub-goals, plans and acts autonomously toward a high-level objective with minimal step-by-
+  step human input, distinct from prompt-and-respond generative AI (2-3 lines). *Working* →
+  five-stage loop — perceive the environment, reason over context via an LLM, plan a task
+  sequence, act by invoking tools/APIs, and reflect to adapt the next step, sustained by a
+  persistent memory/context layer (4-5 lines). *Applications* → autonomous general-purpose
+  agents such as Manus AI (sandboxed, internet-connected, can install software to complete
+  tasks); illustratively, multi-step customer support, code deployment and research-synthesis
+  agents (2-3 lines). *Advantages/risks* → reduces human micromanagement and enables
+  continuous multi-tool workflows, but raises an accountability gap, loss of per-step human
+  oversight, a wider security/misuse surface, goal mis-specification and weaker
+  explainability — evidenced by at least one country's investment restriction on a named
+  agentic system (3-4 lines).
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

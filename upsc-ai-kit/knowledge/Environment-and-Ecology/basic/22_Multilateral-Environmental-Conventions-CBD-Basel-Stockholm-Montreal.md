@@ -235,6 +235,80 @@ the specific COP year for any listed-chemical or target claim.
 - **15/20 marks:** compare Montreal’s bounded problem/finance/schedule with CBD/Basel/Stockholm limits; add India’s domestic legal translation and a differentiated conclusion.
 - **Status discipline:** distinguish party, protocol, annex/appendix, adopted COP decision, proposed listing and implementation outcome. Verify current COP/listing claims against the relevant Secretariat.
 
+## 14. 2026 GS-III Mains Q8 — KMGBF four goals/23 targets and India's mapping
+
+> **Exact 2026 question (GS-III, Q8, 10 marks, 150 words):** "Discuss the aim and goals of
+> Kunming-Montreal global biodiversity framework. Mention India's commitments and initiatives
+> to achieve the goals and targets of this framework giving suitable examples."
+> **Provenance:** OCR of `books/mains/2026/QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`;
+> supporting facts from Vajiram & Ravi *The Recitals*, March 2026, p. 98 (local extract). This
+> section closes the audited **GAP** by adding the full four-goal/23-target architecture and
+> India's NR-7/NBSAP mapping that Section 2's brief KMGBF mention did not carry.
+
+- ✅ **Aim (already established in Section 2, restated for the spine):** the
+  **Kunming-Montreal Global Biodiversity Framework (KMGBF)**, adopted at **CBD COP15 (2022)**,
+  is the CBD's current global strategic framework for halting and reversing biodiversity loss
+  by **2030**, on a pathway to living in harmony with nature by **2050**.
+- ✅ **Four long-term goals (the "2050 goals," Goals A-D) — full architecture:**
+
+| Goal | Focus | Exam-ready summary |
+|---|---|---|
+| **Goal A** | Ecosystem integrity and species | Maintain/restore/enhance the integrity of ecosystems; halt human-induced species extinction; maintain genetic diversity within populations. |
+| **Goal B** | Sustainable use and nature's contributions | Ensure biodiversity's contributions to people (ecosystem services) are valued, maintained and enhanced through sustainable use and management. |
+| **Goal C** | Fair and equitable benefit-sharing | Ensure monetary and non-monetary benefits from the use of genetic resources, digital sequence information (DSI) and traditional knowledge are shared fairly and equitably. |
+| **Goal D** | Means of implementation | Close the biodiversity finance gap; ensure adequate financial resources, capacity-building, technology transfer and scientific cooperation to implement the framework. |
+
+- ✅ **23 action targets (2030 targets) — grouped by theme, the structure UPSC rewards over
+  rote listing:**
+
+| Target group | Representative targets (illustrative, not exhaustive) |
+|---|---|
+| **Reducing threats to biodiversity (Targets 1-8)** | Target 1: spatial planning to bring all areas under biodiversity-inclusive planning; **Target 2:** restore at least 30% of degraded ecosystems; **Target 3 ("30x30"):** effectively conserve/manage at least 30% of terrestrial, inland-water, coastal and marine areas; Target 4: halt human-induced extinction and manage human-wildlife conflict; Targets 5-8: sustainable/legal wildlife use, invasive-species control, pollution reduction, climate-change mitigation via ecosystem-based approaches. |
+| **Meeting people's needs through sustainable use and benefit-sharing (Targets 9-13)** | Sustainable management/use of wild species; biodiversity-friendly agriculture, aquaculture, fisheries and forestry; nature's contributions in urban areas; access and fair benefit-sharing for genetic resources, DSI and traditional knowledge. |
+| **Tools and solutions for implementation and mainstreaming (Targets 14-23)** | Mainstream biodiversity into policy/business; sustainable consumption and waste reduction; Target 18: eliminate, phase out or reform incentives harmful to biodiversity, reducing them by at least USD 500 billion/year; **Target 19:** mobilise at least USD 200 billion/year from all sources for biodiversity, including USD 30 billion/year in international finance to developing countries; Target 22: participation of indigenous peoples and local communities; Target 23: gender-responsive implementation. |
+
+  ⚠️ **Do not attempt to reproduce all 23 targets verbatim in a 10-mark answer** — cite the
+  **"30x30" (Target 3)** and the **finance targets (18/19)** by number since these are the
+  most-cited/tested targets, and describe the remaining targets by theme-group as above.
+- ✅ **India's commitments and initiatives (the question's second explicit ask) — with named
+  examples:**
+  - ✅ **NBSAP 2024-2030 (National Biodiversity Strategy and Action Plan):** India's revised
+    national action plan aligning domestic biodiversity policy with the KMGBF's goals and
+    targets.
+  - ✅ **Seventh National Report to the CBD (NR-7):** India's most recent national report,
+    using **142 national indicators** mapped against **23 National Biodiversity Targets**
+    (India's domestic translation of the KMGBF's 23 global targets).
+  - ✅ **Named outcome indicators from NR-7 (concrete "suitable examples" for the answer):**
+    forest and tree cover at **25.17%** of geographical area; Ramsar (wetland) sites up from
+    26 to **98**; **58** Tiger Reserves; **33** Elephant Reserves; **106** National Parks;
+    **574** Wildlife Sanctuaries; tiger population **3,682**; elephant population **22,446**;
+    rhino population **4,014**; Asiatic lion population **891**; river dolphin population
+    **6,327**; **22** agrobiodiversity hotspots identified.
+  - ✅ **Governance/implementation tools:** the **PARIVESH** single-window environmental-
+    clearance portal (streamlining biodiversity-relevant approvals) and **Mission LiFE**
+    (Lifestyle for Environment, linking individual behaviour change to sustainable-use goals
+    under Goal B).
+  - ✅ **CBD COP16 (Cali 2024; resumed Rome, February 2025)** outcomes on KMGBF monitoring,
+    resource mobilisation and the DSI benefit-sharing **Cali Fund** (Section 8) are the
+    current multilateral-finance/benefit-sharing anchor for Goals C and D.
+- ⚠️ **UPSC trap:** "KMGBF has a single target, '30x30'." → 30x30 is only **Target 3** of
+  **23 targets** organised under **four 2050 goals**; an answer that mentions only 30x30
+  under-represents the framework's aim/goals structure the question explicitly asks for.
+- ⚠️ **UPSC trap:** "India's NBSAP and the KMGBF are the same document." → NBSAP 2024-2030 is
+  India's **domestic** strategy/action plan; the KMGBF is the **global** CBD framework it
+  is designed to implement — always name both and state the alignment relationship, not
+  identity.
+- **Exact 2026 answer spine (10 marks/150 words):** *Aim* → KMGBF (CBD COP15, 2022) is the
+  global roadmap to halt/reverse biodiversity loss by 2030 and live in harmony with nature by
+  2050 (1 line). *Goals* → four 2050 goals — ecosystem integrity (A), sustainable use (B),
+  fair benefit-sharing (C), means of implementation/finance (D) (2 lines). *Targets* → 23
+  action targets for 2030, headlined by Target 3 (30x30 area conservation) and Targets 18-19
+  (harmful-incentive reform; USD 200bn/year mobilisation) (2-3 lines). *India's commitments* →
+  NBSAP 2024-2030 and the Seventh National Report (NR-7) with 142 indicators mapped to 23
+  National Biodiversity Targets; named outcomes — 98 Ramsar sites, 58 Tiger Reserves, 3,682
+  tigers, 25.17% forest/tree cover; PARIVESH portal and Mission LiFE as implementation tools
+  (4-5 lines).
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

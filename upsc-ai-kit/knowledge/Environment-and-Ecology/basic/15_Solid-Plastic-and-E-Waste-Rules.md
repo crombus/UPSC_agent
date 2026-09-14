@@ -255,6 +255,86 @@ than an assumed fixed list.
 - **15/20 marks:** compare targeted SUP restrictions with EPR, evaluate verification and informal-sector trade-offs, then add contaminated-site rules for legacy stock rather than conflating it with new waste flows.
 - **PYQ micro-facts:** chewing-gum base, cigarette butts, spectacle lenses and tyres may contain plastic; use them as material-identification examples, not proof that all such items fall under the same ban or EPR obligation.
 
+## 14. 2026 GS-III Mains Q17 — Solid waste challenges, policy framework, and Delhi vs Indore
+
+> **Exact 2026 question (GS-III, Q17, 15 marks, 250 words):** "What are the challenges to
+> solid waste management in India? Discuss the governmental policy framework on solid waste
+> management. Discuss the success/failure cases of Delhi and Indore cities highlighting the
+> salient feature of their solid waste management initiatives." **Provenance:** OCR of
+> `books/mains/2026/QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`; supporting facts from
+> Vajiram & Ravi *The Recitals*, January 2026, p. 91 (local extract), plus live-source
+> verification for Delhi/Indore-specific figures.
+
+- ✅ **Challenges to solid waste management in India (question's first ask):** rapidly
+  rising per-capita waste generation with urbanisation; weak source segregation compliance
+  at the household level; legacy landfill/"waste mountain" backlogs accumulated over decades
+  (Section 5/6); limited authorised processing capacity relative to generated volume;
+  under-integration of the informal waste-picker workforce into formal systems (Section 4);
+  and financing/monitoring gaps at the Urban Local Body level.
+- ✅ **Governmental policy framework (question's second ask) — bring this file's static
+  architecture (Sections 2-4) plus the 2026 update:** the base framework remains the **Solid
+  Waste Management Rules, 2016** (source segregation into wet/dry/hazardous, ULB-led
+  collection/processing), now updated by the **Solid Waste Management Rules, 2026**
+  (MoEFCC, superseding the 2016 Rules, effective **1 April 2026**), which introduces:
+  - ✅ **Four-stream segregation** (wet, dry, sanitary and special-care/domestic-hazardous
+    waste — a finer split than the 2016 Rules' three-way wet/dry/hazardous classification).
+  - ✅ **Redefined Bulk Waste Generator (BWG)** threshold — an establishment generating waste
+    above specified levels (floor area **≥20,000 sqm**, OR water consumption **≥40,000
+    litres/day**, OR waste generation **≥100 kg/day**) now qualifies as a BWG with enhanced
+    obligations, under an **Extended Bulk Waste Generator Responsibility (EBWGR)** principle
+    — a bulk-generator parallel to the EPR logic already used for plastic/e-waste (Section 2).
+  - ✅ **Formal recognition of Material Recovery Facilities (MRFs)** within the regulatory
+    architecture.
+  - ✅ **Refuse-Derived Fuel (RDF) mandate for cement plants**, phased from **5% to 15% over
+    six years**, to create assured offtake demand for processed waste.
+  - ✅ **Polluter Pays environmental compensation**, with landfilling fees set deliberately
+    **higher than the cost of segregation**, to make compliance the cheaper option.
+  - ✅ **CPCB centralised online monitoring portal** for waste-stream tracking, paralleling the
+    EPR portals already covered for plastic/e-waste (Section 8).
+- ✅ **Comparison chart — Delhi vs Indore solid-waste management (question's third, most
+  specific ask):**
+
+| Feature | Delhi | Indore |
+|---|---|---|
+| Core challenge/model | Legacy landfill remediation at megacity scale (three active landfill sites) | Landfill-free, source-segregation-led model from the outset |
+| Landfill status | **Ghazipur, Bhalswa, Okhla** — decades-old legacy-waste "mountains" | Declared **landfill-free**; no legacy mountain of comparable scale |
+| Primary technique | **Biomining** (excavating and processing legacy waste through screening/segregation to reclaim land and recover recyclables/RDF) | **100% door-to-door collection with source segregation**, decentralised processing |
+| Reported scale/progress | ✅ Biomining rate raised from ~6,000 TPD (2022-23) to a peak of ~20,000 TPD; ✅ roughly **100 acres** of landfill land reclaimed across the three sites; ⚠️ Okhla/Bhalswa targeted for flattening by end-2026, Ghazipur (the largest, ~67-68 lakh tonnes remaining as of mid-2026) by end-2027 — verify current progress against the latest MCD/DPCC report before citing an exact tonnage | ✅ Repeated **Swachh Survekshan "cleanest city in India"** rankings across multiple years; ✅ **Gobar-Dhan plant** processing wet waste into biogas (~**550 TPD** capacity) |
+| Citizen/institutional engagement | Municipal-corporation-led, engineering/remediation-focused | High citizen participation in source segregation; strong ULB-citizen compliance culture credited as the key differentiator |
+| Revenue model | Waste-to-Energy (WtE) plants (**four new WtE plants reported planned**) processing fresh and reclaimed waste | Revenue from compost sale and recyclables, reducing net processing cost |
+| Overall verdict for the answer | **Success in remediation direction, but a multi-year, capital-intensive "fixing a legacy failure" case** — not yet a fully closed success | **Success case from the design stage onward** — segregation-first, decentralised, citizen-driven |
+
+- ⚠️ **Salient feature to highlight per the question's explicit wording:** Delhi's salient
+  feature is **large-scale biomining as legacy-waste remediation** (a "failure-to-recovery"
+  narrative — decades of unsegregated dumping now being reversed through mechanical
+  processing); Indore's salient feature is **segregation-at-source plus decentralised
+  processing from the start** (a "prevention over cure" narrative) — an answer should name
+  both narratives explicitly rather than treating both cities as interchangeable "good/bad"
+  examples.
+- ⚠️ **UPSC trap:** "Delhi's biomining means Delhi has failed and Indore has succeeded, full
+  stop." → More precise framing: Delhi represents a **remediation-in-progress** case (real,
+  measurable land reclamation and rising biomining rates, but still years from resolving its
+  largest landfill) which should not be scored as unqualified failure or unqualified success;
+  Indore represents a **sustained, design-level success** — the salient contrast is
+  legacy-correction versus prevention, not a simple binary.
+- ⚠️ **UPSC trap:** "The 2026 SWM Rules replaced the EPR mechanism for plastic/e-waste." → The
+  2026 Rules update the **municipal solid-waste** framework (four-stream segregation, BWG/
+  EBWGR, RDF mandate); EPR for plastic (Section 2) and e-waste continues under its own,
+  separate rule frameworks — do not merge the two.
+- **Exact 2026 answer spine (15 marks/250 words):** *Challenges* → rising waste volumes,
+  weak source segregation, legacy landfill backlogs, limited processing capacity, informal-
+  sector under-integration (2-3 lines). *Policy framework* → SWM Rules 2016 base (source
+  segregation, ULB responsibility), updated by the SWM Rules 2026 — four-stream segregation,
+  redefined Bulk Waste Generator/EBWGR, RDF mandate for cement plants (5%→15% over six years),
+  Polluter Pays with landfill fees set above segregation cost, CPCB monitoring portal (4-5
+  lines). *Delhi* → legacy-landfill remediation via biomining across Ghazipur/Bhalswa/Okhla,
+  rising biomining rate and land reclaimed, but a multi-year remediation still in progress —
+  salient feature: recovery from historical failure (3 lines). *Indore* → landfill-free,
+  100% door-to-door segregated collection, Gobar-Dhan biogas plant, repeated cleanest-city
+  rankings — salient feature: prevention-first, citizen-driven design (2-3 lines). *Verdict* →
+  contrast legacy-correction (Delhi) with design-level prevention (Indore) as India's two
+  workable models (1-2 lines).
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
 

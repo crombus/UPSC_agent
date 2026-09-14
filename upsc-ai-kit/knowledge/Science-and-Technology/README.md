@@ -1,5 +1,15 @@
 # Science & Technology - Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> structures mechanism explanation, application analysis and risk-benefit evaluation.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes space, nuclear, digital, AI, biotechnology, semiconductor and IPR signals.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes core physics, biology, health, cyber, space and emerging-technology terms.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies Indian space, digital, biotechnology and innovation case studies.
+
 > **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md) — the Science Mains links were reconciled to independently answer-complete Core owners in this audit; central ledgers remain the provenance record.
 >
 > **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](./OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
@@ -13,6 +23,18 @@
 > MNRE/MoRTH/NITI Aayog/BEE, DGCA Digital Sky, Ministry of Mines/GSI/KABIL, DST/CSIR/ANRF) for
 > current and institutional facts, each cited with its actual retrieval/verification date.
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Major Acts:** [`../MAJOR-ACTS-INDEX.md`](../MAJOR-ACTS-INDEX.md)
+> maps data protection, cyber, telecom, nuclear, health-technology and intellectual-property law.
+> **Indices and reports:** [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
+> maps innovation, connectivity, cybersecurity, AI, digital competitiveness and IP statistics.
+> **Institutions and regulators:** [`../INSTITUTIONS-AND-REGULATORS-INDEX.md`](../INSTITUTIONS-AND-REGULATORS-INDEX.md)
+> maps space, nuclear, research, data-protection, cyber and communications bodies.
+> **Government schemes:** [`../GOVERNMENT-SCHEMES-MATRIX.md`](../GOVERNMENT-SCHEMES-MATRIX.md)
+> maps AI, quantum, semiconductors, biotechnology, supercomputing, oceans and weather missions.
+> **International organisations:** [`../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md`](../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md)
+> maps IAEA, WIPO, ITU, ICAO, space, metrology and export-control regimes.
+> **Environmental conventions:** [`../ENVIRONMENT-CONVENTIONS-AND-PROTOCOLS-INDEX.md`](../ENVIRONMENT-CONVENTIONS-AND-PROTOCOLS-INDEX.md)
+> maps biosafety, chemicals, ozone, climate technology, polar science and marine technology.
 > **Pre-exam revision:** [`REVISION-CHART_Principles-Applications-and-Distinctive-Features.md`](REVISION-CHART_Principles-Applications-and-Distinctive-Features.md)
 > compresses all 26 Core/Advanced pairs into one principle-to-capability map,
 > technology-status ladder, comparison sheet and Prelims trap list.
@@ -147,6 +169,19 @@ sitting well beyond the stated date.
 | 2025 (Q12, 250w) | Rationale, achievements and improvement of the Production Linked Incentive scheme | Economy `basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md` — primary macro-industrial owner; use `basic/11` only for semiconductor component capability |
 | 2025 (Q15, 250w) | Nanotechnology advances in agriculture and farmers' socio-economic uplift | `basic/16` — direct owner; `advanced/16` optional depth |
 | 2025 (Q16, 250w) | Semiconductor-industry challenges and salient features of India Semiconductor Mission | `basic/11` — direct owner; `advanced/11` optional depth |
+
+## Exact 2026 GS-III PYQ routing
+
+> **Provenance:** OCR of `books/mains/2026/QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`
+> (the paper physically headed "GENERAL STUDIES (Paper III)"); cross-checked against
+> `PYQ-MAINS-COVERAGE-AUDIT-2026.md` and `PYQ-MAINS-CA-CROSSCHECK-2026.md` (central ledgers,
+> not edited here).
+
+| Paper | Exact tested demand | Primary Core owner / bounded Science support |
+|---|---|---|
+| 2026 (Q5, 150w) | Two examples of how biotechnology has helped Indian farmers process perishable crops | `basic/13` Section 13 (new 2026 answer spine) — direct owner: enzyme-assisted juice/pulp processing and microbial fermentation/preservation; research-stage delayed-ripening is explicitly qualified |
+| 2026 (Q15, 250w) | Mission Drishti's salient features, imaging techniques of the satellite launched 3 May 2026, and why it is called the world's first of its kind | `basic/02` Section 13 (new 2026 answer spine) — direct owner: GalaxEye's OptoSAR optical-SAR fusion satellite |
+| 2026 (Q16, 250w) | Agentic AI: definition, working, applications and advantages/risks/challenges | `basic/09` Section 13 (new 2026 answer spine) — direct owner: perceive-reason-plan-act-reflect model with a memory layer, Manus AI example, accountability/security risks |
 
 ### Exact 2024-2025 Prelims computing routing
 

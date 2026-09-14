@@ -1,5 +1,15 @@
 # Social Justice - Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> structures equity, access, outcome and implementation evaluation.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes welfare, health, education, nutrition and vulnerable-group demands.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes rights, entitlements, targeting, poverty, inclusion and welfare delivery.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies health, education, poverty and vulnerable-group evidence.
+
 > **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
 
 > **Subject:** Social Justice | **GS Paper:** GS-II, with GS-I society, GS-III
@@ -8,6 +18,18 @@
 > (2024-2025); the local Laxmikant, Ramesh Singh and Economic Survey 2025-26 texts;
 > India Code; official ministries, commissions, surveys and scheme portals.
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Major panels:** [`_revision/Major-Committees-Commissions-and-Reports.md`](_revision/Major-Committees-Commissions-and-Reports.md)
+> maps education, health, caste/tribe, OBC, minority, gender, child and disability committees.
+> **Landmark judgments:** [`../LANDMARK-JUDGMENTS-INDEX.md`](../LANDMARK-JUDGMENTS-INDEX.md)
+> supplies the equality, reservation, health, education, gender and vulnerable-section case bank.
+> **Major Acts:** [`../MAJOR-ACTS-INDEX.md`](../MAJOR-ACTS-INDEX.md)
+> maps education, food, employment, caste, tribal, gender, child, disability and health rights.
+> **Indices and reports:** [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
+> maps HDI/MPI, hunger, health, education, gender, population and Indian social statistics.
+> **Institutions and regulators:** [`../INSTITUTIONS-AND-REGULATORS-INDEX.md`](../INSTITUTIONS-AND-REGULATORS-INDEX.md)
+> maps rights commissions, health, education, disability, child and legal-aid bodies.
+> **Government schemes:** [`../GOVERNMENT-SCHEMES-MATRIX.md`](../GOVERNMENT-SCHEMES-MATRIX.md)
+> maps health, nutrition, education, women, children, caste, tribe, disability and elderly support.
 > **Pre-exam revision:** [`REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md`](REVISION-CHART_Rights-Capabilities-and-Distinctive-Features.md)
 > compresses all 17 Core/Advanced pairs into one rights-to-capability map, vulnerable-group
 > matrix, comparison sheet, trap list and Mains-answer framework.
@@ -89,7 +111,7 @@
 | 10 | Minorities: Rights and Welfare | Minority institutions and schemes |
 | 11 | Persons with Disabilities | Accessibility and reasonable accommodation |
 | 12 | Elderly and Senior Citizens | Maintenance, care and active ageing |
-| 13 | Transgender Persons and Denotified/Nomadic Communities | Recognition and rehabilitation |
+| 13 | Transgender Persons and Denotified/Nomadic Communities | Recognition and rehabilitation; 2026 Amendment Act's self-identification/privacy effects |
 | 14 | Sanitation, Manual Scavenging and Safai Karamcharis | Dignity, mechanisation and rehabilitation |
 | 15 | Labour Social Security, Unorganised and Gig Workers | Informal-work protection |
 | 16 | Urban Poor, Homeless and Migrant Workers | Spatial and mobility vulnerability |

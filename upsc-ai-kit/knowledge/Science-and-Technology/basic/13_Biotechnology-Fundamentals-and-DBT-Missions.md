@@ -179,6 +179,71 @@ Products -> seeds, diagnostics, vaccines, enzymes, biofuels, bioremediation tool
 - **Farmer living standards (2019):** tissue culture, diagnostics, biofertilisers/biopesticides and climate-resilient traits can address specific crop constraints. **Qualification:** farmer benefit depends on locally validated performance, price, extension, seed choice and biosafety—not the word “biotech.”
 - **Fuel shortage (2023):** microbes can support anaerobic digestion to biogas, fermentation-based biofuels and enzyme/bioprocess pathways that convert biomass or waste. **Qualification:** feedstock competition, water/land use, collection logistics, lifecycle emissions and scale determine whether a route improves energy security.
 
+## 13. 2026 GS-III Mains Q5 — Biotechnology for processing perishable crops
+
+> **Exact 2026 question (GS-III, Q5, 10 marks, 150 words):** "Explain by giving two examples,
+> how biotechnology has helped the Indian farmers in processing their perishable crops."
+> **Provenance:** OCR of `books/mains/2026/QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`. The
+> question specifically asks for **processing**, not cultivation/yield-trait examples — the
+> two worked examples below are chosen to match that exact directive.
+
+- ✅ **Example 1 — enzyme-assisted juice/pulp extraction and clarification:** microbial
+  fermentation produces **pectinase and cellulase**, which break down fruit cell walls and
+  pectin during mango, guava and citrus processing. This improves juice/pulp recovery,
+  reduces viscosity and clarification time, and converts easily spoiled fruit into a
+  higher-value processed product. **Farmer link:** processors and farmer-producer
+  organisations can absorb surplus or lower-grade fruit that would otherwise face distress
+  sale or post-harvest loss.
+- ✅ **Example 2 — microbial fermentation for preservation and value addition:** selected
+  lactic-acid bacteria or yeasts convert sugars in surplus fruit and vegetables into acids
+  or alcohol, suppressing spoilage organisms and producing more stable products such as
+  fermented pickles, beverages and vinegar. **Farmer link:** fermentation lengthens
+  marketability and creates a value-added outlet where fresh-market demand or cold-chain
+  access is weak.
+- ⚠️ **Additional enzyme route:** microbial enzymes such as tannase and naringinase can
+  improve beverage quality by reducing astringency or bitterness in tea/certain fruit
+  juices. Use this only as an extension after the two clearer examples above.
+- ⚠️ **Research-stage distinction:** delayed-ripening approaches using antisense RNA/RNAi
+  against ethylene or cell-wall-softening pathways are a valid biotechnology concept, but
+  do not present them as a widely deployed Indian farmer-processing success unless a
+  specific commercial Indian case is sourced.
+- ✅ **Mechanism link to Section 3:** both primary examples use the fermentation/
+  bioprocessing pathway already described there, applied to fruit-and-vegetable processing
+  rather than pharmaceuticals.
+- ⚠️ **Supporting, secondary examples (useful for a 15-mark extension, not required for the
+  10-mark, two-example ask):** tissue-culture-propagated disease-free planting material for
+  banana/potato improves the quality of the raw perishable crop entering processing;
+  chitosan-based and other bio-coatings extend shelf life during storage/transport. Link to
+  the **PM Kisan SAMPADA Yojana** (food-processing infrastructure) and the **BioE3 Policy**
+  (Section 4) for the policy-ecosystem angle, if word-limit allows.
+- ✅ **Comparison chart — the two processing-stage biotechnology routes:**
+
+| Feature | Enzyme-assisted juice/pulp processing | Microbial fermentation/preservation |
+|---|---|---|
+| Stage targeted | Extraction, clarification and quality improvement | Preservation and conversion after harvest |
+| Underlying technique | Fermentation-produced pectinase/cellulase and related enzymes | Selected lactic-acid bacteria or yeasts |
+| Crop examples | Mango, guava, citrus and other pulpy fruits | Vegetables and fruits processed into pickles, beverages or vinegar |
+| Farmer benefit | Higher recovery/value from surplus or lower-grade fruit | Longer shelf life, reduced distress sale and a new value-added market |
+
+- ⚠️ **UPSC trap:** "Any biotech crop improvement counts as 'processing.'" → The question asks
+  specifically about **processing** perishable crops, not about yield/pest-resistant
+  cultivation traits (e.g., Bt cotton) — an answer citing only cultivation-stage GM traits
+  without a processing/post-harvest link would under-address the exact directive.
+- ⚠️ **UPSC trap:** "Biotechnology for perishables means only genetic modification." →
+  Fermentation-based enzyme production and microbial preservation are established
+  non-transgenic bioprocessing routes — do not reduce "biotechnology" to GM alone
+  (cross-reference Section 5's caution against equating biotechnology with GM crops).
+- **Exact 2026 answer spine (10 marks/150 words):** *Frame* → biotechnology helps convert
+  perishable crops into more stable, higher-value products through biological enzymes and
+  controlled microorganisms (1-2 lines). *Example 1* → fermentation-produced pectinase/
+  cellulase improves extraction and clarification of mango/guava/citrus juice or pulp,
+  increasing recovery and creating an outlet for surplus/lower-grade fruit (3-4 lines).
+  *Example 2* → lactic-acid bacteria or yeasts ferment surplus fruit/vegetables into
+  pickles, beverages or vinegar; acid/alcohol formation suppresses spoilage and extends
+  marketability (3-4 lines). *Conclude* → both reduce post-harvest/distress-sale loss and
+  improve value realisation, but require hygienic processing, testing, cold-chain and market
+  linkages (1-2 lines).
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

@@ -390,6 +390,8 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ⚠️ **Nyāya contrast:** Nyāya uses prior testimony “a gavaya is like a cow” to learn the word–object relation. Do not write that specifically Nyāya mechanism as the Mīmāṃsā definition.
 - ❓ Śabara is sometimes read as allowing a wider analogical form, such as reasoning from one's own experienced self to other selves; the later similarity-cognition account is the safe exam default.
 
+> ⚠️ **Paired-owner cross-link (2026 Q8(a), 20 marks).** The full Nyāya-vs-Mīmāṃsā comparison — the gavaya case narrated on both accounts, the two distinct cognitive fruits (word–object relation vs the absent cow's similarity), the irreducibility grids, the reciprocal reduction objections with replies, the Kumārila-vs-Prabhākara split on what similarity *is*, and the 10/15/20 spines — is owned by [`Nyaya-Vaisesika.md`](Nyaya-Vaisesika.md) §3.5A. Write the Mīmāṃsā half from this section and the contrast from there; do not duplicate.
+
 ### 3.8 Śabda
 
 - ✅ Śabda is verbal testimony.
@@ -1264,6 +1266,8 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 - ✅ Add the **vyutpatti** learning argument for Prābhākara and the **abhidhā → connection** structure for Bhāṭṭa.
 - ✅ Mention the problem of **tātparya** for an authorless Veda and the rejection of **sphoṭa-vāda** for depth.
 - ✅ Conclude: Bhāṭṭa secures stable lexical meaning; Prābhākara secures contextual action-guidance.
+
+> ⚠️ **Paired-owner cross-link (2026 Q6(c), 15 marks).** The 2026 paper does **not** ask the Bhāṭṭa–Prābhākara question owned here; it asks **Naiyāyika vs Prābhākara** on *śābdabodha*. That contest — Nyāya's causal sequence (śakti on isolated meanings → memory → *anvayabodha* under the four conditions), its viśeṣaṇa–viśeṣya output, Prabhākara's *vyutpatti* argument against it, the objections both ways, and the two standing warnings (**Nyāya ≠ Bhāṭṭa**; **Prābhākara ≠ Bhartṛhari's sphoṭa**) — is owned by [`Nyaya-Vaisesika.md`](Nyaya-Vaisesika.md) §3.6A. Use §8.2 and §8.4 here for the Prābhākara half and the shared conditions; take the comparison from there.
 
 
 ## 9. AUTHORITY OF THE VEDA
@@ -2194,6 +2198,16 @@ PŪRVA-MĪMĀṂSĀ = dharma-jijñāsā in defence of Vedic injunction
 
 See the [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md).
 
+### 2026 additions ✅
+
+| Year | Question | Marks | Exact demand | Owner status |
+|---|---|---:|---|---|
+| 2026 | Q6(c) | 15 | How is the Naiyayikas' view on Sabdabodha different from that of the Prabhakara Mimamsakas? Discuss. | **cross-owned** — Prābhākara half from §8.2 and §8.4; the comparison is owned by [`Nyaya-Vaisesika.md`](Nyaya-Vaisesika.md) §3.6A |
+| 2026 | Q7(a) | 20 | Critically explain the arguments presented by the Akhyativadins for explaining erroneous cognition. Evaluate the arguments against Akhyativadins by the Anyathakhyativadins. | **primary** — §6.2–§6.4 and §12.4 for *akhyāti*; Nyāya's *anyathākhyāti* from [`Nyaya-Vaisesika.md`](Nyaya-Vaisesika.md) §4.1–§4.4 |
+| 2026 | Q8(a) | 20 | Present an account of Upamāna as an instrument of knowledge. How is the Nyāya view different from the Mīmāṃsā view? | **cross-owned** — Mīmāṃsā half from §3.7; the comparison is owned by [`Nyaya-Vaisesika.md`](Nyaya-Vaisesika.md) §3.5A |
+
+See the [Indian Philosophy PYQ Bank, 2026](../_PYQ-Indian-Philosophy-2026.md).
+
 ## 16. ANSWER ARCHITECTURE
 
 ### 16.1 10 marks
@@ -2232,6 +2246,8 @@ End with a graded verdict.
 - [Vedānta](./Vedanta.md)
 - [Sāṃkhya](./Samkhya.md)
 - [Pramāṇa across schools](../_themes/Pramana-across-schools.md)
+- [Indian Philosophy PYQ Bank, 2018–2025](../_PYQ-Indian-Philosophy-2018-2025.md)
+- [Indian Philosophy PYQ Bank, 2026](../_PYQ-Indian-Philosophy-2026.md)
 - [Causation across schools](../_themes/Causation-across-schools.md)
 - [Reason, Revelation and Faith](../../paper-2/philosophy-of-religion/Reason-Revelation-Faith.md)
 - [Master Framework](../../00_Master-Framework.md)

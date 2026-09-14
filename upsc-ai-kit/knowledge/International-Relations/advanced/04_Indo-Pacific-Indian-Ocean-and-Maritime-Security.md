@@ -125,6 +125,68 @@ India — holds an uncontested security-guarantor position.
   `Internal-Security/basic/07_Maritime-and-Coastal-Security.md` and the HADR
   operational cycle to `Disaster-Management/basic/17` and `18`.**
 
+## 4A. Advanced IPMDA analytical layer
+
+> **Canonical note:** the direct 2026 GS-II Q9 demand (critical assessment of
+> IPMDA as a SAGAR-Quad bridge) is answered and owned by
+> `basic/04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`, Section 4A.
+> This layer supplies optional deeper nuance only and does not restate the
+> demand card.
+
+### Public good or soft-balancing instrument? The framing-ambiguity test
+
+```text
+IPMDA / IPMSC (2022, expanded 2026)
+        |
+        +--> read by partner littoral states as: transparency + capacity + no cost
+        |         (anti-IUU-fishing, anti-piracy, HADR, dark-vessel detection)
+        |
+        +--> read by China as: US-anchored surveillance architecture,
+                 soft-balancing / containment-adjacent, Quad-branded
+```
+
+- ⚠️ Both readings are simultaneously plausible and not mutually falsifying —
+  an instrument can be a genuine regional public good **and** be perceived, and
+  partly intended, as a balancing tool against a specific contingency (Chinese
+  grey-zone/dark-fleet activity). Advanced answers should hold both readings
+  rather than resolve the ambiguity into a single verdict.
+
+### ASEAN-hedging applied specifically to IPMDA
+
+- ⚠️ Southeast Asian recipients of IPMDA data (via the Singapore-based
+  Information Fusion Centre) generally welcome the awareness benefit while
+  avoiding public association with the Quad label, consistent with this
+  topic's general ASEAN-centrality caution (Section 6) — states want the
+  data feed without appearing to choose a bloc.
+- ⚠️ This is a narrower, IPMDA-specific instance of the wider hedging pattern
+  applied elsewhere in this file to trade and connectivity choices; do not
+  conflate it with a claim that ASEAN as a bloc has endorsed the Quad.
+
+### Technology dependency and the "way ahead"
+
+- ⚠️ The AIS/commercial-RF baseline is being supplemented by synthetic-aperture
+  radar (SAR) fusion and, prospectively, AI-assisted vessel-behaviour analytics
+  to catch "dark" (transponder-off) vessels — a natural extension of the
+  2026 Common Operating Picture (COP) goal, but one that deepens reliance on
+  US/allied commercial-satellite and analytics providers rather than
+  diversifying the sensor base.
+- ⚠️ **Comparison with China's own maritime-surveillance build-out:** China
+  operates its own extensive coastal/naval surveillance and militia-reporting
+  network in the South China Sea; IPMDA's distinguishing claim is that its
+  underlying data is commercial and unclassified and its outputs are shared
+  with partner states rather than retained by a single power — a transparency
+  contrast worth using in a comparative answer, while noting that transparency
+  of inputs does not by itself resolve who controls the eventual COP.
+
+### Funding-cycle sustainability
+
+- ⚠️ The original Quad investment commitment (Tokyo, 2022) was framed as a
+  five-year horizon, placing a natural renewal/sustainability question around
+  2027; the 2026 IPMSC launch and COP expansion should be read as a
+  **mid-cycle deepening announcement**, not a confirmed post-2027 funding
+  renewal — an advanced answer should flag this as an open question rather
+  than assume continuity.
+
 ## 5. Indian applications and boundary cases
 
 - ✅ **Direct PYQ boundary case (2024 Q20):** the question explicitly asks about
@@ -224,12 +286,22 @@ India — holds an uncontested security-guarantor position.
   Agreement's entry into force (17 January 2026)** with India a signatory but
   not a party. ⚠️ Any claim about implementation status, or about a newer summit
   outcome, requires independent, dated verification before being treated as ✅.
+- 📰 **IPMDA/IPMSC anchor:** at the 11th Quad FMM (New Delhi, 26 May 2026)
+  Quad partners launched IPMSC and an IPMDA expansion toward a Common
+  Operating Picture. See Section 4A here for the deeper nuance and the Basic
+  owner's Section 4A for the direct 2026 GS-II Q9 answer route.
 
 ## 10. PYQ-based analytical application
 
 - ✅ **2020 Quad cross-route:** evaluate maritime-security cooperation and
   widening functional agendas, but route the alliance/trade-bloc taxonomy
   correction to topic `10`.
+- ✅ **2026 Q9 (direct, owned by Basic):** the Basic owner's Section 4A and its
+  "2026 Mains PYQ integration (manual)" table carry the direct, verified 2026
+  GS-II Q9 demand (critical assessment of IPMDA as a SAGAR-Quad bridge); this
+  Advanced file supplies the framing-ambiguity, ASEAN-hedging, technology-
+  dependency and funding-cycle nuance above (Section 4A) rather than
+  duplicating the demand card.
 - ✅ **2024 Q20 (direct):** *Discuss the geopolitical and geostrategic
   importance of Maldives for India with a focus on global trade and energy
   flows. Further also discuss how this relationship affects India's maritime

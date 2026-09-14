@@ -406,9 +406,11 @@ Move across scales only when the same mechanism genuinely travels:
 
 > **Example rule:** State the mechanism and limitation. Do not use India only as celebratory decoration.
 >
-> **Full Core bank:** `basic/12` now contains 19 cross-domain,
-> source-status-tagged illustrations. Refresh every dated `📰` example
-> against its official owner before reuse.
+> **Full Core bank:** `basic/12` now contains 24 cross-domain,
+> source-status-tagged illustrations (including the five 2026 dossier
+> evidence units — satyagraha, Bhoodan, Chandrayaan-2/3, Santiniketan,
+> Nalanda/Takshashila). Refresh every dated `📰` example against its
+> official owner before reuse.
 
 ---
 
@@ -537,8 +539,15 @@ An occasional compact diagram is useful only if it:
 | Years/days | Accumulated experience vs unreflected time |
 | Journey/destination | Means, growth and achievement |
 | Contentment/luxury | Sufficiency vs resignation/consumption |
+| Oxymorons/irony (2026) | Apparent verbal contradiction vs real coexistence of opposites |
+| Gratitude (2026) | Private feeling vs enacted social reciprocity |
+| Thorn/bud (2026) | Adversity as corruption vs adversity as changed/converted form |
+| Nature/spirit (2026) | Nature as resource vs nature as formative inner symbol |
+| Education/questions (2026) | Answers as terminus vs inquiry as the actual goal |
 
 > **Core rule:** These are starting tensions, not fixed “correct interpretations.”
+> The five 2026 rows route to full argument/evidence dossiers in
+> `basic/02_Philosophical-Quote-Decoding.md`, Section 13.
 
 ---
 

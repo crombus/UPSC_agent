@@ -48,6 +48,173 @@ ex post through review, correction and sanction.
 | ✅ **External control system** | The Comptroller and Auditor General (CAG) and the independent judiciary — mechanisms *outside* executive control (ARC Colloquium Annexure-I(2)). |
 | ✅ **Social control** | Civil society, media and citizen vigilance acting as an accountability check where formal mechanisms are weak (ARC Colloquium Annexure-I(2), citing Hong Kong's ICAC public-education model). |
 
+## 2A. Accountability under AI assistance: the six-element test applied to non-human agents
+
+> ⚠️ **Routing note.** 2026 GS-IV Q1(a) (a university professor generates a Ph.D. evaluation report
+> using Artificial Intelligence and submits it with some modifications — "discuss this from the
+> perspective of accountability and integrity") is **primarily owned by**
+> `13_Emerging-Ethics-Technology-AI-and-Environment.md`, which carries the AI-governance substance.
+> **This file owns the accountability grammar** the answer must be built on, and the section below
+> is written to be independently answer-sufficient for the accountability half of any such question.
+> The syllabus-level demand is general: *what happens to accountability when a decision-support tool
+> is inserted between an office-holder and a judgment the office-holder is obliged to make?*
+
+### The six-element test applied to a machine
+
+Section 2 defines accountability analytically as requiring **a named actor, a forum, a standard, an
+explanation, a judgment and a possible correction, remedy or consequence**. That definition is the
+decisive analytical instrument here, because a generative model fails every element:
+
+| Element of accountability | What it requires | Can an AI system supply it? |
+|---|---|---|
+| **Named actor** | An identifiable person or body whose conduct is at issue | ❌ No. A model is not a legal or moral person; it holds no office and bears no duty. |
+| **Forum** | A body entitled to summon and question the actor | ❌ No. A model cannot be summoned, cross-examined or held to an oath. |
+| **Standard** | A prior norm against which conduct is measured | ⚠️ Partly. A model can be *evaluated* against a standard, but it cannot *undertake* to meet one. |
+| **Explanation** | Reasons that actually caused the decision | ❌ No. Output fluency is not reason-giving; a plausible-sounding rationale may be post-hoc and unconnected to the actual computation. |
+| **Judgment** | The forum's verdict on the actor's conduct | ❌ No. Judgment can attach only to the human who deployed and adopted the output. |
+| **Correction / consequence** | Remedy, sanction, restoration, learning | ❌ No. A model cannot be sanctioned, cannot compensate, and cannot be disqualified from office. |
+
+⚠️ **Analytical conclusion:** accountability cannot be transferred to a tool. It can only be
+**retained, diffused or concealed**. Inserting an AI between the office-holder and the judgment does
+not create a second accountable party; it creates the *appearance* of one.
+
+### Delegable task vs non-delegable duty
+
+- ⚠️ **Delegable task:** a step whose quality can be independently verified by the office-holder
+  before adoption — language editing, formatting, reference-checking, translation, summarising a
+  document the officer has also read, first-pass similarity screening.
+- ⚠️ **Non-delegable duty:** a duty whose whole content *is* the exercise of personal judgment by a
+  designated office-holder — the evaluative assessment of a thesis, a disciplinary finding, a
+  sanctioning order, a bail or clearance recommendation, a performance appraisal. Here the person's
+  own reasoning is not a means to the output; it **is** the output the office was created to supply.
+- ⚠️ **The test:** *if the tool's output were removed, would there be anything left that the
+  office-holder was appointed to contribute?* If no, the duty was non-delegable and has been
+  abandoned, regardless of how the result reads.
+- ⚠️ **"With some modifications" does not cure the defect.** Editing an output one did not generate
+  converts the office-holder into a reviewer of the machine; but the office required an *originator*
+  of judgment. Superficial modification also produces **automation bias** — the human anchors on the
+  machine's framing and the "check" becomes ratification rather than independent assessment.
+
+### Named failure modes
+
+1. ⚠️ **Responsibility gap / accountability diffusion:** harm occurs, but no actor both (i) made the
+   decision and (ii) can be held to answer for it — the developer points to the deployer, the
+   deployer to the model, the model to no one.
+2. ⚠️ **"Problem of many hands":** where a decision passes through designers, procurers, deployers
+   and adopters, each contribution looks too small to ground blame while the aggregate harm is real.
+3. ⚠️ **Moral crumple zone:** the least powerful human in the loop (a junior assistant, a data-entry
+   clerk) absorbs blame for a failure structurally produced by the automated system and by the
+   senior officer who adopted it.
+4. ⚠️ **Misrepresentation / integrity failure (distinct from the efficiency question):** submitting
+   machine-generated assessment as one's own scholarly or official judgment is a false implicit
+   claim about authorship of reasoning. This is a breach of **integrity**, not of productivity — and
+   it survives even if the output happens to be substantively correct.
+5. ⚠️ **Unexplainable explanation:** the office-holder cannot answer the forum's central question —
+   *"why did you conclude this?"* — because the reasons were never theirs.
+
+### Permissibility matrix for AI assistance in a duty-bearing role
+
+| Use of AI | Permissible? | Governing test |
+|---|---|---|
+| Language polishing, formatting, reference-checking of the office-holder's **own** assessment | ⚠️ Yes, with disclosure where a disclosure norm exists | Judgment remains human; output is verifiable line by line |
+| Similarity/plagiarism screening or evidence retrieval, flagged to the institution, human decides | ⚠️ Yes | Transparency plus a human final call; the tool informs, does not conclude |
+| Summarising a long record the office-holder has also read, as a drafting aid | ⚠️ Yes, with verification against the primary record | Verifiability; errors are detectable by the adopter |
+| AI drafts the **substantive evaluation**; the human "modifies" and signs | ❌ No | Non-delegable judgment delegated; explanation cannot be given; submission misrepresents authorship |
+| AI output adopted for a decision affecting rights, with no disclosure and no human reasoning on record | ❌ No | Fails named-actor, explanation and correction elements simultaneously |
+
+### Objections and replies
+
+- **Objection 1 — "Scarcity of time is a real institutional problem; purism ignores workload."**
+  ⚠️ Reply: the pressure is genuine and the institutional answer is workload reform — examiner-load
+  caps, realistic deadlines, honoraria, the right to decline or return an assignment. None of these
+  is served by a silent private workaround, which *conceals* the capacity deficit and therefore
+  guarantees it will not be fixed. Declining the assignment is the honest response to overload;
+  fabricating capacity is not.
+- **Objection 2 — "The output was checked, so accountability is intact."**
+  ⚠️ Reply: accountability requires the ability to give *the reasons that actually operated*. A check
+  establishes absence of detected error; it does not establish authorship of judgment, and under
+  automation bias the check is systematically weaker than independent assessment.
+- **Objection 3 — "If the conclusion is correct, the process is a formality."**
+  ⚠️ Reply: in evaluative offices the process *is* the product. A candidate is entitled to the
+  considered judgment of a qualified examiner, not to a correct-looking verdict; and a verdict whose
+  reasons cannot be defended before a forum cannot be corrected on appeal.
+- **Objection 4 — "Tools have always assisted; this is only a new tool."**
+  ⚠️ Reply: the distinction is not novelty but **substitutability of judgment**. A calculator
+  executes a step the user has specified and can verify; a generative model supplies the very
+  conclusion and its apparent justification, which is the office-holder's own assigned contribution.
+
+### Institutional response (what an institution must put in place)
+
+1. ⚠️ A **published AI-use policy** naming permitted, restricted and prohibited uses for each
+   category of duty, so that the line is institutional rather than left to private conscience.
+2. ⚠️ A **mandatory disclosure statement** attached to evaluative and decisional outputs, declaring
+   any AI assistance and its scope.
+3. ⚠️ A **reasoned-record requirement**: the office-holder must record reasons in their own
+   analysis, capable of being defended before the relevant forum.
+4. ⚠️ **Capacity reform** — assignment caps, realistic timelines and an explicit, penalty-free right
+   to decline — so that the honest route is also the feasible route.
+5. ⚠️ **Audit and sampling** of evaluative outputs, plus a grievance route for the affected party,
+   closing the correction/remedy element.
+6. ⚠️ **Training** on automation bias and on the delegable-task/non-delegable-duty distinction.
+
+### Sources and caveats
+
+- ✅ **ICMJE Recommendations, "Defining the Role of Authors and Contributors," §4 (Use of Artificial
+  Intelligence Technology):** authors "should not list AI and AI-assisted technologies as an author
+  or co-author, nor cite AI as an author," and must "carefully review and edit the result because AI
+  can generate authoritative-sounding output that can be incorrect, incomplete, or biased." The four
+  ICMJE authorship criteria — substantial contribution; drafting or critical revision; final
+  approval; and **agreement to be accountable for all aspects of the work** — supply a clean
+  four-point test, and the fourth criterion is exactly the element a machine cannot satisfy.
+  ⚠️ ICMJE governs biomedical publishing; its use for a thesis evaluation is an argument by
+  analogy, and should be presented as such.
+- ✅ **UNESCO, *Guidance for Generative AI in Education and Research* (2023):** human accountability
+  may not be ceded to the tool; AI use should be disclosed; institutions should publish permitted
+  and prohibited uses.
+- ⚠️ **UGC (Promotion of Academic Integrity and Prevention of Plagiarism in Higher Educational
+  Institutions) Regulations, 2018:** establish a mandatory institutional mechanism — a Departmental
+  Academic Integrity Panel (DAIP) and an Institutional Academic Integrity Panel (IAIP) — with graded
+  consequences rising with the similarity level. ⚠️ **Two cautions:** (i) quote the tiered similarity
+  percentages only after checking the gazette text, since the slab boundaries are frequently
+  misstated in secondary sources; (ii) the 2018 Regulations address **plagiarism/similarity**, and do
+  not of themselves define *undisclosed generative-AI use* as an offence — that is presently handled
+  through institutional policy, not a settled national numerical threshold.
+- ❓ **"UGC AI rules"** circulating in coaching material: no binding national UGC instrument on
+  generative-AI use has been verified in this repository. ❌ Do not assert one.
+- ✅ Accountability and human-oversight principles in the **MeitY India AI Governance Guidelines**,
+  the **UNESCO Recommendation on the Ethics of AI (2021)** and the **OECD AI Principles** are held in
+  `13_Emerging-Ethics-Technology-AI-and-Environment.md`; cite from there rather than restating here.
+
+### 10-mark answer spine (~150 words)
+
+1. **Define the distinction in one line:** responsibility is the duty attached to the role;
+   accountability is the obligation to explain and justify that conduct to a forum that can judge
+   and correct it (Section 2).
+2. **Name two distinct wrongs, not one:** (i) delegation of a **non-delegable evaluative judgment**;
+   (ii) **misrepresentation** of machine output as one's own assessment — an integrity breach that
+   stands independently of output quality.
+3. **Apply the six-element test:** the model supplies no actor, forum, explanation or correctable
+   consequence; accountability was not transferred but diffused.
+4. **Anchor:** ICMJE's "accountable for all aspects of the work"; UNESCO 2023 on non-cession of human
+   accountability; the institution's own academic-integrity machinery.
+5. **Concede the real pressure:** workload and time scarcity are genuine; the honest responses are
+   declining, seeking an extension, or institutional load reform.
+6. **Remedy:** published AI-use policy, mandatory disclosure, reasons in the officer's own hand,
+   audit and grievance route.
+7. **Verdict (one line):** AI may assist in *drafting* reasons; it cannot hold the *duty to reason*.
+
+### Traps
+
+- ❌ **Trap:** treating this as a bias/algorithmic-fairness question. -> The wrong here is not model
+  bias; it is abandonment of a fiduciary judgment plus misrepresentation. Bias is a different
+  failure mode (owned by `13`).
+- ❌ **Trap:** "he modified it, so he owns it." -> Modification of an output one did not generate is
+  review, not judgment; the office required judgment.
+- ❌ **Trap:** blanket technophobia ("ban AI in academia"). -> The defensible line is
+  use-specific: verifiable assistance yes, substitution of the assigned judgment no.
+- ❌ **Trap:** collapsing accountability into punishment. -> Accountability is answerability with
+  possible correction; a system with sanctions but no reason-giving or remedy is still unaccountable.
+
 ## 3. Mechanism: how ethical accountability actually operates
 
 1. **Assign responsibility clearly** — accountability is meaningless if it is unclear who was
@@ -210,6 +377,20 @@ complementary layer/measure], since no single layer is self-sufficient."
 - ✅ `18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md` — leakage/misuse mechanics.
 - ✅ `Polity/advanced/32_CAG.md` and `Polity/advanced/37_CVC-and-CBI.md` — constitutional-body detail.
 - ✅ `06_Indian-Moral-Thinkers-and-Philosophers.md` — social capital's full concept and antecedents.
+- ✅ `13_Emerging-Ethics-Technology-AI-and-Environment.md` — primary owner of AI-governance substance
+  (bias, opacity, human oversight, MeitY/UNESCO/OECD anchors) that Section 2A cross-links to.
+
+<!-- 2026 POINTER (non-generated; kept outside the generated PYQ blocks above/below) -->
+## 2026 GS-IV Section-A pointer
+
+> ⚠️ The generated PYQ blocks below end at 2024-2025. The **2026 GS-IV Section-A** routing ledger for
+> all thirteen official parts is maintained separately in
+> [`../_PYQ-GS4-SectionA-2026.md`](../_PYQ-GS4-SectionA-2026.md).
+>
+> **Parts touching this owner:** **2026 Q1(a)** (AI-generated Ph.D. evaluation report — accountability
+> and integrity) as a **cross-link**; the primary owner is
+> `13_Emerging-Ethics-Technology-AI-and-Environment.md`. The accountability grammar this owner must
+> now support is in **Section 2A** above.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

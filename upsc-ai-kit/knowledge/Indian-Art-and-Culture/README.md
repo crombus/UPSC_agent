@@ -1,5 +1,15 @@
 # Indian Art & Culture - Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> structures feature, continuity-change, significance and comparison answers.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes architecture, sculpture, painting, literature and performance signals.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes architecture, sculpture, painting, music and performance forms.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies heritage, architecture and living-tradition examples.
+
 > **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 
@@ -27,6 +37,12 @@
 > anchored only to a dated official source and never presented as
 > permanently current.
 > **Start here:** `00_Master-Framework.md`.
+> **Institutions and regulators:** [`../INSTITUTIONS-AND-REGULATORS-INDEX.md`](../INSTITUTIONS-AND-REGULATORS-INDEX.md)
+> maps ASI, National Monuments Authority, archives, academies, film and public-broadcast bodies.
+> **Government schemes:** [`../GOVERNMENT-SCHEMES-MATRIX.md`](../GOVERNMENT-SCHEMES-MATRIX.md)
+> maps heritage tourism, monument partnerships, cultural grants and community food-service support.
+> **History chronology sheets:** [`../HISTORY-CHRONOLOGY-SHEETS.md`](../HISTORY-CHRONOLOGY-SHEETS.md)
+> place cultural movements, rulers, reformers and major architectural phases in sequence.
 > **Pre-exam revision:** [Forms, Styles and Distinctive Features Chart](REVISION-CHART_Forms-Styles-and-Distinctive-Features.md).
 
 ---
@@ -314,3 +330,38 @@ conservation and tourism).
   Natak Akademi, Lalit Kala Akademi, Sahitya Akademi, IGNCA, National
   Mission on Monuments and Antiquities, National Mission for Manuscripts,
   and the GI Registry (DPIIT) for all current-anchor material.
+
+## Physical-book chapter reading index
+
+> **Confirmed book:** Nitin Singhania, *Indian Art and Culture*, Sixth Edition.
+
+| Book chapter | Priority | Knowledge route | Reading instruction |
+|---|---|---|---|
+| 1. Prehistoric Cultures | **B** | Topics 01, 06 and 07 | Read rock art, material culture and chronology; detailed prehistory belongs to Ancient History |
+| 2. Indian Architecture | **A** | Topics 01-05 | Read fully in chronological blocks; create form-feature-example-patronage tables |
+| 3. Sculpture and Pottery | **A** | Topic 06 | Read fully, especially school identification and iconographic features |
+| 4. Edicts and Inscriptions | **B** | Topics 02 and 11 | Read scripts, language, patronage and source value; do not duplicate History chronology |
+| 5. Coins in India | **B** | Topics 06 and 11 | Read identifying features and cultural evidence |
+| 6. Legendary Cities and Delhi | **C** | Topics 01, 04 and 05 | Use for place-based examples, not linear memorisation |
+| 7. Indian Paintings | **A** | Topic 07 | Read fully; revise school, patron, theme, technique and region |
+| 8. Indian Handicrafts | **A** | Topic 12 | Read major craft-material-region pairs and livelihood/conservation issues |
+| 9. Geographical Indications | **B** | Topics 12 and 14 | Read the concept and selected cultural examples; current totals require GI Registry verification |
+| 10. Indian Music | **A** | Topic 08 | Read concepts, systems, forms, gharanas, instruments and major traditions |
+| 11. Indian Dance | **A** | Topic 09 | Read classical forms, vocabulary, regional signatures and selected folk forms |
+| 12. Theatre, Puppetry, Circus, Martial Arts and Sports Forms | **A/B** | Topic 10 | **A:** theatre, puppetry and martial/ritual performance. **B:** circus and sports |
+| 13. Indian Cinema | **A** | Topic 15 | Read history, institutions, movements, regional cinema and preservation |
+| 14-15. Languages, Scripts and Literature | **A** | Topic 11 | Read fully with language-family/script/literature comparison tables |
+| 16-17. UNESCO World Heritage and Intangible Heritage | **A** | Topic 14 | Learn categories and selected examples; recheck all current lists officially |
+| 18-21. Religions, Buddhism/Jainism, Bhakti/Sufi and Philosophy | **B** | Topic 13 | Read cultural influence and synthesis; doctrinal depth belongs to Philosophy |
+| 22-23. Festivals and Fairs | **B/C** | Topics 10, 12 and 13 | Select nationally significant and distinctive regional examples |
+| 24. Education in India | **C** | Topics 11 and History links | Read historical institutions only when linked to culture |
+| 25. Science and Technology through the Ages | **B** | Topics 02, 06 and 11 | Use as civilisation evidence; verify technical claims in S&T/History owners |
+| 26. Calendar Forms | **C** | Topic 11 | Reference for Prelims only |
+| 27. Cultural Institutions | **A** | Topic 14 | Read mandate and institutional distinctions; verify current status officially |
+| 28. Awards and Honours | **C** | Topics 08-10 and 15 | Do not memorise lists; use only verified award examples |
+| 29. Law and Culture | **A** | Topic 14 | Read heritage law, protection and cultural-rights interfaces |
+| 30. Trade, Traders and Cultural Exchange | **A** | Topics 12-13 | Read mechanisms of transmission, patronage and cultural interaction |
+| 31. Foreign Travellers | **B** | Topic 11 and History links | Learn observer-period-evidence-limit rather than isolated quotations |
+
+**Limit:** book-period UNESCO, GI, awards and institutional facts must be replaced by dated
+official information. Political chronology remains owned by the History folders.

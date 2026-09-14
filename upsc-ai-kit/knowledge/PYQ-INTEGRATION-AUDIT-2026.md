@@ -16,6 +16,29 @@
 
 > **Key status:** The 2026 Prelims and CSAT Set-A keys held locally are provisional; no answer letter is recorded or inferred anywhere in this integration.
 
+### Manually integrated 2026 Mains supplements
+
+The generated totals in this audit remain limited to Prelims GS-I and CSAT.
+Mains remediation is recorded separately so generated counts are not
+misrepresented:
+
+- Philosophy Optional: four supplements, 56 parts.
+- GS-IV Ethics: [`Ethics/_PYQ-GS4-SectionA-2026.md`](Ethics/_PYQ-GS4-SectionA-2026.md)
+  routes 13 theory parts; [`Ethics/_PYQ-GS4-SectionB-2026.md`](Ethics/_PYQ-GS4-SectionB-2026.md)
+  routes 12 case-study subparts.
+- GS-I: [`_PYQ-GS1-2026.md`](_PYQ-GS1-2026.md) routes 20 questions.
+- GS-II: [`_PYQ-GS2-2026.md`](_PYQ-GS2-2026.md) routes 20 questions.
+- GS-III: [`_PYQ-GS3-2026.md`](_PYQ-GS3-2026.md) routes 20 questions.
+- Essay: [`_PYQ-ESSAY-2026.md`](_PYQ-ESSAY-2026.md) routes 8 prompts.
+- The focused [`_PYQ-GS1-GS3-Static-2026.md`](_PYQ-GS1-GS3-Static-2026.md)
+  remains as provenance for the original Fujiwhara, BRI/CPEC and
+  startup-ecosystem gap repairs; the complete GS ledgers supersede it for
+  routing scope.
+
+**Manual Mains certification:** 143 substantive units routed, 143 FULL,
+0 PARTIAL, 0 GAP. Compulsory English and Hindi are tracked as task-type and
+timed-practice readiness rather than counted knowledge units.
+
 ### Unique questions by paper
 
 | Paper | Questions |

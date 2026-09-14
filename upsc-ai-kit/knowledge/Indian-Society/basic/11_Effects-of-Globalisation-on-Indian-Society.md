@@ -93,6 +93,63 @@ adaptation (glocalisation), which is why all three PYQs on this topic reward a q
 - ⚠️ **Digital divide:** unequal internet/technology access across gender, region and
   generation, shaping who benefits from globalisation's connectivity gains.
 
+## ➕ Globalisation and Indian Youth — Social, Political, Economic and Cultural (SPEC) Framework (2026 PYQ gap)
+
+> ✅ Grounded in the file's own PLFS/NFHS evidence base + ⚠️ standard sociology of youth and
+> political participation + 📰 dated anchors. Added to close the 2026 GS-I Q20 gap: "Evaluate the
+> impact of globalization on Indian youths with reference to social, political, economic and
+> cultural spheres." The **political** dimension is the specific weakness this section repairs;
+> social, economic and cultural channels are cross-linked to Sections 1-3 and 12/13 rather than
+> restated.
+
+### Why "youth" needs its own frame, not just a restatement of Sections 1-3
+
+- ⚠️ Sections 1-3 analyse globalisation's effect on **Indian society at large** (consumer culture,
+  migration, food industry). The 2026 demand narrows the lens to **youth specifically** and adds a
+  fourth, previously under-covered channel — the **political** sphere — so an answer must be
+  reorganised around the SPEC quadrant rather than merely reused verbatim.
+
+### The SPEC quadrant
+
+| Sphere | Mechanism | Evidence/example type | Genuine counterpoint |
+|---|---|---|---|
+| ✅ **Social** | Urban migration, independent income and digital social networks loosen joint-family authority and widen partner-choice/lifestyle voice among young people, especially young women (Section 1, 2024 Q19 PYQ) | Skilled, young, unmarried women's urban migration stream (this file, Section 5) | ⚠️ Freedom gained is renegotiated, not unconditional; family ties persist through remittance and contact |
+| ⚠️ **Political** | Digital connectivity lets youth mobilise rapidly around **issues** rather than through party/ideology channels; global rights, climate and democracy discourse is absorbed and re-expressed in domestic protest idiom; diaspora and NRI opinion feeds back into homeland debates | Youth-led, hashtag-organised mobilisation around specific issues (e.g., citizenship-law protests of 2019-20, farm-law protests of 2020-21, campus and gig-worker mobilisations), and Indian youth participation in globally-networked campaigns such as climate strikes | ❌ Episodic digital mobilisation is not the same as sustained formal political participation (party membership, voter turnout); urban youth turnout has often lagged mobilisation visibility |
+| ✅ **Economic** | Global service-sector demand, the gig/platform economy and start-up/global-job-market access reshape youth livelihood aspiration and risk exposure | IT/BPO, platform-gig work, start-up ecosystem access (cross-linked to `Social-Justice/basic/15_Labour-Social-Security-Unorganised-and-Gig-Workers.md`) | ⚠️ Global-market access is uneven by skill, region, English-fluency and gender; it is not a uniform youth benefit |
+| ✅ **Cultural** | Global media, streaming platforms and brand culture reshape taste and identity, while regional-language content and glocalised products simultaneously reassert local identity | Homogenisation-glocalisation pairing (Section 3.5; cross-linked `12_Social-Change-and-Modernisation.md`) | ⚠️ Cultural hybridity, not one-way Westernisation, is the more defensible characterisation |
+
+### The political dimension, developed in depth
+
+- ⚠️ **Issue-based over ideology-based mobilisation:** globalisation's digital infrastructure
+  (social media, messaging platforms) lowers the cost of youth political organisation around a
+  single, sharply defined issue, which can produce large, fast mobilisations that do not map onto
+  traditional party or ideological affiliation.
+- ⚠️ **Global discourse absorption:** international human-rights, gender-equality, climate-justice
+  and democratic-accountability discourse circulates through global media and platforms and is
+  actively re-expressed by Indian youth in domestic protest framing and vocabulary — a genuine
+  globalisation-to-domestic-politics channel, distinct from the economic/consumer channel already
+  covered.
+- ⚠️ **Political consumerism:** young consumers increasingly treat brand choice, boycotts and
+  online campaigns as a form of political expression, extending politics into the marketplace
+  rather than only the ballot box.
+- ⚠️ **Diaspora feedback loop:** a globally mobile, globally connected Indian youth/diaspora
+  population feeds opinion, funding and framing back into domestic political debate through digital
+  channels, a two-way flow that was far weaker before mass internet connectivity.
+- ❌ **The engagement-participation gap (trap):** rich digital mobilisation visibility does **not**
+  prove deep formal political participation; survey and turnout evidence in India has repeatedly
+  shown urban, globally-connected youth cohorts can be simultaneously highly vocal online and
+  comparatively less likely to vote or join a party than older or rural cohorts. An answer that
+  treats "more visible" as "more participatory" without this caution overstates the case.
+- ⚠️ **Polarisation risk:** the same digital platforms that enable rapid issue-based mobilisation
+  also carry disinformation and echo-chamber effects that can harden youth political polarisation
+  rather than deepen deliberative engagement — a necessary qualification, not a one-sided
+  celebration of "digital democratisation."
+
+> 🔑 Trap: Do not reduce "political impact of globalisation on youth" to only social-media
+> mobilisation examples. A complete answer separates: (a) issue-based mobilisation capacity,
+> (b) global-discourse absorption, (c) political consumerism, (d) the diaspora feedback loop, and
+> (e) the engagement-participation gap and polarisation risk as counterpoints.
+
 ## 5. Indian applications and PYQ mapping
 
 - ✅ **2025 GS-I PYQ (10 marks, verbatim):** "Do you think that globalization results in
@@ -214,6 +271,7 @@ adaptation (glocalisation), which is why all three PYQs on this topic reward a q
 | **Justify** threat to diversity/pluralism | Conditional risk, not deterministic loss | vulnerability -> resistance/adaptation -> institutional/social condition |
 | **Elucidate** technology with scarce resources | Social benefits and material/ecological costs | access/efficiency -> energy/mineral/e-waste/inequality -> cross-owner boundary |
 | **Illustrate** fast-food paradox | Behavioural and structural mechanisms | time/price/delivery/aspiration/glocalisation -> health trade-off |
+| **Evaluate** impact on youth across SPEC spheres | Four distinct channels, not one blended verdict | social channel -> political channel -> economic channel -> cultural channel -> graded verdict |
 
 ### 13.2 Thesis bank
 
@@ -224,6 +282,11 @@ adaptation (glocalisation), which is why all three PYQs on this topic reward a q
   household authority, digital access and identity are distinct channels.
 - **T3:** ⚠️ Technology can widen capability or resource pressure depending on who has
   access, what material/energy chain it uses and who bears the cost.
+- **T4:** ⚠️ Globalisation's impact on Indian youth is a four-channel (Social, Political,
+  Economic, Cultural) redistribution of opportunity and voice, not a single directional
+  effect; the political channel — issue-based mobilisation, global-discourse absorption
+  and the diaspora feedback loop — is genuine but must be qualified against the
+  engagement-participation gap and polarisation risk.
 
 ### 13.3 Mark-scaled spines
 
@@ -235,6 +298,15 @@ glocalisation channel. Add inequality/digital-divide caution and conclude with T
 homogenising media/market pressure, language/local-identity risk and countervailing
 vernacular/local adaptation. Explain that pluralism depends on voice/access, not simply
 the presence of global products. Close conditionally, avoiding a nostalgia claim.
+
+**15 marks — globalisation's impact on Indian youth across social, political, economic
+and cultural spheres (2026 GS-I Q20).** Use T4 and the SPEC quadrant: (1) social —
+migration, family renegotiation; (2) political — issue-based mobilisation, global-discourse
+absorption, political consumerism, diaspora feedback loop, immediately qualified by the
+engagement-participation gap and polarisation risk; (3) economic — gig/platform work,
+start-up and global-job-market access, unevenly distributed by skill and region; (4)
+cultural — homogenisation-glocalisation pairing. Close with a graded verdict: effects are
+real in all four spheres but uneven across class, gender, region and connectivity.
 
 **20 marks — globalisation, new technology and scarce resources.** Separate the social
 effect from the instrument’s macro/technical ownership. Analyse access and productivity,
@@ -266,6 +338,21 @@ claiming technology is inherently green or destructive.
   *Evidence:* NFHS-5’s historical internet-use indicator. *Significance:* supports a
   digital-divide caution. *Limitation:* NFHS-6 is the current released national round; use
   its fact sheet for current values.
+- **E6 — Youth political mobilisation.** *Claim:* digital connectivity lowers the cost of
+  rapid, issue-based youth political mobilisation outside party/ideology channels.
+  *Evidence:* youth-led, digitally-organised protest waves around specific legislative or
+  livelihood issues (e.g., citizenship-law protests of 2019-20, farm-law protests of
+  2020-21). *Significance:* supplies the political-channel mechanism for the 2026 Q20
+  demand. *Limitation:* names the mobilisation mechanism generically; do not attribute a
+  specific protest's outcome, scale or demographic composition without a dated, verified
+  source.
+- **E7 — Engagement-participation gap.** *Claim:* digital political visibility is not proof
+  of deeper formal participation. *Evidence:* the documented pattern of urban, digitally
+  connected youth cohorts showing high online voice alongside comparatively lower voter
+  turnout/party membership than older or rural cohorts. *Significance:* is the necessary
+  counterpoint that prevents a one-sided "digital democratisation" verdict. *Limitation:*
+  do not quote a specific turnout percentage without a dated Election Commission/CSDS-
+  Lokniti source.
 
 ### 13.5 Balance bank and verdict scaffolds
 
@@ -288,9 +375,32 @@ claiming technology is inherently green or destructive.
 | 2022 · GS-I · Q20 | New technology and scarce resources | §13.3 20-mark route, T3 |
 | 2024 · GS-I · Q19 | Women’s migration, freedom and family | E2-E3 |
 | 2025 · GS-I · Q10/Q18 | Consumer culture / fast food | T2/E4 |
+| 2026 · GS-I · Q20 | Globalisation's impact on Indian youth: social, political, economic, cultural | SPEC section, T4, §13.3 15-mark route, E6-E7 |
 
 > **Routing correction:** Core routing supersedes old `advanced/11` pointers. Technical,
 > legal and macroeconomic owners are named cross-links, not gaps in this social-analysis Core.
+
+## 2026 Mains PYQ integration (manual)
+
+> **Source:** OCR-verified English text from the locally preserved official
+> 2026 GS-I scan. This manual Mains route is separate from the generated
+> block below.
+
+| Year | Paper | Q | Exact demand | Directive / format | Canonical route |
+|---:|---|---:|---|---|---|
+| 2026 | GS-I | 20 | "Evaluate the impact of globalization on Indian youths with reference to social, political, economic and cultural spheres." | Evaluate · 15 marks · 250 words | `Indian-Society/basic/11_Effects-of-Globalisation-on-Indian-Society.md`, Section "➕ Globalisation and Indian Youth — SPEC Framework", T4, §13.3 15-mark spine, E6-E7 |
+
+**Readiness verdict:** **FULL.** The owner now supplies a four-channel (SPEC)
+frame for youth specifically, develops the previously weak political
+channel in depth (issue-based mobilisation, global-discourse absorption,
+political consumerism, diaspora feedback loop), states the
+engagement-participation-gap and polarisation-risk counterpoints, and
+supplies a dedicated 15-mark answer spine.
+
+**Authoritative reference routes:** the file's own PLFS/NFHS evidence base
+for the social/economic channels; standard political-sociology literature on
+digital/issue-based youth mobilisation for the political channel. No protest
+turnout, membership or vote-share figure is quoted from memory.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
@@ -351,6 +461,8 @@ claiming technology is inherently green or destructive.
 - **Verified PYQ ownership, 2018-2026:** direct routes cover globalisation and
   cultural specificity in 2018, global/local identity in 2019, pluralism in
   2020, technology and scarce resources in 2022, women's urban migration in
-  2024 and consumer culture in 2025. The 2025 fast-food demand remains
-  Social Change-owned in the audited ledger despite a local owner conflict. No
+  2024, consumer culture in 2025 and the four-sphere (social/political/
+  economic/cultural) impact on youth in 2026 Q20. The 2025 fast-food demand
+  remains Social Change-owned in the audited ledger despite a local owner
+  conflict. No
   unavailable 2026 demand, market share or migration statistic is invented.

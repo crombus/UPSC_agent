@@ -1,16 +1,39 @@
 # GS-IV Ethics, Integrity and Aptitude - Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> structures GS-IV theory answers; Section-B cases continue to use the dedicated case-study method.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes theory concepts, thinkers and case-study signals to their ethical owners.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes values, virtues, attitudes, conflicts, accountability and ethical theories.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies qualified public-service and community ethics examples.
+
 > **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
 
 > **Subject:** Ethics (GS Paper IV) | **Spine:** 2nd Administrative Reforms Commission (ARC), 4th
 > Report, *Ethics in Governance* (2007) + official UPSC GS-IV syllabus + audited, topic-owning UPSC
-> GS-IV PYQs (2013-2025, with the complete local 2024-2025 papers as the recent corpus) +
+> GS-IV PYQs (2013-2026, with complete local 2024-2026 papers as the recent corpus) +
 > DoPT/CVC/Lokpal/RTI/Companies Act official material.
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Major panels:** [`_revision/Major-Committees-Commissions-and-Reports.md`](_revision/Major-Committees-Commissions-and-Reports.md)
+> maps integrity, anti-corruption, transparency and civil-service ethics committees.
+> **Landmark judgments:** [`../LANDMARK-JUDGMENTS-INDEX.md`](../LANDMARK-JUDGMENTS-INDEX.md)
+> supplies public-integrity, transparency, accountability and constitutional-morality cases.
+> **Major Acts:** [`../MAJOR-ACTS-INDEX.md`](../MAJOR-ACTS-INDEX.md)
+> maps RTI, Lokpal, CVC, anti-corruption, whistle-blower and illicit-assets law.
+> **Indices and reports:** [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
+> maps corruption, budget openness, rule of law, governance and justice evidence.
+> **Institutions and regulators:** [`../INSTITUTIONS-AND-REGULATORS-INDEX.md`](../INSTITUTIONS-AND-REGULATORS-INDEX.md)
+> maps vigilance, ombudsman, audit, information, investigation and integrity institutions.
 > **Pre-exam revision:** [`REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md`](REVISION-CHART_Values-Dilemmas-and-Distinctive-Features.md)
 > compresses all 23 Core/Advanced pairs into a single Section-A concept map,
 > Section-B eight-element decision framework (hard-threshold vs weighted checks, steelman,
 > residual-risk close), comparison sheet and example bank.
+> **2026 routing:** [`_PYQ-GS4-SectionA-2026.md`](_PYQ-GS4-SectionA-2026.md)
+> routes all 13 theory parts; [`_PYQ-GS4-SectionB-2026.md`](_PYQ-GS4-SectionB-2026.md)
+> routes all 12 case-study subparts.
 
 ---
 
@@ -124,7 +147,7 @@ Full local map: [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAP
 | `Quality of service delivery,` | **COVERED** | [`basic/17_Citizens-Charters-Work-Culture-and-Service-Delivery.md`](basic/17_Citizens-Charters-Work-Culture-and-Service-Delivery.md), [`advanced/17_Citizens-Charters-Work-Culture-and-Service-Delivery.md`](advanced/17_Citizens-Charters-Work-Culture-and-Service-Delivery.md) | The same owner file integrates service standards, charter design and enforceability. |
 | `Utilization of public funds,` | **COVERED** | [`basic/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md`](basic/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md), [`advanced/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md`](advanced/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md) | Topic 18 explicitly routes 2025 Q6(b) on India's rise alongside underutilised / misused funds. |
 | `challenges of corruption.` | **COVERED** | [`basic/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md`](basic/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md), [`basic/19_Corruption-Legal-Framework.md`](basic/19_Corruption-Legal-Framework.md), [`basic/20_Anti-Corruption-Institutions.md`](basic/20_Anti-Corruption-Institutions.md), [`basic/21_Protecting-Honest-Officials-and-Vigilance-Administration.md`](basic/21_Protecting-Honest-Officials-and-Vigilance-Administration.md) plus advanced companions | Corruption is deliberately split into public-fund use, law, institutions and protection-of-the-honest, each with its own PYQ application section. |
-| `Case Studies on above issues.` | **COVERED** | [`basic/22_Case-Study-Method-and-Answer-Architecture.md`](basic/22_Case-Study-Method-and-Answer-Architecture.md), [`advanced/22_Case-Study-Method-and-Answer-Architecture.md`](advanced/22_Case-Study-Method-and-Answer-Architecture.md), [`basic/23_Comparative-and-Named-Real-Case-Studies.md`](basic/23_Comparative-and-Named-Real-Case-Studies.md), [`advanced/23_Comparative-and-Named-Real-Case-Studies.md`](advanced/23_Comparative-and-Named-Real-Case-Studies.md) | The recent audited Section B bank is fixed as 2024/2025 Q7-Q12, with Topic 22 owning method and Topic 23 owning named-case reinforcement; domain modules include named POSH (Internal Committee/IC), GFR-propriety (goods vs works-splitting scope) and cross-border non-refoulement (interim-order caution) anchors, plus a custodial-justice/police-excess module (D.K. Basu safeguards). |
+| `Case Studies on above issues.` | **COVERED** | [`basic/22_Case-Study-Method-and-Answer-Architecture.md`](basic/22_Case-Study-Method-and-Answer-Architecture.md), [`advanced/22_Case-Study-Method-and-Answer-Architecture.md`](advanced/22_Case-Study-Method-and-Answer-Architecture.md), [`basic/23_Comparative-and-Named-Real-Case-Studies.md`](basic/23_Comparative-and-Named-Real-Case-Studies.md), [`advanced/23_Comparative-and-Named-Real-Case-Studies.md`](advanced/23_Comparative-and-Named-Real-Case-Studies.md) | The audited Section-B bank covers 2024-2026 Q7-Q12. Topic 22 owns method and six 2026 domain modules; Topic 23 owns named-case reinforcement, including medical consent, algorithmic fairness, restriction proportionality, POSH, GFR propriety, non-refoulement and custodial safeguards. |
 
 ## Study sequence
 
@@ -170,3 +193,40 @@ Full local map: [`OFFICIAL-UPSC-SYLLABUS-MAPPING.md`](OFFICIAL-UPSC-SYLLABUS-MAP
 - ⚠️ Not usable as a source: the local `books/Ethics,_Integrity_&_Aptitude_S_Ansari_Sir...pdf` is a
   421-page scan of *handwritten* class notes with no text layer; OCR of every page yields
   unreliable text, so nothing in this folder is sourced to it.
+
+## Physical-book reading index
+
+> **Confirmed book:** Chronicle, *Lexicon for Ethics, Integrity and Aptitude*.
+>
+> **Edition rule:** use the topic titles below because chapter numbering varies across
+> editions. Lexicon is the quick conceptual/revision source; the `basic/` owners control
+> answer architecture, current law and the complete 2026 PYQ routes.
+
+| Lexicon topic | Priority | Knowledge route | Reading instruction |
+|---|---|---|---|
+| Ethics, morality, values, determinants and consequences | **A** | Topic 01 | Learn definitions through distinctions and examples, not isolated quotations |
+| Human values, family, society, education and leaders | **A** | Topic 02 | Build value-source-example-public-service application chains |
+| Attitude, moral/political attitudes, influence and persuasion | **A** | Topic 03 | Read components, functions, change and administrative applications |
+| Aptitude and foundational civil-service values | **A** | Topic 04 | Compare integrity, impartiality, objectivity, empathy, tolerance and compassion |
+| Emotional intelligence | **A** | Topic 05 | Learn components, administrative use, limitations and conflict management |
+| Indian thinkers | **A** | Topic 06 | Extract principle -> administrative application -> limitation |
+| Western thinkers and moral theories | **A** | Topics 07-08 | Read only UPSC-usable doctrines; avoid biography-heavy notes |
+| Public-service ethics and ethical dilemmas | **A** | Topic 09 | Read conflict types, stakeholder duties and resolution tests |
+| Laws, rules, conscience and sources of guidance | **A** | Topic 10 | Build law-vs-ethics-vs-conscience comparison |
+| Accountability and ethical governance | **A** | Topic 11 | Read responsibility, answerability, enforcement and institutional ethics |
+| International ethics, corporate governance and CSR | **B** | Topic 12 | Learn principles and a few defensible examples |
+| Technology, AI, media and environmental ethics | **B** | Topic 13 | Use Lexicon for principles; current cases come from dated sources |
+| Probity in governance | **A** | Topics 14-21 | Highest-priority administrative block: RTI, codes, charters, work culture, public funds, corruption and vigilance |
+| Case-study approach and solved cases | **A** | Topics 22-23 | Practise stakeholder mapping, options, ethical tests, decision, implementation and residual risk |
+| Quotations and miscellaneous example lists | **C** | Topics 02, 06-09 | Use only after checking attribution and relevance |
+
+### Reading method
+
+1. Read the matching Lexicon concept.
+2. Convert it into a definition, contrast, Indian example and administrative application.
+3. Open the matching Core owner for objections, safeguards, current law and PYQs.
+4. Solve one Section A prompt and one case-study subpart.
+
+**Limits:** Lexicon is not authority for changing statutes, case law, institutional status or
+current examples. Do not reproduce memorised definitions or quotations without applying them
+to the demand.

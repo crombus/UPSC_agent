@@ -1,5 +1,13 @@
 # World History - Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> provides causal, comparative and consequence-based Mains architectures.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes revolution, industrialisation, war and ideological-change signals.
+
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies concise comparative examples for revolution, war, decolonisation and international order.
+
 > **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 
@@ -19,6 +27,8 @@
 > Archives material where relevant, and standard reference historiography, with inference
 > clearly separated from sourced fact.
 > **Start here:** `00_Master-Chronology.md`.
+> **Cross-period chronology sheets:** [`../HISTORY-CHRONOLOGY-SHEETS.md`](../HISTORY-CHRONOLOGY-SHEETS.md)
+> provide a rapid revolutions-wars-decolonisation-international-order ladder.
 > **Pre-exam revision:** [Ages, Revolutions and Distinctive Features Chart](REVISION-CHART_Ages-Eras-and-Distinctive-Features.md).
 
 ---
@@ -174,3 +184,31 @@
   Revolution primary-source grounding, Topic 02).
 - Audited UPSC GS-I/GS-II syllabus lines and recurring-theme patterns (no invented PYQ question
   numbers).
+
+## Physical-book chapter reading index
+
+> **Confirmed book:** Norman Lowe, *Mastering Modern World History*. It is the
+> primary physical source from 1914 onward, not for the eighteenth- and
+> nineteenth-century foundation topics.
+
+| Lowe chapters | Priority | Knowledge route | Reading instruction |
+|---|---|---|---|
+| Ch. 1 - World in 1914 / outbreak of war | **A** | Topic 09 | Read alliance, imperial, nationalist, military and decision-level causes |
+| Ch. 2 - First World War and settlement | **A** | Topic 10 | Read course selectively; prioritise consequences and Versailles |
+| Chs. 3-5 - International relations, 1919-39 | **A** | Topic 11 | Read League, collective security, Depression-era diplomacy and appeasement |
+| Ch. 6 - Second World War | **A** | Topic 14 | Read causes, turning points, Holocaust and consequences |
+| Chs. 7-8 and 11 - Cold War relations and Middle East | **A** | Topic 15 | Build phase-crisis-detente-end tables; read Middle East as both regional and great-power arena |
+| Ch. 9 - United Nations | **A** | Topic 16 | Read origins, organs, peacekeeping, achievements and structural limits |
+| Ch. 10 and Ch. 12 - European integration and post-Cold-War order | **A** | Topic 21 | Read integration stages, USSR-end consequences and new security challenges |
+| Chs. 13-15 - Italy, Germany and Japan | **A** | Topic 12 | Compare fascism, Nazism and Japanese militarism; do not collapse them into one model |
+| Chs. 16-17 - Russian Revolution and Stalin | **A** | Topic 13 | Read 1917 causes/stages, consolidation, economic transformation and repression |
+| Ch. 18 - USSR collapse | **A** | Topic 21 | Read structural and agency explanations comparatively |
+| Chs. 19-21 - China and communism in Asia | **A** | Topic 17 | Read Chinese Revolution, Mao era, reform transition and Asian communist cases |
+| Ch. 22 sections on Depression/New Deal | **A** | Topic 20 | Extract policy instruments, outcomes and limitations |
+| Chs. 24-25 - Decolonisation in Africa and Asia | **A** | Topic 18 | Compare negotiated, violent and settler-colonial routes and postcolonial problems |
+| Ch. 26 - Latin America | **B** | Topic 19 | Read US influence, revolution, authoritarianism, debt and social effects |
+| Chs. 27-28 - World economy and population | **B** | Topic 20 | Read historical trends and mechanisms; do not retain old statistics as current |
+
+**Separate mandatory foundation:** Topics 01-08 - Enlightenment, American and French
+Revolutions, Industrial Revolution, Vienna, national unifications, imperialism and Latin
+American independence - must be read from the Core owners/NCERT because Lowe begins in 1914.

@@ -9,16 +9,19 @@
 > closing formula, written-order response to oral pressure, the whistleblowing/dissent ladder,
 > resignation as a last resort, and triage) needed to write a complete Section-B answer without
 > reference to any other file.
-> **Grounded in:** Official UPSC GS-IV Section-B case-study format; audited GS-IV PYQs (2024-2025
+> **Grounded in:** Official UPSC GS-IV Section-B case-study format; audited GS-IV PYQs (2024-2026
 > Mains case studies — DC Vijay disaster-management case, tech-company AI/environment case, Rajesh
-> GFR-splitting case, Ashok cross-border-influx case, Subash conflict-of-interest case); moral
+> GFR-splitting case, Ashok cross-border-influx case, Subash conflict-of-interest case, and the six
+> 2026 cases: Lata/Dr Mansi therapeutic consent, SP Ravi predictive policing, DC Seema tout network,
+> DC Vikas biometric PDS exclusion, DM Rajan ethnic conflict, Ajit arms-export due diligence); moral
 > theories from `08`; ARC-derived concepts (`01`, `09`, `14`, `18`, `19`, `21`); Vishaka & Ors v.
 > State of Rajasthan (1997) 6 SCC 241; the Sexual Harassment of Women at Workplace Act, 2013;
 > ICMR National Ethical Guidelines for Biomedical and Health Research Involving Human Participants,
 > 2017; GFR 2017 Rule 157; NHRC v. State of Arunachal Pradesh (1996) 1 SCC 742; Mohammad Salimullah
 > v. Union of India (2021); D.K. Basu v. State of West Bengal, (1997) 1 SCC 416; Justice K.S.
-> Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1; the Digital Personal Data Protection Act,
-> 2023.
+> Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1; Samira Kohli v. Dr. Prabha Manchanda,
+> (2008) 2 SCC 1; Anuradha Bhasin v. Union of India, (2020) 3 SCC 637; the Digital Personal Data
+> Protection Act, 2023.
 > ✅ = PYQ/source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/22_Case-Study-Method-and-Answer-Architecture.md` (deeper theoretical
 > refinement of the same mechanics); this file is the self-sufficient Basic version.*
@@ -399,7 +402,10 @@ compensation funds) for every claimant, the defensible method is:
 ## 14. Domain modules and fully worked eight-element cases
 
 ⚠️ Each module below applies the full eight-element architecture (Sec. 1) to a distinct GS-IV case
-family. Together they give Basic-alone coverage of every major family audited in 2018-2025 papers.
+family. Together they give Basic-alone coverage of every major family audited in 2018-2026 papers.
+Sec. 14.16-14.21 are the six 2026 Section-B families; Sec. 14A extracts the four generic templates
+that recur across them, so that an unseen case can be answered from the template even where no
+domain module fits. Subpart-level routing for 2026 Q7-Q12 is in `../_PYQ-GS4-SectionB-2026.md`.
 
 ### 14.1 Procurement/GFR expenditure-splitting and sanction evasion (anchor: 2025 GS-IV Q10, Rajesh)
 
@@ -1005,6 +1011,806 @@ professional-duty tension recurs across disaster/crisis case studies.
   every instance of pressure, reviewed periodically by an authority independent of the Corporation's
   own management chain.
 
+### 14.16 Therapeutic consent and surgical paternalism (anchor: 2026 GS-IV Q7, Lata / Dr Mansi)
+
+> **Routing:** this module answers **both** subparts of 2026 GS-IV Q7 — (a) "Discuss the ethical
+> issues involved in this case" and (b) "Discuss the moral conduct of the doctor in this situation".
+> Full subpart decode in `../_PYQ-GS4-SectionB-2026.md`.
+
+- **Facts:** ✅ Lata, a mother of two, is admitted for acute abdominal pain; her sister-in-law
+  Sujatha accompanies her. Dr Mansi recommends a **diagnostic laparoscopy** and Lata's consent is
+  taken for that procedure under general anaesthesia. Intra-operatively the team finds a uterine
+  tumour that closer examination suggests **could be** malignant. Dr Mansi's choice is between
+  taking a biopsy sample (risking a second surgery if malignancy is confirmed) and removing the
+  uterus at once. With Lata unconscious, Dr Mansi explains the position to Sujatha, who consents in
+  writing; the hysterectomy is performed. Lata is told the next day, feels betrayed, complains to
+  the police — who try to convince her the doctor acted with good intention — and, with Sujatha also
+  taking the doctor's side, decides to approach the court.
+- **Stakeholders:** Lata (bodily integrity, reproductive and decisional autonomy, dignity, trust in
+  medicine); Dr Mansi (professional duty, clinical judgement, legal exposure); Sujatha and the
+  family; the operating team and the hospital; future patients whose willingness to undergo
+  diagnostic procedures depends on confidence that consent limits will be respected; the silent
+  stakeholder — the profession's own credibility.
+- **Constraints:** ⚠️ the decision had to be taken within the operative window, under anaesthesia,
+  on an *uncertain* ("could be malignant") finding rather than a confirmed one; there is **no
+  stated immediate threat to life** and no fact suggesting that closing, waking the patient and
+  re-consenting was clinically unreasonable; Lata is a **competent adult**, so no lawful proxy
+  arises; the original consent is for a **diagnostic** procedure, and the intra-operative finding
+  was foreseeable enough that prospective consent for an extended procedure could have been sought
+  pre-operatively but was not.
+- **The consent-validity test (generic template — Sec. 14A.1) applied:** competence — present, Lata
+  is an adult of sound mind; voluntariness — not in issue; adequate information — Lata was never
+  informed of the tumour or the hysterectomy option at all; **scope** — consent covered diagnosis,
+  not organ removal; **emergency exception** — not made out, since the exception requires *both* an
+  immediate threat to life or health *and* that waiting for consent would be unreasonable, and
+  neither is established on these facts.
+- **Options:** (a) take a biopsy sample, close, reverse anaesthesia, disclose the finding fully, and
+  obtain Lata's own specific informed consent for hysterectomy if the histology indicates it —
+  accepts the burden and cost of a second surgery, but preserves autonomy and keeps the decision
+  with the person whose body and fertility are at stake; (b) where available, seek an
+  **intra-operative frozen-section** consultation to reduce diagnostic uncertainty, while still
+  deferring any organ removal in the absence of prospective consent — better information, same
+  autonomy-respecting limit, but availability-dependent; (c) proceed on the relative's written
+  consent, as actually done — spares a second surgery and is subjectively benevolent, but fails the
+  hard threshold, because a competent adult's consent cannot be substituted by a relative's absent
+  incapacity plus emergency; (d) remove the uterus **only** if the necessity conditions genuinely
+  exist and are contemporaneously documented in the operation notes — legitimate in principle, but
+  not available here because those conditions are not made out.
+- **Ethical evaluation:** ✅ *Samira Kohli v. Dr. Prabha Manchanda*, (2008) 2 SCC 1 (decided 16
+  January 2008) is the near-identical named anchor — consent for a diagnostic/operative laparoscopy,
+  hysterectomy plus bilateral salpingo-oophorectomy performed on the **mother's** consent while the
+  patient was under general anaesthesia. Its holdings supply the hard threshold: consent must be
+  **real and valid** (capacity, voluntariness, adequate information about nature, purpose,
+  alternatives and risks); consent to a **diagnostic** procedure does not extend to additional
+  therapeutic surgery unless it is necessary to save life or preserve health and waiting would be
+  unreasonable; and where the patient is a competent adult, **no question arises of another person
+  consenting on her behalf**. Full case detail, including the Court's own mitigating observations on
+  the doctor's bona fides, is in `23_Comparative-and-Named-Real-Case-Studies.md` Sec. 4.5.
+  ⚠️ Applying the four principles: **autonomy** is violated outright; **beneficence** is genuinely
+  present in motive but beneficence is not a licence to override a competent patient (this is
+  **strong/hard paternalism** — overriding a competent person's choice for her own good — not the
+  weak/soft paternalism that merely protects someone whose decision-making is impaired);
+  **non-maleficence** is engaged because an irreversible, fertility-ending harm was imposed on an
+  *uncertain* diagnosis; **justice** is engaged because the burden of the clinician's convenience
+  fell wholly on the patient. **Therapeutic privilege** — withholding information a patient would
+  find distressing — does not apply, because nothing was withheld *from a conscious patient*; the
+  patient was simply never asked. **Steelmanning the strongest counter-argument:** the strongest
+  case for Dr Mansi is that a second general anaesthetic carries its own real risk, that delay in a
+  possibly malignant case may worsen prognosis, and that the nearest available relative consented in
+  writing in good faith — met by noting that (i) the malignancy was unconfirmed, so the "delay
+  harms" premise was speculative while the harm inflicted was certain and irreversible, (ii) the
+  risk of a second anaesthetic is exactly the kind of trade-off the patient herself is entitled to
+  weigh against permanent loss of her uterus, and (iii) a written consent from a person with no
+  legal authority to give it adds documentation, not validity.
+- **Decision:** Option (a), supplemented by (b) where frozen-section facility exists — sample, close,
+  disclose, and re-consent. Legality and validity of consent function as the **hard threshold**;
+  dignity/compassion and long-term institutional trust are the decisive **weighted** checks.
+- **(b) — appraising the moral conduct of the doctor** ⚠️ (the subpart most candidates collapse into
+  (a)): separate three distinct questions. **Motive** — benevolent, and this matters to culpability
+  and to sentence/damages, which is why the police and Sujatha find it exculpatory. **Rightness of
+  the act** — the act was nevertheless wrong, because good intention cannot supply an authority the
+  doctor did not have; on a Kantian reading the patient was treated as a body to be optimised rather
+  than an end in herself, and on a virtue reading the doctor displayed clinical decisiveness and
+  benevolence but *not* the professional virtues of fidelity to the patient's own voice, humility
+  about diagnostic uncertainty and candour. **Conduct after the fact** — disclosing the next day was
+  correct but late; what compounds the wrong is the attempt to *manage* Lata's reaction, with the
+  police and the family enlisted to "convince" her rather than to inform and redress her. A doctor's
+  post-facto duty is disclosure, apology, explanation and an undeflected grievance route — persuasion
+  aimed at deterring a complaint substitutes reputational management for accountability. ⚠️ The
+  balanced verdict an examiner rewards: **not malicious, but not defensible** — a good-faith
+  clinician who committed a serious autonomy violation and then handled its aftermath as a public-
+  relations problem rather than an ethical one.
+- **Implementation/communication:** full, documented disclosure to Lata at the earliest moment she
+  is fit to receive it, in plain language, including what was found, what was done, why, and what it
+  means for her; a written record in the operation notes of the intra-operative reasoning; reference
+  of the incident to the hospital's **clinical ethics committee** for review (the therapeutic
+  analogue of the Institutional Ethics Committee in the research case at Sec. 14.4 — do not confuse
+  the two fora); counselling and continuing care for Lata; preservation, not obstruction, of her
+  right to approach the State Medical Council, a consumer forum or the court.
+- **Residual risk:** ⚠️ the same situation will recur in the next operating theatre unless the
+  system changes — mitigate through a standing **pre-operative extended-procedure discussion** in
+  which foreseeable intra-operative findings and the patient's prospective wishes are documented
+  before anaesthesia; a written hospital policy on who may consent and when (making explicit that a
+  relative's consent is not valid for a competent adult); frozen-section and second-opinion
+  protocols for intra-operative malignancy decisions; and an audit of consent forms owned by the
+  ethics committee rather than by the treating unit.
+- ⚠️ **Statutory-citation caution:** the professional-conduct regulations on written consent before
+  operations, and the penal-code "good faith" provisions formerly numbered in the IPC, have both
+  been superseded or renumbered (the National Medical Commission regime replacing the MCI
+  regulations; the Bharatiya Nyaya Sanhita, 2023 replacing the IPC). Cite the *principle* and the
+  named judgment; verify current instrument and section numbers before quoting them in a live
+  answer, exactly as Sec. 14.12 cautions for the custodial-safeguard provisions.
+
+### 14.17 AI-assisted predictive policing and crowd biometrics (anchor: 2026 GS-IV Q8, SP Ravi)
+
+> **Routing and ownership:** the **substantive AI-ethics doctrine** — algorithmic bias, opacity,
+> contestability, automation bias, *Puttaswamy* proportionality and the DPDP Act's purpose-limitation
+> principle — is owned by `13_Emerging-Ethics-Technology-AI-and-Environment.md`; the data-sharing
+> decision template is at Sec. 14.13 of this file. **This module does not restate that doctrine**;
+> it supplies the *case architecture and option set* for a **deployed surveillance system**, which
+> Sec. 14.13 does not cover (Sec. 14.13 is about a one-off disclosure request, not about continuing
+> or suspending a system already in operation).
+
+- **Facts:** ✅ Ravi, an SP with riot-control and cyber-policing experience, has for six months run
+  an AI-enabled predictive-policing system he himself sought; it **captures biometric data of
+  persons in a crowd** and matches it against a data library, enabling identification of persons
+  involved in various crimes. The system has flagged an **immigrant and low-income neighbourhood**
+  as a centre for gang violence and drug trafficking; police have concentrated patrolling,
+  **preventive detentions** and checkposts there, and public order has **visibly improved**.
+  Community leaders, civil-rights lawyers and human-rights activists have submitted a memorandum
+  alleging the system is faulty because it rests on **incorrect historical data caused by social
+  biases and discriminatory policing**, that surveillance has created a climate of tension, and that
+  **residents are not aware of the data noted against their names**.
+- **Stakeholders:** residents of the flagged neighbourhood (liberty, privacy, dignity,
+  non-discrimination, and the right to know and contest what is recorded against them); victims and
+  potential victims of gang violence and trafficking, who have gained from improved order; the
+  police force and Ravi's own command responsibility; the memorandum's signatories; the persons
+  already preventively detained on AI-derived grounds; the vendor; ⚠️ the silent stakeholder — every
+  future policing technology, whose acceptability depends on how this one is handled.
+- **Constraints:** the improvement in public order is a **real** benefit, not a pretext, so a purely
+  abolitionist answer must pay for what it gives up; the bias allegation is an allegation, not yet a
+  finding, and Ravi cannot adjudicate it himself; he commands a district, not the state's data or
+  procurement policy, so some remedies must be recommended upward rather than ordered; preventive
+  detention and crowd biometric capture each require their own lawful basis, which the case does not
+  state; and the system is already operational, so inaction is itself a decision.
+- **The specific ethical issues (subpart (a), "including biases")** ⚠️ — name them, do not narrate:
+  1. **Feedback-loop / "dirty data" bias** — the decisive concept, and precisely what the memorandum
+     asserts. Historic arrest and complaint records are a record of **past enforcement**, not of past
+     crime; a neighbourhood historically over-policed generates more recorded contacts, which trains
+     the model to direct more patrolling there, which generates more contacts, which the system then
+     reads as confirmation. The loop is self-validating and invisible from inside the output.
+  2. **Proxy discrimination** — immigration status, postcode, income or language are not protected
+     characteristics on the model's face but stand in for them, producing disparate impact on a
+     group without any explicitly discriminatory rule.
+  3. **Automation bias and discretion-laundering** — officers defer to a machine output because it
+     appears objective, and a contestable human judgement is re-labelled as a technical finding that
+     nobody in the chain feels responsible for.
+  4. **Opacity and absence of contestability** — the sharpest fact in the case is that residents do
+     not know what is recorded against them; a person who cannot see an adverse record cannot
+     correct it, and an uncorrectable record is a permanent, unaccountable disadvantage.
+  5. **Anticipatory adverse action** — preventive detention and checkposts impose present costs on
+     the basis of *predicted* rather than committed conduct; the higher the predictive error rate in
+     a group, the more of that group bears a cost for something it has not done.
+  6. **Consent, purpose and function creep** — biometric capture of an entire crowd sweeps in people
+     under no suspicion whatever, and a tool procured for one purpose migrates to others.
+  7. **Accountability non-delegation** — ⚠️ the principle `13` states directly: algorithmic
+     accountability cannot be transferred to the algorithm. The lawful act is the officer's.
+  8. **Distributive question** — the benefit (public order) and the burden (surveillance,
+     detention, suspicion) fall on **overlapping but not identical** populations, and the burdened
+     population is the least politically able to object.
+- **Options:** (a) retain the system unchanged, treating the visible improvement in public order as
+  vindication — ⚠️ the trap option: an outcome gain does not validate the means, and it leaves the
+  discrimination allegation permanently unexamined; (b) shut the system down entirely and revert to
+  conventional policing — forfeits a genuine safety gain, is disproportionate to an unproven
+  allegation, and, by removing the system, also removes the data that would have allowed the bias to
+  be measured and corrected; (c) **calibrated suspension plus audit plus due process** — suspend
+  person-level automated targeting and automated crowd-biometric matching; retain place- and
+  time-based deployment, which rests on incident geography rather than on individual profiling;
+  commission a **time-bound independent bias and data-provenance audit** that tests error rates by
+  group and questions the arrest-record baseline itself; require human-in-the-loop with **recorded
+  written reasons** for every preventive action, so that no coercive step rests on a machine output
+  alone; give persons flagged **notice and a correction/contestation route**; review every preventive
+  detention already made on AI-derived grounds; publish a district AI-use policy covering purpose
+  limitation, retention limits, access logs and a periodic disparate-impact report; and convene a
+  standing community-liaison mechanism that includes the memorandum's signatories; (d) receive the
+  memorandum, order an internal review by the same unit that operates the system, and change nothing
+  — cosmetic, and far more damaging to trust when it later emerges that the review was captive.
+- **Ethical evaluation:** **hard thresholds** — legality of each coercive step (the biometric
+  capture, the detentions) and non-discrimination under Articles 14/15; an unlawful or
+  disparate-impact-producing practice is eliminated, not weighed against the order gains. The
+  decisive **weighted** checks are **transparency/contestability** and **proportionality**: option
+  (c) is the least restrictive measure that still preserves the genuine public-safety benefit, while
+  (b) over-corrects and (a)/(d) under-correct. ⚠️ Note the direction of the burden of proof: because
+  the affected residents cannot see their own data, they *cannot* substantiate the memorandum — so
+  treating "no proof of bias" as a reason for inaction rewards the very opacity complained of.
+  **Steelmanning the strongest counter-argument:** suspending person-level targeting will cost
+  lives, reverse a visible gain and be read by the force as the administration siding with agitators
+  — met by (i) retaining lawful place-based deployment so operational capability is not surrendered,
+  (ii) making the audit strictly time-bound rather than open-ended, with a published completion
+  date, and (iii) framing the decision to the force as protecting the *durability* of the tool,
+  since a system found discriminatory after a scandal is lost permanently, while one audited and
+  corrected survives.
+- **Decision:** Option (c). If asked to name a single decisive reason, it is that a coercive state
+  action against an identified individual must rest on evidence the individual can see and contest —
+  and everything else in the package follows from that.
+- **Implementation/communication:** a written order recording the suspension of person-level
+  automated targeting and its scope; written terms of reference for the audit, with external
+  auditors and an explicit instruction to test the arrest-data baseline rather than assume it;
+  briefing the force on what is retained and why, in operational rather than apologetic terms; a
+  reply to the memorandum's signatories stating what is being done, by when, and what they will be
+  shown; nothing said publicly that prejudges either the bias allegation or the pending cases.
+- **Residual risk:** ⚠️ the audit may itself be conducted on the same contaminated data and
+  reproduce its conclusions — mitigate by using independent/academic auditors, by benchmarking
+  against **victimisation-survey** data rather than arrest counts, by naming an accountable officer
+  for the published report, and by scheduling a second review after the corrected system has run
+  long enough to generate fresh outcome data. A second residual risk is displacement — crime moving
+  rather than reducing — which the place-based component must be monitored for.
+- ⚠️ **Comparator caution:** foreign instruments that distinguish permissible evidence-linked,
+  place-based prediction from impermissible profiling-based individual criminal-risk assessment are
+  useful for drawing that line precisely, but they are **foreign law with no application in India**
+  and must be labelled as illustrative comparators. See `23_Comparative-and-Named-Real-Case-Studies.md`
+  Sec. 4.6, and `13_Emerging-Ethics-Technology-AI-and-Environment.md` for the Indian constitutional
+  and statutory anchors, which do the actual work.
+
+### 14.18 Entrenched intermediary (tout) network with service continuity (anchor: 2026 GS-IV Q9, DC Seema)
+
+> **Routing and ownership:** the offence and sanction law is owned by
+> `19_Corruption-Legal-Framework.md` (PC Act ss. 7, **7A**, 8, 13, 17A, 19); the reporting channels
+> by `20_Anti-Corruption-Institutions.md` (CVO/CVC, PIDPI, state ACB); the screening and
+> secret-preliminary-verification sequence by
+> `21_Protecting-Honest-Officials-and-Vigilance-Administration.md` (ARC 7.9(a)-(d) and the six-step
+> implementation sequence); and the **service-delivery continuity** instruments — single-window
+> receipt, published timelines, deemed approval with pre-conditions, process redesign before
+> digitisation — by `17_Citizens-Charters-Work-Culture-and-Service-Delivery.md`. This module
+> assembles them into one decision; it does not restate them.
+
+- **Facts:** ✅ Seema, a senior bureaucrat known for honesty and professional efficiency, is newly
+  posted as District Collector of Surinder Nagar, where a large industrial area is coming up.
+  Farmers have filed a large volume of **change-of-land-use (CLU)** applications; there is an
+  unusually large backlog. Some applications have been **approved selectively with no visible
+  chronological pattern**; case files contain a few complaints of approvals being subject to receipt
+  of large bribes. Fact-finding shows a **small group of touts** controlling the activity **through
+  some subordinate officials in the Collectorate**, which has created **fear among the other
+  employees, who are reluctant to process any application**. The backlog is hindering local economic
+  progress and causing public dissatisfaction. An aggressive internal investigation would provoke
+  institutional resistance and possible **labour-union backlash**; ignoring the situation would
+  embolden the wrongdoers and continue avoidable harassment of the public.
+- **Stakeholders:** applicant farmers (entitled to a lawful, timely decision either way, and
+  currently paying twice — in money to touts and in time to the backlog); the frightened honest
+  majority of Collectorate staff; the colluding subordinates and the touts; the employees' union;
+  Seema herself; the district's economy and the state's investment credibility; ⚠️ the silent
+  stakeholder — every future applicant who will learn from this episode whether the counter or the
+  tout is the faster route.
+- **Constraints:** the complaints are **few and on file**, i.e. evidence is thin and mostly
+  untested, so mass punitive action would be action ahead of proof; PC Act s. 17A prior approval
+  applies where the alleged conduct is **relatable to a recommendation made or decision taken in
+  discharge of official functions**, which the selective approvals are; suspension and charge-sheet
+  powers run through the applicable service rules and, for many Collectorate posts, not through the
+  DC alone; the office must keep functioning throughout — a paralysed Collectorate harms exactly the
+  applicants the action is meant to protect; and an open inquiry would immediately warn the network
+  and destroy the paper and money trail.
+- **Ethical issues (subpart (a))** ⚠️ — name them precisely: **hybrid coercive-plus-collusive
+  corruption** (citizens are extorted for an approval many are entitled to — coercive; the touts and
+  the subordinates share the rent — collusive: the classification and its differing remedies are in
+  `19`); **harassment corruption as a continuing injury**, so every day of inaction is a fresh harm,
+  not a neutral pause; **queue-jumping as a distributive wrong**, since non-chronological approval
+  converts a right into a purchasable privilege; **abuse of discretion and capture of process by
+  intermediaries**; **fear as an administrative fact** — the honest majority's paralysis is itself an
+  ethical harm and its protection is a duty, not a courtesy; **institutional credibility**, since
+  the touts' power rests entirely on the public belief that the official route does not work; and
+  the **risk of injustice in the remedy** — a sweeping crackdown that sweeps up the innocent would
+  reproduce, in reverse, the arbitrariness being attacked.
+- **Options:** (a) immediate mass suspensions and an aggressive, open inquiry — satisfying,
+  visible and morally legible, but evidence-thin, likely to collapse on appeal, guaranteed to
+  trigger union backlash, and it halts the office, which punishes the applicants; (b) tolerate the
+  situation, keep the peace, and leave it to a successor — abdication: it emboldens the network,
+  continues public harassment and ratifies the fear; (c) **parallel two-track action — continuity
+  track plus accountability track, running simultaneously** (the generic template at Sec. 14A.3):
+  - *Continuity track (restores service and dissolves the tout's rent):* a written, published
+    **chronological/FIFO disposal order** with any exception requiring recorded reasons; a **dated
+    pendency dashboard** published so the queue is visible to every applicant; a **single-window
+    receipt counter issuing dated acknowledgments**, so that no applicant ever needs an intermediary
+    to know where a file is; **random or committee-based allocation** of files instead of fixed
+    desk-to-file mapping; statutory/administrative **time limits with automatic escalation**; and
+    Seema's own signature on a published weekly disposal report. ⚠️ The logic is economic, not
+    merely administrative: a tout's income is the price of information and certainty in an opaque
+    queue — publish the queue and the price collapses.
+  - *Accountability track (builds a case that will survive):* a **secret preliminary verification**
+    under ARC 7.9(b) rather than an open inquiry, precisely because secrecy both preserves evidence
+    and protects the reputation of officials who turn out to be innocent; a **file audit** of the
+    non-chronological approvals against dates of receipt; referral to the **CVO and the state ACB**
+    for trap or surveillance action against the touts, with **s. 17A** approval obtained where the
+    conduct is decision-related; **suspension confined to those against whom material actually
+    exists**; and a **protected reporting channel** (PIDPI-style confidentiality) so the frightened
+    honest staff can speak without exposure.
+  - (d) refer the entire matter upward and await instructions — lawful, safe, and an abdication of
+    the discretion the post exists to exercise; it also leaves the backlog untouched.
+- **Ethical evaluation:** legality/propriety is the **hard threshold** — neither the touts' rent nor
+  a punitive action unsupported by evidence can be chosen. Among lawful options the decisive
+  **weighted** checks are **public interest** (the applicants' entitlement to a timely lawful
+  decision is not suspended while an inquiry runs) and **proportionality** (evidence-first covert
+  verification, with coercive action scaled to the material actually held). ⚠️ The examiner's real
+  test here is the recognition that **cleaning up and keeping running are not sequential** — most
+  weak answers pick one and sacrifice the other. **Steelmanning the strongest counter-argument:**
+  a critic would say that covert verification is slow, that the network will sense the new
+  procedures and destroy records anyway, and that visible, immediate suspensions are the only thing
+  that will break the fear among the staff — met by (i) making the verification time-bound and
+  running it in parallel with, not after, the process reform, (ii) noting that the process reform
+  itself removes the network's income immediately, well before any charge-sheet, and (iii) noting
+  that a suspension quashed for want of evidence would *restore* the network's prestige and deepen
+  the very fear it was meant to dispel.
+- **Decision:** Option (c) — both tracks from day one, with the continuity measures announced
+  publicly and the verification kept confidential.
+- **Implementation/communication:** a written office order for the disposal sequence, allocation
+  method and acknowledgment system, issued to all staff and displayed publicly; a briefing to staff
+  and to the union that frames the reform as **protection of honest employees and of the office's
+  reputation**, not as a collective accusation — engaging the union early converts a likely
+  adversary into a stakeholder in a fair process; verification correspondence kept outside ordinary
+  office circulation; a factual public communication on the new timelines so applicants stop
+  approaching intermediaries; and no public naming of any official before the material supports it.
+- **Residual risk:** ⚠️ three survive. The network may **reconstitute around the new process** —
+  mitigate by rotating sensitive seats, surprise checks, and independent review of every exception
+  to the chronological rule and of any deemed approval. The union may reframe evidence-based action
+  as **victimisation** — mitigate by keeping the criteria for suspension written, narrow and
+  identical for everyone, and by the visible fairness of the process reform. And a purely mechanical
+  FIFO rule may **delay genuinely urgent cases** — mitigate with a published, narrow exception
+  category with recorded reasons and periodic audit. Publish an outcome summary at the end so the
+  public learns that the official route worked.
+
+### 14.19 Welfare authentication failure — technology as gatekeeper (anchor: 2026 GS-IV Q10, DC Vikas)
+
+> **Routing and ownership:** the **service-delivery mechanism** — exclusion-risk mapping, the
+> multi-channel principle, the automated-mismatch route, private-agent dependence and group-wise
+> outcome metrics — is owned by `17_Citizens-Charters-Work-Culture-and-Service-Delivery.md`; the
+> fiscal-probity and leakage framing by `18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md`;
+> the technology-ethics vocabulary by `13_Emerging-Ethics-Technology-AI-and-Environment.md`. This
+> module supplies the case architecture, the option set and the normative thesis for subpart (b).
+
+- **Facts:** ✅ Vikas, an officer with over a decade in public administration, is now District
+  Collector of Nainipura, a remote hilly district bordering a forest with low economic development;
+  ensuring proper functioning of the **PDS** for the **economically weaker sections (EWS)** is a
+  major duty. To prevent leakages, all distributors must carry out **real-time biometric
+  identification**, with fingerprints tallied against identity-card records. The system **sometimes
+  rejects fingerprint matching for growing children, manual labourers and senior citizens**, and the
+  problem is compounded during **low WiFi connectivity**; distributors in such cases **resort to
+  personal discretion** when they can identify the recipient. The question itself frames the tension:
+  strict adherence to regulations ensures **fiscal probity** but greatly troubles the EWS and **may
+  even impinge on their fundamental right to life under Article 21**, while leaving resolution
+  **solely to distributor discretion** invites misuse and leakage.
+- **Stakeholders:** EWS beneficiaries — and within them the three named groups whose biometrics fail
+  for physiological reasons they cannot control; the aged, disabled and those living furthest from
+  the shop; honest distributors caught between a failing device and a hungry queue; dishonest
+  distributors for whom discretion is an opportunity; the exchequer and the taxpayer; the district
+  and state food administration; ⚠️ the silent stakeholder — the household member, often a woman or
+  child, who bears the shortfall inside the home and never appears in any register.
+- **Constraints:** biometric authentication is a **mandated** requirement Vikas must operate, not
+  one he can simply disapply by his own order; connectivity is a real physical constraint requiring
+  budget and equipment, not exhortation; the **failure is systemic and predictable**, not random,
+  because worn fingerprints in manual labourers, immature ridges in growing children and degraded
+  ridges in the elderly are known physiological facts; the leakage problem the system was built to
+  solve is also real; and the ration cycle is monthly, so an unresolved failure is not a delay but a
+  **missed month**.
+- **The ethical core:** ⚠️ **exclusion error versus inclusion error.** A leaked quintal is a
+  recoverable financial loss, traceable, auditable and in principle recoverable from the person who
+  took it; a missed month's ration for a poor household is an irreversible harm to a specific body,
+  borne by someone who has no way to recover it. These two errors are not symmetrical, and a policy
+  that treats them as if they were — "tighten the rule, both errors fall" — has already made a moral
+  choice without stating it. Three further concepts do the analytical work: **burden-of-proof
+  inversion** (the state's identification system failed, yet the beneficiary is made to prove she is
+  herself); **automation bias**, which converts a device's uncertainty into an administrative
+  certainty; and the correct definition of **fiscal probity**, which is preventing *leakage* —
+  delivery to the ineligible — and not minimising *disbursal*, since a scheme that saves money by
+  failing to reach the eligible has not achieved probity, it has achieved under-delivery.
+- **Options:** (a) strict biometric-only enforcement — protects the exchequer and the officer's
+  record, but knowingly converts a technical failure into denial of a statutory entitlement for
+  precisely the groups the scheme exists for, and it is this option the question flags as touching
+  Article 21; (b) leave resolution to distributor discretion, as is currently happening —
+  compassionate in form and immediately workable, but it privatises an entitlement decision to an
+  interested party, creates an unaccountable rent, and makes the beneficiary a supplicant rather
+  than a right-holder; (c) **a structured authentication cascade with accountable exception
+  handling** (the generic template at Sec. 14A.2 applied): fingerprint → iris/face → OTP to the
+  registered mobile → **offline or manual exception recorded in a numbered register** with
+  photograph and countersignature by a witness or local elected representative, auto-syncing when
+  connectivity returns; an **exception-rate threshold** that automatically flags outlier shops for
+  audit, so the exception route is generous to beneficiaries and tight on distributors; doorstep
+  delivery or authorised-nominee collection for the aged and persons with disability; portability
+  so a household is not trapped at one failing shop; **display at every shop** of entitlements and
+  of the rule that authentication failure is not a ground of denial; a grievance route with a fixed
+  timeline; monthly social audit through the statutory vigilance/Gram Sabha mechanism; and
+  prioritising offline-capable devices and buffer-sync in the district budget, since connectivity is
+  a capital problem masquerading as a behavioural one; (d) suspend biometric authentication
+  district-wide pending a technical fix — protects beneficiaries immediately, but surrenders the
+  anti-leakage gain wholesale, exceeds what the failure pattern requires, and is likely to be
+  reversed from above, leaving beneficiaries worse off than a durable option (c).
+- **Ethical evaluation:** the **hard threshold** is the constitutional and statutory entitlement
+  floor — Article 21 as the question itself names it, read with the statutory right to food-grain
+  entitlements and the settled administrative position that **authentication failure is not a ground
+  for denying a benefit**, alternate and viable means of identification being required. ⚠️ Verify the
+  current statutory provision and the operative departmental instruction before citing them
+  section-by-section; the *principle* is settled and is what the answer needs. Among lawful options
+  the decisive **weighted** check is compassion for the vulnerable read together with long-term
+  consequence — and note that it does not actually conflict with fiscal probity once probity is
+  correctly defined, because option (c) attacks leakage (through exception-rate audit, social audit
+  and portability) while removing exclusion. **Steelmanning the strongest counter-argument:** the
+  strongest objection is that a generous exception route simply becomes the new leakage channel —
+  precisely what biometrics replaced — met by the fact that (c) does not make the exception
+  *discretionary* but **recorded, numbered, countersigned, rate-capped and audited**: the difference
+  between distributor discretion and a structured exception is not compassion, it is the audit
+  trail. A second objection — that this creates work for an overstretched district — is met by noting
+  that the alternative work is grievance redress, protest management and litigation.
+- **Decision:** Option (c), with the connectivity fix prioritised in the district budget and the
+  exception register introduced immediately, ahead of it.
+- **(b) — the ethics of technology as a gatekeeper for welfare schemes** ⚠️ (the subpart that
+  demands a thesis, not a list): technology may legitimately **assist** identification and **detect**
+  leakage; it must not become the **sole gate** to a statutory entitlement. The distinction is
+  between technology as an **evidence-aid**, where a match is one piece of proof among others and a
+  failure triggers an alternative, and technology as an **eligibility-determinant**, where the
+  device's output *is* the decision. Three grounds: (i) **burden allocation** — a gate that fails
+  transfers the cost of the state's own system failure onto the person least able to bear it, and
+  inverts the proper relation in which the state must justify denial rather than the citizen justify
+  entitlement; (ii) **the gate's errors are not randomly distributed** — they concentrate in manual
+  labourers, children and the elderly, so a facially neutral rule produces a systematically
+  regressive outcome, which is disparate impact even without discriminatory intent; (iii)
+  **accountability displacement** — "the machine refused" ends a conversation that "I refused"
+  would have started, and a denial nobody owns is a denial nobody reviews. ⚠️ The operative test to
+  offer the examiner: *a gatekeeping technology is ethically acceptable only if a genuine
+  beneficiary who fails it retains a usable, non-humiliating, time-bound and reviewable route to the
+  entitlement, and only if someone is named and accountable for the failure rate itself.* On that
+  test, biometric PDS authentication is acceptable **with** a cascade and exception architecture and
+  unacceptable **without** one — the technology is not the ethical variable; the fallback is.
+- **Implementation/communication:** a written district order specifying the cascade, the exception
+  register format and the threshold that triggers audit; training and a written protocol for
+  distributors so that discretion is replaced by procedure; public display in local language at
+  every shop; a message to distributors that the exception route protects them too, since it
+  replaces an impossible choice with a recorded one; a monthly report of shop-wise exception rates
+  to the food administration.
+- **Residual risk:** ⚠️ the exception route becomes the default and the leakage returns — mitigate
+  with threshold-triggered audit, published shop-wise exception rates, random beneficiary-confirmation
+  sampling by the social-audit mechanism, and review of any shop whose exception rate stays
+  persistently high. A second risk is that beneficiaries do not know the exception exists — mitigate
+  through display, Gram Sabha announcement and front-line staff instruction, since an unknown remedy
+  is no remedy.
+
+### 14.20 Ethnic conflict and compromised administrative neutrality (anchor: 2026 GS-IV Q11, DM Rajan)
+
+> **Routing:** Sec. 14.3 handles a **short-horizon, rumour-driven** communal law-and-order event;
+> this module handles a **protracted ethnic conflict in which the local administration and police
+> are themselves compromised** — a different problem requiring a different instrument set. Value
+> anchors: `04_Aptitude-and-Foundational-Values-for-Civil-Service.md` (impartiality and
+> non-partisanship), `03_Attitude-Content-Structure-and-Persuasion.md` (the conduct-rule limits of
+> non-partisanship), `09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` (neutrality). Named
+> evidence in `23_Comparative-and-Named-Real-Case-Studies.md` Sec. 4.3.
+
+- **Facts:** ✅ Rajapuram is a **border district** whose two major communities, Jhara and Biru, are in
+  continual conflict; the social fabric is fractured. Ethnic tensions have erupted into violence with
+  a large number of deaths; the **stated causes** are conflicting land claims, uneven resource
+  allocation and inadequate political representation in government bodies. **Separate relief camps**
+  have had to be created. The situation is volatile and appears to be getting out of control. Rajan
+  has been appointed DM and tasked to get it under control quickly; his immediate tasks are
+  **restoring administrative authority, reopening the highway and initiating peace talks**. On taking
+  charge he realises the rivalry **has seeped into the local administration and police**, with
+  **functional neutrality the immediate casualty**, leaving both communities distrustful of
+  government. The **neighbouring country could exploit the opportunity** to spur insurgent activity.
+  Rajan favours a controlled approach beginning with opening the highway to restore food and medical
+  supplies, and has considered **requisitioning CRPF units**.
+- **Stakeholders:** both communities' civilians, especially camp populations, the injured, women,
+  children and the elderly; the district administration and police, now split; the honest officials
+  within both who are being distrusted for their identity rather than their conduct; political
+  representatives of both communities; the state government and the Union, given the border
+  dimension; CAPF personnel who may be inducted; ⚠️ the silent stakeholders — the district's
+  long-term social fabric, and the next generation growing up inside relief camps.
+- **Constraints:** the instrument Rajan would normally use — his own administration and police — is
+  the instrument that is broken, so every action must first solve for the tool before solving for
+  the problem; CAPF requisition runs through the state government to the Union and is not the DM's
+  unilateral act; the stated causes (land, resources, representation) are **structural** and cannot
+  be settled by a DM within the crisis window, so honest sequencing matters; any restriction on
+  movement, assembly or communication must be lawful, narrowly tailored, in writing and reviewable;
+  and the cross-border dimension makes public speculation itself a risk.
+- **Ethical issues (subpart (a))** ⚠️: **loss of functional neutrality inside the state apparatus**,
+  which is different in kind from partisanship in society, because a partisan administration removes
+  the very forum in which grievances could be settled peacefully; **impartiality is not identical
+  treatment and is not equidistance** — treating a victim and an aggressor alike is not neutrality
+  but abdication, while identical relief norms *are* required because need, not identity, is the
+  criterion; **duty of care** to camp populations, with parity of norms as an ethical and not merely
+  logistical requirement; **procedural justice as a legitimacy generator**, since in a district where
+  neither side trusts government, *visible* symmetry does work that private fairness cannot;
+  **proportionality** in every restriction and in the use of force; **truthfulness in public
+  communication** against the temptation to manage rumour with reassurance; **fairness to officials**
+  who share a community's identity but have done nothing wrong, since reconstituting a team must not
+  become collective punishment by identity; and **the ethics of sequencing** — reopening the highway
+  for food and medicine first is not merely tactical but reflects a defensible ordering in which
+  immediate life-preservation precedes political process.
+- **Options:** (a) a blanket curfew with a mass show of force — restores visible control quickly, but
+  is collective punishment, forfeits the legitimacy Rajan needs for talks, and, applied by a
+  compromised police force, will be experienced as partisan enforcement whatever the intention;
+  (b) rely on the existing local administration and police because they know the terrain — fastest
+  in theory, but it deploys the compromised instrument and entrenches distrust in both communities;
+  (c) **a sequenced package** (the two-track template at Sec. 14A.3 applied to institutional capture,
+  where the "continuity" track is life-preservation and the "cleanup" track is restoring neutrality):
+  - *First, life-preservation:* reopen the highway under **neutral escorted convoys**, restoring food
+    and medical supplies to **both camps simultaneously**, on **published, equal per-capita relief
+    norms** in both communities' languages.
+  - *Second, restore the instrument:* reconstitute a **district crisis team** of officers with no
+    community stake, supplemented where necessary by outside-cadre officers and CAPF units for the
+    tainted formations; **record the reconstitution criteria in writing** and make them
+    conduct-based and non-prejudicial, so that no officer is tainted merely by identity; joint
+    verification of claims by mixed teams.
+  - *Third, make neutrality visible:* a **single spokesperson** issuing dated, factual, bilingual
+    bulletins; **symmetric FIR and compensation registers** open to inspection; identical
+    enforcement standards applied to whichever side offends next, including to officials.
+  - *Fourth, open the process:* a **joint peace committee** with recognised leaders of both
+    communities and neutral observers, with a published agenda that names the stated causes — land
+    claims, resource allocation, representation — and a stated timeline, so that the talks are not
+    seen as a device to buy quiet.
+  - *Fifth, restraint:* any restriction on movement, assembly or communication issued as a
+    **time-bound, narrowly tailored, written and published order subject to periodic review**;
+    discreet intelligence coordination on the cross-border dimension **without public speculation**,
+    which would inflame both communities and pre-empt diplomacy.
+  - (d) escalate everything to the state and the Centre and await direction — avoids error and
+    responsibility together, and leaves precisely the vacuum a hostile neighbour would exploit.
+- **Ethical evaluation:** **hard thresholds** — the legality of every restriction and use of force,
+  and non-discrimination between the two communities in relief, registration and enforcement. The
+  decisive **weighted** check is **proportionality**: the least restrictive effective measure, which
+  is why (c)'s escorted-convoy-plus-targeted-restriction package is preferred to (a)'s blanket
+  curfew. ⚠️ On restrictions, the settled proportionality standard requires that an order be
+  necessary, be the least restrictive alternative, be **published** so it can be challenged, and be
+  **periodically reviewed** rather than left indefinite — the *Anuradha Bhasin* line of authority,
+  detailed in `23_Comparative-and-Named-Real-Case-Studies.md` Sec. 4.3. **Steelmanning the strongest
+  counter-argument:** the strongest objection is that reconstituting the local team in mid-crisis
+  destroys institutional memory, insults serving officers and slows the response at the worst
+  possible moment — met by (i) retaining local officers in non-adjudicative, logistics and liaison
+  roles where their local knowledge is an asset and their neutrality is not in issue, (ii) recording
+  written, conduct-based and explicitly non-prejudicial reasons so that reassignment carries no
+  stigma, and (iii) noting that decisions taken by a formation both sides believe to be partisan
+  have no settling power at all, however fast they are taken.
+- **Decision:** Option (c), in that sequence.
+- **(b) — protecting the non-partisan image without compromising ethics** ⚠️: the two are often
+  presented as a trade-off and are not. An **image** of non-partisanship is protected not by silence,
+  not by splitting every decision down the middle, and not by appeasing whichever side is louder,
+  but by **auditable symmetry** — equal published relief norms, symmetric FIR and compensation
+  registers open to inspection, written criteria for every discretionary act, a single factual
+  spokesperson, and neutral observers invited into the process. The **ethic** of non-partisanship,
+  by contrast, requires acting **against whichever side commits the next offence** — including
+  against officials of Rajan's own administration — because equidistance between an aggressor and a
+  victim is not neutrality but a second injustice. The reconciling principle: ⚠️ *non-partisanship
+  is symmetry of process and criteria, not symmetry of outcome*; asymmetric outcomes that follow
+  visibly and identically from published criteria strengthen the non-partisan image, while
+  symmetric outcomes engineered to placate both sides destroy it the moment the engineering is
+  noticed. Cite the conduct-rule position from `03`: non-partisanship constrains *official
+  behaviour*, and does not require an official to have no opinions.
+- **Implementation/communication:** written orders for the convoy protocol, relief norms,
+  reconstitution criteria and every restriction; bilingual dated bulletins on a fixed schedule from
+  a single spokesperson; camp visits to **both** camps in the same sequence and with the same
+  publicity; briefing of reassigned officers individually and respectfully; intelligence and
+  cross-border matters routed confidentially upward and kept out of public statements.
+- **Residual risk:** ⚠️ reconstitution may be read as a slur on local officers, and CAPF presence may
+  itself be read as partisan or as occupation — mitigate with written non-prejudicial reasons, a
+  defined and announced drawdown timeline for the CAPF, a joint grievance cell accessible to both
+  communities, and an after-action review owned by an authority above the district. A second
+  residual risk is that the structural causes go unaddressed once quiet returns and the conflict
+  recurs — mitigate by making the peace committee's agenda and timeline public at the outset, so the
+  structural questions survive the end of the emergency.
+- ⚠️ **Named-evidence caution:** post-facto commissions of inquiry into communal violence are
+  accountability instruments, **not** preventive or real-time management tools; do not offer one as
+  the answer to a live crisis (`23` Sec. 4.3). Verify current section numbers for prohibitory-order
+  and unlawful-assembly powers under the Bharatiya Nagarik Suraksha Sanhita, 2023 before citing
+  them, per the standing caution at Sec. 14.12.
+
+### 14.21 Arms-export decision and staged due diligence (anchor: 2026 GS-IV Q12, Ajit)
+
+> **Routing and ownership:** the **substantive international-ethics doctrine** — just-war and
+> humanitarian framing, aid and conditionality ethics, and any arms-transfer/export-control module —
+> is owned by `12_Corporate-Governance-and-International-Ethics.md`. **This module does not restate
+> that doctrine**; it supplies the case architecture, the option set and the decision logic, and
+> defers to `12` for the doctrinal treatment.
+
+- **Facts:** ✅ Ajit has recently been promoted Head of the Department of Weapon Sales (DWS) in the
+  Ministry of Defence Production (MDP); his charter includes international sales of domestically
+  produced weapons. After MDP weapons performed admirably in two recent wars, many countries want
+  them, **particularly long-range artillery and missiles**. Countries A and B have both asked, but
+  **production constraints allow DWS to accept only one purchase order**. **Country A** is a
+  developing nation with a sound technology base; MDP is planning **R&D collaboration** with it for
+  next-generation weapons; it is **not part of any security alliance**, needs the weapons for
+  protection from a troublesome neighbour, and seeks a **large acquisition on a long-term loan**.
+  **Country B** is also developing, but **military strength is its priority, with the military
+  budget often ingressing into allocations for human resources and infrastructure development**; it
+  is in a **security alliance with a superpower** that maintains a large base there and gives
+  periodic grants; it belongs to an economic bloc with which India is negotiating an **FTA**; it is
+  **not an NPT signatory but possesses smaller nuclear weapons and delivery systems**; it **supports
+  some guerrilla forces abroad**; it seeks a smaller acquisition with **advance payment** and is
+  **negotiating with another supplier too**. Counterpart departments highlight economic benefits,
+  employment generation and stronger diplomatic relations, and emphasise that **refusing could
+  result in B buying from another supplier**. Ajit is aware that **due diligence at each stage is
+  pivotal** to conformity with national policy and international treaties.
+- **Stakeholders:** India's strategic and economic interest, the defence-industrial workforce and
+  the export programme's credibility; Country A's population and its security need; **Country B's
+  own population**, whose human-development budget is being displaced by military spending;
+  populations in third countries exposed to any force B supports abroad; the licensing and
+  inter-ministerial apparatus; MEA and the wider diplomatic relationship; ⚠️ the silent stakeholders
+  — future recipients of Indian defence exports, whose access depends on India's reputation as a
+  responsible supplier, and any civilian eventually harmed by a diverted Indian weapon.
+- **Constraints:** only **one** order can be accepted, so this is a genuine allocation decision and
+  not a "sell to both with safeguards" problem; the demand is specifically for long-range artillery
+  **and missiles**, which engages missile-technology export-control commitments; B offers **advance
+  payment** and A seeks a **long-term loan**, so the credit-risk asymmetry genuinely favours B on
+  finance alone; Ajit is a department head who **recommends within a licensing and inter-ministerial
+  framework**, and cannot substitute personal moral preference for that process; and the decision is
+  time-sensitive because B is negotiating elsewhere.
+- **Ethical issues to name:** **supplier complicity** — responsibility attaches to one's own act of
+  supply, and is not extinguished by the recipient's subsequent choices; **diversion and
+  non-state-actor risk** — B's support to guerrilla forces abroad is the textbook trigger, because
+  a transfer whose end-use cannot be controlled is a transfer whose consequences cannot be owned;
+  **proliferation posture** — B's non-NPT nuclear-armed status and delivery systems raise both
+  regime-commitment and technology-leakage questions, compounded by a foreign base on its soil;
+  **the recipient-population question** — selling into a budget that is already displacing human
+  development makes the supplier a participant in that displacement, which is the arms-trade
+  analogue of the aid-ethics problem `12` already treats; **the replaceability defence** — "B will
+  buy elsewhere" — which fails twice over, once because complicity is not excused by
+  substitutability (my act is mine whoever else would have acted), and once because the argument
+  **proves too much**, since if accepted it licenses every sale to every buyer forever;
+  **legitimate self-defence supply**, which is what A's case is, and which is ethically distinct
+  from capability supply into a proliferation or proxy risk; and **due diligence as a staged,
+  documented obligation** rather than a single moment of judgement — the case's own words.
+- **Options:** (a) **sell to B** for advance payment, FTA goodwill and to pre-empt the competitor —
+  financially and diplomatically attractive in the short run, but it fails the threshold screens:
+  support to guerrilla forces abroad is a direct diversion and non-state-actor risk; the non-NPT
+  nuclear-armed posture plus an allied foreign base raises end-use control and
+  technology-leakage exposure; and the displacement of human-development spending fails the
+  recipient-capacity test; (b) **sell to A** on the long-term loan, with full conditionality — a
+  non-aligned state with a stated defensive need and no proxy-support record, where the R&D
+  collaboration compounds long-term strategic and industrial benefit; requires an **end-user
+  certificate**, a **no-re-transfer undertaking**, **post-shipment verification rights**, phased
+  delivery tied to credit-risk milestones, and screening of the specific missile configuration
+  against India's missile-technology export-control commitments, offering compliant variants where
+  the strong presumption of denial for the most sensitive category applies; (c) **split the order
+  between both** — fails the case's own stated production constraint, and dilutes due diligence on
+  both transactions; (d) **defer both pending a policy review** — evades a decision the post exists
+  to take, forfeits a genuine national interest, and hands the market to a competitor without
+  gaining any ethical credit.
+- **Ethical evaluation:** the **hard thresholds** are binding embargo compliance, India's
+  treaty/regime commitments, and the bar on transfers with a foreseeable route to non-state armed
+  actors — B fails the third on the case's own facts, and that alone is dispositive, before any
+  weighing of revenue. Among surviving options the decisive **weighted** checks are long-term
+  consequence and the international public interest over immediate revenue. ⚠️ **Sequencing note for
+  the answer:** run the screens *before* the commercial comparison, not after — an answer that
+  balances B's advance payment against its proxy support has already made a category error.
+  **Steelmanning the strongest counter-argument:** the strongest case for selling to B is that
+  refusal is futile because B will buy elsewhere, so India forfeits revenue, jobs and influence and
+  changes nothing on the ground; it is further argued that engagement gives India leverage that
+  refusal surrenders — met by (i) the **moral** point that responsibility attaches to one's own act,
+  and that an argument licensing any sale on the ground that someone else would make it is no
+  principle at all; (ii) the **practical** point that a documented, criteria-based refusal is exactly
+  what builds the supplier reputation on which long-term export markets and technology partnerships
+  rest, since buyers and partner states assess whether a supplier's controls are real; (iii) the
+  **risk** point that an Indian weapon surfacing with a proxy force is a strategic and reputational
+  liability dwarfing one order's margin; and (iv) the **leverage** point that leverage created by
+  supplying a party that supports armed groups abroad is leverage over the wrong variable.
+- **Decision:** Option (b) — sell to A, with the full due-diligence package, and record the denial to
+  B against **objective, pre-published criteria** (the criteria-based-denial template at Sec. 14A.4),
+  communicating it in **process terms rather than as a moral rebuke**, and keeping a conditional
+  future channel open for verified non-lethal or clearly defensive items.
+- **(b) — balancing economic and strategic interests with ethical considerations** ⚠️: the framing
+  of the subpart invites a false opposition. The correct thesis is that these interests are
+  **time-horizon-dependent**, not opposed. Over a single transaction, ethics costs money; over an
+  export programme, ethics *is* the asset — due diligence, end-use control and criteria-based
+  transparency are what make export revenue durable, what make technology partners willing to
+  co-develop, and what prevent a single diverted consignment from closing markets that took a decade
+  to open. Three operational corollaries: (i) build the ethics into the **instrument**, through
+  end-user certification, re-transfer vetoes and post-shipment verification, rather than leaving it
+  to case-by-case conscience; (ii) make the criteria **pre-published**, so that a denial is a
+  process outcome rather than a diplomatic insult and a future approval is not read as a favour;
+  and (iii) if a political authority overrides the recommendation, **put the override in writing**
+  (Sec. 8) — the officer's duty is a documented, reasoned recommendation, not the final say.
+- **Implementation/communication:** a written, criteria-referenced recommendation through the
+  inter-ministerial and licensing channel rather than a personal decision; the contract with A
+  carrying end-user certification, non-re-transfer, serial-number tracking, post-shipment
+  verification rights and phased delivery; communication to B routed through MEA in process terms,
+  with the conditional future channel stated; a briefing to counterpart departments that addresses
+  the employment and revenue arguments on their own terms rather than dismissing them.
+- **Residual risk:** ⚠️ A's items may still be diverted or re-exported, and A's troublesome
+  neighbour may read the sale as escalatory — mitigate through exercised (not merely contracted)
+  post-shipment verification, serial-number tracking, a re-transfer veto, an annual end-use audit
+  owned by the licensing authority rather than by DWS, and diplomatic pre-notification through MEA.
+  A second residual risk is commercial: the long-term loan carries credit exposure the advance
+  payment did not — mitigate through phased delivery tied to payment milestones and sovereign
+  guarantees.
+- ⚠️ **Citation caution:** name export-control and regime commitments **by principle** and verify the
+  specific list, authorisation route, regime thresholds and India's current membership/party status
+  against primary sources before quoting them; India's position differs regime by regime, and an
+  answer that asserts the wrong status converts a strong argument into a factual error. The doctrinal
+  treatment belongs to `12_Corporate-Governance-and-International-Ethics.md`.
+
+## 14A. Reusable generic case templates
+
+⚠️ Four templates recur across case families and across years. They are stated once here and
+**cross-referenced** from the domain modules rather than repeated inside each one; each is usable on
+an unseen case whose surface facts differ entirely from the anchors below.
+
+### 14A.1 The consent-validity test
+
+Applicable to **any** consent question — medical, research, data, land acquisition, tribal consent
+under forest-rights processes, or participation in a government scheme.
+
+| Step | Question to ask | Failure mode it catches |
+|---|---|---|
+| 1. **Competence** | Is this person legally and factually capable of deciding for herself, at this moment? | Treating a competent adult as if she needed a proxy; treating an incapacitated person's nod as consent. |
+| 2. **Authority** | If the person cannot consent, who may lawfully consent, and does the case actually place that person there? | A relative's written signature mistaken for legal authority (2026 Q7). |
+| 3. **Voluntariness** | Is agreement free of coercion, dependence, hierarchy or inducement? | "Consent" from an employee, a prisoner, or an applicant whose file is pending. |
+| 4. **Adequate information** | Was the nature, purpose, material risks, alternatives and consequence of refusal actually communicated, in a language and form the person understands? | Literacy/language gaps; a simplified verbal explanation replacing documented consent (2024 Q12, Sec. 14.4). |
+| 5. **Scope** | Does the consent given cover the act actually performed — in kind, extent and duration? | Diagnostic consent used for therapeutic surgery; welfare-scheme consent used for surveillance (Sec. 14.13). |
+| 6. **Emergency/necessity exception** | Is there *both* an immediate threat to life or health *and* unreasonableness in waiting? Both limbs, not one. | Invoking "emergency" for an uncertain finding, or for mere inconvenience. |
+| 7. **Prospective consent design** | Was a foreseeable contingency discussed *in advance*, when the person could still decide? | The systemic fix that prevents the dilemma recurring. |
+
+> ⚠️ **Rule:** good intention does not supply missing authority, and documentation does not supply
+> missing validity. A signature from someone with no right to sign is a record, not a consent.
+
+### 14A.2 The automated adverse-decision template
+
+Applicable to **any** case where a system, algorithm, device or automated rule produces an outcome
+adverse to an individual — biometric authentication failure, algorithmic flagging, automated
+eligibility rejection, database mismatch, or an AI-generated risk score.
+
+```text
+ADVERSE AUTOMATED OUTPUT
+        |
+        v
+[1] NEVER auto-final --------> an uncertain machine output must not become an
+        |                      irreversible denial merely because automation
+        |                      looks objective
+        v
+[2] NOTICE with an intelligible reason  -> the person must know what was decided
+        |                                   and on what basis
+        v
+[3] ACCESS to the record -----> she must be able to see the data held about her
+        |
+        v
+[4] ALTERNATIVE EVIDENCE / CASCADE -> a second, third and manual route, designed
+        |                              for the known failure population
+        v
+[5] HUMAN RECONSIDERATION ----> a named person decides, with recorded reasons;
+        |                        discretion is structured, not free
+        v
+[6] REASONED OUTCOME + REVIEW -> appeal/grievance with a fixed timeline
+        |
+        v
+[7] PUBLISHED ERROR-RATE / DISPARATE-IMPACT AUDIT
+                               -> the failure rate itself is someone's
+                                  accountability, not an act of nature
+```
+
+> ⚠️ **Rule:** structure the exception, do not abolish it and do not leave it free. An exception that
+> is **numbered, recorded, countersigned, rate-capped and audited** protects the individual without
+> becoming the new leakage channel — which is exactly the difference between option (b) and option
+> (c) in Sec. 14.19, and between cosmetic and real reform in Sec. 14.17.
+
+### 14A.3 The parallel "clean up without shutting down" template
+
+Applicable to **any** institutional-capture or institutional-failure case — a corrupt network inside
+an office (Sec. 14.18), a compromised local administration in a conflict district (Sec. 14.20), a
+captured internal complaints mechanism (Sec. 14.6), or a failing scheme that cannot simply be
+suspended.
+
+| | **Continuity track** (runs publicly, from day one) | **Accountability track** (runs confidentially, from day one) |
+|---|---|---|
+| **Purpose** | Keep the lawful service flowing to the people the wrongdoing is harming | Build evidence that will survive scrutiny, against those actually implicated |
+| **Instruments** | Published disposal sequence/criteria; dated pendency or delivery dashboard; single-window receipt with acknowledgment; random or committee-based allocation; fixed timelines with escalation; a signed, published periodic report | Secret preliminary verification; targeted file/records audit; referral to the competent vigilance or investigative authority with required prior approvals; protected reporting channel for frightened insiders; action confined to those against whom material exists |
+| **Ethical function** | Prevents the remedy from harming the victims; removes the wrongdoer's rent immediately, before any charge-sheet | Prevents the remedy from becoming a new arbitrariness; protects the innocent and the merely frightened |
+| **Communication** | Loud, public, procedural — announce the new process, not the investigation | Quiet, documented, outside ordinary circulation |
+
+> ⚠️ **Rule:** cleaning up and keeping running are **simultaneous, not sequential**. The commonest
+> weak answer picks one track and sacrifices the other — mass suspensions that paralyse the office,
+> or continuity measures that leave the network intact. Also note the economic insight the template
+> encodes: much wrongdoing is rent on **opacity and delay**, so publishing the queue, the criteria
+> and the timeline destroys the rent faster than any prosecution.
+
+### 14A.4 The criteria-based denial template
+
+Applicable to **any** allocation, licensing, permission, sanction or refusal decision where one
+claimant must be preferred, or where a request must be refused — export authorisation (Sec. 14.21),
+tender award, scheme sanction, land-use permission, transfer posting, or scarce-resource triage
+(Sec. 11, Sec. 14.14).
+
+1. **Assess against pre-published objective criteria**, fixed *before* the specific claimants are
+   known — criteria written after the claimants appear are indistinguishable from rationalisation.
+2. **Apply hard-threshold screens first, commercial or convenience factors second.** A screen that is
+   weighed against revenue has ceased to be a screen.
+3. **Document the assessment claimant-by-claimant against each criterion**, so the file shows the
+   reasoning and not just the result.
+4. **Communicate the denial in process terms, not moral terms** — "the application did not meet
+   criterion X" rather than "we disapprove of you". This preserves the relationship, avoids
+   gratuitous insult, and keeps the decision reviewable on its stated grounds.
+5. **Preserve a conditional future channel** where one is legitimately available, stating what would
+   have to change — a denial that closes the door forever forecloses the leverage that a conditional
+   denial retains.
+6. **Record any override in writing** (Sec. 8). Where the decision is ultimately political, the
+   official's duty is a documented, reasoned recommendation, not the final say.
+7. **Build the conditions into the instrument**, not into goodwill — certification, verification
+   rights, milestones, audit and revocation clauses.
+
+> ⚠️ **Rule:** the legitimacy of a denial comes from the *criteria and their publication*, not from
+> the decision-maker's sincerity. This is also what distinguishes a defensible refusal from
+> arbitrariness under Article 14 reasoning.
+
 ## 15. Indian applications and examples
 
 - ✅ 2024 GS-IV Q7 (Section B case study: tech company AI/data-centre emissions, see `12`, `13`, and
@@ -1026,6 +1832,19 @@ professional-duty tension recurs across disaster/crisis case studies.
   Commissioner Ashok and a cross-border influx that includes armed soldiers in uniform — the fully
   worked case in Sec. 14.5). Between them they cover conflict of interest, procurement propriety,
   humanitarian obligation and public-money integrity — the syllabus in applied form.
+- ✅ For 2026, Section B is Q7 (Lata/Dr Mansi — hysterectomy performed on a sister-in-law's written
+  consent while the patient was under general anaesthesia — the fully worked case in Sec. 14.16),
+  Q8 (SP Ravi — AI predictive policing, crowd biometrics and an alleged bias in historical data —
+  Sec. 14.17), Q9 (DC Seema — a tout network operating through Collectorate subordinates amid a CLU
+  backlog — Sec. 14.18), Q10 (DC Vikas — biometric PDS authentication failing for growing children,
+  manual labourers and senior citizens, with Article 21 named in the question itself — Sec. 14.19),
+  Q11 (DM Rajan — Jhara/Biru ethnic conflict in a border district where functional neutrality inside
+  the administration and police is the immediate casualty — Sec. 14.20) and Q12 (Ajit — one arms
+  export order, Country A versus Country B, with due diligence at each stage — Sec. 14.21).
+  ⚠️ Between them they test consent and bodily integrity, algorithmic fairness and contestability,
+  institutional capture with service continuity, welfare exclusion by technology, administrative
+  neutrality under communal stress, and international-transfer due diligence — every one of them
+  decidable from static ethics plus settled law.
 - ⚠️ Any GS-IV case study involving a public official's private grief, financial pressure, or
   political pressure should be decomposed using this same architecture rather than answered as a
   free-flowing narrative — the fully worked political-pressure case is in Sec. 14.15, and the
@@ -1034,13 +1853,19 @@ professional-duty tension recurs across disaster/crisis case studies.
 
 ## 16. Must-Know Facts for Prelims
 
-- ⚠️ For the **specific 2024 and 2025 GS-IV papers audited here**, Section B (Case Studies) carried
-  120 of the paper's 250 marks — six cases of 20 marks each, numbered Q7-Q12 in both years — and
+- ⚠️ For the **2024, 2025 and 2026 GS-IV papers audited here**, Section B (Case Studies) carried 120
+  of the paper's 250 marks — six cases of 20 marks each, numbered Q7-Q12 in all three years — and
   rewarded structured, multi-step reasoning over narrative storytelling, while Section A (Q1-Q6)
-  carried the remaining 130. ⚠️ This 130:120 (Section A : Section B) split reflects the audited
-  2024-2025 pattern specifically, not a permanently fixed or universally guaranteed UPSC weightage —
-  always verify the actual question count and marks distribution against the current year's own
-  paper before relying on this figure.
+  carried the remaining 130. ✅ The 2026 paper confirms how Section A reaches 130 despite having six
+  questions: **Q3 carries three 10-mark subparts (a), (b) and (c)** rather than the usual two.
+  ⚠️ This 130:120 (Section A : Section B) split is therefore a three-year verified pattern, not a
+  permanently fixed or universally guaranteed UPSC weightage — always verify the actual question
+  count and marks distribution against the current year's own paper before relying on this figure.
+- ⚠️ **Every Section-B case in 2024, 2025 and 2026 carried two subparts**, and in 2026 the two
+  subparts were consistently *different demands*, not one demand split in half — typically an
+  issue-identification subpart (a) and an options/justification or normative-appraisal subpart (b).
+  Answering (b) with a restatement of (a) is the single most expensive structural error in Section B;
+  the subpart-by-subpart decode for 2026 is in `../_PYQ-GS4-SectionB-2026.md`.
 - ⚠️ The six-check framework (conflict of interest, legality, public interest, proportionality,
   transparency, compassion/long-term consequence) is a synthesis tool, not a single "correct"
   UPSC-mandated checklist — its value is in ensuring no major ethical dimension is missed.
@@ -1080,6 +1905,31 @@ professional-duty tension recurs across disaster/crisis case studies.
   inquiry — Sec. 14.12) regardless of which way the eventual finding goes, protecting both the
   complainant's dignity and the accused officers' due process.
 
+- ❌ A case-study answer may treat the two subparts as one continuous essay. -> In 2024-2026 every
+  Section-B case carried two distinct subparts with different demands; answering (b) by restating
+  (a) forfeits roughly half the available credit. Decode each subpart's own directive first
+  (`../_PYQ-GS4-SectionB-2026.md`).
+- ❌ A benevolent motive cures an act done without lawful authority or valid consent. -> Good
+  intention bears on culpability and on damages, not on rightness; a signature from a person with no
+  authority to give it is a record, not a consent (Sec. 14.16, Sec. 14A.1).
+- ❌ A technology deployment is ethically validated by the fact that outcomes improved. -> An
+  outcome gain does not legitimise the means, and improved aggregate order can coexist with
+  systematically distributed harm to an identifiable group (Sec. 14.17).
+- ❌ Dismantling a corrupt network requires either immediate mass punitive action or postponement
+  until evidence is complete. -> The defensible response runs a public continuity track and a
+  confidential accountability track **simultaneously** (Sec. 14.18, Sec. 14A.3).
+- ❌ Fiscal probity means minimising disbursal, so a stricter eligibility gate is always the more
+  responsible choice. -> Probity means preventing *leakage*; a gate that excludes the eligible has
+  produced under-delivery, not probity, and exclusion errors are not symmetrical with inclusion
+  errors (Sec. 14.19).
+- ❌ Non-partisanship in a communal or ethnic conflict means treating both sides identically in every
+  respect. -> Non-partisanship is symmetry of **process and criteria**, not symmetry of outcome;
+  equidistance between an aggressor and a victim is a second injustice, while identical *relief
+  norms* are required because need, not identity, is the criterion (Sec. 14.20).
+- ❌ "Someone else will supply it anyway" justifies a transfer, sale or approval that would otherwise
+  be refused. -> Complicity is not excused by substitutability, and the argument proves too much,
+  since it would license every transaction to every counterparty (Sec. 14.21, Sec. 14A.4).
+
 ## 18. PYQ application
 
 - ✅ 2025 GS-IV Q7 (DC Vijay) and 2024 GS-IV Q7 (tech company) are the audited case studies against
@@ -1090,7 +1940,18 @@ professional-duty tension recurs across disaster/crisis case studies.
 - ⚠️ Both anchor cases reward candidates who explicitly name conflict-of-interest, legality, public-
   interest, proportionality, transparency and compassion checks rather than a purely narrative
   emotional response.
-- ⚠️ A custodial-justice/police-excess case (Sec. 14.12) is not yet part of the audited 2024-2025
+- ✅ The **2026 Section-B bank (Q7-Q12) is fully worked in Sec. 14.16-14.21**, one module per case,
+  each covering both subparts: Q7 therapeutic consent (14.16), Q8 predictive policing (14.17),
+  Q9 tout network with service continuity (14.18), Q10 biometric welfare exclusion (14.19),
+  Q11 ethnic conflict and compromised neutrality (14.20), Q12 arms-export due diligence (14.21).
+  The subpart-level demand decode and owner boundaries are in `../_PYQ-GS4-SectionB-2026.md`.
+- ⚠️ **Reading the 2024-2026 bank together** shows the direction of travel: cases are increasingly
+  built around a *named legal anchor the candidate is expected to supply* (Article 21 is printed in
+  the 2026 Q10 stem itself), around *technology-mediated administrative harm* (2026 Q8 and Q10), and
+  around *problems where the protagonist's own institution is the compromised instrument* (2026 Q9
+  and Q11). Practise supplying the constitutional or statutory floor unprompted, and practise the
+  two-track template (Sec. 14A.3) for institutional-capture facts.
+- ⚠️ A custodial-justice/police-excess case (Sec. 14.12) is not yet part of the audited 2024-2026
   Section B bank, but recurs across earlier years' papers as a policing-ethics family; practise it
   using the identical eight-element sequence and the named D.K. Basu safeguards.
 - ⚠️ A scarce-resource-triage case (Sec. 14.14, anchored to 2021 GS-IV Q10) and a political-pressure
@@ -1139,6 +2000,28 @@ professional-duty tension recurs across disaster/crisis case studies.
   safeguards were not followed. Apply the eight-element architecture, naming the specific D.K.
   Basu-derived safeguards (Sec. 14.12) required before any further action.
 
+- ⚠️ **Mains (case study, 20 marks):** A surgeon discovers, mid-procedure, a condition that was not
+  covered by the patient's consent, and the patient is under general anaesthesia. Apply the
+  eight-element architecture and the consent-validity test (Sec. 14A.1), and separately appraise the
+  surgeon's moral conduct before, during and after the operation.
+- ⚠️ **Mains (case study, 20 marks):** A district's AI-assisted policing system is alleged to rest on
+  biased historical data, while public order has visibly improved. Apply the eight-element
+  architecture, naming the bias mechanism and the contestability safeguards required (Sec. 14.17).
+- ⚠️ **Mains (case study, 20 marks):** A newly posted Collector finds an intermediary network
+  operating through her own subordinates while a public-service backlog grows. Apply the
+  eight-element architecture and the two-track template (Sec. 14A.3), keeping the office running.
+- ⚠️ **Mains (case study, 20 marks):** A welfare scheme's mandatory authentication technology fails
+  systematically for a predictable group of eligible beneficiaries. Apply the eight-element
+  architecture and state the ethical test for using technology as a gatekeeper (Sec. 14.19).
+- ⚠️ **Mains (case study, 20 marks):** A District Magistrate takes charge of a conflict district where
+  the local administration and police have themselves lost functional neutrality. Apply the
+  eight-element architecture, and explain how a non-partisan image is protected without compromising
+  the non-partisan ethic (Sec. 14.20).
+- ⚠️ **Mains (case study, 20 marks):** An export authority can accept only one of two competing
+  purchase orders, one from a buyer that supports armed groups abroad. Apply the eight-element
+  architecture and the criteria-based denial template (Sec. 14A.4), and rebut the "someone else will
+  sell" argument (Sec. 14.21).
+
 ## 21. Study links
 
 - ✅ Advanced companion: `advanced/22_Case-Study-Method-and-Answer-Architecture.md`.
@@ -1159,7 +2042,24 @@ professional-duty tension recurs across disaster/crisis case studies.
   Information-Sharing.md` — the *Puttaswamy*/DPDP-Act ethical and statutory anchors for Sec. 14.13's
   data/privacy case.
 - ✅ `23_Comparative-and-Named-Real-Case-Studies.md` — real, named cases (including Vishaka, ICMR
-  and refugee jurisprudence) grounding the domain modules in Sec. 14.
+  and refugee jurisprudence) grounding the domain modules in Sec. 14; Sec. 4.5 there is the
+  consent/bodily-integrity anchor for Sec. 14.16, Sec. 4.3 carries the restriction-proportionality
+  authority for Sec. 14.20, and Sec. 4.6 carries the carefully caveated algorithmic-fairness
+  comparators for Sec. 14.17.
+- ✅ `../_PYQ-GS4-SectionB-2026.md` — the 2026 Section-B routing supplement: all twelve subparts
+  Q7(a)-Q12(b), their exact printed wording, demand decode, module route and owner boundaries.
+- ✅ `19_Corruption-Legal-Framework.md`, `20_Anti-Corruption-Institutions.md`,
+  `21_Protecting-Honest-Officials-and-Vigilance-Administration.md` — the offence law (including the
+  PC Act's intermediary/tout provision), the CVO/CVC/PIDPI/ACB channels, and the secret
+  preliminary-verification and preventive-vigilance instruments that Sec. 14.18 assembles.
+- ✅ `13_Emerging-Ethics-Technology-AI-and-Environment.md` — substantive owner of the AI-bias,
+  proportionality and surveillance doctrine that Sec. 14.17 applies but deliberately does not
+  restate.
+- ✅ `17_Citizens-Charters-Work-Culture-and-Service-Delivery.md` — substantive owner of the
+  service-delivery, multi-channel and automated-mismatch mechanism that Sec. 14.19 applies, and of
+  the single-window/timeline instruments that Sec. 14.18's continuity track uses.
+- ✅ `12_Corporate-Governance-and-International-Ethics.md` — substantive owner of the
+  international-ethics and arms-transfer doctrine that Sec. 14.21 applies but does not restate.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

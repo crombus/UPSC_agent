@@ -41,6 +41,12 @@ justice-design method (Rawls) for evaluating institutions themselves, not just i
 | ✅ **Golden Mean / Virtue Ethics** (Aristotle) | Virtue is a habituated disposition lying between two vicious extremes (e.g., courage between cowardice and recklessness); the good life (*eudaimonia*) is achieved through practising virtues, not merely following rules or calculating outcomes. |
 | ✅ **Veil of Ignorance / Justice as Fairness** (Rawls) | In the "original position", rational choosers deliberate behind a "veil of ignorance" about their own place in society (class, talents, conception of the good) and therefore choose principles for distributing "primary goods" that they could accept from any position. The lexical order is equal basic liberties, then fair equality of opportunity, then the difference principle, under which inequalities must benefit the least advantaged. |
 | ⚠️ **"Know thyself" and Socratic examination** | "Know thyself" is a Delphic maxim associated with the Socratic tradition, not a sentence authored by Socrates. Its administrative use is rigorous self-examination of assumptions and biases — foundational to `01`'s discretion-testing integrity. |
+| ✅ **Harm Principle** (Mill, *On Liberty*, 1859) | "The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others. His own good, either physical or moral, is not a sufficient warrant." Mill exempts children and those not "in the maturity of their faculties" — the space soft paternalism legitimately occupies. |
+| ⚠️ **Autonomy** | The competent person's capacity and entitlement to make and act on their own reasoned choices, with adequate understanding and free of controlling influence. The value the harm principle protects. |
+| ⚠️ **Beneficence** | A positive duty to act for another's good — to prevent and remove harm and to promote welfare. Distinct from **non-maleficence**, which is the narrower duty to do no harm. |
+| ⚠️ **Paternalism** | Interfering with a person's liberty or autonomy, without their consent, **solely** because one believes the interference will improve their own welfare or good (Gerald Dworkin's three conditions). **Soft/weak** paternalism intervenes where the choice is non-voluntary or uninformed and is generally defensible; **hard/strong** paternalism overrides a competent, informed, voluntary choice and is presumptively impermissible. |
+| ⚠️ **Supererogation** | An act that is morally good and praiseworthy but **not obligatory** — "beyond the call of duty," so that performing it earns praise while omitting it earns no blame (J. O. Urmson, "Saints and Heroes," 1958). |
+| ⚠️ **Perfect vs imperfect duty** (Kant) | A **perfect** duty admits no latitude and no exceptions in one's favour (e.g., do not make a lying promise). An **imperfect (wide)** duty — such as **beneficence** — is obligatory as an **end** one must adopt, but latitudinous as to when, how much and to whom it is discharged. |
 
 ## 3. Thinker-by-thinker administrative translation
 
@@ -67,9 +73,29 @@ justice-design method (Rawls) for evaluating institutions themselves, not just i
 5. **Mill:** ⚠️ Utilitarian reasoning justifies public-policy trade-offs (e.g., a lockdown's
    aggregate health benefit against individual liberty cost) but Mill's own liberty principle warns
    against sacrificing individual rights purely for majority convenience — a built-in self-limit.
-6. **Rawls:** ⚠️ The veil of ignorance is a powerful design tool for testing whether a welfare
+   ✅ **The harm principle stated (promoted here from `advanced/07` because it is load-bearing for
+   the paternalism/autonomy demand, and this Basic owner must be answer-complete):** coercion of a
+   competent adult is justified only to prevent **harm to others**; "his own good, either physical or
+   moral, is not a sufficient warrant." ⚠️ Administratively it yields a three-way sorting rule —
+   *inform and enable* (disclosure, decision aids, assisted filing) is always permissible;
+   *nudge* (default-setting with a genuine, low-cost opt-out) is a weak and usually defensible
+   interference; *override* a competent, informed, voluntary choice for the person's own good is
+   **hard paternalism** and needs an exceptional justification. ⚠️ Mill's own exemptions — children
+   and those not in "the maturity of their faculties" — are precisely where **soft** paternalism
+   operates, which is why capacity assessment, not benevolence, is the pivot. The applied treatment,
+   with Dworkin's conditions, *Samira Kohli* and the beneficence boundary, is in `08` §12B.
+6. **Kant — the beneficence/imperfect-duty strand:** ⚠️ beyond the Categorical Imperative's
+   universalisability test, Kant's Doctrine of Virtue classifies **beneficence** as an **imperfect
+   (wide) duty** — obligatory as an end, latitudinous in discharge. ⚠️ This matters because it places
+   helping others in the **duty** column while leaving the agent discretion over its extent — the
+   standard middle position between Singer's demanding principle and the view that all giving is
+   optional charity. Applied treatment in `08` §12C.
+7. **Rawls:** ⚠️ The veil of ignorance is a powerful design tool for testing whether a welfare
    scheme or public policy is fair — "would I design it this way if I didn't know whether I'd be
-   born into the beneficiary group or the taxpayer group?"
+   born into the beneficiary group or the taxpayer group?" ⚠️ Two further Rawlsian strands are
+   separately examinable: the **natural duty of mutual aid** (*A Theory of Justice* §19, §51) —
+   helping another in need or jeopardy **at little cost to oneself** — used in `08` §12C; and the
+   account of **civil disobedience** (§§55-59), used in `06` §10A alongside Ambedkar.
 
 ## 4. Indian applications and examples
 
@@ -200,6 +226,22 @@ applied without qualification."
 - ✅ `Philosophy/paper-1/western/Kant.md` — Kant's full philosophical system.
 - ✅ `Philosophy/paper-1/western/Plato-Aristotle.md` — Plato and Aristotle in full depth.
 - ✅ `05_Emotional-Intelligence-in-Administration.md` — the EQ link for Dalai Lama/Erikson content.
+- ✅ `06_Indian-Moral-Thinkers-and-Philosophers.md` §10A — Rawls's and King's civil-disobedience
+  conditions set beside Ambedkar's conditional test.
+
+<!-- 2026 POINTER (non-generated; kept outside the generated PYQ blocks below) -->
+## 2026 GS-IV Section-A pointer
+
+> ⚠️ The generated PYQ blocks below end at 2024-2025. The **2026 GS-IV Section-A** routing ledger for
+> all thirteen official parts is maintained separately in
+> [`../_PYQ-GS4-SectionA-2026.md`](../_PYQ-GS4-SectionA-2026.md).
+>
+> **Parts touching this owner (definitional supply only; no 2026 part is primarily owned here):**
+> **Q4(a)** draws its autonomy/beneficence/paternalism and harm-principle definitions from Section 2
+> and Section 3(5) above, with the applied treatment in `08` §12B; **Q6(b)** draws supererogation,
+> perfect/imperfect duty and Rawls's natural duty of mutual aid from Section 2 and Section 3(6)-(7),
+> with the applied treatment in `08` §12C; **Q3(a)** draws Rawls's civil-disobedience conditions from
+> Section 3(7), with the applied treatment in `06` §10A.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

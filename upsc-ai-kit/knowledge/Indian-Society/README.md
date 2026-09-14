@@ -1,5 +1,15 @@
 # Indian Society - Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> structures multidimensional discussion, social causality and qualified extent judgments.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes caste, diversity, gender, urbanisation, migration and globalisation signals.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes identity, inequality, migration, demographic and social-change concepts.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies Census, NFHS, labour and community-action evidence.
+
 > **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 
@@ -10,6 +20,10 @@
 > **Spine:** Official GS-I syllabus; audited 2024-2025 GS-I Mains PYQs; Census/RGI,
 > NFHS, MoSPI/PLFS, NITI Aayog and ministry sources. Volatile-source check: 21 July 2026.
 > **Start here:** `00_Master-Framework.md`.
+> **Indices and reports:** [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
+> maps inequality, gender, population, education, health, migration and household surveys.
+> **Government schemes:** [`../GOVERNMENT-SCHEMES-MATRIX.md`](../GOVERNMENT-SCHEMES-MATRIX.md)
+> maps livelihood, housing, health, education, nutrition, gender and vulnerable-group delivery.
 > **Pre-exam revision:** [Structures, Change and Distinctive Features Chart](REVISION-CHART_Structures-Change-and-Distinctive-Features.md).
 
 ---
@@ -65,7 +79,7 @@
 | 08 | Social Empowerment | Capability, mobility and representation |
 | 09 | Poverty and Developmental Issues | Exclusion, livelihood and justice |
 | 10 | Urbanisation: Problems and Remedies | Urban social pathology and inclusion |
-| 11 | Effects of Globalisation on Indian Society | Culture, work, family and consumption |
+| 11 | Effects of Globalisation on Indian Society | Culture, work, family, political mobilisation and consumption |
 | 12 | Social Change and Modernisation | Change processes and continuity |
 | 13 | Communalism | Identity mobilisation and social harmony |
 | 14 | Regionalism | Diversity, disparity and regional assertion |
@@ -78,6 +92,17 @@
 3. Read `10-11` for urban and global change.
 4. Read `12` to integrate change mechanisms.
 5. Read `13-15` as the social-cohesion cluster.
+
+## Direct 2026 Indian-Society Mains repair
+
+- **GS-I Q20, political effects of globalisation on Indian youth:** now routed
+  to `basic/11_Effects-of-Globalisation-on-Indian-Society.md`, Section "➕
+  Globalisation and Indian Youth — Social, Political, Economic and Cultural
+  (SPEC) Framework," which gives the SPEC quadrant table, a fully developed
+  political-mobilisation channel (issue-based mobilisation, global-discourse
+  absorption, political consumerism, diaspora feedback, the
+  engagement-participation gap trap) and a 15-mark answer spine
+  (`### 13.3`).
 
 ## Primary source routes
 

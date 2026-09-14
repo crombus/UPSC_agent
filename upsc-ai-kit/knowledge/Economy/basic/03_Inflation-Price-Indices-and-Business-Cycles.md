@@ -38,6 +38,7 @@ assign demand management to monetary policy and physical bottlenecks to supply-s
 | ✅ **Deflation** | A sustained fall in the general price level. |
 | ✅ **CPI** | Retail price index for a representative consumer basket; it includes services and is the nominal anchor for India's inflation targeting. |
 | ✅ **WPI** | Wholesale-goods price index; it excludes services and is not a household cost-of-living index. |
+| ✅ **PPI** | Producer-side price framework measuring prices received for output or paid for inputs; India introduced it in 2026 for a phased replacement of WPI, not CPI. |
 | ✅ **GDP deflator** | Broad price measure derived from nominal GDP relative to real GDP; it covers domestically produced final goods and services. |
 | ✅ **Output gap** | The gap between actual output and potential output; a negative gap signals weak demand conditions. |
 | ✅ **Phillips curve** | Short-run relationship suggesting inflation can move with demand and labour-market pressure, though the trade-off weakens during supply shocks. |
@@ -58,7 +59,8 @@ assign demand management to monetary policy and physical bottlenecks to supply-s
 ## 4. Institutions and policy tools
 
 - ✅ **MoSPI:** compiles CPI and national accounts from which the GDP deflator is derived.
-- ✅ **Office of the Economic Adviser:** compiles WPI for wholesale goods.
+- ✅ **Office of the Economic Adviser, DPIIT:** compiles WPI and the new PPI framework,
+  including output, experimental input and selected service PPIs.
 - ✅ **RBI and MPC:** target headline CPI and calibrate the policy rate, liquidity stance and communication under the inflation-targeting framework.
 - ✅ **Union and state food-management agencies:** use stocks, logistics, trade and anti-hoarding measures against supply-driven food inflation.
 
@@ -71,6 +73,15 @@ assign demand management to monetary policy and physical bottlenecks to supply-s
 - ⚠️ **Claim:** Food inflation can be commodity-specific and administratively sensitive. **Named evidence/example:** Repeated onion-price episodes and the use of the Price Stabilisation Fund, buffer releases and trade-management steps show India's reliance on non-monetary stabilisation tools. **Why it supports the claim:** They prove that perishable-food inflation often needs stocking, logistics and trade responses rather than a pure repo-rate answer. **Limit/status caution:** Such interventions are short-term stabilisers; if overused, they can distort producer incentives and delay structural reform.
 
 - ⚠️ **Claim:** CPI, WPI and GDP deflator can diverge sharply because they measure different baskets. **Named evidence/example:** During the 2021-22 inflation phase in India, wholesale-price pressure on producers rose faster than household inflation as global commodity costs hit goods-intensive sectors while WPI excluded services. **Why it supports the claim:** It clarifies why CPI is a household-welfare and policy anchor, WPI is a producer-cost signal, and the GDP deflator is an economy-wide output-price measure. **Limit/status caution:** None of the three alone captures every welfare, profitability or external-price effect.
+
+- ⚠️ **Claim:** PPI is a producer-price reform, not a new household inflation target.
+  **Named evidence/example:** In June 2026, the Office of the Economic Adviser introduced
+  output, experimental input and selected service PPIs with base **2022-23**, to run
+  alongside WPI during a five-year transition. **Why it supports the claim:** Output PPI
+  tracks prices received by producers, input PPI tracks prices paid for production inputs,
+  and service PPIs extend producer-side measurement beyond goods. **Limit/status caution:**
+  headline CPI remains the RBI-MPC inflation anchor; PPI is intended to replace WPI
+  gradually, not CPI.
 
 - ⚠️ **Claim:** Institutional inflation targeting changes the policy response to inflation. **Named evidence/example:** India's 2016 flexible inflation-targeting framework and the six-member Monetary Policy Committee made headline CPI the formal nominal anchor. **Why it supports the claim:** It helps answers explain why inflation diagnosis now feeds into a rule-based interest-rate decision rather than purely ad hoc discretion. **Limit/status caution:** When food and fuel shocks dominate, even a credible MPC cannot directly produce onions, lower global oil prices or repair supply chains.
 
@@ -114,6 +125,9 @@ assign demand management to monetary policy and physical bottlenecks to supply-s
 
 - ⚠️ Headline CPI targeting protects credibility, but aggressive tightening against food or fuel shocks may slow growth without removing the original bottleneck.
 - ⚠️ WPI is useful for producer-cost stress, yet it is a poor guide to household welfare because it excludes services and is not a consumer cost-of-living index.
+- ⚠️ PPI improves producer-side measurement by separating output and input prices and
+  adding selected services, but transition data must be interpreted carefully while WPI
+  and PPI run in parallel.
 - ⚠️ The GDP deflator is economy-wide, but it is derived from national accounts, revised with data updates and less suited to monthly retail-inflation management.
 - ⚠️ Phillips-curve logic is unstable when supply shocks, administered prices, imported commodities and informal labour markets dominate the inflation process.
 - ⚠️ Anti-inflation moves such as export restrictions, stock limits or price suppression can cool consumer prices temporarily but may weaken producer incentives if prolonged.
@@ -124,6 +138,10 @@ assign demand management to monetary policy and physical bottlenecks to supply-s
 - ✅ Headline CPI includes food and fuel; core inflation conventionally excludes them.
 - ✅ CPI is used for India's flexible inflation-targeting framework; WPI and the GDP deflator answer different questions.
 - ✅ CPI is a retail consumer basket with a much larger food component than WPI and it includes services; WPI is a wholesale goods index and excludes services; the GDP deflator tracks price change in domestically produced final goods and services.
+- ✅ PPI measures producer-side price change: output PPI records prices received, input PPI
+  records prices paid for inputs, and service PPI covers selected producer services.
+- ✅ PPI is planned to replace WPI after a five-year parallel transition; it does not replace
+  CPI as India's household inflation measure or monetary-policy anchor.
 - ✅ RBI's MPC uses headline CPI as the nominal anchor, not WPI or the GDP deflator.
 - ✅ Demand-pull inflation arises from excess aggregate demand; cost-push inflation arises from rising input costs or supply constraints.
 - ✅ A negative output gap weakens demand-pull pressure, but supply shocks can still keep inflation high.
@@ -139,6 +157,9 @@ assign demand management to monetary policy and physical bottlenecks to supply-s
 
 - ❌ Disinflation means prices are falling. -> It means prices are rising more slowly.
 - ❌ WPI is India's consumer cost-of-living index. -> CPI measures retail consumer inflation.
+- ❌ RBI introduced PPI to replace CPI as its inflation target. -> The Office of the Economic
+  Adviser, DPIIT introduced PPI to replace WPI gradually; headline CPI remains the RBI-MPC
+  anchor.
 - ❌ Core inflation is always lower than headline inflation. -> Relative food, fuel and other
   price movements can reverse this.
 - ❌ Repo action can produce vegetables or repair logistics. -> Monetary policy mainly
@@ -160,12 +181,18 @@ assign demand management to monetary policy and physical bottlenecks to supply-s
   **2012=100** for current releases.
 - ✅ The Office of the Economic Adviser introduced WPI with **2022-23** as base year
   for the May 2026 release onward, replacing the earlier **2011-12** series.
+- ✅ The Office of the Economic Adviser also launched the **PPI 2022-23** framework in
+  June 2026. Output PPI, experimental input PPI and selected service PPIs will run alongside
+  WPI during a planned five-year transition before PPI replaces WPI.
+- ✅ PPI is a producer-side statistical reform. It does not replace CPI, and the RBI continues
+  to target headline CPI under the 2026-31 flexible inflation-targeting framework.
 - ⚠️ Do not compute a trend by joining index levels or weights across these breaks
   unless using an official comparable back-series or linking method. A revised basket
   is a measurement update, not a price shock.
 
 Sources: [MoSPI CPI metadata](https://esankhyiki.mospi.gov.in/macroindicators?product=cpi&tab=metadata);
-[OEA WPI user note](https://eaindustry.nic.in/uploaded_files/wpi/WPI_Users_Note.pdf).
+[OEA WPI user note](https://eaindustry.nic.in/uploaded_files/wpi/WPI_Users_Note.pdf);
+[PIB release on revised WPI and PPI](https://pib.gov.in/PressReleasePage.aspx?reg=3&PRID=2267963&lang=1).
 
 ⚠️ **Interpretation caution:** The same headline rate can conceal opposite movements in
 food, fuel, housing and services, so component analysis is essential.
@@ -201,9 +228,11 @@ food, fuel, housing and services, so component analysis is essential.
 ### Directive decoder
 
 - ⚠️ **Discuss:** begin by identifying the inflation source and the relevant index, then explain the policy mix suited to that source.
-- ⚠️ **Examine / Analyse:** separate measurement (CPI, WPI, GDP deflator) from mechanism (demand-pull, cost-push, supply shock, output gap, expectations).
+- ⚠️ **Examine / Analyse:** separate measurement (CPI, WPI, PPI, GDP deflator) from mechanism (demand-pull, cost-push, supply shock, output gap, expectations).
 - ⚠️ **Critically examine / Evaluate:** after explaining RBI and MPC tools, add why supply-side food or fuel inflation limits what rate policy can achieve and who bears the cost of tightening.
-- ⚠️ **Compare / Justify:** for prompts such as *CPI vs WPI* or *headline vs core*, compare coverage, user, policy relevance and blind spots, then justify why headline CPI is the nominal anchor in India.
+- ⚠️ **Compare / Justify:** for prompts such as *CPI vs WPI vs PPI* or *headline vs core*,
+  compare coverage, price stage, user, policy relevance and blind spots; explain that PPI
+  replaces WPI gradually while headline CPI remains India's nominal anchor.
 - ⚠️ **"Managing inflation and unemployment beyond welfare schemes" (2022 GS-II):** run the
   Section 5A decode chain (incidence on poor -> transfer/indexation limits -> disinflation's
   MSME/employment cost -> supply-side and structural-job measures), then complete the answer
@@ -287,8 +316,11 @@ food, fuel, housing and services, so component analysis is essential.
 
 ### Semantic-completeness ownership and PYQ control
 
-- **Official syllabus/index and owned core:** Inflation is a sustained increase in a chosen price index; distinguish headline/core, demand/cost/supply components, CPI/WPI/GDP deflator coverage, disinflation/deflation and cyclical output-employment dynamics.
-- **Indispensable distinction and prerequisite taxonomy:** Price level is not inflation rate, falling inflation is not falling prices, WPI is not a consumer cost-of-living index, and base effect is arithmetic rather than a new supply shock.
+- **Official syllabus/index and owned core:** Inflation is a sustained increase in a chosen price index; distinguish headline/core, demand/cost/supply components, CPI/WPI/PPI/GDP deflator coverage, disinflation/deflation and cyclical output-employment dynamics.
+- **Indispensable distinction and prerequisite taxonomy:** Price level is not inflation rate,
+  falling inflation is not falling prices, WPI and PPI are not consumer cost-of-living
+  indices, PPI is replacing WPI rather than CPI, and base effect is arithmetic rather than
+  a new supply shock.
 - **Mechanism, implementation and evidence control:** State index, weights/base, month or year reference, year-on-year versus sequential rate and provisional/final status; trace shock, expectations, wages, margins, policy response and lag without treating correlation as mechanism.
 - **✅ Verified current fact (official sources rechecked 5 September 2026):**
   Rechecked 6 September 2026 against the listed official publisher or regulator source. The live CPI metadata attempt returned only a shell and no WPI text was independently retrieved. The package therefore uses no fresh inflation number and preserves only the owners' dated CPI 2024=100 and WPI 2022-23-base series-boundary statements. Sources: https://esankhyiki.mospi.gov.in/macroindicators?product=cpi&tab=metadata; https://eaindustry.nic.in/uploaded_files/wpi/WPI_Users_Note.pdf

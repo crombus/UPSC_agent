@@ -129,6 +129,8 @@ public value + productivity + security + strategic autonomy
 
 > **Trap:** Remote sensing primarily observes reflected/emitted electromagnetic radiation; it does not always require physical contact or visible light.
 
+> **2026 update:** Mission Drishti (GalaxEye, launched 3 May 2026) fuses optical (MSI) + SAR on **one platform, one pass** — "OptoSAR" — world's-first claim rests on single-platform synchronisation removing parallax/temporal-gap error, not on constellation size. See `basic/02` Section 13.
+
 ---
 
 ## 6. Human spaceflight and planetary missions
@@ -295,6 +297,8 @@ public value + productivity + security + strategic autonomy
 
 > **Trap:** AI accuracy does not prove fairness, causality, safety or suitability for every population.
 
+> **2026 update:** Agentic AI = AI with "agency" — plans and acts across a perceive→reason→plan→act→reflect loop (sustained by memory/context), not just single-prompt generation; example: Manus AI (sandboxed, tool/software-invoking). Risks: accountability gap, reduced per-step human oversight, wider security/misuse surface. See `basic/09` Section 13.
+
 ---
 
 ## 13. Quantum technology
@@ -398,6 +402,8 @@ public value + productivity + security + strategic autonomy
 `discovery -> laboratory validation -> scale-up -> biosafety/clinical testing -> regulatory approval -> manufacturing -> surveillance`
 
 > **Core rule:** A biological mechanism proven in vitro may fail in organisms, populations or industrial scale.
+
+> **2026 update — biotech for processing perishables:** (1) fermentation-produced pectinase/cellulase improves extraction and clarification of mango, guava and citrus juice/pulp; (2) selected lactic-acid bacteria or yeasts preserve and convert surplus fruit/vegetables into value-added products. Delayed-ripening RNAi is research-stage context, not the primary Indian farmer-use example. See `basic/13` Section 13.
 
 ---
 

@@ -1,5 +1,18 @@
 # International Relations - Knowledge Base Index
 
+> **Organisation origins and importance:** [`../INTERNATIONAL-ORGANISATIONS-ORIGIN-AND-IMPORTANCE.md`](../INTERNATIONAL-ORGANISATIONS-ORIGIN-AND-IMPORTANCE.md)
+> covers the founding context, predecessor chain and significance of all 150 indexed bodies.
+
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> structures interest-based analysis, policy evaluation and qualified strategic judgments.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes country, grouping, connectivity, diaspora and global-governance signals.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes treaty status, maritime zones, power instruments, alliances and diplomatic concepts.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies evacuation, connectivity, HADR and Global South case studies.
+
 > **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
 
 > **Subject:** International Relations | **GS Paper:** GS-II (bilateral, regional and
@@ -20,6 +33,16 @@
 > **Currency:** volatile claims in this folder were re-verified against
 > first-party sources on **3 August 2026**; every such claim carries its own date.
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Major Acts:** [`../MAJOR-ACTS-INDEX.md`](../MAJOR-ACTS-INDEX.md)
+> maps immigration, passports, extradition, maritime zones, WMD and treaty-implementation law.
+> **Indices and reports:** [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
+> maps multilateral economic, migration, conflict, trade, development and energy publications.
+> **International organisations:** [`../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md`](../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md)
+> maps membership, mandate, headquarters, recent expansion and India's exact status.
+> **Environmental conventions:** [`../ENVIRONMENT-CONVENTIONS-AND-PROTOCOLS-INDEX.md`](../ENVIRONMENT-CONVENTIONS-AND-PROTOCOLS-INDEX.md)
+> maps climate, biodiversity, chemicals, oceans, polar governance and India's treaty status.
+> **Map-location bank:** [`../GEOGRAPHY-MAP-LOCATION-BANK.md`](../GEOGRAPHY-MAP-LOCATION-BANK.md)
+> maps strategic straits, islands, borders, ports, corridors and conflict-region geography.
 > **Topic 01 complete package:** [`01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Complete-Topic-Package.md`](01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Complete-Topic-Package.md).
 > **Pre-exam revision:** [`REVISION-CHART_Actors-Interests-and-Distinctive-Features.md`](REVISION-CHART_Actors-Interests-and-Distinctive-Features.md)
 > compresses all 12 Core/Advanced pairs into one interest-instrument-outcome map,
@@ -114,7 +137,7 @@
 | 01 | Foreign-Policy Foundations and Strategic Autonomy | National interest, autonomy, instruments |
 | 02 | India and the Neighbourhood | Neighbourhood First, bilateral asymmetry |
 | 03 | India, China, Major Powers and Resilient Supply Chains | Major-power balancing, technology, supply chains |
-| 04 | Indo-Pacific, Indian Ocean and Maritime Security | Maritime order, SAGAR, island-state partners |
+| 04 | Indo-Pacific, Indian Ocean and Maritime Security | Maritime order, SAGAR, IPMDA-Quad bridge, island-state partners |
 | 05 | Central Asia, Eurasia and Connectivity | Continental connectivity, energy, constraints |
 | 06 | West Asia, Energy Security and Connectivity | Gulf energy, diaspora, connectivity corridors |
 | 07 | India-Africa Development and Digital Partnership | Capacity building, DPI, co-development |
@@ -150,6 +173,21 @@
 4. Before using a current example, verify its exact date, participation category
    and legal or implementation status.
 
+## Direct 2026 GS-II static repair
+
+- **Q20, BRI and great-power competition in South Asia:** routed to
+  `basic/03_India-China-Major-Powers-and-Resilient-Supply-Chains.md`. The Core
+  owner now includes BRI architecture, CPEC sovereignty doctrine, a
+  Pakistan-Sri Lanka-Bangladesh-Nepal-Maldives-Afghanistan matrix, the balanced
+  debt debate, dual-use/security analysis, effects on India's regional
+  influence, alternatives and a 15-mark answer spine.
+- **Q9, IPMDA-SAGAR-Quad critical assessment:** routed to
+  `basic/04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`, Section 4A.
+  The Core owner now includes IPMDA's origin and architecture (2022 Tokyo
+  Summit), the 2026 IPMSC/Common-Operating-Picture update, a SAGAR-Quad-IPMDA
+  comparison table, a balanced critical-assessment table and a 10-mark answer
+  spine.
+
 ## Primary source routes
 
 - MEA bilateral documents, country briefs and press releases; PMO and PIB
@@ -173,3 +211,38 @@
 - Ramesh Singh, *Indian Economy*, and Economic Survey 2025-26, for the
   trade, development, energy and remittance linkages that IR interprets
   strategically (dated and scoped to that context).
+
+## Physical-book chapter reading index
+
+> **Confirmed book:** Rajiv Sikri, *Challenge and Strategy: Rethinking India's
+> Foreign Policy*.
+
+| Book chapter | Priority | Knowledge route | Reading instruction |
+|---|---|---|---|
+| The 21st Century World | **A** | Topics 01, 03 and 11 | Read the changing order, power distribution and implications for strategic autonomy |
+| India and South Asia | **A** | Topic 02 | Read asymmetry, neighbourhood constraints and regional strategy |
+| Pakistan and Afghanistan | **A** | Topic 02 | Read historical-strategic drivers; replace all current facts and policy status |
+| Bangladesh, Myanmar and Northeast Region | **A** | Topics 02 and 05 | Read connectivity, security and neighbourhood linkages |
+| Sri Lanka, Nepal and Bhutan | **A** | Topic 02 | Compare India's interests, sensitivities and instruments |
+| Tibet and China | **A** | Topics 02-03 | Read boundary, Tibet and power-competition foundations; current positions require MEA sources |
+| Look East Policy | **A** | Topics 04 and 10 | Read historical evolution; update through Act East, Indo-Pacific and current ASEAN documents |
+| Persian Gulf, Palestine and Israel | **A** | Topic 06 | Read energy, diaspora and balancing logic |
+| Russia and Eurasia | **A** | Topics 03 and 05 | Read strategic continuity, defence and continental constraints |
+| US and Nuclear Issues | **A** | Topics 01 and 03 | Read transformation of ties, nuclear diplomacy and strategic trade-offs |
+| Energy Security | **A** | Topics 05-06 and 11 | Read geography, dependence and diplomatic instruments; update data officially |
+| Economic Diplomacy | **A** | Topics 07-08 and 11 | Read trade, investment, development partnership and institutional bargaining |
+| Defence and Diplomacy | **A** | Topics 01, 03-04 and 10 | Read defence cooperation as a foreign-policy instrument, not operational military detail |
+| Traditions and Institutions | **A** | Topics 01 and 12 | Read policy traditions, decision institutions and capacity constraints |
+| India's Strategic Choices | **A** | Topics 01, 03, 08 and 10 | Use as the synthesis chapter for autonomy, alignment choices and global role |
+| India Rising? | **B** | Topics 01 and 08 | Read as an evaluative conclusion, retaining the author's date and assumptions |
+
+### Reading order
+
+1. *The 21st Century World*, *Traditions and Institutions*, *India's Strategic Choices*.
+2. South Asia and China.
+3. East/Indo-Pacific, Eurasia and West Asia.
+4. Energy, economic and defence diplomacy.
+
+**Book-period limit:** this is a strategic foundation, not a current-affairs source. Every
+summit, grouping membership, agreement, conflict, corridor, sanctions regime and trade/energy
+figure must be updated from first-party sources before use.

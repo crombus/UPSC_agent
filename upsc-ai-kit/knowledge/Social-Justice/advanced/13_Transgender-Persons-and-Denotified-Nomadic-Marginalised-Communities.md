@@ -102,6 +102,80 @@ at declaration without delivery infrastructure.
 - ⚠️ Recommended reform: mandate a central DNT list (similar to the Central OBC List
   process) to enable uniform eligibility across welfare schemes.
 
+## 4A. Advanced doctrinal layer: the 2026 Amendment Act's constitutional test
+
+> **Optional deeper nuance** on the Basic owner's Section 3A, which carries the
+> core 10-mark answer route for the direct 2026 GS-II Q1 PYQ. This layer is
+> enrichment for a 15/20-mark or unfamiliar doctrinal question, not a
+> precondition for the core answer.
+
+### From "psychological test" to medical gate-keeping — a doctrinal reversal test
+
+```text
+NALSA v. Union of India (2014)
+"psychological test": gender identity = deeply felt sense of self
+        |
+        v
+Transgender Persons Act, 2019, Section 4(2)
+statutory right to self-perceived gender identity
+        |
+        v
+Transgender Persons (Protection of Rights) Amendment Act, 2026
+Section 4(2) deleted; certificate issued only after a designated
+medical board's recommendation (Chief/Deputy Chief Medical Officer)
+        |
+        v
+ANALYTICAL QUESTION: does statutory conditioning of legal recognition
+on medical-board approval revive the "biological test" NALSA rejected,
+or is it a permissible regulatory/verification mechanism?
+```
+
+⚠️ **Two competing constitutional readings, both argued and neither yet
+settled by the Supreme Court:**
+
+| Reading | Argument |
+|---|---|
+| Autonomy-violation reading (petitioners) | Article 21 autonomy under *NALSA* and *Puttaswamy* locates gender identity in self-perception; conditioning it on medical-board certification substitutes state/medical judgment for the individual's own declaration, reintroducing exactly the "biological test" *NALSA* rejected. |
+| Regulatory-legitimacy reading (Union government) | A verification mechanism responds to a distinct, permissible state interest — preventing misuse of welfare entitlements and curbing forced/coerced transition (addressed by the new kidnapping/grievous-hurt offence) — and Article 21 permits reasonable, procedure-established restrictions, not an unconditional self-declaration regime. |
+
+### Privacy doctrine applied precisely (Puttaswamy's three facets)
+
+| *Puttaswamy* facet | 2026 Amendment provision it engages | Precise concern |
+|---|---|---|
+| Decisional autonomy | Deletion of Section 4(2) self-perceived-identity right; medical-board gate for the certificate | Substitutes external verification for self-determination of gender identity. |
+| Informational privacy | Mandatory hospital-to-District-Magistrate reporting of gender-affirmation-surgery details | Creates a new, non-consensual flow of sensitive health/identity data to state authorities without a dedicated data-protection safeguard in the Act. |
+| Bodily integrity/autonomy | Mandatory (not optional) revised certificate after surgery | Converts a previously optional medical step into a compulsory administrative-legal consequence of a bodily-integrity choice. |
+
+⚠️ **Advanced trap:** do not treat "informational privacy" and "the right to
+self-identify one's gender" as the same claim — they are two distinct
+*Puttaswamy*/Article 21 facets, and a strong answer engages both separately
+rather than conflating them into one undifferentiated "privacy violation."
+
+### Litigation posture — precise procedural status
+
+| Step | Date | What it does NOT mean |
+|---|---|---|
+| Article 32 petition filed (Laxmi Narayan Tripathi) | 24 April 2026 | Filing is not a finding of unconstitutionality. |
+| Supreme Court hearing; no interim relief; notice issued; referred to a three-judge Bench | 4 May 2026 | Declining interim relief is not a ruling on merits either way; a pending reference is not a stay of the Act. |
+
+> ⚠️ Any 15/20-mark answer asserting a final constitutional outcome (upheld or
+> struck down) is factually wrong as of the last verified hearing; the
+> analytically correct move is to present both doctrinal readings and flag the
+> matter as sub judice.
+
+### Comparative note (optional enrichment)
+
+⚠️ Several other jurisdictions have moved toward self-declaration-based gender-
+recognition regimes (removing medical/surgical preconditions), which is the
+direction *NALSA* itself pointed toward in 2014; the 2026 Amendment Act moves
+the Indian statutory framework in the opposite direction for legal recognition
+under this specific Act, even as it does not purport to overrule *NALSA*'s
+constitutional holding directly. ⚠️ Treat this as an analytical tension for
+essay-type elaboration, not as evidence that *NALSA* has been legislatively
+overruled — a Parliamentary amendment cannot overrule a constitutional
+interpretation without itself surviving judicial review, which is precisely
+what is sub judice.
+
 ## 5. Indian applications and boundary cases
 
 - ⚠️ A transgender person in a tier-3 town may possess a DM certificate but still face
@@ -146,6 +220,10 @@ at declaration without delivery infrastructure.
   (certificate mechanism, specific anti-discrimination provisions).
 - ❌ All DNT communities are listed in a central statutory list. -> No such central list
   exists; communities appear (or not) on varying state lists.
+- ❌ The 2026 Amendment Act's medical-board requirement has been judicially
+  confirmed as consistent with *NALSA*. -> The consistency question is exactly
+  what is sub judice before a three-judge Bench (notice issued 4 May 2026); no
+  final ruling exists to cite either way.
 
 ## 9. 📰 Current-anchor note
 
@@ -153,12 +231,21 @@ at declaration without delivery infrastructure.
   DWBDNC remains a non-statutory advisory Board. Shelter and beneficiary totals are
   dynamic; the analytical point is the gap between a legal/scheme route and accessible
   delivery, not an undated portal number.
+- 📰 **2026 Amendment Act anchor:** in force from 25 May 2026 (S.O. 2620(E), 22
+  May 2026); constitutional challenge pending before a three-judge Bench since
+  the 4 May 2026 hearing. See Section 4A for the doctrinal test and the Basic
+  owner's Section 3A for the direct 2026 GS-II Q1 answer route.
 - ⚠️ No direct GS-II Mains PYQ in 2024-2025 on transgender or DNT welfare; the probable
-  questions below anticipate UPSC framing.
+  questions below anticipate UPSC framing for years other than 2026.
 
 ## 10. PYQ-based analytical application
 
-- ⚠️ No direct PYQ; apply the recognitive-justice framework (Topic 01) to any future
+- ✅ The Basic owner's Section 3A and its "2026 Mains PYQ integration (manual)"
+  table carry the direct, verified 2026 GS-II Q1 demand (effect of the 2026
+  amendment on Article 21 self-identity privacy); this Advanced file supplies
+  the deeper doctrinal test (Section 4A) rather than duplicating the demand
+  card.
+- ⚠️ For any other/unfamiliar question, apply the recognitive-justice framework (Topic 01) to any future
   question: (1) identify the identity/dignity denial, (2) trace the statutory/policy
   response, (3) diagnose the implementation gap, (4) recommend enforcement or
   documentation correction.

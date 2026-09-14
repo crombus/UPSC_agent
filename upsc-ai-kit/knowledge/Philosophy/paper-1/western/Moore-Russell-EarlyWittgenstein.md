@@ -468,6 +468,104 @@ This is not a verification principle or a declaration that value-claims are empi
 
 > ⚠️ **2021 Q4(c) strategy:** Explain the say/show distinction, then show that the *Tractatus* itself falls on the "showing" side — hence the ladder metaphor; silence is the *logical* consequence, not a personal preference.
 
+### 6.7 THE HIERARCHY OF LANGUAGES — RUSSELL'S PROPOSED WAY OUT ✅ (owner block; 2026 Q4(a), 20 marks)
+
+#### 6.7.1 The difficulty, stated exactly ✅
+
+1. **Picture theory:** a proposition is a picture of a possible state of affairs; it can picture only because it **shares logical form** with what it depicts (*TLP* 2.161, 2.17).
+2. **The limit:** a picture "cannot depict its pictorial form: it displays it" — it cannot place itself **outside** its own form of representation (*TLP* 2.172–2.174).
+3. ∴ Propositions **say** how things contingently stand; their **logical form, internal relations and sense** can only be **shown** (4.121–4.1212).
+4. ∴ Whatever is not a contingent fact in logical space — logical form, ethics, aesthetics, the world as a whole, the metaphysical subject, the mystical — cannot be *said* at all (6.4–6.522).
+5. ∴ Philosophy is an **activity of clarification**, not a doctrine (4.111–4.115).
+6. **The self-reference problem:** the *Tractatus* nonetheless appears to *state* truths about logical form and the limits of saying. Wittgenstein accepts the consequence: its propositions are elucidations, recognised as nonsensical and thrown away like a **ladder** once climbed (6.54).
+
+> ⚠️ **Interpretive control (say this in the answer):** the **traditional/ineffabilist** reading holds that the sentences gesture at genuine but unsayable truths; the **resolute** reading denies that there are ineffable doctrines at all and treats the text as therapy that leads the reader to recognise its own pseudo-propositions as plain nonsense. The 2026 quotation presupposes the traditional reading; note the alternative rather than ignoring it. ❓
+
+#### 6.7.2 Russell's proposal ✅ (1922 Introduction to the *Tractatus*)
+
+1. Language **L₁** cannot state its own logical structure.
+2. A **metalanguage L₂** can describe the structure of L₁.
+3. A further language **L₃** describes L₂ — "and so on to any assignable extent," with **no final language**.
+4. ∴ "Every language has, as Mr Wittgenstein says, a structure concerning which, *in the language*, nothing can be said, but there may be another language dealing with the structure of the first language."
+
+- ⚠️ Russell offers this as a **possible loophole**, admitting that objections remain unsolved; Wittgenstein himself was unpersuaded and regarded the Introduction as a misunderstanding of his aim. ✅
+- ✅ **Later formal vindication:** Tarski's object-language/metalanguage distinction shows that a materially adequate truth-definition for a language L requires an **essentially richer metalanguage**, and that a consistent language cannot contain its own unrestricted truth-predicate. ⚠️ This is a **later, independent development addressing semantic paradox and truth-definition** — never present Tarski as Wittgenstein's direct answer, and never date it to the *Tractatus* period.
+
+#### 6.7.3 Does the hierarchy meet Wittgenstein's difficulty? — the argued verdict ⚠️
+
+| Test | Hierarchy succeeds | Hierarchy fails |
+|---|---|---|
+| Crude self-reference (a language stating its own syntax/truth) | ✅ blocked cleanly; syntax and truth for L₁ are stated rigorously in L₂ | — |
+| Formal semantics of a given object language | ✅ Tarskian truth-definitions become available | — |
+| **Logical form as such** | — | ❌ each metalanguage has a form **it** cannot characterise internally; the problem is displaced upward, never dissolved |
+| **Totality** | — | ❌ the hierarchy is **open**: there is no final, all-encompassing language, so "the limits of language" are never stated |
+| Wittgenstein's actual claim | — | ❌ his point concerns the **logical form common to representation as such**, not vocabulary missing from one particular language; a richer vocabulary does not exit representation |
+| **Ethics, value, the metaphysical subject, the mystical** | — | ❌ these are not shown to be sayable in *any* metalanguage; they are not facts in logical space at all, so a formal ascent does not touch them |
+| The *Tractatus*'s own sentences | ⚠️ partially — some could be recast as metalinguistic syntax | ❌ the transcendental and mystical remarks (5.6–7) cannot be so recast |
+
+- ✅ **Balanced verdict line:** "The hierarchy is a genuine solution to a **formal-semantic** problem and an evasion of a **transcendental** one: it tames self-reference at the cost of turning a single unsayable limit into an infinite series of unsayable limits."
+- ⚠️ **Second-order point worth a mark:** if one accepts the *resolute* reading, the hierarchy answers a question the *Tractatus* never asked — there were no ineffable truths needing a higher language in the first place.
+
+#### 6.7.4 Presuppositions ⚠️
+
+- **P1 (Wittgenstein):** representation requires shared logical form, and form cannot be represented from outside.
+- **P2 (Wittgenstein):** sense is bipolar — a genuine proposition can be true or false; logical form and value are not bipolar, hence not sayable.
+- **P3 (Russell/Tarski):** "language" can be individuated as a formal system with a fixed syntax and semantics.
+- **P4 (Russell/Tarski):** ascending to a richer language is legitimate and does not change the subject.
+- ⚠️ **P3–P4 are exactly what Wittgenstein's picture-theoretic argument denies as a *solution*:** if the limit is a condition of representation as such, no formalisation escapes it.
+
+#### 6.7.5 Objection → Reply ledger
+
+| Objection | Reply | Verdict |
+|---|---|---|
+| ❌ "The hierarchy dissolves the say/show distinction: what is shown in L₁ is said in L₂." | Only **structural** features are recovered; the form of L₂ remains shown, and internal relations still manifest themselves at every level. | ⚠️ Strong for Wittgenstein. |
+| ❌ "An infinite hierarchy is no worse than infinite natural-number series." | Harmless for arithmetic, fatal here: the claim to have stated **the limits of language** requires a final standpoint that the hierarchy forbids. | ✅ Decisive. |
+| ❌ "Tarski proved Wittgenstein wrong." | Tarski proved a **conditional** result about truth-definitions for formalised languages; it does not show that logical form or value can be said, nor does it address natural language as a whole without idealisation. | ✅ Use this to control the answer. |
+| ❌ "If the *Tractatus* is nonsense, it cannot even pose the problem the hierarchy answers." | On the traditional reading its remarks are elucidatory; on the resolute reading the problem is therapeutic, not doctrinal. Either way the hierarchy misses the target. | ❓ Flag the interpretive split. |
+| ❌ "Wittgenstein's later work concedes the point." | The *Investigations* abandons the picture theory and the single logical form altogether — it dissolves the problem rather than accepting the hierarchy. See [`Later-Wittgenstein.md`](Later-Wittgenstein.md). | ✅ Good closing move. |
+
+#### 6.7.6 Traps ❌
+
+- ❌ Agreeing or disagreeing without stating the picture-theoretic **reason** for the limit; the marks are in steps 1–4 of §6.7.1.
+- ❌ Attributing the hierarchy to Wittgenstein. It is **Russell's** Introduction — a proposal Wittgenstein rejected.
+- ❌ Anachronism: Tarski (1933/1935) is later than the *Tractatus* (1921) and answers the **Liar**, not Wittgenstein.
+- ❌ Confusing "cannot be said" with "meaningless in the positivist sense" — see [`Logical-Positivism.md`](Logical-Positivism.md); for Wittgenstein the unsayable is **shown**, not discarded as empirically empty.
+- ❌ Treating ethics and the mystical as merely a further layer of syntax; they are not facts at any level.
+- ❌ Writing the 2021-style "say/show" essay without ever evaluating the hierarchy: the 2026 wording demands **agreement or disagreement with reasons and justification**.
+
+#### 6.7.7 Answer spine ⚠️
+
+```
+20-mark (2026 Q4a: "Wittgenstein's difficulty about not being able to say anything within a given
+language about the structure of that language can be met by the idea of a hierarchy of languages."
+Do you agree? Give reasons and justifications):
+  Position: partial agreement — the hierarchy meets the FORMAL difficulty and fails the
+            TRANSCENDENTAL one. (Declare it in line 1; the question demands a stand.)
+  Body A  : Why the difficulty arises — picture theory → shared logical form → a picture cannot
+            depict its own form (2.172–2.174) → say/show (4.1212) → self-application and the
+            ladder (6.54).
+  Body B  : Russell's proposal — L1, L2, L3…, "no final language"; his own admission that it is a
+            loophole with unresolved objections; Tarski's later formalisation as evidence of
+            technical fruitfulness.
+  Body C  : Evaluation grid — what it solves (self-reference, truth-definition) vs what it cannot
+            (form of each metalanguage, totality, representation as such, ethics/value/mystical).
+  Body D  : Interpretive qualification — ineffabilist vs resolute readings; on the resolute reading
+            the hierarchy answers a question that was never asked.
+  Close   : The later Wittgenstein does not ascend the hierarchy; he abandons the demand for a
+            single logical form — which is the deeper response to the difficulty.
+
+15-mark rewording ("Can logical form be spoken of? Discuss the say/show distinction"):
+  §6.5 + §6.7.1 + a compressed version of the evaluation grid.
+
+10-mark rewording ("What is meant by the limits of language in the Tractatus?"):
+  World of facts → picture → form shown not said → 6.54 ladder → 7 silence; one line on Russell's
+  hierarchy as the standard proposed escape.
+```
+
+**2026 route ✅** — Paper I, Section A, **Q4(a), 20 marks**: "'Wittgenstein's difficulty about not being able to say anything within a given language about the structure of that language can be met by the idea of a hierarchy of languages.' Do you agree with this statement? Give reasons and justifications for your answer." Primary owner: this file, §6.7 (with §§6.1–6.6). See [`../_PYQ-Western-Philosophy-2026.md`](../_PYQ-Western-Philosophy-2026.md).
+
+**Source anchors ✅** — *TLP* [§§2.1–2.225](https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/2), [§§4.01–4.1212](https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/4), [§§6.53–6.54](https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/6); [Russell's 1922 Introduction](https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/Introduction) (the hierarchy passage); [SEP, *Ludwig Wittgenstein*, §§2.1–2.3](https://plato.stanford.edu/entries/wittgenstein/); [SEP, *Tarski's Truth Definitions*, §1](https://plato.stanford.edu/entries/tarski-truth/).
+
 ---
 
 ## 7. INTER-THINKER / INTER-SCHOOL DEBATES ⚠️
@@ -627,6 +725,15 @@ This is not a verification principle or a declaration that value-claims are empi
 
 See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
 
+### 2026 additions ✅
+
+| Year | Question | Marks | Exact demand | Owner status |
+|---|---|---:|---|---|
+| 2026 | Q1(e) | 10 marks | "I can prove now, for instance, that two human hands exist." How does Moore use this illustration to prove the existence of an external world? Critically discuss. | **primary** — §1.2 "Proof of an External World" (1939), with §1.1 |
+| 2026 | Q4(a) | 20 marks | "Wittgenstein's difficulty about not being able to say anything within a given language about the structure of that language can be met by the idea of a hierarchy of languages." Do you agree? Give reasons and justifications. | **primary** — §6.7, with §§6.1–6.6 |
+
+See the [Western Philosophy PYQ Bank, 2026](../_PYQ-Western-Philosophy-2026.md).
+
 ## 12. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 
 ### 10-mark: "The golden mountain is very high — discuss via Russell's theory of descriptions." (2025)
@@ -761,6 +868,7 @@ Close   : Incomplete symbols are the scalpel of analytic philosophy; logical ato
 - [A priori / a posteriori](../_themes/A-priori-a-posteriori-knowledge.md) — tautologies as sinnlos; logical form shown not said.
 - Cross-paper: [Religious Language](../../paper-2/philosophy-of-religion/Religious-Language.md) — the Tractatus' say/show distinction as ancestor of non-cognitivism about religious language.
 - PYQ bank: [Western Philosophy PYQs, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md)
+- PYQ bank (2026): [Western Philosophy PYQs, 2026](../_PYQ-Western-Philosophy-2026.md)
 
 ---
 

@@ -1,5 +1,15 @@
 # Polity - Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> converts Polity content into directive-compliant 10-, 15- and 20-mark answers.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes constitutional provisions, institutions and doctrines to their controlling owners.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes rights, institutions, legislative devices, emergencies, writs and federal concepts.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies constitutional cases and governance evidence for Mains answers.
+
 > **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md)
 
 > **Subject:** Indian Constitution and Polity | **GS Paper:** GS-II
@@ -24,6 +34,18 @@
 > of the census figures and delimitation. **No line in `basic/` now makes a case, trap, Mains angle or
 > PYQ route depend on `advanced/`.**
 > **Pre-exam revision:** [Constitutional Architecture and Distinctive Features Chart](REVISION-CHART_Constitutional-Architecture-and-Distinctive-Features.md).
+> **Major panels:** [`_revision/Major-Committees-Commissions-and-Reports.md`](_revision/Major-Committees-Commissions-and-Reports.md)
+> maps Constitution-making, local-government, federal, electoral and judicial reform committees.
+> **Constitution quick-reference:** [`_revision/Constitutional-Quick-Reference.md`](_revision/Constitutional-Quick-Reference.md)
+> links the high-yield Article map, all 12 Schedules and every enacted amendment from 1st to 106th.
+> **Landmark judgments:** [`../LANDMARK-JUDGMENTS-INDEX.md`](../LANDMARK-JUDGMENTS-INDEX.md)
+> provides the cross-syllabus case, doctrine, answer-use and current-status ledger.
+> **Major Acts:** [`../MAJOR-ACTS-INDEX.md`](../MAJOR-ACTS-INDEX.md)
+> maps constitutional, election, citizenship, accountability and rights legislation.
+> **Indices and reports:** [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
+> maps democracy, rule of law, rights, transparency, elections and federal-governance measures.
+> **Institutions and regulators:** [`../INSTITUTIONS-AND-REGULATORS-INDEX.md`](../INSTITUTIONS-AND-REGULATORS-INDEX.md)
+> maps legal status, composition, appointments, tenure, powers and accountability.
 
 ---
 
@@ -121,3 +143,71 @@ eighth-edition Core additions.
 - ⚠️ Practice prompts must never be labelled as actual PYQs.
 - Constitutional text, statute, rule, convention, judicial interpretation and current
   institutional practice must be labelled distinctly; a proposal or Bill is not law.
+
+## Physical-book chapter reading index
+
+> **Confirmed physical book:** M. Laxmikanth, *Indian Polity*, Eighth Edition
+> courseware (2026).
+>
+> **Use rule:** read the relevant `basic/` Core owner first or immediately after the
+> corresponding book chapter. The book supplies the static institutional skeleton; the
+> Core owner controls later constitutional amendments, judgments, current legal status,
+> criticism and 10/15/20-mark answer structure.
+
+### Priority code
+
+| Code | Meaning |
+|---|---|
+| **A - Core** | Read closely for both Prelims and Mains |
+| **B - Selective** | Read the named chapter, but make notes only on the specified syllabus use |
+| **C - Reference** | Consult for a particular institution, comparison or PYQ |
+| **Skip** | Outside Polity's core syllabus or better owned by another subject |
+
+### M. Laxmikanth - *Indian Polity*, Eighth Edition
+
+| Book chapters | Priority | UPSC syllabus route | Reading instruction / Core owner |
+|---|---|---|---|
+| Chs. 1-2 - Historical Background; Making of the Constitution | **A** | Historical underpinnings and evolution | Read fully with `basic/Historical-Background.md` and `basic/Making-of-the-Constitution.md` |
+| Chs. 3-5 - Concept, Salient Features and Preamble | **A** | Constitutionalism, features and philosophy | Read fully; use `basic/Concept-of-the-Constitution.md`, `basic/Salient-Features.md` and `basic/Preamble.md` for analytical answers |
+| Chs. 6-7 - Union and Its Territory; Citizenship | **A** | Union, reorganisation and citizenship | Read fully; update citizenship law/status only from the Core owner and official sources |
+| Chs. 8-12 - Fundamental Rights, DPSP, Duties, Amendment and Basic Structure | **A** | Rights, significant provisions, amendments and basic structure | Highest-priority block. Build article-case-doctrine comparison tables from the corresponding Core owners |
+| Chs. 13-17 - Parliamentary/Federal Systems, Centre-State and Inter-State Relations, Emergencies | **A** | Political system, federal structure and emergency provisions | Read fully; combine Chs. 14-16 into one federalism/devolution sheet |
+| Chs. 18-24 - President through Parliamentary Committees | **A** | Union executive; Parliament's structure, business, powers and privileges | Read fully. Ch. 22 Cabinet Committees and Ch. 24 committees are especially useful for institutional questions |
+| Ch. 25 - Indian Parliamentary Group | **C** | Parliamentary diplomacy | Read only if a PYQ/current event requires it |
+| Chs. 26-29 - Supreme Court, Judicial Review, Judicial Activism and PIL | **A** | Judiciary, separation of powers and dispute redress | Read fully with the case-law and limitation banks in the Core owners |
+| Chs. 30-38 - State executive, legislature, High Court, subordinate courts, tribunals, Consumer Commissions and Lok Adalats | **A/B** | State institutions and dispute-redress mechanisms | **A:** Chs. 30-36 and 38. **B:** Ch. 37. Use the matching Core owners for current tribunal and jurisdiction status |
+| Chs. 39-40 - Panchayati Raj and Municipalities | **A** | Devolution of powers and finances to local levels | Read fully; pair with Governance Topic 12 for capacity and service-delivery analysis |
+| Chs. 41-42 - Union Territories; Scheduled and Tribal Areas | **A** | Special territorial arrangements and vulnerable-area governance | Read fully, especially Fifth/Sixth Schedule distinctions |
+| Chs. 43-55 - Constitutional Bodies and Constitutional Prescriptions | **A** | Appointment, powers, functions and responsibilities of constitutional bodies | Read fully. Revise through a common table: source, composition, appointment, tenure, removal, powers, reporting and independence |
+| Chs. 56-66 - NITI Aayog through Lokpal and Lokayuktas | **A/B** | Statutory, regulatory and other bodies; accountability | **A:** NITI Aayog, NHRC, CIC, CVC, CBI and Lokpal. **B:** State HRC/SIC and specialised commissions; use when their syllabus/PYQ route arises |
+| Chs. 67-72 - NIA, NDMA, BCI, Law Commission, Delimitation Commission and North Eastern Council | **B/C** | Specialised statutory/executive bodies | **B:** Law Commission and Delimitation Commission. **C:** NIA, NDMA, BCI and NEC because their main analytical ownership lies in other subjects |
+| Chs. 73-78 - Co-operatives, Official Language, Public Services, Government Liability and Special Provisions | **A/B** | Significant provisions, civil services and special classes/states | **A:** Chs. 73, 75-78. **B:** Ch. 74. Use Core owners for amendments and judicial interpretation |
+| Chs. 79-87 - Parties, elections, election laws/reforms, voting, coalitions, anti-defection and pressure groups | **A** | Political system, RPA, associations and issues arising | Read fully; prioritise Chs. 81-83 and 86-87 |
+| Chs. 88-89 - National Integration; Foreign Policy | **Skip/C** | Cross-subject material | National Integration is selective Essay/Society support; Foreign Policy belongs primarily to International Relations |
+| Ch. 90 - NCRWC | **B** | Working of the Constitution | Read recommendations selectively with `basic/NCRWC-and-Working-of-the-Constitution.md` |
+| Chs. 91-94 - Landmark Judgments, Article 21, Amendment Cases and Interpretation Doctrines | **A** | Significant provisions, rights, basic structure and constitutional interpretation | Read fully, but verify judgment holdings and later status through the Core owners |
+| Ch. 95 - World Constitutions | **A** | Comparison of the Indian constitutional scheme with other countries | Read the comparison tables and named constitutional features; avoid country trivia not usable in comparison answers |
+| Appendices I-II and IV-V | **B** | Articles, legislative lists and amendments | Use as revision/reference tables, not linear reading |
+| Appendices III and VI-IX | **C/Skip** | Ancillary facts | Consult only for a direct need; do not memorise office-holder lists |
+| UPSC question sets | **A** | Retrieval and application | Solve after each block; classify errors by article, institution, doctrine or current-status confusion |
+
+### Reading order
+
+1. **Constitutional foundation:** Chs. 1-12.
+2. **Federal and parliamentary architecture:** Chs. 13-24.
+3. **Judiciary and state government:** Chs. 26-40.
+4. **Bodies and special arrangements:** Chs. 41-78.
+5. **Political process and constitutional working:** Chs. 79-95.
+
+### Physical-source limits
+
+- The book itself states that it does not cover the Governance syllabus carried in the
+  author's separate governance work. Use the sibling `Governance/` knowledge base and the
+  Second ARC index for policy design, implementation, e-governance, accountability and
+  citizen-centric administration.
+- No printed edition can safely control post-publication amendments, commencement
+  notifications, judgments or institutional status. The dated Core Markdown and official
+  sources control those facts.
+- Laxmikanth is strongest for institutional anatomy. Mains answers still require causes,
+  consequences, criticism, reforms, comparative reasoning and a qualified conclusion from
+  the Core owners.

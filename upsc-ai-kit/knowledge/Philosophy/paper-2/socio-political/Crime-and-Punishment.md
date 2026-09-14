@@ -404,6 +404,194 @@ It is wider than bribery and may include favouritism, nepotism, embezzlement, re
 
 ⚠️ Neither enactment proves that corruption is ethically solved; implementation, independence, enforcement and public norms remain separate questions.
 
+### 2.8 Value-based education as an answer to corruption
+
+This is the direct Core route for **2026 Q1(e)** — *"How does value based education address the
+problem of corruption?"* It is placed in this owner because **corruption** is the owned syllabus
+concept (§2.1–2.7); the education side is developed here only as an anti-corruption mechanism.
+The general philosophy of education and development is routed to
+[Development and Social Progress](Development-Social-Progress.md) §3.2, and the civic-virtue
+dimension to [Individual and State](Individual-and-State.md) §2.5.
+
+**Doctrine statement**
+
+✅ **Value-based education** is formation of character, judgment and practical competence around
+publicly defensible values — honesty, impartiality, accountability, dignity and public service —
+rather than transmission of information alone. ⚠️ Its anti-corruption claim is specific: since
+corruption is the misuse of entrusted power (§2.1), it depends on **agents who are willing** to
+misuse it and on **norms that normalise** the misuse. Education works on both, while institutional
+reform works on opportunity and cost. Neither alone is sufficient.
+
+**The argument, numbered**
+
+1. Corruption has three necessary components: opportunity, incentive and **willingness**.
+2. ✅ Institutional reform — transparency, audit, competition, reduced discretion — attacks
+   opportunity and incentive. Klitgaard's formula makes this explicit: corruption tends to occur
+   where **monopoly plus discretion minus accountability** is high (*Controlling Corruption*,
+   **1988**).
+3. ⚠️ No rule system is self-applying: rules are administered by officials who exercise judgment
+   in situations the rules do not fully specify, so the disposition of the administrator remains
+   causally significant.
+4. ✅ Dispositions are formed, not innate. On the Aristotelian account, virtue is acquired by
+   habituation and practice (*Nicomachean Ethics* Book II), which is precisely what education can
+   supply.
+5. Value-based education therefore operates through six mechanisms:
+   (a) **moral cognition** — recognising conflicts of interest, nepotism and the normalisation of
+   petty corruption as wrongs rather than customs;
+   (b) **moral motivation** — internalising integrity so that honesty is not merely fear of
+   detection;
+   (c) **practical competence** — rehearsing gift, procurement, recruitment and political-pressure
+   dilemmas, including disclosure, recusal and refusal;
+   (d) **norm correction** — dislodging the descriptive belief that "everyone is corrupt", which
+   sustains corruption as a self-fulfilling equilibrium;
+   (e) **civic agency** — teaching the use of transparency laws, audits, grievance mechanisms and
+   social accountability;
+   (f) **professional identity** — making integrity constitutive of what it is to be a civil
+   servant, teacher, engineer, doctor or auditor.
+6. ✅ This is the approach taken by the UN Office on Drugs and Crime, which treats anti-corruption
+   as requiring a whole-of-society response and identifies education's contribution as raising
+   knowledge of corruption's effects, fostering rejection of it, and building the skills to resist
+   social pressure.
+7. ✅ It is also a treaty obligation in substance: the UN Convention against Corruption (**2003**)
+   requires States Parties to promote the participation of society, including public information
+   and **public education programmes, including school and university curricula** (Article 13), and
+   to promote training and integrity programmes for public officials (Article 7).
+8. ⚠️ Therefore the correct thesis is complementarity: education creates the **moral demand** for
+   integrity; institutional reform alters the **opportunity and incentive structure**. Each without
+   the other predictably fails.
+
+**Presuppositions**
+
+- ✅ Character is educable, and moral judgment develops rather than being fixed at birth.
+- ✅ Corruption is an ethical act within a systemic ecology (§2.4), so both agent and structure are
+  legitimate targets.
+- ⚠️ The values taught must be **public-reason** values, defensible to citizens of different
+  convictions, not one community's comprehensive morality.
+- ❓ Whether knowledge of the good reliably produces right action — the Socratic assumption — is
+  precisely what the knowledge–action gap disputes.
+
+**Comparison chart — what each strategy can and cannot do**
+
+| Axis | Value-based education | Institutional/legal reform | Combined strategy |
+|---|---|---|---|
+| **Target** | willingness, judgment, norms | opportunity, incentive, detection, cost | all three components of §2.8(1) |
+| **Diagnosis it assumes** | ethical: character and moral perception | systemic: monopoly, discretion, impunity | corruption as an ethical act in a systemic ecology (§2.4) |
+| **Mechanism** | habituation, deliberation, dilemma practice, role formation | transparency, audit, recusal rules, prosecution, competition | rules that are administered by formed agents |
+| **Time horizon** | slow, generational | faster, but reversible | durable |
+| **Typical failure** | knowledge–action gap; hypocrisy where the institution itself is corrupt | rule-evasion, ritual compliance, capture of the regulator | over-claiming: neither element guarantees outcomes |
+| **What it explains that the other cannot** | why honest officials remain honest where enforcement is weak | why good people behave badly where discretion is unmonitored | why reform succeeds in some settings and not others |
+| **Indian curricular illustration** | ⚠️ ethics and constitutional values in the National Education Policy, **2020**, as a dated policy document | ✅ Prevention of Corruption Act, **1988** (amended **2018**); Lokpal and Lokayuktas Act, **2013** (§2.7) | neither the policy nor the statutes prove ethical outcomes |
+| **Pedagogic form** | dilemma cases, role-play, social audits, integrity clubs, whistle-blower protocols | disclosure rules, e-procurement, conflict-of-interest registers, independent oversight | the school's own procedures model the values it teaches |
+
+**Objections and replies**
+
+**Objection 1 — the knowledge–action gap.** Students may know corruption is wrong and still yield
+to pressure, fear or need.
+**Reply:** ✅ this is why the education must be **practical** — rehearsed refusal, disclosure and
+recusal, plus protection when the rehearsed action is taken — and why it must be paired with
+enforcement and whistle-blower protection.
+**Residual problem:** ⚠️ courage under retaliation cannot be guaranteed by curriculum; the burden
+shifts back to institutional protection.
+
+**Objection 2 — the hidden curriculum.** An institution with opaque admissions, capitation fees,
+favoured grading or corrupt procurement teaches the opposite of what it says.
+**Reply:** ✅ the school's own transparency in admission, assessment, recruitment and purchase is
+part of the pedagogy, not a precondition external to it.
+**Residual problem:** ✅ this is the strongest practical objection, since it makes the reform of
+educational institutions prior to their reforming role.
+
+**Objection 3 — indoctrination risk.** "Values" can become sectarian, partisan or conformist
+morality imposed by authority.
+**Reply:** ⚠️ restrict content to values defensible in public reason — honesty, impartiality,
+accountability, dignity — and teach by **critical deliberation**, permitting disagreement.
+**Residual problem:** ❓ the boundary between forming character and imposing a comprehensive
+doctrine is genuinely contested (compare the Platonic position in
+[Individual and State](Individual-and-State.md) §4.4B).
+
+**Objection 4 — individualisation error.** Treating corruption as bad character conceals its
+structural causes and can be used to deflect institutional reform.
+**Reply:** ✅ conceded, and it is why §2.4's dual diagnosis is the file's settled position;
+education is necessary, not sufficient.
+**Residual problem:** ⚠️ where corruption is a **collective-action equilibrium** rather than a
+principal–agent failure, individual integrity training may be rationally self-defeating unless
+enough others change simultaneously — which is an argument for norm-level and cohort-level
+intervention rather than for abandoning education.
+
+**Objection 5 — the moralism objection.** Exhortation and slogans have a poor record.
+**Reply:** ✅ agreed, which is why the defensible model is dilemma-based, experiential and
+interdisciplinary rather than preaching — the design principle in UNODC's academic integrity and
+ethics modules.
+**Residual problem:** ⚠️ such teaching is demanding in teacher capacity and assessment design.
+
+**Traps (this stem only)**
+
+| ❌ Trap | ✅ Correction |
+|---|---|
+| Writing an essay on "importance of moral values" | the stem asks **how** education addresses corruption; answer with named mechanisms (a)–(f) |
+| Treating education as sufficient | ✅ education supplies moral demand; reform supplies opportunity structure — state the complementarity |
+| Ignoring the definition of corruption | ✅ open with §2.1's misuse-of-entrusted-power definition, or the mechanisms have no target |
+| Equating value education with religious or moral instruction | ⚠️ use public-reason values; sectarian content converts a defensible policy into an indoctrination objection |
+| Listing schemes and Acts | statutes are **dated illustrations** (§2.7), not proof of ethical effect |
+| Ignoring the hidden curriculum | a corrupt educational institution teaching integrity is the sharpest counter-example — address it |
+| Forgetting the ethical/systemic distinction | §2.4 is the file's settled dual diagnosis; contradicting it loses internal consistency |
+| Treating the knowledge–action gap as fatal | it argues for practical and protected moral training, not for abandoning moral formation |
+
+**Answer spine — 10 marks (~150 words, the 2026 format)**
+
+1. **Define both terms (2 lines).** Corruption as misuse of entrusted power; value-based education
+   as formation of judgment and character around public values.
+2. **State the mechanism claim (2 lines).** Corruption needs opportunity, incentive and
+   willingness; education attacks willingness and the norms that normalise misuse.
+3. **Three named mechanisms (4 lines).** Moral perception of conflicts of interest; practical
+   competence in disclosure, recusal and refusal; correction of the "everyone is corrupt" norm,
+   with civic capacity to use transparency and grievance mechanisms.
+4. **Objection plus graded verdict (3 lines).** Knowledge–action gap and hidden curriculum;
+   therefore education is necessary but not sufficient — it creates the moral demand for integrity
+   that institutional reform alone cannot manufacture.
+
+**Answer spine — 15 marks (~220 words)**
+
+1. Definitions and the three-component analysis of corruption.
+2. Klitgaard's monopoly–discretion–accountability formula, then the judgment gap it leaves open.
+3. Mechanisms (a)–(f), compressed to four with one example each.
+4. The comparison chart, four rows: target, mechanism, typical failure, time horizon.
+5. One worked objection → reply → residual problem (hidden curriculum).
+6. Conditional verdict on complementarity.
+
+**Answer spine — 20 marks (~300 words)**
+
+Add: the Aristotelian habituation basis for educability; the ❓ Socratic knowledge-and-virtue
+question; the collective-action versus principal–agent framing of corruption, which explains why
+isolated integrity may be self-defeating; the UNCAC Article 13 curricular obligation and Article 7
+official-training obligation; the public-reason constraint answering the indoctrination objection;
+and a closing paragraph specifying design conditions — dilemma pedagogy, institutional
+transparency in the school itself, whistle-blower protection and cohort-level norm change.
+
+**Exact 2026 PYQ route:** 2026 Q1(e) [10] → §2.8, supported by §2.1, §2.2, §2.4 and §2.7 →
+verdict formulas in §11.5. Cross-links (cite, do not re-teach):
+[Development and Social Progress](Development-Social-Progress.md) §3.2 for education and
+capability; [Individual and State](Individual-and-State.md) §2.5 for duties and civic formation;
+[Forms of Government](Forms-of-Government.md) §4A.5 for civic education against manipulation.
+
+**Sources for §2.8**
+
+- [UNODC, "Education" thematic page — anti-corruption](https://www.unodc.org/corruption/en/learn/thematic-areas/Education.html)
+  — education within a whole-of-society approach: knowledge of corruption's effects, rejection of
+  corruption, and skills to resist pressure.
+- [UNODC GRACE, Module Series on Integrity and Ethics](https://grace.unodc.org/grace/en/academia/module-series-on-integrity-and-ethics.html)
+  and [Module Series on Anti-Corruption](https://grace.unodc.org/grace/en/academia/module-series-on-anti-corruption.html)
+  — critical thinking, experiential learning, interdisciplinarity and local adaptation as design
+  principles.
+- [United Nations Convention against Corruption (**2003**) — UNODC](https://www.unodc.org/unodc/en/treaties/CAC/),
+  Article 7 (public-sector integrity and training) and Article 13 (participation of society,
+  including public education programmes and school and university curricula).
+- Robert Klitgaard, *Controlling Corruption* (**1988**) — the monopoly + discretion − accountability
+  formulation. Cited by title and year only.
+- Aristotle, *Nicomachean Ethics* Book II — virtue acquired through habituation.
+- ⚠️ National Education Policy, **2020**, used only as a dated Indian policy document referring to
+  ethical reasoning and constitutional values; ❌ no claim is made about its implementation or
+  effects, and no Indian institution, official, party or period is characterised as corrupt.
+
 ---
 
 ## 3. MASS VIOLENCE
@@ -653,6 +841,9 @@ It is wider than bribery and may include favouritism, nepotism, embezzlement, re
 15. **Do not merge restitution and restorative justice.** Restitution is one remedial outcome; restoration is a broader participatory process.
 16. **Do not treat denunciation as a complete justification of hard treatment.** Expressive meaning still needs rights and proportionality.
 17. **Do not import Gandhi or Rawls into penal theory without a stem-specific reason.**
+18. **Do not answer "value-based education and corruption" as a values essay.** ✅ Name the mechanisms — moral perception, motivation, practical competence, norm correction, civic agency, professional identity — and connect each to a component of corruption (§2.8).
+19. **Do not present education as a sufficient remedy for corruption.** ⚠️ Education supplies moral demand; institutional reform alters opportunity and incentive. The knowledge–action gap and the hidden curriculum are the two objections that must be met (§2.8).
+20. **Do not let "value-based" slide into sectarian moral instruction.** ⚠️ Use values defensible in public reason, or the indoctrination objection defeats the proposal (§2.8).
 
 ---
 
@@ -712,6 +903,16 @@ public wrong · culpability · mens rea · proportionality · retribution · det
 | 2025 | Q3(a) | 20 | Can one's right to life be absolute? Answer with reference to the idea of Capital Punishment. |
 
 See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025.md).
+
+### 10A. 2026 additions (official paper, Section A)
+
+| Year | Question | Marks | Exact demand | Core route in this file |
+|---|---|---:|---|---|
+| 2026 | Q1(e) | 10 | How does value based education address the problem of corruption? | §2.8, with §2.1, §2.2, §2.4 and §2.7 |
+| 2026 | Q3(a) | 20 | Is capital punishment justified? Discuss with reference to retributivism and deterrence theories of punishment. | §1.3A, §1.4, §1.5 and §5 (capital punishment cluster) — pre-existing coverage, no new section required |
+
+See the [2026 Socio-Political PYQ Supplement](../_PYQ-SocioPolitical-2026-Supplement.md) for the
+full 2026 Section-A routing ledger.
 
 ## 11. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 
@@ -802,6 +1003,7 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - [Forms of Government](Forms-of-Government.md) — regime design, propaganda and accountability.
 - [Gender Discrimination](Gender-Discrimination.md) — structural harm, bodily integrity and agency.
 - [Caste Discrimination: Gandhi and Ambedkar](Caste-Gandhi-Ambedkar.md) — graded inequality and institutional violence.
+- [Development and Social Progress](Development-Social-Progress.md) — §2.7 democracy and development, and §3.2 education and capability; corruption as a developmental obstacle.
 - [Kant](../../paper-1/western/Kant.md) — persons as ends and retributive responsibility.
 - [Problem of Evil](../philosophy-of-religion/Problem-of-Evil.md) — moral evil and responsibility.
 
@@ -824,5 +1026,9 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - John Braithwaite, *Crime, Shame and Reintegration* — the stigmatising/reintegrative shaming distinction. Cited by title only; paraphrased, never quoted.
 - Raphael Lemkin, *Axis Rule in Occupied Europe* (**1944**) — the coinage and original conception of genocide, distinguished from the narrower definition adopted in the 1948 Convention.
 - H. L. A. Hart, the separation of the general justifying aim of punishment from the principles governing liability and severity, used as the structure of §1A.1.
+- [UNODC, "Education" thematic page — anti-corruption](https://www.unodc.org/corruption/en/learn/thematic-areas/Education.html) and the [UNODC GRACE module series on Integrity and Ethics](https://grace.unodc.org/grace/en/academia/module-series-on-integrity-and-ethics.html) — used in §2.8 for the whole-of-society framing and the design principles of anti-corruption education.
+- [United Nations Convention against Corruption (**2003**) — UNODC](https://www.unodc.org/unodc/en/treaties/CAC/), Articles 7 and 13, used in §2.8 for public-sector integrity training and public education programmes including school and university curricula.
+- Robert Klitgaard, *Controlling Corruption* (**1988**) — the monopoly + discretion − accountability formulation used in §2.8. Cited by title and year only; paraphrased, never quoted.
+- Aristotle, *Nicomachean Ethics* Book II — virtue by habituation, used in §2.8 as the educability premise.
 
 > ⚠️ **Provenance note for §1A, §3.4A, §3.4B and §4.1A (added in this pass):** these are named-scholar reconstructions adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for Feinberg, Duff, Foucault, Braithwaite, Lemkin, Hart or Arendt. ❌ **No country, community, party, government, movement, technology, programme or historical episode is named as an instance of mass violence, genocide, communal violence, pogrom, panopticism or surveillance.** Where a stem invites contemporary comment, answer at the level of criteria rather than by identifying actors.

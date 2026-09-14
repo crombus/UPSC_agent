@@ -43,6 +43,7 @@ transactions (coercive vs collusive) that require different evidentiary and reme
 | ✅ **Collusive bribery** (ARC 1.13, 3.2.2.6) | Both bribe-giver and bribe-taker benefit from the transaction (e.g., substandard-works certification, tax evasion, procurement kickbacks), with society/state bearing the loss. |
 | ✅ **Prevention of Corruption Act, 1988** | Consolidates the 1947 Act and 1952 Amendment; broadens "public servant"; contains specified bribery and criminal-misconduct offences; mandates trial by Special Judges; requires day-to-day proceedings as far as practicable. |
 | ✅ **Section 7, PC Act** | The post-2018 provision addresses a public servant who obtains, accepts or attempts to obtain an **undue advantage** with the statutorily required improper-performance or reward connection. A GS-IV answer must not treat every gift, poor decision or ethical lapse as automatically satisfying the offence; actor, conduct, intent and public-duty nexus must be proved. |
+| ✅ **Section 7A, PC Act** (inserted 2018) | The intermediary provision: it addresses a person who **accepts or obtains, or attempts to obtain, an undue advantage from another person as a motive or reward to induce a public servant**, by corrupt or illegal means or by exercise of personal influence, to perform or forbear to perform a public duty improperly or dishonestly. ⚠️ This — not Section 7 — is the direct statutory hook for the **tout, middleman or "facilitator"** who is not himself a public servant; Section 7 reaches the public servant, Section 8 reaches the bribe-giver, and Section 7A reaches the intermediary who monetises access to the public servant. A case study involving a tout ring therefore engages **all three** provisions against different actors, and an answer that cites only Section 7 has left the intermediary unaccounted for. |
 | ✅ **Section 19, PC Act** | Requires prior sanction of the competent authority before a court takes cognizance of offences under Sections **7, 10, 11, 13 and 15** alleged against a public servant. The authority must endeavour to decide within three months, extendable by one further month where legal consultation is needed. |
 | ✅ **Section 17A, PC Act** (inserted 2018) | Requires prior approval of the appropriate authority before a police officer conducts any enquiry, inquiry or investigation into an alleged PC Act offence "relatable to any recommendation made or decision taken by such public servant in discharge of his official functions or duties", with a three-month decision period extendable by one further month for recorded reasons. The on-the-spot acceptance/attempted-acceptance arrest exception must be stated. |
 | 📰 **Section 17A judicial status (13 January 2026)** | In *Centre for Public Interest Litigation v. Union of India*, 2026 INSC 55, the separate opinions were divergent and the operative order referred the issues through the Chief Justice of India for consideration by an appropriate Bench. Neither opinion is a final binding resolution of Section 17A's constitutional validity. |
@@ -138,6 +139,24 @@ transactions (coercive vs collusive) that require different evidentiary and reme
   a textbook collusive-bribery scenario — both benefit, the travelling public/state bears the cost.
 - ⚠️ A citizen paying "speed money" to obtain a birth certificate they are legally entitled to is a
   textbook coercive-bribery scenario.
+- ⚠️ **Tout/intermediary networks in a public office** (the 2026 GS-IV Q9 fact pattern) are a
+  **hybrid** case, and classifying them correctly is the first analytical move: the applicant who
+  must pay for an approval he is entitled to is a **coercive-bribery victim**, while the tout and
+  the colluding subordinate who share the rent are in a **collusive** relationship with each other.
+  The statutory response is correspondingly layered — Section 7 against the public servant, Section
+  **7A** against the tout who monetises access, Section 8 against any applicant who paid willingly
+  for an unlawful advantage (subject to the seven-day coercion-reporting defence), with Section 17A
+  prior approval engaged where the alleged conduct is relatable to an official decision or
+  recommendation, and Section 19 sanction before cognizance. ⚠️ The ethical corollary the ARC's own
+  framing supports: coercive extraction from an entitled citizen is a **continuing injury**, so
+  delay in acting is not a neutral pause but an accumulating harm — while the remedy must still be
+  evidence-based, because a sweeping action unsupported by material simply replaces one
+  arbitrariness with another (`21`, `22` Sec. 14.18).
+- ⚠️ **The rent is priced on opacity, not on the bribe alone.** Where a queue is invisible and
+  timelines are unpublished, the intermediary sells information and certainty; publishing the
+  disposal sequence, the pendency position and the statutory timeline therefore attacks the
+  network's income directly and immediately, well before any prosecution concludes. Legal action
+  and process transparency are complements, not alternatives (`17`, `22` Sec. 14A.3).
 
 ## 5. Must-Know Facts for Prelims
 
@@ -200,6 +219,12 @@ transactions (coercive vs collusive) that require different evidentiary and reme
   dereliction as an ethical/corruption failure in its own right; the necessary limit is that a
   genuine, bona fide judgment that later proves wrong is not automatically culpable (`21`).
 
+- ❌ A tout or middleman who is not a public servant falls outside the Prevention of Corruption Act,
+  so only departmental action against the colluding official is available. -> Section 7A, inserted
+  in 2018, specifically reaches a person who accepts or obtains an undue advantage to induce a
+  public servant by corrupt or illegal means or personal influence — the intermediary is squarely
+  within the Act.
+
 ## 7. PYQ application
 
 - ⚠️ Any question distinguishing "types of corruption" should use the coercive/collusive framework
@@ -213,6 +238,10 @@ transactions (coercive vs collusive) that require different evidentiary and reme
 - ⚠️ A case study involving an official who considers exposing wrongdoing should be answered using
   the nine-step whistleblowing/ethical-dissent ladder above (mechanism point 9), not a generic
   "report it and resign if ignored" narrative.
+- ✅ A Section-B case study featuring a **tout or intermediary network inside a public office**
+  (2026 GS-IV Q9) should name Section **7A** alongside Sections 7 and 8, classify the transaction as
+  coercive-plus-collusive, and route the action through `20`'s CVO/ACB channel and `21`'s secret
+  preliminary verification — the assembled case is at `22` Sec. 14.18.
 
 ## 8. Mains angles
 
@@ -262,3 +291,8 @@ transactions (coercive vs collusive) that require different evidentiary and reme
   bona fides-test limit on "non-performance as corruption," and the whistleblowing ladder's internal
   vigilance step.
 - ✅ `23_Comparative-and-Named-Real-Case-Studies.md` — Manjunath Shanmugam and Satyendra Dubey cases.
+- ✅ `22_Case-Study-Method-and-Answer-Architecture.md` Sec. 14.18 — the assembled tout-network case
+  study using this file's Section 7/7A/8/17A/19 framework; Sec. 14A.3 — the two-track
+  "clean up without shutting down" template.
+- ✅ `17_Citizens-Charters-Work-Culture-and-Service-Delivery.md` — the single-window, published-
+  timeline and process-redesign instruments that remove an intermediary's rent.

@@ -7,6 +7,11 @@
 > Text rule: English wording and marks were rechecked against the held pages. The cleaner official
 > `QP-CSM` copies control 2022 and 2023; duplicate scans were used only to resolve layout or
 > extraction ambiguity. Every part is assigned to one primary owner in the routing ledger below.
+>
+> **2026 ✅:** the 2026 paper (code `KVMS-B-PHL`) is routed separately in
+> [`_PYQ-SocioPolitical-2026-Supplement.md`](./_PYQ-SocioPolitical-2026-Supplement.md), which covers
+> all fourteen Section-A parts. This file and its 112-part ownership ledger below remain a
+> **2018–2025** record and are unchanged by that supplement.
 
 ---
 

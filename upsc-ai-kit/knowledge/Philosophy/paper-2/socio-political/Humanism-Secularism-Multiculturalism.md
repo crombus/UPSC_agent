@@ -735,6 +735,16 @@ open to dissent and revision.
 
 See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025.md).
 
+### 8A. 2026 additions (official paper, Section A)
+
+| Year | Question | Marks | Exact demand | Core route in this file |
+|---|---|---:|---|---|
+| 2026 | Q2(c) | 15 | Examine the challenges faced by a multicultural society in creating a harmonious balance between group rights and individual rights. | §3.4 (Kymlicka's group-differentiated rights), §3.10 (objections and replies) and §3A.2 (parity of participation) — pre-existing coverage |
+
+See the [2026 Socio-Political PYQ Supplement](../_PYQ-SocioPolitical-2026-Supplement.md) for the
+full 2026 Section-A routing ledger.
+
+
 ## 9. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 
 ### 9.0 Directive decoder — the verb fixes the structure

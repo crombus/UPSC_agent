@@ -7,6 +7,8 @@
 
 > **Paper codes:** 2018=EGT-P-PHLY · 2019=SDF-U-PHLY · 2020=URC-U-PHLY · 2021=HXS-U-PHLY · 2022=CRNA-F-PHLY · 2023=SKYC-U-PHLY · 2024=PHKM-U-PHL · 2025=SLPM-P-PHL
 
+> **2026 supplement:** the 2026 paper (`KVMS-P-PHL`) is banked separately in [PYQ Bank — Indian Philosophy, 2026](./_PYQ-Indian-Philosophy-2026.md). Read the two together for continuous 2018–2026 coverage; the frequency table below covers 2018–2025 only.
+
 ---
 
 ## 2018 ✅

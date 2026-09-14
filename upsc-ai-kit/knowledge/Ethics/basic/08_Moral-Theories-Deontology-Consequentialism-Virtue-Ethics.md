@@ -40,10 +40,10 @@ apply more than one and reconcile or choose between them explicitly.
 | ✅ **Virtue Ethics** | An act is right if it is what a person of good character (possessing practical wisdom, *phronesis*) would do in that situation. | Aristotle |
 | ⚠️ **Care ethics** | Moral judgment must attend to relationships, dependency, vulnerability and the unequal burdens of supposedly neutral choices; care is not unprincipled favouritism because it remains bounded by rights and justice. | Gilligan, Noddings and later care-ethics scholarship |
 | ⚠️ **Justice approaches** | Evaluate whether institutions distribute benefits and burdens fairly, use fair procedures and protect equal basic status; distributive, procedural, corrective and recognitional justice answer different questions. | Rawls and wider justice traditions |
-| ⚠️ **Ethical relativism** | The (contested) view that moral standards are relative to a culture/individual, with no universal standard — usually presented in GS-IV as a foil to be critiqued, not endorsed. |
-| ⚠️ **Ethical absolutism/universalism** | The view that some moral standards hold across all cultures/contexts — Kantian deontology is typically absolutist about core duties. |
-| ⚠️ **Motive vs intention vs consequence** | **Motive** = the underlying reason that moved the agent (career advancement, compassion, fear); **intention** = the specific outcome and means the agent deliberately chose; **consequence** = what actually followed, which can diverge from both. Deontology tests the maxim and chosen action; virtue ethics gives special attention to character and practical judgment; consequentialism compares expected effects, while actual outcomes may also reflect luck. A GS-IV case study is usually solved by separating the three explicitly — an officer can have a good motive, a defective intention, and a bad consequence, and each attracts a different response. |
-| ⚠️ **Means vs ends** | Act-consequentialism may permit a normally wrongful means when that particular act produces the best expected balance of outcomes; rule-consequentialism can instead defend stable restraints because of their long-run effects. Kantian deontology and Gandhi's ends-means unity (`06`) reject treating a good end as an automatic cleanser of wrongful means. Naming which position you are taking is the single clearest way to make a Mains answer non-generic. |
+| ⚠️ **Ethical relativism** | The (contested) view that moral standards are relative to a culture/individual, with no universal standard — usually presented in GS-IV as a foil to be critiqued, not endorsed. | — |
+| ⚠️ **Ethical absolutism/universalism** | The view that some moral standards hold across all cultures/contexts — Kantian deontology is typically absolutist about core duties. | — |
+| ⚠️ **Motive vs intention vs consequence** | **Motive** = the underlying reason that moved the agent (career advancement, compassion, fear); **intention** = the specific outcome and means the agent deliberately chose; **consequence** = what actually followed, which can diverge from both. Deontology tests the maxim and chosen action; virtue ethics gives special attention to character and practical judgment; consequentialism compares expected effects, while actual outcomes may also reflect luck. A GS-IV case study is usually solved by separating the three explicitly — an officer can have a good motive, a defective intention, and a bad consequence, and each attracts a different response. | — |
+| ⚠️ **Means vs ends** | Act-consequentialism may permit a normally wrongful means when that particular act produces the best expected balance of outcomes; rule-consequentialism can instead defend stable restraints because of their long-run effects. Kantian deontology and Gandhi's ends-means unity (`06`) reject treating a good end as an automatic cleanser of wrongful means. Naming which position you are taking is the single clearest way to make a Mains answer non-generic. | — |
 
 ## 3. Mechanism: applying each theory to a dilemma
 
@@ -281,6 +281,367 @@ defended by *reasoning* survives scrutiny/appeal in a way "it felt right" cannot
   show how vigilance administration should evaluate a civil servant's good-faith decision that later
   turned out badly.
 
+## 12B. Applied ethics: autonomy, beneficence and paternalism
+
+> ⚠️ **Primary route for 2026 GS-IV Q4(a)** — a doctor, citing the serious adverse effects of
+> long-term medication, convinces the **family** of a female patient to agree to surgery; the patient
+> then "reluctantly" consents although her original choice was medication. The directive is
+> **"Explain the concepts of paternalism and beneficence by analysing the doctor's action."** This
+> section is written to be independently answer-sufficient; the thinker-level definitions sit in
+> `07`, and the coercion/undue-influence taxonomy in `09` §11.
+
+### The four-principle frame
+
+- ✅ **Beauchamp and Childress, *Principles of Biomedical Ethics*, four principles:** respect for
+  **autonomy**, **non-maleficence** (do no harm), **beneficence** (act for the patient's good), and
+  **justice** (fair distribution of benefits, risks and costs).
+- ⚠️ These are *prima facie* principles: none is lexically prior, and real cases are resolved by
+  **specification** (making a principle concrete for the case) and **balancing** (giving reasons why
+  one outweighs another here). ❌ A GS-IV answer that simply lists four words without specifying and
+  balancing them scores as a definition, not an analysis.
+
+### Definitions kept precise
+
+| Concept | Exam-ready meaning |
+|---|---|
+| ⚠️ **Autonomy** | The competent person's capacity and entitlement to make and act on their own reasoned choices about their own life and body, free of controlling influence and with adequate understanding. |
+| ⚠️ **Beneficence** | A positive duty to act for another's good — to prevent and remove harm and to promote welfare. It is *other-regarding action*, not merely the absence of harm (that is non-maleficence). |
+| ⚠️ **Paternalism** | ✅ On Gerald Dworkin's standard analysis, *X acts paternalistically towards Y by doing Z* when (1) **Z interferes with Y's liberty or autonomy**; (2) **X does so without Y's consent**; and (3) **X does so only because X believes Z will improve Y's welfare or good**. All three conditions must hold. |
+| ⚠️ **Soft (weak) paternalism** | Intervening where the person's choice is **substantially non-voluntary** — uninformed, incompetent, made under duress, or the product of a temporary disabling condition. Generally defensible, because it protects the agent's *own* settled will rather than overriding it. |
+| ⚠️ **Hard (strong) paternalism** | Overriding a **competent, informed, voluntary** choice for the chooser's own good. Presumptively impermissible in a liberal legal and ethical order. |
+| ⚠️ **Pure vs impure paternalism** | *Pure*: those whose liberty is restricted are the very people meant to benefit. *Impure*: third parties' liberty is restricted to benefit the protected class (e.g., regulating manufacturers to protect consumers). |
+| ⚠️ **Welfare vs moral paternalism** | *Welfare*: intervening for the person's health, safety or material good. *Moral*: intervening to make the person morally better — a far harder position to defend. |
+| ⚠️ **Libertarian paternalism ("nudge")** | ✅ Thaler and Sunstein (2008): designing the choice architecture so the welfare-promoting option is the default or the salient one, while **preserving a genuine, low-cost right to opt out**. It is at most a very weak interference and is the administration-friendly middle path. |
+| ⚠️ **Therapeutic privilege** | The contested claim that a clinician may withhold information whose disclosure would itself gravely harm the patient. ⚠️ Narrowly construed today, and never a licence for routine non-disclosure. |
+| ⚠️ **Shared decision-making** | A process in which clinician expertise and patient values are combined explicitly, with options, benefits, harms and uncertainties laid out, and the decision made *with* the patient. The recommended alternative to both abandonment and paternalism. |
+
+- ✅ **Mill, *On Liberty* (1859) — the harm principle:** "the only purpose for which power can be
+  rightfully exercised over any member of a civilised community, against his will, is to prevent harm
+  to others. His own good, either physical or moral, is not a sufficient warrant." ⚠️ This is the
+  classical anti-paternalist premise; Mill's own exceptions (children, those not in "the maturity of
+  their faculties") are precisely the space soft paternalism occupies. Fuller Mill treatment is in
+  `07` and `advanced/07`.
+
+### The decisive distinction: where beneficence becomes paternalism
+
+| | **Beneficence** | **Paternalism** |
+|---|---|---|
+| Relation to the person's values | Promotes their good **through** their own values and choices | **Substitutes** the professional's judgment **for** their values and choices |
+| Consent | Sought, informed, and decisive | Absent, bypassed, or manufactured |
+| Information flow | Full disclosure to the decision-maker herself | Information routed to, or filtered through, others |
+| Role of the professional | Adviser, discloser of options, recommender | Decider |
+| Self-limiting device | The patient can decline the recommendation and the relationship survives | Declining is treated as an obstacle to be managed |
+| Ethical status | A duty | Permissible only in the soft form; presumptively wrong in the hard form |
+
+> ⚠️ **The one-line test:** beneficence and paternalism share the same motive; they differ at exactly
+> one point — **whether autonomy is respected or overridden**. Beneficence becomes paternalism the
+> moment the professional's view of the person's good displaces the person's own competent choice.
+
+### Voluntariness: persuasion, manipulation, coercion, undue influence
+
+1. ⚠️ **Persuasion** — offering reasons and evidence to a competent decision-maker who remains free
+   to reject them. **Legitimate**, and indeed part of beneficence: a clinician who withholds a strong
+   recommendation to avoid "influencing" the patient has abandoned, not respected, her.
+2. ⚠️ **Manipulation** — altering the decision by non-rational means: selective disclosure, framing
+   effects, exaggerated risk, engineered urgency. **Illegitimate**, because it bypasses reasoning
+   rather than engaging it.
+3. ⚠️ **Coercion** — a credible threat of harm that leaves no reasonable alternative. Voids consent.
+4. ⚠️ **Undue influence** — pressure exerted through a **relationship of dependence, trust or
+   authority** (clinician-patient, official-applicant, employer-employee, family hierarchy) such that
+   the weaker party's will is overborne without any explicit threat. The full taxonomy, including the
+   "reasonable observer" test, is in `09` §11 — **cross-link it; do not restate it**.
+5. ⚠️ **"Reluctant consent" is a diagnostic flag, not a verdict.** A competent adult may validly
+   consent while reluctant (all serious medical choices are reluctant). The question is *what the
+   reluctance is tracking*: unresolved disagreement with the recommendation, or pressure arriving
+   through people on whom she depends. Where a decision is **reversed after the professional routes
+   persuasion to the family rather than to her**, the presumption shifts towards undue influence and
+   the consent is at least **suspect**.
+
+### Family-mediated consent in India
+
+- ⚠️ **Descriptive fact:** family-centred decision-making is culturally normal in India and often
+  genuinely supportive — families carry costs, provide care, and are wanted in the room.
+- ⚠️ **Normative limit:** cultural normality does not create legal or ethical authority. For a
+  **competent adult**, the family's proper role is **supporting**, not **substituting**. Substituted
+  judgment belongs only where the patient lacks decisional capacity.
+- ⚠️ **Gendered autonomy deficit:** where a woman's decisions are routinely mediated by family, an
+  apparently neutral practice ("I explained it to the family") systematically transfers her decision
+  to others. This is the structural point the 2026 fact pattern is built on and it should be named.
+- ✅ **Indian legal anchor — *Samira Kohli v. Dr. Prabha Manchanda* (2008) 2 SCC 1:** consent for a
+  diagnostic laparoscopy did **not** authorise a hysterectomy with bilateral salpingo-oophorectomy;
+  consent signed by the patient's **mother while the patient was under anaesthesia** was **not valid
+  substituted consent for a competent adult** in a non-emergency; and consent is "real" only if the
+  patient is competent, the consent is **voluntary**, and it follows disclosure of the nature and
+  procedure of the treatment, its risks and the available alternatives. The Court applied a modified
+  *Bolam* standard to disclosure, and confined extension to an unauthorised further procedure to
+  cases of immediate threat to life or health.
+  ⚠️ **Boundary caution for use in Q4(a):** *Samira Kohli* concerned consent that was **never** given
+  by the patient. In the 2026 fact pattern the patient **does** consent, though reluctantly. The case
+  is therefore authority for two propositions only — (i) the **patient**, not the family, is the
+  locus of consent for a competent adult, and (ii) consent must be **voluntary and informed about
+  alternatives**. ❌ It is not authority for the proposition that reluctant consent is automatically
+  invalid. Use it for the routing of consent and the disclosure standard, and argue voluntariness
+  separately on the facts.
+- ✅ **Comparator — *Montgomery v. Lanarkshire Health Board* (2015, UK Supreme Court):** replaced the
+  *Bolam* professional standard for **disclosure** with a **material-risk / prudent-patient**
+  standard — the doctor must disclose risks to which a reasonable person in the patient's position
+  would attach significance, or which this particular patient would. ⚠️ Persuasive, not binding, in
+  India.
+- ✅ ***Common Cause v. Union of India* (2018)** recognised self-determination and autonomy in
+  end-of-life decision-making, reinforcing that autonomy is a constitutional value and not merely a
+  professional courtesy.
+
+### Analysing the doctor's action: a five-step template
+
+1. ⚠️ **Identify the motive:** beneficent, and quite possibly clinically correct. The long-term
+   adverse effects of the medication are a real harm and flagging them is the doctor's duty. **Start
+   here** — an answer that opens by condemning the doctor misreads the question.
+2. ⚠️ **Identify the act:** persuasion was **routed to the family** rather than to the competent adult
+   patient, whose stated preference was medication.
+3. ⚠️ **Apply Dworkin's three conditions:** (i) the patient's autonomous choice was interfered with;
+   (ii) it was done without *her* agreement, by mobilising those with authority over her; (iii) the
+   sole motive was her welfare. **All three are satisfied → the act is paternalistic.**
+4. ⚠️ **Classify the paternalism:** if she is competent and adequately informed, this is **hard
+   paternalism**, presumptively impermissible. It would be **soft** paternalism — and defensible —
+   only if her original preference were demonstrably uninformed, incompetent or non-voluntary; and a
+   good answer says explicitly that *the doctor's remedy for an uninformed preference is better
+   information to her, not better persuasion of her relatives*.
+5. ⚠️ **Verdict:** the motive is beneficent; the method converts beneficence into hard paternalism and
+   compromises the voluntariness of the consent obtained. The defect is **procedural and
+   relational**, and it is not cured by the recommendation turning out to be medically sound.
+
+### The ethical alternative (what the doctor should have done)
+
+- ⚠️ Direct, comprehensible disclosure **to the patient**: diagnosis, the proposed surgery, its
+  risks, benefits and recovery, the medication route with its adverse-effect profile, the option of
+  doing neither, and the uncertainties.
+- ⚠️ A **decision aid** or written summary in her language, plus **time** to decide, and an explicit
+  statement that a refusal will not affect her care.
+- ⚠️ A **second opinion** offered, not resisted.
+- ⚠️ The family present **at her invitation and in a supporting role**, with the decision addressed to
+  her throughout.
+- ⚠️ **Documented consent** recording what was disclosed, what alternatives were offered and that the
+  choice was hers; where reluctance persists, record it and revisit rather than proceed.
+- ⚠️ **Institutional safeguards:** consent forms that name alternatives; a clinical-ethics committee
+  route for contested cases; audit of consent quality, not merely of consent-form presence.
+
+### Administrative transposition (why this is a GS-IV question, not a medical one)
+
+⚠️ The same structure recurs across administration whenever an official believes they know a
+citizen's good better than the citizen does: compulsory relocation "for their own safety";
+conditioning a welfare benefit on a behaviour change; sterilisation or nutrition targets pursued
+through pressure on families; denying an informed adult a risky but lawful choice. **The transferable
+test is the same:** is the choice being *informed and enabled* (beneficence, soft paternalism,
+nudge) or *overridden* (hard paternalism)? And is the route to the decision-maker **direct**, or
+through people who have power over them?
+
+### Traps
+
+- ❌ **Trap:** treating beneficence and paternalism as opposites. -> They share one motive; the
+  distinction is autonomy, not benevolence.
+- ❌ **Trap:** treating all paternalism as wrong. -> Soft paternalism protecting a non-voluntary
+  chooser is widely defensible; the law itself is full of it.
+- ❌ **Trap:** treating "the family consented" as sufficient. -> For a competent adult it is not, in
+  law or in ethics.
+- ❌ **Trap:** condemning persuasion as such. -> Persuading the *patient* with reasons is part of the
+  duty; persuading *around* her is not.
+- ❌ **Trap:** reciting the four principles without balancing them. -> Specify and weigh; say which
+  yields and why.
+- ❌ **Trap:** over-citing *Samira Kohli*. -> See the boundary caution above.
+
+### 10-mark answer spine (~150 words)
+
+Define **beneficence** and **paternalism**, then give the one-line hinge (*shared motive, different
+treatment of autonomy*) -> state Dworkin's three conditions and apply them to the facts -> classify:
+**hard** paternalism if the patient is competent and informed; soft only if her preference was
+non-voluntary -> the relational defect: persuasion routed to the family converts support into
+substitution, and "reluctant" consent signals compromised voluntariness (persuasion vs undue
+influence, `09` §11) -> Indian anchor: *Samira Kohli* (2008) — the competent adult, not the family,
+is the locus of real consent, which requires disclosure of alternatives -> the ethical course: direct
+disclosure, decision aid, time, second opinion, documented consent, family supporting not
+substituting -> verdict: *a beneficent motive pursued by an autonomy-bypassing method is paternalism,
+and good outcomes do not retrospectively validate a defective consent.*
+
+## 12C. Positive duties, charity and supererogation
+
+> ⚠️ **Primary route for 2026 GS-IV Q6(b)** — "Some moral philosophers argue that spending some of
+> your resources — **without significantly affecting your financial stability** — to help other
+> people who badly suffer is our moral duty and not merely a matter of charity. **Justify** this claim
+> by explaining the distinction between duty and charity." The directive is **Justify**, which
+> requires a *defended* position: the claim, its strongest argument, the strongest objections, and
+> replies. Indian anchoring is compulsory for GS-IV.
+
+### The deontic/axiological map
+
+| Category | Status | Reaction to performance | Reaction to omission |
+|---|---|---|---|
+| **Obligatory (duty)** | Required | Expected; no special praise | **Blame / wrongdoing** |
+| **Permissible (neutral)** | Optional | None | None |
+| **Supererogatory** | Optional but good | **Praise**; "beyond the call of duty" | **No blame** |
+| **Forbidden** | Prohibited | — | Blame for doing it |
+
+- ⚠️ **The structural insight:** duty belongs to the **deontic** sphere (the "ought"), which is
+  **minimal**, universally expectable and bounded by "'ought' implies 'can'." Supererogation sits at
+  the intersection of the deontic and the **axiological** (the "good"), which is **open-ended**: the
+  good can always be exceeded, so it can be *commended* but not *required*.
+- ✅ **J. O. Urmson, "Saints and Heroes" (1958)** argued that the three-fold scheme of
+  duty/permissible/forbidden is inadequate, because the acts of saints and heroes are neither
+  required nor merely permitted — establishing supererogation as a distinct moral category.
+- ⚠️ **Historical root:** the Christian *opera supererogationis* and the distinction between
+  **precepts** (binding on all) and **counsels** (of perfection, for those who choose them) — the
+  same logic later secularised.
+
+### Singer's argument
+
+- ✅ **Peter Singer, "Famine, Affluence, and Morality," *Philosophy & Public Affairs* 1(3), 1972.**
+  - ✅ **Strong principle:** "if it is in our power to prevent something bad from happening, without
+    thereby sacrificing anything of comparable moral importance, we ought, morally, to do it."
+  - ✅ **Moderate principle:** the same, but "without thereby sacrificing anything **morally
+    significant**."
+  - ✅ **The drowning-child analogy:** if you pass a shallow pond and a child is drowning, you must
+    wade in, even at the cost of muddying your clothes. The cost is trivial; the harm prevented is
+    grave; nobody regards the rescue as optional or as charity.
+  - ✅ **Two corollaries Singer stresses:** (i) **physical distance is morally irrelevant** — proximity
+    affects how easily we *feel* the claim, not how strong it is; (ii) **the number of other people
+    who could also help does not diminish one's own obligation** — otherwise each bystander's duty
+    would be extinguished by the presence of other bystanders, which is absurd.
+  - ✅ **His conclusion:** the conventional distinction between duty and charity "cannot be
+    justified"; giving in such cases is not a supererogatory act for which one is praised, but a duty
+    whose omission is wrong.
+- ⚠️ **The interpretive move that decides this question:** the examiner's own qualifier — *"without
+  significantly affecting your financial stability"* — is the **moderate** Singer, not the strong
+  one. The paper has therefore already conceded the low-cost condition, which is exactly the premise
+  the strongest objection (demandingness) attacks. ⚠️ **Say this explicitly in the answer**: the
+  claim being justified is the modest one, and the modest one is far harder to resist.
+- ✅ **Rawls's natural duty of mutual aid** (*A Theory of Justice*, §19 and §51) — the duty of helping
+  another in need or jeopardy, **provided one can do so at little cost to oneself** — is an almost
+  exact philosophical restatement of the paper's formulation, and is the single best corroborating
+  citation because it comes from a non-utilitarian framework.
+- ✅ **Kant — imperfect (wide) duties:** in the *Metaphysics of Morals* (Doctrine of Virtue),
+  beneficence is an **imperfect duty**: obligatory as an *end* one must adopt, but **latitudinous** as
+  to when, how much and to whom. ⚠️ This is the decisive middle position: it concedes to Singer that
+  helping is a **duty, not optional charity**, while conceding to the critics that its *discharge* is
+  not fully determinate. An answer that reaches this synthesis is doing exactly what "Justify" asks.
+
+### Charity vs duty — the comparison table
+
+| Axis | **Charity (the traditional view)** | **Duty (Singer; Rawls's mutual aid)** |
+|---|---|---|
+| Normative status | Supererogatory: praiseworthy, optional | Obligatory: omission is a wrong |
+| Reaction to omission | No blame | Blame |
+| Ground of the claim | The **giver's** virtue, generosity, compassion | The **recipient's** need plus the giver's low cost |
+| Trigger | The giver's discretion and choice of cause | An objective condition: preventable serious harm + no comparable sacrifice |
+| Standing of the recipient | Grateful beneficiary; no claim | A person with a claim on assistance |
+| Limit | None — the good is open-ended | The comparable-importance / low-cost threshold |
+| Relation to justice | Sits outside justice | Borders on justice; Pogge would place much of it *inside* justice |
+
+⚠️ **The thesis in one line:** the duty/charity boundary is not fixed by the *type of act* (giving)
+but by the **ratio of the harm prevented to the cost of preventing it**. Below the low-cost
+threshold, "charity" is a misnomer for duty; above it, genuine supererogation begins.
+
+### Numbered justification (the answer's argumentative core)
+
+1. ⚠️ **From the uncontroversial case:** virtually everyone agrees the drowning-child rescue is
+   obligatory. That judgment is not about ponds; it is about *preventable grave harm at trivial cost*.
+2. ⚠️ **Generalise the principle:** if that is why the rescue is obligatory, the same features
+   generate the same obligation wherever they recur.
+3. ⚠️ **Eliminate the false differentiators:** distance is morally irrelevant; the availability of
+   other potential helpers does not divide or extinguish one's own duty; the fact that the need is
+   chronic rather than dramatic changes its salience, not its gravity.
+4. ⚠️ **Apply the paper's own low-cost qualifier:** the claim is restricted to help that does not
+   significantly affect one's financial stability — so the classic demandingness objection does not
+   reach it.
+5. ⚠️ **Corroborate from an independent tradition:** Rawls's natural duty of mutual aid and Kant's
+   imperfect duty of beneficence both classify helping as a **duty**, not charity — so the conclusion
+   does not depend on accepting utilitarianism.
+6. ⚠️ **Conclude with the qualification intact:** below the threshold it is duty; above it,
+   supererogation survives as a real and valuable category — which is why the heroic giver still
+   deserves praise.
+
+### Objections and replies (a "Justify" answer must contain these)
+
+- **Objection 1 — Demandingness.** ⚠️ Singer's strong principle appears to require giving until
+  further giving would cost something of comparable moral importance, leaving no space for personal
+  projects, relationships and integrity (Susan Wolf, "Moral Saints," 1982; Bernard Williams on
+  integrity and the agent's ground projects).
+  **Reply:** the claim under examination is the **moderate**, low-cost version explicitly qualified by
+  the paper; and Kant's **latitude** in imperfect duties preserves the space for personal projects
+  without downgrading beneficence to charity.
+- **Objection 2 — Special obligations.** ⚠️ We owe more to our own children, parents and community;
+  impartial aggregation misdescribes moral life.
+  **Reply:** special obligations have priority **within** the resources they actually require; they do
+  not license indifference with the surplus. The threshold clause already carves out what is needed
+  for one's dependants.
+- **Objection 3 — "This is the government's job."** ⚠️ Poverty relief is an institutional
+  responsibility; individual giving is inefficient and unaccountable.
+  **Reply (Singer):** institutional failure does not extinguish an individual duty — it is precisely
+  where institutions fail that preventable harm persists. **Counter-reply to concede:** sustained
+  individual giving *can* entrench institutional failure by substituting for it; the honest position
+  is that individual duty includes a duty to support institutional reform, not only to transfer money.
+- **Objection 4 — Negative vs positive duties (Pogge).** ⚠️ Thomas Pogge argues that the affluent owe
+  primarily a **negative duty not to harm** — not to impose or benefit from an unjust institutional
+  order — which is a stronger and more widely accepted ground than a positive duty of aid.
+  **Reply:** this strengthens rather than weakens the claim: if the affluent are *implicated* in the
+  harm, assistance becomes a matter of **compensatory justice**, and calling it charity is a
+  category error.
+- **Objection 5 — Effectiveness.** ⚠️ Aid can be ineffective, distorting or dependency-creating.
+  **Reply:** a genuine constraint on *how* the duty is discharged, not on *whether* it exists. It
+  argues for effectiveness, recipient ownership and accountability — the same conditionality/
+  ownership/dependency analysis this repository already develops for aid ethics in
+  `12_Corporate-Governance-and-International-Ethics.md`.
+
+### Indian register (compulsory for GS-IV)
+
+- ⚠️ ***Dāna*** in the Indian tradition is classically graded by the **manner** of giving — given at
+  the right time, to the right person, without expectation of return, and without humiliating the
+  recipient — which independently supports the modern point that *how* one gives determines whether
+  the recipient's dignity survives the transfer.
+- ⚠️ ***Tyāga*** (renunciation of the fruits of action) and the *Bhagavad Gītā*'s *niṣkāma karma*
+  frame giving as the discharge of duty rather than as benevolent surplus.
+- ⚠️ **Gandhi's trusteeship** (see `06` §10B) is the sharpest Indian statement of the thesis: surplus
+  is held **in trust**, so transferring it is the discharge of a fiduciary duty, not an act of
+  generosity. Kept together, trusteeship and Singer make the same move from *charity* to *obligation*
+  by two different routes.
+- ⚠️ **Antyodaya** as the allocation rule — the claim of the last person is the first claim.
+- ⚠️ **Article 51A(e) and 51A(j)** (Fundamental Duties: promoting harmony and the spirit of common
+  brotherhood; striving towards excellence) express, in constitutional form, the idea that a citizen
+  bears duties that are not legally enforced but are not therefore optional.
+- ⚠️ **Institutional mirror:** CSR under **Section 135 of the Companies Act, 2013** converted a
+  discretionary corporate practice into a codified obligation for qualifying companies — a concrete
+  Indian instance of a society *relocating* an activity from the charity column to the duty column.
+  ⚠️ Use it as an illustration of the boundary moving, not as proof that Singer is right.
+- ⚠️ **Internal bridge:** Section 11 of this file (permissibility of doing good absent express
+  prohibition) is the *public-servant* counterpart — there the question is whether an official **may**
+  do good; here it is whether a person **must**.
+
+### Traps
+
+- ❌ **Trap:** answering "charity is good, duty is also good, both are needed." -> The question asks
+  for a **distinction and a justification**; a both-sides paragraph earns nothing.
+- ❌ **Trap:** presenting Singer's strong principle and then defending it against demandingness. ->
+  The paper gives you the moderate version; use it.
+- ❌ **Trap:** abolishing supererogation. -> The thesis is that *some* of what we call charity is
+  duty, not that the category of the heroic disappears.
+- ❌ **Trap:** confusing a **legal** duty with a **moral** duty. -> The claim is moral; imperfect
+  duties are typically not legally enforced, and saying so strengthens the answer.
+- ❌ **Trap:** pure Western citation with no Indian anchor. -> *Dāna*, trusteeship, Antyodaya, Art.
+  51A.
+- ❌ **Trap:** assuming duty entails coercion. -> A duty can be real and non-enforceable; that is
+  exactly what an imperfect duty is.
+
+### 10-mark answer spine (~150 words)
+
+Draw the duty/charity line using the deontic/axiological split (duty = minimal, blame on omission;
+charity/supererogation = open-ended, praise but no blame) -> state Singer's **moderate** principle and
+the drowning-child argument, with distance-irrelevance and numbers-irrelevance -> note that the
+question's own **low-cost qualifier** disarms the demandingness objection -> corroborate from
+independent traditions: Rawls's natural duty of mutual aid, Kant's imperfect duty of beneficence ->
+concede and answer the two strongest objections (special obligations; institutional responsibility),
+and note Pogge's negative-duty route as a stronger ground still -> Indian anchoring: *dāna* given
+without humiliating the recipient, Gandhian trusteeship, Antyodaya, Art. 51A -> verdict: *where the
+cost to me is trivial and the harm prevented is grave, what we call charity is misnamed — it is duty;
+beyond that threshold, supererogation remains genuine and praiseworthy.*
+
 ## 13. Selectable named evidence/application units
 
 > Pick 1-2 units per answer; each follows claim -> named evidence/example -> significance -> limitation.
@@ -344,6 +705,23 @@ instead recommend [Y] because [reason]; on balance, [reasoned, qualified verdict
 - ✅ `13_Emerging-Ethics-Technology-AI-and-Environment.md` — AI-ethics application of these theories.
 - ✅ `21_Protecting-Honest-Officials-and-Vigilance-Administration.md` — the bona fides test that
   operationalises this file's Section 12A moral-luck correction in vigilance evaluation.
+- ✅ `09_Public-Service-Values-Status-and-Ethical-Dilemmas.md` §10-§11 — conflict of interest, and
+  the coercion vs undue-influence taxonomy that Section 12B relies on for voluntariness.
+- ✅ `06_Indian-Moral-Thinkers-and-Philosophers.md` §10B — Gandhian trusteeship, the Indian bridge for
+  Section 12C's duty-not-charity thesis.
+- ✅ `12_Corporate-Governance-and-International-Ethics.md` — aid conditionality, ownership and
+  dependency risk, used as the effectiveness objection in Section 12C.
+
+<!-- 2026 POINTER (non-generated; kept outside the generated PYQ blocks below) -->
+## 2026 GS-IV Section-A pointer
+
+> ⚠️ The generated PYQ blocks below end at 2024-2025. The **2026 GS-IV Section-A** routing ledger for
+> all thirteen official parts is maintained separately in
+> [`../_PYQ-GS4-SectionA-2026.md`](../_PYQ-GS4-SectionA-2026.md).
+>
+> **Parts primarily owned here:** **2026 Q4(a)** — paternalism and beneficence analysed through a
+> doctor's action (see **Section 12B**); **2026 Q6(b)** — moral duty versus charity (see **Section
+> 12C**).
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

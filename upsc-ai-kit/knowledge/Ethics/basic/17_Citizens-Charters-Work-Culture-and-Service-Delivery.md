@@ -629,6 +629,55 @@ benefits and substantial reduction in corruption.
 The ethics lesson is structural: fewer discretionary touchpoints and integrated responsibility can
 improve convenience and traceability. Detailed corruption analysis remains Topic 18-owned.
 
+### Process redesign as anti-tout architecture
+
+> ✅ **Route note — 2026 GS-IV Section B, Q9 (20 marks, ~250 words):** a case in which intermediaries
+> ("touts", agents, facilitators) have colonised a public office and citizens cannot obtain a
+> service without paying one. **This sub-section owns the process-redesign remedy**; the eight-element
+> case architecture and the steelman/residual-risk elements remain owned by
+> `22_Case-Study-Method-and-Answer-Architecture.md`, and the corruption/vigilance analysis remains
+> Topic 18- and Topic 21-owned. Read it with Sec. 16's private-agent-dependence block.
+
+⚠️ **The diagnostic that scores: a tout is a symptom, not a cause.** Intermediaries appear wherever
+four conditions co-exist, and enforcement alone removes none of them.
+
+| Condition that creates a tout market | What the tout actually sells | Redesign that removes the market |
+|---|---|---|
+| **Opacity of requirement** — the citizen cannot find out what documents and steps are needed | Knowledge | Published, exhaustive, checklist-form requirement list in the local language at the counter, on the portal and on the receipt; no requirement may be demanded that is not on the published list |
+| **Discretion over sequence** — files move by influence, not by order | Queue position | **Chronological (FIFO) disposal** with a published pendency register; any out-of-turn disposal to be recorded with written reasons and shown in the monthly dashboard |
+| **Opacity of status** — the citizen cannot tell where the file is or why it stalled | Information and follow-up | Dated acknowledgement with a unique application number at the moment of receipt; SMS/portal status; a named service owner; automatic escalation on breach of the charter time limit |
+| **Deficiency-based rejection** — files are returned repeatedly for one new defect at a time | Repeat access | **Single consolidated deficiency memo** issued once, within a fixed window, listing every defect; no fresh ground may be raised afterwards except on facts newly disclosed |
+
+⚠️ **The four structural remedies, in the order they should be written:**
+
+1. **Single window plus one service owner** (above) — removes the inter-office carrying that the tout
+   monetises.
+2. **Assisted-access channel operated by the office, not by the market** — a help desk, a facilitation
+   counter, a trained volunteer or a common service centre with **published, capped, receipted
+   charges**. ⚠️ The ethical principle is that an unassisted citizen must never be worse off than an
+   assisted one, and that assistance must be a **public provision** rather than a private rent
+   (Sec. 16's private-agent-dependence block).
+3. **Positive silence or a service-guarantee consequence** where the law provides it (Sec. 14) — which
+   converts delay from a resource the tout sells into a cost the office bears.
+4. **Published pendency and disposal dashboard** — shop-, counter- or dealing-hand-wise, showing
+   receipts, disposals, average time and out-of-turn cases; social audit and citizen-feedback loops
+   over it.
+
+⚠️ **Why enforcement alone fails, and what enforcement is still for.** Removing intermediaries
+without redesigning the process transfers the rent to staff, or simply reconstitutes the market a
+month later; it can also strand genuinely dependent citizens — the illiterate, the elderly, the
+first-time applicant — who had no other route. Enforcement remains necessary against **staff
+collusion** and against **coercive or extortionate** intermediaries, and it should be sequenced
+**after or alongside** the assisted-access channel, never before it. ⚠️ Note honestly that many
+"touts" are informal service providers meeting a real need created by the office's own design; the
+ethical target is the **rent**, not the poor person earning it.
+
+❌ **Traps:** proposing only a raid/prosecution drive; proposing a blanket ban on all intermediaries
+without an alternative assisted channel; treating digitisation as automatically anti-tout (it
+frequently creates a **new** intermediary market for form-filling and biometric access — Sec. 16A);
+omitting staff accountability, which makes the answer one-sided against citizens' agents while
+sparing the officials who benefit.
+
 ---
 
 ## 14. Facilitative administration and positive silence
@@ -674,6 +723,138 @@ ARC also cautions that corruption or harassment can migrate to later inspection.
 - the citizen is not trapped by later discretionary harassment.
 
 ⚠️ Positive silence is not a universal rule and must never be invented where law does not provide it.
+
+### 14A. Graded, risk-based enforcement where closure would extinguish a right
+
+> ✅ **Route note — 2026 GS-IV Section A, Q5(a) (10 marks, ~150 words):** how a regulator should act
+> where strict enforcement of norms against a non-compliant service provider would itself deprive
+> citizens — typically children — of the very service the norms exist to protect. **This
+> sub-section is the owner.** It is the general doctrine; the schooling fact pattern is the
+> illustration, not the subject.
+
+⚠️ **The structure of the dilemma.** Enforcement against a provider is normally a citizen-protecting
+act. It inverts when the provider is the **only available access point** to a guaranteed right: the
+sanction (closure, de-recognition, licence cancellation) then falls on the beneficiary rather than
+on the defaulter. The resulting choice is not "rules versus compassion"; it is a choice **between
+two protective duties** — the duty to enforce the quality floor and the duty to secure continued
+access.
+
+**⚠️ The three-part resolution.**
+
+1. **Triage the norms by the harm they guard against** — not all norms are alike, and treating them
+   alike is the error that produces both over-enforcement and paralysis.
+2. **Escalate the response, do not binarise it** — the choice is not "close or ignore"; it is a
+   ladder.
+3. **Make continuity of the right a precondition of the sanction, not an afterthought** — the
+   sanction may be imposed only once the beneficiary's alternative access is secured.
+
+**Norm triage — the table to reproduce**
+
+| Tier | Character of the norm | Illustration from the RTE Schedule | Enforcement posture |
+|---|---|---|---|
+| ⚠️ **Tier 1 — safety-critical** | Breach risks immediate, serious, irreversible harm to life or bodily integrity, or is a child-protection failure | Structurally unsafe building; absence of safe and adequate drinking water; absence of separate toilets for boys and girls; unfit or unverified staff | **Non-negotiable and immediate.** No time is given to comply *in situ*; the activity stops or is relocated at once. Compliance cannot be traded against continuity. |
+| ⚠️ **Tier 2 — quality-core** | Breach degrades the substance of the entitlement but not immediately or irreversibly | Pupil-teacher ratio; minimum teacher qualification; prescribed working days and instructional hours; teaching-learning equipment | **Time-bound compliance order** with a written improvement plan, milestones, named responsible person, monitoring visits and a defined consequence on default. |
+| ⚠️ **Tier 3 — capacity/infrastructure** | Breach is a deficit in facilities that support quality and is often resource-constrained rather than wilful | Playground; boundary wall or fencing; library with newspapers, magazines and books; play and sports material | **Supported compliance** — longer horizon, technical and financial assistance, shared or pooled facilities where feasible; closure is a disproportionate response. |
+
+⚠️ The triage is also the test of good faith: a provider who fixes Tier 3 items while ignoring Tier 1
+is managing appearances, and should be treated more severely, not less.
+
+**Responsive-regulation ladder (escalate only as far as necessary)**
+
+```text
+  [ 6 ]  CLOSURE / DE-RECOGNITION  <- only with assured alternative placement
+  [ 5 ]  ADMINISTRATION / TAKEOVER / CHANGE OF MANAGEMENT
+  [ 4 ]  PENALTY + CONTINUING DAILY PENALTY
+  [ 3 ]  BINDING COMPLIANCE ORDER (dated milestones, monitored)
+  [ 2 ]  IMPROVEMENT PLAN + TECHNICAL/FINANCIAL SUPPORT
+  [ 1 ]  WARNING + PUBLISHED INSPECTION REPORT
+         ^
+         |  Start at the lowest rung that can fix the specific breach.
+         |  Escalate on non-compliance; de-escalate on verified compliance.
+         |  Tier-1 breaches enter the ladder at [4]-[6] immediately.
+```
+
+⚠️ The ladder's ethical content is **proportionality plus predictability**: the provider knows in
+advance what escalation follows what default, so enforcement is neither arbitrary nor negotiable,
+and the regulator's discretion is structured rather than personal.
+
+**The statutory model this is drawn from (Indian anchor — RTE Act, 2009)**
+
+- ✅ **Article 21A** of the Constitution (inserted by the Eighty-sixth Amendment, 2002) makes free and
+  compulsory education for children of the specified age group a **fundamental right**, which is why
+  closure is not a neutral administrative act here.
+- ✅ **Section 18(1)** — no school other than one established, owned or controlled by the appropriate
+  Government or a local authority may be established or function **without a certificate of
+  recognition**; the proviso to s.18(2) bars recognition unless the school fulfils the norms and
+  standards specified under s.19.
+- ✅ **Section 18(3) and its first proviso** — on contravention of the conditions of recognition the
+  prescribed authority shall, by written order, withdraw recognition; and "**such order shall contain
+  a direction as to which of the neighbourhood school, the children studying in the derecognised
+  school, shall be admitted**". The second proviso bars withdrawal without an **opportunity of being
+  heard**. ⚠️ This is the decisive provision for the whole question: Parliament itself made
+  **assured placement a condition of the closure order**, and a fair hearing a condition of the
+  decision. Cite s.18(3), not s.19, for this point.
+- ✅ **Section 18(4)** — from the date of withdrawal of recognition, no such school shall continue to
+  function. **Section 18(5)** — establishing or running a school without recognition, or continuing
+  to run after withdrawal, attracts a fine **which may extend to one lakh rupees**, and in case of
+  continuing contraventions, **ten thousand rupees for each day** during which the contravention
+  continues.
+- ✅ **Section 19** — s.19(1) bars establishment or recognition unless the **Schedule** norms are
+  fulfilled; **s.19(2) gives a school existing before the Act's commencement three years to comply,
+  at its own expense**; s.19(3) provides for withdrawal of recognition under s.18(3) on failure;
+  s.19(4) bars functioning thereafter; s.19(5) attaches the same monetary penalty to continued
+  functioning. ⚠️ Note the design logic: the statute pairs a **transition period** with a **hard
+  consequence** — support first, sanction after, and never a sanction without a placement direction.
+- ✅ **Section 28** — "No teacher shall engage himself or herself in private tuition or private
+  teaching activity." Relevant where the compliance failure is in teacher conduct rather than
+  infrastructure.
+- ⚠️ **NEP 2020's regulatory principle** — the separation of the regulatory function from the
+  provision, operation and accreditation functions, with a State School Standards Authority setting
+  a minimal set of standards enforced primarily through **public self-disclosure** and light-touch
+  oversight. ⚠️ Cite this at principle level ("light but tight", disclosure-based regulation);
+  verify institutional names and current implementation status before asserting them as operational.
+
+**Comparison chart — three enforcement postures**
+
+| Posture | What it does | Who bears the cost of the provider's default | Verdict |
+|---|---|---|---|
+| ⚠️ **Strict legalism** | Applies the maximum sanction on any breach, immediately | The **beneficiary**, who loses access — the opposite of the norm's purpose | Rejected: it is faithful to the rule's text and unfaithful to its reason. |
+| ⚠️ **Indulgence / regulatory capture by sympathy** | Tolerates breach indefinitely because closure is painful | The **beneficiary again**, who receives an unsafe or empty entitlement, plus every compliant provider who invested in meeting norms | Rejected: continuing tolerance converts the norm into a dead letter and rewards the defaulter. |
+| ⚠️ **Graded, risk-based enforcement** | Triages norms by harm; escalates predictably; conditions the ultimate sanction on assured continuity of the right | The **defaulting provider**, which is where it belongs | Adopted: the only posture that protects the entitlement in both dimensions — quality *and* access. |
+
+**Objections and replies**
+
+- *Objection:* "Graded enforcement is just a euphemism for not enforcing."
+  *Reply:* it is the opposite if the ladder is **published, dated and automatic** — escalation
+  follows default without a fresh discretionary decision, and default is visible because inspection
+  reports are published. What makes enforcement weak is unstructured discretion, not gradation.
+- *Objection:* "Tolerating a sub-standard provider harms children too."
+  *Reply:* conceded, which is why Tier 1 admits no gradation at all and why every concession is
+  **time-bound and monitored**, not open-ended. The question is not whether to enforce but in what
+  sequence, so that the child is never the instrument of the sanction.
+- *Objection:* "Alternative placement is often not available in practice."
+  *Reply:* then securing it is the **first enforcement task**, and the interim posture is
+  supervision, support and a dated plan — with the State's own obligation to provide a neighbourhood
+  school squarely engaged. Unavailability is a reason to act on the State, not a reason to close.
+- *Objection:* "This invites lobbying and inconsistency."
+  *Reply:* controlled by publishing the triage, the ladder and every inspection report, by recording
+  reasons for each rung, and by making out-of-sequence leniency reviewable.
+
+❌ **Traps:** framing the answer as "rules versus compassion" (it is duty versus duty); ignoring the
+compliant providers whose investment is devalued by indulgence; proposing closure without naming
+where the beneficiaries go; citing the penalty provision without the placement direction; treating
+all norms as equivalent; asserting an exemption where the statute gives none.
+
+**10-mark spine (~150 words):** state the inversion — the sanction falls on the beneficiary, not the
+defaulter -> refuse the rules-versus-compassion framing; it is a conflict between the duty to
+enforce a quality floor and the duty to secure access -> present the three-tier triage in one
+sentence with one example each -> present the escalation ladder in one sentence -> anchor in law:
+Article 21A, RTE s.19(2)'s three-year compliance window, and s.18(3)'s requirement that a withdrawal
+order itself **direct which neighbourhood school the children shall be admitted to**, with a hearing
+first -> add the fairness-to-compliant-providers point in one clause -> verdict: **enforce
+immediately and without gradation where safety is at stake; elsewhere escalate predictably; and
+never impose the ultimate sanction until continuity of the right is secured — the regulator's
+object is the entitlement, not the institution.**
 
 ---
 
@@ -772,6 +953,200 @@ When citizens require unofficial agents to:
 
 the service has privatised administrative navigation. Correct through disclosure, assisted access,
 simple design, secure authorised intermediaries where needed and direct status communication.
+
+---
+
+## 16A. Technology as gatekeeper: the statutory floor, error asymmetry and the authentication cascade
+
+> ✅ **Route note — 2026 GS-IV Section B, Q10 (20 marks, ~250 words):** a case in which an
+> authentication or verification technology (biometric, e-KYC, face recognition, geo-tagging,
+> eligibility algorithm) is denying a statutory entitlement to genuine beneficiaries while
+> improving leakage figures. **This section owns the substantive doctrine and the remedy
+> architecture**; the eight-element case format remains owned by
+> `22_Case-Study-Method-and-Answer-Architecture.md`, and the algorithmic-bias mechanism is owned by
+> `13_Emerging-Ethics-Technology-AI-and-Environment.md` Sec. 11C. Sections 15 and 16 above give the
+> multi-channel and human-review principles that this section makes operational.
+
+### 16A.1 The doctrine: technology may verify an entitlement, never constitute it
+
+⚠️ An entitlement is created by **law** — by a statute, a scheme's eligibility rule or a
+constitutional guarantee. A technology is a **means of verifying** that a particular person holds
+that entitlement. When a verification failure is treated as the absence of the entitlement, the
+means has silently replaced the source. Three consequences follow, and they are the spine of the
+answer:
+
+1. **The burden of a system failure belongs to the system, not to the beneficiary.** A worn
+   fingerprint, a server timeout, a seeding error, a name mismatch or an absent network is a defect
+   in the State's apparatus; making the citizen bear it is a transfer of institutional risk onto the
+   person least able to carry it.
+2. **Every authentication system must have a non-technological floor.** A route to the entitlement
+   must exist that does not depend on the technology working, or the entitlement is conditional on
+   the technology.
+3. **The floor must be usable, not merely available.** An exception route that is undocumented,
+   discretionary, unpublicised or personally costly to invoke is not a floor; it is a favour.
+
+### 16A.2 The statutory floor (Indian anchors — quote one or two, not all)
+
+- ✅ **Aadhaar Act, 2016, Section 7, proviso (verbatim):** "Provided that if an Aadhaar number is not
+  assigned to an individual, the individual shall be offered **alternate and viable means of
+  identification** for delivery of the subsidy, benefit or service." ⚠️ Note the exact reach: the
+  proviso is framed around the individual **not having been assigned** a number. The wider principle
+  — that authentication *failure* must also not defeat the entitlement — comes from the Supreme
+  Court's direction below and from the executive instructions, so cite them together rather than
+  overreading the proviso alone.
+- ⚠️ **Supreme Court, *Justice K.S. Puttaswamy (Retd.) v. Union of India* (the Aadhaar judgment,
+  26 September 2018):** while upholding Section 7, the Court proceeded on the basis that **no
+  genuine beneficiary may be denied a benefit for failure of biometric authentication**, and that an
+  **exception-handling mechanism** must be provided so that seeding or authentication failure does
+  not result in exclusion. ⚠️ Verify the operative paragraph before attributing a quotation to it;
+  state the proposition, not a paragraph number.
+- ⚠️ **National Food Security Act, 2013 — the grievance and oversight spine** for a PDS fact pattern:
+  **s.14** requires an internal grievance-redressal mechanism; **s.15** provides for a **District
+  Grievance Redressal Officer** to hear complaints on non-distribution of entitlements, with appeal
+  to the State Food Commission; **s.16** establishes the **State Food Commission** to monitor and
+  review implementation and to hear appeals against DGRO orders, with the powers of a civil court;
+  and **s.29** provides for **Vigilance Committees** at the State, district, block and fair-price-shop
+  levels, with representation for local authorities, Scheduled Castes, Scheduled Tribes, women and
+  destitute persons or persons with disability. ⚠️ Verify the section numbering against the bare Act
+  before writing it; an older common error places the DGRO at s.14.
+- ⚠️ **Department of Food and Public Distribution standing instructions** to States and Union
+  Territories require that **no genuine beneficiary or household be denied subsidised foodgrains for
+  want of Aadhaar or on account of authentication failure**, that alternative identification and
+  exception handling be used, and that such exceptions be recorded. ⚠️ Cite this as a **standing
+  departmental instruction**; do not quote a letter number, date or notification number unless you
+  have verified it immediately before use.
+- ⚠️ **Article 21 and the right to food** — developed through the continuing *People's Union for
+  Civil Liberties v. Union of India* proceedings, in which the Supreme Court passed a series of
+  interim orders converting food schemes into enforceable entitlements. ⚠️ Describe it as a
+  continuing mandamus with interim orders, not as a single final judgment.
+- ⚠️ **Portability (One Nation One Ration Card)** is the structural answer to migration-related
+  exclusion, and should be named as a **design fix** rather than an exception route.
+
+### 16A.3 Exclusion error vs inclusion error — the asymmetry that decides the case
+
+| | **Exclusion error (false negative)** | **Inclusion error (false positive)** |
+|---|---|---|
+| What happens | A genuine beneficiary is denied | An ineligible person receives |
+| Who bears it | The poorest, the elderly, manual workers with worn fingerprints, persons with disability, migrants, women without independent documents | The exchequer, i.e. the general taxpayer |
+| Visibility | **Invisible in the dashboard** — the excluded person simply disappears from the transaction log and is often recorded as a "saving" | Highly visible; audited, reported, politically salient |
+| Reversibility | Often **irreversible** for the period concerned — a missed month of foodgrain, a missed pension, a missed school admission window | Recoverable through recovery proceedings, penalty and prospective correction |
+| Moral character | A failure of the State's **primary duty** to the person the scheme exists for | A failure of **stewardship** of public funds |
+| Correct posture | Minimise first; treat any exclusion as a defect requiring investigation | Minimise second; accept a higher tolerance where the alternative is exclusion |
+
+⚠️ **The decisive argument to write:** the two errors are not symmetrical, and a system tuned to
+drive inclusion error to zero will necessarily raise exclusion error. Since exclusion falls on the
+intended beneficiary and is invisible in the very metrics used to declare the system a success,
+**the ethical default is to accept a measurable inclusion error rather than an unmeasured exclusion
+error** — while attacking inclusion error through de-duplication, supply-chain and audit controls
+that do not stand between the beneficiary and the counter.
+
+⚠️ **Corollary — a leakage-reduction figure is not by itself evidence of success.** Reported savings
+conflate three different things: genuine elimination of ghost and duplicate beneficiaries, quiet
+exclusion of genuine beneficiaries, and unclaimed entitlement due to friction. An answer that
+accepts the savings figure at face value has conceded the case. **The remedy is to demand
+disaggregation** before any evaluative claim is made.
+
+### 16A.4 The authentication cascade — the operational remedy
+
+```text
+  STEP 1   Primary biometric (fingerprint)
+             |  fail
+             v
+  STEP 2   Alternate biometric (iris / face)
+             |  fail
+             v
+  STEP 3   OTP to the registered mobile
+             |  fail / no phone / no network
+             v
+  STEP 4   Offline / cached verification, or verification by an
+           alternate document already on the household record
+             |  fail
+             v
+  STEP 5   MANUAL EXCEPTION — the entitlement IS DELIVERED, and:
+             - recorded in a serially numbered exception register
+             - with the beneficiary's photograph taken at the counter
+             - countersigned by a witness or a local-body representative
+             - auto-synced to the district server when connectivity returns
+             - flagged for a home visit to fix the underlying defect
+                (re-enrolment, biometric update, mobile seeding, name correction)
+             |
+             v
+  ALWAYS   No step may terminate in refusal. The cascade has no exit
+           other than delivery or a written, appealable order of
+           ineligibility naming the legal ground.
+```
+
+⚠️ **The single most important design rule:** the cascade must be **exhaustive** — there is no
+terminal "denied because authentication failed" state. Denial must rest on a **substantive**
+ground of ineligibility, stated in writing, with an appeal route, and never on a technical failure.
+
+### 16A.5 Accountable exceptions — making the floor safe against abuse
+
+⚠️ The honest objection to any exception route is that it reopens the diversion it was meant to
+close. The answer is not to narrow the exception but to make it **accountable**:
+
+| Control | What it does | Why it does not re-exclude |
+|---|---|---|
+| **Serially numbered exception register**, with photograph, reason code, witness signature and date | Creates an audit trail for every manual delivery | Falls on the **operator**, not the beneficiary |
+| **Automatic transmission** of exception records to the district system | Prevents a paper register from being invisible | Machine-side obligation |
+| **Threshold flagging of outlier outlets** — a shop or counter whose exception rate is far above its cluster median is inspected | Targets the few likely abusers instead of suspecting all beneficiaries | Investigation is of the outlet, not of the applicant |
+| **Publication of counter-wise exception and failure rates** | Turns exclusion into a visible, comparable statistic | Makes exclusion appear on the dashboard, which is the whole point |
+| **Mandatory root-cause follow-up** on every exception (re-enrolment, seeding, correction camp) | Treats each exception as a defect ticket, so the rate falls over time for the right reason | Fixes the citizen's record instead of denying the citizen |
+| **Social audit and Vigilance Committees / DGRO route** (NFSA ss.15, 16, 29) | Independent verification and a redress route with teeth | Beneficiary-side remedy |
+| **Officer-level accountability for exclusion**, not only for leakage | Aligns incentives — today an officer is penalised for over-payment but not for under-delivery | Corrects the asymmetry at source |
+
+⚠️ **Reframe the metric.** The performance indicator must change from "leakage reduced" to a **paired
+indicator**: entitlement-realisation rate (proportion of eligible households that actually received
+the full entitlement) **alongside** leakage. Sec. 17's balanced-dashboard and failure-demand logic
+applies directly: a spike in exception requests, repeat visits or grievance filings is **failure
+demand** — work created by the system's own defect — and must be read as a system alarm, not as
+beneficiary misbehaviour.
+
+### 16A.6 Objections, replies and traps
+
+- *Objection:* "Any manual exception will be captured by dealers and the leakage will return."
+  *Reply:* the risk is real and is controlled by **traceability rather than refusal** — photograph,
+  numbered register, witness, auto-sync, outlier-rate inspection and published counter-wise rates.
+  Abuse then becomes detectable and attributable; exclusion, by contrast, is undetectable by design.
+- *Objection:* "Suspending the technology would destroy years of reform."
+  *Reply:* no suspension is proposed. The recommendation is **conditional continuation** — the system
+  keeps running, with a mandatory floor beneath it. Rejecting the false choice between "scrap it" and
+  "accept exclusion" is itself a mark-earning move.
+- *Objection:* "Beneficiaries can always complain."
+  *Reply:* a remedy that requires the excluded person to travel, document, follow up and risk
+  antagonising the person who controls her ration is not an effective remedy. The floor must operate
+  **at the counter, by default**, not through an appeal the poorest cannot pursue.
+- *Objection:* "Exclusion figures are anecdotal."
+  *Reply:* which is an argument for **measuring** them — counter-wise failure and exception rates,
+  independent household surveys, and reconciliation of the beneficiary roll against actual
+  transactions — not for assuming they are zero.
+
+❌ **Traps:** treating the case as privacy-versus-efficiency (the operative value here is
+**exclusion**, i.e. Article 21 and equality, not privacy); accepting reported savings without
+disaggregation; recommending "sensitise the dealers" as the substantive remedy; proposing an
+exception route without an abuse control; proposing an abuse control that shifts the burden back
+onto the beneficiary; omitting the statutory grievance machinery (DGRO, State Food Commission,
+Vigilance Committees) and thereby leaving the remedy dependent on the same officer who failed;
+quoting a circular number or notification number that has not been verified.
+
+**20-mark case integration:** hard thresholds = the statutory entitlement itself, the alternate-
+identification floor, and the rule that no delivery may terminate in refusal for a technical
+failure; weighted checks = leakage control, fiscal cost, staff workload, implementation feasibility
+and speed. Options must include **conditional continuation with a mandatory cascade and accountable
+exception register** — not merely "continue" or "suspend". Residual risk = capture of the exception
+route and under-reporting of exclusion; mitigation = published counter-wise exception rates,
+outlier inspection, social audit, independent survey and officer accountability for exclusion as
+well as leakage.
+
+**10-mark spine (~150 words):** state the doctrine — technology verifies an entitlement, it does not
+constitute one -> name the statutory floor with the Aadhaar s.7 proviso quoted and the 2018
+direction that no genuine beneficiary be denied for authentication failure -> set out the
+exclusion/inclusion asymmetry in two lines, including the invisibility of exclusion in the dashboard
+-> give the cascade in one sentence, ending in an exception that is **delivered and recorded** ->
+give one abuse control (numbered register with photograph plus outlier-rate inspection) -> name the
+metric change to a paired entitlement-realisation indicator -> verdict: **a verification system that
+can deny an entitlement without a substantive reason has stopped verifying and started deciding; the
+floor beneath it is what keeps it a tool.**
 
 ---
 
@@ -915,6 +1290,20 @@ utilisation, leakage, audit and reform analysis.
 | 2025 Q5(a) | shared duty route | professionalism and fulfilment in service |
 | 2025 Q5(b) | direct | enabler and active facilitator |
 | 2025 Q6(a) | shared with Topic 16 | value-based and compliance-based work culture |
+| 2026 Q5(a) | direct regulation route | graded, risk-based enforcement where closure would extinguish a right (Sec. 14A) |
+| 2026 Q9 | direct case route | intermediary/tout capture of a public office — process redesign as anti-tout architecture (Sec. 13) |
+| 2026 Q10 | direct case route | authentication failure denying a statutory entitlement — technology-as-gatekeeper doctrine and the authentication cascade (Sec. 16A) |
+
+⚠️ The 2026 entries record the routing of the demands this owner now covers; verify the printed
+question numbering against the official paper before relying on it in a revision plan.
+
+### Exact 2026 route notes
+
+| Demand | Marks | Owner section here | Companion owner |
+|---|---:|---|---|
+| Balancing enforcement of norms against deprivation of a guaranteed service | 10 | Sec. 14A (norm triage, escalation ladder, RTE ss.18-19 and the Schedule, Article 21A) | `22_Case-Study-Method-and-Answer-Architecture.md` for any case-form version |
+| Touts/intermediaries capturing a public office | 20 | Sec. 13 anti-tout block + Sec. 14 positive silence + Sec. 16 private-agent dependence | Topic 18 (corruption), Topic 21 (vigilance), `22_Case-Study-Method-and-Answer-Architecture.md` (case architecture) |
+| Technology denying a statutory entitlement | 20 | Sec. 16A (statutory floor, error asymmetry, cascade, accountable exceptions) + Sec. 15 multi-channel + Sec. 17 failure demand | `13_Emerging-Ethics-Technology-AI-and-Environment.md` Sec. 11C (algorithmic-bias mechanism), `22_Case-Study-Method-and-Answer-Architecture.md` (case architecture) |
 
 ### 10-mark structure
 
@@ -962,3 +1351,13 @@ QUALIFIED CITIZEN-CENTRIC VERDICT
 > are joined to capable workflow, humane work culture, correct grievance and legal routes, inclusive
 > access, balanced measurement and visible learning. The ethical objective is not faster disposal
 > but timely, accurate, fair and correctable public service.
+
+> **Corollary thesis (regulation and technology):** the same standard governs the two points at
+> which service delivery turns coercive. When the State **enforces** a norm against a provider, the
+> sanction must escalate predictably and must never be discharged upon the beneficiary — continuity
+> of the right is a precondition of closure, not a consequence of it (Sec. 14A). When the State
+> **verifies** an entitlement through a technology, the technology may confirm who the person is but
+> may never decide whether she has the right — so every authentication path must end in delivery or
+> in a written, appealable finding of ineligibility, never in a technical refusal (Sec. 16A). In
+> both cases the test is the same: **does the institution bear the cost of its own failure, or does
+> the citizen?**

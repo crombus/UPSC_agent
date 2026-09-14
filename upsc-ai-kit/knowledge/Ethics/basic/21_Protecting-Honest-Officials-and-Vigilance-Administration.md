@@ -66,6 +66,27 @@ otherwise) should automatically trigger a vigilance inquiry.
 2. **Preserve secrecy of preliminary verification:** ✅ ARC 7.9(b) — secret verification protects both
    the honest official's reputation (if the allegation proves false, no one need know it was ever
    raised) and the integrity of any subsequent open investigation.
+   - ⚠️ **Secret verification is also the *continuity-preserving* instrument** — a point usually
+     missed in case-study answers. Where wrongdoing is embedded inside a working office, an open
+     inquiry does three things at once: it warns the network and lets evidence be destroyed, it
+     stigmatises officials who may turn out to be innocent, and it **stops the office from working**,
+     because staff who fear being swept up stop taking decisions at all. Covert verification under
+     ARC 7.9(b) avoids all three, and it is precisely what makes it possible to run an accountability
+     track and a service-continuity track **simultaneously** rather than sequentially. The
+     corresponding ethical claim: because the public's entitlement to a lawful, timely decision is
+     not suspended while an inquiry runs, an anti-corruption action that paralyses service delivery
+     has transferred the cost of the wrongdoing from the wrongdoer to the citizen (`22` Sec. 14.18
+     and Sec. 14A.3).
+   - ⚠️ **Preventive vigilance — acting on the system, not only on the person:** the CVC's
+     preventive-vigilance approach complements punitive action through measures that reduce the
+     *opportunity* for corruption — **periodic rotation of officials in sensitive seats**,
+     **surprise checks and inspections**, **random or committee-based allocation of files** instead
+     of a fixed desk-to-file mapping, **systems/process review of corruption-prone procedures**,
+     **published timelines and pendency information**, and **scrutiny of officers of doubtful
+     integrity**. Use these in a case study as the *residual-risk mitigation* element: punitive
+     action removes the current wrongdoer, preventive vigilance removes the niche that would
+     otherwise be refilled by the next one. Verify the current CVC circular and its terminology
+     before quoting a specific instrument or list by name.
 3. **Require competent, impartial evaluation:** ✅ ARC 7.9(c)-(d) — evaluation of evidence must be
    done by competent, honest, impartial personnel, consulting technical experts as needed.
 4. **Layer sanction requirements as procedural safeguards:** Sections 17A and 19 of the PC Act (see
@@ -139,6 +160,20 @@ otherwise) should automatically trigger a vigilance inquiry.
   the absence of legislation, requiring a complaints committee with a woman presiding officer and
   an external member — were the direct judicial ancestor of the POSH Act, 2013's Internal Committee
   architecture.
+- ⚠️ **An officer newly posted to an office where an intermediary network operates through her own
+  subordinates, with the honest majority too frightened to process files** (the 2026 GS-IV Q9 fact
+  pattern), applies this topic's safeguards in both directions at once. Against the wrongdoers:
+  secret preliminary verification under ARC 7.9(b), a targeted file audit, referral to the CVO and
+  the state ACB (`20`), prior approval under Section 17A where the conduct is decision-related
+  (`19`), and suspension confined to those against whom material exists, per ARC 7.9(f)'s
+  "evidence is strong" standard. **For the frightened honest majority — the group this topic
+  exists to protect** — a confidential reporting route, an explicit assurance that good-faith
+  decisions taken under the new published procedure will be judged by the **bona fides test** and
+  not second-guessed on outcome, and preventive-vigilance measures (rotation of sensitive seats,
+  random file allocation, surprise checks) that remove the opportunity rather than the officials.
+  ⚠️ The point an examiner rewards: fear-induced paralysis is itself an administrative and ethical
+  harm, and restoring the confidence to decide is as much a part of the remedy as punishing those
+  who decided corruptly. The assembled case is at `22` Sec. 14.18.
 
 ## 5. Must-Know Facts for Prelims
 
@@ -182,6 +217,12 @@ otherwise) should automatically trigger a vigilance inquiry.
   fides test here is precisely the safeguard distinguishing that from an honest, good-faith attempt
   that failed for reasons outside the official's control — the two must not be conflated.
 
+- ❌ Dismantling a corrupt network inside a working office requires suspending the whole section
+  first and restoring services afterwards. -> ARC 7.9(b)'s secret preliminary verification exists
+  precisely so that the accountability track and the service-continuity track can run in parallel;
+  an action that paralyses the office transfers the cost of the wrongdoing onto the citizens it was
+  meant to protect (mechanism point 2; `22` Sec. 14A.3).
+
 ## 7. PYQ application
 
 - ⚠️ Any question on "balancing accountability and administrative risk-taking" should cite the bona
@@ -193,6 +234,10 @@ otherwise) should automatically trigger a vigilance inquiry.
 - ⚠️ Section-B case studies involving political pressure, an improper oral instruction, or a
   suspected-corruption dilemma should apply the nine-point implementation sequence and
   whistleblowing ladder (mechanism points 8-9) step by step, not a generic "report it" answer.
+- ✅ Section-B case studies involving an **entrenched intermediary network inside the protagonist's
+  own office** (2026 GS-IV Q9) should cite ARC 7.9(a)-(d) screening and secret verification
+  explicitly as the instrument that permits parallel cleanup and continuity, and should close with
+  preventive-vigilance measures as the residual-risk element (`22` Sec. 14.18, Sec. 14A.3).
 
 ## 8. Mains angles
 
@@ -238,6 +283,11 @@ otherwise) should automatically trigger a vigilance inquiry.
 - ✅ `08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md`, Section 12A — the Nagel/
   Williams "moral luck" taxonomy (resultant/circumstantial/constitutive/causal) underlying the bona
   fides test.
+- ✅ `22_Case-Study-Method-and-Answer-Architecture.md` Sec. 14.18 and Sec. 14A.3 — the assembled
+  institutional-capture case and the two-track "clean up without shutting down" template built on
+  this file's ARC 7.9(b) secret-verification and implementation-sequence material.
+- ✅ `17_Citizens-Charters-Work-Culture-and-Service-Delivery.md` — the published-timeline,
+  single-window and process-redesign instruments that form the continuity half of that template.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

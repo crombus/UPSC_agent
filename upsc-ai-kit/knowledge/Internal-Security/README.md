@@ -1,5 +1,18 @@
 # Internal Security - Knowledge Base Index
 
+> **Organisation origins and importance:** [`../INTERNATIONAL-ORGANISATIONS-ORIGIN-AND-IMPORTANCE.md`](../INTERNATIONAL-ORGANISATIONS-ORIGIN-AND-IMPORTANCE.md)
+> covers FATF, INTERPOL and non-proliferation/export-control regimes.
+
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> structures threat mechanisms, institutional assessment and rights-sensitive responses.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes terrorism, insurgency, border, cyber, information and finance threats.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes terrorism, insurgency, organised crime, cyber operations and border concepts.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies cyber, coastal-security, LWE and border-governance examples.
+
 > **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md) — central routing only, not topic-file integration.
 >
 > **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](./OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
@@ -26,6 +39,22 @@
 > 2023); selected direct UPSC GS-III PYQs (2019-2025), with complete local
 > 2024-2025 GS-III and Essay papers as the recent corpus.
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Major panels:** [`_revision/Major-Committees-Commissions-and-Reports.md`](_revision/Major-Committees-Commissions-and-Reports.md)
+> maps Kargil, national-security, intelligence, border, defence, police and cyber reform panels.
+> **Landmark judgments:** [`../LANDMARK-JUDGMENTS-INDEX.md`](../LANDMARK-JUDGMENTS-INDEX.md)
+> supplies preventive-detention, surveillance, AFSPA, police-reform and UAPA case law.
+> **Major Acts:** [`../MAJOR-ACTS-INDEX.md`](../MAJOR-ACTS-INDEX.md)
+> maps criminal codes, terrorism, preventive detention, immigration and surveillance law.
+> **Indices and reports:** [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
+> maps peace, terrorism, organised crime, cyber, displacement, migration and defence data.
+> **Map-location bank:** [`../GEOGRAPHY-MAP-LOCATION-BANK.md`](../GEOGRAPHY-MAP-LOCATION-BANK.md)
+> maps border sectors, passes, island approaches, chokepoints, ports and strategic corridors.
+> **Institutions and regulators:** [`../INSTITUTIONS-AND-REGULATORS-INDEX.md`](../INSTITUTIONS-AND-REGULATORS-INDEX.md)
+> maps investigation, intelligence, CAPF, defence-coordination and disaster-response bodies.
+> **Government schemes:** [`../GOVERNMENT-SCHEMES-MATRIX.md`](../GOVERNMENT-SCHEMES-MATRIX.md)
+> maps border villages, police modernisation, cybercrime, coastal security and disaster volunteers.
+> **International organisations:** [`../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md`](../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md)
+> maps INTERPOL, FATF, SCO, export-control regimes, policing and security forums.
 > **Pre-exam revision:** [`REVISION-CHART_Threats-Responses-and-Distinctive-Features.md`](REVISION-CHART_Threats-Responses-and-Distinctive-Features.md)
 > compresses all 12 Core/Advanced pairs into one threat-vulnerability-response map,
 > institution comparison, rights safeguard sheet and GS-III answer framework.
@@ -226,6 +255,18 @@ Advanced only to refine, never to fill a missing paper requirement.
 question; each file states this honestly and routes its content to the
 questions above rather than claiming a PYQ it does not have.
 
+## 2026 GS-III PYQ routing
+
+> **Provenance:** OCR of `books/mains/2026/QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`
+> (the paper physically headed "GENERAL STUDIES (Paper III)"); cross-checked against
+> `PYQ-MAINS-COVERAGE-AUDIT-2026.md` and `PYQ-MAINS-CA-CROSSCHECK-2026.md` (central ledgers,
+> not edited here).
+
+| Paper | Question | Topic file |
+|---|---|---|
+| GS-III 2026 Q9 | Fake news/disinformation threat to internal security and public order; salient features of the amendments to the IT (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 | 09 (Section 14 — new 2026 answer spine: full amendment chronology 2021→2022/2023 GAC→2023 FCU (struck down 2024)→6 Feb 2026 SGI/3-hour-takedown amendment) |
+| GS-III 2026 Q10 | Ladakh's location between China and Pakistan; BADP and Army civic actions (Operation Sadbhavana); demand for Sixth Schedule status for Ladakh | 06 (Section 14 — new 2026 answer spine: BADP, Operation Sadbhavana, Sixth Schedule vs LAHDC comparison) |
+
 ### Historical and 2026 routing reconciliation
 
 - The authoritative 2018–2023 GS-III ledger now routes all **27** Internal
@@ -240,3 +281,25 @@ questions above rather than claiming a PYQ it does not have.
   argument about legitimate non-kinetic prevention/resilience; it is not
   represented as a security PYQ or used to fabricate a security-specific
   answer key.
+
+## Physical-book chapter reading index
+
+> **Confirmed book:** Ashok Kumar Singh, *Challenges to Internal Security of
+> India*. Use topic titles because chapter numbering differs across printings.
+
+| Book topic | Priority | Knowledge route | Reading instruction |
+|---|---|---|---|
+| Internal-security concepts and governance | **A** | Topic 01 | Read threat classification, causes and Centre-State architecture |
+| Terrorism, counter-terrorism and legal framework | **A** | Topic 02 | Read doctrine and institutions; replace old UAPA/NIA/legal status from Core |
+| Left-Wing Extremism | **A** | Topic 03 | Read ideology, geography, causes and security-development response |
+| North-East insurgency | **A** | Topic 04 | Read group/accord history as book-period evidence; verify current accord status |
+| Jammu and Kashmir / cross-border terrorism | **A** | Topic 05 | Read historical evolution and proxy-war mechanisms; update all post-2019 facts |
+| Border management | **A** | Topic 06 | Read terrain-threat-force-infrastructure framework |
+| Coastal and maritime security | **A** | Topic 07 | Read multi-agency architecture and post-26/11 reforms |
+| Cyber security and communication networks | **A/B** | Topics 08-09 | Read foundations; use newer Core/Vision material for platforms, DPDP and current cyber institutions |
+| Terror finance, money laundering and hawala | **A** | Topic 10 | Read mechanisms and institutions; update PMLA/FATF law and evaluation status |
+| Organised crime, narcotics, trafficking and terror nexus | **A** | Topic 11 | Read crime-terror convergence and coordination mechanisms |
+| Security forces, intelligence and coordination | **A** | Topic 12 | Build a mandate-jurisdiction-accountability comparison table |
+
+**Book-period warning:** names of leaders, affected districts, incident counts, force strength,
+legal provisions and operational status are historical evidence, not current facts.

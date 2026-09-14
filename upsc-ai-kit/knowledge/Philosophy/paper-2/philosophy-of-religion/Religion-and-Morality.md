@@ -2,7 +2,7 @@
 
 > **Syllabus (verbatim):** Religion and Morality.
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
-> **Placement:** The clause tests dependence, autonomy, motivation, obligation, and reciprocal criticism. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
+> **Placement:** The clause tests dependence, autonomy, motivation, obligation, and reciprocal criticism. PYQ routing below covers the fully audited 2018–2026 Paper II bank.
 
 ## Exact printed ownership and cross-topic firewall
 
@@ -18,6 +18,7 @@ mutual criticism and Indian–Western comparison.
 | conflicting religious moral interpretations as a moral-criticism problem | full pluralism and absolute-truth theories remain with [Religious Pluralism](./Religious-Pluralism.md) |
 | Indian duty, karma, non-injury and compassion as comparative grounds | complete Indian ethics and liberation doctrines remain with Paper I/Ethics owners |
 | religious violence only because of the direct 2019 PYQ | descriptive history, political ideology and detailed just-war doctrine are not substitutes for philosophical premise-testing |
+| **Gandhi's shift from "God is Truth" to "Truth is God"** (2026 Q8(a)), because the printed stem sets it in the religion–morality relation | Gandhi's *sarva-dharma-samabhāva* and the equal-respect thesis remain with [Religious Pluralism](./Religious-Pluralism.md); Truth as *sat* in relation to Brahman remains with [Notions of God](./Notions-of-God.md) |
 
 ⚠️ Sociological influence does not establish philosophical dependence.
 Religion may motivate or sanction conduct without constituting moral truth, and
@@ -134,6 +135,8 @@ may justify duty while struggling to motivate every agent in every case.
 9. **[Inseparable]** "Are religion and morality inseparable?" (2021, 15m) → §1–§3 + §9.11 — four independent non-theistic groundings.
 10. **[Religiosity/immorality]** "Inter-relatedness between 'religiosity' and 'immorality'." (2018, 10m) → §9.9 — keep the printed word.
 11. **[Nietzsche]** "Nietzsche's criticism of religion and morality." (2025, 10m) → §9.6 (**this file is the primary owner**).
+12. **[Gandhi]** "Critically evaluate the shift from 'God is Truth' to 'Truth is God', in the context of religion and morality." (2026, 20m) → §9.12 (**this file is the primary owner**) — five reasons, then the religion-under-morality core.
+13. **[Moral autonomy]** "How does moral autonomy conflict with religion as a source of morality?" (2026, 15m) → §2 + §9.2 + §9.11 — Kantian heteronomy, then the modified-DCT reply and its residual concession.
 
 ---
 
@@ -150,6 +153,7 @@ may justify duty while struggling to motivate every agent in every case.
 | Buddhist (Śāntideva) | Ownerless suffering + *anātman* | ✅ Not applicable | ✅ Impartiality is rationally required | Depends on *anātman* |
 | Jain | *Ahiṃsā*, graded vows | ✅ Not applicable | ✅ Vow-structure | Rigorism |
 | Mīmāṃsā | Vedic injunction alone | ✅ No personal commander | ⚠️ Ritual-bounded | Authority outside the tradition |
+| Gandhi | Truth (*satya*/*sat*), with *ahiṃsā* as its method | ✅ **Second horn embraced** — religion answers to the good | ✅ Truthfulness is a whole-life discipline, not an occasion-rule | Conscience is the proximate judge; the metaphysics stays thin |
 
 ---
 
@@ -379,6 +383,147 @@ Concl : the critique of morality outlives the programme that was to replace it.
 
 
 
+### 9.12 Gandhi: from "God is Truth" to "Truth is God" (2026 Q8(a) — **primary owner**)
+> ✅ **Ownership note.** The 2026 stem prints the shift **"in the context of interrelation between religion and morality"**, so this file is the primary owner. [Religious Pluralism](./Religious-Pluralism.md) retains Gandhi's *sarva-dharma-samabhāva* and the equal-respect thesis; [Notions of God](./Notions-of-God.md) retains the metaphysics of Truth as *sat*; both route this PYQ here.
+> 📖 **Text base.** *Young India*, 31 December 1931, pp. 427–28 (the passage where Gandhi himself explains the shift); *Young India*, 5 March 1925, p. 81 ("even the atheism of the atheist"); *An Autobiography*, Introduction (Absolute vs relative truth). Texts online: <https://www.gandhiserve.net/about-mahatma-gandhi/thus-spake-gandhi/truth-is-god/> and <https://mkgandhi.org/autobio/intro.php>.
+
+**1. The shift, in Gandhi's own words** ✅
+
+> "I would say with those who say God is Love, God is Love. But deep down in me I used to say that though God may be Love, God is Truth, above all… **But two years ago I went a step further and said that Truth is God.** You will see the fine distinction between the two statements."
+> — *Young India*, 31 December 1931, pp. 427–28
+
+- ❓ **Dating discipline (a live trap).** The passage says he had reached the formulation "**two years ago**", i.e. around **1929**. Do **not** write that the idea was invented in the December 1931 Lausanne address; that address is where he *explained* a position already held. Say "stated publicly in 1931, reached about two years earlier."
+
+**2. Gandhi's own five reasons for the inversion** ✅ (reproduce as a numbered list — examiners reward the reasons, not the slogan)
+
+1. **"Love" is ambiguous.** "Love has many meanings in the English language at least and… human love in the sense of passion could become a degrading thing also." So "God is Love" is not the safest formula.
+2. ***Ahiṃsā* has few adherents.** "Love in the sense of ahimsa had only a limited number of votaries in the world" — the term cannot carry a universal claim.
+3. **"Truth" has no double meaning.** "I never found a double meaning in connection with truth."
+4. **Even atheists concede truth.** "Not even atheists had demurred to the necessity or power of truth."
+5. **Atheists deny God *out of* fidelity to truth.** "In their passion for discovering truth, the atheists have not hesitated to deny the very existence of God — **from their own point of view, rightly**. And it was because of this reasoning that I saw that, rather than say that God is Truth, I should say that Truth is God."
+
+**3. The logical structure — what the inversion actually does** ⚠️
+
+| | **"God is Truth"** | **"Truth is God"** |
+|---|---|---|
+| Grammatical role | **Predication**: God is the subject already assumed; truth is one attribute among Love, Light, Life, the Supreme Good | **Identification**: Truth is the subject; "God" is the predicate asserting its ultimacy |
+| Epistemic starting point | requires prior belief in a deity, hence a prior sectarian conception | requires only the acknowledgement of truth, which nobody denies |
+| Who is admitted | theists | theists **and** the sincere atheist, the scientist, the sceptic |
+| Practical test of religion | worship, creed, ritual, obedience | **truthful living** — *satya* in thought, speech and act |
+| Risk it guards against | — | anthropomorphism, sectarian capture of the word "God", creedal gate-keeping |
+| Risk it incurs | — | apparent dissolution of God into an abstraction |
+| Gandhi's own gloss | — | "God is Truth, but God is many other things also. That is why I say Truth is God…. Truth is not one of the many qualities that we name. It is the living embodiment of God" (*Harijan*, 25 May 1935, p. 115) |
+
+> 🔑 **Mnemonic — "Subject-swap, not God-swap."** Gandhi changes which term is the *subject* of the sentence, not whether the divine is real. Writing that he "gave up God" fails the question outright.
+
+**4. Why this bears directly on religion and morality — the printed context** ⚠️
+
+1. **Morality becomes constitutive of religion, not derived from it.** ✅ In the *Autobiography*'s Introduction Gandhi writes that "the essence of religion is morality." Religion is not a set of beliefs that then generates duties; it is the disciplined pursuit of Truth, which *is* the moral life.
+2. **Religion is subordinated to reason and morality as a test.** ✅ "I reject any religious doctrine that does not appeal to reason and is in conflict with morality" (*Young India*, 21 July 1920, p. 4) and "**there is no such thing as religion overriding morality**" (*Young India*, 24 November 1921, p. 385). A man "cannot be untruthful, cruel or incontinent and claim to have God on his side." Texts: <https://www.mkgandhi.org/my_religion/02morality.php>.
+3. **This is the exact inverse of Divine Command Theory.** ⚠️ DCT tests morality by revelation; Gandhi tests revelation by morality. Compare §9.1 and §9.11: Gandhi occupies the **Euthyphro's second horn** without embarrassment — the good is not good because commanded; what is commanded must answer to the good, and "Truth is God" is the formula that says so.
+4. **Means and ends are internally related.** ✅ "The means may be likened to a seed, the end to a tree" (*Hind Swaraj*, ch. XVI). If Truth is God, an untruthful or violent means cannot reach a divine end — which is why the metaphysics yields ***satyāgraha*** ("holding firmly to truth") rather than mere passive resistance.
+5. **Service, not withdrawal, is the practice.** ✅ "I am endeavoring to see God through service of humanity, for I know that God is neither in heaven, nor down below, but in every one" (*Young India*, 4 August 1927). Religion "that takes no account of practical affairs is no religion."
+
+**5. Inclusiveness and the atheist — the argument, stated as premises** ⚠️
+
+1. The sincere atheist denies God **because** he believes truthfulness requires the denial.
+2. That denial is therefore an act of **allegiance to truth**, not of indifference to it.
+3. If Truth is God, allegiance to truth is allegiance to the divine under another description.
+4. Therefore the atheist of integrity participates in the same moral-spiritual quest, without any verbal profession of belief.
+5. Hence **moral sincerity, not creedal assent, is the criterion of religious standing.**
+
+- ✅ **The earlier, stronger formulation:** God "is even the atheism of the atheist. For in His boundless love God permits the atheist to live… He is a personal God to those who need His personal presence. He is embodied to those who need His touch. He is the purest essence… He is all things to all men" (*Young India*, 5 March 1925, p. 81). This is **conceptual pluralism about the image of God**, and it is the passage to cite for the inclusiveness claim.
+- ⚠️ **Qualification that prevents an over-claim:** Gandhi does **not** endorse metaphysical atheism as true. He *re-describes* the sincere atheist's fidelity as an implicit participation in the divine. The position is theistic or trans-theistic, not secular.
+
+**6. Absolute Truth, relative truth and fallibilism** ✅
+
+| | **Absolute Truth** | **Relative truth** |
+|---|---|---|
+| Status | eternal; identical with God; *sat* (that which is) | what a finite seeker has "conceived" so far |
+| Access | never fully possessed by an embodied person | conscience, reason, experiment, scripture tested by reason |
+| Authority for action | the standard that judges every claim | sufficient to act on **now**, and binding on the agent |
+| Corrigibility | not corrigible | always corrigible; Gandhi's "experiments" are explicitly modelled on scientific experiments |
+| Consequence | grounds objectivity — not all views are equally true | grounds humility, dialogue, and the refusal to coerce |
+
+- ✅ In the *Autobiography*'s Introduction Gandhi disclaims finality and infallibility for his conclusions and calls the book the story of his **experiments with truth**: <https://mkgandhi.org/autobio/intro.php>.
+- ⚠️ **The inference chain from fallibilism to *ahiṃsā*** (this is the analytically strongest part of the answer):
+  1. Truth is objective and absolute;
+  2. no embodied person possesses it wholly;
+  3. each must act on conscientious relative truth;
+  4. the opponent may therefore hold a portion of the truth I lack;
+  5. to coerce him is to assume an infallibility I do not have;
+  6. therefore persuasion, dialogue and **self-suffering** replace violence.
+  **Violence is not merely unkind on this account; it is an epistemic error.**
+- ⚠️ **Not relativism.** Relative truth is answerable to the Absolute and is tested by reason, conscience, consequences, non-violence and openness to correction. "All opinions are equally true" is precisely what Gandhi's Absolute forbids. Route the wider debate to [Religious Pluralism §on absolute truth](./Religious-Pluralism.md).
+
+**7. Religious pluralism as a corollary** ✅ Because interpreters are imperfect, humanly conceived religions are imperfect: all disclose truth, all also contain error; equal respect therefore does **not** forbid criticism, and the duty is to reform one's own tradition first and accept what is worthy in others. ("Religion and Morals", §§731–34: <https://www.mkgandhi.org/sfgbook/seventeenth.php>.) ⚠️ The accurate label is **fallibilist religious pluralism**, not "all religions are equally true."
+
+**Objections → replies** ⚠️
+
+| # | Objection | Reply | Residue |
+|---|---|---|---|
+| 1 | **The inversion is merely verbal** — if "God" adds nothing to "Truth", the formula is rhetoric | For Gandhi *satya* carries ontological reality (*sat*), moral truthfulness, conscience, love/*ahiṃsā* and the final object of self-realisation; "God" asserts its **ultimacy and claim to total self-surrender** | It does change the emphasis of worship from a person to a discipline — critics of theistic devotion say this costs *bhakti* its object |
+| 2 | **Subjective relativism** — "truth as I see it" can license fanaticism | Relative truth is bound by humility, reason, moral scrutiny, non-violence and readiness to **suffer rather than inflict** suffering; fallibility is what *forbids* coercion | Conscience remains the proximate judge, and Gandhi's own reversals show the standard is demanding |
+| 3 | **Morality swallows religion** — distinctive doctrine and ritual are reduced to ethics | Gandhi deliberately distinguishes **religion** (the transformative relation to Truth) from **sectarian creeds** (partial historical forms) | A tradition that locates its core in sacrament or revelation will reject the reduction — say so |
+| 4 | **Gandhi became an atheist / a secular humanist** | ❌ False. He retains Absolute Truth as God, prayer, *Rāmanāma*, grace and *mokṣa* as self-realisation | The position is best called **trans-theistic**, not atheistic |
+| 5 | **Metaphysically thin** compared with Advaita | ⚠️ Gandhi is a practitioner, not a systematiser; the affinity with Advaita's *sat* is real but he never resolves the personal/impersonal question technically | Glyn Richards, "Gandhi's Concept of Truth and the Advaita Tradition", *Religious Studies* — the standard scholarly treatment |
+
+**Comparison chart — Gandhi against the file's other positions** ⚠️
+
+| Position | What grounds moral obligation | What tests religion | Status of the atheist | Where it sits on the Euthyphro |
+|---|---|---|---|---|
+| **Divine Command (Adams-modified)** | commands of a loving God | revelation, interpreted by the tradition | outside the moral-religious community as such | first horn, blocked by God's loving nature |
+| **Kantian autonomy** | the self-legislating rational will | reason alone; religion within the bounds of reason | fully included | second horn, without a divine remainder |
+| **Nietzsche (§9.6)** | nothing given; values are created | genealogy of the values religion underwrites | the diagnostician of the death of God | rejects the dilemma's moral realism |
+| **Mīmāṃsā (§9.11)** | *codanā* — injunction without a commander | Vedic injunction, self-validating | irrelevant: no God is required | dissolves the dilemma; duty without a person |
+| **Gandhi** | Truth (*satya*), of which *ahiṃsā* is the method | **reason and morality**: any doctrine conflicting with them is rejected | **included**, because fidelity to truth is itself religious | **second horn embraced** — religion is answerable to the good |
+
+**Traps specific to this dossier** ⚠️
+1. Do not say the shift makes Gandhi an atheist or a secularist.
+2. Do not date the doctrine to the 1931 Lausanne address; the text says "two years ago" (≈1929).
+3. Do not treat the inversion as a change of *religion*; it is a change of the **entry point** to the same Absolute.
+4. Do not render *satya* as "honesty" alone — it is *sat*, that-which-is: ontological and moral at once.
+5. Do not equate relative truth with relativism (chart in §6 above).
+6. Do not claim Gandhi held all religions to be equally true; he says all contain truth **and** error.
+7. Do not import the Gītā's *svadharma* reading as the plain sense; Gandhi's allegorical interpretation is one influential reading (see trap 11 in §12).
+8. Do not answer a "religion and morality" stem with a biography of the freedom movement. The examinable core is the **subordination of religion to morality and reason**, and the fallibilism that follows.
+
+**Answer spines** ⚠️
+
+*20 marks (the printed 2026 demand — "Critically evaluate… in the context of interrelation between religion and morality")*
+```text
+Open with the shift itself, quoted and dated correctly (YI 31-12-1931; reached ≈1929) →
+the FIVE reasons Gandhi gives (love ambiguous; ahimsa few votaries; truth unambiguous;
+  atheists concede truth; atheists deny God out of fidelity to truth) →
+the logic: predication → identification; what each formula presupposes and admits →
+RELIGION-MORALITY CORE (the printed context, so give it the most space):
+  (a) "the essence of religion is morality";
+  (b) "no such thing as religion overriding morality"; reject any doctrine against reason;
+  (c) inverse of Divine Command Theory — Euthyphro's second horn embraced;
+  (d) means-end unity → satyagraha; service as worship →
+INCLUSIVENESS: the five-step atheist argument + "even the atheism of the atheist",
+  with the qualification that this is trans-theistic, not atheistic →
+FALLIBILISM: Absolute vs relative truth table → the six-step chain from fallibility
+  to ahimsa → explicitly distinguish from relativism →
+CRITICAL EVALUATION (the directive): objections 1-3 with replies; note what is gained
+  (universality, moral accountability of religion, non-coercion) and what is conceded
+  (thin metaphysics; devotional object displaced; conscience as proximate judge) →
+Verdict: the inversion universalises the religious quest by making moral truthfulness
+  its test, and is therefore a thesis about the interrelation of religion and morality
+  before it is a thesis about God.
+```
+
+*15 marks* — drop the pluralism corollary and one objection; keep the five reasons, the religion–morality core, the atheist argument and the Absolute/relative distinction.
+
+*10 marks* — statement of the shift with correct dating → two of the five reasons → "the essence of religion is morality" + "no religion overriding morality" → atheist inclusiveness in one sentence → relative/absolute truth in one sentence → verdict.
+
+- **2026 PYQ route.** ✅ **Q8(a), 20 marks:** "Critically evaluate the shift in Gandhi's view from 'God is Truth' to 'Truth is God', in the context of interrelation between religion and morality." → **this module**, 20-mark spine. **Reworded-variant routes:** "Can an atheist be religious on Gandhi's view?" → §5 + trap 1; "Discuss Gandhi's concept of Truth" → §3 + §6, cross-link [Notions of God](./Notions-of-God.md); "Gandhi on the relation of religions" → §7, route to [Religious Pluralism](./Religious-Pluralism.md); "Why is non-violence obligatory for Gandhi?" → the six-step chain in §6; "Does religion need morality?" (2024-type stem) → §7.1 skeleton **plus** §9.12 point 2 as the Indian authority.
+- **Verdict formula.** ⚠️ "The shift is not a retreat from theism but a relocation of the point of entry: by making Truth the subject and 'God' the predicate, Gandhi makes moral truthfulness the test of religion rather than religion the source of morality. It buys universality — the atheist of integrity is included, and no creed can override conscience — and it pays for this with a metaphysically thin conception of the divine and with conscience as the proximate, though not final, judge of relative truth."
+
+**Sources for this module** ✅ *Young India*, 31 December 1931, pp. 427–28; *Young India*, 5 March 1925, p. 81; *Harijan*, 25 May 1935, p. 115 — all reproduced at <https://www.gandhiserve.net/about-mahatma-gandhi/thus-spake-gandhi/truth-is-god/>. *Young India*, 21 July 1920, p. 4; 24 November 1921, p. 385; 7 May 1925, p. 164 — reproduced at <https://www.mkgandhi.org/my_religion/02morality.php>. "Religion and Morals", §§731–34: <https://www.mkgandhi.org/sfgbook/seventeenth.php>. *An Autobiography, or The Story of My Experiments with Truth*, Introduction: <https://mkgandhi.org/autobio/intro.php>. Scholarly: Glyn Richards, "Gandhi's Concept of Truth and the Advaita Tradition", *Religious Studies* <https://www.cambridge.org/core/journals/religious-studies/article/abs/gandhis-concept-of-truth-and-the-advaita-tradition/5CB79CA7DEACC1A7ABC9B7206A92BB43>.
+
+
+
 ## 10. INTER-THINKER / INTER-SCHOOL DEBATES
 
 | View | Ground of rightness | Source of obligation | Motivation | Main problem |
@@ -417,12 +562,17 @@ Concl : the critique of morality outlives the programme that was to replace it.
 13. ⚠️ In "why be moral", separate **justification** from **motivation** — the printed claim is weak on the first and strong on the second, and saying so is the answer.
 14. ⚠️ Do not present modified DCT as defeating Euthyphro outright. It blocks arbitrariness but concedes that "loving/good" is a concept we grasp independently.
 15. ⚠️ Do not treat Nietzsche's genealogy as a refutation. Origin does not settle validity; his target is the *value* of the valuation, and Scheler's *Ressentiment* is the named counter-authority.
+16. ⚠️ Do not read Gandhi's "Truth is God" as atheism or secularism. It relocates the **subject** of the sentence; Absolute Truth remains God.
+17. ⚠️ Do not date "Truth is God" to the December 1931 Lausanne address. The *Young India* text of 31 December 1931 says he reached it "two years ago" (≈1929).
+18. ⚠️ Do not equate Gandhi's *relative truth* with relativism. Relative truth is a finite apprehension of an objective Absolute and is corrigible; relativism denies the Absolute.
+19. ⚠️ Do not say Gandhi held all religions equally true. His repeated claim is that all contain truth **and** error, so equal respect permits criticism and self-reform.
+20. ⚠️ Do not render *satya* as mere honesty. It is *sat* — that which is — so the term is simultaneously ontological and moral, which is what makes the identification with God intelligible.
 
 ## 13. KEYWORD & STATEMENT BANK
 
 **Keywords:** ✅ divine command · modified command theory (Adams) · divine motivation theory (Zagzebski) · Alston's standard reply · Euthyphro · arbitrariness · autonomy · heteronomy · categorical imperative · universal law · humanity as end · natural law · moral realism · justification vs motivation · Ring of Gyges · Hobbes' Foole · sensible knave · Bradley's "why should I be moral?" · constrained maximisation · eudaimonism · moral licensing · scrupulosity · intrinsic/extrinsic/quest religiosity · prophetic critique · teleological suspension of the ethical · *jus ad bellum*/*jus in bello*/*jus post bellum* · discrimination · proportionality · legitimate authority · *qitāl* · *jihād al-nafs* ❓ · *dharma-yuddha* · *kūṭa-yuddha* · *sāma-dāna-bheda-daṇḍa* · *compelle intrare* · Locke on the incoercibility of belief · dharma · *ṛta* · karma · *ahiṃsā* · *aṇuvrata*/*mahāvrata* · *anekāntavāda* as intellectual non-violence · *cetanā* · *brahmavihāra* · ownerless suffering (Śāntideva) · *niṣkāma-karma* · *codanā* · slave morality · *ressentiment* · ascetic ideal · bad conscience · revaluation · Übermensch · *amor fati* · eternal recurrence · nihilism.
 
-**Safe formulations:** ⚠️ "God-reference may strengthen motivation without constituting obligation." · "Religion and morality are conceptually distinguishable, historically interactive and normatively mutually critical." · "Religion's distinctive contribution to the ethics of force is restraint, not licence." · "Religiosity is an amplifier: it magnifies the moral content it is attached to." · "Secular ethics answers the justificatory question; the printed doubt bites only on motivation in the undetected case."
+**Safe formulations:** ⚠️ "God-reference may strengthen motivation without constituting obligation." · "Religion and morality are conceptually distinguishable, historically interactive and normatively mutually critical." · "Religion's distinctive contribution to the ethics of force is restraint, not licence." · "Religiosity is an amplifier: it magnifies the moral content it is attached to." · "Secular ethics answers the justificatory question; the printed doubt bites only on motivation in the undetected case." · "Gandhi inverts the dependence: religion is tested by morality and reason, not morality by religion." · "Fallibility about relative truth is what forbids coercion — for Gandhi violence is an epistemic error before it is a moral one."
 
 <!-- expanded-pyq-depth:start -->
 ### CORPUS-DRIVEN DEPTH DELTA (expanded PYQ audit)
@@ -433,9 +583,9 @@ Concl : the critique of morality outlives the programme that was to replace it.
 
 <!-- expanded-pyq-depth:end -->
 
-## 14. PYQ ROUTING (2018–2025)
+## 14. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 11 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 11 primary-owned question-parts out of 112 across 2018–2025, plus **2 more in 2026** (13 of 126). The local Paper II corpus is continuous from 2018 through 2026. Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -450,8 +600,10 @@ Concl : the critique of morality outlives the programme that was to replace it.
 | 2024 | Q5(a) | 10 marks | Can there be a religion without morality? Discuss. |
 | 2025 | Q5(c) | 10 marks | Present an account of Nietzsche’s criticism of religion and morality. |
 | 2025 | Q8(b) | 15 marks | Is it necessary for the normative principles to bear reference to God in order to produce a feeling of obligation in a moral agent? Critically discuss. |
+| **2026** | **Q6(b)** | **15 marks** | How does the issue of moral autonomy conflict with conception of religion as a source of morality? Critically discuss. → **§2 + §9.2 + §9.11** |
+| **2026** | **Q8(a)** | **20 marks** | Critically evaluate the shift in Gandhi's view from 'God is Truth' to 'Truth is God', in the context of interrelation between religion and morality. → **§9.12** |
 
-See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md).
+See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md) and the [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md).
 
 ## 15. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)
 
@@ -529,6 +681,13 @@ Euthyphro plus immoral-religion objections → replies → graded relational the
 | Locke on the incoercibility of belief | ✅ *A Letter Concerning Toleration* (1689) | The decisive refutation of soteriological coercion |
 | Śāntideva on ownerless suffering | ✅ *Bodhicaryāvatāra*, ch. VIII | The strongest non-theistic grounding of impartial altruism |
 | Gītā 2.3 (*klaibya*), 2.42–43, 2.47, 3.19 | ✅ Verified chapter/verse | Paraphrase translations |
+| "Two years ago I went a step further and said that Truth is God" | ✅ **Gandhi**, *Young India*, 31 December 1931, pp. 427–28 | Quote **with** the "two years ago" clause so the ≈1929 dating is visible |
+| "He is even the atheism of the atheist" | ✅ *Young India*, 5 March 1925, p. 81 | The inclusiveness passage; the same paragraph gives the personal/embodied/pure-essence gradation |
+| "There is no such thing as religion overriding morality" | ✅ *Young India*, 24 November 1921, p. 385 | Pair with *Young India*, 21 July 1920, p. 4 on rejecting doctrines that conflict with reason and morality |
+| "The essence of religion is morality" | ✅ *An Autobiography*, Introduction | The one-line authority for morality-inside-religion |
+| Absolute vs relative truth; "experiments with truth" | ✅ *An Autobiography*, Introduction | Gandhi disclaims finality and infallibility in his own words |
+| "The means may be likened to a seed, the end to a tree" | ✅ *Hind Swaraj*, ch. XVI | The means–end unity premise behind *satyāgraha* |
+| "Truth is God" as a Lausanne 1931 invention | ❌ **Unsupported** | The source text places the formulation about two years earlier |
 
 
 
@@ -545,9 +704,9 @@ Euthyphro plus immoral-religion objections → replies → graded relational the
 - [Paper I: Jainism](../../paper-1/indian/Jainism.md) — *ahiṃsā*, *aṇuvrata*/*mahāvrata*, *anekāntavāda*
 - [Paper II: Humanism, Secularism and Multiculturalism](../socio-political/Humanism-Secularism-Multiculturalism.md)
 - [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md)
+- [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md) — full routing of all fourteen 2026 Section B parts
 
 ## SOURCES
-
 - Plato, *Euthyphro* and *Republic* II; Immanuel Kant, *Groundwork of the Metaphysics of Morals* and *Religion within the Bounds of Bare Reason*.
 - Robert Merrihew Adams, *Finite and Infinite Goods*; Linda Zagzebski, *Divine Motivation Theory*; William Alston, "Some Suggestions for Divine Command Theorists".
 - Friedrich Nietzsche, *The Gay Science*, *On the Genealogy of Morality*, *Beyond Good and Evil*, *Thus Spoke Zarathustra*; Max Scheler, *Ressentiment*.
@@ -555,6 +714,15 @@ Euthyphro plus immoral-religion objections → replies → graded relational the
 - Thomas Aquinas, *Summa Theologiae* II-II q.40; Michael Walzer, *Just and Unjust Wars*; John Locke, *A Letter Concerning Toleration*.
 - Śāntideva, *Bodhicaryāvatāra*; Kauṭilya, *Arthaśāstra*; *Mahābhārata*, *Śānti-parvan*.
 - Gordon Allport and Daniel Batson on religious orientation.
+- M. K. Gandhi, *Young India* (31 December 1931, pp. 427–28; 5 March 1925, p. 81; 21 July 1920, p. 4;
+  24 November 1921, p. 385; 7 May 1925, p. 164), *Harijan* (25 May 1935, p. 115), *Hind Swaraj* ch. XVI
+  and *An Autobiography*. Online texts:
+  <https://www.gandhiserve.net/about-mahatma-gandhi/thus-spake-gandhi/truth-is-god/>,
+  <https://www.mkgandhi.org/my_religion/02morality.php>,
+  <https://www.mkgandhi.org/sfgbook/seventeenth.php>,
+  <https://mkgandhi.org/autobio/intro.php>.
+- Glyn Richards, "Gandhi's Concept of Truth and the Advaita Tradition", *Religious Studies*:
+  <https://www.cambridge.org/core/journals/religious-studies/article/abs/gandhis-concept-of-truth-and-the-advaita-tradition/5CB79CA7DEACC1A7ABC9B7206A92BB43>.
 - William J. Wainwright (ed.), *The Oxford Handbook of Philosophy of Religion*; John Hick, *Philosophy of Religion*.
 - *Bhagavad Gītā* and Indian ethics discussions in S. C. Chatterjee & D. M. Datta and C. D. Sharma.
 - Local searchable John Hick, *Philosophy of Religion*, especially PDF

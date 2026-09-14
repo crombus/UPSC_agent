@@ -264,6 +264,23 @@ precipitation
 | Temperature inversion | Temperature rises with height in a layer | Traps pollution and suppresses vertical mixing |
 | Jet stream | Fast upper-tropospheric current | Influences weather systems; not a surface wind |
 | Western disturbance | Extra-tropical system moving into South Asia | Important for winter rain/snow in north-west India/Himalaya |
+| Fujiwhara effect | Nearby cyclonic vortices mutually steer and orbit a common centroid | They need not collide, merge or intensify; track effects are more predictable than intensity effects |
+| Loo | Hot, dry surface-heating plain wind (north-west/central India, summer afternoons) | Not a relief-forced or adiabatic-descent wind — no SALR/DALR mechanism involved |
+| Chinook / Foehn | Same relief-forced adiabatic-descent mechanism (SALR ascent, DALR descent) under two regional names (Rockies/N. America vs European Alps) | Do not describe as two different mechanisms — only the name and region differ |
+
+### Fujiwhara outcome map
+
+`proximity + relative vortex strength + storm structure + environmental steering -> orbit / deflection / merger-absorption / deformation / separation`
+
+> **10-mark memory line:** Define binary interaction, draw two vortices around
+> a centroid, explain controls, distinguish movement from intensity effects, add
+> one named pair and finish with forecast uncertainty.
+
+> **15-mark memory line (Loo/Chinook/Foehn, 2026 GS-I Q14):** Classify first —
+> Loo is a plain surface-heating wind; Chinook/Foehn is one relief-forced
+> adiabatic-descent mechanism under two regional names. Compare region, season,
+> mechanism, moisture role and impact in a table, then close on the shared
+> "descent = warming + drying" logic. Full dossier: `basic/13_Weather-Elements.md`.
 
 ---
 
@@ -517,6 +534,16 @@ transport cost + labour cost + agglomeration economies
 
 > **Space geography:** Launch-site latitude, eastward launch, tracking, orbital choice and communication networks are geographic variables, not only technological facts.
 
+> **15-mark memory line (Atlantic-to-Indo-Pacific trade shift, 2026 GS-I Q16):**
+> Start from the Atlantic-centred baseline (transatlantic industrial core,
+> colonial-era route dominance), then stack the drivers — Asian manufacturing
+> rise, intra-Asian/RCEP trade, "China+1" diversification, Indo-Pacific
+> chokepoint centrality (Malacca/Hormuz/South China Sea), demographic/market
+> pull and digital-services trade — before closing with the counterargument
+> that transatlantic finance and currency institutions remain concentrated, so
+> the shift is uneven rather than complete. Full dossier:
+> `basic/33_Transport-Trade-and-Indian-Space-Programme.md`.
+
 ---
 
 ## 22. World regional map framework
@@ -585,8 +612,17 @@ LOCATION
 | Desertification | Climate variability, vegetation loss, grazing, irrigation salinity and soil erosion |
 | Regional disparity | Resource base, historical investment, infrastructure, skills and governance |
 | Seawater intrusion | Pumping-recharge imbalance, coastal geology, sea level and land use |
+| Human-induced land-use change | Category (agricultural/urban/mining/aquaculture/plantation/infrastructure/tourism), driver, mechanism and geographical consequence |
 
 > **Rule:** A hazard becomes a disaster through exposure and vulnerability. A scheme name cannot substitute for process analysis.
+
+> **15-mark memory line (human-induced land-use change, 2026 GS-I Q17):**
+> Name the land-use-change category and its driver first, then trace the
+> mechanism to a specific geographical consequence (erosion, biodiversity/
+> habitat loss, hydrological alteration, microclimate change, degradation,
+> carbon-sink loss, disaster-risk amplification or coastal vulnerability)
+> using this file's own nine-step analytical chain above. Full dossier:
+> `basic/36_Contemporary-Geographical-Issues-India.md`, Section 11.5.
 
 ---
 
@@ -764,4 +800,3 @@ topic-specific spine.
 | Political geography and boundaries | [Core 35](basic/35_Indian-Political-Geography-Boundaries-and-Neighbours.md) | [Advanced 35](advanced/35_Indian-Political-Geography-Boundaries-and-Neighbours.md) |
 | Contemporary geographical issues | [Core 36](basic/36_Contemporary-Geographical-Issues-India.md) | [Advanced 36](advanced/36_Contemporary-Geographical-Issues-India.md) |
 | Cultural and social geography | [Core 37](basic/37_Cultural-and-Social-Geography-of-India.md) | [Advanced 37](advanced/37_Cultural-and-Social-Geography-of-India.md) |
-

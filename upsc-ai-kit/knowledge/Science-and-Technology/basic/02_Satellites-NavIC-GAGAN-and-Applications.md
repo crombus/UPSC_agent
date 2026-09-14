@@ -161,6 +161,64 @@ GAGAN = SBAS -> corrects/augments GPS for aviation accuracy + integrity
 - **Space-weather test:** solar flares/coronal activity can disturb the ionosphere and hence GNSS propagation, radio communication and satellite operations; geomagnetically induced effects can also stress ground power systems. Aurora is an atmospheric light phenomenon, not a navigation service.
 - **Constellation test:** GPS, GLONASS, Galileo and BeiDou are global systems; NavIC is India’s regional system. GAGAN is a GPS augmentation system. A country’s independent navigation capability, an SBAS and a satellite launch record are different propositions.
 
+## 13. 2026 GS-III Mains Q15 — Mission Drishti and OptoSAR optical-SAR fusion
+
+> **Exact 2026 question (GS-III, Q15, 15 marks, 250 words):** "Mention salient features of
+> 'Mission Drishti'. Discuss the imaging techniques used in the satellite launched on 3rd May
+> 2026. Why it is being considered world's first satellite of its kind?" **Provenance:** OCR of
+> `books/mains/2026/QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`; supporting facts from
+> Vajiram & Ravi *The Recitals*, May 2026, pp. 109-110 (local extract).
+
+- ✅ **What Mission Drishti is:** an Earth-observation satellite built by **GalaxEye**, a
+  Bengaluru-based private space start-up, launched on **3 May 2026** aboard a **SpaceX Falcon
+  9** rideshare mission from California. At roughly **190 kg**, it is described as **India's
+  largest privately developed Earth-observation satellite** to date.
+- ✅ **The imaging technique the question asks for — OptoSAR (dual-sensor fusion):** Mission
+  Drishti carries **both an optical imaging payload (multispectral imager, MSI) and a
+  Synthetic Aperture Radar (SAR) payload on the same platform**, capturing **both image types
+  of the same location simultaneously, from the same orbital pass**, rather than from two
+  separate satellites or two separate passes.
+- ✅ **Why "world's first satellite of its kind" (the question's specific ask):** no other
+  operational satellite is reported to combine optical and SAR sensors on **one synchronised
+  platform** capturing the **same scene at the same time**. This removes the **parallax,
+  temporal-gap and alignment errors** that arise when optical and SAR images of the same
+  location are instead sourced from two different satellites passing at different times —
+  producing a **single, co-registered, analysis-ready fused data product** instead of two
+  images an analyst must reconcile manually.
+- ✅ **Comparison chart — Optical imaging vs SAR vs OptoSAR fusion:**
+
+| Feature | Optical imaging (MSI) | Synthetic Aperture Radar (SAR) | OptoSAR (Mission Drishti) |
+|---|---|---|---|
+| Works through cloud cover | No | Yes | Yes (via the SAR channel) |
+| Works at night | No | Yes | Yes (via the SAR channel) |
+| Ease of visual interpretation | High (intuitive, photograph-like) | Low (needs trained interpretation) | High (optical channel aids interpretation of the SAR channel) |
+| Source of the two data types | N/A | N/A | Same satellite, same pass, same instant — no separate acquisition needed |
+| Key limitation addressed | Fails in cloud/darkness | Hard to interpret in isolation | Removes cross-satellite parallax/temporal-gap/alignment error |
+
+- ⚠️ **Applications (India-specific, analytical extension of the sourced capability):**
+  border/maritime surveillance in all-weather, day-night conditions; disaster response
+  (flood/cyclone mapping through cloud cover); agriculture monitoring; infrastructure and
+  urban-planning analytics. ⚠️ AI-enabled processing (sub-pixel co-registration, jitter
+  correction, sensor fusion) is reported as part of the ground-processing pipeline but should
+  be cited as a processing-capability claim, not a separately verified performance benchmark.
+- ⚠️ **UPSC trap:** "OptoSAR means two satellites working together." → It is **one satellite,
+  one platform**, carrying two payload types simultaneously — the "world's first" claim rests
+  specifically on single-platform synchronisation, not on constellation coordination.
+- ⚠️ **UPSC trap:** "SAR data is only useful for defence." → SAR's all-weather/day-night
+  capability supports disaster management, agriculture and maritime-domain awareness as much
+  as defence/border applications; do not narrow it to a single-sector use.
+- **Exact 2026 answer spine (15 marks/250 words):** *Salient features* → GalaxEye's Mission
+  Drishti, ~190 kg, India's largest privately developed EO satellite, launched 3 May 2026 on a
+  SpaceX Falcon 9 (2-3 lines). *Imaging techniques* → carries both an optical/multispectral
+  imager and a Synthetic Aperture Radar payload, capturing both simultaneously from one
+  platform on one pass (3-4 lines, with the optical-vs-SAR trade-off stated). *Why world's
+  first* → no prior operational satellite fuses optical and SAR on a single synchronised
+  platform; simultaneous same-scene capture eliminates parallax/temporal-gap/alignment errors
+  that separate-satellite fusion would otherwise introduce, yielding one analysis-ready fused
+  product (3-4 lines). *Significance* → strengthens India's private space sector and gives
+  all-weather, day-night, high-interpretability EO capability for defence, disaster
+  management and agriculture (2 lines).
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

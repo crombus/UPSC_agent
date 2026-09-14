@@ -534,6 +534,19 @@ project / extraction / conservation restriction
 
 > **Trap:** Transgender persons, intersex persons and persons with diverse sexual orientation are distinct concepts; legal categories and protections must not be casually merged.
 
+> **2026 update:** The Transgender Persons (Protection of Rights) Amendment
+> Act (Act No. 3 of 2026) — enacted 30 March 2026, in force from 25 May 2026
+> (S.O. 2620(E), 22 May 2026) — replaces the 2019 Act's self-perception-based
+> declaration with a **medical-board certification gate** for legal gender
+> recognition. A constitutional challenge under Article 32 (self-identity
+> privacy under Article 21) is pending before a three-judge Bench since the
+> 4 May 2026 hearing — **sub judice, not resolved either way.** Full doctrine,
+> comparison table and answer spine: `basic/13`, Section 3A; doctrinal test:
+> `advanced/13`, Section 4A.
+>
+> **Trap:** Do not describe the 2026 amendment as having been "struck down,"
+> "stayed," or "upheld" — only notice-issued/pending status is verified.
+
 ---
 
 ## 18. Sanitation, manual scavenging and Safai Karamcharis

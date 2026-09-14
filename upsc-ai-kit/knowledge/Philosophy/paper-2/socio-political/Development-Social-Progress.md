@@ -291,6 +291,180 @@ dignity, freedom from severe deprivation, equal civic standing and ecological re
 development. Empowerment is the stronger claim: control over the conditions of action, including
 the capacity to dissent, exit, organise and demand reasons.
 
+### 2.7 Democracy and development: does democracy promote or hinder development?
+
+This is the direct Core route for **2026 Q4(c)** — *"Examine the relationship between democracy
+and development. Does democracy promote or hinder development?"* §2.6 establishes that
+participation matters; this sub-section supplies the full two-way relationship, the rival theses
+and the adjudication the stem demands.
+
+**Doctrine statement**
+
+✅ On the capability and human-development conception already adopted in §1.4–1.5, political
+participation and public reasoning are **constituents** of development, not merely instruments
+for producing income. ✅ The UN Declaration on the Right to Development (**1986**) defines
+development as a comprehensive economic, social, cultural and political process aimed at
+constant improvement in well-being on the basis of active, free and meaningful participation and
+fair distribution of benefits, with the human person as both participant and beneficiary
+(Articles 1–2). ⚠️ The stem's "promote or hinder" therefore contains a trap: if participation is
+part of development, the question cannot be settled by growth statistics alone.
+
+**The argument, numbered**
+
+1. Development must first be defined. If development = GDP growth, the question is empirical. If
+   development = expansion of substantive freedoms (§1.5), then democracy is **partly
+   constitutive** of it, and a purely instrumental answer misdescribes the relationship.
+2. **Instrumental channel — responsiveness.** ✅ Rulers who can be removed have reason to attend to
+   a wider range of interests, which improves the supply of public goods.
+3. **Instrumental channel — information and protection.** ✅ Sen's argument in *Development as
+   Freedom* (**1999**) is that no substantial famine has occurred in an independent, democratic
+   country with a relatively free press: elections and open reporting create both information and
+   incentive to prevent catastrophe.
+4. **Instrumental channel — inclusion.** ✅ Previously excluded groups gain leverage to claim
+   schooling, health provision and legal protection.
+5. **Constitutive channel.** ✅ Voice, deliberation and the capacity to shape the terms of one's
+   life are themselves valued functionings — the position taken by UNDP's *Human Development
+   Report 2002* on deepening democracy.
+6. **Empirical support.** ✅ Acemoglu, Naidu, Restrepo and Robinson, "Democracy Does Cause Growth"
+   (*Journal of Political Economy*, **2019**), estimate that democratisation raises long-run GDP
+   per capita by roughly **20 per cent**, operating through investment, schooling, health, economic
+   reform and reduced social unrest.
+7. **The conditionality.** ✅ The World Bank's *World Development Report 2017* locates development
+   outcomes in credible commitment, coordination, cooperation and inclusion, and identifies
+   exclusion, capture and clientelism as the mechanisms by which governance fails. ⚠️ Democratic
+   form without state capacity and rule of law does not deliver these functions.
+8. **The reverse direction.** ⚠️ Development may stabilise democracy by expanding education,
+   administrative capacity, associational life and tolerance of uncertainty (the modernisation
+   thesis associated with Lipset, **1959**). ❓ But the corrected version — Przeworski and Limongi,
+   "Modernization: Theories and Facts" (**1997**) — holds that prosperity makes existing
+   democracies far more likely to **survive** without showing that development **causes**
+   democratisation.
+9. ⚠️ Therefore the defensible thesis is **mutual but conditional reinforcement**: democratic
+   accountability, combined with state capacity and the rule of law, tends to produce inclusive
+   development; neither element alone is sufficient.
+
+**Presuppositions**
+
+- ✅ Development is multidimensional; income is an indicator, not the definition.
+- ⚠️ Institutions, not regime labels, do the causal work; "democracy" names a family of very
+  different institutional configurations.
+- ⚠️ Averages conceal distribution: growth that bypasses the worst-off is not, on this file's
+  criteria (§2.3), social progress.
+- ❓ Whether short electoral horizons systematically bias policy against long-gestation investment
+  remains contested.
+
+**Comparison chart — the three standard positions**
+
+| Axis | Democracy promotes development | Democracy hinders development ("authoritarian efficiency" / the *Lee thesis*) | Conditional-reinforcement position (this file) |
+|---|---|---|---|
+| **Definition of development** | freedoms, capabilities, distribution | growth, infrastructure, industrial catch-up | comprehensive: material base *plus* agency |
+| **Core mechanism** | accountability, information, inclusion, deliberation | insulation from populist pressure; rapid decision; long horizons | accountability *plus* capacity *plus* rule of law |
+| **Treatment of dissent** | corrective feedback; a resource | delay and obstruction; a cost | contestation is a corrective, but needs institutions to convert it into policy |
+| **Catastrophe prevention** | ✅ famine-prevention argument (Sen, 1999) | suppressed information risks unreported disaster | information plus responsive capacity |
+| **Distribution** | inclusion raises the claims of the excluded | growth first, distribution later | distribution is part of the definition, not a sequel |
+| **Evidence used** | ✅ 2019 JPE estimate; human-development indices | selected rapid-industrialisation episodes | cross-national evidence read with attention to capacity and sequencing |
+| **Time horizon** | correction is possible, so errors are recoverable | decisiveness, but errors are uncorrectable | revisability is itself a developmental asset |
+| **Characteristic failure** | short-termism, polarisation, populist consumption | unaccountable error, repression, no exit from bad policy | captured democracy or capable autocracy both fall short of the full criterion |
+| **Verdict on the stem** | promotes | hinders | promotes **conditionally**; the honest answer names the conditions |
+
+**Objections and replies**
+
+**Objection 1 — authoritarian efficiency.** Centralised regimes decide quickly, sustain long
+horizons and can impose the costs of industrialisation.
+**Reply:** ⚠️ decisiveness magnifies error precisely because criticism and correction are
+suppressed; and the comparison is usually drawn from selected successes rather than the full range
+of authoritarian outcomes.
+**Residual problem:** ✅ democratic bargaining does impose real coordination and delay costs; the
+defensible claim is that these buy revisability, not that they are costless.
+
+**Objection 2 — majoritarian populism.** Electoral incentives favour visible consumption over
+investment, and can exclude minorities.
+**Reply:** ⚠️ this is an argument for constitutional rights, independent institutions and
+deliberative design, not against popular authorisation.
+**Residual problem:** ⚠️ counter-majoritarian institutions require their own accountability, so
+the problem is displaced rather than dissolved.
+
+**Objection 3 — measurement.** Democracy and development are both multidimensional; regressions
+on GDP cannot capture dignity, freedom or distribution.
+**Reply:** ✅ conceded, which is why the argument runs on capability and human-development criteria
+(§1.4–1.6) with econometric findings as supporting, not decisive, evidence.
+**Residual problem:** ⚠️ a multidimensional criterion is harder to falsify; the answer must avoid
+making the thesis unfalsifiable by definition.
+
+**Objection 4 — the reverse-causation objection.** Rich societies become democratic, so the
+correlation tells us nothing about democracy's contribution.
+**Reply:** ✅ the 1997 correction is precisely that prosperity predicts democratic **survival**
+rather than democratic **emergence**, and the 2019 study is designed to address the causal
+direction from democratisation to income.
+**Residual problem:** ❓ causal identification in comparative politics remains contested; state the
+contest rather than presenting one result as settled.
+
+**Traps (this stem only)**
+
+| ❌ Trap | ✅ Correction |
+|---|---|
+| Answering with GDP alone | fix the conception of development first (§1.2, §1.5); the stem's answer changes with the definition |
+| Treating "promote or hinder" as an exclusive choice | ✅ the mark-bearing answer is conditional: which institutional conditions convert democracy into development |
+| Presenting the authoritarian-efficiency case as obviously false | state it at full strength (speed, insulation, long horizons) before answering it |
+| Naming a present-day country as proof either way | ❌ argue at the level of mechanisms; this file names no state as a developmental success or failure |
+| Using Sen's famine argument as a universal guarantee | ✅ it concerns famine prevention under a free press, not every development outcome |
+| Confusing modernisation theory with its correction | ⚠️ Lipset (1959) claims development supports democracy; Przeworski and Limongi (1997) restrict this to survival, not emergence |
+| Ignoring state capacity | a democracy without administrative capacity, revenue and rule of law cannot deliver; WDR 2017 supplies the vocabulary |
+| Forgetting the constitutive claim | if participation is part of development, "does democracy promote development?" is partly a conceptual question |
+
+**Answer spine — 15 marks (~220 words, the 2026 format)**
+
+1. **Define development (2 lines).** Capability expansion plus fair distribution, citing the 1986
+   Declaration's participation clause — this decides the rest of the answer.
+2. **Constitutive claim (2 lines).** Participation is part of development, not only a means to it.
+3. **Instrumental channels (5 lines).** Responsiveness; information and famine prevention (Sen,
+   1999); inclusion of excluded groups; the 2019 JPE long-run estimate.
+4. **The hindrance case at full strength (4 lines).** Authoritarian efficiency; short electoral
+   horizons; populist consumption; the *Lee thesis*.
+5. **The conditionality (3 lines).** Accountability + state capacity + rule of law; capture,
+   clientelism and exclusion as the failure mechanisms (WDR 2017).
+6. **Graded verdict (2 lines).** Democracy promotes development conditionally and protects against
+   catastrophic failure; it does not substitute for capacity, and development does not
+   automatically produce democracy.
+
+**Answer spine — 10 marks (~150 words)**
+
+Definition → one constitutive line → two instrumental channels with one named anchor →
+one-sentence statement of the authoritarian-efficiency objection → conditional verdict.
+
+**Answer spine — 20 marks (~300 words)**
+
+Add: the two-way relationship with the Lipset/Przeworski–Limongi correction; the comparison chart
+across five axes; two objection → reply → residual chains (efficiency; measurement); a
+distribution paragraph linking to §2.5 (redistribution and recognition) and §2.6A (participation
+to empowerment ladder); and a closing paragraph naming the institutional conditions under which
+the conditional thesis holds.
+
+**Exact 2026 PYQ route:** 2026 Q4(c) [15] → §2.7, supported by §1.2, §1.4–1.5, §2.3, §2.6, §2.6A
+and §11.5 verdict formulas. Bridges: [Forms of Government](Forms-of-Government.md) §4.3 and §4A.4
+for procedural/substantive democracy and its pathologies; [Crime and Punishment](Crime-and-Punishment.md)
+§2.5 and §2.8 for corruption as a developmental obstacle — cite, do not re-teach.
+
+**Sources for §2.7**
+
+- [United Nations Declaration on the Right to Development (**1986**) — OHCHR](https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-right-development),
+  Articles 1–2.
+- Amartya Sen, *Development as Freedom* (**1999**) — freedoms as constitutive of development and
+  the famine-prevention argument.
+- Daron Acemoglu, Suresh Naidu, Pascual Restrepo and James A. Robinson, "Democracy Does Cause
+  Growth", *Journal of Political Economy* (**2019**), [doi:10.1086/700936](https://doi.org/10.1086/700936);
+  working-paper record: [NBER Working Paper 20004](https://ideas.repec.org/p/nbr/nberwo/20004.html).
+- [World Bank, *World Development Report 2017: Governance and the Law*](https://www.worldbank.org/en/publication/wdr2017)
+  — commitment, coordination, cooperation; capture, clientelism and exclusion.
+- [UNDP, *Human Development Report 2002: Deepening Democracy in a Fragmented World*](https://hdr.undp.org/content/human-development-report-2002).
+- Seymour Martin Lipset, "Some Social Requisites of Democracy" (**1959**) — the modernisation
+  thesis, cited by title and year only.
+- Adam Przeworski and Fernando Limongi, "Modernization: Theories and Facts" (**1997**) — the
+  survival-not-emergence correction, cited by title and year only.
+- ⚠️ Statistical findings are reported as the authors' estimates, not as settled fact.
+  ❌ No country is named as an instance of democratic or authoritarian development anywhere in
+  this section.
+
 ---
 
 ## 3. DEVELOPMENT, TECHNOLOGY AND EDUCATION
@@ -615,6 +789,8 @@ This is where the section earns its place. The tribal-development clause is not 
 14. **Do not equate consultation with empowerment.** Empowerment requires durable decision-power, resources, voice and reasons.
 15. **Do not use current social or economic figures without an authoritative dated source.** No figure is required for the philosophical argument.
 16. **Do not import full liberalism, Marxism or Ambedkar's caste theory.** Use only the development criterion and route the full doctrine.
+17. **Do not answer "does democracy promote or hinder development?" as a binary.** ✅ Fix the conception of development first, then give the conditional verdict — accountability plus state capacity plus rule of law (§2.7).
+18. **Do not confuse the modernisation thesis with its correction.** ⚠️ Development supports democratic **survival** on the 1997 reading; it is not shown to cause democratic **emergence** (§2.7).
 
 ---
 
@@ -667,6 +843,15 @@ growth · structural transformation · human development · functioning · capab
 | 2025 | Q3(c) | 15 | Is it possible to reconcile the concept of development with tribal values to bring social and economic progress? Discuss. |
 
 See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025.md).
+
+### 10A. 2026 additions (official paper, Section A)
+
+| Year | Question | Marks | Exact demand | Core route in this file |
+|---|---|---:|---|---|
+| 2026 | Q4(c) | 15 | Examine the relationship between democracy and development. Does democracy promote or hinder development? | §2.7, with §1.2, §1.4–1.5, §2.3, §2.6 and §2.6A |
+
+See the [2026 Socio-Political PYQ Supplement](../_PYQ-SocioPolitical-2026-Supplement.md) for the
+full 2026 Section-A routing ledger.
 
 ## 11. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 
@@ -766,6 +951,7 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - [Gender Discrimination](Gender-Discrimination.md) — empowerment as capability and control over resources.
 - [Caste Discrimination: Gandhi and Ambedkar](Caste-Gandhi-Ambedkar.md) — village, caste and social democracy.
 - [Individual and State](Individual-and-State.md) — participation, rights and accountability.
+- [Crime and Punishment](Crime-and-Punishment.md) — §2.5 and §2.8 for corruption as an obstacle to inclusive development, and value-based education.
 
 ## SOURCES
 
@@ -783,5 +969,15 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - World Commission on Environment and Development, *Our Common Future* (the **Brundtland Report**, **1987**). ❌ Its formulation of sustainable development must be paraphrased, never reproduced verbatim.
 - Ramachandra Guha and Joan Martinez-Alier, *Varieties of Environmentalism* (**1997**) — the environmentalism-of-the-poor thesis. Cited by title and year only.
 - [The Constitution of India — Legislative Department](https://www.legislative.gov.in/documents/constitution-of-india/constitution-of-india-AjN2EjMtQWa?pageTitle=Constitution-of-India), Articles 48A and 51A(g), used as dated constitutional illustrations only; both are non-justiciable.
+- [United Nations Declaration on the Right to Development (**1986**) — OHCHR](https://www.ohchr.org/en/instruments-mechanisms/instruments/declaration-right-development), Articles 1–2, used in §2.7 for the participatory conception of development.
+- Daron Acemoglu, Suresh Naidu, Pascual Restrepo and James A. Robinson, "Democracy Does Cause Growth", *Journal of Political Economy* (**2019**), [doi:10.1086/700936](https://doi.org/10.1086/700936) — reported in §2.7 as the authors' estimate, not as settled fact.
+- [World Bank, *World Development Report 2017: Governance and the Law*](https://www.worldbank.org/en/publication/wdr2017) and [UNDP, *Human Development Report 2002*](https://hdr.undp.org/content/human-development-report-2002), used in §2.7 for governance functions and for deepening democracy.
+- Seymour Martin Lipset, "Some Social Requisites of Democracy" (**1959**), and Adam Przeworski and Fernando Limongi, "Modernization: Theories and Facts" (**1997**) — the modernisation thesis and its survival-not-emergence correction, used in §2.7. Cited by title and year only.
+
+> ⚠️ **Provenance note for §2.7 (added in this pass):** the democracy-and-development module reports
+> empirical findings as the cited authors' estimates and keeps the philosophical claim — that
+> participation is partly constitutive of development — distinct from the econometric evidence.
+> ❌ **No country, government, leader, party or period is named as an instance of democratic or
+> authoritarian development.**
 
 > ⚠️ **Provenance note for §5A (added in this pass):** the ecological political-philosophy module is a named-scholar reconstruction adapted into this Philosophy owner. No page, chapter, edition or verbatim wording is asserted for Naess, Guha, Martinez-Alier or the Brundtland Report, and **no** environmental datum, target, figure, project, company, movement or region is named. Environmental facts, policy and data belong to the `Environment-and-Ecology` and `Governance` areas of this repository, not here; this section supplies philosophy only.

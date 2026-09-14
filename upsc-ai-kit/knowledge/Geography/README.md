@@ -1,5 +1,15 @@
 # Geography - Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> structures process explanations, causal analysis and spatial comparisons.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes physical-process, population, resource, location and hazard signals.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes physical processes, landforms, climate modes, soils, agriculture and settlement concepts.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies urban, regional, water, hazard and infrastructure case studies.
+
 > **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
 
 
@@ -13,6 +23,16 @@
 > & Urban Affairs/MoRTH/Ports/ISRO official sources + PIB current-affairs anchors + audited UPSC
 > Geography PYQ patterns.
 > **Start here:** `00_Master-Framework.md`.
+> **Indices and reports:** [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
+> maps population, climate, water, forests, agriculture, energy, transport and urban datasets.
+> **Government schemes:** [`../GOVERNMENT-SCHEMES-MATRIX.md`](../GOVERNMENT-SCHEMES-MATRIX.md)
+> maps irrigation, watersheds, rural roads, urban missions, energy, transport and regional development.
+> **International organisations:** [`../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md`](../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md)
+> maps ocean, polar, climate, energy, transport and regional geographic institutions.
+> **Environmental conventions:** [`../ENVIRONMENT-CONVENTIONS-AND-PROTOCOLS-INDEX.md`](../ENVIRONMENT-CONVENTIONS-AND-PROTOCOLS-INDEX.md)
+> maps climate, oceans, wetlands, forests, land degradation and polar regimes.
+> **Map-location bank:** [`../GEOGRAPHY-MAP-LOCATION-BANK.md`](../GEOGRAPHY-MAP-LOCATION-BANK.md)
+> maps physical features, rivers, chokepoints, passes, resources, protected areas and current locations.
 > **Pre-exam revision:** [Core Processes, Regions and Distinctive Features Chart](REVISION-CHART_Core-Processes-Regions-and-Distinctive-Features.md).
 
 ---
@@ -95,7 +115,7 @@ edition used obsolete science, climatic determinism, outdated names or supersede
 | 10 | Coastal Landforms / India Coast and CRZ | Coastal geomorphology |
 | 11 | Islands and Coral Reefs / India Islands-Great Nicobar | Island/reef geography |
 | 12 | The Oceans: Currents, Tides, Salinity / Indian Ocean and IOD | Oceanography |
-| 13 | Weather Elements / India Jet Stream-Western Disturbances | Atmospheric processes |
+| 13 | Weather Elements, Severe Weather and Fujiwhara / India Jet Stream-Western Disturbances | Atmospheric processes |
 | 14 | Climate Classification (Koppen) / India Climatic Regions | Climatology framework |
 | 15-25 | World climate types (Equatorial to Polar) / India regional climate-vegetation belts | Regional climatology |
 
@@ -154,6 +174,29 @@ edition used obsolete science, climatic determinism, outdated names or supersede
   1 March 2027 (1 October 2026 for specified snow-bound areas). Census 2011
   remains the latest completed all-India baseline at this cutoff.
 
+## Direct 2026 Geography Mains repair
+
+- **GS-I Q4, Fujiwhara effect:** now routed to
+  `basic/13_Weather-Elements.md`, which owns mutual-vortex steering, common
+  centroid rotation, controls, outcome taxonomy, track/intensity effects,
+  named cases, traps and the 10-mark answer spine. `advanced/13` supplies the
+  optional three-dimensional forecast qualification.
+- **GS-I Q14, Loo/Chinook/Foehn comparison:** now routed to
+  `basic/13_Weather-Elements.md`, Section "➕ Loo, Chinook & Foehn —
+  Comparative Local-Wind Analysis," which classifies Loo as a surface-heating
+  plain wind against the shared Foehn/Chinook adiabatic-descent mechanism,
+  gives a region/season/mechanism/impact chart and a 15-mark spine.
+- **GS-I Q16, Atlantic-to-Indo-Pacific trade shift:** now routed to
+  `basic/33_Transport-Trade-and-Indian-Space-Programme.md`, Section "➕
+  Atlantic-to-Indo-Pacific Trade Shift," which supplies the Atlantic-centred
+  baseline, named economic/geopolitical drivers, a chokepoint-based evidence
+  layer, a finance/currency-lag counterargument and a 15-mark spine.
+- **GS-I Q17, human-induced land-use change:** now routed to
+  `basic/36_Contemporary-Geographical-Issues-India.md`, Section 11.5, which
+  pairs each land-use-change category (agricultural, urban, mining,
+  aquaculture, plantation, infrastructure, tourism) with its driver and
+  geographical consequence and supplies a 15-mark spine.
+
 ## Direct 2024-2025 Geography Mains routing
 
 > **Authority rule (corrected 13 Aug 2026):** the controlling routing record is the local ledger
@@ -210,3 +253,48 @@ routing rather than duplicating questions across unrelated topics.
   releases (via PIB where cited).
 - Audited UPSC Geography Prelims/Mains PYQ patterns (syllabus-line and recurring-theme based;
   no invented question numbers).
+
+## Physical-book reading index
+
+> **Confirmed books:** NCERT Geography Classes XI-XII, G. C. Leong,
+> *Certificate Physical and Human Geography*, and Oxford Student Atlas.
+
+### NCERT XI-XII
+
+| NCERT book / chapters | Priority | Knowledge route |
+|---|---|---|
+| XI *Fundamentals of Physical Geography*, Chs. 2-7 | **A** | Topics 01-11: earth, interior, tectonics, rocks, processes and landforms |
+| XI *Fundamentals*, Chs. 8-12 | **A** | Topics 13-25: atmosphere, heat, circulation, moisture and climate |
+| XI *Fundamentals*, Chs. 13-14 | **A** | Topic 12: oceans and ocean-water movements |
+| XI *Fundamentals*, Chs. 15-16 | **B** | Biosphere and biodiversity; Environment is the primary owner |
+| XI *India: Physical Environment*, Chs. 1-6 | **A** | Indian location, physiography, drainage, climate, vegetation and soils |
+| XI *India*, Ch. 7 | **B** | Natural hazards; Disaster Management owns the response framework |
+| XII *Fundamentals of Human Geography*, Chs. 1-4 | **A** | Topics 26-27 and human-development concepts |
+| XII *Fundamentals*, Chs. 5-9 | **A** | Topics 30-33: activities, transport, communication and trade |
+| XII *Fundamentals*, Ch. 10 | **A** | Topic 28: settlements |
+| XII *India: People and Economy*, Chs. 1-4 | **A** | Population, migration, human development and settlements |
+| XII *India*, Chs. 5-9 | **A** | Agriculture, water, minerals/energy, industry and regional planning |
+| XII *India*, Chs. 10-12 | **A** | Transport, trade and contemporary geographical issues |
+
+### G. C. Leong
+
+| Book block | Priority | Knowledge route | Instruction |
+|---|---|---|---|
+| Earth, crust, volcanism, earthquakes, weathering and mass movement | **A** | Topics 01-04 | Read process diagrams and causal chains |
+| Running water, glaciation, deserts, karst, lakes, coasts, islands and reefs | **A** | Topics 05-11 | Read landform-process-identification tables |
+| Oceans, currents, tides and salinity | **A** | Topic 12 | Read fully; add Indian Ocean/IOD from Core |
+| Weather elements and climatic controls | **A** | Topics 13-14 | Read fully; supplement modern cyclone/ENSO science from Core |
+| Equatorial to polar climatic regions | **A** | Topics 15-25 | Learn climate-vegetation-soil-economy-location signatures comparatively |
+| Human/economic passages and old statistics | **C** | Topics 26-33 | Use concepts only; replace dated examples and numbers |
+
+### Oxford Atlas practice
+
+- Mark tectonic plates, currents, winds, deserts, mountains, rivers and climatic regions.
+- Mark resources, industrial regions, ports, chokepoints, trade routes and conflict regions.
+- For India, practise physiographic divisions, drainage, passes, coasts, islands, soils,
+  crops, minerals, industries, transport corridors and protected/tribal regions.
+- Use the atlas for **location and spatial relationship**, not as authority for changing
+  political status, statistics or thematic explanation.
+
+**Reading order:** NCERT concept -> G. C. Leong process/classification -> matching Core owner
+-> atlas marking -> PYQ.

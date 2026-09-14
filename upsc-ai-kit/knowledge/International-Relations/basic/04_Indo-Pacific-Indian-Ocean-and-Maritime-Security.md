@@ -272,6 +272,147 @@ major powers are also present and competing for influence.
   **Significance:** Council membership gives India rule-shaping access.
   **Limitation:** membership does not guarantee preferred outcomes.
 
+## 4A. IPMDA — architecture, the SAGAR-Quad bridge and critical assessment
+
+> **2026 static-gap repair:** This section is the canonical owner for the
+> direct GS-II demand asking for a critical assessment of the claim that
+> IPMDA bridges the gap between India's SAGAR vision and the Quad's collective
+> Indo-Pacific strategy.
+
+### Origin and architecture
+
+- ✅ **Launch:** The Indo-Pacific Partnership for Maritime Domain Awareness
+  (IPMDA) was announced by Quad leaders (Australia, India, Japan, United
+  States) at the **Tokyo Summit on 24 May 2022**, with Quad countries
+  committing to **an investment in IPMDA over five years**.
+- ✅ **Purpose (verbatim from the official 2022 announcement):** IPMDA offers
+  "a near-real-time, integrated, and cost-effective maritime domain awareness
+  picture," aiming to "transform the ability of partners in the Pacific
+  Islands, Southeast Asia, and the Indian Ocean region to fully monitor the
+  waters on their shores."
+- ✅ **Data sources:** IPMDA harnesses **commercially available, unclassified**
+  data — a combination of Automatic Identification System (AIS) tracking and
+  commercial satellite radio-frequency (RF) technologies (later analyses add
+  synthetic-aperture-radar/SAR fusion) — precisely because commercial-origin
+  data can be shared widely without classification barriers.
+- ✅ **Regional fusion-centre architecture (named in the original 2022 Quad
+  announcement):** IPMDA extends support for information-sharing through
+  **existing** regional fusion centres rather than creating a new parallel
+  body: the **Information Fusion Centre-Indian Ocean Region (IFC-IOR)**,
+  hosted by the Indian Navy in Gurugram; the **Information Fusion Centre**,
+  based in Singapore; the **Pacific Islands Forum Fisheries Agency**, based in
+  the Solomon Islands; and the **Pacific Fusion Centre**, based in Vanuatu
+  (the latter two receiving Australian support). ⚠️ Do not merge the Pacific
+  Islands Forum Fisheries Agency (Solomon Islands) with the Pacific Fusion
+  Centre (Vanuatu); they are two distinct Pacific nodes.
+- ✅ **Coverage logic:** IPMDA is designed to integrate **three regions** —
+  the Pacific Islands, Southeast Asia and the Indian Ocean region — into one
+  "common operating picture," enabling tracking of "dark shipping" (vessels
+  disabling AIS transponders), support for climate/HADR response and
+  protection of regional fisheries.
+
+### 2026 update: from IPMDA to IPMDA-plus-IPMSC
+
+- 📰 **11th Quad Foreign Ministers' Meeting, New Delhi, 26 May 2026:** the
+  US State Department fact sheet records that Quad partners **launched the
+  first-ever Indo-Pacific Maritime Surveillance Collaboration (IPMSC)**
+  initiative — leveraging Quad countries' maritime-surveillance capabilities,
+  with an **initial focus on the Indian Ocean Region**, through subject-matter-
+  expert exchanges and tabletop exercises — while separately **expanding
+  IPMDA** itself: "Quad countries are developing a comprehensive Common
+  Operating Picture (COP)... harnessing real-time information in Indo-Pacific
+  maritime zones which will have benefits for the entire region."
+- 📰 India will host the next **Quad-at-Sea Ship Observer Mission** to
+  strengthen interoperability and knowledge-sharing against unlawful maritime
+  activity (New Delhi fact sheet, 26 May 2026).
+- ⚠️ **Distinguish IPMDA from IPMSC precisely:** IPMDA (2022) is the data-
+  fusion/awareness-sharing initiative built on commercial AIS/RF data and
+  regional fusion centres; IPMSC (2026) is a newer, narrower Quad-internal
+  surveillance-collaboration and exercise track focused initially on the IOR.
+  They are related but not identical instruments — do not use the names
+  interchangeably.
+
+### Critical assessment: does IPMDA "bridge" SAGAR and the Quad's strategy?
+
+| Instrument | Nature | Membership/scope | Primary tool |
+|---|---|---|---|
+| SAGAR (2015)/MAHASAGAR (2025) | India's own declared, unilateral vision | India plus bilateral Indian Ocean/Global-South partners | Doctrine + bilateral partnership + institutions India chairs (IORA, IONS) |
+| Quad | Non-treaty four-country minilateral coalition | Australia, India, Japan, United States | Leader/Minister-level working groups across many sectors (topic 10 owns full profile) |
+| IPMDA | A **Quad-launched, multi-region data-sharing initiative** | Quad funders; delivers data to Pacific Islands, Southeast Asia and Indian Ocean partners via existing regional fusion centres (including India's own IFC-IOR) | Commercial AIS/RF (and SAR) data fused into a common operating picture |
+
+- ✅ **Where the "bridge" claim holds:** IPMDA is delivered in the Indian Ocean
+  region **through India's own IFC-IOR**, so a Quad-funded, multi-partner
+  initiative is channelled through the very institution India built to
+  operationalise SAGAR's maritime-domain-awareness goal — a genuine
+  structural link between an Indian vision and a Quad instrument, not merely
+  a rhetorical one.
+- ⚠️ **Where the "bridge" claim overstates:** SAGAR is a unilateral Indian
+  doctrine with a developmental/security dual character for the Indian Ocean
+  specifically; the Quad's strategy is a four-country coalition covering the
+  wider Indo-Pacific (including the Pacific Islands and Southeast Asia, where
+  India has no equivalent bilateral doctrine). IPMDA therefore does not
+  reconcile two *equivalent* frameworks so much as it **plugs India's own
+  regional public good (IFC-IOR) into a wider, US-anchored, technology- and
+  finance-heavy Quad initiative** — the "bridge" runs through one Indian
+  institution, not through a fusion of SAGAR and Quad as doctrines.
+- ⚠️ **Capability asymmetry:** the underlying commercial satellite RF/AIS data
+  and the bulk of the five-year investment are Quad (largely US-technology)
+  contributions; India's distinctive contribution is institutional/regional
+  reach (IFC-IOR's partner network: 25 partner countries and International
+  Liaison Officers from 15 countries as of November 2025), not the sensor
+  layer itself.
+- ⚠️ **Regional reception:** because IPMDA is Quad-branded, some Southeast
+  Asian and smaller littoral states remain cautious about appearing aligned
+  against China even while accepting the data feeds — a hedging pattern
+  consistent with this topic's general ASEAN-centrality caution.
+- ⚠️ **Delivery-capacity gap:** IPMDA and IPMSC supply awareness (data), not
+  enforcement; small littoral states (e.g., in the Pacific or parts of the
+  IOR) may receive a maritime picture but lack patrol vessels, aircraft or
+  fuel to act on it — a "public good without patrol capacity" limitation.
+- ✅ **Non-military framing, ambiguous reading:** the Quad frames IPMDA/IPMSC
+  as a public good (anti-piracy, anti-IUU-fishing, HADR, anti-trafficking),
+  not a military alliance instrument; ⚠️ this framing is deliberately
+  ambiguous — it is read by regional partners as inclusive and by China as a
+  soft-balancing, containment-adjacent architecture. Both readings coexist;
+  a strong answer states this ambiguity rather than picking one reading as
+  settled fact.
+
+> **Balanced verdict:** IPMDA is a genuine, structurally real link between
+> India's SAGAR-built institution (IFC-IOR) and the Quad's wider Indo-Pacific
+> maritime-security agenda, and the 2026 IPMSC/COP expansion deepens that
+> link; but calling it a full "bridge" between SAGAR and Quad *strategy*
+> overstates the case, because SAGAR remains a unilateral Indian vision with
+> different geographic scope, and IPMDA's principal engineering/finance
+> contribution belongs to Quad partners rather than to a fused doctrine.
+
+### Traps specific to IPMDA
+
+- ❌ IPMDA is a treaty or a joint military command. -> It is a data-sharing/
+  awareness-fusion initiative using unclassified commercial data, explicitly
+  framed as a public good, not a binding treaty or a unified command.
+- ❌ IPMDA created new fusion centres. -> It extends support to **existing**
+  regional fusion centres (IFC-IOR, Singapore's IFC, the Pacific Islands
+  Forum Fisheries Agency and the Pacific Fusion Centre), rather than
+  establishing a new parallel body.
+- ❌ IPMDA and IPMSC are the same initiative under two names. -> IPMDA (2022)
+  is the broader data-fusion/common-operating-picture initiative; IPMSC
+  (launched 26 May 2026) is a newer, IOR-focused Quad surveillance-
+  collaboration and exercise track.
+- ❌ SAGAR is a Quad programme. -> SAGAR (2015)/MAHASAGAR (2025) is India's
+  own unilateral doctrine; IPMDA is one Quad-run channel through which SAGAR's
+  institutional output (IFC-IOR) is connected to a wider four-country effort.
+
+> **10-mark answer spine (Q9, 2026 GS-II, 150 words):** (1) Define IPMDA in one
+> line (Quad-launched, 2022 Tokyo Summit, unclassified AIS/RF data fused via
+> existing regional centres); (2) state the genuine link — IFC-IOR is India's
+> own SAGAR-era institution and is one of IPMDA's delivery nodes; (3) give the
+> critical qualifier — SAGAR is unilateral/Indian-Ocean-specific while Quad is
+> a four-country, wider-Indo-Pacific coalition, so IPMDA connects an
+> institution more than it fuses two strategies; (4) name one 2026 update
+> (IPMSC launch/COP expansion, 26 May 2026 New Delhi Quad Foreign Ministers'
+> Meeting) as evidence of deepening, not completed, integration; (5) close with
+> a qualified verdict rather than a flat "yes/no."
+
 ## 5. Indian applications and examples
 
 - ✅ **Direct PYQ (2024 Q20):** *Discuss the geopolitical and geostrategic
@@ -279,6 +420,12 @@ major powers are also present and competing for influence.
   flows. Further also discuss how this relationship affects India's maritime
   security and regional stability amidst international competition?* (15
   marks, 250 words) — this is the anchor PYQ for this topic.
+- ✅ **Direct PYQ (2026 Q9, OCR-verified from the official scan):** *"IPMDA
+  (Indo-Pacific Partnership for Maritime Domain Awareness) bridges the gap
+  between India's SAGAR (Security and Growth for All in the Region) vision
+  and the Quad's collective Indo-Pacific strategy." Make a critical assessment
+  of the statement focusing on IPMDA.* (10 marks, 150 words) — answered by
+  Section 4A above.
 - ✅ A strong answer to 2024 Q20 should cite the India-Maldives Joint Vision for
   Comprehensive Economic and Maritime Security Partnership (7 October 2024) as
   the concrete, dated instrument, alongside SAGAR/MAHASAGAR, IORA/IONS and the
@@ -314,6 +461,15 @@ major powers are also present and competing for influence.
   delivered on 7 July 2014.
 - ✅ The Indian Navy's biennial "Milan" naval gathering, hosted at Port Blair,
   has run since 1995.
+- ✅ IPMDA (Indo-Pacific Partnership for Maritime Domain Awareness) was
+  announced by Quad leaders at the Tokyo Summit on 24 May 2022, using
+  unclassified AIS/RF commercial data delivered through existing regional
+  fusion centres (IFC-IOR, Singapore's IFC, the Pacific Islands Forum
+  Fisheries Agency and the Pacific Fusion Centre).
+- 📰 At the 11th Quad Foreign Ministers' Meeting (New Delhi, 26 May 2026),
+  Quad partners launched the Indo-Pacific Maritime Surveillance
+  Collaboration (IPMSC) and announced an expansion of IPMDA toward a
+  Common Operating Picture (COP).
 
 ## 7. UPSC traps
 
@@ -343,6 +499,11 @@ major powers are also present and competing for influence.
 - ❌ IONS, IORA and IFC-IOR are interchangeable names for one body. -> They are
   three distinct mechanisms: IORA (regional intergovernmental organisation),
   IONS (naval cooperation symposium) and IFC-IOR (information-sharing centre).
+- ❌ IPMDA "bridges" SAGAR and Quad by fusing the two into one doctrine (see
+  Section 4A for the full critical assessment). -> IPMDA is a Quad instrument
+  that channels data through India's own SAGAR-era institution (IFC-IOR); it
+  connects an institution to a wider coalition effort rather than merging two
+  strategic doctrines into one.
 
 ## 8. 📰 Current anchor
 
@@ -355,6 +516,11 @@ major powers are also present and competing for influence.
   chairship (from 20 February 2026)** as institutional leadership markers; and
   the **BBNJ Agreement's entry into force (17 January 2026)** as the legal-order
   development, where India is a signatory but not yet a party.
+- 📰 **IPMDA/IPMSC anchor (11th Quad FMM, New Delhi, 26 May 2026):** Quad
+  partners launched IPMSC and announced an IPMDA expansion toward a Common
+  Operating Picture; India will host the next Quad-at-Sea Ship Observer
+  Mission. See Section 4A for the full critical assessment answering the
+  direct 2026 GS-II Q9 demand.
 
 ## 9. PYQ application
 
@@ -375,6 +541,21 @@ major powers are also present and competing for influence.
   external-power naval presence (Djibouti/Gwadar-type bases) as
   the "international competition" India must navigate without overstating its
   own "net security provider" role.
+- ✅ **2026 Q9 (direct):** *"IPMDA (Indo-Pacific Partnership for Maritime
+  Domain Awareness) bridges the gap between India's SAGAR (Security and
+  Growth for All in the Region) vision and the Quad's collective Indo-Pacific
+  strategy." Make a critical assessment of the statement focusing on IPMDA.*
+  Structure: (1) define IPMDA (Quad, Tokyo Summit 2022, unclassified AIS/RF
+  data, existing regional fusion centres); (2) show the genuine link — IFC-IOR
+  is India's SAGAR-era institution and an IPMDA delivery node; (3) qualify —
+  SAGAR is unilateral and Indian-Ocean-specific, Quad is a four-country wider
+  Indo-Pacific coalition, so IPMDA connects an institution more than it fuses
+  two strategies; (4) weigh strengths (extends India's reach, non-treaty
+  flexibility, positions IFC-IOR as a regional data hub) against limitations
+  (US-technology/finance asymmetry, small-state capacity gap, ASEAN hedging,
+  dark-vessel/interoperability gaps); (5) cite the 2026 IPMSC/COP update as
+  evidence of a deepening but still incomplete bridge. Full answer in Section
+  4A.
 
 ## 10. Mains angles
 
@@ -411,16 +592,19 @@ major powers are also present and competing for influence.
   regional stability amidst international competition.
 - ⚠️ **Mains (10 marks):** Explain the SAGAR doctrine. How do IORA, IONS and
   IFC-IOR operationalise it institutionally?
+- ✅ **Mains (10 marks, direct 2026 PYQ):** Critically assess the claim that
+  IPMDA bridges India's SAGAR vision and the Quad's collective Indo-Pacific
+  strategy, focusing on IPMDA.
 
 ## 11A. Answer architecture (10/15/20-mark support)
 
 Core owns the 2020 India-US/India-Russia defence-and-stability demand, the 2021 AUKUS
-demand and the 2023 IMO demand, superseding `advanced/04`.
+demand, the 2023 IMO demand and the 2026 IPMDA-SAGAR-Quad demand, superseding `advanced/04`.
 
 - **Maritime chain:** sea-lane/chokepoint interest -> rules under UNCLOS -> awareness
   and capacity -> partnerships/groupings -> island-state trust -> security outcome.
-- **Evidence:** SAGAR/MAHASAGAR, IFC-IOR, IORA/IONS, Quad, Colombo Security Conclave,
-  Maldives, BBNJ and IMO.
+- **Evidence:** SAGAR/MAHASAGAR, IFC-IOR, IORA/IONS, Quad, IPMDA/IPMSC, Colombo
+  Security Conclave, Maldives, BBNJ and IMO.
 - **Balance:** external balancing and minilateral capacity can deter coercion, but
   alliance perceptions, unequal capacity and island-state domestic politics constrain.
 
@@ -443,6 +627,29 @@ China/US roles, UNCLOS institutions, blue economy, climate and non-traditional t
   `Internal-Security/basic/07_Maritime-and-Coastal-Security.md` and the HADR
   operational cycle to
   `Disaster-Management/basic/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md`.
+
+## 2026 Mains PYQ integration (manual)
+
+> **Source:** OCR-verified English text from the locally preserved official
+> 2026 GS-II scan (session folder `files/mains-2026-ocr`). This manual Mains
+> route is separate from the generated Prelims/Mains blocks below.
+
+| Year | Paper | Q | Exact demand | Directive / format | Canonical route |
+|---:|---|---:|---|---|---|
+| 2026 | GS-II | 9 | "IPMDA (Indo-Pacific Partnership for Maritime Domain Awareness) bridges the gap between India's SAGAR (Security and Growth for All in the Region) vision and the Quad's collective Indo-Pacific strategy." Make a critical assessment of the statement focusing on IPMDA. | Make a critical assessment · 10 marks · 150 words | `International-Relations/basic/04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`, Section 4A |
+
+**Authoritative sources consulted:** White House archived fact sheet, Tokyo
+Quad Leaders' Summit, 24 May 2022
+(`bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/24/fact-sheet-quad-leaders-tokyo-summit-2022/`);
+US Department of State Fact Sheet, 11th Quad Foreign Ministers' Meeting, New
+Delhi, 26 May 2026 (reproduced at globalsecurity.org); MEA press releases on
+the 11th Quad FMM (mea.gov.in/press-releases.htm?dtl/41216 and dtl/41234).
+
+**Readiness verdict:** **FULL.** The owner now contains IPMDA's origin and
+architecture, the 2026 IPMSC/COP update, a SAGAR-Quad-IPMDA comparison table,
+a balanced critical-assessment table and verdict, specific traps and an
+executable 10-mark spine (Section 4A).
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 

@@ -38,6 +38,7 @@ assign demand management to monetary policy and physical bottlenecks to supply-s
 | ✅ **Deflation** | A sustained fall in the general price level. |
 | ✅ **CPI** | Retail price index for a representative consumer basket. |
 | ✅ **WPI** | Wholesale-goods price index; it is not a household cost-of-living index. |
+| ✅ **PPI** | Producer-side price framework covering prices received for output and paid for inputs; introduced in 2026 to replace WPI gradually, not CPI. |
 
 ## 3. Detailed transmission
 
@@ -72,7 +73,8 @@ assign demand management to monetary policy and physical bottlenecks to supply-s
 ## 4. Institutional architecture
 
 - ✅ **MoSPI:** compiles CPI and its consumer-group and spatial components.
-- ✅ **Office of the Economic Adviser:** compiles WPI for wholesale goods.
+- ✅ **Office of the Economic Adviser, DPIIT:** compiles WPI and the new PPI framework,
+  including output, experimental input and selected service PPIs.
 - ✅ **RBI and MPC:** target headline CPI and calibrate the policy rate and communication.
 - ✅ **Union and state food-management agencies:** use stocks, logistics, trade and anti-
   hoarding measures against supply-driven food inflation.
@@ -105,8 +107,12 @@ fuel, housing and services, so component analysis is essential.
 ## 7. Must-Know Facts for Advanced Prelims
 
 - ✅ Headline CPI includes food and fuel; core inflation conventionally excludes them.
-- ✅ CPI is used for India's flexible inflation-targeting framework; WPI and the GDP deflator
-  answer different questions.
+- ✅ CPI is used for India's flexible inflation-targeting framework; WPI, PPI and the GDP
+  deflator answer different questions.
+- ✅ Output PPI tracks prices received by producers, input PPI tracks prices paid for
+  production inputs, and service PPI extends producer-side measurement to selected services.
+- ✅ PPI is intended to replace WPI after a five-year parallel transition; it does not replace
+  CPI as the RBI-MPC inflation anchor.
 - ✅ Demand-pull inflation arises from excess aggregate demand; cost-push inflation arises
   from rising input costs or supply constraints.
 - ✅ Stagflation combines weak growth or unemployment with inflation.
@@ -119,6 +125,8 @@ fuel, housing and services, so component analysis is essential.
 
 - ❌ Disinflation means prices are falling. -> It means prices are rising more slowly.
 - ❌ WPI is India's consumer cost-of-living index. -> CPI measures retail consumer inflation.
+- ❌ PPI is RBI's replacement for CPI. -> The Office of the Economic Adviser, DPIIT introduced
+  PPI as a phased replacement for WPI; headline CPI remains the monetary-policy anchor.
 - ❌ Core inflation is always lower than headline inflation. -> Relative food, fuel and other
   price movements can reverse this.
 - ❌ Repo action can produce vegetables or repair logistics. -> Monetary policy mainly
@@ -134,11 +142,15 @@ fuel, housing and services, so component analysis is essential.
 | 📰 Core inflation was 4.62% in Dec 2025; the Survey notes a major precious-metals contribution. | Use the headline-core divergence to show why component composition matters for policy diagnosis. |
 | 📰 RBI's FY26 inflation projection was revised from 2.6% to 2.0% in Dec 2025. | The downward revision illustrates how incoming data alter forecasts and the expected policy path. |
 
-📰 **Series status at 21 July 2026:** CPI 2024=100 is published from January 2026,
-and WPI 2022-23 is used for current releases from May 2026. The FY26 Survey figures
+📰 **Series status at 11 September 2026:** CPI 2024=100 is published from January 2026,
+and WPI 2022-23 is used for current releases from May 2026. The Office of the Economic
+Adviser launched output, experimental input and selected service PPIs with base 2022-23
+in June 2026. PPI and WPI are planned to run in parallel for five years before PPI replaces
+WPI; headline CPI remains India's inflation-targeting anchor. The FY26 Survey figures
 retain their original series/vintage and must not be spliced into the new index levels.
 Sources: [MoSPI](https://esankhyiki.mospi.gov.in/macroindicators?product=cpi&tab=metadata)
-and [OEA](https://eaindustry.nic.in/uploaded_files/wpi/WPI_Users_Note.pdf).
+and [OEA](https://eaindustry.nic.in/uploaded_files/wpi/WPI_Users_Note.pdf);
+[PIB PPI release](https://pib.gov.in/PressReleasePage.aspx?reg=3&PRID=2267963&lang=1).
 
 ## 10. PYQ-based analytical application
 
@@ -148,7 +160,9 @@ and [OEA](https://eaindustry.nic.in/uploaded_files/wpi/WPI_Users_Note.pdf).
 
 ## 11. Mains-ready framework
 
-**Central thesis:** Diagnose inflation by source, breadth, persistence and expectations; assign demand management to monetary policy and physical bottlenecks to supply-side action.
+**Central thesis:** Diagnose inflation by source, breadth, persistence and expectations;
+choose CPI for household welfare and monetary policy, PPI for producer-side price
+transmission, and assign physical bottlenecks to supply-side action.
 
 1. Define **Inflation** and distinguish it from **Disinflation**.
 2. Firms adjust prices according to inventories, competition, margins and expected
@@ -163,6 +177,8 @@ and [OEA](https://eaindustry.nic.in/uploaded_files/wpi/WPI_Users_Note.pdf).
 
 - ⚠️ **Prelims:** Distinguish inflation, disinflation, deflation, headline inflation and
   core inflation.
+- ⚠️ **Prelims:** Distinguish CPI, WPI, output/input/service PPI and the GDP deflator, including
+  why PPI replaces WPI rather than CPI.
 - ⚠️ **Mains (10 marks):** Why is monetary policy less effective against a temporary
   vegetable-supply shock than against broad demand inflation?
 - ⚠️ **Mains (15 marks):** Design a coordinated response to persistent food inflation

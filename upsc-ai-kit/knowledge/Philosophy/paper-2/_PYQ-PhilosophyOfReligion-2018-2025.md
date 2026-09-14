@@ -4,6 +4,7 @@
 > **Text rule:** English wording and marks are transcribed from the held papers. The cleaner official `QP-CSM` copies control 2022 and 2023; duplicate scans were used only to resolve layout or extraction ambiguity.
 > **Evidence key:** ✅ paper text · ⚠️ routing/trend synthesis · 📝 printed wording note.
 > **Ownership rule:** every question-part has exactly one linked primary Philosophy of Religion owner. Paper I parallels are secondary cross-links, not duplicate ownership.
+> **Continuation:** the 2026 paper is routed separately in the [2026 Paper II Section B PYQ Supplement](./_PYQ-PhilosophyOfReligion-2026-Supplement.md). This file's counts and trends remain scoped to 2018–2025.
 
 ---
 

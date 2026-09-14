@@ -967,6 +967,17 @@ Use these as crisp sentence-starters in answers:
 
 See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025.md).
 
+### 10A. 2026 additions (official paper, Section A)
+
+| Year | Question | Marks | Exact demand | Core route in this file |
+|---|---|---:|---|---|
+| 2026 | Q2(a) | 20 | Evaluate the importance of Kautilya's theory of Rajamandala in the context of sovereignty. | §5.5 (circle-of-states *maṇḍala* and *ṣāḍguṇya*), with §5.1–§5.4 — pre-existing coverage |
+| 2026 | Q4(b) | 15 | Explain the contrast between the monistic and pluralistic approaches to sovereignty. | §6.1 monist/pluralist table, with §2–§3A (Bodin, Austin, Kelsen/Hart) and §4.1–§4.7 (Laski) — pre-existing coverage |
+
+See the [2026 Socio-Political PYQ Supplement](../_PYQ-SocioPolitical-2026-Supplement.md) for the
+full 2026 Section-A routing ledger.
+
+
 ## 11. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 
 ### 11.0 Directive decoder — the verb fixes the structure

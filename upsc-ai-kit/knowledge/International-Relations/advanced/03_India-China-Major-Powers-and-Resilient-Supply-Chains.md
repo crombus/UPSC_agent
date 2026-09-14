@@ -146,6 +146,83 @@ defence-energy complementarity — a three-track hedge, not a binary choice.
   diversification cooperation, distinct from the bilateral track (full
   institutional profile reserved for topic 10).
 
+## 4A. Advanced BRI/CPEC analytical layer
+
+### BRI as geo-economic statecraft
+
+```text
+capital + construction capacity + standards + diplomatic sponsorship
+                              |
+                              v
+                    infrastructure asset
+                              |
+              +---------------+---------------+
+              |                               |
+              v                               v
+       commercial return               strategic externality
+ trade / energy / logistics      access / leverage / standards / influence
+```
+
+⚠️ Geo-economics does not mean every commercial project is secretly military.
+It means economic instruments can generate strategic externalities, especially
+when finance, construction, operation, standards and diplomatic support are
+concentrated in one external partner.
+
+### Debt-distress causal test
+
+Before using "debt trap", test six variables:
+
+1. **Project viability:** expected demand and revenue.
+2. **Financing terms:** currency, maturity, interest, grace period and security.
+3. **Borrower choices:** procurement, guarantees and off-budget liabilities.
+4. **Pre-existing fragility:** earlier debt stock and fiscal structure.
+5. **External shocks:** exchange rates, commodities, tourism, conflict and
+   global interest rates.
+6. **Restructuring leverage:** what policy, asset or diplomatic concession is
+   actually sought and evidenced?
+
+> **Advanced verdict:** Intentional debt-trap diplomacy is a strong causal
+> claim requiring evidence. The safer and richer claim is that opaque,
+> loan-heavy and weakly appraised projects can produce asymmetric dependence
+> whether or not distress was deliberately engineered.
+
+### Dual-use assessment
+
+| Question | Evidence required |
+|---|---|
+| Can the asset physically support military/logistical activity? | Depth, runway, repair, storage, communications or access characteristics |
+| Does a foreign operator control access or data? | Contract, concession and operational control |
+| Is there recurrent security use? | Verified visits, agreements, deployments or support activity |
+| Is civilian use commercially significant? | Cargo, passenger, energy or service evidence |
+| What does the host state permit? | Domestic law, policy and political consent |
+
+> 🔑 **Trap:** Strategic location plus Chinese finance establishes a reason for
+> scrutiny, not automatic proof of a military base.
+
+### South Asian state agency
+
+- ⚠️ **Hedging:** partners obtain finance and bargaining space from China while
+  retaining India, Japan, multilateral institutions or Western partners.
+- ⚠️ **Elite incentives:** large visible projects generate political credit and
+  procurement rents, which can bias selection away from social return.
+- ⚠️ **Public backlash:** debt, land acquisition, labour use, environmental
+  effects or perceived sovereignty loss can convert initial elite support into
+  electoral resistance.
+- ⚠️ **Policy reset:** government change may renegotiate, delay or rebrand a
+  project without ending the wider relationship.
+
+### India response: competitive public goods, not veto politics
+
+1. Match projects to partner demand rather than impose a geopolitical template.
+2. Publish financing and implementation status clearly.
+3. Improve speed without bypassing environmental, fiscal or local consultation.
+4. Combine grants/credit with capacity building, maintenance and market access.
+5. Link bilateral projects through BBIN, BIMSTEC, maritime and digital public
+   goods where partner consent exists.
+6. Protect Indian security through surveillance, cyber standards, maritime
+   partnerships and domestic capability rather than demanding exclusive
+   neighbourhood alignment.
+
 ## 5. Indian applications and boundary cases
 
 - ✅ **Direct PYQ boundary case (2024 Q9):** the supplied paper text reads
@@ -258,6 +335,10 @@ defence-energy complementarity — a three-track hedge, not a binary choice.
   4. Flag the autonomy-dependence trade-off if the US-technology track deepens
      without reciprocal technology-sharing, and cite the 2025-26 US tariff cycle
      as evidence that "fostering" is conditional and reversible.
+- ✅ **2026 GS-II Q20:** use the geo-economic-statecraft model, CPEC
+  sovereignty objection, differentiated country agency, six-variable debt test
+  and dual-use evidence test. Conclude with competitive public goods and faster
+  implementation rather than a veto over neighbours' sovereign choices.
 
 ## 11. Mains-ready framework
 

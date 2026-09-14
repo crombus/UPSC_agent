@@ -202,6 +202,24 @@ independent assessment
 > neutrality, alliance or endorsement. Analyse the separate interest channels and
 > their costs.
 
+### BRI/CPEC in South Asia
+
+`infrastructure gap -> Chinese finance and delivery -> economic gain + strategic externality -> debt/sovereignty/dual-use test -> regional hedging and competition`
+
+| Country pattern | India-facing significance |
+|---|---|
+| Pakistan/CPEC | Sovereignty objection, China-Pakistan alignment and Arabian Sea access |
+| Sri Lanka/Maldives | Maritime access, fiscal sensitivity and domestic sovereignty politics |
+| Bangladesh | Pragmatic multi-partner hedging and competitive project delivery |
+| Nepal | Transit diversification, Himalayan feasibility and standards competition |
+
+**Debt test:** `viability + financing terms + borrower choices + prior fragility + external shocks + evidenced restructuring leverage`
+
+> **Core verdict:** Not every BRI project is a debt trap or military facility,
+> but opaque, debt-heavy and strategically located projects can create real
+> fiscal and security exposure. India must compete through
+> sovereignty-respecting, transparent and faster public goods.
+
 ---
 
 ## 7. Resilient supply chains and technology geopolitics
@@ -279,6 +297,7 @@ maritime security and regional order
 | IORA | Indian Ocean regional cooperation |
 | BIMSTEC | Bay of Bengal connectivity and cooperation |
 | Coastal radar/information sharing | Maritime domain awareness |
+| IPMDA/IPMSC | Quad-run maritime domain awareness data-fusion via existing regional centres (IFC-IOR, Singapore's IFC, Pacific Islands Forum Fisheries Agency, Pacific Fusion Centre); 2026 expansion toward a Common Operating Picture |
 | Capacity building | Patrol, training, hydrography and HADR support |
 | SAGAR/related visions | Political framework, not treaty obligation |
 
@@ -287,6 +306,12 @@ maritime security and regional order
 `respect sovereignty + climate/resilience support + local capacity + transparent infrastructure + quick HADR + avoid securitising every issue`
 
 > **Trap:** Quad is not a formal military alliance, and the Indo-Pacific is broader than containment of one country.
+
+> **Trap:** IPMDA does not fuse SAGAR and Quad into one doctrine — it is a
+> Quad-run data-sharing instrument channelled through India's own SAGAR-era
+> institution (IFC-IOR); treat it as an institutional link, not a merged
+> strategy. Full critical assessment and 2026 GS-II Q9 answer route:
+> `International-Relations/basic/04`, Section 4A.
 
 ---
 

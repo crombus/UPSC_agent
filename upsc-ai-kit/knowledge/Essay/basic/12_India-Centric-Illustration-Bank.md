@@ -93,10 +93,21 @@ demonstrate the specific claim at hand.
 | Innovation needs guardrails | India AI Governance Guidelines were launched in **2026**. **📰 Official IndiaAI source; refresh implementation claims.** | Accountable innovation | Guidelines are not a comprehensive AI statute or proof of implementation | `Ethics`, `Science-and-Technology` |
 | Technology diplomacy can frame shared goals | India AI Impact Summit’s core summit ran **16–20 February 2026**; its Expo extended to 21 February. **📰 Official IndiaAI source.** | People–Planet–Progress framing | An agenda/event is not delivered impact | `Science-and-Technology`, `International-Relations` |
 | Safeguarded action may be phased | Digital Personal Data Protection Rules, 2025 were notified **13 November 2025**, with staged commencement. **📰 MeitY Gazette notification.** | Sequenced regulation rather than paralysis | Data protection does not resolve every platform or AI harm | `Science-and-Technology`, `Internal-Security` |
+| Disciplined resistance can be simultaneously peaceful and powerful (oxymoron/irony) | Gandhian *satyagraha* was an organised programme of non-violent civil resistance used across the freedom movement. **Verified local historical source.** | Names the "peaceful protest" oxymoron with a real, sustained case rather than a slogan | One movement's discipline does not prove non-violence always succeeds without cost | `Modern-Indian-History`, `Ethics` |
+| Gratitude can be translated into voluntary collective reciprocity | The Bhoodan (land-gift) Movement, initiated by Vinoba Bhave from **1951**, sought voluntary land donation for redistribution. **Durable local historical fact.** | Gratitude/reciprocity as a social mechanism, not only a private feeling | Voluntary redistribution reached only a fraction of the land-reform problem; it did not substitute for statutory land ceilings | `Modern-Indian-History`, `Economy` |
+| A setback can harden into resilient capability without erasing the will to try again | **Chandrayaan-2's** Vikram lander suffered a hard landing in **2019**; **Chandrayaan-3** achieved a successful soft landing on **23 August 2023** after redesigned safeguards. **Durable ISRO institutional fact.** | "Thorn from a bud" — adversity converted into engineered resilience | One successful mission does not prove uniform institutional infallibility going forward | `Science-and-Technology` |
+| Nature can be treated as formative of the inner life, not only a resource | Rabindranath Tagore founded **Santiniketan/Visva-Bharati** on open-air, nature-integrated pedagogy. **Durable historical/institutional fact.** | Nature as symbol of the spirit, applied to education | One pedagogical model does not itself resolve contemporary ecological policy questions | `Indian-Art-and-Culture`, `Modern-Indian-History` |
+| Structured, open debate — not rote transmission — was the historical method of advanced inquiry | The ancient **Nalanda and Takshashila** centres of learning institutionalised *shastrartha* (structured scholarly debate). **Durable historical fact.** | A well-educated mind generating questions, not only answers | A historical pedagogical ideal does not by itself describe every contemporary classroom's practice | `Ancient-Indian-History`, `Indian-Art-and-Culture` |
 
 ⚠️ The function and limitation columns are analytical judgements. The
 source status validates only the durable factual core; it never validates
 an exaggerated inference.
+
+⚠️ The five rows above are the named evidence pointers for the 2026 aphorism
+dossiers in `02_Philosophical-Quote-Decoding.md`, Section 13
+(oxymoron/irony, gratitude, thorn/bud, nature/spirit, education-as-inquiry).
+Reuse their function statements as written; do not restate them with a
+different, undocumented claim.
 
 ## 7. Selection, reuse and refresh protocol
 

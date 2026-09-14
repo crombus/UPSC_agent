@@ -4,6 +4,9 @@
 > **Coverage:** National income, development, inflation, monetary policy, banking, markets, public finance, agriculture, industry, infrastructure, external sector, employment, inclusion, digital economy, climate, agritech, subsidies, allied sectors and energy.
 > **Two-pass design:** Core is independently exam-complete. Advanced adds modelling, policy trade-offs and institutional depth; skipping it must not affect the paper outcome.
 > **Data rule:** Never quote an economic number without its period, unit, coverage, source and vintage. Keep actual, provisional, estimate, projection, BE, RE and final figures separate.
+>
+> **Complete dictionary and formulas:**
+> [`_revision/Master-Definitions-and-Formula-Glossary.md`](_revision/Master-Definitions-and-Formula-Glossary.md).
 
 ---
 
@@ -515,7 +518,7 @@ Cold chain is an integrated temperature-controlled system, not merely cold stora
 
 ---
 
-## 20. MSMEs, PLI and manufacturing strategy
+## 20. MSMEs, startups, PLI and manufacturing strategy
 
 | MSME strength | Constraint |
 |---|---|
@@ -541,6 +544,23 @@ Evaluate through:
 `design -> fabrication -> assembly/testing/packaging -> equipment/materials -> skilled ecosystem`
 
 > **Trap:** Assembly growth does not automatically imply high domestic value addition or technological autonomy.
+
+### Startup ecosystem
+
+`idea -> validation -> prototype -> product-market fit -> scale -> exit -> recycled capital and experience`
+
+| Policy problem | Matching instrument |
+|---|---|
+| Early uncertainty/no collateral | Grant, seed support, angel/AIF equity |
+| First-buyer problem | Transparent procurement pilot or sandbox |
+| Knowledge spillover | Research/IP support and university-industry links |
+| Scale finance | Venture capital, venture debt and guaranteed credit |
+| Regional concentration | Tier-2/3 sector clusters and networked incubators |
+| Capital recycling | Predictable M&A, insolvency and listing routes |
+
+> **Trap:** Startup, MSME and unicorn are not synonyms. Measure survival,
+> innovation, productivity, decent jobs, exports and spillovers rather than
+> recognition or valuation counts.
 
 ---
 
@@ -709,6 +729,8 @@ Without jobs and capability:
 | Crypto-asset | Not automatically sovereign currency or central-bank liability |
 
 > **Trap:** UPI is a payment interface/system, while CBDC is sovereign digital money; one can facilitate transfer of the other but they are not the same.
+
+> **2026 update:** e₹-Retail moves wallet-to-wallet (token) vs UPI's account-to-account (message); 2026 pilot adds offline NFC payment, programmable-subsidy use, and a proposed BRICS CBDC-linkage (pilot-stage, not de-dollarisation) — see `basic/24` Section 13.
 
 ---
 
@@ -994,7 +1016,7 @@ Use Advanced only after Core is secure:
 | 14 | [Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture](basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md) | [Advanced](advanced/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md) |
 | 15 | [Food Processing, Cold Chains and Value Addition](basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md) | [Advanced](advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md) |
 | 16 | [Industrial Policy, 1991 Reforms, PSUs and Disinvestment](basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md) | [Advanced](advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md) |
-| 17 | [MSMEs, PLI, Semiconductors and Manufacturing Strategy](basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md) | [Advanced](advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md) |
+| 17 | [MSMEs, Startups, PLI, Semiconductors and Manufacturing Strategy](basic/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md) | [Advanced](advanced/17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md) |
 | 18 | [Infrastructure, PPPs, Logistics and Public Investment](basic/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md) | [Advanced](advanced/18_Infrastructure-PPPs-Logistics-and-Public-Investment.md) |
 | 19 | [Balance of Payments, Exchange Rates and Forex Reserves](basic/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md) | [Advanced](advanced/19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md) |
 | 20 | [Foreign Trade, WTO, FTAs and Protectionism](basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md) | [Advanced](advanced/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md) |
@@ -1009,4 +1031,3 @@ Use Advanced only after Core is secure:
 | 29 | [Agricultural Technology Missions and Mission-Mode Policy](basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md) | [Advanced](advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md) |
 | 30 | [Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries](basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md) | [Advanced](advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md) |
 | 31 | [Energy Infrastructure Economics, Power, Fuels and Energy Security](basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md) | [Advanced](advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md) |
-

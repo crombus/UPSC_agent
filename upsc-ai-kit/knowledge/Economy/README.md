@@ -1,5 +1,18 @@
 # Indian Economy - Knowledge Base Index
 
+> **Organisation origins and importance:** [`../INTERNATIONAL-ORGANISATIONS-ORIGIN-AND-IMPORTANCE.md`](../INTERNATIONAL-ORGANISATIONS-ORIGIN-AND-IMPORTANCE.md)
+> covers global financial institutions, economic forums, trade groupings and energy bodies.
+
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> supplies causal, criteria-based and extent-of templates for GS-III answers.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes macroeconomic, agricultural, infrastructure and inclusion signals to their owners.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes national accounts, inflation, banking, public finance, external sector and welfare measures.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies dated Economic Survey indicators and sector examples.
+
 > **Older PYQ integration:** [2018–2023 central index](../_PYQ-INDEX.md) and
 > [subject/topic residual audit](../PYQ-INTEGRATION-AUDIT-2018-2023.md). Routed questions
 > are integrated inside their owner files.
@@ -12,6 +25,8 @@
 > **Pre-exam revision:** [`REVISION-CHART_Mechanisms-Sectors-and-Distinctive-Features.md`](REVISION-CHART_Mechanisms-Sectors-and-Distinctive-Features.md)
 > compresses all 31 Core/Advanced pairs into one mechanism map, formula sheet,
 > sector framework, Prelims eliminator and GS-III answer structure.
+> **Map-location bank:** [`../GEOGRAPHY-MAP-LOCATION-BANK.md`](../GEOGRAPHY-MAP-LOCATION-BANK.md)
+> maps mineral, energy, industrial, port and trade-corridor locations.
 
 ---
 
@@ -55,7 +70,7 @@
 | 14 | Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture | Agriculture |
 | 15 | Food Processing, Cold Chains and Value Addition | Agriculture/industry |
 | 16 | Industrial Policy, 1991 Reforms, PSUs and Disinvestment | Industry |
-| 17 | MSMEs, PLI, Semiconductors and Manufacturing Strategy | Industry |
+| 17 | MSMEs, Startups, PLI, Semiconductors and Manufacturing Strategy | Entrepreneurship/industry |
 | 18 | Infrastructure, PPPs, Logistics and Public Investment | Infrastructure |
 | 19 | Balance of Payments, Exchange Rates and Forex Reserves | External sector |
 | 20 | Foreign Trade, WTO, FTAs and Protectionism | External sector |
@@ -123,6 +138,82 @@
 | 2022 GS-III Q12 | renewable-energy target and shift from fossil-fuel subsidies | `basic/31`; Environment Topic 25 support |
 | 2025 GS-I Q6 | ecological and economic benefits of solar-energy generation | `basic/31`; Environment Topic 25 and Geography support |
 | 2025 GS-III Q6 | energy independence through clean technology by 2047 and biotechnology's role | `basic/31`; Environment/S&T support |
+| 2026 GS-III Q12 | startups promoting entrepreneurship, innovation and employment; domestic/global challenges and reforms | `basic/17`, with optional `advanced/17` depth |
+| 2026 GS-III Q1 | Digital Rupee/CBDC working and progress (pilot architecture: e₹-Retail/e₹-Wholesale, offline/programmable features, BRICS-linkage proposal) | `basic/24` Section 13 (new 2026 answer spine), building on Section 5A |
 
 > **2026 status:** questions/answers are from the official UPSC **provisional** Series-A
 > key; retain that label until a final key is available.
+
+## Complete definitions and formula glossary
+
+Use
+[`_revision/Master-Definitions-and-Formula-Glossary.md`](_revision/Master-Definitions-and-Formula-Glossary.md)
+for the syllabus-wide dictionary and formula sheet. It includes GDP/GVA/GNI, nominal and real
+GDP, M0-M4, the simple and general money multipliers, inflation, banking ratios, Budget
+deficits, BoP, exchange rates, labour indicators, poverty, agriculture, markets, infrastructure,
+digital economy, climate finance and energy.
+
+## Major committees, commissions and reports
+
+Use
+[`_revision/Major-Committees-Commissions-and-Reports.md`](_revision/Major-Committees-Commissions-and-Reports.md)
+for the chair/year, assigned task, major contribution and UPSC route of important Economy
+panels. It covers monetary and banking reform, financial inclusion, taxation, fiscal policy,
+poverty, labour, agriculture, food management, disinvestment, insolvency, infrastructure,
+external-sector reform and energy.
+
+The cross-syllabus [`../LANDMARK-JUDGMENTS-INDEX.md`](../LANDMARK-JUDGMENTS-INDEX.md)
+contains the taxation, GST, RBI, insolvency, property, labour and economic-regulation case bank.
+
+The cross-syllabus [`../MAJOR-ACTS-INDEX.md`](../MAJOR-ACTS-INDEX.md) tracks banking,
+taxation, corporate, insolvency, labour, infrastructure and market-regulation statutes,
+including repeal and commencement transitions.
+
+The cross-syllabus [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
+maps economic forecasts, surveys, financial reports, official statistics and discontinued
+ranking traps.
+
+The cross-syllabus [`../INSTITUTIONS-AND-REGULATORS-INDEX.md`](../INSTITUTIONS-AND-REGULATORS-INDEX.md)
+maps monetary, financial, corporate, competition, insolvency, infrastructure and market bodies.
+
+The cross-syllabus [`../GOVERNMENT-SCHEMES-MATRIX.md`](../GOVERNMENT-SCHEMES-MATRIX.md)
+maps agriculture, employment, enterprise, financial-inclusion, infrastructure and energy schemes.
+
+The cross-syllabus [`../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md`](../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md)
+maps IMF, World Bank, WTO, development banks, financial standard-setters and trade groupings.
+
+The cross-syllabus [`../ENVIRONMENT-CONVENTIONS-AND-PROTOCOLS-INDEX.md`](../ENVIRONMENT-CONVENTIONS-AND-PROTOCOLS-INDEX.md)
+maps carbon markets, climate finance, technology transfer, biodiversity benefits and trade controls.
+
+## Physical-book reading index
+
+> **Inventory recorded as supplied:** Nitin Singhania - Economy.
+>
+> **Title/edition caution:** the exact book title and edition are not present in the local
+> library, so chapter numbers are not asserted. Match the headings below to the equivalent
+> chapter titles in the physical copy. The repository currently uses Ramesh Singh and the
+> Economic Survey as its source spine.
+
+| Physical-book topic | Priority | Knowledge route |
+|---|---|---|
+| National income, growth, development and poverty | **A** | Topics 01-02 and 23 |
+| Inflation, business cycles and unemployment | **A** | Topics 03 and 22 |
+| Money, RBI and monetary policy | **A** | Topic 04 |
+| Banking, NBFCs, NPAs, Basel and financial inclusion | **A** | Topics 05-06 |
+| Money/capital markets and financial instruments | **A** | Topics 07-08 |
+| Budget, fiscal policy, taxation, GST and Finance Commission | **A** | Topics 09-10 |
+| Agriculture, land reforms, irrigation, inputs and cropping | **A** | Topics 11 and 14 |
+| MSP, procurement, food security, PDS and agricultural markets | **A** | Topics 12-13 |
+| Food processing, livestock and allied activities | **A** | Topics 15 and 30 |
+| Industry, liberalisation, PSUs, disinvestment and MSMEs | **A** | Topics 16-17 |
+| Infrastructure, PPP, logistics and energy | **A** | Topics 18 and 31 |
+| Balance of payments, exchange rate, trade, WTO and FTAs | **A** | Topics 19-20 |
+| IMF, World Bank and other development banks | **B** | Topic 21 |
+| Services, digital economy, fintech and platforms | **A** | Topic 24 |
+| Climate economics and green finance | **B** | Topic 25 |
+| Current schemes, rankings, data and annual policy summaries | **C** | Topic 26 | Replace with the latest Economic Survey, Budget and official releases |
+| Agritech, subsidies and agricultural missions | **A** | Topics 27-29 |
+
+**Reading method:** concept and mechanism from the book -> current number/status from the
+Economic Survey or official source -> criticism and answer structure from the matching Core
+owner. Do not memorise undated figures from the physical book.

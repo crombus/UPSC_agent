@@ -452,6 +452,78 @@ remains uneven — therefore [qualified, directive-matching conclusion]."
 - ✅ Optional cross-reference: `Indian-Society/advanced/12_Social-Change-and-Modernisation.md`
   for a deeper societal-change treatment of the 2021 GS-I cryptocurrency demand; this Economy
   Core file (Section 5A) is independently sufficient for the instrument/economics dimension.
+
+## 13. 2026 GS-III Mains Q1 — Digital Rupee/CBDC working, pilot progress and operating architecture
+
+> **Exact 2026 question (GS-III, Q1, 10 marks, 150 words):** "What do you mean by Digital
+> Rupee? In this context, explain the working and progress of India's Central Bank Digital
+> Currency (CBDC)." **Provenance:** OCR of `books/mains/2026/QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`
+> (the file physically headed "GENERAL STUDIES (Paper III)"), verified against
+> `PYQ-MAINS-CA-CROSSCHECK-2026.md`. This section closes the audited **PARTIAL** verdict by
+> adding the pilot-architecture and progress layer that Section 5A (static CBDC-vs-crypto
+> concept) did not carry.
+
+- ✅ **Static concept (already owned in Section 5A, restated for the spine):** the digital
+  rupee (e₹) is the RBI's **Central Bank Digital Currency** — a direct RBI liability, legal
+  tender, held in a digital wallet separate from a bank account, and convertible **at par** (1
+  e₹ = ₹1) with cash and bank money. It differs from private cryptocurrency in issuer,
+  legal-tender status and value-backing (Section 5A).
+- ✅ **Two variants, one mechanism distinction:** the **e₹-Retail (CBDC-R)**, for consumer/
+  person-to-person and person-to-merchant payments, and the **e₹-Wholesale (CBDC-W)**, for
+  interbank/securities-settlement use, are architecturally distinct pilots with different
+  participant sets (retail: banks + end users; wholesale: banks + RBI for settlement) — do
+  not describe "the CBDC pilot" as a single undifferentiated programme.
+- ✅ **How a CBDC-R transaction works (the "working" the question asks for):** a user holds
+  e₹ in a digital wallet issued through a participating bank/PSP → a payment moves e₹
+  **directly from payer wallet to payee wallet** through RBI-authorised CBDC
+  infrastructure, in contrast to UPI, which sends instructions to move rupees
+  **between bank accounts**. The retail pilot is token-based, but do not assume
+  that every implementation uses a public blockchain or one fixed DLT design.
+  **Significance:** the wallet/token and central-bank-liability distinction is
+  the core of "explain the working."
+- 📰 **2026 pilot-progress layer (dated, do not treat as permanent):** RBI-led CBDC-R
+  adoption features reported through January-February 2026 coverage include **offline
+  payments** (NFC-based tap or scan-and-pay, for low/no-connectivity areas), **programmability**
+  (restricting e₹ use to a specified purpose — e.g., a government subsidy transfer that can
+  only be spent on the intended goods/service), and **fintech-wallet interoperability**
+  (non-bank fintech firms permitted to offer e₹ wallets, widening distribution beyond bank
+  apps alone). Source: Vajiram & Ravi *The Recitals*, January 2026, p. 54 (local extract);
+  verify the current pilot user/transaction count from the RBI's latest Monetary Policy
+  Report or Annual Report before citing a specific figure.
+- 📰 **Cross-border/BRICS dimension (2026, clearly dated):** the RBI has proposed **linking
+  BRICS members' CBDCs** to ease cross-border trade/tourism payments and reduce reliance on
+  the US dollar in that specific payment corridor; RBI has clarified this is **not** a
+  de-dollarisation campaign. All BRICS members are still at the **pilot stage**; none has a
+  full public CBDC launch. Source: Vajiram & Ravi *The Recitals*, January 2026, p. 53-54.
+  ⚠️ Treat this as a proposal/pilot-stage fact, not a completed interoperable system.
+- ✅ **Comparison chart — Digital Rupee (CBDC) vs UPI vs private cryptocurrency:**
+
+| Feature | Digital Rupee (e₹/CBDC) | UPI | Private cryptocurrency |
+|---|---|---|---|
+| Issuer | RBI (sovereign) | NPCI (payment-system operator; moves bank money) | No central issuer |
+| Legal tender | Yes | No (moves legal-tender rupees) | No |
+| What moves | Token itself, wallet-to-wallet | Instruction to move money between bank accounts | Token itself, on a public/permissioned ledger |
+| Value backing | At par with cash (1 e₹ = ₹1) | N/A (transfers existing bank-money value) | Market-determined; no sovereign backing |
+| Offline use | Being piloted (NFC/scan-and-pay) | Requires network/app connectivity | Varies by design |
+| Programmability | RBI can restrict end-use (e.g., subsidy) | Not natively programmable | Smart-contract-based on some chains |
+
+- ⚠️ **UPSC trap:** "CBDC pilots have fully replaced cash/UPI in India." → False; e₹ remains a
+  **limited-scale, parallel pilot** alongside cash and UPI, not a replacement — always qualify
+  scale/stage before claiming progress.
+- ⚠️ **UPSC trap:** "CBDC and UPI do the same thing, just with a different name." → Both are
+  digital payment rails, but UPI moves **existing bank-money** between accounts while CBDC
+  **is** the money, moving wallet-to-wallet as a direct central-bank liability — the
+  legal-tender/liability distinction, not "digital vs non-digital," is the tested axis.
+- **Exact 2026 answer spine (10 marks/150 words):** *Define* → e₹ is RBI's sovereign,
+  legal-tender CBDC, at-par with cash, held in a digital wallet (1-2 lines). *Working* →
+  wallet-to-wallet token transfer through authorised CBDC infrastructure,
+  distinct from UPI's account-to-account bank-money transfer; two variants,
+  CBDC-R (retail) and CBDC-W (wholesale) (2-3
+  lines). *Progress* → phased retail/wholesale pilots since 2022, with 2026 enhancements —
+  offline NFC payments, programmable subsidy transfers, fintech-wallet interoperability, and
+  a proposed BRICS CBDC-linkage for cross-border payments (3-4 lines, date-stamped). *Qualify*
+  → adoption remains pilot-scale and voluntary alongside cash/UPI, and interoperability
+  proposals are not yet operational (1-2 lines).
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 

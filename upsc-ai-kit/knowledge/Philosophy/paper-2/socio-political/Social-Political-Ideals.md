@@ -560,7 +560,91 @@ authority and political obligation remain cross-owned as stated above.
 - **Priority of liberty ✅:** basic liberties cannot be reduced for greater social or economic advantage.
 - **Priority within the second principle ✅:** fair equality of opportunity precedes the difference principle.
 
-#### 3.5.4 Reflective equilibrium
+#### 3.5.3A Why the lexical order is *necessary* — the argument in full
+
+Direct Core route for **2026 Q1(a)** — *"Why does Rawls consider it necessary that the two
+principles of justice be applied in lexical order? Explain."* §3.5.3 states the rules; this
+sub-section supplies the justification the stem asks for.
+
+**Doctrine statement.** ✅ **Lexical (serial) order** means the first principle must be satisfied
+**before** the second is applied at all, and fair equality of opportunity before the difference
+principle; a deficiency at an earlier position cannot be compensated by a gain at a later one. ⚠️
+The stem asks not *what* the order is but *why* Rawls thinks it necessary.
+
+**The argument, numbered**
+
+1. **To exclude aggregation.** ✅ Rawls's target is the utilitarian licence to trade one person's
+   liberty for a larger sum of advantage. Only a priority rule — not a weighting — blocks this
+   structurally.
+2. **Because the parties in the original position would choose it.** ✅ Behind the veil of ignorance
+   the parties do not know their conception of the good, so they will not gamble on the liberty
+   needed to revise and pursue **any** conception; they secure it first (§3.5.1).
+3. **To avoid intuitionism.** ✅ If the principles merely had to be "balanced", their application
+   would depend on the intuitions of whoever is balancing, and justice as fairness would lose
+   determinacy. Lexical order gives a **public, checkable** decision procedure.
+4. **Because self-respect is the most important primary good.** ✅ Equal basic liberties are the
+   institutional expression of equal citizenship; their curtailment injures self-respect in a way
+   that additional income does not compensate.
+5. **Because the priority is conditional on circumstances, not absolute in the abstract.** ✅ Rawls
+   holds the priority of liberty to apply once favourable conditions obtain — that is, once
+   material and educational conditions permit the effective exercise of basic liberties; under
+   severely unfavourable conditions the priority may be qualified.
+6. **Because fair equality of opportunity must precede the difference principle.** ✅ Otherwise
+   inequalities benefiting the least advantaged could be purchased at the cost of closed careers,
+   reintroducing status hierarchy through the back door.
+7. **For stability and publicity.** ⚠️ Citizens can only affirm principles over time if the
+   principles' application does not depend on contested case-by-case trade-offs; the order is part
+   of what makes justice as fairness publicly justifiable.
+
+**Presuppositions.** ✅ Persons have two moral powers — a sense of justice and a capacity for a
+conception of the good — and liberty is the condition of exercising them. ⚠️ Basic liberties form a
+**scheme**, so they may be adjusted against **one another**, but not against economic gains. ❓
+Whether "favourable conditions" can be specified non-arbitrarily is contested.
+
+**Comparison chart — three ways of relating the principles**
+
+| Axis | Utilitarian aggregation | Intuitionist balancing | Rawls's lexical order |
+|---|---|---|---|
+| **Can liberty be traded for welfare?** | ✅ yes, if the sum rises | ⚠️ sometimes, on judgment | ❌ no, under favourable conditions |
+| **Determinacy** | high, but morally unconstrained | low | high and constrained |
+| **Protection of minorities** | weak | unpredictable | strong |
+| **Basis** | maximising the sum | plural principles, no ordering | rational choice under the veil |
+| **Treatment of self-respect** | one good among others | contextual | the most important primary good |
+| **Main objection** | permits sacrifice of persons | no decision procedure | rigidity where the poor might prefer welfare to liberty |
+
+**Objections and replies.**
+**(i) The rigidity objection** — the very poor might rationally trade some liberty for subsistence.
+**Reply:** ✅ the priority holds under **favourable conditions**; Rawls himself allows qualification
+where conditions are severely unfavourable. **Residual:** ❓ the threshold is imprecise.
+**(ii) The abstraction objection** (communitarian) — the veil produces an unencumbered self.
+**Reply:** ⚠️ the veil is a device of representation for fairness, not a metaphysics of the person.
+**Residual:** ⚠️ the device still encodes liberal priorities.
+**(iii) The capability objection** (Sen) — primary goods ignore conversion differences.
+**Reply:** ⚠️ this challenges the currency of justice more than the ordering itself.
+
+**Traps (this stem only)**
+
+| ❌ Trap | ✅ Correction |
+|---|---|
+| Describing the two principles and stopping | the stem asks **why the order is necessary**; the justification is the answer |
+| Saying "liberty is more important" without argument | give the anti-aggregation, anti-intuitionist and self-respect arguments |
+| Calling the priority unconditional | ✅ it holds under favourable conditions |
+| Forgetting the **internal** priority | fair equality of opportunity precedes the difference principle |
+| Treating lexical order as a tie-breaker | it is a **serial** rule: the later principle applies only after the earlier is satisfied |
+
+**Answer spine — 10 marks (~150 words, the 2026 format).** State the rule in one line → the
+anti-aggregation reason → the original-position choice reason → the anti-intuitionism/determinacy
+reason → self-respect → the internal priority → one-line conditionality caveat and verdict.
+
+**Exact 2026 PYQ route:** 2026 Q1(a) [10] → §3.5.3A, with §3.5.1, §3.5.2 and §3.5.3.
+
+**Sources for §3.5.3A:** John Rawls, *A Theory of Justice* (**1971**; revised edition **1999**) and
+*Political Liberalism* (**1993**), cited by title and year only;
+[Stanford Encyclopedia of Philosophy, "John Rawls"](https://plato.stanford.edu/entries/rawls/) and
+["Original Position"](https://plato.stanford.edu/entries/original-position/). ⚠️ Paraphrased
+throughout; no verbatim passage is reproduced.
+
+
 **Statement ✅:** Justification involves **reflective equilibrium**—mutual adjustment between general principles and considered judgments.
 
 - **Argument ✅:** Political philosophy should neither start from raw intuitions alone nor impose principles insensitive to our firm moral judgments.
@@ -866,6 +950,17 @@ See §2.4. The debate turns on whether order, rights, or collective autonomy is 
 | 2025 | Q4(a) | 20 | How are both equality and liberty inadequate as social and political ideals without justice? Discuss. |
 
 See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025.md).
+
+### 8A. 2026 additions (official paper, Section A)
+
+| Year | Question | Marks | Exact demand | Core route in this file |
+|---|---|---:|---|---|
+| 2026 | Q1(a) | 10 | Why does Rawls consider it necessary that the two principles of justice be applied in lexical order? Explain. | §3.5.3A, with §3.5.1–§3.5.3 |
+| 2026 | Q3(c) | 15 | Negative liberty seems to embody the idea of ultimate personal freedom, whereas positive liberty enables individuals to achieve their full potential. Discuss. | §2.2, §2.5 and §2.8 — pre-existing coverage, no new section required |
+
+See the [2026 Socio-Political PYQ Supplement](../_PYQ-SocioPolitical-2026-Supplement.md) for the
+full 2026 Section-A routing ledger.
+
 
 ## 9. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 

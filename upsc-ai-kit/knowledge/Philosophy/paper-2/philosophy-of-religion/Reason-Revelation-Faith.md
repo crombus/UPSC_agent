@@ -2,7 +2,7 @@
 
 > **Syllabus (verbatim):** Reason, Revelation and Faith.
 > **Evidence key:** ✅ canonical doctrine/fact · ⚠️ analytical synthesis for exam use · ❓ contested/uncertain · 📰 dated current anchor only
-> **Placement:** The clause asks how rational warrant, divine disclosure, and existential trust cooperate or conflict. PYQ routing below covers the fully audited 2018–2025 Paper II bank.
+> **Placement:** The clause asks how rational warrant, divine disclosure, and existential trust cooperate or conflict. PYQ routing below covers the fully audited 2018–2026 Paper II bank.
 
 ## Exact printed ownership and cross-topic firewall
 
@@ -18,6 +18,7 @@ committed reception and Indian–Western comparison.
 | competing revelations as an authentication/diversity defeater | complete pluralist theories and absolute-truth debate remain with [Religious Pluralism](./Religious-Pluralism.md) |
 | miracles and testimony only as support for revelation-claims | miracle metaphysics and empirical history are not allowed to replace epistemic analysis |
 | Indian testimony, scripture, reason and verification | complete Mīmāṃsā, Nyāya, Vedānta and Buddhist epistemologies remain with Paper I owners |
+| **Tillich's faith as ultimate concern, and its account of doubt and reason** (2026 Q5(c)) | **Tillich's theory of religious *symbols* remains with [Religious Language](./Religious-Language.md)**; symbol theory enters here only to explain why every concrete content of faith stays fallible |
 
 ⚠️ Faith is not simply belief without evidence; revelation is not any intense
 experience; and reason includes probabilistic, interpretive, critical and
@@ -150,6 +151,7 @@ circular unless independent testimony, coherence or other defeasible support is 
 9. **[Reason regulative]** "Can reason be a regulative force in forming religious beliefs?" (2021, 20m) → §1 + §9.1 + §9.9 — *regulative* ≠ *constitutive*; reason can veto and discipline without generating.
 10. **[Rational/irrational]** "Rational and irrational aspects of faith." (2023, 15m) → §9.5 — insist on *supra-rational* as a third category.
 11. **[Miracles]** "Can testimony establish a miracle?" → §9.8.
+12. **[Tillich]** "How does faith as ultimate concern address faith, doubt and reason?" (2026, 10m) → §9.10 — the **three doubts** chart is the discriminator; do not import symbol theory.
 
 ---
 
@@ -354,6 +356,124 @@ Concl : yes — but justification is internal to a doxastic practice, which relo
 
 
 
+### 9.10 Tillich: faith as ultimate concern — faith, doubt and reason (2026 Q5(c) — **primary owner**)
+> ✅ **Ownership note.** Tillich's theory of *religious symbols* (2021 Q8(c), 2023 Q7(c), 2025 Q5(b)) stays with [Religious Language §on symbol](./Religious-Language.md). The **faith / doubt / reason** triad printed in 2026 Q5(c) is an epistemology-of-faith demand, so this file is the primary owner and carries the full dossier. Symbol theory enters here only as the reason why the *content* of faith is always fallible.
+> 📖 **Text base.** Paul Tillich, *Dynamics of Faith* (1957), chs. I–III and V–VI. Free full text: <https://www.religion-online.org/book/dynamics-of-faith/>.
+
+- **Doctrine statement.** ✅ Tillich's opening sentence is the whole definition: **"Faith is the state of being ultimately concerned: the dynamics of faith are the dynamics of man's ultimate concern."** Faith is therefore *not* assent to poorly evidenced propositions; it is the **orientation of a whole existing person toward whatever functions for that person as unconditional**. (*Dynamics of Faith*, ch. I §1 — <https://www.religion-online.org/book-chapter/what-faith-is/>)
+
+**The argument, in numbered steps** ✅ (this is the sequence to reproduce under exam pressure)
+
+1. **Formal analysis of "ultimate concern."** Humans have many concerns; a concern is *ultimate* when it (i) makes an **unconditional demand**, (ii) requires the **sacrifice or subordination of every other concern**, (iii) promises **total fulfilment**, and (iv) **threatens exclusion** from that fulfilment. Tillich derives the term from Deuteronomy 6:5 — love God "with all your heart, and with all your soul, and with all your might."
+2. **Faith is a centred act.** It "happens in the center of the personal life and includes all its elements" — intellect, will, emotion and the unconscious all participate, but faith is *not* the product of any single faculty. It is therefore misdescribed by any theory that locates it in one faculty alone.
+3. **Subject and object are united in it.** "Ultimate concern" names both the **act** by which one believes (*fides qua creditur*) and the **content** toward which the act is directed (*fides quae creditur*). In genuine faith the ordinary subject–object cleavage is transcended — the act is **ecstatic**, but the person does not cease to be a person.
+4. **The formal structure does not guarantee true content.** A nation, success, a race or an ideology can occupy the structural place of the ultimate. Tillich's own examples are the "extreme nationalisms of our century" and the Western worship of "success". Such faith is **idolatrous**: a finite bearer is elevated to ultimacy, and the inescapable consequence is "**existential disappointment**" and the **disruption of the personality** it was supposed to centre.
+5. **Therefore doubt is intrinsic — but only one kind of doubt.** Every concrete faith attaches ultimacy to some determinate content grasped by a finite person; that attachment may be wrong. Hence: **"If faith is understood as belief that something is true, doubt is incompatible with the act of faith. If faith is understood as being ultimately concerned, doubt is a necessary element in it."** The certainty that one *is* ultimately concerned is immediate; certainty that *this* concrete content is truly ultimate is never available. "**A god disappears; divinity remains.**"
+6. **The doubt is carried by courage, not suppressed.** "Faith includes courage. Therefore, it can include the doubt about itself." Doubt is **structural, not occurrent** — "not a permanent experience within the act of faith… but always present as an element in the structure of faith". Consequently "**serious doubt is confirmation of faith**", because it shows the concern is unconditional; and suppression of doubt is the mechanism of **fanaticism**.
+7. **Reason must first be disambiguated.** ⚠️ Tillich distinguishes **technical reason** (scientific method, logical strictness, calculation — it "provides for means but not for ends") from **ontological/creative reason** ("the humanity of man… the basis of language, of freedom, of creativity"). Almost every alleged faith–reason conflict trades on the first sense while the doctrine of faith requires the second.
+8. **On the second sense, faith and reason are mutually implicated.** ✅ **"Reason is the precondition of faith; faith is the act in which reason reaches ecstatically beyond itself."** And: "Reason is the presupposition of faith, and faith is the fulfilment of reason. Faith as the state of ultimate concern is **reason in ecstasy**." Ecstasy is therefore "**fulfilled, not denied, rationality**"; only a being with the structure of reason *can* distinguish ultimate from preliminary concerns at all.
+9. **Hence the anti-fideist limit.** ✅ **"A faith which destroys reason destroys itself and the humanity of man."** Tillich names religious and political **authoritarianism** as the systems that draw the opposite conclusion. Actual conflict, he says, is never between faith as such and reason as such; it is between **distorted reason** and **idolatrous faith**.
+10. **The three reductions Tillich rejects.** ✅ (*Dynamics of Faith*, ch. II, "What Faith Is Not" — <https://www.religion-online.org/book-chapter/ii-what-faith-is-not/>) Faith is **not** (a) a **weak form of knowledge** held on low evidence; (b) an act of **will** producing belief on command (against the voluntarist reading of the will-to-believe); (c) mere **feeling**, which would leave faith without content or claim. Each reduction misplaces faith inside one faculty, contradicting step 2.
+11. **Why the content must be symbolic.** ✅ (ch. III — <https://www.religion-online.org/book-chapter/iii-symbols-of-faith/>) Because the ultimate infinitely transcends every finite vehicle, it can be expressed only by **symbols**, which (i) point beyond themselves, (ii) **participate** in what they symbolise, (iii) open levels of reality and of the soul otherwise closed, and (iv) are **born and die** historically rather than being invented. "God" is the fundamental symbol of ultimate concern — hence Tillich's deliberately shocking formula that **God is the symbol for God**.
+12. **The life of faith retains both poles.** ✅ (ch. VI §1 — <https://www.religion-online.org/book-chapter/vi-the-life-of-faith/>) Faith lives from **participation** in the ultimate, which yields certainty, and from **separation** as a finite being, which yields doubt; no finite faith can eliminate either pole.
+
+- **Presuppositions to name in an "evaluate" answer.** ⚠️ (i) That every person in fact has *some* ultimate concern, so "faith" has no genuine outside; (ii) that the ultimate is **not one being among beings**, so no finite object and no proposition can be identical with it; (iii) that reason in the ontological sense is **self-transcending**, capable of being grasped without being abolished; (iv) that religious cognition works by **symbolic participation**, not literal reference.
+
+**Objections → replies** ⚠️
+
+| # | Objection | Reply | Residue an examiner rewards |
+|---|---|---|---|
+| 1 | **Definition too broad** — if nationalism and success count as faith, "faith" collapses into "any intense commitment" | Not every strong preference is ultimate: it must demand **unconditional** surrender, promise **total** fulfilment, and **centre the whole personality**. The breadth is deliberate — it exposes secular idolatries | The criterion is structural, so it also cannot rule out an idolatrous content in advance — which is why step 4 is needed |
+| 2 | **Relativism** — if every content is symbolic and doubtful, no faith can be true | Separate the **certainty of ultimacy** from the **fallibility of the concrete symbol**; symbols are judged by whether they stay transparent to the ultimate or claim ultimacy for themselves | Tillich supplies a criterion of *idolatry*, not a criterion of *which* revelation is true |
+| 3 | **Insulation from science** — the "different dimensions" thesis makes faith unfalsifiable | Tillich pays the price both ways: faith may not dictate scientific facts, and science becomes quasi-religious when methodological naturalism is inflated into an ultimate metaphysics | Historical religious claims cannot always be cleanly separated from empirical evidence; the cost is real |
+| 4 | **Doubt as a virtue dissolves commitment** | Doubt is *structural*, not occurrent; it is accepted by courage and coexists with "restful affirmative confidence" | The theory describes a **structure**, not a state of mind — Tillich says this explicitly |
+| 5 | **Is this still theism?** "God is the symbol for God" appears to dissolve the personal God | The experienced element of **unconditionality** is affirmed; what is denied is that any finite conceptual image exhausts it | Critics (both traditional theists and naturalists) read it as *non-theistic* — say that the charge comes from both sides |
+
+**Comparison chart A — the three doubts (the discriminator the 2026 stem is testing)** ✅
+
+| Doubt | What it targets | Where it belongs | Relation to faith |
+|---|---|---|---|
+| **Methodological** (scientific) | particular propositions, theories, conclusions | empirical inquiry and logical deduction; "the lifeblood of scientific research" | legitimate and permanent, but **not** the doubt intrinsic to faith |
+| **Sceptical** | the possibility of any certainty; an *attitude*, not an assertion | a stance that "cannot be refuted logically" because it makes no claim | tends to despair or cynicism; yet "the serious skeptic is not without faith" — truth remains his infinite passion |
+| **Existential** | whether *my* concrete ultimate concern is truly ultimate | inside the act of faith itself | **intrinsic**; accepted by courage; "existential doubt and faith are poles of the same reality" |
+
+> 🔑 **Mnemonic — "M-S-E: only E is inside."** Methodological and Sceptical doubt stand *outside* faith; only **E**xistential doubt is a structural element *of* it. Writing "Tillich says all doubt is part of faith" loses the question.
+
+**Comparison chart B — Tillich against the four stances already in §4** ⚠️
+
+| Thinker | What faith is | Reason's status | Doubt's status | Failure mode guarded against |
+|---|---|---|---|---|
+| **Aquinas** | intellectual assent to revealed truth, commanded by will under grace | establishes the *preambles*; cannot reach the *mysteries* | doubt is a defect; faith has "firmness without vision" | rationalism and fideism both |
+| **Kierkegaard** | passionate inward appropriation under objective uncertainty | cannot generate or replace the decision | uncertainty is the medium of the leap | speculative complacency |
+| **Clifford / evidentialism** | assent proportioned to evidence | sole arbiter | doubt is the correct default when evidence is short | credulity |
+| **Plantinga** | properly basic belief, warranted by proper function | not the sole arbiter; classical foundationalism is self-refuting | doubt enters as a **defeater** to be met | evidentialist over-reach |
+| **Tillich** | the state of being ultimately concerned — a centred, ecstatic act | **precondition** of faith; faith is reason in ecstasy, not against it | **intrinsic** element, carried by courage | fanaticism *and* rationalist reduction simultaneously |
+
+**Comparison chart C — Indian parity (mandatory for a parity mark)** ⚠️
+
+| Issue | Tillich | Indian analogue | Precise relation |
+|---|---|---|---|
+| Faith as orientation of the whole person | ultimate concern; centred act | ***śraddhā*** (Gītā 17.2–3: "as is one's *śraddhā*, so is one") — a constitutive disposition, not a low-grade belief | ✅ **Close parallel**: both treat faith as what a person *is*, not what a person guesses |
+| Doubt inside commitment | existential doubt is structural | Buddhist ***saddhā*** is **verification-directed**: the *Kālāma Sutta* (AN 3.65) invites testing, and *vicikicchā* (doubt) is a fetter only as paralysis | ⚠️ **Near, not identical**: Indian traditions expect doubt to be *resolved* by realisation; Tillich says it is never removed for a finite believer |
+| Reason's role | precondition; faith is its ecstatic fulfilment | Advaita's ***manana*** (reasoning on what is heard) between *śravaṇa* and *nididhyāsana*; *tarka* is auxiliary, never independently probative | ✅ Both subordinate reason without eliminating it |
+| Finitude of every image of the ultimate | "God is the symbol for God" | ***Nirguṇa* Brahman**; *neti neti* (Bṛhadāraṇyaka 2.3.6); *anirvacanīyatā* | ✅ The strongest available comparison — but note Tillich reaches it from **existential analysis**, Advaita from **scriptural exegesis plus non-dual experience** |
+| Idolatry critique | finite bearer absolutised → existential disappointment | Cārvāka's attack on priestcraft; the Buddha's rejection of ritual efficacy; Kabīr and Nānak against ritualism | ⚠️ Indian critiques are mostly of **practice**; Tillich's is a **structural** critique of any absolutised finite |
+
+**Traps specific to this dossier** ⚠️
+1. Do **not** write "for Tillich, God is the ultimate concern." The definition is that **faith** is the state of ultimate concern; "God" is the fundamental **symbol** of its content.
+2. Do **not** say Tillich makes faith irrational or "above reason" in a sense that violates reason — the printed line is that a faith which destroys reason destroys itself.
+3. Do **not** flatten the three doubts (chart A).
+4. Do **not** treat "ultimate concern" as praise. It is a **structural** notion: idolatrous faith satisfies it too, which is exactly how Tillich criticises nationalism and success-worship.
+5. Do **not** confuse the two senses of reason. The "conflict" disappears only on the **ontological** sense; on the technical sense faith supplies no scientific claims at all.
+6. Do **not** assimilate Tillich to Kierkegaard. Both reject propositional reduction, but Kierkegaard's *leap* is against objective reason while Tillich's *ecstasy* is reason's fulfilment.
+7. ❓ Do not quote Tillich in invented wording — the five safe verbatim lines are in §18.
+
+**Answer spines** ⚠️
+
+*10 marks (the printed 2026 demand — "Evaluate")*
+```text
+Define: faith = state of being ultimately concerned (not low-evidence belief) →
+structure of ultimate concern (unconditional demand + total promise + centring) →
+doubt: distinguish methodological / sceptical / EXISTENTIAL; only the third is intrinsic;
+  carried by courage; "serious doubt is confirmation of faith" →
+reason: technical vs ontological; "reason is the precondition of faith; faith is reason
+  in ecstasy"; "a faith which destroys reason destroys itself" →
+evaluation, two-sided: gains an internal critique of fanaticism and of idolatry
+  (nationalism, success) + one line of cost (breadth of the definition / symbolic
+  content leaves the truth-question underdetermined) →
+verdict: Tillich integrates the triad by relocating faith outside the belief-evidence
+  axis altogether; the integration is purchased by making every concrete content fallible.
+```
+
+*15 marks*
+```text
+Add: the centred-act analysis and fides qua/fides quae → the true/idolatrous distinction
+with "existential disappointment" → the three rejected reductions (knowledge / will /
+feeling) → symbol theory as the reason for content-fallibility → one Indian parity row
+(śraddhā, or nirguṇa Brahman for the symbol point) → two objections with replies →
+graded verdict.
+```
+
+*20 marks*
+```text
+Full four-part architecture:
+(1) the definition and its formal structure;
+(2) doubt — the three-way distinction, courage, structure-vs-state;
+(3) reason — the two senses, precondition/ecstasy, the anti-authoritarian limit,
+    faith and science on different dimensions;
+(4) assessment — place Tillich against Aquinas, Kierkegaard, Clifford and Plantinga
+    (chart B), run the breadth / relativism / insulation objections with replies,
+    add the Indian parity bench (chart C), and close with a qualified verdict that
+    names what the theory buys and what it costs.
+```
+
+- **2026 PYQ route.** ✅ **Q5(c), 10 marks:** "How does Paul Tillich's idea of faith as ultimate concern address the relation between faith, doubt and reason? Evaluate." → **this module**, 10-mark spine. **Reworded-variant routes:** "Is doubt compatible with faith?" → steps 5–6 + chart A; "Is faith irrational?" → steps 7–9 + chart B; "Can faith be defined without God?" → steps 1–4 + trap 1, with a cross-link to [Religion without God](./Religion-without-God.md); "Explain religious symbols in Tillich" → route **out** to [Religious Language](./Religious-Language.md).
+- **Verdict formula.** ⚠️ "Tillich resolves the triad by refusing its usual terms: faith is not a belief competing with reason for the same evidential territory, so doubt is not its enemy but its structural companion and reason is its precondition. The resolution is genuine and supplies a powerful internal critique of fanaticism; its cost is that every *concrete* content of faith — including 'God' — becomes a fallible symbol, which secures the relation between faith, doubt and reason at the price of leaving the truth of any particular faith undetermined."
+
+**Sources for this module** ✅ Paul Tillich, *Dynamics of Faith* (New York: Harper, 1957), ch. I §§1–5 <https://www.religion-online.org/book-chapter/what-faith-is/>; ch. II <https://www.religion-online.org/book-chapter/ii-what-faith-is-not/>; ch. III <https://www.religion-online.org/book-chapter/iii-symbols-of-faith/>; ch. V §1 <https://www.religion-online.org/book-chapter/v-the-truth-of-faith/>; ch. VI §1 <https://www.religion-online.org/book-chapter/vi-the-life-of-faith/>. Secondary overview with 2001-edition page references: Boston University, Wildman's Tillich resources <https://people.bu.edu/wwildman/tillich/resources/review_tillich-paul_dynamics_of_faith.htm>. General background on the epistemology of faith: *Stanford Encyclopedia of Philosophy*, "Faith" <https://plato.stanford.edu/entries/faith/>.
+
+
+
 ## 10. INTER-THINKER / INTER-SCHOOL DEBATES
 
 | Position | Reason | Revelation | Faith | Main risk |
@@ -368,6 +488,7 @@ Concl : yes — but justification is internal to a doxastic practice, which relo
 | Reformed epistemology (Plantinga) | ⚠️ Not the sole arbiter | May be received basically | Properly basic, warranted, **defeasible** | Religious diversity as a defeater |
 | Alston | ✅ Critical, non-foundationalist | Mediated in practice | Rational participation in a doxastic practice | Circularity shared with sense perception |
 | Barbour's typology | ✅ Model-dependent | Model-dependent | Model-dependent | Descriptive, not normative |
+| Tillich | ✅ Ontological reason is faith's **precondition**; faith is "reason in ecstasy" | A revelatory event that renews both faith and reason | The state of being **ultimately concerned**; existential doubt intrinsic | Breadth of the definition; symbolic content leaves truth underdetermined |
 
 ## 11. CRITICISMS AND REPLIES
 
@@ -391,12 +512,17 @@ Concl : yes — but justification is internal to a doxastic practice, which relo
 11. ⚠️ Do not present Clifford's maxim without James's reply, or James's reply without its restriction to **living, forced and momentous** options where evidence is genuinely inconclusive.
 12. ⚠️ Do not say Plantinga claims God's existence is self-evident. He claims theistic belief can be **properly basic** — grounded, warranted and **defeasible** — and that classical foundationalism is self-referentially incoherent.
 13. ⚠️ When comparing, use the exact Indian analogues: Mīmāṃsā's *svataḥ-prāmāṇya* ≈ proper basicality; Nyāya's *parataḥ-prāmāṇya* ≈ evidentialism. Do not assert a looser parallel.
+14. ⚠️ Do not write "God is the ultimate concern" for Tillich. **Faith** is the state of ultimate concern; "God" is the fundamental **symbol** of its content — Tillich's own formula is that God is the symbol for God.
+15. ⚠️ Do not say Tillich makes all doubt intrinsic to faith. Only **existential** doubt is; methodological and sceptical doubt are separately defined and lie outside the act of faith.
+16. ⚠️ Do not present Tillich as a fideist. "A faith which destroys reason destroys itself and the humanity of man"; ecstasy is *fulfilled*, not denied, rationality.
+17. ⚠️ Do not use "ultimate concern" as a term of praise. It is structural — nationalism and success-worship satisfy it, which is precisely how Tillich diagnoses **idolatrous faith**.
+18. ⚠️ Do not answer a Tillich *faith* question with Tillich's *symbol* theory. Symbols belong to [Religious Language](./Religious-Language.md); they enter here only to explain why every concrete content is fallible.
 
 ## 13. KEYWORD & STATEMENT BANK
 
-**Keywords:** ✅ natural theology · revealed theology · preambles of faith · mystery · propositional/non-propositional revelation · testimony · inspiration · *apauruṣeya* · *śabda* · *pratyakṣa*/*anumāna* · *svataḥ-prāmāṇya*/*parataḥ-prāmāṇya* · intellectual assent · *fides qua*/*fides quae* · will · grace · motives of credibility · evidentialism · ethics of belief · presumption of atheism · living/forced/momentous option · Reformed epistemology · properly basic belief · classical foundationalism · warrant · proper function · *sensus divinitatis* · Great Pumpkin objection · doxastic practice · defeater · fideism · objective uncertainty · experiencing-as · ultimate concern · *śraddhā* · *saddhā* · *śravaṇa* · *manana* · *nididhyāsana* · conflict/independence/dialogue/integration · NOMA · warfare thesis · boundary questions · miracle · violation of a law of nature · non-repeatable counter-instance · principle of credulity · *siddhi*/*vibhūti*.
+**Keywords:** ✅ natural theology · revealed theology · preambles of faith · mystery · propositional/non-propositional revelation · testimony · inspiration · *apauruṣeya* · *śabda* · *pratyakṣa*/*anumāna* · *svataḥ-prāmāṇya*/*parataḥ-prāmāṇya* · intellectual assent · *fides qua*/*fides quae* · will · grace · motives of credibility · evidentialism · ethics of belief · presumption of atheism · living/forced/momentous option · Reformed epistemology · properly basic belief · classical foundationalism · warrant · proper function · *sensus divinitatis* · Great Pumpkin objection · doxastic practice · defeater · fideism · objective uncertainty · experiencing-as · ultimate concern · centred act · unconditional demand · idolatrous faith · existential disappointment · methodological/sceptical/**existential** doubt · courage · structure vs state · technical reason vs ontological reason · reason in ecstasy · symbol that participates · "God is the symbol for God" · *śraddhā* · *saddhā* · *vicikicchā* · *śravaṇa* · *manana* · *nididhyāsana* · conflict/independence/dialogue/integration · NOMA · warfare thesis · boundary questions · miracle · violation of a law of nature · non-repeatable counter-instance · principle of credulity · *siddhi*/*vibhūti*.
 
-**Safe formulations:** ⚠️ "Faith may go beyond coercive proof without going against reason." · "Revelation requires both an alleged disclosure and a warranted mode of reception." · "Faith is not a weaker belief; it is a different act, of which belief is one component." · "Hume raised the evidential bar for miracles; he did not show it unclearable." · "The evidentialist standard, applied strictly, disqualifies far more than religion."
+**Safe formulations:** ⚠️ "Faith may go beyond coercive proof without going against reason." · "Revelation requires both an alleged disclosure and a warranted mode of reception." · "Faith is not a weaker belief; it is a different act, of which belief is one component." · "Hume raised the evidential bar for miracles; he did not show it unclearable." · "The evidentialist standard, applied strictly, disqualifies far more than religion." · "For Tillich doubt is not the enemy of faith but its structural companion, because the believer is finite and the concrete content may not be ultimate." · "Conflict arises between distorted reason and idolatrous faith, not between faith and reason as such."
 
 <!-- expanded-pyq-depth:start -->
 ### CORPUS-DRIVEN DEPTH DELTA (expanded PYQ audit)
@@ -407,9 +533,9 @@ Concl : yes — but justification is internal to a doxastic practice, which relo
 
 <!-- expanded-pyq-depth:end -->
 
-## 14. PYQ ROUTING (2018–2025)
+## 14. PYQ ROUTING (2018–2026)
 
-> ⚠️ **Corpus signal:** 11 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 11 primary-owned question-parts out of 112 across 2018–2025, plus **2 more in 2026** (13 of 126). The local Paper II corpus is continuous from 2018 through 2026. Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -424,8 +550,10 @@ Concl : yes — but justification is internal to a doxastic practice, which relo
 | 2024 | Q7(b) | 15 marks | What kind of epistemic justifications are possible with regard to claims to revelation? Discuss with your own comments. |
 | 2025 | Q5(e) | 10 marks | How does Aquinas’ account of Faith as “an intellectual assent” reconcile the juxtaposition between Reason and Faith? Discuss. |
 | 2025 | Q6(c) | 15 marks | Distinguish between Natural Theology and Revealed Theology in the context of the Propositional view of Revelation. |
+| **2026** | **Q5(c)** | **10 marks** | How does Paul Tillich's idea of faith as ultimate concern address the relation between faith, doubt and reason? Evaluate. → **§9.10** |
+| **2026** | **Q5(e)** | **10 marks** | "If religion were a subject of reason alone, it would have lacked an experiential account." Do you agree with this statement? Give reasons in support of your answer. → **§1 + §9.1 + §9.6**, with a bounded cross-link to [Religious Experience](./Religious-Experience.md) |
 
-See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md).
+See the [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md) and the [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md).
 
 ## 15. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)
 
@@ -501,6 +629,13 @@ Indian–Western comparison → defended synthesis.
 | Gītā 17.2–3 on *śraddhā* | ✅ Verified chapter/verse | "As is one's *śraddhā*, so is one" — paraphrase |
 | *Kālāma Sutta* (AN 3.65), *Kevaddha Sutta* (DN 11) | ✅ Verified nikāya references | Paraphrase; do not quote a translation as canonical |
 | *Yoga-sūtra* 3.37 on *siddhis* as obstacles | ✅ Verified sūtra | The key Indian anti-miracle datum |
+| "Faith is the state of being ultimately concerned" | ✅ **Tillich**, *Dynamics of Faith*, ch. I §1 | The definition; quote it as the opening line of any Tillich answer |
+| "If faith is understood as being ultimately concerned, doubt is a necessary element in it" | ✅ *Dynamics of Faith*, ch. I §5 | Pair it with the preceding clause about faith as belief-that, or the contrast is lost |
+| "A god disappears; divinity remains" / "serious doubt is confirmation of faith" | ✅ *Dynamics of Faith*, ch. I §5 | Short, safe, high-value |
+| "Reason is the precondition of faith; faith is the act in which reason reaches ecstatically beyond itself" | ✅ *Dynamics of Faith*, ch. V §1 | The anti-fideist line; "faith is reason in ecstasy" is the same passage |
+| "A faith which destroys reason destroys itself and the humanity of man" | ✅ *Dynamics of Faith*, ch. V §1 | Verbatim; do not paraphrase into "faith needs reason" |
+| *Fides qua creditur* / *fides quae creditur* in Tillich | ✅ *Dynamics of Faith*, ch. I §3 | Tillich uses the classical pair for the subjective/objective sides of ultimate concern |
+| "God is the symbol for God" | ✅ *Dynamics of Faith*, ch. III | Deliberately paradoxical; explain before quoting, or it reads as atheism |
 
 
 
@@ -517,6 +652,7 @@ Indian–Western comparison → defended synthesis.
 - [Paper I: Existentialism](../../paper-1/western/Existentialism.md) — Kierkegaard's leap
 - [Paper I: Kant](../../paper-1/western/Kant.md) — the limits of speculative reason
 - [Philosophy of Religion PYQ Bank, 2018–2025](../_PYQ-PhilosophyOfReligion-2018-2025.md)
+- [2026 Paper II Section B PYQ Supplement](../_PYQ-PhilosophyOfReligion-2026-Supplement.md) — full routing of all fourteen 2026 Section B parts
 
 ## SOURCES
 
@@ -527,6 +663,15 @@ Indian–Western comparison → defended synthesis.
 - Alvin Plantinga, "Reason and Belief in God" and *Warranted Christian Belief*; William Alston, *Perceiving God*.
 - Ian Barbour, *Religion and Science*; Stephen Jay Gould, *Rocks of Ages*; John Haught, *Science and Religion*.
 - Wilfred Cantwell Smith, *Faith and Belief*; Paul Tillich, *Dynamics of Faith*.
+- Paul Tillich, *Dynamics of Faith* (1957) — free full text, chapter by chapter:
+  <https://www.religion-online.org/book/dynamics-of-faith/> (ch. I "What Faith Is"
+  <https://www.religion-online.org/book-chapter/what-faith-is/>; ch. II "What Faith Is Not"
+  <https://www.religion-online.org/book-chapter/ii-what-faith-is-not/>; ch. III "Symbols of Faith"
+  <https://www.religion-online.org/book-chapter/iii-symbols-of-faith/>; ch. V "The Truth of Faith"
+  <https://www.religion-online.org/book-chapter/v-the-truth-of-faith/>; ch. VI "The Life of Faith"
+  <https://www.religion-online.org/book-chapter/vi-the-life-of-faith/>).
+- *Stanford Encyclopedia of Philosophy*, "Faith" <https://plato.stanford.edu/entries/faith/>, for the
+  contemporary taxonomy of faith-models against which Tillich's is placed.
 - John Hick, *Philosophy of Religion*.
 - Mīmāṃsā, Nyāya and Vedānta discussions in S. C. Chatterjee & D. M. Datta and C. D. Sharma.
 - Local searchable John Hick, *Philosophy of Religion*, print pp. 56–64

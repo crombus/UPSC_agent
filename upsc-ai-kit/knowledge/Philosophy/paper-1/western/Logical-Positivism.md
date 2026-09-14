@@ -285,6 +285,8 @@ Historical statements are assessed through present records and causal traces; ot
 
 Theoretical terms need not correspond one-to-one with a single observation. They gain empirical significance through laws, auxiliary assumptions and consequences of a theory-network. This movement from verification toward confirmation and system-level testing repairs scientific practice but loosens the original sharp meaning criterion.
 
+> ⚠️ **Paired-owner cross-link — the metalanguage hierarchy (2026 Q4(a) and Q4(c)).** The Circle's "unified language of science" and Carnap's logical-syntax programme presuppose the **object-language/metalanguage** distinction that Russell first floated, in his 1922 Introduction to the *Tractatus*, as a way round Wittgenstein's claim that a language cannot state its own structure. The full treatment — the picture-theoretic reason for the limit, Russell's L₁/L₂/L₃ proposal and his own reservations, Tarski's later formalisation, and the argued verdict that the hierarchy meets the formal but not the transcendental difficulty — is owned by [`Moore-Russell-EarlyWittgenstein.md`](Moore-Russell-EarlyWittgenstein.md) §6.7. ❌ Do not equate Wittgenstein's *unsayable-but-shown* with the positivists' *cognitively meaningless*; §1.6 already records what the Circle took from the *Tractatus* and what it added.
+
 ---
 
 ## P. THE PROTOCOL-SENTENCE DEBATE ✅ (Schlick vs Neurath, 1932–35) — positivism's internal crisis
@@ -550,6 +552,14 @@ Ryle/Austin-style and later-Wittgensteinian criticism asks whether a sentence's 
 
 See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
 
+### 2026 additions ✅
+
+| Year | Question | Marks | Exact demand | Owner status |
+|---|---|---:|---|---|
+| 2026 | Q4(c) | 15 marks | How did the logical positivists try to make philosophy a handmaid to science and establish a unified language of science? Why did their project fail? Discuss. | **primary** — §1.5, §2.2, §3.6, §P, §C for the programme; §4.1–4.5 for the failure |
+
+See the [Western Philosophy PYQ Bank, 2026](../_PYQ-Western-Philosophy-2026.md).
+
 ## 9. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 
 ### 10-mark: "Is the verification principle itself verifiable?" (standard short)
@@ -620,6 +630,7 @@ Close   : The rejection is *primarily* about meaning but cascades into epistemol
 - [A priori / a posteriori](../_themes/A-priori-a-posteriori-knowledge.md) — the analytic/synthetic dichotomy as positivism's re-reading of the a priori.
 - Cross-paper: [Religious Language](../../paper-2/philosophy-of-religion/Religious-Language.md) — positivism → theology as meaningless → the eschatological-verification reply (John Hick).
 - PYQ bank: [Western Philosophy PYQs, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md)
+- PYQ bank (2026): [Western Philosophy PYQs, 2026](../_PYQ-Western-Philosophy-2026.md)
 
 ---
 

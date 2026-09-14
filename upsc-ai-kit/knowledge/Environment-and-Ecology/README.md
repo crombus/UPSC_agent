@@ -1,5 +1,18 @@
 # Environment and Ecology - Knowledge Base Index
 
+> **Organisation origins and importance:** [`../INTERNATIONAL-ORGANISATIONS-ORIGIN-AND-IMPORTANCE.md`](../INTERNATIONAL-ORGANISATIONS-ORIGIN-AND-IMPORTANCE.md)
+> covers climate, energy, biodiversity, oceans and resilience institutions.
+
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> structures ecological mechanisms, policy evaluation and development-environment trade-offs.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes pollution, climate, biodiversity, treaty and conservation signals.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes ecology, pollution, protected areas, climate terms and treaty families.
+> **Data and examples bank:** [`../DATA-AND-EXAMPLES-BANK.md`](../DATA-AND-EXAMPLES-BANK.md)
+> supplies dated forest, biodiversity, climate and pollution evidence.
+
 > **Older PYQ routing:** [2018–2023 central index](../_PYQ-INDEX.md) — central routing only, not topic-file integration.
 >
 > **Official syllabus mapping:** [OFFICIAL-UPSC-SYLLABUS-MAPPING.md](./OFFICIAL-UPSC-SYLLABUS-MAPPING.md)
@@ -17,6 +30,24 @@
 > primary sources + audited UPSC Environment PYQs (2024-2026 Prelims; 2024-2025 Mains and
 > Essay, read directly from the local official papers).
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md).
+> **Major panels:** [`_revision/Major-Committees-Commissions-and-Reports.md`](_revision/Major-Committees-Commissions-and-Reports.md)
+> maps environmental-law, forest, Western Ghats, wildlife, pollution, coastal and water committees.
+> **Landmark judgments:** [`../LANDMARK-JUDGMENTS-INDEX.md`](../LANDMARK-JUDGMENTS-INDEX.md)
+> supplies the liability, precaution, public-trust, forest, EIA, mining and climate case bank.
+> **Major Acts:** [`../MAJOR-ACTS-INDEX.md`](../MAJOR-ACTS-INDEX.md)
+> maps pollution, forest, wildlife, biodiversity, NGT and environmental-clearance law.
+> **Indices and reports:** [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
+> maps climate, biodiversity, forests, pollution, water, energy and disaster-risk publications.
+> **Institutions and regulators:** [`../INSTITUTIONS-AND-REGULATORS-INDEX.md`](../INSTITUTIONS-AND-REGULATORS-INDEX.md)
+> maps pollution boards, NGT, biodiversity, wildlife, forest and climate authorities.
+> **Government schemes:** [`../GOVERNMENT-SCHEMES-MATRIX.md`](../GOVERNMENT-SCHEMES-MATRIX.md)
+> maps clean air, rivers, forests, wetlands, mangroves, circular economy and clean energy.
+> **International organisations:** [`../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md`](../INTERNATIONAL-ORGANISATIONS-AND-GROUPINGS-INDEX.md)
+> maps UNEP, IPCC, IPBES, IRENA, ISA, CDRI and environmental-finance institutions.
+> **Conventions and protocols:** [`../ENVIRONMENT-CONVENTIONS-AND-PROTOCOLS-INDEX.md`](../ENVIRONMENT-CONVENTIONS-AND-PROTOCOLS-INDEX.md)
+> maps legal force, COP/MOP bodies, India status, implementation and treaty traps.
+> **Map-location bank:** [`../GEOGRAPHY-MAP-LOCATION-BANK.md`](../GEOGRAPHY-MAP-LOCATION-BANK.md)
+> maps biomes, wetlands, protected areas, islands, reefs and hazard-prone physical settings.
 > **Pre-exam revision:** [`REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md`](REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md)
 > compresses all 28 Core/Advanced pairs into one ecological-process map, convention
 > comparison, legal-status sheet, species-identification framework and Prelims trap list.
@@ -223,3 +254,15 @@ Audited directly against the local official question papers (`books/mains/`).
 
 The wording is routed from locally audited official-paper text. Keep it distinct
 from “probable” questions and avoid duplicating full answers across files.
+
+## Exact 2026 Mains PYQ routing
+
+> **Provenance:** OCR of `books/mains/2026/QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`
+> (the paper physically headed "GENERAL STUDIES (Paper III)"); cross-checked against
+> `PYQ-MAINS-COVERAGE-AUDIT-2026.md` and `PYQ-MAINS-CA-CROSSCHECK-2026.md` (central ledgers,
+> not edited here).
+
+| Paper | Exact question demand | Marks / words | Owning topic |
+|---|---|---|---|
+| 2026 GS-III Q8 | Discuss the aim and goals of Kunming-Montreal global biodiversity framework. Mention India's commitments and initiatives to achieve the goals and targets of this framework giving suitable examples. | 10 / 150 | `basic/22` Section 14 (new 2026 answer spine) — direct owner: four 2050 goals, 23 action targets, India's NBSAP 2024-2030/Seventh National Report mapping |
+| 2026 GS-III Q17 | What are the challenges to solid waste management in India? Discuss the governmental policy framework on solid waste management. Discuss the success/failure cases of Delhi and Indore cities highlighting the salient feature of their solid waste management initiatives. | 15 / 250 | `basic/15` Section 14 (new 2026 answer spine) — direct owner: SWM Rules 2026 update plus Delhi (biomining/legacy remediation) vs Indore (segregation-led, landfill-free) comparison |

@@ -49,6 +49,92 @@
 | ✅ Comparative advantage | Regions trade because resource and productivity structures differ |
 | ⚠️ Containerisation | Reduces handling time, standardises global logistics |
 
+## ➕ Atlantic-to-Indo-Pacific Trade Shift — Historical Geography and Drivers (2026 PYQ gap)
+
+> ✅ Grounded in Majid Husain's world-trade geography + ⚠️ standard economic-geography synthesis
+> and 📰 dated current anchors. Added to close the 2026 GS-I Q16 gap: "'The centre of global trade
+> is gradually shifting from the Atlantic region to the Indo-Pacific region.' Examine this
+> statement."
+
+### The Atlantic-centred order this statement is measured against
+
+- ✅ From the Industrial Revolution through the mid-20th century, world trade's core axis ran across
+  the **North Atlantic** — Western Europe and North America — built on colonial resource flows,
+  transatlantic manufacturing trade, and post-1945 institutions (Bretton Woods, GATT/IMF/World
+  Bank) headquartered on that axis.
+- ⚠️ This Atlantic order rested on Europe/North America holding the largest share of world
+  manufacturing output, shipping capacity and financial intermediation, with Asia and Africa
+  chiefly supplying raw materials and absorbing manufactured imports — a **core-periphery** trade
+  geography, not a natural or permanent one.
+
+### Why the centre of gravity is moving toward the Indo-Pacific
+
+| Driver | Mechanism | Geographic evidence type |
+|---|---|---|
+| ✅ Rise of Asian manufacturing | Japan, then the "Asian Tigers," then China and now India/ASEAN industrialised sequentially ("flying-geese" pattern), each absorbing labour-intensive manufacturing as costs rose in the previous leader | Shift of world factory output and merchandise-export share toward East and South Asia |
+| ⚠️ Intra-Asian trade deepening | Regional value chains (China-ASEAN-India-Japan-Korea) now trade more with each other than with the Atlantic, reducing dependence on the transatlantic axis | Growth of regional trade agreements (RCEP; ASEAN+) |
+| ⚠️ "China+1" and supply-chain diversification | Firms diversify manufacturing across Vietnam, India and other Indo-Pacific states after pandemic and geopolitical disruption, spreading manufacturing capacity across the region rather than concentrating it | Relocation of assembly/manufacturing capacity within the Indo-Pacific rim |
+| ✅ Indo-Pacific chokepoint centrality | The bulk of world containerised trade and energy shipments now transits Indo-Pacific waters — Strait of Malacca, Strait of Hormuz, Bab-el-Mandeb, Sunda and Lombok Straits — making this maritime space the operational core of world shipping, not merely a regional sea | Chokepoint traffic volumes concentrate in the Indo-Pacific rather than the Atlantic |
+| ⚠️ Demographic and market-size shift | Asia holds the larger share of world population and a fast-growing consuming middle class, pulling investment and market orientation eastward | Population and consumption-growth geography |
+| ⚠️ Digital and services trade growth | India's IT/BPO exports and East Asian electronics/semiconductor trade add a services and high-tech dimension to the shift, not only bulk manufactured goods | Growth of services-trade share from Indo-Pacific economies |
+
+### Comparative chart — Atlantic-era vs Indo-Pacific-era trade geography
+
+| Feature | ⚠️ Atlantic-centred order (pre-1990s) | ⚠️ Indo-Pacific-centred order (emerging) |
+|---|---|---|
+| Core manufacturing base | Western Europe, North America | East, South-East and South Asia |
+| Dominant sea lanes | North Atlantic sea routes | Malacca-Indian Ocean-South China Sea corridor |
+| Institutional anchor | Bretton Woods institutions, GATT/WTO founding members | RCEP, ASEAN-centred architecture, Quad/IPEF as emerging frameworks |
+| Strategic chokepoints emphasised | English Channel, North Atlantic sea lanes | Malacca, Hormuz, Bab-el-Mandeb, South China Sea |
+| Trade composition | Manufactured-goods trade among industrialised economies | Manufacturing plus intra-Asian components trade plus digital/services trade |
+| India's historic role | Peripheral raw-material supplier under colonial trade geography | Emerging manufacturing, services and market node within the Indo-Pacific |
+
+### The geopolitical layer, stated carefully
+
+- ⚠️ The economic shift is accompanied by strategic reframing: the **Indo-Pacific** construct itself
+  (linking the Indian and Pacific Oceans as one strategic-economic space) is a relatively recent
+  framing, promoted through groupings such as the **Quad** (India, US, Japan, Australia) and
+  initiatives like the **Indo-Pacific Economic Framework (IPEF)**, partly as a response to China's
+  Belt and Road Initiative's reach into the same waters.
+- ⚠️ India's own "Act East Policy" and interest in Indo-Pacific connectivity (e.g., Chennai-Vladivostok
+  corridor proposals, Sagarmala) illustrate a state actively positioning itself to benefit from this
+  shift rather than merely observing it.
+
+### Counterarguments and limits — do not overstate the shift
+
+- ❌ "The Atlantic economy is now marginal" → The US-EU trade and investment relationship remains
+  one of the largest bilateral economic relationships in the world; transatlantic financial
+  markets, currency dominance (US dollar) and technology/regulatory standard-setting remain
+  concentrated in the Atlantic world. The claim is a **shift in relative weight**, not an Atlantic
+  collapse.
+- ❌ "The shift is complete" → It is an **ongoing, uneven process**: manufacturing and shipping
+  volumes have moved decisively, but financial-market depth, reserve-currency status and
+  rule-setting institutions (IMF quota shares, credit-rating agencies) remain slower to rebalance.
+- ⚠️ **Nuance an examiner rewards:** distinguish trade **volume/flow geography** (which has clearly
+  moved toward the Indo-Pacific) from trade **governance/finance geography** (which is rebalancing
+  more slowly) — collapsing the two into one blanket verdict is the main scoring risk.
+
+> 🔑 Trap: A rising Indo-Pacific trade share does not by itself prove the "centre" has shifted in
+> every dimension (finance, currency, institutions); an answer must state which dimension of "trade
+> centre" it is examining.
+
+### Reusable 15-mark answer spine — "Examine the Atlantic-to-Indo-Pacific trade shift" (2026 GS-I Q16 route)
+
+1. **Thesis:** the statement is broadly correct for trade **volume and production geography**, more
+   qualified for trade **governance and finance geography** — state this distinction up front.
+2. **The Atlantic-centred baseline:** briefly establish what "centre of global trade" meant
+   historically (Section above) so the "shift" has a defined starting point.
+3. **Drivers of the shift:** sequential Asian industrialisation, intra-Asian regionalism,
+   supply-chain diversification, chokepoint centrality and demographic/market pull (table above).
+4. **Geographic evidence:** name the Indo-Pacific's chokepoints and shipping-lane centrality
+   explicitly — this is what converts the answer from an economics essay into a geography answer.
+5. **Geopolitical layer:** Quad, IPEF and BRI as the strategic response to the same shift; India's
+   Act East positioning as a national-level illustration.
+6. **Counterpoint:** transatlantic finance, currency and standard-setting remain concentrated in
+   the Atlantic world — qualify, do not negate, the thesis.
+7. **Conclusion:** graded — the *trade centre of gravity* has moved east in flow terms; a full
+   "shift" claim requires the slower-moving institutional and financial dimensions to follow.
+
 ## 5. Site, situation and port geography
 
 ✅ A port succeeds not only because of its coastal site but because of its **situation** - hinterland, approach channel, industrial link, connectivity and nearby market. ⚠️ This is why some natural harbours remain modest while some engineered ports become global giants.
@@ -127,7 +213,7 @@ must reach and function in its intended orbit before it strengthens transport ti
 
 ## 13. Study link
 
-Geography -> Economic Geography -> Transport and trade  
+Geography -> Economic Geography -> Transport and trade
 Geography -> Human Geography -> Networks, ports, corridors and space-enabled connectivity
 
 ## 14. Answer architecture (10/15/20-mark support)
@@ -286,6 +372,28 @@ RULE: the cheapest mode is the one whose terminal cost is recovered over the hau
 
 > ⚠️ **Factual caution:** do **not** quote port tonnages, draught in metres, container throughput,
 > rankings or programme outlays from memory.
+
+## 2026 Mains PYQ integration (manual)
+
+> **Source:** OCR-verified English text from the locally preserved official
+> 2026 GS-I scan. This manual Mains route is separate from the generated
+> Prelims block below.
+
+| Year | Paper | Q | Exact demand | Directive / format | Canonical route |
+|---:|---|---:|---|---|---|
+| 2026 | GS-I | 16 | "'The centre of global trade is gradually shifting from the Atlantic region to the Indo-Pacific region.' Examine this statement." | Examine · 15 marks · 250 words | `Geography/basic/33_Transport-Trade-and-Indian-Space-Programme.md`, Section "➕ Atlantic-to-Indo-Pacific Trade Shift" and its 15-mark answer spine |
+
+**Readiness verdict:** **FULL.** The owner now contains the Atlantic-centred
+historical baseline, the named economic and geopolitical drivers of the
+shift, a chokepoint-based geographic evidence layer, a comparative chart, an
+explicit counterargument on finance/currency/institutional lag, close-option
+traps and a 15-mark answer spine.
+
+**Authoritative reference routes:** Majid Husain's world-trade-geography
+treatment of routes, chokepoints and regional trading blocs; standard
+"flying-geese" account of sequential Asian industrialisation. Trade-share
+percentages and reserve-currency data are not quoted from memory and should
+be refreshed from IMF/WTO/UNCTAD releases before a live attempt.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

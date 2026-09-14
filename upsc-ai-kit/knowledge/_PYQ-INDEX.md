@@ -1,5 +1,9 @@
 # PYQ Routing Index
 
+> **Fast retrieval layer:** [`PYQ-TRIGGER-DICTIONARY.md`](PYQ-TRIGGER-DICTIONARY.md) maps
+> question wording to the correct owner, support asset and answer framework. This file remains
+> the controlling question-level provenance record.
+
 > **Scope:** These ledgers are the controlling routing/provenance records for UPSC PYQs.
 > Their rows are propagated into destination owner files as *separate* generated
 > PYQ-demand sections - a `2018-2023` block, a `2024-2025` block and a `2026` block - which
@@ -113,6 +117,32 @@
 |---|---:|---|
 | Prelims GS-I | 2026 | [Question routing](./_PYQ-ROUTING-PRELIMS-2026.md) |
 | CSAT | 2026 | [Six-family routing](./_PYQ-ROUTING-CSAT-2026.md) |
+| Mains GS-I | 2026 | [Complete routing](./_PYQ-GS1-2026.md) |
+| Mains GS-II | 2026 | [Complete routing](./_PYQ-GS2-2026.md) |
+| Mains GS-III | 2026 | [Complete routing](./_PYQ-GS3-2026.md) |
+| Mains GS-IV | 2026 | [Section A](./Ethics/_PYQ-GS4-SectionA-2026.md) and [Section B](./Ethics/_PYQ-GS4-SectionB-2026.md) |
+| Essay | 2026 | [Complete routing](./_PYQ-ESSAY-2026.md) |
+| Philosophy Optional | 2026 | Four section-level supplements under `Philosophy/paper-1/` and `Philosophy/paper-2/` |
+
+### 2026 Mains source and readiness record
+
+- **Official scans recorded:** 9 (GS-I to GS-IV, Essay, Philosophy Papers I-II,
+  Compulsory English and Compulsory Hindi)
+- **Source location:** `../../books/mains/2026/`
+- **Direct OCR exports:** `../../knowledge-export/Mains PYQ/`
+- **Knowledge-readiness audit:**
+  [`PYQ-MAINS-COVERAGE-AUDIT-2026.md`](PYQ-MAINS-COVERAGE-AUDIT-2026.md)
+- **Integration status:** complete for the **143 substantive Mains units**
+  audited: GS-I 20, GS-II 20, GS-III 20, GS-IV 25 theory/case demands, Essay 8,
+  Philosophy Paper I 28 parts and Philosophy Paper II 28 parts. Every unit is
+  FULL and routed exactly once. The focused
+  [`_PYQ-GS1-GS3-Static-2026.md`](./_PYQ-GS1-GS3-Static-2026.md) is retained as
+  remediation provenance but is superseded for complete-paper routing by the
+  three GS ledgers above.
+- **Counting boundary:** the generated 180-question totals below still cover
+  Prelims GS-I and CSAT only. Manual Mains units are reported separately because
+  their paper structures mix whole questions, subparts, case-study demands and
+  Essay choices.
 
 ### Unique questions by paper (2026)
 

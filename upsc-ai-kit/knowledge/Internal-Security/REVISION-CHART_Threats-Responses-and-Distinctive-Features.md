@@ -276,6 +276,8 @@ parallel authority, extortion, violence and blocked development
 
 > **Core verdict:** A border is not secured by fencing alone; terrain, legal mobility, residents, trade, infrastructure, technology and neighbour cooperation form one system.
 
+> **2026 update — Ladakh:** fronts both Pakistan (Kargil/LoC-AGPL) and China (Aksai Chin/LAC). BADP funds border-village infrastructure/livelihood; Operation Sadbhavana is the Army's separate civic-action programme (Goodwill Schools, skill training, medical camps) — do not conflate the two. Ladakh has only statutory LAHDCs (administrative), not constitutional Sixth Schedule councils (legislative/judicial/financial); July 2026 extended LAHDCs to all seven districts, short of Sixth Schedule status. See `basic/06` Section 14.
+
 ---
 
 ## 12. Maritime and coastal security
@@ -358,6 +360,8 @@ Navy and Coast Guard -> Coast Guard/state -> marine police,
 `rapid verification + platform process + public communication + digital literacy + lawful investigation + privacy/free-speech safeguards`
 
 > **Core rule:** Content removal alone cannot build information resilience; trusted institutions, media literacy, transparent platform governance and timely official communication are essential.
+
+> **2026 update — IT Rules amendment chronology:** 2021 base Rules → 2022/2023 Grievance Appellate Committee under Rule 3A (binding online appeals, ~30 days, chaired by I4C's CEO) → 2023 Fact-Check Unit amendment (struck down by Bombay HC, 2024) → 6 Feb 2026 amendment: Synthetically Generated Information (SGI/deepfake) labelling + 3-hour takedown window; Sahyog portal criticised for bypassing Section 69A safeguards. See `basic/09` Section 14.
 
 ---
 

@@ -194,6 +194,8 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 
 **Executable verdict:** "The three kinds are not three degrees of confidence but three *ontological positions* of the knower: the first is a mind pushed about by external bodies, the second a mind reasoning along the true causal order, the third a mind seeing itself as a mode of that order. Spinoza's real claim is that epistemology and ethics are the same subject — which is his most original move and, because the third kind is self-certifying, his most vulnerable one."
 
+> ⚠️ **Close-neighbour cross-link — rationalist intuition vs Locke's *intuitive knowledge*.** Descartes' *intuitus/deductio* (§1.1–1.3) and Spinoza's *scientia intuitiva* above are **not** Locke's intuitive knowledge. Locke's intuition is the ordinary, immediate perception that two of one's own ideas agree or disagree, and demonstration is a chain of such intuitions. The full Lockean doctrine of the degrees of knowledge (intuitive / demonstrative / sensitive), with its discrimination table against Descartes, Spinoza and Kant, is owned by [`Empiricism.md`](Empiricism.md) §1.1 and routes UPSC 2026 Q1(b). Use it whenever a question pairs rationalist and empiricist "intuition."
+
 ---
 
 ## 2. SUBSTANCE ✅ — The STAR Sub-topic
@@ -245,6 +247,7 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 - ✅ Most perceptions are **minute perceptions (petites perceptions)** below reflective awareness; **apperception** is conscious awareness of perception and must not be attributed to every monad.
 - **"Monads have no windows":** they do not causally interact — no influx of external influence. All change is internal, unfolding from the monad's own nature. ✅
 - ✅ Created monads form a hierarchy: bare entelechies with unconscious perception, animal souls with memory, and rational spirits capable of reflection and necessary truths.
+  - ⚠️ **Entelechy — cross-link (2026 Q1(d)):** Leibniz's use of "entelechy" for **created simple substances** (*Monadology* §§18–19) deliberately borrows an Aristotelian term while changing its category: in Aristotle *entelecheia* names **actuality/realisation**, not a substance. The full Aristotle–Leibniz comparison, with table, objections and answer spine, is owned by [`Plato-Aristotle.md`](Plato-Aristotle.md) §6.6. Do not duplicate it here; supply the Leibnizian half from §2.3, §2.3A and §4.3.
 - ⚠️ God is the unique uncreated necessary simple substance and source of monads. Calling God the “supreme Monad” is common shorthand, but God is not merely the highest member of the created series.
 - ✅ An organism is coordinated by a dominant monad and an organic aggregate of subordinate monads; this is not causal control through exchanged signals.
 - **Identity of Indiscernibles:** no two monads are exactly alike (else God would have no reason to create both — violates the Principle of Sufficient Reason). ✅
@@ -570,6 +573,15 @@ Rationalist "certain knowledge" does not stop at Descartes. Spinoza's tripartite
 
 See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
 
+### 2026 additions ✅
+
+| Year | Question | Marks | Exact demand | Owner status |
+|---|---|---:|---|---|
+| 2026 | Q1(a) | 10 marks | How does Spinoza explain the relationship between states of mind and bodily processes? | **primary** — §4.2 (parallelism / double-aspect), with §2.2 and §3.2 |
+| 2026 | Q1(d) | 10 marks | Compare and contrast the notion of entelechy as presented in Aristotle's and Leibniz's philosophy. | **cross-owned** — supply the Leibnizian half from §2.3/§2.3A/§4.3; the comparison is owned by [`Plato-Aristotle.md`](Plato-Aristotle.md) §6.6 |
+
+See the [Western Philosophy PYQ Bank, 2026](../_PYQ-Western-Philosophy-2026.md).
+
 ## 11. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 
 ### 10-mark: "Spinoza's views on freedom and determinism" (2023)
@@ -683,6 +695,7 @@ Each verdict is a **defensible position**, not a summary. Use verbatim or compre
 - [`../../paper-2/philosophy-of-religion/Proofs-for-God.md`](../../paper-2/philosophy-of-religion/Proofs-for-God.md) — Descartes' ontological & causal arguments treated in the cross-paper Religion context; Kant's refutations.
 - [`../../paper-2/philosophy-of-religion/Notions-of-God.md`](../../paper-2/philosophy-of-religion/Notions-of-God.md) — Spinoza's impersonal pantheistic God.
 - PYQ bank: [`../_PYQ-Western-Philosophy-2018-2025.md`](../_PYQ-Western-Philosophy-2018-2025.md).
+- PYQ bank (2026): [`../_PYQ-Western-Philosophy-2026.md`](../_PYQ-Western-Philosophy-2026.md).
 
 ---
 
@@ -855,15 +868,15 @@ Spinoza’s decisive move is to reject freedom as uncaused choice. The conscious
 
 ### 7.1 Cartesian Circle
 
-**Objection:** Descartes trusts clear-and-distinct perception to prove God and God to validate clear-and-distinct perception.  
-**Reply:** present intuition is self-evident while attended to; God guarantees remembered or extended reasoning.  
+**Objection:** Descartes trusts clear-and-distinct perception to prove God and God to validate clear-and-distinct perception.
+**Reply:** present intuition is self-evident while attended to; God guarantees remembered or extended reasoning.
 **Judgement:** this softens but does not eliminate the problem, because the divine proofs themselves employ remembered premises.
 
 ### 7.2 Spinoza’s attributes problem
 
-**Issue:** substance has infinitely many attributes, but human beings know only Thought and Extension.  
-**Strong reading:** attributes are genuine expressions of the whole divine essence, not parts. Human cognition is structurally limited.  
-**Objection:** unknown attributes appear explanatorily idle.  
+**Issue:** substance has infinitely many attributes, but human beings know only Thought and Extension.
+**Strong reading:** attributes are genuine expressions of the whole divine essence, not parts. Human cognition is structurally limited.
+**Objection:** unknown attributes appear explanatorily idle.
 **Reply:** their infinity prevents the anthropomorphic claim that reality is exhausted by the two forms accessible to us.
 
 ### 7.3 Leibniz and infinite analysis

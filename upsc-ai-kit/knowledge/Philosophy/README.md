@@ -1,5 +1,13 @@
 # Philosophy Optional - Knowledge Base Index
 
+> **Directive-wise answer templates:** [`../DIRECTIVE-WISE-ANSWER-TEMPLATES.md`](../DIRECTIVE-WISE-ANSWER-TEMPLATES.md)
+> supplies reusable command decoding while Philosophy owners retain philosopher-specific argument form.
+> **PYQ trigger dictionary:** [`../PYQ-TRIGGER-DICTIONARY.md`](../PYQ-TRIGGER-DICTIONARY.md)
+> routes thinker, school, argument and criticism signals into the optional syllabus owners.
+
+> **Confusing-pairs master:** [`../CONFUSING-PAIRS-MASTER.md`](../CONFUSING-PAIRS-MASTER.md)
+> distinguishes epistemic, metaphysical, ethical and Indian-philosophy concepts.
+
 > **Exam:** UPSC Civil Services (Main), Philosophy Optional - Paper I and Paper II
 > **Marks:** 250 + 250 | **Time:** 3 hours per paper
 > **Start here:** [`00_Master-Framework.md`](00_Master-Framework.md)
@@ -104,6 +112,16 @@ remains archived separately in [`_PROMPT-VERBATIM.md`](_PROMPT-VERBATIM.md). The
 | Revision | [`_revision/`](_revision) | Master sheets, matrices, current anchors, keywords and revision calendar |
 | Active recall | [`_playcards/`](_playcards) | Rapid doctrine, distinction, objection and comparison drills |
 | Answer application | [`_application/`](_application) | Model answers and Philosophy-to-GS/Essay transfer |
+
+**Indian-philosophy terminology:** use the school-wise Sanskrit/Pali-to-English map in
+[`Sanskrit-and-Pali-Terms.md`](_revision/Sanskrit-and-Pali-Terms.md). It includes concise
+English equivalents, precise meanings and common confusion controls.
+
+**Complete definitions:** use
+[`Master-Definitions-Glossary.md`](_revision/Master-Definitions-Glossary.md) for exam-safe
+definitions across Western Philosophy, Indian Philosophy, Socio-Political Philosophy and
+Philosophy of Religion, including basic terms such as theism, idealism, substance, puruṣa
+and prakṛti.
 
 ## 4. How every owner file must work
 
@@ -233,7 +251,200 @@ their real corpus base and count duplicate official/scan copies only once.
 Local Qdrant retrieval is a discovery aid only. The underlying book or primary source remains
 the citation unit.
 
-## 7. Study sequence
+## 7. Physical-book chapter reading index
+
+> **Confirmed physical books:** C. D. Sharma; Chatterjee and Datta; Y. Masih;
+> John Hick; O. P. Gauba; Rajeev Bhargava and Ashok Acharya.
+>
+> **Edition rule:** chapter titles control where numbering or pagination differs
+> between editions. Do not read these books cover to cover. Read the chapters
+> below alongside the corresponding owner file, then solve its routed PYQs.
+
+### Priority code
+
+| Code | Meaning |
+|---|---|
+| **A — Core** | Read closely, annotate arguments and objections, and revise |
+| **B — Selective** | Read the listed sections for comparison, criticism or examples |
+| **C — Reference** | Consult only when the owner file or a PYQ creates a specific need |
+| **Skip** | Outside the printed syllabus or duplicative for UPSC purposes |
+
+### 7.1 C. D. Sharma — *A Critical Survey of Indian Philosophy*
+
+This is the **primary physical source for Paper I Indian philosophy**. Chatterjee
+and Datta should be used to clarify pramana, category and system structure; do
+not make two complete sets of notes from both books.
+
+| Book chapter | Priority | UPSC syllabus route | Reading instruction |
+|---|---|---|---|
+| Ch. 1 — The Vedas and the Upanishads | **B** | Vedanta background; atman, Brahman, jagat | Read only the passages needed to understand later Vedanta; do not prepare it as an independent syllabus topic |
+| Ch. 2 — Bhagavadgita | **C** | Yoga, liberation and action background | Use for comparison/Essay enrichment only |
+| Ch. 3 — Materialism | **A** | Carvaka | Read epistemology, rejection of inference/testimony as independent pramana, metaphysics, ethics and criticism |
+| Ch. 4 — Jainism | **A** | Reality, anekantavada, syadvada/saptabhanginaya, bondage and liberation | Read fully |
+| Ch. 5 — Early Buddhism | **A** | Dependent origination, momentariness, no-self, liberation | Read fully, including Four Noble Truths and Middle Path |
+| Chs. 6-8 — Shunyavada, Vijnanavada and later Buddhist schools | **A** | Schools of Buddhism | Read doctrine, arguments, objections and school comparisons; make one comparative table |
+| Ch. 9 — Samkhya | **A** | Prakriti, purusha, causation and liberation | Read fully, especially satkaryavada and evolution |
+| Ch. 10 — Yoga | **A** | Citta, cittavrtti, klesa, samadhi and kaivalya | Read fully; compare directly with Samkhya |
+| Ch. 11 — Vaisheshika | **A** | Categories, atomism, causation and creation | Read fully with Ch. 12 |
+| Ch. 12 — Nyaya | **A** | Pramana, appearance/error, self, liberation and proofs of God | Read fully; isolate each proof and objection |
+| Ch. 13 — Purva-Mimamsa | **A** | Theory of knowledge | Prioritise pramanas, intrinsic validity, error and testimony |
+| Ch. 14 — Pre-Shankara Vedanta | **B** | Vedanta transition/background | Read selectively before Shankara |
+| Ch. 15 — Shankara Vedanta | **A** | Brahman, atman, jagat, maya, avidya, adhyasa and moksha | Read fully |
+| Ch. 16 — Post-Shankara Vedanta | **B** | Vedanta objections and transition | Read as comparison support |
+| Ch. 17 — Buddhism and Vedanta | **B** | Comparative answers | Read for Shunyavada/Vijnanavada versus Advaita comparisons |
+| Ch. 18 — Ramanuja Vedanta | **A** | Ishvara, jiva, jagat, aprthaksiddhi and liberation | Read fully |
+| Ch. 19 — Other Schools of Vedanta | **A/B** | Madhva and Sri Aurobindo | Read **Madhva** and **Sri Aurobindo** closely; Nimbarka, Vallabha and Chaitanya are reference-only |
+| Ch. 20 — Shaiva and Shakta Schools | **Skip/C** | Not directly named | Use only for comparative enrichment |
+
+### 7.2 Chatterjee and Datta — *An Introduction to Indian Philosophy*
+
+This is the **clarity and system-structure companion** to C. D. Sharma. It is
+especially useful for epistemology, categories, inference and concise
+exposition.
+
+| Book chapter | Priority | UPSC syllabus route | Reading instruction |
+|---|---|---|---|
+| Ch. I — General Introduction | **B** | Common features and classification of Indian systems | Read once; retain the orthodox/heterodox map and common problem structure |
+| Ch. II — Carvaka | **A** | Carvaka epistemology and metaphysics | Use to simplify Sharma and sharpen objections |
+| Ch. III — Jaina Philosophy | **A** | Knowledge, reality, syadvada/saptabhanginaya, bondage/liberation | Read fully |
+| Ch. IV — Bauddha Philosophy | **A** | Buddha's teaching and four Buddhist schools | Read fully; prioritise dependent origination, no-self, momentariness and school differences |
+| Ch. V — Nyaya Philosophy | **A** | Pramanas, inference, self, liberation and God | Read fully; particularly useful for inference structure and fallacies |
+| Ch. VI — Vaisheshika Philosophy | **A** | Categories, atomism and causation | Read fully and combine notes with Nyaya |
+| Ch. VII — Sankhya Philosophy | **A** | Prakriti-purusha, evolution, causation and liberation | Read fully |
+| Ch. VIII — Yoga Philosophy | **A** | Citta, klesa, samadhi and kaivalya | Read fully |
+| Ch. IX — Mimamsa Philosophy | **A** | Theory of knowledge | Read the pramana and validity/error sections closely |
+| Ch. X — Vedanta Philosophy | **A** | Shankara and Ramanuja; Vedanta concepts | Read fully, then supplement Madhva and Aurobindo from C. D. Sharma and the owner files |
+
+### 7.3 Y. Masih — *A Critical History of Western Philosophy*
+
+Use Masih as the **primary physical source only for the historical Western
+syllabus from Plato through Hegel**. It is not sufficient for the contemporary
+Western clauses.
+
+| Book chapter | Priority | UPSC syllabus route | Reading instruction |
+|---|---|---|---|
+| Part I, Ch. 2 — Greek System: Plato and Aristotle sections | **A** | Plato and Aristotle | Skip the extended Sophist/Socratic material except as context; read Ideas, substance, form-matter, four causes and actuality-potentiality closely |
+| Part II, Ch. 1 — Francis Bacon | **Skip/C** | Background to empiricism | Consult only for induction/context |
+| Part II, Ch. 2 — Rene Descartes | **A** | Method, certainty, substance, God and mind-body dualism | Read fully |
+| Part II, Ch. 3 — Benedict de Spinoza | **A** | Substance, God, determinism and freedom | Read fully |
+| Part II, Ch. 4 — G. W. Leibniz | **A** | Monads/substance, God, knowledge, freedom and necessity | Read fully |
+| Part II, Ch. 5 — John Locke | **A** | Knowledge, substance, qualities, self and God | Read fully |
+| Part II, Ch. 6 — George Berkeley | **A** | Idealism, substance, perception and God | Read fully |
+| Part II, Ch. 7 — David Hume | **A** | Knowledge, causation, self, external world and scepticism | Read fully |
+| Part II, Ch. 8 — Immanuel Kant | **A** | Synthetic a priori, space/time, categories, ideas, antinomies and proofs of God | Read selectively but deeply around the exact syllabus headings |
+| Part II, Ch. 9 — G. W. F. Hegel | **A** | Dialectical method and Absolute Idealism | Read the dialectic and idealism sections; skip excessive system detail |
+| Bradley and other non-syllabus extensions | **Skip/C** | Possible idealism comparison | Use only if a Hegel/idealism answer needs an objection or comparison |
+
+**Physical-source gap:** Masih does not adequately cover Moore, Russell, Early
+and Later Wittgenstein, Logical Positivism, Husserl, Existentialism,
+Quine or Strawson. The existing owner files are answer-complete, but if one
+additional physical book is purchased, use **B. K. Lal, *Contemporary Western
+Philosophy*** for these clauses.
+
+### 7.4 John Hick — *Philosophy of Religion*
+
+This is the **primary Western Philosophy-of-Religion source**. Read it almost
+completely because it is short and closely aligned with Paper II.
+
+| Book chapter | Priority | UPSC syllabus route | Reading instruction |
+|---|---|---|---|
+| Introduction — What Is the Philosophy of Religion? | **B** | Nature and method | Read once for framing |
+| Ch. 1 — The Judaic-Christian Concept of God | **A** | Attributes of God; relation to world and humans | Read fully; pair with Indian notions from Indian-philosophy owners |
+| Ch. 2 — Arguments for the Existence of God | **A** | Ontological, cosmological, teleological and moral proofs | Read every argument with criticism |
+| Ch. 3 — Arguments Against the Existence of God | **B** | Critique of theism; religion without God | Read sociological, Freudian and scientific objections selectively |
+| Ch. 4 — The Problem of Evil | **A** | Problem of evil | Read fully: Augustinian, Irenaean and process responses |
+| Ch. 5 — Revelation and Faith | **A** | Reason, revelation and faith | Read fully |
+| Ch. 6 — Evidentialism, Foundationalism and Rational Belief | **B** | Faith-reason relation and rationality of belief | Use for objections and evaluation |
+| Ch. 7 — Problems of Religious Language | **A** | Analogy, symbol, cognitivism and non-cognitivism | Read fully |
+| Ch. 8 — The Problem of Verification | **A** | Cognitive status and eschatological verification | Read fully as an extension of Ch. 7 |
+| Ch. 9 — Conflicting Truth Claims of Different Religions | **A** | Religious pluralism and absolute truth | Read fully |
+| Ch. 10 — Immortality and Resurrection | **A** | Soul and immortality | Read fully |
+| Ch. 11 — Karma and Reincarnation | **A** | Rebirth and liberation | Read fully; compare with Indian-system accounts |
+
+**Coverage caution:** Hick alone does not complete Indian notions/proofs of God,
+Indian religious experience, religion without God, or the full
+religion-morality debate. Use the corresponding Philosophy owner files and C. D.
+Sharma/Chatterjee-Datta for those dimensions.
+
+### 7.5 O. P. Gauba — *Social and Political Philosophy*
+
+This is the **main physical source for the complete socio-political half of
+Paper II**. Editions arrange and number the chapters differently, so use the
+chapter/topic titles below rather than a fixed number.
+
+| Book chapter/topic | Priority | UPSC syllabus route | Reading instruction |
+|---|---|---|---|
+| Nature and Scope of Social and Political Philosophy | **B** | Method and conceptual framing | Read once before beginning Paper II |
+| Liberty | **A** | Social and political ideals | Read negative/positive liberty, autonomy, restraints and objections |
+| Equality | **A** | Social and political ideals | Read formal/substantive equality, discrimination and relation with liberty |
+| Justice | **A** | Social and political ideals | Read distributive/procedural justice and major competing theories |
+| Sovereignty | **A** | Austin, Bodin, Laski and Kautilya | Read every named thinker; build a four-way comparison chart |
+| Individual and the State | **A** | Rights, duties and accountability | Read rights, political obligation, limits of authority and accountability |
+| Forms of Government | **A** | Monarchy, theocracy and democracy | Read comparison, justification, limitations and democratic variants |
+| Political Ideologies | **A** | Anarchism, Marxism and Socialism | Read doctrine, human-nature/state assumptions, objections and comparisons |
+| Humanism, Secularism and Multiculturalism | **A** | Syllabus item 6 | Read all three as distinct responses to dignity, religion and diversity |
+| Crime and Punishment | **A** | Corruption, mass violence, genocide and capital punishment | Read punishment theories first, then apply them separately to each named issue |
+| Development and Social Progress | **A** | Development and social progress | Read competing criteria of progress, development models and critiques |
+| Gender Discrimination | **A** | Female foeticide, property rights and empowerment | Read structural causes, rights/capability arguments and objections |
+| Caste Discrimination | **A** | Gandhi and Ambedkar | Read both thinkers comparatively; do not reduce the answer to biography |
+| Scientific temper, ecology, power or other extensions | **C** | Essay/comparison enrichment | Consult only when an owner file or PYQ requires the additional lens |
+
+### 7.6 Rajeev Bhargava and Ashok Acharya — *Political Theory: An Introduction*
+
+This is the **argument-oriented companion** to Gauba. Chapter titles are more
+important than numbering if the physical edition differs.
+
+| Chapter | Priority | UPSC syllabus route | Reading instruction |
+|---|---|---|---|
+| What Is Political Theory?; Why Do We Need Political Theory? | **B** | Method and answer framing | Read once |
+| Liberty | **A** | Liberty | Read fully; extract positive/negative and autonomy arguments |
+| Equality | **A** | Equality | Read fully |
+| Justice | **A** | Justice | Read fully and compare principles/distributions |
+| Rights | **A** | Individual and State | Read fully |
+| Democracy | **A** | Forms of government | Read justification and limitations |
+| Citizenship | **B** | Individual-state, inclusion and accountability | Read selectively |
+| Power | **B** | State and democratic institutions | Read conceptual sections |
+| Sovereignty | **A** | Sovereignty | Read fully; named thinkers still require the owner file/Gauba |
+| State | **A** | Individual and State | Read fully |
+| Civil Society | **B** | Accountability and democracy | Read for associational and public-sphere arguments |
+| Property | **B** | Rights, equality and justice | Read for distributive comparisons |
+| Gender | **A** | Gender discrimination and empowerment | Read fully |
+| Liberalism | **B** | Ideological comparison | Read selectively |
+| Socialism | **A** | Socialism | Read fully |
+| Nationalism | **C** | Contextual enrichment | Use only where a state/democracy answer needs it |
+| Secularism | **A** | Secularism | Read fully, especially the Indian model |
+| Affirmative Action | **A** | Equality, gender and caste discrimination | Read fully |
+| Freedom of Speech and Censorship | **B** | Liberty, rights and accountability | Read for applications and objections |
+
+### 7.7 Coverage gaps in the present physical set
+
+The six books are strong enough for the majority of the syllabus, but they do
+not remove the need for the canonical owner files.
+
+| Gap in physical books | Required route |
+|---|---|
+| Moore, Russell, Early/Later Wittgenstein, Logical Positivism, Husserl, Existentialism, Quine and Strawson | Use the Western owner files; optional purchase: B. K. Lal, *Contemporary Western Philosophy* |
+| Aurobindo in sufficient depth | Use `paper-1/indian/Aurobindo.md`; C. D. Sharma supplies only a compact starting account |
+| Kautilya's sovereignty | Use `paper-2/socio-political/Sovereignty.md` |
+| Humanism and multiculturalism | Use `paper-2/socio-political/Humanism-Secularism-Multiculturalism.md` |
+| Crime, punishment, corruption, mass violence, genocide and capital punishment | Use `paper-2/socio-political/Crime-and-Punishment.md` |
+| Caste discrimination through Gandhi and Ambedkar | Use `paper-2/socio-political/Caste-Gandhi-Ambedkar.md`; read Ambedkar's *Annihilation of Caste* selectively if available |
+| Indian and non-theistic dimensions of philosophy of religion | Use the ten Philosophy-of-Religion owners alongside Hick |
+| Religious experience and religion-morality | Use `Religious-Experience.md` and `Religion-and-Morality.md`; Hick is supporting rather than complete |
+
+### 7.8 Recommended reading order
+
+1. C. D. Sharma and Chatterjee-Datta **system by system**, not book by book.
+2. Masih from Plato/Aristotle through Hegel.
+3. Western contemporary owner files; add B. K. Lal only if a physical source is
+   desired.
+4. Gauba and Bhargava-Acharya **topic by topic** for socio-political philosophy.
+5. Hick chapter by chapter, paired with the matching Philosophy-of-Religion
+   owner.
+6. After each syllabus clause, solve its routed PYQs before starting the next
+   clause.
+
+## 8. Study sequence
 
 1. **Western foundations:** Plato-Aristotle -> Rationalism -> Empiricism -> Kant.
 2. **Western developments:** Hegel -> analytic tradition -> phenomenology/existentialism ->
@@ -251,7 +462,7 @@ the citation unit.
 9. **Advanced pass (optional):** only after timed PYQs are answerable from Core, use
    [`_advanced/Depth-Map.md`](_advanced/Depth-Map.md) to improve judgement and comparison.
 
-## 8. Boundaries and cross-links
+## 9. Boundaries and cross-links
 
 - **Ethics:** Philosophy supplies arguments and distinctions; GS-IV notes supply public-
   administration application. Do not replace optional depth with thinker quotations.
@@ -265,7 +476,7 @@ the citation unit.
 - **Current affairs:** one precise illustration is enough. Doctrine remains the centre of the
   answer.
 
-## 9. Quick-use checklist
+## 10. Quick-use checklist
 
 - Can every printed syllabus subterm be found as an explicit heading or labelled subsection?
 - Can the doctrine be reconstructed as an argument without looking at the note?

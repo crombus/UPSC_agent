@@ -654,6 +654,16 @@ sex/gender distinction · social construction · Other · patriarchy · substant
 
 See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025.md).
 
+### 9A. 2026 additions (official paper, Section A)
+
+| Year | Question | Marks | Exact demand | Core route in this file |
+|---|---|---:|---|---|
+| 2026 | Q2(b) | 15 | Does providing land and property rights to women constitute a necessary condition or a sufficient condition or both for ensuring social equality among the genders? Discuss. | §3.1–§3.6 (property, ownership/access/control, formal law vs social practice, personal law) — pre-existing coverage |
+
+See the [2026 Socio-Political PYQ Supplement](../_PYQ-SocioPolitical-2026-Supplement.md) for the
+full 2026 Section-A routing ledger.
+
+
 ## 10. ANSWER ARCHITECTURE (10 / 15 / 20 marks)
 
 ### 10.0 Directive decoder — the verb fixes the structure

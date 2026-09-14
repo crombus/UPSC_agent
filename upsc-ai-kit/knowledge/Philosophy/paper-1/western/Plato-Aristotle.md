@@ -189,6 +189,121 @@ Aristotle had been Plato's student for 20 years; his critique in *Metaphysics* I
 
 ---
 
+## 2A. THE FUNDAMENTAL PROBLEM OF METAPHYSICS — ARISTOTLE AGAINST THE ATOMISTS AND AGAINST PLATO ✅ (owner block; 2026 Q2(a), 20 marks)
+
+### 2A.1 What Aristotle takes the fundamental problem to be ✅
+
+- **The science.** Metaphysics is "a science which investigates **being qua being** and the attributes which belong to it in virtue of its own nature" (*Metaphysics* IV.1). It is first philosophy: the study of first causes and principles, not of one restricted genus of things. ✅
+- **The problem itself.** "Being" is said in many ways (substance, quality, quantity, relation, potentiality, actuality, truth). The ancient question "**what is being?**" therefore reduces to one determinate question: "**what is substance (*ousia*)?**" (VII.1) — because every other way of being is said with **focal reference (*pros hen*)** to substance. ✅
+- **The constraint on any answer.** A satisfactory account of substance must simultaneously (i) preserve the reality of the individual sensible thing, (ii) make it **intelligible** (there must be a determinate essence, a *what-it-is-to-be*), and (iii) explain **change and generation** without violating "nothing comes from nothing." ✅
+- **Aristotle's answer, compressed.** Sensible substance is a **hylomorphic compound** of matter and form; form is its **essence and actuality**; change is explained by **potentiality → actuality**; explanation is complete only when all **four causes** (material, formal, efficient, final) are given. ✅
+- ⚠️ **Why the 2026 wording matters.** The question ties "the fundamental problem of metaphysics" to "the essence of the world," and then demands the **double rejection**. The answer must therefore be organised as: *one problem → two rival failures → one positive solution*, not as two unconnected critiques.
+
+> 🔑 **Mnemonic — ONE question, TWO failures, FOUR causes:** *What is substance?* — Atomists give too little **form**, Plato puts form in the wrong **place**; Aristotle gives form **in** the thing and completes explanation with four causes.
+
+### 2A.2 Against the Atomists (Leucippus, Democritus) ✅
+
+**Their position, stated fairly first.** Reality is indivisible bodies (*atoma*) differing only in **shape, order and position**, moving in the **void**; composites and all sensible qualities result from atomic arrangement. Their genuine strength is that they explain change while keeping fundamental beings permanent. ✅
+
+| # | Aristotle's objection | Kernel |
+|---|---|---|
+| 1 | **Explanatory incompleteness** | Atoms plus impact supply (at best) **material and efficient** causes. They leave out the **formal** cause (why this organised whole rather than a heap) and the **final** cause (what the organisation is *for*). Explanation stops before the question is answered. |
+| 2 | **Unexplained motion** | Eternal atomic motion is assumed rather than accounted for; for Aristotle an appeal to always-having-moved is not yet a principle of motion. |
+| 3 | **Continuity** | Magnitude is divisible wherever there is magnitude; an **extended yet absolutely indivisible** body is therefore problematic. (Aristotle's response is *potential* infinite divisibility, not actual division.) |
+| 4 | **Qualitative and substantial change** | Rearrangement of unchanged units explains *alteration of aggregates*; it does not explain **generation of a new substance** with a determinate nature and unified functioning. |
+| 5 | **Chance versus nature** | Regular, goal-directed organisation (an eye for seeing, a root for absorbing) recurring "always or for the most part" cannot plausibly be accidental collision. Nature acts for an end. |
+| 6 | **Unity of the composite** | A heap of atoms is an aggregate, not a *tode ti*. What makes a living thing **one** thing cannot itself be another atom. |
+
+- ⚠️ **Fair-play qualification:** Aristotle does not deny that matter is a real principle, nor that mechanical interaction occurs. His charge is **reductionism** — mistaking a partial cause for the whole explanation.
+
+### 2A.3 Against Plato's separate Forms ✅
+
+Aristotle accepts Plato's *demand* — stable, intelligible essences are needed for knowledge — and rejects Plato's *solution*, the **separation (*chōrismos*)** of Forms from sensibles (*Metaphysics* I.9, VII, XIII.4–5).
+
+| # | Argument | Kernel |
+|---|---|---|
+| 1 | **Duplication** | Forms merely double the entities to be explained: "they are equal in number to, or not fewer than, the things to be accounted for." |
+| 2 | **Causal impotence** | Separate, changeless Forms cannot be efficient causes; they explain neither motion, nor generation, nor destruction. |
+| 3 | **Participation is a metaphor** | "Sharing in" names no mechanism; it is poetry ("empty words and poetical metaphors"). |
+| 4 | **Third Man regress** | If this man and the Form of Man are both men in virtue of a common character, a further Form is required, and so *ad infinitum*. |
+| 5 | **Epistemic/essence objection** | The essence of a thing must be **the essence of that very thing**; an essence existing apart from what it is the essence of cannot make this thing what it is. |
+| 6 | **Substance objection** | Nothing predicable of many can be the individual substance of each; so a universal cannot be *ousia* in the primary sense. |
+
+- ⚠️ **Fair-play qualification:** Aristotle is **not simply anti-Platonic**. He retains form, essence, intelligibility and even a hierarchy of actuality; the quarrel is about **where form is** and **what it explains**. ❓ Whether Aristotelian forms are universals or particularised forms is itself contested.
+
+### 2A.4 The positive solution as the middle path ✅
+
+| Axis | Atomists | Plato | Aristotle |
+|---|---|---|---|
+| Ultimate reality | indivisible bodies + void | separate, changeless Forms | the concrete individual substance (matter + immanent form) |
+| Where form is | effectively absent (only shape/position) | separated, "apart from" sensibles | **in** the compound, as its essence and actuality |
+| Causes recognised | material, efficient | formal, and a paradigmatic/exemplary role | **all four**: material, formal, efficient, final |
+| Change | rearrangement of unchanged units | difficult: Forms are changeless, sensibles unstable | potentiality → actuality, with privation as the third principle |
+| Unity of a living thing | aggregate of atoms | participation in a Form | soul as the **first actuality** of an organic body |
+| Knowledge | of arrangements | of Forms, away from sensibles | of essences **in** sensibles, grasped through definition |
+| Characteristic failure | explains too little (no form, no end) | explains in the wrong place (separation) | ❓ owes a fuller account of how immanent form individuates |
+
+- ✅ **Verdict line:** "The Atomists keep the particulars and lose the form; Plato keeps the form and loses the particulars; Aristotle keeps both by putting the form **inside** the particular."
+
+### 2A.5 Presuppositions ⚠️
+
+- **P1 — Explanation is causal and plural:** to know a thing is to know its causes, and there are four irreducible kinds of "why."
+- **P2 — Focal meaning:** "being" is neither univocal nor merely equivocal, so the many senses can be ordered to substance.
+- **P3 — Nature is teleological:** regularity "always or for the most part" indicates ends immanent in natures, not external design.
+- **P4 — Essences are knowable through definition** of the species, not through acquaintance with a separate paradigm.
+
+### 2A.6 Objection → Reply ledger
+
+| Objection to Aristotle | Reply available to Aristotle | Verdict |
+|---|---|---|
+| ❌ Immanent form is just the Platonic Form relocated; the explanatory problem is unchanged. | Location is exactly what was at issue: an immanent form *is* the essence and actuality of this compound, so it can function as formal and final cause of the very thing it belongs to. | ⚠️ Strong reply, but it presses him toward particularised forms. |
+| ❌ Teleology is pre-scientific; modern science vindicated the Atomists. | Aristotle's targets are **explanatory completeness** and **organic unity**, not the existence of micro-constituents; functional explanation remains indispensable in biology. | ❓ Genuinely contested; concede the historical point, defend the conceptual one. |
+| ❌ Prime matter is as obscure as participation. | It is a limiting notion required by substantial change, never encountered bare. | ⚠️ Admitted difficulty; state it rather than hide it. |
+| ❌ If universals are not substances, how is science (which is of the universal) possible? | Science is of the universal **as predicated of and realised in** individuals; the individual remains the primary being. | ✅ Standard and defensible. |
+
+### 2A.7 Traps ❌
+
+- ❌ Writing the Third Man argument only. The 2026 part explicitly demands **both** rejections, joined to the essence of the world.
+- ❌ Saying Aristotle "refuted atomism scientifically." His objections are **metaphysical/explanatory**, and he grants the atomists' motive.
+- ❌ Treating "being qua being" as a study of a super-entity. It is the study of beings *in respect of their being*.
+- ❌ Reducing the four causes to a list. Show them doing work against the atomist's two.
+- ❌ Making Aristotle a pure anti-Platonist; note the retained Platonic commitments and the disputed status of forms.
+
+### 2A.8 Answer spine — reusable for any rewording ⚠️
+
+```
+20-mark (2026 Q2a: "fundamental problem of metaphysics… essence of the world… rejects Atomists AND Plato"):
+  Frame : Being is said in many ways → the fundamental question is "what is substance?"
+          Any answer must save the individual, its intelligibility, and change.
+  Body A: Aristotle's positive apparatus — hylomorphism, essence/form, four causes,
+          potentiality/actuality. (State it FIRST; the two critiques are tests of it.)
+  Body B: Against the Atomists — incompleteness (only material/efficient), unexplained motion,
+          continuity, substantial generation, chance vs nature, unity of the composite.
+  Body C: Against Plato — duplication, causal impotence, metaphorical participation, Third Man,
+          essence-must-be-of-the-thing, universal-cannot-be-substance.
+  Synth : the middle path table (form inside the particular).
+  Qualif: he retains Plato's demand for intelligible form; the status of immanent form
+          (universal or particular) remains contested.
+  Close : "Aristotle's metaphysics is the attempt to make form do explanatory work without
+          leaving the thing it explains."
+
+15-mark rewording ("Aristotle's criticism of Plato's theory of Ideas" / "Is Aristotle's critique fair?"):
+  Body A: the six arguments; Body B: the immanentist replacement; Close: fairness verdict —
+  decisive against separation, less decisive against Plato's later self-criticism in the *Parmenides*.
+
+10-mark rewording ("Why does Aristotle reject the Atomists' account of nature?"):
+  L1 : atomism supplies material and efficient causes only.
+  Body: no formal cause → no unity; no final cause → regular organisation becomes coincidence;
+        indivisible magnitudes strain continuity.
+  Close: the objection is to explanatory reduction, not to micro-constituents as such.
+```
+
+**2026 route ✅** — Paper I, Section A, **Q2(a), 20 marks**: "What, according to Aristotle, is the fundamental problem of metaphysics? Discuss this in relation with Aristotle's account of the essence of the world, where he rejects the views of both the Atomists and Plato." Primary owner: this file, §2A (with §2, §3, §4, §5 and §6 supplying the apparatus). See [`../_PYQ-Western-Philosophy-2026.md`](../_PYQ-Western-Philosophy-2026.md).
+
+**Source anchors ✅** — [SEP, *Aristotle's Metaphysics*](https://plato.stanford.edu/entries/aristotle-metaphysics/) (§§6–14 on substance, form and the critique of separation; §10 on the universal/particular-form dispute); [SEP, *Ancient Atomism*, §§2–2.3](https://plato.stanford.edu/entries/atomism-ancient/); primary text: [Aristotle, *Metaphysics*](https://classics.mit.edu/Aristotle/metaphysics.html).
+
+---
+
 ## 3. ARISTOTLE — SUBSTANCE (*ousia*) ✅
 
 ### 3.1 Substance in the *Categories*
@@ -392,6 +507,97 @@ Aristotle claims actuality is prior in three senses:
 - **Moves as a final cause:** "moves as the beloved moves the lover" — the world is drawn toward God as toward the perfect object of desire/aspiration. God does not *push* the world (efficient causation); He *attracts* it (final causation). ✅
 - **Thought thinking itself** (*noēsis noēseōs*): God's activity is eternal self-contemplation — the highest actuality, intellectual. ✅
 
+### 6.6 ENTELECHY — ARISTOTLE AND LEIBNIZ COMPARED ✅ (owner block; 2026 Q1(d), 10 marks)
+
+> **Ownership note:** the *term* and its Aristotelian sense are owned here; Leibniz's monadology is owned by [`Rationalism.md`](Rationalism.md) §2.3. The **comparison** lives here and is cross-linked there, so that either rewording of the question is answerable from one place.
+
+#### 6.6.1 Aristotle: entelechy as actuality ✅
+
+- **Meaning.** *Entelecheia* — "being-at-work-staying-itself," **actuality, achieved realisation, completeness** — is the correlate of *dunamis* (potentiality). It names a thing's **having reached its proper end (*telos*) and holding it**. ✅
+- **Function.** Form actualises matter: bronze is *potentially* a statue; informed bronze *is* one. Entelechy is thus **immanent form and functional organisation**, not an extra entity added to the thing. ✅
+- **First vs second actuality** (the distinction the comparison turns on):
+  - **First actuality** = possessing a capacity — e.g. the geometer who knows geometry but is asleep;
+  - **Second actuality / activity** = exercising it — the geometer actually contemplating. ✅
+- **Psychology.** The soul is "the **first actuality (entelecheia)** of a natural body having life potentially in it" — i.e. of an organic body (*De Anima* II.1, 412a20–28). ✅ The soul is therefore **the form and functional organisation of a living body**, not a separate substance lodged in it.
+- ⚠️ Aristotle standardly denies that the soul is a separately existing complete substance; the problematic exception (active intellect, *De Anima* III.5) is contested and should not be used as his settled doctrine. ❓
+
+#### 6.6.2 Leibniz: entelechies as simple substances ✅
+
+- **Appropriation.** Leibniz revives the Aristotelian term for **created simple substances — monads**: "one could give the name **entelechies** to all simple substances or created monads, for they have in themselves a certain perfection (*echousi to enteles*) and a self-sufficiency (*autarkeia*) which makes them the sources of their own internal actions" (*Monadology* §18); those with distinct perception and memory he calls souls (§19). ✅
+- **Nature of these entelechies:** simple, immaterial, indivisible, windowless; their states are **perceptions**, and the transition from perception to perception is **appetition**. ✅
+- **Work they do:** they are the **genuine unities** underlying bodies, which are aggregates or **well-founded phenomena**; coordination across substances is by **pre-established harmony**, not causal influx. ✅
+- ⚠️ Leibniz's relation to the scholastic-Aristotelian "substantial forms" changed across his career; present him as **appropriating and transforming** the notion (to secure true unity and internal activity against Cartesian extension), never as merely repeating Aristotle.
+
+#### 6.6.3 Comparison table ⚠️ — the core of any 2026-style answer
+
+| Axis | **Aristotle** | **Leibniz** |
+|---|---|---|
+| What "entelechy" primarily names | **actuality/realisation** — a state or mode of being | **a substance** — each created simple substance is an entelechy |
+| Ontological category | correlative principle within a compound | fundamental individual being |
+| Relation to matter | form **of** matter; substance is the matter-form compound | monads are immaterial and non-composite; matter/extension is phenomenal |
+| Soul | **first actuality of an organic body**; not normally a separable substance | soul-like monads with distinct perception and memory; genuinely substantial |
+| Bodies | genuine hylomorphic compounds, real *per se* unities | **aggregates / well-founded phenomena** grounded in monads |
+| Source of activity | nature as an internal principle of motion and rest; external efficient causes also operate | purely internal: perception → appetition; **"monads have no windows"** |
+| Causal relations | real interaction among substances | no inter-substantial influx; **pre-established harmony** |
+| Teleology | final causes immanent in natures | final causation in monads harmonised with mechanical order in bodies |
+| Plurality | many substances of many kinds, matter-involving | infinitely many simple substances, no two alike (**identity of indiscernibles**) |
+| Purpose of the notion | explain change, organic unity and the priority of actuality | secure true unity, individuality and spontaneity against Cartesian extension |
+
+- ✅ **Continuity (do not miss this mark):** both reject a **passive, externally driven** conception of substance and explain unity through an **intrinsic principle of activity**; both reject extension as the essence of substance in favour of something act-like.
+- ✅ **Discontinuity (the decisive line):** *Aristotle's entelechy is what a substance* **has or is in act**; *Leibniz's entelechy is what a substance* **is**. Aristotle immanentises form in the compound; Leibniz **substantialises** it and then reduces the compound to phenomena.
+
+#### 6.6.4 Presuppositions ⚠️
+
+- **P1 (both):** substance must be a genuine unity, not a mere aggregate.
+- **P2 (Aristotle):** matter is a real co-principle; hence composite substances are *per se* beings.
+- **P3 (Leibniz):** whatever is extended is divisible, and whatever is divisible is not a true unity; hence true substances are simple and immaterial.
+- **P4 (Leibniz):** the Principle of Sufficient Reason and pre-established harmony replace inter-substantial causation.
+
+#### 6.6.5 Objection → Reply ledger
+
+| Objection | Reply | Verdict |
+|---|---|---|
+| ❌ Leibniz merely renames Aristotle's substantial forms. | The monad is simple, immaterial, mirrors the whole universe and does not inform matter; only the **name** and the theme of immanent activity are inherited. | ✅ Decisive against the identification. |
+| ❌ Aristotle's entelechy is obscure — is soul a thing or a state? | The first/second actuality distinction answers it: soul is a **state of capacity-possession** of an organic body, exercised in life-activities. | ⚠️ Works except for the active intellect. |
+| ❌ Leibniz's windowless monads make bodily interaction unintelligible. | Harmony is a global explanation: each monad's internal series unfolds so as to agree with all others. | ❓ Economy vs explanatory cost — a fair place to close. |
+| ❌ "Entelechy" has no single English rendering. | Translate by function: *actuality* for the metaphysics of change, *realisation/completeness* for teleology, *being-at-work-staying-itself* when stressing continuing activity. | ⚠️ Say this explicitly; it reads as textual control. |
+
+#### 6.6.6 Traps ❌
+
+- ❌ "Leibniz's monad = Aristotle's entelechy." The shared word conceals a category shift from **actuality** to **substance**.
+- ❌ Calling the Aristotelian soul an immaterial substance inside the body.
+- ❌ Treating Leibnizian bodies as real composite substances — they are well-founded phenomena.
+- ❌ Attributing conscious apperception to every monad; most perceptions are **petites perceptions**.
+- ❌ Writing only about monads (or only about actuality/potentiality) when the demand says "compare and contrast."
+
+#### 6.6.7 Answer spine ⚠️
+
+```
+10-mark (2026 Q1d: "Compare and contrast the notion of entelechy in Aristotle's and Leibniz's philosophy"):
+  L1   : Both use "entelechy" for an intrinsic principle of activity — but Aristotle means
+         ACTUALITY, Leibniz means a SIMPLE SUBSTANCE.
+  Body : (i) Aristotle — energeia/entelecheia vs dunamis; form actualises matter; soul as first
+              actuality of an organic body (De Anima II.1).
+         (ii) Leibniz — Monadology §§18–19; monads as entelechies: perception + appetition,
+              windowless, unities behind well-founded phenomena, pre-established harmony.
+         (iii) Two-line contrast: state vs substance; immanent form vs immaterial simple.
+  Close: shared rejection of passive substance; Leibniz transforms rather than repeats Aristotle.
+
+15-mark rewording ("Is Leibniz's monadology a revival of Aristotelian substantial forms?"):
+  Add the comparison table, the divisibility argument (P3), and the qualification about the
+  development of Leibniz's own views; verdict: revival in motive, transformation in doctrine.
+
+20-mark rewording ("Substance and activity from Aristotle to Leibniz"):
+  Part A: Aristotle's hylomorphic substance and actuality (§§3–6).
+  Part B: the Cartesian problem of extension that Leibniz inherits (Rationalism.md §2).
+  Part C: monads as entelechies; bodies as phenomena; harmony.
+  Close : the continuous thread is the refusal to make substance inert.
+```
+
+**2026 route ✅** — Paper I, Section A, **Q1(d), 10 marks**: "Compare and contrast the notion of entelechy as presented in Aristotle's and Leibniz's philosophy." Primary owner: this file, §6.6; Leibniz doctrine cross-owned by [`Rationalism.md`](Rationalism.md) §2.3. See [`../_PYQ-Western-Philosophy-2026.md`](../_PYQ-Western-Philosophy-2026.md).
+
+**Source anchors ✅** — [SEP, *Aristotle's Psychology*, §§2–3](https://plato.stanford.edu/entries/aristotle-psychology/); [SEP, *Aristotle's Metaphysics*, §§12–14](https://plato.stanford.edu/entries/aristotle-metaphysics/); [SEP, *Leibniz's Philosophy of Mind*](https://plato.stanford.edu/entries/leibniz-mind/); [IEP, *Leibniz: Metaphysics*](https://iep.utm.edu/leib-met/); primary texts: *De Anima* II.1 (412a20–28); *Monadology* §§18–19.
+
 ---
 
 ## 7. INTER-THINKER / INTER-SCHOOL DEBATES ⚠️
@@ -526,6 +732,15 @@ Aristotle claims actuality is prior in three senses:
 
 See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
 
+### 2026 additions ✅
+
+| Year | Question | Marks | Exact demand | Owner status |
+|---|---|---:|---|---|
+| 2026 | Q1(d) | 10 marks | Compare and contrast the notion of entelechy as presented in Aristotle's and Leibniz's philosophy. | **primary** — §6.6; Leibniz doctrine cross-owned by [`Rationalism.md`](Rationalism.md) §2.3 |
+| 2026 | Q2(a) | 20 marks | What, according to Aristotle, is the fundamental problem of metaphysics? Discuss this in relation with Aristotle's account of the essence of the world, where he rejects the views of both the Atomists and Plato. | **primary** — §2A, drawing on §2, §3, §4, §5, §6 |
+
+See the [Western Philosophy PYQ Bank, 2026](../_PYQ-Western-Philosophy-2026.md).
+
 ## 12. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 
 ### 10-mark: "Ideas are timeless and spaceless — Elucidate with reference to Plato." (2025)
@@ -636,6 +851,8 @@ Close : The contrast is not merely historical — it recurs in every realism/nom
 - Cross-paper: [`../../paper-2/socio-political/Forms-of-Government.md`](../../paper-2/socio-political/Forms-of-Government.md) (Plato on democracy/philosopher-king).
 - Cross-paper: [`../../paper-2/philosophy-of-religion/Proofs-for-God.md`](../../paper-2/philosophy-of-religion/Proofs-for-God.md) (Aristotle's Unmoved Mover → Aquinas's cosmological argument).
 - PYQ bank: [`../_PYQ-Western-Philosophy-2018-2025.md`](../_PYQ-Western-Philosophy-2018-2025.md).
+- PYQ bank (2026): [`../_PYQ-Western-Philosophy-2026.md`](../_PYQ-Western-Philosophy-2026.md).
+- [`Rationalism.md`](Rationalism.md) — Leibniz's monads; paired owner for the entelechy comparison in §6.6.
 
 ---
 

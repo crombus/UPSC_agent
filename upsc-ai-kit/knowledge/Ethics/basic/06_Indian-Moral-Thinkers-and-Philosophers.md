@@ -167,6 +167,239 @@ duty/devotion.
   concepts, distinct from (and a necessary complement to) the constitutional-law detail taught
   under Polity.
 
+## 10A. Constitutional methods vs civil disobedience: Ambedkar's conditional test
+
+> ⚠️ **Primary route for 2026 GS-IV Q3(a)** — "Dr. B. R. Ambedkar had cautioned that employing civil
+> disobedience within a constitutional democracy equates to endorsing 'anarchy'. How should modern
+> democracies navigate the ethical dilemmas posed by civil disobedience movements that aim to promote
+> social justice against policies that may raise genuine concerns?" This section is written to be
+> independently answer-sufficient; `advanced/10` adds further theoretical refinement.
+
+### The passage and its conditional structure
+
+- ✅ **Source:** the same Constituent Assembly speech of **25 November 1949** already used in Section
+  10 for the equality and fraternity material (Constituent Assembly Debates, Vol. XI; reproduced in
+  *Dr. Babasaheb Ambedkar: Writings and Speeches*, Government of Maharashtra).
+- ✅ **The argument, in Ambedkar's own sequence:** to maintain democracy we "must hold fast to
+  constitutional methods of achieving our social and economic objectives"; this means abandoning
+  "the bloody methods of revolution" and also "the method of civil disobedience, non-cooperation and
+  satyagraha"; **where no constitutional method was open**, there was "a great deal of
+  justification" for unconstitutional methods; **but where constitutional methods are open, there can
+  be no justification for these unconstitutional methods** — and these methods are "nothing but the
+  Grammar of Anarchy," the sooner abandoned the better.
+- ⚠️ **Provenance caution:** quote the phrase "Grammar of Anarchy" and the conditional sentence
+  structure, and attribute them to the 25 November 1949 speech. ⚠️ Verify long verbatim stretches
+  against CAD Vol. XI or *Writings and Speeches* before reproducing them at length; secondary
+  reproductions vary in punctuation and in where they truncate.
+- ⚠️ **The decisive analytical point — and the highest-scoring move available in this question:**
+  Ambedkar's claim is **conditional, not absolute**. The examiner's phrasing ("equates to endorsing
+  'anarchy'") states it unconditionally. A top-band answer *corrects the premise*: Ambedkar
+  explicitly concedes justification where constitutional avenues are closed, and his condemnation is
+  triggered only by the *availability* of those avenues. The ethical question therefore transforms
+  from "is disobedience wrong?" into "**are the constitutional channels genuinely open, effective and
+  accessible for this grievance and for these people?**"
+- ⚠️ **The same speech's two companion warnings** (already anchored in Section 10) belong in a full
+  answer: *bhakti* or hero-worship in politics is "a sure road to degradation and to eventual
+  dictatorship"; and India was entering "a life of contradictions" — political equality alongside
+  social and economic inequality. The second warning is what gives social-justice movements their
+  moral standing in Ambedkar's *own* framework: he named the injustice they protest.
+
+### Ambedkar compared with Rawls and King
+
+| Axis | ✅ Ambedkar (25 Nov 1949) | ✅ Rawls (*A Theory of Justice* §§55-59) | ✅ M. L. King (*Letter from Birmingham Jail*, 1963) |
+|---|---|---|---|
+| **Object of the argument** | Preserving a newly founded constitutional order | Defining the place of civil disobedience within a *nearly just* constitutional regime | Justifying direct action against segregation |
+| **Definition of the act** | "Civil disobedience, non-cooperation and satyagraha" as unconstitutional methods | "A public, nonviolent, conscientious yet political act contrary to law usually done with the aim of bringing about a change in the law or policies of the government" | Open, loving, public refusal of an unjust law |
+| **Trigger condition** | Only where **constitutional methods are closed** | (i) A substantial and clear injustice — especially to equal basic liberties or fair equality of opportunity; (ii) normal political appeals tried in good faith and failed; (iii) the disobedience not so widespread as to impair the constitution's efficacy | Four steps: collection of the facts; negotiation; self-purification; direct action |
+| **Addressee** | The political community and its institutions | "The sense of justice of the majority" | The conscience of the community |
+| **Fidelity to law** | Fidelity shown by using constitutional forms | Fidelity shown by **accepting the legal consequences** | "An unjust law is no law at all," yet the penalty is accepted openly and willingly |
+| **Risk named** | Grammar of anarchy; hero-worship; dictatorship | Competing/excessive disobedience impairing constitutional efficacy | Being misread as lawlessness; the "white moderate" preferring order to justice |
+
+⚠️ **Convergence across all three:** each makes the **exhaustion of institutional channels** the
+pivot, and each excludes violence. The disagreement is only about how confidently one may declare
+those channels exhausted — which is why the state's duty to keep them genuinely open is the
+load-bearing element of the modern answer.
+
+- ⚠️ **Definitional elements to keep precise** (the marks live here): lawbreaking; **direct**
+  disobedience (breaking the very law objected to) vs **indirect** (breaking another law to protest
+  the first); principledness; conscientiousness; **publicity** (not clandestine); **non-violence**;
+  and a **communicative/appeal** character — it addresses fellow citizens rather than coercing them.
+- ❌ **Do not** conflate civil disobedience with (i) ordinary crime, (ii) violent insurrection,
+  (iii) conscientious objection (which seeks personal exemption, not a change in public policy), or
+  (iv) a public servant's **institutional dissent**, which must run through recorded internal channels
+  first (see `advanced/10` and `10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md`).
+
+### What changed between 1949 and now (the "modern democracies" clause)
+
+- ⚠️ The question's phrase "within a constitutional democracy" is doing real work. In 1949 the
+  institutional channels Ambedkar invoked were largely **prospective**. Today they are concrete:
+  Articles **19(1)(a)** and **19(1)(b)** protect speech and peaceful assembly, subject to reasonable
+  restrictions under **19(2)** and **19(3)**; Articles **32** and **226** open judicial review;
+  statutory consultation, pre-legislative comment, the RTI regime (`15`), parliamentary committees,
+  grievance machinery (`17`) and periodic elections supply further routes.
+- ✅ ***Amit Sahni v. Commissioner of Police* (2020, the Shaheen Bagh matter):** the right to protest
+  is real but not absolute; public ways and public spaces cannot be occupied indefinitely, and
+  demonstrations must occur in designated places. ✅ ***Mazdoor Kisan Shakti Sangathan v. Union of
+  India* (2018):** the right to protest must be balanced against residents' rights, with the
+  authorities required to frame reasonable, published regulatory guidelines rather than impose
+  blanket prohibitions.
+- ⚠️ **Therefore the modern test is two-sided, and the answer must state both sides:**
+  (i) **on the state** — the burden of showing the channels are *genuinely* open: accessible without
+  prohibitive cost or delay, effective for the specific grievance, and not captured by the very
+  interests complained against; and (ii) **on the movement** — the burden of showing good-faith
+  prior use of those channels, non-violence, publicity, proportionality of disruption, and
+  willingness to accept legal consequences.
+
+### Numbered administrative/ethical framework (the answer's spine)
+
+1. ⚠️ **Distinguish the grievance from the method.** A policy may raise genuine concerns *and* the
+   chosen method may still be unjustified; conversely a method may be justified *and* the grievance
+   still be mistaken. Collapsing the two is the commonest error.
+2. ⚠️ **Test channel-availability first**, because that is the load-bearing element of Ambedkar's own
+   conditional. If a grievance has no forum, or the forum is demonstrably ineffective, the state's
+   first duty is to open one — not to police harder.
+3. ⚠️ **Protect the right, regulate the manner.** Facilitate lawful assembly; designate spaces and
+   times; publish the regulatory criteria in advance so that they are not improvised per protest.
+4. ⚠️ **Police proportionately and by the least restrictive means.** Distinguish rigorously between
+   dissent and violence: prosecute the second, never the first. Preventive detention and blanket
+   prohibitory orders are the strongest measures and require the strongest, recorded justification.
+5. ⚠️ **Maintain a live negotiation channel** throughout, with an identified interlocutor; a protest
+   with no counterpart to talk to escalates by default.
+6. ⚠️ **Record reasons** for every restrictive order, so that it is reviewable — the accountability
+   requirement from `11`.
+7. ⚠️ **Review the underlying policy on merits**, independently of the protest, so that the outcome
+   turns on the grievance's justice rather than on the disruption's nuisance value. ⚠️ Rewarding
+   disruption is as corrosive as suppressing dissent: it teaches that channels are pointless.
+
+### Objections and replies
+
+- **Objection — "Ambedkar's warning simply forbids all protest in a democracy."**
+  ⚠️ Reply: a misreading. The warning is conditional on open channels, and Ambedkar in the very same
+  speech identified the social and economic inequality that such movements target.
+- **Objection — "If the majority is unjust, why address its sense of justice at all?"**
+  ⚠️ Reply (Rawls/King): the appeal is to a *constitutional* community's shared principles, not to
+  majority preference; accepting the penalty is what marks the appeal as an appeal rather than
+  coercion, and it is what keeps the disobedient inside the constitutional relationship.
+- **Objection — "Accepting punishment is unjust when the law itself is unjust."**
+  ⚠️ Reply: this is the strongest objection and should be conceded in part — acceptance of penalty is
+  a *sufficient* marker of fidelity to law, not a moral necessity in every case; Rawls himself
+  restricts his account to a **nearly just** society, and the tightening of that condition is exactly
+  what makes the state's duty to keep channels open non-negotiable.
+- **Objection — "Every group will claim its channels are blocked."**
+  ⚠️ Reply: which is why the test must be **institutional and evidential**, not self-certified —
+  documented prior representations, petitions, litigation attempts, committee appearances, and the
+  demonstrable response or non-response of the forum.
+
+### Traps
+
+- ❌ Presenting Ambedkar's caution as an unconditional ban. -> It is conditional on open channels.
+- ❌ Treating Ambedkar as anti-Gandhi on principle. -> His objection is to the *method's* use **after**
+  a constitution exists, not a denial that satyagraha was justified against colonial rule.
+- ❌ Writing a pure Polity answer on Article 19 restrictions. -> The demand is ethical navigation: the
+  state's duty to keep channels open, and the movement's duty of good faith and non-violence.
+- ❌ Omitting the state's side of the bargain. -> An answer that only disciplines protesters misses
+  half of Ambedkar's own logic.
+- ❌ Equating civil disobedience with a public servant's dissent. -> A serving official's route is
+  recorded internal dissent, not public law-breaking (`09`, `10`).
+
+### 10-mark answer spine (~150 words)
+
+State Ambedkar's claim **precisely and conditionally** (25 Nov 1949; "Grammar of Anarchy"; justified
+only where constitutional methods are closed) -> name the three Rawlsian conditions and King's
+acceptance-of-penalty marker -> state the democracy's **dual duty**: protect dissent as a right *and*
+refuse to let disruption substitute for institutional channels -> administrative posture: facilitate
+lawful protest, least-restrictive proportionate policing, a live negotiation channel, recorded
+reasons, prosecute violence not dissent, decide the policy on merits -> verdict: *a constitutional
+democracy earns the right to invoke Ambedkar's warning only by keeping its constitutional channels
+genuinely open.*
+
+## 10B. Gandhian trusteeship: the seven-step administrative ladder
+
+> ⚠️ **Primary route for 2026 GS-IV Q3(b)** — "In what ways can an Indian Administrative Officer apply
+> Gandhi's notion of 'trusteeship' to ensure fairness in governance?" The directive is **operational**
+> ("in what ways"), so a definitional paragraph on trusteeship scores poorly. Section 2 defines the
+> concept and Section 3(3) gives the thinker translation; this section supplies the **ladder** that
+> converts the doctrine into administrative practice, plus its limits.
+
+### The doctrine, stated accurately
+
+- ✅ **Core idea:** wealth, resources and power are held **in trust** for society; the holder has no
+  moral right of absolute ownership, only a stewardship coupled to an honourable livelihood. Gandhi
+  developed it across *Young India* and *Harijan*.
+- ✅ **The "Practical Trusteeship Formula"** — drafted in consultation with Gandhi and published in
+  *Harijan* (1952) — is the operational statement: trusteeship as a means of transforming, not
+  abolishing, the existing order; no right of ownership but a right to an honourable livelihood "no
+  better than that enjoyed by millions of others"; State regulation of trusteeship in the public
+  interest; and a statutory **minimum** with a limited **maximum** income.
+- ⚠️ **Two Gandhian companions that belong in the same answer:** the *talisman* / **Antyodaya** test —
+  recall the face of the poorest and weakest person you have seen and ask whether the step you
+  contemplate will be of any use to them; and the **Seven Social Sins** (*Young India*, 1925; ARC
+  Annexure-I — see `02`), of which *commerce without morality*, *wealth without work*, *politics
+  without principle* and *knowledge without character* are the trusteeship-adjacent four.
+- ⚠️ **Constitutional bridge:** **Articles 39(b) and 39(c)** of the Directive Principles — the
+  ownership and control of "the material resources of the community" to be so distributed as best to
+  subserve the common good, and the operation of the economic system not to result in concentration
+  of wealth to the common detriment — are the nearest constitutional restatement of a trusteeship
+  ethic. ⚠️ **Caution before citing:** the scope of "material resources of the community" was
+  reconsidered by a nine-judge Bench in *Property Owners' Association v. State of Maharashtra*
+  (2024), which narrowed the older expansive reading. ❌ Do not assert that all private property is
+  covered; use 39(b)/(c) as a **directive-principle analogue** of trusteeship, not as a settled
+  proposition about private assets.
+
+### The seven-step administrative ladder (the deliverable)
+
+| # | Domain of the officer's work | Trusteeship translation | Concrete administrative act | Cross-link |
+|---:|---|---|---|---|
+| 1 | **Office and authority** | Powers are held for citizens, never as personal entitlement or patronage stock | Refuse favour-based postings/transfers; no personal use of official position, vehicle, staff or influence; treat the office as a fiduciary holding | `14` (public office as trust) |
+| 2 | **Public money** | The budget is the trust corpus, not departmental property | Apply economy, efficiency, effectiveness and equity to every sanction; treat under-utilisation and squandering as breaches of trust, not clerical lapses | `18` §2 |
+| 3 | **Discretion** | A trustee's discretion is bounded, reasoned and never self-serving | Record reasons; apply criteria consistently; disclose and recuse on any personal interest | `09` §10, `09` §11 |
+| 4 | **Information** | A trustee renders account to the beneficiary | Proactive disclosure under RTI §4; publish criteria, waiting lists, sanction orders and utilisation data before being asked | `15` |
+| 5 | **Natural resources and the commons** | Public trust over land, water, forests, minerals and spectrum, with an intergenerational duty | Protect the commons from conversion to private benefit; insist on consent, compensation and restoration; weigh future beneficiaries | `13` (environmental ethics) |
+| 6 | **Prioritisation** | Antyodaya as the trustee's allocation rule | When rationing a scarce good, allocate first to the least advantaged and hardest to reach, and record the rationing criterion publicly | `04`, `07` (Rawls's difference principle) |
+| 7 | **Exit and succession** | A trustee hands over intact, and personalises nothing | Complete handover notes, asset and file registers, no "my scheme" branding, no dependence engineered on the individual officer | `16`, `17` |
+
+- ⚠️ **How the ladder answers the question's "fairness" clause:** steps 1-3 secure **procedural**
+  fairness (no favour, reasoned decisions, no conflict of interest); steps 4 and 7 secure
+  **accountability-based** fairness (the beneficiary can check the trustee); steps 5 and 6 secure
+  **distributive and intergenerational** fairness (who gets what, and who comes after).
+
+### Limitations (state at least one — this is where the marks separate)
+
+1. ⚠️ **Trusteeship is voluntary and moral, not self-enforcing.** Gandhi relied on a change of heart;
+   administration cannot. Without conflict-of-interest rules, audit, RTI and a grievance route, the
+   doctrine collapses into benevolent discretion — which is precisely the paternalism it was meant to
+   displace (see `08`'s paternalism treatment).
+2. ⚠️ **Trusteeship risks legitimising existing concentrations** of wealth and power by recasting the
+   holder as a steward; Ambedkar's structural critique — that inequality needs institutional and
+   legal correction, not the goodwill of the advantaged (Section 10) — is the standing objection and
+   should be named, not hidden.
+3. ⚠️ **A trustee can be honest and still unaccountable.** Good intent does not supply the forum,
+   explanation and correction elements that accountability requires (`11` §2).
+4. ⚠️ **Reply that saves the doctrine:** trusteeship is best used as the *internal disposition* that
+   makes fiduciary rules feel obligatory rather than burdensome, paired with the *external
+   scaffolding* of audit, disclosure and sanction. Disposition without scaffolding is sentiment;
+   scaffolding without disposition is evasion.
+
+### Traps
+
+- ❌ Writing a biography of Gandhi or a history of the trusteeship debate. -> The directive is "in
+  what ways can an officer apply"; every paragraph must name an administrative act.
+- ❌ Treating trusteeship as a wealth-redistribution policy proposal. -> In an officer's hands it is a
+  **fiduciary standard for the use of office, money, discretion and the commons**.
+- ❌ Citing Article 39(b) as settled authority over private property. -> See the 2024 caution above.
+- ❌ Omitting the limitation. -> An unqualified "trusteeship solves it" answer reads as exhortation.
+
+### 10-mark answer spine (~150 words)
+
+Define trusteeship precisely (no absolute ownership; stewardship for society; Practical Trusteeship
+Formula) -> state the officer-specific translation in one line: *public office is a trust, public
+money is its corpus, citizens are the beneficiaries* -> give **four or five rungs** of the ladder
+with a concrete act each (office, funds, discretion, disclosure, Antyodaya prioritisation) -> add the
+constitutional analogue (Art. 39(b)/(c), with the 2024 caution) and the *talisman* as the allocation
+test -> state one limitation (voluntary, needs statutory scaffolding; Ambedkar's structural critique)
+-> verdict: *trusteeship supplies the disposition, institutions supply the proof; fairness in
+governance requires both.*
+
 ## 11. Social capital and good governance
 
 > ⚠️ 2023 GS-IV Q6(b) (historical demand, routed here at the 06/11 boundary): explain social capital
@@ -247,6 +480,21 @@ safeguard from `11`/`16`/`20`]."
 - ✅ `Philosophy/paper-1/indian/Buddhism.md` — Buddha's philosophy in full depth.
 - ✅ `11_Accountability-and-Ethical-Governance.md` — social capital's role in the social-control layer.
 - ✅ `Polity/advanced/09_Fundamental-Duties.md` — Ambedkar's constitutional-law grounding.
+- ✅ `07_Western-Moral-Philosophers-and-Thinkers.md` — Rawls's framework used in Section 10A's
+  comparison table, and the harm-principle/paternalism definitions.
+- ✅ `14_Probity-Concept-and-Philosophical-Basis-of-Governance.md` — public-office-as-trust, the
+  probity register that Section 10B's ladder operationalises.
+
+<!-- 2026 POINTER (non-generated; kept outside the generated PYQ blocks below) -->
+## 2026 GS-IV Section-A pointer
+
+> ⚠️ The generated PYQ blocks below end at 2024-2025. The **2026 GS-IV Section-A** routing ledger for
+> all thirteen official parts is maintained separately in
+> [`../_PYQ-GS4-SectionA-2026.md`](../_PYQ-GS4-SectionA-2026.md).
+>
+> **Parts primarily owned here:** **2026 Q3(a)** — Ambedkar, civil disobedience and the "grammar of
+> anarchy" (see **Section 10A**); **2026 Q3(b)** — applying Gandhi's trusteeship to ensure fairness in
+> governance (see **Section 10B**).
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)

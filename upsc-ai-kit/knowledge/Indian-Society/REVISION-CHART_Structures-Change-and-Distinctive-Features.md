@@ -362,6 +362,7 @@ informal settlement/work + congestion + service stress
 | Consumption | Choice and aspirational mobility | Debt, status anxiety and commodification |
 | Family | Transnational ties and negotiated roles | Distance care and intergenerational tension |
 | Culture | Hybrid forms and global visibility | Appropriation and market standardisation |
+| Political mobilisation (youth) | Issue-based mobilisation, global-discourse absorption, diaspora feedback, political consumerism | Engagement-participation gap; polarisation risk |
 
 ### Key concepts
 
@@ -374,6 +375,14 @@ informal settlement/work + congestion + service stress
 | Consumerism | Identity/status increasingly organised around consumption |
 
 > **Balanced verdict:** Globalisation neither simply destroys tradition nor leaves it untouched. It selectively commercialises, hybridises, revives and marginalises different practices.
+
+> **15-mark memory line (globalisation's impact on Indian youth across SPEC
+> spheres, 2026 GS-I Q20):** Use the SPEC quadrant (Social/Political/Economic/
+> Cultural) — for the political channel specifically, argue issue-based over
+> ideology-based mobilisation, cite the diaspora feedback loop and name the
+> citizenship-law (2019-20) and farm-law (2020-21) protests as evidence, then
+> qualify with the engagement-participation gap counterpoint. Full dossier:
+> `basic/11_Effects-of-Globalisation-on-Indian-Society.md`.
 
 ---
 

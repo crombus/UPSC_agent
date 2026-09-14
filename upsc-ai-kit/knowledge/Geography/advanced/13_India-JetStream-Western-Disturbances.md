@@ -46,6 +46,57 @@
 - ✅ Loo is a local pre-monsoon hot dry wind of NW/northern plains, not a planetary wind.
 - ✅ Himalayas block cold Siberian/Central Asian air masses.
 
+## 4A. Fujiwhara interaction: advanced forecast mechanics
+
+> The Core owner contains the complete GS-I answer. This section adds the
+> three-dimensional qualification needed to avoid the textbook error that two
+> identical point vortices merely circle and merge.
+
+| Layer | What it explains |
+|---|---|
+| Horizontal/barotropic interaction | Each vortex advects the other around a common centroid; separation and relative circulation determine the orbital tendency |
+| Vertical wind shear | One cyclone's circulation can tilt or ventilate the other's vortex, weakening its inner-core organisation |
+| Asymmetric convection/heating | Convection concentrated on one side shifts the effective circulation and alters the track from the simple two-vortex path |
+| Background steering | Ridge, trough, monsoon flow and beta drift continue to act; the observed track is a superposition, not a pure orbit |
+
+### Outcome decision chain
+
+```text
+nearby vortices
+      |
+      v
+overlapping circulation fields
+      |
+      +-> similar strength + persistent proximity -> mutual orbit
+      |
+      +-> dominant vortex -> deformation / absorption of weaker vortex
+      |
+      +-> strong environmental steering -> elastic deflection and separation
+      |
+      +-> adverse shear / disrupted convection -> weakening or straining-out
+```
+
+- ⚠️ A distance threshold is operational guidance, not a physical switch.
+- ⚠️ A common centroid is weighted by vortex circulation and structure; it need
+  not lie geometrically halfway between the eyes.
+- ⚠️ Apparent repulsion or escape does not disprove interaction: it can result
+  from the combined three-dimensional and environmental flow.
+- ⚠️ Merger increases circulation size more reliably than maximum wind speed;
+  never write "two cyclones combine into a super-cyclone."
+
+### Comparative examples
+
+| Pair | Basin/year | Analytical use |
+|---|---|---|
+| Hilary-Irwin | Eastern Pacific, 2017 | Clear Northern Hemisphere mutual rotation and track change |
+| Seroja-Odette | Australian region, 2021 | Southern Hemisphere interaction and operational forecast significance |
+| Parma-Melor | Western North Pacific, 2009 | Demonstrates that interaction can include elastic behaviour, partial merger and straining rather than one standard outcome |
+
+**Advanced conclusion:** Fujiwhara interaction is best understood as a
+forecasting problem in coupled vortex dynamics: mutual steering is the core,
+but vertical structure, convection and the large-scale flow decide the realised
+track and intensity.
+
 ## ➕ Rossby Waves (jet-stream / Western Disturbance PYQ gap)
 
 > ✅ Grounded in Majid Husain + D.R. Khullar + ⚠️ standard geography. Added to close a UPSC gap.
@@ -110,5 +161,5 @@ already increased every WD metric.
 
 ## 8. Study link
 
-Geography → Climate of India → Jet Streams & Western Disturbances  
+Geography → Climate of India → Jet Streams & Western Disturbances
 Geography → Climate of India → WD + ENSO + GS-III agriculture adaptation
