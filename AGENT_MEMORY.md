@@ -729,3 +729,25 @@ format.
   `python tools\generate_semantic_completeness_tracker.py`.
 - Universal recovery command:
   `Resume semantic-completeness review from KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md`.
+
+---
+
+## 10. Offline revision and MCQ system
+
+- Authoritative rules:
+  `upsc-ai-kit\practice\Offline-Revision-MCQ\START-HERE.md`.
+- Machine-readable progress:
+  `upsc-ai-kit\practice\Offline-Revision-MCQ\STATUS.json`.
+- **Recall command:** `Recall Offline Revision System`.
+  Read the rules and status, then report the saved protocol and exact pending position without
+  modifying files.
+- **Resume command:** `Resume Offline Revision System`.
+  Continue from the exact pending subject or topic on branch
+  `feature/offline-revision-mcq-system`.
+- Process Philosophy, Art and Culture, Economy, Ethics, and Political Theory one subject at a
+  time. No topic or substantive subtopic may be skipped, and source content may not be compressed
+  into shallow generic summaries.
+- Preserve complete revision material, hard MCQs, separate solutions, coverage ledgers,
+  learner-specific practice logs, answer-writing toolkits, and offline PDFs.
+- Commit and push each validated subject or coherent milestone to the isolated feature branch.
+  Do not modify or merge into another branch without explicit user instruction.

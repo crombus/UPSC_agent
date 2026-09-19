@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "system": "Offline Revision and MCQ System",
+  "branch": "feature/offline-revision-mcq-system",
+  "recall_command": "Recall Offline Revision System",
+  "resume_command": "Resume Offline Revision System",
+  "source_of_truth": "upsc-ai-kit/practice/Offline-Revision-MCQ/START-HERE.md",
+  "current_subject": "Philosophy",
+  "next_action": "Inventory canonical Philosophy topics and choose one pilot topic.",
+  "subjects": [
+    {
+      "name": "Philosophy",
+      "status": "pending"
+    },
+    {
+      "name": "Art and Culture",
+      "status": "pending"
+    },
+    {
+      "name": "Economy",
+      "status": "pending"
+    },
+    {
+      "name": "Ethics",
+      "status": "pending"
+    },
+    {
+      "name": "Political Theory",
+      "status": "pending"
+    }
+  ],
+  "locked_rules": {
+    "subject_wise": true,
+    "no_skipping": true,
+    "no_compression": true,
+    "preserve_existing_attempts": true,
+    "questions_and_solutions_separate": true,
+    "markdown_canonical": true,
+    "pdf_required": true,
+    "push_validated_milestones": true
+  }
+}
