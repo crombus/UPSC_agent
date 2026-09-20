@@ -6,7 +6,7 @@
   "resume_command": "Resume Offline Revision System",
   "source_of_truth": "upsc-ai-kit/practice/Offline-Revision-MCQ/START-HERE.md",
   "current_subject": "Philosophy",
-  "next_action": "Build the next canonical Philosophy topic: Philosophy Paper I — Western Philosophy — 05 Hegel.",
+  "next_action": "Build the next canonical Philosophy topic: Philosophy Paper I — Western Philosophy — 06 Moore, Russell and Early Wittgenstein.",
   "subjects": [
     {
       "name": "Philosophy",
@@ -58,7 +58,9 @@
       "section": "Philosophy Paper I — Western Philosophy",
       "topic": "01 Plato and Aristotle",
       "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle",
-      "status": "validated"
+      "status": "validated",
+      "mcq_count": 40,
+      "mcq_sizing": "coverage-driven"
     },
     {
       "subject": "Philosophy",
@@ -85,6 +87,15 @@
       "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/04-Kant",
       "status": "validated",
       "mcq_count": 42,
+      "mcq_sizing": "coverage-driven"
+    },
+    {
+      "subject": "Philosophy",
+      "section": "Philosophy Paper I — Western Philosophy",
+      "topic": "05 Hegel",
+      "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel",
+      "status": "validated",
+      "mcq_count": 52,
       "mcq_sizing": "coverage-driven"
     }
   ]
