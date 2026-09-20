@@ -6,11 +6,11 @@
   "resume_command": "Resume Offline Revision System",
   "source_of_truth": "upsc-ai-kit/practice/Offline-Revision-MCQ/START-HERE.md",
   "current_subject": "Philosophy",
-  "next_action": "Inventory canonical Philosophy topics and choose one pilot topic.",
+  "next_action": "Inventory the remaining Philosophy topics and create Philosophy SUBJECT-GUIDE.md before subject-wide generation.",
   "subjects": [
     {
       "name": "Philosophy",
-      "status": "pending"
+      "status": "in_progress"
     },
     {
       "name": "Art and Culture",
@@ -40,5 +40,12 @@
     "push_validated_milestones": true,
     "upstream_branch": "origin/upsc-complete-repair",
     "sync_strategy": "merge-checkpoints-no-rebase"
+  },
+  "pilot": {
+    "subject": "Philosophy",
+    "section": "Philosophy Paper I — Western Philosophy",
+    "topic": "01 Plato and Aristotle",
+    "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle",
+    "status": "validated"
   }
 }

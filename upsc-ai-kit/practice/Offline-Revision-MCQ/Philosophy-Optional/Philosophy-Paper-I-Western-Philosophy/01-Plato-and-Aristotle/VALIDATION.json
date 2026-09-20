@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "topic": "01 Plato and Aristotle",
+  "validated_at": "2026-09-20T06:42:24.987+05:30",
+  "result": "pass",
+  "pdf_generation": {
+    "mechanism": "tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
+    "command": "python -c \"from unicode_markdown_pdf import build_pdf; build_pdf(<markdown>, <pdf>, internal_index=True, ...)\""
+  },
+  "coverage_gaps": [
+    "No sufficiently direct doctrinal 2026 current-affairs linkage is present in the canonical package; none was fabricated."
+  ],
+  "checks": {
+    "required_files": {
+      "README.md": true,
+      "REVISION-GUIDE.md": true,
+      "MCQ-QUESTIONS.md": true,
+      "MCQ-SOLUTIONS.md": true,
+      "COVERAGE-LEDGER.md": true,
+      "PRACTICE-LOG.md": true,
+      "ANSWER-WRITING-TOOLKIT.md": true,
+      "pdf/Revision-Guide.pdf": true,
+      "pdf/MCQ-Questions.pdf": true,
+      "pdf/MCQ-Solutions.pdf": true,
+      "pdf/Answer-Writing-Toolkit.pdf": true
+    },
+    "mcq_numbering": {
+      "question_count": 32,
+      "solution_count": 32,
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "solutions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "exact_match": true
+    },
+    "question_leakage": {
+      "answer_label": false,
+      "option_explanations": false,
+      "examiner_trap": false,
+      "checkmark": false,
+      "bold_markup": false
+    },
+    "solutions_complete": {
+      "answers": 32,
+      "option_explanations": 32,
+      "examiner_traps": 32
+    },
+    "markdown_links": {
+      "checked": 17,
+      "broken": []
+    },
+    "pdfs": {
+      "Revision-Guide.pdf": {
+        "bytes": 1592916,
+        "pages": 65,
+        "blank_pages": []
+      },
+      "MCQ-Questions.pdf": {
+        "bytes": 215611,
+        "pages": 12,
+        "blank_pages": []
+      },
+      "MCQ-Solutions.pdf": {
+        "bytes": 359294,
+        "pages": 20,
+        "blank_pages": []
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "bytes": 628779,
+        "pages": 26,
+        "blank_pages": []
+      }
+    },
+    "temporary_files": [],
+    "git_diff_check": {
+      "exit_code": 0,
+      "output": ""
+    }
+  }
+}
