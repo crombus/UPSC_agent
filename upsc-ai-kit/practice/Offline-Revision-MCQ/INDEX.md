@@ -9,8 +9,9 @@
   - [04 Kant](Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/04-Kant/README.md) — validated; coverage-sized bank of 42 MCQs and 11 directly owned solved PYQs through 2026.
   - [05 Hegel](Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/README.md) — validated; coverage-sized bank of 52 MCQs and 7 directly owned solved PYQs through 2026.
   - [06 Moore, Russell and Early Wittgenstein](Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/README.md) — validated; coverage-sized bank of 56 MCQs and 16 directly owned solved PYQs through 2026.
+  - [07 Logical Positivism](Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/README.md) — validated; coverage-sized bank of 54 MCQs and 8 directly owned solved PYQs through 2026.
 
-Philosophy remains in progress. The next canonical topic is **07 Logical Positivism**.
+Philosophy remains in progress. The next canonical topic is **08 Later Wittgenstein**.
 
 ## Global guides
 

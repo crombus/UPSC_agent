@@ -1,0 +1,709 @@
+{
+  "schema_version": 7,
+  "topic": "07 Logical Positivism",
+  "validated_at": "2026-09-20T14:50:18+05:30",
+  "result": "PASS",
+  "result_gate": "PASS only when every recorded check passes",
+  "pdf_generation": {
+    "mechanism": "C:/up/tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
+    "all_four_regenerated": false
+  },
+  "checks": {
+    "required_files": {
+      "README.md": true,
+      "REVISION-GUIDE.md": true,
+      "MCQ-QUESTIONS.md": true,
+      "MCQ-SOLUTIONS.md": true,
+      "COVERAGE-LEDGER.md": true,
+      "PRACTICE-LOG.md": true,
+      "ANSWER-WRITING-TOOLKIT.md": true,
+      "validate_package.py": true,
+      "pdf/Revision-Guide.pdf": true,
+      "pdf/MCQ-Questions.pdf": true,
+      "pdf/MCQ-Solutions.pdf": true,
+      "pdf/Answer-Writing-Toolkit.pdf": true
+    },
+    "mcq_numbering": {
+      "question_count": 54,
+      "solution_count": 54,
+      "exact_match": true,
+      "all_questions_have_four_options": true,
+      "question_solution_prompts_match": true,
+      "pass": true
+    },
+    "question_leakage": {
+      "**Answer:": false,
+      "Option explanations:": false,
+      "Examiner trap": false,
+      "Repair action:": false,
+      "Coverage mapping:": false,
+      "PYQ linkage:": false,
+      "Correct answer:": false
+    },
+    "cross_file_answer_leakage": {
+      "REVISION-GUIDE.md": {
+        "matches": [],
+        "pass": true
+      },
+      "ANSWER-WRITING-TOOLKIT.md": {
+        "matches": [],
+        "pass": true
+      }
+    },
+    "revision_guide_separation": {
+      "solved_mcq_headings": 0,
+      "correct_answer_markers": 0,
+      "option_explanation_markers": 0,
+      "pass": true
+    },
+    "neutral_titles": {
+      "questions_all_exactly_mcq_number": true,
+      "revealing_title_count": 0
+    },
+    "option_formatting_cues": {
+      "metric": "Unicode character count of each visible option",
+      "correct_is_longest_count": 16,
+      "correct_is_longest_rate_percent": 29.63,
+      "uniquely_longest_correct_count": 15,
+      "uniquely_longest_rate_percent": 27.78,
+      "correct_mean_characters": 107.815,
+      "distractor_mean_characters": 97.136,
+      "comparability_threshold": "max-minus-min <= 45 and max/min <= 1.65",
+      "comparability_outliers": [],
+      "padding_matches": [],
+      "grammatically_incomplete_options": [],
+      "punctuation": {
+        "correct_period_count": 54,
+        "correct_period_rate_percent": 100.0,
+        "distractor_period_count": 162,
+        "distractor_period_rate_percent": 100.0,
+        "absolute_rate_gap_percent": 0.0
+      },
+      "token_and_punctuation_correlation": {
+        "population": {
+          "correct_options": 54,
+          "distractor_options": 162
+        },
+        "thresholds": {
+          "low_frequency_definition": "2-12 total option occurrences",
+          "exclusive_correct_rule": "fail whenever a feature occurs in one or more correct options and zero distractors",
+          "low_frequency_rule": "fail when more than 50% of 2-12 occurrences are in correct options",
+          "common_feature_rule": "for more than 12 occurrences, fail when correct-option rate exceeds 2x distractor-option rate by at least 5 percentage points",
+          "within_question_rule": "fail when the correct option alone carries a listed marker"
+        },
+        "features": {
+          "semicolon": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "pass": true
+          },
+          "colon": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "pass": true
+          },
+          "em_or_en_dash": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "pass": true
+          },
+          "parentheses": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "pass": true
+          },
+          "but": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "pass": true
+          },
+          "however": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "pass": true
+          },
+          "whereas": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "pass": true
+          },
+          "although": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "pass": true
+          },
+          "yet": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "pass": true
+          },
+          "though": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "pass": true
+          },
+          "despite": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "pass": true
+          }
+        },
+        "unique_marker_only_on_correct_option": [],
+        "failed_features": [],
+        "pass": true
+      },
+      "repeated_templates": {
+        "suffix_frequency_correct_vs_distractor": {},
+        "prefix_template_frequency_correct_vs_distractor": {},
+        "pass": true
+      },
+      "only_correct_lacks_repeated_or_padded_template": [],
+      "pass": true
+    },
+    "answer_pattern": {
+      "distribution": {
+        "C": 13,
+        "A": 14,
+        "D": 13,
+        "B": 14
+      },
+      "maximum_consecutive_same_answer": 2,
+      "mechanical_abcd_rotation": false,
+      "key": "CADACBCDDADDBDCBBDCBACBDADACCBDAABABCACACBBCBCBAADDADB",
+      "pass": true
+    },
+    "solutions_complete": {
+      "**Answer:": 54,
+      "**Option explanations:**": 54,
+      "**Examiner trap": 54,
+      "**Repair action:**": 54,
+      "**Coverage mapping:**": 54,
+      "**PYQ linkage:**": 54,
+      "expected_each": 54,
+      "pass": true
+    },
+    "specific_distractor_explanations": {
+      "checked": 216,
+      "incorrect_options_checked": 162,
+      "requirements": [
+        "name the false proposition exactly",
+        "state the correct replacement exactly",
+        "include a substantive doctrinal rationale",
+        "exclude listed generic-verdict patterns"
+      ],
+      "failures": [],
+      "pass": true
+    },
+    "deduplication": {
+      "exact_duplicate_stems_absent": true,
+      "highest_stem_similarity": 0.684,
+      "highest_similarity_pair": [
+        13,
+        50
+      ],
+      "substantive_similarity_flags": [],
+      "final_count": 54,
+      "pass": true
+    },
+    "source_lineage": {
+      "source_question_count": 56,
+      "retained_exact_stems": 0,
+      "adapted_questions": 36,
+      "replaced_or_merged_source_questions": 20,
+      "new_matrix_operations": 18,
+      "final_count": 54,
+      "recorded_in_coverage_ledger": true,
+      "pass": true
+    },
+    "verified_pyqs": {
+      "directly_owned_count": 8,
+      "parts": [
+        [
+          "2018",
+          "Q3(b)",
+          15
+        ],
+        [
+          "2019",
+          "Q2(a)",
+          20
+        ],
+        [
+          "2020",
+          "Q1(e)",
+          10
+        ],
+        [
+          "2021",
+          "Q2(b)",
+          15
+        ],
+        [
+          "2023",
+          "Q3(a)",
+          20
+        ],
+        [
+          "2024",
+          "Q3(b)",
+          15
+        ],
+        [
+          "2025",
+          "Q3(b)",
+          15
+        ],
+        [
+          "2026",
+          "Q4(c)",
+          15
+        ]
+      ],
+      "component_checks": {
+        "2018 Q3(b)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 268,
+          "stated_words": 268,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2019 Q2(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured_words": 376,
+          "stated_words": 377,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2020 Q1(e)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 184,
+          "stated_words": 184,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2021 Q2(b)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 263,
+          "stated_words": 263,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2023 Q3(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured_words": 362,
+          "stated_words": 362,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2024 Q3(b)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 270,
+          "stated_words": 271,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2025 Q3(b)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 283,
+          "stated_words": 283,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2026 Q4(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 277,
+          "stated_words": 277,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        }
+      },
+      "all_exact_and_complete": true
+    },
+    "original_solved_practice": {
+      "question_count": 3,
+      "solutions": {
+        "## Original 1 · 10 marks": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 190,
+          "stated_words": 190,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "why_it_earns_marks": true
+        },
+        "## Original 2 · 15 marks": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 262,
+          "stated_words": 262,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "why_it_earns_marks": true
+        },
+        "## Original 3 · 20 marks": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured_words": 368,
+          "stated_words": 368,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "why_it_earns_marks": true
+        }
+      },
+      "all_complete": true
+    },
+    "portable_provenance": {
+      "ledger_files_exist": true,
+      "learner_practice_not_official_keys": true
+    },
+    "pass": true,
+    "source_retention_integrity": {
+      "revision_word_count": 20635,
+      "core_sessions": {
+        "SESSION 1": true,
+        "SESSION 2": true,
+        "SESSION 3": true,
+        "SESSION 4": true,
+        "SESSION 5": true,
+        "SESSION 6": true,
+        "SESSION 7": true,
+        "SESSION 8": true,
+        "SESSION 9": true,
+        "SESSION 10": true
+      },
+      "advanced_sessions": {
+        "ADVANCED SESSION 1": true,
+        "ADVANCED SESSION 2": true,
+        "ADVANCED SESSION 3": true,
+        "ADVANCED SESSION 4": true,
+        "ADVANCED SESSION 5": true,
+        "ADVANCED SESSION 6": true,
+        "ADVANCED SESSION 7": true,
+        "ADVANCED SESSION 8": true,
+        "ADVANCED SESSION 9": true,
+        "ADVANCED SESSION 10": true
+      },
+      "ryle_austin_content_level": {
+        "heading": true,
+        "words": 331,
+        "assertions": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "pass": true
+      },
+      "canonical_exam_apparatus_content_level": {
+        "heading": true,
+        "words": 675,
+        "assertions": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "pass": true
+      },
+      "godel_qualification": {
+        "required_scope_present": true,
+        "forbidden_overclaims": [],
+        "pass": true
+      },
+      "coverage_ledger_content_rows": true,
+      "pass": true
+    },
+    "revision_front_matter_provenance": {
+      "required_accuracy_statement": true,
+      "forbidden_claims": [],
+      "pass": true
+    },
+    "current_affairs_nonfabrication": true,
+    "markdown_links": {
+      "checked": 11,
+      "broken": [],
+      "pass": true
+    },
+    "pdfs": {
+      "Revision-Guide.pdf": {
+        "bytes": 1149307,
+        "pages": 69,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "raw_markdown_artifacts": [],
+        "pass": true
+      },
+      "MCQ-Questions.pdf": {
+        "bytes": 170018,
+        "pages": 14,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "raw_markdown_artifacts": [],
+        "pass": true
+      },
+      "MCQ-Solutions.pdf": {
+        "bytes": 482174,
+        "pages": 37,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "raw_markdown_artifacts": [],
+        "pass": true
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "bytes": 251070,
+        "pages": 17,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "raw_markdown_artifacts": [],
+        "pass": true
+      }
+    },
+    "practice_log_blank_template": true,
+    "temporary_files_left": [],
+    "git_diff_check": {
+      "exit_code": 0,
+      "output": ""
+    },
+    "git_status_awareness": {
+      "short_status": [
+        " M practice/Offline-Revision-MCQ/INDEX.md",
+        " M practice/Offline-Revision-MCQ/STATUS.json",
+        "?? practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/"
+      ],
+      "topic_package_is_untracked": true,
+      "untracked_files_are_not_treated_as_an_empty_diff": true
+    },
+    "status_expectations": {
+      "topic_07_validated": true,
+      "next_topic": true
+    },
+    "index_expectations": {
+      "topic_07_listed": true,
+      "next_topic": true
+    }
+  },
+  "failures": []
+}
