@@ -35,6 +35,7 @@
     "no_compression": true,
     "preserve_existing_attempts": true,
     "questions_and_solutions_separate": true,
+    "every_verified_pyq_fully_solved": true,
     "markdown_canonical": true,
     "pdf_required": true,
     "push_validated_milestones": true,

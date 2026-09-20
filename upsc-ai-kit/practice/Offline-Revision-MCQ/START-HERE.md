@@ -41,18 +41,27 @@ It must remain usable from the repository alone in Markdown and PDF form.
    - Assign each question-part to exactly one primary topic and add cross-links for genuinely
      shared demands; cross-links must not inflate ownership counts.
    - Do not invent, reconstruct, or imply questions that are not available in verified evidence.
-7. No skipping:
+7. **Solved-PYQ rule (locked):**
+   - Every verified PYQ routed to a topic must appear in that topic's
+     `ANSWER-WRITING-TOOLKIT.md`, which is also the topic's solved Mains/PYQ workbook.
+   - A question-only listing, answer spine, or brief hint does not count as solved.
+   - Every PYQ requires its year, question number, marks, exact verified wording, demand decoding,
+     complete independent model answer, important qualification or criticism, and an explanation
+     of why the structure earns marks.
+   - Clearly state that model answers are independent learner practice and are not official UPSC
+     answer keys.
+8. No skipping:
    - Cover every canonical topic and every substantive subtopic in the selected subject.
    - Cover definitions, classifications, mechanisms, chronology, institutions, laws, exceptions,
      comparisons, criticisms, examples, current linkages, PYQ demands, and application.
-8. No compression:
+9. No compression:
    - Do not replace complete teaching or revision material with a generic short summary.
    - Preserve all substantive reasoning, distinctions, examples, diagrams, flow logic, traps,
      qualifications, and answer-writing value.
    - Remove only true duplication, chat noise, tool output, and navigation prompts.
-9. Do not overwrite existing learner history. Generation must be deterministic and resumable.
-10. Validate each pilot topic before generating the full subject.
-11. Commit and push each validated subject or other coherent milestone to the isolated branch.
+10. Do not overwrite existing learner history. Generation must be deterministic and resumable.
+11. Validate each pilot topic before generating the full subject.
+12. Commit and push each validated subject or other coherent milestone to the isolated branch.
     Keep every push comfortably below GitHub's 2-GiB limit.
 
 ## Directory architecture
@@ -262,6 +271,7 @@ The global `ANSWER-WRITING-GUIDE.md` must explain:
 
 Every topic's `ANSWER-WRITING-TOOLKIT.md` must include:
 
+- every verified PYQ routed to the topic through the latest available year, fully solved;
 - syllabus demand and recurring PYQ themes;
 - multiple valid introduction approaches;
 - topic-specific high-value analytical lines;
@@ -272,6 +282,10 @@ Every topic's `ANSWER-WRITING-TOOLKIT.md` must include:
 - way-forward points and conclusion approaches;
 - original 10-, 15-, and 20-mark questions;
 - complete model answer structures or solutions.
+
+For verified PYQs, use complete model answers rather than answer structures alone. Model
+structures without a developed answer are acceptable only for additional original drills that
+are explicitly labelled as outline practice.
 
 High-value lines must add conceptual precision, causal reasoning, balance, evidence, or a qualified
 judgement. Do not use decorative quotations, generic filler, or promise that a memorized phrase

@@ -21,3 +21,11 @@ Oral recall → introductions/conclusions/diagrams → five-minute skeletons →
 ## Self-evaluation
 
 Check demand coverage, conceptual accuracy, named evidence, causal logic, objection/reply balance, examples, and whether the conclusion actually answers the question. Compare structure before wording; model answers are learning aids, not scripts to reproduce.
+
+## Solved-PYQ completeness rule
+
+Every verified PYQ assigned to a topic must be included in that topic's
+`ANSWER-WRITING-TOOLKIT.md` with its year, question number, marks, exact verified wording, demand
+decoding, complete independent model answer, qualification or criticism, and an explanation of
+why the structure earns marks. A question list, hint, or answer spine alone is not a solved PYQ.
+Model answers are independent learner practice and are never presented as official UPSC keys.

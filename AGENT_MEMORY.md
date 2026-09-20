@@ -754,6 +754,11 @@ format.
   explicitly verified repository ledger, assign one primary owner with cross-links where needed,
   and never fabricate unavailable questions. Verified 2026 Philosophy papers are currently
   available in the repository.
+- **Solved-PYQ rule:** every verified PYQ routed to a topic must include its verified year,
+  question number, marks and wording, demand decoding, a complete independent model answer,
+  qualification or criticism, and why the structure earns marks in that topic's
+  `ANSWER-WRITING-TOOLKIT.md`. A question list, hint, or answer spine alone is not a solved PYQ;
+  model answers are independent learner practice, not official UPSC keys.
 - Commit and push each validated subject or coherent milestone to the isolated feature branch.
   Do not modify or merge into another branch without explicit user instruction.
 - **Concurrent-session isolation:** every simultaneously active terminal or agent session must use

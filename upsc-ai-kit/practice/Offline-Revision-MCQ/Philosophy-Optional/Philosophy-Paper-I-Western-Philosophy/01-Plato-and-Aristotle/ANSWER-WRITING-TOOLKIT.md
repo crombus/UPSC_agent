@@ -1,6 +1,9 @@
 # Plato and Aristotle — Answer-Writing Toolkit
 
-> Topic-specific transfer manual. Model answers are independent learner practice, never official UPSC keys. Use Plato's Stephanus references and Aristotle's Bekker references; prefer accurate references to uncertain quotations.
+> This is the topic's solved Mains/PYQ workbook and transfer manual. Every verified PYQ routed
+> here through 2026 has a complete independent model answer. These are learner-practice answers,
+> never official UPSC keys. Use Plato's Stephanus references and Aristotle's Bekker references;
+> prefer accurate references to uncertain quotations.
 
 ## Directive handling
 

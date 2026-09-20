@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topic": "01 Plato and Aristotle",
-  "validated_at": "2026-09-20T07:12:01+05:30",
+  "validated_at": "2026-09-20T07:24:00+05:30",
   "result": "pass",
   "pdf_generation": {
     "mechanism": "tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
@@ -131,7 +131,7 @@
         "blank_pages": []
       },
       "Answer-Writing-Toolkit.pdf": {
-        "bytes": 693353,
+        "bytes": 692759,
         "pages": 29,
         "blank_pages": [],
         "required_2026_text_present": true
@@ -147,6 +147,7 @@
       "directly_owned_count": 14,
       "distinct_question_parts": 14,
       "toolkit_has_14_distinct_parts": true,
+      "all_14_pyqs_have_complete_model_answers": true,
       "official_scan": {
         "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\books\\mains\\2026\\QP-CSM-26-010926-Optional-PHILOSOPHY-PAPER_I.pdf",
         "exists": true,
