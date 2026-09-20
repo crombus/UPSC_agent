@@ -6,7 +6,7 @@
   "resume_command": "Resume Offline Revision System",
   "source_of_truth": "upsc-ai-kit/practice/Offline-Revision-MCQ/START-HERE.md",
   "current_subject": "Philosophy",
-  "next_action": "Inventory the remaining Philosophy topics and create Philosophy SUBJECT-GUIDE.md before subject-wide generation.",
+  "next_action": "Build the next canonical Philosophy topic: Philosophy Paper I — Western Philosophy — 03 Empiricism.",
   "subjects": [
     {
       "name": "Philosophy",
@@ -48,5 +48,21 @@
     "topic": "01 Plato and Aristotle",
     "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle",
     "status": "validated"
-  }
+  },
+  "validated_topics": [
+    {
+      "subject": "Philosophy",
+      "section": "Philosophy Paper I — Western Philosophy",
+      "topic": "01 Plato and Aristotle",
+      "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle",
+      "status": "validated"
+    },
+    {
+      "subject": "Philosophy",
+      "section": "Philosophy Paper I — Western Philosophy",
+      "topic": "02 Rationalism",
+      "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/02-Rationalism",
+      "status": "validated"
+    }
+  ]
 }
