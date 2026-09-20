@@ -21,7 +21,7 @@
       "status": "pending"
     },
     {
-      "name": "Ethics",
+      "name": "Polity",
       "status": "pending"
     },
     {
@@ -37,6 +37,8 @@
     "questions_and_solutions_separate": true,
     "markdown_canonical": true,
     "pdf_required": true,
-    "push_validated_milestones": true
+    "push_validated_milestones": true,
+    "upstream_branch": "origin/upsc-complete-repair",
+    "sync_strategy": "merge-checkpoints-no-rebase"
   }
 }

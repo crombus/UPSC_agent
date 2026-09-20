@@ -744,7 +744,7 @@ format.
 - **Resume command:** `Resume Offline Revision System`.
   Continue from the exact pending subject or topic on branch
   `feature/offline-revision-mcq-system`.
-- Process Philosophy, Art and Culture, Economy, Ethics, and Political Theory one subject at a
+- Process Philosophy, Art and Culture, Economy, Polity, and Political Theory one subject at a
   time. No topic or substantive subtopic may be skipped, and source content may not be compressed
   into shallow generic summaries.
 - Preserve complete revision material, hard MCQs, separate solutions, coverage ledgers,
@@ -754,3 +754,7 @@ format.
 - **Concurrent-session isolation:** every simultaneously active terminal or agent session must use
   a unique Git branch and a separate worktree. Never share, switch, reset, clean, stash, merge, or
   rebase a worktree owned by another active session.
+- **Offline upstream synchronization:** use explicit clean-worktree merge checkpoints from
+  `origin/upsc-complete-repair` before each new subject, after relevant repair updates, and before
+  final subject validation. Do not continuously rebase or force-push the published offline branch.
+  Uncommitted repair-session changes are unavailable until that session commits and pushes them.

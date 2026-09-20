@@ -22,7 +22,7 @@ It must remain usable from the repository alone in Markdown and PDF form.
    1. Philosophy
    2. Art and Culture
    3. Economy
-   4. Ethics
+   4. Polity
    5. Political Theory
 4. Never modify or delete the canonical learning packages, source knowledge files, existing
    all-topic MCQ atlas, existing practice logs, or learner attempts.
@@ -300,6 +300,19 @@ Do not encourage writing through increasing pain, numbness, tingling, swelling, 
 - Existing sessions are not automatically moved when this rule is introduced. Before starting
   new work, verify the current worktree and branch, and create a separate pair when either is
   already owned by another active session.
+- Treat `origin/upsc-complete-repair` as the upstream content branch for this system.
+- Do not continuously rebase this published feature branch. Rebasing would rewrite commit IDs and
+  require force-pushing while other work may depend on the branch.
+- Synchronize through explicit merge checkpoints:
+  1. before inventorying a new subject;
+  2. after the repair branch publishes relevant source updates;
+  3. before final validation of a completed subject.
+- At a synchronization checkpoint, first commit or otherwise obtain a clean offline worktree,
+  fetch `origin`, and merge `origin/upsc-complete-repair` into this feature branch. Resolve only
+  genuine conflicts in this worktree, rerun validation for affected topics, then commit and push
+  the merge.
+- Uncommitted work in the repair worktree cannot be synchronized. It becomes available only after
+  the other session commits and pushes it to `origin/upsc-complete-repair`.
 - Commit after each validated pilot or completed subject-sized milestone.
 - Push each commit or safe commit batch to `origin/feature/offline-revision-mcq-system`.
 - Never rewrite published history.
