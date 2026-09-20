@@ -6,7 +6,7 @@
   "resume_command": "Resume Offline Revision System",
   "source_of_truth": "upsc-ai-kit/practice/Offline-Revision-MCQ/START-HERE.md",
   "current_subject": "Philosophy",
-  "next_action": "Build the next canonical Philosophy topic: Philosophy Paper I — Western Philosophy — 03 Empiricism.",
+  "next_action": "Build the next canonical Philosophy topic: Philosophy Paper I — Western Philosophy — 04 Kant.",
   "subjects": [
     {
       "name": "Philosophy",
@@ -62,6 +62,13 @@
       "section": "Philosophy Paper I — Western Philosophy",
       "topic": "02 Rationalism",
       "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/02-Rationalism",
+      "status": "validated"
+    },
+    {
+      "subject": "Philosophy",
+      "section": "Philosophy Paper I — Western Philosophy",
+      "topic": "03 Empiricism",
+      "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism",
       "status": "validated"
     }
   ]
