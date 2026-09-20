@@ -751,3 +751,6 @@ format.
   learner-specific practice logs, answer-writing toolkits, and offline PDFs.
 - Commit and push each validated subject or coherent milestone to the isolated feature branch.
   Do not modify or merge into another branch without explicit user instruction.
+- **Concurrent-session isolation:** every simultaneously active terminal or agent session must use
+  a unique Git branch and a separate worktree. Never share, switch, reset, clean, stash, merge, or
+  rebase a worktree owned by another active session.

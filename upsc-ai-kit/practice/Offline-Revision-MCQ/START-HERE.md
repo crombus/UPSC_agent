@@ -293,9 +293,15 @@ Do not encourage writing through increasing pain, numbness, tingling, swelling, 
 
 - All work belongs on `feature/offline-revision-mcq-system`.
 - The original active worktree and its uncommitted files remain untouched.
+- Every concurrently active terminal or agent session must use its own Git branch and its own
+  worktree. Two sessions must never write through the same worktree.
+- Never switch, reset, clean, stash, merge, or rebase a worktree that is being used by another
+  session. A session may commit and push only its own scoped changes to its own branch.
+- Existing sessions are not automatically moved when this rule is introduced. Before starting
+  new work, verify the current worktree and branch, and create a separate pair when either is
+  already owned by another active session.
 - Commit after each validated pilot or completed subject-sized milestone.
 - Push each commit or safe commit batch to `origin/feature/offline-revision-mcq-system`.
 - Never rewrite published history.
 - Never merge into another branch without explicit user instruction.
 - Keep every push comfortably below 2 GiB.
-
