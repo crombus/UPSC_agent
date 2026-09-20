@@ -732,3 +732,260 @@ D. Citing Plato by Stephanus pagination and Aristotle by Bekker numbers, and clo
 - **D:** Correct: edition-invariant citation plus a reasoned verdict is the combination that signals textual control and analytical nerve together.
 
 **Examiner trap 32:** A verdict must follow from the body and must be graded rather than absolute — for example, that Aristotle's immanent form solves Plato's causal problem while inheriting his problem about universals.
+
+## MCQ 33. The Receptacle as a third kind
+
+Consider the following statements about the Receptacle *(chōra)* in Plato's *Timaeus*.
+
+1. It is introduced as a difficult third kind, distinct from the intelligible Forms and the sensible becoming that appears in it.
+2. It is a determinate material body manufactured by the Demiurge before the Demiurge copies the Forms.
+3. Its receiving role does not by itself make it straightforwardly identical with Aristotle's matter.
+
+Which of the statements given above are correct?
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+**Answer: C.**
+
+**Statement analysis:**
+- **1 is correct:** the *Timaeus* distinguishes the intelligible model, the generated copy and the Receptacle in which sensible becoming appears; "third kind" marks its exceptional ontological role.
+- **2 is incorrect:** the Demiurge orders becoming after the Forms but does not manufacture either the Forms or the Receptacle from nothing; describing *chōra* as an ordinary determinate body also gives it precisely the stable character it lacks.
+- **3 is correct:** both doctrines help articulate becoming, but *chōra* is a Platonic receiving "third kind", whereas Aristotelian matter is a correlative potential principle within a hylomorphic substance.
+
+**Option explanations:**
+- **A:** Incorrect: it recognises the threefold ontology but omits the essential warning against translating *chōra* directly into Aristotelian *hylē*.
+- **B:** Incorrect: statement 3 is sound, but statement 2 turns the receptacle into a created, determinate object and misstates the Demiurge's role.
+- **C:** Correct: it preserves both the Receptacle's third-kind status and the non-identity of the Platonic and Aristotelian frameworks.
+- **D:** Incorrect: including statement 2 collapses the ordering activity of the Demiurge into creation of the ontological field in which ordering occurs.
+
+**Examiner trap 33:** "Receptacle = matter" is an attractive shortcut because both receive determinations. It erases the different systems: *chōra* belongs to the *Timaeus*' model–copy–receptacle scheme, while matter belongs to Aristotle's immanent matter–form analysis.
+
+**Repair action:** Redraw the three-part *Timaeus* map — Forms as models, becoming as copies, Receptacle as the receiving third kind — and add beneath it: "not straightforwardly Aristotelian matter".
+
+**Coverage-cell mapping:** Plato's causal repertoire: Forms, Good, Demiurge and Receptacle — specifically the uncovered ontological status of *chōra* as the third kind.
+
+**PYQ linkage:** Supports the qualified account required in **2018 Q4(b)** on Aristotle's critique of Plato: do not answer the critique by falsely claiming that Plato supplies no cosmological or causal resources.
+
+## MCQ 34. Prime matter and substantial generation
+
+A candidate explains radical generation by saying that prime matter is "the smallest separable stuff left after every observable property is removed". Which correction is most accurate?
+
+A. Prime matter is a non-separable limit concept of pure potentiality required for substantial generation, not a bare body available for inspection.
+
+B. Prime matter is the last determinate element surviving every substantial change, and its continued identity numerically anchors the newly generated substance.
+
+C. Prime matter is Aristotle's revised name for the Platonic Receptacle, now treated as the common spatial container of all sensible forms.
+
+D. Prime matter is dispensable because genuine generation is only accidental alteration in which the underlying substance and its substantial form both remain.
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: prime matter is matter considered without determinate form, never independently actual; its function is to mark the limiting potential principle required by radical or substantial generation.
+- **B:** Incorrect: a determinate surviving material is relative matter, such as bronze for a statue; in substantial generation no prior determinate substantial form persists as the identity of the new substance.
+- **C:** Incorrect: the Revision Guide explicitly separates prime matter from the *Timaeus* Receptacle; similar receiving language does not establish doctrinal identity.
+- **D:** Incorrect: it reduces all change to accidental alteration and thereby makes the distinction between accidental change and substantial generation unintelligible.
+
+**Examiner trap 34:** Treating prime matter as microscopic stuff makes it an observable substance, while Aristotle introduces it precisely as a limiting posit that is never bare. The opposite trap is to discard it and then leave radical generation without an underlying potential principle.
+
+**Repair action:** Practise a three-line contrast: relative matter is determinate; prime matter is a non-separable limit; substantial generation acquires a new substantial form rather than preserving the old one.
+
+**Coverage-cell mapping:** Hylomorphism, relative/prime matter, privation and kinds of change — specifically prime matter's non-separable limiting status in determinate substantial change.
+
+**PYQ linkage:** Directly sharpens **2025 Q1(b)** on matter and form and supports **2019 Q2(b)** on developmental change by preventing the false claim that one substantial form persists through every change.
+
+## MCQ 35. What makes Aristotelian teleology internal
+
+An acorn develops into an oak under ordinary natural conditions. Consider the following interpretations.
+
+1. The mature form is the terminus toward which the organism's own powers are directed.
+2. The explanation need not attribute conscious foresight either to the acorn or to an external designer.
+3. The account differs both from imitation of a separated Platonic paradigm and from an explanation restricted to material impact and efficient sequence.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+**Answer: D.**
+
+**Statement analysis:**
+- **1 is correct:** in natural development form, efficient source and final end typically converge; the oak-form organises the process and is the determinate actuality toward which the acorn develops.
+- **2 is correct:** internal teleology means directedness of a natural power, not a conscious plan in the organism or an externally imposed designer's intention.
+- **3 is correct:** Aristotle places the explanatory principle in the developing substance, unlike Platonic paradigm-copy imitation, and retains formal and final explanation against a purely material-efficient mechanism.
+
+**Option explanations:**
+- **A:** Incorrect: statements 1 and 2 explain directedness without design, but omitting statement 3 loses the comparison that distinguishes Aristotle from both Plato and mechanism.
+- **B:** Incorrect: statements 2 and 3 are sound, but without statement 1 no positive account of the internal *telos* remains.
+- **C:** Incorrect: statements 1 and 3 are sound, but rejecting statement 2 wrongly turns natural teleology into conscious design.
+- **D:** Correct: all three jointly state the terminus, the absence of conscious planning and the doctrine's distance from its two principal rivals.
+
+**Examiner trap 35:** "For the sake of" does not mean that an acorn deliberates or that a divine artisan pushes it toward oakhood. Conversely, stripping the account to efficient mechanism removes the final-causal feature the question is testing.
+
+**Repair action:** For any organism, write one chain: internal potential → organised development → mature form as actuality/end; then add "directedness, not conscious design".
+
+**Coverage-cell mapping:** Four causes, organismic convergence and teleology — specifically internal directedness distinguished from design, Platonic imitation and mechanism.
+
+**PYQ linkage:** Directly supports **2022 Q2(b)** on the consonance of the four causes and **2019 Q2(b)** on the reasons for developmental changes in substance.
+
+## MCQ 36. Applying the two substance questions
+
+A horse is the ultimate subject of predicates such as "brown" and "swift", yet an enquirer asks why these bones and tissues constitute a horse rather than a heap. Which reading best applies Aristotle without conflating his texts?
+
+A. The *Categories* and *Metaphysics* Z give rival lists of primary substances, so one of the two accounts must be discarded.
+
+B. The *Categories* identifies the individual horse by subjecthood, while Z seeks the form or essence that explains the substancehood of that individual.
+
+C. The individual is primary in both works because form and essence are merely accidental predicates said of an independently complete matter.
+
+D. Form is primary in both works because the concrete horse is only a deficient copy of a separately existing equine universal.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the texts ask different questions at different explanatory depths; treating them as competing inventories creates a contradiction Aristotle need not hold.
+- **B:** Correct: *Categories* 2a11 identifies "this horse" as the ultimate subject, while *Metaphysics* Z.17 asks why this matter is this substance and answers through immanent form or essence.
+- **C:** Incorrect: bare matter is rejected as an adequate substance-candidate at Z.3, and substantial form is constitutive rather than an accident inhering in an already complete subject.
+- **D:** Incorrect: it imports Plato's separation into Aristotle; the equine form is the immanent explanatory principle of the concrete animal, not another-world exemplar.
+
+**Examiner trap 36:** Memorising "primary substance = individual" and applying it unchanged to Z misses Aristotle's shift from identifying the bearer of predicates to explaining what makes that bearer the kind of substance it is.
+
+**Repair action:** Use the formula: "*Categories*: which things are substances? — individuals. Z: what accounts for their substancehood? — form/essence as cause."
+
+**Coverage-cell mapping:** Substance in the *Categories* and *Metaphysics* Z — specifically the applied distinction between subjecthood and causal-explanatory essence.
+
+**PYQ linkage:** Strengthens the substance spine demanded by **2026 Q2(a)**, where Aristotle's account of the world's essence must move from concrete substance to hylomorphic and causal explanation.
+
+## MCQ 37. Pure actuality, immobility and final causation
+
+Consider the following statements about Aristotle's Unmoved Mover.
+
+1. Any unrealised potentiality would make it capable of being otherwise and therefore dependent on change for its fulfilment.
+2. Its motion of the cosmos is final rather than efficient: it is desired and thought, not a body that transmits motion by contact.
+3. Its immobility means that it can have no explanatory relation to motion and is retained only as an honorific name for the cosmos.
+
+Which of the statements given above are correct?
+
+A. 2 and 3 only
+
+B. 1 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+**Answer: C.**
+
+**Statement analysis:**
+- **1 is correct:** potentiality is capacity for a state not yet actual; admitting it into the first principle would admit mutability, incompletion and dependence, so pure actuality entails immobility.
+- **2 is correct:** *Metaphysics* XII (Λ).7 presents the mover as the object of desire and thought — "as the beloved moves the lover" — preserving its own changelessness.
+- **3 is incorrect:** immobility excludes being efficiently pushed or altered, not explanatory efficacy; final causation is precisely the relation by which it explains motion without undergoing motion.
+
+**Option explanations:**
+- **A:** Incorrect: statement 2 is accurate, but statement 3 mistakes non-efficient causation for explanatory idleness.
+- **B:** Incorrect: statement 1 is accurate, but statement 3 removes the final-causal function that makes the doctrine part of Aristotle's causal system.
+- **C:** Correct: it joins the modal reason for immobility to the non-contact mode of final causation.
+- **D:** Incorrect: including statement 3 would reduce the Unmoved Mover to a label, contrary to its role as the terminus of the actuality–potentiality analysis.
+
+**Examiner trap 37:** Candidates often infer either that an unmoved cause cannot cause or that the first mover must impart a first physical push. Both errors assume that all causation is efficient causation.
+
+**Repair action:** Rehearse the dependency chain: potentiality → capacity to change → incompletion; therefore pure actuality → immobility, while final attraction explains motion without contact.
+
+**Coverage-cell mapping:** Unmoved Mover as pure actuality and final cause — specifically why absence of potentiality entails immobility and why motion is final-causal.
+
+**PYQ linkage:** No directly owned PYQ isolates the Unmoved Mover, but this closes the argument used in **2020 Q1(a)** and **2023 Q2(b)** on actuality, potentiality and their priority.
+
+## MCQ 38. One problem, two rejected answers, one repair
+
+Which option correctly matches Aristotle's objections to the Atomists and Plato with his positive account of sensible substance?
+
+A. Atomism and Platonism fail for the same reason, namely denial of particulars; Aristotle repairs both by making universals separate substances.
+
+B. Atomism wrongly multiplies immaterial universals; Plato wrongly reduces reality to collisions; Aristotle retains efficient causation alone.
+
+C. Atomism fails because atoms change their essences; Plato fails because Forms are material; Aristotle replaces both with prime matter alone.
+
+D. Atomism lacks internal form and final explanation; separated Forms lack immanent causal purchase; hylomorphic substances are explained through all four causes.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Atomists emphatically retain particulars, and Aristotle's solution is immanent rather than separated form.
+- **B:** Incorrect: it reverses the opponents' positions and then reduces Aristotle to the efficient-causal vocabulary whose incompleteness motivates his repair.
+- **C:** Incorrect: Aristotle's complaint is not that atoms change essence or that Forms are material; prime matter alone cannot explain a determinate substance.
+- **D:** Correct: Atomism preserves particulars and material-efficient processes but cannot explain substantial unity, form and end; Plato preserves intelligible form but separates it; hylomorphism and the four causes keep matter and form together.
+
+**Examiner trap 38:** The two rejections are not interchangeable. Atomism puts too little form into its particulars; Platonism puts form in the wrong ontological place.
+
+**Repair action:** Memorise the 2026 spine: one problem — what is substance?; two failures — form absent/form separated; one repair — form in the matter, explained by four causes.
+
+**Coverage-cell mapping:** Fundamental metaphysics and the Atomist/Plato double rejection — specifically the paired defect and hylomorphic four-cause repair.
+
+**PYQ linkage:** Directly maps to **2026 Q2(a)** on Aristotle's fundamental metaphysical problem and his rejection of both Atomists and Plato.
+
+## MCQ 39. Immanent form and the problem of universals
+
+Why is it more accurate to say that Aristotle relocates, rather than simply eliminates, the problem of universals?
+
+A. He makes form immanent and causally explanatory, yet must still reconcile science's universal object with Z.13's denial that any universal is substance.
+
+B. He makes every species a separately existing substance, but locates that substance inside a physical place occupied by its instances.
+
+C. He denies that definition concerns form, so knowledge must shift from universal essences to the accidental histories of individuals.
+
+D. He treats universals as names only, although scientific definitions continue to use general terms as convenient summaries of individual histories.
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: immanence repairs separation and causal impotence, but Z.13 and the universality of scientific knowledge generate the disputed question whether substantial form is individual, species-level or differently universal.
+- **B:** Incorrect: "inside" is not a new physical address for a Platonic entity; immanence means that form constitutes the concrete compound as its essence and actuality.
+- **C:** Incorrect: definition targets essence or form, and scientific knowledge remains universal rather than becoming a chronicle of accidents.
+- **D:** Incorrect: Aristotle is not a nominalist; species and genera retain predicative and scientific reality even though they do not exist separately.
+
+**Examiner trap 39:** Saying "Aristotle solved the universals problem" confuses a major advance with a final settlement. He removes a second realm, but the relation between the knowable universal essence and this individual substance remains contested.
+
+**Repair action:** End comparison answers with a graded verdict: Aristotle defeats separation and improves causation, but the universal/particular status of immanent form remains a residual difficulty.
+
+**Coverage-cell mapping:** Optional advanced dispute and Plato–Aristotle comparison — specifically the relocation of the universals problem into the status of immanent form.
+
+**PYQ linkage:** Deepens **2024 Q1(a)** on their conceptions of form and supplies the qualification needed after Aristotle's positive answer in **2026 Q2(a)**.
+
+## MCQ 40. Blocking the regress without paying the causal debt
+
+A Platonist denies that the Form of Large is large in the same way as a large mountain and therefore blocks the self-predication premise of the Third Man. What follows?
+
+A. The theory is fully vindicated because every major Aristotelian objection to separated Forms, including causal impotence, depends on self-predication.
+
+B. The specific regress is weakened, but participation still needs a non-metaphorical account of how separated Forms explain particulars and change.
+
+C. The participation dilemma is solved because a non-self-predicating Form can be divided among its instances without itself having parts.
+
+D. The causal problem disappears because denying self-predication converts each Form into the efficient cause of its sensible copies.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: duplication, participation-as-metaphor, causal impotence and failure to explain generation do not require the self-predication premise.
+- **B:** Correct: the Third Man regress specifically depends on self-predication plus non-identity, but blocking that route leaves the theory's central explanatory relation unanalysed.
+- **C:** Incorrect: the whole-or-part participation dilemma concerns whether a Form is present in participants and is independent of whether the Form predicates itself.
+- **D:** Incorrect: denying a premise of the regress assigns no efficient power to Forms and gives no mechanism by which separation produces motion or generation.
+
+**Examiner trap 40:** Do not let the most famous objection stand for the whole critique. A successful reply to the Third Man can remove one regress while leaving participation and causal efficacy untouched.
+
+**Repair action:** Sort the critique into two columns: "needs self-predication" — Third Man; "does not" — duplication, participation dilemma/metaphor, causal impotence and generation.
+
+**Coverage-cell mapping:** Participation, imitation and Third Man — specifically why blocking self-predication does not discharge the independent participation and causal-efficacy burden.
+
+**PYQ linkage:** Directly strengthens **2018 Q4(b)** on Aristotle's critique and **2021 Q1(a)** on participation by preventing a one-objection answer.

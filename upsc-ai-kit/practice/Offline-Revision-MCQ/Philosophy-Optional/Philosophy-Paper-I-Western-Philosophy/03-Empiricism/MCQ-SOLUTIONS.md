@@ -784,3 +784,310 @@ D. listing every objection raised against each thinker without adjudicating betw
 - **D:** Incorrect: an unadjudicated list of objections is journalism, and the residual column is where judgement is actually shown.
 
 **Examiner trap 32:** The comparative mark is awarded for the **mechanism**, not for the coverage. State the criterion in the opening sentence and let the table function as evidence for it.
+
+## MCQ 33. Locke's decisive premise and dispositional innatism
+
+Consider the following statements about Locke's argument against innate ideas.
+
+1. The absence of conscious assent directly defeats an innatism on which the relevant content is occurrent from birth.
+2. A Cartesian may instead call an idea innate as a native disposition whose content becomes explicit only when suitable experience occasions it.
+3. If Locke excludes this reply simply by defining whatever is "in the mind" as presently perceived, the disputed anti-innatist conclusion has entered his premise.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 3 only
+
+**Answer: C.**
+
+**Statement analysis:**
+- **1 is correct:** absence of assent pressures a doctrine of consciously present content.
+- **2 is correct:** dispositional innatism treats experience as an occasion for eliciting a native capacity, not as the source that manufactures its content.
+- **3 is correct:** Locke may stipulate an occurrent sense of “in the mind”, but that stipulation cannot independently refute the rival dispositional sense without begging the disputed question.
+
+**Option explanations:**
+- **A:** Incorrect: it recognises the live dispositional reply but omits the dialectical problem created when Locke's premise decides the meaning of mental presence.
+- **B:** Incorrect: statements 2 and 3 are sound, but the lack of assent remains effective against the stronger occurrent version of innatism.
+- **C:** Correct: it distinguishes the target Locke defeats from the dispositional target that survives and identifies the premise on which the stronger verdict depends.
+- **D:** Incorrect: it retains the question-begging criticism but wrongly suppresses the Cartesian disposition that generates it.
+
+**Examiner trap 33:** Saying “children do not assent, therefore no idea is innate” treats every innatist as an occurrent innatist. The hard issue is whether Locke has refuted latent structure or merely defined it out.
+
+**Repair action:** Write a three-step distinction: occurrent content → absence of assent defeats it; dispositional capacity → absence of assent does not; “in mind = perceived” → contested premise, not neutral evidence.
+
+**Coverage-cell mapping:** Locke's anti-innatism — specifically dispositional innatism and whether the decisive “in the mind means perceived” premise begs the question against Descartes.
+
+**PYQ linkage:** Directly sharpens **2022 Q4(c)** on Locke's origin of knowledge and cross-links the Locke–Descartes dispute tested in **2023 Q2(c)** under Rationalism.
+
+## MCQ 34. The ordered components of Humean causation
+
+A candidate analyses a cause as "an event regularly conjoined with a nearby event" but omits both the direction of succession and the mind's acquired transition. Which correction is most accurate?
+
+A. Add temporal priority to distinguish cause from effect, then distinguish repeated constant conjunction from the felt determination that supplies the idea of necessity.
+
+B. Add simultaneity to distinguish cause from effect, then locate necessity in a quality newly acquired by the repeatedly observed objects.
+
+C. Replace contiguity with resemblance, because resembling events alone generate an inference from one member of the pair to the other.
+
+D. Remove constant conjunction, because one observed instance already contains the necessary power that repetition merely makes more vivid.
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: Hume's observed components are priority, contiguity and repeated conjunction; only after repetition does an internal impression of determination explain the idea of necessity.
+- **B:** Incorrect: simultaneity erases the directional role of cause and effect, and Hume insists repetition adds no new sensible quality to the objects.
+- **C:** Incorrect: resemblance is a general associative principle, not a substitute for the causal sequence whose ordering the question asks the candidate to analyse.
+- **D:** Incorrect: a single instance yields no impression of power, while repetition is indispensable to constant conjunction and the customary transition.
+
+**Examiner trap 34:** Listing “contiguity plus conjunction” is not enough. Without temporal priority the relation is directionless; without the later mental transition it contains no account of necessity.
+
+**Repair action:** Rehearse the ordered chain: cause prior → cause/effect contiguous → similar pairs constantly conjoined → mind determined to infer → necessity projected.
+
+**Coverage-cell mapping:** Humean causation — specifically temporal priority, contiguity, constant conjunction and why their order must precede the impression of reflection.
+
+**PYQ linkage:** Directly strengthens **2019 Q4(b)**, **2021 Q1(e)** and **2023 Q2(a)**, all of which require more than the slogan “constant conjunction”.
+
+## MCQ 35. Isomorphism as a defence of representative realism
+
+Consider the following claims made in defence of Locke against Berkeley's likeness principle.
+
+1. A representation may preserve relations among features without sharing their sensible qualities, as a map preserves spatial structure without being terrain-coloured.
+2. Such structural isomorphism answers the objection that an idea can literally resemble only another idea.
+3. The defence preserves representative realism only in a weakened form, because correspondence and a reliable route to its external relatum must still be established.
+
+Which of the claims given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+**Answer: D.**
+
+**Statement analysis:**
+- **1 is correct:** structural preservation need not reproduce the intrinsic sensible character of what is represented.
+- **2 is correct:** Berkeley's likeness principle targets qualitative likeness, so isomorphism supplies a different and more defensible relation.
+- **3 is correct:** the move does not by itself establish that the structure beyond ideas exists or that our ideas track it reliably.
+
+**Option explanations:**
+- **A:** Incorrect: it states the rescue but suppresses its epistemic cost, leaving the veil-of-perception problem untouched.
+- **B:** Incorrect: it recognises the rescue and its limitation but omits the relational structure that explains how non-literal representation can work.
+- **C:** Incorrect: it gives the model and residual problem while failing to state that this model directly answers Berkeley's likeness objection.
+- **D:** Correct: all three claims are needed for a qualified defence rather than either a literal resemblance theory or an uncritical victory over Berkeley.
+
+**Examiner trap 35:** “A map resembles terrain” helps only if resemblance is specified as relational structure. Treating isomorphism as ordinary pictorial likeness concedes Berkeley's premise while pretending to escape it.
+
+**Repair action:** Use the formula: no shared colour/texture → shared relations possible → external correspondence still needs a causal or reliability bridge.
+
+**Coverage-cell mapping:** Locke's representative realism and primary qualities — specifically structural isomorphism versus literal resemblance as the modern defence.
+
+**PYQ linkage:** Deepens **2024 Q2(a)** on Locke and Berkeley by giving the strongest qualified reply to Berkeley's likeness principle rather than merely repeating Locke.
+
+## MCQ 36. Berkeley's God and public objectivity
+
+Two observers leave a room and later return to find its sensible order stable and mutually confirmable. On Berkeley's principles, the best explanation is that
+
+A. each observer privately recreates the same object by memory, and agreement is an unexplained coincidence
+
+B. the ideas of sense belong to a stable divine order, so finite observers encounter law-governed public regularities rather than self-authored private worlds
+
+C. an unperceived material substratum preserves the object while no spirit perceives it and later produces matching ideas
+
+D. sensible things cease absolutely between perceptions, while scientific laws concern only verbal conventions imposed afterward
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: sensible ideas are involuntary rather than fabricated by finite memory, and Berkeley invokes divine order precisely to avoid disconnected private worlds.
+- **B:** Correct: continuous divine perception and the stable language of nature secure persistence, intersubjective agreement and prediction without material substance.
+- **C:** Incorrect: the material substratum is the unperceiving posit Berkeley's immaterialism eliminates rather than the mechanism by which he restores objectivity.
+- **D:** Incorrect: Berkeley preserves real sensible things and scientific law as ordered sequences; he denies material efficient causes, not stable empirical order.
+
+**Examiner trap 36:** Calling Berkeley a solipsist ignores the structural work assigned to God. His vulnerable move is not private creation by finite minds but the substitution of divine perception and volition for matter.
+
+**Repair action:** Answer the continuity objection with four links: passive ideas → involuntary order → active divine spirit → stable public laws as signs.
+
+**Coverage-cell mapping:** Berkeley's spirits, God, continuity and science — specifically God as guarantor of stable public objectivity rather than radical private subjectivity.
+
+**PYQ linkage:** Directly supports **2018 Q3(a)** and **2021 Q1(c)** by showing why Berkeley claims to preserve common sense and science after rejecting matter.
+
+## MCQ 37. The Appendix problem inside the bundle theory
+
+Consider the following statements about Hume's Appendix confession.
+
+1. The bundle theory rejects a simple identical self-substance while retaining the reality of the successive perceptions.
+2. Resemblance and causation explain why imagination ascribes identity, but they do not by themselves provide a real bearer or necessary bond among perceptions.
+3. Hume's inability to state a satisfactory principle of union raises the possibility that atomically distinct perceptions cannot generate the unity the theory must explain.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 3 only
+
+**Answer: C.**
+
+**Statement analysis:**
+- **1 is correct:** Hume's target is the simple owner behind experience, not the existence of the perceptions themselves.
+- **2 is correct:** associative relations explain the fiction of identity but do not supply the substantial or necessary unity that has been removed.
+- **3 is correct:** the Appendix confession exposes a structural pressure: distinct atomic items seem to presuppose the unity needed for their belonging to one experiential series.
+
+**Option explanations:**
+- **A:** Incorrect: it reports the official mechanism but omits the Appendix's deeper challenge to the atomistic materials from which unity is to be built.
+- **B:** Incorrect: it captures the residual problem but leaves out the bundle theory's basic negative and positive claims.
+- **C:** Correct: it preserves Hume's achievement while explaining why the confession is a genuine internal difficulty rather than a return to substance.
+- **D:** Incorrect: it states the theory and pressure but omits Hume's own associative explanation of why identity is nevertheless ascribed.
+
+**Examiner trap 37:** “Hume admits the soul exists” is not the Appendix's lesson. The confession is that he cannot explain union after denying both a bearer and real necessary connections among distinct perceptions.
+
+**Repair action:** Build the answer as: no self-impression → bundle remains → resemblance/causation produce fictive identity → Appendix cannot ground the relation that makes one bundle.
+
+**Coverage-cell mapping:** Hume's bundle theory and Appendix — specifically whether atomic perceptions defeat the unity they are required to explain.
+
+**PYQ linkage:** Directly deepens **2020 Q2(a)** on the bundle theory and prepares the precise need for Kant's transcendental unity of apperception.
+
+## MCQ 38. What custom explains and what it does not justify
+
+A person expects bread to nourish tomorrow because repeated conjunction has made the transition from one idea to the other unavoidable. Which assessment is Humean without overstating Hume's result?
+
+A. The expectation is rationally demonstrated because a sufficiently long sequence makes a change in nature contradictory.
+
+B. The expectation is probably justified by past uniformity without circularity, since probability does not itself presuppose causal reasoning.
+
+C. The expectation is groundless even as a psychological fact, because Hume's scepticism prevents the mind from forming beliefs.
+
+D. Custom explains why the expectation occurs and makes it practically unavoidable, but it does not supply a non-circular rational justification of induction.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: however many repetitions occur, nature's changing remains conceivable, so demonstration cannot establish uniformity.
+- **B:** Incorrect: probable reasoning from past to future already relies on the causal-uniformity principle it is being asked to justify.
+- **C:** Incorrect: Hume's naturalism explains belief formation in detail and treats such expectations as unavoidable in ordinary life.
+- **D:** Correct: custom is a causal-psychological genealogy of expectation and a practical guide, not a rational vindication of the inference.
+
+**Examiner trap 38:** The phrase “custom solves induction” equivocates between explaining belief and justifying belief. Hume supplies the first while his sceptical argument withholds the second.
+
+**Repair action:** Put two headings in the margin: *quid facti* — why we infer: custom; *quid juris* — what rationally warrants it: no demonstrative or non-circular probable proof.
+
+**Coverage-cell mapping:** Hume's problem of induction — specifically custom as psychological explanation rather than rational justification.
+
+**PYQ linkage:** Directly sharpens **2025 Q2(c)** and the Humean half of **2026 Q2(b)** by keeping natural belief distinct from objective warrant.
+
+## MCQ 39. The limit of an empiricist origin rule
+
+Consider the following statements about the thesis that cognitive content originates in experience.
+
+1. It does not entail that every truth is known a posteriori, because Hume's relations of ideas are knowable by thought and their denials are contradictory.
+2. Tracing the constituent ideas of a proposition to impressions does not by itself explain the proposition's necessity or universality.
+3. An origin rule for simple ideas therefore cannot, without further argument, serve as a complete theory of a priori truth.
+
+Which of the statements given above are correct?
+
+A. 1, 2 and 3
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1 and 3 only
+
+**Answer: A.**
+
+**Statement analysis:**
+- **1 is correct:** Hume's fork preserves a priori relations of ideas even while their constituent ideas satisfy the copy principle.
+- **2 is correct:** a genetic account of concepts and an epistemic account of necessity answer different questions.
+- **3 is correct:** the simple-content rule constrains meaningful materials but needs an additional theory of relations, demonstration and modality.
+
+**Option explanations:**
+- **A:** Correct: all three statements distinguish empirical origin from a posteriori warrant and expose the limit of turning the copy rule into a total epistemology.
+- **B:** Incorrect: accepting the distinction while denying its consequence leaves an origin rule performing explanatory work it has not earned.
+- **C:** Incorrect: it states the limitation but omits Hume's own positive counterexample to the claim that empiricism makes every truth experiential.
+- **D:** Incorrect: it preserves the counterexample and conclusion but drops the explanatory bridge concerning necessity and universality.
+
+**Examiner trap 39:** “Empiricism denies a priori truth” is refuted by Hume's own fork. The issue is not whether relations of ideas exist, but whether a rule about origins explains their modal status.
+
+**Repair action:** Draw two columns: origin of constituent ideas — impressions; warrant/status of proposition — demonstration and contradiction. Never infer the second solely from the first.
+
+**Coverage-cell mapping:** The empiricist origin rule and Hume's fork — specifically its limit in accounting for relations of ideas and a priori truths.
+
+**PYQ linkage:** Directly supports **2018 Q1(a)** and the “ideas of reason” analysis required by **2026 Q2(b)**.
+
+## MCQ 40. Berkeley and Hume on scientific order
+
+Consider the following statements comparing Berkeley and Hume.
+
+1. Berkeley preserves stable, intersubjective scientific order by treating natural laws as regular signs in the divine language of ideas.
+2. Hume preserves expectation and prediction through observed regularity and custom while withholding rationally perceived objective necessity.
+3. Both can retain practical scientific order, but neither thereby restores necessary efficient connections among sensible events as ordinarily conceived.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 1, 2 and 3
+
+D. 2 and 3 only
+
+**Answer: C.**
+
+**Statement analysis:**
+- **1 is correct:** Berkeley replaces material causal powers with a divinely instituted, publicly stable sign system.
+- **2 is correct:** Hume's regularities support prediction through custom without revealing an objective necessary tie.
+- **3 is correct:** each preserves order but grounds it differently, and neither identifies sensed events as efficient powers linked by perceived necessity.
+
+**Option explanations:**
+- **A:** Incorrect: it states both positive accounts but omits their shared limit concerning efficient necessary connection.
+- **B:** Incorrect: it captures Berkeley and the comparative verdict while suppressing Hume's naturalistic mechanism of prediction.
+- **C:** Correct: all three statements preserve the difference between divine regularity and customary expectation while locating the common scientific residue.
+- **D:** Incorrect: it accurately describes Hume and the limit but omits Berkeley's distinct theistic account of public order.
+
+**Examiner trap 40:** Treating Berkeley and Hume as equally destructive of science misses the target. Both preserve prediction; the dispute concerns what, if anything, grounds the order and its necessity.
+
+**Repair action:** Use a two-row grid: Berkeley — divine signs/public regularity/no material powers; Hume — constant conjunction/custom/no rational objective necessity.
+
+**Coverage-cell mapping:** Berkeley–Hume comparison — specifically whether scientific order and necessity survive their respective reductions.
+
+**PYQ linkage:** Strengthens comparative architecture for **2018 Q3(a)**, **2019 Q4(b)** and **2023 Q2(a)** without merging Berkeley's God with Hume's custom.
+
+## MCQ 41. From Humean custom to Kantian necessity
+
+With reference to the 2026 question on Hume's ideas of reason and Kant's response, which one of the following gives the most defensible comparison?
+
+A. Hume and Kant offer the same answer because both make causal necessity a subjective habit acquired from repeated experience and deny it objective validity.
+
+B. Hume explains felt expectation through custom; Kant treats rule-governed causality as a synthetic a priori condition of objective experience, so custom does not answer Kant's question of right.
+
+C. Hume establishes causal necessity for things in themselves, whereas Kant restricts causality to associative expectations within finite subjects.
+
+D. Kant rejects Hume's account of conjunction and derives both the category of cause and every particular causal law independently of experience.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: Kant's category is not an acquired habit but an a priori rule required for objective temporal determination.
+- **B:** Correct: Hume relocates necessity to a felt transition, while Kant asks what licenses objective event-order and answers at the transcendental rather than genetic level.
+- **C:** Incorrect: Hume denies access to objective necessary connexion, and Kant validates causality only for appearances rather than things in themselves.
+- **D:** Incorrect: Kant can accept repeated conjunction as empirical material and still deny that it grounds necessity; particular laws remain empirical.
+
+**Examiner trap 41:** “Kant restores the necessary connection Hume failed to see” wrongly puts necessity back into things in themselves. Kant grounds entitlement within possible experience and limits the result to phenomena.
+
+**Repair action:** Memorise the contrast: Hume asks how expectation arises — custom; Kant asks how objective succession is possible — category plus temporal schema and Second Analogy.
+
+**Coverage-cell mapping:** Hume-to-Kant comparison — specifically whether custom answers or merely relocates synthetic-a-priori necessity.
+
+**PYQ linkage:** Directly maps to **2026 Q2(b)**: establish Hume's account first, then show that Kant changes the level from psychological genesis to conditions of objective experience.

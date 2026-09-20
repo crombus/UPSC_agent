@@ -771,3 +771,260 @@ D. lists the standard criticisms of each position and leaves the reader to adjud
 - **D:** Incorrect: collecting criticisms without ruling between them is exactly the failure the "critically" in the directive is designed to detect.
 
 **Examiner trap 32:** A comparison without an announced criterion is a list. State the standard, rank against it, defend the ranking, and concede what the winner costs — that sequence is the difference between a describing script and a deciding one.
+
+## MCQ 33. The Circle after the memory reply
+
+Consider the following statements about Descartes' reply to the Cartesian Circle.
+
+1. A clear and distinct perception presently attended to is claimed to compel assent without first borrowing God's guarantee.
+2. Divine veracity is assigned the work of securing remembered perceptions and extended demonstrations whose earlier steps are no longer before the mind.
+3. The reply remains vulnerable because the proofs of God are themselves extended arguments whose earlier premises must be remembered.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 1, 2 and 3
+
+C. 2 and 3 only
+
+D. 1 and 3 only
+
+**Answer: B.**
+
+**Statement analysis:**
+- **1 is correct:** the memory-guarantee reply treats an intuition as self-certifying while it is directly and clearly before the mind.
+- **2 is correct:** God is needed to secure the continued reliability of a perception no longer attended to and the earlier steps of a demonstration.
+- **3 is correct:** the divine proofs are not single instantaneous intuitions; if they depend on remembered premises, the reply uses the guarantee before completing the proof of its guarantor.
+
+**Option explanations:**
+- **A:** Incorrect: it states the reply but omits the residual extended-proof vulnerability that prevents the reply from conclusively dissolving Arnauld's objection.
+- **B:** Correct: all three statements together give the objection, Descartes' strongest reply and the reason the controversy remains live.
+- **C:** Incorrect: statements 2 and 3 are sound, but without statement 1 the distinction between present intuition and remembered certainty — the reply's entire basis — disappears.
+- **D:** Incorrect: statements 1 and 3 are sound, but excluding statement 2 leaves unexplained what divine veracity is supposed to add.
+
+**Examiner trap 33:** Writing only "criterion proves God; God proves criterion" is incomplete. Writing only "present intuitions need no God" is equally incomplete because the proofs of God extend beyond one attended intuition.
+
+**Repair action:** Use a three-line structure: attended intuition is locally certain; God guarantees memory and long chains; God's proofs themselves use remembered steps, so the residual remains.
+
+**Coverage-cell mapping:** Clear/distinct perception and the Cartesian Circle — specifically the memory/extended-proof vulnerability left by Descartes' reply.
+
+**PYQ linkage:** Supplies the critical joint in **2025 Q2(a)** on Cartesian method and reconstruction, where the general criterion cannot simply be assumed after the *cogito*.
+
+## MCQ 34. Dispositional innateness under Locke's attack
+
+A critic observes that infants and people lacking the relevant concepts do not assent to alleged innate principles. Which assessment best follows?
+
+A. The observation refutes every form of innateness because a native cognitive capacity must always occur as a consciously affirmed proposition.
+
+B. The observation is irrelevant even to occurrent innatism because universal assent is not evidence for or against mental content.
+
+C. The observation proves that mathematical necessity is copied from sensation and that no rational disposition is needed to grasp it.
+
+D. It directly pressures occurrent innatism, but dispositional innatism survives unless the critic also shows that no specific native capacity is required.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: it assumes the very occurrent model that the dispositional account denies; a capacity may be native without being continuously conscious.
+- **B:** Incorrect: absence of universal assent is a direct and powerful objection to the claim that innate propositions are explicitly present in every mind.
+- **C:** Incorrect: the failure of universal assent does not explain how sensation supplies necessity and universality, and it does not by itself exclude native cognitive structure.
+- **D:** Correct: Locke defeats crude occurrent innatism more directly than dispositional innatism, though the latter still owes a criterion distinguishing a specific innate disposition from a general ability to learn.
+
+**Examiner trap 34:** Do not let Descartes defend the weakest thesis. "Innate" need not mean "consciously known at birth"; but merely saying "capacity" is also too easy unless the capacity is specified.
+
+**Repair action:** In a Locke answer, state three stages: occurrent innatism falls; dispositional innatism survives universal-assent criticism; the rationalist must still distinguish innate structure from generic learnability.
+
+**Coverage-cell mapping:** Adventitious, factitious and innate ideas; Locke's challenge — specifically dispositional innateness and the limited reach of universal-assent objections.
+
+**PYQ linkage:** Directly maps to **2023 Q2(c)** on Descartes' innate ideas and the grounds of Locke's refutation.
+
+## MCQ 35. From conatus to freedom without escaping necessity
+
+A person first reacts to an insult through a passive affect, then forms an adequate understanding of its causes and acts from that understanding. On Spinoza's account, this transition is best described as
+
+A. the person's *conatus* becoming more active through adequate causation, so freedom increases as self-determination within the necessary order.
+
+B. a suspension of the causal order by a rational will, so the later action could occur without any sufficient determining cause.
+
+C. the replacement of bodily determination by an independent mental substance capable of initiating a new causal chain outside the bodily order.
+
+D. an escape from divine necessity made possible by intuitive knowledge, while ordinary rational knowledge remains passive and externally determined.
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: *conatus* is the individual's actual essence; passive affects mark partial causation by external determinants, while adequate ideas increase activity and therefore relative freedom within necessity.
+- **B:** Incorrect: Spinoza rejects an uncaused will; adequate action remains caused, but its cause is more fully the agent's understood nature rather than external compulsion.
+- **C:** Incorrect: mind and body are not independent substances in Spinoza, and parallelism excludes a mental substance initiating bodily causation.
+- **D:** Incorrect: no kind of knowledge creates an exception to divine necessity; higher knowledge changes the mode of determination from passive inadequacy toward adequate self-activity.
+
+**Examiner trap 35:** "Understanding necessity" is not passive resignation. In Spinoza, adequate understanding changes what kind of cause the person is, even though it does not open an uncaused alternative.
+
+**Repair action:** Link the terms in order: *conatus* → passive affect/partial cause → adequate idea/active affect → increased power → relative freedom under necessity.
+
+**Coverage-cell mapping:** Conatus, affects, bondage, adequate activity and freedom — specifically the causal transition from passive determination to active self-expression.
+
+**PYQ linkage:** Directly answers the mechanism behind **2023 Q1(c)** on freedom and determinism in light of *Ethics* I, Definition 7.
+
+## MCQ 36. Complete concepts and cross-world contingency
+
+Consider the following claims about Leibniz's proposition that Caesar crossed the Rubicon.
+
+1. The predicate belongs to Caesar's complete individual concept and is certain in the actual world.
+2. Its negation is nevertheless logically conceivable through a different possible individual in another compossible world.
+3. God's selection of this world makes the event hypothetically rather than absolutely necessary.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 3 only
+
+**Answer: C.**
+
+**Statement analysis:**
+- **1 is correct:** a complete individual concept contains every predicate true of that individual, making Caesar's act certain in the world God actualises.
+- **2 is correct:** denying the act produces no contradiction like denying a mathematical identity; alternatives are represented by different complete possible individuals in other compossible worlds.
+- **3 is correct:** given God's wise selection the actual series follows certainly, but its necessity is hypothetical or moral, not absolute logical necessity.
+
+**Option explanations:**
+- **A:** Incorrect: statements 1 and 2 are sound, but omitting statement 3 fails to name the modal distinction by which Leibniz resists necessitarianism.
+- **B:** Incorrect: statements 2 and 3 are sound, but rejecting statement 1 removes the complete-concept doctrine that creates the freedom problem.
+- **C:** Correct: the three statements jointly preserve concept-containment, cross-world possibility and the distinction between certainty and absolute necessity.
+- **D:** Incorrect: statements 1 and 3 are sound, but without statement 2 "hypothetical" necessity has no possible-world basis.
+
+**Examiner trap 36:** The alternative is not the numerically same complete individual with a different predicate in the actual world. Alter the predicate and one specifies a different possible individual and world.
+
+**Repair action:** Write the modal ladder: predicate-in-concept → certainty in the chosen world → opposite non-contradictory in another possible world → hypothetical, not logical, necessity.
+
+**Coverage-cell mapping:** Truths of reason/fact, complete concepts, possible worlds and necessity — specifically how cross-world possibility grounds contingency.
+
+**PYQ linkage:** Directly strengthens **2018 Q1(b)** and **2020 Q1(b)** on Leibnizian freedom, monadic determination and pre-established harmony.
+
+## MCQ 37. Assistance, harmony and the cost of intervention
+
+Which assessment most accurately distinguishes occasionalism from Leibniz's pre-established harmony?
+
+A. Occasionalism permits direct causal traffic between created substances, whereas harmony requires God to recreate both series at each instant.
+
+B. Occasionalism and harmony are identical because both deny created interaction and therefore assign every finite event the same immediate cause.
+
+C. Harmony coordinates mind and body by treating them as two attributes of one substance, while occasionalism preserves two substances through initial synchronisation.
+
+D. Occasionalism invokes continuing divine assistance, whereas harmony is set at creation; Leibniz argues that repeated adjustment resembles a defective craftsman's continuous repair.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: occasionalism denies created cross-substance efficacy and invokes divine action; continuous recreation or adjustment is not Leibniz's harmony.
+- **B:** Incorrect: both reject ordinary interaction, but occasionalism assigns recurring causal work to God whereas harmony lets each created substance unfold internally after the initial order.
+- **C:** Incorrect: one substance under two attributes is Spinoza's parallelism, not Leibniz's account; harmony retains a plurality of windowless monads.
+- **D:** Correct: it states both the temporal difference — continual assistance versus initial establishment — and Leibniz's theological-metaphysical objection that perpetual correction compromises the perfection of the creator's workmanship.
+
+**Examiner trap 37:** "God coordinates mind and body" is too vague because it fits both theories. The discriminating question is whether God must intervene at every occasion or establishes self-unfolding correspondence once.
+
+**Repair action:** Reproduce the clocks triad: influence = Descartes; assistance = occasionalism/continuous adjustment; harmony = Leibniz/initial perfect construction.
+
+**Coverage-cell mapping:** Windowlessness and pre-established harmony — specifically the contrast with occasionalism and the cost of continuous divine intervention.
+
+**PYQ linkage:** Supports **2018 Q1(b)** and **2020 Q1(b)** on harmony and the comparative evaluation required by **2024 Q3(c)**.
+
+## MCQ 38. Parallelism without two coordinated substances
+
+A decision to raise one's arm and the corresponding bodily sequence are considered under Spinoza's attributes of Thought and Extension. Which description is correct?
+
+A. They are events in two created substances whose agreement is maintained by God's continuous intervention whenever either series changes.
+
+B. They are one modal order expressed under two attributes, with no causal traffic from mind to body or body to mind.
+
+C. They are independent monadic series synchronised at creation, each unfolding internally despite having no common underlying substance.
+
+D. They are two interacting modes joined at the pineal gland, although their distinct essences remain thought and extension throughout the causal sequence.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: this combines Cartesian plurality with occasionalist assistance; Spinoza recognises only one substance and does not require repeated coordination.
+- **B:** Correct: *Ethics* II, P7 makes the order and connection one, expressed under Thought as idea and under Extension as body, so cross-attribute causation does not arise.
+- **C:** Incorrect: this is Leibniz's pre-established harmony, which coordinates distinct windowless monads rather than two attributes of one substance.
+- **D:** Incorrect: pineal interaction is Descartes' proposal; Spinoza dissolves the interaction problem by rejecting the two-substance premise.
+
+**Examiner trap 38:** Calling parallelism "perfect coordination between mind and body" can silently import two substances. Spinoza's stronger claim is identity of modal order under distinct attributes.
+
+**Repair action:** Replace the bridge picture with a double-description picture: one mode/order → expressed under Thought; the same mode/order → expressed under Extension.
+
+**Coverage-cell mapping:** Spinozist mind-body parallelism/double-aspect account — specifically one mode under attributes rather than coordination between substances.
+
+**PYQ linkage:** Directly maps to **2026 Q1(a)** on states of mind and bodily processes and supports the three-way comparison in **2024 Q3(c)**.
+
+## MCQ 39. The architecture of the external-world proof
+
+Which sequence correctly reconstructs Descartes' proof of material things in *Meditation* VI?
+
+A. Vivid sensory content proves resemblance to external bodies; those bodies establish God, who then confirms every perceived sensible quality.
+
+B. The wax proves body's existence and extension; involuntary sensations then exclude both the self and God as their active cause.
+
+C. Involuntary ideas require an active cause; natural inclination refers them to bodies; without a corrective faculty, divine non-deception supports extended things.
+
+D. Clear and distinct perception directly reveals bodies; the dream argument removes sensible qualities; the *cogito* supplies their external cause.
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: vividness does not guarantee external resemblance, and Descartes must establish a non-deceiving God before using natural inclination to restore bodies.
+- **B:** Incorrect: the wax argument explains intellect's grasp of bodily essence if bodies exist; it neither proves external existence nor excludes God as a candidate cause.
+- **C:** Correct: the proof moves from involuntary reception to an active cause, then uses the uncorrectable natural inclination toward bodies together with divine non-deception to establish material things as extended.
+- **D:** Incorrect: the *cogito* establishes the thinking self, not an external cause, and the dream argument belongs to demolition rather than reconstruction.
+
+**Examiner trap 39:** The conclusion is limited. Divine veracity supports the existence of extended bodies, not the exact resemblance of every colour, size or distance as sensation presents it.
+
+**Repair action:** Memorise five links: involuntary idea → passive faculty → active cause → natural inclination with no corrective faculty → non-deceiver, therefore extended bodies.
+
+**Coverage-cell mapping:** External-world proof and divine-veracity dependence — specifically all four premises between involuntary sensory ideas and the limited material-world conclusion.
+
+**PYQ linkage:** Directly maps to **2019 Q1(d)** on Descartes' proof of the external world.
+
+## MCQ 40. Why the first method rule demolishes classes
+
+Consider the following statements about the first Cartesian rule of method.
+
+1. It withholds assent from whatever is not clearly evident rather than merely lowering confidence in doubtful propositions.
+2. A counterexample to a source's reliability can deprive an entire class of beliefs of the required evident status, producing cumulative class-wide suspension.
+3. The demolition is methodological rather than terminal: it seeks a foundation from which knowledge can be reconstructed.
+
+Which of the statements given above are correct?
+
+A. 1, 2 and 3
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1 and 3 only
+
+**Answer: A.**
+
+**Statement analysis:**
+- **1 is correct:** rule one demands evidence sufficient for assent; it is not a recommendation to retain doubtful beliefs at a lower probability.
+- **2 is correct:** sense-deception, dreaming and the deceiver hypothesis successively undermine perceptual judgements, the external situation and mathematical beliefs as classes.
+- **3 is correct:** methodic doubt is used to discover an indubitable starting point and then reconstruct knowledge, not to endorse permanent sceptical suspension.
+
+**Option explanations:**
+- **A:** Correct: all three state the standard, the class-wide mechanism and the constructive purpose of the demolition.
+- **B:** Incorrect: statements 1 and 2 capture the severity but omit why Descartes' doubt differs from terminal scepticism.
+- **C:** Incorrect: statements 2 and 3 are sound, but without statement 1 the rule that licenses suspension is missing.
+- **D:** Incorrect: statements 1 and 3 are sound, but excluding statement 2 reduces the method to piecemeal caution rather than the cumulative demolition of Meditation I.
+
+**Examiner trap 40:** "Doubt everything" is not the operative rule. Descartes applies an evidence threshold to sources of belief, allowing one defeater to suspend an entire class before moving to the next.
+
+**Repair action:** Draw the escalation: evidence rule → unreliable senses → dream/world → deceiver/mathematics → *cogito* as what the method cannot cut.
+
+**Coverage-cell mapping:** Four rules and cumulative methodic doubt — specifically why rule one produces class-wide demolition rather than mild scepticism.
+
+**PYQ linkage:** Directly sharpens **2025 Q2(a)** on the basic tenets and method of rationalism by explaining the logical engine of Cartesian doubt.

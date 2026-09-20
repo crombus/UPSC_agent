@@ -444,3 +444,117 @@ B. Citing "Plato, *Republic*, Chapter 7, page 214" so that the examiner can loca
 C. Ending a comparison with a balanced description of both thinkers and no ruling, since UPSC penalises taking sides
 
 D. Citing Plato by Stephanus pagination and Aristotle by Bekker numbers, and closing with a graded verdict
+
+## MCQ 33. The Receptacle as a third kind
+
+Consider the following statements about the Receptacle *(chōra)* in Plato's *Timaeus*.
+
+1. It is introduced as a difficult third kind, distinct from the intelligible Forms and the sensible becoming that appears in it.
+2. It is a determinate material body manufactured by the Demiurge before the Demiurge copies the Forms.
+3. Its receiving role does not by itself make it straightforwardly identical with Aristotle's matter.
+
+Which of the statements given above are correct?
+
+A. 1 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+## MCQ 34. Prime matter and substantial generation
+
+A candidate explains radical generation by saying that prime matter is "the smallest separable stuff left after every observable property is removed". Which correction is most accurate?
+
+A. Prime matter is a non-separable limit concept of pure potentiality required for substantial generation, not a bare body available for inspection.
+
+B. Prime matter is the last determinate element surviving every substantial change, and its continued identity numerically anchors the newly generated substance.
+
+C. Prime matter is Aristotle's revised name for the Platonic Receptacle, now treated as the common spatial container of all sensible forms.
+
+D. Prime matter is dispensable because genuine generation is only accidental alteration in which the underlying substance and its substantial form both remain.
+
+## MCQ 35. What makes Aristotelian teleology internal
+
+An acorn develops into an oak under ordinary natural conditions. Consider the following interpretations.
+
+1. The mature form is the terminus toward which the organism's own powers are directed.
+2. The explanation need not attribute conscious foresight either to the acorn or to an external designer.
+3. The account differs both from imitation of a separated Platonic paradigm and from an explanation restricted to material impact and efficient sequence.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+## MCQ 36. Applying the two substance questions
+
+A horse is the ultimate subject of predicates such as "brown" and "swift", yet an enquirer asks why these bones and tissues constitute a horse rather than a heap. Which reading best applies Aristotle without conflating his texts?
+
+A. The *Categories* and *Metaphysics* Z give rival lists of primary substances, so one of the two accounts must be discarded.
+
+B. The *Categories* identifies the individual horse by subjecthood, while Z seeks the form or essence that explains the substancehood of that individual.
+
+C. The individual is primary in both works because form and essence are merely accidental predicates said of an independently complete matter.
+
+D. Form is primary in both works because the concrete horse is only a deficient copy of a separately existing equine universal.
+
+## MCQ 37. Pure actuality, immobility and final causation
+
+Consider the following statements about Aristotle's Unmoved Mover.
+
+1. Any unrealised potentiality would make it capable of being otherwise and therefore dependent on change for its fulfilment.
+2. Its motion of the cosmos is final rather than efficient: it is desired and thought, not a body that transmits motion by contact.
+3. Its immobility means that it can have no explanatory relation to motion and is retained only as an honorific name for the cosmos.
+
+Which of the statements given above are correct?
+
+A. 2 and 3 only
+
+B. 1 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
+
+## MCQ 38. One problem, two rejected answers, one repair
+
+Which option correctly matches Aristotle's objections to the Atomists and Plato with his positive account of sensible substance?
+
+A. Atomism and Platonism fail for the same reason, namely denial of particulars; Aristotle repairs both by making universals separate substances.
+
+B. Atomism wrongly multiplies immaterial universals; Plato wrongly reduces reality to collisions; Aristotle retains efficient causation alone.
+
+C. Atomism fails because atoms change their essences; Plato fails because Forms are material; Aristotle replaces both with prime matter alone.
+
+D. Atomism lacks internal form and final explanation; separated Forms lack immanent causal purchase; hylomorphic substances are explained through all four causes.
+
+## MCQ 39. Immanent form and the problem of universals
+
+Why is it more accurate to say that Aristotle relocates, rather than simply eliminates, the problem of universals?
+
+A. He makes form immanent and causally explanatory, yet must still reconcile science's universal object with Z.13's denial that any universal is substance.
+
+B. He makes every species a separately existing substance, but locates that substance inside a physical place occupied by its instances.
+
+C. He denies that definition concerns form, so knowledge must shift from universal essences to the accidental histories of individuals.
+
+D. He treats universals as names only, although scientific definitions continue to use general terms as convenient summaries of individual histories.
+
+## MCQ 40. Blocking the regress without paying the causal debt
+
+A Platonist denies that the Form of Large is large in the same way as a large mountain and therefore blocks the self-predication premise of the Third Man. What follows?
+
+A. The theory is fully vindicated because every major Aristotelian objection to separated Forms, including causal impotence, depends on self-predication.
+
+B. The specific regress is weakened, but participation still needs a non-metaphorical account of how separated Forms explain particulars and change.
+
+C. The participation dilemma is solved because a non-self-predicating Form can be divided among its instances without itself having parts.
+
+D. The causal problem disappears because denying self-predication converts each Form into the efficient cause of its sensible copies.

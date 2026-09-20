@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topic": "04 Kant",
-  "validated_at": "2026-09-20T08:38:13+05:30",
+  "validated_at": "2026-09-20T09:09:07+05:30",
   "result": "pass",
   "pdf_generation": {
     "mechanism": "tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
@@ -27,8 +27,8 @@
       "pdf/Answer-Writing-Toolkit.pdf": true
     },
     "mcq_numbering": {
-      "question_count": 32,
-      "solution_count": 32,
+      "question_count": 42,
+      "solution_count": 42,
       "questions": [
         1,
         2,
@@ -61,7 +61,17 @@
         29,
         30,
         31,
-        32
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
       ],
       "solutions": [
         1,
@@ -95,7 +105,17 @@
         29,
         30,
         31,
-        32
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
       ],
       "exact_match": true
     },
@@ -107,9 +127,40 @@
       "solution_label": false
     },
     "solutions_complete": {
-      "answers": 32,
-      "option_explanations": 32,
-      "examiner_traps": 32
+      "answers": 42,
+      "option_explanations": 42,
+      "examiner_traps": 42,
+      "new_repair_actions": 10,
+      "new_coverage_mappings": 10,
+      "new_pyq_linkages": 10
+    },
+    "coverage_driven_sizing": {
+      "original_questions_retained": 32,
+      "independently_uncovered_cells": 10,
+      "added_questions": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "final_count": 42,
+      "count_is_audit_result_not_target": true,
+      "q1_32_preserved": true,
+      "new_question_solution_prompts_match": true,
+      "all_questions_have_four_options": true,
+      "question_to_cell_mapping_recorded_in_coverage_ledger": true,
+      "new_answer_distribution": {
+        "A": 2,
+        "B": 3,
+        "C": 2,
+        "D": 3
+      }
     },
     "verified_pyqs": {
       "directly_owned_count": 11,
@@ -322,18 +373,21 @@
         }
       },
       "MCQ-Questions.pdf": {
-        "bytes": 116392,
-        "pages": 10,
+        "bytes": 199424,
+        "pages": 15,
         "blank_pages": [],
         "replacement_glyphs": 0,
-        "out_of_bounds_text_pages": []
+        "out_of_bounds_text_pages": [],
+        "question_count": 42,
+        "answer_leakage": false
       },
       "MCQ-Solutions.pdf": {
-        "bytes": 239719,
-        "pages": 17,
+        "bytes": 403541,
+        "pages": 27,
         "blank_pages": [],
         "replacement_glyphs": 0,
-        "out_of_bounds_text_pages": []
+        "out_of_bounds_text_pages": [],
+        "solution_count": 42
       },
       "Answer-Writing-Toolkit.pdf": {
         "bytes": 489788,
@@ -358,6 +412,10 @@
       "Answer:": false,
       "Option explanations": false,
       "Examiner trap": false
+    },
+    "git_diff_check": {
+      "exit_code": 0,
+      "output": ""
     }
   },
   "failures": []

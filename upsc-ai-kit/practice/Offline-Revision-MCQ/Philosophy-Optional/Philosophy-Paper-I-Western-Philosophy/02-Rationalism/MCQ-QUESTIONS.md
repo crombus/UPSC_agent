@@ -451,3 +451,117 @@ B. announces the criterion of freedom being used, ranks all three against it, an
 C. selects one philosopher at the outset and expounds him at length without discussing the others
 
 D. lists the standard criticisms of each position and leaves the reader to adjudicate between the three
+
+## MCQ 33. The Circle after the memory reply
+
+Consider the following statements about Descartes' reply to the Cartesian Circle.
+
+1. A clear and distinct perception presently attended to is claimed to compel assent without first borrowing God's guarantee.
+2. Divine veracity is assigned the work of securing remembered perceptions and extended demonstrations whose earlier steps are no longer before the mind.
+3. The reply remains vulnerable because the proofs of God are themselves extended arguments whose earlier premises must be remembered.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 1, 2 and 3
+
+C. 2 and 3 only
+
+D. 1 and 3 only
+
+## MCQ 34. Dispositional innateness under Locke's attack
+
+A critic observes that infants and people lacking the relevant concepts do not assent to alleged innate principles. Which assessment best follows?
+
+A. The observation refutes every form of innateness because a native cognitive capacity must always occur as a consciously affirmed proposition.
+
+B. The observation is irrelevant even to occurrent innatism because universal assent is not evidence for or against mental content.
+
+C. The observation proves that mathematical necessity is copied from sensation and that no rational disposition is needed to grasp it.
+
+D. It directly pressures occurrent innatism, but dispositional innatism survives unless the critic also shows that no specific native capacity is required.
+
+## MCQ 35. From conatus to freedom without escaping necessity
+
+A person first reacts to an insult through a passive affect, then forms an adequate understanding of its causes and acts from that understanding. On Spinoza's account, this transition is best described as
+
+A. the person's *conatus* becoming more active through adequate causation, so freedom increases as self-determination within the necessary order.
+
+B. a suspension of the causal order by a rational will, so the later action could occur without any sufficient determining cause.
+
+C. the replacement of bodily determination by an independent mental substance capable of initiating a new causal chain outside the bodily order.
+
+D. an escape from divine necessity made possible by intuitive knowledge, while ordinary rational knowledge remains passive and externally determined.
+
+## MCQ 36. Complete concepts and cross-world contingency
+
+Consider the following claims about Leibniz's proposition that Caesar crossed the Rubicon.
+
+1. The predicate belongs to Caesar's complete individual concept and is certain in the actual world.
+2. Its negation is nevertheless logically conceivable through a different possible individual in another compossible world.
+3. God's selection of this world makes the event hypothetically rather than absolutely necessary.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 3 only
+
+## MCQ 37. Assistance, harmony and the cost of intervention
+
+Which assessment most accurately distinguishes occasionalism from Leibniz's pre-established harmony?
+
+A. Occasionalism permits direct causal traffic between created substances, whereas harmony requires God to recreate both series at each instant.
+
+B. Occasionalism and harmony are identical because both deny created interaction and therefore assign every finite event the same immediate cause.
+
+C. Harmony coordinates mind and body by treating them as two attributes of one substance, while occasionalism preserves two substances through initial synchronisation.
+
+D. Occasionalism invokes continuing divine assistance, whereas harmony is set at creation; Leibniz argues that repeated adjustment resembles a defective craftsman's continuous repair.
+
+## MCQ 38. Parallelism without two coordinated substances
+
+A decision to raise one's arm and the corresponding bodily sequence are considered under Spinoza's attributes of Thought and Extension. Which description is correct?
+
+A. They are events in two created substances whose agreement is maintained by God's continuous intervention whenever either series changes.
+
+B. They are one modal order expressed under two attributes, with no causal traffic from mind to body or body to mind.
+
+C. They are independent monadic series synchronised at creation, each unfolding internally despite having no common underlying substance.
+
+D. They are two interacting modes joined at the pineal gland, although their distinct essences remain thought and extension throughout the causal sequence.
+
+## MCQ 39. The architecture of the external-world proof
+
+Which sequence correctly reconstructs Descartes' proof of material things in *Meditation* VI?
+
+A. Vivid sensory content proves resemblance to external bodies; those bodies establish God, who then confirms every perceived sensible quality.
+
+B. The wax proves body's existence and extension; involuntary sensations then exclude both the self and God as their active cause.
+
+C. Involuntary ideas require an active cause; natural inclination refers them to bodies; without a corrective faculty, divine non-deception supports extended things.
+
+D. Clear and distinct perception directly reveals bodies; the dream argument removes sensible qualities; the *cogito* supplies their external cause.
+
+## MCQ 40. Why the first method rule demolishes classes
+
+Consider the following statements about the first Cartesian rule of method.
+
+1. It withholds assent from whatever is not clearly evident rather than merely lowering confidence in doubtful propositions.
+2. A counterexample to a source's reliability can deprive an entire class of beliefs of the required evident status, producing cumulative class-wide suspension.
+3. The demolition is methodological rather than terminal: it seeks a foundation from which knowledge can be reconstructed.
+
+Which of the statements given above are correct?
+
+A. 1, 2 and 3
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1 and 3 only

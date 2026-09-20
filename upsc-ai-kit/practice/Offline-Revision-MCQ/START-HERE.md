@@ -167,6 +167,18 @@ Answer-writing transfer and delayed retest
 14. Save every question, answer, confidence level, result, explanation, doubt, and remediation.
 15. Repeat concepts only for deliberate remediation using a different or harder angle.
 16. Question totals are coverage-driven, never fixed in advance.
+17. Never copy a previous topic's MCQ count or use a round/template count as a stopping rule.
+18. Before writing questions, derive a topic-specific test matrix from the syllabus, revision
+    guide, coverage ledger, verified PYQs, major comparisons, criticisms, applications, and likely
+    misconceptions.
+19. Assign enough questions to each matrix cell to test recognition, reasoning, elimination, and
+    transfer where those are substantively distinct. One question may cover multiple cells only
+    when it genuinely tests each of them.
+20. Record the resulting justified total in the coverage ledger and validation report. Different
+    topics are expected to have different totals; an identical total requires independent
+    coverage-based justification, not consistency with earlier packages.
+21. Audit for redundancy after coverage is complete. Do not inflate the bank with paraphrases
+    merely to reach a target, and do not stop while a substantive cell remains weak or untested.
 
 ## Coverage-driven completion
 
@@ -183,6 +195,9 @@ A topic is not complete merely because a question target has been reached. Conti
 Initial intensive practice may close only when:
 
 - every substantive coverage cell has been sampled;
+- the coverage ledger maps each question to its tested cell or cells;
+- major doctrines have both direct and discriminating/comparative tests where appropriate;
+- verified PYQ themes and common conceptual traps have been independently tested;
 - no major closed-book recall gap remains;
 - a representative fresh hard-MCQ set is strong;
 - all high-confidence errors have been repaired;

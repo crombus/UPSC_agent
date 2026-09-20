@@ -17,5 +17,6 @@ Verified directly owned UPSC Philosophy Paper I PYQs are included through **2026
 
 `ANSWER-WRITING-TOOLKIT.md` fully solves all **11 directly owned** verified PYQs from 2018–2026.
 The Hegel half is retained inside routed comparison questions; 2026 Q2(b) remains owned by
-Empiricism and is cross-linked without duplication. PDFs are in [pdf/](pdf/); Markdown remains
-the editable source of truth.
+Empiricism and is cross-linked without duplication. The MCQ bank contains **42 coverage-driven
+questions**: retained Q1–32 plus ten one-to-one audit-gap additions, not a preset target. PDFs are
+in [pdf/](pdf/); Markdown remains the editable source of truth.

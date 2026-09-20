@@ -464,3 +464,141 @@ B. announcing a single criterion, running matched axes, and ruling on the sequen
 C. reproducing the chronology of publication so that the historical influences are fully displayed
 
 D. listing every objection raised against each thinker without adjudicating between them
+
+## MCQ 33. Locke's decisive premise and dispositional innatism
+
+Consider the following statements about Locke's argument against innate ideas.
+
+1. The absence of conscious assent directly defeats an innatism on which the relevant content is occurrent from birth.
+2. A Cartesian may instead call an idea innate as a native disposition whose content becomes explicit only when suitable experience occasions it.
+3. If Locke excludes this reply simply by defining whatever is "in the mind" as presently perceived, the disputed anti-innatist conclusion has entered his premise.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 3 only
+
+## MCQ 34. The ordered components of Humean causation
+
+A candidate analyses a cause as "an event regularly conjoined with a nearby event" but omits both the direction of succession and the mind's acquired transition. Which correction is most accurate?
+
+A. Add temporal priority to distinguish cause from effect, then distinguish repeated constant conjunction from the felt determination that supplies the idea of necessity.
+
+B. Add simultaneity to distinguish cause from effect, then locate necessity in a quality newly acquired by the repeatedly observed objects.
+
+C. Replace contiguity with resemblance, because resembling events alone generate an inference from one member of the pair to the other.
+
+D. Remove constant conjunction, because one observed instance already contains the necessary power that repetition merely makes more vivid.
+
+## MCQ 35. Isomorphism as a defence of representative realism
+
+Consider the following claims made in defence of Locke against Berkeley's likeness principle.
+
+1. A representation may preserve relations among features without sharing their sensible qualities, as a map preserves spatial structure without being terrain-coloured.
+2. Such structural isomorphism answers the objection that an idea can literally resemble only another idea.
+3. The defence preserves representative realism only in a weakened form, because correspondence and a reliable route to its external relatum must still be established.
+
+Which of the claims given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+## MCQ 36. Berkeley's God and public objectivity
+
+Two observers leave a room and later return to find its sensible order stable and mutually confirmable. On Berkeley's principles, the best explanation is that
+
+A. each observer privately recreates the same object by memory, and agreement is an unexplained coincidence
+
+B. the ideas of sense belong to a stable divine order, so finite observers encounter law-governed public regularities rather than self-authored private worlds
+
+C. an unperceived material substratum preserves the object while no spirit perceives it and later produces matching ideas
+
+D. sensible things cease absolutely between perceptions, while scientific laws concern only verbal conventions imposed afterward
+
+## MCQ 37. The Appendix problem inside the bundle theory
+
+Consider the following statements about Hume's Appendix confession.
+
+1. The bundle theory rejects a simple identical self-substance while retaining the reality of the successive perceptions.
+2. Resemblance and causation explain why imagination ascribes identity, but they do not by themselves provide a real bearer or necessary bond among perceptions.
+3. Hume's inability to state a satisfactory principle of union raises the possibility that atomically distinct perceptions cannot generate the unity the theory must explain.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 3 only
+
+## MCQ 38. What custom explains and what it does not justify
+
+A person expects bread to nourish tomorrow because repeated conjunction has made the transition from one idea to the other unavoidable. Which assessment is Humean without overstating Hume's result?
+
+A. The expectation is rationally demonstrated because a sufficiently long sequence makes a change in nature contradictory.
+
+B. The expectation is probably justified by past uniformity without circularity, since probability does not itself presuppose causal reasoning.
+
+C. The expectation is groundless even as a psychological fact, because Hume's scepticism prevents the mind from forming beliefs.
+
+D. Custom explains why the expectation occurs and makes it practically unavoidable, but it does not supply a non-circular rational justification of induction.
+
+## MCQ 39. The limit of an empiricist origin rule
+
+Consider the following statements about the thesis that cognitive content originates in experience.
+
+1. It does not entail that every truth is known a posteriori, because Hume's relations of ideas are knowable by thought and their denials are contradictory.
+2. Tracing the constituent ideas of a proposition to impressions does not by itself explain the proposition's necessity or universality.
+3. An origin rule for simple ideas therefore cannot, without further argument, serve as a complete theory of a priori truth.
+
+Which of the statements given above are correct?
+
+A. 1, 2 and 3
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1 and 3 only
+
+## MCQ 40. Berkeley and Hume on scientific order
+
+Consider the following statements comparing Berkeley and Hume.
+
+1. Berkeley preserves stable, intersubjective scientific order by treating natural laws as regular signs in the divine language of ideas.
+2. Hume preserves expectation and prediction through observed regularity and custom while withholding rationally perceived objective necessity.
+3. Both can retain practical scientific order, but neither thereby restores necessary efficient connections among sensible events as ordinarily conceived.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 1, 2 and 3
+
+D. 2 and 3 only
+
+## MCQ 41. From Humean custom to Kantian necessity
+
+With reference to the 2026 question on Hume's ideas of reason and Kant's response, which one of the following gives the most defensible comparison?
+
+A. Hume and Kant offer the same answer because both make causal necessity a subjective habit acquired from repeated experience and deny it objective validity.
+
+B. Hume explains felt expectation through custom; Kant treats rule-governed causality as a synthetic a priori condition of objective experience, so custom does not answer Kant's question of right.
+
+C. Hume establishes causal necessity for things in themselves, whereas Kant restricts causality to associative expectations within finite subjects.
+
+D. Kant rejects Hume's account of conjunction and derives both the category of cause and every particular causal law independently of experience.

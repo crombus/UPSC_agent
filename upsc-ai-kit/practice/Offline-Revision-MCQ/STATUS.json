@@ -35,6 +35,7 @@
     "no_compression": true,
     "preserve_existing_attempts": true,
     "questions_and_solutions_separate": true,
+    "mcq_totals_coverage_sized_not_fixed": true,
     "every_verified_pyq_fully_solved": true,
     "markdown_canonical": true,
     "pdf_required": true,
@@ -47,7 +48,9 @@
     "section": "Philosophy Paper I — Western Philosophy",
     "topic": "01 Plato and Aristotle",
     "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle",
-    "status": "validated"
+    "status": "validated",
+    "mcq_count": 40,
+    "mcq_sizing": "coverage-driven"
   },
   "validated_topics": [
     {
@@ -62,21 +65,27 @@
       "section": "Philosophy Paper I — Western Philosophy",
       "topic": "02 Rationalism",
       "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/02-Rationalism",
-      "status": "validated"
+      "status": "validated",
+      "mcq_count": 40,
+      "mcq_sizing": "coverage-driven"
     },
     {
       "subject": "Philosophy",
       "section": "Philosophy Paper I — Western Philosophy",
       "topic": "03 Empiricism",
       "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism",
-      "status": "validated"
+      "status": "validated",
+      "mcq_count": 41,
+      "mcq_sizing": "coverage-driven"
     },
     {
       "subject": "Philosophy",
       "section": "Philosophy Paper I — Western Philosophy",
       "topic": "04 Kant",
       "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/04-Kant",
-      "status": "validated"
+      "status": "validated",
+      "mcq_count": 42,
+      "mcq_sizing": "coverage-driven"
     }
   ]
 }

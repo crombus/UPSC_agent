@@ -420,3 +420,147 @@ B. Devote a full section to the categorical imperative, since morality grounds K
 C. Omit all reference to practical reason, since only theoretical reason is printed in the clause.
 
 D. Replace the theoretical critique with the moral argument, which Kant regarded as decisive.
+
+## MCQ 33. What the Refutation of Idealism establishes
+
+Consider the following statements about Kant's Refutation of Idealism.
+
+1. Determinate awareness of one's inner states in time presupposes relation to something persistent in outer experience.
+2. The argument makes inner and outer experience epistemically co-dependent rather than deriving the outer world from an isolated inner certainty.
+3. Its conclusion concerns empirically external objects in space, not cognition of things as they are in themselves.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 1, 2 and 3
+
+C. 2 and 3 only
+
+D. 1 and 3 only
+
+## MCQ 34. The noumenon as a limiting concept
+
+Consider the following statements about a noumenon in Kant's negative sense.
+
+1. It marks the thought of something insofar as it is not an object of sensible intuition.
+2. It licenses no determinate knowledge of a hidden object causing appearances, because categories without temporal schemata lack objective employment.
+3. Its limiting role blocks the inference that appearances exhaust reality without converting the boundary into a positively known second world.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+## MCQ 35. The finite reach of the design proof
+
+A candidate argues that the order of nature proves an infinite necessary creator without borrowing any premise from another proof. Kant's strongest correction is that
+
+A. finite order supports at most a proportionate architect; reaching a creator and necessary being requires the cosmological step and ultimately the ontological argument
+
+B. purposive order proves an infinite creator directly, but the proof fails only because existence is known through inner rather than outer sense
+
+C. the design proof establishes a necessary being, whereas only the move from necessity to personality depends on the cosmological argument
+
+D. natural order is wholly illusory under transcendental idealism, so no empirical observation may support even a limited theological inference
+
+## MCQ 36. Freedom under two standpoints
+
+Consider the following statements about Kant's resolution of the Third Antinomy.
+
+1. As appearance, an action remains subject to natural causality and can be explained within the temporal series.
+2. The same agent may be thought under an intelligible standpoint as initiating a series spontaneously, without this becoming theoretical knowledge of freedom.
+3. The distinction makes freedom thinkable without dividing the person into two independently existing beings.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 3 only
+
+## MCQ 37. Why transcendental ideality is not private subjectivity
+
+Which one of the following most accurately states Kant's position on space and outer objects?
+
+A. Space is a private image generated separately by each mind, so agreement about objects requires an inference to noumenal causes.
+
+B. Space is transcendentally ideal as a form of human intuition yet empirically real for every possible outer experience, which secures publicly valid objects of experience.
+
+C. Space belongs to things in themselves, while only the secondary qualities of objects depend on the subject's mode of intuition.
+
+D. Outer objects are illusions because transcendental ideality denies that appearances can possess objective empirical reality.
+
+## MCQ 38. The temporal schema as a third thing
+
+Consider the following statements about transcendental schematism.
+
+1. A category is purely intellectual, while an empirical intuition is sensible and singular.
+2. A schema mediates because it is a rule produced by imagination and a determination of time, the form in which every appearance is given.
+3. A schema is not a representative image; it supplies the general procedure by which a category can determine sensible objects.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+## MCQ 39. Irreversible succession in the Second Analogy
+
+A viewer may apprehend the parts of a house in either order, but must apprehend a ship's downstream positions in an order constrained by the event. What does Kant infer?
+
+A. Every temporal succession of perceptions counts as objective because all apprehension occurs in time and follows a determinate order.
+
+B. Objective succession is distinguished by greater vividness and constancy than the freely reversible sequence.
+
+C. An objective event requires a rule fixing which state precedes and follows, though the particular causal law remains empirically discoverable.
+
+D. The ship case proves that the cause and effect are simultaneous, since only simultaneity can prevent reversal of apprehension.
+
+## MCQ 40. Crossing Kant's two distinctions
+
+Which one of the following correctly maps Kant's analytic/synthetic and a priori/a posteriori distinctions?
+
+A. Analytic judgements are a priori; synthetic judgements may be a priori or a posteriori; analytic a posteriori adds no class because conceptual containment already warrants the judgement.
+
+B. Analytic judgements become a posteriori whenever their concepts were learned from experience, while every synthetic judgement is necessarily a priori.
+
+C. Analytic and a priori are interchangeable, as are synthetic and a posteriori, so crossing the distinctions still yields only two genuine classes.
+
+D. Synthetic a priori judgements are impossible because adding a predicate not contained in the subject always requires a fresh sensory warrant.
+
+## MCQ 41. Kant and Hegel on categories and reality
+
+With reference to 2026 Q4(b), which comparison is most accurate?
+
+A. Kant and Hegel both treat the categories as an inherited fixed list whose validity ends at appearances, but Hegel adds a theological proof of the noumenal world.
+
+B. Kant makes categories empirical generalisations abstracted from experience, whereas Hegel alone regards thought as constitutive of experienced objectivity.
+
+C. Hegel rejects Kant's constitutive turn and restores a pre-critical model in which thought passively copies an independently ready-made reality.
+
+D. Kant retains fixed a priori categories and a thing-in-itself limit; Hegel makes categories dialectically self-developing determinations of reality and rejects that fixed boundary.
+
+## MCQ 42. From failed God-proofs to practical postulates
+
+Which one of the following preserves the proper boundary between Kant's speculative critique and his practical sequel?
+
+A. Once speculative proofs fail, practical reason supplies theoretical knowledge of God through the moral law and thereby completes speculative theology.
+
+B. Speculative reason neither proves nor disproves God; practical reason postulates God for the highest good without converting rational belief into theoretical cognition.
+
+C. The practical postulate repairs the ontological proof by adding moral perfection to the concept of the most real being and deriving existence from it.
+
+D. Kant's critique excludes every rational role for God, so mentioning practical postulates contradicts the Dialectic and abandons critical limits.

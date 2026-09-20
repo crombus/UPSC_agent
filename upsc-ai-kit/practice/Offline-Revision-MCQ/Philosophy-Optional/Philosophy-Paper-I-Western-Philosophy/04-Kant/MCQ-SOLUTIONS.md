@@ -739,3 +739,327 @@ D. Replace the theoretical critique with the moral argument, which Kant regarded
 - **D:** Incorrect: the question asks about the critique of the speculative proofs, and replacing it answers a different question.
 
 **Examiner trap 32:** Two sentences on the postulate, then stop. A God-proof answer that becomes an ethics survey has left the printed clause, and length will not compensate for scope.
+
+## MCQ 33. What the Refutation of Idealism establishes
+
+Consider the following statements about Kant's Refutation of Idealism.
+
+1. Determinate awareness of one's inner states in time presupposes relation to something persistent in outer experience.
+2. The argument makes inner and outer experience epistemically co-dependent rather than deriving the outer world from an isolated inner certainty.
+3. Its conclusion concerns empirically external objects in space, not cognition of things as they are in themselves.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 1, 2 and 3
+
+C. 2 and 3 only
+
+D. 1 and 3 only
+
+**Answer: B.**
+
+**Statement analysis:**
+- **1 is correct:** inner change can be determined in time only through relation to something persistent, which inner intuition alone does not provide.
+- **2 is correct:** Kant reverses Cartesian priority by arguing that determinate self-experience already depends on outer experience.
+- **3 is correct:** the proof establishes objects outside us in empirical space, not noumenal knowledge of things independently of our forms of cognition.
+
+**Option explanations:**
+- **A:** Incorrect: it captures the transcendental dependency but omits the decisive restriction on what kind of external object is established.
+- **B:** Correct: all three statements preserve both the anti-Cartesian force and the transcendental-idealist limit of the argument.
+- **C:** Incorrect: it states the conclusion and structure but omits the persistent-outer condition that performs the proof.
+- **D:** Incorrect: it keeps the premise and limitation while suppressing the co-dependence that distinguishes Kant from an inference out of inner certainty.
+
+**Examiner trap 33:** Writing that Kant proves things in themselves outside us turns the Refutation into a violation of the very limit it presupposes. The conclusion is empirical externality.
+
+**Repair action:** Reconstruct four links: inner states occur in time → temporal determination needs persistence → persistence is encountered in outer experience → empirical outer objects are immediately experienced.
+
+**Coverage-cell mapping:** Refutation of Idealism — specifically the co-dependence of inner and outer experience without proof of things in themselves.
+
+**PYQ linkage:** Supports the idealism boundary needed in **2019 Q4(a)** and **2020 Q3(c)**, while preventing an overclaim in any Kant–Berkeley comparison.
+
+## MCQ 34. The noumenon as a limiting concept
+
+Consider the following statements about a noumenon in Kant's negative sense.
+
+1. It marks the thought of something insofar as it is not an object of sensible intuition.
+2. It licenses no determinate knowledge of a hidden object causing appearances, because categories without temporal schemata lack objective employment.
+3. Its limiting role blocks the inference that appearances exhaust reality without converting the boundary into a positively known second world.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+**Answer: D.**
+
+**Statement analysis:**
+- **1 is correct:** the negative noumenon is thought by abstracting from our sensible mode of intuition.
+- **2 is correct:** unschematised categories may be thought logically but cannot determine an object beyond possible experience.
+- **3 is correct:** the concept limits sensibility and theoretical knowledge without supplying descriptive access to a noumenal realm.
+
+**Option explanations:**
+- **A:** Incorrect: it states the negative definition and epistemic limit but omits why a limit is retained rather than appearances being declared exhaustive.
+- **B:** Incorrect: it captures the non-knowledge and boundary but omits the precise negative definition of noumenon.
+- **C:** Incorrect: it states the negative thought and limiting role while omitting the schematism-based reason positive knowledge fails.
+- **D:** Correct: all three statements keep the noumenon thinkable, non-cognitive and boundary-forming without making it a hidden causal object.
+
+**Examiner trap 34:** “The noumenon is the hidden thing that causes appearances” converts a limiting concept into a constitutively known object and triggers Jacobi's affection problem.
+
+**Repair action:** Use three negatives: not sensibly intuited; not positively determined by categories; not a second world known behind appearances.
+
+**Coverage-cell mapping:** Phenomena and noumena — specifically the negative noumenon as limiting concept rather than a positively known hidden causal object.
+
+**PYQ linkage:** Directly sharpens **2020 Q3(c)** and the noumenal-boundary axis required by **2026 Q4(b)**.
+
+## MCQ 35. The finite reach of the design proof
+
+A candidate argues that the order of nature proves an infinite necessary creator without borrowing any premise from another proof. Kant's strongest correction is that
+
+A. finite order supports at most a proportionate architect; reaching a creator and necessary being requires the cosmological step and ultimately the ontological argument
+
+B. purposive order proves an infinite creator directly, but the proof fails only because existence is known through inner rather than outer sense
+
+C. the design proof establishes a necessary being, whereas only the move from necessity to personality depends on the cosmological argument
+
+D. natural order is wholly illusory under transcendental idealism, so no empirical observation may support even a limited theological inference
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: an observed finite arrangement licenses only a proportionate designer or architect; creatorhood, infinity and necessity are imported through the dependency chain.
+- **B:** Incorrect: the design proof never reaches an infinite creator directly, and the inner/outer-sense distinction is irrelevant to its failure.
+- **C:** Incorrect: necessity is precisely what the empirical design inference cannot yield without the cosmological proof.
+- **D:** Incorrect: appearances are empirically real, so order can support a limited inference even though it cannot ground speculative theology.
+
+**Examiner trap 35:** Admiration for the design proof is not endorsement. Kant calls it the oldest and clearest route while denying that a finite effect can establish an infinite creator.
+
+**Repair action:** Draw the dependency chain: order → architect only; creator/necessity → cosmological borrowing; *ens realissimum* with necessary existence → ontological borrowing.
+
+**Coverage-cell mapping:** Critique of the physico-theological proof — specifically its finite-cause limitation and dependence on cosmological and ontological arguments.
+
+**PYQ linkage:** Directly strengthens **2021 Q2(c)** and **2024 Q2(c)** on Kant's critique of the proofs for God's existence.
+
+## MCQ 36. Freedom under two standpoints
+
+Consider the following statements about Kant's resolution of the Third Antinomy.
+
+1. As appearance, an action remains subject to natural causality and can be explained within the temporal series.
+2. The same agent may be thought under an intelligible standpoint as initiating a series spontaneously, without this becoming theoretical knowledge of freedom.
+3. The distinction makes freedom thinkable without dividing the person into two independently existing beings.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 3 only
+
+**Answer: C.**
+
+**Statement analysis:**
+- **1 is correct:** phenomenal causality remains fully governed by the Second Analogy.
+- **2 is correct:** the intelligible standpoint removes contradiction but does not furnish speculative proof that freedom is actual.
+- **3 is correct:** the two-aspect reading concerns one agent considered under different standpoints, not two separately existing selves.
+
+**Option explanations:**
+- **A:** Incorrect: it states compatibility but omits the safeguard against turning the standpoint distinction into an ontological duplication.
+- **B:** Incorrect: it captures thinkability and unity but omits Kant's uncompromised phenomenal determinism.
+- **C:** Correct: all three statements express “room, not proof” through a standpoint distinction applied to one agent.
+- **D:** Incorrect: it preserves determinism and the one-agent thesis but omits the intelligible standpoint that makes freedom conceivable.
+
+**Examiner trap 36:** The Third Antinomy neither proves freedom nor weakens natural causality. It removes contradiction by distinguishing standpoints.
+
+**Repair action:** Write one sentence with all limits: the same agent is determined as appearance, thinkable as free intelligibly, and not theoretically known as noumenally free.
+
+**Coverage-cell mapping:** Third Antinomy — specifically freedom as thinkable but not theoretically proved through the standpoint distinction.
+
+**PYQ linkage:** Directly supports **2022 Q3(a)** and prevents overclaiming when the dynamical-antinomies resolution is explained.
+
+## MCQ 37. Why transcendental ideality is not private subjectivity
+
+Which one of the following most accurately states Kant's position on space and outer objects?
+
+A. Space is a private image generated separately by each mind, so agreement about objects requires an inference to noumenal causes.
+
+B. Space is transcendentally ideal as a form of human intuition yet empirically real for every possible outer experience, which secures publicly valid objects of experience.
+
+C. Space belongs to things in themselves, while only the secondary qualities of objects depend on the subject's mode of intuition.
+
+D. Outer objects are illusions because transcendental ideality denies that appearances can possess objective empirical reality.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: the form is subject-dependent in a transcendental sense but universal for human experience, not a private image varying by individual.
+- **B:** Correct: transcendental ideality concerns independence from our sensible constitution, while empirical reality secures objective and intersubjective spatial experience.
+- **C:** Incorrect: Kant denies that space characterises things in themselves and does not reproduce Locke's primary/secondary-quality division here.
+- **D:** Incorrect: appearance is not illusion; objective empirical criteria operate wholly within the field of appearances.
+
+**Examiner trap 37:** “Subjective” is dangerously ambiguous. Kant means dependent on the universal form of human sensibility, not privately invented or empirically unreal.
+
+**Repair action:** Pair the terms every time: transcendentally ideal *of things in themselves*; empirically real *for all possible outer experience*.
+
+**Coverage-cell mapping:** Transcendental Aesthetic — specifically why transcendental ideality does not make space or spatial objects privately subjective.
+
+**PYQ linkage:** Directly sharpens **2019 Q4(a)** and **2022 Q1(e)** by preventing the Berkeleyan misreading of Kant's doctrine of space.
+
+## MCQ 38. The temporal schema as a third thing
+
+Consider the following statements about transcendental schematism.
+
+1. A category is purely intellectual, while an empirical intuition is sensible and singular.
+2. A schema mediates because it is a rule produced by imagination and a determination of time, the form in which every appearance is given.
+3. A schema is not a representative image; it supplies the general procedure by which a category can determine sensible objects.
+
+Which of the statements given above are correct?
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+**Answer: D.**
+
+**Statement analysis:**
+- **1 is correct:** the heterogeneity of pure concepts and sensible particulars generates the mediation problem.
+- **2 is correct:** time is sensible as the form of inner sense yet universal enough to correspond to categorial rules.
+- **3 is correct:** the schema is a construction rule or temporal procedure, not a determinate picture.
+
+**Option explanations:**
+- **A:** Incorrect: it explains why and how mediation occurs but omits the rule/image distinction needed to avoid reducing schemata to pictures.
+- **B:** Incorrect: it states mediation and procedure but omits the heterogeneity that makes a “third thing” necessary.
+- **C:** Incorrect: it gives the endpoints and non-image character while suppressing time, the feature that makes mediation possible.
+- **D:** Correct: all three statements reconstruct the problem, the temporal mediator and its rule-governed character.
+
+**Examiner trap 38:** A schema is not a faint image attached to a concept. An image is determinate; a schema is the rule for generating indefinitely many determinate instances.
+
+**Repair action:** Memorise the bridge: category — intellectual rule; time — universal sensible form; schema — temporal rule; intuition — determinate appearance.
+
+**Coverage-cell mapping:** Schematism — specifically the temporal schema as the homogeneous “third thing” between category and intuition.
+
+**PYQ linkage:** Supports **2018 Q2(b)** and the causal-schema reasoning needed for **2024 Q1(b)** and the Kant half of **2026 Q2(b)**.
+
+## MCQ 39. Irreversible succession in the Second Analogy
+
+A viewer may apprehend the parts of a house in either order, but must apprehend a ship's downstream positions in an order constrained by the event. What does Kant infer?
+
+A. Every temporal succession of perceptions counts as objective because all apprehension occurs in time and follows a determinate order.
+
+B. Objective succession is distinguished by greater vividness and constancy than the freely reversible sequence.
+
+C. An objective event requires a rule fixing which state precedes and follows, though the particular causal law remains empirically discoverable.
+
+D. The ship case proves that the cause and effect are simultaneous, since only simultaneity can prevent reversal of apprehension.
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: apprehension is successive in both the house and ship cases, so succession of perception alone cannot mark an event.
+- **B:** Incorrect: vividness and constancy are Humean psychological criteria, not Kant's ground of objective time-order.
+- **C:** Correct: irreversible, rule-determined order constitutes objective succession, while experience must still discover which empirical cause operates.
+- **D:** Incorrect: the Second Analogy concerns succession according to a rule; simultaneity belongs to the Third Analogy.
+
+**Examiner trap 39:** The ship does not prove a particular causal law. It establishes that an event can be represented as objectively successive only under the concept of rule-governed causality.
+
+**Repair action:** Always use the contrast: both apprehensions successive; house order reversible; event order irreversible; therefore a determining rule is required.
+
+**Coverage-cell mapping:** Second Analogy — specifically why irreversible rule-governed succession marks an objective event.
+
+**PYQ linkage:** Directly strengthens **2024 Q1(b)** and provides the exact Kantian response cross-linked to **2026 Q2(b)**.
+
+## MCQ 40. Crossing Kant's two distinctions
+
+Which one of the following correctly maps Kant's analytic/synthetic and a priori/a posteriori distinctions?
+
+A. Analytic judgements are a priori; synthetic judgements may be a priori or a posteriori; analytic a posteriori adds no class because conceptual containment already warrants the judgement.
+
+B. Analytic judgements become a posteriori whenever their concepts were learned from experience, while every synthetic judgement is necessarily a priori.
+
+C. Analytic and a priori are interchangeable, as are synthetic and a posteriori, so crossing the distinctions still yields only two genuine classes.
+
+D. Synthetic a priori judgements are impossible because adding a predicate not contained in the subject always requires a fresh sensory warrant.
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: one distinction concerns predicate containment and the other source of warrant; their crossing yields analytic a priori, synthetic a posteriori and Kant's crucial synthetic a priori class.
+- **B:** Incorrect: the empirical acquisition of concepts does not make an analytic judgement a posteriori, and synthetic judgements are not all a priori.
+- **C:** Incorrect: identifying the axes reproduces the very dogmatic grid Kant overturns by defending synthetic a priori cognition.
+- **D:** Incorrect: the *Critique* asks how synthetic a priori judgements are possible rather than declaring them impossible.
+
+**Examiner trap 40:** Do not confuse the history of acquiring a concept with the warrant for a judgement. Analyticity concerns containment; apriority concerns justification.
+
+**Repair action:** Redraw the two-axis grid and mark one empty cell: analytic a posteriori. Then place definitions, ordinary experience, mathematics and principles of experience in the remaining cells.
+
+**Coverage-cell mapping:** Analytic/synthetic and a priori/a posteriori — specifically why the apparent analytic-a-posteriori combination is epistemically empty.
+
+**PYQ linkage:** Directly supports **2023 Q1(e)** and **2024 Q1(b)**, where the synthetic-a-priori category must be explained rather than merely named.
+
+## MCQ 41. Kant and Hegel on categories and reality
+
+With reference to 2026 Q4(b), which comparison is most accurate?
+
+A. Kant and Hegel both treat the categories as an inherited fixed list whose validity ends at appearances, but Hegel adds a theological proof of the noumenal world.
+
+B. Kant makes categories empirical generalisations abstracted from experience, whereas Hegel alone regards thought as constitutive of experienced objectivity.
+
+C. Hegel rejects Kant's constitutive turn and restores a pre-critical model in which thought passively copies an independently ready-made reality.
+
+D. Kant retains fixed a priori categories and a thing-in-itself limit; Hegel makes categories dialectically self-developing determinations of reality and rejects that fixed boundary.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Hegel rejects both the fixed category table and the permanent appearance/in-itself boundary rather than preserving them.
+- **B:** Incorrect: Kant's categories are a priori and constitutive of objects of experience, so the constitutive turn begins with Kant.
+- **C:** Incorrect: Hegel radicalises the constitutive insight by treating thought's determinations as reality's own intelligible development.
+- **D:** Correct: it identifies the inherited Kantian achievement and the Hegelian transformation on both the category and boundary axes.
+
+**Examiner trap 41:** Two separate summaries do not answer the comparison. The decisive axes are fixed versus self-developing categories and limiting noumenon versus dialectically knowable reality.
+
+**Repair action:** Use a four-column matrix: source of categories; relation of thought/reality; role of contradiction; status of thing in itself/Absolute.
+
+**Coverage-cell mapping:** Kant–Hegel comparison — specifically fixed categories and the thing-in-itself boundary versus dialectical self-development.
+
+**PYQ linkage:** Directly maps to **2026 Q4(b)** on the different ways Kant and Hegel conceive the relationship between reality and thought.
+
+## MCQ 42. From failed God-proofs to practical postulates
+
+Which one of the following preserves the proper boundary between Kant's speculative critique and his practical sequel?
+
+A. Once speculative proofs fail, practical reason supplies theoretical knowledge of God through the moral law and thereby completes speculative theology.
+
+B. Speculative reason neither proves nor disproves God; practical reason postulates God for the highest good without converting rational belief into theoretical cognition.
+
+C. The practical postulate repairs the ontological proof by adding moral perfection to the concept of the most real being and deriving existence from it.
+
+D. Kant's critique excludes every rational role for God, so mentioning practical postulates contradicts the Dialectic and abandons critical limits.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: practical postulation changes the rational role of the idea but never produces speculative or theoretical knowledge.
+- **B:** Correct: Kant is theoretically agnostic, while practical reason permits a bounded rational belief connected with the highest good.
+- **C:** Incorrect: the postulate does not repair any speculative proof or infer existence from an enriched concept.
+- **D:** Incorrect: the Dialectic blocks constitutive theoretical knowledge but leaves a legitimate practical employment.
+
+**Examiner trap 42:** “Kant disproves God” and “Kant proves God morally” are symmetrical errors. The exact position is failed speculative demonstration plus bounded practical postulation.
+
+**Repair action:** End a God-proof answer in two sentences only: theoretical reason neither proves nor disproves; practical reason postulates God for the highest good, without knowledge.
+
+**Coverage-cell mapping:** God-proofs and practical reason — specifically the bounded relation between speculative critique and practical postulates without importing a full ethics answer.
+
+**PYQ linkage:** Directly supports **2021 Q2(c)** and **2024 Q2(c)** while preserving the topic-owner boundary stated in the existing toolkit.

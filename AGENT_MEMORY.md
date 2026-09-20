@@ -749,6 +749,13 @@ format.
   into shallow generic summaries.
 - Preserve complete revision material, hard MCQs, separate solutions, coverage ledgers,
   learner-specific practice logs, answer-writing toolkits, and offline PDFs.
+- **Coverage-sized MCQ rule:** never copy a previous topic's question count or use a fixed/template
+  total. Derive a topic-specific test matrix from every substantive syllabus and revision cell,
+  verified PYQ theme, major comparison, criticism, application and likely misconception. Add
+  distinct recognition, reasoning, elimination and transfer questions where the concept warrants
+  them; remove redundant paraphrases. Record the justified total and question-to-cell mapping in
+  the coverage ledger and validation report. Equal totals across topics are acceptable only when
+  independently produced and explicitly justified by their coverage matrices.
 - **Latest-paper rule:** include every verified available PYQ through the latest repository year;
   never hard-code a stopping year. Verify wording and marks from the official scan/OCR or an
   explicitly verified repository ledger, assign one primary owner with cross-links where needed,

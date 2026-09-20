@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topic": "03 Empiricism",
-  "validated_at": "2026-09-20T07:42:12+05:30",
+  "validated_at": "2026-09-20T09:09:07+05:30",
   "result": "pass",
   "pdf_generation": {
     "mechanism": "tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
@@ -27,8 +27,8 @@
       "pdf/Answer-Writing-Toolkit.pdf": true
     },
     "mcq_numbering": {
-      "question_count": 32,
-      "solution_count": 32,
+      "question_count": 41,
+      "solution_count": 41,
       "questions": [
         1,
         2,
@@ -61,7 +61,16 @@
         29,
         30,
         31,
-        32
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
       ],
       "solutions": [
         1,
@@ -95,7 +104,16 @@
         29,
         30,
         31,
-        32
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
       ],
       "exact_match": true
     },
@@ -107,9 +125,39 @@
       "solution_label": false
     },
     "solutions_complete": {
-      "answers": 32,
-      "option_explanations": 32,
-      "examiner_traps": 32
+      "answers": 41,
+      "option_explanations": 41,
+      "examiner_traps": 41,
+      "new_repair_actions": 9,
+      "new_coverage_mappings": 9,
+      "new_pyq_linkages": 9
+    },
+    "coverage_driven_sizing": {
+      "original_questions_retained": 32,
+      "independently_uncovered_cells": 9,
+      "added_questions": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "final_count": 41,
+      "count_is_audit_result_not_target": true,
+      "q1_32_preserved": true,
+      "new_question_solution_prompts_match": true,
+      "all_questions_have_four_options": true,
+      "question_to_cell_mapping_recorded_in_coverage_ledger": true,
+      "new_answer_distribution": {
+        "A": 2,
+        "B": 2,
+        "C": 3,
+        "D": 2
+      }
     },
     "verified_pyqs": {
       "directly_owned_count": 14,
@@ -253,18 +301,21 @@
         }
       },
       "MCQ-Questions.pdf": {
-        "bytes": 170341,
-        "pages": 12,
+        "bytes": 207943,
+        "pages": 16,
         "blank_pages": [],
         "replacement_glyphs": 0,
-        "out_of_bounds_text_pages": []
+        "out_of_bounds_text_pages": [],
+        "question_count": 41,
+        "answer_leakage": false
       },
       "MCQ-Solutions.pdf": {
-        "bytes": 304541,
-        "pages": 20,
+        "bytes": 420715,
+        "pages": 28,
         "blank_pages": [],
         "replacement_glyphs": 0,
-        "out_of_bounds_text_pages": []
+        "out_of_bounds_text_pages": [],
+        "solution_count": 41
       },
       "Answer-Writing-Toolkit.pdf": {
         "bytes": 575163,
