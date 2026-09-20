@@ -27,6 +27,10 @@
 - Matter/form/privation gives the structure of change; potency/act its modal transition; four causes its explanation.
 - Teleology means regular directedness toward mature form, not conscious design.
 - Form over matter and actuality over potentiality are one priority stated structurally and modally.
+- Aristotle's fundamental metaphysical question is “what is substance?”: Atomism preserves
+  particulars but omits form and end, while Plato preserves form but separates it from particulars.
+- Aristotle's *entelecheia* is actuality or achieved realisation within a compound; Leibniz turns
+  “entelechy” into the name of an immaterial, internally active simple substance.
 - The Unmoved Mover initiates no first event; pure actuality moves as a final cause.
 
 ## Keywords and exact distinctions
@@ -76,11 +80,11 @@ causal gap                 universals/teleology problem
 
 ### Practice status and source discipline — read once, applies to every solution below
 
-> Every model answer here is independent learner practice and is **never** an official UPSC key. Question wording is reproduced exactly as printed in the official papers; the 2019, 2021, 2022, 2023, 2024 and 2025 Paper I texts were read directly from the official question papers held in `books\philosophy_optional\`, and the 2018 and 2020 parts follow the repository's verified Western Philosophy PYQ ledger. Doctrinal claims are attributed to their dialogue or treatise, and interpretive disputes — the *Categories*/*Metaphysics* question, individual versus species form, the status of prime matter, the significance of the equal middle segments of the Divided Line — are flagged as contested rather than settled.
+> Every model answer here is independent learner practice and is **never** an official UPSC key. Question wording is reproduced exactly as printed in the official papers; the 2019, 2021, 2022, 2023, 2024 and 2025 Paper I texts were read directly from the official question papers held in `books\philosophy_optional\`, the 2026 text and marks were checked against the official paper scan and its OCR export and confirmed by the verified 2026 repository ledger, and the 2018 and 2020 parts follow the repository's verified Western Philosophy PYQ ledger. Doctrinal claims are attributed to their dialogue or treatise, and interpretive disputes — the *Categories*/*Metaphysics* question, individual versus species form, the status of prime matter, the significance of the equal middle segments of the Divided Line — are flagged as contested rather than settled.
 
 **Answer-length convention used throughout this package.** UPSC Philosophy Paper I parts are written longer than General Studies answers. The working bands are **10 marks — about 150 to 200 words**, **15 marks — about 250 to 300 words**, and **20 marks — about 340 to 400 words**. Each solution prints the timed answer first; where a paragraph is marked *Depth refinement*, it is a teaching addendum that sits **outside** the timed word count.
 
-**Coverage:** twelve directly owned Plato–Aristotle PYQs from 2018 to 2025 — every part the ledger routes to this syllabus item, in every year of the corpus — and six original solved Mains models, two each at 10, 15 and 20 marks.
+**Coverage:** fourteen directly owned Plato–Aristotle PYQs from 2018 to 2026 — every part the ledger routes to this syllabus item, in every year of the corpus — and six original solved Mains models, two each at 10, 15 and 20 marks.
 
 **Citation discipline used in every answer.** Plato is cited by Stephanus pagination and Aristotle by Bekker numbers, with *Metaphysics* books given once in both conventions — "Book VII (Z)". References are preferred to remembered quotations, because translations differ markedly.
 
@@ -553,6 +557,89 @@ Both philosophers use the word **form** *(eidos)*, and the entire difference lie
 - **Doctrine:** *hylē*, *morphē*, *synolon*, relativity of matter, soul as form of the body.
 - **Evidence:** *De Anima* II.1; *Metaphysics* XII (Λ).7 for the immaterial mover.
 - **Value addition:** distinguishing artefacts from living substances shows why the doctrine was invented, not merely what it says.
+
+#### 2026 · Q1(d) · 10 marks
+
+**Question:** Compare and contrast the notion of entelechy as presented in Aristotle’s and Leibniz’s philosophy.
+
+##### Demand decoding
+
+| Element | Requirement |
+|---|---|
+| Directive | “Compare and contrast” — establish the shared problem and then organise differences on matched axes |
+| Core issue | Aristotle uses *entelecheia* primarily for actuality or achieved realisation; Leibniz uses “entelechy” for an internally active simple substance or monad |
+| Scope boundary | Ten marks: define both uses, give one continuity, four decisive contrasts and one qualified verdict |
+| Ideal thesis | Leibniz inherits Aristotle’s anti-passive model of substance but changes the category: actuality within a hylomorphic compound becomes an immaterial substance |
+| Non-negotiables | *dynamis–energeia–entelecheia*; first and second actuality; soul as first actuality; monad, perception, appetition, windowlessness, pre-established harmony |
+| Ownership | Primary owner: Plato–Aristotle; Leibnizian monadology is cross-linked to Rationalism and is not counted twice |
+
+##### Independent model answer
+
+Aristotle and Leibniz use **entelechy** to resist a merely passive conception of being, but they use it for different ontological categories.
+
+For Aristotle, *entelecheia* is **actuality, achieved realisation or completeness**, the correlate of potentiality *(dynamis)*. Form actualises matter: informed bronze is actually a statue. The soul is the “first actuality” of an organic body capable of life (*De Anima* II.1, 412a20–28); exercising a capacity is second actuality. Entelechy is therefore the immanent form or realised state of a hylomorphic compound, not another substance lodged within it.
+
+Leibniz appropriates the term for created **simple substances or monads** (*Monadology* §18). A monad is immaterial, indivisible and “windowless”; its states are perceptions and their internal transitions are appetitions. Bodies are aggregates or well-founded phenomena, while coordination occurs through pre-established harmony rather than causal influx.
+
+The continuity is an intrinsic principle of unity and activity. The decisive contrast is that Aristotle’s entelechy is what a substance **has or is in act**, whereas Leibniz’s entelechy is what a simple substance **is**. Aristotle retains matter, real compounds and interaction; Leibniz substantialises form, excludes matter from true unity and internalises all change.
+
+⚠️ Thus Leibniz does not merely repeat Aristotle: he transforms an account of actuality within substance into a monadological account of substance itself.
+
+**Depth refinement.** Aristotle’s first/second actuality distinction prevents “entelechy” from meaning only a finished endpoint; Leibniz similarly stresses continuous internal activity, but without Aristotle’s matter–form compound.
+
+##### Why this earns marks
+
+**Answer-writing focus — 2026 Q1(d):** comparison must be symmetrical. Two separate mini-essays lose the relation the directive asks for.
+
+**Exam-length execution — 10 marks, about 150 to 200 words:** shared concern in two lines; Aristotle in four; Leibniz in four; matched contrasts and verdict in four.
+
+- **Structure:** common ground → Aristotle → Leibniz → matched contrasts → category-shift verdict.
+- **Doctrine:** first/second actuality, soul as first actuality, monad, perception, appetition and harmony.
+- **Depth:** the category shift from **actuality** to **substance** is the controlling distinction.
+- **Qualification:** say Leibniz “appropriates and transforms”; never identify monads with Aristotelian substantial forms.
+
+#### 2026 · Q2(a) · 20 marks
+
+**Question:** What, according to Aristotle, is the fundamental problem of metaphysics? Discuss this in relation with Aristotle’s account of the essence of the world, where he rejects the views of both the Atomists and Plato.
+
+##### Demand decoding
+
+| Element | Requirement |
+|---|---|
+| Directive | “What” plus “discuss in relation” — define the fundamental problem, connect it to Aristotle’s positive ontology, then execute both rejections |
+| Core issue | Being is said in many ways but ordered by focal reference to substance; “what is being?” becomes “what is substance?” |
+| Required architecture | **One problem → two rival failures → one positive solution** |
+| Atomist limb | Atoms and void preserve particulars and change but give only material/efficient explanation, not form, end or substantial unity |
+| Platonic limb | Separate Forms preserve intelligible essence but duplicate things, leave participation metaphorical and cannot explain motion or generation |
+| Positive limb | Individual sensible substance as matter–form compound; immanent form as essence/actuality; four causes; potentiality → actuality |
+| Non-negotiables | being qua being; *pros hen*; *ousia*; *to ti ēn einai*; hylomorphism; four causes; double rejection; qualified middle-path verdict |
+
+##### Independent model answer
+
+Aristotle defines first philosophy as the science of **being qua being** and its proper attributes (*Metaphysics* IV.1). Since “being” is said in many ways — substance, quality, quantity, relation, potentiality and actuality — its unity is not that of a genus but of **focal reference** *(pros hen)* to substance. The ancient question “what is being?” therefore becomes the fundamental metaphysical problem: **what is substance (*ousia*)?** (*Metaphysics* VII.1).
+
+An adequate answer must preserve the reality of the individual sensible thing, make its determinate essence intelligible, and explain change and generation. Aristotle’s answer is hylomorphic. A sensible substance is a compound *(synolon)* of matter and immanent form; form is its what-it-is-to-be *(to ti ēn einai)* and actuality. Change is potentiality becoming actuality, and full explanation requires material, formal, efficient and final causes.
+
+**Against the Atomists**, Aristotle accepts their attempt to preserve permanent constituents while explaining change, but atoms differing only in shape, order and position provide at most material and efficient causes. They assume motion, reduce qualitative and substantial change to rearrangement, cannot explain the unity of an organism rather than a heap, and replace nature’s regular “for the most part” directedness with collision and chance. Their world has matter and motion but lacks immanent form and end.
+
+**Against Plato**, Aristotle accepts the need for stable intelligible essence but rejects its separation *(chōrismos)*. Separate Forms duplicate the explananda, make participation a metaphor, cannot cause motion or generation, and invite the Third Man regress. Most decisively, an essence existing apart cannot be the essence of this thing.
+
+Aristotle’s middle path therefore keeps what each rival loses: unlike Atomism it supplies form, unity and finality; unlike Platonism it keeps essence within the particular. “The Atomists keep the particulars and lose the form; Plato keeps the form and loses the particulars; Aristotle keeps both by putting form inside the particular.”
+
+⚠️ The victory is qualified. Modern mechanism weakens Aristotelian physics, prime matter remains obscure, and the status of immanent form as individual or universal is disputed. Yet his double rejection identifies a durable explanatory demand: neither bare constituents nor separated universals suffice to explain a changing, organised substance.
+
+**Depth refinement.** Do not treat “being qua being” as a highest object alongside other objects. It studies beings precisely insofar as they are beings, and *pros hen* secures unity without turning being into a genus.
+
+##### Why this earns marks
+
+**Answer-writing focus — 2026 Q2(a):** the two critiques must be derived from the positive account of substance. Writing an Atomist paragraph and a Plato paragraph without the governing problem produces a disconnected answer.
+
+**Exam-length execution — 20 marks, about 340 to 400 words:** problem and constraints in five lines; positive apparatus in five; Atomists in six; Plato in six; synthesis, qualification and verdict in five.
+
+- **Structure:** being qua being → substance problem → positive hylomorphism → Atomist failure → Platonic failure → middle-path judgement.
+- **Doctrine:** *pros hen*, *ousia*, *synolon*, *to ti ēn einai*, four causes and potentiality–actuality.
+- **Completeness:** both rejections receive comparable argumentative weight.
+- **Qualification:** Aristotle retains the Atomists’ concern for particulars and Plato’s demand for intelligibility; he rejects their reductions, not every insight they contain.
 
 ### ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 

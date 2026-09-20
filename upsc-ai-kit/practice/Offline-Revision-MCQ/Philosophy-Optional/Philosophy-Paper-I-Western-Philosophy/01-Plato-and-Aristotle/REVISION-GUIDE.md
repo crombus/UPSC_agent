@@ -8,6 +8,7 @@
 
 - [Complete Learning Session](../../../../../../learning_package_final/Philosophy-Optional/Philosophy-Paper-I-—-Western-Philosophy/01-Plato-and-Aristotle/Learning-Session.md)
 - [Solved Practice Workbook](../../../../../../learning_package_final/Philosophy-Optional/Philosophy-Paper-I-—-Western-Philosophy/01-Plato-and-Aristotle/Solved-Practice-Workbook.md)
+- [Verified Western Philosophy PYQ Ledger — 2026](../../../../../knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md)
 - [Quick-glance tree](../../../../../../quick_galance/Philosophy/philosophy-paper-i-western-philosophy-01_Tree-Chart.md)
 - [ASCII master flowchart](../../../../../../notes/Final-Learning-Packages/Philosophy%20Optional/Philosophy%20Paper%20I%20—%20Western%20Philosophy/01-Plato-and-Aristotle/04-ASCII-Master-Flowchart/ASCII-Master-Flowchart.txt)
 - [Graphical poster PDF](../../../../../../notes/Final-Learning-Packages/Philosophy%20Optional/Philosophy%20Paper%20I%20—%20Western%20Philosophy/01-Plato-and-Aristotle/03-Carvaka-Graphical-Flowchart/At-a-Glance-Poster.pdf)
@@ -69,7 +70,7 @@
 
 | Classification | Content |
 |---|---|
-| **CORE MAINS** | Forms and their motivations; knowledge and opinion; participation; timelessness and spacelessness; Aristotle's critique; substance in the *Categories* and the *Metaphysics*; hylomorphism; the four causes; potentiality and actuality; the comparison |
+| **CORE MAINS** | Forms and their motivations; knowledge and opinion; participation; timelessness and spacelessness; Aristotle's critique; being qua being and the fundamental substance problem; the Atomist/Plato double rejection; substance in the *Categories* and the *Metaphysics*; hylomorphism; the four causes; potentiality and actuality; Aristotle–Leibniz entelechy; the comparison |
 | **CORE SUPPORTING** | The Sun–Line–Cave triad as one argument; the *Parmenides* objections; privation; the Unmoved Mover as the terminus of the actuality doctrine; citation discipline |
 | **SUPPORTING** | Dialogue and treatise map; the *Timaeus* Demiurge and Receptacle, used only to prevent a false equation; Stace's and Aristotle's reports |
 | **OPTIONAL ADVANCED** | Third Man after the stock regress; focal meaning of being; individual versus species form; Popper's political critique |
@@ -135,10 +136,13 @@ THE ONE-MANY AND KNOWLEDGE PROBLEM
     -> SUN, DIVIDED LINE AND CAVE: KNOWLEDGE, THE GOOD AND EDUCATION
     -> PARTICIPATION AND ITS OBJECTIONS; PLATO'S WIDER CAUSAL RESOURCES
     -> ARISTOTLE'S CRITIQUE AND THE IMMANENT REPAIR
+    -> FUNDAMENTAL METAPHYSICS: BEING QUA BEING -> SUBSTANCE
+       -> ATOMISTS LOSE FORM/END; PLATO SEPARATES FORM
     -> SUBSTANCE: CATEGORIES, METAPHYSICS Z, ACCIDENTS
     -> FORM AND MATTER: HYLOMORPHISM, PRIME MATTER, PRIVATION
     -> CAUSATION: THE FOUR CAUSES AND TELEOLOGY
-    -> POTENTIALITY AND ACTUALITY: CHANGE, PRIORITY, THE UNMOVED MOVER
+    -> POTENTIALITY AND ACTUALITY: CHANGE, PRIORITY, ENTELECHY,
+       ARISTOTLE–LEIBNIZ, THE UNMOVED MOVER
     -> COMPARISON, CRITICISMS AND REPLIES
     -> ANSWER ARCHITECTURE, DIRECTIVES AND CITATION DISCIPLINE
 ```
@@ -931,7 +935,49 @@ problem of universals
 
 **Executable verdict:** "The *Categories* identifies the substances; the *Metaphysics* identifies substance-hood. The tension is real only if 'substance' must have a single sense — which Aristotle explicitly denies, since being is 'said in many ways'."
 
-#### 5. Substance and accident — the ten categories
+#### 5. The fundamental problem of metaphysics and the double rejection — 2026 Q2(a)
+
+✅ *Metaphysics* IV.1 defines first philosophy as the science of **being qua being**. Because
+being is said in many ways, Aristotle does not make it a genus; the senses are unified by
+**focal reference (*pros hen*)** to substance. Thus the ancient question “what is being?” becomes
+the determinate question **“what is substance (*ousia*)?”** (*Metaphysics* VII.1).
+
+An answer must save three things together: the concrete individual, its intelligible essence,
+and real change or generation.
+
+```text
+ONE FUNDAMENTAL PROBLEM: WHAT IS SUBSTANCE?
+                    |
+       +------------+-------------+
+       |                          |
+ATOMISTS                         PLATO
+keep particulars                keeps intelligible form
+but reduce them to              but separates it from
+atoms + void                    the particular
+       |                          |
+lose formal/final cause         lose causation/generation
+and substantial unity           through duplication and participation
+       +------------+-------------+
+                    |
+              ARISTOTLE'S REPAIR
+individual substance = matter + IMMANENT form
+essence = actuality; change = potency -> act
+complete explanation = four causes
+```
+
+| Rival | What Aristotle retains | What he rejects | Positive replacement |
+|---|---|---|---|
+| Atomists | real particulars; permanent principles beneath change | reduction to shape/order/position; assumed motion; no form, end or organic unity | hylomorphic substance and all four causes |
+| Plato | stable essence and intelligibility | separation, duplication, metaphorical participation, causal impotence, Third Man | immanent form as the essence and actuality of this compound |
+
+> 🔑 **Answer spine — ONE problem, TWO failures, FOUR causes.** Atomists put too little form
+> into the world; Plato puts form in the wrong place; Aristotle puts form **in** the particular.
+
+⚠️ This is a middle path, not a blanket dismissal. Aristotle preserves the Atomists' concern for
+particulars and Plato's concern for intelligibility. His charge is that neither bare constituents
+nor separated universals can explain an organised changing substance.
+
+#### 6. Substance and accident — the ten categories
 
 | Category | Example | Status |
 |---|---|---|
@@ -960,6 +1006,8 @@ problem of universals
 #### Exam link
 
 - **Any "comment on substance in Aristotle" prompt** — §3 and §4 are the answer, and naming two readings is what lifts the band.
+- **2026 Q2(a), 20 marks** — §5 supplies the compulsory architecture: being qua being → substance,
+  the positive hylomorphic account, Atomist failure, Platonic failure, and a qualified middle path.
 - **2024 Q1(a), 10 marks** — "what is primary" is one of the matched axes in the comparison.
 - **2025 Q1(b), 10 marks** — the substance–accident distinction supplies the reason accidents are not further matter–form compounds.
 
@@ -972,6 +1020,8 @@ problem of universals
 | Treating the ten categories as physical parts | They are modes of predication and being |
 | Accepting matter as substance | Z.3 rejects it: not a "this", not separable |
 | Presenting one scholarly reading as settled | Label Jaeger, Frede–Patzig and Owen as contested |
+| Treating 2026 Q2(a) as two unrelated critiques | Begin with the substance problem and derive both rejections from Aristotle's positive account |
+| Saying Aristotle “scientifically refuted” Atomism | His criticism is metaphysical: explanatory incompleteness, unity, generation and teleology |
 
 #### Revision notes
 
@@ -979,6 +1029,9 @@ problem of universals
 - *Metaphysics* Z: essence has priority; Z.3 rejects bare matter; Z.13 rejects universals; Z.17 makes substance a cause.
 - Safe resolution: different questions, logical versus causal-explanatory criteria.
 - Four readings: different-questions · developmental · individual form · species form.
+- Fundamental problem: being qua being → focal reference (*pros hen*) → “what is substance?”
+- Double rejection: Atomists preserve particulars but lose form/end; Plato preserves form but
+  separates it. Aristotle's answer is immanent form, hylomorphism, four causes and potency–act.
 - Ten categories = modes of predication; substance *is*, accidents *belong to*.
 - Alteration = accidental change; generation/destruction = substantial change.
 
@@ -1001,6 +1054,15 @@ WORD: ousia
         v
 RESOLUTION: two questions, two criteria (logical vs causal-explanatory)
 READINGS: different-questions (safe) | Jaeger | Frede-Patzig | Owen  [contested]
+        |
+        v
+FUNDAMENTAL METAPHYSICS: being qua being -> pros hen -> "what is substance?"
+        |
+        +--> ATOMISTS: matter/motion without form, end or substantial unity
+        +--> PLATO: intelligible form separated from the particular
+        |
+        v
+ARISTOTLE: individual compound + immanent essence + four causes + potency/act
         |
         v
 TEN CATEGORIES: substance + 9 accidents (modes of predication, not parts)
@@ -1483,7 +1545,42 @@ ANSWER LINE: four answers to one question, not four things acting on it
 
 ⚠️ **Scope discipline.** The Unmoved Mover is retained here because pure actuality **completes** the actuality–potentiality and causal system, not as a general philosophy-of-religion survey. Do not equate it with a personal efficient creator, and do not import proofs for God's existence from Paper II.
 
-#### 6. Objections and replies
+#### 6. Entelechy in Aristotle and Leibniz — 2026 Q1(d)
+
+For Aristotle, *entelecheia* primarily names **actuality, achieved realisation or completeness**,
+the fulfilment of a determinate potential. It is not an extra entity. Form actualises matter, and
+the soul is the **first actuality** of a natural organic body potentially alive (*De Anima* II.1,
+412a20–28); exercising the capacity is second actuality.
+
+Leibniz appropriates the term for created **simple substances or monads** (*Monadology* §18).
+Monads are immaterial, indivisible and windowless; their states are perceptions and their internal
+transitions are appetitions. Bodies are aggregates or well-founded phenomena, coordinated through
+pre-established harmony rather than causal influx.
+
+| Axis | Aristotle | Leibniz |
+|---|---|---|
+| Primary meaning | actuality/realisation | a simple substance or monad |
+| Matter | entelechy is form/act of a matter–form compound | true substances are immaterial and non-composite |
+| Soul | first actuality of an organic body | a monad with distinct perception and memory |
+| Activity | nature is an internal principle, with real interaction also admitted | every transition is internal; no inter-substantial influx |
+| Bodies | genuine hylomorphic substances | aggregates or well-founded phenomena |
+| Coordination | four causes, including efficient interaction | pre-established harmony |
+
+✅ **Continuity:** both make unity and activity intrinsic rather than treating substance as passive.
+✅ **Decisive difference:** Aristotle's entelechy is what a substance **has or is in act**;
+Leibniz's entelechy is what a simple substance **is**. Leibniz substantialises and immaterialises
+the Aristotelian theme rather than merely repeating it.
+
+```text
+ARISTOTLE: potentiality -> actuality/entelechy WITHIN the compound
+                              |
+                         shared concern:
+                    intrinsic unity and activity
+                              |
+LEIBNIZ: entelechy = MONAD, the immaterial simple substance itself
+```
+
+#### 7. Objections and replies
 
 | Objection | Reply |
 |---|---|
@@ -1503,6 +1600,8 @@ ANSWER LINE: four answers to one question, not four things acting on it
 - **2021 Q1(b), 10 marks** — §2 is the answer: indefinability, three stages, priority with its concession.
 - **2023 Q2(b), 15 marks** — §1 for exposition, the visual and §3 for the being-and-becoming verdict.
 - **2020 Q1(a), 10 marks** — §3 and §4 together: two priorities, three senses, one criticism.
+- **2026 Q1(d), 10 marks** — §6 supplies the matched comparison: shared intrinsic activity,
+  then the category shift from Aristotle's actuality within a compound to Leibniz's monad.
 
 #### UPSC traps
 
@@ -1513,6 +1612,8 @@ ANSWER LINE: four answers to one question, not four things acting on it
 | Claiming actuality is temporally prior in every sense | Species-level yes; individual-level no — concede it |
 | Treating the Unmoved Mover as an efficient creator | It moves as a final cause and is not a temporal first event |
 | Expanding the Unmoved Mover into a theology survey | It is retained only as the terminus of the actuality doctrine |
+| Equating a Leibnizian monad with Aristotelian entelechy | The shared term conceals a shift from actuality/form in a compound to an immaterial simple substance |
+| Calling Aristotle's soul a separate substance inside the body | It is the first actuality and form of the organic body; the active-intellect exception is contested |
 
 #### Revision notes
 
@@ -1522,6 +1623,9 @@ ANSWER LINE: four answers to one question, not four things acting on it
 - Priority in definition, in time at species level, in substance; individual-level concession.
 - Form over matter = the same priority seen structurally.
 - Unmoved Mover: pure actuality, final cause, thought thinking itself (*Met.* XII (Λ).7).
+- Entelechy comparison: Aristotle = realised act/form of the compound; Leibniz = the internally
+  active simple substance itself. Common ground is intrinsic unity/activity; decisive difference
+  is **actuality versus substance**.
 
 #### CLOSING RECALL FLOW — POTENTIALITY AND ACTUALITY
 
@@ -1547,6 +1651,12 @@ TERMINUS: UNMOVED MOVER = pure actuality (actus purus)
         moves as FINAL cause ("as the beloved moves the lover")
         thought thinking itself (noesis noeseos), Met. XII (L).7
         NOT an efficient creator; NOT a first event in time
+        |
+        v
+2026 COMPARISON: ARISTOTLE entelechy = act/realisation in a compound
+                 LEIBNIZ entelechy = immaterial monad itself
+                 CONTINUITY = intrinsic unity/activity
+                 BREAK = actuality -> substance; compounds -> phenomena
 ANSWER LINE: it explains becoming without predicting it - modesty, not failure
 ```
 
@@ -1864,6 +1974,34 @@ Close  : the contrast is not merely historical — it recurs in every
          realism/nominalism debate.
 ```
 
+**10-mark — 2026 Q1(d), Aristotle and Leibniz on entelechy**
+
+```text
+Frame  : shared rejection of passive substance; define the category shift.
+Arist. : entelecheia = actuality/realisation; first actuality of organic body;
+         form within a hylomorphic compound.
+Leibn. : entelechy = monad; simple, immaterial, windowless; perception and
+         appetition; pre-established harmony.
+Compare: intrinsic unity/activity shared; matter, body, interaction and
+         ontological category differ.
+Close  : Leibniz appropriates and substantialises Aristotle's notion.
+```
+
+**20-mark — 2026 Q2(a), fundamental metaphysics and the double rejection**
+
+```text
+Frame  : being qua being; many senses unified pros hen around substance.
+Problem: "what is substance?" must save individual reality, intelligible essence
+         and real change/generation.
+Positive: compound of matter + immanent form; essence/actuality; four causes;
+          potentiality -> actuality.
+Atomists: keep particulars, lose formal/final cause, unity and generation.
+Plato  : keep intelligible form, lose the particular through separation,
+         duplication, participation and causal impotence.
+Close  : one problem -> two failures -> one middle path, qualified by disputes
+         over teleology, prime matter and the status of immanent form.
+```
+
 #### 2. Text, translation and citation discipline
 
 | Item | Practice | Caution |
@@ -1901,10 +2039,12 @@ Close  : the contrast is not merely historical — it recurs in every
 | 10 | "Moves as the beloved moves the lover" | the Unmoved Mover as final cause |
 | 11 | "Ideas are timeless and spaceless" | 2025 Q1(a), direct |
 | 12 | "In the empirical world, everything is a compound of Matter and Form" | 2025 Q1(b), direct |
+| 13 | *entelecheia*: Aristotle = actuality; Leibniz = simple substance | 2026 Q1(d), direct comparison |
+| 14 | being qua being → *pros hen* → substance; one problem, two failures, four causes | 2026 Q2(a), direct architecture |
 
-#### 5. PYQ routing, 2018–2025
+#### 5. PYQ routing, 2018–2026
 
-⚠️ **Corpus signal:** twelve primary-owned question-parts out of 112 Western parts, with at least one part in **every** year from 2018 to 2025. Cross-links do not create duplicate ownership.
+⚠️ **Corpus signal:** fourteen primary-owned question-parts, with at least one part in **every** year from 2018 to 2026. Cross-links do not create duplicate ownership. The 2026 wording and marks were checked against the official paper OCR and the verified repository ledger.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -1920,11 +2060,13 @@ Close  : the contrast is not merely historical — it recurs in every
 | 2024 | Q1(a) | 10 | Differentiate between Plato’s and Aristotle’s conceptions of form. |
 | 2025 | Q1(a) | 10 | “Ideas are timeless and spaceless.” Elucidate this statement with reference to Plato. |
 | 2025 | Q1(b) | 10 | “In the empirical world, everything is a compound of Matter and Form.” Evaluate this statement with reference to Aristotle. |
+| 2026 | Q1(d) | 10 | Compare and contrast the notion of entelechy as presented in Aristotle’s and Leibniz’s philosophy. |
+| 2026 | Q2(a) | 20 | What, according to Aristotle, is the fundamental problem of metaphysics? Discuss this in relation with Aristotle’s account of the essence of the world, where he rejects the views of both the Atomists and Plato. |
 
 #### HOW TO WRITE THE PARAGRAPH — claim → named evidence → analysis → qualification
 
-> **Claim.** Directive fidelity is worth more in this item than additional content, because every one of the twelve routed questions has a distinctive structural demand.
-> **Named evidence.** 2019 Q1(a) asks what Plato wants to *prove*, not what happens in the cave; 2020 Q1(a) attaches "critically discuss" to two priorities and therefore requires an objection; 2024 Q1(a) says "differentiate", which is one axis; 2025 Q1(b) says "evaluate" and supplies the quantifier "everything", which is an invitation to find the boundary.
+> **Claim.** Directive fidelity is worth more in this item than additional content, because every one of the fourteen routed questions has a distinctive structural demand.
+> **Named evidence.** 2019 Q1(a) asks what Plato wants to *prove*, not what happens in the cave; 2020 Q1(a) attaches "critically discuss" to two priorities and therefore requires an objection; 2024 Q1(a) says "differentiate", which is one axis; 2025 Q1(b) says "evaluate" and supplies the quantifier "everything", which is an invitation to find the boundary; 2026 Q1(d) requires a matched comparison rather than two descriptions; and 2026 Q2(a) requires one governing problem, two rejections and one positive solution.
 > **Analysis.** In each case the doctrinal content required is already in the sessions above; what changes is the shape into which it must be poured, and the shape is dictated by a single word in the stem.
 > **Qualification.** Structure alone will not carry an answer: the shape must be filled with named evidence and edition-invariant citation, or directive fidelity becomes an empty scaffold.
 
@@ -1949,7 +2091,9 @@ Close  : the contrast is not merely historical — it recurs in every
 - 10 / 15 / 20 marks change the number of items, not the route.
 - Plato: Stephanus. Aristotle: Bekker. Give "Book VII (Z)" once in both conventions.
 - Testimony ledger: Third Man name, *ta metaxu*, *animal rationale*, Popper 1945.
-- Twelve routed PYQs, at least one in every year 2018–2025.
+- Fourteen routed PYQs, at least one in every year 2018–2026.
+- 2026 Q1(d): shared intrinsic activity, then actuality-versus-substance.
+- 2026 Q2(a): being qua being → substance → Atomists and Plato → hylomorphic middle path.
 - Never: "concepts in the mind" · "rejected forms" · "four agents" · one sense of "primary substance".
 
 #### CLOSING RECALL FLOW — ANSWER ARCHITECTURE
@@ -1981,11 +2125,11 @@ ANSWER LINE: marks are lost to shape more often than to ignorance
 
 ## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-> **Classification: OPTIONAL ADVANCED.** Everything below is enrichment. A competent, well-scoring answer to any of the twelve routed questions can be written from the Basic block alone. Use this section only after the core spine is secure, and only where a single evaluative clause will improve a 15- or 20-mark script. Nothing here is a prerequisite for understanding the core.
+> **Classification: OPTIONAL ADVANCED.** Everything below is enrichment. A competent, well-scoring answer to any of the fourteen routed questions can be written from the Basic block alone. Use this section only after the core spine is secure, and only where a single evaluative clause will improve a 15- or 20-mark script. Nothing here is a prerequisite for understanding the core.
 
 ### Prerequisite check before using this block
 
-- **Core prerequisite ✅:** finish the owner material first for **Ideas; Substance; Form and Matter; Causation; Actuality and Potentiality**; all twelve routed 2018–2025 PYQs; the standard Plato–Aristotle contrast; Plato's participation problem; Aristotle's standard critique; hylomorphism; the four causes.
+- **Core prerequisite ✅:** finish the owner material first for **Ideas; Substance; Form and Matter; Causation; Actuality and Potentiality**; all fourteen routed 2018–2026 PYQs; the standard Plato–Aristotle contrast; Plato's participation problem; Aristotle's standard critique; hylomorphism; the four causes; the fundamental-substance/double-rejection spine; and the Aristotle–Leibniz entelechy comparison.
 - **Firewall:** if a point is needed for a named syllabus term, a routed PYQ, a standard argument, objection, reply or comparison, or a safe 10/15/20-mark answer, it belongs in the Basic block — not here.
 
 ### A1. The Third Man after the stock regress ❓
@@ -1997,14 +2141,18 @@ ANSWER LINE: marks are lost to shape more often than to ignorance
 - **What not to over-study ⚠️:** do not spend answer-time reconstructing every premise of the *Parmenides*; the standard burden stays with Forms, participation and Aristotle's criticism.
 - **Promote to Core if:** a future PYQ directly asks whether the Third Man is decisive, or requires Plato's self-critique in the *Parmenides* as an answer-requirement.
 
-### A2. Aristotle on the focal meaning of being ❓
+### A2. Further depth on Aristotle's focal meaning of being ❓
 
-- **Issue:** how can there be one science of *being qua being* if "being" is said in many ways?
+- **Core already required by 2026 Q2(a):** *being qua being*, the many senses of being, focal
+  reference (*pros hen*) to substance, and the reduction of “what is being?” to “what is
+  substance?” are in Session 5. The material below concerns only interpretive refinement.
+- **Issue:** how exactly can there be one science of *being qua being* if "being" is said in many ways?
 - **Competing interpretations:** the *pros hen* or focal-meaning reading, on which all senses of being refer back to substance; a stronger ontological-primacy reading that treats substance as the real centre of metaphysics.
 - **Extra objection and counter-reply:** **Objection —** if being is not a genus, metaphysics loses its unity. **Counter-reply —** Aristotle's answer is precisely that unity need not be generic; analogical or focal reference to substance is enough.
 - **Safe 15/20-mark use ⚠️:** one sharpening sentence in an Aristotle-substance answer, especially after explaining why form has priority inside the compound.
 - **What not to over-study ⚠️:** do not get lost in book-order controversies of the *Metaphysics* or late scholastic subdivisions.
-- **Promote to Core if:** a future PYQ asks how Aristotle unifies metaphysics, or whether substance alone grounds the many senses of being.
+- **Core boundary:** use the focal-reference thesis in 2026 Q2(a); reserve disputes about whether
+  its unity is analogical or ontological for optional depth.
 
 ### A3. Individual form versus species form in Aristotle ❓
 
@@ -2113,9 +2261,15 @@ Plato, *Republic*, *Phaedo*, *Parmenides*, *Sophist*, *Timaeus*; Aristotle, *Met
 - Repair: **keep the *eidos*, delete the separation**. Form = immanent essence *(to ti ēn einai)*.
 - Retained: species and genus as **secondary substances**. Deleted: separate existence, priority of the universal.
 - Cost: *Metaphysics* VII (Z).13 denies substancehood to any universal.
+- 2026 double rejection: Atomists keep particulars but omit formal/final cause and substantial
+  unity; Plato keeps intelligible form but separates it. Aristotle's repair is the individual
+  hylomorphic substance explained through all four causes and potency–act.
 
 ### G. Substance network — two questions, four candidates
 
+- Fundamental problem: first philosophy studies **being qua being**; the many senses are unified
+  *pros hen* around substance, so “what is being?” becomes “what is substance?” (*Met.* IV.1,
+  VII.1).
 - *Categories* 2a11: primary = *tode ti*; secondary = species and genus; criterion = subject of predication.
 - *Metaphysics* Z: essence has priority in being, definition and knowledge.
 - Z.3 verdicts: substratum-as-matter **rejected**; essence **accepted**; universal **rejected** (Z.13); genus **rejected**.
@@ -2156,6 +2310,9 @@ Plato, *Republic*, *Phaedo*, *Parmenides*, *Sophist*, *Timaeus*; Aristotle, *Met
 - Priority of actuality: definition · time at species level · substance. Concede individual-level temporal precedence.
 - Form over matter is the same priority stated structurally. Never temporal earliness.
 - Unmoved Mover: pure actuality; final cause, "moves as the beloved moves the lover"; thought thinking itself *(noēsis noēseōs)*; *Metaphysics* XII (Λ).7. Not an efficient creator.
+- 2026 entelechy: Aristotle = actuality/realisation, including soul as first actuality of an
+  organic body; Leibniz = immaterial simple substance or monad. Shared intrinsic activity,
+  decisive category shift from **act within a compound** to **the substance itself**.
 
 ### K. Comparison matrix and criticism ledger
 
@@ -2179,12 +2336,14 @@ Plato, *Republic*, *Phaedo*, *Parmenides*, *Sophist*, *Timaeus*; Aristotle, *Met
 
 - Route: directive → definition → argument → example → objection → reply → graded verdict. 10m 1+2+1+1 · 15m 1+3+2+2 · 20m 1+4+3+3.
 - Directives: elucidate = derive · Cave = map + return · differentiate = one axis · examine = arguments + replies · four causes = one example · actuality = solve Parmenides · substance = two questions + two readings · critically evaluate = ruling in line 1.
+- 2026 directives: compare/contrast entelechy = shared concern + matched axes + category-shift
+  verdict; fundamental metaphysics = one problem → two rival failures → one positive solution.
 - Citation: Plato by **Stephanus**; Aristotle by **Bekker**; give "Book VII (Z)" once in both conventions; prefer the reference to a remembered quotation.
 - Testimony ledger: "Third Man" name; *ta metaxu*; *animal rationale*; Popper 1945.
 - **Never write:** Plato denies the physical world · Forms are concepts in the mind · Aristotle rejected forms · formal cause = Platonic Form · the Unmoved Mover is an efficient cause · potentiality means probability · four causes are four agents or events · "primary substance" means one thing in both works · "the form persists" in substantial change · the Good = the Demiurge.
 - **Ownership boundary:** Plato's tripartite soul, justice, philosopher-ruler, curriculum and critique of democracy, and Aristotle's soul-faculties, virtue, voluntary action, constitutions and logic, are cross-links. Three exceptions are licensed: the soul's capacity for *noēsis* and recollection; education as conversion and the return; the soul as the form of the living body.
 
-### Twelve-part PYQ recall rail
+### Fourteen-part PYQ recall rail
 
 | Year · Q | Marks | Route in one line |
 |---|---:|---|
@@ -2200,6 +2359,8 @@ Plato, *Republic*, *Phaedo*, *Parmenides*, *Sophist*, *Timaeus*; Aristotle, *Met
 | 2024 Q1(a) | 10 | one axis: separated paradigm versus immanent essence |
 | 2025 Q1(a) | 10 | derive spacelessness and timelessness, then the epistemic payoff |
 | 2025 Q1(b) | 10 | hylomorphism plus the three exclusions |
+| 2026 Q1(d) | 10 | intrinsic activity shared; Aristotle's actuality versus Leibniz's simple substance |
+| 2026 Q2(a) | 20 | being qua being → substance → Atomist/Plato double rejection → immanent-form solution |
 
 ### Memory chain — say it in ten seconds
 
@@ -2208,7 +2369,7 @@ ONE QUESTION -> FORMS (separate) -> PARTICIPATION (unanalysed)
 -> ARISTOTLE'S FIVE OBJECTIONS -> IMMANENT ESSENCE
 -> SUBSTANCE (two questions) -> MATTER + FORM + PRIVATION
 -> FOUR CAUSES (directedness) -> POTENCY -> ACT -> PURE ACT
+-> ENTELECHY: ARISTOTLE'S ACT vs LEIBNIZ'S MONAD
+-> FUNDAMENTAL METAPHYSICS: SUBSTANCE -> ATOMISTS + PLATO -> IMMANENT FORM
 -> COMPARISON -> THE PROBLEM OF UNIVERSALS
 ```
-
-

@@ -749,6 +749,11 @@ format.
   into shallow generic summaries.
 - Preserve complete revision material, hard MCQs, separate solutions, coverage ledgers,
   learner-specific practice logs, answer-writing toolkits, and offline PDFs.
+- **Latest-paper rule:** include every verified available PYQ through the latest repository year;
+  never hard-code a stopping year. Verify wording and marks from the official scan/OCR or an
+  explicitly verified repository ledger, assign one primary owner with cross-links where needed,
+  and never fabricate unavailable questions. Verified 2026 Philosophy papers are currently
+  available in the repository.
 - Commit and push each validated subject or coherent milestone to the isolated feature branch.
   Do not modify or merge into another branch without explicit user instruction.
 - **Concurrent-session isolation:** every simultaneously active terminal or agent session must use

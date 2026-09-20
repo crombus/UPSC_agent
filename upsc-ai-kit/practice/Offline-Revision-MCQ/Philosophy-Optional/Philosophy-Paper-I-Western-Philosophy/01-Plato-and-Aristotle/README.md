@@ -4,6 +4,8 @@
 **Section:** Philosophy Paper I — Western Philosophy  
 **Status:** Pilot generated and validated locally
 
+Verified directly owned UPSC Philosophy Paper I PYQs are included through **2026**.
+
 ## Use in order
 
 1. [Revision Guide](REVISION-GUIDE.md)

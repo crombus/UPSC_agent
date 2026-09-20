@@ -31,18 +31,28 @@ It must remain usable from the repository alone in Markdown and PDF form.
    2. Final solved-practice workbook.
    3. Existing quick-glance, flowchart, and graphical revision material.
    4. Verified PYQs and current-affairs material where relevant.
-6. No skipping:
+6. **Latest-paper rule (locked):**
+   - Include every verified available PYQ through the latest year present in the repository;
+     the current latest repository year is **2026**.
+   - Never hard-code a stopping year. Recheck the repository's verified PYQ sources whenever a
+     topic is generated, repaired, or validated.
+   - Verify exact wording and marks against an official paper scan/OCR export or an explicitly
+     verified repository ledger.
+   - Assign each question-part to exactly one primary topic and add cross-links for genuinely
+     shared demands; cross-links must not inflate ownership counts.
+   - Do not invent, reconstruct, or imply questions that are not available in verified evidence.
+7. No skipping:
    - Cover every canonical topic and every substantive subtopic in the selected subject.
    - Cover definitions, classifications, mechanisms, chronology, institutions, laws, exceptions,
      comparisons, criticisms, examples, current linkages, PYQ demands, and application.
-7. No compression:
+8. No compression:
    - Do not replace complete teaching or revision material with a generic short summary.
    - Preserve all substantive reasoning, distinctions, examples, diagrams, flow logic, traps,
      qualifications, and answer-writing value.
    - Remove only true duplication, chat noise, tool output, and navigation prompts.
-8. Do not overwrite existing learner history. Generation must be deterministic and resumable.
-9. Validate each pilot topic before generating the full subject.
-10. Commit and push each validated subject or other coherent milestone to the isolated branch.
+9. Do not overwrite existing learner history. Generation must be deterministic and resumable.
+10. Validate each pilot topic before generating the full subject.
+11. Commit and push each validated subject or other coherent milestone to the isolated branch.
     Keep every push comfortably below GitHub's 2-GiB limit.
 
 ## Directory architecture

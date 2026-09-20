@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topic": "01 Plato and Aristotle",
-  "validated_at": "2026-09-20T06:42:24.987+05:30",
+  "validated_at": "2026-09-20T07:12:01+05:30",
   "result": "pass",
   "pdf_generation": {
     "mechanism": "tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
@@ -110,14 +110,15 @@
       "examiner_traps": 32
     },
     "markdown_links": {
-      "checked": 17,
+      "checked": 13,
       "broken": []
     },
     "pdfs": {
       "Revision-Guide.pdf": {
-        "bytes": 1592916,
-        "pages": 65,
-        "blank_pages": []
+        "bytes": 1656835,
+        "pages": 70,
+        "blank_pages": [],
+        "required_2026_text_present": true
       },
       "MCQ-Questions.pdf": {
         "bytes": 215611,
@@ -130,15 +131,51 @@
         "blank_pages": []
       },
       "Answer-Writing-Toolkit.pdf": {
-        "bytes": 628779,
-        "pages": 26,
-        "blank_pages": []
+        "bytes": 693353,
+        "pages": 29,
+        "blank_pages": [],
+        "required_2026_text_present": true
       }
     },
     "temporary_files": [],
     "git_diff_check": {
       "exit_code": 0,
       "output": ""
+    },
+    "verified_pyqs": {
+      "coverage_years": "2018-2026",
+      "directly_owned_count": 14,
+      "distinct_question_parts": 14,
+      "toolkit_has_14_distinct_parts": true,
+      "official_scan": {
+        "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\books\\mains\\2026\\QP-CSM-26-010926-Optional-PHILOSOPHY-PAPER_I.pdf",
+        "exists": true,
+        "bytes": 2644864
+      },
+      "ocr_export": {
+        "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\knowledge-export\\Mains PYQ\\QP-CSM-26-010926-Optional-PHILOSOPHY-PAPER_I.pdf.md",
+        "exists": true,
+        "q1d_exact_wording": true,
+        "q2a_exact_wording": true
+      },
+      "verified_repository_ledger": {
+        "path": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2026.md",
+        "q1d_present": true,
+        "q2a_present": true
+      },
+      "canonical_owner": {
+        "path": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Plato-Aristotle.md",
+        "section_2A_present": true,
+        "section_6_6_present": true
+      },
+      "pilot_files": {
+        "toolkit_q1d": true,
+        "toolkit_q2a": true,
+        "revision_q1d": true,
+        "revision_q2a": true,
+        "ledger_q1d": true,
+        "ledger_q2a": true
+      }
     }
   }
 }
