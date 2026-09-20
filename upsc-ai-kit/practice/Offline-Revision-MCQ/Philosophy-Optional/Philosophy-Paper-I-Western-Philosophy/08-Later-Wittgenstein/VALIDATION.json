@@ -1,0 +1,1322 @@
+{
+  "schema_version": 8,
+  "topic": "08 Later Wittgenstein",
+  "validated_at": "2026-09-20T15:38:08+05:30",
+  "result": "PASS",
+  "result_gate": "PASS only when every recorded check passes",
+  "pdf_generation": {
+    "mechanism": "C:/up/tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
+    "requested": true,
+    "started_at": "2026-09-20T15:37:07.165404+05:30",
+    "files": {
+      "Revision-Guide.pdf": {
+        "source": "REVISION-GUIDE.md",
+        "exists_after_generation": true,
+        "bytes": 1395560,
+        "modified_at": "2026-09-20T15:37:43.351013+05:30",
+        "sha256": "c18f1a32f050741ddcb34c85b601f9af8580482d83812c82bd06516c45750821"
+      },
+      "MCQ-Questions.pdf": {
+        "source": "MCQ-QUESTIONS.md",
+        "exists_after_generation": true,
+        "bytes": 161045,
+        "modified_at": "2026-09-20T15:37:48.535290+05:30",
+        "sha256": "df183b0ff1336d41aa548c86438753b7dcb376df0e6e8a2166b0df2befb774a9"
+      },
+      "MCQ-Solutions.pdf": {
+        "source": "MCQ-SOLUTIONS.md",
+        "exists_after_generation": true,
+        "bytes": 476963,
+        "modified_at": "2026-09-20T15:37:56.644184+05:30",
+        "sha256": "90e519ab355a4fbb1a941878ed6716ec912afbeae1a0d70dfd4312a5d56288d8"
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "exists_after_generation": true,
+        "bytes": 249913,
+        "modified_at": "2026-09-20T15:38:01.760377+05:30",
+        "sha256": "f3ff970759d1c0dc0c1198ae57271295123ca80b7a43ff03950906d7f55214cd"
+      }
+    },
+    "all_four_regenerated": true,
+    "readme_claims_four_pdf_regeneration": true,
+    "readme_consistent": true
+  },
+  "checks": {
+    "required_files": {
+      "README.md": true,
+      "REVISION-GUIDE.md": true,
+      "MCQ-QUESTIONS.md": true,
+      "MCQ-SOLUTIONS.md": true,
+      "COVERAGE-LEDGER.md": true,
+      "PRACTICE-LOG.md": true,
+      "ANSWER-WRITING-TOOLKIT.md": true,
+      "validate_package.py": true,
+      "pdf/Revision-Guide.pdf": true,
+      "pdf/MCQ-Questions.pdf": true,
+      "pdf/MCQ-Solutions.pdf": true,
+      "pdf/Answer-Writing-Toolkit.pdf": true
+    },
+    "mcq_numbering": {
+      "question_count": 51,
+      "solution_count": 51,
+      "exact_match": true,
+      "all_questions_have_four_options": true,
+      "question_solution_prompts_match": true,
+      "pass": true
+    },
+    "question_leakage": {
+      "**Answer:": false,
+      "Option explanations:": false,
+      "Examiner trap": false,
+      "Repair action:": false,
+      "Coverage mapping:": false,
+      "PYQ linkage:": false,
+      "Correct answer:": false
+    },
+    "cross_file_answer_leakage": {
+      "REVISION-GUIDE.md": {
+        "matches": [],
+        "pass": true
+      },
+      "ANSWER-WRITING-TOOLKIT.md": {
+        "matches": [],
+        "pass": true
+      }
+    },
+    "revision_guide_separation": {
+      "solved_mcq_headings": 0,
+      "correct_answer_markers": 0,
+      "option_explanation_markers": 0,
+      "pass": true
+    },
+    "neutral_titles": {
+      "questions_all_exactly_mcq_number": true,
+      "revealing_title_count": 0
+    },
+    "option_formatting_cues": {
+      "metric": "Unicode character count of each visible option",
+      "correct_is_longest_count": 18,
+      "correct_is_longest_rate_percent": 35.29,
+      "uniquely_longest_correct_count": 15,
+      "uniquely_longest_rate_percent": 29.41,
+      "correct_mean_characters": 117.02,
+      "distractor_mean_characters": 114.222,
+      "comparability_threshold": "max-minus-min <= 70 and max/min <= 2.10",
+      "comparability_outliers": [],
+      "padding_matches": [],
+      "grammatically_incomplete_options": [],
+      "punctuation": {
+        "correct_period_count": 51,
+        "correct_period_rate_percent": 100.0,
+        "distractor_period_count": 153,
+        "distractor_period_rate_percent": 100.0,
+        "absolute_rate_gap_percent": 0.0
+      },
+      "token_and_punctuation_correlation": {
+        "population": {
+          "correct_options": 51,
+          "distractor_options": 153
+        },
+        "thresholds": {
+          "low_frequency_definition": "2-12 total option occurrences",
+          "exclusive_correct_rule": "fail when a feature occurs in at least two correct options and zero distractors",
+          "exclusive_distractor_rule": "fail when a feature occurs in at least two distractors and zero correct options",
+          "low_frequency_rule": "fail when more than 50% of 2-12 occurrences are in correct options",
+          "common_feature_rule": "for more than 12 occurrences, fail when correct-option rate exceeds 2x distractor-option rate by at least 5 percentage points",
+          "common_distractor_rule": "for more than 12 occurrences, fail when distractor-option rate exceeds 4x correct-option rate by at least 20 percentage points",
+          "within_question_rule": "fail when the correct option alone carries a listed marker",
+          "all_distractors_rule": "fail when all three distractors and not the correct option carry a listed marker"
+        },
+        "features": {
+          "semicolon": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "colon": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "em_or_en_dash": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "parentheses": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "but": {
+            "correct_count": 2,
+            "distractor_count": 7,
+            "correct_option_rate_percent": 3.92,
+            "distractor_option_rate_percent": 4.58,
+            "correct_share_of_occurrences_percent": 22.22,
+            "correct_to_distractor_option_rate_ratio": 0.8571428571428572,
+            "correct_locations": [
+              "4B",
+              "10D"
+            ],
+            "distractor_locations": [
+              "4A",
+              "6B",
+              "10A",
+              "29B",
+              "31D",
+              "35A",
+              "43D"
+            ],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "however": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "whereas": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "although": {
+            "correct_count": 2,
+            "distractor_count": 5,
+            "correct_option_rate_percent": 3.92,
+            "distractor_option_rate_percent": 3.27,
+            "correct_share_of_occurrences_percent": 28.57,
+            "correct_to_distractor_option_rate_ratio": 1.2,
+            "correct_locations": [
+              "8B",
+              "17D"
+            ],
+            "distractor_locations": [
+              "8C",
+              "17B",
+              "29C",
+              "32D",
+              "38C"
+            ],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "yet": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "though": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "despite": {
+            "correct_count": 1,
+            "distractor_count": 2,
+            "correct_option_rate_percent": 1.96,
+            "distractor_option_rate_percent": 1.31,
+            "correct_share_of_occurrences_percent": 33.33,
+            "correct_to_distractor_option_rate_ratio": 1.5,
+            "correct_locations": [
+              "30C"
+            ],
+            "distractor_locations": [
+              "14C",
+              "30A"
+            ],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "absolutist_quantifier": {
+            "correct_count": 5,
+            "distractor_count": 60,
+            "correct_option_rate_percent": 9.8,
+            "distractor_option_rate_percent": 39.22,
+            "correct_share_of_occurrences_percent": 7.69,
+            "correct_to_distractor_option_rate_ratio": 0.25,
+            "correct_locations": [
+              "6C",
+              "7D",
+              "11A",
+              "13C",
+              "31B"
+            ],
+            "distractor_locations": [
+              "1A",
+              "2B",
+              "5A",
+              "6A",
+              "6B",
+              "6D",
+              "7A",
+              "7B",
+              "7C",
+              "9D",
+              "11C",
+              "11D",
+              "12D",
+              "13A",
+              "13B",
+              "13D",
+              "14C",
+              "14D",
+              "15A",
+              "16D",
+              "18A",
+              "18B",
+              "20D",
+              "21C",
+              "21D",
+              "22B",
+              "22C",
+              "23C",
+              "24B",
+              "25C",
+              "26B",
+              "26D",
+              "27D",
+              "28B",
+              "31A",
+              "32A",
+              "33A",
+              "33D",
+              "35D",
+              "36B",
+              "37A",
+              "37B",
+              "38B",
+              "38C",
+              "39A",
+              "39C",
+              "40D",
+              "41B",
+              "41C",
+              "44A",
+              "44C",
+              "45D",
+              "46C",
+              "47B",
+              "48B",
+              "48C",
+              "49B",
+              "49D",
+              "50C",
+              "51A"
+            ],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          }
+        },
+        "unique_marker_only_on_correct_option": [],
+        "marker_on_all_distractors_not_correct": [],
+        "failed_features": [],
+        "pass": true
+      },
+      "repeated_templates": {
+        "suffix_frequency_correct_vs_distractor": {},
+        "prefix_template_frequency_correct_vs_distractor": {},
+        "pass": true
+      },
+      "only_correct_lacks_repeated_or_padded_template": [],
+      "pass": true
+    },
+    "answer_pattern": {
+      "distribution": {
+        "B": 13,
+        "C": 13,
+        "A": 13,
+        "D": 12
+      },
+      "maximum_consecutive_same_answer": 2,
+      "mechanical_abcd_rotation": false,
+      "key": "BCABBCDBBDACCADADDACBABCACCDACBBCACADABBDBCDADCDADB",
+      "pass": true
+    },
+    "solutions_complete": {
+      "**Answer:": 51,
+      "**Option explanations:**": 51,
+      "**Examiner trap": 51,
+      "**Repair action:**": 51,
+      "**Coverage mapping:**": 51,
+      "**PYQ linkage:**": 51,
+      "expected_each": 51,
+      "pass": true
+    },
+    "specific_distractor_explanations": {
+      "checked": 204,
+      "incorrect_options_checked": 153,
+      "requirements": [
+        "name the false proposition exactly",
+        "state the correct replacement exactly",
+        "include a substantive doctrinal rationale",
+        "exclude listed generic-verdict patterns"
+      ],
+      "failures": [],
+      "pass": true
+    },
+    "deduplication": {
+      "exact_duplicate_stems_absent": true,
+      "highest_stem_similarity": 0.686,
+      "highest_similarity_pair": [
+        35,
+        36
+      ],
+      "substantive_similarity_flags": [],
+      "final_count": 51,
+      "pass": true
+    },
+    "source_lineage": {
+      "source_files_read": {
+        "g5_session": {
+          "path": "knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g5\\topic-08_Complete-Learning-Session_2026-09-02.md",
+          "bytes": 281834,
+          "sha256": "b2b2d38b821f053f49356a9a8cde13a93b1ffd2a4c72fd877b49417b39130120"
+        },
+        "g5_workbook": {
+          "path": "knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-08\\g5\\topic-08_Solved-Practice-Workbook_2026-09-02.md",
+          "bytes": 124985,
+          "sha256": "146ffe3d104444b5325832707b8a94f5ee93cfb3f8509dd7b3710d29d45b4613"
+        },
+        "canonical": {
+          "path": "knowledge\\Philosophy\\paper-1\\western\\Later-Wittgenstein.md",
+          "bytes": 62596,
+          "sha256": "65f397304595999ae00595efee3804c993086eeadbc8548cf8be55801494b845"
+        }
+      },
+      "source_cell_inventory": {
+        "S01": {
+          "coverage_cells": [
+            "C01"
+          ],
+          "anchors": {
+            "g5_session": "### SESSION 1 —",
+            "g5_workbook": "### RAPID REVISION 1 —",
+            "canonical": "## 1. THE BREAK FROM THE"
+          },
+          "anchored_source_characters": {
+            "g5_session": 11006,
+            "g5_workbook": 1010,
+            "canonical": 2135
+          },
+          "witnesses": {
+            "colour-exclusion": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "Augustinian": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "therapy": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S02": {
+          "coverage_cells": [
+            "C02"
+          ],
+          "anchors": {
+            "g5_session": "### SESSION 2 —",
+            "g5_workbook": "### RAPID REVISION 2 —",
+            "canonical": "## 2. MEANING AND USE"
+          },
+          "anchored_source_characters": {
+            "g5_session": 7753,
+            "g5_workbook": 766,
+            "canonical": 3762
+          },
+          "witnesses": {
+            "large class of cases": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "toolbox": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "technique": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S03": {
+          "coverage_cells": [
+            "C02",
+            "C03"
+          ],
+          "anchors": {
+            "g5_session": "### SESSION 3 —",
+            "g5_workbook": "### RAPID REVISION 3 —",
+            "canonical": "### 2.2 Family Resemblance"
+          },
+          "anchored_source_characters": {
+            "g5_session": 7874,
+            "g5_workbook": 823,
+            "canonical": 972
+          },
+          "witnesses": {
+            "ostensive": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "overlapping": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "look": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S04": {
+          "coverage_cells": [
+            "C04"
+          ],
+          "anchors": {
+            "g5_session": "### SESSION 4 —",
+            "g5_workbook": "### RAPID REVISION 4 —",
+            "canonical": "## 3. LANGUAGE-GAMES"
+          },
+          "anchored_source_characters": {
+            "g5_session": 7784,
+            "g5_workbook": 822,
+            "canonical": 3060
+          },
+          "witnesses": {
+            "builders": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "training": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "language-game": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S05": {
+          "coverage_cells": [
+            "C05"
+          ],
+          "anchors": {
+            "g5_session": "### SESSION 5 —",
+            "g5_workbook": "### RAPID REVISION 5 —",
+            "canonical": "### 3.4 Form of life"
+          },
+          "anchored_source_characters": {
+            "g5_session": 7106,
+            "g5_workbook": 804,
+            "canonical": 936
+          },
+          "witnesses": {
+            "form of life": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "lion": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "simply what I do": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S06": {
+          "coverage_cells": [
+            "C06"
+          ],
+          "anchors": {
+            "g5_session": "### SESSION 6 —",
+            "g5_workbook": "### RAPID REVISION 6 —",
+            "canonical": "## 4. RULE-FOLLOWING"
+          },
+          "anchored_source_characters": {
+            "g5_session": 8596,
+            "g5_workbook": 976,
+            "canonical": 1585
+          },
+          "witnesses": {
+            "no course of action": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "interpretation": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "practice": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S07": {
+          "coverage_cells": [
+            "C07"
+          ],
+          "anchors": {
+            "g5_session": "### SESSION 7 —",
+            "g5_workbook": "### RAPID REVISION 7 —",
+            "canonical": "## 5. THE CRITIQUE OF PRIVATE LANGUAGE"
+          },
+          "anchored_source_characters": {
+            "g5_session": 12866,
+            "g5_workbook": 1016,
+            "canonical": 11226
+          },
+          "witnesses": {
+            "logically private": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "diary": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "beetle": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S08": {
+          "coverage_cells": [
+            "C08"
+          ],
+          "anchors": {
+            "g5_session": "### SESSION 8 —",
+            "g5_workbook": "### RAPID REVISION 8 —",
+            "canonical": "### 5.7 CRITERIA vs SYMPTOMS"
+          },
+          "anchored_source_characters": {
+            "g5_session": 14512,
+            "g5_workbook": 1029,
+            "canonical": 2552
+          },
+          "witnesses": {
+            "criterion": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "symptom": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "avowal": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S09": {
+          "coverage_cells": [
+            "C09"
+          ],
+          "anchors": {
+            "g5_session": "### SESSION 9 —",
+            "g5_workbook": "### RAPID REVISION 9 —",
+            "canonical": "## 5A. PHILOSOPHY AS THERAPY"
+          },
+          "anchored_source_characters": {
+            "g5_session": 12887,
+            "g5_workbook": 1073,
+            "canonical": 3685
+          },
+          "witnesses": {
+            "language goes on holiday": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "perspicuous": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "fly-bottle": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S10": {
+          "coverage_cells": [
+            "C10"
+          ],
+          "anchors": {
+            "g5_session": "### ADVANCED SESSION 10 —",
+            "g5_workbook": "### RAPID REVISION 10 —",
+            "canonical": "## 5B. OPTIONAL ENRICHMENT: ASPECT-SEEING"
+          },
+          "anchored_source_characters": {
+            "g5_session": 2415,
+            "g5_workbook": 29362,
+            "canonical": 2558
+          },
+          "witnesses": {
+            "duck-rabbit": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "aspect-blindness": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "Jastrow": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        }
+      },
+      "source_cell_count": 10,
+      "source_inventory_failures": [],
+      "lineage_mapping_count": 51,
+      "lineage_counts": {
+        "adapted": 38,
+        "new": 13
+      },
+      "source_candidate_count": 56,
+      "mapped_unique_source_candidates": 38,
+      "unmapped_source_candidates": [
+        3,
+        4,
+        10,
+        32,
+        33,
+        37,
+        39,
+        40,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        51,
+        52,
+        54,
+        55
+      ],
+      "unmapped_source_candidate_count": 18,
+      "retained_exact_stems": [],
+      "mechanical_limitations": "This gate verifies file identity, source anchors, term witnesses, matrix ranges and declared candidate links. It does not prove semantic completeness or the philosophical correctness of each adaptation.",
+      "pass": true,
+      "complete_mapping": true,
+      "unique_mapping_rows": true,
+      "inventory_covers_matrix_cells": true,
+      "unique_adapted_candidate_links": true,
+      "mapping_failures": []
+    },
+    "rapid_revision_practice_links": {
+      "expected_from_coverage_matrix": {
+        "1": [
+          1,
+          5
+        ],
+        "2": [
+          6,
+          10
+        ],
+        "3": [
+          11,
+          14
+        ],
+        "4": [
+          15,
+          19
+        ],
+        "5": [
+          20,
+          24
+        ],
+        "6": [
+          25,
+          30
+        ],
+        "7": [
+          31,
+          38
+        ],
+        "8": [
+          39,
+          43
+        ],
+        "9": [
+          44,
+          47
+        ],
+        "10": [
+          48,
+          51
+        ]
+      },
+      "actual_from_revision_guide": {
+        "1": [
+          1,
+          5
+        ],
+        "2": [
+          6,
+          10
+        ],
+        "3": [
+          11,
+          14
+        ],
+        "4": [
+          15,
+          19
+        ],
+        "5": [
+          20,
+          24
+        ],
+        "6": [
+          25,
+          30
+        ],
+        "7": [
+          31,
+          38
+        ],
+        "8": [
+          39,
+          43
+        ],
+        "9": [
+          44,
+          47
+        ],
+        "10": [
+          48,
+          51
+        ]
+      },
+      "pass": true
+    },
+    "verified_pyqs": {
+      "directly_owned_count": 8,
+      "parts": [
+        [
+          "2018",
+          "Q1(c)",
+          10
+        ],
+        [
+          "2019",
+          "Q3(b)",
+          15
+        ],
+        [
+          "2020",
+          "Q4(c)",
+          15
+        ],
+        [
+          "2022",
+          "Q1(c)",
+          10
+        ],
+        [
+          "2023",
+          "Q4(c)",
+          15
+        ],
+        [
+          "2024",
+          "Q1(d)",
+          10
+        ],
+        [
+          "2025",
+          "Q3(a)",
+          20
+        ],
+        [
+          "2026",
+          "Q3(c)",
+          15
+        ]
+      ],
+      "component_checks": {
+        "2018 Q1(c)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 152,
+          "stated_words": 152,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2019 Q3(b)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 263,
+          "stated_words": 263,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2020 Q4(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 257,
+          "stated_words": 257,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2022 Q1(c)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 185,
+          "stated_words": 185,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2023 Q4(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 251,
+          "stated_words": 251,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2024 Q1(d)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 182,
+          "stated_words": 182,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2025 Q3(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured_words": 343,
+          "stated_words": 343,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2026 Q3(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 250,
+          "stated_words": 250,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        }
+      },
+      "all_exact_and_complete": true
+    },
+    "original_solved_practice": {
+      "question_count": 3,
+      "solutions": {
+        "## Original 1 · 10 marks": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 173,
+          "stated_words": 173,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "why_it_earns_marks": true
+        },
+        "## Original 2 · 15 marks": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 261,
+          "stated_words": 261,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "why_it_earns_marks": true
+        },
+        "## Original 3 · 20 marks": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured_words": 343,
+          "stated_words": 343,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "why_it_earns_marks": true
+        }
+      },
+      "all_complete": true
+    },
+    "portable_provenance": {
+      "ledger_files_exist": true,
+      "learner_practice_not_official_keys": true
+    },
+    "pass": true,
+    "revision_front_matter_provenance": {
+      "required_accuracy_statement": true,
+      "forbidden_claims": [],
+      "pass": true
+    },
+    "current_affairs_nonfabrication": true,
+    "markdown_links": {
+      "checked": 9,
+      "broken": [],
+      "pass": true
+    },
+    "pdfs": {
+      "Revision-Guide.pdf": {
+        "bytes": 1395560,
+        "pages": 83,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "raw_markdown_artifacts": [],
+        "pass": true
+      },
+      "MCQ-Questions.pdf": {
+        "bytes": 161045,
+        "pages": 14,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "raw_markdown_artifacts": [],
+        "pass": true
+      },
+      "MCQ-Solutions.pdf": {
+        "bytes": 476963,
+        "pages": 39,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "raw_markdown_artifacts": [],
+        "pass": true
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "bytes": 249913,
+        "pages": 16,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "raw_markdown_artifacts": [],
+        "pass": true
+      }
+    },
+    "practice_log_blank_template": true,
+    "temporary_files_left": [],
+    "text_and_diff_integrity": {
+      "mechanism": "Stage-independent UTF-8 and trailing-whitespace audit of every package .md/.py/.json file, plus git diff --check for tracked INDEX.md and STATUS.json.",
+      "package_text_files_inspected": [
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\08-Later-Wittgenstein\\ANSWER-WRITING-TOOLKIT.md",
+          "bytes": 34505,
+          "lines": 448,
+          "sha256": "b2b8be3443ae44452140d2e2ddfd41e98e9510a94f3d7595981b4ec3d2910b72"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\08-Later-Wittgenstein\\COVERAGE-LEDGER.md",
+          "bytes": 10001,
+          "lines": 147,
+          "sha256": "9a1cff714651b59fd978badb2e175e674a879c4c11fe1d283f84813e45e892b2"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\08-Later-Wittgenstein\\MCQ-QUESTIONS.md",
+          "bytes": 29832,
+          "lines": 463,
+          "sha256": "dfa9a337b23edca0789068be330796836cebb301cff226321cdcde2505d3e149"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\08-Later-Wittgenstein\\MCQ-SOLUTIONS.md",
+          "bytes": 119187,
+          "lines": 1278,
+          "sha256": "bff9e7e751c8098565ecc41208ca50f9af4f0d98af2a497ac36123f94161d00f"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\08-Later-Wittgenstein\\PRACTICE-LOG.md",
+          "bytes": 1447,
+          "lines": 32,
+          "sha256": "35545c85452fb32af473892f2c4081f47b92c04bd52bc1553d45ff3300073a18"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\08-Later-Wittgenstein\\README.md",
+          "bytes": 1134,
+          "lines": 23,
+          "sha256": "868205891c419ad173146e46d7b998d08b19d4abfc3eec791019dff8cf77c465"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\08-Later-Wittgenstein\\REVISION-GUIDE.md",
+          "bytes": 196724,
+          "lines": 2569,
+          "sha256": "47168f23a49dfd7083020bbd32ffa3c525779cdc8d8a15184b05ee2d1f6d58cb"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\08-Later-Wittgenstein\\validate_package.py",
+          "bytes": 56755,
+          "lines": 1407,
+          "sha256": "f4315f55c1c882a12efc51cf681fbe075e89beacfd287751fb61e512401a62a6"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\08-Later-Wittgenstein\\VALIDATION.json",
+          "bytes": 42025,
+          "lines": 1294,
+          "sha256": "ad74cda1611bbd6e9cd47f4d85eb82d32af6aeeafae5b28cbc0d3dba79f6dc06"
+        }
+      ],
+      "package_text_file_count": 9,
+      "untracked_package_files_reported_by_git": [
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/08-Later-Wittgenstein/ANSWER-WRITING-TOOLKIT.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/08-Later-Wittgenstein/COVERAGE-LEDGER.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/08-Later-Wittgenstein/MCQ-QUESTIONS.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/08-Later-Wittgenstein/MCQ-SOLUTIONS.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/08-Later-Wittgenstein/PRACTICE-LOG.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/08-Later-Wittgenstein/README.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/08-Later-Wittgenstein/REVISION-GUIDE.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/08-Later-Wittgenstein/VALIDATION.json",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/08-Later-Wittgenstein/validate_package.py"
+      ],
+      "tracked_index_status_diff_check": {
+        "exit_code": 0,
+        "output": ""
+      },
+      "failures": [],
+      "pass": true
+    },
+    "git_status_awareness": {
+      "short_status": [
+        " M practice/Offline-Revision-MCQ/INDEX.md",
+        " M practice/Offline-Revision-MCQ/STATUS.json",
+        "?? practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/08-Later-Wittgenstein/"
+      ],
+      "topic_package_is_untracked": true
+    },
+    "status_expectations": {
+      "topic_08_validated": true,
+      "next_topic": true
+    },
+    "index_expectations": {
+      "topic_08_listed": true,
+      "next_topic": true
+    }
+  },
+  "failures": []
+}
