@@ -1,0 +1,1704 @@
+{
+  "schema_version": 11,
+  "topic": "09 Phenomenology (Husserl)",
+  "validated_at": "2026-09-20T16:52:02+05:30",
+  "result": "PASS",
+  "result_gate": "PASS only when every recorded check passes",
+  "pdf_generation": {
+    "mechanism": "C:/up/tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
+    "requested": true,
+    "started_at": "2026-09-20T16:50:55.330715+05:30",
+    "files": {
+      "Revision-Guide.pdf": {
+        "source": "REVISION-GUIDE.md",
+        "exists_after_generation": true,
+        "bytes": 1371207,
+        "modified_at": "2026-09-20T16:51:25.743728+05:30",
+        "sha256": "61c611a1fc91d1588d5b382958478583b16221b8367d8d79cc0dd99d2bedbd2c"
+      },
+      "MCQ-Questions.pdf": {
+        "source": "MCQ-QUESTIONS.md",
+        "exists_after_generation": true,
+        "bytes": 159420,
+        "modified_at": "2026-09-20T16:51:30.834805+05:30",
+        "sha256": "cb562e0b69e95789b3f152998438ef07adb5aea995728386d746350d3f3ff05a"
+      },
+      "MCQ-Solutions.pdf": {
+        "source": "MCQ-SOLUTIONS.md",
+        "exists_after_generation": true,
+        "bytes": 484498,
+        "modified_at": "2026-09-20T16:51:39.027669+05:30",
+        "sha256": "600e2facc6c77b0c8e21667a5ab32d86f543c2e23fa7bd30d37396209283f426"
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "exists_after_generation": true,
+        "bytes": 264293,
+        "modified_at": "2026-09-20T16:51:44.736502+05:30",
+        "sha256": "ddbf832beae1a06dc1a8fb3a69b6cc9c56c775c36fa0b71857989b5d55a04f2c"
+      }
+    },
+    "all_four_regenerated": true,
+    "readme_claims_four_pdf_regeneration": true,
+    "readme_consistent": true
+  },
+  "checks": {
+    "required_files": {
+      "README.md": true,
+      "REVISION-GUIDE.md": true,
+      "MCQ-QUESTIONS.md": true,
+      "MCQ-SOLUTIONS.md": true,
+      "COVERAGE-LEDGER.md": true,
+      "PRACTICE-LOG.md": true,
+      "ANSWER-WRITING-TOOLKIT.md": true,
+      "MCQ-AUDIT.json": true,
+      "PYQ-DEMAND-AUDIT.json": true,
+      "validate_package.py": true,
+      "pdf/Revision-Guide.pdf": true,
+      "pdf/MCQ-Questions.pdf": true,
+      "pdf/MCQ-Solutions.pdf": true,
+      "pdf/Answer-Writing-Toolkit.pdf": true
+    },
+    "mcq_numbering": {
+      "question_count": 53,
+      "solution_count": 53,
+      "exact_match": true,
+      "all_questions_have_four_options": true,
+      "question_solution_prompts_match": true,
+      "pass": true
+    },
+    "question_leakage": {
+      "**Answer:": false,
+      "Option explanations:": false,
+      "Examiner trap": false,
+      "Repair action:": false,
+      "Coverage mapping:": false,
+      "PYQ linkage:": false,
+      "Correct answer:": false
+    },
+    "cross_file_answer_leakage": {
+      "REVISION-GUIDE.md": {
+        "matches": [],
+        "pass": true
+      },
+      "ANSWER-WRITING-TOOLKIT.md": {
+        "matches": [],
+        "pass": true
+      }
+    },
+    "revision_guide_separation": {
+      "solved_mcq_headings": 0,
+      "correct_answer_markers": 0,
+      "option_explanation_markers": 0,
+      "pass": true
+    },
+    "neutral_titles": {
+      "questions_all_exactly_mcq_number": true,
+      "revealing_title_count": 0
+    },
+    "option_formatting_cues": {
+      "metric": "Unicode character count of each visible option",
+      "correct_is_longest_count": 18,
+      "correct_is_longest_rate_percent": 33.96,
+      "uniquely_longest_correct_count": 14,
+      "uniquely_longest_rate_percent": 26.42,
+      "correct_mean_characters": 102.566,
+      "distractor_mean_characters": 100.906,
+      "comparability_threshold": "max-minus-min <= 200 and max/min <= 2.20; locked answer-cue rates remain 15-40% correct-longest and 5-30% uniquely-longest",
+      "comparability_outliers": [],
+      "padding_matches": [],
+      "generic_wrapper_matches": [],
+      "grammatically_incomplete_options": [],
+      "punctuation": {
+        "correct_period_count": 53,
+        "correct_period_rate_percent": 100.0,
+        "distractor_period_count": 159,
+        "distractor_period_rate_percent": 100.0,
+        "absolute_rate_gap_percent": 0.0
+      },
+      "token_and_punctuation_correlation": {
+        "population": {
+          "correct_options": 53,
+          "distractor_options": 159
+        },
+        "thresholds": {
+          "low_frequency_definition": "2-12 total option occurrences",
+          "exclusive_correct_rule": "fail when a feature occurs in at least two correct options and zero distractors",
+          "exclusive_distractor_rule": "fail when a feature occurs in at least two distractors and zero correct options",
+          "low_frequency_rule": "fail when more than 50% of 2-12 occurrences are in correct options",
+          "common_feature_rule": "for more than 12 occurrences, fail when correct-option rate exceeds 2x distractor-option rate by at least 5 percentage points",
+          "common_distractor_rule": "for more than 12 occurrences, fail when distractor-option rate exceeds 4x correct-option rate by at least 20 percentage points",
+          "within_question_rule": "fail when the correct option alone carries a listed marker",
+          "all_distractors_rule": "fail when all three distractors and not the correct option carry a listed marker"
+        },
+        "features": {
+          "semicolon": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "colon": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "em_or_en_dash": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "parentheses": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "but": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "however": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "whereas": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "although": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "yet": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "though": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "despite": {
+            "correct_count": 0,
+            "distractor_count": 0,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.0,
+            "correct_share_of_occurrences_percent": 0,
+            "correct_to_distractor_option_rate_ratio": null,
+            "correct_locations": [],
+            "distractor_locations": [],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          },
+          "absolutist_quantifier": {
+            "correct_count": 0,
+            "distractor_count": 1,
+            "correct_option_rate_percent": 0.0,
+            "distractor_option_rate_percent": 0.63,
+            "correct_share_of_occurrences_percent": 0.0,
+            "correct_to_distractor_option_rate_ratio": 0.0,
+            "correct_locations": [],
+            "distractor_locations": [
+              "13B"
+            ],
+            "exclusive_to_correct_options": false,
+            "exclusive_to_distractor_options": false,
+            "low_frequency_overwhelming_correct_share": false,
+            "common_feature_rate_imbalance": false,
+            "common_distractor_rate_imbalance": false,
+            "pass": true
+          }
+        },
+        "unique_marker_only_on_correct_option": [],
+        "marker_on_all_distractors_not_correct": [],
+        "failed_features": [],
+        "pass": true
+      },
+      "repeated_templates": {
+        "suffix_frequency_correct_vs_distractor": {},
+        "prefix_template_frequency_correct_vs_distractor": {},
+        "pass": true
+      },
+      "only_correct_lacks_repeated_or_padded_template": [],
+      "pass": true
+    },
+    "answer_pattern": {
+      "distribution": {
+        "D": 13,
+        "A": 14,
+        "C": 13,
+        "B": 13
+      },
+      "maximum_consecutive_same_answer": 2,
+      "mechanical_abcd_rotation": false,
+      "key": "DADDADAACCBCAACDBABABCAABBDBBDCDCCDCBDBDCDCCBABADAACB",
+      "pass": true
+    },
+    "solutions_complete": {
+      "**Answer:": 53,
+      "**Option explanations:**": 53,
+      "**Examiner trap": 53,
+      "**Repair action:**": 53,
+      "**Coverage mapping:**": 53,
+      "**PYQ linkage:**": 53,
+      "expected_each": 53,
+      "pass": true
+    },
+    "specific_distractor_explanations": {
+      "checked": 212,
+      "incorrect_options_checked": 159,
+      "correct_options_checked": 53,
+      "requirements": [
+        "all 212 rationales reproduce the parsed audit manifest",
+        "correct rationales contain at least two declared doctrinal anchors",
+        "each distractor quotes the exact false proposition and exact correction",
+        "each distractor rationale contains at least two declared correction anchors",
+        "generic negative controls satisfy no option's anchor set",
+        "normalized and near-duplicate rationale bodies are rejected"
+      ],
+      "validation_basis": "Pass/fail is proposition-specific and manifest-driven; rationale word counts and enumerated stock-sentence blacklists are not acceptance criteria.",
+      "generic_negative_controls": [
+        "This option is incorrect because it conflicts with the doctrine, while the correct answer states the relevant distinction.",
+        "The proposed answer preserves the relevant philosophical position and the other alternatives are mistaken.",
+        "This is correct within the documented scope because it accurately describes the issue under review."
+      ],
+      "generic_control_false_acceptances": [],
+      "repeated_normalized_rationale_bodies": [],
+      "repeated_normalized_body_fingerprints": [],
+      "near_duplicate_rationale_bodies": [],
+      "excessively_reused_declared_anchors": {},
+      "failures": [],
+      "pass": true
+    },
+    "mcq_proposition_audit": {
+      "manifest": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\MCQ-AUDIT.json",
+      "schema_version": 2,
+      "manifest_question_count": 53,
+      "parsed_question_count": 53,
+      "all_visible_stems_have_declared_named_referents": true,
+      "all_questions_have_exactly_one_keyed_true_proposition": true,
+      "mechanical_limitations": "This parsed proposition-level audit verifies exact stem and option alignment, declared referents, one keyed true proposition, explicit false propositions, specific corrections, and literal item-specific rationale anchors. Truth values were manually reviewed against the cited Topic 09 sources; parsing cannot independently prove philosophical truth or eliminate every reasonable interpretive dispute.",
+      "failures": [],
+      "pass": true
+    },
+    "deduplication": {
+      "exact_duplicate_stems_absent": true,
+      "highest_stem_similarity": 0.694,
+      "highest_similarity_pair": [
+        10,
+        33
+      ],
+      "substantive_similarity_flags": [],
+      "final_count": 53,
+      "pass": true
+    },
+    "doctrinal_consistency_and_inference_distinctness": {
+      "required_claims": {
+        "categorial_forms_and_states_of_affairs": true,
+        "categorial_beyond_simple_sensuous_intuition": true,
+        "eidetic_intuition_free_variation": true,
+        "intuitions_related_not_identical": true,
+        "reductions_have_distinct_functions": true,
+        "no_universal_staircase": true,
+        "eidetic_variation_independent_of_completed_transcendental_reduction": true
+      },
+      "forbidden_patterns": {
+        "wesensschau_equated_with_categorial_intuition": [],
+        "categorial_eidetic_slash_conflation": [],
+        "categorial_intuition_gives_essential_structures": [],
+        "mandatory_reduction_staircase_heading": [],
+        "suspension_as_only_route_to_essence": [],
+        "bracketing_as_eidetic_gateway": [],
+        "shared_universality_conflation": []
+      },
+      "mcq_inference_similarity_threshold": 0.75,
+      "highest_inference_similarity": 0.591,
+      "highest_inference_similarity_pair": [
+        21,
+        22
+      ],
+      "inference_similarity_flags": [],
+      "mcq_9_13_duplicate_repair": {
+        "mcq_9_tests_epoché_definition": true,
+        "mcq_13_is_application_case": true,
+        "mcq_13_tests_phenomenological_redirection": true,
+        "mcq_9_and_13_correct_propositions_differ": true
+      },
+      "pass": true
+    },
+    "source_lineage": {
+      "source_files_read": {
+        "g4_session": {
+          "path": "knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-09-02.md",
+          "bytes": 298066,
+          "sha256": "9e7c1fd59225548b73f78ba175cf0049a47a15e25d309d75bea41b50d8646840"
+        },
+        "g4_workbook": {
+          "path": "knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g4\\topic-09_Solved-Practice-Workbook_2026-09-02.md",
+          "bytes": 127828,
+          "sha256": "ea4a070833920232d29667d16452cf4928ed92f80e60b93be105a4e48b2eeae4"
+        },
+        "canonical": {
+          "path": "knowledge\\Philosophy\\paper-1\\western\\Phenomenology-Husserl.md",
+          "bytes": 74772,
+          "sha256": "68f0d1b92cb3ea1d0a7edbddf9d397cdaad4ed057ee7b2f26e8b99f1921a9eab"
+        }
+      },
+      "source_cell_inventory": {
+        "S01": {
+          "coverage_cells": [
+            "C01"
+          ],
+          "anchors": {
+            "g4_session": "### SESSION 1 —",
+            "g4_workbook": "### RAPID REVISION 1 —",
+            "canonical": "## 0. ONE-SCREEN MAP"
+          },
+          "anchored_source_characters": {
+            "g4_session": 9063,
+            "g4_workbook": 934,
+            "canonical": 1706
+          },
+          "witnesses": {
+            "rigorous science": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "things themselves": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "historicism": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S02": {
+          "coverage_cells": [
+            "C02"
+          ],
+          "anchors": {
+            "g4_session": "### SESSION 2 —",
+            "g4_workbook": "### RAPID REVISION 2 —",
+            "canonical": "### 1.1 The Natural Attitude"
+          },
+          "anchored_source_characters": {
+            "g4_session": 7775,
+            "g4_workbook": 849,
+            "canonical": 968
+          },
+          "witnesses": {
+            "natural attitude": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "general thesis": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "profile": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S03": {
+          "coverage_cells": [
+            "C03"
+          ],
+          "anchors": {
+            "g4_session": "### SESSION 3 —",
+            "g4_workbook": "### RAPID REVISION 3 —",
+            "canonical": "### 1.2 The Epoché"
+          },
+          "anchored_source_characters": {
+            "g4_session": 10042,
+            "g4_workbook": 993,
+            "canonical": 2186
+          },
+          "witnesses": {
+            "bracketing": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "suspension": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "phenomenological reduction": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S04": {
+          "coverage_cells": [
+            "C04"
+          ],
+          "anchors": {
+            "g4_session": "### SESSION 4 —",
+            "g4_workbook": "### RAPID REVISION 4 —",
+            "canonical": "### 1.3 Intentionality"
+          },
+          "anchored_source_characters": {
+            "g4_session": 8793,
+            "g4_workbook": 883,
+            "canonical": 9330
+          },
+          "witnesses": {
+            "intentionality": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "noesis": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "hallucination": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S05": {
+          "coverage_cells": [
+            "C04",
+            "C05"
+          ],
+          "anchors": {
+            "g4_session": "### SESSION 5 —",
+            "g4_workbook": "### RAPID REVISION 5 —",
+            "canonical": "#### HYLE and MORPHE"
+          },
+          "anchored_source_characters": {
+            "g4_session": 9631,
+            "g4_workbook": 864,
+            "canonical": 2653
+          },
+          "witnesses": {
+            "hyle": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "morphe": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "animation": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S06": {
+          "coverage_cells": [
+            "C05"
+          ],
+          "anchors": {
+            "g4_session": "### SESSION 6 —",
+            "g4_workbook": "### RAPID REVISION 6 —",
+            "canonical": "#### INNER TIME-CONSCIOUSNESS"
+          },
+          "anchored_source_characters": {
+            "g4_session": 10677,
+            "g4_workbook": 1013,
+            "canonical": 3888
+          },
+          "witnesses": {
+            "retention": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "primal impression": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "protention": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S07": {
+          "coverage_cells": [
+            "C06"
+          ],
+          "anchors": {
+            "g4_session": "### SESSION 7 —",
+            "g4_workbook": "### RAPID REVISION 7 —",
+            "canonical": "## 2. THEORY OF ESSENCES"
+          },
+          "anchored_source_characters": {
+            "g4_session": 12968,
+            "g4_workbook": 1094,
+            "canonical": 4994
+          },
+          "witnesses": {
+            "free imaginative variation": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "eidos": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "regional ontology": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S08": {
+          "coverage_cells": [
+            "C07"
+          ],
+          "anchors": {
+            "g4_session": "### SESSION 8 —",
+            "g4_workbook": "### RAPID REVISION 8 —",
+            "canonical": "### 1.5 The Transcendental Reduction"
+          },
+          "anchored_source_characters": {
+            "g4_session": 11569,
+            "g4_workbook": 1166,
+            "canonical": 2854
+          },
+          "witnesses": {
+            "transcendental ego": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "life-world": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "constitution": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S09": {
+          "coverage_cells": [
+            "C08"
+          ],
+          "anchors": {
+            "g4_session": "### SESSION 9 —",
+            "g4_workbook": "### RAPID REVISION 9 —",
+            "canonical": "## 3. AVOIDANCE OF PSYCHOLOGISM"
+          },
+          "anchored_source_characters": {
+            "g4_session": 14489,
+            "g4_workbook": 1206,
+            "canonical": 6497
+          },
+          "witnesses": {
+            "psychologism": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "ideal content": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "relativism": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        },
+        "S10": {
+          "coverage_cells": [
+            "C09",
+            "C10"
+          ],
+          "anchors": {
+            "g4_session": "### SESSION 10 —",
+            "g4_workbook": "### RAPID REVISION 10 —",
+            "canonical": "## 3A. THE FIFTH"
+          },
+          "anchored_source_characters": {
+            "g4_session": 16015,
+            "g4_workbook": 31231,
+            "canonical": 6818
+          },
+          "witnesses": {
+            "pairing": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "appresentation": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            },
+            "solipsism": {
+              "in_anchored_sources": true,
+              "in_revision_guide": true
+            }
+          },
+          "pass": true
+        }
+      },
+      "source_cell_count": 10,
+      "source_inventory_failures": [],
+      "lineage_mapping_count": 53,
+      "lineage_counts": {
+        "adapted": 43,
+        "new": 10
+      },
+      "source_candidate_count": 56,
+      "mapped_unique_source_candidates": 43,
+      "unmapped_source_candidates": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        45,
+        46
+      ],
+      "unmapped_source_candidate_count": 13,
+      "retained_exact_stems": [],
+      "mechanical_limitations": "This gate verifies file identity, source anchors, term witnesses, matrix ranges and declared candidate links. It does not prove semantic completeness or the philosophical correctness of each adaptation.",
+      "pass": true,
+      "complete_mapping": true,
+      "unique_mapping_rows": true,
+      "inventory_covers_matrix_cells": true,
+      "unique_adapted_candidate_links": true,
+      "mapping_failures": []
+    },
+    "rapid_revision_practice_links": {
+      "expected_from_coverage_matrix": {
+        "1": [
+          1,
+          4
+        ],
+        "2": [
+          5,
+          8
+        ],
+        "3": [
+          9,
+          14
+        ],
+        "4": [
+          15,
+          20
+        ],
+        "5": [
+          21,
+          25
+        ],
+        "6": [
+          26,
+          31
+        ],
+        "7": [
+          32,
+          36
+        ],
+        "8": [
+          37,
+          41
+        ],
+        "9": [
+          42,
+          46
+        ],
+        "10": [
+          47,
+          53
+        ]
+      },
+      "actual_from_revision_guide": {
+        "1": [
+          1,
+          4
+        ],
+        "2": [
+          5,
+          8
+        ],
+        "3": [
+          9,
+          14
+        ],
+        "4": [
+          15,
+          20
+        ],
+        "5": [
+          21,
+          25
+        ],
+        "6": [
+          26,
+          31
+        ],
+        "7": [
+          32,
+          36
+        ],
+        "8": [
+          37,
+          41
+        ],
+        "9": [
+          42,
+          46
+        ],
+        "10": [
+          47,
+          53
+        ]
+      },
+      "pass": true
+    },
+    "verified_pyqs": {
+      "directly_owned_count": 7,
+      "parts": [
+        [
+          "2019",
+          "Q1(b)",
+          10
+        ],
+        [
+          "2020",
+          "Q1(c)",
+          10
+        ],
+        [
+          "2021",
+          "Q4(a)",
+          20
+        ],
+        [
+          "2022",
+          "Q1(d)",
+          10
+        ],
+        [
+          "2023",
+          "Q3(b)",
+          15
+        ],
+        [
+          "2024",
+          "Q4(b)",
+          15
+        ],
+        [
+          "2025",
+          "Q4(a)",
+          20
+        ]
+      ],
+      "component_checks": {
+        "2019 Q1(b)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 157,
+          "stated_words": 157,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2020 Q1(c)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 150,
+          "stated_words": 150,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2021 Q4(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured_words": 363,
+          "stated_words": 363,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2022 Q1(d)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 186,
+          "stated_words": 186,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2023 Q3(b)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 266,
+          "stated_words": 266,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2024 Q4(b)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 257,
+          "stated_words": 257,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        },
+        "2025 Q4(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured_words": 353,
+          "stated_words": 353,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "exact_prompt_match": true
+        }
+      },
+      "all_exact_and_complete": true
+    },
+    "original_solved_practice": {
+      "question_count": 3,
+      "solutions": {
+        "## Original 1 · 10 marks": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 164,
+          "stated_words": 164,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "why_it_earns_marks": true
+        },
+        "## Original 2 · 15 marks": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 252,
+          "stated_words": 252,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "why_it_earns_marks": true
+        },
+        "## Original 3 · 20 marks": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured_words": 360,
+          "stated_words": 360,
+          "count_tolerance": 1,
+          "matches_stated": true,
+          "in_band": true,
+          "demand_decoding": true,
+          "model_answer": true,
+          "qualification_or_criticism": true,
+          "word_time_guidance": true,
+          "why_it_earns_marks": true
+        }
+      },
+      "all_complete": true
+    },
+    "portable_provenance": {
+      "ledger_files_exist": true,
+      "learner_practice_not_official_keys": true
+    },
+    "marks_logic_accuracy": {
+      "why_sections_expected": 10,
+      "why_sections_found": 10,
+      "unsupported_claims": [],
+      "pass": true
+    },
+    "pass": true,
+    "pyq_demand_audit": {
+      "manifest": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\PYQ-DEMAND-AUDIT.json",
+      "owned_pyq_count": 7,
+      "expected_owned_pyqs": [
+        "2019 Q1(b)",
+        "2020 Q1(c)",
+        "2021 Q4(a)",
+        "2022 Q1(d)",
+        "2023 Q3(b)",
+        "2024 Q4(b)",
+        "2025 Q4(a)"
+      ],
+      "component_checks": {
+        "2019 Q1(b)": {
+          "marks": 10,
+          "demand_limb_count": 4,
+          "limbs": [
+            {
+              "limb": "direct answer on hallucination",
+              "anchors": {
+                "paradigmatically intentional act": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "criterion of intentionality",
+              "anchors": {
+                "directedness": true,
+                "need not exist": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "noesis-noema explanation",
+              "anchors": {
+                "noesis": true,
+                "noema": true,
+                "object-as-intended": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "qualification concerning reality",
+              "anchors": {
+                "not to say the object is real": true
+              },
+              "pass": true
+            }
+          ],
+          "pass": true
+        },
+        "2020 Q1(c)": {
+          "marks": 10,
+          "demand_limb_count": 4,
+          "limbs": [
+            {
+              "limb": "definition of psychologism",
+              "anchors": {
+                "empirical generalisations": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "central category mistake",
+              "anchors": {
+                "ideal content": true,
+                "real act": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "positive phenomenological response",
+              "anchors": {
+                "ideal objectivity": true,
+                "grasped": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "critical qualification",
+              "anchors": {
+                "subject-dependence": true
+              },
+              "pass": true
+            }
+          ],
+          "pass": true
+        },
+        "2021 Q4(a)": {
+          "marks": 20,
+          "demand_limb_count": 4,
+          "limbs": [
+            {
+              "limb": "natural attitude and general thesis",
+              "anchors": {
+                "general thesis": true,
+                "uncritical": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "epoché as suspension",
+              "anchors": {
+                "epoche": true,
+                "suspension": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "phenomenological and transcendental reduction",
+              "anchors": {
+                "phenomenological reduction": true,
+                "transcendental reduction": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "critical assessment",
+              "anchors": {
+                "Heidegger": true,
+                "Merleau-Ponty": true,
+                "complete reduction": true
+              },
+              "pass": true
+            }
+          ],
+          "pass": true
+        },
+        "2022 Q1(d)": {
+          "marks": 10,
+          "demand_limb_count": 6,
+          "limbs": [
+            {
+              "limb": "definition of psychologism",
+              "anchors": {
+                "empirical facts": true,
+                "happen to think": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "necessity and act-content reply",
+              "anchors": {
+                "logical laws claim necessity": true,
+                "real judging act": true,
+                "ideal content": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "non-empirical transcendental ego",
+              "anchors": {
+                "transcendental ego is not the empirical psyche": true,
+                "non-empirical field": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "constitution as disclosure rather than production",
+              "anchors": {
+                "constitution is disclosure": true,
+                "not causal production": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "intersubjective objectivity",
+              "anchors": {
+                "transcendental intersubjectivity": true,
+                "any possible subject": true,
+                "shared world": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "critical qualification",
+              "anchors": {
+                "transcendental idealism": true,
+                "remains contested": true
+              },
+              "pass": true
+            }
+          ],
+          "pass": true
+        },
+        "2023 Q3(b)": {
+          "marks": 15,
+          "demand_limb_count": 4,
+          "limbs": [
+            {
+              "limb": "bracketing defined without denial",
+              "anchors": {
+                "withholds assent": true,
+                "neither affirms nor denies": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "reduction and residue",
+              "anchors": {
+                "phenomenological reduction": true,
+                "residue": true,
+                "intentional experience": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "significance for givenness, non-substantialism and essences",
+              "anchors": {
+                "modes of givenness": true,
+                "res cogitans": true,
+                "invariant essences": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "critical qualification",
+              "anchors": {
+                "Merleau-Ponty": true,
+                "complete reduction is impossible": true,
+                "asymptotic discipline": true
+              },
+              "pass": true
+            }
+          ],
+          "pass": true
+        },
+        "2024 Q4(b)": {
+          "marks": 15,
+          "demand_limb_count": 5,
+          "limbs": [
+            {
+              "limb": "eidetic method",
+              "anchors": {
+                "free imaginative variation": true,
+                "eidos": true,
+                "Wesensschau": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "categorial-eidetic distinction",
+              "anchors": {
+                "categorial forms and states of affairs": true,
+                "eidetic intuition apprehends essences": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "basis of continuity",
+              "anchors": {
+                "correlational a priori": true,
+                "corresponding mode of consciousness": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "anti-subjective-idealism guard",
+              "anchors": {
+                "must not be misread as subjective idealism": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "qualified verdict",
+              "anchors": {
+                "continuity of sense": true,
+                "stronger metaphysical continuity": true
+              },
+              "pass": true
+            }
+          ],
+          "pass": true
+        },
+        "2025 Q4(a)": {
+          "marks": 20,
+          "demand_limb_count": 6,
+          "limbs": [
+            {
+              "limb": "shared Cartesian starting point",
+              "anchors": {
+                "shared starting point": true,
+                "apodictic self-givenness": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "substance versus constituting function",
+              "anchors": {
+                "res cogitans": true,
+                "field of sense-constitution": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "world lost versus bracketed",
+              "anchors": {
+                "God's benevolence": true,
+                "world was never lost": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "world-directed subjectivity",
+              "anchors": {
+                "world-constituting": true,
+                "consciousness of": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "Kant and intersubjectivity guards",
+              "anchors": {
+                "Kant's merely formal": true,
+                "pairing and analogical appresentation": true
+              },
+              "pass": true
+            },
+            {
+              "limb": "critical assessment",
+              "anchors": {
+                "Heidegger": true,
+                "Merleau-Ponty": true,
+                "residual idealism": true
+              },
+              "pass": true
+            }
+          ],
+          "pass": true
+        }
+      },
+      "mechanical_limitations": "This gate checks exact prompt identity and literal presence of all declared demand-limb anchors inside each timed answer. It does not infer whether those anchors are argued correctly, sufficiently developed or worthy of a particular mark.",
+      "failures": [],
+      "pass": true
+    },
+    "revision_front_matter_provenance": {
+      "required_accuracy_statement": true,
+      "documents_scanned": [
+        "coverage_ledger",
+        "readme",
+        "revision_front_matter"
+      ],
+      "forbidden_claims": {
+        "revision_front_matter": [],
+        "readme": [],
+        "coverage_ledger": []
+      },
+      "pass": true
+    },
+    "current_affairs_nonfabrication": true,
+    "markdown_links": {
+      "checked": 11,
+      "broken": [],
+      "pass": true
+    },
+    "pdfs": {
+      "Revision-Guide.pdf": {
+        "bytes": 1371207,
+        "pages": 72,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "raw_markdown_artifacts": [],
+        "pass": true
+      },
+      "MCQ-Questions.pdf": {
+        "bytes": 159420,
+        "pages": 14,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "raw_markdown_artifacts": [],
+        "pass": true
+      },
+      "MCQ-Solutions.pdf": {
+        "bytes": 484498,
+        "pages": 40,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "raw_markdown_artifacts": [],
+        "pass": true
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "bytes": 264293,
+        "pages": 16,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "raw_markdown_artifacts": [],
+        "pass": true
+      }
+    },
+    "practice_log_blank_template": true,
+    "temporary_files_left": [],
+    "text_and_diff_integrity": {
+      "mechanism": "Stage-independent UTF-8 and trailing-whitespace audit of every package .md/.py/.json file, plus git diff --check for tracked INDEX.md and STATUS.json.",
+      "package_text_files_inspected": [
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\ANSWER-WRITING-TOOLKIT.md",
+          "bytes": 33833,
+          "lines": 391,
+          "sha256": "cd60fb19c8a43a65ac822450ea87bdcc6e9d963b38180592ddae07c01ccd8dc6"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\COVERAGE-LEDGER.md",
+          "bytes": 12350,
+          "lines": 139,
+          "sha256": "8ec0a0e54ad1407146d33773f5caf9da97c425536bf0f65cf95fdb021ce97be5"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\MCQ-AUDIT.json",
+          "bytes": 225237,
+          "lines": 4258,
+          "sha256": "eb02b0741ad3bc1c9017b193a3c52995c94398139612e7886e3fa05cae696fec"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\MCQ-QUESTIONS.md",
+          "bytes": 28656,
+          "lines": 480,
+          "sha256": "835a9e91e47cb2b9a611d7293abedefab4717a97a2311b64e5823e51f5b82f38"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\MCQ-SOLUTIONS.md",
+          "bytes": 122099,
+          "lines": 1328,
+          "sha256": "a2a2dc7e11140d974fb3ec5af08988ec9a92c1a701ac36b3f3280d8cef12ecf7"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\PRACTICE-LOG.md",
+          "bytes": 903,
+          "lines": 23,
+          "sha256": "af9d56a4ce44732d65f516dea852c68a8a1579ffdfe2479de112c62b8445b0f6"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\PYQ-DEMAND-AUDIT.json",
+          "bytes": 5885,
+          "lines": 89,
+          "sha256": "618be2633cd640021495f929fcd3a7ca2d7ca096b3ac19aeec03211323349bdd"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\README.md",
+          "bytes": 2119,
+          "lines": 22,
+          "sha256": "2b5b1d4e82946bb267590c4d644ccc309e26a789270153243bf9ecbb7ecb6e11"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\REVISION-GUIDE.md",
+          "bytes": 184272,
+          "lines": 2291,
+          "sha256": "52c44d0a0d3a39050620244e36a65f0be5280132c841a4903dd4403f859b3366"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\validate_package.py",
+          "bytes": 86731,
+          "lines": 2143,
+          "sha256": "f138afeb7ae4b45aa356a82f15d85cdc027243c9e0e520913aef78a1eb366b21"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\VALIDATION.json",
+          "bytes": 59420,
+          "lines": 1704,
+          "sha256": "bfcfd506c92986fa22a4b58e2c6be72f52214f78e9ad04909026d053c4e6cf3e"
+        }
+      ],
+      "package_text_file_count": 11,
+      "untracked_package_files_reported_by_git": [
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/ANSWER-WRITING-TOOLKIT.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/COVERAGE-LEDGER.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-AUDIT.json",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-QUESTIONS.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-SOLUTIONS.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/PRACTICE-LOG.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/PYQ-DEMAND-AUDIT.json",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/README.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/REVISION-GUIDE.md",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/VALIDATION.json",
+        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/validate_package.py"
+      ],
+      "untracked_file_integrity_gate": {
+        "all_untracked_text_files_were_inspected": true,
+        "stage_independent": true,
+        "git_diff_no_index_checks": [
+          {
+            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/ANSWER-WRITING-TOOLKIT.md",
+            "exit_code": 1,
+            "whitespace_diagnostics": "",
+            "pass": true
+          },
+          {
+            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/COVERAGE-LEDGER.md",
+            "exit_code": 1,
+            "whitespace_diagnostics": "",
+            "pass": true
+          },
+          {
+            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-AUDIT.json",
+            "exit_code": 1,
+            "whitespace_diagnostics": "",
+            "pass": true
+          },
+          {
+            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-QUESTIONS.md",
+            "exit_code": 1,
+            "whitespace_diagnostics": "",
+            "pass": true
+          },
+          {
+            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-SOLUTIONS.md",
+            "exit_code": 1,
+            "whitespace_diagnostics": "",
+            "pass": true
+          },
+          {
+            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/PRACTICE-LOG.md",
+            "exit_code": 1,
+            "whitespace_diagnostics": "",
+            "pass": true
+          },
+          {
+            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/PYQ-DEMAND-AUDIT.json",
+            "exit_code": 1,
+            "whitespace_diagnostics": "",
+            "pass": true
+          },
+          {
+            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/README.md",
+            "exit_code": 1,
+            "whitespace_diagnostics": "",
+            "pass": true
+          },
+          {
+            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/REVISION-GUIDE.md",
+            "exit_code": 1,
+            "whitespace_diagnostics": "",
+            "pass": true
+          },
+          {
+            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/VALIDATION.json",
+            "exit_code": 1,
+            "whitespace_diagnostics": "",
+            "pass": true
+          },
+          {
+            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/validate_package.py",
+            "exit_code": 1,
+            "whitespace_diagnostics": "",
+            "pass": true
+          }
+        ]
+      },
+      "tracked_index_status_diff_check": {
+        "exit_code": 0,
+        "output": ""
+      },
+      "failures": [],
+      "pass": true
+    },
+    "git_status_awareness": {
+      "short_status": [
+        " M practice/Offline-Revision-MCQ/INDEX.md",
+        " M practice/Offline-Revision-MCQ/STATUS.json",
+        "?? practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/"
+      ],
+      "topic_package_is_untracked": true
+    },
+    "status_expectations": {
+      "topic_09_validated": true,
+      "next_topic": true
+    },
+    "index_expectations": {
+      "topic_09_listed": true,
+      "next_topic": true
+    }
+  },
+  "failures": []
+}

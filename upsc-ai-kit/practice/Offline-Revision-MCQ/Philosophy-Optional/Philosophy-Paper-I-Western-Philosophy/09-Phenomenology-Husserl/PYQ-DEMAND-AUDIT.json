@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "scope": "Seven directly owned Topic 09 PYQs, 2019–2025",
+  "method": "For each exact ledger prompt, the validator locates the corresponding timed answer and requires at least one literal anchor from every declared demand limb. This proves textual coverage of the declared limbs, not the philosophical adequacy, argumentative quality or examiner score of the answer.",
+  "pyqs": [
+    {
+      "id": "2019 Q1(b)",
+      "marks": 10,
+      "question": "Can hallucination be regarded as an intentional act by Husserl? Explain.",
+      "demand_limbs": [
+        {"limb": "direct answer on hallucination", "anchors": ["paradigmatically intentional act"]},
+        {"limb": "criterion of intentionality", "anchors": ["directedness", "need not exist"]},
+        {"limb": "noesis-noema explanation", "anchors": ["noesis", "noema", "object-as-intended"]},
+        {"limb": "qualification concerning reality", "anchors": ["not to say the object is real"]}
+      ]
+    },
+    {
+      "id": "2020 Q1(c)",
+      "marks": 10,
+      "question": "What, according to Husserl, is wrong with psychologism? How does Husserl address the problems with psychologism in his phenomenological method?",
+      "demand_limbs": [
+        {"limb": "definition of psychologism", "anchors": ["empirical generalisations"]},
+        {"limb": "central category mistake", "anchors": ["ideal content", "real act"]},
+        {"limb": "positive phenomenological response", "anchors": ["ideal objectivity", "grasped"]},
+        {"limb": "critical qualification", "anchors": ["subject-dependence"]}
+      ]
+    },
+    {
+      "id": "2021 Q4(a)",
+      "marks": 20,
+      "question": "Present a critical exposition of Husserl’s criticism of ‘natural attitude’. How does Husserl propose to address the problems involved in natural attitude through his phenomenological method?",
+      "demand_limbs": [
+        {"limb": "natural attitude and general thesis", "anchors": ["general thesis", "uncritical"]},
+        {"limb": "epoché as suspension", "anchors": ["epoche", "suspension"]},
+        {"limb": "phenomenological and transcendental reduction", "anchors": ["phenomenological reduction", "transcendental reduction"]},
+        {"limb": "critical assessment", "anchors": ["Heidegger", "Merleau-Ponty", "complete reduction"]}
+      ]
+    },
+    {
+      "id": "2022 Q1(d)",
+      "marks": 10,
+      "question": "What is psychologism? Critically discuss the way Edmund Husserl avoids the problem of psychologism in the discourse of transcendental phenomenology.",
+      "demand_limbs": [
+        {"limb": "definition of psychologism", "anchors": ["empirical facts", "happen to think"]},
+        {"limb": "necessity and act-content reply", "anchors": ["logical laws claim necessity", "real judging act", "ideal content"]},
+        {"limb": "non-empirical transcendental ego", "anchors": ["transcendental ego is not the empirical psyche", "non-empirical field"]},
+        {"limb": "constitution as disclosure rather than production", "anchors": ["constitution is disclosure", "not causal production"]},
+        {"limb": "intersubjective objectivity", "anchors": ["transcendental intersubjectivity", "any possible subject", "shared world"]},
+        {"limb": "critical qualification", "anchors": ["transcendental idealism", "remains contested"]}
+      ]
+    },
+    {
+      "id": "2023 Q3(b)",
+      "marks": 15,
+      "question": "Elucidate the significance of bracketing and reduction in Husserl’s phenomenological method.",
+      "demand_limbs": [
+        {"limb": "bracketing defined without denial", "anchors": ["withholds assent", "neither affirms nor denies"]},
+        {"limb": "reduction and residue", "anchors": ["phenomenological reduction", "residue", "intentional experience"]},
+        {"limb": "significance for givenness, non-substantialism and essences", "anchors": ["modes of givenness", "res cogitans", "invariant essences"]},
+        {"limb": "critical qualification", "anchors": ["Merleau-Ponty", "complete reduction is impossible", "asymptotic discipline"]}
+      ]
+    },
+    {
+      "id": "2024 Q4(b)",
+      "marks": 15,
+      "question": "Why does Husserl think that essences exhibit a kind of continuity between consciousness and being? Discuss.",
+      "demand_limbs": [
+        {"limb": "eidetic method", "anchors": ["free imaginative variation", "eidos", "Wesensschau"]},
+        {"limb": "categorial-eidetic distinction", "anchors": ["categorial forms and states of affairs", "eidetic intuition apprehends essences"]},
+        {"limb": "basis of continuity", "anchors": ["correlational a priori", "corresponding mode of consciousness"]},
+        {"limb": "anti-subjective-idealism guard", "anchors": ["must not be misread as subjective idealism"]},
+        {"limb": "qualified verdict", "anchors": ["continuity of sense", "stronger metaphysical continuity"]}
+      ]
+    },
+    {
+      "id": "2025 Q4(a)",
+      "marks": 20,
+      "question": "How is Husserl’s account of “I think” different from that of Descartes? Critically discuss.",
+      "demand_limbs": [
+        {"limb": "shared Cartesian starting point", "anchors": ["shared starting point", "apodictic self-givenness"]},
+        {"limb": "substance versus constituting function", "anchors": ["res cogitans", "field of sense-constitution"]},
+        {"limb": "world lost versus bracketed", "anchors": ["God's benevolence", "world was never lost"]},
+        {"limb": "world-directed subjectivity", "anchors": ["world-constituting", "consciousness of"]},
+        {"limb": "Kant and intersubjectivity guards", "anchors": ["Kant's merely formal", "pairing and analogical appresentation"]},
+        {"limb": "critical assessment", "anchors": ["Heidegger", "Merleau-Ponty", "residual idealism"]}
+      ]
+    }
+  ]
+}

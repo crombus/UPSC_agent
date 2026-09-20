@@ -11,8 +11,9 @@
   - [06 Moore, Russell and Early Wittgenstein](Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/README.md) — validated; coverage-sized bank of 56 MCQs and 16 directly owned solved PYQs through 2026.
   - [07 Logical Positivism](Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/README.md) — validated; coverage-sized bank of 54 MCQs and 8 directly owned solved PYQs through 2026.
   - [08 Later Wittgenstein](Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/08-Later-Wittgenstein/README.md) — validated; coverage-sized bank of 51 MCQs and 8 directly owned solved PYQs through 2026.
+  - [09 Phenomenology (Husserl)](Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/README.md) — validated; coverage-sized bank of 53 MCQs, 7 directly owned solved PYQs from 2019–2025, and a bounded 2026 cross-link.
 
-Philosophy remains in progress. The next canonical topic is **09 Phenomenology (Husserl)**.
+Philosophy remains in progress. The next canonical topic is **10 Existentialism**.
 
 ## Global guides
 
