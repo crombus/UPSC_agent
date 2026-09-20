@@ -1,12 +1,12 @@
 {
   "schema_version": 7,
   "topic": "07 Logical Positivism",
-  "validated_at": "2026-09-20T14:50:18+05:30",
+  "validated_at": "2026-09-20T14:53:31+05:30",
   "result": "PASS",
   "result_gate": "PASS only when every recorded check passes",
   "pdf_generation": {
     "mechanism": "C:/up/tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
-    "all_four_regenerated": false
+    "all_four_regenerated": true
   },
   "checks": {
     "required_files": {
@@ -637,7 +637,7 @@
     },
     "pdfs": {
       "Revision-Guide.pdf": {
-        "bytes": 1149307,
+        "bytes": 1146389,
         "pages": 69,
         "blank_pages": [],
         "replacement_glyphs": 0,
@@ -685,15 +685,18 @@
     "temporary_files_left": [],
     "git_diff_check": {
       "exit_code": 0,
-      "output": ""
+      "output": null
     },
     "git_status_awareness": {
       "short_status": [
-        " M practice/Offline-Revision-MCQ/INDEX.md",
-        " M practice/Offline-Revision-MCQ/STATUS.json",
-        "?? practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/"
+        " M practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/README.md",
+        " M practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/REVISION-GUIDE.md",
+        " M practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/pdf/Answer-Writing-Toolkit.pdf",
+        " M practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/pdf/MCQ-Questions.pdf",
+        " M practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/pdf/MCQ-Solutions.pdf",
+        " M practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/pdf/Revision-Guide.pdf"
       ],
-      "topic_package_is_untracked": true,
+      "topic_package_is_untracked": false,
       "untracked_files_are_not_treated_as_an_empty_diff": true
     },
     "status_expectations": {

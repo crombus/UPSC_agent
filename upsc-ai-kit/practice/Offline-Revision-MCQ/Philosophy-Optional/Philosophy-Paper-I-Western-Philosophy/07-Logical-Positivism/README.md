@@ -1,7 +1,7 @@
 # 07 Logical Positivism — Offline Revision and MCQ Package
 
-**Subject:** Philosophy Optional  
-**Section:** Philosophy Paper I — Western Philosophy  
+**Subject:** Philosophy Optional
+**Section:** Philosophy Paper I — Western Philosophy
 **Status:** Validated locally
 
 ## Use in order

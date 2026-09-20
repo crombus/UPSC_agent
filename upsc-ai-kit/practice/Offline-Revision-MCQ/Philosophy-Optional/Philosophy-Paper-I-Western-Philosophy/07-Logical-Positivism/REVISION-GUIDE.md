@@ -1904,29 +1904,29 @@ The numbered argument looks tight, but it rests on four unargued assumptions, an
 
 #### Optional depth modules
 
-1. **The protocol-sentence debate — second-order layer** ❓  
-   - **✅ Core status (15 Aug 2026 — promotion trigger fired):** the protocol-sentence debate itself, Schlick's foundational reading, Neurath's anti-foundational reply and the resulting collapse of an incorrigible observation base **now live in Core** at [`Logical-Positivism.md`](../../../../../knowledge/Philosophy/paper-1/western/Logical-Positivism.md) §P. Do **not** treat the debate as optional or postpone it: it is required to explain why verification destabilised from within. This module is retained only for the enrichment *beyond* that account.  
-   - **Issue (second-order):** granting Core's narrative, was Neurath's coherentism a *repair* of empiricism or an abandonment of it, and does "intersubjective testability" still deserve the name *verification*?  
-   - **Competing interpretations:** Schlick/Carnap-style foundational protocol sentences; Neurath's anti-foundational coherentist line; later compromise positions.  
-   - **Extra objection / counter-reply:** **Objection:** if observation language is itself theory-laden and revisable, verification loses its bedrock. **Counter-reply:** the debate pushed positivists toward intersubjective testability rather than infallible experiential atoms — but a coherence-tested system is no longer an *empiricist* foundation in the original sense, which is exactly Quine's later opening.  
-   - **Safe 15/20 use ⚠️:** Core already supplies the debate; use this module only for the closing evaluative clause about whether the repair preserved empiricism.  
-   - **What not to over-study ⚠️:** do not catalogue every Vienna Circle memorandum.  
+1. **The protocol-sentence debate — second-order layer** ❓
+   - **✅ Core status (15 Aug 2026 — promotion trigger fired):** the protocol-sentence debate itself, Schlick's foundational reading, Neurath's anti-foundational reply and the resulting collapse of an incorrigible observation base **now live in Core** at [`Logical-Positivism.md`](../../../../../knowledge/Philosophy/paper-1/western/Logical-Positivism.md) §P. Do **not** treat the debate as optional or postpone it: it is required to explain why verification destabilised from within. This module is retained only for the enrichment *beyond* that account.
+   - **Issue (second-order):** granting Core's narrative, was Neurath's coherentism a *repair* of empiricism or an abandonment of it, and does "intersubjective testability" still deserve the name *verification*?
+   - **Competing interpretations:** Schlick/Carnap-style foundational protocol sentences; Neurath's anti-foundational coherentist line; later compromise positions.
+   - **Extra objection / counter-reply:** **Objection:** if observation language is itself theory-laden and revisable, verification loses its bedrock. **Counter-reply:** the debate pushed positivists toward intersubjective testability rather than infallible experiential atoms — but a coherence-tested system is no longer an *empiricist* foundation in the original sense, which is exactly Quine's later opening.
+   - **Safe 15/20 use ⚠️:** Core already supplies the debate; use this module only for the closing evaluative clause about whether the repair preserved empiricism.
+   - **What not to over-study ⚠️:** do not catalogue every Vienna Circle memorandum.
    - **Promotion status:** ✅ **fired and executed.** Re-promote only if a PYQ asks the Neurath's-boat coherence question in its own right.
 
-2. **Carnap vs Neurath on physicalism and unified science** ❓  
-   - **Issue:** should all meaningful statements be translated into physical language, or merely coordinated inside a publicly testable scientific encyclopedia?  
-   - **Competing interpretations:** stricter translational physicalism; Neurath's encyclopedic/coherentist physicalism; softer linguistic-framework reading.  
-   - **Extra objection / counter-reply:** **Objection:** physicalism seems to exclude mental and cultural vocabulary too quickly. **Counter-reply:** its real aim was public checkability and common language, not crude denial that mental discourse exists.  
-   - **Safe 15/20 use ⚠️:** useful only as an extra sentence when assessing whether logical positivism was more nuanced than the slogan "metaphysics is nonsense."  
-   - **What not to over-study ⚠️:** do not let this become a general philosophy-of-science essay.  
+2. **Carnap vs Neurath on physicalism and unified science** ❓
+   - **Issue:** should all meaningful statements be translated into physical language, or merely coordinated inside a publicly testable scientific encyclopedia?
+   - **Competing interpretations:** stricter translational physicalism; Neurath's encyclopedic/coherentist physicalism; softer linguistic-framework reading.
+   - **Extra objection / counter-reply:** **Objection:** physicalism seems to exclude mental and cultural vocabulary too quickly. **Counter-reply:** its real aim was public checkability and common language, not crude denial that mental discourse exists.
+   - **Safe 15/20 use ⚠️:** useful only as an extra sentence when assessing whether logical positivism was more nuanced than the slogan "metaphysics is nonsense."
+   - **What not to over-study ⚠️:** do not let this become a general philosophy-of-science essay.
    - **Promote to Core if:** a future PYQ directly asks about physicalism, unity of science, or intra-positivist disagreements.
 
-3. **From verification to confirmation** ⚠️  
-   - **Issue:** did later positivism preserve its original meaning-criterion, or retreat into a weaker philosophy of scientific support?  
-   - **Competing interpretations:** continuity reading (confirmation as repair); discontinuity reading (confirmation theory as admission that strict verification failed).  
-   - **Extra objection / counter-reply:** **Objection:** confirmation no longer yields a clear criterion of meaning, only a theory of evidential support. **Counter-reply:** exactly for that reason it is enrichment, not Core; it explains the movement's afterlife and why Quine/Popper could attack it so effectively.  
-   - **Safe 15/20 use ⚠️:** use in the last paragraph only, to show historical pressure on the original doctrine.  
-   - **What not to over-study ⚠️:** do not replace the verification principle with Hempelian confirmation theory in the main answer.  
+3. **From verification to confirmation** ⚠️
+   - **Issue:** did later positivism preserve its original meaning-criterion, or retreat into a weaker philosophy of scientific support?
+   - **Competing interpretations:** continuity reading (confirmation as repair); discontinuity reading (confirmation theory as admission that strict verification failed).
+   - **Extra objection / counter-reply:** **Objection:** confirmation no longer yields a clear criterion of meaning, only a theory of evidential support. **Counter-reply:** exactly for that reason it is enrichment, not Core; it explains the movement's afterlife and why Quine/Popper could attack it so effectively.
+   - **Safe 15/20 use ⚠️:** use in the last paragraph only, to show historical pressure on the original doctrine.
+   - **What not to over-study ⚠️:** do not replace the verification principle with Hempelian confirmation theory in the main answer.
    - **Promote to Core if:** a future PYQ directly asks how logical positivism changed after the verificationist phase.
 
 - **Short source trail:** Moritz Schlick; Rudolf Carnap; Otto Neurath; A. J. Ayer *Language, Truth and Logic*; Carl Hempel; Alonzo Church; Michael Friedman; Thomas Uebel.
