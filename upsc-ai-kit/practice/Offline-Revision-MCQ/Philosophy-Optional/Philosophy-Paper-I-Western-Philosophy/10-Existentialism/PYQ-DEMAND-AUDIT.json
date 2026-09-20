@@ -1,0 +1,1380 @@
+{
+  "schema_version": 3,
+  "scope": "Sixteen directly owned Topic 10 PYQs, 2018–2026",
+  "method": "Each verified prompt is matched to a parsed timed answer. Literal demand anchors establish declared limb coverage. Per-answer connected-pair and paragraph-order records protect structural sequence, while reversed-paragraph and explicitly contradicted-relation controls must fail. This is a structural and demand-anchor integrity gate, not proof of semantic coherence, philosophical truth, argumentative sufficiency, or an examiner score.",
+  "pyqs": [
+    {
+      "id": "2018 Q1(d)",
+      "marks": 10,
+      "question": "How does Sartre connect inauthenticity with bad faith? Why does Sartre show that inauthenticity and bad faith lead to alienation? Discuss.",
+      "demand_limbs": [
+        {
+          "limb": "connect inauthenticity and bad faith",
+          "anchors": [
+            "settled way of living in bad faith",
+            "bad faith denies this unstable unity"
+          ]
+        },
+        {
+          "limb": "explain alienation",
+          "anchors": [
+            "Alienation follows",
+            "Under the Other's Look"
+          ]
+        },
+        {
+          "limb": "use facticity and transcendence",
+          "anchors": [
+            "facticity",
+            "transcendence"
+          ]
+        },
+        {
+          "limb": "qualify through social constraint",
+          "anchors": [
+            "oppression can impose roles",
+            "later idea of situated freedom"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "bad faith denies this unstable unity",
+        "oppression can impose roles"
+      ],
+      "connected_pairs": [
+        {
+          "left": "settled way of living in bad faith",
+          "right": "bad faith denies this unstable unity",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "connect inauthenticity and bad faith"
+        },
+        {
+          "left": "Alienation follows",
+          "right": "Under the Other's Look",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain alienation"
+        },
+        {
+          "left": "facticity",
+          "right": "transcendence",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "use facticity and transcendence"
+        },
+        {
+          "left": "oppression can impose roles",
+          "right": "later idea of situated freedom",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "qualify through social constraint"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "settled way of living in bad faith",
+          "right": "bad faith denies this unstable unity",
+          "relation_anchor": "bad faith denies this unstable unity",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "connect inauthenticity and bad faith"
+        }
+      ]
+    },
+    {
+      "id": "2018 Q4(a)",
+      "marks": 20,
+      "question": "What is 'Epoché'? How does Heidegger reject this method of phenomenological reduction? Explain Heidegger's concept of 'being in the world' as opposed to the concept of a transcendental ego.",
+      "demand_limbs": [
+        {
+          "limb": "define Husserlian epoché",
+          "anchors": [
+            "suspends the general thesis",
+            "transcendental ego"
+          ]
+        },
+        {
+          "limb": "explain Heidegger's rejection",
+          "anchors": [
+            "starting point is already an abstraction",
+            "never outside it"
+          ]
+        },
+        {
+          "limb": "develop being-in-the-world",
+          "anchors": [
+            "one unitary phenomenon",
+            "ready-to-hand"
+          ]
+        },
+        {
+          "limb": "contrast transcendental ego",
+          "anchors": [
+            "Against Husserl's constituting ego",
+            "thrown practical disclosedness"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "suspends the general thesis",
+        "thrown practical disclosedness"
+      ],
+      "connected_pairs": [
+        {
+          "left": "suspends the general thesis",
+          "right": "transcendental ego",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define Husserlian epoché"
+        },
+        {
+          "left": "starting point is already an abstraction",
+          "right": "never outside it",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain Heidegger's rejection"
+        },
+        {
+          "left": "one unitary phenomenon",
+          "right": "ready-to-hand",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "develop being-in-the-world"
+        },
+        {
+          "left": "Against Husserl's constituting ego",
+          "right": "thrown practical disclosedness",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "contrast transcendental ego"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "suspends the general thesis",
+          "right": "transcendental ego",
+          "relation_anchor": "transcendental ego",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define Husserlian epoché"
+        }
+      ]
+    },
+    {
+      "id": "2019 Q3(a)",
+      "marks": 20,
+      "question": "Is Dasein authentic existence for Heidegger? How does he relate temporality with Dasein? Discuss.",
+      "demand_limbs": [
+        {
+          "limb": "correct the premise about Dasein",
+          "anchors": [
+            "not by definition authentic existence",
+            "either authentically or inauthentically"
+          ]
+        },
+        {
+          "limb": "explain authenticity",
+          "anchors": [
+            "call of conscience",
+            "anticipatory resoluteness"
+          ]
+        },
+        {
+          "limb": "relate Care and temporality",
+          "anchors": [
+            "meaning is ecstatic temporality",
+            "future corresponds to projection"
+          ]
+        },
+        {
+          "limb": "evaluate the unfinished project",
+          "anchors": [
+            "Being and Time remains unfinished",
+            "not completed"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "anticipatory resoluteness",
+        "not completed"
+      ],
+      "connected_pairs": [
+        {
+          "left": "not by definition authentic existence",
+          "right": "either authentically or inauthentically",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "correct the premise about Dasein"
+        },
+        {
+          "left": "call of conscience",
+          "right": "anticipatory resoluteness",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain authenticity"
+        },
+        {
+          "left": "meaning is ecstatic temporality",
+          "right": "future corresponds to projection",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "relate Care and temporality"
+        },
+        {
+          "left": "Being and Time remains unfinished",
+          "right": "not completed",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "evaluate the unfinished project"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "not by definition authentic existence",
+          "right": "either authentically or inauthentically",
+          "relation_anchor": "either authentically or inauthentically",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "correct the premise about Dasein"
+        }
+      ]
+    },
+    {
+      "id": "2019 Q4(c)",
+      "marks": 15,
+      "question": "How does Sartre look at the problem of freedom of choice and determinism? Explain.",
+      "demand_limbs": [
+        {
+          "limb": "state the freedom thesis",
+          "anchors": [
+            "opposition between freedom and determinism",
+            "nihilating consciousness"
+          ]
+        },
+        {
+          "limb": "explain meaning-conferral",
+          "anchors": [
+            "meaning that a project confers",
+            "already expresses freedom"
+          ]
+        },
+        {
+          "limb": "distinguish situation from determinism",
+          "anchors": [
+            "freedom is therefore situated",
+            "restrict what can be done"
+          ]
+        },
+        {
+          "limb": "give a qualified verdict",
+          "anchors": [
+            "defensible conclusion",
+            "preserving real constraint"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "already expresses freedom",
+        "preserving real constraint"
+      ],
+      "connected_pairs": [
+        {
+          "left": "opposition between freedom and determinism",
+          "right": "nihilating consciousness",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "state the freedom thesis"
+        },
+        {
+          "left": "meaning that a project confers",
+          "right": "already expresses freedom",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain meaning-conferral"
+        },
+        {
+          "left": "freedom is therefore situated",
+          "right": "restrict what can be done",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "distinguish situation from determinism"
+        },
+        {
+          "left": "defensible conclusion",
+          "right": "preserving real constraint",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "give a qualified verdict"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "opposition between freedom and determinism",
+          "right": "nihilating consciousness",
+          "relation_anchor": "nihilating consciousness",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "state the freedom thesis"
+        }
+      ]
+    },
+    {
+      "id": "2020 Q3(a)",
+      "marks": 20,
+      "question": "What does Kierkegaard mean by saying “Subjectivity is the truth” in the context of the problem of 'the single individual'?",
+      "demand_limbs": [
+        {
+          "limb": "define subjective truth",
+          "anchors": [
+            "decisive thing is the how",
+            "passionate inwardness"
+          ]
+        },
+        {
+          "limb": "connect the single individual",
+          "anchors": [
+            "correlate of subjectivity",
+            "den Enkelte"
+          ]
+        },
+        {
+          "limb": "guard against relativism",
+          "anchors": [
+            "does not deny objective truth",
+            "mode of appropriation"
+          ]
+        },
+        {
+          "limb": "assess the anti-system claim",
+          "anchors": [
+            "permanent critique",
+            "impersonal system-philosophy"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "decisive thing is the how",
+        "permanent critique"
+      ],
+      "connected_pairs": [
+        {
+          "left": "decisive thing is the how",
+          "right": "passionate inwardness",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define subjective truth"
+        },
+        {
+          "left": "permanent critique",
+          "right": "impersonal system-philosophy",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "assess the anti-system claim"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "decisive thing is the how",
+          "right": "passionate inwardness",
+          "relation_anchor": "passionate inwardness",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define subjective truth"
+        }
+      ]
+    },
+    {
+      "id": "2020 Q4(a)",
+      "marks": 20,
+      "question": "“You can always make something out of what you have been made into.” Critically discuss this statement by Sartre with reference to his views on existentialism.",
+      "demand_limbs": [
+        {
+          "limb": "decode facticity and transcendence",
+          "anchors": [
+            "what you have been made into",
+            "make something out of"
+          ]
+        },
+        {
+          "limb": "explain situated freedom",
+          "anchors": [
+            "field of meaning",
+            "field of action"
+          ]
+        },
+        {
+          "limb": "press structural objections",
+          "anchors": [
+            "structural oppression",
+            "Critique of Dialectical Reason"
+          ]
+        },
+        {
+          "limb": "grade the quotation",
+          "anchors": [
+            "Read as",
+            "distorts Sartre's mature attempt"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "make something out of",
+        "distorts Sartre's mature attempt"
+      ],
+      "connected_pairs": [
+        {
+          "left": "what you have been made into",
+          "right": "make something out of",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "decode facticity and transcendence"
+        },
+        {
+          "left": "field of meaning",
+          "right": "field of action",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain situated freedom"
+        },
+        {
+          "left": "structural oppression",
+          "right": "Critique of Dialectical Reason",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "press structural objections"
+        },
+        {
+          "left": "Read as",
+          "right": "distorts Sartre's mature attempt",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "grade the quotation"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "what you have been made into",
+          "right": "make something out of",
+          "relation_anchor": "make something out of",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "decode facticity and transcendence"
+        }
+      ]
+    },
+    {
+      "id": "2021 Q4(b)",
+      "marks": 15,
+      "question": "“I can always choose, but I ought to know that if I do not choose, I am still choosing”. Critically discuss Sartre’s conception of choice and responsibility in the light of above statement.",
+      "demand_limbs": [
+        {
+          "limb": "explain non-choice as choice",
+          "anchors": [
+            "Deferring conforming or letting another decide",
+            "non-choice"
+          ]
+        },
+        {
+          "limb": "derive responsibility",
+          "anchors": [
+            "there are no excuses",
+            "Responsibility follows"
+          ]
+        },
+        {
+          "limb": "connect universal implication",
+          "anchors": [
+            "in choosing myself I choose man",
+            "image of human conduct"
+          ]
+        },
+        {
+          "limb": "qualify coercion and constraint",
+          "anchors": [
+            "Poverty coercion trauma",
+            "unequal situations"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "Deferring conforming or letting another decide",
+        "unequal situations"
+      ],
+      "connected_pairs": [
+        {
+          "left": "Deferring conforming or letting another decide",
+          "right": "non-choice",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain non-choice as choice"
+        },
+        {
+          "left": "there are no excuses",
+          "right": "Responsibility follows",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "derive responsibility"
+        },
+        {
+          "left": "in choosing myself I choose man",
+          "right": "image of human conduct",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "connect universal implication"
+        },
+        {
+          "left": "Poverty coercion trauma",
+          "right": "unequal situations",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "qualify coercion and constraint"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "Deferring conforming or letting another decide",
+          "right": "non-choice",
+          "relation_anchor": "non-choice",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain non-choice as choice"
+        }
+      ]
+    },
+    {
+      "id": "2022 Q2(a)",
+      "marks": 20,
+      "question": "Provide a critical account of Heidegger’s Being-in-the-world and discuss the problem of ‘authenticity’ in the context of Dasein.",
+      "demand_limbs": [
+        {
+          "limb": "explain unitary being-in-the-world",
+          "anchors": [
+            "names one phenomenon",
+            "subject and object"
+          ]
+        },
+        {
+          "limb": "develop worldhood and Care",
+          "anchors": [
+            "ready-to-hand equipment",
+            "unified as Care"
+          ]
+        },
+        {
+          "limb": "explain authenticity",
+          "anchors": [
+            "call of conscience",
+            "anticipatory resoluteness"
+          ]
+        },
+        {
+          "limb": "evaluate formal emptiness",
+          "anchors": [
+            "formally empty",
+            "insufficient as a moral ideal"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "names one phenomenon",
+        "insufficient as a moral ideal"
+      ],
+      "connected_pairs": [
+        {
+          "left": "names one phenomenon",
+          "right": "subject and object",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain unitary being-in-the-world"
+        },
+        {
+          "left": "ready-to-hand equipment",
+          "right": "unified as Care",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "develop worldhood and Care"
+        },
+        {
+          "left": "call of conscience",
+          "right": "anticipatory resoluteness",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain authenticity"
+        },
+        {
+          "left": "formally empty",
+          "right": "insufficient as a moral ideal",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "evaluate formal emptiness"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "names one phenomenon",
+          "right": "subject and object",
+          "relation_anchor": "subject and object",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain unitary being-in-the-world"
+        }
+      ]
+    },
+    {
+      "id": "2022 Q4(a)",
+      "marks": 20,
+      "question": "How does Soren Kierkegaard define the notion of ‘subjectivity’? Explain it with reference to three stages of existence as propounded by him.",
+      "demand_limbs": [
+        {
+          "limb": "define subjectivity",
+          "anchors": [
+            "passionate inward appropriation",
+            "objective what"
+          ]
+        },
+        {
+          "limb": "explain three stages",
+          "anchors": [
+            "aesthetic life",
+            "ethical life",
+            "religious life"
+          ]
+        },
+        {
+          "limb": "show qualitative transition",
+          "anchors": [
+            "qualitative spheres",
+            "requires decision"
+          ]
+        },
+        {
+          "limb": "evaluate faith and reason",
+          "anchors": [
+            "objection is fideism",
+            "reason and community are limited"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "objective what",
+        "reason and community are limited"
+      ],
+      "connected_pairs": [
+        {
+          "left": "passionate inward appropriation",
+          "right": "objective what",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define subjectivity"
+        },
+        {
+          "left": "aesthetic life",
+          "right": "ethical life",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain three stages"
+        },
+        {
+          "left": "qualitative spheres",
+          "right": "requires decision",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "show qualitative transition"
+        },
+        {
+          "left": "objection is fideism",
+          "right": "reason and community are limited",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "evaluate faith and reason"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "passionate inward appropriation",
+          "right": "objective what",
+          "relation_anchor": "objective what",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define subjectivity"
+        }
+      ]
+    },
+    {
+      "id": "2023 Q1(d)",
+      "marks": 10,
+      "question": "How does Kierkegaard argue against Hegel’s idea of universal spirit in favour of the individual as the essence of spirit? Critically discuss.",
+      "demand_limbs": [
+        {
+          "limb": "state Hegelian target",
+          "anchors": [
+            "universal Spirit",
+            "dialectical self-realization"
+          ]
+        },
+        {
+          "limb": "defend the existing individual",
+          "anchors": [
+            "single individual",
+            "existing thinker"
+          ]
+        },
+        {
+          "limb": "show structural contrasts",
+          "anchors": [
+            "Against mediation",
+            "against necessary sublation"
+          ]
+        },
+        {
+          "limb": "qualify the critique",
+          "anchors": [
+            "does not refute Hegel's social philosophy",
+            "exposes what a total standpoint omits"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "dialectical self-realization",
+        "exposes what a total standpoint omits"
+      ],
+      "connected_pairs": [
+        {
+          "left": "universal Spirit",
+          "right": "dialectical self-realization",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "state Hegelian target"
+        },
+        {
+          "left": "single individual",
+          "right": "existing thinker",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "defend the existing individual"
+        },
+        {
+          "left": "Against mediation",
+          "right": "against necessary sublation",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "show structural contrasts"
+        },
+        {
+          "left": "does not refute Hegel's social philosophy",
+          "right": "exposes what a total standpoint omits",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "qualify the critique"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "universal Spirit",
+          "right": "dialectical self-realization",
+          "relation_anchor": "dialectical self-realization",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "state Hegelian target"
+        }
+      ]
+    },
+    {
+      "id": "2023 Q3(c)",
+      "marks": 15,
+      "question": "“Consciousness is what it is not and is not what it is.” In the light of this statement bring out the chief features of Sartre’s conception of consciousness.",
+      "demand_limbs": [
+        {
+          "limb": "unpack both clauses",
+          "anchors": [
+            "is what it is not",
+            "is not what it is"
+          ]
+        },
+        {
+          "limb": "explain nihilation",
+          "anchors": [
+            "introduces distance into the given",
+            "questioning negating imagining"
+          ]
+        },
+        {
+          "limb": "derive freedom and bad faith",
+          "anchors": [
+            "it is free",
+            "bad faith"
+          ]
+        },
+        {
+          "limb": "assess coherence",
+          "anchors": [
+            "not formal contradiction",
+            "Read phenomenologically"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "introduces distance into the given",
+        "Read phenomenologically"
+      ],
+      "connected_pairs": [
+        {
+          "left": "is what it is not",
+          "right": "is not what it is",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "unpack both clauses"
+        },
+        {
+          "left": "introduces distance into the given",
+          "right": "questioning negating imagining",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain nihilation"
+        },
+        {
+          "left": "it is free",
+          "right": "bad faith",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "derive freedom and bad faith"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "is what it is not",
+          "right": "is not what it is",
+          "relation_anchor": "is not what it is",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "unpack both clauses"
+        }
+      ]
+    },
+    {
+      "id": "2024 Q1(e)",
+      "marks": 10,
+      "question": "How does Kierkegaard define truth in terms of subjectivity? Critically discuss.",
+      "demand_limbs": [
+        {
+          "limb": "define the how of appropriation",
+          "anchors": [
+            "mode of appropriation",
+            "subjective how"
+          ]
+        },
+        {
+          "limb": "distinguish objective truth",
+          "anchors": [
+            "retain objective standards",
+            "does not make factual truth depend"
+          ]
+        },
+        {
+          "limb": "name Climacus",
+          "anchors": [
+            "Johannes Climacus",
+            "Concluding Unscientific Postscript"
+          ]
+        },
+        {
+          "limb": "evaluate fideism",
+          "anchors": [
+            "main objection is fideism",
+            "reason is limited not worthless"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "Concluding Unscientific Postscript",
+        "reason is limited not worthless"
+      ],
+      "connected_pairs": [
+        {
+          "left": "mode of appropriation",
+          "right": "subjective how",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define the how of appropriation"
+        },
+        {
+          "left": "retain objective standards",
+          "right": "does not make factual truth depend",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "distinguish objective truth"
+        },
+        {
+          "left": "Johannes Climacus",
+          "right": "Concluding Unscientific Postscript",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "name Climacus"
+        },
+        {
+          "left": "main objection is fideism",
+          "right": "reason is limited not worthless",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "evaluate fideism"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "mode of appropriation",
+          "right": "subjective how",
+          "relation_anchor": "subjective how",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define the how of appropriation"
+        }
+      ]
+    },
+    {
+      "id": "2024 Q4(a)",
+      "marks": 20,
+      "question": "What do the existentialist thinkers mean by the slogan “existence precedes essence”? How is human existence related to human freedom according to them? Discuss.",
+      "demand_limbs": [
+        {
+          "limb": "explain Sartre's slogan",
+          "anchors": [
+            "Sartre's slogan",
+            "existence precedes essence"
+          ]
+        },
+        {
+          "limb": "differentiate the three thinkers",
+          "anchors": [
+            "Kierkegaard",
+            "Heidegger"
+          ]
+        },
+        {
+          "limb": "connect existence and freedom",
+          "anchors": [
+            "condemned to be free",
+            "Responsibility follows"
+          ]
+        },
+        {
+          "limb": "assess responsibility and value",
+          "anchors": [
+            "generate values",
+            "why one project is better"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "Sartre's slogan",
+        "why one project is better"
+      ],
+      "connected_pairs": [
+        {
+          "left": "Sartre's slogan",
+          "right": "existence precedes essence",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain Sartre's slogan"
+        },
+        {
+          "left": "Kierkegaard",
+          "right": "Heidegger",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "differentiate the three thinkers"
+        },
+        {
+          "left": "condemned to be free",
+          "right": "Responsibility follows",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "connect existence and freedom"
+        },
+        {
+          "left": "generate values",
+          "right": "why one project is better",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "assess responsibility and value"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "Sartre's slogan",
+          "right": "existence precedes essence",
+          "relation_anchor": "existence precedes essence",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain Sartre's slogan"
+        }
+      ]
+    },
+    {
+      "id": "2025 Q1(c)",
+      "marks": 10,
+      "question": "Explain the difference between being-for-itself and being-in-itself as presented by Sartre.",
+      "demand_limbs": [
+        {
+          "limb": "define en-soi",
+          "anchors": [
+            "in-itself is full",
+            "simply is what it is"
+          ]
+        },
+        {
+          "limb": "define pour-soi",
+          "anchors": [
+            "for-itself is consciousness",
+            "projecting beyond the given"
+          ]
+        },
+        {
+          "limb": "explain nihilation",
+          "anchors": [
+            "Through nihilation",
+            "introduces nothingness"
+          ]
+        },
+        {
+          "limb": "state the impossible synthesis",
+          "anchors": [
+            "impossible synthesis",
+            "useless passion"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "in-itself is full",
+        "useless passion"
+      ],
+      "connected_pairs": [
+        {
+          "left": "in-itself is full",
+          "right": "simply is what it is",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define en-soi"
+        },
+        {
+          "left": "for-itself is consciousness",
+          "right": "projecting beyond the given",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define pour-soi"
+        },
+        {
+          "left": "Through nihilation",
+          "right": "introduces nothingness",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain nihilation"
+        },
+        {
+          "left": "impossible synthesis",
+          "right": "useless passion",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "state the impossible synthesis"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "in-itself is full",
+          "right": "simply is what it is",
+          "relation_anchor": "simply is what it is",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define en-soi"
+        }
+      ]
+    },
+    {
+      "id": "2026 Q2(c)",
+      "marks": 15,
+      "question": "Describe Sartre's notion of consciousness as 'nothing'. How is it different from Husserl's notion of consciousness? Discuss.",
+      "demand_limbs": [
+        {
+          "limb": "describe consciousness as nothing",
+          "anchors": [
+            "lacks the plenitude",
+            "internal distance from being"
+          ]
+        },
+        {
+          "limb": "state shared intentionality",
+          "anchors": [
+            "shares Husserl's intentionality",
+            "pre-reflective awareness"
+          ]
+        },
+        {
+          "limb": "contrast the ego and constitution",
+          "anchors": [
+            "constituting subjectivity",
+            "transcendent object produced in reflection"
+          ]
+        },
+        {
+          "limb": "give a qualified comparison",
+          "anchors": [
+            "opposition should not be exaggerated",
+            "non-egological radicalization"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "internal distance from being",
+        "opposition should not be exaggerated"
+      ],
+      "connected_pairs": [
+        {
+          "left": "lacks the plenitude",
+          "right": "internal distance from being",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "describe consciousness as nothing"
+        },
+        {
+          "left": "shares Husserl's intentionality",
+          "right": "pre-reflective awareness",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "state shared intentionality"
+        },
+        {
+          "left": "constituting subjectivity",
+          "right": "transcendent object produced in reflection",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "contrast the ego and constitution"
+        },
+        {
+          "left": "opposition should not be exaggerated",
+          "right": "non-egological radicalization",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "give a qualified comparison"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "lacks the plenitude",
+          "right": "internal distance from being",
+          "relation_anchor": "internal distance from being",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "describe consciousness as nothing"
+        }
+      ]
+    },
+    {
+      "id": "2026 Q3(b)",
+      "marks": 15,
+      "question": "Explain Heidegger's conception of authenticity and inauthenticity as modes of Dasein's being.",
+      "demand_limbs": [
+        {
+          "limb": "define both modes",
+          "anchors": [
+            "existential modes",
+            "authentically through das Man"
+          ]
+        },
+        {
+          "limb": "explain das Man and falling",
+          "anchors": [
+            "anonymous one",
+            "Falling names"
+          ]
+        },
+        {
+          "limb": "explain resoluteness and death",
+          "anchors": [
+            "Being-toward-death",
+            "anticipatory resoluteness"
+          ]
+        },
+        {
+          "limb": "preserve the non-moral boundary",
+          "anchors": [
+            "not moral grades",
+            "rather than moral perfection"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "Falling names",
+        "rather than moral perfection"
+      ],
+      "connected_pairs": [
+        {
+          "left": "existential modes",
+          "right": "authentically through das Man",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define both modes"
+        },
+        {
+          "left": "anonymous one",
+          "right": "Falling names",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain das Man and falling"
+        },
+        {
+          "left": "Being-toward-death",
+          "right": "anticipatory resoluteness",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain resoluteness and death"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "existential modes",
+          "right": "authentically through das Man",
+          "relation_anchor": "authentically through das Man",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define both modes"
+        }
+      ]
+    }
+  ],
+  "originals": [
+    {
+      "id": "Original 1",
+      "marks": 10,
+      "question": "Distinguish Kierkegaardian anxiety from despair and explain how each bears on selfhood.",
+      "demand_limbs": [
+        {
+          "limb": "distinguish anxiety",
+          "anchors": [
+            "dizziness of freedom",
+            "no determinate object"
+          ]
+        },
+        {
+          "limb": "distinguish despair",
+          "anchors": [
+            "misrelation in the self's relation",
+            "apart from God"
+          ]
+        },
+        {
+          "limb": "connect both to selfhood",
+          "anchors": [
+            "formation of selfhood",
+            "selfhood is an achievement"
+          ]
+        },
+        {
+          "limb": "qualify the account",
+          "anchors": [
+            "limitation is theological",
+            "secular reach"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "dizziness of freedom",
+        "selfhood is an achievement"
+      ],
+      "connected_pairs": [
+        {
+          "left": "dizziness of freedom",
+          "right": "no determinate object",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "distinguish anxiety"
+        },
+        {
+          "left": "misrelation in the self's relation",
+          "right": "apart from God",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "distinguish despair"
+        },
+        {
+          "left": "limitation is theological",
+          "right": "secular reach",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "qualify the account"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "dizziness of freedom",
+          "right": "no determinate object",
+          "relation_anchor": "no determinate object",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "distinguish anxiety"
+        }
+      ]
+    },
+    {
+      "id": "Original 2",
+      "marks": 15,
+      "question": "Examine Sartre's claim that freedom is situated rather than arbitrary.",
+      "demand_limbs": [
+        {
+          "limb": "define situated freedom",
+          "anchors": [
+            "freedom exists only through",
+            "Facticity is what has been made"
+          ]
+        },
+        {
+          "limb": "distinguish arbitrary choice",
+          "anchors": [
+            "differs from arbitrary choice",
+            "cannot select any physical outcome"
+          ]
+        },
+        {
+          "limb": "state structural objection",
+          "anchors": [
+            "understates structural power",
+            "scarcity seriality"
+          ]
+        },
+        {
+          "limb": "give a qualified verdict",
+          "anchors": [
+            "not as independence",
+            "bodily historical and social limits"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "Facticity is what has been made",
+        "not as independence"
+      ],
+      "connected_pairs": [
+        {
+          "left": "freedom exists only through",
+          "right": "Facticity is what has been made",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define situated freedom"
+        },
+        {
+          "left": "differs from arbitrary choice",
+          "right": "cannot select any physical outcome",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "distinguish arbitrary choice"
+        },
+        {
+          "left": "understates structural power",
+          "right": "scarcity seriality",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "state structural objection"
+        },
+        {
+          "left": "not as independence",
+          "right": "bodily historical and social limits",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "give a qualified verdict"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "freedom exists only through",
+          "right": "Facticity is what has been made",
+          "relation_anchor": "Facticity is what has been made",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define situated freedom"
+        }
+      ]
+    },
+    {
+      "id": "Original 3",
+      "marks": 20,
+      "question": "Compare authenticity in Kierkegaard, Sartre and Heidegger, and assess whether the term names one doctrine.",
+      "demand_limbs": [
+        {
+          "limb": "compare three accounts",
+          "anchors": [
+            "faith freedom and finitude",
+            "Kierkegaard Sartre and Heidegger"
+          ]
+        },
+        {
+          "limb": "state Kierkegaard's ground",
+          "anchors": [
+            "self before God",
+            "substantive theological direction"
+          ]
+        },
+        {
+          "limb": "state Sartre and Heidegger",
+          "anchors": [
+            "owning both facticity and transcendence",
+            "anticipatory resoluteness"
+          ]
+        },
+        {
+          "limb": "assess doctrinal unity",
+          "anchors": [
+            "family resemblance rather than one",
+            "treated analogically"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "Kierkegaard Sartre and Heidegger",
+        "treated analogically"
+      ],
+      "connected_pairs": [
+        {
+          "left": "faith freedom and finitude",
+          "right": "Kierkegaard Sartre and Heidegger",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "compare three accounts"
+        },
+        {
+          "left": "self before God",
+          "right": "substantive theological direction",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "state Kierkegaard's ground"
+        },
+        {
+          "left": "owning both facticity and transcendence",
+          "right": "anticipatory resoluteness",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "state Sartre and Heidegger"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "faith freedom and finitude",
+          "right": "Kierkegaard Sartre and Heidegger",
+          "relation_anchor": "Kierkegaard Sartre and Heidegger",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "compare three accounts"
+        }
+      ]
+    }
+  ]
+}

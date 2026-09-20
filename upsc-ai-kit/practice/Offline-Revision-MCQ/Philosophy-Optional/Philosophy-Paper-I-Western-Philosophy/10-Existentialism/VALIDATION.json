@@ -1,0 +1,5747 @@
+{
+  "schema_version": 13,
+  "topic": "10 Existentialism",
+  "validated_at": "2026-09-20T18:10:24+05:30",
+  "result": "PASS",
+  "result_gate": "PASS only when every recorded check passes",
+  "pdf_generation": {
+    "mechanism": "C:/up/tools/unicode_markdown_pdf.py via installed Chrome and PyMuPDF",
+    "requested": true,
+    "files": {
+      "Revision-Guide.pdf": {
+        "source": "REVISION-GUIDE.md",
+        "exists": true,
+        "bytes": 1082808,
+        "sha256": "e10d5139b3729f90f6fc58fce4ab6c89bebce52d0e824a9114adc54dbefbe8f0",
+        "source_sha256": "c14c554a66a306c3e940cc85d640c168eee83bbb9ecfb182d0445a82a47db046",
+        "source_mtime_ns": 1789904333198794100,
+        "pdf_mtime_ns": 1789907957708960900
+      },
+      "MCQ-Questions.pdf": {
+        "source": "MCQ-QUESTIONS.md",
+        "exists": true,
+        "bytes": 212210,
+        "sha256": "55c09d426674280995b6adbec0b85fbfe7bf005eeef7b4ef81670db1e1002e60",
+        "source_sha256": "ea5158444fc9a957ba8c148afa9c2290707d79246dbae53fc517d2866cc5c709",
+        "source_mtime_ns": 1789906689155709000,
+        "pdf_mtime_ns": 1789907963519689700
+      },
+      "MCQ-Solutions.pdf": {
+        "source": "MCQ-SOLUTIONS.md",
+        "exists": true,
+        "bytes": 801942,
+        "sha256": "e234bf16880263d6ca473495652594709c0bbedfaac7927f81db2996d2c7d51f",
+        "source_sha256": "7eb1d7f570410b454a13ca86febb2920f49cbcb192a604ad329e5a46eceddb33",
+        "source_mtime_ns": 1789906689158028200,
+        "pdf_mtime_ns": 1789907976406780900
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "exists": true,
+        "bytes": 551865,
+        "sha256": "2c42d899aec21ae32db48f6191a7e44fc3e2b24f794b609a3045ce26e37a7ebb",
+        "source_sha256": "e15e2d3202ed1879840af845a7b4331d22bc7b8e3ea9b54bd3d322a9f3331532",
+        "source_mtime_ns": 1789907760747545000,
+        "pdf_mtime_ns": 1789907984228564900
+      }
+    },
+    "all_four_regenerated": true
+  },
+  "checks": {
+    "required_files": {
+      "README.md": true,
+      "REVISION-GUIDE.md": true,
+      "MCQ-QUESTIONS.md": true,
+      "MCQ-SOLUTIONS.md": true,
+      "COVERAGE-LEDGER.md": true,
+      "PRACTICE-LOG.md": true,
+      "ANSWER-WRITING-TOOLKIT.md": true,
+      "MCQ-AUDIT.json": true,
+      "PYQ-DEMAND-AUDIT.json": true,
+      "validate_package.py": true,
+      "pdf/Revision-Guide.pdf": true,
+      "pdf/MCQ-Questions.pdf": true,
+      "pdf/MCQ-Solutions.pdf": true,
+      "pdf/Answer-Writing-Toolkit.pdf": true
+    },
+    "mcq_numbering": {
+      "question_count": 74,
+      "solution_count": 74,
+      "consecutive": true,
+      "matching": true,
+      "four_options": true,
+      "pass": true
+    },
+    "question_answer_leakage": {
+      "**Answer:": false,
+      "Option explanations:": false,
+      "Correct proposition:": false,
+      "Repair action:": false
+    },
+    "answer_pattern": {
+      "key": "ADABCDDCADAADABDBADBACCBBCCDCACDBBAABABACCBDABCBBCDABBCCDAACDDCACDDBBCCDDC",
+      "distribution": {
+        "A": 18,
+        "D": 18,
+        "B": 18,
+        "C": 20
+      },
+      "maximum_run": 2,
+      "mechanical_abcd_rotation": false,
+      "pass": true
+    },
+    "option_and_cue_quality": {
+      "metric": "Unicode character count of visible options",
+      "correct_is_longest_count": 25,
+      "correct_is_longest_rate_percent": 33.78,
+      "uniquely_longest_correct_count": 22,
+      "uniquely_longest_rate_percent": 29.73,
+      "correct_mean_characters": 114.23,
+      "distractor_mean_characters": 112.59,
+      "comparability_outliers": [],
+      "incomplete_options": [],
+      "lexical_and_punctuation_features": {
+        "absolute_quantifier": {
+          "correct": 1,
+          "distractor": 8,
+          "correct_rate_percent": 1.35,
+          "distractor_rate_percent": 3.6,
+          "gap_percent": 2.25
+        },
+        "contrast_marker": {
+          "correct": 8,
+          "distractor": 13,
+          "correct_rate_percent": 10.81,
+          "distractor_rate_percent": 5.86,
+          "gap_percent": 4.95
+        },
+        "semicolon": {
+          "correct": 4,
+          "distractor": 6,
+          "correct_rate_percent": 5.41,
+          "distractor_rate_percent": 2.7,
+          "gap_percent": 2.7
+        },
+        "parentheses": {
+          "correct": 0,
+          "distractor": 0,
+          "correct_rate_percent": 0.0,
+          "distractor_rate_percent": 0.0,
+          "gap_percent": 0.0
+        },
+        "dash": {
+          "correct": 0,
+          "distractor": 0,
+          "correct_rate_percent": 0.0,
+          "distractor_rate_percent": 0.0,
+          "gap_percent": 0.0
+        }
+      },
+      "failed_feature_correlations": [],
+      "two_sentence_rate_gap_percent": 0.0,
+      "data_driven_token_ngram_correlation": {
+        "method": "Per-option presence counts for normalized 1-, 2- and 3-grams across 74 correct and 222 distractor options.",
+        "thresholds": {
+          "1": {
+            "automatic_exclusive_support": 8,
+            "statistical_minimum_support": 5,
+            "maximum_fisher_probability": 0.01
+          },
+          "2": {
+            "automatic_exclusive_support": 7,
+            "statistical_minimum_support": 5,
+            "maximum_fisher_probability": 0.01
+          },
+          "3": {
+            "automatic_exclusive_support": 6,
+            "statistical_minimum_support": 4,
+            "maximum_fisher_probability": 0.01
+          }
+        },
+        "allowlist": [
+          "being in the world",
+          "present at hand",
+          "ready to hand",
+          "relation to god",
+          "the transcendental ego",
+          "transcendental ego"
+        ],
+        "allowlist_scope": "Only unavoidable multiword doctrine terms are exempt; generic adverbs, determiners and generated filler are not allowlisted.",
+        "high_support_features_inspected": [
+          {
+            "ngram": 1,
+            "feature": "abandonment",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "abolishes",
+            "correct_count": 0,
+            "distractor_count": 6,
+            "support": 6,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.17495395
+          },
+          {
+            "ngram": 1,
+            "feature": "absence",
+            "correct_count": 2,
+            "distractor_count": 5,
+            "support": 7,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "absolute",
+            "correct_count": 0,
+            "distractor_count": 7,
+            "support": 7,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.13031053
+          },
+          {
+            "ngram": 1,
+            "feature": "accepts",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "account",
+            "correct_count": 1,
+            "distractor_count": 7,
+            "support": 8,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 1.8,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "action",
+            "correct_count": 2,
+            "distractor_count": 7,
+            "support": 9,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "after",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "all",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "alongside",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "already",
+            "correct_count": 3,
+            "distractor_count": 3,
+            "support": 6,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "anguish",
+            "correct_count": 2,
+            "distractor_count": 5,
+            "support": 7,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "anxiety",
+            "correct_count": 4,
+            "distractor_count": 12,
+            "support": 16,
+            "correct_rate_percent": 5.41,
+            "distractor_rate_percent": 5.41,
+            "rate_gap_percent": 0.0,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "any",
+            "correct_count": 1,
+            "distractor_count": 13,
+            "support": 14,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 5.86,
+            "rate_gap_percent": 4.5,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "are",
+            "correct_count": 3,
+            "distractor_count": 22,
+            "support": 25,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 9.91,
+            "rate_gap_percent": 5.86,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "artisan",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "atheism",
+            "correct_count": 2,
+            "distractor_count": 4,
+            "support": 6,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "authentic",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "authenticity",
+            "correct_count": 2,
+            "distractor_count": 11,
+            "support": 13,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 4.95,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "bad",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "becomes",
+            "correct_count": 2,
+            "distractor_count": 8,
+            "support": 10,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 3.6,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "been",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "before",
+            "correct_count": 5,
+            "distractor_count": 10,
+            "support": 15,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 4.5,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "beings",
+            "correct_count": 1,
+            "distractor_count": 6,
+            "support": 7,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "belongs",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "between",
+            "correct_count": 0,
+            "distractor_count": 7,
+            "support": 7,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.13031053
+          },
+          {
+            "ngram": 1,
+            "feature": "beyond",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "bodily",
+            "correct_count": 0,
+            "distractor_count": 7,
+            "support": 7,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.13031053
+          },
+          {
+            "ngram": 1,
+            "feature": "both",
+            "correct_count": 3,
+            "distractor_count": 8,
+            "support": 11,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 3.6,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "can",
+            "correct_count": 3,
+            "distractor_count": 2,
+            "support": 5,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 0.9,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "cannot",
+            "correct_count": 3,
+            "distractor_count": 3,
+            "support": 6,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "care",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "choice",
+            "correct_count": 2,
+            "distractor_count": 7,
+            "support": 9,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "code",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "command",
+            "correct_count": 0,
+            "distractor_count": 6,
+            "support": 6,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.17495395
+          },
+          {
+            "ngram": 1,
+            "feature": "commitment",
+            "correct_count": 5,
+            "distractor_count": 5,
+            "support": 10,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 4.5,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "complete",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "completed",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "consciousness",
+            "correct_count": 7,
+            "distractor_count": 27,
+            "support": 34,
+            "correct_rate_percent": 9.46,
+            "distractor_rate_percent": 12.16,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "container",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "crowd",
+            "correct_count": 1,
+            "distractor_count": 6,
+            "support": 7,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "danger",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "dasein",
+            "correct_count": 5,
+            "distractor_count": 14,
+            "support": 19,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 6.31,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "dasein's",
+            "correct_count": 2,
+            "distractor_count": 4,
+            "support": 6,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "death",
+            "correct_count": 2,
+            "distractor_count": 7,
+            "support": 9,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "denies",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "despair",
+            "correct_count": 3,
+            "distractor_count": 11,
+            "support": 14,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 4.95,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "detached",
+            "correct_count": 3,
+            "distractor_count": 4,
+            "support": 7,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "determinate",
+            "correct_count": 2,
+            "distractor_count": 4,
+            "support": 6,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "determines",
+            "correct_count": 0,
+            "distractor_count": 7,
+            "support": 7,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.13031053
+          },
+          {
+            "ngram": 1,
+            "feature": "discloses",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "distinction",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "divine",
+            "correct_count": 2,
+            "distractor_count": 11,
+            "support": 13,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 4.95,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "doctrine",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "does",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "duty",
+            "correct_count": 0,
+            "distractor_count": 7,
+            "support": 7,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.13031053
+          },
+          {
+            "ngram": 1,
+            "feature": "empirical",
+            "correct_count": 0,
+            "distractor_count": 6,
+            "support": 6,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.17495395
+          },
+          {
+            "ngram": 1,
+            "feature": "epoch",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "equipment",
+            "correct_count": 1,
+            "distractor_count": 10,
+            "support": 11,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 4.5,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "essence",
+            "correct_count": 2,
+            "distractor_count": 9,
+            "support": 11,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 4.05,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "established",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "ethical",
+            "correct_count": 2,
+            "distractor_count": 17,
+            "support": 19,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 7.66,
+            "rate_gap_percent": 4.95,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "events",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "existence",
+            "correct_count": 3,
+            "distractor_count": 12,
+            "support": 15,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 5.41,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "existential",
+            "correct_count": 3,
+            "distractor_count": 2,
+            "support": 5,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 0.9,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "existing",
+            "correct_count": 2,
+            "distractor_count": 4,
+            "support": 6,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "external",
+            "correct_count": 1,
+            "distractor_count": 8,
+            "support": 9,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 3.6,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "facticity",
+            "correct_count": 8,
+            "distractor_count": 11,
+            "support": 19,
+            "correct_rate_percent": 10.81,
+            "distractor_rate_percent": 4.95,
+            "rate_gap_percent": 5.86,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "faith",
+            "correct_count": 2,
+            "distractor_count": 14,
+            "support": 16,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 6.31,
+            "rate_gap_percent": 3.6,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "fear",
+            "correct_count": 1,
+            "distractor_count": 7,
+            "support": 8,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 1.8,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "fixed",
+            "correct_count": 3,
+            "distractor_count": 4,
+            "support": 7,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "formula",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "freedom",
+            "correct_count": 9,
+            "distractor_count": 12,
+            "support": 21,
+            "correct_rate_percent": 12.16,
+            "distractor_rate_percent": 5.41,
+            "rate_gap_percent": 6.76,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "future",
+            "correct_count": 1,
+            "distractor_count": 12,
+            "support": 13,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 5.41,
+            "rate_gap_percent": 4.05,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "grounds",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "having",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "heidegger",
+            "correct_count": 5,
+            "distractor_count": 16,
+            "support": 21,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 7.21,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "heidegger's",
+            "correct_count": 2,
+            "distractor_count": 21,
+            "support": 23,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 9.46,
+            "rate_gap_percent": 6.76,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "historical",
+            "correct_count": 0,
+            "distractor_count": 7,
+            "support": 7,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.13031053
+          },
+          {
+            "ngram": 1,
+            "feature": "history",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "human",
+            "correct_count": 5,
+            "distractor_count": 12,
+            "support": 17,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 5.41,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "husserl",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "husserl's",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "identical",
+            "correct_count": 1,
+            "distractor_count": 10,
+            "support": 11,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 4.5,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "identifies",
+            "correct_count": 0,
+            "distractor_count": 6,
+            "support": 6,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.17495395
+          },
+          {
+            "ngram": 1,
+            "feature": "inauthenticity",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "independently",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "individual",
+            "correct_count": 0,
+            "distractor_count": 7,
+            "support": 7,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.13031053
+          },
+          {
+            "ngram": 1,
+            "feature": "intentional",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "internal",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "involvement",
+            "correct_count": 2,
+            "distractor_count": 8,
+            "support": 10,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 3.6,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "inwardness",
+            "correct_count": 2,
+            "distractor_count": 4,
+            "support": 6,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "itself",
+            "correct_count": 5,
+            "distractor_count": 8,
+            "support": 13,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 3.6,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "kierkegaard",
+            "correct_count": 6,
+            "distractor_count": 15,
+            "support": 21,
+            "correct_rate_percent": 8.11,
+            "distractor_rate_percent": 6.76,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "kierkegaard's",
+            "correct_count": 1,
+            "distractor_count": 15,
+            "support": 16,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 6.76,
+            "rate_gap_percent": 5.41,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "lacks",
+            "correct_count": 4,
+            "distractor_count": 1,
+            "support": 5,
+            "correct_rate_percent": 5.41,
+            "distractor_rate_percent": 0.45,
+            "rate_gap_percent": 4.95,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "leap",
+            "correct_count": 3,
+            "distractor_count": 3,
+            "support": 6,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "makes",
+            "correct_count": 3,
+            "distractor_count": 8,
+            "support": 11,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 3.6,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "material",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "merely",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "moral",
+            "correct_count": 3,
+            "distractor_count": 13,
+            "support": 16,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 5.86,
+            "rate_gap_percent": 1.8,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "must",
+            "correct_count": 3,
+            "distractor_count": 2,
+            "support": 5,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 0.9,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "non",
+            "correct_count": 4,
+            "distractor_count": 3,
+            "support": 7,
+            "correct_rate_percent": 5.41,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 4.05,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "object",
+            "correct_count": 5,
+            "distractor_count": 5,
+            "support": 10,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 4.5,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "objective",
+            "correct_count": 1,
+            "distractor_count": 6,
+            "support": 7,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "objects",
+            "correct_count": 2,
+            "distractor_count": 11,
+            "support": 13,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 4.95,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "one",
+            "correct_count": 3,
+            "distractor_count": 9,
+            "support": 12,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 4.05,
+            "rate_gap_percent": 0.0,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "only",
+            "correct_count": 0,
+            "distractor_count": 6,
+            "support": 6,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.17495395
+          },
+          {
+            "ngram": 1,
+            "feature": "ontology",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "ordinary",
+            "correct_count": 2,
+            "distractor_count": 9,
+            "support": 11,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 4.05,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "other",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "paradox",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "person",
+            "correct_count": 2,
+            "distractor_count": 8,
+            "support": 10,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 3.6,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "personal",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "physical",
+            "correct_count": 0,
+            "distractor_count": 6,
+            "support": 6,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.17495395
+          },
+          {
+            "ngram": 1,
+            "feature": "possess",
+            "correct_count": 1,
+            "distractor_count": 7,
+            "support": 8,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 1.8,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "possibilities",
+            "correct_count": 5,
+            "distractor_count": 2,
+            "support": 7,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 0.9,
+            "rate_gap_percent": 5.86,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "possibility",
+            "correct_count": 7,
+            "distractor_count": 2,
+            "support": 9,
+            "correct_rate_percent": 9.46,
+            "distractor_rate_percent": 0.9,
+            "rate_gap_percent": 8.56,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "possible",
+            "correct_count": 5,
+            "distractor_count": 1,
+            "support": 6,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 0.45,
+            "rate_gap_percent": 6.31,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "power",
+            "correct_count": 2,
+            "distractor_count": 4,
+            "support": 6,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "practical",
+            "correct_count": 1,
+            "distractor_count": 14,
+            "support": 15,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 6.31,
+            "rate_gap_percent": 4.95,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "pre",
+            "correct_count": 2,
+            "distractor_count": 4,
+            "support": 6,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "primordial",
+            "correct_count": 2,
+            "distractor_count": 7,
+            "support": 9,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "produced",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "project",
+            "correct_count": 4,
+            "distractor_count": 5,
+            "support": 9,
+            "correct_rate_percent": 5.41,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "projection",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "projects",
+            "correct_count": 6,
+            "distractor_count": 15,
+            "support": 21,
+            "correct_rate_percent": 8.11,
+            "distractor_rate_percent": 6.76,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "public",
+            "correct_count": 3,
+            "distractor_count": 9,
+            "support": 12,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 4.05,
+            "rate_gap_percent": 0.0,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "rather",
+            "correct_count": 5,
+            "distractor_count": 2,
+            "support": 7,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 0.9,
+            "rate_gap_percent": 5.86,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "reduction",
+            "correct_count": 1,
+            "distractor_count": 7,
+            "support": 8,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 1.8,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "reflective",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "rejects",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "relations",
+            "correct_count": 1,
+            "distractor_count": 6,
+            "support": 7,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "religious",
+            "correct_count": 1,
+            "distractor_count": 20,
+            "support": 21,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 9.01,
+            "rate_gap_percent": 7.66,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "remains",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "removes",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "resoluteness",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "responsibility",
+            "correct_count": 6,
+            "distractor_count": 8,
+            "support": 14,
+            "correct_rate_percent": 8.11,
+            "distractor_rate_percent": 3.6,
+            "rate_gap_percent": 4.5,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "responsible",
+            "correct_count": 2,
+            "distractor_count": 6,
+            "support": 8,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 0.0,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "reveals",
+            "correct_count": 3,
+            "distractor_count": 9,
+            "support": 12,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 4.05,
+            "rate_gap_percent": 0.0,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "reversal",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "sartre",
+            "correct_count": 6,
+            "distractor_count": 17,
+            "support": 23,
+            "correct_rate_percent": 8.11,
+            "distractor_rate_percent": 7.66,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "sartre's",
+            "correct_count": 2,
+            "distractor_count": 13,
+            "support": 15,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 5.86,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "self",
+            "correct_count": 7,
+            "distractor_count": 17,
+            "support": 24,
+            "correct_rate_percent": 9.46,
+            "distractor_rate_percent": 7.66,
+            "rate_gap_percent": 1.8,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "should",
+            "correct_count": 0,
+            "distractor_count": 7,
+            "support": 7,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.13031053
+          },
+          {
+            "ngram": 1,
+            "feature": "significance",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "social",
+            "correct_count": 1,
+            "distractor_count": 14,
+            "support": 15,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 6.31,
+            "rate_gap_percent": 4.95,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "sphere",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "stage",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "subject",
+            "correct_count": 3,
+            "distractor_count": 3,
+            "support": 6,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "substance",
+            "correct_count": 0,
+            "distractor_count": 6,
+            "support": 6,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.17495395
+          },
+          {
+            "ngram": 1,
+            "feature": "suspends",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "system",
+            "correct_count": 2,
+            "distractor_count": 4,
+            "support": 6,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "temporality",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "than",
+            "correct_count": 5,
+            "distractor_count": 3,
+            "support": 8,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 5.41,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "theoretical",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "they",
+            "correct_count": 2,
+            "distractor_count": 8,
+            "support": 10,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 3.6,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "time",
+            "correct_count": 1,
+            "distractor_count": 11,
+            "support": 12,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 4.95,
+            "rate_gap_percent": 3.6,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "transcendence",
+            "correct_count": 5,
+            "distractor_count": 6,
+            "support": 11,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 4.05,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "treats",
+            "correct_count": 2,
+            "distractor_count": 6,
+            "support": 8,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 0.0,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "truth",
+            "correct_count": 3,
+            "distractor_count": 5,
+            "support": 8,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 1.8,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "universal",
+            "correct_count": 2,
+            "distractor_count": 11,
+            "support": 13,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 4.95,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "use",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "values",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "when",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 1,
+            "feature": "whenever",
+            "correct_count": 0,
+            "distractor_count": 6,
+            "support": 6,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.17495395
+          },
+          {
+            "ngram": 1,
+            "feature": "whereas",
+            "correct_count": 4,
+            "distractor_count": 11,
+            "support": 15,
+            "correct_rate_percent": 5.41,
+            "distractor_rate_percent": 4.95,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "which",
+            "correct_count": 4,
+            "distractor_count": 13,
+            "support": 17,
+            "correct_rate_percent": 5.41,
+            "distractor_rate_percent": 5.86,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "within",
+            "correct_count": 4,
+            "distractor_count": 6,
+            "support": 10,
+            "correct_rate_percent": 5.41,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "without",
+            "correct_count": 9,
+            "distractor_count": 10,
+            "support": 19,
+            "correct_rate_percent": 12.16,
+            "distractor_rate_percent": 4.5,
+            "rate_gap_percent": 7.66,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 1,
+            "feature": "worldly",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "a determinate",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "a divine",
+            "correct_count": 2,
+            "distractor_count": 7,
+            "support": 9,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 3.15,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "account of",
+            "correct_count": 0,
+            "distractor_count": 6,
+            "support": 6,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.17495395
+          },
+          {
+            "ngram": 2,
+            "feature": "and despair",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "and heidegger",
+            "correct_count": 3,
+            "distractor_count": 5,
+            "support": 8,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 1.8,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "and present",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "and sartre",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "and transcendence",
+            "correct_count": 3,
+            "distractor_count": 2,
+            "support": 5,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 0.9,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "bad faith",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "being and",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 2,
+            "feature": "being with",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 2,
+            "feature": "consciousness is",
+            "correct_count": 0,
+            "distractor_count": 6,
+            "support": 6,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 2.7,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.17495395
+          },
+          {
+            "ngram": 2,
+            "feature": "despair is",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "divine artisan",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 2,
+            "feature": "ego is",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "facticity and",
+            "correct_count": 3,
+            "distractor_count": 4,
+            "support": 7,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "hand equipment",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 2,
+            "feature": "having been",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "human beings",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "is heidegger's",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 2,
+            "feature": "is sartre's",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 2,
+            "feature": "kierkegaard's religious",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 2,
+            "feature": "of being",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "of faith",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "ordinary time",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "practical involvement",
+            "correct_count": 1,
+            "distractor_count": 6,
+            "support": 7,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.7,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "rather than",
+            "correct_count": 5,
+            "distractor_count": 2,
+            "support": 7,
+            "correct_rate_percent": 6.76,
+            "distractor_rate_percent": 0.9,
+            "rate_gap_percent": 5.86,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "responsibility and",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "self identical",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "should be",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 2,
+            "feature": "the crowd",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "the ego",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "the leap",
+            "correct_count": 2,
+            "distractor_count": 3,
+            "support": 5,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 1.35,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "the self",
+            "correct_count": 2,
+            "distractor_count": 4,
+            "support": 6,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "they are",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "through which",
+            "correct_count": 1,
+            "distractor_count": 5,
+            "support": 6,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 0.9,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "time is",
+            "correct_count": 1,
+            "distractor_count": 4,
+            "support": 5,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 0.45,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 2,
+            "feature": "universal ethical",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 3,
+            "feature": "a transcendental ego",
+            "correct_count": 0,
+            "distractor_count": 4,
+            "support": 4,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 1.8,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.31425585
+          },
+          {
+            "ngram": 3,
+            "feature": "ahead of itself",
+            "correct_count": 2,
+            "distractor_count": 2,
+            "support": 4,
+            "correct_rate_percent": 2.7,
+            "distractor_rate_percent": 0.9,
+            "rate_gap_percent": 1.8,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 3,
+            "feature": "be attributed to",
+            "correct_count": 1,
+            "distractor_count": 3,
+            "support": 4,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 0.0,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 3,
+            "feature": "facticity and transcendence",
+            "correct_count": 3,
+            "distractor_count": 2,
+            "support": 5,
+            "correct_rate_percent": 4.05,
+            "distractor_rate_percent": 0.9,
+            "rate_gap_percent": 3.15,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 3,
+            "feature": "it should be",
+            "correct_count": 0,
+            "distractor_count": 4,
+            "support": 4,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 1.8,
+            "rate_gap_percent": 1.8,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.31425585
+          },
+          {
+            "ngram": 3,
+            "feature": "the ego is",
+            "correct_count": 1,
+            "distractor_count": 3,
+            "support": 4,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 0.0,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          },
+          {
+            "ngram": 3,
+            "feature": "to hand equipment",
+            "correct_count": 0,
+            "distractor_count": 5,
+            "support": 5,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 2.25,
+            "rate_gap_percent": 2.25,
+            "class_exclusive": true,
+            "exclusive_fisher_probability": 0.23461567
+          },
+          {
+            "ngram": 3,
+            "feature": "whereas ordinary time",
+            "correct_count": 1,
+            "distractor_count": 3,
+            "support": 4,
+            "correct_rate_percent": 1.35,
+            "distractor_rate_percent": 1.35,
+            "rate_gap_percent": 0.0,
+            "class_exclusive": false,
+            "exclusive_fisher_probability": null
+          }
+        ],
+        "strong_class_exclusive_features": [],
+        "pass": true
+      },
+      "locked_bands": {
+        "correct_longest": [
+          15,
+          40
+        ],
+        "unique_longest": [
+          5,
+          30
+        ]
+      },
+      "pass": true
+    },
+    "parsed_mcq_audit": {
+      "schema_version": 4,
+      "manifest_question_count": 74,
+      "visible_question_count": 74,
+      "repeated_normalized_rationales": [],
+      "repeated_normalized_sentence_frames": {},
+      "near_duplicate_rationale_pairs": [],
+      "within_item_option_similarity_flags": [],
+      "exact_duplicate_options_across_items": [],
+      "generic_negative_controls_rejected": {
+        "control_1": true,
+        "control_2": true,
+        "control_3": true
+      },
+      "failures": [],
+      "mechanical_limitations": "Quoted predicates, correction anchors, frame diversity and similarity checks can reject boilerplate; they cannot independently establish philosophical truth.",
+      "pass": true
+    },
+    "duplicate_tested_inferences": {
+      "exact_duplicate_stems": false,
+      "highest_stem_similarity": 0.703,
+      "highest_stem_pair": [
+        21,
+        23
+      ],
+      "stem_similarity_flags": [],
+      "highest_tested_inference_similarity": 0.503,
+      "highest_inference_pair": [
+        28,
+        30
+      ],
+      "tested_inference_similarity_flags": [],
+      "pass": true
+    },
+    "solutions_complete": {
+      "counts": {
+        "**Answer:": 74,
+        "**Option explanations:**": 74,
+        "**Examiner trap:**": 74,
+        "**Repair action:**": 74,
+        "**Coverage mapping:**": 74,
+        "**PYQ linkage:**": 74
+      },
+      "expected": 74,
+      "pass": true
+    },
+    "source_lineage": {
+      "source_files_read": {
+        "g6_session": {
+          "path": "knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-10\\g6\\topic-10_Complete-Learning-Session_2026-09-02.md",
+          "bytes": 351178,
+          "sha256": "94069fd91e52aedfd69237f262f02d4e38b787f7d932b62d77b86bc3670953df"
+        },
+        "g6_workbook": {
+          "path": "knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-10\\g6\\topic-10_Solved-Practice-Workbook_2026-09-02.md",
+          "bytes": 166524,
+          "sha256": "05be3d2133d62a52cc4f2e23665828fb9b88a90bfb828971463f403b255073ea"
+        },
+        "canonical": {
+          "path": "knowledge\\Philosophy\\paper-1\\western\\Existentialism.md",
+          "bytes": 105923,
+          "sha256": "b0cd53213051f4dc9d751fb06f67372bb57363ecdcf8b4dbe4d2790d617a6527"
+        }
+      },
+      "source_cell_count": 11,
+      "source_cells": {
+        "S01": {
+          "coverage": "C01",
+          "witnesses": {
+            "family resemblance": true,
+            "Kierkegaard": true,
+            "Heidegger": true,
+            "Sartre": true
+          },
+          "pass": true
+        },
+        "S02": {
+          "coverage": "C02",
+          "witnesses": {
+            "single individual": true,
+            "subjectivity": true,
+            "pseudonym": true
+          },
+          "pass": true
+        },
+        "S03": {
+          "coverage": "C03",
+          "witnesses": {
+            "aesthetic": true,
+            "ethical": true,
+            "religious": true,
+            "anxiety": true,
+            "despair": true
+          },
+          "pass": true
+        },
+        "S04": {
+          "coverage": "C04",
+          "witnesses": {
+            "paper-knife": true,
+            "existence precedes essence": true,
+            "humanism": true
+          },
+          "pass": true
+        },
+        "S05": {
+          "coverage": "C05",
+          "witnesses": {
+            "en-soi": true,
+            "pour-soi": true,
+            "nothingness": true,
+            "nihilation": true
+          },
+          "pass": true
+        },
+        "S06": {
+          "coverage": "C06",
+          "witnesses": {
+            "facticity": true,
+            "transcendence": true,
+            "freedom": true,
+            "responsibility": true
+          },
+          "pass": true
+        },
+        "S07": {
+          "coverage": "C07",
+          "witnesses": {
+            "bad faith": true,
+            "waiter": true,
+            "Look": true,
+            "shame": true
+          },
+          "pass": true
+        },
+        "S08": {
+          "coverage": "C08",
+          "witnesses": {
+            "Dasein": true,
+            "ready-to-hand": true,
+            "existentialia": true,
+            "Care": true
+          },
+          "pass": true
+        },
+        "S09": {
+          "coverage": "C09",
+          "witnesses": {
+            "das Man": true,
+            "falling": true,
+            "being-toward-death": true,
+            "resoluteness": true
+          },
+          "pass": true
+        },
+        "S10": {
+          "coverage": "C10",
+          "witnesses": {
+            "temporality": true,
+            "ecstases": true,
+            "future": true,
+            "vulgar": true
+          },
+          "pass": true
+        },
+        "S11": {
+          "coverage": "C11",
+          "witnesses": {
+            "formal emptiness": true,
+            "fideism": true,
+            "oppression": true,
+            "Sartre": true
+          },
+          "pass": true
+        }
+      },
+      "lineage_mapping_count": 74,
+      "lineage_counts": {
+        "New": 55,
+        "Adapted": 19
+      },
+      "mapped_unique_source_candidates": 19,
+      "unmapped_source_candidates": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        13,
+        15,
+        18,
+        20,
+        21,
+        23,
+        24,
+        25,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        37,
+        40,
+        41,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        54,
+        55,
+        56
+      ],
+      "failures": [],
+      "mechanical_limitations": "This checks file identity, anchors, witnesses and declared candidate links; it does not prove semantic completeness.",
+      "pass": true
+    },
+    "doctrinal_coverage": {
+      "required_claims": {
+        "family_not_flattened": true,
+        "kierkegaard_complete": true,
+        "nietzsche_bounded": true,
+        "heidegger_complete": true,
+        "heidegger_nonmoral": true,
+        "sartre_complete": true,
+        "freedom_not_arbitrary": true,
+        "husserl_boundary": true,
+        "variants_and_absurdity": true,
+        "criticism": true
+      },
+      "forbidden_claim_hits": {
+        "all_existentialists_own_slogan": [],
+        "sartrean_omnipotence": [],
+        "heidegger_moral_authenticity": [],
+        "sartre_refuted_husserl": []
+      },
+      "pass": true
+    },
+    "answer_writing_toolkit": {
+      "verified_pyqs": {
+        "2018 Q1(d)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured": 179,
+          "stated": 179,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 3,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2018 Q4(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured": 350,
+          "stated": 350,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 5,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2019 Q3(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured": 347,
+          "stated": 347,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 3,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2019 Q4(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured": 259,
+          "stated": 259,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 4,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2020 Q3(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured": 365,
+          "stated": 365,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 5,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2020 Q4(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured": 347,
+          "stated": 347,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 5,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2021 Q4(b)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured": 267,
+          "stated": 267,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 5,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2022 Q2(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured": 340,
+          "stated": 340,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 4,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2022 Q4(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured": 350,
+          "stated": 350,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 4,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2023 Q1(d)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured": 184,
+          "stated": 184,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 3,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2023 Q3(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured": 250,
+          "stated": 250,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 4,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2024 Q1(e)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured": 176,
+          "stated": 176,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 3,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2024 Q4(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured": 356,
+          "stated": 356,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 5,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2025 Q1(c)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured": 164,
+          "stated": 164,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 3,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2026 Q2(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured": 255,
+          "stated": 255,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 4,
+            "pass": true
+          },
+          "exact_prompt": true
+        },
+        "2026 Q3(b)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured": 251,
+          "stated": 251,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 4,
+            "pass": true
+          },
+          "exact_prompt": true
+        }
+      },
+      "original_solved_practice": {
+        "## Original 1 · 10 marks": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured": 170,
+          "stated": 170,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 3,
+            "pass": true
+          }
+        },
+        "## Original 2 · 15 marks": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured": 258,
+          "stated": 258,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 5,
+            "pass": true
+          }
+        },
+        "## Original 3 · 20 marks": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured": 341,
+          "stated": 341,
+          "in_band": true,
+          "matches_stated": true,
+          "demand_decoding": true,
+          "qualification": true,
+          "coverage_check": true,
+          "unsupported_marks_claim_absent": true,
+          "answer_integrity": {
+            "straight_quotes_balanced": true,
+            "curly_quotes_balanced": true,
+            "leaked_outline_labels": [],
+            "fragmentary_sentences": [],
+            "paragraph_count": 7,
+            "pass": true
+          }
+        }
+      },
+      "expected_pyqs": [
+        "2018 Q1(d)",
+        "2018 Q4(a)",
+        "2019 Q3(a)",
+        "2019 Q4(c)",
+        "2020 Q3(a)",
+        "2020 Q4(a)",
+        "2021 Q4(b)",
+        "2022 Q2(a)",
+        "2022 Q4(a)",
+        "2023 Q1(d)",
+        "2023 Q3(c)",
+        "2024 Q1(e)",
+        "2024 Q4(a)",
+        "2025 Q1(c)",
+        "2026 Q2(c)",
+        "2026 Q3(b)"
+      ],
+      "learner_answers_not_official_keys": true,
+      "failures": [],
+      "pass": true
+    },
+    "pyq_demand_audit": {
+      "owned_pyq_count": 16,
+      "original_answer_count": 3,
+      "expected_owned_pyqs": [
+        "2018 Q1(d)",
+        "2018 Q4(a)",
+        "2019 Q3(a)",
+        "2019 Q4(c)",
+        "2020 Q3(a)",
+        "2020 Q4(a)",
+        "2021 Q4(b)",
+        "2022 Q2(a)",
+        "2022 Q4(a)",
+        "2023 Q1(d)",
+        "2023 Q3(c)",
+        "2024 Q1(e)",
+        "2024 Q4(a)",
+        "2025 Q1(c)",
+        "2026 Q2(c)",
+        "2026 Q3(b)"
+      ],
+      "component_checks": {
+        "2018 Q1(d)": {
+          "limbs": [
+            {
+              "limb": "connect inauthenticity and bad faith",
+              "anchors": [
+                "settled way of living in bad faith",
+                "bad faith denies this unstable unity"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "explain alienation",
+              "anchors": [
+                "Alienation follows",
+                "Under the Other's Look"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "use facticity and transcendence",
+              "anchors": [
+                "facticity",
+                "transcendence"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "qualify through social constraint",
+              "anchors": [
+                "oppression can impose roles",
+                "later idea of situated freedom"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "bad faith denies this unstable unity",
+              "oppression can impose roles"
+            ],
+            "order_positions": [
+              0,
+              2
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "settled way of living in bad faith",
+                "right": "bad faith denies this unstable unity",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "connect inauthenticity and bad faith",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "Alienation follows",
+                "right": "Under the Other's Look",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain alienation",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "facticity",
+                "right": "transcendence",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "use facticity and transcendence",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "oppression can impose roles",
+                "right": "later idea of situated freedom",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "qualify through social constraint",
+                "left_paragraph": 2,
+                "right_paragraph": 2,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "settled way of living in bad faith",
+                "right": "bad faith denies this unstable unity",
+                "relation_anchor": "bad faith denies this unstable unity",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "connect inauthenticity and bad faith",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2018 Q4(a)": {
+          "limbs": [
+            {
+              "limb": "define Husserlian epoché",
+              "anchors": [
+                "suspends the general thesis",
+                "transcendental ego"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "explain Heidegger's rejection",
+              "anchors": [
+                "starting point is already an abstraction",
+                "never outside it"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "develop being-in-the-world",
+              "anchors": [
+                "one unitary phenomenon",
+                "ready-to-hand"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "contrast transcendental ego",
+              "anchors": [
+                "Against Husserl's constituting ego",
+                "thrown practical disclosedness"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "suspends the general thesis",
+              "thrown practical disclosedness"
+            ],
+            "order_positions": [
+              1,
+              3
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "suspends the general thesis",
+                "right": "transcendental ego",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define Husserlian epoché",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "starting point is already an abstraction",
+                "right": "never outside it",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain Heidegger's rejection",
+                "left_paragraph": 2,
+                "right_paragraph": 2,
+                "pass": true
+              },
+              {
+                "left": "one unitary phenomenon",
+                "right": "ready-to-hand",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "develop being-in-the-world",
+                "left_paragraph": 3,
+                "right_paragraph": 3,
+                "pass": true
+              },
+              {
+                "left": "Against Husserl's constituting ego",
+                "right": "thrown practical disclosedness",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "contrast transcendental ego",
+                "left_paragraph": 3,
+                "right_paragraph": 3,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "suspends the general thesis",
+                "right": "transcendental ego",
+                "relation_anchor": "transcendental ego",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define Husserlian epoché",
+                "paragraphs": [
+                  1,
+                  1,
+                  1
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2019 Q3(a)": {
+          "limbs": [
+            {
+              "limb": "correct the premise about Dasein",
+              "anchors": [
+                "not by definition authentic existence",
+                "either authentically or inauthentically"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "explain authenticity",
+              "anchors": [
+                "call of conscience",
+                "anticipatory resoluteness"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "relate Care and temporality",
+              "anchors": [
+                "meaning is ecstatic temporality",
+                "future corresponds to projection"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "evaluate the unfinished project",
+              "anchors": [
+                "Being and Time remains unfinished",
+                "not completed"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "anticipatory resoluteness",
+              "not completed"
+            ],
+            "order_positions": [
+              0,
+              2
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "not by definition authentic existence",
+                "right": "either authentically or inauthentically",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "correct the premise about Dasein",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "call of conscience",
+                "right": "anticipatory resoluteness",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain authenticity",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "meaning is ecstatic temporality",
+                "right": "future corresponds to projection",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "relate Care and temporality",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "Being and Time remains unfinished",
+                "right": "not completed",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "evaluate the unfinished project",
+                "left_paragraph": 2,
+                "right_paragraph": 2,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "not by definition authentic existence",
+                "right": "either authentically or inauthentically",
+                "relation_anchor": "either authentically or inauthentically",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "correct the premise about Dasein",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2019 Q4(c)": {
+          "limbs": [
+            {
+              "limb": "state the freedom thesis",
+              "anchors": [
+                "opposition between freedom and determinism",
+                "nihilating consciousness"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "explain meaning-conferral",
+              "anchors": [
+                "meaning that a project confers",
+                "already expresses freedom"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "distinguish situation from determinism",
+              "anchors": [
+                "freedom is therefore situated",
+                "restrict what can be done"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "give a qualified verdict",
+              "anchors": [
+                "defensible conclusion",
+                "preserving real constraint"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "already expresses freedom",
+              "preserving real constraint"
+            ],
+            "order_positions": [
+              0,
+              3
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "opposition between freedom and determinism",
+                "right": "nihilating consciousness",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "state the freedom thesis",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "meaning that a project confers",
+                "right": "already expresses freedom",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain meaning-conferral",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "freedom is therefore situated",
+                "right": "restrict what can be done",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "distinguish situation from determinism",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "defensible conclusion",
+                "right": "preserving real constraint",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "give a qualified verdict",
+                "left_paragraph": 3,
+                "right_paragraph": 3,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "opposition between freedom and determinism",
+                "right": "nihilating consciousness",
+                "relation_anchor": "nihilating consciousness",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "state the freedom thesis",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2020 Q3(a)": {
+          "limbs": [
+            {
+              "limb": "define subjective truth",
+              "anchors": [
+                "decisive thing is the how",
+                "passionate inwardness"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "connect the single individual",
+              "anchors": [
+                "correlate of subjectivity",
+                "den Enkelte"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "guard against relativism",
+              "anchors": [
+                "does not deny objective truth",
+                "mode of appropriation"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "assess the anti-system claim",
+              "anchors": [
+                "permanent critique",
+                "impersonal system-philosophy"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "decisive thing is the how",
+              "permanent critique"
+            ],
+            "order_positions": [
+              0,
+              4
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "decisive thing is the how",
+                "right": "passionate inwardness",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define subjective truth",
+                "left_paragraph": 0,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "permanent critique",
+                "right": "impersonal system-philosophy",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "assess the anti-system claim",
+                "left_paragraph": 4,
+                "right_paragraph": 4,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "decisive thing is the how",
+                "right": "passionate inwardness",
+                "relation_anchor": "passionate inwardness",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define subjective truth",
+                "paragraphs": [
+                  0,
+                  1,
+                  1
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2020 Q4(a)": {
+          "limbs": [
+            {
+              "limb": "decode facticity and transcendence",
+              "anchors": [
+                "what you have been made into",
+                "make something out of"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "explain situated freedom",
+              "anchors": [
+                "field of meaning",
+                "field of action"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "press structural objections",
+              "anchors": [
+                "structural oppression",
+                "Critique of Dialectical Reason"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "grade the quotation",
+              "anchors": [
+                "Read as",
+                "distorts Sartre's mature attempt"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "make something out of",
+              "distorts Sartre's mature attempt"
+            ],
+            "order_positions": [
+              0,
+              4
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "what you have been made into",
+                "right": "make something out of",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "decode facticity and transcendence",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "field of meaning",
+                "right": "field of action",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain situated freedom",
+                "left_paragraph": 2,
+                "right_paragraph": 2,
+                "pass": true
+              },
+              {
+                "left": "structural oppression",
+                "right": "Critique of Dialectical Reason",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "press structural objections",
+                "left_paragraph": 3,
+                "right_paragraph": 3,
+                "pass": true
+              },
+              {
+                "left": "Read as",
+                "right": "distorts Sartre's mature attempt",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "grade the quotation",
+                "left_paragraph": 4,
+                "right_paragraph": 4,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "what you have been made into",
+                "right": "make something out of",
+                "relation_anchor": "make something out of",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "decode facticity and transcendence",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2021 Q4(b)": {
+          "limbs": [
+            {
+              "limb": "explain non-choice as choice",
+              "anchors": [
+                "Deferring conforming or letting another decide",
+                "non-choice"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "derive responsibility",
+              "anchors": [
+                "there are no excuses",
+                "Responsibility follows"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "connect universal implication",
+              "anchors": [
+                "in choosing myself I choose man",
+                "image of human conduct"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "qualify coercion and constraint",
+              "anchors": [
+                "Poverty coercion trauma",
+                "unequal situations"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "Deferring conforming or letting another decide",
+              "unequal situations"
+            ],
+            "order_positions": [
+              0,
+              4
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "Deferring conforming or letting another decide",
+                "right": "non-choice",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain non-choice as choice",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "there are no excuses",
+                "right": "Responsibility follows",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "derive responsibility",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "in choosing myself I choose man",
+                "right": "image of human conduct",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "connect universal implication",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "Poverty coercion trauma",
+                "right": "unequal situations",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "qualify coercion and constraint",
+                "left_paragraph": 3,
+                "right_paragraph": 4,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "Deferring conforming or letting another decide",
+                "right": "non-choice",
+                "relation_anchor": "non-choice",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain non-choice as choice",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2022 Q2(a)": {
+          "limbs": [
+            {
+              "limb": "explain unitary being-in-the-world",
+              "anchors": [
+                "names one phenomenon",
+                "subject and object"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "develop worldhood and Care",
+              "anchors": [
+                "ready-to-hand equipment",
+                "unified as Care"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "explain authenticity",
+              "anchors": [
+                "call of conscience",
+                "anticipatory resoluteness"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "evaluate formal emptiness",
+              "anchors": [
+                "formally empty",
+                "insufficient as a moral ideal"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "names one phenomenon",
+              "insufficient as a moral ideal"
+            ],
+            "order_positions": [
+              0,
+              3
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "names one phenomenon",
+                "right": "subject and object",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain unitary being-in-the-world",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "ready-to-hand equipment",
+                "right": "unified as Care",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "develop worldhood and Care",
+                "left_paragraph": 0,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "call of conscience",
+                "right": "anticipatory resoluteness",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain authenticity",
+                "left_paragraph": 2,
+                "right_paragraph": 2,
+                "pass": true
+              },
+              {
+                "left": "formally empty",
+                "right": "insufficient as a moral ideal",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "evaluate formal emptiness",
+                "left_paragraph": 3,
+                "right_paragraph": 3,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "names one phenomenon",
+                "right": "subject and object",
+                "relation_anchor": "subject and object",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain unitary being-in-the-world",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2022 Q4(a)": {
+          "limbs": [
+            {
+              "limb": "define subjectivity",
+              "anchors": [
+                "passionate inward appropriation",
+                "objective what"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "explain three stages",
+              "anchors": [
+                "aesthetic life",
+                "ethical life",
+                "religious life"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "show qualitative transition",
+              "anchors": [
+                "qualitative spheres",
+                "requires decision"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "evaluate faith and reason",
+              "anchors": [
+                "objection is fideism",
+                "reason and community are limited"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "objective what",
+              "reason and community are limited"
+            ],
+            "order_positions": [
+              0,
+              3
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "passionate inward appropriation",
+                "right": "objective what",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define subjectivity",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "aesthetic life",
+                "right": "ethical life",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain three stages",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "qualitative spheres",
+                "right": "requires decision",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "show qualitative transition",
+                "left_paragraph": 1,
+                "right_paragraph": 2,
+                "pass": true
+              },
+              {
+                "left": "objection is fideism",
+                "right": "reason and community are limited",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "evaluate faith and reason",
+                "left_paragraph": 3,
+                "right_paragraph": 3,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "passionate inward appropriation",
+                "right": "objective what",
+                "relation_anchor": "objective what",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define subjectivity",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2023 Q1(d)": {
+          "limbs": [
+            {
+              "limb": "state Hegelian target",
+              "anchors": [
+                "universal Spirit",
+                "dialectical self-realization"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "defend the existing individual",
+              "anchors": [
+                "single individual",
+                "existing thinker"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "show structural contrasts",
+              "anchors": [
+                "Against mediation",
+                "against necessary sublation"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "qualify the critique",
+              "anchors": [
+                "does not refute Hegel's social philosophy",
+                "exposes what a total standpoint omits"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "dialectical self-realization",
+              "exposes what a total standpoint omits"
+            ],
+            "order_positions": [
+              0,
+              2
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "universal Spirit",
+                "right": "dialectical self-realization",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "state Hegelian target",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "single individual",
+                "right": "existing thinker",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "defend the existing individual",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "Against mediation",
+                "right": "against necessary sublation",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "show structural contrasts",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "does not refute Hegel's social philosophy",
+                "right": "exposes what a total standpoint omits",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "qualify the critique",
+                "left_paragraph": 2,
+                "right_paragraph": 2,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "universal Spirit",
+                "right": "dialectical self-realization",
+                "relation_anchor": "dialectical self-realization",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "state Hegelian target",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2023 Q3(c)": {
+          "limbs": [
+            {
+              "limb": "unpack both clauses",
+              "anchors": [
+                "is what it is not",
+                "is not what it is"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "explain nihilation",
+              "anchors": [
+                "introduces distance into the given",
+                "questioning negating imagining"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "derive freedom and bad faith",
+              "anchors": [
+                "it is free",
+                "bad faith"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "assess coherence",
+              "anchors": [
+                "not formal contradiction",
+                "Read phenomenologically"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "introduces distance into the given",
+              "Read phenomenologically"
+            ],
+            "order_positions": [
+              0,
+              3
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "is what it is not",
+                "right": "is not what it is",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "unpack both clauses",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "introduces distance into the given",
+                "right": "questioning negating imagining",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain nihilation",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "it is free",
+                "right": "bad faith",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "derive freedom and bad faith",
+                "left_paragraph": 2,
+                "right_paragraph": 2,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "is what it is not",
+                "right": "is not what it is",
+                "relation_anchor": "is not what it is",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "unpack both clauses",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2024 Q1(e)": {
+          "limbs": [
+            {
+              "limb": "define the how of appropriation",
+              "anchors": [
+                "mode of appropriation",
+                "subjective how"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "distinguish objective truth",
+              "anchors": [
+                "retain objective standards",
+                "does not make factual truth depend"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "name Climacus",
+              "anchors": [
+                "Johannes Climacus",
+                "Concluding Unscientific Postscript"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "evaluate fideism",
+              "anchors": [
+                "main objection is fideism",
+                "reason is limited not worthless"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "Concluding Unscientific Postscript",
+              "reason is limited not worthless"
+            ],
+            "order_positions": [
+              0,
+              2
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "mode of appropriation",
+                "right": "subjective how",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define the how of appropriation",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "retain objective standards",
+                "right": "does not make factual truth depend",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "distinguish objective truth",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "Johannes Climacus",
+                "right": "Concluding Unscientific Postscript",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "name Climacus",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "main objection is fideism",
+                "right": "reason is limited not worthless",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "evaluate fideism",
+                "left_paragraph": 2,
+                "right_paragraph": 2,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "mode of appropriation",
+                "right": "subjective how",
+                "relation_anchor": "subjective how",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define the how of appropriation",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2024 Q4(a)": {
+          "limbs": [
+            {
+              "limb": "explain Sartre's slogan",
+              "anchors": [
+                "Sartre's slogan",
+                "existence precedes essence"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "differentiate the three thinkers",
+              "anchors": [
+                "Kierkegaard",
+                "Heidegger"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "connect existence and freedom",
+              "anchors": [
+                "condemned to be free",
+                "Responsibility follows"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "assess responsibility and value",
+              "anchors": [
+                "generate values",
+                "why one project is better"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "Sartre's slogan",
+              "why one project is better"
+            ],
+            "order_positions": [
+              0,
+              4
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "Sartre's slogan",
+                "right": "existence precedes essence",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain Sartre's slogan",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "Kierkegaard",
+                "right": "Heidegger",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "differentiate the three thinkers",
+                "left_paragraph": 2,
+                "right_paragraph": 2,
+                "pass": true
+              },
+              {
+                "left": "condemned to be free",
+                "right": "Responsibility follows",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "connect existence and freedom",
+                "left_paragraph": 3,
+                "right_paragraph": 3,
+                "pass": true
+              },
+              {
+                "left": "generate values",
+                "right": "why one project is better",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "assess responsibility and value",
+                "left_paragraph": 4,
+                "right_paragraph": 4,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "Sartre's slogan",
+                "right": "existence precedes essence",
+                "relation_anchor": "existence precedes essence",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain Sartre's slogan",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2025 Q1(c)": {
+          "limbs": [
+            {
+              "limb": "define en-soi",
+              "anchors": [
+                "in-itself is full",
+                "simply is what it is"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "define pour-soi",
+              "anchors": [
+                "for-itself is consciousness",
+                "projecting beyond the given"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "explain nihilation",
+              "anchors": [
+                "Through nihilation",
+                "introduces nothingness"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "state the impossible synthesis",
+              "anchors": [
+                "impossible synthesis",
+                "useless passion"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "in-itself is full",
+              "useless passion"
+            ],
+            "order_positions": [
+              0,
+              2
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "in-itself is full",
+                "right": "simply is what it is",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define en-soi",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "for-itself is consciousness",
+                "right": "projecting beyond the given",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define pour-soi",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "Through nihilation",
+                "right": "introduces nothingness",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain nihilation",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "impossible synthesis",
+                "right": "useless passion",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "state the impossible synthesis",
+                "left_paragraph": 2,
+                "right_paragraph": 2,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "in-itself is full",
+                "right": "simply is what it is",
+                "relation_anchor": "simply is what it is",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define en-soi",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2026 Q2(c)": {
+          "limbs": [
+            {
+              "limb": "describe consciousness as nothing",
+              "anchors": [
+                "lacks the plenitude",
+                "internal distance from being"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "state shared intentionality",
+              "anchors": [
+                "shares Husserl's intentionality",
+                "pre-reflective awareness"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "contrast the ego and constitution",
+              "anchors": [
+                "constituting subjectivity",
+                "transcendent object produced in reflection"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "give a qualified comparison",
+              "anchors": [
+                "opposition should not be exaggerated",
+                "non-egological radicalization"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "internal distance from being",
+              "opposition should not be exaggerated"
+            ],
+            "order_positions": [
+              0,
+              3
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "lacks the plenitude",
+                "right": "internal distance from being",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "describe consciousness as nothing",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "shares Husserl's intentionality",
+                "right": "pre-reflective awareness",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "state shared intentionality",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "constituting subjectivity",
+                "right": "transcendent object produced in reflection",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "contrast the ego and constitution",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "opposition should not be exaggerated",
+                "right": "non-egological radicalization",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "give a qualified comparison",
+                "left_paragraph": 3,
+                "right_paragraph": 3,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "lacks the plenitude",
+                "right": "internal distance from being",
+                "relation_anchor": "internal distance from being",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "describe consciousness as nothing",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "2026 Q3(b)": {
+          "limbs": [
+            {
+              "limb": "define both modes",
+              "anchors": [
+                "existential modes",
+                "authentically through das Man"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "explain das Man and falling",
+              "anchors": [
+                "anonymous one",
+                "Falling names"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "explain resoluteness and death",
+              "anchors": [
+                "Being-toward-death",
+                "anticipatory resoluteness"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "preserve the non-moral boundary",
+              "anchors": [
+                "not moral grades",
+                "rather than moral perfection"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "Falling names",
+              "rather than moral perfection"
+            ],
+            "order_positions": [
+              0,
+              3
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "existential modes",
+                "right": "authentically through das Man",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define both modes",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "anonymous one",
+                "right": "Falling names",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain das Man and falling",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "Being-toward-death",
+                "right": "anticipatory resoluteness",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "explain resoluteness and death",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "existential modes",
+                "right": "authentically through das Man",
+                "relation_anchor": "authentically through das Man",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define both modes",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "Original 1": {
+          "limbs": [
+            {
+              "limb": "distinguish anxiety",
+              "anchors": [
+                "dizziness of freedom",
+                "no determinate object"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "distinguish despair",
+              "anchors": [
+                "misrelation in the self's relation",
+                "apart from God"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "connect both to selfhood",
+              "anchors": [
+                "formation of selfhood",
+                "selfhood is an achievement"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "qualify the account",
+              "anchors": [
+                "limitation is theological",
+                "secular reach"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "dizziness of freedom",
+              "selfhood is an achievement"
+            ],
+            "order_positions": [
+              0,
+              2
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "dizziness of freedom",
+                "right": "no determinate object",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "distinguish anxiety",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "misrelation in the self's relation",
+                "right": "apart from God",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "distinguish despair",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "limitation is theological",
+                "right": "secular reach",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "qualify the account",
+                "left_paragraph": 2,
+                "right_paragraph": 2,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "dizziness of freedom",
+                "right": "no determinate object",
+                "relation_anchor": "no determinate object",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "distinguish anxiety",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "Original 2": {
+          "limbs": [
+            {
+              "limb": "define situated freedom",
+              "anchors": [
+                "freedom exists only through",
+                "Facticity is what has been made"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "distinguish arbitrary choice",
+              "anchors": [
+                "differs from arbitrary choice",
+                "cannot select any physical outcome"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "state structural objection",
+              "anchors": [
+                "understates structural power",
+                "scarcity seriality"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "give a qualified verdict",
+              "anchors": [
+                "not as independence",
+                "bodily historical and social limits"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "Facticity is what has been made",
+              "not as independence"
+            ],
+            "order_positions": [
+              0,
+              4
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "freedom exists only through",
+                "right": "Facticity is what has been made",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define situated freedom",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "differs from arbitrary choice",
+                "right": "cannot select any physical outcome",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "distinguish arbitrary choice",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "understates structural power",
+                "right": "scarcity seriality",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "state structural objection",
+                "left_paragraph": 2,
+                "right_paragraph": 2,
+                "pass": true
+              },
+              {
+                "left": "not as independence",
+                "right": "bodily historical and social limits",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "give a qualified verdict",
+                "left_paragraph": 4,
+                "right_paragraph": 4,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "freedom exists only through",
+                "right": "Facticity is what has been made",
+                "relation_anchor": "Facticity is what has been made",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "define situated freedom",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        },
+        "Original 3": {
+          "limbs": [
+            {
+              "limb": "compare three accounts",
+              "anchors": [
+                "faith freedom and finitude",
+                "Kierkegaard Sartre and Heidegger"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "state Kierkegaard's ground",
+              "anchors": [
+                "self before God",
+                "substantive theological direction"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "state Sartre and Heidegger",
+              "anchors": [
+                "owning both facticity and transcendence",
+                "anticipatory resoluteness"
+              ],
+              "pass": true
+            },
+            {
+              "limb": "assess doctrinal unity",
+              "anchors": [
+                "family resemblance rather than one",
+                "treated analogically"
+              ],
+              "pass": true
+            }
+          ],
+          "structural_relation_order_checks": {
+            "ordered_anchors": [
+              "Kierkegaard Sartre and Heidegger",
+              "treated analogically"
+            ],
+            "order_positions": [
+              0,
+              6
+            ],
+            "ordered": true,
+            "connected_pairs": [
+              {
+                "left": "faith freedom and finitude",
+                "right": "Kierkegaard Sartre and Heidegger",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "compare three accounts",
+                "left_paragraph": 0,
+                "right_paragraph": 0,
+                "pass": true
+              },
+              {
+                "left": "self before God",
+                "right": "substantive theological direction",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "state Kierkegaard's ground",
+                "left_paragraph": 1,
+                "right_paragraph": 1,
+                "pass": true
+              },
+              {
+                "left": "owning both facticity and transcendence",
+                "right": "anticipatory resoluteness",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "state Sartre and Heidegger",
+                "left_paragraph": 2,
+                "right_paragraph": 3,
+                "pass": true
+              }
+            ],
+            "affirmed_relations": [
+              {
+                "left": "faith freedom and finitude",
+                "right": "Kierkegaard Sartre and Heidegger",
+                "relation_anchor": "Kierkegaard Sartre and Heidegger",
+                "maximum_paragraph_gap": 1,
+                "demand_limb": "compare three accounts",
+                "paragraphs": [
+                  0,
+                  0,
+                  0
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          },
+          "adversarial_controls": {
+            "reversed_paragraph_order_rejected": true,
+            "contradicted_relation_rejected": true
+          },
+          "pass": true
+        }
+      },
+      "failures": [],
+      "gate_name": "structural and demand-anchor integrity",
+      "semantic_claim": "No claim of proved semantic coherence or philosophical truth is made.",
+      "mechanical_limitations": "Parsed sections, literal demand anchors, connected-pair checks and declared paragraph order reject missing or scrambled structure. They do not prove semantic coherence, argumentative sufficiency, truth or examiner marks.",
+      "pass": true
+    },
+    "provenance_wording": {
+      "required_statement": true,
+      "forbidden_claims": {
+        "README.md": [],
+        "REVISION-GUIDE.md": [],
+        "COVERAGE-LEDGER.md": []
+      },
+      "pass": true
+    },
+    "release_regeneration_gate": {
+      "regenerate_flag_required": true,
+      "regenerate_flag_present": true,
+      "all_four_regenerated": true,
+      "source_hash_timestamp_records_complete": true,
+      "pass": true
+    },
+    "pdfs": {
+      "Revision-Guide.pdf": {
+        "bytes": 1082808,
+        "pages": 42,
+        "source": "REVISION-GUIDE.md",
+        "source_sha256": "c14c554a66a306c3e940cc85d640c168eee83bbb9ecfb182d0445a82a47db046",
+        "pdf_sha256": "e10d5139b3729f90f6fc58fce4ab6c89bebce52d0e824a9114adc54dbefbe8f0",
+        "source_mtime_ns": 1789904333198794100,
+        "pdf_mtime_ns": 1789907957708960900,
+        "pdf_not_older_than_source": true,
+        "heading_count": 80,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "raw_markdown_artifacts": [],
+        "pass": true
+      },
+      "MCQ-Questions.pdf": {
+        "bytes": 212210,
+        "pages": 19,
+        "source": "MCQ-QUESTIONS.md",
+        "source_sha256": "ea5158444fc9a957ba8c148afa9c2290707d79246dbae53fc517d2866cc5c709",
+        "pdf_sha256": "55c09d426674280995b6adbec0b85fbfe7bf005eeef7b4ef81670db1e1002e60",
+        "source_mtime_ns": 1789906689155709000,
+        "pdf_mtime_ns": 1789907963519689700,
+        "pdf_not_older_than_source": true,
+        "heading_count": 75,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "raw_markdown_artifacts": [],
+        "pass": true
+      },
+      "MCQ-Solutions.pdf": {
+        "bytes": 801942,
+        "pages": 68,
+        "source": "MCQ-SOLUTIONS.md",
+        "source_sha256": "7eb1d7f570410b454a13ca86febb2920f49cbcb192a604ad329e5a46eceddb33",
+        "pdf_sha256": "e234bf16880263d6ca473495652594709c0bbedfaac7927f81db2996d2c7d51f",
+        "source_mtime_ns": 1789906689158028200,
+        "pdf_mtime_ns": 1789907976406780900,
+        "pdf_not_older_than_source": true,
+        "heading_count": 75,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "raw_markdown_artifacts": [],
+        "pass": true
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "bytes": 551865,
+        "pages": 33,
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "source_sha256": "e15e2d3202ed1879840af845a7b4331d22bc7b8e3ea9b54bd3d322a9f3331532",
+        "pdf_sha256": "2c42d899aec21ae32db48f6191a7e44fc3e2b24f794b609a3045ce26e37a7ebb",
+        "source_mtime_ns": 1789907760747545000,
+        "pdf_mtime_ns": 1789907981136960600,
+        "pdf_not_older_than_source": true,
+        "heading_count": 47,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "raw_markdown_artifacts": [],
+        "pass": true
+      }
+    },
+    "practice_log_blank_template": true,
+    "temporary_files_left": [],
+    "text_and_diff_integrity": {
+      "inspected": [
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\10-Existentialism\\ANSWER-WRITING-TOOLKIT.md",
+          "bytes": 97747,
+          "sha256": "e15e2d3202ed1879840af845a7b4331d22bc7b8e3ea9b54bd3d322a9f3331532"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\10-Existentialism\\COVERAGE-LEDGER.md",
+          "bytes": 14047,
+          "sha256": "744bf1c4ad97905e29a8d5c4db5901dfb2f461c9cf373f84fb814237f1d1cca5"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\10-Existentialism\\MCQ-AUDIT.json",
+          "bytes": 386025,
+          "sha256": "f41b5dcb61a059025ca71665dd16fa23268de67d13fa2ab7cc00621df24ede95"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\10-Existentialism\\MCQ-QUESTIONS.md",
+          "bytes": 42140,
+          "sha256": "ea5158444fc9a957ba8c148afa9c2290707d79246dbae53fc517d2866cc5c709"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\10-Existentialism\\MCQ-SOLUTIONS.md",
+          "bytes": 199767,
+          "sha256": "7eb1d7f570410b454a13ca86febb2920f49cbcb192a604ad329e5a46eceddb33"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\10-Existentialism\\PRACTICE-LOG.md",
+          "bytes": 346,
+          "sha256": "268c316d04be0bf6b8096794e784ce895bec4ecf3ec3119447f6cc0cc0140ebb"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\10-Existentialism\\PYQ-DEMAND-AUDIT.json",
+          "bytes": 43068,
+          "sha256": "bad02be60fcfb96d2e5c615784df145dea12a0d7b7e8800c34eba3852bc8ea42"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\10-Existentialism\\README.md",
+          "bytes": 1771,
+          "sha256": "0f4dd6d3c7976b9d32e14f25af77bec215830e58e0f08a2a30d43dfe4b51e686"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\10-Existentialism\\REVISION-GUIDE.md",
+          "bytes": 109765,
+          "sha256": "c14c554a66a306c3e940cc85d640c168eee83bbb9ecfb182d0445a82a47db046"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\10-Existentialism\\validate_package.py",
+          "bytes": 62050,
+          "sha256": "f0958000a554861819af35a93d4c068ae3247b865d6c2a06b5f65c57015f436c"
+        },
+        {
+          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\10-Existentialism\\VALIDATION.json",
+          "bytes": 190337,
+          "sha256": "2fe407d5a6be57cd66ed5d21d8cf54f6d3959c9954d2cf4bfbff2fc66010ccb7"
+        }
+      ],
+      "untracked_diff_checks": [
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism/ANSWER-WRITING-TOOLKIT.md",
+          "diagnostics": "",
+          "pass": true
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism/COVERAGE-LEDGER.md",
+          "diagnostics": "",
+          "pass": true
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism/MCQ-AUDIT.json",
+          "diagnostics": "",
+          "pass": true
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism/MCQ-QUESTIONS.md",
+          "diagnostics": "",
+          "pass": true
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism/MCQ-SOLUTIONS.md",
+          "diagnostics": "",
+          "pass": true
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism/PRACTICE-LOG.md",
+          "diagnostics": "",
+          "pass": true
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism/PYQ-DEMAND-AUDIT.json",
+          "diagnostics": "",
+          "pass": true
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism/README.md",
+          "diagnostics": "",
+          "pass": true
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism/REVISION-GUIDE.md",
+          "diagnostics": "",
+          "pass": true
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism/VALIDATION.json",
+          "diagnostics": "",
+          "pass": true
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism/validate_package.py",
+          "diagnostics": "",
+          "pass": true
+        }
+      ],
+      "pdf_git_ignore_awareness": {
+        "Revision-Guide.pdf": {
+          "ignored": true,
+          "rule": ".gitignore:36:*.pdf\t\"practice\\\\Offline-Revision-MCQ\\\\Philosophy-Optional\\\\Philosophy-Paper-I-Western-Philosophy\\\\10-Existentialism\\\\pdf\\\\Revision-Guide.pdf\""
+        },
+        "MCQ-Questions.pdf": {
+          "ignored": true,
+          "rule": ".gitignore:36:*.pdf\t\"practice\\\\Offline-Revision-MCQ\\\\Philosophy-Optional\\\\Philosophy-Paper-I-Western-Philosophy\\\\10-Existentialism\\\\pdf\\\\MCQ-Questions.pdf\""
+        },
+        "MCQ-Solutions.pdf": {
+          "ignored": true,
+          "rule": ".gitignore:36:*.pdf\t\"practice\\\\Offline-Revision-MCQ\\\\Philosophy-Optional\\\\Philosophy-Paper-I-Western-Philosophy\\\\10-Existentialism\\\\pdf\\\\MCQ-Solutions.pdf\""
+        },
+        "Answer-Writing-Toolkit.pdf": {
+          "ignored": true,
+          "rule": ".gitignore:36:*.pdf\t\"practice\\\\Offline-Revision-MCQ\\\\Philosophy-Optional\\\\Philosophy-Paper-I-Western-Philosophy\\\\10-Existentialism\\\\pdf\\\\Answer-Writing-Toolkit.pdf\""
+        }
+      },
+      "release_staging_instruction_present": true,
+      "failures": [],
+      "pass": true
+    },
+    "repository_status_files": {
+      "topic_10_validated": true,
+      "next_topic_11": true,
+      "topic_10_indexed": true
+    }
+  },
+  "failures": []
+}

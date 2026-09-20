@@ -6,7 +6,7 @@
   "resume_command": "Resume Offline Revision System",
   "source_of_truth": "upsc-ai-kit/practice/Offline-Revision-MCQ/START-HERE.md",
   "current_subject": "Philosophy",
-  "next_action": "Build the next canonical Philosophy topic: Philosophy Paper I — Western Philosophy — 10 Existentialism.",
+  "next_action": "Build the next canonical Philosophy topic: Philosophy Paper I — Western Philosophy — 11 Quine and Strawson.",
   "subjects": [
     {
       "name": "Philosophy",
@@ -142,6 +142,17 @@
       "directly_owned_solved_pyqs": 7,
       "latest_pyq_year": 2025,
       "latest_ledger_year_reviewed": 2026
+    },
+    {
+      "subject": "Philosophy",
+      "section": "Philosophy Paper I — Western Philosophy",
+      "topic": "10 Existentialism",
+      "path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism",
+      "status": "validated",
+      "mcq_count": 74,
+      "mcq_sizing": "coverage-driven",
+      "directly_owned_solved_pyqs": 16,
+      "latest_pyq_year": 2026
     }
   ]
 }
