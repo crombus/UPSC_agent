@@ -1,0 +1,748 @@
+{
+  "schema_version": 4,
+  "topic": "06 Moore, Russell and Early Wittgenstein",
+  "validated_at": "2026-09-20T13:45:07+05:30",
+  "result": "PASS",
+  "result_gate": "pass only when every required check, including cross-file leakage, philosophical consistency, original solved practice and every PYQ solution component, is true",
+  "pdf_generation": {
+    "mechanism": "C:/up/tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
+    "all_four_regenerated": true
+  },
+  "coverage_gaps": [
+    "No direct contemporary-current-affairs linkage is established by the authoritative source set; none was fabricated."
+  ],
+  "checks": {
+    "required_files": {
+      "README.md": true,
+      "REVISION-GUIDE.md": true,
+      "MCQ-QUESTIONS.md": true,
+      "MCQ-SOLUTIONS.md": true,
+      "COVERAGE-LEDGER.md": true,
+      "PRACTICE-LOG.md": true,
+      "ANSWER-WRITING-TOOLKIT.md": true,
+      "pdf/Revision-Guide.pdf": true,
+      "pdf/MCQ-Questions.pdf": true,
+      "pdf/MCQ-Solutions.pdf": true,
+      "pdf/Answer-Writing-Toolkit.pdf": true,
+      "VALIDATION.json": true
+    },
+    "mcq_numbering": {
+      "question_count": 56,
+      "solution_count": 56,
+      "exact_match": true,
+      "all_questions_have_four_options": true,
+      "question_solution_prompts_match": true
+    },
+    "question_leakage": {
+      "**Answer:": false,
+      "Option explanations:": false,
+      "Examiner trap": false,
+      "Repair action:": false,
+      "Coverage mapping:": false,
+      "PYQ linkage:": false,
+      "Correct answer:": false
+    },
+    "cross_file_answer_leakage": {
+      "method": "Unicode NFKC + lowercase + punctuation/whitespace normalization; full assessed stems searched contiguously and every normalized option checked against normalized target lines",
+      "targets": {
+        "REVISION-GUIDE.md": {
+          "normalized_stem_matches": [],
+          "normalized_option_line_matches": [],
+          "pass": true
+        },
+        "ANSWER-WRITING-TOOLKIT.md": {
+          "normalized_stem_matches": [],
+          "normalized_option_line_matches": [],
+          "pass": true
+        }
+      },
+      "pass": true
+    },
+    "revision_guide_separation": {
+      "solved_mcq_headings": 0,
+      "correct_answer_markers": 0,
+      "option_explanation_markers": 0,
+      "pass": true
+    },
+    "neutral_titles": {
+      "questions_all_exactly_mcq_number": true,
+      "revealing_title_count": 0
+    },
+    "option_length_cues": {
+      "metric": "Unicode character count of each visible option",
+      "acceptable_correct_longest_rate_percent": [
+        15,
+        40
+      ],
+      "acceptable_uniquely_longest_rate_percent": [
+        5,
+        30
+      ],
+      "correct_is_longest_count": 18,
+      "correct_is_longest_rate_percent": 32.143,
+      "correct_is_longest_questions": [
+        1,
+        3,
+        5,
+        7,
+        11,
+        13,
+        16,
+        18,
+        21,
+        28,
+        32,
+        37,
+        38,
+        41,
+        45,
+        49,
+        50,
+        53
+      ],
+      "uniquely_longest_correct_count": 16,
+      "uniquely_longest_correct_rate_percent": 28.571,
+      "uniquely_longest_correct_questions": [
+        3,
+        5,
+        11,
+        13,
+        16,
+        18,
+        21,
+        28,
+        32,
+        37,
+        38,
+        41,
+        45,
+        49,
+        50,
+        53
+      ],
+      "correct_mean_characters": 73.429,
+      "distractor_mean_characters": 67.411,
+      "comparability_threshold": "max-minus-min <= 45 characters and max/min <= 1.65",
+      "statement_format_exceptions": [
+        {
+          "question": 42,
+          "reason": "Pure symbolic N-operator alternatives are necessarily short formula strings; all four use the same defined notation and no prose-length cue."
+        }
+      ],
+      "comparability_outliers": [],
+      "rate_gate_pass": true
+    },
+    "answer_pattern": {
+      "distribution": {
+        "A": 14,
+        "B": 14,
+        "C": 14,
+        "D": 14
+      },
+      "maximum_consecutive_same_answer": 2,
+      "mechanical_abcd_rotation": false,
+      "pass": true
+    },
+    "solutions_complete": {
+      "answers": 56,
+      "option_explanations": 56,
+      "examiner_traps": 56,
+      "repair_actions": 56,
+      "coverage_mappings": 56,
+      "pyq_linkages": 56
+    },
+    "specific_distractor_explanations": {
+      "checked": 224,
+      "minimum_characters": 45,
+      "all_specific": true
+    },
+    "deduplication": {
+      "exact_duplicate_stems_absent": true,
+      "highest_stem_similarity": 0.735,
+      "highest_similarity_pair": [
+        2,
+        44
+      ],
+      "substantive_duplicate_review": "pass",
+      "removed_final_candidate": "facts as truth-makers",
+      "reason": "duplicated C05 atomic-fact truth-making inference",
+      "final_count": 56
+    },
+    "source_lineage": {
+      "source": "upsc-ai-kit/knowledge/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/learning-sessions/topic-06/g5/topic-06_Solved-Practice-Workbook_2026-09-02.md",
+      "source_question_count": 56,
+      "retained_exact_stems": 2,
+      "retained_mapping": {
+        "source_15": "final_23",
+        "source_19": "final_28"
+      },
+      "adapted_questions": 35,
+      "replaced_or_merged_source_questions": 19,
+      "removed_or_merged_source_ids": [
+        2,
+        27,
+        34,
+        35,
+        36,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        53
+      ],
+      "new_matrix_operations": [
+        "chronology",
+        "status of Moorean truisms",
+        "three proof conditions",
+        "standard objection to the hands proof",
+        "qualified verdict on the hands proof",
+        "structure of an atomic fact",
+        "golden-mountain application",
+        "criticism of the acquaintance base",
+        "limits of logical constructions",
+        "constitution of a state of affairs",
+        "colour exclusion",
+        "tautology/contradiction contrast",
+        "factual saying",
+        "hierarchy author",
+        "hierarchy formal success",
+        "hierarchy regress limit",
+        "Tarskian comparison",
+        "later-Wittgenstein boundary",
+        "exact sixteen-part PYQ accounting"
+      ],
+      "final_count": 56,
+      "matrix_closure_explanation_recorded_in_coverage_ledger": true
+    },
+    "verified_pyqs": {
+      "directly_owned_count": 16,
+      "all_exact_prompt_matches": true,
+      "exact_prompt_match": {
+        "2018 Q3(c)": true,
+        "2018 Q4(c)": true,
+        "2019 Q3(c)": true,
+        "2020 Q2(b)": true,
+        "2020 Q2(c)": true,
+        "2021 Q3(a)": true,
+        "2021 Q4(c)": true,
+        "2022 Q1(b)": true,
+        "2022 Q3(c)": true,
+        "2023 Q4(b)": true,
+        "2024 Q1(c)": true,
+        "2024 Q3(a)": true,
+        "2025 Q1(d)": true,
+        "2025 Q3(c)": true,
+        "2026 Q1(e)": true,
+        "2026 Q4(a)": true
+      },
+      "all_have_required_solution_components": true,
+      "component_checks": {
+        "2018 Q3(c)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2018 Q4(c)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2019 Q3(c)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2020 Q2(b)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2020 Q2(c)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2021 Q3(a)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2021 Q4(c)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2022 Q1(b)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2022 Q3(c)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2023 Q4(b)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2024 Q1(c)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2024 Q3(a)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2025 Q1(d)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2025 Q3(c)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2026 Q1(e)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        },
+        "2026 Q4(a)": {
+          "question": true,
+          "demand_decoding": true,
+          "independent_model_answer": true,
+          "qualification_or_criticism": true,
+          "marks_logic": true,
+          "exam_length": true,
+          "exact_prompt_match": true
+        }
+      },
+      "model_answer_word_counts": {
+        "2018 Q3(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 298,
+          "stated_words": 298,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2018 Q4(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 259,
+          "stated_words": 259,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2019 Q3(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 257,
+          "stated_words": 257,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2020 Q2(b)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 283,
+          "stated_words": 283,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2020 Q2(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 251,
+          "stated_words": 251,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2021 Q3(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured_words": 378,
+          "stated_words": 378,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2021 Q4(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 265,
+          "stated_words": 265,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2022 Q1(b)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 198,
+          "stated_words": 198,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2022 Q3(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 276,
+          "stated_words": 276,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2023 Q4(b)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 272,
+          "stated_words": 272,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2024 Q1(c)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 200,
+          "stated_words": 200,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2024 Q3(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured_words": 348,
+          "stated_words": 348,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2025 Q1(d)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 172,
+          "stated_words": 172,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2025 Q3(c)": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 267,
+          "stated_words": 267,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2026 Q1(e)": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 195,
+          "stated_words": 195,
+          "in_band": true,
+          "matches_stated": true
+        },
+        "2026 Q4(a)": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured_words": 340,
+          "stated_words": 340,
+          "in_band": true,
+          "matches_stated": true
+        }
+      },
+      "word_count_method": "Unicode word-token count over timed model-answer prose only; metadata, marks rationale and guidance excluded",
+      "portable_2026_authority": "upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md",
+      "portable_authority_exists": true,
+      "2018_2025_authority_exists": true,
+      "model_answers_are_learner_practice_not_official_keys": true
+    },
+    "original_mains_practice": {
+      "question_count": 3,
+      "required_marks": [
+        10,
+        15,
+        20
+      ],
+      "solutions": {
+        "Original 1": {
+          "marks": 10,
+          "band": [
+            150,
+            200
+          ],
+          "measured_words": 174,
+          "stated_words": 174,
+          "in_band": true,
+          "matches_stated": true,
+          "components": {
+            "question": true,
+            "demand_decoding": true,
+            "introduction": true,
+            "organised_body": true,
+            "criticism_or_qualification": true,
+            "conclusion": true,
+            "why_it_earns_marks": true,
+            "word_time_guidance": true
+          },
+          "complete": true
+        },
+        "Original 2": {
+          "marks": 15,
+          "band": [
+            250,
+            300
+          ],
+          "measured_words": 255,
+          "stated_words": 255,
+          "in_band": true,
+          "matches_stated": true,
+          "components": {
+            "question": true,
+            "demand_decoding": true,
+            "introduction": true,
+            "organised_body": true,
+            "criticism_or_qualification": true,
+            "conclusion": true,
+            "why_it_earns_marks": true,
+            "word_time_guidance": true
+          },
+          "complete": true
+        },
+        "Original 3": {
+          "marks": 20,
+          "band": [
+            340,
+            400
+          ],
+          "measured_words": 359,
+          "stated_words": 359,
+          "in_band": true,
+          "matches_stated": true,
+          "components": {
+            "question": true,
+            "demand_decoding": true,
+            "introduction": true,
+            "organised_body": true,
+            "criticism_or_qualification": true,
+            "conclusion": true,
+            "why_it_earns_marks": true,
+            "word_time_guidance": true
+          },
+          "complete": true
+        }
+      },
+      "all_complete": true
+    },
+    "philosophical_consistency": {
+      "canonical_owner_checked": "upsc-ai-kit/knowledge/Philosophy/paper-1/western/Moore-Russell-EarlyWittgenstein.md",
+      "n_operator": {
+        "generalized_finite_set_definition_present": true,
+        "N_pq_equals_notp_and_notq": true,
+        "negation_formula": true,
+        "disjunction_formula": true,
+        "conjunction_formula": true,
+        "mcq_42_answer": "C",
+        "contradictory_formulas": []
+      },
+      "moore_act_object": {
+        "bad_inference_matches": [],
+        "2020_answer_requires_further_argument": true,
+        "2025_answer_requires_further_argument": true
+      },
+      "2021_moore_answer": {
+        "1925_primary": true,
+        "later_1939_mentions": 1,
+        "later_comparison_labelled": true,
+        "three_conditions_not_present": true
+      },
+      "2025_golden_mountain": {
+        "strawson_present": true,
+        "presupposition_present": true,
+        "actual_qualification_heading": true
+      }
+    },
+    "current_affairs_nonfabrication": true,
+    "markdown_links": {
+      "checked": 13,
+      "broken": []
+    },
+    "pdfs": {
+      "Answer-Writing-Toolkit.pdf": {
+        "bytes": 461828,
+        "pages": 25,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "generated_contents_page_excluded_from_overlap_heuristic": 2
+      },
+      "MCQ-Questions.pdf": {
+        "bytes": 191726,
+        "pages": 13,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "generated_contents_page_excluded_from_overlap_heuristic": 2
+      },
+      "MCQ-Solutions.pdf": {
+        "bytes": 489560,
+        "pages": 29,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "generated_contents_page_excluded_from_overlap_heuristic": 2
+      },
+      "Revision-Guide.pdf": {
+        "bytes": 2096648,
+        "pages": 113,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_text_pages": [],
+        "content_overlap_pages": [],
+        "page_order_validated": true,
+        "generated_contents_page_excluded_from_overlap_heuristic": 2
+      }
+    },
+    "practice_log_blank_template": true,
+    "temporary_files_left": [],
+    "git_diff_check": {
+      "exit_code": 0,
+      "output": "",
+      "scope_note": "git diff --check validates tracked changes; untracked package state is separately recorded"
+    },
+    "git_status_awareness": {
+      "short_status": [
+        " M upsc-ai-kit/practice/Offline-Revision-MCQ/INDEX.md",
+        " M upsc-ai-kit/practice/Offline-Revision-MCQ/STATUS.json",
+        "?? upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/"
+      ],
+      "topic_package_is_untracked": true,
+      "untracked_files_are_not_treated_as_an_empty_diff": true
+    }
+  },
+  "failures": []
+}
