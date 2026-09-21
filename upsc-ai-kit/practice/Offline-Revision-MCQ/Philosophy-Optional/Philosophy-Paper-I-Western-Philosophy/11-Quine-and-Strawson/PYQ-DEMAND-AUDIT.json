@@ -1,0 +1,803 @@
+{
+  "schema_version": 3,
+  "scope": "Ten directly owned Topic 11 PYQs through 2026 plus three original solved questions",
+  "method": "Literal demand anchors, connected-pair checks, paragraph order and adversarial reversed/contradicted controls protect structural demand coverage. They do not prove truth, argumentative sufficiency or examiner marks.",
+  "pyqs": [
+    {
+      "id": "2018 Q1(e)",
+      "marks": 10,
+      "question": "How does Strawson explain the concept of person in his philosophy? Discuss.",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "logically primitive concept"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "M-predicates"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "self-ascription requires other-ascription"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "blocks Cartesian dualism"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "logically primitive concept",
+        "blocks Cartesian dualism"
+      ],
+      "connected_pairs": [
+        {
+          "left": "logically primitive concept",
+          "right": "M-predicates",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "self-ascription requires other-ascription",
+          "right": "blocks Cartesian dualism",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "logically primitive concept",
+          "right": "M-predicates",
+          "relation_anchor": "M-predicates",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        }
+      ]
+    },
+    {
+      "id": "2018 Q2(c)",
+      "marks": 15,
+      "question": "How does Quine show that the notion of a priori knowledge as discussed by Kant is 'a metaphysical article of faith'? Give reasons for your answer.",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "analytic/synthetic boundary"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "confirmation is holistic"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "naturalism denies"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "Strawson's descriptive-metaphysics"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "analytic/synthetic boundary",
+        "Strawson's descriptive-metaphysics"
+      ],
+      "connected_pairs": [
+        {
+          "left": "analytic/synthetic boundary",
+          "right": "confirmation is holistic",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "naturalism denies",
+          "right": "Strawson's descriptive-metaphysics",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "analytic/synthetic boundary",
+          "right": "confirmation is holistic",
+          "relation_anchor": "confirmation is holistic",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        }
+      ]
+    },
+    {
+      "id": "2019 Q1(e)",
+      "marks": 10,
+      "question": "Explain Quine’s arguments against synthetic-analytic distinction.",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "Quine argues that the analytic/synthetic distinction"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "synonymy"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "interchangeability"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "agreed examples do not supply"
+          ]
+        },
+        {
+          "limb": "centrality is explanatory rather than definitional",
+          "anchors": [
+            "centrality explains differential practical revisability",
+            "does not redefine analyticity"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "Quine argues that the analytic/synthetic distinction",
+        "agreed examples do not supply"
+      ],
+      "connected_pairs": [
+        {
+          "left": "Quine argues that the analytic/synthetic distinction",
+          "right": "synonymy",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "interchangeability",
+          "right": "agreed examples do not supply",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        },
+        {
+          "left": "centrality explains differential practical revisability",
+          "right": "does not redefine analyticity",
+          "maximum_paragraph_gap": 0,
+          "demand_limb": "anti-conflation qualification"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "Quine argues that the analytic/synthetic distinction",
+          "right": "synonymy",
+          "relation_anchor": "synonymy",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        },
+        {
+          "left": "centrality explains differential practical revisability",
+          "right": "does not redefine analyticity",
+          "relation_anchor": "does not redefine analyticity",
+          "maximum_paragraph_gap": 0,
+          "demand_limb": "centrality is not analyticity"
+        }
+      ]
+    },
+    {
+      "id": "2020 Q3(b)",
+      "marks": 15,
+      "question": "Evaluate the role of spatio-temporal thinking in objective thinking with reference to Strawson's theory of basic particulars.",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "spatio-temporal thinking is a precondition"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "re-identify"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "material bodies"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "auditory world"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "spatio-temporal thinking is a precondition",
+        "auditory world"
+      ],
+      "connected_pairs": [
+        {
+          "left": "spatio-temporal thinking is a precondition",
+          "right": "re-identify",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "material bodies",
+          "right": "auditory world",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "spatio-temporal thinking is a precondition",
+          "right": "re-identify",
+          "relation_anchor": "re-identify",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        }
+      ]
+    },
+    {
+      "id": "2021 Q3(b)",
+      "marks": 15,
+      "question": "What according to Strawson are basic particulars? What reasons does Strawson offer to believe that ‘material bodies’ and ‘persons’ are basic particulars? Critically discuss.",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "identified without first identifying"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "spatio-temporal system"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "primitive"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "co-basic"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "identified without first identifying",
+        "co-basic"
+      ],
+      "connected_pairs": [
+        {
+          "left": "identified without first identifying",
+          "right": "spatio-temporal system",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "primitive",
+          "right": "co-basic",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "identified without first identifying",
+          "right": "spatio-temporal system",
+          "relation_anchor": "spatio-temporal system",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        }
+      ]
+    },
+    {
+      "id": "2021 Q3(c)",
+      "marks": 15,
+      "question": "Critically examine Quine’s postulate of empiricism without the dogmas with reference to his ‘Two Dogmas of Empiricism’.",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "holistic empiricism"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "two dogmas"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "web"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "minimum mutilation"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "holistic empiricism",
+        "minimum mutilation"
+      ],
+      "connected_pairs": [
+        {
+          "left": "holistic empiricism",
+          "right": "two dogmas",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "web",
+          "right": "minimum mutilation",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "holistic empiricism",
+          "right": "two dogmas",
+          "relation_anchor": "two dogmas",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        }
+      ]
+    },
+    {
+      "id": "2023 Q4(a)",
+      "marks": 20,
+      "question": "Why does Strawson consider person to be a primitive concept? What implication does it have for the mind-body dualism? Discuss.",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "primitive concept"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "M-predicates"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "self-ascription argument"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "no-ownership theory"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "primitive concept",
+        "no-ownership theory"
+      ],
+      "connected_pairs": [
+        {
+          "left": "primitive concept",
+          "right": "M-predicates",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "self-ascription argument",
+          "right": "no-ownership theory",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "primitive concept",
+          "right": "M-predicates",
+          "relation_anchor": "M-predicates",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        }
+      ]
+    },
+    {
+      "id": "2024 Q4(c)",
+      "marks": 15,
+      "question": "Explain the nature of the two dogmas that Quine refers to in his paper ‘Two Dogmas of Empiricism’.",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "analytic/synthetic distinction"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "reductionism"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "at root identical"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "holism"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "analytic/synthetic distinction",
+        "holism"
+      ],
+      "connected_pairs": [
+        {
+          "left": "analytic/synthetic distinction",
+          "right": "reductionism",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "at root identical",
+          "right": "holism",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "analytic/synthetic distinction",
+          "right": "reductionism",
+          "relation_anchor": "reductionism",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        }
+      ]
+    },
+    {
+      "id": "2025 Q4(b)",
+      "marks": 15,
+      "question": "“We can affirm the truth of any sentence in our total system, in the face of whatever experience, just so long as we are prepared to make adjustments elsewhere.” Discuss this statement in the light of Quine’s ‘Two Dogmas of Empiricism’.",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "quotation"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "come what may"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "minimum mutilation"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "change of subject"
+          ]
+        },
+        {
+          "limb": "practical entrenchment is not analyticity",
+          "anchors": [
+            "differential practical revisability",
+            "do not redefine analyticity"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "quotation",
+        "change of subject"
+      ],
+      "connected_pairs": [
+        {
+          "left": "quotation",
+          "right": "come what may",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "minimum mutilation",
+          "right": "change of subject",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        },
+        {
+          "left": "differential practical revisability",
+          "right": "do not redefine analyticity",
+          "maximum_paragraph_gap": 0,
+          "demand_limb": "anti-conflation consequence"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "quotation",
+          "right": "come what may",
+          "relation_anchor": "come what may",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        },
+        {
+          "left": "differential practical revisability",
+          "right": "do not redefine analyticity",
+          "relation_anchor": "do not redefine analyticity",
+          "maximum_paragraph_gap": 0,
+          "demand_limb": "entrenchment is not analyticity"
+        }
+      ]
+    },
+    {
+      "id": "2026 Q3(a)",
+      "marks": 20,
+      "question": "Why are states of consciousness ascribed to anything at all and why are they ascribed to the same things to which we also ascribe physical properties? How does Strawson answer these questions in his work *Individuals*?",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "Strawson asks how predicates of consciousness"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "same subject"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "self-ascription requires"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "States of consciousness and physical properties are ascribed"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "Strawson asks how predicates of consciousness",
+        "States of consciousness and physical properties are ascribed"
+      ],
+      "connected_pairs": [
+        {
+          "left": "Strawson asks how predicates of consciousness",
+          "right": "same subject",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "self-ascription requires",
+          "right": "States of consciousness and physical properties are ascribed",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "Strawson asks how predicates of consciousness",
+          "right": "same subject",
+          "relation_anchor": "same subject",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        }
+      ]
+    }
+  ],
+  "originals": [
+    {
+      "id": "Original 1",
+      "marks": 10,
+      "question": "Explain how Quine's confirmation holism follows from his rejection of the two dogmas of empiricism.",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "positive result"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "hypothesis together with auxiliaries"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "corporate body"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "minimum mutilation"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "positive result",
+        "minimum mutilation"
+      ],
+      "connected_pairs": [
+        {
+          "left": "positive result",
+          "right": "hypothesis together with auxiliaries",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "corporate body",
+          "right": "minimum mutilation",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "positive result",
+          "right": "hypothesis together with auxiliaries",
+          "relation_anchor": "hypothesis together with auxiliaries",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        }
+      ]
+    },
+    {
+      "id": "Original 2",
+      "marks": 15,
+      "question": "“Strawson's persons and Quine's web of belief are two forms of one anti-Cartesian conviction.” Critically discuss.",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "real convergence"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "primitive subject"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "positive projects diverge"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "Convergence without conflation"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "real convergence",
+        "Convergence without conflation"
+      ],
+      "connected_pairs": [
+        {
+          "left": "real convergence",
+          "right": "primitive subject",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "positive projects diverge",
+          "right": "Convergence without conflation",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "real convergence",
+          "right": "primitive subject",
+          "relation_anchor": "primitive subject",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        }
+      ]
+    },
+    {
+      "id": "Original 3",
+      "marks": 20,
+      "question": "Assess the claim that both Quine and Strawson refute classical empiricism, but at different levels.",
+      "demand_limbs": [
+        {
+          "limb": "demand component 1",
+          "anchors": [
+            "ownership qualification"
+          ]
+        },
+        {
+          "limb": "demand component 2",
+          "anchors": [
+            "conceptual conditions"
+          ]
+        },
+        {
+          "limb": "demand component 3",
+          "anchors": [
+            "levels differ"
+          ]
+        },
+        {
+          "limb": "demand component 4",
+          "anchors": [
+            "methodologically and doctrinally distinct"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "ownership qualification",
+        "methodologically and doctrinally distinct"
+      ],
+      "connected_pairs": [
+        {
+          "left": "ownership qualification",
+          "right": "conceptual conditions",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "opening thesis and first mechanism"
+        },
+        {
+          "left": "levels differ",
+          "right": "methodologically and doctrinally distinct",
+          "maximum_paragraph_gap": 4,
+          "demand_limb": "evaluation and qualification"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "ownership qualification",
+          "right": "conceptual conditions",
+          "relation_anchor": "conceptual conditions",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "affirmed core relation"
+        }
+      ]
+    }
+  ]
+}
