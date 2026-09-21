@@ -15,7 +15,12 @@
   - [10 Existentialism](Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/10-Existentialism/README.md) — validated; coverage-sized bank of 74 MCQs and 16 directly owned solved PYQs through 2026.
   - [11 Quine and Strawson](Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/11-Quine-and-Strawson/README.md) — validated; coverage-sized bank of 61 MCQs and 10 directly owned solved PYQs through 2026.
 
-Western Philosophy Topics 01–11 are individually validated. The next action is the **Western Philosophy final audit**; do not begin the next subject yet.
+Western Philosophy Topics 01–11 are complete and passed the
+[final audit](Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/WESTERN-PHILOSOPHY-FINAL-AUDIT.md)
+on 2026-09-21 at commit `e4318bba39f57ba87ebd23c8ad1b096ecdaca0e4`.
+
+The next canonical action is **Philosophy Paper I, Section B — Indian Philosophy, Topic 12
+Cārvāka**. Philosophy remains in progress; do not begin another subject.
 
 ## Global guides
 
