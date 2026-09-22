@@ -21,9 +21,11 @@ relevant `skills/*/SKILL.md` file(s) and the `knowledge/` files for the subject 
 4. **One thing at a time.** In teaching, cover one subtopic per turn and wait for a navigation
    command. Never auto-advance.
 5. **Visual-first teaching.** Every subtopic needs at least one diagram/table/flow/timeline.
-6. **Anti-bias MCQs.** Rotate the correct option A→B→C→D. Never repeat the same correct option
-   twice in a row. Before finalising any MCQ, verify the stem/options don't give away the answer;
-   for ordering questions strip years/dates from options; verify each statement independently.
+6. **Anti-bias MCQs.** Independently randomize the correct-option position for every MCQ; never
+   use a fixed A→B→C→D sequence. Audit the completed set for answer runs and wording, length,
+   grammar, punctuation, or formatting cues. Before finalising any MCQ, verify the stem/options
+   do not reveal the answer; for ordering questions strip years/dates from options and verify each
+   statement independently.
 7. **Export from a content ledger, not from layout alone.** Before generating a complete topic
    package, reconcile the official syllabus, Core owner, Advanced owner, PYQ ledger and verified
    current sources. Every syllabus-owned or PYQ-essential concept belongs in Core; Optional

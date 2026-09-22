@@ -11,7 +11,9 @@ upsc-ai-kit/
 ├── skills/                ← one folder per skill (study, exam, answer-evaluation, current-affairs)
 ├── tools/                 ← Python PDF generators (needs reportlab)
 ├── knowledge/             ← <Subject>/basic + <Subject>/advanced + _source-library (raw books)
-└── guides/upload-guide.md ← detailed per-platform setup
+└── guides/
+    ├── portable-guided-tutor-prompt.md ← universal live-lesson prompt
+    └── upload-guide.md                 ← platform-specific attachment setup
 ```
 
 ---
@@ -35,6 +37,16 @@ upsc-ai-kit/
 3. Google Search grounding gives live data; PDF export via Docs/Canvas (layout less exact).
 
 See `guides/upload-guide.md` for details, file-size limits, and which files to upload when.
+
+## Universal live Guided Tutor
+
+For any topic and any supported AI tool, attach the canonical topic Markdown, the verified PYQ
+ledger, optional book chapters/progress tracker, and
+[`guides/portable-guided-tutor-prompt.md`](guides/portable-guided-tutor-prompt.md).
+
+The prompt enforces roadmap-first teaching, one subtopic per response, visual explanations,
+verified current-affairs lookup, independently randomized MCQs, mastery before progression, and a
+visible checkpoint that can be pasted into another conversation or platform.
 
 ---
 

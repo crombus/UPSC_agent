@@ -62,4 +62,4 @@ Title + GS paper + news trigger + 4–5 key facts + 1 UPSC trap + Mains angle (1
 ## End-of-session summary (`Summary` or after all items)
 - 📌 5 Prelims-ready high-yield facts
 - 🧠 2 Mains themes
-- 🔥 3 UPSC-style MCQs (anti-bias: rotate correct option, no consecutive repeats)
+- 🔥 3 UPSC-style MCQs with independently randomized correct-option placement

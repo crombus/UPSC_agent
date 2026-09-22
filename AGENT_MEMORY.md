@@ -165,6 +165,13 @@ format.
 
 ## 5. Guided Tutor & Notes
 
+- **Portable live-lesson prompt (all topics and AI tools):** use
+  `upsc-ai-kit\guides\portable-guided-tutor-prompt.md` with the topic's complete canonical
+  Markdown owner and verified PYQ ledger; attach relevant books and `UPSC-PROGRESS-TRACKER.md`
+  optionally. The tutor must produce the roadmap first and wait for `Start`, teach one visual-first
+  subtopic per response, verify six-month current affairs when web access exists, run
+  independently randomized one-at-a-time MCQs until two consecutive correct, and print a visible
+  portable checkpoint after every response. Hidden/internal state alone is never sufficient.
 - **Static notes follow strict chapter sequence** — never skip or start mid-book:
   - RS Sharma Ancient History from **Ch-1** onwards.
   - GC Leong / Geography from **Ch-1** onwards.

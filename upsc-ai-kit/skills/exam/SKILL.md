@@ -26,7 +26,8 @@ User gives topics and says "generate exam" / "test me" / "exam paper" / `Bundle`
 
 ## HARD rules (question paper)
 - **ZERO answers, hints, or explanations anywhere.** No answer key in the paper.
-- Each MCQ: stem + 4 options (A/B/C/D). Anti-bias: rotate correct option across A→B→C→D.
+- Each MCQ: stem + 4 options (A/B/C/D). Independently randomize correct-option placement and
+  audit the full key for non-gameable distribution; never use a fixed A→B→C→D sequence.
 - 10-mark: directive word (Examine/Discuss/Analyse) + "Answer in 150 words."
 - 20-mark: directive + context + "Answer in 250 words."
 - Essay: 2 choices from different domains + "Write an essay in 1000–1200 words."
