@@ -59,9 +59,45 @@ It must remain usable from the repository alone in Markdown and PDF form.
    - Preserve all substantive reasoning, distinctions, examples, diagrams, flow logic, traps,
      qualifications, and answer-writing value.
    - Remove only true duplication, chat noise, tool output, and navigation prompts.
-10. Do not overwrite existing learner history. Generation must be deterministic and resumable.
-11. Validate each pilot topic before generating the full subject.
-12. Commit and push each validated subject or other coherent milestone to the isolated branch.
+10. **Formal-session reconciliation and repair rule (locked):**
+    - Before repairing a generated topic package, treat the completed formal learning session,
+      its roadmap, and its formal teaching blocks as required coverage evidence alongside the
+      canonical owner and solved-practice workbook.
+    - Build a pre-edit mapping from every formal subtopic and teaching block to the package
+      surfaces where it is taught, revised, tested, and transferred to answer writing.
+    - Classify every unmatched concept as exactly one of:
+      1. a genuine in-scope omission;
+      2. correctly owned by the next or another canonical topic, with an explicit bounded
+         cross-link and no duplicate primary ownership; or
+      3. excluded doubt-only enrichment with no independent syllabus, textbook, or PYQ relevance.
+      If a doubt introduced an independently relevant concept, reclassify it under 1 or 2; it
+      cannot remain in category 3.
+    - A concept routed under category 2 must create a machine-readable inbound obligation for its
+      destination topic. Record the obligation identifier in both topics' coverage records, and
+      make the destination topic's validation fail until it teaches, tests, or explicitly
+      re-routes the obligation. Recording a cross-link alone does not close coverage.
+    - The formal session is required evidence, not the sole authority. Canonical topic
+      boundaries, canonical ownership, verified PYQs, and existing ownership rules remain
+      controlling when sources disagree. The content read-order in rule 5 does not transfer
+      ownership or override a verified canonical boundary.
+    - Do not rewrite, shorten, or reorganize existing correct material merely for consistency.
+      Surgical correction is allowed where accuracy or cross-surface consistency requires it,
+      but depth and valid learner history must be preserved.
+    - For each genuine omission, repair every affected surface: substantive lesson and visual,
+      revision/register notes, coverage ledger, MCQs and option-specific explanations, affected
+      direct PYQ or original Mains models, solved workbook, PDFs, metadata, and validators.
+      Any added MCQ must obey rules 16–21, and the package's coverage-sized total must be
+      re-justified rather than merely incremented.
+    - Interpret any request to `preserve answer rotation` as preserving a valid randomized,
+      non-gameable answer distribution where possible. It never overrides the locked rule against
+      predictable A→B→C→D rotation, answer runs, lexical cues, or length/punctuation cues.
+    - Finish with `FORMAL-COVERAGE-AUDIT.json`, a machine-readable row for every formal block
+      recording its source anchor, classification, destination surface or routed owner, evidence,
+      inbound-obligation identifier where applicable, and validation result. A repair cannot pass
+      while a formal block is unclassified or a due inbound obligation is unresolved.
+11. Do not overwrite existing learner history. Generation must be deterministic and resumable.
+12. Validate each pilot topic before generating the full subject.
+13. Commit and push each validated subject or other coherent milestone to the isolated branch.
     Keep every push comfortably below GitHub's 2-GiB limit.
 
 ## Directory architecture
@@ -82,6 +118,7 @@ Offline-Revision-MCQ\
             |-- MCQ-QUESTIONS.md
             |-- MCQ-SOLUTIONS.md
             |-- COVERAGE-LEDGER.md
+            |-- FORMAL-COVERAGE-AUDIT.json
             |-- PRACTICE-LOG.md
             |-- ANSWER-WRITING-TOOLKIT.md
             |-- attempts\

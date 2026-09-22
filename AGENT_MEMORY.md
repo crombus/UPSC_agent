@@ -81,7 +81,9 @@ Internal Security · Disaster Management · Current Affairs
   answer become identifiable because it is consistently the longest or most elaborated option.
 - Preserve clear, concept-rich teaching and MCQ lines from successful interactive sessions for
   later notes, workbooks, and topic exports; do not replace them with weaker generic paraphrases.
-- **Anti-bias:** rotate the correct option A→B→C→D; never repeat the same option consecutively.
+- **Exam-generation anti-bias (not the Offline Revision system):** rotate the correct option
+  A→B→C→D and never repeat the same option consecutively. Offline Revision packages instead obey
+  `START-HERE.md`: independently randomized, non-gameable placement with no predictable rotation.
 - CA MCQs must test **concept + geography + institution + data** — NOT ceremony details
   (signing dates, venues, who represented whom). Concept-level facts = higher UPSC probability.
 - When a topic was covered in the current session's CA analysis, use **session-verified CA data first**;
@@ -103,8 +105,9 @@ format.
    coverage ledger before asking questions. Use OCR PDFs only for deeper evidence and live web
    sources for current facts; Qdrant remains optional.
 2. Ask **one MCQ at a time**. Do not show the answer before the learner responds.
-3. Rotate topics fairly and rotate correct options strictly **A → B → C → D**, continuing the
-   sequence across the whole test.
+3. For this interactive test protocol only, rotate topics fairly and rotate correct options
+   strictly **A → B → C → D**, continuing the sequence across the whole test. This does not apply
+   to the separate Offline Revision package banks.
 4. Begin with foundation/medium questions, then progress to hard UPSC-style statement,
    close-option, chronology, matching and conceptual-comparison questions once the foundation is
    covered.
@@ -499,7 +502,9 @@ format.
 - **Separate practice-workbook rule (all subjects):** alongside the main topic PDF, create a
   second detailed PDF containing topic-complete solved PYQs plus MCQ and remedial practice with
   explanations. Include MCQs spanning nearly every subtopic and add original Mains practice
-  questions with model solutions. Rotate correct MCQ options A -> B -> C -> D.
+  questions with model solutions. For this topic-export workflow outside the Offline Revision
+  system, rotate correct MCQ options A -> B -> C -> D; Offline Revision uses independent,
+  non-predictable placement.
 - **Exam-stage PYQ coverage rule:** for subjects or topics that overlap between UPSC Prelims
   and Mains, the solved workbook must include all relevant verified PYQs from both stages. For
   subjects or topics tested only in Prelims, include the relevant verified Prelims PYQs and
@@ -513,8 +518,9 @@ format.
   by a specific explanation of what an outstanding answer for that question and subject must
   contain (structure, concepts, comparisons, criticisms, examples, terminology and verdict).
   After the solved PYQs, include a substantial set of hard MCQs covering almost every part of the
-  learning session, with four plausible options, strict A -> B -> C -> D key rotation and detailed
-  explanations. End with revision-oriented Mains practice questions across relevant mark levels,
+  learning session, with four plausible options. In this premium export workflow outside the
+  Offline Revision system, use strict A -> B -> C -> D key rotation; Offline Revision uses
+  independent, non-predictable placement. End with revision-oriented Mains practice questions across relevant mark levels,
   each solved to the same highest standard. Brief answer routes alone are not sufficient.
 - **UPSC Mains model-answer quality standard (all subjects, saved 12 August 2026):** UPSC does
   not publish a fixed answer-level marking formula, so use the following as the repository's
@@ -766,6 +772,17 @@ format.
   qualification or criticism, and why the structure earns marks in that topic's
   `ANSWER-WRITING-TOOLKIT.md`. A question list, hint, or answer spine alone is not a solved PYQ;
   model answers are independent learner practice, not official UPSC keys.
+- **Formal-session reconciliation rule:** before repairing an offline topic package, map every
+  formal roadmap subtopic and teaching block from the completed learning session to the package.
+  Classify each unmatched concept as an in-scope omission, a bounded cross-link owned by another
+  canonical topic, or excluded non-relevant doubt-only enrichment; independently relevant doubts
+  must be reclassified as omissions or cross-links. Every cross-topic route creates an inbound
+  obligation that the destination validator must close. Repair genuine omissions across lesson/visual,
+  revision notes, coverage ledger, MCQs and option-specific explanations, affected Mains/PYQ
+  answers, workbook, PDFs, metadata and validators without shortening correct material. Finish
+  with `FORMAL-COVERAGE-AUDIT.json`; no formal block may remain unclassified. Canonical ownership,
+  verified PYQs and the no-predictable-answer-rotation rule override conflicting source wording;
+  added MCQs require a newly justified coverage-sized total.
 - Commit and push each validated subject or coherent milestone to the isolated feature branch.
   Do not modify or merge into another branch without explicit user instruction.
 - **Concurrent-session isolation:** every simultaneously active terminal or agent session must use
