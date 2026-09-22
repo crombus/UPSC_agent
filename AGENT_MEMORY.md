@@ -81,9 +81,10 @@ Internal Security · Disaster Management · Current Affairs
   answer become identifiable because it is consistently the longest or most elaborated option.
 - Preserve clear, concept-rich teaching and MCQ lines from successful interactive sessions for
   later notes, workbooks, and topic exports; do not replace them with weaker generic paraphrases.
-- **Exam-generation anti-bias (not the Offline Revision system):** rotate the correct option
-  A→B→C→D and never repeat the same option consecutively. Offline Revision packages instead obey
-  `START-HERE.md`: independently randomized, non-gameable placement with no predictable rotation.
+- **Universal MCQ answer placement:** independently randomize the correct-option position for
+  every MCQ. Never force or preserve an A→B→C→D sequence. Audit the completed bank for
+  non-gameable distribution, answer runs, and lexical, grammatical, length, punctuation, or
+  formatting cues.
 - CA MCQs must test **concept + geography + institution + data** — NOT ceremony details
   (signing dates, venues, who represented whom). Concept-level facts = higher UPSC probability.
 - When a topic was covered in the current session's CA analysis, use **session-verified CA data first**;
@@ -105,9 +106,8 @@ format.
    coverage ledger before asking questions. Use OCR PDFs only for deeper evidence and live web
    sources for current facts; Qdrant remains optional.
 2. Ask **one MCQ at a time**. Do not show the answer before the learner responds.
-3. For this interactive test protocol only, rotate topics fairly and rotate correct options
-   strictly **A → B → C → D**, continuing the sequence across the whole test. This does not apply
-   to the separate Offline Revision package banks.
+3. Rotate topics fairly and independently randomize the correct option for every question.
+   Preserve the randomized state when a paused test resumes; never continue a fixed answer cycle.
 4. Begin with foundation/medium questions, then progress to hard UPSC-style statement,
    close-option, chronology, matching and conceptual-comparison questions once the foundation is
    covered.
@@ -502,9 +502,8 @@ format.
 - **Separate practice-workbook rule (all subjects):** alongside the main topic PDF, create a
   second detailed PDF containing topic-complete solved PYQs plus MCQ and remedial practice with
   explanations. Include MCQs spanning nearly every subtopic and add original Mains practice
-  questions with model solutions. For this topic-export workflow outside the Offline Revision
-  system, rotate correct MCQ options A -> B -> C -> D; Offline Revision uses independent,
-  non-predictable placement.
+  questions with model solutions. Independently randomize correct-option placement and audit the
+  completed workbook for balance and answer cues; never use a fixed answer sequence.
 - **Exam-stage PYQ coverage rule:** for subjects or topics that overlap between UPSC Prelims
   and Mains, the solved workbook must include all relevant verified PYQs from both stages. For
   subjects or topics tested only in Prelims, include the relevant verified Prelims PYQs and
@@ -518,9 +517,9 @@ format.
   by a specific explanation of what an outstanding answer for that question and subject must
   contain (structure, concepts, comparisons, criticisms, examples, terminology and verdict).
   After the solved PYQs, include a substantial set of hard MCQs covering almost every part of the
-  learning session, with four plausible options. In this premium export workflow outside the
-  Offline Revision system, use strict A -> B -> C -> D key rotation; Offline Revision uses
-  independent, non-predictable placement. End with revision-oriented Mains practice questions across relevant mark levels,
+  learning session, with four plausible options and independently randomized correct-option
+  placement. Never use a fixed key rotation. End with revision-oriented Mains practice questions
+  across relevant mark levels,
   each solved to the same highest standard. Brief answer routes alone are not sufficient.
 - **UPSC Mains model-answer quality standard (all subjects, saved 12 August 2026):** UPSC does
   not publish a fixed answer-level marking formula, so use the following as the repository's
