@@ -1,17 +1,56 @@
 {
-  "schema_version": 3,
+  "schema_version": 15,
   "topic": "05 Hegel",
-  "validated_at": "2026-09-20T11:55:45+05:30",
-  "result": "pass",
-  "result_gate": "pass only when every required check, including every PYQ solution component, is true",
+  "validated_at": "2026-09-23T13:16:15+05:30",
+  "result": "DEVELOPMENT_PASS",
+  "validation_mode": "development",
+  "release_ready": true,
+  "result_gate": "DEVELOPMENT_PASS validates content and generated artifacts but is not release-ready. RELEASE_PASS additionally requires every required current file in the Git index.",
   "pdf_generation": {
-    "mechanism": "tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
+    "requested": false,
+    "last_regeneration_recorded": true,
+    "reused_prior_record": true,
+    "mechanism": "C:/up/tools/unicode_markdown_pdf.py via installed Chrome and PyMuPDF",
+    "files": {
+      "Revision-Guide.pdf": {
+        "source": "REVISION-GUIDE.md",
+        "exists": true,
+        "bytes": 2428284,
+        "sha256": "4fbfbf92021feb06daced26df02828be2e2a5c46714ec5b9c1586dab88c89a96",
+        "source_sha256": "79c01c35918e74051f917aa1cc49202106847b505dfa56aa074f470aa0b06b53",
+        "source_mtime_ns": 1790145845945880100,
+        "pdf_mtime_ns": 1790147414237820100
+      },
+      "MCQ-Questions.pdf": {
+        "source": "MCQ-QUESTIONS.md",
+        "exists": true,
+        "bytes": 233221,
+        "sha256": "6476fe0e88c0860fc28e56be97f7d03ef02363b6b7be753472a7e8c042a52dcf",
+        "source_sha256": "e2c78c321938f4ea9cdaaeba3a5b137c8e0e5dfc50429de939e6c495738bc136",
+        "source_mtime_ns": 1790142662546973500,
+        "pdf_mtime_ns": 1790147418400841300
+      },
+      "MCQ-Solutions.pdf": {
+        "source": "MCQ-SOLUTIONS.md",
+        "exists": true,
+        "bytes": 571502,
+        "sha256": "5a137b7d0ef05c31dffcc3020750137244bd51070b95625958dc4d2e4b3bce59",
+        "source_sha256": "f5f47a61aecb9807de89ea7783c5a78d3d219037640b238fd30640efaad74539",
+        "source_mtime_ns": 1790142662560143200,
+        "pdf_mtime_ns": 1790147423775432100
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "exists": true,
+        "bytes": 302870,
+        "sha256": "18716902fac8bfea7361f553bd160466c248afffffdcd77694b9057d8c4abb27",
+        "source_sha256": "544ef3e0499d60e4c2db69d0ecbc6d91502fa9292cc9562d5b4ce79694ae4753",
+        "source_mtime_ns": 1790141197413753300,
+        "pdf_mtime_ns": 1790147428010592500
+      }
+    },
     "all_four_regenerated": true
   },
-  "coverage_gaps": [
-    "No direct contemporary-current-affairs linkage is established by the authoritative source set; none was fabricated.",
-    "Years 2018 and 2024 contain no directly owned Hegel question-part."
-  ],
   "checks": {
     "required_files": {
       "README.md": true,
@@ -21,543 +60,792 @@
       "COVERAGE-LEDGER.md": true,
       "PRACTICE-LOG.md": true,
       "ANSWER-WRITING-TOOLKIT.md": true,
+      "FORMAL-COVERAGE-AUDIT.json": true,
+      "FORMAL-COVERAGE-REVIEW.json": true,
+      "VALIDATION.json": true,
+      "validate_package.py": true,
       "pdf/Revision-Guide.pdf": true,
       "pdf/MCQ-Questions.pdf": true,
       "pdf/MCQ-Solutions.pdf": true,
-      "pdf/Answer-Writing-Toolkit.pdf": true,
-      "VALIDATION.json": true
+      "pdf/Answer-Writing-Toolkit.pdf": true
     },
-    "mcq_numbering": {
-      "question_count": 52,
-      "solution_count": 52,
-      "questions": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26,
-        27,
-        28,
-        29,
-        30,
-        31,
-        32,
-        33,
-        34,
-        35,
-        36,
-        37,
-        38,
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        45,
-        46,
-        47,
-        48,
-        49,
-        50,
-        51,
-        52
-      ],
-      "solutions": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26,
-        27,
-        28,
-        29,
-        30,
-        31,
-        32,
-        33,
-        34,
-        35,
-        36,
-        37,
-        38,
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        45,
-        46,
-        47,
-        48,
-        49,
-        50,
-        51,
-        52
-      ],
-      "exact_match": true,
-      "all_questions_have_four_options": true,
-      "question_solution_prompts_match": true
-    },
-    "question_leakage": {
-      "**Answer:": false,
-      "Option explanations:": false,
-      "Examiner trap": false,
-      "Repair action:": false,
-      "Coverage mapping:": false,
-      "PYQ linkage:": false,
-      "Correct answer:": false
-    },
-    "neutral_titles": {
-      "questions_all_exactly_mcq_number": true,
-      "revealing_title_count": 0
-    },
-    "option_length_cues": {
-      "metric": "Unicode character count of each visible option",
-      "acceptable_correct_longest_rate_percent": [
-        15,
-        40
-      ],
-      "acceptable_uniquely_longest_rate_percent": [
-        5,
-        30
-      ],
-      "correct_is_longest_count": 14,
-      "correct_is_longest_rate_percent": 26.923,
-      "correct_is_longest_questions": [
-        1,
-        2,
-        4,
-        11,
-        15,
-        17,
-        23,
-        27,
-        29,
-        33,
-        35,
-        40,
-        45,
-        46
-      ],
-      "uniquely_longest_correct_count": 10,
-      "uniquely_longest_correct_rate_percent": 19.231,
-      "uniquely_longest_correct_questions": [
-        1,
-        4,
-        15,
-        17,
-        23,
-        27,
-        33,
-        35,
-        45,
-        46
-      ],
-      "correct_longest_answer_positions": {
-        "A": 4,
-        "B": 3,
-        "C": 3,
-        "D": 4
+    "formal_coverage_audit": {
+      "formal_block_count": 384,
+      "expected_block_count": 384,
+      "classifications": {
+        "covered_in_scope": 370,
+        "genuine_in_scope_omission": 8,
+        "routed_to_canonical_owner": 6
       },
-      "lower_extreme_near_zero_is_failure": true,
-      "upper_extreme_dominance_is_failure": true,
-      "rate_gate_pass": true,
-      "comparability_threshold": "max-minus-min <= 45 characters and max/min <= 1.65",
-      "statement_format_exceptions": [],
-      "comparability_outliers": []
-    },
-    "answer_pattern": {
-      "distribution": {
-        "A": 14,
-        "B": 13,
-        "C": 12,
-        "D": 13
+      "mapping_strategies": {
+        "manual_source_metadata_upgrade": 2,
+        "reviewed_structural_umbrella": 51,
+        "reviewed_multi_surface_proposition_mapping": 234,
+        "reviewed_repaired_distributed_leaf": 1,
+        "reviewed_formal_test_operation": 58,
+        "reviewed_repaired_formal_test_operation": 6,
+        "reviewed_exact_answer_surface": 24,
+        "reviewed_bounded_route": 6,
+        "reviewed_repaired_panel_inventory": 1,
+        "manual_structural_practice": 1
       },
-      "maximum_consecutive_same_answer": 2,
-      "mechanical_abcd_rotation": false,
-      "pass": true
-    },
-    "solutions_complete": {
-      "answers": 52,
-      "option_explanations": 52,
-      "examiner_traps": 52,
-      "repair_actions": 52,
-      "coverage_mappings": 52,
-      "pyq_linkages": 52
-    },
-    "generic_incorrect_explanation_boilerplate": {
-      "incorrect_distractor_explanations_checked": 156,
-      "known_generic_or_too_short_count": 0,
-      "all_incorrect_options_have_specific_doctrinal_reasons": true
-    },
-    "deduplication": {
-      "final_review_removed": "then-current Q31",
-      "retained_stronger_item": "Q27",
-      "reason": "Both tested the same Berkeley-vs-Hegel proposition; Q27 more precisely preserves ideas, finite spirits, God's infinite perception/divine ordering, nature, finite spirit and the Absolute.",
-      "duplicate_stem_absent": true,
-      "renumbered_q31_is_popper_control": true,
-      "canonical_or_control_nonduplicates": 37,
-      "gap_closing_questions": 15,
-      "final_count": 52,
-      "further_true_duplicates_found": 0,
-      "cell_c13_questions": [
-        27,
-        28
-      ],
-      "distinct_operation_defence_recorded_in_coverage_ledger": true
-    },
-    "berkeley_correction": {
-      "mcq": 27,
-      "required_terms": {
-        "ideas": true,
-        "finite spirits": true,
-        "God's infinite perception": true,
-        "divine ordering": true,
-        "nature": true,
-        "finite spirit": true,
-        "Absolute": true
+      "review_decision_layer": {
+        "path": "FORMAL-COVERAGE-REVIEW.json",
+        "schema_version": 4,
+        "declared_decision_count": 384,
+        "loaded_decision_count": 384,
+        "current_sha256": "c383003e784fa9b62350e65ba43e21abb0a6cd6d5aeedd27681fede8fad7b464",
+        "failures": [],
+        "pass": true
       },
-      "question_solution_wording_agree": true
-    },
-    "verified_pyqs": {
-      "directly_owned_count": 7,
-      "parts": [
-        [
-          "2019",
-          "Q1(c)",
-          10
-        ],
-        [
-          "2020",
-          "Q1(d)",
-          10
-        ],
-        [
-          "2021",
-          "Q2(a)",
-          20
-        ],
-        [
-          "2022",
-          "Q3(b)",
-          15
-        ],
-        [
-          "2023",
-          "Q1(b)",
-          10
-        ],
-        [
-          "2025",
-          "Q1(e)",
-          10
-        ],
-        [
-          "2026",
-          "Q1(c)",
-          10
-        ]
-      ],
-      "years_without_direct_part": [
-        "2018",
-        "2024"
-      ],
-      "bounded_cross_links": [
-        "2018 Q2(b) — Kant",
-        "2023 Q1(d) — Existentialism/Kierkegaard",
-        "2024 Q2(a) — Empiricism/Berkeley",
-        "2026 Q4(b) — Kant"
-      ],
-      "bounded_cross_link_count": 4,
-      "all_have_required_solution_components": true,
-      "component_checks": {
-        "2019 Q1(c)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true
+      "decision_hash_regression": {
+        "sample_block_id": "session-session-1-kant-s-residual-oppositions-and-hegel-s-immanent-proje-01-669b3f483e",
+        "semantic_label": "Plain-language definition",
+        "original_sha256": "4793555f95d7341f66f8b650283debb8747373001497ba9ea2dabfd48a89768c",
+        "mutation_sha256": {
+          "semantic_label": "9a313265c9835e4b2e21beb42071f5168a43a3ad9a14c1a5076f1db0c575fa1f",
+          "heading": "e50d71e5d139980220cfa1f0868be528a8172e889462668ae8953a25b14d6dc3",
+          "context": "3d79c7acf1ae856ab90085cf8e6ebbe11f03e5074126800352164e5602072fbf"
         },
-        "2020 Q1(d)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true
+        "all_mutations_stale_decision": true,
+        "pass": true
+      },
+      "coverage_negative_tests": {
+        "tests": [
+          {
+            "name": "drop_parent_only_content",
+            "expected_reasons": [
+              "structural umbrella declaration mismatch",
+              "proposition witness absent from source body"
+            ],
+            "actual_reasons": [
+              "proposition witness absent from source body",
+              "structural umbrella declaration mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "drop_structural_child",
+            "expected_reasons": [
+              "structural umbrella declaration mismatch"
+            ],
+            "actual_reasons": [
+              "structural umbrella declaration mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "chronology_opening_only_inventory",
+            "expected_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "actual_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "chronology_generic_token_fragments",
+            "expected_reasons": [
+              "generic or token-fragment witness",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "actual_reasons": [
+              "distributed unit has too few propositions",
+              "duplicate distributed witness",
+              "duplicate semantic claim",
+              "generic or token-fragment witness",
+              "proposition witness absent from source body",
+              "semantic claim is not conceptually specific",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "master_flow_reduced_to_ten_panels",
+            "expected_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "actual_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "master_flow_generic_witness_and_shared_anchor",
+            "expected_reasons": [
+              "generic or token-fragment witness",
+              "master-flow destination is not panel-specific",
+              "master-flow panels reuse a generic destination anchor"
+            ],
+            "actual_reasons": [
+              "duplicate distributed witness",
+              "duplicate semantic claim",
+              "generic or token-fragment witness",
+              "master-flow destination is not panel-specific",
+              "master-flow panels reuse a generic destination anchor",
+              "semantic claim is not conceptually specific",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          }
+        ],
+        "passed": 6,
+        "failed": 0,
+        "all_negative_tests_pass": true,
+        "pass": true
+      },
+      "verified_2026_owner_assertion": {
+        "ledger_hegel_parts": [
+          "Q1(c)"
+        ],
+        "required_primary_part": "Q1(c)",
+        "forbidden_misattribution": "Q4(b)",
+        "review_rows_checked": [
+          "session-pyqs-and-answer-practice-01-577c391986",
+          "workbook-pyqs-and-answer-practice-01-92a582b622"
+        ],
+        "pass": true
+      },
+      "unresolved_due_inbound_obligations": [],
+      "cross_topic_inbound_obligations": {
+        "count": 4,
+        "ids": [
+          "WP-2018-Q2B-HEGEL-KANT-CULMINATION",
+          "WP-2023-Q1D-HEGEL-UNIVERSAL-SPIRIT",
+          "WP-2024-Q2A-HEGEL-ABSOLUTE-IDEALISM",
+          "WP-2026-Q4B-HEGEL-REALITY-THOUGHT"
+        ],
+        "failures": [],
+        "pass": true
+      },
+      "source_identity": {
+        "session": {
+          "recorded": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\05-Hegel\\Learning-Session.md",
+            "sha256": "affa3e6af1e1e8aff19a070b8ad05457d686b0bb37604bd47b7b2b48cfe91c4c",
+            "bytes": 461746
+          },
+          "current_sha256": "affa3e6af1e1e8aff19a070b8ad05457d686b0bb37604bd47b7b2b48cfe91c4c",
+          "pass": true
         },
-        "2021 Q2(a)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true
-        },
-        "2022 Q3(b)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true
-        },
-        "2023 Q1(b)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true
-        },
-        "2025 Q1(e)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true
-        },
-        "2026 Q1(c)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true
+        "workbook": {
+          "recorded": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\05-Hegel\\Solved-Practice-Workbook.md",
+            "sha256": "9095f7dce1fd42e623a7eb7b89adefe4293bbdfac7fca70f59000c2209d98a4f",
+            "bytes": 89884
+          },
+          "current_sha256": "9095f7dce1fd42e623a7eb7b89adefe4293bbdfac7fca70f59000c2209d98a4f",
+          "pass": true
         }
       },
-      "model_answer_word_counts": {
+      "failures": [],
+      "mechanical_limitations": "The validator can prove that an independently persisted authored decision is bound to the canonical full block hash, including semantic labels, heading and context, that structural parents retain every child decision plus parent-only prose, and that large leaves retain distributed segment or panel propositions. Extraction and --refresh-formal-audit never create or approve review decisions. These controls still cannot prove philosophical truth, pedagogical sufficiency or examiner marks.",
+      "pass": true
+    },
+    "mcq_integrity": {
+      "parity": {
+        "question_count": 56,
+        "solution_count": 56,
+        "mismatches": [],
+        "pass": true
+      },
+      "answer_pattern": {
+        "key": "DACACDADCDABAADCAABCBBCDBADABDBBCACDACDBAACBBDDBDCBCBDAC",
+        "distribution": {
+          "D": 14,
+          "A": 15,
+          "C": 13,
+          "B": 14
+        },
+        "maximum_run": 2,
+        "mechanical_abcd_rotation": false,
+        "periodic_match_rates": {
+          "2": 0.222,
+          "4": 0.231
+        },
+        "pass": true
+      },
+      "question_answer_leakage": {
+        "**Answer:": false,
+        "**Option explanations:**": false,
+        "**Examiner trap": false,
+        "Correct:": false
+      },
+      "option_and_cue_quality": {
+        "metric": "Unicode character count and class-correlated visible features",
+        "correct_is_longest_count": 17,
+        "correct_is_longest_rate_percent": 30.36,
+        "uniquely_longest_correct_count": 11,
+        "uniquely_longest_rate_percent": 19.64,
+        "correct_mean_characters": 85.79,
+        "distractor_mean_characters": 85.32,
+        "mean_length_gap_percent": 0.54,
+        "comparability_outliers": [],
+        "feature_rates": {
+          "absolute_quantifier": {
+            "correct": 8,
+            "distractor": 39,
+            "correct_rate_percent": 14.29,
+            "distractor_rate_percent": 23.21,
+            "gap_percent": 8.93
+          },
+          "contrast_marker": {
+            "correct": 2,
+            "distractor": 1,
+            "correct_rate_percent": 3.57,
+            "distractor_rate_percent": 0.6,
+            "gap_percent": 2.98
+          },
+          "semicolon": {
+            "correct": 4,
+            "distractor": 6,
+            "correct_rate_percent": 7.14,
+            "distractor_rate_percent": 3.57,
+            "gap_percent": 3.57
+          },
+          "parentheses": {
+            "correct": 0,
+            "distractor": 0,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 0.0,
+            "gap_percent": 0.0
+          },
+          "dash": {
+            "correct": 0,
+            "distractor": 0,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 0.0,
+            "gap_percent": 0.0
+          },
+          "initial_capital": {
+            "correct": 10,
+            "distractor": 38,
+            "correct_rate_percent": 17.86,
+            "distractor_rate_percent": 22.62,
+            "gap_percent": 4.76
+          },
+          "finite_verb": {
+            "correct": 8,
+            "distractor": 25,
+            "correct_rate_percent": 14.29,
+            "distractor_rate_percent": 14.88,
+            "gap_percent": 0.6
+          }
+        },
+        "failed_feature_correlations": [],
+        "strong_class_exclusive_lexical_cues": [],
+        "locked_bands": {
+          "correct_longest_percent": [
+            15,
+            45
+          ],
+          "unique_longest_percent": [
+            5,
+            35
+          ],
+          "mean_length_gap_percent_max": 12,
+          "within_item_max_min_ratio": 2.2
+        },
+        "mechanical_limitations": "Length and token/feature correlation checks can detect recurring visible cues; they cannot prove that a learner will never infer an answer from style.",
+        "pass": true
+      },
+      "option_specific_explanations": {
+        "failures": [],
+        "duplicate_normalized_explanations": [],
+        "examiner_trap_count": 56,
+        "mechanical_limitations": "The gate verifies four distinct labelled explanations, correct/incorrect status, minimum depth and non-duplication. It does not establish philosophical truth.",
+        "pass": true
+      },
+      "pass": true
+    },
+    "verified_pyqs_and_original_models": {
+      "ledger_owned_count": 7,
+      "toolkit_owned_count": 7,
+      "owned_parts": [
+        "2019 Q1(c)",
+        "2020 Q1(d)",
+        "2021 Q2(a)",
+        "2022 Q3(b)",
+        "2023 Q1(b)",
+        "2025 Q1(e)",
+        "2026 Q1(c)"
+      ],
+      "exact_wording": {
+        "2019 Q1(c)": true,
+        "2020 Q1(d)": true,
+        "2021 Q2(a)": true,
+        "2022 Q3(b)": true,
+        "2023 Q1(b)": true,
+        "2025 Q1(e)": true,
+        "2026 Q1(c)": true
+      },
+      "timed_word_counts": {
         "2019 Q1(c)": {
           "marks": 10,
+          "words": 196,
           "band": [
             150,
             200
           ],
-          "measured_words": 196,
-          "in_band": true
+          "pass": true
         },
         "2020 Q1(d)": {
           "marks": 10,
+          "words": 187,
           "band": [
             150,
             200
           ],
-          "measured_words": 187,
-          "in_band": true
+          "pass": true
         },
         "2021 Q2(a)": {
           "marks": 20,
+          "words": 369,
           "band": [
             340,
             400
           ],
-          "measured_words": 369,
-          "in_band": true
+          "pass": true
         },
         "2022 Q3(b)": {
           "marks": 15,
+          "words": 283,
           "band": [
             250,
             300
           ],
-          "measured_words": 283,
-          "in_band": true
+          "pass": true
         },
         "2023 Q1(b)": {
           "marks": 10,
+          "words": 196,
           "band": [
             150,
             200
           ],
-          "measured_words": 196,
-          "in_band": true
+          "pass": true
         },
         "2025 Q1(e)": {
           "marks": 10,
+          "words": 197,
           "band": [
             150,
             200
           ],
-          "measured_words": 197,
-          "in_band": true
+          "pass": true
         },
         "2026 Q1(c)": {
           "marks": 10,
+          "words": 200,
           "band": [
             150,
             200
           ],
-          "measured_words": 200,
-          "in_band": true
+          "pass": true
         }
       },
-      "word_count_method": "regex token count over model-answer prose only; metadata, marks guidance and marks rationale excluded",
-      "portable_2026_authority": "upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md",
-      "portable_authority_exists": true,
-      "2018_2025_authority_exists": true,
-      "exact_2026_wording_present_in_authority_and_toolkit": true,
-      "external_official_scan_ocr": "optional corroboration only; not required for validation",
-      "unlisted_cross_link_mentions_absent": true
-    },
-    "required_doctrines": {
-      "Kant's residual dualisms": true,
-      "immanent critique": true,
-      "determinate negation": true,
-      "contradiction": true,
-      "mediation": true,
-      "Aufhebung": true,
-      "Being–Nothing–Becoming": true,
-      "concrete universal": true,
-      "identity-in-difference": true,
-      "bad infinity": true,
-      "true infinity": true,
-      "Logic": true,
-      "Nature": true,
-      "Spirit": true,
-      "freely releases itself": true,
-      "recognition": true,
-      "fear": true,
-      "service": true,
-      "labour": true,
-      "Stoicism": true,
-      "Scepticism": true,
-      "Unhappy Consciousness": true,
-      "Absolute Idealism": true,
-      "Subject, not merely Substance": true,
-      "Wirklichkeit": true,
-      "Dasein": true,
-      "phenomena/noumena": true,
-      "subjective idealism": true,
-      "Objective Spirit": true,
-      "cunning of reason": true,
-      "Trendelenburg": true,
-      "Schelling": true,
-      "Kierkegaard": true,
-      "Marx": true,
-      "Popper": true,
-      "CONSOLIDATED REGISTER NOTES": true
-    },
-    "stale_tas_guidance": {
-      "stale_wording_absent": true,
-      "replacement_guidance_present": true
+      "word_bands": {
+        "10": [
+          150,
+          200
+        ],
+        "15": [
+          250,
+          300
+        ],
+        "20": [
+          340,
+          400
+        ]
+      },
+      "original_models": {
+        "1": {
+          "marks": 10,
+          "words": 178,
+          "pass": true
+        },
+        "2": {
+          "marks": 10,
+          "words": 192,
+          "pass": true
+        },
+        "3": {
+          "marks": 15,
+          "words": 280,
+          "pass": true
+        },
+        "4": {
+          "marks": 15,
+          "words": 263,
+          "pass": true
+        },
+        "5": {
+          "marks": 20,
+          "words": 400,
+          "pass": true
+        },
+        "6": {
+          "marks": 20,
+          "words": 379,
+          "pass": true
+        }
+      },
+      "independent_practice_disclaimer": true,
+      "failures": [],
+      "pass": true
     },
     "markdown_links": {
-      "checked": 10,
-      "broken": []
+      "checked": 12,
+      "broken": [],
+      "pass": true
+    },
+    "provenance": {
+      "canonical_owner_sha256": "ebaac3a3c94482697ad7be5515aea80c6baeef59bc2ef5bd44ada1de1c123f79",
+      "verified_pyq_ledger_sha256": {
+        "knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md": "a4f40e7cec5aca3b02f77dbdb98bf156344bca17d8ce374665376d65814533c5",
+        "knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md": "258a00d4d3a4eba9a0e93cd4ff97e175436397c10498eeb3836d570e983512a9"
+      },
+      "honest_limit_statement_present": true,
+      "pass": true
     },
     "pdfs": {
-      "Answer-Writing-Toolkit.pdf": {
-        "bytes": 248699,
-        "pages": 14,
+      "Revision-Guide.pdf": {
+        "bytes": 2428284,
+        "pages": 182,
+        "source": "REVISION-GUIDE.md",
+        "source_sha256": "79c01c35918e74051f917aa1cc49202106847b505dfa56aa074f470aa0b06b53",
+        "pdf_sha256": "4fbfbf92021feb06daced26df02828be2e2a5c46714ec5b9c1586dab88c89a96",
+        "source_mtime_ns": 1790145845945880100,
+        "pdf_mtime_ns": 1790147414237820100,
+        "pdf_not_older_than_source": true,
+        "heading_count": 84,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
-        "generated_contents_page_excluded_from_overlap_heuristic": 2
+        "raw_markdown_artifacts": [],
+        "pass": true
       },
       "MCQ-Questions.pdf": {
-        "bytes": 204784,
-        "pages": 16,
+        "bytes": 233221,
+        "pages": 17,
+        "source": "MCQ-QUESTIONS.md",
+        "source_sha256": "e2c78c321938f4ea9cdaaeba3a5b137c8e0e5dfc50429de939e6c495738bc136",
+        "pdf_sha256": "6476fe0e88c0860fc28e56be97f7d03ef02363b6b7be753472a7e8c042a52dcf",
+        "source_mtime_ns": 1790142662546973500,
+        "pdf_mtime_ns": 1790147418400841300,
+        "pdf_not_older_than_source": true,
+        "heading_count": 57,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
-        "generated_contents_page_excluded_from_overlap_heuristic": 2
+        "raw_markdown_artifacts": [],
+        "mcq_count": 56,
+        "answer_leakage": false,
+        "pass": true
       },
       "MCQ-Solutions.pdf": {
-        "bytes": 516675,
-        "pages": 34,
+        "bytes": 571502,
+        "pages": 36,
+        "source": "MCQ-SOLUTIONS.md",
+        "source_sha256": "f5f47a61aecb9807de89ea7783c5a78d3d219037640b238fd30640efaad74539",
+        "pdf_sha256": "5a137b7d0ef05c31dffcc3020750137244bd51070b95625958dc4d2e4b3bce59",
+        "source_mtime_ns": 1790142662560143200,
+        "pdf_mtime_ns": 1790147423775432100,
+        "pdf_not_older_than_source": true,
+        "heading_count": 57,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
-        "generated_contents_page_excluded_from_overlap_heuristic": 2
+        "raw_markdown_artifacts": [],
+        "solution_count": 56,
+        "pass": true
       },
-      "Revision-Guide.pdf": {
-        "bytes": 2133578,
-        "pages": 127,
+      "Answer-Writing-Toolkit.pdf": {
+        "bytes": 302870,
+        "pages": 17,
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "source_sha256": "544ef3e0499d60e4c2db69d0ecbc6d91502fa9292cc9562d5b4ce79694ae4753",
+        "pdf_sha256": "18716902fac8bfea7361f553bd160466c248afffffdcd77694b9057d8c4abb27",
+        "source_mtime_ns": 1790141197413753300,
+        "pdf_mtime_ns": 1790147428010592500,
+        "pdf_not_older_than_source": true,
+        "heading_count": 12,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
-        "generated_contents_page_excluded_from_overlap_heuristic": 2
+        "raw_markdown_artifacts": [],
+        "owned_pyq_headings": 7,
+        "pass": true
       }
     },
-    "practice_log_blank_template": true,
-    "status_expectations": {
-      "philosophy_in_progress": true,
-      "topics_01_05_validated": true,
-      "topic_01_mcq_count": 40,
-      "topic_01_mcq_sizing": "coverage-driven",
-      "topic_05_mcq_count": 52,
-      "next_topic": "06 Moore, Russell and Early Wittgenstein"
-    },
-    "temporary_files_left": [],
-    "git_diff_check": {
-      "exit_code": 0,
-      "output": "",
-      "scope_note": "git diff --check validates tracked changes only; untracked state is recorded separately"
-    },
-    "git_status_awareness": {
-      "short_status": [
-        " M upsc-ai-kit/practice/Offline-Revision-MCQ/INDEX.md",
-        " M upsc-ai-kit/practice/Offline-Revision-MCQ/STATUS.json",
-        "?? upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/"
+    "text_and_git_integrity": {
+      "inspected_text_files": [
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/ANSWER-WRITING-TOOLKIT.md",
+          "bytes": 40086,
+          "sha256": "544ef3e0499d60e4c2db69d0ecbc6d91502fa9292cc9562d5b4ce79694ae4753"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/COVERAGE-LEDGER.md",
+          "bytes": 11003,
+          "sha256": "2a8b0ad734c0ceb54f6cb9b51f265382209319d526620827fc8828d83336dd9e"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/FORMAL-COVERAGE-AUDIT.json",
+          "bytes": 3210672,
+          "sha256": "11f4246e87c3a8a78fcf219c79587a10e5f46796986a1b8c20cdc311befc2765"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/FORMAL-COVERAGE-REVIEW.json",
+          "bytes": 1155292,
+          "sha256": "c383003e784fa9b62350e65ba43e21abb0a6cd6d5aeedd27681fede8fad7b464"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/MCQ-QUESTIONS.md",
+          "bytes": 27430,
+          "sha256": "e2c78c321938f4ea9cdaaeba3a5b137c8e0e5dfc50429de939e6c495738bc136"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/MCQ-SOLUTIONS.md",
+          "bytes": 81270,
+          "sha256": "f5f47a61aecb9807de89ea7783c5a78d3d219037640b238fd30640efaad74539"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/PRACTICE-LOG.md",
+          "bytes": 1591,
+          "sha256": "0364e84535db7b25b41bd984fd1aa3bfd53c68242add08af4005d1fa11d3b5af"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/README.md",
+          "bytes": 6071,
+          "sha256": "247e4e3e26be8ba97607a510c3303c838c7d1afa49bd6f219d4f00360b185571"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/REVISION-GUIDE.md",
+          "bytes": 455419,
+          "sha256": "79c01c35918e74051f917aa1cc49202106847b505dfa56aa074f470aa0b06b53"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/validate_package.py",
+          "bytes": 122189,
+          "sha256": "6753dafe4b9d70821b4984c01156847e10a66eb3c34aab42746b574eb7b6fa8d"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/VALIDATION.json",
+          "bytes": 33708,
+          "sha256": "7ef6340736631a13b096251ff6ffac92ffab43ba997016a8df0e5d3c2e2837aa"
+        }
       ],
-      "hegel_package_is_untracked": true,
-      "untracked_files_are_not_treated_as_an_empty_diff": true
+      "untracked_text_diff_checks": [],
+      "tracked_required_files": {
+        "README.md": true,
+        "REVISION-GUIDE.md": true,
+        "MCQ-QUESTIONS.md": true,
+        "MCQ-SOLUTIONS.md": true,
+        "COVERAGE-LEDGER.md": true,
+        "PRACTICE-LOG.md": true,
+        "ANSWER-WRITING-TOOLKIT.md": true,
+        "FORMAL-COVERAGE-AUDIT.json": true,
+        "FORMAL-COVERAGE-REVIEW.json": true,
+        "VALIDATION.json": true,
+        "validate_package.py": true,
+        "pdf/Revision-Guide.pdf": true,
+        "pdf/MCQ-Questions.pdf": true,
+        "pdf/MCQ-Solutions.pdf": true,
+        "pdf/Answer-Writing-Toolkit.pdf": true
+      },
+      "untracked_required_files": [],
+      "pdf_git_ignore_awareness": {
+        "Revision-Guide.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "MCQ-Questions.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "MCQ-Solutions.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "Answer-Writing-Toolkit.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        }
+      },
+      "release_staging_instruction_present": true,
+      "temporary_files": [],
+      "pycache_directories": [],
+      "failures": [],
+      "pass": true
     },
-    "temporary_file_scan_scope": "Hegel package tree plus repository-root repair/render scratch files; unrelated repository data modules are not temporary artifacts of this package"
+    "release_integrity": {
+      "mode": "precommit inclusion check",
+      "required_files": {
+        "README.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/README.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "REVISION-GUIDE.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/REVISION-GUIDE.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "MCQ-QUESTIONS.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/MCQ-QUESTIONS.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "MCQ-SOLUTIONS.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/MCQ-SOLUTIONS.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "COVERAGE-LEDGER.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/COVERAGE-LEDGER.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "PRACTICE-LOG.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/PRACTICE-LOG.md",
+          "exists": true,
+          "tracked": true,
+          "staged": false,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "ANSWER-WRITING-TOOLKIT.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/ANSWER-WRITING-TOOLKIT.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "FORMAL-COVERAGE-AUDIT.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/FORMAL-COVERAGE-AUDIT.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "FORMAL-COVERAGE-REVIEW.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/FORMAL-COVERAGE-REVIEW.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "VALIDATION.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/VALIDATION.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "validate_package.py": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/validate_package.py",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/Revision-Guide.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/pdf/Revision-Guide.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/MCQ-Questions.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/pdf/MCQ-Questions.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/MCQ-Solutions.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/pdf/MCQ-Solutions.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/Answer-Writing-Toolkit.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/05-Hegel/pdf/Answer-Writing-Toolkit.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        }
+      },
+      "missing_or_unstaged_required_files": [],
+      "mechanical_limitations": "This proves that each required path's current content is present in the Git index. It does not commit, push or prove that a later commit will include the same index.",
+      "pass": true
+    }
   },
-  "failures": []
+  "failures": [],
+  "mechanical_limits": "DEVELOPMENT_PASS certifies enumerated source-block accounting, reviewed anchors and witness overlap, MCQ/PYQ structure, visible cue metrics, links and PDF mechanics. Only RELEASE_PASS certifies current-file inclusion in the Git index. Neither proves philosophical truth, semantic completeness, future UPSC relevance or examiner marks."
 }

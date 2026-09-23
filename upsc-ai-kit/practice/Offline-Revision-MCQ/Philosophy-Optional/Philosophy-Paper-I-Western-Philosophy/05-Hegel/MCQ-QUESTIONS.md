@@ -1,6 +1,6 @@
 # Hegel — MCQ Questions
 
-> Attempt closed-book. Record option, reasoning and confidence in PRACTICE-LOG.md before opening MCQ-SOLUTIONS.md. The **52-question total emerged from the distinct-operation coverage audit**; it was not selected as a quota. No answer, hint, explanation or answer-pattern cue is intentionally present here.
+> Attempt closed-book. Record option, reasoning and confidence in PRACTICE-LOG.md before opening MCQ-SOLUTIONS.md. The 56-question total emerged from the distinct-operation coverage audit; it was not selected as a quota. No answer, hint, explanation or answer-pattern cue is intentionally present here.
 
 ## MCQ 1
 For Hegel, the dialectical method is best described as:
@@ -601,3 +601,47 @@ B. Hegel owns every question naming him, including all four comparison questions
 C. Hegel owns seven parts; 2018 and 2024 have none, and four comparisons remain cross-links
 
 D. Hegel owns eight parts because the 2026 Kant comparison must be counted under both owners
+
+## MCQ 53
+Why does Hegel begin the *Science of Logic* with pure Being?
+
+A. Pure Being is the richest category because every determinate object already exemplifies it
+
+B. A presuppositionless science must begin with the least determined thought, whose emptiness immediately destabilises it
+
+C. Sense perception first supplies Being as an empirical datum from which logical categories are abstracted
+
+D. Aristotle established Being as the final category, so Hegel adopts it as an historically authoritative starting point
+
+## MCQ 54
+Which mapping of the *Encyclopaedia* sections is accurate?
+
+A. §244 defines Nature as otherness; §247 states nature's impotence; §250 freely releases the Idea
+
+B. §244 states nature's impotence; §247 freely releases the Idea; §250 defines Nature as otherness
+
+C. §244 freely releases the Idea; §247 states nature's impotence; §250 defines Nature as otherness
+
+D. §244 freely releases the Idea; §247 defines Nature as otherness; §250 states nature's impotence
+
+## MCQ 55
+How should Hegel's lectures on the philosophy of history be used in an answer?
+
+A. As posthumously edited, student-mediated evidence whose formulations require explicit source caution
+
+B. As a book Hegel personally published and revised, carrying the same textual status as the *Science of Logic*
+
+C. As later Marxist reconstruction that cannot supply any evidence about Hegel's own account of history
+
+D. As an official transcript that fixes one uncontested wording for the progress and cunning-of-reason formulas
+
+## MCQ 56
+Which sequence accurately follows Hegel's principal developmental locations and works?
+
+A. Nuremberg *Phenomenology* → Jena *Science of Logic* → Berlin *Encyclopaedia* → Heidelberg *Philosophy of Right*
+
+B. Jena *Science of Logic* → Nuremberg *Phenomenology* → Heidelberg *Philosophy of Right* → Berlin *Encyclopaedia*
+
+C. Jena *Phenomenology* → Nuremberg *Science of Logic* → Heidelberg *Encyclopaedia* → Berlin *Philosophy of Right*
+
+D. Heidelberg *Phenomenology* → Jena *Encyclopaedia* → Nuremberg *Philosophy of Right* → Berlin *Science of Logic*

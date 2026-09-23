@@ -97,7 +97,7 @@ D. raising a determination to a higher level without cancelling any of its limit
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: Aufhebung combines cancellation, preservation and elevation within one determinate transition.
+- **A:** Correct: Aufhebung combines cancellation, preservation and elevation within one determinate transition that retains transformed content.
 - **B:** Incorrect: Complete replacement would be abstract negation and would lose the earlier determination's partial truth.
 - **C:** Incorrect: Unchanged preservation omits the negating moment through which the earlier form loses self-sufficiency.
 - **D:** Incorrect: Elevation without cancellation leaves the original limitation intact and therefore is not sublation.
@@ -342,7 +342,7 @@ D. achieves reconciliation by submitting desire and work to a mediating religiou
 **Option explanations:**
 - **A:** Correct: Stoicism locates freedom in the universality of thought independently of external social status.
 - **B:** Incorrect: This resembles a crude subjective idealism, not Stoic freedom within the Phenomenology.
-- **C:** Incorrect: Projection of the Unchangeable belongs to the later Unhappy Consciousness.
+- **C:** Incorrect: Projection of the Unchangeable belongs to the later Unhappy Consciousness, not to Stoic inward freedom.
 - **D:** Incorrect: Mediated devotion and work occur within the Unhappy Consciousness, not Stoicism.
 
 **Examiner trap 13:** Choosing by a familiar slogan while missing the cell’s controlling distinction: **Stoicism, Scepticism and Unhappy Consciousness**.
@@ -369,8 +369,8 @@ D. devotion to an Unchangeable beyond mediated by work, sacrifice, and religious
 **Option explanations:**
 - **A:** Correct: Scepticism enacts universal negation yet continues to assert and act, producing a lived self-contradiction.
 - **B:** Incorrect: This describes Stoicism's abstract inward freedom rather than Scepticism's active negation.
-- **C:** Incorrect: This belongs to the bondsman's formation in the lordship-bondage episode.
-- **D:** Incorrect: This describes the religiously divided Unhappy Consciousness that follows Scepticism.
+- **C:** Incorrect: This belongs to the bondsman's formation through labour in the earlier lordship-bondage episode.
+- **D:** Incorrect: This describes the religiously divided Unhappy Consciousness that follows Scepticism in the phenomenological sequence.
 
 **Examiner trap 14:** Choosing by a familiar slogan while missing the cell’s controlling distinction: **Stoicism, Scepticism and Unhappy Consciousness**.
 
@@ -421,7 +421,7 @@ D. only conceptual structures are real, whereas events and institutions are appe
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: Longevity establishes persistence, not Wirklichkeit as realised rational essence.
+- **A:** Incorrect: Longevity establishes persistence, not Wirklichkeit as realised rational essence through an institution's concept.
 - **B:** Incorrect: The distinction between existence and actuality enables immanent criticism of defective institutions.
 - **C:** Correct: Wirklichkeit is conceptually adequate existence; Dasein may persist while failing its own rational norm.
 - **D:** Incorrect: Hegel does not deny events and institutions reality; he assesses their degree of conceptual adequacy.
@@ -502,7 +502,7 @@ D. noumenal things are identical with Berkeleyan ideas perceived and coordinated
 **Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: Hegel does not bypass concepts through unmediated perception of noumena.
+- **A:** Incorrect: Hegel does not bypass concepts through unmediated perception of noumena or claim intellectual intuition.
 - **B:** Correct: Thinking a determinate boundary relates its sides and destabilises a positively characterised unknowable beyond.
 - **C:** Incorrect: Kant's practical postulates do not amount to theoretical cognition of noumenal objects.
 - **D:** Incorrect: Berkeley's ontology of ideas and spirits is not Kant's distinction between appearances and things in themselves.
@@ -529,7 +529,7 @@ D. space and time belong to things in themselves rather than to our forms of sen
 **Answer: C.**
 
 **Option explanations:**
-- **A:** Incorrect: Strawson rejects positive supersensible knowledge instead of licensing it.
+- **A:** Incorrect: Strawson rejects positive supersensible knowledge instead of licensing access to a hidden noumenal object.
 - **B:** Incorrect: Unlike Hegel, Strawson reconstructs a descriptive conceptual scheme rather than Absolute Idealism.
 - **C:** Correct: Strawson's criticism converges with Hegel against using existence and causation beyond their warranted domain.
 - **D:** Incorrect: Strawson does not convert Kantian forms of intuition into properties of noumenal objects.
@@ -637,7 +637,7 @@ D. one ruler alone free, then some citizens free, then all persons free
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: This reverses Hegel's retrospective progression by beginning with universal freedom.
+- **A:** Incorrect: This reverses Hegel's retrospective progression by beginning with universal freedom rather than one-person freedom.
 - **B:** Incorrect: This moves backward from partial freedom to despotism before recovering universality.
 - **C:** Incorrect: This places universal freedom before the classical restriction to some citizens.
 - **D:** Correct: Hegel's schematic sequence moves from despotism, through limited citizenship, to universal freedom in principle.
@@ -828,7 +828,7 @@ D. repeats a methodological criticism that Hegel explicitly formulated and accep
 **Option explanations:**
 - **A:** Incorrect: The Logic articulates categories rather than issuing ordinary empirical predictions to be falsified.
 - **B:** Correct: Popper's charge is strongest against historical necessity and weaker when transferred unchanged to categorial analysis.
-- **C:** Incorrect: The different registers make a uniform falsifiability verdict philosophically indiscriminate.
+- **C:** Incorrect: The different logical, historical and social registers make a uniform falsifiability verdict philosophically indiscriminate.
 - **D:** Incorrect: Popper is a later critic; Hegel did not endorse Popper's account of unfalsifiable historicism.
 
 **Examiner trap 31:** Choosing by a familiar slogan while missing the cell’s controlling distinction: **Criticisms and replies**.
@@ -882,7 +882,7 @@ D. an initial thesis, an opposed antithesis, and an externally composed synthesi
 **Option explanations:**
 - **A:** Incorrect: These describe the system's three domains, not the internal moments of the Begriff.
 - **B:** Incorrect: These are forms of Absolute Spirit rather than universality, particularity and individuality.
-- **C:** Correct: The Concept particularises its universality and returns as concrete individuality.
+- **C:** Correct: The Concept particularises its universality and returns as concrete individuality rather than an external collection.
 - **D:** Incorrect: This later shorthand suggests an external recipe and does not name the Concept's moments.
 
 **Examiner trap 33:** Choosing by a familiar slogan while missing the cell’s controlling distinction: **Concrete universal, identity-in-difference, Concept and true infinite**.
@@ -1077,7 +1077,7 @@ D. mediation requires an external observer to combine two otherwise complete and
 
 **Option explanations:**
 - **A:** Incorrect: Hegel challenges the abstraction of self-sufficient terms whose identities precede every relation.
-- **B:** Correct: Identity-in-difference makes relation constitutive while preserving determinate distinction.
+- **B:** Correct: Identity-in-difference makes relation constitutive while preserving determinate distinction between the related terms.
 - **C:** Incorrect: Mediation preserves differentiated terms and therefore does not collapse them into featureless unity.
 - **D:** Incorrect: Hegelian mediation is immanent to the terms rather than supplied by a third-party observer.
 
@@ -1104,7 +1104,7 @@ D. concrete universality, because an indefinite series organises all differences
 
 **Option explanations:**
 - **A:** Correct: The endless ought-to-be beyond remains dependent on the finite boundary and never returns to itself.
-- **B:** Incorrect: Absolute Spirit is qualitative self-comprehension, not an indefinitely extended sequence.
+- **B:** Incorrect: Absolute Spirit is qualitative self-comprehension, not an indefinitely extended sequence that never returns to itself.
 - **C:** Incorrect: Kant's negative noumenon limits cognition; it is not Hegel's diagnosis of endless progression.
 - **D:** Incorrect: A concrete universal internally organises its moments instead of adding one external term after another.
 
@@ -1433,3 +1433,111 @@ D. Hegel owns eight parts because the 2026 Kant comparison must be counted under
 **Coverage mapping:** `C16` — Direct PYQ ownership and transfer.
 
 **PYQ linkage:** All seven direct PYQs through 2026.
+
+## MCQ 53
+Why does Hegel begin the *Science of Logic* with pure Being?
+
+A. Pure Being is the richest category because every determinate object already exemplifies it
+
+B. A presuppositionless science must begin with the least determined thought, whose emptiness immediately destabilises it
+
+C. Sense perception first supplies Being as an empirical datum from which logical categories are abstracted
+
+D. Aristotle established Being as the final category, so Hegel adopts it as an historically authoritative starting point
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: Pure Being is the poorest and least determined category, not the richest content already realised by objects.
+- **B:** Correct: Presuppositionlessness requires the empty beginning, and that very indeterminacy makes pure Being indistinguishable from pure Nothing.
+- **C:** Incorrect: Hegel's logical beginning is not an empirical abstraction from sensation; importing perception would violate the claimed presuppositionless start.
+- **D:** Incorrect: Historical authority cannot justify the first category of an immanent logic, and Aristotle does not supply Hegel's opening transition.
+
+**Examiner trap 53:** Treating Being as an obvious empirical fact misses why the beginning must contain no borrowed determination.
+
+**Repair action:** Link presuppositionlessness to indeterminacy, then show why emptiness drives Being into Nothing and Becoming.
+
+**Coverage mapping:** `C04` — *Aufhebung* and Being–Nothing–Becoming.
+
+**PYQ linkage:** 2019 Q1(c); 2021 Q2(a); 2022 Q3(b); 2026 Q1(c).
+
+## MCQ 54
+Which mapping of the *Encyclopaedia* sections is accurate?
+
+A. §244 defines Nature as otherness; §247 states nature's impotence; §250 freely releases the Idea
+
+B. §244 states nature's impotence; §247 freely releases the Idea; §250 defines Nature as otherness
+
+C. §244 freely releases the Idea; §247 states nature's impotence; §250 defines Nature as otherness
+
+D. §244 freely releases the Idea; §247 defines Nature as otherness; §250 states nature's impotence
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: It reverses all three controls; otherness belongs to §247, impotence to §250, and free release to §244.
+- **B:** Incorrect: It assigns each doctrine to the wrong section and therefore cannot support a source-controlled transition argument.
+- **C:** Incorrect: It locates free release correctly at §244 but exchanges the §247 otherness claim and the §250 impotence claim.
+- **D:** Correct: §244 gives the free release, §247 defines Nature as the Idea in otherness, and §250 names nature's impotence.
+
+**Examiner trap 54:** Remembering the three formulas without their locations encourages false precision and weakens the Logic-to-Nature evaluation.
+
+**Repair action:** Fix the sequence 244 release, 247 otherness, 250 impotence before using the Schelling and Trendelenburg objections.
+
+**Coverage mapping:** `C11` — Logic-to-Nature transition and contingency.
+
+**PYQ linkage:** Advanced evaluation for 2021 Q2(a) and 2022 Q3(b).
+
+## MCQ 55
+How should Hegel's lectures on the philosophy of history be used in an answer?
+
+A. As posthumously edited, student-mediated evidence whose formulations require explicit source caution
+
+B. As a book Hegel personally published and revised, carrying the same textual status as the *Science of Logic*
+
+C. As later Marxist reconstruction that cannot supply any evidence about Hegel's own account of history
+
+D. As an official transcript that fixes one uncontested wording for the progress and cunning-of-reason formulas
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: The lectures were assembled from posthumous editorial and student materials, so their formulas are usable only with provenance caution.
+- **B:** Incorrect: Hegel did not publish the lectures as a finished book, and their textual status differs from works he prepared for publication.
+- **C:** Incorrect: Later receptions transform Hegel, but the lecture materials still provide qualified evidence for his philosophy of history.
+- **D:** Incorrect: The textual tradition is editorially mediated and translation-sensitive, not one official uncontested transcript.
+
+**Examiner trap 55:** Writing “Hegel wrote” before a lecture formula turns a sound doctrine point into a preventable source error.
+
+**Repair action:** Say “in the posthumously edited lectures on the philosophy of history” and separate doctrine from later reception.
+
+**Coverage mapping:** `C15` — Sources, registers, quotation and scope discipline.
+
+**PYQ linkage:** 2023 Q1(b); source discipline across all Hegel answers.
+
+## MCQ 56
+Which sequence accurately follows Hegel's principal developmental locations and works?
+
+A. Nuremberg *Phenomenology* → Jena *Science of Logic* → Berlin *Encyclopaedia* → Heidelberg *Philosophy of Right*
+
+B. Jena *Science of Logic* → Nuremberg *Phenomenology* → Heidelberg *Philosophy of Right* → Berlin *Encyclopaedia*
+
+C. Jena *Phenomenology* → Nuremberg *Science of Logic* → Heidelberg *Encyclopaedia* → Berlin *Philosophy of Right*
+
+D. Heidelberg *Phenomenology* → Jena *Encyclopaedia* → Nuremberg *Philosophy of Right* → Berlin *Science of Logic*
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: The *Phenomenology* belongs to Jena, the *Logic* to the Nuremberg years, and Heidelberg precedes the Berlin chair.
+- **B:** Incorrect: It reverses the *Phenomenology* and *Logic*, then exchanges the Heidelberg *Encyclopaedia* and Berlin *Philosophy of Right*.
+- **C:** Correct: Jena culminates in the 1807 *Phenomenology*, Nuremberg in the 1812–16 *Logic*, Heidelberg in the 1817 *Encyclopaedia*, and Berlin in the 1820/21 *Philosophy of Right*.
+- **D:** Incorrect: Every work-location pairing is displaced; none matches Hegel's documented intellectual and institutional chronology.
+
+**Examiner trap 56:** Treating the system as one simultaneous book obscures the distinct evidential status and argumentative role of its works.
+
+**Repair action:** Recall Jena–Phenomenology, Nuremberg–Logic, Heidelberg–Encyclopaedia, Berlin–Philosophy of Right, then separate posthumous lectures.
+
+**Coverage mapping:** `C15` — Sources, chronology, registers, quotation and scope discipline.
+
+**PYQ linkage:** Source control for every Hegel answer, especially the 2023 history demand.
