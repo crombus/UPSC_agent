@@ -44,6 +44,15 @@ added for each. The resulting count of 42 is therefore an audit outcome, not a t
 | 41 | Kant–Hegel categories and boundary | Earlier comparison routing did not directly test fixed categories/noumenal limit against dialectical self-development. |
 | 42 | Speculative God-proof critique and bounded practical postulates | Earlier owner-boundary coverage did not test the exact non-theoretical status of the practical sequel. |
 
+## Answer-key and cue audit
+
+Correct positions were fixed independently rather than rotated. The final key distribution is
+**A 10, B 11, C 10, D 11**, with a maximum same-letter run of **2**; it is not an A→B→C→D
+cycle. Options were matched for length, specificity, grammar, punctuation and visible formatting.
+The validator reports no within-item length outlier, failed feature correlation, strong
+class-exclusive lexical cue, duplicate normalized explanation or question-side answer leakage.
+Every solved item retains four option-specific explanations and a unique examiner trap.
+
 ## PYQ ownership accounting
 
 Kant directly owns **11** verified parts: 2018 (1), 2019 (1), 2020 (1), 2021 (1), 2022 (2),

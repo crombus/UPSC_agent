@@ -1,6 +1,6 @@
 # Kant — Answer-Writing Toolkit
 
-> This is the topic's solved Mains/PYQ workbook and transfer manual. All **11 directly owned**
+> This is the topic's solved Mains/PYQ workbook and transfer manual. All 11 directly owned
 > verified PYQs through 2026 receive complete independent model answers. These are learner
 > practice, never official UPSC answer keys. Hegel is retained inside routed comparisons; 2026
 > Q2(b) is cross-linked to Empiricism without duplicate ownership.
@@ -573,6 +573,11 @@ Each of the three collapses is then a specific transcendent move. The Paralogism
 
 **Verdict.** ⚠️ Without the distinction the Dialectic has no diagnosis — only a list of failed proofs.
 
+##### Why this earns marks
+
+The answer defines both terms, applies the distinction across all three Dialectical failures and
+ends with a qualified diagnostic verdict rather than a merely lexical contrast.
+
 #### Original 2 · 10 marks
 
 **Question:** Explain Kant's doctrine of the schematism and state precisely why the schemata must be determinations of time. Discuss.
@@ -587,9 +592,14 @@ Each of the three collapses is then a specific transcendent move. The Paralogism
 
 **Schema, not image.** Any drawn triangle is determinately scalene or equilateral; the schema is the **rule** for constructing a triangle in general.
 
-**Consequence.** Without its schema a category is a mere logical function: it can be **thought** but determines no object — which is why the negative noumenon is thinkable.
+**Consequence.** Without its schema a category is a logical function: it can be **thought** but determines no object — which is why the negative noumenon is thinkable.
 
 **Verdict.** ⚠️ Kant calls the procedure "an art concealed in the depths of the human soul" (A141/B180–1): the joint that carries the system is the one he cannot display.
+
+##### Why this earns marks
+
+The response states the heterogeneity problem, gives time's two-sided homogeneity, distinguishes
+schema from image and closes with Kant's own limitation inside the exact 10-mark band.
 
 #### Original 3 · 15 marks
 
@@ -604,6 +614,11 @@ The argument runs: apprehension is successive in every case; I nevertheless dist
 **The claim's second half.** Kant never derives which causes operate. That bread nourishes, that this collision produces that motion, remain empirical discoveries. The Analogy secures the **form** of nature and leaves the **content** to science.
 
 **Verdict.** ⚠️ The claim is accurate. Kant wins the entitlement Hume denied and declines the knowledge Hume demanded — which is not an evasion but a consequence of separating form from content. ❓ Strawson calls the central transition a "non-sequitur of numbing grossness", since that the order of my perceptions is not up to me does not entail that the event is necessitated by a causal law; Guyer argues that at most *some* rule is required. Allison replies that Kant is describing the conditions under which a succession can be **judged** objective, and that only a causal rule can fix an irreversible position in one time. The restriction to appearances then follows: the same argument that defeats Hume forbids inferring a first cause of the world.
+
+##### Why this earns marks
+
+The model reconstructs the Second Analogy, separates transcendental entitlement from empirical
+law-discovery, and adjudicates named objections without overstating Kant's victory over Hume.
 
 #### Original 4 · 15 marks
 
@@ -621,6 +636,11 @@ Against Hegel, the distinction is therefore not a knowledge-claim about a hidden
 
 **Verdict.** ⚠️ The boundary is not empty in the pejorative sense: it does indispensable work, licensing the Principles for everything that can appear and forbidding their extension to soul, world and God. It is, however, a boundary Kant can state more securely than he can explain — and that is the honest formulation.
 
+##### Why this earns marks
+
+The answer presents Hegel and Jacobi independently, gives Kant's negative-noumenon reply, tests
+the two-aspect defence and reaches a balanced rather than defensive verdict.
+
 #### Original 5 · 20 marks
 
 **Question:** "Kant's Transcendental Deduction is the strongest anti-sceptical argument in modern philosophy and rests on its weakest scaffolding." Critically examine.
@@ -631,13 +651,18 @@ Against Hegel, the distinction is therefore not a knowledge-claim about a hidden
 
 From that premise: combination "can never come to us through the senses", since sensibility is receptive and delivers a manifold but never its unity; every synthesis is an act of spontaneity. A manifold can belong to **one** consciousness only if combined in a determinate, repeatable way — that is, according to rules. Those rules are the categories, since a category just is the concept of a synthesis in accordance with a logical function of judgement. And an object is "that in the concept of which the manifold of a given intuition is united". Hence the categories are necessarily valid of every object of possible experience.
 
-This is anti-scepticism without a premise the sceptic can refuse. It simultaneously answers Hume, who sought the self among impressions and found none because the "I think" is a condition and not a content, and rational psychology, which converted the same formal unity into a substance.
+This is anti-scepticism without a premise the sceptic can refuse. It answers Hume, who sought the self among impressions and found none because the "I think" is a condition and not a content, and rational psychology, which converted the same formal unity into a substance.
 
 **The weakness.** The **metaphysical** deduction supplies the inventory: twelve categories read off twelve logical functions of judgement, on the premise that the understanding is a faculty of judging. Fichte, Hegel and later Kantians object that the derivation is artificial and the completeness claim rests entirely on the logic Kant inherited. Kant's defence — that the table of judgements is exhaustive and systematic, and that no more complete rival was offered — is a defence of the best available list, not a proof.
 
 **Adjudication.** ⚠️ The two are separable. The Deduction's **strategy** is that objectivity is a *condition* rather than a *discovery*; its **inventory** is a historical contingency. Strawson's austere reading detaches the strategy and preserves the result. ❓ There is a further dispute — whether the A and B versions argue differently or only differ in exposition — but it concerns route and emphasis rather than the core claim.
 
 **Verdict.** ⚠️ The statement is accurate as it stands. The argument survives the loss of the table; the table would not survive the loss of the argument. Its remaining cost is scope: the conclusion holds of objects **as they can be given to us**, so the Deduction secures objectivity within possible experience and leaves things in themselves untouched.
+
+##### Why this earns marks
+
+The response distinguishes the Deduction's anti-sceptical strategy from the inherited category
+inventory, supplies named criticism and reconstruction, and preserves the phenomena-only limit.
 
 #### Original 6 · 20 marks
 
@@ -658,3 +683,8 @@ This is anti-scepticism without a premise the sceptic can refuse. It simultaneou
 **What survives.** Theoretical reason can neither prove nor disprove God: Kant is **agnostic, not atheistic**. Practical reason then **postulates** God, since the highest good requires a being able to proportion happiness to virtue — "I had to deny knowledge in order to make room for faith" (Bxxx; *Glaube* is rendered "belief" by Guyer–Wood). ⚠️ Freedom and immortality are postulated on parallel grounds, and the argument stops there: Kantian ethics as a doctrine is not printed in this syllabus item.
 
 **Verdict.** ❓ The critique is decisive against the classical formulations and contested against modal reconstructions by Malcolm and Plantinga. What Kant leaves standing is not a diminished theology but a **relocated** one: God ceases to be an object of proof and becomes a condition of the moral life — at the price of conceding that theology can never be a science.
+
+##### Why this earns marks
+
+The model proves the dependency chain rather than listing objections, preserves Kant's agnostic
+scope, and separates the bounded practical sequel from a prohibited survey of Kantian ethics.

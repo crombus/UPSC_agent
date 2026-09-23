@@ -323,9 +323,9 @@ D. The understanding produces the particular empirical laws that science discove
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect as an answer, because supplying the a priori rules of objectivity is exactly what the dictum asserts.
-- **B:** Incorrect as an answer, because the formal restriction is the doctrine's central qualification.
-- **C:** Incorrect as an answer, because the need for synthesis is the premise from which the dictum follows.
+- **A:** Incorrect: supplying the a priori rules of objective experience is exactly what Kant's dictum positively asserts.
+- **B:** Incorrect: nature as the law-governed unity of appearances states the doctrine's indispensable formal restriction.
+- **C:** Incorrect: the need to synthesise an otherwise unordered sensible manifold is the premise from which the dictum follows.
 - **D:** Correct: particular laws remain empirical discoveries, and Kant secures only the universal form of nature a priori.
 
 **Examiner trap 14:** The mark is earned by the distinction between universal form and particular law. Without it the dictum sounds like the claim that physics could be done from the armchair.
