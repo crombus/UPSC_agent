@@ -1,6 +1,6 @@
 # Empiricism — Answer-Writing Toolkit
 
-> This is the topic's solved Mains/PYQ workbook and transfer manual. All **14 directly owned**
+> This is the topic's solved Mains/PYQ workbook and transfer manual. All 14 directly owned
 > verified PYQs through 2026 receive complete independent model answers. These are learner
 > practice, never official UPSC answer keys. Kant, Hegel, Moore and Russell are cross-topic
 > comparison components, not duplicate primary owners.
@@ -585,7 +585,7 @@ does Kant prove the category or presuppose it?
 
 ##### Independent model answer
 
-**The doctrine refuted.** For Locke everything that exists is particular, yet most words are general; words become general by signifying **general ideas**, and ideas become general by **abstraction** — separation from circumstances of time, place and every concomitant idea (*Essay* III.iii.6–9). The resulting "general representative" is the **nominal essence** annexed to a sortal name. Locke himself concedes that the general idea of a triangle must be "neither oblique nor rectangle, neither equilateral, equicrural, nor scalenon; but all and none of these at once", and that it is "something imperfect, that cannot exist" (IV.vii.9).
+**The doctrine refuted.** For Locke everything that exists is particular, yet most words are general; words become general by signifying **general ideas**, and ideas become general by **abstraction** — separation from circumstances of time, place and every concomitant idea (*Essay* III.iii.6–9). That "general representative" is the **nominal essence**. Locke himself concedes that the general idea of a triangle must be "neither oblique nor rectangle, neither equilateral, equicrural, nor scalenon; but all and none of these at once", and that it is "something imperfect, that cannot exist" (IV.vii.9).
 
 **The refutation.** Berkeley concedes that we may separate what **could** exist apart — a hand from a body, a torso from a head. He denies that we may separate what **cannot**: extension without colour, motion without determinate speed, "man" without stature. He then quotes Locke's own triangle sentence verbatim at *Principles*, Introduction §13, and concludes that no such idea can be framed. Therefore there are no abstract general ideas.
 
@@ -706,7 +706,8 @@ from sensation, but denies that it is therefore merely habitual. Sensibility giv
 the understanding actively unifies it through **a priori categories**, including causality.
 Principles such as “every event has a cause” are **synthetic a priori** conditions under which an
 objective temporal succession can be experienced at all. Necessity is thus supplied by the
-knowing subject and is valid for phenomena, not things-in-themselves.
+knowing subject and is valid for phenomena, not things-in-themselves. The Second Analogy sharpens
+the reply: objective succession must be rule-governed, not merely expected through habit.
 
 **Verdict.** Kant preserves Hume's anti-dogmatic limit while rejecting his psychology of
 necessity. He secures objective science within experience, though at the cost of restricting
@@ -892,7 +893,7 @@ The claim is defensible but needs one important correction: the movement is logi
 
 ##### Independent model answer
 
-The comparison is best run on one axis: **what job does God perform in the system?** Answered that way, three very different dependencies appear.
+Run the comparison on one axis: **what job does God perform in the system?** Answered that way, three very different dependencies appear.
 
 **Locke — God as guarantor and conclusion.** God's existence is known by **demonstration**, not intuition and not sensitive knowledge: from the intuitive certainty of my own existence, together with the principle that nothing comes from nothing, Locke infers an eternal, most powerful and most knowing being. God also does defensive work: divine non-deception supports the reliability of sense and the trustworthiness of our faculties for "the conveniences of life".
 

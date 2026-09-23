@@ -54,6 +54,12 @@ retained where the routed Kant questions demand it and does not create duplicate
 All 42 MCQs appear exactly once in each MCQ document: the useful original Q1–32 plus Q33–42
 mapped one-to-one to the ten independent audit gaps above.
 
+## Inbound obligation from Empiricism
+
+| Obligation ID | Origin owner | Bounded Kant contribution | Evidence | Status |
+|---|---|---|---|---|
+| `WP-2026-Q2B-KANT-CAUSAL-NECESSITY` | Topic 03 Empiricism, sole primary owner of 2026 Q2(b) | Causality as an a priori category; the Second Analogy's rule-governed objective succession; validity restricted to phenomena | Revision Guide cross-link; Answer-Writing Toolkit cross-link; MCQs 19 and 39 | Fulfilled; no duplicate primary ownership |
+
 ## Genuine source gaps
 
 - The final graphical asset directory is generically misnamed `03-Carvaka-Graphical-Flowchart`,

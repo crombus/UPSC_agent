@@ -45,9 +45,9 @@ D. Innate ideas would have to be lodged in a material substratum whose nature is
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect as an answer, because the failure of universal assent is Locke's opening empirical ground against the innatist appeal to universal agreement.
-- **B:** Incorrect as an answer, because the impossibility of an unperceived idea is Locke's second and philosophically decisive ground.
-- **C:** Incorrect as an answer, because the availability of a genetic account is the redundancy argument that makes the innate hypothesis idle.
+- **A:** Incorrect: the failure of universal assent is Locke's opening empirical ground against the innatist appeal to universal agreement.
+- **B:** Incorrect: the impossibility of an unperceived idea is Locke's second and philosophically decisive ground.
+- **C:** Incorrect: the availability of a genetic account is the redundancy argument that makes the innate hypothesis idle.
 - **D:** Correct: the substratum belongs to Book II's account of substance and plays no part whatever in the anti-innatist argument of Book I.
 
 **Examiner trap 2:** Candidates import the "something I know not what" from the discussion of substance into the discussion of innate ideas. Keep Book I and Book II separate, because the examiner's marking scheme does.
@@ -225,7 +225,7 @@ D. Substance exists and supports the qualities, but we have no positive idea of 
 - **B:** Incorrect: Locke's whole point is that the cluster is perceived while the supposed support is never presented to sense at all.
 - **C:** Incorrect: the diagnosis of substance as an imaginative fiction produced by constant conjunction is Hume's verdict, reached by applying the copy principle.
 - **D:** Correct: Locke affirms existence and denies knowledge of nature, describing the substratum as "a supposition of he knows not what support of such qualities".
- 
+
 **Examiner trap 9:** The three positions on substance are easy to swap under time pressure. Fix them by their verbs: Locke **supposes**, Berkeley **denies the sense**, Hume **dissolves into a bundle**.
 
 ## MCQ 10. The prince and the cobbler

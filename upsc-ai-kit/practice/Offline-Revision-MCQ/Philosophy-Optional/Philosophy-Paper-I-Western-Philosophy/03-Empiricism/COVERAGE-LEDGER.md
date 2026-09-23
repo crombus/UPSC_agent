@@ -53,6 +53,31 @@ directly owned verified PYQ parts are solved: 2018 (2), 2019 (1), 2020 (1), 2021
 2023 (1), 2024 (1), 2025 (2), 2026 (2). Quine questions containing the word “empiricism” remain
 owned by Topic 11. Kant, Hegel, Moore and Russell appear only as required comparison halves.
 
+The formal source bank contains twenty-four core questions and eight remedial drills covering the
+whole printed clause. Its correct options were fixed independently rather than rotated; options
+were matched for length, specificity, grammar and visible formatting; and every retained source
+item keeps four question-specific option explanations plus its examiner trap. Q33–41 are separate
+coverage-derived repairs and do not alter the Q1–32 source-bank lineage.
+
+## Cross-topic inbound obligation
+
+| Obligation ID | Primary owner | Paired destination | Bounded scope | Status |
+|---|---|---|---|---|
+| `WP-2026-Q2B-KANT-CAUSAL-NECESSITY` | Topic 03 Empiricism, sole primary owner of 2026 Q2(b) | Topic 04 Kant | Kant's category of causality; the Second Analogy's rule-governed objective succession; validity restricted to phenomena | Fulfilled and machine-validated; no duplicate PYQ ownership |
+
+## Formal reconciliation summary
+
+Every level-2 through level-5 block in both authoritative formal Markdown sources has a separately
+authored decision in `FORMAL-COVERAGE-REVIEW.json`. The generated
+`FORMAL-COVERAGE-AUDIT.json` applies those decisions only when the stable block ID and reviewed
+canonical full-block SHA-256 still match. This hash retains headings, ancestor context, semantic
+labels and complete block text; only line-ending, Unicode-composition and trailing-whitespace
+noise is normalized. Exact body-preserving mappings cover the teaching, visual, recall,
+individual MCQ, PYQ and model-answer blocks. Composite practice and source-count blocks use
+reviewed manual proposition mappings because the package deliberately separates questions,
+solutions, answer writing and metadata. No relevant doubt block is excluded. The verified 2026
+Locke expansion is Q1(b), not Rationalism-owned Q1(a).
+
 ## Genuine source gaps
 
 - The final graphical asset directory is misnamed `03-Carvaka-Graphical-Flowchart`; its contents

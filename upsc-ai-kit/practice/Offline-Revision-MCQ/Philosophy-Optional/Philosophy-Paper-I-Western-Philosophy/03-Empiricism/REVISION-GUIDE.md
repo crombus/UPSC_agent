@@ -3314,7 +3314,7 @@ combine/compare/abstract -> complex ideas (modes | substances | relations)
 - **Payload:** matter = the abstract idea of *being* + the relative notion of *supporting*; so **immaterialism rests on the nominalism, not the reverse**.
 - Limits: the attack works against **imagistic** Locke; and Berkeley owes an account of what fixes the **respect** of representation.
 
-### H. Berkeley — the five arguments and *esse est percipi*
+### H. Berkeley — the five arguments for immaterialism
 
 ```text
 semantic (Sec.1-4) -> likeness (Sec.8) -> parity (Sec.9-15) ->
