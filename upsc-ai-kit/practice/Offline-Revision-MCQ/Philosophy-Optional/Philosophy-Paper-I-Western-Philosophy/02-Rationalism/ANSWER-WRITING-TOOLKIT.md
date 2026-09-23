@@ -1,6 +1,6 @@
 # Rationalism — Answer-Writing Toolkit
 
-> This is the topic's solved Mains/PYQ workbook and transfer manual. All **15 directly owned**
+> This is the topic's solved Mains/PYQ workbook and transfer manual. All 15 directly owned
 > verified PYQs through 2026 receive complete independent model answers. These are learner
 > practice, never official UPSC answer keys. The 2026 Aristotle–Leibniz entelechy question is
 > cross-linked, not duplicate-owned.

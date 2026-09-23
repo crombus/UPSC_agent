@@ -305,7 +305,7 @@ D. the objection is that the criterion proves God who certifies it, and the repl
 - **B:** Incorrect: this correctly describes a different exchange about the logical form of the *cogito*, which Arnauld's circularity charge does not concern.
 - **C:** Incorrect: divine veracity is the conclusion under attack, so citing it as the reply simply restates the position Arnauld is challenging.
 - **D:** Correct: the charge is circularity between criterion and guarantee, and Descartes replies that a perception actually before the mind compels assent while God secures memory and extended reasoning.
- 
+
 **Examiner trap 12:** The reply must be followed by its residual weakness: the proofs of God are themselves extended arguments whose earlier premises are remembered rather than attended, so the circle is softened rather than removed.
 
 ## MCQ 13. The proof of the external world
@@ -377,7 +377,7 @@ D. the gland dissolves the problem entirely, and Elisabeth's objection concerns 
 - **B:** Correct: Descartes offers a site, chosen because the gland is unpaired and central, whereas Elisabeth's question is about a mechanism, which no site can supply.
 - **C:** Incorrect: the dispute is not about which faculty is housed where, but about how any causal influence across the real distinction is possible.
 - **D:** Incorrect: Descartes himself does not claim that the gland dissolves the difficulty; his considered reply is that the union is a primitive notion.
- 
+
 **Examiner trap 15:** Treating the pineal gland as Descartes' answer misses his real answer. The philosophical reply is that the mind–body union is a third **primitive notion**, known through ordinary living rather than through pure intellect.
 
 ## MCQ 16. Error and the grades of freedom in Meditation IV
@@ -843,7 +843,7 @@ D. It directly pressures occurrent innatism, but dispositional innatism survives
 
 A person first reacts to an insult through a passive affect, then forms an adequate understanding of its causes and acts from that understanding. On Spinoza's account, this transition is best described as
 
-A. the person's *conatus* becoming more active through adequate causation, so freedom increases as self-determination within the necessary order.
+A. the person's *conatus* becoming more active through adequate causation, so freedom increases only as self-determination within the necessary order.
 
 B. a suspension of the causal order by a rational will, so the later action could occur without any sufficient determining cause.
 

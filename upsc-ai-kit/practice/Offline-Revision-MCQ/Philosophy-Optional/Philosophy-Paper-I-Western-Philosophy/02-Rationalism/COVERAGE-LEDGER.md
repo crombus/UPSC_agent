@@ -50,8 +50,19 @@ each. The resulting count of 40 independently follows from this ledger and is no
 
 ## Source-accounting note
 
-All 40 retained canonical workbook MCQs appear exactly once in each MCQ document: the useful
-original Q1–32 plus Q33–40 mapped one-to-one to the eight audit gaps above. All fifteen directly
-owned verified PYQ parts are solved: 2018 (2), 2019 (2), 2020 (2), 2021 (0), 2022 (2), 2023 (2),
-2024 (2), 2025 (2), 2026 (1). The cross-owned 2026 Q1(d) entelechy question retains one primary
-owner in Topic 01 and is linked here only for the Leibnizian half.
+The formal source bank contains **twenty-four core questions and eight remedial drills** across the
+**whole printed clause**. Their correct positions were **fixed independently**, not arranged in a
+mechanical A→B→C→D rotation. All 40 retained questions appear exactly once in each MCQ document:
+the useful original Q1–32 plus Q33–40 mapped one-to-one to the eight audit gaps above. All fifteen
+directly owned verified PYQ parts are solved: 2018 (2), 2019 (2), 2020 (2), 2021 (0), 2022 (2),
+2023 (2), 2024 (2), 2025 (2), 2026 (1). The cross-owned 2026 Q1(d) entelechy question retains one
+primary owner in Topic 01 and is linked here only for the Leibnizian half.
+
+## Formal reconciliation summary
+
+Every level-2 through level-5 block in both authoritative formal Markdown sources is represented
+in `FORMAL-COVERAGE-AUDIT.json`. Exact body-preserving mappings cover the teaching, visual, recall,
+individual MCQ, PYQ and model-answer blocks. Only the four composite umbrella blocks in each
+source require manual aggregate mappings because practice content is deliberately split across
+questions, solutions, the toolkit and this ledger. No formal concept is classified as excluded,
+routed away or an unresolved omission.

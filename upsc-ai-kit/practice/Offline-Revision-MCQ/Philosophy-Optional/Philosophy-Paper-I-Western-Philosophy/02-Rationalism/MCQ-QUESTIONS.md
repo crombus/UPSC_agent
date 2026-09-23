@@ -486,7 +486,7 @@ D. It directly pressures occurrent innatism, but dispositional innatism survives
 
 A person first reacts to an insult through a passive affect, then forms an adequate understanding of its causes and acts from that understanding. On Spinoza's account, this transition is best described as
 
-A. the person's *conatus* becoming more active through adequate causation, so freedom increases as self-determination within the necessary order.
+A. the person's *conatus* becoming more active through adequate causation, so freedom increases only as self-determination within the necessary order.
 
 B. a suspension of the causal order by a rational will, so the later action could occur without any sufficient determining cause.
 
