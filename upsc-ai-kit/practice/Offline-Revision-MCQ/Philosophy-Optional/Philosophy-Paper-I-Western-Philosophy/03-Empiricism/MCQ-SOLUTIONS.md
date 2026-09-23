@@ -475,7 +475,7 @@ The difference between Moore's and Russell's reactions to Berkeley is best state
 
 A. Moore accepts Berkeley's premises but rejects the conclusion, whereas Russell rejects them
 
-B. Moore defends the ordinary object as directly known, whereas Russell replaces it with a construction
+B. Moore blocks the act–object identity while leaving perception open, whereas Russell reconstructs physical objects
 
 C. Moore relies on the verification principle of meaning, whereas Russell relies on the picture theory of meaning
 
@@ -485,7 +485,7 @@ D. Moore denies the act–object distinction altogether, whereas Russell insists
 
 **Option explanations:**
 - **A:** Incorrect: Moore's central move is to reject the premise that conflates the act of awareness with its object, so he does not accept Berkeley's premises.
-- **B:** Correct: Moore's transparency argument supports direct realism, while Russell reconstructs physical objects analytically and keeps only structural objectivity.
+- **B:** Correct: Moore's transparency diagnosis exposes the act–object confusion and pressures against representative inference without supplying a complete perceptual theory; Russell reconstructs physical-object discourse and preserves structural objectivity.
 - **C:** Incorrect: both doctrines named here belong to other syllabus items and to later phases, and neither is deployed against Berkeley in this context.
 - **D:** Incorrect: it inverts both positions, since it is Moore who insists on the act–object distinction and the idealist who collapses it.
 

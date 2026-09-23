@@ -1,16 +1,56 @@
 {
-  "schema_version": 4,
+  "schema_version": 15,
   "topic": "06 Moore, Russell and Early Wittgenstein",
-  "validated_at": "2026-09-20T13:45:07+05:30",
-  "result": "PASS",
-  "result_gate": "pass only when every required check, including cross-file leakage, philosophical consistency, original solved practice and every PYQ solution component, is true",
+  "validated_at": "2026-09-23T18:58:20+05:30",
+  "result": "DEVELOPMENT_PASS",
+  "validation_mode": "development",
+  "release_ready": true,
+  "result_gate": "DEVELOPMENT_PASS validates content and generated artifacts but is not release-ready. RELEASE_PASS additionally requires every required current file in the Git index.",
   "pdf_generation": {
-    "mechanism": "C:/up/tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
+    "requested": false,
+    "last_regeneration_recorded": true,
+    "reused_prior_record": true,
+    "mechanism": "C:/up/tools/unicode_markdown_pdf.py via installed Chrome and PyMuPDF",
+    "files": {
+      "Revision-Guide.pdf": {
+        "source": "REVISION-GUIDE.md",
+        "exists": true,
+        "bytes": 2200903,
+        "sha256": "94c508819366018245e57c93ca18f5516c45b2a4be537a8e6d739f92ad400d77",
+        "source_sha256": "3c3de847413923949bbce976520cdb1d9fd82fe9b4679da7d270c4b5574ba216",
+        "source_mtime_ns": 1790152303998629200,
+        "pdf_mtime_ns": 1790153264350017600
+      },
+      "MCQ-Questions.pdf": {
+        "source": "MCQ-QUESTIONS.md",
+        "exists": true,
+        "bytes": 192337,
+        "sha256": "522ab853c6a640249f2775ac3faacaaf22fd06366cd2b343e3b061f3a9f851cc",
+        "source_sha256": "bfda50d182508d7645d1e6e77f668c7620e1949163076a6b340cde89d3637228",
+        "source_mtime_ns": 1790153177964186500,
+        "pdf_mtime_ns": 1790153268575024400
+      },
+      "MCQ-Solutions.pdf": {
+        "source": "MCQ-SOLUTIONS.md",
+        "exists": true,
+        "bytes": 489821,
+        "sha256": "9878a8c476bbf1adf684c7cebecc9a8951189ca5b31e059405b49fcc2aff7c2e",
+        "source_sha256": "1863e7e786ad57d599fb050780be700f0716925b76fb804f5ea46d39d567b6b4",
+        "source_mtime_ns": 1789891585089799800,
+        "pdf_mtime_ns": 1790153274568710100
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "exists": true,
+        "bytes": 514205,
+        "sha256": "f8fd3532441fcf3268d3a1ae20039761d0857a165861efc1f65f2a3e8cd18f09",
+        "source_sha256": "03535a7428d7ae3083468517fca6386a463474a59f59239cc941f17fc47509c1",
+        "source_mtime_ns": 1790164008702973900,
+        "pdf_mtime_ns": 1790165516056640800
+      }
+    },
     "all_four_regenerated": true
   },
-  "coverage_gaps": [
-    "No direct contemporary-current-affairs linkage is established by the authoritative source set; none was fabricated."
-  ],
   "checks": {
     "required_files": {
       "README.md": true,
@@ -20,213 +60,1293 @@
       "COVERAGE-LEDGER.md": true,
       "PRACTICE-LOG.md": true,
       "ANSWER-WRITING-TOOLKIT.md": true,
+      "FORMAL-COVERAGE-AUDIT.json": true,
+      "FORMAL-COVERAGE-REVIEW.json": true,
+      "VALIDATION.json": true,
+      "validate_package.py": true,
       "pdf/Revision-Guide.pdf": true,
       "pdf/MCQ-Questions.pdf": true,
       "pdf/MCQ-Solutions.pdf": true,
-      "pdf/Answer-Writing-Toolkit.pdf": true,
-      "VALIDATION.json": true
+      "pdf/Answer-Writing-Toolkit.pdf": true
     },
-    "mcq_numbering": {
-      "question_count": 56,
-      "solution_count": 56,
-      "exact_match": true,
-      "all_questions_have_four_options": true,
-      "question_solution_prompts_match": true
-    },
-    "question_leakage": {
-      "**Answer:": false,
-      "Option explanations:": false,
-      "Examiner trap": false,
-      "Repair action:": false,
-      "Coverage mapping:": false,
-      "PYQ linkage:": false,
-      "Correct answer:": false
-    },
-    "cross_file_answer_leakage": {
-      "method": "Unicode NFKC + lowercase + punctuation/whitespace normalization; full assessed stems searched contiguously and every normalized option checked against normalized target lines",
-      "targets": {
-        "REVISION-GUIDE.md": {
-          "normalized_stem_matches": [],
-          "normalized_option_line_matches": [],
+    "formal_coverage_audit": {
+      "formal_block_count": 432,
+      "expected_block_count": 432,
+      "classifications": {
+        "covered_in_scope": 405,
+        "routed_to_canonical_owner": 6,
+        "genuine_in_scope_omission": 21
+      },
+      "mapping_strategies": {
+        "reviewed_cross_surface_body": 341,
+        "reviewed_structural_umbrella": 55,
+        "reviewed_exact_fragment_continuation": 10,
+        "reviewed_bounded_owner_route": 6,
+        "reviewed_repaired_structural_umbrella": 10,
+        "reviewed_repaired_original_model": 10
+      },
+      "review_decision_layer": {
+        "path": "FORMAL-COVERAGE-REVIEW.json",
+        "schema_version": 7,
+        "declared_decision_count": 432,
+        "loaded_decision_count": 432,
+        "current_sha256": "341492c6158c947566084c700c08bb05c0ae9b486230dfd9f1348e59828cb062",
+        "failures": [],
+        "pass": true
+      },
+      "decision_hash_regression": {
+        "sample_block_id": "session-session-1-the-analytic-revolt-three-programmes-one-target-and-th-01-88d5d5466c",
+        "semantic_label": "Plain-language definition",
+        "original_sha256": "f97ce5dab63bb6e342c54672cc7ac858d353af2e276dc7fedb948baa44957769",
+        "mutation_sha256": {
+          "semantic_label": "6df8b92d0e1438800cae703b2b6470172ae7d6077bfbe5c997299dcbd04687ea",
+          "heading": "c9666bd83ac1fdacbdd0ba5495c1751b7347d56f8d4beaa98f90686a60964bc8",
+          "context": "dea79724d0516961bc03accb1e9c4f3c632d53cc4c66780994d4a0e3ba4f8d67"
+        },
+        "all_mutations_stale_decision": true,
+        "pass": true
+      },
+      "coverage_negative_tests": {
+        "tests": [
+          {
+            "name": "drop_parent_only_content",
+            "expected_reasons": [
+              "structural umbrella declaration mismatch",
+              "proposition witness absent from source body"
+            ],
+            "actual_reasons": [
+              "proposition witness absent from source body",
+              "structural umbrella declaration mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "drop_structural_child",
+            "expected_reasons": [
+              "structural umbrella declaration mismatch"
+            ],
+            "actual_reasons": [
+              "structural umbrella declaration mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "chronology_opening_only_inventory",
+            "expected_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "actual_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "chronology_generic_token_fragments",
+            "expected_reasons": [
+              "generic or token-fragment witness",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "actual_reasons": [
+              "boilerplate proposition template",
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claims have high structural similarity",
+              "distributed unit has too few propositions",
+              "duplicate distributed witness",
+              "duplicate semantic claim",
+              "generic or token-fragment witness",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "semantic claim is not conceptually specific",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "observed_truncated_stem_claim",
+            "expected_reasons": [
+              "truncated or stemmed claim fragment"
+            ],
+            "actual_reasons": [
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "semantic claim is not conceptually specific",
+              "semantic claim lacks an explicit relationship",
+              "truncated or stemmed claim fragment"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "observed_boilerplate_relationship_padding",
+            "expected_reasons": [
+              "boilerplate proposition template",
+              "generic relationship-token padding"
+            ],
+            "actual_reasons": [
+              "boilerplate proposition template",
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative source vocabulary",
+              "generic relationship-token padding",
+              "semantic claim is not conceptually specific",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "high_structural_similarity_claim_pair",
+            "expected_reasons": [
+              "distributed claims have high structural similarity"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative source vocabulary",
+              "distributed claims have high structural similarity",
+              "semantic claim is not conceptually specific"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "claim_without_source_or_destination_correspondence",
+            "expected_reasons": [
+              "claim lacks discriminative source vocabulary",
+              "claim lacks destination semantic correspondence"
+            ],
+            "actual_reasons": [
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "declared_overlap_floor_regression",
+            "expected_reasons": [
+              "declared aggregate correspondence floor is too weak"
+            ],
+            "actual_reasons": [
+              "declared aggregate correspondence floor is too weak"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "generic_witness_in_the",
+            "expected_reasons": [
+              "generic or insufficiently specific witness"
+            ],
+            "actual_reasons": [
+              "generic or insufficiently specific witness"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "cross_block_duplicate_witness_misdirection",
+            "expected_reasons": [
+              "cross-block duplicate witness misdirection"
+            ],
+            "actual_reasons": [
+              "cross-block duplicate witness misdirection"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "cross_block_near_duplicate_witness_variant",
+            "expected_reasons": [
+              "cross-block near-duplicate witness"
+            ],
+            "actual_reasons": [
+              "cross-block near-duplicate witness"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "strict_whitelist_logical_form_reuse",
+            "whitelist_key": [
+              "session-answer-grabbing-opening-write-adapt-in-the-exam-11-00740f59b2",
+              "package_destination|REVISION-GUIDE.md|ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM|SESSION 10 — Saying and Showing, Criticism and the Comparative Answer Spine",
+              "session-definition-what-this-is-called-01-9fc3f6e317",
+              "package_destination|REVISION-GUIDE.md|DEFINITION / WHAT THIS IS CALLED|SESSION 1 — The Analytic Turn: Three Programmes, One Revolt",
+              "logical form"
+            ],
+            "recorded_reason": "Reuse is necessary because Session 11's answer-opening claim and its saying/showing destination both require the exact technical term 'logical form'; replacing that term with a synonym would alter the Tractarian doctrine.",
+            "actual_failures": [],
+            "pass": true
+          },
+          {
+            "name": "dependent_subject_it_does_not",
+            "expected_reasons": [
+              "distributed claim lacks an explicit independent subject"
+            ],
+            "actual_reasons": [
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claim lacks an explicit independent subject",
+              "semantic claim is not conceptually specific"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "master_flow_drops_final_panel",
+            "expected_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "actual_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "master_flow_generic_witness_and_shared_anchor",
+            "expected_reasons": [
+              "generic or token-fragment witness",
+              "master-flow destination is not panel-specific",
+              "master-flow panels reuse a generic destination anchor"
+            ],
+            "actual_reasons": [
+              "boilerplate proposition template",
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claims have high structural similarity",
+              "distributed unit has too few propositions",
+              "duplicate distributed witness",
+              "duplicate semantic claim",
+              "generic or insufficiently specific witness",
+              "generic or token-fragment witness",
+              "master-flow destination is not panel-specific",
+              "master-flow panels reuse a generic destination anchor",
+              "proposition witness absent from destination body",
+              "semantic claim is not conceptually specific",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "direct_realism_paraphrase_matrix",
+            "surface_count": 6,
+            "paraphrases_per_surface": 10,
+            "cell_count": 60,
+            "passed_cells": 60,
+            "failed_cells": 0,
+            "cells": [
+              {
+                "destination": "COVERAGE-LEDGER.md :: Bounded route obligations",
+                "subject": "Moore",
+                "predicate": "establishes",
+                "injected_text": "Moore establishes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "COVERAGE-LEDGER.md :: Bounded route obligations",
+                "subject": "Moore",
+                "predicate": "proves",
+                "injected_text": "Moore proves direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "COVERAGE-LEDGER.md :: Bounded route obligations",
+                "subject": "Moore",
+                "predicate": "entails",
+                "injected_text": "Moore entails direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "COVERAGE-LEDGER.md :: Bounded route obligations",
+                "subject": "Moore",
+                "predicate": "yields",
+                "injected_text": "Moore yields direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "COVERAGE-LEDGER.md :: Bounded route obligations",
+                "subject": "Moore",
+                "predicate": "constitutes",
+                "injected_text": "Moore constitutes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "COVERAGE-LEDGER.md :: Bounded route obligations",
+                "subject": "Transparency",
+                "predicate": "establishes",
+                "injected_text": "Transparency establishes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "COVERAGE-LEDGER.md :: Bounded route obligations",
+                "subject": "Transparency",
+                "predicate": "proves",
+                "injected_text": "Transparency proves direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "COVERAGE-LEDGER.md :: Bounded route obligations",
+                "subject": "Transparency",
+                "predicate": "entails",
+                "injected_text": "Transparency entails direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "COVERAGE-LEDGER.md :: Bounded route obligations",
+                "subject": "Transparency",
+                "predicate": "yields",
+                "injected_text": "Transparency yields direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "COVERAGE-LEDGER.md :: Bounded route obligations",
+                "subject": "Transparency",
+                "predicate": "constitutes",
+                "injected_text": "Transparency constitutes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/ANSWER-WRITING-TOOLKIT.md :: 2018 · Q3(a) · 20 marks",
+                "subject": "Moore",
+                "predicate": "establishes",
+                "injected_text": "Moore establishes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/ANSWER-WRITING-TOOLKIT.md :: 2018 · Q3(a) · 20 marks",
+                "subject": "Moore",
+                "predicate": "proves",
+                "injected_text": "Moore proves direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/ANSWER-WRITING-TOOLKIT.md :: 2018 · Q3(a) · 20 marks",
+                "subject": "Moore",
+                "predicate": "entails",
+                "injected_text": "Moore entails direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/ANSWER-WRITING-TOOLKIT.md :: 2018 · Q3(a) · 20 marks",
+                "subject": "Moore",
+                "predicate": "yields",
+                "injected_text": "Moore yields direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/ANSWER-WRITING-TOOLKIT.md :: 2018 · Q3(a) · 20 marks",
+                "subject": "Moore",
+                "predicate": "constitutes",
+                "injected_text": "Moore constitutes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/ANSWER-WRITING-TOOLKIT.md :: 2018 · Q3(a) · 20 marks",
+                "subject": "Transparency",
+                "predicate": "establishes",
+                "injected_text": "Transparency establishes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/ANSWER-WRITING-TOOLKIT.md :: 2018 · Q3(a) · 20 marks",
+                "subject": "Transparency",
+                "predicate": "proves",
+                "injected_text": "Transparency proves direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/ANSWER-WRITING-TOOLKIT.md :: 2018 · Q3(a) · 20 marks",
+                "subject": "Transparency",
+                "predicate": "entails",
+                "injected_text": "Transparency entails direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/ANSWER-WRITING-TOOLKIT.md :: 2018 · Q3(a) · 20 marks",
+                "subject": "Transparency",
+                "predicate": "yields",
+                "injected_text": "Transparency yields direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/ANSWER-WRITING-TOOLKIT.md :: 2018 · Q3(a) · 20 marks",
+                "subject": "Transparency",
+                "predicate": "constitutes",
+                "injected_text": "Transparency constitutes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/REVISION-GUIDE.md :: SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, AND THE MOORE, RUSSELL AND HEGEL COMPARISONS",
+                "subject": "Moore",
+                "predicate": "establishes",
+                "injected_text": "Moore establishes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/REVISION-GUIDE.md :: SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, AND THE MOORE, RUSSELL AND HEGEL COMPARISONS",
+                "subject": "Moore",
+                "predicate": "proves",
+                "injected_text": "Moore proves direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/REVISION-GUIDE.md :: SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, AND THE MOORE, RUSSELL AND HEGEL COMPARISONS",
+                "subject": "Moore",
+                "predicate": "entails",
+                "injected_text": "Moore entails direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/REVISION-GUIDE.md :: SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, AND THE MOORE, RUSSELL AND HEGEL COMPARISONS",
+                "subject": "Moore",
+                "predicate": "yields",
+                "injected_text": "Moore yields direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/REVISION-GUIDE.md :: SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, AND THE MOORE, RUSSELL AND HEGEL COMPARISONS",
+                "subject": "Moore",
+                "predicate": "constitutes",
+                "injected_text": "Moore constitutes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/REVISION-GUIDE.md :: SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, AND THE MOORE, RUSSELL AND HEGEL COMPARISONS",
+                "subject": "Transparency",
+                "predicate": "establishes",
+                "injected_text": "Transparency establishes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/REVISION-GUIDE.md :: SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, AND THE MOORE, RUSSELL AND HEGEL COMPARISONS",
+                "subject": "Transparency",
+                "predicate": "proves",
+                "injected_text": "Transparency proves direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/REVISION-GUIDE.md :: SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, AND THE MOORE, RUSSELL AND HEGEL COMPARISONS",
+                "subject": "Transparency",
+                "predicate": "entails",
+                "injected_text": "Transparency entails direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/REVISION-GUIDE.md :: SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, AND THE MOORE, RUSSELL AND HEGEL COMPARISONS",
+                "subject": "Transparency",
+                "predicate": "yields",
+                "injected_text": "Transparency yields direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/REVISION-GUIDE.md :: SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, AND THE MOORE, RUSSELL AND HEGEL COMPARISONS",
+                "subject": "Transparency",
+                "predicate": "constitutes",
+                "injected_text": "Transparency constitutes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-QUESTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Moore",
+                "predicate": "establishes",
+                "injected_text": "Moore establishes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-QUESTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Moore",
+                "predicate": "proves",
+                "injected_text": "Moore proves direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-QUESTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Moore",
+                "predicate": "entails",
+                "injected_text": "Moore entails direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-QUESTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Moore",
+                "predicate": "yields",
+                "injected_text": "Moore yields direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-QUESTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Moore",
+                "predicate": "constitutes",
+                "injected_text": "Moore constitutes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-QUESTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Transparency",
+                "predicate": "establishes",
+                "injected_text": "Transparency establishes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-QUESTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Transparency",
+                "predicate": "proves",
+                "injected_text": "Transparency proves direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-QUESTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Transparency",
+                "predicate": "entails",
+                "injected_text": "Transparency entails direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-QUESTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Transparency",
+                "predicate": "yields",
+                "injected_text": "Transparency yields direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-QUESTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Transparency",
+                "predicate": "constitutes",
+                "injected_text": "Transparency constitutes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-SOLUTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Moore",
+                "predicate": "establishes",
+                "injected_text": "Moore establishes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-SOLUTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Moore",
+                "predicate": "proves",
+                "injected_text": "Moore proves direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-SOLUTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Moore",
+                "predicate": "entails",
+                "injected_text": "Moore entails direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-SOLUTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Moore",
+                "predicate": "yields",
+                "injected_text": "Moore yields direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-SOLUTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Moore",
+                "predicate": "constitutes",
+                "injected_text": "Moore constitutes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-SOLUTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Transparency",
+                "predicate": "establishes",
+                "injected_text": "Transparency establishes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-SOLUTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Transparency",
+                "predicate": "proves",
+                "injected_text": "Transparency proves direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-SOLUTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Transparency",
+                "predicate": "entails",
+                "injected_text": "Transparency entails direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-SOLUTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Transparency",
+                "predicate": "yields",
+                "injected_text": "Transparency yields direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "../03-Empiricism/MCQ-SOLUTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+                "subject": "Transparency",
+                "predicate": "constitutes",
+                "injected_text": "Transparency constitutes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded cross-links — not Topic 06-owned",
+                "subject": "Moore",
+                "predicate": "establishes",
+                "injected_text": "Moore establishes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded cross-links — not Topic 06-owned",
+                "subject": "Moore",
+                "predicate": "proves",
+                "injected_text": "Moore proves direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded cross-links — not Topic 06-owned",
+                "subject": "Moore",
+                "predicate": "entails",
+                "injected_text": "Moore entails direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded cross-links — not Topic 06-owned",
+                "subject": "Moore",
+                "predicate": "yields",
+                "injected_text": "Moore yields direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded cross-links — not Topic 06-owned",
+                "subject": "Moore",
+                "predicate": "constitutes",
+                "injected_text": "Moore constitutes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded cross-links — not Topic 06-owned",
+                "subject": "Transparency",
+                "predicate": "establishes",
+                "injected_text": "Transparency establishes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded cross-links — not Topic 06-owned",
+                "subject": "Transparency",
+                "predicate": "proves",
+                "injected_text": "Transparency proves direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded cross-links — not Topic 06-owned",
+                "subject": "Transparency",
+                "predicate": "entails",
+                "injected_text": "Transparency entails direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded cross-links — not Topic 06-owned",
+                "subject": "Transparency",
+                "predicate": "yields",
+                "injected_text": "Transparency yields direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              },
+              {
+                "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded cross-links — not Topic 06-owned",
+                "subject": "Transparency",
+                "predicate": "constitutes",
+                "injected_text": "Transparency constitutes direct realism.",
+                "injection_count": 1,
+                "expected_rule": "moore-or-transparency-entails-direct-realism",
+                "actual_reasons": [
+                  "forbidden semantic route assertion present"
+                ],
+                "pass": true
+              }
+            ],
+            "pass": true
+          }
+        ],
+        "passed": 17,
+        "failed": 0,
+        "all_negative_tests_pass": true,
+        "pass": true
+      },
+      "verified_2026_owner_assertion": {
+        "ledger_topic_parts": [
+          "Q1(e)",
+          "Q4(a)"
+        ],
+        "required_primary_parts": [
+          "Q1(e)",
+          "Q4(a)"
+        ],
+        "forbidden_misattribution": "Q4(c)",
+        "review_rows_checked": [
+          "session-pyqs-and-answer-practice-01-175c6e12d8",
+          "workbook-pyqs-and-answer-practice-01-3900ce854f"
+        ],
+        "pass": true
+      },
+      "unresolved_due_inbound_obligations": [],
+      "cross_topic_inbound_obligations": {
+        "count": 4,
+        "ids": [
+          "WP-2018-Q3A-MOORE-RUSSELL-BERKELEY",
+          "WP-2023-Q4C-EARLY-LATER-TRANSITION",
+          "WP-2025-Q3A-EARLY-LATER-TRANSITION",
+          "WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE"
+        ],
+        "failures": [],
+        "pass": true
+      },
+      "route_assertion_closure": {
+        "reviewed_destinations": [
+          {
+            "obligation": "WP-2018-Q3A-MOORE-RUSSELL-BERKELEY",
+            "destination": "COVERAGE-LEDGER.md :: Bounded route obligations",
+            "assertion_set_sha256": "813b43e6617b293710c65c744c3a891729c1c96024f39cb2bf0cfa7c71c756ac",
+            "assertion_ids": [
+              "ledger-moore-qualified-route",
+              "ledger-russell-reconstructs"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          },
+          {
+            "obligation": "WP-2018-Q3A-MOORE-RUSSELL-BERKELEY",
+            "destination": "../03-Empiricism/ANSWER-WRITING-TOOLKIT.md :: 2018 · Q3(a) · 20 marks",
+            "assertion_set_sha256": "fb79ab37f8acca626144c1ab995c0f9da48aef63727c8bd15653dc69f3f49d77",
+            "assertion_ids": [
+              "moore-act-object-blocks-identity",
+              "moore-no-replacement-theory",
+              "moore-blocks-identity-semantically",
+              "moore-leaves-perception-open-semantically"
+            ],
+            "forbidden_assertions": [
+              "transparency argument yields direct realism",
+              "Moore defends the ordinary object as directly known",
+              "Moore restores common sense"
+            ],
+            "failures": [],
+            "pass": true
+          },
+          {
+            "obligation": "WP-2018-Q3A-MOORE-RUSSELL-BERKELEY",
+            "destination": "../03-Empiricism/REVISION-GUIDE.md :: SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, AND THE MOORE, RUSSELL AND HEGEL COMPARISONS",
+            "assertion_set_sha256": "89878b321cf969ff80db2aa08cdc2c09e1b1ed1fa169256f9bd504db1cc978b5",
+            "assertion_ids": [
+              "revision-moore-diagnostic-only",
+              "revision-russell-reconstructs"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          },
+          {
+            "obligation": "WP-2018-Q3A-MOORE-RUSSELL-BERKELEY",
+            "destination": "../03-Empiricism/MCQ-QUESTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+            "assertion_set_sha256": "3ffa55cedf62ebba10bd27f36099e7e68211341ebc36231f8c27631591a6f4e2",
+            "assertion_ids": [
+              "question-neutral-correct-proposition"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          },
+          {
+            "obligation": "WP-2018-Q3A-MOORE-RUSSELL-BERKELEY",
+            "destination": "../03-Empiricism/MCQ-SOLUTIONS.md :: MCQ 20. Moore and Russell against Berkeley",
+            "assertion_set_sha256": "59da3d4f852c5060d74a6d2ca511c56fa9520990aef3feac5ad1610ba93a4a67",
+            "assertion_ids": [
+              "solution-moore-qualified",
+              "solution-russell-reconstructs"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          },
+          {
+            "obligation": "WP-2018-Q3A-MOORE-RUSSELL-BERKELEY",
+            "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded cross-links — not Topic 06-owned",
+            "assertion_set_sha256": "049d33992b14c78103fa2c33aa241e22fb4ebeb8b8d1f5116fbb6a00216d5bf4",
+            "assertion_ids": [
+              "topic06-toolkit-moore-qualified-route",
+              "topic06-toolkit-russell-reconstructs"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          }
+        ],
+        "pass": true
+      },
+      "source_identity": {
+        "session": {
+          "recorded": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\06-Moore,-Russell-and-Early-Wittgenstein\\Learning-Session.md",
+            "sha256": "0d05a60d96510bbf3f76848f9965dd021df0a82efa54b2ccfb763601b195a6ab",
+            "bytes": 484161
+          },
+          "current_sha256": "0d05a60d96510bbf3f76848f9965dd021df0a82efa54b2ccfb763601b195a6ab",
           "pass": true
         },
-        "ANSWER-WRITING-TOOLKIT.md": {
-          "normalized_stem_matches": [],
-          "normalized_option_line_matches": [],
+        "workbook": {
+          "recorded": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\06-Moore,-Russell-and-Early-Wittgenstein\\Solved-Practice-Workbook.md",
+            "sha256": "175f779dfc20c830b7772006cbfb387188006932de62de95ca0d36f9a4288c0b",
+            "bytes": 123373
+          },
+          "current_sha256": "175f779dfc20c830b7772006cbfb387188006932de62de95ca0d36f9a4288c0b",
           "pass": true
         }
       },
+      "failures": [],
+      "mechanical_limitations": "The validator can prove that an independently persisted authored decision is bound to the canonical full block hash, including semantic labels, heading and context, that structural parents retain every child decision plus parent-only prose, and that large leaves retain distributed segment or panel propositions. Extraction and --refresh-formal-audit never create or approve review decisions. These controls still cannot prove philosophical truth, pedagogical sufficiency or examiner marks.",
       "pass": true
     },
-    "revision_guide_separation": {
-      "solved_mcq_headings": 0,
-      "correct_answer_markers": 0,
-      "option_explanation_markers": 0,
-      "pass": true
-    },
-    "neutral_titles": {
-      "questions_all_exactly_mcq_number": true,
-      "revealing_title_count": 0
-    },
-    "option_length_cues": {
-      "metric": "Unicode character count of each visible option",
-      "acceptable_correct_longest_rate_percent": [
-        15,
-        40
-      ],
-      "acceptable_uniquely_longest_rate_percent": [
-        5,
-        30
-      ],
-      "correct_is_longest_count": 18,
-      "correct_is_longest_rate_percent": 32.143,
-      "correct_is_longest_questions": [
-        1,
-        3,
-        5,
-        7,
-        11,
-        13,
-        16,
-        18,
-        21,
-        28,
-        32,
-        37,
-        38,
-        41,
-        45,
-        49,
-        50,
-        53
-      ],
-      "uniquely_longest_correct_count": 16,
-      "uniquely_longest_correct_rate_percent": 28.571,
-      "uniquely_longest_correct_questions": [
-        3,
-        5,
-        11,
-        13,
-        16,
-        18,
-        21,
-        28,
-        32,
-        37,
-        38,
-        41,
-        45,
-        49,
-        50,
-        53
-      ],
-      "correct_mean_characters": 73.429,
-      "distractor_mean_characters": 67.411,
-      "comparability_threshold": "max-minus-min <= 45 characters and max/min <= 1.65",
-      "statement_format_exceptions": [
-        {
-          "question": 42,
-          "reason": "Pure symbolic N-operator alternatives are necessarily short formula strings; all four use the same defined notation and no prose-length cue."
-        }
-      ],
-      "comparability_outliers": [],
-      "rate_gate_pass": true
-    },
-    "answer_pattern": {
-      "distribution": {
-        "A": 14,
-        "B": 14,
-        "C": 14,
-        "D": 14
+    "mcq_integrity": {
+      "parity": {
+        "question_count": 56,
+        "solution_count": 56,
+        "mismatches": [],
+        "pass": true
       },
-      "maximum_consecutive_same_answer": 2,
-      "mechanical_abcd_rotation": false,
+      "answer_pattern": {
+        "key": "BBABBCDCAADACADBCDABBDABABBCACCBCDADBCBADCADCCDDCDBDDAAC",
+        "distribution": {
+          "B": 14,
+          "A": 14,
+          "C": 14,
+          "D": 14
+        },
+        "maximum_run": 2,
+        "mechanical_abcd_rotation": false,
+        "periodic_match_rates": {
+          "2": 0.222,
+          "4": 0.288
+        },
+        "pass": true
+      },
+      "question_answer_leakage": {
+        "**Answer:": false,
+        "**Option explanations:**": false,
+        "**Examiner trap": false,
+        "Correct:": false
+      },
+      "option_and_cue_quality": {
+        "metric": "Unicode character count and class-correlated visible features",
+        "correct_is_longest_count": 18,
+        "correct_is_longest_rate_percent": 32.14,
+        "uniquely_longest_correct_count": 16,
+        "uniquely_longest_rate_percent": 28.57,
+        "correct_mean_characters": 73.43,
+        "distractor_mean_characters": 67.41,
+        "mean_length_gap_percent": 8.2,
+        "comparability_outliers": [],
+        "feature_rates": {
+          "absolute_quantifier": {
+            "correct": 4,
+            "distractor": 27,
+            "correct_rate_percent": 7.14,
+            "distractor_rate_percent": 16.07,
+            "gap_percent": 8.93
+          },
+          "contrast_marker": {
+            "correct": 4,
+            "distractor": 4,
+            "correct_rate_percent": 7.14,
+            "distractor_rate_percent": 2.38,
+            "gap_percent": 4.76
+          },
+          "semicolon": {
+            "correct": 2,
+            "distractor": 6,
+            "correct_rate_percent": 3.57,
+            "distractor_rate_percent": 3.57,
+            "gap_percent": 0.0
+          },
+          "parentheses": {
+            "correct": 1,
+            "distractor": 3,
+            "correct_rate_percent": 1.79,
+            "distractor_rate_percent": 1.79,
+            "gap_percent": 0.0
+          },
+          "dash": {
+            "correct": 2,
+            "distractor": 4,
+            "correct_rate_percent": 3.57,
+            "distractor_rate_percent": 2.38,
+            "gap_percent": 1.19
+          },
+          "initial_capital": {
+            "correct": 5,
+            "distractor": 22,
+            "correct_rate_percent": 8.93,
+            "distractor_rate_percent": 13.1,
+            "gap_percent": 4.17
+          },
+          "finite_verb": {
+            "correct": 15,
+            "distractor": 44,
+            "correct_rate_percent": 26.79,
+            "distractor_rate_percent": 26.19,
+            "gap_percent": 0.6
+          }
+        },
+        "failed_feature_correlations": [],
+        "strong_class_exclusive_lexical_cues": [],
+        "locked_bands": {
+          "correct_longest_percent": [
+            15,
+            45
+          ],
+          "unique_longest_percent": [
+            5,
+            35
+          ],
+          "mean_length_gap_percent_max": 12,
+          "within_item_max_min_ratio": 2.2
+        },
+        "mechanical_limitations": "Length and token/feature correlation checks can detect recurring visible cues; they cannot prove that a learner will never infer an answer from style.",
+        "pass": true
+      },
+      "option_specific_explanations": {
+        "failures": [],
+        "duplicate_normalized_explanations": [],
+        "examiner_trap_count": 56,
+        "mechanical_limitations": "The gate verifies four distinct labelled explanations, correct/incorrect status, minimum depth and non-duplication. It does not establish philosophical truth.",
+        "pass": true
+      },
       "pass": true
     },
-    "solutions_complete": {
-      "answers": 56,
-      "option_explanations": 56,
-      "examiner_traps": 56,
-      "repair_actions": 56,
-      "coverage_mappings": 56,
-      "pyq_linkages": 56
-    },
-    "specific_distractor_explanations": {
-      "checked": 224,
-      "minimum_characters": 45,
-      "all_specific": true
-    },
-    "deduplication": {
-      "exact_duplicate_stems_absent": true,
-      "highest_stem_similarity": 0.735,
-      "highest_similarity_pair": [
-        2,
-        44
+    "verified_pyqs_and_original_models": {
+      "ledger_owned_count": 16,
+      "toolkit_owned_count": 16,
+      "owned_parts": [
+        "2018 Q3(c)",
+        "2018 Q4(c)",
+        "2019 Q3(c)",
+        "2020 Q2(b)",
+        "2020 Q2(c)",
+        "2021 Q3(a)",
+        "2021 Q4(c)",
+        "2022 Q1(b)",
+        "2022 Q3(c)",
+        "2023 Q4(b)",
+        "2024 Q1(c)",
+        "2024 Q3(a)",
+        "2025 Q1(d)",
+        "2025 Q3(c)",
+        "2026 Q1(e)",
+        "2026 Q4(a)"
       ],
-      "substantive_duplicate_review": "pass",
-      "removed_final_candidate": "facts as truth-makers",
-      "reason": "duplicated C05 atomic-fact truth-making inference",
-      "final_count": 56
-    },
-    "source_lineage": {
-      "source": "upsc-ai-kit/knowledge/Learner-v2-Refreshed/Philosophy/Paper-I-Western-Philosophy/learning-sessions/topic-06/g5/topic-06_Solved-Practice-Workbook_2026-09-02.md",
-      "source_question_count": 56,
-      "retained_exact_stems": 2,
-      "retained_mapping": {
-        "source_15": "final_23",
-        "source_19": "final_28"
-      },
-      "adapted_questions": 35,
-      "replaced_or_merged_source_questions": 19,
-      "removed_or_merged_source_ids": [
-        2,
-        27,
-        34,
-        35,
-        36,
-        38,
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        45,
-        46,
-        47,
-        48,
-        49,
-        50,
-        53
-      ],
-      "new_matrix_operations": [
-        "chronology",
-        "status of Moorean truisms",
-        "three proof conditions",
-        "standard objection to the hands proof",
-        "qualified verdict on the hands proof",
-        "structure of an atomic fact",
-        "golden-mountain application",
-        "criticism of the acquaintance base",
-        "limits of logical constructions",
-        "constitution of a state of affairs",
-        "colour exclusion",
-        "tautology/contradiction contrast",
-        "factual saying",
-        "hierarchy author",
-        "hierarchy formal success",
-        "hierarchy regress limit",
-        "Tarskian comparison",
-        "later-Wittgenstein boundary",
-        "exact sixteen-part PYQ accounting"
-      ],
-      "final_count": 56,
-      "matrix_closure_explanation_recorded_in_coverage_ledger": true
-    },
-    "verified_pyqs": {
-      "directly_owned_count": 16,
-      "all_exact_prompt_matches": true,
-      "exact_prompt_match": {
+      "exact_wording": {
         "2018 Q3(c)": true,
         "2018 Q4(c)": true,
         "2019 Q3(c)": true,
@@ -244,505 +1364,705 @@
         "2026 Q1(e)": true,
         "2026 Q4(a)": true
       },
-      "all_have_required_solution_components": true,
-      "component_checks": {
-        "2018 Q3(c)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2018 Q4(c)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2019 Q3(c)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2020 Q2(b)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2020 Q2(c)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2021 Q3(a)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2021 Q4(c)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2022 Q1(b)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2022 Q3(c)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2023 Q4(b)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2024 Q1(c)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2024 Q3(a)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2025 Q1(d)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2025 Q3(c)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2026 Q1(e)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        },
-        "2026 Q4(a)": {
-          "question": true,
-          "demand_decoding": true,
-          "independent_model_answer": true,
-          "qualification_or_criticism": true,
-          "marks_logic": true,
-          "exam_length": true,
-          "exact_prompt_match": true
-        }
-      },
-      "model_answer_word_counts": {
+      "timed_word_counts": {
         "2018 Q3(c)": {
           "marks": 15,
+          "words": 298,
           "band": [
             250,
             300
           ],
-          "measured_words": 298,
-          "stated_words": 298,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2018 Q4(c)": {
           "marks": 15,
+          "words": 259,
           "band": [
             250,
             300
           ],
-          "measured_words": 259,
-          "stated_words": 259,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2019 Q3(c)": {
           "marks": 15,
+          "words": 257,
           "band": [
             250,
             300
           ],
-          "measured_words": 257,
-          "stated_words": 257,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2020 Q2(b)": {
           "marks": 15,
+          "words": 283,
           "band": [
             250,
             300
           ],
-          "measured_words": 283,
-          "stated_words": 283,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2020 Q2(c)": {
           "marks": 15,
+          "words": 251,
           "band": [
             250,
             300
           ],
-          "measured_words": 251,
-          "stated_words": 251,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2021 Q3(a)": {
           "marks": 20,
+          "words": 378,
           "band": [
             340,
             400
           ],
-          "measured_words": 378,
-          "stated_words": 378,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2021 Q4(c)": {
           "marks": 15,
+          "words": 265,
           "band": [
             250,
             300
           ],
-          "measured_words": 265,
-          "stated_words": 265,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2022 Q1(b)": {
           "marks": 10,
+          "words": 198,
           "band": [
             150,
             200
           ],
-          "measured_words": 198,
-          "stated_words": 198,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2022 Q3(c)": {
           "marks": 15,
+          "words": 276,
           "band": [
             250,
             300
           ],
-          "measured_words": 276,
-          "stated_words": 276,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2023 Q4(b)": {
           "marks": 15,
+          "words": 272,
           "band": [
             250,
             300
           ],
-          "measured_words": 272,
-          "stated_words": 272,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2024 Q1(c)": {
           "marks": 10,
+          "words": 200,
           "band": [
             150,
             200
           ],
-          "measured_words": 200,
-          "stated_words": 200,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2024 Q3(a)": {
           "marks": 20,
+          "words": 348,
           "band": [
             340,
             400
           ],
-          "measured_words": 348,
-          "stated_words": 348,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2025 Q1(d)": {
           "marks": 10,
+          "words": 172,
           "band": [
             150,
             200
           ],
-          "measured_words": 172,
-          "stated_words": 172,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2025 Q3(c)": {
           "marks": 15,
+          "words": 267,
           "band": [
             250,
             300
           ],
-          "measured_words": 267,
-          "stated_words": 267,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2026 Q1(e)": {
           "marks": 10,
+          "words": 195,
           "band": [
             150,
             200
           ],
-          "measured_words": 195,
-          "stated_words": 195,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         },
         "2026 Q4(a)": {
           "marks": 20,
+          "words": 340,
           "band": [
             340,
             400
           ],
-          "measured_words": 340,
-          "stated_words": 340,
-          "in_band": true,
-          "matches_stated": true
+          "pass": true
         }
       },
-      "word_count_method": "Unicode word-token count over timed model-answer prose only; metadata, marks rationale and guidance excluded",
-      "portable_2026_authority": "upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md",
-      "portable_authority_exists": true,
-      "2018_2025_authority_exists": true,
-      "model_answers_are_learner_practice_not_official_keys": true
-    },
-    "original_mains_practice": {
-      "question_count": 3,
-      "required_marks": [
-        10,
-        15,
-        20
-      ],
-      "solutions": {
-        "Original 1": {
+      "declared_word_counts": {
+        "2018 Q3(c)": {
+          "declared": 298,
+          "computed": 298,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2018 Q4(c)": {
+          "declared": 259,
+          "computed": 259,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2019 Q3(c)": {
+          "declared": 257,
+          "computed": 257,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2020 Q2(b)": {
+          "declared": 283,
+          "computed": 283,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2020 Q2(c)": {
+          "declared": 251,
+          "computed": 251,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2021 Q3(a)": {
+          "declared": 378,
+          "computed": 378,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2021 Q4(c)": {
+          "declared": 265,
+          "computed": 265,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2022 Q1(b)": {
+          "declared": 198,
+          "computed": 198,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2022 Q3(c)": {
+          "declared": 276,
+          "computed": 276,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2023 Q4(b)": {
+          "declared": 272,
+          "computed": 272,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2024 Q1(c)": {
+          "declared": 200,
+          "computed": 200,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2024 Q3(a)": {
+          "declared": 348,
+          "computed": 348,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2025 Q1(d)": {
+          "declared": 172,
+          "computed": 172,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2025 Q3(c)": {
+          "declared": 267,
+          "computed": 267,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2026 Q1(e)": {
+          "declared": 195,
+          "computed": 195,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2026 Q4(a)": {
+          "declared": 340,
+          "computed": 340,
+          "declaration_count": 1,
+          "pass": true
+        }
+      },
+      "word_bands": {
+        "10": [
+          150,
+          200
+        ],
+        "15": [
+          250,
+          300
+        ],
+        "20": [
+          340,
+          400
+        ]
+      },
+      "original_models": {
+        "1": {
           "marks": 10,
-          "band": [
-            150,
-            200
-          ],
-          "measured_words": 174,
-          "stated_words": 174,
-          "in_band": true,
-          "matches_stated": true,
-          "components": {
-            "question": true,
-            "demand_decoding": true,
-            "introduction": true,
-            "organised_body": true,
-            "criticism_or_qualification": true,
-            "conclusion": true,
-            "why_it_earns_marks": true,
-            "word_time_guidance": true
-          },
-          "complete": true
+          "words": 174,
+          "pass": true
         },
-        "Original 2": {
+        "2": {
           "marks": 15,
-          "band": [
-            250,
-            300
-          ],
-          "measured_words": 255,
-          "stated_words": 255,
-          "in_band": true,
-          "matches_stated": true,
-          "components": {
-            "question": true,
-            "demand_decoding": true,
-            "introduction": true,
-            "organised_body": true,
-            "criticism_or_qualification": true,
-            "conclusion": true,
-            "why_it_earns_marks": true,
-            "word_time_guidance": true
-          },
-          "complete": true
+          "words": 255,
+          "pass": true
         },
-        "Original 3": {
+        "3": {
           "marks": 20,
-          "band": [
-            340,
-            400
-          ],
-          "measured_words": 359,
-          "stated_words": 359,
-          "in_band": true,
-          "matches_stated": true,
-          "components": {
-            "question": true,
-            "demand_decoding": true,
-            "introduction": true,
-            "organised_body": true,
-            "criticism_or_qualification": true,
-            "conclusion": true,
-            "why_it_earns_marks": true,
-            "word_time_guidance": true
-          },
-          "complete": true
+          "words": 359,
+          "pass": true
+        },
+        "4": {
+          "marks": 10,
+          "words": 172,
+          "pass": true
+        },
+        "5": {
+          "marks": 10,
+          "words": 156,
+          "pass": true
+        },
+        "6": {
+          "marks": 15,
+          "words": 267,
+          "pass": true
+        },
+        "7": {
+          "marks": 15,
+          "words": 261,
+          "pass": true
+        },
+        "8": {
+          "marks": 20,
+          "words": 368,
+          "pass": true
         }
       },
-      "all_complete": true
+      "original_declared_word_counts": {
+        "1": {
+          "declared": 174,
+          "computed": 174,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2": {
+          "declared": 255,
+          "computed": 255,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "3": {
+          "declared": 359,
+          "computed": 359,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "4": {
+          "declared": 172,
+          "computed": 172,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "5": {
+          "declared": 156,
+          "computed": 156,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "6": {
+          "declared": 267,
+          "computed": 267,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "7": {
+          "declared": 261,
+          "computed": 261,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "8": {
+          "declared": 368,
+          "computed": 368,
+          "declaration_count": 1,
+          "pass": true
+        }
+      },
+      "independent_practice_disclaimer": true,
+      "failures": [],
+      "pass": true
     },
-    "philosophical_consistency": {
-      "canonical_owner_checked": "upsc-ai-kit/knowledge/Philosophy/paper-1/western/Moore-Russell-EarlyWittgenstein.md",
-      "n_operator": {
-        "generalized_finite_set_definition_present": true,
-        "N_pq_equals_notp_and_notq": true,
-        "negation_formula": true,
-        "disjunction_formula": true,
-        "conjunction_formula": true,
-        "mcq_42_answer": "C",
-        "contradictory_formulas": []
-      },
-      "moore_act_object": {
-        "bad_inference_matches": [],
-        "2020_answer_requires_further_argument": true,
-        "2025_answer_requires_further_argument": true
-      },
-      "2021_moore_answer": {
-        "1925_primary": true,
-        "later_1939_mentions": 1,
-        "later_comparison_labelled": true,
-        "three_conditions_not_present": true
-      },
-      "2025_golden_mountain": {
-        "strawson_present": true,
-        "presupposition_present": true,
-        "actual_qualification_heading": true
-      }
-    },
-    "current_affairs_nonfabrication": true,
     "markdown_links": {
-      "checked": 13,
-      "broken": []
+      "checked": 15,
+      "broken": [],
+      "pass": true
+    },
+    "provenance": {
+      "canonical_owner_sha256": "29fbeaf23f91a2a461de648c3d349d147d566bafdf73560014d48b2002b9f953",
+      "verified_pyq_ledger_sha256": {
+        "knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md": "a4f40e7cec5aca3b02f77dbdb98bf156344bca17d8ce374665376d65814533c5",
+        "knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md": "258a00d4d3a4eba9a0e93cd4ff97e175436397c10498eeb3836d570e983512a9"
+      },
+      "honest_limit_statement_present": true,
+      "pass": true
     },
     "pdfs": {
-      "Answer-Writing-Toolkit.pdf": {
-        "bytes": 461828,
-        "pages": 25,
+      "Revision-Guide.pdf": {
+        "bytes": 2200903,
+        "pages": 140,
+        "source": "REVISION-GUIDE.md",
+        "source_sha256": "3c3de847413923949bbce976520cdb1d9fd82fe9b4679da7d270c4b5574ba216",
+        "pdf_sha256": "94c508819366018245e57c93ca18f5516c45b2a4be537a8e6d739f92ad400d77",
+        "source_mtime_ns": 1790152303998629200,
+        "pdf_mtime_ns": 1790153264350017600,
+        "pdf_not_older_than_source": true,
+        "heading_count": 72,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
-        "generated_contents_page_excluded_from_overlap_heuristic": 2
+        "raw_markdown_artifacts": [],
+        "pass": true
       },
       "MCQ-Questions.pdf": {
-        "bytes": 191726,
+        "bytes": 192337,
         "pages": 13,
+        "source": "MCQ-QUESTIONS.md",
+        "source_sha256": "bfda50d182508d7645d1e6e77f668c7620e1949163076a6b340cde89d3637228",
+        "pdf_sha256": "522ab853c6a640249f2775ac3faacaaf22fd06366cd2b343e3b061f3a9f851cc",
+        "source_mtime_ns": 1790153177964186500,
+        "pdf_mtime_ns": 1790153267351366500,
+        "pdf_not_older_than_source": true,
+        "heading_count": 57,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
-        "generated_contents_page_excluded_from_overlap_heuristic": 2
+        "raw_markdown_artifacts": [],
+        "mcq_count": 56,
+        "answer_leakage": false,
+        "pass": true
       },
       "MCQ-Solutions.pdf": {
-        "bytes": 489560,
+        "bytes": 489821,
         "pages": 29,
+        "source": "MCQ-SOLUTIONS.md",
+        "source_sha256": "1863e7e786ad57d599fb050780be700f0716925b76fb804f5ea46d39d567b6b4",
+        "pdf_sha256": "9878a8c476bbf1adf684c7cebecc9a8951189ca5b31e059405b49fcc2aff7c2e",
+        "source_mtime_ns": 1789891585089799800,
+        "pdf_mtime_ns": 1790153271949591600,
+        "pdf_not_older_than_source": true,
+        "heading_count": 57,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
-        "generated_contents_page_excluded_from_overlap_heuristic": 2
+        "raw_markdown_artifacts": [],
+        "solution_count": 56,
+        "pass": true
       },
-      "Revision-Guide.pdf": {
-        "bytes": 2096648,
-        "pages": 113,
+      "Answer-Writing-Toolkit.pdf": {
+        "bytes": 514205,
+        "pages": 29,
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "source_sha256": "03535a7428d7ae3083468517fca6386a463474a59f59239cc941f17fc47509c1",
+        "pdf_sha256": "f8fd3532441fcf3268d3a1ae20039761d0857a165861efc1f65f2a3e8cd18f09",
+        "source_mtime_ns": 1790164008702973900,
+        "pdf_mtime_ns": 1790165516056640800,
+        "pdf_not_older_than_source": true,
+        "heading_count": 79,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
-        "generated_contents_page_excluded_from_overlap_heuristic": 2
+        "raw_markdown_artifacts": [],
+        "owned_pyq_headings": 16,
+        "pass": true
       }
     },
-    "practice_log_blank_template": true,
-    "temporary_files_left": [],
-    "git_diff_check": {
-      "exit_code": 0,
-      "output": "",
-      "scope_note": "git diff --check validates tracked changes; untracked package state is separately recorded"
-    },
-    "git_status_awareness": {
-      "short_status": [
-        " M upsc-ai-kit/practice/Offline-Revision-MCQ/INDEX.md",
-        " M upsc-ai-kit/practice/Offline-Revision-MCQ/STATUS.json",
-        "?? upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/"
+    "text_and_git_integrity": {
+      "inspected_text_files": [
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/ANSWER-WRITING-TOOLKIT.md",
+          "bytes": 74158,
+          "sha256": "03535a7428d7ae3083468517fca6386a463474a59f59239cc941f17fc47509c1"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/COVERAGE-LEDGER.md",
+          "bytes": 8571,
+          "sha256": "2ac46054de86a7229bfae6d5dbaa8850bd77bb19d65a4f1ac58a4c064529ebe5"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/FORMAL-COVERAGE-AUDIT.json",
+          "bytes": 3314478,
+          "sha256": "61388990c3e9681111ec46342a62d6300724a13b277bf7e10f9dc5f7d2522744"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/FORMAL-COVERAGE-REVIEW.json",
+          "bytes": 3069377,
+          "sha256": "341492c6158c947566084c700c08bb05c0ae9b486230dfd9f1348e59828cb062"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/MCQ-QUESTIONS.md",
+          "bytes": 21687,
+          "sha256": "bfda50d182508d7645d1e6e77f668c7620e1949163076a6b340cde89d3637228"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/MCQ-SOLUTIONS.md",
+          "bytes": 56607,
+          "sha256": "1863e7e786ad57d599fb050780be700f0716925b76fb804f5ea46d39d567b6b4"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/PRACTICE-LOG.md",
+          "bytes": 1644,
+          "sha256": "819c4f02657d466c5485ceb528d4f98d97ee783dcb1d87ca4df411be25e2904b"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/README.md",
+          "bytes": 2485,
+          "sha256": "1ca9bc237813b1c4a935254d8b2fa3a7b7b8491a6733edcd7a82ec9767cc4f96"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/REVISION-GUIDE.md",
+          "bytes": 344297,
+          "sha256": "3c3de847413923949bbce976520cdb1d9fd82fe9b4679da7d270c4b5574ba216"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/validate_package.py",
+          "bytes": 170283,
+          "sha256": "febd1de0c7a73abd08a4c6a071f3270ce82e18140df9fd5868fad0aeb3a66a00"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/VALIDATION.json",
+          "bytes": 85877,
+          "sha256": "e911e88c898d894d8e2ad4b249157e329badb0a635f0ff012d2cb5ab77261473"
+        }
       ],
-      "topic_package_is_untracked": true,
-      "untracked_files_are_not_treated_as_an_empty_diff": true
+      "untracked_text_diff_checks": [],
+      "tracked_required_files": {
+        "README.md": true,
+        "REVISION-GUIDE.md": true,
+        "MCQ-QUESTIONS.md": true,
+        "MCQ-SOLUTIONS.md": true,
+        "COVERAGE-LEDGER.md": true,
+        "PRACTICE-LOG.md": true,
+        "ANSWER-WRITING-TOOLKIT.md": true,
+        "FORMAL-COVERAGE-AUDIT.json": true,
+        "FORMAL-COVERAGE-REVIEW.json": true,
+        "VALIDATION.json": true,
+        "validate_package.py": true,
+        "pdf/Revision-Guide.pdf": true,
+        "pdf/MCQ-Questions.pdf": true,
+        "pdf/MCQ-Solutions.pdf": true,
+        "pdf/Answer-Writing-Toolkit.pdf": true
+      },
+      "untracked_required_files": [],
+      "pdf_git_ignore_awareness": {
+        "Revision-Guide.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "MCQ-Questions.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "MCQ-Solutions.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "Answer-Writing-Toolkit.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        }
+      },
+      "release_staging_instruction_present": true,
+      "temporary_files": [],
+      "pycache_directories": [],
+      "failures": [],
+      "pass": true
+    },
+    "release_integrity": {
+      "mode": "precommit inclusion check",
+      "required_files": {
+        "README.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/README.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "REVISION-GUIDE.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/REVISION-GUIDE.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "MCQ-QUESTIONS.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/MCQ-QUESTIONS.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "MCQ-SOLUTIONS.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/MCQ-SOLUTIONS.md",
+          "exists": true,
+          "tracked": true,
+          "staged": false,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "COVERAGE-LEDGER.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/COVERAGE-LEDGER.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "PRACTICE-LOG.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/PRACTICE-LOG.md",
+          "exists": true,
+          "tracked": true,
+          "staged": false,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "ANSWER-WRITING-TOOLKIT.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/ANSWER-WRITING-TOOLKIT.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "FORMAL-COVERAGE-AUDIT.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/FORMAL-COVERAGE-AUDIT.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "FORMAL-COVERAGE-REVIEW.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/FORMAL-COVERAGE-REVIEW.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "VALIDATION.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/VALIDATION.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "validate_package.py": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/validate_package.py",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/Revision-Guide.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/pdf/Revision-Guide.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/MCQ-Questions.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/pdf/MCQ-Questions.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/MCQ-Solutions.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/pdf/MCQ-Solutions.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/Answer-Writing-Toolkit.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/pdf/Answer-Writing-Toolkit.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        }
+      },
+      "missing_or_unstaged_required_files": [],
+      "mechanical_limitations": "This proves that each required path's current content is present in the Git index. It does not commit, push or prove that a later commit will include the same index.",
+      "pass": true
     }
   },
-  "failures": []
+  "failures": [],
+  "mechanical_limits": "DEVELOPMENT_PASS certifies enumerated source-block accounting, reviewed anchors and witness overlap, MCQ/PYQ structure, visible cue metrics, links and PDF mechanics. Only RELEASE_PASS certifies current-file inclusion in the Git index. Neither proves philosophical truth, semantic completeness, future UPSC relevance or examiner marks."
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 15,
   "topic": "03 Empiricism",
-  "validated_at": "2026-09-23T09:02:06+05:30",
+  "validated_at": "2026-09-23T18:53:57+05:30",
   "result": "DEVELOPMENT_PASS",
   "validation_mode": "development",
   "release_ready": true,
@@ -15,38 +15,38 @@
       "Revision-Guide.pdf": {
         "source": "REVISION-GUIDE.md",
         "exists": true,
-        "bytes": 1957543,
-        "sha256": "1ef410e711a8a4a07b4c2c45991312b0ad3dbf8ecf2aabe1aa0a263bf8fc52bb",
-        "source_sha256": "06a7ed48895d2fd18058882f69ed3c12e3d66f9ce887182cd7a56a34e7f48655",
-        "source_mtime_ns": 1790132472033496200,
-        "pdf_mtime_ns": 1790132560803653200
+        "bytes": 1954400,
+        "sha256": "fcd12aa3d4e1dd42fd8a9c1edcb4dd9fd61a2aebcf477e2591fe0729c5c48aaf",
+        "source_sha256": "8922d1b0877949fc8af58416f9fe4d9ca22b6692be0b6a9ee3a3a19a2222c23a",
+        "source_mtime_ns": 1790160403336210200,
+        "pdf_mtime_ns": 1790163209725831200
       },
       "MCQ-Questions.pdf": {
         "source": "MCQ-QUESTIONS.md",
         "exists": true,
-        "bytes": 207904,
-        "sha256": "203142779ce25fe7f04baf5f3e2d67d95ed7c28e20389807666754e99481dc63",
-        "source_sha256": "5a7ad2e9c5584a6f9a27fbd33a04a5839c5c411d00d28ced51c146061c12183b",
-        "source_mtime_ns": 1789875445793192700,
-        "pdf_mtime_ns": 1790132564904911400
+        "bytes": 207901,
+        "sha256": "e0136d778f727f8ad983a7dddc289499692831565660dec25ef0d2fbc9f0dc04",
+        "source_sha256": "e9ed6b2d094739500525909304d0de9917b777cc670799a8462b69c2588edb8e",
+        "source_mtime_ns": 1790160336083755800,
+        "pdf_mtime_ns": 1790163213883225300
       },
       "MCQ-Solutions.pdf": {
         "source": "MCQ-SOLUTIONS.md",
         "exists": true,
-        "bytes": 420284,
-        "sha256": "e21ec5301742cd3807467e07b5bf30d1f178aacd8fe54866011a7ba332d401c5",
-        "source_sha256": "1fdc41fedcf21a2fa3662dd0bce8a2dce81017cb5c00e863e3854d8ad172b571",
-        "source_mtime_ns": 1790132159504713400,
-        "pdf_mtime_ns": 1790132569630610300
+        "bytes": 420429,
+        "sha256": "c807399062f9ca3273e5bd49015224a58c121dcd2f6b6e3898c10ef33fb05ff0",
+        "source_sha256": "71c06f83bb7d9575bf6e980b41308b0953d6a598610ed8124857368c29cd5bec",
+        "source_mtime_ns": 1790163122959595100,
+        "pdf_mtime_ns": 1790163219437556900
       },
       "Answer-Writing-Toolkit.pdf": {
         "source": "ANSWER-WRITING-TOOLKIT.md",
         "exists": true,
-        "bytes": 575626,
-        "sha256": "c1e6aab1956194a15464111f752aa2da07c8e024a9acf7d7723495ad76ca41d7",
-        "source_sha256": "32630fcc7404e23867f6cb1f14b2e808f89f0274106659f1407b3256470fb089",
-        "source_mtime_ns": 1790132472065095900,
-        "pdf_mtime_ns": 1790132575178923100
+        "bytes": 576228,
+        "sha256": "8d34cd477d6d7a7db2a37988b947cfaab98fffbb3b7b6ff5dcdc9b79c1a55760",
+        "source_sha256": "e03086b6cc08f4f81da9d7a75fb6ca3f86c8262c9ca8bd8606cf3f310fcd5ba5",
+        "source_mtime_ns": 1790155688020403100,
+        "pdf_mtime_ns": 1790163225861522600
       }
     },
     "all_four_regenerated": true
@@ -189,9 +189,9 @@
         "correct_is_longest_rate_percent": 26.83,
         "uniquely_longest_correct_count": 5,
         "uniquely_longest_rate_percent": 12.2,
-        "correct_mean_characters": 70.54,
+        "correct_mean_characters": 70.85,
         "distractor_mean_characters": 68.66,
-        "mean_length_gap_percent": 2.66,
+        "mean_length_gap_percent": 3.1,
         "comparability_outliers": [],
         "feature_rates": {
           "absolute_quantifier": {
@@ -223,11 +223,11 @@
             "gap_percent": 0.0
           },
           "dash": {
-            "correct": 3,
+            "correct": 4,
             "distractor": 11,
-            "correct_rate_percent": 7.32,
+            "correct_rate_percent": 9.76,
             "distractor_rate_percent": 8.94,
-            "gap_percent": 1.63
+            "gap_percent": 0.81
           },
           "initial_capital": {
             "correct": 9,
@@ -317,7 +317,7 @@
         },
         "2018 Q3(a)": {
           "marks": 20,
-          "words": 357,
+          "words": 389,
           "band": [
             340,
             400
@@ -483,6 +483,37 @@
       "failures": [],
       "pass": true
     },
+    "moore_route_consistency": {
+      "surfaces_checked": [
+        {
+          "file": "ANSWER-WRITING-TOOLKIT.md",
+          "anchor": "2018 · Q3(a) · 20 marks",
+          "required_groups": 5,
+          "pass": true
+        },
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, AND THE MOORE, RUSSELL AND HEGEL COMPARISONS",
+          "required_groups": 4,
+          "pass": true
+        },
+        {
+          "file": "MCQ-QUESTIONS.md",
+          "anchor": "MCQ 20. Moore and Russell against Berkeley",
+          "required_groups": 3,
+          "pass": true
+        },
+        {
+          "file": "MCQ-SOLUTIONS.md",
+          "anchor": "MCQ 20. Moore and Russell against Berkeley",
+          "required_groups": 4,
+          "pass": true
+        }
+      ],
+      "package_wide_forbidden_matches": [],
+      "failures": [],
+      "pass": true
+    },
     "markdown_links": {
       "checked": 9,
       "broken": [],
@@ -499,13 +530,13 @@
     },
     "pdfs": {
       "Revision-Guide.pdf": {
-        "bytes": 1957543,
+        "bytes": 1954400,
         "pages": 133,
         "source": "REVISION-GUIDE.md",
-        "source_sha256": "06a7ed48895d2fd18058882f69ed3c12e3d66f9ce887182cd7a56a34e7f48655",
-        "pdf_sha256": "1ef410e711a8a4a07b4c2c45991312b0ad3dbf8ecf2aabe1aa0a263bf8fc52bb",
-        "source_mtime_ns": 1790132472033496200,
-        "pdf_mtime_ns": 1790132560803653200,
+        "source_sha256": "8922d1b0877949fc8af58416f9fe4d9ca22b6692be0b6a9ee3a3a19a2222c23a",
+        "pdf_sha256": "fcd12aa3d4e1dd42fd8a9c1edcb4dd9fd61a2aebcf477e2591fe0729c5c48aaf",
+        "source_mtime_ns": 1790160403336210200,
+        "pdf_mtime_ns": 1790163209725831200,
         "pdf_not_older_than_source": true,
         "heading_count": 53,
         "missing_source_headings": [],
@@ -518,13 +549,13 @@
         "pass": true
       },
       "MCQ-Questions.pdf": {
-        "bytes": 207904,
+        "bytes": 207901,
         "pages": 16,
         "source": "MCQ-QUESTIONS.md",
-        "source_sha256": "5a7ad2e9c5584a6f9a27fbd33a04a5839c5c411d00d28ced51c146061c12183b",
-        "pdf_sha256": "203142779ce25fe7f04baf5f3e2d67d95ed7c28e20389807666754e99481dc63",
-        "source_mtime_ns": 1789875445793192700,
-        "pdf_mtime_ns": 1790132564904911400,
+        "source_sha256": "e9ed6b2d094739500525909304d0de9917b777cc670799a8462b69c2588edb8e",
+        "pdf_sha256": "e0136d778f727f8ad983a7dddc289499692831565660dec25ef0d2fbc9f0dc04",
+        "source_mtime_ns": 1790160336083755800,
+        "pdf_mtime_ns": 1790163213883225300,
         "pdf_not_older_than_source": true,
         "heading_count": 42,
         "missing_source_headings": [],
@@ -539,13 +570,13 @@
         "pass": true
       },
       "MCQ-Solutions.pdf": {
-        "bytes": 420284,
+        "bytes": 420429,
         "pages": 28,
         "source": "MCQ-SOLUTIONS.md",
-        "source_sha256": "1fdc41fedcf21a2fa3662dd0bce8a2dce81017cb5c00e863e3854d8ad172b571",
-        "pdf_sha256": "e21ec5301742cd3807467e07b5bf30d1f178aacd8fe54866011a7ba332d401c5",
-        "source_mtime_ns": 1790132159504713400,
-        "pdf_mtime_ns": 1790132567998050800,
+        "source_sha256": "71c06f83bb7d9575bf6e980b41308b0953d6a598610ed8124857368c29cd5bec",
+        "pdf_sha256": "c807399062f9ca3273e5bd49015224a58c121dcd2f6b6e3898c10ef33fb05ff0",
+        "source_mtime_ns": 1790163122959595100,
+        "pdf_mtime_ns": 1790163217081980200,
         "pdf_not_older_than_source": true,
         "heading_count": 42,
         "missing_source_headings": [],
@@ -559,13 +590,13 @@
         "pass": true
       },
       "Answer-Writing-Toolkit.pdf": {
-        "bytes": 575626,
+        "bytes": 576228,
         "pages": 30,
         "source": "ANSWER-WRITING-TOOLKIT.md",
-        "source_sha256": "32630fcc7404e23867f6cb1f14b2e808f89f0274106659f1407b3256470fb089",
-        "pdf_sha256": "c1e6aab1956194a15464111f752aa2da07c8e024a9acf7d7723495ad76ca41d7",
-        "source_mtime_ns": 1790132472065095900,
-        "pdf_mtime_ns": 1790132575178923100,
+        "source_sha256": "e03086b6cc08f4f81da9d7a75fb6ca3f86c8262c9ca8bd8606cf3f310fcd5ba5",
+        "pdf_sha256": "8d34cd477d6d7a7db2a37988b947cfaab98fffbb3b7b6ff5dcdc9b79c1a55760",
+        "source_mtime_ns": 1790155688020403100,
+        "pdf_mtime_ns": 1790163223431910500,
         "pdf_not_older_than_source": true,
         "heading_count": 12,
         "missing_source_headings": [],
@@ -583,8 +614,8 @@
       "inspected_text_files": [
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/ANSWER-WRITING-TOOLKIT.md",
-          "bytes": 75997,
-          "sha256": "32630fcc7404e23867f6cb1f14b2e808f89f0274106659f1407b3256470fb089"
+          "bytes": 76265,
+          "sha256": "e03086b6cc08f4f81da9d7a75fb6ca3f86c8262c9ca8bd8606cf3f310fcd5ba5"
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/COVERAGE-LEDGER.md",
@@ -603,13 +634,13 @@
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/MCQ-QUESTIONS.md",
-          "bytes": 25666,
-          "sha256": "5a7ad2e9c5584a6f9a27fbd33a04a5839c5c411d00d28ced51c146061c12183b"
+          "bytes": 25681,
+          "sha256": "e9ed6b2d094739500525909304d0de9917b777cc670799a8462b69c2588edb8e"
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/MCQ-SOLUTIONS.md",
-          "bytes": 68170,
-          "sha256": "1fdc41fedcf21a2fa3662dd0bce8a2dce81017cb5c00e863e3854d8ad172b571"
+          "bytes": 68280,
+          "sha256": "71c06f83bb7d9575bf6e980b41308b0953d6a598610ed8124857368c29cd5bec"
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/PRACTICE-LOG.md",
@@ -623,18 +654,18 @@
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/REVISION-GUIDE.md",
-          "bytes": 355435,
-          "sha256": "06a7ed48895d2fd18058882f69ed3c12e3d66f9ce887182cd7a56a34e7f48655"
+          "bytes": 355648,
+          "sha256": "8922d1b0877949fc8af58416f9fe4d9ca22b6692be0b6a9ee3a3a19a2222c23a"
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/validate_package.py",
-          "bytes": 80476,
-          "sha256": "efcd383d433400047fe8825321933572c52f3c3917149069211ae7064dbda1d9"
+          "bytes": 85897,
+          "sha256": "77ab0b2d1c121628845963f4c59f51c7bcf16921ff3f2dbe8655ffa8f257dba3"
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/VALIDATION.json",
-          "bytes": 31770,
-          "sha256": "1ec22cca8df845546e92e5b22225fdadaf42e0cdc92bf97e2e1ce3db5fabe025"
+          "bytes": 31828,
+          "sha256": "dadff27aeb3e42f277f817d6a37d4ef1fbdf171ad1f2126d102e6d46a5acc1bd"
         }
       ],
       "untracked_text_diff_checks": [],
@@ -691,7 +722,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/README.md",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -709,7 +740,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/MCQ-QUESTIONS.md",
           "exists": true,
           "tracked": true,
-          "staged": false,
+          "staged": true,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -727,7 +758,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/COVERAGE-LEDGER.md",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -754,7 +785,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/FORMAL-COVERAGE-AUDIT.json",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -763,7 +794,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/03-Empiricism/FORMAL-COVERAGE-REVIEW.json",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true

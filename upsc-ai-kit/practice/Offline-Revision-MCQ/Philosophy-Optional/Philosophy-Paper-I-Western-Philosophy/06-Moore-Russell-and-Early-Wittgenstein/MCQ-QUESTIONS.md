@@ -1,8 +1,8 @@
 # Moore, Russell and Early Wittgenstein — MCQ Questions
 
 > Attempt closed-book and record option, reasoning and confidence in PRACTICE-LOG.md before
-> opening MCQ-SOLUTIONS.md. The **56-question total closes the distinct-operation coverage
-> matrix** after an explicit audit of the 56-question g5 source: 2 retained stems, 35 adapted
+> opening MCQ-SOLUTIONS.md. The 56-question total closes the distinct-operation coverage
+> matrix after an explicit audit of the 56-question g5 source: 2 retained stems, 35 adapted
 > questions and 19 replacements for merged or removed candidates. No answer, hint, explanation
 > or answer-pattern cue is intentionally present here.
 

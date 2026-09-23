@@ -171,11 +171,19 @@ Berkeley's case is cumulative, and it begins before metaphysics. In the Introduc
 
 Five arguments then follow. The **semantic** argument (§§1–4) holds that the objects of knowledge are ideas, that "sensible things" means what is immediately perceived, and that an apple or a tree is nothing but a collection of such ideas; since ideas cannot exist unperceived, for sensible things *to be is to be perceived* (§3). The **likeness principle** (§8) holds that an idea can be like nothing but an idea, and that a resemblance to an unperceivable original could never be checked, which destroys Locke's representative relation. The **parity** argument (§§9–15) extends Locke's own relativity considerations from secondary to primary qualities, leaving nothing for matter to be. The **Master Argument** (§§22–23) challenges us to conceive an unconceived body and answers that in conceiving it we conceive it. Finally, since ideas are passive yet arrive involuntarily in settled order, an active infinite spirit must produce and sustain them (§§30–33): reality is spirits and their ideas.
 
-**Moore** attacks the inference from "experienced" to "dependent on experience" by distinguishing the **act** of awareness from its **object**: awareness of blue is not identical with blue. His transparency argument yields direct realism, on which the object is presented through, but not constituted by, consciousness.
+**Moore** attacks the inference from "experienced" to "dependent on experience" by distinguishing
+the **act** of awareness from its **object**: awareness of blue is not identical with blue. His
+transparency argument presses toward realism by showing that the object is presented through, but
+not constituted by, consciousness. It blocks the identity inference, but does not itself supply a
+full replacement theory of perception.
 
 **Russell** also refuses idealism, but instead of restoring the ordinary object he reconstructs it: physical objects are **logical constructions** from sense-data, perspectives and relations, so what is preserved is structure rather than the familiar thing.
 
-**Verdict.** ⚠️ Both refuse to reduce object to act, but they differ in what they save: Moore **defends** the ordinary object as directly known; Russell **replaces** it and retains only structural objectivity. Moore restores common sense; Russell restores science.
+**Verdict.** ⚠️ Both refuse to reduce object to act, but they differ in what they supply: Moore
+blocks Berkeley's identity-based inference and leaves the positive analysis of perception open;
+Russell **reconstructs** physical-object discourse and retains structural objectivity. Moore
+preserves the realist possibility without completing a perceptual theory; Russell supplies a
+replacement architecture for science.
 
 ##### Qualification and criticism
 

@@ -1680,6 +1680,144 @@ def release_integrity_checks() -> dict:
     }
 
 
+def moore_route_consistency_checks(texts: dict[str, str]) -> dict:
+    forbidden = {
+        "transparency_entails_direct_realism": (
+            r"transparency.{0,140}(?:support(?:s|ed)?|yield(?:s|ed)?|"
+            r"establish(?:es|ed)?|prov(?:e|es|ed)|entail(?:s|ed)?).{0,100}"
+            r"direct realism"
+        ),
+        "moore_directly_knows_object": (
+            r"moore(?:(?!russell).){0,180}(?:ordinary )?object"
+            r"(?:(?!russell).){0,100}directly known|"
+            r"moore(?:(?!russell).){0,180}directly known"
+            r"(?:(?!russell).){0,100}(?:ordinary )?object"
+        ),
+        "moore_defends_object": (
+            r"moore(?:(?!russell).){0,180}"
+            r"(?:defend(?:s|ed)?|keep(?:s|ing)?|retain(?:s|ed)?)"
+            r"(?:(?!russell).){0,100}(?:ordinary )?object"
+        ),
+        "moore_restores_common_sense": (
+            r"moore(?:(?!russell).){0,180}(?:restore(?:s|d)?|recover(?:s|ed)?|"
+            r"re-establish(?:es|ed)?)(?:(?!russell).){0,80}common sense"
+        ),
+    }
+    surfaces = [
+        {
+            "file": "ANSWER-WRITING-TOOLKIT.md",
+            "anchor": "2018 · Q3(a) · 20 marks",
+            "groups": [
+                ["act of awareness"],
+                ["object"],
+                ["blocks the identity inference"],
+                ["does not itself supply a full replacement theory of perception"],
+                ["russell reconstructs"],
+            ],
+        },
+        {
+            "file": "REVISION-GUIDE.md",
+            "anchor": (
+                "SESSION 9 — BERKELEY III: SPIRITS, NOTIONS, GOD, CONTINUITY, "
+                "AND THE MOORE, RUSSELL AND HEGEL COMPARISONS"
+            ),
+            "groups": [
+                ["act of awareness", "act-object distinction"],
+                ["transparency diagnoses", "transparency diagnosis"],
+                ["perceptual theory open", "no complete replacement theory"],
+                ["russell reconstructs", "logical construction"],
+            ],
+        },
+        {
+            "file": "MCQ-QUESTIONS.md",
+            "anchor": "MCQ 20. Moore and Russell against Berkeley",
+            "groups": [
+                ["moore blocks the act-object identity"],
+                ["leaving perception open"],
+                ["russell reconstructs physical objects"],
+            ],
+        },
+        {
+            "file": "MCQ-SOLUTIONS.md",
+            "anchor": "MCQ 20. Moore and Russell against Berkeley",
+            "groups": [
+                ["transparency diagnosis"],
+                ["act-object confusion"],
+                ["without supplying a complete perceptual theory"],
+                ["russell reconstructs physical-object discourse"],
+            ],
+        },
+    ]
+    failures = []
+    checked = []
+    for surface in surfaces:
+        section = find_heading_section(
+            texts[surface["file"]],
+            surface["anchor"],
+        )
+        normalized = normalise(section)
+        missing = [
+            group
+            for group in surface["groups"]
+            if not any(normalise(phrase) in normalized for phrase in group)
+        ]
+        if not section or missing:
+            failures.append(
+                {
+                    "file": surface["file"],
+                    "anchor": surface["anchor"],
+                    "reason": "required qualified Moore route assertion absent",
+                    "missing_groups": missing,
+                }
+            )
+        surface_forbidden = [
+            name
+            for name, pattern in forbidden.items()
+            if re.search(pattern, normalized, re.I | re.S)
+        ]
+        if surface_forbidden:
+            failures.append(
+                {
+                    "file": surface["file"],
+                    "anchor": surface["anchor"],
+                    "reason": "forbidden Moore route overclaim present",
+                    "assertions": surface_forbidden,
+                }
+            )
+        checked.append(
+            {
+                "file": surface["file"],
+                "anchor": surface["anchor"],
+                "required_groups": len(surface["groups"]),
+                "pass": bool(section) and not missing and not surface_forbidden,
+            }
+        )
+    package_forbidden = []
+    for file_name in (
+        "ANSWER-WRITING-TOOLKIT.md",
+        "REVISION-GUIDE.md",
+        "MCQ-QUESTIONS.md",
+        "MCQ-SOLUTIONS.md",
+    ):
+        normalized = normalise(texts[file_name])
+        for name, pattern in forbidden.items():
+            if re.search(pattern, normalized, re.I | re.S):
+                package_forbidden.append({"file": file_name, "assertion": name})
+    if package_forbidden:
+        failures.append(
+            {
+                "reason": "forbidden Moore overclaim exists outside routed anchor",
+                "matches": package_forbidden,
+            }
+        )
+    return {
+        "surfaces_checked": checked,
+        "package_wide_forbidden_matches": package_forbidden,
+        "failures": failures,
+        "pass": not failures and len(checked) == 4,
+    }
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--regenerate", action="store_true")
@@ -1749,6 +1887,9 @@ def main() -> int:
     toolkit = toolkit_checks(texts["ANSWER-WRITING-TOOLKIT.md"])
     if not toolkit["pass"]:
         failures.append("pyq_and_original_models")
+    moore_route = moore_route_consistency_checks(texts)
+    if not moore_route["pass"]:
+        failures.append("moore_route_consistency")
     links = markdown_link_checks()
     if not links["pass"]:
         failures.append("markdown_links")
@@ -1807,6 +1948,7 @@ def main() -> int:
             "formal_coverage_audit": formal,
             "mcq_integrity": mcq,
             "verified_pyqs_and_original_models": toolkit,
+            "moore_route_consistency": moore_route,
             "markdown_links": links,
             "provenance": provenance,
             "pdfs": pdfs,

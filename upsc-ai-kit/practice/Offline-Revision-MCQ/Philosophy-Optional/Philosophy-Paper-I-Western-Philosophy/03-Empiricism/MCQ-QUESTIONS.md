@@ -285,7 +285,7 @@ The difference between Moore's and Russell's reactions to Berkeley is best state
 
 A. Moore accepts Berkeley's premises but rejects the conclusion, whereas Russell rejects them
 
-B. Moore defends the ordinary object as directly known, whereas Russell replaces it with a construction
+B. Moore blocks the act–object identity while leaving perception open, whereas Russell reconstructs physical objects
 
 C. Moore relies on the verification principle of meaning, whereas Russell relies on the picture theory of meaning
 

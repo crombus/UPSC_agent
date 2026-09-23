@@ -1,7 +1,7 @@
 # Moore, Russell and Early Wittgenstein — Answer-Writing Toolkit
 
-> Solved Mains/PYQ workbook and transfer manual. All **16 directly owned verified PYQs through
-> 2026** receive complete timed independent model answers. These are learner-practice answers,
+> Solved Mains/PYQ workbook and transfer manual. All 16 directly owned verified PYQs through
+> 2026 receive complete timed independent model answers. These are learner-practice answers,
 > never official UPSC answer keys.
 
 ## Source and ownership discipline
@@ -13,6 +13,20 @@
 - Cross-links do not inflate ownership: 2018 Q3(a) remains Empiricism-owned; Later
   Wittgenstein/private language remains later-owner material; verificationism and unified science
   remain Logical Positivism-owned. The hierarchy issue is primarily owned here.
+
+### Bounded cross-links — not Topic 06-owned
+
+- **2018 Q3(a):** Empiricism remains primary owner. Moore's transparency diagnosis distinguishes
+  the act of awareness from its object and blocks Berkeley's identity-based inference, while
+  leaving a complete replacement theory of perception open. Russell's logical-construction
+  strategy reconstructs physical-object discourse only after Berkeley's immaterialism has been
+  established.
+- **2023 Q4(c):** Later Wittgenstein remains primary owner. Supply the early picture-theory
+  baseline, then let Topic 08 explain the move to meaning-as-use.
+- **2025 Q3(a):** Later Wittgenstein remains primary owner. Supply the early single logical
+  structure as the position abandoned; do not duplicate the later transition answer here.
+- **2026 Q4(a):** This topic remains primary owner. Logical Positivism receives only the bounded
+  object-language/metalanguage and unified-science connection.
 
 ## Timed architecture
 
@@ -853,6 +867,214 @@ verdict.
 
 **Word/time guidance:** 340–400 words in about 24 minutes; allot one compact paragraph to each
 thinker, one comparative criticism paragraph and a two-sentence conclusion.
+
+### Original 4 · 10 marks
+
+**Question:** Explain what Russell means by calling a definite description an “incomplete
+symbol”, and state the test by which such a symbol is identified. Discuss.
+
+**Demand decoding:** Define contextual meaning, apply the disappearance test, and state the
+ontological consequence without calling the expression meaningless.
+
+**Timed model answer**
+
+**Introduction.** Russell calls a definite description an **incomplete symbol** because it has no
+standalone denotation, although it contributes systematically to the meaning of every proposition
+in which it occurs.
+
+**Mechanism.** The expression is not defined by assigning it an object. It receives a
+**contextual definition**: “The F is G” is analysed into existence, uniqueness and predication.
+Thus “the author of *Waverley*” disappears from the analysed proposition; what remains says that
+exactly one person wrote *Waverley* and that this person has the relevant property.
+
+**Test.** Ask whether the expression survives correct analysis as a constituent. A logically
+proper name survives because it directly refers; a definite description does not. This also
+explains why “the present King of France is bald” is false when existence fails rather than
+meaningless or about a subsisting non-existent object.
+
+**Qualification and verdict.** “Incomplete” therefore means context-dependent, not defective.
+Strawson may dispute whether Russell captures ordinary conversational presupposition, but the
+logical test remains clear: if the apparent subject is eliminated while truth-conditions are
+preserved, it is an incomplete symbol.
+
+**Measured model-answer words:** 172
+
+**Why this earns marks:** It gives the definition, contextual-analysis test, canonical example,
+ontological consequence and a bounded criticism.
+
+### Original 5 · 10 marks
+
+**Question:** Distinguish between senseless (*sinnlos*) and nonsensical (*unsinnig*) propositions
+in the *Tractatus*, and explain why the distinction matters. Discuss.
+
+**Demand decoding:** Define both failure modes, classify logic and metaphysics, and prevent the
+verificationist misreading.
+
+**Timed model answer**
+
+**Introduction.** In the *Tractatus*, *sinnlos* and *unsinnig* are not synonyms; they identify two
+different ways in which language fails to state a contingent fact.
+
+**Senseless.** Tautologies and contradictions are well-formed truth-functional limiting cases.
+A tautology excludes no possibility and is true under every truth-condition; a contradiction
+excludes every possibility and is false under every truth-condition. Neither says how the world
+contingently stands, yet both display logical structure.
+
+**Nonsensical.** A metaphysical pseudo-proposition fails to picture any possible state of affairs.
+Claims that try to state logical form, the existence of objects, or value as a worldly fact do not
+enter logical space at all.
+
+**Why it matters.** The distinction preserves logic without turning logical truths into factual
+generalizations. It also prevents assimilating Wittgenstein to verificationism: his test concerns
+picturing a possibility, not empirical testability.
+
+**Verdict.** Both classes fail to say something factual, but *sinnlos* belongs to legitimate
+symbolism while *unsinnig* results from crossing the conditions of sense.
+
+**Measured model-answer words:** 156
+
+**Why this earns marks:** It defines both terms, gives their logical function and blocks the
+standard positivist attribution error.
+
+### Original 6 · 15 marks
+
+**Question:** “Moore's method protects ordinary knowledge at the cost of leaving philosophy
+without a criterion.” Examine this statement.
+
+**Demand decoding:** Explain comparative certainty, test the missing-criterion objection, and
+distinguish Moore's intended burden reversal from a neutral theory of knowledge.
+
+**Timed model answer**
+
+**Introduction.** Moore protects ordinary knowledge through a rule of comparative certainty:
+philosophical premises should not overturn a truism unless they are more certain than the
+proposition denied. The method is powerful dialectically but does not supply a neutral criterion
+for ranking certainty.
+
+**Protection of knowledge.** In “A Defence of Common Sense” Moore lists propositions such as “I
+have a body” and distinguishes knowing them from possessing their correct philosophical analysis.
+Analytical difficulty therefore cannot itself cancel knowledge. In “Proof of an External World,”
+the hand-premises satisfy his three conditions: premise and conclusion differ, the premise is
+known, and the conclusion follows.
+
+**The objection.** Moore asserts that the truism is better known than any sceptical premise, but
+he does not explain what independently measures that priority. The radical sceptic invokes dreams
+or deception precisely to deny the second proof condition. Repeating “I know” may therefore
+reverse the burden without compelling a dissenter.
+
+**Reply.** Demanding a criterion more basic than every ordinary judgement would concede the
+sceptic's hierarchy in advance. Moore's point is methodological: philosophical argument has no
+automatic priority over perceptual knowledge. His knowing/analysing distinction is itself a
+substantive challenge to that assumption.
+
+**Further assessment.** The method also distinguishes formal proof from dialectical persuasion:
+an inference may meet Moore's proof conditions even when an opponent rejects its epistemic
+starting point. That distinction prevents the criticism from collapsing validity into agreement.
+
+**Verdict.** The statement is accurate about what Moore does not provide but misleading about his
+aim. He offers a defensible rule of epistemic precedence, not a complete criterion of knowledge;
+its force is dialectical rather than sceptic-neutral.
+
+**Measured model-answer words:** 267
+
+**Why this earns marks:** It reconstructs the method, states the strongest objection and explains
+why absence of a neutral criterion is partly deliberate.
+
+### Original 7 · 15 marks
+
+**Question:** Assess the claim that Russell's logical constructions reduce the physical world to
+sense-data.
+
+**Demand decoding:** Separate the 1914 physical-object project from the general method, identify
+the possible-sense-data difficulty, and give a phase-sensitive verdict.
+
+**Timed model answer**
+
+**Introduction.** The claim is defensible for Russell's 1914 treatment of physical objects but
+too broad as an account of logical constructions generally.
+
+**Why reduction seems intended.** Russell's “supreme maxim in scientific philosophising” is:
+wherever possible, substitute constructions out of known entities for inferences to unknown
+entities. In the physical-object case, objects are reconstructed as ordered classes of actual and
+possible sense-data from different perspectives. Because acquaintance in this phase reaches
+sense-data rather than physical objects, the construction has a phenomenal base.
+
+**Why the claim overstates.** First, the maxim is methodological: it instructs analysis to avoid
+unnecessary inferred entities and does not declare that all reality is mental. Second, other
+constructions—numbers from equinumerous classes, points from convergent classes of volumes, and
+nations from organised relations among persons—are not reductions to sense-data. Third,
+**possible** sense-data strain the maxim because unrealised possibilities are not straightforwardly
+“known entities.”
+
+**Phase qualification.** Russell's ontology changed; later neutral monism should not be projected
+back into the 1914 programme or treated as a printed syllabus limb.
+
+**Analytical significance.** The construction strategy also survives failure of the particular
+sense-data base. It teaches philosophy to ask whether apparently fundamental entity-talk can be
+replaced by a relational structure that performs the same explanatory work without additional
+ontological commitment. Thus criticism of phenomenalism need not destroy contextual construction.
+
+**Verdict.** The physical-world construction is a phase-specific phenomenal reconstruction, but
+logical construction as such is a general contextual technique. Its durable achievement is
+ontological economy; its strongest limitation is that the chosen base may reintroduce entities
+that the maxim was meant to avoid.
+
+**Measured model-answer words:** 261
+
+**Why this earns marks:** It distinguishes method from ontology, uses Russell's named maxim and
+tests the reduction against its own epistemic base.
+
+### Original 8 · 20 marks
+
+**Question:** “The *Tractatus* is a book that succeeds by failing.” Critically examine this claim
+with reference to the doctrine of saying and showing.
+
+**Demand decoding:** Derive the self-application problem from picture theory, compare the standard
+and resolute readings, and judge whether failure is method or contradiction.
+
+**Timed model answer**
+
+**Introduction.** The *Tractatus* explains the conditions under which a proposition has sense and
+then places its own philosophical sentences outside those conditions. It may therefore succeed as
+elucidation by failing as doctrine.
+
+**Why the failure arises.** A proposition pictures a possible situation because its elements and
+their arrangement share **logical form** with reality. Yet a picture cannot picture its own
+pictorial form: every attempted representation already presupposes that form. Hence “what can be
+shown, cannot be said” (4.1212). Logical form, the existence of objects and logical necessity show
+themselves in symbolism; ethics, aesthetics and the mystical are not contingent facts within
+logical space.
+
+**Self-application.** The book nevertheless appears to state propositions about objects, logical
+form, the general form of the proposition and the limits of language. By its own test these do not
+picture contingent facts. Wittgenstein acknowledges this at 6.54: the reader must recognise the
+propositions as nonsensical after using them as a ladder and throw the ladder away. Proposition 7
+then enjoins silence.
+
+**Why this can count as success.** The procedure unifies metaphysical puzzles under one diagnosis:
+they try to state conditions of meaningful stating. Philosophy becomes clarification rather than
+theory, and the apparent contradiction is a deliberately self-consuming method.
+
+**Critical readings.** The standard or ineffabilist reading holds that genuine logical and ethical
+features manifest themselves although they cannot be stated. The resolute reading denies any
+ineffable doctrine; the text is therapy that exposes the reader's attraction to pseudo-
+propositions. The former explains what the ladder reveals but risks illicit truths; the latter
+preserves the ban but makes communication of the method difficult. Colour exclusion also pressures
+the elementary independence on which the boundary rests.
+
+**Russell's pressure.** A hierarchy of languages can state the syntax or truth-conditions of a
+lower language, showing that part of the difficulty is formally tractable. Yet each metalanguage
+has its own unstated form, so ascent displaces rather than removes the transcendental limit.
+
+**Verdict.** The claim is justified if “success” means diagnostic clarification: the book's
+failure to state a doctrine performs its purpose. It is not justified if the *Tractatus* is read
+as a stable metaphysical theory. An adequate answer must therefore declare which reading makes
+the productive failure intelligible.
+
+**Measured model-answer words:** 368
+
+**Why this earns marks:** It derives rather than merely asserts the paradox, names both readings,
+adds an internal pressure and reaches a conditional verdict.
 
 ## Final answer checklist
 

@@ -66,6 +66,36 @@ Bounded cross-links:
 - Verification principle, pseudostatements and unified science — Logical Positivism owner.
 - 2026 Q4(a) remains primarily owned here; Logical Positivism receives only the metalanguage/unified-science cross-link.
 
+## Formal-session reconciliation
+
+- Every level-2 through level-5 block in the completed formal session and workbook is represented
+  in `FORMAL-COVERAGE-REVIEW.json` by a decision bound to the full canonical block text, source
+  path, heading level/text and ancestor context.
+- The audit is generated only from extraction plus those persisted decisions. Refresh cannot
+  infer, modify or approve a decision; any new or stale block remains unresolved.
+- Structural umbrellas require direct parent-only propositions and the complete recursive child
+  union. Large leaves require independently meaningful beginning/middle/end inventories.
+- The complete formal 28-panel ASCII master flow is restored in `REVISION-GUIDE.md`; each panel is
+  validated by its own hash, propositions and unique destination anchor. The 2026
+  hierarchy-of-languages extension follows it without replacing any formal panel.
+
+## Bounded route obligations
+
+| Obligation ID | Primary owner | Bounded contribution retained here | Status |
+|---|---|---|---|
+| WP-2018-Q3A-MOORE-RUSSELL-BERKELEY | Topic 03 Empiricism | Moore's act/object response and Russell's logical-construction response after Berkeley is established | fulfilled in Topic 03 and cross-linked here |
+| WP-2023-Q4C-EARLY-LATER-TRANSITION | Topic 08 Later Wittgenstein | Early picture-theory baseline only; meaning-as-use remains Topic 08-owned | fulfilled in Topic 08 and cross-linked here |
+| WP-2025-Q3A-EARLY-LATER-TRANSITION | Topic 08 Later Wittgenstein | Early logical-structure baseline only; the transition and later method remain Topic 08-owned | fulfilled in Topic 08 and cross-linked here |
+| WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE | Topic 06 primary; Topic 07 paired | Topic 07 receives only the metalanguage/unified-science connection | fulfilled in Topic 07 |
+
+Unfulfilled destination evidence is a validation failure; recording a route without substantive
+closure does not satisfy coverage.
+
+For `WP-2018-Q3A-MOORE-RUSSELL-BERKELEY`, Moore's transparency diagnosis distinguishes the act of
+awareness from its object and blocks Berkeley's identity-based inference. It leaves a complete
+replacement theory of perception open. Russell, by contrast, reconstructs physical-object
+discourse through logical constructions after Berkeley's position has been established.
+
 ## Genuine source gaps and cautions
 
 - No direct current-affairs event is established; none is fabricated.

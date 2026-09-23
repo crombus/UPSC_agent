@@ -1978,19 +1978,19 @@ ANSWER LINE: Berkeley deletes the substratum, never the table
    |                   | ACT of awareness with its  | the data of sense  |
    |                   | OBJECT: awareness of blue  | for the whole of   |
    |                   | is not identical with blue | the object         |
-   | Positive result   | DIRECT REALISM: the object | LOGICAL CONSTRUC-  |
-   |                   | is presented THROUGH but   | TION: objects are  |
-   |                   | not CONSTITUTED BY         | inferred or built  |
-   |                   | consciousness              | from sense-data,   |
-   |                   | (transparency of sensation)| perspectives and   |
+   | Positive result   | IDENTITY BLOCKED: object   | LOGICAL CONSTRUC-  |
+   |                   | is not constituted by the  | TION: objects are  |
+   |                   | act; transparency diagnoses| inferred or built  |
+   |                   | confusion but leaves the   | from sense-data,   |
+   |                   | perceptual theory open     | perspectives and   |
    |                   |                            | relations          |
    | Method            | analysis of common-sense   | analysis into      |
    |                   | certainties                | structure          |
    | Shared ground     | both refuse to reduce object to act or idea     |
-   | The DIFFERENCE    | Moore keeps the ordinary object and calls it     |
-   | the examiner wants| directly known; Russell REPLACES it with a       |
-   |                   | construction and keeps only STRUCTURAL           |
-   |                   | objectivity                                     |
+   | The DIFFERENCE    | Moore blocks the act-object identity and leaves  |
+   | the examiner wants| perceptual theory open; Russell RECONSTRUCTS     |
+   |                   | object discourse and keeps STRUCTURAL            |
+   |                   | objectivity                                      |
    +-------------------+----------------------------+--------------------+
    =====================================================================
    COMPARISON B - THE 2024 QUESTION: BERKELEY VERSUS HEGEL
@@ -2046,9 +2046,16 @@ ANSWER LINE: Berkeley deletes the substratum, never the table
 
 #### 4. Moore and Russell — the 2018 comparison, decided
 
-- ✅ **Moore** attacks the idealist inference from "experienced" to "dependent on experience" by distinguishing an **act of awareness** from its **object**: the awareness of blue is not identical with blue. His transparency argument supports **direct realism** — the object is presented *through*, but not constituted by, consciousness.
-- ✅ **Russell** also rejects Berkeleyan idealism, but develops an **analytical reconstruction**: ordinary physical objects are inferred or logically constructed from sense-data, perspectives and relations rather than accepted through Moorean direct realism.
-- ⚠️ **Common ground:** both resist reducing object to act or idea. **The difference:** Moore stresses the act–object distinction and common-sense directness; Russell stresses logical construction and structural objectivity — so Moore *defends* the ordinary object while Russell *replaces* it.
+- ✅ **Moore** attacks the idealist inference from "experienced" to "dependent on experience" by
+  distinguishing an **act of awareness** from its **object**: awareness of blue is not identical
+  with blue. Transparency diagnoses why the two are confused and pressures against a
+  representative inference, but it does not itself provide a complete replacement theory of
+  perception.
+- ✅ **Russell** also rejects Berkeleyan idealism, but develops an **analytical reconstruction**:
+  physical-object discourse is rebuilt from sense-data, perspectives and relations.
+- ⚠️ **Common ground:** both resist reducing object to act or idea. **The difference:** Moore
+  blocks the identity inference and leaves perceptual theory open; Russell supplies a logical
+  construction and preserves structural objectivity.
 
 #### 5. Berkeley and Hegel — the 2024 comparison, decided
 
@@ -2076,7 +2083,7 @@ ANSWER LINE: Berkeley deletes the substratum, never the table
 | Treating God as an afterthought | God is derived from the passivity of ideas; present the derivation |
 | Saying Berkeley has an *idea* of spirit | He has a **notion**; ideas are passive and cannot picture activity |
 | Using Johnson's stone as a refutation | It is reception; the felt resistance is exactly what Berkeley calls the stone |
-| Writing Moore and Russell as one reaction | 2018 explicitly asks for the **difference**: direct realism versus logical construction |
+| Writing Moore and Russell as one reaction | 2018 asks for the difference: Moore blocks identity and leaves perception open; Russell reconstructs object discourse |
 | Calling Berkeley an early Hegel | Subjective versus absolute idealism differ in kind, not degree |
 
 #### Revision notes
@@ -2086,7 +2093,8 @@ ANSWER LINE: Berkeley deletes the substratum, never the table
 - God derived: inert ideas + involuntary order → an active infinite spirit; continuity follows.
 - Laws of nature = the settled grammar of a divine language; signs, not causes.
 - Other minds by analogy; solipsism blocked but knowledge of spirits is less immediate.
-- Moore: act–object distinction, direct realism. Russell: logical construction, structural objectivity.
+- Moore: act–object distinction and transparency diagnosis, with no complete replacement theory
+  of perception. Russell: logical construction and structural objectivity.
 - Berkeley subjective and theistic; Hegel absolute and dialectical — different in kind.
 
 #### CLOSING RECALL FLOW — BERKELEY III: SPIRITS, GOD AND THE COMPARISONS
@@ -2110,9 +2118,10 @@ OBJECTION: an unperceivable spirit repeats the fault of an unknowable substratum
 REPLY: a passive idea could never picture activity - the asymmetry is forced
         |
         v
-2018 COMPARISON: MOORE act-object distinction -> DIRECT REALISM
+2018 COMPARISON: MOORE act-object distinction -> IDENTITY INFERENCE BLOCKED
+                 transparency diagnoses confusion; perceptual theory remains OPEN
                  RUSSELL sense-data + relations -> LOGICAL CONSTRUCTION
-                 difference: Moore DEFENDS the object, Russell REPLACES it
+                 difference: Moore blocks; Russell RECONSTRUCTS
 2024 COMPARISON: BERKELEY subjective + theistic vs HEGEL absolute + dialectical
                  different in KIND, not degree
 TRAP: God as afterthought | "idea of spirit" | Johnson's stone as refutation
@@ -3336,7 +3345,12 @@ master (Sec.22-23) -> continuity (Sec.6, 30-33, 48)
 - **God:** derived from the passivity of ideas plus the involuntary order of sense; secures **continuity**; the laws of nature are the settled grammar of a divine language — regularities are **signs**, not causes.
 - Other finite minds: inferred by **analogy** from purposive signs. Solipsism blocked, but knowledge of other spirits is less immediate.
 - Common sense: Berkeley claims to save it, and blames the **materialist** for inventing the unknowable world. ⚠️ Strong about objects, weaker about causes. The Johnson stone anecdote is **reception**, not refutation.
-- **Moore:** the act–object distinction — awareness of blue is not blue; transparency supports **direct realism**. **Russell:** ordinary objects are **logical constructions** from sense-data, perspectives and relations. Shared ground: no reduction of object to act. **The difference:** Moore *defends* the ordinary object, Russell *replaces* it.
+- **Moore:** the act–object distinction shows that awareness of blue is not blue; transparency
+  diagnoses the conflation and pressures against representative inference, but supplies no
+  complete replacement theory of perception. **Russell:** physical-object discourse is
+  **logically reconstructed** from sense-data, perspectives and relations. Shared ground: no
+  reduction of object to act. **The difference:** Moore blocks the identity inference and leaves
+  analysis open; Russell supplies a replacement architecture.
 - **Hegel contrast:** Berkeley — reality is ideas in finite and divine minds, and God is an infinite **perceiver**; Hegel — reality is the self-development of **Absolute Spirit**, objectivity a moment within dialectic. Different in **kind**, not degree.
 
 ### J. Hume — impressions and ideas, the fork, substance and the belief in body
@@ -4371,20 +4385,19 @@ COMPARISON A - 2018 Q3(a): MOORE AND RUSSELL AGAINST BERKELEY
 |               | ACT of awareness with its  | data of sense for the|
 |               | OBJECT: awareness of blue  | whole of the object  |
 |               | is NOT identical with blue |                      |
-| Positive      | DIRECT REALISM - the object| LOGICAL CONSTRUCTION |
-| result        | is presented THROUGH but   | - objects are        |
-|               | not CONSTITUTED BY         | inferred or built    |
-|               | consciousness (the         | from sense-data,     |
-|               | transparency argument)     | perspectives and     |
+| Positive      | IDENTITY INFERENCE BLOCKED | LOGICAL CONSTRUCTION |
+| result        | - transparency diagnoses   | - objects are        |
+|               | act/object confusion but   | inferred or built    |
+|               | leaves a complete theory   | from sense-data,     |
+|               | of perception OPEN         | perspectives and     |
 |               |                            | relations            |
 | Method        | analysis of common-sense   | analysis into        |
 |               | certainties                | STRUCTURE            |
 | Shared ground | both REFUSE to reduce object to act or idea       |
-| THE DIFFERENCE| MOORE DEFENDS the ordinary object and calls it    |
-| the examiner  | directly known; RUSSELL REPLACES it with a        |
-| is testing    | construction and keeps only STRUCTURAL objectivity|
-|               | -> Moore restores COMMON SENSE, Russell restores  |
-|               |    SCIENCE                                        |
+| THE DIFFERENCE| MOORE blocks the act-object identity and leaves   |
+| the examiner  | perceptual theory open; RUSSELL RECONSTRUCTS      |
+| is testing    | physical-object discourse and retains STRUCTURAL  |
+|               | objectivity for science                           |
 +---------------+----------------------------+----------------------+
    ANSWER-CRAFT: the 2018 question has THREE limbs - establish, react,
    and DIFFER. Scripts that report both reactions and never contrast
