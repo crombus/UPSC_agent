@@ -153,7 +153,7 @@ Plato's allegory at *Republic* VII 514a–517a proves three theses, and he insis
 
 **Second, a thesis about education.** The release is violent and compelled; the eyes ache; the prisoner would rather return. Education *(paideia)* is not the insertion of knowledge into an empty soul but the **turning around** *(periagōgē)* of an organ of vision the soul already has.
 
-**Third, a political thesis.** The philosopher must **descend** again, will see badly in the dark, and may be ridiculed or killed — an allusion to Socrates. ⚠️ This step, from having seen the Good to being entitled to rule, is the weakest link, and is where Popper attacks in *The Open Society and Its Enemies* (1945).
+**Third, a political thesis.** The philosopher must **descend**, will see badly in the dark, and may be ridiculed or killed — an allusion to Socrates. ⚠️ This step, from having seen the Good to being entitled to rule, is the weakest link, and is where Popper attacks in *The Open Society and Its Enemies* (1945).
 
 **Depth refinement.** The epistemology can be accepted without the politics; Plato thought it could not, and saying so converts a retelling into an evaluation.
 
@@ -224,7 +224,7 @@ Plato's allegory at *Republic* VII 514a–517a proves three theses, and he insis
 
 **Form over matter.** Matter *(hylē)* is the "out of which", intelligible only as potential for some determinate form; form *(morphē)* is the what-it-is-to-be *(to ti ēn einai)* that makes the composite what it is. Wood does not tell us what a table is; the functional structure does. Form is therefore prior in **definition** and **knowability**, and at *Metaphysics* VII (Z).17 substance is sought as a **cause** — not "what is this?" but "why is this matter a house?", answered by the form.
 
-**Actuality over potentiality.** Aristotle gives three senses. In **definition**, "potentially F" is unintelligible unless actual F is grasped — the point behind the 2021 statement that potentiality is indefinable. In **time at species level**, only an actual oak produces the acorn. In **substance**, the end is what the process is for, so the fully actual is the explanatory terminus, which at *Metaphysics* XII (Λ).7 is the Unmoved Mover.
+**Actuality over potentiality.** Aristotle gives three senses. In **definition**, "potentially F" is unintelligible unless actual F is grasped — the point behind the 2021 statement that potentiality is indefinable. In **time at species level**, only an actual oak produces the acorn. In **substance**, the end is what the process is for, so the actual is the explanatory terminus, which at *Metaphysics* XII (Λ).7 is the Unmoved Mover.
 
 ⚠️ **Critical assessment.** The definitional argument is strong but near-stipulative: if potentiality is *defined* by its actuality, posteriority follows analytically. The temporal argument holds only at species level; in the individual the potential state precedes. The teleological argument is only as secure as internal teleology. The priority is explanatory rather than absolute.
 
@@ -578,11 +578,11 @@ Both philosophers use the word **form** *(eidos)*, and the entire difference lie
 
 ##### Independent model answer
 
-Aristotle and Leibniz use **entelechy** to resist a merely passive conception of being, but they use it for different ontological categories.
+Aristotle and Leibniz use **entelechy** against passive being, but for different ontological categories.
 
 For Aristotle, *entelecheia* is **actuality, achieved realisation or completeness**, the correlate of potentiality *(dynamis)*. Form actualises matter: informed bronze is actually a statue. The soul is the “first actuality” of an organic body capable of life (*De Anima* II.1, 412a20–28); exercising a capacity is second actuality. Entelechy is therefore the immanent form or realised state of a hylomorphic compound, not another substance lodged within it.
 
-Leibniz appropriates the term for created **simple substances or monads** (*Monadology* §18). A monad is immaterial, indivisible and “windowless”; its states are perceptions and their internal transitions are appetitions. Bodies are aggregates or well-founded phenomena, while coordination occurs through pre-established harmony rather than causal influx.
+Leibniz appropriates the term for **simple substances or monads** (*Monadology* §18). A monad is immaterial, indivisible and “windowless”; its states are perceptions and their internal transitions are appetitions. Bodies are aggregates or well-founded phenomena, while coordination occurs through pre-established harmony rather than causal influx.
 
 The continuity is an intrinsic principle of unity and activity. The decisive contrast is that Aristotle’s entelechy is what a substance **has or is in act**, whereas Leibniz’s entelechy is what a simple substance **is**. Aristotle retains matter, real compounds and interaction; Leibniz substantialises form, excludes matter from true unity and internalises all change.
 
@@ -677,7 +677,7 @@ Aristotle’s middle path therefore keeps what each rival loses: unlike Atomism 
 
 ##### Independent model answer
 
-**Thesis.** The claim is accurate and is the precise formulation an answer on this topic needs.
+**Thesis.** The claim is accurate and is the formulation an answer on this topic needs.
 
 **What he rejects.** At *Metaphysics* I.9 Aristotle argues that separated Forms **duplicate** what was to be explained, that "participation" is a **metaphor** rather than an analysis, that a changeless non-spatial entity cannot originate change, and that the theory gives **no account of generation**. The Third Man regress — stated by Plato at *Parmenides* 132a–b and named in Aristotle's reports — shows that self-predication plus non-identity multiplies Forms without end.
 
@@ -704,7 +704,7 @@ Aristotle’s middle path therefore keeps what each rival loses: unlike Atomism 
 
 **The proposed resolution.** The *Categories* asks *which things are substances* and answers by a **logical-linguistic** criterion: the ultimate subject of predication. *Metaphysics* Z asks *what the substance of a thing is* and answers by a **causal-explanatory** criterion, reformulated at Z.17 as "why is this matter a house?". Two different questions may have two different answers, and Aristotle insists that being is said in many ways.
 
-**Critical examination.** ✅ The resolution is the safest available and is textually well grounded. ❓ But it does not dissolve every difficulty. If form is the species-form, Z.13 generates a genuine aporia which Aristotle does not fully resolve — the reading associated with Owen. If form is individual in each substance — the Frede–Patzig line — the tension disappears but the universality science requires becomes harder to secure. Jaeger's developmental reading, that the *Categories* is early and Platonic-adjacent, depends on a chronology that is itself disputed.
+**Critical examination.** ✅ The resolution is the safest available and is textually well grounded. ❓ But it does not dissolve every difficulty. If form is the species-form, Z.13 generates an aporia which Aristotle does not resolve — the reading associated with Owen. If form is individual in each substance — the Frede–Patzig line — the tension disappears but the universality science requires becomes harder to secure. Jaeger's developmental reading, that the *Categories* is early and Platonic-adjacent, depends on a chronology that is itself disputed.
 
 ⚠️ **Verdict.** The different-questions reading should be **led with**, because it explains Z.3's rejection of bare matter and Z.17's reformulation as steps in one enquiry rather than reversals. It should then be **qualified**: the individual remains what exists primarily, but what accounts for its being that individual is its form, and whether that form is individual or specific is still contested. The change of question is real; it does not by itself settle the universals problem.
 

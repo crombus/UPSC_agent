@@ -60,6 +60,13 @@ It must remain usable from the repository alone in Markdown and PDF form.
      qualifications, and answer-writing value.
    - Remove only true duplication, chat noise, tool output, and navigation prompts.
 10. **Formal-session reconciliation and repair rule (locked):**
+    - Source locations are fixed:
+      - completed formal learning sessions and solved workbooks live under
+        `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\learning_package_final`;
+      - canonical topic knowledge and verified PYQ ledgers live under
+        `C:\up\upsc-ai-kit\knowledge`, organized by subject.
+      Learner-v2 or other regenerated outputs are derivative evidence unless explicitly promoted
+      to formal authority.
     - Before repairing a generated topic package, treat the completed formal learning session,
       its roadmap, and its formal teaching blocks as required coverage evidence alongside the
       canonical owner and solved-practice workbook.

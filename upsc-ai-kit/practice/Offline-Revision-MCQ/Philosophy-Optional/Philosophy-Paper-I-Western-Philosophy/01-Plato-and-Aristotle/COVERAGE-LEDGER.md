@@ -1,5 +1,29 @@
 # Coverage Ledger — Plato and Aristotle
 
+## Formal-session reconciliation
+
+The authoritative completed `learning_package_final` session and workbook yield **427 formal source
+blocks** under the locked rule-10 inventory: every level-2 through level-5 heading. This includes
+roadmaps, all ten sessions, every teaching/visual/closing block, all 32 retained source MCQs, all
+solved PYQ and original-model sub-blocks, optional advanced blocks, register notes and all 25 ASCII
+master-flow panels. Repeated apparatus and workbook duplication are mapped as evidence of the same
+parent concept rather than treated as new concepts. Learner-v2 g7 is reference-only.
+
+All 427 blocks are classified `covered_in_scope` in
+[FORMAL-COVERAGE-AUDIT.json](FORMAL-COVERAGE-AUDIT.json). The audit found **0 genuine in-scope
+concept omissions**, **0 routed unmatched concepts requiring a new inbound obligation**, and **0
+actual doubt-only exclusions**. Existing correct teaching, test operations and solved models were
+therefore preserved; the repair adds the explicit evidence/validation layer rather than rewriting
+or inflating them.
+
+The corrected evidence matrix contains **391 exact reviewed mappings** (195 teaching/revision
+blocks, 64 split MCQ blocks, 96 solved-PYQ blocks and 36 original-model blocks) plus **36 explicit
+manual mappings** for structural metadata, latest-paper renumbering/refinement and the 25 ASCII
+panels. Every manual row names its destination and concept witnesses. Generic profile/fallback
+anchors are rejected by the validator. Exact evidence uses source-body signatures and independent
+body phrases with headings and labels removed; composite manual blocks require aggregate body
+correspondence and explicit proposition coverage across all listed destinations.
+
 | Coverage cell | Revision Guide | MCQs | Answer-writing/PYQs | Status |
 |---|---|---|---|---|
 | Syllabus boundary, chronology, source discipline | Answer-worthiness; Origin and chronology | 32 | Citation discipline; all models | Complete |

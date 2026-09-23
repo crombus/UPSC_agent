@@ -6,8 +6,15 @@
 
 **Syllabus:** *Plato and Aristotle: Ideas; Substance; Form and Matter; Causation; Actuality and Potentiality.*
 
-- [Complete Learning Session](../../../../../../learning_package_final/Philosophy-Optional/Philosophy-Paper-I-—-Western-Philosophy/01-Plato-and-Aristotle/Learning-Session.md)
-- [Solved Practice Workbook](../../../../../../learning_package_final/Philosophy-Optional/Philosophy-Paper-I-—-Western-Philosophy/01-Plato-and-Aristotle/Solved-Practice-Workbook.md)
+**Formal-session reconciliation:** the authoritative completed files are
+`C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\learning_package_final\Philosophy-Optional\Philosophy-Paper-I-—-Western-Philosophy\01-Plato-and-Aristotle\Learning-Session.md`
+and `...\01-Plato-and-Aristotle\Solved-Practice-Workbook.md`. Every formal block is classified and
+mapped in [FORMAL-COVERAGE-AUDIT.json](FORMAL-COVERAGE-AUDIT.json). Learner-v2 g7 is reference-only.
+The evidence record preserves canonical ownership and does not treat repeated presentation
+scaffolding as a separate concept.
+
+- [Repository mirror of Complete Learning Session](../../../../../../learning_package_final/Philosophy-Optional/Philosophy-Paper-I-—-Western-Philosophy/01-Plato-and-Aristotle/Learning-Session.md)
+- [Repository mirror of Solved Practice Workbook](../../../../../../learning_package_final/Philosophy-Optional/Philosophy-Paper-I-—-Western-Philosophy/01-Plato-and-Aristotle/Solved-Practice-Workbook.md)
 - [Verified Western Philosophy PYQ Ledger — 2026](../../../../../knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md)
 - [Quick-glance tree](../../../../../../quick_galance/Philosophy/philosophy-paper-i-western-philosophy-01_Tree-Chart.md)
 - [ASCII master flowchart](../../../../../../notes/Final-Learning-Packages/Philosophy%20Optional/Philosophy%20Paper%20I%20—%20Western%20Philosophy/01-Plato-and-Aristotle/04-ASCII-Master-Flowchart/ASCII-Master-Flowchart.txt)

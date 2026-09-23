@@ -29,6 +29,11 @@
 - **Learning-session source priority:** (1) Markdown knowledge files →
   (2) OCR-searchable PDFs for deeper book evidence → (3) live current affairs →
   (4) Qdrant only as an optional fallback.
+- **Formal package reconciliation locations:** completed formal sessions and solved workbooks are
+  under `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\learning_package_final`;
+  canonical subject knowledge and verified PYQ ledgers are under
+  `C:\up\upsc-ai-kit\knowledge`. Regenerated Learner-v2 material is reference-only unless
+  explicitly designated as formal authority.
 - **India-centric examples** always.
 
 ---

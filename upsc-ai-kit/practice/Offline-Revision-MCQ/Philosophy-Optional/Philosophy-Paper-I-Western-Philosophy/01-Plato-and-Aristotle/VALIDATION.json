@@ -1,15 +1,56 @@
 {
-  "schema_version": 1,
+  "schema_version": 15,
   "topic": "01 Plato and Aristotle",
-  "validated_at": "2026-09-20T08:57:47+05:30",
-  "result": "pass",
+  "validated_at": "2026-09-23T07:46:59+05:30",
+  "result": "DEVELOPMENT_PASS",
+  "validation_mode": "development",
+  "release_ready": false,
+  "result_gate": "DEVELOPMENT_PASS validates content and generated artifacts but is not release-ready. RELEASE_PASS additionally requires every required current file in the Git index.",
   "pdf_generation": {
-    "mechanism": "tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
-    "command": "python -c \"from unicode_markdown_pdf import build_pdf; build_pdf(<markdown>, <pdf>, internal_index=True, ...)\""
+    "requested": false,
+    "last_regeneration_recorded": true,
+    "reused_prior_record": true,
+    "mechanism": "C:/up/tools/unicode_markdown_pdf.py via installed Chrome and PyMuPDF",
+    "files": {
+      "Revision-Guide.pdf": {
+        "source": "REVISION-GUIDE.md",
+        "exists": true,
+        "bytes": 1659109,
+        "sha256": "b95c4e939d27b1c16c6b199710964630bbee38e1c7aeb22a503402a6d39253bc",
+        "source_sha256": "c156078c4b137418a0b21fbe84da146e5259249f188be5fabbcfe107701c0199",
+        "source_mtime_ns": 1790126418326758000,
+        "pdf_mtime_ns": 1790129149222925900
+      },
+      "MCQ-Questions.pdf": {
+        "source": "MCQ-QUESTIONS.md",
+        "exists": true,
+        "bytes": 249327,
+        "sha256": "3e5cbc834d631dfe8646a366e22144b940b525a5308e48c6325854bf88db2cfb",
+        "source_sha256": "afdea225462fad239b6b30cc682908b0bf52241b561ae951c9fc6e6865b122ba",
+        "source_mtime_ns": 1789874923752199500,
+        "pdf_mtime_ns": 1790129154538971500
+      },
+      "MCQ-Solutions.pdf": {
+        "source": "MCQ-SOLUTIONS.md",
+        "exists": true,
+        "bytes": 458254,
+        "sha256": "adf29a1dea1ab89aa9463788d3db287b952f46d2c49fd041dbcecbc6bb787fdb",
+        "source_sha256": "902385d66cd5197f9ca706addd123d3b149ae8d079851bd18cf6a3bb10acd66a",
+        "source_mtime_ns": 1789874923757089600,
+        "pdf_mtime_ns": 1790129161676964200
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "exists": true,
+        "bytes": 693835,
+        "sha256": "c4b2e67942b73fe4e9b6a1173dbd0530e611ae621ef15274ea9b9cc6cfebe7f5",
+        "source_sha256": "0aa5af11638c882aa5cf7a821404bb2246932d8fe0d9e0784a01f0e522e6e97f",
+        "source_mtime_ns": 1790127033733014200,
+        "pdf_mtime_ns": 1790129169341943700
+      }
+    },
+    "all_four_regenerated": true
   },
-  "coverage_gaps": [
-    "No sufficiently direct doctrinal 2026 current-affairs linkage is present in the canonical package; none was fabricated."
-  ],
   "checks": {
     "required_files": {
       "README.md": true,
@@ -19,220 +60,719 @@
       "COVERAGE-LEDGER.md": true,
       "PRACTICE-LOG.md": true,
       "ANSWER-WRITING-TOOLKIT.md": true,
+      "FORMAL-COVERAGE-AUDIT.json": true,
+      "VALIDATION.json": true,
+      "validate_package.py": true,
       "pdf/Revision-Guide.pdf": true,
       "pdf/MCQ-Questions.pdf": true,
       "pdf/MCQ-Solutions.pdf": true,
       "pdf/Answer-Writing-Toolkit.pdf": true
     },
-    "mcq_numbering": {
-      "question_count": 40,
-      "solution_count": 40,
-      "questions": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26,
-        27,
-        28,
-        29,
-        30,
-        31,
-        32,
-        33,
-        34,
-        35,
-        36,
-        37,
-        38,
-        39,
-        40
-      ],
-      "solutions": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-        21,
-        22,
-        23,
-        24,
-        25,
-        26,
-        27,
-        28,
-        29,
-        30,
-        31,
-        32,
-        33,
-        34,
-        35,
-        36,
-        37,
-        38,
-        39,
-        40
-      ],
-      "exact_match": true
+    "formal_coverage_audit": {
+      "formal_block_count": 427,
+      "expected_block_count": 427,
+      "classifications": {
+        "covered_in_scope": 427
+      },
+      "mapping_strategies": {
+        "manual_structural_metadata": 1,
+        "reviewed_exact_heading": 195,
+        "manual_latest_paper_upgrade": 4,
+        "manual_structural_practice": 2,
+        "manual_source_bank_lineage": 2,
+        "reviewed_split_mcq": 64,
+        "reviewed_exact_pyq": 96,
+        "reviewed_exact_original_model": 36,
+        "manual_heading_refinement": 1,
+        "manual_master_flow_decomposition": 1,
+        "manual_ascii_panel_reconciliation": 25
+      },
+      "unresolved_due_inbound_obligations": [],
+      "source_identity": {
+        "session": {
+          "recorded": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\01-Plato-and-Aristotle\\Learning-Session.md",
+            "sha256": "0789bea4f37e2b8cfcea3191cd05b67b20f92ad9856f30626aa952ced865ede5",
+            "bytes": 335423
+          },
+          "current_sha256": "0789bea4f37e2b8cfcea3191cd05b67b20f92ad9856f30626aa952ced865ede5",
+          "pass": true
+        },
+        "workbook": {
+          "recorded": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\01-Plato-and-Aristotle\\Solved-Practice-Workbook.md",
+            "sha256": "a51fcec2e6021ec4d88de9f513f9a03be67a99e2485b3056a9498f68bf20b89f",
+            "bytes": 108772
+          },
+          "current_sha256": "a51fcec2e6021ec4d88de9f513f9a03be67a99e2485b3056a9498f68bf20b89f",
+          "pass": true
+        }
+      },
+      "failures": [],
+      "mechanical_limitations": "The validator checks source identity, stable block IDs, exact or explicitly reviewed destination anchors, independent source signatures, witness presence and overlap. These controls reject generic/circular mappings but cannot prove philosophical truth, pedagogical sufficiency or examiner marks.",
+      "pass": true
     },
-    "question_leakage": {
-      "answer_label": false,
-      "option_explanations": false,
-      "examiner_trap": false,
-      "checkmark": false,
-      "bold_markup": false
+    "mcq_integrity": {
+      "parity": {
+        "question_count": 40,
+        "solution_count": 40,
+        "mismatches": [],
+        "pass": true
+      },
+      "answer_pattern": {
+        "key": "BCABDDBCBACACDCACADADAADBDBCBBCDCADBCDAB",
+        "distribution": {
+          "B": 10,
+          "C": 10,
+          "A": 10,
+          "D": 10
+        },
+        "maximum_run": 2,
+        "mechanical_abcd_rotation": false,
+        "periodic_match_rates": {
+          "2": 0.342,
+          "4": 0.222
+        },
+        "pass": true
+      },
+      "question_answer_leakage": {
+        "**Answer:": false,
+        "**Option explanations:**": false,
+        "**Examiner trap": false,
+        "Correct:": false
+      },
+      "option_and_cue_quality": {
+        "metric": "Unicode character count and class-correlated visible features",
+        "correct_is_longest_count": 13,
+        "correct_is_longest_rate_percent": 32.5,
+        "uniquely_longest_correct_count": 5,
+        "uniquely_longest_rate_percent": 12.5,
+        "correct_mean_characters": 88.53,
+        "distractor_mean_characters": 87.48,
+        "mean_length_gap_percent": 1.18,
+        "comparability_outliers": [],
+        "feature_rates": {
+          "absolute_quantifier": {
+            "correct": 10,
+            "distractor": 38,
+            "correct_rate_percent": 25.0,
+            "distractor_rate_percent": 31.67,
+            "gap_percent": 6.67
+          },
+          "contrast_marker": {
+            "correct": 6,
+            "distractor": 6,
+            "correct_rate_percent": 15.0,
+            "distractor_rate_percent": 5.0,
+            "gap_percent": 10.0
+          },
+          "semicolon": {
+            "correct": 2,
+            "distractor": 6,
+            "correct_rate_percent": 5.0,
+            "distractor_rate_percent": 5.0,
+            "gap_percent": 0.0
+          },
+          "parentheses": {
+            "correct": 1,
+            "distractor": 1,
+            "correct_rate_percent": 2.5,
+            "distractor_rate_percent": 0.83,
+            "gap_percent": 1.67
+          },
+          "dash": {
+            "correct": 4,
+            "distractor": 6,
+            "correct_rate_percent": 10.0,
+            "distractor_rate_percent": 5.0,
+            "gap_percent": 5.0
+          },
+          "initial_capital": {
+            "correct": 16,
+            "distractor": 47,
+            "correct_rate_percent": 40.0,
+            "distractor_rate_percent": 39.17,
+            "gap_percent": 0.83
+          },
+          "finite_verb": {
+            "correct": 17,
+            "distractor": 55,
+            "correct_rate_percent": 42.5,
+            "distractor_rate_percent": 45.83,
+            "gap_percent": 3.33
+          }
+        },
+        "failed_feature_correlations": [],
+        "strong_class_exclusive_lexical_cues": [],
+        "locked_bands": {
+          "correct_longest_percent": [
+            15,
+            45
+          ],
+          "unique_longest_percent": [
+            5,
+            35
+          ],
+          "mean_length_gap_percent_max": 12,
+          "within_item_max_min_ratio": 2.2
+        },
+        "mechanical_limitations": "Length and token/feature correlation checks can detect recurring visible cues; they cannot prove that a learner will never infer an answer from style.",
+        "pass": true
+      },
+      "option_specific_explanations": {
+        "failures": [],
+        "duplicate_normalized_explanations": [],
+        "examiner_trap_count": 40,
+        "mechanical_limitations": "The gate verifies four distinct labelled explanations, correct/incorrect status, minimum depth and non-duplication. It does not establish philosophical truth.",
+        "pass": true
+      },
+      "pass": true
     },
-    "solutions_complete": {
-      "answers": 40,
-      "option_explanations": 40,
-      "examiner_traps": 40,
-      "new_repair_actions": 8,
-      "new_coverage_mappings": 8,
-      "new_pyq_linkages": 8
-    },
-    "coverage_driven_sizing": {
-      "original_questions_retained": 32,
-      "independently_uncovered_cells": 8,
-      "added_questions": [
-        33,
-        34,
-        35,
-        36,
-        37,
-        38,
-        39,
-        40
+    "verified_pyqs_and_original_models": {
+      "ledger_owned_count": 14,
+      "toolkit_owned_count": 14,
+      "owned_parts": [
+        "2018 Q4(b)",
+        "2019 Q1(a)",
+        "2019 Q2(b)",
+        "2020 Q1(a)",
+        "2021 Q1(a)",
+        "2021 Q1(b)",
+        "2022 Q1(a)",
+        "2022 Q2(b)",
+        "2023 Q2(b)",
+        "2024 Q1(a)",
+        "2025 Q1(a)",
+        "2025 Q1(b)",
+        "2026 Q1(d)",
+        "2026 Q2(a)"
       ],
-      "final_count": 40,
-      "count_is_audit_result_not_target": true,
-      "q1_32_preserved": true,
-      "new_question_solution_prompts_match": true,
-      "all_questions_have_four_options": true,
-      "question_to_cell_mapping_recorded_in_coverage_ledger": true,
-      "new_answer_distribution": {
-        "A": 2,
-        "B": 2,
-        "C": 2,
-        "D": 2
-      }
+      "exact_wording": {
+        "2018 Q4(b)": true,
+        "2019 Q1(a)": true,
+        "2019 Q2(b)": true,
+        "2020 Q1(a)": true,
+        "2021 Q1(a)": true,
+        "2021 Q1(b)": true,
+        "2022 Q1(a)": true,
+        "2022 Q2(b)": true,
+        "2023 Q2(b)": true,
+        "2024 Q1(a)": true,
+        "2025 Q1(a)": true,
+        "2025 Q1(b)": true,
+        "2026 Q1(d)": true,
+        "2026 Q2(a)": true
+      },
+      "timed_word_counts": {
+        "2018 Q4(b)": {
+          "marks": 15,
+          "words": 263,
+          "band": [
+            250,
+            300
+          ],
+          "pass": true
+        },
+        "2019 Q1(a)": {
+          "marks": 10,
+          "words": 200,
+          "band": [
+            150,
+            200
+          ],
+          "pass": true
+        },
+        "2019 Q2(b)": {
+          "marks": 15,
+          "words": 259,
+          "band": [
+            250,
+            300
+          ],
+          "pass": true
+        },
+        "2020 Q1(a)": {
+          "marks": 10,
+          "words": 200,
+          "band": [
+            150,
+            200
+          ],
+          "pass": true
+        },
+        "2021 Q1(a)": {
+          "marks": 10,
+          "words": 199,
+          "band": [
+            150,
+            200
+          ],
+          "pass": true
+        },
+        "2021 Q1(b)": {
+          "marks": 10,
+          "words": 193,
+          "band": [
+            150,
+            200
+          ],
+          "pass": true
+        },
+        "2022 Q1(a)": {
+          "marks": 10,
+          "words": 184,
+          "band": [
+            150,
+            200
+          ],
+          "pass": true
+        },
+        "2022 Q2(b)": {
+          "marks": 15,
+          "words": 286,
+          "band": [
+            250,
+            300
+          ],
+          "pass": true
+        },
+        "2023 Q2(b)": {
+          "marks": 15,
+          "words": 263,
+          "band": [
+            250,
+            300
+          ],
+          "pass": true
+        },
+        "2024 Q1(a)": {
+          "marks": 10,
+          "words": 198,
+          "band": [
+            150,
+            200
+          ],
+          "pass": true
+        },
+        "2025 Q1(a)": {
+          "marks": 10,
+          "words": 197,
+          "band": [
+            150,
+            200
+          ],
+          "pass": true
+        },
+        "2025 Q1(b)": {
+          "marks": 10,
+          "words": 199,
+          "band": [
+            150,
+            200
+          ],
+          "pass": true
+        },
+        "2026 Q1(d)": {
+          "marks": 10,
+          "words": 200,
+          "band": [
+            150,
+            200
+          ],
+          "pass": true
+        },
+        "2026 Q2(a)": {
+          "marks": 20,
+          "words": 352,
+          "band": [
+            340,
+            400
+          ],
+          "pass": true
+        }
+      },
+      "word_bands": {
+        "10": [
+          150,
+          200
+        ],
+        "15": [
+          250,
+          300
+        ],
+        "20": [
+          340,
+          400
+        ]
+      },
+      "original_models": {
+        "1": {
+          "marks": 10,
+          "words": 199,
+          "pass": true
+        },
+        "2": {
+          "marks": 10,
+          "words": 200,
+          "pass": true
+        },
+        "3": {
+          "marks": 15,
+          "words": 300,
+          "pass": true
+        },
+        "4": {
+          "marks": 15,
+          "words": 286,
+          "pass": true
+        },
+        "5": {
+          "marks": 20,
+          "words": 399,
+          "pass": true
+        },
+        "6": {
+          "marks": 20,
+          "words": 382,
+          "pass": true
+        }
+      },
+      "independent_practice_disclaimer": true,
+      "failures": [],
+      "pass": true
     },
     "markdown_links": {
-      "checked": 13,
-      "broken": []
+      "checked": 16,
+      "broken": [],
+      "pass": true
+    },
+    "provenance": {
+      "canonical_owner_sha256": "f497b54b9fdd69d951dbfd88be88e2d9ab1cad012c44e76bfe543309b87e937e",
+      "verified_pyq_ledger_sha256": {
+        "knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md": "a4f40e7cec5aca3b02f77dbdb98bf156344bca17d8ce374665376d65814533c5",
+        "knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md": "258a00d4d3a4eba9a0e93cd4ff97e175436397c10498eeb3836d570e983512a9"
+      },
+      "honest_limit_statement_present": true,
+      "pass": true
     },
     "pdfs": {
       "Revision-Guide.pdf": {
-        "bytes": 1656835,
+        "bytes": 1659109,
         "pages": 70,
+        "source": "REVISION-GUIDE.md",
+        "source_sha256": "c156078c4b137418a0b21fbe84da146e5259249f188be5fabbcfe107701c0199",
+        "pdf_sha256": "b95c4e939d27b1c16c6b199710964630bbee38e1c7aeb22a503402a6d39253bc",
+        "source_mtime_ns": 1790126418326758000,
+        "pdf_mtime_ns": 1790129149222925900,
+        "pdf_not_older_than_source": true,
+        "heading_count": 45,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
-        "required_2026_text_present": true
+        "content_overlap_pages": [],
+        "raw_markdown_artifacts": [],
+        "pass": true
       },
       "MCQ-Questions.pdf": {
-        "bytes": 248829,
+        "bytes": 249327,
         "pages": 15,
+        "source": "MCQ-QUESTIONS.md",
+        "source_sha256": "afdea225462fad239b6b30cc682908b0bf52241b561ae951c9fc6e6865b122ba",
+        "pdf_sha256": "3e5cbc834d631dfe8646a366e22144b940b525a5308e48c6325854bf88db2cfb",
+        "source_mtime_ns": 1789874923752199500,
+        "pdf_mtime_ns": 1790129154538971500,
+        "pdf_not_older_than_source": true,
+        "heading_count": 41,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
-        "question_count": 40,
-        "answer_leakage": false
+        "content_overlap_pages": [],
+        "raw_markdown_artifacts": [],
+        "mcq_count": 40,
+        "answer_leakage": false,
+        "pass": true
       },
       "MCQ-Solutions.pdf": {
-        "bytes": 458116,
+        "bytes": 458254,
         "pages": 27,
+        "source": "MCQ-SOLUTIONS.md",
+        "source_sha256": "902385d66cd5197f9ca706addd123d3b149ae8d079851bd18cf6a3bb10acd66a",
+        "pdf_sha256": "adf29a1dea1ab89aa9463788d3db287b952f46d2c49fd041dbcecbc6bb787fdb",
+        "source_mtime_ns": 1789874923757089600,
+        "pdf_mtime_ns": 1790129159212903400,
+        "pdf_not_older_than_source": true,
+        "heading_count": 41,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
-        "solution_count": 40
+        "content_overlap_pages": [],
+        "raw_markdown_artifacts": [],
+        "solution_count": 40,
+        "pass": true
       },
       "Answer-Writing-Toolkit.pdf": {
-        "bytes": 692759,
+        "bytes": 693835,
         "pages": 29,
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "source_sha256": "0aa5af11638c882aa5cf7a821404bb2246932d8fe0d9e0784a01f0e522e6e97f",
+        "pdf_sha256": "c4b2e67942b73fe4e9b6a1173dbd0530e611ae621ef15274ea9b9cc6cfebe7f5",
+        "source_mtime_ns": 1790127033733014200,
+        "pdf_mtime_ns": 1790129166415421100,
+        "pdf_not_older_than_source": true,
+        "heading_count": 11,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
-        "required_2026_text_present": true
+        "content_overlap_pages": [],
+        "raw_markdown_artifacts": [],
+        "owned_pyq_headings": 14,
+        "pass": true
       }
     },
-    "temporary_files": [],
-    "git_diff_check": {
-      "exit_code": 0,
-      "output": ""
+    "text_and_git_integrity": {
+      "inspected_text_files": [
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/ANSWER-WRITING-TOOLKIT.md",
+          "bytes": 74971,
+          "sha256": "0aa5af11638c882aa5cf7a821404bb2246932d8fe0d9e0784a01f0e522e6e97f"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/COVERAGE-LEDGER.md",
+          "bytes": 7242,
+          "sha256": "87d6c3995420c066e5f8b5081c68e213a57b82451f8b88ea0d40f04135653c15"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/FORMAL-COVERAGE-AUDIT.json",
+          "bytes": 1773976,
+          "sha256": "b441281e89bd0b6e1a93c8dbba8f880bae2bc5e93824ee1a5ec23c4a8bb9228a"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/MCQ-QUESTIONS.md",
+          "bytes": 24821,
+          "sha256": "afdea225462fad239b6b30cc682908b0bf52241b561ae951c9fc6e6865b122ba"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/MCQ-SOLUTIONS.md",
+          "bytes": 66638,
+          "sha256": "902385d66cd5197f9ca706addd123d3b149ae8d079851bd18cf6a3bb10acd66a"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/PRACTICE-LOG.md",
+          "bytes": 1228,
+          "sha256": "2b8e478ebaebc9b8492e88b77c877d1ba9e6436a2fa4b4395b33709b28295192"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/README.md",
+          "bytes": 2844,
+          "sha256": "3dd35c4e644cdd6ad6ee242e298b2d53f784c1750965b53c553c8f25a2afc1fc"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/REVISION-GUIDE.md",
+          "bytes": 175262,
+          "sha256": "c156078c4b137418a0b21fbe84da146e5259249f188be5fabbcfe107701c0199"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/validate_package.py",
+          "bytes": 95254,
+          "sha256": "8eb4bc0a80be8869d187d58623bd3925eb576dfe5c56a16e0dbc2da073ed0d17"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/VALIDATION.json",
+          "bytes": 28378,
+          "sha256": "ac0c169e239625497c300115f2827c6e9660beaed03136d18efc5c07fdd75b82"
+        }
+      ],
+      "untracked_text_diff_checks": [],
+      "tracked_required_files": {
+        "README.md": true,
+        "REVISION-GUIDE.md": true,
+        "MCQ-QUESTIONS.md": true,
+        "MCQ-SOLUTIONS.md": true,
+        "COVERAGE-LEDGER.md": true,
+        "PRACTICE-LOG.md": true,
+        "ANSWER-WRITING-TOOLKIT.md": true,
+        "FORMAL-COVERAGE-AUDIT.json": true,
+        "VALIDATION.json": true,
+        "validate_package.py": true,
+        "pdf/Revision-Guide.pdf": true,
+        "pdf/MCQ-Questions.pdf": true,
+        "pdf/MCQ-Solutions.pdf": true,
+        "pdf/Answer-Writing-Toolkit.pdf": true
+      },
+      "untracked_required_files": [],
+      "pdf_git_ignore_awareness": {
+        "Revision-Guide.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "MCQ-Questions.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "MCQ-Solutions.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "Answer-Writing-Toolkit.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        }
+      },
+      "release_staging_instruction_present": true,
+      "temporary_files": [],
+      "pycache_directories": [],
+      "failures": [],
+      "pass": true
     },
-    "verified_pyqs": {
-      "coverage_years": "2018-2026",
-      "directly_owned_count": 14,
-      "distinct_question_parts": 14,
-      "toolkit_has_14_distinct_parts": true,
-      "all_14_pyqs_have_complete_model_answers": true,
-      "official_scan": {
-        "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\books\\mains\\2026\\QP-CSM-26-010926-Optional-PHILOSOPHY-PAPER_I.pdf",
-        "exists": true,
-        "bytes": 2644864
+    "release_integrity": {
+      "mode": "precommit inclusion check",
+      "required_files": {
+        "README.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/README.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "REVISION-GUIDE.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/REVISION-GUIDE.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "MCQ-QUESTIONS.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/MCQ-QUESTIONS.md",
+          "exists": true,
+          "tracked": true,
+          "staged": false,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "MCQ-SOLUTIONS.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/MCQ-SOLUTIONS.md",
+          "exists": true,
+          "tracked": true,
+          "staged": false,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "COVERAGE-LEDGER.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/COVERAGE-LEDGER.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "PRACTICE-LOG.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/PRACTICE-LOG.md",
+          "exists": true,
+          "tracked": true,
+          "staged": false,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "ANSWER-WRITING-TOOLKIT.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/ANSWER-WRITING-TOOLKIT.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "FORMAL-COVERAGE-AUDIT.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/FORMAL-COVERAGE-AUDIT.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "VALIDATION.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/VALIDATION.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": true,
+          "untracked": false,
+          "included_in_next_commit": false
+        },
+        "validate_package.py": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/validate_package.py",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/Revision-Guide.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/pdf/Revision-Guide.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/MCQ-Questions.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/pdf/MCQ-Questions.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/MCQ-Solutions.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/pdf/MCQ-Solutions.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/Answer-Writing-Toolkit.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/01-Plato-and-Aristotle/pdf/Answer-Writing-Toolkit.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        }
       },
-      "ocr_export": {
-        "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\knowledge-export\\Mains PYQ\\QP-CSM-26-010926-Optional-PHILOSOPHY-PAPER_I.pdf.md",
-        "exists": true,
-        "q1d_exact_wording": true,
-        "q2a_exact_wording": true
-      },
-      "verified_repository_ledger": {
-        "path": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Western-Philosophy-2026.md",
-        "q1d_present": true,
-        "q2a_present": true
-      },
-      "canonical_owner": {
-        "path": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Plato-Aristotle.md",
-        "section_2A_present": true,
-        "section_6_6_present": true
-      },
-      "pilot_files": {
-        "toolkit_q1d": true,
-        "toolkit_q2a": true,
-        "revision_q1d": true,
-        "revision_q2a": true,
-        "ledger_q1d": true,
-        "ledger_q2a": true
-      }
+      "missing_or_unstaged_required_files": [
+        "VALIDATION.json"
+      ],
+      "mechanical_limitations": "This proves that each required path's current content is present in the Git index. It does not commit, push or prove that a later commit will include the same index.",
+      "pass": false
     }
-  }
+  },
+  "failures": [],
+  "mechanical_limits": "DEVELOPMENT_PASS certifies enumerated source-block accounting, reviewed anchors and witness overlap, MCQ/PYQ structure, visible cue metrics, links and PDF mechanics. Only RELEASE_PASS certifies current-file inclusion in the Git index. Neither proves philosophical truth, semantic completeness, future UPSC relevance or examiner marks."
 }
