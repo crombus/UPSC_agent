@@ -9,6 +9,20 @@
 - 2022 has no directly owned part. 2026 Q4(a), hierarchy of languages, remains primarily Topic 06-owned and is only a bounded metalanguage/unified-science cross-link here.
 - No direct verified current-affairs anchor is used.
 
+## Bounded route obligations
+
+- **WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC:** Topic 07 supplies the positivist
+  analytic/synthetic **target only**; Topic 11 owns Quine's synonymy, circularity,
+  interchangeability and positive holistic argument.
+- **WP-2024-Q4C-QUINE-TWO-DOGMAS:** Topic 07 identifies the two positivist
+  **pillars under attack**—analyticity and reductionism; Topic 11 owns Quine's arguments,
+  web-of-belief holism and conclusion.
+- **WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION:** Topic 07 contributes one
+  ideal-language/single-criterion **boundary clause**; Topic 08 owns meaning-as-use,
+  language-games, forms of life and the transition.
+- **WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE:** Topic 06 owns the hierarchy question;
+  Topic 07 retains only the bounded object-language/**metalanguage** and unified-science link.
+
 ## Timed architecture
 
 ```text
@@ -98,7 +112,7 @@ Schlick's rule interpretation also changes the logical status of a universal rat
 
 **Verdict.** General statements are meaningful through systematic empirical consequences, not finite proof. Metaphysics lacks that disciplined vulnerability, but no formal criterion was both broad enough for actual science and narrow enough to exclude every metaphysical construction. The positivist insight survives as a demand for evidential difference, not as a complete reduction of meaning.
 
-**Measured model-answer words:** 377
+**Measured model-answer words:** 376
 
 **Explicit criticism / qualification:** The answer concedes that auxiliaries can fabricate weak connections, so scientific risk and systematic use must do more work than a bare observational association.
 
@@ -253,7 +267,7 @@ The account has a cost. If logic and mathematics say nothing factual, their appl
 
 **Verdict.** The two sentences are meaningful under one two-branch test, but their modes are fundamentally different: tautological meaning versus empirical content.
 
-**Measured model-answer words:** 271
+**Measured model-answer words:** 270
 
 **Explicit criticism / qualification:** Quine and the problem of mathematical application qualify the linguistic theory without changing the requested internal classification.
 

@@ -1,11 +1,98 @@
 {
-  "schema_version": 7,
+  "schema_version": 15,
   "topic": "07 Logical Positivism",
-  "validated_at": "2026-09-20T14:53:31+05:30",
-  "result": "PASS",
-  "result_gate": "PASS only when every recorded check passes",
+  "validated_at": "2026-09-23T21:36:54+05:30",
+  "result": "DEVELOPMENT_PASS",
+  "validation_mode": "development",
+  "release_ready": true,
+  "result_gate": "DEVELOPMENT_PASS validates content and generated artifacts but is not release-ready. RELEASE_PASS additionally requires every required current file in the Git index.",
   "pdf_generation": {
-    "mechanism": "C:/up/tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
+    "requested": false,
+    "last_regeneration_recorded": true,
+    "reused_prior_record": true,
+    "mechanism": "C:/up/tools/unicode_markdown_pdf.py via installed Chrome and PyMuPDF",
+    "files": {
+      "Revision-Guide.pdf": {
+        "source": "REVISION-GUIDE.md",
+        "exists": true,
+        "bytes": 1192220,
+        "sha256": "98480d72a4fb3507cdf9956290f17b04c6f1e78fc53c5eaae7f4376f5dd009ce",
+        "source_sha256": "de399f1ec13145bb6fb81b413df2b53a7bb5435dae4d0fef9f531e51bf3e3148",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Logical Positivism",
+          "profile_version": 1,
+          "pdf_name": "Revision-Guide.pdf",
+          "source_name": "REVISION-GUIDE.md",
+          "cover_descriptor": "Philosophy Optional · Paper I · Western Philosophy · Topic 07",
+          "footer_label": "Logical Positivism | REVISION-GUIDE"
+        },
+        "generation_metadata_sha256": "4e2e5746cca21dd3be9545f49ee07984b25106c17ca741d8f4cb5113463ba3af"
+      },
+      "MCQ-Questions.pdf": {
+        "source": "MCQ-QUESTIONS.md",
+        "exists": true,
+        "bytes": 169904,
+        "sha256": "ae4b9d881358e99b0afb84ed635e595bbfa904e6520e4ca7a3d814fc95feed78",
+        "source_sha256": "892994105bae8584fa801cd851a6dd48d921b63a23d4247ae90286172b21135f",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Logical Positivism",
+          "profile_version": 1,
+          "pdf_name": "MCQ-Questions.pdf",
+          "source_name": "MCQ-QUESTIONS.md",
+          "cover_descriptor": "54-question closed-book bank · no answer key",
+          "footer_label": "Logical Positivism | MCQ-QUESTIONS"
+        },
+        "generation_metadata_sha256": "a79f1a1029ff5f2e05f9fd553e5e7d10f10fa8c4467177cf0057b6fc18145bc3"
+      },
+      "MCQ-Solutions.pdf": {
+        "source": "MCQ-SOLUTIONS.md",
+        "exists": true,
+        "bytes": 482015,
+        "sha256": "8985a897803f53e4f1e5ff800f2ac888883c981a35f082c4370266ba8eaea88a",
+        "source_sha256": "8ad2dfe5218d93afbd8267dfd2e444e78f7790f6b6690f0fa4a25148ac424bf6",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Logical Positivism",
+          "profile_version": 1,
+          "pdf_name": "MCQ-Solutions.pdf",
+          "source_name": "MCQ-SOLUTIONS.md",
+          "cover_descriptor": "Option-specific explanations and examiner traps",
+          "footer_label": "Logical Positivism | MCQ-SOLUTIONS"
+        },
+        "generation_metadata_sha256": "96f413cf004f9ba36d28924dc339bf6e5dba1e18b6213ab20f443a8d56096bb8"
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "exists": true,
+        "bytes": 257284,
+        "sha256": "f2da948a4a5a089784279a6f91ee7608dde585d93df2703a72f76631a4304000",
+        "source_sha256": "63e5664ff6ea2e91aab008e968867385b0d5082fa26801093a55f08b52775654",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Logical Positivism",
+          "profile_version": 1,
+          "pdf_name": "Answer-Writing-Toolkit.pdf",
+          "source_name": "ANSWER-WRITING-TOOLKIT.md",
+          "cover_descriptor": "Eight verified PYQs and three original solved models",
+          "footer_label": "Logical Positivism | ANSWER-WRITING-TOOLKIT"
+        },
+        "generation_metadata_sha256": "16adb5225f44e52e0b5a93f23e5e81ccc086f9edc7d3f442c52dd97df45b2e04"
+      }
+    },
     "all_four_regenerated": true
   },
   "checks": {
@@ -17,696 +104,1942 @@
       "COVERAGE-LEDGER.md": true,
       "PRACTICE-LOG.md": true,
       "ANSWER-WRITING-TOOLKIT.md": true,
+      "FORMAL-COVERAGE-AUDIT.json": true,
+      "FORMAL-COVERAGE-REVIEW.json": true,
+      "VALIDATION.json": true,
       "validate_package.py": true,
       "pdf/Revision-Guide.pdf": true,
       "pdf/MCQ-Questions.pdf": true,
       "pdf/MCQ-Solutions.pdf": true,
       "pdf/Answer-Writing-Toolkit.pdf": true
     },
-    "mcq_numbering": {
-      "question_count": 54,
-      "solution_count": 54,
-      "exact_match": true,
-      "all_questions_have_four_options": true,
-      "question_solution_prompts_match": true,
-      "pass": true
-    },
-    "question_leakage": {
-      "**Answer:": false,
-      "Option explanations:": false,
-      "Examiner trap": false,
-      "Repair action:": false,
-      "Coverage mapping:": false,
-      "PYQ linkage:": false,
-      "Correct answer:": false
-    },
-    "cross_file_answer_leakage": {
-      "REVISION-GUIDE.md": {
-        "matches": [],
+    "formal_coverage_audit": {
+      "formal_block_count": 382,
+      "expected_block_count": 382,
+      "classifications": {
+        "covered_in_scope": 375,
+        "routed_to_canonical_owner": 6,
+        "genuine_in_scope_omission": 1
+      },
+      "mapping_strategies": {
+        "reviewed_cross_surface_body": 322,
+        "reviewed_structural_umbrella": 53,
+        "reviewed_bounded_owner_route": 6,
+        "reviewed_repaired_panel_inventory": 1
+      },
+      "review_decision_layer": {
+        "path": "FORMAL-COVERAGE-REVIEW.json",
+        "schema_version": 7,
+        "declared_decision_count": 382,
+        "loaded_decision_count": 382,
+        "current_sha256": "2f96ffd6745934e167ac9c36175e5af5a0192d16f90f27cfb731302160a9b980",
+        "failures": [],
         "pass": true
       },
-      "ANSWER-WRITING-TOOLKIT.md": {
-        "matches": [],
+      "decision_hash_regression": {
+        "sample_block_id": "session-session-1-the-vienna-circle-the-programme-the-manifesto-and-what-01-32a17f0067",
+        "semantic_label": "Plain-language definition",
+        "original_sha256": "5bef18d548dd46b4c76bcf72061e3defb185bc4aaae62576ee04b3596bf9b672",
+        "mutation_sha256": {
+          "semantic_label": "2a7ee51d358241e6d672ec92301f20b8266369961048b82a3d4152b70a35c544",
+          "heading": "0405c8432a1b8fb609d4e9588eb389c568b97a6ff9af5c9925810c0f21245758",
+          "context": "d3e18c904691a42636e89c00ae84c25489c89808089518f0a4d96bf6143c6ae6"
+        },
+        "all_mutations_stale_decision": true,
         "pass": true
-      }
-    },
-    "revision_guide_separation": {
-      "solved_mcq_headings": 0,
-      "correct_answer_markers": 0,
-      "option_explanation_markers": 0,
-      "pass": true
-    },
-    "neutral_titles": {
-      "questions_all_exactly_mcq_number": true,
-      "revealing_title_count": 0
-    },
-    "option_formatting_cues": {
-      "metric": "Unicode character count of each visible option",
-      "correct_is_longest_count": 16,
-      "correct_is_longest_rate_percent": 29.63,
-      "uniquely_longest_correct_count": 15,
-      "uniquely_longest_rate_percent": 27.78,
-      "correct_mean_characters": 107.815,
-      "distractor_mean_characters": 97.136,
-      "comparability_threshold": "max-minus-min <= 45 and max/min <= 1.65",
-      "comparability_outliers": [],
-      "padding_matches": [],
-      "grammatically_incomplete_options": [],
-      "punctuation": {
-        "correct_period_count": 54,
-        "correct_period_rate_percent": 100.0,
-        "distractor_period_count": 162,
-        "distractor_period_rate_percent": 100.0,
-        "absolute_rate_gap_percent": 0.0
       },
-      "token_and_punctuation_correlation": {
-        "population": {
-          "correct_options": 54,
-          "distractor_options": 162
-        },
-        "thresholds": {
-          "low_frequency_definition": "2-12 total option occurrences",
-          "exclusive_correct_rule": "fail whenever a feature occurs in one or more correct options and zero distractors",
-          "low_frequency_rule": "fail when more than 50% of 2-12 occurrences are in correct options",
-          "common_feature_rule": "for more than 12 occurrences, fail when correct-option rate exceeds 2x distractor-option rate by at least 5 percentage points",
-          "within_question_rule": "fail when the correct option alone carries a listed marker"
-        },
-        "features": {
-          "semicolon": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
+      "coverage_negative_tests": {
+        "tests": [
+          {
+            "name": "parent-only proposition removed",
+            "expected_reasons": [
+              "structural umbrella declaration mismatch",
+              "proposition witness absent from source body"
+            ],
+            "actual_reasons": [
+              "proposition witness absent from source body",
+              "structural umbrella declaration mismatch"
+            ],
+            "rejected": true,
             "pass": true
           },
-          "colon": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
+          {
+            "name": "structural child removed",
+            "expected_reasons": [
+              "structural umbrella declaration mismatch"
+            ],
+            "actual_reasons": [
+              "structural umbrella declaration mismatch"
+            ],
+            "rejected": true,
             "pass": true
           },
-          "em_or_en_dash": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
+          {
+            "name": "large leaf reduced to opening",
+            "expected_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "actual_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "rejected": true,
             "pass": true
           },
-          "parentheses": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
+          {
+            "name": "generic padding inventory",
+            "expected_reasons": [
+              "boilerplate proposition template"
+            ],
+            "actual_reasons": [
+              "boilerplate proposition template",
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claims have high structural similarity",
+              "distributed unit has too few propositions",
+              "duplicate distributed witness",
+              "duplicate semantic claim",
+              "generic or insufficiently specific witness",
+              "generic or token-fragment witness",
+              "generic relationship-token padding",
+              "proposition witness absent from source body",
+              "semantic claim is not conceptually specific",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
             "pass": true
           },
-          "but": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
+          {
+            "name": "unrelated proposition",
+            "expected_reasons": [
+              "claim lacks discriminative source vocabulary"
+            ],
+            "actual_reasons": [
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "semantic claim is not conceptually specific",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
             "pass": true
           },
-          "however": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
+          {
+            "name": "dependent-subject proposition",
+            "expected_reasons": [
+              "distributed claim lacks an explicit independent subject"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claim lacks an explicit independent subject",
+              "semantic claim is not conceptually specific"
+            ],
+            "rejected": true,
             "pass": true
           },
-          "whereas": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
+          {
+            "name": "panel removed",
+            "expected_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "actual_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "rejected": true,
             "pass": true
           },
-          "although": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
+          {
+            "name": "panel anchors cloned",
+            "expected_reasons": [
+              "master-flow panels reuse a generic destination anchor"
+            ],
+            "actual_reasons": [
+              "master-flow destination is not panel-specific",
+              "master-flow panels reuse a generic destination anchor"
+            ],
+            "rejected": true,
             "pass": true
           },
-          "yet": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
+          {
+            "name": "authoritative source panel removed",
+            "expected_reasons": [
+              "panel marker count mismatch",
+              "panel markers are not the exact ordered sequence"
+            ],
+            "actual_reasons": [
+              "panel marker count mismatch",
+              "panel markers are not the exact ordered sequence"
+            ],
+            "rejected": true,
             "pass": true
           },
-          "though": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
+          {
+            "name": "authoritative source panel renumbered",
+            "expected_reasons": [
+              "panel markers are not the exact ordered sequence",
+              "panel marker numbers are not unique"
+            ],
+            "actual_reasons": [
+              "panel marker numbers are not unique",
+              "panel markers are not the exact ordered sequence"
+            ],
+            "rejected": true,
             "pass": true
           },
-          "despite": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
+          {
+            "name": "destination middle-panel label changed",
+            "expected_reasons": [
+              "source-destination panel label parity mismatch"
+            ],
+            "actual_reasons": [
+              "source-destination panel label parity mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "destination edge-panel label changed",
+            "expected_reasons": [
+              "source-destination panel label parity mismatch"
+            ],
+            "actual_reasons": [
+              "source-destination panel label parity mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "generic witness",
+            "expected_reasons": [
+              "generic or insufficiently specific witness"
+            ],
+            "actual_reasons": [
+              "generic or insufficiently specific witness"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "cross-block duplicate witness",
+            "expected_reasons": [
+              "cross-block duplicate witness misdirection"
+            ],
+            "actual_reasons": [
+              "cross-block duplicate witness misdirection"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "same-block duplicate witness",
+            "expected_reasons": [
+              "same-block duplicate witness misdirection"
+            ],
+            "actual_reasons": [
+              "same-block duplicate witness misdirection"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "same-block near-duplicate witness",
+            "expected_reasons": [
+              "same-block near-duplicate witness"
+            ],
+            "actual_reasons": [
+              "same-block near-duplicate witness"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "routed decision wrong obligation",
+            "expected_reasons": [
+              "routed obligation reassignment",
+              "routed obligation multiplicity mismatch"
+            ],
+            "actual_reasons": [
+              "routed obligation multiplicity mismatch",
+              "routed obligation reassignment"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "routed decision wrong owner",
+            "expected_reasons": [
+              "routed canonical owner mismatch"
+            ],
+            "actual_reasons": [
+              "routed canonical owner mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "routed decision unresolved status",
+            "expected_reasons": [
+              "routed obligation status mismatch"
+            ],
+            "actual_reasons": [
+              "routed obligation status mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "routed decision missing row",
+            "expected_reasons": [
+              "routed stable block-id union mismatch",
+              "routed obligation multiplicity mismatch"
+            ],
+            "actual_reasons": [
+              "routed obligation multiplicity mismatch",
+              "routed stable block-id union mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "routed decision extra row",
+            "expected_reasons": [
+              "routed stable block-id union mismatch",
+              "routed obligation multiplicity mismatch"
+            ],
+            "actual_reasons": [
+              "routed obligation multiplicity mismatch",
+              "routed stable block-id union mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "route contradiction and paraphrase mutations",
+            "mutations": [
+              {
+                "obligation": "WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC",
+                "destination": "../11-Quine-and-Strawson/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC",
+                "destination": "../11-Quine-and-Strawson/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2024-Q4C-QUINE-TWO-DOGMAS",
+                "destination": "../11-Quine-and-Strawson/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2024-Q4C-QUINE-TWO-DOGMAS",
+                "destination": "../11-Quine-and-Strawson/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2024-Q4C-QUINE-TWO-DOGMAS",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2024-Q4C-QUINE-TWO-DOGMAS",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION",
+                "destination": "../08-Later-Wittgenstein/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION",
+                "destination": "../08-Later-Wittgenstein/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE",
+                "destination": "../06-Moore-Russell-and-Early-Wittgenstein/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE",
+                "destination": "../06-Moore-Russell-and-Early-Wittgenstein/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              }
+            ],
+            "rejected": true,
             "pass": true
           }
+        ],
+        "passed": 22,
+        "failed": 0,
+        "all_negative_tests_pass": true,
+        "pass": true
+      },
+      "formal_source_authority": {
+        "authority": "completed formal sessions/workbooks under the Downloads UPSC-agent learning_package_final tree",
+        "authoritative_root": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final",
+        "forbidden_derivative_root": "C:\\up\\learning_package_final",
+        "sources": {
+          "session": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\07-Logical-Positivism\\Learning-Session.md",
+            "under_authoritative_downloads_root": true,
+            "under_forbidden_c_up_derivative_root": false
+          },
+          "workbook": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\07-Logical-Positivism\\Solved-Practice-Workbook.md",
+            "under_authoritative_downloads_root": true,
+            "under_forbidden_c_up_derivative_root": false
+          }
         },
-        "unique_marker_only_on_correct_option": [],
-        "failed_features": [],
+        "failures": [],
+        "pass": true,
+        "recorded_matches": true
+      },
+      "panel_marker_assertions": {
+        "authoritative_source": {
+          "surface": "authoritative formal Learning-Session.md",
+          "expected_total": 30,
+          "count": 30,
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "totals": [
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30
+          ],
+          "labels": [
+            "THE CENTRAL QUESTION AND THE ONE MOVE THIS CLAUSE MAKES",
+            "OWNER SCOPE AND THE FENCE - WHAT BELONGS HERE AND WHAT DOES NOT",
+            "THE THREE INHERITANCES - AND WHAT WAS NEW IN 1929",
+            "CHRONOLOGY RAIL - THE MINIMUM THAT PREVENTS ANACHRONISM",
+            "THE VIENNA CIRCLE - MEMBERSHIP, MANIFESTO AND THE FENCE",
+            "PHILOSOPHY REASSIGNED, AND THE TWO BASKETS",
+            "THE CRITERION - A TWO-KEY LOCK",
+            "MEANING AGAINST TRUTH - THE HIGHEST-YIELD DISCRIMINATION",
+            "IN PRINCIPLE vs IN PRACTICE; WHAT 'COGNITIVE' EXCLUDES",
+            "THE STRONG SENSE AND ITS CASUALTIES",
+            "THE WEAK SENSE AND ITS COST",
+            "THE REPAIR AND ITS FAILURE - THREE DATES, NEVER MERGED",
+            "THE POSITIVE CASE - FIVE MOTIVATIONS, GRADED",
+            "THE ARGUMENT IN SIX STEPS",
+            "THE FOUR PRESUPPOSITIONS - AND THE OBJECTION MAP THEY GENERATE",
+            "THE TRACTATUS LEDGER - TAKEN, ADDED, AND THREE FENCES",
+            "REJECTION OF METAPHYSICS - THE IDENTIFICATION PROCEDURE",
+            "THE TWO ROUTES, WORKED - FOUR GRADED EXAMPLES AND TWO CONTROLS",
+            "'THE NOTHING NOTHINGS' - DIAGNOSIS, REPLY, RENDERING RULE",
+            "THE CASCADE - MEANING, KNOWLEDGE, NATURE OF THINGS",
+            "ETHICS AND AESTHETICS - AYER AGAINST STEVENSON",
+            "THE EMBEDDING PROBLEM, THEOLOGY, AND THE 2020 SENTENCE",
+            "LINGUISTIC THEORY OF NECESSITY - TRILEMMA AND THREE RIVALS",
+            "THE EXHAUSTIVE DICHOTOMY, THE 2024 PAIR, AND THE PRESSURES",
+            "GENERAL STATEMENTS, FOUR HARD CASES, AND CONFIRMATION",
+            "THE PROTOCOL-SENTENCE DEBATE - THE CRISIS INSIDE, 1932-35",
+            "PROTOCOL DEBATE - CARNAP'S MEDIATION AND THE RESIDUE",
+            "TOLERANCE, FRAMEWORKS, REDUCTION AND THE UNITY OF SCIENCE",
+            "THE CRITICISM LEDGER - FOUR PRESSURES RANKED",
+            "PYQ ROUTING, ANSWER SPINE AND QUALIFIED CONCLUSION"
+          ],
+          "failures": [],
+          "pass": true
+        },
+        "destination": {
+          "surface": "REVISION-GUIDE.md master-flow destination",
+          "expected_total": 30,
+          "count": 30,
+          "numbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ],
+          "totals": [
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30,
+            30
+          ],
+          "labels": [
+            "THE CENTRAL QUESTION AND THE ONE MOVE THIS CLAUSE MAKES",
+            "OWNER SCOPE AND THE FENCE - WHAT BELONGS HERE AND WHAT DOES NOT",
+            "THE THREE INHERITANCES - AND WHAT WAS NEW IN 1929",
+            "CHRONOLOGY RAIL - THE MINIMUM THAT PREVENTS ANACHRONISM",
+            "THE VIENNA CIRCLE - MEMBERSHIP, MANIFESTO AND THE FENCE",
+            "PHILOSOPHY REASSIGNED, AND THE TWO BASKETS",
+            "THE CRITERION - A TWO-KEY LOCK",
+            "MEANING AGAINST TRUTH - THE HIGHEST-YIELD DISCRIMINATION",
+            "IN PRINCIPLE vs IN PRACTICE; WHAT 'COGNITIVE' EXCLUDES",
+            "THE STRONG SENSE AND ITS CASUALTIES",
+            "THE WEAK SENSE AND ITS COST",
+            "THE REPAIR AND ITS FAILURE - THREE DATES, NEVER MERGED",
+            "THE POSITIVE CASE - FIVE MOTIVATIONS, GRADED",
+            "THE ARGUMENT IN SIX STEPS",
+            "THE FOUR PRESUPPOSITIONS - AND THE OBJECTION MAP THEY GENERATE",
+            "THE TRACTATUS LEDGER - TAKEN, ADDED, AND THREE FENCES",
+            "REJECTION OF METAPHYSICS - THE IDENTIFICATION PROCEDURE",
+            "THE TWO ROUTES, WORKED - FOUR GRADED EXAMPLES AND TWO CONTROLS",
+            "'THE NOTHING NOTHINGS' - DIAGNOSIS, REPLY, RENDERING RULE",
+            "THE CASCADE - MEANING, KNOWLEDGE, NATURE OF THINGS",
+            "ETHICS AND AESTHETICS - AYER AGAINST STEVENSON",
+            "THE EMBEDDING PROBLEM, THEOLOGY, AND THE 2020 SENTENCE",
+            "LINGUISTIC THEORY OF NECESSITY - TRILEMMA AND THREE RIVALS",
+            "THE EXHAUSTIVE DICHOTOMY, THE 2024 PAIR, AND THE PRESSURES",
+            "GENERAL STATEMENTS, FOUR HARD CASES, AND CONFIRMATION",
+            "THE PROTOCOL-SENTENCE DEBATE - THE CRISIS INSIDE, 1932-35",
+            "PROTOCOL DEBATE - CARNAP'S MEDIATION AND THE RESIDUE",
+            "TOLERANCE, FRAMEWORKS, REDUCTION AND THE UNITY OF SCIENCE",
+            "THE CRITICISM LEDGER - FOUR PRESSURES RANKED",
+            "PYQ ROUTING, ANSWER SPINE AND QUALIFIED CONCLUSION"
+          ],
+          "failures": [],
+          "pass": true
+        },
+        "ordered_source_destination_parity": {
+          "normalization": "NFKC, case-folding, whitespace collapse, Markdown-marker removal, and dash/quote presentation normalization only; conceptual words are retained",
+          "source_tuples": [
+            [
+              1,
+              30,
+              "the central question and the one move this clause makes"
+            ],
+            [
+              2,
+              30,
+              "owner scope and the fence - what belongs here and what does not"
+            ],
+            [
+              3,
+              30,
+              "the three inheritances - and what was new in 1929"
+            ],
+            [
+              4,
+              30,
+              "chronology rail - the minimum that prevents anachronism"
+            ],
+            [
+              5,
+              30,
+              "the vienna circle - membership, manifesto and the fence"
+            ],
+            [
+              6,
+              30,
+              "philosophy reassigned, and the two baskets"
+            ],
+            [
+              7,
+              30,
+              "the criterion - a two-key lock"
+            ],
+            [
+              8,
+              30,
+              "meaning against truth - the highest-yield discrimination"
+            ],
+            [
+              9,
+              30,
+              "in principle vs in practice; what 'cognitive' excludes"
+            ],
+            [
+              10,
+              30,
+              "the strong sense and its casualties"
+            ],
+            [
+              11,
+              30,
+              "the weak sense and its cost"
+            ],
+            [
+              12,
+              30,
+              "the repair and its failure - three dates, never merged"
+            ],
+            [
+              13,
+              30,
+              "the positive case - five motivations, graded"
+            ],
+            [
+              14,
+              30,
+              "the argument in six steps"
+            ],
+            [
+              15,
+              30,
+              "the four presuppositions - and the objection map they generate"
+            ],
+            [
+              16,
+              30,
+              "the tractatus ledger - taken, added, and three fences"
+            ],
+            [
+              17,
+              30,
+              "rejection of metaphysics - the identification procedure"
+            ],
+            [
+              18,
+              30,
+              "the two routes, worked - four graded examples and two controls"
+            ],
+            [
+              19,
+              30,
+              "'the nothing nothings' - diagnosis, reply, rendering rule"
+            ],
+            [
+              20,
+              30,
+              "the cascade - meaning, knowledge, nature of things"
+            ],
+            [
+              21,
+              30,
+              "ethics and aesthetics - ayer against stevenson"
+            ],
+            [
+              22,
+              30,
+              "the embedding problem, theology, and the 2020 sentence"
+            ],
+            [
+              23,
+              30,
+              "linguistic theory of necessity - trilemma and three rivals"
+            ],
+            [
+              24,
+              30,
+              "the exhaustive dichotomy, the 2024 pair, and the pressures"
+            ],
+            [
+              25,
+              30,
+              "general statements, four hard cases, and confirmation"
+            ],
+            [
+              26,
+              30,
+              "the protocol-sentence debate - the crisis inside, 1932-35"
+            ],
+            [
+              27,
+              30,
+              "protocol debate - carnap's mediation and the residue"
+            ],
+            [
+              28,
+              30,
+              "tolerance, frameworks, reduction and the unity of science"
+            ],
+            [
+              29,
+              30,
+              "the criticism ledger - four pressures ranked"
+            ],
+            [
+              30,
+              30,
+              "pyq routing, answer spine and qualified conclusion"
+            ]
+          ],
+          "destination_tuples": [
+            [
+              1,
+              30,
+              "the central question and the one move this clause makes"
+            ],
+            [
+              2,
+              30,
+              "owner scope and the fence - what belongs here and what does not"
+            ],
+            [
+              3,
+              30,
+              "the three inheritances - and what was new in 1929"
+            ],
+            [
+              4,
+              30,
+              "chronology rail - the minimum that prevents anachronism"
+            ],
+            [
+              5,
+              30,
+              "the vienna circle - membership, manifesto and the fence"
+            ],
+            [
+              6,
+              30,
+              "philosophy reassigned, and the two baskets"
+            ],
+            [
+              7,
+              30,
+              "the criterion - a two-key lock"
+            ],
+            [
+              8,
+              30,
+              "meaning against truth - the highest-yield discrimination"
+            ],
+            [
+              9,
+              30,
+              "in principle vs in practice; what 'cognitive' excludes"
+            ],
+            [
+              10,
+              30,
+              "the strong sense and its casualties"
+            ],
+            [
+              11,
+              30,
+              "the weak sense and its cost"
+            ],
+            [
+              12,
+              30,
+              "the repair and its failure - three dates, never merged"
+            ],
+            [
+              13,
+              30,
+              "the positive case - five motivations, graded"
+            ],
+            [
+              14,
+              30,
+              "the argument in six steps"
+            ],
+            [
+              15,
+              30,
+              "the four presuppositions - and the objection map they generate"
+            ],
+            [
+              16,
+              30,
+              "the tractatus ledger - taken, added, and three fences"
+            ],
+            [
+              17,
+              30,
+              "rejection of metaphysics - the identification procedure"
+            ],
+            [
+              18,
+              30,
+              "the two routes, worked - four graded examples and two controls"
+            ],
+            [
+              19,
+              30,
+              "'the nothing nothings' - diagnosis, reply, rendering rule"
+            ],
+            [
+              20,
+              30,
+              "the cascade - meaning, knowledge, nature of things"
+            ],
+            [
+              21,
+              30,
+              "ethics and aesthetics - ayer against stevenson"
+            ],
+            [
+              22,
+              30,
+              "the embedding problem, theology, and the 2020 sentence"
+            ],
+            [
+              23,
+              30,
+              "linguistic theory of necessity - trilemma and three rivals"
+            ],
+            [
+              24,
+              30,
+              "the exhaustive dichotomy, the 2024 pair, and the pressures"
+            ],
+            [
+              25,
+              30,
+              "general statements, four hard cases, and confirmation"
+            ],
+            [
+              26,
+              30,
+              "the protocol-sentence debate - the crisis inside, 1932-35"
+            ],
+            [
+              27,
+              30,
+              "protocol debate - carnap's mediation and the residue"
+            ],
+            [
+              28,
+              30,
+              "tolerance, frameworks, reduction and the unity of science"
+            ],
+            [
+              29,
+              30,
+              "the criticism ledger - four pressures ranked"
+            ],
+            [
+              30,
+              30,
+              "pyq routing, answer spine and qualified conclusion"
+            ]
+          ],
+          "mismatches": [],
+          "failures": [],
+          "pass": true
+        },
+        "recorded_matches": true
+      },
+      "routed_decision_binding": {
+        "expected_stable_ids": {
+          "session-supporting-part-a-2019-q1-e-10-marks-owned-by-topic-11-quine-and-01-654a310359": {
+            "obligation_id": "WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC",
+            "routed_owner": "../11-Quine-and-Strawson"
+          },
+          "workbook-supporting-part-a-2019-q1-e-10-marks-owned-by-topic-11-quine-and-01-8e59838bd3": {
+            "obligation_id": "WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC",
+            "routed_owner": "../11-Quine-and-Strawson"
+          },
+          "session-supporting-part-b-2024-q4-c-15-marks-owned-by-topic-11-quine-and-01-fa7c377f5c": {
+            "obligation_id": "WP-2024-Q4C-QUINE-TWO-DOGMAS",
+            "routed_owner": "../11-Quine-and-Strawson"
+          },
+          "workbook-supporting-part-b-2024-q4-c-15-marks-owned-by-topic-11-quine-and-01-8646f26430": {
+            "obligation_id": "WP-2024-Q4C-QUINE-TWO-DOGMAS",
+            "routed_owner": "../11-Quine-and-Strawson"
+          },
+          "session-supporting-part-c-2025-q3-a-20-marks-owned-by-topic-08-later-wit-01-f96dddb855": {
+            "obligation_id": "WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION",
+            "routed_owner": "../08-Later-Wittgenstein"
+          },
+          "workbook-supporting-part-c-2025-q3-a-20-marks-owned-by-topic-08-later-wit-01-921404dd79": {
+            "obligation_id": "WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION",
+            "routed_owner": "../08-Later-Wittgenstein"
+          }
+        },
+        "expected_multiplicities": {
+          "WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC": 2,
+          "WP-2024-Q4C-QUINE-TWO-DOGMAS": 2,
+          "WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION": 2,
+          "WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE": 0
+        },
+        "destination_assertion_sets": {
+          "WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC": [
+            {
+              "destination": "../11-Quine-and-Strawson/ANSWER-WRITING-TOOLKIT.md :: 3. 2019 Q1(e) · 10 marks",
+              "sha256": "ccbcf34d88efb1503923ee1e77a8a422e3434a1ea6c8c7c164725f6adfabe54e"
+            },
+            {
+              "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded route obligations",
+              "sha256": "40f47f03866f03bdc396ca605e0801e6733934435263a49bb0211bcc071ee316"
+            }
+          ],
+          "WP-2024-Q4C-QUINE-TWO-DOGMAS": [
+            {
+              "destination": "../11-Quine-and-Strawson/ANSWER-WRITING-TOOLKIT.md :: 8. 2024 Q4(c) · 15 marks",
+              "sha256": "68bd0b54a143b8f4c8ff21f9c418e85de037d88f2059faa8330714a571660423"
+            },
+            {
+              "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded route obligations",
+              "sha256": "2b6372042185a043291d0d6a28cc02e11ef274c9c4c8ddf47e61ba7374239088"
+            }
+          ],
+          "WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION": [
+            {
+              "destination": "../08-Later-Wittgenstein/ANSWER-WRITING-TOOLKIT.md :: 7. 2025 Q3(a) · 20 marks",
+              "sha256": "55426e8cf42fa35a3e80561547097d07ba91787fb718ec4c517d4988cc808f76"
+            },
+            {
+              "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded route obligations",
+              "sha256": "ccf63a85a5a71f673002e1d83960f136b2348bb005de9e77f0913ca0b6279070"
+            }
+          ],
+          "WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE": [
+            {
+              "destination": "../06-Moore-Russell-and-Early-Wittgenstein/ANSWER-WRITING-TOOLKIT.md :: 16. 2026 Q4(a) · 20 marks",
+              "sha256": "9162b9639e4003b8b5fb101439a0ac04247decb10af65fc3e2032b3a8122d05b"
+            },
+            {
+              "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded route obligations",
+              "sha256": "7eb3af5e048b9bb8864d1fcdc82e43d6404ad14ec9a037d00eacd30b456289df"
+            }
+          ]
+        },
+        "failures": [],
+        "pass": true,
+        "recorded_matches": true
+      },
+      "verified_2026_owner_assertion": {
+        "ledger_topic_parts": [
+          "Q4(c)"
+        ],
+        "required_primary_parts": [
+          "Q4(c)"
+        ],
+        "forbidden_misattribution": "Q4(a)",
+        "review_rows_checked": [
+          "session-pyqs-and-answer-practice-01-0807a4af9d",
+          "workbook-pyqs-and-answer-practice-01-47169b5f1d"
+        ],
         "pass": true
       },
-      "repeated_templates": {
-        "suffix_frequency_correct_vs_distractor": {},
-        "prefix_template_frequency_correct_vs_distractor": {},
+      "unresolved_due_inbound_obligations": [],
+      "cross_topic_inbound_obligations": {
+        "count": 4,
+        "ids": [
+          "WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC",
+          "WP-2024-Q4C-QUINE-TWO-DOGMAS",
+          "WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION",
+          "WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE"
+        ],
+        "failures": [],
         "pass": true
       },
-      "only_correct_lacks_repeated_or_padded_template": [],
-      "pass": true
-    },
-    "answer_pattern": {
-      "distribution": {
-        "C": 13,
-        "A": 14,
-        "D": 13,
-        "B": 14
+      "route_assertion_closure": {
+        "reviewed_destinations": [
+          {
+            "obligation": "WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC",
+            "destination": "../11-Quine-and-Strawson/ANSWER-WRITING-TOOLKIT.md :: 3. 2019 Q1(e) · 10 marks",
+            "assertion_set_sha256": "ccbcf34d88efb1503923ee1e77a8a422e3434a1ea6c8c7c164725f6adfabe54e",
+            "assertion_ids": [
+              "quine-owner-positive-argument"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          },
+          {
+            "obligation": "WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC",
+            "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded route obligations",
+            "assertion_set_sha256": "40f47f03866f03bdc396ca605e0801e6733934435263a49bb0211bcc071ee316",
+            "assertion_ids": [
+              "topic07-bounded-target"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          },
+          {
+            "obligation": "WP-2024-Q4C-QUINE-TWO-DOGMAS",
+            "destination": "../11-Quine-and-Strawson/ANSWER-WRITING-TOOLKIT.md :: 8. 2024 Q4(c) · 15 marks",
+            "assertion_set_sha256": "68bd0b54a143b8f4c8ff21f9c418e85de037d88f2059faa8330714a571660423",
+            "assertion_ids": [
+              "two-dogmas-owner"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          },
+          {
+            "obligation": "WP-2024-Q4C-QUINE-TWO-DOGMAS",
+            "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded route obligations",
+            "assertion_set_sha256": "2b6372042185a043291d0d6a28cc02e11ef274c9c4c8ddf47e61ba7374239088",
+            "assertion_ids": [
+              "topic07-two-pillars-boundary"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          },
+          {
+            "obligation": "WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION",
+            "destination": "../08-Later-Wittgenstein/ANSWER-WRITING-TOOLKIT.md :: 7. 2025 Q3(a) · 20 marks",
+            "assertion_set_sha256": "55426e8cf42fa35a3e80561547097d07ba91787fb718ec4c517d4988cc808f76",
+            "assertion_ids": [
+              "later-owner-transition"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          },
+          {
+            "obligation": "WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION",
+            "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded route obligations",
+            "assertion_set_sha256": "ccf63a85a5a71f673002e1d83960f136b2348bb005de9e77f0913ca0b6279070",
+            "assertion_ids": [
+              "topic07-later-boundary"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          },
+          {
+            "obligation": "WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE",
+            "destination": "../06-Moore-Russell-and-Early-Wittgenstein/ANSWER-WRITING-TOOLKIT.md :: 16. 2026 Q4(a) · 20 marks",
+            "assertion_set_sha256": "9162b9639e4003b8b5fb101439a0ac04247decb10af65fc3e2032b3a8122d05b",
+            "assertion_ids": [
+              "topic06-hierarchy-owner"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          },
+          {
+            "obligation": "WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE",
+            "destination": "ANSWER-WRITING-TOOLKIT.md :: Bounded route obligations",
+            "assertion_set_sha256": "7eb3af5e048b9bb8864d1fcdc82e43d6404ad14ec9a037d00eacd30b456289df",
+            "assertion_ids": [
+              "topic07-metalanguage-boundary"
+            ],
+            "forbidden_assertions": [],
+            "failures": [],
+            "pass": true
+          }
+        ],
+        "pass": true
       },
-      "maximum_consecutive_same_answer": 2,
-      "mechanical_abcd_rotation": false,
-      "key": "CADACBCDDADDBDCBBDCBACBDADACCBDAABABCACACBBCBCBAADDADB",
-      "pass": true
-    },
-    "solutions_complete": {
-      "**Answer:": 54,
-      "**Option explanations:**": 54,
-      "**Examiner trap": 54,
-      "**Repair action:**": 54,
-      "**Coverage mapping:**": 54,
-      "**PYQ linkage:**": 54,
-      "expected_each": 54,
-      "pass": true
-    },
-    "specific_distractor_explanations": {
-      "checked": 216,
-      "incorrect_options_checked": 162,
-      "requirements": [
-        "name the false proposition exactly",
-        "state the correct replacement exactly",
-        "include a substantive doctrinal rationale",
-        "exclude listed generic-verdict patterns"
-      ],
+      "source_identity": {
+        "session": {
+          "recorded": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\07-Logical-Positivism\\Learning-Session.md",
+            "sha256": "6ac5113a8ed2a70b9a2eb7f78931f6072d5ac563c694836438408f11772798e5",
+            "bytes": 446601
+          },
+          "current_sha256": "6ac5113a8ed2a70b9a2eb7f78931f6072d5ac563c694836438408f11772798e5",
+          "pass": true
+        },
+        "workbook": {
+          "recorded": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\07-Logical-Positivism\\Solved-Practice-Workbook.md",
+            "sha256": "dde697dc847ff4a90a38f6eeab705b149f7839d223df26baae894248ef4db682",
+            "bytes": 106180
+          },
+          "current_sha256": "dde697dc847ff4a90a38f6eeab705b149f7839d223df26baae894248ef4db682",
+          "pass": true
+        }
+      },
       "failures": [],
+      "mechanical_limitations": "The validator can prove that an independently persisted authored decision is bound to the canonical full block hash, including semantic labels, heading and context, that structural parents retain every child decision plus parent-only prose, and that large leaves retain distributed segment or panel propositions. Extraction and --refresh-formal-audit never create or approve review decisions. These controls still cannot prove philosophical truth, pedagogical sufficiency or examiner marks.",
       "pass": true
     },
-    "deduplication": {
-      "exact_duplicate_stems_absent": true,
-      "highest_stem_similarity": 0.684,
-      "highest_similarity_pair": [
-        13,
-        50
+    "mcq_integrity": {
+      "parity": {
+        "question_count": 54,
+        "solution_count": 54,
+        "mismatches": [],
+        "pass": true
+      },
+      "answer_pattern": {
+        "key": "CADACBCDDADDBDCBBDCBACBDADACCBDAABABCACACBBCBCBAADDADB",
+        "distribution": {
+          "C": 13,
+          "A": 14,
+          "D": 13,
+          "B": 14
+        },
+        "maximum_run": 2,
+        "mechanical_abcd_rotation": false,
+        "periodic_match_rates": {
+          "2": 0.288,
+          "4": 0.22
+        },
+        "pass": true
+      },
+      "question_answer_leakage": {
+        "**Answer:": false,
+        "**Option explanations:**": false,
+        "**Examiner trap": false,
+        "Correct:": false
+      },
+      "option_and_cue_quality": {
+        "metric": "Unicode character count and class-correlated visible features",
+        "correct_is_longest_count": 16,
+        "correct_is_longest_rate_percent": 29.63,
+        "uniquely_longest_correct_count": 15,
+        "uniquely_longest_rate_percent": 27.78,
+        "correct_mean_characters": 107.81,
+        "distractor_mean_characters": 97.14,
+        "mean_length_gap_percent": 9.9,
+        "comparability_outliers": [],
+        "feature_rates": {
+          "absolute_quantifier": {
+            "correct": 2,
+            "distractor": 29,
+            "correct_rate_percent": 3.7,
+            "distractor_rate_percent": 17.9,
+            "gap_percent": 14.2
+          },
+          "contrast_marker": {
+            "correct": 0,
+            "distractor": 0,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 0.0,
+            "gap_percent": 0.0
+          },
+          "semicolon": {
+            "correct": 0,
+            "distractor": 0,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 0.0,
+            "gap_percent": 0.0
+          },
+          "parentheses": {
+            "correct": 0,
+            "distractor": 0,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 0.0,
+            "gap_percent": 0.0
+          },
+          "dash": {
+            "correct": 0,
+            "distractor": 0,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 0.0,
+            "gap_percent": 0.0
+          },
+          "initial_capital": {
+            "correct": 54,
+            "distractor": 162,
+            "correct_rate_percent": 100.0,
+            "distractor_rate_percent": 100.0,
+            "gap_percent": 0.0
+          },
+          "finite_verb": {
+            "correct": 17,
+            "distractor": 69,
+            "correct_rate_percent": 31.48,
+            "distractor_rate_percent": 42.59,
+            "gap_percent": 11.11
+          }
+        },
+        "failed_feature_correlations": [],
+        "strong_class_exclusive_lexical_cues": [],
+        "locked_bands": {
+          "correct_longest_percent": [
+            15,
+            45
+          ],
+          "unique_longest_percent": [
+            5,
+            35
+          ],
+          "mean_length_gap_percent_max": 12,
+          "within_item_max_min_ratio": 2.2
+        },
+        "mechanical_limitations": "Length and token/feature correlation checks can detect recurring visible cues; they cannot prove that a learner will never infer an answer from style.",
+        "pass": true
+      },
+      "option_specific_explanations": {
+        "failures": [],
+        "duplicate_normalized_explanations": [],
+        "examiner_trap_count": 54,
+        "mechanical_limitations": "The gate verifies four distinct labelled explanations, correct/incorrect status, minimum depth and non-duplication. It does not establish philosophical truth.",
+        "pass": true
+      },
+      "pass": true
+    },
+    "verified_pyqs_and_original_models": {
+      "ledger_owned_count": 8,
+      "toolkit_owned_count": 8,
+      "owned_parts": [
+        "2018 Q3(b)",
+        "2019 Q2(a)",
+        "2020 Q1(e)",
+        "2021 Q2(b)",
+        "2023 Q3(a)",
+        "2024 Q3(b)",
+        "2025 Q3(b)",
+        "2026 Q4(c)"
       ],
-      "substantive_similarity_flags": [],
-      "final_count": 54,
-      "pass": true
-    },
-    "source_lineage": {
-      "source_question_count": 56,
-      "retained_exact_stems": 0,
-      "adapted_questions": 36,
-      "replaced_or_merged_source_questions": 20,
-      "new_matrix_operations": 18,
-      "final_count": 54,
-      "recorded_in_coverage_ledger": true,
-      "pass": true
-    },
-    "verified_pyqs": {
-      "directly_owned_count": 8,
-      "parts": [
-        [
-          "2018",
-          "Q3(b)",
-          15
-        ],
-        [
-          "2019",
-          "Q2(a)",
-          20
-        ],
-        [
-          "2020",
-          "Q1(e)",
-          10
-        ],
-        [
-          "2021",
-          "Q2(b)",
-          15
-        ],
-        [
-          "2023",
-          "Q3(a)",
-          20
-        ],
-        [
-          "2024",
-          "Q3(b)",
-          15
-        ],
-        [
-          "2025",
-          "Q3(b)",
-          15
-        ],
-        [
-          "2026",
-          "Q4(c)",
-          15
-        ]
-      ],
-      "component_checks": {
+      "exact_wording": {
+        "2018 Q3(b)": true,
+        "2019 Q2(a)": true,
+        "2020 Q1(e)": true,
+        "2021 Q2(b)": true,
+        "2023 Q3(a)": true,
+        "2024 Q3(b)": true,
+        "2025 Q3(b)": true,
+        "2026 Q4(c)": true
+      },
+      "timed_word_counts": {
         "2018 Q3(b)": {
           "marks": 15,
+          "words": 268,
           "band": [
             250,
             300
           ],
-          "measured_words": 268,
-          "stated_words": 268,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
+          "pass": true
         },
         "2019 Q2(a)": {
           "marks": 20,
+          "words": 376,
           "band": [
             340,
             400
           ],
-          "measured_words": 376,
-          "stated_words": 377,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
+          "pass": true
         },
         "2020 Q1(e)": {
           "marks": 10,
+          "words": 184,
           "band": [
             150,
             200
           ],
-          "measured_words": 184,
-          "stated_words": 184,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
+          "pass": true
         },
         "2021 Q2(b)": {
           "marks": 15,
+          "words": 263,
           "band": [
             250,
             300
           ],
-          "measured_words": 263,
-          "stated_words": 263,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
+          "pass": true
         },
         "2023 Q3(a)": {
           "marks": 20,
+          "words": 362,
           "band": [
             340,
             400
           ],
-          "measured_words": 362,
-          "stated_words": 362,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
+          "pass": true
         },
         "2024 Q3(b)": {
           "marks": 15,
+          "words": 270,
           "band": [
             250,
             300
           ],
-          "measured_words": 270,
-          "stated_words": 271,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
+          "pass": true
         },
         "2025 Q3(b)": {
           "marks": 15,
+          "words": 283,
           "band": [
             250,
             300
           ],
-          "measured_words": 283,
-          "stated_words": 283,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
+          "pass": true
         },
         "2026 Q4(c)": {
           "marks": 15,
+          "words": 277,
           "band": [
             250,
             300
           ],
-          "measured_words": 277,
-          "stated_words": 277,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
+          "pass": true
         }
       },
-      "all_exact_and_complete": true
-    },
-    "original_solved_practice": {
-      "question_count": 3,
-      "solutions": {
-        "## Original 1 · 10 marks": {
+      "declared_word_counts": {
+        "2018 Q3(b)": {
+          "declared": 268,
+          "computed": 268,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2019 Q2(a)": {
+          "declared": 376,
+          "computed": 376,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2020 Q1(e)": {
+          "declared": 184,
+          "computed": 184,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2021 Q2(b)": {
+          "declared": 263,
+          "computed": 263,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2023 Q3(a)": {
+          "declared": 362,
+          "computed": 362,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2024 Q3(b)": {
+          "declared": 270,
+          "computed": 270,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2025 Q3(b)": {
+          "declared": 283,
+          "computed": 283,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2026 Q4(c)": {
+          "declared": 277,
+          "computed": 277,
+          "declaration_count": 1,
+          "pass": true
+        }
+      },
+      "word_bands": {
+        "10": [
+          150,
+          200
+        ],
+        "15": [
+          250,
+          300
+        ],
+        "20": [
+          340,
+          400
+        ]
+      },
+      "original_models": {
+        "1": {
           "marks": 10,
-          "band": [
-            150,
-            200
-          ],
-          "measured_words": 190,
-          "stated_words": 190,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "why_it_earns_marks": true
+          "words": 190,
+          "pass": true
         },
-        "## Original 2 · 15 marks": {
+        "2": {
           "marks": 15,
-          "band": [
-            250,
-            300
-          ],
-          "measured_words": 262,
-          "stated_words": 262,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "why_it_earns_marks": true
+          "words": 262,
+          "pass": true
         },
-        "## Original 3 · 20 marks": {
+        "3": {
           "marks": 20,
-          "band": [
-            340,
-            400
-          ],
-          "measured_words": 368,
-          "stated_words": 368,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "why_it_earns_marks": true
+          "words": 368,
+          "pass": true
         }
       },
-      "all_complete": true
-    },
-    "portable_provenance": {
-      "ledger_files_exist": true,
-      "learner_practice_not_official_keys": true
-    },
-    "pass": true,
-    "source_retention_integrity": {
-      "revision_word_count": 20635,
-      "core_sessions": {
-        "SESSION 1": true,
-        "SESSION 2": true,
-        "SESSION 3": true,
-        "SESSION 4": true,
-        "SESSION 5": true,
-        "SESSION 6": true,
-        "SESSION 7": true,
-        "SESSION 8": true,
-        "SESSION 9": true,
-        "SESSION 10": true
+      "original_declared_word_counts": {
+        "1": {
+          "declared": 190,
+          "computed": 190,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2": {
+          "declared": 262,
+          "computed": 262,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "3": {
+          "declared": 368,
+          "computed": 368,
+          "declaration_count": 1,
+          "pass": true
+        }
       },
-      "advanced_sessions": {
-        "ADVANCED SESSION 1": true,
-        "ADVANCED SESSION 2": true,
-        "ADVANCED SESSION 3": true,
-        "ADVANCED SESSION 4": true,
-        "ADVANCED SESSION 5": true,
-        "ADVANCED SESSION 6": true,
-        "ADVANCED SESSION 7": true,
-        "ADVANCED SESSION 8": true,
-        "ADVANCED SESSION 9": true,
-        "ADVANCED SESSION 10": true
-      },
-      "ryle_austin_content_level": {
-        "heading": true,
-        "words": 331,
-        "assertions": [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
-        ],
-        "pass": true
-      },
-      "canonical_exam_apparatus_content_level": {
-        "heading": true,
-        "words": 675,
-        "assertions": [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
-        ],
-        "pass": true
-      },
-      "godel_qualification": {
-        "required_scope_present": true,
-        "forbidden_overclaims": [],
-        "pass": true
-      },
-      "coverage_ledger_content_rows": true,
+      "independent_practice_disclaimer": true,
+      "failures": [],
       "pass": true
     },
-    "revision_front_matter_provenance": {
-      "required_accuracy_statement": true,
-      "forbidden_claims": [],
-      "pass": true
-    },
-    "current_affairs_nonfabrication": true,
     "markdown_links": {
-      "checked": 11,
+      "checked": 13,
       "broken": [],
+      "pass": true
+    },
+    "provenance": {
+      "canonical_owner_sha256": "032f0d7340d9e05b911ba3847d290e6a3ca076c09d29d26fda99cc8cc1d5d06b",
+      "verified_pyq_ledger_sha256": {
+        "knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md": "a4f40e7cec5aca3b02f77dbdb98bf156344bca17d8ce374665376d65814533c5",
+        "knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md": "258a00d4d3a4eba9a0e93cd4ff97e175436397c10498eeb3836d570e983512a9"
+      },
+      "honest_limit_statement_present": true,
+      "formal_source_authority": {
+        "authority": "completed formal sessions/workbooks under the Downloads UPSC-agent learning_package_final tree",
+        "authoritative_root": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final",
+        "forbidden_derivative_root": "C:\\up\\learning_package_final",
+        "sources": {
+          "session": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\07-Logical-Positivism\\Learning-Session.md",
+            "under_authoritative_downloads_root": true,
+            "under_forbidden_c_up_derivative_root": false
+          },
+          "workbook": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\07-Logical-Positivism\\Solved-Practice-Workbook.md",
+            "under_authoritative_downloads_root": true,
+            "under_forbidden_c_up_derivative_root": false
+          }
+        },
+        "failures": [],
+        "pass": true
+      },
+      "readme_authority_note_present": true,
       "pass": true
     },
     "pdfs": {
       "Revision-Guide.pdf": {
-        "bytes": 1146389,
-        "pages": 69,
+        "bytes": 1192220,
+        "pages": 88,
+        "source": "REVISION-GUIDE.md",
+        "source_sha256": "de399f1ec13145bb6fb81b413df2b53a7bb5435dae4d0fef9f531e51bf3e3148",
+        "pdf_sha256": "98480d72a4fb3507cdf9956290f17b04c6f1e78fc53c5eaae7f4376f5dd009ce",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Logical Positivism",
+          "profile_version": 1,
+          "pdf_name": "Revision-Guide.pdf",
+          "source_name": "REVISION-GUIDE.md",
+          "cover_descriptor": "Philosophy Optional · Paper I · Western Philosophy · Topic 07",
+          "footer_label": "Logical Positivism | REVISION-GUIDE"
+        },
+        "generation_metadata_sha256": "4e2e5746cca21dd3be9545f49ee07984b25106c17ca741d8f4cb5113463ba3af",
+        "heading_count": 52,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
         "raw_markdown_artifacts": [],
         "pass": true
       },
       "MCQ-Questions.pdf": {
-        "bytes": 170018,
+        "bytes": 169904,
         "pages": 14,
+        "source": "MCQ-QUESTIONS.md",
+        "source_sha256": "892994105bae8584fa801cd851a6dd48d921b63a23d4247ae90286172b21135f",
+        "pdf_sha256": "ae4b9d881358e99b0afb84ed635e595bbfa904e6520e4ca7a3d814fc95feed78",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Logical Positivism",
+          "profile_version": 1,
+          "pdf_name": "MCQ-Questions.pdf",
+          "source_name": "MCQ-QUESTIONS.md",
+          "cover_descriptor": "54-question closed-book bank · no answer key",
+          "footer_label": "Logical Positivism | MCQ-QUESTIONS"
+        },
+        "generation_metadata_sha256": "a79f1a1029ff5f2e05f9fd553e5e7d10f10fa8c4467177cf0057b6fc18145bc3",
+        "heading_count": 55,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
         "raw_markdown_artifacts": [],
+        "mcq_count": 54,
+        "answer_leakage": false,
         "pass": true
       },
       "MCQ-Solutions.pdf": {
-        "bytes": 482174,
+        "bytes": 482015,
         "pages": 37,
+        "source": "MCQ-SOLUTIONS.md",
+        "source_sha256": "8ad2dfe5218d93afbd8267dfd2e444e78f7790f6b6690f0fa4a25148ac424bf6",
+        "pdf_sha256": "8985a897803f53e4f1e5ff800f2ac888883c981a35f082c4370266ba8eaea88a",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Logical Positivism",
+          "profile_version": 1,
+          "pdf_name": "MCQ-Solutions.pdf",
+          "source_name": "MCQ-SOLUTIONS.md",
+          "cover_descriptor": "Option-specific explanations and examiner traps",
+          "footer_label": "Logical Positivism | MCQ-SOLUTIONS"
+        },
+        "generation_metadata_sha256": "96f413cf004f9ba36d28924dc339bf6e5dba1e18b6213ab20f443a8d56096bb8",
+        "heading_count": 55,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
         "raw_markdown_artifacts": [],
+        "solution_count": 54,
         "pass": true
       },
       "Answer-Writing-Toolkit.pdf": {
-        "bytes": 251070,
+        "bytes": 257284,
         "pages": 17,
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "source_sha256": "63e5664ff6ea2e91aab008e968867385b0d5082fa26801093a55f08b52775654",
+        "pdf_sha256": "f2da948a4a5a089784279a6f91ee7608dde585d93df2703a72f76631a4304000",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Logical Positivism",
+          "profile_version": 1,
+          "pdf_name": "Answer-Writing-Toolkit.pdf",
+          "source_name": "ANSWER-WRITING-TOOLKIT.md",
+          "cover_descriptor": "Eight verified PYQs and three original solved models",
+          "footer_label": "Logical Positivism | ANSWER-WRITING-TOOLKIT"
+        },
+        "generation_metadata_sha256": "16adb5225f44e52e0b5a93f23e5e81ccc086f9edc7d3f442c52dd97df45b2e04",
+        "heading_count": 45,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
         "raw_markdown_artifacts": [],
+        "owned_pyq_headings": 8,
         "pass": true
       }
     },
-    "practice_log_blank_template": true,
-    "temporary_files_left": [],
-    "git_diff_check": {
-      "exit_code": 0,
-      "output": null
+    "pdf_reproducibility": {
+      "files": {
+        "Revision-Guide.pdf": {
+          "baseline_identity": true,
+          "timestamp_touch_ignored": true,
+          "source_byte_change_rejected": true,
+          "pdf_byte_change_rejected": true,
+          "pass": true
+        },
+        "MCQ-Questions.pdf": {
+          "baseline_identity": true,
+          "timestamp_touch_ignored": true,
+          "source_byte_change_rejected": true,
+          "pdf_byte_change_rejected": true,
+          "pass": true
+        },
+        "MCQ-Solutions.pdf": {
+          "baseline_identity": true,
+          "timestamp_touch_ignored": true,
+          "source_byte_change_rejected": true,
+          "pdf_byte_change_rejected": true,
+          "pass": true
+        },
+        "Answer-Writing-Toolkit.pdf": {
+          "baseline_identity": true,
+          "timestamp_touch_ignored": true,
+          "source_byte_change_rejected": true,
+          "pdf_byte_change_rejected": true,
+          "pass": true
+        }
+      },
+      "pass": true
     },
-    "git_status_awareness": {
-      "short_status": [
-        " M practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/README.md",
-        " M practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/REVISION-GUIDE.md",
-        " M practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/pdf/Answer-Writing-Toolkit.pdf",
-        " M practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/pdf/MCQ-Questions.pdf",
-        " M practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/pdf/MCQ-Solutions.pdf",
-        " M practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/pdf/Revision-Guide.pdf"
+    "text_and_git_integrity": {
+      "inspected_text_files": [
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/ANSWER-WRITING-TOOLKIT.md",
+          "bytes": 38718,
+          "sha256": "63e5664ff6ea2e91aab008e968867385b0d5082fa26801093a55f08b52775654"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/COVERAGE-LEDGER.md",
+          "bytes": 8839,
+          "sha256": "4be7ff20ea63f4e8402a03bb9b63f38257411db5e048eba973ff51f475f28e1a"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/FORMAL-COVERAGE-AUDIT.json",
+          "bytes": 3057364,
+          "sha256": "4ba5665b93acdb490424aa76a8f137793adfb2021ff61414ce7860931091ae2e"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/FORMAL-COVERAGE-REVIEW.json",
+          "bytes": 2682179,
+          "sha256": "2f96ffd6745934e167ac9c36175e5af5a0192d16f90f27cfb731302160a9b980"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/MCQ-QUESTIONS.md",
+          "bytes": 28265,
+          "sha256": "892994105bae8584fa801cd851a6dd48d921b63a23d4247ae90286172b21135f"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/MCQ-SOLUTIONS.md",
+          "bytes": 103782,
+          "sha256": "8ad2dfe5218d93afbd8267dfd2e444e78f7790f6b6690f0fa4a25148ac424bf6"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/PRACTICE-LOG.md",
+          "bytes": 1604,
+          "sha256": "139be25c3beb4b32f0d29eae8cc528e823839910a27b61fb65b436759e4d9650"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/README.md",
+          "bytes": 2169,
+          "sha256": "9bf6e43fe233bae8a5718230bc9289aad60fd098c0d2807cffa02f5658134d63"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/REVISION-GUIDE.md",
+          "bytes": 210717,
+          "sha256": "de399f1ec13145bb6fb81b413df2b53a7bb5435dae4d0fef9f531e51bf3e3148"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/validate_package.py",
+          "bytes": 179242,
+          "sha256": "44249f428086012c52518e21f09042d8003a23335b4d361a55d3d18a8e204187"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/VALIDATION.json",
+          "bytes": 77426,
+          "sha256": "55780bdcf32c0207c44de52c497e6a410d6e6b27641cd8f9d3be2bc7923baf86"
+        }
       ],
-      "topic_package_is_untracked": false,
-      "untracked_files_are_not_treated_as_an_empty_diff": true
+      "untracked_text_diff_checks": [],
+      "tracked_required_files": {
+        "README.md": true,
+        "REVISION-GUIDE.md": true,
+        "MCQ-QUESTIONS.md": true,
+        "MCQ-SOLUTIONS.md": true,
+        "COVERAGE-LEDGER.md": true,
+        "PRACTICE-LOG.md": true,
+        "ANSWER-WRITING-TOOLKIT.md": true,
+        "FORMAL-COVERAGE-AUDIT.json": true,
+        "FORMAL-COVERAGE-REVIEW.json": true,
+        "VALIDATION.json": true,
+        "validate_package.py": true,
+        "pdf/Revision-Guide.pdf": true,
+        "pdf/MCQ-Questions.pdf": true,
+        "pdf/MCQ-Solutions.pdf": true,
+        "pdf/Answer-Writing-Toolkit.pdf": true
+      },
+      "untracked_required_files": [],
+      "pdf_git_ignore_awareness": {
+        "Revision-Guide.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "MCQ-Questions.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "MCQ-Solutions.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "Answer-Writing-Toolkit.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        }
+      },
+      "release_staging_instruction_present": true,
+      "temporary_files": [],
+      "pycache_directories": [],
+      "failures": [],
+      "pass": true
     },
-    "status_expectations": {
-      "topic_07_validated": true,
-      "next_topic": true
-    },
-    "index_expectations": {
-      "topic_07_listed": true,
-      "next_topic": true
+    "release_integrity": {
+      "mode": "precommit inclusion check",
+      "required_files": {
+        "README.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/README.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "REVISION-GUIDE.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/REVISION-GUIDE.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "MCQ-QUESTIONS.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/MCQ-QUESTIONS.md",
+          "exists": true,
+          "tracked": true,
+          "staged": false,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "MCQ-SOLUTIONS.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/MCQ-SOLUTIONS.md",
+          "exists": true,
+          "tracked": true,
+          "staged": false,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "COVERAGE-LEDGER.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/COVERAGE-LEDGER.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "PRACTICE-LOG.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/PRACTICE-LOG.md",
+          "exists": true,
+          "tracked": true,
+          "staged": false,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "ANSWER-WRITING-TOOLKIT.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/ANSWER-WRITING-TOOLKIT.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "FORMAL-COVERAGE-AUDIT.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/FORMAL-COVERAGE-AUDIT.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "FORMAL-COVERAGE-REVIEW.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/FORMAL-COVERAGE-REVIEW.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "VALIDATION.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/VALIDATION.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "validate_package.py": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/validate_package.py",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/Revision-Guide.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/pdf/Revision-Guide.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/MCQ-Questions.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/pdf/MCQ-Questions.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/MCQ-Solutions.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/pdf/MCQ-Solutions.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/Answer-Writing-Toolkit.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/07-Logical-Positivism/pdf/Answer-Writing-Toolkit.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        }
+      },
+      "missing_or_unstaged_required_files": [],
+      "mechanical_limitations": "This proves that each required path's current content is present in the Git index. It does not commit, push or prove that a later commit will include the same index.",
+      "pass": true
     }
   },
-  "failures": []
+  "failures": [],
+  "mechanical_limits": "DEVELOPMENT_PASS certifies enumerated source-block accounting, reviewed anchors and witness overlap, MCQ/PYQ structure, visible cue metrics, links and PDF mechanics. Only RELEASE_PASS certifies current-file inclusion in the Git index. Neither proves philosophical truth, semantic completeness, future UPSC relevance or examiner marks."
 }

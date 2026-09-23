@@ -46,6 +46,33 @@ Directly owned: **8** — 2018 Q3(b), 2019 Q2(a), 2020 Q1(e), 2021 Q2(b), 2023 Q
 - **2026 Q4(a):** Topic 06 is primary owner; only the hierarchy/metalanguage-to-unified-science connection is cross-linked here.
 - Popper, Quine and later Wittgenstein are bounded critics and do not inflate ownership.
 
+## Formal-session reconciliation
+
+- Every level-2 through level-5 block in the completed formal session and workbook is bound to
+  its complete canonical text, source path, heading level/text and ancestor context in
+  `FORMAL-COVERAGE-REVIEW.json`.
+- `FORMAL-COVERAGE-AUDIT.json` is derived only from extraction plus those authored decisions.
+  Refresh never authors, modifies or approves decisions; new or stale hashes remain unresolved.
+- Structural umbrellas require reviewed parent-only propositions and the complete recursive child
+  union. Large leaves are detected by **60 physical lines OR 400 substantive words OR 250
+  semantic tokens** and require beginning/middle/end or concept-cluster propositions. The revised
+  extraction identifies **16** large leaves and **75** distributed units.
+- The complete formal 30-panel ASCII master flow is restored in `REVISION-GUIDE.md`; every panel
+  has a source-specific hash, distinct propositions and a panel-specific destination anchor.
+
+## Bounded route obligations
+
+| Obligation ID | Primary owner | Topic 07's bounded contribution | Status |
+|---|---|---|---|
+| WP-2019-Q1E-QUINE-ANALYTIC-SYNTHETIC | Topic 11 Quine and Strawson | Positivist analytic/synthetic target only | fulfilled substantively |
+| WP-2024-Q4C-QUINE-TWO-DOGMAS | Topic 11 Quine and Strawson | Analyticity and reductionism as the pillars under attack | fulfilled substantively |
+| WP-2025-Q3A-LATER-WITTGENSTEIN-TRANSITION | Topic 08 Later Wittgenstein | Ideal-language and single-criterion boundary clause only | fulfilled substantively |
+| WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE | Topic 06 Moore, Russell and Early Wittgenstein | Metalanguage/unified-science connection only | fulfilled substantively |
+
+Each route has positive and forbidden semantic assertions on every destination. Production-path
+negative tests inject both direct contradictions and paraphrased ownership transfers and require
+the normal route validator to reject them.
+
 ## Source and provenance cautions
 
 - Canonical owner: `knowledge/Philosophy/paper-1/western/Logical-Positivism.md`.
