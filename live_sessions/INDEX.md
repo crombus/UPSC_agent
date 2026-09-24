@@ -56,6 +56,7 @@
 | Economy | Economy 30 - Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries | 18 | 20,365 | `e82770a712b4` | [Economy/30-Economics-Animal-Rearing-Livestock-Dairy-Poultry-Fisheries/Learning-Session-Live-Edition.md](Economy/30-Economics-Animal-Rearing-Livestock-Dairy-Poultry-Fisheries/Learning-Session-Live-Edition.md) |
 | Economy | Economy 31 - Energy Infrastructure Economics, Power, Fuels and Energy Security | 18 | 23,545 | `0ff23d8c10b0` | [Economy/31-Energy-Infrastructure-Economics-Power-Fuels-Energy-Security/Learning-Session-Live-Edition.md](Economy/31-Energy-Infrastructure-Economics-Power-Fuels-Energy-Security/Learning-Session-Live-Edition.md) |
 | Socio-Political Philosophy | Topic 01 - Social and Political Ideals | 10 | 29,234 | `90deb03981f6` | [Socio-Political-Philosophy/01-Social-Political-Ideals/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/01-Social-Political-Ideals/Learning-Session-Live-Edition.md) |
+| Socio-Political Philosophy | Topic 02 - Sovereignty | 12 | 18,261 | `3fe87475a52e` | [Socio-Political-Philosophy/02-Sovereignty/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/02-Sovereignty/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
