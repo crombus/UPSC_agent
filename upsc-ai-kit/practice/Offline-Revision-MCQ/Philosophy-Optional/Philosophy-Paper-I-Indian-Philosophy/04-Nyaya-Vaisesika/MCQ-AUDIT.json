@@ -1,0 +1,42 @@
+{
+  "schema_version": 3,
+  "topic": "Nyaya-Vaisesika",
+  "seed": 17876230140240683234,
+  "derivation": {
+    "matrix_file": "TEST-MATRIX.json",
+    "matrix_cells": 59,
+    "derived_minimum_probes": 59,
+    "mapped_unique_question_count": 66,
+    "all_question_ids_mapped": true
+  },
+  "source_answer_sequence": "DABDACBCADCDBABCBDABACDCBCDCABADCABDACABAABCDABACBBBABAAABBCABCBAC",
+  "answer_sequence": "DDBDBACDCBCBADBDCDCCBBCBBDCABBCCAACBAABCADBDADAADCABCCDDCDABCBAADD",
+  "answer_counts": {
+    "A": 15,
+    "B": 17,
+    "C": 17,
+    "D": 17
+  },
+  "longest_run": 2,
+  "position_policy": {
+    "method": "seeded independent per-position sampling with constrained rejection",
+    "balance_tolerance_max_difference": 2,
+    "maximum_run": 2,
+    "cycle_periods_rejected": [
+      2,
+      3,
+      4
+    ],
+    "predictable_cycle_detected": false,
+    "source_sequence_preserved": false
+  },
+  "cue_metrics": {
+    "mean_correct_words": 16.52,
+    "mean_incorrect_words": 14.89,
+    "mean_length_ratio": 1.109,
+    "template_filler_count": 0,
+    "terminal_punctuation_review": "source-authored natural options retained",
+    "grammar_parallel_review": "passed"
+  },
+  "synchronization": "Every shuffled option carries its original option-specific explanation."
+}

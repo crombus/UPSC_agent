@@ -1,7 +1,8 @@
 # Offline Revision and MCQ System
 
 This directory is the portable, Agency-independent study and practice system.
-It must remain usable from the repository alone in Markdown and PDF form.
+It must remain fully usable from the repository in Markdown form. PDFs are optional derived
+artifacts generated only when the user explicitly requests them.
 
 For AI/Copilot execution of package generation, reconciliation, review, validation, release, or
 scheduled continuation, first read `C:\up\OFFLINE-PACKAGE-AGENT-INSTRUCTIONS.md`. That file contains
@@ -101,9 +102,10 @@ sessions.
     - Do not rewrite, shorten, or reorganize existing correct material merely for consistency.
       Surgical correction is allowed where accuracy or cross-surface consistency requires it,
       but depth and valid learner history must be preserved.
-    - For each genuine omission, repair every affected surface: substantive lesson and visual,
-      revision/register notes, coverage ledger, MCQs and option-specific explanations, affected
-      direct PYQ or original Mains models, solved workbook, PDFs, metadata, and validators.
+    - For each genuine omission, repair every affected canonical surface: substantive lesson and
+      visual, revision/register notes, coverage ledger, MCQs and option-specific explanations,
+      affected direct PYQ or original Mains models, solved workbook, metadata, and validators.
+      Repair optional PDFs only when the user explicitly requested PDF generation for that pass.
       Any added MCQ must obey rules 16–21, and the package's coverage-sized total must be
       re-justified rather than merely incremented.
     - **Optimized execution workflow (locked):**
@@ -116,9 +118,10 @@ sessions.
       4. Use shared, already-tested validation mechanisms for common integrity gates. Keep
          topic-specific validators limited to source paths, counts, obligations, semantic
          assertions, and genuine topic exceptions.
-      5. Stabilize learner-visible Markdown before generating PDFs. Generate the four PDFs once;
-         validator-only, metadata-only, or review-JSON-only changes must not trigger unnecessary
-         PDF regeneration.
+      5. Stabilize and validate learner-visible Markdown as the complete canonical package. Do
+         not generate, update, stage, or commit PDFs by default. If the user explicitly requests
+         PDFs, generate them only after Markdown stabilizes; validator-only, metadata-only, or
+         review-JSON-only changes must not trigger PDF regeneration.
       6. After the first complete independent review, use focused re-reviews only for the newly
          changed risk area. Do not re-audit unrelated surfaces that remain mechanically and
          semantically unaffected.
@@ -126,7 +129,7 @@ sessions.
          --check`, then commit and push. These optimizations reduce repetition only; they never
          waive coverage, semantic integrity, independent review, or release gates.
     - **Mandatory pre-pass compliance gate (locked):**
-      - Before every development, independent-review, focused-repair, PDF, or release pass,
+      - Before every development, independent-review, focused-repair, optional PDF, or release pass,
         verify against the frozen ledger that the complete syllabus, canonical/formal
         obligations, relevant verified PYQs, traps, comparisons, criticisms, applications,
         visuals, and answer-writing transfer remain covered.
@@ -142,11 +145,11 @@ sessions.
       - Independent topics may be reconciled concurrently when they have isolated package
         directories, independent source ledgers, and no unresolved cross-topic ownership writes.
       - Every parallel topic keeps its own exhaustive preflight, frozen coverage ledger,
-        substantive repairs, authored review, validators, PDFs, independent review, staged
-        release gate, commit, and push. Parallel execution never combines or substitutes these
-        per-topic requirements.
+        substantive repairs, authored review, validators, independent review, staged release
+        gate, commit, and push. Optional PDFs are handled only when explicitly requested.
+        Parallel execution never combines or substitutes these per-topic requirements.
       - Never skip, summarize away, compress, weaken, or defer required teaching, visuals,
-        revision notes, MCQs, explanations, PYQs, Mains models, obligations, metadata, PDFs, or
+        revision notes, MCQs, explanations, PYQs, Mains models, obligations, metadata, or
         validation merely to increase throughput.
       - Cross-topic obligations and shared files are serialized: one designated owner edits and
         validates them, while dependent topics wait at their release gate. Commits and pushes are
@@ -187,11 +190,7 @@ Offline-Revision-MCQ\
             |-- PRACTICE-LOG.md
             |-- ANSWER-WRITING-TOOLKIT.md
             |-- attempts\
-            `-- pdf\
-                |-- Revision-Guide.pdf
-                |-- MCQ-Questions.pdf
-                |-- MCQ-Solutions.pdf
-                `-- Answer-Writing-Toolkit.pdf
+            `-- pdf\                         # optional; created only on explicit request
 ```
 
 ## Study workflow
@@ -352,7 +351,7 @@ Every `SUBJECT-GUIDE.md` must include:
 - revision and retest schedule;
 - subject-specific MCQ traps;
 - subject-specific Mains strategy;
-- topic status and direct links to every file and PDF.
+- topic status and direct links to every canonical Markdown file and any explicitly generated PDF.
 
 ## Revision guide requirements
 
@@ -421,14 +420,17 @@ Writing practice must increase gradually and remain pain-free:
 
 Do not encourage writing through increasing pain, numbness, tingling, swelling, or weakness.
 
-## PDF and offline requirements
+## Markdown-first and optional PDF requirements
 
-- Markdown is the canonical editable source.
-- Generate separate PDFs for revision, questions, solutions, and answer writing.
-- Question PDFs must contain no answers, hints, explanations, or visual answer clues.
-- Solution PDFs must preserve complete explanations.
-- Validate page order, clipping, overlap, blank pages, unsupported glyphs, internal links, and
-  separation of questions from answers.
+- Markdown is the complete canonical learning source and must contain all substantive material.
+- Do not generate, update, stage, or commit PDFs by default.
+- Existing committed PDFs remain untouched unless the user explicitly requests regeneration or
+  removal.
+- When the user explicitly requests PDFs, generate separate revision, question, solution, and
+  answer-writing artifacts. Question PDFs must contain no answers, hints, explanations, or visual
+  answer clues; solution PDFs must preserve complete explanations.
+- For explicitly requested PDFs, validate page order, clipping, overlap, blank pages, unsupported
+  glyphs, internal links, and separation of questions from answers.
 
 ## Branch and push policy
 

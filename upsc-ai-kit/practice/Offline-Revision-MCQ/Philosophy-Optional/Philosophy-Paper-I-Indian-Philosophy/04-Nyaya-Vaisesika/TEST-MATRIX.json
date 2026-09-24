@@ -1,0 +1,2725 @@
+{
+  "schema_version": 1,
+  "topic": "Nyaya-Vaisesika",
+  "derivation_basis": "formal session + canonical owner + verified PYQ scope",
+  "legacy_contract_policy": "Formal-source counts are immutable historical evidence only and do not define the current bank.",
+  "mapping_policy": {
+    "maximum_cells_per_question": 2,
+    "required_token_match": true
+  },
+  "baseline_audit": {
+    "adequate": 25,
+    "partial": 30,
+    "untested": 4
+  },
+  "cells": [
+    {
+      "cell_id": "NV-TM-001",
+      "description": "Distinguish Nyāya's epistemic method from Vaiśeṣika's ontological inventory without collapsing the schools.",
+      "source_anchors_scope": [
+        "formal session S1; canonical §§1.1–1.3"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Nyāya–Vaiśeṣika allied-school division of labour",
+      "required_question_tokens": [
+        "allied"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q1 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q1"
+          ],
+          "all_of": [
+            [
+              "What the two allied schools actually divide between them"
+            ],
+            [
+              "allied"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q1"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-002",
+      "description": "Identify the sixteen padārthas as debate-and-inquiry topics rather than Vaiśeṣika ontological categories.",
+      "source_anchors_scope": [
+        "formal session S2; canonical §1.4"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Nyāya's sixteen topics of inquiry",
+      "required_question_tokens": [
+        "sixteen"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q2 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q2"
+          ],
+          "all_of": [
+            [
+              "What kind of list the sixteen are"
+            ],
+            [
+              "sixteen"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q2"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-003",
+      "description": "Recognize Nyāya's twelve knowables and their soteriological ordering.",
+      "source_anchors_scope": [
+        "formal session S2; canonical §1.5"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "The twelve prameyas",
+      "required_question_tokens": [
+        "twelve"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q3 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q3"
+          ],
+          "all_of": [
+            [
+              "The twelve knowables read correctly"
+            ],
+            [
+              "twelve"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q3"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-004",
+      "description": "Discriminate the complete Vaiśeṣika substance list from lists contaminated by qualities or motions.",
+      "source_anchors_scope": [
+        "formal session S3; canonical §2.3"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "The nine substances",
+      "required_question_tokens": [
+        "substances"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q4 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q4"
+          ],
+          "all_of": [
+            [
+              "Which set contains only the nine substances"
+            ],
+            [
+              "substances"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q4"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-005",
+      "description": "Locate cognition, pleasure and pain as adventitious qualities of self rather than substances.",
+      "source_anchors_scope": [
+        "formal session S3; canonical §2.4"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Cognition and pleasure as qualities",
+      "required_question_tokens": [
+        "cognition"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q5 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q5"
+          ],
+          "all_of": [
+            [
+              "Where cognition and pleasure belong, and why it matters"
+            ],
+            [
+              "cognition"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q5"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-006",
+      "description": "Explain how motion produces conjunction and disjunction and thereby feeds production and destruction.",
+      "source_anchors_scope": [
+        "formal session S3; canonical §2.5"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Motion's causal role",
+      "required_question_tokens": [
+        "motion",
+        "conjunction",
+        "disjunction"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "motion produces both conjunction and disjunction",
+          "all_of": [
+            [
+              "motion"
+            ],
+            [
+              "conjunction"
+            ],
+            [
+              "disjunction"
+            ]
+          ]
+        },
+        {
+          "assertion": "those relations feed causation",
+          "all_of": [
+            [
+              "causation",
+              "production"
+            ],
+            [
+              "destruction",
+              "effect"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q6"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-007",
+      "description": "Test the realist case for repeatable universals and the internal refusal of pseudo-universals.",
+      "source_anchors_scope": [
+        "formal session S4; canonical §§2.6–2.7"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Real universals and disciplined universalhood",
+      "required_question_tokens": [
+        "universal"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q7 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q7"
+          ],
+          "all_of": [
+            [
+              "The argument for the reality of universals"
+            ],
+            [
+              "universal"
+            ]
+          ]
+        },
+        {
+          "assertion": "Q8 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q8"
+          ],
+          "all_of": [
+            [
+              "What the six blockers of universalhood accomplish"
+            ],
+            [
+              "universal"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q7",
+        "Q8"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-008",
+      "description": "Restrict viśeṣa to the individuation of eternal substances.",
+      "source_anchors_scope": [
+        "formal session S4; canonical §2.8"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Ultimate particularity",
+      "required_question_tokens": [
+        "particularity"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q9 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q9"
+          ],
+          "all_of": [
+            [
+              "The scope of ultimate particularity"
+            ],
+            [
+              "particularity"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q9"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-009",
+      "description": "Separate constitutive ayutasiddha dependence from separable conjunction.",
+      "source_anchors_scope": [
+        "formal session S5; canonical §2.9"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Inherence contrasted with conjunction",
+      "required_question_tokens": [
+        "inherence"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q10 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q10"
+          ],
+          "all_of": [
+            [
+              "The brown table and the book on the table"
+            ],
+            [
+              "inherence"
+            ]
+          ]
+        },
+        {
+          "assertion": "Q11 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q11"
+          ],
+          "all_of": [
+            [
+              "Inseparability as a defining characteristic"
+            ],
+            [
+              "inherence"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q10",
+        "Q11"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-010",
+      "description": "Classify prior, posterior, mutual and absolute absence by temporal and relational signature.",
+      "source_anchors_scope": [
+        "formal session S6; canonical §2.10"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Four kinds of absence",
+      "required_question_tokens": [
+        "absence"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q12 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q12"
+          ],
+          "all_of": [
+            [
+              "The temporal signatures of the four absences"
+            ],
+            [
+              "absence"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q12"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-011",
+      "description": "Apply absence categories and identify Nyāya's perceptual account of qualified non-apprehension.",
+      "source_anchors_scope": [
+        "formal session S6; canonical §2.10"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Absence examples and Nyāya cognition",
+      "required_question_tokens": [
+        "absence"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q13 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q13"
+          ],
+          "all_of": [
+            [
+              "Two sentences, two absences"
+            ],
+            [
+              "absence"
+            ]
+          ]
+        },
+        {
+          "assertion": "Q14 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q14"
+          ],
+          "all_of": [
+            [
+              "How Nyāya knows an absence"
+            ],
+            [
+              "absence"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q13",
+        "Q14"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-012",
+      "description": "Apply the clauses sense-born, non-verbal, non-errant and determinate to exclude rival cognitions.",
+      "source_anchors_scope": [
+        "formal session S7; canonical §3.2"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Gautama's perception definition",
+      "required_question_tokens": [
+        "definition"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q15 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q15"
+          ],
+          "all_of": [
+            [
+              "What each clause of Gautama's definition excludes"
+            ],
+            [
+              "definition"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q15"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-013",
+      "description": "Select the appropriate ordinary contact for a presented object or property.",
+      "source_anchors_scope": [
+        "formal session S8; canonical §3.3"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Sense–object contact selection",
+      "required_question_tokens": [
+        "contact"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q16 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q16"
+          ],
+          "all_of": [
+            [
+              "Which contact makes which object perceptible"
+            ],
+            [
+              "contact"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q16"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-014",
+      "description": "Distinguish universal-mediated, cognition-mediated and yogic perception.",
+      "source_anchors_scope": [
+        "formal session S8; canonical §3.4"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Extraordinary perception taxonomy",
+      "required_question_tokens": [
+        "extraordinary"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q17 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q17"
+          ],
+          "all_of": [
+            [
+              "The three kinds of extraordinary perception"
+            ],
+            [
+              "extraordinary"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q17"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-015",
+      "description": "Identify the member whose epistemic function is not reproduced by a three-line Aristotelian form.",
+      "source_anchors_scope": [
+        "formal session S9; canonical §4.3"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Five-member public demonstration",
+      "required_question_tokens": [
+        "member"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q18 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q18"
+          ],
+          "all_of": [
+            [
+              "The member with no Western counterpart"
+            ],
+            [
+              "member"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q18"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-016",
+      "description": "Classify pūrvavat, śeṣavat and sāmānyatodṛṣṭa by the causal or non-causal direction of the inferential move.",
+      "source_anchors_scope": [
+        "formal session S9; canonical §4.4"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Cause/effect/non-causal direction grid",
+      "required_question_tokens": [
+        "cause",
+        "effect",
+        "non-causal",
+        "direction"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "the direction grid includes cause-to-effect",
+          "all_of": [
+            [
+              "cause"
+            ],
+            [
+              "effect"
+            ]
+          ]
+        },
+        {
+          "assertion": "the same grid includes non-causal uniformity",
+          "all_of": [
+            [
+              "non-causal",
+              "noncausal"
+            ],
+            [
+              "direction",
+              "basis",
+              "uniformity"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q19"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-017",
+      "description": "Read hetu marks and hetvābhāsas as positive and negative validity tests.",
+      "source_anchors_scope": [
+        "formal session S9–S10; canonical §§4.5–4.7"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Valid reason and fallacy relation",
+      "required_question_tokens": [
+        "fallacies"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q20 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q20"
+          ],
+          "all_of": [
+            [
+              "Marks and fallacies as one test read twice"
+            ],
+            [
+              "fallacies"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q20"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-018",
+      "description": "Diagnose a hidden condition and the disciplined anti-sceptical route to concomitance.",
+      "source_anchors_scope": [
+        "formal session S10; canonical §§4.6–4.8"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Upādhi control and vyāpti acquisition",
+      "required_question_tokens": [
+        "conditioning",
+        "concomitance"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q21 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q21"
+          ],
+          "all_of": [
+            [
+              "Identifying the conditioning adjunct"
+            ],
+            [
+              "conditioning",
+              "concomitance"
+            ]
+          ]
+        },
+        {
+          "assertion": "Q22 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q22"
+          ],
+          "all_of": [
+            [
+              "What the chain that secures concomitance actually claims"
+            ],
+            [
+              "conditioning",
+              "concomitance"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q21",
+        "Q22"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-019",
+      "description": "Identify expectancy, semantic fitness, proximity and intended meaning as conditions of sentence cognition.",
+      "source_anchors_scope": [
+        "formal session S11; canonical §5.2"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Sentence-intelligibility conditions",
+      "required_question_tokens": [
+        "expectancy",
+        "fitness",
+        "proximity",
+        "intended meaning"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "sentence cognition requires expectancy and fitness",
+          "all_of": [
+            [
+              "expectancy"
+            ],
+            [
+              "fitness"
+            ]
+          ]
+        },
+        {
+          "assertion": "sentence cognition also requires proximity and intended meaning",
+          "all_of": [
+            [
+              "proximity"
+            ],
+            [
+              "intended meaning",
+              "intention"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q23"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-020",
+      "description": "Identify Nyāya upamāna's distinctive result rather than reducing it to perception or inference.",
+      "source_anchors_scope": [
+        "formal session S11; canonical §5.1"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Comparison as word–referent knowledge",
+      "required_question_tokens": [
+        "comparison"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q24 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q24"
+          ],
+          "all_of": [
+            [
+              "What comparison actually delivers"
+            ],
+            [
+              "comparison"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q24"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-021",
+      "description": "Distinguish parataḥ validity from intrinsic validity and pramāṇa from pramāṇaphala across realist and Buddhist analyses.",
+      "source_anchors_scope": [
+        "formal session S11; canonical §§5.4–5.5"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Extrinsic validity and instrument–fruit debate",
+      "required_question_tokens": [
+        "validity",
+        "instrument"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q25 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q25"
+          ],
+          "all_of": [
+            [
+              "The half-remembered position on validity"
+            ],
+            [
+              "validity",
+              "instrument"
+            ]
+          ]
+        },
+        {
+          "assertion": "Q32 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q32"
+          ],
+          "all_of": [
+            [
+              "Instrument and fruit, and why the schools differ"
+            ],
+            [
+              "validity",
+              "instrument"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q25",
+        "Q32"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-022",
+      "description": "Keep anyathākhyāti, akhyāti and Buddhist appearance theories doctrinally distinct.",
+      "source_anchors_scope": [
+        "formal session S12; canonical §6.1"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Three error theories",
+      "required_question_tokens": [
+        "error"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q26 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q26"
+          ],
+          "all_of": [
+            [
+              "Three theories of error that scripts routinely merge"
+            ],
+            [
+              "error"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q26"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-023",
+      "description": "Connect enduring self proofs with apavarga as cessation of suffering and cognition-producing conditions.",
+      "source_anchors_scope": [
+        "formal session S12; canonical §§6.2–6.4"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Self and liberation baseline",
+      "required_question_tokens": [
+        "self",
+        "release"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q27 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q27"
+          ],
+          "all_of": [
+            [
+              "Counting the reasons for the self"
+            ],
+            [
+              "self",
+              "release"
+            ]
+          ]
+        },
+        {
+          "assertion": "Q28 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q28"
+          ],
+          "all_of": [
+            [
+              "What release is, and what the standing objection targets"
+            ],
+            [
+              "self",
+              "release"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q27",
+        "Q28"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-024",
+      "description": "State what later Nyāya–Vaiśeṣika God explains without making God the material cause or reading late theism into Kaṇāda.",
+      "source_anchors_scope": [
+        "formal session S13; canonical §7"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "God as efficient cause",
+      "required_question_tokens": [
+        "God"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q29 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q29"
+          ],
+          "all_of": [
+            [
+              "What Nyāya's God does and does not do"
+            ],
+            [
+              "God"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q29"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-025",
+      "description": "Recognize ārambhavāda and the atom–dyad–triad route to gross objects.",
+      "source_anchors_scope": [
+        "formal session S14; canonical §§8.1–8.3"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "One focused discriminator is sufficient because the cell tests a single established distinction.",
+      "primary_discriminator": "Production causation and atomic aggregation",
+      "required_question_tokens": [
+        "causation",
+        "atom"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q30 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q30"
+          ],
+          "all_of": [
+            [
+              "The doctrine of causation stated without its usual distortion"
+            ],
+            [
+              "causation",
+              "atom"
+            ]
+          ]
+        },
+        {
+          "assertion": "Q31 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q31"
+          ],
+          "all_of": [
+            [
+              "Counting the steps from atom to visible object"
+            ],
+            [
+              "causation",
+              "atom"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q30",
+        "Q31"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-026",
+      "description": "Distinguish Kaṇāda's sixfold list from the later recognition of abhāva as the seventh category.",
+      "source_anchors_scope": [
+        "formal S3 and canonical §§2.1–2.2"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Seven padārthas and the six-to-seven history",
+      "required_question_tokens": [
+        "seven",
+        "absence"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q33 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q33"
+          ],
+          "all_of": [
+            [
+              "Seven categories, but not at every historical layer"
+            ],
+            [
+              "seven",
+              "absence"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q33"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-027",
+      "description": "Apply vyakter abheda, tulyatva, saṅkara, anavasthā, rūpahāni and asambandha to proposed universals.",
+      "source_anchors_scope": [
+        "formal S4 and canonical §2.7"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Application of all six jāti-bādhakas",
+      "required_question_tokens": [
+        "blocker",
+        "universal"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q34 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q34"
+          ],
+          "all_of": [
+            [
+              "Six blockers used as six refusal tests"
+            ],
+            [
+              "blocker",
+              "universal"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q34"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-028",
+      "description": "Explain why ultimate particularities individuate eternal substances without requiring further differentiators.",
+      "source_anchors_scope": [
+        "formal S4 and canonical §2.8"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Viśeṣa regress and self-differentiation",
+      "required_question_tokens": [
+        "particularity",
+        "regress"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q35 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q35"
+          ],
+          "all_of": [
+            [
+              "Viśeṣa without a second differentiator"
+            ],
+            [
+              "particularity",
+              "regress"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q35"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-029",
+      "description": "Evaluate the self-linking reply to regress together with the claim that one inherence relates many heterogeneous pairs.",
+      "source_anchors_scope": [
+        "formal S5 and canonical §2.9"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Samavāya regress and the one–many problem",
+      "required_question_tokens": [
+        "inherence",
+        "regress"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q36 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q36"
+          ],
+          "all_of": [
+            [
+              "One inherence and the regress objection"
+            ],
+            [
+              "inherence",
+              "regress"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q36"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-030",
+      "description": "Compare qualified non-apprehension in Nyāya, conceptual construction in Buddhism and anupalabdhi in Bhāṭṭa Mīmāṃsā.",
+      "source_anchors_scope": [
+        "formal S6 and canonical §2.10"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Nyāya, Buddhist and Bhāṭṭa absence cognition",
+      "required_question_tokens": [
+        "absence",
+        "Bhāṭṭa"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q37 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q37"
+          ],
+          "all_of": [
+            [
+              "How three schools know absence"
+            ],
+            [
+              "absence",
+              "Bhāṭṭa"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q37"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-031",
+      "description": "Relate indeterminate and determinate perception to the apparently determinate clause in Gautama's definition.",
+      "source_anchors_scope": [
+        "formal S7 and canonical §3.2"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Nirvikalpaka, savikalpaka and Gautama's tension",
+      "required_question_tokens": [
+        "nirvikalpaka",
+        "savikalpaka"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q38 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q38"
+          ],
+          "all_of": [
+            [
+              "Two stages and Gautama's wording"
+            ],
+            [
+              "nirvikalpaka",
+              "savikalpaka"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q38"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-032",
+      "description": "Apply conjunction, inherence, inherence-in-the-conjoined, inherence-in-the-inherent, qualifier–qualified relation and the special sound relation.",
+      "source_anchors_scope": [
+        "formal S8 and canonical §3.3"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "All six sannikarṣas",
+      "required_question_tokens": [
+        "six",
+        "contact"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q39 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q39"
+          ],
+          "all_of": [
+            [
+              "All six ordinary contacts"
+            ],
+            [
+              "six",
+              "contact"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q39"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-033",
+      "description": "Classify inference by purpose, observed mark and structure of concomitance without mixing the grids.",
+      "source_anchors_scope": [
+        "formal S9 and canonical §4.4"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "All three inference classification grids",
+      "required_question_tokens": [
+        "three",
+        "classification"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "purpose or audience grid",
+          "all_of": [
+            [
+              "svārtha",
+              "svartha"
+            ],
+            [
+              "parārtha",
+              "parartha"
+            ],
+            [
+              "purpose",
+              "audience"
+            ]
+          ]
+        },
+        {
+          "assertion": "observed-mark grid",
+          "all_of": [
+            [
+              "pūrvavat",
+              "purvavat"
+            ],
+            [
+              "śeṣavat",
+              "sesavat"
+            ],
+            [
+              "sāmānyatodṛṣṭa",
+              "samanyatodrsta"
+            ],
+            [
+              "observed mark"
+            ]
+          ]
+        },
+        {
+          "assertion": "concomitance-structure grid",
+          "all_of": [
+            [
+              "kevalānvayi",
+              "kevalanvayi"
+            ],
+            [
+              "kevalavyatireki"
+            ],
+            [
+              "anvayavyatireki"
+            ],
+            [
+              "concomitance"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q40"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-034",
+      "description": "Apply pakṣasattva, sapakṣasattva, vipakṣāsattva, abādhitatva and asatpratipakṣatva together.",
+      "source_anchors_scope": [
+        "formal S9 and canonical §4.5"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Five characteristics of a valid hetu",
+      "required_question_tokens": [
+        "five",
+        "reason"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q41 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q41"
+          ],
+          "all_of": [
+            [
+              "The five marks of a valid reason"
+            ],
+            [
+              "five",
+              "reason"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q41"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-035",
+      "description": "Distinguish savyabhicāra subtypes, viruddha, satpratipakṣa, asiddha subtypes and bādhita.",
+      "source_anchors_scope": [
+        "formal S10 and canonical §4.7"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Five hetvābhāsa families and subtypes",
+      "required_question_tokens": [
+        "fallacy",
+        "subtype"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q42 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q42"
+          ],
+          "all_of": [
+            [
+              "Five fallacy families with subtype discipline"
+            ],
+            [
+              "fallacy",
+              "subtype"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q42"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-036",
+      "description": "Distinguish invariant pervasion from equal and unequal extension.",
+      "source_anchors_scope": [
+        "formal S10 and canonical §4.6"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Vyāpti, samavyāpti and viṣamavyāpti",
+      "required_question_tokens": [
+        "vyapti",
+        "extension"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q43 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q43"
+          ],
+          "all_of": [
+            [
+              "Pervasion and extension"
+            ],
+            [
+              "vyapti",
+              "extension"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q43"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-037",
+      "description": "Treat tarka as an auxiliary reductio rather than an independent pramāṇa and recognize self-defeat, regress and contradiction forms.",
+      "source_anchors_scope": [
+        "formal S10 and canonical §4.8"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Tarka's status and unacceptable-consequence forms",
+      "required_question_tokens": [
+        "tarka",
+        "pramana"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q44 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q44"
+          ],
+          "all_of": [
+            [
+              "Tarka assists but does not certify alone"
+            ],
+            [
+              "tarka",
+              "pramana"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q44"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-038",
+      "description": "Compare induction scepticism while preserving Nyāya's upādhi-elimination and realism about universals.",
+      "source_anchors_scope": [
+        "formal S10 and canonical §§4.8, 10.2"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Cārvāka objections, Nyāya replies and Hume comparison",
+      "required_question_tokens": [
+        "Carvaka",
+        "Hume"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q45 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q45"
+          ],
+          "all_of": [
+            [
+              "Cārvāka, Nyāya and Hume on induction"
+            ],
+            [
+              "Carvaka",
+              "Hume"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q45"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-039",
+      "description": "Contrast word–referent learning with cognition of similarity involving a remembered object.",
+      "source_anchors_scope": [
+        "formal S11 and canonical §5.1"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Nyāya versus Mīmāṃsā on upamāna",
+      "required_question_tokens": [
+        "comparison",
+        "Mimamsa"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q46 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q46"
+          ],
+          "all_of": [
+            [
+              "Two fruits called upamāna"
+            ],
+            [
+              "comparison",
+              "Mimamsa"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q46"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-040",
+      "description": "Combine reliability conditions with dṛṣṭārtha/adṛṣṭārtha and secular/Vedic testimony.",
+      "source_anchors_scope": [
+        "formal S11 and canonical §5.2"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Āpta, secular and Vedic testimony classifications",
+      "required_question_tokens": [
+        "apta",
+        "Vedic"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "āpta has epistemic competence",
+          "all_of": [
+            [
+              "āpta",
+              "apta"
+            ],
+            [
+              "knowledge",
+              "competence"
+            ]
+          ]
+        },
+        {
+          "assertion": "āpta communicates sincerely",
+          "all_of": [
+            [
+              "truthful",
+              "sincere",
+              "sincerity"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q47"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-041",
+      "description": "Contrast abhihitānvaya's two-stage synthesis with anvitābhidhāna's directly connected meanings.",
+      "source_anchors_scope": [
+        "formal S11 and canonical §5.3"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Naiyāyika versus Prābhākara śābdabodha",
+      "required_question_tokens": [
+        "sentence",
+        "Prabhakara"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q48 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q48"
+          ],
+          "all_of": [
+            [
+              "How words yield one sentence cognition"
+            ],
+            [
+              "sentence",
+              "Prabhakara"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q48"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-042",
+      "description": "Explain memory's dependence on prior cognition and its failure to disclose a previously unknown object.",
+      "source_anchors_scope": [
+        "formal S11 and canonical §5.4"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Why memory is not a pramāṇa",
+      "required_question_tokens": [
+        "memory",
+        "new"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q49 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q49"
+          ],
+          "all_of": [
+            [
+              "Why recollection is not fresh knowledge"
+            ],
+            [
+              "memory",
+              "new"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q49"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-043",
+      "description": "Trace shell-silver error from present perception through memory and extraordinary presentation to false location.",
+      "source_anchors_scope": [
+        "formal S12 and canonical §6.1"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Complete jñānalakṣaṇa–memory–misplacement anyathākhyāti",
+      "required_question_tokens": [
+        "memory",
+        "misplacement"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q50 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q50"
+          ],
+          "all_of": [
+            [
+              "The full shell–silver mechanism"
+            ],
+            [
+              "memory",
+              "misplacement"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q50"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-044",
+      "description": "Use atomic mind to explain serial cognition while answering Buddhist bundle and Advaita witness objections.",
+      "source_anchors_scope": [
+        "formal S12 and canonical §§6.2–6.3"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Manas, episodic consciousness and self objections",
+      "required_question_tokens": [
+        "mind",
+        "Buddhist"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q51 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q51"
+          ],
+          "all_of": [
+            [
+              "Mind, episodic awareness and the enduring self"
+            ],
+            [
+              "mind",
+              "Buddhist"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q51"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-045",
+      "description": "Apply the error–defect–action–birth–suffering chain and its reverse cessation.",
+      "source_anchors_scope": [
+        "formal S12 and canonical §6.4"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Liberation's full causal ladder",
+      "required_question_tokens": [
+        "error",
+        "suffering"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q52 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q52"
+          ],
+          "all_of": [
+            [
+              "Reversing the bondage ladder"
+            ],
+            [
+              "error",
+              "suffering"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q52"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-046",
+      "description": "Integrate kāryāt, āyojanāt, dhṛtyādeḥ and śruteḥ as a cumulative case.",
+      "source_anchors_scope": [
+        "formal S13 and canonical §7.2"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Udayana's four principal proofs",
+      "required_question_tokens": [
+        "Udayana",
+        "four"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q53 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q53"
+          ],
+          "all_of": [
+            [
+              "Udayana's cumulative four-proof structure"
+            ],
+            [
+              "Udayana",
+              "four"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q53"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-047",
+      "description": "Distinguish efficient causal and karmic governance from Yoga's special puruṣa and pedagogical-liberative role.",
+      "source_anchors_scope": [
+        "formal S13 and canonical §7.3"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Nyāya versus classical Yoga on God",
+      "required_question_tokens": [
+        "Yoga",
+        "God"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q54 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q54"
+          ],
+          "all_of": [
+            [
+              "Nyāya's Lord and Yoga's special puruṣa"
+            ],
+            [
+              "Yoga",
+              "God"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q54"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-048",
+      "description": "Identify which rival objection attacks Vedic authorship, creator inference, material sufficiency or providence.",
+      "source_anchors_scope": [
+        "formal S13 and canonical §7.4"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Mīmāṃsā, Buddhist, Sāṃkhya and evil objections",
+      "required_question_tokens": [
+        "objection",
+        "evil"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q55 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q55"
+          ],
+          "all_of": [
+            [
+              "Four objections to the Nyāya God"
+            ],
+            [
+              "objection",
+              "evil"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q55"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-049",
+      "description": "Separate a genuine causal antecedent from mere prior, remote, co-present, effect-dependent or extraneous conditions.",
+      "source_anchors_scope": [
+        "formal S14 and canonical §8.1"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Ananyathāsiddha and five accidental antecedents",
+      "required_question_tokens": [
+        "antecedent",
+        "five"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q56 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q56"
+          ],
+          "all_of": [
+            [
+              "The causal antecedent must be non-accidental"
+            ],
+            [
+              "antecedent",
+              "five"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q56"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-050",
+      "description": "Assign material, non-inherent and efficient causal roles in one concrete case.",
+      "source_anchors_scope": [
+        "formal S14 and canonical §8.1"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Samavāyi, asamavāyi and nimitta causes applied",
+      "required_question_tokens": [
+        "cause",
+        "threads"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q57 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q57"
+          ],
+          "all_of": [
+            [
+              "Three causes in a cloth"
+            ],
+            [
+              "cause",
+              "threads"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q57"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-051",
+      "description": "Use destruction, novelty and causal specificity to defend new production against pre-existence.",
+      "source_anchors_scope": [
+        "formal S14 and canonical §8.2"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Seed–tree case for asatkāryavāda",
+      "required_question_tokens": [
+        "seed",
+        "new"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q58 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q58"
+          ],
+          "all_of": [
+            [
+              "Why the tree is a new effect"
+            ],
+            [
+              "seed",
+              "new"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q58"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-052",
+      "description": "Explain why atoms are eternal and partless and why further division generates regress.",
+      "source_anchors_scope": [
+        "formal S14 and canonical §8.3"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Atomic eternality, partlessness and regress",
+      "required_question_tokens": [
+        "atoms",
+        "partless"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q59 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q59"
+          ],
+          "all_of": [
+            [
+              "Why atoms terminate division"
+            ],
+            [
+              "atoms",
+              "partless"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q59"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-053",
+      "description": "Sequence karmic unseen potency, divine governance, atomic motion, aggregation and cosmic dissolution.",
+      "source_anchors_scope": [
+        "formal S14 and canonical §8.4"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "First motion, adṛṣṭa, God, creation and dissolution",
+      "required_question_tokens": [
+        "motion",
+        "dissolution"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q60 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q60"
+          ],
+          "all_of": [
+            [
+              "From unseen merit to a world, and back"
+            ],
+            [
+              "motion",
+              "dissolution"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q60"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-054",
+      "description": "Answer exclusion theory and the denial of a whole over and above parts without begging realism.",
+      "source_anchors_scope": [
+        "formal S15 and canonical §§2.6, 8.3, 9"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Buddhist apoha and avayavin objections",
+      "required_question_tokens": [
+        "apoha",
+        "whole"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q61 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q61"
+          ],
+          "all_of": [
+            [
+              "Exclusion and the whole over parts"
+            ],
+            [
+              "apoha",
+              "whole"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q61"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-055",
+      "description": "Assess the many-sidedness objection to fixed categories and Nyāya's determinate-predication reply.",
+      "source_anchors_scope": [
+        "formal S15 and canonical §9"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Jaina anekānta challenge",
+      "required_question_tokens": [
+        "Jaina",
+        "categories"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q62 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q62"
+          ],
+          "all_of": [
+            [
+              "Anekānta and determinate categories"
+            ],
+            [
+              "Jaina",
+              "categories"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q62"
+      ],
+      "baseline_status": "untested",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-056",
+      "description": "Distinguish universal-first denotation from contextually delimited reference to particulars.",
+      "source_anchors_scope": [
+        "formal S15 and canonical §5.2"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Words signifying universals versus particulars",
+      "required_question_tokens": [
+        "words",
+        "universal"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Q63 carries the cell-specific discriminator in its titled test payload",
+          "applies_to": [
+            "Q63"
+          ],
+          "all_of": [
+            [
+              "Do words signify a universal or a particular?"
+            ],
+            [
+              "words",
+              "universal"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q63"
+      ],
+      "baseline_status": "untested",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-057",
+      "description": "Use Western comparisons only to sharpen regress, universal and theistic issues while preserving doctrinal differences.",
+      "source_anchors_scope": [
+        "formal optional enrichment and canonical §10.2"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "A dedicated independently answerable probe is required because the prior bank was partial or silent on this discriminator.",
+      "primary_discriminator": "Controlled Bradley, Plato, Aquinas and system transfer",
+      "required_question_tokens": [
+        "Bradley",
+        "Plato",
+        "Aquinas"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "Bradley comparison remains controlled",
+          "all_of": [
+            [
+              "bradley"
+            ],
+            [
+              "regress"
+            ],
+            [
+              "self-linking inherence"
+            ]
+          ]
+        },
+        {
+          "assertion": "Plato comparison preserves immanent universals",
+          "all_of": [
+            [
+              "plato"
+            ],
+            [
+              "immanent"
+            ]
+          ]
+        },
+        {
+          "assertion": "Aquinas comparison preserves Nyāya differences",
+          "all_of": [
+            [
+              "aquinas"
+            ],
+            [
+              "eternal atoms"
+            ],
+            [
+              "souls"
+            ],
+            [
+              "karma"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q64"
+      ],
+      "baseline_status": "untested",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-058",
+      "description": "Enumerate and discriminate all five Vaiśeṣika motions without substituting their causal products or qualities.",
+      "source_anchors_scope": [
+        "formal session S3; canonical §2.5"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "The complete five-member taxonomy requires a standalone probe distinct from motion's causal role.",
+      "primary_discriminator": "Complete five-motions taxonomy",
+      "required_question_tokens": [
+        "upward movement",
+        "downward movement",
+        "contraction",
+        "expansion",
+        "locomotion"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "all five motions are independently enumerated",
+          "all_of": [
+            [
+              "upward movement"
+            ],
+            [
+              "downward movement"
+            ],
+            [
+              "contraction"
+            ],
+            [
+              "expansion"
+            ],
+            [
+              "locomotion"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q65"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "NV-TM-059",
+      "description": "Reach a conditional overall verdict after weighing realist-systematic strengths against contested primitive termini, induction, liberation and God–karma tensions.",
+      "source_anchors_scope": [
+        "formal synthesis across S4–S15; canonical §§2.7–10.2"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "Balanced graded evaluation is a distinct higher-order discriminator and cannot be inferred from a controlled comparison item.",
+      "primary_discriminator": "Graded system evaluation with conditional verdict",
+      "required_question_tokens": [
+        "realist",
+        "inference",
+        "samavāya",
+        "viśeṣa",
+        "conditional"
+      ],
+      "semantic_assertions": [
+        {
+          "assertion": "evaluation states the system's strengths",
+          "all_of": [
+            [
+              "realist"
+            ],
+            [
+              "inference discipline",
+              "inferential discipline",
+              "disciplined inference"
+            ],
+            [
+              "systematic integration",
+              "integrates"
+            ]
+          ]
+        },
+        {
+          "assertion": "evaluation identifies contested primitive stopping points",
+          "all_of": [
+            [
+              "samavāya",
+              "samavaya"
+            ],
+            [
+              "regress",
+              "self-linking"
+            ],
+            [
+              "viśeṣa",
+              "visesa"
+            ],
+            [
+              "self-differentiation",
+              "self-differentiating"
+            ]
+          ]
+        },
+        {
+          "assertion": "evaluation includes epistemic or soteriological weaknesses",
+          "all_of": [
+            [
+              "sāmānyalakṣaṇa",
+              "samanyalaksana",
+              "induction"
+            ],
+            [
+              "unconscious liberation",
+              "liberation without cognition-producing qualities",
+              "motivation"
+            ],
+            [
+              "god",
+              "karma"
+            ]
+          ]
+        },
+        {
+          "assertion": "overall verdict is expressly conditional",
+          "all_of": [
+            [
+              "conditional",
+              "if one accepts",
+              "depends on accepting"
+            ],
+            [
+              "not an unconditional",
+              "not absolute",
+              "rather than absolute"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q66"
+      ],
+      "baseline_status": "untested",
+      "coverage_status": "covered"
+    }
+  ],
+  "question_mappings": [
+    {
+      "question_id": "Q1",
+      "cell_id": "NV-TM-001",
+      "primary_discriminator": "Nyāya–Vaiśeṣika allied-school division of labour"
+    },
+    {
+      "question_id": "Q2",
+      "cell_id": "NV-TM-002",
+      "primary_discriminator": "Nyāya's sixteen topics of inquiry"
+    },
+    {
+      "question_id": "Q3",
+      "cell_id": "NV-TM-003",
+      "primary_discriminator": "The twelve prameyas"
+    },
+    {
+      "question_id": "Q4",
+      "cell_id": "NV-TM-004",
+      "primary_discriminator": "The nine substances"
+    },
+    {
+      "question_id": "Q5",
+      "cell_id": "NV-TM-005",
+      "primary_discriminator": "Cognition and pleasure as qualities"
+    },
+    {
+      "question_id": "Q6",
+      "cell_id": "NV-TM-006",
+      "primary_discriminator": "Motion's causal role"
+    },
+    {
+      "question_id": "Q7",
+      "cell_id": "NV-TM-007",
+      "primary_discriminator": "Real universals and disciplined universalhood"
+    },
+    {
+      "question_id": "Q8",
+      "cell_id": "NV-TM-007",
+      "primary_discriminator": "Real universals and disciplined universalhood"
+    },
+    {
+      "question_id": "Q9",
+      "cell_id": "NV-TM-008",
+      "primary_discriminator": "Ultimate particularity"
+    },
+    {
+      "question_id": "Q10",
+      "cell_id": "NV-TM-009",
+      "primary_discriminator": "Inherence contrasted with conjunction"
+    },
+    {
+      "question_id": "Q11",
+      "cell_id": "NV-TM-009",
+      "primary_discriminator": "Inherence contrasted with conjunction"
+    },
+    {
+      "question_id": "Q12",
+      "cell_id": "NV-TM-010",
+      "primary_discriminator": "Four kinds of absence"
+    },
+    {
+      "question_id": "Q13",
+      "cell_id": "NV-TM-011",
+      "primary_discriminator": "Absence examples and Nyāya cognition"
+    },
+    {
+      "question_id": "Q14",
+      "cell_id": "NV-TM-011",
+      "primary_discriminator": "Absence examples and Nyāya cognition"
+    },
+    {
+      "question_id": "Q15",
+      "cell_id": "NV-TM-012",
+      "primary_discriminator": "Gautama's perception definition"
+    },
+    {
+      "question_id": "Q16",
+      "cell_id": "NV-TM-013",
+      "primary_discriminator": "Sense–object contact selection"
+    },
+    {
+      "question_id": "Q17",
+      "cell_id": "NV-TM-014",
+      "primary_discriminator": "Extraordinary perception taxonomy"
+    },
+    {
+      "question_id": "Q18",
+      "cell_id": "NV-TM-015",
+      "primary_discriminator": "Five-member public demonstration"
+    },
+    {
+      "question_id": "Q19",
+      "cell_id": "NV-TM-016",
+      "primary_discriminator": "Cause/effect/non-causal direction grid"
+    },
+    {
+      "question_id": "Q20",
+      "cell_id": "NV-TM-017",
+      "primary_discriminator": "Valid reason and fallacy relation"
+    },
+    {
+      "question_id": "Q21",
+      "cell_id": "NV-TM-018",
+      "primary_discriminator": "Upādhi control and vyāpti acquisition"
+    },
+    {
+      "question_id": "Q22",
+      "cell_id": "NV-TM-018",
+      "primary_discriminator": "Upādhi control and vyāpti acquisition"
+    },
+    {
+      "question_id": "Q23",
+      "cell_id": "NV-TM-019",
+      "primary_discriminator": "Sentence-intelligibility conditions"
+    },
+    {
+      "question_id": "Q24",
+      "cell_id": "NV-TM-020",
+      "primary_discriminator": "Comparison as word–referent knowledge"
+    },
+    {
+      "question_id": "Q25",
+      "cell_id": "NV-TM-021",
+      "primary_discriminator": "Extrinsic validity and instrument–fruit debate"
+    },
+    {
+      "question_id": "Q32",
+      "cell_id": "NV-TM-021",
+      "primary_discriminator": "Extrinsic validity and instrument–fruit debate"
+    },
+    {
+      "question_id": "Q26",
+      "cell_id": "NV-TM-022",
+      "primary_discriminator": "Three error theories"
+    },
+    {
+      "question_id": "Q27",
+      "cell_id": "NV-TM-023",
+      "primary_discriminator": "Self and liberation baseline"
+    },
+    {
+      "question_id": "Q28",
+      "cell_id": "NV-TM-023",
+      "primary_discriminator": "Self and liberation baseline"
+    },
+    {
+      "question_id": "Q29",
+      "cell_id": "NV-TM-024",
+      "primary_discriminator": "God as efficient cause"
+    },
+    {
+      "question_id": "Q30",
+      "cell_id": "NV-TM-025",
+      "primary_discriminator": "Production causation and atomic aggregation"
+    },
+    {
+      "question_id": "Q31",
+      "cell_id": "NV-TM-025",
+      "primary_discriminator": "Production causation and atomic aggregation"
+    },
+    {
+      "question_id": "Q33",
+      "cell_id": "NV-TM-026",
+      "primary_discriminator": "Seven padārthas and the six-to-seven history"
+    },
+    {
+      "question_id": "Q34",
+      "cell_id": "NV-TM-027",
+      "primary_discriminator": "Application of all six jāti-bādhakas"
+    },
+    {
+      "question_id": "Q35",
+      "cell_id": "NV-TM-028",
+      "primary_discriminator": "Viśeṣa regress and self-differentiation"
+    },
+    {
+      "question_id": "Q36",
+      "cell_id": "NV-TM-029",
+      "primary_discriminator": "Samavāya regress and the one–many problem"
+    },
+    {
+      "question_id": "Q37",
+      "cell_id": "NV-TM-030",
+      "primary_discriminator": "Nyāya, Buddhist and Bhāṭṭa absence cognition"
+    },
+    {
+      "question_id": "Q38",
+      "cell_id": "NV-TM-031",
+      "primary_discriminator": "Nirvikalpaka, savikalpaka and Gautama's tension"
+    },
+    {
+      "question_id": "Q39",
+      "cell_id": "NV-TM-032",
+      "primary_discriminator": "All six sannikarṣas"
+    },
+    {
+      "question_id": "Q40",
+      "cell_id": "NV-TM-033",
+      "primary_discriminator": "All three inference classification grids"
+    },
+    {
+      "question_id": "Q41",
+      "cell_id": "NV-TM-034",
+      "primary_discriminator": "Five characteristics of a valid hetu"
+    },
+    {
+      "question_id": "Q42",
+      "cell_id": "NV-TM-035",
+      "primary_discriminator": "Five hetvābhāsa families and subtypes"
+    },
+    {
+      "question_id": "Q43",
+      "cell_id": "NV-TM-036",
+      "primary_discriminator": "Vyāpti, samavyāpti and viṣamavyāpti"
+    },
+    {
+      "question_id": "Q44",
+      "cell_id": "NV-TM-037",
+      "primary_discriminator": "Tarka's status and unacceptable-consequence forms"
+    },
+    {
+      "question_id": "Q45",
+      "cell_id": "NV-TM-038",
+      "primary_discriminator": "Cārvāka objections, Nyāya replies and Hume comparison"
+    },
+    {
+      "question_id": "Q46",
+      "cell_id": "NV-TM-039",
+      "primary_discriminator": "Nyāya versus Mīmāṃsā on upamāna"
+    },
+    {
+      "question_id": "Q47",
+      "cell_id": "NV-TM-040",
+      "primary_discriminator": "Āpta, secular and Vedic testimony classifications"
+    },
+    {
+      "question_id": "Q48",
+      "cell_id": "NV-TM-041",
+      "primary_discriminator": "Naiyāyika versus Prābhākara śābdabodha"
+    },
+    {
+      "question_id": "Q49",
+      "cell_id": "NV-TM-042",
+      "primary_discriminator": "Why memory is not a pramāṇa"
+    },
+    {
+      "question_id": "Q50",
+      "cell_id": "NV-TM-043",
+      "primary_discriminator": "Complete jñānalakṣaṇa–memory–misplacement anyathākhyāti"
+    },
+    {
+      "question_id": "Q51",
+      "cell_id": "NV-TM-044",
+      "primary_discriminator": "Manas, episodic consciousness and self objections"
+    },
+    {
+      "question_id": "Q52",
+      "cell_id": "NV-TM-045",
+      "primary_discriminator": "Liberation's full causal ladder"
+    },
+    {
+      "question_id": "Q53",
+      "cell_id": "NV-TM-046",
+      "primary_discriminator": "Udayana's four principal proofs"
+    },
+    {
+      "question_id": "Q54",
+      "cell_id": "NV-TM-047",
+      "primary_discriminator": "Nyāya versus classical Yoga on God"
+    },
+    {
+      "question_id": "Q55",
+      "cell_id": "NV-TM-048",
+      "primary_discriminator": "Mīmāṃsā, Buddhist, Sāṃkhya and evil objections"
+    },
+    {
+      "question_id": "Q56",
+      "cell_id": "NV-TM-049",
+      "primary_discriminator": "Ananyathāsiddha and five accidental antecedents"
+    },
+    {
+      "question_id": "Q57",
+      "cell_id": "NV-TM-050",
+      "primary_discriminator": "Samavāyi, asamavāyi and nimitta causes applied"
+    },
+    {
+      "question_id": "Q58",
+      "cell_id": "NV-TM-051",
+      "primary_discriminator": "Seed–tree case for asatkāryavāda"
+    },
+    {
+      "question_id": "Q59",
+      "cell_id": "NV-TM-052",
+      "primary_discriminator": "Atomic eternality, partlessness and regress"
+    },
+    {
+      "question_id": "Q60",
+      "cell_id": "NV-TM-053",
+      "primary_discriminator": "First motion, adṛṣṭa, God, creation and dissolution"
+    },
+    {
+      "question_id": "Q61",
+      "cell_id": "NV-TM-054",
+      "primary_discriminator": "Buddhist apoha and avayavin objections"
+    },
+    {
+      "question_id": "Q62",
+      "cell_id": "NV-TM-055",
+      "primary_discriminator": "Jaina anekānta challenge"
+    },
+    {
+      "question_id": "Q63",
+      "cell_id": "NV-TM-056",
+      "primary_discriminator": "Words signifying universals versus particulars"
+    },
+    {
+      "question_id": "Q64",
+      "cell_id": "NV-TM-057",
+      "primary_discriminator": "Controlled Bradley, Plato, Aquinas and system transfer"
+    },
+    {
+      "question_id": "Q65",
+      "cell_id": "NV-TM-058",
+      "primary_discriminator": "Complete five-motions taxonomy"
+    },
+    {
+      "question_id": "Q66",
+      "cell_id": "NV-TM-059",
+      "primary_discriminator": "Graded system evaluation with conditional verdict"
+    }
+  ]
+}

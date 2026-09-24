@@ -1,0 +1,47 @@
+{
+  "schema_version": 3,
+  "derived_from": "FORMAL-COVERAGE-REVIEW.json",
+  "review_sha256": "76578540bec979fc1ed25d7884a1c1da90d685993f25e080e940cf72c8505470",
+  "decision_count": 398,
+  "covered": 398,
+  "routed": 0,
+  "unclassified": 0,
+  "source_counts": {
+    "formal_session": 330,
+    "formal_workbook": 68
+  },
+  "raw_proposition_mapping_count": 1645,
+  "unique_normalized_proposition_count": 1311,
+  "duplicate_occurrences_deduplicated": 334,
+  "excluded_fragment_count": 696,
+  "excluded_fragment_reason_counts": {
+    "answer_key_coordinate": 64,
+    "isolated_structural_label": 120,
+    "mcq_option_coordinate": 256,
+    "option_explanation_coordinate": 256
+  },
+  "parent_blocks": 27,
+  "large_leaf_segmented": 43,
+  "panel_parity": {
+    "expected": 15,
+    "actual": 15,
+    "panel_ids": [
+      "session-ascii-master-flow-panel-1-15-system-identity-division-of-labour-and-the--316-11af482f72",
+      "session-ascii-master-flow-panel-2-15-sixteen-topics-of-inquiry-and-twelve-knowab-317-e40e9089cd",
+      "session-ascii-master-flow-panel-3-15-seven-categories-substance-quality-motion-318-0967ae575e",
+      "session-ascii-master-flow-panel-4-15-universal-six-blockers-ultimate-particulari-319-45eecebe09",
+      "session-ascii-master-flow-panel-5-15-inherence-versus-conjunction-the-table-test-320-5fc0f78553",
+      "session-ascii-master-flow-panel-6-15-absence-four-kinds-structure-cognition-321-dca87b7553",
+      "session-ascii-master-flow-panel-7-15-four-instruments-and-gautama-s-definition-322-a96756354f",
+      "session-ascii-master-flow-panel-8-15-six-contacts-and-three-extraordinary-percep-323-6d7213dc86",
+      "session-ascii-master-flow-panel-9-15-inference-engine-members-grids-five-marks-324-b56fc1b3dc",
+      "session-ascii-master-flow-panel-10-15-securing-concomitance-and-the-five-fallaci-325-bd03c79588",
+      "session-ascii-master-flow-panel-11-15-comparison-testimony-memory-validity-fruit-326-de99d00ee3",
+      "session-ascii-master-flow-panel-12-15-error-self-mind-and-release-327-96ac6a171c",
+      "session-ascii-master-flow-panel-13-15-god-and-udayana-s-cumulative-case-328-c54dc3e4fa",
+      "session-ascii-master-flow-panel-14-15-causation-and-atomism-329-6fc14f2f90",
+      "session-ascii-master-flow-panel-15-15-verdict-grid-cross-school-anchors-answer-r-330-0afa66cd00"
+    ]
+  },
+  "status": "DERIVED_COMPLETE"
+}

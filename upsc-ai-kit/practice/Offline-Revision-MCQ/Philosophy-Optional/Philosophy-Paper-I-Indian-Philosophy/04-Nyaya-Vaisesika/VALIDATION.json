@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "validated_at": "2026-09-24T22:13:14+05:30",
+  "mode": "development",
+  "state": "DEVELOPMENT_PASS",
+  "release_ready": false,
+  "checks": {
+    "required_files": 20,
+    "pdf_validation": "not_requested",
+    "canonical_source_artifacts": 18,
+    "formal_blocks": 398,
+    "raw_proposition_mappings": 1645,
+    "unique_normalized_propositions": 1311,
+    "duplicates_deduplicated": 334,
+    "excluded_fragments": 696,
+    "excluded_fragment_reasons": {
+      "answer_key_coordinate": 64,
+      "isolated_structural_label": 120,
+      "mcq_option_coordinate": 256,
+      "option_explanation_coordinate": 256
+    },
+    "panels": 15,
+    "doctrinal_guards": 15,
+    "matrix_cells": 59,
+    "matrix_baseline": {
+      "adequate": 25,
+      "partial": 30,
+      "untested": 4
+    },
+    "derived_minimum_probes": 59,
+    "mapped_questions": 66,
+    "mcqs": 66,
+    "answer_counts": {
+      "A": 15,
+      "B": 17,
+      "C": 17,
+      "D": 17
+    },
+    "answer_sequence": "DDBDBACDCBCBADBDCDCCBBCBBDCABBCCAACBAABCADBDADAADCABCCDDCDABCBAADD",
+    "max_run": 2,
+    "predictable_cycle": false,
+    "primary_pyqs": 26,
+    "supporting_pyqs": 1,
+    "originals": 6,
+    "timed_models": 33
+  },
+  "error_count": 0,
+  "errors": []
+}

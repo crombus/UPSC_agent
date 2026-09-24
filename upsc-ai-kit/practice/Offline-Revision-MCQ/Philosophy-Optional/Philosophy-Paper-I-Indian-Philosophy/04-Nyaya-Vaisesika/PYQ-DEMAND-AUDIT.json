@@ -1,0 +1,307 @@
+{
+  "schema_version": 2,
+  "sources": {
+    "2018_2025": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796
+    },
+    "2026": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502
+    }
+  },
+  "expected_year_counts": {
+    "2018": 3,
+    "2019": 3,
+    "2020": 2,
+    "2021": 3,
+    "2022": 2,
+    "2023": 4,
+    "2024": 2,
+    "2025": 3,
+    "2026": 4
+  },
+  "expected_total": 26,
+  "actual_total": 26,
+  "formal_preserved_total": 22,
+  "added_2026_primary_total": 4,
+  "questions": [
+    {
+      "year": 2018,
+      "question_no": "Q5(a)",
+      "marks": 10,
+      "text": "How do the Vaiśeṣika philosophers explain the difference of the relationships in the two cases—(i) the brown colour of the table and (ii) the book on the table? Discuss.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "4c485bc55e961af5f4b217a964e88da43f8a8dfae000e13e1e3410ae146b84a0",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2018,
+      "question_no": "Q5(d)",
+      "marks": 10,
+      "text": "How do the Buddhists and the Nyāya philosophers explain our knowledge of 'the absence of the jar on the table'? Answer in detail.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "0d19a23f86e9b885ccd11298f5e105f9e14f0d080835f1f5f4af95186d3b52b5",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2018,
+      "question_no": "Q6(a)",
+      "marks": 20,
+      "text": "How do the Naiyāyikas prove the existence of God? Do the Yoga philosophers prove God in the same way? If yes, how? And if no, why? Give reasons for your answer.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "e3254f600581ccbbf1823c5e767e953c51d4af632383cbeb6741dc5a9b40d891",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2019,
+      "question_no": "Q5(a)",
+      "marks": 10,
+      "text": "Justify the status of Abhāva as a category in Vaiśeṣika philosophy.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "12649cc07f222d93a85b344a5fb51855b2d527e5a6a5551628bfcee68cedee1c",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2019,
+      "question_no": "Q6(b)",
+      "marks": 15,
+      "text": "What is the role of Jñānalakṣaṇa-pratyakṣa in explaining Anyathākhyāti?",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "3cd0b979c1efd035d5e8510779dd7edd403ad7f9e0f1e2d53f276531fae06eab",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2019,
+      "question_no": "Q7(a)",
+      "marks": 20,
+      "text": "How does Udayana prove the existence of God through Kāryāt, Āyojanāt, Dhṛtyādeḥ and Śruteḥ? Discuss.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "282bc6494ac6bf23de775c206b1b99f160095b3abae0134a6787a553ec08c98f",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2020,
+      "question_no": "Q6(c)",
+      "marks": 15,
+      "text": "Explain the concepts of 'Anyathāsiddha' and 'Ananyathāsiddha' in the context of Asatkāryavāda.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "7ff5a0b391d341cb2fbb8679a2fb53bcd3030e7e805a44c60b0efc637bd5edd9",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2020,
+      "question_no": "Q8(b)",
+      "marks": 15,
+      "text": "Critically evaluate the logical and metaphysical status of Viśeṣa in the context of Vaiśeṣika Philosophy.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "b9caf03f2d0a34f336a07005114f39a95f1726ada5954421f622af3697498b1f",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2021,
+      "question_no": "Q5(a)",
+      "marks": 10,
+      "text": "Does the seed contain the tree? Discuss with reference to Nyāya-Vaiśeṣika Philosophy.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "cd019c95355c1ca329ada8bac0779c90328d732ce6ddffc7761707dcaede034f",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2021,
+      "question_no": "Q5(b)",
+      "marks": 10,
+      "text": "Explain with reference to Nyāya Philosophy, the nature of śabda as the advice of āpta (a reliable person).",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "7e31360417056eb305d11b6eeaff3f96acbbd3dfdb3a5ccf5f014aca14e871c1",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2021,
+      "question_no": "Q5(c)",
+      "marks": 10,
+      "text": "Is ‘inseparability’ (ayuta-siddhatva) a necessary condition or a sufficient condition for defining characteristics (lakṣaṇa) of samavāya (inherence)? Explain with reference to Vaiśeṣika Philosophy.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "0e416db3b0e3e894bffd96d92a1545ecee4c71da064f1dfce19060b1d8ee59cc",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2022,
+      "question_no": "Q5(b)",
+      "marks": 10,
+      "text": "What is the ontological status of Sāmānya, according to Vaiśeṣika Philosophy? Critically examine.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "5e743a5a0fe8dd3bd009237c789505d57816604a285408d8f1cfa2b4a935d627",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2022,
+      "question_no": "Q7(c)",
+      "marks": 15,
+      "text": "How do Naiyāyikas respond to Cārvāka’s objections against inference (anumāna) and establish inference as an independent means of knowledge? Critically discuss.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "5517d319752f25f5083ffe3bccfd1f35d8bad4321d72cb5f01492f55f797b36f",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2023,
+      "question_no": "Q5(d)",
+      "marks": 10,
+      "text": "Present an account of Vaiśeṣika’s view of negation in the light of their statement — “Negation always has a counterpositive and absolute negation is an impossibility.”",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "9f9675ac8354d8b8b8444e223d2e0d36a311b09a90f57bdae07b10e3cb9d10e1",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2023,
+      "question_no": "Q6(c)",
+      "marks": 15,
+      "text": "Elucidate Naiyāyikas view of ordinary and extraordinary perception. Are they justified in accepting that universals are perceived? Discuss.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "a467395448934cf787f81ae02639dc3f3d23f25eb1dcd475a191baf0163ede1e",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2023,
+      "question_no": "Q7(a)",
+      "marks": 20,
+      "text": "Elucidate Naiyāyikas account of fallacies of the middle term in relation to five characteristics of valid middle term.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "03126309fbac3942dcf6d373de66f595fd8342f4376ffc168a232051f755bf17",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2023,
+      "question_no": "Q8(b)",
+      "marks": 15,
+      "text": "Write a note on Nyāya notion of Prāgabhāva (prior non-existence). How does this notion help Naiyāyikas in defending their position on causation against the Sāṃkhya view of causation? Critically discuss.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "1422e71f20cf146bfbb5ed22764f85b81ca9f1f5062088aa3e75bd6a35d5f120",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2024,
+      "question_no": "Q5(b)",
+      "marks": 10,
+      "text": "Explain the six reasons offered by the Naiyāyikas to prove the existence of the self.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "f2bee8df8f113711825f7466af4f674cb5ea884da7aadd1c0ebc864ef2254ec5",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2024,
+      "question_no": "Q5(c)",
+      "marks": 10,
+      "text": "Do these two sentences “Air does not have heat” and “Air is not fire” refer to the same type of absence or abhāva, according to the Vaiśeṣikas? Discuss.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "9e5bb9248c5cd495075a15893f5627b4c6fe883302a7787e2c4f4abdf0094d92",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2025,
+      "question_no": "Q5(b)",
+      "marks": 10,
+      "text": "Present an exposition of the debate between Naiyāyikas and Buddhists with reference to the notion of Pramāṇa and Pramāṇaphala.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "f612a9f86a15799953a30baf6936e9280667e70b9f7b67efb7df64781d23f35c",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2025,
+      "question_no": "Q5(e)",
+      "marks": 10,
+      "text": "Present an exposition of Nyāya-Vaiśeṣika’s theory of causation.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "72411740dc132b2e3064c15897439d513755426129f83a307c005ee37ae5cd19",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2025,
+      "question_no": "Q6(a)",
+      "marks": 20,
+      "text": "Present a detailed account of Gautama’s definition of Perception.",
+      "source": "_PYQ-Indian-Philosophy-2018-2025.md",
+      "text_sha256": "ca2f0638e9d608019d97362d4fee910e2da70cbe7ae18911fc2669245c18e7f5",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2026,
+      "question_no": "Q5(a)",
+      "marks": 10,
+      "text": "According to Nyaya view of inference (Anumana), what are the characteristics that ascertain the validity of inferential sign (Hetu)? Discuss.",
+      "source": "_PYQ-Indian-Philosophy-2026.md",
+      "text_sha256": "0309c58a6699cc466a3593b61cafced21bc9a8cca2b41cffceb6f276039740b3",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2026,
+      "question_no": "Q5(d)",
+      "marks": 10,
+      "text": "Critically explain the nature of Samavaya (inherence) as propounded in Vaisesika philosophy.",
+      "source": "_PYQ-Indian-Philosophy-2026.md",
+      "text_sha256": "986400c0b7a6695e50cdef25efeb0caa4211b32ae584369182ca3c9e2d111f3c",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2026,
+      "question_no": "Q6(c)",
+      "marks": 15,
+      "text": "Bring out the main points of contestation between Naiyayikas and Prabhakara Mimamsakas with reference to knowledge through words (Sabdabodha).",
+      "source": "_PYQ-Indian-Philosophy-2026.md",
+      "text_sha256": "b1cc491e81921b1ac0423d92cfb105cfcb16f65d2b26e426a54fc6e5ffede5cc",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2026,
+      "question_no": "Q8(a)",
+      "marks": 20,
+      "text": "Present an account of Upamana as an instrument of knowledge (Pramana). How is Nyaya view of Upamana different from Mimamsa view? Discuss.",
+      "source": "_PYQ-Indian-Philosophy-2026.md",
+      "text_sha256": "36a249f5feda156d31b2280405835c3da6412473e8022fb37691443f463f18cd",
+      "ownership": "Nyaya-Vaisesika-primary",
+      "status": "fully_solved"
+    }
+  ],
+  "supporting_total": 1,
+  "supporting_questions": [
+    {
+      "year": 2026,
+      "question_no": "Q7(a)",
+      "marks": 20,
+      "text": "Critically explain the arguments presented by the Akhyativadins for explaining erroneous cognition. Evaluate the arguments against Akhyativadins by the Anyathakhyativadins.",
+      "ownership": "Mimamsa-primary/Nyaya-Vaisesika-supporting",
+      "text_sha256": "4ce0cc4c951332e0e1c06617d899e178bfd3cc242c1958ae1d955e505fda4b35",
+      "status": "fully_solved_outside_primary_numbering",
+      "supporting_id": "S1"
+    }
+  ],
+  "original_solved_total": 6,
+  "status": "COMPLETE"
+}

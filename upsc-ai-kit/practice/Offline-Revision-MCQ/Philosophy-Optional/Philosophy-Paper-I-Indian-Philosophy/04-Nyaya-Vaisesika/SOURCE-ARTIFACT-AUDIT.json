@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "policy": "markdown_and_machine_readable_audits_are_canonical_pdfs_optional",
+  "artifacts": [
+    {
+      "file": "README.md",
+      "sha256": "caa4f3c0b202f9c65edaff99ef54046864494bd0715f7b90417713dd419c6a83",
+      "bytes": 1644
+    },
+    {
+      "file": "REVISION-GUIDE.md",
+      "sha256": "b0a87204b87dcadbbba361aed8386e92ad6135414143e85950ea3c60aaf767ee",
+      "bytes": 458043
+    },
+    {
+      "file": "MCQ-QUESTIONS.md",
+      "sha256": "82eb0e1cf0af876c0090c56ee9bea5ab1bfe7a453fd1861e948d7d52fb182758",
+      "bytes": 43889
+    },
+    {
+      "file": "MCQ-SOLUTIONS.md",
+      "sha256": "cdd38d9670af0495fd8045070d7d1788a35db5930ead65c15ec4fe2fc7d5c1e6",
+      "bytes": 133178
+    },
+    {
+      "file": "ANSWER-WRITING-TOOLKIT.md",
+      "sha256": "869ea80ac6e70edd7855583859fc72a3122761f0ae8b608acd616b76e2469f8e",
+      "bytes": 86196
+    },
+    {
+      "file": "PRACTICE-LOG.md",
+      "sha256": "e89ab069a108f2d74d20d44a3d82fc3c4208df85fb8b5408592a407ca9e65ef3",
+      "bytes": 526
+    },
+    {
+      "file": "COVERAGE-LEDGER.md",
+      "sha256": "f1d64852e9be158d2d18f83189ad9e972771c69c94477916813ceaf28a43b96d",
+      "bytes": 7860
+    },
+    {
+      "file": "FORMAL-SOURCE-MIRROR.md",
+      "sha256": "39df235a3714d42cc2b0420ff4c570cae9a442b76833b6df3c900288e6204c9d",
+      "bytes": 592789
+    },
+    {
+      "file": "FORMAL-COVERAGE-REVIEW.json",
+      "sha256": "76578540bec979fc1ed25d7884a1c1da90d685993f25e080e940cf72c8505470",
+      "bytes": 2677611
+    },
+    {
+      "file": "FORMAL-COVERAGE-AUDIT.json",
+      "sha256": "eb9a3e4c204059d46c4b9f7a795637493c719537254c4a562623057eb516e6aa",
+      "bytes": 2415
+    },
+    {
+      "file": "MCQ-AUDIT.json",
+      "sha256": "316ed0a31ca64943b620f56d2dd0617ba9de3c656231c5ce7370c2d07c44615d",
+      "bytes": 1306
+    },
+    {
+      "file": "PYQ-DEMAND-AUDIT.json",
+      "sha256": "8d4e5a6da350d27833ea1a4e1260f6c9791823367dcbc4e8224912086db71349",
+      "bytes": 13352
+    },
+    {
+      "file": "TEST-MATRIX.json",
+      "sha256": "2368e4336a2191f6a37469548abc259b19750865ee05448d0a36d51fc0075428",
+      "bytes": 84517
+    },
+    {
+      "file": "build_package.py",
+      "sha256": "2a4304045120a0b7a115f3424dd65c123ca4a8e72ea2d1b4d4b960140ff42409",
+      "bytes": 105894
+    },
+    {
+      "file": "render_pdfs.py",
+      "sha256": "e2f89a2ed28422ed225c2da2e224f2b25086e575e0e4a9f1fa733b0b0b6a8c2b",
+      "bytes": 6211
+    },
+    {
+      "file": "validate_package.py",
+      "sha256": "b64001863f07426a2129f77e8dc829885cc6db2380118c3a0e329bbdb62f8ace",
+      "bytes": 43217
+    },
+    {
+      "file": "run_negative_tests.py",
+      "sha256": "61aa693d7dd291459167c26e7ae52a8eb5a68b3209dce028780bf33be5ce02e5",
+      "bytes": 17225
+    },
+    {
+      "file": ".gitattributes",
+      "sha256": "e3857d21d29e5ec81cff22740627271fb6ebef337d0cb89f660e57749bf91eca",
+      "bytes": 23
+    }
+  ],
+  "status": "CANONICAL_SOURCE_ARTIFACTS_CURRENT"
+}

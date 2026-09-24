@@ -24,7 +24,7 @@ and the relevant guide.
 
 ## Pre-pass compliance gate
 
-Before every development, independent-review, focused-repair, PDF, or release pass:
+Before every development, independent-review, focused-repair, optional PDF, or release pass:
 
 1. Verify the frozen ledger covers the complete syllabus and every canonical/formal obligation.
 2. Verify all relevant authenticated PYQs through the latest repository year are included, owned
@@ -45,8 +45,9 @@ Before every development, independent-review, focused-repair, PDF, or release pa
 3. Report raw proposition mappings separately from unique normalized propositions and acknowledged
    duplicates. Exclude and separately count non-propositional coordinates or labels.
 4. Freeze cleared surfaces. Do not repeatedly rediscover scope or reopen unaffected content.
-5. Stabilize learner-visible Markdown before generating PDFs; regenerate only PDFs affected by a
-   learner-visible source change.
+5. Stabilize and validate learner-visible Markdown as the complete canonical package. Do not
+   generate, update, stage, or commit PDFs by default. Generate PDFs only when the user explicitly
+   requests them, and then regenerate only artifacts affected by a learner-visible source change.
 6. After the first complete independent review, use focused re-reviews for changed risk areas.
 7. Run one final development gate and one staged release gate, followed by `git diff --check`,
    commit, and push.
@@ -60,8 +61,9 @@ Before every development, independent-review, focused-repair, PDF, or release pa
    commit, or branch history.
 3. Serialize independent reviews, cross-topic obligations, staged release gates, commits, and
    pushes in syllabus order.
-4. Each topic independently requires complete teaching, practice, authored evidence, PDFs,
-   negative tests, independent review, release validation, commit, and push.
+4. Each topic independently requires complete Markdown teaching, practice, authored evidence,
+   negative tests, independent review, release validation, commit, and push. PDFs are optional
+   derived artifacts and are not a completion or release requirement unless explicitly requested.
 
 ## Locked practice and integrity rules
 
@@ -98,6 +100,6 @@ concise completion summary containing:
 3. Final coverage-derived MCQ count and answer-pattern integrity.
 4. Primary/supporting verified PYQ counts through the latest repository year.
 5. Original Mains-practice count and locked word-band status.
-6. PDF artifacts and validation result.
+6. Markdown artifact and validation result; report PDF artifacts only when explicitly generated.
 7. Commit hash and push status.
 8. Any retrospective repair or unresolved dependency that remains.

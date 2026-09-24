@@ -806,7 +806,9 @@ format.
   time. No topic or substantive subtopic may be skipped, and source content may not be compressed
   into shallow generic summaries.
 - Preserve complete revision material, hard MCQs, separate solutions, coverage ledgers,
-  learner-specific practice logs, answer-writing toolkits, and offline PDFs.
+  learner-specific practice logs, and answer-writing toolkits in canonical Markdown. PDFs are
+  optional derived artifacts generated only on explicit request; do not generate, update, stage,
+  or commit them by default, and leave existing committed PDFs untouched.
 - **Coverage-sized MCQ rule:** never copy a previous topic's question count or use a fixed/template
   total. Derive a topic-specific test matrix from every substantive syllabus and revision cell,
   verified PYQ theme, major comparison, criticism, application and likely misconception. Add
@@ -831,7 +833,8 @@ format.
   must be reclassified as omissions or cross-links. Every cross-topic route creates an inbound
   obligation that the destination validator must close. Repair genuine omissions across lesson/visual,
   revision notes, coverage ledger, MCQs and option-specific explanations, affected Mains/PYQ
-  answers, workbook, PDFs, metadata and validators without shortening correct material. Finish
+  answers, workbook, metadata and validators without shortening correct material. Repair PDFs
+  only when explicitly requested. Finish
   with `FORMAL-COVERAGE-AUDIT.json`; no formal block may remain unclassified. Canonical ownership,
   verified PYQs and the no-predictable-answer-rotation rule override conflicting source wording;
   added MCQs require a newly justified coverage-sized total.
