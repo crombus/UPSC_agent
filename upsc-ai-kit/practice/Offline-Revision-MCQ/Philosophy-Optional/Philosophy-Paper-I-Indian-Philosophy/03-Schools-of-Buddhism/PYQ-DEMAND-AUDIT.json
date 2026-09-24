@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "2018_2025": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+      "local_snapshot": "source-snapshots/pyq-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796
+    },
+    "2026": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2026.md",
+      "local_snapshot": "source-snapshots/pyq-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502
+    }
+  },
+  "expected_year_counts": {
+    "2018": 2,
+    "2019": 2,
+    "2020": 2,
+    "2021": 2,
+    "2022": 2,
+    "2023": 1,
+    "2024": 1,
+    "2025": 1,
+    "2026": 1
+  },
+  "expected_total": 14,
+  "actual_total": 14,
+  "questions": [
+    {
+      "year": 2018,
+      "question_no": "Q5(b)",
+      "marks": 10,
+      "text": "How do the Mādhyamika Buddhists apply the notion of Pratītyasamutpāda to establish their doctrine of Śūnyatā? Discuss.",
+      "text_sha256": "141bc10c9174bfaee3484f27278f850f1e780b97eb88dc530ade71299d2d5e3b",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2018,
+      "question_no": "Q6(b)",
+      "marks": 15,
+      "text": "Is it consistent for the Buddhists to admit the theory of Nairātmyavāda and the doctrine of Nirvāṇa simultaneously? Give reasons in favour of your answer.",
+      "text_sha256": "8ab90131a443a764e63dc34dff30c407c1456197f4c2747fb359dcdbe9a95555",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2019,
+      "question_no": "Q5(b)",
+      "marks": 10,
+      "text": "How do the Yogācāra Buddhists deny the existence of the external world? Discuss.",
+      "text_sha256": "3077be3ecd44d6325814c1b5b73fce46b2fcae5eaa7636efb9e17fa92299c88b",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2019,
+      "question_no": "Q7(c)",
+      "marks": 15,
+      "text": "What is Pratītyasamutpāda? How do the Buddhists apply this concept to prove that everything is momentary?",
+      "text_sha256": "bf58f2128c3e9250230ce89de19e15bc9f02d9d0f2b2d5080d61b3a5142a71bb",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2020,
+      "question_no": "Q6(a)",
+      "marks": 20,
+      "text": "How is Kṣaṇikavāda a logical derivative of Pratītyasamutpāda in Buddhism? Explain.",
+      "text_sha256": "c4c760d190afba59340765933cd83b813d73c16fff50f08cf7886c1c5f67fa85",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2020,
+      "question_no": "Q7(b)",
+      "marks": 15,
+      "text": "How does Buddhism explain Self in terms of Pañcaskandhas? What is Liberation for Buddhism if there is no Soul?",
+      "text_sha256": "261c84f9c1157e1e6fe042a4c5ba2a4b54b2b6b1d187e576e69d91278d5df2d1",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2021,
+      "question_no": "Q5(d)",
+      "marks": 10,
+      "text": "Distinguish between pudgala-nairātmyavāda and dharma-nairātmyavāda with reference to Buddhist Philosophy.",
+      "text_sha256": "8955b24e12246d6c4064739aef4b4f095af4247c38fcb6866178b868e1f0a789",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2021,
+      "question_no": "Q7(b)",
+      "marks": 15,
+      "text": "If everything is momentary then how do the Buddhists explain the problem of memory and personal identity? Critically discuss.",
+      "text_sha256": "f856dcf765968fa605c458fae8952b0a03185ba8c703745001ff4d0ad94d716b",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2022,
+      "question_no": "Q6(a)",
+      "marks": 20,
+      "text": "How compatible is Buddhist theory of momentariness with their theory of Karma? In this regard how do Buddhists respond to objections raised by their opponents? Critically discuss.",
+      "text_sha256": "7c0fffda091c8a0fe492af4cf7592954b706cc825902f274c4cbbef3ea168c52",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2022,
+      "question_no": "Q7(b)",
+      "marks": 15,
+      "text": "Explain Buddhist concept of Triratna and their internal relation. Critically examine the consistency of Triratnas with the Buddhist concept of No-soul (Nairātmyavāda).",
+      "text_sha256": "2bfc35b70310d4bf9a73b64b6d836f03a76e4c6acd563f3d373986c81fef727f",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2023,
+      "question_no": "Q8(a)",
+      "marks": 20,
+      "text": "“Ignorance of dependent origination is suffering while its knowledge is cessation of suffering.” Present an account of Buddhist soteriology in the light of above statement.",
+      "text_sha256": "428f09ee74cd0b84dbd17dbc65a65fccf7803709f7efc821bf23177bfd696ea9",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2024,
+      "question_no": "Q6(b)",
+      "marks": 15,
+      "text": "How do the two schools of Buddhism arrive at two opposed conclusions, namely “everything is void” and “everything is real” from the same doctrine of Pratītyasamutpāda? Answer with arguments.",
+      "text_sha256": "14a7d83e98a6c4a7804e2af269451dccf74f308784122ccc4e1090ba452e3baa",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2025,
+      "question_no": "Q8(c)",
+      "marks": 15,
+      "text": "Is Buddhist notion of Nirvāṇa in consonance with their conception of Kṣaṇikavāda (momentariness) and Nairātmyavāda (no-soul theory)? Critically discuss.",
+      "text_sha256": "85aec7c6e66480b15f6e116b9338346d08736c3df0f911e7990f741fa7fc0466",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2026,
+      "question_no": "Q5(b)",
+      "marks": 10,
+      "text": "How does the Buddhist theory of momentariness problematize the issue of human action and responsibility? Critically discuss.",
+      "text_sha256": "ad08550430b51482703a9a06365c57d5a0b6a8ec703619727ca46017295eef73",
+      "ownership": "Buddhism-primary",
+      "status": "fully_solved"
+    }
+  ],
+  "status": "COMPLETE",
+  "supporting_total": 3,
+  "supporting_questions": [
+    {
+      "year": 2018,
+      "question_no": "Q5(d)",
+      "marks": 10,
+      "text": "How do the Buddhists and the Nyāya philosophers explain our knowledge of 'the absence of the jar on the table'? Answer in detail.",
+      "ownership": "Nyāya–Vaiśeṣika-primary/Buddhism-supporting",
+      "status": "fully_solved_outside_primary_numbering",
+      "supporting_id": "S1",
+      "text_sha256": "0d19a23f86e9b885ccd11298f5e105f9e14f0d080835f1f5f4af95186d3b52b5"
+    },
+    {
+      "year": 2024,
+      "question_no": "Q6(a)",
+      "marks": 20,
+      "text": "Differentiate between the Cārvākas’ refutation of self as a transcendental category and the Buddhist rejection of ātmā.",
+      "ownership": "Cārvāka-primary/Buddhism-supporting",
+      "status": "fully_solved_outside_primary_numbering",
+      "supporting_id": "S2",
+      "text_sha256": "d0d2ee6586178477e0a9bac5a341df22d0612b796e0643987e156daa7e2c14ae"
+    },
+    {
+      "year": 2025,
+      "question_no": "Q5(b)",
+      "marks": 10,
+      "text": "Present an exposition of the debate between Naiyāyikas and Buddhists with reference to the notion of Pramāṇa and Pramāṇaphala.",
+      "ownership": "Nyāya–Vaiśeṣika-primary/Buddhism-supporting",
+      "status": "fully_solved_outside_primary_numbering",
+      "supporting_id": "S3",
+      "text_sha256": "f612a9f86a15799953a30baf6936e9280667e70b9f7b67efb7df64781d23f35c"
+    }
+  ]
+}

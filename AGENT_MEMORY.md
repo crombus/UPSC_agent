@@ -21,6 +21,24 @@
 
 ## 1. Core principles (highest priority)
 
+### Workflow routing for Copilot / AI executor
+
+This file contains rules for multiple UPSC workflows. Do not combine them indiscriminately.
+
+- **Offline package generation, reconciliation, review, PDF, validation, release, scheduling, and
+  repair:** first load and follow `C:\up\OFFLINE-PACKAGE-AGENT-INSTRUCTIONS.md`, then the package
+  rules in `upsc-ai-kit\practice\Offline-Revision-MCQ\START-HERE.md`.
+- **Interactive live Guided Tutor sessions:** follow section 5 of this file and
+  `upsc-ai-kit\guides\portable-guided-tutor-prompt.md`. Do not impose offline-package preflight,
+  artifact, PDF, staged-release, commit, or reconciliation gates on each live teaching turn.
+- **Current-affairs, exam generation, answer evaluation, notes, and other workflows:** follow
+  their own named sections and tools. Do not inherit offline-package-only gates unless the task
+  explicitly creates or repairs an offline package.
+
+Shared principles such as factual accuracy, no fabrication, complete syllabus coverage, no
+skipping/compression, and honest source ownership apply everywhere. Workflow-specific mechanics
+apply only to the routed workflow above.
+
 - **Verify before stating.** Never present unverified training-knowledge facts as ground truth.
   Use `web_search` for CA/recent facts; use Qdrant for book facts. If uncertain, say so.
   Wrong data in UPSC prep is worse than no data — this rule overrides convenience.
@@ -44,6 +62,14 @@
   freeze cleared surfaces; generate PDFs once after visible Markdown stabilizes; use focused
   re-reviews after the first full review; finish with one full development gate, staged release
   gate, diff check, commit, and push. Optimization never waives completeness or integrity.
+- **Mandatory pre-pass compliance gate:** before every development, independent-review,
+  focused-repair, PDF, or release pass, explicitly verify that the frozen scope still covers the
+  complete syllabus, canonical/formal obligations, relevant verified PYQs, traps, comparisons,
+  criticisms, applications, visuals, and answer-writing transfer. Confirm that nothing was
+  skipped, compressed, merged away, weakened, or deferred; MCQ totals must be derived from an
+  explicit test-cell matrix rather than a template count. Optimization may remove duplicate work,
+  repeated scans, unnecessary rebuilds, and idle serialization only; it may never waive a content
+  or integrity gate. Stop the pass immediately if any condition fails.
 - **Safe topic parallelism:** independent UPSC topics may run concurrently only in isolated
   package scopes. Each topic retains complete preflight, teaching, practice, authored review,
   PDF, independent-review, release-validation, commit, and push requirements. Never skip,

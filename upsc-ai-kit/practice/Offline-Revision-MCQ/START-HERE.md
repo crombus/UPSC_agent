@@ -3,6 +3,11 @@
 This directory is the portable, Agency-independent study and practice system.
 It must remain usable from the repository alone in Markdown and PDF form.
 
+For AI/Copilot execution of package generation, reconciliation, review, validation, release, or
+scheduled continuation, first read `C:\up\OFFLINE-PACKAGE-AGENT-INSTRUCTIONS.md`. That file contains
+agent-only workflow mechanics. It does not apply to interactive Guided Tutor or other live learning
+sessions.
+
 ## Recall and continuation commands
 
 - `Recall Offline Revision System`
@@ -120,6 +125,19 @@ It must remain usable from the repository alone in Markdown and PDF form.
       7. Finish with one full development validation, one staged release validation, `git diff
          --check`, then commit and push. These optimizations reduce repetition only; they never
          waive coverage, semantic integrity, independent review, or release gates.
+    - **Mandatory pre-pass compliance gate (locked):**
+      - Before every development, independent-review, focused-repair, PDF, or release pass,
+        verify against the frozen ledger that the complete syllabus, canonical/formal
+        obligations, relevant verified PYQs, traps, comparisons, criticisms, applications,
+        visuals, and answer-writing transfer remain covered.
+      - Confirm explicitly that no concept or required surface was skipped, compressed, merged
+        away, weakened, or deferred.
+      - Recompute MCQ sufficiency from an explicit topic-specific test-cell matrix. A familiar,
+        equal, convenient, or template total is never evidence of completeness.
+      - Optimize only duplicate work, repeated scans, unnecessary rebuilds, and idle
+        serialization. Never optimize away a content, evidence, review, or integrity gate.
+      - If any check fails, stop that pass, freeze the defect, repair it, and rerun only the
+        affected focused checks before the final full gate.
     - **Safe parallelism rule (locked):**
       - Independent topics may be reconciled concurrently when they have isolated package
         directories, independent source ledgers, and no unresolved cross-topic ownership writes.

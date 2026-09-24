@@ -1,0 +1,669 @@
+{
+  "schema_version": 5,
+  "derived_from": "FORMAL-COVERAGE-REVIEW.json",
+  "review_sha256": "1b466378c8c8c1c71c67bb90c6877fea194a41bfb96134aeca92d5ba1c4a30cc",
+  "decision_count": 372,
+  "covered": 372,
+  "routed": 0,
+  "unclassified": 0,
+  "source_counts": {
+    "formal_session": 309,
+    "formal_workbook": 63
+  },
+  "large_leaf_segmented": 42,
+  "parent_blocks": 27,
+  "raw_proposition_mappings": 3068,
+  "unique_normalized_semantic_propositions": 2349,
+  "deduplicated_repetitions": 719,
+  "proposition_catalog_sha256": "efcc98ce3fdfad80b51cd8e809348486b8b40a29d95ab135d4934c35fc98b50f",
+  "raw_mappings_sha256": "d7985563f86537aae973a315f28d0c1fa5a586c6554f52b31715e0630e654b08",
+  "excluded_structural_coordinates": 2157,
+  "excluded_structural_per_category": {
+    "code_fence": 96,
+    "diagram_structure": 172,
+    "document_metadata": 2,
+    "document_structure": 0,
+    "heading_or_navigation": 372,
+    "table_structure": 74,
+    "whitespace": 1441
+  },
+  "excluded_structural_per_type": {
+    "blank_line": 1441,
+    "code_fence_close": 48,
+    "code_fence_open": 48,
+    "diagram_border_or_connector_only": 172,
+    "heading": 372,
+    "navigation_label": 0,
+    "table_header": 37,
+    "table_scaffolding": 0,
+    "table_separator": 37,
+    "thematic_break": 0,
+    "yaml_frontmatter": 2
+  },
+  "excluded_structural_coordinates_sha256": "b129684ffa52c3ef4cf32c4afd153e19b4c0d6b23d5ca74b8b48d1e43de48854",
+  "meaningful_proposition_samples": 66,
+  "meaningful_sample_categories": {
+    "corpus_position": 3,
+    "parent_block": 7,
+    "large_leaf": 42,
+    "panel": 14
+  },
+  "meaningful_samples_sha256": "a90299ce44adad44af704ba37d4cba811eaf168a08a3f94da8fa2accb7d8c610",
+  "meaningful_samples": [
+    {
+      "sample_id": "sample-dd4a210fe7c5d3d028058c4f",
+      "category": "corpus_position",
+      "target": "beginning",
+      "mapping_id": "map-session-document-prelude-000-a869c3fe74-001",
+      "proposition_id": "prop-1450254809ef307b3607",
+      "source_block_id": "session-document-prelude-000-a869c3fe74",
+      "normalized_payload_sha256": "1450254809ef307b3607d848ba94cb97dc2082d9172e84ac1173f832a52a28f6"
+    },
+    {
+      "sample_id": "sample-0adeb1ba7060ab75f2ac0d62",
+      "category": "corpus_position",
+      "target": "middle",
+      "mapping_id": "map-session-mcq-16-two-no-selves-precisely-distinguished-230-029519568e-006",
+      "proposition_id": "prop-7e43841ed5e6adefdb62",
+      "source_block_id": "session-mcq-16-two-no-selves-precisely-distinguished-230-029519568e",
+      "normalized_payload_sha256": "7e43841ed5e6adefdb62879b5d9b0aa4d6da334031d7e75231550f15564fd0a9"
+    },
+    {
+      "sample_id": "sample-7f0e07921074183a9701b557",
+      "category": "corpus_position",
+      "target": "end",
+      "mapping_id": "map-workbook-original-6-20-marks-062-fd05b721ce-009",
+      "proposition_id": "prop-0d75849d332e9d5465bf",
+      "source_block_id": "workbook-original-6-20-marks-062-fd05b721ce",
+      "normalized_payload_sha256": "0d75849d332e9d5465bf6254334f9534732dc0f0c7a077269fecbbab84049d6f"
+    },
+    {
+      "sample_id": "sample-ad437df993e3223e1c2c22e5",
+      "category": "large_leaf",
+      "target": "session-concept-spine-english-first-sanskrit-or-pali-immediately-after-003-d2c6f4f576",
+      "mapping_id": "map-session-concept-spine-english-first-sanskrit-or-pali-immediately-after-003-d2c6f4f576-014",
+      "proposition_id": "prop-55b54cef3d849182bdf7",
+      "source_block_id": "session-concept-spine-english-first-sanskrit-or-pali-immediately-after-003-d2c6f4f576",
+      "normalized_payload_sha256": "55b54cef3d849182bdf70456a17cbb800c0f9ec5b6e8f7957fefa9d5aafbbf8c"
+    },
+    {
+      "sample_id": "sample-6ad7aa77242e97a6c5a17b66",
+      "category": "large_leaf",
+      "target": "session-2-the-argument-from-causal-efficacy-arthakriyākāritva-080-0d68b690c3",
+      "mapping_id": "map-session-2-the-argument-from-causal-efficacy-arthakriyākāritva-080-0d68b690c3-015",
+      "proposition_id": "prop-95facbf0cd3ae954864e",
+      "source_block_id": "session-2-the-argument-from-causal-efficacy-arthakriyākāritva-080-0d68b690c3",
+      "normalized_payload_sha256": "95facbf0cd3ae954864eeb184ff4042a7788ecc8e139d86c1f1318e40f44e273"
+    },
+    {
+      "sample_id": "sample-82b535a0e65bb4b3d6c60d3d",
+      "category": "large_leaf",
+      "target": "session-6-inter-school-positioning-207-6f7b65124f",
+      "mapping_id": "map-session-6-inter-school-positioning-207-6f7b65124f-012",
+      "proposition_id": "prop-0d44c2dae7405faead5e",
+      "source_block_id": "session-6-inter-school-positioning-207-6f7b65124f",
+      "normalized_payload_sha256": "0d44c2dae7405faead5ebba0549d76d996df9534f6c708a99d679b881896c366"
+    },
+    {
+      "sample_id": "sample-6322b790388d633dcc21505a",
+      "category": "large_leaf",
+      "target": "session-7-the-graded-verdict-and-the-answer-architecture-208-e377b3038b",
+      "mapping_id": "map-session-7-the-graded-verdict-and-the-answer-architecture-208-e377b3038b-018",
+      "proposition_id": "prop-a579211511270dc24b2e",
+      "source_block_id": "session-7-the-graded-verdict-and-the-answer-architecture-208-e377b3038b",
+      "normalized_payload_sha256": "a579211511270dc24b2efb2e7e689bc93094bcd1b073c749016f00ced641872f"
+    },
+    {
+      "sample_id": "sample-5e8f97305eb18274d6cf04df",
+      "category": "parent_block",
+      "target": "session-32-original-mcqs-24-core-diagnostics-and-8-remedial-error-targeting-drills-213-6d99d0f1db",
+      "mapping_id": "map-session-32-original-mcqs-24-core-diagnostics-and-8-remedial-error-targeting-drills-213-6d99d0f1db-001",
+      "proposition_id": "prop-874167d280139fee361d",
+      "source_block_id": "session-32-original-mcqs-24-core-diagnostics-and-8-remedial-error-targeting-drills-213-6d99d0f1db",
+      "normalized_payload_sha256": "874167d280139fee361dc4ed9522697db8efcc58974a73b262c1e8c66d2f8279"
+    },
+    {
+      "sample_id": "sample-2c7ab849002196b93d7a8738",
+      "category": "parent_block",
+      "target": "session-practice-status-and-source-discipline-read-once-applies-to-every-solution-be-249-696ba8585a",
+      "mapping_id": "map-session-practice-status-and-source-discipline-read-once-applies-to-every-solution-be-249-696ba8585a-001",
+      "proposition_id": "prop-910193ba105773d72863",
+      "source_block_id": "session-practice-status-and-source-discipline-read-once-applies-to-every-solution-be-249-696ba8585a",
+      "normalized_payload_sha256": "910193ba105773d728630b5a21d1eef70562a9ebd9cf1cf48ef48eaa08be12c3"
+    },
+    {
+      "sample_id": "sample-a4e1a84fe4fbba7e1619383e",
+      "category": "large_leaf",
+      "target": "session-pyq-2-2018-q6-b-15-marks-buddhism-252-86262aa631",
+      "mapping_id": "map-session-pyq-2-2018-q6-b-15-marks-buddhism-252-86262aa631-005",
+      "proposition_id": "prop-689e42e687bf2af6409d",
+      "source_block_id": "session-pyq-2-2018-q6-b-15-marks-buddhism-252-86262aa631",
+      "normalized_payload_sha256": "689e42e687bf2af6409d525e354a599d69d395ba11829baf18b5be12e666a4cb"
+    },
+    {
+      "sample_id": "sample-5d8a9b0706c1d1c816b60e5d",
+      "category": "large_leaf",
+      "target": "session-pyq-4-2019-q7-c-15-marks-buddhism-254-183a199922",
+      "mapping_id": "map-session-pyq-4-2019-q7-c-15-marks-buddhism-254-183a199922-006",
+      "proposition_id": "prop-2029ae95199fcc768ffb",
+      "source_block_id": "session-pyq-4-2019-q7-c-15-marks-buddhism-254-183a199922",
+      "normalized_payload_sha256": "2029ae95199fcc768ffbd6232dd56b95d8c47b0a7415c7fe4901cc06cf12d7fd"
+    },
+    {
+      "sample_id": "sample-340d881cd9330066b6beaaac",
+      "category": "large_leaf",
+      "target": "session-pyq-5-2020-q6-a-20-marks-buddhism-255-4d1e20352f",
+      "mapping_id": "map-session-pyq-5-2020-q6-a-20-marks-buddhism-255-4d1e20352f-005",
+      "proposition_id": "prop-3823821779c00b49fb46",
+      "source_block_id": "session-pyq-5-2020-q6-a-20-marks-buddhism-255-4d1e20352f",
+      "normalized_payload_sha256": "3823821779c00b49fb46375c2522903afc2117c9edade08ea526a77b88122015"
+    },
+    {
+      "sample_id": "sample-e9f3dc4e855793188740a295",
+      "category": "large_leaf",
+      "target": "session-pyq-6-2020-q7-b-15-marks-buddhism-256-0cbff3e723",
+      "mapping_id": "map-session-pyq-6-2020-q7-b-15-marks-buddhism-256-0cbff3e723-005",
+      "proposition_id": "prop-734b11e1335118a6006b",
+      "source_block_id": "session-pyq-6-2020-q7-b-15-marks-buddhism-256-0cbff3e723",
+      "normalized_payload_sha256": "734b11e1335118a6006b85b312d1feb92eff4bf50e2c9c70da7ae414bf404626"
+    },
+    {
+      "sample_id": "sample-55c8f4f5f5200975dffb8526",
+      "category": "large_leaf",
+      "target": "session-pyq-8-2021-q7-b-15-marks-buddhism-258-e702aa83a3",
+      "mapping_id": "map-session-pyq-8-2021-q7-b-15-marks-buddhism-258-e702aa83a3-005",
+      "proposition_id": "prop-10dc19e5946ff48612e7",
+      "source_block_id": "session-pyq-8-2021-q7-b-15-marks-buddhism-258-e702aa83a3",
+      "normalized_payload_sha256": "10dc19e5946ff48612e7e6ad00301aa8667e32ad9cd3bed3c65fea2359d83682"
+    },
+    {
+      "sample_id": "sample-74e813bb4e3d84b6baa9b182",
+      "category": "large_leaf",
+      "target": "session-pyq-9-2022-q6-a-20-marks-buddhism-259-151eb6beea",
+      "mapping_id": "map-session-pyq-9-2022-q6-a-20-marks-buddhism-259-151eb6beea-005",
+      "proposition_id": "prop-d6dc02efa2a862502c6e",
+      "source_block_id": "session-pyq-9-2022-q6-a-20-marks-buddhism-259-151eb6beea",
+      "normalized_payload_sha256": "d6dc02efa2a862502c6eec18ca33327a9d624e8d602cede75d51acb0c97a3bb9"
+    },
+    {
+      "sample_id": "sample-41f63f847de9f261bdcc414c",
+      "category": "large_leaf",
+      "target": "session-pyq-10-2022-q7-b-15-marks-buddhism-260-0388f5c0a6",
+      "mapping_id": "map-session-pyq-10-2022-q7-b-15-marks-buddhism-260-0388f5c0a6-005",
+      "proposition_id": "prop-0273bd468ec2a379e0e9",
+      "source_block_id": "session-pyq-10-2022-q7-b-15-marks-buddhism-260-0388f5c0a6",
+      "normalized_payload_sha256": "0273bd468ec2a379e0e908b09c895d06dbada5b4bc3318007fc1b971ae21f9c7"
+    },
+    {
+      "sample_id": "sample-d3584d9d0ac0de1c6aecceff",
+      "category": "large_leaf",
+      "target": "session-pyq-11-2023-q8-a-20-marks-buddhism-261-5835066a1c",
+      "mapping_id": "map-session-pyq-11-2023-q8-a-20-marks-buddhism-261-5835066a1c-006",
+      "proposition_id": "prop-db4d6e54adc6ad41d84a",
+      "source_block_id": "session-pyq-11-2023-q8-a-20-marks-buddhism-261-5835066a1c",
+      "normalized_payload_sha256": "db4d6e54adc6ad41d84a068de241131bcceb8c0068a2ef93a21fb753dc87d602"
+    },
+    {
+      "sample_id": "sample-7a68749f275bbddeece08e96",
+      "category": "large_leaf",
+      "target": "session-pyq-12-2024-q6-b-15-marks-buddhism-262-3af999be5a",
+      "mapping_id": "map-session-pyq-12-2024-q6-b-15-marks-buddhism-262-3af999be5a-005",
+      "proposition_id": "prop-46ef43ed8d7604336824",
+      "source_block_id": "session-pyq-12-2024-q6-b-15-marks-buddhism-262-3af999be5a",
+      "normalized_payload_sha256": "46ef43ed8d76043368244e601147e0fa96434ebe145ebae9f0b3ef1acad76af4"
+    },
+    {
+      "sample_id": "sample-f1561daf839a0e6dce625921",
+      "category": "large_leaf",
+      "target": "session-pyq-13-2025-q8-c-15-marks-buddhism-263-2776d08006",
+      "mapping_id": "map-session-pyq-13-2025-q8-c-15-marks-buddhism-263-2776d08006-006",
+      "proposition_id": "prop-9ef0fd1192f771fd0c97",
+      "source_block_id": "session-pyq-13-2025-q8-c-15-marks-buddhism-263-2776d08006",
+      "normalized_payload_sha256": "9ef0fd1192f771fd0c974f1e213a32669f4b89414b655ef03fdf833b34fdcbd8"
+    },
+    {
+      "sample_id": "sample-42f4127158073b887519b966",
+      "category": "large_leaf",
+      "target": "session-pyq-15-2024-q6-a-20-marks-cārvāka-supporting-routed-question-265-67b70df2ad",
+      "mapping_id": "map-session-pyq-15-2024-q6-a-20-marks-cārvāka-supporting-routed-question-265-67b70df2ad-006",
+      "proposition_id": "prop-ea8e54d166180293b534",
+      "source_block_id": "session-pyq-15-2024-q6-a-20-marks-cārvāka-supporting-routed-question-265-67b70df2ad",
+      "normalized_payload_sha256": "ea8e54d166180293b534e66dfe1c1570acbec1de07f0a5d78af480e6d17a53c9"
+    },
+    {
+      "sample_id": "sample-dece7500936a731d4802d97e",
+      "category": "large_leaf",
+      "target": "session-original-3-15-marks-270-cf64007ecd",
+      "mapping_id": "map-session-original-3-15-marks-270-cf64007ecd-005",
+      "proposition_id": "prop-48fd0d129d9d93921625",
+      "source_block_id": "session-original-3-15-marks-270-cf64007ecd",
+      "normalized_payload_sha256": "48fd0d129d9d93921625280230b95a962be297c7943804f4bad2822f7c631c7e"
+    },
+    {
+      "sample_id": "sample-9aa2ae65b84e6aea8b6f4c1e",
+      "category": "large_leaf",
+      "target": "session-original-4-15-marks-271-dbed30a866",
+      "mapping_id": "map-session-original-4-15-marks-271-dbed30a866-005",
+      "proposition_id": "prop-7d645468568bc9f1b851",
+      "source_block_id": "session-original-4-15-marks-271-dbed30a866",
+      "normalized_payload_sha256": "7d645468568bc9f1b8511377f69949a09af640c15a3fe2af16df0b70a11417a2"
+    },
+    {
+      "sample_id": "sample-148b26d72522e8aec41a6268",
+      "category": "large_leaf",
+      "target": "session-original-5-20-marks-272-aa84133532",
+      "mapping_id": "map-session-original-5-20-marks-272-aa84133532-005",
+      "proposition_id": "prop-a6fc836ea732a1c3c847",
+      "source_block_id": "session-original-5-20-marks-272-aa84133532",
+      "normalized_payload_sha256": "a6fc836ea732a1c3c8474a56e03ad40ce7da77f3b75d961e0d6b0dbf4d00a9f8"
+    },
+    {
+      "sample_id": "sample-e0e3004a7b0c73c294783932",
+      "category": "large_leaf",
+      "target": "session-original-6-20-marks-273-fd05b721ce",
+      "mapping_id": "map-session-original-6-20-marks-273-fd05b721ce-005",
+      "proposition_id": "prop-0298c001457307db876a",
+      "source_block_id": "session-original-6-20-marks-273-fd05b721ce",
+      "normalized_payload_sha256": "0298c001457307db876a956a6bc03cef3217905d5761a7df2ba56b7c10791e3a"
+    },
+    {
+      "sample_id": "sample-b9616ed14273815c2eebfb61",
+      "category": "parent_block",
+      "target": "session-optional-advanced-depth-not-required-for-a-core-answer-274-7663853cf6",
+      "mapping_id": "map-session-optional-advanced-depth-not-required-for-a-core-answer-274-7663853cf6-001",
+      "proposition_id": "prop-5382788f8ff6770df863",
+      "source_block_id": "session-optional-advanced-depth-not-required-for-a-core-answer-274-7663853cf6",
+      "normalized_payload_sha256": "5382788f8ff6770df863ff9fccfdbb29239384b770d6cb24bac83b6f9fd3b848"
+    },
+    {
+      "sample_id": "sample-20c03f9215d7325c5652bc6b",
+      "category": "parent_block",
+      "target": "session-consolidated-register-notes-281-91ad15b518",
+      "mapping_id": "map-session-consolidated-register-notes-281-91ad15b518-001",
+      "proposition_id": "prop-a2257e1e2b9e1bfab0f5",
+      "source_block_id": "session-consolidated-register-notes-281-91ad15b518",
+      "normalized_payload_sha256": "a2257e1e2b9e1bfab0f5a3960a0346b8ac45a0b167e59a561b7b6cd5419fec74"
+    },
+    {
+      "sample_id": "sample-d9236369261ac731bd72563c",
+      "category": "large_leaf",
+      "target": "session-l-objections-comparisons-and-answer-discipline-293-df43d8d2a2",
+      "mapping_id": "map-session-l-objections-comparisons-and-answer-discipline-293-df43d8d2a2-013",
+      "proposition_id": "prop-ff0652f4704fa3e97db6",
+      "source_block_id": "session-l-objections-comparisons-and-answer-discipline-293-df43d8d2a2",
+      "normalized_payload_sha256": "ff0652f4704fa3e97db6e3ebc06beee83e349ad80bd867fab7650b9fc81912cd"
+    },
+    {
+      "sample_id": "sample-58aa007d444fceb2f3faee05",
+      "category": "parent_block",
+      "target": "session-complete-topic-ascii-master-flow-diagram-294-b7d17010d7",
+      "mapping_id": "map-session-complete-topic-ascii-master-flow-diagram-294-b7d17010d7-001",
+      "proposition_id": "prop-7597adf01bf59f712107",
+      "source_block_id": "session-complete-topic-ascii-master-flow-diagram-294-b7d17010d7",
+      "normalized_payload_sha256": "7597adf01bf59f712107e75cb7ca56dfe4bc9a41c86a21e8b97a057dd9a2983e"
+    },
+    {
+      "sample_id": "sample-50d7cc687ec360282192ad7c",
+      "category": "large_leaf",
+      "target": "session-ascii-master-flow-panel-2-14-the-double-middle-path-296-8b58c476e3",
+      "mapping_id": "map-session-ascii-master-flow-panel-2-14-the-double-middle-path-296-8b58c476e3-014",
+      "proposition_id": "prop-56af23b1e4b81c8fd623",
+      "source_block_id": "session-ascii-master-flow-panel-2-14-the-double-middle-path-296-8b58c476e3",
+      "normalized_payload_sha256": "56af23b1e4b81c8fd623943b41c71ef56e283c4c039aa1edc406a760f6826147"
+    },
+    {
+      "sample_id": "sample-026a6e17e9fa80599788375d",
+      "category": "large_leaf",
+      "target": "session-ascii-master-flow-panel-6-14-momentariness-the-elimination-argument-300-81699ec995",
+      "mapping_id": "map-session-ascii-master-flow-panel-6-14-momentariness-the-elimination-argument-300-81699ec995-015",
+      "proposition_id": "prop-65e113a5bfe85766a9da",
+      "source_block_id": "session-ascii-master-flow-panel-6-14-momentariness-the-elimination-argument-300-81699ec995",
+      "normalized_payload_sha256": "65e113a5bfe85766a9da19f1a85d2332055f58aaa0c912941772413d0546656b"
+    },
+    {
+      "sample_id": "sample-2c3d5f2ce7b9ff48018f882f",
+      "category": "large_leaf",
+      "target": "session-ascii-master-flow-panel-9-14-cessation-the-three-jewels-and-the-consistency--303-8ce8a181f8",
+      "mapping_id": "map-session-ascii-master-flow-panel-9-14-cessation-the-three-jewels-and-the-consistency--303-8ce8a181f8-016",
+      "proposition_id": "prop-0bc2fb93326f1f653850",
+      "source_block_id": "session-ascii-master-flow-panel-9-14-cessation-the-three-jewels-and-the-consistency--303-8ce8a181f8",
+      "normalized_payload_sha256": "0bc2fb93326f1f65385037fb34b389b36c6f4d6eec00e73b37099b6c4ae7ce96"
+    },
+    {
+      "sample_id": "sample-dd13be784a6313ee779a6219",
+      "category": "large_leaf",
+      "target": "session-ascii-master-flow-panel-10-14-the-four-schools-as-one-escalation-304-c91ea8e982",
+      "mapping_id": "map-session-ascii-master-flow-panel-10-14-the-four-schools-as-one-escalation-304-c91ea8e982-020",
+      "proposition_id": "prop-2b786dad6c1c6666eb17",
+      "source_block_id": "session-ascii-master-flow-panel-10-14-the-four-schools-as-one-escalation-304-c91ea8e982",
+      "normalized_payload_sha256": "2b786dad6c1c6666eb1700ef0ce00a60768be91aeec8531faf37bd50ffeceae6"
+    },
+    {
+      "sample_id": "sample-182180f20bf62be430684dfe",
+      "category": "large_leaf",
+      "target": "session-ascii-master-flow-panel-12-14-knowing-meaning-and-the-silence-306-73ba145c35",
+      "mapping_id": "map-session-ascii-master-flow-panel-12-14-knowing-meaning-and-the-silence-306-73ba145c35-016",
+      "proposition_id": "prop-b35d69f3f7686e46e0f4",
+      "source_block_id": "session-ascii-master-flow-panel-12-14-knowing-meaning-and-the-silence-306-73ba145c35",
+      "normalized_payload_sha256": "b35d69f3f7686e46e0f4613aedf6b1e13468317f73b7bd8ff19e4706bdeb8e0b"
+    },
+    {
+      "sample_id": "sample-c77928890910c963c89b72a8",
+      "category": "large_leaf",
+      "target": "session-ascii-master-flow-panel-13-14-named-objections-replies-residues-and-comparis-307-c64544a584",
+      "mapping_id": "map-session-ascii-master-flow-panel-13-14-named-objections-replies-residues-and-comparis-307-c64544a584-018",
+      "proposition_id": "prop-827a1a3dac9cbf1341e5",
+      "source_block_id": "session-ascii-master-flow-panel-13-14-named-objections-replies-residues-and-comparis-307-c64544a584",
+      "normalized_payload_sha256": "827a1a3dac9cbf1341e5b4c8491be1b8f1dd64b78eb20f8c299ba56a483886fa"
+    },
+    {
+      "sample_id": "sample-cdfb45221710a33f006b74e8",
+      "category": "large_leaf",
+      "target": "session-ascii-master-flow-panel-14-14-verdict-grid-answer-rail-and-the-closing-line-308-3a7797da77",
+      "mapping_id": "map-session-ascii-master-flow-panel-14-14-verdict-grid-answer-rail-and-the-closing-line-308-3a7797da77-017",
+      "proposition_id": "prop-10fd98572f8022cd7c1c",
+      "source_block_id": "session-ascii-master-flow-panel-14-14-verdict-grid-answer-rail-and-the-closing-line-308-3a7797da77",
+      "normalized_payload_sha256": "10fd98572f8022cd7c1ca8f6f6596f1e1068b2fd34f9bca748b37b139deeadb5"
+    },
+    {
+      "sample_id": "sample-433af60c80e2037e0ba0d3f1",
+      "category": "parent_block",
+      "target": "workbook-32-original-mcqs-24-core-diagnostics-and-8-remedial-error-targeting-drills-002-6d99d0f1db",
+      "mapping_id": "map-workbook-32-original-mcqs-24-core-diagnostics-and-8-remedial-error-targeting-drills-002-6d99d0f1db-001",
+      "proposition_id": "prop-874167d280139fee361d",
+      "source_block_id": "workbook-32-original-mcqs-24-core-diagnostics-and-8-remedial-error-targeting-drills-002-6d99d0f1db",
+      "normalized_payload_sha256": "874167d280139fee361dc4ed9522697db8efcc58974a73b262c1e8c66d2f8279"
+    },
+    {
+      "sample_id": "sample-236d6359e597bf584f614c62",
+      "category": "parent_block",
+      "target": "workbook-practice-status-and-source-discipline-read-once-applies-to-every-solution-be-038-696ba8585a",
+      "mapping_id": "map-workbook-practice-status-and-source-discipline-read-once-applies-to-every-solution-be-038-696ba8585a-001",
+      "proposition_id": "prop-910193ba105773d72863",
+      "source_block_id": "workbook-practice-status-and-source-discipline-read-once-applies-to-every-solution-be-038-696ba8585a",
+      "normalized_payload_sha256": "910193ba105773d728630b5a21d1eef70562a9ebd9cf1cf48ef48eaa08be12c3"
+    },
+    {
+      "sample_id": "sample-a2377db45fcede0efda29bd9",
+      "category": "large_leaf",
+      "target": "workbook-pyq-2-2018-q6-b-15-marks-buddhism-041-86262aa631",
+      "mapping_id": "map-workbook-pyq-2-2018-q6-b-15-marks-buddhism-041-86262aa631-005",
+      "proposition_id": "prop-689e42e687bf2af6409d",
+      "source_block_id": "workbook-pyq-2-2018-q6-b-15-marks-buddhism-041-86262aa631",
+      "normalized_payload_sha256": "689e42e687bf2af6409d525e354a599d69d395ba11829baf18b5be12e666a4cb"
+    },
+    {
+      "sample_id": "sample-dfdc916956d59f9c330f4abf",
+      "category": "large_leaf",
+      "target": "workbook-pyq-4-2019-q7-c-15-marks-buddhism-043-183a199922",
+      "mapping_id": "map-workbook-pyq-4-2019-q7-c-15-marks-buddhism-043-183a199922-006",
+      "proposition_id": "prop-2029ae95199fcc768ffb",
+      "source_block_id": "workbook-pyq-4-2019-q7-c-15-marks-buddhism-043-183a199922",
+      "normalized_payload_sha256": "2029ae95199fcc768ffbd6232dd56b95d8c47b0a7415c7fe4901cc06cf12d7fd"
+    },
+    {
+      "sample_id": "sample-79fc976ab6542f220e209da6",
+      "category": "large_leaf",
+      "target": "workbook-pyq-5-2020-q6-a-20-marks-buddhism-044-4d1e20352f",
+      "mapping_id": "map-workbook-pyq-5-2020-q6-a-20-marks-buddhism-044-4d1e20352f-005",
+      "proposition_id": "prop-3823821779c00b49fb46",
+      "source_block_id": "workbook-pyq-5-2020-q6-a-20-marks-buddhism-044-4d1e20352f",
+      "normalized_payload_sha256": "3823821779c00b49fb46375c2522903afc2117c9edade08ea526a77b88122015"
+    },
+    {
+      "sample_id": "sample-416dab701e3842ebc71f0ad3",
+      "category": "large_leaf",
+      "target": "workbook-pyq-6-2020-q7-b-15-marks-buddhism-045-0cbff3e723",
+      "mapping_id": "map-workbook-pyq-6-2020-q7-b-15-marks-buddhism-045-0cbff3e723-005",
+      "proposition_id": "prop-734b11e1335118a6006b",
+      "source_block_id": "workbook-pyq-6-2020-q7-b-15-marks-buddhism-045-0cbff3e723",
+      "normalized_payload_sha256": "734b11e1335118a6006b85b312d1feb92eff4bf50e2c9c70da7ae414bf404626"
+    },
+    {
+      "sample_id": "sample-bd063ef9c76c63c21e67cfde",
+      "category": "large_leaf",
+      "target": "workbook-pyq-8-2021-q7-b-15-marks-buddhism-047-e702aa83a3",
+      "mapping_id": "map-workbook-pyq-8-2021-q7-b-15-marks-buddhism-047-e702aa83a3-005",
+      "proposition_id": "prop-10dc19e5946ff48612e7",
+      "source_block_id": "workbook-pyq-8-2021-q7-b-15-marks-buddhism-047-e702aa83a3",
+      "normalized_payload_sha256": "10dc19e5946ff48612e7e6ad00301aa8667e32ad9cd3bed3c65fea2359d83682"
+    },
+    {
+      "sample_id": "sample-462aadd1b5d89917795cd4ab",
+      "category": "large_leaf",
+      "target": "workbook-pyq-9-2022-q6-a-20-marks-buddhism-048-151eb6beea",
+      "mapping_id": "map-workbook-pyq-9-2022-q6-a-20-marks-buddhism-048-151eb6beea-005",
+      "proposition_id": "prop-d6dc02efa2a862502c6e",
+      "source_block_id": "workbook-pyq-9-2022-q6-a-20-marks-buddhism-048-151eb6beea",
+      "normalized_payload_sha256": "d6dc02efa2a862502c6eec18ca33327a9d624e8d602cede75d51acb0c97a3bb9"
+    },
+    {
+      "sample_id": "sample-7dc98836590fa1c018e0cd31",
+      "category": "large_leaf",
+      "target": "workbook-pyq-10-2022-q7-b-15-marks-buddhism-049-0388f5c0a6",
+      "mapping_id": "map-workbook-pyq-10-2022-q7-b-15-marks-buddhism-049-0388f5c0a6-005",
+      "proposition_id": "prop-0273bd468ec2a379e0e9",
+      "source_block_id": "workbook-pyq-10-2022-q7-b-15-marks-buddhism-049-0388f5c0a6",
+      "normalized_payload_sha256": "0273bd468ec2a379e0e908b09c895d06dbada5b4bc3318007fc1b971ae21f9c7"
+    },
+    {
+      "sample_id": "sample-bd93fbdf938e2113cc5776b9",
+      "category": "large_leaf",
+      "target": "workbook-pyq-11-2023-q8-a-20-marks-buddhism-050-5835066a1c",
+      "mapping_id": "map-workbook-pyq-11-2023-q8-a-20-marks-buddhism-050-5835066a1c-006",
+      "proposition_id": "prop-db4d6e54adc6ad41d84a",
+      "source_block_id": "workbook-pyq-11-2023-q8-a-20-marks-buddhism-050-5835066a1c",
+      "normalized_payload_sha256": "db4d6e54adc6ad41d84a068de241131bcceb8c0068a2ef93a21fb753dc87d602"
+    },
+    {
+      "sample_id": "sample-b02171b2fb516ff967810d21",
+      "category": "large_leaf",
+      "target": "workbook-pyq-12-2024-q6-b-15-marks-buddhism-051-3af999be5a",
+      "mapping_id": "map-workbook-pyq-12-2024-q6-b-15-marks-buddhism-051-3af999be5a-005",
+      "proposition_id": "prop-46ef43ed8d7604336824",
+      "source_block_id": "workbook-pyq-12-2024-q6-b-15-marks-buddhism-051-3af999be5a",
+      "normalized_payload_sha256": "46ef43ed8d76043368244e601147e0fa96434ebe145ebae9f0b3ef1acad76af4"
+    },
+    {
+      "sample_id": "sample-8c3e95f09e50014dc4042270",
+      "category": "large_leaf",
+      "target": "workbook-pyq-13-2025-q8-c-15-marks-buddhism-052-2776d08006",
+      "mapping_id": "map-workbook-pyq-13-2025-q8-c-15-marks-buddhism-052-2776d08006-006",
+      "proposition_id": "prop-9ef0fd1192f771fd0c97",
+      "source_block_id": "workbook-pyq-13-2025-q8-c-15-marks-buddhism-052-2776d08006",
+      "normalized_payload_sha256": "9ef0fd1192f771fd0c974f1e213a32669f4b89414b655ef03fdf833b34fdcbd8"
+    },
+    {
+      "sample_id": "sample-fd60c784307ac6ddb5b847f5",
+      "category": "large_leaf",
+      "target": "workbook-pyq-15-2024-q6-a-20-marks-cārvāka-supporting-routed-question-054-67b70df2ad",
+      "mapping_id": "map-workbook-pyq-15-2024-q6-a-20-marks-cārvāka-supporting-routed-question-054-67b70df2ad-006",
+      "proposition_id": "prop-ea8e54d166180293b534",
+      "source_block_id": "workbook-pyq-15-2024-q6-a-20-marks-cārvāka-supporting-routed-question-054-67b70df2ad",
+      "normalized_payload_sha256": "ea8e54d166180293b534e66dfe1c1570acbec1de07f0a5d78af480e6d17a53c9"
+    },
+    {
+      "sample_id": "sample-5b8f3d5cd293a5cb0c4120b6",
+      "category": "large_leaf",
+      "target": "workbook-original-3-15-marks-059-cf64007ecd",
+      "mapping_id": "map-workbook-original-3-15-marks-059-cf64007ecd-005",
+      "proposition_id": "prop-48fd0d129d9d93921625",
+      "source_block_id": "workbook-original-3-15-marks-059-cf64007ecd",
+      "normalized_payload_sha256": "48fd0d129d9d93921625280230b95a962be297c7943804f4bad2822f7c631c7e"
+    },
+    {
+      "sample_id": "sample-53bfcbd42d4ec2655bda5c34",
+      "category": "large_leaf",
+      "target": "workbook-original-4-15-marks-060-dbed30a866",
+      "mapping_id": "map-workbook-original-4-15-marks-060-dbed30a866-005",
+      "proposition_id": "prop-7d645468568bc9f1b851",
+      "source_block_id": "workbook-original-4-15-marks-060-dbed30a866",
+      "normalized_payload_sha256": "7d645468568bc9f1b8511377f69949a09af640c15a3fe2af16df0b70a11417a2"
+    },
+    {
+      "sample_id": "sample-cbe62e6e5f9cf6da0990371d",
+      "category": "large_leaf",
+      "target": "workbook-original-5-20-marks-061-aa84133532",
+      "mapping_id": "map-workbook-original-5-20-marks-061-aa84133532-005",
+      "proposition_id": "prop-a6fc836ea732a1c3c847",
+      "source_block_id": "workbook-original-5-20-marks-061-aa84133532",
+      "normalized_payload_sha256": "a6fc836ea732a1c3c8474a56e03ad40ce7da77f3b75d961e0d6b0dbf4d00a9f8"
+    },
+    {
+      "sample_id": "sample-c671b2cbb22ca6e264b62078",
+      "category": "large_leaf",
+      "target": "workbook-original-6-20-marks-062-fd05b721ce",
+      "mapping_id": "map-workbook-original-6-20-marks-062-fd05b721ce-005",
+      "proposition_id": "prop-0298c001457307db876a",
+      "source_block_id": "workbook-original-6-20-marks-062-fd05b721ce",
+      "normalized_payload_sha256": "0298c001457307db876a956a6bc03cef3217905d5761a7df2ba56b7c10791e3a"
+    },
+    {
+      "sample_id": "sample-668b6b9587f8d0db665294b3",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-1-14-the-therapeutic-architecture-and-the-answer-wor-295-6cc7fe1c83",
+      "mapping_id": "map-session-ascii-master-flow-panel-1-14-the-therapeutic-architecture-and-the-answer-wor-295-6cc7fe1c83-001",
+      "proposition_id": "prop-68a71300c0112760bdf9",
+      "source_block_id": "session-ascii-master-flow-panel-1-14-the-therapeutic-architecture-and-the-answer-wor-295-6cc7fe1c83",
+      "normalized_payload_sha256": "68a71300c0112760bdf97bdf41b6f854edb93ed5a63029fa83604815e540937a"
+    },
+    {
+      "sample_id": "sample-aae61938e0b7b62b77aa2df2",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-2-14-the-double-middle-path-296-8b58c476e3",
+      "mapping_id": "map-session-ascii-master-flow-panel-2-14-the-double-middle-path-296-8b58c476e3-001",
+      "proposition_id": "prop-108174f1f689bc244afd",
+      "source_block_id": "session-ascii-master-flow-panel-2-14-the-double-middle-path-296-8b58c476e3",
+      "normalized_payload_sha256": "108174f1f689bc244afdb135372894b799ad0c2d38b57022353287df0e31ce88"
+    },
+    {
+      "sample_id": "sample-701940368ab03bdf2662b5b3",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-3-14-who-is-speaking-traditions-labels-canons-ideals-297-3d35ac976b",
+      "mapping_id": "map-session-ascii-master-flow-panel-3-14-who-is-speaking-traditions-labels-canons-ideals-297-3d35ac976b-001",
+      "proposition_id": "prop-4fbbc913476cfb44413b",
+      "source_block_id": "session-ascii-master-flow-panel-3-14-who-is-speaking-traditions-labels-canons-ideals-297-3d35ac976b",
+      "normalized_payload_sha256": "4fbbc913476cfb44413b536370d0b63c40da896b18f816bc0f1c89f7a7bb43a2"
+    },
+    {
+      "sample_id": "sample-d467b4713aacfad419e699bb",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-4-14-dependent-origination-formula-argument-three-ma-298-974b127114",
+      "mapping_id": "map-session-ascii-master-flow-panel-4-14-dependent-origination-formula-argument-three-ma-298-974b127114-001",
+      "proposition_id": "prop-471ce490d196071bc453",
+      "source_block_id": "session-ascii-master-flow-panel-4-14-dependent-origination-formula-argument-three-ma-298-974b127114",
+      "normalized_payload_sha256": "471ce490d196071bc4538ad6ee4f5c0e7da9863b38250ac06c27b4bbd7d42cc1"
+    },
+    {
+      "sample_id": "sample-84b2e64538e5311311266b69",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-5-14-the-twelve-links-and-where-the-chain-is-cut-299-371cbb7e2d",
+      "mapping_id": "map-session-ascii-master-flow-panel-5-14-the-twelve-links-and-where-the-chain-is-cut-299-371cbb7e2d-001",
+      "proposition_id": "prop-e52640da70852d0119f6",
+      "source_block_id": "session-ascii-master-flow-panel-5-14-the-twelve-links-and-where-the-chain-is-cut-299-371cbb7e2d",
+      "normalized_payload_sha256": "e52640da70852d0119f69b0d8014096f7ada0ebb1c6e4e88e88e27d3f3fc3636"
+    },
+    {
+      "sample_id": "sample-3b3034aeccf2550d72eeb8ea",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-6-14-momentariness-the-elimination-argument-300-81699ec995",
+      "mapping_id": "map-session-ascii-master-flow-panel-6-14-momentariness-the-elimination-argument-300-81699ec995-001",
+      "proposition_id": "prop-c432a0de6003c563637a",
+      "source_block_id": "session-ascii-master-flow-panel-6-14-momentariness-the-elimination-argument-300-81699ec995",
+      "normalized_payload_sha256": "c432a0de6003c563637ab8c47e9cd3460f65fe43d627973c59438754131fedc4"
+    },
+    {
+      "sample_id": "sample-eec058884fe4f987d0f55083",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-7-14-no-permanent-self-the-exhaustive-analysis-301-6654ef4a37",
+      "mapping_id": "map-session-ascii-master-flow-panel-7-14-no-permanent-self-the-exhaustive-analysis-301-6654ef4a37-001",
+      "proposition_id": "prop-5d3d8d74d8e75de6cffe",
+      "source_block_id": "session-ascii-master-flow-panel-7-14-no-permanent-self-the-exhaustive-analysis-301-6654ef4a37",
+      "normalized_payload_sha256": "5d3d8d74d8e75de6cffe382df683276d17bac6229ab7e7630d67c11a209ed6f7"
+    },
+    {
+      "sample_id": "sample-1d6e69e8e44dbc93a4591a75",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-8-14-continuity-karma-memory-identity-rebirth-302-dcb3d36e8c",
+      "mapping_id": "map-session-ascii-master-flow-panel-8-14-continuity-karma-memory-identity-rebirth-302-dcb3d36e8c-001",
+      "proposition_id": "prop-210376b701e2184d6d26",
+      "source_block_id": "session-ascii-master-flow-panel-8-14-continuity-karma-memory-identity-rebirth-302-dcb3d36e8c",
+      "normalized_payload_sha256": "210376b701e2184d6d26704ec40eefda1e12afa8358627a549ab2f61fb051f7e"
+    },
+    {
+      "sample_id": "sample-cf28a3113562c30e41a3beb2",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-9-14-cessation-the-three-jewels-and-the-consistency--303-8ce8a181f8",
+      "mapping_id": "map-session-ascii-master-flow-panel-9-14-cessation-the-three-jewels-and-the-consistency--303-8ce8a181f8-001",
+      "proposition_id": "prop-9d0bf0442c80933c75cc",
+      "source_block_id": "session-ascii-master-flow-panel-9-14-cessation-the-three-jewels-and-the-consistency--303-8ce8a181f8",
+      "normalized_payload_sha256": "9d0bf0442c80933c75ccadc6188e2ebfdd2fe5175cf0db09d1c2119ae02a2bba"
+    },
+    {
+      "sample_id": "sample-eb860af061efd6eee09a22e2",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-10-14-the-four-schools-as-one-escalation-304-c91ea8e982",
+      "mapping_id": "map-session-ascii-master-flow-panel-10-14-the-four-schools-as-one-escalation-304-c91ea8e982-001",
+      "proposition_id": "prop-25327f1b59aa21f141ea",
+      "source_block_id": "session-ascii-master-flow-panel-10-14-the-four-schools-as-one-escalation-304-c91ea8e982",
+      "normalized_payload_sha256": "25327f1b59aa21f141ea9a2f8a3aca4095a558e71d32ee5c77adb81bc87ee92d"
+    },
+    {
+      "sample_id": "sample-169479a5506eda9318be8d5d",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-11-14-emptiness-derivation-four-corners-two-truths-305-69e562f12a",
+      "mapping_id": "map-session-ascii-master-flow-panel-11-14-emptiness-derivation-four-corners-two-truths-305-69e562f12a-001",
+      "proposition_id": "prop-b9a657d4a42b475be105",
+      "source_block_id": "session-ascii-master-flow-panel-11-14-emptiness-derivation-four-corners-two-truths-305-69e562f12a",
+      "normalized_payload_sha256": "b9a657d4a42b475be1055da4ad3f28d66d880633945164f0f52c911f394a669c"
+    },
+    {
+      "sample_id": "sample-979225315edd9ea61254b454",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-12-14-knowing-meaning-and-the-silence-306-73ba145c35",
+      "mapping_id": "map-session-ascii-master-flow-panel-12-14-knowing-meaning-and-the-silence-306-73ba145c35-001",
+      "proposition_id": "prop-d2d1d22d2c90cc73ceac",
+      "source_block_id": "session-ascii-master-flow-panel-12-14-knowing-meaning-and-the-silence-306-73ba145c35",
+      "normalized_payload_sha256": "d2d1d22d2c90cc73ceac6f40cd75f7850f1666bbf80c3b73659dabb64b265dac"
+    },
+    {
+      "sample_id": "sample-e30cd5bc25f19fda1b83e97c",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-13-14-named-objections-replies-residues-and-comparis-307-c64544a584",
+      "mapping_id": "map-session-ascii-master-flow-panel-13-14-named-objections-replies-residues-and-comparis-307-c64544a584-001",
+      "proposition_id": "prop-54c665ae7a0fbb339464",
+      "source_block_id": "session-ascii-master-flow-panel-13-14-named-objections-replies-residues-and-comparis-307-c64544a584",
+      "normalized_payload_sha256": "54c665ae7a0fbb3394642dec9907d423625dba835bc882b7351e16eb8c6971e6"
+    },
+    {
+      "sample_id": "sample-92763f2b451bfe09d879cd39",
+      "category": "panel",
+      "target": "session-ascii-master-flow-panel-14-14-verdict-grid-answer-rail-and-the-closing-line-308-3a7797da77",
+      "mapping_id": "map-session-ascii-master-flow-panel-14-14-verdict-grid-answer-rail-and-the-closing-line-308-3a7797da77-001",
+      "proposition_id": "prop-96129fd053f73508e10c",
+      "source_block_id": "session-ascii-master-flow-panel-14-14-verdict-grid-answer-rail-and-the-closing-line-308-3a7797da77",
+      "normalized_payload_sha256": "96129fd053f73508e10cdf15a969325add7b3d9c88872a862dca02238d02a894"
+    }
+  ],
+  "panel_parity": {
+    "expected": 14,
+    "actual": 14,
+    "panel_ids": [
+      "session-ascii-master-flow-panel-1-14-the-therapeutic-architecture-and-the-answer-wor-295-6cc7fe1c83",
+      "session-ascii-master-flow-panel-2-14-the-double-middle-path-296-8b58c476e3",
+      "session-ascii-master-flow-panel-3-14-who-is-speaking-traditions-labels-canons-ideals-297-3d35ac976b",
+      "session-ascii-master-flow-panel-4-14-dependent-origination-formula-argument-three-ma-298-974b127114",
+      "session-ascii-master-flow-panel-5-14-the-twelve-links-and-where-the-chain-is-cut-299-371cbb7e2d",
+      "session-ascii-master-flow-panel-6-14-momentariness-the-elimination-argument-300-81699ec995",
+      "session-ascii-master-flow-panel-7-14-no-permanent-self-the-exhaustive-analysis-301-6654ef4a37",
+      "session-ascii-master-flow-panel-8-14-continuity-karma-memory-identity-rebirth-302-dcb3d36e8c",
+      "session-ascii-master-flow-panel-9-14-cessation-the-three-jewels-and-the-consistency--303-8ce8a181f8",
+      "session-ascii-master-flow-panel-10-14-the-four-schools-as-one-escalation-304-c91ea8e982",
+      "session-ascii-master-flow-panel-11-14-emptiness-derivation-four-corners-two-truths-305-69e562f12a",
+      "session-ascii-master-flow-panel-12-14-knowing-meaning-and-the-silence-306-73ba145c35",
+      "session-ascii-master-flow-panel-13-14-named-objections-replies-residues-and-comparis-307-c64544a584",
+      "session-ascii-master-flow-panel-14-14-verdict-grid-answer-rail-and-the-closing-line-308-3a7797da77"
+    ]
+  },
+  "status": "DERIVED_COMPLETE"
+}

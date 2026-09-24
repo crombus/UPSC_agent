@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "artifacts": [
+    {
+      "file": "pdf\\Schools-of-Buddhism-Revision-Guide.pdf",
+      "source": "REVISION-GUIDE.md",
+      "source_sha256": "8906ab82dc4ff3b0f711586b76e912877f5bcc16477a468d9250bc45779a3e8c",
+      "pdf_sha256": "b825086545ad0ff00563f3574999657d1a2fc02d62bec215dcc167470ba3fee5",
+      "pages": 93,
+      "bytes": 369674
+    },
+    {
+      "file": "pdf\\Schools-of-Buddhism-MCQ-Questions.pdf",
+      "source": "MCQ-QUESTIONS.md",
+      "source_sha256": "455ca561ac63edeec1087e9fb9aa855ad649240d61c9d3486f01f67bacedc4f6",
+      "pdf_sha256": "c461d3edce8c89a89c06f3fa951572ce44da17c9e51f64a483c172af8191c54f",
+      "pages": 25,
+      "bytes": 105176
+    },
+    {
+      "file": "pdf\\Schools-of-Buddhism-MCQ-Solutions.pdf",
+      "source": "MCQ-SOLUTIONS.md",
+      "source_sha256": "879facbe43b45acde87892c64e3a2171a37009a34989edf617221e1224c7af36",
+      "pdf_sha256": "f1843ffa810b2513395e6eeca3a518a4a417c4c3defa5cc1f12a51ec94ae0165",
+      "pages": 47,
+      "bytes": 166385
+    },
+    {
+      "file": "pdf\\Schools-of-Buddhism-Answer-Writing-Toolkit.pdf",
+      "source": "ANSWER-WRITING-TOOLKIT.md",
+      "source_sha256": "b885aa51fd3ea3ff147a7f0f571dd61f4d23a3b0f362267b69c1f4ae09ed336d",
+      "pdf_sha256": "a9b93b0664af684094f6e8009dc1d2f0360f27334966b73bb7641efb91d903c5",
+      "pages": 14,
+      "bytes": 95838
+    }
+  ]
+}

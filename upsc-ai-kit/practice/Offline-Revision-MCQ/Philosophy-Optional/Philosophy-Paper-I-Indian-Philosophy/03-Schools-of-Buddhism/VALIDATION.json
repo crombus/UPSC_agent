@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-09-24T21:50:51+05:30",
+  "mode": "development",
+  "state": "DEVELOPMENT_PASS",
+  "release_ready": false,
+  "checks": {
+    "required_files": 30,
+    "formal_blocks": 372,
+    "raw_proposition_mappings": 3068,
+    "unique_normalized_propositions": 2349,
+    "deduplicated_repetitions": 719,
+    "excluded_structural_coordinates": 2157,
+    "excluded_structural_per_category": {
+      "code_fence": 96,
+      "diagram_structure": 172,
+      "document_metadata": 2,
+      "document_structure": 0,
+      "heading_or_navigation": 372,
+      "table_structure": 74,
+      "whitespace": 1441
+    },
+    "meaningful_proposition_samples": 66,
+    "meaningful_sample_categories": {
+      "corpus_position": 3,
+      "parent_block": 7,
+      "large_leaf": 42,
+      "panel": 14
+    },
+    "panels": 14,
+    "doctrine_guardrails": 14,
+    "mcqs": 110,
+    "mcq_test_cells": 107,
+    "mcq_coverage_ratio": 1.028037,
+    "pyqs": 14,
+    "supporting_pyqs": 3,
+    "timed_models_including_mirror": 23,
+    "pdfs": 4
+  },
+  "error_count": 0,
+  "errors": []
+}
