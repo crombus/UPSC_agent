@@ -53,6 +53,7 @@
 | Economy | Economy 27 - Digital Agriculture, Agritech and e-Technology for Farmers | 15 | 23,392 | `2d4c836896f3` | [Economy/27-Digital-Agriculture-Agritech-e-Technology-Farmers/Learning-Session-Live-Edition.md](Economy/27-Digital-Agriculture-Agritech-e-Technology-Farmers/Learning-Session-Live-Edition.md) |
 | Economy | Economy 28 - Direct and Indirect Farm Subsidies and WTO Rules | 20 | 17,686 | `4c52124e3b88` | [Economy/28-Direct-Indirect-Farm-Subsidies-WTO-Rules/Learning-Session-Live-Edition.md](Economy/28-Direct-Indirect-Farm-Subsidies-WTO-Rules/Learning-Session-Live-Edition.md) |
 | Economy | Economy 29 - Agricultural Technology Missions and Mission-Mode Policy | 20 | 25,259 | `4498ff8e82e2` | [Economy/29-Agricultural-Technology-Missions-Mission-Mode-Policy/Learning-Session-Live-Edition.md](Economy/29-Agricultural-Technology-Missions-Mission-Mode-Policy/Learning-Session-Live-Edition.md) |
+| Economy | Economy 30 - Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries | 18 | 20,365 | `246de1b1ad68` | [Economy/30-Economics-Animal-Rearing-Livestock-Dairy-Poultry-Fisheries/Learning-Session-Live-Edition.md](Economy/30-Economics-Animal-Rearing-Livestock-Dairy-Poultry-Fisheries/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
