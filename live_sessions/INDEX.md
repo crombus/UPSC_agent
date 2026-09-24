@@ -40,6 +40,7 @@
 | Economy | Economy 14 - Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture | 16 | 21,720 | `6ed9e00794dd` | [Economy/14-Irrigation-Inputs-Credit-Insurance-Sustainable-Agriculture/Learning-Session-Live-Edition.md](Economy/14-Irrigation-Inputs-Credit-Insurance-Sustainable-Agriculture/Learning-Session-Live-Edition.md) |
 | Economy | Economy 15 - Food Processing, Cold Chains and Value Addition | 16 | 19,265 | `8611b967a678` | [Economy/15-Food-Processing-Cold-Chains-Value-Addition/Learning-Session-Live-Edition.md](Economy/15-Food-Processing-Cold-Chains-Value-Addition/Learning-Session-Live-Edition.md) |
 | Economy | Economy 16 - Industrial Policy, 1991 Reforms, PSUs and Disinvestment | 15 | 14,918 | `5c04005f40db` | [Economy/16-Industrial-Policy-1991-Reforms-PSUs-Disinvestment/Learning-Session-Live-Edition.md](Economy/16-Industrial-Policy-1991-Reforms-PSUs-Disinvestment/Learning-Session-Live-Edition.md) |
+| Economy | Economy 17 - MSMEs, Startups, PLI, Semiconductors and Manufacturing Strategy | 18 | 24,606 | `21b9cb02a46a` | [Economy/17-MSMEs-Startups-PLI-Semiconductors-Manufacturing-Strategy/Learning-Session-Live-Edition.md](Economy/17-MSMEs-Startups-PLI-Semiconductors-Manufacturing-Strategy/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
