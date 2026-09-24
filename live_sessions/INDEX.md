@@ -45,6 +45,7 @@
 | Economy | Economy 19 - Balance of Payments, Exchange Rates and Forex Reserves | 20 | 26,189 | `132a7eca1dc5` | [Economy/19-Balance-of-Payments-Exchange-Rates-Forex-Reserves/Learning-Session-Live-Edition.md](Economy/19-Balance-of-Payments-Exchange-Rates-Forex-Reserves/Learning-Session-Live-Edition.md) |
 | Economy | Economy 20 - Foreign Trade, WTO, FTAs and Protectionism | 21 | 22,856 | `187ae3d187f8` | [Economy/20-Foreign-Trade-WTO-FTAs-Protectionism/Learning-Session-Live-Edition.md](Economy/20-Foreign-Trade-WTO-FTAs-Protectionism/Learning-Session-Live-Edition.md) |
 | Economy | Economy 21 - IMF, World Bank, ADB, AIIB, NDB and Global Governance | 17 | 33,643 | `6bb5a95c1f84` | [Economy/21-IMF-World-Bank-ADB-AIIB-NDB-Global-Governance/Learning-Session-Live-Edition.md](Economy/21-IMF-World-Bank-ADB-AIIB-NDB-Global-Governance/Learning-Session-Live-Edition.md) |
+| Economy | Economy 22 - Employment, Labour Codes, Skills and Demographic Dividend | 18 | 24,295 | `bb567047ed9d` | [Economy/22-Employment-Labour-Codes-Skills-Demographic-Dividend/Learning-Session-Live-Edition.md](Economy/22-Employment-Labour-Codes-Skills-Demographic-Dividend/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
