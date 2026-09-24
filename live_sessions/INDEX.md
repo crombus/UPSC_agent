@@ -22,7 +22,7 @@
 | Western-Philosophy | Plato and Aristotle | 10 | 19,524 | `b4b38e817df7` | [Western-Philosophy/01-Plato-Aristotle/Learning-Session-Live-Edition.md](Western-Philosophy/01-Plato-Aristotle/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Rationalism — Descartes, Spinoza and Leibniz | 10 | 31,372 | `2d322d1d7b89` | [Western-Philosophy/02-Rationalism/Learning-Session-Live-Edition.md](Western-Philosophy/02-Rationalism/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Empiricism — Locke, Berkeley and Hume | 10 | 35,290 | `71d81d144f78` | [Western-Philosophy/03-Empiricism/Learning-Session-Live-Edition.md](Western-Philosophy/03-Empiricism/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Kant | 12 | 40,611 | `6ee75f2f9dfe` | [Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md](Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Kant | 12 | 34,110 | `0cfcba22010c` | [Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md](Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md) |
 | Economy | Economy 07 - Money Market, Capital Market and Financial Instruments | 12 | 18,514 | `4dca50905089` | [Economy/07-Money-Capital-Markets-Financial-Instruments/Learning-Session-Live-Edition.md](Economy/07-Money-Capital-Markets-Financial-Instruments/Learning-Session-Live-Edition.md) |
 | Economy | Derivatives, Futures and Options | 8 | 9,155 | `702314bbfa0c` | [Economy/08-Derivatives-Futures-Options/Learning-Session-Live-Edition.md](Economy/08-Derivatives-Futures-Options/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Hegel | 11 | 37,338 | `c628bf9b5a3b` | [Western-Philosophy/05-Hegel/Learning-Session-Live-Edition.md](Western-Philosophy/05-Hegel/Learning-Session-Live-Edition.md) |
