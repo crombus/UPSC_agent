@@ -52,6 +52,7 @@
 | Economy | Economy 26 - Economic Survey Synthesis and Current Macro Dashboard | 20 | 20,648 | `01e68208ff27` | [Economy/26-Economic-Survey-Synthesis-Current-Macro-Dashboard/Learning-Session-Live-Edition.md](Economy/26-Economic-Survey-Synthesis-Current-Macro-Dashboard/Learning-Session-Live-Edition.md) |
 | Economy | Economy 27 - Digital Agriculture, Agritech and e-Technology for Farmers | 15 | 23,392 | `2d4c836896f3` | [Economy/27-Digital-Agriculture-Agritech-e-Technology-Farmers/Learning-Session-Live-Edition.md](Economy/27-Digital-Agriculture-Agritech-e-Technology-Farmers/Learning-Session-Live-Edition.md) |
 | Economy | Economy 28 - Direct and Indirect Farm Subsidies and WTO Rules | 20 | 17,686 | `4c52124e3b88` | [Economy/28-Direct-Indirect-Farm-Subsidies-WTO-Rules/Learning-Session-Live-Edition.md](Economy/28-Direct-Indirect-Farm-Subsidies-WTO-Rules/Learning-Session-Live-Edition.md) |
+| Economy | Economy 29 - Agricultural Technology Missions and Mission-Mode Policy | 20 | 25,259 | `4498ff8e82e2` | [Economy/29-Agricultural-Technology-Missions-Mission-Mode-Policy/Learning-Session-Live-Edition.md](Economy/29-Agricultural-Technology-Missions-Mission-Mode-Policy/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
