@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "derived_from": "FORMAL-COVERAGE-REVIEW.json",
+  "review_sha256": "4554cb9899776a6ec5756e8242a15476054a30298a5037f6ea239b9db0697550",
+  "decision_count": 299,
+  "covered": 299,
+  "routed": 0,
+  "unclassified": 0,
+  "source_counts": {
+    "formal_session": 243,
+    "formal_workbook": 56
+  },
+  "large_leaf_segmented": 21,
+  "parent_blocks": 22,
+  "panel_parity": {
+    "expected": 12,
+    "actual": 12,
+    "panel_ids": [
+      "session-ascii-master-flow-panel-1-12-identity-sources-and-the-shape-of-the-system-232-51701519de",
+      "session-ascii-master-flow-panel-2-12-the-definition-of-the-real-permanence-through-c-233-703e0bebd5",
+      "session-ascii-master-flow-panel-3-12-six-substances-and-the-extension-test-234-4e9c4c641d",
+      "session-ascii-master-flow-panel-4-12-the-soul-nature-taxonomy-spatiality-235-fea666f87a",
+      "session-ascii-master-flow-panel-5-12-knowledge-the-inversion-and-the-five-kinds-236-1ad4594f43",
+      "session-ascii-master-flow-panel-6-12-standpoint-theory-the-seven-standpoints-237-76842e7c1c",
+      "session-ascii-master-flow-panel-7-12-conditional-predication-and-the-sevenfold-predi-238-a4b911be86",
+      "session-ascii-master-flow-panel-8-12-evaluating-non-absolutism-three-distinct-challe-239-774e0aeef1",
+      "session-ascii-master-flow-panel-9-12-bondage-the-complete-mechanism-240-e6c1fab481",
+      "session-ascii-master-flow-panel-10-12-the-path-stop-the-influx-then-shed-the-deposit-241-03165b34a1",
+      "session-ascii-master-flow-panel-11-12-the-fourteen-stages-gunasthana-omniscience-and-242-783ff9c435",
+      "session-ascii-master-flow-panel-12-12-objections-comparative-map-pyq-rail-and-answer-243-b92f319b8c"
+    ]
+  },
+  "status": "DERIVED_COMPLETE"
+}

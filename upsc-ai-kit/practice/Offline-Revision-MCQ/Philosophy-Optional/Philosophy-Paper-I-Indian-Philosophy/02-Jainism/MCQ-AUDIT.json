@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "topic": "Jainism",
+  "seed": 8560500507743229150,
+  "derivation": {
+    "dimensions": 16,
+    "probes_per_dimension": 2,
+    "question_count": 32
+  },
+  "answer_sequence": "BABCAADABBCBDCDADCCDBCAADDCCBABD",
+  "answer_counts": {
+    "A": 8,
+    "B": 8,
+    "C": 8,
+    "D": 8
+  },
+  "longest_run": 2,
+  "runs": [
+    {
+      "answer": "B",
+      "start": 1,
+      "length": 1
+    },
+    {
+      "answer": "A",
+      "start": 2,
+      "length": 1
+    },
+    {
+      "answer": "B",
+      "start": 3,
+      "length": 1
+    },
+    {
+      "answer": "C",
+      "start": 4,
+      "length": 1
+    },
+    {
+      "answer": "A",
+      "start": 5,
+      "length": 2
+    },
+    {
+      "answer": "D",
+      "start": 7,
+      "length": 1
+    },
+    {
+      "answer": "A",
+      "start": 8,
+      "length": 1
+    },
+    {
+      "answer": "B",
+      "start": 9,
+      "length": 2
+    },
+    {
+      "answer": "C",
+      "start": 11,
+      "length": 1
+    },
+    {
+      "answer": "B",
+      "start": 12,
+      "length": 1
+    },
+    {
+      "answer": "D",
+      "start": 13,
+      "length": 1
+    },
+    {
+      "answer": "C",
+      "start": 14,
+      "length": 1
+    },
+    {
+      "answer": "D",
+      "start": 15,
+      "length": 1
+    },
+    {
+      "answer": "A",
+      "start": 16,
+      "length": 1
+    },
+    {
+      "answer": "D",
+      "start": 17,
+      "length": 1
+    },
+    {
+      "answer": "C",
+      "start": 18,
+      "length": 2
+    },
+    {
+      "answer": "D",
+      "start": 20,
+      "length": 1
+    },
+    {
+      "answer": "B",
+      "start": 21,
+      "length": 1
+    },
+    {
+      "answer": "C",
+      "start": 22,
+      "length": 1
+    },
+    {
+      "answer": "A",
+      "start": 23,
+      "length": 2
+    },
+    {
+      "answer": "D",
+      "start": 25,
+      "length": 2
+    },
+    {
+      "answer": "C",
+      "start": 27,
+      "length": 2
+    },
+    {
+      "answer": "B",
+      "start": 29,
+      "length": 1
+    },
+    {
+      "answer": "A",
+      "start": 30,
+      "length": 1
+    },
+    {
+      "answer": "B",
+      "start": 31,
+      "length": 1
+    },
+    {
+      "answer": "D",
+      "start": 32,
+      "length": 1
+    }
+  ],
+  "position_policy": {
+    "method": "seeded constrained shuffle; no fixed rotation",
+    "minimum_per_letter": 6,
+    "maximum_per_letter": 10,
+    "maximum_run": 2,
+    "cycle_periods_rejected": [
+      2,
+      3,
+      4
+    ],
+    "minimum_cycle_repetitions": 3,
+    "predictable_cycle_detected": false
+  },
+  "cue_metrics": {
+    "mean_correct_words": 13.44,
+    "mean_incorrect_words": 13.73,
+    "all_options_terminal_punctuation_consistent": true,
+    "grammar_parallel_review": "passed_source-authored-options",
+    "template_filler_count": 0
+  },
+  "synchronization": "Every shuffled option carries the explanation belonging to its original semantic payload."
+}

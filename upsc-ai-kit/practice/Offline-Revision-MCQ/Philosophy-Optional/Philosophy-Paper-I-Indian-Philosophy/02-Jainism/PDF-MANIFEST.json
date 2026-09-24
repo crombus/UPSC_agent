@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "artifacts": [
+    {
+      "file": "pdf\\Jainism-Revision-Guide.pdf",
+      "source": "REVISION-GUIDE.md",
+      "source_sha256": "7baf6adccb7786421646cf447c1e80a9fd862d579610d7558a2c98fb4c88012b",
+      "pdf_sha256": "929d71b090b39b65cb260e6d74979ca78c64359c144c93af930280bd3a882ba8",
+      "pages": 76,
+      "bytes": 304666
+    },
+    {
+      "file": "pdf\\Jainism-MCQ-Questions.pdf",
+      "source": "MCQ-QUESTIONS.md",
+      "source_sha256": "1c461bf31a843f4f1a76e44967956c4f4c0bc8dbefc445ec3c5005cc11879426",
+      "pdf_sha256": "3f20ee4f9aab2005a76c3116f650d0daaeb2d0d0574157e1d7f829e98db02424",
+      "pages": 8,
+      "bytes": 61773
+    },
+    {
+      "file": "pdf\\Jainism-MCQ-Solutions.pdf",
+      "source": "MCQ-SOLUTIONS.md",
+      "source_sha256": "69de921dd3aac72cce61ff5c0c65929015091ee7485c3503baba3cbce0b35b0a",
+      "pdf_sha256": "966b480de960013d4ae4e9d6e1c92d47f3300ff496230561743121513de4ae67",
+      "pages": 15,
+      "bytes": 83271
+    },
+    {
+      "file": "pdf\\Jainism-Answer-Writing-Toolkit.pdf",
+      "source": "ANSWER-WRITING-TOOLKIT.md",
+      "source_sha256": "b9a659d21074741c90ff924fd4f3215cbdf48e195af07515e06b6424d3cba854",
+      "pdf_sha256": "2dcb4137834ca46646a3679b4d45eec472b99a36da07c7186db455b8e37b9ad7",
+      "pages": 9,
+      "bytes": 78181
+    }
+  ]
+}

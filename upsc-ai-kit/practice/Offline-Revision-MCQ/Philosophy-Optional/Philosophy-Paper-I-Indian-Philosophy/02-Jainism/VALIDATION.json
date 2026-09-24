@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-09-24T19:52:43+05:30",
+  "mode": "development",
+  "state": "DEVELOPMENT_PASS",
+  "release_ready": false,
+  "checks": {
+    "required_files": 22,
+    "formal_blocks": 299,
+    "panels": 12,
+    "doctrine_guardrails": 15,
+    "mcqs": 32,
+    "pyqs": 10,
+    "supporting_pyqs": 1,
+    "timed_models_including_mirror": 17,
+    "pdfs": 4
+  },
+  "error_count": 0,
+  "errors": []
+}

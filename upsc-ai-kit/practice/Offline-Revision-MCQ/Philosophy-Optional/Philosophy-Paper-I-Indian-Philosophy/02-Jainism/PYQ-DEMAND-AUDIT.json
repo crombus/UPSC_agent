@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "2018_2025": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796
+    },
+    "2026": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502
+    }
+  },
+  "expected_year_counts": {
+    "2018": 1,
+    "2019": 1,
+    "2020": 1,
+    "2021": 1,
+    "2022": 2,
+    "2023": 1,
+    "2024": 1,
+    "2025": 1,
+    "2026": 1
+  },
+  "expected_total": 10,
+  "actual_total": 10,
+  "questions": [
+    {
+      "year": 2018,
+      "question_no": "Q6(c)",
+      "marks": 15,
+      "text": "How do the Jaina philosophers explain 'bondage'? What, according to them, is the distinction between 'liberated soul' and 'bound soul'? What do the Jainas think about the condition of the 'liberated soul'? Discuss.",
+      "text_sha256": "df6ceed416f4722f8477ccbc5a4d09764f0764bd636f13be9730232e2e26cb99",
+      "ownership": "Jainism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2019,
+      "question_no": "Q6(a)",
+      "marks": 20,
+      "text": "How is reality defined by the Jainas? How is this theory of reality reflected in their view on judgements? Discuss.",
+      "text_sha256": "e7eb1c5aa9c3655054e2b7472cdbe5bc228e8865c7f61679dad73ee3b597c963",
+      "ownership": "Jainism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2020,
+      "question_no": "Q5(a)",
+      "marks": 10,
+      "text": "Examine the concept of Karma according to Jainism. How does it bear upon their conception of Liberation?",
+      "text_sha256": "2509266fd8988f16599190215b549ff95bb4dd9ba777a61fe9d9bb63c64cabfc",
+      "ownership": "Jainism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2021,
+      "question_no": "Q7(c)",
+      "marks": 15,
+      "text": "Explain the Jaina view of seven-fold (sapta-bhaṅgī) ‘Naya’.",
+      "text_sha256": "90c11ba92994363d1fcdc111a75750897136939e0d14cb6f1e6a0a2c02da509e",
+      "ownership": "Jainism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2022,
+      "question_no": "Q5(d)",
+      "marks": 10,
+      "text": "How does Jaina view of Karma bear upon their soteriology? Critically discuss.",
+      "text_sha256": "f25c41553a79073ab7defed492649d4f35490840d2c1f7724f5c4d728990fc4d",
+      "ownership": "Jainism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2022,
+      "question_no": "Q6(b)",
+      "marks": 15,
+      "text": "‘The doctrine of Relativism of Jain Philosophy cannot be logically sustained without postulating ‘Absolutism’.’ Critically examine this view and give reasons in the favour of your answer.",
+      "text_sha256": "512b779060468972566b66f402f57b76de48d35c385215749a08b3e2b7f30515",
+      "ownership": "Jainism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2023,
+      "question_no": "Q5(a)",
+      "marks": 10,
+      "text": "“All human knowledge is empirical and therefore relative.” Critically examine Jaina theory of sevenfold judgement (saptabhaṅgīnaya) in the light of above statement.",
+      "text_sha256": "ee5b45c1fd0c3f25725d8888e2827b1cc84fd778d6ec57f4b864c490a6b35a48",
+      "ownership": "Jainism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2024,
+      "question_no": "Q6(c)",
+      "marks": 15,
+      "text": "What is the distinction between Bhāvabandha and Dravyabandha, according to the Jainas? Discuss.",
+      "text_sha256": "416e7b45c5a852c8f18a6f42dc082fe45a2b5ca7a503abaf65920f33dbb2d982",
+      "ownership": "Jainism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2025,
+      "question_no": "Q7(c)",
+      "marks": 15,
+      "text": "Is Jaina philosophy pluralistic and realistic? Critically discuss.",
+      "text_sha256": "6ae9b57181fe57856f8bc6da08e303214a83b98c9943b6a6caa69134dec13d65",
+      "ownership": "Jainism-primary",
+      "status": "fully_solved"
+    },
+    {
+      "year": 2026,
+      "question_no": "Q7(b)",
+      "marks": 15,
+      "text": "Explain the meaning of seven steps of judgement (Saptabhanginaya) and its application in Jaina's Syadvada for advocating a philosophy of non-absolutism (Anekantavada).",
+      "text_sha256": "a84f3ee977a4963b4639c68898917d7ece1901ff9d7004a9914c4713f029d547",
+      "ownership": "Jainism-primary",
+      "status": "fully_solved"
+    }
+  ],
+  "status": "COMPLETE",
+  "supporting_total": 1,
+  "supporting_questions": [
+    {
+      "year": 2020,
+      "question_no": "Q7(c)",
+      "marks": 15,
+      "text": "Explain the differences of conception of Reality between Cārvāka and Jainism.",
+      "text_sha256": "eb6329ee2ef3093513c876e3d3c7d58a5a3ef8956008f70230ce7fcb1950634a",
+      "ownership": "Carvaka-primary/Jainism-supporting",
+      "status": "fully_solved_outside_primary_numbering",
+      "supporting_id": "S1"
+    }
+  ]
+}
