@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "topic": "01 Cārvāka",
+  "generated_at": "2026-09-24T19:40:29+05:30",
+  "source_review": {
+    "path": "FORMAL-COVERAGE-REVIEW.json",
+    "sha256": "70112b622d9248e4969fd9b45ce1bc9ad3efa35ac29d3957af24ae7faa7fc420"
+  },
+  "formal_block_definition": "Every level-2 through level-5 formal heading. Parent direct bodies and child unions are separate; large leaves are segmented; labelled master-flow panels are exact-payload obligations.",
+  "counts": {
+    "session_blocks": 336,
+    "workbook_blocks": 100,
+    "formal_blocks": 436,
+    "covered_in_scope": 436,
+    "routed_formal_blocks": 0,
+    "excluded_doubt_only_blocks": 0,
+    "unresolved": 0,
+    "structural_umbrellas": 64,
+    "large_leaves": 6,
+    "master_flow_panels": 12,
+    "raw_proposition_mappings": 697,
+    "unique_semantic_propositions": 522,
+    "duplicate_proposition_occurrences": 175
+  },
+  "classification_counts": {
+    "covered_in_scope": 436
+  },
+  "panel_parity": {
+    "expected": 12,
+    "actual": 12,
+    "panels": [
+      {
+        "id": "session-ascii-master-flow-panel-1-12-identity-names-and-the-source-probl-01-2b0adcae62",
+        "source_heading": "ASCII MASTER FLOW — PANEL 1/12: Identity, names and the source problem",
+        "payload_sha256": "c474ce4308d4787c6e9f9d4d231f873fb0cdcff09e87b6fdbde45e4083755441",
+        "destination": {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "session-ascii-master-flow-panel-1-12-identity-names-and-the-source-probl-01-2b0adcae62",
+          "anchor_kind": "stable_html_id",
+          "payload_sha256": "c474ce4308d4787c6e9f9d4d231f873fb0cdcff09e87b6fdbde45e4083755441",
+          "payload_words": 0,
+          "mapping_mode": "exact_normalized_payload",
+          "source_content_atom_hashes": [],
+          "destination_content_atom_hashes": [],
+          "mapping_basis": "The destination is bound to a stable source-derived anchor and its complete normalized payload hash. MCQ blocks retain the tested inference and option-specific explanation binding while allowing reviewed wording repair and option permutation; no token-overlap or generated-excerpt inference is used."
+        }
+      },
+      {
+        "id": "session-ascii-master-flow-panel-2-12-classification-location-and-evidenc-01-5d50e4d027",
+        "source_heading": "ASCII MASTER FLOW — PANEL 2/12: Classification, location and evidence grading",
+        "payload_sha256": "44b751ed46a6d9fa76b0bf497260e6c633b7a76f7c1f2af2a79593f00729d831",
+        "destination": {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "session-ascii-master-flow-panel-2-12-classification-location-and-evidenc-01-5d50e4d027",
+          "anchor_kind": "stable_html_id",
+          "payload_sha256": "44b751ed46a6d9fa76b0bf497260e6c633b7a76f7c1f2af2a79593f00729d831",
+          "payload_words": 0,
+          "mapping_mode": "exact_normalized_payload",
+          "source_content_atom_hashes": [],
+          "destination_content_atom_hashes": [],
+          "mapping_basis": "The destination is bound to a stable source-derived anchor and its complete normalized payload hash. MCQ blocks retain the tested inference and option-specific explanation binding while allowing reviewed wording repair and option permutation; no token-overlap or generated-excerpt inference is used."
+        }
+      },
+      {
+        "id": "session-ascii-master-flow-panel-3-12-the-epistemic-gate-perception-alone-01-779814b192",
+        "source_heading": "ASCII MASTER FLOW — PANEL 3/12: The epistemic gate — perception alone",
+        "payload_sha256": "59d1fd888a45f66c837356c49659256d02c6128c8645931bae5426436d9f97e5",
+        "destination": {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "session-ascii-master-flow-panel-3-12-the-epistemic-gate-perception-alone-01-779814b192",
+          "anchor_kind": "stable_html_id",
+          "payload_sha256": "59d1fd888a45f66c837356c49659256d02c6128c8645931bae5426436d9f97e5",
+          "payload_words": 0,
+          "mapping_mode": "exact_normalized_payload",
+          "source_content_atom_hashes": [],
+          "destination_content_atom_hashes": [],
+          "mapping_basis": "The destination is bound to a stable source-derived anchor and its complete normalized payload hash. MCQ blocks retain the tested inference and option-specific explanation binding while allowing reviewed wording repair and option permutation; no token-overlap or generated-excerpt inference is used."
+        }
+      },
+      {
+        "id": "session-ascii-master-flow-panel-4-12-the-attack-on-inference-three-close-01-3590a9ed3f",
+        "source_heading": "ASCII MASTER FLOW — PANEL 4/12: The attack on inference — three closed doors",
+        "payload_sha256": "a6c38ed19f43873c2a92e07614596696662a205527acac94ee93eaa6c1568bce",
+        "destination": {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "session-ascii-master-flow-panel-4-12-the-attack-on-inference-three-close-01-3590a9ed3f",
+          "anchor_kind": "stable_html_id",
+          "payload_sha256": "a6c38ed19f43873c2a92e07614596696662a205527acac94ee93eaa6c1568bce",
+          "payload_words": 0,
+          "mapping_mode": "exact_normalized_payload",
+          "source_content_atom_hashes": [],
+          "destination_content_atom_hashes": [],
+          "mapping_basis": "The destination is bound to a stable source-derived anchor and its complete normalized payload hash. MCQ blocks retain the tested inference and option-specific explanation binding while allowing reviewed wording repair and option permutation; no token-overlap or generated-excerpt inference is used."
+        }
+      },
+      {
+        "id": "session-ascii-master-flow-panel-5-12-hidden-limiting-condition-and-self--01-d2c6c18597",
+        "source_heading": "ASCII MASTER FLOW — PANEL 5/12: Hidden limiting condition and self-refutation",
+        "payload_sha256": "c27a4bc69d3febfd51324e967fc09d01bedcb811b5ec4d032101ab5c57fc811a",
+        "destination": {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "session-ascii-master-flow-panel-5-12-hidden-limiting-condition-and-self--01-d2c6c18597",
+          "anchor_kind": "stable_html_id",
+          "payload_sha256": "c27a4bc69d3febfd51324e967fc09d01bedcb811b5ec4d032101ab5c57fc811a",
+          "payload_words": 0,
+          "mapping_mode": "exact_normalized_payload",
+          "source_content_atom_hashes": [],
+          "destination_content_atom_hashes": [],
+          "mapping_basis": "The destination is bound to a stable source-derived anchor and its complete normalized payload hash. MCQ blocks retain the tested inference and option-specific explanation binding while allowing reviewed wording repair and option permutation; no token-overlap or generated-excerpt inference is used."
+        }
+      },
+      {
+        "id": "session-ascii-master-flow-panel-6-12-the-nyāya-defence-and-a-balanced-ve-01-3f0d09537c",
+        "source_heading": "ASCII MASTER FLOW — PANEL 6/12: The Nyāya defence and a balanced verdict",
+        "payload_sha256": "4a15e4dd297ed7c725e8aef6e8bb95033ab721c41f167cd4414bcf4ff192f5d5",
+        "destination": {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "session-ascii-master-flow-panel-6-12-the-nyāya-defence-and-a-balanced-ve-01-3f0d09537c",
+          "anchor_kind": "stable_html_id",
+          "payload_sha256": "4a15e4dd297ed7c725e8aef6e8bb95033ab721c41f167cd4414bcf4ff192f5d5",
+          "payload_words": 0,
+          "mapping_mode": "exact_normalized_payload",
+          "source_content_atom_hashes": [],
+          "destination_content_atom_hashes": [],
+          "mapping_basis": "The destination is bound to a stable source-derived anchor and its complete normalized payload hash. MCQ blocks retain the tested inference and option-specific explanation binding while allowing reviewed wording repair and option permutation; no token-overlap or generated-excerpt inference is used."
+        }
+      },
+      {
+        "id": "session-ascii-master-flow-panel-7-12-testimony-the-wider-list-and-the-sc-01-276141d573",
+        "source_heading": "ASCII MASTER FLOW — PANEL 7/12: Testimony, the wider list, and the school ledger",
+        "payload_sha256": "597c4d28dd88e485d67165b55b41bc9eafc7354ee92c6001aef9791dee403ca7",
+        "destination": {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "session-ascii-master-flow-panel-7-12-testimony-the-wider-list-and-the-sc-01-276141d573",
+          "anchor_kind": "stable_html_id",
+          "payload_sha256": "597c4d28dd88e485d67165b55b41bc9eafc7354ee92c6001aef9791dee403ca7",
+          "payload_words": 0,
+          "mapping_mode": "exact_normalized_payload",
+          "source_content_atom_hashes": [],
+          "destination_content_atom_hashes": [],
+          "mapping_basis": "The destination is bound to a stable source-derived anchor and its complete normalized payload hash. MCQ blocks retain the tested inference and option-specific explanation binding while allowing reviewed wording repair and option permutation; no token-overlap or generated-excerpt inference is used."
+        }
+      },
+      {
+        "id": "session-ascii-master-flow-panel-8-12-material-ontology-four-elements-and-01-59315debda",
+        "source_heading": "ASCII MASTER FLOW — PANEL 8/12: Material ontology — four elements and own-nature",
+        "payload_sha256": "05e16acfcd9a90d351e70d7a020f578d63dd2725f9bb60c6931a71e0d4f21b12",
+        "destination": {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "session-ascii-master-flow-panel-8-12-material-ontology-four-elements-and-01-59315debda",
+          "anchor_kind": "stable_html_id",
+          "payload_sha256": "05e16acfcd9a90d351e70d7a020f578d63dd2725f9bb60c6931a71e0d4f21b12",
+          "payload_words": 0,
+          "mapping_mode": "exact_normalized_payload",
+          "source_content_atom_hashes": [],
+          "destination_content_atom_hashes": [],
+          "mapping_basis": "The destination is bound to a stable source-derived anchor and its complete normalized payload hash. MCQ blocks retain the tested inference and option-specific explanation binding while allowing reviewed wording repair and option permutation; no token-overlap or generated-excerpt inference is used."
+        }
+      },
+      {
+        "id": "session-ascii-master-flow-panel-9-12-self-body-and-emergent-consciousnes-01-710279cd19",
+        "source_heading": "ASCII MASTER FLOW — PANEL 9/12: Self, body and emergent consciousness",
+        "payload_sha256": "6350081d1511d16fd40f84f05d1e884e38398a66ac4c001095fa7d4a13df0dc5",
+        "destination": {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "session-ascii-master-flow-panel-9-12-self-body-and-emergent-consciousnes-01-710279cd19",
+          "anchor_kind": "stable_html_id",
+          "payload_sha256": "6350081d1511d16fd40f84f05d1e884e38398a66ac4c001095fa7d4a13df0dc5",
+          "payload_words": 0,
+          "mapping_mode": "exact_normalized_payload",
+          "source_content_atom_hashes": [],
+          "destination_content_atom_hashes": [],
+          "mapping_basis": "The destination is bound to a stable source-derived anchor and its complete normalized payload hash. MCQ blocks retain the tested inference and option-specific explanation binding while allowing reviewed wording repair and option permutation; no token-overlap or generated-excerpt inference is used."
+        }
+      },
+      {
+        "id": "session-ascii-master-flow-panel-10-12-the-rejection-of-transcendent-enti-01-d090fd2b1b",
+        "source_heading": "ASCII MASTER FLOW — PANEL 10/12: The rejection of transcendent entities",
+        "payload_sha256": "91893dac28c99c016bc64eb9a34744ddd42adddc211d2f96f7e2595ae42941d1",
+        "destination": {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "session-ascii-master-flow-panel-10-12-the-rejection-of-transcendent-enti-01-d090fd2b1b",
+          "anchor_kind": "stable_html_id",
+          "payload_sha256": "91893dac28c99c016bc64eb9a34744ddd42adddc211d2f96f7e2595ae42941d1",
+          "payload_words": 0,
+          "mapping_mode": "exact_normalized_payload",
+          "source_content_atom_hashes": [],
+          "destination_content_atom_hashes": [],
+          "mapping_basis": "The destination is bound to a stable source-derived anchor and its complete normalized payload hash. MCQ blocks retain the tested inference and option-specific explanation binding while allowing reviewed wording repair and option permutation; no token-overlap or generated-excerpt inference is used."
+        }
+      },
+      {
+        "id": "session-ascii-master-flow-panel-11-12-ethics-society-and-anti-caricature-01-76ac49b520",
+        "source_heading": "ASCII MASTER FLOW — PANEL 11/12: Ethics, society and anti-caricature control",
+        "payload_sha256": "46077cdab7aa5d3797e17528af915992d09dc2448c464c9c228bfaa7e617f52e",
+        "destination": {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "session-ascii-master-flow-panel-11-12-ethics-society-and-anti-caricature-01-76ac49b520",
+          "anchor_kind": "stable_html_id",
+          "payload_sha256": "46077cdab7aa5d3797e17528af915992d09dc2448c464c9c228bfaa7e617f52e",
+          "payload_words": 0,
+          "mapping_mode": "exact_normalized_payload",
+          "source_content_atom_hashes": [],
+          "destination_content_atom_hashes": [],
+          "mapping_basis": "The destination is bound to a stable source-derived anchor and its complete normalized payload hash. MCQ blocks retain the tested inference and option-specific explanation binding while allowing reviewed wording repair and option permutation; no token-overlap or generated-excerpt inference is used."
+        }
+      },
+      {
+        "id": "session-ascii-master-flow-panel-12-12-comparative-map-pyq-rail-and-answe-01-97667bf430",
+        "source_heading": "ASCII MASTER FLOW — PANEL 12/12: Comparative map, PYQ rail and answer spine",
+        "payload_sha256": "61614671f7d9ade7b91d02837b82d0e8dfbb3d70c695ef5d6fe0485a8b74b002",
+        "destination": {
+          "file": "REVISION-GUIDE.md",
+          "anchor": "session-ascii-master-flow-panel-12-12-comparative-map-pyq-rail-and-answe-01-97667bf430",
+          "anchor_kind": "stable_html_id",
+          "payload_sha256": "61614671f7d9ade7b91d02837b82d0e8dfbb3d70c695ef5d6fe0485a8b74b002",
+          "payload_words": 0,
+          "mapping_mode": "exact_normalized_payload",
+          "source_content_atom_hashes": [],
+          "destination_content_atom_hashes": [],
+          "mapping_basis": "The destination is bound to a stable source-derived anchor and its complete normalized payload hash. MCQ blocks retain the tested inference and option-specific explanation binding while allowing reviewed wording repair and option permutation; no token-overlap or generated-excerpt inference is used."
+        }
+      }
+    ]
+  },
+  "route_ledger": [
+    {
+      "id": "PYQ-ROUTE-2022-Q7C",
+      "classification": "supporting_route_solved",
+      "primary_owner": "Nyāya–Vaiśeṣika",
+      "destination": "ANSWER-WRITING-TOOLKIT.md",
+      "status": "retained_with_honest_ownership"
+    },
+    {
+      "id": "PYQ-2026-CARVAKA-ABSENT",
+      "classification": "verified_absence",
+      "primary_owner": "Cārvāka",
+      "destination": "PYQ-DEMAND-AUDIT.json",
+      "status": "closed_no_direct_question"
+    }
+  ],
+  "pass": true,
+  "proposition_accounting": {
+    "normalization": "Unicode NFKC, CRLF/CR to LF, collapse all whitespace, trim, Unicode case-fold",
+    "raw_mapping_count": 697,
+    "unique_semantic_count": 522,
+    "duplicate_occurrence_count": 175,
+    "substantive_coverage_count": 522,
+    "duplicate_policy": "Every source-block mapping remains. Repeated normalized text shares one unique_proposition_id and contributes once, not once per occurrence, to substantive semantic coverage.",
+    "inventory_sha256": "1f9327b9de6b43eae804e4b553cee5214f5c39fd8834a358e3612c5d8777a51e",
+    "review_inventory_entry_count": 522,
+    "review_inventory_sha256": "1f9327b9de6b43eae804e4b553cee5214f5c39fd8834a358e3612c5d8777a51e",
+    "pass": true
+  }
+}

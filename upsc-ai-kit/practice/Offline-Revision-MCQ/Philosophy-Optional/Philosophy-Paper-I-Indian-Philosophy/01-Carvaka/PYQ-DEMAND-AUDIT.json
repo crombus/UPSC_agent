@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "topic": "01 Cārvāka",
+  "generated_at": "2026-09-24T19:40:29+05:30",
+  "verified_ledger_hashes": {
+    "2018_2025": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796
+    },
+    "2026": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502
+    }
+  },
+  "primary_owned": [
+    {
+      "id": "2018 Q8(b)",
+      "marks": 15,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2019 Q5(c)",
+      "marks": 10,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2019 Q6(c)",
+      "marks": 15,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2020 Q6(b)",
+      "marks": 15,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2020 Q7(c)",
+      "marks": 15,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2021 Q5(e)",
+      "marks": 10,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2024 Q5(a)",
+      "marks": 10,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2024 Q6(a)",
+      "marks": 20,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2025 Q5(a)",
+      "marks": 10,
+      "status": "primary_owned_solved"
+    }
+  ],
+  "supporting_routes": [
+    {
+      "id": "2022 Q7(c)",
+      "marks": 15,
+      "status": "supporting_route_solved",
+      "primary_owner": "Nyāya–Vaiśeṣika"
+    }
+  ],
+  "year_2026": {
+    "direct_owned_count": 0,
+    "ledger_statement": "Cārvāka is absent from the 2026 primary-owner distribution.",
+    "status": "verified_absence"
+  },
+  "original_models": {
+    "count": 6,
+    "distribution": {
+      "10": 2,
+      "15": 2,
+      "20": 2
+    }
+  },
+  "timed_answer_word_counts": [
+    {
+      "id": "2018 · Q8(b) · 15 marks",
+      "marks": 15,
+      "timed_word_count": 260,
+      "required_band": [
+        250,
+        300
+      ],
+      "in_band": true
+    },
+    {
+      "id": "2019 · Q5(c) · 10 marks",
+      "marks": 10,
+      "timed_word_count": 170,
+      "required_band": [
+        150,
+        200
+      ],
+      "in_band": true
+    },
+    {
+      "id": "2019 · Q6(c) · 15 marks",
+      "marks": 15,
+      "timed_word_count": 266,
+      "required_band": [
+        250,
+        300
+      ],
+      "in_band": true
+    },
+    {
+      "id": "2020 · Q6(b) · 15 marks",
+      "marks": 15,
+      "timed_word_count": 276,
+      "required_band": [
+        250,
+        300
+      ],
+      "in_band": true
+    },
+    {
+      "id": "2020 · Q7(c) · 15 marks",
+      "marks": 15,
+      "timed_word_count": 275,
+      "required_band": [
+        250,
+        300
+      ],
+      "in_band": true
+    },
+    {
+      "id": "2021 · Q5(e) · 10 marks",
+      "marks": 10,
+      "timed_word_count": 189,
+      "required_band": [
+        150,
+        200
+      ],
+      "in_band": true
+    },
+    {
+      "id": "2024 · Q5(a) · 10 marks",
+      "marks": 10,
+      "timed_word_count": 190,
+      "required_band": [
+        150,
+        200
+      ],
+      "in_band": true
+    },
+    {
+      "id": "2024 · Q6(a) · 20 marks",
+      "marks": 20,
+      "timed_word_count": 360,
+      "required_band": [
+        340,
+        400
+      ],
+      "in_band": true
+    },
+    {
+      "id": "2025 · Q5(a) · 10 marks",
+      "marks": 10,
+      "timed_word_count": 193,
+      "required_band": [
+        150,
+        200
+      ],
+      "in_band": true
+    },
+    {
+      "id": "2022 · Q7(c) · 15 marks — supporting routed question, primary owner Nyāya–Vaiśeṣika",
+      "marks": 15,
+      "timed_word_count": 287,
+      "required_band": [
+        250,
+        300
+      ],
+      "in_band": true
+    },
+    {
+      "id": "Original 1 · 10 marks",
+      "marks": 10,
+      "timed_word_count": 162,
+      "required_band": [
+        150,
+        200
+      ],
+      "in_band": true
+    },
+    {
+      "id": "Original 2 · 10 marks",
+      "marks": 10,
+      "timed_word_count": 175,
+      "required_band": [
+        150,
+        200
+      ],
+      "in_band": true
+    },
+    {
+      "id": "Original 3 · 15 marks",
+      "marks": 15,
+      "timed_word_count": 256,
+      "required_band": [
+        250,
+        300
+      ],
+      "in_band": true
+    },
+    {
+      "id": "Original 4 · 15 marks",
+      "marks": 15,
+      "timed_word_count": 296,
+      "required_band": [
+        250,
+        300
+      ],
+      "in_band": true
+    },
+    {
+      "id": "Original 5 · 20 marks",
+      "marks": 20,
+      "timed_word_count": 377,
+      "required_band": [
+        340,
+        400
+      ],
+      "in_band": true
+    },
+    {
+      "id": "Original 6 · 20 marks",
+      "marks": 20,
+      "timed_word_count": 381,
+      "required_band": [
+        340,
+        400
+      ],
+      "in_band": true
+    }
+  ],
+  "all_timed_answers_in_band": true
+}

@@ -1,0 +1,519 @@
+{
+  "schema_version": 1,
+  "topic": "01 Cārvāka",
+  "validated_at": "2026-09-24T19:46:38+05:30",
+  "validation_mode": "development",
+  "result": "DEVELOPMENT_PASS",
+  "release_ready": false,
+  "result_gate": "DEVELOPMENT_PASS validates current package content and generated artifacts. RELEASE_PASS is non-mutating and additionally requires every required artifact to have Git-normalized identity with its staged index blob.",
+  "counts": {
+    "formal_blocks": 436,
+    "raw_proposition_mappings": 697,
+    "unique_semantic_propositions": 522,
+    "duplicate_proposition_occurrences": 175,
+    "mcqs": 32,
+    "primary_owned_pyqs": 9,
+    "supporting_routed_pyqs": 1,
+    "original_models": 6
+  },
+  "checks": {
+    "required_files": {
+      "files": [
+        {
+          "path": "README.md",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "REVISION-GUIDE.md",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "MCQ-QUESTIONS.md",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "MCQ-SOLUTIONS.md",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "ANSWER-WRITING-TOOLKIT.md",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "COVERAGE-LEDGER.md",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "PRACTICE-LOG.md",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "PREFLIGHT-LEDGER.json",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "FORMAL-COVERAGE-REVIEW.json",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "FORMAL-COVERAGE-AUDIT.json",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "MCQ-AUDIT.json",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "PYQ-DEMAND-AUDIT.json",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "VALIDATION.json",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "validate_package.py",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "pdf/Revision-Guide.pdf",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "pdf/MCQ-Questions.pdf",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "pdf/MCQ-Solutions.pdf",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "pdf/Answer-Writing-Toolkit.pdf",
+          "exists": true,
+          "regeneratable": false
+        }
+      ],
+      "pass": true
+    },
+    "source_integrity": {
+      "live": {
+        "session": {
+          "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Indian-Philosophy\\01-Carvaka\\Learning-Session.md",
+          "sha256": "2c5c319f7bdbeb587f68873c4f3dae08aefef24f070289c2da0a990c267ec722",
+          "bytes": 408340
+        },
+        "workbook": {
+          "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Indian-Philosophy\\01-Carvaka\\Solved-Practice-Workbook.md",
+          "sha256": "7ca19e9c4561374642351ca3fc08b624cab98c83a5d9c34250c3896c444b93c2",
+          "bytes": 116504
+        },
+        "canonical": {
+          "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Carvaka.md",
+          "sha256": "0f6e880580ce8ad0fc3954d43bc989e9038da1afa279ce79447ae775786b5315",
+          "bytes": 71291
+        },
+        "pyq_2018_2025": {
+          "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+          "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+          "bytes": 25796
+        },
+        "pyq_2026": {
+          "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2026.md",
+          "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+          "bytes": 8502
+        }
+      },
+      "preflight_mismatches": [],
+      "review_mismatches": [],
+      "pass": true
+    },
+    "formal_coverage": {
+      "live_block_count": 436,
+      "decision_count": 436,
+      "unreviewed": [],
+      "stale": [],
+      "destination_failures": [],
+      "proposition_failures": [],
+      "raw_proposition_mapping_count": 697,
+      "unique_semantic_proposition_count": 522,
+      "duplicate_proposition_occurrence_count": 175,
+      "proposition_accounting_failures": [],
+      "child_union_failures": [],
+      "large_leaf_segment_failures": [],
+      "panel_count": 12,
+      "errors": [],
+      "pass": true
+    },
+    "mcq_integrity": {
+      "question_count": 32,
+      "solution_count": 32,
+      "answer_key": "DBDBDCCAACDBCCAADCCADABCDCBABBCD",
+      "distribution": {
+        "A": 7,
+        "B": 7,
+        "C": 10,
+        "D": 8
+      },
+      "maximum_identical_run": 2,
+      "correct_longest_rate": 0.2812,
+      "unique_correct_longest_rate": 0.1875,
+      "cue_counts": {
+        "semicolon": {
+          "correct": 0,
+          "distractor": 0
+        },
+        "colon": {
+          "correct": 1,
+          "distractor": 0
+        },
+        "parentheses": {
+          "correct": 1,
+          "distractor": 1
+        },
+        "dash": {
+          "correct": 0,
+          "distractor": 0
+        },
+        "contrast": {
+          "correct": 8,
+          "distractor": 6
+        }
+      },
+      "generic_explanation_failures": [],
+      "errors": [],
+      "pass": true
+    },
+    "pyq_integrity": {
+      "primary_owned_count": 9,
+      "supporting_routed_count": 1,
+      "original_count": 6,
+      "timed_answers": [
+        {
+          "id": "2018 · Q8(b) · 15 marks",
+          "marks": 15,
+          "words": 260,
+          "band": [
+            250,
+            300
+          ],
+          "in_band": true
+        },
+        {
+          "id": "2019 · Q5(c) · 10 marks",
+          "marks": 10,
+          "words": 170,
+          "band": [
+            150,
+            200
+          ],
+          "in_band": true
+        },
+        {
+          "id": "2019 · Q6(c) · 15 marks",
+          "marks": 15,
+          "words": 266,
+          "band": [
+            250,
+            300
+          ],
+          "in_band": true
+        },
+        {
+          "id": "2020 · Q6(b) · 15 marks",
+          "marks": 15,
+          "words": 276,
+          "band": [
+            250,
+            300
+          ],
+          "in_band": true
+        },
+        {
+          "id": "2020 · Q7(c) · 15 marks",
+          "marks": 15,
+          "words": 275,
+          "band": [
+            250,
+            300
+          ],
+          "in_band": true
+        },
+        {
+          "id": "2021 · Q5(e) · 10 marks",
+          "marks": 10,
+          "words": 189,
+          "band": [
+            150,
+            200
+          ],
+          "in_band": true
+        },
+        {
+          "id": "2024 · Q5(a) · 10 marks",
+          "marks": 10,
+          "words": 190,
+          "band": [
+            150,
+            200
+          ],
+          "in_band": true
+        },
+        {
+          "id": "2024 · Q6(a) · 20 marks",
+          "marks": 20,
+          "words": 360,
+          "band": [
+            340,
+            400
+          ],
+          "in_band": true
+        },
+        {
+          "id": "2025 · Q5(a) · 10 marks",
+          "marks": 10,
+          "words": 193,
+          "band": [
+            150,
+            200
+          ],
+          "in_band": true
+        },
+        {
+          "id": "2022 · Q7(c) · 15 marks — supporting routed question, primary owner Nyāya–Vaiśeṣika",
+          "marks": 15,
+          "words": 287,
+          "band": [
+            250,
+            300
+          ],
+          "in_band": true
+        },
+        {
+          "id": "Original 1 · 10 marks",
+          "marks": 10,
+          "words": 162,
+          "band": [
+            150,
+            200
+          ],
+          "in_band": true
+        },
+        {
+          "id": "Original 2 · 10 marks",
+          "marks": 10,
+          "words": 175,
+          "band": [
+            150,
+            200
+          ],
+          "in_band": true
+        },
+        {
+          "id": "Original 3 · 15 marks",
+          "marks": 15,
+          "words": 256,
+          "band": [
+            250,
+            300
+          ],
+          "in_band": true
+        },
+        {
+          "id": "Original 4 · 15 marks",
+          "marks": 15,
+          "words": 296,
+          "band": [
+            250,
+            300
+          ],
+          "in_band": true
+        },
+        {
+          "id": "Original 5 · 20 marks",
+          "marks": 20,
+          "words": 377,
+          "band": [
+            340,
+            400
+          ],
+          "in_band": true
+        },
+        {
+          "id": "Original 6 · 20 marks",
+          "marks": 20,
+          "words": 381,
+          "band": [
+            340,
+            400
+          ],
+          "in_band": true
+        }
+      ],
+      "missing": [],
+      "errors": [],
+      "pass": true
+    },
+    "markdown_integrity": {
+      "errors": [],
+      "pass": true
+    },
+    "pdf_generation": {},
+    "pdf_integrity": {
+      "files": {
+        "Revision-Guide.pdf": {
+          "source": "REVISION-GUIDE.md",
+          "source_exists": true,
+          "exists": true,
+          "pages": 110,
+          "sha256": "478710645c13a5f0733292bbcbeed564831e6f6b46fdec6eea390a4eb579a13c",
+          "source_sha256": "ea061f9125de50da6f421a757e5170b7b1933c61af5321d3c4540de918932cb1",
+          "stamped_source_sha256": "ea061f9125de50da6f421a757e5170b7b1933c61af5321d3c4540de918932cb1",
+          "blank_pages": [],
+          "replacement_pages": [],
+          "out_of_bounds_pages": [],
+          "stale": false
+        },
+        "MCQ-Questions.pdf": {
+          "source": "MCQ-QUESTIONS.md",
+          "source_exists": true,
+          "exists": true,
+          "pages": 13,
+          "sha256": "3cce8816c022214ee1aec4fc5b9272d627d2c9da729d2bac8e4f4a1a7bfef699",
+          "source_sha256": "265e9a85d63267dca691b9cada2ccd8c00ced508ff1d2be0caf3df8d1e8918db",
+          "stamped_source_sha256": "265e9a85d63267dca691b9cada2ccd8c00ced508ff1d2be0caf3df8d1e8918db",
+          "blank_pages": [],
+          "replacement_pages": [],
+          "out_of_bounds_pages": [],
+          "stale": false
+        },
+        "MCQ-Solutions.pdf": {
+          "source": "MCQ-SOLUTIONS.md",
+          "source_exists": true,
+          "exists": true,
+          "pages": 22,
+          "sha256": "9085785f7f8433d21fd7569b8cb481164ad78fe398296c1629b79d305d963d96",
+          "source_sha256": "fca1fea63b6f78095d7a296af87c3a7eaf93f9d7bbd06e2ba840c10ec3b481d7",
+          "stamped_source_sha256": "fca1fea63b6f78095d7a296af87c3a7eaf93f9d7bbd06e2ba840c10ec3b481d7",
+          "blank_pages": [],
+          "replacement_pages": [],
+          "out_of_bounds_pages": [],
+          "stale": false
+        },
+        "Answer-Writing-Toolkit.pdf": {
+          "source": "ANSWER-WRITING-TOOLKIT.md",
+          "source_exists": true,
+          "exists": true,
+          "pages": 26,
+          "sha256": "6a27ecc0ed1e3fc438fd6bf8228e5daecd78321ec4ff027115dd3ad19eebf664",
+          "source_sha256": "6e92ce8a1c83eb1903b73877fbd376735dff51ec61447b8d310efa1b1d5ea175",
+          "stamped_source_sha256": "6e92ce8a1c83eb1903b73877fbd376735dff51ec61447b8d310efa1b1d5ea175",
+          "blank_pages": [],
+          "replacement_pages": [],
+          "out_of_bounds_pages": [],
+          "stale": false
+        }
+      },
+      "errors": [],
+      "pass": true
+    },
+    "copied_package_full_entry_negative_tests": {
+      "cases": [
+        {
+          "name": "missing_required_file",
+          "expected_code": "REQUIRED_MISSING",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "question_solution_divergence",
+          "expected_code": "MCQ_SYNC",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "formal_destination_mutation",
+          "expected_code": "FORMAL_DESTINATION",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "stale_pdf_after_markdown_change",
+          "expected_code": "PDF_STALE",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "missing_validation_no_crash",
+          "expected_code": "REQUIRED_MISSING",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "corrupt_raw_unique_proposition_accounting",
+          "expected_code": "PROPOSITION_ACCOUNTING:raw_count",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    "release_integrity": {
+      "required_count": 18,
+      "included_count": 0,
+      "missing_or_stale": [
+        "README.md",
+        "REVISION-GUIDE.md",
+        "MCQ-QUESTIONS.md",
+        "MCQ-SOLUTIONS.md",
+        "ANSWER-WRITING-TOOLKIT.md",
+        "COVERAGE-LEDGER.md",
+        "PRACTICE-LOG.md",
+        "PREFLIGHT-LEDGER.json",
+        "FORMAL-COVERAGE-REVIEW.json",
+        "FORMAL-COVERAGE-AUDIT.json",
+        "MCQ-AUDIT.json",
+        "PYQ-DEMAND-AUDIT.json",
+        "VALIDATION.json",
+        "validate_package.py",
+        "pdf/Revision-Guide.pdf",
+        "pdf/MCQ-Questions.pdf",
+        "pdf/MCQ-Solutions.pdf",
+        "pdf/Answer-Writing-Toolkit.pdf"
+      ],
+      "pass": false,
+      "enforced": false,
+      "normalization": "UTF-8 text compares LF-normalized index/worktree bytes; PDFs compare exact bytes."
+    }
+  },
+  "failures": [],
+  "mechanical_limits": "The validator proves enumerated source identity, exact or reviewed destination binding, hierarchy and panel parity, MCQ/PYQ structure, visible cue metrics, word bands, PDF mechanics and staged-file identity. It does not substitute for philosophical judgement or an examiner's evaluation."
+}

@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "topic": "01 Cārvāka",
+  "frozen_at": "2026-09-24T19:40:29+05:30",
+  "source_hashes": {
+    "session": {
+      "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Indian-Philosophy\\01-Carvaka\\Learning-Session.md",
+      "sha256": "2c5c319f7bdbeb587f68873c4f3dae08aefef24f070289c2da0a990c267ec722",
+      "bytes": 408340
+    },
+    "workbook": {
+      "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Indian-Philosophy\\01-Carvaka\\Solved-Practice-Workbook.md",
+      "sha256": "7ca19e9c4561374642351ca3fc08b624cab98c83a5d9c34250c3896c444b93c2",
+      "bytes": 116504
+    },
+    "canonical": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Carvaka.md",
+      "sha256": "0f6e880580ce8ad0fc3954d43bc989e9038da1afa279ce79447ae775786b5315",
+      "bytes": 71291
+    },
+    "pyq_2018_2025": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796
+    },
+    "pyq_2026": {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\_PYQ-Indian-Philosophy-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502
+    }
+  },
+  "formal_block_ledger": {
+    "session": 336,
+    "workbook": 100,
+    "total": 436
+  },
+  "defect_ledger": [
+    {
+      "id": "D01",
+      "defect": "Target package absent.",
+      "resolution": "Create isolated full package without shared-file edits.",
+      "status": "resolved"
+    },
+    {
+      "id": "D02",
+      "defect": "Formal MCQ positions cannot be copied without an independent package shuffle.",
+      "resolution": "Deterministically randomize each question and synchronize explanations.",
+      "status": "resolved"
+    },
+    {
+      "id": "D03",
+      "defect": "2022 Q7(c) is relevant but is not owned by Cārvāka.",
+      "resolution": "Retain as supporting_route_solved with Nyāya–Vaiśeṣika primary ownership.",
+      "status": "resolved"
+    },
+    {
+      "id": "D04",
+      "defect": "A fabricated 2026 Cārvāka obligation would contradict the verified ledger.",
+      "resolution": "Record verified absence: zero direct 2026 questions.",
+      "status": "resolved"
+    },
+    {
+      "id": "D05",
+      "defect": "Textual evidence and polemical reconstruction can be conflated.",
+      "resolution": "Preserve formal evidence labels and canonical cautions for lost texts, hostile doxography, Jayarāśi, pleasure verses and internal divisions.",
+      "status": "resolved"
+    }
+  ],
+  "route_ledger": [
+    {
+      "id": "PYQ-ROUTE-2022-Q7C",
+      "classification": "supporting_route_solved",
+      "primary_owner": "Nyāya–Vaiśeṣika",
+      "destination": "ANSWER-WRITING-TOOLKIT.md",
+      "status": "retained_with_honest_ownership"
+    },
+    {
+      "id": "PYQ-2026-CARVAKA-ABSENT",
+      "classification": "verified_absence",
+      "primary_owner": "Cārvāka",
+      "destination": "PYQ-DEMAND-AUDIT.json",
+      "status": "closed_no_direct_question"
+    }
+  ],
+  "pyq_ledger": [
+    {
+      "id": "2018 Q8(b)",
+      "marks": 15,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2019 Q5(c)",
+      "marks": 10,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2019 Q6(c)",
+      "marks": 15,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2020 Q6(b)",
+      "marks": 15,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2020 Q7(c)",
+      "marks": 15,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2021 Q5(e)",
+      "marks": 10,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2022 Q7(c)",
+      "marks": 15,
+      "status": "supporting_route_solved",
+      "primary_owner": "Nyāya–Vaiśeṣika"
+    },
+    {
+      "id": "2024 Q5(a)",
+      "marks": 10,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2024 Q6(a)",
+      "marks": 20,
+      "status": "primary_owned_solved"
+    },
+    {
+      "id": "2025 Q5(a)",
+      "marks": 10,
+      "status": "primary_owned_solved"
+    }
+  ],
+  "mcq_derivation": "The formal workbook defines 24 distinct core diagnostic inference cells and 8 distinct remedial misconception cells. Each cell is retained exactly once; therefore the coverage-derived total is 32, independently of other topics.",
+  "frozen": true
+}
