@@ -1,135 +1,42 @@
 ---
-title: "Rationalism (Descartes, Spinoza, Leibniz) — Live Learning Session (Learner-First Edition)"
-subject: "Philosophy Optional, Paper I, Section A — Western Philosophy, Syllabus Item 2"
+title: "Rationalism (Descartes, Spinoza, Leibniz) — Complete Live Learning Session"
+subject: "Philosophy Optional, Paper I, Section A — Western Philosophy"
 syllabus: "Rationalism (Descartes, Spinoza, Leibniz); Cartesian Method and Certain Knowledge; Substance; God; Mind-Body Dualism; Determinism and Freedom."
 cover_image: "../../../upsc-ai-kit/knowledge/Philosophy/Western-Philosophy/learning-sessions/Rationalism/assets/02_Rationalism-Method-Substance-Freedom-Map.png"
-roadmap_status: "frozen — 10 learner-facing lessons, accepted before drafting; internal Parts only within lessons 6, 9 and 10"
-generated_from:
-  - "upsc-ai-kit/knowledge/Philosophy/paper-1/western/Rationalism.md (canonical owner, Parts I and II)"
-  - "upsc-ai-kit/knowledge/Philosophy/paper-1/western/Plato-Aristotle.md §6.6 (cross-owned entelechy comparison)"
-  - "upsc-ai-kit/knowledge/Philosophy/_learning-sessions/02_Rationalism-Complete-Learning-Session.md"
-  - "upsc-ai-kit/knowledge/Philosophy/Western-Philosophy/learning-sessions/Rationalism/Rationalism_Layered-Complete-Learning-Session_2026-08-18.md"
-  - "upsc-ai-kit/knowledge/Philosophy/Western-Philosophy/learning-sessions/Rationalism/Rationalism_Layered-Solved-Practice-Workbook_2026-08-18.md"
-  - "upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md"
-  - "upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md"
 ---
 
-# RATIONALISM (DESCARTES, SPINOZA, LEIBNIZ) — Live Learning Session, Learner-First Edition
+# RATIONALISM — DESCARTES, SPINOZA AND LEIBNIZ
 
-> **Syllabus (verbatim):** Rationalism (Descartes, Spinoza, Leibniz); Cartesian Method and Certain Knowledge;
-> Substance; God; Mind-Body Dualism; Determinism and Freedom.
+> **Central question:** Can reason establish necessary truth and a coherent world without sacrificing plurality, embodiment and freedom?
 
-## Roadmap (frozen — do not alter count, order or boundaries)
+## Learning roadmap
 
-| # | Stage | Subtopic |
+| Lesson | Stage | Learner problem |
 |---:|---|---|
-| 1 | Foundation | The Rationalist Project — Basic Tenets, Innate Ideas, Intuition, Deduction, Intelligibility and the 3-1-Infinity Map |
-| 2 | Foundation | Cartesian Certainty — Four Rules, Methodic/Hyperbolic Doubt, Cogito, Thinking Thing, Clear and Distinct Ideas |
-| 3 | Foundation | Cartesian Reconstruction — Wax Argument, God Proofs/Guarantee, External World, Innate Ideas/Locke Challenge, Cartesian Circle |
-| 4 | Core | Substance — Descartes' God/Mind/Body Qualification, Spinoza's One Substance/Attributes/Modes, Leibniz's Monads; Why Counts Differ |
-| 5 | Core | God — Cartesian Guarantee, Spinozist Immanent God/Nature, Leibnizian Necessary Being and Selector of Possible Worlds/Theodicy |
-| 6 | Core | Mind and Body — Cartesian Interactionism, Spinoza Parallelism/Identity, Leibniz Pre-Established Harmony; Verified 2026 Spinoza States-of-Mind/Bodily-Processes Question |
-| 7 | Core | Freedom and Determinism — Descartes' Free Will/Error, Spinoza's Necessity/Conatus/Freedom Through Understanding, Leibniz's Compatibilism/Contingency/Moral Responsibility |
-| 8 | Advanced | Spinoza's Integrated System — Three Kinds of Knowledge, Conatus, Affects, Adequate Ideas, Pantheism/Acosmism, Determination-Negation, Intellectual Love |
-| 9 | Advanced | Leibniz's Integrated System — Monads, Perception/Appetition, Sufficient Reason, Complete Concepts, Possible Worlds, Freedom, Harmony and Entelechy; 2026 Aristotle-Leibniz Comparison Cross-Link |
-| 10 | Advanced | Final Synthesis — Comparisons, Criticisms, All Solved PYQs Through 2026, Answer Architecture, Practice and Register Notes |
+| 1 | Foundation | Why experience cannot alone explain necessity |
+| 2 | Foundation | Doubt that finds certainty: Descartes' method and Cogito |
+| 3 | Foundation | From self to world: wax, God, Cartesian Circle, external world, Locke challenge |
+| 4 | Core | What counts as substance? Descartes three/qualified substances, Spinoza one, Leibniz infinitely many |
+| 5 | Core | God as guarantee, immanence and sufficient reason: Descartes/Spinoza/Leibniz, possible worlds/theodicy |
+| 6 | Core | Three mind-body solutions: interaction, parallelism, pre-established harmony; 2026 Spinoza route and freedom consequences |
+| 7 | Core | Necessity and freedom: Cartesian error/will, Spinoza conatus/adequate understanding, Leibniz contingency/compatibilism |
+| 8 | Advanced | Spinoza system: conatus, affects, kinds of knowledge, adequate/inadequate ideas, pantheism/acosmism, determination-negation |
+| 9 | Advanced | Leibniz system: monads, perception/appetition, complete concepts, PSR, compossibility, harmony, theodicy, entelechy cross-link |
+| 10 | Advanced | Can rationalism reconcile necessity, plurality and freedom? |
 
-- This exact 10-subtopic roadmap was presented and accepted before drafting began; its count (10), order and
-  boundaries are frozen for this document, per the Roadmap Freeze rule in
-  `live_sessions/LIVE-SESSION-GENERATION-RULES.md`.
-- Coverage discovered or restored during the mandatory gap audit — the full Spinozist **conatus/affects**
-  apparatus (under-taught in the prior layered package's single sentence), the full Leibnizian **theodicy**
-  (problem of evil, three kinds of evil, "best of all possible worlds" as a solution rather than a slogan), the
-  verified **2026 Q1(a)** Spinoza mind-body question, and the verified **2026 Q1(d)** cross-owned Aristotle-Leibniz
-  entelechy comparison — is integrated as **internal Parts** inside the frozen structure: Lesson 6 gains
-  **Part B** (the 2026 Spinoza mind-body question, solved in full), Lesson 8 gains an expanded conatus/affects
-  block inside its existing Layer 2, Lesson 9 gains **Part B** (the entelechy comparison, with the complete
-  Leibnizian half authored here and the Aristotelian half cross-linked to its owner file) and its Layer 2 gains an
-  expanded theodicy block, and Lesson 10 gains two additional solved PYQs (15 and 16) inside its existing Part C.
-  No lesson was added, removed, merged or reordered to accommodate any of this.
-- Lesson 10 additionally carries four internal parts so that "final synthesis" is delivered inside the frozen
-  10-lesson structure rather than as extra top-level lessons: **Part A** (comparative synthesis, criticisms and
-  the directive decoder/verdict bank/translation discipline), **Part B** (the exact PYQ route map and
-  marks-wise answer architecture), **Part C** (the complete solved-practice bank: 16 solved PYQs, 40
-  rotation-checked MCQs, 3 original Mains questions with model answers) and **Part D** (the final consolidated
-  register notes). The coverage-lock matrix and the source/verification ledger that follow Lesson 10 are
-  appendices, not an eleventh and twelfth lesson.
+The sequence follows one problem as it becomes harder. Rationalism begins by asking how necessity is known. Descartes finds a certain thinker, then must recover God and world. The inherited notion of substance divides into dualism, monism and pluralism. Those ontologies then generate three mind-body theories and three accounts of freedom. Spinoza and Leibniz are finally studied as integrated systems before the concluding comparison tests whether rationalism can hold necessity, plurality and agency together.
 
-## How to Use This Live Session
+## Lesson 1 — Why Experience Cannot Alone Explain Necessity
 
-Each lesson follows one integrated terminal flow, with no separate labelled layers: **Progress -> Pre-Teach
-Checklist -> visual -> intuition -> doctrine/argument/examples -> comparison/criticism -> UPSC application ->
-revision/practice**. Every logical subtopic inside a lesson moves through this same learner-first order without
-interruption.
-
-Each lesson opens with a **Progress** line (lesson number, stage, exact subtopic) and a **Pre-Teach Checklist**
-(book context queried; the exact current-affairs search attempted; and an honest record of what, if anything, was
-found — this is a doctrinally static 17th-century metaphysics topic, so most checklists correctly record no
-forced current-affairs anchor). MCQs are answered after each question, not beside it, with every option
-explained; correct options rotate strictly **A -> B -> C -> D** throughout the 40-question bank without a
-consecutive repeat. **Rationalism must never be flattened into one system:** every doctrine below is taught
-per-philosopher first (Descartes, then Spinoza, then Leibniz) and compared only after each is independently
-precise.
-
-## Mandatory Gap Audit and Source Priority Note
-
-- **Canonical owner (controlling doctrine):** `upsc-ai-kit/knowledge/Philosophy/paper-1/western/Rationalism.md`
-  — read in full for this edition (Part I, §§0-12, D, V, T; and Part II's complete learning session and 14-question
-  solved workbook), including the restored 2018/2020 doctrine dossier, the corpus-driven depth delta, the
-  translation/provenance-discipline table and — newly verified for this edition — §4.2's 2026 Q1(a) owner-block
-  note and §2.3's 2026 Q1(d) cross-link note.
-- **Cross-owned canonical file:** `upsc-ai-kit/knowledge/Philosophy/paper-1/western/Plato-Aristotle.md` §6.6
-  ("Entelechy — Aristotle and Leibniz Compared") — read in full; this file owns the *term* and Aristotle's sense,
-  while Leibniz's monadology and the comparison's Leibnizian half are authored here in Lesson 9, Part B, exactly
-  as both owner files instruct.
-- **Prior approved package (structural and practice base):**
-  `Rationalism_Layered-Complete-Learning-Session_2026-08-18.md` and its paired
-  `Rationalism_Layered-Solved-Practice-Workbook_2026-08-18.md` (workbook content is a verified mirror of the
-  session's own Part II, so it is cross-checked but not separately re-derived). This live edition reorganises that
-  package's ten subtopics into the accepted frozen roadmap, adds the mandatory pre-teach checklists, and restores
-  or integrates every gap found below without shortening or merging any existing lesson.
-- **Verified PYQ ledgers:** `_PYQ-Western-Philosophy-2018-2025.md` (14 primary-owned Rationalism parts — two
-  every year from 2018 to 2025 except 2021, which has none) and `_PYQ-Western-Philosophy-2026.md` (2026 Q1(a),
-  primary-owned here, and 2026 Q1(d), cross-owned here) — together giving continuous 2018-2026 coverage, all 16
-  parts solved in Lesson 10, Part C.
-- **OCR-searchable local books** (`books/philosphy_books/`: Masih, Copleston Vol. IV, Warburton, Audi's
-  *Cambridge Dictionary of Philosophy* and others) were consulted for cross-checking terminology, citation
-  discipline and standard secondary-literature framing on conatus/affects and theodicy specifically; no claim in
-  this file rests on a book alone without the canonical Markdown owner's support.
-- **Official 2026 paper:** the 2026 PYQ ledger's transcription is already OCR-verified against
-  `books/mains/2026/` per its own sources section; no further primary-document lookup was required to confirm
-  Q1(a) and Q1(d)'s wording, year and marks.
-- **Current affairs:** `web_search` was attempted for every lesson's pre-teach checklist (topic-specific queries
-  are recorded per lesson) and returned a repeated backend transport error (HTTP 400, invalid session) on every
-  attempt made during drafting. No current-affairs anchor is fabricated or backfilled from memory; each checklist
-  records this truthfully. This matches the identical, independently-encountered finding recorded in the sibling
-  `01-Plato-Aristotle` live edition, and is consistent with the prior approved Rationalism package's own finding
-  that no sufficiently direct, doctrinally relevant, India-specific 2026 anchor exists for 17th-century
-  Continental metaphysics — static UPSC syllabus relevance is the sufficient exam linkage.
-- **Qdrant:** not required; Markdown, OCR books and the verified PYQ ledgers were sufficient at every step, per
-  the mandatory source-priority order.
-
-### Gap ledger (restored in this edition)
-
-| Gap found | Where it was thin | Where it is restored |
-|---|---|---|
-| Conatus and the affects (desire/joy/sadness; passive vs active affects; power of acting) were compressed to one sentence in the prior layered package | Layered session Unit 8, §5.2 cross-reference only | Lesson 8, Layer 2, expanded dedicated block |
-| Leibnizian theodicy (three kinds of evil; God permits vs wills; "best" defined precisely) was reduced to "best of all possible worlds + Voltaire" | Canonical §3.3, layered Unit 5 | Lesson 5, Layer 2/3, expanded theodicy block |
-| 2026 Q1(a) — Spinoza mind-body — not yet solved as a standalone PYQ anywhere in the prior package | Canonical §10 "2026 additions" flagged it as an owner-block note only | Lesson 6, Part B (deep teaching) and Lesson 10, Part C, Solved PYQ 15 |
-| 2026 Q1(d) — Aristotle/Leibniz entelechy — Leibnizian half not yet taught inside the Rationalism package | Canonical §2.3 flagged the cross-link only | Lesson 9, Part B (full Leibnizian half plus the complete comparison) and Lesson 10, Part C, Solved PYQ 16 |
-| Locke's specific objections to innate ideas were present but not cross-routed to Lesson 1's tenet-level mention | Canonical §1.5A | Lesson 1 introduces the tenet in one line; Lesson 3 carries the full doctrine, Locke's three objections and Cartesian replies |
-
----
-
-Progress: 1 / 10  |  Stage: Foundation  |  Subtopic: The Rationalist Project — Basic Tenets, Innate Ideas, Intuition, Deduction, Intelligibility and the 3-1-Infinity Map
+Progress: 1 / 10  |  Stage: Foundation  |  Subtopic: Why experience cannot alone explain necessity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
-Book context: [queried — canonical owner `upsc-ai-kit/knowledge/Philosophy/paper-1/western/Rationalism.md` §§0-1.5; cross-checked against Masih's *A Critical History of Western Philosophy*, Copleston's *A History of Philosophy* Vol. IV (Descartes to Leibniz), Warburton's *Philosophy: The Classics* and Audi's *Cambridge Dictionary of Philosophy* in `books/philosphy_books/`]
-CA search: "rationalism basic tenets UPSC current affairs India 2026"
-CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, so no substitute headline is invented or backfilled from memory. This is a school-level definitional item with no genuine unresolved current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage.
+Book context: [queried — Rationalism canonical Markdown; Masih, Copleston and Warburton on the rationalist project.]
+CA search: "rationalism necessity reason experience philosophy 2026"
+CA found: None used. This is a timeless philosophical problem; no recent event materially changes the doctrine.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual gateway — one confidence, three systems
+### From observed instances to necessary structure
 
 ```text
                   REASON CAN REACH NECESSARY STRUCTURE
@@ -160,7 +67,7 @@ that experience only occasions.
 
 > **Memory line:** the method is shared across the three thinkers; the ontology built on top of it is not.
 
-#### 0. ONE-SCREEN MAP ⚠️
+#### The whole school in one map ⚠️
 
 ```
 RATIONALISM = reason/innate structure grounds necessity and certainty
@@ -182,9 +89,9 @@ RATIONALISM = reason/innate structure grounds necessity and certainty
 > body are created substances in a dependent or analogical sense — this qualification is itself examinable
 > (Lesson 4).
 
-#### 0A. SOURCE MAP AND COMMON-PROJECT BOUNDARY ✅
+#### One rationalist project, three methodological centres ✅
 
-| Thinker | Primary source ownership | Methodological centre |
+| Thinker | Primary source attribution | Methodological centre |
 |---|---|---|
 | **Descartes** | *Discourse on Method*; *Meditations*; *Principles of Philosophy*; *Passions of the Soul* and Objections/Replies | methodic doubt, intellectual intuition, deduction and foundational reconstruction |
 | **Spinoza** | *Ethics*; *Treatise on the Emendation of the Intellect*; correspondence | definitions/axioms and geometric demonstration (*more geometrico*) of one necessary immanent order |
@@ -198,7 +105,7 @@ RATIONALISM = reason/innate structure grounds necessity and certainty
   inherited definition of "substance." Always name the operative criterion rather than merely reporting the
   count.
 
-#### 1. THE BASIC TENETS OF RATIONALISM (PYQ 2025 Q2a — "basic tenets") ⚠️
+#### The basic tenets of rationalism (2025 Q2(a)) ⚠️
 
 | Tenet | Content |
 |---|---|
@@ -263,27 +170,38 @@ reason discloses necessary structure. Its power lies in demanding reasons that e
 merely reporting regularities; its acknowledged weakness is that no neutral rational procedure, internal to the
 school itself, selects one final system over its rivals.
 
-### Verified routes and marks-wise architecture
+### Argument from necessity
+
+**Assumption:** Sense experience presents particular events and repeated patterns, but a finite set of observations does not contain the modal force of "must."
+
+1. Experience can show that every observed instance has had a feature.
+2. A necessary truth claims more: no coherent contrary instance is possible.
+3. Moving from "has always been so" to "could not be otherwise" therefore requires a rational relation, not another observation of the same kind.
+4. Intellectual intuition supplies simple necessary starting points; deduction preserves their necessity through a valid chain.
+
+**Conclusion:** Experience may awaken or occasion knowledge, but it cannot alone justify necessity and universality. **Cost and limit:** the rationalist must explain how intellectual starting points are identified without merely calling a disputed premise "self-evident."
+
+### Where the school-level questions enter
 
 - **2025 Q2(a), 20 marks:** "What are the basic tenets of Rationalism? How does Descartes build a system of
-  Philosophy in consonance with them? Discuss." — full solved answer at Lesson 10, Part C, Solved PYQ 13.
+  Philosophy in consonance with them? Discuss."
 - **2018 Q2(a), 20 marks:** "What is the reason for the difference in the definitions and classifications of
   substances made by Descartes, Spinoza and Leibniz in spite of the fact that they all belonged to the
   rationalist school of thought? Discuss." — the school-level tenets taught here are the compulsory opening move;
-  full solved answer at Lesson 10, Part C, Solved PYQ 2.
+  concise answer approach is listed in the final PYQ table.
 
-**10 marks:** define rationalism -> distinguish it from a denial of experience -> give three tenets -> one
+**Concise school-level answer:** define rationalism -> distinguish it from a denial of experience -> give three tenets -> one
 thinker-specific example -> qualification.
-**15 marks:** add the mathematical model, the innate-idea dispute, the intelligibility thesis and one internal
+**Developed school-level answer:** add the mathematical model, the innate-idea dispute, the intelligibility thesis and one internal
 tension (underdetermination).
-**20 marks:** use the thesis that shared method does not force shared ontology; compare how first principles
+**Full comparative answer:** use the thesis that shared method does not force shared ontology; compare how first principles
 generate the three systems and assess the underdetermination objection explicitly.
 
-**Demand trap:** "basic tenets" requires a **school-level** account before any answer narrows to Descartes alone
+**School-level misreading to avoid:** "basic tenets" requires a **school-level** account before any answer narrows to Descartes alone
 — a Descartes-only answer to a "basic tenets" question loses marks for incompleteness even if the Cartesian
 material is excellent.
 
-### Rapid recall
+### What must remain after the opening problem
 
 - Reason supplies necessity and universality; sensation may still occasion thought.
 - Five core tenets: innate cognitive resources, reason as ground of necessity, intuition and deduction,
@@ -295,65 +213,56 @@ material is excellent.
   unanimous only about the status of reason.
 - **Trap:** "innate ideas" at the tenet level (this lesson) is a school-wide claim; the full doctrine with
   Locke's named objections belongs to Lesson 3.
-- **Practice link:** MCQs 1, 3, 21 and 22 (Lesson 10, Part C) test the school-level operating logic.
 
-### Lesson-level practice checkpoint
+### Test: necessity versus repeated experience
 
-> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+#### MCQ 1 — Conceptual
+Which claim best explains why experience alone cannot ground necessity for a rationalist?
 
-#### MCQ 1
-Descartes' doubt is primarily:
-A. methodical and temporary
-B. permanent scepticism
-C. theological faith
-D. sensory relativism
-**Correct answer: A**
-**Explanation:** It clears unstable beliefs to find an indubitable foundation. The alternatives confuse a
-temporary foundational procedure with a settled sceptical doctrine.
+A. Experience supplies instances; intellect supplies necessity and universality.
+B. Repeated observation establishes what cannot possibly be otherwise.
+C. Sense experience becomes useless whenever a claim is universal.
+D. Necessary truth depends on revelation rather than rational insight.
 
-#### MCQ 3
-The Cartesian Circle concerns:
-A. mind-body interaction
-B. proof of the world
-C. mutual dependence of God and clear-distinct perception
-D. monadic harmony
-**Correct answer: C**
-**Explanation:** Each appears used to validate the other. Arnauld's objection targets the justificatory order,
-not the mind-body relation.
+**Answer: A**
 
-#### MCQ 21
-Rationalism's deepest common commitment is:
-A. reason can disclose necessary intelligible structure
-B. all senses are false
-C. only one substance exists
-D. all wills are free
-**Correct answer: A**
-**Explanation:** Substance counts and freedom theories differ. This formulation unites the school without
-falsely imposing one substance or freedom theory.
+- **A: Correct.** This is the rationalist distinction: experience can occasion thought, but intellect warrants modal necessity.
+- **B: Incorrect.** Induction can strengthen expectation, but no finite repetition proves that a contrary case is impossible.
+- **C: Incorrect.** Descartes, Spinoza and Leibniz do not discard experience; they deny it sole justificatory authority.
+- **D: Incorrect.** Classical rationalism grounds necessary knowledge in reason, not in an appeal to revealed authority.
 
-#### MCQ 22
-Descartes restores the external world after proving:
-A. monads
-B. a non-deceiving God
-C. parallelism
-D. common notions
-**Correct answer: B**
-**Explanation:** Divine veracity validates the natural inclination toward bodies. The order cogito -> God ->
-world is indispensable to Descartes' reconstruction.
+#### MCQ 2 — Applied
+A learner examines many triangles and infers that their angle-sum is necessary because no exception appeared. What is the rationalist correction?
 
-**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+A. Observed uniformity by itself establishes geometrical necessity.
+B. Observation prompts inquiry, but demonstration establishes necessity.
+C. Testimony about earlier triangles establishes the universal conclusion.
+D. Necessity is only a strong habit produced by repetition.
 
+**Answer: B**
+
+- **A: Incorrect.** A uniform sample remains contingent evidence and cannot show why an exception is conceptually impossible.
+- **B: Correct.** A rational demonstration connects the properties of a triangle necessarily; observation may only supply the occasion.
+- **C: Incorrect.** Testimony reports other observations and therefore does not add the missing modal warrant.
+- **D: Incorrect.** This is closer to a Humean account of expectation than to the rationalist account of geometrical necessity.
+
+### Why necessity now leads to radical doubt
+
+If reason supplies necessity, the next question is whether it can find even one truth immune to every possible doubt.
 
 ---
-Progress: 2 / 10  |  Stage: Foundation  |  Subtopic: Cartesian Certainty — Four Rules, Methodic/Hyperbolic Doubt, Cogito, Thinking Thing, Clear and Distinct Ideas
+
+## Lesson 2 — Doubt That Finds Certainty: Descartes' Method and Cogito
+
+Progress: 2 / 10  |  Stage: Foundation  |  Subtopic: Doubt that finds certainty: Descartes' method and Cogito
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
-Book context: [queried — canonical owner `Rationalism.md` §1.1-1.3, §1.5B step 1; cross-checked against Masih, Copleston Vol. IV and Warburton's chapter on Descartes' *Meditations* in `books/philosphy_books/`]
-CA search: "Descartes method of doubt cogito UPSC current affairs India 2026"
-CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is a 1637/1641 doctrinal item (four rules, hyperbolic doubt, cogito) with no genuine unresolved current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
+Book context: [queried — Descartes sections in the canonical Markdown; Masih and Warburton on the Meditations and methodic doubt.]
+CA search: "Descartes doubt certainty philosophy 2026"
+CA found: None used. This is a timeless philosophical problem; no recent event materially changes the doctrine.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual gateway — doubt destroys itself at one point
+### Doubt's descent and the indubitable remainder
 
 ```text
 SENSE ERROR -> DREAM -> EVIL DEMON
@@ -466,25 +375,37 @@ even yesterday's "clear and distinct" reasoning cannot be trusted today.
 not, by itself, carry the full weight of Cartesian dualism, an enduring soul, or trustworthy memory. Those
 require the further steps supplied across Lessons 3 and 6.
 
-### Verified route and answer architecture
+### Assumptions exposed
+
+- Thought is self-present while occurring: doubting cannot occur without awareness of the doubt.
+- Performative certainty is epistemically prior to any general premise about thinkers.
+- Moving from an occurrence of thinking to a persisting thinking substance requires the later
+  substance-and-identity argument; it is not contained in the bare Cogito.
+
+### Worked example and its limit
+
+Try to think, "No thinking is occurring now." The performance defeats the content: entertaining the sentence is already an occurrence of thought. This illustrates the Cogito's first-person, present-tense force.
+
+The example does **not** prove that the thinker is a permanent simple soul. It establishes an occurring subject of thought at the moment of performance; continuity, substantiality and mind-body distinction require later arguments.
+
+### Using the Cogito without claiming too much
 
 - **2022 Q4(b), 15 marks:** "How does Rene Descartes explain the notion of certainty with reference to knowledge
   of the self? Critically discuss the way it differs from the knowledge of the world." — this lesson supplies
-  the self-knowledge half; Lesson 3 supplies the world-knowledge half needed for the contrast. Full solved answer
-  at Lesson 10, Part C, Solved PYQ 8.
+  the self-knowledge half; Lesson 3 supplies the world-knowledge half needed for the contrast. A concise answer approach is listed in the final PYQ table.
 - **2025 Q2(a), 20 marks:** basic tenets question — methodic doubt and the cogito are the first embodiment of
-  rationalist method in Descartes' system (full solved answer at Lesson 10, Part C, Solved PYQ 13).
+  rationalist method in Descartes' system.
 
-**10 marks:** stages of doubt -> performative cogito -> *res cogitans* -> one limitation.
-**15 marks:** distinguish certainty of existence from knowledge of substance; compare self and world; add the
+**Concise Cogito answer:** stages of doubt -> performative cogito -> *res cogitans* -> one limitation.
+**Developed critical answer:** distinguish certainty of existence from knowledge of substance; compare self and world; add the
 "there is thinking" objection and reply.
-**20 marks:** reconstruct the complete methodological role of doubt, analyse the criterion of clear and distinct
+**Full methodological answer:** reconstruct the complete methodological role of doubt, analyse the criterion of clear and distinct
 perception, and show why the cogito is secure while the wider system remains dependent on God.
 
 **Directive trap:** "critically discuss" requires *judging* the move from thinking occurrence to substantial
 self, not merely narrating the *Meditations* in sequence.
 
-### Rapid recall
+### Certainty ledger
 
 - Four rules: evidence, division, order (simple to complex), complete enumeration.
 - Doubt is methodical, hyperbolic and temporary — a tool, not a settled scepticism.
@@ -496,65 +417,56 @@ self, not merely narrating the *Meditations* in sequence.
   distinction argument (Lesson 6).
 - **Trap:** *Cogito, ergo sum* is the *Discourse*/*Principles* wording; the *Meditations* itself uses "I am, I
   exist" (see Lesson 10's translation-discipline table).
-- **Practice link:** MCQs 1, 17 and 25 (Lesson 10, Part C); PYQ 2022 Q4(b).
 
-### Lesson-level practice checkpoint
+### Test: occurrence, self and substance
 
-> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+#### MCQ 3 — Conceptual
+Why is the Cogito not vulnerable in the same way as an ordinary syllogism?
 
-#### MCQ 2
-The wax argument chiefly shows:
-A. wax is unreal
-B. bodily identity is judged by intellect
-C. senses never function
-D. God is extension
-**Correct answer: B**
-**Explanation:** Changing sensible qualities do not exhaust the judged object. The argument isolates intellectual
-judgement of identity; the later world-proof is a different step.
+A. It rests on a universal premise about every thinking being.
+B. It infers the self from a reliable bodily sensation.
+C. Attempting to deny it performs the thinking that confirms it.
+D. It first proves an enduring substance and then its thoughts.
 
-#### MCQ 9
-Descartes' God mainly functions epistemologically as:
-A. guarantor of clear-distinct truth
-B. one mode
-C. aggregate of bodies
-D. strongest monad
-**Correct answer: A**
-**Explanation:** Divine non-deception bridges cogito and stable knowledge. Without non-deception, the move from
-present intuition to stable remembered knowledge remains insecure.
+**Answer: C**
 
-#### MCQ 22
-Descartes restores the external world after proving:
-A. monads
-B. a non-deceiving God
-C. parallelism
-D. common notions
-**Correct answer: B**
-**Explanation:** Divine veracity validates the natural inclination toward bodies. The order cogito -> God ->
-world is indispensable to Descartes' reconstruction.
+- **A: Incorrect.** If the Cogito depended on a universal major premise, that premise would itself remain exposed to doubt.
+- **B: Incorrect.** The Cogito survives the suspension of bodily and sensory beliefs; it is not inferred from sensation.
+- **C: Correct.** The denial is self-defeating in performance: doubting that thought occurs is itself an occurrence of thought.
+- **D: Incorrect.** The immediate result is thinking existence now; enduring substantial identity requires further argument.
 
-#### Remedial MCQ 25
-The cogito is best treated as:
-A. immediate performative certainty
-B. a syllogism from "all thinkers exist"
-C. sense inference
-D. proof of the body
-**Correct answer: A**
-**Explanation:** Descartes denies dependence on a suppressed major premise. A syllogistic reading would expose
-the cogito to doubt about its suppressed universal premise.
+#### MCQ 4 — Remedial
+What does the Cogito establish without further argument?
 
-**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+A. A material world exists independently of the thinker.
+B. Personal identity continues unchanged through every moment.
+C. An immaterial soul exists eternally and cannot perish.
+D. Thinking existence is certain whenever the thought occurs.
 
+**Answer: D**
+
+- **A: Incorrect.** The external world is restored later through divine veracity and the argument from involuntary sensory ideas.
+- **B: Incorrect.** The Cogito gives present certainty, not a criterion of diachronic identity or trustworthy memory.
+- **C: Incorrect.** Immortality and simplicity are stronger metaphysical claims than the immediate performance establishes.
+- **D: Correct.** This is the exact local conclusion: while thinking occurs, 'I am, I exist' cannot be false for the thinker.
+
+### Why the certain self still needs a world
+
+The Cogito secures the thinker only locally; the next lesson asks how Descartes can move from that certainty to body, God and world.
 
 ---
-Progress: 3 / 10  |  Stage: Foundation  |  Subtopic: Cartesian Reconstruction — Wax Argument, God Proofs/Guarantee, External World, Innate Ideas/Locke Challenge, Cartesian Circle
+
+## Lesson 3 — From Self to World: Wax, God, the Circle and Locke's Challenge
+
+Progress: 3 / 10  |  Stage: Foundation  |  Subtopic: From self to world: wax, God, Cartesian Circle, external world, Locke challenge
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
-Book context: [queried — canonical owner `Rationalism.md` §1.4-1.6, §1.5A-1.5B, §3.1; cross-checked against Masih, Copleston Vol. IV, Warburton and Audi's *Cambridge Dictionary of Philosophy* entries on Descartes and Locke in `books/philosphy_books/`]
-CA search: "Descartes wax argument proof of God external world UPSC current affairs 2026"
-CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is a Meditation II-V doctrinal item with no genuine unresolved current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
+Book context: [queried — Canonical Cartesian reconstruction; Masih, Copleston and Warburton on wax, God, world and innate ideas.]
+CA search: "Descartes external world innate ideas philosophy 2026"
+CA found: None used. This is a timeless philosophical problem; no recent event materially changes the doctrine.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual gateway — the hinge from self to world
+### The bridge from the thinking self to a material world
 
 ```text
 FRESH WAX                 MELTED WAX
@@ -703,7 +615,7 @@ empiricist opponent.
 3. A supremely perfect being lacking existence would lack a perfection — a contradiction.
 4. ∴ God necessarily exists.
 - (Kant will later attack this — "existence is not a real predicate"; cross-linked in `Kant.md` §6, outside this
-  file's ownership.)
+  file's attribution.)
 
 **Proof 3 — Conservation / Cosmological variant** (*Meditation* III): I exist now; I cannot sustain my own
 existence from moment to moment by my own power (conservation is, for Descartes, equivalent to continuous
@@ -765,28 +677,33 @@ establishes intellectual structuring more securely than it establishes a positiv
 certainty (Lesson 2) to a stable, God-guaranteed world remains only as strong as the contested theological
 bridge — which is exactly why the Circle is not a peripheral flaw but the system's load-bearing joint.
 
-### Verified routes and marks-wise architecture
+### Limit of the reconstruction
+
+The wax and hats-and-coats cases establish that judgement contributes more than a sensory catalogue. They do
+not by themselves prove that the relevant concepts are innate, that the external object exists, or that every
+clear intellectual judgement is true. Those stronger conclusions depend on the contested proofs of God and the
+answer to the Cartesian Circle.
+
+### Four recurring Cartesian demands
 
 - **2019 Q1(d), 10 marks:** "How does Descartes prove the existence of things other than himself and God?
-  Discuss." — full solved answer at Lesson 10, Part C, Solved PYQ 3.
-- **2022 Q4(b), 15 marks:** wax and divine veracity distinguish self from world — full solved answer at Lesson
-  10, Part C, Solved PYQ 8 (paired with Lesson 2).
+  Discuss."
+- **2022 Q4(b), 15 marks:** wax and divine veracity distinguish self from world
 - **2023 Q2(c), 15 marks:** "Discuss Descartes' theory of innate ideas and the grounds on which Locke refutes
-  it." — full solved answer at Lesson 10, Part C, Solved PYQ 10.
-- **2025 Q2(a), 20 marks:** places wax, God and world within the rationalist system — full solved answer at
-  Lesson 10, Part C, Solved PYQ 13.
+  it."
+- **2025 Q2(a), 20 marks:** places wax, God and world within the rationalist system
 
-**10 marks:** cogito already secured -> involuntary ideas/passive faculty -> non-deceiving God -> material cause
+**Concise reconstruction answer:** cogito already secured -> involuntary ideas/passive faculty -> non-deceiving God -> material cause
 -> qualify sensible qualities.
-**15 marks:** add wax, the clear/distinct rule, the Circle, the present-versus-remembered reply and a reasoned
+**Developed reconstruction answer:** add wax, the clear/distinct rule, the Circle, the present-versus-remembered reply and a reasoned
 verdict.
-**20 marks:** audit the whole deductive arc and show that Meditation II supplies intellectual priority while
+**Full Cartesian assessment:** examine the whole deductive arc and show that Meditation II supplies intellectual priority while
 Meditation III-V supplies the fragile theological bridge.
 
-**Demand trap:** never say the wax argument itself proves an external wax exists — it proves only *how* wax
+**Reconstruction mistake to avoid:** never say the wax argument itself proves an external wax exists — it proves only *how* wax
 would be known, if known at all.
 
-### Rapid recall
+### The Cartesian bridge in ten retrieval points
 
 - Wax qualities change completely; judged identity of the wax remains — grasped by *inspectio mentis*.
 - Hats and coats: apparent seeing already includes judgement.
@@ -800,65 +717,56 @@ would be known, if known at all.
   not solved, by the present/remembered distinction.
 - **Trap:** "Cogito, ergo sum" is not the exact wording used in the *Meditations* (see Lesson 10's translation
   discipline table); preserve the provenance distinction.
-- **Practice link:** MCQs 2, 3, 9, 22, 25 and 30 (Lesson 10, Part C).
 
-### Lesson-level practice checkpoint
+### Test: wax, God and the world-bridge
 
-> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+#### MCQ 5 — Conceptual
+What is the chief conclusion of Descartes' wax argument?
 
-#### MCQ 4
-For Spinoza, Thought and Extension are:
-A. modes
-B. substances
-C. illusions
-D. attributes
-**Correct answer: D**
-**Explanation:** They express one substance under two accessible aspects. Calling them substances would
-reproduce the Cartesian scheme Spinoza rejects.
+A. Bodily identity is judged intellectually, not read from a fixed sensory image.
+B. The changing wax proves an external world before God is established.
+C. Every sensible quality of a physical object is wholly unreal.
+D. Imagination can survey every shape that the wax may assume.
 
-#### MCQ 7
-Leibniz rejects extension as ultimate because it is:
-A. unreal to sense
-B. divine
-C. divisible and composite
-D. self-caused
-**Correct answer: C**
-**Explanation:** Ultimate substance must be simple. Divisibility shows that extension describes composites,
-whereas ultimate units must be partless.
+**Answer: A**
 
-#### MCQ 8
-"Monads have no windows" means:
-A. they lack perception
-B. they are spatial
-C. they are identical
-D. they receive no causal influx
-**Correct answer: D**
-**Explanation:** Their changes arise internally. Windowlessness does not remove perception; it removes external
-causal entry.
+- **A: Correct.** The sensible catalogue changes while the same wax is judged to remain, so intellect supplies the identity judgement.
+- **B: Incorrect.** The argument concerns how body is conceived; the existence of bodies is argued later in Meditation VI.
+- **C: Incorrect.** Descartes does not deny that qualities are experienced; he denies that their changing list constitutes the wax's essence.
+- **D: Incorrect.** The indefinitely many possible shapes exceed what finite imagination can enumerate, which is why imagination is insufficient.
 
-#### MCQ 18
-"Whatever is, is in God" is found in:
-A. *Monadology* §7
-B. *Ethics* I P15
-C. *Meditations* II
-D. Locke's *Essay* I
-**Correct answer: B**
-**Explanation:** It states modal dependence on the one substance. P15 states the modal dependence that grounds
-Spinoza's immanent monism.
+#### MCQ 6 — Applied
+Which sequence correctly states Descartes' reconstruction of the external world?
 
-**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+A. Wax identity, material existence, Cogito, then divine perfection.
+B. Cogito, non-deceiving God, then material causes of involuntary ideas.
+C. External bodies, innate ideas, divine proof, then methodic doubt.
+D. Dream argument, pineal interaction, then certainty of bodies.
 
+**Answer: B**
+
+- **A: Incorrect.** The wax argument does not establish material existence, and the Cogito precedes the later reconstruction.
+- **B: Correct.** Self-certainty comes first; divine non-deception then supports the natural inclination to attribute involuntary ideas to bodies.
+- **C: Incorrect.** Descartes suspends the external world at the outset rather than using it as the first premise.
+- **D: Incorrect.** The pineal hypothesis concerns mind-body interaction, not the epistemic proof of an external world.
+
+### Why reconstruction turns into ontology
+
+Once world and truth are reconstructed, the next dispute is ontological: what entities deserve the title 'substance'?
 
 ---
-Progress: 4 / 10  |  Stage: Core  |  Subtopic: Substance — Descartes' God/Mind/Body Qualification, Spinoza's One Substance/Attributes/Modes, Leibniz's Monads; Why Counts Differ
+
+## Lesson 4 — What Counts as Substance? Three, One and Infinitely Many
+
+Progress: 4 / 10  |  Stage: Core  |  Subtopic: What counts as substance? Descartes three/qualified substances, Spinoza one, Leibniz infinitely many
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
-Book context: [queried — canonical owner `Rationalism.md` §2.1-2.4, §2.3A, restored 2018/2020 doctrine dossier; cross-checked against Masih, Copleston Vol. IV (chapters on Descartes' dualism, Spinoza's monism and Leibniz's monadology) and Audi's *Cambridge Dictionary of Philosophy* in `books/philosphy_books/`]
-CA search: "Descartes Spinoza Leibniz substance monism pluralism UPSC current affairs 2026"
-CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is the star sub-topic of a 17th-century metaphysics syllabus item with no genuine current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
+Book context: [queried — Canonical substance comparison; Masih and Copleston on Descartes, Spinoza and Leibniz.]
+CA search: "substance Descartes Spinoza Leibniz philosophy 2026"
+CA found: None used. This is a timeless philosophical problem; no recent event materially changes the doctrine.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual gateway — count follows criterion
+### How a change of criterion changes the substance count
 
 ```text
                 WHAT CAN EXIST / BE CONCEIVED THROUGH ITSELF?
@@ -879,7 +787,7 @@ created substances; Spinoza permits only absolute independence; Leibniz adds tha
 > **Memory line:** attribute separates (Descartes), independence unifies (Spinoza), simplicity multiplies
 > (Leibniz).
 
-#### 2. SUBSTANCE ✅ — The STAR Sub-topic
+#### The inherited substance test
 
 **Shared definition all three inherit:** substance = *that which exists in itself, conceived through itself,
 needing nothing else in order to exist.*
@@ -962,8 +870,8 @@ modifications *within* God.
   - ⚠️ **Entelechy — cross-link (2026 Q1(d)):** Leibniz's use of "entelechy" for **created simple substances**
     (*Monadology* §§18-19) deliberately borrows an Aristotelian term while changing its category: in Aristotle
     *entelecheia* names **actuality/realisation**, not a substance. The full Aristotle-Leibniz comparison, with
-    table, objections and answer spine, is authored in Lesson 9, Part B (the term and Aristotle's sense are owned
-    by `Plato-Aristotle.md` §6.6). Do not duplicate the full comparison here.
+    table, objections and answer guidance, is developed in Lesson 9's entelechy comparison; Aristotle's sense is
+    treated more fully in `Plato-Aristotle.md` §6.6.
 - ⚠️ God is the unique uncreated necessary simple substance and source of monads. Calling God the "supreme
   Monad" is common shorthand, but God is not merely the highest member of the created series.
 - ✅ An organism is coordinated by a dominant monad and an organic aggregate of subordinate monads; this is not
@@ -1015,7 +923,7 @@ self-conception** (what genuinely needs nothing else); Leibniz begins from **met
 activity** (what is genuinely partless and internally active). The same inherited term therefore performs three
 different pieces of philosophical work.
 
-An examiner-grade answer must resist two shortcuts. First, Spinoza is not merely "one substance instead of
+A careful answer must resist two shortcuts. First, Spinoza is not merely "one substance instead of
 three"; monism *follows* through a chain of propositions about attributes, infinity and limitation — it is a
 conclusion, not a stipulation. Second, Leibniz's infinity of substances is not material atomism; monads are
 unextended and purely qualitative/psychical, unlike Democritean physical atoms.
@@ -1024,24 +932,35 @@ unextended and purely qualitative/psychical, unlike Democritean physical atoms.
 strictness. The ontology produced depends entirely on which feature — distinction, independence, or simplicity —
 is treated as decisive.
 
-### Verified routes and marks-wise architecture
+### Example: three tests applied to one ordinary body
 
-- **2018 Q2(a), 20 marks:** the central comparative substance question — full solved answer at Lesson 10, Part C,
-  Solved PYQ 2.
-- **2022 Q2(c), 15 marks:** Spinoza's substance and pantheistic consequence — full solved answer at Lesson 10,
-  Part C, Solved PYQ 7.
+Consider a wooden desk. Descartes treats its extension as belonging to created material substance. Spinoza treats the desk as a finite mode under the one attribute of Extension. Leibniz asks whether the divisible desk can be a genuine unity at all and answers that its ultimate ground lies in simple monads.
+
+The example clarifies the criteria but has a limit: none of the thinkers believes that merely looking at a desk settles metaphysics. The disagreement concerns what reason must posit to explain independence, unity and change.
+
+### Assumptions behind the three classifications
+
+- Metaphysics must identify genuine unities rather than merely useful aggregates.
+- Dependence, conceivability and simplicity are legitimate guides to what is ultimately real.
+- A change in the decisive criterion can alter the substance count without abandoning the common rationalist
+  demand for intelligibility.
+
+### Turning substance criteria into comparative answers
+
+- **2018 Q2(a), 20 marks:** the central comparative substance question
+- **2022 Q2(c), 15 marks:** Spinoza's substance and pantheistic consequence
 - **2025 Q2(b), 15 marks:** determination, finitude and negation within monism — full treatment cross-linked to
-  Lesson 8; solved at Lesson 10, Part C, Solved PYQ 14.
+  Lesson 8
 
-**10 marks:** common definition -> 3/1/infinity table -> one sentence on the mechanism of each count -> one cost.
-**15 marks:** derive one thinker's classification, add objection/reply and compare with the inherited criterion.
-**20 marks:** explain the **reason for divergence**, not merely the views; use the dialectical sequence, gains,
+**Concise substance answer:** common definition -> 3/1/infinity table -> one sentence on the mechanism of each count -> one cost.
+**Developed substance answer:** derive one thinker's classification, add objection/reply and compare with the inherited criterion.
+**Full comparative substance answer:** explain the **reason for divergence**, not merely the views; use the dialectical sequence, gains,
 costs and a conceptual verdict.
 
-**Demand trap:** a table without the *mechanism* of divergence does not answer "what is the reason for the
-difference?" — the examiner wants the logical move, not just the labels.
+**Comparison mistake to avoid:** a table without the *mechanism* of divergence does not answer "what is the reason for the
+difference?" — the question demands the logical move, not just the labels.
 
-### Rapid recall
+### The 3–1–infinity memory frame
 
 - Shared criterion: in itself and conceived through itself.
 - Descartes: God absolutely; mind and matter as dependent created substances (an admitted equivocation).
@@ -1049,65 +968,56 @@ difference?" — the examiner wants the logical move, not just the labels.
 - Leibniz: infinitely many simple, active, windowless monads; bodies are well-founded phenomena.
 - **Trap:** never call Spinoza's Thought and Extension two substances — they are two attributes of one.
 - **Trap:** never call Leibniz's monads physical atoms — they are unextended and psychical.
-- **Practice link:** MCQs 4, 7, 8, 18, 19 and 28 (Lesson 10, Part C); PYQ 2018 Q2(a).
 
-### Lesson-level practice checkpoint
+### Test: independence, modes and simplicity
 
-> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+#### MCQ 7 — Conceptual
+Why does Spinoza reject Descartes' created substances as substances in the strict sense?
 
-#### MCQ 9
-Descartes' God mainly functions epistemologically as:
-A. guarantor of clear-distinct truth
-B. one mode
-C. aggregate of bodies
-D. strongest monad
-**Correct answer: A**
-**Explanation:** Divine non-deception bridges cogito and stable knowledge. Without non-deception, the move from
-present intuition to stable remembered knowledge remains insecure.
+A. Mind and body possess no intelligible principal attributes.
+B. Mind and body are aggregates of Leibnizian monads.
+C. Their dependence on God violates complete ontological independence.
+D. Their essences reduce entirely to changing sensory qualities.
 
-#### MCQ 10
-Spinoza's God is best described as:
-A. transcendent artisan
-B. immanent substance
-C. finite intellect
-D. contingent selector
-**Correct answer: B**
-**Explanation:** God or Nature is the one substance. Immanence means finite things are modes within the one
-reality, not products external to it.
+**Answer: C**
 
-#### MCQ 11
-Leibniz invokes the PSR to argue for:
-A. sensory atoms
-B. parallel attributes
-C. a sufficient ground of contingent reality
-D. denial of God
-**Correct answer: C**
-**Explanation:** The contingent series requires a sufficient reason. PSR asks for an explanatory ground of the
-contingent series rather than another contingent member.
+- **A: Incorrect.** Descartes explicitly assigns thought and extension as the principal attributes of mind and body.
+- **B: Incorrect.** Monads belong to Leibniz's later pluralism and cannot explain Spinoza's criticism of Descartes.
+- **C: Correct.** If substance must be in itself and conceived through itself, created dependence disqualifies mind and body in the strict sense.
+- **D: Incorrect.** Cartesian mind and body are defined by thought and extension, not by a catalogue of sensible qualities.
 
-#### MCQ 18
-"Whatever is, is in God" is found in:
-A. *Monadology* §7
-B. *Ethics* I P15
-C. *Meditations* II
-D. Locke's *Essay* I
-**Correct answer: B**
-**Explanation:** It states modal dependence on the one substance. P15 states the modal dependence that grounds
-Spinoza's immanent monism.
+#### MCQ 8 — Applied
+Why does Leibniz's demand for genuine unity lead away from extended substance?
 
-**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+A. Extension belongs necessarily and exclusively to divine being.
+B. Extended objects lack every spatial or geometrical property.
+C. Every extended object must possess conscious apperception.
+D. Extension is divisible and composite, whereas substance must be simple.
 
+**Answer: D**
+
+- **A: Incorrect.** Leibniz does not identify extension with God; he treats extended bodies as grounded phenomena.
+- **B: Incorrect.** Extended things are spatial by definition; their spatial divisibility is precisely the difficulty.
+- **C: Incorrect.** Not every monad has conscious apperception, and extended aggregates are not made ultimate by consciousness.
+- **D: Correct.** A divisible composite cannot provide the true unity Leibniz requires, so simple monads must be fundamental.
+
+### Why substance changes the meaning of God
+
+Different substance counts alter the meaning and role of God, so the next lesson compares guarantee, immanence and sufficient reason.
 
 ---
-Progress: 5 / 10  |  Stage: Core  |  Subtopic: God — Cartesian Guarantee, Spinozist Immanent God/Nature, Leibnizian Necessary Being and Selector of Possible Worlds/Theodicy
+
+## Lesson 5 — Three Divine Roles: Guarantee, Immanence and Sufficient Reason
+
+Progress: 5 / 10  |  Stage: Core  |  Subtopic: God as guarantee, immanence and sufficient reason: Descartes/Spinoza/Leibniz, possible worlds/theodicy
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
-Book context: [queried — canonical owner `Rationalism.md` §3.1-3.4, §3.2A; cross-checked against Masih, Copleston Vol. IV and, for the theodicy gap specifically, Warburton and Audi's *Cambridge Dictionary of Philosophy* entry on Leibniz's *Theodicy* in `books/philosphy_books/`]
-CA search: "Descartes Spinoza Leibniz God proofs theodicy UPSC current affairs 2026"
-CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is a 17th-18th-century philosophy-of-religion doctrinal item with no genuine unresolved current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
+Book context: [queried — Canonical God sections; Copleston, Masih and secondary discussions of Leibniz's theodicy.]
+CA search: "Descartes Spinoza Leibniz God theodicy philosophy 2026"
+CA found: None used. This is a timeless philosophical problem; no recent event materially changes the doctrine.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual gateway — three roles
+### Guarantee, immanent reality and rational selection
 
 ```text
 DESCARTES                 SPINOZA                  LEIBNIZ
@@ -1124,7 +1034,7 @@ God's goodness given the existence of evil) becomes indispensable to his system.
 
 > **Memory line:** guarantee -> immanence -> selection-with-justification.
 
-#### 3. GOD ✅ (proofs already reconstructed for Descartes in Lesson 3, §3.1 — cross-referenced, not repeated)
+#### What explanatory work must God perform?
 
 #### 3.2 SPINOZA on God ✅
 
@@ -1171,7 +1081,7 @@ equation "each finite thing = the whole of God" (full pantheism/acosmism debate 
 
 #### 3.3A Leibnizian Theodicy — the problem of evil, expanded ⚠️
 
-*Restored gap: the prior package compressed this to "best of all possible worlds + Voltaire's satire." The full
+*Restored gap: the prior edition compressed this to "best of all possible worlds + Voltaire's satire." The full
 doctrine, needed for any "critically discuss"-level engagement with Leibniz's God, is set out below.*
 
 - ✅ **The problem theodicy answers:** if God is omnipotent, omniscient and perfectly good, why does evil exist at
@@ -1247,26 +1157,40 @@ itself). Descartes and Leibniz preserve stronger personal and explanatory functi
 entire apparatus for reconciling divine goodness with evil — at the cost of heavier proof burdens and, for
 Leibniz specifically, the charge of unfalsifiability.
 
-### Verified routes and marks-wise architecture
+### Example: three meanings of "God explains the order"
 
-- **2019 Q1(d), 10 marks:** Descartes' God as bridge to the world — cross-linked to Lesson 3; full solved answer
-  at Lesson 10, Part C, Solved PYQ 3.
+- In Descartes, God resembles a guarantor whose honesty makes the transition from clear perception to stable knowledge trustworthy.
+- In Spinoza, God is not a guarantor outside the order; God **is** the immanent order expressed through attributes and modes.
+- In Leibniz, God is the sufficient ground who selects one compossible world and coordinates its monads.
+
+The analogy is limited because divine action is not literally legal certification, physical containment or human planning. Its purpose is to distinguish three explanatory functions that the same word "God" performs.
+
+### Assumptions behind the three divine roles
+
+- Necessary or contingent order requires an intelligible ground rather than a brute fact.
+- Perfection is taken to exclude deception in Descartes, external limitation in Spinoza, and irrational choice
+  in Leibniz.
+- The major cost is that each system builds the needed divine role into its account of reason, reality or
+  possibility; critics may therefore challenge the starting conception of perfection itself.
+
+### Writing God as three different explanatory functions
+
+- **2019 Q1(d), 10 marks:** Descartes' God as bridge to the world — cross-linked to Lesson 3; concise answer approach is listed in the final PYQ table.
 - **2020 Q4(b), 15 marks:** "From the necessity of the divine nature there must follow infinitely many things in
-  infinitely many ways" — full solved answer at Lesson 10, Part C, Solved PYQ 6.
-- **2024 Q2(b), 15 marks:** "Whatever is, is in God" — full solved answer at Lesson 10, Part C, Solved PYQ 11.
-- **2018 Q1(b), 10 marks:** Leibnizian freedom under pre-established harmony implicates God as selector — full
-  solved answer at Lesson 10, Part C, Solved PYQ 1 (cross-linked to Lesson 7).
+  infinitely many ways"
+- **2024 Q2(b), 15 marks:** "Whatever is, is in God"
+- **2018 Q1(b), 10 marks:** Leibnizian freedom under pre-established harmony implicates God as selector.
 
-**10 marks:** identify the role -> reconstruct one proof or proposition -> state consequence -> one objection.
-**15 marks:** distinguish transcendent, immanent and selecting-and-justifying functions; add the
+**Concise divine-role answer:** identify the role -> reconstruct one proof or proposition -> state consequence -> one objection.
+**Developed comparison:** distinguish transcendent, immanent and selecting-and-justifying functions; add the
 personality/necessity criticism and reply.
-**20 marks:** compare proof, world-relation, freedom, evil/theodicy and explanatory cost across all three, ending
+**Full three-thinker assessment:** compare proof, world-relation, freedom, evil/theodicy and explanatory cost across all three, ending
 with a criterion-based verdict.
 
-**Demand trap:** "Whatever is, is in God" is **ontological dependence**, not spatial inclusion and not merely
+**Theological reading to avoid:** "Whatever is, is in God" is **ontological dependence**, not spatial inclusion and not merely
 creation — treating it as either is a common and heavily penalised misreading.
 
-### Rapid recall
+### Three divine roles to retain
 
 - Descartes: trademark, ontological and conservation routes; God is no deceiver (proofs taught fully in Lesson
   3, §3.1).
@@ -1278,65 +1202,56 @@ creation — treating it as either is a common and heavily penalised misreading.
 - **Trap:** pantheism is not the claim that God is only the visible aggregate of finite things.
 - **Trap:** "best of all possible worlds" is not "the most comfortable world for every individual" — it is
   maximum variety under minimum governing principles, constrained by compossibility.
-- **Practice link:** MCQs 9-11, 18, 19 and 29 (Lesson 10, Part C); PYQs 2020 Q4(b), 2024 Q2(b).
 
-### Lesson-level practice checkpoint
+### Test: guarantee, immanence and the best world
 
-> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+#### MCQ 9 — Conceptual
+What is God's distinctive epistemic role in Descartes' mature reconstruction?
 
-#### MCQ 8
-"Monads have no windows" means:
-A. they lack perception
-B. they are spatial
-C. they are identical
-D. they receive no causal influx
-**Correct answer: D**
-**Explanation:** Their changes arise internally. Windowlessness does not remove perception; it removes external
-causal entry.
+A. A perfect non-deceiver secures clear reasoning beyond present attention.
+B. God is the one immanent substance expressed by finite modes.
+C. God coordinates monads after observing their mutual interaction.
+D. God functions only as a moral ideal without cognitive relevance.
 
-#### MCQ 12
-Cartesian interaction is commonly located at the:
-A. heart
-B. optic nerve
-C. cerebellum
-D. pineal gland
-**Correct answer: D**
-**Explanation:** The location does not solve the conceptual causal gap. A bodily location cannot by itself
-explain commerce between unextended thought and extension.
+**Answer: A**
 
-#### MCQ 13
-Spinozist parallelism says:
-A. mental and bodily orders express the same mode
-B. minds push bodies
-C. bodies are unreal
-D. God resets events
-**Correct answer: A**
-**Explanation:** II P7 links the order of ideas and things. Parallelism is identity under attributes, not two
-synchronized substances.
+- **A: Correct.** Divine veracity extends trust from presently attended clear perception to remembered reasoning and the reconstructed world.
+- **B: Incorrect.** God as immanent substance is Spinoza's doctrine, not the Cartesian role of a transcendent guarantor.
+- **C: Incorrect.** Leibnizian monads never interact, and their harmony is pre-established rather than arranged after observation.
+- **D: Incorrect.** Descartes' God performs essential epistemic work; removing that role breaks the bridge beyond the Cogito.
 
-#### MCQ 14
-Pre-established harmony is illustrated by:
-A. melting wax
-B. synchronized clocks
-C. a thrown stone
-D. a blank slate
-**Correct answer: B**
-**Explanation:** Correspondence occurs without interaction. The clocks illustrate correspondence without causal
-exchange, unlike Cartesian interaction.
+#### MCQ 10 — Remedial
+What does Leibniz mean by the 'best' possible world?
 
-**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+A. A world containing neither suffering nor moral wrongdoing.
+B. The optimal compossible order of richness and simple laws.
+C. The world preferred by the largest number of creatures.
+D. A world whose existence follows by strict logical necessity.
 
+**Answer: B**
+
+- **A: Incorrect.** Leibniz permits physical and moral evil where their exclusion would sacrifice a better total order.
+- **B: Correct.** Best concerns the whole compossible system: maximal variety and perfection under economical principles.
+- **C: Incorrect.** Divine selection is not a majoritarian calculation of creaturely preferences.
+- **D: Incorrect.** The actual world is morally selected as best, but alternative possible worlds are not contradictory.
+
+### Why divine order produces a mind-body problem
+
+Once God and world are related, the human union of thought and body becomes unavoidable.
 
 ---
-Progress: 6 / 10  |  Stage: Core  |  Subtopic: Mind and Body — Cartesian Interactionism, Spinoza Parallelism/Identity, Leibniz Pre-Established Harmony; Verified 2026 Spinoza States-of-Mind/Bodily-Processes Question
+
+## Lesson 6 — Mind and Body: Interaction, Parallel Expression and Harmony
+
+Progress: 6 / 10  |  Stage: Core  |  Subtopic: Three mind-body solutions: interaction, parallelism, pre-established harmony; 2026 Spinoza route and freedom consequences
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
-Book context: [queried — canonical owner `Rationalism.md` §4.1-4.5; verified 2026 owner-block note in canonical §4.2 and §10 "2026 additions"; cross-checked against `_PYQ-Western-Philosophy-2026.md` Q1(a) and Masih/Copleston Vol. IV on Spinozist parallelism in `books/philosphy_books/`]
-CA search: "Spinoza mind body parallelism 2026 UPSC Philosophy Paper I current affairs"
-CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. The 2026 anchor here is the **verified UPSC 2026 examination paper itself** (Q1(a)), not a news event; this is recorded honestly as an examination-verified link rather than a current-affairs link.
+Book context: [queried — Canonical mind-body sections; Masih and Copleston on interaction, parallelism and harmony.]
+CA search: "mind body Spinoza parallelism philosophy 2026"
+CA found: None used. This is a timeless philosophical problem; no recent event materially changes the doctrine.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual gateway — apparent coordination
+### One human action, three accounts of coordination
 
 ```text
 DESCARTES: mind ---> body and body ---> mind
@@ -1356,7 +1271,7 @@ other; God coordinated their independent histories from the very beginning.
 
 > **Memory line:** interaction -> parallelism -> harmony.
 
-#### 4. MIND-BODY DUALISM ✅
+#### The Cartesian problem inherited by all three
 
 #### 4.1 DESCARTES — Substance Dualism and Interactionism ✅
 
@@ -1425,7 +1340,7 @@ being and causally interact.
 - **Leibniz's pre-established harmony** allows a *compatibilist* freedom: the monad's acts unfold from its own
   nature (spontaneity) + are intelligent + the actual world is contingent (not logically necessary) — so
   freedom = spontaneity + intelligence + contingency.
-- **Answer to the PYQ:** Leibniz's account is most *compatible* with human freedom because it preserves a
+- **Comparative verdict:** Leibniz's account is most *compatible* with human freedom because it preserves a
   meaningful (compatibilist) sense of free choice while also resolving the mind-body problem without requiring
   unintelligible cross-substance causation. Descartes allows *more* freedom (libertarian) but at the cost of an
   insoluble interaction problem. ⚠️ (Full ranking and defence in Lesson 7 and Lesson 10.)
@@ -1443,12 +1358,29 @@ The accounts differ not merely in mechanism but in whether the *original interac
 well-formed*. Descartes accepts it and cannot fully answer it; Spinoza dissolves its two-substance premise;
 Leibniz denies causal exchange among all genuine substances whatsoever.
 
+### Complete argument through one example
+
+Take the ordinary sequence "I decide to raise my arm, and the arm rises."
+
+**Assumptions:** the event has an intelligible explanation; mental description and bodily description cannot
+simply be ignored; a theory must say whether they name two things or one.
+
+1. Descartes treats the decision and movement as states of distinct substances and therefore requires causal
+   interaction.
+2. Spinoza treats them as one modal event expressed under Thought and Extension, so no causal crossing occurs.
+3. Leibniz treats the mind-monad and bodily aggregate as internally unfolding series whose correspondence was
+   pre-established.
+
+**Conclusion:** the apparent same event receives three mechanisms because each thinker begins from a different
+ontology. **Limit of the example:** first-person experience tells us that decision and movement correspond; it
+does not decide whether the relation is interaction, identity or harmony.
+
 ---
 
-### PART B — The Verified 2026 Question: Spinoza on States of Mind and Bodily Processes
+### The 2026 application: one event under two attributes
 
 > **2026 Q1(a), 10 marks:** "How does Spinoza explain the relationship between states of mind and bodily
-> processes?" — **primary owner: this file**, drawing on §4.2 (parallelism/double-aspect), §2.2 (substance and
+> processes?" — **primary linkage: this file**, drawing on §4.2 (parallelism/double-aspect), §2.2 (substance and
 > attributes) and §3.2 (God as the one substance). Verified against `_PYQ-Western-Philosophy-2026.md`.
 
 **Exact demand decoded:** the question asks specifically about the **relationship** — the mechanism connecting
@@ -1508,7 +1440,7 @@ Spinoza's *Ethics* II P7 removes cross-attribute causation entirely, because one
 Thought and Extension simultaneously. The gain is economy — no interaction problem can arise where there was
 never a second substance. The cost is uncertainty about **mental causation and personal agency**: if reasons and
 bodily movements are strictly parallel rather than one causing the other, some critics ask whether mental
-explanation retains any real explanatory bite (see Part B's objection above).
+explanation retains any real explanatory bite (see the objection in the 2026 application above).
 
 Leibniz's standard two-clocks analogy explains correspondence without influx. "Monads have no windows" is a
 standard English rendering of *Monadology* §7, not an original English sentence. Harmony protects internal
@@ -1521,29 +1453,25 @@ matches ordinary first-person experience of interaction, and Leibniz best integr
 plurality of substances. A declared winner exists only after the evaluative criterion (economy, experiential
 fidelity, or systematic consistency) is stated explicitly — exactly the discipline the 2024 Q3(c) PYQ demands.
 
-### Verified route and marks-wise architecture
+### Applying the coordination theories to freedom and 2026
 
-- **2024 Q3(c), 15 marks:** rank the rationalist mind-body accounts against human freedom and free will — full
-  solved answer at Lesson 10, Part C, Solved PYQ 12.
-- **2018 Q1(b), 10 marks:** harmony and Leibnizian freedom — full solved answer at Lesson 10, Part C, Solved
-  PYQ 1.
-- **2026 Q1(a), 10 marks:** Spinoza on states of mind and bodily processes — full solved answer at Lesson 10,
-  Part C, Solved PYQ 15 (Part B above supplies the complete teaching; Lesson 10 supplies the exam-format model
-  answer).
+- **2024 Q3(c), 15 marks:** rank the rationalist mind-body accounts against human freedom and free will.
+- **2018 Q1(b), 10 marks:** harmony and Leibnizian freedom
+- **2026 Q1(a), 10 marks:** Spinoza on states of mind and bodily processes
 
-**10 marks:** define the selected mechanism -> one analogy/textual anchor -> freedom consequence -> one
+**Concise mechanism answer:** define the selected mechanism -> one analogy/textual anchor -> freedom consequence -> one
 weakness.
-**15 marks:** compare all three on ontology, causation and freedom; explicitly defend a winner against a stated
+**Developed comparison:** compare all three on ontology, causation and freedom; explicitly defend a winner against a stated
 criterion.
-**20 marks:** reconstruct the interaction problem, show how each system changes the premise, and assess economy,
+**Full mind-body assessment:** reconstruct the interaction problem, show how each system changes the premise, and assess economy,
 experience and responsibility separately.
 
-**Demand trap:** "compatible with freedom" is not answered by neutral description; state the freedom criterion
+**Freedom-comparison mistake to avoid:** "compatible with freedom" is not answered by neutral description; state the freedom criterion
 before ranking. Similarly, the 2026 "relationship between states of mind and bodily processes" question is not
 answered by a general essay on Spinozist metaphysics — it must foreground **identity and parallel causal order**,
 using P7 and P13 by name.
 
-### Rapid recall
+### Coordination theories at a glance
 
 - Descartes: real distinction plus interaction; the pineal gland names a location, not a mechanism; Princess
   Elisabeth's objection and the "union as primitive notion" reply.
@@ -1554,65 +1482,56 @@ using P7 and P13 by name.
 - **Trap:** harmony is not occasional divine intervention after creation — it is a single act of coordination at
   creation itself.
 - **Trap:** the 2026 Q1(a) answer must name P7 and P13 explicitly, not merely assert "Spinoza rejects dualism."
-- **Practice link:** MCQs 8, 12-14, 24 and 31 (Lesson 10, Part C); PYQs 2024 Q3(c), 2026 Q1(a).
 
-### Lesson-level practice checkpoint
+### Test: interaction, identity and synchronisation
 
-> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+#### MCQ 11 — Conceptual
+How does Spinoza relate a mental state to its bodily correlate?
 
-#### MCQ 15
-Spinoza calls absolutely free what:
-A. is uncaused
-B. is random
-C. acts solely from its own nature
-D. defeats natural law
-**Correct answer: C**
-**Explanation:** This is *Ethics* I Definition 7. Spinoza's definition replaces randomness with action from the
-necessity of one's own nature.
+A. Two substances exchange influence through a privileged bodily organ.
+B. Two windowless monads transmit matching causal messages.
+C. One mode is expressed under Thought and under Extension.
+D. Two unrelated events happen to coincide without explanation.
 
-#### MCQ 16
-Leibnizian reasons:
-A. never affect choice
-B. logically necessitate every act
-C. are sensory impacts
-D. incline without necessitating
-**Correct answer: D**
-**Explanation:** This supports compatibilist freedom. Moral inclination preserves rational explanation while
-denying contradiction-based compulsion.
+**Answer: C**
 
-#### MCQ 17
-Descartes' error theory says error occurs when:
-A. will outruns intellect
-B. body disappears
-C. ideas interact
-D. God deceives
-**Correct answer: A**
-**Explanation:** The will assents beyond clear understanding. Error is attributable to misuse of freedom because
-God supplies no positively false clear idea.
+- **A: Incorrect.** This is Descartes' interactionist picture, which Spinoza rejects by denying two created substances.
+- **B: Incorrect.** Windowless monads and pre-established harmony belong to Leibniz, and monads do not transmit messages.
+- **C: Correct.** Mind and body are the same modal reality conceived through different attributes, so no cross-attribute cause is needed.
+- **D: Incorrect.** Their correspondence is grounded in the identity and parallel order of one substance, not accidental coincidence.
 
-#### MCQ 20
-The complete-concept doctrine most threatens:
-A. extension
-B. innate ideas
-C. pantheism
-D. contingency and freedom
-**Correct answer: D**
-**Explanation:** Predicates fixed in the concept seem necessary. If every predicate belongs to the concept,
-alternative possibilities need the possible-world distinction.
+#### MCQ 12 — Applied
+Which comparison of the three mind-body accounts is accurate?
 
-**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+A. Descartes and Leibniz both affirm direct causal influx.
+B. Spinoza and Leibniz both identify one event under attributes.
+C. Descartes denies interaction while Spinoza locates it bodily.
+D. Descartes interacts, Spinoza parallels, and Leibniz harmonises.
 
+**Answer: D**
+
+- **A: Incorrect.** Descartes affirms interaction, but Leibniz denies all influx among genuine substances.
+- **B: Incorrect.** Spinoza uses one mode under attributes; Leibniz retains distinct monadic series coordinated without identity.
+- **C: Incorrect.** The positions are reversed: Descartes accepts interaction, while Spinoza rejects cross-attribute causation.
+- **D: Correct.** This correctly captures interactionism, parallel expression and pre-established harmony respectively.
+
+### Why coordination theories constrain freedom
+
+Each mind-body theory constrains what freedom can mean; the next lesson makes those consequences explicit.
 
 ---
-Progress: 7 / 10  |  Stage: Core  |  Subtopic: Freedom and Determinism — Descartes' Free Will/Error, Spinoza's Necessity/Conatus/Freedom Through Understanding, Leibniz's Compatibilism/Contingency/Moral Responsibility
+
+## Lesson 7 — Necessity and Freedom: Will, Understanding and Compatibilism
+
+Progress: 7 / 10  |  Stage: Core  |  Subtopic: Necessity and freedom: Cartesian error/will, Spinoza conatus/adequate understanding, Leibniz contingency/compatibilism
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
-Book context: [queried — canonical owner `Rationalism.md` §5.1-5.4; cross-checked against Masih, Copleston Vol. IV and Warburton's chapters on Descartes' *Passions of the Soul*, Spinoza's *Ethics* Parts I-III and Leibniz's *Theodicy*/Leibniz-Clarke correspondence in `books/philosphy_books/`]
-CA search: "Descartes Spinoza Leibniz freedom determinism free will UPSC current affairs 2026"
-CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is a 17th-18th-century metaphysics-of-agency doctrinal item with no genuine unresolved current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
+Book context: [queried — Canonical freedom sections; Masih and Copleston on will, necessity and compatibilism.]
+CA search: "free will determinism rationalism philosophy 2026"
+CA found: None used. This is a timeless philosophical problem; no recent event materially changes the doctrine.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual gateway — three meanings of freedom
+### Three rival meanings of a free act
 
 ```text
 DESCARTES
@@ -1641,7 +1560,7 @@ series is already settled in God's foreknowledge.
 
 > **Memory line:** alternatives -> adequacy -> intelligent spontaneity.
 
-#### 5. DETERMINISM AND FREEDOM ✅
+#### What can freedom mean in an intelligible order?
 
 #### 5.1 DESCARTES on Freedom ✅
 
@@ -1717,7 +1636,7 @@ under-explained relation to divine preordination. If freedom **requires self-det
 understanding** (Spinoza's own redefinition), Spinoza qualifies best, and the "stone" objection to naive free
 will retains real force even against contemporary compatibilists. If freedom **requires reconciling
 determination with moral responsibility** (a compatibilist criterion, closest to how "freedom" functions in
-everyday moral practice), Leibniz's spontaneity-intelligence-contingency package is the most workable, because it
+everyday moral practice), Leibniz's spontaneity-intelligence-contingency edition is the most workable, because it
 neither denies determination (as libertarianism must) nor abandons responsibility (as hard determinism risks).
 
 The deepest philosophical question beneath the ranking is whether Descartes bequeathed a genuine problem or a
@@ -1726,33 +1645,40 @@ compatibilists since Hobbes and Hume have argued), then Spinoza and Leibniz are 
 substitutes for libertarian freedom — they are offering the only coherent thing "freedom" could mean once
 metaphysical determinism (in Spinoza's case) or divine foreknowledge (in Leibniz's case) is accepted.
 
-**Qualified verdict:** the ranking exercise is only as good as its stated criterion; the examiner rewards
-students who state the criterion **before** ranking, not students who assert a "correct" answer as if freedom had
+**Qualified verdict:** the ranking exercise is only as good as its stated criterion; a strong comparison states
+the criterion **before** ranking rather than asserting a "correct" answer as if freedom had
 one uncontested definition.
 
-### Verified routes and marks-wise architecture
+### Argument: why the criterion of freedom changes the winner
+
+**Assumptions:** Freedom may mean alternative possibility, self-authorship, or rational responsibility; these criteria are related but not identical.
+
+1. Descartes protects assent, denial and withholding, so he performs best when alternatives are decisive.
+2. Spinoza distinguishes action from passion by whether the agent is an adequate cause, so he performs best when self-determination is decisive.
+3. Leibniz combines internal spontaneity, intelligence and modal contingency, so he performs best when responsibility within an ordered world is decisive.
+
+**Conclusion:** There is no theory-neutral winner. **Cost:** criterion-relative evaluation can look evasive unless the answer defends why its chosen conception of freedom is philosophically preferable.
+
+### Choosing and defending a criterion of freedom
 
 - **2023 Q1(c), 10 marks:** "That thing is said to be free which exists solely from the necessity of its own
-  nature..." — Spinoza's freedom and determinism — full solved answer at Lesson 10, Part C, Solved PYQ 9.
-- **2020 Q1(b), 10 marks:** Leibniz's monads and determinism/freedom — full solved answer at Lesson 10, Part C,
-  Solved PYQ 5.
-- **2018 Q1(b), 10 marks:** place for freedom under pre-established harmony — full solved answer at Lesson 10,
-  Part C, Solved PYQ 1.
-- **2024 Q3(c), 15 marks:** ranking mind-body accounts against freedom (cross-linked to Lesson 6) — full solved
-  answer at Lesson 10, Part C, Solved PYQ 12.
+  nature..." — Spinoza's freedom and determinism
+- **2020 Q1(b), 10 marks:** Leibniz's monads and determinism/freedom
+- **2018 Q1(b), 10 marks:** place for freedom under pre-established harmony
+- **2024 Q3(c), 15 marks:** ranking mind-body accounts against freedom (cross-linked to Lesson 6).
 
-**10 marks:** define the position -> one textual anchor (Def. 7 / stone analogy / spontaneity-intelligence-
+**Concise freedom answer:** define the position -> one textual anchor (Def. 7 / stone analogy / spontaneity-intelligence-
 contingency) -> consequence for responsibility -> one qualification.
-**15 marks:** compare two or three positions explicitly against a stated freedom-criterion; include one
+**Developed criterion-based answer:** compare two or three positions explicitly against a stated freedom-criterion; include one
 objection/reply.
-**20 marks:** reconstruct all three positions, rank them against multiple stated criteria, and conclude with a
+**Full comparative judgement:** reconstruct all three positions, rank them against multiple stated criteria, and conclude with a
 criterion-relative verdict rather than a single unqualified winner.
 
-**Demand trap:** "discuss with your own comments" (2020 Q1b's exact wording) requires an explicit, signposted
+**Evaluation mistake to avoid:** "discuss with your own comments" (2020 Q1b's exact wording) requires an explicit, signposted
 first-person evaluative paragraph — omitting the personal verdict loses marks even if the exposition is
 otherwise excellent.
 
-### Rapid recall
+### Freedom criteria to retain
 
 - Descartes: infinite will, finite intellect; error = will outrunning intellect; libertarian tendency, contested
   by the God-creates-eternal-truths doctrine.
@@ -1763,65 +1689,56 @@ otherwise excellent.
 - **Trap:** Spinoza's freedom is not an exception to causation — it is a *kind* of causation (self-caused rather
   than externally caused).
 - **Trap:** never rank the three without first stating the freedom-criterion being used.
-- **Practice link:** MCQs 15-17, 20, 24, 26 and 27 (Lesson 10, Part C); PYQs 2018/2020/2023/2024.
 
-### Lesson-level practice checkpoint
+### Test: error, adequate action and contingency
 
-> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+#### MCQ 13 — Conceptual
+According to Descartes, when does human judgement principally fall into error?
 
-#### MCQ 4
-For Spinoza, Thought and Extension are:
-A. modes
-B. substances
-C. illusions
-D. attributes
-**Correct answer: D**
-**Explanation:** They express one substance under two accessible aspects. Calling them substances would
-reproduce the Cartesian scheme Spinoza rejects.
+A. The will assents beyond what the finite intellect clearly grasps.
+B. The intellect becomes unlimited and overwhelms the human will.
+C. God implants positively false ideas that appear clear and distinct.
+D. Bodily mechanisms determine every affirmation made by the mind.
 
-#### MCQ 5
-Spinoza's first kind of knowledge is:
-A. imagination/opinion
-B. reason
-C. intuition
-D. recollection
-**Correct answer: A**
-**Explanation:** It arises from vague experience and signs and may be inadequate. Its dependence on vague
-experience and signs explains why it can contain falsity.
+**Answer: A**
 
-#### MCQ 6
-The fourth proportional grasped demonstratively exemplifies:
-A. imagination
-B. reason
-C. intuition
-D. revelation
-**Correct answer: B**
-**Explanation:** Discursive mathematical proof belongs to the second kind. The intuitive third kind would grasp
-the ratio in one act rather than through a demonstrative chain.
+- **A: Correct.** Error arises from the disproportion between an unrestricted will and a limited intellect, not from a defective divine gift.
+- **B: Incorrect.** Descartes treats the intellect as finite; it never becomes unlimited in the error explanation.
+- **C: Incorrect.** A perfect non-deceiving God cannot be the positive source of clear falsehood.
+- **D: Incorrect.** The will remains attributable to the thinking subject and is not reduced to bodily mechanism.
 
-#### MCQ 10
-Spinoza's God is best described as:
-A. transcendent artisan
-B. immanent substance
-C. finite intellect
-D. contingent selector
-**Correct answer: B**
-**Explanation:** God or Nature is the one substance. Immanence means finite things are modes within the one
-reality, not products external to it.
+#### MCQ 14 — Applied
+Why can Leibniz call an act free although it belongs to the agent's complete concept?
 
-**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+A. The act occurs without any sufficient reason or intelligible motive.
+B. It is spontaneous, intelligent and contingent rather than externally coerced.
+C. The monad suspends its internal law whenever it chooses freely.
+D. God lacks complete knowledge of contingent truths and future acts.
 
+**Answer: B**
+
+- **A: Incorrect.** A reasonless act would violate the Principle of Sufficient Reason and would not count as rational freedom.
+- **B: Correct.** The act flows from the agent's own nature and reasons, while its contrary remains logically possible in another world.
+- **C: Incorrect.** A monad's states unfold according to its own law; freedom does not require interruptions in that law.
+- **D: Incorrect.** God knows the complete concept and the infinite analysis of every truth of fact.
+
+### Why freedom must be tested inside Spinoza's whole system
+
+The comparative problem is now clear; the next lesson enters Spinoza's system to see how necessity becomes an ethics of liberation.
 
 ---
-Progress: 8 / 10  |  Stage: Advanced  |  Subtopic: Spinoza's Integrated System — Three Kinds of Knowledge, Conatus, Affects, Adequate Ideas, Pantheism/Acosmism, Determination-Negation, Intellectual Love
+
+## Lesson 8 — Spinoza's System: From Conatus to Intellectual Freedom
+
+Progress: 8 / 10  |  Stage: Advanced  |  Subtopic: Spinoza system: conatus, affects, kinds of knowledge, adequate/inadequate ideas, pantheism/acosmism, determination-negation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
-Book context: [queried — canonical owner `Rationalism.md` §1.7 (three kinds of knowledge), §2.2 (pantheism/acosmism), §5.2 (freedom, conatus cross-reference); restored conatus/affects doctrine cross-checked against Masih, Copleston Vol. IV (chapter on Spinoza's *Ethics* Parts III-V) and Audi's *Cambridge Dictionary of Philosophy* entries on "conatus" and "affect" in `books/philosphy_books/`]
-CA search: "Spinoza Ethics conatus affects intellectual love pantheism UPSC current affairs 2026"
-CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is a 1677 systematic-metaphysics-and-ethics doctrinal item with no genuine unresolved current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
+Book context: [queried — Canonical Spinoza sections; OCR book evidence on the Ethics, conatus, affects and knowledge.]
+CA search: "Spinoza conatus affects freedom philosophy 2026"
+CA found: None used. This is a timeless philosophical problem; no recent event materially changes the doctrine.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual gateway — metaphysics becomes ethics
+### How metaphysics becomes an ethics of affects
 
 ```text
 GOD OR NATURE (one substance, infinite attributes)
@@ -1908,9 +1825,9 @@ Truth is *index sui* — the standard of itself and of the false; adequacy is se
 self-certification is exactly what the first kind also *feels* like from the inside. This is the strongest live
 objection to Spinoza's epistemology, and it is worth conceding explicitly in an answer.
 
-#### CONATUS AND THE AFFECTS — restored expanded doctrine ⚠️ (*Ethics* III)
+#### Conatus and the affects: striving becomes psychology and ethics ⚠️
 
-*This block restores a gap: the prior layered package compressed conatus and the affects to one cross-reference
+*This block restores a gap: the earlier edition compressed conatus and the affects to one cross-reference
 sentence. The doctrine below is required to understand "bondage vs freedom" as anything more than a slogan, and
 is standard Spinoza scholarship (Copleston Vol. IV; Audi's *Cambridge Dictionary of Philosophy*, entries
 "conatus" and "affect").*
@@ -2006,7 +1923,7 @@ ADEQUATE IDEAS   -> ACTIVE AFFECTS  -> ACTION / RELATIVE FREEDOM
 ```
 
 Pantheism, parallelism, determinism, conatus, the affects and the three kinds of knowledge are consequences of
-**one** architecture. They must never be written up as four isolated notes-pages; each is a further specification
+**one** structure. They must never be written up as four isolated notes-pages; each is a further specification
 of the same necessary, immanent, self-caused order.
 
 ### Pantheism, acosmism and determination-negation
@@ -2038,31 +1955,27 @@ three achievements but one.
 intelligibility in a single system; the price is pressure on individuality (acosmism), on contingency
 (necessitarianism), and on an external criterion for distinguishing intuition from confident imagination.
 
-### Verified routes and marks-wise architecture
+### Using Spinoza as one connected system
 
-- **2019 Q2(c), 15 marks:** necessity — "what is, cannot be other than what it is" — full solved answer at
-  Lesson 10, Part C, Solved PYQ 4.
-- **2020 Q4(b), 15 marks:** infinite consequences of divine nature — full solved answer at Lesson 10, Part C,
-  Solved PYQ 6.
-- **2022 Q2(c), 15 marks:** substance and pantheism — full solved answer at Lesson 10, Part C, Solved PYQ 7.
-- **2023 Q1(c), 10 marks:** freedom through one's own nature — full solved answer at Lesson 10, Part C, Solved
-  PYQ 9.
-- **2024 Q2(b), 15 marks:** God alone absolutely real — full solved answer at Lesson 10, Part C, Solved PYQ 11.
-- **2025 Q2(b), 15 marks:** determination and negation — full solved answer at Lesson 10, Part C, Solved PYQ 14.
-- **2026 Q1(a), 10 marks:** states of mind and bodily processes (parallelism; taught fully in Lesson 6, Part B)
-  — full solved answer at Lesson 10, Part C, Solved PYQ 15.
+- **2019 Q2(c), 15 marks:** necessity — "what is, cannot be other than what it is"
+- **2020 Q4(b), 15 marks:** infinite consequences of divine nature
+- **2022 Q2(c), 15 marks:** substance and pantheism
+- **2023 Q1(c), 10 marks:** freedom through one's own nature
+- **2024 Q2(b), 15 marks:** God alone absolutely real
+- **2025 Q2(b), 15 marks:** determination and negation
+- **2026 Q1(a), 10 marks:** states of mind and bodily processes (parallelism; taught fully in Lesson 6's local application)
 
-**10 marks:** proposition/definition -> causal consequence -> ethical meaning -> brief criticism.
-**15 marks:** derive the doctrine through structural references, state objection/reply, and deliver a
+**Concise Spinoza answer:** proposition/definition -> causal consequence -> ethical meaning -> brief criticism.
+**Developed textual answer:** derive the doctrine through structural references, state objection/reply, and deliver a
 thesis-first verdict.
-**20 marks:** integrate substance, attributes, modes, knowledge, conatus/affects, parallelism and freedom;
+**Full system answer:** integrate substance, attributes, modes, knowledge, conatus/affects, parallelism and freedom;
 distinguish pantheism from acosmism and preserve provenance discipline throughout.
 
-**Demand trap:** "comment" on determination-negation requires a pointed judgement, not a general essay on all of
+**Spinoza-answer mistake to avoid:** "comment" on determination-negation requires a pointed judgement, not a general essay on all of
 Spinoza; a "conatus" or "affects" sub-question requires the exact III P6-P11 apparatus, not a vague reference to
 "desire."
 
-### Rapid recall
+### Spinoza's ethical-metaphysical chain in memory
 
 - I Def. 7: freedom through one's own nature.
 - I P15: whatever is, is in God.
@@ -2079,65 +1992,56 @@ Spinoza; a "conatus" or "affects" sub-question requires the exact III P6-P11 app
 - Knowledge: imagination -> reason/common notions -> *scientia intuitiva*.
 - **Trap:** cite structural references (*Eth.* I P15, III P11, V P32), not fabricated page numbers.
 - **Trap:** joy/sadness are *transitions* in the power of acting, not static states of feeling good/bad.
-- **Practice link:** MCQs 4-6, 10, 13, 15, 18, 19, 23, 26, 29, 31 and 32 (Lesson 10, Part C).
 
-### Lesson-level practice checkpoint
+### Test: knowledge, affects and finite determination
 
-> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+#### MCQ 15 — Conceptual
+Which sequence correctly connects Spinoza's epistemology to freedom?
 
-#### MCQ 7
-Leibniz rejects extension as ultimate because it is:
-A. unreal to sense
-B. divine
-C. divisible and composite
-D. self-caused
-**Correct answer: C**
-**Explanation:** Ultimate substance must be simple. Divisibility shows that extension describes composites,
-whereas ultimate units must be partless.
+A. Signs, arbitrary choice, and reward from a transcendent deity.
+B. Imagination, ignorance of causes, and liberty of indifference.
+C. Adequate ideas, self-activity, and relative freedom within necessity.
+D. Intuition, escape from causation, and creation of new possibilities.
 
-#### MCQ 11
-Leibniz invokes the PSR to argue for:
-A. sensory atoms
-B. parallel attributes
-C. a sufficient ground of contingent reality
-D. denial of God
-**Correct answer: C**
-**Explanation:** The contingent series requires a sufficient reason. PSR asks for an explanatory ground of the
-contingent series rather than another contingent member.
+**Answer: C**
 
-#### MCQ 14
-Pre-established harmony is illustrated by:
-A. melting wax
-B. synchronized clocks
-C. a thrown stone
-D. a blank slate
-**Correct answer: B**
-**Explanation:** Correspondence occurs without interaction. The clocks illustrate correspondence without causal
-exchange, unlike Cartesian interaction.
+- **A: Incorrect.** Spinoza's God is immanent, and freedom is not conferred as an external reward for following signs.
+- **B: Incorrect.** Imagination and ignorance produce bondage and the illusion of indifference rather than genuine freedom.
+- **C: Correct.** Adequate understanding makes the mind a more adequate cause of action, though the necessary order remains.
+- **D: Incorrect.** Scientia intuitiva grasps necessity sub specie aeternitatis; it does not remove the knower from causation.
 
-#### MCQ 16
-Leibnizian reasons:
-A. never affect choice
-B. logically necessitate every act
-C. are sensory impacts
-D. incline without necessitating
-**Correct answer: D**
-**Explanation:** This supports compatibilist freedom. Moral inclination preserves rational explanation while
-denying contradiction-based compulsion.
+#### MCQ 16 — Remedial
+What does 'determination is negation' mean in the Spinozist context?
 
-**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+A. Every finite mode is unreal because all limitation is sheer nothingness.
+B. Infinite substance is bounded by other substances of the same kind.
+C. Negation produces positive substance from an initially empty reality.
+D. A finite mode is this rather than others, while substance is unlimited.
 
+**Answer: D**
+
+- **A: Incorrect.** Finite modes possess dependent positive reality; limitation does not make them sheer non-being.
+- **B: Incorrect.** Spinoza denies any second substance capable of externally limiting the one infinite substance.
+- **C: Incorrect.** Negation explains finite delimitation; it is not a creative process that generates substance.
+- **D: Correct.** Determination marks a boundary within the modal order, whereas infinite substance is not bounded from outside.
+
+### Why monism provokes Leibnizian plurality
+
+Spinoza secures unity by thinning independent individuality; Leibniz's next task is to restore plurality without surrendering rational order.
 
 ---
-Progress: 9 / 10  |  Stage: Advanced  |  Subtopic: Leibniz's Integrated System — Monads, Perception/Appetition, Sufficient Reason, Complete Concepts, Possible Worlds, Freedom, Harmony and Entelechy; 2026 Aristotle-Leibniz Comparison Cross-Link
+
+## Lesson 9 — Leibniz's System: Active Plurality Without Causal Windows
+
+Progress: 9 / 10  |  Stage: Advanced  |  Subtopic: Leibniz system: monads, perception/appetition, complete concepts, PSR, compossibility, harmony, theodicy, freedom, entelechy cross-link
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
-Book context: [queried — canonical owner `Rationalism.md` §2.3, §2.3A, §3.3, §5.3; cross-owned canonical `Plato-Aristotle.md` §6.6 read in full for the entelechy comparison; cross-checked against Masih, Copleston Vol. IV (chapter on Leibniz's *Monadology*) and Audi's *Cambridge Dictionary of Philosophy* entry "entelechy" in `books/philosphy_books/`]
-CA search: "Leibniz monads entelechy Aristotle comparison UPSC 2026 current affairs"
-CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. The 2026 anchor here is the **verified UPSC 2026 examination paper itself** (Q1(d)), not a news event; this is recorded honestly as an examination-verified link rather than a current-affairs link.
+Book context: [queried — Canonical Leibniz sections; OCR book evidence on monads, PSR, possible worlds and entelechy.]
+CA search: "Leibniz monads possible worlds philosophy 2026"
+CA found: None used. This is a timeless philosophical problem; no recent event materially changes the doctrine.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual gateway — plurality without causal contact
+### Plural perspectives without causal contact
 
 ```text
 MONAD A: a1 -> a2 -> a3 -> a4
@@ -2159,16 +2063,16 @@ synchronised by God from the moment of creation.
 | Why coordination? | pre-established harmony (Lesson 6) |
 | Why this world? | PSR and best-world selection (Lesson 5) |
 | How can acts be free? | spontaneity, intelligence, contingency (Lesson 7) |
-| What kind of being is a monad? | an **entelechy** — Part B below |
+| What kind of being is a monad? | an **entelechy** — developed in the comparison below |
 
 > **Memory line:** internally active, externally closed, universally coordinated.
 
-#### 2.3 / 2.3A recap — the monadic apparatus, assembled as one system ✅
+#### From simple substance to a complete monadic world ✅
 
 *Substance-level doctrine (monads, windowlessness, identity of indiscernibles) was introduced in Lesson 4;
 God-as-selector and possible worlds in Lesson 5; pre-established harmony in Lesson 6; compatibilist freedom in
 Lesson 7. This lesson assembles all of it into one integrated Leibnizian system and adds the two pieces not yet
-taught: infinite analysis, and entelechy (Part B).*
+taught: infinite analysis, and the entelechy comparison below.*
 
 - **Monads:** simple, unextended, indestructible, soul-like points of force/perception — the only genuine
   substances.
@@ -2202,7 +2106,7 @@ sense, contingent.
   a real, robust openness in the world, since the complete concept is fixed at creation and God's infinite
   analysis would, in principle, reveal the entailment perfectly.
 
-#### Integrated Leibnizian dossier
+#### Leibniz as one explanatory chain
 
 - **Monads:** simple, unextended, perceptive and appetitive substances.
 - **Windowlessness:** no monad receives causal influx from another.
@@ -2216,7 +2120,7 @@ sense, contingent.
 - **Freedom:** spontaneity + intelligence + contingency (Lesson 7).
 
 ```text
-SIMPLE ACTIVE UNITS (entelechies — Part B)
+SIMPLE ACTIVE UNITS (entelechies — comparison below)
         |
  internal perception/appetition
         |
@@ -2229,15 +2133,15 @@ SIMPLE ACTIVE UNITS (entelechies — Part B)
 
 ---
 
-### PART B — Entelechy: Aristotle and Leibniz Compared (2026 Q1(d))
+### Entelechy in local comparison: Aristotle and Leibniz (2026 Q1(d))
 
 > **2026 Q1(d), 10 marks:** "Compare and contrast the notion of entelechy as presented in Aristotle's and
-> Leibniz's philosophy." **Ownership:** the term and Aristotle's own sense are owned by
-> `Plato-Aristotle.md` §6.6; the **Leibnizian half and the full comparison** are authored here, exactly as both
-> canonical owner files instruct, so that either direction of the question is answerable from a single lesson.
+> Leibniz's philosophy." **Attribution:** the term and Aristotle's own sense are owned by
+> `Plato-Aristotle.md` §6.6; the **Leibnizian half and the full comparison** are developed here, exactly as both
+> canonical text files instruct, so that either direction of the question is answerable from a single lesson.
 > Verified against `_PYQ-Western-Philosophy-2026.md`.
 
-#### B.1 Aristotle: entelechy as actuality (cross-owned summary; full teaching in `Plato-Aristotle.md` §6.6.1)
+#### Aristotle: entelechy as actuality
 
 - *Entelecheia* — "being-at-work-staying-itself," **actuality, achieved realisation, completeness** — is the
   correlate of *dunamis* (potentiality). It names a thing's **having reached** its proper end (*telos*) **and
@@ -2252,7 +2156,7 @@ SIMPLE ACTIVE UNITS (entelechies — Part B)
   separately existing complete substance in its own right (with the contested exception of the active intellect,
   which should not be treated as Aristotle's settled general doctrine).
 
-#### B.2 Leibniz: entelechies as simple substances ✅
+#### Leibniz: entelechies as simple substances ✅
 
 - **Appropriation, not repetition:** Leibniz revives the Aristotelian *term* for **created simple substances —
   monads**: "one could give the name **entelechies** to all simple substances or created monads, for they have
@@ -2268,7 +2172,7 @@ SIMPLE ACTIVE UNITS (entelechies — Part B)
   as **appropriating and transforming** the notion (to secure true unity and internal activity against Cartesian
   extension), never as merely repeating Aristotle.
 
-#### B.3 Comparison table ⚠️ — the core of any 2026-style answer
+#### The decisive continuity and category shift ⚠️
 
 | Axis | **Aristotle** | **Leibniz** |
 |---|---|---|
@@ -2290,7 +2194,7 @@ SIMPLE ACTIVE UNITS (entelechies — Part B)
   *Leibniz's entelechy is what a substance* **is**. Aristotle immanentises form in the compound; Leibniz
   **substantialises** it and then reduces the compound (body) to phenomena.
 
-#### B.4 Presuppositions ⚠️
+#### What the comparison presupposes ⚠️
 
 - **P1 (both):** substance must be a genuine unity, not a mere aggregate.
 - **P2 (Aristotle):** matter is a real co-principle; hence composite substances are *per se* beings.
@@ -2299,7 +2203,7 @@ SIMPLE ACTIVE UNITS (entelechies — Part B)
 - **P4 (Leibniz):** the Principle of Sufficient Reason and pre-established harmony replace inter-substantial
   causation.
 
-#### B.5 Objection → Reply ledger
+#### Objections, replies and remaining pressure
 
 | Objection | Reply | Verdict |
 |---|---|---|
@@ -2308,7 +2212,7 @@ SIMPLE ACTIVE UNITS (entelechies — Part B)
 | Leibniz's windowless monads make bodily interaction unintelligible. | Harmony is a global explanation: each monad's internal series unfolds so as to agree with all others (Lesson 6). | ❓ Economy vs explanatory cost — a fair place to close an answer. |
 | "Entelechy" has no single English rendering. | Translate by function: *actuality* for the metaphysics of change, *realisation/completeness* for teleology, *being-at-work-staying-itself* when stressing continuing activity. | ⚠️ Say this explicitly; it reads as textual control. |
 
-#### B.6 Traps ❌
+#### Conflations to avoid ❌
 
 - ❌ "Leibniz's monad = Aristotle's entelechy." The shared word conceals a category shift from **actuality** to
   **substance**.
@@ -2318,10 +2222,10 @@ SIMPLE ACTIVE UNITS (entelechies — Part B)
 - ❌ Writing only about monads (or only about actuality/potentiality) when the demand says "compare and
   contrast" — both halves must appear, with the continuity **and** the discontinuity stated explicitly.
 
-#### B.7 Answer spine ⚠️
+#### Building the comparison from its philosophical movement ⚠️
 
 ```
-10-mark (2026 Q1d: "Compare and contrast the notion of entelechy in Aristotle's and Leibniz's philosophy"):
+Core 2026 comparison ("Compare and contrast the notion of entelechy in Aristotle's and Leibniz's philosophy"):
   L1   : Both use "entelechy" for an intrinsic principle of activity — but Aristotle means
          ACTUALITY, Leibniz means a SIMPLE SUBSTANCE.
   Body : (i) Aristotle — energeia/entelecheia vs dunamis; form actualises matter; soul as first
@@ -2331,20 +2235,20 @@ SIMPLE ACTIVE UNITS (entelechies — Part B)
          (iii) Two-line contrast: state vs substance; immanent form vs immaterial simple.
   Close: shared rejection of passive substance; Leibniz transforms rather than repeats Aristotle.
 
-15-mark rewording ("Is Leibniz's monadology a revival of Aristotelian substantial forms?"):
+If the question expands into revival versus transformation:
   Add the comparison table, the divisibility argument (P3), and the qualification about the
   development of Leibniz's own views; verdict: revival in motive, transformation in doctrine.
 
-20-mark rewording ("Substance and activity from Aristotle to Leibniz"):
-  Part A: Aristotle's hylomorphic substance and actuality.
-  Part B: the Cartesian problem of extension that Leibniz inherits (Lesson 4, §2.3).
-  Part C: monads as entelechies; bodies as phenomena; harmony (Lesson 6).
+If the question broadens to substance and activity:
+  Movement 1: Aristotle's hylomorphic substance and actuality.
+  Movement 2: the Cartesian problem of extension that Leibniz inherits (Lesson 4, §2.3).
+  Movement 3: monads as entelechies; bodies as phenomena; harmony (Lesson 6).
   Close : the continuous thread is the refusal to make substance inert.
 ```
 
 **Source anchors:** *De Anima* II.1 (412a20-28); *Monadology* §§7, 18-19. For the complete Aristotelian
-exposition, presuppositions and objection ledger on the Aristotle side, see `Plato-Aristotle.md` §6.6, Lesson 7
-Part B of the sibling live edition `live_sessions/Western-Philosophy/01-Plato-Aristotle/`.
+exposition, presuppositions and objection ledger on the Aristotle side, see `Plato-Aristotle.md` §6.6 and the
+entelechy comparison in Lesson 7 of `live_sessions/Western-Philosophy/01-Plato-Aristotle/`.
 
 ### Infinite analysis and the remaining freedom problem
 
@@ -2359,7 +2263,7 @@ concept, arguably not "the same" Caesar at all. Leibniz's reply is that freedom 
 rather than metaphysical randomness; reasons incline without necessitating, and this is enough for moral
 responsibility even if it falls short of a libertarian "could have done otherwise for this very individual."
 
-The entelechy comparison (Part B) sharpens this same tension from a different angle: because Leibniz
+The entelechy comparison above sharpens this same tension from a different angle: because Leibniz
 *substantialises* Aristotle's actuality, each monad's entire history is, in a sense, already "contained" in what
 it fundamentally *is* — the price of achieving true individual unity (against Cartesian extension) is a picture
 in which an individual's whole biography is fixed by its very identity as that individual.
@@ -2368,29 +2272,31 @@ in which an individual's whole biography is fixed by its very identity as that i
 responsibility, and its most sophisticated appropriation of an inherited Aristotelian term, while placing
 exceptional explanatory weight on complete concepts, infinite analysis and divine selection.
 
-### Verified routes and marks-wise architecture
+### Example: one city represented from many windows
 
-- **2018 Q1(b), 10 marks:** place for freedom under harmony (cross-linked to Lesson 7) — full solved answer at
-  Lesson 10, Part C, Solved PYQ 1.
-- **2020 Q1(b), 10 marks:** how monads bear on determinism and freedom — full solved answer at Lesson 10, Part
-  C, Solved PYQ 5.
-- **2018 Q2(a), 20 marks:** why simplicity produces infinitely many substances (cross-linked to Lesson 4) — full
-  solved answer at Lesson 10, Part C, Solved PYQ 2.
-- **2026 Q1(d), 10 marks:** entelechy compared, Aristotle and Leibniz — full solved answer at Lesson 10, Part C,
-  Solved PYQ 16 (Part B above supplies the complete teaching).
+Leibniz compares substances to perspectives on one city: each monad represents the same universe from its own point of view, and no two perspectives are identical. The image explains plurality without fragmenting the world into unrelated realities.
 
-**10 marks:** monad definition -> windowlessness/harmony -> three freedom conditions -> contingency objection; OR
-(for the entelechy question) both halves of B.7's 10-mark spine.
-**15 marks:** add complete concepts, possible worlds, PSR and infinite analysis; assess whether alternatives are
-genuine; OR the entelechy 15-mark rewording in B.7.
-**20 marks:** compare Leibniz's repair of Descartes and Spinoza, showing gains in individuality and costs in
-divine coordination; OR the entelechy 20-mark rewording in B.7.
+Its limit is crucial. An actual window receives light from outside, whereas a monad is "windowless"; its representations arise from its own internal law. The city image illustrates perspectival plurality, not causal influx.
 
-**Demand trap:** "own comments" requires an explicit evaluative paragraph, not an implied preference. For the
+### From monads to the entelechy comparison
+
+- **2018 Q1(b), 10 marks:** place for freedom under harmony (cross-linked to Lesson 7)
+- **2020 Q1(b), 10 marks:** how monads bear on determinism and freedom
+- **2018 Q2(a), 20 marks:** why simplicity produces infinitely many substances (cross-linked to Lesson 4).
+- **2026 Q1(d), 10 marks:** entelechy compared, Aristotle and Leibniz
+
+**Concise Leibniz answer:** monad definition -> windowlessness/harmony -> three freedom conditions -> contingency objection; OR
+(for the entelechy question) both halves of the comparison guidance above.
+**Developed Leibniz answer:** add complete concepts, possible worlds, PSR and infinite analysis; assess whether alternatives are
+genuine; OR the developed entelechy comparison above.
+**Full comparative answer:** compare Leibniz's repair of Descartes and Spinoza, showing gains in individuality and costs in
+divine coordination; OR the full entelechy comparison above.
+
+**Leibniz-answer mistake to avoid:** "own comments" requires an explicit evaluative paragraph, not an implied preference. For the
 entelechy question specifically: never answer using only one philosopher's doctrine when the demand says
 "compare and contrast."
 
-### Rapid recall
+### Leibniz's system in retrieval form
 
 - Monad: simple, unextended centre of perception and appetition.
 - "No windows" is the standard rendering of *Monadology* §7.
@@ -2403,1182 +2309,535 @@ entelechy question specifically: never answer using only one philosopher's doctr
   Aristotle.
 - **Trap:** synchronised correspondence is not causal interaction.
 - **Trap:** "Leibniz's monad = Aristotle's entelechy" flattens a category shift from actuality to substance.
-- **Practice link:** MCQs 7, 8, 11, 14, 16, 20, 24 and 27 (Lesson 10, Part C); PYQs 2018, 2020 and 2026 Q1(d).
 
-### Lesson-level practice checkpoint
+### Test: monadic activity and entelechy
 
-> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+#### MCQ 17 — Conceptual
+Which pair names the internal principle of change in a Leibnizian monad?
 
-#### MCQ 20
-The complete-concept doctrine most threatens:
-A. extension
-B. innate ideas
-C. pantheism
-D. contingency and freedom
-**Correct answer: D**
-**Explanation:** Predicates fixed in the concept seem necessary. If every predicate belongs to the concept,
-alternative possibilities need the possible-world distinction.
+A. Perception and appetition.
+B. Extension and impact.
+C. Imagination and memory.
+D. Matter and substantial form.
 
-#### MCQ 24
-The safest 2024 mind-body/freedom winner is:
-A. Spinoza always
-B. Descartes without qualification
-C. none can be compared
-D. Leibniz under a compatibilist criterion
-**Correct answer: D**
-**Explanation:** The criterion must be explicitly defended. Leibniz wins only under a responsibility-preserving
-compatibilist criterion, not under libertarianism.
+**Answer: A**
 
-#### Remedial MCQ 27
-Leibnizian contingency means:
-A. God is ignorant
-B. events lack reasons
-C. the opposite is logically conceivable in another possible world
-D. complete concepts are false
-**Correct answer: C**
-**Explanation:** Certainty is distinguished from absolute necessity. The distinction is modal: non-contradictory
-alternatives remain possible even when the actual series is certain.
+- **A: Correct.** Perception represents the universe internally, and appetition moves the monad from one perception to another.
+- **B: Incorrect.** Extension and impact describe mechanical bodies, whereas a monad is unextended and windowless.
+- **C: Incorrect.** Some souls have memory, but imagination and memory do not define every monad's internal activity.
+- **D: Incorrect.** Matter and form belong to Aristotelian hylomorphism, not Leibniz's simple-substance account.
 
-#### Remedial MCQ 31
-Parallelism avoids interaction by saying:
-A. God pushes both series
-B. matter causes mind
-C. one event is expressed under two attributes
-D. monads exchange signals
-**Correct answer: C**
-**Explanation:** It dissolves the two-substance premise. One event has mental and bodily expression; no divine
-reset or monadic signal is required.
+#### MCQ 18 — Applied
+How does Leibniz's entelechy differ most sharply from Aristotle's?
 
-**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+A. Aristotle uses entelechy to deny every distinction between act and potency.
+B. Leibniz makes it a simple substance; Aristotle primarily means actuality.
+C. Leibniz identifies it with extended matter organised mechanically.
+D. Aristotle defines it as a windowless centre of perception.
 
+**Answer: B**
+
+- **A: Incorrect.** Aristotle's entelechy is intelligible only through the actuality-potentiality distinction; it does not abolish it.
+- **B: Correct.** Leibniz substantialises the term as the monad, whereas Aristotle uses it for realised actuality or first actuality.
+- **C: Incorrect.** A Leibnizian entelechy is simple and unextended, not a mechanically organised material body.
+- **D: Incorrect.** Windowlessness and perception are Leibnizian features, not Aristotle's definition of entelechy.
+
+### Why active plurality still leaves a final trilemma
+
+Leibniz restores active individuals but pays through harmony and divine selection; the final lesson weighs whether the three rationalist aims can be reconciled.
 
 ---
-Progress: 10 / 10  |  Stage: Advanced  |  Subtopic: Final Synthesis — Comparisons, Criticisms, All Solved PYQs Through 2026, Answer Architecture, Practice and Register Notes
+
+## Lesson 10 — Can Rationalism Reconcile Necessity, Plurality and Freedom?
+
+Progress: 10 / 10  |  Stage: Advanced  |  Subtopic: Can rationalism reconcile necessity, plurality and freedom?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
-Book context: [queried — canonical owner `Rationalism.md` §6-9, D, V, T, and Part II's complete solved workbook; cross-checked against the layered session/workbook's final synthesis units and against `_PYQ-Western-Philosophy-2018-2025.md` and `_PYQ-Western-Philosophy-2026.md` in full]
-CA search: "Rationalism Descartes Spinoza Leibniz comparison criticisms UPSC current affairs 2026"
-CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is a synthesis/practice lesson over a static syllabus item with no genuine unresolved current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
+Book context: [queried — the full Rationalism canonical Markdown, complete prior learning materials, OCR philosophy books and the Vedanta live-session benchmark.]
+CA search: "rationalism necessity plurality freedom philosophy 2026"
+CA found: None used. The synthesis is conceptual and text-based rather than event-driven.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual gateway — the whole answer machine
+### The rationalist triangle of pressure
 
 ```text
-QUESTION TRIGGER
-   |
-   +--> certainty?   route Descartes: doubt/cogito/wax/God/world (Lessons 2-3)
-   +--> substance?   route 3/1/infinity and criterion (Lesson 4)
-   +--> God?         route guarantee/immanence/selection + theodicy (Lesson 5)
-   +--> mind-body?   route interaction/parallelism/harmony (Lesson 6)
-   +--> freedom?     state criterion before ranking (Lesson 7)
-   +--> Spinoza system? route conatus/affects/knowledge/pantheism (Lesson 8)
-   +--> Leibniz system? route monads/PSR/complete concepts/entelechy (Lesson 9)
-   +--> quotation?   check exact source and structural citation (Part A below)
+                         NECESSITY
+              explanation must not be arbitrary
+                         /       \
+                        /         \
+                       /           \
+              PLURALITY --------- FREEDOM
+          genuine individuals      action from the agent
+
+Descartes: protects plurality and choice, but interaction and divine guarantee strain coherence.
+Spinoza:   maximises necessity and unity, but finite individuality and alternatives become thin.
+Leibniz:   restores plurality inside order, but harmony and complete concepts burden freedom.
 ```
 
-**Plain-language start:** High marks come from routing the exact demand to the right argumentative spine built
-across Lessons 1-9. A correct doctrine can still underperform if the directive, marks, provenance or comparison
-criterion is ignored — this final lesson assembles the complete comparison, criticism, practice and revision
-machinery in one place.
+### Simple intuition
 
-> **Memory line:** define, derive, evidence, debate, verdict.
+The final problem is not to list three philosophers. It is to ask whether one metaphysics can satisfy all three demands at once: necessary explanation, real plurality and meaningful freedom. Each thinker preserves two more securely by making the third difficult.
+
+### 1. The common project without flattening the differences
+
+All three rationalists hold that reality is intelligible and that reason can reach structures not copied from sensation. Yet they disagree about the first principles from which deduction should begin. Descartes begins with epistemic certainty, Spinoza with the strict definition of substance, and Leibniz with sufficient reason, simplicity and the reality of individuals. Their conclusions differ because rational deduction is only as determinate as its starting concepts.
+
+| Thinker | Starting pressure | What is secured | What becomes difficult |
+|---|---|---|---|
+| Descartes | find an indubitable foundation | self-certainty, real distinction, libertarian tendency | Circle, external-world bridge, interaction |
+| Spinoza | apply independence consistently | unity, immanent causation, intelligible necessity | contingency, robust individuality, alternative possibilities |
+| Leibniz | explain plurality without brute facts | unique active individuals, reasons, modal contingency | divine coordination, actual openness, problem of evil |
+
+This comparison is argumentative. Descartes' created substances provoke Spinoza's question: if they depend on God, why call them substances? Spinoza's single substance provokes Leibniz's question: if finite centres are only modes, what grounds genuine individuality? Leibniz's monads answer that question, but their windowlessness then requires pre-established harmony.
+
+### 2. Can necessity coexist with plurality?
+
+Descartes permits a plurality of created substances by using "substance" in a qualified sense. The price is dependence: mind and body need God for creation and conservation. Spinoza removes the qualification. Only what is in itself and conceived through itself is substance; therefore God or Nature alone qualifies, and plurality survives only as modes. Leibniz rejects the conclusion that individuality must disappear. He changes the decisive test from absolute independence to genuine unity and internal action: simple monads are many, though all depend on God.
+
+The synthesis is therefore conditional:
+
+1. If **absolute independence** is required, plurality cannot consist of substances; Spinoza wins.
+2. If **created dependence** is compatible with substantiality, Descartes can retain mind and body, but the term is analogical.
+3. If **simplicity and internal activity** define created substance, Leibniz can retain infinitely many individuals, but bodies cease to be ultimate substances.
+
+No single criterion yields all three results. Rationalism does not discover a neutral substance count; it reveals what follows when different explanatory demands are made basic.
+
+### 3. Can necessity coexist with freedom?
+
+The answer depends on what freedom means.
+
+```text
+ALTERNATIVE POSSIBILITIES -> Descartes is strongest, but divine foreknowledge and clear assent remain pressures.
+SELF-DETERMINATION        -> Spinoza is strongest, because activity follows adequate understanding.
+RESPONSIBLE RATIONAL ACT  -> Leibniz is strongest, because reasons incline without logical necessitation.
+```
+
+Descartes protects the capacity to affirm, deny or withhold, and explains error by the will outrunning the intellect. Spinoza rejects an uncaused will and relocates freedom in adequate causation: to understand why one acts is to become more active, even though the total order remains necessary. Leibniz distinguishes certainty from absolute necessity. An act belongs to the complete concept and has a sufficient reason, but its opposite is not contradictory and belongs to another possible world.
+
+The residual difficulty changes rather than disappears. Descartes must reconcile freedom with divine creation and preservation. Spinoza must show that self-determination deserves the name freedom when alternatives vanish. Leibniz must show that possibilities in other worlds amount to openness for this actual agent rather than merely describing different possible individuals.
+
+### 4. Can plurality coexist with intelligible order?
+
+Descartes relies on divine conservation and interaction. Spinoza makes all plurality expressions of one order. Leibniz makes each monad internally complete while God coordinates all perspectives. These are three strategies for avoiding chaos:
+
+- **causal commerce** between distinct created substances;
+- **identity under attributes** within one substance;
+- **correspondence without influx** among many substances.
+
+The gain increases with systematic closure, but so does explanatory cost. Descartes matches ordinary experience but cannot explain the bridge. Spinoza eliminates the bridge by denying the separation but weakens ordinary agency. Leibniz preserves both multiplicity and coordination, but the harmony can appear insulated from empirical challenge.
+
+### 5. The balanced synthesis
+
+Rationalism succeeds most clearly at diagnosis. It shows why necessity cannot be reduced to repeated observation, why brute plurality demands a principle of individuation, why mental causation depends on ontology, and why freedom cannot be discussed without saying what counts as the source of action.
+
+It succeeds less clearly at producing one final system. The same demand for intelligibility supports incompatible first principles. This is not a trivial failure: the disagreement identifies an enduring philosophical trilemma. A theory that maximises necessity tends toward monism; a theory that maximises plurality must explain coordination; a theory that maximises alternative freedom risks making action insufficiently intelligible.
+
+**Reasoned conclusion:** rationalism can reconcile necessity, plurality and freedom only by qualifying at least one term. Descartes qualifies substance, Spinoza qualifies freedom and finite independence, and Leibniz qualifies contingency through possible worlds and hypothetical necessity. The three systems are therefore best read as rival distributions of philosophical cost, not as stages in which one simply cancels the others.
+
+### Example and its limit: three constitutional designs
+
+Imagine three constitutional designs trying to secure order, regional plurality and personal liberty. One gives independent institutions real powers but faces coordination disputes; one centralises order and treats local units as expressions of the whole; one gives every unit an internal programme coordinated in advance. The analogy makes the trade-off visible.
+
+It is only an analogy. Philosophical substances are not political offices, and necessity is not legislation. The comparison isolates the structural choice—interaction, immanence or coordination—without proving any metaphysical theory.
+
+### Objection, reply and residual
+
+**Objection:** If reason yields three incompatible systems, rationalism has failed by its own standard.
+
+**Reply:** A shared commitment to reasons does not guarantee agreement about primitive concepts. The systems remain rationally comparable because each makes its assumptions explicit and accepts their consequences.
+
+**Residual:** The reply protects rational argument but not the stronger claim that reason alone uniquely determines metaphysics. The history of rationalism therefore prepares Kant's later question: what are the limits and conditions of reason itself?
+
+### Turning the rationalist trilemma into an answer
+
+- For a comparison question, state the criterion before ranking the thinkers.
+- For a quotation, derive the sentence inside the relevant system rather than treating it as an isolated slogan.
+- For a 20-marker, organise the answer through a common problem, three mechanisms, three costs and a defended verdict.
+- Do not call the development a simple progression from error to truth. Each successor solves a predecessor's problem by creating another.
+
+### Final synthesis notes
+
+1. Rationalist unity is methodological, not doctrinal uniformity.
+2. Necessity, plurality and freedom form the final comparative triangle.
+3. Descartes qualifies created substance and protects a libertarian tendency.
+4. Spinoza makes necessity complete and redefines freedom as adequate self-activity.
+5. Leibniz restores plural substances through simplicity, perception and appetition.
+6. Spinoza solves interaction by identity; Leibniz solves it by non-interacting harmony.
+7. Complete concepts secure explanation but pressure actual alternative possibility.
+8. A fair comparison states the criterion before choosing a winner.
+9. Each system preserves intelligibility by paying a different metaphysical cost.
+10. The unresolved tension prepares the Kantian critique of unrestricted reason.
+
+### Test: the necessity–plurality–freedom trilemma
+
+#### MCQ 19 — Synthesis
+Which statement best captures the deepest unresolved rationalist tension?
+
+A. Rational explanation is rejected by each of the three systems.
+B. One substance and libertarian freedom are affirmed by all three.
+C. Greater necessity strengthens unity but pressures individuality and alternatives.
+D. Real plurality requires no principle coordinating distinct individuals.
+
+**Answer: C**
+
+- **A: Incorrect.** All three systems seek intelligibility through reason; they disagree about the principles and costs.
+- **B: Incorrect.** Only Spinoza has one substance, and he rejects libertarian alternative possibilities.
+- **C: Correct.** This identifies the recurring trade-off: systematic necessity can weaken robust plurality and freedom.
+- **D: Incorrect.** Descartes needs interaction, Spinoza immanent identity and Leibniz harmony precisely because plurality requires order.
+
+#### MCQ 20 — Synthesis
+What is the most defensible overall verdict on the three rationalist systems?
+
+A. One system is superior under every possible evaluative criterion.
+B. Their disagreement shows that rational argument has no philosophical role.
+C. Their doctrines differ only verbally and share one underlying metaphysics.
+D. Each balances order, individuality and agency under different costs.
+
+**Answer: D**
+
+- **A: Incorrect.** Descartes, Spinoza and Leibniz perform differently when judged by unity, experience, plurality or freedom.
+- **B: Incorrect.** Disagreement about first principles does not eliminate rational comparison of assumptions and consequences.
+- **C: Incorrect.** Their substance counts, divine roles, causal theories and freedoms are substantively incompatible, not verbal variants.
+- **D: Correct.** A defensible judgement names the criterion and explains which philosophical cost the preferred theory accepts.
+
+
+### From understanding to application and retrieval
+
+The teaching sequence is complete. The remaining sections convert understanding into verified PYQ use, cumulative testing, answer writing, remediation and final retrieval.
 
 ---
 
-## PART A — Comparative Synthesis, Criticisms, Directive Decoder, Verdict Bank and Translation Discipline
-
-### A.1 Inter-thinker / inter-school comparison, complete ⚠️
-
-| Axis | Descartes | Spinoza | Leibniz |
-|---|---|---|---|
-| **Substance count** | 3 (God, mind, matter) | 1 (God = Nature) | ∞ (monads) |
-| **God** | personal, transcendent, veracity-guarantee | impersonal, immanent, IS all reality | necessary being, chose best world, full theodicy |
-| **Mind-body** | interaction (pineal gland) | parallelism (double-aspect) | pre-established harmony |
-| **Freedom** | libertarian free will | freedom = understanding necessity | compatibilism |
-| **Method** | doubt → cogito → reconstruction | geometric deduction (*more geometrico*) | principle of sufficient reason + pre-established harmony |
-| **The individual** | a thinking substance (self) | a mode of God | a unique monad/entelechy (substance) |
-| **Physical world** | *res extensa* (mechanistic) | a mode of the Extension attribute | phenomenon (confused perception of monads) |
-| **Knowledge apparatus** | clear and distinct perception | three kinds — imagination, reason, intuition | truths of reason vs truths of fact; infinite analysis |
-| **Psychology of agency** | will (infinite) vs intellect (finite); error | conatus and the affects; bondage vs activity | perception + appetition; spontaneity |
-
-### A.2 Criticisms and Replies, complete
-
-#### Against Descartes
-| Criticism | Reply |
-|---|---|
-| Cartesian Circle (Arnauld) | Descartes distinguishes current vs remembered clear-and-distinct ideas; God guarantees the latter ❓ |
-| Interaction problem (Princess Elisabeth) | Descartes concedes the difficulty; the union is a "primitive notion" not reducible to thought or extension ❓ |
-| Substance definition inconsistency | Descartes uses "substance" analogically for God (absolutely) and created things (relatively) |
-
-#### Against Spinoza
-| Criticism | Reply |
-|---|---|
-| Pantheism removes a personal God → moral collapse? | Spinoza: morality is grounded in adequate knowledge and the affects, not divine command |
-| Acosmism (Hegel): if God = all, the world = nothing | Spinoza: modes are real *as* expressions of substance, not independent beings |
-| Determinism eliminates moral responsibility | Spinoza: responsibility is reinterpreted; the free person acts from understanding (adequate, active affects) |
-| "All determination is negation" → finite things are merely negative? | Finite things are positive *modes* of infinite substance, limited by other modes, not thereby unreal |
-
-#### Against Leibniz
-| Criticism | Reply |
-|---|---|
-| Pre-established harmony is *ad hoc* / unfalsifiable | Leibniz: it is the only solution that avoids both unintelligible interaction and the loss of substance-plurality |
-| "Best of all possible worlds" → Voltaire's *Candide* | Leibniz: "best" = maximum variety with minimum principles under compossibility, not maximum human comfort (full theodicy, Lesson 5) |
-| Freedom is illusory if every state is pre-determined in the concept | Leibniz: contingency is preserved because the opposite is conceivable (not self-contradictory) |
-| Leibniz's entelechy merely renames Aristotle's substantial forms | The monad is simple, immaterial, mirrors the universe and does not inform matter — appropriation, not repetition (Lesson 9, Part B) |
-
-### A.3 Common UPSC Traps ⚠️
-
-| Trap | Discrimination |
-|---|---|
-| "Spinoza is an atheist" | **Wrong.** He is a *pantheist* (God = substance = Nature). He was expelled from his synagogue for heterodoxy, not atheism. |
-| "Descartes proved the external world first, then God" | **Wrong.** The order is cogito → God → external world. God is the *bridge* to the world. |
-| Confusing Spinoza's "freedom" with libertarian free will | Spinoza explicitly *denies* contra-causal freedom; his freedom = self-determination through adequate ideas. |
-| "Leibniz's monads interact with each other" | **Wrong.** They are "windowless" — *no* causal interaction. All apparent interaction is pre-established harmony. |
-| Confusing Spinoza's *attributes* with Descartes' *substances* | For Descartes, Thought and Extension are essences of *two substances*; for Spinoza they are *two attributes of ONE substance*. |
-| "Cogito is a syllogism" | Descartes explicitly denies this; it is an *immediate intuition*, not an inference from a suppressed premise. |
-| "Descartes' innate ideas = the mind is born knowing truths in propositional form" | Not quite — innate ideas are *dispositions* or "seeds of knowledge" activated when occasion prompts (a reply to the empiricist caricature). ❓ |
-| "Leibniz's monad = Aristotle's entelechy" | Shared word, different category: Aristotle's entelechy is a *state* (actuality); Leibniz's is a *substance* (the monad). |
-| "Best possible world" = most comfortable world | **Wrong.** Best = maximum variety under minimum governing principles and compossibility; evil is permitted, not willed, where excluding it would cost a greater good. |
-| Joy/sadness as static feelings | **Wrong.** They are *transitions* — increase/decrease in the power of acting, not stable states. |
-
-### A.4 Keyword & Statement Bank ⚠️
-
-| # | Term / Statement | Use |
-|---|---|---|
-| 1 | *Cogito, ergo sum* | Descartes — certain knowledge |
-| 2 | *Res cogitans* / *res extensa* | Descartes — two created substances |
-| 3 | *Deus sive Natura* | Spinoza — substance = God = Nature |
-| 4 | *Causa sui* | Spinoza — substance is self-caused |
-| 5 | *Omnis determinatio est negatio* | Spinoza (per Hegel's rendering) — all determination is negation |
-| 6 | *Natura naturans / natura naturata* | Spinoza — active vs produced nature |
-| 7 | *More geometrico* | Spinoza — geometric method of the *Ethics* |
-| 8 | Conatus / *cupiditas* | Spinoza — striving to persist / conscious conatus (desire) |
-| 9 | Monad / "no windows" | Leibniz — simple, windowless substances |
-| 10 | Pre-established harmony / "two clocks" | Leibniz — mind-body solution |
-| 11 | "Best of all possible worlds" | Leibniz — divine choice under compossibility |
-| 12 | Principle of Sufficient Reason (PSR) | Leibniz — nothing without a reason |
-| 13 | Identity of Indiscernibles | Leibniz — no two monads alike |
-| 14 | Entelechy | Aristotle (actuality) / Leibniz (substance) — 2026 Q1(d) |
-| 15 | Clear and distinct perception | Descartes — criterion of truth |
-| 16 | *Genius malignus* / evil demon | Descartes — extremity of doubt |
-
-### A.5 Directive Decoder ⚠️ — what each command word obliges you to *do*
-
-| Directive | What it demands | Structural obligation | Fatal error |
-|---|---|---|---|
-| **Discuss** | exposition **+** assessment, both substantial | Two-part body: doctrine reconstructed as numbered steps, then a weighing paragraph (~60:40 split) | Pure exposition with no evaluative sentence |
-| **Critically discuss / examine** | assessment must **dominate** | Reconstruct in 3-4 lines, then spend the bulk on objection → reply → adjudication; verdict compulsory | Listing criticisms without ruling between them |
-| **Comment** (e.g. 2025 Q2b) | short, pointed, *thesis-first* | State what the sentence means **in the thinker's own system**, then one consequence each for God/finite modes/knowledge, then a one-line judgment | Treating "comment" as an invitation to write a general essay |
-| **Explain** (e.g. 2019 Q2c, 2020 Q4b) | make the doctrine **intelligible**, showing *why* it follows | Foreground the derivation from the named proposition/definition, not a summary | Restating the quotation in other words |
-| **Substantiate your view** (2022 Q2c) | you must **take a side** and defend it with textual grounds | Declare a position, then defend it against the strongest counter-reading | Sitting on the fence |
-| **Discuss with your own comments** (2020 Q1b) | an explicit **first-person evaluative** paragraph is being marked | Reserve the last 25% for a signposted personal adjudication | Omitting the personal verdict |
-| **Whose account is compatible with…? Critically discuss** (2024 Q3c) | a **comparative ranking** with a defended winner | Rank all three explicitly against a stated criterion; then defend the ranking | Describing all three neutrally |
-| **What is the reason for the difference…?** (2018 Q2a) | **explanatory**, not descriptive | The answer is a *mechanism*: one inherited definition + three applications of the independence/simplicity criterion | Tabulating the three views without explaining the divergence |
-| **How does X explain the relationship between…?** (2026 Q1a) | a precise **mechanism** answer | Name the textual anchors (e.g. *Eth.* II P7, P13) and state the exact non-causal identity mechanism | A vague "Spinoza rejects dualism" without the mechanism |
-| **Compare and contrast** (2026 Q1d) | both **continuity and discontinuity**, explicitly | State what is shared, then the category shift (state → substance) | Writing about only one philosopher |
-
-### A.6 Graded Verdict Bank ⚠️ — executable closing positions (10/15/20)
-
-| Sub-topic | **10-mark verdict** | **15-mark verdict** (with concession) | **20-mark verdict** (thesis + mechanism + cost) |
-|---|---|---|---|
-| **Cartesian method** | The method of doubt is not scepticism but scepticism's instrument: used to destroy itself, and it succeeds only because the cogito is performatively, not inferentially, certain. | Its success is local. The cogito secures the *existence* of a thinker but not the *substantiality* of the thinker; Hume and Kant both exploit exactly this gap. | Descartes' method delivers a genuine indubitable, but the reconstruction built on it is only as strong as the divine guarantee — the *Meditations* stand or fall on Meditation III, not Meditation II. The Cartesian Circle is the system's load-bearing joint, not a peripheral blemish. |
-| **Wax argument** | The wax argument proves not that bodies exist but that, if known, they are known by intellect — self-knowledge is epistemically prior. | It succeeds against naive empiricism because no sensory item registers *identity through change*; it fails to establish apriority, since the empiricist can call "extension" an abstraction. | Meditation II already installs extension as body's essence, so Meditation VI's dualism is partly presupposed rather than proved; the wax argument is the hinge on which Cartesian dualism silently turns. |
-| **Substance (all three)** | The three rationalists differ not over the *definition* of substance but over how strictly to apply it. | Descartes applies it loosely (admitting dependent "created substances"), Spinoza strictly (only the wholly independent qualifies — hence one), Leibniz adds *simplicity* (hence infinitely many). | The trio is a single argument unfolding: Spinoza's monism is the *consistent* Descartes, and Leibniz's pluralism is the *consistent* rejection of extension as an essence. "Substance" is not a discovery but a criterion, and the metaphysics you get is the criterion you enforce. |
-| **God** | For Descartes God is a *guarantee*, for Spinoza God *is the system*, for Leibniz God is a *selector-and-justifier*. | Only Spinoza's God does no explanatory work outside the system, which is why only his is immune to Kant's critique of the ontological argument; Descartes' and Leibniz's both require it. | Kant's demolition of the ontological proof kills Descartes' and Leibniz's God-proofs but leaves Spinoza's untouched, because Spinoza does not *infer* God's existence from a concept — he identifies God with the totality of what is. |
-| **Mind-body** | The three solutions are not three answers to one question but three verdicts on whether the question is well-formed. | Descartes accepts the question and cannot answer it; Spinoza dissolves it by denying the two-substance premise; Leibniz dissolves it by denying causation altogether. | Judged by explanatory economy Spinoza wins, judged by fidelity to experience Descartes wins, judged by systematic consistency Leibniz wins — no single criterion selects one answer, which is itself evidence that Descartes bequeathed a *pseudo-problem*. |
-| **Freedom/determinism** | Spinoza does not abolish freedom, he relocates it — from the will's indifference to the intellect's adequacy. | Whether that is freedom or determinism renamed depends on whether "could have done otherwise" is essential to freedom; Spinoza denies it, consistently. | If freedom requires alternatives, only Descartes qualifies, at the price of an unintelligible interaction; if it requires self-determination, Spinoza qualifies best; if it requires reconciling determination with responsibility, Leibniz's spontaneity + intelligence + contingency is most workable. |
-| **Three kinds of knowledge** | Spinoza's three kinds are three *ontological positions of the knower*, not three degrees of confidence. | This makes epistemology and ethics one subject — his most original move; but because *scientia intuitiva* is self-certifying, it is also his most vulnerable claim. | The tripartite scheme converts necessitarianism from fatalism into ethics: knowing adequately *is* acting from one's own nature, so discovering necessity is itself the act of becoming free. Its price is no external criterion for the third kind. |
-| **Conatus and affects** | Conatus is each mode's actual essence; the affects (desire, joy, sadness) track increase/decrease in the power of acting, not static feelings. | Passive affects (external, partial causation) constitute bondage; only a stronger active affect, born of adequate ideas, can overcome a passive one — will-power alone cannot. | The conatus/affects doctrine is what converts Spinoza's metaphysics into a livable ethics: freedom is not escape from striving but the transformation of striving from externally-caused to self-caused, culminating in the intellectual love of God. |
-| **Entelechy (Aristotle/Leibniz)** | Both reject passive substance, but Aristotle's entelechy is a state a compound is *in*; Leibniz's is what a substance *is*. | Leibniz appropriates rather than repeats Aristotle: the monad is simple and immaterial where Aristotle's compound substance is matter-involving. | The category shift from actuality-of-a-compound to substance-in-itself is Leibniz's solution to the Cartesian extension problem, achieved at the cost of reducing bodies to well-founded phenomena. |
-
-### A.7 Translation, Quotation and Provenance Discipline ✅
-
-**Rule of the file:** quote *verbatim* only where a standard English edition is being followed and named;
-elsewhere **paraphrase and mark it as paraphrase**. Never present a reconstructed sentence in quotation marks.
-
-| Text | Standard editions | Safe practice |
-|---|---|---|
-| Descartes, *Meditations on First Philosophy* (Latin 1641; French 1647) | Cottingham-Stoothoff-Murdoch, *The Philosophical Writings of Descartes* (CSM, CUP 1984) — scholarly default; older Haldane-Ross (1911) still common in Indian editions | Wording differs between CSM and Haldane-Ross for *inspectio mentis*: "purely mental scrutiny" (CSM) vs "inspection of the mind" (Haldane-Ross). Attribute or paraphrase. |
-| *Cogito, ergo sum* | Latin phrase appears in the *Discourse* (1637) and *Principles* I.7; the *Meditations* has the first-person "I am, I exist" formulation | ✅ Safe to quote the Latin tag. ❌ Do **not** attribute "*Cogito ergo sum*" to the *Meditations*. |
-| Spinoza, *Ethics* (*Ethica*, posthumous 1677) | Curley, *Collected Works of Spinoza* Vol. I (Princeton 1985) — current standard; Elwes (1883) and White-Stirling older public-domain versions | Cite by **structural reference** (*Eth.* I, Def. 7; I, P15; II, P7; II, P40S2; III, P6-P11; V, P32C), not page numbers. |
-| *Omnis determinatio est negatio* | ⚠️ **Provenance caution.** Not a sentence in the *Ethics*. Spinoza writes *determinatio negatio est* in **Letter 50 to Jarig Jelles (2 June 1674)**. The universalised Latin slogan is **Hegel's** rendering. | Write: "Spinoza's dictum, in Letter 50, that determination is negation — universalised by Hegel as *omnis determinatio est negatio*." |
-| *Deus sive Natura* | *Eth.* IV, Preface, and IV, P4 Dem. | ✅ Safe verbatim. |
-| Leibniz, *Monadology* (1714, French; published posthumously 1720/1840) | Latta (1898); Ariew-Garber, *Philosophical Essays* (Hackett 1989) | "Monads have no windows" is a **standard rendering** of *Monadology* §7, not a literal English original; say "as it is usually rendered." |
-| "Best of all possible worlds" | *Theodicy* (1710); *Monadology* §§53-55 | ✅ Safe. Leibniz's own French *le meilleur des mondes possibles*; Voltaire's *Candide* (1759) satirises it. |
-| "Incline without necessitating" | *Theodicy*; Leibniz-Clarke correspondence | ✅ Standard rendering of *incliner sans nécessiter*. |
-| "Entelechy" | *Monadology* §§18-19; Aristotle, *De Anima* II.1 | Translate by function (actuality / realisation-completeness / being-at-work-staying-itself); do not present one English word as the single correct rendering. |
-
-> ❌ **Never write:** "Descartes says the mind is a ghost in the machine." That is **Ryle's** hostile coinage
-> (*The Concept of Mind*, 1949), not Descartes'.
-
----
-
-## PART B — Exact PYQ Route Map and Marks-Wise Answer Architecture (2018-2026)
-
-> ⚠️ **Corpus signal:** 14 primary-owned question-parts (2018-2025) out of the continuous local Paper I corpus,
-> plus 1 further primary-owned 2026 part and 1 cross-owned 2026 part — **16 parts total** solved in Part C below.
-> 2021 is the only year without a primary-owned Rationalism part.
-
-| Year | Question | Marks | Exact demand | Primary lesson |
-|---|---|---:|---|---|
-| 2018 | Q1(b) | 10 | Is there any place for freedom in Leibniz's philosophy, when he speaks of 'pre-established harmony'? Discuss. | 7, 9 |
-| 2018 | Q2(a) | 20 | What is the reason for the difference in the definitions and classifications of substances made by Descartes, Spinoza and Leibniz...? Discuss. | 1, 4 |
-| 2019 | Q1(d) | 10 | How does Descartes prove the existence of things other than himself and God? Discuss. | 3 |
-| 2019 | Q2(c) | 15 | What do you understand by Spinoza's statement that what is, cannot be other than what it is? Explain. | 7, 8 |
-| 2020 | Q1(b) | 10 | How does Leibniz's conception of monads bear upon his views on determinism and freedom? Discuss with your own comments. | 7, 9 |
-| 2020 | Q4(b) | 15 | "From the necessity of the divine nature there must follow infinitely many things in infinitely many ways." Explain along with possible criticisms. | 5, 8 |
-| 2022 | Q2(c) | 15 | Discuss the concept of substance according to Spinoza. Does it lead to pantheism? Substantiate your view. | 4, 8 |
-| 2022 | Q4(b) | 15 | How does Rene Descartes explain the notion of certainty with reference to knowledge of the self? Critically discuss the way it differs from the knowledge of the world. | 2, 3 |
-| 2023 | Q1(c) | 10 | "That thing is said to be free which exists solely from the necessity of its own nature..." Discuss Spinoza's views on freedom and determinism. | 7 |
-| 2023 | Q2(c) | 15 | Discuss Descartes' theory of innate ideas and the grounds on which Locke refutes it. | 3 |
-| 2024 | Q2(b) | 15 | How does Spinoza establish that God alone is absolutely real with his statement — "Whatever is, is in God"? Critically discuss. | 5, 8 |
-| 2024 | Q3(c) | 15 | Among the rationalists, whose account of mind-body problem is compatible with the notion of human freedom and free will? Critically discuss. | 6, 7 |
-| 2025 | Q2(a) | 20 | What are the basic tenets of Rationalism? How does Descartes build a system of Philosophy in consonance with them? Discuss. | 1, 2, 3 |
-| 2025 | Q2(b) | 15 | "All determination is negation." Comment with reference to Spinoza. | 4, 8 |
-| 2026 | Q1(a) | 10 | How does Spinoza explain the relationship between states of mind and bodily processes? | 6 (Part B) |
-| 2026 | Q1(d) | 10 | Compare and contrast the notion of entelechy as presented in Aristotle's and Leibniz's philosophy. (cross-owned; Leibniz half here) | 9 (Part B) |
+# VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
+
+No Rationalism question appeared in **2021**. The table includes every primary Rationalism question from 2018–2026 and the necessary 2026 Aristotle–Leibniz cross-link. These are links and approaches only; no PYQ is solved here.
+
+| Year / question | Marks | Exact question | Lesson link | Concise approach |
+|---|---:|---|---:|---|
+| 2018 Q1(b) | 10 | Is there any place for freedom in Leibniz's philosophy, when he speaks of 'pre-established harmony'? Discuss. | 7, 9 | Define harmony and windowlessness; derive spontaneity, intelligence and contingency; concede the complete-concept difficulty; give a compatibilist verdict. |
+| 2018 Q2(a) | 20 | What is the reason for the difference in the definitions and classifications of substances made by Descartes, Spinoza and Leibniz in spite of the fact that they all belonged to the rationalist school of thought? Discuss. | 1, 4 | Begin with the inherited definition; show Descartes' qualified dependence, Spinoza's strict independence and Leibniz's simplicity; compare gains and costs. |
+| 2019 Q1(d) | 10 | How does Descartes prove the existence of things other than himself and God? Discuss. | 3 | Reconstruct passive reception, involuntary sensory ideas, natural inclination and divine non-deception; distinguish existence of bodies from accuracy of qualities. |
+| 2019 Q2(c) | 15 | What do you understand by Spinoza’s statement that what is, cannot be other than what it is? Explain. | 5, 7, 8 | Derive necessity from one substance and immanent causation; distinguish necessity from fatalism; connect adequate understanding to freedom. |
+| 2020 Q1(b) | 10 | How does Leibniz's conception of monads bear upon his views on determinism and freedom? Discuss with your own comments. | 7, 9 | Connect windowlessness and complete concepts to determination; distinguish certainty from necessity; reserve an explicit personal judgement. |
+| 2020 Q4(b) | 15 | “From the necessity of the divine nature there must follow infinitely many things in infinitely many ways.” Explain this statement by Spinoza along with some possible criticisms. | 5, 8 | Explain *Ethics* I P16, attributes, modes and immanent causation; examine personality, evil and the derivation of finite modes; reply and assess. |
+| 2022 Q2(c) | 15 | Discuss the concept of substance according to Spinoza. Does his discussion on substance lead to pantheism? Substantiate your view. | 4, 8 | Derive one substance; explain attributes and modes; defend a qualified pantheist reading against crude identity and the acosmism objection. |
+| 2022 Q4(b) | 15 | How does Rene Descartes explain the notion of certainty with reference to knowledge of the self? Critically discuss the way it differs from the knowledge of the world. | 2, 3 | Contrast immediate performative self-certainty with mediated world-knowledge; use wax and divine veracity; question the move from thought to substance. |
+| 2023 Q1(c) | 10 | “That thing is said to be free which exists solely from the necessity of its own nature, and is determined to action by itself alone.” Discuss Spinoza’s views on freedom and determinism in the light of the above statement. | 7, 8 | Interpret *Ethics* I Definition 7; distinguish passive external determination from adequate activity; conclude that freedom is redefined, not exempted from causation. |
+| 2023 Q2(c) | 15 | Discuss Descartes’ theory of innate ideas and the grounds on which Locke refutes it. | 1, 3 | Explain adventitious, factitious and innate ideas plus the dispositional reading; present universal-assent, transparency and sensation/reflection objections; assess the residual. |
+| 2024 Q2(b) | 15 | How does Spinoza establish that God alone is absolutely real with his statement — “Whatever is, is in God”? Critically discuss. | 4, 5, 8 | Derive P15 from substance; explain "in" ontologically, not spatially; distinguish absolute and modal reality; confront acosmism and personality. |
+| 2024 Q3(c) | 15 | Among the rationalists, whose account of mind-body problem is compatible with the notion of human freedom and free will? Critically discuss. | 6, 7 | State the freedom criterion; compare interaction, parallelism and harmony; rank explicitly. Leibniz is strongest for compatibilist responsibility, Descartes for alternatives. |
+| 2025 Q2(a) | 20 | What are the basic tenets of Rationalism? How does Descartes build a system of Philosophy in consonance with them? Discuss. | 1–3 | Define the school first; map intuition/deduction, innate resources and intelligibility onto doubt, Cogito, God, world and substance; evaluate the Circle. |
+| 2025 Q2(b) | 15 | “All determination is negation.” Comment with reference to Spinoza. | 4, 8 | Correct the Letter 50/Hegel provenance; explain finite determination as limitation within infinite substance; test the claim against modal reality and acosmism. |
+| 2026 Q1(a) | 10 | How does Spinoza explain the relationship between states of mind and bodily processes? | 6, 8 | Cite *Ethics* II P7 and P13; explain one mode under Thought and Extension; deny cross-attribute causation; add the agency residual. |
+| 2026 Q1(d) | 10 | Compare and contrast the notion of entelechy as presented in Aristotle's and Leibniz's philosophy. | 9 | Give both halves: Aristotle's actuality/first actuality and Leibniz's simple active substance; state continuity of intrinsic activity and the category shift. |
+
+# CUMULATIVE MCQS
+
+Correct options continue the global A → B → C → D sequence established in Lessons 1–10.
+
+## MCQ 21
+Which claim most clearly separates rationalism from crude anti-empiricism?
+
+A. Experience can occasion thought while reason grounds necessary truth.
+B. All sensory awareness is deceptive and should be permanently rejected.
+C. Every belief is consciously present in the mind from birth.
+D. Only theological revelation can produce universal human knowledge.
+
+**Answer: A**
 
-### Marks-wise architecture, generalised
+- **A: Correct.** Rationalists can admit sensory occasions and practical information while denying that sensation alone warrants necessity.
+- **B: Incorrect.** Methodic doubt is temporary, and none of the three rationalists simply rejects all sensory awareness.
+- **C: Incorrect.** The strongest innateness claim is dispositional or structural, not universal conscious possession of every belief.
+- **D: Incorrect.** The school appeals to intellectual principles and deduction, not revelation as the source of philosophical necessity.
+
+## MCQ 22
+What is the strongest Cartesian reply to the Cartesian Circle?
 
-```text
-10 marks: direct definition -> 2-3 named anchors -> one worked example -> one qualification -> compact verdict
-15 marks: direct thesis -> 4-6 named anchors -> derivation or comparison -> strongest objection/reply -> graded ruling
-20 marks: common premise -> mechanism -> full comparison -> costs -> conceptual verdict
-```
+A. God is dispensable both during and after every clear perception.
+B. Present intuition is secure; God guarantees remembered clear reasoning.
+C. The alleged circle concerns bodily causation rather than justification.
+D. The Cogito directly proves every later mathematical and theological claim.
+
+**Answer: B**
 
-**Evidence pattern (mandatory in every solved answer below):** claim -> named text/proposition/example -> what
-it proves -> limitation/qualification.
-
----
-
-## PART C — Complete Solved-Practice Bank
-
-### C.1 Solved PYQ Bank — 16 Verified Rationalism Questions (2018-2026)
-
-> Exact wording, year and marks are parsed from the continuous local Western Philosophy Paper I bank, 2018-2025,
-> and the verified 2026 supplement. The set contains two Rationalism-owned questions in every year from 2018 to
-> 2025 except 2021 (none), plus one primary-owned and one cross-owned part in 2026.
-
-```text
-DIRECTIVE -> THESIS -> DOCTRINE -> NAMED TEXT/EXAMPLE -> OBJECTION/REPLY -> VERDICT
-```
+- **A: Incorrect.** Descartes still assigns God a role in securing stable knowledge beyond immediate attention.
+- **B: Correct.** The reply distinguishes self-evident clarity while attended to from reliance on memory across a deductive chain.
+- **C: Incorrect.** Arnauld's objection concerns reciprocal epistemic dependence between divine proof and the truth criterion.
+- **D: Incorrect.** The Cogito provides one indubitable starting point; it does not contain all later conclusions.
 
-#### Solved PYQ 1 — 2018 Q1(b), 10 marks
+## MCQ 23
+Why does the wax argument not itself prove an external world?
 
-**Question:** Is there any place for freedom in Leibniz's philosophy, when he speaks of 'pre-established
-harmony'? Discuss.
+A. Wax lacks every sensible quality both before and after melting.
+B. The intellect is unable to judge identity through qualitative change.
+C. It explains how body is conceived; existence is established later.
+D. Descartes denies that extension belongs to the concept of body.
 
-**Model solution**
+**Answer: C**
 
-Leibniz's pre-established harmony denies causal interaction among monads, but it does not reduce agency to
-external compulsion. Each monad unfolds its states from its own internal principle of perception and appetition;
-*Monadology* §7's "windowless" thesis therefore supports **spontaneity**, the first condition of freedom.
+- **A: Incorrect.** The sensible qualities change rather than disappear from experience altogether; their instability motivates the argument.
+- **B: Incorrect.** The central claim is precisely that intellect judges the same wax through changing qualities.
+- **C: Correct.** Meditation II concerns the intellectual grasp of body; Meditation VI and divine veracity carry the existential burden.
+- **D: Incorrect.** Descartes treats extension as the essence disclosed by intellectual scrutiny of body.
 
-Freedom additionally requires **intelligence** and **contingency**. A rational monad acts for perceived reasons,
-not by blind physical impact. Although its predicates belong to its complete concept, Leibniz distinguishes
-certainty from absolute necessity: "Caesar crosses the Rubicon" is certain in this chosen world but its opposite
-is conceivable in another possible world. God's selection under the Principle of Sufficient Reason makes the
-series hypothetically, not logically, necessary.
+## MCQ 24
+Which statement accurately compares Thought and Extension in Descartes and Spinoza?
 
-The difficulty is that an act fixed in the complete concept seems unable to be otherwise in the actual world.
-Leibniz's answer is compatibilist: reasons "incline without necessitating," and an action is free when it flows
-intelligently from the agent rather than from coercion. Thus freedom survives, but not as Cartesian indifference.
+A. They are modes for Descartes and independent substances for Spinoza.
+B. They are deceptive appearances without metaphysical standing for both.
+C. They are two classes of monads in Leibniz's pluralist ontology.
+D. They are Cartesian principal attributes but Spinozist attributes of one substance.
 
-**Verdict:** Pre-established harmony leaves a defensible place for responsible self-expression, though not for
-libertarian alternative possibilities.
+**Answer: D**
 
-**Why this earns marks:** It answers "any place" directly, links harmony to spontaneity, names complete concepts
-and possible worlds, and qualifies the claim.
+- **A: Incorrect.** Descartes makes thought and extension principal attributes of created substances, not mere modes.
+- **B: Incorrect.** Both assign major metaphysical status to Thought and Extension, though they classify them differently.
+- **C: Incorrect.** Leibniz rejects extended substance and does not classify monads into Thought and Extension.
+- **D: Correct.** The same terms mark two substances in Descartes but two expressions of one substance in Spinoza.
 
-#### Solved PYQ 2 — 2018 Q2(a), 20 marks
+## MCQ 25
+What connects Spinoza's conatus to human desire?
 
-**Question:** What is the reason for the difference in the definitions and classifications of substances made by
-Descartes, Spinoza and Leibniz in spite of the fact that they all belonged to the rationalist school of thought?
-Discuss.
+A. Desire is conscious conatus in a self-aware human mode.
+B. Desire is a command imposed externally by a personal deity.
+C. Conatus belongs exclusively to bodies and never to minds.
+D. Desire suspends the necessary causal order whenever it acts.
 
-**Model solution**
+**Answer: A**
 
-The difference arises not from abandoning rationalism but from successively tightening what counts as
-ontologically basic. All three inherit the idea that substance exists in itself and is conceived through itself;
-they disagree over independence, simplicity and individuation.
+- **A: Correct.** Conatus is each thing's striving to persist; when that striving is conscious in humans, Spinoza calls it desire.
+- **B: Incorrect.** Spinoza's ethics does not ground desire in commands from a transcendent personal God.
+- **C: Incorrect.** Mind and body express the same individual striving under different attributes.
+- **D: Incorrect.** Desire remains causally determined and becomes freer through adequate understanding, not causal exemption.
 
-Descartes begins from clear-and-distinct **real distinction**. Thought and extension have mutually exclusive
-principal attributes, so mind and matter are created substances, while God is infinite substance. Yet
-*Principles* I.51 concedes that only God needs nothing whatever. "Substance" is therefore analogical: finite
-substances depend on God.
+## MCQ 26
+What does Leibniz mean by compossibility?
 
-Spinoza applies the independence test strictly. In *Ethics* I, substances sharing an attribute cannot be
-distinct; a finite substance would have to be limited by another of the same nature. Hence only one infinite
-substance, God or Nature, exists. Minds and bodies become modes under Thought and Extension. This produces
-monism and pantheism but risks the acosmist charge that individuals lack independent reality.
+A. The causal exchange of perceptions among otherwise windowless monads.
+B. The mutual consistency of constituents within one possible world.
+C. The identity of Thought and Extension as attributes of substance.
+D. The Cartesian ability to suspend judgement when evidence is unclear.
 
-Leibniz rejects both extended Cartesian substance and Spinozist absorption. Extension is divisible and
-composite, so it cannot be ultimate. True substances are simple centres of perception and appetition: infinitely
-many monads. The identity of indiscernibles differentiates them, while pre-established harmony explains
-correspondence without interaction. Bodies become well-founded phenomena.
+**Answer: B**
 
-| Revision | Criterion enforced | Result |
-|---|---|---|
-| Descartes | principal-attribute distinction | dualist created substances under God |
-| Spinoza | absolute independence | one infinite substance |
-| Leibniz | simplicity and internal activity | infinitely many monads |
+- **A: Incorrect.** Windowlessness excludes causal exchange; harmony coordinates internally unfolding states.
+- **B: Correct.** Not every individually possible being or event can coexist with every other in one coherent world.
+- **C: Incorrect.** Identity under attributes is Spinoza's mind-body doctrine, not Leibnizian compossibility.
+- **D: Incorrect.** Withholding assent belongs to Descartes' theory of will and error.
 
-Their shared rationalism supplies the deductive ambition, not a compulsory substance count. The sequence is
-dialectical: Spinoza exposes Descartes' equivocation; Leibniz tries to restore individuality without returning to
-extended substance.
+## MCQ 27
+Which proposition is a Leibnizian truth of fact?
 
-**Verdict:** "Substance" is a criterion whose interpretation generates the metaphysics. The trio's disagreement
-demonstrates rationalism's internal development rather than its incoherence.
+A. No contradiction can be true in any possible world.
+B. A triangle necessarily possesses exactly three sides.
+C. Caesar crossed the Rubicon in the actual world.
+D. Every entity is necessarily self-identical as what it is.
 
-**Why this earns marks:** It explains the *reason* for divergence, uses named doctrines, compares mechanisms and
-costs, and avoids a merely descriptive table.
+**Answer: C**
 
-#### Solved PYQ 3 — 2019 Q1(d), 10 marks
+- **A: Incorrect.** This states the principle of non-contradiction, a necessary truth of reason.
+- **B: Incorrect.** The geometrical proposition is necessary and reducible to definitions or identities.
+- **C: Correct.** The historical predicate belongs to Caesar's complete concept but requires an infinite analysis of contingent reasons.
+- **D: Incorrect.** Self-identity is a necessary logical truth rather than a contingent truth of fact.
 
-**Question:** How does Descartes prove the existence of things other than himself and God? Discuss.
+## MCQ 28
+What is the strongest standard criticism of pre-established harmony?
 
-**Model solution**
+A. It permits unrestricted causal interaction among all monads.
+B. It collapses the plurality of monads into one infinite substance.
+C. It removes every explanatory role from the divine intellect.
+D. It explains any correlation through an unobservable prior coordination.
 
-After the cogito and the proof of a non-deceiving God, Descartes argues in *Meditation* VI that material things
-probably cause his involuntary sensory ideas. He possesses a passive faculty of receiving such ideas; this
-requires an active cause. He has a strong natural inclination to attribute them to bodies. If no bodies existed
-and God directly caused this inclination, God would deceive him. Since a perfect God is no deceiver, material
-things exist.
+**Answer: D**
 
-The proof establishes **res extensa** more securely than the complete accuracy of perception. Descartes allows
-that senses misreport size, colour or distance; reason must correct them. The wax argument had already shown
-that the essence of body is extension, flexibility and changeability grasped by intellect, not a catalogue of
-sensible qualities.
+- **A: Incorrect.** The doctrine is introduced precisely to deny causal influx among monads.
+- **B: Incorrect.** Leibniz constructs pluralism against Spinoza's one-substance account.
+- **C: Incorrect.** God performs the indispensable role of selecting and coordinating the complete world.
+- **D: Correct.** Because every apparent interaction can be redescribed as prior harmony, critics question its testability and economy.
 
-The argument's strength is systemic coherence: God bridges self and world. Its weakness is dependence on the
-contested divine proofs and the Cartesian Circle. It also underdetermines whether external bodies resemble
-sensory appearances in detail.
+## MCQ 29
+Which statement best distinguishes passive from active affects in Spinoza?
 
-**Verdict:** Descartes proves an external material cause within his system, but the result is only as secure as
-divine veracity.
+A. Passive affects involve partial external causation; active affects follow adequate ideas.
+B. Passive affects are always sinful, while active affects receive divine reward.
+C. Active affects are choices made without any determining cause or reason.
+D. Passivity belongs only to bodily states and never to mental states.
 
-**Why this earns marks:** It reconstructs the causal argument, distinguishes existence from perceived qualities,
-and evaluates the theological dependence.
+**Answer: A**
 
-#### Solved PYQ 4 — 2019 Q2(c), 15 marks
+- **A: Correct.** A passion reflects inadequate causation by external conditions; activity increases when the person is an adequate cause.
+- **B: Incorrect.** Spinoza analyses affects through causal adequacy and power, not through sin and supernatural reward.
+- **C: Incorrect.** An active affect remains determined through the agent's understood nature rather than becoming uncaused.
+- **D: Incorrect.** Mind and body express the same modal condition, so passivity cannot be assigned exclusively to the body.
 
-**Question:** What do you understand by Spinoza's statement that what is, cannot be other than what it is?
-Explain.
+## MCQ 30
+Why is Spinoza sometimes described as an acosmist rather than simply a pantheist?
 
-**Model solution**
+A. He denies every form of divine or infinite reality.
+B. Critics think one substance leaves finite individuals insufficiently real.
+C. He identifies God with empty geometrical space alone.
+D. He treats finite modes as independent Cartesian substances.
 
-The statement expresses Spinoza's **necessitarianism**. God or Nature is the one self-caused substance, and
-*Ethics* I P16 holds that infinitely many things follow from the necessity of divine nature. Modes are not
-products of arbitrary choice; they follow from what substance is, as conclusions follow from adequate premises.
+**Answer: B**
 
-Three distinctions clarify the claim. First, God is free because God acts from the necessity of God's own
-nature, not because God could choose contrary possibilities (*Ethics* I Def. 7). Second, contingency is a name
-for human ignorance of causes; *Ethics* I P29 denies contingency in nature. Third, finite things are determined
-by other finite modes within the single causal order.
+- **A: Incorrect.** Spinoza makes God or Nature the sole substance, so divine reality is central rather than denied.
+- **B: Correct.** The acosmism charge argues that dependent modes are absorbed into substance and lose robust individuality.
+- **C: Incorrect.** God possesses infinitely many attributes and cannot be reduced to empty space or Extension alone.
+- **D: Incorrect.** Modes are in and conceived through substance; they are not independent substances.
 
-This does not entail passive fatalism. Under Thought, an adequate idea understands a cause; under Extension, the
-same order is expressed bodily (*Ethics* II P7). A person becomes relatively free by replacing inadequate
-passions with adequate activity and seeing things *sub specie aeternitatis*.
+## MCQ 31
+What makes Leibniz's account of freedom compatibilist rather than libertarian?
 
-Critics argue that necessity erases responsibility and novelty. Spinoza replies that blame based on an uncaused
-will is confused; ethical improvement consists in increasing rational power. The reply preserves
-self-determination but abandons the ability to do otherwise.
+A. Free actions occur without motives, causes or sufficient reasons.
+B. Rational agents act outside the complete knowledge possessed by God.
+C. Actions follow internal reasons while remaining logically non-necessary.
+D. Monads freely interrupt the harmony whenever motives conflict.
 
-**Verdict:** "Cannot be other" means metaphysical causal necessity, not external fate. Spinoza saves freedom only
-by redefining it as intelligent participation in necessity.
+**Answer: C**
 
-**Why this earns marks:** It derives the quotation from substance, distinguishes necessity from fatalism, and
-links metaphysics to ethics.
+- **A: Incorrect.** A reasonless event would violate PSR and would not exemplify intelligent agency.
+- **B: Incorrect.** God knows each complete concept and every contingent truth through infinite analysis.
+- **C: Correct.** Spontaneity and intelligence coexist with determination, while alternative worlds preserve logical contingency.
+- **D: Incorrect.** Harmony is not periodically suspended; each monad's series unfolds consistently from its nature.
 
-#### Solved PYQ 5 — 2020 Q1(b), 10 marks
+## MCQ 32
+Which final comparison of rationalist freedom is most defensible?
 
-**Question:** How does Leibniz's conception of monads bear upon his views on determinism and freedom? Discuss
-with your own comments.
+A. Spinoza alone preserves the power to choose otherwise in identical conditions.
+B. Descartes alone removes every difficulty about mind-body interaction.
+C. Leibniz alone eliminates God from the explanation of rational agency.
+D. The preferred account depends on the criterion used for freedom.
 
-**Model solution**
+**Answer: D**
 
-Monads are simple, windowless substances whose states arise internally through perception and appetition.
-Consequently, an agent is not mechanically pushed by other substances; conduct expresses the agent's complete
-concept. This supports determinism because the entire sequence is certain to God and coordinated through
-pre-established harmony.
+- **A: Incorrect.** Spinoza rejects alternative possibilities and defines freedom through adequate self-determination.
+- **B: Incorrect.** Descartes preserves libertarian choice but inherits the unresolved interaction and divine-causality problems.
+- **C: Incorrect.** God remains essential to Leibniz's complete concepts, possible worlds and pre-established harmony.
+- **D: Correct.** Descartes favours alternatives, Spinoza self-determination and Leibniz responsible spontaneity within order.
 
-Yet Leibniz treats internally-sourced rational action as free. Freedom combines spontaneity, intelligence and
-contingency. The complete concept does not make acts logically necessary: other possible worlds contain
-alternative individuals and histories. Reasons incline the will without necessitating it in the way contradiction
-necessitates a truth.
+## MCQ 33
+Why does Descartes need divine veracity beyond a presently compelling clear perception?
 
-In my view, the account successfully distinguishes coercion from self-expression and preserves responsibility
-better than Spinoza's strict necessitarianism. However, because the actual agent's complete concept is fixed, the
-availability of alternatives in other possible worlds may not satisfy a libertarian demand that this agent could
-now do otherwise.
+A. It secures remembered clear reasoning after attention has shifted.
+B. It converts the Cogito into an inference from bodily sensation.
+C. It proves that every object vividly imagined must actually exist.
+D. It replaces intellectual deduction with revealed theological authority.
 
-**Verdict:** Monadology yields coherent compatibilism, not indeterministic freedom.
+**Answer: A**
 
-**Why this earns marks:** It connects monadic structure to both determination and freedom and includes the
-explicitly demanded personal assessment.
+- **A: Correct.** The strongest reply to the Circle assigns God the role of validating memory and extended deductive chains.
+- **B: Incorrect.** The Cogito remains immediate and intellectual; bodily sensation is still under methodic doubt.
+- **C: Incorrect.** Vivid imagination does not establish existence, as dreams and fabricated ideas demonstrate.
+- **D: Incorrect.** Descartes retains rational proof and deduction; divine veracity supports rather than replaces them.
 
-#### Solved PYQ 6 — 2020 Q4(b), 15 marks
+## MCQ 34
+What is the force of Spinoza's claim that infinitely many things follow from divine nature?
 
-**Question:** "From the necessity of the divine nature there must follow infinitely many things in infinitely
-many ways." Explain this statement by Spinoza along with some possible criticisms.
+A. God selects one world from alternatives without a determining reason.
+B. Infinite substance necessarily expresses itself through attributes and modes.
+C. Finite modes gradually produce the divine substance through time.
+D. The attribute of Thought causally generates the attribute of Extension.
 
-**Model solution**
+**Answer: B**
 
-In *Ethics* I P16, Spinoza derives the world from the essence of the one infinite substance. God has infinitely
-many attributes, each expressing eternal and infinite essence; therefore infinitely many modes follow in
-infinitely many ways. The relation is **immanent causation**: modes are in God, not external products made by a
-transcendent artisan.
+- **A: Incorrect.** Indifferent selection among possible worlds is foreign to Spinoza's necessitarian account.
+- **B: Correct.** Ethics I P16 presents modes as immanent consequences of what infinite substance eternally is.
+- **C: Incorrect.** Substance is prior in being and conception; dependent modes cannot produce it.
+- **D: Incorrect.** Attributes express the same substance in parallel orders and do not causally create one another.
 
-The proposition supports four conclusions: God does not deliberate between worlds; divine action is necessary.
-Nothing is genuinely contingent; apparent contingency records ignorance. Thought and Extension express the same
-order under different attributes. Finite beings possess reality as modes, not independent substances.
+## MCQ 35
+Why does the Identity of Indiscernibles support Leibnizian individuality?
 
-Three criticisms follow. First, necessity threatens divine personality and worship: a God without choice
-resembles an impersonal order; Spinoza accepts the consequence and rejects anthropomorphism. Second, Hegel's
-acosmism objection says that if only substance is real, the finite disappears; Spinoza replies that modes are
-real as determinate expressions, though not self-subsistent. Third, strict derivation can seem to make evil and
-bondage divine necessities; Spinoza answers that good and evil are relational notions tied to human power, not
-properties of God.
+A. Two wholly identical monads may still differ only by an empty numerical label.
+B. Each monad is individuated fundamentally by occupying a different spatial point.
+C. Indiscernible duplicates would lack a sufficient reason for distinct existence.
+D. Monads become different by exchanging qualities through causal windows.
 
-**Verdict:** P16 gives Spinoza extraordinary systematic unity, but at the price of personality, contingency and
-robust individuality.
+**Answer: C**
 
-**Why this earns marks:** It explains the derivation, names P16 and immanent causation, and evaluates three
-distinct costs with replies.
+- **A: Incorrect.** Leibniz denies that a merely numerical difference without qualitative ground can individuate substances.
+- **B: Incorrect.** Monads are unextended, so spatial position cannot be their fundamental principle of identity.
+- **C: Correct.** PSR rules out duplicate individuals for which no reason could explain why there are two rather than one.
+- **D: Incorrect.** Windowlessness excludes causal exchange; each monad differs through its own complete perspective.
 
-#### Solved PYQ 7 — 2022 Q2(c), 15 marks
+## MCQ 36
+Which statement captures Descartes' highest grade of freedom?
 
-**Question:** Discuss the concept of substance according to Spinoza. Does his discussion on substance lead to
-pantheism? Substantiate your view.
+A. Choice is freest when reasons leave the will completely indifferent.
+B. The body must mechanically determine every judgement of the will.
+C. Freedom consists in affirming whatever imagination presents most vividly.
+D. Clear understanding can guide assent without external compulsion.
 
-**Model solution**
+**Answer: D**
 
-Spinoza defines substance as what is in itself and conceived through itself. In *Ethics* I, no two substances
-can share an attribute; substance cannot be finite because limitation would require another of the same nature.
-Therefore one absolutely infinite substance exists, possessing infinite attributes: God or Nature.
+- **A: Incorrect.** Descartes treats indifference as a low grade associated with inadequate understanding.
+- **B: Incorrect.** The will belongs to the thinking subject and is not reduced to bodily determination.
+- **C: Incorrect.** Affirming beyond clear understanding is the source of error, not the perfection of freedom.
+- **D: Correct.** Rationally guided assent can be more free because it expresses the agent's understanding rather than coercion.
 
-Thought and Extension are attributes known to human beings; particular minds and bodies are modes. *Ethics* I P15
-states that whatever is, is in God, while P18 calls God the immanent rather than transitive cause. God does not
-stand outside and create Nature; *Natura naturans* and *Natura naturata* describe active nature and the order of
-modes.
+## MCQ 37
+What does *natura naturans* name in Spinoza?
 
-This leads to pantheism in the precise sense that all reality is within and expressive of God, and nothing
-exists independently outside God. It is not crude identification of God with a mere aggregate of finite objects,
-because substance exceeds the two attributes humans know. The panentheist reading therefore qualifies but does
-not erase the pantheistic implication.
+A. God or Nature as active, self-caused and expressed through attributes.
+B. Finite bodies considered as an aggregate independent of God.
+C. A second substance that stands outside and produces Nature.
+D. A contingent divine decision to begin creation at a moment.
 
-Hegel's acosmism charge argues that the finite becomes unreal. Yet modes possess dependent reality as expressions
-of substance. My view is that Spinoza is best described as a philosophically qualified pantheist: divine
-immanence is undeniable, while divine infinity prevents reduction to the visible world alone.
+**Answer: A**
 
-**Why this earns marks:** It takes and substantiates a position, uses P15/P18 and the attribute-mode distinction,
-and answers the pantheism/acosmism debate.
+- **A: Correct.** The term considers the one substance as active and self-expressing rather than as the order of resulting modes.
+- **B: Incorrect.** Finite modes belong to *natura naturata* and cannot be conceived independently of substance.
+- **C: Incorrect.** Spinoza's distinction never introduces a creator substance separate from Nature.
+- **D: Incorrect.** Creation is not a temporal discretionary act; all follows eternally from divine necessity.
 
-#### Solved PYQ 8 — 2022 Q4(b), 15 marks
+## MCQ 38
+How do truths of fact differ from truths of reason for Leibniz?
 
-**Question:** How does Rene Descartes explain the notion of certainty with reference to knowledge of the self?
-Critically discuss the way it differs from the knowledge of the world.
+A. Truths of fact occur without any sufficient reason or explanation.
+B. They are contingent and require an infinite analysis completed by God.
+C. Truths of reason depend wholly on repeated sensory observation.
+D. Truths of fact hold by logical necessity in every possible world.
 
-**Model solution**
+**Answer: B**
 
-Descartes discovers certainty by methodically suspending every belief vulnerable to sense error, dreaming or an
-evil demon. In *Meditation* II, "I am, I exist" is true whenever thought occurs: deception itself requires a
-deceived thinker. Knowledge of self is thus immediate, performative and independent of sensory mediation.
+- **A: Incorrect.** PSR requires every contingent fact to have a reason even when finite minds cannot complete its analysis.
+- **B: Correct.** Their predicates are contained in complete concepts, but the chain of reasons is infinite and the contrary is conceivable.
+- **C: Incorrect.** Truths of reason reduce through definitions and contradiction rather than empirical repetition.
+- **D: Incorrect.** A truth that holds in every possible world would be necessary, not a contingent truth of fact.
 
-The self is first known as *res cogitans*: doubting, affirming, denying, imagining and seeming to sense. The wax
-case strengthens the priority claim: even if the wax does not exist, the act of judging reveals the judging
-mind. Hence mind is "better known" epistemically.
+## MCQ 39
+What is the ethical culmination of Spinoza's third kind of knowledge?
 
-Knowledge of the world is mediate. Sensory ideas represent objects but can mislead; an external world is
-restored only after God's existence and non-deceptiveness are established. Even then, intellect identifies
-body's essence as extension, while reason corrects sensible appearances.
+A. Freedom from every causal relation within Nature.
+B. Indifferent selection among equally possible courses of action.
+C. Intellectual love of God arising from adequate intuitive understanding.
+D. Passive obedience to commands issued by a transcendent creator.
 
-Critically, the cogito proves thinking existence, not automatically an enduring immaterial substance.
-Lichtenberg's later "there is thinking" objection and Hume's bundle critique expose this move. Moreover, the
-world-proof inherits the Cartesian Circle. Nevertheless, the asymmetry in certainty remains: self-presence
-survives the hypothesis under which world-presence is doubted.
+**Answer: C**
 
-**Verdict:** Descartes establishes epistemic priority of self over world, but not without further argument the
-full metaphysical dualism built upon it.
+- **A: Incorrect.** Scientia intuitiva understands the necessary order; it does not place the mind outside that order.
+- **B: Incorrect.** Spinoza rejects liberty of indifference as ignorance of determining causes.
+- **C: Correct.** Seeing things *sub specie aeternitatis* culminates in *amor Dei intellectualis* and blessed activity.
+- **D: Incorrect.** Spinoza's God is immanent, and liberation comes through understanding rather than external command.
 
-**Why this earns marks:** It compares modes of access, uses wax and divine veracity, and separates epistemic
-certainty from substantiality.
+## MCQ 40
+What problem remains if Cartesian innateness is reduced to a general disposition to learn?
 
-#### Solved PYQ 9 — 2023 Q1(c), 10 marks
+A. Every sensible quality would thereby become an explicit innate proposition.
+B. Mathematical necessity would become a product of empirical repetition.
+C. Descartes would thereby be committed to Spinoza's substance monism.
+D. The claim risks becoming too weak to differ from empiricism.
 
-**Question:** "That thing is said to be free which exists solely from the necessity of its own nature, and is
-determined to action by itself alone." Discuss Spinoza's views on freedom and determinism in the light of the
-above statement.
+**Answer: D**
 
-**Model solution**
+- **A: Incorrect.** A dispositional account does not make sensory qualities consciously innate propositions.
+- **B: Incorrect.** Descartes uses disposition to preserve a rational source of necessity, not to derive it from repetition.
+- **C: Incorrect.** The epistemic debate over innateness does not entail Spinoza's independent argument for one substance.
+- **D: Correct.** If disposition means only an unspecified capacity to acquire ideas, Locke can accept it without conceding innate content.
 
-The quotation is *Ethics* I Definition 7. Spinoza rejects freedom as an uncaused choice. Every finite mode is
-determined within Nature's necessary order; humans imagine free will because they know desires but not their
-causes, as the conscious stone would mistake thrown motion for choice.
 
-Only God is absolutely free because only God exists and acts from divine nature alone. Human freedom is
-relative: when inadequate ideas and external affects determine us, we are passive; when adequate ideas make us
-the adequate cause of action, we act from our understood nature. Reason and *scientia intuitiva* therefore
-transform necessity into self-determination.
+# ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
-The account is coherent but revisionary. It preserves rational agency and emotional liberation while denying
-alternative possibilities.
-
-**Verdict:** Spinoza reconciles freedom with determinism by making freedom a higher form of determination, not an
-exception to causation.
-
-**Why this earns marks:** It interprets the quoted definition, uses the stone analogy and adequate ideas, and
-ends with a qualified judgement.
-
-#### Solved PYQ 10 — 2023 Q2(c), 15 marks
-
-**Question:** Discuss Descartes' theory of innate ideas and the grounds on which Locke refutes it.
-
-**Model solution**
-
-Descartes distinguishes adventitious, factitious and innate ideas. Innate ideas are not necessarily explicit
-propositions present in an infant's consciousness; they are native capacities or intellectual contents, including
-God, substance, mind, extension and mathematical principles. In *Meditation* III, the idea of an infinite perfect
-being grounds the trademark argument because a finite mind cannot be its adequate total cause.
-
-Locke attacks innate principles in *Essay* I. Universal assent is absent: children and persons without the
-relevant concepts do not consciously affirm alleged principles. Saying that principles are "in the mind" but
-unknown empties innateness of meaning, because by that standard every knowable truth would be innate. Locke
-instead begins with the mind as white paper and derives simple ideas from sensation and reflection.
-
-Descartes can reply that innateness means a dispositional power, not constant awareness; geometrical knowledge is
-elicited rather than copied from sensation. Locke's argument decisively defeats crude occurrent innatism but less
-clearly defeats dispositional innatism. The empiricist must also explain necessity and universality without
-merely reporting repeated experience.
-
-**Verdict:** Locke narrows the defensible Cartesian claim from preformed conscious truths to native cognitive
-structures; he refutes the caricature more securely than the strongest version.
-
-**Why this earns marks:** It presents both theories fairly, identifies Locke's exact tests and gives a balanced
-adjudication.
-
-#### Solved PYQ 11 — 2024 Q2(b), 15 marks
-
-**Question:** How does Spinoza establish that God alone is absolutely real with his statement — "Whatever is, is
-in God"? Critically discuss.
-
-**Model solution**
-
-Spinoza's conclusion follows from his substance argument. Substance is in itself and conceived through itself; no
-two substances can share an attribute; an absolutely infinite substance must possess every attribute. Therefore
-God alone is substance, and *Ethics* I P15 concludes that everything else exists in God as a mode.
-
-"In God" is ontological, not spatial. A mind is a mode under Thought and a body a mode under Extension; neither
-can be conceived independently. P18 adds that God is the immanent cause of things. God is therefore absolutely
-real because divine existence and conception depend on nothing else, while finite reality is derivative.
-
-The view avoids a creator-world dualism and explains parallelism elegantly. Yet it faces three objections: the
-individuality of modes appears weakened; modal change seems hard to reconcile with eternal substance; and a
-personal providential God disappears. Spinoza can reply that independent reality is not the only reality,
-temporal order belongs to finite modes, and personality would anthropomorphise infinity.
-
-**Verdict:** God alone is absolutely real, but finite things are not nothing; they are real relational
-expressions. This makes Spinoza monist and pantheistic without committing him to simple world-denial.
-
-**Why this earns marks:** It derives P15, explains "in," distinguishes absolute and modal reality, and critically
-handles individuality.
-
-#### Solved PYQ 12 — 2024 Q3(c), 15 marks
-
-**Question:** Among the rationalists, whose account of mind-body problem is compatible with the notion of human
-freedom and free will? Critically discuss.
-
-**Model solution**
-
-Compatibility depends on the criterion of freedom. Descartes' interactionism separates unextended mind from
-mechanically determined body, permitting libertarian will. But Princess Elizabeth's objection remains: no
-intelligible account explains causal commerce between substances lacking a common property; the pineal gland
-merely gives a location.
-
-Spinoza dissolves interaction by making mind and body the same mode under Thought and Extension (*Ethics* II
-P7). This is metaphysically economical but entails necessitarianism. Freedom becomes adequate self-determination,
-not free will as alternative choice.
-
-Leibniz denies interaction because windowless monads unfold internally. Pre-established harmony coordinates
-mental and bodily series. Rational action remains spontaneous, intelligent and contingent because the actual
-world is one possible world chosen by God; truths about action are certain but not absolutely necessary.
-
-If "free will" means ability to do otherwise, Descartes wins but with an unintelligible causal theory. If it
-means responsible agency compatible with systematic determination, Leibniz offers the strongest account. Spinoza
-offers the deepest self-mastery but openly rejects free will.
-
-**Verdict:** Leibniz is the best qualified answer because his mind-body theory preserves internal agency and
-moral responsibility without Cartesian interaction, though it remains compatibilist rather than libertarian.
-
-**Why this earns marks:** It explicitly ranks all three against stated criteria and defends the winner rather
-than neutrally describing positions.
-
-#### Solved PYQ 13 — 2025 Q2(a), 20 marks
-
-**Question:** What are the basic tenets of Rationalism? How does Descartes build a system of Philosophy in
-consonance with them? Discuss.
-
-**Model solution**
-
-Rationalism holds that reason can yield necessary and universal knowledge through innate or self-evident
-principles, deduction and an intelligible structure of reality. Experience may occasion thought, but it cannot
-alone provide the certainty modelled by mathematics.
-
-Descartes embodies these tenets as a system:
-
-1. **Method over authority:** the four rules of the *Discourse* and hyperbolic doubt reject inherited opinion and
-   seek evident beginnings.
-2. **Self-evident foundation:** the cogito is an immediate intuition, not an inference, giving certain
-   self-knowledge.
-3. **Innate content:** ideas of God, substance, mind, extension and mathematical truths are native to rational
-   cognition.
-4. **Deductive reconstruction:** from the thinking self Descartes argues to a perfect God through the trademark,
-   conservation and ontological routes.
-5. **Intelligibility and truth:** a non-deceiving God guarantees clear-and-distinct perception, restoring
-   mathematics and the external world.
-6. **Substance metaphysics:** reality is ordered into infinite God and the created principal attributes of
-   thought and extension.
-7. **Mechanistic nature and rational freedom:** extended nature is mathematically governed, while the will can
-   withhold assent; error occurs when will outruns intellect.
-
-The system is rationalist not merely because it praises reason but because each stage seeks necessity
-independent of sensory contingency. The wax argument even makes intellect, rather than the senses, the judge of
-bodily identity.
-
-Its vulnerabilities are equally systematic. The cogito may prove only occurring thought, not a Cartesian
-substance. The trademark and ontological arguments are disputed. Arnauld's Circle suggests that the divine
-guarantee presupposes the criterion it secures. Locke attacks innate principles, while Kant later denies that
-existence is a real predicate.
-
-**Verdict:** Descartes constructs the paradigm rationalist system — foundational, innate, deductive and
-substance-based — but its success beyond the cogito depends on theological premises less indubitable than its
-method demands.
-
-**Why this earns marks:** It first defines the school, then maps every tenet onto a stage in Descartes, and
-finally evaluates the load-bearing weaknesses.
-
-#### Solved PYQ 14 — 2025 Q2(b), 15 marks
-
-**Question:** "All determination is negation." Comment with reference to Spinoza.
-
-**Model solution**
-
-The formula is associated with Spinoza's Letter 50 — "determination is negation" — and universalised in
-Hegelian reception. To determine a finite thing is to bound it as this rather than that; every limit excludes
-alternatives. Finitude therefore contains negation.
-
-In Spinoza's metaphysics, God or substance is absolutely infinite and determined by nothing external. God is
-pure positive self-expression through infinite attributes. Finite modes, by contrast, are limited by other
-modes: a body occupies this region and excludes others; a particular idea expresses only a bounded causal
-perspective. Their determination marks dependence and limitation.
-
-The dictum also explains knowledge and freedom. Inadequate knowledge treats a finite thing in isolation; adequate
-knowledge understands it through the affirmative whole of Nature. The free person sees limitation and necessity
-*sub specie aeternitatis* rather than imagining an independent will.
-
-Hegel's criticism is that Spinoza's infinite may swallow all finite determination, turning the world into
-negation — acosmism. Spinoza can answer that negation concerns independent self-subsistence, not every form of
-reality: modes positively express divine power in determinate ways.
-
-**Verdict:** The dictum illuminates why finite beings are dependent, but it becomes reductive if limitation is
-mistaken for unreality. Spinoza needs both the negation of independence and the affirmation of modal expression.
-
-**Why this earns marks:** It corrects provenance, explains the formula inside monism, links it to knowledge, and
-adjudicates the acosmism objection.
-
-#### Solved PYQ 15 — 2026 Q1(a), 10 marks (newly solved for this edition)
-
-**Question:** How does Spinoza explain the relationship between states of mind and bodily processes?
-
-**Model solution**
-
-Spinoza rejects Descartes' two-substance premise. Mind and body are not distinct interacting substances but one
-and the same individual mode of the one infinite substance, expressed under two different attributes: Thought
-and Extension (*Ethics* II, P7 Scholium). Specifically, the human mind **is** the idea of the human body (*Ethics*
-II, P13) — "mind" is Spinoza's technical name for how a complex extended body is represented under the attribute
-of Thought.
-
-Because mind and body are the same mode under two attributes, their causal orders correspond exactly without
-ever crossing: "the order and connection of ideas is the same as the order and connection of things" (*Ethics*
-II, P7). A bodily process is caused only by a prior bodily process, and a mental state is caused only by a prior
-mental state; the two series run in perfect, guaranteed parallel because they are, at root, one and the same
-reality described twice, not two things linked by influence.
-
-This directly answers the Cartesian interaction problem by dissolving its premise rather than solving it: there
-is no gap to bridge, because there was never a second substance to cross into. It also explains why Spinoza's
-account is called "parallelism" or a "double-aspect" theory rather than interactionism or occasionalism.
-
-A live objection asks whether this leaves mental causation, and therefore agency, merely epiphenomenal, since a
-mental state never causes a bodily one. Spinoza's reply is that causal efficacy is preserved *within* each
-attribute: ideas cause further ideas (adequate ideas make the mind an active cause of further mental states),
-exactly as bodily states cause further bodily states. What is denied is only cross-attribute causation, which was
-the source of Descartes' problem, not a precondition of agency generally.
-
-**Verdict:** Spinoza explains the relationship between states of mind and bodily processes as an identity, not
-an interaction — the same individual thing under two attributes, in guaranteed causal parallel, with agency
-preserved within, but never across, each attribute.
-
-**Why this earns marks:** It names the exact textual anchors (II P7, P7 Scholium, P13), states the mechanism
-precisely (identity, not correlation or interaction), and engages the strongest objection with a reply.
-
-#### Solved PYQ 16 — 2026 Q1(d), 10 marks (newly solved for this edition; cross-owned)
-
-**Question:** Compare and contrast the notion of entelechy as presented in Aristotle's and Leibniz's philosophy.
-
-**Model solution**
-
-*(Ownership note, stated for completeness: the Aristotelian half is owned by `Plato-Aristotle.md` §6.6; this
-Rationalism file authors the Leibnizian half and the full comparison, per both files' cross-link instructions.)*
-
-For Aristotle, *entelecheia* names an **actuality** — a state of having achieved and holding one's proper end
-(*telos*), correlative to potentiality (*dynamis*). Form actualises matter: informed bronze is a statue in a way
-merely potential bronze is not. The soul is "the first actuality of a natural body having life potentially in
-it" (*De Anima* II.1, 412a20-28) — a **state** the compound substance (body-and-soul together) is in, not a
-separately existing substance.
-
-For Leibniz, "entelechy" names each created **simple substance** itself: "one could give the name entelechies to
-all simple substances or created monads, for they have in themselves a certain perfection... which makes them
-the sources of their own internal actions" (*Monadology* §18). A monad's states are perceptions, its transitions
-are appetitions, and it is windowless — receiving no causal influx. Bodies, for Leibniz, become well-founded
-phenomena grounded in aggregates of such monad-entelechies, not genuine composite substances in Aristotle's
-sense.
-
-The comparison therefore has both a continuity and a decisive discontinuity. Both reject a merely passive,
-externally-driven conception of substance, grounding unity in an intrinsic principle of activity, and both
-resist making extension the essence of what is most real. But Aristotle's entelechy is what a compound substance
-**is in** (a state of actuality within a matter-form compound); Leibniz's entelechy is what a substance **is**
-(an immaterial, simple, self-sufficient individual). Aristotle keeps matter as a real metaphysical co-principle;
-Leibniz eliminates matter from the level of ultimate substance altogether, demoting it to phenomenal status.
-
-The objection that Leibniz merely renames Aristotle's scholastic "substantial forms" fails on this analysis: the
-monad is simple, immaterial, mirrors the entire universe from its own point of view, and does not inform matter
-the way an Aristotelian form does — only the term and the shared theme of intrinsic activity are inherited, not
-the doctrine.
-
-**Verdict:** Leibniz appropriates Aristotle's entelechy to solve a distinctly Cartesian problem (how to secure
-genuine unity and activity against a substance-metaphysics built on extension), transforming an Aristotelian
-state-of-a-compound into a Leibnizian substance-in-itself.
-
-**Why this earns marks:** It states both halves precisely, uses the exact primary-text anchors (*De Anima* II.1;
-*Monadology* §18), names the continuity and the discontinuity explicitly, and closes the "mere renaming"
-objection with a decisive reply — satisfying "compare and contrast" rather than answering only one half.
-
-### C.2 Original MCQ Mastery Set — Exactly 40 Questions
-
-> Questions 1-24 preserve every prior core theme; questions 25-32 preserve the complete prior remedial set;
-> questions 33-40 are newly authored for this edition to test the restored conatus/affects, theodicy, and the
-> two verified 2026 questions. Correct answers rotate strictly **A -> B -> C -> D** ten times across the whole
-> bank, with no consecutive repeat anywhere, including across the 32/33 join.
-
-#### MCQ 1
-Descartes' doubt is primarily:
-A. methodical and temporary
-B. permanent scepticism
-C. theological faith
-D. sensory relativism
-**Correct answer: A**
-**Explanation:** It clears unstable beliefs to find an indubitable foundation. The alternatives confuse a
-temporary foundational procedure with a settled sceptical doctrine.
-
-#### MCQ 2
-The wax argument chiefly shows:
-A. wax is unreal
-B. bodily identity is judged by intellect
-C. senses never function
-D. God is extension
-**Correct answer: B**
-**Explanation:** Changing sensible qualities do not exhaust the judged object. The argument isolates intellectual
-judgement of identity; the later world-proof is a different step.
-
-#### MCQ 3
-The Cartesian Circle concerns:
-A. mind-body interaction
-B. proof of the world
-C. mutual dependence of God and clear-distinct perception
-D. monadic harmony
-**Correct answer: C**
-**Explanation:** Each appears used to validate the other. Arnauld's objection targets the justificatory order,
-not the mind-body relation.
-
-#### MCQ 4
-For Spinoza, Thought and Extension are:
-A. modes
-B. substances
-C. illusions
-D. attributes
-**Correct answer: D**
-**Explanation:** They express one substance under two accessible aspects. Calling them substances would
-reproduce the Cartesian scheme Spinoza rejects.
-
-#### MCQ 5
-Spinoza's first kind of knowledge is:
-A. imagination/opinion
-B. reason
-C. intuition
-D. recollection
-**Correct answer: A**
-**Explanation:** It arises from vague experience and signs and may be inadequate. Its dependence on vague
-experience and signs explains why it can contain falsity.
-
-#### MCQ 6
-The fourth proportional grasped demonstratively exemplifies:
-A. imagination
-B. reason
-C. intuition
-D. revelation
-**Correct answer: B**
-**Explanation:** Discursive mathematical proof belongs to the second kind. The intuitive third kind would grasp
-the ratio in one act rather than through a demonstrative chain.
-
-#### MCQ 7
-Leibniz rejects extension as ultimate because it is:
-A. unreal to sense
-B. divine
-C. divisible and composite
-D. self-caused
-**Correct answer: C**
-**Explanation:** Ultimate substance must be simple. Divisibility shows that extension describes composites,
-whereas ultimate units must be partless.
-
-#### MCQ 8
-"Monads have no windows" means:
-A. they lack perception
-B. they are spatial
-C. they are identical
-D. they receive no causal influx
-**Correct answer: D**
-**Explanation:** Their changes arise internally. Windowlessness does not remove perception; it removes external
-causal entry.
-
-#### MCQ 9
-Descartes' God mainly functions epistemologically as:
-A. guarantor of clear-distinct truth
-B. one mode
-C. aggregate of bodies
-D. strongest monad
-**Correct answer: A**
-**Explanation:** Divine non-deception bridges cogito and stable knowledge. Without non-deception, the move from
-present intuition to stable remembered knowledge remains insecure.
-
-#### MCQ 10
-Spinoza's God is best described as:
-A. transcendent artisan
-B. immanent substance
-C. finite intellect
-D. contingent selector
-**Correct answer: B**
-**Explanation:** God or Nature is the one substance. Immanence means finite things are modes within the one
-reality, not products external to it.
-
-#### MCQ 11
-Leibniz invokes the PSR to argue for:
-A. sensory atoms
-B. parallel attributes
-C. a sufficient ground of contingent reality
-D. denial of God
-**Correct answer: C**
-**Explanation:** The contingent series requires a sufficient reason. PSR asks for an explanatory ground of the
-contingent series rather than another contingent member.
-
-#### MCQ 12
-Cartesian interaction is commonly located at the:
-A. heart
-B. optic nerve
-C. cerebellum
-D. pineal gland
-**Correct answer: D**
-**Explanation:** The location does not solve the conceptual causal gap. A bodily location cannot by itself
-explain commerce between unextended thought and extension.
-
-#### MCQ 13
-Spinozist parallelism says:
-A. mental and bodily orders express the same mode
-B. minds push bodies
-C. bodies are unreal
-D. God resets events
-**Correct answer: A**
-**Explanation:** II P7 links the order of ideas and things. Parallelism is identity under attributes, not two
-synchronized substances.
-
-#### MCQ 14
-Pre-established harmony is illustrated by:
-A. melting wax
-B. synchronized clocks
-C. a thrown stone
-D. a blank slate
-**Correct answer: B**
-**Explanation:** Correspondence occurs without interaction. The clocks illustrate correspondence without causal
-exchange, unlike Cartesian interaction.
-
-#### MCQ 15
-Spinoza calls absolutely free what:
-A. is uncaused
-B. is random
-C. acts solely from its own nature
-D. defeats natural law
-**Correct answer: C**
-**Explanation:** This is *Ethics* I Definition 7. Spinoza's definition replaces randomness with action from the
-necessity of one's own nature.
-
-#### MCQ 16
-Leibnizian reasons:
-A. never affect choice
-B. logically necessitate every act
-C. are sensory impacts
-D. incline without necessitating
-**Correct answer: D**
-**Explanation:** This supports compatibilist freedom. Moral inclination preserves rational explanation while
-denying contradiction-based compulsion.
-
-#### MCQ 17
-Descartes' error theory says error occurs when:
-A. will outruns intellect
-B. body disappears
-C. ideas interact
-D. God deceives
-**Correct answer: A**
-**Explanation:** The will assents beyond clear understanding. Error is attributable to misuse of freedom because
-God supplies no positively false clear idea.
-
-#### MCQ 18
-"Whatever is, is in God" is found in:
-A. *Monadology* §7
-B. *Ethics* I P15
-C. *Meditations* II
-D. Locke's *Essay* I
-**Correct answer: B**
-**Explanation:** It states modal dependence on the one substance. P15 states the modal dependence that grounds
-Spinoza's immanent monism.
-
-#### MCQ 19
-The acosmism objection says Spinoza:
-A. multiplies substances
-B. denies reason
-C. dissolves the finite world into substance
-D. accepts creation in time
-**Correct answer: C**
-**Explanation:** The finite appears to lose robust reality. The objection is not that Spinoza multiplies worlds
-but that finite reality becomes too thin.
-
-#### MCQ 20
-The complete-concept doctrine most threatens:
-A. extension
-B. innate ideas
-C. pantheism
-D. contingency and freedom
-**Correct answer: D**
-**Explanation:** Predicates fixed in the concept seem necessary. If every predicate belongs to the concept,
-alternative possibilities need the possible-world distinction.
-
-#### MCQ 21
-Rationalism's deepest common commitment is:
-A. reason can disclose necessary intelligible structure
-B. all senses are false
-C. only one substance exists
-D. all wills are free
-**Correct answer: A**
-**Explanation:** Substance counts and freedom theories differ. This formulation unites the school without
-falsely imposing one substance or freedom theory.
-
-#### MCQ 22
-Descartes restores the external world after proving:
-A. monads
-B. a non-deceiving God
-C. parallelism
-D. common notions
-**Correct answer: B**
-**Explanation:** Divine veracity validates the natural inclination toward bodies. The order cogito -> God ->
-world is indispensable to Descartes' reconstruction.
-
-#### MCQ 23
-Spinoza's third kind of knowledge is:
-A. vague experience
-B. hearsay
-C. *scientia intuitiva*
-D. imagination
-**Correct answer: C**
-**Explanation:** It moves from divine attributes to essences in one adequate grasp. It proceeds from adequate
-knowledge of divine attributes to essences and is not mere fast calculation.
-
-#### MCQ 24
-The safest 2024 mind-body/freedom winner is:
-A. Spinoza always
-B. Descartes without qualification
-C. none can be compared
-D. Leibniz under a compatibilist criterion
-**Correct answer: D**
-**Explanation:** The criterion must be explicitly defended. Leibniz wins only under a responsibility-preserving
-compatibilist criterion, not under libertarianism.
-
-#### Remedial MCQ 25
-The cogito is best treated as:
-A. immediate performative certainty
-B. a syllogism from "all thinkers exist"
-C. sense inference
-D. proof of the body
-**Correct answer: A**
-**Explanation:** Descartes denies dependence on a suppressed major premise. A syllogistic reading would expose
-the cogito to doubt about its suppressed universal premise.
-
-#### Remedial MCQ 26
-Spinoza's freedom is:
-A. randomness
-B. adequate self-determination
-C. exemption from causes
-D. bodily indifference
-**Correct answer: B**
-**Explanation:** It is a mode of necessity understood and internally expressed. Adequacy changes the source and
-quality of determination, although it restores no contra-causal option.
-
-#### Remedial MCQ 27
-Leibnizian contingency means:
-A. God is ignorant
-B. events lack reasons
-C. the opposite is logically conceivable in another possible world
-D. complete concepts are false
-**Correct answer: C**
-**Explanation:** Certainty is distinguished from absolute necessity. The distinction is modal: non-contradictory
-alternatives remain possible even when the actual series is certain.
-
-#### Remedial MCQ 28
-Descartes calls mind and matter substances:
-A. in exactly God's absolute sense
-B. because they create God
-C. because they are modes of Nature
-D. in a dependent/created sense
-**Correct answer: D**
-**Explanation:** This analogical use prompts Spinoza's critique. The analogical use explains why Spinoza accuses
-Descartes of inconsistency rather than simple numerical error.
-
-#### Remedial MCQ 29
-Spinoza is most accurately called:
-A. a qualified pantheist/monist
-B. a simple atheist
-C. a Cartesian dualist
-D. an atomist
-**Correct answer: A**
-**Explanation:** His God is impersonal but indispensable as substance. Spinoza rejects a personal transcendent
-creator but makes God indispensable as the sole substance.
-
-#### Remedial MCQ 30
-The wax argument does not by itself prove:
-A. intellectual judgement
-B. existence of external wax
-C. sensory change
-D. priority of self-awareness
-**Correct answer: B**
-**Explanation:** External existence is restored later through God. The later argument from involuntary ideas and
-divine veracity carries the existential burden.
-
-#### Remedial MCQ 31
-Parallelism avoids interaction by saying:
-A. God pushes both series
-B. matter causes mind
-C. one event is expressed under two attributes
-D. monads exchange signals
-**Correct answer: C**
-**Explanation:** It dissolves the two-substance premise. One event has mental and bodily expression; no divine
-reset or monadic signal is required.
-
-#### Remedial MCQ 32
-The phrase "all determination is negation" should be handled as:
-A. a direct sentence from *Meditations*
-B. Leibniz's PSR
-C. Locke's slogan
-D. Spinoza's Letter 50 idea universalised by Hegel
-**Correct answer: D**
-**Explanation:** Accurate provenance is an evaluative mark-earner. This wording earns a provenance mark and
-avoids falsely locating the universal formula in the *Ethics*.
-
-#### MCQ 33 (2026-topic — Spinoza mind-body)
-According to the doctrine tested in 2026 Q1(a), Spinoza explains states of mind and bodily processes as:
-A. the same mode under two attributes, with no cross-attribute causation
-B. two substances interacting at a single point
-C. random correlations with no explanation
-D. events periodically reset by divine intervention
-**Correct answer: A**
-**Explanation:** This is parallelism/identity (*Eth.* II P7, P13), taught in Lesson 6, Part B. Options B-D
-describe Descartes' interactionism, mere coincidence and Leibnizian-style occasional intervention respectively —
-none of which is Spinoza's actual position.
-
-#### MCQ 34 (2026-topic — entelechy)
-In the entelechy comparison tested in 2026 Q1(d), Leibniz's entelechy differs from Aristotle's chiefly because
-Leibniz's entelechy is:
-A. an actuality within a compound substance
-B. a substance in itself
-C. a physical atom
-D. a phenomenal body
-**Correct answer: B**
-**Explanation:** Aristotle's entelechy is a state (actuality) a compound is *in*; Leibniz's is what the substance
-(the monad) *is*. Option A describes Aristotle's own view, not the point of contrast; C and D misdescribe monads
-and bodies respectively (Lesson 9, Part B).
-
-#### MCQ 35 (conatus)
-Spinoza's conatus is best defined as:
-A. an external force acting on a mode
-B. a moral duty imposed by God
-C. a mode's own actual essence, its striving to persist
-D. a passive affect only
-**Correct answer: C**
-**Explanation:** *Ethics* III, P6-P7: conatus is not an added property but the thing's actual essence itself
-(Lesson 8). A misdescribes it as external; B theologises it wrongly; D wrongly restricts it to passivity alone.
-
-#### MCQ 36 (affects)
-The three primitive affects identified in *Ethics* III, P11 and its Scholium are:
-A. hope, fear, courage
-B. love, hate, wonder
-C. pleasure, pain, indifference
-D. desire, joy, sadness
-**Correct answer: D**
-**Explanation:** Desire is conscious conatus; joy and sadness are transitions to greater/lesser perfection
-(power of acting). All other affects are variations or combinations of these three (Lesson 8).
-
-#### MCQ 37 (active/passive affects)
-An affect is "active," for Spinoza, when:
-A. it follows from adequate ideas of which the mind is the complete cause
-B. it arises from external bodily impact alone
-C. it is suppressed by sheer will-power
-D. it is a transition to a lesser perfection
-**Correct answer: A**
-**Explanation:** Active affects follow from adequate ideas, making the mind the complete/adequate cause (Lesson
-8). B describes passive affects (bondage); C misdescribes Spinoza's actual remedy (a stronger affect, not
-will-power); D describes sadness, which cannot follow from adequate understanding alone.
-
-#### MCQ 38 (Leibnizian theodicy)
-In Leibniz's theodicy, moral evil is distinguished from metaphysical and physical evil mainly because moral evil:
-A. is the inherent finitude of any creature
-B. results from the misuse of free will by rational creatures
-C. is mere bodily pain or suffering
-D. cannot be permitted by God under any circumstances
-**Correct answer: B**
-**Explanation:** Metaphysical evil is mere creaturely limitation; physical evil is suffering/pain; moral evil
-specifically is sin, the misuse of freedom by rational agents, permitted (not willed) by God's consequent will
-(Lesson 5).
-
-#### MCQ 39 (best of all possible worlds)
-Leibniz's "best of all possible worlds" is best defined as:
-A. the world most comfortable for every individual
-B. a world containing no evil whatsoever
-C. the world with maximum variety under minimum governing principles, given compossibility
-D. the world Voltaire endorsed in *Candide*
-**Correct answer: C**
-**Explanation:** "Best" is a precise formula (variety/richness maximised under simplicity of laws, constrained by
-compossibility), not maximum comfort or the absence of evil; Voltaire's *Candide* satirises, rather than
-endorses, the doctrine (Lesson 5).
-
-#### MCQ 40 (Locke/innate ideas remedial close)
-The dispositional reading of Cartesian innate ideas answers Locke's strongest objections, except that it risks:
-A. proving too much about mathematics
-B. denying that children exist
-C. contradicting the cogito
-D. collapsing into the trivial claim that minds merely have a capacity to learn
-**Correct answer: D**
-**Explanation:** If "innate" means only "the mind is capable of learning this," the strong Cartesian claim
-(specific native content) is lost, and no empiricist would deny the trivial version (Lesson 3).
-
-### C.3 Original Mains Practice With Model Solutions
-
-#### Practice 1 — 10 marks
+## Practice 1 — 10 marks
 
 **Question:** Explain why the wax argument is necessary to Descartes' rationalist project even after the cogito.
 
@@ -3602,7 +2861,7 @@ condition under which body can be known.
 **Why this earns marks:** It answers necessity, reconstructs the example, links it to rationalism and includes a
 precise limitation.
 
-#### Practice 2 — 15 marks
+## Practice 2 — 15 marks
 
 **Question:** Is Spinoza's freedom merely determinism under a more attractive name? Critically examine.
 
@@ -3627,7 +2886,7 @@ libertarian sense. Its success depends on whether freedom is defined by authorsh
 **Why this earns marks:** It states both criteria of freedom, names textual evidence, shows practical
 significance and gives a graded ruling.
 
-#### Practice 3 — 20 marks
+## Practice 3 — 20 marks
 
 **Question:** "The history of rationalist substance is a movement from dualism through monism to pluralism."
 Analyse the logic and cost of this movement.
@@ -3647,9 +2906,9 @@ minds and bodies are modes under Thought and Extension. The gain is unity and di
 cost is necessitarianism and the threat of acosmism.
 
 Leibniz accepts that extended composites are not ultimate but refuses to sacrifice individuals. Simplicity,
-perception and appetition define infinitely many monads, each an entelechy in his appropriated sense (Lesson 9,
-Part B). The gain is active plurality and internal agency. The cost is that bodies become phenomenal and
-correspondence requires pre-established harmony and a divine selector.
+perception and appetition define infinitely many monads, each an entelechy in his appropriated sense (Lesson 9's
+entelechy comparison). The gain is active plurality and internal agency. The cost is that bodies become
+phenomenal and correspondence requires pre-established harmony and a divine selector.
 
 | Movement | Problem solved | New problem generated |
 |---|---|---|
@@ -3668,12 +2927,110 @@ costs, and concludes at the conceptual level.
 
 ---
 
-## PART D — Final Consolidated Register Notes
 
-> These compressed notes come **after all teaching and practice** and cover the whole ten-lesson session. They
-> are for retrieval, not a substitute for the full layered arguments in Lessons 1-9.
+# REMEDIATION
 
-### D.1 Rationalist Operating Logic
+| Predictable error | Why it fails | Repair drill |
+|---|---|---|
+| "Rationalists reject all experience." | They deny that experience alone grounds necessity; they do not deny its practical or occasioning role. | Rewrite the claim using "occasion" and "justify." |
+| "The Cogito proves an immortal soul." | It immediately proves thinking existence, not duration, simplicity or immortality. | Separate performative certainty from substance theory in two sentences. |
+| "The wax proves that bodies exist." | It shows that bodily identity is intellectually judged; the world-proof comes later. | Write the sequence Cogito → God → material bodies. |
+| "Descartes has three substances in exactly one sense." | Only God is absolutely independent; mind and body are created substances in a dependent sense. | Add the qualification whenever using the 3–1–infinity mnemonic. |
+| "Spinoza's attributes are separate substances." | Thought and Extension express the one substance. | State attribute, mode and substance in one linked definition. |
+| "Spinoza's freedom means uncaused choice." | Freedom is adequate self-determination within necessity. | Use the stone analogy, then contrast passive and active causation. |
+| "Monads are tiny material atoms." | They are simple, unextended centres of perception and appetition. | Explain why divisibility rules out extension as ultimate. |
+| "Pre-established harmony is interaction at a distance." | It denies influx; correspondence was coordinated by God. | Use the clocks analogy and state its limit. |
+| "Best possible world means painless world." | Best concerns the optimal compossible total order, not maximum comfort. | Distinguish metaphysical, physical and moral evil. |
+| "Entelechy means exactly the same thing in Aristotle and Leibniz." | Aristotle primarily means actuality; Leibniz applies the term to simple substances. | Write the formula: state/actuality versus substance/monad. |
+
+## Short corrective drills
+
+1. In 80 words, explain why present Cogito-certainty does not automatically validate remembered deduction.
+2. In 100 words, distinguish pantheism from the acosmism objection to Spinoza.
+3. In 120 words, defend or reject Leibniz's distinction between certainty and necessity.
+4. In 150 words, rank the three mind-body theories after explicitly defining freedom.
+
+# MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
+
+## Master comparison
+
+| Axis | Descartes | Spinoza | Leibniz |
+|---|---|---|---|
+| Method | intuition and ordered deduction after doubt | *more geometrico* | PSR, identity, complete concepts |
+| Substance | God plus qualified created mind/body | one infinite substance | infinitely many simple monads |
+| God | transcendent creator and guarantor | immanent God/Nature | necessary ground and selector |
+| World | extended created reality | modes under Extension | well-founded phenomenal order |
+| Mind-body | interaction | parallel identity | pre-established harmony |
+| Freedom | will can affirm, deny or withhold | adequate self-activity within necessity | spontaneity, intelligence, contingency |
+| Main gain | foundational certainty and personal agency | unity and causal intelligibility | individuality within rational order |
+| Main cost | Circle and interaction | acosmism and lost alternatives | harmony, evil and complete-concept pressure |
+
+## Cartesian reconstruction
+
+```text
+need for certainty
+      |
+methodic doubt: senses -> dream -> evil demon
+      |
+Cogito: thinking existence is indubitable
+      |
+clear and distinct perception
+      |
+God proofs -> non-deception
+      |
+remembered reasoning + material world
+      |
+real distinction of mind and body
+      |
+interaction problem
+```
+
+## Spinoza's integrated chain
+
+```text
+strict substance definition
+      -> one infinite God/Nature
+      -> attributes and modes
+      -> immanent necessity
+      -> mind/body as one mode under two attributes
+      -> conatus and affects
+      -> inadequate/passive versus adequate/active ideas
+      -> freedom as understood self-determination
+      -> intellectual love of God
+```
+
+## Leibniz's integrated chain
+
+```text
+extended composites lack true unity
+      -> simple monads
+      -> perception + appetition
+      -> windowlessness
+      -> pre-established harmony
+      -> complete concepts + PSR
+      -> compossible possible worlds
+      -> divine selection of the best world
+      -> contingency and compatibilist freedom
+      -> theodicy problem
+```
+
+## Objection-reply-residual map
+
+| Target | Objection | Strongest reply | Residual |
+|---|---|---|---|
+| Cogito | "There is thinking" does not prove a substantial I | Thought-modes require a subject | The substance premise enters early |
+| Cartesian Circle | God and clear perception validate each other | Present intuition differs from remembered inference | The proofs still use extended reasoning |
+| Interaction | Unextended mind cannot move extended body | Human union is a primitive notion | This names rather than explains the mechanism |
+| Spinozist monism | Finite individuals disappear | Modes are real expressions though not independent | Their independent agency remains thin |
+| Spinozist freedom | Necessity is merely renamed freedom | Active adequate causation differs ethically from passivity | Alternative possibility never returns |
+| Complete concepts | Every act is fixed | Certainty is not logical necessity | Actual openness remains contested |
+| Harmony | Divine synchronisation is ad hoc | It preserves plurality without influx | Its empirical explanatory risk is low |
+| Theodicy | A perfect God should create no evil | Some evils are permitted within the best compossible whole | The moral adequacy of permission remains disputed |
+
+# COMPLETE CONSOLIDATED REGISTER NOTES
+
+
+### 1 Rationalist Operating Logic
 
 - Certain knowledge seeks necessity and universality through reason; experience may occasion ideas but does not
   alone ground necessity.
@@ -3684,7 +3041,7 @@ costs, and concludes at the conceptual level.
   integrated systems (conatus/affects; monads/entelechy) as the advanced synthesis.
 - Master count: **Descartes 3 -> Spinoza 1 -> Leibniz infinity**.
 
-### D.2 Cartesian Demolition and Reconstruction
+### 2 Cartesian Demolition and Reconstruction
 
 ```text
 sense error -> dream -> evil demon -> cogito -> clear/distinct rule
@@ -3704,7 +3061,7 @@ sense error -> dream -> evil demon -> cogito -> clear/distinct rule
 - Error: the will assents beyond the finite intellect's clear perception.
 - Load-bearing objection: Cartesian Circle; the present/remembered distinction softens but does not eliminate it.
 
-### D.3 Substance Criterion and the 3-1-Infinity Dialectic
+### 3 Substance Criterion and the 3-1-Infinity Dialectic
 
 | Thinker | Basic reality | Decisive criterion | Main cost |
 |---|---|---|---|
@@ -3716,7 +3073,7 @@ sense error -> dream -> evil demon -> cogito -> clear/distinct rule
 - Thought and Extension are Cartesian principal attributes of two created substances but Spinozist attributes of
   one substance.
 
-### D.4 God as Guarantee, Reality, Selector-and-Justifier
+### 4 God as Guarantee, Reality, Selector-and-Justifier
 
 | Descartes | Spinoza | Leibniz |
 |---|---|---|
@@ -3730,7 +3087,7 @@ sense error -> dream -> evil demon -> cogito -> clear/distinct rule
 - Theodicy: metaphysical evil (finitude) / physical evil (suffering) / moral evil (sin); antecedent will (favours
   only good) vs consequent will (permits some evil for a greater compossible good).
 
-### D.5 Mind-Body Comparison (Including the Verified 2026 Spinoza Question)
+### 5 Mind-Body Comparison (Including the Verified 2026 Spinoza Question)
 
 ```text
 Descartes: interaction -> pineal location -> causal gap (Princess Elisabeth's objection)
@@ -3742,7 +3099,7 @@ Leibniz:   pre-established harmony -> synchronized windowless monads
 - "Ghost in the machine" is Gilbert Ryle's later hostile phrase, not Descartes'.
 - "Monads have no windows" is a standard rendering of *Monadology* §7.
 
-### D.6 Freedom and Necessity Ledger
+### 6 Freedom and Necessity Ledger
 
 | Thinker | Freedom | Determination |
 |---|---|---|
@@ -3755,7 +3112,7 @@ Leibniz:   pre-established harmony -> synchronized windowless monads
 - Ranking rule: state the criterion first. Alternatives -> Descartes; self-determination -> Spinoza;
   responsibility under determination -> Leibniz.
 
-### D.7 Spinoza as One Integrated System (Including Conatus and the Affects)
+### 7 Spinoza as One Integrated System (Including Conatus and the Affects)
 
 - I Def. 7: freedom through one's own nature. I P15: whatever is, is in God. I P16: infinitely many things follow
   from divine necessity. I P18: immanent, not transitive, cause. I P29: nothing contingent in Nature.
@@ -3769,7 +3126,7 @@ Leibniz:   pre-established harmony -> synchronized windowless monads
   demonstration. Third kind: intuitive grasp from divine attributes to essences.
 - Pantheism is qualified by infinite attributes; acosmism remains the strongest pressure on finite individuality.
 
-### D.8 Leibnizian Plurality, Contingency and Entelechy
+### 8 Leibnizian Plurality, Contingency and Entelechy
 
 - Monads are simple, unextended, perceptive, appetitive and windowless; identity of indiscernibles differentiates
   genuine individuals; complete concepts contain all predicates of the individual.
@@ -3781,7 +3138,7 @@ Leibniz:   pre-established harmony -> synchronized windowless monads
 - Residual problem: alternatives in other possible worlds may not show that this actual agent could now do
   otherwise.
 
-### D.9 Criticism-Reply-Residual Matrix
+### 9 Criticism-Reply-Residual Matrix
 
 | Target | Criticism | Reply | Residual |
 |---|---|---|---|
@@ -3793,18 +3150,18 @@ Leibniz:   pre-established harmony -> synchronized windowless monads
 | Leibniz | complete concepts erase freedom | certainty differs from necessity | actual openness remains difficult |
 | Leibniz | entelechy merely renames Aristotle | monad is simple/immaterial/universe-mirroring, unlike a form-in-matter | the shared word still invites conflation without careful phrasing |
 
-### D.10 Exact PYQ Route Map, 2018-2026
+### 10 Exact PYQ Route Map, 2018-2026
 
 - **2018:** harmony/freedom; comparative substance.
 - **2019:** external world; Spinozist necessity.
 - **2020:** monads and freedom; divine necessity.
-- **2021:** no Rationalism-owned question.
+- **2021:** no Rationalism-linked question.
 - **2022:** Spinoza substance/pantheism; self versus world certainty.
 - **2023:** Spinoza freedom; Descartes and Locke on innate ideas.
 - **2024:** God alone absolutely real; mind-body account compatible with freedom.
 - **2025:** basic tenets and Cartesian system; determination-negation.
 - **2026:** Spinoza mind-body relationship (Q1a, primary); Aristotle-Leibniz entelechy comparison (Q1d,
-  cross-owned, Leibniz half authored here).
+  cross-linked, Leibniz half developed here).
 
 ```text
 10 marks: define -> derive -> named anchor/example -> qualification -> verdict
@@ -3812,7 +3169,7 @@ Leibniz:   pre-established harmony -> synchronized windowless monads
 20 marks: common premise -> mechanism -> comparison -> costs -> conceptual verdict
 ```
 
-### D.11 Directive and Provenance Discipline
+### 11 Directive and Provenance Discipline
 
 - **Discuss:** exposition plus assessment. **Critically discuss/examine:** evaluation dominates and a verdict is
   compulsory. **Explain:** show why the doctrine follows. **Comment:** thesis-first, pointed and proportionate.
@@ -3825,144 +3182,51 @@ Leibniz:   pre-established harmony -> synchronized windowless monads
 
 ---
 
-# COVERAGE-LOCK MATRIX
 
-> Maps every canonical concept-group and every verified PYQ (2018-2026) to the lesson(s) that teach and/or solve
-> it. "Primary" = the lesson that owns full teaching; a second lesson listed is a cross-linked application, not a
-> duplicate ownership.
+# COVERAGE MATRIX
 
-## Canonical concept coverage
+| Lesson | Basic content | Advanced content and arguments | Objection/reply | Verified PYQ links | Practice |
+|---:|---|---|---|---|---|
+| 1 | Why experience does not ground necessity; shared tenets | intuition/deduction; common project without uniformity | underdetermination of metaphysics | 2018 Q2(a), 2025 Q2(a) | MCQs 1–2 |
+| 2 | four rules, methodic/hyperbolic doubt, Cogito | performative certainty, thinking thing, clear/distinct criterion, limits | Lichtenberg/Hume pressure and Cartesian reply | 2022 Q4(b), 2025 Q2(a) | MCQs 3–4 |
+| 3 | wax, God proofs, world, innate ideas | presuppositions of wax; Circle replies; involuntary ideas; Locke challenge | Gassendi/Berkeley/Arnauld/Locke and replies | 2019 Q1(d), 2022 Q4(b), 2023 Q2(c), 2025 Q2(a) | MCQs 5–6 |
+| 4 | exact substance criteria and 3–1–infinity | attributes, modes, simplicity, identity of indiscernibles, truths of fact | equivocation, acosmism, phenomenal bodies | 2018 Q2(a), 2022 Q2(c), 2025 Q2(b) | MCQs 7–8 |
+| 5 | God in all three systems | three Cartesian proofs; immanence; PSR; possible worlds; three evils | Circle, personality, evil and sufficient reason | 2019 Q1(d), 2020 Q4(b), 2024 Q2(b) | MCQs 9–10 |
+| 6 | interaction, parallelism, harmony | P7/P13, primitive union, clocks and freedom consequences | Princess Elisabeth, mental causation, ad hoc harmony | 2024 Q3(c), 2026 Q1(a) | MCQs 11–12 |
+| 7 | error/will, necessity, compatibilism | criteria of freedom, certainty versus necessity, moral responsibility | divine causality, no alternatives, fixed concepts | 2018 Q1(b), 2019 Q2(c), 2020 Q1(b), 2023 Q1(c), 2024 Q3(c) | MCQs 13–14 |
+| 8 | Spinoza as one system | conatus, affects, three knowledges, adequate/inadequate ideas, pantheism/acosmism, negation | self-certifying intuition, thin individuality, responsibility | 2019 Q2(c), 2020 Q4(b), 2022 Q2(c), 2023 Q1(c), 2024 Q2(b), 2025 Q2(b), 2026 Q1(a) | MCQs 15–16 |
+| 9 | Leibniz as one system | monads, perception/appetition, complete concepts, PSR, compossibility, harmony, theodicy, entelechy | actual openness, phenomenal bodies, evil, harmony | 2018 Q1(b), 2018 Q2(a), 2020 Q1(b), 2026 Q1(d) | MCQs 17–18 |
+| 10 | final comparative synthesis | necessity–plurality–freedom trilemma and criterion-sensitive verdict | incompatibility charge and reply | all comparative routes | MCQs 19–20 |
 
-| Canonical concept / doctrine block | Canonical section | Primary lesson(s) |
-|---|---|---|
-| Basic tenets of rationalism (innate resources, reason as ground of necessity, intuition/deduction, intelligibility, substance metaphysics) | §1.5 | 1 |
-| Source map and common-project boundary; unity without uniformity | §0A | 1 |
-| Four rules of method; hyperbolic/methodic doubt (sense error, dream, evil demon) | §1.1 | 2 |
-| The cogito; performative certainty; *res cogitans* | §1.2 | 2 |
-| Criterion of truth (clear and distinct perception); reconstruction sequence | §1.3 | 2 |
-| Wax argument (full 8-step reconstruction, presuppositions, hats-and-coats, objections/replies) | §1.6 | 3 |
-| Innate ideas — full doctrine (adventitious/factitious/innate) and Locke's three objections/replies | §1.5A | 3 |
-| How Descartes restores the external world (5-step reconstruction) | §1.5B | 3 |
-| Descartes' three proofs of God (trademark, ontological, conservation) | §3.1 | 3 |
-| Cartesian Circle (Arnauld's objection and the present/remembered reply) | §1.4/§1.7 | 3 |
-| Substance: shared definition; Descartes' 3 (God/mind/body qualification) | §2.1 | 4 |
-| Substance: Spinoza's one substance, attributes, modes; monism argument | §2.2 | 4 |
-| Substance: Leibniz's monads, perception/appetition, windowlessness, identity of indiscernibles | §2.3 | 4 |
-| Truth, possibility, contingency (truths of reason vs fact; complete concept; compossible worlds) | §2.3A | 4, 9 |
-| Substance comparative table and dialectic of gains/costs | §2.4 | 4 |
-| Spinoza's God: *Deus sive Natura*; immanent cause; *natura naturans/naturata*; "whatever is, is in God" | §3.2, §3.2A | 5 |
-| Leibniz's God: necessary being, PSR, best possible world | §3.3 | 5 |
-| Leibnizian theodicy: three kinds of evil; antecedent/consequent will; compossibility (restored expansion) | §3.3A (restored) | 5 |
-| God comparative table; one term, three explanatory jobs | §3.4 | 5 |
-| Descartes' interactionism; pineal gland; Princess Elisabeth's objection; union as primitive notion | §4.1 | 6 |
-| Spinoza's parallelism/double-aspect theory (II P7, P13) | §4.2 | 6 |
-| Leibniz's pre-established harmony; two-clocks analogy | §4.3 | 6 |
-| Mind-body comparative table; freedom-compatibility ranking (2024 Q3c) | §4.4-4.5 | 6 |
-| 2026 Q1(a) — Spinoza on states of mind and bodily processes (full deep teaching) | §4.2 (owner-block) | 6 (Part B) |
-| Descartes' freedom: infinite will, finite intellect, error theory | §5.1 | 7 |
-| Spinoza's freedom/determinism: necessitarianism, stone analogy, Def. 7 | §5.2 | 7 |
-| Leibniz's freedom: compatibilism, spontaneity/intelligence/contingency | §5.3 | 7 |
-| Freedom/determinism comparative table; criterion-relative ranking | §5.4 | 7 |
-| Three kinds of knowledge (imagination/reason/intuition; fourth-proportional example) | §1.7 | 8 |
-| Conatus and the affects (III P6-P11; desire/joy/sadness; passive vs active; bondage) — restored expansion | (restored, cross-checked with Copleston/Audi) | 8 |
-| Pantheism/acosmism debate (integrated with knowledge and freedom) | §2.2 | 4, 8 |
-| "All determination is negation" (integrated with finite/infinite structure) | §2.2 | 4, 8 |
-| Intellectual love of God; blessedness as virtue itself | §1.7, restored affects block | 8 |
-| Integrated Leibnizian dossier; infinite analysis and contingency | §7.3 (layered) | 9 |
-| Entelechy — Aristotle's sense (cross-owned summary) and Leibniz's appropriation (full authorship) | §2.3 cross-link; `Plato-Aristotle.md` §6.6 | 9 (Part B) |
-| 2026 Q1(d) — entelechy comparison table, presuppositions, objections, traps, answer spine | `Plato-Aristotle.md` §6.6.3-6.6.7 | 9 (Part B) |
-| Inter-thinker/inter-school comparison table (complete) | §6 | 10 (Part A) |
-| Criticisms and replies (all three thinkers) | §7 | 10 (Part A) |
-| Common UPSC traps (10-row ledger) | §8 | 10 (Part A) |
-| Keyword and statement bank | §9 | 10 (Part A) |
-| Directive decoder | §D | 10 (Part A) |
-| Graded verdict bank | §V | 10 (Part A) |
-| Translation, quotation and provenance discipline | §T | 10 (Part A) |
-| Marks-essential owner vs optional enrichment boundary | §7A | all (applied per lesson) |
-
-## PYQ coverage (16 parts, 2018-2026, all solved)
-
-| Year | Q. | Marks | Primary lesson (teaching) | Solved in |
-|---|---|---:|---|---|
-| 2018 | Q1(b) | 10 | 7, 9 | Lesson 10, Part C, Solved PYQ 1 |
-| 2018 | Q2(a) | 20 | 1, 4 | Lesson 10, Part C, Solved PYQ 2 |
-| 2019 | Q1(d) | 10 | 3 | Lesson 10, Part C, Solved PYQ 3 |
-| 2019 | Q2(c) | 15 | 7, 8 | Lesson 10, Part C, Solved PYQ 4 |
-| 2020 | Q1(b) | 10 | 7, 9 | Lesson 10, Part C, Solved PYQ 5 |
-| 2020 | Q4(b) | 15 | 5, 8 | Lesson 10, Part C, Solved PYQ 6 |
-| 2022 | Q2(c) | 15 | 4, 8 | Lesson 10, Part C, Solved PYQ 7 |
-| 2022 | Q4(b) | 15 | 2, 3 | Lesson 10, Part C, Solved PYQ 8 |
-| 2023 | Q1(c) | 10 | 7 | Lesson 10, Part C, Solved PYQ 9 |
-| 2023 | Q2(c) | 15 | 3 | Lesson 10, Part C, Solved PYQ 10 |
-| 2024 | Q2(b) | 15 | 5, 8 | Lesson 10, Part C, Solved PYQ 11 |
-| 2024 | Q3(c) | 15 | 6, 7 | Lesson 10, Part C, Solved PYQ 12 |
-| 2025 | Q2(a) | 20 | 1, 2, 3 | Lesson 10, Part C, Solved PYQ 13 |
-| 2025 | Q2(b) | 15 | 4, 8 | Lesson 10, Part C, Solved PYQ 14 |
-| 2026 | Q1(a) | 10 | 6 (Part B) | Lesson 10, Part C, Solved PYQ 15 |
-| 2026 | Q1(d) | 10 | 9 (Part B) | Lesson 10, Part C, Solved PYQ 16 |
-
-## Practice coverage
-
-| Practice element | Count | Location |
-|---|---:|---|
-| Solved PYQs (verified, 2018-2026) | 16 | Lesson 10, Part C.1 |
-| MCQs (conceptual, applied, comparative — prior core set) | 24 | Lesson 10, Part C.2, MCQ 1-24 |
-| MCQs (remedial — prior set) | 8 | Lesson 10, Part C.2, MCQ 25-32 |
-| MCQs (2026-topic and restored-gap: mind-body, entelechy, conatus, affects, theodicy) | 8 | Lesson 10, Part C.2, MCQ 33-40 |
-| Original Mains questions with model solutions (10/15/20 marks) | 3 | Lesson 10, Part C.3 |
-| Consolidated register-note subsections | 11 | Lesson 10, Part D |
-
-# SOURCE AND VERIFICATION LEDGER
-
-## Sources consulted
-
-| Source | Role |
+| Protected requirement | Location |
 |---|---|
-| `upsc-ai-kit/knowledge/Philosophy/paper-1/western/Rationalism.md` | Canonical owner; read in full (Part I §§0-12, D, V, T and Part II's complete learning session and 14-question solved workbook) |
-| `upsc-ai-kit/knowledge/Philosophy/paper-1/western/Plato-Aristotle.md` §6.6 | Cross-owned canonical file for the entelechy comparison; read in full |
-| `upsc-ai-kit/knowledge/Philosophy/_learning-sessions/02_Rationalism-Complete-Learning-Session.md` | Prior complete-package cross-check (the layered session's own declared primary source) |
-| `.../Western-Philosophy/learning-sessions/Rationalism/Rationalism_Layered-Complete-Learning-Session_2026-08-18.md` | Structural and practice base for the 10-lesson roadmap; read in full |
-| `.../Western-Philosophy/learning-sessions/Rationalism/Rationalism_Layered-Solved-Practice-Workbook_2026-08-18.md` | Verified as a mirror of the layered session's own Part II; cross-checked, not separately re-derived |
-| `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md` | Verified PYQ ledger, 14 primary-owned parts |
-| `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md` | Verified PYQ ledger, 1 primary-owned (Q1a) and 1 cross-owned (Q1d) 2026 part |
-| `books/philosphy_books/` (Masih, Copleston Vol. IV, Warburton, Audi's *Cambridge Dictionary of Philosophy*) | OCR-searchable secondary-literature cross-check, especially for the restored conatus/affects and theodicy blocks |
-| `live_sessions/Western-Philosophy/01-Plato-Aristotle/Learning-Session-Live-Edition.md` | Sibling live edition; consulted for structural consistency and to avoid duplicating the Aristotelian half of the entelechy comparison |
+| Intuition, deduction and non-flattened common project | Lesson 1 |
+| Methodic and hyperbolic doubt; Cogito limits | Lesson 2 |
+| Wax; clear/distinct; God proofs; strongest Circle replies; world proof; Locke objection | Lessons 2–3 |
+| Exact substance criteria and Descartes qualification | Lesson 4 |
+| Attributes, modes, *Deus sive Natura*, infinitely many things | Lessons 4–5, 8 |
+| Conatus, affects, three knowledges, freedom | Lessons 7–8 |
+| Monads/windows, perception/appetition, complete concepts, PSR, identity of indiscernibles | Lessons 4, 9 |
+| Compossibility, best world, evil/theodicy, harmony, freedom | Lessons 5, 7, 9 |
+| 2026 Spinoza mind-body route | Lesson 6 and PYQ table |
+| 2026 entelechy cross-link | Lesson 9 and PYQ table |
+| All exact 2018–2026 Rationalism links and 2021 absence | Verified PYQ section |
+| Original 10/15/20-mark complete model answers | Original Mains section |
+| Global MCQ rotation and option-specific explanations | MCQs 1–40 |
 
-## Validation performed on this file
+# SOURCE LEDGER
 
-- **Roadmap freeze:** exactly 10 `Progress: N / 10` labels, N = 1..10, strictly ascending, no lesson added,
-  removed, merged or reordered. Result: **PASS**.
-- **Pre-teach checklists:** exactly 10 `PRE-TEACH CHECKLIST` blocks found (one per lesson), each with its own
-  topic-specific search query and an honest, non-fabricated finding. Result: **PASS**.
-- **Mandatory gap audit:** conatus/affects, theodicy, 2026 Q1(a) and 2026 Q1(d) confirmed absent or under-taught
-  in the prior layered package and restored as internal Parts/expansions without altering the frozen roadmap.
-  Result: **PASS**.
-- **MCQ rotation:** 40 MCQs; correct answers verified to rotate strictly A -> B -> C -> D across the whole
-  sequence (A,B,C,D repeated ten times) with zero consecutive repeats, including at the MCQ 32/33 join (D -> A).
-  Result: **PASS**.
-- **Residue scan:** searched for tool-call fragments, transport markers and agent-log tokens in the teaching
-  prose. Result: **PASS (none found outside the honestly-recorded pre-teach checklist error messages, which are
-  a required, truthful part of the checklist format itself)**.
-- **Fence balance:** every opened triple-backtick code fence is closed; checked lesson by lesson during drafting.
-  Result: **PASS (balanced)**.
-- **Word / line counts and SHA-256:** to be computed on the complete generated file and reported in the chat
-  completion summary for this task, since a value embedded inside the file would change the count/hash it
-  describes.
+| Source | Use in this edition |
+|---|---|
+| `live_sessions\LIVE-SESSION-GENERATION-RULES.md` | Governing learner-first structure, lesson requirements, practice rules and final sequence |
+| `upsc-ai-kit\knowledge\Philosophy\paper-1\western\Rationalism.md` | Complete canonical doctrine, arguments, comparisons, criticisms, terminology and answer-use guidance |
+| `upsc-ai-kit\knowledge\Philosophy\_learning-sessions\02_Rationalism-Complete-Learning-Session.md` | Completeness cross-check for the ten-topic teaching sequence |
+| Rationalism learning materials dated 2026-08-18 under `upsc-ai-kit\knowledge\Philosophy\Western-Philosophy\learning-sessions\Rationalism\` | Deep examples, objections, comparisons, revision evidence and misconception testing; no PYQ answer is reproduced |
+| `upsc-ai-kit\knowledge\Philosophy\paper-1\_PYQ-Western-Philosophy-2018-2025.md` | Exact wording and marks for 14 primary Rationalism questions; confirms 2021 absence |
+| `upsc-ai-kit\knowledge\Philosophy\paper-1\_PYQ-Western-Philosophy-2026.md` | Exact 2026 Q1(a) and cross-linked Q1(d) wording |
+| `books\philosphy_books\2016_Masih_A_critical_history_of_western_philosophy.pdf` | OCR cross-check for Descartes, Spinoza and Leibniz terminology and system sequence |
+| `books\philosphy_books\philosophy__the_classics_--_warburton_nigel_--_4_2014_--_routledge_--_0415534674_--_265dfe84ff25101d59a827ea4091b506_--_anna’s_archive.pdf` | OCR cross-check for Cartesian doubt, wax, God, Spinoza and critical framing |
+| `books\philosphy_books\a_new_history_of_western_philosophy_volume_4.pdf` | OCR cross-check for later reception and conceptual contrasts |
+| `live_sessions\Philosophy-Optional\08-Vedanta\Learning-Session-Live-Edition.md` | Benchmark for visual-first progression, local practice, criticism/reply and final retrieval sequence |
 
-## Structural Repair Note
-
-- All 46 visible numbered `LAYER 1-5` wrapper headings copied from the layered source package were removed so
-  that each lesson reads as one integrated terminal flow. The "How to Use This Live Session" section's "five
-  retained layers" table and sentence were replaced with a concise statement of that flow: Progress -> Pre-Teach
-  Checklist -> visual -> intuition -> doctrine/argument/examples -> comparison/criticism -> UPSC application ->
-  revision/practice.
-- No doctrine, sentence, visual, example, criticism/reply, PYQ, MCQ, Mains answer, register note or citation was
-  removed, paraphrased or reordered; only the wrapper headings and the explanatory scaffolding prose describing
-  them were removed. Lesson count/order/boundaries (10 lessons), Pre-Teach Checklists (10), solved PYQs (16) and
-  MCQs (40) are unchanged, and all triple-backtick fences remain balanced.
-
-## Immutability note
-
-- No canonical, generated-package or PYQ-ledger source file listed above was modified while producing this live
-  edition. This is a new artifact at
-  `live_sessions/Western-Philosophy/02-Rationalism/Learning-Session-Live-Edition.md`.
+**Verification boundary:** Primary philosophical claims follow the canonical Markdown and named texts. Interpretive verdicts are presented as assessments rather than uncontested doctrine. No current-affairs claim is used. No PYQ model answer appears in this file.
