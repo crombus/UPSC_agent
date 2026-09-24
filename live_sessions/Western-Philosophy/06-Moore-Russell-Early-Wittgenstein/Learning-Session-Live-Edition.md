@@ -59,21 +59,11 @@ generated_from:
 
 ## How to Use This Live Session
 
-Every logical subtopic inside a lesson follows the learner-first order: **intuition → visual → terms → doctrine
-→ argument → examples → comparison → criticism/reply → UPSC application → revision → practice**. Within that
-order, each lesson also carries five retained layers:
-
-| Layer | Purpose |
-|---:|---|
-| 1. SIMPLE START | Visual-first, plain-language gateway into the subtopic |
-| 2. CORE UPSC | Complete canonical doctrine, terminology, arguments and worked examples |
-| 3. ADVANCED | Objections, replies, comparisons and qualified evaluation |
-| 4. EXAM APPLICATION | Verified PYQ routing and answer architecture (through 2026) |
-| 5. RAPID REVISION | Traps, recall points and compressed notes |
-
-Each lesson opens with a **Progress** line (lesson number, stage, exact subtopic) and a **Pre-Teach Checklist**
-(book context queried; the exact current-affairs search attempted; and an honest record of what, if anything,
-was found). Moore, Russell and early Wittgenstein form a timeless early-analytic topic argued from 1903–1922
+Each lesson follows a single integrated terminal flow, with no separate labelled layers: **Progress → Pre-Teach
+Checklist → visual → intuition → doctrine/argument/examples → comparison/criticism → UPSC application →
+revision/practice**. The Progress line names the lesson number, stage and exact subtopic; the Pre-Teach
+Checklist records the book context queried, the exact current-affairs search attempted, and an honest account of
+what, if anything, was found. Moore, Russell and early Wittgenstein form a timeless early-analytic topic argued from 1903–1922
 texts; most lessons will honestly record "none found" for a genuine recent-news hook, and this live session never
 manufactures one. MCQs are answered after each question, not beside it, with every option explained; correct
 options rotate strictly **A → B → C → D** throughout the bank without a consecutive repeat.
@@ -113,7 +103,7 @@ separate syllabus item and are named only as a forward boundary, never taught he
 - **Prior approved package (structural and practice base):**
   `Moore-Russell-Early-Wittgenstein_Layered-Complete-Learning-Session_2026-08-18.md` and its paired
   `Moore-Russell-Early-Wittgenstein_Layered-Solved-Practice-Workbook_2026-08-18.md` (the workbook is a verified
-  mirror of the session's own Part II). That package is organised into **ten** units with a five-layer-per-unit
+  mirror of the session's own Part II). That package is organised into **ten** units with a layered per-unit
   structure and ends with 14 solved PYQs (2018–2025 only, predating the 2026 paper), 40 rotation-checked MCQs and
   3 original Mains answers. This live edition preserves every doctrine, argument, objection, PYQ solution and MCQ
   from that package, reorganises the ten units into the first ten of the twelve frozen lessons below (a direct
@@ -168,8 +158,6 @@ CA search: "Moore Russell Wittgenstein analytic philosophy revolt against ideali
 CA found: None verifiable — this is an early-1900s methodological break with no live news hook; recorded honestly rather than inventing one. Static UPSC syllabus relevance (this founding map underlies every later lesson) is the sufficient exam linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
 ### Visual gateway — three thinkers, one method
 
 ```text
@@ -212,8 +200,6 @@ therefore a change of mind from the inside, not an attack from a rival school th
 | **Early Wittgenstein** | picture theory of the proposition | "Whereof one cannot speak, thereof one must be silent." |
 
 > 🔑 **Mnemonic:** *Moore DEFENDS, Russell DISSECTS, Wittgenstein PICTURES.*
-
-## LAYER 2 — CORE UPSC
 
 ### Part A — why this is one movement, not three biographies ✅
 
@@ -290,8 +276,6 @@ THE ANALYTIC REVOLT AGAINST ABSOLUTE IDEALISM
   limits of propositional representation as such. Naming *which* kind of analysis is at work in a given answer is
   itself an examinable skill.
 
-## LAYER 3 — ADVANCED
-
 ### The one distinction the examiner is testing: precise attribution
 
 The single commonest fatal error in scripts on this clause is blurring the three programmes into one generic
@@ -316,8 +300,6 @@ The single commonest fatal error in scripts on this clause is blurring the three
 > (Lesson 10). Treating all three simply as "anti-metaphysicians" flattens exactly the distinctions the paper
 > rewards, and Lesson 12's original Mains 3 is built to test precisely this over-generalisation.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### How the map itself is examined
 
 - Attribution is not decoration here — it is directly and repeatedly tested. Every question in this clause
@@ -339,8 +321,6 @@ the opening marks of almost any question in the clause.
 **15/20-mark use:** open with the method (analysis of language over system-building), then run the specific
 doctrine the question targets, then close with one precise inter-thinker contrast drawn from the attribution
 table above.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -367,8 +347,6 @@ Book context: [queried — canonical owner §1.1–1.3; no dedicated Moore prima
 CA search: "Moore defence of common sense external world proof UPSC current affairs 2026 relevance"
 CA found: None verifiable — a 1925/1939 epistemological method with no live news hook; recorded honestly. Static UPSC relevance: this is the single most heavily and continuously tested Moore sub-limb (four owned PYQ parts across 2019, 2021, 2024 and 2026).
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — Moore reverses the burden of proof
 
@@ -398,8 +376,6 @@ principled rule about **where certainty actually lives**.
 
 > 🔑 **Memory line:** Moore does not refute the sceptic's *logic* — he refutes the sceptic's *premise*, by simply
 > being more certain of his hands than of anything the sceptic could offer against them.
-
-## LAYER 2 — CORE UPSC
 
 ### Part A — "A Defence of Common Sense" (1925) ✅
 
@@ -511,8 +487,6 @@ and is named here only as a forward-looking diagnosis, never imported as early-W
 Contrast Kant's transcendental strategy (arguing from the *conditions of possible experience* rather than from
 comparative certainty) in [`Kant.md`](../../../upsc-ai-kit/knowledge/Philosophy/paper-1/western/Kant.md) §3.7.
 
-## LAYER 3 — ADVANCED
-
 ### Is the proof a triumph or a trick? — objection, reply, and the deepest diagnosis
 
 - **Objection 1 (question-begging):** as above — the sceptic denies exactly the premise Moore asserts he knows.
@@ -534,8 +508,6 @@ relocate the burden of proof from the ordinary believer onto the sceptic's own p
 dialectically powerful against a sceptic who must produce a *more* certain premise than "here is one hand," but
 it is not a demonstrative refutation of radical (Cartesian-level) doubt, and Moore himself does not claim that it
 is — he claims only comparative, not absolute, certainty superiority.
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -561,8 +533,6 @@ is — he claims only comparative, not absolute, certainty superiority.
 in full → sceptical objection → qualified verdict (dialectically sufficient, not demonstratively conclusive).
 **Provenance discipline:** never merge the **1925** truisms paper with the **1939** hands paper — they are two
 different papers with two different (though related) arguments; state both dates if citing both.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -591,8 +561,6 @@ Book context: [queried — canonical owner §2; no dedicated Moore primary-text 
 CA search: "Moore refutation of idealism act object distinction esse est percipi UPSC current affairs 2026 relevance"
 CA found: None verifiable — a 1903 epistemological argument with no live news hook; recorded honestly. Static UPSC relevance: this is a repeat-tested Moore sub-limb (2020 and 2025 both quote the identical blue/green/consciousness passage).
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — one sensation, two elements
 
@@ -624,8 +592,6 @@ words, "a self-contradictory mistake."
 
 > 🔑 **Memory line:** consciousness is the *same* across different sensations; the *object* is what differs — so
 > object and act cannot be one thing, and *esse* cannot simply *be* *percipi*.
-
-## LAYER 2 — CORE UPSC
 
 ### Part A — the target: *esse est percipi* ✅
 
@@ -695,8 +661,6 @@ the object exists unperceived or establish a complete mind-independent realism. 
   Sellars's "Myth of the Given" unscathed. This is a **later, bounded** criticism of the *legacy* of the
   distinction, not of the 1903 refutation itself.
 
-## LAYER 3 — ADVANCED
-
 ### The diaphanous thesis is both the engine and the weak point
 
 The transparency/diaphanous thesis does double duty: it is the **explanation** of why idealists make their
@@ -711,8 +675,6 @@ its conclusion.
 passage, successfully blocks the specific inferential route from *esse est percipi* to idealism by denying that
 awareness and its object are one thing; it does not by itself refute idealism in general, does not touch Absolute
 Idealism, and its own positive legacy (sense-data) proved less durable than its negative achievement.
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -733,8 +695,6 @@ thesis → result → critical limits (Berkeley only, not Hegel; sense-data's la
 **Provenance discipline:** "The Refutation of Idealism" is **1903** — the *same year* as *Principia Ethica*; never
 conflate the two works even though both are 1903 Moore texts on entirely different subjects (metaphysics vs
 ethics).
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -763,8 +723,6 @@ CA search: "Russell logical atomism atomic facts UPSC current affairs 2026 relev
 CA found: None verifiable — a 1918-lecture metaphysical programme with no live news hook; recorded honestly. Static UPSC relevance: two owned PYQ parts (2020, 2022) directly test this doctrine, and it underlies Lessons 5–8 throughout.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
 ### Visual gateway — the world and language share one skeleton
 
 ```text
@@ -792,8 +750,6 @@ the last stopping point of *analysis* — not physically tiny, which is why Russ
 his atoms are "logical atoms and not physical atoms."
 
 > 🔑 **Memory line:** atomic = the last residue **analysis** reaches, not the smallest thing **physics** finds.
-
-## LAYER 2 — CORE UPSC
 
 ### Part A — the statement of the doctrine ✅
 
@@ -858,8 +814,6 @@ picture theory (Lesson 8) both inherits and radicalises.
 | Logical independence of atoms | Acknowledged, somewhat loosely | Strictly insisted upon — elementary propositions are logically independent |
 | Published expression | "The Philosophy of Logical Atomism" lectures (1918) — acknowledges Wittgenstein's influence | *Tractatus* (written 1918, published 1921) |
 
-## LAYER 3 — ADVANCED
-
 ### Logical vs physical atoms, and how Russell's atomism differs from the *Tractatus*
 
 The single highest-value distinction in this lesson is stated by Russell himself and must be quoted, not merely
@@ -877,8 +831,6 @@ propositions handled by truth-functions; its weakest point is the instability of
 Russell's own career and the awkward cost of admitting negative facts, both of which distinguish it from
 Wittgenstein's stricter, purely logical version of atomism.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **2020 Q2(c), 15 marks:** *"…the atoms that I wish to arrive at… are logical atoms and not physical atoms."
@@ -894,8 +846,6 @@ Wittgenstein's stricter, purely logical version of atomism.
 isomorphism → negative facts (cost) → comparison with the *Tractatus* → verdict.
 **Directive trap:** "write a note in the light of the statement" (2020 Q2c) means the quotation must structure
 the *whole* answer, not appear once as decoration.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -920,8 +870,6 @@ Book context: [queried — canonical owner §4.1–4.6; no dedicated Russell pri
 CA search: "Russell theory of descriptions present king of France golden mountain UPSC current affairs 2026 relevance"
 CA found: None verifiable — a 1905 logical-analysis paper with no live news hook; recorded honestly. Static UPSC relevance: this is the single most heavily tested Russell sub-limb — four owned PYQ parts across 2018, 2023, 2024 and 2025.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — how "the F" disappears on analysis
 
@@ -953,8 +901,6 @@ sentence is simply **false** — not meaningless, and without committing us to a
 
 > 🔑 **Memory line:** an incomplete symbol has no meaning **in isolation**; it contributes to a sentence's meaning
 > only in **context**, and disappears once the sentence is fully analysed.
-
-## LAYER 2 — CORE UPSC
 
 ### Part A — the concept of an incomplete symbol ✅
 
@@ -1019,8 +965,6 @@ search for final residues. It does **not**, by itself, prove that analysis termi
 show that reality is exhaustively atomic. This precise, non-overstated link is what both the 2018 Q4(c) and 2024
 Q3(a) questions test.
 
-## LAYER 3 — ADVANCED
-
 ### The three puzzles, scope, and the rival analysis
 
 **Strawson's rival (1950, "On Referring"):** "The present King of France is bald" is not false but involves a
@@ -1041,8 +985,6 @@ Acquaintance — is taught in full in Lesson 6, which this lesson's descriptions
 that vanish into existence/uniqueness/predication clauses; Strawson's presupposition account is a serious rival
 about ordinary use but leaves Russell's logical analysis of the sentence's *form* untouched, and the whole
 apparatus supports, without alone proving, Logical Atomism's search for a final analytic terminus.
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -1069,8 +1011,6 @@ economy.
 **Directive trap:** "discuss in the context of the theory of descriptions" (2025 Q1d) requires the actual
 existence/uniqueness/predication breakdown, not a prose paraphrase with no formal structure.
 
-## LAYER 5 — RAPID REVISION
-
 ### Rapid recall
 
 - **Incomplete symbol:** no meaning in isolation; contributes to whole-sentence meaning; disappears on analysis.
@@ -1095,8 +1035,6 @@ Book context: [queried — canonical owner §4.7, the fullest single subsection 
 CA search: "Russell knowledge by acquaintance knowledge by description Bismarck UPSC current affairs 2026 relevance"
 CA found: None verifiable — a 1910–12 epistemological scaffold with no live news hook; recorded honestly. No PYQ owns this sub-limb directly, but it is the indispensable epistemological engine behind every descriptions question in Lesson 5, so its absence from a script is itself an examinable gap.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — two roads to a single object
 
@@ -1139,8 +1077,6 @@ possible without forcing us to be acquainted with everything we talk about.
 
 > 🔑 **Memory line:** acquaintance is direct and presentational; description is indirect and propositional — and
 > descriptions is the device that lets talk about the merely-described cash out in acquaintance-only terms.
-
-## LAYER 2 — CORE UPSC
 
 ### Part A — why this scaffold is indispensable, and the Principle of Acquaintance ✅
 
@@ -1232,8 +1168,6 @@ met. The logical machinery has proved permanent; the epistemology it was built t
 names as disguised descriptions — has not survived Sellars and Kripke. That asymmetry is the most instructive
 fact about Russell's philosophy."
 
-## LAYER 3 — ADVANCED
-
 ### The Bismarck series and logically proper names
 
 The Bismarck series (Part B) is worth re-reading as an **argument**, not just an illustration: it shows that
@@ -1250,8 +1184,6 @@ that makes the theory of descriptions more than a logical trick — it is what a
 to survive contact with everything we understand but have never met; its cost is a restrictive, phase-specific
 theory of names and a sense-datum ontology that neither survived unchallenged (Kripke; Sellars), even though the
 logical apparatus itself remains standard equipment in the philosophy of language.
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -1270,8 +1202,6 @@ Acquaintance, one line on why descriptions is needed to preserve it, done — th
 class" mark the canonical file flags without derailing the primary answer.
 **Standalone-use structure (if directly asked):** Principle → numbered argument → Bismarck series → logically
 proper names/egocentric particulars → objections (Kripke, Sellars, universals) → verdict.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1302,8 +1232,6 @@ Book context: [queried — canonical owner §5; no dedicated Russell primary-tex
 CA search: "Russell logical constructions sense-data physical objects Occam's razor UPSC current affairs 2026 relevance"
 CA found: None verifiable — a 1914 methodological maxim with no live news hook; recorded honestly. No PYQ owns this sub-limb directly, but it is the second half of the 2024 Q3(a) incomplete-symbols question and recurs across the whole comparative-synthesis lesson.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — build it, don't bet on it
 
@@ -1339,8 +1267,6 @@ do the same explanatory work.
 
 > 🔑 **Memory line:** "Wherever possible, substitute constructions out of known entities for inferences to
 > unknown entities" — Russell's own "supreme maxim of scientific philosophizing."
-
-## LAYER 2 — CORE UPSC
 
 ### Part A — the supreme maxim ✅
 
@@ -1390,8 +1316,6 @@ proposed reduction/structural reconstruction, not the claim that ordinary object
 imaginary fictions — the construction is offered *as* the analysis of what "the table" means, not as a denial
 that tables exist.
 
-## LAYER 3 — ADVANCED
-
 ### Constructions ARE incomplete symbols — the unifying thread
 
 The deepest point available in this lesson is that **logical constructions are simply incomplete symbols applied
@@ -1418,8 +1342,6 @@ is continuous with, not separate from, incomplete symbols, and it supplies the o
 Atomism needs, though its own sense-datum basis inherits every weakness already noted for acquaintance (Lesson 6)
 and was not sustained by Russell himself in his later phases.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **No PYQ owns this sub-limb as a standalone question** through 2026, but it is the *second half* of the 2024
@@ -1428,7 +1350,8 @@ and was not sustained by Russell himself in his later phases.
   route taught in Part C above, and is required for full marks on that question even though its primary teaching
   home is this lesson.
 - **Comparative-directive use:** "distinguish logical atoms from logical constructions" demands the criterion-
-  first table in Part C, followed by the unifying "constructions are incomplete symbols" point from Layer 3 —
+  first table in Part C, followed by the unifying "constructions are incomplete symbols" point from earlier in
+  this lesson —
   never two disconnected definitions.
 
 **Compressed-use structure (embedded inside a 2024 Q3a-style answer):** supreme maxim (quoted) → one worked
@@ -1436,8 +1359,6 @@ example (the table) → the "constructions are incomplete symbols too" unifying 
 **Standalone-use structure (if directly asked "what are logical constructions?"):** supreme maxim → examples
 table → atoms-vs-constructions table → the incomplete-symbols connection → the solipsism/regulative-ideal
 objections → verdict.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1462,8 +1383,6 @@ Book context: [queried — canonical owner §6.1–6.2; no dedicated Wittgenstei
 CA search: "Wittgenstein Tractatus picture theory of meaning facts objects UPSC current affairs 2026 relevance"
 CA found: None verifiable — a 1921 ontology/semantics with no live news hook; recorded honestly. Static UPSC relevance: one owned PYQ part (2022 Q3c) tests pictorial vs logical form directly, and the whole apparatus is presupposed by Lessons 9–11.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — the world is facts, and a sentence is a picture
 
@@ -1499,8 +1418,6 @@ sense — because it depicts a genuine *possibility*.
 
 > 🔑 **Memory line:** the world = facts, not things; a proposition = a picture of a *possible* fact, true if the
 > fact obtains, false if it does not — either way, meaningful.
-
-## LAYER 2 — CORE UPSC
 
 ### Part A — the world of facts, not things ✅
 
@@ -1552,8 +1469,6 @@ why Wittgenstein's atomism is **primarily transcendental-logical** rather than e
 *Tractatus* never offers, and does not need to offer, a worked example of a "simple object" the way Russell
 offers sense-data.
 
-## LAYER 3 — ADVANCED
-
 ### Pictorial form, logical form, and why a proposition is not a mental image
 
 The commonest confusion in this lesson is treating "picture theory" as the claim that a sentence produces a
@@ -1570,8 +1485,6 @@ the species and logical form (universal, presupposed by all representation) is t
 Wittgenstein to an atomism of unspecified logical simples that is deliberately more austere, and less
 epistemically committed, than Russell's sense-datum-based version.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **2022 Q3(c), 15 marks:** *Is there any difference between pictorial form and logical form in Ludwig
@@ -1586,8 +1499,6 @@ pictorial form vs logical form table → logical form as the universal bridge �
 saying/showing (logical form is shown, not said).
 **Directive trap:** "is there any difference…" is not a yes/no question — full marks require the *table* and the
 explanation of *why* logical form, specifically, is what connects language to reality.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1612,8 +1523,6 @@ Book context: [queried — canonical owner §6.3–6.4, the most technically den
 CA search: "Wittgenstein Tractatus bipolarity logical space general form of proposition tautology UPSC current affairs 2026 relevance"
 CA found: None verifiable — pure logical-semantic apparatus with no live news hook; recorded honestly. No PYQ owns this sub-limb as a standalone question, but it is the technical apparatus every saying/showing and hierarchy-of-languages answer (Lessons 10–11) silently depends on.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — sense, and the two limiting cases that carry none
 
@@ -1649,8 +1558,6 @@ that produces the whole of language.
 
 > 🔑 **Memory line:** bipolar = can be true AND can be false (this is sense); tautologies/contradictions are
 > **sinnlos** (empty, not false); metaphysical pseudo-propositions are **unsinnig** (not even candidates).
-
-## LAYER 2 — CORE UPSC
 
 These three doctrines are one seen from three sides, and no *Tractatus* answer is complete without all three —
 they are what make the picture theory an **account of sense**, not merely a metaphor.
@@ -1767,8 +1674,6 @@ belief-contexts and modality create difficulties; (P4) the N-operator can handle
 disputed. State these as pressures and later developments, not as simple refutations already conceded inside the
 *Tractatus*.
 
-## LAYER 3 — ADVANCED
-
 ### The general form of the proposition, and *sinnlos* vs *unsinnig*
 
 A graded answer on this lesson earns its highest marks by showing that bipolarity, logical space and the general
@@ -1784,8 +1689,6 @@ possible configurations generated from an elementary base; colour incompatibilit
 pressure independence and truth-functionality, motivating later revision without licensing an automatic leap to
 Later-Wittgenstein's meaning-as-use inside this owner.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **No PYQ owns this sub-limb as a standalone question** through 2026, but any "critically examine the picture
@@ -1800,8 +1703,6 @@ Later-Wittgenstein's meaning-as-use inside this owner.
 **Standalone-use structure (if directly asked):** bipolarity (definition, four consequences) → logical space
 (analogy, four consequences) → general form (both formulations, the N-operator) → tautology/contradiction table →
 colour-exclusion pressure → verdict.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1826,8 +1727,6 @@ Book context: [queried — canonical owner §6.5–6.6; no dedicated Wittgenstei
 CA search: "Wittgenstein saying showing ladder Tractatus proposition 7 UPSC current affairs 2026 relevance"
 CA found: None verifiable — a 1921 closing doctrine with no live news hook; recorded honestly. Static UPSC relevance: two owned PYQ parts (2018, 2021) test this distinction directly, and it is the direct premise for Lesson 11's 2026 twenty-marker.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — the boundary of language, drawn from inside
 
@@ -1866,8 +1765,6 @@ the world aright," then recognise them as **nonsense** and *throw the ladder awa
 > 🔑 **Memory line:** logic, ethics and the mystical are **shown, not said**; the *Tractatus* is a ladder you
 > kick away once you have climbed it.
 
-## LAYER 2 — CORE UPSC
-
 ### Part A — the say/show distinction ✅ (2018 Q3(c), 2021 Q4(c))
 
 **The distinction that crowns the *Tractatus*:**
@@ -1886,7 +1783,7 @@ the world aright," then recognise them as **nonsense** and *throw the ladder awa
 themselves although they cannot be stated as facts. On resolute/therapeutic readings, 6.54 does not license a
 body of ineffable truths; the apparent doctrines are elucidatory nonsense to be discarded. Both readings agree
 that ethics, aesthetics and the mystical are not factual propositions within logical space. Naming both readings,
-rather than asserting one as uncontested, is itself an examinable move (Layer 3 below).
+rather than asserting one as uncontested, is itself an examinable move (discussed below).
 
 ### Part B — ethics, aesthetics and the mystical ✅
 
@@ -1920,8 +1817,6 @@ This is not a verification principle or a declaration that value-claims are empi
 treat value and the mystical as manifest but unsayable; resolute readers resist calling them ineffable truths.
 The ladder therefore creates a deliberate interpretive problem rather than one uncontested metaphysical doctrine.
 
-## LAYER 3 — ADVANCED
-
 ### The distinction, its reach, and the self-referential paradox
 
 **Saying vs showing — state the contrast crisply:**
@@ -1951,8 +1846,6 @@ decisive problems of philosophy" to the domain of the unsayable, but its self-ap
 paradox that Wittgenstein accepts rather than resolves — a candidate should present both the standard and
 resolute readings and then commit to a stated verdict rather than leaving the paradox unassessed.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **2018 Q3(c), 15 marks:** *How does Wittgenstein apply the distinction between 'saying' and 'showing' to point
@@ -1973,8 +1866,6 @@ yet instructive) → verdict.
 decimal numbering; do **not** import *Philosophical Investigations* doctrine here except to mark the boundary.
 **Directive trap:** "discuss its implications" means go past the definition to ethics/mystical + the ladder/
 paradox; a bare gloss caps the mark.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -2002,8 +1893,6 @@ Book context: [queried — canonical owner §6.7, restored here in full as its o
 CA search: "Wittgenstein hierarchy of languages Russell metalanguage 2026 UPSC Philosophy Paper I Q4a"
 CA found: One verified item — the question itself: 2026 Q4(a), 20 marks, is the exact quotation this lesson teaches, drawn from the official 2026 paper (`_PYQ-Western-Philosophy-2026.md`); no further live-news hook exists or is claimed beyond the verified paper text itself.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — a picture cannot picture its own frame
 
@@ -2047,8 +1936,6 @@ argued in full below, is: only halfway.
 
 > 🔑 **Memory line:** the hierarchy solves self-reference by climbing to a *richer language*; it cannot solve the
 > *transcendental* limit, because every rung of the ladder has exactly the same problem one level up.
-
-## LAYER 2 — CORE UPSC
 
 ### Part A — the difficulty, stated exactly ✅
 
@@ -2161,8 +2048,6 @@ where the difficulty is transcendental — and the later Wittgenstein's own resp
 but to abandon the demand for a single logical form altogether, which is arguably the deeper diagnosis of the
 same difficulty."
 
-## LAYER 3 — ADVANCED
-
 ### Why Russell's own proposal already concedes the difficulty
 
 The single most sophisticated point available in this lesson is that Russell's Introduction is not merely a
@@ -2180,8 +2065,6 @@ the transcendental limit the picture theory actually generates, because that lim
 representation as such and reappears, undiminished, at every rung of an admittedly open-ended ladder; the later
 Wittgenstein's abandonment of a single logical form, not Russell's hierarchy, is the more serious response to the
 difficulty.
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -2219,8 +2102,6 @@ difficulty.
 **Directive trap:** this is an "agree/disagree, give reasons" directive — a description of the hierarchy without
 a stated position, and without reasons for that position, forfeits the marks the directive specifically demands.
 
-## LAYER 5 — RAPID REVISION
-
 ### Rapid recall
 
 - **The difficulty:** a picture cannot depict its own pictorial/logical form (2.172–2.174); a language cannot say
@@ -2249,8 +2130,6 @@ CA search: "Moore Russell early Wittgenstein analytic philosophy synthesis UPSC 
 CA found: None verifiable beyond the verified 2026 paper text already used in Lessons 2 and 11; the honest standing relevance remains static and disciplinary (philosophy of language), stated once and not repeated as if it were news.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
 ### Visual gateway — the whole clause in one continuous rail
 
 ```text
@@ -2277,8 +2156,6 @@ CA found: None verifiable beyond the verified 2026 paper text already used in Le
 
 Caption: eleven lessons of doctrine converge here into the examiner-facing apparatus — comparison, criticism,
 complete solved practice, and final recall notes, in that order, with register notes placed last as required.
-
-## LAYER 2 — CORE UPSC
 
 ## PART A — COMPARATIVE SYNTHESIS, CRITICISMS AND TRAPS
 
@@ -3128,7 +3005,7 @@ B. is a mental image that resembles its object
 C. is a tautology of logic
 D. is the name of a universal
 **Correct answer: A.** Sense is the capacity to depict a possible arrangement; names correspond to objects and
-arrangement to arrangement. *(B is the standard misreading Layer 3 of Lesson 8 warns against; C and D misassign
+arrangement to arrangement. *(B is the standard misreading the advanced discussion in Lesson 8 warns against; C and D misassign
 the proposition's logical category.)*
 
 **MCQ 26.** 'Logical form' in the *Tractatus* is:
@@ -3766,7 +3643,7 @@ sayable). Stated as analysis, not as a dated news event.
 | `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md` | Verified PYQ ledger, 14 primary-owned parts, 2018–2025, joint-highest Western clause; read in full |
 | `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md` | Verified PYQ ledger, 2026 Q1(e) and Q4(a) primary; read in full for exact wording, marks and the cross-ownership/routing notes |
 | `books/` | Checked in full for a dedicated Moore, Russell or Wittgenstein primary-text or secondary-literature OCR PDF: none present; recorded honestly rather than fabricating a citation |
-| `live_sessions/Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md` | Sibling live edition; consulted for structural consistency (roadmap-freeze presentation, five-layer format, coverage-matrix and source-ledger design) |
+| `live_sessions/Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md` | Sibling live edition; consulted for structural consistency (roadmap-freeze presentation, integrated terminal format, coverage-matrix and source-ledger design) |
 
 ## Validation performed on this file
 
@@ -3802,7 +3679,6 @@ sayable). Stated as analysis, not as a dated news event.
 - No canonical, generated-package or PYQ-ledger source file listed above was modified while producing this live
   edition. This is a new artifact at
   `live_sessions/Western-Philosophy/06-Moore-Russell-Early-Wittgenstein/Learning-Session-Live-Edition.md`.
-
 
 
 

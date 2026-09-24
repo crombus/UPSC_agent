@@ -53,17 +53,10 @@ generated_from:
 
 ## How to Use This Live Session
 
-Every logical subtopic inside a lesson follows the same learner-first order: **intuition → visual → terms →
-doctrine → argument → examples → comparison → criticism/reply → UPSC application → revision → practice**. Within
-that order, each lesson also carries the five retained layers from the approved source package:
-
-| Layer | Purpose |
-|---:|---|
-| 1. SIMPLE START | Visual-first, plain-language gateway into the subtopic |
-| 2. CORE UPSC | Complete canonical doctrine, terminology, arguments and worked examples |
-| 3. ADVANCED | Objections, replies, comparisons and qualified evaluation |
-| 4. EXAM APPLICATION | Verified PYQ routing and answer architecture (through 2026) |
-| 5. RAPID REVISION | Traps, recall points and compressed notes |
+Each lesson follows one integrated terminal flow, with no separate labelled layers: **Progress → Pre-Teach
+Checklist → visual → intuition → doctrine/argument/examples → comparison/criticism → UPSC application →
+revision/practice**. Every logical subtopic inside a lesson moves through this same learner-first order without
+interruption.
 
 Each lesson opens with a **Progress** line (lesson number, stage, exact subtopic) and a **Pre-Teach Checklist**
 (book context queried; the exact current-affairs search attempted; and an honest record of what, if anything, was
@@ -156,8 +149,6 @@ CA search: "empiricism basic tenets Locke Berkeley Hume UPSC current affairs Ind
 CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, including a general pre-drafting probe. No substitute headline is invented or backfilled from memory. This is a school-level definitional item with no genuine current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
 ### Visual gateway — one rule, three destinations
 
 ```text
@@ -203,8 +194,6 @@ empiricist is left with a cautious, "mitigated" scepticism about anything beyond
 
 > 🔑 **Memory line:** Locke keeps matter (unknown), Berkeley kills matter (keeps self and God), Hume kills matter
 > AND self AND objective causal necessity.
-
-## LAYER 2 — CORE UPSC
 
 ### 0. The one-screen map ✅
 
@@ -319,8 +308,6 @@ HUME   : No impression of a simple self, no impression of necessary connexion �
 > separable unit, no relation between perceptions can itself be perceived, so every relation (identity,
 > substance, necessary connexion) becomes, in the end, a fiction of the imagination.
 
-## LAYER 3 — ADVANCED
-
 ### Is the "slide" a decline or a discipline?
 
 Textbooks sometimes present the movement from Locke to Hume as empiricism "collapsing." The stronger reading is
@@ -345,8 +332,6 @@ premise is itself contestable (Hume's own missing-shade-of-blue exception dents 
 is a *conditional* result, not an unconditional discovery about the world. This is precisely the diagnosis Kant
 will make explicit when he attacks the atomism rather than any single Humean inference.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### How the slide is examined
 
 - The slide is rarely the *whole* question, but it is the **frame** every long Empiricism answer should open
@@ -362,8 +347,6 @@ will make explicit when he attacks the atomism rather than any single Humean inf
   directive asks for.
 - **Directive trap:** "Bring out / Trace" wants a **development**, not three parallel summaries. Show each
   thinker as the previous one made consistent, with the added premise named.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -394,8 +377,6 @@ recurred on this attempt. No substitute headline is invented. Locke's epistemolo
 with no live current-affairs hook; the 2026 Q1(b) question itself is the sufficient, syllabus-anchored exam
 linkage for this lesson.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — where every Lockean idea comes from, and how sure it can make you
 
@@ -440,8 +421,6 @@ obvious to the merely reliable.
 
 > 🔑 **Memory line:** Two sources (sensation + reflection) → simple ideas → complex ideas (modes/substances/
 > relations) → three degrees of knowing (intuitive > demonstrative > sensitive).
-
-## LAYER 2 — CORE UPSC
 
 ### 1.1 LOCKE — Theory of knowledge
 
@@ -563,8 +542,6 @@ hinge on which the entire 2026 demand turns. ✅
 **Source anchors ✅** — Locke, *Essay* IV.ii ("Of the Degrees of our Knowledge"); IEP, *Locke's Epistemology*;
 SEP, *John Locke*.
 
-## LAYER 3 — ADVANCED
-
 ### The strongest objection Locke must survive
 
 Locke's attack on innate ideas is often over-credited. The rationalist need not claim that infants *consciously*
@@ -590,8 +567,6 @@ the tension between the two shows up exactly where the architecture strains agai
 knowledge (forced by experience, yet not comfortably "agreement of ideas") and at long demonstration (structurally
 certain, yet practically fallible through memory). This tension is not a flaw to hide; naming it is what turns a
 descriptive answer into a critical one.
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -630,8 +605,6 @@ philosophy"):
 **Directive trap:** "Elucidate" (2022 Q4c) demands the *derivation*, not synonyms for "blank slate." Give the
 mechanism (sensation/reflection → simple → complex) **and** at least one degree of knowledge.
 
-## LAYER 5 — RAPID REVISION
-
 ### Rapid recall
 
 - Mind at birth: "white paper, void of all characters" (*Essay* II.i) — the doctrine traditionally labelled
@@ -660,8 +633,6 @@ CA found: None verifiable this session — the same repeated transport error rec
 is a technical 17th-century semantic/metaphysical doctrine with no live current-affairs hook; its exam value is
 purely syllabus-anchored (2025 Q4(c) tests its Berkeley-side refutation, taught in Lesson 6).
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — how a particular mind uses a general word, and what stands behind it
 
@@ -709,8 +680,6 @@ smell); underneath both kinds of quality he posits an unknown **substratum** tha
 > 🔑 **Memory line:** We classify by nominal essence (what we can list), not real essence (what we cannot see);
 > we trust some ideas to resemble objects (primary) and admit others do not (secondary) — and underneath it all
 > sits an honestly-admitted unknown, the substratum.
-
-## LAYER 2 — CORE UPSC
 
 ### Locke — abstract general ideas ✅ (the doctrine Berkeley destroys in Lesson 6 — 2025 Q4(c) cannot be answered without this half first)
 
@@ -802,8 +771,6 @@ doctrine, so that each thinker is understood independently before the two are se
   not idealism. ⚠️ This is exactly the admitted emptiness that Berkeley will, in Lesson 6, turn into a weapon
   against matter altogether.
 
-## LAYER 3 — ADVANCED
-
 ### Does Locke's abstraction survive on its own terms?
 
 Even before Berkeley's attack (Lesson 6), Locke's own text contains the seed of the difficulty: the general
@@ -823,8 +790,6 @@ to verify (we can never step outside our ideas to compare them with the qualitie
 measurable/structural properties and response-dependent properties) in an indefensible picture (resemblance) —
 which is exactly the picture Berkeley's likeness principle attacks.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **2025 Q4(c), 15 marks** (primary-owned by Berkeley's refutation, Lesson 6): *Explain Berkeley's doctrine of
@@ -839,8 +804,6 @@ which is exactly the picture Berkeley's likeness principle attacks.
 **Directive trap:** "Explain [Berkeley's] refutation" (2025 Q4c) still requires Locke's doctrine first, in brief —
 an answer that opens directly with Berkeley, without stating what is being refuted, forfeits marks for
 completeness.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -871,8 +834,6 @@ CA search: "Locke personal identity prince cobbler memory theory UPSC current af
 CA found: None verifiable this session — the same repeated transport error recurred. No fabricated anchor. Locke's
 theory of personal identity is a fixed 17th-century doctrine; its exam value is syllabus-anchored (2021 Q1(d)).
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — what makes you the same person over time?
 
@@ -912,8 +873,6 @@ teaches. His proof of God, by contrast, is not intuitive or sensory at all — i
 
 > 🔑 **Memory line:** Person = memory-linked consciousness, not soul, not body; identity is "forensic" — it fixes
 > responsibility. God is reached by demonstration, not by feeling.
-
-## LAYER 2 — CORE UPSC
 
 ### 3.1 LOCKE — Self (personal identity) ✅
 
@@ -968,8 +927,6 @@ answerable only for acts we can appropriate as our own through memory.
 - This is a *cosmological-style* argument within Locke's empiricist framework — note that it relies on the causal
   principle (something from nothing is impossible), which Hume will later challenge (Lesson 9).
 
-## LAYER 3 — ADVANCED
-
 ### The circularity and transitivity objections
 
 Two classic attacks (Butler and Reid) must appear in any serious answer. **Circularity (Butler):** memory cannot
@@ -998,8 +955,6 @@ empiricist grounds Locke himself supplied. **Qualified verdict:** Locke's proof 
 causal principle, but its empiricist credentials are weaker than its demonstrative *form* suggests — a tension
 worth naming for a comparative or "critically discuss" directive.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **2021 Q1(d), 10 marks:** *Examine the concept of personal identity by Locke.* "Examine" = state the doctrine
@@ -1016,8 +971,6 @@ worth naming for a comparative or "critically discuss" directive.
 
 **Directive trap:** a bare exposition scores low on "examine"; the objection is the differentiator — name
 Butler/Reid and the Brave Officer.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1046,8 +999,6 @@ Berkeley's immaterialism is a fixed early-18th-century doctrine; its exam value 
 2024 Q2(a)).
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
 ### Visual gateway — four roads to "no matter" (the fifth road, God, waits for Lesson 6)
 
 ```text
@@ -1075,8 +1026,6 @@ conclusion, one after another — Berkeley never simply asserts the slogan.
 
 > 🔑 **Memory line:** Four arguments (semantic, likeness, parity, master) — never present *esse est percipi* as a
 > bare slogan.
-
-## LAYER 2 — CORE UPSC
 
 ### 1.2 BERKELEY — Theory of knowledge (opening statement)
 
@@ -1168,8 +1117,6 @@ size with distance, motion with frame of reference, shape with angle). ✅
   denies material efficient powers behind them, not empirical regularity (this "sign" theory of law is completed
   in Lesson 6 alongside God's role as continuity-guarantor).
 
-## LAYER 3 — ADVANCED
-
 ### The Master Argument's fatal ambiguity
 
 Berkeley's Master Argument is the most philosophically contested single move in this whole topic. Its force
@@ -1195,8 +1142,6 @@ distinction itself reconstrued as a contrast between **structural/measurable** p
 explanation) and **response-dependent** properties (which do not) — which is exactly why the distinction survives
 in science even though Locke's own resemblance-picture does not (completing the Lesson 3 verdict promised there).
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **2021 Q1(c), 10 marks:** *"Sensible things are those only which are immediately perceived by sense." Explain
@@ -1216,8 +1161,6 @@ in science even though Locke's own resemblance-picture does not (completing the 
 **Directive trap:** the 2024 question asks "instrumental?" — you must **judge**, not just narrate; answer
 yes-with-qualification (rejecting primary-quality resemblance removes the last foothold, but Berkeley's
 nominalism, Lesson 6, does the deeper work).
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1243,8 +1186,6 @@ CA search: "Berkeley nominalism abstract ideas Moore Russell idealism UPSC curre
 CA found: None verifiable this session — the same repeated transport error recurred. No fabricated anchor. This
 is a closed early-modern/early-analytic dispute; its exam value is syllabus-anchored (2018 Q3(a), 2025 Q4(c)).
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — what is left once matter is gone, and who pushes back
 
@@ -1285,8 +1226,6 @@ different routes.
 > 🔑 **Memory line:** Spirits by notion, ideas by sense, God guarantees continuity, nominalism removes the last
 > abstraction "matter" needed — idealism that *saves* common sense, and Moore/Russell push back by different
 > methods.
-
-## LAYER 2 — CORE UPSC
 
 ### PART A — Spirits, God, continuity, common sense and anti-scepticism
 
@@ -1407,8 +1346,6 @@ generality."
   degree**: Berkeley makes existence depend on being perceived by minds that already exist; Hegel makes finite
   minds and the world alike **moments** in the self-unfolding of one Absolute.
 
-## LAYER 3 — ADVANCED
-
 ### Does Berkeley really win the abstraction dispute?
 
 Berkeley's demolition is decisive **only against an imagistic Locke** — a Locke for whom every idea is a mental
@@ -1433,8 +1370,6 @@ objects with **logical constructions**. **Qualified verdict:** both refuse to le
 being-perceived, but Moore does it by asserting direct realism and Russell by analysing the object away — a real
 difference in method, not merely in emphasis.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **2018 Q3(a), 20 marks:** *How does Berkeley establish that Mind and its ideas alone are real? How do Moore and
@@ -1455,8 +1390,6 @@ difference in method, not merely in emphasis.
 **Directive trap:** the marks in 2018 Q3(a) live in the **comparison** — a script that reacts to Berkeley but
 never separates Moore from Russell forfeits the final third. In 2024 Q2(a), a script that treats Hegel as
 "Berkeley writ large" loses the second-half marks entirely.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1486,8 +1419,6 @@ CA found: None verifiable this session — the same repeated transport error rec
 2026 Q2(b) question is itself the sufficient, syllabus-anchored exam linkage for this lesson's newly authored
 content.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — Hume's microscope
 
@@ -1530,8 +1461,6 @@ just one of these two boxes and nothing grander.
 > 🔑 **Memory line:** Copy Principle + association + Fork → no substance; and everything the rationalists called
 > "reason's own ideas" turns out to be relations of ideas, explained psychologically, not delivered by a separate
 > metaphysical faculty.
-
-## LAYER 2 — CORE UPSC
 
 ### 1.3 HUME — Theory of knowledge
 
@@ -1657,8 +1586,6 @@ psychological product of **custom and association** wrongly mistaken for rationa
 > premise (no impression/intuition of Soul, World or God) but insists the Ideas are **necessary structural
 > products** of reason, serving a real (if only regulative) function Hume's psychology cannot account for.
 
-## LAYER 3 — ADVANCED
-
 ### Does Hume's reduction of "reason" survive its own Fork?
 
 A sharp objection: is Hume's Fork itself a relation of ideas or a matter of fact? If neither, it appears to refute
@@ -1674,8 +1601,6 @@ philosophy* depends on whether Kant's third category (synthetic a priori/regulat
 about the structure of reason or merely a relabelling of the very phenomena Hume already described. The graded
 answer concedes Hume's phenomenology while questioning whether his two-box Fork was ever demonstrated to be
 *exhaustive* — exactly the same reflexive weakness that undermines his induction argument (Lesson 9).
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -1698,8 +1623,6 @@ answer concedes Hume's phenomenology while questioning whether his two-box Fork 
 
 **Directive trap:** "Critically discuss" (2026 Q2b) requires an explicit verdict, not a bare juxtaposition of the
 two positions — close with the graded assessment above, not with "both have a point."
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1729,8 +1652,6 @@ CA search: "Hume bundle theory self personal identity natural belief Kant UPSC c
 CA found: None verifiable this session — the same repeated transport error recurred. No fabricated anchor. This
 is a fixed 18th-century doctrine; its exam value is syllabus-anchored (2020 Q2(a)).
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — introspection finds no owner, only tenants
 
@@ -1780,8 +1701,6 @@ one unified experience at all, not a further thing found inside it.
 > 🔑 **Memory line:** No impression of self → bundle; no rational proof of continued bodies → natural belief;
 > both rest on the very same associative habits, and Hume admits, in both cases, that nature — not reason —
 > supplies the belief.
-
-## LAYER 2 — CORE UPSC
 
 ### 3.5 HUME — Self (the bundle theory) ✅
 
@@ -1836,8 +1755,6 @@ label the doctrine **natural belief**. Two cases share exactly the same structur
 - ❓ The Humean can reply that Kant has stated a condition of description rather than discovered an entity; Kant
   accepts the non-entity point but insists that rule-governed unity is presupposed by judgment.
 
-## LAYER 3 — ADVANCED
-
 ### The self Hume could not bind — and Kant's answer
 
 The bundle theory is the Copy Principle applied without exception to the perceiver: there are perceptions, but no
@@ -1867,8 +1784,6 @@ fault line every serious critic presses is exactly this: is "nature forces the b
 himself never fully resolves this — which is why "mitigated scepticism," taught fully in Lesson 9, is best
 presented as an honest modus vivendi rather than a solution.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **2020 Q2(a), 20 marks:** *"I never can catch myself at any time without perception, and never can observe
@@ -1890,8 +1805,6 @@ presented as an honest modus vivendi rather than a solution.
 
 **Directive trap:** do not answer 2020 Q2(a) with the bundle theory alone; the question explicitly demands Kant's
 specific reply from the *Critique*, not merely "Kant disagreed."
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1925,8 +1838,6 @@ error as every other lesson): *Artificial Intelligence and the Problem of Induct
 Empiricism* (IIARD, Journal of Humanities and Social Policy, Vol. 12 No. 1, 2026). It is used strictly as a
 labelled contemporary application, never as doctrinal proof, and no statistic is invented.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — where does "necessary connexion" come from, and where does the whole enquiry end?
 
@@ -1974,8 +1885,6 @@ scepticism.
 
 > 🔑 **Memory line:** See conjunction, feel expectation, project necessity — custom is "the great guide of human
 > life," and the same custom underwrites induction, which reason alone can never certify.
-
-## LAYER 2 — CORE UPSC
 
 ### PART A — Causation: the centrepiece of Humean scepticism ✅
 
@@ -2126,8 +2035,6 @@ here, even though its full ethical development is outside this file's owner scop
   God's existence with David Hume's criticism" — the above IS the required Humean content for that cross-paper
   route.
 
-## LAYER 3 — ADVANCED
-
 ### Is causation the whole engine, or does induction expose a deeper flaw?
 
 Causation and induction are often taught as two separate topics; they are in fact **one argument applied twice**.
@@ -2161,8 +2068,6 @@ not prove.)
 "nature forces the belief" is a *justification* or merely an *excuse* for using induction (the question already
 raised generally in Lesson 8) is the fault line every critic — and every AI-era commentator — presses.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **2019 Q4(b), 15 marks; 2021 Q1(e), 10 marks; 2023 Q2(a), 20 marks; 2025 Q2(c), 15 marks:** all four demand the
@@ -2182,8 +2087,6 @@ raised generally in Lesson 8) is the fault line every critic — and every AI-er
 
 **Directive trap:** "Is there any element of necessity...?" (2019 Q4b) wants a **yes-and-no with a distinction**
 (no necessity in objects; yes, psychologically, in the mind) — a flat "no" loses marks.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -2217,8 +2120,6 @@ CA found: None verifiable this session — the same repeated transport error rec
 every other lesson. No fabricated anchor. This synthesis lesson's exam value is entirely syllabus- and
 PYQ-anchored, which is sufficient and is delivered in full below.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — the whole topic on one page
 
@@ -2256,8 +2157,6 @@ what is the *next* thinker's specific objection to it? This lesson assembles the
 complete criticism/reply ledger, every trap, every verified PYQ through 2026 (solved in full), 40 rotation-checked
 MCQs, three original Mains answers, and the final consolidated register notes — in that order, as the rules
 require.
-
-## LAYER 2 — CORE UPSC
 
 # PART A — Comparative synthesis, criticisms, traps and answer-craft apparatus
 
@@ -3739,7 +3638,7 @@ scepticism, God/miracles dissolved → Kant wakes to supply the a priori and the
 | `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md` | Verified PYQ ledger, 12 primary-owned parts |
 | `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md` | Verified PYQ ledger, 2 primary-owned 2026 parts (Q1b, Q2b); read in full for exact wording and the cross-ownership map |
 | `books/philosphy_books/` (Masih, Copleston Vol. V, Kenny Vol. III, Warburton) | OCR-searchable secondary-literature cross-check for the restored three-tier identity distinction, the general theory of association, and the liberty/necessity cross-link |
-| `live_sessions/Western-Philosophy/02-Rationalism/Learning-Session-Live-Edition.md` | Sibling live edition; consulted for structural consistency (roadmap-freeze presentation, five-layer format, coverage-matrix and source-ledger design) |
+| `live_sessions/Western-Philosophy/02-Rationalism/Learning-Session-Live-Edition.md` | Sibling live edition; consulted for structural consistency (roadmap-freeze presentation, integrated terminal format, coverage-matrix and source-ledger design) |
 
 ## Validation performed on this file
 
@@ -3762,6 +3661,18 @@ scepticism, God/miracles dissolved → Kant wakes to supply the a priori and the
 - **Word / line counts and SHA-256:** to be computed on the complete generated file and reported in the chat
   completion summary for this task, since a value embedded inside the file would change the count/hash it
   describes.
+
+## Structural Repair Note
+
+- All 47 visible numbered `LAYER 1-5` wrapper headings copied from the layered source package were removed so
+  that each lesson reads as one integrated terminal flow. The "How to Use This Live Session" section's "five
+  retained layers" table and sentence were replaced with a concise statement of that flow: Progress → Pre-Teach
+  Checklist → visual → intuition → doctrine/argument/examples → comparison/criticism → UPSC application →
+  revision/practice.
+- No doctrine, sentence, visual, example, criticism/reply, PYQ, MCQ, Mains answer, register note or citation was
+  removed, paraphrased or reordered; only the wrapper headings and the explanatory scaffolding prose describing
+  them were removed. Lesson count/order/boundaries (10 lessons), Pre-Teach Checklists (10), solved PYQs (14) and
+  MCQs (40) are unchanged, and all triple-backtick fences remain balanced.
 
 ## Immutability note
 

@@ -56,17 +56,9 @@ generated_from:
 
 ## How to Use This Live Session
 
-Every logical subtopic inside a lesson follows the learner-first order: **intuition → visual → terms → doctrine
-→ argument → examples → comparison → criticism/reply → UPSC application → revision → practice**. Within that
-order, each lesson also carries five retained layers:
-
-| Layer | Purpose |
-|---:|---|
-| 1. SIMPLE START | Visual-first, plain-language gateway into the subtopic |
-| 2. CORE UPSC | Complete canonical doctrine, terminology, arguments and worked examples |
-| 3. ADVANCED | Objections, replies, comparisons and qualified evaluation |
-| 4. EXAM APPLICATION | Verified PYQ routing and answer architecture (through 2026) |
-| 5. RAPID REVISION | Traps, recall points and compressed notes |
+Each lesson follows one integrated terminal flow, without separate named layers: **Progress → checklist →
+visual → intuition → doctrine/argument/examples → comparison/criticism → UPSC application →
+revision/practice**.
 
 Each lesson opens with a **Progress** line (lesson number, stage, exact subtopic) and a **Pre-Teach Checklist**
 (book context queried; the exact current-affairs search attempted; and an honest record of what, if anything, was
@@ -114,7 +106,7 @@ labelled comparisons.
 - **Prior approved package (structural and practice base):**
   `Logical-Positivism_Layered-Complete-Learning-Session_2026-08-19.md` and its paired
   `Logical-Positivism_Layered-Solved-Practice-Workbook_2026-08-19.md` (the workbook is a verified mirror of the
-  session's own Part II). That package is organised into **ten** units with a five-layer-per-unit structure and
+  session's own Part II). That package is organised into **ten** units with a layered per-unit structure and
   ends with 7 solved PYQs (2018–2025 only, predating the 2026 paper), 40 rotation-checked MCQs and 3 original
   Mains answers. This live edition preserves every doctrine, argument, objection, PYQ solution and MCQ from that
   package, reorganises the first nine units and the tenth (criticisms) unit into ten of the twelve frozen lessons
@@ -172,9 +164,7 @@ CA search: "Vienna Circle logical positivism scientific philosophy UPSC current 
 CA found: None verifiable — this is a 1920s Central-European philosophical movement with no live news hook; recorded honestly rather than inventing one. Static UPSC syllabus relevance (this founding map underlies every later lesson) is the sufficient exam linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the meaning filter
+## Visual gateway — the meaning filter
 
 ```text
                     THE VIENNA CIRCLE'S ONE QUESTION FOR EVERY SENTENCE
@@ -221,9 +211,7 @@ Circle**.
 > else counts as a factual claim on this criterion — though it may still have other uses (a cheer, a command, an
 > expression of feeling).
 
-## LAYER 2 — CORE UPSC
-
-### Part A — who the Vienna Circle were, and why one weapon, three jobs ✅
+## Part A — who the Vienna Circle were, and why one weapon, three jobs ✅
 
 The **Vienna Circle** was a group of philosophers, scientists and mathematicians who met in Vienna from the
 mid-1920s, led by **Moritz Schlick** (chair), with **Rudolf Carnap** and **Otto Neurath** as its other central
@@ -261,7 +249,7 @@ doctrines. They are **three applications of the same instrument**, the Verificat
 This is the single most useful orientation fact in the whole topic: whichever of the three syllabus terms a
 question names, the answer's spine is the same verification criterion, aimed at a different target.
 
-### Part B — the movement's internal diversity, and what is NOT one shared doctrine ✅
+## Part B — the movement's internal diversity, and what is NOT one shared doctrine ✅
 
 The Vienna Circle joins **empiricism**, **modern logic** (Frege, Russell), **scientific developments**
 (especially Einstein's relativity — Lesson 3) and **anti-metaphysical clarification**. Mach, Frege/Russell, early
@@ -280,7 +268,7 @@ necessary to answer the syllabus terms fully, but not separately printed syllabu
 Quine, Popper, later Wittgenstein and ordinary-language philosophy remain **later or external critics**, taught
 here (Lesson 11) only as labelled comparisons, never as positivist doctrine.
 
-### Part C — the one-screen map ✅
+## Part C — the one-screen map ✅
 
 ```
 LOGICAL POSITIVISM — "Meaning = Method of Verification"
@@ -305,7 +293,7 @@ LOGICAL POSITIVISM — "Meaning = Method of Verification"
 ═══════════════════════════════════════════════════════════════════
 ```
 
-### Part D — the core statement of verification, precisely ✅
+## Part D — the core statement of verification, precisely ✅
 
 > ⚠️ Standard slogan: *"The meaning of a proposition is the method of its verification."* Associate it with
 > Schlick/Waismann-era verification discussions; do not present it as a *Tractatus* quotation or one formula used
@@ -330,9 +318,7 @@ fact, does not picture anything, and is not even false; it is a *pseudo-proposit
    practically important while failing to state a verifiable fact. Do not translate "cognitively meaningless"
    into "psychologically unintelligible," "worthless" or "without every use."
 
-## LAYER 3 — ADVANCED
-
-### The one distinction the examiner rewards: meaning, not truth; meaningless, not false
+## The one distinction the examiner rewards: meaning, not truth; meaningless, not false
 
 The single highest-value discrimination in this entire topic — tested directly or indirectly in nearly every
 verified PYQ — is that **"meaningless" is a stronger and different verdict than "false."** A false statement is
@@ -350,9 +336,7 @@ verdict on ethics — value-language is meaningless *factually* while remaining 
 than a simple assertion that moral talk is empty noise. Carrying this qualification precisely, every time, is
 what separates a first-class answer from a merely competent one.
 
-## LAYER 4 — EXAM APPLICATION
-
-### How the map itself is examined
+## How the map itself is examined
 
 - Every verified PYQ in this clause (Lesson 12, Part B lists all 8) presupposes the one-weapon/three-jobs
   structure above. A script that treats verification, metaphysics-rejection and the necessity theory as three
@@ -367,9 +351,7 @@ empirical dichotomy — this alone earns the opening marks of almost any questio
 **15/20-mark use:** open with this map, then run the specific doctrine the question targets, then close with the
 self-application/internal-crisis theme that recurs across Lessons 8, 9 and 11.
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 1. Vienna Circle core: **Schlick** (chair), **Carnap**, **Neurath**; English populariser **Ayer** (*Language,
    Truth and Logic*, 1936); Ayer attended but was never a member.
@@ -405,9 +387,7 @@ CA search: "strong weak verification Ayer Language Truth and Logic UPSC current 
 CA found: None verifiable — Ayer's 1936/1946 formulations and Church's 1949 rebuttal are historically closed technical results with no live news hook; recorded honestly. The standing relevance is that "is this claim falsifiable/verifiable" remains the everyday test the public applies to pseudoscience and unfalsifiable political claims — stated as analysis, not as a dated event.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the strong/weak fork
+## Visual gateway — the strong/weak fork
 
 ```text
                  "VERIFIABLE" HAS TWO SENSES — AND NEITHER WORKS CLEANLY
@@ -454,9 +434,7 @@ metaphysics) is lost.
 | **Advantage** | Rigorous; excludes metaphysics cleanly | Saves scientific generalisations and statements about the past/future |
 | **Problem** | Too strict: universal laws ("All metals expand when heated") can never be *conclusively* verified (infinitely many instances); statements about the past ("Caesar crossed the Rubicon") are not now observable. Strong verification kills science. | Too liberal: almost any statement can be connected to *some* observation by a sufficiently elaborate auxiliary hypothesis → metaphysics creeps back in |
 
-## LAYER 2 — CORE UPSC
-
-### Part A — Strong vs Weak Verification (PYQ 2025 Q3(b)) ✅
+## Part A — Strong vs Weak Verification (PYQ 2025 Q3(b)) ✅
 
 The exact strong/weak terminology is especially associated with **Ayer**. Earlier Circle members offered
 different verification formulations; do not assign one uniform two-column doctrine to the entire Vienna Circle —
@@ -467,7 +445,7 @@ this is itself a common examiner trap (Lesson 12, Part A.4).
 | Ayer's **strong** verification terminology | conclusive establishment |
 | Ayer's **weak** verification terminology | experience can render probable; revised again in the 1946 Introduction |
 
-### Part B — Ayer's Revisions and Their Failure ⚠️
+## Part B — Ayer's Revisions and Their Failure ⚠️
 
 Ayer's 1936 weak test appealed to observations that make a proposition probable. The revised **1946 Introduction**
 introduced technical **direct/indirect verifiability** conditions: a statement is **directly** verifiable if an
@@ -484,7 +462,7 @@ longer supplied the original clean sentence-by-sentence meaning criterion. ✅
 > Part A) but equally fatal, and a first-class answer keeps the two separate rather than blurring them into one
 > generic "positivism fails" line.
 
-### Part C — Verifiable in Principle vs in Practice ✅ (the "practical/principled" pairing)
+## Part C — Verifiable in Principle vs in Practice ✅ (the "practical/principled" pairing)
 
 A further, independent distinction — needed to save meaningful claims that are merely *inconvenient*, rather than
 *impossible*, to check — is between what is verifiable **in principle** and what is verifiable **in practice**.
@@ -501,7 +479,7 @@ A further, independent distinction — needed to save meaningful claims that are
 them. "The Absolute is beyond all experience" is not verifiable even in principle, which is precisely why it
 fails both the strong and the weak test, not merely the practical one.
 
-### Part D — why the dilemma matters for the syllabus's other two jobs ✅
+## Part D — why the dilemma matters for the syllabus's other two jobs ✅
 
 The strong/weak fork is not a self-contained puzzle; it is the exact mechanism that the "unified science"
 programme (Lesson 10) and the linguistic theory of necessity (Lesson 7) both depend on. Universal scientific laws
@@ -509,9 +487,7 @@ are rescued only by the **weak/indirect** route (§Part B); the same liberalisat
 showed lets metaphysics back in. Carrying this connection forward is what separates a synthesised 20-mark answer
 from four disconnected sub-answers.
 
-## LAYER 3 — ADVANCED
-
-### Why the dilemma is *internal* — and why Church matters
+## Why the dilemma is *internal* — and why Church matters
 
 Positivism's internal crisis is often reduced, in weak answers, to "Ayer changed his mind." The precise point is
 sharper: **there is no formulation of "verifiable" that simultaneously (a) excludes every metaphysical sentence
@@ -526,9 +502,7 @@ itself. Later confirmation theory (degrees of support, Carnap's own inductive lo
 up the sharp binary meaningful/meaningless verdict altogether in favour of graded confirmation — which repairs
 scientific methodology but abandons the original demarcation ambition (Lesson 10 states this trade-off in full).
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - **2025 Q3(b), 15 marks:** "Present an exposition of the verification theory of meaning as propounded by the
   logical positivists. In this context also differentiate between the 'strong' and the 'weak' sense of the word
@@ -540,9 +514,7 @@ scientific methodology but abandons the original demarcation ambition (Lesson 10
 **15-mark use:** two-column table (strong vs weak) → fatal problem on each side → Ayer's 1946 repair → Church's
 refutation → verdict that the dilemma is internal and unresolved.
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 1. **Strong verification:** conclusively established by a finite set of observations. Kills universal laws, past,
    other minds — kills science.
@@ -574,9 +546,7 @@ CA search: "verification principle demarcation of science UPSC current affairs 2
 CA found: None verifiable — the five motivations are historically fixed 1920s–1930s arguments; recorded honestly. Standing relevance: the demand that a scientific claim specify what observation would count against it remains the everyday public test for distinguishing science from pseudoscience.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — five motivations and the argument spine
+## Visual gateway — five motivations and the argument spine
 
 ```text
         WHY INTELLIGENT PEOPLE BELIEVED VERIFICATIONISM — FIVE ROOTS
@@ -614,9 +584,7 @@ difference-argument answers this directly: if nothing you could ever observe wou
 hypothesis A versus hypothesis B, then A and B are not really different claims — whatever "difference" you think
 you are pointing to is empty.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — the five motivations, ranked ✅
+## Part A — the five motivations, ranked ✅
 
 | # | Motivation | Statement | Strength |
 |---|---|---|---|
@@ -626,7 +594,7 @@ you are pointing to is empty.
 | **4** | **The demarcation motive** | A public criterion was sought to separate empirical science from metaphysics. | ❓ Popper (Lesson 11) proposes falsifiability as a rival criterion of scientific status, not a replacement theory of linguistic meaning; he allows meaningful metaphysics. |
 | **5** | **The unity-of-science programme** | Phenomenalist reduction and later physicalist/public-language projects sought intertranslation or coordination among sciences. | ⚠️ Carnap and Neurath differed over reduction, physicalism and encyclopedic unity (developed fully in Lesson 10); no single reduction thesis represents every positivist. |
 
-### Part B — the positive argument, stated as six steps ⚠️
+## Part B — the positive argument, stated as six steps ⚠️
 
 1. To understand a sentence is to know what it would be for it to be true.
 2. To know what it would be for it to be true is to be able to distinguish the circumstances in which it holds
@@ -636,7 +604,7 @@ you are pointing to is empty.
 5. ∴ A sentence for which no evidence could count either way has nothing for understanding to consist in.
 6. ∴ Such a sentence is not false; it is **without cognitive content**.
 
-### Part C — presuppositions (say these before you criticise, and the criticism lands harder) ⚠️
+## Part C — presuppositions (say these before you criticise, and the criticism lands harder) ⚠️
 
 - **P1** Understanding is exhausted by knowledge of truth-conditions, and truth-conditions are exhausted by
   observation-conditions. (Step 2→3 makes this identification; it is not argued for.)
@@ -651,9 +619,7 @@ you are pointing to is empty.
 > scientific laws and the analytic/synthetic challenge. Do not present one later critic as having single-handedly
 > "destroyed" the movement.
 
-## LAYER 3 — ADVANCED
-
-### The presuppositions — say them before you criticise, and the criticism lands harder
+## The presuppositions — say them before you criticise, and the criticism lands harder
 
 Presenting P1–P4 explicitly, *before* moving to any objection, is what distinguishes a 20-mark answer from a
 15-mark one on this sub-topic. Each presupposition is exactly where a later critic strikes: P2 is what the
@@ -663,9 +629,7 @@ the presupposition first turns a list of unconnected criticisms into a single, s
 case rests on four assumptions, and every major criticism of positivism can be located as an attack on exactly
 one of them.*
 
-## LAYER 4 — EXAM APPLICATION
-
-### Where the positive case wins marks
+## Where the positive case wins marks
 
 - **"Discuss the verification theory of meaning"** demands the positive case **first** (this lesson), then the
   strong/weak critique (Lesson 2), then the self-refutation/internal-crisis close (Lesson 11). Opening directly
@@ -679,9 +643,7 @@ one of them.*
 positive argument, name P1–P4, and only then proceed to criticism — this ordering itself earns marks as answer
 architecture.
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 1. Five motivations: **difference-argument** (Schlick 1932, strongest and most durable); **Einstein model**
    (operational method); **meaning-as-use-conditions** (not later Wittgenstein's use theory); **demarcation
@@ -711,9 +673,7 @@ CA search: "Tractatus Wittgenstein Vienna Circle verificationism UPSC current af
 CA found: None verifiable — a documented 1921–1936 historical transmission with no live news hook; recorded honestly.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — what the Circle took, and the step it added
+## Visual gateway — what the Circle took, and the step it added
 
 ```text
         THE TRACTATUS-TO-VERIFICATION LINEAGE — ONE STEP, PRECISELY LOCATED
@@ -748,9 +708,7 @@ one could ever, even in principle, check the contents, they said, the claim is n
 meaningless. That extra demand — *someone must be able to verify it* — is the Circle's own step, and it is not in
 the *Tractatus*.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — the historical thread ✅
+## Part A — the historical thread ✅
 
 1. **1921/22** — the *Tractatus* appears. Its doctrine is that a proposition has sense iff it is **bipolar** —
    capable of truth and capable of falsity — and that sense is fixed by **truth-conditions** (see
@@ -763,7 +721,7 @@ the *Tractatus*.
 4. **1936** — **Ayer**, who attended Circle meetings in 1932–33, transmits the doctrine to the English-speaking
    world in *Language, Truth and Logic*.
 
-### Part B — the step the Circle added — and it is not a small one ⚠️
+## Part B — the step the Circle added — and it is not a small one ⚠️
 
 | *Tractatus* | Vienna Circle |
 |---|---|
@@ -785,7 +743,7 @@ the *Tractatus*.
 > account belongs to a separate later owner (Lesson 11 names the boundary only); one boundary sentence is
 > sufficient here.
 
-### Part C — the bounded precursor: the hierarchy of languages (2026 Q4(a)) ⚠️ — cross-owned, NEVER primary here
+## Part C — the bounded precursor: the hierarchy of languages (2026 Q4(a)) ⚠️ — cross-owned, NEVER primary here
 
 The *Tractatus*'s picture theory generates a further difficulty that the positivists' own "unified language of
 science" ambition (Lesson 10) later presupposes a way round: if a proposition's sense depends on sharing logical
@@ -810,9 +768,7 @@ adequate truth-definition for a language requires an essentially richer metalang
 > language/metalanguage apparatus Russell proposed, and the 2026 examiner paired the two questions (Q4(a) and
 > Q4(c)) for precisely this reason. See `_PYQ-Western-Philosophy-2026.md`, Q4(a) routing note.
 
-## LAYER 3 — ADVANCED
-
-### The corrections that separate you from the standard answer
+## The corrections that separate you from the standard answer
 
 Most textbook answers write "the *Tractatus* inspired/founded logical positivism" as though the transition were
 seamless. The precise, examiner-rewarded position is that the Circle performed a **substitution**, not an
@@ -828,9 +784,7 @@ These must never be equated: for Wittgenstein the unsayable is *shown*, a positi
 logical form and value; for the Circle, the metaphysically unverifiable is discarded as *empirically empty*, with
 no residual "showing" role at all.
 
-## LAYER 4 — EXAM APPLICATION
-
-### How the lineage is examined
+## How the lineage is examined
 
 - **"Trace the influence of Wittgenstein on positivism"** demands showing what was taken **and what was added**:
   truth-conditions → verification-conditions is the Circle's own move; Wittgenstein was never a member (Lesson 12,
@@ -843,9 +797,7 @@ no residual "showing" role at all.
 **15/20-mark use:** historical thread (four dated steps) → the substitution table → the three corrections → one
 bounded sentence on the hierarchy-of-languages precursor, forward-pointed to its own owner.
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 1. Historical thread: *Tractatus* (1921/22) → Circle reads it aloud (1926–27) → Schlick/Waismann conversations
    (1929–32) → Ayer transmits to English world (1936).
@@ -876,9 +828,7 @@ CA search: "Carnap Heidegger nothing noths pseudo-statement metaphysics UPSC cur
 CA found: None verifiable — Carnap's 1932 critique of Heidegger is a closed historical episode; recorded honestly. Standing relevance: "does this claim actually say anything checkable" remains the everyday test applied to vague public and pseudo-spiritual rhetoric.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the metaphysics diagnostic
+## Visual gateway — the metaphysics diagnostic
 
 ```text
               HOW METAPHYSICS IS DIAGNOSED — SURFACE GRAMMAR VS LOGICAL FORM
@@ -915,9 +865,7 @@ traditional metaphysics works the same way: each word may look meaningful in iso
 one crucial term within it, has no observational content at all. The sentence has the *costume* of a fact-stating
 claim without the *substance*.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — the verdict ✅
+## Part A — the verdict ✅
 
 Metaphysical sentences ("The Absolute is perfect," "Reality is timeless," "God exists as a necessary being,"
 "Nothing noths") are, on the positivist test, neither true nor false as factual claims but **cognitively
@@ -926,7 +874,7 @@ the strings can have historical, poetic, emotive or practical effects.
 
 > ✅ *"A metaphysical sentence is one which purports to express a genuine proposition, but does not."* — Ayer
 
-### Part B — diagnosis: the source of metaphysical illusion ✅
+## Part B — diagnosis: the source of metaphysical illusion ✅
 
 Metaphysicians are misled by **surface grammar**:
 
@@ -948,7 +896,7 @@ Metaphysicians are misled by **surface grammar**:
 > why the positivist still finds it unpersuasive (it concedes the sentence cannot state a fact, only evoke a
 > mood), earns more marks than ridicule alone.
 
-### Part C — identifying pseudo-statements (PYQ 2021 Q2(b)) ✅
+## Part C — identifying pseudo-statements (PYQ 2021 Q2(b)) ✅
 
 A statement is a **pseudo-statement** if:
 1. It employs terms for which no empirical criterion of application can be given (e.g. "the Absolute," "Being-
@@ -965,7 +913,7 @@ A statement is a **pseudo-statement** if:
 - "2 + 2 = 4" — **meaningful** (analytic/tautological — true by the rules of arithmetic) — a second control case.
 - "The Good transcends Being" — pseudo-statement.
 
-### Part D — the restored 2018/2020 doctrine dossier: scientific laws and "the Soul of Superman" ✅
+## Part D — the restored 2018/2020 doctrine dossier: scientific laws and "the Soul of Superman" ✅
 
 - ✅ Universal scientific statements are not conclusively verified by finitely many observations. Logical
   positivists therefore move from strong verification toward weak, indirect or probabilistic confirmation through
@@ -986,9 +934,7 @@ A statement is a **pseudo-statement** if:
 - ❌ Do not claim every fictional or ethical sentence is meaningless in every use; the question concerns factual
   cognitive meaning under the theory, not psychological unintelligibility (Lesson 1, Part D).
 
-## LAYER 3 — ADVANCED
-
-### Meaning, not truth or ontology — the 2023 distinction done properly
+## Meaning, not truth or ontology — the 2023 distinction done properly
 
 The 2023 Q3(a) question (fully solved at Lesson 12, Part C, Solved PYQ 5) asks whether the rejection of
 metaphysics is a problem of **meaning**, of **knowledge**, or of the **nature of things** — and the discriminating
@@ -1006,9 +952,7 @@ The meaning-thesis *presupposes* an empiricist epistemology (only experience con
 knowledge and ontology are entangled as ground and as consequence, but neither is the *distinctive* claim. This
 graded distinction, not a flat "it relates to all three equally," is what the question is testing.
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - **2021 Q2(b), 15 marks:** "What according to Logical Positivists are 'pseudostatements'? How does one identify
   'pseudostatements'? Critically discuss with examples." Solved in full at Lesson 12, Part C, Solved PYQ 4.
@@ -1023,9 +967,7 @@ graded distinction, not a flat "it relates to all three equally," is what the qu
 **20-mark use:** verdict (meaningless, not false) → diagnosis (surface grammar, two routes) → graded examples →
 2023's three-way discrimination (meaning primary; knowledge and ontology as consequence) → criticisms (Lesson 11).
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 1. Verdict: metaphysical sentences are **cognitively meaningless**, not false — pseudo-propositions.
 2. Diagnosis: **surface grammar** disguises absent content — "the Absolute" mimics a name; "Nothing noths" treats
@@ -1054,9 +996,7 @@ CA search: "emotivism Ayer Stevenson ethics non-cognitivism UPSC current affairs
 CA found: None verifiable — a 1936–1944 metaethical debate with no live news hook; recorded honestly. Standing relevance: the question of whether moral/political slogans "state facts" or merely express approval recurs in every public debate about value-laden claims.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — two emotivisms, not one
+## Visual gateway — two emotivisms, not one
 
 ```text
               "EMOTIVISM (AYER, STEVENSON)" IS NOT ONE DOCTRINE
@@ -1096,9 +1036,7 @@ function — it tries to bring the hearer's attitude into line with the speaker'
 political slogan does. Ayer allows no real moral "argument"; Stevenson's picture at least explains why moral
 disagreement can look and feel like a genuine dispute.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — fate of ethics and theology — emotivism ✅
+## Part A — fate of ethics and theology — emotivism ✅
 
 Since ethical and theological statements are neither analytic nor empirically verifiable:
 
@@ -1122,7 +1060,7 @@ Since ethical and theological statements are neither analytic nor empirically ve
 > emotive refinement is best understood as a direct response to exactly this "boo-hurrah" limitation — restoring
 > a role for shared facts and rational persuasion that the bare interjection model cannot supply.
 
-### Part B — Ayer vs Stevenson — two emotivisms, not one ⚠️→✅
+## Part B — Ayer vs Stevenson — two emotivisms, not one ⚠️→✅
 
 | Axis | **AYER** — *Language, Truth and Logic* (1936), Ch. 6 | **STEVENSON** — "The Emotive Meaning of Ethical Terms" (1937); *Ethics and Language* (1944) |
 |---|---|---|
@@ -1132,7 +1070,7 @@ Since ethical and theological statements are neither analytic nor empirically ve
 | **Nature of ethical disagreement** | Barely accounted for — if there is no propositional content, "disagreement" can only be a clash of expressed feelings, not a rational dispute. | **Disagreement in attitude:** two people can share every relevant *fact* yet hold opposed favour/disfavour attitudes; moral language works *dynamically* to influence attitudes via **persuasive definition**. |
 | **Can moral argument occur at all?** | Weakly — Ayer allows argument only about the non-moral facts underlying a judgment, not about the value-judgment itself. | Yes, in a qualified sense — Stevenson's picture explains why moral disputes look and function like genuine arguments, since attitudes can be altered by reasons about the facts and by rhetorical/persuasive means. |
 
-### Part C — the Frege–Geach embedding problem, and the single most common error ⚠️
+## Part C — the Frege–Geach embedding problem, and the single most common error ⚠️
 
 **The single most common error** is treating "emotivism (Ayer, Stevenson)" as one doctrine — always separate
 them using the table above. Beyond that, simple emotivism (either version) faces the **Frege–Geach problem**:
@@ -1144,7 +1082,7 @@ expressing disapproval, it is unclear what content survives inside the "if"-clau
 This is the objection that most seriously pressures **simple** emotivism of either Ayer's or Stevenson's kind;
 later expressivism (Blackburn, Gibbard) attempts technical repairs and is enrichment beyond this owner.
 
-### Part D — completing the 2020 "Soul of Superman" solution (predicate half) ✅
+## Part D — completing the 2020 "Soul of Superman" solution (predicate half) ✅
 
 Continuing directly from Lesson 5, Part D (subject-term half): for Ayer, "**is Good**" is not a descriptive
 predicate at all. It does **not state a fact** and has **no truth-value**; it *expresses* (evinces) the speaker's
@@ -1156,9 +1094,7 @@ Ayer denies ethics is. Stevenson sharpens the point: such language works *dynami
 Good," here) — the sentence is a pseudo-proposition: it expresses an attitude, states no fact, and is therefore
 cognitively meaningless though emotively significant.
 
-## LAYER 3 — ADVANCED
-
-### The single most common error, and the objection that sinks simple emotivism
+## The single most common error, and the objection that sinks simple emotivism
 
 Beyond the Ayer/Stevenson conflation (Part B/C), the deepest advanced point is this: emotivism is **not**
 subjectivism, and confusing the two costs marks even when a script correctly names "non-cognitivism." Subjectivism
@@ -1171,9 +1107,7 @@ cognitive-meaning test. The Frege–Geach problem (Part C) remains the strongest
 a whole; a balanced answer reports it as unresolved by simple emotivism rather than claiming either Ayer or
 Stevenson has a full answer to it.
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - **2020 Q1(e), 10 marks:** "The Soul of Superman is Good." Full combined solution (subject-term + predicate) at
   Lesson 12, Part C, Solved PYQ 3.
@@ -1185,9 +1119,7 @@ line, and close on the sentence's double defect (unverifiable subject + non-desc
 **15-mark use:** full Part B table, then Frege–Geach, then a graded verdict distinguishing emotivism from
 subjectivism.
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 1. Ethics/theology fail both analytic and empirical tests → **non-cognitive**: they may express/influence
    attitudes without stating a value-fact.
@@ -1217,9 +1149,7 @@ CA search: "analytic synthetic necessary propositions logical positivism UPSC cu
 CA found: None verifiable — a technical philosophy-of-logic debate with no live news hook; recorded honestly.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the analytic/synthetic map (and the missing third box)
+## Visual gateway — the analytic/synthetic map (and the missing third box)
 
 ```text
         THE POSITIVISTS' EXHAUSTIVE DICHOTOMY — NO THIRD BOX
@@ -1255,9 +1185,7 @@ the *meanings of its words*? Their answer: necessary truths ARE just true by mea
 us **nothing** about the world. "All bachelors are unmarried" is necessary only because we have *decided*,
 by convention, to use "bachelor" and "unmarried man" interchangeably; it is not a discovery about bachelors.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — the problem for empiricism ✅
+## Part A — the problem for empiricism ✅
 
 Logic and mathematics are: **necessary** (cannot be otherwise); **known a priori** (not learned from experience);
 **certain** (not defeasible). Yet empiricism says *all knowledge comes from experience*. How can an empiricist
@@ -1271,7 +1199,7 @@ account for necessity?
 | **Mill** (empirical generalisation) | "2 + 2 = 4" is just a very well-confirmed empirical generalisation about collections of objects | Absurd: we do not *discover* that 2+2=4 by counting pebbles, and no experience could refute it |
 | **Logical Positivism** (linguistic/conventional) | Necessary truths are **analytic — true solely in virtue of the meanings/conventions governing their symbols**. They say *nothing about the world*; their necessity is *verbal*. | This is the positivists' own answer — see Part B |
 
-### Part B — the linguistic theory ✅
+## Part B — the linguistic theory ✅
 
 **Thesis:** Necessary propositions (logic, mathematics, definitions) are **tautologies** — they are true by
 virtue of the meanings of the terms used, i.e. by *linguistic convention*. They give no information about the
@@ -1284,7 +1212,7 @@ world. ✅
 | **Certain** | Because to deny them is to violate one's own conventions — self-contradiction |
 | **Empty of factual content** | "All bachelors are unmarried" tells us nothing about the world; it merely records our resolve to use "bachelor" and "unmarried man" interchangeably |
 
-### Part C — the exhaustive dichotomy, and Distinguishing "red or not red" from "This page is white" (PYQ 2024 Q3(b)) ✅
+## Part C — the exhaustive dichotomy, and Distinguishing "red or not red" from "This page is white" (PYQ 2024 Q3(b)) ✅
 
 The positivists hold that the analytic/synthetic classification is **exhaustive**:
 
@@ -1308,7 +1236,7 @@ two baskets capture both; metaphysics ("The Absolute is beyond time") fits *neit
 > classification, but by different branches: the first is analytic/tautological and factually empty; the second
 > is synthetic and empirically testable.
 
-### Part D — the problem of general/universal statements (PYQ 2019 Q2(a)) ✅
+## Part D — the problem of general/universal statements (PYQ 2019 Q2(a)) ✅
 
 Universal empirical laws ("All metals expand when heated") are synthetic but cannot be conclusively verified by
 finitely many observations (Lesson 2's strong-verification problem, applied here). Ayer's weak route treats
@@ -1326,9 +1254,7 @@ publicly observable behaviour and theory; theoretical entities through their rol
 These routes are indirect and theory-dependent, which weakens simple sentence-by-sentence reduction without
 making every such statement meaningless.
 
-## LAYER 3 — ADVANCED
-
-### Two meaningfulnesses, universal laws, and the theory's most technical defeat
+## Two meaningfulnesses, universal laws, and the theory's most technical defeat
 
 The advanced point worth a mark by itself: "meaningful" here always divides into **two entirely different
 routes** — analytic (empty, logically necessary) and synthetic (contentful, empirically testable) — and a script
@@ -1342,9 +1268,7 @@ definition and analyticity chase one another in a circle), which would remove th
 linguistic theory of necessity depends on. This is named here as a **labelled boundary** only; the full holism
 dispute is `Quine-Strawson.md`'s own primary ownership, and is developed as a criticism in Lesson 11, Part E.
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - **2019 Q2(a), 20 marks:** "How do the logical positivists account for the meaning of general statements? Can
   the same account be applied to metaphysical statements?" Solved in full at Lesson 12, Part C, Solved PYQ 2.
@@ -1358,9 +1282,7 @@ dispute is `Quine-Strawson.md`'s own primary ownership, and is developed as a cr
 **20-mark use:** the trilemma → Kant/Mill/positivist three rival solutions → the exhaustive dichotomy → the
 red/white discrimination → universal laws and metaphysics → Quine's later, labelled boundary challenge.
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 1. Trilemma for empiricism: logic/maths are necessary + a priori + certain, yet "all knowledge from experience."
 2. Kant: synthetic a priori (rejected — no third box). Mill: empirical generalisation (absurd — 2+2=4 is not
@@ -1391,9 +1313,7 @@ CA search: "protocol sentences Schlick Neurath Vienna Circle epistemology UPSC c
 CA found: None verifiable — a 1932–1935 internal Circle debate with no live news hook; recorded honestly. Standing relevance: the question "what is our final, unchallengeable evidence?" recurs whenever a public debate turns on which observation reports count as reliable data.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — what does verification terminate in?
+## Visual gateway — what does verification terminate in?
 
 ```text
         WHAT IS THE EVIDENTIAL "BEDROCK"? THE CIRCLE'S OWN INTERNAL CRISIS
@@ -1434,9 +1354,7 @@ leaving no gap for error. Neurath's answer: it never truly "stops"; every senten
 revisable, and all we can ever do is check new statements against the *whole system* of statements we currently
 accept, the way sailors rebuild a ship at sea, plank by plank, without ever pulling into dry dock.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — the question: form and status of protocol sentences ✅
+## Part A — the question: form and status of protocol sentences ✅
 
 **Why it matters.** Verificationism requires an evidential base. The Circle's disagreement over incorrigible
 experience, revisable public protocols and coherent scientific practice destabilised any single foundational
@@ -1454,7 +1372,7 @@ verification terminates? Are they (a) incorrigible foundations, or (b) ordinary 
 | **Their catch** | Affirmations **cannot be written down and preserved**: the moment one records "here now blue," what one has is a hypothesis about a past moment, not the affirmation itself. Their certainty is **momentary and unusable** | Consistency with the accepted system is the only test; conflicting protocols are decided by the working practice of the scientific community |
 | **Image** | knowledge as a structure needing a fixed ground | ✅ **Neurath's boat:** "*We are like sailors who have to rebuild their ship on the open sea, without ever being able to dismantle it in dry-dock and reconstruct it from the best components.*" |
 
-### Part B — Carnap's mediation, and the Schlick–Neurath exchange ✅
+## Part B — Carnap's mediation, and the Schlick–Neurath exchange ✅
 
 **Carnap's mediation (1932, "Über Protokollsätze"):** the *form* of protocol sentences is not a fact to be
 discovered but a **matter of choice of language** — which is precisely his Principle of Tolerance (Lesson 9)
@@ -1478,16 +1396,14 @@ foundation to avoid regress and circularity; Neurath accepts circularity (system
 unjustifiable, arbitrarily fixed foundation. Naming this structure explicitly — rather than treating
 Schlick-versus-Neurath as a mere personality clash — is what elevates an answer from descriptive to analytical.
 
-### Part C — the two conclusions to carry away ⚠️
+## Part C — the two conclusions to carry away ⚠️
 
 1. The Circle had **competing** rather than one agreed incorrigible base; each option traded certainty, publicity
    and revisability differently.
 2. Quine uses Neurath's boat as the epigraph of *Word and Object* (1960), an acknowledged affinity. Quine's later
    holism remains his own development (labelled boundary; `Quine-Strawson.md`; Lesson 11, Part E).
 
-## LAYER 3 — ADVANCED
-
-### Why this is the highest-value 'advanced' content in the file
+## Why this is the highest-value 'advanced' content in the file
 
 This debate is the point at which the positive case's own **P2 presupposition** (Lesson 3, Part C) — that
 observation-statements are epistemically privileged — is contested **from within** the Circle, by its own
@@ -1497,9 +1413,7 @@ the appeal of, the external attacks that followed. A 20-mark answer that connect
 positive case's presuppositions and forward to Quine's holism demonstrates the deepest possible grasp of how the
 whole topic is structured as a single argument, not a set of disconnected sub-topics.
 
-## LAYER 4 — EXAM APPLICATION
-
-### How to deploy the protocol debate
+## How to deploy the protocol debate
 
 - This sub-topic has no dedicated primary PYQ but is the required **prerequisite/enrichment** context (§4A of the
   canonical file) for any 20-mark answer on the verification principle's overall stability, and for Lesson 10's
@@ -1509,9 +1423,7 @@ whole topic is structured as a single argument, not a set of disconnected sub-to
   — "the debate moves positivism toward intersubjective, system-level testing and helps explain later holism
   without making Quine merely a positivist conclusion" (Lesson 12, Part A.7, Graded Verdict Bank).
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 1. Protocol sentences (*Protokollsätze*): the observation-statements in which verification terminates.
 2. **Schlick:** foundationalism; *Konstatierungen* ("affirmations," e.g. "here now blue"); absolutely certain
@@ -1539,9 +1451,7 @@ CA search: "Carnap Principle of Tolerance linguistic frameworks internal externa
 CA found: None verifiable — a 1934–1950 formal-philosophy development with no live news hook; recorded honestly.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the tolerance framework
+## Visual gateway — the tolerance framework
 
 ```text
           CARNAP'S TOLERANCE — "IN LOGIC, THERE ARE NO MORALS"
@@ -1580,9 +1490,7 @@ numbers *really* exist, outside any rule-system?" is not a further factual quest
 really the *practical* question, "should we adopt number-talk at all?" — answered by how useful, simple or
 fruitful it turns out to be, not by discovering a fact about the universe.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — the statement, and what it does ✅
+## Part A — the statement, and what it does ✅
 
 **Statement ✅ (*Logical Syntax of Language*, 1934; English 1937, §17):**
 > "**In logic, there are no morals.** Everyone is at liberty to build up his own logic, i.e. his own form of
@@ -1599,7 +1507,7 @@ fruitful it turns out to be, not by discovering a fact about the universe.
 4. ∴ The dispute between intuitionist and classical logic, or between phenomenalist and physicalist language, is
    not a factual disagreement but a choice of instrument.
 
-### Part B — the internal/external distinction ✅
+## Part B — the internal/external distinction ✅
 
 **("Empiricism, Semantics, and Ontology," 1950) ✅:**
 
@@ -1612,7 +1520,7 @@ fruitful it turns out to be, not by discovering a fact about the universe.
 external question becomes a practical proposal about which language to adopt. Carnap therefore does **not**
 abolish every use of ontology.
 
-### Part C — Quine's bounded attack, and the executable verdict ⚠️
+## Part C — Quine's bounded attack, and the executable verdict ⚠️
 
 **Quine's bounded attack:** Quine argues that the internal/external distinction depends on an analytic/synthetic
 boundary he rejects (Lesson 7, Part D; Lesson 11, Part E) and favours ontology continuous with our best total
@@ -1623,9 +1531,7 @@ belongs to `Quine-Strawson.md` §1 — named here only as a labelled boundary.
 practical framework adoption. Quine pressures, but does not by assertion settle, the boundary on which that
 refinement depends.
 
-## LAYER 3 — ADVANCED
-
-### The strongest anti-metaphysics in the movement — and why it still falls
+## The strongest anti-metaphysics in the movement — and why it still falls
 
 Tolerance is arguably the single **strongest** anti-metaphysical move in the whole positivist programme, because
 it does not simply assert that metaphysical disputes are meaningless (Ayer's blunter 1936 verdict, Lesson 5); it
@@ -1640,9 +1546,7 @@ Part C states, its very internal/external distinction depends on the analytic/sy
 later disputes — so tolerance inherits, rather than escapes, the linguistic theory's deepest vulnerability
 (Lesson 7).
 
-## LAYER 4 — EXAM APPLICATION
-
-### Where tolerance wins marks
+## Where tolerance wins marks
 
 - No dedicated primary PYQ owns this sub-topic alone, but it is required enrichment (§4A of the canonical file)
   for any 20-mark "critically examine the rejection of metaphysics" answer (Lesson 5), where Carnap's tolerance
@@ -1654,9 +1558,7 @@ later disputes — so tolerance inherits, rather than escapes, the linguistic th
 **20-mark use (as part of a metaphysics answer):** state the tolerance principle → internal/external distinction
 → why this is stronger than the blunt 1936 verdict → Quine's bounded challenge → executable verdict.
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 1. Principle of Tolerance: "In logic, there are no morals" (*Logical Syntax of Language*, 1934; English 1937,
    §17) — everyone may build their own logical/linguistic framework, judged pragmatically.
@@ -1686,9 +1588,7 @@ CA search: "unified language of science logical positivism philosophy handmaid t
 CA found: None verifiable — the unity-of-science programme is a closed 1929–1938 institutional project (International Encyclopedia of Unified Science); recorded honestly. Standing relevance: the ambition of one coordinated scientific vocabulary recurs in every present-day debate about interdisciplinary translation between the natural and social sciences.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — philosophy as handmaid, and why the marriage failed
+## Visual gateway — philosophy as handmaid, and why the marriage failed
 
 ```text
         THE UNIFIED-SCIENCE PROJECT — PHILOSOPHY AS SCIENCE'S "HANDMAID"
@@ -1728,9 +1628,7 @@ and economics could all, in principle, be translated into or coordinated with on
 language of science." The 2026 question then asks the harder half: given how ambitious this was, **why did it not
 work?**
 
-## LAYER 2 — CORE UPSC
-
-### Part A — philosophy redefined as logical clarification, not a rival science ✅
+## Part A — philosophy redefined as logical clarification, not a rival science ✅
 
 The core redefinition, drawn directly from the positive case (Lesson 3) and the metaphysics diagnosis (Lesson 5):
 if verification fixes cognitive meaning, then philosophy's traditional ambition — to discover further, deeper
@@ -1743,7 +1641,7 @@ in which different sciences can be compared. This is precisely the sense in whic
 to science" — not a rival producing its own facts, but a clarifying discipline in permanent service to the
 sciences' own practice.
 
-### Part B — the three linked projects, taught in full ✅
+## Part B — the three linked projects, taught in full ✅
 
 | Programme | Core claim | Caution |
 |---|---|---|
@@ -1763,7 +1661,7 @@ the vocabulary and methodology of every science within a single physicalist fram
 project was interrupted, and never achieved a finished, agreed encyclopaedia) is itself part of the evidence for
 the failure ledger in Part C below.
 
-### Part C — the 2026 Q4(c) demand, parsed clause by clause ✅
+## Part C — the 2026 Q4(c) demand, parsed clause by clause ✅
 
 > **2026, Q4(c), 15 marks (verified):** *"How did the logical positivists try to make philosophy a handmaid to
 > science and establish a unified language of science? Why did their project fail? Discuss."*
@@ -1775,7 +1673,7 @@ the failure ledger in Part C below.
 | "Why did their project fail?" | the argued failure ledger — every internal crisis already taught elsewhere in this file | Part D below; §4.1–§4.5 |
 | "Discuss" | balanced exposition **and** critical verdict — not exposition alone | Lesson 12, Part A.6, Directive Decoder |
 
-### Part D — the argued failure ledger, and the exact owner boundary against 2026 Q4(a) ✅
+## Part D — the argued failure ledger, and the exact owner boundary against 2026 Q4(a) ✅
 
 The project failed for **four connected, internal reasons** — every one of them already taught in this file, which
 is exactly why this lesson is placed last among the doctrine lessons, immediately before the collapse lesson:
@@ -1810,9 +1708,7 @@ is exactly why this lesson is placed last among the doctrine lessons, immediatel
 > Tarski's formal result as this file's own positive content would blur an examiner-verified ownership boundary
 > the task explicitly requires to be kept exact.
 
-## LAYER 3 — ADVANCED
-
-### The failure is structural, not accidental — and it is the whole file's argument in miniature
+## The failure is structural, not accidental — and it is the whole file's argument in miniature
 
 The deepest point available here: the unified-science project did not fail because of one external attack or one
 bad decision. It failed because **every doctrine taught earlier in this file supplies one piece of its own
@@ -1825,9 +1721,7 @@ argument, exactly as the failure ledger above does. This is also why Lesson 10 i
 Lesson 11 in the frozen roadmap: the unified-science project is best understood as the movement's most ambitious
 constructive statement, and Lesson 11 is the constructive statement's demolition, told from the destructive side.
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - **2026 Q4(c), 15 marks:** solved in full at Lesson 12, Part C, Solved PYQ 8 — the 8th and final primary-owned
   part.
@@ -1842,9 +1736,7 @@ constructive statement, and Lesson 11 is the constructive statement's demolition
 (*International Encyclopedia of Unified Science*) → four-point failure ledger (Part D) → one bounded sentence
 naming, and then setting aside, the cross-owned Q4(a) precursor.
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 1. "Handmaid to science": philosophy is redefined as **logical clarification** of the sciences' own language and
    method, not a rival science producing its own metaphysical truths.
@@ -1879,9 +1771,7 @@ CA search: "self-refutation verification principle Popper Quine later Wittgenste
 CA found: None verifiable — a closed 1930s–1960s succession of criticisms with no live news hook; recorded honestly.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the criticism tree (and a school snapshot)
+## Visual gateway — the criticism tree (and a school snapshot)
 
 ```text
                     WHY THE PROGRAMME DECLINED — SEVEN NAMED PRESSURES
@@ -1916,9 +1806,7 @@ and one abandoning the whole project of a single meaning-criterion (later Wittge
 bearing wall. A first-class answer names all seven pressures, keeps internal separate from external, and never
 credits one critic with the whole result.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — the self-refutation objection ✅ (the "standard kill-shot")
+## Part A — the self-refutation objection ✅ (the "standard kill-shot")
 
 **The verification principle itself** — "A statement is meaningful iff it is analytic or empirically verifiable"
 — is:
@@ -1940,7 +1828,7 @@ credits one critic with the whole result.
 > disputed protocols (Lesson 8), theory-dependence and analytic/synthetic pressure (Part E below) as well as
 > self-application.
 
-### Part B — the strong/weak dilemma (internal) ⚠️ (cross-reference to Lesson 2)
+## Part B — the strong/weak dilemma (internal) ⚠️ (cross-reference to Lesson 2)
 
 Restated here for the collapse ledger, taught in full at Lesson 2: strong verification → excludes universal laws,
 statements about the past, other minds → kills science. Weak verification → so permissive that almost anything
@@ -1948,14 +1836,14 @@ statements about the past, other minds → kills science. Weak verification → 
 formulation; later testability/confirmation accounts improve scientific support at the cost of the original sharp
 meaning boundary.
 
-### Part C — the problem of the past and other minds ⚠️
+## Part C — the problem of the past and other minds ⚠️
 
 - "Caesar crossed the Rubicon" is supported through present records and traces. A strict phenomenalist reduction
   threatens to confuse evidence for the claim with its past-directed content.
 - Other minds are indirectly supported through behaviour, language and explanatory theory. Reducing pain simply
   to behaviour is one behaviourist route, not the only possible weak-verification account.
 
-### Part D — Popper's falsifiability as alternative ⚠️
+## Part D — Popper's falsifiability as alternative ⚠️
 
 Karl Popper (not a positivist, but often associated) proposes **falsifiability** as the *demarcation criterion*
 between science and non-science — not a criterion of *meaning*:
@@ -1968,7 +1856,7 @@ a contrast, not a repaired verification theory and not uncontested as a complete
 > **not** a member of the Vienna Circle — he called himself its "official opposition." Conflating demarcation
 > with meaning is the single most common error on this item.
 
-### Part E — Quine's holism as solvent ✅
+## Part E — Quine's holism as solvent ✅
 
 Quine ("Two Dogmas of Empiricism," 1951) attacks both pillars:
 1. The analytic/synthetic distinction cannot be non-circularly defined → the "linguistic theory of necessary
@@ -1980,22 +1868,20 @@ Quine ("Two Dogmas of Empiricism," 1951) attacks both pillars:
 Carnapian replies and the full holism dispute belong to `Quine-Strawson.md` — a labelled boundary, not this
 file's content.
 
-### Part F — later Wittgenstein — bounded use objection ⚠️
+## Part F — later Wittgenstein — bounded use objection ⚠️
 
 Later Wittgenstein rejects one essence/criterion of meaning and examines varied uses in language-games. This
 pressures verificationism's uniformity and its abstraction from ordinary contexts. Do not develop the positive
 theory here; see `Later-Wittgenstein.md` — the boundary is named, the doctrine is not imported.
 
-### Part G — ordinary-language and category-use pressure ⚠️
+## Part G — ordinary-language and category-use pressure ⚠️
 
 Ryle/Austin-style and later-Wittgensteinian criticism asks whether a sentence's role can be judged apart from its
 ordinary circumstances of use. Commands, avowals, performatives, jokes, mathematics and religious practices may
 not function as failed empirical reports. The objection does not vindicate every metaphysical sentence; it
 challenges the assumption that one factual-test model exhausts linguistic significance.
 
-## LAYER 3 — ADVANCED
-
-### Ranking the objections and the labelled comparisons
+## Ranking the objections and the labelled comparisons
 
 A ranked, rather than a merely listed, treatment earns the highest marks. **Self-refutation (A)** is the
 "standard kill-shot" because it needs no external theory at all — the principle is condemned by its own stated
@@ -2008,9 +1894,7 @@ internal crisis (A–C, compounded by Lessons 2 and 8) as the *primary* explanat
 *labelled, external* accelerants rather than sole causes — precisely the position the canonical Graded Verdict
 Bank takes (Lesson 12, Part A.7).
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - No verified PYQ names "criticisms of logical positivism" as a stand-alone question, but every 15/20-mark
   question in this clause (Lesson 12, Part B) expects the critical half of its answer to be drawn from this
@@ -2024,9 +1908,7 @@ Bank takes (Lesson 12, Part A.7).
 not meaning) → Quine (holism, analytic/synthetic) → later Wittgenstein/ordinary language (boundary only) → ranked,
 multi-causal verdict.
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 1. **Self-refutation (A):** the principle is neither analytic nor verifiable — meaningless by its own standard;
    replies (proposal/rule; analytic-of-a-definition; meta-linguistic) each pay a cost.
@@ -2056,9 +1938,7 @@ CA search: "logical positivism UPSC Philosophy Paper I complete revision current
 CA found: None verifiable — the synthesis lesson consolidates a closed 1920s–1950s programme; recorded honestly. The final register notes (Part E) restate the one standing-relevance line already given in the file's Mandatory Gap Audit note rather than inventing a fresh one.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the whole clause in one continuous rail
+## Visual gateway — the whole clause in one continuous rail
 
 ```text
    L1 VIENNA CIRCLE → L2 STRONG/WEAK → L3 POSITIVE CASE → L4 TRACTATUS LINEAGE
@@ -2091,8 +1971,6 @@ Caption: the whole topic is one continuous argument — a single weapon (Lessons
 syllabus targets (Lessons 5–7), destabilised from within (Lessons 8–9), pushed to its most ambitious constructive
 claim (Lesson 10), and then shown to collapse under seven named pressures (Lesson 11). Lesson 12 assembles the
 complete practice apparatus.
-
-## LAYER 2 — CORE UPSC
 
 ## PART A — COMPARATIVE SYNTHESIS, CRITICISMS AND TRAPS
 
@@ -3352,7 +3230,7 @@ absent.
 | `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md` | Verified PYQ ledger, 7 primary-owned parts, 2018–2025; read in full |
 | `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md` | Verified PYQ ledger, 2026 Q4(c) primary and Q4(a) cross-owned; read in full for exact wording, marks and the routing/owner-boundary notes |
 | `books/` | Checked in full: `2016_Masih_A_critical_history_of_western_philosophy.pdf`, `a_new_history_of_western_philosophy_volume_4.pdf` (Kenny), `philosophy__the_classics_--_warburton_nigel...pdf` (Ayer chapter), `Robert.Audi_The.Cambridge.Dictionary.of.Philosophy.pdf`, `antony_flew_eds-_a_dictionary_of_philosophyb-ok-org.pdf` — all already named in the canonical file's own SOURCES list, used as the verified textual anchor for those references; no dedicated Ayer/Carnap/Schlick primary-text PDF present, recorded honestly rather than fabricating a citation |
-| `live_sessions/Western-Philosophy/06-Moore-Russell-Early-Wittgenstein/Learning-Session-Live-Edition.md` | Sibling live edition; consulted for structural consistency (roadmap-freeze presentation, five-layer format, coverage-matrix and source-ledger design) |
+| `live_sessions/Western-Philosophy/06-Moore-Russell-Early-Wittgenstein/Learning-Session-Live-Edition.md` | Sibling live edition; consulted for structural consistency (roadmap-freeze presentation, integrated terminal format, coverage-matrix and source-ledger design) |
 
 ## Validation performed on this file
 
@@ -3387,7 +3265,3 @@ absent.
 - No canonical, generated-package or PYQ-ledger source file listed above was modified while producing this live
   edition. This is a new artifact at
   `live_sessions/Western-Philosophy/07-Logical-Positivism/Learning-Session-Live-Edition.md`.
-
-
-
-

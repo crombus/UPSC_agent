@@ -50,21 +50,11 @@ generated_from:
 
 ## How to Use This Live Session
 
-Every logical subtopic inside a lesson follows the learner-first order: **intuition → visual → terms → doctrine
-→ argument → examples → comparison → criticism/reply → UPSC application → revision → practice**. Within that
-order, each lesson also carries five retained layers:
-
-| Layer | Purpose |
-|---:|---|
-| 1. SIMPLE START | Visual-first, plain-language gateway into the subtopic |
-| 2. CORE UPSC | Complete canonical doctrine, terminology, arguments and worked examples |
-| 3. ADVANCED | Objections, replies, comparisons and qualified evaluation |
-| 4. EXAM APPLICATION | Verified PYQ routing and answer architecture (through 2026) |
-| 5. RAPID REVISION | Traps, recall points and compressed notes |
-
-Each lesson opens with a **Progress** line (lesson number, stage, exact subtopic) and a **Pre-Teach Checklist**
-(book context queried; the exact current-affairs search attempted; and an honest record of what, if anything,
-was found). Kant is a timeless critical-philosophy topic: most lessons will honestly record "none found" for a
+Each lesson follows a single integrated terminal flow, with no separate labelled layers: **Progress → Pre-Teach
+Checklist → visual → intuition → doctrine/argument/examples → comparison/criticism → UPSC application →
+revision/practice**. The Progress line names the lesson number, stage and exact subtopic; the Pre-Teach
+Checklist records the book context queried, the exact current-affairs search attempted, and an honest account of
+what, if anything, was found. Kant is a timeless critical-philosophy topic: most lessons will honestly record "none found" for a
 genuine recent-news hook, and this live session never manufactures one. MCQs are answered after each question,
 not beside it, with every option explained; correct options rotate strictly **A → B → C → D** throughout the
 44-question bank without a consecutive repeat.
@@ -102,7 +92,7 @@ needed, and every later lesson re-applies it rather than re-arguing it.
   Q2(c), Quine-owned; and Strawson's "non-sequitur of numbing grossness" objection to the Second Analogy).
 - **Prior approved package (structural and practice base):** `Kant_Layered-Complete-Learning-Session_2026-08-18.md`
   and its paired `Kant_Layered-Solved-Practice-Workbook_2026-08-18.md` (the workbook is a verified mirror of the
-  session's own Part II). That package is organised into eight units with a five-layer-per-unit structure and
+  session's own Part II). That package is organised into eight units with a layered per-unit structure and
   ends with 10 solved PYQs (2018–2024 only, predating the 2026 paper), 36 rotation-checked MCQs and 3 original
   Mains answers. This live edition preserves every doctrine, argument, objection, PYQ solution and MCQ from that
   package, reorganises them into the twelve frozen lessons below, adds pre-teach checklists, and restores every
@@ -134,10 +124,10 @@ needed, and every later lesson re-applies it rather than re-arguing it.
 | 2020 Q2(a) — Hume's "I never can catch myself..." personal-identity challenge and Kant's reply — mentioned in `Kant.md` only as a one-line "against Hume" aside under apperception (§3.3), with the Humean argument itself absent | `Kant.md` §3.3, one clause; full Humean side lives only in `Empiricism.md` §3.5/3.5A | Lesson 4, Part B — full cross-owned framework block (Hume's bundle argument reconstructed, then Kant's apperception reply), explicitly marked non-primary |
 | 2025 Q2(c) — Hume's refutation of causal relation and Kant's response — `Kant.md` §3.4 gives the category-level framing but not Hume's own constant-conjunction argument that the question requires as its first half | `Kant.md` §3.4 (Kant's side only) | Lesson 6, Part B — full cross-owned framework block (Hume's causation argument reconstructed from `Empiricism.md` §4.3, then the Second Analogy as Kant's reply), explicitly marked non-primary |
 | 2026 Q2(b) — Hume's account of "ideas of reason" and Kant's response — a genuine terminological trap: Hume's "ideas of reason" names his **relations of ideas** (one half of Hume's Fork), which is a different technical structure from Kant's own capitalised **Ideas of Reason** (Soul/World/God, Transcendental Dialectic); conflating the two is a live scripting risk not flagged anywhere in the prior package | Not distinguished anywhere in the prior package or in `Kant.md` | Lesson 2, Part B (Hume's Fork taught in its natural conceptual home, alongside Kant's synthetic a priori reply) and Lesson 8, Part B (explicit disambiguation box plus the compact PYQ answer route, cross-referencing Lesson 2) |
-| 2018 Q2(c) — Quine's charge that Kantian a priori knowledge is "a metaphysical article of faith" — Quine-owned, mentioned only in the PYQ routing table of `Kant.md`, never framework-taught | `Kant.md` §11 (routing table row only) | Lesson 2, Layer 3 (ADVANCED) — a compact, explicitly non-primary cross-owned box |
+| 2018 Q2(c) — Quine's charge that Kantian a priori knowledge is "a metaphysical article of faith" — Quine-owned, mentioned only in the PYQ routing table of `Kant.md`, never framework-taught | `Kant.md` §11 (routing table row only) | Lesson 2 (advanced discussion) — a compact, explicitly non-primary cross-owned box |
 | 2025 Q1(e) — Hegel's challenge to Kant's phenomena/noumena distinction — `Kant.md` §3.8 gives one compressed paragraph; the full three-pronged critique and Kant's graded reply live only in `Hegel.md` §2.3 | `Kant.md` §3.8, one paragraph | Lesson 7, Part B (full three-pronged Hegel critique plus Kant's reply, explicitly marked Hegel-owned) with a forward link to Lesson 11 |
-| Modern non-Euclidean-geometry/relativity qualification on the argument from geometry — present in `Kant.md` §2.3 only as a single flagged sentence, not developed into a full argument with the metaphysical-exposition rescue | `Kant.md` §2.3, one ⚠️ bullet | Lesson 3, Layer 3 (ADVANCED) — expanded into a full argument-and-rescue block |
-| Dedicated standalone distinction boxes for *empirical realism vs transcendental idealism*, *intuition vs concept*, and the full *thing-in-itself / negative noumenon / positive noumenon* three-way (previously folded into running prose rather than isolated as its own comparison unit) | Implicit across `Kant.md` §§2.4, 3.5, 3.8 | Lesson 7, Part A (empirical realism vs transcendental idealism; full three-way noumenon box); Lesson 5, Layer 1 (intuition vs concept, as the problem schematism must bridge) |
+| Modern non-Euclidean-geometry/relativity qualification on the argument from geometry — present in `Kant.md` §2.3 only as a single flagged sentence, not developed into a full argument with the metaphysical-exposition rescue | `Kant.md` §2.3, one ⚠️ bullet | Lesson 3 (advanced discussion) — expanded into a full argument-and-rescue block |
+| Dedicated standalone distinction boxes for *empirical realism vs transcendental idealism*, *intuition vs concept*, and the full *thing-in-itself / negative noumenon / positive noumenon* three-way (previously folded into running prose rather than isolated as its own comparison unit) | Implicit across `Kant.md` §§2.4, 3.5, 3.8 | Lesson 7, Part A (empirical realism vs transcendental idealism; full three-way noumenon box); Lesson 5 (intuition vs concept, as the problem schematism must bridge) |
 | Lesson 11's explicit "strongest case for and against culmination," argued as a structured two-sided case rather than a single paragraph verdict | `Kant.md` §7.2, compressed bullet list | Lesson 11, Part C — a fully argued for/against structure answering both 2018 Q2(b) and 2026 Q4(b) |
 | MCQ bank — prior package fixed at exactly 36; task requires retaining/improving this while covering the newly restored cross-links and the 2026 material | `Kant_Layered-Solved-Practice-Workbook_2026-08-18.md`, MCQs 1–36 | Lesson 12, Part C.2 — all 36 retained verbatim in content, plus 8 new MCQs (37–44) covering the restored gaps, for 44 total, rotation re-verified across the full sequence |
 
@@ -154,8 +144,6 @@ Book context: [queried — canonical owner `upsc-ai-kit/knowledge/Philosophy/pap
 CA search: "Kant Copernican revolution critical philosophy UPSC current affairs 2026 relevance"
 CA found: None verifiable — this is an 18th-century critical-philosophy foundation with no live news hook; recorded honestly rather than inventing one. Static UPSC syllabus relevance (the entire Kant syllabus item rests on this foundation) is the sufficient exam linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — the trap Kant escapes
 
@@ -204,8 +192,6 @@ start asking whether the world of experience must match the mind.
 > 🔑 **Memory line:** Rationalism has necessity without content; classical empiricism (via Hume) has content
 > without guaranteed necessity; Kant asks how a judgment can have **both** — and answers with the Copernican
 > Revolution.
-
-## LAYER 2 — CORE UPSC
 
 ### 0. Where Kant sits in the syllabus — the one-screen map ✅
 
@@ -295,8 +281,6 @@ physics, or metaphysics — possible at all, and where does the possibility run 
   form: **given F, and F is possible only if C, therefore C.** Recognising this structure is the single most
   useful exam-writing skill for this topic (see the Directive Decoder, Lesson 12, Part A).
 
-## LAYER 3 — ADVANCED
-
 ### Is the Copernican Revolution a retreat or an advance?
 
 A natural first reaction is that Kant "gives up" on knowing reality as it is, retreating into how things merely
@@ -314,8 +298,6 @@ the conditions of experience); transcendent claims are exactly what that enterpr
 (claims about the soul, world-whole and God as knowable objects). Every later lesson depends on keeping this
 straight, so it is fixed here, in Lesson 1, before any doctrine is introduced.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - No PYQ part is exclusively about the Copernican Revolution as a bare topic, but **every** Kant PYQ 2018–2026
@@ -325,8 +307,6 @@ straight, so it is fixed here, in Lesson 1, before any doctrine is introduced.
   "Bring out the significance of": *show what changes if the doctrine is true*, not just define it.
 - The transcendental method itself is the shape every "how is X possible?" question takes (2019 Q4(a) space/
   time; 2023 Q1(e) synthetic a priori). See the Directive Decoder, Lesson 12, Part A, for the full table.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -350,10 +330,8 @@ Progress: 2 / 12  |  Stage: Foundation  |  Subtopic: Synthetic a priori judgment
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: [queried — canonical owner `Kant.md` §1 (1.1-1.4); cross-owned `Empiricism.md` §1.3 (Hume's Fork) read for the reconciliation argument; cross-owned `Quine-Strawson.md` read for the 2018 Q2(c) cross-link]
 CA search: "synthetic a priori Kant analytic synthetic distinction current debate 2026"
-CA found: None verifiable via live `web_search` for a genuine 2025-2026 news hook; the only "contemporary" linkage is the decades-old Quine critique (already a verified PYQ, not a news item), taught in Layer 3 below as analytical content, not as current affairs.
+CA found: None verifiable via live `web_search` for a genuine 2025-2026 news hook; the only "contemporary" linkage is the decades-old Quine critique (already a verified PYQ, not a news item), taught later in this lesson as analytical content, not as current affairs.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — the four-cell grid that founds the whole Critique
 
@@ -391,8 +369,6 @@ basic principles of physics actually live.
 > 🔑 **Memory line:** Analytic = "unpacking a definition"; synthetic = "adding real information." A priori =
 > "knowable without looking"; a posteriori = "you have to look." Cross them, and one cell (synthetic a priori) is
 > the whole of Kant's problem.
-
-## LAYER 2 — CORE UPSC
 
 ### Part A — the two distinctions, cross-classified ✅
 
@@ -470,15 +446,13 @@ unstructured sensation; Kant's knowledge = intuitions + concepts = experience.
 - Beyond experience, these forms have no constitutive use; metaphysical claims about soul, world-totality and God
   exceed theoretical knowledge (Lessons 8–10).
 
-## LAYER 3 — ADVANCED
-
 ### Do the showcase examples survive modern science?
 
 Kant's two showcase synthetic a priori examples do not fare equally well under later science. "7 + 5 = 12" is
 untouched by any subsequent discovery — arithmetic's necessity, grounded in the pure form of time (Lesson 5),
 remains secure. But "the straight line between two points is the shortest" was meant to illustrate the
 *necessary, unique* deliverances of Euclidean geometry; once geometry ceased to be uniquely Euclidean (see the
-full non-Euclidean/relativity qualification in Lesson 3, Layer 3), the transcendental-exposition argument *from
+full non-Euclidean/relativity qualification in Lesson 3), the transcendental-exposition argument *from
 geometry specifically* is weakened, though the metaphysical-exposition argument (that space is a singular, given
 a priori intuition rather than a general concept) survives independently. The doctrine as a *classification of
 judgment-kinds* is not refuted by this; only one showcase example inside it is compromised.
@@ -502,8 +476,6 @@ judgment-kinds* is not refuted by this; only one showcase example inside it is c
   confirms Kant's deeper point (experience rests on commitments not themselves given in experience) while
   denying that those commitments come in Kant's specific, sharply-bounded package.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 | Year | Question | Marks |
@@ -522,8 +494,6 @@ self-limiting scope of the synthesis (valid only within possible experience).
 key class -> give both examples (7+5=12 from time; "every event has a cause" from the categories) -> close with
 the Copernican-Revolution explanation of possibility, and the "only for phenomena" scope limit.
 ```
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -550,10 +520,8 @@ Progress: 3 / 12  |  Stage: Foundation  |  Subtopic: Transcendental Aesthetic �
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: [queried — canonical owner `Kant.md` §2 (2.1-2.4); no local OCR book available for cross-check, recorded honestly]
 CA search: "Kant space time transcendental aesthetic non-Euclidean geometry relativity 2026"
-CA found: None from a live-news standpoint; the only genuinely relevant "modern" material is the decades-settled physics of non-Euclidean geometry and general relativity, taught in Layer 3 as an analytical qualification, not as breaking news.
+CA found: None from a live-news standpoint; the only genuinely relevant "modern" material is the decades-settled physics of non-Euclidean geometry and general relativity, taught later in this lesson as an analytical qualification, not as breaking news.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — two lenses the mind cannot take off
 
@@ -593,8 +561,6 @@ real, independently existing containers; Leibniz thought they were just relation
 already have to exist. Kant says: neither — they are contributed by *you*, the knower, which is exactly why
 geometry and arithmetic can be both informative (they tell us about space and time) and necessary (because you
 cannot experience anything that violates them).
-
-## LAYER 2 — CORE UPSC
 
 ### The doctrine ✅
 
@@ -651,8 +617,6 @@ as infinite.)
   simultaneously, and that collapsing this into either "space is fully real" or "space is a fiction" is the
   single most common script error on this doctrine.
 
-## LAYER 3 — ADVANCED
-
 ### The metaphysical and transcendental expositions, and their cost
 
 The metaphysical exposition (four arguments) is Kant's *stand-alone* case that space/time are a priori and
@@ -685,8 +649,6 @@ survives modern physics; the transcendental exposition's reliance on Euclid spec
 generalised version (some determinate geometry or other is a priori necessary for any spatial experience
 whatsoever) remains defensible and is the position most contemporary Kant scholarship actually attributes to him.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 | Year | Question | Marks |
@@ -701,8 +663,6 @@ metaphysical exposition (four numbered arguments, space; parallel for time) -> t
 -> qualify with the non-Euclidean/relativity rescue (metaphysical exposition survives; transcendental exposition's
 Euclid-specific claim is weakened) -> close by distinguishing Kant's position from both Newton and Leibniz.
 ```
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -728,8 +688,6 @@ Book context: [queried — canonical owner `Kant.md` §3 (3.1-3.4, 3.3A); cross-
 CA search: "transcendental unity of apperception Kant self-consciousness current relevance 2026"
 CA found: None verifiable via live `web_search`; recorded honestly. The apperception doctrine is examined here purely through its PYQ-verified philosophical application (2022 Q1(e); the 2020 cross-link below).
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — how raw sensation becomes objective experience
 
@@ -760,8 +718,6 @@ two things must happen together: the photographs must be combined according to r
 event caused this one), and all of it must be capable of being accompanied by a single "I think" that can call
 every one of these representations *mine*. Neither the rules (categories) nor the unity (apperception) is itself
 perceived — they are the *conditions* that make perceiving an objective world possible at all.
-
-## LAYER 2 — CORE UPSC
 
 ### The Table of Categories ✅
 
@@ -875,8 +831,6 @@ contradict this finding but relocates the question from "what entity is the self
 experience — including Hume's own perceptual flux — possible as *one* experience?" The transcendental unity of
 apperception answers the second question without pretending to answer the first.
 
-## LAYER 3 — ADVANCED
-
 ### The Deduction's strength and the table's weakness
 
 The Deduction's strategy needs no premise the sceptic can refuse — only that experience is *mine*; its weakness
@@ -885,8 +839,6 @@ does not himself independently justify as exhaustive. Detach the strategy (objec
 discovery) from the specific inventory (twelve categories in four triads) — as Strawson does in his "austere"
 reading of Kant (*The Bounds of Sense*, 1966) — and Kant's core result survives even if one doubts the table's
 completeness.
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -901,8 +853,6 @@ impression, but the form of all thinking) -> against rational psychology (functi
 link to the transcendental exposition of space/time (Aesthetic supplies forms; apperception unifies what is
 given, via the categories) -> close by naming the complete architecture (Aesthetic -> Deduction -> Schematism).
 ```
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -929,8 +879,6 @@ Book context: [queried — canonical owner `Kant.md` §3.5; A137-47/B176-87]
 CA search: "Kant schematism transcendental imagination contemporary cognitive science 2026"
 CA found: None verifiable via live `web_search` for a genuine recency hook; this remains a purely doctrinal, argument-driven lesson.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Dedicated distinction box — intuition vs concept (the problem schematism must bridge)
 
@@ -973,8 +921,6 @@ all. Schematism is Kant's answer to the follow-up question the Deduction leaves 
 apply, but exactly *how* something so abstract can ever touch something so concrete. His answer is that there is
 a hidden go-between — a rule of the imagination that is expressed entirely in terms of **time** — and time can do
 this job because, unlike space, it is present in literally *every* representation, inner or outer alike.
-
-## LAYER 2 — CORE UPSC
 
 ### The numbered mediation argument — why TIME, and nothing else ⚠️→✅
 
@@ -1024,8 +970,6 @@ this job because, unlike space, it is present in literally *every* representatio
 - **P4** Categories have no *sense* apart from schemata — which is precisely why the unschematised category can
   be *thought* (noumenon in the negative sense) but yields no knowledge.
 
-## LAYER 3 — ADVANCED
-
 ### Schema is a rule, not an image — the make-or-break trap, restated with objections
 
 | Objection | Reply | Residual |
@@ -1040,8 +984,6 @@ entitlement into the concrete Principles. Its cost is Kant's own admission that 
 procedure is 'an art concealed in the depths of the human soul' — the system's most important operation is the
 one Kant cannot display."
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 No PYQ 2018–2026 asks about Schematism by name as a standalone part, but it is the **presupposed mechanism**
@@ -1054,8 +996,6 @@ Implicit-application spine: state the heterogeneity problem -> the numbered medi
 schema vs image with the three examples -> the four-group time-architecture table -> the "concealed art"
 concession -> functional defence (without schemata, no Analogies).
 ```
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1082,8 +1022,6 @@ Book context: [queried — canonical owner `Kant.md` §3.6 (3.6.1-3.6.3); cross-
 CA search: "Kant Analogies of Experience Hume causation contemporary philosophy of science 2026"
 CA found: None verifiable via live `web_search`; the causation debate here is argued entirely from 1739-1787 primary texts and their standard scholarly reception (Strawson 1966), not from any current-affairs hook.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — why the ship is an 'event' but the house is not
 
@@ -1117,8 +1055,6 @@ perceptions come one after another (perception is always successive), so the dif
 order" and "this order was forced on me" cannot itself be something you *see* — you never see time itself, only
 things in time. The only way to explain a *forced*, irreversible order is that something ties the earlier
 perception to the later one by a **rule** — and that rule just is causality.
-
-## LAYER 2 — CORE UPSC
 
 ### General principle (B-edition) ✅
 
@@ -1246,8 +1182,6 @@ something fixes them in one time. What fixes them is **mutual causal influence**
 simultaneous only insofar as they stand in thoroughgoing reciprocal determination. This is the schema of the
 category of **Community**.
 
-## LAYER 3 — ADVANCED
-
 ### How far does the Second Analogy really beat Hume?
 
 The Analogies are Kant's true reply to empiricism, and they are the part of the *Critique* most nearly
@@ -1255,8 +1189,6 @@ independent of transcendental idealism as a whole — which is why Strawson coul
 the full doctrine of appearances. Their permanent result is that objectivity is a matter of **rule-governed
 time-determination**, and that anyone who accepts the objective/subjective distinction in temporal order (as
 almost everyone pre-theoretically does) has already accepted more than Hume's official picture allows.
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -1275,8 +1207,6 @@ necessary connection) -> Kant's Second Analogy (house/ship, the numbered seven-s
 qualifier (entitlement to the concept, not particular laws) -> Strawson's non-sequitur objection and Allison's
 reply -> verdict: Kant relocates, rather than dissolves, Hume's problem.
 ```
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1304,8 +1234,6 @@ Book context: [queried — canonical owner `Kant.md` §§3.7, 3.8; cross-owned `
 CA search: "Kant Refutation of Idealism external world scepticism 2026"
 CA found: None verifiable via live `web_search`; recorded honestly. The comparison to Moore's "Proof of an External World" (1939) is a standard scholarly cross-link, not a current-affairs item.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — Descartes inverted, and the wall of knowledge
 
@@ -1349,8 +1277,6 @@ own inner life already presupposes something permanent *outside* me. Meanwhile, 
 — objects located in space and time, structured by the categories — is called **phenomena** (appearances); what
 things are like apart from all this structuring, the **thing in itself**, remains strictly unknowable, a wall we
 can gesture at but never see past.
-
-## LAYER 2 — CORE UPSC
 
 ### Dedicated distinction box — empirical realism vs transcendental idealism
 
@@ -1504,8 +1430,6 @@ boundary (which is exactly where Jacobi's affection problem also bites); he does
 that his own complete Absolute-Idealist system is true. A balanced answer credits Hegel's diagnosis while
 withholding endorsement of his cure.
 
-## LAYER 3 — ADVANCED
-
 ### The fragile proof and the affection problem, taken together
 
 Both major arguments of this lesson share one structure: each purchases a strong result (an external world; a
@@ -1514,8 +1438,6 @@ bounded, non-dogmatic metaphysics) at the cost of a residual difficulty (the Ref
 the two together, the lesson's honest verdict is that Kant's system is **internally coherent and externally
 contested** at exactly the two points where it touches what lies outside the phenomenal domain it otherwise
 secures so successfully.
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -1530,8 +1452,6 @@ secures so successfully.
 not a reified object) -> graded verdict (Hegel pressures the causally-affecting reading; does not refute the
 purely limiting reading) -> note explicitly this is Hegel's PYQ to solve in full.
 ```
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1560,8 +1480,6 @@ Book context: [queried — canonical owner `Kant.md` §4 (4.1-4.4); cross-owned 
 CA search: "Kant Ideas of Reason regulative constitutive soul world God 2026"
 CA found: None verifiable via live `web_search`; the only "2026" linkage is the verified 2026 PYQ itself (Q2(b)), which is analytical/exam content, not a news item.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — reason reaching past the wall
 
@@ -1598,8 +1516,6 @@ explanations. The mistake comes only if reason forgets that its three grand Idea
 World as a completed whole; God as the ground of everything — are useful *guides* for enquiry, not *objects*
 reason can claim to *know*. Treating a compass as if it were the destination is the single error behind the
 Paralogisms, the Antinomies and the failed proofs of God.
-
-## LAYER 2 — CORE UPSC
 
 ### The Three Transcendental Ideas ✅
 
@@ -1655,7 +1571,7 @@ logical subject.
 Hume's own technical category — **relations of ideas** (one half of Hume's Fork: propositions known a priori,
 by "the mere operation of thought," such as "2+2=4"). It is a **different technical structure** from Kant's own
 capitalised **Ideas of Reason** (Soul, World, God), which are products of the *faculty* of Reason reaching for
-the unconditioned, taught in Layer 2 above. The two phrases share ordinary-language wording but name unrelated
+the unconditioned, taught earlier in this lesson. The two phrases share ordinary-language wording but name unrelated
 doctrines belonging to different thinkers in different systems. Treating them as one and the same is a scripting
 error that would submerge an entire mark-earning answer.
 
@@ -1679,8 +1595,6 @@ naming Hume's Fork and defining "relations of ideas" exactly as Hume uses the te
 not Kant's technical "Ideas of Reason"; then give Kant's synthetic a priori reply (Lesson 2) as the answer to
 "how does Kant respond."
 
-## LAYER 3 — ADVANCED
-
 ### Reason's built-in overreach
 
 The very same drive that makes reason useful — refusing to stop at any given conditioned fact and demanding a
@@ -1691,8 +1605,6 @@ asked about the soul, the world-whole or God. This overreach is not incidental t
 **natural and unavoidable illusion** (*transcendental illusion*), on a par with an optical illusion that persists
 even after we know it is an illusion.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 | Year | Question | Marks | Owner |
@@ -1702,8 +1614,6 @@ even after we know it is an illusion.
 No 2018–2026 PYQ part is Kant-owned and solely about the Ideas of Reason, regulative/constitutive use or the
 Paralogisms by name; the doctrine is required background for the Antinomies (Lesson 9, directly PYQ-tested) and
 for the God-proofs (Lesson 10, directly PYQ-tested), and is the necessary disambiguating context for 2026 Q2(b).
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1733,8 +1643,6 @@ CA search: "Kant antinomies pure reason mathematical dynamical contemporary cosm
 CA found: None verifiable via live `web_search`; recorded honestly. The Antinomies are argued entirely from the 1781/1787 text.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
 ### Visual gateway — the antinomy matrix
 
 ```text
@@ -1763,8 +1671,6 @@ time? made of simple parts or infinitely divisible? free or wholly determined? g
 not?), reason can construct an apparently valid *proof* for **both** sides. This is not reason contradicting some
 external fact; it is reason contradicting *itself*, which is exactly the symptom Kant uses to show that treating
 "the world-whole" as a single, given object was the mistake all along.
-
-## LAYER 2 — CORE UPSC
 
 ### Part A — What is an Antinomy, and the four antinomies stated ✅
 
@@ -1825,8 +1731,6 @@ phenomena as noumena.
   speculative reason, and function as an **indirect proof of transcendental idealism**: if realism about
   appearances generates contradiction, and idealism dissolves it, idealism is vindicated by its consequences.
 
-## LAYER 3 — ADVANCED
-
 ### When does reason 'enter' the antinomies — and is Hegel's third path open?
 
 The 2020 PYQ's second half asks whether the antinomies are a "natural culmination" of the phenomena/noumena
@@ -1837,8 +1741,6 @@ diagnosis available, and **Hegel supplies one** — namely, that reason's contra
 (motors of further, higher determinations of thought) rather than merely *pathological* symptoms of overreach.
 This rival reading is developed fully in Lesson 11 and should be flagged as the strongest available objection to
 Kant's "indirect proof of transcendental idealism" framing.
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -1860,8 +1762,6 @@ four antinomies briefly -> mathematical/dynamical -> "yes, a natural culmination
 phenomena/noumena distinction applied -> qualify: culmination of transcendental REALISM about appearances, not
 of dualism as such.
 ```
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1889,8 +1789,6 @@ Book context: [queried — canonical owner `Kant.md` §6 (6.1-6.5); cross-paper 
 CA search: "Kant ontological argument critique God proofs modal logic 2026"
 CA found: None verifiable via live `web_search` for a genuine recency hook; the "modern modal reformulations" noted below (Plantinga, Malcolm) are decades-settled academic philosophy, flagged as such rather than as news.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — the proof-dependency collapse
 
@@ -1927,8 +1825,6 @@ with a different tool; he shows that the second and third bridges secretly borro
 first — so demolishing the first plank (the claim that existence is a property you can pack into a concept) takes
 down all three at once. What remains standing is not atheism, but a **relocation**: God can no longer be proved
 by theoretical reason, but can still be legitimately *postulated* as something practical (moral) life requires.
-
-## LAYER 2 — CORE UPSC
 
 ### General Framework ✅
 
@@ -1993,8 +1889,6 @@ predicate), they all fail together.
 > good, autonomy) is optional enrichment and belongs outside this syllabus item (full boundary table, Lesson 12,
 > Part A).
 
-## LAYER 3 — ADVANCED
-
 ### 'Existence is not a real predicate' — precision and afterlife
 
 Kant's own wording is closer to "*Sein* ist offenbar kein reales Prädikat" — "**being** is obviously not a real
@@ -2004,8 +1898,6 @@ modern modal reformulations of the ontological argument (Plantinga's modal versi
 version) attempt to bypass Kant's specific objection by treating necessary existence, not bare existence, as the
 relevant predicate — a live, contested area in analytic philosophy of religion, but one that does not touch the
 **classical Cartesian/Anselmian formulation** the PYQs name, against which Kant's objection remains decisive.
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -2022,8 +1914,6 @@ ontological step; one refutation kills all three) -> "critically examine" only: 
 reformulations, then still close on "decisive against the classical formulation" -> close with the practical-
 postulate relocation (agnosticism, not atheism).
 ```
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -2052,8 +1942,6 @@ Book context: [queried — canonical owner `Kant.md` §7 (7.1-7.2) and the resto
 CA search: "Kant Hegel dualism culmination absolute idealism 2026 comparison"
 CA found: None verifiable via live `web_search`; the "2026 comparison" in this lesson's title refers to the verified 2026 Q4(b) PYQ itself, not a current-affairs item.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — one dictum, one dualism, one 200-year-old question
 
@@ -2094,8 +1982,6 @@ wall is precisely what keeps knowledge honest and finite; Hegel would answer tha
 in such precise detail (unknowable, non-sensible, a mere limiting concept) is already, by that very description,
 inside thought, and so is not a genuine wall at all. Whether Hegel therefore *completes* Kant or *destroys* him is
 exactly what both 2018 Q2(b) and 2026 Q4(b) ask you to argue.
-
-## LAYER 2 — CORE UPSC
 
 ### Part A — "Understanding makes Nature" (2018 Q2(b), first half) ✅
 
@@ -2201,8 +2087,6 @@ the strongest answer states both cases above, then rules explicitly for the qual
 2018 Q2(b) ("how far do you agree... give reasons") and 2026 Q4(b) ("analyze and discuss the different ways")
 reward exactly this two-sided, rule-giving structure rather than either extreme.
 
-## LAYER 3 — ADVANCED
-
 ### Comparison table anchored to the Ideas of Reason and the Antinomies
 
 | Axis | Kant | **Hegel** |
@@ -2211,8 +2095,6 @@ reward exactly this two-sided, rule-giving structure rather than either extreme.
 | Contradiction (Antinomies, Lesson 9) | a symptom of illegitimate overreach; resolved by respecting the phenomena/noumena boundary | the engine of thought's own self-development (determinate negation) |
 | Ultimate reality | theoretical cognition limited to appearances; reality-in-itself unknowable | the Absolute — reality *as* self-developing, self-comprehending Spirit |
 | Reason's Ideas (Soul/World/God, Lesson 8) | regulative only; constitutive use is illusion | absorbed into the systematic self-development of the Concept, not merely regulative heuristics |
-
-## LAYER 4 — EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -2235,8 +2117,6 @@ self-development; no permanent remainder) -> compare directly on the Antinomies 
 with the same qualified verdict as above, phrased as "different ways of conceiving the relationship" rather than
 a bare agree/disagree.
 ```
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -2271,8 +2151,6 @@ bank, translation/provenance discipline), **Part B** (PYQ routing map, all 11 pr
 complete solved-practice bank: 11 solved PYQs, 44 rotation-checked MCQs), **Part D** (4 original Mains questions
 with model solutions), and **Part E** (the final consolidated register notes).
 
-## LAYER 1 — SIMPLE START
-
 ### Visual gateway — the whole Critique in one continuous rail
 
 ```text
@@ -2306,8 +2184,6 @@ KANT vs HEGEL: "Understanding makes Nature", culmination-or-overcoming,
 FINAL SYNTHESIS (L12): comparisons, criticisms, all 11 PYQs solved, 44 MCQs,
 original Mains, consolidated register notes
 ```
-
-## LAYER 2 — CORE UPSC
 
 ## PART A — COMPARATIVE SYNTHESIS, CRITICISMS AND TRAPS
 
@@ -2468,7 +2344,7 @@ original Mains, consolidated register notes
 
 | Year | Question | Marks | Primary owner | Kant-half taught in |
 |---|---|---:|---|---|
-| 2018 | Q2(c) | 15 | Quine–Strawson | Lesson 2, Layer 3 |
+| 2018 | Q2(c) | 15 | Quine–Strawson | Lesson 2 |
 | 2020 | Q2(a) | 20 | Empiricism | Lesson 4, Part B |
 | 2025 | Q1(e) | 10 | Hegel | Lesson 7, Part B; Lesson 11 |
 | 2025 | Q2(c) | 15 | Empiricism | Lesson 6, Part B |
@@ -2562,7 +2438,7 @@ than a hundred possible thalers": the concept is identical whether or not the ob
 concept, however perfect, entails the existence of its object outside thought; the ontological inference
 confuses logical necessity *within* the concept with real existence. **Verdict.** The classical Cartesian version
 is refuted decisively; defining a thing into existence is impossible. (Modern modal reformulations reopen the
-debate — Lesson 10, Layer 3 — but the Cartesian formulation the question names falls to "existence is not a real
+debate — Lesson 10 — but the Cartesian formulation the question names falls to "existence is not a real
 predicate.")
 
 #### Solved PYQ 5 — 2022 Q1(e), 10 marks
@@ -3391,7 +3267,7 @@ impulse, overcoming of conclusion.**
 
 | Year | Q. | Owner | Content location |
 |---|---|---|---|
-| 2018 | Q2(c) | `Quine-Strawson.md` | Lesson 2, Layer 3 |
+| 2018 | Q2(c) | `Quine-Strawson.md` | Lesson 2 |
 | 2020 | Q2(a) | `Empiricism.md` | Lesson 4, Part B |
 | 2025 | Q1(e) | `Hegel.md` | Lesson 7, Part B; Lesson 11 |
 | 2025 | Q2(c) | `Empiricism.md` | Lesson 6, Part B |
@@ -3424,7 +3300,7 @@ impulse, overcoming of conclusion.**
 | `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md` | Verified PYQ ledger, 10 primary-owned Kant parts, 2018-2024, none in 2025; read in full |
 | `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md` | Verified PYQ ledger, 2026 Q4(b) primary, Q2(b) cross-linked; read in full for exact wording, marks and the cross-ownership map |
 | `books/` | Checked in full for a dedicated Kant primary-text or secondary-literature OCR PDF: none present; recorded honestly rather than fabricating a citation |
-| `live_sessions/Western-Philosophy/03-Empiricism/Learning-Session-Live-Edition.md` | Sibling live edition; consulted for structural consistency (roadmap-freeze presentation, five-layer format, coverage-matrix and source-ledger design) |
+| `live_sessions/Western-Philosophy/03-Empiricism/Learning-Session-Live-Edition.md` | Sibling live edition; consulted for structural consistency (roadmap-freeze presentation, integrated terminal format, coverage-matrix and source-ledger design) |
 
 ## Validation performed on this file
 
@@ -3447,7 +3323,7 @@ impulse, overcoming of conclusion.**
   throughout the newly authored MCQ 37-44 block. Result: **PASS** (option-ordering errors introduced during
   drafting of MCQ 38, 39, 42, 43 and 44 were identified and corrected before finalisation).
 - **Sharp distinctions preserved:** transcendental vs transcendent (Lesson 1); empirical realism vs transcendental
-  idealism (Lesson 7, Part A); intuition vs concept (Lesson 5, Layer 1); schema vs image (Lesson 5); thing-in-
+  idealism (Lesson 7, Part A); intuition vs concept (Lesson 5); schema vs image (Lesson 5); thing-in-
   itself vs negative/positive noumenon (Lesson 7); analytic/synthetic vs a priori/a posteriori (Lesson 2). Each
   has its own dedicated box, checked for consistent use in every later lesson that re-applies it. Result: **PASS**.
 - **Residue scan:** searched for tool-call fragments, transport markers, agent-log tokens and draft placeholders
@@ -3463,7 +3339,6 @@ impulse, overcoming of conclusion.**
 - No canonical, generated-package or PYQ-ledger source file listed above was modified while producing this live
   edition. This is a new artifact at
   `live_sessions/Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md`.
-
 
 
 

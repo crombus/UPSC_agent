@@ -52,21 +52,11 @@ generated_from:
 
 ## How to Use This Live Session
 
-Every logical subtopic inside a lesson follows the learner-first order: **intuition → visual → terms → doctrine
-→ argument → examples → comparison → criticism/reply → UPSC application → revision → practice**. Within that
-order, each lesson also carries five retained layers:
-
-| Layer | Purpose |
-|---:|---|
-| 1. SIMPLE START | Visual-first, plain-language gateway into the subtopic |
-| 2. CORE UPSC | Complete canonical doctrine, terminology, arguments and worked examples |
-| 3. ADVANCED | Objections, replies, comparisons and qualified evaluation |
-| 4. EXAM APPLICATION | Verified PYQ routing and answer architecture (through 2026) |
-| 5. RAPID REVISION | Traps, recall points and compressed notes |
-
-Each lesson opens with a **Progress** line (lesson number, stage, exact subtopic) and a **Pre-Teach Checklist**
-(book context queried; the exact current-affairs search attempted; and an honest record of what, if anything,
-was found). Hegel is argued from 1807–31 texts, so most lessons will honestly record "none found" for a genuine
+Each lesson follows a single integrated terminal flow, with no separate labelled layers: **Progress → Pre-Teach
+Checklist → visual → intuition → doctrine/argument/examples → comparison/criticism → UPSC application →
+revision/practice**. The Progress line names the lesson number, stage and exact subtopic; the Pre-Teach
+Checklist records the book context queried, the exact current-affairs search attempted, and an honest account of
+what, if anything, was found. Hegel is argued from 1807–31 texts, so most lessons will honestly record "none found" for a genuine
 recent-news hook; this live session never manufactures one. Three lessons (1, 4, 9) do carry a genuine, clearly
 labelled **scholarship anchor** — the XXXVI International Hegel Congress 2026, "Hegel Global" (Internationale
 Hegel-Gesellschaft, Rome) — used only as contemporary-scholarship context (never as doctrinal proof, and with no
@@ -103,7 +93,7 @@ never the reverse.
 - **Prior approved package (structural and practice base):**
   `Hegel_Layered-Complete-Learning-Session_2026-08-18.md` and its paired
   `Hegel_Layered-Solved-Practice-Workbook_2026-08-18.md`. That package is organised into ten units with a
-  five-layer-per-unit structure and ends with 6 solved PYQs (2019–2023, 2025 only, predating the 2026 paper),
+  layered per-unit structure and ends with 6 solved PYQs (2019–2023, 2025 only, predating the 2026 paper),
   36 rotation-checked MCQs and 3 original Mains answers (10/15/20 marks). This live edition preserves every
   doctrine, argument, objection, PYQ solution and MCQ from that package, reorganises the ten units into the
   eleven frozen lessons below (Lessons 1–10 correspond one-to-one to the prior package's Units 1–10; Lesson 11 is
@@ -137,7 +127,7 @@ never the reverse.
 |---|---|---|
 | The complete 2026 paper — Q1(c) (Hegel's 7th primary-owned PYQ, "the Absolute as being is the Absolute as becoming as a process of self-development") and the Q4(b) Kant-primary cross-link ("Kant and Hegel... reality and our thinking about reality") — post-dates the 2026-08-18 prior package entirely | Not present anywhere in the prior package | Lesson 2, Part B (full doctrinal treatment and solved answer route) and Lesson 7, Part C (full two-sided treatment); both fully solved again in Lesson 11, Part C, Solved PYQs 6–7 |
 | §1.5A "Identity-in-difference and the Concept" — the "identity of identity and non-identity/difference" formula and the Universality/Particularity/Individuality moments of the Concept — printed in full in `Hegel.md` §1.5A, but never developed in the prior package's per-unit teaching layers (it survives only inside the verbatim canonical-apparatus tail, which a learner is not required to read) | `Hegel.md` §1.5A; prior package Unit 3 taught only §§1.5 and 1.6 | Lesson 3, Part A — full dedicated teaching block, with the translation caution and the boundary against reading the triad as political, historical or Spirit-divisional |
-| §2.4A "Finite/infinite and the three forms of Spirit" — the bad/spurious infinite (*schlechte Unendlichkeit*) vs the true infinite, and the subjective/objective/absolute Spirit table with the ethical-life ladder (family → civil society → state) needed for the 2023 history PYQ — printed in `Hegel.md` §2.4A, but not taught in any per-unit layer of the prior package (only inside the verbatim canonical-apparatus tail) | `Hegel.md` §2.4A; prior package Units 6 and 9 did not carry it forward into their own teaching layers | Lesson 6, Layer 3 (finite/infinite, as the logical control behind Absolute Idealism) and Lesson 9, Part B (the ethical-life ladder, restored exactly where the 2023 PYQ's "state orientation" demand requires it) |
+| §2.4A "Finite/infinite and the three forms of Spirit" — the bad/spurious infinite (*schlechte Unendlichkeit*) vs the true infinite, and the subjective/objective/absolute Spirit table with the ethical-life ladder (family → civil society → state) needed for the 2023 history PYQ — printed in `Hegel.md` §2.4A, but not taught in any per-unit layer of the prior package (only inside the verbatim canonical-apparatus tail) | `Hegel.md` §2.4A; prior package Units 6 and 9 did not carry it forward into their own teaching layers | Lesson 6 (finite/infinite, as the logical control behind Absolute Idealism) and Lesson 9, Part B (the ethical-life ladder, restored exactly where the 2023 PYQ's "state orientation" demand requires it) |
 | 2018 Q2(b) — "Understanding makes Nature... is Hegel's Absolutism the culmination of the Kantian Dualism?" (Kant-owned) — the prior package's Unit 10 named this only as a one-line labelled cross-link ("use the Kant→Hegel bridge"), without reconstructing Kant.md §7.2's full two-sided case (culmination of the *impulse*, overcoming of the *conclusion*) | `Hegel.md` bridges table (one line); full case only in `Kant.md` §7.2 | Lesson 7, Part B — full two-sided argued case, explicitly marked Kant-primary, with the Lesson 11 solved-framework answer |
 | 2026 Q4(b) — "Kant and Hegel... the relationship between reality and our thinking about reality" (Kant-owned) — an entirely new PYQ; no canonical file yet carries a dedicated section for it | Absent from `Kant.md`, `Hegel.md` and the prior package alike (all pre-date the 2026 paper) | Lesson 7, Part C — new two-sided framework built from Hegel's own three-pronged Kant critique (§2.3) plus Kant's transcendental-idealism reply, explicitly marked Kant-primary |
 | 2023 Q1(d) — Kierkegaard's structural argument against Hegel ("a logical system is possible; an existential system is impossible") — the prior package's Unit 5/Unit 10 preserved the *legacy* framing (Feuerbach/Marx drop the resolution, Kierkegaard denies it) but not Kierkegaard's own sharpest single sentence or the indirect-communication argument from `Existentialism.md` §2B | `Hegel.md` §1.8 and bridges table (legacy framing only); full argument only in `Existentialism.md` §§1.3, 2B | Lesson 10, Part B — full cross-owned framework block, explicitly marked Existentialism-primary |
@@ -157,8 +147,6 @@ Book context: [queried — canonical owner `upsc-ai-kit/knowledge/Philosophy/pap
 CA search: "Hegel dialectical method contemporary scholarship 2026 relevance UPSC"
 CA found: A genuine, dated scholarship anchor exists and is used here, clearly labelled as ANALYSIS, not doctrine: the **XXXVI International Hegel Congress 2026, "Hegel Global,"** organised by the *Internationale Hegel-Gesellschaft* (Rome), foregrounds the global, trans-cultural and decolonial reception of Hegel's method — evidence that the dialectical method remains a live worldwide research object, asserting no doctrine and no unverifiable programme detail.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — the dialectical spiral (not a flat circle, and not a debate)
 
@@ -196,8 +184,6 @@ people, and not a technique the philosopher applies from outside** — is Hegel'
 
 > 🔑 **Memory line:** The dialectic is not applied *to* the concept from outside; it is what the concept *does*
 > to itself when you think it through rigorously and refuse to stop half-way.
-
-## LAYER 2 — CORE UPSC
 
 > **Syllabus (verbatim):** Hegel: Dialectical Method; Absolute Idealism.
 > **Placement:** Hegel is the culmination of German Idealism and a principal target of the analytic revolt.
@@ -278,8 +264,6 @@ abandoned).
 > argument. This single sentence is a guaranteed differentiator between a memorised script and a genuinely
 > informed one.
 
-## LAYER 3 — ADVANCED
-
 ### The deepest technical objection, and the two live scholarly cautions
 
 **Two cautions belong in any strong answer on the method itself**, before any objection is even raised:
@@ -311,8 +295,6 @@ naming in any 15/20-mark method answer, not only where the Logic-to-Nature seam 
 > as evidence that the dialectical method remains a live worldwide research object today; it asserts no doctrine
 > and adds no quantitative or attendance claim beyond what is verifiable.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### How the method itself is examined
 
 - **2019 Q1(c), 10 marks** — *the role of dialectics in realizing the truth in Hegel's philosophy* — is answered
@@ -332,8 +314,6 @@ lordship-bondage or the Unhappy Consciousness (Lessons 4–5) → the ascent to 
 **Directive trap:** "Explain the dialectical method," answered by defining thesis-antithesis-synthesis and
 stopping, scores low. **Always pair the abstract statement of the method with one worked instance** — that
 pairing is the single most examiner-rewarded move in this entire topic.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -360,8 +340,6 @@ Book context: [queried — canonical owner `Hegel.md` §1.3, §1.4, §T; verifie
 CA search: "Hegel Being Nothing Becoming Absolute self-development 2026"
 CA found: None verifiable as a live news hook — recorded honestly. The "2026 self-development question" in this lesson's title is the **verified 2026 Mains PYQ Q1(c)**, not a current-affairs item; it is examined here as doctrine, with no fabricated news linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — the triple sense of *Aufhebung*, and the opening move of the *Logic*
 
@@ -400,8 +378,6 @@ rather than a static, contentless start.
 
 > 🔑 **Memory line:** *Aufhebung* = cancel + preserve + raise, all at once; the emptiest possible thought (pure
 > Being) is exactly what forces itself onward first.
-
-## LAYER 2 — CORE UPSC
 
 ### 1. Sublation (*Aufhebung*) ✅
 
@@ -479,8 +455,6 @@ bare categories of the *Logic* to the **Absolute** itself. The demanded chain of
 > temporal creation, and do **not** substitute the unrelated observation that "everything changes" — the demand
 > is the precise logical identity of "being" and "self-developing becoming" *for the Absolute specifically*.
 
-## LAYER 3 — ADVANCED
-
 ### The two standing objections to the opening move, and Hegel's replies
 
 - **"Motion is smuggled in" (Trendelenburg).** If categories are static determinations, how can Being "pass over"
@@ -511,8 +485,6 @@ discarded mistakes; reject it, and Hegel has no argument against the plain view 
 stages — are simply false or superseded without remainder. The doctrine is therefore **load-bearing and
 unproved** — state this candidly in any 15/20-mark answer.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### How the triad, sublation and the 2026 question earn marks
 
 - The **first triad** is the compulsory *worked instance* whenever a question says "explain / discuss the
@@ -535,8 +507,6 @@ result.
 **Directive trap:** do not present Being–Nothing–Becoming as three things existing in temporal sequence; it is
 one self-destabilising thought. Do not answer 2026 Q1(c) as a question about temporal change in the ordinary
 sense — the demand is the *logical* identity of the Absolute's being and its self-development.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -563,8 +533,6 @@ Book context: [queried — canonical owner `Hegel.md` §1.5, §1.5A (restored ga
 CA search: "Hegel concrete universal system Logic Nature Spirit contemporary relevance"
 CA found: None verifiable — recorded honestly; this is architectural/logical doctrine with no live news hook.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — one method, three domains, nested triads, and one Concept with three moments
 
@@ -610,8 +578,6 @@ same* — he means their identity is maintained **through**, not by erasing, the
 > 🔑 **Memory line:** *"The True is the Whole"* — truth is the fully developed system, not any single stage in
 > it; and a universal is true only when it has *particularised* and *individualised* itself, not when it has been
 > stripped of every difference.
-
-## LAYER 2 — CORE UPSC
 
 ## PART A — Identity-in-difference and the Concept (restored gap)
 
@@ -692,8 +658,6 @@ emptiest category to the highest self-knowledge: each domain is the previous one
 *highest* form of Absolute Spirit because it grasps this whole in **conceptual** form (*Begriff*), rather than in
 art's sensuous form or religion's representational form (*Vorstellung*).
 
-## LAYER 3 — ADVANCED
-
 ### Panlogism, contingency and the charge of circularity
 
 The system's ambition invites three connected objections that any 20-mark answer on Absolute Idealism should
@@ -717,8 +681,6 @@ stage:
 imposed on reality from outside*; the further, stronger claim that the Absolute *knows itself through us* is the
 load-bearing extra that the analytic tradition (Moore, Russell — Lesson 10) rejected.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### How the architecture and the Concept are examined
 
 - **2021 Q2(a), 20 marks** — *how the dialectical method leads to Absolute Idealism* — is answered *through* this
@@ -737,8 +699,6 @@ Absolute → one objection (panlogism or circularity) with Hegel's retrospective
 **Directive trap:** "trace the development" wants *why each stage collapses into the next*, not a list of the
 three domains. Do not identify the Concept's three moments with the three divisions of Spirit — they are
 different architectural claims (see the Part A boundary caution).
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -767,8 +727,6 @@ Book context: [queried — canonical owner `Hegel.md` §1.7; no dedicated Hegel 
 CA search: "Hegel master slave dialectic recognition theory decolonial reception 2026"
 CA found: A genuine, dated scholarship anchor exists and is used here, clearly labelled as ANALYSIS, not doctrine: the **XXXVI International Hegel Congress 2026, "Hegel Global,"** foregrounds precisely the feminist, decolonial and recognition-theoretic reception of this passage — cited only as evidence the passage remains a live worldwide research object, not as doctrinal proof.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — the recognition flow and its reversal
 
@@ -804,8 +762,6 @@ Hegel is saying, is won through **work and mutual recognition**, not through dom
 
 > 🔑 **Memory line:** The master needs the slave to *be* a master; the slave needs only *work* to become free.
 
-## LAYER 2 — CORE UPSC
-
 ### 1. The concrete case that turns method into a theory of freedom ⚠️ (*Phenomenology of Spirit*, Ch. IV)
 
 The lordship-bondage passage is the most famous **concrete application** of the dialectic, and it matters because
@@ -831,8 +787,6 @@ recognition or final freedom. Recognition has failed on both sides, so self-cons
 external struggle into *thought* — which is exactly where Lesson 5 (Stoicism → Scepticism → Unhappy Consciousness)
 begins. **Answering a master-slave question without carrying it forward stops the argument halfway.**
 
-## LAYER 3 — ADVANCED
-
 ### The legacy, and the precise limit of what the passage proves
 
 This is the single most *influential* page Hegel wrote, and naming its heirs lifts an answer:
@@ -857,8 +811,6 @@ domination is self-undermining *in concept*, whatever the actual pace of history
 > live research text; the 2026 "Hegel Global" congress foregrounds precisely these trans-cultural readings. Cited
 > as scholarship, not doctrine.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### How the master-slave passage is deployed
 
 - It is the compulsory **"lived shape"** to pair with an abstract account of the method in *any* 15/20-mark
@@ -875,8 +827,6 @@ master's win is empty; why the slave's labour frees him) → carry through to th
 → close on freedom as *achieved*, not given.
 **Directive trap:** never stop at "the slave overturns the master"; the point is the *conceptual* instability of
 unequal recognition and its continuation into thought.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -899,8 +849,6 @@ Book context: [queried — canonical owner `Hegel.md` §1.8; cross-owned `Existe
 CA search: "Hegel unhappy consciousness religious alienation current relevance 2026"
 CA found: None verifiable — recorded honestly; this is a phenomenological/theological doctrine argued from 1807 with no live news hook.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — the consciousness ladder to Reason
 
@@ -937,8 +885,6 @@ particular set against the universal — and discovers the "beyond" was realised
 
 > 🔑 **Memory line:** Alienation here is **self-inflicted** — consciousness projects its own essence into a
 > beyond, then experiences itself as worthless before it.
-
-## LAYER 2 — CORE UPSC
 
 ### 1. Where this continuation sits, and its exact printed subterms ✅ (*Phenomenology of Spirit*, Ch. IV B)
 
@@ -988,8 +934,6 @@ consciousness) · *das Unwandelbare* (the **Unchangeable**) vs *das Wandelbare* 
 - **P3** The sequence is **logical, not chronological**: Stoicism, Scepticism and medieval piety are historical
   *illustrations* of a conceptual order, not a claim that history literally ran in that order.
 
-## LAYER 3 — ADVANCED
-
 ### The strongest objection in the whole file, and the two-directional legacy
 
 - **Kierkegaard (the strongest objection).** Existentially, the self's relation to the eternal is **not a stage
@@ -1015,8 +959,6 @@ analysis of alienation and *drop* the resolution; **Kierkegaard** takes the diag
 resolution is available. That both heirs are convincing is the best evidence that Hegel identified something real
 — and resolved it too quickly.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### How this passage is examined
 
 - It is the **completion** of any master-slave answer and the payoff of "dialectic within Spirit": a full-marks
@@ -1033,8 +975,6 @@ three moments of the Unhappy Consciousness → the reversal into Reason → clos
 (Feuerbach/Marx vs Kierkegaard).
 **Directive trap:** do not treat the three shapes as *historical* Stoics, Sceptics and medieval monks; they are a
 *logical* order merely illustrated by history.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1059,8 +999,6 @@ Book context: [queried — canonical owner `Hegel.md` §2.1, §2.2, §2.4A (rest
 CA search: "Hegel real is rational absolute idealism contemporary reading 2026"
 CA found: None verifiable — recorded honestly; this is core metaphysical doctrine with no live news hook.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — Substance vs Subject, and actual vs merely existent
 
@@ -1103,8 +1041,6 @@ something that *includes* the finite as its own moment.
 > 🔑 **Memory line:** *wirklich* (actual) is not the same as *Dasein* (merely existent); the Absolute *develops
 > and knows itself*, and it is infinite by *inclusion*, not by standing beyond.
 
-## LAYER 2 — CORE UPSC
-
 ### 1. Statement ✅
 
 **Absolute Idealism** is the claim that thought, nature and finite spirit are intelligible only within a
@@ -1142,8 +1078,6 @@ Spinozism**: unity that *develops*, rather than merely *is* — and it is precis
 Lesson 2's reflexive reading of 2026 Q1(c) (the Absolute's "being" is its own "becoming as self-development")
 was built to deliver.
 
-## LAYER 3 — ADVANCED
-
 ### Finite/infinite and the three forms of Spirit (restored gap)
 
 - A **bad or spurious infinite** (*schlechte Unendlichkeit*) stands **beyond** the finite in an endless "and so
@@ -1174,8 +1108,6 @@ was built to deliver.
   through us* — and it was **that** stronger claim, not the first, that Moore and Russell revolted against
   (Lesson 10).
 
-## LAYER 4 — EXAM APPLICATION
-
 ### How Absolute Idealism is examined
 
 - **2020 Q1(d), 10 marks** — *examine the reality of the phenomenal world in the light of Hegel's Absolute
@@ -1193,8 +1125,6 @@ Berkeleyan idea, not two-world Kant) → determinate negation preserves its part
 real but not ultimate.
 **Directive trap:** "Comment on 'the real is the rational'" *requires* disambiguating *wirklich* vs *Dasein* in
 the second line, or the sentence means the opposite of what Hegel intends.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1221,8 +1151,6 @@ Book context: [queried — canonical owner `Hegel.md` §2.3, §3; cross-owned `K
 CA search: "Hegel Kant phenomena noumena reality thought 2026"
 CA found: None verifiable as a live news hook — recorded honestly. The "2026 comparison" in this lesson's title is the **verified 2026 Mains PYQ Q4(b)** (Kant-primary), examined here as doctrine.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — three prongs against the wall, and the two Kant-owned comparison questions this lesson must also serve
 
@@ -1262,8 +1190,6 @@ question: is Hegel simply Kant's logical *endpoint* (2018), and how exactly do t
 | 3. Dualism self-defeats | an unknowable Real we somehow know exists |
 
 > 🔑 **Memory line:** If you can *think* the limit, the limit falls *within* thought.
-
-## LAYER 2 — CORE UPSC
 
 ## PART A — The three-pronged challenge (Hegel-owned, PYQ 2025 Q1(e))
 
@@ -1369,8 +1295,6 @@ of 2026 Q1(c) (Lesson 2). State both halves, then rule: Hegel's argument is deci
 but the further claim that reality *simply is* rational thought, fully self-transparent, remains the stronger,
 more contestable half of the comparison.
 
-## LAYER 3 — ADVANCED
-
 ### The full two-sided treatment the "Discuss" directive demands
 
 A two-sided answer must give Kant a genuine hearing at every step:
@@ -1389,8 +1313,6 @@ A two-sided answer must give Kant a genuine hearing at every step:
 establishes decisively; what remains open, across all three PYQs this lesson serves, is which remedy to accept:
 Kant's honest agnosticism, or Hegel's bolder claim to comprehend the rational Whole.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### How the challenge and the two Kant-owned comparisons are examined
 
 - **2025 Q1(e), 10 marks** — *how does Hegel challenge Kant's distinction between Phenomena and Noumena?* — is
@@ -1407,8 +1329,6 @@ knowledge-claim reading; the Strawson convergence seals the incoherence charge).
 **Directive trap:** "Discuss ... with reference to Kant" wants a **two-sided** engagement, not a one-sided
 demolition of Kant; give the noumenon-as-limiting-concept reply before ruling. Never claim 2018 Q2(b) or 2026
 Q4(b) as Hegel-owned PYQs.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1436,8 +1356,6 @@ Book context: [queried — canonical owner `Hegel.md` §2.5; no dedicated Hegel 
 CA search: "Hegel Logic Nature transition freely releases itself contemporary debate"
 CA found: None verifiable — recorded honestly; this is the system's own internal technical seam, argued from the *Encyclopaedia* (1817-30), with no live news hook.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — the seam of the system
 
@@ -1470,8 +1388,6 @@ does **not** claim to deduce every natural fact.
 | Does Hegel deduce all of nature? | no — "impotence of nature" → contingency |
 
 > 🔑 **Memory line:** "Free release" is a claim about *self-relating form*, not a creation myth.
-
-## LAYER 2 — CORE UPSC
 
 ### 1. The problem, stated exactly ✅
 
@@ -1520,8 +1436,6 @@ about what exists, but the sheer *that* of existence is the one thing his method
 post-Hegelian century divides into those who kept the dialectic and dropped the Idea (Marx) and those who kept
 existence and dropped the system (Kierkegaard) — the exact split argued in Lesson 10.
 
-## LAYER 3 — ADVANCED
-
 ### Why this seam is the single hardest problem in Hegel
 
 Knowing this problem, and defusing the caricature, marks a top answer. The four objections above already give the
@@ -1532,8 +1446,6 @@ presuppositionless account of everything real (not merely of what *any* real thi
 strong, and no stronger, than the "impotence of nature" concession allows. This is the honest limit of the
 Hegelian claim to systematic completeness — a limit Hegel himself names, rather than one imposed on him from
 outside.
-
-## LAYER 4 — EXAM APPLICATION
 
 ### How this "seam" earns marks
 
@@ -1550,8 +1462,6 @@ sich frei*, Idea in otherness) → the non-temporal/non-causal/logical clarifica
 (contingency) → Schelling's objection as the residual → verdict (coherent but not demonstrative).
 **Directive trap:** never present "free release" as a decision or a temporal creation; that hands the critic the
 personification objection for free.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1578,8 +1488,6 @@ Book context: [queried — canonical owner `Hegel.md` §2.6, §2.4A (restored et
 CA search: "Hegel philosophy of history Eurocentrism decolonial critique 2026"
 CA found: A genuine, dated scholarship anchor exists and is used here, clearly labelled as ANALYSIS, not doctrine: the **XXXVI International Hegel Congress 2026, "Hegel Global,"** foregrounds precisely the decolonial critique of Hegel's civilisational hierarchy and his reception *outside* Europe — cited only as evidence of live scholarly engagement with exactly this weakness, not as doctrinal proof.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — the logic of freedom's advance
 
@@ -1617,8 +1525,6 @@ civil society and the state.
 
 > 🔑 **Memory line:** History = the *progress of the consciousness of freedom*, driven by contradiction and the
 > cunning of reason, institutionally housed in objective Spirit's ethical-life ladder.
-
-## LAYER 2 — CORE UPSC
 
 ## PART A — The three stages, the mechanism and the cunning of reason (PYQ 2023 Q1(b))
 
@@ -1676,8 +1582,6 @@ rationalise victors and understate contingency, colonialism, class and gender ex
 > consciousness of freedom and the cunning of reason, then **qualify** with teleology and Eurocentrism. Do not
 > offer the civilisation list alone as if it were proof of anything.
 
-## LAYER 3 — ADVANCED
-
 ### Retrospective necessity, Popper, and the defensible residue
 
 - **Retrospective necessity (the core problem).** The reading is **retrospective interpretation presented as
@@ -1701,8 +1605,6 @@ rationalise victors and understate contingency, colonialism, class and gender ex
 > The honest, adjudicated verdict: the *predictive* pretension fails and the *Eurocentric ordering* is
 > indefensible as stated; the *immanent-critique* core endures.
 
-## LAYER 4 — EXAM APPLICATION
-
 ### How the philosophy of history is examined
 
 - **2023 Q1(b), 10 marks** — *"History is a process of dialectical change." In light of this statement discuss
@@ -1719,8 +1621,6 @@ telos (rational self-determination) → one line of critique (retrospective nece
 the answer is not merely expository.
 **Directive trap:** "How does history exhibit dialectic?" wants a *mechanism plus a telos with instances*, not a
 bare list of civilisations, and not a celebration of "the state" without qualification.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1746,8 +1646,6 @@ Book context: [queried — canonical owner `Hegel.md` §2.7, §3, §3.1, §4; cr
 CA search: "Hegel Berkeley Spinoza Kierkegaard Marx Popper Strawson comparison 2026"
 CA found: None verifiable — recorded honestly; these are inter-thinker doctrinal comparisons with no live news hook.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 — SIMPLE START
 
 ### Visual gateway — one method ("fix the axis first"), applied to every pairing
 
@@ -1779,8 +1677,6 @@ the later thinker **kept** from Hegel and what he **dropped**.
 | Kant | is there a residue? | permanent noumenal residue | no residue — all sublated |
 
 > 🔑 **Memory line:** Fix the axis, then compare — never two parallel descriptions with no criterion joining them.
-
-## LAYER 2 — CORE UPSC
 
 ## PART A — Berkeley, Spinoza and Kant (the "fix the axis" template, generalised)
 
@@ -1900,8 +1796,6 @@ ordinary — two traditions that despise each other's *methods* converge on the 
 > (*descriptive* metaphysics). Hegel's own list of targets (a reified, causally-affecting thing-in-itself) is
 > exactly the kind of doctrine Strawson would also classify as revisionary — from the opposite direction.
 
-## LAYER 3 — ADVANCED
-
 ### The complete criticisms-and-replies ledger ✅
 
 | Critic | Objection | Hegel's possible reply / evaluation |
@@ -1921,8 +1815,6 @@ ordinary — two traditions that despise each other's *methods* converge on the 
 dialectic, dropped Idea; Feuerbach kept alienation, dropped resolution; Kierkegaard kept the diagnosis, denied the
 cure; Bradley kept internal relations. **"Hegel influenced Marx" with no content scores nothing.**
 
-## LAYER 4 — EXAM APPLICATION
-
 ### How the comparisons are examined
 
 - **2024 Q2(a) [Empiricism-owned], 20 marks** — the Berkeley/Hegel half is answered from Part A, §1: fix the axis
@@ -1938,8 +1830,6 @@ summaries) → the "kept/dropped" ledger for the specific pairing → verdict on
 vs matter; diagnosis vs cure).
 **Directive trap:** "Distinguish Hegel from Berkeley" with two separate descriptions and no axis is the classic
 low-scoring answer; the axis *is* the answer. Never claim a cross-owned PYQ as Hegel-owned.
-
-## LAYER 5 — RAPID REVISION
 
 ### Rapid recall
 
@@ -1967,8 +1857,6 @@ CA search: "Hegel UPSC Philosophy Paper I answer writing 2026"
 CA found: None verifiable as a live news hook — recorded honestly; this lesson consolidates verified doctrine and verified PYQs only.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
 ### Visual gateway — the whole topic in one answer-writing spine
 
 ```text
@@ -1989,8 +1877,6 @@ text/term, give the worked moment or example, raise one objection with Hegel's r
 verdict.** This final lesson turns that spine into a complete, examiner-ready toolkit: a directive decoder, a
 graded verdict bank, every trap and keyword, all 7 verified primary PYQs fully solved, a 44-question MCQ bank,
 original Mains practice, and consolidated register notes.
-
-## LAYER 2 — CORE UPSC
 
 ## PART A — Comparative synthesis, criticisms and traps
 
@@ -2097,7 +1983,7 @@ original Mains practice, and consolidated register notes.
 | Year | Question | Marks | Primary owner | Hegel-half taught in |
 |---|---|---:|---|---|
 | 2018 | Q2(b) | 15 | Kant | Lesson 7, Part B |
-| 2022 | Q4(a) | 20 | Existentialism | Lesson 5, Layer 3; Lesson 10, Part B |
+| 2022 | Q4(a) | 20 | Existentialism | Lesson 5; Lesson 10, Part B |
 | 2023 | Q1(d) | 10 | Existentialism | Lesson 10, Part B |
 | 2024 | Q2(a) | 20 | Empiricism | Lesson 10, Part A |
 | 2026 | Q4(b) | 15 | Kant | Lesson 7, Part C |
@@ -3321,7 +3207,7 @@ Hegel's reply, and close with a bounded verdict.**
 | Year | Q. | Owner | Content location |
 |---|---|---|---|
 | 2018 | Q2(b) | `Kant.md` | Lesson 7, Part B |
-| 2022 | Q4(a) | `Existentialism.md` | Lesson 5, Layer 3; Lesson 10, Part B |
+| 2022 | Q4(a) | `Existentialism.md` | Lesson 5; Lesson 10, Part B |
 | 2023 | Q1(d) | `Existentialism.md` | Lesson 10, Part B |
 | 2024 | Q2(a) | `Empiricism.md` | Lesson 10, Part A |
 | 2026 | Q4(b) | `Kant.md` | Lesson 7, Part C |

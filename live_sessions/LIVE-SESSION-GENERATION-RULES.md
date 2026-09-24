@@ -171,6 +171,53 @@ The final coverage-lock matrix must prove that every syllabus term, canonical do
 advanced refinement, argument, criticism, reply and verified PYQ is present. Existing
 packages are evidence sources and completeness checks, never unquestioned templates.
 
+## Structural Format Lock — Original Terminal Flow
+
+Before generating or repairing any live learning session, read this rule and the full
+**Required Lesson Structure** below. The learner-facing structure must reproduce the
+integrated flow of the original terminal teaching sessions, not the visible scaffolding
+of an existing layered source package.
+
+Every lesson must flow directly as:
+
+```text
+Progress line
+  -> Pre-teach checklist
+  -> Visual
+  -> Plain-language intuition
+  -> Named or numbered doctrine sections
+  -> Arguments and examples
+  -> Comparisons, criticisms and replies
+  -> UPSC application
+  -> Revision notes
+  -> Practice
+```
+
+The following repeated learner-facing wrapper headings are **prohibited**:
+
+```text
+LAYER 1 — SIMPLE START
+LAYER 2 — CORE UPSC
+LAYER 3 — ADVANCED
+LAYER 4 — EXAM APPLICATION
+LAYER 5 — RAPID REVISION
+```
+
+These are source-package assembly labels, not live-session teaching headings. Their
+underlying content remains mandatory and must be integrated naturally into the lesson;
+only the visible wrapper scaffolding is removed. Do not describe a live session as a
+"five-layer session" or claim that each lesson carries five retained layers.
+
+Existing layered packages may be used to audit completeness, recover missing doctrine
+and verify practice coverage. They must never control the learner-facing structure.
+The original terminal flow controls structure across Indian Philosophy, Western
+Philosophy, Economy and every future subject.
+
+**Pre-generation structural check:** before drafting the first lesson, confirm that the
+planned template contains no `LAYER 1`–`LAYER 5` wrapper headings. **Final structural
+check:** the completed file must contain zero such headings and zero five-layer-template
+claims.
+
 ## Required Lesson Structure
 
 Each lesson must contain:

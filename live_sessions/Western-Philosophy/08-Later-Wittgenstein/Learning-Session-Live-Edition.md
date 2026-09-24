@@ -45,15 +45,9 @@ generated_from:
 
 ## How to Use This Live Session
 
-Every logical lesson follows the same retained five-layer sequence:
-
-| Layer | Purpose |
-|---:|---|
-| 1. SIMPLE START | visual-first entry, plain-language problem statement, intuitive analogy |
-| 2. CORE UPSC | exact doctrine, PI anchors, argument steps, examples and distinctions |
-| 3. ADVANCED | objections, strongest replies, interpretive disputes and bounded comparisons |
-| 4. EXAM APPLICATION | verified PYQ routing, demand decoding, answer architecture and examiner traps |
-| 5. RAPID REVISION | compressed recall spine, distinctions to preserve and practice routing |
+Each lesson follows one integrated terminal flow, without separate named layers: **Progress → checklist →
+visual → intuition → doctrine/argument/examples → comparison/criticism → UPSC application →
+revision/practice**.
 
 Read the document as one continuous weapon, not as twelve disconnected notes. The decisive thread begins in **Lesson 2**: meaning is not a private idea but a public, trained, norm-governed use. That one anti-mentalist thread then feeds directly into **Lesson 6** (why rules cannot be grounded in private interpretations), **Lesson 7** (why an essentially private language collapses), and **Lesson 8** (why inner-process vocabulary still needs outward criteria without reducing the mind to behaviour). If you keep that thread in view, later Wittgenstein stops looking like a bag of examples and starts looking like one connected philosophical campaign.
 
@@ -101,9 +95,7 @@ CA search: "later Wittgenstein transition from picture theory to use theory 2026
 CA found: None in the last 6 months. This is a timeless philosophy-of-language transition; no high-signal current-affairs anchor was verified, so none is fabricated.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — one philosopher, two pictures of meaning
+## Visual gateway — one philosopher, two pictures of meaning
 
 ```text
 THE SAME THINKER, TWO MODELS OF LANGUAGE
@@ -132,9 +124,7 @@ Caption: the later break is not from seriousness to casualness; it is a shift fr
 | model language on factual representation | model language on trained practices |
 | philosophical problem = missing theory | philosophical problem = confusion about use |
 
-## LAYER 2 — CORE UPSC
-
-### Part A — what exactly changes? ✅
+## Part A — what exactly changes? ✅
 
 The early *Tractatus* clause is owned elsewhere, so this lesson names only the load-bearing features needed for the transition questions. The early view treats a proposition as a **logical picture** of a possible fact, sharing logical form with what it depicts. The later view rejects the demand that one model must govern all meaningful language.
 
@@ -144,7 +134,7 @@ The early *Tractatus* clause is owned elsewhere, so this lesson names only the l
 | meaning is secured by picturing a possible fact | meaning is clarified by use in a language-game | many expressions do not function by naming or depicting at all |
 | philosophical clarity comes from ideal logical reconstruction | philosophical clarity comes from grammatical description of actual use | the philosopher stops building a perfect calculus and starts mapping actual practices |
 
-### Part B — the main reasons for the shift ✅
+## Part B — the main reasons for the shift ✅
 
 1. **The picture model is too narrow.** The Augustinian naming picture works tolerably for some nouns, but collapses for words like “if,” “five,” “perhaps,” “pain,” or “game.” If meaning were always naming, these common expressions would become philosophically unintelligible.
 2. **Ordinary language shows genuine multiplicity.** Once we actually look at how language works, we do not find one activity called “representation” everywhere; we find ordering, greeting, warning, joking, requesting, praying and reporting.
@@ -153,22 +143,20 @@ The early *Tractatus* clause is owned elsewhere, so this lesson names only the l
 
 > ⚠️ **Boundary discipline:** the colour-exclusion pressure, pictorial form, logical space and saying/showing belong to the earlier owner. They matter here only as the background pressure that makes the later reorientation intelligible.
 
-### Part C — how to state the transition without caricature ✅
+## Part C — how to state the transition without caricature ✅
 
 A poor answer says: “early Wittgenstein liked ideal language; later Wittgenstein liked ordinary language.” That is too shallow. A better answer says: the early project searches for the **conditions of factual sense** in a single logical form; the later project argues that language has **many functions**, so the demand for one explanatory essence is itself misleading. This preserves continuity — both phases are still concerned with clarification — while also naming the real reversal.
 
-### Part D — the 2023 and 2025 transition questions are already latent here ✅
+## Part D — the 2023 and 2025 transition questions are already latent here ✅
 
 - **2023 Q4(c)** asks for the reasons for the shift. Those reasons are: narrowness of the naming/picture model, plurality of uses, rejection of the ideal-language demand, and the move from explanation to description.
 - **2025 Q3(a)** asks for the transition with reference to the statement about not looking to an ideal language with precise logical structure but to actual use. The answer must therefore move from early picture/logical-form language to later use/language-games/therapy.
 
-## LAYER 3 — ADVANCED
-
-### Do not turn the early view into a straw man
+## Do not turn the early view into a straw man
 
 The later Wittgenstein revises the earlier project; he does not merely discover that ordinary language exists. Even the *Tractatus* already took ordinary propositions seriously as meaningful. What changes is the conviction that a **single general account** of meaning can underwrite them all.
 
-### Strongest objection → strongest reply
+## Strongest objection → strongest reply
 
 | Objection | Reply |
 |---|---|
@@ -176,13 +164,11 @@ The later Wittgenstein revises the earlier project; he does not merely discover 
 | If there is no general theory of meaning, the later view seems intellectually weaker. | Wittgenstein's reply is that a false generality is not strength. Fidelity to linguistic life may require many local clarifications rather than one grand theory. |
 | The break seems overdrawn because both phases remain anti-metaphysical in different ways. | Correct — continuity exists. The difference is not “serious vs unserious” but “single logical essence vs plurality of uses.” |
 
-### Printed anomaly control for 2025
+## Printed anomaly control for 2025
 
 The official 2025 question prints an unmatched opening single quotation mark before **logical structure**. That anomaly must be retained and explicitly noted once. It is a printed-paper fact, not an invitation to “silently improve” the question.
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - **2023, Q4(c), 15 marks:** open with the early/later contrast, then name the ordered reasons for the shift, then close with the methodological payoff: philosophy becomes descriptive and therapeutic.
 - **2025, Q3(a), 20 marks:** begin by preserving the printed quotation anomaly; then use the statement itself as the hinge from ideal logical structure to actual use. Build the answer in three moves: early picture/logical form → reasons for breakdown → later use/language-games/therapy.
@@ -196,9 +182,7 @@ Frame the same thinker across two phases
 → close with therapy and one balanced qualification
 ```
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 - Early: one logical form, picture of fact, ideal explanatory ambition.
 - Later: use, plurality, language-games, no single essence.
@@ -217,9 +201,7 @@ CA search: "later Wittgenstein meaning as use private ideas 2026 philosophy opti
 CA found: None in the last 6 months. The enduring relevance is conceptual: the lesson underwrites present philosophy-of-language and mind debates about normativity and public meaning, but there is no direct current-affairs hook to force.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the toolbox and the anti-mentalist turn
+## Visual gateway — the toolbox and the anti-mentalist turn
 
 ```text
 WORDS ARE MORE LIKE TOOLS THAN LIKE LABELS
@@ -244,9 +226,7 @@ Caption: the toolbox analogy blocks the idea that every word must do one job cal
 
 **Plain-language start.** If someone asks what a hammer “really refers to,” the question misses the point. A hammer is for doing something. Later Wittgenstein thinks many words are like that: their meaning lies in the role they play in a practice. To understand a word is not to carry around a hidden private picture; it is to know how to use the word correctly, in the right setting, with the right kind of continuation.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — PI §43 must be quoted with its qualification ✅
+## Part A — PI §43 must be quoted with its qualification ✅
 
 > ✅ *“For a large class of cases — though not for all — in which we employ the word ‘meaning’ it can be defined thus: the meaning of a word is its use in the language.”* (PI §43)
 
@@ -258,7 +238,7 @@ That qualification is doctrinal, not decorative. Wittgenstein is **not** saying:
 
 He **is** redirecting us from an occult inner object to the role an expression plays in a rule-governed public practice.
 
-### Part B — the Augustinian picture, the toolbox and mastery of technique ✅
+## Part B — the Augustinian picture, the toolbox and mastery of technique ✅
 
 The opening target in *Philosophical Investigations* is the **Augustinian picture** of language: words name objects, and sentences are combinations of such names. Wittgenstein does not say this picture is always false. He says it is **one primitive language-game among others**, and it becomes misleading when treated as the essence of all language.
 
@@ -271,7 +251,7 @@ The opening target in *Philosophical Investigations* is the **Augustinian pictur
 
 To understand a word is to display **mastery of a technique**. This is why later Wittgenstein constantly returns to training, drill, examples and correction rather than to inward inspection.
 
-### Part C — ostensive definition does not interpret itself ✅
+## Part C — ostensive definition does not interpret itself ✅
 
 Ostensive definition looks simple: point to a red patch and say “red.” But the sample does not tell the learner by itself whether “red” means colour, shape, number, texture, material, direction or location. The learner must already have some training and some place within a practice.
 
@@ -283,7 +263,7 @@ Ostensive definition looks simple: point to a red patch and say “red.” But t
 
 This is why the semantic-completeness review insisted on restoring ostension, ambiguity and training. Without them, “meaning is use” becomes a slogan rather than an argument.
 
-### Part D — the full anti-mentalism argument for 2026 Q3(c) ✅
+## Part D — the full anti-mentalism argument for 2026 Q3(c) ✅
 
 **Question owned here (2026, Q3(c), 15 marks):** *“Can words be viewed as the ideas in the mind of the person who uses them? Answer with reference to the philosophy of later Wittgenstein.”*
 
@@ -297,9 +277,7 @@ Wittgenstein's answer is **No — not if “ideas in the mind” are meant to co
 
 > ⚠️ **Necessary qualification:** Wittgenstein does **not** deny that mental images or ideas occur. He denies only that such inner accompaniments **constitute** meaning. The target is semantic mentalism, not the existence of inner life.
 
-## LAYER 3 — ADVANCED
-
-### Strong objections → strongest replies
+## Strong objections → strongest replies
 
 | Objection | Reply |
 |---|---|
@@ -307,13 +285,11 @@ Wittgenstein's answer is **No — not if “ideas in the mind” are meant to co
 | If inner imagery does not ground meaning, is Wittgenstein denying thought? | No. He denies grounding, not occurrence. Images may accompany speech, but they do not fix standards of correctness. |
 | Does the use account collapse into conventionalism? | No. Training and public standards matter, but they are not arbitrary decrees; they are embedded in forms of life and practical continuation. |
 
-### Why Lesson 2 is the hidden engine of Lessons 6–8
+## Why Lesson 2 is the hidden engine of Lessons 6–8
 
 The anti-mentalist argument already contains the later sequence in embryo. Once meaning is not grounded in a private idea, a rule cannot be grounded in a private interpretation (**Lesson 6**); a language cannot be grounded in a logically private sensation (**Lesson 7**); and inner-process vocabulary needs outward criteria without becoming behaviourism (**Lesson 8**).
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - **2026 Q3(c), 15 marks:** definition of the target (words as private mental ideas) → five-step anti-mentalist argument → qualification that imagery may occur without constituting meaning → link to public, trained use.
 - **2023 Q4(c) and 2025 Q3(a):** after explaining the shift away from picture-theory, use Lesson 2 to state the positive later position.
@@ -327,9 +303,7 @@ Reject private-idea semantics
 → conclude with public, trained, rule-governed use
 ```
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 - Quote §43 with the hedge: **“for a large class of cases — though not for all.”**
 - Augustinian picture = naming model, not universal truth.
@@ -349,9 +323,7 @@ CA search: "family resemblance later Wittgenstein UPSC 2018 language is a game r
 CA found: None in the last 6 months. This lesson is exam-relevant through a stable conceptual PYQ route rather than a dated current-affairs event.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — two analogies, one anti-essentialist lesson
+## Visual gateway — two analogies, one anti-essentialist lesson
 
 ```text
 A FAMILY                                   A ROPE
@@ -371,28 +343,24 @@ Caption: family resemblance does not mean chaos; it means overlapping continuiti
 
 **Plain-language start.** Philosophers often assume that if we use one word for many things, there must be one common essence in all of them. Wittgenstein says: look more carefully. With “game” we find contest, amusement, skill, luck, rules, competition, solitary play and team play — but not one single feature in every case. What unifies the cases is a network of overlaps.
 
-## LAYER 2 — CORE UPSC
-
 The standard example is **games**. There is no one feature that every game possesses and that only games possess. Instead there are “overlapping and criss-crossing similarities.”
 
-### Core claims ✅
+## Core claims ✅
 
 1. **No single necessary-and-sufficient essence need underwrite a concept.**
 2. **Concepts can have open texture.** New cases can be admitted without a master-rule having already dictated every future extension.
 3. **Method:** “Don't think, but look.” We must examine actual uses rather than assume an essence in advance.
 4. **Family resemblance supports language-games.** If “game” itself lacks a single essence, then calling language a “game” does not smuggle in one hidden model of language. It frees us from essence-hunting.
 
-### Why the rope analogy matters as much as the family analogy ✅
+## Why the rope analogy matters as much as the family analogy ✅
 
 The family analogy shows recurring but non-identical traits. The **rope analogy** shows how continuity is possible without a single thread running through the whole. This is especially valuable in exam answers because it rebuts the lazy objection that “if no one feature is common, then the category has no unity at all.” Unity can be overlapping rather than singular.
 
-### Family resemblance and open concepts ✅
+## Family resemblance and open concepts ✅
 
 “Game” is an **open concept**: new uses can arise and still count as legitimate extensions. This does not mean anything can count as a game. It means the concept lives through a historically extended practice rather than through a timeless essence.
 
-## LAYER 3 — ADVANCED
-
-### Strong essentialist objections → strongest replies
+## Strong essentialist objections → strongest replies
 
 | Objection | Wittgensteinian / defender's reply |
 |---|---|
@@ -400,13 +368,11 @@ The family analogy shows recurring but non-identical traits. The **rope analogy*
 | Without an essence, we cannot distinguish games from non-games. | Often we can distinguish them locally and competently without one universal defining formula common to all cases. |
 | Open texture invites relativism. | Open texture means revisable extension, not arbitrary extension; correction and training still operate. |
 
-### What family resemblance denies — and what it does not deny
+## What family resemblance denies — and what it does not deny
 
 It denies that every meaningful concept must have **one universal essence**. It does **not** deny that some concepts can be sharply defined, or that many local criteria operate within a family of uses.
 
-## LAYER 4 — EXAM APPLICATION
-
-### 2018, Q1(c), 10 marks — exact route
+## 2018, Q1(c), 10 marks — exact route
 
 **Question:** *“How does the notion of 'family resemblance' help Wittgenstein to uphold that 'Language is a game'? Discuss.”*
 
@@ -415,9 +381,7 @@ Answer in three steps:
 2. show that “language” also names many heterogeneous practices rather than one essence;
 3. conclude that “language is a game” is an anti-essentialist clarification, not a metaphor resting on a concealed common feature.
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 - Example: games, not triangles.
 - Two analogies: family traits; overlapping fibres of a rope.
@@ -436,9 +400,7 @@ CA search: "language games builders example later Wittgenstein UPSC philosophy 2
 CA found: None in the last 6 months. The teaching value here is doctrinal rather than news-linked, so the checklist records the absence honestly.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the builders and the activity matrix
+## Visual gateway — the builders and the activity matrix
 
 ```text
 BUILDERS' LANGUAGE-GAME (PI §2 / §8)
@@ -458,43 +420,37 @@ Caption: the builders' example is primitive, but it is not meaningless or incomp
 
 **Plain-language start.** A language-game is not just a set of words. It is the whole consisting of the words **and** the activity in which they operate. The builders' exchange shows that even a tiny vocabulary can count as a complete language for a specific practice.
 
-## LAYER 2 — CORE UPSC
-
-### The builders' example and its lesson ✅
+## The builders' example and its lesson ✅
 
 The builders' language is deliberately primitive. Wittgenstein uses it to show that a functioning language need not first derive meaning from a hidden essence of representation. A word can work as an order, a cue, a trained move within an activity.
 
-### Multiplicity of language-games ✅
+## Multiplicity of language-games ✅
 
 PI §23 expands the point: giving orders, describing, reporting, speculating, joking, thanking, cursing, greeting, praying and so on. The importance of the list is not completeness but plurality.
 
-### Rules and training ✅
+## Rules and training ✅
 
 Language-games are **rule-governed**, but this does not mean that every speaker carries an explicit rulebook in consciousness. Children are drilled into practices through examples, correction, imitation and habituation. The rules are learned in the practice itself.
 
-### Embeddedness in activity ✅
+## Embeddedness in activity ✅
 
 Language is “woven into” non-linguistic activity. That is why later Wittgenstein can move from language-games to **forms of life** without a gap. Words operate against a background of doing.
 
-### Grammar as constitutive rule-system ✅
+## Grammar as constitutive rule-system ✅
 
 Grammar here means the rules that make a move count as this move rather than that one. Later Wittgenstein repeatedly warns that superficial grammatical similarity can mislead. Two sentences may look alike on the surface while doing very different jobs. This point returns in **Lesson 9** when philosophy is described as a battle against linguistic bewitchment.
 
-## LAYER 3 — ADVANCED
-
-### The builders are primitive, but not reductive
+## The builders are primitive, but not reductive
 
 A common mistake is to think Wittgenstein wants all mature language reduced to the builders' game. He does not. He calls it primitive precisely because it isolates one simple case. Primitive cases illuminate mature language without exhausting it.
 
-### Strong objection → strongest reply
+## Strong objection → strongest reply
 
 | Objection | Reply |
 |---|---|
 | If language-games differ so much, language becomes an arbitrary free-for-all. | No. Games are rule-governed and trained. Variety is not anarchy. |
 | If the builders' case is too simple, it teaches us nothing about thought. | Its value is diagnostic: it breaks the assumption that all meaning must be description or naming. |
 | If games vary indefinitely, meaning loses stability. | Stability is local and practical, not metaphysically absolute. That is enough for correction and understanding. |
-
-## LAYER 4 — EXAM APPLICATION
 
 Language-games do not own a standalone verified PYQ among the eight primary parts, but they are indispensable to:
 - **2018 Q1(c)** (language as game);
@@ -503,9 +459,7 @@ Language-games do not own a standalone verified PYQ among the eight primary part
 
 **Reusable line:** *Language-game means the whole consisting of language and the activity into which it is woven; the builders' example shows that meaning can be constituted by trained use within a practice rather than by private naming or ideal representation.*
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 - Builders' example = primitive but complete for its function.
 - Language-game = language + activity.
@@ -524,9 +478,7 @@ CA search: "form of life later Wittgenstein 2022 UPSC printed motion notion of l
 CA found: None in the last 6 months. The 2022 route is a stable, previously-set PYQ, not a dated news event; recorded honestly.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — digging down to bedrock
+## Visual gateway — digging down to bedrock
 
 ```text
 JUSTIFICATION HAS A FLOOR
@@ -551,21 +503,19 @@ Caption: every chain of justification runs out somewhere. What it runs out into,
 
 **Plain-language start.** Why does "2, 4, 6, 8" continue with "10" and not some bizarre alternative? At some point you cannot give a further reason; you just act, the way everyone trained the same way acts. That shared floor of trained reaction — not a private insight and not an infinite chain of proofs — is what Wittgenstein calls a **form of life**.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — PI §19: language and a form of life are inseparable ✅
+## Part A — PI §19: language and a form of life are inseparable ✅
 
 > ✅ *"To imagine a language means to imagine a form of life."* (*Investigations* §19)
 
 Language-games (Lesson 4) do not float free; each rests on shared human practices, activities and natural reactions — Wittgenstein's sparse remarks on **form of life** (*Lebensform*).
 
-### Part B — agreement in judgments, not agreement in opinions ✅
+## Part B — agreement in judgments, not agreement in opinions ✅
 
 > ✅ Wittgenstein distinguishes agreement **in form of life** from agreement in **opinions**. Speakers must already agree in a great many practical judgments (what counts as measuring, counting, following an order, calling something the "same colour") for disagreement in *opinion* to even be possible.
 
 This distinction is the load-bearing one the semantic-completeness review restored: without it, "agreement" collapses into "whatever the majority currently believes," which is a different (and false) claim. Agreement in judgments is a precondition for shared language; agreement in opinion is a contingent, revisable outcome reached *using* that shared language.
 
-### Part C — the lion remark and the bedrock of justification ✅
+## Part C — the lion remark and the bedrock of justification ✅
 
 > ✅ *"If a lion could talk, we could not understand him."*
 
@@ -573,7 +523,7 @@ This warns that vocabulary alone may not bridge radically different natural hist
 
 > ✅ At the bedrock of rule-following, explanations end in trained action — *"This is simply what I do"* (§217). This does not identify every rule with majority behaviour or imply that each culture is immune to criticism; it marks where justification gives way to practice.
 
-### Part D — natural or cultural? keep the question open ✅⚠️
+## Part D — natural or cultural? keep the question open ✅⚠️
 
 "Forms of life" occurs only a handful of times in the *Investigations* (§19, §23, §241 and Part II/PPF), and Wittgenstein never states a developed theory of which forms of life are shared. Two live readings exist:
 
@@ -584,25 +534,21 @@ This warns that vocabulary alone may not bridge radically different natural hist
 
 ⚠️ Do not present either reading as Wittgenstein's own stated theory; he supplies too little text to settle the dispute, and the exam-safe move is to name both readings and their respective cautions, then apply whichever is relevant to the question asked (naturalistic for the lion remark, either for the 2022 tenability question).
 
-## LAYER 3 — ADVANCED
-
-### The claims that carry the marks
+## The claims that carry the marks
 
 1. Language-games rest on forms of life; this is what stops "meaning is use" from floating free of any practical anchor.
 2. Agreement in judgments is presupposed by the very possibility of communicating and disagreeing in opinions — it is not itself one more opinion.
 3. The lion remark is about natural-history/activity distance, not a general thesis of cultural incommensurability.
 4. Bedrock ("this is simply what I do") ends justification without collapsing normativity into arbitrary behaviour — the practice is still trained, correctable and shared, not a private whim.
 
-### Strongest objection → reply
+## Strongest objection → reply
 
 | Objection | Reply |
 |---|---|
 | If agreement in judgments is required for language, doesn't disagreement across radically different communities make mutual understanding impossible — a worrying relativism? | Wittgenstein's remarks support a *modest* claim: understanding requires *enough* shared practical background, not identical practices in every respect. Cross-community understanding is a matter of degree, and the naturalistic reading (shared human biology/reactions) supplies a floor beneath most human cultural variation. The full relativism worry is argued in Lesson 11, Part E. |
 | "This is simply what I do" sounds like an appeal to brute fact that could excuse any entrenched practice from criticism. | Bedrock ends the regress of *justification*, not the possibility of *reform*. Practices can still be criticised by appeal to their own internal standards, consequences, or comparison with other practices; what bedrock blocks is the demand for an infinite regress of further reasons before any practice counts as legitimate. |
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - **2022 Q1(c), 10 marks:** *"Establish the tenability of later Wittgenstein's motion of language as form of life."* 📝 **Printed-wording anomaly (preserved verbatim):** the official English line itself prints **"motion"**; it is retained rather than silently changed to "notion," with the slip noted once before answering the intended question.
   - Route: PI §19 → agreement in judgments, not opinions → lion remark (natural-history caution) → bedrock (§217) → tenability verdict: defensible because it locates meaning's ground in shared practice rather than private mind or abstract logic; the fair limit is that "form of life" is under-defined, risking relativism if the naturalistic floor is forgotten.
@@ -616,9 +562,7 @@ Preserve printed "motion" → gloss as intended "notion"
 → tenability verdict with one honest limit
 ```
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 - PI §19: "to imagine a language means to imagine a form of life."
 - Agreement in **judgments**, not mere agreement in **opinions** — the precondition, not the product, of shared language.
@@ -638,9 +582,7 @@ CA search: "rule following paradox Wittgenstein Kripke sceptical solution UPSC p
 CA found: None in the last 6 months. This is a standing interpretive dispute in analytic philosophy, not a dated news event.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the rule-following regress, and where it stops
+## Visual gateway — the rule-following regress, and where it stops
 
 ```text
 THE PARADOX (PI §201)
@@ -666,9 +608,7 @@ Caption: the paradox threatens to make "following a rule" meaningless, because a
 
 **Plain-language start.** You think "add 2" obviously means what it means. But strictly, any finite set of past examples ("2 → 4," "4 → 6" ...) is compatible with infinitely many different rules that happen to agree so far and diverge later (like the "add 2 until 1000, then add 4" rule). If a rule needs an interpretation to fix its meaning, and every interpretation itself needs a further interpretation, nothing is ever fixed. Wittgenstein's answer is that following a rule is not a matter of correctly interpreting it in your head at all — it is a trained, practical ability, the sort of thing shown by doing it right, not decided by an inner mental act beforehand.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — the problem and Wittgenstein's own resolution ✅
+## Part A — the problem and Wittgenstein's own resolution ✅
 
 **The problem (§201):**
 
@@ -682,13 +622,13 @@ If *any* action can be made to "accord with" the rule under some interpretation,
 
 Wittgenstein's response: following a rule cannot consist solely in attaching an interpretation, because another interpretation would be needed to fix its application. Rule-following is exhibited in trained practice and circumstances of correction. This rejects an infinite interpretive regress without reducing normativity to behavioural regularity or a majority vote.
 
-### Part B — practice, custom and "going on" ✅
+## Part B — practice, custom and "going on" ✅
 
 - Following a rule is a **practice** (*Praxis*) — a custom, an institution, something one has been trained into and can go on doing correctly or incorrectly.
 - "Going on in the same way" (as in continuing a number series) is the paradigm case: competent training lets a learner extend the series to new cases without needing, and without being able to cite, a further interpretive act that settles the matter in advance.
 - This does **not** mean "whatever the trainee in fact does counts as correct" — mistakes remain possible, and correction remains possible, precisely because the practice carries its own standards.
 
-### Part C — the community-vs-individual dispute, and Kripkenstein ⚠️
+## Part C — the community-vs-individual dispute, and Kripkenstein ⚠️
 
 **The dispute.** Does rule-following *require* an actual community of other rule-followers to check against (a **communitarian** reading), or can a solitary individual, suitably trained, follow a rule correctly on their own, provided the practice contains a genuine standard of correctness beyond present impression (an **individualist/practice** reading)? Wittgenstein's own text under-determines this; the dispute is a scholarly one about how to read §198–§202 and §258.
 
@@ -707,28 +647,24 @@ Wittgenstein's response: following a rule cannot consist solely in attaching an 
 
 > ⚠️ **Verdict to deploy:** keep "Kripkenstein" explicitly labelled as *Kripke's* construction throughout an answer. The safest 15/20-mark move is to state the sceptical paradox, state the sceptical solution, and then take a reasoned side (most examiners reward the orthodox dissolution reading, provided the sceptical reading is stated fairly first).
 
-### Part D — relevance to private language ⚠️
+## Part D — relevance to private language ⚠️
 
 The bridge to private language (Lesson 7) is normative: a proposed private ostension must distinguish correct recurrence from merely seeming correct. Actual surveillance by a community is not required on the orthodox reading; the issue is whether the practice contains a stable standard beyond the present impression. On Kripke's reading, by contrast, the very possibility of a private language is blocked even more directly, because correctness *just is* communal agreement, and there is by definition no community of one.
 
-## LAYER 3 — ADVANCED
-
-### The argument, and why it matters downstream
+## The argument, and why it matters downstream
 
 1. Interpretation cannot be self-fixing; every interpretation is itself open to further (mis)interpretation — this is the engine of the paradox.
 2. Trained practice, not a further interpretive act, is what "grasping a rule" consists in.
 3. This resolution is a **precondition**, not an afterthought, for the private-language argument: if even public, trained, communally-embedded rule-following faces an interpretation-regress threat, then a *private* rule (Lesson 7) — lacking any practice to be trained into — is in far worse trouble.
 
-### Strongest objection → reply
+## Strongest objection → reply
 
 | Objection | Reply |
 |---|---|
 | If "grasping a rule" is just a practice, doesn't this reduce meaning/correctness to whatever a community happens to do — a form of conventionalism? | This is the **conventionalism** worry, argued fully with its own reply in Lesson 11, Part D; the short answer here is that trained practice is normative (it distinguishes mistake from innovation) in a way mere behavioural regularity or arbitrary convention is not. |
 | Kripke's sceptical paradox seems to generalise to *any* claim about meaning anything by anything — an implausibly global scepticism. | This is precisely the orthodox complaint (Baker & Hacker, McDowell): if the paradox is read as global scepticism about meaning, it becomes self-undermining, since stating it presupposes we can mean things by our words. Most scholars therefore prefer the dissolution reading. |
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 Rule-following does not own a standalone verified PYQ among the eight primary parts, but it is the indispensable bridge to:
 - **2019 Q3(b)** and **2020 Q4(c)** and **2024 Q1(d)** (private language — correctness cannot rest on private interpretation);
@@ -736,9 +672,7 @@ Rule-following does not own a standalone verified PYQ among the eight primary pa
 
 **Reusable line:** *The rule-following paradox shows that no interpretation can fix its own application; Wittgenstein resolves this by locating rule-following in trained practice, while Kripke's contested "Kripkenstein" reading turns the same passage into a sceptical argument resolved only by communal agreement — a reading many scholars reject as over-reading the text.*
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 - Paradox (§201): any action can be made to accord with some interpretation of a rule → interpretation alone fixes nothing.
 - Resolution: grasping a rule is exhibited in practice ("obeying"/"going against"), not achieved by a further interpretation.
@@ -758,9 +692,7 @@ CA search: "Wittgenstein private language argument diary sensation S UPSC philos
 CA found: None in the last 6 months. 2019, 2020 and 2024 are already-set PYQs on this exact ground; no fresh news anchor exists or is needed.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the private diary argument
+## Visual gateway — the private diary argument
 
 ```text
 THE DIARY EXPERIMENT
@@ -786,9 +718,7 @@ Caption: a private language fails not because no one else can check it, but beca
 
 **Plain-language start.** Imagine trying to invent a private word, "S," just for yourself, naming a certain private feeling, with no possible outside check — not even in principle. To use "S" correctly tomorrow, you would need to know that today's feeling really is the same kind as yesterday's. But your only "test" is whether it *seems* the same to you right now — and if whatever seems right to you simply *is* right, there is no longer any difference between being right and merely thinking you are right. Without that difference, "S" is not really a word with a meaning at all — it is an empty ritual.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — what is a "private language"? ✅
+## Part A — what is a "private language"? ✅
 
 A **private language** in Wittgenstein's sense is one whose words refer to **the speaker's immediate private sensations** — sensations that are *logically* private (not merely contingently secret). The words would get their meaning from the private inner experience and could *in principle* not be taught to or understood by another. ✅
 
@@ -799,7 +729,7 @@ A **private language** in Wittgenstein's sense is one whose words refer to **the
 >
 > It targets the *logical possibility* of a language whose meaning is constituted by private ostensive definition of inner sensations — the Cartesian/empiricist dream of grounding all meaning in *my* private experience.
 
-### Part B — the diary argument ("S"), step by step ✅
+## Part B — the diary argument ("S"), step by step ✅
 
 Suppose I decide to keep a diary of a certain recurring sensation. I write "S" each time the sensation occurs. To use "S" correctly, I must *re-identify* the same sensation each time. But:
 
@@ -809,7 +739,7 @@ Suppose I decide to keep a diary of a certain recurring sensation. I write "S" e
 
 > ✅ *"If whatever seems right to me is right, that only means that here we can't talk about 'right'."* (*Investigations* §258, in substance)
 
-### Part C — the criterion-of-correctness core logic ⚠️
+## Part C — the criterion-of-correctness core logic ⚠️
 
 The *logical core* of the private-language argument:
 
@@ -822,7 +752,7 @@ The *logical core* of the private-language argument:
 5. Therefore, private language (grounded in private ostensive definition) is IMPOSSIBLE.
 ```
 
-### Part D — solipsism: the 2019 route, argued as a dissolution, not a proof ✅
+## Part D — solipsism: the 2019 route, argued as a dissolution, not a proof ✅
 
 For the routed comparison (2019 Q3(b), and the fuller Lesson 11, Part C comparison):
 
@@ -833,7 +763,7 @@ For the routed comparison (2019 Q3(b), and the fuller Lesson 11, Part C comparis
 
 > ⚠️ The *Tractatus* already treats solipsism at 5.6–5.62 through saying/showing and the limit of the world — that is `Moore-Russell-EarlyWittgenstein.md`'s own bounded material, named only as the precursor here. The later argument changes the route to grammar, criteria and rule-following; do not present it as a simple completion of an unchanged early doctrine, and do not present the later argument as an empirical proof that other minds exist — it is a **grammatical dissolution** of the solipsist's linguistic foundation, not a refutation by observation.
 
-### Part E — exact PYQ routing for this lesson, and the limits of the argument ✅
+## Part E — exact PYQ routing for this lesson, and the limits of the argument ✅
 
 | Year | Marks | Demand | Route |
 |---|---:|---|---|
@@ -843,22 +773,18 @@ For the routed comparison (2019 Q3(b), and the fuller Lesson 11, Part C comparis
 
 **Limits of the argument, honestly stated:** the argument shows that a *logically* private language is impossible; it does **not** show that sensations do not exist, that first-person authority is illusory, or that a solitary individual could never use language at all (a Crusoe with prior public-type training remains a live, contested case — Lesson 6, Part C).
 
-## LAYER 3 — ADVANCED
-
-### The argument in steps, plus the beetle preview
+## The argument in steps, plus the beetle preview
 
 > ✅ Suppose everyone has a box that only they can look into; each calls its content "beetle." No one can see into anyone else's box. What role does the "object in the box" play in the *language-game* of using "beetle"? **Answer:** the hidden item plays no role in the stipulated public use of "beetle"; it **drops out of consideration**. This regress-closing move is taught in full, with its inner-experience framing, in **Lesson 8, Part A**; here it is enough to see that it reinforces the same correctness-regress point as the diary.
 
-### Strongest objection → reply
+## Strongest objection → reply
 
 | Objection | Reply |
 |---|---|
 | A solitary person (Robinson Crusoe) *could* invent words for sensations — checking memory against itself is no worse than relying on the community. | Wittgenstein's defenders reply: even Crusoe uses *public-type* criteria (regular behaviour, physical correlates); the argument targets *logical* privacy (no possible check even in principle), not physical solitude. |
 | Isn't first-person authority over one's own sensations ("I know I'm in pain") exactly the kind of case where private checking should be trustworthy? | First-person avowals ("It hurts") are not *checked* at all in the ordinary case — they are expressions, not reports checked against a private criterion (Lesson 8, Part C). The private-language argument targets the *name-and-check* model, not the ordinary avowal, which needs no private criterion because it is not functioning as a checked report. |
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - **2019 Q3(b), 15 marks:** frame solipsism → show its need for private language → diary/criterion argument → beetle (cross-reference Lesson 8) → dissolution, not proof of other minds.
 - **2020 Q4(c), 15 marks:** state Wittgenstein's answer (No) → diary/criterion argument → *critically discuss* by raising the behaviourism charge (Lesson 8, Part D) and replying.
@@ -873,9 +799,7 @@ Define logically private language (not code, not soliloquy)
 → (2020) anticipate and answer the behaviourism charge
 ```
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 - Target = **logically** private sensation-language — NOT a secret code, NOT talking to oneself.
 - Diary "S": no independent criterion of correctness → "whatever seems right IS right" → no meaning.
@@ -895,9 +819,7 @@ CA search: "criteria symptoms Wittgenstein pain behaviourism outward criteria PI
 CA found: None in the last 6 months. This lesson's exam value is doctrinal/philosophy-of-mind, not news-anchored.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — criteria vs symptoms, and the beetle revisited
+## Visual gateway — criteria vs symptoms, and the beetle revisited
 
 ```text
 CRITERION vs SYMPTOM (for the same word "angina")
@@ -921,15 +843,13 @@ Caption: the beetle shows that a private object cannot do semantic work for a pu
 
 **Plain-language start.** If "pain" meant nothing more than wincing and groaning, we could never make sense of stoic silent suffering or an actor's fake groan. Wittgenstein's answer keeps behaviour central to how we *learn and apply* psychological words, without reducing the inner life to behaviour: behaviour is a **defeasible criterion** (grammatically constitutive, but overridable by pretence or suppression), not an **inductive symptom** and not an outright **identity**.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — the beetle-in-a-box, read for what it says about inner experience ✅
+## Part A — the beetle-in-a-box, read for what it says about inner experience ✅
 
 > ✅ Suppose everyone has a box that only they can look into; each calls its content "beetle." No one can see into anyone else's box. What role does the "object in the box" play in the *language-game* of using "beetle"?
 
 **Answer:** the hidden item plays no role in the stipulated public use of "beetle"; it **drops out of consideration** — "the box might even be empty." The analogy does **not** prove that sensations do not exist or that every inner difference is irrelevant to psychology in general. It shows only that a **shared word's grammar** cannot be fixed by an object to which only one speaker has access. (Contrast with Lesson 7: there, the beetle closed off a *correctness-regress* escape route for the diarist; here, the same passage is read for its **inner-experience** payload — inner life is not denied, only denied a *semantic-founding* role.)
 
-### Part B — criteria vs symptoms — the distinction that saves the argument from behaviourism ✅
+## Part B — criteria vs symptoms — the distinction that saves the argument from behaviourism ✅
 
 **Why you need it.** Without this distinction the private-language argument looks like the claim that "pain" *means* pain-behaviour — i.e. behaviourism. With it, Wittgenstein can hold that the connection between behaviour and pain is **grammatical** (constitutive of the concept) without being **reductive** (an identity).
 
@@ -946,7 +866,7 @@ Caption: the beetle shows that a private object cannot do semantic work for a pu
 2. **Criteria are not evidence for something hidden.** They are not clues from which we infer an inner event; they are the circumstances in which the concept has its home.
 3. **The grammar fluctuates.** ✅ "The fluctuation in grammar between criteria and symptoms makes it look as if there were nothing at all but symptoms" (PI §354, in substance). What is a criterion in one language-game may be a symptom in another; the distinction is a grammatical role, not a fixed taxonomy.
 
-### Part C — "an inner process stands in need of outward criteria" (PI §580) ✅
+## Part C — "an inner process stands in need of outward criteria" (PI §580) ✅
 
 > ✅ *"An 'inner process' stands in need of outward criteria."* (*Philosophical Investigations* §580)
 
@@ -963,7 +883,7 @@ Caption: the beetle shows that a private object cannot do semantic work for a pu
 4. ∴ The circumstances must be outward — behaviour, situation, what precedes and follows.
 5. ∴ An inner process stands in need of outward criteria.
 
-### Part D — the behaviourism charge, and the reply ✅ (PI §§304, 307–308)
+## Part D — the behaviourism charge, and the reply ✅ (PI §§304, 307–308)
 
 Wittgenstein raises the objection **against himself**, in the interlocutor's voice:
 
@@ -977,33 +897,27 @@ Wittgenstein raises the objection **against himself**, in the interlocutor's voi
 
 > ⚠️ **Verdict to deploy:** Wittgenstein is anti-Cartesian without being a reductive behaviourist: he rejects the private-object model as the foundation of psychological grammar while retaining sensation and first-person expression. The residual issue is whether criterial grammar adequately respects inner phenomenology and normativity.
 
-## LAYER 3 — ADVANCED
-
-### The distinction, PI §580, and the behaviourism reply, ranked by exam value
+## The distinction, PI §580, and the behaviourism reply, ranked by exam value
 
 1. Criteria-vs-symptoms is the single highest-value distinction in this lesson: without it, every other claim about pain/behaviour collapses into behaviourism in the reader's mind.
 2. PI §580 is the most quotable line for "critique of private language" essays generally, not only for this lesson.
 3. The behaviourism reply is what turns "criteria" from a slogan into an argued anti-reductive position.
 
-### Strongest objection → reply
+## Strongest objection → reply
 
 | Objection | Reply |
 |---|---|
 | If criteria are defeasible, how is "criterion" different from "very reliable symptom" — isn't the distinction just a matter of degree? | Wittgenstein's own answer is that the difference is one of **kind** (grammatical vs inductive), even though the same evidence can shift roles between language-games (§354's "fluctuation"). The instability is candidly noted by Wittgenstein himself, not papered over. |
 | Functionalists/cognitive scientists may say grammatical criteria neglect causal/representational explanations of cognition. | Wittgenstein can distinguish conceptual clarification from empirical science; the residual dispute is whether grammar alone answers every philosophical question about mind, which Lesson 11 takes up directly. |
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - **2020 Q4(c)'s "critically discuss" half** is answered here: state the behaviourism charge, then the four-move reply.
 - **Any "does Wittgenstein reduce mind to behaviour?" framing** routes entirely through Parts B–D of this lesson.
 
 **Reusable line:** *Wittgenstein blocks behaviourism not by denying that behaviour matters to psychological concepts, but by showing that behaviour functions as a defeasible, grammatical criterion rather than an inductive symptom or a strict identity — a position anti-Cartesian without being reductive.*
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 - Beetle (inner-experience framing): the private object drops out of the public word's grammar; inner life is not denied, only denied a founding semantic role.
 - Criterion = grammatical/defeasible; symptom = inductive. Difference in kind, not mere degree — though the grammar can "fluctuate" (§354).
@@ -1022,9 +936,7 @@ CA search: "philosophy as therapy Wittgenstein fly bottle language on holiday UP
 CA found: None in the last 6 months. Methodological doctrine, not a dated event.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — out of the fly-bottle
+## Visual gateway — out of the fly-bottle
 
 ```text
 THE THERAPY MAP
@@ -1054,9 +966,7 @@ Caption: the fly is not stupid and the bottle is not a puzzle to be solved by fo
 
 **Plain-language start.** Many philosophical puzzles ("What is time, really?" "What is the self, really?") do not feel like ordinary factual questions — they feel like a fog you cannot think your way out of, no matter how hard you try. Wittgenstein's diagnosis: such puzzles usually arise because we have pulled a word (like "time" or "know") out of the concrete practices that give it a job, and then demand of it a job it was never built for. The cure is not a new scientific-style theory. It is patiently laying out reminders of how the word actually works until the puzzle dissolves — the way a knot loosens once you can see how it was tied.
 
-## LAYER 2 — CORE UPSC
-
-### The five load-bearing images and remarks ✅
+## The five load-bearing images and remarks ✅
 
 | Remark | PI § | What it does |
 |---|---|---|
@@ -1072,11 +982,11 @@ Caption: the fly is not stupid and the bottle is not a puzzle to be solved by fo
 3. "Philosophy… leaves everything as it is" (§124) concerns ordinary grammar and does not imply political passivity or forbid every substantive philosophical argument.
 4. Success may be measured by release from a recurring compulsion to theorise: §133 speaks of becoming able to stop philosophising when one wants.
 
-### Perspicuous representation ✅
+## Perspicuous representation ✅
 
 **Perspicuous** or **surveyable representation** (*übersichtliche Darstellung*, §122) is Wittgenstein's positive method: arranging reminders of use so that "connexions" between cases become visible at a glance, without adding any new empirical or theoretical content. This is how "description, not explanation" (§109) actually gets done in practice — not by silence, but by an arranged display of the grammar already in front of us.
 
-### "Philosophy is a battle against bewitchment" ✅
+## "Philosophy is a battle against bewitchment" ✅
 
 > ✅ *"Philosophy is a battle against the bewitchment of our intelligence by means of language."* (*Investigations* §109)
 
@@ -1088,9 +998,7 @@ In this therapeutic conception, philosophy offers reminders, comparisons and **p
 
 **Presuppositions ⚠️:** grammatical description can dissolve at least a major class of philosophical confusions; perspicuous comparison may replace explanatory theory in these cases. Whether this method covers *every* philosophical problem is itself disputed (Lesson 11, Part B, in comparison with Logical Positivism's rival anti-metaphysical method).
 
-## LAYER 3 — ADVANCED
-
-### The method, stated as doctrine, and its strongest objections
+## The method, stated as doctrine, and its strongest objections
 
 **Strongest objections → replies ❓:**
 
@@ -1100,18 +1008,14 @@ In this therapeutic conception, philosophy offers reminders, comparisons and **p
 | **Self-application:** the therapeutic method is itself a philosophical thesis about philosophy, so it refutes itself. | Wittgenstein accepts a version of this: his remarks are themselves ladder-like, and §133 speaks of "**methods**, like different therapies," in the plural — there is no single doctrine. | ❓ Structurally the same problem as the *Tractatus* ladder — continuity between early and late Wittgenstein on this precise point is a first-class exam observation. |
 | Some philosophical problems (personal identity, free will, the status of mathematics) are real and survive any amount of grammatical clarification. | Wittgenstein would treat their persistence as evidence that the picture holding us captive has not yet been fully exhibited. | ⚠️ Unfalsifiable as stated; this is the most serious methodological complaint. |
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - Therapy does not own a standalone verified PYQ among the eight primary parts, but it is the required methodological close for **2023 Q4(c)** and **2025 Q3(a)** (the transition questions end with "philosophy becomes therapy, not theory"), and it supplies the "critically discuss"/evaluative register for any 20-mark question on later Wittgenstein generally.
 - **Directive note:** "Elucidate/comment on 'philosophy leaves everything as it is'" demands the qualification (Part 2, "does not say" column) before any assessment; a bare paraphrase of the sentence earns little.
 
 **Reusable line:** *Philosophical confusion arises when language idles outside its working practice; the cure is not a rival theory but perspicuous, reminder-based description that shows the fly the way out of the fly-bottle — a method vulnerable to the charge of quietism, which Wittgenstein only partially answers.*
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 - Diagnosis: problems arise when "language goes on holiday" (§38); a "picture held us captive" (§115); the problem is disorientation, "I don't know my way about" (§123).
 - Positive tool: **perspicuous/surveyable representation** (§122) — arrange reminders, don't theorise.
@@ -1130,9 +1034,7 @@ CA search: "duck rabbit aspect seeing Wittgenstein UPSC philosophy optional 2026
 CA found: None in the last 6 months. No routed PYQ separately owns this lesson; it is taught for genuine philosophical completeness and as bounded enrichment, per the frozen roadmap.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the duck-rabbit
+## Visual gateway — the duck-rabbit
 
 ```text
 JASTROW'S DUCK-RABBIT (1899), USED BY WITTGENSTEIN
@@ -1153,8 +1055,6 @@ JASTROW'S DUCK-RABBIT (1899), USED BY WITTGENSTEIN
 Caption: nothing on the page changes between the two "seeings," yet something genuinely changes in experience — this puzzle is what aspect-seeing names and investigates.
 
 **Plain-language start.** Look at a picture that can be seen as a duck or as a rabbit. The lines never move. Yet at the moment the rabbit "dawns" on you, something really does change in how you see the figure — it is not merely that you now *believe* something different about the same unchanged experience. Wittgenstein uses this ordinary perceptual puzzle to probe the border between raw perception and conceptual mastery, connecting all the way back to the meaning-as-use thread of Lessons 2–3.
-
-## LAYER 2 — CORE UPSC
 
 **Bounded relevance.** Aspect-seeing illustrates how perceptual description can depend on conceptual technique. No routed PYQ separately owns it, so it is taught here as enrichment for meaning, grammar and therapeutic reorientation, exactly as the frozen roadmap's Lesson 10 heading specifies.
 
@@ -1179,30 +1079,24 @@ Caption: nothing on the page changes between the two "seeings," yet something ge
 | **Meaning as inner process** | The dawning of an aspect *feels* like an inner event, yet its criteria are what one does and says next — PI §580 (Lesson 8) applies here as elsewhere. |
 | **Philosophy's own method** | A therapeutic comparison (Lesson 9) may make a familiar use appear under a new aspect without adding an empirical discovery; this is an illuminating analogy, not a stated identity of doctrines. |
 
-## LAYER 3 — ADVANCED
-
-### Why the duck-rabbit belongs in a meaning-and-use philosophy
+## Why the duck-rabbit belongs in a meaning-and-use philosophy
 
 Aspect-seeing is not a detour into psychology; it extends the anti-essentialist, technique-based account of meaning (Lessons 2–3) into perception itself. Just as understanding a word is mastery of a technique rather than a private mental accompaniment (Lesson 2), seeing an aspect is mastery of a technique (recognising rabbit-shapes) rather than a bare sensory given plus a separate act of interpretation.
 
-### Strongest objection → reply
+## Strongest objection → reply
 
 | Objection | Reply |
 |---|---|
 | If seeing-as depends on conceptual mastery, doesn't this make all perception hopelessly "theory-laden," undermining any independent perceptual check on belief? | Wittgenstein's point is narrower: only certain aspect-*switches* (duck/rabbit-type cases) exhibit this technique-dependence vividly; he does not claim every ordinary perceptual judgement is equally saturated by concept-mastery, and he offers no general theory of perception. |
 | Aspect-blindness sounds like a merely stipulated, unfalsifiable thought experiment. | It functions as a diagnostic limiting case, parallel to other Wittgensteinian limiting cases (the private linguist, the rule-sceptic); its job is to isolate what "ordinary" aspect-seeing involves by describing its absence, not to assert that such people are commonly found. |
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 Aspect-seeing owns no standalone verified PYQ; deploy it only as an enrichment closer in a 20-mark answer on meaning-as-use or the therapeutic method, to show breadth without displacing the printed limbs (meaning/use, language-games, private language) that carry the marks.
 
 **Reusable line:** *The duck-rabbit shows that "seeing-as" is neither pure sensation nor pure inference but a technique-laden third category, extending the meaning-as-use thesis from words to perception, while remaining bounded enrichment rather than an owned syllabus limb.*
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 - **Duck-rabbit** (Jastrow, 1899; cited by Wittgenstein in *PI* Part II §xi / *Philosophy of Psychology — A Fragment*): same marks, different **aspect**.
 - The switch = **dawning of an aspect**; limit case = **aspect-blindness**.
@@ -1222,9 +1116,7 @@ CA search: "later Wittgenstein compared logical positivism solipsism relativism 
 CA found: None in the last 6 months. This lesson is a standing comparative-synthesis unit, not a dated current-affairs topic.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — five comparisons, one anti-essentialist doctrine tested against five rivals
+## Visual gateway — five comparisons, one anti-essentialist doctrine tested against five rivals
 
 ```text
 LATER WITTGENSTEIN AGAINST FIVE RIVALS
@@ -1241,9 +1133,7 @@ Caption: every rival in this list shares one feature — each proposes a single,
 
 **Plain-language start.** It is easy to summarise later Wittgenstein in one sentence ("meaning is use") and never test that sentence against its nearest neighbours. This lesson does that testing directly: it lines up the *Tractatus*, the Vienna Circle, the solipsist, the conventionalist and the relativist, one at a time, and asks exactly where each one agrees with and where each one is refuted or resisted by the doctrines built in Lessons 1–10.
 
-## LAYER 2 — CORE UPSC
-
-### Part A — early Wittgenstein (the *Tractatus*) ✅⚠️
+## Part A — early Wittgenstein (the *Tractatus*) ✅⚠️
 
 | Axis | Early Wittgenstein (*Tractatus*, 1921 — owned by `Moore-Russell-EarlyWittgenstein.md`) | Later Wittgenstein (owned here) |
 |---|---|---|
@@ -1255,7 +1145,7 @@ Caption: every rival in this list shares one feature — each proposes a single,
 
 **The relationship is revision, not replacement of a stranger's doctrine.** Both phases share an anti-metaphysical, clarificatory self-conception of philosophy (Lesson 1); what changes is whether one logical essence can do the work later Wittgenstein assigns to a plurality of trained practices. ⚠️ **Ownership discipline:** the *Tractatus*'s own doctrine (picture theory, logical form, bipolarity, saying/showing, the 5.6/5.62 solipsism-at-the-limit remark) is `Moore-Russell-EarlyWittgenstein.md`'s primary content; it is stated here only in comparative outline, never re-taught as this file's own positive material.
 
-### Part B — Logical Positivism (the Vienna Circle) ✅⚠️
+## Part B — Logical Positivism (the Vienna Circle) ✅⚠️
 
 | Axis | Logical Positivism (owned by `Logical-Positivism.md`) | Later Wittgenstein (owned here) |
 |---|---|---|
@@ -1266,11 +1156,11 @@ Caption: every rival in this list shares one feature — each proposes a single,
 
 **Why they are easy to confuse, and why that is a trap:** both movements are anti-metaphysical and both react to the early Wittgenstein; UPSC answers frequently conflate "varied use" with "one criterion of verifiability." ✅ **Discrimination:** verificationism narrows meaningfulness to what a single test (empirical verifiability or analyticity) admits; use-theory widens the inquiry to however language actually functions, without proposing any single admission-test at all. ⚠️ **Ownership discipline:** verificationism, the rejection of metaphysics via one criterion, and the linguistic theory of necessary propositions are `Logical-Positivism.md`'s own primary content, named here only as a labelled comparison.
 
-### Part C — solipsism ✅
+## Part C — solipsism ✅
 
 *(Full argument already built in Lesson 7, Part D; this Part supplies the comparative ranking.)* The solipsist's claim — "only my experiences are real" — requires a language whose meaning is grounded in what only this subject can privately identify. Later Wittgenstein's private-language argument shows this cannot even be *stated* coherently, because the solipsist's own words would need a criterion of correctness no private seeming can supply. **Ranking:** this is a **dissolution** (the position cannot be coherently formulated), not a **refutation** (a proof that other minds exist by observation or inference) — an examiner-rewarded distinction that separates a strong answer from an overclaiming one.
 
-### Part D — conventionalism ✅⚠️
+## Part D — conventionalism ✅⚠️
 
 **The worry, named precisely:** if rule-following and meaning ultimately rest on trained public practice (Lesson 6) rather than on a private fact or a logical essence, does later Wittgenstein collapse into **conventionalism** — the view that correctness in language and meaning is nothing more than whatever a community happens, as a matter of arbitrary agreement, to accept?
 
@@ -1282,7 +1172,7 @@ Caption: every rival in this list shares one feature — each proposes a single,
 3. **The orthodox reading of rule-following (Baker & Hacker, McDowell; Lesson 6, Part C) explicitly rejects the sceptical-solution/conventionalist package.** On their reading, a practice supplies a genuine, non-conventional standard of correctness that competent training exhibits directly, not one that is constituted by majority agreement after the fact.
 4. **Residual concession ⚠️:** the *circularity/community-normativity* criticism (Lesson 11's own honest limit) notes that "practice explains correctness only by invoking what practitioners count as correct" — a structure some critics still find uncomfortably close to convention. The balanced verdict is that later Wittgenstein resists conventionalism in *intent and argument*, while leaving open a residual worry about what ultimately grounds a practice's own normativity.
 
-### Part E — relativism ✅
+## Part E — relativism ✅
 
 **The worry, named precisely:** if language rests on a **form of life** (Lesson 5) rather than on a universal logical structure, does every practice become immune to criticism from outside its own form of life — a straightforward cultural or conceptual relativism?
 
@@ -1292,9 +1182,7 @@ Caption: every rival in this list shares one feature — each proposes a single,
 3. **Bedrock ends justification, not criticism (Lesson 5, Part B/C reply).** A practice can still be criticised by its own internal standards, by its practical consequences, or by comparison with alternative practices; what "this is simply what I do" blocks is only the demand for an *infinite further justification* before any practice counts as legitimate.
 4. **Residual concession ⚠️ (from the canonical file's own honest trap-table):** Wittgenstein supplies **no full external theory of rational adjudication** between practices; the texts under-determine exactly how much cross-practice criticism forms of life permit. This is a genuine, examinable limitation, not a settled refutation of the relativism worry.
 
-## LAYER 3 — ADVANCED
-
-### The complete criticisms-and-replies ledger (cross-referenced across lessons)
+## The complete criticisms-and-replies ledger (cross-referenced across lessons)
 
 | Critic/objection | Reply | Cross-reference |
 |---|---|---|
@@ -1306,7 +1194,7 @@ Caption: every rival in this list shares one feature — each proposes a single,
 | Relativism: forms of life make practices immune to criticism. | Shared natural reactions and cross-practice comparison constrain relativism; no full external adjudication theory is supplied. | Part E above |
 | Circularity/community normativity: practice explains correctness only by invoking what practitioners count as correct. | Distinguishes trained normative practice from mere regularity; whether community agreement can ground normativity without circularity remains contested. | Part D above |
 
-### Common UPSC traps (complete ledger) ⚠️
+## Common UPSC traps (complete ledger) ⚠️
 
 | Trap | Discrimination |
 |---|---|
@@ -1322,17 +1210,13 @@ Caption: every rival in this list shares one feature — each proposes a single,
 | Later Wittgenstein is a behaviourist | No — criteria and behaviour belong to the grammar of psychological concepts; inner life is not identified with overt behaviour (Lesson 8). |
 | Rule-following normativity is just conventionalism by another name | Contested, not settled — the orthodox reading resists this; the residual circularity worry is honestly conceded, not silently dropped (Part D above). |
 
-## LAYER 4 — EXAM APPLICATION
-
-### Verified routes and answer architecture
+## Verified routes and answer architecture
 
 - **Any "compare early and later Wittgenstein" question (2025 Q3(a), 2023 Q4(c))** should cite Part A's table before proceeding to the positive later doctrine.
 - **Any "is later Wittgenstein a positivist/behaviourist/relativist/conventionalist?" framing**, wherever it appears in a "critically discuss"/"do you agree" directive, routes directly through Parts B, D and E and the trap ledger above.
 - **Directive note ⚠️:** "Comment"/"Do you agree?" directives require a **defended ruling stated in the first line** (e.g., "Later Wittgenstein resists but does not fully escape the conventionalism/relativism worry") — reporting the debate without a ruling loses marks at 15/20-mark level.
 
-## LAYER 5 — RAPID REVISION
-
-### Rapid recall
+## Rapid recall
 
 - Early Wittgenstein: one logical essence, revised not merely replaced (Part A).
 - Logical Positivism: one verification criterion vs no single criterion — the most-confused pair in the syllabus; keep separate (Part B).
@@ -1352,9 +1236,7 @@ CA search: "later Wittgenstein UPSC philosophy optional complete revision 2026"
 CA found: None in the last 6 months. This lesson is the synthesis and practice lesson, not a current-affairs lesson.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 — SIMPLE START
-
-### Visual gateway — the whole clause in one continuous rail
+## Visual gateway — the whole clause in one continuous rail
 
 ```text
 LATER WITTGENSTEIN — THE COMPLETE RAIL
@@ -1381,8 +1263,6 @@ LATER WITTGENSTEIN — THE COMPLETE RAIL
 ```
 
 Caption: this lesson does not teach new doctrine; it assembles the eleven preceding lessons into an exam-ready weapon, so that a learner can move from doctrine to a scored answer in one continuous motion.
-
-## LAYER 2 — CORE UPSC
 
 ## PART A — COMPARATIVE SYNTHESIS, KEYWORD BANK AND ANSWER APPARATUS
 
@@ -2409,11 +2289,4 @@ This file is a new export under `live_sessions/`. It does not modify, and is not
 owner `upsc-ai-kit/knowledge/Philosophy/paper-1/western/Later-Wittgenstein.md`, the prior approved layered
 session/workbook pair, or the semantic-completeness review. All four remain available for deeper revision after
 this live edition; none was altered in producing this document.
-
-
-
-
-
-
-
 

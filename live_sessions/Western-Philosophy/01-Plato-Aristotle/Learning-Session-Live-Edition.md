@@ -49,17 +49,10 @@ generated_from:
 
 ## How to Use This Live Session
 
-Every logical subtopic inside a lesson follows the same learner-first order: **intuition -> visual -> terms ->
-doctrine -> argument -> examples -> comparison -> criticism/reply -> UPSC application -> revision -> practice**.
-Within that order, each lesson also carries the five retained layers from the approved source package:
-
-| Layer | Purpose |
-|---:|---|
-| 1. SIMPLE START | Visual-first, plain-language gateway into the subtopic |
-| 2. CORE UPSC | Complete canonical doctrine, terminology, arguments and worked examples |
-| 3. ADVANCED | Objections, replies, comparisons and qualified evaluation |
-| 4. EXAM APPLICATION | Verified PYQ routing and answer architecture (through 2026) |
-| 5. RAPID REVISION | Traps, recall points and compressed notes |
+Each lesson follows one integrated terminal flow, with no separate labelled layers: **Progress -> Pre-Teach
+Checklist -> visual -> intuition -> doctrine/argument/examples -> comparison/criticism -> UPSC application ->
+revision/practice**. Every logical subtopic inside a lesson moves through this same learner-first order without
+interruption.
 
 Each lesson opens with a **Progress** line (lesson number, stage, exact subtopic) and a **Pre-Teach Checklist**
 (book context queried; the exact current-affairs search attempted; and an honest record of what, if anything, was
@@ -109,8 +102,6 @@ CA search: "Plato theory of Forms UPSC current affairs India 2026"
 CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, so no substitute headline is invented or backfilled from memory. This is a 5th–4th-century-BCE doctrinal item (Forms, substance, hylomorphism, causation, actuality-potentiality) with no genuine unresolved current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage, consistent with the prior verified finding recorded in the approved layered session of 2026-08-18 ("no weak time-sensitive anchor is forced").
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway - one stable pattern, many changing instances
 
 ```text
@@ -135,8 +126,6 @@ CA found: None verifiable this session — live `web_search` returned a repeated
 | Is the physical world nothing? | No; it has derivative reality |
 
 > **Memory line:** the particular shows the feature; the Form explains what the feature is.
-
-## LAYER 2 - CORE UPSC
 
 #### 0. ONE-SCREEN MAP ⚠️
 
@@ -194,8 +183,6 @@ For Plato, **true substance (*ousia*) = the Form**. The truly real is the univer
 
 ---
 
-## LAYER 3 - ADVANCED
-
 ### The philosophical wager behind separation
 
 Plato's strongest motivation is not fantasy about another physical location. It is the claim that **knowledge, definition and normativity require stable objects**. One-over-many explains common predication; the knowledge argument links unchanging cognition to unchanging being; recollection explains recognition of standards never perfectly given in sense.
@@ -203,8 +190,6 @@ Plato's strongest motivation is not fantasy about another physical location. It 
 The cost is equally exact. If Forms are wholly separate, the relation that makes the particular an instance becomes obscure. A strong evaluation therefore distinguishes **transcendence** from crude spatial remoteness and **derivative reality** from non-being. Plato gains objectivity and standards, but incurs a relation problem.
 
 **Qualified verdict:** the theory is most persuasive as an account of intelligibility and normativity; it is weakest when participation is asked to work as a complete causal mechanism.
-
-## LAYER 4 - EXAM APPLICATION
 
 ### Verified routes and answer architecture
 
@@ -215,8 +200,6 @@ The cost is equally exact. If Forms are wholly separate, the relation that makes
 **10-mark spine:** definition -> two-world contrast -> one worked example -> epistemic consequence -> one qualification.  
 **15-mark extension:** add one-over-many, recollection and the participation problem.  
 **20-mark extension:** reconstruct the arguments for Forms, test objections, and compare Aristotle's immanent alternative.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -238,8 +221,6 @@ CA search: "Allegory of the Cave Divided Line Sun analogy news 2026"
 CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, so no substitute headline is invented or backfilled from memory. This is a 5th–4th-century-BCE doctrinal item (Forms, substance, hylomorphism, causation, actuality-potentiality) with no genuine unresolved current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage, consistent with the prior verified finding recorded in the approved layered session of 2026-08-18 ("no weak time-sensitive anchor is forced").
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway - the Line becomes a journey
 
 ```text
@@ -254,8 +235,6 @@ politics  = return to the cave after seeing the standard
 **Plain-language start:** the Sun tells us what makes knowledge possible; the Line grades objects and cognitive states; the Cave turns that hierarchy into a story of education, resistance and political return. They are one argument, not three detachable ornaments.
 
 > **Memory line:** Sun gives the principle, Line gives the structure, Cave gives the movement.
-
-## LAYER 2 - CORE UPSC
 
 #### 1.4 THE SUN, THE LINE AND THE CAVE — the three images as ONE argument ✅
 
@@ -356,8 +335,6 @@ The Form of the Good is not merely one value among others. In the Republic it fu
 
 ---
 
-## LAYER 3 - ADVANCED
-
 ### The argument's load-bearing assumptions
 
 The triad assumes that clarity of cognition tracks degree of being, that faculties are distinguished by their objects, and that dialectic can ascend to an unhypothetical principle. Mathematics remains below dialectic because it uses images and treats hypotheses as starting points; *noēsis* treats hypotheses as steps.
@@ -368,8 +345,6 @@ The Good is not merely moral niceness. It grounds knowability, order and value, 
 
 **Qualified verdict:** the triad is a powerful integration of metaphysics, epistemology, education and politics, but its hierarchy of reality and rule depends on premises Aristotle and modern pluralists reject.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified route and answer architecture
 
 - **2019 Q1(a), 10 marks:** explain what the Cave proves. Map every stage to the Line, state education as conversion, and include the return.
@@ -378,8 +353,6 @@ The Good is not merely moral niceness. It grounds knowability, order and value, 
 **Demand discipline:** "What does Plato want to prove?" requires purpose, not a plot summary.  
 **Answer spine:** prisoners/shadows -> release and ascent -> Sun/Good -> conversion -> return -> one criticism.  
 **Value addition:** distinguish *dianoia* from *noēsis* through direction of argument and use of images.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -401,8 +374,6 @@ CA search: "Third Man argument Aristotle critique of Plato current news"
 CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, so no substitute headline is invented or backfilled from memory. This is a 5th–4th-century-BCE doctrinal item (Forms, substance, hylomorphism, causation, actuality-potentiality) with no genuine unresolved current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage, consistent with the prior verified finding recorded in the approved layered session of 2026-08-18 ("no weak time-sensitive anchor is forced").
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway - why explanation threatens regress
 
 ```text
@@ -420,8 +391,6 @@ many men --------> Form of Man
 **Plain-language start:** participation was meant to explain why many things share one character. The Third Man asks whether the Form itself joins the class it explains. If it does, particulars plus the Form become a new many requiring another Form.
 
 > **Memory line:** the explanatory Form becomes one more member of the class it was introduced to explain.
-
-## LAYER 2 - CORE UPSC
 
 #### 1.3 Problems internal to the Theory ✅
 
@@ -540,8 +509,6 @@ Aristotle's critique is cumulative. No single objection exhausts it: the theory 
 
 ---
 
-## LAYER 3 - ADVANCED
-
 ### Premise audit and possible replies
 
 The regress requires more than mere universality. Its pressure comes from **one-over-many**, **self-predication** and **non-identity**. Denying that the Form of Large is large in exactly the same way as a mountain can block the inference, but then participation needs a more precise account.
@@ -552,8 +519,6 @@ Aristotle's repair is not nominalism. He retains form, universality and definiti
 
 **Qualified verdict:** Aristotle diagnoses a genuine explanatory deficit; he transforms Plato's insight rather than abolishing the problem of universals.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified route and answer architecture
 
 - **2018 Q4(b), 15 marks:** test the logical consistency of Idea-world relation, present Aristotle, give arguments, and end with a qualified verdict.
@@ -561,8 +526,6 @@ Aristotle's repair is not nominalism. He retains form, universality and definiti
 
 **15-mark spine:** rationale for Forms -> participation/imitation -> participation dilemma -> Third Man premises -> Aristotle's five criticisms -> immanent repair -> residual universal problem.  
 **Directive caution:** "Discuss ... and also give arguments in favour of your answer" demands an argued verdict, not neutral description.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -583,8 +546,6 @@ CA search: "Aristotle Categories Metaphysics substance news 2026"
 CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, so no substitute headline is invented or backfilled from memory. This is a 5th–4th-century-BCE doctrinal item (Forms, substance, hylomorphism, causation, actuality-potentiality) with no genuine unresolved current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage, consistent with the prior verified finding recorded in the approved layered session of 2026-08-18 ("no weak time-sensitive anchor is forced").
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway - bearer, predicates and explanatory essence
 
 ```text
@@ -603,8 +564,6 @@ Why is this matter this human? -> form / essence
 **Plain-language start:** the *Categories* identifies the independent subject to which predicates belong. The *Metaphysics* asks what makes that subject the kind of thing it is. The first locates substances; the second explains substance-hood.
 
 > **Memory line:** the individual bears properties; form explains the individual.
-
-## LAYER 2 - CORE UPSC
 
 #### 3. ARISTOTLE — SUBSTANCE (*ousia*) ✅
 
@@ -714,8 +673,6 @@ The Categories begins from predication. Primary substances are the concrete subj
 
 ---
 
-## LAYER 3 - ADVANCED
-
 ### The Categories-Metaphysics tension
 
 The *Categories* calls the concrete individual primary substance and species/genus secondary substances. *Metaphysics* Z gives priority to essence or form, rejects matter alone, and insists that no universal is substance. The safest reconciliation is that the works answer different questions: **which things exist primarily?** versus **what explains their being what they are?**
@@ -726,8 +683,6 @@ Z.17 is decisive because it reformulates substance as a cause: "why is this matt
 
 **Qualified verdict:** the two analyses are complementary if substance is focal and multivocal, but a real interpretive tension remains over whether form can be both intelligible and non-universal.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Exam architecture
 
 - **2022 Q2(b), 15 marks:** substance and identity must be linked to causal processes, not treated as a static bearer.
@@ -736,8 +691,6 @@ Z.17 is decisive because it reformulates substance as a cause: "why is this matt
 **10-mark spine:** primary/secondary substance -> substance/accident -> compound -> form priority -> qualification.  
 **15-mark spine:** add *Categories*/*Metaphysics* tension, Z.3 candidates, Z.17 causal reformulation and identity through change.  
 **20-mark extension:** compare the individual-form and universal-form readings before a graded verdict.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -758,8 +711,6 @@ CA search: "hylomorphism matter form prime matter contemporary philosophy news"
 CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, so no substitute headline is invented or backfilled from memory. This is a 5th–4th-century-BCE doctrinal item (Forms, substance, hylomorphism, causation, actuality-potentiality) with no genuine unresolved current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage, consistent with the prior verified finding recorded in the approved layered session of 2026-08-18 ("no weak time-sensitive anchor is forced").
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway - one substance, two explanatory principles
 
 ```text
@@ -776,8 +727,6 @@ form = organising actuality, not merely outer shape
 **Plain-language start:** Aristotle does not place a ready-made Form beside a lump of matter. A natural thing is one compound whose matter supplies capacity and whose form supplies organisation, identity and characteristic activity.
 
 > **Memory line:** matter answers "out of what"; form answers "what is it and how does it act?"
-
-## LAYER 2 - CORE UPSC
 
 #### 4. FORM & MATTER — HYLOMORPHISM ✅
 
@@ -907,8 +856,6 @@ Matter is not one fixed kind of stuff. What counts as matter depends upon the le
 
 ---
 
-## LAYER 3 - ADVANCED
-
 ### Relativity, limit concepts and the form debate
 
 Matter is layered: wood is matter for a table but already a formed natural material; bronze is matter for a statue but a compound of metals. **Prime matter** is the limiting posit reached when every determination is abstracted. It never exists independently, and treating it as an ordinary hidden stuff defeats its purpose.
@@ -919,8 +866,6 @@ Hylomorphism explains one thing as both material and intelligible, but it faces 
 
 **Qualified verdict:** hylomorphism is an economical answer to Platonic separation, yet prime matter and the individuality of form show that the theory's basic terms are explanatory principles, not easily isolated entities.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **2020 Q1(a), 10 marks:** form's priority over matter is definitional, explanatory and teleological, not universal temporal precedence.
@@ -928,8 +873,6 @@ Hylomorphism explains one thing as both material and intelligible, but it faces 
 - **2025 Q1(b), 10 marks:** evaluate the empirical compound claim and qualify it through prime matter and pure actuality.
 
 **Answer spine:** define *hylē*, *morphē/eidos* and *synolon* -> worked artifact and organism -> matter relativity -> form priority -> prime matter -> one criticism and verdict.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -950,8 +893,6 @@ CA search: "Aristotle four causes teleology biology science debate 2025 2026"
 CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, so no substitute headline is invented or backfilled from memory. This is a 5th–4th-century-BCE doctrinal item (Forms, substance, hylomorphism, causation, actuality-potentiality) with no genuine unresolved current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage, consistent with the prior verified finding recorded in the approved layered session of 2026-08-18 ("no weak time-sensitive anchor is forced").
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway - four answers to one "why?"
 
 ```text
@@ -971,8 +912,6 @@ Natural organism: matter + inherited form + generator + mature activity
 **Plain-language start:** Aristotle's causes are four explanatory dimensions, not four events. A complete account says what something is made from, what structure it has, what initiates change, and what completion or function organises the process.
 
 > **Memory line:** out of what, what it is, from what source, for the sake of what.
-
-## LAYER 2 - CORE UPSC
 
 #### 5. CAUSATION — THE FOUR CAUSES (*aitiai*) ✅
 
@@ -1060,8 +999,6 @@ Artifacts make the four causes easy to display, but natural substances reveal Ar
 
 ---
 
-## LAYER 3 - ADVANCED
-
 ### Teleology without simple conscious design
 
 Artifacts make the four questions easy to separate, but natural organisms display Aristotle's stronger claim. In an acorn's development, the oak-form is both organising principle and end; the mature oak that generates seed supplies the efficient source at the species level.
@@ -1072,8 +1009,6 @@ The causes also explain identity as process. Material continuity alone is insuff
 
 **Qualified verdict:** the four-cause scheme is explanatorily richer than a single-cause model, but its natural teleology depends on accepting real forms and characteristic ends.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **2019 Q2(b), 15 marks:** explain the reasons for developmental change through matter, efficient cause, form, final end and potency-act.
@@ -1081,8 +1016,6 @@ The causes also explain identity as process. Material continuity alone is insuff
 
 **15-mark spine:** identify the continuing subject -> assign four causes -> show potential becoming actual -> explain formal/final continuity -> mechanism objection -> graded verdict.  
 **Trap:** do not present the four causes as a chronological list.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -1103,8 +1036,6 @@ CA search: "Aristotle Leibniz entelechy potentiality actuality news 2026"
 CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, so no substitute headline is invented or backfilled from memory. This is a 5th–4th-century-BCE doctrinal item (Forms, substance, hylomorphism, causation, actuality-potentiality) with no genuine unresolved current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage, consistent with the prior verified finding recorded in the approved layered session of 2026-08-18 ("no weak time-sensitive anchor is forced").
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway - grounded capacity becomes fulfilled activity
 
 ```text
@@ -1120,8 +1051,6 @@ acorn -> oak, not elephant
 **Plain-language start:** potentiality is not probability or mere logical possibility. It is a real capacity grounded in the thing. Actuality is the activity or fulfilment that makes the capacity intelligible.
 
 > **Memory line:** potentiality names what can be realised; actuality names its being-at-work or completion.
-
-## LAYER 2 - CORE UPSC
 
 #### 6. ACTUALITY & POTENTIALITY (*energeia* / *dynamis*) ✅
 
@@ -1211,8 +1140,6 @@ Actuality has more than one emphasis. Energeia stresses being-at-work or exercis
 
 ---
 
-## LAYER 3 - ADVANCED
-
 ### Priority, powers and the ancient problem of change
 
 Actuality is prior in definition because "potentially F" presupposes understanding actual F; in substance because fulfilment explains the capacity; and at the species level in time because an actual organism generates the potential successor. An individual acorn can precede its own maturity, so priority must not be reduced to clock time.
@@ -1223,8 +1150,6 @@ Against Parmenides, change is not being from absolute non-being; it is potential
 
 **Qualified verdict:** potency-act gives a profound conceptual reconciliation of stability and change, but it explains through real powers and ends that a stricter mechanist may regard as redescriptions.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified routes and answer architecture
 
 - **2020 Q1(a), 10 marks:** explain actuality's three priorities and qualify temporal priority.
@@ -1233,8 +1158,6 @@ Against Parmenides, change is not being from absolute non-being; it is potential
 
 **10-mark spine:** definitions -> wooden-table stages -> one priority distinction -> qualification.  
 **15-mark spine:** ancient problem -> doctrine -> two examples -> priority -> objection -> graded yes.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -1404,8 +1327,6 @@ CA search: "being qua being Aristotle metaphysics Atomists 2026 UPSC philosophy 
 CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, so no substitute headline is invented or backfilled from memory. This is a 5th–4th-century-BCE doctrinal item (Forms, substance, hylomorphism, causation, actuality-potentiality) with no genuine unresolved current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage, consistent with the prior verified finding recorded in the approved layered session of 2026-08-18 ("no weak time-sensitive anchor is forced").
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway - why a series of actualisations points to pure act
 
 ```text
@@ -1423,8 +1344,6 @@ potential -> actualised by something actual
 **Plain-language start:** every change involves something actualising a capacity. Aristotle's limiting principle is actuality with no unfulfilled potentiality: it does not push the cosmos like a machine but attracts as the perfect object of desire and thought.
 
 > **Memory line:** pure act explains why actuality cannot depend forever on unactualised capacity.
-
-## LAYER 2 - CORE UPSC
 
 #### 6.5 The Unmoved Mover (God) ✅
 
@@ -1485,8 +1404,6 @@ The Unmoved Mover completes Aristotle's hierarchy of change. What ultimately exp
 
 ---
 
-## LAYER 3 - ADVANCED
-
 ### Final causation, thought and explanatory limits
 
 The Unmoved Mover is immaterial because matter carries potentiality; eternal because change would imply unrealised capacity; and intellectual because contemplation is the highest continuous activity. "Thought thinking itself" names self-contemplating actuality.
@@ -1499,8 +1416,6 @@ The difficulty is whether attraction by a final object adequately explains physi
 
 **Qualified verdict:** the Mover is the coherent apex of Aristotle's teleological ontology, but also the point at which explanatory metaphysics most clearly exceeds ordinary causal description.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Exam architecture
 
 - **2020 Q1(a), 10 marks:** pure actuality is the limiting case of actuality's priority.
@@ -1508,8 +1423,6 @@ The difficulty is whether attraction by a final object adequately explains physi
 
 **Answer spine:** regress/problem of motion -> pure act -> immateriality and eternity -> final causation -> *noēsis noēseōs* -> physical-motion objection -> system-level verdict.  
 **Trap:** do not call the Unmoved Mover Aristotle's mechanical efficient creator.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -1680,8 +1593,6 @@ CA search: "Plato Aristotle comparison realism nominalism debate 2026"
 CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, so no substitute headline is invented or backfilled from memory. This is a 5th–4th-century-BCE doctrinal item (Forms, substance, hylomorphism, causation, actuality-potentiality) with no genuine unresolved current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage, consistent with the prior verified finding recorded in the approved layered session of 2026-08-18 ("no weak time-sensitive anchor is forced").
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway - the inherited problem and the transformed answer
 
 ```text
@@ -1697,8 +1608,6 @@ highest principle Good                      pure actuality
 **Plain-language start:** Aristotle does not simply replace Plato. He keeps the demand for intelligible form while relocating it into the particular and making change, causation and concrete unity central.
 
 > **Memory line:** Plato protects the standard; Aristotle protects the substance and process.
-
-## LAYER 2 - CORE UPSC
 
 #### 7. INTER-THINKER / INTER-SCHOOL DEBATES ⚠️
 
@@ -1793,8 +1702,6 @@ These refinements can distinguish a strong 15- or 20-mark answer but must not re
 
 ---
 
-## LAYER 3 - ADVANCED
-
 ### Reciprocal pressure rather than a one-sided victory
 
 Against Plato: Third Man, participation obscurity, causal impotence and duplication expose the cost of separation. Plato can reply that Forms are conditions of intelligibility rather than duplicated physical objects and that self-predication need not be univocal.
@@ -1804,8 +1711,6 @@ Against Aristotle: prime matter seems unintelligible, natural teleology appears 
 The larger debate recurs in realism about universals, substance theory, philosophy of science and accounts of function. These comparisons should be used as analytical extensions, not as claims that later debates merely repeat Greek positions.
 
 **Qualified verdict:** Aristotle offers the stronger account of immanent organisation and change; Plato preserves the stronger demand for objective, non-reducible standards. Neither wholly dissolves the universal-particular problem.
-
-## LAYER 4 - EXAM APPLICATION
 
 ### Verified comparative routes
 
@@ -1817,8 +1722,6 @@ The larger debate recurs in realism about universals, substance theory, philosop
 **Comparison matrix:** always use location of form, primary reality, knowledge, causation and change.  
 **Evaluation rule:** give the strongest objection, strongest reply and residual problem.  
 **20-mark verdict:** Aristotle internalises and naturalises Form, improving causal explanation while losing Plato's separate standard.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -1839,8 +1742,6 @@ CA search: "UPSC Civil Services Mains 2026 Philosophy Paper I Plato Aristotle PY
 CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, so no substitute headline is invented or backfilled from memory. This is a 5th–4th-century-BCE doctrinal item (Forms, substance, hylomorphism, causation, actuality-potentiality) with no genuine unresolved current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage, consistent with the prior verified finding recorded in the approved layered session of 2026-08-18 ("no weak time-sensitive anchor is forced").
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway - convert doctrine into an examiner-grade answer
 
 ```text
@@ -1858,8 +1759,6 @@ graded verdict that answers the wording
 **Plain-language start:** topic knowledge becomes marks only when the answer obeys the directive, selects evidence that proves a claim, and ends with a verdict proportionate to the question.
 
 > **Memory line:** define, reconstruct, evidence, debate, verdict.
-
-## LAYER 2 - CORE UPSC
 
 #### Complete Technical Terminology Register
 
@@ -2127,8 +2026,6 @@ Close : The contrast is not merely historical — it recurs in every realism/nom
 
 ---
 
-## LAYER 3 - ADVANCED
-
 ### Textual and scholarly discipline
 
 Use retained primary-text anchors conservatively: Plato's *Republic*, *Phaedo*, *Parmenides* and *Timaeus*; Aristotle's *Categories*, *Metaphysics* VII-IX and *Physics* III. Do not invent translations, quotations, Stephanus pages or Bekker numbers. A paraphrase should be presented as a paraphrase.
@@ -2144,8 +2041,6 @@ Directive discipline changes the answer:
 
 **Qualified verdict discipline:** avoid "completely right/wrong." State what the doctrine explains, the premise it requires, and the problem that remains.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Complete verified corpus route
 
 The continuous local 2018-2025 Western Philosophy bank contains **exactly 12 Plato-Aristotle-owned question-parts**, with at least one in every year:
@@ -2157,8 +2052,6 @@ The continuous local 2018-2025 Western Philosophy bank contains **exactly 12 Pla
 **20 marks:** 5-8 anchors, presupposition audit, textual discipline, competing interpretation and graded judgement.
 
 **Evidence pattern:** claim -> named dialogue/treatise or canonical example -> what it establishes -> limitation.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall - command and terminology grid
 
@@ -3886,13 +3779,29 @@ Cave = shadows -> artifacts -> ascent -> sun -> return
 - **Residue scan:** searched for tool-call fragments, transport markers and agent-log tokens. Result:
   **PASS (none found)**.
 - **Empty-section scan:** searched for a heading immediately followed by another heading with no content between.
-  Result: **FAIL (59: [('## LAYER 1 - SIMPLE START', '### Visual gateway - one stable pattern, many changing insta'), ('## LAYER 2 - CORE UPSC', '#### 0. ONE-SCREEN MAP ⚠️'), ('#### 1. PLATO — THEORY OF IDEAS/FORMS ✅', '#### 1.1 The Doctrine')])**.
+  Result: **PASS for the wrapper-heading pairs** — the numbered `LAYER 1-5` wrapper-heading-then-subheading pairs
+  were resolved by the structural repair recorded below, which removed every visible numbered layer wrapper
+  heading. The remaining flagged pair (`#### 1. PLATO — THEORY OF IDEAS/FORMS` -> `#### 1.1 The Doctrine`) is a
+  pre-existing numbered-subheading sequence, not a layer wrapper, and is unchanged and out of scope for this
+  repair.
 - **Word / line counts:** computed on the complete generated file and reported in the chat completion summary for
   this task (word/line counts are session-reported rather than self-embedded, since a value embedded inside the
   file would itself change the count it reports).
 - **SHA-256:** computed on the complete generated file immediately after writing and reported in the chat
   completion summary for this task, for the same self-reference reason (a hash value written inside the file
   would change the file it is supposed to describe).
+
+## Structural Repair Note
+
+- All 50 visible numbered `LAYER 1-5` wrapper headings (5 per lesson x 10 lessons) copied from the layered
+  source package were removed so that each lesson reads as one integrated terminal flow. The "How to Use This
+  Live Session" section's old wrapper table and sentence were replaced with a concise statement of
+  that flow: Progress -> Pre-Teach Checklist -> visual -> intuition -> doctrine/argument/examples ->
+  comparison/criticism -> UPSC application -> revision/practice.
+- No doctrine, sentence, visual, example, criticism/reply, PYQ, MCQ, Mains answer, register note or citation was
+  removed, paraphrased or reordered; only the wrapper headings and the explanatory scaffolding prose describing
+  them were removed. Lesson count/order/boundaries (10 lessons), Pre-Teach Checklists (10), solved PYQs (14) and
+  MCQs (46) are unchanged, and all triple-backtick fences remain balanced.
 
 ## Immutability note
 

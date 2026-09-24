@@ -57,17 +57,10 @@ generated_from:
 
 ## How to Use This Live Session
 
-Every logical subtopic inside a lesson follows the same learner-first order: **intuition -> visual -> terms ->
-doctrine -> argument -> examples -> comparison -> criticism/reply -> UPSC application -> revision -> practice**.
-Within that order, each lesson also carries the five retained layers from the approved source package:
-
-| Layer | Purpose |
-|---:|---|
-| 1. SIMPLE START | Visual-first, plain-language gateway into the subtopic |
-| 2. CORE UPSC | Complete canonical doctrine, terminology, arguments and worked examples |
-| 3. ADVANCED | Objections, replies, comparisons and qualified evaluation |
-| 4. EXAM APPLICATION | Verified PYQ routing and answer architecture (through 2026) |
-| 5. RAPID REVISION | Traps, recall points and compressed notes |
+Each lesson follows one integrated terminal flow, with no separate labelled layers: **Progress -> Pre-Teach
+Checklist -> visual -> intuition -> doctrine/argument/examples -> comparison/criticism -> UPSC application ->
+revision/practice**. Every logical subtopic inside a lesson moves through this same learner-first order without
+interruption.
 
 Each lesson opens with a **Progress** line (lesson number, stage, exact subtopic) and a **Pre-Teach Checklist**
 (book context queried; the exact current-affairs search attempted; and an honest record of what, if anything, was
@@ -136,8 +129,6 @@ CA search: "rationalism basic tenets UPSC current affairs India 2026"
 CA found: None verifiable this session — live `web_search` returned a repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file, so no substitute headline is invented or backfilled from memory. This is a school-level definitional item with no genuine unresolved current-affairs hook in the first place; static UPSC syllabus relevance is the sufficient exam linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway — one confidence, three systems
 
 ```text
@@ -168,8 +159,6 @@ that experience only occasions.
 | Substance metaphysics | identify what exists most fundamentally, and how many such things there are |
 
 > **Memory line:** the method is shared across the three thinkers; the ontology built on top of it is not.
-
-## LAYER 2 - CORE UPSC
 
 #### 0. ONE-SCREEN MAP ⚠️
 
@@ -252,8 +241,6 @@ The unity of the school is methodological and explanatory; it does not imply a c
 mind-body theory or account of freedom. Every later lesson in this session will show one further place where the
 same starting confidence produces three different, precisely stated positions.
 
-## LAYER 3 - ADVANCED
-
 ### Unity without uniformity
 
 The strongest definition of rationalism is neither "all knowledge is innate" nor "the senses are always false."
@@ -276,8 +263,6 @@ reason discloses necessary structure. Its power lies in demanding reasons that e
 merely reporting regularities; its acknowledged weakness is that no neutral rational procedure, internal to the
 school itself, selects one final system over its rivals.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified routes and marks-wise architecture
 
 - **2025 Q2(a), 20 marks:** "What are the basic tenets of Rationalism? How does Descartes build a system of
@@ -297,8 +282,6 @@ generate the three systems and assess the underdetermination objection explicitl
 **Demand trap:** "basic tenets" requires a **school-level** account before any answer narrows to Descartes alone
 — a Descartes-only answer to a "basic tenets" question loses marks for incompleteness even if the Cartesian
 material is excellent.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -323,8 +306,6 @@ Book context: [queried — canonical owner `Rationalism.md` §1.1-1.3, §1.5B st
 CA search: "Descartes method of doubt cogito UPSC current affairs India 2026"
 CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is a 1637/1641 doctrinal item (four rules, hyperbolic doubt, cogito) with no genuine unresolved current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 - SIMPLE START
 
 ### Visual gateway — doubt destroys itself at one point
 
@@ -353,8 +334,6 @@ the occurrence of doubting itself — the demolition machine cannot demolish the
 
 > **Memory line:** the demon can deceive a thinker, but cannot make deception occur without a thinker doing the
 > thinking.
-
-## LAYER 2 - CORE UPSC
 
 #### 1.1 Descartes — the Method of Doubt ✅
 
@@ -418,8 +397,6 @@ be false. It does not yet prove a permanent soul, other minds, God or body. The 
 stronger than a general proposition because the attempted denial enacts what it denies — trying to doubt one's
 own existence requires the very thinking whose existence is in question.
 
-## LAYER 3 - ADVANCED
-
 ### From occurrence to substance
 
 The cogito is not a syllogism whose hidden major premise is "all thinkers exist." If it depended on that
@@ -443,8 +420,6 @@ even yesterday's "clear and distinct" reasoning cannot be trusted today.
 not, by itself, carry the full weight of Cartesian dualism, an enduring soul, or trustworthy memory. Those
 require the further steps supplied across Lessons 3 and 6.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified route and answer architecture
 
 - **2022 Q4(b), 15 marks:** "How does Rene Descartes explain the notion of certainty with reference to knowledge
@@ -462,8 +437,6 @@ perception, and show why the cogito is secure while the wider system remains dep
 
 **Directive trap:** "critically discuss" requires *judging* the move from thinking occurrence to substantial
 self, not merely narrating the *Meditations* in sequence.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -489,8 +462,6 @@ CA search: "Descartes wax argument proof of God external world UPSC current affa
 CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is a Meditation II-V doctrinal item with no genuine unresolved current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway — the hinge from self to world
 
 ```text
@@ -514,8 +485,6 @@ reasoning beyond the immediate moment and to bridge the thinker to a material wo
 famous **Cartesian Circle**.
 
 > **Memory line:** wax explains the *mode* of knowing body; divine veracity restores the *existence* of body.
-
-## LAYER 2 - CORE UPSC
 
 #### 1.4 Descartes — THE WAX ARGUMENT (*Meditation* II) ✅ — the missing half of "certain knowledge"
 
@@ -682,8 +651,6 @@ The wax argument and the proof of the external world must **not** be collapsed i
 **how** body would be known (as extended, flexible and changeable, through intellectual judgement). The later
 world-argument concerns **whether** material things exist at all, and depends entirely on divine veracity.
 
-## LAYER 3 - ADVANCED
-
 ### The Circle as the load-bearing objection
 
 Arnauld's objection is structural, not a minor technicality: Descartes relies on clear and distinct perception
@@ -706,8 +673,6 @@ establishes intellectual structuring more securely than it establishes a positiv
 certainty (Lesson 2) to a stable, God-guaranteed world remains only as strong as the contested theological
 bridge — which is exactly why the Circle is not a peripheral flaw but the system's load-bearing joint.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified routes and marks-wise architecture
 
 - **2019 Q1(d), 10 marks:** "How does Descartes prove the existence of things other than himself and God?
@@ -728,8 +693,6 @@ Meditation III-V supplies the fragile theological bridge.
 
 **Demand trap:** never say the wax argument itself proves an external wax exists — it proves only *how* wax
 would be known, if known at all.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -757,8 +720,6 @@ CA search: "Descartes Spinoza Leibniz substance monism pluralism UPSC current af
 CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is the star sub-topic of a 17th-century metaphysics syllabus item with no genuine current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway — count follows criterion
 
 ```text
@@ -779,8 +740,6 @@ created substances; Spinoza permits only absolute independence; Leibniz adds tha
 
 > **Memory line:** attribute separates (Descartes), independence unifies (Spinoza), simplicity multiplies
 > (Leibniz).
-
-## LAYER 2 - CORE UPSC
 
 #### 2. SUBSTANCE ✅ — The STAR Sub-topic
 
@@ -903,8 +862,6 @@ modifications *within* God.
 > 🔑 **For any 20-mark substance question:** open with the shared definition, show the *logical move* each makes,
 > then present this table.
 
-## LAYER 3 - ADVANCED
-
 ### The dialectic of revision: gains and costs
 
 Descartes gains a clear division between consciousness and mathematical nature, but his definition sits uneasily
@@ -929,8 +886,6 @@ unextended and purely qualitative/psychical, unlike Democritean physical atoms.
 strictness. The ontology produced depends entirely on which feature — distinction, independence, or simplicity —
 is treated as decisive.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified routes and marks-wise architecture
 
 - **2018 Q2(a), 20 marks:** the central comparative substance question — full solved answer at Lesson 10, Part C,
@@ -947,8 +902,6 @@ costs and a conceptual verdict.
 
 **Demand trap:** a table without the *mechanism* of divergence does not answer "what is the reason for the
 difference?" — the examiner wants the logical move, not just the labels.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -970,8 +923,6 @@ CA search: "Descartes Spinoza Leibniz God proofs theodicy UPSC current affairs 2
 CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is a 17th-18th-century philosophy-of-religion doctrinal item with no genuine unresolved current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway — three roles
 
 ```text
@@ -988,8 +939,6 @@ imperfect-looking world was actualised rather than another — which is exactly 
 God's goodness given the existence of evil) becomes indispensable to his system.
 
 > **Memory line:** guarantee -> immanence -> selection-with-justification.
-
-## LAYER 2 - CORE UPSC
 
 #### 3. GOD ✅ (proofs already reconstructed for Descartes in Lesson 3, §3.1 — cross-referenced, not repeated)
 
@@ -1088,8 +1037,6 @@ doctrine, needed for any "critically discuss"-level engagement with Leibniz's Go
 The safest comparison is functional: God **guarantees**, **is**, and **selects-and-justifies**. This prevents a
 generic answer that merely lists proofs without showing what work God does in each system.
 
-## LAYER 3 - ADVANCED
-
 ### Proof, necessity and the problem of personality
 
 Descartes' trademark argument depends on degrees of formal and objective reality; his ontological argument
@@ -1116,8 +1063,6 @@ itself). Descartes and Leibniz preserve stronger personal and explanatory functi
 entire apparatus for reconciling divine goodness with evil — at the cost of heavier proof burdens and, for
 Leibniz specifically, the charge of unfalsifiability.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified routes and marks-wise architecture
 
 - **2019 Q1(d), 10 marks:** Descartes' God as bridge to the world — cross-linked to Lesson 3; full solved answer
@@ -1136,8 +1081,6 @@ with a criterion-based verdict.
 
 **Demand trap:** "Whatever is, is in God" is **ontological dependence**, not spatial inclusion and not merely
 creation — treating it as either is a common and heavily penalised misreading.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -1163,8 +1106,6 @@ CA search: "Spinoza mind body parallelism 2026 UPSC Philosophy Paper I current a
 CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. The 2026 anchor here is the **verified UPSC 2026 examination paper itself** (Q1(a)), not a news event; this is recorded honestly as an examination-verified link rather than a current-affairs link.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway — apparent coordination
 
 ```text
@@ -1184,8 +1125,6 @@ gap to bridge because there was never a second substance to cross into. Leibniz 
 other; God coordinated their independent histories from the very beginning.
 
 > **Memory line:** interaction -> parallelism -> harmony.
-
-## LAYER 2 - CORE UPSC
 
 #### 4. MIND-BODY DUALISM ✅
 
@@ -1327,8 +1266,6 @@ under the attributes of Thought and Extension respectively. Their perfect corres
 exchange but from the fact that there was never a second substance to cross into — this is precisely how
 Spinoza's parallelism dissolves, rather than solves, the Cartesian interaction problem."
 
-## LAYER 3 - ADVANCED
-
 ### Explanatory economy versus experiential fidelity
 
 Princess Elisabeth's objection targets **intelligibility**: an unextended mind and an extended body share no
@@ -1354,8 +1291,6 @@ matches ordinary first-person experience of interaction, and Leibniz best integr
 plurality of substances. A declared winner exists only after the evaluative criterion (economy, experiential
 fidelity, or systematic consistency) is stated explicitly — exactly the discipline the 2024 Q3(c) PYQ demands.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified route and marks-wise architecture
 
 - **2024 Q3(c), 15 marks:** rank the rationalist mind-body accounts against human freedom and free will — full
@@ -1377,8 +1312,6 @@ experience and responsibility separately.
 before ranking. Similarly, the 2026 "relationship between states of mind and bodily processes" question is not
 answered by a general essay on Spinozist metaphysics — it must foreground **identity and parallel causal order**,
 using P7 and P13 by name.
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -1402,8 +1335,6 @@ Book context: [queried — canonical owner `Rationalism.md` §5.1-5.4; cross-che
 CA search: "Descartes Spinoza Leibniz freedom determinism free will UPSC current affairs 2026"
 CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is a 17th-18th-century metaphysics-of-agency doctrinal item with no genuine unresolved current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 - SIMPLE START
 
 ### Visual gateway — three meanings of freedom
 
@@ -1433,8 +1364,6 @@ pushed by external causes), and Leibniz protects responsible, intelligent action
 series is already settled in God's foreknowledge.
 
 > **Memory line:** alternatives -> adequacy -> intelligent spontaneity.
-
-## LAYER 2 - CORE UPSC
 
 #### 5. DETERMINISM AND FREEDOM ✅
 
@@ -1503,8 +1432,6 @@ series is already settled in God's foreknowledge.
 | What "freedom" means | ability to do otherwise | acting from one's own adequate knowledge | spontaneity + intelligence + contingency |
 | Moral responsibility | yes (contra-causal freedom) | problematic (but Spinoza reinterprets via adequate ideas) | yes (agent is the source, though determined) |
 
-## LAYER 3 - ADVANCED
-
 ### Three criteria, three winners
 
 Ranking the trio on "freedom" without stating a criterion produces an unfalsifiable, purely rhetorical exercise.
@@ -1526,8 +1453,6 @@ metaphysical determinism (in Spinoza's case) or divine foreknowledge (in Leibniz
 **Qualified verdict:** the ranking exercise is only as good as its stated criterion; the examiner rewards
 students who state the criterion **before** ranking, not students who assert a "correct" answer as if freedom had
 one uncontested definition.
-
-## LAYER 4 - EXAM APPLICATION
 
 ### Verified routes and marks-wise architecture
 
@@ -1551,8 +1476,6 @@ criterion-relative verdict rather than a single unqualified winner.
 first-person evaluative paragraph — omitting the personal verdict loses marks even if the exposition is
 otherwise excellent.
 
-## LAYER 5 - RAPID REVISION
-
 ### Rapid recall
 
 - Descartes: infinite will, finite intellect; error = will outrunning intellect; libertarian tendency, contested
@@ -1575,8 +1498,6 @@ Book context: [queried — canonical owner `Rationalism.md` §1.7 (three kinds o
 CA search: "Spinoza Ethics conatus affects intellectual love pantheism UPSC current affairs 2026"
 CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is a 1677 systematic-metaphysics-and-ethics doctrinal item with no genuine unresolved current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 - SIMPLE START
 
 ### Visual gateway — metaphysics becomes ethics
 
@@ -1606,8 +1527,6 @@ a mind; that very change in understanding **is** the change from passivity to fr
 (conatus and the affects) and ethics are one continuous argument in the *Ethics*.
 
 > **Memory line:** know the cause, become more of the cause.
-
-## LAYER 2 - CORE UPSC
 
 #### 1.7 Spinoza — THE THREE KINDS OF KNOWLEDGE (*Ethics* II, P40, Scholium 2) ✅
 
@@ -1768,8 +1687,6 @@ Pantheism, parallelism, determinism, conatus, the affects and the three kinds of
 **one** architecture. They must never be written up as four isolated notes-pages; each is a further specification
 of the same necessary, immanent, self-caused order.
 
-## LAYER 3 - ADVANCED
-
 ### Pantheism, acosmism and determination-negation
 
 The pantheist description is justified because nothing exists outside God and God is the immanent (not
@@ -1799,8 +1716,6 @@ three achievements but one.
 intelligibility in a single system; the price is pressure on individuality (acosmism), on contingency
 (necessitarianism), and on an external criterion for distinguishing intuition from confident imagination.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified routes and marks-wise architecture
 
 - **2019 Q2(c), 15 marks:** necessity — "what is, cannot be other than what it is" — full solved answer at
@@ -1824,8 +1739,6 @@ distinguish pantheism from acosmism and preserve provenance discipline throughou
 **Demand trap:** "comment" on determination-negation requires a pointed judgement, not a general essay on all of
 Spinoza; a "conatus" or "affects" sub-question requires the exact III P6-P11 apparatus, not a vague reference to
 "desire."
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -1856,8 +1769,6 @@ CA search: "Leibniz monads entelechy Aristotle comparison UPSC 2026 current affa
 CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. The 2026 anchor here is the **verified UPSC 2026 examination paper itself** (Q1(d)), not a news event; this is recorded honestly as an examination-verified link rather than a current-affairs link.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## LAYER 1 - SIMPLE START
-
 ### Visual gateway — plurality without causal contact
 
 ```text
@@ -1883,8 +1794,6 @@ synchronised by God from the moment of creation.
 | What kind of being is a monad? | an **entelechy** — Part B below |
 
 > **Memory line:** internally active, externally closed, universally coordinated.
-
-## LAYER 2 - CORE UPSC
 
 #### 2.3 / 2.3A recap — the monadic apparatus, assembled as one system ✅
 
@@ -2069,8 +1978,6 @@ SIMPLE ACTIVE UNITS (entelechies — Part B)
 exposition, presuppositions and objection ledger on the Aristotle side, see `Plato-Aristotle.md` §6.6, Lesson 7
 Part B of the sibling live edition `live_sessions/Western-Philosophy/01-Plato-Aristotle/`.
 
-## LAYER 3 - ADVANCED
-
 ### Infinite analysis and the remaining freedom problem
 
 Necessary truths reduce, through finite analysis, to identities or contradictions. Contingent truths require an
@@ -2093,8 +2000,6 @@ in which an individual's whole biography is fixed by its very identity as that i
 responsibility, and its most sophisticated appropriation of an inherited Aristotelian term, while placing
 exceptional explanatory weight on complete concepts, infinite analysis and divine selection.
 
-## LAYER 4 - EXAM APPLICATION
-
 ### Verified routes and marks-wise architecture
 
 - **2018 Q1(b), 10 marks:** place for freedom under harmony (cross-linked to Lesson 7) — full solved answer at
@@ -2116,8 +2021,6 @@ divine coordination; OR the entelechy 20-mark rewording in B.7.
 **Demand trap:** "own comments" requires an explicit evaluative paragraph, not an implied preference. For the
 entelechy question specifically: never answer using only one philosopher's doctrine when the demand says
 "compare and contrast."
-
-## LAYER 5 - RAPID REVISION
 
 ### Rapid recall
 
@@ -2143,8 +2046,6 @@ Book context: [queried — canonical owner `Rationalism.md` §6-9, D, V, T, and 
 CA search: "Rationalism Descartes Spinoza Leibniz comparison criticisms UPSC current affairs 2026"
 CA found: None verifiable this session — live `web_search` returned the same repeated backend transport error (HTTP 400, invalid session) on every attempt made while drafting this file. This is a synthesis/practice lesson over a static syllabus item with no genuine unresolved current-affairs hook; static UPSC syllabus relevance is the sufficient exam linkage.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## LAYER 1 - SIMPLE START
 
 ### Visual gateway — the whole answer machine
 
@@ -3633,6 +3534,18 @@ Leibniz:   pre-established harmony -> synchronized windowless monads
 - **Word / line counts and SHA-256:** to be computed on the complete generated file and reported in the chat
   completion summary for this task, since a value embedded inside the file would change the count/hash it
   describes.
+
+## Structural Repair Note
+
+- All 46 visible numbered `LAYER 1-5` wrapper headings copied from the layered source package were removed so
+  that each lesson reads as one integrated terminal flow. The "How to Use This Live Session" section's "five
+  retained layers" table and sentence were replaced with a concise statement of that flow: Progress -> Pre-Teach
+  Checklist -> visual -> intuition -> doctrine/argument/examples -> comparison/criticism -> UPSC application ->
+  revision/practice.
+- No doctrine, sentence, visual, example, criticism/reply, PYQ, MCQ, Mains answer, register note or citation was
+  removed, paraphrased or reordered; only the wrapper headings and the explanatory scaffolding prose describing
+  them were removed. Lesson count/order/boundaries (10 lessons), Pre-Teach Checklists (10), solved PYQs (16) and
+  MCQs (40) are unchanged, and all triple-backtick fences remain balanced.
 
 ## Immutability note
 

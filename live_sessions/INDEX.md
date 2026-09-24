@@ -19,17 +19,18 @@
 | Philosophy-Optional | Mimamsa - Restarted Complete Session | 12 | 16,803 | `f5a06ff92101` | [Philosophy-Optional/07-Mimamsa/Learning-Session-Live-Edition.md](Philosophy-Optional/07-Mimamsa/Learning-Session-Live-Edition.md) |
 | Philosophy-Optional | Schools of Vedanta | 14 | 49,946 | `6a8b1b757a56` | [Philosophy-Optional/08-Vedanta/Learning-Session-Live-Edition.md](Philosophy-Optional/08-Vedanta/Learning-Session-Live-Edition.md) |
 | Philosophy-Optional | Sri Aurobindo | 9 | 39,190 | `b3cdb3319f08` | [Philosophy-Optional/09-Sri-Aurobindo/Learning-Session-Live-Edition.md](Philosophy-Optional/09-Sri-Aurobindo/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Plato and Aristotle | 10 | 31,905 | `aa7f20f7a58b` | [Western-Philosophy/01-Plato-Aristotle/Learning-Session-Live-Edition.md](Western-Philosophy/01-Plato-Aristotle/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Rationalism — Descartes, Spinoza and Leibniz | 10 | 33,142 | `9a1b307a6a8c` | [Western-Philosophy/02-Rationalism/Learning-Session-Live-Edition.md](Western-Philosophy/02-Rationalism/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Empiricism — Locke, Berkeley and Hume | 10 | 39,758 | `48833064bd6a` | [Western-Philosophy/03-Empiricism/Learning-Session-Live-Edition.md](Western-Philosophy/03-Empiricism/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Kant | 12 | 36,628 | `ba4e380ef663` | [Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md](Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Plato and Aristotle | 10 | 34,836 | `fc1e8773a110` | [Western-Philosophy/01-Plato-Aristotle/Learning-Session-Live-Edition.md](Western-Philosophy/01-Plato-Aristotle/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Rationalism — Descartes, Spinoza and Leibniz | 10 | 35,383 | `2277305e845f` | [Western-Philosophy/02-Rationalism/Learning-Session-Live-Edition.md](Western-Philosophy/02-Rationalism/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Empiricism — Locke, Berkeley and Hume | 10 | 39,536 | `3541ce42bb00` | [Western-Philosophy/03-Empiricism/Learning-Session-Live-Edition.md](Western-Philosophy/03-Empiricism/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Kant | 12 | 36,205 | `51d15f75881e` | [Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md](Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md) |
 | Economy | Economy 07 - Money Market, Capital Market and Financial Instruments | 12 | 18,514 | `4dca50905089` | [Economy/07-Money-Capital-Markets-Financial-Instruments/Learning-Session-Live-Edition.md](Economy/07-Money-Capital-Markets-Financial-Instruments/Learning-Session-Live-Edition.md) |
 | Economy | Derivatives, Futures and Options | 8 | 9,155 | `702314bbfa0c` | [Economy/08-Derivatives-Futures-Options/Learning-Session-Live-Edition.md](Economy/08-Derivatives-Futures-Options/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Hegel | 11 | 33,868 | `02e3447e70ec` | [Western-Philosophy/05-Hegel/Learning-Session-Live-Edition.md](Western-Philosophy/05-Hegel/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Moore, Russell & Early Wittgenstein | 12 | 43,165 | `5767072c08fe` | [Western-Philosophy/06-Moore-Russell-Early-Wittgenstein/Learning-Session-Live-Edition.md](Western-Philosophy/06-Moore-Russell-Early-Wittgenstein/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Logical Positivism | 12 | 35,880 | `ab17a78aeb88` | [Western-Philosophy/07-Logical-Positivism/Learning-Session-Live-Edition.md](Western-Philosophy/07-Logical-Positivism/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Later Wittgenstein | 12 | 31,505 | `45d241d8ff7e` | [Western-Philosophy/08-Later-Wittgenstein/Learning-Session-Live-Edition.md](Western-Philosophy/08-Later-Wittgenstein/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Phenomenology (Husserl) | 12 | 36,381 | `058b8905ac11` | [Western-Philosophy/09-Phenomenology-Husserl/Learning-Session-Live-Edition.md](Western-Philosophy/09-Phenomenology-Husserl/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Hegel | 11 | 33,480 | `a469c0829b7f` | [Western-Philosophy/05-Hegel/Learning-Session-Live-Edition.md](Western-Philosophy/05-Hegel/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Moore, Russell & Early Wittgenstein | 12 | 42,756 | `f0e7a5c5191b` | [Western-Philosophy/06-Moore-Russell-Early-Wittgenstein/Learning-Session-Live-Edition.md](Western-Philosophy/06-Moore-Russell-Early-Wittgenstein/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Logical Positivism | 12 | 35,467 | `84130dc3691d` | [Western-Philosophy/07-Logical-Positivism/Learning-Session-Live-Edition.md](Western-Philosophy/07-Logical-Positivism/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Later Wittgenstein | 12 | 31,114 | `c645fb192d35` | [Western-Philosophy/08-Later-Wittgenstein/Learning-Session-Live-Edition.md](Western-Philosophy/08-Later-Wittgenstein/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Phenomenology (Husserl) | 12 | 35,970 | `9a74b6537632` | [Western-Philosophy/09-Phenomenology-Husserl/Learning-Session-Live-Edition.md](Western-Philosophy/09-Phenomenology-Husserl/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Existentialism (Kierkegaard, Sartre, Heidegger) | 14 | 36,380 | `e03fbd94ae09` | [Western-Philosophy/10-Existentialism/Learning-Session-Live-Edition.md](Western-Philosophy/10-Existentialism/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
