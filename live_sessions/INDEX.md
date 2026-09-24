@@ -47,6 +47,7 @@
 | Economy | Economy 21 - IMF, World Bank, ADB, AIIB, NDB and Global Governance | 17 | 33,643 | `6bb5a95c1f84` | [Economy/21-IMF-World-Bank-ADB-AIIB-NDB-Global-Governance/Learning-Session-Live-Edition.md](Economy/21-IMF-World-Bank-ADB-AIIB-NDB-Global-Governance/Learning-Session-Live-Edition.md) |
 | Economy | Economy 22 - Employment, Labour Codes, Skills and Demographic Dividend | 18 | 24,295 | `bb567047ed9d` | [Economy/22-Employment-Labour-Codes-Skills-Demographic-Dividend/Learning-Session-Live-Edition.md](Economy/22-Employment-Labour-Codes-Skills-Demographic-Dividend/Learning-Session-Live-Edition.md) |
 | Economy | Economy 23 - Poverty, Inequality, Social Sector and Inclusive Growth | 18 | 26,134 | `be3fe63655f7` | [Economy/23-Poverty-Inequality-Social-Sector-Inclusive-Growth/Learning-Session-Live-Edition.md](Economy/23-Poverty-Inequality-Social-Sector-Inclusive-Growth/Learning-Session-Live-Edition.md) |
+| Economy | Economy 24 - Services, Digital Economy, Fintech and Platform Markets | 14 | 21,174 | `9041a2571a47` | [Economy/24-Services-Digital-Economy-Fintech-Platform-Markets/Learning-Session-Live-Edition.md](Economy/24-Services-Digital-Economy-Fintech-Platform-Markets/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
