@@ -34,6 +34,11 @@
   canonical subject knowledge and verified PYQ ledgers are under
   `C:\up\upsc-ai-kit\knowledge`. Regenerated Learner-v2 material is reference-only unless
   explicitly designated as formal authority.
+- **Optimized reconciliation workflow:** run one exhaustive preflight and freeze its defect
+  ledger; validate source identity, propositions, routes, practice, and artifacts incrementally;
+  freeze cleared surfaces; generate PDFs once after visible Markdown stabilizes; use focused
+  re-reviews after the first full review; finish with one full development gate, staged release
+  gate, diff check, commit, and push. Optimization never waives completeness or integrity.
 - **India-centric examples** always.
 
 ---

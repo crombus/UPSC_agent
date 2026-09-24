@@ -95,6 +95,25 @@ It must remain usable from the repository alone in Markdown and PDF form.
       direct PYQ or original Mains models, solved workbook, PDFs, metadata, and validators.
       Any added MCQ must obey rules 16–21, and the package's coverage-sized total must be
       re-justified rather than merely incremented.
+    - **Optimized execution workflow (locked):**
+      1. Run one exhaustive preflight before editing: extract formal blocks, large leaves,
+         panels, verified PYQs, routes, obligations, and affected package surfaces.
+      2. Freeze the resulting coverage/defect ledger. Do not repeatedly rediscover scope or
+         reopen already cleared surfaces unless a later change can affect them.
+      3. Validate incrementally in this order: source and block identity; authored proposition
+         quality; routes and ownership; MCQs and timed answers; generated artifacts.
+      4. Use shared, already-tested validation mechanisms for common integrity gates. Keep
+         topic-specific validators limited to source paths, counts, obligations, semantic
+         assertions, and genuine topic exceptions.
+      5. Stabilize learner-visible Markdown before generating PDFs. Generate the four PDFs once;
+         validator-only, metadata-only, or review-JSON-only changes must not trigger unnecessary
+         PDF regeneration.
+      6. After the first complete independent review, use focused re-reviews only for the newly
+         changed risk area. Do not re-audit unrelated surfaces that remain mechanically and
+         semantically unaffected.
+      7. Finish with one full development validation, one staged release validation, `git diff
+         --check`, then commit and push. These optimizations reduce repetition only; they never
+         waive coverage, semantic integrity, independent review, or release gates.
     - Interpret any request to `preserve answer rotation` as preserving a valid randomized,
       non-gameable answer distribution where possible. It never overrides the locked rule against
       predictable A→B→C→D rotation, answer runs, lexical cues, or length/punctuation cues.

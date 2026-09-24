@@ -28,6 +28,15 @@
 - **2026 Q4(a):** This topic remains primary owner. Logical Positivism receives only the bounded
   object-language/metalanguage and unified-science connection.
 
+### Inbound obligations from Topic 08
+
+- `WP-2018-Q3C-SAYING-SHOWING`: Topic 06 is the primary owner of saying/showing, logical form and
+  the *Tractatus* answer; Topic 08 supplies only the later plurality-of-methods contrast.
+- `WP-2021-Q4C-WHEREOF-SILENCE`: Topic 06 is the primary owner of silence, the ladder and limits of
+  the sayable; Topic 08 supplies only the later grammar-and-therapy contrast.
+- `WP-2022-Q3C-PICTORIAL-LOGICAL-FORM`: Topic 06 is the primary owner of pictorial form, logical
+  form and representation; Topic 08 supplies only the later shift to determinacy in practice.
+
 ## Timed architecture
 
 ```text

@@ -87,6 +87,9 @@ Bounded cross-links:
 | WP-2023-Q4C-EARLY-LATER-TRANSITION | Topic 08 Later Wittgenstein | Early picture-theory baseline only; meaning-as-use remains Topic 08-owned | fulfilled in Topic 08 and cross-linked here |
 | WP-2025-Q3A-EARLY-LATER-TRANSITION | Topic 08 Later Wittgenstein | Early logical-structure baseline only; the transition and later method remain Topic 08-owned | fulfilled in Topic 08 and cross-linked here |
 | WP-2026-Q4A-METALANGUAGE-UNIFIED-SCIENCE | Topic 06 primary; Topic 07 paired | Topic 07 receives only the metalanguage/unified-science connection | fulfilled in Topic 07 |
+| WP-2018-Q3C-SAYING-SHOWING | Topic 06 primary; Topic 08 paired | Topic 08 receives only the later plurality-of-methods contrast | fulfilled in Topic 06 and cross-linked in Topic 08 |
+| WP-2021-Q4C-WHEREOF-SILENCE | Topic 06 primary; Topic 08 paired | Topic 08 receives only the later grammar-and-therapy contrast | fulfilled in Topic 06 and cross-linked in Topic 08 |
+| WP-2022-Q3C-PICTORIAL-LOGICAL-FORM | Topic 06 primary; Topic 08 paired | Topic 08 receives only the later practice-based contrast | fulfilled in Topic 06 and cross-linked in Topic 08 |
 
 Unfulfilled destination evidence is a validation failure; recording a route without substantive
 closure does not satisfy coverage.

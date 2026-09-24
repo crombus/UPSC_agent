@@ -6,6 +6,11 @@ The matrix was fixed before closure. The 51-question total follows distinct reco
 reasoning, elimination and transfer operations; it is neither copied from the 56-question g5
 source nor selected as a round target.
 
+Correct-option positions were independently re-randomized per question with persisted seed
+`topic08-later-wittgenstein-20260924-15`; complete options and their option-specific explanations
+moved together. Validation recomputes the full key from the seed, then audits distribution,
+maximum run, periodicity, wording/length features, leakage and explanation specificity.
+
 | Cell | Substantive coverage | Operations | MCQs | PYQ route | Status |
 |---|---|---|---:|---|---|
 | C01 | transition, colour exclusion, method, provenance and ownership boundary | chronology; comparison; evaluation | 1–5 | 2023, 2025 | Complete |
@@ -19,12 +24,30 @@ source nor selected as a round target.
 | C09 | language on holiday, perspicuous representation, quietism and fly-bottle | method; application; evaluation | 44–47 | 2023, 2025 | Complete |
 | C10 | aspect-seeing, enrichment boundary, 2026 mentalism and overall verdict | transfer; ownership; synthesis | 48–51 | 2026 | Complete |
 
+## Formal-source reconciliation
+
+The authoritative completed `Learning-Session.md` and `Solved-Practice-Workbook.md` are read from
+the user-locked Downloads tree, never from the derivative `C:\up\learning_package_final` copy.
+Every extracted formal block is bound to an independently authored decision in
+`FORMAL-COVERAGE-REVIEW.json`; `FORMAL-COVERAGE-AUDIT.json` is a derived validation record and
+cannot author or approve decisions. Source-file hashes, full-block hashes, heading/context
+identity, structural child unions, large-leaf distributed propositions and the exact ordered
+33-panel master flow are validated.
+
+## Bounded route obligations
+
+| Obligation ID | Primary owner | Topic 08's bounded contribution | Status |
+|---|---|---|---|
+| WP-2018-Q3C-SAYING-SHOWING | Topic 06 Moore, Russell and Early Wittgenstein | Later plurality of methods only | fulfilled substantively |
+| WP-2021-Q4C-WHEREOF-SILENCE | Topic 06 Moore, Russell and Early Wittgenstein | Later grammar-and-therapy contrast only | fulfilled substantively |
+| WP-2022-Q3C-PICTORIAL-LOGICAL-FORM | Topic 06 Moore, Russell and Early Wittgenstein | Later determinacy-in-practice contrast only | fulfilled substantively |
+
 ## Mechanical source-cell inventory
 
-The validator reads the latest files in `learning-sessions/topic-08/g5/` and the canonical
-`Later-Wittgenstein.md`. It locates the anchors below in those files and checks that each listed
-witness occurs in the combined anchored source material and in the Revision Guide. This is a
-mechanical presence check, not a claim that wording alone proves semantic completeness.
+The earlier g5 session remains lineage evidence for the pre-existing MCQ matrix, while formal
+coverage authority now comes from the completed Downloads session/workbook and the canonical
+`Later-Wittgenstein.md`. This is a mechanical presence check, not a claim that wording alone
+proves semantic completeness.
 
 | Source cell | Coverage cells | g5 session anchor | g5 workbook anchor | Canonical anchor | Mechanical witnesses |
 |---|---|---|---|---|---|
@@ -135,9 +158,9 @@ Directly owned: **8** — 2018 Q1(c), 2019 Q3(b), 2020 Q4(c), 2022 Q1(c), 2023 Q
 | Ten basic and ten advanced sessions | complete doctrine, objections, examples and exam use | Revision Guide |
 | Canonical exam apparatus | debates, directive decoder, verdicts, traps and architecture | Revision Guide |
 | 2026 mental-ideas demand | use, rules, diary, criteria and non-behaviourist qualification | Revision Guide addendum; Toolkit |
-| Register notes and master flows | all ten panels after substantive teaching | Revision Guide final section |
+| Register notes and master flows | all 33 authoritative panels after substantive teaching | Revision Guide final section |
 | Solved direct PYQs | exact wording, metadata, demand, timed answer, criticism and marks logic | Answer-Writing Toolkit |
-| Original practice | complete solved 10-, 15- and 20-mark answers | Answer-Writing Toolkit |
+| Original practice | nine complete solved models: three retained package originals plus all six formal-workbook exercises; three each at 10, 15 and 20 marks | Answer-Writing Toolkit |
 
 ## Completion decision
 

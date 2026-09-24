@@ -9,6 +9,12 @@
 - Direct ownership: 2018 Q1(c), 2019 Q3(b), 2020 Q4(c), 2022 Q1(c), 2023 Q4(c), 2024 Q1(d), 2025 Q3(a), 2026 Q3(c).
 - 2021 has no directly owned part. Early picture theory and positivist verification are bounded comparisons owned by Topics 06 and 07.
 
+## Bounded route obligations
+
+- `WP-2018-Q3C-SAYING-SHOWING`: **Topic 06 owns** saying/showing, logical form and the *Tractatus* answer. Topic 08 contributes only the later **plurality of methods** contrast.
+- `WP-2021-Q4C-WHEREOF-SILENCE`: **Topic 06 owns** the silence proposition, ladder and limits of the sayable. Topic 08 contributes only the later **grammar and therapy** contrast.
+- `WP-2022-Q3C-PICTORIAL-LOGICAL-FORM`: **Topic 06 owns** pictorial form, logical form and representation. Topic 08 contributes only the later shift from formal determinacy to determinacy in **practice**.
+
 ## Demand map and recurring themes
 
 | Demand | High-value answer spine |
@@ -328,6 +334,11 @@ Write within the locked 15-mark band and reserve the final minute for checking t
 
 ## Original solved practice
 
+The first three models are retained package originals. Originals 4-9 restore the six distinct
+exercises in the authoritative formal workbook. Each restored exercise has its own timed answer;
+additional distinctions from the longer formal model are preserved under **Depth refinement** and
+are not counted in the timed word total.
+
 ## Original 1 · 10 marks
 
 **Question:** Explain why ostensive definition cannot by itself fix meaning, and relate this failure to meaning as use.
@@ -427,6 +438,310 @@ A balanced judgement should rank the internal argument first, the objection seco
 ### Word and time guidance
 
 Write within the locked 20-mark band and use the final minute to verify the conclusion follows from the body.
+
+## Original 4 · 10 marks
+
+**Question:** "An ostensive definition can be variously interpreted in every case." Examine the significance of this remark for Wittgenstein's account of meaning.
+
+### Demand decoding
+
+Explain why pointing is underdeterminate, identify the practice that makes it work, and connect the
+result to meaning as use and private ostension.
+
+### Timed model answer
+
+The remark denies that pointing can connect a word with its meaning independently of an already
+understood practice. If a teacher points to two nuts and says "two", the learner may take the word
+to name the number, colour, shape, material or even the displayed group. Adding "this number is
+called two" merely presupposes mastery of the word "number".
+
+Ostensive definition therefore works only when the learner's attention and expected response have
+been trained. Wittgenstein's chess example makes the point: showing someone the king teaches its
+meaning only if the place of that piece is already prepared within the game. The sample functions
+as a standard inside a method of representation; it does not interpret itself.
+
+This supports the qualified doctrine of meaning as use. Naming is one language-game among others,
+and its success depends on grammar, correction and technique. The same argument also anticipates
+the private-language critique: inward pointing cannot create a standard when no practice
+distinguishes remembering correctly from merely seeming correct.
+
+**Depth refinement.** PI §§28-31 connect the ambiguity of ostension, the regress in explanations,
+and the prepared place. PI §§5-6 add training, while PI §258 shows why private ostension cannot
+supply the public-type norm that ordinary ostension presupposes.
+
+**Measured model-answer words:** 164
+
+**Explicit qualification / criticism:** Wittgenstein does not deny ostensive teaching; he denies
+that it can fix meaning without a grammar of attention, continuation and correction.
+
+##### Why this earns marks
+
+It reconstructs the ambiguity, supplies the chess case, and connects the negative result to the
+positive use-theory and the private-language argument.
+
+## Original 5 · 10 marks
+
+**Question:** Explain the distinction between a criterion and a symptom, and show why Wittgenstein needs it.
+
+### Demand decoding
+
+Define both roles, apply them to sensation language, and show how the distinction blocks the
+behaviourism objection.
+
+### Timed model answer
+
+A criterion is a grammatical ground for applying a concept; a symptom is an empirical sign whose
+correlation with a condition is discovered inductively. In the *Blue Book* example, if angina is
+defined through a particular bacillus, the bacillus is criterial, whereas an inflamed throat may
+remain only symptomatic.
+
+Wittgenstein needs the distinction when explaining sensation language. Pain-behaviour in suitable
+circumstances is part of the learned grammar of "pain": it licenses third-person attribution and
+gives the concept outward application. Yet a groan, pulse or withdrawal may mislead, because
+criteria can be defeated by pretence, injury context or contrary evidence. Pain is therefore not
+identical with behaviour.
+
+The distinction preserves two claims together. An inner process cannot serve as a
+self-authenticating private standard, since the concept requires outward criteria; but genuine
+sensations and first-person avowals remain. PI §354 also warns that the roles of criterion and
+symptom can fluctuate with the language-game. The argument is grammatical, not a reduction of
+mind to observable movement.
+
+**Depth refinement.** PI §580 states that an inner process stands in need of outward criteria;
+PI §§304 and 307 resist ontological elimination, and PI §244 treats first-person present-tense
+sensation utterances as avowals rather than reports based on observation.
+
+**Measured model-answer words:** 163
+
+**Explicit qualification / criticism:** Criteria are defeasible grounds within a practice, not
+infallible behavioural entailments.
+
+##### Why this earns marks
+
+It defines the distinction, uses the canonical example, explains its role in sensation grammar,
+and directly answers the behaviourism objection.
+
+## Original 6 · 15 marks
+
+**Question:** "No course of action could be determined by a rule, because every course of action can be made out to accord with the rule." Critically examine Wittgenstein's treatment of this paradox.
+
+### Demand decoding
+
+Reconstruct the regress, explain why the paradox is a reductio rather than Wittgenstein's final
+scepticism, and assess the practice-based response.
+
+### Timed model answer
+
+Wittgenstein's paradox targets the picture that a rule determines its applications through an
+interpretation attached to the sign. The "+2" pupil of PI §185 continues 1000, 1004, 1008 and
+claims to be proceeding in the same way. More examples or verbal explanations cannot finally
+settle the dispute, because each expression can itself be interpreted differently.
+
+PI §201 therefore states the paradox: any course of action can be made to accord with a rule, and
+so can also be made to conflict with it. This is not the conclusion that rules determine nothing.
+It is a reductio of interpretation as the universal bridge between a sign and its application.
+Substituting one expression for another merely postpones the question of how that expression is
+used.
+
+The resolution is a way of grasping a rule that is not an interpretation but is exhibited in what
+we call obeying and going against it in actual cases. PI §202 adds that obeying a rule is a
+practice. Training, correction and shared techniques make continuation norm-governed rather than
+mechanically forced by an abstract formula.
+
+Two cautions are essential. Practice is not mere behavioural regularity, because mistakes remain
+possible; nor is correctness whatever a majority votes for. Kripke's sceptical reading usefully
+exposes the failure of meanings, intentions and dispositions to determine every case, but his
+community-based solution risks becoming a theory that Wittgenstein's therapeutic method rejects.
+
+The paradox is thus compelling against interpretationism. Its positive result is modest:
+normativity is displayed in stable, teachable practices, not derived from a further occult fact.
+
+**Depth refinement.** The key textual sequence is PI §185, §201 and §202. Baker, Hacker and
+McDowell read it as dissolution; Kripke presents a sceptical paradox and solution. PI §§128 and
+133 support caution about turning the response into a constructive social theory.
+
+**Measured model-answer words:** 255
+
+**Explicit qualification / criticism:** Shared practice explains the space of correct and
+incorrect continuation, but Wittgenstein gives no complete theory of legitimate conceptual
+innovation.
+
+##### Why this earns marks
+
+It separates paradox, diagnosis and resolution, then evaluates both sceptical and therapeutic
+readings without reducing correctness to conformity.
+
+## Original 7 · 15 marks
+
+**Question:** "Philosophy leaves everything as it is." Does this commit Wittgenstein to quietism? Critically discuss.
+
+### Demand decoding
+
+Locate PI §124 in its grammatical context, identify the real restriction on philosophy, and test
+both the social-conservatism and disciplinary-quietism charges.
+
+### Timed model answer
+
+PI §124 says that philosophy may not interfere with the actual use of language, can only describe
+it, and leaves everything as it is. The immediate object of non-interference is grammar, not laws,
+institutions or political arrangements. The remark therefore does not by itself entail social
+conservatism.
+
+The restriction follows from Wittgenstein's diagnosis of philosophical trouble. Language goes on
+holiday, a picture holds us captive, and we lose our way in the grammar we already command. If
+the problem is conceptual disorientation rather than missing empirical information, a new theory
+or foundation supplies the wrong kind of remedy. Philosophy instead assembles reminders,
+constructs intermediate cases and offers a perspicuous representation that lets us see
+connections. The fly-bottle image describes dissolution, not passivity.
+
+Nevertheless, a genuine quietist residue remains. PI §§109, 126 and 128 reject explanation,
+deduction and debatable philosophical theses; PI §133 measures success by being able to stop
+philosophising. This excludes much explanatory, revisionary and foundational work traditionally
+claimed by philosophy.
+
+The positive method also matters to the verdict. Perspicuous representation can expose unnoticed
+relations among uses, and invented intermediate cases can loosen a misleading picture. Those are
+intellectually productive operations even when they yield no explanatory theory. A critic may
+still ask whether grammatical description can remain neutral when choosing which uses are normal
+or which comparisons are illuminating.
+
+The best verdict is therefore divided. The charge of political acquiescence overreads a remark
+about language, while the charge of disciplinary narrowing is substantially correct. The method
+is active as therapy but quietist about constructing philosophical theory.
+
+**Depth refinement.** PI §38, §115 and §123 supply the diagnosis; PI §§122 and 127 supply the
+positive operations. The self-application objection remains: the general claim that philosophy
+should not advance general theses can itself look like one.
+
+**Measured model-answer words:** 258
+
+**Explicit qualification / criticism:** Plural "methods, like different therapies" softens, but
+does not remove, the restriction on philosophical theorising.
+
+##### Why this earns marks
+
+It distinguishes political from methodological quietism, shows what therapy positively does, and
+concedes the strongest remaining objection.
+
+## Original 8 · 20 marks
+
+**Question:** Does the account of language-games and forms of life commit Wittgenstein to relativism? Critically examine, with reference to the notion of agreement in judgments.
+
+### Demand decoding
+
+State the relativist pressure, analyse PI §§241-242, distinguish conditions of intelligibility
+from truth-makers, and identify the genuine residual problem.
+
+### Timed model answer
+
+Language-games and forms of life appear to invite relativism because standards of meaningful use
+are internal to historically variable practices. PI §23 says that speaking is part of an
+activity, while PI §217 ends justification with "This is simply what I do." If practice supplies
+the terminus, it may seem that each community makes its own truth.
+
+PI §241 directly rejects that inference. Human agreement does not decide what is true or false;
+rather, human beings make true and false statements within the language in which they agree. The
+agreement is not convergence of opinions about every proposition but agreement in form of life.
+It establishes a common space in which assertion, evidence, correction and disagreement have
+determinate roles.
+
+PI §242 deepens the point through judgment. If measuring results varied wildly from person to
+person, there would not be many inaccurate measurements but no established practice of measuring.
+Shared judgments are therefore conditions for having a subject matter, not votes that determine
+each result. Disagreement and error remain possible only against that background.
+
+Three considerations further resist simple relativism. Forms of life include natural reactions
+and human natural history, not convention alone. A practice contains standards of mistake, so
+group regularity cannot automatically equal correctness. Finally, Wittgenstein can describe
+unfamiliar and changing games, which presupposes comparison rather than sealed conceptual worlds.
+
+Moreover, innovation is intelligible only because a new move can be taught, challenged and
+integrated into consequences already shared. Conceptual change therefore modifies a practice
+rather than escaping every standard at once.
+
+Yet the account leaves a real difficulty. It explains how standards operate within a practice
+more clearly than how rival practices should rationally criticise one another. Appeals to
+bedrock may terminate justification without explaining reform, oppression or epistemic progress.
+The sparse textual role of "form of life" also counsels against building a complete cultural
+theory from it.
+
+Wittgenstein is thus not committed to truth-by-consensus relativism. His position is better read
+as transcendental and grammatical: shared practices make truth-evaluable judgment possible. The
+unresolved residue is not that every practice is right, but that no systematic account of
+cross-practice adjudication is supplied.
+
+**Depth refinement.** PI §§19 and 23 connect language with activity; §§241-242 separate agreement
+in language from agreement in opinion; §§25 and 415 locate the background partly in natural
+history. The lion remark marks a difficulty of intelligibility, not a proof that understanding
+another form of life is impossible.
+
+**Measured model-answer words:** 353
+
+**Explicit qualification / criticism:** The anti-relativist reading preserves mistake and
+disagreement, while conceding Wittgenstein's silence about rational comparison across practices.
+
+##### Why this earns marks
+
+It reconstructs the strongest relativist inference, answers it textually, and preserves the
+adjudication problem as a serious but narrower criticism.
+
+## Original 9 · 20 marks
+
+**Question:** What exactly does the private-language argument establish, and what does it leave standing? Critically discuss.
+
+### Demand decoding
+
+Define the exact PI §243 target, reconstruct the diary and beetle arguments, distinguish the
+conclusion from behaviourism, and state what survives.
+
+### Timed model answer
+
+The private-language argument attacks a language whose words refer to what only the speaker can
+know and which another person cannot understand even in principle. Its target is logical privacy
+as a foundation for meaning, not sensations, solitude or first-person authority.
+
+PI §258 tests a private ostensive definition. The diarist marks recurring sensation S and resolves
+to use the sign for the same experience. Yet the proposed check is only that the present use seems
+right according to the same private memory. Where seeming right is being right, there is no
+operational distinction between correct and incorrect application, and therefore no rule has
+been established. PI §265 compares the procedure to checking one copy of a newspaper against
+another copy of the same paper. PI §270 shows the contrast: once a manometer and public
+circumstances provide criteria, the sign functions, while the private identification becomes
+idle.
+
+The beetle-in-the-box at PI §293 adds that an inaccessible item which may vary, disappear or be
+absent cannot determine the grammar of a shared sensation-word. The item is not denied; it drops
+out of the explanation of linguistic meaning.
+
+Several things remain standing. Sensations remain real: PI §304 says they are "not a something,
+but not a nothing either." A solitary person may retain a language because the relevant standards
+can be public-type, stable and in principle teachable. First-person sensation utterances also keep
+their asymmetry: PI §244 treats "I am in pain" primarily as an avowal, not an observational report.
+PI §580 requires outward criteria for the concept of an inner process without identifying the
+process with behaviour.
+
+Critics press memory and community objections. Public checks also depend on memory, and it is
+disputed whether actual communal correction is necessary. Wittgenstein's strongest reply is
+grammatical: public practice supplies multiple independent roles, consequences and corrections,
+whereas the wholly private diary stipulates all of them through one seeming.
+
+The argument therefore succeeds against private ostension as a semantic foundation. It does not
+prove behaviourism, deny phenomenal character, or show that an isolated human being cannot follow
+rules.
+
+**Depth refinement.** PI §202 supplies the practice requirement; §§243, 258, 265, 270 and 293 form
+the core sequence. PI §§246, 304, 307-308 and 354 preserve first-person asymmetry and defeasible
+criteria while blocking both Cartesian foundationalism and reductive behaviourism.
+
+**Measured model-answer words:** 341
+
+**Explicit qualification / criticism:** The conclusion is decisive only against essentially
+private standards; actual community membership remains an interpretive question.
+
+##### Why this earns marks
+
+It states the exact target, reconstructs the complete argument, separates what is rejected from
+what survives, and addresses the strongest objections.
 
 ## Self-evaluation and endurance ladder
 

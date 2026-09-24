@@ -1,7 +1,7 @@
 {
   "schema_version": 15,
   "topic": "06 Moore, Russell and Early Wittgenstein",
-  "validated_at": "2026-09-23T18:58:20+05:30",
+  "validated_at": "2026-09-24T11:21:09+05:30",
   "result": "DEVELOPMENT_PASS",
   "validation_mode": "development",
   "release_ready": true,
@@ -16,37 +16,37 @@
         "source": "REVISION-GUIDE.md",
         "exists": true,
         "bytes": 2200903,
-        "sha256": "94c508819366018245e57c93ca18f5516c45b2a4be537a8e6d739f92ad400d77",
+        "sha256": "9e3999f70f90374f44c55c0d36a268225a1bc741a2754eb18ecafdf275c198d0",
         "source_sha256": "3c3de847413923949bbce976520cdb1d9fd82fe9b4679da7d270c4b5574ba216",
         "source_mtime_ns": 1790152303998629200,
-        "pdf_mtime_ns": 1790153264350017600
+        "pdf_mtime_ns": 1790217022951923800
       },
       "MCQ-Questions.pdf": {
         "source": "MCQ-QUESTIONS.md",
         "exists": true,
         "bytes": 192337,
-        "sha256": "522ab853c6a640249f2775ac3faacaaf22fd06366cd2b343e3b061f3a9f851cc",
+        "sha256": "09b5dcf28847d4280830a0bc1834382428c03f4c0fb49fde5291ec71d1ad1079",
         "source_sha256": "bfda50d182508d7645d1e6e77f668c7620e1949163076a6b340cde89d3637228",
         "source_mtime_ns": 1790153177964186500,
-        "pdf_mtime_ns": 1790153268575024400
+        "pdf_mtime_ns": 1790217026359805600
       },
       "MCQ-Solutions.pdf": {
         "source": "MCQ-SOLUTIONS.md",
         "exists": true,
         "bytes": 489821,
-        "sha256": "9878a8c476bbf1adf684c7cebecc9a8951189ca5b31e059405b49fcc2aff7c2e",
+        "sha256": "a8b9b539c9acc2f04a145138e2a24c0cea716a67bce8614f48578bef19b6f7ff",
         "source_sha256": "1863e7e786ad57d599fb050780be700f0716925b76fb804f5ea46d39d567b6b4",
         "source_mtime_ns": 1789891585089799800,
-        "pdf_mtime_ns": 1790153274568710100
+        "pdf_mtime_ns": 1790217030936483900
       },
       "Answer-Writing-Toolkit.pdf": {
         "source": "ANSWER-WRITING-TOOLKIT.md",
         "exists": true,
-        "bytes": 514205,
-        "sha256": "f8fd3532441fcf3268d3a1ae20039761d0857a165861efc1f65f2a3e8cd18f09",
-        "source_sha256": "03535a7428d7ae3083468517fca6386a463474a59f59239cc941f17fc47509c1",
-        "source_mtime_ns": 1790164008702973900,
-        "pdf_mtime_ns": 1790165516056640800
+        "bytes": 520019,
+        "sha256": "5116518196da57bc6c7172961a0ba296eee7f70b028703cfcb697ee2b24967de",
+        "source_sha256": "a3a0f57466da3c8544118906bc672848ed26353a03c1b9d7bac831e1ae2d54f4",
+        "source_mtime_ns": 1790213281920283600,
+        "pdf_mtime_ns": 1790217036277935200
       }
     },
     "all_four_regenerated": true
@@ -1738,9 +1738,9 @@
         "pages": 140,
         "source": "REVISION-GUIDE.md",
         "source_sha256": "3c3de847413923949bbce976520cdb1d9fd82fe9b4679da7d270c4b5574ba216",
-        "pdf_sha256": "94c508819366018245e57c93ca18f5516c45b2a4be537a8e6d739f92ad400d77",
+        "pdf_sha256": "9e3999f70f90374f44c55c0d36a268225a1bc741a2754eb18ecafdf275c198d0",
         "source_mtime_ns": 1790152303998629200,
-        "pdf_mtime_ns": 1790153264350017600,
+        "pdf_mtime_ns": 1790216977321942400,
         "pdf_not_older_than_source": true,
         "heading_count": 72,
         "missing_source_headings": [],
@@ -1757,9 +1757,9 @@
         "pages": 13,
         "source": "MCQ-QUESTIONS.md",
         "source_sha256": "bfda50d182508d7645d1e6e77f668c7620e1949163076a6b340cde89d3637228",
-        "pdf_sha256": "522ab853c6a640249f2775ac3faacaaf22fd06366cd2b343e3b061f3a9f851cc",
+        "pdf_sha256": "09b5dcf28847d4280830a0bc1834382428c03f4c0fb49fde5291ec71d1ad1079",
         "source_mtime_ns": 1790153177964186500,
-        "pdf_mtime_ns": 1790153267351366500,
+        "pdf_mtime_ns": 1790217026359805600,
         "pdf_not_older_than_source": true,
         "heading_count": 57,
         "missing_source_headings": [],
@@ -1778,9 +1778,9 @@
         "pages": 29,
         "source": "MCQ-SOLUTIONS.md",
         "source_sha256": "1863e7e786ad57d599fb050780be700f0716925b76fb804f5ea46d39d567b6b4",
-        "pdf_sha256": "9878a8c476bbf1adf684c7cebecc9a8951189ca5b31e059405b49fcc2aff7c2e",
+        "pdf_sha256": "a8b9b539c9acc2f04a145138e2a24c0cea716a67bce8614f48578bef19b6f7ff",
         "source_mtime_ns": 1789891585089799800,
-        "pdf_mtime_ns": 1790153271949591600,
+        "pdf_mtime_ns": 1790217030936483900,
         "pdf_not_older_than_source": true,
         "heading_count": 57,
         "missing_source_headings": [],
@@ -1794,15 +1794,15 @@
         "pass": true
       },
       "Answer-Writing-Toolkit.pdf": {
-        "bytes": 514205,
+        "bytes": 520019,
         "pages": 29,
         "source": "ANSWER-WRITING-TOOLKIT.md",
-        "source_sha256": "03535a7428d7ae3083468517fca6386a463474a59f59239cc941f17fc47509c1",
-        "pdf_sha256": "f8fd3532441fcf3268d3a1ae20039761d0857a165861efc1f65f2a3e8cd18f09",
-        "source_mtime_ns": 1790164008702973900,
-        "pdf_mtime_ns": 1790165516056640800,
+        "source_sha256": "a3a0f57466da3c8544118906bc672848ed26353a03c1b9d7bac831e1ae2d54f4",
+        "pdf_sha256": "5116518196da57bc6c7172961a0ba296eee7f70b028703cfcb697ee2b24967de",
+        "source_mtime_ns": 1790213281920283600,
+        "pdf_mtime_ns": 1790217036277935200,
         "pdf_not_older_than_source": true,
-        "heading_count": 79,
+        "heading_count": 80,
         "missing_source_headings": [],
         "matches_current_regeneration_record": true,
         "blank_pages": [],
@@ -1818,13 +1818,13 @@
       "inspected_text_files": [
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/ANSWER-WRITING-TOOLKIT.md",
-          "bytes": 74158,
-          "sha256": "03535a7428d7ae3083468517fca6386a463474a59f59239cc941f17fc47509c1"
+          "bytes": 74764,
+          "sha256": "a3a0f57466da3c8544118906bc672848ed26353a03c1b9d7bac831e1ae2d54f4"
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/COVERAGE-LEDGER.md",
-          "bytes": 8571,
-          "sha256": "2ac46054de86a7229bfae6d5dbaa8850bd77bb19d65a4f1ac58a4c064529ebe5"
+          "bytes": 9131,
+          "sha256": "6443d980153572da1ee2092033f574cc3181de7d08f7997bb1a30deb6ddea579"
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/FORMAL-COVERAGE-AUDIT.json",
@@ -1868,8 +1868,8 @@
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/VALIDATION.json",
-          "bytes": 85877,
-          "sha256": "e911e88c898d894d8e2ad4b249157e329badb0a635f0ff012d2cb5ab77261473"
+          "bytes": 84798,
+          "sha256": "c48089c05b40472e4168da04dcef3976c776bf2f9201d2892138f267b63244c1"
         }
       ],
       "untracked_text_diff_checks": [],
@@ -1926,7 +1926,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/README.md",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -1935,7 +1935,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/REVISION-GUIDE.md",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -1944,7 +1944,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/MCQ-QUESTIONS.md",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -1989,7 +1989,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/FORMAL-COVERAGE-AUDIT.json",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -1998,7 +1998,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/FORMAL-COVERAGE-REVIEW.json",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -2016,7 +2016,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/06-Moore-Russell-and-Early-Wittgenstein/validate_package.py",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
