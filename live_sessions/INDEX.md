@@ -54,6 +54,7 @@
 | Economy | Economy 28 - Direct and Indirect Farm Subsidies and WTO Rules | 20 | 17,686 | `4c52124e3b88` | [Economy/28-Direct-Indirect-Farm-Subsidies-WTO-Rules/Learning-Session-Live-Edition.md](Economy/28-Direct-Indirect-Farm-Subsidies-WTO-Rules/Learning-Session-Live-Edition.md) |
 | Economy | Economy 29 - Agricultural Technology Missions and Mission-Mode Policy | 20 | 25,259 | `4498ff8e82e2` | [Economy/29-Agricultural-Technology-Missions-Mission-Mode-Policy/Learning-Session-Live-Edition.md](Economy/29-Agricultural-Technology-Missions-Mission-Mode-Policy/Learning-Session-Live-Edition.md) |
 | Economy | Economy 30 - Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries | 18 | 20,365 | `e82770a712b4` | [Economy/30-Economics-Animal-Rearing-Livestock-Dairy-Poultry-Fisheries/Learning-Session-Live-Edition.md](Economy/30-Economics-Animal-Rearing-Livestock-Dairy-Poultry-Fisheries/Learning-Session-Live-Edition.md) |
+| Economy | Economy 31 - Energy Infrastructure Economics, Power, Fuels and Energy Security | 18 | 23,545 | `0ff23d8c10b0` | [Economy/31-Energy-Infrastructure-Economics-Power-Fuels-Energy-Security/Learning-Session-Live-Edition.md](Economy/31-Energy-Infrastructure-Economics-Power-Fuels-Energy-Security/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
