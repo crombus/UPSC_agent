@@ -18,6 +18,15 @@ UPSC live learning session in this repository:
 live_sessions\LIVE-SESSION-GENERATION-RULES.md
 ```
 
+The repository-wide optimization and integrity policy is stored at:
+
+```text
+instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md
+```
+
+It governs execution efficiency around this contract but cannot replace, reduce or
+override any requirement in this file.
+
 Canonical knowledge files, books, PYQ ledgers, previous live editions, layered
 packages, solved workbooks, checkpoints and conversation summaries supply content,
 evidence or continuity only. They must never introduce, replace or override the
@@ -36,6 +45,8 @@ Mandatory use:
 5. If any other artifact conflicts with this file, this file wins. Do not blend the two
    workflows or improvise a hybrid structure.
 6. If a needed rule is missing or ambiguous, update this file first, then continue.
+7. Record newly approved durable instructions in the central `instructions\` registry
+   and update this file whenever they affect live-session behaviour.
 
 ## Vedanta-Economy Reference-Session Fidelity Lock
 
