@@ -32,6 +32,7 @@
 | Western-Philosophy | Phenomenology (Husserl) | 12 | 33,640 | `d79f69fa0c33` | [Western-Philosophy/09-Phenomenology-Husserl/Learning-Session-Live-Edition.md](Western-Philosophy/09-Phenomenology-Husserl/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Existentialism (Kierkegaard, Sartre, Heidegger) | 14 | 36,140 | `b3e8325c9d1c` | [Western-Philosophy/10-Existentialism/Learning-Session-Live-Edition.md](Western-Philosophy/10-Existentialism/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Quine and Strawson | 12 | 35,020 | `142fc2dd14af` | [Western-Philosophy/11-Quine-Strawson/Learning-Session-Live-Edition.md](Western-Philosophy/11-Quine-Strawson/Learning-Session-Live-Edition.md) |
+| Economy | Economy 09 - Union Budget, Fiscal Policy and Deficit Indicators | 12 | 16,293 | `537bca02fb28` | [Economy/09-Union-Budget-Fiscal-Policy-Deficit-Indicators/Learning-Session-Live-Edition.md](Economy/09-Union-Budget-Fiscal-Policy-Deficit-Indicators/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
