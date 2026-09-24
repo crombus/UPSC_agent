@@ -42,6 +42,7 @@
 | Economy | Economy 16 - Industrial Policy, 1991 Reforms, PSUs and Disinvestment | 15 | 14,918 | `5c04005f40db` | [Economy/16-Industrial-Policy-1991-Reforms-PSUs-Disinvestment/Learning-Session-Live-Edition.md](Economy/16-Industrial-Policy-1991-Reforms-PSUs-Disinvestment/Learning-Session-Live-Edition.md) |
 | Economy | Economy 17 - MSMEs, Startups, PLI, Semiconductors and Manufacturing Strategy | 18 | 24,606 | `21b9cb02a46a` | [Economy/17-MSMEs-Startups-PLI-Semiconductors-Manufacturing-Strategy/Learning-Session-Live-Edition.md](Economy/17-MSMEs-Startups-PLI-Semiconductors-Manufacturing-Strategy/Learning-Session-Live-Edition.md) |
 | Economy | Economy 18 - Infrastructure, PPPs, Logistics and Public Investment | 18 | 31,600 | `503892af83f5` | [Economy/18-Infrastructure-PPPs-Logistics-Public-Investment/Learning-Session-Live-Edition.md](Economy/18-Infrastructure-PPPs-Logistics-Public-Investment/Learning-Session-Live-Edition.md) |
+| Economy | Economy 19 - Balance of Payments, Exchange Rates and Forex Reserves | 20 | 26,189 | `132a7eca1dc5` | [Economy/19-Balance-of-Payments-Exchange-Rates-Forex-Reserves/Learning-Session-Live-Edition.md](Economy/19-Balance-of-Payments-Exchange-Rates-Forex-Reserves/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
