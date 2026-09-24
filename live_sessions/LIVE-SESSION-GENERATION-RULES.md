@@ -280,6 +280,89 @@ topic. Never copy a generic completeness decision from one topic to another.
    that contributes no additional understanding.
 10. An updated edition must retain or improve the depth of the previous edition.
 
+## Controlled Two-Lane Parallel Generation Protocol
+
+Parallel execution is an additional scheduling mechanism, not a reduced workflow.
+It must produce the same topic-level result as strict sequential generation. Every
+coverage, roadmap, teaching, PYQ, practice, validation and no-compression requirement
+in this file remains independently binding inside each lane.
+
+Use at most **two concurrent topic-generation lanes**. Each lane must be isolated by:
+
+1. one topic and its frozen learner-facing roadmap;
+2. its own complete syllabus, canonical, advanced, book and PYQ preflight;
+3. its own gap ledger and per-lesson evidence mapping;
+4. its own whole-topic Markdown file;
+5. its own lesson-level completeness, semantic-practice and structural validation;
+6. a prohibition on editing this rules file, the shared index, another topic or Git
+   history.
+
+Read-only source research and preflight audits may run concurrently. Actual generation
+may also run concurrently only under the two-lane isolation above. Never let a summary,
+coverage decision, validator result or apparent completeness from one lane substitute
+for evidence in the other lane.
+
+### Sequential release gate
+
+Parallel generation does not permit parallel release. Release topics strictly in
+approved syllabus order:
+
+```text
+independent controller audit
+  -> repair every frozen defect
+  -> repeat the complete release gate
+  -> update the shared index
+  -> stage only the topic and index
+  -> commit the topic separately
+  -> push and verify remote parity
+  -> release the next topic
+```
+
+A later topic may finish drafting while an earlier topic is under review, but it must
+wait. It cannot update the index, be committed or be pushed before every earlier topic
+in the approved order has passed its own release gate.
+
+The independent controller must verify, for each topic:
+
+- the frozen roadmap, progress markers and pre-teach checks;
+- full syllabus, basic, advanced, book and PYQ coverage;
+- natural lesson variation and learner-first teaching;
+- exact links-only PYQ treatment without solved-answer leakage;
+- every MCQ key semantically, every distractor and all option explanations;
+- original Mains practice and complete model answers;
+- the required final-section order, Markdown integrity and clean scoped diff;
+- final word count, hash and index entry.
+
+### Tiered integrity hard stop
+
+Integrity takes priority over throughput.
+
+**Topic-lane quarantine:** stop and reject the affected topic when a defect is confined
+to that lane, including a missing concept, compressed lesson, incorrect PYQ, false or
+ambiguous MCQ key, generic explanation, roadmap drift, package-language leak or failed
+structural check. Freeze a defect ledger, repair the topic surgically and repeat the
+full release gate. The other isolated lane may finish drafting, but strict syllabus
+release order still applies.
+
+**Global hard stop:** pause both lanes and start no new generation when any defect is
+systemic, including:
+
+- cross-topic content, roadmap or source contamination;
+- concurrent editing of the shared index, rules or Git history;
+- evidence that one lane reused another lane's coverage decision;
+- an unreliable validator or a validation method that misses substantive defects;
+- source conflicts that affect more than one topic;
+- skipped, compressed or weakened content attributable to concurrency;
+- any measurable decline from the accepted Vedanta-Economy reference standard.
+
+Resume parallel generation only after the systemic cause is corrected and both active
+topics are rechecked against this entire file. If the same systemic failure recurs,
+disable parallel generation and return to strict sequential generation.
+
+The first use of this protocol is a two-topic pilot. After both topics are separately
+validated, committed and pushed, compare their defect rate and teaching integrity with
+the accepted sequential rebuilds before applying the protocol to another pair.
+
 ## Learner-First Teaching Order
 
 Teach in dependency order rather than merely copying source order:
