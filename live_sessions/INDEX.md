@@ -4,7 +4,7 @@
 
 | Subject | Session | Lessons | Words | SHA-256 | File |
 |---|---|---:|---:|---|---|
-| Philosophy-Optional | Carvaka / Lokayata | 9 | 14,995 | `4d272c0ca61a` | [Philosophy-Optional/02-Carvaka/Learning-Session-Live-Edition.md](Philosophy-Optional/02-Carvaka/Learning-Session-Live-Edition.md) |
+| Philosophy-Optional | Carvaka / Lokayata | 9 | 17,787 | `151a23e9c560` | [Philosophy-Optional/02-Carvaka/Learning-Session-Live-Edition.md](Philosophy-Optional/02-Carvaka/Learning-Session-Live-Edition.md) |
 | Philosophy-Optional | Jainism | 8 | 37,627 | `07f8f415fc7c` | [Philosophy-Optional/03-Jainism/Learning-Session-Live-Edition.md](Philosophy-Optional/03-Jainism/Learning-Session-Live-Edition.md) |
 | Philosophy-Optional | Schools of Buddhism | 10 | 32,994 | `7ca171f6a088` | [Philosophy-Optional/04-Buddhism/Learning-Session-Live-Edition.md](Philosophy-Optional/04-Buddhism/Learning-Session-Live-Edition.md) |
 | Philosophy-Optional | Nyaya-Vaisesika | 9 | 13,016 | `cb3ead72473b` | [Philosophy-Optional/01-Nyaya-Vaisesika/Learning-Session-Live-Edition.md](Philosophy-Optional/01-Nyaya-Vaisesika/Learning-Session-Live-Edition.md) |

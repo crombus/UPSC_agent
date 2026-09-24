@@ -144,11 +144,14 @@ unless the term itself is the subject being taught:
 - visible references to which source file supplied a particular learner-facing
   paragraph.
 
-Verified PYQs, directive analysis and answer guidance remain locally integrated in the
-lesson that teaches them. Internal provenance labels, source-ownership mapping,
-coverage evidence and validation counts remain mandatory, but they belong only in the
-final coverage/source ledgers or in internal generation records. Convert any necessary
-boundary or attribution into ordinary teaching language inside the lesson.
+Verified PYQ year/question linkage, directive analysis, demand and answer approach
+remain locally integrated in the lesson that teaches them. Do not include solved PYQ
+model answers in the live-session file and do not create a new solved-PYQ workbook;
+the learner already maintains a separate solved workbook. Internal provenance labels,
+source-ownership mapping, coverage evidence and validation counts remain mandatory,
+but they belong only in the final coverage/source ledgers or in internal generation
+records. Convert any necessary boundary or attribution into ordinary teaching
+language inside the lesson.
 
 ### Natural variation lock
 
@@ -172,7 +175,7 @@ regularity must support retrieval, not reveal a generator template.
 After the complete lesson sequence, consolidate in this learner-facing order:
 
 ```text
-solved verified PYQs
+verified PYQ linkage and answer approaches
   -> original cumulative MCQs with explanations
   -> original 10-, 15- and 20-mark Mains practice with model answers
   -> common-error remediation
@@ -398,16 +401,19 @@ Follow the original Indian Philosophy file-generation workflow:
 1. Audit the complete topic and present the learner-facing roadmap.
 2. Wait for `Start`; that acceptance freezes the roadmap.
 3. Generate every frozen subtopic, internal Part, visual, doctrine, argument, example,
-   criticism, reply, PYQ, MCQ, Mains model answer and register-note section into the
-   topic's `Learning-Session-Live-Edition.md` file in one uninterrupted generation run.
+   criticism, reply, PYQ linkage and answer approach, MCQ, original Mains model answer
+   and register-note section into the topic's `Learning-Session-Live-Edition.md` file
+   in one uninterrupted generation run.
 4. Every lesson inside the file must independently follow the Required Lesson
    Structure below and contain its own practice. Do not postpone all practice to the
    final lesson.
 5. Include conceptual, applied and remedial MCQs, their answer key and an explanation
    of every option inside the Markdown. The learner is not required to answer them
    live unless test mode is explicitly requested.
-6. Include every directly owned verified PYQ through 2026 with a complete model answer,
-   mapped to the lesson where its concepts are taught.
+6. Include every directly owned verified PYQ through 2026 as a year/question linkage
+   with directive, demand and concise answer approach, mapped to the lesson where its
+   concepts are taught. Do not include its solved model answer in the live-session file
+   and do not generate a replacement solved-PYQ workbook.
 7. Include original 10-, 15- and 20-mark Mains practice with complete model answers.
 8. Use the terminal only to confirm the generated file, report concise validation
    status and accept navigation commands. Do not print the lesson prose or repeat the
@@ -422,8 +428,8 @@ remediation or Mains practice are postponed to a final lesson. Practice is embed
 every subtopic, with cumulative practice added at major blocks and final synthesis.
 
 The completed Markdown live edition preserves all teaching, MCQs, explanations,
-remediation, PYQs, Mains practice and mastery guidance while excluding navigation-only
-turns and tool logs.
+remediation, PYQ linkage and answer approaches, original Mains practice and mastery
+guidance while excluding navigation-only turns and tool logs.
 
 ## Structural Format Lock — Original Terminal Flow
 
@@ -550,7 +556,8 @@ truthfully when no meaningful recent linkage exists.
     - applied MCQs;
     - remedial MCQs for predictable errors;
     - Mains questions and model answers;
-    - solved relevant PYQs.
+    - relevant PYQ year/question linkage, demand and answer approach without a solved
+      model answer.
 
 ## Visual Quality Rules
 
@@ -572,8 +579,12 @@ truthfully when no meaningful recent linkage exists.
 3. Preserve the exact directive, marks and wording where available.
 4. Never fabricate or reconstruct a question from memory.
 5. Map every PYQ to the lesson that teaches the concepts required to answer it.
-6. Include a complete model answer for every directly owned PYQ.
-7. Include cross-school PYQs where the topic forms a necessary part of the answer.
+6. State the year/question, directive, conceptual demand and a concise answer approach.
+7. Do not include solved PYQ model answers in the live-session file.
+8. Do not create a new solved-PYQ workbook; use the learner's existing separate solved
+   workbook.
+9. Include cross-school PYQ linkages where the topic forms a necessary part of the
+   answer.
 
 ## Practice Rules
 
@@ -680,7 +691,8 @@ The complete Vedanta live edition must include, without omission:
 
 The completed Markdown must end with:
 
-1. all solved verified PYQs through 2026;
+1. verified PYQ linkage and answer-approach index through 2026, without solved model
+   answers;
 2. original cumulative MCQ practice with explanations;
 3. original 10-, 15- and 20-mark Mains practice with model answers;
 4. common-error remediation set;
@@ -697,7 +709,7 @@ immediately before the coverage and source ledgers.
 Before declaring a live session complete, verify:
 
 - every canonical heading is represented;
-- every relevant PYQ through 2026 is mapped and solved;
+- every relevant PYQ through 2026 is mapped with its demand and answer approach;
 - every major doctrine has a plain-language explanation;
 - every technical term is defined;
 - every abstract central concept has an example or visual;
