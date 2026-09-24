@@ -57,6 +57,7 @@
 | Economy | Economy 31 - Energy Infrastructure Economics, Power, Fuels and Energy Security | 18 | 23,545 | `0ff23d8c10b0` | [Economy/31-Energy-Infrastructure-Economics-Power-Fuels-Energy-Security/Learning-Session-Live-Edition.md](Economy/31-Energy-Infrastructure-Economics-Power-Fuels-Energy-Security/Learning-Session-Live-Edition.md) |
 | Socio-Political Philosophy | Topic 01 - Social and Political Ideals | 10 | 29,234 | `90deb03981f6` | [Socio-Political-Philosophy/01-Social-Political-Ideals/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/01-Social-Political-Ideals/Learning-Session-Live-Edition.md) |
 | Socio-Political Philosophy | Topic 02 - Sovereignty | 12 | 18,261 | `3fe87475a52e` | [Socio-Political-Philosophy/02-Sovereignty/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/02-Sovereignty/Learning-Session-Live-Edition.md) |
+| Socio-Political Philosophy | Topic 03 - Individual and State | 12 | 21,483 | `ca60b91693f4` | [Socio-Political-Philosophy/03-Individual-and-State/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/03-Individual-and-State/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
