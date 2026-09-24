@@ -1,0 +1,1123 @@
+{
+  "schema_version": 2,
+  "topic": "04 Soul, Immortality and Rebirth",
+  "authority_mode": "canonical_without_formal_session",
+  "formal_session_reconciliation_performed": false,
+  "validated_at": "2026-09-24T18:15:39+05:30",
+  "validation_mode": "development",
+  "result": "DEVELOPMENT_PASS",
+  "release_ready": false,
+  "pdf_generation": {
+    "mechanism": "C:/up/tools/unicode_markdown_pdf.py via Chrome and PyMuPDF",
+    "requested": true,
+    "selected": [
+      "MCQ-Solutions.pdf"
+    ],
+    "all_four_regenerated": true,
+    "files": {
+      "Revision-Guide.pdf": {
+        "source": "REVISION-GUIDE.md",
+        "source_sha256": "3d592389da1aa2385e0acfd751d27b9856de378072f5d934ccdb0c21b22b7b30",
+        "sha256": "cb29b25df37c3740a8a37ea05cda970e7d432d173400d7b2d4b083cecc955bbc",
+        "bytes": 1645126
+      },
+      "MCQ-Questions.pdf": {
+        "source": "MCQ-QUESTIONS.md",
+        "source_sha256": "b70ef3db3667f2edbf046f7809f35849d782e5cab09918d641082bbba871d567",
+        "sha256": "9bbbd568b212c47b36fde537f0edacf6446c3432c456fc561db25df10755d906",
+        "bytes": 171135
+      },
+      "MCQ-Solutions.pdf": {
+        "source": "MCQ-SOLUTIONS.md",
+        "source_sha256": "c587c5a93d8a5f6b981a3373b0b77318905b0172bbadff37d1b7e635ea14b348",
+        "sha256": "5ecdca87689b8bdb49893999679540310ab8adf229ab7dcde554091ce6c5231e",
+        "bytes": 427098
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "source_sha256": "f74873bf39d2373df155a21e82c2302d6926a5989073286b30cb3c6a7d96d99e",
+        "sha256": "f41b66bb7c18333284379bd06d8f5e5782b32d9e235b51404d8d01b6dfa53d8b",
+        "bytes": 504454
+      }
+    }
+  },
+  "artifact_integrity": {
+    "algorithm": "sha256",
+    "files": {
+      "README.md": "70e2b386bfb51c4f844be0f3b53628fcd9ec5c6c4f91991af67306792bbfa74f",
+      "SOURCE-PROVENANCE.json": "a569147dea268eb6000dfdd1df29a55533ab574a6ea201813bf97056a33e9066",
+      "REVISION-GUIDE.md": "3d592389da1aa2385e0acfd751d27b9856de378072f5d934ccdb0c21b22b7b30",
+      "MCQ-QUESTIONS.md": "b70ef3db3667f2edbf046f7809f35849d782e5cab09918d641082bbba871d567",
+      "MCQ-SOLUTIONS.md": "c587c5a93d8a5f6b981a3373b0b77318905b0172bbadff37d1b7e635ea14b348",
+      "MCQ-AUDIT.json": "d00329742840f0765ff734a3de8f13885807ce80bb5d2855be521af53e2fdb0c",
+      "ANSWER-WRITING-TOOLKIT.md": "f74873bf39d2373df155a21e82c2302d6926a5989073286b30cb3c6a7d96d99e",
+      "PYQ-DEMAND-AUDIT.json": "c9b89589e4cc5afd283315f5c425fb52a4aaa6574b58f6d0694aa01dc20bab50",
+      "COVERAGE-LEDGER.md": "5a77cabe6da4fb7f2deec17fe0b831be49ba990a702928664f377725d7a5d422",
+      "CANONICAL-COVERAGE-REVIEW.json": "655cbd20569952a27fbf70be39bcd512e5c8256c006e2a0a677ace11112dd747",
+      "FORMAL-COVERAGE-AUDIT.json": "a01994c376cebbc14d55c0276643abdb3c4155e650f8846ef99fd84473ee966c",
+      "PRACTICE-LOG.md": "2c5523b892ae841888e6adeb363422ef304c28730fdd5ee4c3f177baa8d1c1cc",
+      "validate_package.py": "53e1c0c9f26b2343d743eba0c5c71b65f7671a00321bcc02b5e84fd45f5939e8",
+      "attempts/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "pdf/Revision-Guide.pdf": "cb29b25df37c3740a8a37ea05cda970e7d432d173400d7b2d4b083cecc955bbc",
+      "pdf/MCQ-Questions.pdf": "9bbbd568b212c47b36fde537f0edacf6446c3432c456fc561db25df10755d906",
+      "pdf/MCQ-Solutions.pdf": "5ecdca87689b8bdb49893999679540310ab8adf229ab7dcde554091ce6c5231e",
+      "pdf/Answer-Writing-Toolkit.pdf": "f41b66bb7c18333284379bd06d8f5e5782b32d9e235b51404d8d01b6dfa53d8b"
+    },
+    "missing": [],
+    "validation_json_policy": "Required release artifact; excluded from its own embedded hash manifest to avoid self-hash recursion.",
+    "deterministic_order": true,
+    "pass": true
+  },
+  "checks": {
+    "required_files": {
+      "README.md": true,
+      "SOURCE-PROVENANCE.json": true,
+      "REVISION-GUIDE.md": true,
+      "MCQ-QUESTIONS.md": true,
+      "MCQ-SOLUTIONS.md": true,
+      "MCQ-AUDIT.json": true,
+      "ANSWER-WRITING-TOOLKIT.md": true,
+      "PYQ-DEMAND-AUDIT.json": true,
+      "COVERAGE-LEDGER.md": true,
+      "CANONICAL-COVERAGE-REVIEW.json": true,
+      "FORMAL-COVERAGE-AUDIT.json": true,
+      "PRACTICE-LOG.md": true,
+      "validate_package.py": true,
+      "VALIDATION.json": true,
+      "attempts/.gitkeep": true,
+      "pdf/Revision-Guide.pdf": true,
+      "pdf/MCQ-Questions.pdf": true,
+      "pdf/MCQ-Solutions.pdf": true,
+      "pdf/Answer-Writing-Toolkit.pdf": true
+    },
+    "source_provenance": {
+      "recorded_sources": {
+        "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md": "77b11a84b0760af3a2e970bba429eb83a5c094f23734b5b5dc796bce6d4218a8",
+        "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md": "4b9e2ea54934e9078d2d5729434a0fd338d0a87889446f24979ac3eddb85095e",
+        "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2026-Supplement.md": "043c628952f0c4a6da55cf6c4fd7909e39e984ff50ac778ced17171b9f8d2b63",
+        "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Soul-Immortality-Rebirth-Liberation\\Soul-Immortality-Rebirth-Liberation_Layered-Complete-Learning-Session_2026-08-19.md": "3662c8cc811ea966ed11fbf5bb3afc676c97b2a4082bd4a0c6f72fd64b3ad8b6",
+        "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Soul-Immortality-Rebirth-Liberation\\Soul-Immortality-Rebirth-Liberation_Layered-Solved-Practice-Workbook_2026-08-19.md": "fc673de701139363ddfac35f2dae0e5747f83f98914bb9882579b56a7261cbd7"
+      },
+      "current_sources": {
+        "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md": "77b11a84b0760af3a2e970bba429eb83a5c094f23734b5b5dc796bce6d4218a8",
+        "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md": "4b9e2ea54934e9078d2d5729434a0fd338d0a87889446f24979ac3eddb85095e",
+        "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2026-Supplement.md": "043c628952f0c4a6da55cf6c4fd7909e39e984ff50ac778ced17171b9f8d2b63",
+        "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Soul-Immortality-Rebirth-Liberation\\Soul-Immortality-Rebirth-Liberation_Layered-Complete-Learning-Session_2026-08-19.md": "3662c8cc811ea966ed11fbf5bb3afc676c97b2a4082bd4a0c6f72fd64b3ad8b6",
+        "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Soul-Immortality-Rebirth-Liberation\\Soul-Immortality-Rebirth-Liberation_Layered-Solved-Practice-Workbook_2026-08-19.md": "fc673de701139363ddfac35f2dae0e5747f83f98914bb9882579b56a7261cbd7"
+      },
+      "checks": {
+        "authority_mode": true,
+        "hashes_current": true,
+        "formal_ineligible": true,
+        "formal_candidates_not_used": true,
+        "limitations_present": true
+      },
+      "failure_codes": [],
+      "pass": true
+    },
+    "canonical_coverage": {
+      "row_count": 41,
+      "canonical_rows": 41,
+      "supplementary_reference_rows": 0,
+      "pyq_obligations": 17,
+      "practice_obligations": 60,
+      "failure_codes": [],
+      "failures": [],
+      "checks": {
+        "authority_mode": true,
+        "formal_reconciliation_false": true,
+        "frozen": true,
+        "canonical_count": true,
+        "reference_rows_zero": true,
+        "counts": true,
+        "inbound": true,
+        "pyqs": true,
+        "practice": true,
+        "no_reference_mandatory_rows": true,
+        "no_failures": true
+      },
+      "pass": true,
+      "audit_checks": {
+        "authority_mode": true,
+        "formal_reconciliation_false": true,
+        "review_hash": true,
+        "summary_current": true,
+        "rows_current": true,
+        "counts_current": true,
+        "audit_pass": true
+      }
+    },
+    "doctrine": {
+      "artifacts": {
+        "ANSWER-WRITING-TOOLKIT.md": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": true,
+            "additional_doctrine": true,
+            "not_necessary": true,
+            "buddhist_countermodel": true
+          },
+          "pass": true
+        },
+        "COVERAGE-LEDGER.md": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": true,
+            "additional_doctrine": true,
+            "not_necessary": true,
+            "buddhist_countermodel": true
+          },
+          "pass": true
+        },
+        "MCQ-QUESTIONS.md": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": false,
+            "additional_doctrine": true,
+            "not_necessary": true,
+            "buddhist_countermodel": true
+          },
+          "pass": true
+        },
+        "MCQ-SOLUTIONS.md": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": false,
+            "additional_doctrine": true,
+            "not_necessary": true,
+            "buddhist_countermodel": true
+          },
+          "pass": true
+        },
+        "PRACTICE-LOG.md": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": false,
+            "additional_doctrine": false,
+            "not_necessary": false,
+            "buddhist_countermodel": false
+          },
+          "pass": true
+        },
+        "README.md": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": false,
+            "additional_doctrine": false,
+            "not_necessary": false,
+            "buddhist_countermodel": false
+          },
+          "pass": true
+        },
+        "REVISION-GUIDE.md": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": true,
+            "additional_doctrine": true,
+            "not_necessary": true,
+            "buddhist_countermodel": true
+          },
+          "pass": true
+        },
+        "MCQ-AUDIT.json": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": false,
+            "additional_doctrine": true,
+            "not_necessary": true,
+            "buddhist_countermodel": true
+          },
+          "pass": true
+        },
+        "CANONICAL-COVERAGE-REVIEW.json": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": false,
+            "additional_doctrine": true,
+            "not_necessary": false,
+            "buddhist_countermodel": true
+          },
+          "pass": true
+        },
+        "FORMAL-COVERAGE-AUDIT.json": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {},
+          "pass": true
+        },
+        "VALIDATION.json": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": false,
+            "additional_doctrine": false,
+            "not_necessary": false,
+            "buddhist_countermodel": false
+          },
+          "pass": true
+        },
+        "pdf/Revision-Guide.pdf": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": true,
+            "additional_doctrine": true,
+            "not_necessary": true,
+            "buddhist_countermodel": true
+          },
+          "pass": true
+        },
+        "pdf/MCQ-Questions.pdf": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": false,
+            "additional_doctrine": false,
+            "not_necessary": false,
+            "buddhist_countermodel": true
+          },
+          "pass": true
+        },
+        "pdf/MCQ-Solutions.pdf": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": false,
+            "additional_doctrine": true,
+            "not_necessary": true,
+            "buddhist_countermodel": true
+          },
+          "pass": true
+        },
+        "pdf/Answer-Writing-Toolkit.pdf": {
+          "false_sufficiency_hits": [],
+          "required_when_doctrine_surface": {
+            "not_sufficient": true,
+            "additional_doctrine": true,
+            "not_necessary": true,
+            "buddhist_countermodel": true
+          },
+          "pass": true
+        }
+      },
+      "required_union": {
+        "not_sufficient": true,
+        "additional_doctrine": true,
+        "not_necessary": true,
+        "buddhist_countermodel": true
+      },
+      "failure_codes": [],
+      "pass": true
+    },
+    "panels_and_visuals": {
+      "checks": {
+        "minimum_fenced_visuals": true,
+        "minimum_tables": true,
+        "inbound_identity_flow": true,
+        "inbound_strawson_flow": true,
+        "final_register_notes_last": true
+      },
+      "failure_codes": [],
+      "pass": true
+    },
+    "mcq_bank": {
+      "answer_key": "BACBCCAABCADCCABACDBCAABDDACCBACBDBABBADADCDDADDBBCDBD",
+      "distribution": {
+        "B": 14,
+        "A": 14,
+        "C": 13,
+        "D": 13
+      },
+      "maximum_run": 2,
+      "cue_hits": [],
+      "maximum_option_word_spread": 5,
+      "unique_correct_longest": [
+        13,
+        14,
+        42,
+        46,
+        53,
+        54
+      ],
+      "average_correct_option_words": 6.37037037037037,
+      "average_distractor_option_words": 6.253086419753086,
+      "coverage_cell_counts": {
+        "C01": 6,
+        "C03": 6,
+        "C04": 6,
+        "C11": 5,
+        "C05": 3,
+        "C08": 6,
+        "C07": 6,
+        "C06": 2,
+        "C09": 4,
+        "C10": 3,
+        "C12": 2,
+        "C02": 5
+      },
+      "checks": {
+        "counts": true,
+        "numbering": true,
+        "parity": true,
+        "four_options": true,
+        "four_rationales": true,
+        "wrong_option_specificity": true,
+        "audit_parity": true,
+        "audit_key": true,
+        "distribution": true,
+        "maximum_run": true,
+        "not_rotation": true,
+        "question_leakage": true,
+        "no_parenthetical_filler": true,
+        "option_length_balance": true,
+        "correct_not_uniquely_long": true,
+        "aggregate_length_ratio": true,
+        "unique_stems": true,
+        "unique_options": true,
+        "all_coverage_cells": true
+      },
+      "failure_codes": [],
+      "pass": true
+    },
+    "pyqs_and_original_answers": {
+      "verified": [
+        {
+          "id": "2018 Q5(b)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 200,
+          "computed": 200,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2018 Q7(c)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 291,
+          "computed": 291,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2019 Q8(a)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 349,
+          "computed": 349,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2020 Q5(b)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 182,
+          "computed": 182,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2020 Q8(c)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 292,
+          "computed": 292,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2021 Q6(a)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 366,
+          "computed": 366,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2021 Q6(b)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 261,
+          "computed": 261,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2021 Q8(b)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 264,
+          "computed": 264,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2022 Q5(c)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 191,
+          "computed": 191,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2022 Q7(b)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 270,
+          "computed": 270,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2022 Q8(b)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 267,
+          "computed": 267,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2023 Q6(a)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 352,
+          "computed": 352,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2023 Q7(b)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 264,
+          "computed": 264,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2024 Q5(c)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 191,
+          "computed": 191,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2024 Q6(a)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 365,
+          "computed": 365,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2025 Q5(d)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 174,
+          "computed": 174,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "id": "2025 Q7(c)",
+          "exact_question": true,
+          "year_part_marks": true,
+          "declared": 290,
+          "computed": 290,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        }
+      ],
+      "originals": [
+        {
+          "number": 1,
+          "marks": 10,
+          "declared": 156,
+          "computed": 156,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "number": 2,
+          "marks": 15,
+          "declared": 262,
+          "computed": 262,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "number": 3,
+          "marks": 20,
+          "declared": 384,
+          "computed": 384,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "number": 4,
+          "marks": 10,
+          "declared": 177,
+          "computed": 177,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "number": 5,
+          "marks": 15,
+          "declared": 269,
+          "computed": 269,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        },
+        {
+          "number": 6,
+          "marks": 20,
+          "declared": 350,
+          "computed": 350,
+          "declared_equals_computed": true,
+          "within_band": true,
+          "why_present": true
+        }
+      ],
+      "checks": {
+        "verified_count": true,
+        "verified_exact": true,
+        "no_2026_owner": true,
+        "original_count": true,
+        "original_marks": true,
+        "original_bands": true,
+        "independent_disclaimer": true
+      },
+      "failure_codes": [],
+      "pass": true
+    },
+    "provenance_wording": {
+      "required": {
+        "authority_mode_visible": true,
+        "no_formal_claim_visible": true,
+        "reference_only_visible": true,
+        "mechanical_limit_visible": true
+      },
+      "forbidden_hits": {
+        "claims_formal_reconciliation": [],
+        "claims_formal_coverage": [],
+        "claims_reference_authority": []
+      },
+      "failure_codes": [],
+      "pass": true
+    },
+    "pdfs": {
+      "Revision-Guide.pdf": {
+        "pages": 68,
+        "bytes": 1645126,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_pages": [],
+        "overlap_pages": [],
+        "raw_markdown": [],
+        "missing_headings": [],
+        "metadata": {
+          "format": "PDF 1.4",
+          "title": "Revision-Guide.render.html",
+          "author": "",
+          "subject": "",
+          "keywords": "",
+          "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36",
+          "producer": "Skia/PDF m153",
+          "creationDate": "D:20260924120046+00'00'",
+          "modDate": "D:20260924120046+00'00'",
+          "trapped": "",
+          "encryption": null
+        },
+        "current": {
+          "source_sha256": "3d592389da1aa2385e0acfd751d27b9856de378072f5d934ccdb0c21b22b7b30",
+          "sha256": "cb29b25df37c3740a8a37ea05cda970e7d432d173400d7b2d4b083cecc955bbc"
+        },
+        "checks": {
+          "pages": true,
+          "no_blank": true,
+          "no_replacement_glyph": true,
+          "no_out_of_bounds": true,
+          "no_overlap": true,
+          "no_raw_markdown": true,
+          "heading_parity": true,
+          "descriptor": true,
+          "metadata_title": true,
+          "hash_identity": true
+        },
+        "failure_codes": [],
+        "pass": true
+      },
+      "MCQ-Questions.pdf": {
+        "pages": 12,
+        "bytes": 171135,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_pages": [],
+        "overlap_pages": [],
+        "raw_markdown": [],
+        "missing_headings": [],
+        "metadata": {
+          "format": "PDF 1.4",
+          "title": "MCQ-Questions.render.html",
+          "author": "",
+          "subject": "",
+          "keywords": "",
+          "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36",
+          "producer": "Skia/PDF m153",
+          "creationDate": "D:20260924121013+00'00'",
+          "modDate": "D:20260924121013+00'00'",
+          "trapped": "",
+          "encryption": null
+        },
+        "current": {
+          "source_sha256": "b70ef3db3667f2edbf046f7809f35849d782e5cab09918d641082bbba871d567",
+          "sha256": "9bbbd568b212c47b36fde537f0edacf6446c3432c456fc561db25df10755d906"
+        },
+        "checks": {
+          "pages": true,
+          "no_blank": true,
+          "no_replacement_glyph": true,
+          "no_out_of_bounds": true,
+          "no_overlap": true,
+          "no_raw_markdown": true,
+          "heading_parity": true,
+          "descriptor": true,
+          "metadata_title": true,
+          "hash_identity": true
+        },
+        "failure_codes": [],
+        "pass": true
+      },
+      "MCQ-Solutions.pdf": {
+        "pages": 29,
+        "bytes": 427098,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_pages": [],
+        "overlap_pages": [],
+        "raw_markdown": [],
+        "missing_headings": [],
+        "metadata": {
+          "format": "PDF 1.4",
+          "title": "MCQ-Solutions.render.html",
+          "author": "",
+          "subject": "",
+          "keywords": "",
+          "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36",
+          "producer": "Skia/PDF m153",
+          "creationDate": "D:20260924121021+00'00'",
+          "modDate": "D:20260924121021+00'00'",
+          "trapped": "",
+          "encryption": null
+        },
+        "current": {
+          "source_sha256": "c587c5a93d8a5f6b981a3373b0b77318905b0172bbadff37d1b7e635ea14b348",
+          "sha256": "5ecdca87689b8bdb49893999679540310ab8adf229ab7dcde554091ce6c5231e"
+        },
+        "checks": {
+          "pages": true,
+          "no_blank": true,
+          "no_replacement_glyph": true,
+          "no_out_of_bounds": true,
+          "no_overlap": true,
+          "no_raw_markdown": true,
+          "heading_parity": true,
+          "descriptor": true,
+          "metadata_title": true,
+          "hash_identity": true
+        },
+        "failure_codes": [],
+        "pass": true
+      },
+      "Answer-Writing-Toolkit.pdf": {
+        "pages": 22,
+        "bytes": 504454,
+        "blank_pages": [],
+        "replacement_glyphs": 0,
+        "out_of_bounds_pages": [],
+        "overlap_pages": [],
+        "raw_markdown": [],
+        "missing_headings": [],
+        "metadata": {
+          "format": "PDF 1.4",
+          "title": "Answer-Writing-Toolkit.render.html",
+          "author": "",
+          "subject": "",
+          "keywords": "",
+          "creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36",
+          "producer": "Skia/PDF m153",
+          "creationDate": "D:20260924114901+00'00'",
+          "modDate": "D:20260924114901+00'00'",
+          "trapped": "",
+          "encryption": null
+        },
+        "current": {
+          "source_sha256": "f74873bf39d2373df155a21e82c2302d6926a5989073286b30cb3c6a7d96d99e",
+          "sha256": "f41b66bb7c18333284379bd06d8f5e5782b32d9e235b51404d8d01b6dfa53d8b"
+        },
+        "checks": {
+          "pages": true,
+          "no_blank": true,
+          "no_replacement_glyph": true,
+          "no_out_of_bounds": true,
+          "no_overlap": true,
+          "no_raw_markdown": true,
+          "heading_parity": true,
+          "descriptor": true,
+          "metadata_title": true,
+          "hash_identity": true
+        },
+        "failure_codes": [],
+        "pass": true
+      }
+    },
+    "text_temp_and_diff_integrity": {
+      "inspected": [
+        "ANSWER-WRITING-TOOLKIT.md",
+        "attempts\\.gitkeep",
+        "CANONICAL-COVERAGE-REVIEW.json",
+        "COVERAGE-LEDGER.md",
+        "FORMAL-COVERAGE-AUDIT.json",
+        "MCQ-AUDIT.json",
+        "MCQ-QUESTIONS.md",
+        "MCQ-SOLUTIONS.md",
+        "PRACTICE-LOG.md",
+        "PYQ-DEMAND-AUDIT.json",
+        "README.md",
+        "REVISION-GUIDE.md",
+        "SOURCE-PROVENANCE.json",
+        "validate_package.py",
+        "VALIDATION.json"
+      ],
+      "text_failures": [],
+      "temporary": [],
+      "git_diff_check_stdout": "",
+      "git_diff_check_stderr": "",
+      "pass": true
+    },
+    "practice_log_blank": true,
+    "production_negative_tests": {
+      "mechanism": "Each case copies the complete package, mutates a real artifact, invokes the copied production validate_package.py entry point, and checks non-zero exit plus the expected diagnostic.",
+      "tests": [
+        {
+          "name": "missing required Markdown",
+          "expected_diagnostic": "missing_required_markdown",
+          "exit_code": 1,
+          "stdout": "",
+          "stderr": "{\"failure_codes\": [\"missing:README.md\", \"missing_required_markdown\", \"required_files\"], \"missing_required\": [\"README.md\"], \"release_ready\": false, \"result\": \"FAIL\"}",
+          "rejected": true,
+          "diagnostic_observed": true,
+          "validation_sha256_before": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "validation_sha256_after": "8242c18f20828fe969c566720bdf8e160434fa588fede1e884a8724e4383fc93",
+          "validation_unchanged": false,
+          "pass": true
+        },
+        {
+          "name": "precommit missing Markdown is non-mutating",
+          "expected_diagnostic": "missing_required_markdown",
+          "exit_code": 1,
+          "stdout": "",
+          "stderr": "{\"failure_codes\": [\"missing:README.md\", \"missing_required_markdown\", \"required_files\"], \"missing_required\": [\"README.md\"], \"release_ready\": false, \"result\": \"FAIL\"}",
+          "rejected": true,
+          "diagnostic_observed": true,
+          "validation_sha256_before": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "validation_sha256_after": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "validation_unchanged": true,
+          "pass": true
+        },
+        {
+          "name": "missing required audit JSON",
+          "expected_diagnostic": "missing_required_audit_json",
+          "exit_code": 1,
+          "stdout": "",
+          "stderr": "{\"failure_codes\": [\"missing:MCQ-AUDIT.json\", \"missing_required_audit_json\", \"required_files\"], \"missing_required\": [\"MCQ-AUDIT.json\"], \"release_ready\": false, \"result\": \"FAIL\"}",
+          "rejected": true,
+          "diagnostic_observed": true,
+          "validation_sha256_before": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "validation_sha256_after": "2b0e80a1a1152714dfc01b636e6854716dbc4f29e62e2d9c33a350524208d421",
+          "validation_unchanged": false,
+          "pass": true
+        },
+        {
+          "name": "missing validator source input",
+          "expected_diagnostic": "missing_validator_input",
+          "exit_code": 1,
+          "stdout": "",
+          "stderr": "{\"failure_codes\": [\"missing:SOURCE-PROVENANCE.json\", \"missing_validator_input\", \"required_files\"], \"missing_required\": [\"SOURCE-PROVENANCE.json\"], \"release_ready\": false, \"result\": \"FAIL\"}",
+          "rejected": true,
+          "diagnostic_observed": true,
+          "validation_sha256_before": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "validation_sha256_after": "34feeab7133e6681f789555bc698030ba29bceffd4d681a8c1b091250a306658",
+          "validation_unchanged": false,
+          "pass": true
+        },
+        {
+          "name": "missing required PDF",
+          "expected_diagnostic": "missing_required_pdf",
+          "exit_code": 1,
+          "stdout": "",
+          "stderr": "{\"failure_codes\": [\"missing:pdf/MCQ-Questions.pdf\", \"missing_required_pdf\", \"required_files\"], \"missing_required\": [\"pdf/MCQ-Questions.pdf\"], \"release_ready\": false, \"result\": \"FAIL\"}",
+          "rejected": true,
+          "diagnostic_observed": true,
+          "validation_sha256_before": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "validation_sha256_after": "81d187fd875dae104f5ae7642b73e01c063aac900e8b47f07c26b356e091e7ca",
+          "validation_unchanged": false,
+          "pass": true
+        },
+        {
+          "name": "canonical source hash corruption",
+          "expected_diagnostic": "source_payload_hash_mismatch",
+          "exit_code": 1,
+          "stdout": "FAIL: canonical_rows=41 MCQs=54 PYQs=17 originals=6 PDF pages [Revision-Guide.pdf:68, MCQ-Questions.pdf:12, MCQ-Solutions.pdf:29, Answer-Writing-Toolkit.pdf:22] release_ready=False\nFailures: coverage_review, text_temp_diff_integrity",
+          "stderr": "",
+          "rejected": true,
+          "diagnostic_observed": true,
+          "validation_sha256_before": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "validation_sha256_after": "b4ec465cc7d3d5241c5f0f2e2e0f4561706e61f02a4837739a5e6e9de311c291",
+          "validation_unchanged": false,
+          "pass": true
+        },
+        {
+          "name": "destination payload corruption",
+          "expected_diagnostic": "destination_destination_payload_sha256_mismatch",
+          "exit_code": 1,
+          "stdout": "FAIL: canonical_rows=41 MCQs=54 PYQs=17 originals=6 PDF pages [Revision-Guide.pdf:68, MCQ-Questions.pdf:12, MCQ-Solutions.pdf:29, Answer-Writing-Toolkit.pdf:22] release_ready=False\nFailures: coverage_review, text_temp_diff_integrity",
+          "stderr": "",
+          "rejected": true,
+          "diagnostic_observed": true,
+          "validation_sha256_before": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "validation_sha256_after": "e7c5dac9ac91ccb7ce627dc9b8adf10c2e23b104dbfdd495c8e9e8f57da11405",
+          "validation_unchanged": false,
+          "pass": true
+        },
+        {
+          "name": "MCQ cue and answer leakage",
+          "expected_diagnostic": "question_answer_leakage",
+          "exit_code": 1,
+          "stdout": "FAIL: canonical_rows=41 MCQs=54 PYQs=17 originals=6 PDF pages [Revision-Guide.pdf:68, MCQ-Questions.pdf:12, MCQ-Solutions.pdf:29, Answer-Writing-Toolkit.pdf:22] release_ready=False\nFailures: mcqs, pdfs, text_temp_diff_integrity",
+          "stderr": "",
+          "rejected": true,
+          "diagnostic_observed": true,
+          "validation_sha256_before": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "validation_sha256_after": "c3bea0d21be09dae83b4c6eee50698559717cca4b7c845fa1dae3abddf5f731e",
+          "validation_unchanged": false,
+          "pass": true
+        },
+        {
+          "name": "stale PDF source integrity",
+          "expected_diagnostic": "pdf_hash_identity",
+          "exit_code": 1,
+          "stdout": "FAIL: canonical_rows=41 MCQs=54 PYQs=17 originals=6 PDF pages [Revision-Guide.pdf:68, MCQ-Questions.pdf:12, MCQ-Solutions.pdf:29, Answer-Writing-Toolkit.pdf:22] release_ready=False\nFailures: pdfs, text_temp_diff_integrity",
+          "stderr": "",
+          "rejected": true,
+          "diagnostic_observed": true,
+          "validation_sha256_before": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "validation_sha256_after": "245815eadb59d833f36b45ceb55e6cc31405546a2f8fba541df30b319b038430",
+          "validation_unchanged": false,
+          "pass": true
+        },
+        {
+          "name": "release readiness and staging",
+          "expected_diagnostic": "release_integrity",
+          "exit_code": 1,
+          "stdout": "FAIL: canonical_rows=41 MCQs=54 PYQs=17 originals=6 PDF pages [Revision-Guide.pdf:68, MCQ-Questions.pdf:12, MCQ-Solutions.pdf:29, Answer-Writing-Toolkit.pdf:22] release_ready=False\nFailures: text_temp_diff_integrity, release_integrity",
+          "stderr": "",
+          "rejected": true,
+          "diagnostic_observed": true,
+          "validation_sha256_before": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "validation_sha256_after": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "validation_unchanged": true,
+          "pass": true
+        }
+      ],
+      "passed": 10,
+      "failed": 0,
+      "pass": true
+    },
+    "release_integrity": {
+      "files": [
+        {
+          "path": "README.md",
+          "working_sha256": "70e2b386bfb51c4f844be0f3b53628fcd9ec5c6c4f91991af67306792bbfa74f",
+          "working_git_oid": "0d59a37a1810b6c1659050444b92c5bed3d64569",
+          "staged_git_oid": "0d59a37a1810b6c1659050444b92c5bed3d64569",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "SOURCE-PROVENANCE.json",
+          "working_sha256": "a569147dea268eb6000dfdd1df29a55533ab574a6ea201813bf97056a33e9066",
+          "working_git_oid": "59e09b28e99453fdf5623611f767364160191b8e",
+          "staged_git_oid": "59e09b28e99453fdf5623611f767364160191b8e",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "REVISION-GUIDE.md",
+          "working_sha256": "3d592389da1aa2385e0acfd751d27b9856de378072f5d934ccdb0c21b22b7b30",
+          "working_git_oid": "c41d415227f6441194b2e3ce18cfcc7a4590ec31",
+          "staged_git_oid": "c41d415227f6441194b2e3ce18cfcc7a4590ec31",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "MCQ-QUESTIONS.md",
+          "working_sha256": "b70ef3db3667f2edbf046f7809f35849d782e5cab09918d641082bbba871d567",
+          "working_git_oid": "b889d4e9f53f39b4681784d95423624d94ca05c9",
+          "staged_git_oid": "b889d4e9f53f39b4681784d95423624d94ca05c9",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "MCQ-SOLUTIONS.md",
+          "working_sha256": "c587c5a93d8a5f6b981a3373b0b77318905b0172bbadff37d1b7e635ea14b348",
+          "working_git_oid": "f580df39a5ca961d65aec2a92c0de89580d29998",
+          "staged_git_oid": "f580df39a5ca961d65aec2a92c0de89580d29998",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "MCQ-AUDIT.json",
+          "working_sha256": "d00329742840f0765ff734a3de8f13885807ce80bb5d2855be521af53e2fdb0c",
+          "working_git_oid": "a4ce2f5de6b17c1d521dd792f8bb1af3f44471b1",
+          "staged_git_oid": "a4ce2f5de6b17c1d521dd792f8bb1af3f44471b1",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "ANSWER-WRITING-TOOLKIT.md",
+          "working_sha256": "f74873bf39d2373df155a21e82c2302d6926a5989073286b30cb3c6a7d96d99e",
+          "working_git_oid": "f434e6c69fdac673f5809aa13faa4d1582c32887",
+          "staged_git_oid": "f434e6c69fdac673f5809aa13faa4d1582c32887",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "PYQ-DEMAND-AUDIT.json",
+          "working_sha256": "c9b89589e4cc5afd283315f5c425fb52a4aaa6574b58f6d0694aa01dc20bab50",
+          "working_git_oid": "3f6a1bb0f9979480385202ecf2733eece8b5e455",
+          "staged_git_oid": "3f6a1bb0f9979480385202ecf2733eece8b5e455",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "COVERAGE-LEDGER.md",
+          "working_sha256": "5a77cabe6da4fb7f2deec17fe0b831be49ba990a702928664f377725d7a5d422",
+          "working_git_oid": "c37cc4985d4972b62a884d74c7b426eb8adfd608",
+          "staged_git_oid": "c37cc4985d4972b62a884d74c7b426eb8adfd608",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "CANONICAL-COVERAGE-REVIEW.json",
+          "working_sha256": "655cbd20569952a27fbf70be39bcd512e5c8256c006e2a0a677ace11112dd747",
+          "working_git_oid": "a970622050fe4b640390e2fdd9283f7f3a0823a8",
+          "staged_git_oid": "a970622050fe4b640390e2fdd9283f7f3a0823a8",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "FORMAL-COVERAGE-AUDIT.json",
+          "working_sha256": "a01994c376cebbc14d55c0276643abdb3c4155e650f8846ef99fd84473ee966c",
+          "working_git_oid": "d56a8ca6d84b289fb0daa01e060987c66971389c",
+          "staged_git_oid": "d56a8ca6d84b289fb0daa01e060987c66971389c",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "PRACTICE-LOG.md",
+          "working_sha256": "2c5523b892ae841888e6adeb363422ef304c28730fdd5ee4c3f177baa8d1c1cc",
+          "working_git_oid": "235c44776b14f7ee8e61f8072321413fb976ae64",
+          "staged_git_oid": "235c44776b14f7ee8e61f8072321413fb976ae64",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "validate_package.py",
+          "working_sha256": "53e1c0c9f26b2343d743eba0c5c71b65f7671a00321bcc02b5e84fd45f5939e8",
+          "working_git_oid": "24748e6c935e82c443cb64e4a578c8245d21e887",
+          "staged_git_oid": "3721c121390695289321f49f944d5906c6b78e5c",
+          "staged_blob_present": true,
+          "staged_matches_worktree": false
+        },
+        {
+          "path": "VALIDATION.json",
+          "working_sha256": "690f72e0dc84c0dc67846d11e2253a5eb584875b2980804b9ed1d10d9d83e113",
+          "working_git_oid": "b36c6ebc37c22c4a48e6aa82433132de748eb9ed",
+          "staged_git_oid": "b36c6ebc37c22c4a48e6aa82433132de748eb9ed",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "attempts/.gitkeep",
+          "working_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "working_git_oid": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "staged_git_oid": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "pdf/Revision-Guide.pdf",
+          "working_sha256": "cb29b25df37c3740a8a37ea05cda970e7d432d173400d7b2d4b083cecc955bbc",
+          "working_git_oid": "b54d8bd997201a39ca4a165e2fc40c6c113cbb41",
+          "staged_git_oid": "b54d8bd997201a39ca4a165e2fc40c6c113cbb41",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "pdf/MCQ-Questions.pdf",
+          "working_sha256": "9bbbd568b212c47b36fde537f0edacf6446c3432c456fc561db25df10755d906",
+          "working_git_oid": "80304a48367be705c49fc768e82e8bcc21ba8096",
+          "staged_git_oid": "80304a48367be705c49fc768e82e8bcc21ba8096",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "pdf/MCQ-Solutions.pdf",
+          "working_sha256": "5ecdca87689b8bdb49893999679540310ab8adf229ab7dcde554091ce6c5231e",
+          "working_git_oid": "e7969d9bc055a2dcbd8e4ef4f3fcffb332a06b56",
+          "staged_git_oid": "e7969d9bc055a2dcbd8e4ef4f3fcffb332a06b56",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        },
+        {
+          "path": "pdf/Answer-Writing-Toolkit.pdf",
+          "working_sha256": "f41b66bb7c18333284379bd06d8f5e5782b32d9e235b51404d8d01b6dfa53d8b",
+          "working_git_oid": "d03bd5dadea93747b7f0ddedc91bee6c960332fd",
+          "staged_git_oid": "d03bd5dadea93747b7f0ddedc91bee6c960332fd",
+          "staged_blob_present": true,
+          "staged_matches_worktree": true
+        }
+      ],
+      "pass": false,
+      "validation_mode": "Precommit verification is non-mutating. Every required artifact, including VALIDATION.json, must already be staged with the same Git clean-filter-normalized content as the final working tree."
+    }
+  },
+  "failures": [],
+  "mechanical_limit": "Mechanical validation verifies canonical_without_formal_session provenance, authored canonical mappings, hierarchy hashes, obligations, MCQ/PYQ structure, locked word bands, copied-package negative controls and PDF integrity. It does not claim formal-session authority, philosophical truth or an examiner score."
+}

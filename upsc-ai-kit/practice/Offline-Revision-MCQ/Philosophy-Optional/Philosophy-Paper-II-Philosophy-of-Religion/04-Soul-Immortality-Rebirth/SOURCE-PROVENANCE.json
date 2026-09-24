@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "topic": "Soul, Immortality and Rebirth",
+  "authority_mode": "canonical_without_formal_session",
+  "primary_authority": {
+    "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+    "sha256": "77b11a84b0760af3a2e970bba429eb83a5c094f23734b5b5dc796bce6d4218a8"
+  },
+  "verified_pyq_ledgers": [
+    {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "sha256": "4b9e2ea54934e9078d2d5729434a0fd338d0a87889446f24979ac3eddb85095e",
+      "scope": "2018-2025"
+    },
+    {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2026-Supplement.md",
+      "sha256": "043c628952f0c4a6da55cf6c4fd7909e39e984ff50ac778ced17171b9f8d2b63",
+      "scope": "2026"
+    }
+  ],
+  "reference_only": [
+    {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Soul-Immortality-Rebirth-Liberation\\Soul-Immortality-Rebirth-Liberation_Layered-Complete-Learning-Session_2026-08-19.md",
+      "sha256": "3662c8cc811ea966ed11fbf5bb3afc676c97b2a4082bd4a0c6f72fd64b3ad8b6",
+      "role": "derivative learning evidence"
+    },
+    {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Soul-Immortality-Rebirth-Liberation\\Soul-Immortality-Rebirth-Liberation_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "sha256": "fc673de701139363ddfac35f2dae0e5747f83f98914bb9882579b56a7261cbd7",
+      "role": "derivative practice evidence"
+    }
+  ],
+  "formal_authority_check": {
+    "root": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-II-—-Philosophy-of-Religion\\04-Soul-Immortality,-Rebirth-and-Liberation",
+    "completed_formal_source_eligible": false,
+    "filesystem_candidate_directory_exists": true,
+    "filesystem_candidate_file_names": [
+      "Learning-Session.md",
+      "Solved-Practice-Workbook.md"
+    ],
+    "candidate_files_read_hashed_or_used": false,
+    "decision": "User-locked provenance states that no completed formal Soul source exists; physically present candidates are excluded and must not be represented as formal authority."
+  },
+  "limitations": [
+    "No formal-session reconciliation claim is made.",
+    "Reference overlap and hashes establish identity, not philosophical truth.",
+    "The canonical owner controls conflicts and boundaries."
+  ]
+}

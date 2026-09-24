@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "verified_pyqs": [
+    {
+      "year": "2018",
+      "part": "Q5(b)",
+      "marks": 10,
+      "question": "How far is it plausible to argue that the anti-theistic religions’ stand on the concept of rebirth is philosophically significant?",
+      "declared_words": 200,
+      "computed_words": 200,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2018",
+      "part": "Q7(c)",
+      "marks": 15,
+      "question": "Evaluate the concept of Bhakti (Devotion) as a pathway to attain liberation.",
+      "declared_words": 291,
+      "computed_words": 291,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2019",
+      "part": "Q8(a)",
+      "marks": 20,
+      "question": "State and explain the doctrines of Karma, Rebirth and Reincarnation in Hinduism.",
+      "declared_words": 349,
+      "computed_words": 349,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2020",
+      "part": "Q5(b)",
+      "marks": 10,
+      "question": "The concept of ‘Immortality’ is a basic presupposition of religion. Elaborate your answer.",
+      "declared_words": 182,
+      "computed_words": 182,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2020",
+      "part": "Q8(c)",
+      "marks": 15,
+      "question": "Do you accept that Knowledge, Action and Devotion are the means to attain liberation in Indian tradition? Discuss.",
+      "declared_words": 292,
+      "computed_words": 292,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2021",
+      "part": "Q6(a)",
+      "marks": 20,
+      "question": "Discuss the concept of immortality of soul with special reference to Hindu tradition.",
+      "declared_words": 366,
+      "computed_words": 366,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2021",
+      "part": "Q6(b)",
+      "marks": 15,
+      "question": "Elucidate the concept of liberation according to Advaita Vedānta. Explain the role of knowledge in the attainment of liberation.",
+      "declared_words": 261,
+      "computed_words": 261,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2021",
+      "part": "Q8(b)",
+      "marks": 15,
+      "question": "Discuss and evaluate the doctrine of Karma as an essential postulate of Hinduism.",
+      "declared_words": 264,
+      "computed_words": 264,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2022",
+      "part": "Q5(c)",
+      "marks": 10,
+      "question": "“Immortality of Soul is a necessary postulate for rebirth.” Critically examine with reference to Buddhism.",
+      "declared_words": 178,
+      "computed_words": 178,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2022",
+      "part": "Q7(b)",
+      "marks": 15,
+      "question": "Is it possible to have an idea of Liberation without the conception of a real agent? In this context, discuss the difference between Advaita and Viśiṣṭādvaita systems of thought.",
+      "declared_words": 270,
+      "computed_words": 270,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2022",
+      "part": "Q8(b)",
+      "marks": 15,
+      "question": "Discuss the nature of Soul and Bondage according to Jainism.",
+      "declared_words": 267,
+      "computed_words": 267,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2023",
+      "part": "Q6(a)",
+      "marks": 20,
+      "question": "Critically examine Plato’s apriori proofs for the immortality of the soul.",
+      "declared_words": 352,
+      "computed_words": 352,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2023",
+      "part": "Q7(b)",
+      "marks": 15,
+      "question": "Examine the significance of the concept of rebirth in the theory of Karma.",
+      "declared_words": 264,
+      "computed_words": 264,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2024",
+      "part": "Q5(c)",
+      "marks": 10,
+      "question": "Discuss the concept of liberation (Apavarga) according to Nyāya-Vaiśeṣika.",
+      "declared_words": 191,
+      "computed_words": 191,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2024",
+      "part": "Q6(a)",
+      "marks": 20,
+      "question": "Is it necessary to adhere to the notions of immortality of soul and rebirth in order to have a robust conception of liberation? Give reasons and justifications for your answer.",
+      "declared_words": 351,
+      "computed_words": 351,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2025",
+      "part": "Q5(d)",
+      "marks": 10,
+      "question": "Discuss the nature of embodied liberation (jīvanmukti) with reference to Advaita Vedānta.",
+      "declared_words": 174,
+      "computed_words": 174,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    },
+    {
+      "year": "2025",
+      "part": "Q7(c)",
+      "marks": 15,
+      "question": "Is the concept of immortality of soul a necessary condition for Rebirth? Discuss with reference to the Bhagavad Gītā.",
+      "declared_words": 264,
+      "computed_words": 264,
+      "within_band": true,
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "independent_answer": true
+    }
+  ],
+  "originals": [
+    {
+      "number": 1,
+      "marks": 10,
+      "question": "Distinguish rebirth from reincarnation, and explain why the distinction is decisive for Buddhism.",
+      "declared_words": 156,
+      "computed_words": 156,
+      "within_band": true,
+      "inbound_obligation": null
+    },
+    {
+      "number": 2,
+      "marks": 15,
+      "question": "Examine whether 'liberation' can be treated as a single concept across the Indian schools.",
+      "declared_words": 262,
+      "computed_words": 262,
+      "within_band": true,
+      "inbound_obligation": null
+    },
+    {
+      "number": 3,
+      "marks": 20,
+      "question": "Compare the Western resurrection tradition and the Indian rebirth tradition on the problem of personal identity across death.",
+      "declared_words": 384,
+      "computed_words": 384,
+      "within_band": true,
+      "inbound_obligation": null
+    },
+    {
+      "number": 4,
+      "marks": 10,
+      "question": "Why must a theory of post-mortem survival distinguish numerical identity from qualitative similarity?",
+      "declared_words": 177,
+      "computed_words": 177,
+      "within_band": true,
+      "inbound_obligation": "T11-ROUTE-P2-SOUL"
+    },
+    {
+      "number": 5,
+      "marks": 15,
+      "question": "Use Strawson's identification conditions to assess the claim that an immaterial soul guarantees personal immortality.",
+      "declared_words": 269,
+      "computed_words": 269,
+      "within_band": true,
+      "inbound_obligation": "T11-ROUTE-P2-SOUL"
+    },
+    {
+      "number": 6,
+      "marks": 20,
+      "question": "Critically compare bodily, psychological, soul-substance and causal-continuity accounts of survival across death.",
+      "declared_words": 350,
+      "computed_words": 350,
+      "within_band": true,
+      "inbound_obligation": "T11-ROUTE-P2-SOUL"
+    }
+  ]
+}

@@ -1,51 +1,54 @@
 {
-  "schema_version": 13,
+  "schema_version": 16,
   "topic": "11 Quine and Strawson",
-  "validated_at": "2026-09-21T06:51:29+05:30",
-  "result": "PASS",
-  "result_gate": "PASS only when every recorded check passes",
+  "validated_at": "2026-09-24T19:21:17+05:30",
+  "result": "DEVELOPMENT_PASS",
+  "validation_mode": "development",
+  "release_ready": false,
+  "result_gate": "DEVELOPMENT_PASS validates the isolated package and generated artifacts. RELEASE_PASS additionally requires every current required file in the Git index and all external obligations closed.",
   "pdf_generation": {
+    "requested": false,
     "mechanism": "C:/up/tools/unicode_markdown_pdf.py via installed Chrome and PyMuPDF",
-    "requested": true,
     "files": {
       "Revision-Guide.pdf": {
         "source": "REVISION-GUIDE.md",
         "exists": true,
-        "bytes": 798865,
-        "sha256": "a9c6e2666efe149dda8197b4f10d8aabee2994dfc9ec8b6ef6273e224c35d792",
-        "source_sha256": "aa787129d973f37da99dbcedac55f95b1421f3b37a731c4ee9fa1b3115b1a8ea",
-        "source_mtime_ns": 1789917304700948100,
-        "pdf_mtime_ns": 1789953658678165800
+        "bytes": 885082,
+        "sha256": "92645575dea6c78f8cf984d8d9718203d0fa83949733f864eb03982224ede68d",
+        "source_sha256": "93301344e27bd0b052e3e28682bffcbab77ca48ac101a6f3e5dc9cf438ff5a22",
+        "source_mtime_ns": 1790233577569327400,
+        "pdf_mtime_ns": 1790234711028142200
       },
       "MCQ-Questions.pdf": {
         "source": "MCQ-QUESTIONS.md",
         "exists": true,
         "bytes": 179070,
-        "sha256": "7f06505efc2bce3b8324e7f89aa5cfbc7727b73f821572c79897d5e8094b8d89",
+        "sha256": "337f5199d7bb779d01b84bc58d4a1024196d48380be60df83c1c9e1e9548ba22",
         "source_sha256": "cede095b86bdd49c5438db10e40bc35af3518f00b79938b13cc7bcf63a9f441a",
         "source_mtime_ns": 1789953345084477300,
-        "pdf_mtime_ns": 1789953662391563000
+        "pdf_mtime_ns": 1790234716599399200
       },
       "MCQ-Solutions.pdf": {
         "source": "MCQ-SOLUTIONS.md",
         "exists": true,
         "bytes": 660367,
-        "sha256": "02b0379b86cb8fb90185e330ed4ffe1e29c4e4d09bb7c7d3485b9faa4b46e900",
+        "sha256": "2db7efd09694ddd04eb9ef31843bcaf2404aa7ebef6d918f9f30afed3524bc1f",
         "source_sha256": "5d49c7a3ae64fcd69ff73f3442889a632590274a1aa88371885d6968dfcd6847",
         "source_mtime_ns": 1789953450421865900,
-        "pdf_mtime_ns": 1789953669024447800
+        "pdf_mtime_ns": 1790234727382630900
       },
       "Answer-Writing-Toolkit.pdf": {
         "source": "ANSWER-WRITING-TOOLKIT.md",
         "exists": true,
-        "bytes": 274809,
-        "sha256": "c325c1135f38d507567f004d7d886314fa18b15b87d2a0118e2659fbbda1f0da",
-        "source_sha256": "e1fbe92ccf456d88eaf7cd25196a2721fc27e03c28f59bb20af48e27234db8e9",
-        "source_mtime_ns": 1789914261627153600,
-        "pdf_mtime_ns": 1789953672711382600
+        "bytes": 553597,
+        "sha256": "cc7c4c0be9c93aad85cac93c2b575c4ac4d74b6ad05946f1695951d8531dde72",
+        "source_sha256": "c44c18b075c5359f24bea7690f6a3b60bd49d47846c9971da44230bd39c38a44",
+        "source_mtime_ns": 1790238528671218000,
+        "pdf_mtime_ns": 1790240847392972800
       }
     },
-    "all_four_regenerated": true
+    "all_four_regenerated": true,
+    "reused_prior_record": true
   },
   "checks": {
     "required_files": {
@@ -58,11 +61,509 @@
       "ANSWER-WRITING-TOOLKIT.md": true,
       "MCQ-AUDIT.json": true,
       "PYQ-DEMAND-AUDIT.json": true,
+      "FORMAL-COVERAGE-REVIEW.json": true,
+      "FORMAL-COVERAGE-AUDIT.json": true,
+      "formal_validation.py": true,
+      "VALIDATION.json": true,
       "validate_package.py": true,
       "pdf/Revision-Guide.pdf": true,
       "pdf/MCQ-Questions.pdf": true,
       "pdf/MCQ-Solutions.pdf": true,
       "pdf/Answer-Writing-Toolkit.pdf": true
+    },
+    "formal_coverage_audit": {
+      "formal_block_count": 435,
+      "structural_umbrellas": 61,
+      "large_leaf_blocks": 15,
+      "distributed_units": 45,
+      "panel_count": 42,
+      "semantic_claim_scan": {
+        "claim_count": 559,
+        "expected_claim_count": 559,
+        "target_family_counts": {
+          "standalone_subordinate_because": 0,
+          "elliptical_attribution_unresolved_pronoun": 0
+        },
+        "all_malformed_family_counts": {},
+        "pass": true
+      },
+      "external_obligations_pending": [],
+      "external_obligations_release_blocking": [],
+      "external_destination_modes": {
+        "T11-ROUTE-T03-EMPIRICISM": {
+          "validation_result": "DEVELOPMENT_PASS",
+          "development_valid": true,
+          "release_valid": false,
+          "release_probe": null,
+          "validation_sha256": "4106ec1b3ac2f8b45d348454490338f1b8bcd9b3d47a52c71d21e4ee4720aa38",
+          "audit_sha256": "ba77886b8b28eda5b8ca27779f790481dad237565c2bb744ace5bb1b9e9bd918",
+          "inbound_rows_sha256": "d14b95610d96d992732c42f2c23f8d59e94378b897c34a799f398bbda60c7310"
+        },
+        "T11-ROUTE-T04-KANT-GENERAL": {
+          "validation_result": "DEVELOPMENT_PASS",
+          "development_valid": true,
+          "release_valid": false,
+          "release_probe": null,
+          "validation_sha256": "91f63191b327efd31f1b0cf9ff12501c869949956f1193971fc5e1bad83f5e00",
+          "audit_sha256": "a2736b02d903e73fbcd87882ebd085fb003050aaca16da795673bcdc5c5288c0",
+          "inbound_rows_sha256": "ee1ed871166e1b56c03e544df9811ec83a2e682c691c867e9fa0a694a0e9794a"
+        },
+        "T11-ROUTE-T04-BOUNDS-OF-SENSE": {
+          "validation_result": "DEVELOPMENT_PASS",
+          "development_valid": true,
+          "release_valid": false,
+          "release_probe": null,
+          "validation_sha256": "91f63191b327efd31f1b0cf9ff12501c869949956f1193971fc5e1bad83f5e00",
+          "audit_sha256": "a2736b02d903e73fbcd87882ebd085fb003050aaca16da795673bcdc5c5288c0",
+          "inbound_rows_sha256": "7682188f9f1f79fbcfd4f77a1d06313ded550a4b777c78839fd9c414b7c1c413"
+        },
+        "T11-ROUTE-T06-DESCRIPTIONS": {
+          "validation_result": "DEVELOPMENT_PASS",
+          "development_valid": true,
+          "release_valid": false,
+          "release_probe": null,
+          "validation_sha256": "096fe445fb6683adcbb7c6bc4794fe2a64a544bd36c5882e2ec7487c1185ab89",
+          "audit_sha256": "61388990c3e9681111ec46342a62d6300724a13b277bf7e10f9dc5f7d2522744",
+          "inbound_rows_sha256": "e01dc7d1bfef1bdf98e2cf14a598e1460aba5eb5f53609c87e533aa6a4a3d273"
+        },
+        "T11-ROUTE-T07-POSITIVISM": {
+          "validation_result": "DEVELOPMENT_PASS",
+          "development_valid": true,
+          "release_valid": false,
+          "release_probe": null,
+          "validation_sha256": "ec9c1094e58cd2dcaebd83d9a55e12ea5b8ef1fdb1d574be8e1c0db26bbf6299",
+          "audit_sha256": "4ba5665b93acdb490424aa76a8f137793adfb2021ff61414ce7860931091ae2e",
+          "inbound_rows_sha256": "c68e801ba46a04847a02315fd7309b6b1808594dbfdf344bb0086d2e7ce27d39"
+        },
+        "T11-ROUTE-T08-LATER-WITTGENSTEIN": {
+          "validation_result": "DEVELOPMENT_PASS",
+          "development_valid": true,
+          "release_valid": false,
+          "release_probe": null,
+          "validation_sha256": "3dc5e20e2d6e509dbbe15075073499f0a218bdf697ae77c614a54442781e255a",
+          "audit_sha256": "292df6267de4059af90825561a60119effb9e15382265c1392105091db215302",
+          "inbound_rows_sha256": "ea13aeaa20bf1aa45b62bacb609c6acfc7e80564b2f3b3b13ddcef6644f012a2"
+        },
+        "T11-ROUTE-P2-SOUL": {
+          "validation_result": "DEVELOPMENT_PASS",
+          "development_valid": true,
+          "release_valid": false,
+          "release_probe": null,
+          "validation_sha256": "66d94883f79f88ae2c4295f18f85846049211e92020b8362e5e3fcf6cbd555f7",
+          "audit_sha256": "a01994c376cebbc14d55c0276643abdb3c4155e650f8846ef99fd84473ee966c",
+          "inbound_rows_sha256": "2d23c8faca56e2c9ca3f5548404fe83e45c5060869be64db3fa0b28b11fe69e0"
+        }
+      },
+      "recorded_matches_current_sources_review_and_destinations": true,
+      "review_validation": {
+        "formal_block_count": 435,
+        "decision_count": 435,
+        "structural_umbrellas": 61,
+        "leaf_blocks": 374,
+        "large_leaf_blocks": 15,
+        "distributed_units": 45,
+        "panel_count": 42,
+        "semantic_claim_scan": {
+          "claim_count": 559,
+          "expected_claim_count": 559,
+          "target_family_counts": {
+            "standalone_subordinate_because": 0,
+            "elliptical_attribution_unresolved_pronoun": 0
+          },
+          "all_malformed_family_counts": {},
+          "pass": true
+        },
+        "external_obligation_count": 7,
+        "external_obligations_pending": [],
+        "external_obligations_closed": [
+          "T11-ROUTE-P2-SOUL",
+          "T11-ROUTE-T03-EMPIRICISM",
+          "T11-ROUTE-T04-BOUNDS-OF-SENSE",
+          "T11-ROUTE-T04-KANT-GENERAL",
+          "T11-ROUTE-T06-DESCRIPTIONS",
+          "T11-ROUTE-T07-POSITIVISM",
+          "T11-ROUTE-T08-LATER-WITTGENSTEIN"
+        ],
+        "external_obligations_release_blocking": [],
+        "external_destination_modes": {
+          "T11-ROUTE-T03-EMPIRICISM": {
+            "validation_result": "DEVELOPMENT_PASS",
+            "development_valid": true,
+            "release_valid": false,
+            "release_probe": null,
+            "validation_sha256": "4106ec1b3ac2f8b45d348454490338f1b8bcd9b3d47a52c71d21e4ee4720aa38",
+            "audit_sha256": "ba77886b8b28eda5b8ca27779f790481dad237565c2bb744ace5bb1b9e9bd918",
+            "inbound_rows_sha256": "d14b95610d96d992732c42f2c23f8d59e94378b897c34a799f398bbda60c7310"
+          },
+          "T11-ROUTE-T04-KANT-GENERAL": {
+            "validation_result": "DEVELOPMENT_PASS",
+            "development_valid": true,
+            "release_valid": false,
+            "release_probe": null,
+            "validation_sha256": "91f63191b327efd31f1b0cf9ff12501c869949956f1193971fc5e1bad83f5e00",
+            "audit_sha256": "a2736b02d903e73fbcd87882ebd085fb003050aaca16da795673bcdc5c5288c0",
+            "inbound_rows_sha256": "ee1ed871166e1b56c03e544df9811ec83a2e682c691c867e9fa0a694a0e9794a"
+          },
+          "T11-ROUTE-T04-BOUNDS-OF-SENSE": {
+            "validation_result": "DEVELOPMENT_PASS",
+            "development_valid": true,
+            "release_valid": false,
+            "release_probe": null,
+            "validation_sha256": "91f63191b327efd31f1b0cf9ff12501c869949956f1193971fc5e1bad83f5e00",
+            "audit_sha256": "a2736b02d903e73fbcd87882ebd085fb003050aaca16da795673bcdc5c5288c0",
+            "inbound_rows_sha256": "7682188f9f1f79fbcfd4f77a1d06313ded550a4b777c78839fd9c414b7c1c413"
+          },
+          "T11-ROUTE-T06-DESCRIPTIONS": {
+            "validation_result": "DEVELOPMENT_PASS",
+            "development_valid": true,
+            "release_valid": false,
+            "release_probe": null,
+            "validation_sha256": "096fe445fb6683adcbb7c6bc4794fe2a64a544bd36c5882e2ec7487c1185ab89",
+            "audit_sha256": "61388990c3e9681111ec46342a62d6300724a13b277bf7e10f9dc5f7d2522744",
+            "inbound_rows_sha256": "e01dc7d1bfef1bdf98e2cf14a598e1460aba5eb5f53609c87e533aa6a4a3d273"
+          },
+          "T11-ROUTE-T07-POSITIVISM": {
+            "validation_result": "DEVELOPMENT_PASS",
+            "development_valid": true,
+            "release_valid": false,
+            "release_probe": null,
+            "validation_sha256": "ec9c1094e58cd2dcaebd83d9a55e12ea5b8ef1fdb1d574be8e1c0db26bbf6299",
+            "audit_sha256": "4ba5665b93acdb490424aa76a8f137793adfb2021ff61414ce7860931091ae2e",
+            "inbound_rows_sha256": "c68e801ba46a04847a02315fd7309b6b1808594dbfdf344bb0086d2e7ce27d39"
+          },
+          "T11-ROUTE-T08-LATER-WITTGENSTEIN": {
+            "validation_result": "DEVELOPMENT_PASS",
+            "development_valid": true,
+            "release_valid": false,
+            "release_probe": null,
+            "validation_sha256": "3dc5e20e2d6e509dbbe15075073499f0a218bdf697ae77c614a54442781e255a",
+            "audit_sha256": "292df6267de4059af90825561a60119effb9e15382265c1392105091db215302",
+            "inbound_rows_sha256": "ea13aeaa20bf1aa45b62bacb609c6acfc7e80564b2f3b3b13ddcef6644f012a2"
+          },
+          "T11-ROUTE-P2-SOUL": {
+            "validation_result": "DEVELOPMENT_PASS",
+            "development_valid": true,
+            "release_valid": false,
+            "release_probe": null,
+            "validation_sha256": "66d94883f79f88ae2c4295f18f85846049211e92020b8362e5e3fcf6cbd555f7",
+            "audit_sha256": "a01994c376cebbc14d55c0276643abdb3c4155e650f8846ef99fd84473ee966c",
+            "inbound_rows_sha256": "2d23c8faca56e2c9ca3f5548404fe83e45c5060869be64db3fa0b28b11fe69e0"
+          }
+        },
+        "classification_counts": {
+          "covered_in_scope": 431,
+          "routed_to_canonical_owner": 4
+        },
+        "duplicate_destination_bindings": [],
+        "failure_codes": [],
+        "failures": [],
+        "pass": true
+      },
+      "coverage_negative_tests": {
+        "tests": [
+          {
+            "name": "formal block removed",
+            "expected_failure_code": "formal_block_set_mismatch",
+            "actual_failure_codes": [
+              "formal_block_set_mismatch",
+              "semantic_claim_scan_count_mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "source hash stale",
+            "expected_failure_code": "stale_source_hash",
+            "actual_failure_codes": [
+              "stale_source_hash"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "structural child removed",
+            "expected_failure_code": "structural_child_union_mismatch",
+            "actual_failure_codes": [
+              "structural_child_union_mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "recursive structural descendant removed",
+            "expected_failure_code": "recursive_child_union_mismatch",
+            "actual_failure_codes": [
+              "recursive_child_union_mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "parent-only body hash changed",
+            "expected_failure_code": "parent_only_body_hash_mismatch",
+            "actual_failure_codes": [
+              "parent_only_body_hash_mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "parent-only semantic proposition removed",
+            "expected_failure_code": "parent_only_semantic_claim_failure",
+            "actual_failure_codes": [
+              "parent_only_semantic_claim_failure",
+              "parent_only_semantic_key_failure"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "large leaf end removed",
+            "expected_failure_code": "large_leaf_segment_mismatch",
+            "actual_failure_codes": [
+              "large_leaf_segment_mismatch",
+              "semantic_claim_scan_count_mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "generic semantic claim",
+            "expected_failure_code": "generic_semantic_claim",
+            "actual_failure_codes": [
+              "generic_semantic_claim",
+              "semantic_key_failure"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "semantic claim duplicated",
+            "expected_failure_code": "duplicate_semantic_claim",
+            "actual_failure_codes": [
+              "duplicate_semantic_claim",
+              "semantic_key_failure"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "whole-atlas generic binding",
+            "expected_failure_code": "whole_atlas_generic_binding",
+            "actual_failure_codes": [
+              "whole_atlas_generic_binding"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "malformed split synonymy",
+            "expected_failure_code": "malformed_large_leaf_claim",
+            "actual_failure_codes": [
+              "large_leaf_semantic_key_failure",
+              "malformed_large_leaf_claim"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "malformed case token",
+            "expected_failure_code": "malformed_large_leaf_claim",
+            "actual_failure_codes": [
+              "large_leaf_semantic_key_failure",
+              "malformed_large_leaf_claim"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "malformed visual token",
+            "expected_failure_code": "malformed_large_leaf_claim",
+            "actual_failure_codes": [
+              "large_leaf_semantic_key_failure",
+              "malformed_large_leaf_claim"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "unbalanced quotation",
+            "expected_failure_code": "malformed_semantic_claim",
+            "actual_failure_codes": [
+              "generic_semantic_claim",
+              "malformed_semantic_claim",
+              "semantic_key_failure"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "numbered list-fragment non-proposition",
+            "expected_failure_code": "malformed_semantic_claim",
+            "actual_failure_codes": [
+              "generic_semantic_claim",
+              "malformed_semantic_claim",
+              "semantic_key_failure"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "standalone subordinate Because clause",
+            "expected_failure_code": "malformed_semantic_claim",
+            "actual_failure_codes": [
+              "malformed_semantic_claim",
+              "semantic_key_failure"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "elliptical attribution with unresolved pronoun",
+            "expected_failure_code": "malformed_semantic_claim",
+            "actual_failure_codes": [
+              "malformed_semantic_claim",
+              "semantic_key_failure"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "classification enum changed",
+            "expected_failure_code": "invalid_classification",
+            "actual_failure_codes": [
+              "invalid_classification",
+              "non_routed_decision_has_link"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "routed row link removed",
+            "expected_failure_code": "routed_decision_missing_link",
+            "actual_failure_codes": [
+              "obligation_link_count_mismatch",
+              "routed_decision_missing_link"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "panel removed",
+            "expected_failure_code": "panel_count_mismatch",
+            "actual_failure_codes": [
+              "panel_count_mismatch",
+              "panel_order_or_label_mismatch",
+              "semantic_claim_scan_count_mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "panel order swapped",
+            "expected_failure_code": "panel_order_or_label_mismatch",
+            "actual_failure_codes": [
+              "panel_correspondence_failure",
+              "panel_order_or_label_mismatch",
+              "panel_payload_mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "panel semantic claim malformed",
+            "expected_failure_code": "malformed_panel_claim",
+            "actual_failure_codes": [
+              "malformed_panel_claim",
+              "panel_semantic_key_failure"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "panel payload hash changed",
+            "expected_failure_code": "panel_payload_mismatch",
+            "actual_failure_codes": [
+              "panel_payload_mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "external obligation removed",
+            "expected_failure_code": "external_obligation_set_mismatch",
+            "actual_failure_codes": [
+              "external_obligation_set_mismatch",
+              "route_link_unknown_obligation"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "route owner changed",
+            "expected_failure_code": "route_link_field_mismatch",
+            "actual_failure_codes": [
+              "route_link_field_mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "route status invalid",
+            "expected_failure_code": "external_obligation_status_mismatch",
+            "actual_failure_codes": [
+              "external_obligation_status_mismatch",
+              "pending_obligation_claims_existing_package",
+              "pending_obligation_claims_inbound_closure",
+              "route_link_field_mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "route destination missing",
+            "expected_failure_code": "closed_destination_artifact_missing",
+            "actual_failure_codes": [
+              "closed_destination_artifact_missing"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "route concept unsupported",
+            "expected_failure_code": "closed_destination_concept_evidence_missing",
+            "actual_failure_codes": [
+              "closed_destination_concept_evidence_missing"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "development-only Soul destination cannot satisfy release",
+            "expected_failure_code": "closed_destination_release_not_ready",
+            "actual_failure_codes": [
+              "closed_destination_evidence_stale",
+              "closed_destination_release_not_ready"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "route inbound ID removed",
+            "expected_failure_code": "closed_destination_inbound_id_missing",
+            "actual_failure_codes": [
+              "closed_destination_inbound_id_missing"
+            ],
+            "rejected": true,
+            "pass": true
+          }
+        ],
+        "passed": 30,
+        "failed": 0,
+        "all_negative_tests_pass": true
+      },
+      "release_blocked_by_external_obligations": false,
+      "pass": true
     },
     "mcq_numbering": {
       "question_count": 61,
@@ -7224,330 +7725,6 @@
       "expected": 61,
       "pass": true
     },
-    "source_lineage": {
-      "source_files_read": {
-        "g5_session": {
-          "path": "knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g5\\topic-11_Complete-Learning-Session_2026-09-02.md",
-          "bytes": 354176,
-          "sha256": "a08262e611c15866bdeef1a2c8163e610368609359fbcfa7cf9d7dba4f567e25"
-        },
-        "g5_workbook": {
-          "path": "knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-11\\g5\\topic-11_Solved-Practice-Workbook_2026-09-02.md",
-          "bytes": 143594,
-          "sha256": "9fe278a951e0cce9d9e4b2d7eea93df63b1ccd509c58fc175e60013335706578"
-        },
-        "canonical": {
-          "path": "knowledge\\Philosophy\\paper-1\\western\\Quine-Strawson.md",
-          "bytes": 73744,
-          "sha256": "afe616e339889d27fd6b1dc63b2c2c60b8e0d80c5a1a05e2e7f8ad991245d98c"
-        },
-        "earlier_session": {
-          "path": "knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Quine-Strawson\\Quine-Strawson_Layered-Complete-Learning-Session_2026-08-19.md",
-          "bytes": 232116,
-          "sha256": "9af4efbc2fc8dcad340e7b969499612c863f9ba606141a5a8ec597be1b44b97c"
-        },
-        "earlier_workbook": {
-          "path": "knowledge\\Philosophy\\Western-Philosophy\\learning-sessions\\Quine-Strawson\\Quine-Strawson_Layered-Solved-Practice-Workbook_2026-08-19.md",
-          "bytes": 58545,
-          "sha256": "0ee599cd9a9070206e13a48ffb61b253ffb4be40e1c3b922a97b1c61baf23a3a"
-        }
-      },
-      "source_cell_count": 11,
-      "source_cells": {
-        "S01": {
-          "coverage": "C01",
-          "witnesses": {
-            "Quine": true,
-            "Strawson": true,
-            "printed burden": true,
-            "critique of empiricism": true
-          },
-          "pass": true
-        },
-        "S02": {
-          "coverage": "C02",
-          "witnesses": {
-            "analytic": true,
-            "synthetic": true,
-            "synonymy": true,
-            "circular": true
-          },
-          "pass": true
-        },
-        "S03": {
-          "coverage": "C03",
-          "witnesses": {
-            "reductionism": true,
-            "corporate body": true,
-            "web of belief": true,
-            "revision": true
-          },
-          "pass": true
-        },
-        "S04": {
-          "coverage": "C03",
-          "witnesses": {
-            "auxiliary": true,
-            "hypothesis": true,
-            "Neptune": true,
-            "Vulcan": true
-          },
-          "pass": true
-        },
-        "S05": {
-          "coverage": "C05",
-          "witnesses": {
-            "radical translation": true,
-            "stimulus meaning": true,
-            "gavagai": true,
-            "inscrutability": true
-          },
-          "pass": true
-        },
-        "S06": {
-          "coverage": "C04",
-          "witnesses": {
-            "bound variable": true,
-            "naturalized epistemology": true,
-            "regimentation": true,
-            "normative": true
-          },
-          "pass": true
-        },
-        "S07": {
-          "coverage": "C07",
-          "witnesses": {
-            "descriptive metaphysics": true,
-            "re-identification": true,
-            "spatio-temporal": true,
-            "material bodies": true
-          },
-          "pass": true
-        },
-        "S08": {
-          "coverage": "C08",
-          "witnesses": {
-            "person": true,
-            "primitive": true,
-            "M-predicates": true,
-            "P-predicates": true
-          },
-          "pass": true
-        },
-        "S09": {
-          "coverage": "C09",
-          "witnesses": {
-            "On Referring": true,
-            "presupposition": true,
-            "assertion": true,
-            "Russell": true
-          },
-          "pass": true
-        },
-        "S10": {
-          "coverage": "C06, C10, C11",
-          "witnesses": {
-            "Logical Positivism": true,
-            "Grice": true,
-            "descriptive": true,
-            "naturalism": true
-          },
-          "pass": true
-        },
-        "S11": {
-          "coverage": "all",
-          "witnesses": {
-            "criticism": true,
-            "qualification": true,
-            "ownership": true,
-            "PYQ": true
-          },
-          "pass": true
-        }
-      },
-      "lineage_mapping_count": 61,
-      "lineage_counts": {
-        "Adapted": 47,
-        "New": 14
-      },
-      "mapped_unique_source_candidates": 47,
-      "unmapped_source_candidates": [
-        48,
-        49,
-        50,
-        51,
-        52,
-        53,
-        54,
-        55,
-        56
-      ],
-      "real_source_overlap_checks": {
-        "g5_session": {
-          "shared_substantive_terms": 1597,
-          "shared_bigrams": 5549,
-          "sample_terms": [
-            "10-mark",
-            "15-mark",
-            "20-mark",
-            "abandon",
-            "abandoned",
-            "about",
-            "absence",
-            "abstract",
-            "absurd",
-            "accept",
-            "accepted",
-            "accepts",
-            "accommodated",
-            "according",
-            "account",
-            "accounts",
-            "acquiesce",
-            "across",
-            "actual",
-            "actually",
-            "adams",
-            "added",
-            "address",
-            "adjustments",
-            "admissible"
-          ],
-          "pass": true
-        },
-        "g5_workbook": {
-          "shared_substantive_terms": 1238,
-          "shared_bigrams": 3428,
-          "sample_terms": [
-            "10-mark",
-            "15-mark",
-            "20-mark",
-            "abandon",
-            "abandoned",
-            "about",
-            "absence",
-            "abstract",
-            "accept",
-            "accepted",
-            "accepts",
-            "according",
-            "account",
-            "acquiesce",
-            "across",
-            "actual",
-            "actually",
-            "address",
-            "adjustments",
-            "advance",
-            "affirm",
-            "after",
-            "against",
-            "agree",
-            "algorithm"
-          ],
-          "pass": true
-        },
-        "canonical": {
-          "shared_substantive_terms": 1689,
-          "shared_bigrams": 6870,
-          "sample_terms": [
-            "10-mark",
-            "15-mark",
-            "20-mark",
-            "abandon",
-            "abandoned",
-            "about",
-            "absence",
-            "abstract",
-            "absurd",
-            "accept",
-            "accepted",
-            "accepts",
-            "accommodated",
-            "according",
-            "account",
-            "accounts",
-            "acquiesce",
-            "acquisition",
-            "across",
-            "actual",
-            "actually",
-            "adams",
-            "address",
-            "adequacy",
-            "adjustments"
-          ],
-          "pass": true
-        },
-        "earlier_session": {
-          "shared_substantive_terms": 1496,
-          "shared_bigrams": 5222,
-          "sample_terms": [
-            "10-mark",
-            "15-mark",
-            "20-mark",
-            "abandon",
-            "abandoned",
-            "about",
-            "absence",
-            "abstract",
-            "absurd",
-            "accept",
-            "accepts",
-            "accommodated",
-            "according",
-            "account",
-            "acquiesce",
-            "across",
-            "actual",
-            "actually",
-            "adams",
-            "added",
-            "address",
-            "adjustments",
-            "admissible",
-            "advance",
-            "affirm"
-          ],
-          "pass": true
-        },
-        "earlier_workbook": {
-          "shared_substantive_terms": 799,
-          "shared_bigrams": 1287,
-          "sample_terms": [
-            "10-mark",
-            "15-mark",
-            "20-mark",
-            "abandon",
-            "abandoned",
-            "about",
-            "absence",
-            "abstract",
-            "accept",
-            "accepts",
-            "according",
-            "account",
-            "acquiesce",
-            "across",
-            "actual",
-            "adjustments",
-            "advance",
-            "affirm",
-            "after",
-            "against",
-            "allow",
-            "alone",
-            "already",
-            "analysable",
-            "analysed"
-          ],
-          "pass": true
-        }
-      },
-      "failures": [],
-      "mechanical_limitations": "This checks file identity, anchors, witnesses, token/bigram overlap and declared candidate links; it does not prove semantic completeness.",
-      "pass": true
-    },
     "doctrinal_coverage": {
       "required_claims": {
         "two_projects_not_flattened": true,
@@ -7574,1508 +7751,421 @@
       "verified_pyqs": {
         "2018 Q1(e)": {
           "marks": 10,
+          "words": 199,
           "band": [
             150,
-            300
+            200
           ],
-          "measured": 248,
-          "stated": 248,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 199,
+          "exact_question_in_verified_ledger": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 5,
-            "pass": true
-          },
-          "exact_prompt": true
+          "why_this_earns_marks": true,
+          "paragraph_count": 5,
+          "pass": true
         },
         "2018 Q2(c)": {
           "marks": 15,
+          "words": 276,
           "band": [
-            240,
-            400
+            250,
+            300
           ],
-          "measured": 365,
-          "stated": 365,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 276,
+          "exact_question_in_verified_ledger": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 6,
-            "pass": true
-          },
-          "exact_prompt": true
+          "why_this_earns_marks": true,
+          "paragraph_count": 6,
+          "pass": true
         },
         "2019 Q1(e)": {
           "marks": 10,
+          "words": 199,
           "band": [
             150,
-            300
+            200
           ],
-          "measured": 294,
-          "stated": 294,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 199,
+          "exact_question_in_verified_ledger": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 5,
-            "pass": true
-          },
-          "exact_prompt": true
+          "why_this_earns_marks": true,
+          "paragraph_count": 5,
+          "pass": true
         },
         "2020 Q3(b)": {
           "marks": 15,
+          "words": 266,
           "band": [
-            240,
-            400
+            250,
+            300
           ],
-          "measured": 301,
-          "stated": 301,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 266,
+          "exact_question_in_verified_ledger": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 6,
-            "pass": true
-          },
-          "exact_prompt": true
+          "why_this_earns_marks": true,
+          "paragraph_count": 5,
+          "pass": true
         },
         "2021 Q3(b)": {
           "marks": 15,
+          "words": 265,
           "band": [
-            240,
-            400
+            250,
+            300
           ],
-          "measured": 263,
-          "stated": 263,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 265,
+          "exact_question_in_verified_ledger": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 5,
-            "pass": true
-          },
-          "exact_prompt": true
+          "why_this_earns_marks": true,
+          "paragraph_count": 5,
+          "pass": true
         },
         "2021 Q3(c)": {
           "marks": 15,
+          "words": 280,
           "band": [
-            240,
-            400
+            250,
+            300
           ],
-          "measured": 327,
-          "stated": 327,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 280,
+          "exact_question_in_verified_ledger": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 5,
-            "pass": true
-          },
-          "exact_prompt": true
+          "why_this_earns_marks": true,
+          "paragraph_count": 6,
+          "pass": true
         },
         "2023 Q4(a)": {
           "marks": 20,
+          "words": 352,
           "band": [
-            330,
-            550
+            340,
+            400
           ],
-          "measured": 490,
-          "stated": 490,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 352,
+          "exact_question_in_verified_ledger": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 7,
-            "pass": true
-          },
-          "exact_prompt": true
+          "why_this_earns_marks": true,
+          "paragraph_count": 5,
+          "pass": true
         },
         "2024 Q4(c)": {
           "marks": 15,
+          "words": 276,
           "band": [
-            240,
-            400
+            250,
+            300
           ],
-          "measured": 333,
-          "stated": 333,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 276,
+          "exact_question_in_verified_ledger": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 6,
-            "pass": true
-          },
-          "exact_prompt": true
+          "why_this_earns_marks": true,
+          "paragraph_count": 6,
+          "pass": true
         },
         "2025 Q4(b)": {
           "marks": 15,
+          "words": 297,
           "band": [
-            240,
-            400
+            250,
+            300
           ],
-          "measured": 397,
-          "stated": 398,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 297,
+          "exact_question_in_verified_ledger": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 6,
-            "pass": true
-          },
-          "exact_prompt": true
+          "why_this_earns_marks": true,
+          "paragraph_count": 6,
+          "pass": true
         },
         "2026 Q3(a)": {
           "marks": 20,
+          "words": 347,
           "band": [
-            330,
-            550
+            340,
+            400
           ],
-          "measured": 347,
-          "stated": 347,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 347,
+          "exact_question_in_verified_ledger": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 6,
-            "pass": true
-          },
-          "exact_prompt": true
+          "why_this_earns_marks": true,
+          "paragraph_count": 6,
+          "pass": true
         }
       },
       "original_solved_practice": {
-        "## Original 1 · 10 marks": {
+        "1": {
           "marks": 10,
+          "words": 191,
           "band": [
             150,
+            200
+          ],
+          "declared": 191,
+          "formal_question_match": true,
+          "demand_decoding": true,
+          "why_this_earns_marks": true,
+          "paragraph_count": 5,
+          "pass": true
+        },
+        "2": {
+          "marks": 10,
+          "words": 197,
+          "band": [
+            150,
+            200
+          ],
+          "declared": 197,
+          "formal_question_match": true,
+          "demand_decoding": true,
+          "why_this_earns_marks": true,
+          "paragraph_count": 5,
+          "pass": true
+        },
+        "3": {
+          "marks": 15,
+          "words": 300,
+          "band": [
+            250,
             300
           ],
-          "measured": 181,
-          "stated": 181,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 300,
+          "formal_question_match": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 2,
-            "pass": true
-          }
+          "why_this_earns_marks": true,
+          "paragraph_count": 6,
+          "pass": true
         },
-        "## Original 2 · 15 marks": {
+        "4": {
           "marks": 15,
+          "words": 285,
           "band": [
-            240,
+            250,
+            300
+          ],
+          "declared": 285,
+          "formal_question_match": true,
+          "demand_decoding": true,
+          "why_this_earns_marks": true,
+          "paragraph_count": 6,
+          "pass": true
+        },
+        "5": {
+          "marks": 20,
+          "words": 400,
+          "band": [
+            340,
             400
           ],
-          "measured": 262,
-          "stated": 262,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 400,
+          "formal_question_match": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 4,
-            "pass": true
-          }
+          "why_this_earns_marks": true,
+          "paragraph_count": 6,
+          "pass": true
         },
-        "## Original 3 · 20 marks": {
+        "6": {
           "marks": 20,
+          "words": 361,
           "band": [
-            330,
-            550
+            340,
+            400
           ],
-          "measured": 344,
-          "stated": 344,
-          "in_band": true,
-          "matches_stated": true,
+          "declared": 361,
+          "formal_question_match": true,
           "demand_decoding": true,
-          "qualification": true,
-          "coverage_check": true,
-          "unsupported_marks_claim_absent": true,
-          "answer_integrity": {
-            "straight_quotes_balanced": true,
-            "curly_quotes_balanced": true,
-            "leaked_outline_labels": [],
-            "fragmentary_sentences": [],
-            "paragraph_count": 6,
-            "pass": true
-          }
+          "why_this_earns_marks": true,
+          "paragraph_count": 6,
+          "pass": true
         }
       },
-      "expected_pyqs": [
-        "2018 Q1(e)",
-        "2018 Q2(c)",
-        "2019 Q1(e)",
-        "2020 Q3(b)",
-        "2021 Q3(b)",
-        "2021 Q3(c)",
-        "2023 Q4(a)",
-        "2024 Q4(c)",
-        "2025 Q4(b)",
-        "2026 Q3(a)"
+      "word_bands": {
+        "10": [
+          150,
+          200
+        ],
+        "15": [
+          250,
+          300
+        ],
+        "20": [
+          340,
+          400
+        ]
+      },
+      "original_mark_distribution": [
+        10,
+        10,
+        15,
+        15,
+        20,
+        20
       ],
-      "learner_answers_not_official_keys": true,
+      "independent_practice_disclaimer": true,
       "failures": [],
       "pass": true
     },
-    "pyq_demand_audit": {
-      "owned_pyq_count": 10,
-      "original_answer_count": 3,
-      "expected_owned_pyqs": [
-        "2018 Q1(e)",
-        "2018 Q2(c)",
-        "2019 Q1(e)",
-        "2020 Q3(b)",
-        "2021 Q3(b)",
-        "2021 Q3(c)",
-        "2023 Q4(a)",
-        "2024 Q4(c)",
-        "2025 Q4(b)",
-        "2026 Q3(a)"
-      ],
-      "component_checks": {
-        "2018 Q1(e)": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "logically primitive concept"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "M-predicates"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "self-ascription requires other-ascription"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "blocks Cartesian dualism"
-              ],
-              "pass": true
-            }
+    "band_instruction_consistency": {
+      "locked_bands": {
+        "10": [
+          150,
+          200
+        ],
+        "15": [
+          250,
+          300
+        ],
+        "20": [
+          340,
+          400
+        ]
+      },
+      "forbidden_band_hits": {
+        "10_mark_150_220": [],
+        "15_mark_250_330": [],
+        "20_mark_330_400": [],
+        "10_mark_150_300": [],
+        "15_mark_250_400": [],
+        "20_mark_330_550": []
+      },
+      "execution_instruction_count": 9,
+      "execution_instructions": [
+        {
+          "marks": 10,
+          "minimum": 150,
+          "maximum": 200,
+          "expected": [
+            150,
+            200
           ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "logically primitive concept",
-              "blocks Cartesian dualism"
-            ],
-            "order_positions": [
-              0,
-              3
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "logically primitive concept",
-                "right": "M-predicates",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 1,
-                "pass": true
-              },
-              {
-                "left": "self-ascription requires other-ascription",
-                "right": "blocks Cartesian dualism",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 2,
-                "right_paragraph": 3,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "logically primitive concept",
-                "right": "M-predicates",
-                "relation_anchor": "M-predicates",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  1,
-                  1
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
           "pass": true
         },
-        "2018 Q2(c)": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "analytic/synthetic boundary"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "confirmation is holistic"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "naturalism denies"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "Strawson's descriptive-metaphysics"
-              ],
-              "pass": true
-            }
+        {
+          "marks": 15,
+          "minimum": 250,
+          "maximum": 300,
+          "expected": [
+            250,
+            300
           ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "analytic/synthetic boundary",
-              "Strawson's descriptive-metaphysics"
-            ],
-            "order_positions": [
-              0,
-              4
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "analytic/synthetic boundary",
-                "right": "confirmation is holistic",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 0,
-                "pass": true
-              },
-              {
-                "left": "naturalism denies",
-                "right": "Strawson's descriptive-metaphysics",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 0,
-                "right_paragraph": 4,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "analytic/synthetic boundary",
-                "right": "confirmation is holistic",
-                "relation_anchor": "confirmation is holistic",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  0,
-                  0
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
           "pass": true
         },
-        "2019 Q1(e)": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "Quine argues that the analytic/synthetic distinction"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "synonymy"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "interchangeability"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "agreed examples do not supply"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "centrality is explanatory rather than definitional",
-              "anchors": [
-                "centrality explains differential practical revisability",
-                "does not redefine analyticity"
-              ],
-              "pass": true
-            }
+        {
+          "marks": 10,
+          "minimum": 150,
+          "maximum": 200,
+          "expected": [
+            150,
+            200
           ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "Quine argues that the analytic/synthetic distinction",
-              "agreed examples do not supply"
-            ],
-            "order_positions": [
-              0,
-              3
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "Quine argues that the analytic/synthetic distinction",
-                "right": "synonymy",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 1,
-                "pass": true
-              },
-              {
-                "left": "interchangeability",
-                "right": "agreed examples do not supply",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 1,
-                "right_paragraph": 3,
-                "pass": true
-              },
-              {
-                "left": "centrality explains differential practical revisability",
-                "right": "does not redefine analyticity",
-                "maximum_paragraph_gap": 0,
-                "demand_limb": "anti-conflation qualification",
-                "left_paragraph": 2,
-                "right_paragraph": 2,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "Quine argues that the analytic/synthetic distinction",
-                "right": "synonymy",
-                "relation_anchor": "synonymy",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  1,
-                  1
-                ],
-                "pass": true
-              },
-              {
-                "left": "centrality explains differential practical revisability",
-                "right": "does not redefine analyticity",
-                "relation_anchor": "does not redefine analyticity",
-                "maximum_paragraph_gap": 0,
-                "demand_limb": "centrality is not analyticity",
-                "paragraphs": [
-                  2,
-                  2,
-                  2
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
           "pass": true
         },
-        "2020 Q3(b)": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "spatio-temporal thinking is a precondition"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "re-identify"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "material bodies"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "auditory world"
-              ],
-              "pass": true
-            }
+        {
+          "marks": 15,
+          "minimum": 250,
+          "maximum": 300,
+          "expected": [
+            250,
+            300
           ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "spatio-temporal thinking is a precondition",
-              "auditory world"
-            ],
-            "order_positions": [
-              0,
-              3
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "spatio-temporal thinking is a precondition",
-                "right": "re-identify",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 1,
-                "pass": true
-              },
-              {
-                "left": "material bodies",
-                "right": "auditory world",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 0,
-                "right_paragraph": 3,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "spatio-temporal thinking is a precondition",
-                "right": "re-identify",
-                "relation_anchor": "re-identify",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  1,
-                  1
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
           "pass": true
         },
-        "2021 Q3(b)": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "identified without first identifying"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "spatio-temporal system"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "primitive"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "co-basic"
-              ],
-              "pass": true
-            }
+        {
+          "marks": 15,
+          "minimum": 250,
+          "maximum": 300,
+          "expected": [
+            250,
+            300
           ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "identified without first identifying",
-              "co-basic"
-            ],
-            "order_positions": [
-              0,
-              3
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "identified without first identifying",
-                "right": "spatio-temporal system",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 1,
-                "pass": true
-              },
-              {
-                "left": "primitive",
-                "right": "co-basic",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 2,
-                "right_paragraph": 3,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "identified without first identifying",
-                "right": "spatio-temporal system",
-                "relation_anchor": "spatio-temporal system",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  1,
-                  1
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
           "pass": true
         },
-        "2021 Q3(c)": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "holistic empiricism"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "two dogmas"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "web"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "minimum mutilation"
-              ],
-              "pass": true
-            }
+        {
+          "marks": 15,
+          "minimum": 250,
+          "maximum": 300,
+          "expected": [
+            250,
+            300
           ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "holistic empiricism",
-              "minimum mutilation"
-            ],
-            "order_positions": [
-              0,
-              3
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "holistic empiricism",
-                "right": "two dogmas",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 0,
-                "pass": true
-              },
-              {
-                "left": "web",
-                "right": "minimum mutilation",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 0,
-                "right_paragraph": 3,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "holistic empiricism",
-                "right": "two dogmas",
-                "relation_anchor": "two dogmas",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  0,
-                  0
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
           "pass": true
         },
-        "2023 Q4(a)": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "primitive concept"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "M-predicates"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "self-ascription argument"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "no-ownership theory"
-              ],
-              "pass": true
-            }
+        {
+          "marks": 20,
+          "minimum": 340,
+          "maximum": 400,
+          "expected": [
+            340,
+            400
           ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "primitive concept",
-              "no-ownership theory"
-            ],
-            "order_positions": [
-              0,
-              4
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "primitive concept",
-                "right": "M-predicates",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 2,
-                "pass": true
-              },
-              {
-                "left": "self-ascription argument",
-                "right": "no-ownership theory",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 3,
-                "right_paragraph": 4,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "primitive concept",
-                "right": "M-predicates",
-                "relation_anchor": "M-predicates",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  2,
-                  2
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
           "pass": true
         },
-        "2024 Q4(c)": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "analytic/synthetic distinction"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "reductionism"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "at root identical"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "holism"
-              ],
-              "pass": true
-            }
+        {
+          "marks": 15,
+          "minimum": 250,
+          "maximum": 300,
+          "expected": [
+            250,
+            300
           ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "analytic/synthetic distinction",
-              "holism"
-            ],
-            "order_positions": [
-              0,
-              4
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "analytic/synthetic distinction",
-                "right": "reductionism",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 0,
-                "pass": true
-              },
-              {
-                "left": "at root identical",
-                "right": "holism",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 0,
-                "right_paragraph": 4,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "analytic/synthetic distinction",
-                "right": "reductionism",
-                "relation_anchor": "reductionism",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  0,
-                  0
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
           "pass": true
         },
-        "2025 Q4(b)": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "quotation"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "come what may"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "minimum mutilation"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "change of subject"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "practical entrenchment is not analyticity",
-              "anchors": [
-                "differential practical revisability",
-                "do not redefine analyticity"
-              ],
-              "pass": true
-            }
+        {
+          "marks": 15,
+          "minimum": 250,
+          "maximum": 300,
+          "expected": [
+            250,
+            300
           ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "quotation",
-              "change of subject"
-            ],
-            "order_positions": [
-              0,
-              4
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "quotation",
-                "right": "come what may",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 1,
-                "pass": true
-              },
-              {
-                "left": "minimum mutilation",
-                "right": "change of subject",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 4,
-                "right_paragraph": 4,
-                "pass": true
-              },
-              {
-                "left": "differential practical revisability",
-                "right": "do not redefine analyticity",
-                "maximum_paragraph_gap": 0,
-                "demand_limb": "anti-conflation consequence",
-                "left_paragraph": 3,
-                "right_paragraph": 3,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "quotation",
-                "right": "come what may",
-                "relation_anchor": "come what may",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  1,
-                  1
-                ],
-                "pass": true
-              },
-              {
-                "left": "differential practical revisability",
-                "right": "do not redefine analyticity",
-                "relation_anchor": "do not redefine analyticity",
-                "maximum_paragraph_gap": 0,
-                "demand_limb": "entrenchment is not analyticity",
-                "paragraphs": [
-                  3,
-                  3,
-                  3
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
-          "pass": true
-        },
-        "2026 Q3(a)": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "Strawson asks how predicates of consciousness"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "same subject"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "self-ascription requires"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "States of consciousness and physical properties are ascribed"
-              ],
-              "pass": true
-            }
-          ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "Strawson asks how predicates of consciousness",
-              "States of consciousness and physical properties are ascribed"
-            ],
-            "order_positions": [
-              0,
-              5
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "Strawson asks how predicates of consciousness",
-                "right": "same subject",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 2,
-                "pass": true
-              },
-              {
-                "left": "self-ascription requires",
-                "right": "States of consciousness and physical properties are ascribed",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 3,
-                "right_paragraph": 5,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "Strawson asks how predicates of consciousness",
-                "right": "same subject",
-                "relation_anchor": "same subject",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  2,
-                  2
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
-          "pass": true
-        },
-        "Original 1": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "positive result"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "hypothesis together with auxiliaries"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "corporate body"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "minimum mutilation"
-              ],
-              "pass": true
-            }
-          ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "positive result",
-              "minimum mutilation"
-            ],
-            "order_positions": [
-              0,
-              1
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "positive result",
-                "right": "hypothesis together with auxiliaries",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 0,
-                "pass": true
-              },
-              {
-                "left": "corporate body",
-                "right": "minimum mutilation",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 1,
-                "right_paragraph": 1,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "positive result",
-                "right": "hypothesis together with auxiliaries",
-                "relation_anchor": "hypothesis together with auxiliaries",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  0,
-                  0
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
-          "pass": true
-        },
-        "Original 2": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "real convergence"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "primitive subject"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "positive projects diverge"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "Convergence without conflation"
-              ],
-              "pass": true
-            }
-          ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "real convergence",
-              "Convergence without conflation"
-            ],
-            "order_positions": [
-              0,
-              3
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "real convergence",
-                "right": "primitive subject",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 1,
-                "pass": true
-              },
-              {
-                "left": "positive projects diverge",
-                "right": "Convergence without conflation",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 2,
-                "right_paragraph": 3,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "real convergence",
-                "right": "primitive subject",
-                "relation_anchor": "primitive subject",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  1,
-                  1
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
-          "pass": true
-        },
-        "Original 3": {
-          "limbs": [
-            {
-              "limb": "demand component 1",
-              "anchors": [
-                "ownership qualification"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 2",
-              "anchors": [
-                "conceptual conditions"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 3",
-              "anchors": [
-                "levels differ"
-              ],
-              "pass": true
-            },
-            {
-              "limb": "demand component 4",
-              "anchors": [
-                "methodologically and doctrinally distinct"
-              ],
-              "pass": true
-            }
-          ],
-          "structural_relation_order_checks": {
-            "ordered_anchors": [
-              "ownership qualification",
-              "methodologically and doctrinally distinct"
-            ],
-            "order_positions": [
-              0,
-              5
-            ],
-            "ordered": true,
-            "connected_pairs": [
-              {
-                "left": "ownership qualification",
-                "right": "conceptual conditions",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "opening thesis and first mechanism",
-                "left_paragraph": 0,
-                "right_paragraph": 2,
-                "pass": true
-              },
-              {
-                "left": "levels differ",
-                "right": "methodologically and doctrinally distinct",
-                "maximum_paragraph_gap": 4,
-                "demand_limb": "evaluation and qualification",
-                "left_paragraph": 3,
-                "right_paragraph": 5,
-                "pass": true
-              }
-            ],
-            "affirmed_relations": [
-              {
-                "left": "ownership qualification",
-                "right": "conceptual conditions",
-                "relation_anchor": "conceptual conditions",
-                "maximum_paragraph_gap": 3,
-                "demand_limb": "affirmed core relation",
-                "paragraphs": [
-                  0,
-                  2,
-                  2
-                ],
-                "pass": true
-              }
-            ],
-            "pass": true
-          },
-          "adversarial_controls": {
-            "reversed_paragraph_order_rejected": true,
-            "contradicted_relation_rejected": true
-          },
           "pass": true
         }
+      ],
+      "header_rows": {
+        "10": true,
+        "15": true,
+        "20": true
       },
-      "failures": [],
-      "gate_name": "structural and demand-anchor integrity",
-      "semantic_claim": "No claim of proved semantic coherence or philosophical truth is made.",
-      "mechanical_limitations": "Parsed sections, literal demand anchors, connected-pair checks and declared paragraph order reject missing or scrambled structure. They do not prove semantic coherence, argumentative sufficiency, truth or examiner marks.",
+      "pass": true
+    },
+    "package_negative_tests": {
+      "tests": [
+        {
+          "name": "forbidden 10-mark 150-220 band",
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "forbidden 15-mark 250-330 band",
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "forbidden 20-mark 330-400 band",
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "VALIDATION.json removed from required release set",
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "Soul destination satisfies development closure",
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "development-only Soul release mutation is rejected",
+          "rejected": true,
+          "pass": true
+        }
+      ],
+      "passed": 6,
+      "failed": 0,
       "pass": true
     },
     "provenance_wording": {
+      "authoritative_formal_root": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final",
+      "formal_sources_under_authoritative_root": true,
+      "forbidden_derivative_root_not_used": true,
       "required_statement": true,
       "forbidden_claims": {
         "README.md": [],
@@ -9084,25 +8174,20 @@
       },
       "pass": true
     },
-    "release_regeneration_gate": {
-      "regenerate_flag_required": true,
-      "regenerate_flag_present": true,
-      "all_four_regenerated": true,
-      "source_hash_timestamp_records_complete": true,
-      "pass": true
-    },
     "pdfs": {
       "Revision-Guide.pdf": {
-        "bytes": 798865,
-        "pages": 34,
+        "bytes": 885082,
+        "pages": 61,
         "source": "REVISION-GUIDE.md",
-        "source_sha256": "aa787129d973f37da99dbcedac55f95b1421f3b37a731c4ee9fa1b3115b1a8ea",
-        "pdf_sha256": "a9c6e2666efe149dda8197b4f10d8aabee2994dfc9ec8b6ef6273e224c35d792",
-        "source_mtime_ns": 1789917304700948100,
-        "pdf_mtime_ns": 1789953658678165800,
+        "source_sha256": "93301344e27bd0b052e3e28682bffcbab77ca48ac101a6f3e5dc9cf438ff5a22",
+        "pdf_sha256": "92645575dea6c78f8cf984d8d9718203d0fa83949733f864eb03982224ede68d",
+        "source_mtime_ns": 1790233577569327400,
+        "pdf_mtime_ns": 1790234711028142200,
         "pdf_not_older_than_source": true,
-        "heading_count": 58,
+        "heading_count": 59,
         "missing_source_headings": [],
+        "expected_cover_descriptor": "Philosophy Optional · Paper I · Western Philosophy · Topic 11",
+        "cover_descriptor_present": true,
         "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
@@ -9116,12 +8201,14 @@
         "pages": 16,
         "source": "MCQ-QUESTIONS.md",
         "source_sha256": "cede095b86bdd49c5438db10e40bc35af3518f00b79938b13cc7bcf63a9f441a",
-        "pdf_sha256": "7f06505efc2bce3b8324e7f89aa5cfbc7727b73f821572c79897d5e8094b8d89",
+        "pdf_sha256": "337f5199d7bb779d01b84bc58d4a1024196d48380be60df83c1c9e1e9548ba22",
         "source_mtime_ns": 1789953345084477300,
-        "pdf_mtime_ns": 1789953662391563000,
+        "pdf_mtime_ns": 1790234716599399200,
         "pdf_not_older_than_source": true,
         "heading_count": 62,
         "missing_source_headings": [],
+        "expected_cover_descriptor": "61-question closed-book practice bank · no answer key",
+        "cover_descriptor_present": true,
         "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
@@ -9135,12 +8222,14 @@
         "pages": 56,
         "source": "MCQ-SOLUTIONS.md",
         "source_sha256": "5d49c7a3ae64fcd69ff73f3442889a632590274a1aa88371885d6968dfcd6847",
-        "pdf_sha256": "02b0379b86cb8fb90185e330ed4ffe1e29c4e4d09bb7c7d3485b9faa4b46e900",
+        "pdf_sha256": "2db7efd09694ddd04eb9ef31843bcaf2404aa7ebef6d918f9f30afed3524bc1f",
         "source_mtime_ns": 1789953450421865900,
-        "pdf_mtime_ns": 1789953669024447800,
+        "pdf_mtime_ns": 1790234727382630900,
         "pdf_not_older_than_source": true,
         "heading_count": 62,
         "missing_source_headings": [],
+        "expected_cover_descriptor": "Proposition-specific explanations and repairs",
+        "cover_descriptor_present": true,
         "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
@@ -9150,16 +8239,18 @@
         "pass": true
       },
       "Answer-Writing-Toolkit.pdf": {
-        "bytes": 274809,
-        "pages": 17,
+        "bytes": 553597,
+        "pages": 23,
         "source": "ANSWER-WRITING-TOOLKIT.md",
-        "source_sha256": "e1fbe92ccf456d88eaf7cd25196a2721fc27e03c28f59bb20af48e27234db8e9",
-        "pdf_sha256": "c325c1135f38d507567f004d7d886314fa18b15b87d2a0118e2659fbbda1f0da",
-        "source_mtime_ns": 1789914261627153600,
-        "pdf_mtime_ns": 1789953672711382600,
+        "source_sha256": "c44c18b075c5359f24bea7690f6a3b60bd49d47846c9971da44230bd39c38a44",
+        "pdf_sha256": "cc7c4c0be9c93aad85cac93c2b575c4ac4d74b6ad05946f1695951d8531dde72",
+        "source_mtime_ns": 1790238528671218000,
+        "pdf_mtime_ns": 1790240845056641500,
         "pdf_not_older_than_source": true,
-        "heading_count": 30,
+        "heading_count": 69,
         "missing_source_headings": [],
+        "expected_cover_descriptor": "Ten verified PYQs and six original solved answers",
+        "cover_descriptor_present": true,
         "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
@@ -9174,145 +8265,215 @@
     "text_and_diff_integrity": {
       "inspected": [
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\11-Quine-and-Strawson\\ANSWER-WRITING-TOOLKIT.md",
-          "bytes": 45348,
-          "sha256": "e1fbe92ccf456d88eaf7cd25196a2721fc27e03c28f59bb20af48e27234db8e9"
+          "file": "ANSWER-WRITING-TOOLKIT.md",
+          "bytes": 55754,
+          "sha256": "c44c18b075c5359f24bea7690f6a3b60bd49d47846c9971da44230bd39c38a44"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\11-Quine-and-Strawson\\COVERAGE-LEDGER.md",
-          "bytes": 14455,
-          "sha256": "ebd3270ab9c2cf6f658bc52693b606ec8e51567f61394a086f95e6d42c4f91ae"
+          "file": "COVERAGE-LEDGER.md",
+          "bytes": 19115,
+          "sha256": "485284890940774ba639d0f9fb381b501a5ae6b51268e4d20eeafcc848b55eab"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\11-Quine-and-Strawson\\MCQ-AUDIT.json",
+          "file": "FORMAL-COVERAGE-AUDIT.json",
+          "bytes": 1434491,
+          "sha256": "6c6f565b5000dd10bb22559e9b59bbde443a1304c1552973ea0e5e17f9b921aa"
+        },
+        {
+          "file": "FORMAL-COVERAGE-REVIEW.json",
+          "bytes": 1331823,
+          "sha256": "719b7d65d0ff896b0d200de0f1d869af6051ce8d17a99df2f10b9556f0e7c002"
+        },
+        {
+          "file": "formal_validation.py",
+          "bytes": 55932,
+          "sha256": "735906d581d2d5c4296623f13b077067d89fb1af7eb2a8c7e34c95cd088dc0b7"
+        },
+        {
+          "file": "MCQ-AUDIT.json",
           "bytes": 205804,
           "sha256": "5c5b4a53b13081e24542c646c93d56afedb24252477b57ab80644829b4dc169c"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\11-Quine-and-Strawson\\MCQ-QUESTIONS.md",
+          "file": "MCQ-QUESTIONS.md",
           "bytes": 32376,
           "sha256": "cede095b86bdd49c5438db10e40bc35af3518f00b79938b13cc7bcf63a9f441a"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\11-Quine-and-Strawson\\MCQ-SOLUTIONS.md",
+          "file": "MCQ-SOLUTIONS.md",
           "bytes": 164626,
           "sha256": "5d49c7a3ae64fcd69ff73f3442889a632590274a1aa88371885d6968dfcd6847"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\11-Quine-and-Strawson\\PRACTICE-LOG.md",
+          "file": "PRACTICE-LOG.md",
           "bytes": 727,
           "sha256": "7a53cee25af0a28469d1b960950877aaeba5af6f296126d0556663161a67c9f4"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\11-Quine-and-Strawson\\PYQ-DEMAND-AUDIT.json",
-          "bytes": 23736,
-          "sha256": "693c6ad0ea777b59337e578fb673f5a613ef330f75cbaff2394f50f4addb8677"
+          "file": "PYQ-DEMAND-AUDIT.json",
+          "bytes": 12656,
+          "sha256": "043fd41197f5adbc136b2c619ae3b09a617a3e93a304846b56d9edc19d37f03b"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\11-Quine-and-Strawson\\README.md",
-          "bytes": 1628,
-          "sha256": "a5c49e2392755a3c33926abf3ef3f81b6a7e1c197d999e79b5b5946d6fd855b4"
+          "file": "README.md",
+          "bytes": 2907,
+          "sha256": "ce0c0dde6f88f1e886ca82d81e44fa800f5fa5bd9e07fa95d92b2a5cad7a9ff3"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\11-Quine-and-Strawson\\REVISION-GUIDE.md",
-          "bytes": 81376,
-          "sha256": "aa787129d973f37da99dbcedac55f95b1421f3b37a731c4ee9fa1b3115b1a8ea"
+          "file": "REVISION-GUIDE.md",
+          "bytes": 150721,
+          "sha256": "93301344e27bd0b052e3e28682bffcbab77ca48ac101a6f3e5dc9cf438ff5a22"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\11-Quine-and-Strawson\\validate_package.py",
-          "bytes": 75894,
-          "sha256": "dd6e6fdb3c5c855f4c88696497ed6dc4a36776590966c98e140ad6050a1dda5b"
+          "file": "validate_package.py",
+          "bytes": 94756,
+          "sha256": "9e2037f9fb882bbb194d92092f46c378017b1de33589b82043f1a0a52235b624"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\11-Quine-and-Strawson\\VALIDATION.json",
-          "bytes": 341313,
-          "sha256": "bbcf61ef0ef03b8137075082908f73dc4fb4adc1ad32a63e642dae0556160a16"
+          "file": "VALIDATION.json",
+          "bytes": 319268,
+          "sha256": "80bbd7e70c7fb7d3fb21208331178ad46a0ab0e7d24cf9f9510d40c8b5887a60"
         }
       ],
-      "untracked_diff_checks": [
-        {
-          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/11-Quine-and-Strawson/ANSWER-WRITING-TOOLKIT.md",
-          "diagnostics": "",
-          "pass": true
-        },
-        {
-          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/11-Quine-and-Strawson/COVERAGE-LEDGER.md",
-          "diagnostics": "",
-          "pass": true
-        },
-        {
-          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/11-Quine-and-Strawson/MCQ-AUDIT.json",
-          "diagnostics": "",
-          "pass": true
-        },
-        {
-          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/11-Quine-and-Strawson/MCQ-QUESTIONS.md",
-          "diagnostics": "",
-          "pass": true
-        },
-        {
-          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/11-Quine-and-Strawson/MCQ-SOLUTIONS.md",
-          "diagnostics": "",
-          "pass": true
-        },
-        {
-          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/11-Quine-and-Strawson/PRACTICE-LOG.md",
-          "diagnostics": "",
-          "pass": true
-        },
-        {
-          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/11-Quine-and-Strawson/PYQ-DEMAND-AUDIT.json",
-          "diagnostics": "",
-          "pass": true
-        },
-        {
-          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/11-Quine-and-Strawson/README.md",
-          "diagnostics": "",
-          "pass": true
-        },
-        {
-          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/11-Quine-and-Strawson/REVISION-GUIDE.md",
-          "diagnostics": "",
-          "pass": true
-        },
-        {
-          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/11-Quine-and-Strawson/VALIDATION.json",
-          "diagnostics": "",
-          "pass": true
-        },
-        {
-          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/11-Quine-and-Strawson/validate_package.py",
-          "diagnostics": "",
-          "pass": true
-        }
-      ],
-      "pdf_git_ignore_awareness": {
-        "Revision-Guide.pdf": {
-          "ignored": true,
-          "rule": ".gitignore:36:*.pdf\t\"practice\\\\Offline-Revision-MCQ\\\\Philosophy-Optional\\\\Philosophy-Paper-I-Western-Philosophy\\\\11-Quine-and-Strawson\\\\pdf\\\\Revision-Guide.pdf\""
-        },
-        "MCQ-Questions.pdf": {
-          "ignored": true,
-          "rule": ".gitignore:36:*.pdf\t\"practice\\\\Offline-Revision-MCQ\\\\Philosophy-Optional\\\\Philosophy-Paper-I-Western-Philosophy\\\\11-Quine-and-Strawson\\\\pdf\\\\MCQ-Questions.pdf\""
-        },
-        "MCQ-Solutions.pdf": {
-          "ignored": true,
-          "rule": ".gitignore:36:*.pdf\t\"practice\\\\Offline-Revision-MCQ\\\\Philosophy-Optional\\\\Philosophy-Paper-I-Western-Philosophy\\\\11-Quine-and-Strawson\\\\pdf\\\\MCQ-Solutions.pdf\""
-        },
-        "Answer-Writing-Toolkit.pdf": {
-          "ignored": true,
-          "rule": ".gitignore:36:*.pdf\t\"practice\\\\Offline-Revision-MCQ\\\\Philosophy-Optional\\\\Philosophy-Paper-I-Western-Philosophy\\\\11-Quine-and-Strawson\\\\pdf\\\\Answer-Writing-Toolkit.pdf\""
-        }
-      },
-      "release_staging_instruction_present": true,
       "failures": [],
       "pass": true
     },
-    "repository_status_files": {
-      "topic_11_validated": true,
-      "next_western_final_audit": true,
-      "topic_11_indexed": true
+    "release_integrity": {
+      "files": [
+        {
+          "file": "README.md",
+          "worktree_hash": "e7ebc60128ab86b53ff367034c5d65fd6e87dd29",
+          "index_hash": "e7ebc60128ab86b53ff367034c5d65fd6e87dd29",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "REVISION-GUIDE.md",
+          "worktree_hash": "5ebf48d59cd8ab638e74578f8e989dd49c8f9f0a",
+          "index_hash": "5ebf48d59cd8ab638e74578f8e989dd49c8f9f0a",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "MCQ-QUESTIONS.md",
+          "worktree_hash": "7cdd36f69b054e7227cd4580cb738e6321a843dd",
+          "index_hash": "7cdd36f69b054e7227cd4580cb738e6321a843dd",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "MCQ-SOLUTIONS.md",
+          "worktree_hash": "f9f8eafab33887686bcf804b14be342591ea07f1",
+          "index_hash": "f9f8eafab33887686bcf804b14be342591ea07f1",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "COVERAGE-LEDGER.md",
+          "worktree_hash": "6f7f54c259f28ff4c6ea0ec87dc4039a9fcf567e",
+          "index_hash": "6f7f54c259f28ff4c6ea0ec87dc4039a9fcf567e",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "PRACTICE-LOG.md",
+          "worktree_hash": "058f5562afb49501d9214a7c52f8ae1c196d1416",
+          "index_hash": "058f5562afb49501d9214a7c52f8ae1c196d1416",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "ANSWER-WRITING-TOOLKIT.md",
+          "worktree_hash": "556496d712479c311d7a675cd193268148c58a0b",
+          "index_hash": "556496d712479c311d7a675cd193268148c58a0b",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "MCQ-AUDIT.json",
+          "worktree_hash": "e7e65d2829f0aa11b2c61ad7a34efa68e8557417",
+          "index_hash": "e7e65d2829f0aa11b2c61ad7a34efa68e8557417",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "PYQ-DEMAND-AUDIT.json",
+          "worktree_hash": "433d61d017e37d6efa06b9abfade7ca5818c2c9d",
+          "index_hash": "433d61d017e37d6efa06b9abfade7ca5818c2c9d",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "FORMAL-COVERAGE-REVIEW.json",
+          "worktree_hash": "ba24b07f1a8f90c480733b5cdd0d4378ab9b9c9e",
+          "index_hash": "ba24b07f1a8f90c480733b5cdd0d4378ab9b9c9e",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "FORMAL-COVERAGE-AUDIT.json",
+          "worktree_hash": "b06a4894d6ca5a744a833d0663691b353c0be284",
+          "index_hash": "b06a4894d6ca5a744a833d0663691b353c0be284",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "formal_validation.py",
+          "worktree_hash": "71698a6d19b219620e1d845c80bb75616ef00378",
+          "index_hash": "cac47723025120cb4bb8b9bec9844f15ff871511",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": false
+        },
+        {
+          "file": "VALIDATION.json",
+          "worktree_hash": "017730f7180352a4deba765208b079e378cb608f",
+          "index_hash": "4c34d86f79ceee81e33116eba6b24b8dd0be43aa",
+          "self_recursive_validation_artifact": true,
+          "current_in_index": true
+        },
+        {
+          "file": "validate_package.py",
+          "worktree_hash": "7c31b974e92c9836b8437963198a1cca3544cc06",
+          "index_hash": "7c31b974e92c9836b8437963198a1cca3544cc06",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "pdf/Revision-Guide.pdf",
+          "worktree_hash": "423f0c298dcc47d552584242528f6bbe8a02d794",
+          "index_hash": "423f0c298dcc47d552584242528f6bbe8a02d794",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "pdf/MCQ-Questions.pdf",
+          "worktree_hash": "8a522512d7df2a0eba3f6bbf957269a2cac5f366",
+          "index_hash": "8a522512d7df2a0eba3f6bbf957269a2cac5f366",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "pdf/MCQ-Solutions.pdf",
+          "worktree_hash": "efa2eeb1bb0cdea1a30eaa2c8feb1fcf74c26eea",
+          "index_hash": "efa2eeb1bb0cdea1a30eaa2c8feb1fcf74c26eea",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        },
+        {
+          "file": "pdf/Answer-Writing-Toolkit.pdf",
+          "worktree_hash": "f9ad7a184a8a6db86a14fe42c60eecb1f1a407b7",
+          "index_hash": "f9ad7a184a8a6db86a14fe42c60eecb1f1a407b7",
+          "self_recursive_validation_artifact": false,
+          "current_in_index": true
+        }
+      ],
+      "validation_self_recursion_policy": "VALIDATION.json must already be tracked or staged, but its worktree hash is not compared with the index because this validation run rewrites that file.",
+      "validation_file_required": true,
+      "all_required_current_in_index": false,
+      "external_obligations_closed": true,
+      "pass": false
     }
   },
-  "failures": []
+  "failures": [],
+  "mechanical_limits": "Development validation certifies enumerated source-block accounting, reviewed source/destination correspondence, panel parity, randomized MCQ gates, exact PYQ structure, locked word bands and PDF mechanics. It does not prove philosophical truth, semantic completeness or examiner marks. Release is intentionally blocked by serialized external obligations."
 }

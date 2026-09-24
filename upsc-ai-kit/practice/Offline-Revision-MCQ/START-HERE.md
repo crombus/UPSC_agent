@@ -70,6 +70,12 @@ It must remain usable from the repository alone in Markdown and PDF form.
     - Before repairing a generated topic package, treat the completed formal learning session,
       its roadmap, and its formal teaching blocks as required coverage evidence alongside the
       canonical owner and solved-practice workbook.
+    - If no completed formal learning session exists, declare
+      `canonical_without_formal_session` provenance. In that mode, every canonical heading/block
+      is mandatory coverage, while learning sessions, workbooks, and regenerated material are
+      supplementary evidence only. Use those references to deepen teaching, examples, visuals,
+      traps, and practice, but do not duplicate their derivative headings as mandatory coverage
+      rows or pretend they are formal-session authority.
     - Build a pre-edit mapping from every formal subtopic and teaching block to the package
       surfaces where it is taught, revised, tested, and transferred to answer writing.
     - Classify every unmatched concept as exactly one of:
@@ -114,6 +120,21 @@ It must remain usable from the repository alone in Markdown and PDF form.
       7. Finish with one full development validation, one staged release validation, `git diff
          --check`, then commit and push. These optimizations reduce repetition only; they never
          waive coverage, semantic integrity, independent review, or release gates.
+    - **Safe parallelism rule (locked):**
+      - Independent topics may be reconciled concurrently when they have isolated package
+        directories, independent source ledgers, and no unresolved cross-topic ownership writes.
+      - Every parallel topic keeps its own exhaustive preflight, frozen coverage ledger,
+        substantive repairs, authored review, validators, PDFs, independent review, staged
+        release gate, commit, and push. Parallel execution never combines or substitutes these
+        per-topic requirements.
+      - Never skip, summarize away, compress, weaken, or defer required teaching, visuals,
+        revision notes, MCQs, explanations, PYQs, Mains models, obligations, metadata, PDFs, or
+        validation merely to increase throughput.
+      - Cross-topic obligations and shared files are serialized: one designated owner edits and
+        validates them, while dependent topics wait at their release gate. Commits and pushes are
+        also serialized to prevent conflicting histories or incomplete releases.
+      - Parallelism is a scheduling optimization only. Topic completeness and validity are judged
+        by the same locked standards as sequential execution.
     - Interpret any request to `preserve answer rotation` as preserving a valid randomized,
       non-gameable answer distribution where possible. It never overrides the locked rule against
       predictable A→B→C→D rotation, answer runs, lexical cues, or length/punctuation cues.

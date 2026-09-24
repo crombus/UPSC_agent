@@ -34,11 +34,21 @@
   canonical subject knowledge and verified PYQ ledgers are under
   `C:\up\upsc-ai-kit\knowledge`. Regenerated Learner-v2 material is reference-only unless
   explicitly designated as formal authority.
+- **Canonical-only fallback authority:** when no completed formal session exists, record
+  `canonical_without_formal_session` provenance and make every canonical heading/block mandatory
+  coverage. Learning sessions, workbooks, and regenerated material remain supplementary evidence:
+  use them to deepen teaching, examples, visuals, traps, and practice, but do not create duplicate
+  mandatory coverage rows from their derivative headings.
 - **Optimized reconciliation workflow:** run one exhaustive preflight and freeze its defect
   ledger; validate source identity, propositions, routes, practice, and artifacts incrementally;
   freeze cleared surfaces; generate PDFs once after visible Markdown stabilizes; use focused
   re-reviews after the first full review; finish with one full development gate, staged release
   gate, diff check, commit, and push. Optimization never waives completeness or integrity.
+- **Safe topic parallelism:** independent UPSC topics may run concurrently only in isolated
+  package scopes. Each topic retains complete preflight, teaching, practice, authored review,
+  PDF, independent-review, release-validation, commit, and push requirements. Never skip,
+  compress, weaken, or merge requirements for speed; serialize shared-file and cross-topic
+  obligation edits plus final commits/pushes.
 - **India-centric examples** always.
 
 ---

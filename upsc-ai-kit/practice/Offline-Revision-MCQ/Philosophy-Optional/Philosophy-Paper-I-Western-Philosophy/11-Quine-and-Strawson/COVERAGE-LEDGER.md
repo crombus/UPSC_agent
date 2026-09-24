@@ -1,5 +1,58 @@
 # Coverage Ledger — Quine and Strawson
 
+## Frozen formal reconciliation ledger
+
+| Item | Frozen count / identity | Resolution |
+|---|---:|---|
+| Authoritative formal blocks (levels 2–5) | **435** | Every block has one authored review decision and one generated audit row |
+| Structural umbrellas | **61** | Parent-only body plus recursive child union checked |
+| Formal leaves | **374** | Full-block correspondence checked |
+| Large formal leaves | **15** | Beginning, middle and end segments checked independently (**45** distributed units) |
+| Labelled master-flow panels | **42** | Exact order, labels and bounded payload parity restored in `REVISION-GUIDE.md` |
+| Direct verified PYQs through 2026 | **10** | Exact wording, marks and locked timed bands |
+| Formal original solved models | **6** | Two each at 10, 15 and 20 marks |
+| Coverage-derived MCQs | **61** | Unchanged: the repaired atlas and models deepen already represented cells rather than add a new tested inference |
+
+The formal review is authored in `FORMAL-COVERAGE-REVIEW.json`; the audit is regenerated from
+current source hashes, current destination text and those frozen decisions. Extraction never
+authors a classification. The review records source-bound and destination-bound semantic
+witnesses rather than accepting a heading or generic topic word as evidence.
+
+## Reconciliation repairs
+
+1. Restored the complete ordered **42-panel formal ASCII master flow** to the revision guide.
+2. Restored all **six** formal original solved models; the earlier package contained only three.
+3. Rebuilt every timed answer to the locked bands: **150–200**, **250–300**, and **340–400**
+   words for 10-, 15-, and 20-mark answers respectively.
+4. Added reviewed block accounting, structural-umbrella unions, large-leaf thirds, panel parity,
+   global claim/destination correspondence, production negative tests and development/release
+   separation.
+5. Preserved the 61-question bank because the repaired material already belongs to its declared
+   test cells; adding questions would duplicate inferences rather than close a new cell.
+
+## Cross-topic route obligations and dispositions
+
+These are exact ownership routes present in the authoritative formal session. All seven are now
+closed from destination evidence; the Paper II route was serialized only after the Soul package
+reached `DEVELOPMENT_PASS`.
+
+| Obligation | Routed doctrine | Destination | Topic 11 handling | Status |
+|---|---|---|---|---|
+| T11-ROUTE-T03-EMPIRICISM | Hume's impressions/ideas, bundle self and problem of induction | Topic 03 Empiricism | existing destination teaching, validator and formal-audit IDs verified | Closed |
+| T11-ROUTE-T04-KANT-GENERAL | synthetic a priori, transcendental deduction and antinomies | Topic 04 Kant | existing destination teaching, validator and formal-audit IDs verified | Closed |
+| T11-ROUTE-T04-BOUNDS-OF-SENSE | bounded *Bounds of Sense* / Strawson comparison | Topic 04 Kant | existing Second Analogy/Strawson evidence and audit ID verified | Closed |
+| T11-ROUTE-T06-DESCRIPTIONS | Russell's theory of descriptions and *On Denoting* | Topic 06 Moore, Russell and Early Wittgenstein | existing destination teaching, validator and formal-audit ID verified | Closed |
+| T11-ROUTE-T07-POSITIVISM | verification principle, Ayer, Carnap and Vienna Circle | Topic 07 Logical Positivism | existing destination teaching, validator and formal-audit IDs verified | Closed |
+| T11-ROUTE-T08-LATER-WITTGENSTEIN | meaning as use, language-games and private-language argument | Topic 08 Later Wittgenstein | existing destination teaching, validator and formal-audit IDs verified | Closed |
+| T11-ROUTE-P2-SOUL | personal identity over time, soul and immortality | `Philosophy-Paper-II-Philosophy-of-Religion\04-Soul-Immortality-Rebirth` | destination teaches diachronic identity and the bounded Strawsonian identification-condition comparison; tests MCQs 49-54 and Originals 4-6; destination validator records `DEVELOPMENT_PASS` | Closed |
+
+`Freedom and Resentment` and the reactive attitudes are no longer an external obligation. They
+remain one-clause bounded Topic 11 enrichment and are tested by MCQ 59 without acquiring primary
+ownership.
+
+The Paper II reciprocal record now closes the final external obligation. Release still requires
+the ordinary current-file staging gate, which is intentionally not run in this task.
+
 ## Explicit coverage matrix
 
 The **61-question** total was derived independently from eleven substantive cells. It is not copied from Topic 10, the 56-item source workbook, or a round target. Questions were retained only where they add a distinct recognition, reasoning, elimination or transfer operation.
@@ -117,6 +170,10 @@ The earlier complete session and workbook are also hashed and checked for substa
 ## PYQ ownership accounting
 
 Directly owned: **10** — 2018 Q1(e), 2018 Q2(c), 2019 Q1(e), 2020 Q3(b), 2021 Q3(b), 2021 Q3(c), 2023 Q4(a), 2024 Q4(c), 2025 Q4(b), 2026 Q3(a).
+
+Original solved practice: **6** — two 10-mark, two 15-mark and two 20-mark models, preserving
+the formal workbook's Duhem–Quine, descriptive-metaphysics, logic-revision, no-ownership,
+translation-indeterminacy and two-project demands.
 
 - No directly owned part appears in 2022.
 - Russell's descriptions questions remain Topic 06-owned; “On Referring” is a rival cross-link here.

@@ -2,7 +2,7 @@
 
 > Syllabus boundary: Quine and Strawson: Critique of Empiricism; Theory of Basic Particulars and Persons.
 >
-> Source lineage: The latest g5 session/workbook, canonical owner file, earlier complete session/workbook and verified 2018–2026 PYQ ledgers were read. The canonical owner file is substantially retained where it was already final; source cells were reconciled, adapted and mapped, repeated teaching apparatus was consolidated, and new 2026/PYQ/validator controls were added. Mechanical overlap and witness checks do not prove semantic completeness.
+> Source lineage: The authoritative completed formal session/workbook, canonical owner file and verified 2018–2026 PYQ ledgers were read. The canonical owner file is substantially retained where it was already final; source cells were reconciled, adapted and mapped, repeated teaching apparatus was consolidated, the complete 42-panel formal atlas was restored, and new 2026/PYQ/validator controls were added. Mechanical overlap and witness checks do not prove semantic completeness.
 
 ## Release boundary and ownership
 
@@ -685,13 +685,1265 @@ Close   : The person is not mind-plus-body; it is what makes attributing both mi
 - Roger Gibson, *The Philosophy of W.V. Quine* (overview of the system).
 - A.C. Grayling (ed.), *Philosophy 2: Further Through the Subject* (Strawson's descriptive metaphysics).
 
-## 11. 2026 ownership update and exact demand
+## 11. COMPLETE FORMAL ASCII MASTER FLOW — 42 PANELS
+
+> Formal-session atlas restored as required coverage evidence. Panels 1–42 preserve the authoritative order and panel payload. The corpus panel is the formal 2018–2025 snapshot; the verified 2026 addition remains in section 12 below.
+
+```text
+QUINE AND STRAWSON - ASCII MASTER FLOW DIAGRAM
+UPSC PHILOSOPHY OPTIONAL | PAPER I, SECTION A | SYLLABUS ITEM 11
+==============================================================================
+READ TOP TO BOTTOM. 42 PANELS. PURE ASCII. EVERY DATE, SECTION NUMBER,
+TECHNICAL TERM AND ATTRIBUTION IS EXAMINABLE AS PRINTED.
+==============================================================================
+
+ASCII MASTER FLOW - PANEL 1/42: THE PRINTED CLAUSE AND ITS TWO LIMBS
+------------------------------------------------------------------------------
+  SYLLABUS, VERBATIM
+    'Quine and Strawson : Critique of Empiricism; Theory of Basic
+     Particulars and Persons.'
+    NOTE: the paper prints a space before the colon.  Preserve it ONLY
+    inside a verbatim quotation of the syllabus.
+                                   |
+  THE TWO LIMBS DIVIDE CLEANLY - ONE OWNER EACH
+    LIMB 1  CRITIQUE OF EMPIRICISM ......... QUINE 1908-2000
+            two dogmas, failed explications of analyticity,
+            reductionism, confirmation holism, revisability, and
+            empiricism without the dogmas
+    LIMB 2  THEORY OF BASIC PARTICULARS
+            AND PERSONS .................... STRAWSON 1919-2006
+            descriptive metaphysics, identification and
+            re-identification, the public spatio-temporal framework,
+            material bodies, and the person as a primitive concept
+                                   |
+  THE ONE MOVE THE CLAUSE MAKES
+    CLASSICAL AND LOGICAL EMPIRICISM MADE TWO PROMISES:
+      (i)  every meaningful sentence can be sorted into TRUE BY MEANING
+           and TRUE BY FACT, and checked against experience ONE AT A TIME
+      (ii) the world can be rebuilt out of PRIVATE SENSORY GIVENS
+    QUINE breaks (i) FROM INSIDE EMPIRICISM.
+    STRAWSON shows (ii) CANNOT EVEN GET STARTED.
+  FATAL OPENING: 'The Quine-Strawson critique of empiricism holds that ...'
+
+
+ASCII MASTER FLOW - PANEL 2/42: THE TWO-PROJECT WARNING - SAY THIS FIRST
+------------------------------------------------------------------------------
+  THEY ARE NOT ALLIES.  THE ONLY DOCUMENTED EXCHANGE IS A DISAGREEMENT.
+    GRICE AND STRAWSON, 'IN DEFENCE OF A DOGMA',
+    The Philosophical Review, 1956.
+      CO-AUTHORED with H. P. GRICE.  British spelling: DEFENCE.
+      They defend the ANALYTIC/SYNTHETIC DISTINCTION that Quine
+      attacked in 1951.
+                                   |
+  THE TWO PROJECTS, SIDE BY SIDE
+    +--------------------------------+--------------------------------+
+    | QUINE                          | STRAWSON                       |
+    | LEVEL   the THEORY OF          | LEVEL   the STARTING POINT     |
+    |         CONFIRMATION           |                                |
+    | MOVE    both dogmas fail;      | MOVE    identification needs   |
+    |         sentences face         |         re-identification,     |
+    |         experience only as a   |         which needs ONE public |
+    |         CORPORATE BODY         |         spatio-temporal        |
+    |                                |         framework              |
+    | TOOL    logic + naturalism +   | TOOL    connective conceptual  |
+    |         behavioural evidence   |         analysis, TRANSCEN-    |
+    |                                |         DENTAL IN FORM         |
+    | RESULT  EMPIRICISM WITHOUT THE | RESULT  MATERIAL BODIES and    |
+    |         DOGMAS - he STAYS an   |         PERSONS are BASIC in   |
+    |         empiricist             |         our conceptual scheme  |
+    +--------------------------------+--------------------------------+
+                                   |
+  THE ONLY LEGITIMATE JOINT SENTENCE
+    Empiricism failed TWICE OVER: about how theories are CONFIRMED
+    (Quine) and about how we so much as REFER (Strawson).
+    That is a PROBLEM-FIELD, not a shared thesis.
+
+
+ASCII MASTER FLOW - PANEL 3/42: OWNERSHIP AND THE CORPUS SIGNAL 2018-2025
+------------------------------------------------------------------------------
+  9 PRIMARY-OWNED QUESTION-PARTS OUT OF 112.
+                                   |
+  QUINE - FIVE PARTS               |  STRAWSON - FOUR PARTS
+    2018 Q2(c) 15m  a priori as    |    2018 Q1(e) 10m  concept of person
+                    'article of    |    2020 Q3(b) 15m  spatio-temporal
+                    faith'         |                    thinking and basic
+    2019 Q1(e) 10m  against the    |                    particulars
+                    synthetic-     |    2021 Q3(b) 15m  material bodies AND
+                    analytic       |                    persons as basic
+                    distinction    |                    particulars
+    2021 Q3(c) 15m  empiricism     |    2023 Q4(a) 20m  person as primitive;
+                    without the    |                    implication for
+                    dogmas         |                    mind-body dualism
+    2024 Q4(c) 15m  nature of the  |
+                    two dogmas     |  THE ONLY 20-MARKER IN THE CLAUSE IS
+    2025 Q4(b) 15m  'affirm the    |  STRAWSON'S, IN 2023.
+                    truth of any   |
+                    sentence ...'  |
+                                   |
+  YEAR DISTRIBUTION
+    2018 TWO | 2019 one | 2020 one | 2021 TWO | 2022 NONE
+    2023 one | 2024 one | 2025 one
+  CONSEQUENCE: frequent but NOT guaranteed.  Prepare it to ANSWER, not to
+  recognise.  DECIDE THE OWNER FROM THE STEM BEFORE WRITING A LINE.
+
+
+ASCII MASTER FLOW - PANEL 4/42: THE OWNERSHIP FENCE - WHAT IS NOT OWNED HERE
+------------------------------------------------------------------------------
+  VERIFICATION PRINCIPLE, AYER, CARNAP'S AUFBAU,
+    THE VIENNA CIRCLE as DOCTRINE ............ Topic 07 Logical Positivism
+    (here ONLY as the position Quine dismantles)
+  HUME'S IMPRESSIONS AND IDEAS, THE BUNDLE
+    SELF, THE PROBLEM OF INDUCTION as DOCTRINE  Topic 03 Empiricism
+  KANT'S SYNTHETIC A PRIORI, THE TRANSCENDENTAL
+    DEDUCTION, THE ANTINOMIES as DOCTRINE ..... Topic 04 Kant
+    (here ONLY through the 2018 framing and Strawson's affinity)
+  RUSSELL'S THEORY OF DESCRIPTIONS as DOCTRINE  Topic 06 Moore-Russell-
+                                                Early Wittgenstein
+    (here ONLY as the rival 'On Referring' answers)
+  MEANING AS USE, LANGUAGE-GAMES, THE PRIVATE
+    LANGUAGE ARGUMENT as DOCTRINE ............. Topic 08 Later Wittgenstein
+    (here ONLY as a bounded comparison)
+  STRAWSON ON FREEDOM, RESENTMENT AND THE
+    REACTIVE ATTITUDES ('Freedom and
+    Resentment', 1962) ........................ BOUNDED / CROSS-OWNED.
+    NOT a printed limb.  NOT PYQ-OWNED 2018-2025.  One clause maximum.
+  STRAWSON ON INDUCTION (1952) AND ON KANT
+    (1966) .................................... bounded enrichment only
+  PERSONAL IDENTITY OVER TIME, THE SOUL,
+    IMMORTALITY ............................... Paper II
+  BOUNDED QUINE ENRICHMENT - TAUGHT IN FULL, USED AFTER THE PRINTED BURDEN
+    ontological commitment | radical translation and gavagai |
+    inscrutability | indeterminacy | ontological relativity |
+    naturalized epistemology
+    NOT independently printed and NOT PYQ-owned in 2018-2025.
+
+
+ASCII MASTER FLOW - PANEL 5/42: PROVENANCE RAIL, PART ONE - 1905 TO 1953
+------------------------------------------------------------------------------
+  1905  RUSSELL, 'On Denoting'.  The theory of descriptions.
+        Topic 06's property; the position 'On Referring' answers.
+  1906  DUHEM, La Theorie physique: son objet, sa structure.
+        Eng. The Aim and Structure of Physical Theory, tr. Wiener, 1954.
+        PHYSICS ONLY.  LOGIC AND MATHEMATICS EXEMPT.
+  1928  CARNAP, Der logische Aufbau der Welt.  The construction of the
+        world from private experience.  Topic 07's property; the
+        programme Strawson's basic-particulars argument makes unworkable.
+  1934  POPPER, Logik der Forschung.  Eng. 1959.  ACCEPTS the logical
+        point of Duhem-Quine and answers it METHODOLOGICALLY.
+  1936  BIRKHOFF AND VON NEUMANN, 'The Logic of Quantum Mechanics',
+        Annals of Mathematics.  The FORMAL proposal: a NON-DISTRIBUTIVE
+        LATTICE.  NOT yet the claim that logic is empirical.
+  1948  QUINE, 'On What There Is', Review of Metaphysics.
+        THE CRITERION OF ONTOLOGICAL COMMITMENT IS DEVELOPED HERE.
+        'To be is to be the value of a bound variable' is the standard
+        slogan for it.  IT IS NOT FROM 'TWO DOGMAS'.
+  1950  STRAWSON, 'On Referring', Mind.  PRESUPPOSITION against
+        Russell's ASSERTED existence-claim.  PREDATES Individuals by
+        NINE YEARS - a PRECURSOR, not an application of descriptive
+        metaphysics.
+  1951  QUINE, 'Two Dogmas of Empiricism', The Philosophical Review,
+        JANUARY 1951.  The web-of-belief / field-of-force passage is
+        SECTION 6, 'Empiricism without the Dogmas'.  CITE THE SECTION.
+  1953  From a Logical Point of View - 'Two Dogmas' REVISED and
+        reprinted.  Both dates are correct for different versions.
+
+
+ASCII MASTER FLOW - PANEL 6/42: PROVENANCE RAIL, PART TWO - 1956 TO 1985
+------------------------------------------------------------------------------
+  1952  STRAWSON, Introduction to Logical Theory.  The dissolution of
+        the problem of induction, CH. 9.  Optional.
+  1956  GRICE AND STRAWSON, 'In Defence of a Dogma',
+        The Philosophical Review.  CO-AUTHORED.  Spelling: DEFENCE.
+  1959  STRAWSON, Individuals: An Essay in Descriptive Metaphysics.
+        BASIC PARTICULARS: PART I.  PERSONS: CH. 3.
+        The phrase is in the SUBTITLE - quote the subtitle, it is exact.
+  1960  QUINE, Word and Object.  Radical translation, gavagai, stimulus
+        meaning, analytical hypotheses: CH. 2.
+        EPIGRAPH: NEURATH'S BOAT.
+  1962  STRAWSON, 'Freedom and Resentment'.  NOT a printed limb.
+  1966  STRAWSON, The Bounds of Sense.  The 'non-sequitur of numbing
+        grossness' charge against Kant's Second Analogy.  Safe verbatim;
+        Strawson's own phrase.  Belongs mainly to Topic 04.
+  1968  PUTNAM, 'Is Logic Empirical?'  THE CLAIM that the DISTRIBUTIVE
+        LAW should be revised on EMPIRICAL grounds.  Reprinted 1976.
+        PUTNAM LATER ABANDONED THE POSITION.
+  1968  QUINE, Dewey Lectures, 'Ontological Relativity'.
+  1969  Published in Ontological Relativity and Other Essays - the SAME
+        volume as 'EPISTEMOLOGY NATURALIZED'.
+        DO NOT DATE NATURALIZED EPISTEMOLOGY TO 1951.
+  1969  CHOMSKY, 'Quine's Empirical Assumptions', in Words and
+        Objections.  ATTRIBUTE the underdetermination objection to
+        CHOMSKY, not to 'critics'.
+  1970  QUINE, Philosophy of Logic.  'CHANGE OF LOGIC, CHANGE OF
+        SUBJECT' and the MAXIM OF MINIMUM MUTILATION.
+  1973  DAVIDSON, 'Radical INTERPRETATION'.  Interpretation, NOT
+        translation - the change of word marks the change of doctrine.
+  1985  STRAWSON, Skepticism and Naturalism.  Transcendental arguments
+        limited to internal, descriptive work.  Optional.
+
+
+ASCII MASTER FLOW - PANEL 7/42: DOGMA ONE - THE CLAIM UNDER TEST
+------------------------------------------------------------------------------
+  THE DOGMA
+    There is a PRINCIPLED, NON-ARBITRARY line between
+      ANALYTIC  = true by virtue of MEANING alone
+      SYNTHETIC = true by virtue of extra-linguistic FACT
+    WHY QUINE CALLS IT A DOGMA: the line cannot be drawn NON-CIRCULARLY.
+                                   |
+  THE TWO CLASSES OF ANALYTIC TRUTH - START HERE, NOT AT 'CIRCULARITY'
+    CLASS 1  LOGICALLY TRUE
+             'No unmarried man is married.'
+             True under EVERY reinterpretation of the non-logical words.
+             Quine GRANTS this class; it is not where the trouble lies.
+    CLASS 2  TRUE BY SUBSTITUTING SYNONYMS FOR SYNONYMS
+             'No bachelor is married.'  Put 'unmarried man' for
+             'bachelor' and it BECOMES a Class 1 truth.
+             THIS class is the one that needs SYNONYMY.
+                                   |
+  THE QUESTION THAT DRIVES THE WHOLE PAPER
+    WHAT IS SYNONYMY?  Three routes are available.  Each returns to the
+    platform it left.  PANELS 8, 9 AND 10 TAKE THEM IN ORDER.
+
+
+ASCII MASTER FLOW - PANEL 8/42: DOGMA ONE, ROUTE ONE - DEFINITION
+------------------------------------------------------------------------------
+  THE PROPOSAL
+    'Two terms are synonymous when one is DEFINED as the other.
+     The lexicographer defines bachelor as unmarried man.'
+                                   |
+  THE FAILURE
+    EXCEPT for FRANKLY STIPULATIVE definitions, a definition REPORTS a
+    synonymy that ALREADY OBTAINED in the language.  The lexicographer
+    is an empirical scientist recording usage.
+                                   |
+  WHY THIS IS CIRCULAR - STATE IT PRECISELY
+    The circularity is in the EXPLANATORY ORDER, not in the sentence.
+    Definitions are not circular IN FORM.  The objection is that a
+    definition PRESUPPOSES the relation it was called in to explain.
+                                   |
+  WHAT QUINE CONCEDES
+    Stipulative definition DOES create synonymy - by fiat, in a new
+    notation.  It cannot ground the general notion for a language
+    already in use.
+  TRAP: writing 'definitions are circular' misstates the objection.
+
+
+ASCII MASTER FLOW - PANEL 9/42: DOGMA ONE, ROUTE TWO - SALVA VERITATE
+------------------------------------------------------------------------------
+  THE PROPOSAL
+    'Two terms are synonymous when they are INTERCHANGEABLE SALVA
+     VERITATE - swapping them never changes a truth-value.'
+                                   |
+  FAILURE (a) - OVER-GENERATION IN AN EXTENSIONAL LANGUAGE
+    'CREATURE WITH A HEART' and 'CREATURE WITH A KIDNEY' are
+    COEXTENSIVE, so they interchange freely - YET THEY ARE NOT
+    SYNONYMOUS.  The test admits pairs it should exclude.
+                                   |
+  THE PROPOSED REPAIR
+    'Then demand interchange inside NECESSARILY ( ... ).'
+                                   |
+  FAILURE (b) - THE REPAIR PRESUPPOSES THE TARGET
+    The language must already contain a NECESSITY operator whose
+    intelligibility, for Quine, rests on ANALYTICITY.
+    So the repair presupposes exactly what was to be explained.
+                                   |
+  SHAPE OF THE ARGUMENT
+    WEAK TEST -> lets in too much.  STRONG TEST -> assumes the answer.
+    There is no setting of the dial that works.
+
+
+ASCII MASTER FLOW - PANEL 10/42: DOGMA ONE, ROUTE THREE - SEMANTICAL RULES
+------------------------------------------------------------------------------
+  THE PROPOSAL (CARNAP)
+    'Analyticity is DEFINED for an artificial language L by explicit
+     SEMANTICAL RULES.  A sentence is analytic-in-L if the rules say so.'
+                                   |
+  WHAT IT DELIVERS
+    A LIST.  We learn which sentences are analytic-IN-L.
+                                   |
+  WHAT IT DOES NOT DELIVER
+    The GENERAL explanatory notion.  'Semantical rule' is no clearer
+    than 'analytic'.  We learn the MEMBERSHIP of a set; we do not learn
+    what MEMBERSHIP CONSISTS IN.
+                                   |
+  THE STRUCTURAL POINT
+    Relativising to L moves the problem, it does not solve it.  The
+    question 'what makes THESE the semantical rules?' is the original
+    question in new clothing.
+  TRAP: treating 'analytic-in-L' as a successful definition of
+  'analytic' concedes the very generality Quine denies.
+
+
+ASCII MASTER FLOW - PANEL 11/42: DOGMA ONE - THE EXACT CONCLUSION
+------------------------------------------------------------------------------
+  WHAT QUINE CONCLUDES
+    The AVAILABLE EXPLICATIONS FAIL to provide the clear,
+    NON-QUESTION-BEGGING boundary that logical empiricism required.
+                                   |
+  WHAT QUINE DOES NOT CONCLUDE
+    NOT  'All bachelors are unmarried' is FALSE.
+    NOT  the word 'analytic' has NO USE in any language.
+    NOT  from ONE missing dictionary definition that EVERY use of
+         'analytic' is unintelligible.
+                                   |
+  WHAT REPLACES THE DISTINCTION
+    HOLISTIC REVISABILITY replaces categorical immunity with DEGREES OF
+    PRACTICAL ENTRENCHMENT.  Central statements are revised rarely;
+    peripheral ones easily.
+                                   |
+  CENTRALITY CAUTION - THE MOST MISSED CONTROL ON THIS SUB-TOPIC
+    Practical entrenchment EXPLAINS why logic and mathematics are
+    normally protected.  IT IS NOT A REPLACEMENT DEFINITION OF
+    'ANALYTIC'.  Presenting it as one converts a strength into an error.
+
+
+ASCII MASTER FLOW - PANEL 12/42: DOGMA ONE - THE OBJECTION AND THE REJOINDER
+------------------------------------------------------------------------------
+  GRICE AND STRAWSON, 'IN DEFENCE OF A DOGMA', 1956
+    1  The distinction is ORDINARILY INTELLIGIBLE: competent speakers
+       agree on cases WITHOUT theory.
+    2  A distinction in good working order is not discredited merely
+       because no REDUCTIVE ANALYSIS of it is available.
+    3  Quine sets the bar TOO HIGH - he demands a non-circular
+       DEFINITION where what we have is a usable DISTINCTION.
+                                   |
+  QUINE'S REJOINDER
+    ORDINARY INTELLIGIBILITY IS NOT THEORETICAL LEGITIMACY.
+    Agreement in classification does not supply the principled ground
+    on which the POSITIVIST MEANING-CRITERION and the LINGUISTIC THEORY
+    OF NECESSITY were resting.
+    Compare: speakers once agreed in applying 'witch' / 'non-witch'.
+                                   |
+  THE STANDING DISPUTE - NAME IT, THEN TAKE A GRADED SIDE
+    The quarrel is about STANDARDS OF EXPLICATION.
+    DEFENSIBLE VERDICT: Quine strongly pressures the distinction's
+    FOUNDATIONAL use while leaving room for more modest semantic or
+    ordinary classifications.
+
+
+ASCII MASTER FLOW - PANEL 13/42: DOGMA TWO - REDUCTIONISM IN TWO FORMS
+------------------------------------------------------------------------------
+  THE DOGMA
+    Each meaningful statement has its OWN private stock of confirming
+    or disconfirming experiences, so statements can be checked ONE AT A
+    TIME.
+                                   |
+  RADICAL FORM
+    Every meaningful statement is TRANSLATABLE into a language of
+    immediate experience, TERM BY TERM.
+    Historical exemplar: CARNAP'S AUFBAU, 1928.
+                                   |
+  ATTENUATED FORM
+    Give up translation.  RETAIN the claim that each statement, taken
+    alone, has its own range of confirming and disconfirming
+    experiences.
+                                   |
+  WHY THE LABEL 'REDUCTIONISM' FITS - A CHEAP MARK MOST SCRIPTS MISS
+    The doctrine REDUCES the meaning of each sentence to a SET OF
+    OBSERVATION SENTENCES.  The name states the operation.
+                                   |
+  ONE OBJECTION DEFEATS BOTH FORMS
+    Both assume a SENTENCE-SIZED PARCEL OF EVIDENCE.  Remove that and
+    both collapse together.
+
+
+ASCII MASTER FLOW - PANEL 14/42: DOGMA TWO - THE CORPORATE BODY
+------------------------------------------------------------------------------
+  THE CANONICAL SENTENCE - QUOTE IT EXACTLY
+    'Our statements about the external world face the tribunal of sense
+     experience NOT INDIVIDUALLY BUT ONLY AS A CORPORATE BODY.'
+                                   |
+  THE UNIT OF EMPIRICAL SIGNIFICANCE
+    NOT the TERM ......... that programme had already collapsed
+    NOT the SENTENCE ..... that is the dogma being removed
+    BUT THE WHOLE OF SCIENCE
+                                   |
+  WHAT IS AND IS NOT DENIED
+    DENIED    that experience bears on beliefs ONE AT A TIME
+    RETAINED  that experience bears on belief AT ALL
+    THIS IS WHY THE RESULTING POSITION IS STILL CALLED EMPIRICISM.
+  TRAP: 'Quine denies that experience tests belief.'  The tribunal
+  still sits.  It hears the SYSTEM.
+
+
+ASCII MASTER FLOW - PANEL 15/42: THE TWO DOGMAS ARE AT ROOT IDENTICAL
+------------------------------------------------------------------------------
+  QUINE'S OWN ARCHITECTURAL JUDGEMENT
+    The two dogmas are AT ROOT IDENTICAL.
+                                   |
+  THE ARGUMENT
+    DOGMA 1 survives only if SOME statements are confirmed
+    INDEPENDENTLY OF EXPERIENCE - 'confirmed come what may'.
+                                   |
+    That contrast needs a CONTRAST CLASS: statements confirmed
+    INDIVIDUALLY by their own experiences.
+                                   |
+    DOGMA 2 supplies exactly that picture.
+                                   |
+    REMOVE DOGMA 2 -> DOGMA 1 HAS NOTHING TO BE A CONTRAST TO.
+                                   |
+  WHY THIS EARNS MARKS
+    It converts a LIST of two criticisms into an ARGUMENT with a
+    structure.  It is the closing line of any 2024 Q4(c) answer.
+
+
+ASCII MASTER FLOW - PANEL 16/42: THE WEB OF BELIEF - THE STRUCTURE
+------------------------------------------------------------------------------
+  SOURCE: 'Two Dogmas', SECTION 6, 'Empiricism without the Dogmas'.
+  THE MODEL: a WEB, or a FIELD OF FORCE, whose BOUNDARY CONDITIONS are
+  EXPERIENCE.
+
+    ( o )  ( o )  ( o )  ( o )  ( o )   PERIPHERY: OBSERVATION
+       \     \     |     /     /         SENTENCES, in direct contact
+        \     \    |    /     /          with experience
+         [  physics, chemistry, biology  ]   revised comparatively easily
+                [   mathematics   ]          revised rarely
+                    [  LOGIC  ]              revised last; NEVER immune
+
+  WHAT THE PICTURE ASSERTS
+    Only the EDGE touches experience.  The interior is connected to it
+    by inferential threads.  A collision at the edge produces
+    RE-ADJUSTMENT INSIDE; the interior is not directly hit.
+  CAUTION: the periphery is OBSERVATION SENTENCES, NOT private
+  SENSE-DATA.  Quine is REJECTING the sense-datum programme here, not
+  restating it.
+
+
+ASCII MASTER FLOW - PANEL 17/42: THE WEB - THE THREE REVISION OPTIONS
+------------------------------------------------------------------------------
+  A CONFLICT ARRIVES AT THE EDGE.  SOMETHING MUST GIVE.  THREE THINGS
+  MAY BE DONE, AND EXPERIENCE DOES NOT CHOOSE BETWEEN THEM.
+                                   |
+    OPTION 1  REVISE A NEARBY PERIPHERAL BELIEF ............ easiest
+    OPTION 2  REVISE A DEEP INTERIOR STATEMENT ............. costly but
+                                                             open in
+                                                             principle
+    OPTION 3  PLEAD HALLUCINATION - revise the OBSERVATION
+              STATEMENT ITSELF ............................ always
+                                                             available
+                                   |
+  WHY OPTION 3 MATTERS
+    It is what makes 'ANY statement can be held true come what may'
+    LITERALLY TRUE rather than rhetorical.  Omit it and the famous
+    sentence looks like an exaggeration.
+                                   |
+  WHAT THE THREE OPTIONS ESTABLISH
+    Experience says 'SOMETHING HERE IS WRONG'.
+    Experience NEVER says 'THAT SENTENCE IS WRONG'.
+    The gap between those two sentences is the whole doctrine.
+
+
+ASCII MASTER FLOW - PANEL 18/42: THE TWO CANONICAL SENTENCES
+------------------------------------------------------------------------------
+  SENTENCE ONE - THE 2025 Q4(b) QUOTATION
+    'ANY STATEMENT CAN BE HELD TRUE COME WHAT MAY, IF WE MAKE DRASTIC
+     ENOUGH ADJUSTMENTS ELSEWHERE IN THE SYSTEM.'
+      THE CONDITIONAL CLAUSE IS THE DOCTRINE.
+      It names the COST, and the cost is what DISCIPLINES the choice.
+      TRUNCATING IT AT 'COME WHAT MAY' PRODUCES RELATIVISM, WHICH IS
+      NOT THE DOCTRINE.  This is the commonest way to fail 2025 Q4(b).
+                                   |
+  SENTENCE TWO - THE CONVERSE
+    'CONVERSELY, BY THE SAME TOKEN, NO STATEMENT IS IMMUNE TO
+     REVISION.'
+      The EARLY essay extends this IN PRINCIPLE even to a LAW OF LOGIC,
+      mentioning the proposed revision of the law of EXCLUDED MIDDLE as
+      a means of simplifying quantum mechanics.
+      IT DOES NOT FOLLOW that every revision is equally rational, or
+      that logic is casually abandoned.
+                                   |
+  THE 2025 PAPER'S WORDING, FOR REFERENCE
+    'We can affirm the truth of any sentence in our total system, in
+     the face of whatever experience, just so long as we are prepared
+     to make adjustments elsewhere.'
+
+
+ASCII MASTER FLOW - PANEL 19/42: THE FOUR CONSEQUENCES OF HOLISM
+------------------------------------------------------------------------------
+  1  NO SHARP ANALYTIC/SYNTHETIC LINE
+       Central logic and mathematics are highly entrenched and normally
+       protected, but CENTRALITY MUST NOT BE EQUATED with a new
+       definition of analyticity.
+  2  NO SHARP A PRIORI / A POSTERIORI LINE
+       All beliefs are revisable in the light of experience, even those
+       remote from the periphery.
+  3  PRAGMATISM ABOUT THEORY-CHOICE
+       When revision is needed we choose on grounds of SIMPLICITY,
+       CONSERVATISM and FECUNDITY - pragmatic virtues, NOT algorithmic
+       rules.
+  4  PRESSURE ON POSITIVIST MEANING-CRITERIA
+       SENTENCE-BY-SENTENCE reductionist verification is undermined.
+       WHETHER A HOLISTIC VERIFICATIONISM SURVIVES IS A FURTHER
+       QUESTION - the paper does not settle it.
+                                   |
+  STATE CONSEQUENCE 4 CAREFULLY.  Saying 'holism refutes
+  verificationism' overstates the result and invites correction.
+
+
+ASCII MASTER FLOW - PANEL 20/42: WHAT BLOCKS ARBITRARY REVISION
+------------------------------------------------------------------------------
+  THE OBJECTION
+    'If EVERYTHING is revisable, science has no fixed point at all, and
+     rational belief has no constraint.  Is holism even coherent?'
+                                   |
+  THE CONSTRAINTS - NAME THEM, OR THE OBJECTION STANDS
+    PREDICTIVE SUCCESS ...... revisions must keep the system predicting
+    CONSERVATISM ............ change as little as possible
+    SIMPLICITY .............. prefer the economical system
+    FECUNDITY ............... prefer the system that generates results
+    MINIMUM MUTILATION ...... Philosophy of Logic, 1970
+                                   |
+  THE EXACT FORMULA
+    NO STATEMENT IS REVISABLE BY NATURE, ONLY BY CHOICE - and choice
+    has COSTS.
+                                   |
+  WHAT HOLISM DOES AND DOES NOT LICENSE
+    LICENSES     the RE-ALLOCATION OF BLAME across the system
+    DOES NOT     indifference to evidence, or the claim that all
+    LICENSE      revisions are equally warranted
+
+
+ASCII MASTER FLOW - PANEL 21/42: THE DUHEM-QUINE ARGUMENT, NUMBERED
+------------------------------------------------------------------------------
+   1  The testable claim is  ( H & A ) -> O
+        H = the hypothesis under test
+        A = the auxiliaries: background theory, INSTRUMENT THEORY,
+            initial conditions
+   2  Observation reports  NOT-O
+   3  By MODUS TOLLENS all that follows is  NOT ( H & A )
+        i.e. H is false OR some element of A is false
+   4  LOGIC DOES NOT SAY WHICH CONJUNCT TO REJECT.  Evidence,
+      background knowledge and methodological virtues can still make
+      some revisions far more reasonable than others.
+   5  THEREFORE refutation is never conclusive against a SINGLE
+      statement - and, symmetrically, 'any statement can be held true
+      come what may, if we make drastic enough adjustments elsewhere in
+      the system'.
+   6  THEREFORE a reductionist criterion assigning each statement its
+      own confirming experiences HAS NO APPLICATION.  This attacks
+      DOGMA 2 directly; it PRESSURES, but does not by itself refute,
+      every possible holistic verificationism.
+                                   |
+  PRESUPPOSITIONS - WHERE EVERY OBJECTION ENTERS
+    P1  hypotheses generate predictions ONLY with auxiliaries
+    P2  no fixed decomposition uniquely assigns every recalcitrant
+        experience to ONE sentence
+    P3  theory-choice employs PRAGMATIC VIRTUES alongside evidence
+
+
+ASCII MASTER FLOW - PANEL 22/42: DUHEM AGAINST QUINE - TWO NON-IDENTICAL CLAIMS
+------------------------------------------------------------------------------
+                     DUHEM (1906)              |  QUINE (1951)
+  SCOPE        PHYSICS ONLY.  Physiology and   |  ALL OF KNOWLEDGE.
+               certain other sciences CAN test |  'The unit of empirical
+               hypotheses more nearly in       |  significance is THE
+               isolation.                      |  WHOLE OF SCIENCE.'
+  ---------------------------------------------+----------------------------
+  LOGIC AND    EXEMPT.  Duhem does not put     |  INCLUDED.  'No statement
+  MATHEMATICS  them at risk.                   |  is immune to revision',
+                                               |  not even a law of logic.
+  ---------------------------------------------+----------------------------
+  CHIEF        There is no automatic           |  Confirmation holism and
+  COROLLARY    EXPERIMENTUM CRUCIS against an  |  underdetermination
+               isolated hypothesis, since      |  pressure.  The stronger
+               auxiliaries are also in play.   |  claim of rival total
+                                               |  theories equivalent
+                                               |  under ALL possible
+                                               |  evidence needs FURTHER
+                                               |  argument.
+  ---------------------------------------------+----------------------------
+  MOTIVE       Philosophy of physics; the      |  The demolition of the
+               practice of physicists.         |  SECOND DOGMA,
+                                               |  reductionism.
+  ==============================================================
+  THE LABEL 'DUHEM-QUINE THESIS' IS LATER SHORTHAND FOR TWO
+  NON-IDENTICAL CLAIMS.  SAYING SO IS ITSELF A MARK.
+
+
+ASCII MASTER FLOW - PANEL 23/42: NEPTUNE AND VULCAN - DEPLOY BOTH
+------------------------------------------------------------------------------
+  CASE ONE - URANUS
+    Orbit conflicts with Newtonian prediction.
+      -> astronomers DO NOT abandon Newton's laws
+      -> they revise the AUXILIARY 'we know all the planets'
+      -> NEPTUNE IS FOUND.  Le Verrier and Adams, 1846.
+      -> THE SHALLOW REVISION WAS CORRECT.
+                                   |
+  CASE TWO - MERCURY
+    Perihelion conflicts with Newtonian prediction.
+      -> the SAME strategy posits the planet 'VULCAN'
+      -> VULCAN DOES NOT EXIST
+      -> the correct revision was the DEEP one: GENERAL RELATIVITY,
+         1915.
+      -> THE DEEP REVISION WAS CORRECT.
+                                   |
+  WHAT THE PAIR PROVES
+    SAME LOGICAL SITUATION.  OPPOSITE CORRECT RESPONSES.
+    NO RULE SAYS IN ADVANCE WHICH TO CHOOSE.
+    That is the thesis, HISTORICALLY DEMONSTRATED.
+  TRAP: citing NEPTUNE ALONE makes holism look like a recipe for saving
+  theories.  The PAIR shows it is a claim about the ABSENCE of a recipe.
+
+
+ASCII MASTER FLOW - PANEL 24/42: POPPER AND LAKATOS - THE REPLY THAT CONCEDES
+------------------------------------------------------------------------------
+  POPPER - Logik der Forschung 1934; Eng. 1959
+    ACCEPTS THE LOGICAL POINT ENTIRELY and denies its SCEPTICAL USE.
+      Falsification is not an automatic logical process but a
+      METHODOLOGICAL DECISION.
+      Scientists agree BY CONVENTION to treat certain BASIC STATEMENTS
+      as unproblematic for the purposes of a test.
+      They FORBID AD HOC RESCUES that reduce a theory's TESTABILITY.
+      RATIONALITY IS PRESERVED BY RULES OF METHOD, NOT BY LOGIC ALONE.
+                                   |
+  LAKATOS
+    Develops this into RESEARCH PROGRAMMES with
+      a protected HARD CORE          - not surrendered
+      a revisable PROTECTIVE BELT    - where revision is taken
+    Duhem-Quine turned into a CRITERION OF PROGRESS.
+                                   |
+  TRAP TO AVOID
+    'Popper refutes Duhem-Quine.'  HE DOES NOT.  He grants the logic
+    and answers it with method.  Misreporting this is a factual error
+    an examiner can check.
+
+
+ASCII MASTER FLOW - PANEL 25/42: THE REVISABILITY OF LOGIC - 1936 / 1968 / 1970
+------------------------------------------------------------------------------
+  THE EARLY CLAIM (1951)
+    'No statement is immune to revision', applied even to the law of
+    EXCLUDED MIDDLE.
+                                   |
+  THE STRONGEST CANDIDATE - TWO ACTS, THIRTY-TWO YEARS APART
+    1936  BIRKHOFF AND VON NEUMANN, 'The Logic of Quantum Mechanics',
+          Annals of Mathematics.  A NON-DISTRIBUTIVE LATTICE of
+          propositions.  THIS IS A MATHEMATICAL PROPOSAL.
+    1968  PUTNAM, 'Is Logic Empirical?'  THE CLAIM that LOGIC IS
+          EMPIRICAL - that the DISTRIBUTIVE LAW should be revised on
+          EMPIRICAL grounds.  Reprinted 1976.
+          THIS IS A PHILOSOPHICAL CLAIM ABOUT THE FIRST.
+    NEVER WRITE 'PUTNAM/BIRKHOFF'.  NEVER MERGE THE DATES.
+    PUTNAM LATER ABANDONED THE POSITION.
+                                   |
+  THE RESISTANCE - FROM QUINE HIMSELF
+    1970  Philosophy of Logic.  'CHANGE OF LOGIC, CHANGE OF SUBJECT':
+          anyone who 'denies' a law of logic has merely changed the
+          meaning of the connectives, so no genuine disagreement has
+          occurred.  Plus the MAXIM OF MINIMUM MUTILATION.
+                                   |
+  THE HONEST VERDICT
+    HOLISM IS RIGHT ABOUT CONFIRMATION AND OVERSTATED ABOUT
+    REVISABILITY.  The defensible position is DUHEM'S THESIS WITH
+    QUINE'S MOTIVATION.  The LATER Quine is a poor witness for the
+    EARLIER Quine's most radical claim.
+
+
+ASCII MASTER FLOW - PANEL 26/42: EMPIRICISM WITHOUT THE DOGMAS
+------------------------------------------------------------------------------
+  WHAT IS THROWN AWAY            |  WHAT IS KEPT
+    the analytic/synthetic       |    SENSORY EVIDENCE as the check on
+    boundary as a FOUNDATION     |    the system
+    confirmation of sentences    |    NATURALISM: philosophy is
+    ONE AT A TIME                |    continuous with science
+    a privileged class of truths |    the demand that ontology be
+    IMMUNE to experience         |    answerable to the best theory
+                                   |
+  WHAT CHANGES
+    The boundary between SPECULATIVE METAPHYSICS and NATURAL SCIENCE
+    becomes a matter of DEGREE.
+    Ontological questions are decided, like scientific ones, by the
+    PRAGMATIC VIRTUES of the total system.
+    There is NO FIRST PHILOSOPHY standing outside science to certify
+    its foundations.
+                                   |
+  THE LABEL, AND WHY IT MATTERS
+    The section title is 'EMPIRICISM WITHOUT THE DOGMAS'.  The word
+    'without' does all the work: SUBTRACTION, NOT REPLACEMENT.
+    CALLING THIS AN INTERNAL REFORM IS SAFER THAN CALLING QUINE EITHER
+    A LOGICAL POSITIVIST OR THE UNIQUELY PURIFIED EMPIRICIST.
+  NEVER WRITE: 'Quine rejected empiricism.'
+
+
+ASCII MASTER FLOW - PANEL 27/42: THE 2018 FRAMING AND THE THREE MOVES
+------------------------------------------------------------------------------
+  THE PHRASE
+    'A METAPHYSICAL ARTICLE OF FAITH' is the 2018 QUESTION'S FRAMING.
+    IT IS NOT A VERIFIED VERBATIM QUINE QUOTATION.
+    DO NOT PLACE IT IN QUOTATION MARKS AS QUINE'S OWN FORMULA.
+                                   |
+  WHAT QUINE DOES SUPPLY - THREE CONNECTED MOVES
+    MOVE 1  THE EXPLICATION FAILS.  Kant's synthetic a priori
+            presupposes a workable analytic/synthetic boundary; the
+            circle of synonymy shows none is available.
+    MOVE 2  HOLISM.  Statements face experience as a corporate body,
+            so NO BELIEF IS A PRIORI BY NATURE.  Apparent apriority is
+            greater CENTRALITY in the web - a difference of DEGREE.
+    MOVE 3  NATURALISM.  There is no first-philosophy standpoint from
+            which a priori knowledge could be certified.  To assert it
+            is to take on trust what cannot be shown.
+                                   |
+  THE KANTIAN REPLY, AND THE REJOINDER
+    REPLY     transcendental conditions of experience are not
+              empirical hypotheses inside the web, so revisability does
+              not reach them.  Strawson's descriptive reading of Kant
+              gives this some support.
+    REJOINDER that reasserts precisely the privileged non-empirical
+              status in question.
+  VERDICT: Quine defeats a SHARP a priori/a posteriori boundary; a
+  gradient of entrenchment survives; the framework question stays open.
+
+
+ASCII MASTER FLOW - PANEL 28/42: ONTOLOGICAL COMMITMENT - BOUNDED ENRICHMENT
+------------------------------------------------------------------------------
+  SOURCE: 'ON WHAT THERE IS', Review of Metaphysics, 1948.
+  NOT 'TWO DOGMAS'.
+                                   |
+  THE CRITERION, STEP BY STEP
+    1  REGIMENT the accepted theory into perspicuous QUANTIFICATIONAL
+       FORM.
+    2  READ OFF the entities that must lie in the RANGES OF THE BOUND
+       VARIABLES for the theory to be TRUE.
+    3  THOSE are the theory's ONTOLOGICAL COMMITMENTS.
+    4  'TO BE IS TO BE THE VALUE OF A BOUND VARIABLE' is the standard
+       SLOGAN.  Treat it as a canonical summary, not as a guaranteed
+       verbatim sentence.
+                                   |
+  FOUR CAUTIONS - EACH IS A MARK
+    1  A criterion of COMMITMENT, not a rule for CHOOSING an ontology.
+    2  NOT surface word-counting: names can be PARAPHRASED AWAY, and
+       apparently name-free quantification can carry commitment.
+    3  'TASTE FOR DESERT LANDSCAPES' = PARSIMONY, not nominalism at any
+       cost.  Quine accepts abstract entities where the best regimented
+       science INDISPENSABLY quantifies over them.
+    4  The INDISPENSABILITY ARGUMENT is associated with QUINE AND
+       PUTNAM together, not with the slogan alone.
+                                   |
+  THE OBJECTION, CONCEDED BY DESIGN
+    Rival PARAPHRASES display different commitments -> the criterion is
+    applied AFTER theory and regimentation are chosen.  It AUDITS; it
+    does not CHOOSE.
+
+
+ASCII MASTER FLOW - PANEL 29/42: RADICAL TRANSLATION - THE EVIDENCE AND THE TERMS
+------------------------------------------------------------------------------
+  SOURCE: WORD AND OBJECT, 1960, CH. 2.  Epigraph: NEURATH'S BOAT.
+  THE SITUATION: a field linguist enters a community whose language has
+  no known relation to any other.  NO dictionary.  NO bilingual
+  informant.  NO shared script.  The only evidence is WHAT SPEAKERS ARE
+  EXPOSED TO and WHAT THEY ASSENT TO OR DISSENT FROM.
+                                   |
+  THE EXACT PRINTED SUBTERMS - EACH IS A DISTINCT DEVICE
+    STIMULUS MEANING      the class of stimulations that would prompt
+                          ASSENT to a sentence, paired with the class
+                          that would prompt DISSENT
+    OCCASION SENTENCE     assent commanded only when FRESHLY PROMPTED
+                          ('Gavagai', 'It's raining')
+    STANDING SENTENCE     assent PERSISTS without prompting
+                          ('Copper conducts electricity')
+    OBSERVATION SENTENCE  an occasion sentence whose stimulus meaning
+                          is CONSTANT ACROSS SPEAKERS of the community
+                          - THE ONLY PLACE TRANSLATION IS SECURE
+    ANALYTICAL            the linguist's posited segmentation of native
+    HYPOTHESES            sentences into words and grammatical
+                          apparatus, projected BEYOND the observational
+                          base.  THESE ARE NOT DETERMINED BY ANY
+                          EVIDENCE.
+                                   |
+  STATUS: BOUNDED ENRICHMENT.  Taught in full; used only AFTER the
+  two-dogmas and holism burden is discharged.
+
+
+ASCII MASTER FLOW - PANEL 30/42: GAVAGAI - THE NINE-STEP ARGUMENT
+------------------------------------------------------------------------------
+   1  A rabbit runs past; the native utters 'GAVAGAI'.  The linguist
+      notes assent under rabbit-stimulation and records 'RABBIT'.
+   2  The SAME stimulus meaning is equally compatible with
+        'UNDETACHED RABBIT-PARTS' - wherever a rabbit is, they are
+        'A TEMPORAL STAGE OF A RABBIT' - likewise co-extensive
+        'RABBITHOOD' - an instantiation of the universal
+        'IT'S RABBITING' - a feature-placing sentence with NO OBJECT
+   3  Could he simply ASK, 'is this gavagai the same as that one?'
+      NO.  That question requires him to have ALREADY TRANSLATED the
+      IDENTITY PREDICATE, the articles, plurals and quantifiers - the
+      entire APPARATUS OF INDIVIDUATION, which differs across languages
+      and is EXACTLY WHAT IS IN DISPUTE.
+   4  Any evidence he collects can be ACCOMMODATED by COMPENSATING
+      ADJUSTMENTS: a different translation of 'gavagai' offset by a
+      different translation of 'same'.  The two manuals predict
+      IDENTICAL behaviour throughout.
+   5  THEREFORE INSCRUTABILITY OF REFERENCE: behavioural evidence does
+      not uniquely determine whether a term refers to rabbits,
+      undetached rabbit parts or rabbit stages.
+   6  Extending upward from TERMS to SENTENCES, rival ANALYTICAL
+      HYPOTHESES generate manuals that agree on ALL observation
+      sentences yet translate theoretical and non-observational
+      sentences into NON-EQUIVALENT English.
+   7  THEREFORE INDETERMINACY OF TRANSLATION: incompatible manuals can
+      fit the total behavioural evidence without a further
+      meaning-fact selecting one.
+   8  THEREFORE there are no determinate MEANINGS as entities; SYNONYMY
+      has no behavioural anchor; and DOGMA ONE'S KEY NOTION IS LEFT
+      WITHOUT FOUNDATION.  Gavagai is the CONSTRUCTIVE COMPLETION of
+      'Two Dogmas'.
+   9  ONTOLOGICAL RELATIVITY is the broader thesis that reference is
+      specified RELATIVE TO A BACKGROUND THEORY.  Keep it distinct from
+      the 1948 criterion of commitment.
+
+
+ASCII MASTER FLOW - PANEL 31/42: TAXONOMY CONTROL - FOUR DOCTRINES, FOUR UNITS
+------------------------------------------------------------------------------
+  DOCTRINE                  | UNIT AT ISSUE     | CLAIM
+  --------------------------+-------------------+-------------------------
+  RADICAL TRANSLATION       | method/situation  | translation built from
+                            |                   | publicly available
+                            |                   | evidence with no prior
+                            |                   | dictionary
+  --------------------------+-------------------+-------------------------
+  INDETERMINACY OF          | sentences /       | incompatible manuals can
+  TRANSLATION               | MANUALS           | preserve the TOTAL
+                            |                   | evidence
+  --------------------------+-------------------+-------------------------
+  INSCRUTABILITY OF         | SUB-SENTENTIAL    | reference can vary under
+  REFERENCE                 | TERMS             | compensating changes in
+                            |                   | the individuation
+                            |                   | apparatus
+  --------------------------+-------------------+-------------------------
+  ONTOLOGICAL RELATIVITY    | FRAMEWORKS        | reference is fixed only
+                            |                   | RELATIVE TO a background
+                            |                   | theory
+  ==============================================================
+  KEEP THE 1948 CRITERION OUT OF THIS TABLE.  It asks what a REGIMENTED
+  THEORY QUANTIFIES OVER.  Relativity asks RELATIVE TO WHAT reference
+  itself is fixed.  Two questions, two dates, two jobs.
+  TRAP: using 'indeterminacy' and 'inscrutability' interchangeably.
+
+
+ASCII MASTER FLOW - PANEL 32/42: OBJECTIONS TO INDETERMINACY, AND THE PREMISES
+------------------------------------------------------------------------------
+  THE PREMISES - STATE THEM; EVERY OBJECTION ENTERS HERE
+    P1  BEHAVIOURISM ABOUT THE EVIDENCE.  Quine's own formulation: in
+        psychology one may or may not be a behaviourist, but IN
+        LINGUISTICS ONE HAS NO CHOICE, since language is learned wholly
+        from publicly observable behaviour.
+    P2  THE EVIDENTIAL STEP.  The move from total behavioural
+        equivalence to 'NO FURTHER FACT' is a SUBSTANTIVE QUINEAN
+        COMMITMENT, not a neutral consequence every holist accepts.
+    P3  NATURALISM.  There is no first-philosophy standpoint from which
+        to certify meanings; physics fixes what facts there are.
+                                   |
+  OBJECTION -> REPLY -> RESIDUAL
+    CHOMSKY 1969  indeterminacy is merely ORDINARY UNDERDETERMINATION;
+      if that does not make physics factless, why translation?
+      REPLY: in physics there IS a fact our theories imperfectly track;
+      in translation there is NOTHING BEYOND DISPOSITIONS to verbal
+      behaviour for a manual to be right about.
+      RESIDUAL: whether the ASYMMETRY can be defended without begging
+      the question is THE central dispute.  NAME IT AND TAKE A SIDE.
+    SEARLE; EVANS  applied reflexively it entails that I DO NOT
+      DETERMINATELY KNOW WHAT I MEAN by my own words.
+      REPLY: Quine accepts a version - at home we ACQUIESCE IN OUR
+      MOTHER TONGUE; the first-person case has no privileged status,
+      only a DEFAULT one.   RESIDUAL: many find the bullet too large.
+    CHOMSKY, INNATENESS  universal grammar would cut down the space of
+      admissible manuals.
+      REPLY: the residual manuals would still be behaviourally
+      equivalent; innateness RESTRICTS CANDIDATES, it does not CREATE A
+      FACT OF THE MATTER.   RESIDUAL: genuinely open.
+    DAVIDSON 1973  radical INTERPRETATION shows more determinacy once
+      CHARITY and a TRUTH-THEORY are built in.
+      REPLY/POSITION: Davidson ACCEPTS indeterminacy but confines it to
+      something like a choice of MEASUREMENT SCALE - Fahrenheit against
+      Celsius - real but harmless.  THE MOST INFLUENTIAL SOFTENING.
+
+
+ASCII MASTER FLOW - PANEL 33/42: ONTOLOGICAL RELATIVITY AND NATURALIZED EPISTEMOLOGY
+------------------------------------------------------------------------------
+  DATES FIRST: DEWEY LECTURES 1968; VOLUME 1969, WHICH ALSO CONTAINS
+  'EPISTEMOLOGY NATURALIZED'.  NEVER DATE EITHER TO 1951.
+                                   |
+  ONTOLOGICAL RELATIVITY
+    THESIS   what a term refers to is settled only RELATIVE TO a
+             background theory or translation manual.
+    ROUTE    inscrutability generalised: to specify the reference of a
+             term you must use ANOTHER language, whose reference is
+             fixed only relative to a further background - a REGRESS.
+    STOPPING in practice we ACQUIESCE IN OUR MOTHER TONGUE and take its
+    POINT    reference at face value.  A DEFAULT, not a privilege.
+                                   |
+  NATURALIZED EPISTEMOLOGY
+    THESIS   epistemology becomes a chapter of empirical psychology:
+             the scientific study of how MEAGRE SENSORY INPUT yields
+             TORRENTIAL THEORETICAL OUTPUT.
+    MOTIVE   the collapse of the Cartesian and Carnapian foundational
+             projects.  If the world cannot be RATIONALLY
+             RECONSTRUCTED from experience, the remaining question is
+             HOW THE CONSTRUCTION IS IN FACT ACHIEVED.
+    IMAGE    NEURATH'S BOAT - we are sailors who must rebuild the ship
+             ON THE OPEN SEA; there is NO DRY DOCK.
+             The epigraph of Word and Object, 1960.
+                                   |
+  THE NORMATIVITY OBJECTION
+    A causal story about how belief is ACQUIRED appears to replace
+    'What OUGHT one to believe?' with 'How is belief PRODUCED?'
+  QUINE'S REPLY
+    Prediction, truth-seeking and method-selection can be studied and
+    improved FROM WITHIN science - a naturalized normative ENGINEERING
+    of inquiry.
+  THE RESIDUAL - CONCEDE IT
+    Continuity with science BLOCKS FIRST PHILOSOPHY but does not by
+    itself DERIVE epistemic norms from causal facts.
+
+
+ASCII MASTER FLOW - PANEL 34/42: THE QUINE CRITICISM LEDGER - WRITE THE THIRD COLUMN
+------------------------------------------------------------------------------
+  OBJECTION                   | REPLY                  | RESIDUAL
+  ----------------------------+------------------------+--------------------
+  GRICE AND STRAWSON 1956:    | the PHILOSOPHICAL WORK | a live debate about
+  pre-theoretically clear; we | done by the            | STANDARDS OF
+  CAN sort cases              | distinction collapses  | EXPLICATION
+                              | without a principled   |
+                              | ground                 |
+  ----------------------------+------------------------+--------------------
+  ANALYTICITY SEEMS REAL:     | he challenges its      | web-centrality is
+  'bachelors are unmarried'   | foundational           | not a full semantic
+  differs in KIND from        | EXPLICATION            | REPLACEMENT theory
+  'all swans are white'       |                        |
+  ----------------------------+------------------------+--------------------
+  REVISING LOGIC IS EXTREME:  | quantum logic:         | the LATER Quine
+  has anyone ever done it?    | 1936 formal proposal;  | (1970) is a poor
+                              | 1968 empirical claim   | witness for the
+                              |                        | EARLIER Quine
+  ----------------------------+------------------------+--------------------
+  HOLISM IS TOO EXTREME:      | logic and mathematics  | no statement is
+  if EVERYTHING is revisable, | revisable IN PRINCIPLE,| revisable BY
+  science has no fixed point  | held fixed in practice | NATURE, only by
+                              | by conservatism        | CHOICE
+  ----------------------------+------------------------+--------------------
+  NATURALIZATION LOSES        | method-selection and   | are truth-conducive
+  NORMATIVITY                 | prediction ENGINEERED  | norms EXPLAINED or
+                              | from within science    | merely ASSUMED?
+  ----------------------------+------------------------+--------------------
+  COMMITMENT DEPENDS ON       | correct - applied      | the criterion
+  REGIMENTATION               | AFTER theory and       | AUDITS; it does not
+                              | regimentation chosen   | CHOOSE
+  ----------------------------+------------------------+--------------------
+  INDETERMINACY COLLAPSES     | translation differs:   | the asymmetry
+  INTO ORDINARY               | nothing beyond         | PRESUPPOSES the
+  UNDERDETERMINATION (CHOMSKY)| behavioural            | naturalism it is
+                              | dispositions           | meant to support
+
+
+ASCII MASTER FLOW - PANEL 35/42: QUINE AND LATER WITTGENSTEIN - BOUNDED COMPARISON
+------------------------------------------------------------------------------
+  TWO TRADITIONS, NO DIRECT INFLUENCE, A STRIKING CONVERGENCE.
+  AXIS              | QUINE                  | LATER WITTGENSTEIN
+  ------------------+------------------------+-------------------------
+  TARGET            | the MUSEUM MYTH of     | the AUGUSTINIAN PICTURE
+                    | meaning - words as     | - words as names of
+                    | labels on determinate  | objects
+                    | mental objects         |
+  ------------------+------------------------+-------------------------
+  POSITIVE ACCOUNT  | STIMULUS MEANING for   | meaning is USE within a
+                    | suitable occasion      | language-game and a form
+                    | sentences; theoretical | of life
+                    | language is HOLISTIC   |
+  ------------------+------------------------+-------------------------
+  HOLISM            | the unit is THE WHOLE  | a word has meaning only
+                    | OF SCIENCE             | within the PRACTICE
+  ------------------+------------------------+-------------------------
+  ANTI-FOUNDATION-  | NEURATH'S BOAT -       | bedrock where 'MY SPADE
+  ALISM             | rebuild at sea, no dry | IS TURNED' (PI 217)
+                    | dock                   |
+  ------------------+------------------------+-------------------------
+  REJECTION OF THE  | indeterminacy permits  | the private-language
+  PRIVATE           | nothing beyond public  | argument shows nothing
+                    | behaviour to fix       | private CAN fix meaning
+                    | meaning                |
+  ------------------+------------------------+-------------------------
+  METHOD            | epistemology           | philosophy as THERAPY -
+                    | NATURALISED            | description, not theory
+  ------------------+------------------------+-------------------------
+  WHERE THEY PART   | Quine REFORMS language | Wittgenstein DESCRIBES
+  - DECISIVELY      | - a SCIENTIFIC account | it and forbids theory:
+                    | and REGIMENTATION into | ordinary language 'IS IN
+                    | canonical notation     | ORDER AS IT IS' (PI 98)
+  ==============================================================
+  USE CAUTIOUSLY.  The overlap pressures PRIVATE or MENTALISTIC fixers
+  of meaning.  IT DOES NOT ESTABLISH ONE SHARED POSITIVE THEORY.
+  Wittgenstein's own doctrines belong to TOPIC 08.
+
+
+ASCII MASTER FLOW - PANEL 36/42: STRAWSON - DESCRIPTIVE AGAINST REVISIONARY METAPHYSICS
+------------------------------------------------------------------------------
+  DESCRIPTIVE                        | REVISIONARY
+    describes the ACTUAL structure   |   proposes a BETTER structure to
+    of our thought about the world   |   replace the actual one
+    METHOD: CONNECTIVE ANALYSIS -    |   METHOD: RECONSTRUCTION from a
+    show how concepts hang together; |   preferred set of simples
+    no concept analysed away into a  |
+    privileged base                  |
+    STRAWSON'S OWN EXAMPLES:         |   STRAWSON'S OWN EXAMPLES:
+      ARISTOTLE, KANT                |     DESCARTES, LEIBNIZ, BERKELEY
+                                   |
+  THE RELATION - NOT MERE OPPOSITION
+    REVISIONARY METAPHYSICS IS IN THE SERVICE OF THE DESCRIPTIVE.  It is
+    instructive precisely because it shows WHAT IS LOST when a feature
+    of the actual scheme is dropped.
+                                   |
+  WHAT THE PROGRAMME COMMITS STRAWSON TO
+    (a) conclusions concern OUR CONCEPTUAL SCHEME, not a theory-free
+        proof of mind-independent reality
+    (b) the arguments are TRANSCENDENTAL IN FORM
+    (c) an empiricist may ACCEPT the whole of Individuals as excellent
+        CONCEPTUAL GEOGRAPHY while DENYING that it settles what exists.
+        THIS IS THE STRONGEST REPLY AVAILABLE TO THE EMPIRICIST, AND
+        CONCEDING IT STRENGTHENS AN ANSWER.
+                                   |
+  OBJECTION -> REPLY -> COST
+    CIRCULAR OR CONSERVATIVE: it protects the scheme used to state its
+    own conditions -> the task is avowedly INTERNAL; radical revision
+    and scepticism must BEGIN within some functioning scheme ->
+    DESCRIPTION ALONE CANNOT PROVE THE SCHEME UNIQUELY CORRECT.
+  SOURCE: Individuals, 1959.  The phrase is in the SUBTITLE.
+  FATAL ERROR: two definitions with NO EXAMPLES.
+
+
+ASCII MASTER FLOW - PANEL 37/42: STRAWSON - BASIC PARTICULARS, THE FIVE-STEP ARGUMENT
+------------------------------------------------------------------------------
+  THE QUESTION - ASK IT PROPERLY FIRST
+    Of all the PARTICULARS we can identify and refer to - tables,
+    persons, events, sounds, sense-data, numbers - which are
+    ONTOLOGICALLY BASIC IN OUR CONCEPTUAL SCHEME, i.e. which are the
+    items on which THE POSSIBILITY OF IDENTIFICATION AND REFERENCE IN
+    GENERAL depends?
+                                   |
+  THE ARGUMENT  (Individuals, 1959, PART I)
+   1  To IDENTIFY a particular we must DISTINGUISH it from other
+      particulars and RE-IDENTIFY it across time.
+   2  Re-identification requires a SINGLE, UNIFIED SPATIO-TEMPORAL
+      FRAMEWORK - one space and one time in which all particulars have
+      locations.
+   3  MATERIAL BODIES are ENDURING, PUBLICLY OBSERVABLE occupants of
+      that framework and provide the standard anchors for
+      DEMONSTRATIVE identification and re-identification.
+      CAUTION: the framework is NOT a psychological image BUILT OUT OF
+      bodies.  It is a CONDITION of our scheme.
+   4  Many DEPENDENT particulars - experiences, events, sounds - are
+      identified THROUGH their relations to PERSONS, BODIES, PLACES and
+      TIMES.
+   5  THEREFORE MATERIAL BODIES ARE BASIC: presupposed by the
+      identification of everything else, and not themselves
+      identifiable only by reference to something more basic.
+                                   |
+  SUPPORTING - REFERENCE AND PREDICATION
+    Basic particulars are basic OBJECTS OF REFERENCE.  The
+    subject-predicate structure of ordinary discourse depends on
+    IDENTIFYING something and then PREDICATING something of it.
+    FEATURE-PLACING expressions such as 'It is raining here' need not
+    identify a particular in full subject-predicate form, but they DO
+    NOT REPLACE the framework through which particular-reference
+    becomes possible.
+  TRAP: 'basic particulars = atoms or ultimate simples'.  They are
+  MACROSCOPIC bodies and PERSONS.  NOT microphysical.
+
+
+ASCII MASTER FLOW - PANEL 38/42: WHY SENSE-DATA FAIL, AND THE PURELY AUDITORY WORLD
+------------------------------------------------------------------------------
+  THE EMPIRICIST'S CANDIDATE: SENSE-DATA AS THE BASIC PARTICULARS
+    (Russell's logical constructions; Carnap's Aufbau; phenomenalism)
+  THREE DEFECTS, EACH INDEPENDENTLY FATAL
+    DEFECT 1  PRIVATE      -> cannot ground PUBLIC identification
+    DEFECT 2  MOMENTARY    -> cannot be RE-IDENTIFIED
+    DEFECT 3  NON-SPATIAL  -> lack the spatial relations needed to
+                              CONSTITUTE a framework at all
+    THEREFORE material bodies are BASIC - NOT as a metaphysical
+    preference but as A CONDITION OF THE POSSIBILITY OF REFERENCE.
+                                   |
+  THE PURELY AUDITORY WORLD - THE REMOVAL TEST
+    SET-UP    a scheme containing ONLY sounds: pitch, timbre, loudness
+              and TEMPORAL SUCCESSION.  No space.  No bodies.
+    PROBLEM   objective re-identification needs to distinguish 'the
+              SAME particular encountered again' from 'a NEW particular
+              exactly resembling the first'.  Qualitative similarity
+              alone cannot do this.
+    RESULT    a world of pitch and succession alone does NOT YET
+              support robust objective re-identification.
+              STRAWSON'S DISCUSSION DOES NOT SIMPLY PROVE AN AUDITORY
+              SCHEME IMPOSSIBLE.  Objective reference would require an
+              ANALOGUE OF SPACE - often reconstructed through a
+              continuously available MASTER-SOUND - that can organise
+              sounds into a public-like framework.
+    SUPPORTS  the need for a framework performing the INDIVIDUATING
+              ROLE that space performs in OUR scheme.
+    DOES NOT  that every conceivable scheme must contain visual and
+    PROVE     tactile material bodies EXACTLY LIKE OURS.
+                                   |
+  WHAT KIND OF ARGUMENT THIS IS
+    NOT a proof of the external world (contrast Moore).
+    NOT a causal or scientific claim about perception.
+    TRANSCENDENTAL IN FORM, in a Kantian spirit: from our PRACTICE of
+    objective identification to the CONDITIONS of that practice.
+    CONCLUSION about the STRUCTURE OF OUR CONCEPTUAL SCHEME.
+  THIS PANEL IS THE EVALUATIVE CORE OF 2020 Q3(b).
+
+
+ASCII MASTER FLOW - PANEL 39/42: STRAWSON - PERSONS AS A PRIMITIVE CONCEPT
+------------------------------------------------------------------------------
+  THE THREE POSITIONS ON THE TABLE  (Individuals, 1959, CH. 3)
+    CARTESIAN DUALISM      two substances; experiences belong to an
+                           IMMATERIAL SOUL
+    NO-OWNERSHIP /         experiences are CAUSALLY DEPENDENT on a body
+    NO-SUBJECT THEORY      but are NOT literally POSSESSED by a person
+    PERSON AS PRIMITIVE    the concept is LOGICALLY PRIMITIVE - not
+                           analysable into body plus mind
+                                   |
+  THE PREDICATE MATRIX - BOTH CLASSES ON ONE SUBJECT
+    M-PREDICATES (material)   also applicable to MERE BODIES
+      'weighs 70 kg' | 'is in the kitchen' | 'has brown hair'
+    P-PREDICATES (personal)   ascribing STATES OF CONSCIOUSNESS
+      'is in pain' | 'is thinking of Vienna' | 'believes it will rain'
+      | 'intends to leave'
+    A PERSON IS NOT A BODY TO WHICH A MIND IS ATTACHED.  It is a single
+    concept of an entity that is EQUALLY the subject of both.
+    'THE CONCEPT OF A PERSON IS LOGICALLY PRIOR TO THAT OF AN
+     INDIVIDUAL CONSCIOUSNESS.'
+                                   |
+  THE ARGUMENT - SELF-ASCRIPTION REQUIRES OTHER-ASCRIPTION
+   1  I ascribe experiences to MYSELF: 'I am in pain.'
+   2  A NECESSARY CONDITION is that I can ascribe predicates of the
+      same general kinds to OTHERS.
+   3  Others are identified as EMBODIED SUBJECTS, and psychological
+      predicates are other-ascribed on PUBLICLY AVAILABLE BEHAVIOURAL
+      AND SITUATIONAL CRITERIA.  NOT a simple inference from bodily
+      movements to a hidden Cartesian mind.
+   4  But P-predicates must ALSO be self-ascribable WITHOUT
+      OBSERVATION.
+   5  This DUAL CHARACTER belongs to PREDICATES OF PERSONS.
+   6  THEREFORE the concept of a person is LOGICALLY PRIMITIVE.  This
+      is CONCEPTUAL PRIORITY, not the postulation of a third Cartesian
+      substance.
+                                   |
+  THE TWO-WAY IMPOSSIBILITY - WHY IT IS AN ARGUMENT, NOT A STIPULATION
+    From a PURE CONSCIOUSNESS you never reach public criteria.
+    From a PURE BODY you never reach ascription without observation.
+    ONLY A SUBJECT THAT IS ALREADY BOTH SATISFIES BOTH CONDITIONS.
+
+
+ASCII MASTER FLOW - PANEL 40/42: THE TWO RIVALS DESTROYED, AND THE EXACT VERDICT
+------------------------------------------------------------------------------
+  CARTESIAN DUALISM - TWO FAILURES
+    IDENTIFICATION  how do we ever IDENTIFY or RE-IDENTIFY an
+                    immaterial soul?  We cannot locate it in space, and
+                    identification requires ONE framework.
+    INTERACTION     once the substances are separated, their commerce
+                    becomes unintelligible.
+    STRAWSON'S MOVE  he does NOT ask how mind and body interact; he
+    shows that THE QUESTION PRESUPPOSES A PRIOR UNITY THAT NEITHER TERM
+    CAN SUPPLY.
+                                   |
+  NO-OWNERSHIP - SELF-REFUTATION IN ONE MOVE
+    To state the thesis the theorist must specify WHICH experiences.
+    He says: 'ALL THE EXPERIENCES THAT ARE HAD BY THIS BODY'.
+    'HAD BY' IS A POSSESSIVE RELATION.  Contingent causal dependence
+    cannot replace it, because dependence does not single out THESE
+    experiences rather than any others.
+    HE THEREFORE RECONSTRUCTS THE PERSONAL FRAMEWORK HE SET OUT TO
+    AVOID.  (The view is traced through SCHLICK and
+    Wittgenstein-influenced writers, and RECONSTRUCTED AND CRITICISED
+    by Strawson.)
+                                   |
+  THE EXACT VERDICT - WRITE THIS, NOT MORE
+    DUALISM       treats independently identifiable mind and body as
+                  conceptually prior.  Strawson's analysis UNDERCUTS
+                  THAT STARTING POINT; it does NOT by itself prove
+                  every metaphysical dualist thesis false.
+    NO-OWNERSHIP  eliminates the person while relying on a UNIQUELY
+                  RELEVANT BODY and a class of experiences; it
+                  RECONSTRUCTS the framework it tried to avoid.
+    OVERALL       the mind-body problem is DISSOLVED rather than
+                  SOLVED: the decomposition that generates it is
+                  ILLICIT.
+    THE COST      'PRIMITIVE' MARKS THE END OF ANALYSIS RATHER THAN AN
+                  EXPLANATION of the psychophysical unity - legitimate
+                  for descriptive metaphysics, unsatisfying for anybody
+                  who wanted the problem SOLVED.
+  TRAP: refuting ONLY dualism.  The chapter turns on the SECOND rival.
+
+
+ASCII MASTER FLOW - PANEL 41/42: THE ANSWER-WRITING SPINE, PART ONE
+------------------------------------------------------------------------------
+  STEP 1  DECIDE THE OWNER FROM THE STEM
+    two dogmas | analytic | synthetic | reductionism | web of belief |
+    affirm any sentence | a priori as article of faith | empiricism
+    without the dogmas ................................... QUINE
+    basic particulars | material bodies | spatio-temporal | person |
+    primitive concept | mind-body dualism | descriptive
+    metaphysics .......................................... STRAWSON
+    'critique of empiricism' with no further signal ...... QUINE LEADS;
+      Strawson enters as ONE bounded paragraph, never as co-author.
+                                   |
+  STEP 2  DECODE THE DIRECTIVE - AND AVOID ITS FATAL ERROR
+    EXPLAIN THE THEORY OF BASIC PARTICULARS -> an ARGUMENT FROM
+      IDENTIFICATION.  FATAL: listing what a basic particular is.
+    DISCUSS THE THEORY OF PERSONS -> the PRIMITIVENESS argument against
+      TWO rivals.  FATAL: refuting only dualism.
+    EVALUATE THE ROLE OF SPATIO-TEMPORAL THINKING -> REMOVE space and
+      see what fails.  FATAL: describing space and time.
+    COMMENT ON THE QUOTATION -> the CONDITIONAL CLAUSE is the doctrine;
+      modus tollens, then Neptune/Vulcan.  FATAL: quoting the first
+      half and calling it relativism.
+    EXAMINE THE ANALYTIC/SYNTHETIC DISTINCTION -> the failed
+      explications as a CHAIN.  FATAL: inferring from one missing
+      definition that nothing can be called analytic.
+    DISTINGUISH DESCRIPTIVE FROM REVISIONARY -> give STRAWSON'S OWN
+      EXAMPLES.  FATAL: two definitions with no examples.
+    CRITICALLY / EVALUATE / DO YOU AGREE -> a GRADED VERDICT.
+      FATAL: a balanced summary with no ruling.
+
+
+ASCII MASTER FLOW - PANEL 42/42: THE ANSWER-WRITING SPINE, PART TWO
+------------------------------------------------------------------------------
+  STEP 3  RUN THE SPINE
+    QUINE     dogma 1 (circle) -> dogma 2 (reductionism) -> holism
+              (web + both quotations) -> Duhem-Quine (modus tollens,
+              Neptune/Vulcan) -> limits (minimum mutilation, 1970) ->
+              verdict (empiricism reformed, not abandoned)
+    STRAWSON  descriptive vs revisionary -> identification needs
+              re-identification needs ONE framework -> sense-data are
+              private, momentary, non-spatial -> MATERIAL BODIES BASIC
+              -> persons: M + P predicates on ONE thing ->
+              self-ascription requires other-ascription -> dualism AND
+              no-ownership both presuppose what they deny -> verdict
+                                   |
+  STEP 4  CLOSE WITH THE QUALIFICATION THAT LIFTS THE ANSWER
+    QUINE     the result is the FAILURE OF AN EXPLICATION, not the
+              claim that 'all bachelors are unmarried' is false.
+    STRAWSON  the result is about OUR CONCEPTUAL SCHEME; an empiricist
+              can accept the whole of Individuals as conceptual
+              geography while denying that it settles what exists.
+              CONCEDING THIS STRENGTHENS THE ANSWER.
+                                   |
+  FOUR CHEAP MARKS
+    cite 'Two Dogmas' to SECTION 6 | date the bound-variable slogan to
+    1948 | name GRICE alongside Strawson | quote the SUBTITLE of
+    Individuals
+  NEVER WRITE
+    'Quine rejected empiricism' | 'Strawson defended empiricism' |
+    'Duhem and Quine hold the same thesis' | 'Quine denied meaning
+    tout court' | 'Putnam/Birkhoff' | 'basic particulars are atoms' |
+    'person is primitive = dualism'
+==============================================================================
+END OF ASCII MASTER FLOW DIAGRAM - 42 PANELS
+==============================================================================
+```
+
+## 12. 2026 ownership update and exact demand
 
 **2026 Q3(a), 20 marks:** “Why are states of consciousness ascribed to anything at all and why are they ascribed to the same things to which we also ascribe physical properties? How does Strawson answer these questions in his work *Individuals*?”
 
 This is directly owned by Strawson's theory of persons. The answer must connect the possibility of P-predication to one identifiable subject of both physical and psychological predicates; explain the asymmetry of self- and other-ascription; and show why an independently identifiable Cartesian ego cannot ground the practice. It is not an invitation to replace *Individuals* with reactive attitudes or a generic mind-body essay.
 
-## 12. Additional precision controls
+## 13. Additional precision controls
 
 ### Quine
 
@@ -709,7 +1961,7 @@ This is directly owned by Strawson's theory of persons. The answer must connect 
 - **Presupposition caution:** the meaningful sentence-type does not become meaningless. Strawson's original treatment concerns an unsuccessful use that ordinarily fails to make a true-or-false assertion; later theories vary.
 - **Reactive attitudes:** *Freedom and Resentment* is source-recognized bounded enrichment, not printed core or independent PYQ ownership here.
 
-## 13. Exact owned PYQs through 2026
+## 14. Exact owned PYQs through 2026
 
 | Year | Part | Marks | Primary demand |
 |---|---|---:|---|
@@ -726,7 +1978,7 @@ This is directly owned by Strawson's theory of persons. The answer must connect 
 
 No Topic 11 question was primary-owned in 2022. Russell's 2023 Q4(b) and related description questions remain Topic 06-owned; Logical Positivism questions remain Topic 07-owned even where Quine supplies criticism.
 
-## 14. Closed-book register
+## 15. Closed-book register
 
 1. State the **two-project firewall** before comparison.
 2. Reproduce the analyticity circle: meaning -> synonymy -> definition/interchangeability/necessity/semantical rules -> circularity or residual unclarity.
@@ -738,7 +1990,7 @@ No Topic 11 question was primary-owned in 2022. Russell's 2023 Q4(b) and related
 8. State the Russell-Strawson split as asserted existence/uniqueness versus presupposition in use, without calling the sentence meaningless.
 9. End comparative answers with a layered verdict, not a fabricated Quine-Strawson school.
 
-## 15. Recall prompts
+## 16. Recall prompts
 
 - Can you explain why definition cannot create cognitive synonymy by stipulation alone?
 - Can you derive `not-(H and A)` without pretending that evidence names the guilty conjunct?

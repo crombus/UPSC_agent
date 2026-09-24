@@ -1,15 +1,14 @@
 # Quine and Strawson — Solved Answer-Writing Workbook and Toolkit
 
-        > Every answer is independent learner practice and never official UPSC answer keys.
-> Exact verified wording is used for the ten primary-owned PYQs through 2026. Cross-links do not inflate ownership.
+> Every model answer is independent learner practice and is never an official UPSC key. Exact verified wording is used for all ten primary-owned PYQs through 2026. Cross-links do not inflate ownership.
 
-## Demand map and timed bands
+## Demand map and locked timed bands
 
-| Marks | Suggested time | Working answer band | Required movement |
+| Marks | Suggested time | Locked answer band | Required movement |
 |---:|---:|---:|---|
-| 10 | 7–8 minutes | 150–300 words | define, derive, one qualification, verdict |
-| 15 | 10–11 minutes | 250–400 words | thesis, mechanism, evaluation, qualified close |
-| 20 | 14–15 minutes | 330–550 words | multi-limb argument, objection/reply, developed judgement |
+| 10 | 7–8 minutes | 150–200 words | define, derive, qualify, verdict |
+| 15 | 10–11 minutes | 250–300 words | thesis, mechanism, evaluation, qualified close |
+| 20 | 14–15 minutes | 340–400 words | multi-limb argument, objection/reply, developed judgement |
 
 ## Reusable answer spine
 
@@ -24,275 +23,377 @@ Do not merge Quine's naturalized holism with Strawson's descriptive metaphysics.
 
 **Question:** How does Strawson explain the concept of person in his philosophy? Discuss.
 
-**Demand decoding:** Cover logically primitive concept, M-predicates, self-ascription requires other-ascription; close with blocks Cartesian dualism.
+### Demand decoding
 
-**Time guidance:** 7–8 minutes, including roughly one minute for demand decoding and a final qualification check.
-
-**Marks logic:** The answer earns content credit only if each printed limb is developed; terminology, causal connection, criticism and a qualified verdict are weighted above decorative quotation.
+| Element | Requirement |
+|---|---|
+| Directive | "How does he **explain**" — an argument is required, not a definition |
+| Core issue | That "person" is logically primitive, and why that follows from the way P-predicates work |
+| Scope boundary | Ten marks: the predicate matrix, the argument, both rivals in one sentence each |
+| Ideal thesis | A person is a single subject of two predicate-classes, and the concept cannot be assembled from either half |
+| Non-negotiables | M- and P-predicates with examples; "without observation"; both dualism and no-ownership named |
 
 ### Timed independent model answer
 
-**Thesis.** Strawson explains the person not as a compound of mind and body but as a **logically primitive concept** - the concept of a single subject to which we ascribe both bodily and mental predicates, and which is presupposed by, rather than assembled from, the concepts of a pure ego and a pure body (*Individuals*, 1959, ch. 3).
+**Thesis.** Strawson explains the person not as a compound of mind and body but as a **logically primitive** concept — the concept of a single subject to which both bodily and mental predicates are ascribed, presupposed by rather than assembled from the concepts of mind and body (*Individuals*, **1959**, ch. 3).
 
-**The predicate matrix.** A person is that to which we ascribe both **M-predicates** - properties we also ascribe to mere material bodies ("weighs 70 kg", "is in the corner") - and **P-predicates** - states of consciousness and action ascribable only to persons ("is in pain", "believes that p", "is going for a walk"). The mark of a P-predicate is its **asymmetry**: it is ascribed to others on the basis of observed behaviour, but to oneself without observation or criteria.
+**The predicate matrix.** ✅ A person is that to which we ascribe both **M-predicates**, also true of mere bodies and **P-predicates**, ascribing states of consciousness. Both classes belong to **one** thing.
 
-**The argument (self-ascription requires other-ascription).** I can ascribe P-predicates to myself only if the same predicates are ascribable to others; to ascribe them to others I must identify others as single subjects of both M- and P-predicates. Hence the concept of such a subject - a person - is presupposed by the very possibility of self-ascription, and is therefore primitive.
+**The argument.** I can self-ascribe P-predicates only if the same predicates are ascribable to **others**; others are identified as **embodied subjects** on public behavioural criteria; yet the same predicates are self-ascribed **without observation** of my own behaviour. ⚠️ That dual character cannot be built from a pure consciousness, which never reaches public criteria, or from a pure body, which never reaches unobserved self-ascription. Its subject must already be both.
 
-**Consequence.** This blocks Cartesian dualism (two independent substances could not be the single subject our predicate-practice requires, and other minds would become unknowable) and the no-ownership theory (which cannot state its own claim without covertly reintroducing ownership).
+**The two rivals.** This undercuts **Cartesian dualism**, which cannot re-identify an immaterial soul in the framework identification requires, and destroys the **no-ownership theory**, which must say "the experiences **had by** this body" and so restores the possession it denied.
 
-**Verdict.** The person concept is the indispensable middle term between mind and body; treating either as prior mislocates the foundation.
+**Qualification.** ⚠️ "Primitive" means conceptual priority within our scheme, not a third substance.
 
-**Measured model-answer words:** 248
+**Measured model-answer words:** 199
 
-**Qualification / criticism:** The answer explicitly contains the limiting move “blocks Cartesian dualism” and does not convert a conceptual argument into a stronger ontological or causal proof.
+### Why this earns marks
 
-**Coverage check:** Verified anchors: logically primitive concept; M-predicates; self-ascription requires other-ascription; blocks Cartesian dualism.
+**Answer-writing focus:** the directive is "how does he explain", so the six-step argument, not the definition, is the answer.
+
+**Exam-length execution — 10 marks, 150 to 200 words:** thesis one line; matrix two; argument four; rivals two; qualification one.
+
+- **Structure:** thesis → matrix → argument → two rivals → qualification.
+- **Doctrine:** primitiveness; the dual character of P-predicates.
+- **Evidence:** *Individuals* (1959) ch. 3; four predicate examples; the possessive "had by".
+- **Distinction:** conceptual priority against substance-postulation.
+- **Criticism:** implicit in the qualification, which blocks both the dualist and the materialist misreading.
 
 ## 2. 2018 Q2(c) · 15 marks
 
 **Question:** How does Quine show that the notion of a priori knowledge as discussed by Kant is 'a metaphysical article of faith'? Give reasons for your answer.
 
-**Demand decoding:** Cover analytic/synthetic boundary, confirmation is holistic, naturalism denies; close with Strawson's descriptive-metaphysics.
+### Demand decoding
 
-**Time guidance:** 10–11 minutes, including roughly one minute for demand decoding and a final qualification check.
-
-**Marks logic:** The answer earns content credit only if each printed limb is developed; terminology, causal connection, criticism and a qualified verdict are weighted above decorative quotation.
+| Element | Requirement |
+|---|---|
+| Directive | "How does he **show**" plus "give reasons" — a mechanism, then its grounds |
+| Core issue | That the phrase is the paper's framing and that Quine's case is three connected moves |
+| Scope boundary | Fifteen marks: three moves, one Kantian reply, one graded verdict; not a Kant exposition |
+| Ideal thesis | Explication failure, holism and naturalism jointly leave the a priori asserted rather than shown |
+| Non-negotiables | The framing flagged; the 1951 dating; "no statement is immune to revision"; the Kantian reply |
 
 ### Timed independent model answer
 
-**Thesis.** Quine's charge that Kant's *a priori* is "a metaphysical article of faith" is the conclusion of three connected moves: there is no principled analytic/synthetic boundary; confirmation is holistic, so no statement is a priori *by nature*; and naturalism denies any first-philosophy standpoint from which the a priori could be certified. Kant's a priori therefore rests on an undischarged assumption - an article of faith.
+**Thesis.** ⚠️ "A metaphysical article of faith" is the **question's framing**, not a verified verbatim Quine formula; what Quine supplies is a three-step case that a Kantian a priori is asserted rather than established.
 
-**Move 1 - the analytic/synthetic circle.** Kant's synthetic a priori presupposes a clear analytic/synthetic distinction. In "Two Dogmas of Empiricism" (*The Philosophical Review*, 1951) Quine shows analyticity can be explained only through synonymy, definition, interchangeability *salva veritate*, necessity and semantical rules - with circularity in the synonymy routes and residual unclarity about the general rule notion. The boundary cannot be drawn non-circularly, so the empiricist attempt to insulate a priori truth through analyticity loses its foundation; Kant's synthetic a priori is pressured by holism rather than refuted by definition alone.
+**Move one — the explication fails.** Kant's synthetic a priori presupposes a workable analytic/synthetic boundary. In "Two Dogmas of Empiricism" (*The Philosophical Review*, **1951**) Quine shows that analyticity can be explained only through **synonymy**, and synonymy only through **definition**, which records an antecedent synonymy; or **interchangeability *salva veritate***, which over-generates extensionally and requires a necessity-operator whose intelligibility rests on analyticity; or Carnap's **semantical rules**, which yield "analytic-in-L" without explaining the general notion. Every route returns to its starting point.
 
-**Move 2 - holism.** Because beliefs "face the tribunal of sense experience not individually but only as a corporate body" (the web of belief), *any* statement can be held true come what may, and none is immune to revision - even logic. Once the analytic-synthetic foundation fails, centrality explains differential practical revisability within the web; it does not redefine analyticity or apriority.
+**Move two — holism.** Because statements "face the tribunal of sense experience not individually but only as a corporate body", **any statement can be held true come what may, if we make drastic enough adjustments elsewhere**, and **no statement is immune to revision**. Apparent apriority is therefore greater **centrality** in the web — a difference of degree, not of kind.
 
-**Move 3 - naturalism.** Philosophy is continuous with science, not its a priori tribunal; there is no external vantage from which to guarantee a priori knowledge. To assert it is therefore to take on trust exactly what cannot be shown - "a metaphysical article of faith".
+**Move three — naturalism.** Philosophy is continuous with science and there is no first-philosophy standpoint from which a priori knowledge could be certified. To assert it is to take on trust what cannot be shown.
 
-**Objection and reply.** Kant can respond that transcendental conditions of experience are not empirical hypotheses inside the web, so holistic revisability does not touch them (Strawson's descriptive-metaphysics reading protects a framework role). Quine's rejoinder: that reply reasserts a privileged non-empirical status which is precisely the article of faith in question.
+**Objection and reply.** ❓ Kant may answer that transcendental conditions of experience are not empirical hypotheses inside the web, so revisability does not reach them — a reply Strawson's descriptive reading of Kant supports. Quine's rejoinder is that this reasserts precisely the privileged non-empirical status in dispute.
 
-**Verdict.** Quine succeeds against a *sharp* a priori/a posteriori boundary. A gradient of entrenchment explains why some commitments are harder to revise in practice; it neither restores nor redefines an analytic or Kantian a priori class. Whether *some* framework role escapes the web remains the live issue, kept separate from the Kant paper's own defence.
+**Verdict.** ⚠️ Quine defeats a **sharp** a priori/a posteriori boundary; what survives is a gradient of entrenchment, and whether some framework role escapes the web remains open.
 
-**Measured model-answer words:** 365
+**Measured model-answer words:** 276
 
-**Qualification / criticism:** The answer explicitly contains the limiting move “Strawson's descriptive-metaphysics” and does not convert a conceptual argument into a stronger ontological or causal proof.
+### Why this earns marks
 
-**Coverage check:** Verified anchors: analytic/synthetic boundary; confirmation is holistic; naturalism denies; Strawson's descriptive-metaphysics.
+**Answer-writing focus:** the question is about **Quine's** argument; Kant appears as its target and as one reply, never as an exposition.
+
+**Exam-length execution — 15 marks, 250 to 300 words:** thesis two lines; move one six; move two four; move three two; objection two; verdict two.
+
+- **Structure:** framing flagged → three moves → reply → graded verdict.
+- **Doctrine:** circle of explication; holism; naturalism.
+- **Evidence:** "Two Dogmas" (1951); both canonical sentences; the three failed routes.
+- **Distinction:** degree of entrenchment against difference in kind.
+- **Criticism:** the transcendental-conditions reply, reported as unsettled.
 
 ## 3. 2019 Q1(e) · 10 marks
 
 **Question:** Explain Quine’s arguments against synthetic-analytic distinction.
 
-**Demand decoding:** Cover Quine argues that the analytic/synthetic distinction, synonymy and interchangeability; close by explaining that agreed examples do not supply a non-circular criterion and that centrality explains revisability rather than analyticity.
+### Demand decoding
 
-**Time guidance:** 7–8 minutes, including roughly one minute for demand decoding and a final qualification check.
-
-**Marks logic:** Credit requires the circularity argument, the Grice-Strawson reply and a precise conclusion. Treating maximal centrality or entrenchment as Quine's new definition of analyticity loses conceptual-accuracy marks; centrality belongs only to the later explanation of differential practical revisability.
+| Element | Requirement |
+|---|---|
+| Directive | "Explain … arguments" — plural, so the chain must be reproduced |
+| Core issue | The circularity of every candidate explication, and the exact conclusion drawn |
+| Scope boundary | Ten marks: two classes, three routes, conclusion, one objection |
+| Ideal thesis | No non-circular explication is available, so the distinction cannot bear foundational weight |
+| Non-negotiables | The heart/kidney case; the necessity regress; "analytic-in-L"; Grice and Strawson |
 
 ### Timed independent model answer
 
-**Thesis.** Quine argues that the analytic/synthetic distinction cannot be drawn by any principled, **non-circular** criterion; every proposed explanation of "analytic" presupposes a notion from the same family. His conclusion is precise: not that no sentence *seems* analytic, but that there is no principled boundary marking a class of truths true *by meaning alone*.
+**Thesis.** Quine argues that the distinction admits no principled, **non-circular** criterion: every proposed explanation of "analytic" presupposes a notion from the same family.
 
-**The circle of meaning (reproduce it).** (1) Analytic truths divide into logical truths and those reducible to logical truths by substituting **synonyms**; so analyticity needs **synonymy**. (2) Synonymy might be explained by **definition** - but a good definition *reports* an antecedent synonymy, so this is circular. (3) Or by **interchangeability *salva veritate*** - but in an extensional language this over-generates (coextensive terms like "creature with a heart"/"creature with a kidney" interchange without being synonymous), and adding "necessarily" to fix it presupposes **necessity**, which for Quine is intelligible only *via* analyticity. (4) Or by **semantic rules** in an artificial language - but these merely list what is to *count* as analytic, without saying what analyticity *is*. Every road returns to the start.
+**The two classes.** ✅ Analytic truths were said to be either **logically true** or convertible into logical truths by substituting **synonyms**. The second class therefore needs synonymy.
 
-**Analysis.** The dogma survives only as an unexplained primitive. After its proposed foundation fails, centrality explains differential practical revisability within the web; it does not redefine analyticity or convert highly entrenched sentences into a replacement analytic class.
+**Three routes, three failures.** **Definition** merely *records* a synonymy already present in the language, except where frankly stipulative. **Interchangeability *salva veritate*** over-generates in an extensional language — "creature with a heart" and "creature with a kidney" interchange without being synonymous — and repairing it by demanding interchange within "necessarily" presupposes a **necessity** intelligible for Quine only through analyticity. **Semantical rules** deliver "analytic-in-L" by stipulation, leaving the general notion no clearer than what it was to explain.
 
-**Objection and reply.** Grice and Strawson ("In Defence of a Dogma", 1956) argue that a distinction in ordinary use with agreed examples is not discredited merely because no reductive definition is available. Quine's reply: agreed examples do not supply the *principled behavioural boundary* the epistemology of logical empiricism required.
+**Conclusion.** ⚠️ Not that "All bachelors are unmarried" is false, but that explications fail to secure the **sharp foundational boundary** logical empiricism required. What replaces it is **degrees of entrenchment** in the web of belief.
 
-**Verdict.** Quine wins where the distinction was load-bearing (the verification principle, the linguistic theory of necessity); the exact result is the failure of a non-circular criterion, not the denial that "bachelors are unmarried" looks analytic.
+**Objection and reply.** ❓ Grice and Strawson ("In Defence of a Dogma", **1956**) reply that a distinction with agreed application is not discredited by the absence of a reductive analysis. Quine's rejoinder: agreed sorting is not the principled ground the positivist meaning-criterion needed.
 
-**Measured model-answer words:** 294
+**Measured model-answer words:** 199
 
-**Qualification / criticism:** The answer preserves the limiting moves “agreed examples do not supply” and “does not redefine analyticity”; it uses centrality only to explain differential practical revisability.
+### Why this earns marks
 
-**Coverage check:** Verified anchors: Quine argues that the analytic/synthetic distinction; synonymy; interchangeability; agreed examples do not supply; centrality explains differential practical revisability; does not redefine analyticity.
+**Answer-writing focus:** the marks are in the **circle**, so each route must be shown returning to synonymy or necessity.
+
+**Exam-length execution — 10 marks, 150 to 200 words:** thesis one line; classes two; routes five; conclusion two; objection two.
+
+- **Structure:** thesis → two classes → three routes → exact conclusion → objection.
+- **Doctrine:** synonymy, definition, *salva veritate*, semantical rules.
+- **Evidence:** the heart/kidney counter-case; "analytic-in-L"; the 1956 reply.
+- **Distinction:** failure of explication against falsity of the sentences.
+- **Criticism:** Grice and Strawson, with the rejoinder rather than a bare mention.
 
 ## 4. 2020 Q3(b) · 15 marks
 
 **Question:** Evaluate the role of spatio-temporal thinking in objective thinking with reference to Strawson's theory of basic particulars.
 
-**Demand decoding:** Cover spatio-temporal thinking is a precondition, re-identify, material bodies; close with auditory world.
+### Demand decoding
 
-**Time guidance:** 10–11 minutes, including roughly one minute for demand decoding and a final qualification check.
-
-**Marks logic:** The answer earns content credit only if each printed limb is developed; terminology, causal connection, criticism and a qualified verdict are weighted above decorative quotation.
+| Element | Requirement |
+|---|---|
+| Directive | "**Evaluate** the role" — a function must be identified, then assessed |
+| Core issue | That a single spatio-temporal framework is the condition of objective identification |
+| Scope boundary | Fifteen marks: the argument, the auditory test, the limitation |
+| Ideal thesis | Spatio-temporal thinking supplies the individuating framework without which re-identification, and so objectivity, is impossible |
+| Non-negotiables | Identification → re-identification → framework; the three defects; the analogue of space |
 
 ### Timed independent model answer
 
-**Thesis.** For Strawson, **spatio-temporal thinking is a precondition of objective thinking itself**: we can think of a world of particulars that exist independently of our experience only because we can locate and re-locate them in a single public spatio-temporal framework - and material bodies, his basic particulars, are what constitute that framework (*Individuals*, 1959).
+**Thesis.** Spatio-temporal thinking is not one feature of objective thought among others: it supplies the **single framework** without which particulars cannot be re-identified, and without re-identification there is no objective reference at all.
 
-**Objectivity and re-identification.** Objective thought requires the distinction between "how things are" and "how they seem to me". That distinction has a use only if I can **re-identify** particulars - judge "this is the same one I encountered before" - across gaps in observation. Re-identification in turn requires a **single, unified system of space and time** within which a thing traces a continuous career.
+**The argument.** ✅ In *Individuals* (**1959**, Part I) Strawson argues that to identify a particular I must distinguish it from others and **re-identify** it across time; re-identification requires **one unified spatio-temporal framework** in which every particular has a location; and **material bodies**, as enduring and publicly observable occupants of that framework, are the standard anchors of demonstrative identification. Experiences, events and sounds are **dependent** particulars, identified through their relations to persons, bodies, places and times.
 
-**Why material bodies are basic.** Bodies are three-dimensional, relatively enduring and publicly located; they compose the one spatio-temporal system, and every more shadowy particular (a sound, a flash, a private sensation) is identified only by reference to bodies and their positions. So bodies are the **basic particulars** - identifiable without first identifying anything else - and spatio-temporal thinking is built into objective thought.
+**Why the empiricist alternative fails.** Sense-data cannot supply a framework: they are **private**, so they cannot ground public identification; **momentary**, so they cannot be re-identified; and **non-spatial**, so they cannot constitute a framework at all. Material bodies are therefore basic as a **condition of the possibility of reference**, not as a metaphysical preference.
 
-**The no-space test.** Strawson's purely **auditory world** asks whether a non-spatial being could sustain re-identification. His answer: only by constructing a sound-analogue of space (a "master-sound" whose pitch fixes position) - which supports the need for an individuating framework without proving that every scheme contains our exact spatial/material organisation.
+**The evaluative test.** ⚠️ Strawson removes space to see what it was doing. A purely auditory world of pitch and succession cannot distinguish the same particular re-encountered from a new one exactly resembling it; objective reference there would require an **analogue of space**, reconstructed through a continuously available **master-sound**. The experiment therefore isolates the **individuating role** rather than privileging our sensory organisation.
 
-**Objection and reply.** Evans and others argue the auditory construction may smuggle in spatial notions or fall short of genuine re-identification, and that a merely temporal framework might suffice. Reply: even the minimal construction must reintroduce something that plays space's *individuating* role, which is the substantive claim.
+**Verdict.** ⚠️ The result is transcendental in form and internal in reach: it establishes what **our conceptual scheme** requires, not that reality independently contains bodies. ❓ An empiricist may accept the analysis as conceptual geography while denying that it settles ontology — and conceding this strengthens the answer.
 
-**Verdict.** Spatio-temporal thinking is not a convenient tool for finding things but a **transcendental condition** of there being objective particulars to think about; the dependence claim survives the objections.
+**Measured model-answer words:** 266
 
-**Measured model-answer words:** 301
+### Why this earns marks
 
-**Qualification / criticism:** The answer explicitly contains the limiting move “auditory world” and does not convert a conceptual argument into a stronger ontological or causal proof.
+**Answer-writing focus:** "evaluate the role" is answered by removing the thing whose role is in question; the auditory world is therefore the centre, not an ornament.
 
-**Coverage check:** Verified anchors: spatio-temporal thinking is a precondition; re-identify; material bodies; auditory world.
+**Exam-length execution — 15 marks, 250 to 300 words:** thesis two lines; argument five; failure three; test four; verdict three.
+
+- **Structure:** thesis → argument → why sense-data fail → the removal test → limitation.
+- **Doctrine:** identification, re-identification, unified framework, dependent particulars.
+- **Evidence:** *Individuals* (1959) Part I; the three defects; the master-sound.
+- **Distinction:** individuating **role** against our particular sensory equipment.
+- **Criticism:** the internal, scheme-relative reach of the conclusion.
 
 ## 5. 2021 Q3(b) · 15 marks
 
 **Question:** What according to Strawson are basic particulars? What reasons does Strawson offer to believe that ‘material bodies’ and ‘persons’ are basic particulars? Critically discuss.
 
-**Demand decoding:** Cover identified without first identifying, spatio-temporal system, primitive; close with co-basic.
+### Demand decoding
 
-**Time guidance:** 10–11 minutes, including roughly one minute for demand decoding and a final qualification check.
-
-**Marks logic:** The answer earns content credit only if each printed limb is developed; terminology, causal connection, criticism and a qualified verdict are weighted above decorative quotation.
+| Element | Requirement |
+|---|---|
+| Directive | Definition, then **reasons**, then "critically discuss" — three obligations |
+| Core issue | Two kinds of basic particular, each with its own argument |
+| Scope boundary | Fifteen marks: both arguments compressed, then two objections with replies |
+| Ideal thesis | Bodies are basic by the identification argument, persons by the dual-ascription argument |
+| Non-negotiables | Both kinds answered; the three defects; M/P predicates; anthropocentrism and the "primitive" objection |
 
 ### Timed independent model answer
 
-**Thesis.** Basic particulars are the particulars that can be **identified without first identifying anything else**; Strawson argues that **material bodies** and **persons** are the two basic categories, because both are required for the single public framework in which objective particular-identification is possible (*Individuals*, 1959).
+**Thesis.** Basic particulars are those on which the possibility of **identification and reference in general** depends; Strawson argues that **material bodies** and **persons** occupy that role in our conceptual scheme, each by a distinct argument.
 
-**Material bodies.** Objective thought requires **re-identification** of particulars, which requires a **single, unified spatio-temporal system**; material bodies - three-dimensional, enduring and publicly located - provide its standard public anchors, and every other particular (events, processes, private experiences) is identified by reference to them. Hence bodies are basic. The **auditory-world** discussion tests this: re-identification without space is possible only by building a space-analogue.
+**Bodies.** ✅ Identification requires **re-identification**; re-identification requires a **single unified spatio-temporal framework**; and material bodies are its enduring, publicly observable occupants, anchoring demonstrative identification (*Individuals*, **1959**, Part I). Sense-data cannot take the role: they are **private**, **momentary** and **non-spatial**. Experiences, events and sounds are identified only through their relations to bodies, persons, places and times.
 
-**Persons.** Persons are the *second* basic particular because the concept of a person is **primitive** - a single subject of both **M-predicates** (also true of bodies) and **P-predicates** (states of consciousness, ascribed to others on behavioural criteria, to oneself without observation). Since **self-ascription of P-predicates requires other-ascription**, and other-ascription requires identifying others as embodied subjects, persons cannot be reduced to bodies-plus-egos; they are irreducibly basic.
+**Persons.** ✅ A person is a single subject bearing both **M-predicates** — "weighs 70 kg" — and **P-predicates** — "is in pain" (ch. 3). Self-ascription of P-predicates is possible only if they are **other-ascribable** on public criteria, while remaining **self-ascribable without observation**. A predicate with that dual character cannot be constructed from a pure body or a pure consciousness, so the concept of a person is **logically primitive** — the second kind of basic particular.
 
-**Critical discussion.** (i) Are persons genuinely *co-basic* with bodies, or dependent on them (since persons are a kind of body)? Strawson's answer: persons are not *reducible* to bodies because P-predicates cannot be analysed in purely bodily terms, so both categories are needed. (ii) Evans-type objections to the auditory world; (iii) whether the argument establishes *primitiveness* or only *co-instantiation* of the mental and bodily.
+**Critical assessment.** ❓ First, the argument is charged with **anthropocentrism**: another scheme might not need bodies. Strawson's conclusion always concerned **our** scheme, and the purely auditory discussion concedes that an **analogue of space** could perform the individuating role — a measured reply rather than a refutation. ❓ Second, calling the person concept "primitive" may **end** analysis rather than explain the psychophysical unity. Strawson's defenders answer that the demand for analysis into mind plus body already presupposes dualism, so refusal is the point; but the mechanism of unity is genuinely untouched.
 
-**Verdict.** The dual thesis holds: bodies ground the spatio-temporal framework, persons ground the subject of experience, and neither category can be dissolved into the other without losing the conditions of objective thought.
+**Verdict.** ⚠️ The reasons succeed as **descriptive metaphysics**: they establish what our scheme requires, not what exists independently of it.
 
-**Measured model-answer words:** 263
+**Measured model-answer words:** 265
 
-**Qualification / criticism:** The answer explicitly contains the limiting move “co-basic” and does not convert a conceptual argument into a stronger ontological or causal proof.
+### Why this earns marks
 
-**Coverage check:** Verified anchors: identified without first identifying; spatio-temporal system; primitive; co-basic.
+**Answer-writing focus:** the stem names **two** kinds of basic particular, so an answer that argues only for bodies has answered half the question.
+
+**Exam-length execution — 15 marks, 250 to 300 words:** thesis two lines; bodies four; persons four; assessment five; verdict one.
+
+- **Structure:** definition → bodies → persons → two objections with replies → verdict.
+- **Doctrine:** identification/re-identification; the dual character of P-predicates.
+- **Evidence:** *Individuals* (1959) Part I and ch. 3; the three defects; the master-sound concession.
+- **Distinction:** two different arguments for two kinds of basic particular.
+- **Criticism:** anthropocentrism and the explanatory limits of "primitive".
 
 ## 6. 2021 Q3(c) · 15 marks
 
 **Question:** Critically examine Quine’s postulate of empiricism without the dogmas with reference to his ‘Two Dogmas of Empiricism’.
 
-**Demand decoding:** Cover holistic empiricism, two dogmas, web; close with minimum mutilation.
+### Demand decoding
 
-**Time guidance:** 10–11 minutes, including roughly one minute for demand decoding and a final qualification check.
-
-**Marks logic:** The answer earns content credit only if each printed limb is developed; terminology, causal connection, criticism and a qualified verdict are weighted above decorative quotation.
+| Element | Requirement |
+|---|---|
+| Directive | "**Critically examine**" — assessment must occupy a substantial share |
+| Core issue | What empiricism retains once both dogmas are removed |
+| Scope boundary | Fifteen marks: both dogmas compressed, holism, then the objections |
+| Ideal thesis | The dogmas are removed and empiricism survives, reformed rather than refuted |
+| Non-negotiables | Both dogmas; "at root identical"; the pragmatic virtues; Grice–Strawson; the arbitrariness objection |
 
 ### Timed independent model answer
 
-**Thesis.** "Empiricism without the dogmas" is Quine's positive doctrine: once the two dogmas are abandoned, what remains is a **holistic empiricism** in which experience still governs belief, but the whole web of belief - not the individual sentence - faces the tribunal of experience (*Two Dogmas of Empiricism*, 1951).
+**Thesis.** Quine's postulate is **subtraction, not replacement**: two assumptions are removed and what survives — sensory evidence and scientific naturalism — is still empiricism, now holistic and thoroughly revisable.
 
-**The two dogmas removed.** Dogma 1, the **analytic/synthetic distinction**, fails because "analytic" has no non-circular criterion (definition/synonymy routes are circular, interchangeability needs intensional resources, and the general semantical-rule notion remains unclear). Dogma 2, **reductionism** - the belief that each meaningful statement is equivalent to a construction upon terms referring to immediate experience, so that each has its own range of confirming experiences - fails because no statement is confirmed in isolation.
+**The two dogmas.** ✅ The first is the belief in a principled analytic/synthetic boundary; it fails because **definition**, **interchangeability *salva veritate*** and **semantical rules** each presuppose synonymy, necessity or analyticity. The second is **reductionism**: the assumption that each statement has its own confirming experiences, whether by translation into a sense-datum language or by individual confirmation. ⚠️ Quine's own verdict is that the two are **at root identical**, since statements "confirmed come what may" need a contrast class of individually confirmed statements.
 
-**The positive residue - holism.** Our beliefs form a **web** or "field of force" that impinges on experience only at its edges; a recalcitrant experience forces readjustment *somewhere*, but which statements to revise is **underdetermined** by experience, so "no statement is immune to revision" and "any statement can be held true come what may". This is the **Duhem-Quine** point: a hypothesis meets experience only conjoined with auxiliaries. Empiricism survives as the thesis that experience is the only check on belief; what is dropped is the atomistic idea that it checks sentences one by one.
+**What replaces them.** Statements "face the tribunal of sense experience not individually but only as a **corporate body**"; the unit of empirical significance is **the whole of science**; and revision, forced somewhere by a recalcitrant experience, is located by **simplicity, conservatism and fecundity** rather than by logic.
 
-**Objection and reply.** (i) Grice and Strawson ("In Defence of a Dogma", 1956) argue Quine has not shown the analytic/synthetic distinction is *unreal*, only undefined - so the residue may be an overreach. (ii) If any statement can be saved, does holism license irrationalism? Reply: revision is disciplined by pragmatic virtues - **minimum mutilation**, conservatism, simplicity - so holism is not "anything goes". (iii) Centrality and periphery explain unequal practical resistance to revision; they do not restore analyticity by degrees.
+**What survives.** ✅ Experience remains the check on the system, science remains the best account of what there is, and there is **no first philosophy** outside it. The line between speculative metaphysics and natural science becomes one of **degree**.
 
-**Verdict.** The postulate is coherent and powerful: empiricism is *reformed*, not abandoned - experience governs the corporate body of belief holistically - but its cost is the loss of any sharp a priori/empirical line, replaced by gradients of entrenchment.
+**Critical assessment.** ❓ Grice and Strawson ("In Defence of a Dogma", **1956**) object that a distinction with agreed application needs no reductive definition; Quine replies that ordinary intelligibility is not theoretical legitimacy, and the dispute is really about **standards of explication**. ❓ The arbitrariness charge — if everything is revisable, nothing constrains belief — is met by pragmatic conservatism and, in *Philosophy of Logic* (**1970**), by the **maxim of minimum mutilation**.
 
-**Measured model-answer words:** 327
+**Verdict.** ⚠️ Holism is right about **confirmation** and overstated about **revisability**; the postulate stands in its reformed, not its most radical, version.
 
-**Qualification / criticism:** The answer explicitly contains the limiting move “minimum mutilation” and does not convert a conceptual argument into a stronger ontological or causal proof.
+**Measured model-answer words:** 280
 
-**Coverage check:** Verified anchors: holistic empiricism; two dogmas; web; minimum mutilation.
+### Why this earns marks
+
+**Answer-writing focus:** "critically examine" requires the assessment to be a section, not a closing sentence.
+
+**Exam-length execution — 15 marks, 250 to 300 words:** thesis two lines; dogmas five; replacement three; survival two; assessment four; verdict one.
+
+- **Structure:** thesis → both dogmas → holism → what survives → objections → verdict.
+- **Doctrine:** the circle; reductionism in two forms; the corporate body; entrenchment.
+- **Evidence:** "Two Dogmas" (1951); "In Defence of a Dogma" (1956); *Philosophy of Logic* (1970).
+- **Distinction:** subtraction against rejection of empiricism.
+- **Criticism:** standards of explication; the arbitrariness charge and its constraints.
 
 ## 7. 2023 Q4(a) · 20 marks
 
 **Question:** Why does Strawson consider person to be a primitive concept? What implication does it have for the mind-body dualism? Discuss.
 
-**Demand decoding:** Cover primitive concept, M-predicates, self-ascription argument; close with no-ownership theory.
+### Demand decoding
 
-**Time guidance:** 14–15 minutes, including roughly one minute for demand decoding and a final qualification check.
-
-**Marks logic:** The answer earns content credit only if each printed limb is developed; terminology, causal connection, criticism and a qualified verdict are weighted above decorative quotation.
+| Element | Requirement |
+|---|---|
+| Directive | A **why**, then an **implication** — two questions, both answered explicitly |
+| Core issue | That both rival accounts presuppose the concept they try to construct or eliminate |
+| Scope boundary | Twenty marks: the frame, the argument, both rivals, a graded verdict |
+| Ideal thesis | Person is prior to mind and body, so the dualist question is dissolved rather than answered |
+| Non-negotiables | Descriptive frame; M/P predicates; the dual character; dualism **and** no-ownership; the cost |
 
 ### Timed independent model answer
 
-**Thesis.** Strawson considers **person** a *primitive* concept because it cannot be analysed as a composite of a pure Cartesian ego and a material body; rather, the concept of a single subject bearing both bodily and mental predicates is **logically prior** to, and presupposed by, both. Its chief implication is the collapse of mind-body dualism, since two independent substances could not be the one subject our predicate-practice demands (*Individuals*, 1959, ch. 3, "Persons").
+**Thesis.** Strawson holds the concept of a person to be **logically primitive** because both rival accounts of the mind–body relation presuppose it; the implication for dualism is not refutation of a thesis but **dissolution of its starting point**.
 
-**1. What "primitive" means.** To call the person concept primitive is to deny that it is *definable* in terms of the concept of a pure consciousness plus the concept of a body. Those two concepts are, for Strawson, *later abstractions* from the person concept, not its constituents; the Cartesian order of analysis is inverted.
+**The frame.** ✅ *Individuals* (**1959**) is **descriptive metaphysics**: it describes the actual structure of our thought rather than proposing a better one. The question is therefore what our scheme of ascribing predicates to persons requires.
 
-**2. The predicate matrix.** We ascribe to one and the same individual both **M-predicates** (also true of mere bodies - "weighs 70 kg", "is in the room") and **P-predicates** (states of consciousness and action - "is in pain", "believes", "is going for a walk"). P-predicates are **asymmetric**: ascribed to others on behavioural criteria, to oneself without observation. That a single concept carries predicates of this double character is the central datum.
+**Why primitive.** ✅ In our scheme a person is a single entity bearing both **M-predicates**, also true of mere bodies — "weighs 70 kg", "is in the kitchen" — and **P-predicates**, ascribing states of consciousness — "is in pain", "intends to leave". The decisive feature is the **dual character** of P-predicates: they are ascribed to **others** on publicly available behavioural and situational criteria, and to **oneself without observation** of one's own behaviour. ⚠️ From a pure consciousness one never reaches public criteria, so other-ascription is impossible; from a pure body one never reaches unobserved self-ascription. Only a subject that is already **both** satisfies both conditions, and the concept of that subject is therefore **prior** to the concepts of mind and body — "logically prior to that of an individual consciousness".
 
-**3. The self-ascription argument.** (i) I ascribe P-predicates to myself. (ii) A predicate I ascribe to myself must be one I can ascribe to others. (iii) To ascribe P-predicates to others I must identify them as single subjects of both M- and P-predicates. (iv) Therefore the concept of such a subject - a person - is presupposed by self-ascription itself; it is primitive.
+**The implication for dualism.** ✅ Cartesian dualism treats an independently identifiable mind and body as conceptually prior; but an immaterial soul cannot be located in the single spatio-temporal framework in which identification and **re-identification** occur, and once the two substances are separated their interaction becomes unintelligible. Strawson does not answer the interaction question — he shows that it presupposes a prior unity neither term can supply. ⚠️ The **no-ownership theory** fares no better: to say which experiences are in question the theorist must say "the experiences **had by** this body", and the possessive restores the ownership he denied.
 
-**4. Implication for dualism.** On dualism the real subject is an immaterial ego and the body a separate substance. Then P-predicates would attach to an ego I can never observe in others, so I could neither learn nor apply them - and so could not self-ascribe them either; and two logically independent substances could not be the *single* subject our practice requires. Dualism makes other minds unknowable and P-ascription unintelligible. **The mirror error - the no-ownership theory** (Lichtenberg's "it thinks" for Descartes's "I think") - is equally blocked: it cannot state that experiences depend on *this* body rather than that without covertly using "my", reintroducing the ownership it denies. So experiences are necessarily owned by a person.
+**Assessment.** ❓ The strength is economy: the problem is **dissolved** because the decomposition generating it is illicit. The cost is that "primitive" marks the **end of analysis** rather than an explanation of psychophysical unity — legitimate for descriptive metaphysics, unsatisfying for anyone who wanted the problem solved. ⚠️ And the conclusion is scheme-relative: dualism's **starting point** is undercut, not every dualist thesis disproved.
 
-**5. Objections and reply.** (i) Does the argument prove *primitiveness*, or only that the mental and bodily are *co-instantiated*? Strawson: mere co-instantiation would not explain the asymmetric logic of P-predicates, which requires a single subject-concept. (ii) Ayer defended a version of the no-ownership view; Strawson's self-reference point answers it. (iii) The behavioural-criteria premise risks logical behaviourism; Strawson insists behaviour is *criterial evidence*, not the *meaning* of P-predicates.
+**Measured model-answer words:** 352
 
-**Verdict.** The person is the indispensable middle term between mind and body; dualism and no-ownership both fail because each denies the single subject that the logic of P-predicates presupposes. What survives even under the co-instantiation worry is that any adequate scheme must treat the person, not the ego or the body, as basic.
+### Why this earns marks
 
-**Measured model-answer words:** 490
+**Answer-writing focus:** the second question is the marked one; the exposition must be arranged so that the implication is earned rather than announced.
 
-**Qualification / criticism:** The answer explicitly contains the limiting move “no-ownership theory” and does not convert a conceptual argument into a stronger ontological or causal proof.
+**Exam-length execution — 20 marks, 340 to 400 words:** thesis one line; frame two; why primitive eight; implication seven; assessment four.
 
-**Coverage check:** Verified anchors: primitive concept; M-predicates; self-ascription argument; no-ownership theory.
+- **Structure:** thesis → descriptive frame → the argument → dualism → no-ownership → graded verdict.
+- **Doctrine:** primitiveness; predicate duality; dissolution rather than solution.
+- **Evidence:** *Individuals* (1959) ch. 3; four predicate examples; the possessive "had by".
+- **Distinction:** undercutting a **starting point** against refuting every dualist thesis.
+- **Criticism:** the end-of-analysis cost, conceded and correctly located.
 
 ## 8. 2024 Q4(c) · 15 marks
 
 **Question:** Explain the nature of the two dogmas that Quine refers to in his paper ‘Two Dogmas of Empiricism’.
 
-**Demand decoding:** Cover analytic/synthetic distinction, reductionism, at root identical; close with holism.
+### Demand decoding
 
-**Time guidance:** 10–11 minutes, including roughly one minute for demand decoding and a final qualification check.
-
-**Marks logic:** The answer earns content credit only if each printed limb is developed; terminology, causal connection, criticism and a qualified verdict are weighted above decorative quotation.
+| Element | Requirement |
+|---|---|
+| Directive | "Explain the **nature**" — what each dogma is, and what makes each a dogma |
+| Core issue | Both dogmas defined, both refuted, and the relation between them stated |
+| Scope boundary | Fifteen marks: definitions, the refutations, the identification, one criticism |
+| Ideal thesis | Two unargued assumptions, structurally the same, both removed by holism |
+| Non-negotiables | Both forms of reductionism; the label explained; "at root identical" |
 
 ### Timed independent model answer
 
-**Thesis.** The two dogmas Quine attacks in "Two Dogmas of Empiricism" (*The Philosophical Review*, 1951) are (1) the belief in a fundamental **analytic/synthetic distinction**, and (2) **reductionism** - the belief that every meaningful statement is equivalent to some logical construction upon terms referring to immediate experience. Quine argues both are ill-founded and that they are "at root identical".
+**Thesis.** The two dogmas are unargued assumptions of logical empiricism — a principled analytic/synthetic boundary and sentence-by-sentence confirmation — and Quine's case is that they are **at root identical**.
 
-**Dogma 1 - the analytic/synthetic distinction.** The claim is that some truths are true *by meaning* (analytic) and others *by fact* (synthetic). Quine shows "analytic" can be explained only through a circle of interdefinable notions - **synonymy, definition, interchangeability *salva veritate*, necessity and semantical rules** - the first routes are circular while the general rule notion remains unclear. No non-circular criterion exists, so the distinction lacks the principled basis empiricism claimed for it. His precise conclusion is the absence of a boundary, not the denial that some sentences seem analytic.
+**The first dogma.** ✅ It is the belief that there is a non-arbitrary line between statements true **by virtue of meaning** and statements true **by virtue of fact**. It is a dogma because the line cannot be drawn non-circularly: analyticity requires **synonymy**; synonymy is explained by **definition**, which merely records an antecedent synonymy, or by **interchangeability *salva veritate***, which over-generates extensionally ("creature with a heart" / "creature with a kidney") and requires a necessity-operator that presupposes analyticity, or by Carnap's **semantical rules**, which give "analytic-in-L" without explaining the general notion.
 
-**Dogma 2 - reductionism.** In its radical form (Locke, Hume, early Carnap's *Aufbau*) each statement has its *own* unique range of confirming or infirming experiences - **verificationism at the level of the individual sentence**. Quine argues no statement is confirmed in isolation: statements meet experience only in concert (the **Duhem-Quine** point), so the idea of statement-by-statement verification collapses.
+**The second dogma.** ✅ **Reductionism** is the belief that each meaningful statement is translatable into, or individually confirmable by, a range of sense-experience. Its **radical** form demands term-by-term translation into a sense-datum language; its **attenuated** form abandons translation but keeps individual confirmation. ⚠️ The label names the operation: it *reduces* sentence-meaning to observation sentences.
 
-**Why the two dogmas are "at root identical".** The analytic/synthetic distinction and reductionism are two sides of one verificationist theory of meaning: an analytic statement is the limiting case of one confirmed "come what may" (empty confirmation-conditions), while reductionism assigns each synthetic statement its private confirmation-conditions. Reject individual verification and both the sharp analytic pole and the reductionist picture fall together.
+**Why both fall together.** Statements "face the tribunal of sense experience not individually but only as a **corporate body**", so the unit of empirical significance is **the whole of science**. ⚠️ Once no statement has its own evidential stock, the class of statements "confirmed come what may" has no contrast class — which is why Quine calls the two dogmas at root identical.
 
-**Consequence - holism.** What replaces them is **confirmation holism**: belief faces "the tribunal of sense experience not individually but only as a corporate body" (the web of belief), and no statement is immune to revision. This is "empiricism without the dogmas".
+**Assessment.** ❓ Grice and Strawson (**1956**) object that the first distinction is intelligible in ordinary use without a reductive analysis; Quine replies that ordinary intelligibility is not the principled ground the positivist meaning-criterion required.
 
-**Verdict.** The nature of the two dogmas is that both are unearned commitments of logical empiricism's theory of meaning; dismantling individual verificationism removes both at once and yields holism.
+**Verdict.** ⚠️ What replaces both is **empiricism without the dogmas**: holistic, revisable and still empiricist.
 
-**Measured model-answer words:** 333
+**Measured model-answer words:** 276
 
-**Qualification / criticism:** The answer explicitly contains the limiting move “holism” and does not convert a conceptual argument into a stronger ontological or causal proof.
+### Why this earns marks
 
-**Coverage check:** Verified anchors: analytic/synthetic distinction; reductionism; at root identical; holism.
+**Answer-writing focus:** "nature" asks what each dogma **is** and why it deserves the name; the identification of the two is what turns a list into an argument.
+
+**Exam-length execution — 15 marks, 250 to 300 words:** thesis one line; first dogma five; second dogma four; identification three; assessment two; verdict one.
+
+- **Structure:** thesis → dogma one → dogma two → why they fall together → objection → verdict.
+- **Doctrine:** the circle; radical and attenuated reductionism; the corporate body.
+- **Evidence:** the heart/kidney case; "analytic-in-L"; the unit of empirical significance.
+- **Distinction:** the two forms of reductionism, and the explanation of the label.
+- **Criticism:** the 1956 reply with Quine's rejoinder.
 
 ## 9. 2025 Q4(b) · 15 marks
 
 **Question:** “We can affirm the truth of any sentence in our total system, in the face of whatever experience, just so long as we are prepared to make adjustments elsewhere.” Discuss this statement in the light of Quine’s ‘Two Dogmas of Empiricism’.
 
-**Demand decoding:** Cover quotation, come what may and minimum mutilation; close with change of subject and explicitly distinguish practical entrenchment from analyticity.
+### Demand decoding
 
-**Time guidance:** 10–11 minutes, including roughly one minute for demand decoding and a final qualification check.
-
-**Marks logic:** Credit requires the quoted holist claim, the conjunction logic, pragmatic constraints and later logical caution. Deduct conceptual-accuracy marks if the answer calls central statements analytic: entrenchment explains differential practical revisability after the analytic-synthetic foundation fails.
+| Element | Requirement |
+|---|---|
+| Directive | A **statement question**: locate the sentence in the system, then unpack it |
+| Core issue | That the conditional clause is the doctrine, and that it is a claim about confirmation |
+| Scope boundary | Fifteen marks: the mechanism, the historical illustration, the constraints, the verdict |
+| Ideal thesis | The sentence states holistic confirmation, not licence: the cost is what disciplines the choice |
+| Non-negotiables | *Modus tollens*; the three revision options; Neptune and "Vulcan"; minimum mutilation |
 
 ### Timed independent model answer
 
-**Thesis.** The quotation - "We can affirm the truth of any sentence in our total system, in the face of whatever experience, just so long as we are prepared to make adjustments elsewhere" - states Quine's **confirmation holism**: because belief confronts experience only as a whole, any statement can be retained under any evidence, provided compensating revisions are made elsewhere in the web (*Two Dogmas of Empiricism*, 1951).
+**Thesis.** The sentence is a claim about **where blame for a failed prediction may be assigned**, not a licence to believe anything: the clause "just so long as we are prepared to make adjustments elsewhere" names the price, and the price is the doctrine.
 
-**The web of belief.** Our beliefs form a **field of force** or web whose boundary conditions are experience. A conflict with experience occasions readjustment *somewhere in the interior*, but "the total field is so underdetermined by its boundary conditions ... that there is much latitude of choice as to what statements to re-evaluate". Hence "**no statement is immune to revision**", and, conversely, any statement can be held true "**come what may**".
+**Where it sits.** ✅ It belongs to §6 of "Two Dogmas of Empiricism" (**1951**), after both dogmas have been removed. Statements "face the tribunal of sense experience not individually but only as a **corporate body**", so the unit of empirical significance is the whole of science.
 
-**Why it is true - the Duhem-Quine mechanism.** A hypothesis H predicts an observation O only with auxiliaries A: (H & A) -> O. If O fails, logic yields only NOT-(H & A) - *something* in the package is false, but not *which*. So one may always protect H by revising A (or even, at the extreme, by "pleading hallucination" or revising a law of logic). Refutation is never decisive against a single sentence; that is the exact ground of the quotation.
+**The mechanism.** ✅ A hypothesis entails an observation only with **auxiliaries**: the testable claim is (H & A) → O. When experience yields not-O, ***modus tollens*** delivers only not-(H & A) — H is false **or** some element of A is false — and logic never names the guilty conjunct. Three responses are therefore available: revise a peripheral belief, revise a deep interior statement, or **plead hallucination** and revise the observation itself. The third is what makes the quoted sentence literally true.
 
-**Consequences.** (i) The analytic/synthetic distinction loses its proposed foundation. Centrality and entrenchment explain differential practical revisability; they do not redefine analyticity or create an analytic class by degree. (ii) There is no sentence-by-sentence verification, so the second dogma falls. (iii) The distribution of revision costs is pragmatic rather than a replacement a priori taxonomy.
+**The historical illustration.** ✅ Anomalies in Uranus's orbit were met by revising the auxiliary assumption about the number of planets, and **Neptune** was found (**1846**). The identical strategy applied to Mercury produced the hypothesised planet **"Vulcan"**, which does not exist; there the correct revision was the deep one — **general relativity (1915)**. ⚠️ Same logical situation, opposite correct responses, no advance rule.
 
-**Objection and reply.** Does holism license irrationalism - if we may hold anything true, is theory-choice arbitrary? Reply: revision is disciplined by **pragmatic virtues** - **minimum mutilation**, conservatism, simplicity, generality, fecundity. We *may* save any sentence, but at a rational *cost*; central logical laws are given up only under enormous pressure (cf. the debate over revising logic for quantum mechanics - Birkhoff and von Neumann 1936; Putnam 1968 - and Quine's caution about "change of subject"). So "any statement come what may" describes what is *logically possible*, constrained by what is *pragmatically reasonable*.
+**What blocks relativism.** ⚠️ Revision is chosen on grounds of **simplicity, conservatism and fecundity**, and in *Philosophy of Logic* (**1970**) Quine adds the **maxim of minimum mutilation** and warns that "change of logic" is change of subject. No statement is revisable **by nature**; only by choice, and choice has costs.
 
-**Verdict.** The statement is not a licence for caprice but a precise consequence of holism: experience constrains the web globally, not sentence by sentence, so rational revision is a matter of balancing conservatism against simplicity across the whole system.
+**Verdict.** ⚠️ The statement is right about confirmation and easily misread as relativism; truncating it at "come what may" is what produces the misreading.
 
-**Measured model-answer words:** 398
+**Measured model-answer words:** 297
 
-**Qualification / criticism:** The answer contains “change of subject” and states that centrality and entrenchment explain differential practical revisability rather than analyticity.
+### Why this earns marks
 
-**Coverage check:** Verified anchors: quotation; come what may; minimum mutilation; change of subject; differential practical revisability; do not redefine analyticity.
+**Answer-writing focus:** a statement question is failed by paraphrase; the answer must supply the mechanism the sentence compresses.
+
+**Exam-length execution — 15 marks, 250 to 300 words:** thesis two lines; location two; mechanism five; illustration four; constraints two; verdict one.
+
+- **Structure:** thesis → location in §6 → *modus tollens* → Neptune/Vulcan → constraints → verdict.
+- **Doctrine:** holistic confirmation; the three revision options.
+- **Evidence:** "Two Dogmas" (1951) §6; Neptune 1846; "Vulcan" and general relativity 1915; *Philosophy of Logic* (1970).
+- **Distinction:** re-allocating blame against indifference to evidence.
+- **Criticism:** the relativist misreading identified and diagnosed.
 
 ## 10. 2026 Q3(a) · 20 marks
 
 **Question:** Why are states of consciousness ascribed to anything at all and why are they ascribed to the same things to which we also ascribe physical properties? How does Strawson answer these questions in his work *Individuals*?
 
-**Demand decoding:** Cover Strawson asks how predicates of consciousness, same subject, self-ascription requires; close with States of consciousness and physical properties are ascribed.
+### Demand decoding
 
-**Time guidance:** 14–15 minutes, including roughly one minute for demand decoding and a final qualification check.
-
-**Marks logic:** The answer earns content credit only if each printed limb is developed; terminology, causal connection, criticism and a qualified verdict are weighted above decorative quotation.
+Cover Strawson asks how predicates of consciousness, same subject, self-ascription requires; close with States of consciousness and physical properties are ascribed.
 
 ### Timed independent model answer
 
@@ -310,87 +411,215 @@ Do not merge Quine's naturalized holism with Strawson's descriptive metaphysics.
 
 **Measured model-answer words:** 347
 
+### Why this earns marks
+
 **Qualification / criticism:** The answer explicitly contains the limiting move “States of consciousness and physical properties are ascribed” and does not convert a conceptual argument into a stronger ontological or causal proof.
 
 **Coverage check:** Verified anchors: Strawson asks how predicates of consciousness; same subject; self-ascription requires; States of consciousness and physical properties are ascribed.
 
+## Original solved practice
+
+The six formal-session models restore two questions at each mark level. They cover Duhem–Quine testing, descriptive metaphysics, logical revisability, no-ownership, translation indeterminacy and the two-project comparison.
+
 ## Original 1 · 10 marks
 
-**Question:** Explain how Quine's confirmation holism follows from his rejection of the two dogmas of empiricism.
+**Question:** Explain why, for Quine, no single scientific hypothesis can be tested in isolation.
 
-**Demand decoding:** Cover positive result, hypothesis together with auxiliaries, corporate body; close with minimum mutilation.
+### Demand decoding
 
-**Time guidance:** 7–8 minutes, including roughly one minute for demand decoding and a final qualification check.
-
-**Marks logic:** The answer earns content credit only if each printed limb is developed; terminology, causal connection, criticism and a qualified verdict are weighted above decorative quotation.
+Answer the directive through a precise thesis, the named mechanism, a criticism and a qualified verdict.
 
 ### Timed independent model answer
 
-Quine's confirmation holism is not an independent add-on to *Two Dogmas*; it is the positive result reached when both dogmas fail. The first dogma separates analytic truths, allegedly secured by meaning, from synthetic truths answerable to fact. Quine shows that analyticity cannot be explicated without circular appeal to synonymy, definition, necessity or semantical rules. The second dogma assigns each meaningful synthetic sentence its own confirming experiences. Quine denies that isolation because a prediction follows only from a hypothesis together with auxiliaries and background assumptions.
+**Thesis.** A hypothesis makes no prediction by itself, so experience never convicts it alone; what is tested is always a **conjunction**.
 
-If experience conflicts with a prediction, logic yields only that something in the conjunction must change. It does not identify one guilty sentence. Consequently, statements face experience “as a corporate body”: a web whose periphery is more directly disturbed by observation while logic and mathematics remain centrally entrenched. No sentence is immune in principle, yet revision is constrained by conservatism, simplicity and minimum mutilation. Holism therefore preserves empiricism while rejecting atomistic confirmation: experience governs the total system, not one sentence at a time. The result is a graded, pragmatically managed web rather than an “anything goes” relativism.
+**The mechanism.** ✅ The testable claim is (H & A) → O, where A gathers background theory, instrument theory and initial conditions. Observation yields **not-O**, and ***modus tollens*** delivers only **not-(H & A)**: H is false or some element of A is false. Logic does not say which.
 
-**Measured model-answer words:** 181
+**The consequence.** ⚠️ A reductionist criterion assigning each statement its own confirming experiences therefore has no application — which is precisely Quine's second dogma. And symmetrically, "any statement can be held true come what may, if we make drastic enough adjustments elsewhere in the system".
 
-**Qualification / criticism:** The answer explicitly contains the limiting move “minimum mutilation” and does not convert a conceptual argument into a stronger ontological or causal proof.
+**The evidence.** ✅ Anomalies in Uranus's orbit were resolved by revising an auxiliary, and **Neptune** was found in **1846**; the same move applied to Mercury produced **"Vulcan"**, which does not exist, and the correct revision proved to be **general relativity (1915)**. Identical logical situations, opposite correct responses.
 
-**Coverage check:** Verified anchors: positive result; hypothesis together with auxiliaries; corporate body; minimum mutilation.
+**Qualification.** ⚠️ **Duhem (1906)** confined the thesis to physics and exempted logic and mathematics; the extension to all knowledge is Quine's own step. Nor does the thesis make revision arbitrary: simplicity, conservatism and minimum mutilation still discriminate.
 
-## Original 2 · 15 marks
+**Measured model-answer words:** 191
 
-**Question:** “Strawson's persons and Quine's web of belief are two forms of one anti-Cartesian conviction.” Critically discuss.
+### Why this earns marks
 
-**Demand decoding:** Cover real convergence, primitive subject, positive projects diverge; close with Convergence without conflation.
+**Answer-writing focus:** the logical form is the answer; the history is what proves it is not a mere possibility.
 
-**Time guidance:** 10–11 minutes, including roughly one minute for demand decoding and a final qualification check.
+- **Structure:** thesis → *modus tollens* → consequence for dogma two → paired historical case → qualification.
+- **Doctrine:** the conjunction under test; holistic confirmation.
+- **Evidence:** Neptune 1846; "Vulcan"; general relativity 1915; Duhem 1906.
+- **Distinction:** Duhem's restricted thesis against Quine's extension.
+- **Criticism:** the arbitrariness worry, answered by pragmatic constraints.
 
-**Marks logic:** The answer earns content credit only if each printed limb is developed; terminology, causal connection, criticism and a qualified verdict are weighted above decorative quotation.
+## Original 2 · 10 marks
 
-### Timed independent model answer
+**Question:** Distinguish descriptive from revisionary metaphysics, and explain why Strawson describes his own project as descriptive.
 
-The comparison captures a real convergence but becomes false if it erases method. Quine's web rejects the Cartesian hope for an unrevisable foundation outside science. Beliefs face experience corporately, and inquiry repairs Neurath's boat from within. Naturalized epistemology continues this anti-first-philosophy move by treating knowing as a natural process rather than the deliverance of an isolated pure reason.
+### Demand decoding
 
-Strawson's person doctrine rejects a different Cartesian priority. A person is not assembled from an independently identifiable body and private ego; the person is the primitive subject of both M-predicates and P-predicates. Because self-ascription of psychological predicates requires their possible other-ascription to publicly identifiable subjects, the hidden ego cannot ground the practice. Both philosophers therefore oppose an epistemically or semantically self-sufficient private item.
-
-Yet their positive projects diverge. Quine is naturalistic, revisionary and scientifically regimenting; his web is revisable under experience and pragmatic virtues. Strawson practises descriptive metaphysics: he maps conditions internal to our existing conceptual scheme, including enduring bodies and persons. Quine is suspicious of determinate meaning and reference, while Strawson relies on stable public practices of identification and predication. Grice and Strawson even defend ordinary analytic-synthetic contrast-cases against Quine.
-
-The anti-Cartesian label is therefore useful at the level of target: neither starts from a private given or an external foundation. It is misleading at the level of doctrine. One reforms empiricism through holism and naturalism; the other describes a public framework of particulars and persons. Convergence without conflation is the defensible verdict. This separation also keeps distinct their standards of success: predictive scientific continuity for Quine and faithful conceptual description for Strawson.
-
-**Measured model-answer words:** 262
-
-**Qualification / criticism:** The answer explicitly contains the limiting move “Convergence without conflation” and does not convert a conceptual argument into a stronger ontological or causal proof.
-
-**Coverage check:** Verified anchors: real convergence; primitive subject; positive projects diverge; Convergence without conflation.
-
-## Original 3 · 20 marks
-
-**Question:** Assess the claim that both Quine and Strawson refute classical empiricism, but at different levels.
-
-**Demand decoding:** Cover ownership qualification, conceptual conditions, levels differ; close with methodologically and doctrinally distinct.
-
-**Time guidance:** 14–15 minutes, including roughly one minute for demand decoding and a final qualification check.
-
-**Marks logic:** The answer earns content credit only if each printed limb is developed; terminology, causal connection, criticism and a qualified verdict are weighted above decorative quotation.
+Answer the directive through a precise thesis, the named mechanism, a criticism and a qualified verdict.
 
 ### Timed independent model answer
 
-The claim is defensible only with an ownership qualification. Quine directly supplies the printed critique of empiricism; Strawson's primary printed task is positive—theories of basic particulars and persons—although those theories pressure private sense-datum and no-ownership starting points.
+**Thesis.** Descriptive metaphysics describes the actual structure of our thought about the world; revisionary metaphysics proposes a better structure; Strawson maps conditions of the scheme we use.
 
-Quine attacks empiricism internally. Dogma one separates analytic truth from synthetic fact, but proposed explications through synonymy, definition, interchangeability, necessity and semantical rules remain circular or insufficiently explanatory. Dogma two gives each sentence a private range of confirming experiences. The Duhem-Quine structure shows instead that a hypothesis yields observation only with auxiliaries, so recalcitrant experience underdetermines which statement to revise. Confirmation therefore belongs to the corporate web. Experience survives as constraint, but a priori immunity and atomistic verification do not. Naturalized epistemology then rejects a tribunal outside science.
+**The distinction.** ✅ In *Individuals: An Essay in Descriptive Metaphysics* (**1959**) the descriptive metaphysician maps how our concepts hang together; the revisionary metaphysician recommends replacing them. His examples place **Aristotle** and **Kant** on the descriptive side, and **Descartes**, **Leibniz** and **Berkeley** on the revisionary side.
 
-Strawson challenges an empiricist reconstruction at the level of conceptual conditions. Objective identification requires re-identification in one public spatio-temporal framework; private, momentary sense-data cannot provide its enduring anchors, whereas material bodies can. Persons are primitive subjects of both physical and psychological predicates. Self-ascription depends on possible other-ascription to embodied subjects, so neither a private Cartesian ego nor ownerless experiences can be conceptually prior.
+**The relation.** ⚠️ revisionary metaphysics is at its most valuable **in the service of** the descriptive, because dismantling part of the actual scheme reveals what it was doing.
 
-The levels differ. Quine revises a theory of meaning, confirmation and inquiry from within natural science. Strawson descriptively reconstructs conditions of reference, predication and personal ascription in our scheme. His result does not prove a mind-independent ontology, and Quine's holism does not entail that every revision is equally rational. Moreover, Strawson and Grice defend an ordinary analytic-synthetic distinction, blocking the fiction of a united school.
+**Why Strawson's project is descriptive.** ✅ His method is **connective analysis**: concepts are exhibited in their dependence on one another, not reduced to a privileged base of simples. His arguments are **transcendental in form** — from an undisputed fact about identification or ascription to its conditions — and their conclusions are therefore about our scheme.
 
-Critics can press both sides. Grice and Strawson argue that familiar contrast-cases need no reductive definition; naturalized epistemology may lose normativity. Strawson may merely redescribe psychophysical unity and may show only what our scheme presupposes, not what reality must contain.
+**Qualification.** ❓ The programme is charged with being circular or conservative, since it protects the scheme in which its conditions are stated. Strawson accepts an **internal** task: even radical revision must begin inside some functioning scheme of identification and reference. Description still cannot show the scheme uniquely correct.
 
-Thus Quine refutes classical empiricism's dogmatic architecture directly, while Strawson undermines private-data reconstruction indirectly through public identification and personhood. Their arguments converge against atomism and privacy but remain methodologically and doctrinally distinct. The final comparison must therefore preserve separate methods, separate primary burdens and separate standards of philosophical success.
+**Measured model-answer words:** 197
 
-**Measured model-answer words:** 344
+### Why this earns marks
 
-**Qualification / criticism:** The answer explicitly contains the limiting move “methodologically and doctrinally distinct” and does not convert a conceptual argument into a stronger ontological or causal proof.
+**Answer-writing focus:** the fatal error here is two definitions with no examples; Strawson's own names are the cheapest marks available.
 
-**Coverage check:** Verified anchors: ownership qualification; conceptual conditions; levels differ; methodologically and doctrinally distinct.
+- **Structure:** thesis → distinction with examples → relation → why descriptive → objection and cost.
+- **Doctrine:** connective analysis; transcendental form.
+- **Evidence:** *Individuals* (1959) and its subtitle; Aristotle and Kant; Descartes, Leibniz and Berkeley.
+- **Distinction:** describing against replacing a conceptual scheme.
+- **Criticism:** the conservatism charge, answered by the internality of the task.
+
+## Original 3 · 15 marks
+
+**Question:** “No statement is immune to revision.” How far can this claim be sustained in the case of logic?
+
+### Demand decoding
+
+Answer the directive through a precise thesis, the named mechanism, a criticism and a qualified verdict.
+
+### Timed independent model answer
+
+**Thesis.** The claim can be sustained **in principle** and only weakly in practice: logic is protected by entrenchment and by the cost of revision rather than by any certificate of analyticity.
+
+**The claim and its source.** ✅ It stands in §6 of "Two Dogmas of Empiricism" (**1951**) as the converse of "any statement can be held true come what may". The early essay extends revisability even to a law of logic, mentioning the proposed revision of the law of excluded middle as a means of simplifying quantum mechanics.
+
+**The strongest candidate.** ✅ **Birkhoff and von Neumann**, "The Logic of Quantum Mechanics" (*Annals of Mathematics*, **1936**), proposed a **non-distributive lattice** of quantum propositions — a formal proposal. ⚠️ The distinct philosophical claim that logic is therefore **empirically revisable**, and specifically that the **distributive law** should be given up, is **Putnam's**, in "Is Logic Empirical?" (**1968**). ❌ The two must never be merged into "Putnam/Birkhoff". ❓ Putnam later abandoned the position.
+
+**The resistance, from Quine himself.** ⚠️ In *Philosophy of Logic* (**1970**) Quine argues that anyone who "denies" a law of logic has merely **changed the subject**, and he invokes the **maxim of minimum mutilation**. The later Quine is therefore a poor witness for the earlier Quine's boldest claim.
+
+**Assessment.** ❓ The objection that unrestricted revisability leaves science without a fixed point is met by the formula that no statement is revisable **by nature**, only by **choice** — and choice is disciplined by conservatism, simplicity and predictive success. But the concession is substantial: if revising logic normally costs more than any theory can pay, "revisable" does little work.
+
+**Verdict.** ⚠️ Holism is right about **confirmation** and overstated about **revisability**. The defensible position is Duhem's thesis with Quine's motivation: testing is holistic, the choice of revision is pragmatic, and logic is revisable in a sense so attenuated that little follows from it.
+
+**Measured model-answer words:** 300
+
+### Why this earns marks
+
+**Answer-writing focus:** "how far" demands a graded ruling, and the grading must be earned by the 1936/1968/1970 sequence rather than asserted.
+
+- **Structure:** thesis → source of the claim → the candidate case → Quine's own retreat → assessment → graded verdict.
+- **Doctrine:** revisability by choice rather than by nature; minimum mutilation.
+- **Evidence:** Birkhoff and von Neumann 1936; Putnam 1968 and his later withdrawal; *Philosophy of Logic* 1970.
+- **Distinction:** a formal proposal against a philosophical claim about it.
+- **Criticism:** the attenuation objection, conceded and priced.
+
+## Original 4 · 15 marks
+
+**Question:** Examine Strawson's criticism of the no-ownership theory of the self.
+
+### Demand decoding
+
+Answer the directive through a precise thesis, the named mechanism, a criticism and a qualified verdict.
+
+### Timed independent model answer
+
+**Thesis.** Strawson's criticism is that the no-ownership theory cannot be **stated** without reinstating the ownership it denies, so it refutes itself in the act of formulation.
+
+**The theory, fairly stated.** ✅ The no-ownership or **no-subject** theory — which Strawson reconstructs and criticises, tracing it through Schlick and Wittgenstein-influenced writers — holds that experiences are **causally dependent** on a particular body but are not literally **possessed** by any subject. Its motive is respectable: it avoids the Cartesian ego while acknowledging the evident dependence of experience on a body.
+
+**The criticism.** ✅ To state the thesis the theorist must say **which** experiences he is discussing, and he can only say "all the experiences **that are had by** this body". "Had by" is a **possessive** relation. Contingent causal dependence cannot replace it, because dependence does not single out **these** experiences as one person's rather than another's. The framework of personal ownership therefore returns inside the denial.
+
+**The positive alternative.** ✅ The reason ownership cannot be removed is that **P-predicates** — "is in pain", "believes it will rain" — must be ascribable to **others** on publicly available criteria and to **oneself without observation**. A predicate with that dual condition presupposes a single subject bearing both **M-** and **P-predicates**; the concept of that subject, the **person**, is therefore **logically primitive** (*Individuals*, **1959**, ch. 3).
+
+**Assessment.** ❓ The argument is powerful against the theory as formulated, but it is a **conceptual** result: it shows that our scheme of ascription requires an owner, not that a metaphysically ownerless psychology is incoherent in every possible description. ⚠️ And "primitive" ends the analysis rather than explaining how one subject bears both predicate-classes.
+
+**Verdict.** ⚠️ The no-ownership theory is destroyed on its own terms; the deeper question of psychophysical unity is dissolved rather than answered.
+
+**Measured model-answer words:** 285
+
+### Why this earns marks
+
+**Answer-writing focus:** state the target theory sympathetically before demolishing it; the demolition is worthless against a straw man.
+
+- **Structure:** thesis → the theory and its motive → the possessive move → the positive alternative → assessment.
+- **Doctrine:** ownership; P-predicate duality; primitiveness.
+- **Evidence:** *Individuals* (1959) ch. 3; the formula "the experiences had by this body".
+- **Distinction:** causal dependence against possession.
+- **Criticism:** the scheme-relative reach of the result.
+
+## Original 5 · 20 marks
+
+**Question:** Critically examine Quine's thesis of the indeterminacy of translation. Does it establish that there are no determinate meanings?
+
+### Demand decoding
+
+Answer the directive through a precise thesis, the named mechanism, a criticism and a qualified verdict.
+
+### Timed independent model answer
+
+**Thesis.** The thesis follows validly from Quine's premises but establishes its conclusion **only for those who already accept his naturalism**; what survives independently is the negative result that observable use does not fix reference.
+
+**The construction.** ✅ In *Word and Object* (**1960**, ch. 2) a field linguist must build a manual for an unknown language from **assent and dissent under stimulation**. A rabbit runs past; the native says "**Gavagai**"; the linguist writes "Rabbit". But the same **stimulus meaning** fits "**undetached rabbit-parts**", "**a temporal stage of a rabbit**", "**rabbithood**", and the feature-placing "it's rabbiting". ⚠️ He cannot simply ask whether this gavagai is the same as that one: the question presupposes a translated **identity predicate** and the whole **apparatus of individuation**, which is exactly what is in dispute.
+
+**The two results.** ✅ Compensating adjustments preserve every behavioural prediction, so behavioural evidence does not determine reference — **inscrutability of reference**. Extending upward, rival **analytical hypotheses** yield manuals agreeing on all **observation sentences** while translating theoretical sentences into non-equivalent English — **indeterminacy of translation**. ⚠️ There are then no determinate **meanings** as entities, so synonymy loses its anchor and the first dogma's key notion loses its foundation.
+
+**The premises where objections enter.** ⚠️ **P1**: behaviourism about the *evidence* — in linguistics, Quine says, one has no choice, since language is learned wholly from public behaviour. **P2**: the move from behavioural equivalence to "no further fact" is a substantive commitment. **P3**: naturalism denies any standpoint from which meanings could be certified.
+
+**The objections.** ❓ **Chomsky** ("Quine's Empirical Assumptions", **1969**): indeterminacy is merely the ordinary **underdetermination of theory by evidence**; if that does not make physics factless, why does it make translation factless? Quine replies that in physics there is a fact our theories imperfectly track, while in translation nothing beyond dispositions could make a manual right — an **asymmetry** that is a naturalist thesis rather than a result of the argument. ❓ **Searle and Evans**: applied reflexively it entails that I do not determinately know what I mean; Quine accepts a version — we **acquiesce in our mother tongue**. ⚠️ **Davidson** ("Radical **Interpretation**", **1973**) accepts indeterminacy but confines it to something like a choice of measurement scale — real but harmless.
+
+**Verdict.** ⚠️ The thesis does **not** establish that there are no meanings *tout court*; it establishes that there are no determinate meanings **as entities** fixed by behavioural evidence. The durable result is that use alone does not fix reference — a conclusion the later Wittgenstein reaches by another route.
+
+**Measured model-answer words:** 400
+
+### Why this earns marks
+
+**Answer-writing focus:** the question contains a second, narrower question; the verdict must answer it in the terms in which it was asked.
+
+- **Structure:** thesis → the construction → the two results → the premises → three objections → graded verdict.
+- **Doctrine:** stimulus meaning; analytical hypotheses; inscrutability against indeterminacy.
+- **Evidence:** *Word and Object* (1960) ch. 2; the four rival readings; Chomsky 1969; Davidson 1973.
+- **Distinction:** meanings as entities against the intelligibility of meaningful use.
+- **Criticism:** the behaviourist premise identified as the load-bearing one.
+
+## Original 6 · 20 marks
+
+**Question:** “Quine and Strawson criticise empiricism, but they do not criticise it together.” Discuss.
+
+### Demand decoding
+
+Answer the directive through a precise thesis, the named mechanism, a criticism and a qualified verdict.
+
+### Timed independent model answer
+
+**Thesis.** The statement is correct: the two attack empiricism at different levels with different tools, and the only documented exchange between them is a **disagreement**.
+
+**Quine's level — confirmation.** ✅ "Two Dogmas of Empiricism" (**1951**) removes two assumptions. The **analytic/synthetic** boundary fails because definition merely records synonymy, interchangeability *salva veritate* over-generates extensionally and requires a necessity that presupposes analyticity, and semantical rules give only "analytic-in-L". **Reductionism** fails because statements "face the tribunal of sense experience not individually but only as a **corporate body**". What replaces both is **confirmation holism**, and what survives is **empiricism without the dogmas** — sensory evidence and naturalism retained.
+
+**Strawson's level — reference.** ✅ *Individuals* (**1959**) argues that identification requires **re-identification**, that re-identification requires a **single unified spatio-temporal framework**, and that **material bodies** are its enduring, publicly observable occupants. Sense-data cannot occupy the role: they are **private**, **momentary** and **non-spatial**. And since **P-predicates** must be other-ascribed on public criteria yet self-ascribed **without observation**, the concept of a **person** is **logically primitive**, destroying the **no-ownership** alternative as well as the Cartesian one.
+
+**Why this is not a joint critique.** ⚠️ The methods are opposed. Quine is a **naturalist** who regiments science into canonical notation and denies any first philosophy; Strawson practises **connective analysis** and offers arguments that are **transcendental in form**. Their conclusions differ correspondingly: Quine ends with a revisable web in which no statement is immune; Strawson ends with conditions internal to a conceptual scheme that his method is not designed to revise. ✅ And the decisive evidence is textual: **Grice and Strawson**, "In Defence of a Dogma" (**1956**), defend the very distinction Quine attacked, arguing that a distinction with agreed application needs no reductive analysis. Quine's rejoinder — that ordinary intelligibility is not theoretical legitimacy — leaves a live dispute about **standards of explication**, not a shared programme.
+
+**What may legitimately be said jointly.** ⚠️ Empiricism failed twice over: about how theories are **confirmed** and about how we so much as **refer**. That is a problem-field, not a thesis.
+
+**Verdict.** ⚠️ Read together they pressure both empiricist confirmation atomism and sense-datum reconstruction **without becoming one school**; and an answer that treats them as co-authors of a single anti-empiricist doctrine misdescribes the only exchange the record contains.
+
+**Measured model-answer words:** 361
+
+### Why this earns marks
+
+**Answer-writing focus:** the quoted claim must be **tested**, not illustrated; the 1956 paper is the evidence that decides it.
+
+- **Structure:** thesis → Quine's level → Strawson's level → why not joint → the legitimate joint sentence → verdict.
+- **Doctrine:** holism; identification and re-identification; primitiveness.
+- **Evidence:** "Two Dogmas" (1951); *Individuals* (1959); "In Defence of a Dogma" (1956).
+- **Distinction:** naturalism and regimentation against connective, transcendental analysis.
+- **Criticism:** the standards-of-explication dispute, reported as unsettled.
 
 ## Final self-check
 

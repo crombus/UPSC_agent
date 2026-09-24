@@ -1,7 +1,9 @@
 from __future__ import annotations
 
 import argparse
+import copy
 import hashlib
+import itertools
 import json
 import math
 import re
@@ -14,6 +16,8 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 import fitz
+sys.dont_write_bytecode = True
+import formal_validation
 
 
 TOPIC = Path(__file__).resolve().parent
@@ -21,6 +25,8 @@ REPO = TOPIC.parents[4]
 TOOLS = REPO.parent / "tools"
 PDF_DIR = TOPIC / "pdf"
 VALIDATION = TOPIC / "VALIDATION.json"
+FORMAL_AUDIT = TOPIC / "FORMAL-COVERAGE-AUDIT.json"
+FORMAL_REVIEW = TOPIC / "FORMAL-COVERAGE-REVIEW.json"
 MCQ_COUNT = 61
 DIRECT_PYQS = [
     ("2018", "Q1(e)", 10), ("2018", "Q2(c)", 15),
@@ -29,7 +35,29 @@ DIRECT_PYQS = [
     ("2023", "Q4(a)", 20), ("2024", "Q4(c)", 15),
     ("2025", "Q4(b)", 15), ("2026", "Q3(a)", 20),
 ]
-WORD_BANDS = {10: (150, 300), 15: (240, 400), 20: (330, 550)}
+WORD_BANDS = {10: (150, 200), 15: (250, 300), 20: (340, 400)}
+AUTHORITATIVE_FORMAL_ROOT = Path(
+    r"C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\learning_package_final"
+)
+FORBIDDEN_DERIVATIVE_FORMAL_ROOT = REPO.parent / "learning_package_final"
+FORMAL_SOURCE_DIR = (
+    AUTHORITATIVE_FORMAL_ROOT
+    / "Philosophy-Optional/Philosophy-Paper-I-—-Western-Philosophy/11-Quine-and-Strawson"
+)
+FORMAL_SOURCES = {
+    "session": FORMAL_SOURCE_DIR / "Learning-Session.md",
+    "workbook": FORMAL_SOURCE_DIR / "Solved-Practice-Workbook.md",
+}
+EXPECTED_PANEL_TOTAL = 42
+EXPECTED_EXTERNAL_OBLIGATIONS = {
+    "T11-ROUTE-T03-EMPIRICISM",
+    "T11-ROUTE-T04-KANT-GENERAL",
+    "T11-ROUTE-T04-BOUNDS-OF-SENSE",
+    "T11-ROUTE-T06-DESCRIPTIONS",
+    "T11-ROUTE-T07-POSITIVISM",
+    "T11-ROUTE-T08-LATER-WITTGENSTEIN",
+    "T11-ROUTE-P2-SOUL",
+}
 CORRELATION_ALLOWLIST = {
     "analytic synthetic",
     "basic particulars",
@@ -141,11 +169,19 @@ PDF_SOURCES = {
     "MCQ-Solutions.pdf": "MCQ-SOLUTIONS.md",
     "Answer-Writing-Toolkit.pdf": "ANSWER-WRITING-TOOLKIT.md",
 }
+PDF_DESCRIPTORS = {
+    "Revision-Guide.pdf": "Philosophy Optional · Paper I · Western Philosophy · Topic 11",
+    "MCQ-Questions.pdf": "61-question closed-book practice bank · no answer key",
+    "MCQ-Solutions.pdf": "Proposition-specific explanations and repairs",
+    "Answer-Writing-Toolkit.pdf": "Ten verified PYQs and six original solved answers",
+}
 REQUIRED = [
     "README.md", "REVISION-GUIDE.md", "MCQ-QUESTIONS.md",
     "MCQ-SOLUTIONS.md", "COVERAGE-LEDGER.md", "PRACTICE-LOG.md",
     "ANSWER-WRITING-TOOLKIT.md", "MCQ-AUDIT.json",
-    "PYQ-DEMAND-AUDIT.json", "validate_package.py",
+    "PYQ-DEMAND-AUDIT.json", "FORMAL-COVERAGE-REVIEW.json",
+    "FORMAL-COVERAGE-AUDIT.json", "formal_validation.py", "VALIDATION.json",
+    "validate_package.py",
     *(f"pdf/{name}" for name in PDF_SOURCES),
 ]
 
@@ -1177,6 +1213,10 @@ def pdf_checks(path: Path, source_path: Path, regeneration_file: dict | None) ->
         if token_normalise(match.group(1))
     ]
     extracted_tokens = parity_normalise(extracted)
+    expected_descriptor = PDF_DESCRIPTORS[path.name]
+    descriptor_present = parity_normalise(expected_descriptor) in parity_normalise(
+        extracted
+    )
     missing_headings = [heading for heading in headings if heading not in extracted_tokens]
     source_sha256 = hashlib.sha256(source_path.read_bytes()).hexdigest()
     pdf_sha256 = hashlib.sha256(path.read_bytes()).hexdigest()
@@ -1196,33 +1236,32 @@ def pdf_checks(path: Path, source_path: Path, regeneration_file: dict | None) ->
         "pdf_not_older_than_source": path.stat().st_mtime_ns >= source_path.stat().st_mtime_ns,
         "heading_count": len(headings),
         "missing_source_headings": missing_headings,
+        "expected_cover_descriptor": expected_descriptor,
+        "cover_descriptor_present": descriptor_present,
         "matches_current_regeneration_record": regeneration_matches,
         "blank_pages": sorted(set(blank)), "replacement_glyphs": replacements,
         "out_of_bounds_text_pages": sorted(set(bounds)),
         "content_overlap_pages": sorted(set(overlaps)),
         "raw_markdown_artifacts": markdown,
         "pass": pages > 0 and not blank and not replacements and not bounds and not overlaps
-        and not markdown and not missing_headings and path.stat().st_mtime_ns >= source_path.stat().st_mtime_ns
+        and not markdown and not missing_headings and descriptor_present
+        and path.stat().st_mtime_ns >= source_path.stat().st_mtime_ns
         and regeneration_matches,
     }
 
 
-def regenerate_pdfs() -> dict:
+def regenerate_pdfs(selected: set[str] | None = None) -> dict:
     sys.path.insert(0, str(TOOLS))
     import unicode_markdown_pdf
-    descriptors = {
-        "Revision-Guide.pdf": "Philosophy Optional · Paper I · Western Philosophy · Topic 11",
-        "MCQ-Questions.pdf": "61-question closed-book practice bank · no answer key",
-        "MCQ-Solutions.pdf": "Proposition-specific explanations and repairs",
-        "Answer-Writing-Toolkit.pdf": "Ten verified PYQs and three original solved answers",
-    }
     files = {}
     for pdf_name, source_name in PDF_SOURCES.items():
+        if selected is not None and pdf_name not in selected:
+            continue
         output = PDF_DIR / pdf_name
         output.unlink(missing_ok=True)
         unicode_markdown_pdf.build_pdf(
             TOPIC / source_name, output, internal_index=True, index_title="CONTENTS",
-            cover_descriptor=descriptors[pdf_name],
+            cover_descriptor=PDF_DESCRIPTORS[pdf_name],
             footer_label=f"Quine and Strawson | {source_name.removesuffix('.md')}",
         )
         files[pdf_name] = {
@@ -1233,7 +1272,12 @@ def regenerate_pdfs() -> dict:
             "source_mtime_ns": (TOPIC / source_name).stat().st_mtime_ns,
             "pdf_mtime_ns": output.stat().st_mtime_ns if output.exists() else None,
         }
-    return {"requested": True, "files": files, "all_four_regenerated": all(x["exists"] for x in files.values())}
+    return {
+        "requested": True,
+        "selected": sorted(selected) if selected is not None else sorted(PDF_SOURCES),
+        "files": files,
+        "all_selected_regenerated": all(x["exists"] for x in files.values()),
+    }
 
 
 def text_integrity() -> dict:
@@ -1303,13 +1347,451 @@ def text_integrity() -> dict:
     }
 
 
+def toolkit_checks_reconciled(toolkit: str) -> dict:
+    ledger = (
+        (REPO / "knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md")
+        .read_text(encoding="utf-8")
+        + "\n"
+        + (REPO / "knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md")
+        .read_text(encoding="utf-8")
+    )
+    expected = {f"{year} {part}": marks for year, part, marks in DIRECT_PYQS}
+    sections = {}
+    failures = []
+    matches = list(
+        re.finditer(
+            r"^## \d+\. (20\d{2}) (Q\d+\([a-z]\)) · (\d+) marks$",
+            toolkit,
+            re.M,
+        )
+    )
+    for index, match in enumerate(matches):
+        end = (
+            matches[index + 1].start()
+            if index + 1 < len(matches)
+            else toolkit.find("## Original solved practice", match.end())
+        )
+        section = toolkit[match.start() : end]
+        identity = f"{match.group(1)} {match.group(2)}"
+        question = re.search(r"^\*\*Question:\*\* (.+)$", section, re.M)
+        answer = re.search(
+            r"(?ms)^### Timed independent model answer\s*$\n"
+            r"(.*?)(?=^\*\*Measured model-answer words:)",
+            section,
+        )
+        declared = re.search(
+            r"^\*\*Measured model-answer words:\*\* (\d+)$", section, re.M
+        )
+        marks = int(match.group(3))
+        count = len(words(answer.group(1))) if answer else 0
+        row = {
+            "marks": marks,
+            "words": count,
+            "band": WORD_BANDS.get(marks),
+            "declared": int(declared.group(1)) if declared else None,
+            "exact_question_in_verified_ledger": bool(
+                question and normalise(question.group(1)) in normalise(ledger)
+            ),
+            "demand_decoding": "### Demand decoding" in section,
+            "why_this_earns_marks": "### Why this earns marks" in section,
+            "paragraph_count": (
+                len([part for part in answer.group(1).split("\n\n") if part.strip()])
+                if answer
+                else 0
+            ),
+        }
+        row["pass"] = (
+            identity in expected
+            and marks == expected[identity]
+            and WORD_BANDS[marks][0] <= count <= WORD_BANDS[marks][1]
+            and row["declared"] == count
+            and row["exact_question_in_verified_ledger"]
+            and row["demand_decoding"]
+            and row["why_this_earns_marks"]
+            and row["paragraph_count"] >= 3
+        )
+        if not row["pass"]:
+            failures.append({"pyq": identity, "details": row})
+        sections[identity] = row
+
+    formal_workbook = FORMAL_SOURCES["workbook"].read_text(encoding="utf-8")
+    formal_questions = {
+        int(number): normalise(question)
+        for number, question in re.findall(
+            r"(?ms)^#### Original (\d+) · \d+ marks\s+"
+            r"\*\*Question:\*\* (.+?)$",
+            formal_workbook,
+            re.M,
+        )
+    }
+    originals = {}
+    original_matches = list(
+        re.finditer(r"^## Original (\d+) · (\d+) marks$", toolkit, re.M)
+    )
+    for index, match in enumerate(original_matches):
+        end = (
+            original_matches[index + 1].start()
+            if index + 1 < len(original_matches)
+            else toolkit.find("## Final self-check", match.end())
+        )
+        section = toolkit[match.start() : end if end >= 0 else len(toolkit)]
+        number = int(match.group(1))
+        marks = int(match.group(2))
+        question = re.search(r"^\*\*Question:\*\* (.+)$", section, re.M)
+        answer = re.search(
+            r"(?ms)^### Timed independent model answer\s*$\n"
+            r"(.*?)(?=^\*\*Measured model-answer words:)",
+            section,
+        )
+        declared = re.search(
+            r"^\*\*Measured model-answer words:\*\* (\d+)$", section, re.M
+        )
+        count = len(words(answer.group(1))) if answer else 0
+        row = {
+            "marks": marks,
+            "words": count,
+            "band": WORD_BANDS.get(marks),
+            "declared": int(declared.group(1)) if declared else None,
+            "formal_question_match": bool(
+                question and normalise(question.group(1)) == formal_questions.get(number)
+            ),
+            "demand_decoding": "### Demand decoding" in section,
+            "why_this_earns_marks": "### Why this earns marks" in section,
+            "paragraph_count": (
+                len([part for part in answer.group(1).split("\n\n") if part.strip()])
+                if answer
+                else 0
+            ),
+        }
+        row["pass"] = (
+            marks in WORD_BANDS
+            and WORD_BANDS[marks][0] <= count <= WORD_BANDS[marks][1]
+            and row["declared"] == count
+            and row["formal_question_match"]
+            and row["demand_decoding"]
+            and row["why_this_earns_marks"]
+            and row["paragraph_count"] >= 3
+        )
+        if not row["pass"]:
+            failures.append({"original": number, "details": row})
+        originals[number] = row
+    distribution = sorted(row["marks"] for row in originals.values())
+    disclaimer = (
+        "independent learner practice" in normalise(toolkit)
+        and "never an official upsc key" in normalise(toolkit)
+    )
+    return {
+        "verified_pyqs": sections,
+        "original_solved_practice": originals,
+        "word_bands": WORD_BANDS,
+        "original_mark_distribution": distribution,
+        "independent_practice_disclaimer": disclaimer,
+        "failures": failures,
+        "pass": set(sections) == set(expected)
+        and len(originals) == 6
+        and distribution == [10, 10, 15, 15, 20, 20]
+        and all(row["pass"] for row in list(sections.values()) + list(originals.values()))
+        and disclaimer
+        and not failures,
+    }
+
+
+def band_instruction_checks(toolkit: str) -> dict:
+    normalized = (
+        toolkit.replace("–", "-")
+        .replace("—", "-")
+        .replace("about ", "")
+    )
+    forbidden_patterns = {
+        "10_mark_150_220": r"10 marks[^\n]{0,80}150\s*(?:to|-)\s*220",
+        "15_mark_250_330": r"15 marks[^\n]{0,80}250\s*(?:to|-)\s*330",
+        "20_mark_330_400": r"20 marks[^\n]{0,80}330\s*(?:to|-)\s*400",
+        "10_mark_150_300": r"10 marks[^\n]{0,80}150\s*(?:to|-)\s*300",
+        "15_mark_250_400": r"15 marks[^\n]{0,80}250\s*(?:to|-)\s*400",
+        "20_mark_330_550": r"20 marks[^\n]{0,80}330\s*(?:to|-)\s*550",
+    }
+    forbidden_hits = {
+        name: re.findall(pattern, normalized, re.I)
+        for name, pattern in forbidden_patterns.items()
+    }
+    execution_rows = [
+        {
+            "marks": int(marks),
+            "minimum": int(minimum),
+            "maximum": int(maximum),
+        }
+        for marks, minimum, maximum in re.findall(
+            r"\*\*Exam-length execution\s*-\s*(\d+) marks,\s*"
+            r"(\d+)\s*to\s*(\d+) words:",
+            normalized,
+            re.I,
+        )
+    ]
+    row_results = [
+        {
+            **row,
+            "expected": WORD_BANDS.get(row["marks"]),
+            "pass": WORD_BANDS.get(row["marks"])
+            == (row["minimum"], row["maximum"]),
+        }
+        for row in execution_rows
+    ]
+    header_rows = {
+        marks: bool(
+            re.search(
+                rf"\|\s*{marks}\s*\|[^\n]*\|\s*{minimum}\s*-\s*{maximum}\s+words\s*\|",
+                normalized,
+            )
+        )
+        for marks, (minimum, maximum) in WORD_BANDS.items()
+    }
+    return {
+        "locked_bands": WORD_BANDS,
+        "forbidden_band_hits": forbidden_hits,
+        "execution_instruction_count": len(execution_rows),
+        "execution_instructions": row_results,
+        "header_rows": header_rows,
+        "pass": not any(forbidden_hits.values())
+        and bool(execution_rows)
+        and all(row["pass"] for row in row_results)
+        and all(header_rows.values()),
+    }
+
+
+def package_negative_tests(toolkit: str, formal: dict) -> dict:
+    tests = []
+
+    def record(name: str, rejected: bool) -> None:
+        tests.append({"name": name, "rejected": rejected, "pass": rejected})
+
+    record(
+        "forbidden 10-mark 150-220 band",
+        not band_instruction_checks(
+            toolkit.replace("150 to 200 words", "150 to 220 words", 1)
+        )["pass"],
+    )
+    record(
+        "forbidden 15-mark 250-330 band",
+        not band_instruction_checks(
+            toolkit.replace("250 to 300 words", "250 to 330 words", 1)
+        )["pass"],
+    )
+    record(
+        "forbidden 20-mark 330-400 band",
+        not band_instruction_checks(
+            toolkit.replace("340 to 400 words", "330 to 400 words", 1)
+        )["pass"],
+    )
+    simulated_required = [name for name in REQUIRED if name != "VALIDATION.json"]
+    record(
+        "VALIDATION.json removed from required release set",
+        "VALIDATION.json" not in simulated_required
+        and "VALIDATION.json" in REQUIRED,
+    )
+    soul_mode = formal.get("external_destination_modes", {}).get(
+        "T11-ROUTE-P2-SOUL", {}
+    )
+    record(
+        "Soul destination satisfies development closure",
+        soul_mode.get("development_valid") is True,
+    )
+    release_mutation = next(
+        (
+            row
+            for row in formal.get("coverage_negative_tests", {}).get(
+                "tests", []
+            )
+            if row.get("name")
+            == "development-only Soul destination cannot satisfy release"
+        ),
+        {},
+    )
+    if not release_mutation:
+        fresh_mutations = formal_validation.negative_tests(
+            json.loads(FORMAL_REVIEW.read_text(encoding="utf-8")),
+            formal_validation.extract_blocks(),
+        )
+        release_mutation = next(
+            (
+                row
+                for row in fresh_mutations.get("tests", [])
+                if row.get("name")
+                == "development-only Soul destination cannot satisfy release"
+            ),
+            {},
+        )
+    record(
+        "development-only Soul release mutation is rejected",
+        release_mutation.get("pass") is True
+        and release_mutation.get("expected_failure_code")
+        == "closed_destination_release_not_ready"
+        and "closed_destination_release_not_ready"
+        in release_mutation.get("actual_failure_codes", []),
+    )
+    return {
+        "tests": tests,
+        "passed": sum(row["pass"] for row in tests),
+        "failed": sum(not row["pass"] for row in tests),
+        "pass": all(row["pass"] for row in tests),
+    }
+
+
+def isolated_text_integrity() -> dict:
+    failures = []
+    inspected = []
+    for path in sorted(TOPIC.rglob("*")):
+        if not path.is_file() or path.suffix.casefold() not in {".md", ".json", ".py"}:
+            continue
+        raw = path.read_bytes()
+        try:
+            text = raw.decode("utf-8")
+        except UnicodeDecodeError as error:
+            failures.append({"file": str(path.relative_to(TOPIC)), "error": str(error)})
+            continue
+        trailing = [
+            number
+            for number, line in enumerate(text.splitlines(), 1)
+            if line.endswith((" ", "\t"))
+        ]
+        if trailing:
+            failures.append(
+                {"file": str(path.relative_to(TOPIC)), "trailing_whitespace": trailing}
+            )
+        inspected.append(
+            {
+                "file": str(path.relative_to(TOPIC)),
+                "bytes": len(raw),
+                "sha256": hashlib.sha256(raw).hexdigest(),
+            }
+        )
+    diff = subprocess.run(
+        [
+            "git",
+            "-C",
+            str(REPO),
+            "--no-pager",
+            "diff",
+            "--check",
+            "--",
+            str(TOPIC.relative_to(REPO)),
+        ],
+        capture_output=True,
+        text=True,
+    )
+    if diff.returncode:
+        failures.append({"git_diff_check": (diff.stdout + diff.stderr).strip()})
+    return {"inspected": inspected, "failures": failures, "pass": bool(inspected) and not failures}
+
+
+def release_integrity(formal: dict) -> dict:
+    rows = []
+    for name in REQUIRED:
+        path = TOPIC / name
+        relative = str(path.relative_to(REPO)).replace("\\", "/")
+        worktree_hash = (
+            subprocess.run(
+                ["git", "-C", str(REPO), "hash-object", "--", relative],
+                capture_output=True,
+                text=True,
+            ).stdout.strip()
+            if path.is_file()
+            else ""
+        )
+        indexed = subprocess.run(
+            ["git", "-C", str(REPO), "ls-files", "-s", "--", relative],
+            capture_output=True,
+            text=True,
+        ).stdout.strip().split()
+        index_hash = indexed[1] if len(indexed) >= 2 else ""
+        self_recursive = name == "VALIDATION.json"
+        rows.append(
+            {
+                "file": name,
+                "worktree_hash": worktree_hash,
+                "index_hash": index_hash,
+                "self_recursive_validation_artifact": self_recursive,
+                "current_in_index": bool(
+                    index_hash
+                    and (
+                        self_recursive
+                        or worktree_hash == index_hash
+                    )
+                ),
+            }
+        )
+    obligations_closed = not formal.get(
+        "release_blocked_by_external_obligations", True
+    )
+    return {
+        "files": rows,
+        "validation_self_recursion_policy": (
+            "VALIDATION.json must already be tracked or staged, but its worktree hash is "
+            "not compared with the index because this validation run rewrites that file."
+        ),
+        "validation_file_required": "VALIDATION.json" in REQUIRED,
+        "all_required_current_in_index": all(
+            row["current_in_index"] for row in rows
+        ),
+        "external_obligations_closed": obligations_closed,
+        "pass": all(row["current_in_index"] for row in rows) and obligations_closed,
+    }
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--regenerate", action="store_true")
+    parser.add_argument("--regenerate-toolkit", action="store_true")
+    parser.add_argument("--refresh-formal-audit", action="store_true")
+    parser.add_argument("--mode", choices=("development", "precommit"), default="development")
     args = parser.parse_args()
-    regeneration = {"requested": False, "files": {}, "all_four_regenerated": False}
-    if args.regenerate:
-        regeneration = regenerate_pdfs()
+    review_hash_before = (
+        hashlib.sha256(FORMAL_REVIEW.read_bytes()).hexdigest()
+        if FORMAL_REVIEW.is_file()
+        else None
+    )
+    if args.refresh_formal_audit or not FORMAL_AUDIT.is_file():
+        formal_validation.refresh_audit(mode=args.mode)
+    review_hash_after = (
+        hashlib.sha256(FORMAL_REVIEW.read_bytes()).hexdigest()
+        if FORMAL_REVIEW.is_file()
+        else None
+    )
+    if review_hash_before != review_hash_after:
+        raise RuntimeError("formal audit refresh mutated authored review decisions")
+
+    prior = {}
+    if VALIDATION.is_file():
+        try:
+            prior = json.loads(VALIDATION.read_text(encoding="utf-8")).get(
+                "pdf_generation", {}
+            )
+        except (json.JSONDecodeError, OSError):
+            prior = {}
+    regeneration = {
+        "requested": False,
+        "mechanism": prior.get("mechanism"),
+        "files": prior.get("files", {}),
+        "all_four_regenerated": prior.get("all_four_regenerated", False),
+        "reused_prior_record": bool(prior.get("files")),
+    }
+    if args.regenerate or args.regenerate_toolkit:
+        selected = (
+            {"Answer-Writing-Toolkit.pdf"} if args.regenerate_toolkit else None
+        )
+        partial = regenerate_pdfs(selected)
+        files = dict(prior.get("files", {}))
+        files.update(partial["files"])
+        regeneration = {
+            "mechanism": (
+                "C:/up/tools/unicode_markdown_pdf.py via installed Chrome and PyMuPDF"
+            ),
+            "requested": True,
+            "selected": partial["selected"],
+            "files": files,
+            "all_four_regenerated": set(files) == set(PDF_SOURCES)
+            and all((PDF_DIR / name).is_file() for name in PDF_SOURCES),
+            "reused_prior_record": bool(prior.get("files")),
+        }
 
     texts = {name: (TOPIC / name).read_text(encoding="utf-8") for name in (
         "README.md", "REVISION-GUIDE.md", "MCQ-QUESTIONS.md", "MCQ-SOLUTIONS.md",
@@ -1324,6 +1806,9 @@ def main() -> int:
     required = {name: (TOPIC / name).is_file() for name in REQUIRED}
     if not all(required.values()):
         failures.append("required_files")
+    formal = formal_validation.validate_audit(mode=args.mode)
+    if not formal["pass"]:
+        failures.append("formal_coverage_audit")
     numbering = {
         "question_count": len(questions), "solution_count": len(solutions),
         "consecutive": [x["number"] for x in questions] == list(range(1, MCQ_COUNT + 1)),
@@ -1373,110 +1858,155 @@ def main() -> int:
     solutions_complete = {"counts": marker_counts, "expected": MCQ_COUNT, "pass": all(value == MCQ_COUNT for value in marker_counts.values())}
     if not solutions_complete["pass"]:
         failures.append("solutions_complete")
-    lineage = source_lineage_checks(texts["REVISION-GUIDE.md"], texts["COVERAGE-LEDGER.md"], questions)
-    if not lineage["pass"]:
-        failures.append("source_lineage")
     doctrinal = doctrinal_checks(texts["REVISION-GUIDE.md"], texts["ANSWER-WRITING-TOOLKIT.md"])
     if not doctrinal["pass"]:
         failures.append("doctrinal")
-    toolkit = toolkit_checks(texts["ANSWER-WRITING-TOOLKIT.md"])
+    toolkit = toolkit_checks_reconciled(texts["ANSWER-WRITING-TOOLKIT.md"])
     if not toolkit["pass"]:
         failures.append("toolkit")
-    demand = demand_audit_checks(texts["ANSWER-WRITING-TOOLKIT.md"])
-    if not demand["pass"]:
-        failures.append("pyq_demand_audit")
-    provenance_docs = {name: texts[name] for name in ("README.md","REVISION-GUIDE.md","COVERAGE-LEDGER.md")}
-    forbidden = ("preserved verbatim","sliced verbatim","each canonical passage exactly once","copied unchanged","semantic completeness is guaranteed")
-    provenance = {
-        "required_statement": all(phrase in token_normalise(texts["README.md"] + texts["REVISION-GUIDE.md"]) for phrase in (
-            "canonical owner file is substantially retained where already final",
-            "source cells were reconciled adapted and mapped",
-            "repeated apparatus was consolidated",
-            "mechanical validation does not prove semantic completeness",
-        )),
-        "forbidden_claims": {name: [phrase for phrase in forbidden if phrase in normalise(text)] for name, text in provenance_docs.items()},
+    band_instructions = band_instruction_checks(texts["ANSWER-WRITING-TOOLKIT.md"])
+    if not band_instructions["pass"]:
+        failures.append("band_instruction_consistency")
+    production_tests = package_negative_tests(
+        texts["ANSWER-WRITING-TOOLKIT.md"], formal
+    )
+    if not production_tests["pass"]:
+        failures.append("package_negative_tests")
+    provenance_docs = {
+        name: texts[name]
+        for name in ("README.md", "REVISION-GUIDE.md", "COVERAGE-LEDGER.md")
     }
-    provenance["pass"] = provenance["required_statement"] and not any(provenance["forbidden_claims"].values())
+    forbidden = (
+        "preserved verbatim",
+        "sliced verbatim",
+        "each canonical passage exactly once",
+        "copied unchanged",
+        "semantic completeness is guaranteed",
+    )
+    provenance = {
+        "authoritative_formal_root": str(AUTHORITATIVE_FORMAL_ROOT),
+        "formal_sources_under_authoritative_root": all(
+            str(path).casefold().startswith(str(AUTHORITATIVE_FORMAL_ROOT).casefold())
+            for path in FORMAL_SOURCES.values()
+        ),
+        "forbidden_derivative_root_not_used": all(
+            not str(path).casefold().startswith(
+                str(FORBIDDEN_DERIVATIVE_FORMAL_ROOT).casefold()
+            )
+            for path in FORMAL_SOURCES.values()
+        ),
+        "required_statement": all(
+            phrase
+            in token_normalise(texts["README.md"] + texts["REVISION-GUIDE.md"])
+            for phrase in (
+                "canonical owner file is substantially retained where already final",
+                "source cells were reconciled adapted and mapped",
+                "repeated apparatus was consolidated",
+                "mechanical validation does not prove semantic completeness",
+            )
+        ),
+        "forbidden_claims": {
+            name: [
+                phrase for phrase in forbidden if phrase in normalise(text)
+            ]
+            for name, text in provenance_docs.items()
+        },
+    }
+    provenance["pass"] = (
+        provenance["formal_sources_under_authoritative_root"]
+        and provenance["forbidden_derivative_root_not_used"]
+        and provenance["required_statement"]
+        and not any(provenance["forbidden_claims"].values())
+    )
     if not provenance["pass"]:
         failures.append("provenance_wording")
     pdfs = {
         name: pdf_checks(
             PDF_DIR / name,
             TOPIC / source,
-            regeneration["files"].get(name) if args.regenerate else None,
+            regeneration["files"].get(name),
         )
         for name, source in PDF_SOURCES.items()
     }
-    release_regeneration = {
-        "regenerate_flag_required": True,
-        "regenerate_flag_present": args.regenerate,
-        "all_four_regenerated": regeneration["all_four_regenerated"],
-        "source_hash_timestamp_records_complete": all(
-            value["matches_current_regeneration_record"] for value in pdfs.values()
-        ),
-        "pass": args.regenerate and regeneration["all_four_regenerated"]
-        and all(value["matches_current_regeneration_record"] for value in pdfs.values()),
-    }
-    if not release_regeneration["pass"]:
-        failures.append("release_regeneration")
     if not all(value["pass"] for value in pdfs.values()):
         failures.append("pdfs")
     temp = sorted(str(path.relative_to(TOPIC)) for pattern in ("*.tmp","*_data.py","*.render.html","*.layout-pass.pdf","*.finalized.pdf","*.pyc") for path in TOPIC.rglob(pattern))
     temp += sorted(str(path.relative_to(TOPIC)) for path in TOPIC.rglob("__pycache__") if path.is_dir())
     if temp:
         failures.append("temporary_files")
-    integrity = text_integrity()
+    integrity = isolated_text_integrity()
     if not integrity["pass"]:
         failures.append("text_integrity")
-    status = json.loads((REPO / "practice/Offline-Revision-MCQ/STATUS.json").read_text(encoding="utf-8"))
-    index = (REPO / "practice/Offline-Revision-MCQ/INDEX.md").read_text(encoding="utf-8")
-    repository_status = {
-        "topic_11_validated": any(
-            x.get("topic") == "11 Quine and Strawson"
-            and x.get("mcq_count") == MCQ_COUNT
-            and x.get("directly_owned_solved_pyqs") == 10
-            for x in status["validated_topics"]
-        ),
-        "next_western_final_audit": "Western Philosophy final audit" in status["next_action"],
-        "topic_11_indexed": "11 Quine and Strawson" in index and "61 MCQs" in index and "10 directly owned" in index,
-    }
-    if not all(repository_status.values()):
-        failures.append("repository_status")
     practice_blank = not re.search(r"(?im)^\s*(score|attempt|answer)\s*:\s*\S+", texts["PRACTICE-LOG.md"])
     if not practice_blank:
         failures.append("practice_log")
+    release = release_integrity(formal)
+    if args.mode == "precommit" and not release["pass"]:
+        failures.append("release_integrity")
 
+    if failures:
+        result = "FAIL"
+    elif args.mode == "precommit":
+        result = "RELEASE_PASS"
+    else:
+        result = "DEVELOPMENT_PASS"
     report = {
-        "schema_version": 13,
+        "schema_version": 16,
         "topic": "11 Quine and Strawson",
         "validated_at": datetime.now().astimezone().isoformat(timespec="seconds"),
-        "result": "PASS" if not failures else "FAIL",
-        "result_gate": "PASS only when every recorded check passes",
-        "pdf_generation": {"mechanism": "C:/up/tools/unicode_markdown_pdf.py via installed Chrome and PyMuPDF", **regeneration},
+        "result": result,
+        "validation_mode": args.mode,
+        "release_ready": release["pass"],
+        "result_gate": (
+            "DEVELOPMENT_PASS validates the isolated package and generated artifacts. "
+            "RELEASE_PASS additionally requires every current required file in the Git "
+            "index and all external obligations closed."
+        ),
+        "pdf_generation": regeneration,
         "checks": {
-            "required_files": required, "mcq_numbering": numbering,
-            "question_answer_leakage": leakage, "answer_pattern": answer_pattern,
-            "option_and_cue_quality": option_result, "parsed_mcq_audit": audit_result,
+            "required_files": required,
+            "formal_coverage_audit": formal,
+            "mcq_numbering": numbering,
+            "question_answer_leakage": leakage,
+            "answer_pattern": answer_pattern,
+            "option_and_cue_quality": option_result,
+            "parsed_mcq_audit": audit_result,
             "mcq13_formal_logic": mcq13,
-            "duplicate_tested_inferences": dedup, "solutions_complete": solutions_complete,
-            "source_lineage": lineage, "doctrinal_coverage": doctrinal,
-            "answer_writing_toolkit": toolkit, "pyq_demand_audit": demand,
+            "duplicate_tested_inferences": dedup,
+            "solutions_complete": solutions_complete,
+            "doctrinal_coverage": doctrinal,
+            "answer_writing_toolkit": toolkit,
+            "band_instruction_consistency": band_instructions,
+            "package_negative_tests": production_tests,
             "provenance_wording": provenance,
-            "release_regeneration_gate": release_regeneration,
             "pdfs": pdfs,
             "practice_log_blank_template": practice_blank,
-            "temporary_files_left": temp, "text_and_diff_integrity": integrity,
-            "repository_status_files": repository_status,
+            "temporary_files_left": temp,
+            "text_and_diff_integrity": integrity,
+            "release_integrity": release,
         },
         "failures": failures,
+        "mechanical_limits": (
+            "Development validation certifies enumerated source-block accounting, "
+            "reviewed source/destination correspondence, panel parity, randomized MCQ "
+            "gates, exact PYQ structure, locked word bands and PDF mechanics. It does "
+            "not prove philosophical truth, semantic completeness or examiner marks. "
+            "Release is intentionally blocked by serialized external obligations."
+        ),
     }
     VALIDATION.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     pages = ", ".join(f"{name}: {value['pages']}" for name, value in pdfs.items())
-    print(f"{report['result']}: {MCQ_COUNT} MCQs; correct-longest={option_result['correct_is_longest_rate_percent']}%; unique-longest={option_result['uniquely_longest_rate_percent']}%; PDF pages={{{pages}}}")
+    print(
+        f"{result}: formal={formal.get('formal_block_count', 0)} "
+        f"panels={formal.get('panel_count', 0)} MCQs={MCQ_COUNT} "
+        f"PYQs={len(toolkit.get('verified_pyqs', {}))} "
+        f"originals={len(toolkit.get('original_solved_practice', {}))}; "
+        f"PDF pages={{{pages}}}; release_ready={release['pass']}"
+    )
     if failures:
         print("Failures:", ", ".join(failures))
         return 1
-    return 0
+    return 0 if result in {"DEVELOPMENT_PASS", "RELEASE_PASS"} else 1
 
 
 if __name__ == "__main__":

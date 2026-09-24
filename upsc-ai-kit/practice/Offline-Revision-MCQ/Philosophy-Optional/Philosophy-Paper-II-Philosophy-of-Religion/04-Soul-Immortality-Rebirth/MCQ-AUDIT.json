@@ -1,0 +1,2017 @@
+{
+  "schema_version": 1,
+  "topic": "Soul, Immortality and Rebirth",
+  "question_count": 54,
+  "answer_key": "BACBCCAABCADCCABACDBCAABDDACCBACBDBABBADADCDDADDBBCDBD",
+  "distribution": {
+    "B": 14,
+    "A": 14,
+    "C": 13,
+    "D": 13
+  },
+  "maximum_run": 2,
+  "mechanical_rotation": false,
+  "reference_candidates": 48,
+  "new_identity_and_inbound_items": 6,
+  "questions": [
+    {
+      "number": 1,
+      "stem": "On the six survival-terms, which statement is correct?",
+      "answer": "B",
+      "coverage_cell": "C01",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Immortality and survival make exactly the same claim.",
+          "truth_value": false,
+          "error_type": "scope overstatement",
+          "rationale": "Incorrect — scope overstatement. The option claims “Immortality and survival make exactly the same claim.” The governing correction is: Rebirth (esp. Buddhist punarbhava) is the wider term; reincarnation assumes a substance re-enfleshed, resurrection is one life, and liberation is exit from the cycle, not heaven."
+        },
+        "B": {
+          "text": "Rebirth is a wider term than reincarnation.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Rebirth (esp. Buddhist punarbhava) is the wider term; reincarnation assumes a substance re-enfleshed, resurrection is one life, and liberation is exit from the cycle, not heaven."
+        },
+        "C": {
+          "text": "Liberation is simply a synonym for heaven.",
+          "truth_value": false,
+          "error_type": "scope overstatement",
+          "rationale": "Incorrect — scope overstatement. The option claims “Liberation is simply a synonym for heaven.” The governing correction is: Rebirth (esp. Buddhist punarbhava) is the wider term; reincarnation assumes a substance re-enfleshed, resurrection is one life, and liberation is exit from the cycle, not heaven."
+        },
+        "D": {
+          "text": "Resurrection is a form of transmigration.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Resurrection is a form of transmigration.” The governing correction is: Rebirth (esp. Buddhist punarbhava) is the wider term; reincarnation assumes a substance re-enfleshed, resurrection is one life, and liberation is exit from the cycle, not heaven."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 2,
+      "stem": "Which relation between substantial-soul immortality and rebirth is philosophically defensible?",
+      "answer": "A",
+      "coverage_cell": "C03",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "It is neither sufficient by itself nor necessary.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Immortality can identify a continuity bearer, but rebirth additionally needs a transmigration or re-embodiment doctrine; Buddhist causal continuity also shows that a substantial immortal soul is not necessary."
+        },
+        "B": {
+          "text": "It is sufficient by itself but not necessary.",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — it treats survival as if it already entailed another embodiment. The option claims “It is sufficient by itself but not necessary.” Immortality alone does not supply a rebirth mechanism."
+        },
+        "C": {
+          "text": "It is necessary but insufficient by itself.",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — Buddhism rejects the alleged necessity, and immortality alone still does not establish re-embodiment. The option claims “It is necessary but insufficient by itself.”"
+        },
+        "D": {
+          "text": "It is both necessary and sufficient.",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — it overstates both directions. The option claims “It is both necessary and sufficient.” Buddhist rebirth denies necessity, while the need for an additional transmigration account denies sufficiency."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 3,
+      "stem": "The decisive counter-example to 'rebirth requires an immortal soul' is:",
+      "answer": "C",
+      "coverage_cell": "C04",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Jainism",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “Jainism” The governing correction is: Buddhism affirms rebirth (punarbhava) while denying a permanent self (anatman)."
+        },
+        "B": {
+          "text": "Nyaya-Vaisesika",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “Nyaya-Vaisesika” The governing correction is: Buddhism affirms rebirth (punarbhava) while denying a permanent self (anatman)."
+        },
+        "C": {
+          "text": "Buddhism",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Buddhism affirms rebirth (punarbhava) while denying a permanent self (anatman)."
+        },
+        "D": {
+          "text": "Advaita Vedanta",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “Advaita Vedanta” The governing correction is: Buddhism affirms rebirth (punarbhava) while denying a permanent self (anatman)."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 4,
+      "stem": "Calling 'liberation' a family-resemblance term means:",
+      "answer": "B",
+      "coverage_cell": "C01",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "It lacks any shared use across philosophical schools.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “It lacks any shared use across philosophical schools.” The governing correction is: Identity, communion, cessation, isolation and perfected individuality share the label 'liberation' without sharing one content."
+        },
+        "B": {
+          "text": "It covers distinct destinations linked by overlapping concerns.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Identity, communion, cessation, isolation and perfected individuality share the label 'liberation' without sharing one content."
+        },
+        "C": {
+          "text": "It names precisely the same state in every school.",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — collapsed distinction. The option claims “It names precisely the same state in every school.” The governing correction is: Identity, communion, cessation, isolation and perfected individuality share the label 'liberation' without sharing one content."
+        },
+        "D": {
+          "text": "It always denotes personal union with a creator-God.",
+          "truth_value": false,
+          "error_type": "scope overstatement",
+          "rationale": "Incorrect — scope overstatement. The option claims “It always denotes personal union with a creator-God.” The governing correction is: Identity, communion, cessation, isolation and perfected individuality share the label 'liberation' without sharing one content."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 5,
+      "stem": "Plato's recollection (anamnesis) argument most directly establishes:",
+      "answer": "C",
+      "coverage_cell": "C03",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "bodily resurrection",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “bodily resurrection” The governing correction is: Recollection infers that the soul knew the Forms before birth -- pre-existence, which is not yet post-mortem survival."
+        },
+        "B": {
+          "text": "the soul's post-mortem survival on its own",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “the soul's post-mortem survival on its own” The governing correction is: Recollection infers that the soul knew the Forms before birth -- pre-existence, which is not yet post-mortem survival."
+        },
+        "C": {
+          "text": "the soul's pre-existence",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Recollection infers that the soul knew the Forms before birth -- pre-existence, which is not yet post-mortem survival."
+        },
+        "D": {
+          "text": "the mortality of the body",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “the mortality of the body” The governing correction is: Recollection infers that the soul knew the Forms before birth -- pre-existence, which is not yet post-mortem survival."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 6,
+      "stem": "Which is Plato's culminating ('final') argument in the Phaedo?",
+      "answer": "C",
+      "coverage_cell": "C03",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "The affinity argument based on likeness to the Forms.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The affinity argument based on likeness to the Forms.” The governing correction is: The final argument holds that the soul essentially brings Life and so cannot admit its opposite, death."
+        },
+        "B": {
+          "text": "The cyclical argument based on generation from opposites.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The cyclical argument based on generation from opposites.” The governing correction is: The final argument holds that the soul essentially brings Life and so cannot admit its opposite, death."
+        },
+        "C": {
+          "text": "The final argument based on the Form of Life.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. The final argument holds that the soul essentially brings Life and so cannot admit its opposite, death."
+        },
+        "D": {
+          "text": "The recollection argument based on knowledge before birth.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The recollection argument based on knowledge before birth.” The governing correction is: The final argument holds that the soul essentially brings Life and so cannot admit its opposite, death."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 7,
+      "stem": "Simmias objects to Plato that the soul is:",
+      "answer": "A",
+      "coverage_cell": "C03",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "a harmony/attunement of the body",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. The harmony objection makes the soul depend on the body; Plato replies the soul rules the body and pre-exists it."
+        },
+        "B": {
+          "text": "identical with the Forms",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — collapsed distinction. The option claims “identical with the Forms” The governing correction is: The harmony objection makes the soul depend on the body; Plato replies the soul rules the body and pre-exists it."
+        },
+        "C": {
+          "text": "immortal by affinity to the Forms",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “immortal by affinity to the Forms” The governing correction is: The harmony objection makes the soul depend on the body; Plato replies the soul rules the body and pre-exists it."
+        },
+        "D": {
+          "text": "a simple substance",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “a simple substance” The governing correction is: The harmony objection makes the soul depend on the body; Plato replies the soul rules the body and pre-exists it."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 8,
+      "stem": "Kant's paralogism, applied to immortality, shows that:",
+      "answer": "A",
+      "coverage_cell": "C03",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "The soul's permanence cannot be demonstrated as substantial.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Kant denies that the soul is a knowable substance, so its indestructibility cannot be proved a priori."
+        },
+        "B": {
+          "text": "The soul's survival follows directly from recollected knowledge.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The soul's survival follows directly from recollected knowledge.” The governing correction is: Kant denies that the soul is a knowable substance, so its indestructibility cannot be proved a priori."
+        },
+        "C": {
+          "text": "The soul is known theoretically as an enduring substance.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The soul is known theoretically as an enduring substance.” The governing correction is: Kant denies that the soul is a knowable substance, so its indestructibility cannot be proved a priori."
+        },
+        "D": {
+          "text": "The soul is established empirically as a material entity.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The soul is established empirically as a material entity.” The governing correction is: Kant denies that the soul is a knowable substance, so its indestructibility cannot be proved a priori."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 9,
+      "stem": "The three kinds of karma are:",
+      "answer": "B",
+      "coverage_cell": "C04",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "asrava, bandha and nirjara",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “asrava, bandha and nirjara” The governing correction is: Sancita (stored), prarabdha (now ripening) and agami (future) classify karmic debt."
+        },
+        "B": {
+          "text": "sancita, prarabdha and agami",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Sancita (stored), prarabdha (now ripening) and agami (future) classify karmic debt."
+        },
+        "C": {
+          "text": "jnana, karma and bhakti",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “jnana, karma and bhakti” The governing correction is: Sancita (stored), prarabdha (now ripening) and agami (future) classify karmic debt."
+        },
+        "D": {
+          "text": "sattva, rajas and tamas",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “sattva, rajas and tamas” The governing correction is: Sancita (stored), prarabdha (now ripening) and agami (future) classify karmic debt."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 10,
+      "stem": "Rebirth is significant in karma theory chiefly because it:",
+      "answer": "C",
+      "coverage_cell": "C04",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "It cancels responsibility once the present life ends.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “It cancels responsibility once the present life ends.” The governing correction is: Desert outruns a single life, so rebirth is the field where karmic fruits ripen."
+        },
+        "B": {
+          "text": "It preserves conscious memory of every previous embodiment.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “It preserves conscious memory of every previous embodiment.” The governing correction is: Desert outruns a single life, so rebirth is the field where karmic fruits ripen."
+        },
+        "C": {
+          "text": "It lets karmic consequences mature beyond one lifetime.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Desert outruns a single life, so rebirth is the field where karmic fruits ripen."
+        },
+        "D": {
+          "text": "It demonstrates a divine distributor of karmic rewards.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “It demonstrates a divine distributor of karmic rewards.” The governing correction is: Desert outruns a single life, so rebirth is the field where karmic fruits ripen."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 11,
+      "stem": "The claim that karma is NOT fatalism rests on:",
+      "answer": "A",
+      "coverage_cell": "C04",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Present effort operates within inherited karmic conditions.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Personal effort (purusakara) works within the given (daiva); present effort shapes future (agami) karma."
+        },
+        "B": {
+          "text": "Unseen karmic force determines every action without remainder.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Unseen karmic force determines every action without remainder.” The governing correction is: Personal effort (purusakara) works within the given (daiva); present effort shapes future (agami) karma."
+        },
+        "C": {
+          "text": "Maturing past karma eliminates all present moral choice.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Maturing past karma eliminates all present moral choice.” The governing correction is: Personal effort (purusakara) works within the given (daiva); present effort shapes future (agami) karma."
+        },
+        "D": {
+          "text": "The subtle body fixes every future action in advance.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The subtle body fixes every future action in advance.” The governing correction is: Personal effort (purusakara) works within the given (daiva); present effort shapes future (agami) karma."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 12,
+      "stem": "Gita 9.21 (return from heaven once merit is exhausted) shows that:",
+      "answer": "D",
+      "coverage_cell": "C11",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Karmic action has no reality after bodily death.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Karmic action has no reality after bodily death.” The governing correction is: Heavenly sojourn ends in return to the mortal world, so it is inside samsara."
+        },
+        "B": {
+          "text": "Heaven constitutes the final release from saṃsāra.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Heaven constitutes the final release from saṃsāra.” The governing correction is: Heavenly sojourn ends in return to the mortal world, so it is inside samsara."
+        },
+        "C": {
+          "text": "Bodily resurrection takes place after heavenly enjoyment.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Bodily resurrection takes place after heavenly enjoyment.” The governing correction is: Heavenly sojourn ends in return to the mortal world, so it is inside samsara."
+        },
+        "D": {
+          "text": "Heaven remains a temporary stage within saṃsāra.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Heavenly sojourn ends in return to the mortal world, so it is inside samsara."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 13,
+      "stem": "In Buddhism, what is 'reborn' is best described as:",
+      "answer": "C",
+      "coverage_cell": "C05",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "An eternal ātman carrying unchanged personal identity.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “An eternal ātman carrying unchanged personal identity.” The governing correction is: Rebirth is causal continuity of dependently arisen aggregates, not a soul."
+        },
+        "B": {
+          "text": "A resurrected body restored by divine action.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “A resurrected body restored by divine action.” The governing correction is: Rebirth is causal continuity of dependently arisen aggregates, not a soul."
+        },
+        "C": {
+          "text": "A dependently arisen stream of causally linked events.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Rebirth is causal continuity of dependently arisen aggregates, not a soul."
+        },
+        "D": {
+          "text": "A permanent substance migrating intact between bodies.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “A permanent substance migrating intact between bodies.” The governing correction is: Rebirth is causal continuity of dependently arisen aggregates, not a soul."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 14,
+      "stem": "'Neither the same nor wholly other' answers the objection that:",
+      "answer": "C",
+      "coverage_cell": "C11",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Whether Buddhist analysis collapses into complete nihilism.",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “Whether Buddhist analysis collapses into complete nihilism.” The governing correction is: The later stream is causally descended from the earlier -- enough for moral responsibility without substance-identity."
+        },
+        "B": {
+          "text": "Whether the flame illustration demonstrates rebirth conclusively.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Whether the flame illustration demonstrates rebirth conclusively.” The governing correction is: The later stream is causally descended from the earlier -- enough for moral responsibility without substance-identity."
+        },
+        "C": {
+          "text": "Who receives karmic fruits if no self persists.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. The later stream is causally descended from the earlier -- enough for moral responsibility without substance-identity."
+        },
+        "D": {
+          "text": "Whether anātman abolishes all conventional personal reference.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Whether anātman abolishes all conventional personal reference.” The governing correction is: The later stream is causally descended from the earlier -- enough for moral responsibility without substance-identity."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 15,
+      "stem": "The flame-to-flame illustration is properly used as:",
+      "answer": "A",
+      "coverage_cell": "C05",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "A model of continuity without strict numerical identity.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. It illustrates a continuity-model; it is never a demonstration."
+        },
+        "B": {
+          "text": "Empirical evidence for an immaterial and immortal soul.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Empirical evidence for an immaterial and immortal soul.” The governing correction is: It illustrates a continuity-model; it is never a demonstration."
+        },
+        "C": {
+          "text": "A demonstrative proof that rebirth actually occurs.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “A demonstrative proof that rebirth actually occurs.” The governing correction is: It illustrates a continuity-model; it is never a demonstration."
+        },
+        "D": {
+          "text": "A demonstrative proof that no self exists.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “A demonstrative proof that no self exists.” The governing correction is: It illustrates a continuity-model; it is never a demonstration."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 16,
+      "stem": "The philosophical significance of the anti-theistic stand on rebirth is that rebirth is shown to be:",
+      "answer": "B",
+      "coverage_cell": "C04",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Logically impossible unless a creator directs the process.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Logically impossible unless a creator directs the process.” The governing correction is: Buddhism (and Jainism) run karma-rebirth-liberation without a judging God or a transmigrating substance."
+        },
+        "B": {
+          "text": "Coherent without either creator-God or soul-substance.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Buddhism (and Jainism) run karma-rebirth-liberation without a judging God or a transmigrating substance."
+        },
+        "C": {
+          "text": "Dependent on an immortal bearer governed by God.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Dependent on an immortal bearer governed by God.” The governing correction is: Buddhism (and Jainism) run karma-rebirth-liberation without a judging God or a transmigrating substance."
+        },
+        "D": {
+          "text": "Conceptually identical with bodily resurrection after death.",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — collapsed distinction. The option claims “Conceptually identical with bodily resurrection after death.” The governing correction is: Buddhism (and Jainism) run karma-rebirth-liberation without a judging God or a transmigrating substance."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 17,
+      "stem": "In Nyaya apavarga, consciousness in the liberated state is:",
+      "answer": "A",
+      "coverage_cell": "C08",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "absent",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Consciousness is adventitious to the Nyaya self, so apavarga ends pain and consciousness alike -- a negative state."
+        },
+        "B": {
+          "text": "omniscient",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “omniscient” The governing correction is: Consciousness is adventitious to the Nyaya self, so apavarga ends pain and consciousness alike -- a negative state."
+        },
+        "C": {
+          "text": "infinite bliss",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “infinite bliss” The governing correction is: Consciousness is adventitious to the Nyaya self, so apavarga ends pain and consciousness alike -- a negative state."
+        },
+        "D": {
+          "text": "non-dual awareness",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “non-dual awareness” The governing correction is: Consciousness is adventitious to the Nyaya self, so apavarga ends pain and consciousness alike -- a negative state."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 18,
+      "stem": "Which pair correctly matches liberation-term to school?",
+      "answer": "C",
+      "coverage_cell": "C01",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "nirvana -- Jainism",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “nirvana -- Jainism” The governing correction is: Apavarga is the Nyaya-Vaisesika term; kaivalya is Samkhya-Yoga, nirvana is Buddhist, and Buddhism does not use moksa in the Vedantic sense."
+        },
+        "B": {
+          "text": "kaivalya -- Advaita",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “kaivalya -- Advaita” The governing correction is: Apavarga is the Nyaya-Vaisesika term; kaivalya is Samkhya-Yoga, nirvana is Buddhist, and Buddhism does not use moksa in the Vedantic sense."
+        },
+        "C": {
+          "text": "apavarga -- Nyaya-Vaisesika",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Apavarga is the Nyaya-Vaisesika term; kaivalya is Samkhya-Yoga, nirvana is Buddhist, and Buddhism does not use moksa in the Vedantic sense."
+        },
+        "D": {
+          "text": "moksa -- Buddhism",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “moksa -- Buddhism” The governing correction is: Apavarga is the Nyaya-Vaisesika term; kaivalya is Samkhya-Yoga, nirvana is Buddhist, and Buddhism does not use moksa in the Vedantic sense."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 19,
+      "stem": "Jivanmukti differs from videhamukti in that jivanmukti is:",
+      "answer": "D",
+      "coverage_cell": "C07",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "the resurrection of the person",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “the resurrection of the person” The governing correction is: Jivanmukti is freedom while living; videhamukti is at the body's fall."
+        },
+        "B": {
+          "text": "liberation only after death",
+          "truth_value": false,
+          "error_type": "scope overstatement",
+          "rationale": "Incorrect — scope overstatement. The option claims “liberation only after death” The governing correction is: Jivanmukti is freedom while living; videhamukti is at the body's fall."
+        },
+        "C": {
+          "text": "liberation of the body itself",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “liberation of the body itself” The governing correction is: Jivanmukti is freedom while living; videhamukti is at the body's fall."
+        },
+        "D": {
+          "text": "liberation attained while still embodied",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Jivanmukti is freedom while living; videhamukti is at the body's fall."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 20,
+      "stem": "Griffiths' formula that Advaitic moksa is 'not acquired but acknowledged' means:",
+      "answer": "B",
+      "coverage_cell": "C06",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Mokṣa is acquired later as a heavenly reward.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Mokṣa is acquired later as a heavenly reward.” The governing correction is: Bondage is avidya/adhyasa, so knowledge only removes the superimposition."
+        },
+        "B": {
+          "text": "Knowledge removes error about an already-free self.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Bondage is avidya/adhyasa, so knowledge only removes the superimposition."
+        },
+        "C": {
+          "text": "Ritual action produces mokṣa as a new result.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Ritual action produces mokṣa as a new result.” The governing correction is: Bondage is avidya/adhyasa, so knowledge only removes the superimposition."
+        },
+        "D": {
+          "text": "Bodily resurrection discloses the self's prior freedom.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Bodily resurrection discloses the self's prior freedom.” The governing correction is: Bondage is avidya/adhyasa, so knowledge only removes the superimposition."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 21,
+      "stem": "For Visistadvaita, in liberation the jiva:",
+      "answer": "C",
+      "coverage_cell": "C07",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "The jīva is extinguished when bondage finally ends.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The jīva is extinguished when bondage finally ends.” The governing correction is: The jiva is an eternal mode of God, freed into service/communion, never becoming God."
+        },
+        "B": {
+          "text": "The jīva persists without awareness or divine relation.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The jīva persists without awareness or divine relation.” The governing correction is: The jiva is an eternal mode of God, freed into service/communion, never becoming God."
+        },
+        "C": {
+          "text": "The jīva persists eternally in communion with God.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. The jiva is an eternal mode of God, freed into service/communion, never becoming God."
+        },
+        "D": {
+          "text": "The jīva becomes numerically identical with Brahman.",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — collapsed distinction. The option claims “The jīva becomes numerically identical with Brahman.” The governing correction is: The jiva is an eternal mode of God, freed into service/communion, never becoming God."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 22,
+      "stem": "The 'real agent' problem is a difficulty primarily for:",
+      "answer": "A",
+      "coverage_cell": "C11",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Advaita",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. If ultimate individuality is denied, Advaita must explain who is bound and freed; it appeals to conventional agency until insight."
+        },
+        "B": {
+          "text": "Visistadvaita",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “Visistadvaita” The governing correction is: If ultimate individuality is denied, Advaita must explain who is bound and freed; it appeals to conventional agency until insight."
+        },
+        "C": {
+          "text": "Nyaya",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “Nyaya” The governing correction is: If ultimate individuality is denied, Advaita must explain who is bound and freed; it appeals to conventional agency until insight."
+        },
+        "D": {
+          "text": "Jainism",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “Jainism” The governing correction is: If ultimate individuality is denied, Advaita must explain who is bound and freed; it appeals to conventional agency until insight."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 23,
+      "stem": "In Advaita, bondage is fundamentally:",
+      "answer": "A",
+      "coverage_cell": "C06",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "avidya, a beginningless superimposition (adhyasa)",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Bondage is ignorance -- the rope-snake superimposition -- removable only by knowledge."
+        },
+        "B": {
+          "text": "karmic matter clinging to the soul",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “karmic matter clinging to the soul” The governing correction is: Bondage is ignorance -- the rope-snake superimposition -- removable only by knowledge."
+        },
+        "C": {
+          "text": "dependence on God",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “dependence on God” The governing correction is: Bondage is ignorance -- the rope-snake superimposition -- removable only by knowledge."
+        },
+        "D": {
+          "text": "the isolation of purusa from prakrti",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “the isolation of purusa from prakrti” The governing correction is: Bondage is ignorance -- the rope-snake superimposition -- removable only by knowledge."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 24,
+      "stem": "For Sankara, the direct means to liberation is:",
+      "answer": "B",
+      "coverage_cell": "C01",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Ritual action that produces liberation as its result.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Ritual action that produces liberation as its result.” The governing correction is: Since liberation is the removal of avidya, only knowledge removes it; Sankara rejects jnana-karma-samuccaya."
+        },
+        "B": {
+          "text": "Knowledge that removes the ignorance constituting bondage.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Since liberation is the removal of avidya, only knowledge removes it; Sankara rejects jnana-karma-samuccaya."
+        },
+        "C": {
+          "text": "Devotional surrender accepted as an independent direct means.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Devotional surrender accepted as an independent direct means.” The governing correction is: Since liberation is the removal of avidya, only knowledge removes it; Sankara rejects jnana-karma-samuccaya."
+        },
+        "D": {
+          "text": "Karmic action performed without any need for knowledge.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Karmic action performed without any need for knowledge.” The governing correction is: Since liberation is the removal of avidya, only knowledge removes it; Sankara rejects jnana-karma-samuccaya."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 25,
+      "stem": "In Jainism, the influx of karmic matter into the soul is called:",
+      "answer": "D",
+      "coverage_cell": "C07",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "samvara",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “samvara” The governing correction is: Asrava is influx; bandha is bondage, samvara is stoppage, nirjara is shedding."
+        },
+        "B": {
+          "text": "bandha",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “bandha” The governing correction is: Asrava is influx; bandha is bondage, samvara is stoppage, nirjara is shedding."
+        },
+        "C": {
+          "text": "nirjara",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “nirjara” The governing correction is: Asrava is influx; bandha is bondage, samvara is stoppage, nirjara is shedding."
+        },
+        "D": {
+          "text": "asrava",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Asrava is influx; bandha is bondage, samvara is stoppage, nirjara is shedding."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 26,
+      "stem": "The stoppage of fresh karmic influx is:",
+      "answer": "D",
+      "coverage_cell": "C11",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "nirjara",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “nirjara” The governing correction is: Samvara halts new influx; nirjara then sheds accumulated matter."
+        },
+        "B": {
+          "text": "kevala",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “kevala” The governing correction is: Samvara halts new influx; nirjara then sheds accumulated matter."
+        },
+        "C": {
+          "text": "asrava",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “asrava” The governing correction is: Samvara halts new influx; nirjara then sheds accumulated matter."
+        },
+        "D": {
+          "text": "samvara",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Samvara halts new influx; nirjara then sheds accumulated matter."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 27,
+      "stem": "Jain liberation is best described as:",
+      "answer": "A",
+      "coverage_cell": "C07",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "perfected omniscient individuality",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. The freed jiva manifests ananta-catustaya (infinite knowledge, perception, bliss, energy) -- individuality perfected, not dissolved."
+        },
+        "B": {
+          "text": "cessation of the causal stream",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “cessation of the causal stream” The governing correction is: The freed jiva manifests ananta-catustaya (infinite knowledge, perception, bliss, energy) -- individuality perfected, not dissolved."
+        },
+        "C": {
+          "text": "identity with Brahman",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “identity with Brahman” The governing correction is: The freed jiva manifests ananta-catustaya (infinite knowledge, perception, bliss, energy) -- individuality perfected, not dissolved."
+        },
+        "D": {
+          "text": "contentless isolation of purusa",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “contentless isolation of purusa” The governing correction is: The freed jiva manifests ananta-catustaya (infinite knowledge, perception, bliss, energy) -- individuality perfected, not dissolved."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 28,
+      "stem": "Jain kevala differs from Samkhya kaivalya because Jain kevala means:",
+      "answer": "C",
+      "coverage_cell": "C07",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "cessation of consciousness",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “cessation of consciousness” The governing correction is: Same syllable, opposite content: Jain kevala is omniscience; Samkhya kaivalya is contentless isolation."
+        },
+        "B": {
+          "text": "contentless isolation",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “contentless isolation” The governing correction is: Same syllable, opposite content: Jain kevala is omniscience; Samkhya kaivalya is contentless isolation."
+        },
+        "C": {
+          "text": "omniscience (kevala-jnana)",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Same syllable, opposite content: Jain kevala is omniscience; Samkhya kaivalya is contentless isolation."
+        },
+        "D": {
+          "text": "union with a personal God",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “union with a personal God” The governing correction is: Same syllable, opposite content: Jain kevala is omniscience; Samkhya kaivalya is contentless isolation."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 29,
+      "stem": "Samkhya-karika 62-63 states that, strictly, what is bound and released is:",
+      "answer": "C",
+      "coverage_cell": "C08",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "purusa, not prakrti",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “purusa, not prakrti” The governing correction is: No purusa is bound, released or transmigrating; prakrti binds and releases herself -- the misattribution is the whole doctrine."
+        },
+        "B": {
+          "text": "the individual buddhi acting alone",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “the individual buddhi acting alone” The governing correction is: No purusa is bound, released or transmigrating; prakrti binds and releases herself -- the misattribution is the whole doctrine."
+        },
+        "C": {
+          "text": "prakrti, not purusa",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. No purusa is bound, released or transmigrating; prakrti binds and releases herself -- the misattribution is the whole doctrine."
+        },
+        "D": {
+          "text": "Isvara",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Isvara” The governing correction is: No purusa is bound, released or transmigrating; prakrti binds and releases herself -- the misattribution is the whole doctrine."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 30,
+      "stem": "The potter's-wheel image (SK 67) illustrates:",
+      "answer": "B",
+      "coverage_cell": "C11",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Īśvara continuing creation after discriminative knowledge arises.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Īśvara continuing creation after discriminative knowledge arises.” The governing correction is: The wheel spins on after the hand withdraws -- like the body after viveka-khyati; it parallels Advaita's prarabdha image."
+        },
+        "B": {
+          "text": "Embodied life continuing through residual karmic momentum.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. The wheel spins on after the hand withdraws -- like the body after viveka-khyati; it parallels Advaita's prarabdha image."
+        },
+        "C": {
+          "text": "Plural puruṣas continuing because each possesses a body.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Plural puruṣas continuing because each possesses a body.” The governing correction is: The wheel spins on after the hand withdraws -- like the body after viveka-khyati; it parallels Advaita's prarabdha image."
+        },
+        "D": {
+          "text": "World-production continuing through prakṛti's creative activity.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “World-production continuing through prakṛti's creative activity.” The governing correction is: The wheel spins on after the hand withdraws -- like the body after viveka-khyati; it parallels Advaita's prarabdha image."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 31,
+      "stem": "Yoga-sutra 1.24 characterises Isvara as:",
+      "answer": "A",
+      "coverage_cell": "C08",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "a special purusa untouched by karma",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Isvara is a special purusa, object of pranidhana -- theism without creation."
+        },
+        "B": {
+          "text": "identical with prakrti",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — collapsed distinction. The option claims “identical with prakrti” The governing correction is: Isvara is a special purusa, object of pranidhana -- theism without creation."
+        },
+        "C": {
+          "text": "the material cause of the world",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “the material cause of the world” The governing correction is: Isvara is a special purusa, object of pranidhana -- theism without creation."
+        },
+        "D": {
+          "text": "the karmic judge of souls",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “the karmic judge of souls” The governing correction is: Isvara is a special purusa, object of pranidhana -- theism without creation."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 32,
+      "stem": "Samkhya-Yoga kaivalya is best described as:",
+      "answer": "C",
+      "coverage_cell": "C08",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Non-dual identity of the individual self with Brahman.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Non-dual identity of the individual self with Brahman.” The governing correction is: Kaivalya is aloneness -- purusa standing in its own nature, explicitly not bliss."
+        },
+        "B": {
+          "text": "Eternal communion of the individual soul with God.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Eternal communion of the individual soul with God.” The governing correction is: Kaivalya is aloneness -- purusa standing in its own nature, explicitly not bliss."
+        },
+        "C": {
+          "text": "Isolation of pure consciousness from all material content.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Kaivalya is aloneness -- purusa standing in its own nature, explicitly not bliss."
+        },
+        "D": {
+          "text": "Omniscient perfection of an eternally individual soul.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Omniscient perfection of an eternally individual soul.” The governing correction is: Kaivalya is aloneness -- purusa standing in its own nature, explicitly not bliss."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 33,
+      "stem": "The nine limbs of devotion (navadha bhakti) are enumerated in:",
+      "answer": "B",
+      "coverage_cell": "C09",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Bhagavad Gītā 18.66 in the surrender teaching.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Bhagavad Gītā 18.66 in the surrender teaching.” The governing correction is: Bhagavata 7.5.23 lists sravana, kirtana, smarana, pada-sevana, arcana, vandana, dasya, sakhya, atma-nivedana."
+        },
+        "B": {
+          "text": "Bhāgavata Purāṇa 7.5.23 in Prahlāda's teaching.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Bhagavata 7.5.23 lists sravana, kirtana, smarana, pada-sevana, arcana, vandana, dasya, sakhya, atma-nivedana."
+        },
+        "C": {
+          "text": "Sāṃkhya-kārikā 62 in the bondage discussion.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Sāṃkhya-kārikā 62 in the bondage discussion.” The governing correction is: Bhagavata 7.5.23 lists sravana, kirtana, smarana, pada-sevana, arcana, vandana, dasya, sakhya, atma-nivedana."
+        },
+        "D": {
+          "text": "Yoga-sūtra 1.24 in the Īśvara definition.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Yoga-sūtra 1.24 in the Īśvara definition.” The governing correction is: Bhagavata 7.5.23 lists sravana, kirtana, smarana, pada-sevana, arcana, vandana, dasya, sakhya, atma-nivedana."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 34,
+      "stem": "Sankara rejects jnana-karma-samuccaya because he holds that liberation is:",
+      "answer": "D",
+      "coverage_cell": "C09",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Liberation is attained through ritual action alone.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Liberation is attained through ritual action alone.” The governing correction is: On the removal model, only knowledge dispels avidya; action merely purifies."
+        },
+        "B": {
+          "text": "Liberation is produced as a result of action.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Liberation is produced as a result of action.” The governing correction is: On the removal model, only knowledge dispels avidya; action merely purifies."
+        },
+        "C": {
+          "text": "Liberation requires a graded combination of equal means.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Liberation requires a graded combination of equal means.” The governing correction is: On the removal model, only knowledge dispels avidya; action merely purifies."
+        },
+        "D": {
+          "text": "Liberation removes ignorance rather than producing freedom.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. On the removal model, only knowledge dispels avidya; action merely purifies."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 35,
+      "stem": "The marjara-nyaya versus markata-nyaya dispute concerns:",
+      "answer": "B",
+      "coverage_cell": "C08",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "How karmic action should be defined across schools.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “How karmic action should be defined across schools.” The governing correction is: Cat-hold (grace alone) versus monkey-hold (grace plus effort) is the tradition's own statement of the grace-effort problem."
+        },
+        "B": {
+          "text": "How divine grace relates to the aspirant's effort.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Cat-hold (grace alone) versus monkey-hold (grace plus effort) is the tradition's own statement of the grace-effort problem."
+        },
+        "C": {
+          "text": "How many distinct puruṣas Sāṃkhya must accept.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “How many distinct puruṣas Sāṃkhya must accept.” The governing correction is: Cat-hold (grace alone) versus monkey-hold (grace plus effort) is the tradition's own statement of the grace-effort problem."
+        },
+        "D": {
+          "text": "Whether the experienced world possesses ultimate reality.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Whether the experienced world possesses ultimate reality.” The governing correction is: Cat-hold (grace alone) versus monkey-hold (grace plus effort) is the tradition's own statement of the grace-effort problem."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 36,
+      "stem": "The Vivekacudamani definition of bhakti should be attributed to:",
+      "answer": "A",
+      "coverage_cell": "C09",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "The Advaita tradition, because personal authorship remains disputed.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Provenance discipline: say 'the Advaita tradition', never 'Sankara wrote'."
+        },
+        "B": {
+          "text": "Madhva, because knowledge-grounded devotion defines his path.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Madhva, because knowledge-grounded devotion defines his path.” The governing correction is: Provenance discipline: say 'the Advaita tradition', never 'Sankara wrote'."
+        },
+        "C": {
+          "text": "Rāmānuja, because sustained remembrance defines his bhakti.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Rāmānuja, because sustained remembrance defines his bhakti.” The governing correction is: Provenance discipline: say 'the Advaita tradition', never 'Sankara wrote'."
+        },
+        "D": {
+          "text": "Śaṅkara personally, because the attribution is historically certain.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Śaṅkara personally, because the attribution is historically certain.” The governing correction is: Provenance discipline: say 'the Advaita tradition', never 'Sankara wrote'."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 37,
+      "stem": "Oscar Cullmann (1955) argues that immortality of the soul and resurrection of the dead are:",
+      "answer": "B",
+      "coverage_cell": "C03",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "both Greek in origin",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “both Greek in origin” The governing correction is: Cullmann's thesis is that the Greek and Hebrew-Christian conceptions are opposed."
+        },
+        "B": {
+          "text": "theologically opposed, not complementary",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Cullmann's thesis is that the Greek and Hebrew-Christian conceptions are opposed."
+        },
+        "C": {
+          "text": "two names for one doctrine",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “two names for one doctrine” The governing correction is: Cullmann's thesis is that the Greek and Hebrew-Christian conceptions are opposed."
+        },
+        "D": {
+          "text": "both forms of rebirth",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “both forms of rebirth” The governing correction is: Cullmann's thesis is that the Greek and Hebrew-Christian conceptions are opposed."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 38,
+      "stem": "'Reincarnation', in careful usage, differs from 'rebirth' because reincarnation:",
+      "answer": "B",
+      "coverage_cell": "C04",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "is the wider, more neutral term",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “is the wider, more neutral term” The governing correction is: Reincarnation assumes a substance re-enfleshed; rebirth is wider and the only correct term for Buddhism."
+        },
+        "B": {
+          "text": "presupposes a substantial soul re-entering flesh",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Reincarnation assumes a substance re-enfleshed; rebirth is wider and the only correct term for Buddhism."
+        },
+        "C": {
+          "text": "denies any continuity between lives",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “denies any continuity between lives” The governing correction is: Reincarnation assumes a substance re-enfleshed; rebirth is wider and the only correct term for Buddhism."
+        },
+        "D": {
+          "text": "applies straightforwardly to Buddhism",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “applies straightforwardly to Buddhism” The governing correction is: Reincarnation assumes a substance re-enfleshed; rebirth is wider and the only correct term for Buddhism."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 39,
+      "stem": "Hick's replica theory is best presented as:",
+      "answer": "A",
+      "coverage_cell": "C10",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "a thought-experiment defence of resurrection identity",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. An exact, unique psychophysical replica is argued to be the same person; the duplication objection is the standard reply."
+        },
+        "B": {
+          "text": "a Vedantic doctrine of liberation",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “a Vedantic doctrine of liberation” The governing correction is: An exact, unique psychophysical replica is argued to be the same person; the duplication objection is the standard reply."
+        },
+        "C": {
+          "text": "a proof of the soul's natural immortality",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “a proof of the soul's natural immortality” The governing correction is: An exact, unique psychophysical replica is argued to be the same person; the duplication objection is the standard reply."
+        },
+        "D": {
+          "text": "a denial of personal identity",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “a denial of personal identity” The governing correction is: An exact, unique psychophysical replica is argued to be the same person; the duplication objection is the standard reply."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 40,
+      "stem": "Which reply to the resurrection re-assembly problem is correctly paired?",
+      "answer": "D",
+      "coverage_cell": "C10",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Aquinas -- an exact replica in another space",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Aquinas -- an exact replica in another space” The governing correction is: Aquinas = soul as form; Hick = replica; van Inwagen = God preserves a core or leaves a simulacrum."
+        },
+        "B": {
+          "text": "Cullmann -- God substitutes a simulacrum",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Cullmann -- God substitutes a simulacrum” The governing correction is: Aquinas = soul as form; Hick = replica; van Inwagen = God preserves a core or leaves a simulacrum."
+        },
+        "C": {
+          "text": "Hick -- the soul is the form of the body",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “Hick -- the soul is the form of the body” The governing correction is: Aquinas = soul as form; Hick = replica; van Inwagen = God preserves a core or leaves a simulacrum."
+        },
+        "D": {
+          "text": "van Inwagen -- God preserves a core of the body",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Aquinas = soul as form; Hick = replica; van Inwagen = God preserves a core or leaves a simulacrum."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 41,
+      "stem": "A common error is to say Buddhism denies continuity. Correctly, Buddhism denies:",
+      "answer": "A",
+      "coverage_cell": "C05",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "A permanent substance-self, while retaining causal continuity.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Anatman denies a permanent self, while the causal stream secures continuity."
+        },
+        "B": {
+          "text": "Moral responsibility, while retaining a permanent substance-self.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Moral responsibility, while retaining a permanent substance-self.” The governing correction is: Anatman denies a permanent self, while the causal stream secures continuity."
+        },
+        "C": {
+          "text": "Rebirth itself, while retaining karmic causation in one life.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Rebirth itself, while retaining karmic causation in one life.” The governing correction is: Anatman denies a permanent self, while the causal stream secures continuity."
+        },
+        "D": {
+          "text": "Causation itself, while retaining conventional personal identity.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Causation itself, while retaining conventional personal identity.” The governing correction is: Anatman denies a permanent self, while the causal stream secures continuity."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 42,
+      "stem": "A frequent trap calls Nyaya apavarga 'positive bliss'. Correctly, apavarga is:",
+      "answer": "D",
+      "coverage_cell": "C08",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Isolation of puruṣa from the operations of prakṛti.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — this is Sāṃkhya kaivalya, not Nyāya apavarga. The option claims “Isolation of puruṣa from the operations of prakṛti.” Nyāya retains the self-substance after pain and cognition-producing qualities cease."
+        },
+        "B": {
+          "text": "Eternal communion of a conscious jīva with God.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — this describes a theistic communion model. The option claims “Eternal communion of a conscious jīva with God.” Nyāya apavarga is not conscious beatitude."
+        },
+        "C": {
+          "text": "Omniscient perfection of an individual liberated jīva.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — this describes Jain perfected individuality. The option claims “Omniscient perfection of an individual liberated jīva.” Nyāya denies cognition in the liberated condition."
+        },
+        "D": {
+          "text": "Cessation of pain and cognition-producing qualities while self-substance remains.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Nyāya apavarga ends pain and the qualities that produce cognition while the self-substance remains."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 43,
+      "stem": "Students merge kaivalya and kevala. In Samkhya kaivalya is ___; in Jainism kevala is ___:",
+      "answer": "C",
+      "coverage_cell": "C07",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "communion; identity",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “communion; identity” The governing correction is: Same syllable, opposite content -- Samkhya isolation versus Jain omniscience."
+        },
+        "B": {
+          "text": "omniscience; contentless isolation",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “omniscience; contentless isolation” The governing correction is: Same syllable, opposite content -- Samkhya isolation versus Jain omniscience."
+        },
+        "C": {
+          "text": "contentless isolation; omniscience",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Same syllable, opposite content -- Samkhya isolation versus Jain omniscience."
+        },
+        "D": {
+          "text": "bliss; cessation",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “bliss; cessation” The governing correction is: Same syllable, opposite content -- Samkhya isolation versus Jain omniscience."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 44,
+      "stem": "It is wrong to say 'Advaita rejects bhakti'. Advaita treats bhakti as:",
+      "answer": "D",
+      "coverage_cell": "C09",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Wholly irrelevant to liberation or spiritual qualification.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Wholly irrelevant to liberation or spiritual qualification.” The governing correction is: Bhakti is a difference of ROLE, not of value: it purifies and qualifies, and jnana alone removes ignorance."
+        },
+        "B": {
+          "text": "A fifth puruṣārtha ranked above liberation itself.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “A fifth puruṣārtha ranked above liberation itself.” The governing correction is: Bhakti is a difference of ROLE, not of value: it purifies and qualifies, and jnana alone removes ignorance."
+        },
+        "C": {
+          "text": "The direct remover of ignorance in place of knowledge.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The direct remover of ignorance in place of knowledge.” The governing correction is: Bhakti is a difference of ROLE, not of value: it purifies and qualifies, and jnana alone removes ignorance."
+        },
+        "D": {
+          "text": "Preparatory purification that qualifies the seeker for knowledge.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Bhakti is a difference of ROLE, not of value: it purifies and qualifies, and jnana alone removes ignorance."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 45,
+      "stem": "Which option presents a non-theistic liberation model that does not retain an enduring self?",
+      "answer": "D",
+      "coverage_cell": "C01",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "Nyāya retains a self-substance after pain and cognition cease.",
+          "truth_value": false,
+          "error_type": "scope overstatement",
+          "rationale": "Incorrect — Nyāya is non-theistic in this account of release, but it retains an enduring self-substance. The option claims “Nyāya retains a self-substance after pain and cognition cease.”"
+        },
+        "B": {
+          "text": "Viśiṣṭādvaita retains the eternal jīva in communion with God.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — Viśiṣṭādvaita is theistic and preserves an eternal individual jīva. The option claims “Viśiṣṭādvaita retains the eternal jīva in communion with God.”"
+        },
+        "C": {
+          "text": "Advaita realizes the identity of ātman and Brahman through knowledge.",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — Advaita denies ultimate individuality but retains ātman/Brahman identity rather than the no-self model asked for. The option claims “Advaita realizes the identity of ātman and Brahman through knowledge.”"
+        },
+        "D": {
+          "text": "Buddhism ends craving without positing an enduring self.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Buddhism presents liberation as cessation of craving and ignorance without a creator-God or an enduring self."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 46,
+      "stem": "Presenting resurrection as 'rebirth in heaven' is wrong because resurrection is:",
+      "answer": "A",
+      "coverage_cell": "C10",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "One embodied life restored by divine action for judgement.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Resurrection is the opposite structure to samsara: linear, eschatological, and divinely enacted."
+        },
+        "B": {
+          "text": "Many lives generated by karma maturing across embodiments.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Many lives generated by karma maturing across embodiments.” The governing correction is: Resurrection is the opposite structure to samsara: linear, eschatological, and divinely enacted."
+        },
+        "C": {
+          "text": "A beginningless series sustained by karmic causal continuity.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “A beginningless series sustained by karmic causal continuity.” The governing correction is: Resurrection is the opposite structure to samsara: linear, eschatological, and divinely enacted."
+        },
+        "D": {
+          "text": "Release from saṃsāra through ending karmic bondage.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Release from saṃsāra through ending karmic bondage.” The governing correction is: Resurrection is the opposite structure to samsara: linear, eschatological, and divinely enacted."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 47,
+      "stem": "The 'convergence' reading of jnana/karma/bhakti is best defended by saying they converge in ___ and diverge in ___:",
+      "answer": "D",
+      "coverage_cell": "C12",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "text; author",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “text; author” The governing correction is: They converge in function (removing egoic self-appropriation) but diverge in terminus (identity vs communion)."
+        },
+        "B": {
+          "text": "terminus; function",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “terminus; function” The governing correction is: They converge in function (removing egoic self-appropriation) but diverge in terminus (identity vs communion)."
+        },
+        "C": {
+          "text": "grace; effort",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “grace; effort” The governing correction is: They converge in function (removing egoic self-appropriation) but diverge in terminus (identity vs communion)."
+        },
+        "D": {
+          "text": "function; terminus",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. They converge in function (removing egoic self-appropriation) but diverge in terminus (identity vs communion)."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 48,
+      "stem": "Calling Yoga's Isvara a 'creator' is a trap; YS 1.24 makes Isvara:",
+      "answer": "D",
+      "coverage_cell": "C12",
+      "lineage": "reference_workbook_candidate",
+      "options": {
+        "A": {
+          "text": "The material cause from which the world develops.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The material cause from which the world develops.” The governing correction is: Yoga is the decisive Indian case of theism without creation."
+        },
+        "B": {
+          "text": "The moral judge who allocates every karmic result.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The moral judge who allocates every karmic result.” The governing correction is: Yoga is the decisive Indian case of theism without creation."
+        },
+        "C": {
+          "text": "The same non-dual reality that Advaita calls Brahman.",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — collapsed distinction. The option claims “The same non-dual reality that Advaita calls Brahman.” The governing correction is: Yoga is the decisive Indian case of theism without creation."
+        },
+        "D": {
+          "text": "A special puruṣa untouched by affliction and karma.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Yoga is the decisive Indian case of theism without creation."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 49,
+      "stem": "Which claim correctly distinguishes numerical from qualitative identity in a survival argument?",
+      "answer": "B",
+      "coverage_cell": "C02",
+      "lineage": "canonical_plus_inbound",
+      "options": {
+        "A": {
+          "text": "Both terms mean that later memories resemble earlier memories closely.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Both terms mean that later memories resemble earlier memories closely.” The governing correction is: Numerical identity concerns being one and the same entity through time; qualitative identity concerns resemblance and can be shared by duplicates."
+        },
+        "B": {
+          "text": "Numerical identity preserves one subject; qualitative identity preserves resemblance.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Numerical identity concerns being one and the same entity through time; qualitative identity concerns resemblance and can be shared by duplicates."
+        },
+        "C": {
+          "text": "Numerical identity preserves exact resemblance; qualitative identity preserves one subject.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Numerical identity preserves exact resemblance; qualitative identity preserves one subject.” The governing correction is: Numerical identity concerns being one and the same entity through time; qualitative identity concerns resemblance and can be shared by duplicates."
+        },
+        "D": {
+          "text": "Qualitative identity alone preserves one subject across bodily discontinuity.",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — collapsed distinction. The option claims “Qualitative identity alone preserves one subject across bodily discontinuity.” The governing correction is: Numerical identity concerns being one and the same entity through time; qualitative identity concerns resemblance and can be shared by duplicates."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 50,
+      "stem": "Why is branching a problem for a simple psychological-continuity theory of personal identity?",
+      "answer": "B",
+      "coverage_cell": "C02",
+      "lineage": "canonical_plus_inbound",
+      "options": {
+        "A": {
+          "text": "Branching shows that only an immortal substantial soul could survive.",
+          "truth_value": false,
+          "error_type": "scope overstatement",
+          "rationale": "Incorrect — scope overstatement. The option claims “Branching shows that only an immortal substantial soul could survive.” The governing correction is: Identity is one-to-one and transitive; equal continuity to two successors may preserve survival-like relations but cannot make both the one earlier person."
+        },
+        "B": {
+          "text": "Two equally continuous successors cannot both be the original person.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Identity is one-to-one and transitive; equal continuity to two successors may preserve survival-like relations but cannot make both the one earlier person."
+        },
+        "C": {
+          "text": "Branching shows that later persons cannot remember earlier experiences.",
+          "truth_value": false,
+          "error_type": "scope overstatement",
+          "rationale": "Incorrect — scope overstatement. The option claims “Branching shows that later persons cannot remember earlier experiences.” The governing correction is: Identity is one-to-one and transitive; equal continuity to two successors may preserve survival-like relations but cannot make both the one earlier person."
+        },
+        "D": {
+          "text": "Branching shows that psychological continuity ends with bodily change.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Branching shows that psychological continuity ends with bodily change.” The governing correction is: Identity is one-to-one and transitive; equal continuity to two successors may preserve survival-like relations but cannot make both the one earlier person."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 51,
+      "stem": "What is the central identification-condition pressure on the soul-substance criterion?",
+      "answer": "C",
+      "coverage_cell": "C01",
+      "lineage": "canonical_plus_inbound",
+      "options": {
+        "A": {
+          "text": "The criterion must make bodily continuity necessary in every possible case.",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — collapsed distinction. The option claims “The criterion must make bodily continuity necessary in every possible case.” The governing correction is: Positing an enduring soul supplies unity only if there is a criterion for picking out and re-identifying that particular soul across bodily discontinuity."
+        },
+        "B": {
+          "text": "The criterion must reduce resurrection identity to psychological continuity alone.",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — collapsed distinction. The option claims “The criterion must reduce resurrection identity to psychological continuity alone.” The governing correction is: Positing an enduring soul supplies unity only if there is a criterion for picking out and re-identifying that particular soul across bodily discontinuity."
+        },
+        "C": {
+          "text": "The criterion must individuate and re-identify this particular immaterial soul.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Positing an enduring soul supplies unity only if there is a criterion for picking out and re-identifying that particular soul across bodily discontinuity."
+        },
+        "D": {
+          "text": "The criterion must deny that any soul could be simple or immaterial.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “The criterion must deny that any soul could be simple or immaterial.” The governing correction is: Positing an enduring soul supplies unity only if there is a criterion for picking out and re-identifying that particular soul across bodily discontinuity."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 52,
+      "stem": "In the bounded Strawsonian comparison, why do persons have public identification conditions?",
+      "answer": "D",
+      "coverage_cell": "C02",
+      "lineage": "inbound_strawson",
+      "options": {
+        "A": {
+          "text": "Persons are private immaterial egos directly observed by other minds.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Persons are private immaterial egos directly observed by other minds.” The governing correction is: Strawson treats the person as a basic embodied particular identified in a public spatio-temporal framework and as the subject of M- and P-predicates."
+        },
+        "B": {
+          "text": "Persons are inferred replicas whose memories alone determine numerical identity.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Persons are inferred replicas whose memories alone determine numerical identity.” The governing correction is: Strawson treats the person as a basic embodied particular identified in a public spatio-temporal framework and as the subject of M- and P-predicates."
+        },
+        "C": {
+          "text": "Persons are event bundles for which public re-identification is unnecessary.",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — collapsed distinction. The option claims “Persons are event bundles for which public re-identification is unnecessary.” The governing correction is: Strawson treats the person as a basic embodied particular identified in a public spatio-temporal framework and as the subject of M- and P-predicates."
+        },
+        "D": {
+          "text": "Persons are embodied subjects bearing bodily and psychological predicates publicly.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Strawson treats the person as a basic embodied particular identified in a public spatio-temporal framework and as the subject of M- and P-predicates."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 53,
+      "stem": "What follows from Strawson's identification-condition objection when it is used in this Paper II topic?",
+      "answer": "B",
+      "coverage_cell": "C02",
+      "lineage": "inbound_strawson",
+      "options": {
+        "A": {
+          "text": "Divine re-creation automatically produces the numerically identical original person.",
+          "truth_value": false,
+          "error_type": "collapsed distinction",
+          "rationale": "Incorrect — collapsed distinction. The option claims “Divine re-creation automatically produces the numerically identical original person.” The governing correction is: The comparison is diagnostic rather than a proof of mortality: soul or resurrection theories owe a criterion that selects the same subject."
+        },
+        "B": {
+          "text": "A survival claim must explain who survives and how re-identification works.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. The comparison is diagnostic rather than a proof of mortality: soul or resurrection theories owe a criterion that selects the same subject."
+        },
+        "C": {
+          "text": "Every rebirth doctrine fails because the preceding body eventually perishes.",
+          "truth_value": false,
+          "error_type": "reversed or displaced relation",
+          "rationale": "Incorrect — reversed or displaced relation. The option claims “Every rebirth doctrine fails because the preceding body eventually perishes.” The governing correction is: The comparison is diagnostic rather than a proof of mortality: soul or resurrection theories owe a criterion that selects the same subject."
+        },
+        "D": {
+          "text": "Buddhist causal continuity thereby becomes an enduring Cartesian substance.",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “Buddhist causal continuity thereby becomes an enduring Cartesian substance.” The governing correction is: The comparison is diagnostic rather than a proof of mortality: soul or resurrection theories owe a criterion that selects the same subject."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    },
+    {
+      "number": 54,
+      "stem": "Which statement best connects Buddhist rebirth with the diachronic identity debate?",
+      "answer": "D",
+      "coverage_cell": "C02",
+      "lineage": "canonical_plus_inbound",
+      "options": {
+        "A": {
+          "text": "Buddhism converts copied memories into an enduring immortal substance.",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “Buddhism converts copied memories into an enduring immortal substance.” The governing correction is: Dependent origination preserves causal and moral connectedness without asserting a numerically identical permanent self."
+        },
+        "B": {
+          "text": "Buddhism rejects causal continuity, karma and conventional persons together.",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “Buddhism rejects causal continuity, karma and conventional persons together.” The governing correction is: Dependent origination preserves causal and moral connectedness without asserting a numerically identical permanent self."
+        },
+        "C": {
+          "text": "Buddhism preserves an unchanging owner beneath the changing aggregates.",
+          "truth_value": false,
+          "error_type": "doctrinal misattribution",
+          "rationale": "Incorrect — doctrinal misattribution. The option claims “Buddhism preserves an unchanging owner beneath the changing aggregates.” The governing correction is: Dependent origination preserves causal and moral connectedness without asserting a numerically identical permanent self."
+        },
+        "D": {
+          "text": "Buddhism uses caused continuity that is neither identical nor wholly other.",
+          "truth_value": true,
+          "error_type": null,
+          "rationale": "Correct. Dependent origination preserves causal and moral connectedness without asserting a numerically identical permanent self."
+        }
+      },
+      "randomization": {
+        "algorithm": "item-specific SHA-256 seeded shuffle",
+        "global_resample_attempt": 337
+      }
+    }
+  ],
+  "limitations": "Mechanical cue checks do not prove philosophical truth or equal distractor difficulty."
+}

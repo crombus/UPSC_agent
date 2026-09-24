@@ -1,0 +1,3453 @@
+{
+  "schema_version": 3,
+  "authority_mode": "canonical_without_formal_session",
+  "formal_session_reconciliation_performed": false,
+  "frozen": true,
+  "proof_model": "Authored canonical propositions mapped by exact reviewed heading identity; no reference row expansion, excerpt generation, similarity scoring or token-overlap destination selection.",
+  "canonical_source": {
+    "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+    "sha256": "77b11a84b0760af3a2e970bba429eb83a5c094f23734b5b5dc796bce6d4218a8",
+    "heading_count": 41
+  },
+  "supplementary_provenance": [
+    {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Soul-Immortality-Rebirth-Liberation\\Soul-Immortality-Rebirth-Liberation_Layered-Complete-Learning-Session_2026-08-19.md",
+      "sha256": "3662c8cc811ea966ed11fbf5bb3afc676c97b2a4082bd4a0c6f72fd64b3ad8b6",
+      "mandatory_rows": 0
+    },
+    {
+      "path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\Philosophy-of-Religion\\learning-sessions\\Soul-Immortality-Rebirth-Liberation\\Soul-Immortality-Rebirth-Liberation_Layered-Solved-Practice-Workbook_2026-08-19.md",
+      "sha256": "fc673de701139363ddfac35f2dae0e5747f83f98914bb9882579b56a7261cbd7",
+      "mandatory_rows": 0
+    }
+  ],
+  "canonical_row_count": 41,
+  "rows": [
+    {
+      "id": "canonical-0ed08873d66a87170d91",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "Exact printed ownership and cross-topic firewall",
+        "heading_occurrence": 1,
+        "line": 7,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "24f6b750e49ae1af58763adedeb4eec74ef46f49a37839f0aeed30d496972198",
+      "source_payload_sha256": "4db5ab7d1ab5e209de17b86adee9e90fd7aea858cabd07a1f1d340ed4b7b850a",
+      "source_payload_words": 168,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "4db5ab7d1ab5e209de17b86adee9e90fd7aea858cabd07a1f1d340ed4b7b850a",
+        "parent_only_words": 168,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "The package distinguishes survival, rebirth and liberation questions from adjacent Paper I metaphysics, revelation, evil, religious experience and religion-without-God owners.",
+      "proposition_sha256": "658579d2207626e4f5f5dc0efbfc6bb13690c99a76250b8f1a2a6c4a709df890",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "Exact printed ownership and cross-topic firewall",
+          "occurrence": 1,
+          "destination_line": 1469,
+          "destination_anchor_id": "bdae1a1e8bb8523b19a1",
+          "destination_payload_sha256": "4db5ab7d1ab5e209de17b86adee9e90fd7aea858cabd07a1f1d340ed4b7b850a",
+          "destination_payload_words": 168,
+          "parent_only_payload_sha256": "4db5ab7d1ab5e209de17b86adee9e90fd7aea858cabd07a1f1d340ed4b7b850a",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-85342b4449d351f00ac7",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "0. ONE-SCREEN MAP ⚠️",
+        "heading_occurrence": 1,
+        "line": 28,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "3e2c8ea36ce7a4ff66ff18c4f94aec1df1dab41424ac9a37182c5e0b5b3d9273",
+      "source_payload_sha256": "8cf0510a6a65d6fb11ba0b37025c39b75126df0296c28a8498aa59b083bed643",
+      "source_payload_words": 93,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "8cf0510a6a65d6fb11ba0b37025c39b75126df0296c28a8498aa59b083bed643",
+        "parent_only_words": 93,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Immortality, rebirth and liberation are distinct relations: survival does not by itself entail another embodiment, and Buddhist rebirth does not require a substantial immortal soul.",
+      "proposition_sha256": "1997992679b48e6884c0198913682180ddb64942e957254a2bb5311e36e92e26",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "0. ONE-SCREEN MAP ⚠️",
+          "occurrence": 2,
+          "destination_line": 1490,
+          "destination_anchor_id": "ba283c8559dad45243d7",
+          "destination_payload_sha256": "8cf0510a6a65d6fb11ba0b37025c39b75126df0296c28a8498aa59b083bed643",
+          "destination_payload_words": 93,
+          "parent_only_payload_sha256": "8cf0510a6a65d6fb11ba0b37025c39b75126df0296c28a8498aa59b083bed643",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-d248c24127225799dc6f",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "0A. SOUL, SELF, PERSON AND CONTINUITY-BEARER ⚠️",
+        "heading_occurrence": 1,
+        "line": 45,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "018d61406f413bcbce46f411698369c885cfd795b2285114e4383a48df95b2ec",
+      "source_payload_sha256": "0681a9a090de9ea14922afd3da9b2083bbf8b380c0a45506a83be5e9adab69ce",
+      "source_payload_words": 201,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "0681a9a090de9ea14922afd3da9b2083bbf8b380c0a45506a83be5e9adab69ce",
+        "parent_only_words": 201,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Competing substance, embodied-person, bundle and causal-continuity models supply different answers to who or what persists through death and rebirth.",
+      "proposition_sha256": "b8d387c3d0fc94fb658b277e65f9bb85e206b41c031be7cb395f5431d1fec285",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "0A. SOUL, SELF, PERSON AND CONTINUITY-BEARER ⚠️",
+          "occurrence": 1,
+          "destination_line": 1507,
+          "destination_anchor_id": "62cd118da706a87c3a46",
+          "destination_payload_sha256": "0681a9a090de9ea14922afd3da9b2083bbf8b380c0a45506a83be5e9adab69ce",
+          "destination_payload_words": 201,
+          "parent_only_payload_sha256": "0681a9a090de9ea14922afd3da9b2083bbf8b380c0a45506a83be5e9adab69ce",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-665f5b31bdcc28242228",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "1. IMMORTALITY OF THE SOUL ✅",
+        "heading_occurrence": 1,
+        "line": 65,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "b7a0ab60912d1b78a21aaaf1be899eb734a76987f1da28e6e73b245cda5b64ca",
+      "source_payload_sha256": "6ddbeb245d509cdddd57ae00374edeacf9d5c9cf8c2d14e053a771389629a4f8",
+      "source_payload_words": 301,
+      "classification": "structural_umbrella",
+      "source_structure": {
+        "parent_only_payload_sha256": "bd39ba0519bd3b4a372d54f895b065598293c6b4f81f4b98946f0e30150782ac",
+        "parent_only_words": 124,
+        "child_ids": [
+          "canonical-c3eec772beca1465fa45"
+        ],
+        "child_union_sha256": "e5aa06460077f402b79537c71e8f5b2882261e24ef3ad37c2cc9a2c010417504"
+      },
+      "proposition": "Plato and several Indian schools defend enduring soul models, while Kantian and body-brain objections challenge whether survival has been demonstrated.",
+      "proposition_sha256": "6e16964ec0e1e0dd4b0d08fa6484d70ef0b0ac3df4c7e202fd889f1fb99b8ca6",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "1. IMMORTALITY OF THE SOUL ✅",
+          "occurrence": 2,
+          "destination_line": 1527,
+          "destination_anchor_id": "91b9272b5edb9151ad71",
+          "destination_payload_sha256": "6ddbeb245d509cdddd57ae00374edeacf9d5c9cf8c2d14e053a771389629a4f8",
+          "destination_payload_words": 301,
+          "parent_only_payload_sha256": "bd39ba0519bd3b4a372d54f895b065598293c6b4f81f4b98946f0e30150782ac",
+          "child_anchor_ids": [
+            "445347fb971a76345ef9"
+          ],
+          "child_union_sha256": "e5aa06460077f402b79537c71e8f5b2882261e24ef3ad37c2cc9a2c010417504",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-c3eec772beca1465fa45",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "1.1 Arguments for immortality and their limits",
+        "heading_occurrence": 1,
+        "line": 74,
+        "ancestor_headings": [
+          "1. IMMORTALITY OF THE SOUL ✅"
+        ]
+      },
+      "source_heading_sha256": "d125e3ba45b310ba42229de39aeab513a77aa036b2c0313785dced771cbf54d9",
+      "source_payload_sha256": "438c37950daff61d826d474ad468ffb6eec2fae5ac1cbd1d48e88258c3603949",
+      "source_payload_words": 169,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "438c37950daff61d826d474ad468ffb6eec2fae5ac1cbd1d48e88258c3603949",
+        "parent_only_words": 169,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Simplicity, identity, moral-order, desire and religious-experience arguments support immortality only with contestable premises and do not independently establish rebirth.",
+      "proposition_sha256": "dadc002bd79661fc1ec5fab63c52fc48d428381b5d7ef9e62f30fffef0eecd91",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "1.1 Arguments for immortality and their limits",
+          "occurrence": 1,
+          "destination_line": 1536,
+          "destination_anchor_id": "445347fb971a76345ef9",
+          "destination_payload_sha256": "438c37950daff61d826d474ad468ffb6eec2fae5ac1cbd1d48e88258c3603949",
+          "destination_payload_words": 169,
+          "parent_only_payload_sha256": "438c37950daff61d826d474ad468ffb6eec2fae5ac1cbd1d48e88258c3603949",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-b0637cf9e2cf12e3f253",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "2. REBIRTH (Karma-Saṃsāra) ✅",
+        "heading_occurrence": 1,
+        "line": 91,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "e385e63bd0b0c2d17b3739a02065311cd6d30fc27f2d06f65a0669c11d890efa",
+      "source_payload_sha256": "369959e88e96956f2bb89814d369f12e9ddee201ae232263cf76fb428bb8f25a",
+      "source_payload_words": 165,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "369959e88e96956f2bb89814d369f12e9ddee201ae232263cf76fb428bb8f25a",
+        "parent_only_words": 165,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Rebirth extends karmic continuity across lives; substantialist schools add a transmigrating bearer, whereas Buddhism explains renewed becoming without a permanent self.",
+      "proposition_sha256": "17b84613a8f30be2ccf4bfc1133e54918aae61a1125e65fee6ee29b3786a3553",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "2. REBIRTH (Karma-Saṃsāra) ✅",
+          "occurrence": 2,
+          "destination_line": 1553,
+          "destination_anchor_id": "51b9510b6d790816d2d2",
+          "destination_payload_sha256": "369959e88e96956f2bb89814d369f12e9ddee201ae232263cf76fb428bb8f25a",
+          "destination_payload_words": 165,
+          "parent_only_payload_sha256": "369959e88e96956f2bb89814d369f12e9ddee201ae232263cf76fb428bb8f25a",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-183b3cb11d7b77a34e5c",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "3. LIBERATION ✅ (the goal — varies by school)",
+        "heading_occurrence": 1,
+        "line": 102,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "dc4afe1ab3b14ae75ad40536e9b236236330484292e073ce21dae73564f9845c",
+      "source_payload_sha256": "08dec56bf8cdda6d87e60f39a183c06a7ed72c2d870f0425c9dd38d6f73c3ab0",
+      "source_payload_words": 207,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "08dec56bf8cdda6d87e60f39a183c06a7ed72c2d870f0425c9dd38d6f73c3ab0",
+        "parent_only_words": 207,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Liberation names non-identical goals across Advaita, Viśiṣṭādvaita, Nyāya, Sāṃkhya-Yoga, Jainism, Buddhism and Western traditions.",
+      "proposition_sha256": "ac17dbd8d0b7885162f0317eb64b129d70f7ab1cb8edcbc084327320afbca36a",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "3. LIBERATION ✅ (the goal — varies by school)",
+          "occurrence": 2,
+          "destination_line": 1564,
+          "destination_anchor_id": "4ed4e15727dbf5af4a24",
+          "destination_payload_sha256": "08dec56bf8cdda6d87e60f39a183c06a7ed72c2d870f0425c9dd38d6f73c3ab0",
+          "destination_payload_words": 207,
+          "parent_only_payload_sha256": "08dec56bf8cdda6d87e60f39a183c06a7ed72c2d870f0425c9dd38d6f73c3ab0",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-d86ea6eb2b60e39236ff",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "4. FOUNDATIONAL STATEMENT BANK ⚠️",
+        "heading_occurrence": 1,
+        "line": 118,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "7fa0a54a69093123c126a78a35c8459d27282a3de8bfe48eef4d889ab2e0e685",
+      "source_payload_sha256": "0dbaa6564c93f740c34a3b86d2bb2172a7de335f3181961a1b742dbf8bab0e13",
+      "source_payload_words": 67,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "0dbaa6564c93f740c34a3b86d2bb2172a7de335f3181961a1b742dbf8bab0e13",
+        "parent_only_words": 67,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "The foundational facts connect Gītā imagery, Platonic recollection, Buddhist causal continuity, jīvanmukti and Nyāya apavarga to exam-ready distinctions.",
+      "proposition_sha256": "4afe462197c67d5766c477572be8549afd882cc817a6374a13eafdb344d967b0",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "4. FOUNDATIONAL STATEMENT BANK ⚠️",
+          "occurrence": 1,
+          "destination_line": 1580,
+          "destination_anchor_id": "cfdf88b3ab666c16241f",
+          "destination_payload_sha256": "0dbaa6564c93f740c34a3b86d2bb2172a7de335f3181961a1b742dbf8bab0e13",
+          "destination_payload_words": 67,
+          "parent_only_payload_sha256": "0dbaa6564c93f740c34a3b86d2bb2172a7de335f3181961a1b742dbf8bab0e13",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-7917e2d1fab5d74dda61",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "5. APPLIED-QUESTION DRILLS ⚠️",
+        "heading_occurrence": 1,
+        "line": 127,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "d252c489d8292750e3499068646000a7d4163d89bae5c0dda66636e4c2ab39df",
+      "source_payload_sha256": "6dfe5f1508bd7f141fe4856aae747d5d0081f480728c1fce2760168a4117ac53",
+      "source_payload_words": 166,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "6dfe5f1508bd7f141fe4856aae747d5d0081f480728c1fce2760168a4117ac53",
+        "parent_only_words": 166,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "The drill bank routes each major doctrine to a specific evaluative demand rather than treating immortality, rebirth and liberation as interchangeable.",
+      "proposition_sha256": "73d953eea872e7d46ebecb18683645d8460c299f31725459d2304f4e37932432",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "5. APPLIED-QUESTION DRILLS ⚠️",
+          "occurrence": 1,
+          "destination_line": 1589,
+          "destination_anchor_id": "ea8d5cef8a2a8cb5ba22",
+          "destination_payload_sha256": "6dfe5f1508bd7f141fe4856aae747d5d0081f480728c1fce2760168a4117ac53",
+          "destination_payload_words": 166,
+          "parent_only_payload_sha256": "6dfe5f1508bd7f141fe4856aae747d5d0081f480728c1fce2760168a4117ac53",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-779712b0be01f67afcd3",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "5A. LIBERATION PARITY BENCH — the six terms must never be merged ⚠️",
+        "heading_occurrence": 1,
+        "line": 142,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "18f226c34dc0aac95e77bdcbc8ca8a32d8090b9fb06d0d836dd2fd27f53c8690",
+      "source_payload_sha256": "074ac0b0971f3c51db2ed9131d736c292ae64e5bdff4d64d8f7f6624dcc28af3",
+      "source_payload_words": 99,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "074ac0b0971f3c51db2ed9131d736c292ae64e5bdff4d64d8f7f6624dcc28af3",
+        "parent_only_words": 99,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Mokṣa, apavarga, kaivalya, Jain liberation, nirvāṇa and resurrection differ over what ends, what remains and whether consciousness persists.",
+      "proposition_sha256": "8d59defd5a0a197f1f0c9b0770207ae6e36f35606bd8fd32960ad97505e30ab7",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "5A. LIBERATION PARITY BENCH — the six terms must never be merged ⚠️",
+          "occurrence": 2,
+          "destination_line": 1604,
+          "destination_anchor_id": "523ef7a700a44adc80bc",
+          "destination_payload_sha256": "074ac0b0971f3c51db2ed9131d736c292ae64e5bdff4d64d8f7f6624dcc28af3",
+          "destination_payload_words": 99,
+          "parent_only_payload_sha256": "074ac0b0971f3c51db2ed9131d736c292ae64e5bdff4d64d8f7f6624dcc28af3",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-c80482eccad88570be1e",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "6. PYQ-MAPPED MODEL-ANSWER SKELETONS ⚠️",
+        "heading_occurrence": 1,
+        "line": 156,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "2ba740214299a4f7005438e5b1069e6d1c4c81c06e4bbf64fb23707b21a14f84",
+      "source_payload_sha256": "8eb9420d1947e91532c04bfdd28f0d255a8a71516aee0b715f765e60990c5045",
+      "source_payload_words": 538,
+      "classification": "structural_umbrella",
+      "source_structure": {
+        "parent_only_payload_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "parent_only_words": 0,
+        "child_ids": [
+          "canonical-69c78c2c638a1b49ed85",
+          "canonical-083ed95b9bd49a44ef14",
+          "canonical-015f22e6ad73c2e44367",
+          "canonical-7127f624ece941ce68f6",
+          "canonical-fd6c5d198bdbf09cc3ac"
+        ],
+        "child_union_sha256": "dcce14654e29abe99d340bdd8d271e5913d482f133da93b618d018df2c07e737"
+      },
+      "proposition": "The answer skeletons convert recurring PYQ demands into thesis, comparison, objection and qualified-verdict structures.",
+      "proposition_sha256": "f880e60ce51514c11190c943166ae8b909f104f1e84aa16f32694aeb819c09cc",
+      "status": "covered_with_reviewed_transformation",
+      "delta_note": "The bounded destination differs because reviewed descendant or presentation material was transformed; the recorded parent-only and child-union hashes expose the exact structural delta.",
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "6. PYQ-MAPPED MODEL-ANSWER SKELETONS ⚠️",
+          "occurrence": 1,
+          "destination_line": 1618,
+          "destination_anchor_id": "40b14f414764b084d9d7",
+          "destination_payload_sha256": "5becabe15dd5d97f987d154379371f1a908d94838d9b478e383c07b60d92ddc8",
+          "destination_payload_words": 562,
+          "parent_only_payload_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "child_anchor_ids": [
+            "fbbd1f92d6d3f3b3fc1b",
+            "bd60eddc89314ae7ad9c",
+            "eaa4fecefd6683080371",
+            "22bee0e25937eeaa1b90",
+            "67c42a6c67a64d936ce7"
+          ],
+          "child_union_sha256": "218e9d76da6bcfd925a4fbdc13e9338faea1bae65aabd15257117e366c235188",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-69c78c2c638a1b49ed85",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "6.1 — \"Is immortality of the soul a necessary condition for rebirth? (w.r.t. Buddhism)\" (2022, 10m)",
+        "heading_occurrence": 1,
+        "line": 158,
+        "ancestor_headings": [
+          "6. PYQ-MAPPED MODEL-ANSWER SKELETONS ⚠️"
+        ]
+      },
+      "source_heading_sha256": "d898e88688a127f3e48ce9a474f28b59347a5900901d0ae0df5e47268a8a8a07",
+      "source_payload_sha256": "178b4e89b7e04f46267e8382de6437b27ad76fbfe6639cf1f237ddb28cc363f2",
+      "source_payload_words": 57,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "178b4e89b7e04f46267e8382de6437b27ad76fbfe6639cf1f237ddb28cc363f2",
+        "parent_only_words": 57,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Buddhism defeats necessity, while substantial-soul immortality remains insufficient by itself because rebirth also requires a transmigration or re-embodiment account.",
+      "proposition_sha256": "6402ecefcac8e8023f7fc2e6223fe994a0c58e640423f125e42eac17feb88f37",
+      "status": "covered_with_reviewed_transformation",
+      "delta_note": "The destination preserves the canonical question while correcting the mistaken inference from immortality alone to rebirth.",
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "6.1 — \"Is immortality of the soul a necessary condition for rebirth? (w.r.t. Buddhism)\" (2022, 10m)",
+          "occurrence": 2,
+          "destination_line": 1620,
+          "destination_anchor_id": "fbbd1f92d6d3f3b3fc1b",
+          "destination_payload_sha256": "5da815cd62cf682505e7c3b25ca094a2fa1981aa1f333871841ec7094290a068",
+          "destination_payload_words": 81,
+          "parent_only_payload_sha256": "5da815cd62cf682505e7c3b25ca094a2fa1981aa1f333871841ec7094290a068",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-083ed95b9bd49a44ef14",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "6.2 — \"Nature of jīvanmukti in Advaita Vedānta.\" (2025, 10m)",
+        "heading_occurrence": 1,
+        "line": 168,
+        "ancestor_headings": [
+          "6. PYQ-MAPPED MODEL-ANSWER SKELETONS ⚠️"
+        ]
+      },
+      "source_heading_sha256": "6edf689c7a2898cbf0075f50add05d0e67015644ba79151a07a26848afd26b9c",
+      "source_payload_sha256": "91664bcd2d31b83be1c00272f5761036cd18eadeda590551b71dda94a1c9ec67",
+      "source_payload_words": 46,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "91664bcd2d31b83be1c00272f5761036cd18eadeda590551b71dda94a1c9ec67",
+        "parent_only_words": 46,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Advaita presents jīvanmukti as liberation through knowledge while embodied life continues under prārabdha karma until videhamukti.",
+      "proposition_sha256": "3632526f3f06d12cebc3b1f46a8aa20d8dbc75aedaf848d69cba7aed884dc962",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "6.2 — \"Nature of jīvanmukti in Advaita Vedānta.\" (2025, 10m)",
+          "occurrence": 2,
+          "destination_line": 1630,
+          "destination_anchor_id": "bd60eddc89314ae7ad9c",
+          "destination_payload_sha256": "91664bcd2d31b83be1c00272f5761036cd18eadeda590551b71dda94a1c9ec67",
+          "destination_payload_words": 46,
+          "parent_only_payload_sha256": "91664bcd2d31b83be1c00272f5761036cd18eadeda590551b71dda94a1c9ec67",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-015f22e6ad73c2e44367",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "6.3 — \"Evaluate the concept of Bhakti (Devotion) as a pathway to attain liberation.\" (2018, 15m)",
+        "heading_occurrence": 1,
+        "line": 177,
+        "ancestor_headings": [
+          "6. PYQ-MAPPED MODEL-ANSWER SKELETONS ⚠️"
+        ]
+      },
+      "source_heading_sha256": "2c5b76a5365958658505be87ccbe35817e6c4eb65a2e474922120b1c989b6976",
+      "source_payload_sha256": "fe718abd217086173db8a0042dfecd8e080c97668e5a6c819d45af03fe761db6",
+      "source_payload_words": 116,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "fe718abd217086173db8a0042dfecd8e080c97668e5a6c819d45af03fe761db6",
+        "parent_only_words": 116,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Bhakti traditions differ over devotion, surrender, grace and whether bhakti directly liberates or prepares the aspirant for knowledge.",
+      "proposition_sha256": "da85cca3f3dd0abd38e213ae58244975e41bfa2b488db2323965795c640cd28a",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "6.3 — \"Evaluate the concept of Bhakti (Devotion) as a pathway to attain liberation.\" (2018, 15m)",
+          "occurrence": 2,
+          "destination_line": 1639,
+          "destination_anchor_id": "eaa4fecefd6683080371",
+          "destination_payload_sha256": "fe718abd217086173db8a0042dfecd8e080c97668e5a6c819d45af03fe761db6",
+          "destination_payload_words": 116,
+          "parent_only_payload_sha256": "fe718abd217086173db8a0042dfecd8e080c97668e5a6c819d45af03fe761db6",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-7127f624ece941ce68f6",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "6.4 — \"Are Knowledge, Action and Devotion the means to liberation in Indian tradition?\" (2020, 15m)",
+        "heading_occurrence": 1,
+        "line": 193,
+        "ancestor_headings": [
+          "6. PYQ-MAPPED MODEL-ANSWER SKELETONS ⚠️"
+        ]
+      },
+      "source_heading_sha256": "8c5637fe03348bbe98e73b4f15d45262cfc63914a22fc473bc7dd3f3a4c9ef5f",
+      "source_payload_sha256": "3725249ee83201001654d4dba223ebac15445225bce37df79abbc4bb801af17b",
+      "source_payload_words": 125,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "3725249ee83201001654d4dba223ebac15445225bce37df79abbc4bb801af17b",
+        "parent_only_words": 125,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Indian schools classify knowledge, action and devotion as direct, preparatory, sequential or grace-dependent means according to their account of bondage.",
+      "proposition_sha256": "8ac6f1a492a2f7990a8adaedc2927d29b5a14bccccbef5b6fadf09f654cecba4",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "6.4 — \"Are Knowledge, Action and Devotion the means to liberation in Indian tradition?\" (2020, 15m)",
+          "occurrence": 2,
+          "destination_line": 1655,
+          "destination_anchor_id": "22bee0e25937eeaa1b90",
+          "destination_payload_sha256": "3725249ee83201001654d4dba223ebac15445225bce37df79abbc4bb801af17b",
+          "destination_payload_words": 125,
+          "parent_only_payload_sha256": "3725249ee83201001654d4dba223ebac15445225bce37df79abbc4bb801af17b",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-fd6c5d198bdbf09cc3ac",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "6.5 — \"Karma, Rebirth and Reincarnation in Hinduism.\" (2019, 20m)",
+        "heading_occurrence": 1,
+        "line": 210,
+        "ancestor_headings": [
+          "6. PYQ-MAPPED MODEL-ANSWER SKELETONS ⚠️"
+        ]
+      },
+      "source_heading_sha256": "b90694a5a27bb0c4810a9845b17e9207f390f553c4bc7feee03bd242aa556f1a",
+      "source_payload_sha256": "e9570e4f1e4c7bbf980e1767ba798931b0025a6fcd2f5cc415fa636097917c4d",
+      "source_payload_words": 124,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "e9570e4f1e4c7bbf980e1767ba798931b0025a6fcd2f5cc415fa636097917c4d",
+        "parent_only_words": 124,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Karma supplies moral causation, rebirth supplies the cross-life field, and reincarnation adds the school-specific claim of a substantial bearer entering another body.",
+      "proposition_sha256": "1b16c00bc59595377e1bfcd947a77e578899f7335802d8a82eefba215a6423fd",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "6.5 — \"Karma, Rebirth and Reincarnation in Hinduism.\" (2019, 20m)",
+          "occurrence": 2,
+          "destination_line": 1672,
+          "destination_anchor_id": "67c42a6c67a64d936ce7",
+          "destination_payload_sha256": "e9570e4f1e4c7bbf980e1767ba798931b0025a6fcd2f5cc415fa636097917c4d",
+          "destination_payload_words": 124,
+          "parent_only_payload_sha256": "e9570e4f1e4c7bbf980e1767ba798931b0025a6fcd2f5cc415fa636097917c4d",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-862002df08b74b2fbb0c",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "8. ADVANCED DOCTRINE DOSSIERS",
+        "heading_occurrence": 1,
+        "line": 229,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "97a62c2e221e8e6efa2c5f455244d933fe742e946ad0067a529b1179849ba18a",
+      "source_payload_sha256": "99920195ab17fb87399391d194bc5017142bb95e29aaef65f25a598ec096fb6a",
+      "source_payload_words": 3221,
+      "classification": "structural_umbrella",
+      "source_structure": {
+        "parent_only_payload_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "parent_only_words": 0,
+        "child_ids": [
+          "canonical-8f52dbb3fd4210f3f60e",
+          "canonical-25f8b362d1ff4e2520ba",
+          "canonical-070c7b4e029df6a1563e",
+          "canonical-f69486af2ac1eb93dddd",
+          "canonical-d48413f6aab72c53e702",
+          "canonical-7614a457ba1068ff7899",
+          "canonical-a7eafc720e16f0aaf05a",
+          "canonical-3fb28e512b39eee175d6",
+          "canonical-0345ac261a0460c78924"
+        ],
+        "child_union_sha256": "1871cd6006a10d78e3aabd0ebf4499c5a971b389254866945bce642e855a9310"
+      },
+      "proposition": "The advanced dossiers deepen the canonical doctrines through arguments, presuppositions, distinctions, examples and objection-reply pairs.",
+      "proposition_sha256": "18923f50a501e2d024164a5207856be7f88e020050a26f2f8a8a2bd66dfeb1c4",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "8. ADVANCED DOCTRINE DOSSIERS",
+          "occurrence": 1,
+          "destination_line": 1691,
+          "destination_anchor_id": "549d57d7fb197518b97a",
+          "destination_payload_sha256": "99920195ab17fb87399391d194bc5017142bb95e29aaef65f25a598ec096fb6a",
+          "destination_payload_words": 3221,
+          "parent_only_payload_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "child_anchor_ids": [
+            "2e15be997de6c38f41a2",
+            "f7c7fdf6632ffc50aa56",
+            "4f4ee2d2be2263a10cb3",
+            "8575697c2ba5d0d0ee4f",
+            "da01592e88b8138ea572",
+            "1b9c3cae64547bc0407c",
+            "1f5da5debed253580a3b",
+            "52dddac320fb0748b28b",
+            "2e76b745b9800be6461a"
+          ],
+          "child_union_sha256": "1871cd6006a10d78e3aabd0ebf4499c5a971b389254866945bce642e855a9310",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-8f52dbb3fd4210f3f60e",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "8.1 Plato's immortality arguments",
+        "heading_occurrence": 1,
+        "line": 231,
+        "ancestor_headings": [
+          "8. ADVANCED DOCTRINE DOSSIERS"
+        ]
+      },
+      "source_heading_sha256": "65da9fb7630af7afc1af32bb492502d9b5d70f02861a1636f3f14c1b1c925438",
+      "source_payload_sha256": "2ae8048c53b480bce76497b872fca81abf75f19a4eb02ab966b5de62c1468e2d",
+      "source_payload_words": 144,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "2ae8048c53b480bce76497b872fca81abf75f19a4eb02ab966b5de62c1468e2d",
+        "parent_only_words": 144,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Plato's cyclical, recollection, affinity and Form-of-Life arguments require separate evaluation because pre-existence and resemblance to Forms do not automatically prove post-mortem survival.",
+      "proposition_sha256": "9af20dbc6e043eb03c5d3ca3f1a497c4b6a38268c446972a5db0c19e83e3068d",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "8.1 Plato's immortality arguments",
+          "occurrence": 2,
+          "destination_line": 1693,
+          "destination_anchor_id": "2e15be997de6c38f41a2",
+          "destination_payload_sha256": "2ae8048c53b480bce76497b872fca81abf75f19a4eb02ab966b5de62c1468e2d",
+          "destination_payload_words": 144,
+          "parent_only_payload_sha256": "2ae8048c53b480bce76497b872fca81abf75f19a4eb02ab966b5de62c1468e2d",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-25f8b362d1ff4e2520ba",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "8.2 Vedāntic ātman, rebirth and mokṣa",
+        "heading_occurrence": 1,
+        "line": 239,
+        "ancestor_headings": [
+          "8. ADVANCED DOCTRINE DOSSIERS"
+        ]
+      },
+      "source_heading_sha256": "2d2b59381a243f959448360b8c2dc61e481d5a35b37b3cf961c85dcc85099f7a",
+      "source_payload_sha256": "57785ec3d78a3d4706159beb7d8085489bd3f9837009b921396de33bb00eea3e",
+      "source_payload_words": 130,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "57785ec3d78a3d4706159beb7d8085489bd3f9837009b921396de33bb00eea3e",
+        "parent_only_words": 130,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Vedāntic systems connect an enduring self with karmic embodiment but diverge sharply between Advaitic non-dual realization and Viśiṣṭādvaitic personal communion.",
+      "proposition_sha256": "f249101e3923543136dccfef53ae3a247e075bcb7a5b109fdddcabec8d2a0399",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "8.2 Vedāntic ātman, rebirth and mokṣa",
+          "occurrence": 2,
+          "destination_line": 1701,
+          "destination_anchor_id": "f7c7fdf6632ffc50aa56",
+          "destination_payload_sha256": "57785ec3d78a3d4706159beb7d8085489bd3f9837009b921396de33bb00eea3e",
+          "destination_payload_words": 130,
+          "parent_only_payload_sha256": "57785ec3d78a3d4706159beb7d8085489bd3f9837009b921396de33bb00eea3e",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-070c7b4e029df6a1563e",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "8.3 Buddhist rebirth without an immortal soul",
+        "heading_occurrence": 1,
+        "line": 247,
+        "ancestor_headings": [
+          "8. ADVANCED DOCTRINE DOSSIERS"
+        ]
+      },
+      "source_heading_sha256": "3ac03698169ce7f6098565ca0d3c81499acfed944fe10d522cbf883275fd9ba3",
+      "source_payload_sha256": "54152df0a97ad577c6a9fa5f72ce3f913b692c029df62b32a33359a0d16af4bc",
+      "source_payload_words": 110,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "54152df0a97ad577c6a9fa5f72ce3f913b692c029df62b32a33359a0d16af4bc",
+        "parent_only_words": 110,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Dependent origination and neither-same-nor-different continuity explain karmic rebirth without an unchanging owner of the aggregates.",
+      "proposition_sha256": "f8f8869195a68c28fdd902c766c27dd2945cbf35f0e719e30681d5dd24a7c769",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "8.3 Buddhist rebirth without an immortal soul",
+          "occurrence": 2,
+          "destination_line": 1709,
+          "destination_anchor_id": "4f4ee2d2be2263a10cb3",
+          "destination_payload_sha256": "54152df0a97ad577c6a9fa5f72ce3f913b692c029df62b32a33359a0d16af4bc",
+          "destination_payload_words": 110,
+          "parent_only_payload_sha256": "54152df0a97ad577c6a9fa5f72ce3f913b692c029df62b32a33359a0d16af4bc",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-f69486af2ac1eb93dddd",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "8.4 Jain jīva and liberation",
+        "heading_occurrence": 1,
+        "line": 255,
+        "ancestor_headings": [
+          "8. ADVANCED DOCTRINE DOSSIERS"
+        ]
+      },
+      "source_heading_sha256": "f00fd29b326d4abec149462469b946b92e89c2cd605faa7766e7fb3fa1208b7b",
+      "source_payload_sha256": "0902ee4a922699b27bf53fa9272aa2547e460a3b2a47dcf8c0d2a00d6594d36c",
+      "source_payload_words": 122,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "0902ee4a922699b27bf53fa9272aa2547e460a3b2a47dcf8c0d2a00d6594d36c",
+        "parent_only_words": 122,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Jainism treats jīva as enduring, karma as material bondage, and liberation as the perfected soul's release through stopping and shedding karmic influx.",
+      "proposition_sha256": "ce86afe762e6ad8ba4f2eb5a8045b32b88e44e0cc49dd11d4e8910aaf6df4628",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "8.4 Jain jīva and liberation",
+          "occurrence": 2,
+          "destination_line": 1717,
+          "destination_anchor_id": "8575697c2ba5d0d0ee4f",
+          "destination_payload_sha256": "0902ee4a922699b27bf53fa9272aa2547e460a3b2a47dcf8c0d2a00d6594d36c",
+          "destination_payload_words": 122,
+          "parent_only_payload_sha256": "0902ee4a922699b27bf53fa9272aa2547e460a3b2a47dcf8c0d2a00d6594d36c",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-d48413f6aab72c53e702",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "8.5 Nyāya apavarga and Advaita jīvanmukti",
+        "heading_occurrence": 1,
+        "line": 263,
+        "ancestor_headings": [
+          "8. ADVANCED DOCTRINE DOSSIERS"
+        ]
+      },
+      "source_heading_sha256": "18933a4c0f817a4d027ebbe6f47e59bd6583129594fd1f765644602e2662267d",
+      "source_payload_sha256": "da90927def98ceeb2d92f116a428fd6ffcdf2fcccee23b167341156d498df5f8",
+      "source_payload_words": 124,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "da90927def98ceeb2d92f116a428fd6ffcdf2fcccee23b167341156d498df5f8",
+        "parent_only_words": 124,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Nyāya apavarga as cessation without liberated consciousness contrasts with Advaita jīvanmukti as self-luminous freedom while living.",
+      "proposition_sha256": "ab911a38ab9ad27c371652f0b408add45a0cd472269c9b2606408d07c82c3f13",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "8.5 Nyāya apavarga and Advaita jīvanmukti",
+          "occurrence": 2,
+          "destination_line": 1725,
+          "destination_anchor_id": "da01592e88b8138ea572",
+          "destination_payload_sha256": "da90927def98ceeb2d92f116a428fd6ffcdf2fcccee23b167341156d498df5f8",
+          "destination_payload_words": 124,
+          "parent_only_payload_sha256": "da90927def98ceeb2d92f116a428fd6ffcdf2fcccee23b167341156d498df5f8",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-7614a457ba1068ff7899",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "8.6 Bhakti as a path to liberation (2018 Q7(c) owner-module)",
+        "heading_occurrence": 1,
+        "line": 271,
+        "ancestor_headings": [
+          "8. ADVANCED DOCTRINE DOSSIERS"
+        ]
+      },
+      "source_heading_sha256": "83ad19d25829dac6807aa8b00e9a78198bd9768b101bfe3d7d6dc6a983bd57be",
+      "source_payload_sha256": "8df530321075345129a79ef8c6e1e02ba93d1630b9a9b07e22379af2b564dda0",
+      "source_payload_words": 687,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "8df530321075345129a79ef8c6e1e02ba93d1630b9a9b07e22379af2b564dda0",
+        "parent_only_words": 687,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Bhakti theories compare disciplined remembrance, surrender, grace, divine dependence and the tension between dualistic love and non-dual liberation.",
+      "proposition_sha256": "0ddf7f37b5db12639d9df30b5af264a1f3480458c52c6f80fae63e4826ee60e7",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "8.6 Bhakti as a path to liberation (2018 Q7(c) owner-module)",
+          "occurrence": 2,
+          "destination_line": 1733,
+          "destination_anchor_id": "1b9c3cae64547bc0407c",
+          "destination_payload_sha256": "8df530321075345129a79ef8c6e1e02ba93d1630b9a9b07e22379af2b564dda0",
+          "destination_payload_words": 687,
+          "parent_only_payload_sha256": "8df530321075345129a79ef8c6e1e02ba93d1630b9a9b07e22379af2b564dda0",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-a7eafc720e16f0aaf05a",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "8.7 Jñāna, karma and bhakti — how the three means are related (2020 Q8(c) owner-module)",
+        "heading_occurrence": 1,
+        "line": 286,
+        "ancestor_headings": [
+          "8. ADVANCED DOCTRINE DOSSIERS"
+        ]
+      },
+      "source_heading_sha256": "eb69ba47a180dcc0db5a403fbbae9b4e97628192eb72bf2560ee0a29adaf5b67",
+      "source_payload_sha256": "dd9fb96b711659d6e17e57e26296c62faaa00ec3a452547d2372409c39f6d2f1",
+      "source_payload_words": 520,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "dd9fb96b711659d6e17e57e26296c62faaa00ec3a452547d2372409c39f6d2f1",
+        "parent_only_words": 520,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "The three means converge in transforming agency but diverge over whether liberation is produced, received or disclosed by removing ignorance.",
+      "proposition_sha256": "4e889a79ccc27e53dcc8e57e12caf53b5bdbace90ff716ee6e30c64e97583b96",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "8.7 Jñāna, karma and bhakti — how the three means are related (2020 Q8(c) owner-module)",
+          "occurrence": 2,
+          "destination_line": 1748,
+          "destination_anchor_id": "1f5da5debed253580a3b",
+          "destination_payload_sha256": "dd9fb96b711659d6e17e57e26296c62faaa00ec3a452547d2372409c39f6d2f1",
+          "destination_payload_words": 520,
+          "parent_only_payload_sha256": "dd9fb96b711659d6e17e57e26296c62faaa00ec3a452547d2372409c39f6d2f1",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-3fb28e512b39eee175d6",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "8.8 Resurrection versus rebirth — and rebirth versus reincarnation",
+        "heading_occurrence": 1,
+        "line": 303,
+        "ancestor_headings": [
+          "8. ADVANCED DOCTRINE DOSSIERS"
+        ]
+      },
+      "source_heading_sha256": "3464f3215db427cca42b17c60c0e851289bc35cc90ed9dc90a7674fb8bb2f6e2",
+      "source_payload_sha256": "6ebe9aa1c8e869dd4042c4d6cb66c01c952c3984323425320452c03b4e361ad7",
+      "source_payload_words": 618,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "6ebe9aa1c8e869dd4042c4d6cb66c01c952c3984323425320452c03b4e361ad7",
+        "parent_only_words": 618,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Resurrection reconstitutes the embodied person after one life, rebirth is the wider cross-life continuity category, and reincarnation presupposes a substantial transmigrant.",
+      "proposition_sha256": "56a83177318150d473329062b8b4e3439b0538916ba2d39501e01f59847ae095",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "8.8 Resurrection versus rebirth — and rebirth versus reincarnation",
+          "occurrence": 2,
+          "destination_line": 1765,
+          "destination_anchor_id": "52dddac320fb0748b28b",
+          "destination_payload_sha256": "6ebe9aa1c8e869dd4042c4d6cb66c01c952c3984323425320452c03b4e361ad7",
+          "destination_payload_words": 618,
+          "parent_only_payload_sha256": "6ebe9aa1c8e869dd4042c4d6cb66c01c952c3984323425320452c03b4e361ad7",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-0345ac261a0460c78924",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "8.9 Sāṃkhya and Yoga: *kaivalya*, and how it differs from every other liberation",
+        "heading_occurrence": 1,
+        "line": 324,
+        "ancestor_headings": [
+          "8. ADVANCED DOCTRINE DOSSIERS"
+        ]
+      },
+      "source_heading_sha256": "0e949268cd1bc6ee122de9c87b09b4438117f87f176ab9ce98272491ae1eb30a",
+      "source_payload_sha256": "8498f2744914ca6ef5d54d79cf17354c3dc7ec79e7cbe893770f9de5d7d2a425",
+      "source_payload_words": 682,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "8498f2744914ca6ef5d54d79cf17354c3dc7ec79e7cbe893770f9de5d7d2a425",
+        "parent_only_words": 682,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Sāṃkhya-Yoga kaivalya isolates puruṣa from prakṛti and must not be confused with Brahman-identity, divine communion, omniscience or Buddhist cessation.",
+      "proposition_sha256": "8679fc5ceefc206a21622666365779eab4e8d5071ef3f51faa9aa09d3225163c",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "8.9 Sāṃkhya and Yoga: *kaivalya*, and how it differs from every other liberation",
+          "occurrence": 1,
+          "destination_line": 1786,
+          "destination_anchor_id": "2e76b745b9800be6461a",
+          "destination_payload_sha256": "8498f2744914ca6ef5d54d79cf17354c3dc7ec79e7cbe893770f9de5d7d2a425",
+          "destination_payload_words": 682,
+          "parent_only_payload_sha256": "8498f2744914ca6ef5d54d79cf17354c3dc7ec79e7cbe893770f9de5d7d2a425",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-8a525b1c9f56eea68ad1",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "9. INTER-THINKER / INTER-SCHOOL DEBATES",
+        "heading_occurrence": 1,
+        "line": 338,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "09e0b2523def699ca0ce3746f4014d1606cba1e6dc94b0bcdb6e0da20a20592d",
+      "source_payload_sha256": "9435acf2e5751774f69694044ac121600a7087b7622afeabf051776bfab42a67",
+      "source_payload_words": 112,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "9435acf2e5751774f69694044ac121600a7087b7622afeabf051776bfab42a67",
+        "parent_only_words": 112,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "The comparative debates test soul versus no-self continuity, identity versus communion, conscious versus non-conscious release, and natural immortality versus resurrection.",
+      "proposition_sha256": "7804b99fb88e2c8834742804f7936fc77573f7bdc6016beaf9f4534fceeee4e2",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "9. INTER-THINKER / INTER-SCHOOL DEBATES",
+          "occurrence": 2,
+          "destination_line": 1800,
+          "destination_anchor_id": "f5f383bfab22e5e2816b",
+          "destination_payload_sha256": "9435acf2e5751774f69694044ac121600a7087b7622afeabf051776bfab42a67",
+          "destination_payload_words": 112,
+          "parent_only_payload_sha256": "9435acf2e5751774f69694044ac121600a7087b7622afeabf051776bfab42a67",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-64fa9d125bde4ccc1feb",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "10. CRITICISMS AND REPLIES",
+        "heading_occurrence": 1,
+        "line": 351,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "e13aa9f0832bbc414f9124bdfa83526609789a66b589f5e0cc8558bbfbe20737",
+      "source_payload_sha256": "a8a6eabb9ea15c27d327d9fa254a18b4352fd74853c787420f88d13572cea88d",
+      "source_payload_words": 94,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "a8a6eabb9ea15c27d327d9fa254a18b4352fd74853c787420f88d13572cea88d",
+        "parent_only_words": 94,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Memory, verification, bodily dependence, justice and identity objections each require a doctrine-specific reply rather than a generic appeal to faith.",
+      "proposition_sha256": "6582c102cde659f14c23cee73a277ff7d7c3f254c87a41738818d62f60f1759b",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "10. CRITICISMS AND REPLIES",
+          "occurrence": 2,
+          "destination_line": 1813,
+          "destination_anchor_id": "ee5e0f82d26faeea1caf",
+          "destination_payload_sha256": "a8a6eabb9ea15c27d327d9fa254a18b4352fd74853c787420f88d13572cea88d",
+          "destination_payload_words": 94,
+          "parent_only_payload_sha256": "a8a6eabb9ea15c27d327d9fa254a18b4352fd74853c787420f88d13572cea88d",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-7df4b1fee219d6852bcc",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "11. COMMON UPSC TRAPS",
+        "heading_occurrence": 1,
+        "line": 358,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "e8677d68eb9adb246069cfbaa189ccc56776125df2110973468f850036c8ea8b",
+      "source_payload_sha256": "bd661d52c0ca55dcfbf579cc4f6d70332aa7f1f267e532842f6b44867693ee3d",
+      "source_payload_words": 291,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "bd661d52c0ca55dcfbf579cc4f6d70332aa7f1f267e532842f6b44867693ee3d",
+        "parent_only_words": 291,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "The trap list prevents conflating rebirth with reincarnation, nirvāṇa with annihilation, apavarga with bliss, kaivalya with kevala and liberation with merger.",
+      "proposition_sha256": "43ecef62460f6c5e86a1b9823238333f31c3627f6b9f7d81dc172b75d481a404",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "11. COMMON UPSC TRAPS",
+          "occurrence": 2,
+          "destination_line": 1820,
+          "destination_anchor_id": "98073d7dc7a715f39808",
+          "destination_payload_sha256": "bd661d52c0ca55dcfbf579cc4f6d70332aa7f1f267e532842f6b44867693ee3d",
+          "destination_payload_words": 291,
+          "parent_only_payload_sha256": "bd661d52c0ca55dcfbf579cc4f6d70332aa7f1f267e532842f6b44867693ee3d",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-ec9a9bad434d8a6fdefb",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "12. KEYWORD & STATEMENT BANK",
+        "heading_occurrence": 1,
+        "line": 375,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "719fa9e05a205f30943733cabb7c2d7333823542ad4693c3627fb950b15e19e5",
+      "source_payload_sha256": "e9510971156c9a0235ab7f2ce83bc9cae38c28675a6f01bb4b38be169d3efbcf",
+      "source_payload_words": 222,
+      "classification": "structural_umbrella",
+      "source_structure": {
+        "parent_only_payload_sha256": "4d4fda6bfe8060caa50508950327836c7f05d12f00ea24ae8a3581b890984d93",
+        "parent_only_words": 146,
+        "child_ids": [
+          "canonical-6bec8693cdd436f93050"
+        ],
+        "child_union_sha256": "e743c31fad27172d68bf14cb7e1fb66d54b098e3588cde809385b53aafd2ce45"
+      },
+      "proposition": "The keyword bank supplies precise terms and formulations for continuity, bondage, release, identity and school-specific mechanisms.",
+      "proposition_sha256": "776c7ee60f518f726e0fd505e67a8d5c2cc8d0e1bb683f9b105a68489090532a",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "12. KEYWORD & STATEMENT BANK",
+          "occurrence": 1,
+          "destination_line": 1837,
+          "destination_anchor_id": "b7f560ddad8ef244221a",
+          "destination_payload_sha256": "e9510971156c9a0235ab7f2ce83bc9cae38c28675a6f01bb4b38be169d3efbcf",
+          "destination_payload_words": 222,
+          "parent_only_payload_sha256": "4d4fda6bfe8060caa50508950327836c7f05d12f00ea24ae8a3581b890984d93",
+          "child_anchor_ids": [
+            "b7ca843a44f2f7e657c6"
+          ],
+          "child_union_sha256": "e743c31fad27172d68bf14cb7e1fb66d54b098e3588cde809385b53aafd2ce45",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-6bec8693cdd436f93050",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "CORPUS-DRIVEN DEPTH DELTA (expanded PYQ audit)",
+        "heading_occurrence": 1,
+        "line": 382,
+        "ancestor_headings": [
+          "12. KEYWORD & STATEMENT BANK"
+        ]
+      },
+      "source_heading_sha256": "7f87a9dff412cbfaf41d5e10e927db5e0e76f755d42f1b96b127c80da6629b00",
+      "source_payload_sha256": "9a83f04033a96688200e10e68ba569cd4eb9536368a7f0f6b8080331980700dd",
+      "source_payload_words": 70,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "9a83f04033a96688200e10e68ba569cd4eb9536368a7f0f6b8080331980700dd",
+        "parent_only_words": 70,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "The depth delta adds the doctrine, thinker and comparison material demanded by the verified PYQ corpus beyond a minimal syllabus outline.",
+      "proposition_sha256": "6815d15310edd94f74545a4d1b1b6083fa7360953aab82a85baffc3fe6edd3fe",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "CORPUS-DRIVEN DEPTH DELTA (expanded PYQ audit)",
+          "occurrence": 1,
+          "destination_line": 1844,
+          "destination_anchor_id": "b7ca843a44f2f7e657c6",
+          "destination_payload_sha256": "9a83f04033a96688200e10e68ba569cd4eb9536368a7f0f6b8080331980700dd",
+          "destination_payload_words": 70,
+          "parent_only_payload_sha256": "9a83f04033a96688200e10e68ba569cd4eb9536368a7f0f6b8080331980700dd",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-95a2fcefe305e07b06e0",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "13. PYQ ROUTING (2018–2025)",
+        "heading_occurrence": 1,
+        "line": 390,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "1c8771dc00259ac6bd3855ca2e8ac554f4ea8abdf451d4d8fca7511feaac5082",
+      "source_payload_sha256": "8e94696fc26c1577f73f51ef418c6331fe559a53eb9f2062f1b27eb9376344da",
+      "source_payload_words": 392,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "8e94696fc26c1577f73f51ef418c6331fe559a53eb9f2062f1b27eb9376344da",
+        "parent_only_words": 392,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "The routing table assigns each verified question to this owner, a supporting module or an explicit boundary so ownership remains auditable.",
+      "proposition_sha256": "e8621daab275ed8ea586a07598de43e1c89c1a57d9ab371ce1dc0e3b55b06845",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "13. PYQ ROUTING (2018–2025)",
+          "occurrence": 1,
+          "destination_line": 1852,
+          "destination_anchor_id": "e479806291913521a56f",
+          "destination_payload_sha256": "8e94696fc26c1577f73f51ef418c6331fe559a53eb9f2062f1b27eb9376344da",
+          "destination_payload_words": 392,
+          "parent_only_payload_sha256": "8e94696fc26c1577f73f51ef418c6331fe559a53eb9f2062f1b27eb9376344da",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-37f36ef54352aa9ab122",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "14. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)",
+        "heading_occurrence": 1,
+        "line": 416,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "fc2de3a1909559631aaa9cbc3b39113796cd68ab73f14d7e87108d10e9bb92c6",
+      "source_payload_sha256": "64a41179d508de171d216d5e41e6b787864d0d7161fcc174dbf9d776afd420f4",
+      "source_payload_words": 65,
+      "classification": "structural_umbrella",
+      "source_structure": {
+        "parent_only_payload_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "parent_only_words": 0,
+        "child_ids": [
+          "canonical-b860019198cd735a85a0",
+          "canonical-7d1ea6427141587629d7",
+          "canonical-72112265b8369c18579e"
+        ],
+        "child_union_sha256": "b092f6c27b11d4cbaace803995866a2d03fb823b7202fad544424082ee6b6863"
+      },
+      "proposition": "Answer architecture scales argument density, comparison and evaluation to the locked 10-, 15- and 20-mark formats.",
+      "proposition_sha256": "90c479f1080e0818b5f3d6680d13143d03932e715205851db1e9b7732cd3f0a2",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "14. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)",
+          "occurrence": 1,
+          "destination_line": 1878,
+          "destination_anchor_id": "289dc11127962f87bfca",
+          "destination_payload_sha256": "64a41179d508de171d216d5e41e6b787864d0d7161fcc174dbf9d776afd420f4",
+          "destination_payload_words": 65,
+          "parent_only_payload_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "child_anchor_ids": [
+            "04e9fa8766d388b9ad67",
+            "011e7d726a733c8b8a0d",
+            "3b1f8737cda58b7c4beb"
+          ],
+          "child_union_sha256": "b092f6c27b11d4cbaace803995866a2d03fb823b7202fad544424082ee6b6863",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-b860019198cd735a85a0",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "10 marks",
+        "heading_occurrence": 1,
+        "line": 418,
+        "ancestor_headings": [
+          "14. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)"
+        ]
+      },
+      "source_heading_sha256": "be7710398b320d906cd9bef7ea5aadf0c81a78f7d3036ac6eb11ea00a69623e8",
+      "source_payload_sha256": "7a86ff1c7af64cde5decc4b0f7168de5cb8a0cd189fa16993ee9cabc364f03bb",
+      "source_payload_words": 20,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "7a86ff1c7af64cde5decc4b0f7168de5cb8a0cd189fa16993ee9cabc364f03bb",
+        "parent_only_words": 20,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "A 10-mark response uses a direct definition, compact doctrinal contrast, one objection and a qualified conclusion within 150 to 200 words.",
+      "proposition_sha256": "85f007276a74978be26d3a12737c5656f508c7744c885b3c46e3b868f6d7fc83",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "10 marks",
+          "occurrence": 2,
+          "destination_line": 1880,
+          "destination_anchor_id": "04e9fa8766d388b9ad67",
+          "destination_payload_sha256": "7a86ff1c7af64cde5decc4b0f7168de5cb8a0cd189fa16993ee9cabc364f03bb",
+          "destination_payload_words": 20,
+          "parent_only_payload_sha256": "7a86ff1c7af64cde5decc4b0f7168de5cb8a0cd189fa16993ee9cabc364f03bb",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-7d1ea6427141587629d7",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "15 marks",
+        "heading_occurrence": 1,
+        "line": 424,
+        "ancestor_headings": [
+          "14. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)"
+        ]
+      },
+      "source_heading_sha256": "e004bd56555b4fbb4558b0e78f5f9dc4b282bd4131f91a151e89445fba455cb7",
+      "source_payload_sha256": "439f0930f3b44a956456d94d888469bed205d93e2b7cb1969cc2cf92b18047a1",
+      "source_payload_words": 18,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "439f0930f3b44a956456d94d888469bed205d93e2b7cb1969cc2cf92b18047a1",
+        "parent_only_words": 18,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "A 15-mark response develops two or three doctrinal axes, evaluation and a reasoned verdict within 250 to 300 words.",
+      "proposition_sha256": "4c03494ebe1c7157c43852483b4246b6cd5ee3e1ea75c853e6dbfd5f2ed50636",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "15 marks",
+          "occurrence": 2,
+          "destination_line": 1886,
+          "destination_anchor_id": "011e7d726a733c8b8a0d",
+          "destination_payload_sha256": "439f0930f3b44a956456d94d888469bed205d93e2b7cb1969cc2cf92b18047a1",
+          "destination_payload_words": 18,
+          "parent_only_payload_sha256": "439f0930f3b44a956456d94d888469bed205d93e2b7cb1969cc2cf92b18047a1",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-72112265b8369c18579e",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "20 marks",
+        "heading_occurrence": 1,
+        "line": 430,
+        "ancestor_headings": [
+          "14. ANSWER ARCHITECTURE (10 / 15 / 20 MARKS)"
+        ]
+      },
+      "source_heading_sha256": "42e74a7ca7b31c42ee2b97dbc7e9a3c71a8123bd9e0fe574dbd5d22bd5f2705f",
+      "source_payload_sha256": "369833a46f4642f671c12861d8a0e2bf4977b1078d49ae9fb3d3eefdbf880da3",
+      "source_payload_words": 21,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "369833a46f4642f671c12861d8a0e2bf4977b1078d49ae9fb3d3eefdbf880da3",
+        "parent_only_words": 21,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "A 20-mark response integrates conceptual distinctions, multiple traditions, objections, replies and a defended synthesis within 340 to 400 words.",
+      "proposition_sha256": "5fda64c54c712d1a446017c3ebfb98a6337f1959d38b2d1a8b545838b6528aea",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "20 marks",
+          "occurrence": 2,
+          "destination_line": 1892,
+          "destination_anchor_id": "3b1f8737cda58b7c4beb",
+          "destination_payload_sha256": "369833a46f4642f671c12861d8a0e2bf4977b1078d49ae9fb3d3eefdbf880da3",
+          "destination_payload_words": 21,
+          "parent_only_payload_sha256": "369833a46f4642f671c12861d8a0e2bf4977b1078d49ae9fb3d3eefdbf880da3",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-25121c62f3b51e7c49fb",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "15. DIRECTIVE DECODER",
+        "heading_occurrence": 1,
+        "line": 437,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "58bd3622749d9b6aa39c7b98d5d01d31c77431e184cced1aac6c77aa36e8aabb",
+      "source_payload_sha256": "756c0fe5fd19dd4617167f7e6685e2e704b1fd9b4ee406a2101dd629a1a1e1ae",
+      "source_payload_words": 268,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "756c0fe5fd19dd4617167f7e6685e2e704b1fd9b4ee406a2101dd629a1a1e1ae",
+        "parent_only_words": 268,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "The directive decoder distinguishes descriptive, comparative and critical tasks so the answer's operations match the command word.",
+      "proposition_sha256": "e90322fcc3fb9c1d235fa2d1065db93a687ea39f7f733f62b7ed9a401aa64417",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "15. DIRECTIVE DECODER",
+          "occurrence": 1,
+          "destination_line": 1899,
+          "destination_anchor_id": "72ebb1fdfd76c71c648b",
+          "destination_payload_sha256": "756c0fe5fd19dd4617167f7e6685e2e704b1fd9b4ee406a2101dd629a1a1e1ae",
+          "destination_payload_words": 268,
+          "parent_only_payload_sha256": "756c0fe5fd19dd4617167f7e6685e2e704b1fd9b4ee406a2101dd629a1a1e1ae",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-de0d850ca704d6d69682",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "16. GRADED VERDICT LADDER",
+        "heading_occurrence": 1,
+        "line": 452,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "609a5baaabed6657fd5a188f588cedef37a5a2300b67c598a4cef77afcb250e5",
+      "source_payload_sha256": "053976e9b58e2dd8e5338993ff04c79b99b52b80980bfef106c7260771e40d8d",
+      "source_payload_words": 221,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "053976e9b58e2dd8e5338993ff04c79b99b52b80980bfef106c7260771e40d8d",
+        "parent_only_words": 221,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "The verdict ladder replaces absolute conclusions with calibrated judgments about logical possibility, doctrinal dependence and evidential strength.",
+      "proposition_sha256": "7cf606ce4346a732727a15c39a76034527e69cb1fb787037dc57fb59d467c89f",
+      "status": "covered_with_reviewed_transformation",
+      "delta_note": "The destination preserves the canonical question while correcting the mistaken inference from immortality alone to rebirth.",
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "16. GRADED VERDICT LADDER",
+          "occurrence": 1,
+          "destination_line": 1914,
+          "destination_anchor_id": "11adb9db198cfb62746a",
+          "destination_payload_sha256": "43593e263d5d2a3efb16c57bab9cd163734125ae4dab55f537f824cce1867939",
+          "destination_payload_words": 218,
+          "parent_only_payload_sha256": "43593e263d5d2a3efb16c57bab9cd163734125ae4dab55f537f824cce1867939",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-9496952610748d0db185",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "17. FACTUAL AND QUOTATION DISCIPLINE",
+        "heading_occurrence": 1,
+        "line": 467,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "6ba82b55bc6fe49c7979683682d592cc2225a3a6b134e8fc60cc6a06557a0f24",
+      "source_payload_sha256": "da4045965011023b5be6d9341694ace3b3454ca2a74be95026d18faa92ebf000",
+      "source_payload_words": 262,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "da4045965011023b5be6d9341694ace3b3454ca2a74be95026d18faa92ebf000",
+        "parent_only_words": 262,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "Factual discipline separates canonical text, interpretive inference and illustrative analogy while avoiding invented quotations or empirical proof claims.",
+      "proposition_sha256": "52f0b51d5bed502702b6efc919d22015f9a1fa37d32c2837d8dcd619936973e2",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "17. FACTUAL AND QUOTATION DISCIPLINE",
+          "occurrence": 1,
+          "destination_line": 1929,
+          "destination_anchor_id": "0207f7800f68ea8a88e7",
+          "destination_payload_sha256": "da4045965011023b5be6d9341694ace3b3454ca2a74be95026d18faa92ebf000",
+          "destination_payload_words": 262,
+          "parent_only_payload_sha256": "da4045965011023b5be6d9341694ace3b3454ca2a74be95026d18faa92ebf000",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-7d8043a355b6196bb903",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "18. LINK-OUTS",
+        "heading_occurrence": 1,
+        "line": 487,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "79878ad98d49a49379c0f2c12ac0b1c18ee7c0138bb765bae21af362db7dfef0",
+      "source_payload_sha256": "8b5084a56b97a48270c9354c91073dc9bcdbf6e540167b678f21e23fc616d73f",
+      "source_payload_words": 92,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "8b5084a56b97a48270c9354c91073dc9bcdbf6e540167b678f21e23fc616d73f",
+        "parent_only_words": 92,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "The link-outs preserve boundaries with adjacent philosophy-of-religion and Indian-philosophy topics without transferring this owner's core obligations.",
+      "proposition_sha256": "c6205bf319803c53861bc265971301dd9d7b7a8b4fce90545795fc238076a7a9",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "18. LINK-OUTS",
+          "occurrence": 1,
+          "destination_line": 1949,
+          "destination_anchor_id": "51556cbbc90dea75d49b",
+          "destination_payload_sha256": "8b5084a56b97a48270c9354c91073dc9bcdbf6e540167b678f21e23fc616d73f",
+          "destination_payload_words": 92,
+          "parent_only_payload_sha256": "8b5084a56b97a48270c9354c91073dc9bcdbf6e540167b678f21e23fc616d73f",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    },
+    {
+      "id": "canonical-08acc210316ba95ba487",
+      "authority_source_type": "canonical_owner",
+      "source_path": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
+      "source_anchor": {
+        "heading": "SOURCES",
+        "heading_occurrence": 1,
+        "line": 502,
+        "ancestor_headings": []
+      },
+      "source_heading_sha256": "03d463b7203aa1add0c5fdb726bba20992c7a7d5b59d222a8c0990e0ed34e145",
+      "source_payload_sha256": "cbf12f7105037d17214ba1e6a96b678e75b38e9415768a1e6a194dbe4bc6f5d4",
+      "source_payload_words": 171,
+      "classification": "covered_leaf",
+      "source_structure": {
+        "parent_only_payload_sha256": "cbf12f7105037d17214ba1e6a96b678e75b38e9415768a1e6a194dbe4bc6f5d4",
+        "parent_only_words": 171,
+        "child_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "proposition": "The source section identifies canonical texts, standard philosophical debates and bounded reference materials supporting the package.",
+      "proposition_sha256": "7ad116db97b8de2af1dc97f7ee0f6228f8389024afc67c0a9bf515f4cb08cbe2",
+      "status": "covered",
+      "delta_note": null,
+      "destinations": [
+        {
+          "file": "REVISION-GUIDE.md",
+          "anchor_kind": "heading",
+          "anchor": "SOURCES",
+          "occurrence": 2,
+          "destination_line": 1964,
+          "destination_anchor_id": "6dc6552d4aa573336b22",
+          "destination_payload_sha256": "cbf12f7105037d17214ba1e6a96b678e75b38e9415768a1e6a194dbe4bc6f5d4",
+          "destination_payload_words": 171,
+          "parent_only_payload_sha256": "cbf12f7105037d17214ba1e6a96b678e75b38e9415768a1e6a194dbe4bc6f5d4",
+          "child_anchor_ids": [],
+          "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "mapping_method": "authored_canonical_heading_mapping"
+        }
+      ]
+    }
+  ],
+  "inbound_obligations": [
+    {
+      "id": "T11-ROUTE-P2-SOUL",
+      "source_topic": "Paper I Topic 11 Quine and Strawson",
+      "proposition": "Apply diachronic identity, branching and public identification conditions to survival, rebirth and resurrection claims without importing Paper I ownership.",
+      "destination": {
+        "file": "REVISION-GUIDE.md",
+        "anchor_kind": "heading",
+        "anchor": "Inbound obligation: diachronic personal identity and survival",
+        "occurrence": 1,
+        "destination_line": 22,
+        "destination_anchor_id": "6155fa3114149abb95f4",
+        "destination_payload_sha256": "0c4c4219da956e74a909f17d57eb41144a3da591f63507899a1af14d2a990acf",
+        "destination_payload_words": 728,
+        "parent_only_payload_sha256": "6e83c28eb96b54548b7a924508a10cb23cd71715a24f1414f8b7ac14c6620b82",
+        "child_anchor_ids": [
+          "fc248b25d3987b639e7e",
+          "ca756b9a1fd8ebf26dc2",
+          "4ac790ba4a5324f7623d",
+          "90cf846f30085f398626",
+          "68b6f238300ce216617c",
+          "5a2d3d3b96bc296da690"
+        ],
+        "child_union_sha256": "b06148bf62ba8ba51c28bd81fe9bfdfd57b8701a4637d8cd78d1287fdcf1cbf4",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "testing": "MCQs 49-54",
+      "answer_writing": "Originals 4-6",
+      "status": "closed_in_destination"
+    }
+  ],
+  "pyq_obligations": [
+    {
+      "id": "PYQ-2018-Q5b",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "9bd147dbfb813be5fa62525f3ec8e68f15b5bf663945660e7082a557c52efd70",
+      "proposition": "2018 Q5(b) is owned here and has an independently written 10-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 1 — 2018 Q5(b) · 10 marks",
+        "occurrence": 1,
+        "destination_line": 12,
+        "destination_anchor_id": "d6aa86696a8239d8e0d9",
+        "destination_payload_sha256": "08b2f9de390f5d7f3598caf0c7f27c05c4125ee706feebf51c692bd4cd62ee3c",
+        "destination_payload_words": 290,
+        "parent_only_payload_sha256": "08b2f9de390f5d7f3598caf0c7f27c05c4125ee706feebf51c692bd4cd62ee3c",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2018-Q7c",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "aa00ff69fb7fb89d21e2a1073a552334bc7900685e6f943d67798f84ff202c71",
+      "proposition": "2018 Q7(c) is owned here and has an independently written 15-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 2 — 2018 Q7(c) · 15 marks",
+        "occurrence": 1,
+        "destination_line": 45,
+        "destination_anchor_id": "4b615c9e447c2142eb90",
+        "destination_payload_sha256": "1e0f683b05af9476f338abecb2000e36503c2759cb23f01a3c9a90ecbf0be22e",
+        "destination_payload_words": 367,
+        "parent_only_payload_sha256": "1e0f683b05af9476f338abecb2000e36503c2759cb23f01a3c9a90ecbf0be22e",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2019-Q8a",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "14c6b41442b4dbc2c575e2df40b4790c1d8c195c67a98e2201a7af6bbbd04784",
+      "proposition": "2019 Q8(a) is owned here and has an independently written 20-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 3 — 2019 Q8(a) · 20 marks",
+        "occurrence": 1,
+        "destination_line": 77,
+        "destination_anchor_id": "77577bedebadb07aff31",
+        "destination_payload_sha256": "ef2ba14a58fbf552a32847a76b35a82c7ca23adc716fdbee1d3eaedf61012aac",
+        "destination_payload_words": 432,
+        "parent_only_payload_sha256": "ef2ba14a58fbf552a32847a76b35a82c7ca23adc716fdbee1d3eaedf61012aac",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2020-Q5b",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "923f4cb2e179b916c729357cbba985fdc75a16a773d9b1ba9d04f6dc7602c96c",
+      "proposition": "2020 Q5(b) is owned here and has an independently written 10-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 4 — 2020 Q5(b) · 10 marks",
+        "occurrence": 1,
+        "destination_line": 111,
+        "destination_anchor_id": "7d4eac7361bca32f7cec",
+        "destination_payload_sha256": "abb586e1e63a544583919cfc72aaaf8924f999035280683e7026481851e25aa8",
+        "destination_payload_words": 262,
+        "parent_only_payload_sha256": "abb586e1e63a544583919cfc72aaaf8924f999035280683e7026481851e25aa8",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2020-Q8c",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "e3935a6527307026b295d6a41576f7ea01423570fa3a108501345ffc1e3dbddb",
+      "proposition": "2020 Q8(c) is owned here and has an independently written 15-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 5 — 2020 Q8(c) · 15 marks",
+        "occurrence": 1,
+        "destination_line": 145,
+        "destination_anchor_id": "453797351fefe0f0a832",
+        "destination_payload_sha256": "99021e72cb1cd9751d3f28ddf453f58e9572ec88c476f4ae6b8d3f1e3da7830a",
+        "destination_payload_words": 373,
+        "parent_only_payload_sha256": "99021e72cb1cd9751d3f28ddf453f58e9572ec88c476f4ae6b8d3f1e3da7830a",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2021-Q6a",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "f8c52622c420724eaa33bb90e0436f17b9e3e0649422c80f4e8d119eb5dcd65a",
+      "proposition": "2021 Q6(a) is owned here and has an independently written 20-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 6 — 2021 Q6(a) · 20 marks",
+        "occurrence": 1,
+        "destination_line": 178,
+        "destination_anchor_id": "c5d7e4c604d2717606a4",
+        "destination_payload_sha256": "a9bf575be765957302b24e7a2b8a6f4aaace6f8ec20a67d86cfbbfaf695d6dbf",
+        "destination_payload_words": 444,
+        "parent_only_payload_sha256": "a9bf575be765957302b24e7a2b8a6f4aaace6f8ec20a67d86cfbbfaf695d6dbf",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2021-Q6b",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "a9c67572db51178cbfa4bd4fa774ff81c21f3f15be219f66710d2969eb27f856",
+      "proposition": "2021 Q6(b) is owned here and has an independently written 15-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 7 — 2021 Q6(b) · 15 marks",
+        "occurrence": 1,
+        "destination_line": 215,
+        "destination_anchor_id": "dcc868fbfed85db62953",
+        "destination_payload_sha256": "46981ef165c76a254e89fb2eb663c1baf08041112b2767689c40ddf0f8ebff41",
+        "destination_payload_words": 346,
+        "parent_only_payload_sha256": "46981ef165c76a254e89fb2eb663c1baf08041112b2767689c40ddf0f8ebff41",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2021-Q8b",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "15896a2bda78888cd5ee847c7761a469cbbad90ae3a3e01d2050de20fa27125d",
+      "proposition": "2021 Q8(b) is owned here and has an independently written 15-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 8 — 2021 Q8(b) · 15 marks",
+        "occurrence": 1,
+        "destination_line": 245,
+        "destination_anchor_id": "51036747b35128b1b91c",
+        "destination_payload_sha256": "20c4f3bd80753c8eba3b20891e6d6834e3df176b8220a1c5fc4c541efac9b314",
+        "destination_payload_words": 336,
+        "parent_only_payload_sha256": "20c4f3bd80753c8eba3b20891e6d6834e3df176b8220a1c5fc4c541efac9b314",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2022-Q5c",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "5b448418ba8814916f8eab63ef127ba23ea7e9e3224c6c1e8eb60cf5819a59cd",
+      "proposition": "2022 Q5(c) is owned here and has an independently written 10-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 9 — 2022 Q5(c) · 10 marks",
+        "occurrence": 1,
+        "destination_line": 280,
+        "destination_anchor_id": "95b0a8098c7642f45f0e",
+        "destination_payload_sha256": "e38879671e600cb7ce385ba68f49cf13d0482a2fe1c4fbe68ad1059b3e967fef",
+        "destination_payload_words": 273,
+        "parent_only_payload_sha256": "e38879671e600cb7ce385ba68f49cf13d0482a2fe1c4fbe68ad1059b3e967fef",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2022-Q7b",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "c3de306b727c5908a412f4af1b1ad1f78ed6d1a073b3dd8e0b0338a51ec485db",
+      "proposition": "2022 Q7(b) is owned here and has an independently written 15-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 10 — 2022 Q7(b) · 15 marks",
+        "occurrence": 1,
+        "destination_line": 308,
+        "destination_anchor_id": "32706db444aa4e3c3b4b",
+        "destination_payload_sha256": "7b4c4d7a1542ffab5ea4e5c743597e55f87c508da0a75e10f808c3a54868ad21",
+        "destination_payload_words": 366,
+        "parent_only_payload_sha256": "7b4c4d7a1542ffab5ea4e5c743597e55f87c508da0a75e10f808c3a54868ad21",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2022-Q8b",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "7c9e0a91e407b5243df895a851a5204a0636f85e07b918bc3c0f91e354120ce4",
+      "proposition": "2022 Q8(b) is owned here and has an independently written 15-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 11 — 2022 Q8(b) · 15 marks",
+        "occurrence": 1,
+        "destination_line": 342,
+        "destination_anchor_id": "1e8c4da89dca692ff4c8",
+        "destination_payload_sha256": "2767510d4fd87c75937681206041fcd5da5406c1327efab3bab07f42290286e4",
+        "destination_payload_words": 338,
+        "parent_only_payload_sha256": "2767510d4fd87c75937681206041fcd5da5406c1327efab3bab07f42290286e4",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2023-Q6a",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "ede997be97e938e984db59e17534da0ece251820699ef4d75f7ece172792d928",
+      "proposition": "2023 Q6(a) is owned here and has an independently written 20-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 12 — 2023 Q6(a) · 20 marks",
+        "occurrence": 1,
+        "destination_line": 373,
+        "destination_anchor_id": "25aa00d26fe7a0e20e33",
+        "destination_payload_sha256": "46b7cd7ca7a169710dd4b10e42f3511fd30b8a0628860fdf73a318d1ef07643d",
+        "destination_payload_words": 424,
+        "parent_only_payload_sha256": "46b7cd7ca7a169710dd4b10e42f3511fd30b8a0628860fdf73a318d1ef07643d",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2023-Q7b",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "ab783a4c2f959b69673a96b2aa2e5440d95c4600648d388a64dd245f0bbbf903",
+      "proposition": "2023 Q7(b) is owned here and has an independently written 15-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 13 — 2023 Q7(b) · 15 marks",
+        "occurrence": 1,
+        "destination_line": 410,
+        "destination_anchor_id": "e62f957dfad699fb869c",
+        "destination_payload_sha256": "d095022f85af3474efb581e8d15eeaffec4727c450edd7e06646e65e8df89823",
+        "destination_payload_words": 344,
+        "parent_only_payload_sha256": "d095022f85af3474efb581e8d15eeaffec4727c450edd7e06646e65e8df89823",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2024-Q5c",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "65a106d53e2b1ba2c92ae235efdde4d48e3ae6dc0fb13f3370d516b498a066ca",
+      "proposition": "2024 Q5(c) is owned here and has an independently written 10-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 14 — 2024 Q5(c) · 10 marks",
+        "occurrence": 1,
+        "destination_line": 442,
+        "destination_anchor_id": "81a6230387eee77e9704",
+        "destination_payload_sha256": "99d0cad34dca84df1f3220595ae8443875c19139f82383c800385c7c82b46422",
+        "destination_payload_words": 259,
+        "parent_only_payload_sha256": "99d0cad34dca84df1f3220595ae8443875c19139f82383c800385c7c82b46422",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2024-Q6a",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "4784b1bd7eee499b3ad6872c07381d9157069f4b05f9dd33dbabfb53a3183ffa",
+      "proposition": "2024 Q6(a) is owned here and has an independently written 20-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 15 — 2024 Q6(a) · 20 marks",
+        "occurrence": 1,
+        "destination_line": 477,
+        "destination_anchor_id": "a8b95dfb7e0b48147b1b",
+        "destination_payload_sha256": "fff9dde562b572fc40a4458e932f66aa91ef63e904988e4073d2c39ca31f6cea",
+        "destination_payload_words": 461,
+        "parent_only_payload_sha256": "fff9dde562b572fc40a4458e932f66aa91ef63e904988e4073d2c39ca31f6cea",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2025-Q5d",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "923086db8c3282788f0278b2c7595ea7db5775fa4ca5f8a21fbcdd0b5c586b70",
+      "proposition": "2025 Q5(d) is owned here and has an independently written 10-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 16 — 2025 Q5(d) · 10 marks",
+        "occurrence": 1,
+        "destination_line": 511,
+        "destination_anchor_id": "7f3b13c7ab128e1ede69",
+        "destination_payload_sha256": "49284588dea678ff863cd672b895042cc0aeb64534d3d48aea6744487ed91819",
+        "destination_payload_words": 248,
+        "parent_only_payload_sha256": "49284588dea678ff863cd672b895042cc0aeb64534d3d48aea6744487ed91819",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    },
+    {
+      "id": "PYQ-2025-Q7c",
+      "source": "C:\\up\\upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\_PYQ-PhilosophyOfReligion-2018-2025.md",
+      "question_sha256": "a374a02978f1d081aacf81e45565414da51a4264f7ca09ab53a82817bcba9bc0",
+      "proposition": "2025 Q7(c) is owned here and has an independently written 15-mark model in the locked word band.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Verified PYQ 17 — 2025 Q7(c) · 15 marks",
+        "occurrence": 1,
+        "destination_line": 544,
+        "destination_anchor_id": "ea7202af15192b68b5eb",
+        "destination_payload_sha256": "6bbee8202b2ef5524d420ab3451713e0042bc5fbb96c9aa1c423f248331f78be",
+        "destination_payload_words": 373,
+        "parent_only_payload_sha256": "6bbee8202b2ef5524d420ab3451713e0042bc5fbb96c9aa1c423f248331f78be",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "verified_and_solved"
+    }
+  ],
+  "practice_obligations": [
+    {
+      "id": "MCQ-01",
+      "kind": "mcq",
+      "proposition": "On the six survival-terms, which statement is correct?",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 1",
+        "occurrence": 1,
+        "destination_line": 6,
+        "destination_anchor_id": "e0eba73ad1adf43fa3fd",
+        "destination_payload_sha256": "51eacd639070f09a3af33636e37cd7f2b1db0f8fa0e27bd928eeb5bfa2667855",
+        "destination_payload_words": 253,
+        "parent_only_payload_sha256": "51eacd639070f09a3af33636e37cd7f2b1db0f8fa0e27bd928eeb5bfa2667855",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-02",
+      "kind": "mcq",
+      "proposition": "Which relation between substantial-soul immortality and rebirth is philosophically defensible?",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 2",
+        "occurrence": 1,
+        "destination_line": 28,
+        "destination_anchor_id": "2ef50278265f84784118",
+        "destination_payload_sha256": "8f51c1d6376052ce016aa0794c15e7af8ad8a9f8bbeff711818bf8575d4ebaff",
+        "destination_payload_words": 212,
+        "parent_only_payload_sha256": "8f51c1d6376052ce016aa0794c15e7af8ad8a9f8bbeff711818bf8575d4ebaff",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-03",
+      "kind": "mcq",
+      "proposition": "The decisive counter-example to 'rebirth requires an immortal soul' is:",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 3",
+        "occurrence": 1,
+        "destination_line": 50,
+        "destination_anchor_id": "78eb2d47b1b90a94428f",
+        "destination_payload_sha256": "d01ea37e4c503c9f1f8ace00632a84ce03e471ade67ed4d2e584feac5a3c3fc3",
+        "destination_payload_words": 134,
+        "parent_only_payload_sha256": "d01ea37e4c503c9f1f8ace00632a84ce03e471ade67ed4d2e584feac5a3c3fc3",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-04",
+      "kind": "mcq",
+      "proposition": "Calling 'liberation' a family-resemblance term means:",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 4",
+        "occurrence": 1,
+        "destination_line": 72,
+        "destination_anchor_id": "2d8ab21c7ccf0c7bc311",
+        "destination_payload_sha256": "bbc75eb539d1aeb58e074df176ab41f8b47fb6f8defe3f35ef7afbf89f426313",
+        "destination_payload_words": 207,
+        "parent_only_payload_sha256": "bbc75eb539d1aeb58e074df176ab41f8b47fb6f8defe3f35ef7afbf89f426313",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-05",
+      "kind": "mcq",
+      "proposition": "Plato's recollection (anamnesis) argument most directly establishes:",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 5",
+        "occurrence": 1,
+        "destination_line": 94,
+        "destination_anchor_id": "47b0e4ec49051cb638d5",
+        "destination_payload_sha256": "ef4238fb38ec0e37a78f32da14be95f2ca318db7254b12b08e4b5719c514c610",
+        "destination_payload_words": 196,
+        "parent_only_payload_sha256": "ef4238fb38ec0e37a78f32da14be95f2ca318db7254b12b08e4b5719c514c610",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-06",
+      "kind": "mcq",
+      "proposition": "Which is Plato's culminating ('final') argument in the Phaedo?",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 6",
+        "occurrence": 1,
+        "destination_line": 116,
+        "destination_anchor_id": "235c4bb030f0bc6c6857",
+        "destination_payload_sha256": "9cdb8097b6e92c477c9e9477208e65f11185f91781cf0ea29ac6911642944bca",
+        "destination_payload_words": 226,
+        "parent_only_payload_sha256": "9cdb8097b6e92c477c9e9477208e65f11185f91781cf0ea29ac6911642944bca",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-07",
+      "kind": "mcq",
+      "proposition": "Simmias objects to Plato that the soul is:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 7",
+        "occurrence": 1,
+        "destination_line": 138,
+        "destination_anchor_id": "c30f540fe687ec5b3f0b",
+        "destination_payload_sha256": "d868dea8fd840f19669eaab8fee2cb0fe386b69867469f1d5e581ae20cae6138",
+        "destination_payload_words": 209,
+        "parent_only_payload_sha256": "d868dea8fd840f19669eaab8fee2cb0fe386b69867469f1d5e581ae20cae6138",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-08",
+      "kind": "mcq",
+      "proposition": "Kant's paralogism, applied to immortality, shows that:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 8",
+        "occurrence": 1,
+        "destination_line": 160,
+        "destination_anchor_id": "7448288147b068a8158c",
+        "destination_payload_sha256": "b0d2d02b456236e2f364a6c2bade6300de5303deb2122d31a3fef8ca03abba0c",
+        "destination_payload_words": 225,
+        "parent_only_payload_sha256": "b0d2d02b456236e2f364a6c2bade6300de5303deb2122d31a3fef8ca03abba0c",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-09",
+      "kind": "mcq",
+      "proposition": "The three kinds of karma are:",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 9",
+        "occurrence": 1,
+        "destination_line": 182,
+        "destination_anchor_id": "3a0af56909631ca353d3",
+        "destination_payload_sha256": "ee01af49841a264e09297fefd15aa729e7735d2b417405707d924b11feefedde",
+        "destination_payload_words": 162,
+        "parent_only_payload_sha256": "ee01af49841a264e09297fefd15aa729e7735d2b417405707d924b11feefedde",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-10",
+      "kind": "mcq",
+      "proposition": "Rebirth is significant in karma theory chiefly because it:",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 10",
+        "occurrence": 1,
+        "destination_line": 204,
+        "destination_anchor_id": "3b7f6851822521db4300",
+        "destination_payload_sha256": "243c94880fde19d1f951c9488443f90ec924067e78f5362da7a7b2f64c20cf76",
+        "destination_payload_words": 208,
+        "parent_only_payload_sha256": "243c94880fde19d1f951c9488443f90ec924067e78f5362da7a7b2f64c20cf76",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-11",
+      "kind": "mcq",
+      "proposition": "The claim that karma is NOT fatalism rests on:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 11",
+        "occurrence": 1,
+        "destination_line": 226,
+        "destination_anchor_id": "3ac3ea2a34aaaeb0ad1a",
+        "destination_payload_sha256": "35103d007e10239d6712693eb7e9ba1a381ae2e045e1c0507616770d75e4dd78",
+        "destination_payload_words": 209,
+        "parent_only_payload_sha256": "35103d007e10239d6712693eb7e9ba1a381ae2e045e1c0507616770d75e4dd78",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-12",
+      "kind": "mcq",
+      "proposition": "Gita 9.21 (return from heaven once merit is exhausted) shows that:",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 12",
+        "occurrence": 1,
+        "destination_line": 248,
+        "destination_anchor_id": "f7a08d4fa5397a75a2f8",
+        "destination_payload_sha256": "ab5562d55cca5ffce9be940e728cfa5616289097b8d2a669261b41c8e19e992f",
+        "destination_payload_words": 205,
+        "parent_only_payload_sha256": "ab5562d55cca5ffce9be940e728cfa5616289097b8d2a669261b41c8e19e992f",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-13",
+      "kind": "mcq",
+      "proposition": "In Buddhism, what is 'reborn' is best described as:",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 13",
+        "occurrence": 1,
+        "destination_line": 270,
+        "destination_anchor_id": "5e17a551759b4856814c",
+        "destination_payload_sha256": "3e63958c2cae71f86a69ce49813775b778b371b5b9ffe30334bef93c5caa3f8e",
+        "destination_payload_words": 187,
+        "parent_only_payload_sha256": "3e63958c2cae71f86a69ce49813775b778b371b5b9ffe30334bef93c5caa3f8e",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-14",
+      "kind": "mcq",
+      "proposition": "'Neither the same nor wholly other' answers the objection that:",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 14",
+        "occurrence": 1,
+        "destination_line": 292,
+        "destination_anchor_id": "1bdff26b6ed71cfc56aa",
+        "destination_payload_sha256": "eacfcaea18d0851ebfa9c7c04bc3eb345fbeb40a97845d137cf4ccb9e292fdcf",
+        "destination_payload_words": 203,
+        "parent_only_payload_sha256": "eacfcaea18d0851ebfa9c7c04bc3eb345fbeb40a97845d137cf4ccb9e292fdcf",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-15",
+      "kind": "mcq",
+      "proposition": "The flame-to-flame illustration is properly used as:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 15",
+        "occurrence": 1,
+        "destination_line": 314,
+        "destination_anchor_id": "e5bee7c10211b2f8a5d6",
+        "destination_payload_sha256": "080917037d9c7abf96dd8c62acce814802fee6dd5ce85649d1e34de2452795b1",
+        "destination_payload_words": 177,
+        "parent_only_payload_sha256": "080917037d9c7abf96dd8c62acce814802fee6dd5ce85649d1e34de2452795b1",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-16",
+      "kind": "mcq",
+      "proposition": "The philosophical significance of the anti-theistic stand on rebirth is that rebirth is shown to be:",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 16",
+        "occurrence": 1,
+        "destination_line": 336,
+        "destination_anchor_id": "3bd17306f20b87e6bdb2",
+        "destination_payload_sha256": "94f434e3bdb7a813c37185154ac2c9875673fbed123a69c1493b6c3380572cf2",
+        "destination_payload_words": 204,
+        "parent_only_payload_sha256": "94f434e3bdb7a813c37185154ac2c9875673fbed123a69c1493b6c3380572cf2",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-17",
+      "kind": "mcq",
+      "proposition": "In Nyaya apavarga, consciousness in the liberated state is:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 17",
+        "occurrence": 1,
+        "destination_line": 358,
+        "destination_anchor_id": "cbe26776c1a27c2ced46",
+        "destination_payload_sha256": "2e364e3dac74eed4b210a885a806482d2812867561e6b7d94b222eb520176ed9",
+        "destination_payload_words": 177,
+        "parent_only_payload_sha256": "2e364e3dac74eed4b210a885a806482d2812867561e6b7d94b222eb520176ed9",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-18",
+      "kind": "mcq",
+      "proposition": "Which pair correctly matches liberation-term to school?",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 18",
+        "occurrence": 1,
+        "destination_line": 380,
+        "destination_anchor_id": "a7770177a9c0210d0070",
+        "destination_payload_sha256": "68936cdd4d3c00d0db8b3e0b86d6c9bf3c31b51a3be2b766e91a7d3d4fed741f",
+        "destination_payload_words": 190,
+        "parent_only_payload_sha256": "68936cdd4d3c00d0db8b3e0b86d6c9bf3c31b51a3be2b766e91a7d3d4fed741f",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-19",
+      "kind": "mcq",
+      "proposition": "Jivanmukti differs from videhamukti in that jivanmukti is:",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 19",
+        "occurrence": 1,
+        "destination_line": 402,
+        "destination_anchor_id": "a0143d866dcf7e63f978",
+        "destination_payload_sha256": "5f9ad622639e48df178ce3cea2aeb1b8eec7205c7474d48951a48e62527a9cb3",
+        "destination_payload_words": 166,
+        "parent_only_payload_sha256": "5f9ad622639e48df178ce3cea2aeb1b8eec7205c7474d48951a48e62527a9cb3",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-20",
+      "kind": "mcq",
+      "proposition": "Griffiths' formula that Advaitic moksa is 'not acquired but acknowledged' means:",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 20",
+        "occurrence": 1,
+        "destination_line": 424,
+        "destination_anchor_id": "9777e9a9d5333982d610",
+        "destination_payload_sha256": "9b5ee3550a33a96a47c78e9cdb628a4a4e0dfce04d734d0a701d31491148271f",
+        "destination_payload_words": 186,
+        "parent_only_payload_sha256": "9b5ee3550a33a96a47c78e9cdb628a4a4e0dfce04d734d0a701d31491148271f",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-21",
+      "kind": "mcq",
+      "proposition": "For Visistadvaita, in liberation the jiva:",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 21",
+        "occurrence": 1,
+        "destination_line": 446,
+        "destination_anchor_id": "56e17b1967bca1bcbeea",
+        "destination_payload_sha256": "61269298b2237b972dd65806e96e83e6eb0a440d45351024c0c49d78d88f0483",
+        "destination_payload_words": 205,
+        "parent_only_payload_sha256": "61269298b2237b972dd65806e96e83e6eb0a440d45351024c0c49d78d88f0483",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-22",
+      "kind": "mcq",
+      "proposition": "The 'real agent' problem is a difficulty primarily for:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 22",
+        "occurrence": 1,
+        "destination_line": 468,
+        "destination_anchor_id": "4144b96ca6ddc6ffa3b6",
+        "destination_payload_sha256": "7fdcb256e179df9c3ce95e4a96f6b07f2501119568315b6c5e47b9f4bdfd388c",
+        "destination_payload_words": 180,
+        "parent_only_payload_sha256": "7fdcb256e179df9c3ce95e4a96f6b07f2501119568315b6c5e47b9f4bdfd388c",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-23",
+      "kind": "mcq",
+      "proposition": "In Advaita, bondage is fundamentally:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 23",
+        "occurrence": 1,
+        "destination_line": 490,
+        "destination_anchor_id": "b991e3c240d2151a18d5",
+        "destination_payload_sha256": "39da41a6324548550d11ac19e451094c374de3165594d2b0387e4d97c4a95d53",
+        "destination_payload_words": 162,
+        "parent_only_payload_sha256": "39da41a6324548550d11ac19e451094c374de3165594d2b0387e4d97c4a95d53",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-24",
+      "kind": "mcq",
+      "proposition": "For Sankara, the direct means to liberation is:",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 24",
+        "occurrence": 1,
+        "destination_line": 512,
+        "destination_anchor_id": "8f9b1feff041459d51a9",
+        "destination_payload_sha256": "92895167d8e16f27f7794d838af2c0755e48e403851098e85845e2b2cb32fcc8",
+        "destination_payload_words": 205,
+        "parent_only_payload_sha256": "92895167d8e16f27f7794d838af2c0755e48e403851098e85845e2b2cb32fcc8",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-25",
+      "kind": "mcq",
+      "proposition": "In Jainism, the influx of karmic matter into the soul is called:",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 25",
+        "occurrence": 1,
+        "destination_line": 534,
+        "destination_anchor_id": "57032194bc9ac0500432",
+        "destination_payload_sha256": "26116eda6f699115c534e7e8e8a88ddd91f3ef851eade3035f821f9c38b0efc8",
+        "destination_payload_words": 151,
+        "parent_only_payload_sha256": "26116eda6f699115c534e7e8e8a88ddd91f3ef851eade3035f821f9c38b0efc8",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-26",
+      "kind": "mcq",
+      "proposition": "The stoppage of fresh karmic influx is:",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 26",
+        "occurrence": 1,
+        "destination_line": 556,
+        "destination_anchor_id": "631443c56a93906c5e73",
+        "destination_payload_sha256": "4f9907beb21246173ef1451ed156001d44a36770bc98f7a703a19348e6021de5",
+        "destination_payload_words": 131,
+        "parent_only_payload_sha256": "4f9907beb21246173ef1451ed156001d44a36770bc98f7a703a19348e6021de5",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-27",
+      "kind": "mcq",
+      "proposition": "Jain liberation is best described as:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 27",
+        "occurrence": 1,
+        "destination_line": 578,
+        "destination_anchor_id": "6ab129d25c3b540cd117",
+        "destination_payload_sha256": "b7cb18ff0cf32844dd9180a0fe9be18822fd38c227b6f784a26b1911795e46bf",
+        "destination_payload_words": 175,
+        "parent_only_payload_sha256": "b7cb18ff0cf32844dd9180a0fe9be18822fd38c227b6f784a26b1911795e46bf",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-28",
+      "kind": "mcq",
+      "proposition": "Jain kevala differs from Samkhya kaivalya because Jain kevala means:",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 28",
+        "occurrence": 1,
+        "destination_line": 600,
+        "destination_anchor_id": "029b2d130b583ad63460",
+        "destination_payload_sha256": "0d1312a5f895c873b47ef384a0388826ebb7db09f8bb787c0f2c870ee2dc8247",
+        "destination_payload_words": 169,
+        "parent_only_payload_sha256": "0d1312a5f895c873b47ef384a0388826ebb7db09f8bb787c0f2c870ee2dc8247",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-29",
+      "kind": "mcq",
+      "proposition": "Samkhya-karika 62-63 states that, strictly, what is bound and released is:",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 29",
+        "occurrence": 1,
+        "destination_line": 622,
+        "destination_anchor_id": "71a7dbeea966922e7d33",
+        "destination_payload_sha256": "4353767b5e2b5470070bb1ecf59189d469a4f90805249f80cfcc2dbda8d14b97",
+        "destination_payload_words": 192,
+        "parent_only_payload_sha256": "4353767b5e2b5470070bb1ecf59189d469a4f90805249f80cfcc2dbda8d14b97",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-30",
+      "kind": "mcq",
+      "proposition": "The potter's-wheel image (SK 67) illustrates:",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 30",
+        "occurrence": 1,
+        "destination_line": 644,
+        "destination_anchor_id": "b2516e8dde1a8ccd8c75",
+        "destination_payload_sha256": "fd8e3d5e4894bfe039ae6bd60aeed0425cce358278d7fb76b218b7bee0831f1c",
+        "destination_payload_words": 217,
+        "parent_only_payload_sha256": "fd8e3d5e4894bfe039ae6bd60aeed0425cce358278d7fb76b218b7bee0831f1c",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-31",
+      "kind": "mcq",
+      "proposition": "Yoga-sutra 1.24 characterises Isvara as:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 31",
+        "occurrence": 1,
+        "destination_line": 666,
+        "destination_anchor_id": "c8a8512772695855032c",
+        "destination_payload_sha256": "c53f3168f33df2a65b98f7d0a2504f8447b9d029eac1c98a100a384df516f239",
+        "destination_payload_words": 163,
+        "parent_only_payload_sha256": "c53f3168f33df2a65b98f7d0a2504f8447b9d029eac1c98a100a384df516f239",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-32",
+      "kind": "mcq",
+      "proposition": "Samkhya-Yoga kaivalya is best described as:",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 32",
+        "occurrence": 1,
+        "destination_line": 688,
+        "destination_anchor_id": "f8181fef97f8836914b4",
+        "destination_payload_sha256": "6e19de6891a93255467dbcbf4f3461534c1e282da1f7fb48cc9570b082a59402",
+        "destination_payload_words": 192,
+        "parent_only_payload_sha256": "6e19de6891a93255467dbcbf4f3461534c1e282da1f7fb48cc9570b082a59402",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-33",
+      "kind": "mcq",
+      "proposition": "The nine limbs of devotion (navadha bhakti) are enumerated in:",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 33",
+        "occurrence": 1,
+        "destination_line": 710,
+        "destination_anchor_id": "47851811ea917c13b3ad",
+        "destination_payload_sha256": "b13b0e948524287319704afbc60cae0d7c56ab0d2a0b47fecb665e6181267f85",
+        "destination_payload_words": 202,
+        "parent_only_payload_sha256": "b13b0e948524287319704afbc60cae0d7c56ab0d2a0b47fecb665e6181267f85",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-34",
+      "kind": "mcq",
+      "proposition": "Sankara rejects jnana-karma-samuccaya because he holds that liberation is:",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 34",
+        "occurrence": 1,
+        "destination_line": 732,
+        "destination_anchor_id": "2af25ba2672ca7bc7eac",
+        "destination_payload_sha256": "dedb008864363200930ee82ba3dc78599ab21a70326ad4389398a0567d78efa1",
+        "destination_payload_words": 189,
+        "parent_only_payload_sha256": "dedb008864363200930ee82ba3dc78599ab21a70326ad4389398a0567d78efa1",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-35",
+      "kind": "mcq",
+      "proposition": "The marjara-nyaya versus markata-nyaya dispute concerns:",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 35",
+        "occurrence": 1,
+        "destination_line": 754,
+        "destination_anchor_id": "ccb720ae61e1df785c18",
+        "destination_payload_sha256": "eaf43d0c16498923b1caa4cb9455d889a3d787355a8a6da2eb0c8f1627e68472",
+        "destination_payload_words": 215,
+        "parent_only_payload_sha256": "eaf43d0c16498923b1caa4cb9455d889a3d787355a8a6da2eb0c8f1627e68472",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-36",
+      "kind": "mcq",
+      "proposition": "The Vivekacudamani definition of bhakti should be attributed to:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 36",
+        "occurrence": 1,
+        "destination_line": 776,
+        "destination_anchor_id": "e578d0df23c1055ba262",
+        "destination_payload_sha256": "4cb8759861afd65ab9ce01489c57429db216363e718762c514fb977ffcf10e7b",
+        "destination_payload_words": 178,
+        "parent_only_payload_sha256": "4cb8759861afd65ab9ce01489c57429db216363e718762c514fb977ffcf10e7b",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-37",
+      "kind": "mcq",
+      "proposition": "Oscar Cullmann (1955) argues that immortality of the soul and resurrection of the dead are:",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 37",
+        "occurrence": 1,
+        "destination_line": 798,
+        "destination_anchor_id": "83599a49fa99b7b5a049",
+        "destination_payload_sha256": "e98dba86eb2d13188f54b5f72631c6ad362cf62b6b6de77dee4b7570d48e6084",
+        "destination_payload_words": 173,
+        "parent_only_payload_sha256": "e98dba86eb2d13188f54b5f72631c6ad362cf62b6b6de77dee4b7570d48e6084",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-38",
+      "kind": "mcq",
+      "proposition": "'Reincarnation', in careful usage, differs from 'rebirth' because reincarnation:",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 38",
+        "occurrence": 1,
+        "destination_line": 820,
+        "destination_anchor_id": "bae48c2c3b331e89b30d",
+        "destination_payload_sha256": "17d2e7ce9674f518b8605f2d688185ff908318e84a7da64a0d1f071241f16484",
+        "destination_payload_words": 191,
+        "parent_only_payload_sha256": "17d2e7ce9674f518b8605f2d688185ff908318e84a7da64a0d1f071241f16484",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-39",
+      "kind": "mcq",
+      "proposition": "Hick's replica theory is best presented as:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 39",
+        "occurrence": 1,
+        "destination_line": 842,
+        "destination_anchor_id": "5915d025b88397b1794a",
+        "destination_payload_sha256": "306ba3d8a82c8cfd871633bb3a6b79cf90a9e3e7cc60c5387c86334ed877f5ac",
+        "destination_payload_words": 215,
+        "parent_only_payload_sha256": "306ba3d8a82c8cfd871633bb3a6b79cf90a9e3e7cc60c5387c86334ed877f5ac",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-40",
+      "kind": "mcq",
+      "proposition": "Which reply to the resurrection re-assembly problem is correctly paired?",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 40",
+        "occurrence": 1,
+        "destination_line": 864,
+        "destination_anchor_id": "a0674cfa284408e3e9d5",
+        "destination_payload_sha256": "e55767b59f76f612928db82554367f6084eec66b7b8772f8dd939a70f0d42fc0",
+        "destination_payload_words": 212,
+        "parent_only_payload_sha256": "e55767b59f76f612928db82554367f6084eec66b7b8772f8dd939a70f0d42fc0",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-41",
+      "kind": "mcq",
+      "proposition": "A common error is to say Buddhism denies continuity. Correctly, Buddhism denies:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 41",
+        "occurrence": 1,
+        "destination_line": 886,
+        "destination_anchor_id": "98e2bc37849a7a4260b9",
+        "destination_payload_sha256": "ff8e7e3b6fc328150749af5c9788193a5b169b506eff67ea192ab63072b422d0",
+        "destination_payload_words": 193,
+        "parent_only_payload_sha256": "ff8e7e3b6fc328150749af5c9788193a5b169b506eff67ea192ab63072b422d0",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-42",
+      "kind": "mcq",
+      "proposition": "A frequent trap calls Nyaya apavarga 'positive bliss'. Correctly, apavarga is:",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 42",
+        "occurrence": 1,
+        "destination_line": 908,
+        "destination_anchor_id": "175c4a48f6a6c3f524ae",
+        "destination_payload_sha256": "a3f272fb9ba27b16cc6fe7f9ae76a6c53b5ffe7358f0ab176d0804c6154f67d5",
+        "destination_payload_words": 175,
+        "parent_only_payload_sha256": "a3f272fb9ba27b16cc6fe7f9ae76a6c53b5ffe7358f0ab176d0804c6154f67d5",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-43",
+      "kind": "mcq",
+      "proposition": "Students merge kaivalya and kevala. In Samkhya kaivalya is ___; in Jainism kevala is ___:",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 43",
+        "occurrence": 1,
+        "destination_line": 930,
+        "destination_anchor_id": "eef263f6339a1f3ea999",
+        "destination_payload_sha256": "4641d90599ddb823b4220232bd3c8ec5036ccd3e33be8ce3a3909fabba415660",
+        "destination_payload_words": 147,
+        "parent_only_payload_sha256": "4641d90599ddb823b4220232bd3c8ec5036ccd3e33be8ce3a3909fabba415660",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-44",
+      "kind": "mcq",
+      "proposition": "It is wrong to say 'Advaita rejects bhakti'. Advaita treats bhakti as:",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 44",
+        "occurrence": 1,
+        "destination_line": 952,
+        "destination_anchor_id": "f9c392f0bc5f5a59be56",
+        "destination_payload_sha256": "5fec05386e85a5086a553eb04ef0e67db3a53344aca8d04ef57980caab8968be",
+        "destination_payload_words": 228,
+        "parent_only_payload_sha256": "5fec05386e85a5086a553eb04ef0e67db3a53344aca8d04ef57980caab8968be",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-45",
+      "kind": "mcq",
+      "proposition": "Which option presents a non-theistic liberation model that does not retain an enduring self?",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 45",
+        "occurrence": 1,
+        "destination_line": 974,
+        "destination_anchor_id": "2a5f86e18ca84b71aa81",
+        "destination_payload_sha256": "883a8b91e321fc41e6bccae0b4dcb359515af9d6953ff21c01e6da4b64db66ae",
+        "destination_payload_words": 192,
+        "parent_only_payload_sha256": "883a8b91e321fc41e6bccae0b4dcb359515af9d6953ff21c01e6da4b64db66ae",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-46",
+      "kind": "mcq",
+      "proposition": "Presenting resurrection as 'rebirth in heaven' is wrong because resurrection is:",
+      "answer": "A",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 46",
+        "occurrence": 1,
+        "destination_line": 996,
+        "destination_anchor_id": "c3b932ac2a9621a53f1b",
+        "destination_payload_sha256": "dd438b880643aa14587d2aae3b05125e412c03154f79005f0c606bd23f014c91",
+        "destination_payload_words": 199,
+        "parent_only_payload_sha256": "dd438b880643aa14587d2aae3b05125e412c03154f79005f0c606bd23f014c91",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-47",
+      "kind": "mcq",
+      "proposition": "The 'convergence' reading of jnana/karma/bhakti is best defended by saying they converge in ___ and diverge in ___:",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 47",
+        "occurrence": 1,
+        "destination_line": 1018,
+        "destination_anchor_id": "deac9641837bccc29089",
+        "destination_payload_sha256": "ccd6e60273c2ceed8e9ae8033c0a9d7a03cf602427fe4965fd9d5ce0334f5835",
+        "destination_payload_words": 174,
+        "parent_only_payload_sha256": "ccd6e60273c2ceed8e9ae8033c0a9d7a03cf602427fe4965fd9d5ce0334f5835",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-48",
+      "kind": "mcq",
+      "proposition": "Calling Yoga's Isvara a 'creator' is a trap; YS 1.24 makes Isvara:",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 48",
+        "occurrence": 1,
+        "destination_line": 1040,
+        "destination_anchor_id": "561afbb6cc1a311458ac",
+        "destination_payload_sha256": "c4f56f799dd321ed4e8ca06f4ea866b9b7572f1932eb3bd96c720362e310c319",
+        "destination_payload_words": 189,
+        "parent_only_payload_sha256": "c4f56f799dd321ed4e8ca06f4ea866b9b7572f1932eb3bd96c720362e310c319",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-49",
+      "kind": "mcq",
+      "proposition": "Which claim correctly distinguishes numerical from qualitative identity in a survival argument?",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 49",
+        "occurrence": 1,
+        "destination_line": 1062,
+        "destination_anchor_id": "e5d18feb23bf579ddd2b",
+        "destination_payload_sha256": "156d700a35eb236f25576d169b7d8f34242f73bec9a6c5fff6be2deafff28a20",
+        "destination_payload_words": 255,
+        "parent_only_payload_sha256": "156d700a35eb236f25576d169b7d8f34242f73bec9a6c5fff6be2deafff28a20",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-50",
+      "kind": "mcq",
+      "proposition": "Why is branching a problem for a simple psychological-continuity theory of personal identity?",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 50",
+        "occurrence": 1,
+        "destination_line": 1084,
+        "destination_anchor_id": "57ab153ce1e9869f83ab",
+        "destination_payload_sha256": "7e4847e24195aca4ae50edd67cb9b6d696d8cfbc28de397acdebb65a99f2f5ba",
+        "destination_payload_words": 256,
+        "parent_only_payload_sha256": "7e4847e24195aca4ae50edd67cb9b6d696d8cfbc28de397acdebb65a99f2f5ba",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-51",
+      "kind": "mcq",
+      "proposition": "What is the central identification-condition pressure on the soul-substance criterion?",
+      "answer": "C",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 51",
+        "occurrence": 1,
+        "destination_line": 1106,
+        "destination_anchor_id": "da229ef0fceeee346765",
+        "destination_payload_sha256": "7d0c9161ce60194aee48deebff748593cd902e8499cac7ab31e3363345ee3441",
+        "destination_payload_words": 267,
+        "parent_only_payload_sha256": "7d0c9161ce60194aee48deebff748593cd902e8499cac7ab31e3363345ee3441",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-52",
+      "kind": "mcq",
+      "proposition": "In the bounded Strawsonian comparison, why do persons have public identification conditions?",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 52",
+        "occurrence": 1,
+        "destination_line": 1128,
+        "destination_anchor_id": "c7d02f20744532bb8df8",
+        "destination_payload_sha256": "b65fff21b0b4bded8df21cda5697aae2f111864159a38d1fa1055b2e6d14625b",
+        "destination_payload_words": 268,
+        "parent_only_payload_sha256": "b65fff21b0b4bded8df21cda5697aae2f111864159a38d1fa1055b2e6d14625b",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-53",
+      "kind": "mcq",
+      "proposition": "What follows from Strawson's identification-condition objection when it is used in this Paper II topic?",
+      "answer": "B",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 53",
+        "occurrence": 1,
+        "destination_line": 1150,
+        "destination_anchor_id": "84a8b7fd3cacaa1f2c89",
+        "destination_payload_sha256": "86aefa03a63d893752b36099cdd4a16a072171753cdc785adece8bbd4f55c64d",
+        "destination_payload_words": 259,
+        "parent_only_payload_sha256": "86aefa03a63d893752b36099cdd4a16a072171753cdc785adece8bbd4f55c64d",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "MCQ-54",
+      "kind": "mcq",
+      "proposition": "Which statement best connects Buddhist rebirth with the diachronic identity debate?",
+      "answer": "D",
+      "destination": {
+        "file": "MCQ-SOLUTIONS.md",
+        "anchor_kind": "heading",
+        "anchor": "MCQ 54",
+        "occurrence": 1,
+        "destination_line": 1172,
+        "destination_anchor_id": "e6c99bf3c3ba64cb36d0",
+        "destination_payload_sha256": "112ed4738cd98db62e0553d411229adfd982fcaeddd2f55a6feecb389c1d12bb",
+        "destination_payload_words": 211,
+        "parent_only_payload_sha256": "112ed4738cd98db62e0553d411229adfd982fcaeddd2f55a6feecb389c1d12bb",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_explained"
+    },
+    {
+      "id": "ORIGINAL-01",
+      "kind": "original_mains",
+      "proposition": "Distinguish rebirth from reincarnation, and explain why the distinction is decisive for Buddhism.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Original 1 · 10 marks",
+        "occurrence": 1,
+        "destination_line": 580,
+        "destination_anchor_id": "63efe876535f6e5add32",
+        "destination_payload_sha256": "42a92cb19afcac9fcad30aaa9e11b8f40c693c057230711c4b7053c57a7dd4e1",
+        "destination_payload_words": 218,
+        "parent_only_payload_sha256": "42a92cb19afcac9fcad30aaa9e11b8f40c693c057230711c4b7053c57a7dd4e1",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_solved"
+    },
+    {
+      "id": "ORIGINAL-02",
+      "kind": "original_mains",
+      "proposition": "Examine whether 'liberation' can be treated as a single concept across the Indian schools.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Original 2 · 15 marks",
+        "occurrence": 1,
+        "destination_line": 609,
+        "destination_anchor_id": "b0dd571dfc52fabdabd3",
+        "destination_payload_sha256": "8e15c47a66bab0948632f20b08047dcba24480cd6174b6fff881ae05ae898763",
+        "destination_payload_words": 325,
+        "parent_only_payload_sha256": "8e15c47a66bab0948632f20b08047dcba24480cd6174b6fff881ae05ae898763",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_solved"
+    },
+    {
+      "id": "ORIGINAL-03",
+      "kind": "original_mains",
+      "proposition": "Compare the Western resurrection tradition and the Indian rebirth tradition on the problem of personal identity across death.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Original 3 · 20 marks",
+        "occurrence": 1,
+        "destination_line": 641,
+        "destination_anchor_id": "c75d71e45b3bf1b290dc",
+        "destination_payload_sha256": "8529db1f770dc6ec1c39ddd8538479186610fe48b51fd30f500e65c643550aa8",
+        "destination_payload_words": 451,
+        "parent_only_payload_sha256": "8529db1f770dc6ec1c39ddd8538479186610fe48b51fd30f500e65c643550aa8",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_solved"
+    },
+    {
+      "id": "ORIGINAL-04",
+      "kind": "original_mains",
+      "proposition": "Why must a theory of post-mortem survival distinguish numerical identity from qualitative similarity?",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Original 4 · 10 marks",
+        "occurrence": 1,
+        "destination_line": 692,
+        "destination_anchor_id": "6e39a67532a9092b434c",
+        "destination_payload_sha256": "80703e592ddd63b60973b0b923d5cc0a59d89f2aba1793255b0c51ff6fa6f195",
+        "destination_payload_words": 233,
+        "parent_only_payload_sha256": "80703e592ddd63b60973b0b923d5cc0a59d89f2aba1793255b0c51ff6fa6f195",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_solved"
+    },
+    {
+      "id": "ORIGINAL-05",
+      "kind": "original_mains",
+      "proposition": "Use Strawson's identification conditions to assess the claim that an immaterial soul guarantees personal immortality.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Original 5 · 15 marks",
+        "occurrence": 1,
+        "destination_line": 714,
+        "destination_anchor_id": "0106c8ed4fd894e1549c",
+        "destination_payload_sha256": "32844d8573a9e62fae6c7e474cf19bc0cc64e7cdc41b62d10367503cd41fbc0f",
+        "destination_payload_words": 329,
+        "parent_only_payload_sha256": "32844d8573a9e62fae6c7e474cf19bc0cc64e7cdc41b62d10367503cd41fbc0f",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_solved"
+    },
+    {
+      "id": "ORIGINAL-06",
+      "kind": "original_mains",
+      "proposition": "Critically compare bodily, psychological, soul-substance and causal-continuity accounts of survival across death.",
+      "destination": {
+        "file": "ANSWER-WRITING-TOOLKIT.md",
+        "anchor_kind": "heading",
+        "anchor": "Original 6 · 20 marks",
+        "occurrence": 1,
+        "destination_line": 738,
+        "destination_anchor_id": "8ee9028e94f3c05c0c1b",
+        "destination_payload_sha256": "7dc165d8de27f3c029489754f09dacd81fb1e3993a85226b9affbe2cbf6d69b9",
+        "destination_payload_words": 406,
+        "parent_only_payload_sha256": "7dc165d8de27f3c029489754f09dacd81fb1e3993a85226b9affbe2cbf6d69b9",
+        "child_anchor_ids": [],
+        "child_union_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "mapping_method": "authored_canonical_heading_mapping"
+      },
+      "status": "implemented_and_solved"
+    }
+  ],
+  "counts": {
+    "canonical_rows": 41,
+    "supplementary_reference_rows": 0,
+    "inbound_routes": 1,
+    "verified_pyqs": 17,
+    "mcqs": 54,
+    "original_mains": 6
+  },
+  "limitations": [
+    "canonical_without_formal_session is the only authority mode used.",
+    "Reference learning-session and workbook files are supplementary provenance, not mandatory coverage rows.",
+    "Hashes prove artifact identity and bounded mapping, not philosophical truth or examiner outcomes."
+  ]
+}
