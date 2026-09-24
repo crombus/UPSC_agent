@@ -29,7 +29,7 @@
 | Western-Philosophy | Moore, Russell & Early Wittgenstein | 12 | 32,972 | `6b6e7093f7d5` | [Western-Philosophy/06-Moore-Russell-Early-Wittgenstein/Learning-Session-Live-Edition.md](Western-Philosophy/06-Moore-Russell-Early-Wittgenstein/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Logical Positivism | 12 | 16,292 | `e7e237e00058` | [Western-Philosophy/07-Logical-Positivism/Learning-Session-Live-Edition.md](Western-Philosophy/07-Logical-Positivism/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Later Wittgenstein | 12 | 27,996 | `d18e649567f1` | [Western-Philosophy/08-Later-Wittgenstein/Learning-Session-Live-Edition.md](Western-Philosophy/08-Later-Wittgenstein/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Phenomenology (Husserl) | 12 | 40,236 | `802de227edfa` | [Western-Philosophy/09-Phenomenology-Husserl/Learning-Session-Live-Edition.md](Western-Philosophy/09-Phenomenology-Husserl/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Phenomenology (Husserl) | 12 | 33,640 | `d79f69fa0c33` | [Western-Philosophy/09-Phenomenology-Husserl/Learning-Session-Live-Edition.md](Western-Philosophy/09-Phenomenology-Husserl/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Existentialism (Kierkegaard, Sartre, Heidegger) | 14 | 36,380 | `e03fbd94ae09` | [Western-Philosophy/10-Existentialism/Learning-Session-Live-Edition.md](Western-Philosophy/10-Existentialism/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Quine and Strawson | 12 | 35,020 | `142fc2dd14af` | [Western-Philosophy/11-Quine-Strawson/Learning-Session-Live-Edition.md](Western-Philosophy/11-Quine-Strawson/Learning-Session-Live-Edition.md) |
 
