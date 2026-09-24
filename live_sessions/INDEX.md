@@ -31,7 +31,7 @@
 | Western-Philosophy | Later Wittgenstein | 12 | 36,058 | `ee418618e59b` | [Western-Philosophy/08-Later-Wittgenstein/Learning-Session-Live-Edition.md](Western-Philosophy/08-Later-Wittgenstein/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Phenomenology (Husserl) | 12 | 40,236 | `802de227edfa` | [Western-Philosophy/09-Phenomenology-Husserl/Learning-Session-Live-Edition.md](Western-Philosophy/09-Phenomenology-Husserl/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Existentialism (Kierkegaard, Sartre, Heidegger) | 14 | 36,380 | `e03fbd94ae09` | [Western-Philosophy/10-Existentialism/Learning-Session-Live-Edition.md](Western-Philosophy/10-Existentialism/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Quine and Strawson | 12 | 45,557 | `7e3fb626ac57` | [Western-Philosophy/11-Quine-Strawson/Learning-Session-Live-Edition.md](Western-Philosophy/11-Quine-Strawson/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Quine and Strawson | 12 | 35,020 | `142fc2dd14af` | [Western-Philosophy/11-Quine-Strawson/Learning-Session-Live-Edition.md](Western-Philosophy/11-Quine-Strawson/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 

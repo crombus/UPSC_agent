@@ -37,6 +37,156 @@ Mandatory use:
    workflows or improvise a hybrid structure.
 6. If a needed rule is missing or ambiguous, update this file first, then continue.
 
+## Vedanta-Economy Reference-Session Fidelity Lock
+
+The required learner-facing standard is the teaching architecture demonstrated by:
+
+```text
+live_sessions\Philosophy-Optional\08-Vedanta\Learning-Session-Live-Edition.md
+live_sessions\Economy\<completed topic>\Learning-Session-Live-Edition.md
+```
+
+These files are structural and pedagogical benchmarks, not independent rulebooks.
+This file remains the single source of truth. When a future session does not feel like
+Vedanta or the completed Economy sessions, repair the rules here before repairing the
+topic.
+
+The defining benchmark is **content-led progression**. The learner's question and the
+topic's internal logic must control the lesson:
+
+```text
+learner's problem
+  -> visual or intuitive model
+  -> plain-language explanation
+  -> exact doctrine or mechanism
+  -> complete derivation or process
+  -> example
+  -> rival view, near-neighbour or predictable confusion
+  -> criticism, limitation or trap
+  -> reply, resolution or qualified verdict
+  -> UPSC use
+  -> revision
+  -> misconception-driven practice
+```
+
+For Indian and Western philosophy, preserve the Vedanta teaching rhythm:
+
+```text
+philosophical puzzle
+  -> technical vocabulary
+  -> doctrine
+  -> supporting argument
+  -> purvapaksa or strongest objection
+  -> reply
+  -> unresolved residual or balanced assessment
+  -> wider philosophical consequence
+  -> PYQ and answer-writing use
+```
+
+For Economy and other process-heavy subjects, preserve the Economy teaching rhythm:
+
+```text
+practical problem
+  -> transaction, causal flow or mechanism
+  -> technical classification
+  -> numerical or India-centric example
+  -> near-neighbour distinction
+  -> limitation, risk or policy trade-off
+  -> current-affairs anchor where genuine
+  -> UPSC trap and application
+```
+
+Apply these rules exactly:
+
+1. Begin each lesson with the actual learner-facing problem, not with source ownership,
+   evidence classification, package status or validation metadata.
+2. Let lesson form and length vary with the concept. Use internal Parts when a concept
+   needs several dependent movements. Do not force every lesson into the same number of
+   headings, visuals, questions or words.
+3. Introduce technical terms only after establishing the idea they name. Translate and
+   define each term on first use, then show what philosophical or practical work it
+   performs.
+4. Make examples carry the reasoning. After every analogy, numerical example or
+   thought experiment, explain what it establishes and where it stops applying.
+5. Build causal transitions between lessons. End by showing why the next problem
+   arises from the present lesson; do not merely close one module and start another.
+6. Treat comparisons as arguments. Explain why the thinkers, schools, institutions or
+   instruments differ and which prior commitment produces the difference.
+7. Make practice local and misconception-driven. Use the number and type of conceptual,
+   applied and remedial questions required by the lesson; do not impose an identical
+   question quota on every lesson.
+8. Place exam coaching after understanding. Marks, directives, answer spines and PYQ
+   routes must arise from the taught doctrine or mechanism, not dominate the teaching
+   voice.
+9. Preserve a teacherly prose cadence: short conceptual moves, genuine questions,
+   direct explanations, contrast, qualification and retrieval prompts. Avoid
+   encyclopedic blocks and production-report prose.
+10. Use doubt or misconception blocks where they clarify a predictable learner error.
+    In a compiled edition, do not fabricate a learner's actual answer; state the likely
+    doubt and resolve it transparently.
+11. Repeat a concept only when its function changes from first teaching to comparison,
+    application, criticism or revision. Do not repeat the same doctrine at the same
+    level merely because separate source dossiers contained it.
+12. Keep internal generation and validation machinery invisible in learner-facing
+    lessons.
+
+The following expressions and artifacts are prohibited inside learner-facing teaching
+unless the term itself is the subject being taught:
+
+- `layered lesson`, `layered opening map` or `five-layer package`;
+- `solved workbook MCQs` or other source-workbook references;
+- `canonical section ownership`, `sole ownership`, `printed ownership` or
+  `ownership firewall`;
+- `evidence dossier`, `restored doctrine dossier` or `corpus signal`;
+- `mechanical audit`, completion-count narration or validation-pass claims;
+- source-routing instructions, generation notes or package assembly language;
+- repeated statements about the roadmap being frozen;
+- visible references to which source file supplied a particular learner-facing
+  paragraph.
+
+Verified PYQs, directive analysis and answer guidance remain locally integrated in the
+lesson that teaches them. Internal provenance labels, source-ownership mapping,
+coverage evidence and validation counts remain mandatory, but they belong only in the
+final coverage/source ledgers or in internal generation records. Convert any necessary
+boundary or attribution into ordinary teaching language inside the lesson.
+
+### Natural variation lock
+
+Shared sequence does not mean identical shells:
+
+- choose a flowchart only for a process or argument;
+- choose a table only for a genuine classification or comparison;
+- use a thought experiment when the doctrine depends on conceptual possibility;
+- use a numerical example when quantities or incentives matter;
+- use an objection-reply exchange when disagreement drives understanding;
+- use internal Parts when one accepted lesson contains several dependent arguments;
+- vary practice volume according to difficulty and predictable errors;
+- omit decorative headings that add no learning function.
+
+A file fails this lock if multiple lessons could exchange their internal headings,
+question counts and transition sentences without any meaningful change. Structural
+regularity must support retrieval, not reveal a generator template.
+
+### Reference-style final arc
+
+After the complete lesson sequence, consolidate in this learner-facing order:
+
+```text
+solved verified PYQs
+  -> original cumulative MCQs with explanations
+  -> original 10-, 15- and 20-mark Mains practice with model answers
+  -> common-error remediation
+  -> master comparisons, causal chains or argument maps
+  -> complete consolidated register notes
+  -> final coverage matrix
+  -> source and verification ledger
+```
+
+Merge or omit a separate final block when it merely repeats an immediately preceding
+block. The final arc must change the learner's task from understanding to application
+to retrieval; it must not reproduce the same teaching three times under different
+package labels.
+
 ## Output Location
 
 Save each generated live session under:
@@ -530,15 +680,14 @@ The complete Vedanta live edition must include, without omission:
 
 The completed Markdown must end with:
 
-1. complete consolidated register notes;
-2. master comparison tables;
-3. master argument and criticism map;
-4. all solved PYQs through 2026;
-5. original MCQ practice with explanations;
-6. original Mains practice with model answers;
-7. common-error remediation set;
-8. final coverage matrix;
-9. source and verification ledger.
+1. all solved verified PYQs through 2026;
+2. original cumulative MCQ practice with explanations;
+3. original 10-, 15- and 20-mark Mains practice with model answers;
+4. common-error remediation set;
+5. master comparison tables, causal chains and argument or criticism maps;
+6. complete consolidated register notes;
+7. final coverage matrix;
+8. source and verification ledger.
 
 Consolidated register notes must appear last among the teaching and practice content,
 immediately before the coverage and source ledgers.
