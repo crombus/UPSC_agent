@@ -37,6 +37,7 @@
 | Economy | Economy 11 - Land Reforms, Green Revolution and Cropping Systems | 19 | 24,046 | `ce5391c105c4` | [Economy/11-Land-Reforms-Green-Revolution-Cropping-Systems/Learning-Session-Live-Edition.md](Economy/11-Land-Reforms-Green-Revolution-Cropping-Systems/Learning-Session-Live-Edition.md) |
 | Economy | Economy 12 - MSP, Procurement, Buffer Stocks, PDS and Food Security | 16 | 23,488 | `9abf9ebb73fe` | [Economy/12-MSP-Procurement-Buffer-Stocks-PDS-Food-Security/Learning-Session-Live-Edition.md](Economy/12-MSP-Procurement-Buffer-Stocks-PDS-Food-Security/Learning-Session-Live-Edition.md) |
 | Economy | Economy 13 - APMC, e-NAM, FPOs and Agricultural Supply Chains | 16 | 18,084 | `cf2fcb8dbe79` | [Economy/13-APMC-e-NAM-FPOs-Agricultural-Supply-Chains/Learning-Session-Live-Edition.md](Economy/13-APMC-e-NAM-FPOs-Agricultural-Supply-Chains/Learning-Session-Live-Edition.md) |
+| Economy | Economy 14 - Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture | 16 | 21,720 | `6ed9e00794dd` | [Economy/14-Irrigation-Inputs-Credit-Insurance-Sustainable-Agriculture/Learning-Session-Live-Edition.md](Economy/14-Irrigation-Inputs-Credit-Insurance-Sustainable-Agriculture/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
