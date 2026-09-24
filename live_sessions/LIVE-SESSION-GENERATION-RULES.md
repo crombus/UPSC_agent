@@ -248,6 +248,23 @@ concept and every relevant PYQ appears.
 
 ## No-Skipping and No-Compression Rules
 
+**Absolute lock:** no live-session generation, reconstruction, repair or batch rebuild
+may skip, compress, weaken or replace any required teaching merely to reduce time,
+document length, lesson count, context use or workload. This applies equally to basic
+content, advanced refinements, technical arguments, examples, qualifications,
+comparisons, criticisms, replies, unresolved residuals, PYQ linkages, traps, original
+practice and remediation.
+
+For every accepted learner-facing lesson, verify completeness independently. A complete
+topic-level summary, a long final document or strong coverage in another lesson cannot
+compensate for a compressed or incomplete lesson. When a concept is too large for one
+continuous treatment, preserve the accepted lesson boundary and teach it through
+internal Parts rather than summarising, postponing or deleting material.
+
+Batch scale never changes this standard. When several topics are rebuilt together,
+perform the full source, syllabus, PYQ and lesson-level gap audit separately for every
+topic. Never copy a generic completeness decision from one topic to another.
+
 1. Do not replace a substantive explanation with a one-line summary.
 2. Do not merge distinct doctrines merely to reduce document length.
 3. Do not remove definitions, causal steps, qualifications, examples, objections,
