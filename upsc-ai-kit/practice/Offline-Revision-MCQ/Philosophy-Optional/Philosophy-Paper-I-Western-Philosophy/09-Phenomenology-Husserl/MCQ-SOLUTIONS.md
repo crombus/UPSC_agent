@@ -1326,3 +1326,53 @@ D. Constitution removes intersubjectivity because one transcendental ego private
 **Coverage mapping:** `C10`.
 
 **PYQ linkage:** 2022 Q1(d).
+
+## MCQ 54
+
+How should the sentence "one might as well try to explain astronomy by the psychology of astronomers" be used in a Husserl answer?
+
+A. It should be quoted as Frege's exact wording in his 1894 review of Husserl's early arithmetic.
+B. It should be identified as a textbook paraphrase that captures the objection but is not Frege's verified wording.
+C. It should be attributed to Husserl's 1911 essay as his definition of philosophy as rigorous science.
+D. It should be cited as Mohanty's conclusion that Frege had no relation to Husserl's anti-psychologism.
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** False proposition: “It should be quoted as Frege's exact wording in his 1894 review of Husserl's early arithmetic.” Correct replacement: “It should be identified as a textbook paraphrase that captures the objection but is not Frege's verified wording.” Rationale: Frege's verified objection concerns the confusion of objective content with a subjective act, but the astronomy sentence is not established as his wording.
+- **B:** Correct proposition: “It should be identified as a textbook paraphrase that captures the objection but is not Frege's verified wording.” Rationale: The sentence usefully compresses the act-content criticism only when its paraphrase status is stated and it is not placed inside quotation marks as Frege's text.
+- **C:** False proposition: “It should be attributed to Husserl's 1911 essay as his definition of philosophy as rigorous science.” Correct replacement: “It should be identified as a textbook paraphrase that captures the objection but is not Frege's verified wording.” Rationale: Husserl's 1911 essay attacks naturalism and historicism; it does not supply this astronomy formulation.
+- **D:** False proposition: “It should be cited as Mohanty's conclusion that Frege had no relation to Husserl's anti-psychologism.” Correct replacement: “It should be identified as a textbook paraphrase that captures the objection but is not Frege's verified wording.” Rationale: Mohanty disputes the simple causal story, not every intellectual relation between the review and Husserl's development.
+
+**Examiner trap 54:** Converting an illuminating textbook paraphrase into a fabricated verbatim quotation.
+
+**Repair action:** State the objection in substance and label the astronomy sentence as paraphrase, not verified Frege wording.
+
+**Coverage mapping:** `C11`.
+
+**PYQ linkage:** 2020 Q1(c); 2022 Q1(d).
+
+## MCQ 55
+
+Which statement most accurately describes the relation between Frege's 1894 review and Husserl's anti-psychologistic reversal?
+
+A. Frege's review demonstrably caused the reversal, and Husserl expressly acknowledged that causal dependence.
+B. Frege's review was irrelevant because Husserl neither read it nor encountered related Bolzanian or Lotzean arguments.
+C. Frege's review pushed Husserl from logic toward descriptive psychology until Ideas I reversed the change in 1913.
+D. Frege's review coincided with and probably sharpened a reversal whose causal sources remain disputed among scholars.
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** False proposition: “Frege's review demonstrably caused the reversal, and Husserl expressly acknowledged that causal dependence.” Correct replacement: “Frege's review coincided with and probably sharpened a reversal whose causal sources remain disputed among scholars.” Rationale: Føllesdal stresses Frege's influence, whereas Mohanty argues from manuscripts for an independently developing anti-psychologism.
+- **B:** False proposition: “Frege's review was irrelevant because Husserl neither read it nor encountered related Bolzanian or Lotzean arguments.” Correct replacement: “Frege's review coincided with and probably sharpened a reversal whose causal sources remain disputed among scholars.” Rationale: The dispute concerns causal weight, not whether Frege, Bolzano, Lotze and Husserl's own difficulties belong to the development's evidential context.
+- **C:** False proposition: “Frege's review pushed Husserl from logic toward descriptive psychology until Ideas I reversed the change in 1913.” Correct replacement: “Frege's review coincided with and probably sharpened a reversal whose causal sources remain disputed among scholars.” Rationale: The direction is reversed because Husserl moves away from his 1891 psychologistic account toward the anti-psychologism of the 1900-01 Prolegomena.
+- **D:** Correct proposition: “Frege's review coincided with and probably sharpened a reversal whose causal sources remain disputed among scholars.” Rationale: This formulation registers the chronology and influence without pretending that the contested Føllesdal-Mohanty causal question is settled.
+
+**Examiner trap 55:** Replacing a disputed developmental explanation with either a one-cause conversion story or an equally unsupported claim of total irrelevance.
+
+**Repair action:** Use the safe formulation and name the Føllesdal-Mohanty dispute when space permits.
+
+**Coverage mapping:** `C11`.
+
+**PYQ linkage:** 2020 Q1(c); 2022 Q1(d).

@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "scope": "Sixteen directly owned Topic 10 PYQs, 2018–2026",
+  "scope": "Sixteen directly owned Topic 10 PYQs, 2018–2026, plus nine original solved Mains models",
   "method": "Each verified prompt is matched to a parsed timed answer. Literal demand anchors establish declared limb coverage. Per-answer connected-pair and paragraph-order records protect structural sequence, while reversed-paragraph and explicitly contradicted-relation controls must fail. This is a structural and demand-anchor integrity gate, not proof of semantic coherence, philosophical truth, argumentative sufficiency, or an examiner score.",
   "pyqs": [
     {
@@ -1373,6 +1373,451 @@
           "relation_anchor": "Kierkegaard Sartre and Heidegger",
           "maximum_paragraph_gap": 1,
           "demand_limb": "compare three accounts"
+        }
+      ]
+    },
+    {
+      "id": "Original 4",
+      "marks": 10,
+      "question": "\"Anxiety is the dizziness of freedom.\" Explain what Kierkegaard means by anxiety and why he distinguishes it from fear.",
+      "demand_limbs": [
+        {
+          "limb": "distinguish fear and anxiety",
+          "anchors": [
+            "determinate intraworldly threat",
+            "has no determinate object"
+          ]
+        },
+        {
+          "limb": "explain disclosure",
+          "anchors": [
+            "possibility of being able",
+            "dizziness of freedom"
+          ]
+        },
+        {
+          "limb": "connect the leap",
+          "anchors": [
+            "presupposition not the mechanical cause",
+            "caused leap would cease to be free"
+          ]
+        },
+        {
+          "limb": "preserve attribution",
+          "anchors": [
+            "Vigilius Haufniensis",
+            "The Concept of Anxiety"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "determinate intraworldly threat",
+        "presupposition not the mechanical cause"
+      ],
+      "connected_pairs": [
+        {
+          "left": "determinate intraworldly threat",
+          "right": "has no determinate object",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "distinguish fear and anxiety"
+        },
+        {
+          "left": "possibility of being able",
+          "right": "dizziness of freedom",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain disclosure"
+        },
+        {
+          "left": "presupposition not the mechanical cause",
+          "right": "caused leap would cease to be free",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "connect the leap"
+        },
+        {
+          "left": "Vigilius Haufniensis",
+          "right": "The Concept of Anxiety",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "preserve attribution"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "determinate intraworldly threat",
+          "right": "has no determinate object",
+          "relation_anchor": "has no determinate object",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "distinguish fear and anxiety"
+        }
+      ]
+    },
+    {
+      "id": "Original 5",
+      "marks": 10,
+      "question": "Explain Heidegger's notion of das Man and show why \"falling\" is not a moral failing.",
+      "demand_limbs": [
+        {
+          "limb": "define das Man",
+          "anchors": [
+            "impersonal anyone",
+            "publicly available possibilities"
+          ]
+        },
+        {
+          "limb": "name everyday modes",
+          "anchors": [
+            "idle talk curiosity and ambiguity",
+            "deficient modes of disclosure"
+          ]
+        },
+        {
+          "limb": "explain falling",
+          "anchors": [
+            "absorption in this world of concern",
+            "anonymous authority of the they"
+          ]
+        },
+        {
+          "limb": "preserve non-moral scope",
+          "anchors": [
+            "not a moral or theological fall",
+            "existential structure not a vice"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "impersonal anyone",
+        "not a moral or theological fall"
+      ],
+      "connected_pairs": [
+        {
+          "left": "impersonal anyone",
+          "right": "publicly available possibilities",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define das Man"
+        },
+        {
+          "left": "idle talk curiosity and ambiguity",
+          "right": "deficient modes of disclosure",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "name everyday modes"
+        },
+        {
+          "left": "absorption in this world of concern",
+          "right": "anonymous authority of the they",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain falling"
+        },
+        {
+          "left": "not a moral or theological fall",
+          "right": "existential structure not a vice",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "preserve non-moral scope"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "impersonal anyone",
+          "right": "publicly available possibilities",
+          "relation_anchor": "publicly available possibilities",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "define das Man"
+        }
+      ]
+    },
+    {
+      "id": "Original 6",
+      "marks": 15,
+      "question": "Critically examine Sartre's claim that conflict is the original meaning of being-for-others.",
+      "demand_limbs": [
+        {
+          "limb": "reconstruct the Look",
+          "anchors": [
+            "possible observation",
+            "become an object for a freedom"
+          ]
+        },
+        {
+          "limb": "derive conflict",
+          "anchors": [
+            "two strategies",
+            "defeats its own aim"
+          ]
+        },
+        {
+          "limb": "correct the famous line",
+          "anchors": [
+            "does not mean that every relation is poisonous",
+            "fixed medium of self-torment"
+          ]
+        },
+        {
+          "limb": "evaluate reciprocity",
+          "anchors": [
+            "need not be mutually exclusive",
+            "one fundamental possibility"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "possible observation",
+        "one fundamental possibility"
+      ],
+      "connected_pairs": [
+        {
+          "left": "possible observation",
+          "right": "become an object for a freedom",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "reconstruct the Look"
+        },
+        {
+          "left": "two strategies",
+          "right": "defeats its own aim",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "derive conflict"
+        },
+        {
+          "left": "does not mean that every relation is poisonous",
+          "right": "fixed medium of self-torment",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "correct the famous line"
+        },
+        {
+          "left": "need not be mutually exclusive",
+          "right": "one fundamental possibility",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "evaluate reciprocity"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "possible observation",
+          "right": "become an object for a freedom",
+          "relation_anchor": "become an object for a freedom",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "reconstruct the Look"
+        }
+      ]
+    },
+    {
+      "id": "Original 7",
+      "marks": 15,
+      "question": "\"Pseudonymity is the formal counterpart of the doctrine that truth is subjectivity.\" Discuss.",
+      "demand_limbs": [
+        {
+          "limb": "derive indirect communication",
+          "anchors": [
+            "concerns how a person appropriates",
+            "turn such truth into information"
+          ]
+        },
+        {
+          "limb": "explain the method",
+          "anchors": [
+            "withholds a final result",
+            "vanishing occasion"
+          ]
+        },
+        {
+          "limb": "differentiate pseudonyms",
+          "anchors": [
+            "Johannes de Silentio",
+            "Anti-Climacus"
+          ]
+        },
+        {
+          "limb": "test self-reference",
+          "anchors": [
+            "appears self-undermining",
+            "self-referential cost"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "concerns how a person appropriates",
+        "appears self-undermining"
+      ],
+      "connected_pairs": [
+        {
+          "left": "concerns how a person appropriates",
+          "right": "turn such truth into information",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "derive indirect communication"
+        },
+        {
+          "left": "withholds a final result",
+          "right": "vanishing occasion",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "explain the method"
+        },
+        {
+          "left": "Johannes de Silentio",
+          "right": "Anti-Climacus",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "differentiate pseudonyms"
+        },
+        {
+          "left": "appears self-undermining",
+          "right": "self-referential cost",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "test self-reference"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "concerns how a person appropriates",
+          "right": "turn such truth into information",
+          "relation_anchor": "turn such truth into information",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "derive indirect communication"
+        }
+      ]
+    },
+    {
+      "id": "Original 8",
+      "marks": 20,
+      "question": "\"Anxiety is not a stronger kind of fear.\" Examine the role of anxiety in Kierkegaard, Heidegger and Sartre, and assess whether a mood can disclose a philosophical truth.",
+      "demand_limbs": [
+        {
+          "limb": "establish difference in kind",
+          "anchors": [
+            "determinate entity as threatening",
+            "disclosing a structure rather than an entity"
+          ]
+        },
+        {
+          "limb": "compare the three disclosures",
+          "anchors": [
+            "dizziness of freedom",
+            "being-in-the-world as such",
+            "unsupported freedom"
+          ]
+        },
+        {
+          "limb": "distinguish anguish and nausea",
+          "anchors": [
+            "Anguish must be distinguished from nausea",
+            "contingency of being-in-itself"
+          ]
+        },
+        {
+          "limb": "grade mood-disclosure",
+          "anchors": [
+            "remaining corrigible and compatible with causal explanation",
+            "philosophically revealing"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "determinate entity as threatening",
+        "philosophically revealing"
+      ],
+      "connected_pairs": [
+        {
+          "left": "determinate entity as threatening",
+          "right": "disclosing a structure rather than an entity",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "establish difference in kind"
+        },
+        {
+          "left": "dizziness of freedom",
+          "right": "being-in-the-world as such",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "compare the three disclosures"
+        },
+        {
+          "left": "Anguish must be distinguished from nausea",
+          "right": "contingency of being-in-itself",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "distinguish anguish and nausea"
+        },
+        {
+          "left": "remaining corrigible and compatible with causal explanation",
+          "right": "philosophically revealing",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "grade mood-disclosure"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "determinate entity as threatening",
+          "right": "disclosing a structure rather than an entity",
+          "relation_anchor": "disclosing a structure rather than an entity",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "establish difference in kind"
+        }
+      ]
+    },
+    {
+      "id": "Original 9",
+      "marks": 20,
+      "question": "Existentialism has been charged with subjectivism, pessimism and social abstraction. Examine these charges with reference to Kierkegaard, Sartre and Heidegger.",
+      "demand_limbs": [
+        {
+          "limb": "split the family label",
+          "anchors": [
+            "three different tests",
+            "actual argument"
+          ]
+        },
+        {
+          "limb": "assess subjectivism",
+          "anchors": [
+            "subjectivism largely misfires",
+            "blocks relativism"
+          ]
+        },
+        {
+          "limb": "assess pessimism",
+          "anchors": [
+            "usually a semantic mistake",
+            "technical structures"
+          ]
+        },
+        {
+          "limb": "concede social abstraction",
+          "anchors": [
+            "strongest charge",
+            "genuine residue"
+          ]
+        }
+      ],
+      "ordered_anchors": [
+        "three different tests",
+        "genuine residue"
+      ],
+      "connected_pairs": [
+        {
+          "left": "three different tests",
+          "right": "actual argument",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "split the family label"
+        },
+        {
+          "left": "subjectivism largely misfires",
+          "right": "blocks relativism",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "assess subjectivism"
+        },
+        {
+          "left": "usually a semantic mistake",
+          "right": "technical structures",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "assess pessimism"
+        },
+        {
+          "left": "strongest charge",
+          "right": "genuine residue",
+          "maximum_paragraph_gap": 3,
+          "demand_limb": "concede social abstraction"
+        }
+      ],
+      "affirmed_relations": [
+        {
+          "left": "three different tests",
+          "right": "actual argument",
+          "relation_anchor": "actual argument",
+          "maximum_paragraph_gap": 1,
+          "demand_limb": "split the family label"
         }
       ]
     }

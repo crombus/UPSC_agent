@@ -140,4 +140,11 @@ Directly owned: **16** — 2018 Q1(d), 2018 Q4(a), 2019 Q3(a), 2019 Q4(c), 2020 
 
 ## Completion decision
 
-The bank closes at 74 because every matrix cell has direct and discriminating coverage, all sixteen owned PYQ themes are sampled, and further additions would repeat an already tested inference. Mechanical validation cannot certify philosophical truth or predict marks.
+The bank closes at 74 because every matrix cell has direct and discriminating coverage, all sixteen owned PYQ themes are sampled, and further additions would repeat an already tested inference. Formal reconciliation retains the three package-original transfer models and restores all six distinct formal exercises, for nine solved originals across the exact 10/15/20-mark bands. The Revision Guide also restores all 53 formal master-flow panels in exact order and payload. Mechanical validation cannot certify philosophical truth or predict marks.
+
+## Bounded route obligations
+
+| Obligation | Primary owner | Required closure | Forbidden ownership/contradiction | Status |
+|---|---|---|---|---|
+| `WP-2018-Q4A-EPOCHE-HEIDEGGER` | Topic 10 primary | Accurate Husserlian suspension premise followed by Heidegger's rejection of the worldless spectator and his positive being-in-the-world account | Primary or sole ownership by Topic 09; epoché as Heidegger's method; being-in-the-world as Husserl's doctrine | `fulfilled_substantively` |
+| `WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS` | Topic 10 primary | Sartrean consciousness as nothing established first, then compared with Husserlian intentional/transcendental subjectivity | Primary or sole ownership by Topic 09; Sartrean nothingness as Husserlian reduction or epoché | `fulfilled_substantively` |

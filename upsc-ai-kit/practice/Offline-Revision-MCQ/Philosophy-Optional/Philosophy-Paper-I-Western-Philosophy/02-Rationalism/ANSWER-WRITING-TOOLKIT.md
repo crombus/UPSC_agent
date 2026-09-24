@@ -869,3 +869,14 @@ The paradox is instructive. Spinoza's God is the most **pervasive** and the leas
 - Applies a genuine test: what collapses if the divine premise is removed.
 - Distinguishes two senses of "depends" and rules on both.
 - Adds Kant only as a one-line rider, respecting the ownership boundary.
+
+## Inbound obligations from Topic 09
+
+- `WP-2022-Q4B-DESCARTES-CERTAINTY` — Topic 02 is the primary owner of 2022 Q4(b).
+  The answer establishes that Descartes knows the self immediately through the cogito while
+  knowledge of the world is mediated by clear-and-distinct perception, divine non-deception and
+  the causal account of involuntary ideas. Topic 09 contributes only the bounded Husserlian
+  contrast: suspension does not infer a *res cogitans* or lose the world.
+
+This obligation does not transfer primary ownership to Topic 09 and does not permit Husserl's
+transcendental ego to be presented as Descartes' thinking substance.

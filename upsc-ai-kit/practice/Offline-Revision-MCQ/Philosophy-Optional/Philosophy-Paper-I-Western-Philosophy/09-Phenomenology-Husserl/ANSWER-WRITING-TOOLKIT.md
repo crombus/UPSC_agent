@@ -276,7 +276,321 @@ Write within the locked 20-mark band and reserve the final minute for the direct
 
 Primary ownership remains with Topic 10 Existentialism. For a cross-link paragraph, contrast Husserl’s intentional and constituting transcendental subjectivity with Sartre’s non-egological, self-transcending consciousness. Do not count this as an eighth directly owned Husserl PYQ.
 
-## Original solved practice
+## Bounded route obligations
+
+- `WP-2018-Q4A-EPOCHE-HEIDEGGER` — Topic 10 owns the 2018 Q4(a) answer because
+  Heidegger's rejection of a worldless spectator and his account of being-in-the-world carry the
+  principal burden. Topic 09 supplies only the accurate premise that epoché suspends the
+  existence-posit rather than denying the world.
+- `WP-2022-Q4B-DESCARTES-CERTAINTY` — Topic 02 owns the 2022 Q4(b) answer because
+  Descartes' immediate certainty of the self and mediated recovery of world-knowledge are the
+  question's subject. Topic 09 supplies only a bounded contrast with Husserl's
+  non-substantial, world-directed transcendental subjectivity.
+- `WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS` — Topic 10 owns the 2026 Q2(c)
+  comparison because Sartre's consciousness as nothing is the position to be established before
+  comparison. Topic 09 supplies the Husserlian half: intentionality, noesis-noema, constitution
+  and the transcendental ego.
+
+These routes do not make Topic 09 a primary or sole owner of any of the three questions. They
+also do not import Heideggerian being-in-the-world, Cartesian reconstruction, or Sartrean
+nothingness as Husserlian doctrines.
+
+## Formal original solved practice retained from the authoritative workbook
+
+The following six exercises preserve the formal workbook's two-at-each-mark design. The 10- and
+15-mark timed cores are compressed to the locked repository bands; the displaced but valid depth
+is retained after each timed answer and is not counted in the measured answer. These original
+model answers preserve the formal corpus across three mark lengths.
+
+## Formal Exercise 1 · 10 marks
+
+**Question:** Distinguish between retention and recollection in Husserl's analysis of inner time-consciousness. Why does the distinction matter?
+
+### Demand decoding
+
+Define both terms, use the melody mechanism, explain the consequence of collapsing them, and add
+the regress qualification.
+
+### Timed model answer
+
+**Thesis.** Retention belongs to present perception, whereas recollection re-presents an event
+that is no longer present; without this distinction, experience of a temporal object is
+impossible.
+
+The living present contains a primal impression, retention and protention. The primal impression
+is the now-phase. Retention is the just-elapsed phase still held within the present, with
+progressively diminishing clarity; Husserl therefore calls it primary memory. Recollection
+(*Wiedererinnerung*) is secondary memory: a new act that re-presents
+(*Vergegenwärtigung*) something that has passed.
+
+The melody shows why the distinction matters. If the previous note had to be recollected, the
+melody would first need to be complete before it could be perceived as a sequence. Instead, the
+note remains present as just-past while the next is protended, allowing one temporally extended
+object to be heard. The same structure makes a sentence intelligible.
+
+The account grounds temporal identity and habituality, but it raises a regress: if the flow
+constitutes time, what constitutes the flow? Husserl's claim that the flow constitutes its own
+unity is powerful but reflexively contestable.
+
+**Measured model-answer words:** 170
+
+**Retained depth outside the timed answer:** The relevant lectures were composed during
+1893–1917, edited by Edith Stein and published by Heidegger in 1928. The analysis also answers
+Hume by locating unity in the constituting flow rather than among discrete contents.
+
+**Why this earns marks:** It defines the pair, reconstructs the melody argument, states the
+identity payoff and ends with the self-constituting-flow problem.
+
+## Formal Exercise 2 · 10 marks
+
+**Question:** "The epoché brackets the world." Examine the accuracy of this formulation.
+
+### Demand decoding
+
+Give an immediate ruling, identify exactly what is bracketed and what survives, distinguish
+suspension from doubt, and qualify the possibility of complete reduction.
+
+### Timed model answer
+
+**Thesis.** The formula is convenient but inaccurate: epoché brackets the world's
+existence-posit, not the world or the content of experience.
+
+In the natural attitude the world is silently posited as independently existing. *Ideas I*
+§§31–32 place this general thesis out of play. Husserl neither affirms nor denies it. What
+survives is the full stream of intentional experience: colour, shape, distance, profiles,
+horizons and the object's presenting itself as a determinate kind. The phenomenological residue
+is therefore wider, not narrower, than a naive inventory of objects.
+
+The loose formula misleads in two ways. It suggests that the world is removed, and it encourages
+the Cartesian reading that suspension is doubt or denial. It also makes transcendental idealism
+look like an immediate result of bracketing, although constitution is a later argued thesis.
+
+The accurate formulation is that epoché brackets a validity-claim, never a content. It is a
+repeatable change of attitude that redirects inquiry to modes of givenness. Merleau-Ponty's claim
+that complete reduction is impossible limits its execution without cancelling its diagnostic
+use.
+
+**Measured model-answer words:** 172
+
+**Retained depth outside the timed answer:** The operation is reversible; that feature explains
+how phenomenology can describe the natural attitude without contradicting itself.
+
+**Why this earns marks:** It corrects the formula precisely, preserves the experienced world,
+separates suspension from doubt and distinguishes method from the later idealist conclusion.
+
+## Formal Exercise 3 · 15 marks
+
+**Question:** Assess Husserl's claim that free imaginative variation yields knowledge of essences rather than empirical generalisations.
+
+### Demand decoding
+
+Explain the procedure, prove why it is not induction, work one case, state the evidential
+constraints, and give a graded assessment.
+
+### Timed model answer
+
+**Thesis.** Free imaginative variation differs from induction because it seeks the limit at
+which a phenomenon changes kind, not the frequency with which features occur; the distinction is
+defensible, though eidetic results remain revisable.
+
+The procedure begins with one factual or imagined case. Its colour, size, material, duration or
+context is varied freely. At each stage the investigator asks whether the phenomenon survives or
+collapses into another kind. What cannot be varied away without destroying the phenomenon is its
+eidos or invariant possibility-condition.
+
+Induction generalises from many observed cases and yields probability; additional cases may
+strengthen it. Variation operates a priori in imagination, and one instance can launch it because
+the target is a boundary rather than a statistical regularity. A triangle may vary in colour,
+size and orientation, but removing one side destroys the three-sided figure. Yet the example also
+shows framework-dependence: the angle-sum claim cannot be treated as invariant across every
+possible geometry.
+
+Husserl calls the disclosure of essence *Wesensschau*. It is related to, but not identical with,
+categorial intuition in the Sixth *Logical Investigation*. Critics such as Ryle and Ayer object
+that intellectual seeing is obscure and may vary between subjects. Husserl replies through
+graded evidence, further variation, counter-variation and intersubjective repeatability.
+
+The result is neither a psychological conviction nor a separated Platonic object. An essence is
+disclosed through possible instances but is not fabricated by the act that grasps it; otherwise
+eidetic science would collapse into the psychologism it is designed to avoid.
+
+**Verdict.** The non-inductive logic is clear, but no act of variation proves that imagination
+has exhausted every relevant possibility. Eidetic results are best treated as disciplined,
+region-bound and corrigible rather than infallible.
+
+**Measured model-answer words:** 279
+
+**Retained depth outside the timed answer:** Formal ontology concerns categories applicable to
+every region, while material or regional ontologies state invariants peculiar to nature,
+consciousness, culture or mathematics.
+
+**Why this earns marks:** It makes the limit/frequency argument explicit, uses a worked case that
+also supplies the criticism, and converts the objection into a qualified verdict.
+
+## Formal Exercise 4 · 15 marks
+
+**Question:** Explain the distinction between sensuous *hyle* and intentional *morphe*, and evaluate its role in Husserl's rejection of sense-datum theory.
+
+### Demand decoding
+
+Locate the distinction on the noetic side, explain its two decisive properties, derive the
+anti-sense-datum result, and assess the instability of hyle.
+
+### Timed model answer
+
+**Thesis.** The hyle-morphe distinction allows Husserl to explain how sensory material belongs to
+experience without becoming an inner object between consciousness and the world.
+
+In *Ideas I* §85, sensuous hyle means non-intentional colour-, sound- or tactile-data actually
+lived through. Intentional morphe is the animating apprehension that gives this material the form
+of a presentation of an object. The analysis belongs within the noetic side; it is not a third
+term beside noesis and noema.
+
+Two features carry the argument. First, hyle is not of anything and does not direct consciousness
+beyond itself. Secondly, it is lived through rather than perceived: I perceive the house, not a
+private brown datum. The same material may be animated as a house-front, a patch in a painting or
+a stain. Only the formed whole intends an object.
+
+Hence Husserl rejects sense-datum theory. Since hyletic data are never objects of perception,
+there is no veil of ideas and no inference from an inner item to an external thing. This sharply
+separates him from Locke and Russell.
+
+The duck-rabbit makes the positive mechanism visible: materially similar sensory content can be
+animated under different object-senses. Husserl's terms *Auffassung* and *Beseelung* name this
+apprehending or animating function rather than a conscious inference.
+
+The difficulty is equally precise. If hyle is non-intentional, in what sense is it given at all?
+Later genetic phenomenology absorbs much of its work into passive synthesis; Merleau-Ponty argues
+that bodily organisation precedes imposed form, while Sartre rejects hyletic contents.
+
+**Verdict.** The distinction succeeds negatively against sense-data but remains unstable as a
+positive account of sensory matter.
+
+**Measured model-answer words:** 262
+
+**Retained depth outside the timed answer:** Husserl's exact chapter formula is "sensuous
+*hylē*, intentional *morphē*"; both moments are disclosed only under phenomenological
+reflection, not observed as worldly objects.
+
+**Why this earns marks:** It locates the distinction correctly, derives rather than merely
+asserts the anti-sense-datum result, and states why the same successful feature creates the
+standing problem.
+
+## Formal Exercise 5 · 20 marks
+
+**Question:** "Husserl's transcendental phenomenology escapes psychologism only by relocating it." Critically examine.
+
+### Demand decoding
+
+Reconstruct what the *Prolegomena* expelled, formulate the transcendental charge, give the
+three-part reply, test its intersubjective burden, and distinguish psychologism from idealism.
+
+### Timed model answer
+
+**Thesis.** The relocation charge identifies a genuine pressure but does not establish
+psychologism, because transcendental constitution does not reduce validity to empirical mental
+events. It leaves a distinct problem of transcendental idealism.
+
+The *Prolegomena to Pure Logic* rejects psychologism through four connected arguments.
+Psychological laws are inductive and probable, whereas logical laws claim necessity; the real,
+datable act of judging differs from its ideal content; species-relative truth refutes itself; and
+the causal conditions of thinking are not grounds of validity. The positive result is ideal
+objectivity: acts are real, contents ideal.
+
+This reversal has a developmental edge. The 1891 *Philosophie der Arithmetik* had grounded number
+in acts of collecting and counting. Frege's 1894 review sharpened the act/content objection,
+although Føllesdal and Mohanty disagree over whether it caused Husserl's turn. The mature claim is
+therefore not anti-mentalism: phenomenology studies acts while refusing to derive ideal validity
+from their empirical genesis.
+
+The charge arises after *Ideas I*. If every sense is constituted in transcendental subjectivity,
+validity may appear subject-dependent again. Husserl replies in three steps. First, the
+transcendental ego is not the empirical psyche; the latter is a worldly object bracketed with the
+world, while the former is the field in which world and psyche acquire sense. Secondly,
+constitution is disclosure rather than fabrication: subjectivity is the medium of access, not
+the source of logical validity. Thirdly, objectivity is validity for a community of possible
+subjects, grounded in transcendental intersubjectivity rather than private preference.
+
+The third reply transfers the burden to the Fifth *Cartesian Meditation*. Schutz's circularity
+objection presses that the sphere of ownness is meant to exclude the sense of others, yet my body
+is recognised as a body like theirs only if that sense is already available. Husserl answers that
+ownness is an abstractive layer, not a temporal stage, but the defence is not decisive.
+
+Neo-Kantians and analytic critics can therefore concede the empirical distinction while doubting
+that constitution secures independence from subjectivity. Heidegger and Merleau-Ponty press a
+different complaint: embodied being-in-the-world may precede the reflective transcendental field
+that is supposed to ground it.
+
+**Verdict.** Psychologism proper is escaped because no logical law depends on how a mind happens
+to work. Transcendental idealism remains: critics may still doubt whether disclosure and
+constitution can secure an objectivity not already framed by subjectivity.
+
+**Measured model-answer words:** 382
+
+**Retained depth outside the timed answer:** The distinction between the subject as medium of
+access and source of validity should be reused in the 2020 and 2022 PYQ answers.
+
+**Why this earns marks:** It distinguishes the two charges, gives the full reply, locates the
+strongest residual burden in intersubjectivity and ends with a graded ruling.
+
+## Formal Exercise 6 · 20 marks
+
+**Question:** Evaluate Husserl's account of intersubjectivity in the Fifth *Cartesian Meditation* as a reply to the charge of transcendental solipsism.
+
+### Demand decoding
+
+Correct the task, reconstruct the ownness-body-pairing-appresentation sequence, explain why
+non-originality is necessary, assess the main objections, and rule on the ownness-first order.
+
+### Timed model answer
+
+**Thesis.** The Fifth Meditation explains how the sense "another subject" is constituted; it is
+not a proof that other minds exist. As a phenomenology of otherness it is powerful, but its
+ownness-first order remains circularity-prone.
+
+After the transcendental reduction, other people appear as senses constituted for my ego. Husserl
+therefore reduces further to the sphere of ownness, abstracting from cultural predicates and
+objectivity-for-anyone. Within it my lived body (*Leib*) is unique: it is both physical and an
+organ of will, a field of sensings and the absolute "here".
+
+Another expressive body appears. Through passive pairing (*Paarung*) it is associated with mine,
+and its subjectivity is appresented: co-intended without being originally presented, as the
+unseen back of a table is co-intended from the front. This is an analogising transfer of sense,
+not an inference from behaviour. The other becomes an alter ego occupying his "here", which is
+my "there". Continuing concordance can fulfil or disappoint the appresentation.
+
+The analysis is embodied rather than purely intellectual. My body is *Leib* because it is lived
+from within; the other's appears first as *Körper* and acquires the sense of another lived body
+through pairing. The route runs from the Paris lectures of 1929 to the French publication of
+1931, the posthumous German text of 1950 and Cairns's English translation of 1960.
+
+The strongest move is that non-originality is necessary. If the other's stream were given as my
+own is, he would not be another subject but me. Inaccessibility belongs to the sense "other" and
+helps constitute a world available to perspectives beyond mine.
+
+Schutz objects that ownness presupposes the other it excludes; Husserl calls it an abstractive
+layer rather than a temporal stage. Sartre's Look presents the Other through objectification,
+Levinas argues that alter ego erases alterity, and Heidegger treats being-with as original rather
+than derived.
+
+Husserl's reply is strongest against the demand for original access and weakest against the
+ordering objection. Harmonious behaviour can confirm an already appresented other, but it cannot
+by itself show that the very sense needed for pairing arose from an ownness sphere purified of
+others.
+
+**Verdict.** The analysis successfully explains indirect givenness and public objectivity, but it
+does not conclusively show that methodological solipsism can generate the alterity on which its
+starting abstraction already depends.
+
+**Measured model-answer words:** 377
+
+**Retained depth outside the timed answer:** Embodiment, empathy and habitual concordance are
+more important than the Leibnizian phrase "community of monads".
+
+**Why this earns marks:** It corrects the natural-attitude misreading, reconstructs the mechanism,
+states the best defence and tests the remaining circularity through named critics.
+
+## Additional original solved practice
 
 ## Original 1 · 10 marks
 
@@ -340,7 +654,7 @@ Use the locked 15-mark band, plan the argument first and check that the criticis
 
 ## Original 3 · 20 marks
 
-**Question:** Show how Husserl's theory of essences and critique of psychologism form one project of grounding objectivity. Does transcendental phenomenology complete that project? Critically discuss. Answer in about 300 words.
+**Question:** Show how Husserl's theory of essences and critique of psychologism form one project of grounding objectivity. Does transcendental phenomenology complete that project? Critically discuss. Answer in 340–400 words.
 
 ### Demand decoding
 

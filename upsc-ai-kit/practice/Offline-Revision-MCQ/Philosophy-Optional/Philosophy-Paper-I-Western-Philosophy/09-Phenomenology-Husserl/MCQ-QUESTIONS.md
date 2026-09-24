@@ -478,3 +478,21 @@ A. Constitution makes validity private to the empirical experience that psycholo
 B. Constitution discloses sense in subjectivity without claiming that an empirical mind creates truths or objects.
 C. Constitution turns transcendental idealism into Berkeley's doctrine that finite perceiving produces existing things.
 D. Constitution removes intersubjectivity because one transcendental ego privately guarantees objective validity.
+
+## MCQ 54
+
+How should the sentence "one might as well try to explain astronomy by the psychology of astronomers" be used in a Husserl answer?
+
+A. It should be quoted as Frege's exact wording in his 1894 review of Husserl's early arithmetic.
+B. It should be identified as a textbook paraphrase that captures the objection but is not Frege's verified wording.
+C. It should be attributed to Husserl's 1911 essay as his definition of philosophy as rigorous science.
+D. It should be cited as Mohanty's conclusion that Frege had no relation to Husserl's anti-psychologism.
+
+## MCQ 55
+
+Which statement most accurately describes the relation between Frege's 1894 review and Husserl's anti-psychologistic reversal?
+
+A. Frege's review demonstrably caused the reversal, and Husserl expressly acknowledged that causal dependence.
+B. Frege's review was irrelevant because Husserl neither read it nor encountered related Bolzanian or Lotzean arguments.
+C. Frege's review pushed Husserl from logic toward descriptive psychology until Ideas I reversed the change in 1913.
+D. Frege's review coincided with and probably sharpened a reversal whose causal sources remain disputed among scholars.

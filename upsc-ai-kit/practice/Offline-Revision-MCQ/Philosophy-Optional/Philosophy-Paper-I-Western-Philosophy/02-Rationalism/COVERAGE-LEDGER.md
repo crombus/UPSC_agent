@@ -66,3 +66,9 @@ individual MCQ, PYQ and model-answer blocks. Only the four composite umbrella bl
 source require manual aggregate mappings because practice content is deliberately split across
 questions, solutions, the toolkit and this ledger. No formal concept is classified as excluded,
 routed away or an unresolved omission.
+
+## Bounded route obligations
+
+| Obligation | Primary owner | Required closure | Forbidden ownership claim | Status |
+|---|---|---|---|---|
+| `WP-2022-Q4B-DESCARTES-CERTAINTY` | Topic 02 primary | 2022 Q4(b) teaches immediate cogito-certainty, mediated world-knowledge and the divine guarantee; Topic 09 supplies only the Husserl contrast | Topic 09 is the primary or sole owner; Husserl's transcendental ego is Descartes' *res cogitans* | `fulfilled_substantively` |

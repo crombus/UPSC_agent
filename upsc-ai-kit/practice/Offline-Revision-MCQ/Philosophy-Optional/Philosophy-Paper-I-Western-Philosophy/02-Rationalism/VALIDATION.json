@@ -1,7 +1,7 @@
 {
   "schema_version": 15,
   "topic": "02 Rationalism",
-  "validated_at": "2026-09-23T08:17:02+05:30",
+  "validated_at": "2026-09-24T14:51:25+05:30",
   "result": "DEVELOPMENT_PASS",
   "validation_mode": "development",
   "release_ready": true,
@@ -16,37 +16,37 @@
         "source": "REVISION-GUIDE.md",
         "exists": true,
         "bytes": 1912004,
-        "sha256": "743583d3dc4e291233a919764be68a0d778c5a1e7c03a97b47104ca2735ddeb1",
+        "sha256": "28149deb58e16804baa68a17ca22460ac2483d46a24f2da2a67f5f3ce8bf0f88",
         "source_sha256": "f70283b2957c4365ff02aadb00a06ddc3bce3c5ba9c4f2c3c169d8b13ebc33fe",
         "source_mtime_ns": 1789869732277707800,
-        "pdf_mtime_ns": 1790131069840002100
+        "pdf_mtime_ns": 1790241609421036200
       },
       "MCQ-Questions.pdf": {
         "source": "MCQ-QUESTIONS.md",
         "exists": true,
         "bytes": 209979,
-        "sha256": "17d3f00f8c54b297f2a9300096c50378f436b3b69859538e3ddaf4f9b4b05648",
+        "sha256": "907ec1712e3fa462f0f684d1e29b476b56a15d0303b41fec4fe830938d793c89",
         "source_sha256": "82c60a7dd36f6c5c7f08a8479b37c199971bd8d6d2c8578891cf94a02d73fb2f",
         "source_mtime_ns": 1790130603808178000,
-        "pdf_mtime_ns": 1790131074838539100
+        "pdf_mtime_ns": 1790241614103777200
       },
       "MCQ-Solutions.pdf": {
         "source": "MCQ-SOLUTIONS.md",
         "exists": true,
         "bytes": 410041,
-        "sha256": "8395abccc13b35e70fbf7454ed3bdd32525933605c6e57e5d911a6a8f8280609",
+        "sha256": "515cb127f6c397580b52a915555e73d6c001b3821a5082e997e58d1f513681a8",
         "source_sha256": "df5c213fc1d124c5cd88ad583e7354fe63ecdb894112205f194668e7b033ddda",
         "source_mtime_ns": 1790130611197868000,
-        "pdf_mtime_ns": 1790131081008839300
+        "pdf_mtime_ns": 1790241620876067500
       },
       "Answer-Writing-Toolkit.pdf": {
         "source": "ANSWER-WRITING-TOOLKIT.md",
         "exists": true,
-        "bytes": 585343,
-        "sha256": "51628d50b169a288e1ba6f480593e5a56aadf59e967e27178a0725a3306deb08",
-        "source_sha256": "624469930f94f2be5fae727a5f09ad83cb35e2e63223d57e2310bd06b1dae65c",
-        "source_mtime_ns": 1790130941541051500,
-        "pdf_mtime_ns": 1790131087715609300
+        "bytes": 589384,
+        "sha256": "47f955d9d554c01550327e056c7fd25b0050e92c8d15bdee4edad50d7c29f507",
+        "source_sha256": "6b0e8758606fb3f909db7e88215f9f8345a73abaa5a71ee624902d8a4812b5ca",
+        "source_mtime_ns": 1790230928017287000,
+        "pdf_mtime_ns": 1790241628756222300
       }
     },
     "all_four_regenerated": true
@@ -476,9 +476,9 @@
         "pages": 124,
         "source": "REVISION-GUIDE.md",
         "source_sha256": "f70283b2957c4365ff02aadb00a06ddc3bce3c5ba9c4f2c3c169d8b13ebc33fe",
-        "pdf_sha256": "743583d3dc4e291233a919764be68a0d778c5a1e7c03a97b47104ca2735ddeb1",
+        "pdf_sha256": "28149deb58e16804baa68a17ca22460ac2483d46a24f2da2a67f5f3ce8bf0f88",
         "source_mtime_ns": 1789869732277707800,
-        "pdf_mtime_ns": 1790131069840002100,
+        "pdf_mtime_ns": 1790241609421036200,
         "pdf_not_older_than_source": true,
         "heading_count": 52,
         "missing_source_headings": [],
@@ -495,9 +495,9 @@
         "pages": 16,
         "source": "MCQ-QUESTIONS.md",
         "source_sha256": "82c60a7dd36f6c5c7f08a8479b37c199971bd8d6d2c8578891cf94a02d73fb2f",
-        "pdf_sha256": "17d3f00f8c54b297f2a9300096c50378f436b3b69859538e3ddaf4f9b4b05648",
+        "pdf_sha256": "907ec1712e3fa462f0f684d1e29b476b56a15d0303b41fec4fe830938d793c89",
         "source_mtime_ns": 1790130603808178000,
-        "pdf_mtime_ns": 1790131074838539100,
+        "pdf_mtime_ns": 1790241614103777200,
         "pdf_not_older_than_source": true,
         "heading_count": 41,
         "missing_source_headings": [],
@@ -516,9 +516,9 @@
         "pages": 27,
         "source": "MCQ-SOLUTIONS.md",
         "source_sha256": "df5c213fc1d124c5cd88ad583e7354fe63ecdb894112205f194668e7b033ddda",
-        "pdf_sha256": "8395abccc13b35e70fbf7454ed3bdd32525933605c6e57e5d911a6a8f8280609",
+        "pdf_sha256": "515cb127f6c397580b52a915555e73d6c001b3821a5082e997e58d1f513681a8",
         "source_mtime_ns": 1790130611197868000,
-        "pdf_mtime_ns": 1790131076713374500,
+        "pdf_mtime_ns": 1790241620876067500,
         "pdf_not_older_than_source": true,
         "heading_count": 41,
         "missing_source_headings": [],
@@ -532,15 +532,15 @@
         "pass": true
       },
       "Answer-Writing-Toolkit.pdf": {
-        "bytes": 585343,
+        "bytes": 589384,
         "pages": 30,
         "source": "ANSWER-WRITING-TOOLKIT.md",
-        "source_sha256": "624469930f94f2be5fae727a5f09ad83cb35e2e63223d57e2310bd06b1dae65c",
-        "pdf_sha256": "51628d50b169a288e1ba6f480593e5a56aadf59e967e27178a0725a3306deb08",
-        "source_mtime_ns": 1790130941541051500,
-        "pdf_mtime_ns": 1790131085162878900,
+        "source_sha256": "6b0e8758606fb3f909db7e88215f9f8345a73abaa5a71ee624902d8a4812b5ca",
+        "pdf_sha256": "47f955d9d554c01550327e056c7fd25b0050e92c8d15bdee4edad50d7c29f507",
+        "source_mtime_ns": 1790230928017287000,
+        "pdf_mtime_ns": 1790241625561345800,
         "pdf_not_older_than_source": true,
-        "heading_count": 13,
+        "heading_count": 14,
         "missing_source_headings": [],
         "matches_current_regeneration_record": true,
         "blank_pages": [],
@@ -556,13 +556,13 @@
       "inspected_text_files": [
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/02-Rationalism/ANSWER-WRITING-TOOLKIT.md",
-          "bytes": 76643,
-          "sha256": "624469930f94f2be5fae727a5f09ad83cb35e2e63223d57e2310bd06b1dae65c"
+          "bytes": 77296,
+          "sha256": "6b0e8758606fb3f909db7e88215f9f8345a73abaa5a71ee624902d8a4812b5ca"
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/02-Rationalism/COVERAGE-LEDGER.md",
-          "bytes": 6818,
-          "sha256": "6d035df2efb10fd891172d1df63a3a12a5e36f531988d0712f844bb661400a18"
+          "bytes": 7292,
+          "sha256": "82026e9f2240b6a6a76ce9f8faaac181f79d25015e19fa07cc3240acd1225be8"
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/02-Rationalism/FORMAL-COVERAGE-AUDIT.json",
@@ -601,8 +601,8 @@
         },
         {
           "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/02-Rationalism/VALIDATION.json",
-          "bytes": 29178,
-          "sha256": "21516817424f0bb95530e476420fef89460b2fcd3d11a57f8bf90615090b232b"
+          "bytes": 28381,
+          "sha256": "5b513f1f0f502979d074952ea2ca057ee6d5af0f25b1eda3611c8a2b64ae3372"
         }
       ],
       "untracked_text_diff_checks": [],
@@ -658,7 +658,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/02-Rationalism/README.md",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -676,7 +676,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/02-Rationalism/MCQ-QUESTIONS.md",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -685,7 +685,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/02-Rationalism/MCQ-SOLUTIONS.md",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -721,7 +721,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/02-Rationalism/FORMAL-COVERAGE-AUDIT.json",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true
@@ -739,7 +739,7 @@
           "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/02-Rationalism/validate_package.py",
           "exists": true,
           "tracked": true,
-          "staged": true,
+          "staged": false,
           "unstaged_change": false,
           "untracked": false,
           "included_in_next_commit": true

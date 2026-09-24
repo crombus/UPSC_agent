@@ -1,46 +1,99 @@
 {
-  "schema_version": 11,
+  "schema_version": 16,
   "topic": "09 Phenomenology (Husserl)",
-  "validated_at": "2026-09-20T16:52:02+05:30",
-  "result": "PASS",
-  "result_gate": "PASS only when every recorded check passes",
+  "validated_at": "2026-09-24T14:51:45+05:30",
+  "result": "DEVELOPMENT_PASS",
+  "validation_mode": "development",
+  "release_ready": true,
+  "result_gate": "DEVELOPMENT_PASS validates content and generated artifacts but is not release-ready. RELEASE_PASS additionally requires every required current file in the Git index.",
   "pdf_generation": {
-    "mechanism": "C:/up/tools/unicode_markdown_pdf.py build_pdf() via installed Chrome and PyMuPDF",
-    "requested": true,
-    "started_at": "2026-09-20T16:50:55.330715+05:30",
+    "requested": false,
+    "last_regeneration_recorded": true,
+    "reused_prior_record": true,
+    "mechanism": "C:/up/tools/unicode_markdown_pdf.py via installed Chrome and PyMuPDF",
     "files": {
       "Revision-Guide.pdf": {
         "source": "REVISION-GUIDE.md",
-        "exists_after_generation": true,
-        "bytes": 1371207,
-        "modified_at": "2026-09-20T16:51:25.743728+05:30",
-        "sha256": "61c611a1fc91d1588d5b382958478583b16221b8367d8d79cc0dd99d2bedbd2c"
+        "exists": true,
+        "bytes": 1427133,
+        "sha256": "cee51661ab24fcb58e020e2346284bca8fc98dd7a76af706165701d51f60ec12",
+        "source_sha256": "ff31d642f60d2ab443ddf9ea3e20f567efa81ee7c9fda4b95001d09f08034fd6",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Phenomenology (Husserl)",
+          "profile_version": 1,
+          "pdf_name": "Revision-Guide.pdf",
+          "source_name": "REVISION-GUIDE.md",
+          "cover_descriptor": "Philosophy Optional · Paper I · Western Philosophy · Topic 09",
+          "footer_label": "Phenomenology (Husserl) | REVISION-GUIDE"
+        },
+        "generation_metadata_sha256": "9d97a29bd494cdf6e2456bc0aea5abda15312c63437d6026a6529c5af727d020"
       },
       "MCQ-Questions.pdf": {
         "source": "MCQ-QUESTIONS.md",
-        "exists_after_generation": true,
-        "bytes": 159420,
-        "modified_at": "2026-09-20T16:51:30.834805+05:30",
-        "sha256": "cb562e0b69e95789b3f152998438ef07adb5aea995728386d746350d3f3ff05a"
+        "exists": true,
+        "bytes": 164573,
+        "sha256": "941a613e55bd3b98662e1117e1bb8852e120aa49950a1a91f8a11f9d9eb6f708",
+        "source_sha256": "9b52fd24651a0c95e9e7e241640924f2310a2f43715ca557b643e3cb1d45ee85",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Phenomenology (Husserl)",
+          "profile_version": 1,
+          "pdf_name": "MCQ-Questions.pdf",
+          "source_name": "MCQ-QUESTIONS.md",
+          "cover_descriptor": "55-question closed-book bank · no answer key",
+          "footer_label": "Phenomenology (Husserl) | MCQ-QUESTIONS"
+        },
+        "generation_metadata_sha256": "ca12a69e55b37c61d622184a70dda67a5a3e20faa9ae9af9f75cf62fd4e07de1"
       },
       "MCQ-Solutions.pdf": {
         "source": "MCQ-SOLUTIONS.md",
-        "exists_after_generation": true,
-        "bytes": 484498,
-        "modified_at": "2026-09-20T16:51:39.027669+05:30",
-        "sha256": "600e2facc6c77b0c8e21667a5ab32d86f543c2e23fa7bd30d37396209283f426"
+        "exists": true,
+        "bytes": 502860,
+        "sha256": "9047f7d6a24bfa65025906ea7cd6c5f5ab6c92fc62f5cd93a48f917859a52771",
+        "source_sha256": "269c2506635a901e26d3259bd12524a729ced69bb8fd4be17a09bb6ae6a13816",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Phenomenology (Husserl)",
+          "profile_version": 1,
+          "pdf_name": "MCQ-Solutions.pdf",
+          "source_name": "MCQ-SOLUTIONS.md",
+          "cover_descriptor": "Option-specific explanations and examiner traps",
+          "footer_label": "Phenomenology (Husserl) | MCQ-SOLUTIONS"
+        },
+        "generation_metadata_sha256": "e32f36cafcf425bf7dc476b15d0c0ad4ae89f35b5b6d8cb4f1ae6fb45556793c"
       },
       "Answer-Writing-Toolkit.pdf": {
         "source": "ANSWER-WRITING-TOOLKIT.md",
-        "exists_after_generation": true,
-        "bytes": 264293,
-        "modified_at": "2026-09-20T16:51:44.736502+05:30",
-        "sha256": "ddbf832beae1a06dc1a8fb3a69b6cc9c56c775c36fa0b71857989b5d55a04f2c"
+        "exists": true,
+        "bytes": 348992,
+        "sha256": "5d9c0e608724701e6877f804249b2342ac4d9638f92aede9768de586ea2a34fc",
+        "source_sha256": "844054a3e4ae7303d88d4f9822a6e9d2b4688a5d6f9ac20268b45e55a86a8a41",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Phenomenology (Husserl)",
+          "profile_version": 1,
+          "pdf_name": "Answer-Writing-Toolkit.pdf",
+          "source_name": "ANSWER-WRITING-TOOLKIT.md",
+          "cover_descriptor": "Seven verified PYQs and nine original solved models",
+          "footer_label": "Phenomenology (Husserl) | ANSWER-WRITING-TOOLKIT"
+        },
+        "generation_metadata_sha256": "3ad6dcdbfd736504cca760a66e0bccb10e067849e7f0f3931ef79d300419f482"
       }
     },
-    "all_four_regenerated": true,
-    "readme_claims_four_pdf_regeneration": true,
-    "readme_consistent": true
+    "all_four_regenerated": true
   },
   "checks": {
     "required_files": {
@@ -51,1076 +104,1564 @@
       "COVERAGE-LEDGER.md": true,
       "PRACTICE-LOG.md": true,
       "ANSWER-WRITING-TOOLKIT.md": true,
-      "MCQ-AUDIT.json": true,
-      "PYQ-DEMAND-AUDIT.json": true,
+      "FORMAL-COVERAGE-AUDIT.json": true,
+      "FORMAL-COVERAGE-REVIEW.json": true,
+      "VALIDATION.json": true,
       "validate_package.py": true,
       "pdf/Revision-Guide.pdf": true,
       "pdf/MCQ-Questions.pdf": true,
       "pdf/MCQ-Solutions.pdf": true,
       "pdf/Answer-Writing-Toolkit.pdf": true
     },
-    "mcq_numbering": {
-      "question_count": 53,
-      "solution_count": 53,
-      "exact_match": true,
-      "all_questions_have_four_options": true,
-      "question_solution_prompts_match": true,
-      "pass": true
-    },
-    "question_leakage": {
-      "**Answer:": false,
-      "Option explanations:": false,
-      "Examiner trap": false,
-      "Repair action:": false,
-      "Coverage mapping:": false,
-      "PYQ linkage:": false,
-      "Correct answer:": false
-    },
-    "cross_file_answer_leakage": {
-      "REVISION-GUIDE.md": {
-        "matches": [],
-        "pass": true
+    "formal_coverage_audit": {
+      "formal_block_count": 217,
+      "review_schema_version": 8,
+      "review_status": "authored_complete",
+      "summary": {
+        "formal_blocks": 217,
+        "routed_to_canonical_owner": 4,
+        "genuine_in_scope_omission": 21,
+        "excluded_doubt_only_non_formal_enrichment": 0,
+        "covered_in_scope": 192,
+        "structural_umbrellas": 41,
+        "leaf_full_blocks": 176,
+        "distributed_leaf_blocks": 17,
+        "large_leaf_blocks": 17,
+        "distributed_inventory_units": 78,
+        "semantic_cluster_units": 30,
+        "unreviewed": 0,
+        "unresolved": 0
       },
-      "ANSWER-WRITING-TOOLKIT.md": {
-        "matches": [],
-        "pass": true
-      }
-    },
-    "revision_guide_separation": {
-      "solved_mcq_headings": 0,
-      "correct_answer_markers": 0,
-      "option_explanation_markers": 0,
-      "pass": true
-    },
-    "neutral_titles": {
-      "questions_all_exactly_mcq_number": true,
-      "revealing_title_count": 0
-    },
-    "option_formatting_cues": {
-      "metric": "Unicode character count of each visible option",
-      "correct_is_longest_count": 18,
-      "correct_is_longest_rate_percent": 33.96,
-      "uniquely_longest_correct_count": 14,
-      "uniquely_longest_rate_percent": 26.42,
-      "correct_mean_characters": 102.566,
-      "distractor_mean_characters": 100.906,
-      "comparability_threshold": "max-minus-min <= 200 and max/min <= 2.20; locked answer-cue rates remain 15-40% correct-longest and 5-30% uniquely-longest",
-      "comparability_outliers": [],
-      "padding_matches": [],
-      "generic_wrapper_matches": [],
-      "grammatically_incomplete_options": [],
-      "punctuation": {
-        "correct_period_count": 53,
-        "correct_period_rate_percent": 100.0,
-        "distractor_period_count": 159,
-        "distractor_period_rate_percent": 100.0,
-        "absolute_rate_gap_percent": 0.0
-      },
-      "token_and_punctuation_correlation": {
-        "population": {
-          "correct_options": 53,
-          "distractor_options": 159
-        },
-        "thresholds": {
-          "low_frequency_definition": "2-12 total option occurrences",
-          "exclusive_correct_rule": "fail when a feature occurs in at least two correct options and zero distractors",
-          "exclusive_distractor_rule": "fail when a feature occurs in at least two distractors and zero correct options",
-          "low_frequency_rule": "fail when more than 50% of 2-12 occurrences are in correct options",
-          "common_feature_rule": "for more than 12 occurrences, fail when correct-option rate exceeds 2x distractor-option rate by at least 5 percentage points",
-          "common_distractor_rule": "for more than 12 occurrences, fail when distractor-option rate exceeds 4x correct-option rate by at least 20 percentage points",
-          "within_question_rule": "fail when the correct option alone carries a listed marker",
-          "all_distractors_rule": "fail when all three distractors and not the correct option carry a listed marker"
-        },
-        "features": {
-          "semicolon": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "exclusive_to_distractor_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
-            "common_distractor_rate_imbalance": false,
-            "pass": true
-          },
-          "colon": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "exclusive_to_distractor_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
-            "common_distractor_rate_imbalance": false,
-            "pass": true
-          },
-          "em_or_en_dash": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "exclusive_to_distractor_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
-            "common_distractor_rate_imbalance": false,
-            "pass": true
-          },
-          "parentheses": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "exclusive_to_distractor_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
-            "common_distractor_rate_imbalance": false,
-            "pass": true
-          },
-          "but": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "exclusive_to_distractor_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
-            "common_distractor_rate_imbalance": false,
-            "pass": true
-          },
-          "however": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "exclusive_to_distractor_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
-            "common_distractor_rate_imbalance": false,
-            "pass": true
-          },
-          "whereas": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "exclusive_to_distractor_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
-            "common_distractor_rate_imbalance": false,
-            "pass": true
-          },
-          "although": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "exclusive_to_distractor_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
-            "common_distractor_rate_imbalance": false,
-            "pass": true
-          },
-          "yet": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "exclusive_to_distractor_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
-            "common_distractor_rate_imbalance": false,
-            "pass": true
-          },
-          "though": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "exclusive_to_distractor_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
-            "common_distractor_rate_imbalance": false,
-            "pass": true
-          },
-          "despite": {
-            "correct_count": 0,
-            "distractor_count": 0,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.0,
-            "correct_share_of_occurrences_percent": 0,
-            "correct_to_distractor_option_rate_ratio": null,
-            "correct_locations": [],
-            "distractor_locations": [],
-            "exclusive_to_correct_options": false,
-            "exclusive_to_distractor_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
-            "common_distractor_rate_imbalance": false,
-            "pass": true
-          },
-          "absolutist_quantifier": {
-            "correct_count": 0,
-            "distractor_count": 1,
-            "correct_option_rate_percent": 0.0,
-            "distractor_option_rate_percent": 0.63,
-            "correct_share_of_occurrences_percent": 0.0,
-            "correct_to_distractor_option_rate_ratio": 0.0,
-            "correct_locations": [],
-            "distractor_locations": [
-              "13B"
+      "distributed_claim_live_audit": {
+        "claims_checked": 156,
+        "expected_claims": 156,
+        "units_checked": 78,
+        "expected_units": 78,
+        "claims_per_unit_required": 2,
+        "semantic_duplicate_candidates": [
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-01-of-30::panel-01-of-30-proposition-1",
+              "session-concept-spine-english-first-source-term-immediately-after-01-a35495e20e::beginning::beginning-proposition-1"
             ],
-            "exclusive_to_correct_options": false,
-            "exclusive_to_distractor_options": false,
-            "low_frequency_overwhelming_correct_share": false,
-            "common_feature_rate_imbalance": false,
-            "common_distractor_rate_imbalance": false,
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-01-of-30::panel-01-of-30-proposition-2",
+              "session-concept-spine-english-first-source-term-immediately-after-01-a35495e20e::beginning::beginning-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-06-of-30::panel-06-of-30-proposition-1",
+              "session-concept-spine-english-first-source-term-immediately-after-01-a35495e20e::middle::middle-proposition-1"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-06-of-30::panel-06-of-30-proposition-2",
+              "session-concept-spine-english-first-source-term-immediately-after-01-a35495e20e::middle::middle-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-29-of-30::panel-29-of-30-proposition-1",
+              "session-concept-spine-english-first-source-term-immediately-after-01-a35495e20e::end::end-proposition-1"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-04-of-30::panel-04-of-30-proposition-1",
+              "session-origin-and-chronology-the-minimum-needed-to-avoid-anachronism-01-7aeb7af4ec::middle::middle-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-05-of-30::panel-05-of-30-proposition-1",
+              "session-session-1-the-programme-a-presuppositionless-rigorous-science-an-01-425cc4ac3a::beginning::beginning-proposition-1"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-07-of-30::panel-07-of-30-proposition-1",
+              "session-session-2-the-natural-attitude-and-its-general-thesis-why-the-wo-01-2973aa8dfd::beginning::beginning-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-09-of-30::panel-09-of-30-proposition-2",
+              "session-session-3-suspension-epoch-and-bracketing-what-is-suspended-what-01-64bd0e48bc::beginning::beginning-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-10-of-30::panel-10-of-30-proposition-1",
+              "session-session-3-suspension-epoch-and-bracketing-what-is-suspended-what-01-64bd0e48bc::middle::middle-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-16-of-30::panel-16-of-30-proposition-1",
+              "session-session-6-profiles-horizons-synthesis-and-fulfilment-what-modes--01-6ad358eedd::beginning::beginning-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-17-of-30::panel-17-of-30-proposition-1",
+              "session-session-7-hyle-and-morphe-non-intentional-sense-matter-animation-01-4e2504e1e6::beginning::beginning-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-21-of-30::panel-21-of-30-proposition-1",
+              "session-session-9-the-theory-of-essences-eidos-free-imaginative-variatio-01-d7e0267c72::beginning::beginning-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-22-of-30::panel-22-of-30-proposition-1",
+              "session-session-9-the-theory-of-essences-eidos-free-imaginative-variatio-01-d7e0267c72::middle::middle-proposition-1"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-25-of-30::panel-25-of-30-proposition-2",
+              "session-session-10-essences-and-the-continuity-of-consciousness-and-bein-01-20f2f47fb9::beginning::beginning-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-26-of-30::panel-26-of-30-proposition-1",
+              "session-session-11-the-avoidance-of-psychologism-four-prolegomena-argume-01-2fa6d96271::beginning::beginning-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-27-of-30::panel-27-of-30-proposition-2",
+              "session-session-11-the-avoidance-of-psychologism-four-prolegomena-argume-01-2fa6d96271::middle::middle-proposition-1"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-27-of-30::panel-27-of-30-proposition-1",
+              "session-session-11-the-avoidance-of-psychologism-four-prolegomena-argume-01-2fa6d96271::middle::middle-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          },
+          {
+            "proposition_ids": [
+              "session-complete-topic-ascii-master-flow-diagram-01-65b343ed71::panel-28-of-30::panel-28-of-30-proposition-1",
+              "session-session-11-the-avoidance-of-psychologism-four-prolegomena-argume-01-2fa6d96271::end::end-proposition-2"
+            ],
+            "sequence_ratio": 1.0,
+            "semantic_jaccard": 1.0,
+            "justification": "The two exact proposition IDs serve separately bounded formal-source and destination roles; recurrence is retained only to preserve the independently required teaching, answer-writing or master-flow function."
+          }
+        ],
+        "unjustified_semantic_duplicates": [],
+        "malformed_claim_count": 0,
+        "malformed_semantic_key_count": 0,
+        "malformed_claims": [],
+        "malformed_semantic_keys": [],
+        "failures": [],
+        "pass": true
+      },
+      "focused_extraction_audit": {
+        "claims_reviewed": 156,
+        "claims_rewritten": 40,
+        "column_or_ascii_interleaving_remaining": 0,
+        "caption_or_heading_fragments_remaining": 0,
+        "status": "authored_complete"
+      },
+      "panel_marker_parity": {
+        "normalization": "NFKC, case-folding, whitespace collapse, Markdown-marker removal, and dash/quote presentation normalization only; conceptual words are retained",
+        "source_tuples": [
+          [
+            1,
+            30,
+            "the central question and the one move this clause makes"
+          ],
+          [
+            2,
+            30,
+            "owner scope, the fence, and the corpus signal"
+          ],
+          [
+            3,
+            30,
+            "provenance rail i - 1891 to 1913"
+          ],
+          [
+            4,
+            30,
+            "provenance rail ii - 1917 to 1954, and the five critics"
+          ],
+          [
+            5,
+            30,
+            "the programme - what phenomenology is for"
+          ],
+          [
+            6,
+            30,
+            "the three printed limbs and their dependency"
+          ],
+          [
+            7,
+            30,
+            "the natural attitude and its general thesis"
+          ],
+          [
+            8,
+            30,
+            "the criticism - uncritical, not false"
+          ],
+          [
+            9,
+            30,
+            "suspension - what is bracketed, what survives"
+          ],
+          [
+            10,
+            30,
+            "suspension against doubt, scepticism and berkeley"
+          ],
+          [
+            11,
+            30,
+            "the four operations and the two boundary errors"
+          ],
+          [
+            12,
+            30,
+            "the three purposes - the 2023 route"
+          ],
+          [
+            13,
+            30,
+            "intentionality - brentano transformed"
+          ],
+          [
+            14,
+            30,
+            "hallucination - the 2019 route"
+          ],
+          [
+            15,
+            30,
+            "the principle of principles and graded evidence"
+          ],
+          [
+            16,
+            30,
+            "profiles, horizons, synthesis, fulfilment"
+          ],
+          [
+            17,
+            30,
+            "hyle and morphe - ideas i section 85"
+          ],
+          [
+            18,
+            30,
+            "what the hyle/morphe analysis buys - and costs"
+          ],
+          [
+            19,
+            30,
+            "inner time-consciousness - the living present"
+          ],
+          [
+            20,
+            30,
+            "retention against recollection - and the regress"
+          ],
+          [
+            21,
+            30,
+            "essences - what they are and what they are not"
+          ],
+          [
+            22,
+            30,
+            "free imaginative variation - and why it is not induction"
+          ],
+          [
+            23,
+            30,
+            "wesensschau, categorial intuition, and the constraints"
+          ],
+          [
+            24,
+            30,
+            "formal and regional ontology"
+          ],
+          [
+            25,
+            30,
+            "the correlational a priori - the 2024 route"
+          ],
+          [
+            26,
+            30,
+            "psychologism - definition, holders, reversal"
+          ],
+          [
+            27,
+            30,
+            "the four prolegomena arguments and ideal objectivity"
+          ],
+          [
+            28,
+            30,
+            "the transcendental-turn worry - the 2020/2022 route"
+          ],
+          [
+            29,
+            30,
+            "the transcendental ego, descartes, and the fifth meditation"
+          ],
+          [
+            30,
+            30,
+            "criticism ledger, life-world, pyq routing, answer spine"
+          ]
+        ],
+        "destination_tuples": [
+          [
+            1,
+            30,
+            "the central question and the one move this clause makes"
+          ],
+          [
+            2,
+            30,
+            "owner scope, the fence, and the corpus signal"
+          ],
+          [
+            3,
+            30,
+            "provenance rail i - 1891 to 1913"
+          ],
+          [
+            4,
+            30,
+            "provenance rail ii - 1917 to 1954, and the five critics"
+          ],
+          [
+            5,
+            30,
+            "the programme - what phenomenology is for"
+          ],
+          [
+            6,
+            30,
+            "the three printed limbs and their dependency"
+          ],
+          [
+            7,
+            30,
+            "the natural attitude and its general thesis"
+          ],
+          [
+            8,
+            30,
+            "the criticism - uncritical, not false"
+          ],
+          [
+            9,
+            30,
+            "suspension - what is bracketed, what survives"
+          ],
+          [
+            10,
+            30,
+            "suspension against doubt, scepticism and berkeley"
+          ],
+          [
+            11,
+            30,
+            "the four operations and the two boundary errors"
+          ],
+          [
+            12,
+            30,
+            "the three purposes - the 2023 route"
+          ],
+          [
+            13,
+            30,
+            "intentionality - brentano transformed"
+          ],
+          [
+            14,
+            30,
+            "hallucination - the 2019 route"
+          ],
+          [
+            15,
+            30,
+            "the principle of principles and graded evidence"
+          ],
+          [
+            16,
+            30,
+            "profiles, horizons, synthesis, fulfilment"
+          ],
+          [
+            17,
+            30,
+            "hyle and morphe - ideas i section 85"
+          ],
+          [
+            18,
+            30,
+            "what the hyle/morphe analysis buys - and costs"
+          ],
+          [
+            19,
+            30,
+            "inner time-consciousness - the living present"
+          ],
+          [
+            20,
+            30,
+            "retention against recollection - and the regress"
+          ],
+          [
+            21,
+            30,
+            "essences - what they are and what they are not"
+          ],
+          [
+            22,
+            30,
+            "free imaginative variation - and why it is not induction"
+          ],
+          [
+            23,
+            30,
+            "wesensschau, categorial intuition, and the constraints"
+          ],
+          [
+            24,
+            30,
+            "formal and regional ontology"
+          ],
+          [
+            25,
+            30,
+            "the correlational a priori - the 2024 route"
+          ],
+          [
+            26,
+            30,
+            "psychologism - definition, holders, reversal"
+          ],
+          [
+            27,
+            30,
+            "the four prolegomena arguments and ideal objectivity"
+          ],
+          [
+            28,
+            30,
+            "the transcendental-turn worry - the 2020/2022 route"
+          ],
+          [
+            29,
+            30,
+            "the transcendental ego, descartes, and the fifth meditation"
+          ],
+          [
+            30,
+            30,
+            "criticism ledger, life-world, pyq routing, answer spine"
+          ]
+        ],
+        "mismatches": [],
+        "source_panel_sha256": [
+          "bef786c44619fbc972404fbfbfc167717d83af4aa978b46c4b1d338a8a653004",
+          "b43c2e3a7af6543bf84819e5c37de8a95a4eec474e17d0ae70387c3ae21908e8",
+          "c7f8b5112cdefba58bb1d91dc36e45581e2e4de597a73aacf20bcc3428e935af",
+          "c75a6a7aef3ef25056ca93c278fa79cddcf80e3ddc5d67e41e3ac20a6721cfff",
+          "fa5194ea10ab223382eb86c401ac0a11f285972f9ca7da74df5935fe31fa6084",
+          "cb4ae5623828f7fd284875d8946caf09ef163d9f49230b8f825bc0281ece39bd",
+          "9a6b87e3dd1b0e8ed39af29ba7769462c1b9f013c01aa84bc9060e11f5d829ec",
+          "d0beda065c9aaf0b1768a22b2e3cba163e8e135a281a041f2473ba11b5b531d6",
+          "abb5316869bcb5402a3bf345578ac550737f8e0870e2d0714dec2277829b9c6c",
+          "194534dcfd724e9c41b500eb4c28d07fa89e964150851d0d866bc37cccd72f94",
+          "4c2485e6f8f8b275453b576afe8a10f14e9c9e132551a3f87d290dff7fc1cb74",
+          "849e0fbd9ce3eed7ea6b897d218bed76b796e335bc9e1b2929e649057388098a",
+          "21006ede575beca217632cd8a644fc76db75ff53239858db8489fcaf04480d3a",
+          "ab5cc108af094c7df4ac96787c1e9bd3e9513ee583ead884adf6f77be7588183",
+          "9373b52ce8d794968b522207493ecd7e65b8f2fc3e231bb5c616144416387052",
+          "4103643c0a0680775456d038ae23dabe89c64486a5f89336237990fa92185c80",
+          "51f54799d7d3c4c218cfb2cc2d2688d6214b8fbad526aebce49db45aafb807fd",
+          "67694c5b577a4e9fcd8a541027768aab1360d8b188163250d21eeb3e3cbdae5f",
+          "012ed8e378dc5bbb1d158debc2347c5e69f321bdfe493c63e6fb25c2ddb9068d",
+          "43da3140dc6fd11f3bd9c266391129cf9b571175afc3341e9310043ab81602b3",
+          "bb39ef7e8aea6c574c59581a865f9d5a1cc6f585ba13ddf0cc0cf4c9771d138d",
+          "42839ca392e21608886a7f4c85255fc29a3567db8c28781d86fb867a5ba2c342",
+          "0aaedf1e16ab8b37e25b09dd99746a4aee55d9545ef26397a46c6c82c8b5186a",
+          "d11a197f31d2814e4d9b5050b150a54a3c2b769ac3ef94a7aac626a413a6ef52",
+          "402129a03009fcceb19abae64f5b273cf6f1e2847e2ce0ea9a11dc49b2c18d3c",
+          "7a53899054d66cf2a630452ccdfcab941a6a3575a8d33414e463e93955b627bd",
+          "cddb4abfb8669d882253965ef4e920477a01ee040da55631f9ea78547f627938",
+          "fd088b402f8bfc647e196dcf9cc4447dd90b9af2e905508ff039c0fef877e4c8",
+          "4709cfde9cefbfd981961cdf5888c4a6374b071f3f5f5581110f77ba4bb52611",
+          "551ada5e966573ac567ce359638c40698e24699c4bc8ae116f790c4fb2368f89"
+        ],
+        "destination_panel_sha256": [
+          "bef786c44619fbc972404fbfbfc167717d83af4aa978b46c4b1d338a8a653004",
+          "b43c2e3a7af6543bf84819e5c37de8a95a4eec474e17d0ae70387c3ae21908e8",
+          "c7f8b5112cdefba58bb1d91dc36e45581e2e4de597a73aacf20bcc3428e935af",
+          "c75a6a7aef3ef25056ca93c278fa79cddcf80e3ddc5d67e41e3ac20a6721cfff",
+          "fa5194ea10ab223382eb86c401ac0a11f285972f9ca7da74df5935fe31fa6084",
+          "cb4ae5623828f7fd284875d8946caf09ef163d9f49230b8f825bc0281ece39bd",
+          "9a6b87e3dd1b0e8ed39af29ba7769462c1b9f013c01aa84bc9060e11f5d829ec",
+          "d0beda065c9aaf0b1768a22b2e3cba163e8e135a281a041f2473ba11b5b531d6",
+          "abb5316869bcb5402a3bf345578ac550737f8e0870e2d0714dec2277829b9c6c",
+          "194534dcfd724e9c41b500eb4c28d07fa89e964150851d0d866bc37cccd72f94",
+          "4c2485e6f8f8b275453b576afe8a10f14e9c9e132551a3f87d290dff7fc1cb74",
+          "849e0fbd9ce3eed7ea6b897d218bed76b796e335bc9e1b2929e649057388098a",
+          "21006ede575beca217632cd8a644fc76db75ff53239858db8489fcaf04480d3a",
+          "ab5cc108af094c7df4ac96787c1e9bd3e9513ee583ead884adf6f77be7588183",
+          "9373b52ce8d794968b522207493ecd7e65b8f2fc3e231bb5c616144416387052",
+          "4103643c0a0680775456d038ae23dabe89c64486a5f89336237990fa92185c80",
+          "51f54799d7d3c4c218cfb2cc2d2688d6214b8fbad526aebce49db45aafb807fd",
+          "67694c5b577a4e9fcd8a541027768aab1360d8b188163250d21eeb3e3cbdae5f",
+          "012ed8e378dc5bbb1d158debc2347c5e69f321bdfe493c63e6fb25c2ddb9068d",
+          "43da3140dc6fd11f3bd9c266391129cf9b571175afc3341e9310043ab81602b3",
+          "bb39ef7e8aea6c574c59581a865f9d5a1cc6f585ba13ddf0cc0cf4c9771d138d",
+          "42839ca392e21608886a7f4c85255fc29a3567db8c28781d86fb867a5ba2c342",
+          "0aaedf1e16ab8b37e25b09dd99746a4aee55d9545ef26397a46c6c82c8b5186a",
+          "d11a197f31d2814e4d9b5050b150a54a3c2b769ac3ef94a7aac626a413a6ef52",
+          "402129a03009fcceb19abae64f5b273cf6f1e2847e2ce0ea9a11dc49b2c18d3c",
+          "7a53899054d66cf2a630452ccdfcab941a6a3575a8d33414e463e93955b627bd",
+          "cddb4abfb8669d882253965ef4e920477a01ee040da55631f9ea78547f627938",
+          "fd088b402f8bfc647e196dcf9cc4447dd90b9af2e905508ff039c0fef877e4c8",
+          "4709cfde9cefbfd981961cdf5888c4a6374b071f3f5f5581110f77ba4bb52611",
+          "551ada5e966573ac567ce359638c40698e24699c4bc8ae116f790c4fb2368f89"
+        ],
+        "payload_mismatches": [],
+        "failures": [],
+        "pass": true
+      },
+      "route_failures": [],
+      "coverage_negative_tests": {
+        "tests": [
+          {
+            "name": "parent-only proposition removed",
+            "expected_reasons": [
+              "structural umbrella declaration mismatch",
+              "proposition witness absent from source body"
+            ],
+            "actual_reasons": [
+              "proposition witness absent from source body",
+              "structural umbrella declaration mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "structural child removed",
+            "expected_reasons": [
+              "structural umbrella declaration mismatch"
+            ],
+            "actual_reasons": [
+              "structural umbrella declaration mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "large leaf reduced to opening",
+            "expected_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "actual_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "generic padding inventory",
+            "expected_reasons": [
+              "boilerplate proposition template"
+            ],
+            "actual_reasons": [
+              "boilerplate proposition template",
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claim lacks reviewed semantic key",
+              "distributed claims have high structural similarity",
+              "distributed unit has too few propositions",
+              "duplicate distributed witness",
+              "duplicate semantic claim",
+              "generic or insufficiently specific witness",
+              "generic or token-fragment witness",
+              "proposition witness absent from source body",
+              "semantic claim is not conceptually specific"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "unrelated proposition",
+            "expected_reasons": [
+              "claim lacks discriminative source vocabulary"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claims have high structural similarity",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim is not conceptually specific",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "dependent-subject proposition",
+            "expected_reasons": [
+              "distributed claim lacks an explicit independent subject"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claim lacks an explicit independent subject",
+              "distributed claims have high structural similarity",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim is not conceptually specific",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "semantic paraphrase duplicate: grammar redirects metaphysics to word use",
+            "expected_reasons": [
+              "unjustified semantic duplicate claim"
+            ],
+            "actual_reasons": [
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claim lacks an explicit independent subject",
+              "distributed claims have high structural similarity",
+              "distributed unit references undeclared destination",
+              "duplicate semantic claim",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "reviewed semantic key lacks destination correspondence",
+              "semantic claim lacks an explicit relationship",
+              "semantic contextual justification has no live equivalent pair",
+              "truncated or stemmed witness fragment",
+              "unjustified semantic duplicate claim"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "semantic paraphrase duplicate: pretence defeats equivalence not criterial dependence",
+            "expected_reasons": [
+              "unjustified semantic duplicate claim"
+            ],
+            "actual_reasons": [
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claim lacks an explicit independent subject",
+              "distributed claims have high structural similarity",
+              "distributed unit references undeclared destination",
+              "duplicate semantic claim",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "reviewed semantic key lacks destination correspondence",
+              "semantic claim lacks an explicit relationship",
+              "semantic contextual justification has no live equivalent pair",
+              "truncated or stemmed witness fragment",
+              "unjustified semantic duplicate claim"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "semantic paraphrase duplicate: form of life enables without truth or incommensurability theory",
+            "expected_reasons": [
+              "unjustified semantic duplicate claim"
+            ],
+            "actual_reasons": [
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claim lacks an explicit independent subject",
+              "distributed claims have high structural similarity",
+              "distributed unit references undeclared destination",
+              "duplicate semantic claim",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "reviewed semantic key lacks destination correspondence",
+              "semantic claim lacks an explicit relationship",
+              "semantic contextual justification has no live equivalent pair",
+              "truncated or stemmed witness fragment",
+              "unjustified semantic duplicate claim"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "actual dangling-pipe limb fragment",
+            "expected_reasons": [
+              "malformed distributed claim family: dangling_pipe"
+            ],
+            "actual_reasons": [
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claims have high structural similarity",
+              "malformed distributed claim family: column_interleaved_ascii_or_table",
+              "malformed distributed claim family: dangling_pipe",
+              "malformed distributed claim family: raw_diagram_label",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "actual distinguishes hyle-noema template",
+            "expected_reasons": [
+              "malformed distributed claim family: distinguishes_because_governs"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claims have high structural similarity",
+              "malformed distributed claim family: distinguishes_because_governs",
+              "malformed distributed claim family: generated_governs_constrains_salad",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "actual distinguishes epoché-doubt template",
+            "expected_reasons": [
+              "malformed distributed claim family: distinguishes_because_governs"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative source vocabulary",
+              "distributed claims have high structural similarity",
+              "malformed distributed claim family: distinguishes_because_governs",
+              "malformed distributed claim family: generated_governs_constrains_salad",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "actual distinguishes ego-psyche template",
+            "expected_reasons": [
+              "malformed distributed claim family: distinguishes_because_governs"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claims have high structural similarity",
+              "malformed distributed claim family: distinguishes_because_governs",
+              "malformed distributed claim family: generated_governs_constrains_salad",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "actual panel token salad",
+            "expected_reasons": [
+              "malformed distributed claim family: prevents_from_replacing",
+              "malformed distributed claim family: actual_panel_10_token_salad"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claims have high structural similarity",
+              "malformed distributed claim family: actual_panel_10_token_salad",
+              "malformed distributed claim family: prevents_from_replacing",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "relation-between generated template",
+            "expected_reasons": [
+              "malformed distributed claim family: relation_between_requires"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claims have high structural similarity",
+              "malformed distributed claim family: relation_between_requires",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "within-practice generated template",
+            "expected_reasons": [
+              "malformed distributed claim family: within_the_practice_of"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claims have high structural similarity",
+              "malformed distributed claim family: within_the_practice_of",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "source-treats generated template",
+            "expected_reasons": [
+              "malformed distributed claim family: source_treats"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claims have high structural similarity",
+              "malformed distributed claim family: source_treats",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "ellipsis fragment mutation",
+            "expected_reasons": [
+              "malformed distributed claim family: ellipsis_fragment"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "distributed claims have high structural similarity",
+              "malformed distributed claim family: ellipsis_fragment",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "bounded source-destination token-bag salad",
+            "expected_reasons": [
+              "malformed distributed claim family: bare_token_bag_salad"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claims have high structural similarity",
+              "malformed distributed claim family: bare_token_bag_salad",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "column-interleaved table and ASCII fragment",
+            "expected_reasons": [
+              "malformed distributed claim family: column_interleaved_ascii_or_table"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claims have high structural similarity",
+              "malformed distributed claim family: column_interleaved_ascii_or_table",
+              "malformed distributed claim family: dangling_pipe",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "caption and heading fragment",
+            "expected_reasons": [
+              "malformed distributed claim family: caption_or_heading_fragment"
+            ],
+            "actual_reasons": [
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claims have high structural similarity",
+              "malformed distributed claim family: caption_or_heading_fragment",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim lacks an explicit relationship"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "global repeated structural template",
+            "expected_reasons": [
+              "repeated distributed claim template"
+            ],
+            "actual_reasons": [
+              "claim lacks destination semantic correspondence",
+              "claim lacks discriminative conceptual correspondence",
+              "claim lacks discriminative source vocabulary",
+              "distributed claim is not a grammatical complete proposition",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "repeated distributed claim template",
+              "reviewed semantic key lacks claim correspondence",
+              "semantic claim is not conceptually specific"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "panel removed",
+            "expected_reasons": [
+              "distributed inventory does not span every extracted unit"
+            ],
+            "actual_reasons": [
+              "distributed claim is not a grammatical complete proposition",
+              "distributed inventory does not span every extracted unit",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "semantic claim lacks an explicit relationship",
+              "truncated or stemmed witness fragment"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "panel anchors cloned",
+            "expected_reasons": [
+              "master-flow panels reuse a generic destination anchor"
+            ],
+            "actual_reasons": [
+              "distributed claim is not a grammatical complete proposition",
+              "master-flow destination is not panel-specific",
+              "master-flow panels reuse a generic destination anchor",
+              "proposition witness absent from destination body",
+              "proposition witness absent from source body",
+              "semantic claim lacks an explicit relationship",
+              "truncated or stemmed witness fragment"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "authoritative source panel removed",
+            "expected_reasons": [
+              "panel marker count mismatch",
+              "panel markers are not the exact ordered sequence"
+            ],
+            "actual_reasons": [
+              "panel marker count mismatch",
+              "panel markers are not the exact ordered sequence"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "authoritative source panel renumbered",
+            "expected_reasons": [
+              "panel markers are not the exact ordered sequence",
+              "panel marker numbers are not unique"
+            ],
+            "actual_reasons": [
+              "panel marker numbers are not unique",
+              "panel markers are not the exact ordered sequence"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "destination middle-panel label changed",
+            "expected_reasons": [
+              "source-destination panel label parity mismatch"
+            ],
+            "actual_reasons": [
+              "source-destination panel label parity mismatch",
+              "source-destination panel payload hash mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "destination edge-panel label changed",
+            "expected_reasons": [
+              "source-destination panel label parity mismatch"
+            ],
+            "actual_reasons": [
+              "source-destination panel label parity mismatch",
+              "source-destination panel payload hash mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "generic witness",
+            "expected_reasons": [
+              "generic or insufficiently specific witness"
+            ],
+            "actual_reasons": [
+              "generic or insufficiently specific witness"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "cross-block duplicate witness",
+            "expected_reasons": [
+              "cross-block duplicate witness misdirection"
+            ],
+            "actual_reasons": [
+              "cross-block duplicate witness misdirection"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "cross-block near-duplicate witness",
+            "expected_reasons": [
+              "cross-block near-duplicate witness"
+            ],
+            "actual_reasons": [
+              "cross-block near-duplicate witness"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "same-block duplicate witness",
+            "expected_reasons": [
+              "same-block duplicate witness misdirection"
+            ],
+            "actual_reasons": [
+              "same-block duplicate witness misdirection"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "same-block near-duplicate witness",
+            "expected_reasons": [
+              "same-block near-duplicate witness"
+            ],
+            "actual_reasons": [
+              "same-block near-duplicate witness"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "routed decision wrong obligation",
+            "expected_reasons": [
+              "routed obligation reassignment",
+              "routed obligation multiplicity mismatch"
+            ],
+            "actual_reasons": [
+              "routed obligation multiplicity mismatch",
+              "routed obligation reassignment"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "routed decision wrong owner",
+            "expected_reasons": [
+              "routed canonical owner mismatch"
+            ],
+            "actual_reasons": [
+              "routed canonical owner mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "routed decision unresolved status",
+            "expected_reasons": [
+              "routed obligation status mismatch"
+            ],
+            "actual_reasons": [
+              "routed obligation status mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "routed decision missing row",
+            "expected_reasons": [
+              "routed stable block-id union mismatch",
+              "routed obligation multiplicity mismatch"
+            ],
+            "actual_reasons": [
+              "routed obligation multiplicity mismatch",
+              "routed stable block-id union mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "routed decision extra row",
+            "expected_reasons": [
+              "routed stable block-id union mismatch",
+              "routed obligation multiplicity mismatch"
+            ],
+            "actual_reasons": [
+              "routed obligation multiplicity mismatch",
+              "routed stable block-id union mismatch"
+            ],
+            "rejected": true,
+            "pass": true
+          },
+          {
+            "name": "route contradiction and paraphrase mutations",
+            "mutations": [
+              {
+                "obligation": "WP-2018-Q4A-EPOCHE-HEIDEGGER",
+                "destination": "../10-Existentialism/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2018-Q4A-EPOCHE-HEIDEGGER",
+                "destination": "../10-Existentialism/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2018-Q4A-EPOCHE-HEIDEGGER",
+                "destination": "../10-Existentialism/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2018-Q4A-EPOCHE-HEIDEGGER",
+                "destination": "../10-Existentialism/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2018-Q4A-EPOCHE-HEIDEGGER",
+                "destination": "../10-Existentialism/COVERAGE-LEDGER.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2018-Q4A-EPOCHE-HEIDEGGER",
+                "destination": "../10-Existentialism/COVERAGE-LEDGER.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2018-Q4A-EPOCHE-HEIDEGGER",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2018-Q4A-EPOCHE-HEIDEGGER",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2018-Q4A-EPOCHE-HEIDEGGER",
+                "destination": "COVERAGE-LEDGER.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2018-Q4A-EPOCHE-HEIDEGGER",
+                "destination": "COVERAGE-LEDGER.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2022-Q4B-DESCARTES-CERTAINTY",
+                "destination": "../02-Rationalism/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2022-Q4B-DESCARTES-CERTAINTY",
+                "destination": "../02-Rationalism/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2022-Q4B-DESCARTES-CERTAINTY",
+                "destination": "../02-Rationalism/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2022-Q4B-DESCARTES-CERTAINTY",
+                "destination": "../02-Rationalism/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2022-Q4B-DESCARTES-CERTAINTY",
+                "destination": "../02-Rationalism/COVERAGE-LEDGER.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2022-Q4B-DESCARTES-CERTAINTY",
+                "destination": "../02-Rationalism/COVERAGE-LEDGER.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2022-Q4B-DESCARTES-CERTAINTY",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2022-Q4B-DESCARTES-CERTAINTY",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2022-Q4B-DESCARTES-CERTAINTY",
+                "destination": "COVERAGE-LEDGER.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2022-Q4B-DESCARTES-CERTAINTY",
+                "destination": "COVERAGE-LEDGER.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS",
+                "destination": "../10-Existentialism/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS",
+                "destination": "../10-Existentialism/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS",
+                "destination": "../10-Existentialism/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS",
+                "destination": "../10-Existentialism/ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS",
+                "destination": "../10-Existentialism/COVERAGE-LEDGER.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS",
+                "destination": "../10-Existentialism/COVERAGE-LEDGER.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS",
+                "destination": "ANSWER-WRITING-TOOLKIT.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS",
+                "destination": "COVERAGE-LEDGER.md",
+                "mutation": "contradiction",
+                "rejected": true
+              },
+              {
+                "obligation": "WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS",
+                "destination": "COVERAGE-LEDGER.md",
+                "mutation": "paraphrase",
+                "rejected": true
+              }
+            ],
+            "rejected": true,
             "pass": true
           }
-        },
-        "unique_marker_only_on_correct_option": [],
-        "marker_on_all_distractors_not_correct": [],
-        "failed_features": [],
+        ],
+        "passed": 39,
+        "failed": 0,
+        "all_negative_tests_pass": true
+      },
+      "failures": [],
+      "mechanical_limitations": "The gate proves exact source/block identity, complete classification, authored claim shape and bounded correspondence, route assertions, panel identity and production-path mutation rejection. Philosophical truth remains a reviewed judgement.",
+      "pass": true
+    },
+    "mcq_integrity": {
+      "parity": {
+        "question_count": 55,
+        "solution_count": 55,
+        "mismatches": [],
         "pass": true
       },
-      "repeated_templates": {
-        "suffix_frequency_correct_vs_distractor": {},
-        "prefix_template_frequency_correct_vs_distractor": {},
+      "answer_pattern": {
+        "key": "DADDADAACCBCAACDBABABCAABBDBBDCDCCDCBDBDCDCCBABADAACBBD",
+        "distribution": {
+          "D": 14,
+          "A": 14,
+          "C": 13,
+          "B": 14
+        },
+        "maximum_run": 2,
+        "mechanical_abcd_rotation": false,
+        "periodic_match_rates": {
+          "2": 0.34,
+          "4": 0.137
+        },
         "pass": true
       },
-      "only_correct_lacks_repeated_or_padded_template": [],
-      "pass": true
-    },
-    "answer_pattern": {
-      "distribution": {
-        "D": 13,
-        "A": 14,
-        "C": 13,
-        "B": 13
+      "question_answer_leakage": {
+        "**Answer:": false,
+        "**Option explanations:**": false,
+        "**Examiner trap": false,
+        "Correct:": false
       },
-      "maximum_consecutive_same_answer": 2,
-      "mechanical_abcd_rotation": false,
-      "key": "DADDADAACCBCAACDBABABCAABBDBBDCDCCDCBDBDCDCCBABADAACB",
-      "pass": true
-    },
-    "solutions_complete": {
-      "**Answer:": 53,
-      "**Option explanations:**": 53,
-      "**Examiner trap": 53,
-      "**Repair action:**": 53,
-      "**Coverage mapping:**": 53,
-      "**PYQ linkage:**": 53,
-      "expected_each": 53,
-      "pass": true
-    },
-    "specific_distractor_explanations": {
-      "checked": 212,
-      "incorrect_options_checked": 159,
-      "correct_options_checked": 53,
-      "requirements": [
-        "all 212 rationales reproduce the parsed audit manifest",
-        "correct rationales contain at least two declared doctrinal anchors",
-        "each distractor quotes the exact false proposition and exact correction",
-        "each distractor rationale contains at least two declared correction anchors",
-        "generic negative controls satisfy no option's anchor set",
-        "normalized and near-duplicate rationale bodies are rejected"
-      ],
-      "validation_basis": "Pass/fail is proposition-specific and manifest-driven; rationale word counts and enumerated stock-sentence blacklists are not acceptance criteria.",
-      "generic_negative_controls": [
-        "This option is incorrect because it conflicts with the doctrine, while the correct answer states the relevant distinction.",
-        "The proposed answer preserves the relevant philosophical position and the other alternatives are mistaken.",
-        "This is correct within the documented scope because it accurately describes the issue under review."
-      ],
-      "generic_control_false_acceptances": [],
-      "repeated_normalized_rationale_bodies": [],
-      "repeated_normalized_body_fingerprints": [],
-      "near_duplicate_rationale_bodies": [],
-      "excessively_reused_declared_anchors": {},
-      "failures": [],
-      "pass": true
-    },
-    "mcq_proposition_audit": {
-      "manifest": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\MCQ-AUDIT.json",
-      "schema_version": 2,
-      "manifest_question_count": 53,
-      "parsed_question_count": 53,
-      "all_visible_stems_have_declared_named_referents": true,
-      "all_questions_have_exactly_one_keyed_true_proposition": true,
-      "mechanical_limitations": "This parsed proposition-level audit verifies exact stem and option alignment, declared referents, one keyed true proposition, explicit false propositions, specific corrections, and literal item-specific rationale anchors. Truth values were manually reviewed against the cited Topic 09 sources; parsing cannot independently prove philosophical truth or eliminate every reasonable interpretive dispute.",
-      "failures": [],
-      "pass": true
-    },
-    "deduplication": {
-      "exact_duplicate_stems_absent": true,
-      "highest_stem_similarity": 0.694,
-      "highest_similarity_pair": [
-        10,
-        33
-      ],
-      "substantive_similarity_flags": [],
-      "final_count": 53,
-      "pass": true
-    },
-    "doctrinal_consistency_and_inference_distinctness": {
-      "required_claims": {
-        "categorial_forms_and_states_of_affairs": true,
-        "categorial_beyond_simple_sensuous_intuition": true,
-        "eidetic_intuition_free_variation": true,
-        "intuitions_related_not_identical": true,
-        "reductions_have_distinct_functions": true,
-        "no_universal_staircase": true,
-        "eidetic_variation_independent_of_completed_transcendental_reduction": true
+      "option_and_cue_quality": {
+        "metric": "Unicode character count and class-correlated visible features",
+        "correct_is_longest_count": 19,
+        "correct_is_longest_rate_percent": 34.55,
+        "uniquely_longest_correct_count": 15,
+        "uniquely_longest_rate_percent": 27.27,
+        "correct_mean_characters": 103.0,
+        "distractor_mean_characters": 101.07,
+        "mean_length_gap_percent": 1.88,
+        "comparability_outliers": [],
+        "feature_rates": {
+          "absolute_quantifier": {
+            "correct": 0,
+            "distractor": 1,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 0.61,
+            "gap_percent": 0.61
+          },
+          "exclusive_only": {
+            "correct": 0,
+            "distractor": 0,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 0.0,
+            "gap_percent": 0.0
+          },
+          "contrast_marker": {
+            "correct": 1,
+            "distractor": 0,
+            "correct_rate_percent": 1.82,
+            "distractor_rate_percent": 0.0,
+            "gap_percent": 1.82
+          },
+          "semicolon": {
+            "correct": 0,
+            "distractor": 0,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 0.0,
+            "gap_percent": 0.0
+          },
+          "parentheses": {
+            "correct": 0,
+            "distractor": 0,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 0.0,
+            "gap_percent": 0.0
+          },
+          "dash": {
+            "correct": 0,
+            "distractor": 0,
+            "correct_rate_percent": 0.0,
+            "distractor_rate_percent": 0.0,
+            "gap_percent": 0.0
+          },
+          "initial_capital": {
+            "correct": 55,
+            "distractor": 165,
+            "correct_rate_percent": 100.0,
+            "distractor_rate_percent": 100.0,
+            "gap_percent": 0.0
+          },
+          "finite_verb": {
+            "correct": 17,
+            "distractor": 52,
+            "correct_rate_percent": 30.91,
+            "distractor_rate_percent": 31.52,
+            "gap_percent": 0.61
+          }
+        },
+        "failed_feature_correlations": [],
+        "strong_class_exclusive_lexical_cues": [],
+        "locked_bands": {
+          "correct_longest_percent": [
+            15,
+            45
+          ],
+          "unique_longest_percent": [
+            5,
+            35
+          ],
+          "mean_length_gap_percent_max": 12,
+          "within_item_max_min_ratio": 2.2
+        },
+        "mechanical_limitations": "Length and token/feature correlation checks can detect recurring visible cues; they cannot prove that a learner will never infer an answer from style.",
+        "pass": true
       },
-      "forbidden_patterns": {
-        "wesensschau_equated_with_categorial_intuition": [],
-        "categorial_eidetic_slash_conflation": [],
-        "categorial_intuition_gives_essential_structures": [],
-        "mandatory_reduction_staircase_heading": [],
-        "suspension_as_only_route_to_essence": [],
-        "bracketing_as_eidetic_gateway": [],
-        "shared_universality_conflation": []
+      "answer_position_randomization": {
+        "method": "Each MCQ uses an independent PRNG instance keyed by the persisted package seed and question number; complete options and their explanations move together.",
+        "seed": "topic09-phenomenology-husserl-20260924-frozen",
+        "source_key_sha256": "ed9fc87bccbee5a75b581eafa3bb8345471f7aab7fe979ab6faf0375c68825f0",
+        "computed_key": "DADDADAACCBCAACDBABABCAABBDBBDCDCCDCBDBDCDCCBABADAACBBD",
+        "recorded_key": "DADDADAACCBCAACDBABABCAABBDBBDCDCCDCBDBDCDCCBABADAACBBD",
+        "question_instances": 55,
+        "pass": true
       },
-      "mcq_inference_similarity_threshold": 0.75,
-      "highest_inference_similarity": 0.591,
-      "highest_inference_similarity_pair": [
-        21,
-        22
-      ],
-      "inference_similarity_flags": [],
-      "mcq_9_13_duplicate_repair": {
-        "mcq_9_tests_epoché_definition": true,
-        "mcq_13_is_application_case": true,
-        "mcq_13_tests_phenomenological_redirection": true,
-        "mcq_9_and_13_correct_propositions_differ": true
+      "readme_count_consistency": {
+        "declared_counts": [
+          55,
+          55
+        ],
+        "expected_count": 55,
+        "all_declared_counts_match": true,
+        "pass": true
       },
-      "pass": true
-    },
-    "source_lineage": {
-      "source_files_read": {
-        "g4_session": {
-          "path": "knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g4\\topic-09_Complete-Learning-Session_2026-09-02.md",
-          "bytes": 298066,
-          "sha256": "9e7c1fd59225548b73f78ba175cf0049a47a15e25d309d75bea41b50d8646840"
-        },
-        "g4_workbook": {
-          "path": "knowledge\\Learner-v2-Refreshed\\Philosophy\\Paper-I-Western-Philosophy\\learning-sessions\\topic-09\\g4\\topic-09_Solved-Practice-Workbook_2026-09-02.md",
-          "bytes": 127828,
-          "sha256": "ea4a070833920232d29667d16452cf4928ed92f80e60b93be105a4e48b2eeae4"
-        },
-        "canonical": {
-          "path": "knowledge\\Philosophy\\paper-1\\western\\Phenomenology-Husserl.md",
-          "bytes": 74772,
-          "sha256": "68f0d1b92cb3ea1d0a7edbddf9d397cdaad4ed057ee7b2f26e8b99f1921a9eab"
-        }
-      },
-      "source_cell_inventory": {
-        "S01": {
-          "coverage_cells": [
-            "C01"
-          ],
-          "anchors": {
-            "g4_session": "### SESSION 1 —",
-            "g4_workbook": "### RAPID REVISION 1 —",
-            "canonical": "## 0. ONE-SCREEN MAP"
-          },
-          "anchored_source_characters": {
-            "g4_session": 9063,
-            "g4_workbook": 934,
-            "canonical": 1706
-          },
-          "witnesses": {
-            "rigorous science": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "things themselves": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "historicism": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            }
-          },
-          "pass": true
-        },
-        "S02": {
-          "coverage_cells": [
-            "C02"
-          ],
-          "anchors": {
-            "g4_session": "### SESSION 2 —",
-            "g4_workbook": "### RAPID REVISION 2 —",
-            "canonical": "### 1.1 The Natural Attitude"
-          },
-          "anchored_source_characters": {
-            "g4_session": 7775,
-            "g4_workbook": 849,
-            "canonical": 968
-          },
-          "witnesses": {
-            "natural attitude": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "general thesis": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "profile": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            }
-          },
-          "pass": true
-        },
-        "S03": {
-          "coverage_cells": [
-            "C03"
-          ],
-          "anchors": {
-            "g4_session": "### SESSION 3 —",
-            "g4_workbook": "### RAPID REVISION 3 —",
-            "canonical": "### 1.2 The Epoché"
-          },
-          "anchored_source_characters": {
-            "g4_session": 10042,
-            "g4_workbook": 993,
-            "canonical": 2186
-          },
-          "witnesses": {
-            "bracketing": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "suspension": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "phenomenological reduction": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            }
-          },
-          "pass": true
-        },
-        "S04": {
-          "coverage_cells": [
-            "C04"
-          ],
-          "anchors": {
-            "g4_session": "### SESSION 4 —",
-            "g4_workbook": "### RAPID REVISION 4 —",
-            "canonical": "### 1.3 Intentionality"
-          },
-          "anchored_source_characters": {
-            "g4_session": 8793,
-            "g4_workbook": 883,
-            "canonical": 9330
-          },
-          "witnesses": {
-            "intentionality": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "noesis": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "hallucination": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            }
-          },
-          "pass": true
-        },
-        "S05": {
-          "coverage_cells": [
-            "C04",
-            "C05"
-          ],
-          "anchors": {
-            "g4_session": "### SESSION 5 —",
-            "g4_workbook": "### RAPID REVISION 5 —",
-            "canonical": "#### HYLE and MORPHE"
-          },
-          "anchored_source_characters": {
-            "g4_session": 9631,
-            "g4_workbook": 864,
-            "canonical": 2653
-          },
-          "witnesses": {
-            "hyle": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "morphe": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "animation": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            }
-          },
-          "pass": true
-        },
-        "S06": {
-          "coverage_cells": [
-            "C05"
-          ],
-          "anchors": {
-            "g4_session": "### SESSION 6 —",
-            "g4_workbook": "### RAPID REVISION 6 —",
-            "canonical": "#### INNER TIME-CONSCIOUSNESS"
-          },
-          "anchored_source_characters": {
-            "g4_session": 10677,
-            "g4_workbook": 1013,
-            "canonical": 3888
-          },
-          "witnesses": {
-            "retention": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "primal impression": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "protention": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            }
-          },
-          "pass": true
-        },
-        "S07": {
-          "coverage_cells": [
-            "C06"
-          ],
-          "anchors": {
-            "g4_session": "### SESSION 7 —",
-            "g4_workbook": "### RAPID REVISION 7 —",
-            "canonical": "## 2. THEORY OF ESSENCES"
-          },
-          "anchored_source_characters": {
-            "g4_session": 12968,
-            "g4_workbook": 1094,
-            "canonical": 4994
-          },
-          "witnesses": {
-            "free imaginative variation": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "eidos": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "regional ontology": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            }
-          },
-          "pass": true
-        },
-        "S08": {
-          "coverage_cells": [
-            "C07"
-          ],
-          "anchors": {
-            "g4_session": "### SESSION 8 —",
-            "g4_workbook": "### RAPID REVISION 8 —",
-            "canonical": "### 1.5 The Transcendental Reduction"
-          },
-          "anchored_source_characters": {
-            "g4_session": 11569,
-            "g4_workbook": 1166,
-            "canonical": 2854
-          },
-          "witnesses": {
-            "transcendental ego": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "life-world": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "constitution": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            }
-          },
-          "pass": true
-        },
-        "S09": {
-          "coverage_cells": [
-            "C08"
-          ],
-          "anchors": {
-            "g4_session": "### SESSION 9 —",
-            "g4_workbook": "### RAPID REVISION 9 —",
-            "canonical": "## 3. AVOIDANCE OF PSYCHOLOGISM"
-          },
-          "anchored_source_characters": {
-            "g4_session": 14489,
-            "g4_workbook": 1206,
-            "canonical": 6497
-          },
-          "witnesses": {
-            "psychologism": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "ideal content": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "relativism": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            }
-          },
-          "pass": true
-        },
-        "S10": {
-          "coverage_cells": [
-            "C09",
-            "C10"
-          ],
-          "anchors": {
-            "g4_session": "### SESSION 10 —",
-            "g4_workbook": "### RAPID REVISION 10 —",
-            "canonical": "## 3A. THE FIFTH"
-          },
-          "anchored_source_characters": {
-            "g4_session": 16015,
-            "g4_workbook": 31231,
-            "canonical": 6818
-          },
-          "witnesses": {
-            "pairing": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "appresentation": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            },
-            "solipsism": {
-              "in_anchored_sources": true,
-              "in_revision_guide": true
-            }
-          },
-          "pass": true
-        }
-      },
-      "source_cell_count": 10,
-      "source_inventory_failures": [],
-      "lineage_mapping_count": 53,
-      "lineage_counts": {
-        "adapted": 43,
-        "new": 10
-      },
-      "source_candidate_count": 56,
-      "mapped_unique_source_candidates": 43,
-      "unmapped_source_candidates": [
-        33,
-        34,
-        35,
-        36,
-        37,
-        38,
-        39,
-        40,
-        41,
-        42,
-        43,
-        45,
-        46
-      ],
-      "unmapped_source_candidate_count": 13,
-      "retained_exact_stems": [],
-      "mechanical_limitations": "This gate verifies file identity, source anchors, term witnesses, matrix ranges and declared candidate links. It does not prove semantic completeness or the philosophical correctness of each adaptation.",
-      "pass": true,
-      "complete_mapping": true,
-      "unique_mapping_rows": true,
-      "inventory_covers_matrix_cells": true,
-      "unique_adapted_candidate_links": true,
-      "mapping_failures": []
-    },
-    "rapid_revision_practice_links": {
-      "expected_from_coverage_matrix": {
-        "1": [
-          1,
-          4
-        ],
-        "2": [
-          5,
-          8
-        ],
-        "3": [
-          9,
-          14
-        ],
-        "4": [
-          15,
-          20
-        ],
-        "5": [
-          21,
-          25
-        ],
-        "6": [
-          26,
-          31
-        ],
-        "7": [
-          32,
-          36
-        ],
-        "8": [
-          37,
-          41
-        ],
-        "9": [
-          42,
-          46
-        ],
-        "10": [
-          47,
-          53
-        ]
-      },
-      "actual_from_revision_guide": {
-        "1": [
-          1,
-          4
-        ],
-        "2": [
-          5,
-          8
-        ],
-        "3": [
-          9,
-          14
-        ],
-        "4": [
-          15,
-          20
-        ],
-        "5": [
-          21,
-          25
-        ],
-        "6": [
-          26,
-          31
-        ],
-        "7": [
-          32,
-          36
-        ],
-        "8": [
-          37,
-          41
-        ],
-        "9": [
-          42,
-          46
-        ],
-        "10": [
-          47,
-          53
-        ]
+      "option_specific_explanations": {
+        "failures": [],
+        "duplicate_normalized_explanations": [],
+        "examiner_trap_count": 55,
+        "mechanical_limitations": "The gate verifies four distinct labelled explanations, correct/incorrect status, minimum depth and non-duplication. It does not establish philosophical truth.",
+        "pass": true
       },
       "pass": true
     },
-    "verified_pyqs": {
-      "directly_owned_count": 7,
-      "parts": [
-        [
-          "2019",
-          "Q1(b)",
-          10
-        ],
-        [
-          "2020",
-          "Q1(c)",
-          10
-        ],
-        [
-          "2021",
-          "Q4(a)",
-          20
-        ],
-        [
-          "2022",
-          "Q1(d)",
-          10
-        ],
-        [
-          "2023",
-          "Q3(b)",
-          15
-        ],
-        [
-          "2024",
-          "Q4(b)",
-          15
-        ],
-        [
-          "2025",
-          "Q4(a)",
-          20
-        ]
-      ],
-      "component_checks": {
-        "2019 Q1(b)": {
-          "marks": 10,
-          "band": [
-            150,
-            200
-          ],
-          "measured_words": 157,
-          "stated_words": 157,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
-        },
-        "2020 Q1(c)": {
-          "marks": 10,
-          "band": [
-            150,
-            200
-          ],
-          "measured_words": 150,
-          "stated_words": 150,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
-        },
-        "2021 Q4(a)": {
-          "marks": 20,
-          "band": [
-            340,
-            400
-          ],
-          "measured_words": 363,
-          "stated_words": 363,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
-        },
-        "2022 Q1(d)": {
-          "marks": 10,
-          "band": [
-            150,
-            200
-          ],
-          "measured_words": 186,
-          "stated_words": 186,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
-        },
-        "2023 Q3(b)": {
-          "marks": 15,
-          "band": [
-            250,
-            300
-          ],
-          "measured_words": 266,
-          "stated_words": 266,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
-        },
-        "2024 Q4(b)": {
-          "marks": 15,
-          "band": [
-            250,
-            300
-          ],
-          "measured_words": 257,
-          "stated_words": 257,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
-        },
-        "2025 Q4(a)": {
-          "marks": 20,
-          "band": [
-            340,
-            400
-          ],
-          "measured_words": 353,
-          "stated_words": 353,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "exact_prompt_match": true
-        }
-      },
-      "all_exact_and_complete": true
-    },
-    "original_solved_practice": {
-      "question_count": 3,
-      "solutions": {
-        "## Original 1 · 10 marks": {
-          "marks": 10,
-          "band": [
-            150,
-            200
-          ],
-          "measured_words": 164,
-          "stated_words": 164,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "why_it_earns_marks": true
-        },
-        "## Original 2 · 15 marks": {
-          "marks": 15,
-          "band": [
-            250,
-            300
-          ],
-          "measured_words": 252,
-          "stated_words": 252,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "why_it_earns_marks": true
-        },
-        "## Original 3 · 20 marks": {
-          "marks": 20,
-          "band": [
-            340,
-            400
-          ],
-          "measured_words": 360,
-          "stated_words": 360,
-          "count_tolerance": 1,
-          "matches_stated": true,
-          "in_band": true,
-          "demand_decoding": true,
-          "model_answer": true,
-          "qualification_or_criticism": true,
-          "word_time_guidance": true,
-          "why_it_earns_marks": true
-        }
-      },
-      "all_complete": true
-    },
-    "portable_provenance": {
-      "ledger_files_exist": true,
-      "learner_practice_not_official_keys": true
-    },
-    "marks_logic_accuracy": {
-      "why_sections_expected": 10,
-      "why_sections_found": 10,
-      "unsupported_claims": [],
-      "pass": true
-    },
-    "pass": true,
-    "pyq_demand_audit": {
-      "manifest": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\PYQ-DEMAND-AUDIT.json",
-      "owned_pyq_count": 7,
-      "expected_owned_pyqs": [
+    "verified_pyqs_and_original_models": {
+      "ledger_owned_count": 7,
+      "toolkit_owned_count": 7,
+      "owned_parts": [
         "2019 Q1(b)",
         "2020 Q1(c)",
         "2021 Q4(a)",
@@ -1129,576 +1670,794 @@
         "2024 Q4(b)",
         "2025 Q4(a)"
       ],
-      "component_checks": {
+      "exact_wording": {
+        "2019 Q1(b)": true,
+        "2020 Q1(c)": true,
+        "2021 Q4(a)": true,
+        "2022 Q1(d)": true,
+        "2023 Q3(b)": true,
+        "2024 Q4(b)": true,
+        "2025 Q4(a)": true
+      },
+      "timed_word_counts": {
         "2019 Q1(b)": {
           "marks": 10,
-          "demand_limb_count": 4,
-          "limbs": [
-            {
-              "limb": "direct answer on hallucination",
-              "anchors": {
-                "paradigmatically intentional act": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "criterion of intentionality",
-              "anchors": {
-                "directedness": true,
-                "need not exist": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "noesis-noema explanation",
-              "anchors": {
-                "noesis": true,
-                "noema": true,
-                "object-as-intended": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "qualification concerning reality",
-              "anchors": {
-                "not to say the object is real": true
-              },
-              "pass": true
-            }
+          "words": 157,
+          "band": [
+            150,
+            200
           ],
           "pass": true
         },
         "2020 Q1(c)": {
           "marks": 10,
-          "demand_limb_count": 4,
-          "limbs": [
-            {
-              "limb": "definition of psychologism",
-              "anchors": {
-                "empirical generalisations": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "central category mistake",
-              "anchors": {
-                "ideal content": true,
-                "real act": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "positive phenomenological response",
-              "anchors": {
-                "ideal objectivity": true,
-                "grasped": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "critical qualification",
-              "anchors": {
-                "subject-dependence": true
-              },
-              "pass": true
-            }
+          "words": 150,
+          "band": [
+            150,
+            200
           ],
           "pass": true
         },
         "2021 Q4(a)": {
           "marks": 20,
-          "demand_limb_count": 4,
-          "limbs": [
-            {
-              "limb": "natural attitude and general thesis",
-              "anchors": {
-                "general thesis": true,
-                "uncritical": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "epoché as suspension",
-              "anchors": {
-                "epoche": true,
-                "suspension": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "phenomenological and transcendental reduction",
-              "anchors": {
-                "phenomenological reduction": true,
-                "transcendental reduction": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "critical assessment",
-              "anchors": {
-                "Heidegger": true,
-                "Merleau-Ponty": true,
-                "complete reduction": true
-              },
-              "pass": true
-            }
+          "words": 363,
+          "band": [
+            340,
+            400
           ],
           "pass": true
         },
         "2022 Q1(d)": {
           "marks": 10,
-          "demand_limb_count": 6,
-          "limbs": [
-            {
-              "limb": "definition of psychologism",
-              "anchors": {
-                "empirical facts": true,
-                "happen to think": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "necessity and act-content reply",
-              "anchors": {
-                "logical laws claim necessity": true,
-                "real judging act": true,
-                "ideal content": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "non-empirical transcendental ego",
-              "anchors": {
-                "transcendental ego is not the empirical psyche": true,
-                "non-empirical field": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "constitution as disclosure rather than production",
-              "anchors": {
-                "constitution is disclosure": true,
-                "not causal production": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "intersubjective objectivity",
-              "anchors": {
-                "transcendental intersubjectivity": true,
-                "any possible subject": true,
-                "shared world": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "critical qualification",
-              "anchors": {
-                "transcendental idealism": true,
-                "remains contested": true
-              },
-              "pass": true
-            }
+          "words": 186,
+          "band": [
+            150,
+            200
           ],
           "pass": true
         },
         "2023 Q3(b)": {
           "marks": 15,
-          "demand_limb_count": 4,
-          "limbs": [
-            {
-              "limb": "bracketing defined without denial",
-              "anchors": {
-                "withholds assent": true,
-                "neither affirms nor denies": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "reduction and residue",
-              "anchors": {
-                "phenomenological reduction": true,
-                "residue": true,
-                "intentional experience": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "significance for givenness, non-substantialism and essences",
-              "anchors": {
-                "modes of givenness": true,
-                "res cogitans": true,
-                "invariant essences": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "critical qualification",
-              "anchors": {
-                "Merleau-Ponty": true,
-                "complete reduction is impossible": true,
-                "asymptotic discipline": true
-              },
-              "pass": true
-            }
+          "words": 266,
+          "band": [
+            250,
+            300
           ],
           "pass": true
         },
         "2024 Q4(b)": {
           "marks": 15,
-          "demand_limb_count": 5,
-          "limbs": [
-            {
-              "limb": "eidetic method",
-              "anchors": {
-                "free imaginative variation": true,
-                "eidos": true,
-                "Wesensschau": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "categorial-eidetic distinction",
-              "anchors": {
-                "categorial forms and states of affairs": true,
-                "eidetic intuition apprehends essences": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "basis of continuity",
-              "anchors": {
-                "correlational a priori": true,
-                "corresponding mode of consciousness": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "anti-subjective-idealism guard",
-              "anchors": {
-                "must not be misread as subjective idealism": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "qualified verdict",
-              "anchors": {
-                "continuity of sense": true,
-                "stronger metaphysical continuity": true
-              },
-              "pass": true
-            }
+          "words": 257,
+          "band": [
+            250,
+            300
           ],
           "pass": true
         },
         "2025 Q4(a)": {
           "marks": 20,
-          "demand_limb_count": 6,
-          "limbs": [
-            {
-              "limb": "shared Cartesian starting point",
-              "anchors": {
-                "shared starting point": true,
-                "apodictic self-givenness": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "substance versus constituting function",
-              "anchors": {
-                "res cogitans": true,
-                "field of sense-constitution": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "world lost versus bracketed",
-              "anchors": {
-                "God's benevolence": true,
-                "world was never lost": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "world-directed subjectivity",
-              "anchors": {
-                "world-constituting": true,
-                "consciousness of": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "Kant and intersubjectivity guards",
-              "anchors": {
-                "Kant's merely formal": true,
-                "pairing and analogical appresentation": true
-              },
-              "pass": true
-            },
-            {
-              "limb": "critical assessment",
-              "anchors": {
-                "Heidegger": true,
-                "Merleau-Ponty": true,
-                "residual idealism": true
-              },
-              "pass": true
-            }
+          "words": 353,
+          "band": [
+            340,
+            400
           ],
           "pass": true
         }
       },
-      "mechanical_limitations": "This gate checks exact prompt identity and literal presence of all declared demand-limb anchors inside each timed answer. It does not infer whether those anchors are argued correctly, sufficiently developed or worthy of a particular mark.",
+      "declared_word_counts": {
+        "2019 Q1(b)": {
+          "declared": 157,
+          "computed": 157,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2020 Q1(c)": {
+          "declared": 150,
+          "computed": 150,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2021 Q4(a)": {
+          "declared": 363,
+          "computed": 363,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2022 Q1(d)": {
+          "declared": 186,
+          "computed": 186,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2023 Q3(b)": {
+          "declared": 266,
+          "computed": 266,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2024 Q4(b)": {
+          "declared": 257,
+          "computed": 257,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "2025 Q4(a)": {
+          "declared": 353,
+          "computed": 353,
+          "declaration_count": 1,
+          "pass": true
+        }
+      },
+      "word_bands": {
+        "10": [
+          150,
+          200
+        ],
+        "15": [
+          250,
+          300
+        ],
+        "20": [
+          340,
+          400
+        ]
+      },
+      "original_models": {
+        "Formal Exercise 1": {
+          "marks": 10,
+          "words": 170,
+          "pass": true
+        },
+        "Formal Exercise 2": {
+          "marks": 10,
+          "words": 172,
+          "pass": true
+        },
+        "Formal Exercise 3": {
+          "marks": 15,
+          "words": 279,
+          "pass": true
+        },
+        "Formal Exercise 4": {
+          "marks": 15,
+          "words": 262,
+          "pass": true
+        },
+        "Formal Exercise 5": {
+          "marks": 20,
+          "words": 382,
+          "pass": true
+        },
+        "Formal Exercise 6": {
+          "marks": 20,
+          "words": 377,
+          "pass": true
+        },
+        "Original 1": {
+          "marks": 10,
+          "words": 164,
+          "pass": true
+        },
+        "Original 2": {
+          "marks": 15,
+          "words": 252,
+          "pass": true
+        },
+        "Original 3": {
+          "marks": 20,
+          "words": 360,
+          "pass": true
+        }
+      },
+      "declared_original_count": 9,
+      "computed_original_count": 9,
+      "unique_original_heading_count": 9,
+      "original_declared_word_counts": {
+        "Formal Exercise 1": {
+          "declared": 170,
+          "computed": 170,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "Formal Exercise 2": {
+          "declared": 172,
+          "computed": 172,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "Formal Exercise 3": {
+          "declared": 279,
+          "computed": 279,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "Formal Exercise 4": {
+          "declared": 262,
+          "computed": 262,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "Formal Exercise 5": {
+          "declared": 382,
+          "computed": 382,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "Formal Exercise 6": {
+          "declared": 377,
+          "computed": 377,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "Original 1": {
+          "declared": 164,
+          "computed": 164,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "Original 2": {
+          "declared": 252,
+          "computed": 252,
+          "declaration_count": 1,
+          "pass": true
+        },
+        "Original 3": {
+          "declared": 360,
+          "computed": 360,
+          "declaration_count": 1,
+          "pass": true
+        }
+      },
+      "original_prompt_word_limits": {
+        "Formal Exercise 1": {
+          "question": "Distinguish between retention and recollection in Husserl's analysis of inner time-consciousness. Why does the distinction matter?",
+          "explicit_guidance": null,
+          "expected_band": [
+            150,
+            200
+          ],
+          "pass": true
+        },
+        "Formal Exercise 2": {
+          "question": "\"The epoché brackets the world.\" Examine the accuracy of this formulation.",
+          "explicit_guidance": null,
+          "expected_band": [
+            150,
+            200
+          ],
+          "pass": true
+        },
+        "Formal Exercise 3": {
+          "question": "Assess Husserl's claim that free imaginative variation yields knowledge of essences rather than empirical generalisations.",
+          "explicit_guidance": null,
+          "expected_band": [
+            250,
+            300
+          ],
+          "pass": true
+        },
+        "Formal Exercise 4": {
+          "question": "Explain the distinction between sensuous *hyle* and intentional *morphe*, and evaluate its role in Husserl's rejection of sense-datum theory.",
+          "explicit_guidance": null,
+          "expected_band": [
+            250,
+            300
+          ],
+          "pass": true
+        },
+        "Formal Exercise 5": {
+          "question": "\"Husserl's transcendental phenomenology escapes psychologism only by relocating it.\" Critically examine.",
+          "explicit_guidance": null,
+          "expected_band": [
+            340,
+            400
+          ],
+          "pass": true
+        },
+        "Formal Exercise 6": {
+          "question": "Evaluate Husserl's account of intersubjectivity in the Fifth *Cartesian Meditation* as a reply to the charge of transcendental solipsism.",
+          "explicit_guidance": null,
+          "expected_band": [
+            340,
+            400
+          ],
+          "pass": true
+        },
+        "Original 1": {
+          "question": "Distinguish Husserlian epoché from Cartesian doubt and explain why phenomenological reduction is not introspection. Answer in about 150 words.",
+          "explicit_guidance": [
+            150
+          ],
+          "expected_band": [
+            150,
+            200
+          ],
+          "pass": true
+        },
+        "Original 2": {
+          "question": "Explain how intentionality, noesis-noema and constitution permit Husserl to treat hallucination as intentional without identifying evidence with truth. Answer in about 250 words.",
+          "explicit_guidance": [
+            250
+          ],
+          "expected_band": [
+            250,
+            300
+          ],
+          "pass": true
+        },
+        "Original 3": {
+          "question": "Show how Husserl's theory of essences and critique of psychologism form one project of grounding objectivity. Does transcendental phenomenology complete that project? Critically discuss. Answer in 340–400 words.",
+          "explicit_guidance": [
+            340,
+            400
+          ],
+          "expected_band": [
+            340,
+            400
+          ],
+          "pass": true
+        }
+      },
+      "independent_practice_disclaimer": true,
       "failures": [],
       "pass": true
     },
-    "revision_front_matter_provenance": {
-      "required_accuracy_statement": true,
-      "documents_scanned": [
-        "coverage_ledger",
-        "readme",
-        "revision_front_matter"
-      ],
-      "forbidden_claims": {
-        "revision_front_matter": [],
-        "readme": [],
-        "coverage_ledger": []
-      },
+    "markdown_links": {
+      "checked": 13,
+      "broken": [],
       "pass": true
     },
-    "current_affairs_nonfabrication": true,
-    "markdown_links": {
-      "checked": 11,
-      "broken": [],
+    "provenance": {
+      "canonical_owner_sha256": "68f0d1b92cb3ea1d0a7edbddf9d397cdaad4ed057ee7b2f26e8b99f1921a9eab",
+      "verified_pyq_ledger_sha256": {
+        "knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2018-2025.md": "a4f40e7cec5aca3b02f77dbdb98bf156344bca17d8ce374665376d65814533c5",
+        "knowledge/Philosophy/paper-1/_PYQ-Western-Philosophy-2026.md": "258a00d4d3a4eba9a0e93cd4ff97e175436397c10498eeb3836d570e983512a9"
+      },
+      "honest_limit_statement_present": true,
+      "formal_source_authority": {
+        "authority": "completed formal sessions/workbooks under the Downloads UPSC-agent learning_package_final tree",
+        "authoritative_root": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final",
+        "forbidden_derivative_root": "C:\\up\\learning_package_final",
+        "sources": {
+          "session": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\09-Phenomenology-(Husserl)\\Learning-Session.md",
+            "under_authoritative_downloads_root": true,
+            "under_forbidden_c_up_derivative_root": false
+          },
+          "workbook": {
+            "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Western-Philosophy\\09-Phenomenology-(Husserl)\\Solved-Practice-Workbook.md",
+            "under_authoritative_downloads_root": true,
+            "under_forbidden_c_up_derivative_root": false
+          }
+        },
+        "failures": [],
+        "pass": true
+      },
+      "readme_authority_note_present": true,
       "pass": true
     },
     "pdfs": {
       "Revision-Guide.pdf": {
-        "bytes": 1371207,
-        "pages": 72,
+        "bytes": 1427133,
+        "pages": 92,
+        "source": "REVISION-GUIDE.md",
+        "source_sha256": "ff31d642f60d2ab443ddf9ea3e20f567efa81ee7c9fda4b95001d09f08034fd6",
+        "pdf_sha256": "cee51661ab24fcb58e020e2346284bca8fc98dd7a76af706165701d51f60ec12",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Phenomenology (Husserl)",
+          "profile_version": 1,
+          "pdf_name": "Revision-Guide.pdf",
+          "source_name": "REVISION-GUIDE.md",
+          "cover_descriptor": "Philosophy Optional · Paper I · Western Philosophy · Topic 09",
+          "footer_label": "Phenomenology (Husserl) | REVISION-GUIDE"
+        },
+        "generation_metadata_sha256": "9d97a29bd494cdf6e2456bc0aea5abda15312c63437d6026a6529c5af727d020",
+        "heading_count": 57,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
         "raw_markdown_artifacts": [],
+        "master_flow_panel_count": 30,
+        "correction_overlay_present": true,
         "pass": true
       },
       "MCQ-Questions.pdf": {
-        "bytes": 159420,
-        "pages": 14,
+        "bytes": 164573,
+        "pages": 15,
+        "source": "MCQ-QUESTIONS.md",
+        "source_sha256": "9b52fd24651a0c95e9e7e241640924f2310a2f43715ca557b643e3cb1d45ee85",
+        "pdf_sha256": "941a613e55bd3b98662e1117e1bb8852e120aa49950a1a91f8a11f9d9eb6f708",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Phenomenology (Husserl)",
+          "profile_version": 1,
+          "pdf_name": "MCQ-Questions.pdf",
+          "source_name": "MCQ-QUESTIONS.md",
+          "cover_descriptor": "55-question closed-book bank · no answer key",
+          "footer_label": "Phenomenology (Husserl) | MCQ-QUESTIONS"
+        },
+        "generation_metadata_sha256": "ca12a69e55b37c61d622184a70dda67a5a3e20faa9ae9af9f75cf62fd4e07de1",
+        "heading_count": 56,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
         "raw_markdown_artifacts": [],
+        "mcq_count": 55,
+        "answer_leakage": false,
         "pass": true
       },
       "MCQ-Solutions.pdf": {
-        "bytes": 484498,
-        "pages": 40,
+        "bytes": 502860,
+        "pages": 42,
+        "source": "MCQ-SOLUTIONS.md",
+        "source_sha256": "269c2506635a901e26d3259bd12524a729ced69bb8fd4be17a09bb6ae6a13816",
+        "pdf_sha256": "9047f7d6a24bfa65025906ea7cd6c5f5ab6c92fc62f5cd93a48f917859a52771",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Phenomenology (Husserl)",
+          "profile_version": 1,
+          "pdf_name": "MCQ-Solutions.pdf",
+          "source_name": "MCQ-SOLUTIONS.md",
+          "cover_descriptor": "Option-specific explanations and examiner traps",
+          "footer_label": "Phenomenology (Husserl) | MCQ-SOLUTIONS"
+        },
+        "generation_metadata_sha256": "e32f36cafcf425bf7dc476b15d0c0ad4ae89f35b5b6d8cb4f1ae6fb45556793c",
+        "heading_count": 56,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
         "raw_markdown_artifacts": [],
+        "solution_count": 55,
         "pass": true
       },
       "Answer-Writing-Toolkit.pdf": {
-        "bytes": 264293,
-        "pages": 16,
+        "bytes": 348992,
+        "pages": 22,
+        "source": "ANSWER-WRITING-TOOLKIT.md",
+        "source_sha256": "844054a3e4ae7303d88d4f9822a6e9d2b4688a5d6f9ac20268b45e55a86a8a41",
+        "pdf_sha256": "5d9c0e608724701e6877f804249b2342ac4d9638f92aede9768de586ea2a34fc",
+        "generation_metadata": {
+          "renderer": "C:/up/tools/unicode_markdown_pdf.py",
+          "renderer_contract": "unicode_markdown_pdf.build_pdf",
+          "internal_index": true,
+          "index_title": "CONTENTS",
+          "footer_topic": "Phenomenology (Husserl)",
+          "profile_version": 1,
+          "pdf_name": "Answer-Writing-Toolkit.pdf",
+          "source_name": "ANSWER-WRITING-TOOLKIT.md",
+          "cover_descriptor": "Seven verified PYQs and nine original solved models",
+          "footer_label": "Phenomenology (Husserl) | ANSWER-WRITING-TOOLKIT"
+        },
+        "generation_metadata_sha256": "3ad6dcdbfd736504cca760a66e0bccb10e067849e7f0f3931ef79d300419f482",
+        "heading_count": 70,
+        "missing_source_headings": [],
+        "matches_current_regeneration_record": true,
         "blank_pages": [],
         "replacement_glyphs": 0,
         "out_of_bounds_text_pages": [],
         "content_overlap_pages": [],
-        "page_order_validated": true,
         "raw_markdown_artifacts": [],
+        "owned_pyq_headings": 7,
+        "original_model_headings": 9,
+        "route_obligation_ids": {
+          "WP-2018-Q4A-EPOCHE-HEIDEGGER": true,
+          "WP-2022-Q4B-DESCARTES-CERTAINTY": true,
+          "WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS": true
+        },
         "pass": true
       }
     },
-    "practice_log_blank_template": true,
-    "temporary_files_left": [],
-    "text_and_diff_integrity": {
-      "mechanism": "Stage-independent UTF-8 and trailing-whitespace audit of every package .md/.py/.json file, plus git diff --check for tracked INDEX.md and STATUS.json.",
-      "package_text_files_inspected": [
+    "pdf_reproducibility": {
+      "files": {
+        "Revision-Guide.pdf": {
+          "baseline_identity": true,
+          "timestamp_touch_ignored": true,
+          "source_byte_change_rejected": true,
+          "pdf_byte_change_rejected": true,
+          "pass": true
+        },
+        "MCQ-Questions.pdf": {
+          "baseline_identity": true,
+          "timestamp_touch_ignored": true,
+          "source_byte_change_rejected": true,
+          "pdf_byte_change_rejected": true,
+          "pass": true
+        },
+        "MCQ-Solutions.pdf": {
+          "baseline_identity": true,
+          "timestamp_touch_ignored": true,
+          "source_byte_change_rejected": true,
+          "pdf_byte_change_rejected": true,
+          "pass": true
+        },
+        "Answer-Writing-Toolkit.pdf": {
+          "baseline_identity": true,
+          "timestamp_touch_ignored": true,
+          "source_byte_change_rejected": true,
+          "pdf_byte_change_rejected": true,
+          "pass": true
+        }
+      },
+      "pass": true
+    },
+    "text_and_git_integrity": {
+      "inspected_text_files": [
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\ANSWER-WRITING-TOOLKIT.md",
-          "bytes": 33833,
-          "lines": 391,
-          "sha256": "cd60fb19c8a43a65ac822450ea87bdcc6e9d963b38180592ddae07c01ccd8dc6"
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/ANSWER-WRITING-TOOLKIT.md",
+          "bytes": 51807,
+          "sha256": "844054a3e4ae7303d88d4f9822a6e9d2b4688a5d6f9ac20268b45e55a86a8a41"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\COVERAGE-LEDGER.md",
-          "bytes": 12350,
-          "lines": 139,
-          "sha256": "8ec0a0e54ad1407146d33773f5caf9da97c425536bf0f65cf95fdb021ce97be5"
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/COVERAGE-LEDGER.md",
+          "bytes": 15212,
+          "sha256": "88b420d31f7db3a341814db533bc0a9033d737fe99f0a9d3c30bf0753bfa683f"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\MCQ-AUDIT.json",
-          "bytes": 225237,
-          "lines": 4258,
-          "sha256": "eb02b0741ad3bc1c9017b193a3c52995c94398139612e7886e3fa05cae696fec"
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/FORMAL-COVERAGE-AUDIT.json",
+          "bytes": 2052763,
+          "sha256": "6f2585fb8b273f130fa264ce10ceb4f5f82b0960e259b402bf4d3a0454e8f2a3"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\MCQ-QUESTIONS.md",
-          "bytes": 28656,
-          "lines": 480,
-          "sha256": "835a9e91e47cb2b9a611d7293abedefab4717a97a2311b64e5823e51f5b82f38"
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/FORMAL-COVERAGE-REVIEW.json",
+          "bytes": 2084772,
+          "sha256": "fc1830d2ea599936ff951a05fa49d894718894135d6cf5908a915249d8045af8"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\MCQ-SOLUTIONS.md",
-          "bytes": 122099,
-          "lines": 1328,
-          "sha256": "a2a2dc7e11140d974fb3ec5af08988ec9a92c1a701ac36b3f3280d8cef12ecf7"
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-AUDIT.json",
+          "bytes": 234041,
+          "sha256": "b593c26f92f60207d5cce33702c3832cf7efdd55fd8abfc6738ae2b8551c316e"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\PRACTICE-LOG.md",
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-QUESTIONS.md",
+          "bytes": 29851,
+          "sha256": "9b52fd24651a0c95e9e7e241640924f2310a2f43715ca557b643e3cb1d45ee85"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-SOLUTIONS.md",
+          "bytes": 127258,
+          "sha256": "269c2506635a901e26d3259bd12524a729ced69bb8fd4be17a09bb6ae6a13816"
+        },
+        {
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/PRACTICE-LOG.md",
           "bytes": 903,
-          "lines": 23,
           "sha256": "af9d56a4ce44732d65f516dea852c68a8a1579ffdfe2479de112c62b8445b0f6"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\PYQ-DEMAND-AUDIT.json",
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/PYQ-DEMAND-AUDIT.json",
           "bytes": 5885,
-          "lines": 89,
           "sha256": "618be2633cd640021495f929fcd3a7ca2d7ca096b3ac19aeec03211323349bdd"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\README.md",
-          "bytes": 2119,
-          "lines": 22,
-          "sha256": "2b5b1d4e82946bb267590c4d644ccc309e26a789270153243bf9ecbb7ecb6e11"
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/README.md",
+          "bytes": 3673,
+          "sha256": "412d022b558e6f7d8ce50cac25e05326821b047d89e609d89cb8fc6b57e5213a"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\REVISION-GUIDE.md",
-          "bytes": 184272,
-          "lines": 2291,
-          "sha256": "52c44d0a0d3a39050620244e36a65f0be5280132c841a4903dd4403f859b3366"
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/REVISION-GUIDE.md",
+          "bytes": 242560,
+          "sha256": "ff31d642f60d2ab443ddf9ea3e20f567efa81ee7c9fda4b95001d09f08034fd6"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\validate_package.py",
-          "bytes": 86731,
-          "lines": 2143,
-          "sha256": "f138afeb7ae4b45aa356a82f15d85cdc027243c9e0e520913aef78a1eb366b21"
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/validate_package.py",
+          "bytes": 245240,
+          "sha256": "2b0fe40ea8828345f08f3bfda430d6326c1ff230582778d34f7d89fd5c234606"
         },
         {
-          "file": "practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Western-Philosophy\\09-Phenomenology-Husserl\\VALIDATION.json",
-          "bytes": 59420,
-          "lines": 1704,
-          "sha256": "bfcfd506c92986fa22a4b58e2c6be72f52214f78e9ad04909026d053c4e6cf3e"
+          "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/VALIDATION.json",
+          "bytes": 103662,
+          "sha256": "7227d8e192ee5ec666b685cfad6ee5d03a94dd42140a8330d3662c0d8919aaec"
         }
       ],
-      "package_text_file_count": 11,
-      "untracked_package_files_reported_by_git": [
-        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/ANSWER-WRITING-TOOLKIT.md",
-        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/COVERAGE-LEDGER.md",
-        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-AUDIT.json",
-        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-QUESTIONS.md",
-        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-SOLUTIONS.md",
-        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/PRACTICE-LOG.md",
-        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/PYQ-DEMAND-AUDIT.json",
-        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/README.md",
-        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/REVISION-GUIDE.md",
-        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/VALIDATION.json",
-        "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/validate_package.py"
-      ],
-      "untracked_file_integrity_gate": {
-        "all_untracked_text_files_were_inspected": true,
-        "stage_independent": true,
-        "git_diff_no_index_checks": [
-          {
-            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/ANSWER-WRITING-TOOLKIT.md",
-            "exit_code": 1,
-            "whitespace_diagnostics": "",
-            "pass": true
-          },
-          {
-            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/COVERAGE-LEDGER.md",
-            "exit_code": 1,
-            "whitespace_diagnostics": "",
-            "pass": true
-          },
-          {
-            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-AUDIT.json",
-            "exit_code": 1,
-            "whitespace_diagnostics": "",
-            "pass": true
-          },
-          {
-            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-QUESTIONS.md",
-            "exit_code": 1,
-            "whitespace_diagnostics": "",
-            "pass": true
-          },
-          {
-            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-SOLUTIONS.md",
-            "exit_code": 1,
-            "whitespace_diagnostics": "",
-            "pass": true
-          },
-          {
-            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/PRACTICE-LOG.md",
-            "exit_code": 1,
-            "whitespace_diagnostics": "",
-            "pass": true
-          },
-          {
-            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/PYQ-DEMAND-AUDIT.json",
-            "exit_code": 1,
-            "whitespace_diagnostics": "",
-            "pass": true
-          },
-          {
-            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/README.md",
-            "exit_code": 1,
-            "whitespace_diagnostics": "",
-            "pass": true
-          },
-          {
-            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/REVISION-GUIDE.md",
-            "exit_code": 1,
-            "whitespace_diagnostics": "",
-            "pass": true
-          },
-          {
-            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/VALIDATION.json",
-            "exit_code": 1,
-            "whitespace_diagnostics": "",
-            "pass": true
-          },
-          {
-            "file": "practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/validate_package.py",
-            "exit_code": 1,
-            "whitespace_diagnostics": "",
-            "pass": true
-          }
-        ]
+      "untracked_text_diff_checks": [],
+      "tracked_required_files": {
+        "README.md": true,
+        "REVISION-GUIDE.md": true,
+        "MCQ-QUESTIONS.md": true,
+        "MCQ-SOLUTIONS.md": true,
+        "COVERAGE-LEDGER.md": true,
+        "PRACTICE-LOG.md": true,
+        "ANSWER-WRITING-TOOLKIT.md": true,
+        "FORMAL-COVERAGE-AUDIT.json": true,
+        "FORMAL-COVERAGE-REVIEW.json": true,
+        "VALIDATION.json": true,
+        "validate_package.py": true,
+        "pdf/Revision-Guide.pdf": true,
+        "pdf/MCQ-Questions.pdf": true,
+        "pdf/MCQ-Solutions.pdf": true,
+        "pdf/Answer-Writing-Toolkit.pdf": true
       },
-      "tracked_index_status_diff_check": {
-        "exit_code": 0,
-        "output": ""
+      "untracked_required_files": [],
+      "pdf_git_ignore_awareness": {
+        "Revision-Guide.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "MCQ-Questions.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "MCQ-Solutions.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        },
+        "Answer-Writing-Toolkit.pdf": {
+          "tracked": true,
+          "ignored": false,
+          "rule": ""
+        }
       },
+      "release_staging_instruction_present": true,
+      "temporary_files": [],
+      "pycache_directories": [],
       "failures": [],
       "pass": true
     },
-    "git_status_awareness": {
-      "short_status": [
-        " M practice/Offline-Revision-MCQ/INDEX.md",
-        " M practice/Offline-Revision-MCQ/STATUS.json",
-        "?? practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/"
-      ],
-      "topic_package_is_untracked": true
-    },
-    "status_expectations": {
-      "topic_09_validated": true,
-      "next_topic": true
-    },
-    "index_expectations": {
-      "topic_09_listed": true,
-      "next_topic": true
+    "release_integrity": {
+      "mode": "precommit inclusion check",
+      "required_files": {
+        "README.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/README.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "REVISION-GUIDE.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/REVISION-GUIDE.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "MCQ-QUESTIONS.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-QUESTIONS.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "MCQ-SOLUTIONS.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/MCQ-SOLUTIONS.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "COVERAGE-LEDGER.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/COVERAGE-LEDGER.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "PRACTICE-LOG.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/PRACTICE-LOG.md",
+          "exists": true,
+          "tracked": true,
+          "staged": false,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "ANSWER-WRITING-TOOLKIT.md": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/ANSWER-WRITING-TOOLKIT.md",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "FORMAL-COVERAGE-AUDIT.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/FORMAL-COVERAGE-AUDIT.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "FORMAL-COVERAGE-REVIEW.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/FORMAL-COVERAGE-REVIEW.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "VALIDATION.json": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/VALIDATION.json",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "validate_package.py": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/validate_package.py",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/Revision-Guide.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/pdf/Revision-Guide.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/MCQ-Questions.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/pdf/MCQ-Questions.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/MCQ-Solutions.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/pdf/MCQ-Solutions.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        },
+        "pdf/Answer-Writing-Toolkit.pdf": {
+          "repository_path": "upsc-ai-kit/practice/Offline-Revision-MCQ/Philosophy-Optional/Philosophy-Paper-I-Western-Philosophy/09-Phenomenology-Husserl/pdf/Answer-Writing-Toolkit.pdf",
+          "exists": true,
+          "tracked": true,
+          "staged": true,
+          "unstaged_change": false,
+          "untracked": false,
+          "included_in_next_commit": true
+        }
+      },
+      "missing_or_unstaged_required_files": [],
+      "mechanical_limitations": "This proves that each required path's current content is present in the Git index. It does not commit, push or prove that a later commit will include the same index.",
+      "pass": true
     }
   },
-  "failures": []
+  "failures": [],
+  "mechanical_limits": "DEVELOPMENT_PASS certifies enumerated source-block accounting, reviewed anchors and witness overlap, MCQ/PYQ structure, visible cue metrics, links and PDF mechanics. Only RELEASE_PASS certifies current-file inclusion in the Git index. Neither proves philosophical truth, semantic completeness, future UPSC relevance or examiner marks."
 }

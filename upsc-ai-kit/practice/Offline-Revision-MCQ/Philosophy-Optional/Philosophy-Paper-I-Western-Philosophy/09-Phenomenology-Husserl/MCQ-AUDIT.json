@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "scope": "Topic 09 Phenomenology (Husserl), MCQs 1–53",
+  "scope": "Topic 09 Phenomenology (Husserl), MCQs 1–55",
   "audit_method": "Each visible stem and option is keyed below. Truth values, an explicit unique-answer reason, and proposition-specific distractor corrections were manually reviewed against the canonical Topic 09 source and the g4 package. Validator parsing checks internal alignment and specificity; it cannot independently prove philosophical truth.",
   "questions": [
     {
@@ -4241,6 +4241,167 @@
       "unique_answer_anchors": [
         "subtler dispute about transcendental dependence",
         "crude psychologism while leaving open"
+      ]
+    },
+    {
+      "number": 54,
+      "stem": "How should the sentence \"one might as well try to explain astronomy by the psychology of astronomers\" be used in a Husserl answer?",
+      "named_referents": [
+        "astronomy by the psychology of astronomers",
+        "Frege",
+        "Husserl"
+      ],
+      "answer": "B",
+      "unique_answer_reason": "The sentence usefully compresses the act-content criticism only when its paraphrase status is stated and it is not placed inside quotation marks as Frege's text.",
+      "options": {
+        "A": {
+          "text": "It should be quoted as Frege's exact wording in his 1894 review of Husserl's early arithmetic.",
+          "truth_value": false,
+          "false_proposition": "It should be quoted as Frege's exact wording in his 1894 review of Husserl's early arithmetic.",
+          "specific_correction": "It should be identified as a textbook paraphrase that captures the objection but is not Frege's verified wording.",
+          "rationale": "Frege's verified objection concerns the confusion of objective content with a subjective act, but the astronomy sentence is not established as his wording.",
+          "rationale_anchors": [
+            "objective content with a subjective act",
+            "astronomy sentence is not established"
+          ],
+          "false_proposition_anchors": [
+            "quoted as Frege's exact wording"
+          ],
+          "correction_anchors": [
+            "objective content with a subjective act",
+            "astronomy sentence is not established"
+          ]
+        },
+        "B": {
+          "text": "It should be identified as a textbook paraphrase that captures the objection but is not Frege's verified wording.",
+          "truth_value": true,
+          "rationale": "The sentence usefully compresses the act-content criticism only when its paraphrase status is stated and it is not placed inside quotation marks as Frege's text.",
+          "rationale_anchors": [
+            "paraphrase status is stated",
+            "not placed inside quotation marks"
+          ]
+        },
+        "C": {
+          "text": "It should be attributed to Husserl's 1911 essay as his definition of philosophy as rigorous science.",
+          "truth_value": false,
+          "false_proposition": "It should be attributed to Husserl's 1911 essay as his definition of philosophy as rigorous science.",
+          "specific_correction": "It should be identified as a textbook paraphrase that captures the objection but is not Frege's verified wording.",
+          "rationale": "Husserl's 1911 essay attacks naturalism and historicism; it does not supply this astronomy formulation.",
+          "rationale_anchors": [
+            "attacks naturalism and historicism",
+            "does not supply this astronomy formulation"
+          ],
+          "false_proposition_anchors": [
+            "attributed to Husserl's 1911 essay"
+          ],
+          "correction_anchors": [
+            "attacks naturalism and historicism",
+            "does not supply this astronomy formulation"
+          ]
+        },
+        "D": {
+          "text": "It should be cited as Mohanty's conclusion that Frege had no relation to Husserl's anti-psychologism.",
+          "truth_value": false,
+          "false_proposition": "It should be cited as Mohanty's conclusion that Frege had no relation to Husserl's anti-psychologism.",
+          "specific_correction": "It should be identified as a textbook paraphrase that captures the objection but is not Frege's verified wording.",
+          "rationale": "Mohanty disputes the simple causal story, not every intellectual relation between the review and Husserl's development.",
+          "rationale_anchors": [
+            "disputes the simple causal story",
+            "not every intellectual relation"
+          ],
+          "false_proposition_anchors": [
+            "Mohanty's conclusion that Frege had no relation"
+          ],
+          "correction_anchors": [
+            "disputes the simple causal story",
+            "not every intellectual relation"
+          ]
+        }
+      },
+      "unique_answer_anchors": [
+        "paraphrase status is stated",
+        "not placed inside quotation marks"
+      ]
+    },
+    {
+      "number": 55,
+      "stem": "Which statement most accurately describes the relation between Frege's 1894 review and Husserl's anti-psychologistic reversal?",
+      "named_referents": [
+        "Frege",
+        "1894 review",
+        "Husserl",
+        "anti-psychologistic reversal"
+      ],
+      "answer": "D",
+      "unique_answer_reason": "This formulation registers the chronology and influence without pretending that the contested Føllesdal-Mohanty causal question is settled.",
+      "options": {
+        "A": {
+          "text": "Frege's review demonstrably caused the reversal, and Husserl expressly acknowledged that causal dependence.",
+          "truth_value": false,
+          "false_proposition": "Frege's review demonstrably caused the reversal, and Husserl expressly acknowledged that causal dependence.",
+          "specific_correction": "Frege's review coincided with and probably sharpened a reversal whose causal sources remain disputed among scholars.",
+          "rationale": "Føllesdal stresses Frege's influence, whereas Mohanty argues from manuscripts for an independently developing anti-psychologism.",
+          "rationale_anchors": [
+            "Føllesdal stresses Frege's influence",
+            "independently developing anti-psychologism"
+          ],
+          "false_proposition_anchors": [
+            "demonstrably caused the reversal"
+          ],
+          "correction_anchors": [
+            "Føllesdal stresses Frege's influence",
+            "independently developing anti-psychologism"
+          ]
+        },
+        "B": {
+          "text": "Frege's review was irrelevant because Husserl neither read it nor encountered related Bolzanian or Lotzean arguments.",
+          "truth_value": false,
+          "false_proposition": "Frege's review was irrelevant because Husserl neither read it nor encountered related Bolzanian or Lotzean arguments.",
+          "specific_correction": "Frege's review coincided with and probably sharpened a reversal whose causal sources remain disputed among scholars.",
+          "rationale": "The dispute concerns causal weight, not whether Frege, Bolzano, Lotze and Husserl's own difficulties belong to the development's evidential context.",
+          "rationale_anchors": [
+            "dispute concerns causal weight",
+            "development evidential context"
+          ],
+          "false_proposition_anchors": [
+            "Frege's review was irrelevant"
+          ],
+          "correction_anchors": [
+            "dispute concerns causal weight",
+            "development evidential context"
+          ]
+        },
+        "C": {
+          "text": "Frege's review pushed Husserl from logic toward descriptive psychology until Ideas I reversed the change in 1913.",
+          "truth_value": false,
+          "false_proposition": "Frege's review pushed Husserl from logic toward descriptive psychology until Ideas I reversed the change in 1913.",
+          "specific_correction": "Frege's review coincided with and probably sharpened a reversal whose causal sources remain disputed among scholars.",
+          "rationale": "The direction is reversed because Husserl moves away from his 1891 psychologistic account toward the anti-psychologism of the 1900-01 Prolegomena.",
+          "rationale_anchors": [
+            "moves away from his 1891 psychologistic account",
+            "anti-psychologism of the 1900-01 Prolegomena"
+          ],
+          "false_proposition_anchors": [
+            "pushed Husserl from logic toward descriptive psychology"
+          ],
+          "correction_anchors": [
+            "moves away from his 1891 psychologistic account",
+            "anti-psychologism of the 1900-01 Prolegomena"
+          ]
+        },
+        "D": {
+          "text": "Frege's review coincided with and probably sharpened a reversal whose causal sources remain disputed among scholars.",
+          "truth_value": true,
+          "rationale": "This formulation registers the chronology and influence without pretending that the contested Føllesdal-Mohanty causal question is settled.",
+          "rationale_anchors": [
+            "contested Føllesdal-Mohanty causal question",
+            "chronology and influence"
+          ]
+        }
+      },
+      "unique_answer_anchors": [
+        "contested Føllesdal-Mohanty causal question",
+        "chronology and influence"
       ]
     }
   ],

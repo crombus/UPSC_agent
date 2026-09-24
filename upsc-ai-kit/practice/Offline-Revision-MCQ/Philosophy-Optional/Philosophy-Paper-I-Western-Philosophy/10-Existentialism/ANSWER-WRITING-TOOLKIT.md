@@ -799,6 +799,168 @@ Consequently, authenticity is a useful comparative category only if treated anal
 
 **Coverage check:** The parsed demand audit below verifies the answer's declared limbs; this is a coverage check, not a prediction of examiner marks.
 
+## Original 4 · 10 marks
+
+**Question:** "Anxiety is the dizziness of freedom." Explain what Kierkegaard means by anxiety and why he distinguishes it from fear.
+
+**Demand decoding:** Distinguish anxiety from fear in kind, explain what objectlessness discloses, connect possibility with freedom, and preserve the pseudonymous attribution.
+
+**Word/time guidance:** Write 150–200 words in about 8 minutes.
+
+### Timed independent model answer
+
+Kierkegaardian anxiety is not intensified fear but an objectless disclosure of possibility. Fear is directed toward a determinate intraworldly threat such as a dog, examination or fall. Anxiety, analysed by Vigilius Haufniensis in The Concept of Anxiety (1844), has no determinate object: its object is "a nothing."
+
+Because anxiety is not about an entity, it discloses a structure - "the possibility of being able." This is why Haufniensis calls it the "dizziness of freedom." The person at the edge of an abyss is disturbed not only by the drop but by discovering that nothing physically prevents a leap. Anxiety therefore reveals freedom as open possibility and the risk of self-formation.
+
+Anxiety is present even in innocence and is the presupposition, not the mechanical cause, of the qualitative leap through which sin and responsible selfhood become possible. A caused leap would cease to be free.
+
+The distinction is therefore one of kind rather than degree: fear returns the self to a threatening object, while anxiety exposes the self to its own possibility. Translation should be handled carefully because Angest is rendered as both "dread" and "anxiety."
+
+**Measured model-answer words:** 184
+
+**Qualification / criticism:** Anxiety discloses a structure of possibility; it is not automatically infallible knowledge or a substitute for psychological explanation.
+
+**Coverage check:** The answer distinguishes fear from anxiety, explains objectlessness, possibility and freedom, and names Vigilius Haufniensis and the 1844 work.
+
+## Original 5 · 10 marks
+
+**Question:** Explain Heidegger's notion of *das Man* and show why "falling" is not a moral failing.
+
+**Demand decoding:** Define the anonymous "they," identify its everyday modes, explain falling as an existential structure, and preserve the non-moral boundary.
+
+**Word/time guidance:** Write 150–200 words in about 8 minutes.
+
+### Timed independent model answer
+
+Das Man names the impersonal "anyone" through whom everyday norms are expressed: one reads what one reads, judges as one judges and chooses from publicly available possibilities. It is not simply other people. Because being-with is constitutive of Dasein, public interpretation belongs to being-in-the-world rather than being added to an isolated subject.
+
+Heidegger describes this everyday dispersion through idle talk, curiosity and ambiguity. These are deficient modes of disclosure: meanings circulate without appropriation, novelty replaces sustained understanding, and everything appears already accessible. Falling names Dasein's absorption in this world of concern and in the anonymous authority of the "they."
+
+Falling is not a moral or theological fall. Dasein is inauthentic "proximally and for the most part," so dispersion is an existential structure, not a vice for which blame is assigned. Authenticity is therefore a modification of everydayness rather than an escape from society.
+
+Through anxiety, the call of conscience and anticipatory resoluteness, Dasein can own its thrown possibilities. The change concerns how possibilities are appropriated, not whether the person becomes morally good. The account's residual weakness is formal emptiness: owned choice does not itself determine which projects deserve endorsement.
+
+**Measured model-answer words:** 189
+
+**Qualification / criticism:** The non-moral scope protects fundamental ontology from becoming ethics, but it also leaves the content of resolute choice underdetermined.
+
+**Coverage check:** The answer defines *das Man*, names the three everyday modes, explains falling structurally, and distinguishes authenticity from moral improvement.
+
+## Original 6 · 15 marks
+
+**Question:** Critically examine Sartre's claim that conflict is the original meaning of being-for-others.
+
+**Demand decoding:** Reconstruct the Look and shame, derive conflict from Sartre's subject-object premises, test those premises, and give a graded verdict.
+
+**Word/time guidance:** Write 250–300 words in about 12 minutes.
+
+### Timed independent model answer
+
+Sartre's conflict thesis follows from his account of the Look. In the keyhole scene, absorbed consciousness is suddenly exposed to possible observation. Shame is not an inference from another body; it is the lived recognition that I have become an object for a freedom whose judgement I cannot control. The Other is therefore an indispensable mediator between myself and the outside that I acquire.
+
+Conflict follows because each freedom seeks to recover itself from objectification. Sartre groups the responses into two strategies. Love, language and masochism attempt to assimilate the Other's freedom, but a possessed or compelled freedom cannot provide the recognition sought. Indifference, desire, sadism and hate attempt to transcend or neutralise the Other, but a reduced object cannot confer free recognition. Each strategy defeats its own aim.
+
+This structure explains the line "hell is other people," but Sartre's later clarification matters: the claim does not mean that every relation is poisonous. It describes relations in which another's judgement becomes the fixed medium of self-torment. The characters in Huis clos are dead and unable to reopen their projects.
+
+The criticism attacks Sartre's premises rather than merely rejecting his conclusion. Love, trust, care and cooperative action suggest that looking and being looked at need not be mutually exclusive. Levinas further argues that Sartre still approaches the Other from the self's struggle for mastery. Sartre's later group-in-fusion also admits forms of shared agency.
+
+The Look remains a powerful account of exposure to an unchosen perspective. Conflict is original only if subject and object are treated as exclusive positions; once reciprocal recognition is admitted, it becomes one fundamental possibility rather than the universal meaning of being-for-others.
+
+**Measured model-answer words:** 274
+
+**Qualification / criticism:** The decisive objection targets Sartre's exclusivist subject-object premise, not the reality of shame or objectification.
+
+**Coverage check:** The answer reconstructs the Look, both failed strategies, the corrected meaning of the famous line, and the reciprocity objection.
+
+## Original 7 · 15 marks
+
+**Question:** "Pseudonymity is the formal counterpart of the doctrine that truth is subjectivity." Discuss.
+
+**Demand decoding:** Derive indirect communication from subjective appropriation, explain the pseudonyms as existence-possibilities, and test the method's self-referential cost.
+
+**Word/time guidance:** Write 250–300 words in about 12 minutes.
+
+### Timed independent model answer
+
+The statement is defensible because Kierkegaard's literary form follows from his account of existential truth. Objective results in history or science can be communicated directly without changing the recipient's mode of existence. Ethical and religious truth, however, concerns how a person appropriates a possibility through inwardness, risk and commitment.
+
+Direct communication would turn such truth into information that could be possessed without being lived. Indirect communication therefore withholds a final result and refuses authorial authority so that the reader must choose. Its Socratic model is maieutic: the communicator becomes a vanishing occasion who "deceives into the truth" rather than handing over a doctrine.
+
+Pseudonymity gives this method concrete form. Johannes de Silentio admires faith without claiming to possess it; Johannes Climacus presents himself as not a Christian while asking how one becomes one; Anti-Climacus writes from an ideal Christian standpoint above Kierkegaard's own. Each voice is a personified existence-possibility whose limits matter to interpretation.
+
+The signed Upbuilding Discourses provide the direct pole of this double authorship. In the "First and Last Declaration" appended to the Postscript, Kierkegaard calls himself the pseudonyms' prompter and asks that their statements be attributed to them.
+
+The method creates a genuine problem: if subjective truth cannot be stated directly, the thesis itself appears self-undermining. Kierkegaard's signed Point of View offers retrospective guidance, but its posthumous publication and apologetic purpose prevent it from simply cancelling the pseudonymous distances. Climacus's revocation of the Postscript accepts the self-referential cost. Pseudonymity is therefore not disguise but a self-consuming method designed to prevent existential truth from becoming a transferable system.
+
+**Measured model-answer words:** 260
+
+**Qualification / criticism:** The method protects appropriation but makes Kierkegaard's own settled position difficult to attribute.
+
+**Coverage check:** The answer derives the method, distinguishes major pseudonyms, includes double authorship and the Declaration, and addresses self-reference.
+
+## Original 8 · 20 marks
+
+**Question:** "Anxiety is not a stronger kind of fear." Examine the role of anxiety in Kierkegaard, Heidegger and Sartre, and assess whether a mood can disclose a philosophical truth.
+
+**Demand decoding:** Establish the difference in kind, compare the three disclosures, distinguish Sartrean anguish from nausea, answer the naturalist objection, and grade the epistemic claim.
+
+**Word/time guidance:** Write 340–400 words in about 18 minutes.
+
+### Timed independent model answer
+
+Fear and anxiety differ in kind rather than degree. Fear discloses a determinate entity as threatening and keeps the subject within an established world of concern. Anxiety has no such object. Since it nevertheless has intelligible content, the existentialists treat it as disclosing a structure rather than an entity.
+
+The comparison rests on a shared phenomenological sequence. Moods disclose a situation before reflective judgement; fear remains tied to one being; anxiety withdraws that object; the withdrawal exposes the background structure that ordinary practical absorption conceals. The three thinkers agree on the sequence but disagree about what the disclosed structure is.
+
+For Kierkegaard, Vigilius Haufniensis in The Concept of Anxiety describes anxiety as the "dizziness of freedom." Its object is "a nothing," and what it reveals is possibility, "the possibility of being able." Anxiety is present in innocence and is the presupposition, not the mechanical cause, of the qualitative leap into sin and responsible selfhood.
+
+For Heidegger, anxiety in Being and Time section 40 makes the familiar referential world lose significance. That in the face of which and that for which Dasein is anxious are the same: being-in-the-world as such. Anxiety individualises Dasein, discloses uncanniness and frees it for authentic choosing. In "What is Metaphysics?" it also reveals the Nothing, though this later formulation should not replace the existential analytic.
+
+For Sartre, anguish reveals the for-itself's unsupported freedom. On the cliff path, fear concerns falling, while anguish arises when I realise that nothing guarantees I will not throw myself over. The gambler similarly finds yesterday's resolution present but powerless unless it is remade. Anguish must be distinguished from nausea, which discloses the contingency of being-in-itself.
+
+The shared argument is that moods are not private colourings added to a neutral world; they are ways a situation is disclosed. Objectlessness therefore requires explanation. Yet the naturalist can treat anxiety as clinical or neurochemical without granting philosophical privilege.
+
+The existentialist need not claim that anxious persons possess infallible knowledge. A mood may disclose a structural relation - possibility, being-in-the-world or freedom - while remaining corrigible and compatible with causal explanation. Anxiety is philosophically revealing when its form is analysed, but the three thinkers' conclusions must not be merged into one theory.
+
+**Measured model-answer words:** 365
+
+**Qualification / criticism:** Mood-disclosure is a fallible phenomenological claim and does not refute clinical or naturalistic accounts.
+
+**Coverage check:** The answer gives the shared argument, differentiates all three thinkers, separates anguish from nausea, and answers the naturalist objection.
+
+## Original 9 · 20 marks
+
+**Question:** Existentialism has been charged with subjectivism, pessimism and social abstraction. Examine these charges with reference to Kierkegaard, Sartre and Heidegger.
+
+**Demand decoding:** Split the family label, test each charge thinker by thinker, distinguish misdescription from residual weakness, and concede the strongest surviving objection.
+
+**Word/time guidance:** Write 340–400 words in about 18 minutes.
+
+### Timed independent model answer
+
+The three charges cannot be answered on behalf of a single existentialist school. Kierkegaard died before the label became current, Heidegger denied it in the Letter on Humanism, and Sartre alone accepted and defined it. Each objection therefore requires three different tests.
+
+This family-label warning is methodologically important. Kierkegaard's question concerns becoming a self before God, Sartre's concerns freedom without a divine blueprint, and Heidegger's concerns the Being of Dasein. A criticism that moves unchanged across those projects risks attacking a retrospective category rather than any philosopher's actual argument.
+
+The charge of subjectivism largely misfires. Kierkegaard's "truth is subjectivity" concerns passionate appropriation in ethical and religious existence, not the denial of objective truth; its complement, "subjectivity is untruth," blocks relativism. Sartrean choice is not private preference because it accepts responsibility and presents an image of humanity. Heidegger is conducting fundamental ontology, while his criticism of das Man opposes reliance on received opinion.
+
+Pessimism is also usually a semantic mistake. Anxiety, despair, death and nothingness are technical structures rather than reports that every life is miserable. Kierkegaardian despair may be unfelt; Heideggerian being-toward-death individualises possibility rather than recommending morbidity; Sartrean anguish registers freedom rather than hopelessness.
+
+Social abstraction is the strongest charge. Early Sartre under-describes racialised, gendered and material constraint. De Beauvoir, Fanon and Marxist criticism expose this weakness, and Sartre's later Critique of Dialectical Reason introduces scarcity, seriality and the practico-inert. Heidegger makes being-with constitutive, but authenticity remains formally empty, a problem sharpened by his political record and Adorno's criticism. Kierkegaard preserves individual responsibility but offers a thin account of institutions and community.
+
+The charge also differs internally. Sartre attempts a later conceptual repair, whereas Heidegger can reply that fundamental ontology was never intended as social ethics. Kierkegaard can insist that institutions cannot substitute for appropriation. Those replies clarify scope, but neither scope-limitation supplies the missing account of domination, collective action or institutional reform.
+
+The available replies are partial. Situated freedom denies that facticity mechanically determines meaning; being-with denies an originally isolated Dasein; the single individual resists absorption into systems and crowds. None fully supplies a social theory.
+
+Subjectivism and pessimism are therefore mostly misdescriptions produced by ignoring technical vocabulary. Social abstraction remains a genuine residue: later Sartre repairs part of it, while Heideggerian and Kierkegaardian resources are insufficiently institutional. A defensible verdict preserves existentialism's account of responsibility and finitude while conceding its uneven treatment of structural power.
+
+**Measured model-answer words:** 398
+
+**Qualification / criticism:** The strongest answer concedes the social-theory deficit instead of dissolving every criticism through vocabulary.
+
+**Coverage check:** The answer separates the three projects, rules on all three charges, uses later Sartre, and gives a residual rather than total defence.
+
 ## Self-evaluation grid
 
 | Criterion | 0 | 1 | 2 |
@@ -810,3 +972,18 @@ Consequently, authenticity is a useful comparative category only if treated anal
 | Verdict | absent | generic | graded and demand-specific |
 
 Stop handwriting if pain, numbness, tingling, swelling or weakness increases; resume only when comfortable.
+
+## Inbound obligations from Topic 09
+
+- `WP-2018-Q4A-EPOCHE-HEIDEGGER` — Topic 10 is the primary owner of 2018 Q4(a).
+  The answer defines Husserlian epoché as suspension of the existence-posit, then explains that
+  Heidegger rejects a worldless spectator-subject because Dasein is always already
+  being-in-the-world. The Husserlian premise remains Topic 09's bounded contribution.
+- `WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS` — Topic 10 is the primary owner of
+  2026 Q2(c). The answer establishes Sartre's non-egological consciousness as nothing and
+  compares it with Husserl's intentional and constituting transcendental subjectivity. Topic 09
+  supplies the Husserlian half without owning Sartre's position.
+
+Neither obligation permits Topic 09 to claim primary ownership, Heideggerian
+being-in-the-world to be treated as Husserl's doctrine, or Sartrean nothingness to be reduced to
+Husserlian epoché.

@@ -2,7 +2,7 @@
 
 ## Explicit coverage matrix
 
-The 53-question total was derived from the operations below before closure. It is independent of the 56-candidate g4 workbook and is not a round target. Cells receive distinct recognition, reasoning, elimination and transfer tests where the doctrine creates different error risks.
+The 55-question total was derived from the operations below before closure. It is independent of any previous topic total and is not a round target. Cells receive distinct recognition, reasoning, elimination and transfer tests where the doctrine creates different error risks.
 
 | Cell | Substantive coverage | Operations | MCQs | PYQ route | Status |
 |---|---|---|---:|---|---|
@@ -16,6 +16,7 @@ The 53-question total was derived from the operations below before closure. It i
 | C08 | psychologism, ideal validity and transcendental reply | argument; self-refutation; critical reply | 37–41 | 2020, 2022 | Complete |
 | C09 | intersubjectivity, appresentation and solipsism | mechanism; objection; evaluation | 42–46 | 2025 | Complete |
 | C10 | criticism, ownership boundaries and synthetic evaluation | ownership; criticism; provenance; synthesis | 47–53 | 2026 cross-link | Complete |
+| C11 | Frege review attribution and disputed reversal causation | quotation discipline; historiography; elimination | 54–55 | 2020, 2022 | Complete |
 
 ## Mechanical source-cell inventory
 
@@ -93,6 +94,8 @@ The validator reads the latest g4 session and workbook plus the canonical owner.
 | 51 | C10 | New | S01,S08,S09,S10 | — | criticism, ownership boundaries and synthetic evaluation |
 | 52 | C10 | New | S01,S08,S09,S10 | — | criticism, ownership boundaries and synthetic evaluation |
 | 53 | C10 | New | S01,S08,S09,S10 | — | criticism, ownership boundaries and synthetic evaluation |
+| 54 | C11 | Adapted | S09 | 27 | reject the misattributed astronomy sentence as a Frege quotation |
+| 55 | C11 | Adapted | S09 | 28 | state the Føllesdal-Mohanty causal dispute without false certainty |
 
 ## Deduplication and cue-control record
 
@@ -116,10 +119,11 @@ Directly owned: **7** — 2019 Q1(b), 2020 Q1(c), 2021 Q4(a), 2022 Q1(d), 2023 Q
 
 ## Source lineage
 
-1. Latest learner-v2 g4 complete learning session and solved workbook, read and hashed by the validator.
+1. Authoritative completed formal session and workbook under
+   `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\learning_package_final\Philosophy-Optional\Philosophy-Paper-I-—-Western-Philosophy\09-Phenomenology-(Husserl)`.
 2. Canonical `knowledge/Philosophy/paper-1/western/Phenomenology-Husserl.md`.
-3. Earlier layered complete session and workbook for substantive reconciliation.
-4. Verified 2018–2025 and 2026 PYQ ledgers for exact wording, marks and ownership.
+3. Verified 2018–2025 and 2026 PYQ ledgers for exact wording, marks and ownership.
+4. `C:\up\learning_package_final` is rejected as derivative authority.
 
 ## Non-MCQ reconciliation ledger
 
@@ -130,10 +134,50 @@ Substantive source cells were reconciled, adapted and mapped into the package; r
 | Ten basic sessions | complete concepts, examples, objections and exam use | Revision Guide |
 | Advanced depth | development, interpretive disputes, provenance and successor critiques | Revision Guide |
 | Final register notes | consolidated retrieval layer placed last | Revision Guide |
+| Exact 30-panel formal master flow | ordered labels and byte-identical panel payloads | Revision Guide |
 | Seven directly owned PYQs | exact prompt, timed answer, criticism and marks logic | Answer-Writing Toolkit |
 | 2026 comparison | bounded cross-link without duplicate ownership | Revision Guide; Toolkit |
-| Original practice | complete solved 10-, 15- and 20-mark answers | Answer-Writing Toolkit |
+| Six formal original exercises | two solved models at each of 10, 15 and 20 marks; excess depth retained outside timed answers | Answer-Writing Toolkit |
+| Additional transfer practice | one further solved model at each mark level | Answer-Writing Toolkit |
+
+## Formal reconciliation summary
+
+The frozen preflight contains **217 formal blocks**: **41 structural umbrellas**, **176 leaves**,
+**17 large leaves**, **30 ordered master-flow panels**, and **78 distributed proposition units**.
+Every block is classified exactly once in the authored review. The decision totals are:
+
+| Classification | Count |
+|---|---:|
+| `covered_in_scope` | 192 |
+| `genuine_in_scope_omission` | 21 |
+| `routed_to_canonical_owner` | 4 |
+| `excluded_doubt_only_non_formal_enrichment` | 0 |
+| Unreviewed / unresolved | 0 |
+
+The 21 repaired omissions comprise the two formal inventory declarations, both original-practice
+umbrellas and their twelve exercise leaves, the authoritative 30-panel master-flow block, and the
+duplicate session/workbook copies of formal MCQs 27–28 on quotation and causal-attribution
+discipline.
+The four routed leaves are duplicate session/workbook copies of two obligations.
+
+## Bounded route obligations
+
+| Obligation | Exact formal source multiplicity | Primary owner | Topic 09 boundary | Status |
+|---|---:|---|---|---|
+| `WP-2018-Q4A-EPOCHE-HEIDEGGER` | 2 | Topic 10 Existentialism | Defines epoché accurately, but Heidegger's rejection and being-in-the-world carry the principal demand | `fulfilled_substantively` |
+| `WP-2022-Q4B-DESCARTES-CERTAINTY` | 2 | Topic 02 Rationalism | Supplies only the Husserl/Descartes contrast; Cartesian certainty and world-knowledge remain Topic 02 | `fulfilled_substantively` |
+| `WP-2026-Q2C-SARTRE-HUSSERL-CONSCIOUSNESS` | canonical cross-link | Topic 10 Existentialism | Supplies Husserlian intentional/transcendental subjectivity only; Sartre's nothingness comparison remains Topic 10 | `fulfilled_substantively` |
+
+All three obligations bind exact source identities to destination assertion sets with required
+positive claims and forbidden ownership/contradiction patterns. Cross-links never inflate Topic
+09's seven directly owned PYQs.
 
 ## Completion decision
 
-The bank closes at 53 because every matrix cell is mapped and no additional question is needed to test a substantively distinct operation. The validator verifies structure, parsed proposition-level audit data, declared source lineage, demand-limb anchors, cue risks, textual integrity and PDF output. Manual review supplies the truth judgements; the mechanical gates do not certify interpretive completeness, philosophical truth or examiner marks.
+The bank closes at 55 because every matrix cell is mapped and no additional question is needed
+to test a substantively distinct operation. Its independently randomized key is
+`DADDADAACCBCAACDBABABCAABBDBBDCDCCDCBDBDCDCCBABADAACBBD`, distributed
+**A14/B14/C13/D14**, with maximum run **2**. The validator verifies structure, authored
+proposition correspondence, routes, demand-limb anchors, cue risks, textual integrity and PDF
+identity. Manual review supplies the truth judgements; the mechanical gates do not certify
+interpretive completeness, philosophical truth or examiner marks.
