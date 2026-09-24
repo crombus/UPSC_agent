@@ -86,7 +86,7 @@ Yet “diversification” is not automatically profitable. A household may add a
 
 ### UPSC trap
 
-> **Trap:** “Animal husbandry is agricultural income for every legal purpose.”  
+> **Trap:** “Animal husbandry is agricultural income for every legal purpose.”
 > **Correction:** national-account classification, programme classification and income-tax treatment answer different legal/economic questions. Never transfer a label across contexts without checking the governing definition.
 
 ### Retrieval notes
@@ -609,7 +609,7 @@ Where the seller knows germplasm quality but the farmer cannot verify it, **info
 
 ### Rashtriya Gokul Mission anchor
 
-✅ **Stable fact:** RGM concerns development and conservation of indigenous bovine breeds and bovine genetic improvement/productivity.  
+✅ **Stable fact:** RGM concerns development and conservation of indigenous bovine breeds and bovine genetic improvement/productivity.
 ⚠️ **Do not infer:** that a scheme name proves field-level conception, survival or income outcomes.
 
 ### Retrieval notes
@@ -2475,7 +2475,7 @@ Use sensitivity tests for feed price, yield, output price, disease, mortality an
 
 ## 6. Productivity system
 
-> **Mnemonic: G-F-H-C-M**  
+> **Mnemonic: G-F-H-C-M**
 > **Genetics x Feed x Health x Climate x Management**
 
 - complements mean the weakest constraint can dominate;
