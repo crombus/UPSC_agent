@@ -19,7 +19,7 @@
 | Philosophy-Optional | Mimamsa - Restarted Complete Session | 12 | 16,803 | `f5a06ff92101` | [Philosophy-Optional/07-Mimamsa/Learning-Session-Live-Edition.md](Philosophy-Optional/07-Mimamsa/Learning-Session-Live-Edition.md) |
 | Philosophy-Optional | Schools of Vedanta | 14 | 49,946 | `6a8b1b757a56` | [Philosophy-Optional/08-Vedanta/Learning-Session-Live-Edition.md](Philosophy-Optional/08-Vedanta/Learning-Session-Live-Edition.md) |
 | Philosophy-Optional | Sri Aurobindo | 9 | 38,739 | `f2973228f881` | [Philosophy-Optional/09-Sri-Aurobindo/Learning-Session-Live-Edition.md](Philosophy-Optional/09-Sri-Aurobindo/Learning-Session-Live-Edition.md) |
-| Western-Philosophy | Plato and Aristotle | 10 | 37,636 | `268b455aa59c` | [Western-Philosophy/01-Plato-Aristotle/Learning-Session-Live-Edition.md](Western-Philosophy/01-Plato-Aristotle/Learning-Session-Live-Edition.md) |
+| Western-Philosophy | Plato and Aristotle | 10 | 19,524 | `b4b38e817df7` | [Western-Philosophy/01-Plato-Aristotle/Learning-Session-Live-Edition.md](Western-Philosophy/01-Plato-Aristotle/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Rationalism — Descartes, Spinoza and Leibniz | 10 | 37,648 | `b06d653c31d5` | [Western-Philosophy/02-Rationalism/Learning-Session-Live-Edition.md](Western-Philosophy/02-Rationalism/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Empiricism — Locke, Berkeley and Hume | 10 | 42,854 | `58e4c9eaf0fb` | [Western-Philosophy/03-Empiricism/Learning-Session-Live-Edition.md](Western-Philosophy/03-Empiricism/Learning-Session-Live-Edition.md) |
 | Western-Philosophy | Kant | 12 | 40,611 | `6ee75f2f9dfe` | [Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md](Western-Philosophy/04-Kant/Learning-Session-Live-Edition.md) |
