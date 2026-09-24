@@ -49,6 +49,7 @@
 | Economy | Economy 23 - Poverty, Inequality, Social Sector and Inclusive Growth | 18 | 26,134 | `be3fe63655f7` | [Economy/23-Poverty-Inequality-Social-Sector-Inclusive-Growth/Learning-Session-Live-Edition.md](Economy/23-Poverty-Inequality-Social-Sector-Inclusive-Growth/Learning-Session-Live-Edition.md) |
 | Economy | Economy 24 - Services, Digital Economy, Fintech and Platform Markets | 14 | 21,174 | `9041a2571a47` | [Economy/24-Services-Digital-Economy-Fintech-Platform-Markets/Learning-Session-Live-Edition.md](Economy/24-Services-Digital-Economy-Fintech-Platform-Markets/Learning-Session-Live-Edition.md) |
 | Economy | Economy 25 - Climate Economics, Green Finance and Circular Economy | 19 | 29,945 | `18e8c7b1d6d9` | [Economy/25-Climate-Economics-Green-Finance-Circular-Economy/Learning-Session-Live-Edition.md](Economy/25-Climate-Economics-Green-Finance-Circular-Economy/Learning-Session-Live-Edition.md) |
+| Economy | Economy 26 - Economic Survey Synthesis and Current Macro Dashboard | 20 | 20,648 | `01e68208ff27` | [Economy/26-Economic-Survey-Synthesis-Current-Macro-Dashboard/Learning-Session-Live-Edition.md](Economy/26-Economic-Survey-Synthesis-Current-Macro-Dashboard/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
