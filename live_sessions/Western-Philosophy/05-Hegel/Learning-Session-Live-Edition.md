@@ -331,8 +331,72 @@ pairing is the single most examiner-rewarded move in this entire topic.
 - **Trap:** never stop at defining the triad; always pair it with one worked transition.
 - **Practice link:** MCQs 1, 2, 3, 29; PYQs 2019 Q1(c), 2021 Q2(a), 2022 Q3(b).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 1
+
+For Hegel, the dialectical method is best described as:
+
+A. the immanent self-development of concepts driven by their own internal contradictions
+B. an external technique of debate imposed on a subject matter by the philosopher
+C. a purely empirical generalisation from observed historical facts
+D. a formal logic that forbids every contradiction as mere error
+
+**Correct answer: A**
+
+**Explanation:** Dialectic is the immanent self-movement of thought/reality, not a tool applied from outside;
+contradiction is productive, not a mere mistake. (B) mistakes dialectic for debate; (C) mistakes it for empirical
+induction; (D) confuses Hegelian with formal-logical contradiction.
+
+#### MCQ 2
+
+'Determinate negation' in Hegel means that:
+
+A. every negation collapses into a wholly empty, indeterminate nothing
+B. the negation of a specific concept yields a specific, positive new result
+C. negation is a merely subjective act of doubting
+D. contradiction must always be avoided to preserve consistency
+
+**Correct answer: B**
+
+**Explanation:** Unlike abstract negation, determinate negation is contentful: negating a definite category
+produces a definite successor, so nothing true is simply lost. (A) describes scepticism's empty negation; (C) and
+(D) misdescribe negation and contradiction respectively.
+
+#### MCQ 3
+
+In Hegel's method, contradiction functions as:
+
+A. a fatal sign that an argument has gone wrong
+B. a purely verbal confusion to be dissolved by analysis
+C. the internal engine that drives a category beyond itself to a richer one
+D. an illusion the finite understanding projects onto a static reality
+
+**Correct answer: C**
+
+**Explanation:** For Hegel a category's internal contradiction is the motor of development, pushing thought to a
+more adequate determination rather than signalling failure, as it would in formal logic (A).
+
+#### MCQ 4
+
+Hegel's term *Aufhebung* (sublation) simultaneously means:
+
+A. only to cancel and destroy
+B. only to preserve unchanged
+C. only to raise to a higher level
+D. to cancel, to preserve and to raise to a higher level at once
+
+**Correct answer: D**
+
+**Explanation:** *Aufhebung* is triple-valued: it negates the earlier stage, keeps its truth as a subordinate
+moment, and lifts it into a higher unity — options A–C each isolate only one of the three senses.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 2 / 11  |  Stage: Foundation  |  Subtopic: Sublation and becoming — *Aufhebung*, Being–Nothing–Becoming and the 2026 self-development question
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -524,8 +588,71 @@ sense — the demand is the *logical* identity of the Absolute's being and its s
   about ordinary temporal change.
 - **Practice link:** MCQs 4, 5, 6, 30, 37; PYQs 2019 Q1(c), 2021 Q2(a), **2026 Q1(c)**.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 4
+
+Hegel's term *Aufhebung* (sublation) simultaneously means:
+
+A. only to cancel and destroy
+B. only to preserve unchanged
+C. only to raise to a higher level
+D. to cancel, to preserve and to raise to a higher level at once
+
+**Correct answer: D**
+
+**Explanation:** *Aufhebung* is triple-valued: it negates the earlier stage, keeps its truth as a subordinate
+moment, and lifts it into a higher unity — options A–C each isolate only one of the three senses.
+
+#### MCQ 5
+
+The opening triad of Hegel's *Science of Logic* runs:
+
+A. Being – Nothing – Becoming
+B. Thesis – Antithesis – Synthesis
+C. Idea – Nature – Spirit
+D. Universal – Particular – Individual
+
+**Correct answer: A**
+
+**Explanation:** Pure Being, thought consistently, is indistinguishable from Nothing; their truth is Becoming —
+the paradigm case of determinate negation. (B) is post-Hegelian shorthand; (C) is the system's three domains; (D)
+is the Concept's three moments — both real Hegelian triads, but not this one.
+
+#### MCQ 6
+
+Hegel's 'concrete universal' together with 'the True is the Whole' asserts that:
+
+A. truth is a set of isolated, self-standing propositions
+B. truth is the entire developed system, in which the universal is enriched by its particulars
+C. only abstract universals stripped of all particularity are true
+D. the whole is unknowable, so only parts can be true
+
+**Correct answer: B**
+
+**Explanation:** Truth is the developed totality, not an isolated abstraction; the concrete universal contains
+and organises its particular moments, the reverse of the abstract-universal picture in (C).
+
+#### MCQ 7
+
+In Hegel's system, Logic, Nature and Spirit correspond respectively to the Idea:
+
+A. returned-to-itself, in-itself, outside-itself
+B. outside-itself, returned-to-itself, in-itself
+C. in-itself, outside-itself, returned-to-itself
+D. in-itself, returned-to-itself, outside-itself
+
+**Correct answer: C**
+
+**Explanation:** Logic = Idea in-itself; Nature = Idea outside-itself (in otherness); Spirit = Idea
+returned-to-itself in full self-knowledge.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 3 / 11  |  Stage: Foundation  |  Subtopic: Concrete universal and system — identity-in-difference; Logic, Nature and Spirit
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -718,8 +845,71 @@ different architectural claims (see the Part A boundary caution).
   circularity charge; do not mechanically identify the Concept's triad with Spirit's divisions.
 - **Practice link:** MCQs 7, 8, 9, 31, 38; PYQs 2021 Q2(a), 2022 Q3(b).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 7
+
+In Hegel's system, Logic, Nature and Spirit correspond respectively to the Idea:
+
+A. returned-to-itself, in-itself, outside-itself
+B. outside-itself, returned-to-itself, in-itself
+C. in-itself, outside-itself, returned-to-itself
+D. in-itself, returned-to-itself, outside-itself
+
+**Correct answer: C**
+
+**Explanation:** Logic = Idea in-itself; Nature = Idea outside-itself (in otherness); Spirit = Idea
+returned-to-itself in full self-knowledge.
+
+#### MCQ 8
+
+Which sequence correctly orders the divisions of Hegel's philosophy of Spirit?
+
+A. absolute → objective → subjective spirit
+B. objective → subjective → absolute spirit
+C. subjective → absolute → objective spirit
+D. subjective → objective → absolute spirit
+
+**Correct answer: D**
+
+**Explanation:** Spirit unfolds as subjective (individual mind), objective (law, morality, the state) and
+absolute (art, religion, philosophy).
+
+#### MCQ 9
+
+In Absolute Spirit, the three forms in which Spirit knows itself are:
+
+A. art, religion and philosophy
+B. family, civil society and the state
+C. logic, nature and history
+D. sensation, perception and understanding
+
+**Correct answer: A**
+
+**Explanation:** Absolute Spirit comprises art (sensuous), religion (representational) and philosophy
+(conceptual) — three grades of the Absolute's self-knowledge. (B) is objective Spirit's ethical-life ladder, a
+different triad.
+
+#### MCQ 10
+
+The lordship-bondage dialectic begins from a struggle in which each self-consciousness seeks:
+
+A. material wealth from the other
+B. recognition (*Anerkennung*) from the other
+C. to labour on behalf of the other
+D. to flee all contact with the other
+
+**Correct answer: B**
+
+**Explanation:** Self-consciousness attains itself only in being recognised by another; the life-and-death
+struggle is for recognition, not material gain.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 4 / 11  |  Stage: Core  |  Subtopic: Lordship and bondage — recognition, struggle, labour, dependence and reversal
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -840,8 +1030,70 @@ unequal recognition and its continuation into thought.
 - **Trap / limit:** it proves unequal recognition is *conceptually* unstable, not *historically* short-lived.
 - **Practice link:** MCQs 10, 11, 12, 32; PYQs 2021 Q2(a), 2022 Q3(b) (as the concrete instance).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 10
+
+The lordship-bondage dialectic begins from a struggle in which each self-consciousness seeks:
+
+A. material wealth from the other
+B. recognition (*Anerkennung*) from the other
+C. to labour on behalf of the other
+D. to flee all contact with the other
+
+**Correct answer: B**
+
+**Explanation:** Self-consciousness attains itself only in being recognised by another; the life-and-death
+struggle is for recognition, not material gain.
+
+#### MCQ 11
+
+In the master-slave dialectic, the bondsman advances toward independent self-consciousness through:
+
+A. the master's generous recognition
+B. victory in a second life-and-death struggle
+C. formative labour (*Bildung*) on the object together with the discipline of fear
+D. withdrawal into Stoic indifference
+
+**Correct answer: C**
+
+**Explanation:** Through fear of death and disciplined work that shapes the world, the bondsman objectifies and
+educates himself — the reversal of the relation. (D) is the *next* shape, not the mechanism of this one.
+
+#### MCQ 12
+
+The 'reversal' in the master-slave dialectic is that:
+
+A. the slave comes to depend wholly on the master
+B. the master achieves complete, satisfying recognition
+C. both parties attain equal recognition immediately
+D. the master becomes dependent, receiving recognition from a consciousness he deems unworthy
+
+**Correct answer: D**
+
+**Explanation:** The master's recognition is worthless because it comes from a mere thing; he grows dependent,
+while the labouring bondsman gains substance.
+
+#### MCQ 13
+
+In the *Phenomenology*, Stoicism is the freedom of self-consciousness that:
+
+A. withdraws into thought and is free 'whether on the throne or in chains'
+B. denies the reality of the external world altogether
+C. locates the Unchangeable in a transcendent beyond
+D. achieves reconciliation through a mediating priest
+
+**Correct answer: A**
+
+**Explanation:** Stoicism secures inner freedom in thought irrespective of outward station, but its freedom is
+abstract and indifferent to content. (C) and (D) describe the later Unhappy Consciousness.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 5 / 11  |  Stage: Core  |  Subtopic: Shapes of consciousness — Stoicism, scepticism and unhappy consciousness
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -990,8 +1242,71 @@ three moments of the Unhappy Consciousness → the reversal into Reason → clos
   cure — this is the bridge to Lesson 10.
 - **Practice link:** MCQs 13, 14, 15, 33; cross-link 2023 Q1(d) (Existentialism-owned, taught fully in Lesson 10).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 13
+
+In the *Phenomenology*, Stoicism is the freedom of self-consciousness that:
+
+A. withdraws into thought and is free 'whether on the throne or in chains'
+B. denies the reality of the external world altogether
+C. locates the Unchangeable in a transcendent beyond
+D. achieves reconciliation through a mediating priest
+
+**Correct answer: A**
+
+**Explanation:** Stoicism secures inner freedom in thought irrespective of outward station, but its freedom is
+abstract and indifferent to content. (C) and (D) describe the later Unhappy Consciousness.
+
+#### MCQ 14
+
+Scepticism, as the truth of Stoicism, is characterised by Hegel as:
+
+A. serene indifference to fortune
+B. the active negation of all determinate content, lapsing into self-contradiction
+C. devotion to an Unchangeable God
+D. the formative labour of the bondsman
+
+**Correct answer: B**
+
+**Explanation:** Scepticism actively negates every determinacy, yet must go on living and asserting, so it
+contradicts itself — a divided consciousness emerges.
+
+#### MCQ 15
+
+The Unhappy Consciousness is Hegel's analysis of:
+
+A. the reconciled ethical community of Spirit
+B. the master's satisfied self-certainty
+C. a divided consciousness that projects the Unchangeable beyond itself and feels its own nothingness
+D. the sceptic's cheerful self-contradiction
+
+**Correct answer: C**
+
+**Explanation:** The Unhappy Consciousness internalises the sceptical split as its own: it locates the
+Unchangeable in a beyond and experiences itself as worthless, mediated by devotion, work and a mediator.
+
+#### MCQ 16
+
+Hegel's dictum 'What is rational is actual and what is actual is rational' is correctly read as:
+
+A. a blanket endorsement of whatever currently exists
+B. a denial that anything existing can ever be criticised
+C. a claim that only ideas, never events, are real
+D. a claim that the fully actual (*wirklich*) is what has realised its rational essence, not mere existence
+   (*Dasein*)
+
+**Correct answer: D**
+
+**Explanation:** 'Actual' is technical: *wirklich* means realised rational essence, not brute *Dasein* — so the
+dictum is a criterion, not a blessing of the status quo.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 6 / 11  |  Stage: Core  |  Subtopic: Absolute Idealism — "The real is rational," Absolute as Subject, not merely Substance
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1142,8 +1457,71 @@ the second line, or the sentence means the opposite of what Hegel intends.
 - **Trap:** "the real is the rational" does not mean "whatever exists is justified."
 - **Practice link:** MCQs 16, 17, 18, 34, 39; PYQs 2020 Q1(d), 2021 Q2(a).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 16
+
+Hegel's dictum 'What is rational is actual and what is actual is rational' is correctly read as:
+
+A. a blanket endorsement of whatever currently exists
+B. a denial that anything existing can ever be criticised
+C. a claim that only ideas, never events, are real
+D. a claim that the fully actual (*wirklich*) is what has realised its rational essence, not mere existence
+   (*Dasein*)
+
+**Correct answer: D**
+
+**Explanation:** 'Actual' is technical: *wirklich* means realised rational essence, not brute *Dasein* — so the
+dictum is a criterion, not a blessing of the status quo.
+
+#### MCQ 17
+
+In insisting the Absolute is 'Subject, not merely Substance', Hegel chiefly corrects:
+
+A. Spinoza's inert, undifferentiated substance, by making the Absolute self-developing and self-knowing
+B. Kant's category of causality
+C. Berkeley's *esse est percipi*
+D. Fichte's coinage of thesis-antithesis-synthesis
+
+**Correct answer: A**
+
+**Explanation:** Hegel keeps Spinoza's monism but rejects its inertness: the Absolute must develop and know
+itself, i.e. be Subject as well as Substance.
+
+#### MCQ 18
+
+Within Hegel's Absolute Idealism, the phenomenal world is:
+
+A. an independent thing-in-itself lying beyond Spirit
+B. a finite, mediated moment of the self-developing Absolute — real but not ultimate
+C. a private illusion within each individual mind
+D. wholly unreal and simply negated by the Absolute
+
+**Correct answer: B**
+
+**Explanation:** The phenomenal world is the Absolute's own self-externalisation: real as a moment, sublated in
+the return to Spirit, neither Kant's noumenon nor Berkeley's idea.
+
+#### MCQ 19
+
+Hegel's core objection to Kant's unknowable thing-in-itself is that:
+
+A. it is in fact knowable through ordinary sense-perception
+B. it is proved to exist by the moral law
+C. to posit a limit to thought is already to think beyond the limit, so no unknowable residue remains
+D. it is identical with Berkeley's ideas in the mind
+
+**Correct answer: C**
+
+**Explanation:** Marking a boundary of thought is itself an act of thought that crosses it; the 'beyond' is
+thereby drawn within thought, leaving no inaccessible residue.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 7 / 11  |  Stage: Core  |  Subtopic: Hegel's challenge to Kant — phenomena/noumena, thought and reality, Kantian dualism and the 2026 comparison
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1347,8 +1725,70 @@ Q4(b) as Hegel-owned PYQs.
   *remedy* (full bridge, Lesson 10, Part C).
 - **Practice link:** MCQs 19, 20, 21, 35, 40, 41; PYQ 2025 Q1(e); cross-links 2018 Q2(b), **2026 Q4(b)**.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 19
+
+Hegel's core objection to Kant's unknowable thing-in-itself is that:
+
+A. it is in fact knowable through ordinary sense-perception
+B. it is proved to exist by the moral law
+C. to posit a limit to thought is already to think beyond the limit, so no unknowable residue remains
+D. it is identical with Berkeley's ideas in the mind
+
+**Correct answer: C**
+
+**Explanation:** Marking a boundary of thought is itself an act of thought that crosses it; the 'beyond' is
+thereby drawn within thought, leaving no inaccessible residue.
+
+#### MCQ 20
+
+Strawson's *The Bounds of Sense* converges with Hegel in holding that:
+
+A. the thing-in-itself is fully knowable by pure reason
+B. metaphysics must be expanded to the Absolute
+C. space and time are properties of things-in-themselves
+D. the notion of a supersensible reality affecting sensibility is incoherent, using concepts it forbids
+
+**Correct answer: D**
+
+**Explanation:** Both reject the noumenon: Strawson by analysis (it uses 'existence'/'cause' illegitimately),
+Hegel by dialectic — though their remedies differ (revisionary vs descriptive metaphysics).
+
+#### MCQ 21
+
+The Logic-to-Nature transition — the Idea 'freely releasing itself' — is best understood as:
+
+A. a logical, non-temporal, non-causal claim that pure self-relating form is self-externality
+B. a datable act of divine creation occurring in time
+C. one category efficiently causing the existence of matter
+D. an empirical deduction of every particular natural fact
+
+**Correct answer: A**
+
+**Explanation:** 'Free release' is not an event or a cause but a structural claim: form that is nothing but
+self-relation is, in that very act, outside itself as Nature.
+
+#### MCQ 22
+
+Hegel's phrase 'the impotence of nature' (*Ohnmacht der Natur*) means that:
+
+A. nature is ultimately more rational than Spirit
+B. nature cannot perfectly hold fast to the Concept, so it contains contingency and imprecision
+C. nature has no reality whatsoever
+D. empirical natural science is impossible
+
+**Correct answer: B**
+
+**Explanation:** Because nature cannot fully embody the Concept, it teems with contingency — which is exactly why
+Hegel does not deduce particular natural facts.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 8 / 11  |  Stage: Advanced  |  Subtopic: Logic-to-Nature transition — the Idea "freely releases itself," objections and replies
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1479,8 +1919,70 @@ personification objection for free.
   the method — the honest limit of the system's completeness claim.
 - **Practice link:** MCQs 22, 23, 24, 36; refinement for PYQ 2021 Q2(a).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 22
+
+Hegel's phrase 'the impotence of nature' (*Ohnmacht der Natur*) means that:
+
+A. nature is ultimately more rational than Spirit
+B. nature cannot perfectly hold fast to the Concept, so it contains contingency and imprecision
+C. nature has no reality whatsoever
+D. empirical natural science is impossible
+
+**Correct answer: B**
+
+**Explanation:** Because nature cannot fully embody the Concept, it teems with contingency — which is exactly why
+Hegel does not deduce particular natural facts.
+
+#### MCQ 23
+
+The strongest objection to the Logic-to-Nature transition, launching later existentialism, was pressed by:
+
+A. Trendelenburg, that motion is smuggled into the categories
+B. Feuerbach, that the transition is disguised theology
+C. Schelling, that no category can yield the sheer 'that' of existence
+D. Popper, that the whole system is unfalsifiable
+
+**Correct answer: C**
+
+**Explanation:** Schelling's demand for a 'positive philosophy' beginning from that something exists targets
+exactly the seam the Logic cannot generate, seeding Kierkegaard and Heidegger.
+
+#### MCQ 24
+
+Hegel's three great stages in the history of freedom run:
+
+A. All free → Some free → One free
+B. Some free → One free → All free
+C. One free → All free → Some free
+D. One free → Some free → All free
+
+**Correct answer: D**
+
+**Explanation:** Oriental (One is free) → Greek/Roman (Some are free) → Germanic-Christian (All are potentially
+free): world history as the progress of the consciousness of freedom.
+
+#### MCQ 25
+
+The 'cunning of reason' (*List der Vernunft*) names Hegel's idea that:
+
+A. reason uses individuals' private passions as instruments of its own rational ends
+B. great men consciously plan the entire course of history
+C. history is wholly random and without direction
+D. reason deceives itself and never attains truth
+
+**Correct answer: A**
+
+**Explanation:** World-historical individuals pursue personal passions, yet through them reason realises freedom
+— they are its unwitting instruments.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 9 / 11  |  Stage: Advanced  |  Subtopic: Philosophy of history — World Spirit, freedom, historical agents, teleology and Eurocentrism
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1637,8 +2139,70 @@ bare list of civilisations, and not a celebration of "the state" without qualifi
 - **Residue:** institutions can be judged against their *own* norms of freedom (survives in recognition theory).
 - **Practice link:** MCQs 25, 26, 42; PYQ 2023 Q1(b).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 25
+
+The 'cunning of reason' (*List der Vernunft*) names Hegel's idea that:
+
+A. reason uses individuals' private passions as instruments of its own rational ends
+B. great men consciously plan the entire course of history
+C. history is wholly random and without direction
+D. reason deceives itself and never attains truth
+
+**Correct answer: A**
+
+**Explanation:** World-historical individuals pursue personal passions, yet through them reason realises freedom
+— they are its unwitting instruments.
+
+#### MCQ 26
+
+Popper's criticism is most sharply aimed at Hegel's:
+
+A. *Science of Logic* as a formally invalid calculus
+B. philosophy of history as an unfalsifiable historicism that explains events after the fact
+C. master-slave dialectic as empirically false
+D. account of *Aufhebung* as self-contradictory
+
+**Correct answer: B**
+
+**Explanation:** Popper's charge lands on the retrospective philosophy of history (post hoc necessity); it is far
+weaker against the categorial *Logic*.
+
+#### MCQ 27
+
+The decisive contrast between Berkeley's subjective idealism and Hegel's absolute idealism is that:
+
+A. Berkeley affirms development while Hegel denies it
+B. both alike reduce reality to one infinite Spirit
+C. Berkeley grounds reality in finite minds, whereas Hegel makes finite minds moments of one infinite Spirit
+D. Hegel denies the external world while Berkeley affirms it
+
+**Correct answer: C**
+
+**Explanation:** Fix the axis: Berkeley collapses the world into finite perceivers (*esse est percipi*); Hegel
+subsumes minds and nature into a developing infinite Spirit.
+
+#### MCQ 28
+
+Marx's relation to Hegel is most accurately summarised as:
+
+A. keeping the Idea while dropping the dialectic
+B. rejecting both the dialectic and the Idea
+C. accepting the Hegelian system unchanged
+D. keeping the dialectic while dropping the Idea, relocating it in material and economic life
+
+**Correct answer: D**
+
+**Explanation:** Marx 'stands Hegel on his feet': the dialectic is retained but its motor becomes
+material/economic relations rather than the self-developing Idea.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 10 / 11  |  Stage: Advanced  |  Subtopic: Comparisons and criticisms — Berkeley, Spinoza, Kant, Kierkegaard, Marx, Popper and Strawson
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1847,8 +2411,77 @@ low-scoring answer; the axis *is* the answer. Never claim a cross-owned PYQ as H
 - **Strawson:** same anti-noumenon verdict as Hegel, opposite remedy (descriptive vs revisionary metaphysics).
 - **Practice link:** MCQs 27, 28, 43, 44; cross-links 2024 Q2(a), 2023 Q1(d), 2018 Q2(b), 2026 Q4(b).
 
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### New MCQ 41 (restored gap — 2026 Q4(b), Kant-owned)
+
+On the Kant-owned 2026 question about reality and our thinking about reality, the Hegel-side of the comparison
+holds that:
+
+A. thought and being are reconciled within the Absolute, so no residue is left permanently external to thought's
+   own self-comprehension
+B. reality-in-itself remains permanently outside thought, exactly as Kant held
+C. thinking has no bearing whatsoever on reality
+D. only Nature, never Spirit, is rational
+
+**Correct answer: A**
+
+**Explanation:** Where Kant splits constituted appearance from an unreachable noumenal residue, Hegel's
+identity-in-difference reconciles thought and being within the self-developing Absolute.
+
+#### New MCQ 42 (restored gap — ethical-life ladder / state orientation)
+
+In Hegel's objective Spirit, the correct order of the ethical-life ladder required for the 2023 history PYQ's
+'state orientation' is:
+
+A. state → civil society → family
+B. family → civil society → state
+C. civil society → family → state
+D. family → state → civil society
+
+**Correct answer: B**
+
+**Explanation:** Family gives immediate ethical unity; civil society organises differentiated needs and work;
+the constitutional state claims to integrate particular and universal freedom.
+
+#### New MCQ 43 (restored gap — Kierkegaard's sharpest argument, 2023 Q1(d), Existentialism-owned)
+
+Kierkegaard's sharpest single-sentence argument against Hegel's System is that:
+
+A. "the truth is the whole"
+B. "what is rational is actual"
+C. "a logical system is possible; an existential system is impossible"
+D. "the owl of Minerva flies at dusk"
+
+**Correct answer: C**
+
+**Explanation:** Kierkegaard's point is structural, not merely emotional: an existing individual — including the
+philosopher who builds the System — must still exist, choose and die; no completed system-view substitutes for
+first-person existing choice. (A), (B) and (D) are Hegel's own formulas, not Kierkegaard's objection.
+
+#### New MCQ 44 (restored gap — assessment skill, "kept/dropped")
+
+A well-constructed answer assessing Hegel's influence on his heirs should state that:
+
+A. "Hegel influenced Marx," with no further content
+B. every heir accepted Hegel's system in its entirety
+C. no later philosopher engaged with Hegel at all
+D. Marx kept the dialectic and dropped the Idea; Kierkegaard kept the diagnosis of alienation and denied any
+   systemic cure; each heir's specific kept/dropped ledger, not a bare influence-claim
+
+**Correct answer: D**
+
+**Explanation:** "Assess the influence of X" is answered by naming heirs and precisely what each kept and
+dropped; a bare influence-claim such as (A) scores nothing.
+
 ---
 
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 11 / 11  |  Stage: Advanced  |  Subtopic: Final synthesis — all solved PYQs, answer architecture, original practice and consolidated register notes
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━

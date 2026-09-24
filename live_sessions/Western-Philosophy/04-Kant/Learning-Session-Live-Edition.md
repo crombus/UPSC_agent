@@ -323,8 +323,52 @@ straight, so it is fixed here, in Lesson 1, before any doctrine is introduced.
 - Owner scope: only theoretical philosophy is printed here; ethics, aesthetics and teleology are optional
   enrichment (full boundary table in Lesson 12, Part A).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 1.** Which class of judgement does Kant identify as the central problem of the first *Critique*?
+A. Synthetic a priori — informative yet necessary
+B. Analytic a priori — necessary but uninformative
+C. Synthetic a posteriori — informative but contingent
+D. Analytic a posteriori — contingent and uninformative
+**Correct answer: A.** Only synthetic a priori judgements are both informative and necessary; explaining how they
+are possible is the task of the whole *Critique*. *(B is wrong — analytic a priori is trivial, not the central
+problem; C is wrong — that is ordinary empirical knowledge, unproblematic for Kant; D describes an empty,
+non-existent class.)*
+
+**MCQ 2.** Kant's 'Copernican Revolution' in philosophy is the claim that:
+A. the mind passively mirrors mind-independent objects
+B. objects of experience conform to the mind's a priori forms
+C. the earth revolves round the sun, which proves empiricism
+D. all knowledge is innate and independent of the senses
+**Correct answer: B.** Kant reverses the direction of fit: objects conform to the knower's forms, which is why a
+priori knowledge of them is possible. *(A is the pre-Kantian assumption Kant rejects; C is a category error —
+astronomy does not prove an epistemological thesis; D overstates Kant into pure rationalism, ignoring his
+insistence that content comes from experience.)*
+
+**MCQ 3.** Which statement best captures Hume's role in Kant's development?
+A. Hume proved that the categories are exactly twelve
+B. Hume defended the ontological argument Kant later adopted
+C. Hume's problem 'interrupted' Kant's 'dogmatic slumber'
+D. Hume showed that space and time are things-in-themselves
+**Correct answer: C.** Hume's demonstration that experience yields no necessity forced Kant's critical turn
+(*Prolegomena* Preface). *(A confuses Hume with Kant's own later derivation; B is false — Hume was a sceptic
+about God-proofs; D is the opposite of Kant's own doctrine.)*
+
+**MCQ 4.** In Kant, the term 'transcendental' properly refers to:
+A. objects lying wholly beyond all possible experience
+B. God, freedom and immortality as proven realities
+C. a mystical intuition of the thing-in-itself
+D. the a priori conditions of the possibility of experience
+**Correct answer: D.** 'Transcendental' concerns the a priori conditions of experience (legitimate); 'transcendent'
+means beyond all experience (illegitimate). *(A and C describe the transcendent, not the transcendental; B
+mistakes postulates for proofs.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 2 / 12  |  Stage: Foundation  |  Subtopic: Synthetic a priori judgments — analytic/synthetic, a priori/a posteriori and reconciliation of rationalism–empiricism
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -513,8 +557,47 @@ the Copernican-Revolution explanation of possibility, and the "only for phenomen
 - Quine (2018 Q2(c), Quine-owned): attacks the analytic/synthetic boundary itself as resting on undefined
   "synonymy" — damages Kant's classification, not his deeper presuppositional point.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 5.** For Kant, space is:
+A. the a priori form of outer sense
+B. the a priori form of inner sense
+C. an empirical concept abstracted from objects
+D. a property of things-in-themselves
+**Correct answer: A.** Space is the pure form of outer intuition; time is the form of inner sense. *(B describes
+time; C and D are exactly what the Metaphysical Exposition refutes.)*
+
+**MCQ 6.** Time, in the Transcendental Aesthetic, is the a priori form of:
+A. outer sense only
+B. inner sense, and therefore of all representations
+C. things-in-themselves
+D. geometry alone
+**Correct answer: B.** Every representation, even an inner one, is in time; time is the form of inner sense and so
+of all sense. *(A describes space; C is the opposite of Kant's doctrine; D confuses time with the science it
+grounds.)*
+
+**MCQ 7.** The transcendental exposition of space is meant to explain the possibility of:
+A. arithmetic
+B. empirical psychology
+C. geometry as synthetic a priori knowledge
+D. the ontological argument
+**Correct answer: C.** The a priori intuition of space grounds geometry; time grounds arithmetic and pure
+mechanics. *(A belongs to time's exposition; B and D are unrelated to the Aesthetic.)*
+
+**MCQ 8.** 'Transcendentally ideal but empirically real' describes Kant's view that space and time are:
+A. real properties of noumena, merely unknown to us
+B. mere illusions with no objective validity
+C. Newtonian absolute containers
+D. mind-supplied forms, yet objectively valid for all appearances
+**Correct answer: D.** Both halves must be held: not features of things-in-themselves, yet objectively valid for
+every phenomenon. *(A, B and C each collapse the two-sided doctrine into only one side.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 3 / 12  |  Stage: Foundation  |  Subtopic: Transcendental Aesthetic — space, time, metaphysical/transcendental expositions and ideality–reality distinction
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -679,8 +762,48 @@ Euclid-specific claim is weakened) -> close by distinguishing Kant's position fr
 - Full empirical-realism/transcendental-idealism distinction box: built in Lesson 7 once the Refutation of
   Idealism is available to anchor it.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 9.** Kant's table of categories is organised under four headings:
+A. Quantity, Quality, Relation, Modality
+B. Space, Time, Substance, Cause
+C. Soul, World, God, Freedom
+D. Sensibility, Understanding, Reason, Judgement
+**Correct answer: A.** Twelve categories fall into four triads. *(B lists specific items, not the four headings;
+C lists the Ideas of Reason; D lists faculties, not category-groups.)*
+
+**MCQ 10.** Which category is Kant's direct reply to Hume's scepticism about necessary connexion?
+A. Totality (under Quantity)
+B. Causality (under Relation)
+C. Limitation (under Quality)
+D. Possibility (under Modality)
+**Correct answer: B.** Causality is an a priori category, making "every event has a cause" synthetic a priori.
+*(A, C and D are genuine categories but not the one targeting Hume's causation worry.)*
+
+**MCQ 11.** The 'transcendental unity of apperception' is:
+A. an empirical impression of the self, as in Hume
+B. a substantial, immortal soul proven by reason
+C. the formal 'I think' that must accompany all my representations
+D. the highest of the twelve categories
+**Correct answer: C.** A logical/formal condition of unified experience, not a substance and not an observed
+inner object. *(A is Hume's own bundle, exactly what apperception is not; B is the Paralogism's fallacious
+conclusion; D confuses apperception with a category.)*
+
+**MCQ 12.** The metaphysical deduction, as distinct from the transcendental deduction, is the part that:
+A. proves God as a postulate of practical reason
+B. resolves the four antinomies
+C. justifies applying the categories to experience
+D. identifies the categories from the forms of judgement
+**Correct answer: D.** The metaphysical deduction identifies the categories; the transcendental deduction justifies
+their application via apperception. *(A belongs to Lesson 10; B to Lesson 9; C is precisely the transcendental,
+not metaphysical, deduction.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 4 / 12  |  Stage: Core  |  Subtopic: Categories and apperception — categories, transcendental deduction, synthesis and unity of the "I think"
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -870,8 +993,49 @@ given, via the categories) -> close by naming the complete architecture (Aesthet
 - Strongest defence of the Deduction: detach the strategy (objectivity as condition) from the table (twelve
   categories) — Strawson's "austere" reading.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 13.** A transcendental schema, for Kant, is essentially:
+A. a rule/procedure of time-determination, not an image
+B. a mental picture resembling both concept and object
+C. one of the twelve logical forms of judgement
+D. an empirical concept abstracted from experience
+**Correct answer: A.** The schema is a rule (e.g., for constructing a triangle in general); an image is a
+determinate product. *(B is the single most common script error; C confuses schema with judgement-forms; D
+describes an empirical, not transcendental, concept.)*
+
+**MCQ 14.** Why is TIME, rather than space, the medium of all schemata?
+A. because space is merely empirical
+B. because time is the form of inner sense, so all representations are in time
+C. because geometry is more certain than arithmetic
+D. because time is a thing-in-itself
+**Correct answer: B.** Outer objects are in space, but inner states are not; only time contains every
+representation. *(A contradicts the Aesthetic — space is a priori, not empirical; C is an unrelated comparative
+claim; D contradicts Kant's own doctrine.)*
+
+**MCQ 15.** The schema of the categories of Quantity is:
+A. degree or intensive magnitude
+B. permanence of the real in time
+C. number — the successive addition of homogeneous units
+D. existence at a determinate time
+**Correct answer: C.** Quantity/time-series → Number; Quality/time-content → Degree; Relation/time-order;
+Modality/time-scope. *(A belongs to Quality; B and D belong to Relation and Modality respectively.)*
+
+**MCQ 16.** Kant candidly calls the mechanism of schematism:
+A. 'the scandal of philosophy'
+B. 'a metaphysical article of faith'
+C. 'the highest principle of all synthetic judgements'
+D. 'an art concealed in the depths of the human soul'
+**Correct answer: D.** A141/B180-1 — conceding the productive imagination's procedure is postulated, not
+exhibited. *(A describes external-world scepticism, Lesson 7; B is Quine's charge against Kant, Lesson 2; C
+names a different, unrelated principle.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 5 / 12  |  Stage: Core  |  Subtopic: Schematism — time-determination bridging categories and sensible intuition
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1013,8 +1177,51 @@ concession -> functional defence (without schemata, no Analogies).
   argued again in Lesson 11).
 - Functional defence: without schemata, the Analogies of Experience (Lesson 6) would be impossible.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 17.** The First Analogy of Experience establishes:
+A. the permanence of substance through all change
+B. the reciprocity of simultaneous substances
+C. that every event has a cause
+D. the existence of a necessary being
+**Correct answer: A.** Substance persists (its quantum conserved) as the proxy for time's duration. *(B is the
+Third Analogy; C is the Second Analogy; D belongs to the cosmological argument, Lesson 10.)*
+
+**MCQ 18.** In the Second Analogy, the irreversibility of my perceptions of a ship drifting downstream shows
+that:
+A. the succession is merely subjective, as with viewing a house
+B. the objective succession (an event) presupposes a causal rule
+C. time itself is directly perceived
+D. substance is not conserved
+**Correct answer: B.** Because time cannot be perceived, an irreversible objective order can only be fixed by the
+rule of cause. *(A is the house-case's opposite conclusion; C contradicts the master premise; D is unrelated to
+the Second Analogy's point.)*
+
+**MCQ 19.** The Third Analogy grounds our knowledge of which mode of time through mutual causal community
+(reciprocity)?
+A. duration
+B. succession
+C. simultaneity
+D. necessity
+**Correct answer: C.** Simultaneous substances stand in thoroughgoing reciprocal determination (*commercium*).
+*(A belongs to the First Analogy; B to the Second; D is a modal category, not a mode of time addressed by the
+Analogies.)*
+
+**MCQ 20.** The single premise driving all three Analogies of Experience is that:
+A. every idea is a copy of an impression
+B. existence is not a real predicate
+C. the world has no beginning in time
+D. time itself cannot be perceived
+**Correct answer: D.** Since time is not itself perceived, every objective time-relation must be fixed by a rule
+found in appearances. *(A is Hume's Copy Principle, not Kant's premise; B belongs to Lesson 10; C is one side of
+the First Antinomy, Lesson 9.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 6 / 12  |  Stage: Core  |  Subtopic: Analogies of Experience — substance, causality, reciprocity and Kant's full response to Hume
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1225,8 +1432,50 @@ reply -> verdict: Kant relocates, rather than dissolves, Hume's problem.
   causal necessitation — Allison's reply defends Kant at the level of conditions of objective judgment.
 - Schematism (Lesson 5) is not decorative: the Analogies literally are the schemata of Relation put to work.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 21.** Kant's Refutation of Idealism (added in the 1787 B-edition) argues that:
+A. consciousness of my determinate existence in time proves objects outside me
+B. only the 'I think' is indubitable and the world is inferred
+C. matter is impossible and space illusory
+D. God's existence can be theoretically demonstrated
+**Correct answer: A.** Inner time-determination needs a permanent that cannot itself be inner; hence outer
+experience conditions inner experience, inverting Descartes. *(B is Descartes' own "problematic idealism," which
+Kant refutes; C is Berkeley's "dogmatic idealism," also refuted; D contradicts Lesson 10 entirely.)*
+
+**MCQ 22.** Kant labels Descartes 'problematic idealism' and Berkeley 'dogmatic idealism'; he answers Berkeley
+chiefly by:
+A. the Refutation of Idealism proper
+B. the Transcendental Aesthetic (space as a real a priori form)
+C. the ontological argument
+D. the Paralogisms
+**Correct answer: B.** Berkeley (matter impossible) is met by the Aesthetic; Descartes (world doubtful) is met by
+the Refutation proper. *(A answers Descartes, not Berkeley; C and D are unrelated doctrines.)*
+
+**MCQ 23.** On the phenomena/noumena distinction, noumena are:
+A. knowable objects of natural science
+B. identical with Plato's Forms, known by reason
+C. thinkable but not knowable
+D. mere illusions with no role in the system
+**Correct answer: C.** We can form the concept (a limiting concept) but cannot know things-in-themselves. *(A
+describes phenomena, not noumena; B is the superficial-resemblance trap — Plato's Forms are knowable, Kant's
+noumena are not; D denies noumena's genuine boundary-marking function.)*
+
+**MCQ 24.** The 'noumenon in the negative sense' functions as:
+A. the efficient cause of our sensations
+B. a proven immaterial substance
+C. an object of intellectual intuition
+D. a limiting concept marking the boundary of sensible knowledge
+**Correct answer: D.** It marks where sensible cognition stops; treating it as a "cause behind appearances" is
+Jacobi's objection, not Kant's own doctrine. *(A is exactly the affection-problem error; B is the Paralogism's
+fallacy; C describes the never-cognised positive noumenon.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 7 / 12  |  Stage: Core  |  Subtopic: External world and epistemic limits — Refutation of Idealism, phenomena, noumena and affection problem
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1471,8 +1720,50 @@ purely limiting reading) -> note explicitly this is Hegel's PYQ to solve in full
   dualism); Kant's reply works better against a reified than a purely limiting reading — picked up again in
   Lesson 11.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 25.** The three transcendental Ideas of Reason are:
+A. Soul, World, God
+B. Space, Time, Causality
+C. Thesis, Antithesis, Synthesis
+D. Sensibility, Understanding, Reason
+**Correct answer: A.** Reason seeks the unconditioned totality of inner conditions (Soul), outer conditions
+(World) and all conditions (God). *(B lists Aesthetic/Analytic items, not Dialectic Ideas; C names the Antinomy's
+structure, not the Ideas; D lists faculties.)*
+
+**MCQ 26.** For Kant the Ideas of Reason are legitimately used when treated as:
+A. constitutive knowledge of real objects
+B. regulative heuristics guiding enquiry toward systematic unity
+C. empirical hypotheses tested by observation
+D. analytic truths of logic
+**Correct answer: B.** Regulative ('as if') use is legitimate; taking the Ideas constitutively yields the
+paralogisms, antinomies and failed God-proofs. *(A is exactly the illegitimate, constitutive misuse; C and D
+mischaracterise the Ideas' logical status entirely.)*
+
+**MCQ 27.** The Paralogisms of Pure Reason expose the error of inferring that:
+A. the world has a beginning in time
+B. God exists as the ens realissimum
+C. the 'I think' is a substance / simple soul
+D. space is transcendentally real
+**Correct answer: C.** Rational psychology equivocates the formal unity of apperception into a knowable
+soul-substance. *(A belongs to the First Antinomy; B belongs to the cosmological/ontological proofs; D
+contradicts Kant's own doctrine of transcendental ideality.)*
+
+**MCQ 28.** Kant divides the four antinomies into:
+A. thesis and antithesis of equal truth
+B. spatial and temporal
+C. regulative and constitutive
+D. mathematical (1-2) and dynamical (3-4)
+**Correct answer: D.** Mathematical antinomies concern magnitude/composition; dynamical antinomies concern
+causality/existence, resolved differently. *(A misstates the resolution — sides are not equally true; B is not
+Kant's own division; C describes the Ideas of Reason's use, not the antinomy types.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 8 / 12  |  Stage: Advanced  |  Subtopic: Ideas of Reason — soul, world and God; regulative/constitutive use and Paralogisms
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1633,8 +1924,51 @@ for the God-proofs (Lesson 10, directly PYQ-tested), and is the necessary disamb
 - Transcendental illusion: reason's overreach is natural and unavoidable, not a correctable defect — it persists
   even once diagnosed, like an optical illusion.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**Remedial MCQ 29.** A common error is to say 'Kant proves God does not exist.' The accurate position is that
+Kant:
+A. denies that God's existence can be theoretically proved, then postulates God via practical reason
+B. demonstrates atheism from the antinomies
+C. accepts the ontological argument for God
+D. proves God's existence from the order of nature
+**Correct answer: A.** Kant is theoretically agnostic about proof and reinstates God as a moral postulate — not
+atheism. *(B, C and D each misstate Kant's actual, more nuanced position.)*
+
+**Remedial MCQ 30.** 'A hundred real thalers contain no more than a hundred possible thalers' illustrates the
+thesis that:
+A. the cosmological proof is independent of the ontological
+B. existence is not a real (content-adding) predicate
+C. the design argument proves a creator
+D. God is a category of the understanding
+**Correct answer: B.** Existence merely posits the object; it does not enlarge the concept, so it cannot be
+packed into 'God' as a perfection. *(A is the opposite of Kant's actual finding — the cosmological argument
+covertly depends on the ontological; C and D are simply false.)*
+
+**Remedial MCQ 31.** Kant resolves the antinomies by holding that:
+A. all four have true theses and false antitheses
+B. all four are genuine contradictions within reason itself
+C. the mathematical are both false, the dynamical both possibly true
+D. the mathematical are both true, the dynamical both false
+**Correct answer: C.** The world-whole is no object of experience (mathematical: both false); the
+phenomena/noumena split reconciles the dynamical (both may be true). *(A, B and D each misstate the differential
+resolution that is the whole point of the doctrine.)*
+
+**Remedial MCQ 32.** Kant argues the cosmological and physico-theological proofs ultimately fail because they:
+A. rely on empirical reports of miracles
+B. confuse analytic with synthetic judgements
+C. presuppose Hume's theory of causation
+D. covertly depend on the ontological argument
+**Correct answer: D.** Identifying the necessary/designing being with the most-perfect being smuggles in the
+ontological step, so one refutation sinks all three proofs. *(A, B and C are not Kant's actual diagnosis of the
+failure.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 9 / 12  |  Stage: Advanced  |  Subtopic: Antinomies — four conflicts, mathematical/dynamical distinction and Kant's resolution
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1780,8 +2114,51 @@ of dualism as such.
 - Strongest rival diagnosis: Hegel says the contradictions are *productive*, not merely pathological — full
   treatment, Lesson 11.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**Remedial MCQ 33.** Kant's transcendental idealism differs from Berkeley's subjective idealism in that Kant:
+A. affirms the empirical reality of external objects, denying only their transcendental reality
+B. denies the existence of external objects altogether
+C. holds that objects are ideas in the divine mind
+D. rejects the a priori forms of intuition
+**Correct answer: A.** Kant is an empirical realist about phenomena; Berkeley dissolves matter into ideas. Kant's
+idealism concerns the FORM of experience. *(B and C describe Berkeley's own position, not Kant's; D contradicts
+the entire Transcendental Aesthetic.)*
+
+**Remedial MCQ 34.** 'Understanding makes Nature' should be read as the claim that the understanding:
+A. literally creates physical objects out of nothing
+B. legislates the lawful, objective form of phenomenal nature via the categories
+C. proves the existence of things-in-themselves
+D. abstracts general laws by induction from repeated observation
+**Correct answer: B.** It is the transcendental constitution of nature's lawful form, not the empirical creation
+of objects, and not mere induction. *(A is the most common misreading; C is the opposite of Kant's doctrine; D
+describes a merely empirical, not transcendental, process.)*
+
+**Remedial MCQ 35.** The 2023 paper prints 'Precepts without concepts are blind...'. Kant's accurate formulation
+is:
+A. 'Concepts without percepts are transcendent'
+B. 'Impressions without ideas are empty'
+C. 'Thoughts without content are empty; intuitions without concepts are blind' (A51/B75)
+D. 'Existence is not a real predicate'
+**Correct answer: C.** The printed stem substitutes 'precepts' for 'intuitions'; the correct dictum expresses the
+synthesis of concepts and intuitions. *(A garbles the terminology further; B is Hume's Copy-Principle
+vocabulary, not Kant's; D is an unrelated Kantian dictum about the ontological argument.)*
+
+**Remedial MCQ 36.** Kant's resolution of the Third Antinomy secures:
+A. that the world has a first cause in time
+B. that everything without exception is naturally determined
+C. that freedom is empirically observable
+D. freedom for the noumenal agent alongside natural determinism for phenomena
+**Correct answer: D.** Natural necessity holds for appearances, while freedom (spontaneous causality) is possible
+for the same agent considered as noumenon. *(A confuses this with the First Antinomy; B is the antithesis alone,
+not the resolution; C contradicts freedom's status as noumenal, not empirical.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 10 / 12  |  Stage: Advanced  |  Subtopic: Critique of God-proofs — ontological, cosmological and design arguments; practical postulates
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1933,8 +2310,52 @@ postulate relocation (agnosticism, not atheism).
 - Owner-boundary: the full practical/ethical postulate architecture (categorical imperative etc.) is optional
   enrichment, not printed in this syllabus item.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 37.** Kant's simultaneous commitment to 'empirical realism' and 'transcendental idealism' means that
+objects in space are:
+A. objectively, publicly real within experience, yet mind-contributed in their form
+B. private ideas existing only in individual minds
+C. real only insofar as God perceives them
+D. illusions produced entirely by custom and habit
+**Correct answer: A.** Both halves are held together: real for experience (empirical realism), ideal as to their
+form's source (transcendental idealism). *(B and C describe Berkeley's idealism, not Kant's; D describes Hume's
+account of causal belief, an unrelated doctrine.)*
+
+**MCQ 38.** The distinction between intuition (*Anschauung*) and concept (*Begriff*) is that:
+A. concepts are given by the senses; intuitions are produced by the understanding
+B. intuition is a singular, immediate representation; concept is a general, mediate representation through marks
+C. intuition and concept are simply two names for the same mental act
+D. only concepts can be a priori; intuitions are always empirical
+**Correct answer: B.** This is precisely the heterogeneity schematism must bridge (Lesson 5). *(A reverses the
+actual source of each; C denies a distinction the whole Schematism chapter exists to bridge; D contradicts the
+pure (a priori) intuitions of space and time themselves.)*
+
+**MCQ 39.** The 'positive noumenon,' as opposed to the negative noumenon, would be:
+A. a category applied beyond experience
+B. simply another name for the thing-in-itself with no further content
+C. the object of a non-sensible, intellectual intuition, which humans do not possess
+D. the persisting substratum secured by the First Analogy
+**Correct answer: C.** Humans lack any such intuition, so the positive noumenon remains a merely problematic,
+never-cognised concept. *(A describes the transcendent misapplication of categories, not the positive noumenon
+specifically; B collapses a three-way distinction into two; D describes an empirical-level doctrine, unrelated
+to the noumenon.)*
+
+**MCQ 40.** In Kant's cross-classification, the cell that is EMPTY is:
+A. synthetic a posteriori
+B. analytic a priori
+C. synthetic a priori
+D. analytic a posteriori
+**Correct answer: D.** Analytic judgements are, for Kant, always knowable independently of experience; "analytic
+a posteriori" has no instances. *(A and B are both populated cells; C is the key, populated class that is the
+whole topic of Lesson 2.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 11 / 12  |  Stage: Advanced  |  Subtopic: Kant and Hegel — "Understanding makes Nature," Kantian dualism, reality–thought relation and 2026 comparison
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -2135,8 +2556,56 @@ a bare agree/disagree.
 - 2025 Q1(e) (Hegel-owned, recap from Lesson 7): the local, phenomena/noumena-level version of this same systemic
   dispute.
 
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 41.** The 2020 PYQ quoting Hume ("I never can catch myself at any time without perception...") is:
+A. owned by Empiricism, with Kant's transcendental-apperception reply taught as the required cross-link
+B. a Kant-owned primary question about the Paralogisms
+C. unrelated to any verified PYQ ledger
+D. solved using the Refutation of Idealism rather than apperception
+**Correct answer: A.** The question is Empiricism-owned (Hume's bundle theory); Kant's reply is the
+transcendental unity of apperception, not a primary Kant part. *(B misattributes ownership; C is factually
+false — it is 2020 Q2(a); D names the wrong Kantian doctrine for this specific reply.)*
+
+**MCQ 42.** The 2025 PYQ on Hume's refutation of causal relation and Kant's response is correctly routed as:
+A. owned by Kant, since Kant's category of causality is the main content
+B. owned by Empiricism, with the Second Analogy taught here as the Kant-half reply
+C. owned by Quine-Strawson, since it concerns necessity
+D. unowned, since it spans two thinkers equally
+**Correct answer: B.** Ownership follows the ledger: 2025 Q2(c) is Empiricism-owned; the Kant-half (Second
+Analogy) is taught here as the required cross-link, not as a primary Kant part. *(A misattributes ownership
+against the verified ledger; C confuses this with the unrelated 2018 Q2(c) Quine cross-link; D contradicts the
+"every part has exactly one owner" rule.)*
+
+**MCQ 43.** Hume's "ideas of reason" in the 2026 PYQ (Q2(b)) should be understood as:
+A. identical to Kant's capitalised 'Ideas of Reason' (Soul, World, God)
+B. a term Kant himself coined and Hume later borrowed
+C. Hume's own 'relations of ideas,' one half of Hume's Fork — a different technical structure from Kant's Ideas of Reason
+D. the antinomies, since both concern reason's overreach
+**Correct answer: C.** This terminological disambiguation is the single most important trap in the 2026 paper's
+Kant-adjacent content. *(A is the exact false equivalence to avoid; B reverses the historical order entirely; D
+confuses two unrelated doctrines.)*
+
+**MCQ 44.** The 2026 Q4(b) question on Kant and Hegel's conception of the relationship between reality and
+thought is best answered by:
+A. reporting Kant's view only, since Hegel is a different syllabus owner
+B. asserting that Hegel simply repeats Kant's position in different words
+C. treating the question as identical to the antinomies question and describing only the four antinomies
+D. stating both thinkers' distinct conceptions (Kant: permanent noumenal boundary; Hegel: thought/being identity
+   via the Absolute) and then ruling on the culmination-or-overcoming question
+**Correct answer: D.** The directive "analyze and discuss the different ways" requires a structured two-sided
+comparison followed by an explicit ruling (Lesson 11, Part C). *(A ignores that Kant is the primary owner here
+and must present both halves; B collapses a substantive philosophical disagreement; C substitutes a different,
+though related, doctrine for the question actually asked.)*
+
 ---
 
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 12 / 12  |  Stage: Advanced  |  Subtopic: Final synthesis — criticisms, solved PYQs, answer architecture, original practice and consolidated register notes
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━

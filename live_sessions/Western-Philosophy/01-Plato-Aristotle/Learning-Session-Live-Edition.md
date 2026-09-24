@@ -211,8 +211,66 @@ The cost is equally exact. If Forms are wholly separate, the relation that makes
 - **Trap:** Plato does not say that the sensible world is absolute nothing.
 - **Recall prompt:** explain a red chair without treating the Form as a physical ingredient.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 1 - [Forms]
+
+Which claim best states Plato's view of Forms?
+
+A. Transcendent and immutable universals
+B. Sensory impressions only
+C. Linguistic conventions
+D. Material atoms
+
+**Correct answer: A**
+
+**Explanation:** Why: Forms are non-sensible, stable realities; particulars possess derivative intelligibility through them.Discriminator: Transcendent and immutable universals
+
+### Remedial MCQ 38 - [Remedial - timelessness]
+
+Platonic Forms are:
+
+A. Spatial and perishable
+B. Timeless, spaceless, and intelligible
+C. Dependent on sensation
+D. Material compounds
+
+**Correct answer: B**
+
+**Explanation:** Why: Their stability is what makes them suitable objects of episteme.Discriminator: Timeless, spaceless, and intelligible
+
+### MCQ 3 - [Participation]
+
+Participation in Plato most nearly means:
+
+A. A Form is a physical part inside each object
+B. Forms are invented by minds
+C. Particulars derive character and intelligibility from a Form
+D. Matter produces universals without form
+
+**Correct answer: C**
+
+**Explanation:** Why: Methexis names the dependence of particular F-things upon Form F, though the relation remains underexplained.Discriminator: Particulars derive character and intelligibility from a Form
+
+### MCQ 28 - [Recollection]
+
+Plato's recollection argument explains:
+
+A. Why accidents exist independently
+B. Why matter is pure actuality
+C. Why every cause is efficient
+D. How imperfect instances can prompt recognition of perfect standards
+
+**Correct answer: D**
+
+**Explanation:** Why: Recognition of equality presupposes a standard not fully supplied by sensible equals.Discriminator: How imperfect instances can prompt recognition of perfect standards
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 2 / 10  |  Stage: Foundation  |  Subtopic: Knowledge and the Good — Sun, Divided Line, Cave, Recollection, Dialectic, Form of the Good
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -364,8 +422,66 @@ The Good is not merely moral niceness. It grounds knowability, order and value, 
 - Cave education is *periagōgē*, a turning, not information transfer.
 - **Trap:** do not omit the philosopher's return to the cave.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 25 - [Knowledge]
+
+Plato's distinction between episteme and doxa contrasts:
+
+A. Knowledge of stable intelligible reality with opinion about changing sensibles
+B. Matter with efficient cause
+C. Active with passive potentiality
+D. Substance with prime matter
+
+**Correct answer: A**
+
+**Explanation:** Why: The distinction mirrors Plato's metaphysical hierarchy between Forms and particulars.Discriminator: Knowledge of stable intelligible reality with opinion about changing sensibles
+
+### MCQ 2 - [Good]
+
+In the Cave and Sun analogies, the sun symbolises:
+
+A. Sensory opinion
+B. The Form of the Good
+C. Bodily desire
+D. The material sun alone
+
+**Correct answer: B**
+
+**Explanation:** Why: The Good makes intelligible objects knowable as the sun makes visible objects visible.Discriminator: The Form of the Good
+
+### MCQ 19 - [Forms]
+
+Which is true of Platonic Forms?
+
+A. They are local physical objects
+B. They perish with their instances
+C. They are timeless and spaceless
+D. They are accidental qualities
+
+**Correct answer: C**
+
+**Explanation:** Why: Their non-temporal and non-spatial character underwrites their stability as objects of knowledge.Discriminator: They are timeless and spaceless
+
+### Remedial MCQ 40 - [Remedial - Line]
+
+What most precisely distinguishes Platonic noēsis from dianoia in the Divided Line?
+
+A. Noēsis studies only harder mathematical problems
+B. Noēsis relies more heavily on visible diagrams
+C. Dianoia reaches the Good without hypotheses
+D. Noēsis treats hypotheses as steps toward an unhypothetical principle and proceeds without images
+
+**Correct answer: D**
+
+**Explanation:** The distinction concerns method and direction, not mere difficulty: mathematics reasons from hypotheses and images, whereas dialectic ascends through hypotheses to a first principle.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 3 / 10  |  Stage: Foundation  |  Subtopic: Problems with Forms — Participation Dilemma, Third Man, Plato's Own Refinements and Aristotle's Critique of Separated Forms
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -536,8 +652,66 @@ Aristotle's repair is not nominalism. He retains form, universality and definiti
 - **Trap:** Aristotle rejects separated universals, not all universality.
 - **Recall prompt:** state one Platonic reply and the objection that remains.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 21 - [One-over-many]
+
+The one-over-many argument begins from:
+
+A. A common character predicated of many particulars
+B. The absence of all universals
+C. The identity of matter and form
+D. The claim that only names exist
+
+**Correct answer: A**
+
+**Explanation:** Why: Many F-things suggest one Form F that grounds their shared intelligibility.Discriminator: A common character predicated of many particulars
+
+### MCQ 10 - [Third Man]
+
+Which premise helps generate the Third Man regress?
+
+A. Matter is absolutely unreal
+B. The Form of F is itself predicated F
+C. All causes are efficient
+D. Knowledge is identical with perception
+
+**Correct answer: B**
+
+**Explanation:** Why: Self-predication lets particulars and their first Form constitute a new many requiring another Form.Discriminator: The Form of F is itself predicated F
+
+### MCQ 11 - [Critique]
+
+Aristotle argues that separated Forms:
+
+A. Eliminate every universal predicate
+B. Are identical with matter
+C. Duplicate reality without adequately explaining concrete change
+D. Make perception infallible
+
+**Correct answer: C**
+
+**Explanation:** Why: A second inventory of entities does not explain generation, constitution, or motion in particulars.Discriminator: Duplicate reality without adequately explaining concrete change
+
+### MCQ 12 - [Change]
+
+Potentiality becomes actuality through:
+
+A. Mere verbal redefinition
+B. Absolute creation from nothing
+C. The disappearance of every subject
+D. The process of actualisation or motion
+
+**Correct answer: D**
+
+**Explanation:** Why: Kinesis is actuality of what is potential precisely insofar as it is potential.Discriminator: The process of actualisation or motion
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 4 / 10  |  Stage: Core  |  Subtopic: Aristotle's Substance — Categories, Metaphysics, Primary/Secondary Substance, Essence, Identity and Accidents
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -701,8 +875,66 @@ Z.17 is decisive because it reformulates substance as a cause: "why is this matt
 - Z.17 seeks substance as a cause; form answers the "why".
 - **Trap:** do not say *Metaphysics* simply cancels the *Categories*.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 29 - [Comparison]
+
+The most accurate causal comparison is:
+
+A. Plato offers paradigmatic explanation; Aristotle develops fourfold processual explanation
+B. Both recognise only efficient causes
+C. Aristotle denies formal cause
+D. Plato gives a complete theory of natural development
+
+**Correct answer: A**
+
+**Explanation:** Why: Plato's Forms are models; Aristotle adds material, efficient, formal, and final dimensions.Discriminator: Plato offers paradigmatic explanation; Aristotle develops fourfold processual explanation
+
+### MCQ 14 - [Form]
+
+Aristotle's form is primarily:
+
+A. A transcendent separate object
+B. The immanent essence and actuality of a substance
+C. Bare prime matter
+D. A subjective image
+
+**Correct answer: B**
+
+**Explanation:** Why: Aristotle relocates form within the concrete substance as its organising principle.Discriminator: The immanent essence and actuality of a substance
+
+### Remedial MCQ 35 - [Remedial - substance]
+
+In the Categories, primary substance is:
+
+A. Species
+B. Genus
+C. The individual thing
+D. Predicate
+
+**Correct answer: C**
+
+**Explanation:** Why: This human or this horse is primary; species and genus are secondary substances.Discriminator: The individual thing
+
+### MCQ 4 - [Substance]
+
+In Aristotle's Categories, primary substance is:
+
+A. Genus
+B. Species
+C. Quality
+D. The individual concrete thing
+
+**Correct answer: D**
+
+**Explanation:** Why: A primary substance, such as this person or this horse, is the ultimate subject of predication.Discriminator: The individual concrete thing
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 5 / 10  |  Stage: Core  |  Subtopic: Form and Matter — Hylomorphism, Immanent Form, Matter Relativity, Prime Matter and Status of Form
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -883,8 +1115,66 @@ Hylomorphism explains one thing as both material and intelligible, but it faces 
 - Organisms exhibit intrinsic organisation more fully than artifacts.
 - **Trap:** do not identify Aristotle's form with Plato's separated Form.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 5 - [Hylomorphism]
+
+Hylomorphism states that a natural substance is:
+
+A. A unified matter-form compound
+B. Only matter
+C. Only separate form
+D. A bundle of accidents without a subject
+
+**Correct answer: A**
+
+**Explanation:** Why: Synolon is the concrete composite whose matter is organised and actualised by form.Discriminator: A unified matter-form compound
+
+### MCQ 14 - [Form]
+
+Aristotle's form is primarily:
+
+A. A transcendent separate object
+B. The immanent essence and actuality of a substance
+C. Bare prime matter
+D. A subjective image
+
+**Correct answer: B**
+
+**Explanation:** Why: Aristotle relocates form within the concrete substance as its organising principle.Discriminator: The immanent essence and actuality of a substance
+
+### MCQ 15 - [Prime matter]
+
+Prime matter is best described as:
+
+A. A fully actual separate thing
+B. A modern atomic particle
+C. A limiting principle of pure receptivity
+D. The Form of the Good
+
+**Correct answer: C**
+
+**Explanation:** Why: Prime matter never exists alone and has no determinate character apart from form.Discriminator: A limiting principle of pure receptivity
+
+### Remedial MCQ 36 - [Remedial - essence]
+
+In the Metaphysics, the strongest explanatory candidate for what a thing is is:
+
+A. Its market value
+B. An accidental colour
+C. A social label
+D. Form or essence
+
+**Correct answer: D**
+
+**Explanation:** Why: Form explains the what-it-is-to-be of the concrete substance.Discriminator: Form or essence
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 6 / 10  |  Stage: Core  |  Subtopic: Four Causes — Material, Formal, Efficient, Final Causation; Artifacts, Organisms, Development and Teleology
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -1026,8 +1316,66 @@ The causes also explain identity as process. Material continuity alone is insuff
 - Development joins causes with potentiality and actuality.
 - **Trap:** Plato's paradigm is not already Aristotle's complete four-cause theory.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 17 - [Form priority]
+
+Form has explanatory priority over matter because it:
+
+A. Makes the substance intelligible as the kind of thing it is
+B. Is always older in clock time
+C. Is less real than matter
+D. Is only exterior shape
+
+**Correct answer: A**
+
+**Explanation:** Why: Form supplies essence, organisation, characteristic activity, and fulfilled determination.Discriminator: Makes the substance intelligible as the kind of thing it is
+
+### MCQ 6 - [Causation]
+
+Aristotle's four causes are best understood as:
+
+A. Four temporal stages
+B. Four dimensions of complete explanation
+C. Four sensory qualities
+D. Four rival substances
+
+**Correct answer: B**
+
+**Explanation:** Why: They answer out-of-what, what-it-is, source-of-change, and for-the-sake-of-what.Discriminator: Four dimensions of complete explanation
+
+### MCQ 23 - [Wooden table]
+
+The wooden-table example demonstrates:
+
+A. Sensation replacing knowledge
+B. A regress of Forms
+C. A material capacity becoming actual through an organised process
+D. Matter existing without form
+
+**Correct answer: C**
+
+**Explanation:** Why: Wood has passive potential; the carpenter has active potential; construction actualises table-form.Discriminator: A material capacity becoming actual through an organised process
+
+### MCQ 24 - [Process]
+
+To call Aristotle's causes processual is to say that they:
+
+A. Are merely four events in sequence
+B. Are mental habits only
+C. Eliminate formal explanation
+D. Jointly explain how a substance develops while retaining structured identity
+
+**Correct answer: D**
+
+**Explanation:** Why: The causes integrate material continuity, source of change, organisation, and completed end.Discriminator: Jointly explain how a substance develops while retaining structured identity
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 7 / 10  |  Stage: Core  |  Subtopic: Actuality and Potentiality — Dynamis, Energeia, Entelecheia, Active/Passive Powers, Priority, Change and Being/Becoming
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -1317,8 +1665,66 @@ philosophy." Primary owner: this Part B (Lesson 7); Leibniz's monadology proper 
 - Discontinuity: Aristotle's entelechy is a *mode* a compound substance is in; Leibniz's entelechy *is* the substance.
 - **Trap:** never equate the two without marking the actuality-vs-substance shift.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### Remedial MCQ 37 - [Remedial - priority]
+
+Actuality is prior to potentiality chiefly in:
+
+A. Definition, explanation, substance, and end
+B. Every individual temporal sequence
+C. Spatial location only
+D. Statistical frequency
+
+**Correct answer: A**
+
+**Explanation:** Why: Actuality need not precede each individual potential stage in clock time.Discriminator: Definition, explanation, substance, and end
+
+### MCQ 18 - [Development]
+
+Developmental change in Aristotle is most directly explained by:
+
+A. The permanence of every accident
+B. The actualisation of a grounded potential under causal conditions
+C. Indivisible atoms alone
+D. A purely linguistic shift
+
+**Correct answer: B**
+
+**Explanation:** Why: Matter provides capacity; efficient, formal, and final causes explain the ordered process.Discriminator: The actualisation of a grounded potential under causal conditions
+
+### MCQ 27 - [Being and becoming]
+
+Aristotle reconciles being and becoming through:
+
+A. Absolute non-being
+B. The denial of all change
+C. Potential being
+D. Unstructured flux
+
+**Correct answer: C**
+
+**Explanation:** Why: The acorn is not actually but is potentially an oak, so becoming is not from nothing.Discriminator: Potential being
+
+### MCQ 8 - [Actuality]
+
+Actuality is:
+
+A. Bare latent capacity
+B. Indeterminate matter alone
+C. Statistical likelihood
+D. The realised activity or fulfilment of a potential
+
+**Correct answer: D**
+
+**Explanation:** Why: Energeia stresses being-at-work; entelecheia stresses achieved fulfilment.Discriminator: The realised activity or fulfilment of a potential
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 8 / 10  |  Stage: Advanced  |  Subtopic: Integrated Aristotelian Metaphysics — Being Qua Being, Focal Meaning, Fundamental Problem of Substance, Rejection of Atomists and Plato, Unmoved Mover/Pure Actuality
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -1583,8 +1989,66 @@ Plato." Primary owner: this Part B, drawing on Lessons 4-7 for the positive appa
 - Verdict line: Atomists lose form; Plato loses the particular; Aristotle keeps both, form inside the particular.
 - **Trap:** answering only one rejection when the question demands both.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 41 - [Entelechy - Aristotle]
+
+For Aristotle, "entelecheia" most precisely names:
+
+A. An actuality or realised state correlative to potentiality
+B. A separately existing immaterial substance
+C. A statistical tendency observed in nature
+D. A synonym for prime matter
+
+**Correct answer: A**
+
+**Explanation:** Why: entelecheia is the correlate of dynamis - actuality, achieved realisation or completeness - not a substance in its own right.Discriminator: An actuality or realised state correlative to potentiality
+
+### Remedial MCQ 34 - [Remedial - mover]
+
+The Unmoved Mover moves the cosmos:
+
+A. By physically pushing matter
+B. As the final object of desire and thought
+C. As a material element
+D. By undergoing change
+
+**Correct answer: B**
+
+**Explanation:** Why: Its causal role is final, not a temporal mechanical intervention.Discriminator: As the final object of desire and thought
+
+### MCQ 43 - [Being qua being]
+
+"Being qua being" as the subject of Aristotle's metaphysics means:
+
+A. The study of a single super-entity above all beings
+B. The study of quantity alone
+C. The study of beings considered in respect of their being, not restricted to one genus
+D. The study of Platonic Forms exclusively
+
+**Correct answer: C**
+
+**Explanation:** Why: metaphysics investigates being and the attributes belonging to it in virtue of its own nature, not a restricted genus or a single super-entity.Discriminator: The study of beings considered in respect of their being, not restricted to one genus
+
+### MCQ 44 - [Fundamental problem]
+
+According to Aristotle, the question "what is being?" becomes tractable only once it is narrowed to:
+
+A. "What is quantity?"
+B. "What is relation?"
+C. "What is quality?"
+D. "What is substance (ousia)?"
+
+**Correct answer: D**
+
+**Explanation:** Why: every other categorial sense of being is said with focal reference (pros hen) to substance, so the fundamental question reduces to the nature of substance.Discriminator: What is substance (ousia)?
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 9 / 10  |  Stage: Advanced  |  Subtopic: Plato–Aristotle Comparison — Form, Substance, Causation, Knowledge, Identity, Major Criticisms and Balanced Verdict
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -1732,8 +2196,66 @@ The larger debate recurs in realism about universals, substance theory, philosop
 - Use one advanced dispute fully rather than stacking names.
 - **Trap:** comparison is not a list; explain consequences of each difference.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 29 - [Comparison]
+
+The most accurate causal comparison is:
+
+A. Plato offers paradigmatic explanation; Aristotle develops fourfold processual explanation
+B. Both recognise only efficient causes
+C. Aristotle denies formal cause
+D. Plato gives a complete theory of natural development
+
+**Correct answer: A**
+
+**Explanation:** Why: Plato's Forms are models; Aristotle adds material, efficient, formal, and final dimensions.Discriminator: Plato offers paradigmatic explanation; Aristotle develops fourfold processual explanation
+
+### MCQ 30 - [Empirical world]
+
+For Aristotle, an ordinary empirical substance is:
+
+A. Pure matter
+B. A compound of matter and form
+C. Only potentiality
+D. A separated universal
+
+**Correct answer: B**
+
+**Explanation:** Why: The empirical natural thing is synolon, though pure actuality and prime matter require qualification.Discriminator: A compound of matter and form
+
+### Remedial MCQ 39 - [Remedial - substance tension]
+
+Which formulation best reconciles the Categories and Metaphysics accounts of substance?
+
+A. Both works identify prime matter as primary substance
+B. The Metaphysics abandons individuals and returns to separated Forms
+C. The Categories identifies primary subjects, while the Metaphysics explains substance-hood through form
+D. The two works use substance in one flat and wholly contradictory sense
+
+**Correct answer: C**
+
+**Explanation:** The strongest exam reading distinguishes the logical question 'which things are substances?' from the causal question 'what makes a thing the substance it is?' while retaining the form-universal tension.
+
+### Remedial MCQ 32 - [Remedial - potentiality]
+
+Potentiality is best understood as:
+
+A. Statistical likelihood
+B. Anything imaginable
+C. A moral preference
+D. A real ontological capacity grounded in the thing
+
+**Correct answer: D**
+
+**Explanation:** Why: An acorn can become an oak but not an elephant; genuine potential is constrained.Discriminator: A real ontological capacity grounded in the thing
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 10 / 10  |  Stage: Advanced  |  Subtopic: Final Synthesis — All Solved PYQs Through 2026, Answer Architecture, Original Practice and Register Notes
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━

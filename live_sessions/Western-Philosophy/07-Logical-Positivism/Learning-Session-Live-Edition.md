@@ -377,8 +377,46 @@ self-application/internal-crisis theme that recurs across Lessons 8, 9 and 11.
 12. Ethics/theology enter via Ayer's application of the criterion and the verified 2020 "Soul of Superman"
     question (Lesson 6); Carnap's tolerance/protocol material is bounded enrichment (Lessons 8–9).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 1.** Which trio formed the core of the Vienna Circle that developed logical positivism?
+A. Moritz Schlick, Rudolf Carnap and Otto Neurath
+B. A. J. Ayer, G. E. Moore and Bertrand Russell
+C. Ludwig Wittgenstein, Karl Popper and W. V. Quine
+D. Gottlob Frege, Edmund Husserl and Martin Heidegger
+**Correct answer: A.** Schlick led the Circle with Carnap and Neurath central. Ayer only popularised it in
+English; Wittgenstein, Popper and Quine were associated critics or outsiders, not the core.
+
+**MCQ 2.** In logical positivism, the verification principle is primarily a criterion of:
+A. the truth of a proposition
+B. the cognitive (factual) meaningfulness of a proposition
+C. the moral worth of a statement
+D. the grammatical correctness of a sentence
+**Correct answer: B.** It is a criterion of meaning, not truth: it decides whether a sentence has cognitive
+content, not whether that content is true. A meaningful sentence may still be false.
+
+**MCQ 3.** For the positivists, a metaphysical sentence such as 'The Absolute is perfect' is best described as:
+A. true but unverifiable
+B. false and therefore rejected
+C. cognitively meaningless (a pseudo-proposition), neither true nor false
+D. analytic and hence necessarily true
+**Correct answer: C.** Metaphysics is rejected as meaningless, not false: it fails the criterion of cognitive
+meaning and so has no truth-value at all.
+
+**MCQ 4.** The 'strong' sense of verifiability was abandoned by Ayer chiefly because:
+A. it made metaphysical statements meaningful
+B. it required all statements to be analytic
+C. it conflicted with the principle of tolerance
+D. no universal scientific law could ever be conclusively verified, making science meaningless
+**Correct answer: D.** Conclusive (strong) verification cannot certify universal laws or statements about the
+past and other minds, so it would exclude science itself — hence the retreat to the weak sense.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 2 / 12  |  Stage: Foundation  |  Subtopic: Forms of verification — strong/weak, practical/principled verification, Ayer's revisions and Church's objection
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -536,8 +574,47 @@ refutation → verdict that the dilemma is internal and unresolved.
 10. > 🔑 **Mnemonic:** Strong = **S**trict but **S**cience-killing; Weak = wide but lets in the **W**eird
     (metaphysics).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 5.** Under the 'weak' sense of verifiability, a proposition is meaningful if:
+A. some possible observations are relevant to, or render probable, its truth or falsity
+B. its truth can be conclusively and finally established
+C. it can be deduced from a metaphysical first principle
+D. it is merely grammatically well formed
+**Correct answer: A.** Weak verification requires only that experience be relevant to the proposition or render
+it probable, not that it be conclusively proven.
+
+**MCQ 6.** 'There are mountains on the far side of the Moon' (asserted before space travel) was meaningful for
+the positivists because it was verifiable:
+A. in the strong sense
+B. in principle, even if not in practice at the time
+C. only analytically
+D. by emotive expression
+**Correct answer: B.** The in-principle / in-practice distinction lets a currently untestable but conceivably
+observable claim count as meaningful.
+
+**MCQ 7.** Alonzo Church's 1949 objection showed that Ayer's revised (weak) verification criterion:
+A. was equivalent to Popper's falsifiability
+B. made all statements analytic
+C. was so permissive that almost any sentence, including metaphysics, could be made 'verifiable'
+D. proved the existence of synthetic a priori truths
+**Correct answer: C.** Church (1949) demonstrated that the formal criterion let arbitrary sentences qualify as
+verifiable, collapsing the demarcation the positivists wanted.
+
+**MCQ 8.** The 'difference-argument' for the verification principle holds that:
+A. every meaningful sentence must be a tautology
+B. meaning is only the emotive force of a word
+C. only mathematics is genuinely meaningful
+D. if two sentences make no possible difference to any observation, they do not differ in cognitive meaning
+**Correct answer: D.** Modelled on Einstein's operational critique of absolute simultaneity: a distinction that
+makes no observational difference is cognitively empty.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 3 / 12  |  Stage: Foundation  |  Subtopic: Positive case for verification — meaning, testability, cognitive discipline and why verification initially appeared plausible
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -663,8 +740,48 @@ architecture.
 10. > 🔑 **Mnemonic — "DEMU":** **D**ifference-argument, **E**instein, **M**eaning-as-use-conditions,
     **D**emarcation, **U**nity of science — five motivations, memorised as one word-chain (DEMU + one D).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 9.** Which pair best captures the positive motivations the positivists gave for the criterion?
+A. demarcation of science from metaphysics, and the unity of science
+B. the reality of the Absolute, and moral realism
+C. the synthetic a priori, and rational intuition
+D. speculative theology, and cosmology
+**Correct answer: A.** Verification was meant to demarcate meaningful science from metaphysics and to underwrite
+a unified, empirically grounded science.
+
+**MCQ 10.** The Circle drew on Wittgenstein's *Tractatus*, but the precise correction is that:
+A. the *Tractatus* already stated the verification principle explicitly
+B. truth-conditions / bipolarity in the *Tractatus* are not identical to verification-conditions; the Circle
+added a step Wittgenstein did not take
+C. Wittgenstein chaired the Vienna Circle
+D. the *Tractatus* rejected all logic
+**Correct answer: B.** The *Tractatus* gave truth-conditions and bipolarity; equating meaning with a method of
+verification was the Circle's own move, not Wittgenstein's.
+
+**MCQ 11.** Which statement about Wittgenstein's relation to the Vienna Circle is correct?
+A. He was the founding chairman of the Circle
+B. He co-authored the Circle's manifesto
+C. He was never a member of the Circle, though some members read the *Tractatus* with him
+D. He wrote *Language, Truth and Logic*
+**Correct answer: C.** Wittgenstein was never a Circle member; *Language, Truth and Logic* was written by Ayer,
+not Wittgenstein.
+
+**MCQ 12.** A key difference between the *Tractatus* and Vienna positivism concerns:
+A. the use of truth-tables
+B. the rejection of tautologies
+C. the endorsement of the synthetic a priori
+D. Wittgenstein's treatment of ethics and the mystical as *showing* what cannot be said, which the positivists
+dismissed as merely emotive or meaningless
+**Correct answer: D.** The *Tractatus* reserved a place for the ethical and mystical as inexpressible; the
+positivists treated such talk as cognitively meaningless.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 4 / 12  |  Stage: Core  |  Subtopic: Tractatus lineage — what positivists inherited from early Wittgenstein and what they changed
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -818,8 +935,47 @@ bounded sentence on the hierarchy-of-languages precursor, forward-pointed to its
 10. Later Wittgenstein abandons one empirical criterion of meaning entirely — named here only as a forward
     boundary (Lesson 11).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 13.** The distinctive positivist rejection of metaphysics is grounded in a problem of:
+A. meaning
+B. knowledge alone
+C. ontology alone
+D. ethics
+**Correct answer: A.** Unlike Hume and Kant, who cite the limits of knowledge, the positivists reject metaphysics
+as meaningless — a semantic verdict, which is their innovation.
+
+**MCQ 14.** Carnap's analysis of Heidegger's 'Das Nichts nichtet' ('The Nothing noths') concludes that the
+sentence:
+A. is a profound synthetic a priori truth
+B. is a pseudo-statement that misuses 'nothing' (a quantifier) as a name and coins an illicit verb
+C. is empirically verifiable in principle
+D. is analytically true
+**Correct answer: B.** Carnap (1932) diagnosed a violation of logical syntax: 'nothing' is a logical quantifier,
+not a subject, and 'to noth' is illicitly coined — surface grammar masking a malformation.
+
+**MCQ 15.** For Carnap, metaphysical pseudo-statements typically arise because:
+A. they are deliberately poetic
+B. they contain mathematical errors
+C. their surface grammatical form mimics genuine statements while their logical form is defective or empty
+D. they are always self-contradictory
+**Correct answer: C.** Metaphysics deceives by grammatical resemblance to fact-stating language; logical analysis
+reveals the absence of cognitive content.
+
+**MCQ 16.** On Ayer's emotivism, 'Stealing is wrong' primarily:
+A. reports the speaker's psychological state, and is thus verifiable
+B. describes a non-natural moral property
+C. is analytically true
+D. expresses (evinces) the speaker's disapproval and has no cognitive truth-value
+**Correct answer: D.** For Ayer ethical utterances *express* feeling rather than *report* it; they are not
+statements of fact and are neither true nor false.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 5 / 12  |  Stage: Core  |  Subtopic: Rejection of metaphysics — pseudostatements, grammatical disguise, logical diagnosis and examples
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -986,8 +1142,50 @@ graded distinction, not a flat "it relates to all three equally," is what the qu
    ground/consequence, not the distinctive claim.
 10. ❌ Trap: "positivists reject metaphysics as false" — always correct to "as cognitively meaningless."
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 17.** Ayer insists an emotive utterance *expresses* rather than *reports* feeling because, if it merely
+reported the speaker's feeling, it would:
+A. become an empirically verifiable psychological statement, contrary to his view that ethics is non-cognitive
+B. be a tautology
+C. be a metaphysical pseudo-statement
+D. be conclusively verifiable in the strong sense
+**Correct answer: A.** A report of one's feelings is a testable autobiographical fact; since Ayer denies ethics is
+factual, moral utterance must be expression, not report.
+
+**MCQ 18.** Stevenson's development of emotivism emphasises 'disagreement in attitude', which means:
+A. two people disagree about an empirical fact
+B. two people share the facts yet hold opposed favour/disfavour attitudes, which moral language works to
+influence
+C. two people disagree about the rules of logic
+D. moral terms are strictly analytic
+**Correct answer: B.** Stevenson distinguishes disagreement in belief from disagreement in attitude; ethical
+language functions dynamically (persuasive definition) to alter attitudes.
+
+**MCQ 19.** The Frege–Geach problem presses emotivism by pointing out that:
+A. moral terms are always verifiable
+B. emotivism entails moral realism
+C. moral sentences occur *unasserted* in embedded contexts (e.g., a conditional's antecedent), where no attitude
+is expressed, yet keep the same meaning
+D. Ayer and Stevenson agreed on everything
+**Correct answer: C.** If 'X is wrong' merely expresses an attitude, its occurrence in 'If X is wrong, then Y' —
+where nothing is expressed — is hard to explain; this is the embedding / Frege–Geach pressure.
+
+**MCQ 20.** The 'linguistic theory of necessary propositions' holds that necessary truths are necessary because
+they are:
+A. known by rational intuition of the world
+B. verified by repeated observation
+C. synthetic a priori
+D. analytic — true solely in virtue of the meanings / conventions of their terms
+**Correct answer: D.** Positivists explain necessity linguistically: necessary truths are analytic tautologies,
+true by meaning and empty of factual content.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 6 / 12  |  Stage: Core  |  Subtopic: Ethics and theology — cognitive meaninglessness, Ayer's emotivism and Stevenson's refinement
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1139,8 +1337,47 @@ subjectivism.
 10. > 🔑 **Mnemonic:** Ayer = **E**xpression only; Stevenson = **E**xpression **+** **D**escription **+**
     **P**ersuasion ("EDP").
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 21.** A central positivist claim about Kant is that:
+A. there is no synthetic a priori knowledge; whatever is a priori is analytic and factually empty
+B. all mathematics is synthetic a posteriori
+C. space and time are metaphysical substances
+D. moral judgments are synthetic a priori truths
+**Correct answer: A.** Against Kant the positivists deny the synthetic a priori: the a priori is analytic (empty
+of factual content), the factual is a posteriori.
+
+**MCQ 22.** 'All objects are either red or not red' differs from 'This page is white' in that the former is:
+A. synthetic while the latter is analytic
+B. analytic / tautologous (true by logical form) while the latter is synthetic and empirical (verified by
+observation)
+C. meaningless while the latter is meaningful
+D. verifiable in the strong sense while the latter is not
+**Correct answer: B.** The first is an instance of excluded middle, true by form and factually empty; the second
+is a contingent empirical report — meaningful in different ways.
+
+**MCQ 23.** For the positivists, universal scientific laws are meaningful because they are:
+A. conclusively verifiable by a finite number of observations
+B. analytic tautologies
+C. indirectly testable — their observational consequences can confirm or disconfirm them (weak verification)
+D. emotive expressions of the scientist's attitude
+**Correct answer: C.** Universal laws cannot be conclusively verified but are meaningful through testable
+consequences; this indirect / weak account raises the problem of confirmation.
+
+**MCQ 24.** The 'protocol-sentence debate' within logical positivism concerned:
+A. whether ethics is emotive
+B. the wording of the Circle's manifesto
+C. whether Wittgenstein should join the Circle
+D. the nature and status of the basic observation statements on which empirical knowledge rests
+**Correct answer: D.** Protocol sentences are the elementary reports of observation; the debate was over their
+form, certainty and revisability.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 7 / 12  |  Stage: Core  |  Subtopic: Necessary and universal propositions — linguistic theory, analytic truths, tautologies and scientific generalisations
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1303,8 +1540,50 @@ red/white discrimination → universal laws and metaphysics → Quine's later, l
 10. ❌ Trap: "the linguistic theory of necessary propositions = Kant's synthetic a priori" — exactly opposite; the
     positivists *deny* the synthetic a priori.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 25.** In the protocol-sentence debate, the opposition is best described as:
+A. Schlick's foundationalism (secure observation reports) versus Neurath's coherentism / physicalism (all
+statements revisable)
+B. Ayer's realism versus Carnap's idealism
+C. Popper versus Quine
+D. Frege versus Geach
+**Correct answer: A.** Schlick sought a secure base in observational affirmations; Neurath rejected any
+incorrigible foundation, treating protocols as physicalist and revisable within a coherent system.
+
+**MCQ 26.** Neurath's image of rebuilding a ship at sea, plank by plank, without ever dry-docking it, expresses:
+A. the strong verification principle
+B. anti-foundationalism — we revise our body of statements from within, with no absolutely secure starting point
+C. the emotive theory of ethics
+D. the synthetic a priori
+**Correct answer: B.** The boat simile rejects an indubitable foundation: knowledge is repaired holistically from
+within, prefiguring theory-ladenness and holism.
+
+**MCQ 27.** Carnap's Principle of Tolerance ('In logic, there are no morals') states that:
+A. all moral claims are meaningful
+B. there is one uniquely correct logical language
+C. everyone is free to choose their own logical syntax / language framework, judged by convenience rather than
+correctness
+D. metaphysics is true within a framework
+**Correct answer: C.** Tolerance makes the choice of a logical / linguistic framework conventional and pragmatic:
+there is no 'immoral' logic, only more or less useful ones.
+
+**MCQ 28.** Carnap's distinction between 'internal' and 'external' questions holds that questions about the
+existence of entities (numbers, things) are:
+A. always metaphysical and meaningful
+B. answerable only by strong verification
+C. emotive expressions
+D. answerable *internally* within a chosen framework, whereas the *external* question of the framework's own
+reality is a practical choice, not a factual claim
+**Correct answer: D.** Internal questions have answers by the framework's rules; the external 'do numbers really
+exist?' is, for Carnap, a pseudo-question or a practical decision to adopt the framework.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 8 / 12  |  Stage: Core  |  Subtopic: Protocol-sentence debate — Schlick, Neurath, foundationalism, coherence and intersubjectivity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1441,8 +1720,48 @@ whole topic is structured as a single argument, not a set of disconnected sub-to
 9. ❓ Balanced verdict: Schlick's fairy-tale objection is not fully met by Neurath's practice-based reply.
 10. > 🔑 **Mnemonic:** Schlick = **S**olid ground (affirmations); Neurath = **N**o fixed ground (boat).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 29.** A common criticism of Carnap's Principle of Tolerance is that it:
+A. risks a conventionalism / relativism in which framework choice looks arbitrary and truth becomes
+framework-relative
+B. reintroduces the synthetic a priori
+C. proves the existence of the Absolute
+D. makes ethics cognitively meaningful
+**Correct answer: A.** If frameworks are freely chosen, critics worry that standards of correctness become merely
+conventional, threatening objectivity.
+
+**MCQ 30.** The self-refutation objection argues that the verification principle itself is:
+A. an analytic tautology and hence trivially true
+B. neither analytic nor empirically verifiable, so by its own standard it is cognitively meaningless
+C. a synthetic a posteriori discovery
+D. an emotive expression of approval
+**Correct answer: B.** The principle is not true by definition nor testable by observation, so it seems to fail
+its own criterion — the classic self-refutation charge.
+
+**MCQ 31.** Popper's falsifiability criterion differs from the verification principle because Popper offered it
+as a criterion of:
+A. cognitive meaning
+B. moral rightness
+C. *demarcation* between science and non-science, explicitly NOT a criterion of meaning
+D. analytic truth
+**Correct answer: C.** Popper proposed falsifiability to demarcate science from non-science and denied it was a
+theory of meaning; metaphysics, for him, may be meaningful though unscientific.
+
+**MCQ 32.** Quine's 'Two Dogmas of Empiricism' undermines logical positivism chiefly by:
+A. defending the synthetic a priori
+B. proving the verification principle
+C. endorsing emotivism
+D. attacking the analytic/synthetic distinction and reductionism, replacing them with confirmational holism
+**Correct answer: D.** Quine argues the analytic/synthetic boundary cannot be drawn non-circularly and that
+statements face experience only as a corporate body (holism), dissolving key positivist commitments.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 9 / 12  |  Stage: Advanced  |  Subtopic: Carnap's tolerance — linguistic frameworks, internal/external questions and ontological choice
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1578,8 +1897,50 @@ later disputes — so tolerance inherits, rather than escapes, the linguistic th
 10. No dedicated primary PYQ; required enrichment for 20-mark metaphysics answers (Lesson 5) and Lesson 10's
     unified-science lesson.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**Remedial MCQ 33.** Common error to avoid: for the positivists, to call a metaphysical sentence 'meaningless' is
+to say that it is:
+A. not a candidate for truth or falsity at all — it lacks cognitive content
+B. false
+C. probably false but possibly true
+D. true only within a framework
+**Correct answer: A.** 'Meaningless' is stronger than 'false': a false sentence is meaningful, whereas a
+pseudo-proposition has no truth-value to be false.
+
+**Remedial MCQ 34.** Which correction about Ayer is accurate?
+A. Ayer founded and chaired the Vienna Circle
+B. Ayer was the English populariser (*Language, Truth and Logic*, 1936); the Circle's core was Schlick, Carnap
+and Neurath in Vienna
+C. Ayer and Wittgenstein co-wrote the *Tractatus*
+D. Ayer rejected the verification principle from the start
+**Correct answer: B.** Ayer transmitted Vienna positivism to the English-speaking world but did not found the
+Circle; he initially championed verification.
+
+**Remedial MCQ 35.** Which is the accurate 'ownership' caution for the exam?
+A. Wittgenstein's later 'meaning is use' is a positivist doctrine
+B. Quine was himself a logical positivist
+C. Later Wittgenstein and Quine are critics / successors, not positivists; their questions appear here only as
+labelled comparisons
+D. Popper's falsifiability is simply the verification principle renamed
+**Correct answer: C.** Later Wittgenstein, Quine and Popper are used as comparisons or critics; conflating them
+with positivism is an examiner-penalised error.
+
+**Remedial MCQ 36.** The precise point of Carnap's 'Nothing noths' example is that:
+A. the sentence is a deep truth about being
+B. the sentence is empirically false
+C. the sentence is analytically true
+D. 'nothing' is a logical quantifier illegitimately treated as a naming subject, producing a syntactic
+pseudo-statement
+**Correct answer: D.** The error is logico-syntactic — a quantifier used as a name plus an invented verb — so the
+sentence is not false but ill formed and meaningless.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 10 / 12  |  Stage: Advanced  |  Subtopic: Unified science project — philosophy as science's "handmaid," reduction, physicalism and the 2026 question
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1761,8 +2122,49 @@ naming, and then setting aside, the cross-owned Q4(a) precursor.
 10. > 🔑 **Mnemonic:** the four failure points spell **"PSCS"** — **P**rotocol gap, **S**trong/weak dilemma,
     **C**arnap-Neurath split, **S**elf-refutation (sharpened by Popper/Quine).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**Remedial MCQ 37.** The 'strong/weak dilemma' facing the verification criterion is that:
+A. the strong sense is too strict (it excludes scientific laws) while the weak sense is too liberal (it readmits
+metaphysics)
+B. both senses exclude mathematics
+C. both senses are equivalent to falsifiability
+D. the weak sense is analytic and the strong sense synthetic
+**Correct answer: A.** Too strict versus too permissive is the theory's core instability, dramatised by Church's
+1949 result.
+
+**Remedial MCQ 38.** Why is Ayer's emotivism NOT the same as ethical subjectivism?
+A. Because it says moral claims are empirically verifiable
+B. Subjectivism makes 'X is wrong' a true-or-false *report* about the speaker's feelings; emotivism denies it
+states any fact — it merely *expresses* feeling
+C. Because emotivism affirms non-natural moral properties
+D. Because emotivism is a form of moral realism
+**Correct answer: B.** Subjectivism is cognitivist (moral claims are truth-apt reports of attitudes); emotivism
+is non-cognitivist (expression, no truth-value) — a distinction students often miss.
+
+**Remedial MCQ 39.** Restating the core point: the verification principle tells us whether a sentence:
+A. is true
+B. is morally acceptable
+C. has cognitive meaning (is a genuine factual claim), not whether it is true
+D. is grammatically correct
+**Correct answer: C.** Meaning versus truth is the most tested distinction: a meaningful sentence can be false,
+and the method of verification is what confers factual content.
+
+**Remedial MCQ 40.** In the 2023-style question, the positivist rejection of metaphysics is best said to relate to
+the problem of:
+A. knowledge, exactly as in Kant
+B. the nature of things (ontology) alone
+C. ethics
+D. meaning primarily — though it rests on an empiricist epistemology and carries anti-ontological consequences
+**Correct answer: D.** The distinctive thesis is semantic (meaninglessness), distinguishing positivism from Hume
+and Kant, while presupposing empiricism and disowning super-empirical ontology.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 11 / 12  |  Stage: Advanced  |  Subtopic: Collapse and succession — self-refutation, strong/weak dilemma, Popper, Quine and later Wittgenstein
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1928,8 +2330,51 @@ multi-causal verdict.
 10. ❌ Trap: "Quine is a logical positivist" / "Popper repairs verificationism" — both false; both are critics
     and successors, never positivists themselves.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 41.** The positivists' claim that "philosophy is a handmaid to science" means that philosophy's job becomes:
+A. the logical clarification of the sciences' own language and method, not a rival system of metaphysical truths
+B. the invention of new scientific hypotheses independently of any science
+C. the emotive expression of scientific enthusiasm
+D. the strong verification of every metaphysical claim
+**Correct answer: A.** Once verification fixes cognitive meaning, any further philosophical "truth" is either
+empty (analytic) or already science (empirical); what remains is clarification, not rivalry.
+
+**MCQ 42.** Which THREE linked projects together made up the positivists' attempt at a unified language of
+science?
+A. Kantian synthetic a priori, Hegelian dialectic, and Cartesian doubt
+B. phenomenalist/reconstructionist reduction, physicalist/public-language protocols, and the unity-of-science
+coordination programme
+C. falsificationism, holism, and language-games
+D. strong verification, weak verification, and emotivism
+**Correct answer: B.** These are the three historically distinct programmes taught in Lesson 10, Part B — not one
+single settled reduction thesis.
+
+**MCQ 43.** Which of the following is NOT one of the four reasons given for the failure of the unified-science
+project?
+A. no agreed protocol base between Schlick and Neurath
+B. the strong/weak verification dilemma was never closed
+C. Wittgenstein publicly resigned from the Vienna Circle in protest
+D. Carnap and Neurath disagreed over reduction and physicalism
+**Correct answer: C.** Wittgenstein was never a Circle member and so could not resign from it; this option
+misstates the historical record. The genuine four reasons are A, B, D and the verification principle's own
+self-refutation (sharpened by Popper and Quine).
+
+**MCQ 44.** The exact owner boundary between the 2026 Q4(c) and Q4(a) questions is that:
+A. both are primary parts of Logical Positivism
+B. both are primary parts of Moore-Russell-Early Wittgenstein
+C. Q4(a) and Q4(c) are the same question asked twice
+D. Q4(c) (the unified-science-project question) is Logical-Positivism-owned, while Q4(a) (the hierarchy of
+languages) is owned by Moore-Russell-EarlyWittgenstein and is only a bounded historical precursor here
+**Correct answer: D.** This file's 8th primary part is Q4(c) alone; Q4(a) is named only as a bounded precursor
+(Lesson 4, Part C; Lesson 10, Part D) and is never taught here as positive doctrine.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 12 / 12  |  Stage: Advanced  |  Subtopic: Final synthesis — all solved PYQs, comparisons, answer architecture, original practice and consolidated register notes
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━

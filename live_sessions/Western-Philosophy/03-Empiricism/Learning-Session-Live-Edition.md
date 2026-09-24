@@ -363,8 +363,71 @@ will make explicit when he attacks the atomism rather than any single Humean inf
 - **Practice link:** MCQs 1-2 and Remedial MCQ 25 test the slide logic directly; every Lesson 10 long-answer PYQ
   can open with this frame.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 1
+
+Which sequence best captures the internal logic ("slide") of British Empiricism?
+
+A. Locke's representative realism then Berkeley's subjective idealism then Hume's mitigated scepticism
+B. Berkeley's idealism then Locke's realism then Hume's scepticism
+C. Hume's scepticism then Locke's realism then Berkeley's idealism
+D. Locke's idealism then Berkeley's realism then Hume's dogmatism
+
+**Correct answer: A**
+
+**Explanation:** Each thinker takes the shared premise (all ideas from experience) one step further, with an
+added premise named at each step; the movement runs realism to idealism to scepticism, never the reverse orders
+in B, C or D.
+
+### MCQ 2
+
+The single shared premise said to drive the empiricist slide is:
+
+A. that God exists and sustains ideas
+B. that all ideas derive from experience
+C. the primary/secondary quality distinction
+D. the doctrine of innate ideas
+
+**Correct answer: B**
+
+**Explanation:** The shared starting point is experience as the sole source of ideas; the atomism of impressions
+then forces the slide toward scepticism. A, C and D are thinker-specific doctrines, not the shared premise.
+
+### Remedial MCQ 25
+
+Remedial: the precise content of the claim "Hume denies causation" is that Hume denies:
+
+A. the idea of necessary connexion in the objects, not the practice of causal inference
+B. that anything whatever causes anything else
+C. the existence of constant conjunction
+D. the existence of the external world
+
+**Correct answer: A**
+
+**Explanation:** Custom compels us to infer effects from causes; what Hume denies is an objective, perceivable
+necessary connexion in the objects themselves.
+
+### Remedial MCQ 26
+
+Remedial: "tabula rasa," correctly understood, means that:
+
+A. the mind is wholly and permanently passive, incapable of any activity
+B. the mind at birth has no innate propositional content, though reflection remains an active source of ideas
+C. the mind cannot ever come to know anything with certainty
+D. all ideas are secretly innate after all
+
+**Correct answer: B**
+
+**Explanation:** Locke denies innate content, not native faculties; reflection (an active source) and the mind's
+combining/comparing/abstracting operations are fully compatible with the blank-slate thesis.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 2 / 10  |  Stage: Foundation  |  Subtopic: Locke's Knowledge Theory — Attack on Innate Ideas, Tabula Rasa, Sensation/Reflection, Ideas/Operations, Intuitive/Demonstrative/Sensitive Knowledge (2026 Q1(b))
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -620,8 +683,72 @@ mechanism (sensation/reflection → simple → complex) **and** at least one deg
 - **Trap:** intuitive ≠ certain-only, demonstrative ≠ probable-only — both are knowledge.
 - **Practice link:** MCQs 3-5 and Remedial MCQ 26; PYQs 2022 Q4(c) and 2026 Q1(b).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 3
+
+Locke's central objection to innate ideas is that:
+
+A. they are morally corrupting
+B. they contradict the existence of God
+C. universal consent fails and an unperceived idea "in the mind" is a contradiction
+D. Descartes never actually held them
+
+**Correct answer: C**
+
+**Explanation:** Children and "idiots" show no awareness of the alleged principles, and Locke stipulates that to
+be in the mind is to be perceived, ruling out unnoticed innate content, though this defeats only conscious-content
+innatism, not Descartes' dispositional version.
+
+### MCQ 4
+
+For Locke, the two "fountains" of all ideas are:
+
+A. intuition and demonstration
+B. impressions and ideas
+C. primary and secondary qualities
+D. sensation and reflection
+
+**Correct answer: D**
+
+**Explanation:** Sensation (the outer world) and reflection (the mind observing its own operations) supply every
+idea; the mind at birth is a tabula rasa, but reflection is an active source, not a passive one.
+
+### MCQ 5
+
+Locke's degrees of knowledge, ordered from most to least certain, are:
+
+A. intuitive, demonstrative, sensitive
+B. sensitive, demonstrative, intuitive
+C. demonstrative, intuitive, sensitive
+D. intuitive, sensitive, demonstrative
+
+**Correct answer: A**
+
+**Explanation:** Intuitive (immediate) is most certain, demonstrative proceeds via intervening ideas and is
+therefore a chain of intuitions, and sensitive knowledge of particular existents is least certain but still
+reliable.
+
+### Remedial MCQ 26
+
+Remedial: "tabula rasa," correctly understood, means that:
+
+A. the mind is wholly and permanently passive, incapable of any activity
+B. the mind at birth has no innate propositional content, though reflection remains an active source of ideas
+C. the mind cannot ever come to know anything with certainty
+D. all ideas are secretly innate after all
+
+**Correct answer: B**
+
+**Explanation:** Locke denies innate content, not native faculties; reflection (an active source) and the mind's
+combining/comparing/abstracting operations are fully compatible with the blank-slate thesis.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 3 / 10  |  Stage: Foundation  |  Subtopic: Locke on Abstraction and Reality — Abstract General Ideas, Nominal/Real Essence, Primary/Secondary Qualities, Representative Realism and Substance
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -822,8 +949,70 @@ completeness.
 - **Trap:** do not pre-empt Lesson 6 by writing Berkeley's refutation here — this lesson is Locke's doctrine only.
 - **Practice link:** MCQs 6-8 and Remedial MCQ 28; PYQs 2025 Q4(c) (Berkeley half, Lesson 6) and 2024 Q2(a).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 6
+
+Locke's doctrine of abstract general ideas claims that the mind forms a general idea by:
+
+A. denying that general words have any meaning
+B. omitting the particular differences of particular ideas (e.g. of a triangle)
+C. recollecting an innate universal
+D. perceiving the real essence directly
+
+**Correct answer: B**
+
+**Explanation:** Locke's abstraction leaves out differentiating particulars ("circumstances of time and place")
+to yield a general idea, the very doctrine Berkeley later destroys.
+
+### MCQ 7
+
+For Locke, the "real essence" of a natural substance such as gold is:
+
+A. the nominal definition we use to classify it
+B. an abstract general idea in the mind
+C. its unknown internal constitution, from which its observable properties flow
+D. identical with its secondary qualities
+
+**Correct answer: C**
+
+**Explanation:** Nominal essence is the known sorting idea; real essence is the unknown microstructure, unknowable
+for substances, which is Locke's epistemic humility.
+
+### MCQ 8
+
+Which set correctly lists Locke's primary qualities?
+
+A. colour, sound, taste
+B. warmth, smell, colour
+C. beauty, value, purpose
+D. extension, figure, motion, solidity, number
+
+**Correct answer: D**
+
+**Explanation:** Primary qualities are inseparable from body and our ideas resemble them; secondary qualities
+(colour, sound, taste) are only powers to produce sensations.
+
+### Remedial MCQ 28
+
+Remedial: the "parity of reasoning" objection to Locke's quality distinction is that:
+
+A. primary qualities are more real than secondary ones
+B. secondary qualities do resemble objects after all
+C. the distinction is safely grounded in real essence
+D. the relativities that subjectivise secondary qualities apply equally to the primary ones
+
+**Correct answer: D**
+
+**Explanation:** Berkeley concludes that either all qualities are mind-dependent or none are; the resemblance
+version of the distinction cannot survive, though a structural/explanatory-role version can.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 4 / 10  |  Stage: Core  |  Subtopic: Locke on Self and God — Personal Identity, Consciousness/Memory, Prince-Cobbler, Circularity/Transitivity Objections, Self/Substance Distinction and God
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -985,8 +1174,70 @@ Butler/Reid and the Brave Officer.
 - **Trap:** the criterion is sameness of consciousness, not sameness of soul-substance or of the "man."
 - **Practice link:** MCQs 9-10 and Remedial MCQ 29; PYQ 2021 Q1(d).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 9
+
+Locke's "substratum" is best described as:
+
+A. a "something I know not what" that supports qualities but is itself unknown
+B. a bundle of perceptions in flux
+C. God's idea of the object
+D. the real essence, fully known
+
+**Correct answer: A**
+
+**Explanation:** Locke grants that substance exists but denies knowledge of its nature; Berkeley turns this
+admitted emptiness into a weapon against matter.
+
+### MCQ 10
+
+Locke locates personal identity in:
+
+A. the same immaterial soul-substance
+B. continuity of consciousness (memory)
+C. the same living body
+D. a divine decree
+
+**Correct answer: B**
+
+**Explanation:** Identity is neither soul nor body/"man" but sameness of consciousness; Locke calls the term
+"forensic" because it fixes accountability.
+
+### Remedial MCQ 26
+
+Remedial: "tabula rasa," correctly understood, means that:
+
+A. the mind is wholly and permanently passive, incapable of any activity
+B. the mind at birth has no innate propositional content, though reflection remains an active source of ideas
+C. the mind cannot ever come to know anything with certainty
+D. all ideas are secretly innate after all
+
+**Correct answer: B**
+
+**Explanation:** Locke denies innate content, not native faculties; reflection (an active source) and the mind's
+combining/comparing/abstracting operations are fully compatible with the blank-slate thesis.
+
+### Remedial MCQ 29
+
+Remedial: Reid's "Brave Officer" objection shows that Locke's memory criterion can fail to be:
+
+A. transitive
+B. forensic
+C. conscious
+D. bodily
+
+**Correct answer: A**
+
+**Explanation:** The general remembers the officer and the officer the flogged boy, but the general not the boy;
+the overlapping-chains repair restores the required transitivity.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 5 / 10  |  Stage: Core  |  Subtopic: Berkeley's Immaterialism — Esse Est Percipi, Attack on Material Substance, Primary-Quality Critique, Master Argument and Objections
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1174,8 +1425,70 @@ nominalism, Lesson 6, does the deeper work).
   perception-in-general with *my* perception.
 - **Practice link:** MCQs 13-14 and Remedial MCQ 28; PYQs 2021 Q1(c) and 2024 Q2(a) (first half).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 13
+
+"Esse est percipi," correctly read, means:
+
+A. for sensible things, to exist is to be perceived
+B. nothing exists unless I personally am looking at it
+C. there is no external world whatsoever
+D. only God exists and the world is illusion
+
+**Correct answer: A**
+
+**Explanation:** The formula applies to sensible things (ideas), which God sustains when no finite mind perceives
+them; it does not deny the external world or reduce perception to any one perceiver.
+
+### MCQ 14
+
+Berkeley's "likeness" principle states that:
+
+A. our ideas resemble material substances
+B. an idea can be like nothing but an idea
+C. primary qualities resemble objects but secondary do not
+D. God resembles the finite mind
+
+**Correct answer: B**
+
+**Explanation:** If an idea can resemble only another idea, no idea can picture an unperceiving material quality,
+so Locke's resemblance thesis collapses.
+
+### Remedial MCQ 27
+
+Remedial: Hume's problem of induction shows that the Uniformity Principle can be justified:
+
+A. by demonstration alone
+B. by experience alone, and non-circularly
+C. neither demonstratively (nature changing implies no contradiction) nor experientially (that is circular)
+D. by an a priori category supplied by the understanding
+
+**Correct answer: C**
+
+**Explanation:** Hence induction rests on custom/habit, not reason, and is a further instance of natural belief;
+Kant's a priori is a later reply, not Hume's own solution.
+
+### Remedial MCQ 28
+
+Remedial: the "parity of reasoning" objection to Locke's quality distinction is that:
+
+A. primary qualities are more real than secondary ones
+B. secondary qualities do resemble objects after all
+C. the distinction is safely grounded in real essence
+D. the relativities that subjectivise secondary qualities apply equally to the primary ones
+
+**Correct answer: D**
+
+**Explanation:** Berkeley concludes that either all qualities are mind-dependent or none are; the resemblance
+version of the distinction cannot survive, though a structural/explanatory-role version can.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 6 / 10  |  Stage: Core  |  Subtopic: Berkeley's Completed System — Ideas/Spirits, God, Continuity/Common Sense, Nominalism and Abstract-Idea Critique, Moore/Russell Reactions
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1405,8 +1718,71 @@ never separates Moore from Russell forfeits the final third. In 2024 Q2(a), a sc
 - **Trap:** do not say Berkeley "denies the world" or "is a sceptic"; do not call Hegel "Berkeley writ large."
 - **Practice link:** MCQs 15-20 and Remedial MCQs 30-31; PYQs 2018 Q3(a), 2025 Q4(c), 2024 Q2(a) (second half).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 15
+
+Berkeley's "Master Argument" is standardly criticised for:
+
+A. covertly denying the existence of God
+B. presupposing innate ideas
+C. a scope/use-mention confusion between the act and the object of conceiving
+D. relying on constant conjunction
+
+**Correct answer: C**
+
+**Explanation:** Russell, Prior and Gallois note that conceiving that X is unconceived is coherent, even though
+conceiving X "as unconceived by me" is not; Berkeley conflates the two.
+
+### MCQ 16
+
+Berkeley's parity (collapse) argument concludes that:
+
+A. only primary qualities are genuinely real
+B. secondary qualities are objective after all
+C. matter is unknowable but nonetheless real
+D. primary qualities are as mind-dependent as secondary, so matter has nothing left to be
+
+**Correct answer: D**
+
+**Explanation:** The relativities Locke used to subjectivise secondary qualities apply equally to the primary,
+dragging all qualities into mind-dependence.
+
+### MCQ 17
+
+Berkeley holds that we know spirits (minds) by:
+
+A. a notion, because ideas are passive and cannot picture an active mind
+B. an idea copied from a prior impression
+C. direct sense perception of the soul
+D. an innate intuition implanted by God
+
+**Correct answer: A**
+
+**Explanation:** Ideas are passive and inert; the active self and other spirits are grasped by a "notion," not by
+an idea, an asymmetry central to Berkeley's system.
+
+### MCQ 18
+
+For Berkeley, the continuity of objects when no human perceives them is secured by:
+
+A. an underlying material substance
+B. God's constant perception
+C. physical forces described by natural law
+D. the bundle of perceptions
+
+**Correct answer: B**
+
+**Explanation:** Involuntary, orderly ideas require an active cause more powerful than any finite mind; God's
+constant perception sustains objects unperceived by us, and natural law is simply the settled grammar of God's
+production of ideas.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 7 / 10  |  Stage: Core  |  Subtopic: Hume's Epistemology — Impressions/Ideas, Copy Principle, Association, Hume's Fork, Relations of Ideas/Matters of Fact, Substance Dissolution; 2026 Hume-on-Ideas-of-Reason Owner Content and Kant Cross-Response
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1640,8 +2016,71 @@ two positions — close with the graded assessment above, not with "both have a 
   cross-owned file's material; give the compact, accurate summary above and keep the Humean half primary.
 - **Practice link:** MCQs 21-22 and Remedial MCQ 27; PYQ 2018 Q1(a); 2026 Q2(b) solved in full in Lesson 10, Part C.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### MCQ 21
+
+The key difference between Moore's and Russell's reactions to Berkeley is that:
+
+A. Moore defends ordinary objects by direct realism, whereas Russell reconstructs objects as logical constructions from sense-data
+B. Russell accepts idealism while Moore rejects it
+C. Moore uses logical analysis while Russell trusts common sense
+D. their methods are effectively identical
+
+**Correct answer: A**
+
+**Explanation:** Both resist idealism, but the method differs in kind: Moore keeps ordinary objects; Russell
+analyses them into constructions seeking mind-independent structure.
+
+### MCQ 22
+
+Hume's Copy Principle states that:
+
+A. every impression is a copy of an idea
+B. every simple idea is a faint copy of a prior simple impression
+C. all ideas are innate and uncopied
+D. complex ideas cannot be analysed into simples
+
+**Correct answer: B**
+
+**Explanation:** The principle grounds Hume's test of meaning: for any term, ask from what impression its idea is
+derived; if none, the term is suspect, obscure, or fictitious.
+
+### MCQ 23
+
+On Hume's Fork, "the sun will rise tomorrow" is:
+
+A. a relation of ideas, necessarily true
+B. strictly meaningless
+C. a matter of fact, whose contrary is always conceivable
+D. an analytic truth like "a bachelor is unmarried"
+
+**Correct answer: C**
+
+**Explanation:** Its denial implies no contradiction, so it is contingent and a posteriori; only propositions
+like "2+2=4" are necessary relations of ideas.
+
+### MCQ 24
+
+Hume's three principles of association are:
+
+A. sensation, reflection and abstraction
+B. intuition, demonstration and sensitivity
+C. constancy, coherence and custom
+D. resemblance, contiguity and cause-and-effect
+
+**Correct answer: D**
+
+**Explanation:** These "gentle forces" move the imagination between related ideas, and specifically underlie the
+felt unity of the self (resemblance/causation) and the felt necessity of causation (cause-and-effect, developed
+into custom).
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 8 / 10  |  Stage: Core  |  Subtopic: Hume on Self and Substance — Bundle Theory, Personal Identity, Memory, Natural Belief, Kant's Response
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1821,8 +2260,72 @@ specific reply from the *Critique*, not merely "Kant disagreed."
   self exists" without this qualification.
 - **Practice link:** MCQs 23-24 and MCQ 37 (natural belief, restored gap); PYQ 2020 Q2(a).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### Remedial MCQ 25
+
+Remedial: the precise content of the claim "Hume denies causation" is that Hume denies:
+
+A. the idea of necessary connexion in the objects, not the practice of causal inference
+B. that anything whatever causes anything else
+C. the existence of constant conjunction
+D. the existence of the external world
+
+**Correct answer: A**
+
+**Explanation:** Custom compels us to infer effects from causes; what Hume denies is an objective, perceivable
+necessary connexion in the objects themselves.
+
+### Remedial MCQ 27
+
+Remedial: Hume's problem of induction shows that the Uniformity Principle can be justified:
+
+A. by demonstration alone
+B. by experience alone, and non-circularly
+C. neither demonstratively (nature changing implies no contradiction) nor experientially (that is circular)
+D. by an a priori category supplied by the understanding
+
+**Correct answer: C**
+
+**Explanation:** Hence induction rests on custom/habit, not reason, and is a further instance of natural belief;
+Kant's a priori is a later reply, not Hume's own solution.
+
+### Remedial MCQ 32
+
+Remedial: the clearly-labelled contemporary application of Hume's problem of induction to machine learning holds
+that ML prediction:
+
+A. proves a necessary connexion between events
+B. solves Hume's logical problem of induction
+C. removes any need for the Uniformity Principle
+D. operationalises inductive expectation but neither establishes necessity nor solves the logical problem
+
+**Correct answer: D**
+
+**Explanation:** Distributional shift restates Hume's point; the anchor (IIARD 2026) is a contemporary
+application, not doctrinal proof, and invents no statistics.
+
+### MCQ 37 (restored gap)
+
+Hume's general doctrine of "natural belief" is best illustrated by the parallel between:
+
+A. belief in continued/external bodies (via constancy and coherence) and belief in a unified self (via resemblance and causation)
+B. innate ideas and demonstrative knowledge
+C. primary qualities and secondary qualities
+D. the Master Argument and the likeness principle
+
+**Correct answer: A**
+
+**Explanation:** Both beliefs go beyond what sense strictly delivers, are unjustifiable by reason alone, and are
+nonetheless produced irresistibly by the imagination; the same structure recurs a third time in belief in the
+uniformity of nature (induction).
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 9 / 10  |  Stage: Advanced  |  Subtopic: Hume on Causation and Scepticism — Constant Conjunction, Necessary Connection, Custom/Habit, Induction, Liberty/Necessity Where Relevant, Miracles/God, Mitigated Scepticism
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -2107,8 +2610,71 @@ raised generally in Lesson 8) is the fault line every critic — and every AI-er
 - **Practice link:** Remedial MCQs 25, 27 and 32, and MCQ 38 (liberty/necessity, restored gap); PYQs 2019 Q4(b),
   2021 Q1(e), 2023 Q2(a), 2025 Q2(c), and the cross-paper 2025 P-II Q6(a).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+### Remedial MCQ 29
+
+Remedial: Reid's "Brave Officer" objection shows that Locke's memory criterion can fail to be:
+
+A. transitive
+B. forensic
+C. conscious
+D. bodily
+
+**Correct answer: A**
+
+**Explanation:** The general remembers the officer and the officer the flogged boy, but the general not the boy;
+the overlapping-chains repair restores the required transitivity.
+
+### Remedial MCQ 30
+
+Remedial: it is a mistake to call Berkeley a sceptic because:
+
+A. he affirms the reality of material substance
+B. his idealism is explicitly anti-sceptical — the materialist, not he, breeds doubt
+C. he denies the existence of God
+D. he denies that we perceive anything at all
+
+**Correct answer: B**
+
+**Explanation:** By removing the unknowable material world Berkeley claims certainty; sensible things are real
+ideas, sustained in being by God.
+
+### MCQ 37 (restored gap)
+
+Hume's general doctrine of "natural belief" is best illustrated by the parallel between:
+
+A. belief in continued/external bodies (via constancy and coherence) and belief in a unified self (via resemblance and causation)
+B. innate ideas and demonstrative knowledge
+C. primary qualities and secondary qualities
+D. the Master Argument and the likeness principle
+
+**Correct answer: A**
+
+**Explanation:** Both beliefs go beyond what sense strictly delivers, are unjustifiable by reason alone, and are
+nonetheless produced irresistibly by the imagination; the same structure recurs a third time in belief in the
+uniformity of nature (induction).
+
+### MCQ 38 (restored gap)
+
+Hume's compatibilist treatment of liberty and necessity holds that:
+
+A. all human actions are uncaused, which is what makes them free
+B. necessity, properly redefined as constant conjunction/inference from motives, is compatible with, and required for, liberty understood as freedom from constraint
+C. liberty and necessity are simply incompatible, full stop
+D. moral responsibility requires actions to be uncaused by any motive
+
+**Correct answer: B**
+
+**Explanation:** For Hume, uncaused actions would be arbitrary, not free, and could not ground praise or blame;
+liberty is the power of acting according to the determinations of the will, not causelessness.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 10 / 10  |  Stage: Advanced  |  Subtopic: Final Synthesis — Thinker Comparisons, Criticisms, All Solved PYQs Through 2026, Answer Architecture, Original Practice and Register Notes
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━

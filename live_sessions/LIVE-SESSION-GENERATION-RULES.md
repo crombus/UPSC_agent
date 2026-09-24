@@ -9,6 +9,34 @@ style of an interactive live session.
 These sessions are not short notes, revision summaries or compressed substitutes for
 the source material. They are complete teaching editions.
 
+## Single Source of Truth
+
+This file is the **only authoritative workflow and presentation contract** for every
+UPSC live learning session in this repository:
+
+```text
+live_sessions\LIVE-SESSION-GENERATION-RULES.md
+```
+
+Canonical knowledge files, books, PYQ ledgers, previous live editions, layered
+packages, solved workbooks, checkpoints and conversation summaries supply content,
+evidence or continuity only. They must never introduce, replace or override the
+workflow, lesson structure, interaction pattern, roadmap rules or practice sequence
+defined here.
+
+Mandatory use:
+
+1. Read this entire file before auditing or proposing the roadmap for every new topic.
+2. Read it again after any context reset, summary handoff or resumed session.
+3. Before responding to `Start` or `Next`, verify the response against the Start,
+   Generation and Navigation Lock, Structural Format Lock and Required Lesson Structure
+   in this file.
+4. Derive the roadmap from the audited learning dependencies, not from the lesson or
+   layer count of an existing package.
+5. If any other artifact conflicts with this file, this file wins. Do not blend the two
+   workflows or improvise a hybrid structure.
+6. If a needed rule is missing or ambiguous, update this file first, then continue.
+
 ## Output Location
 
 Save each generated live session under:
@@ -171,6 +199,82 @@ The final coverage-lock matrix must prove that every syllabus term, canonical do
 advanced refinement, argument, criticism, reply and verified PYQ is present. Existing
 packages are evidence sources and completeness checks, never unquestioned templates.
 
+## Per-Subtopic Analysis Lock
+
+Whole-topic generation in one run does **not** permit whole-topic summarisation. Before
+drafting the Markdown, analyse every frozen learner-facing subtopic independently.
+
+For each subtopic, create an internal evidence dossier containing:
+
+1. the exact syllabus term or learning dependency it serves;
+2. every relevant basic canonical heading and passage;
+3. every relevant advanced, enrichment and technical passage;
+4. relevant OCR-book evidence and standard formulations;
+5. every directly owned or necessary cross-linked PYQ through 2026;
+6. definitions and technical terminology;
+7. the complete argument, including presuppositions and inferential steps;
+8. examples, analogies and the limits of those examples;
+9. comparisons with directly relevant thinkers or schools;
+10. strongest criticisms, strongest replies and the unresolved residual;
+11. UPSC traps, directive demands and answer-writing uses;
+12. conceptual, applied and remedial practice requirements.
+
+Only begin drafting after all frozen subtopics have a completed dossier and every
+confirmed source item is mapped to a lesson or internal Part.
+
+No-skipping and no-compression apply **inside every subtopic**, not merely to the topic
+as a whole:
+
+- never replace a full argument with its conclusion;
+- never replace advanced content with a reference to another file;
+- never move all criticism, PYQs or practice to the final synthesis;
+- never merge distinct doctrines because they share vocabulary;
+- never use a source summary as a substitute for reading its relevant full passage;
+- never declare a subtopic complete because the overall document is long.
+
+The final coverage matrix must include a lesson-level row for every dossier and prove
+that its basic content, advanced content, arguments, criticisms, PYQs and practice were
+actually taught. Any unexplained lesson-level gap blocks completion.
+
+## Start, Generation and Navigation Lock
+
+`Start` means: generate the **entire accepted topic** as one complete
+`Learning-Session-Live-Edition.md` file in the same run. It never means generating only
+the first subtopic, printing the lesson in the terminal, or starting an interactive
+MCQ exchange.
+
+Follow the original Indian Philosophy file-generation workflow:
+
+1. Audit the complete topic and present the learner-facing roadmap.
+2. Wait for `Start`; that acceptance freezes the roadmap.
+3. Generate every frozen subtopic, internal Part, visual, doctrine, argument, example,
+   criticism, reply, PYQ, MCQ, Mains model answer and register-note section into the
+   topic's `Learning-Session-Live-Edition.md` file in one uninterrupted generation run.
+4. Every lesson inside the file must independently follow the Required Lesson
+   Structure below and contain its own practice. Do not postpone all practice to the
+   final lesson.
+5. Include conceptual, applied and remedial MCQs, their answer key and an explanation
+   of every option inside the Markdown. The learner is not required to answer them
+   live unless test mode is explicitly requested.
+6. Include every directly owned verified PYQ through 2026 with a complete model answer,
+   mapped to the lesson where its concepts are taught.
+7. Include original 10-, 15- and 20-mark Mains practice with complete model answers.
+8. Use the terminal only to confirm the generated file, report concise validation
+   status and accept navigation commands. Do not print the lesson prose or repeat the
+   saved practice in the terminal.
+9. `Next` after a successful generation means move to the **next syllabus topic**, not
+   the next subtopic within the same file.
+10. If generation or validation is incomplete, do not claim completion and do not move
+    to the next topic.
+
+The roadmap lists the doctrinal learning sequence. It must not imply that MCQs, PYQs,
+remediation or Mains practice are postponed to a final lesson. Practice is embedded in
+every subtopic, with cumulative practice added at major blocks and final synthesis.
+
+The completed Markdown live edition preserves all teaching, MCQs, explanations,
+remediation, PYQs, Mains practice and mastery guidance while excluding navigation-only
+turns and tool logs.
+
 ## Structural Format Lock — Original Terminal Flow
 
 Before generating or repairing any live learning session, read this rule and the full
@@ -323,8 +427,19 @@ truthfully when no meaningful recent linkage exists.
 
 ## Practice Rules
 
-- The interactive two-consecutive-correct feedback loop is **not required** in the
-  pre-generated Markdown edition.
+### Whole-topic Markdown generation
+
+- Write conceptual, applied and remedial MCQs into every relevant lesson.
+- Put answers after the question set, not beside each question.
+- Explain why every option is right or wrong.
+- Include mastery guidance and predictable-error remediation in the file.
+- Do not ask the learner to answer live unless test mode is explicitly requested.
+- Complete and validate the entire topic file before accepting `Next` to a new topic.
+
+### Compiled or pre-generated Markdown edition
+
+- A live two-consecutive-correct feedback loop is **not required** because no learner
+  is answering in real time unless test mode was explicitly requested.
 - Preserve the pedagogical purpose of the loop by including:
   - standard MCQs;
   - answers after the question set, not beside each question;

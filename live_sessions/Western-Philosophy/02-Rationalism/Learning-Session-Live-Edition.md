@@ -297,8 +297,54 @@ material is excellent.
   Locke's named objections belongs to Lesson 3.
 - **Practice link:** MCQs 1, 3, 21 and 22 (Lesson 10, Part C) test the school-level operating logic.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 1
+Descartes' doubt is primarily:
+A. methodical and temporary
+B. permanent scepticism
+C. theological faith
+D. sensory relativism
+**Correct answer: A**
+**Explanation:** It clears unstable beliefs to find an indubitable foundation. The alternatives confuse a
+temporary foundational procedure with a settled sceptical doctrine.
+
+#### MCQ 3
+The Cartesian Circle concerns:
+A. mind-body interaction
+B. proof of the world
+C. mutual dependence of God and clear-distinct perception
+D. monadic harmony
+**Correct answer: C**
+**Explanation:** Each appears used to validate the other. Arnauld's objection targets the justificatory order,
+not the mind-body relation.
+
+#### MCQ 21
+Rationalism's deepest common commitment is:
+A. reason can disclose necessary intelligible structure
+B. all senses are false
+C. only one substance exists
+D. all wills are free
+**Correct answer: A**
+**Explanation:** Substance counts and freedom theories differ. This formulation unites the school without
+falsely imposing one substance or freedom theory.
+
+#### MCQ 22
+Descartes restores the external world after proving:
+A. monads
+B. a non-deceiving God
+C. parallelism
+D. common notions
+**Correct answer: B**
+**Explanation:** Divine veracity validates the natural inclination toward bodies. The order cogito -> God ->
+world is indispensable to Descartes' reconstruction.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 2 / 10  |  Stage: Foundation  |  Subtopic: Cartesian Certainty — Four Rules, Methodic/Hyperbolic Doubt, Cogito, Thinking Thing, Clear and Distinct Ideas
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -452,8 +498,54 @@ self, not merely narrating the *Meditations* in sequence.
   exist" (see Lesson 10's translation-discipline table).
 - **Practice link:** MCQs 1, 17 and 25 (Lesson 10, Part C); PYQ 2022 Q4(b).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 2
+The wax argument chiefly shows:
+A. wax is unreal
+B. bodily identity is judged by intellect
+C. senses never function
+D. God is extension
+**Correct answer: B**
+**Explanation:** Changing sensible qualities do not exhaust the judged object. The argument isolates intellectual
+judgement of identity; the later world-proof is a different step.
+
+#### MCQ 9
+Descartes' God mainly functions epistemologically as:
+A. guarantor of clear-distinct truth
+B. one mode
+C. aggregate of bodies
+D. strongest monad
+**Correct answer: A**
+**Explanation:** Divine non-deception bridges cogito and stable knowledge. Without non-deception, the move from
+present intuition to stable remembered knowledge remains insecure.
+
+#### MCQ 22
+Descartes restores the external world after proving:
+A. monads
+B. a non-deceiving God
+C. parallelism
+D. common notions
+**Correct answer: B**
+**Explanation:** Divine veracity validates the natural inclination toward bodies. The order cogito -> God ->
+world is indispensable to Descartes' reconstruction.
+
+#### Remedial MCQ 25
+The cogito is best treated as:
+A. immediate performative certainty
+B. a syllogism from "all thinkers exist"
+C. sense inference
+D. proof of the body
+**Correct answer: A**
+**Explanation:** Descartes denies dependence on a suppressed major premise. A syllogistic reading would expose
+the cogito to doubt about its suppressed universal premise.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 3 / 10  |  Stage: Foundation  |  Subtopic: Cartesian Reconstruction — Wax Argument, God Proofs/Guarantee, External World, Innate Ideas/Locke Challenge, Cartesian Circle
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -710,8 +802,54 @@ would be known, if known at all.
   discipline table); preserve the provenance distinction.
 - **Practice link:** MCQs 2, 3, 9, 22, 25 and 30 (Lesson 10, Part C).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 4
+For Spinoza, Thought and Extension are:
+A. modes
+B. substances
+C. illusions
+D. attributes
+**Correct answer: D**
+**Explanation:** They express one substance under two accessible aspects. Calling them substances would
+reproduce the Cartesian scheme Spinoza rejects.
+
+#### MCQ 7
+Leibniz rejects extension as ultimate because it is:
+A. unreal to sense
+B. divine
+C. divisible and composite
+D. self-caused
+**Correct answer: C**
+**Explanation:** Ultimate substance must be simple. Divisibility shows that extension describes composites,
+whereas ultimate units must be partless.
+
+#### MCQ 8
+"Monads have no windows" means:
+A. they lack perception
+B. they are spatial
+C. they are identical
+D. they receive no causal influx
+**Correct answer: D**
+**Explanation:** Their changes arise internally. Windowlessness does not remove perception; it removes external
+causal entry.
+
+#### MCQ 18
+"Whatever is, is in God" is found in:
+A. *Monadology* §7
+B. *Ethics* I P15
+C. *Meditations* II
+D. Locke's *Essay* I
+**Correct answer: B**
+**Explanation:** It states modal dependence on the one substance. P15 states the modal dependence that grounds
+Spinoza's immanent monism.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 4 / 10  |  Stage: Core  |  Subtopic: Substance — Descartes' God/Mind/Body Qualification, Spinoza's One Substance/Attributes/Modes, Leibniz's Monads; Why Counts Differ
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -913,8 +1051,54 @@ difference?" — the examiner wants the logical move, not just the labels.
 - **Trap:** never call Leibniz's monads physical atoms — they are unextended and psychical.
 - **Practice link:** MCQs 4, 7, 8, 18, 19 and 28 (Lesson 10, Part C); PYQ 2018 Q2(a).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 9
+Descartes' God mainly functions epistemologically as:
+A. guarantor of clear-distinct truth
+B. one mode
+C. aggregate of bodies
+D. strongest monad
+**Correct answer: A**
+**Explanation:** Divine non-deception bridges cogito and stable knowledge. Without non-deception, the move from
+present intuition to stable remembered knowledge remains insecure.
+
+#### MCQ 10
+Spinoza's God is best described as:
+A. transcendent artisan
+B. immanent substance
+C. finite intellect
+D. contingent selector
+**Correct answer: B**
+**Explanation:** God or Nature is the one substance. Immanence means finite things are modes within the one
+reality, not products external to it.
+
+#### MCQ 11
+Leibniz invokes the PSR to argue for:
+A. sensory atoms
+B. parallel attributes
+C. a sufficient ground of contingent reality
+D. denial of God
+**Correct answer: C**
+**Explanation:** The contingent series requires a sufficient reason. PSR asks for an explanatory ground of the
+contingent series rather than another contingent member.
+
+#### MCQ 18
+"Whatever is, is in God" is found in:
+A. *Monadology* §7
+B. *Ethics* I P15
+C. *Meditations* II
+D. Locke's *Essay* I
+**Correct answer: B**
+**Explanation:** It states modal dependence on the one substance. P15 states the modal dependence that grounds
+Spinoza's immanent monism.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 5 / 10  |  Stage: Core  |  Subtopic: God — Cartesian Guarantee, Spinozist Immanent God/Nature, Leibnizian Necessary Being and Selector of Possible Worlds/Theodicy
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -1096,8 +1280,54 @@ creation — treating it as either is a common and heavily penalised misreading.
   maximum variety under minimum governing principles, constrained by compossibility.
 - **Practice link:** MCQs 9-11, 18, 19 and 29 (Lesson 10, Part C); PYQs 2020 Q4(b), 2024 Q2(b).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 8
+"Monads have no windows" means:
+A. they lack perception
+B. they are spatial
+C. they are identical
+D. they receive no causal influx
+**Correct answer: D**
+**Explanation:** Their changes arise internally. Windowlessness does not remove perception; it removes external
+causal entry.
+
+#### MCQ 12
+Cartesian interaction is commonly located at the:
+A. heart
+B. optic nerve
+C. cerebellum
+D. pineal gland
+**Correct answer: D**
+**Explanation:** The location does not solve the conceptual causal gap. A bodily location cannot by itself
+explain commerce between unextended thought and extension.
+
+#### MCQ 13
+Spinozist parallelism says:
+A. mental and bodily orders express the same mode
+B. minds push bodies
+C. bodies are unreal
+D. God resets events
+**Correct answer: A**
+**Explanation:** II P7 links the order of ideas and things. Parallelism is identity under attributes, not two
+synchronized substances.
+
+#### MCQ 14
+Pre-established harmony is illustrated by:
+A. melting wax
+B. synchronized clocks
+C. a thrown stone
+D. a blank slate
+**Correct answer: B**
+**Explanation:** Correspondence occurs without interaction. The clocks illustrate correspondence without causal
+exchange, unlike Cartesian interaction.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 6 / 10  |  Stage: Core  |  Subtopic: Mind and Body — Cartesian Interactionism, Spinoza Parallelism/Identity, Leibniz Pre-Established Harmony; Verified 2026 Spinoza States-of-Mind/Bodily-Processes Question
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -1326,8 +1556,54 @@ using P7 and P13 by name.
 - **Trap:** the 2026 Q1(a) answer must name P7 and P13 explicitly, not merely assert "Spinoza rejects dualism."
 - **Practice link:** MCQs 8, 12-14, 24 and 31 (Lesson 10, Part C); PYQs 2024 Q3(c), 2026 Q1(a).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 15
+Spinoza calls absolutely free what:
+A. is uncaused
+B. is random
+C. acts solely from its own nature
+D. defeats natural law
+**Correct answer: C**
+**Explanation:** This is *Ethics* I Definition 7. Spinoza's definition replaces randomness with action from the
+necessity of one's own nature.
+
+#### MCQ 16
+Leibnizian reasons:
+A. never affect choice
+B. logically necessitate every act
+C. are sensory impacts
+D. incline without necessitating
+**Correct answer: D**
+**Explanation:** This supports compatibilist freedom. Moral inclination preserves rational explanation while
+denying contradiction-based compulsion.
+
+#### MCQ 17
+Descartes' error theory says error occurs when:
+A. will outruns intellect
+B. body disappears
+C. ideas interact
+D. God deceives
+**Correct answer: A**
+**Explanation:** The will assents beyond clear understanding. Error is attributable to misuse of freedom because
+God supplies no positively false clear idea.
+
+#### MCQ 20
+The complete-concept doctrine most threatens:
+A. extension
+B. innate ideas
+C. pantheism
+D. contingency and freedom
+**Correct answer: D**
+**Explanation:** Predicates fixed in the concept seem necessary. If every predicate belongs to the concept,
+alternative possibilities need the possible-world distinction.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 7 / 10  |  Stage: Core  |  Subtopic: Freedom and Determinism — Descartes' Free Will/Error, Spinoza's Necessity/Conatus/Freedom Through Understanding, Leibniz's Compatibilism/Contingency/Moral Responsibility
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -1489,8 +1765,54 @@ otherwise excellent.
 - **Trap:** never rank the three without first stating the freedom-criterion being used.
 - **Practice link:** MCQs 15-17, 20, 24, 26 and 27 (Lesson 10, Part C); PYQs 2018/2020/2023/2024.
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 4
+For Spinoza, Thought and Extension are:
+A. modes
+B. substances
+C. illusions
+D. attributes
+**Correct answer: D**
+**Explanation:** They express one substance under two accessible aspects. Calling them substances would
+reproduce the Cartesian scheme Spinoza rejects.
+
+#### MCQ 5
+Spinoza's first kind of knowledge is:
+A. imagination/opinion
+B. reason
+C. intuition
+D. recollection
+**Correct answer: A**
+**Explanation:** It arises from vague experience and signs and may be inadequate. Its dependence on vague
+experience and signs explains why it can contain falsity.
+
+#### MCQ 6
+The fourth proportional grasped demonstratively exemplifies:
+A. imagination
+B. reason
+C. intuition
+D. revelation
+**Correct answer: B**
+**Explanation:** Discursive mathematical proof belongs to the second kind. The intuitive third kind would grasp
+the ratio in one act rather than through a demonstrative chain.
+
+#### MCQ 10
+Spinoza's God is best described as:
+A. transcendent artisan
+B. immanent substance
+C. finite intellect
+D. contingent selector
+**Correct answer: B**
+**Explanation:** God or Nature is the one substance. Immanence means finite things are modes within the one
+reality, not products external to it.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 8 / 10  |  Stage: Advanced  |  Subtopic: Spinoza's Integrated System — Three Kinds of Knowledge, Conatus, Affects, Adequate Ideas, Pantheism/Acosmism, Determination-Negation, Intellectual Love
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -1759,8 +2081,54 @@ Spinoza; a "conatus" or "affects" sub-question requires the exact III P6-P11 app
 - **Trap:** joy/sadness are *transitions* in the power of acting, not static states of feeling good/bad.
 - **Practice link:** MCQs 4-6, 10, 13, 15, 18, 19, 23, 26, 29, 31 and 32 (Lesson 10, Part C).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 7
+Leibniz rejects extension as ultimate because it is:
+A. unreal to sense
+B. divine
+C. divisible and composite
+D. self-caused
+**Correct answer: C**
+**Explanation:** Ultimate substance must be simple. Divisibility shows that extension describes composites,
+whereas ultimate units must be partless.
+
+#### MCQ 11
+Leibniz invokes the PSR to argue for:
+A. sensory atoms
+B. parallel attributes
+C. a sufficient ground of contingent reality
+D. denial of God
+**Correct answer: C**
+**Explanation:** The contingent series requires a sufficient reason. PSR asks for an explanatory ground of the
+contingent series rather than another contingent member.
+
+#### MCQ 14
+Pre-established harmony is illustrated by:
+A. melting wax
+B. synchronized clocks
+C. a thrown stone
+D. a blank slate
+**Correct answer: B**
+**Explanation:** Correspondence occurs without interaction. The clocks illustrate correspondence without causal
+exchange, unlike Cartesian interaction.
+
+#### MCQ 16
+Leibnizian reasons:
+A. never affect choice
+B. logically necessitate every act
+C. are sensory impacts
+D. incline without necessitating
+**Correct answer: D**
+**Explanation:** This supports compatibilist freedom. Moral inclination preserves rational explanation while
+denying contradiction-based compulsion.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 9 / 10  |  Stage: Advanced  |  Subtopic: Leibniz's Integrated System — Monads, Perception/Appetition, Sufficient Reason, Complete Concepts, Possible Worlds, Freedom, Harmony and Entelechy; 2026 Aristotle-Leibniz Comparison Cross-Link
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━
@@ -2037,8 +2405,54 @@ entelechy question specifically: never answer using only one philosopher's doctr
 - **Trap:** "Leibniz's monad = Aristotle's entelechy" flattens a category shift from actuality to substance.
 - **Practice link:** MCQs 7, 8, 11, 14, 16, 20, 24 and 27 (Lesson 10, Part C); PYQs 2018, 2020 and 2026 Q1(d).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+#### MCQ 20
+The complete-concept doctrine most threatens:
+A. extension
+B. innate ideas
+C. pantheism
+D. contingency and freedom
+**Correct answer: D**
+**Explanation:** Predicates fixed in the concept seem necessary. If every predicate belongs to the concept,
+alternative possibilities need the possible-world distinction.
+
+#### MCQ 24
+The safest 2024 mind-body/freedom winner is:
+A. Spinoza always
+B. Descartes without qualification
+C. none can be compared
+D. Leibniz under a compatibilist criterion
+**Correct answer: D**
+**Explanation:** The criterion must be explicitly defended. Leibniz wins only under a responsibility-preserving
+compatibilist criterion, not under libertarianism.
+
+#### Remedial MCQ 27
+Leibnizian contingency means:
+A. God is ignorant
+B. events lack reasons
+C. the opposite is logically conceivable in another possible world
+D. complete concepts are false
+**Correct answer: C**
+**Explanation:** Certainty is distinguished from absolute necessity. The distinction is modal: non-contradictory
+alternatives remain possible even when the actual series is certain.
+
+#### Remedial MCQ 31
+Parallelism avoids interaction by saying:
+A. God pushes both series
+B. matter causes mind
+C. one event is expressed under two attributes
+D. monads exchange signals
+**Correct answer: C**
+**Explanation:** It dissolves the two-substance premise. One event has mental and bodily expression; no divine
+reset or monadic signal is required.
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 10 / 10  |  Stage: Advanced  |  Subtopic: Final Synthesis — Comparisons, Criticisms, All Solved PYQs Through 2026, Answer Architecture, Practice and Register Notes
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━━━

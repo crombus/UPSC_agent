@@ -338,8 +338,51 @@ table above.
   import Later Wittgenstein doctrine anywhere in this clause.
 - **Practice link:** Lesson 12, Part D, MCQs 1–3, 47; PYQ cross-link 2018 Q3(a) [Empiricism-owned, not counted here].
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 1.** The analytic revolt led by Moore and Russell was, in the first instance, a reaction against which
+movement?
+A. British Absolute (Hegelian-Bradleyan) Idealism
+B. The logical positivism of the Vienna Circle
+C. American pragmatism
+D. Cartesian rationalism
+**Correct answer: A.** Moore and Russell were idealists first and revolted against Bradley's Absolute Idealism;
+their shared weapon was the logical analysis of language. *(B is a later movement this clause precedes and only
+partly influences; C and D are unrelated targets.)*
+
+**MCQ 2.** What method most clearly unites Moore, Russell and the early Wittgenstein?
+A. The transcendental deduction of the categories
+B. Logical analysis that reveals logical form behind grammatical form
+C. Dialectical synthesis of thesis and antithesis
+D. Phenomenological bracketing of the natural attitude
+**Correct answer: B.** All three practise analysis of language or propositions to expose the logical form that
+surface grammar conceals. *(A is Kant's method; C is Hegel's; D is Husserl's.)*
+
+**MCQ 3.** Which statement about the ownership of 'Logical Atomism' is correct?
+A. It is owned solely by the *Tractatus*
+B. It is owned solely by Russell
+C. It is co-owned by Russell (1918) and the *Tractatus*, though the two versions differ
+D. It is a doctrine internal to Moore's common-sense realism
+**Correct answer: C.** Atomism is co-owned: Russell's atoms are sense-data and universals (epistemic), while the
+*Tractatus*'s objects are logical simples left unexemplified. *(A and B each claim sole ownership wrongly; D
+misattributes the doctrine to Moore.)*
+
+**MCQ 4.** In 'A Defence of Common Sense', which distinction does Moore rely on to hold that a truism can be
+certain even if philosophers dispute its correct account?
+A. Sense versus reference
+B. Analytic versus synthetic
+C. Saying versus showing
+D. Knowing a proposition versus analysing it
+**Correct answer: D.** Moore insists we know truisms with certainty even when we cannot give their correct
+analysis — the point behind the paradox of analysis. *(A is Frege's distinction; B is Kant's; C is Wittgenstein's,
+a different clause entirely.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 2 / 12  |  Stage: Foundation  |  Subtopic: Moore's common-sense realism — truisms, certainty, external-world proof and paradox of analysis
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -552,8 +595,50 @@ different papers with two different (though related) arguments; state both dates
   name it as a forward diagnosis only, never as Moore's or early Wittgenstein's own doctrine.
 - **Practice link:** Lesson 12, Part D, MCQs 4–7, 45; PYQs 2019 Q3(c), 2021 Q3(a), 2024 Q1(c), 2026 Q1(e).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 4.** In 'A Defence of Common Sense', which distinction does Moore rely on to hold that a truism can be
+certain even if philosophers dispute its correct account?
+A. Sense versus reference
+B. Analytic versus synthetic
+C. Saying versus showing
+D. Knowing a proposition versus analysing it
+**Correct answer: D.** Moore insists we know truisms with certainty even when we cannot give their correct
+analysis — the point behind the paradox of analysis. *(A is Frege's distinction; B is Kant's; C is Wittgenstein's,
+a different clause entirely.)*
+
+**MCQ 5.** Moore's 'Proof of an External World' (1939) famously turns on which gesture?
+A. Holding up his hands: 'Here is one hand... and here is another'
+B. Declaring 'The world is all that is the case'
+C. Asserting 'esse est percipi'
+D. Concluding 'Whereof one cannot speak...'
+**Correct answer: A.** Moore treats the existence of his two hands as a rigorous proof whose premises are known,
+differ from the conclusion, and entail it. *(B and D are Wittgenstein's propositions; C is Berkeley's idealist
+thesis, Moore's target, not his own claim.)*
+
+**MCQ 6.** How is Moore's reply to the sceptic best characterised?
+A. A transcendental argument from the conditions of possible experience
+B. A reversal of the burden of proof: the truism is more certain than any premise the sceptic can offer
+C. A verificationist criterion of meaning
+D. An appeal to a divine guarantee of our faculties
+**Correct answer: B.** Moore relocates certainty and shifts the burden; Wittgenstein's *On Certainty* later
+refines this with the 'hinge' diagnosis. *(A is Kant's strategy; C belongs to Logical Positivism; D is a
+Cartesian/theistic move Moore never makes.)*
+
+**MCQ 7.** The 'paradox of analysis' is the difficulty that:
+A. every analysis is viciously circular
+B. analysis always destroys the meaning of the analysandum
+C. if an analysis is correct it seems trivial, yet if it is informative it seems incorrect
+D. no proposition can ever be analysed into atomic facts
+**Correct answer: C.** A correct analysis looks like a trivial identity, yet a genuinely useful analysis is
+informative — hence the puzzle Moore highlights. *(A, B and D overstate or misdescribe the actual difficulty.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 3 / 12  |  Stage: Foundation  |  Subtopic: Moore's refutation of idealism — act/object distinction, "Blue exists" and transparency of consciousness
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -713,8 +798,48 @@ ethics).
 - **Trap:** "The Refutation of Idealism" (1903) is not "Principia Ethica" (also 1903) — different subjects.
 - **Practice link:** Lesson 12, Part D, MCQs 8–10; PYQs 2020 Q2(b), 2025 Q3(c).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 8.** The specific target of Moore's 'Refutation of Idealism' is the thesis:
+A. the Real is the Rational (Hegel)
+B. cogito ergo sum (Descartes)
+C. the world is the totality of facts (Wittgenstein)
+D. esse est percipi (Berkeley)
+**Correct answer: D.** Moore attacks the Berkeleyan identification of being with being-perceived; he explicitly
+does not touch Hegel's Absolute Idealism. *(A names the very doctrine Moore does NOT target; B and C belong to
+different thinkers entirely.)*
+
+**MCQ 9.** The central distinction Moore draws inside every sensation is between:
+A. the act of awareness (common to all sensations) and the object of awareness (which varies)
+B. sense and reference
+C. primary and secondary qualities
+D. analytic and synthetic judgments
+**Correct answer: A.** Consciousness is the same in the sensation of blue and of green; the objects (blue, green)
+differ — so act and object are distinct. *(B, C and D are distinctions from other thinkers/clauses entirely.)*
+
+**MCQ 10.** Moore describes consciousness as 'diaphanous' in order to say that:
+A. consciousness is always coloured by its objects
+B. awareness is transparent, so we look through it and tend to overlook it
+C. consciousness cannot exist without a body
+D. the act and the object are ultimately identical
+**Correct answer: B.** Transparency explains why idealists overlook the act and fuse it with the object; it is
+also, notoriously, Moore's own weak point. *(A misreads transparency as colouring; C is unrelated; D is exactly
+the idealist error Moore is refuting.)*
+
+**MCQ 11.** When Russell insists his atoms are 'logical atoms and not physical atoms', he means that they are:
+A. the smallest particles recognised by physics
+B. mental images in the mind of the knower
+C. the last residue of logical analysis, not microscopic entities
+D. Kantian noumena beyond all experience
+**Correct answer: C.** 'Atomic' marks logical simplicity and independence reached by analysing propositions, not
+physical smallness. *(A is exactly the mistake the quotation forbids; B and D import unrelated doctrines.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 4 / 12  |  Stage: Core  |  Subtopic: Russell's Logical Atomism — facts, atomic/molecular propositions, isomorphism and negative facts
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -861,8 +986,47 @@ the *whole* answer, not appear once as decoration.
   (Wittgenstein) — logical independence is *strict* only for Wittgenstein.
 - **Practice link:** Lesson 12, Part D, MCQs 11–13; PYQs 2020 Q2(c), 2022 Q1(b).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 11.** When Russell insists his atoms are 'logical atoms and not physical atoms', he means that they are:
+A. the smallest particles recognised by physics
+B. mental images in the mind of the knower
+C. the last residue of logical analysis, not microscopic entities
+D. Kantian noumena beyond all experience
+**Correct answer: C.** 'Atomic' marks logical simplicity and independence reached by analysing propositions, not
+physical smallness. *(A is exactly the mistake the quotation forbids; B and D import unrelated doctrines.)*
+
+**MCQ 12.** In Russell's atomism, molecular propositions are:
+A. names of complex physical objects
+B. atomic facts in disguise
+C. incomplete symbols
+D. truth-functions of atomic propositions, the connectives naming nothing
+**Correct answer: D.** There is no 'and'-fact in the world; the truth of a molecular proposition is fixed by its
+atomic parts plus the connectives. *(A, B and C each misassign the wrong logical category.)*
+
+**MCQ 13.** The isomorphism thesis holds that a true atomic proposition:
+A. shares the structure of its fact - names correspond to objects and arrangement to arrangement
+B. is identical with a mental picture in the speaker
+C. is a tautology of logic
+D. denotes a Meinongian subsisting object
+**Correct answer: A.** Russell's bridge between language and world is a structural mirroring of names/objects and
+their arrangements. *(B, C and D each substitute a different, incorrect account of the relation.)*
+
+**MCQ 14.** For Russell, the phrase 'the present King of France' is:
+A. a logically proper name
+B. an incomplete symbol with no meaning in isolation
+C. a rigid designator
+D. the name of a universal
+**Correct answer: B.** It contributes only inside a whole sentence and disappears when the sentence is analysed
+into quantifiers. *(A and C wrongly treat it as a genuine referring name; D misassigns it to a category of
+abstract entity.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 5 / 12  |  Stage: Core  |  Subtopic: Incomplete symbols and descriptions — denoting phrases, logical form and the three puzzles
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1026,8 +1190,49 @@ existence/uniqueness/predication breakdown, not a prose paraphrase with no forma
   logic.
 - **Practice link:** Lesson 12, Part D, MCQs 14–18; PYQs 2018 Q4(c), 2023 Q4(b), 2024 Q3(a), 2025 Q1(d).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 14.** For Russell, the phrase 'the present King of France' is:
+A. a logically proper name
+B. an incomplete symbol with no meaning in isolation
+C. a rigid designator
+D. the name of a universal
+**Correct answer: B.** It contributes only inside a whole sentence and disappears when the sentence is analysed
+into quantifiers. *(A and C wrongly treat it as a genuine referring name; D misassigns it to a category of
+abstract entity.)*
+
+**MCQ 15.** On Russell's analysis, 'The present King of France is bald' is:
+A. meaningless
+B. neither true nor false
+C. false, because the existence clause fails
+D. true, but only vacuously
+**Correct answer: C.** Analysed as (∃x)[Kx ∧ ∀y(Ky→y=x) ∧ Bx], the existence clause is false, so the whole
+conjunction is false — not meaningless. *(A is the classic trap; B is Strawson's rival, not Russell's own
+verdict; D contradicts the analysis.)*
+
+**MCQ 16.** Russell analyses 'the F is G' into which three components?
+A. sense, reference and tone
+B. quality, relation and substance
+C. subject, copula and predicate
+D. existence, uniqueness and predication
+**Correct answer: D.** There is at least one F, at most one F, and it is G - the trio that dissolves the definite
+description. *(A, B and C name unrelated triads from other theories of meaning.)*
+
+**MCQ 17.** The apparent conflict over whether 'The King of France is not bald' is true or false is resolved by:
+A. the scope distinction - primary (wide) versus secondary (narrow) occurrence of the description
+B. abandoning the law of excluded middle
+C. positing a subsisting King of France
+D. treating 'bald' as hopelessly vague
+**Correct answer: A.** On the narrow-scope reading the negation denies the whole existential claim and is true; no
+logical law is violated. *(B is exactly what Russell avoids having to do; C is Meinong's rejected move; D is
+irrelevant to the logical puzzle.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 6 / 12  |  Stage: Core  |  Subtopic: Acquaintance and description — Bismarck, logically proper names and epistemological foundations
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1223,8 +1428,49 @@ proper names/egocentric particulars → objections (Kripke, Sellars, universals)
   answers, not by expecting a dedicated question.
 - **Practice link:** Lesson 12, Part D, MCQs 19–21, 46 (no dedicated PYQ; cross-referenced into Lesson 5's PYQs).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 19.** Russell's Principle of Acquaintance states that:
+A. all knowledge is ultimately by description
+B. every object is a logical construction
+C. every proposition we can understand is composed wholly of constituents with which we are acquainted
+D. ordinary names are rigid designators
+**Correct answer: C.** Acquaintance is the foundation on which knowledge by description rests — understanding
+requires acquaintance with the constituents. *(A inverts the actual priority; B and D belong to constructions and
+Kripke respectively.)*
+
+**MCQ 20.** In Russell's Bismarck example, those of us who never met Bismarck know him:
+A. by acquaintance with his very sense-data
+B. through a logically proper name
+C. not at all
+D. purely by description, as 'the first Chancellor of the German Empire'
+**Correct answer: D.** As the object recedes, knowledge is carried increasingly by description rather than
+acquaintance. *(A and B are only available to Bismarck himself or those who met him; C overstates the case —
+description still yields genuine, if indirect, knowledge.)*
+
+**MCQ 21.** For Russell, ordinary proper names such as 'Bismarck' or 'Socrates' are:
+A. disguised definite descriptions
+B. logically proper names guaranteed a referent
+C. incomplete symbols admitting no analysis
+D. names of universals
+**Correct answer: A.** Only 'this' and 'that' for present sense-data are logically proper names; ordinary names
+abbreviate descriptions. *(B contradicts Russell's own austere restriction; C and D misdescribe the analysis.)*
+
+**MCQ 22.** Russell's 'supreme maxim of scientific philosophising' is:
+A. entities must not be multiplied, so all constructions must be denied
+B. wherever possible, substitute constructions out of known entities for inferences to unknown entities
+C. the limits of my language are the limits of my world
+D. whereof one cannot speak, thereof one must be silent
+**Correct answer: B.** The maxim recommends building objects from the known (sense-data) rather than inferring
+hidden entities we might be wrong about. *(A misreads Occam's razor as outright denial; C and D are
+Wittgenstein's propositions.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 7 / 12  |  Stage: Core  |  Subtopic: Logical constructions — sense-data, inferred entities and constructions versus atoms
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1374,8 +1620,48 @@ objections → verdict.
 - **Trap:** do not import Russell's *later* neutral monism here — it is a separate, non-printed phase.
 - **Practice link:** Lesson 12, Part D, MCQs 22–23 (no dedicated PYQ; feeds 2024 Q3(a) in Lesson 5).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 22.** Russell's 'supreme maxim of scientific philosophising' is:
+A. entities must not be multiplied, so all constructions must be denied
+B. wherever possible, substitute constructions out of known entities for inferences to unknown entities
+C. the limits of my language are the limits of my world
+D. whereof one cannot speak, thereof one must be silent
+**Correct answer: B.** The maxim recommends building objects from the known (sense-data) rather than inferring
+hidden entities we might be wrong about. *(A misreads Occam's razor as outright denial; C and D are
+Wittgenstein's propositions.)*
+
+**MCQ 23.** A Russellian 'logical construction' such as a material object is best described as:
+A. an inferred entity lying behind the appearances
+B. a Meinongian subsisting object
+C. an orderly system of sense-data, expressed by an incomplete symbol
+D. a physical atom
+**Correct answer: C.** Constructions are voiced by incomplete symbols — the same analytic device as definite
+descriptions. *(A is exactly the inference the maxim replaces; B and D import unrelated ontologies.)*
+
+**MCQ 24.** The opening ontology of the *Tractatus* asserts that:
+A. the world is the totality of things
+B. the world is my idea
+C. the world is the Absolute realising itself
+D. the world is the totality of facts, not of things
+**Correct answer: D.** *Tractatus* 1.1 — the world is facts (objects in combination), not a mere heap of objects.
+*(A is precisely the view 1.1 denies; B and C belong to idealist positions this clause revolts against.)*
+
+**MCQ 25.** According to the picture theory, a proposition:
+A. pictures a possible situation, its names going proxy for objects
+B. is a mental image that resembles its object
+C. is a tautology of logic
+D. is the name of a universal
+**Correct answer: A.** Sense is the capacity to depict a possible arrangement; names correspond to objects and
+arrangement to arrangement. *(B is the standard misreading the advanced discussion in Lesson 8 warns against; C and D misassign
+the proposition's logical category.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 8 / 12  |  Stage: Core  |  Subtopic: Tractatus: world and pictures — facts, objects, elementary propositions and picture theory
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1514,8 +1800,49 @@ explanation of *why* logical form, specifically, is what connects language to re
   mental *imagery* — the depicting relation is logical.
 - **Practice link:** Lesson 12, Part D, MCQs 24–26; PYQ 2022 Q3(c).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 24.** The opening ontology of the *Tractatus* asserts that:
+A. the world is the totality of things
+B. the world is my idea
+C. the world is the Absolute realising itself
+D. the world is the totality of facts, not of things
+**Correct answer: D.** *Tractatus* 1.1 — the world is facts (objects in combination), not a mere heap of objects.
+*(A is precisely the view 1.1 denies; B and C belong to idealist positions this clause revolts against.)*
+
+**MCQ 25.** According to the picture theory, a proposition:
+A. pictures a possible situation, its names going proxy for objects
+B. is a mental image that resembles its object
+C. is a tautology of logic
+D. is the name of a universal
+**Correct answer: A.** Sense is the capacity to depict a possible arrangement; names correspond to objects and
+arrangement to arrangement. *(B is the standard misreading the advanced discussion in Lesson 8 warns against; C and D misassign
+the proposition's logical category.)*
+
+**MCQ 26.** 'Logical form' in the *Tractatus* is:
+A. unique to spatial pictures
+B. the pictorial form shared by every picture and by reality, which can be shown but not said
+C. identical with grammatical form
+D. a physical property of the ink marks on the page
+**Correct answer: B.** A picture can depict any pictorial form but not its own logical form; logical form is the
+universal shared structure. *(A limits it to one medium; C is exactly the confusion the theory of descriptions
+also corrects; D is a category error.)*
+
+**MCQ 27.** A proposition differs from a mere mental image because its picturing relation is:
+A. coloured like its object
+B. spatial in every case
+C. logical, not psychological
+D. always true
+**Correct answer: C.** What a proposition shares with the fact is logical form, not a mental snapshot — which is
+why translations picture the same situation. *(A and B wrongly tie the relation to one sensory medium; D
+contradicts bipolarity.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 9 / 12  |  Stage: Advanced  |  Subtopic: Logical structure of language — bipolarity, logical space, general propositional form, tautology and contradiction
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1718,8 +2045,50 @@ colour-exclusion pressure → verdict.
   truth-functionality; a 1929 diagnosis only, not a Later-Wittgenstein import.
 - **Practice link:** Lesson 12, Part D, MCQs 27–29 (no dedicated PYQ; technical spine for Lessons 10–11).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 27.** A proposition differs from a mere mental image because its picturing relation is:
+A. coloured like its object
+B. spatial in every case
+C. logical, not psychological
+D. always true
+**Correct answer: C.** What a proposition shares with the fact is logical form, not a mental snapshot — which is
+why translations picture the same situation. *(A and B wrongly tie the relation to one sensory medium; D
+contradicts bipolarity.)*
+
+**MCQ 28.** 'Bipolarity' is the requirement that a genuine proposition must:
+A. be either a tautology or a contradiction
+B. name at least one object
+C. be true in every possible case
+D. be capable of being true and capable of being false
+**Correct answer: D.** To say something is to rule something out — fixing one place in logical space and
+excluding the rest. *(A describes exactly the senseless limiting cases bipolarity excludes; B and C misstate the
+condition.)*
+
+**MCQ 29.** In the *Tractatus*, a tautology is:
+A. sinnlos — senseless yet well-formed, saying nothing about the world
+B. unsinnig — ill-formed nonsense
+C. false in every possible case
+D. the general form of the proposition
+**Correct answer: A.** Tautologies and contradictions carry no factual content but are perfectly legitimate; the
+truths of logic live here. *(B is the trap this whole lesson forbids; C misdescribes a tautology as its own
+opposite; D confuses it with proposition 6.)*
+
+**MCQ 30.** The distinction between *sinnlos* and *unsinnig* is that:
+A. both simply mean 'false'
+B. *sinnlos* is well-formed but empty (tautology/contradiction), whereas *unsinnig* is an ill-formed
+pseudo-proposition
+C. *sinnlos* means nonsense while *unsinnig* means sense
+D. they are exact synonyms
+**Correct answer: B.** Keep the two German terms apart: logic is *sinnlos* scaffolding; metaphysics stated as fact
+is *unsinnig*. *(A, C and D all erase a distinction the syllabus specifically rewards.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 10 / 12  |  Stage: Advanced  |  Subtopic: Saying and showing — ethics, aesthetics, mystical, ladder metaphor and Proposition 7
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1884,8 +2253,49 @@ paradox; a bare gloss caps the mark.
   answer; this lesson is also the direct premise for Lesson 11's hierarchy-of-languages problem.
 - **Practice link:** Lesson 12, Part D, MCQs 30–32; PYQs 2018 Q3(c), 2021 Q4(c).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 30.** The distinction between *sinnlos* and *unsinnig* is that:
+A. both simply mean 'false'
+B. *sinnlos* is well-formed but empty (tautology/contradiction), whereas *unsinnig* is an ill-formed
+pseudo-proposition
+C. *sinnlos* means nonsense while *unsinnig* means sense
+D. they are exact synonyms
+**Correct answer: B.** Keep the two German terms apart: logic is *sinnlos* scaffolding; metaphysics stated as fact
+is *unsinnig*. *(A, C and D all erase a distinction the syllabus specifically rewards.)*
+
+**MCQ 31.** For the *Tractatus*, ethics, aesthetics and logical form belong to what can be:
+A. said in ordinary factual propositions
+B. proved by tautology
+C. shown but not said
+D. verified by empirical observation
+**Correct answer: C.** Value is transcendental — 'there can be no ethical propositions'; such matters are
+displayed, not stated. *(A contradicts the entire say/show doctrine; B misassigns them to logic; D imports
+Logical Positivism's later criterion.)*
+
+**MCQ 32.** The 'ladder' metaphor (6.54) implies that the *Tractatus*'s own propositions are:
+A. necessary truths of reason
+B. empirical hypotheses open to test
+C. tautologies of logic
+D. nonsense (*unsinnig*) to be discarded once they have been understood
+**Correct answer: D.** One climbs the propositions, comes to see the world aright, and then throws the ladder
+away. *(A, B and C each grant the propositions a status the ladder metaphor explicitly denies them.)*
+
+**MCQ 33.** REMEDIAL — A frequent ownership error is to treat the 2018 question comparing Berkeley with Moore and
+Russell as owned by this clause. Correctly, that question is:
+A. primary-owned by Empiricism and used here only as a labelled cross-link
+B. one of the sixteen owned parts of this clause
+C. a Later Wittgenstein question
+D. owned by Indian Philosophy
+**Correct answer: A.** Its centre of gravity is Berkeley, so Empiricism owns it; this clause may use its
+Moore/Russell material but never counts it among the 16. *(B, C and D each misassign ownership.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 11 / 12  |  Stage: Advanced  |  Subtopic: Hierarchy of languages — Russell's proposed solution to Wittgenstein's difficulty and the 2026 twenty-marker
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -2120,8 +2530,55 @@ a stated position, and without reasons for that position, forfeits the marks the
   abandons the single logical form rather than climbing the hierarchy.
 - **Practice link:** Lesson 12, Part D, MCQs 41–45, 48; PYQ 2026 Q4(a).
 
----
+### Lesson-level practice checkpoint
 
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+**MCQ 41.** NEW — Russell's proposed hierarchy of languages (1922 Introduction) claims that a language L₁'s
+structure:
+A. can be stated only in a distinct, richer metalanguage L₂, with no final language ever required
+B. can always be stated within L₁ itself, given enough vocabulary
+C. can never be stated in any language, including a metalanguage
+D. is identical with the structure of every other language
+**Correct answer: A.** Russell's escape is an open series L₁, L₂, L₃… with no terminus. *(B contradicts the very
+difficulty being addressed; C overstates Russell's own more limited claim; D ignores that each language has its
+own distinct structure.)*
+
+**MCQ 42.** NEW — According to the argued verdict on the hierarchy of languages (2026 Q4(a)), the hierarchy:
+A. fully solves Wittgenstein's difficulty at every level, with no remaining problem
+B. solves the formal self-reference problem but fails the transcendental problem of logical form and value
+C. was proposed and endorsed by Wittgenstein himself as the correct solution
+D. is refuted outright by Tarski's later work
+**Correct answer: B.** The balanced verdict: self-reference and truth-definition are tamed; logical form as such,
+totality, and ethics/value/the mystical are not touched at any level. *(A overstates success; C misattributes
+authorship — Wittgenstein rejected it; D overstates Tarski's bounded, later, independent result.)*
+
+**MCQ 43.** NEW — Tarski's object-language/metalanguage distinction is correctly described, in relation to this
+clause, as:
+A. Wittgenstein's own direct answer to the difficulty, dated to the *Tractatus* (1921)
+B. an unrelated result in the philosophy of mathematics with no bearing here
+C. a later (1933/35), independent formal vindication of the technical core of Russell's proposal, addressing
+truth-definitions rather than Wittgenstein's transcendental point
+D. a proof that natural languages cannot express any truths whatsoever
+**Correct answer: C.** Tarski's result is later and independent, and it is bounded to formalised languages and
+truth-definitions. *(A is the anachronism trap flagged in Lesson 11; B understates its genuine, bounded relevance;
+D overstates its scope.)*
+
+**MCQ 44.** NEW — REMEDIAL: the 2026 Q4(a) directive ("Do you agree… give reasons and justifications") is best
+answered by:
+A. describing the hierarchy of languages neutrally, without stating a position
+B. simply agreeing, because Russell is a more famous logician than Wittgenstein
+C. refusing to answer because the question presupposes a false premise
+D. stating a position (e.g., partial agreement) in the opening line, then arguing it through a success/failure
+grid before a final verdict
+**Correct answer: D.** An "agree/disagree, give reasons" directive specifically requires a stated, argued
+position — description alone forfeits the directive's own marks. *(A is the exact fatal error Lesson 11 flags; B
+is reasoning from authority, not argument; C misreads a genuinely contested question as illegitimate.)*
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
+---
 Progress: 12 / 12  |  Stage: Advanced  |  Subtopic: Final synthesis — comparisons, criticisms, all solved PYQs, answer architecture, original practice and consolidated register notes
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━

@@ -223,6 +223,46 @@ No PYQ directly asks "state Husserl's programme" in isolation, but every one of 
 12. Merleau-Ponty's later objection (Lesson 11): complete presuppositionlessness/reduction may be an asymptotic ideal rather than an achieved fact.
 13. > 🔑 **Mnemonic — "PEG-C":** **P**hase 1 (Prolegomena/psychologism) → **E**idetic-transcendental (*Ideas I*) → **G**enetic/intersubjective (*Cartesian Meditations*) → **C**risis (Lebenswelt). Say it as "the PEG-C ladder of Husserl's career."
 
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+1. *"Zu den Sachen selbst!"* is best understood as a call to:
+   A) return to careful description of matters/subject-matters, against inherited theory
+   B) return to naïve physical-object realism
+   C) trust common sense without question
+   D) adopt Cartesian methodic doubt
+
+2. Husserl's ideal of "rigorous science" is primarily directed against:
+   A) mathematics as a discipline
+   B) naturalism — treating consciousness as a causally governed natural object
+   C) religious belief as such
+   D) the very possibility of philosophy
+
+3. The noesis–noema vocabulary and the "principle of principles" (§24) belong to which work?
+   A) *Philosophie der Arithmetik* (1891)
+   B) *Logical Investigations* (1900–01)
+   C) *Ideas I* (1913)
+   D) *Crisis* (1936/1954)
+
+4. The correct publication history of the *Crisis* is:
+   A) fully published as one finished book in 1936
+   B) written before the *Logical Investigations*
+   C) primarily an exposition of categorial intuition
+   D) Parts I–II in 1936; complete text posthumous in 1954, ed. Biemel
+
+#### Answers and explanations
+
+| # | Answer | Explanation of every option |
+|---:|:---:|---|
+| 1 | A | A: correct — *Sachen* = matters/subject-matters, a call to describe carefully. B: wrong — this is exactly the naïve-realist misreading the gloss corrects. C: wrong — natural attitude is diagnosed as uncritical, not endorsed. D: wrong — epoché suspends, doubt denies (Lesson 3). |
+| 2 | B | B: correct — naturalism is the named target (Lesson 1). A: wrong — Husserl wants rigour appropriate to consciousness, not imitation of mathematics' content. C: wrong — religion is not the target. D: wrong — Husserl affirms, not denies, philosophy's possibility. |
+| 3 | C | C: correct — noesis/noema and §24 are *Ideas I*, 1913. A: too early (1891, psychologistic). B: introduces intentionality/categorial intuition, not this vocabulary. D: too late and posthumous. |
+| 4 | D | D: correct dating (Lesson 1, Part D). A: wrong — only Parts I–II appeared in 1936. B: wrong — reversed chronology. C: wrong — categorial intuition belongs to the *Logical Investigations*. |
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
 ---
 Progress: 2 / 12  |  Stage: Foundation  |  Subtopic: Natural attitude — general thesis, unexamined world-belief and Husserl's criticism
 
@@ -348,6 +388,46 @@ Close  : Husserl's criticism of the natural attitude inaugurates a new mode of
 10. Merleau-Ponty's balancing point: a full return to the (now enriched) natural attitude is in any case inevitable.
 11. > 🔑 **Mnemonic — "LIVED not PROVED":** the natural attitude is something we **LIVE**, uncritically; phenomenology does not **DISPROVE** it, it **EXAMINES** the living of it.
 
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+5. Husserl's criticism of the natural attitude is that it is:
+   A) philosophically uncritical, not that its first-order beliefs are false
+   B) entirely mistaken about the external world's existence
+   C) confined only to naïve common sense, never to science
+   D) a deliberate philosophical position argued for by realists
+
+6. The "general thesis" (*Generalthesis*) asserts that:
+   A) the ego constitutes the world in every single act of perception
+   B) the world exists, has always existed, and would continue to exist without me
+   C) logical laws are relative to human psychology
+   D) essences exist in a realm separate from their instances
+
+7. The natural sciences remain within the natural attitude because they:
+   A) deny that objects have determinate properties
+   B) rely on a divine guarantee for their conclusions
+   C) presuppose, without examining, an independently existing domain they investigate
+   D) already perform the epoché as part of their own method
+
+8. The 2021 PYQ's exact two-part demand requires:
+   A) only a bare definition of the natural attitude
+   B) only Heidegger's critique of Husserl
+   C) a discussion of psychologism and its remedy
+   D) a critical exposition of the criticism AND the proposed phenomenological remedy
+
+#### Answers and explanations
+
+| # | Answer | Explanation of every option |
+|---:|:---:|---|
+| 5 | A | A: correct — uncriticality, not falsehood, is the exact fault (Lesson 2). B: overstates Husserl into global scepticism. C: wrong — it covers science too. D: wrong — nobody consciously argues for the natural attitude; it is lived, not argued. |
+| 6 | B | B: correct definition of the general thesis. A: describes constitution (Lesson 8), not the general thesis. C: describes psychologism (Lesson 9). D: describes essences (Lesson 7). |
+| 7 | C | C: correct — this is exactly why science remains inside the natural attitude. A: wrong — sciences do posit determinate properties. B: confuses Descartes with Husserl. D: wrong — science does not perform the epoché; that is Husserl's distinctive move. |
+| 8 | D | D: correct — the 2021 demand is explicitly two-part, 20 marks. A, B, C each capture only a fragment or a different topic. |
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
 ---
 Progress: 3 / 12  |  Stage: Foundation  |  Subtopic: Epoché and reductions — bracketing, phenomenological, transcendental and eidetic reductions
 
@@ -466,6 +546,46 @@ Close  : Bracketing and reduction mark the very possibility of Husserl's philoso
 10. Merleau-Ponty's balancing limitation: complete reduction may be an asymptotic ideal, never fully achieved (full treatment in Lesson 11).
 11. > 🔑 **Mnemonic — "SUSPEND, DON'T DENY":** every time "epoché" appears in an answer, the very next clause should say what it does *not* do — deny, doubt, or eliminate.
 
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+9. The epoché differs from Cartesian doubt because it:
+   A) suspends, neither affirming nor denying, the existence-claim
+   B) denies the existence of consciousness itself
+   C) requires divine non-deception to proceed
+   D) is identical in method and result to methodic doubt
+
+10. The phenomenological residue after the epoché is:
+    A) an empty, content-less state of unconsciousness
+    B) the entire field of pure experience as lived, described without existence-positing
+    C) only the bare cogito, stripped of all further content
+    D) a physical brain-state amenable to natural-scientific study
+
+11. Which operation moves from a factual instance to its essence via imaginative variation?
+    A) the phenomenological reduction
+    B) the transcendental reduction
+    C) the eidetic reduction
+    D) the epoché alone
+
+12. The 2023 PYQ's demand to "elucidate the significance" of bracketing and reduction requires:
+    A) a bare definition of epoché with no further discussion
+    B) a discussion only of Cartesian doubt
+    C) a discussion only of the eidetic reduction
+    D) the three purposes: securing first-person evidence, avoiding the substance-inference, and opening eidetic/transcendental inquiry
+
+#### Answers and explanations
+
+| # | Answer | Explanation of every option |
+|---:|:---:|---|
+| 9 | A | A: correct contrast (Lesson 3). B: overstates into denial of consciousness. C: describes Descartes, not Husserl. D: directly contradicts the whole lesson. |
+| 10 | B | B: correct — the residue is the full field of lived experience. A: wrong — nothing is emptied out. C: understates the residue to Descartes' thin cogito. D: wrong — that would be naturalism, exactly what phenomenology avoids. |
+| 11 | C | C: correct — eidetic reduction is fact-to-essence via variation. A and B name different operations (givenness-redirection; constituting-subjectivity). D: epoché alone does not perform variation. |
+| 12 | D | D: correct — the three purposes are exactly what "significance" demands. A, B, C each capture only one fragment of the required answer. |
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
 ---
 Progress: 4 / 12  |  Stage: Foundation  |  Subtopic: Intentionality — consciousness-of, profiles, horizons, synthesis and fulfilment
 
@@ -573,6 +693,46 @@ No PYQ is owned outright by this lesson, but it is the **load-bearing prerequisi
 10. **Evidence is graded, not all-or-nothing**; **adequate givenness** is an ideal limit for transcendent spatial objects, not the everyday norm.
 11. Hallucination's full noematic structure despite no worldly object is the exact key that unlocks the 2019 PYQ (Lesson 5).
 12. > 🔑 **Mnemonic — "ARROW, NOT MIRROR":** intentionality is an **arrow** pointing outward (directedness), never a **mirror** requiring a real object to reflect.
+
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+13. Brentano's *intentionale Inexistenz* was transformed by Husserl into:
+    A) the entire descriptive subject-matter of phenomenology
+    B) a purely biological classification of species
+    C) a proof of God's existence
+    D) an argument for psychologism
+
+14. An "empty intention" is:
+    A) an act with no noema at all
+    B) an anticipatory intending of a feature not currently given, which can later receive intuitive fulfilment
+    C) always necessarily disappointed
+    D) identical to a primal impression
+
+15. "Adequate givenness" for a transcendent spatial object is:
+    A) the normal condition of everyday confident perception
+    B) achieved fully and finally in any single act of perceiving
+    C) an ideal limit, approached asymptotically but never completely achieved
+    D) irrelevant to Husserl's theory of evidence
+
+16. The noema, on every competing scholarly reading, is:
+    A) a Lockean idea standing between subject and object
+    B) identical to the hyle
+    C) a private mental picture inserted as a veil
+    D) never a private mental picture — whether read as ideal sense, object-as-intended, or structured appearance
+
+#### Answers and explanations
+
+| # | Answer | Explanation of every option |
+|---:|:---:|---|
+| 13 | A | A: correct transformation (Lesson 4). B, C, D misattribute unrelated projects to intentionality. |
+| 14 | B | B: correct definition. A: wrong — an empty intention still has a noema, just unfulfilled. C: overstates — it *can* be fulfilled, not always disappointed. D: confuses two distinct concepts (empty intention vs primal impression, Lesson 6). |
+| 15 | C | C: correct — adequate givenness is an ideal limit. A: overstates ordinary perceptual confidence into full adequacy. B: contradicts the "asymptotic" qualification. D: wrong — it is central to Husserl's theory of evidence. |
+| 16 | D | D: correct — every reading rejects the "private picture" model (Lesson 5). A, B, C each restate the rejected picture. |
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
 
 ---
 Progress: 5 / 12  |  Stage: Core  |  Subtopic: Structure of intentional acts — noesis–noema, hyle–morphe and hallucination as an intentional act
@@ -704,6 +864,46 @@ Close: Yes — hallucination is paradigmatically intentional; this demonstrates 
 11. Hallucination is evidence *for*, not an embarrassment to, Husserl's account — the theory predicts exactly this structure.
 12. > 🔑 **Mnemonic — "STRUCTURE, NOT REFERENCE":** a hallucination can have full noematic **structure** even with zero successful **reference** — never confuse the two.
 
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+17. Hyletic data are:
+    A) non-intentional sensory content that is lived, not itself perceived as an object
+    B) the animating apprehension that confers directedness
+    C) identical to the noema
+    D) always successfully referring to an external object
+
+18. The 2019 PYQ on hallucination is best answered by stating that:
+    A) hallucination cannot be intentional because no real object exists
+    B) hallucination is a genuine intentional act because intentionality requires only directedness, not the referent's existence
+    C) hallucination is identical to ordinary recollection
+    D) Husserl never discusses hallucination
+
+19. Sense-bestowal (*Sinngebung*) refers to:
+    A) the claim that essences inhabit a separate Platonic realm
+    B) the empirical, causal explanation of perception
+    C) the *morphe*'s act of interpreting inert hyletic material as presenting a determinate object
+    D) Descartes' proof of God's existence
+
+20. The duck-rabbit-style cross-link between Husserl and later Wittgenstein illustrates:
+    A) that Husserl and Wittgenstein hold identical theories of meaning
+    B) that hyle/morphe has nothing to do with "seeing-as"
+    C) that Husserl rejected the possibility of ambiguous figures
+    D) one sensory pattern giving rise to two different intended objects — explained by sense-bestowing apprehension on Husserl's side, aspect-seeing on Wittgenstein's
+
+#### Answers and explanations
+
+| # | Answer | Explanation of every option |
+|---:|:---:|---|
+| 17 | A | A: correct definition of hyle. B: describes morphe, the opposite pole. C: conflates two distinct terms. D: contradicts the whole anti-sense-datum point. |
+| 18 | B | B: correct — this is the exact 2019 answer route. A: the trap the PYQ tests against. C: confuses two distinct phenomena (Lesson 6). D: factually false — hallucination is directly discussed. |
+| 19 | C | C: correct definition of *Sinngebung*. A: describes a rejected Platonist misreading. B: wrong — phenomenology brackets, not explains causally, in this analysis. D: unrelated topic. |
+| 20 | D | D: correct — states both the shared phenomenon and the distinct frameworks. A: overstates a structural parallel into doctrinal identity. B and C directly contradict the cross-link. |
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
 ---
 Progress: 6 / 12  |  Stage: Core  |  Subtopic: Inner time-consciousness — retention, primal impression, protention and absolute flow
 
@@ -816,6 +1016,46 @@ No PYQ in the 2018–2026 corpus is owned outright by time-consciousness, but it
 10. ⚠️ **Bounded scholarly enrichment (Zahavi):** transverse intentionality (*Querintentionalität*, directed at the immanent object) and longitudinal intentionality (*Längsintentionalität*, directed at the flow's own unity) — standard secondary-literature vocabulary explaining the self-constituting-flow claim, not printed canonical terminology.
 11. No PYQ owns this topic directly; it is high-value enrichment for method, essence-continuity and Heidegger-transformation answers.
 12. > 🔑 **Mnemonic — "STILL HEARD, NOT REMEMBERED":** retention is what is **still heard**; recollection is what is **remembered** — never let the two swap places in an answer.
+
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+21. Retention differs from recollection because:
+    A) retention is part of the present perception itself, while recollection re-presents something no longer present
+    B) retention is a conscious, effortful act of remembering
+    C) recollection is simply faster than retention
+    D) they are two words for the same phenomenon
+
+22. The "living present" has which three-fold structure?
+    A) past, present and future as ordinary clock-time phases
+    B) retention, primal impression and protention
+    C) noesis, noema and hyle
+    D) epoché, reduction and constitution
+
+23. The regress objection to time-consciousness asks:
+    A) whether melodies can be heard at all
+    B) whether retention is really a form of memory
+    C) what constitutes the self-constituting flow of consciousness itself
+    D) whether protention can ever be fulfilled
+
+24. Free imaginative variation is best described as:
+    A) an inductive generalisation from many observed cases
+    B) a psychological survey of common intuitions
+    C) a proof drawing on divine illumination
+    D) an *a priori* procedure testing which features can be varied away without destroying the phenomenon
+
+#### Answers and explanations
+
+| # | Answer | Explanation of every option |
+|---:|:---:|---|
+| 21 | A | A: correct distinction (Lesson 6). B: recollection, not retention, is more effortful/explicit. C: an invented, ungrounded claim. D: directly denies the lesson's central point. |
+| 22 | B | B: correct three-fold structure. A: names ordinary clock-time, not Husserl's technical structure. C: names Lesson 5's terms, a different topic. D: names Lesson 3's terms, a different topic. |
+| 23 | C | C: correct — this is exactly the regress objection. A, B, D each name a different, resolved point in the lesson, not the regress itself. |
+| 24 | D | D: correct definition of free imaginative variation. A: explicitly what the technique is NOT (induction). B and C invent unrelated procedures. |
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
 
 ---
 Progress: 7 / 12  |  Stage: Core  |  Subtopic: Theory of essences — eidetic intuition, free variation, regional ontologies and consciousness–being continuity
@@ -951,6 +1191,46 @@ Close  : The continuity is not a MERGER of subject and object but a structural
 10. This is a **structural correlation, not a merger** and **not a creation claim** — neither a truism nor an inflated idealism.
 11. Reframes, rather than settles, the realism/idealism dispute; interpretively contested (Lessons 8, 11).
 12. > 🔑 **Mnemonic — "SURVIVE THE VARIATION":** an essence is whatever **survives** every imagined variation; anything that can be varied away is merely **accidental**.
+
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+25. The Euclidean angle-sum caution shows that:
+    A) some apparent essence-claims are actually framework-dependent, not universal invariants
+    B) essences do not exist at all
+    C) imaginative variation is identical to empirical induction
+    D) *Wesensschau* is a purely mystical process
+
+26. Categorial intuition, from the Sixth *Logical Investigation*, is:
+    A) identical to mature eidetic variation as later developed in *Ideas I*
+    B) an earlier, developmentally distinct doctrine extending intuition to states of affairs
+    C) a rejection of all forms of intuition
+    D) exclusively about sensory colour-data
+
+27. The "correlational a priori" tested by the 2024 PYQ claims that:
+    A) consciousness creates being out of nothing
+    B) essences are separated Platonic Forms
+    C) the essential structure of the object and of the intending act are inseparably correlated
+    D) essences are merely private psychological feelings
+
+28. Husserl's transcendental ego is explicitly NOT:
+    A) intentional
+    B) temporal
+    C) intersubjective
+    D) a Cartesian substance, Kant's bare apperception, or the empirical psyche
+
+#### Answers and explanations
+
+| # | Answer | Explanation of every option |
+|---:|:---:|---|
+| 25 | A | A: correct lesson of the caution. B: overstates into essence-scepticism. C: contradicts the explicit "not induction" point. D: an unrelated mischaracterisation. |
+| 26 | B | B: correct — developmentally distinct from mature eidetic variation. A: exactly the flattening error the lesson warns against. C: contradicts the doctrine, which extends rather than rejects intuition. D: too narrow — it concerns categorial structures, not mere colour-data. |
+| 27 | C | C: correct statement of the correlational a priori. A: overreads constitution as creation, explicitly rejected. B: contradicts the "no separated Platonic Forms" point. D: reduces essence to subjective feeling, explicitly rejected. |
+| 28 | D | D: correct — all three denials are explicit (Lesson 8). A, B and C are all things the transcendental ego explicitly IS, so each is a wrong answer to what it is NOT. |
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
 
 ---
 Progress: 8 / 12  |  Stage: Core  |  Subtopic: Transcendental ego and life-world — Husserl versus Descartes, constitution, Lebenswelt and crisis of sciences
@@ -1094,6 +1374,46 @@ Close  : Descartes establishes a thinking substance and reconstructs world-knowl
 10. **Sedimentation:** inherited, taken-for-granted meanings and methods, handed down without re-derivation.
 11. Life-world/crisis is **bounded enrichment**, not an independently demanded syllabus pillar.
 12. > 🔑 **Mnemonic — "BRACKETED, NEVER LOST":** Husserl never *loses* the world the way Descartes provisionally does — he only ever *brackets* its existence-positing.
+
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+29. "Constitution" in Husserl's transcendental phenomenology means:
+    A) disclosure of sense, not creation or fabrication
+    B) literal fabrication of objects out of nothing
+    C) an empirical causal process studied by psychology
+    D) exactly the same as Kant's schematism
+
+30. The Lebenswelt (life-world) is:
+    A) a scientific idealisation more fundamental than lived experience
+    B) the pre-scientific, pre-theoretical world of everyday lived experience
+    C) identical to the transcendental ego
+    D) a concept introduced in the *Logical Investigations* of 1900–01
+
+31. The complete text of the *Crisis* was published:
+    A) in 1936, complete and finished
+    B) before the *Cartesian Meditations*
+    C) posthumously in 1954, as *Husserliana* VI, ed. Walter Biemel
+    D) only in English translation, with no German original ever appearing
+
+32. Which *Prolegomena* argument identifies psychologism as self-refuting?
+    A) the necessity/probability argument
+    B) the ideal-content/real-act argument
+    C) the conditions-of-thinking/grounds-of-validity argument
+    D) the relativism argument — the claim "truth is relative" is itself asserted as absolutely true
+
+#### Answers and explanations
+
+| # | Answer | Explanation of every option |
+|---:|:---:|---|
+| 29 | A | A: correct — constitution is disclosure, not fabrication. B: exactly the overreading the lesson forbids. C: wrong — it is not a psychological, empirical process. D: an unwarranted equation with a different Kantian doctrine. |
+| 30 | B | B: correct definition of Lebenswelt. A: reverses the actual relation (idealisation is derivative, not more fundamental). C: conflates two distinct concepts. D: wrong — Lebenswelt is a late, *Crisis*-era concept. |
+| 31 | C | C: correct dating. A: wrong — only Parts I–II in 1936. B: wrong — the *Crisis* is later than the *Cartesian Meditations*. D: false — a German original (posthumous) exists. |
+| 32 | D | D: correct — self-refuting relativism is argument (iii). A, B, C each name a different one of the four arguments. |
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
 
 ---
 Progress: 9 / 12  |  Stage: Core  |  Subtopic: Avoidance of psychologism — four arguments, ideal objectivity, Frege and the transcendental-turn objection
@@ -1246,6 +1566,46 @@ Close: The fight against psychologism is not a side-battle; it is the founding
 11. **Assessment: genuinely contested**, not settled — Heidegger and Merleau-Ponty (Lesson 11) think the reply remains too close to the idealist subject.
 12. > 🔑 **Mnemonic — "PROBABLE NEVER PROVES NECESSARY":** the whole anti-psychologism campaign collapses to one sentence — you cannot derive the necessary validity of logic from the merely probable generalisations of empirical psychology.
 
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+33. Frege's 1894 review of Husserl's early work should be:
+    A) paraphrased, never quoted as containing the "astronomy of astronomers" sentence
+    B) quoted verbatim using the "astronomy of astronomers" line
+    C) treated as proof that Husserl never changed his views
+    D) ignored entirely as irrelevant to Husserl's anti-psychologism
+
+34. Whether Frege's review caused Husserl's reversal is:
+    A) settled beyond doubt in Frege's favour
+    B) genuinely contested — Føllesdal affirms influence, Mohanty (1982) argues for independent grounds
+    C) irrelevant to Husserl scholarship
+    D) proven false by every commentator without exception
+
+35. The charge that the transcendental turn re-introduces psychologism is partly answered by noting that:
+    A) the transcendental ego is identical to the empirical psyche
+    B) logical truths are merely probable
+    C) the transcendental ego is not the empirical psyche, and constitution is disclosure, not fabrication
+    D) Husserl abandoned the *Prolegomena* arguments entirely
+
+36. The Fifth *Cartesian Meditation*'s task is best described as:
+    A) proving empirically that other minds exist
+    B) denying that other minds exist
+    C) an argument from analogy in the classical inductive sense
+    D) explaining how the sense "another subject, for whom the world is also there" is constituted
+
+#### Answers and explanations
+
+| # | Answer | Explanation of every option |
+|---:|:---:|---|
+| 33 | A | A: correct provenance discipline. B: exactly the prohibited quotation error. C: an unsupported overreading. D: factually wrong — the review is central to the topic's provenance. |
+| 34 | B | B: correct — genuinely contested, per Mohanty's caution. A and D overstate a settled consensus in opposite directions. C: understates the review's scholarly significance. |
+| 35 | C | C: correct — the exact two-part reply. A: contradicts the very distinction that rescues the transcendental turn. B: an unrelated, false claim. D: factually wrong — the arguments remain in force. |
+| 36 | D | D: correct restatement of "correcting the question" (Lesson 10). A and C are exactly the misreadings the lesson warns against. B: an unwarranted overstatement into denial. |
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
+
 ---
 Progress: 10 / 12  |  Stage: Advanced  |  Subtopic: Intersubjectivity — Fifth Cartesian Meditation, pairing, appresentation and the solipsism problem
 
@@ -1362,6 +1722,46 @@ No PYQ in the 2018–2026 corpus is owned outright by intersubjectivity, but thi
 10. **Four great objections:** Schutz (circularity — the strongest standing difficulty); Sartre (the Look, not appresentation); Levinas (alter-ego constitution erases genuine otherness); Heidegger (Mitsein makes the whole problem a pseudo-problem).
 11. **Executable verdict:** insightful but not conclusively solipsism-proof; the ownness-first method remains circularity-prone.
 12. > 🔑 **Mnemonic — "TRANSFERRED, NOT INFERRED":** appresentation is a sense **transferred** passively onto the other's body, never an explicit inference **drawn** from my own case.
+
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+37. Appresentation is:
+    A) an analogising transfer of sense, explicitly not an inference from analogy
+    B) identical to an explicit inductive argument
+    C) a direct, original presentation of the other's own experience
+    D) irrelevant to the constitution of the alter ego
+
+38. The "non-original" givenness of the other's experience is, for Husserl:
+    A) a defect that undermines the whole theory
+    B) a necessity — if given originally, the other would simply be me
+    C) evidence that other minds do not exist
+    D) identical to primal impression
+
+39. Which objection to the Fifth Meditation is generally regarded as the most serious?
+    A) Levinas's alterity objection
+    B) Heidegger's *Mitsein* objection
+    C) Schutz's circularity objection
+    D) Sartre's Look objection
+
+40. Heidegger's specific objection to Husserl's method targets:
+    A) the theory of essences alone
+    B) psychologism alone
+    C) the concept of hyle alone
+    D) the reduction and the underlying theoretical/contemplative attitude it presupposes
+
+#### Answers and explanations
+
+| # | Answer | Explanation of every option |
+|---:|:---:|---|
+| 37 | A | A: correct — the explicit "not an inference" caution. B: contradicts that caution directly. C: wrong — this would collapse the other into me. D: contradicts the entire argument's purpose. |
+| 38 | B | B: correct — non-originality is a necessity, explicitly stated. A: the trap the lesson corrects. C: an unwarranted overreading toward solipsism. D: confuses two unrelated technical terms. |
+| 39 | C | C: correct — Schutz's circularity charge is named as the most serious. A, B, D are each serious but not identified as the *most* serious in the canonical material. |
+| 40 | D | D: correct and specific, per the "name the doctrine" rule (Lesson 11). A, B, C misattribute Heidegger's objection to unrelated doctrines belonging to other lessons. |
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
 
 ---
 Progress: 11 / 12  |  Stage: Advanced  |  Subtopic: Critics and successors — Heidegger, Sartre, Merleau-Ponty and the 2026 Sartre–Husserl consciousness comparison
@@ -1497,6 +1897,46 @@ Sartrean half + final verdict: Existentialism.md §2.4A (not reproduced here)
 10. Levinas was the *Cartesian Meditations*' own first French translator before later criticising exactly that text.
 11. The four objections converge on one shared pressure point: whether Husserl's method remains too committed to a detached, self-sufficient observing subject.
 12. > 🔑 **Mnemonic — "NAME THE DOCTRINE, NOT JUST THE NAME":** never write a critic's name without immediately naming the *exact* doctrine they reject.
+
+### Lesson-level practice checkpoint
+
+> These existing cumulative-bank questions are placed here for the original Indian Philosophy flow. In interactive use, ask them one at a time, explain every option after the learner answers, remediate errors, and wait for mastery before `Next`. Original question numbers are retained for audit traceability.
+
+41. In the 2026 Q2(c) comparison, this session's Husserlian half covers:
+    A) epoché, the transcendental reduction, and the constituting-field ego with habitualities — Sartre's own doctrine and the final verdict remain `Existentialism.md`'s owned material
+    B) Sartre's full doctrine of nihilation and bad faith
+    C) the final comparative verdict on which philosopher is correct
+    D) Kierkegaard's theory of the single individual
+
+42. Merleau-Ponty's objection to Husserl concerns:
+    A) psychologism
+    B) the completeness of the reduction and the hyle/morphe scheme
+    C) the Fifth *Cartesian Meditation*'s appresentation doctrine exclusively
+    D) Frege's 1894 review
+
+43. A student writes: "Husserl's epoché proves the external world does not exist." This is:
+    A) correct, since epoché is a form of doubt
+    B) correct, since the reduction eliminates the world entirely
+    C) incorrect — the epoché suspends the existence-claim; nothing is proved false
+    D) correct only for the transcendental reduction, not the phenomenological one
+
+44. A student writes: "Noema is just a private mental picture in the mind, like a photograph." This is:
+    A) correct on the "ideal sense" reading only
+    B) correct on the "object-as-intended" reading only
+    C) correct, because Husserl is a sense-datum theorist
+    D) incorrect on every competing scholarly reading — the noema is never a private inserted veil
+
+#### Answers and explanations
+
+| # | Answer | Explanation of every option |
+|---:|:---:|---|
+| 41 | A | A: correct ownership-preserving framing. B and C would improperly duplicate `Existentialism.md`'s owned material. D: names an unrelated thinker (Kierkegaard) outside this comparison. |
+| 42 | B | B: correct, specific objection. A, C, D each misattribute Merleau-Ponty's objection to a different critic's or a different lesson's material. |
+| 43 | C | C: correct — precisely the "suspend, don't deny" point (Lesson 3). A, B, D each restate or partially restate the rejected misreading. |
+| 44 | D | D: correct — no competing reading licenses the "photograph" picture (Lesson 5). A, B, C each falsely grant partial licence to the rejected picture. |
+
+**Mastery checkpoint:** complete two consecutive correct answers or two correct answers out of three before advancing.
+
 
 ---
 Progress: 12 / 12  |  Stage: Advanced  |  Subtopic: Final synthesis — all solved PYQs, comparisons, answer architecture, original practice and consolidated register notes
