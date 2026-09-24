@@ -22,6 +22,22 @@
 - Visual/master-flow panels hash-bound: **12**
 - Primary Jainism PYQs: **10**
 - Supporting cross-topic PYQs outside primary numbering: **1**
+- Frozen MCQ test cells: **94**
+- Coverage-derived authored MCQs: **94**
+- Mapping policy: **one distinct primary question per atomic cell**
+- Frozen baseline: **38 adequate / 20 partial / 36 uncovered**
+
+## Frozen test-cell categories
+
+| Category | Cells | Baseline adequate | Baseline partial | Baseline uncovered | Final |
+|---|---:|---:|---:|---:|---:|
+| Foundations | 6 | 3 | 0 | 3 | 6 covered |
+| Ontology | 13 | 6 | 6 | 1 | 13 covered |
+| Epistemology | 10 | 4 | 1 | 5 | 10 covered |
+| Many-sided logic | 26 | 11 | 2 | 13 | 26 covered |
+| Criticism / comparison / PYQ | 11 | 2 | 3 | 6 | 11 covered |
+| Karma / liberation / ethics | 22 | 11 | 7 | 4 | 22 covered |
+| Transfer | 6 | 1 | 1 | 4 | 6 covered |
 
 ## Doctrine and surface matrix
 

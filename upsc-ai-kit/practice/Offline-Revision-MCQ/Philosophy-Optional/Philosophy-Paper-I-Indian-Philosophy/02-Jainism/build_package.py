@@ -1,9 +1,12 @@
 from __future__ import annotations
 
+import argparse
 import hashlib
 import json
 import random
 import re
+import subprocess
+import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -134,7 +137,119 @@ def parse_mcqs(text: str) -> list[dict]:
     return result
 
 
-def randomized_mcqs(items: list[dict], seed: int) -> tuple[str, str, dict]:
+MCQ_CUE_POLICY = {
+    "word_count_regex": r"\b[^\W_]+(?:['’\-][^\W_]+)*\b",
+    "aggregate_correct_to_distractor_ratio_max": 1.20,
+    "per_item_correct_to_average_distractor_ratio_max": 1.60,
+    "per_item_correct_advantage_min_words": 3.0,
+    "extreme_short_keyed_min_words": 6,
+    "extreme_short_distractor_max_words": 2,
+    "extreme_short_distractor_to_keyed_ratio_min": 0.40,
+    "visible_spread_ratio_max": 2.25,
+    "visible_spread_min_gap_words": 6,
+    "grammatical_parallelism_checks": ["terminal_punctuation", "initial_letter_case"],
+    "noncompetitive_patterns": [
+        r"\ball of the above\b",
+        r"\bnone of the above\b",
+        r"\bboth [A-D] and [A-D]\b",
+        r"\bcannot say\b",
+        r"\b(?:wholly )?(?:irrelevant|unrelated)\b",
+    ],
+}
+
+
+def option_word_count(text: str) -> int:
+    return len(re.findall(MCQ_CUE_POLICY["word_count_regex"], text, re.UNICODE))
+
+
+def compute_cue_metrics(rendered: list[dict]) -> dict:
+    records = []
+    correct_lengths, distractor_lengths = [], []
+    patterns = [re.compile(pattern, re.I) for pattern in MCQ_CUE_POLICY["noncompetitive_patterns"]]
+    for row in rendered:
+        counts = [option_word_count(text) for text in row["options"]]
+        correct = counts[row["correct_index"]]
+        distractors = [count for i, count in enumerate(counts) if i != row["correct_index"]]
+        distractor_mean = sum(distractors) / 3
+        ratio = correct / distractor_mean
+        spread = max(counts) / min(counts)
+        flags = []
+        if ratio > MCQ_CUE_POLICY["per_item_correct_to_average_distractor_ratio_max"] and (
+            correct - distractor_mean >= MCQ_CUE_POLICY["per_item_correct_advantage_min_words"]
+        ):
+            flags.append("correct_length_advantage")
+        if correct >= MCQ_CUE_POLICY["extreme_short_keyed_min_words"]:
+            for index, count in enumerate(counts):
+                if index == row["correct_index"]:
+                    continue
+                if count <= MCQ_CUE_POLICY["extreme_short_distractor_max_words"] or (
+                    count / correct < MCQ_CUE_POLICY["extreme_short_distractor_to_keyed_ratio_min"]
+                ):
+                    flags.append(f"extreme_short_distractor_{'ABCD'[index]}")
+        if spread > MCQ_CUE_POLICY["visible_spread_ratio_max"] and (
+            max(counts) - min(counts) >= MCQ_CUE_POLICY["visible_spread_min_gap_words"]
+        ):
+            flags.append("excessive_visible_spread")
+        for index, text in enumerate(row["options"]):
+            if any(pattern.search(text) for pattern in patterns):
+                flags.append(f"noncompetitive_phrase_{'ABCD'[index]}")
+        terminal = [text.rstrip()[-1:] for text in row["options"]]
+        if len(set(terminal)) != 1:
+            flags.append("terminal_punctuation_mismatch")
+        initial_case = []
+        for text in row["options"]:
+            first = next((char for char in text if char.isalpha()), "")
+            initial_case.append("upper" if first.isupper() else "lower")
+        if len(set(initial_case)) != 1:
+            flags.append("initial_letter_case_mismatch")
+        records.append({
+            "question_id": row["question_id"],
+            "keyed_letter": "ABCD"[row["correct_index"]],
+            "word_counts": {letter: count for letter, count in zip("ABCD", counts)},
+            "correct_to_average_distractor_ratio": round(ratio, 4),
+            "visible_spread_ratio": round(spread, 4),
+            "visible_spread_words": max(counts) - min(counts),
+            "flags": flags,
+        })
+        correct_lengths.append(correct)
+        distractor_lengths.extend(distractors)
+    mean_correct = sum(correct_lengths) / len(correct_lengths)
+    mean_distractor = sum(distractor_lengths) / len(distractor_lengths)
+    aggregate_ratio = mean_correct / mean_distractor
+    outliers = [row for row in records if row["flags"]]
+    material_length_outliers = [
+        row for row in records
+        if any(flag in {"correct_length_advantage", "excessive_visible_spread"}
+               for flag in row["flags"])
+    ]
+    return {
+        "policy": MCQ_CUE_POLICY,
+        "mean_correct_words": round(mean_correct, 4),
+        "mean_distractor_words": round(mean_distractor, 4),
+        "aggregate_correct_to_distractor_ratio": round(aggregate_ratio, 4),
+        "ratio_at_or_above_1_8_count": sum(
+            row["correct_to_average_distractor_ratio"] >= 1.8 for row in records
+        ),
+        "material_length_outlier_count": len(material_length_outliers),
+        "policy_outlier_count": len(outliers),
+        "noncompetitive_distractor_count": sum(
+            flag.startswith(("extreme_short_distractor_", "noncompetitive_phrase_"))
+            for row in records for flag in row["flags"]
+        ),
+        "all_options_terminal_punctuation_consistent": all(
+            "terminal_punctuation_mismatch" not in row["flags"] for row in records
+        ),
+        "all_options_initial_letter_case_consistent": all(
+            "initial_letter_case_mismatch" not in row["flags"] for row in records
+        ),
+        "grammar_parallel_review": (
+            "passed_computed_surface_checks" if not outliers else "failed_computed_surface_checks"
+        ),
+        "per_item_records": records,
+    }
+
+
+def randomized_mcqs(items: list[dict], seed: int, matrix: dict) -> tuple[str, str, dict]:
     rng = random.Random(seed)
     target_answers = list("ABCD") * (len(items) // 4)
     target_answers += list("ABCD")[:len(items) % 4]
@@ -161,34 +276,43 @@ def randomized_mcqs(items: list[dict], seed: int) -> tuple[str, str, dict]:
         raise RuntimeError("Unable to derive a balanced non-cyclic answer sequence")
 
     qout = ["# Jainism — MCQ Questions", "", f"> **Deterministic randomization seed:** `{seed}`.",
-            "> **Coverage derivation:** 16 examinable dimensions × 2 probes (core discrimination + trap/application) = **32 questions**. The dimensions are textual identity; real/change; substance-quality-mode; six substances; soul; matter; epistemic classification; five knowledges; anekāntavāda; nayavāda; syādvāda; saptabhaṅgī; objections; material karma; bondage mechanics; liberation/ethics.", "",
+            f"> **Coverage derivation:** `{len(matrix['cells'])}` frozen atomic test cells map one-to-one to `{len(items)}` distinct authored questions. The total is derived from `TEST-MATRIX.json`, not from a round or inherited template count.", "",
             "Attempt all questions before opening the solutions.", ""]
     sout = ["# Jainism — MCQ Solutions", "", f"> Seed `{seed}`; each question has four synchronized option-specific explanations.", ""]
     answers = []
-    lengths = []
+    rendered = []
     for item, target_answer in zip(items, target_answers):
         letters = list("ABCD")
-        distractors = [old for old in "ABCD" if old != item["answer"]]
+        original_letters = list("ABCD")
+        correct_old = original_letters[item["correct_index"]]
+        distractors = [old for old in original_letters if old != correct_old]
         rng.shuffle(distractors)
         old_order = []
         for letter in letters:
-            old_order.append(item["answer"] if letter == target_answer else distractors.pop())
+            old_order.append(correct_old if letter == target_answer else distractors.pop())
         mapping = {new: old for new, old in zip(letters, old_order)}
-        new_answer = next(new for new, old in mapping.items() if old == item["answer"])
+        new_answer = next(new for new, old in mapping.items() if old == correct_old)
         answers.append(new_answer)
-        anchor = f"mcq-{item['number']:02d}"
+        rendered_options = [
+            item["options"][original_letters.index(mapping[letter])] for letter in letters
+        ]
+        rendered.append({
+            "question_id": item["id"],
+            "correct_index": letters.index(new_answer),
+            "options": rendered_options,
+        })
+        anchor = f"mcq-{item['number']:03d}"
         qout += [f'<a id="{anchor}"></a>', f"## MCQ {item['number']}. {item['title']}", "", item["stem"], ""]
         sout += [f'<a id="{anchor}-solution"></a>', f"## MCQ {item['number']}. {item['title']}", "", item["stem"], ""]
         for new in letters:
             old = mapping[new]
-            txt = item["options"][old]
-            lengths.append((new == new_answer, len(txt.split())))
+            txt = item["options"][original_letters.index(old)]
             qout += [f"{new}. {txt}", ""]
             sout += [f"{new}. {txt}", ""]
         sout += [f"**Answer: {new_answer}.**", "", "**Option explanations:**"]
         for new in letters:
             old = mapping[new]
-            sout.append(f"- **{new}:** {item['explanations'][old]}")
+            sout.append(f"- **{new}:** {item['explanations'][original_letters.index(old)]}")
         sout += ["", f"**Examiner trap:** {item['trap']}", ""]
     runs = []
     start = 0
@@ -197,26 +321,25 @@ def randomized_mcqs(items: list[dict], seed: int) -> tuple[str, str, dict]:
             runs.append({"answer": answers[start], "start": start + 1, "length": i - start})
             start = i
     audit = {
-        "schema_version": 1, "topic": "Jainism", "seed": seed,
-        "derivation": {"dimensions": 16, "probes_per_dimension": 2, "question_count": len(items)},
+        "schema_version": 3, "topic": "Jainism", "seed": seed,
+        "derivation": {
+            "matrix": "TEST-MATRIX.json",
+            "matrix_cell_count": len(matrix["cells"]),
+            "question_count": len(items),
+            "policy": "one distinct authored question per atomic cell",
+        },
         "answer_sequence": "".join(answers), "answer_counts": {x: answers.count(x) for x in "ABCD"},
         "longest_run": max(r["length"] for r in runs), "runs": runs,
         "position_policy": {
             "method": "seeded constrained shuffle; no fixed rotation",
-            "minimum_per_letter": 6,
-            "maximum_per_letter": 10,
+            "minimum_per_letter": len(items) // 4 - 1,
+            "maximum_per_letter": (len(items) + 3) // 4 + 1,
             "maximum_run": 2,
             "cycle_periods_rejected": [2, 3, 4],
             "minimum_cycle_repetitions": 3,
             "predictable_cycle_detected": repeated_cycle(answers),
         },
-        "cue_metrics": {
-            "mean_correct_words": round(sum(n for c, n in lengths if c) / len(items), 2),
-            "mean_incorrect_words": round(sum(n for c, n in lengths if not c) / (len(items) * 3), 2),
-            "all_options_terminal_punctuation_consistent": True,
-            "grammar_parallel_review": "passed_source-authored-options",
-            "template_filler_count": 0,
-        },
+        "cue_metrics": compute_cue_metrics(rendered),
         "synchronization": "Every shuffled option carries the explanation belonging to its original semantic payload.",
     }
     return "\n".join(qout), "\n".join(sout), audit
@@ -320,6 +443,17 @@ def current_pyq_section(source: str, pyqs: list[dict], model2026: str) -> tuple[
 
 
 def reconciled_revision(session: str, pyqs: list[dict], model2026: str) -> str:
+    legacy_start = session.index("## BASIC MCQS / REMEDIATION")
+    legacy_end = session.index("## PYQS AND ANSWER PRACTICE", legacy_start)
+    current_mcq_note = """## COVERAGE-DERIVED MCQ PRACTICE
+
+The historical formal session used an inherited 24-core-plus-8-remedial block. That block is
+preserved only in `FORMAL-SOURCE-MIRROR.md` as historical evidence and is not a sufficiency
+contract. Current learner practice is authored from the frozen 94-cell `TEST-MATRIX.json`; use
+`MCQ-QUESTIONS.md` and `MCQ-SOLUTIONS.md`.
+
+"""
+    session = session[:legacy_start] + current_mcq_note + session[legacy_end:]
     primary, supporting = current_pyq_section(session, pyqs, model2026)
     start = session.index("## PYQS AND ANSWER PRACTICE")
     end = session.index("#### ORIGINAL SOLVED MAINS PRACTICE", start)
@@ -328,6 +462,8 @@ def reconciled_revision(session: str, pyqs: list[dict], model2026: str) -> str:
                         "| Primary-owned verified PYQs solved in full | 10 |")
     text = text.replace("| Supporting routed PYQ solved in full | 1 |",
                         "| Supporting cross-topic PYQ solved outside primary numbering | 1 |")
+    text = text.replace("| Original diagnostic MCQs — 24 core plus 8 remedial drills | 32 |",
+                        "| Coverage-derived MCQs — see frozen `TEST-MATRIX.json` | 94 |")
     text = text.replace("2018–2025 Jainism question", "2018–2026 Jainism question")
     old_rail = ("- **PYQ rail, 2018–2025 (nine owned).** 2018 Q6(c) 15 — bondage, bound / liberated soul. "
                 "2019 Q6(a) 20 — reality and judgement. 2020 Q5(a) 10 — action-consequence and liberation. "
@@ -386,16 +522,18 @@ def answer_toolkit(workbook: str, pyqs: list[dict], model2026: str) -> tuple[str
     } for x in pyqs]
 
 
-def main() -> None:
+def main(generate_pdfs: bool = False) -> None:
     sources = {"formal_session": file_info(SESSION), "formal_workbook": file_info(WORKBOOK),
                "canonical": file_info(CANONICAL), "pyq_2018_2025": file_info(PYQ_OLD), "pyq_2026": file_info(PYQ_NEW)}
     sb = source_blocks(SESSION, "session")
     wb = source_blocks(WORKBOOK, "workbook")
     session = SESSION.read_text(encoding="utf-8").replace("\r\n", "\n")
     workbook = WORKBOOK.read_text(encoding="utf-8").replace("\r\n", "\n")
-    mcqs = parse_mcqs(workbook)
+    bank = json.loads((ROOT / "MCQ-BANK.json").read_text(encoding="utf-8"))
+    matrix = json.loads((ROOT / "TEST-MATRIX.json").read_text(encoding="utf-8"))
+    mcqs = bank["questions"]
     seed = int(sha_text("|".join(s["sha256"] for s in sources.values()))[:16], 16)
-    qmd, smd, mcq_audit = randomized_mcqs(mcqs, seed)
+    qmd, smd, mcq_audit = randomized_mcqs(mcqs, seed, matrix)
     pyqs = exact_pyqs()
     if len(pyqs) != 10:
         raise ValueError(f"Expected ten Jain-primary PYQs, found {len(pyqs)}")
@@ -450,6 +588,8 @@ The application is illustrated by a clay pot: it exists as its present pot-mode,
         "panel_parity": review["panel_parity"], "status": "DERIVED_COMPLETE",
     }
     (ROOT / "FORMAL-COVERAGE-AUDIT.json").write_text(json.dumps(audit, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    mcq_audit["matrix_sha256"] = sha_bytes((ROOT / "TEST-MATRIX.json").read_bytes())
+    mcq_audit["bank_sha256"] = sha_bytes((ROOT / "MCQ-BANK.json").read_bytes())
     (ROOT / "MCQ-AUDIT.json").write_text(json.dumps(mcq_audit, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     pyq_audit = {
         "schema_version": 1, "sources": {"2018_2025": sources["pyq_2018_2025"], "2026": sources["pyq_2026"]},
@@ -493,6 +633,22 @@ The application is illustrated by a clay pot: it exists as its present pot-mode,
 - Visual/master-flow panels hash-bound: **{len(panels)}**
 - Primary Jainism PYQs: **10**
 - Supporting cross-topic PYQs outside primary numbering: **1**
+- Frozen MCQ test cells: **{len(matrix['cells'])}**
+- Coverage-derived authored MCQs: **{len(mcqs)}**
+- Mapping policy: **one distinct primary question per atomic cell**
+- Frozen baseline: **38 adequate / 20 partial / 36 uncovered**
+
+## Frozen test-cell categories
+
+| Category | Cells | Baseline adequate | Baseline partial | Baseline uncovered | Final |
+|---|---:|---:|---:|---:|---:|
+| Foundations | 6 | 3 | 0 | 3 | 6 covered |
+| Ontology | 13 | 6 | 6 | 1 | 13 covered |
+| Epistemology | 10 | 4 | 1 | 5 | 10 covered |
+| Many-sided logic | 26 | 11 | 2 | 13 | 26 covered |
+| Criticism / comparison / PYQ | 11 | 2 | 3 | 6 | 11 covered |
+| Karma / liberation / ethics | 22 | 11 | 7 | 4 | 22 covered |
+| Transfer | 6 | 1 | 1 | 4 | 6 covered |
 
 ## Doctrine and surface matrix
 
@@ -516,6 +672,10 @@ Canonical content controls any conflict. Conditional predication is never presen
 
 This self-contained package reconciles the complete formal learning session and workbook against the canonical Jainism owner and verified 2018–2026 PYQ ledgers.
 
+Markdown is the canonical package format. Existing PDFs are legacy optional artifacts and are
+generated or refreshed only on explicit request with `python build_package.py --with-pdfs` or
+`python render_pdfs.py`; default builds and validation do not update or require them.
+
 ## Study order
 
 1. `REVISION-GUIDE.md`
@@ -526,7 +686,10 @@ This self-contained package reconciles the complete formal learning session and 
 
 `FORMAL-SOURCE-MIRROR.md` preserves the immutable 2018–2025 formal session/workbook snapshot for audit; its legacy nine-primary-plus-one-supporting numbering does not control the reconciled learner sequence.
 
-`FORMAL-COVERAGE-REVIEW.json` is the authored/frozen evidence ledger. `FORMAL-COVERAGE-AUDIT.json`, `MCQ-AUDIT.json`, `PYQ-DEMAND-AUDIT.json`, and `VALIDATION.json` are machine-auditable controls.
+`FORMAL-COVERAGE-REVIEW.json` is the authored/frozen formal-evidence ledger. `TEST-MATRIX.json`
+contains the frozen 94-cell MCQ scope, and `MCQ-BANK.json` is its topic-local authored bank.
+`FORMAL-COVERAGE-AUDIT.json`, `MCQ-AUDIT.json`, `PYQ-DEMAND-AUDIT.json`, and `VALIDATION.json`
+are machine-auditable controls.
 """
     (ROOT / "README.md").write_text(readme, encoding="utf-8", newline="\n")
     log = """# Jainism — Practice Log
@@ -544,8 +707,17 @@ This self-contained package reconciles the complete formal learning session and 
 - Rewrite a Mains answer until it meets the exact word band and explicitly distinguishes ontology, standpoint analysis and conditional predication.
 """
     (ROOT / "PRACTICE-LOG.md").write_text(log, encoding="utf-8", newline="\n")
+    if generate_pdfs:
+        subprocess.run([sys.executable, "-B", str(ROOT / "render_pdfs.py")], check=True)
     print(json.dumps({"blocks": len(decisions), "session": len(sb), "workbook": len(wb), "mcqs": len(mcqs), "pyqs": len(pyqs), "seed": seed}, indent=2))
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--with-pdfs",
+        action="store_true",
+        help="Explicitly regenerate optional legacy PDFs and PDF-MANIFEST.json.",
+    )
+    args = parser.parse_args()
+    main(generate_pdfs=args.with_pdfs)

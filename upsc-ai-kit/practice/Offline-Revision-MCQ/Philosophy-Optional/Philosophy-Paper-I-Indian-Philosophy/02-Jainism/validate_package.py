@@ -10,16 +10,18 @@ import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-from pypdf import PdfReader
-
 HERE = Path(__file__).resolve().parent
 IST = timezone(timedelta(hours=5, minutes=30))
 REQUIRED = [
     "README.md", "REVISION-GUIDE.md", "COVERAGE-LEDGER.md", "MCQ-QUESTIONS.md",
     "MCQ-SOLUTIONS.md", "ANSWER-WRITING-TOOLKIT.md", "PRACTICE-LOG.md",
     "FORMAL-COVERAGE-REVIEW.json", "FORMAL-COVERAGE-AUDIT.json", "MCQ-AUDIT.json",
-    "PYQ-DEMAND-AUDIT.json", "PDF-MANIFEST.json", "validate_package.py", "build_package.py",
-    "render_pdfs.py", "run_negative_tests.py", "FORMAL-SOURCE-MIRROR.md", "VALIDATION.json",
+    "PYQ-DEMAND-AUDIT.json", "TEST-MATRIX.json", "MCQ-BANK.json",
+    "validate_package.py", "build_package.py", "render_pdfs.py", "run_negative_tests.py",
+    "FORMAL-SOURCE-MIRROR.md", "VALIDATION.json",
+]
+OPTIONAL_PDF_FILES = [
+    "PDF-MANIFEST.json",
     "pdf/Jainism-Revision-Guide.pdf", "pdf/Jainism-MCQ-Questions.pdf",
     "pdf/Jainism-MCQ-Solutions.pdf", "pdf/Jainism-Answer-Writing-Toolkit.pdf",
 ]
@@ -69,7 +71,13 @@ def parse_mcq_surface(text: str) -> dict[int, dict]:
         exps = {}
         for em in re.finditer(r"^- \*\*([A-D]):\*\*\s*(.+)$", ch, re.M):
             exps[em.group(1)] = em.group(2).strip()
-        out[int(m.group(1))] = {"options": opts, "answer": ans.group(1) if ans else None, "explanations": exps}
+        stem_start = ch.find("\n") + 1
+        first_option = re.search(r"^[A-D]\.\s+", ch, re.M)
+        stem = ch[stem_start:first_option.start()].strip() if first_option else ""
+        out[int(m.group(1))] = {
+            "title": m.group(2).strip(), "stem": stem, "options": opts,
+            "answer": ans.group(1) if ans else None, "explanations": exps,
+        }
     return out
 
 
@@ -84,15 +92,135 @@ def has_predictable_cycle(sequence: str) -> bool:
     return False
 
 
-def run(root: Path, release: bool) -> dict:
+MCQ_CUE_POLICY = {
+    "word_count_regex": r"\b[^\W_]+(?:['’\-][^\W_]+)*\b",
+    "aggregate_correct_to_distractor_ratio_max": 1.20,
+    "per_item_correct_to_average_distractor_ratio_max": 1.60,
+    "per_item_correct_advantage_min_words": 3.0,
+    "extreme_short_keyed_min_words": 6,
+    "extreme_short_distractor_max_words": 2,
+    "extreme_short_distractor_to_keyed_ratio_min": 0.40,
+    "visible_spread_ratio_max": 2.25,
+    "visible_spread_min_gap_words": 6,
+    "grammatical_parallelism_checks": ["terminal_punctuation", "initial_letter_case"],
+    "noncompetitive_patterns": [
+        r"\ball of the above\b",
+        r"\bnone of the above\b",
+        r"\bboth [A-D] and [A-D]\b",
+        r"\bcannot say\b",
+        r"\b(?:wholly )?(?:irrelevant|unrelated)\b",
+    ],
+}
+
+
+def option_word_count(text: str) -> int:
+    return len(re.findall(MCQ_CUE_POLICY["word_count_regex"], text, re.UNICODE))
+
+
+def recompute_cue_metrics(surface: dict[int, dict]) -> dict:
+    records = []
+    correct_lengths, distractor_lengths = [], []
+    patterns = [re.compile(pattern, re.I) for pattern in MCQ_CUE_POLICY["noncompetitive_patterns"]]
+    for number in sorted(surface):
+        row = surface[number]
+        letters = list("ABCD")
+        options = [row["options"].get(letter, "") for letter in letters]
+        answer = row["answer"]
+        correct_index = letters.index(answer) if answer in letters else 0
+        counts = [option_word_count(text) for text in options]
+        correct = counts[correct_index]
+        distractors = [count for index, count in enumerate(counts) if index != correct_index]
+        distractor_mean = sum(distractors) / 3
+        ratio = correct / distractor_mean
+        spread = max(counts) / min(counts)
+        flags = []
+        if ratio > MCQ_CUE_POLICY["per_item_correct_to_average_distractor_ratio_max"] and (
+            correct - distractor_mean >= MCQ_CUE_POLICY["per_item_correct_advantage_min_words"]
+        ):
+            flags.append("correct_length_advantage")
+        if correct >= MCQ_CUE_POLICY["extreme_short_keyed_min_words"]:
+            for index, count in enumerate(counts):
+                if index == correct_index:
+                    continue
+                if count <= MCQ_CUE_POLICY["extreme_short_distractor_max_words"] or (
+                    count / correct < MCQ_CUE_POLICY["extreme_short_distractor_to_keyed_ratio_min"]
+                ):
+                    flags.append(f"extreme_short_distractor_{letters[index]}")
+        if spread > MCQ_CUE_POLICY["visible_spread_ratio_max"] and (
+            max(counts) - min(counts) >= MCQ_CUE_POLICY["visible_spread_min_gap_words"]
+        ):
+            flags.append("excessive_visible_spread")
+        for index, text in enumerate(options):
+            if any(pattern.search(text) for pattern in patterns):
+                flags.append(f"noncompetitive_phrase_{letters[index]}")
+        terminal = [text.rstrip()[-1:] for text in options]
+        if len(set(terminal)) != 1:
+            flags.append("terminal_punctuation_mismatch")
+        initial_case = []
+        for text in options:
+            first = next((char for char in text if char.isalpha()), "")
+            initial_case.append("upper" if first.isupper() else "lower")
+        if len(set(initial_case)) != 1:
+            flags.append("initial_letter_case_mismatch")
+        records.append({
+            "question_id": f"Q{number:03d}",
+            "keyed_letter": answer,
+            "word_counts": {letter: count for letter, count in zip(letters, counts)},
+            "correct_to_average_distractor_ratio": round(ratio, 4),
+            "visible_spread_ratio": round(spread, 4),
+            "visible_spread_words": max(counts) - min(counts),
+            "flags": flags,
+        })
+        correct_lengths.append(correct)
+        distractor_lengths.extend(distractors)
+    mean_correct = sum(correct_lengths) / len(correct_lengths)
+    mean_distractor = sum(distractor_lengths) / len(distractor_lengths)
+    aggregate_ratio = mean_correct / mean_distractor
+    outliers = [row for row in records if row["flags"]]
+    material_length_outliers = [
+        row for row in records
+        if any(flag in {"correct_length_advantage", "excessive_visible_spread"}
+               for flag in row["flags"])
+    ]
+    return {
+        "policy": MCQ_CUE_POLICY,
+        "mean_correct_words": round(mean_correct, 4),
+        "mean_distractor_words": round(mean_distractor, 4),
+        "aggregate_correct_to_distractor_ratio": round(aggregate_ratio, 4),
+        "ratio_at_or_above_1_8_count": sum(
+            row["correct_to_average_distractor_ratio"] >= 1.8 for row in records
+        ),
+        "material_length_outlier_count": len(material_length_outliers),
+        "policy_outlier_count": len(outliers),
+        "noncompetitive_distractor_count": sum(
+            flag.startswith(("extreme_short_distractor_", "noncompetitive_phrase_"))
+            for row in records for flag in row["flags"]
+        ),
+        "all_options_terminal_punctuation_consistent": all(
+            "terminal_punctuation_mismatch" not in row["flags"] for row in records
+        ),
+        "all_options_initial_letter_case_consistent": all(
+            "initial_letter_case_mismatch" not in row["flags"] for row in records
+        ),
+        "grammar_parallel_review": (
+            "passed_computed_surface_checks" if not outliers else "failed_computed_surface_checks"
+        ),
+        "per_item_records": records,
+    }
+
+
+def run(root: Path, release: bool, validate_pdfs: bool = False) -> dict:
     errors, checks = [], {}
-    for rel in REQUIRED:
+    required_files = REQUIRED + (OPTIONAL_PDF_FILES if validate_pdfs else [])
+    for rel in required_files:
         if rel == "VALIDATION.json" and not release:
             continue
         p = root / rel
         if not p.is_file():
             fail(errors, "MISSING_REQUIRED_FILE", rel)
-    checks["required_files"] = len(REQUIRED)
+    checks["required_files"] = len(required_files)
+    checks["markdown_canonical"] = True
+    checks["pdf_validation"] = "opt_in_enabled" if validate_pdfs else "optional_not_checked"
     if errors:
         return report(root, release, checks, errors)
 
@@ -204,11 +332,94 @@ def run(root: Path, release: bool) -> dict:
             fail(errors, "DOCTRINE_GUARDRAIL", pat)
     checks["doctrine_guardrails"] = len(doctrine_terms)
 
-    q = parse_mcq_surface((root / "MCQ-QUESTIONS.md").read_text(encoding="utf-8"))
-    s = parse_mcq_surface((root / "MCQ-SOLUTIONS.md").read_text(encoding="utf-8"))
+    q_text = (root / "MCQ-QUESTIONS.md").read_text(encoding="utf-8")
+    s_text = (root / "MCQ-SOLUTIONS.md").read_text(encoding="utf-8")
+    q_numbers = [int(x) for x in re.findall(r"^## MCQ (\d+)\.", q_text, re.M)]
+    s_numbers = [int(x) for x in re.findall(r"^## MCQ (\d+)\.", s_text, re.M)]
+    if len(q_numbers) != len(set(q_numbers)) or len(s_numbers) != len(set(s_numbers)):
+        fail(errors, "MCQ_DUPLICATE_ID", f"questions={q_numbers} solutions={s_numbers}")
+    q = parse_mcq_surface(q_text)
+    s = parse_mcq_surface(s_text)
     ma = json.loads((root / "MCQ-AUDIT.json").read_text(encoding="utf-8"))
-    if len(q) != 32 or len(s) != 32 or ma.get("derivation", {}).get("question_count") != 32:
+    matrix = json.loads((root / "TEST-MATRIX.json").read_text(encoding="utf-8"))
+    bank = json.loads((root / "MCQ-BANK.json").read_text(encoding="utf-8"))
+    cells = matrix.get("cells", [])
+    mappings = matrix.get("question_mappings", {})
+    expected_categories = {
+        "foundations": {"total": 6, "adequate": 3, "partial": 0, "uncovered": 3},
+        "ontology": {"total": 13, "adequate": 6, "partial": 6, "uncovered": 1},
+        "epistemology": {"total": 10, "adequate": 4, "partial": 1, "uncovered": 5},
+        "many-sided logic": {"total": 26, "adequate": 11, "partial": 2, "uncovered": 13},
+        "criticism-comparison-pyq": {"total": 11, "adequate": 2, "partial": 3, "uncovered": 6},
+        "karma-liberation-ethics": {"total": 22, "adequate": 11, "partial": 7, "uncovered": 4},
+        "transfer": {"total": 6, "adequate": 1, "partial": 1, "uncovered": 4},
+    }
+    if len(cells) != 94:
+        fail(errors, "TEST_MATRIX_CELL_COUNT", f"Expected frozen 94 cells, found {len(cells)}")
+    cell_ids = [cell.get("id") for cell in cells]
+    if len(set(cell_ids)) != len(cell_ids):
+        fail(errors, "TEST_MATRIX_DUPLICATE_CELL", "Cell IDs must be unique")
+    baseline = {status: sum(cell.get("baseline_status") == status for cell in cells)
+                for status in ("adequate", "partial", "uncovered")}
+    if baseline != {"adequate": 38, "partial": 20, "uncovered": 36}:
+        fail(errors, "TEST_MATRIX_BASELINE_TOTALS", json.dumps(baseline, sort_keys=True))
+    for category, expected in expected_categories.items():
+        rows = [cell for cell in cells if cell.get("category") == category]
+        actual = {"total": len(rows)}
+        actual.update({status: sum(cell.get("baseline_status") == status for cell in rows)
+                       for status in ("adequate", "partial", "uncovered")})
+        if actual != expected:
+            fail(errors, "TEST_MATRIX_CATEGORY_TOTALS", f"{category}: {actual}")
+    if matrix.get("frozen_audit", {}).get("category_totals") != expected_categories:
+        fail(errors, "TEST_MATRIX_DECLARED_TOTALS", "Frozen category totals differ")
+    expected_count = len(cells)
+    if len(q) != expected_count or len(s) != expected_count or ma.get("derivation", {}).get("question_count") != expected_count:
         fail(errors, "MCQ_COUNT_MISMATCH", f"questions={len(q)} solutions={len(s)}")
+    expected_numbers = list(range(1, expected_count + 1))
+    if sorted(q) != expected_numbers or sorted(s) != expected_numbers:
+        fail(errors, "MCQ_NONCONTIGUOUS_NUMBERING", f"questions={sorted(q)} solutions={sorted(s)}")
+    bank_questions = bank.get("questions", [])
+    bank_ids = [row.get("id") for row in bank_questions]
+    if len(bank_questions) != expected_count or len(set(bank_ids)) != len(bank_ids):
+        fail(errors, "MCQ_BANK_STRUCTURE", "Bank count or IDs do not match the matrix-derived count")
+    if ma.get("matrix_sha256") != sha(root / "TEST-MATRIX.json") or ma.get("bank_sha256") != sha(root / "MCQ-BANK.json"):
+        fail(errors, "MCQ_AUDIT_STALE", "Matrix or bank hash differs from MCQ audit")
+    mapped_cells = []
+    for cell in cells:
+        required = {
+            "category", "baseline_status", "source_evidence", "primary_discriminator",
+            "minimum_probes", "mapped_question", "semantic_assertions", "final_covered_status",
+        }
+        if not required.issubset(cell) or cell.get("final_covered_status") != "covered":
+            fail(errors, "TEST_MATRIX_CELL_INCOMPLETE", cell.get("id", "unknown"))
+        qid = cell.get("mapped_question")
+        mapping = mappings.get(qid)
+        if not mapping:
+            fail(errors, "MCQ_FALSE_MAPPING", f"{cell.get('id')} -> {qid}")
+            continue
+        mapping_cells = mapping.get("cell_ids", [])
+        mapped_cells.extend(mapping_cells)
+        if mapping.get("mapping_type") != "primary_single_cell" or len(mapping_cells) != 1:
+            fail(errors, "MCQ_OVERLOADED_MAPPING", qid)
+        if mapping_cells != [cell.get("id")]:
+            fail(errors, "MCQ_FALSE_MAPPING", f"{cell.get('id')} -> {qid}")
+        try:
+            number = int(qid[1:])
+            row = s[number]
+            correct = row["answer"]
+            evidence = " ".join([
+                row["title"], row["stem"], row["options"].get(correct, ""),
+                row["explanations"].get(correct, ""),
+            ]).casefold()
+            for assertion in cell.get("semantic_assertions", []):
+                if assertion.casefold() not in evidence:
+                    fail(errors, "MCQ_PRIMARY_EVIDENCE_MISSING", f"{cell.get('id')}:{qid}")
+        except Exception:
+            fail(errors, "MCQ_FALSE_MAPPING", f"{cell.get('id')} -> {qid}")
+    if len(mapped_cells) != len(set(mapped_cells)) or set(mapped_cells) != set(cell_ids):
+        fail(errors, "MCQ_REDUNDANT_MAPPING", "Cells must be mapped exactly once")
+    if set(mappings) != {f"Q{i:03d}" for i in expected_numbers}:
+        fail(errors, "MCQ_UNMAPPED_QUESTION", "Every question must have exactly one matrix mapping")
     seq = []
     for num in sorted(q):
         if num not in s or q[num]["options"] != s[num]["options"]:
@@ -216,7 +427,7 @@ def run(root: Path, release: bool) -> dict:
             continue
         if set(s[num]["explanations"]) != set("ABCD"):
             fail(errors, "MCQ_EXPLANATION_SYNC", str(num))
-        if s[num]["answer"] not in "ABCD":
+        if s[num]["answer"] not in set("ABCD"):
             fail(errors, "MCQ_ANSWER_MISSING", str(num))
         else:
             correct_explanations = [
@@ -231,7 +442,7 @@ def run(root: Path, release: bool) -> dict:
     actual_counts = {letter: seq.count(letter) for letter in "ABCD"}
     if actual_counts != ma.get("answer_counts"):
         fail(errors, "MCQ_AUDIT_COUNTS_MISMATCH", json.dumps(actual_counts, sort_keys=True))
-    if any(count < 6 or count > 10 for count in actual_counts.values()):
+    if max(actual_counts.values()) - min(actual_counts.values()) > 2:
         fail(errors, "MCQ_POSITION_IMBALANCE", json.dumps(actual_counts, sort_keys=True))
     longest = max((len(x.group(0)) for x in re.finditer(r"(.)\1*", "".join(seq))), default=0)
     if longest > 3 or len(set(seq)) < 4:
@@ -241,9 +452,55 @@ def run(root: Path, release: bool) -> dict:
     cycle = has_predictable_cycle("".join(seq))
     if cycle or ma.get("position_policy", {}).get("predictable_cycle_detected") is not False:
         fail(errors, "MCQ_PREDICTABLE_CYCLE", "".join(seq))
-    if ma.get("cue_metrics", {}).get("template_filler_count") != 0:
-        fail(errors, "MCQ_TEMPLATE_CUE", "Template filler detected")
+    cue_metrics = recompute_cue_metrics(s)
+    audited_cues = ma.get("cue_metrics", {})
+    if cue_metrics != audited_cues:
+        fail(errors, "MCQ_AUDIT_CUE_MISMATCH", "Rendered option metrics differ from MCQ-AUDIT.json")
+    noncompetitive = [
+        row for row in cue_metrics["per_item_records"]
+        if any(flag.startswith(("extreme_short_distractor_", "noncompetitive_phrase_"))
+               for flag in row["flags"])
+    ]
+    if noncompetitive:
+        fail(errors, "MCQ_NONCOMPETITIVE_DISTRACTOR", json.dumps(noncompetitive, ensure_ascii=False))
+    length_outliers = [
+        row for row in cue_metrics["per_item_records"]
+        if any(flag in {"correct_length_advantage", "excessive_visible_spread",
+                        "terminal_punctuation_mismatch", "initial_letter_case_mismatch"}
+               for flag in row["flags"])
+    ]
+    if length_outliers:
+        fail(errors, "MCQ_OPTION_LENGTH_CUE", json.dumps(length_outliers, ensure_ascii=False))
+    if (cue_metrics["aggregate_correct_to_distractor_ratio"]
+            > MCQ_CUE_POLICY["aggregate_correct_to_distractor_ratio_max"]):
+        fail(
+            errors,
+            "MCQ_OPTION_AGGREGATE_CUE",
+            str(cue_metrics["aggregate_correct_to_distractor_ratio"]),
+        )
+    if cue_metrics["grammar_parallel_review"] != "passed_computed_surface_checks":
+        fail(errors, "MCQ_GRAMMAR_PARALLEL_REVIEW", cue_metrics["grammar_parallel_review"])
+    checks["mcq_cue_metrics"] = {
+        key: value for key, value in cue_metrics.items() if key != "per_item_records"
+    }
     checks["mcqs"] = len(q)
+    checks["test_matrix_cells"] = len(cells)
+    checks["baseline_cells"] = baseline
+    checks["matrix_categories"] = expected_categories
+
+    learner_contract_surfaces = {
+        name: (root / name).read_text(encoding="utf-8")
+        for name in ("README.md", "REVISION-GUIDE.md", "COVERAGE-LEDGER.md",
+                     "MCQ-QUESTIONS.md", "MCQ-SOLUTIONS.md")
+    }
+    legacy_pattern = re.compile(r"(?:exact(?:ly)?\s+32|16\s*(?:×|x)\s*2|24\s*(?:\+|core plus)\s*8)", re.I)
+    for name, text in learner_contract_surfaces.items():
+        offending = [
+            line for line in text.splitlines()
+            if legacy_pattern.search(line) and "historical" not in line.lower()
+        ]
+        if offending:
+            fail(errors, "LEGACY_FIXED_COUNT_CONTRACT", f"{name}: {offending[0]}")
 
     pa = json.loads((root / "PYQ-DEMAND-AUDIT.json").read_text(encoding="utf-8"))
     if pa.get("actual_total") != 10 or len(pa.get("questions", [])) != 10:
@@ -297,29 +554,32 @@ def run(root: Path, release: bool) -> dict:
         fail(errors, "MAINS_MODEL_COUNT", f"Expected 17 timed models (10 primary + 1 supporting + 6 original), found {models}")
     checks["timed_models_including_mirror"] = models
 
-    manifest = json.loads((root / "PDF-MANIFEST.json").read_text(encoding="utf-8"))
-    for row in manifest.get("artifacts", []):
-        src, pdf = root / row["source"], root / row["file"]
-        if not src.is_file() or not pdf.is_file():
-            fail(errors, "PDF_MISSING", row.get("file", ""))
-            continue
-        reader = PdfReader(str(pdf))
-        if sha(src) != row.get("source_sha256") or sha(pdf) != row.get("pdf_sha256"):
-            fail(errors, "STALE_PDF_OR_MANIFEST", row["file"])
-        if len(reader.pages) != row.get("pages") or len(reader.pages) < 1:
-            fail(errors, "PDF_PAGE_COUNT", row["file"])
-        meta = reader.metadata or {}
-        if row["source_sha256"] not in str(meta.get("/Subject", "")):
-            fail(errors, "PDF_SOURCE_METADATA", row["file"])
-        for i, page in enumerate(reader.pages):
-            box = page.mediabox
-            if float(box.width) <= 0 or float(box.height) <= 0:
-                fail(errors, "PDF_INVALID_PAGE", f"{row['file']}:{i+1}")
-            if not (page.extract_text() or "").strip():
-                fail(errors, "PDF_EMPTY_PAGE", f"{row['file']}:{i+1}")
-    if len(manifest.get("artifacts", [])) != 4:
-        fail(errors, "PDF_COUNT", str(len(manifest.get("artifacts", []))))
-    checks["pdfs"] = len(manifest.get("artifacts", []))
+    if validate_pdfs:
+        from pypdf import PdfReader
+
+        manifest = json.loads((root / "PDF-MANIFEST.json").read_text(encoding="utf-8"))
+        for row in manifest.get("artifacts", []):
+            src, pdf = root / row["source"], root / row["file"]
+            if not src.is_file() or not pdf.is_file():
+                fail(errors, "PDF_MISSING", row.get("file", ""))
+                continue
+            reader = PdfReader(str(pdf))
+            if sha(src) != row.get("source_sha256") or sha(pdf) != row.get("pdf_sha256"):
+                fail(errors, "STALE_PDF_OR_MANIFEST", row["file"])
+            if len(reader.pages) != row.get("pages") or len(reader.pages) < 1:
+                fail(errors, "PDF_PAGE_COUNT", row["file"])
+            meta = reader.metadata or {}
+            if row["source_sha256"] not in str(meta.get("/Subject", "")):
+                fail(errors, "PDF_SOURCE_METADATA", row["file"])
+            for i, page in enumerate(reader.pages):
+                box = page.mediabox
+                if float(box.width) <= 0 or float(box.height) <= 0:
+                    fail(errors, "PDF_INVALID_PAGE", f"{row['file']}:{i+1}")
+                if not (page.extract_text() or "").strip():
+                    fail(errors, "PDF_EMPTY_PAGE", f"{row['file']}:{i+1}")
+        if len(manifest.get("artifacts", [])) != 4:
+            fail(errors, "PDF_COUNT", str(len(manifest.get("artifacts", []))))
+        checks["pdfs"] = len(manifest.get("artifacts", []))
 
     caches = list(root.rglob("__pycache__")) + list(root.rglob("*.pyc"))
     if caches:
@@ -328,13 +588,36 @@ def run(root: Path, release: bool) -> dict:
         try:
             repo = Path(subprocess.check_output(["git", "-C", str(root), "rev-parse", "--show-toplevel"], text=True).strip())
             relroot = root.relative_to(repo)
-            staged = set(subprocess.check_output(["git", "-C", str(repo), "diff", "--cached", "--name-only"], text=True).splitlines())
-            missing = [str((relroot / rel).as_posix()) for rel in REQUIRED if str((relroot / rel).as_posix()) not in staged]
-            if missing:
-                fail(errors, "GIT_RELEASE_NOT_STAGED", f"{len(missing)} required artifacts are not staged")
-            for rel in REQUIRED:
+            package_path = relroot.as_posix()
+            status = subprocess.check_output(
+                [
+                    "git", "-C", str(repo), "status", "--porcelain=v1",
+                    "--untracked-files=all", "--", package_path,
+                ],
+                text=True,
+            ).splitlines()
+            pending = []
+            for line in status:
+                if len(line) < 4:
+                    continue
+                index_state, worktree_state = line[0], line[1]
+                if index_state == "?" or worktree_state not in {" ", "!"}:
+                    pending.append(line[3:])
+            if pending:
+                fail(
+                    errors,
+                    "GIT_PACKAGE_UNSTAGED",
+                    json.dumps(sorted(pending), ensure_ascii=False),
+                )
+            for rel in required_files:
                 rp = str((relroot / rel).as_posix())
-                if rp not in staged:
+                tracked = subprocess.run(
+                    ["git", "-C", str(repo), "ls-files", "--error-unmatch", "--", rp],
+                    text=True,
+                    capture_output=True,
+                )
+                if tracked.returncode != 0:
+                    fail(errors, "GIT_REQUIRED_NOT_TRACKED", rp)
                     continue
                 staged_oid = subprocess.check_output(
                     ["git", "-C", str(repo), "rev-parse", f":{rp}"],
@@ -353,6 +636,8 @@ def run(root: Path, release: bool) -> dict:
                 ).strip()
                 if staged_oid != working_oid:
                     fail(errors, "GIT_STAGED_CONTENT_STALE", rp)
+            checks["git_required_tracked"] = len(required_files)
+            checks["git_pending_unstaged_package_files"] = len(pending)
         except Exception as exc:
             fail(errors, "GIT_RELEASE_CHECK_FAILED", str(exc))
     return report(root, release, checks, errors)
@@ -371,8 +656,13 @@ def main() -> int:
     ap.add_argument("--root", type=Path, default=HERE)
     ap.add_argument("--release", action="store_true")
     ap.add_argument("--check-only", action="store_true")
+    ap.add_argument(
+        "--validate-pdfs",
+        action="store_true",
+        help="Opt in to validating legacy PDF artifacts and PDF-MANIFEST.json.",
+    )
     args = ap.parse_args()
-    result = run(args.root.resolve(), args.release)
+    result = run(args.root.resolve(), args.release, args.validate_pdfs)
     if not args.release and not args.check_only:
         (args.root / "VALIDATION.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(result, ensure_ascii=False, indent=2))

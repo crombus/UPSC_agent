@@ -1,428 +1,1228 @@
 # Jainism — MCQ Questions
 
 > **Deterministic randomization seed:** `8560500507743229150`.
-> **Coverage derivation:** 16 examinable dimensions × 2 probes (core discrimination + trap/application) = **32 questions**. The dimensions are textual identity; real/change; substance-quality-mode; six substances; soul; matter; epistemic classification; five knowledges; anekāntavāda; nayavāda; syādvāda; saptabhaṅgī; objections; material karma; bondage mechanics; liberation/ethics.
+> **Coverage derivation:** `94` frozen atomic test cells map one-to-one to `94` distinct authored questions. The total is derived from `TEST-MATRIX.json`, not from a round or inherited template count.
 
 Attempt all questions before opening the solutions.
 
-<a id="mcq-01"></a>
-## MCQ 1. The systematic anchor of Jaina philosophy
+<a id="mcq-001"></a>
+## MCQ 1. Tirthankara lineage
 
-With reference to the *Tattvārthasūtra*, consider the following statements.
+Which statement best represents the Jaina tirthankara tradition?
 
-1. It is ascribed to Umāsvāti in Śvetāmbara usage and to Umāsvāmī in Digambara usage.
-2. Its authority is confined to one of the two major traditions, which is why sectarian canons differ.
-3. It states the path to liberation through right vision, right knowledge and right conduct together.
+A. It recognizes ten prophetic teachers, all contemporaries of Mahavira.
 
-Which of the statements given above are correct?
+B. It identifies every liberated soul as a tirthankara during embodied life.
 
-A. 1, 2 and 3
+C. It treats Mahavira as the creator and sole founder of Jainism.
 
-B. 1 and 3 only
+D. It recognizes twenty-four ford-makers, with Rishabha first and Mahavira twenty-fourth.
 
-C. 2 and 3 only
+<a id="mcq-002"></a>
+## MCQ 2. Mahavira context
 
-D. 1 and 2 only
+Mahavira is most accurately situated as
 
-<a id="mcq-02"></a>
-## MCQ 2. What the title-words of the tradition actually mean
+A. a Buddhist philosopher who defended momentariness and denied enduring selves.
 
-In Jaina usage, the terms *jina* and *tīrthaṅkara* respectively designate
+B. the first tirthankara who originated Jainism without any predecessor.
 
-A. one who has conquered the passions and karmic bondage, and a liberated teacher who re-establishes the crossing over rebirth
+C. the twenty-fourth tirthankara who systematized an already existing śramaṇa tradition.
 
-B. the first teacher of the present cycle alone, and any monk who has completed the five great vows under supervision
+D. a Vedic ritualist who established the principal Upanishadic teaching lineages.
 
-C. the creator of the ordered cosmos, and the divine agent who allots merit and demerit to embodied beings at each rebirth
+<a id="mcq-003"></a>
+## MCQ 3. Non-creator cosmos
 
-D. a soul that has suppressed delusion temporarily, and a householder who has taken the lesser vows before ordination
+How does Jainism combine a non-created cosmos with reverence for perfected teachers?
 
-<a id="mcq-03"></a>
-## MCQ 3. The definition of the real
+A. A beginningless cosmos is disclosed, not created, by perfected tirthankaras.
 
-In the Jaina formula *utpāda-vyaya-dhrauvya-yuktaṃ sat*, the real is characterised by
+B. Tirthankaras periodically create the cosmos after each universal dissolution.
 
-A. origination alone, since a thing is nothing more than the series of its successive productions
+C. Liberated siddhas administer karmic rewards within an otherwise uncreated universe.
 
-B. origination, decay and persistence taken together, in one and the same real
+D. A timeless creator produces matter while tirthankaras govern individual souls.
 
-C. persistence alone, since change belongs only to appearance and never to the substance itself
+<a id="mcq-004"></a>
+## MCQ 4. Śramaṇa orientation
 
-D. decay alone, since every determinate thing is defined by the moment at which it ceases
+The śramaṇa setting of Jainism most directly highlights
 
-<a id="mcq-04"></a>
-## MCQ 4. Substance, quality and mode
+A. renunciation, karmic discipline and liberation outside Vedic sacrificial authority.
 
-Which statement correctly states the relation among substance (*dravya*), quality (*guṇa*) and mode (*paryāya*)?
+B. denial of rebirth, ascetic discipline and morally consequential action.
 
-A. Substance is an inference from modes alone, since qualities are conventional descriptions with no bearer
+C. hereditary priesthood, sacrificial correctness and salvation through Vedic revelation.
 
-B. Quality and mode are two names for the same changing state, distinguished only by the standpoint of the observer
+D. exclusive devotion to a creator whose grace cancels accumulated karmic matter.
 
-C. Quality is the abiding characteristic of a persisting substance, while mode is the changing state in which it appears
+<a id="mcq-005"></a>
+## MCQ 5. Three jewels overview
 
-D. Mode is the abiding characteristic of a substance, while quality is the momentary state it currently exhibits
+Which triad constitutes the ratnatraya?
 
-<a id="mcq-05"></a>
-## MCQ 5. Substances and extended substances
+A. Right sacrifice, right lineage and right knowledge of revelation.
 
-Which one of the following is a real substance (*dravya*) in mainstream Jaina exposition but **not** an extended substance (*astikāya*)?
+B. Right livelihood, right mindfulness and right concentration as the complete triad.
 
-A. Time (*kāla*)
+C. Right faith, right knowledge and right conduct.
 
-B. Medium of rest (*adharma*)
+D. Right perception, divine grace and purity achieved through ritual.
 
-C. Matter (*pudgala*)
+<a id="mcq-006"></a>
+## MCQ 6. Teacher versus deity
 
-D. Space (*ākāśa*)
+A siddha differs from a creator-god because a siddha
 
-<a id="mcq-06"></a>
-## MCQ 6. Two substances with misleading names
+A. allocates karmic fruits to embodied souls through perfect personal judgement.
 
-In Jaina ontology, *dharma-dravya* and *adharma-dravya* respectively signify
+B. remains embodied at the cosmic summit to supervise moral causation.
 
-A. the medium that makes motion possible and the medium that makes rest possible for souls and matter
+C. is a liberated perfected soul without cosmic creation or governance functions.
 
-B. accumulated merit and accumulated demerit, which jointly determine the quality of the next embodiment
+D. creates matter and space while leaving individual souls uncreated.
 
-C. right conduct and wrong conduct, understood as the two moral orientations available to an embodied soul
+<a id="mcq-007"></a>
+## MCQ 7. Six dravyas
 
-D. the ordering principle of the cosmos and the disordering principle that produces decay within it
+Which list gives exactly the six Jaina substances?
 
-<a id="mcq-07"></a>
-## MCQ 7. The Jaina conception of the soul
+A. Jīva, prakṛti, puruṣa, direction, space and time.
 
-Which statement best expresses the Jaina conception of the soul (*jīva*)?
+B. Jīva, pudgala, dharma, adharma, ākāśa and kāla.
 
-A. It is one universal consciousness that appears as many only through the beginningless operation of ignorance
+C. Jīva, pudgala, quality, mode, karma and liberation.
 
-B. It is a stream of momentary cognitions with no bearer, so that personal identity is a useful conventional fiction
+D. Earth, water, fire, air, ether and individual self.
 
-C. It is an eternal substance that becomes conscious only when the internal organ is conjoined with it in embodiment
+<a id="mcq-008"></a>
+## MCQ 8. Jiva and ajiva
 
-D. It is one of innumerable distinct substances, intrinsically endowed with infinite knowledge, perception, bliss and power
+The basic jīva–ajīva division distinguishes
 
-<a id="mcq-08"></a>
-## MCQ 8. What is distinctive about matter
+A. momentary mental events from an unchanging but empty cosmic container.
 
-Which feature uniquely marks matter (*pudgala*) among the six substances?
+B. permanent material substance from consciousness that is ultimately unreal.
 
-A. It alone possesses form, that is colour, taste, smell and touch, and is therefore sense-perceptible
+C. one creator-self from the many dependent souls it brings into existence.
 
-B. It alone undergoes origination and decay, the remaining substances being exempt from modal change
+D. conscious substance from the five non-conscious kinds of substance.
 
-C. It alone lacks space-points, which is why it can be divided indefinitely without any residue remaining
+<a id="mcq-009"></a>
+## MCQ 9. Five astikayas
 
-D. It alone is co-extensive with world-space and therefore accommodates every other substance within it
+Why are there five astikāyas although there are six dravyas?
 
-<a id="mcq-09"></a>
-## MCQ 9. Ordinary perception in the strict Jaina classification
+A. Kāla is a dravya but lacks the extension required of an astikāya.
 
-In the strict Jaina epistemological classification, ordinary sensory cognition is
+B. Ākāśa is merely a quality and therefore cannot count as substance.
 
-A. a species of scriptural knowledge, since every perceptual judgement is already structured by inherited verbal categories
+C. Jīva lacks extension and is therefore excluded from the astikāyas.
 
-B. only conventional direct knowledge, and strictly belongs with mediated cognition because it depends on sense and mind
+D. Pudgala lacks spatial units despite forming atoms and material aggregates.
 
-C. invalid cognition, because the senses are themselves products of karmic matter and therefore systematically deceive
+<a id="mcq-010"></a>
+## MCQ 10. Role of kala
 
-D. direct knowledge in the fullest sense, since sense-contact provides the clearest access available to an embodied knower
+In Jaina ontology, kāla primarily accounts for
 
-<a id="mcq-10"></a>
-## MCQ 10. Classifying the five kinds of knowledge
+A. the moral direction and deserved result of every voluntary action.
 
-Which pair is correctly classified as indirect (*parokṣa*) in the basic fivefold scheme of knowledge?
+B. the accommodation of liberated souls in a realm beyond all space.
 
-A. Sense-and-mind cognition and clairvoyant knowledge
+C. the active propulsion that initiates movement in bodies and atoms.
 
-B. Sense-and-mind cognition and verbal or scriptural knowledge
+D. succession, duration and change without itself being an astikāya.
 
-C. Knowledge of others' mental modes and omniscience
+<a id="mcq-011"></a>
+## MCQ 11. Akasa division
 
-D. Clairvoyant knowledge and knowledge of others' mental modes
+Which relation among ākāśa, lokākāśa and alokākāśa is correct?
 
-<a id="mcq-11"></a>
-## MCQ 11. The order of the five kinds of knowledge
+A. Alokākāśa contains motion and matter, while lokākāśa contains only liberated siddhas.
 
-Which sequence correctly states the five kinds of Jaina knowledge in ascending order?
+B. Ākāśa is time, lokākāśa material substance, and alokākāśa final liberation itself.
 
-A. Avadhi, manaḥparyāya, mati, śruta, kevala
+C. Ākāśa is space; lokākāśa is the inhabited cosmic region, while alokākāśa is empty space beyond it.
 
-B. Śruta, mati, avadhi, kevala, manaḥparyāya
+D. Lokākāśa alone is genuine space, whereas alokākāśa is absolute non-being.
 
-C. Mati, śruta, avadhi, manaḥparyāya, kevala
+<a id="mcq-012"></a>
+## MCQ 12. Pudgala structure
 
-D. Mati, avadhi, śruta, manaḥparyāya, kevala
+Pudgala is best understood as
 
-<a id="mcq-12"></a>
-## MCQ 12. Jaina causation
+A. material substance ranging from atoms to aggregates and capable of sensory qualities.
 
-The Jaina account of causation is best described as
+B. the passive medium enabling movement without itself being moving matter.
 
-A. dependent origination without any substrate, since causal regularity is all that causal talk records
+C. a non-spatial stream of mental events generated by embodied cognition.
 
-B. both-existence-and-non-existence of the effect, since the effect pre-exists as substance and is new as mode
+D. an eternal intelligent creator whose transformations become finite individual souls.
 
-C. fresh production of the effect without qualification, since the effect is entirely absent before its production
+<a id="mcq-013"></a>
+## MCQ 13. Sound and matter
 
-D. pre-existence of the effect without qualification, since nothing genuinely new can ever be produced
+Why is sound classified under pudgala in Jainism?
 
-<a id="mcq-13"></a>
-## MCQ 13. What many-sidedness asserts
+A. Sound is an eternal quality inhering in a permanent cosmic creator.
 
-The doctrine of many-sidedness (*anekāntavāda*) primarily asserts that
+B. Sound is treated as a material modification propagated through material aggregates.
 
-A. reality is unknowable in itself, so that every description reports only the classificatory habits of the describer
+C. Sound is identical with consciousness manifested by every embodied jīva.
 
-B. contradictory properties genuinely belong to one thing at one time and in one and the same respect
+D. Sound belongs exclusively to alokākāśa and cannot propagate through matter.
 
-C. all judgements are equally true, since standpoints cannot be ranked and disagreement is therefore merely apparent
+<a id="mcq-014"></a>
+## MCQ 14. Substance quality mode
 
-D. the real object possesses innumerable aspects, so no single unqualified proposition exhausts it
+The relation of dravya, guṇa and paryāya is that
 
-<a id="mcq-14"></a>
-## MCQ 14. Three doctrines, three levels
+A. substance remains permanent because it undergoes no change in any respect.
 
-Which formulation correctly distinguishes the three doctrines?
+B. each changing mode becomes a numerically new substance without continuity.
 
-A. Many-sidedness is logical, standpoint theory is ethical, and conditional predication is the metaphysical basis of the other two
+C. qualities alone are real, while substances are convenient verbal constructions.
 
-B. Many-sidedness and conditional predication are identical, while standpoint theory is a later scholastic elaboration of both
+D. a substance has enduring qualities while undergoing changing modes.
 
-C. Many-sidedness is metaphysical, standpoint theory is epistemic, and conditional predication is the logical-linguistic form of assertion
+<a id="mcq-015"></a>
+## MCQ 15. Real as permanence and change
 
-D. Standpoint theory is metaphysical, conditional predication is epistemic, and many-sidedness is a rule of monastic debate
+The Jaina definition of the real accommodates
 
-<a id="mcq-15"></a>
-## MCQ 15. The first of the seven standpoints
+A. origination, cessation and persistence in different respects.
 
-Which one of the following is the first member of the classical list of seven standpoints (*naya*)?
+B. absolute permanence without origination, cessation or modal alteration.
 
-A. *Saṃgraha naya*, the generic standpoint attending to shared class-character
+C. momentary origination and destruction without any persisting substantial basis.
 
-B. *Evambhūta naya*, the standpoint on which a term applies only during actual function
+D. neither persistence nor change because both arise from conceptual projection.
 
-C. *Ṛjusūtra naya*, the standpoint restricted to the thing in its present state
+<a id="mcq-016"></a>
+## MCQ 16. Dharma medium
 
-D. *Naigama naya*, the mixed practical or purposive standpoint
+Dharma-dravya is
 
-<a id="mcq-16"></a>
-## MCQ 16. Matching a standpoint with its emphasis
+A. a creator's normative law governing conduct, judgement and final liberation.
 
-Which pairing of a standpoint with its characteristic emphasis is correct?
+B. the accumulated moral merit that determines a soul's fortunate rebirth.
 
-A. *Evambhūta naya* — the term applies only while the named function is being performed
+C. an efficient force that physically pushes atoms and bodies through space.
 
-B. *Vyavahāra naya* — the etymological differentiation of synonymous words
+D. the passive medium of motion, neither moral merit nor a propelling force.
 
-C. *Śabda naya* — the class-character shared by every member of a kind
+<a id="mcq-017"></a>
+## MCQ 17. Adharma medium
 
-D. *Saṃgraha naya* — the thing considered strictly as it is at the present moment
+Adharma-dravya is
 
-<a id="mcq-17"></a>
-## MCQ 17. What the particle *syāt* contributes
+A. the passive medium that makes rest possible, not sin or an active brake.
 
-In the doctrine of conditional predication, the particle *syāt* is best rendered as
+B. the demerit that mechanically punishes a soul through painful rebirth.
 
-A. "probably", marking that the assertion is likely but not certain on the evidence available to the speaker
+C. the complete absence of every substance throughout empty alokākāśa.
 
-B. "apparently", marking that the assertion holds for appearances although the thing in itself is unknown
+D. an active force that arrests every moving object within the cosmos.
 
-C. "let it be granted", marking a provisional concession made only for the purposes of a formal debate
+<a id="mcq-018"></a>
+## MCQ 18. Soul embodiment
 
-D. "in a certain respect", marking a definite assertion restricted by substance, place, time and mode
+How can an immaterial jīva be described as coextensive with its body?
 
-<a id="mcq-18"></a>
-## MCQ 18. The fourth of the seven predications
+A. At death the material body expands through lokākāśa into empty alokākāśa.
 
-In the sevenfold predication (*saptabhaṅgī*), the fourth member is
+B. The soul is nothing beyond the body's organized material atoms.
 
-A. *syād asti ca nāsti ca*, in some respect it is and it is not
+C. In bondage its consciousness occupies the body’s spatial extent without becoming material pudgala.
 
-B. *syān nāsti*, in some respect it is not
+D. Every soul possesses one fixed physical size throughout all embodiments.
 
-C. *syād avaktavyam*, in some respect it is inexpressible
+<a id="mcq-019"></a>
+## MCQ 19. Pluralist realist verdict 2025
 
-D. *syād asti ca avaktavyam*, in some respect it is and is inexpressible
+A defensible response to the 2025 pluralist-realism question is that Jainism is
 
-<a id="mcq-19"></a>
-## MCQ 19. The meaning of inexpressibility
+A. objective plural realism disciplined by conditional, many-sided assertion.
 
-In the sevenfold predication, *avaktavya* chiefly signifies that
+B. predicate nihilism because no determinate statement applies to any object.
 
-A. the proposition takes a third truth-value lying between plain truth and plain falsity
+C. consciousness monism because all substances reduce to one universal jīva.
 
-B. the object in question lies wholly beyond language and can be approached only in silence
+D. subjective anti-realism because each standpoint creates its own private object.
 
-C. a single unqualified expression cannot convey affirmation and negation simultaneously
+<a id="mcq-020"></a>
+## MCQ 20. Pramana and jnana
 
-D. the speaker suspends judgement because the available evidence is insufficient for assertion
+In the Jaina framework, pramāṇa is most closely connected with
 
-<a id="mcq-20"></a>
-## MCQ 20. Why no contradiction arises
+A. ritual injunction validated exclusively by the authorless authority of the Veda.
 
-The Jaina claim that "in some respect the jar is and is not" escapes formal contradiction because
+B. an infallible decree communicated to finite knowers by a creator deity.
 
-A. the law of non-contradiction is denied outright, and Jaina logic replaces it with a rule of graded assertion
+C. skeptical suspension that withholds assent from every possible object-judgement.
 
-B. one of the two predications is always merely conventional and is finally cancelled by the other
+D. valid object-apprehending cognition, classified by its mode and range.
 
-C. affirmation is literal while negation is figurative, so the two predicates never occupy the same logical plane
+<a id="mcq-021"></a>
+## MCQ 21. Mati stages
 
-D. affirmation and negation are indexed to different substance, place, time or mode, so the respects differ
+Which sequence best represents the progressive stages of mati-jñāna?
 
-<a id="mcq-21"></a>
-## MCQ 21. The self-refutation objection
+A. Affirmation, negation, inexpressibility and silence regarding the same object.
 
-The standard self-refutation objection against many-sidedness argues that
+B. Apprehension, inquiry, determination and retention.
 
-A. the doctrine presupposes a creator who guarantees that the many aspects of a thing form a coherent whole
+C. Revelation, doubt, omniscience and complete liberation from embodied existence.
 
-B. if every assertion must be qualified then the doctrine itself must be qualified, and it then loses universal force
+D. Perception, ritual performance, divine grace and recollection of previous births.
 
-C. the doctrine cannot explain how a single soul is reborn while remaining numerically the same individual
+<a id="mcq-022"></a>
+## MCQ 22. Sruta dependence
 
-D. the seven predications are too few, since the number of aspects in a real thing is admittedly innumerable
+Śruta-jñāna is distinctive because it
 
-<a id="mcq-22"></a>
-## MCQ 22. The 2022 absolutism charge
+A. is mediated by signs, words or testimony and depends upon prior mati cognition.
 
-Which is the strongest Jaina reply to the claim that non-absolutism cannot be sustained without postulating absolutism?
+B. directly apprehends another person's mental modes without verbal signs.
 
-A. Non-absolutism is a purely practical maxim of debate and therefore makes no claim about reality that could be absolute
+C. directly perceives distant material objects beyond the ordinary sensory range.
 
-B. Non-absolutism concerns only religious language, so the objection misapplies a logical test to a devotional context
+D. is direct omniscience arising without linguistic or cognitive mediation.
 
-C. Non-absolutism denies one-sided exclusivism by finite knowers, while omniscience remains the internal case of complete knowledge
+<a id="mcq-023"></a>
+## MCQ 23. Avadhi cognition
 
-D. Non-absolutism is asserted absolutely, and the resulting exception is accepted as the necessary cost of any general theory
+Avadhi-jñāna is
 
-<a id="mcq-23"></a>
-## MCQ 23. What is distinctive about Jaina action-matter
+A. verbal knowledge obtained from scripture and dependent upon ordinary cognition.
 
-Which statement best captures the Jaina conception of action and moral consequence (*karma*)?
+B. direct but limited cognition of material objects beyond ordinary sensory range.
 
-A. It is subtle matter that flows toward the soul and adheres to it, with passion determining the depth and duration of that adhesion
+C. unlimited omniscience of every substance and mode across all times.
 
-B. It is a mental impression left by volition, so that continuity of character is secured without any enduring bearer
+D. direct cognition of another person's present mental modifications.
 
-C. It is an unseen quality residing in the self that produces its result at the appointed time without material mediation
+<a id="mcq-024"></a>
+## MCQ 24. Manahparyaya cognition
 
-D. It is an unseen potency generated by ritual action alone, which links the act performed to the result eventually enjoyed
+Manaḥparyāya-jñāna refers to
 
-<a id="mcq-24"></a>
-## MCQ 24. Two forms of bondage
+A. unlimited knowledge of every object and mode across past, present and future.
 
-Which pair correctly distinguishes the two forms of bondage recognised by the Jainas?
+B. scriptural cognition acquired through words and dependent upon prior mati.
 
-A. Psychic bondage is the soul's own passionate modification, while material bondage is the actual adhesion of karmic particles
+C. direct cognition of the modes of another mind.
 
-B. Psychic bondage is the intention behind an act, while material bondage is the external act as observed by others
+D. ordinary inference from another person's speech, gesture and bodily expression.
 
-C. Psychic bondage is bondage to mental objects, while material bondage is bondage to physical objects such as wealth and body
+<a id="mcq-025"></a>
+## MCQ 25. Wrong cognition
 
-D. Psychic bondage occurs in ascetics who retain subtle pride, while material bondage occurs only in householders
+Mithyā-jñāna is best diagnosed as
 
-<a id="mcq-25"></a>
-## MCQ 25. The five causes of bondage
+A. cognition distorted by false orientation, so ethical-spiritual disposition affects epistemic status.
 
-Which set correctly gives the five causes of bondage recognised in Jaina soteriology?
+B. all cognition short of omniscience, even when it accurately grasps an aspect.
 
-A. Ignorance, craving, clinging, becoming and birth
+C. a merely verbal ambiguity carrying no ethical or soteriological consequence.
 
-B. Anger, pride, deceit, greed and delusion
+D. every sensory cognition, because material sense organs necessarily falsify objects.
 
-C. Influx, bondage, stoppage, shedding and liberation
+<a id="mcq-026"></a>
+## MCQ 26. Kevala cognition
 
-D. Wrong vision, non-restraint, carelessness, passions and activity
+Kevala-jñāna is
 
-<a id="mcq-26"></a>
-## MCQ 26. What determines what in bondage
+A. unobstructed, unlimited and direct knowledge attained when knowledge-obscuring karmas are destroyed.
 
-Which pairing of a bondage parameter with its principal determinant is correct?
+B. knowledge bestowed by a creator deity when the embodied soul dies.
 
-A. Duration is determined by activity, while type is determined by passion
+C. a comprehensive linguistic synthesis produced by mastery of all scriptures.
 
-B. Intensity is determined by activity, while quantity is determined by passion
+D. ordinary sensory perception sharpened through exceptionally refined physical instruments.
 
-C. Type is determined by wrong vision, while duration is determined by carelessness
+<a id="mcq-027"></a>
+## MCQ 27. Direct indirect inversion
 
-D. Type and quantity are determined by activity, while duration and intensity are determined by passion
+The Jaina direct–indirect classification is unusual because
 
-<a id="mcq-27"></a>
-## MCQ 27. Destructive and non-destructive karmas
+A. only scriptural testimony is direct, while every non-verbal cognition is indirect.
 
-Which set contains only destructive (*ghātiyā*) karmas?
+B. ordinary sense perception alone is direct, while omniscience remains inferential.
 
-A. Vedanīya, nāma, gotra and āyus
+C. all five kinds of knowledge are indirect because each concerns an object.
 
-B. Jñānāvaraṇīya, darśanāvaraṇīya, vedanīya and gotra
+D. mati and śruta are indirect, whereas avadhi, manaḥparyāya and kevala are direct.
 
-C. Jñānāvaraṇīya, darśanāvaraṇīya, mohanīya and antarāya
+<a id="mcq-028"></a>
+## MCQ 28. Five knowledges
 
-D. Mohanīya, antarāya, nāma and āyus
+Which list contains exactly the five principal kinds of Jaina knowledge?
 
-<a id="mcq-28"></a>
-## MCQ 28. Seven principles and nine categories
+A. Mati, śruta, avadhi, manaḥparyāya and kevala.
 
-The nine categories (*padārtha*) of Jaina exposition consist of
+B. Existence, non-existence, both, inexpressibility and doubt as five cognitions.
 
-A. the six substances together with influx, bondage and liberation, which complete the cosmology
+C. Faith, knowledge, conduct, austerity and liberation as successive cognitions.
 
-B. the seven principles together with substance and mode, which supply the ontological framework
+D. Perception, inference, comparison, testimony and postulation as independent instruments.
 
-C. the seven principles together with merit and demerit, which make moral valence explicit
+<a id="mcq-029"></a>
+## MCQ 29. Epistemic humility
 
-D. the seven principles together with right knowledge and right conduct, which complete the path
+Finite knowledge supports non-absolutism because
 
-<a id="mcq-29"></a>
-## MCQ 29. Stoppage and shedding
+A. contradictory predicates are unconditionally true of one object in one respect.
 
-Which statement correctly distinguishes stoppage (*saṃvara*) and shedding (*nirjarā*)?
+B. no finite or infinite cognition can validly apprehend any real object.
 
-A. Stoppage removes karma already bound, while shedding prevents new karma from being bound at all
+C. ordinary knowers apprehend limited aspects, whereas only kevala-jñāna is exhaustive.
 
-B. Stoppage blocks fresh influx of karmic matter, while shedding wears away karma already accumulated
+D. truth is created by each knower's preference rather than constrained by objects.
 
-C. Stoppage belongs to householders and shedding to ascetics, the two being stages of a single vow
+<a id="mcq-030"></a>
+## MCQ 30. Naya definition
 
-D. Stoppage and shedding are alternative names for the same disciplinary process, differing only by tradition
+A naya is
 
-<a id="mcq-30"></a>
-## MCQ 30. The eleventh stage of spiritual development
+A. an invalid inference produced whenever material senses contact an object.
 
-With reference to the fourteen stages, which statement is correct?
+B. a legitimate partial standpoint selecting one real aspect.
 
-A. The eleventh stage only suppresses delusion, so a soul reaching it by that ladder necessarily falls back
+C. a formal truth table whose validity is independent of real objects.
 
-B. The eleventh stage is the momentary activity-free condition immediately preceding the perfected state
+D. an exhaustive omniscient judgement comprehending every aspect simultaneously.
 
-C. The eleventh stage marks the attainment of right vision for the first time and is the decisive breakthrough
+<a id="mcq-031"></a>
+## MCQ 31. Samgraha naya
 
-D. The eleventh stage destroys delusion permanently and therefore leads directly to the twelfth and thirteenth stages
+Saṃgraha-naya emphasizes
 
-<a id="mcq-31"></a>
-## MCQ 31. Omniscience while embodied
+A. the momentary present mode considered apart from substantial continuity.
 
-The condition described as *sayoga-kevalī* is best characterised as
+B. the practical differentiation of concrete particulars for ordinary conduct.
 
-A. a soul that has suppressed all passions and awaits the fruition of its deluding karma before liberation
+C. the generic or class aspect shared by particulars.
 
-B. an omniscient being still embodied and active, whose destructive karmas are destroyed while non-destructive karmas remain
+D. the derivational specificity separating apparently synonymous expressions.
 
-C. a perfected soul at the summit of the world, disembodied and free from every trace of karmic matter
+<a id="mcq-032"></a>
+## MCQ 32. Vyavahara naya
 
-D. a householder who has taken the lesser vows and attained limited clairvoyant knowledge of material things
+Vyavahāra-naya approaches an object through
 
-<a id="mcq-32"></a>
-## MCQ 32. Voluntary passionless death
+A. its strict etymological root regardless of established conventional usage.
 
-Which statement about *sallekhanā* is doctrinally the safest to write in an examination?
+B. its highest generic class while suppressing all practical differentiation.
 
-A. It is a meritorious act of self-destruction that may be undertaken by any practitioner who wishes to shorten a difficult life
+C. its instantaneous present mode without reference to enduring substance.
 
-B. It is identical with suicide in every philosophically relevant respect, differing only in the vocabulary used to describe it
+D. its concrete, conventional and practically differentiated form.
 
-C. It has been conclusively settled in Indian law as a protected religious practice, so its legal status raises no further question
+<a id="mcq-033"></a>
+## MCQ 33. Rjusutra naya
 
-D. It is a gradual, supervised and passion-free relinquishment of food undertaken when death is already unavoidable or decline incurable
+Ṛjusūtra-naya focuses on
+
+A. the broad class-character shared by all members across temporal change.
+
+B. ordinary conventional synonymy among words used for practical communication.
+
+C. the object’s present mode rather than enduring continuity.
+
+D. every past, present and future mode grasped together as an exhaustive whole.
+
+<a id="mcq-034"></a>
+## MCQ 34. Sabda naya
+
+Śabda-naya primarily attends to
+
+A. the universal or generic feature common to all particular instances.
+
+B. the present temporal mode isolated from enduring substantial continuity.
+
+C. strict etymological differences that prevent conventional synonymy between words.
+
+D. ordinary linguistic usage and conventional equivalence.
+
+<a id="mcq-035"></a>
+## MCQ 35. Samabhirudha naya
+
+Samabhirūḍha-naya insists on
+
+A. treating conventional synonyms as interchangeable despite derivational differences.
+
+B. denying that words possess stable conventional or derivational meanings.
+
+C. reducing every concrete object to its highest generic class alone.
+
+D. fine distinctions among words according to derivational meanings.
+
+<a id="mcq-036"></a>
+## MCQ 36. Dravyarthika standpoint
+
+Dravyārthika nayas privilege
+
+A. inexpressibility treated as an independently existing ontological substance.
+
+B. the relatively enduring substance or general aspect.
+
+C. moral excellence alone, independently of substance, quality and mode.
+
+D. only fleeting modes considered without any enduring substantial continuity.
+
+<a id="mcq-037"></a>
+## MCQ 37. Paryayarthika standpoint
+
+Paryāyārthika nayas privilege
+
+A. changing modes and particularized expression.
+
+B. unchanging substance alone, excluding every real origination and cessation of modes.
+
+C. the impossibility of making any determinate predication about changing objects.
+
+D. universals created and sustained by an omniscient personal deity.
+
+<a id="mcq-038"></a>
+## MCQ 38. Nayabhasa
+
+A nayābhāsa arises when
+
+A. omniscience comprehends every aspect of an object without partiality.
+
+B. a partial standpoint explicitly remains qualified by its limited scope.
+
+C. different words preserve distinct conventional or derivational meanings.
+
+D. a partial standpoint is absolutized as the whole truth.
+
+<a id="mcq-039"></a>
+## MCQ 39. Syat indices
+
+The force of syāt is best captured by
+
+A. “from a specified respect,” indexed by substance, place, time or mode.
+
+B. “unconditionally,” allowing opposed predicates within one identical respect.
+
+C. “perhaps,” expressing uncertainty about whether any predicate is true.
+
+D. “never,” denying that a real predicate can apply under any condition.
+
+<a id="mcq-040"></a>
+## MCQ 40. Anekanta to syadvada
+
+Anekāntavāda and syādvāda relate because
+
+A. the two doctrines operate independently, without any ontological grounding relation.
+
+B. many-sided reality grounds conditionally qualified predication.
+
+C. linguistic conventions construct the many-sided reality to which they refer.
+
+D. both doctrines deny stable objects and reduce discourse to momentary signs.
+
+<a id="mcq-041"></a>
+## MCQ 41. First predication
+
+Syād asti means
+
+A. the object is solely inexpressible and cannot receive qualified affirmation.
+
+B. in some specified respect, the object is.
+
+C. the object never exists under any possible substance, place, time or mode.
+
+D. the object exists absolutely, independently of every time, place and mode.
+
+<a id="mcq-042"></a>
+## MCQ 42. Second predication
+
+Syān nāsti means
+
+A. negative judgement about a real object is impossible in every respect.
+
+B. the object both exists and does not exist in one identical respect.
+
+C. in some specified respect, the object is not.
+
+D. the object is absolute nothingness under every possible standpoint and index.
+
+<a id="mcq-043"></a>
+## MCQ 43. Third predication
+
+Syād asti nāsti means
+
+A. every distinction between affirmation and negation is ultimately unreal.
+
+B. the object is exclusively inexpressible and cannot be affirmed or denied.
+
+C. one predicate is simultaneously true and false under an identical index.
+
+D. it is under one index and is not under another.
+
+<a id="mcq-044"></a>
+## MCQ 44. Fourth predication
+
+Syād avaktavyaḥ means
+
+A. language can never refer successfully to any aspect of an objective reality.
+
+B. the object is inexpressible where opposed aspects cannot be jointly stated unqualifiedly.
+
+C. the object is wholly unknowable and cannot be apprehended from any standpoint.
+
+D. the speaker lacks evidence and therefore suspends all judgement about the object.
+
+<a id="mcq-045"></a>
+## MCQ 45. Fifth predication
+
+Syād asti avaktavyaḥ means
+
+A. it exists only as a subjective fiction generated by the speaker's standpoint.
+
+B. it exists absolutely, although every linguistic description necessarily fails.
+
+C. it does not exist under the relevant index but remains fully expressible.
+
+D. in some respect it is, and in some respect it is inexpressible.
+
+<a id="mcq-046"></a>
+## MCQ 46. Sixth predication
+
+Syān nāsti avaktavyaḥ means
+
+A. it both exists and does not exist simultaneously under one identical index.
+
+B. it is not under one index and is inexpressible under another.
+
+C. it is merely doubtful because available evidence supports no settled judgement.
+
+D. it exists absolutely but happens to remain unnamed in ordinary language.
+
+<a id="mcq-047"></a>
+## MCQ 47. Seventh predication
+
+Syād asti nāsti avaktavyaḥ means
+
+A. the object changes from real being into absolute non-being through speech.
+
+B. in different respects it is, is not and is inexpressible.
+
+C. nothing about the object can be known, asserted or denied in any respect.
+
+D. all three predicates hold unconditionally in the same respect and moment.
+
+<a id="mcq-048"></a>
+## MCQ 48. Complete pot application
+
+Which clay-pot application represents all seven forms?
+
+A. the pot is absolutely pot and non-pot simultaneously in the identical respect.
+
+B. all seven statements record private preferences without objective constraints.
+
+C. all seven qualified combinations applied to one pot under distinct indices.
+
+D. only qualified affirmation and qualified negation are needed for the pot.
+
+<a id="mcq-049"></a>
+## MCQ 49. Avaktavya precision
+
+Avaktavya differs from skepticism because it indicates
+
+A. permanent silence because every linguistic statement necessarily falsifies reality.
+
+B. complete ignorance of every aspect and property of the relevant object.
+
+C. a third ontological substance beyond conscious jīva and non-conscious ajīva.
+
+D. joint-expression difficulty, not ignorance or skeptical suspension.
+
+<a id="mcq-050"></a>
+## MCQ 50. Blind-men value
+
+The blind-men-and-elephant parable illustrates
+
+A. partial reports capturing aspects but failing as exhaustive accounts.
+
+B. the elephant has no objective existence beyond the observers' separate reports.
+
+C. every partial report is false because only exhaustive description can be true.
+
+D. standpoint indexing is unnecessary because all observers describe the same whole.
+
+<a id="mcq-051"></a>
+## MCQ 51. Blind-men limit
+
+A limitation of the blind-men analogy is that
+
+A. it presupposes a complete observer and underplays the ontology of modes.
+
+B. it proves conventional words have one invariant meaning in every context.
+
+C. it demonstrates that no whole exists beyond disconnected sensory impressions.
+
+D. it makes every partial observer omniscient about the elephant's complete nature.
+
+<a id="mcq-052"></a>
+## MCQ 52. Non-contradiction indexing
+
+Jainism preserves non-contradiction by requiring opposed predicates to
+
+A. refer exclusively to unreal objects lacking substance, qualities and changing modes.
+
+B. apply under different respects, times, places, substances or modes.
+
+C. remain arbitrary because conditionality removes every objective truth constraint.
+
+D. apply simultaneously under the identical substance, place, time and mode.
+
+<a id="mcq-053"></a>
+## MCQ 53. Truth versus relativism
+
+Syādvāda is not “anything goes” because
+
+A. each speaker constructs a private reality immune from factual correction.
+
+B. every assertion and its negation are equally true under one respect.
+
+C. claims remain constrained by the real object and specified respect.
+
+D. adding a qualification eliminates truth conditions rather than specifying them.
+
+<a id="mcq-054"></a>
+## MCQ 54. Standpoint versus predication
+
+Nayavāda and saptabhaṅgī differ because
+
+A. naya classifies standpoints, whereas saptabhaṅgī organizes seven predications.
+
+B. nayavāda concerns karmic influx, while saptabhaṅgī classifies ethical vows.
+
+C. nayavāda alone is omniscience, whereas saptabhaṅgī is ordinary perception.
+
+D. both enumerate the six substances constituting Jaina pluralist ontology.
+
+<a id="mcq-055"></a>
+## MCQ 55. Full 2026 linkage
+
+A complete 2026-style derivation is
+
+A. a partial naya directly yields an unqualified absolute assertion about reality.
+
+B. many-sided real → standpoint → conditional assertion → seven forms.
+
+C. inexpressibility entails skepticism, so no standpoint can disclose a real aspect.
+
+D. seven predications generate nihilism, which then requires a creator to restore order.
+
+<a id="mcq-056"></a>
+## MCQ 56. Self-refutation objection
+
+The self-refutation objection asks whether
+
+A. whether householders and ascetics may undertake vows of different strictness.
+
+B. whether time can remain real despite lacking the extension of an astikāya.
+
+C. whether universal conditionality is itself conditional or covertly absolute.
+
+D. whether material karma can produce both pleasant and painful embodied experience.
+
+<a id="mcq-057"></a>
+## MCQ 57. Conditional self-application reply
+
+The strongest Jaina reply is to
+
+A. dismiss the objection because no philosophical doctrine requires reflexive consistency.
+
+B. apply conditionality reflexively while distinguishing reality from finite formulations.
+
+C. declare one unqualified exception that makes non-absolutism absolutely true.
+
+D. accept every contradiction as true regardless of object, respect, time or mode.
+
+<a id="mcq-058"></a>
+## MCQ 58. Sankara objection
+
+A Śaṅkara-style criticism argues that
+
+A. liberation improperly depends upon grace from a personal creator deity.
+
+B. the doctrine denies all changing modes and therefore cannot explain experience.
+
+C. opposed predicates threaten determinate knowledge and non-contradiction.
+
+D. jainism recognizes too few atoms to explain the diversity of material aggregates.
+
+<a id="mcq-059"></a>
+## MCQ 59. Ramanuja opposed attributes
+
+A Rāmānuja-style objection stresses that
+
+A. scriptural testimony is the only valid cognition available to finite persons.
+
+B. opposed attributes cannot belong to one subject in the same respect.
+
+C. material atoms cannot combine because no external creator directs their conjunction.
+
+D. all plurality is empty because no enduring subject possesses any attribute.
+
+<a id="mcq-060"></a>
+## MCQ 60. Buddhist momentariness
+
+Compared with Buddhist momentariness and no-self, Jainism maintains
+
+A. one universal self whose apparent plurality results from ignorance alone.
+
+B. enduring plural selves and substances whose modes change.
+
+C. a conditioned stream of events without any enduring conscious jīva.
+
+D. only material atoms, with consciousness reducible to bodily organization.
+
+<a id="mcq-061"></a>
+## MCQ 61. Vedanta comparison
+
+A central Vedānta–Jaina contrast is that Jainism
+
+A. retains many irreducible souls and substances rather than one Brahman.
+
+B. accepts creation from nothing by an omniscient and benevolent personal deity.
+
+C. treats the plural world as wholly unreal appearance masking one consciousness.
+
+D. denies the possibility of liberation while retaining an endless karmic cycle.
+
+<a id="mcq-062"></a>
+## MCQ 62. Nyaya self comparison
+
+Compared with Nyāya, the Jaina self is distinctive because
+
+A. both systems reduce consciousness to an atomic form of material substance.
+
+B. jainism denies any enduring self, whereas Nyāya accepts many permanent selves.
+
+C. consciousness is intrinsic to jīva but a quality of the Nyāya self.
+
+D. nyāya identifies the self with the living body and its material organization.
+
+<a id="mcq-063"></a>
+## MCQ 63. Nyaya material karma objection
+
+A Nyāya critic may ask
+
+A. how unconscious karma orders bondage and desert without a deity.
+
+B. why space possesses colour, taste, smell and tangible material qualities.
+
+C. why Jainism accepts a creator who directly assigns karmic fruits.
+
+D. why omniscience is an ordinary sensory achievement shared by embodied persons.
+
+<a id="mcq-064"></a>
+## MCQ 64. Carvaka Jaina reality 2020
+
+The 2020 comparison is best framed as
+
+A. two forms of identical monism differing only over acceptable religious vocabulary.
+
+B. creator-theism opposed to a Buddhist doctrine of universal emptiness.
+
+C. materialist restriction versus plural realism of souls, karmic matter and substances.
+
+D. a shared denial that perception can yield knowledge of material reality.
+
+<a id="mcq-065"></a>
+## MCQ 65. Expressible inexpressible objection
+
+The expressible–inexpressible objection alleges that
+
+A. every partial standpoint is already omniscient about the whole object.
+
+B. liberation requires an eternal body to preserve the soul's individual identity.
+
+C. material substance lacks the qualities required for sensory cognition and change.
+
+D. calling something inexpressible is itself expressive and may be unstable.
+
+<a id="mcq-066"></a>
+## MCQ 66. 2025 realism pluralism evaluation
+
+Which verdict best balances the 2025 demand?
+
+A. It is unrestricted relativism because each standpoint creates equally valid truth.
+
+B. Jainism is realist and pluralist, while standpoint discipline limits exhaustive finite claims.
+
+C. It is eliminative materialism because souls reduce to aggregates of pudgala.
+
+D. It is idealist monism because plurality appears within one universal consciousness.
+
+<a id="mcq-067"></a>
+## MCQ 67. Asrava term
+
+Āsrava denotes
+
+A. complete destruction of previously accumulated karma through mature austerity.
+
+B. final disembodied liberation after every variety of karma has disappeared.
+
+C. influx of karmic matter through activity under relevant conditions.
+
+D. stoppage of fresh karmic entry through restraint of activity and passion.
+
+<a id="mcq-068"></a>
+## MCQ 68. Eight karmas exact
+
+Which set names all eight karmas?
+
+A. Faith, knowledge, conduct, austerity, charity, truth, purity and restraint.
+
+B. Earth, water, fire, air, space, time, motion-medium and rest-medium.
+
+C. Merit, demerit, influx, bondage, stoppage, shedding, liberation and right faith.
+
+D. Knowledge-obscuring, perception-obscuring, deluding, obstructive, feeling, lifespan, body-making and status.
+
+<a id="mcq-069"></a>
+## MCQ 69. Ghatiya karmas
+
+The four ghātiya karmas
+
+A. cease automatically at each birth without requiring stoppage or shedding.
+
+B. constitute the four non-conscious substances other than matter and time.
+
+C. determine bodily form, social status, lifespan and pleasant or painful feeling.
+
+D. damage knowledge, perception, right orientation and energy.
+
+<a id="mcq-070"></a>
+## MCQ 70. Aghatiya karmas
+
+The aghātiya group includes
+
+A. feeling, lifespan, body-making and status karmas.
+
+B. influx, bondage, stoppage and shedding as four stages of karmic process.
+
+C. right faith, right knowledge, right conduct and austerity as four karmas.
+
+D. knowledge-obscuring, perception-obscuring, deluding and energy-obstructing karmas.
+
+<a id="mcq-071"></a>
+## MCQ 71. Seven tattvas
+
+The seven tattvas are
+
+A. faith, knowledge, conduct, vows, austerity, merit and demerit.
+
+B. jīva, pudgala, dharma, adharma, ākāśa, kāla and omniscience.
+
+C. existence, non-existence, both, inexpressibility, substance, place and time.
+
+D. jīva, ajīva, āsrava, bandha, saṃvara, nirjarā and mokṣa.
+
+<a id="mcq-072"></a>
+## MCQ 72. Nine tattvas
+
+The nine-tattva scheme adds
+
+A. lokākāśa and alokākāśa, the inhabited and empty divisions of space.
+
+B. puṇya and pāpa, merit and demerit.
+
+C. mati and śruta, the two indirect varieties of valid knowledge.
+
+D. dharma and adharma, the passive media of motion and rest.
+
+<a id="mcq-073"></a>
+## MCQ 73. Five vows
+
+Which list gives the five vows?
+
+A. Non-violence, truth, non-stealing, chastity and non-possession.
+
+B. Creation, preservation, destruction, divine grace and devotional surrender.
+
+C. Right faith, right knowledge, right conduct, austerity and omniscience.
+
+D. Perception, inference, comparison, testimony and postulation as valid cognitions.
+
+<a id="mcq-074"></a>
+## MCQ 74. Ahimsa rationale
+
+Ahiṃsā is central because injury
+
+A. binds ascetics but imposes no ethical duty upon householders or institutions.
+
+B. affects the victim but produces no passion or bondage in the agent.
+
+C. is wrong only when prohibited by the command of a creator deity.
+
+D. harms beings and intensifies passions and bondage in the agent.
+
+<a id="mcq-075"></a>
+## MCQ 75. Mahavrata anuvrata
+
+Mahāvrata and aṇuvrata are
+
+A. the media permitting motion and rest throughout the inhabited cosmos.
+
+B. two successive forms of omniscience immediately preceding final liberation.
+
+C. absolute monastic and limited household vows.
+
+D. the destructive and non-destructive groups within the eight karmas.
+
+<a id="mcq-076"></a>
+## MCQ 76. Final moksa
+
+Mokṣa culminates when
+
+A. all individual souls merge into one universal consciousness without distinction.
+
+B. a creator deity forgives accumulated karma and grants final release.
+
+C. the purified material body becomes eternal and immune to further alteration.
+
+D. all karma is shed and the soul reaches siddhahood beyond rebirth.
+
+<a id="mcq-077"></a>
+## MCQ 77. Fourteen gunasthanas
+
+The fourteen guṇasthānas are
+
+A. fourteen independent instruments of valid cognition culminating in testimony.
+
+B. graded stages of purification from delusion to liberation.
+
+C. fourteen substances constituting the complete inventory of Jaina pluralist reality.
+
+D. fourteen perfected deities who create, preserve and morally govern the cosmos.
+
+<a id="mcq-078"></a>
+## MCQ 78. Sayoga kevali
+
+Sayoga-kevalin denotes
+
+A. a disembodied siddha wholly beyond bodily, verbal and mental activity.
+
+B. ordinary sensory knowledge operating without destruction of obscuring karmas.
+
+C. embodied omniscience with minimal bodily, verbal and mental activity.
+
+D. a lay stage defined by partial vows and absence of omniscience.
+
+<a id="mcq-079"></a>
+## MCQ 79. Ayoga kevali
+
+Ayoga-kevalin denotes
+
+A. the activityless final embodied stage immediately before liberation.
+
+B. the first stage of wrong belief before any effective spiritual purification.
+
+C. ordinary restraint accompanied by passions and continuing karmic influx.
+
+D. permanent rebondage after omniscience because bodily activity can never cease.
+
+<a id="mcq-080"></a>
+## MCQ 80. Bound liberated soul 2018
+
+Bound and liberated soul differ because
+
+A. liberation annihilates the soul along with every trace of consciousness.
+
+B. karma obscures intrinsic capacities; liberation removes karma without destroying individuality.
+
+C. bondage creates consciousness in a previously unconscious material entity.
+
+D. liberated souls merge into one creator and lose numerical individuality.
+
+<a id="mcq-081"></a>
+## MCQ 81. Bhava dravya bondage
+
+Bhāva-bandha and dravya-bandha are respectively
+
+A. limited lay vows and absolute monastic vows regulating ethical conduct.
+
+B. the media of motion and rest operating throughout the inhabited universe.
+
+C. psychic passions and actual binding of karmic matter.
+
+D. merit and demerit as the pleasant and painful results of conduct.
+
+<a id="mcq-082"></a>
+## MCQ 82. Activity and passions
+
+Yoga and kaṣāya function as
+
+A. two direct cognitions respectively knowing matter and another person's mind.
+
+B. activity opening influx and passions making adhesion durable.
+
+C. two liberated conditions distinguished by the presence or absence of embodiment.
+
+D. the passive media of motion and rest among the six substances.
+
+<a id="mcq-083"></a>
+## MCQ 83. Samvara
+
+Saṃvara is
+
+A. stoppage of new karmic influx through restraint.
+
+B. destruction of the conscious soul after every material karma is exhausted.
+
+C. maturation of lifespan karma that fixes the duration of embodiment.
+
+D. the first entry of karmic matter through bodily, verbal and mental activity.
+
+<a id="mcq-084"></a>
+## MCQ 84. Nirjara
+
+Nirjarā is
+
+A. creation of fresh karmic matter through attachment and purposive activity.
+
+B. permanent bondage produced when passions prevent every form of restraint.
+
+C. shedding already bound karma, naturally or through austerity.
+
+D. merger of purified souls into one universal consciousness after death.
+
+<a id="mcq-085"></a>
+## MCQ 85. Digambara Svetambara clothing
+
+A substantive sectarian distinction concerns
+
+A. whether Mahavira taught a path of liberation within the śramaṇa tradition.
+
+B. whether karmic matter exists objectively or only as a pedagogical metaphor.
+
+C. whether full monastic renunciation requires nudity or permits white robes.
+
+D. whether ahiṃsā has any binding force for monks pursuing liberation.
+
+<a id="mcq-086"></a>
+## MCQ 86. Women liberation sects
+
+A major sectarian difference concerns
+
+A. whether vows form any necessary part of monastic and household discipline.
+
+B. whether conscious souls exist or persons reduce entirely to material aggregates.
+
+C. whether the beginningless cosmos was created by Mahavira or another deity.
+
+D. whether women attain liberation directly or require rebirth as male.
+
+<a id="mcq-087"></a>
+## MCQ 87. Canon possession sects
+
+The sects also differ over
+
+A. whether seven qualified predications can describe a many-sided object.
+
+B. whether karmic matter binds embodied souls through activity and passion.
+
+C. whether space exists as an independent non-conscious substance.
+
+D. canonical preservation and ascetic possessions.
+
+<a id="mcq-088"></a>
+## MCQ 88. Sallekhana
+
+Sallekhanā differs doctrinally from suicide through
+
+A. regulated passionless fasting without desire for death, aversion or despair.
+
+B. an impulsive escape from ordinary obligations prompted by fear or despair.
+
+C. obedience to a creator's command that life must end at a fixed moment.
+
+D. automatic legal immunity whenever religious language accompanies self-starvation.
+
+<a id="mcq-089"></a>
+## MCQ 89. Sevenfold applied transfer
+
+A policy exists as law, not yet as implementation, and resists one exhaustive sentence. This exemplifies
+
+A. an unconditional contradiction between legal existence and practical non-existence.
+
+B. sevenfold reasoning using distinct legal, temporal and practical respects.
+
+C. denial that any objective fact exists concerning law or implementation.
+
+D. mere hesitation caused by insufficient evidence about the policy's legal status.
+
+<a id="mcq-090"></a>
+## MCQ 90. Ahimsa modern ethics
+
+A modern application faithful to ahiṃsā is
+
+A. declaring every action equally violent regardless of intention, scale or consequence.
+
+B. equating non-violence with passive refusal to prevent foreseeable avoidable harm.
+
+C. restricting non-violence to monks and excluding social or ecological institutions.
+
+D. minimizing avoidable harm in conduct, institutions and ecology while recognizing gradations.
+
+<a id="mcq-091"></a>
+## MCQ 91. Aparigraha modern ethics
+
+Aparigraha can inform contemporary ethics by encouraging
+
+A. wealth accumulation directed by a creator as proof of spiritual merit.
+
+B. unlimited accumulation whenever possessions have been acquired through legal means.
+
+C. limiting possessiveness and consumption in light of inequality and ecological burden.
+
+D. rejection of every material tool, livelihood and household possession without distinction.
+
+<a id="mcq-092"></a>
+## MCQ 92. Diagnose bondage
+
+Charity driven by pride and anger is diagnosed as
+
+A. complete saṃvara because generosity necessarily closes every channel of karmic entry.
+
+B. activity causes influx while pride and anger make bondage adhesive.
+
+C. automatic liberation because charitable action always prevents karmic influx.
+
+D. lifespan karma alone because intention never affects the karmic quality of action.
+
+<a id="mcq-093"></a>
+## MCQ 93. Novel Buddhist comparison
+
+The sharpest Jain–Buddhist contrast about a changing person is
+
+A. jaina denial of continuity contrasted with Buddhist affirmation of an eternal person.
+
+B. enduring jīva with changing modes versus conditioned process without permanent self.
+
+C. a shared denial of real change because continuity requires strict permanence.
+
+D. an identical eternal self accepted without qualification by both philosophical traditions.
+
+<a id="mcq-094"></a>
+## MCQ 94. Novel Vedanta Nyaya comparison
+
+Which comparison is most accurate?
+
+A. Many conscious Jaina souls; Advaita Brahman; Nyāya selves with cognition as quality.
+
+B. All three systems deny enduring selves and reduce persons to momentary events.
+
+C. Advaita and Jainism are materialisms, while Nyāya alone accepts consciousness.
+
+D. All three make karmic fruition an act of grace by a personal creator.

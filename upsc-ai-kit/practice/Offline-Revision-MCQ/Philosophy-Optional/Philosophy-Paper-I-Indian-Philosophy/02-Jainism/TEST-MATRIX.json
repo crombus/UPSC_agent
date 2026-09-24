@@ -1,0 +1,2975 @@
+{
+  "schema_version": 2,
+  "topic": "Jainism",
+  "frozen_audit": {
+    "cell_count": 94,
+    "baseline_totals": {
+      "adequate": 38,
+      "uncovered": 36,
+      "partial": 20
+    },
+    "category_totals": {
+      "foundations": {
+        "total": 6,
+        "adequate": 3,
+        "partial": 0,
+        "uncovered": 3
+      },
+      "ontology": {
+        "total": 13,
+        "adequate": 6,
+        "partial": 6,
+        "uncovered": 1
+      },
+      "epistemology": {
+        "total": 10,
+        "adequate": 4,
+        "partial": 1,
+        "uncovered": 5
+      },
+      "many-sided logic": {
+        "total": 26,
+        "adequate": 11,
+        "partial": 2,
+        "uncovered": 13
+      },
+      "criticism-comparison-pyq": {
+        "total": 11,
+        "adequate": 2,
+        "partial": 3,
+        "uncovered": 6
+      },
+      "karma-liberation-ethics": {
+        "total": 22,
+        "adequate": 11,
+        "partial": 7,
+        "uncovered": 4
+      },
+      "transfer": {
+        "total": 6,
+        "adequate": 1,
+        "partial": 1,
+        "uncovered": 4
+      }
+    }
+  },
+  "derivation_policy": "One distinct authored MCQ per atomic cell; no compound or redundant mappings. Final count derives from cells and mappings.",
+  "cells": [
+    {
+      "id": "J-001",
+      "category": "foundations",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Tirthankara lineage",
+      "minimum_probes": 1,
+      "mapped_question": "Q001",
+      "semantic_assertions": [
+        "Jainism recognizes 24 tirthankaras; Rishabha is first and Mahavira twenty-fourth."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-002",
+      "category": "foundations",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Mahavira context",
+      "minimum_probes": 1,
+      "mapped_question": "Q002",
+      "semantic_assertions": [
+        "Mahavira is the 24th tirthankara, not the creator of Jainism ex nihilo."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-003",
+      "category": "foundations",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Non-creator cosmos",
+      "minimum_probes": 1,
+      "mapped_question": "Q003",
+      "semantic_assertions": [
+        "The Jaina cosmos is beginningless and non-created; perfected teachers disclose the path."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-004",
+      "category": "foundations",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Śramaṇa orientation",
+      "minimum_probes": 1,
+      "mapped_question": "Q004",
+      "semantic_assertions": [
+        "Jainism belongs to the śramaṇa stream emphasizing discipline and release."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-005",
+      "category": "foundations",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Three jewels overview",
+      "minimum_probes": 1,
+      "mapped_question": "Q005",
+      "semantic_assertions": [
+        "The three jewels are right faith, right knowledge and right conduct."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-006",
+      "category": "foundations",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Teacher versus deity",
+      "minimum_probes": 1,
+      "mapped_question": "Q006",
+      "semantic_assertions": [
+        "A siddha is liberated and perfected, not a creator or governor."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-007",
+      "category": "ontology",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Six dravyas",
+      "minimum_probes": 1,
+      "mapped_question": "Q007",
+      "semantic_assertions": [
+        "The six dravyas are jiva, pudgala, dharma, adharma, akasa and kala."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-008",
+      "category": "ontology",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Jiva and ajiva",
+      "minimum_probes": 1,
+      "mapped_question": "Q008",
+      "semantic_assertions": [
+        "Jiva is conscious substance; ajiva comprises pudgala, dharma, adharma, akasa and kala."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-009",
+      "category": "ontology",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Five astikayas",
+      "minimum_probes": 1,
+      "mapped_question": "Q009",
+      "semantic_assertions": [
+        "Five extended substances are astikayas; kala is the sixth dravya but not an astikaya."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-010",
+      "category": "ontology",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Role of kala",
+      "minimum_probes": 1,
+      "mapped_question": "Q010",
+      "semantic_assertions": [
+        "Kala is the real condition of succession and change and is not an astikaya."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-011",
+      "category": "ontology",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Akasa division",
+      "minimum_probes": 1,
+      "mapped_question": "Q011",
+      "semantic_assertions": [
+        "Akasa includes lokakasa, where other substances operate, and alokakasa beyond the world-region."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-012",
+      "category": "ontology",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Pudgala structure",
+      "minimum_probes": 1,
+      "mapped_question": "Q012",
+      "semantic_assertions": [
+        "Pudgala is material, atomic and aggregate-forming, with sensible qualities."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-013",
+      "category": "ontology",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Sound and matter",
+      "minimum_probes": 1,
+      "mapped_question": "Q013",
+      "semantic_assertions": [
+        "Sound is a mode of pudgala, not an immaterial eternal entity."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-014",
+      "category": "ontology",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Substance quality mode",
+      "minimum_probes": 1,
+      "mapped_question": "Q014",
+      "semantic_assertions": [
+        "Jaina realism integrates persistence of substance and qualities with change of modes."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-015",
+      "category": "ontology",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Real as permanence and change",
+      "minimum_probes": 1,
+      "mapped_question": "Q015",
+      "semantic_assertions": [
+        "Reality combines origination, cessation and persistence under indexed respects."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-016",
+      "category": "ontology",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Dharma medium",
+      "minimum_probes": 1,
+      "mapped_question": "Q016",
+      "semantic_assertions": [
+        "Dharma-dravya is the condition or medium of motion, not virtue or propulsion."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-017",
+      "category": "ontology",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Adharma medium",
+      "minimum_probes": 1,
+      "mapped_question": "Q017",
+      "semantic_assertions": [
+        "Adharma-dravya is the condition or medium of rest, not vice or an active stopper."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-018",
+      "category": "ontology",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Soul embodiment",
+      "minimum_probes": 1,
+      "mapped_question": "Q018",
+      "semantic_assertions": [
+        "An embodied jiva pervades its body while remaining distinct from pudgala."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-019",
+      "category": "ontology",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md — 2025 Q7(c) treatment",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Pluralist realist verdict 2025",
+      "minimum_probes": 1,
+      "mapped_question": "Q019",
+      "semantic_assertions": [
+        "Jainism is a qualified pluralist realism, not subjectivism or nihilism."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-020",
+      "category": "epistemology",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Pramana and jnana",
+      "minimum_probes": 1,
+      "mapped_question": "Q020",
+      "semantic_assertions": [
+        "Pramana concerns valid cognition; jnana classifications explain its modes and range."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-021",
+      "category": "epistemology",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Mati stages",
+      "minimum_probes": 1,
+      "mapped_question": "Q021",
+      "semantic_assertions": [
+        "Mati cognition develops through apprehension, inquiry, determination and retention."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-022",
+      "category": "epistemology",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Sruta dependence",
+      "minimum_probes": 1,
+      "mapped_question": "Q022",
+      "semantic_assertions": [
+        "Sruta knowledge is sign- or word-mediated and depends on mati."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-023",
+      "category": "epistemology",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Avadhi cognition",
+      "minimum_probes": 1,
+      "mapped_question": "Q023",
+      "semantic_assertions": [
+        "Avadhi is limited direct clairvoyant knowledge of material objects."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-024",
+      "category": "epistemology",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Manahparyaya cognition",
+      "minimum_probes": 1,
+      "mapped_question": "Q024",
+      "semantic_assertions": [
+        "Manahparyaya is direct cognition of others’ mental modes."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-025",
+      "category": "epistemology",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Wrong cognition",
+      "minimum_probes": 1,
+      "mapped_question": "Q025",
+      "semantic_assertions": [
+        "Wrong cognition is connected to false orientation and has ethical-soteriological significance."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-026",
+      "category": "epistemology",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Kevala cognition",
+      "minimum_probes": 1,
+      "mapped_question": "Q026",
+      "semantic_assertions": [
+        "Kevala is perfect direct omniscience following destruction of obscuring karmas."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-027",
+      "category": "epistemology",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Direct indirect inversion",
+      "minimum_probes": 1,
+      "mapped_question": "Q027",
+      "semantic_assertions": [
+        "Jaina paroksa includes mati and sruta; pratyaksa includes avadhi, manahparyaya and kevala."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-028",
+      "category": "epistemology",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Five knowledges",
+      "minimum_probes": 1,
+      "mapped_question": "Q028",
+      "semantic_assertions": [
+        "The five knowledges are mati, sruta, avadhi, manahparyaya and kevala."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-029",
+      "category": "epistemology",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Epistemic humility",
+      "minimum_probes": 1,
+      "mapped_question": "Q029",
+      "semantic_assertions": [
+        "Finite cognition is aspect-bound; omniscience alone is exhaustive."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-030",
+      "category": "many-sided logic",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Naya definition",
+      "minimum_probes": 1,
+      "mapped_question": "Q030",
+      "semantic_assertions": [
+        "A naya is partial and legitimate unless absolutized."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-031",
+      "category": "many-sided logic",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Samgraha naya",
+      "minimum_probes": 1,
+      "mapped_question": "Q031",
+      "semantic_assertions": [
+        "Samgraha naya takes the generic standpoint."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-032",
+      "category": "many-sided logic",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Vyavahara naya",
+      "minimum_probes": 1,
+      "mapped_question": "Q032",
+      "semantic_assertions": [
+        "Vyavahara naya is the practical particularizing standpoint."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-033",
+      "category": "many-sided logic",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Rjusutra naya",
+      "minimum_probes": 1,
+      "mapped_question": "Q033",
+      "semantic_assertions": [
+        "Rjusutra naya isolates the present mode."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-034",
+      "category": "many-sided logic",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Sabda naya",
+      "minimum_probes": 1,
+      "mapped_question": "Q034",
+      "semantic_assertions": [
+        "Sabda naya concerns conventional linguistic usage."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-035",
+      "category": "many-sided logic",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Samabhirudha naya",
+      "minimum_probes": 1,
+      "mapped_question": "Q035",
+      "semantic_assertions": [
+        "Samabhirudha naya distinguishes words through etymological specificity."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-036",
+      "category": "many-sided logic",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Dravyarthika standpoint",
+      "minimum_probes": 1,
+      "mapped_question": "Q036",
+      "semantic_assertions": [
+        "Dravyarthika perspectives emphasize substance and continuity."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-037",
+      "category": "many-sided logic",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Paryayarthika standpoint",
+      "minimum_probes": 1,
+      "mapped_question": "Q037",
+      "semantic_assertions": [
+        "Paryayarthika perspectives emphasize modes and change."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-038",
+      "category": "many-sided logic",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Nayabhasa",
+      "minimum_probes": 1,
+      "mapped_question": "Q038",
+      "semantic_assertions": [
+        "Nayabhasa results from absolutizing a partial naya."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-039",
+      "category": "many-sided logic",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Syat indices",
+      "minimum_probes": 1,
+      "mapped_question": "Q039",
+      "semantic_assertions": [
+        "Syat marks conditional assertion under specified indices."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-040",
+      "category": "many-sided logic",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Anekanta to syadvada",
+      "minimum_probes": 1,
+      "mapped_question": "Q040",
+      "semantic_assertions": [
+        "Anekantavada is ontological ground; syadvada is predicative discipline."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-041",
+      "category": "many-sided logic",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "First predication",
+      "minimum_probes": 1,
+      "mapped_question": "Q041",
+      "semantic_assertions": [
+        "Syad asti is qualified affirmation."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-042",
+      "category": "many-sided logic",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Second predication",
+      "minimum_probes": 1,
+      "mapped_question": "Q042",
+      "semantic_assertions": [
+        "Syan nasti is qualified negation."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-043",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Third predication",
+      "minimum_probes": 1,
+      "mapped_question": "Q043",
+      "semantic_assertions": [
+        "Syad asti nasti combines indexed affirmation and negation."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-044",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Fourth predication",
+      "minimum_probes": 1,
+      "mapped_question": "Q044",
+      "semantic_assertions": [
+        "Syad avaktavya is qualified inexpressibility, not ignorance."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-045",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Fifth predication",
+      "minimum_probes": 1,
+      "mapped_question": "Q045",
+      "semantic_assertions": [
+        "The fifth form combines qualified affirmation and inexpressibility."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-046",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Sixth predication",
+      "minimum_probes": 1,
+      "mapped_question": "Q046",
+      "semantic_assertions": [
+        "The sixth form combines qualified negation and inexpressibility."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-047",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Seventh predication",
+      "minimum_probes": 1,
+      "mapped_question": "Q047",
+      "semantic_assertions": [
+        "The seventh form combines indexed affirmation, negation and inexpressibility."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-048",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Complete pot application",
+      "minimum_probes": 1,
+      "mapped_question": "Q048",
+      "semantic_assertions": [
+        "All seven predications apply to one object only through distinct respects and combinations."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-049",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Avaktavya precision",
+      "minimum_probes": 1,
+      "mapped_question": "Q049",
+      "semantic_assertions": [
+        "Avaktavya is qualified inexpressibility, not suspension of judgement."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-050",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Blind-men value",
+      "minimum_probes": 1,
+      "mapped_question": "Q050",
+      "semantic_assertions": [
+        "The parable shows partial truth and the error of absolutization."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-051",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Blind-men limit",
+      "minimum_probes": 1,
+      "mapped_question": "Q051",
+      "semantic_assertions": [
+        "The parable does not prove many-sided ontology or solve access to the whole."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-052",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Non-contradiction indexing",
+      "minimum_probes": 1,
+      "mapped_question": "Q052",
+      "semantic_assertions": [
+        "Different indices prevent contradiction simpliciter."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-053",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Truth versus relativism",
+      "minimum_probes": 1,
+      "mapped_question": "Q053",
+      "semantic_assertions": [
+        "Conditionality preserves object-constrained truth."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-054",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Standpoint versus predication",
+      "minimum_probes": 1,
+      "mapped_question": "Q054",
+      "semantic_assertions": [
+        "Naya is standpoint analysis; saptabhangi is sevenfold predication."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-055",
+      "category": "many-sided logic",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md — 2026 Q7(b)",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Full 2026 linkage",
+      "minimum_probes": 1,
+      "mapped_question": "Q055",
+      "semantic_assertions": [
+        "Anekantavada grounds naya and syadvada; saptabhangi gives seven forms."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-056",
+      "category": "criticism-comparison-pyq",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Self-refutation objection",
+      "minimum_probes": 1,
+      "mapped_question": "Q056",
+      "semantic_assertions": [
+        "The reflexivity objection asks whether non-absolutism exempts itself."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-057",
+      "category": "criticism-comparison-pyq",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Conditional self-application reply",
+      "minimum_probes": 1,
+      "mapped_question": "Q057",
+      "semantic_assertions": [
+        "Non-absolutism can apply reflexively without abandoning realism."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-058",
+      "category": "criticism-comparison-pyq",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Sankara objection",
+      "minimum_probes": 1,
+      "mapped_question": "Q058",
+      "semantic_assertions": [
+        "Sankara presses determinacy and non-contradiction."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-059",
+      "category": "criticism-comparison-pyq",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Ramanuja opposed attributes",
+      "minimum_probes": 1,
+      "mapped_question": "Q059",
+      "semantic_assertions": [
+        "Ramanuja presses incompatibility under an identical respect."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-060",
+      "category": "criticism-comparison-pyq",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Buddhist momentariness",
+      "minimum_probes": 1,
+      "mapped_question": "Q060",
+      "semantic_assertions": [
+        "Jainism retains enduring jivas and dravyas with changing modes."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-061",
+      "category": "criticism-comparison-pyq",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Vedanta comparison",
+      "minimum_probes": 1,
+      "mapped_question": "Q061",
+      "semantic_assertions": [
+        "Jaina pluralism contrasts with Vedantic unification in Brahman."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-062",
+      "category": "criticism-comparison-pyq",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Nyaya self comparison",
+      "minimum_probes": 1,
+      "mapped_question": "Q062",
+      "semantic_assertions": [
+        "Jiva is inherently conscious; Nyaya cognition is an adventitious self-quality."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-063",
+      "category": "criticism-comparison-pyq",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Nyaya material karma objection",
+      "minimum_probes": 1,
+      "mapped_question": "Q063",
+      "semantic_assertions": [
+        "Nyaya presses interaction and moral ordering against material karma."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-064",
+      "category": "criticism-comparison-pyq",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "ANSWER-WRITING-TOOLKIT.md — Supporting S1",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Carvaka Jaina reality 2020",
+      "minimum_probes": 1,
+      "mapped_question": "Q064",
+      "semantic_assertions": [
+        "Carvaka materialism differs from Jaina pluralist realism."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-065",
+      "category": "criticism-comparison-pyq",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Expressible inexpressible objection",
+      "minimum_probes": 1,
+      "mapped_question": "Q065",
+      "semantic_assertions": [
+        "Expressing inexpressibility creates a performative objection."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-066",
+      "category": "criticism-comparison-pyq",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "ANSWER-WRITING-TOOLKIT.md — Primary PYQ 9",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "2025 realism pluralism evaluation",
+      "minimum_probes": 1,
+      "mapped_question": "Q066",
+      "semantic_assertions": [
+        "The 2025 verdict combines objective plurality with qualified finite claims."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-067",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Asrava term",
+      "minimum_probes": 1,
+      "mapped_question": "Q067",
+      "semantic_assertions": [
+        "Asrava is karmic influx."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-068",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Eight karmas exact",
+      "minimum_probes": 1,
+      "mapped_question": "Q068",
+      "semantic_assertions": [
+        "The eight karmas comprise four ghatiya and four aghatiya types."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-069",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Ghatiya karmas",
+      "minimum_probes": 1,
+      "mapped_question": "Q069",
+      "semantic_assertions": [
+        "Ghatiya karmas obscure knowledge/perception, delude and obstruct."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-070",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Aghatiya karmas",
+      "minimum_probes": 1,
+      "mapped_question": "Q070",
+      "semantic_assertions": [
+        "Aghatiya karmas shape embodiment and experience."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-071",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Seven tattvas",
+      "minimum_probes": 1,
+      "mapped_question": "Q071",
+      "semantic_assertions": [
+        "Seven tattvas map soul, non-soul, influx, bondage, stoppage, shedding and release."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-072",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Nine tattvas",
+      "minimum_probes": 1,
+      "mapped_question": "Q072",
+      "semantic_assertions": [
+        "Nine tattvas add punya and papa."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-073",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Five vows",
+      "minimum_probes": 1,
+      "mapped_question": "Q073",
+      "semantic_assertions": [
+        "The vows are ahimsa, satya, asteya, brahmacarya and aparigraha."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-074",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Ahimsa rationale",
+      "minimum_probes": 1,
+      "mapped_question": "Q074",
+      "semantic_assertions": [
+        "Ahimsa restrains harm, passions and karmic influx."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-075",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Mahavrata anuvrata",
+      "minimum_probes": 1,
+      "mapped_question": "Q075",
+      "semantic_assertions": [
+        "Monastics take great vows; householders take limited vows."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-076",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Final moksa",
+      "minimum_probes": 1,
+      "mapped_question": "Q076",
+      "semantic_assertions": [
+        "Moksa is complete karmic freedom and siddhahood."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-077",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Fourteen gunasthanas",
+      "minimum_probes": 1,
+      "mapped_question": "Q077",
+      "semantic_assertions": [
+        "The 14 gunasthanas grade spiritual development."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-078",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Sayoga kevali",
+      "minimum_probes": 1,
+      "mapped_question": "Q078",
+      "semantic_assertions": [
+        "Sayoga-kevali is embodied omniscience with residual activity."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-079",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Ayoga kevali",
+      "minimum_probes": 1,
+      "mapped_question": "Q079",
+      "semantic_assertions": [
+        "Ayoga-kevali immediately precedes siddhahood."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-080",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "ANSWER-WRITING-TOOLKIT.md — Primary PYQ 1",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Bound liberated soul 2018",
+      "minimum_probes": 1,
+      "mapped_question": "Q080",
+      "semantic_assertions": [
+        "Liberated jiva retains individuality with unobstructed qualities."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-081",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Bhava dravya bondage",
+      "minimum_probes": 1,
+      "mapped_question": "Q081",
+      "semantic_assertions": [
+        "Bhava-bandha is psychical; dravya-bandha is material."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-082",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Activity and passions",
+      "minimum_probes": 1,
+      "mapped_question": "Q082",
+      "semantic_assertions": [
+        "Yoga drives influx; kasaya intensifies bondage."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-083",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Samvara",
+      "minimum_probes": 1,
+      "mapped_question": "Q083",
+      "semantic_assertions": [
+        "Samvara blocks new asrava."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-084",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Nirjara",
+      "minimum_probes": 1,
+      "mapped_question": "Q084",
+      "semantic_assertions": [
+        "Nirjara removes accumulated karma."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-085",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Digambara Svetambara clothing",
+      "minimum_probes": 1,
+      "mapped_question": "Q085",
+      "semantic_assertions": [
+        "Digambara and Svetambara differ over nudity and white clothing."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-086",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Women liberation sects",
+      "minimum_probes": 1,
+      "mapped_question": "Q086",
+      "semantic_assertions": [
+        "Svetambara accepts women’s direct liberation; Digambara traditionally requires male rebirth."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-087",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Canon possession sects",
+      "minimum_probes": 1,
+      "mapped_question": "Q087",
+      "semantic_assertions": [
+        "The sects differ over canon and permitted possessions."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-088",
+      "category": "karma-liberation-ethics",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Sallekhana",
+      "minimum_probes": 1,
+      "mapped_question": "Q088",
+      "semantic_assertions": [
+        "Sallekhana is regulated passionless thinning-out, not desire-driven self-killing."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-089",
+      "category": "transfer",
+      "baseline_status": "adequate",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Sevenfold applied transfer",
+      "minimum_probes": 1,
+      "mapped_question": "Q089",
+      "semantic_assertions": [
+        "Sevenfold transfer indexes affirmation, negation and inexpressibility."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-090",
+      "category": "transfer",
+      "baseline_status": "partial",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Ahimsa modern ethics",
+      "minimum_probes": 1,
+      "mapped_question": "Q090",
+      "semantic_assertions": [
+        "Modern ahimsa is disciplined harm-minimization, not passivity."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-091",
+      "category": "transfer",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Aparigraha modern ethics",
+      "minimum_probes": 1,
+      "mapped_question": "Q091",
+      "semantic_assertions": [
+        "Modern aparigraha critiques attachment and excess, not all goods."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-092",
+      "category": "transfer",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Diagnose bondage",
+      "minimum_probes": 1,
+      "mapped_question": "Q092",
+      "semantic_assertions": [
+        "Bondage diagnosis separates activity from passion-laden psychic condition."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-093",
+      "category": "transfer",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Novel Buddhist comparison",
+      "minimum_probes": 1,
+      "mapped_question": "Q093",
+      "semantic_assertions": [
+        "Jainism retains jiva; Buddhism rejects a permanent self."
+      ],
+      "final_covered_status": "covered"
+    },
+    {
+      "id": "J-094",
+      "category": "transfer",
+      "baseline_status": "uncovered",
+      "source_evidence": [
+        "REVISION-GUIDE.md",
+        "Frozen independent 94-cell audit supplied for this repair"
+      ],
+      "primary_discriminator": "Novel Vedanta Nyaya comparison",
+      "minimum_probes": 1,
+      "mapped_question": "Q094",
+      "semantic_assertions": [
+        "Jaina plurality differs from Advaita non-duality and Nyaya cognition-as-quality."
+      ],
+      "final_covered_status": "covered"
+    }
+  ],
+  "question_mappings": {
+    "Q001": {
+      "cell_ids": [
+        "J-001"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Jainism recognizes 24 tirthankaras; Rishabha is first and Mahavira twenty-fourth."
+      ]
+    },
+    "Q002": {
+      "cell_ids": [
+        "J-002"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Mahavira is the 24th tirthankara, not the creator of Jainism ex nihilo."
+      ]
+    },
+    "Q003": {
+      "cell_ids": [
+        "J-003"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The Jaina cosmos is beginningless and non-created; perfected teachers disclose the path."
+      ]
+    },
+    "Q004": {
+      "cell_ids": [
+        "J-004"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Jainism belongs to the śramaṇa stream emphasizing discipline and release."
+      ]
+    },
+    "Q005": {
+      "cell_ids": [
+        "J-005"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The three jewels are right faith, right knowledge and right conduct."
+      ]
+    },
+    "Q006": {
+      "cell_ids": [
+        "J-006"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "A siddha is liberated and perfected, not a creator or governor."
+      ]
+    },
+    "Q007": {
+      "cell_ids": [
+        "J-007"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The six dravyas are jiva, pudgala, dharma, adharma, akasa and kala."
+      ]
+    },
+    "Q008": {
+      "cell_ids": [
+        "J-008"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Jiva is conscious substance; ajiva comprises pudgala, dharma, adharma, akasa and kala."
+      ]
+    },
+    "Q009": {
+      "cell_ids": [
+        "J-009"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Five extended substances are astikayas; kala is the sixth dravya but not an astikaya."
+      ]
+    },
+    "Q010": {
+      "cell_ids": [
+        "J-010"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Kala is the real condition of succession and change and is not an astikaya."
+      ]
+    },
+    "Q011": {
+      "cell_ids": [
+        "J-011"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Akasa includes lokakasa, where other substances operate, and alokakasa beyond the world-region."
+      ]
+    },
+    "Q012": {
+      "cell_ids": [
+        "J-012"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Pudgala is material, atomic and aggregate-forming, with sensible qualities."
+      ]
+    },
+    "Q013": {
+      "cell_ids": [
+        "J-013"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Sound is a mode of pudgala, not an immaterial eternal entity."
+      ]
+    },
+    "Q014": {
+      "cell_ids": [
+        "J-014"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Jaina realism integrates persistence of substance and qualities with change of modes."
+      ]
+    },
+    "Q015": {
+      "cell_ids": [
+        "J-015"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Reality combines origination, cessation and persistence under indexed respects."
+      ]
+    },
+    "Q016": {
+      "cell_ids": [
+        "J-016"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Dharma-dravya is the condition or medium of motion, not virtue or propulsion."
+      ]
+    },
+    "Q017": {
+      "cell_ids": [
+        "J-017"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Adharma-dravya is the condition or medium of rest, not vice or an active stopper."
+      ]
+    },
+    "Q018": {
+      "cell_ids": [
+        "J-018"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "An embodied jiva pervades its body while remaining distinct from pudgala."
+      ]
+    },
+    "Q019": {
+      "cell_ids": [
+        "J-019"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Jainism is a qualified pluralist realism, not subjectivism or nihilism."
+      ]
+    },
+    "Q020": {
+      "cell_ids": [
+        "J-020"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Pramana concerns valid cognition; jnana classifications explain its modes and range."
+      ]
+    },
+    "Q021": {
+      "cell_ids": [
+        "J-021"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Mati cognition develops through apprehension, inquiry, determination and retention."
+      ]
+    },
+    "Q022": {
+      "cell_ids": [
+        "J-022"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Sruta knowledge is sign- or word-mediated and depends on mati."
+      ]
+    },
+    "Q023": {
+      "cell_ids": [
+        "J-023"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Avadhi is limited direct clairvoyant knowledge of material objects."
+      ]
+    },
+    "Q024": {
+      "cell_ids": [
+        "J-024"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Manahparyaya is direct cognition of others’ mental modes."
+      ]
+    },
+    "Q025": {
+      "cell_ids": [
+        "J-025"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Wrong cognition is connected to false orientation and has ethical-soteriological significance."
+      ]
+    },
+    "Q026": {
+      "cell_ids": [
+        "J-026"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Kevala is perfect direct omniscience following destruction of obscuring karmas."
+      ]
+    },
+    "Q027": {
+      "cell_ids": [
+        "J-027"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Jaina paroksa includes mati and sruta; pratyaksa includes avadhi, manahparyaya and kevala."
+      ]
+    },
+    "Q028": {
+      "cell_ids": [
+        "J-028"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The five knowledges are mati, sruta, avadhi, manahparyaya and kevala."
+      ]
+    },
+    "Q029": {
+      "cell_ids": [
+        "J-029"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Finite cognition is aspect-bound; omniscience alone is exhaustive."
+      ]
+    },
+    "Q030": {
+      "cell_ids": [
+        "J-030"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "A naya is partial and legitimate unless absolutized."
+      ]
+    },
+    "Q031": {
+      "cell_ids": [
+        "J-031"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Samgraha naya takes the generic standpoint."
+      ]
+    },
+    "Q032": {
+      "cell_ids": [
+        "J-032"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Vyavahara naya is the practical particularizing standpoint."
+      ]
+    },
+    "Q033": {
+      "cell_ids": [
+        "J-033"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Rjusutra naya isolates the present mode."
+      ]
+    },
+    "Q034": {
+      "cell_ids": [
+        "J-034"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Sabda naya concerns conventional linguistic usage."
+      ]
+    },
+    "Q035": {
+      "cell_ids": [
+        "J-035"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Samabhirudha naya distinguishes words through etymological specificity."
+      ]
+    },
+    "Q036": {
+      "cell_ids": [
+        "J-036"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Dravyarthika perspectives emphasize substance and continuity."
+      ]
+    },
+    "Q037": {
+      "cell_ids": [
+        "J-037"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Paryayarthika perspectives emphasize modes and change."
+      ]
+    },
+    "Q038": {
+      "cell_ids": [
+        "J-038"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Nayabhasa results from absolutizing a partial naya."
+      ]
+    },
+    "Q039": {
+      "cell_ids": [
+        "J-039"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Syat marks conditional assertion under specified indices."
+      ]
+    },
+    "Q040": {
+      "cell_ids": [
+        "J-040"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Anekantavada is ontological ground; syadvada is predicative discipline."
+      ]
+    },
+    "Q041": {
+      "cell_ids": [
+        "J-041"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Syad asti is qualified affirmation."
+      ]
+    },
+    "Q042": {
+      "cell_ids": [
+        "J-042"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Syan nasti is qualified negation."
+      ]
+    },
+    "Q043": {
+      "cell_ids": [
+        "J-043"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Syad asti nasti combines indexed affirmation and negation."
+      ]
+    },
+    "Q044": {
+      "cell_ids": [
+        "J-044"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Syad avaktavya is qualified inexpressibility, not ignorance."
+      ]
+    },
+    "Q045": {
+      "cell_ids": [
+        "J-045"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The fifth form combines qualified affirmation and inexpressibility."
+      ]
+    },
+    "Q046": {
+      "cell_ids": [
+        "J-046"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The sixth form combines qualified negation and inexpressibility."
+      ]
+    },
+    "Q047": {
+      "cell_ids": [
+        "J-047"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The seventh form combines indexed affirmation, negation and inexpressibility."
+      ]
+    },
+    "Q048": {
+      "cell_ids": [
+        "J-048"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "All seven predications apply to one object only through distinct respects and combinations."
+      ]
+    },
+    "Q049": {
+      "cell_ids": [
+        "J-049"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Avaktavya is qualified inexpressibility, not suspension of judgement."
+      ]
+    },
+    "Q050": {
+      "cell_ids": [
+        "J-050"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The parable shows partial truth and the error of absolutization."
+      ]
+    },
+    "Q051": {
+      "cell_ids": [
+        "J-051"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The parable does not prove many-sided ontology or solve access to the whole."
+      ]
+    },
+    "Q052": {
+      "cell_ids": [
+        "J-052"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Different indices prevent contradiction simpliciter."
+      ]
+    },
+    "Q053": {
+      "cell_ids": [
+        "J-053"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Conditionality preserves object-constrained truth."
+      ]
+    },
+    "Q054": {
+      "cell_ids": [
+        "J-054"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Naya is standpoint analysis; saptabhangi is sevenfold predication."
+      ]
+    },
+    "Q055": {
+      "cell_ids": [
+        "J-055"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Anekantavada grounds naya and syadvada; saptabhangi gives seven forms."
+      ]
+    },
+    "Q056": {
+      "cell_ids": [
+        "J-056"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The reflexivity objection asks whether non-absolutism exempts itself."
+      ]
+    },
+    "Q057": {
+      "cell_ids": [
+        "J-057"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Non-absolutism can apply reflexively without abandoning realism."
+      ]
+    },
+    "Q058": {
+      "cell_ids": [
+        "J-058"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Sankara presses determinacy and non-contradiction."
+      ]
+    },
+    "Q059": {
+      "cell_ids": [
+        "J-059"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Ramanuja presses incompatibility under an identical respect."
+      ]
+    },
+    "Q060": {
+      "cell_ids": [
+        "J-060"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Jainism retains enduring jivas and dravyas with changing modes."
+      ]
+    },
+    "Q061": {
+      "cell_ids": [
+        "J-061"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Jaina pluralism contrasts with Vedantic unification in Brahman."
+      ]
+    },
+    "Q062": {
+      "cell_ids": [
+        "J-062"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Jiva is inherently conscious; Nyaya cognition is an adventitious self-quality."
+      ]
+    },
+    "Q063": {
+      "cell_ids": [
+        "J-063"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Nyaya presses interaction and moral ordering against material karma."
+      ]
+    },
+    "Q064": {
+      "cell_ids": [
+        "J-064"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Carvaka materialism differs from Jaina pluralist realism."
+      ]
+    },
+    "Q065": {
+      "cell_ids": [
+        "J-065"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Expressing inexpressibility creates a performative objection."
+      ]
+    },
+    "Q066": {
+      "cell_ids": [
+        "J-066"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The 2025 verdict combines objective plurality with qualified finite claims."
+      ]
+    },
+    "Q067": {
+      "cell_ids": [
+        "J-067"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Asrava is karmic influx."
+      ]
+    },
+    "Q068": {
+      "cell_ids": [
+        "J-068"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The eight karmas comprise four ghatiya and four aghatiya types."
+      ]
+    },
+    "Q069": {
+      "cell_ids": [
+        "J-069"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Ghatiya karmas obscure knowledge/perception, delude and obstruct."
+      ]
+    },
+    "Q070": {
+      "cell_ids": [
+        "J-070"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Aghatiya karmas shape embodiment and experience."
+      ]
+    },
+    "Q071": {
+      "cell_ids": [
+        "J-071"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Seven tattvas map soul, non-soul, influx, bondage, stoppage, shedding and release."
+      ]
+    },
+    "Q072": {
+      "cell_ids": [
+        "J-072"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Nine tattvas add punya and papa."
+      ]
+    },
+    "Q073": {
+      "cell_ids": [
+        "J-073"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The vows are ahimsa, satya, asteya, brahmacarya and aparigraha."
+      ]
+    },
+    "Q074": {
+      "cell_ids": [
+        "J-074"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Ahimsa restrains harm, passions and karmic influx."
+      ]
+    },
+    "Q075": {
+      "cell_ids": [
+        "J-075"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Monastics take great vows; householders take limited vows."
+      ]
+    },
+    "Q076": {
+      "cell_ids": [
+        "J-076"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Moksa is complete karmic freedom and siddhahood."
+      ]
+    },
+    "Q077": {
+      "cell_ids": [
+        "J-077"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The 14 gunasthanas grade spiritual development."
+      ]
+    },
+    "Q078": {
+      "cell_ids": [
+        "J-078"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Sayoga-kevali is embodied omniscience with residual activity."
+      ]
+    },
+    "Q079": {
+      "cell_ids": [
+        "J-079"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Ayoga-kevali immediately precedes siddhahood."
+      ]
+    },
+    "Q080": {
+      "cell_ids": [
+        "J-080"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Liberated jiva retains individuality with unobstructed qualities."
+      ]
+    },
+    "Q081": {
+      "cell_ids": [
+        "J-081"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Bhava-bandha is psychical; dravya-bandha is material."
+      ]
+    },
+    "Q082": {
+      "cell_ids": [
+        "J-082"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Yoga drives influx; kasaya intensifies bondage."
+      ]
+    },
+    "Q083": {
+      "cell_ids": [
+        "J-083"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Samvara blocks new asrava."
+      ]
+    },
+    "Q084": {
+      "cell_ids": [
+        "J-084"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Nirjara removes accumulated karma."
+      ]
+    },
+    "Q085": {
+      "cell_ids": [
+        "J-085"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Digambara and Svetambara differ over nudity and white clothing."
+      ]
+    },
+    "Q086": {
+      "cell_ids": [
+        "J-086"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Svetambara accepts women’s direct liberation; Digambara traditionally requires male rebirth."
+      ]
+    },
+    "Q087": {
+      "cell_ids": [
+        "J-087"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "The sects differ over canon and permitted possessions."
+      ]
+    },
+    "Q088": {
+      "cell_ids": [
+        "J-088"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Sallekhana is regulated passionless thinning-out, not desire-driven self-killing."
+      ]
+    },
+    "Q089": {
+      "cell_ids": [
+        "J-089"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Sevenfold transfer indexes affirmation, negation and inexpressibility."
+      ]
+    },
+    "Q090": {
+      "cell_ids": [
+        "J-090"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Modern ahimsa is disciplined harm-minimization, not passivity."
+      ]
+    },
+    "Q091": {
+      "cell_ids": [
+        "J-091"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Modern aparigraha critiques attachment and excess, not all goods."
+      ]
+    },
+    "Q092": {
+      "cell_ids": [
+        "J-092"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Bondage diagnosis separates activity from passion-laden psychic condition."
+      ]
+    },
+    "Q093": {
+      "cell_ids": [
+        "J-093"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Jainism retains jiva; Buddhism rejects a permanent self."
+      ]
+    },
+    "Q094": {
+      "cell_ids": [
+        "J-094"
+      ],
+      "mapping_type": "primary_single_cell",
+      "evidence_surfaces": [
+        "title",
+        "stem",
+        "keyed_correct_option",
+        "keyed_correct_explanation"
+      ],
+      "assertions": [
+        "Jaina plurality differs from Advaita non-duality and Nyaya cognition-as-quality."
+      ]
+    }
+  }
+}

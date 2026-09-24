@@ -1,19 +1,104 @@
 {
   "schema_version": 1,
-  "validated_at": "2026-09-24T19:52:43+05:30",
+  "validated_at": "2026-09-24T22:34:37+05:30",
   "mode": "development",
   "state": "DEVELOPMENT_PASS",
   "release_ready": false,
   "checks": {
-    "required_files": 22,
+    "required_files": 19,
+    "markdown_canonical": true,
+    "pdf_validation": "optional_not_checked",
     "formal_blocks": 299,
     "panels": 12,
     "doctrine_guardrails": 15,
-    "mcqs": 32,
+    "mcq_cue_metrics": {
+      "policy": {
+        "word_count_regex": "\\b[^\\W_]+(?:['’\\-][^\\W_]+)*\\b",
+        "aggregate_correct_to_distractor_ratio_max": 1.2,
+        "per_item_correct_to_average_distractor_ratio_max": 1.6,
+        "per_item_correct_advantage_min_words": 3.0,
+        "extreme_short_keyed_min_words": 6,
+        "extreme_short_distractor_max_words": 2,
+        "extreme_short_distractor_to_keyed_ratio_min": 0.4,
+        "visible_spread_ratio_max": 2.25,
+        "visible_spread_min_gap_words": 6,
+        "grammatical_parallelism_checks": [
+          "terminal_punctuation",
+          "initial_letter_case"
+        ],
+        "noncompetitive_patterns": [
+          "\\ball of the above\\b",
+          "\\bnone of the above\\b",
+          "\\bboth [A-D] and [A-D]\\b",
+          "\\bcannot say\\b",
+          "\\b(?:wholly )?(?:irrelevant|unrelated)\\b"
+        ]
+      },
+      "mean_correct_words": 9.234,
+      "mean_distractor_words": 10.1738,
+      "aggregate_correct_to_distractor_ratio": 0.9076,
+      "ratio_at_or_above_1_8_count": 0,
+      "material_length_outlier_count": 0,
+      "policy_outlier_count": 0,
+      "noncompetitive_distractor_count": 0,
+      "all_options_terminal_punctuation_consistent": true,
+      "all_options_initial_letter_case_consistent": true,
+      "grammar_parallel_review": "passed_computed_surface_checks"
+    },
+    "mcqs": 94,
+    "test_matrix_cells": 94,
+    "baseline_cells": {
+      "adequate": 38,
+      "partial": 20,
+      "uncovered": 36
+    },
+    "matrix_categories": {
+      "foundations": {
+        "total": 6,
+        "adequate": 3,
+        "partial": 0,
+        "uncovered": 3
+      },
+      "ontology": {
+        "total": 13,
+        "adequate": 6,
+        "partial": 6,
+        "uncovered": 1
+      },
+      "epistemology": {
+        "total": 10,
+        "adequate": 4,
+        "partial": 1,
+        "uncovered": 5
+      },
+      "many-sided logic": {
+        "total": 26,
+        "adequate": 11,
+        "partial": 2,
+        "uncovered": 13
+      },
+      "criticism-comparison-pyq": {
+        "total": 11,
+        "adequate": 2,
+        "partial": 3,
+        "uncovered": 6
+      },
+      "karma-liberation-ethics": {
+        "total": 22,
+        "adequate": 11,
+        "partial": 7,
+        "uncovered": 4
+      },
+      "transfer": {
+        "total": 6,
+        "adequate": 1,
+        "partial": 1,
+        "uncovered": 4
+      }
+    },
     "pyqs": 10,
     "supporting_pyqs": 1,
-    "timed_models_including_mirror": 17,
-    "pdfs": 4
+    "timed_models_including_mirror": 17
   },
   "error_count": 0,
   "errors": []

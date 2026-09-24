@@ -1,0 +1,2170 @@
+{
+  "schema_version": 2,
+  "topic": "Jainism",
+  "authorship": "topic-local authored coverage bank",
+  "seed": 8560500507743229150,
+  "questions": [
+    {
+      "id": "Q001",
+      "number": 1,
+      "cell_ids": [
+        "J-001"
+      ],
+      "title": "Tirthankara lineage",
+      "stem": "Which statement best represents the Jaina tirthankara tradition?",
+      "options": [
+        "It recognizes twenty-four ford-makers, with Rishabha first and Mahavira twenty-fourth.",
+        "It recognizes ten prophetic teachers, all contemporaries of Mahavira.",
+        "It treats Mahavira as the creator and sole founder of Jainism.",
+        "It identifies every liberated soul as a tirthankara during embodied life."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Jainism recognizes 24 tirthankaras; Rishabha is first and Mahavira twenty-fourth.",
+        "Incorrect: Jainism teaches a lineage of twenty-four tirthankaras, not ten contemporaneous prophets. By contrast, Jainism recognizes 24 tirthankaras; Rishabha is first and Mahavira twenty-fourth.",
+        "Incorrect: Mahavira is the twenty-fourth tirthankara, neither cosmic creator nor founder ex nihilo. By contrast, Jainism recognizes 24 tirthankaras; Rishabha is first and Mahavira twenty-fourth.",
+        "Incorrect: Liberation makes a soul a siddha; tirthankara status is a distinct teaching role before liberation. By contrast, Jainism recognizes 24 tirthankaras; Rishabha is first and Mahavira twenty-fourth."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Jainism recognizes 24 tirthankaras; Rishabha is first and Mahavira twenty-fourth."
+    },
+    {
+      "id": "Q002",
+      "number": 2,
+      "cell_ids": [
+        "J-002"
+      ],
+      "title": "Mahavira context",
+      "stem": "Mahavira is most accurately situated as",
+      "options": [
+        "the twenty-fourth tirthankara who systematized an already existing śramaṇa tradition.",
+        "the first tirthankara who originated Jainism without any predecessor.",
+        "a Vedic ritualist who established the principal Upanishadic teaching lineages.",
+        "a Buddhist philosopher who defended momentariness and denied enduring selves."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Mahavira is the 24th tirthankara, not the creator of Jainism ex nihilo.",
+        "Incorrect: Rishabha is counted first; Mahavira stands twenty-fourth in an inherited tradition. By contrast, Mahavira is the 24th tirthankara, not the creator of Jainism ex nihilo.",
+        "Incorrect: Mahavira belongs to the non-Vedic śramaṇa setting rather than Vedic ritual orthodoxy. By contrast, Mahavira is the 24th tirthankara, not the creator of Jainism ex nihilo.",
+        "Incorrect: Mahavira taught enduring jīvas and predates the later Buddhist philosophical schools. By contrast, Mahavira is the 24th tirthankara, not the creator of Jainism ex nihilo."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Mahavira is the 24th tirthankara, not the creator of Jainism ex nihilo."
+    },
+    {
+      "id": "Q003",
+      "number": 3,
+      "cell_ids": [
+        "J-003"
+      ],
+      "title": "Non-creator cosmos",
+      "stem": "How does Jainism combine a non-created cosmos with reverence for perfected teachers?",
+      "options": [
+        "A beginningless cosmos is disclosed, not created, by perfected tirthankaras.",
+        "A timeless creator produces matter while tirthankaras govern individual souls.",
+        "Tirthankaras periodically create the cosmos after each universal dissolution.",
+        "Liberated siddhas administer karmic rewards within an otherwise uncreated universe."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The Jaina cosmos is beginningless and non-created; perfected teachers disclose the path.",
+        "Incorrect: Jainism rejects a creator and treats both soul and matter as beginningless realities. By contrast, The Jaina cosmos is beginningless and non-created; perfected teachers disclose the path.",
+        "Incorrect: Tirthankaras disclose liberation; they do not create or recreate the beginningless cosmos. By contrast, The Jaina cosmos is beginningless and non-created; perfected teachers disclose the path.",
+        "Incorrect: Siddhas neither govern the cosmos nor distribute karmic fruits after liberation. By contrast, The Jaina cosmos is beginningless and non-created; perfected teachers disclose the path."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The Jaina cosmos is beginningless and non-created; perfected teachers disclose the path."
+    },
+    {
+      "id": "Q004",
+      "number": 4,
+      "cell_ids": [
+        "J-004"
+      ],
+      "title": "Śramaṇa orientation",
+      "stem": "The śramaṇa setting of Jainism most directly highlights",
+      "options": [
+        "renunciation, karmic discipline and liberation outside Vedic sacrificial authority.",
+        "hereditary priesthood, sacrificial correctness and salvation through Vedic revelation.",
+        "exclusive devotion to a creator whose grace cancels accumulated karmic matter.",
+        "denial of rebirth, ascetic discipline and morally consequential action."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Jainism belongs to the śramaṇa stream emphasizing discipline and release.",
+        "Incorrect: The śramaṇa orientation contests Vedic sacrificial authority through renunciation and discipline. By contrast, Jainism belongs to the śramaṇa stream emphasizing discipline and release.",
+        "Incorrect: Jaina liberation depends on stopping and shedding karma, not creator-grace. By contrast, Jainism belongs to the śramaṇa stream emphasizing discipline and release.",
+        "Incorrect: Jainism affirms rebirth, ascetic discipline and karmically consequential conduct. By contrast, Jainism belongs to the śramaṇa stream emphasizing discipline and release."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Jainism belongs to the śramaṇa stream emphasizing discipline and release."
+    },
+    {
+      "id": "Q005",
+      "number": 5,
+      "cell_ids": [
+        "J-005"
+      ],
+      "title": "Three jewels overview",
+      "stem": "Which triad constitutes the ratnatraya?",
+      "options": [
+        "Right faith, right knowledge and right conduct.",
+        "Right sacrifice, right lineage and right knowledge of revelation.",
+        "Right perception, divine grace and purity achieved through ritual.",
+        "Right livelihood, right mindfulness and right concentration as the complete triad."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The three jewels are right faith, right knowledge and right conduct.",
+        "Incorrect: Sacrifice and lineage are not members of the Jaina three jewels. By contrast, The three jewels are right faith, right knowledge and right conduct.",
+        "Incorrect: Creator-grace and ritual purity do not replace right knowledge and conduct. By contrast, The three jewels are right faith, right knowledge and right conduct.",
+        "Incorrect: Those Buddhist path factors are not the Jaina ratnatraya. By contrast, The three jewels are right faith, right knowledge and right conduct."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The three jewels are right faith, right knowledge and right conduct."
+    },
+    {
+      "id": "Q006",
+      "number": 6,
+      "cell_ids": [
+        "J-006"
+      ],
+      "title": "Teacher versus deity",
+      "stem": "A siddha differs from a creator-god because a siddha",
+      "options": [
+        "is a liberated perfected soul without cosmic creation or governance functions.",
+        "creates matter and space while leaving individual souls uncreated.",
+        "allocates karmic fruits to embodied souls through perfect personal judgement.",
+        "remains embodied at the cosmic summit to supervise moral causation."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: A siddha is liberated and perfected, not a creator or governor.",
+        "Incorrect: A siddha has no creative function over any Jaina substance. By contrast, A siddha is liberated and perfected, not a creator or governor.",
+        "Incorrect: Karmic fruition is not administered by a judging liberated deity. By contrast, A siddha is liberated and perfected, not a creator or governor.",
+        "Incorrect: A siddha is disembodied and inactive, not a cosmic supervisor. By contrast, A siddha is liberated and perfected, not a creator or governor."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: A siddha is liberated and perfected, not a creator or governor."
+    },
+    {
+      "id": "Q007",
+      "number": 7,
+      "cell_ids": [
+        "J-007"
+      ],
+      "title": "Six dravyas",
+      "stem": "Which list gives exactly the six Jaina substances?",
+      "options": [
+        "Jīva, pudgala, dharma, adharma, ākāśa and kāla.",
+        "Jīva, prakṛti, puruṣa, direction, space and time.",
+        "Earth, water, fire, air, ether and individual self.",
+        "Jīva, pudgala, quality, mode, karma and liberation."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The six dravyas are jiva, pudgala, dharma, adharma, akasa and kala.",
+        "Incorrect: Prakṛti, puruṣa and direction belong to other classificatory schemes, not the six dravyas. By contrast, The six dravyas are jiva, pudgala, dharma, adharma, akasa and kala.",
+        "Incorrect: This imports an elemental list and omits the Jaina media of motion and rest. By contrast, The six dravyas are jiva, pudgala, dharma, adharma, akasa and kala.",
+        "Incorrect: Quality and mode depend on substances, while karma and liberation are not separate dravyas. By contrast, The six dravyas are jiva, pudgala, dharma, adharma, akasa and kala."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The six dravyas are jiva, pudgala, dharma, adharma, akasa and kala."
+    },
+    {
+      "id": "Q008",
+      "number": 8,
+      "cell_ids": [
+        "J-008"
+      ],
+      "title": "Jiva and ajiva",
+      "stem": "The basic jīva–ajīva division distinguishes",
+      "options": [
+        "conscious substance from the five non-conscious kinds of substance.",
+        "permanent material substance from consciousness that is ultimately unreal.",
+        "one creator-self from the many dependent souls it brings into existence.",
+        "momentary mental events from an unchanging but empty cosmic container."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Jiva is conscious substance; ajiva comprises pudgala, dharma, adharma, akasa and kala.",
+        "Incorrect: Jainism regards consciousness as the defining character of real jīva. By contrast, Jiva is conscious substance; ajiva comprises pudgala, dharma, adharma, akasa and kala.",
+        "Incorrect: Jaina pluralism rejects one creator-self and created finite souls. By contrast, Jiva is conscious substance; ajiva comprises pudgala, dharma, adharma, akasa and kala.",
+        "Incorrect: The division concerns conscious jīva and five real non-conscious substances. By contrast, Jiva is conscious substance; ajiva comprises pudgala, dharma, adharma, akasa and kala."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Jiva is conscious substance; ajiva comprises pudgala, dharma, adharma, akasa and kala."
+    },
+    {
+      "id": "Q009",
+      "number": 9,
+      "cell_ids": [
+        "J-009"
+      ],
+      "title": "Five astikayas",
+      "stem": "Why are there five astikāyas although there are six dravyas?",
+      "options": [
+        "Kāla is a dravya but lacks the extension required of an astikāya.",
+        "Jīva lacks extension and is therefore excluded from the astikāyas.",
+        "Pudgala lacks spatial units despite forming atoms and material aggregates.",
+        "Ākāśa is merely a quality and therefore cannot count as substance."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Five extended substances are astikayas; kala is the sixth dravya but not an astikaya.",
+        "Incorrect: Embodied jīva has spatial extension and is included among the astikāyas. By contrast, Five extended substances are astikayas; kala is the sixth dravya but not an astikaya.",
+        "Incorrect: Pudgala is extended and therefore qualifies as an astikāya. By contrast, Five extended substances are astikayas; kala is the sixth dravya but not an astikaya.",
+        "Incorrect: Ākāśa is a real extended dravya and one of the five astikāyas. By contrast, Five extended substances are astikayas; kala is the sixth dravya but not an astikaya."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Five extended substances are astikayas; kala is the sixth dravya but not an astikaya."
+    },
+    {
+      "id": "Q010",
+      "number": 10,
+      "cell_ids": [
+        "J-010"
+      ],
+      "title": "Role of kala",
+      "stem": "In Jaina ontology, kāla primarily accounts for",
+      "options": [
+        "succession, duration and change without itself being an astikāya.",
+        "the moral direction and deserved result of every voluntary action.",
+        "the active propulsion that initiates movement in bodies and atoms.",
+        "the accommodation of liberated souls in a realm beyond all space."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Kala is the real condition of succession and change and is not an astikaya.",
+        "Incorrect: Moral causation belongs to karma, not to kāla as time. By contrast, Kala is the real condition of succession and change and is not an astikaya.",
+        "Incorrect: Dharma-dravya enables motion passively; kāla does not propel bodies. By contrast, Kala is the real condition of succession and change and is not an astikaya.",
+        "Incorrect: Siddhas remain at the summit of lokākāśa, not beyond ākāśa. By contrast, Kala is the real condition of succession and change and is not an astikaya."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Kala is the real condition of succession and change and is not an astikaya."
+    },
+    {
+      "id": "Q011",
+      "number": 11,
+      "cell_ids": [
+        "J-011"
+      ],
+      "title": "Akasa division",
+      "stem": "Which relation among ākāśa, lokākāśa and alokākāśa is correct?",
+      "options": [
+        "Ākāśa is space; lokākāśa is the inhabited cosmic region, while alokākāśa is empty space beyond it.",
+        "Ākāśa is time, lokākāśa material substance, and alokākāśa final liberation itself.",
+        "Lokākāśa alone is genuine space, whereas alokākāśa is absolute non-being.",
+        "Alokākāśa contains motion and matter, while lokākāśa contains only liberated siddhas."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Akasa includes lokakasa, where other substances operate, and alokakasa beyond the world-region.",
+        "Incorrect: All three terms concern space and its cosmic divisions, not time, matter and release. By contrast, Akasa includes lokakasa, where other substances operate, and alokakasa beyond the world-region.",
+        "Incorrect: Alokākāśa is real empty space, not sheer non-being. By contrast, Akasa includes lokakasa, where other substances operate, and alokakasa beyond the world-region.",
+        "Incorrect: Other substances operate in lokākāśa; alokākāśa contains only space. By contrast, Akasa includes lokakasa, where other substances operate, and alokakasa beyond the world-region."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Akasa includes lokakasa, where other substances operate, and alokakasa beyond the world-region."
+    },
+    {
+      "id": "Q012",
+      "number": 12,
+      "cell_ids": [
+        "J-012"
+      ],
+      "title": "Pudgala structure",
+      "stem": "Pudgala is best understood as",
+      "options": [
+        "material substance ranging from atoms to aggregates and capable of sensory qualities.",
+        "a non-spatial stream of mental events generated by embodied cognition.",
+        "the passive medium enabling movement without itself being moving matter.",
+        "an eternal intelligent creator whose transformations become finite individual souls."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Pudgala is material, atomic and aggregate-forming, with sensible qualities.",
+        "Incorrect: Pudgala is extended material substance, not a mental stream. By contrast, Pudgala is material, atomic and aggregate-forming, with sensible qualities.",
+        "Incorrect: That describes dharma-dravya rather than pudgala. By contrast, Pudgala is material, atomic and aggregate-forming, with sensible qualities.",
+        "Incorrect: Pudgala is non-conscious matter and never an intelligent creator. By contrast, Pudgala is material, atomic and aggregate-forming, with sensible qualities."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Pudgala is material, atomic and aggregate-forming, with sensible qualities."
+    },
+    {
+      "id": "Q013",
+      "number": 13,
+      "cell_ids": [
+        "J-013"
+      ],
+      "title": "Sound and matter",
+      "stem": "Why is sound classified under pudgala in Jainism?",
+      "options": [
+        "Sound is treated as a material modification propagated through material aggregates.",
+        "Sound is an eternal quality inhering in a permanent cosmic creator.",
+        "Sound is identical with consciousness manifested by every embodied jīva.",
+        "Sound belongs exclusively to alokākāśa and cannot propagate through matter."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Sound is a mode of pudgala, not an immaterial eternal entity.",
+        "Incorrect: Jainism treats sound as a material mode, not a creator's eternal quality. By contrast, Sound is a mode of pudgala, not an immaterial eternal entity.",
+        "Incorrect: Consciousness characterizes jīva; sound is a modification of pudgala. By contrast, Sound is a mode of pudgala, not an immaterial eternal entity.",
+        "Incorrect: Sound propagates materially within the world-region rather than empty alokākāśa. By contrast, Sound is a mode of pudgala, not an immaterial eternal entity."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Sound is a mode of pudgala, not an immaterial eternal entity."
+    },
+    {
+      "id": "Q014",
+      "number": 14,
+      "cell_ids": [
+        "J-014"
+      ],
+      "title": "Substance quality mode",
+      "stem": "The relation of dravya, guṇa and paryāya is that",
+      "options": [
+        "a substance has enduring qualities while undergoing changing modes.",
+        "qualities alone are real, while substances are convenient verbal constructions.",
+        "substance remains permanent because it undergoes no change in any respect.",
+        "each changing mode becomes a numerically new substance without continuity."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Jaina realism integrates persistence of substance and qualities with change of modes.",
+        "Incorrect: Jaina realism affirms substances together with their qualities and modes. By contrast, Jaina realism integrates persistence of substance and qualities with change of modes.",
+        "Incorrect: Persistence coexists with origination and cessation of modes. By contrast, Jaina realism integrates persistence of substance and qualities with change of modes.",
+        "Incorrect: Modes change while an enduring substance provides continuity. By contrast, Jaina realism integrates persistence of substance and qualities with change of modes."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Jaina realism integrates persistence of substance and qualities with change of modes."
+    },
+    {
+      "id": "Q015",
+      "number": 15,
+      "cell_ids": [
+        "J-015"
+      ],
+      "title": "Real as permanence and change",
+      "stem": "The Jaina definition of the real accommodates",
+      "options": [
+        "origination, cessation and persistence in different respects.",
+        "absolute permanence without origination, cessation or modal alteration.",
+        "momentary origination and destruction without any persisting substantial basis.",
+        "neither persistence nor change because both arise from conceptual projection."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Reality combines origination, cessation and persistence under indexed respects.",
+        "Incorrect: The Jaina real includes modal origination and cessation alongside persistence. By contrast, Reality combines origination, cessation and persistence under indexed respects.",
+        "Incorrect: Jainism rejects pure momentariness by affirming enduring dravya. By contrast, Reality combines origination, cessation and persistence under indexed respects.",
+        "Incorrect: Persistence and change are both objectively real under different respects. By contrast, Reality combines origination, cessation and persistence under indexed respects."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Reality combines origination, cessation and persistence under indexed respects."
+    },
+    {
+      "id": "Q016",
+      "number": 16,
+      "cell_ids": [
+        "J-016"
+      ],
+      "title": "Dharma medium",
+      "stem": "Dharma-dravya is",
+      "options": [
+        "the passive medium of motion, neither moral merit nor a propelling force.",
+        "the accumulated moral merit that determines a soul's fortunate rebirth.",
+        "an efficient force that physically pushes atoms and bodies through space.",
+        "a creator's normative law governing conduct, judgement and final liberation."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Dharma-dravya is the condition or medium of motion, not virtue or propulsion.",
+        "Incorrect: Moral merit is puṇya; dharma-dravya is the medium of motion. By contrast, Dharma-dravya is the condition or medium of motion, not virtue or propulsion.",
+        "Incorrect: Dharma-dravya permits motion but does not actively propel anything. By contrast, Dharma-dravya is the condition or medium of motion, not virtue or propulsion.",
+        "Incorrect: Jainism has no creator-lawgiver, and this dravya is non-moral. By contrast, Dharma-dravya is the condition or medium of motion, not virtue or propulsion."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Dharma-dravya is the condition or medium of motion, not virtue or propulsion."
+    },
+    {
+      "id": "Q017",
+      "number": 17,
+      "cell_ids": [
+        "J-017"
+      ],
+      "title": "Adharma medium",
+      "stem": "Adharma-dravya is",
+      "options": [
+        "the passive medium that makes rest possible, not sin or an active brake.",
+        "the demerit that mechanically punishes a soul through painful rebirth.",
+        "an active force that arrests every moving object within the cosmos.",
+        "the complete absence of every substance throughout empty alokākāśa."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Adharma-dravya is the condition or medium of rest, not vice or an active stopper.",
+        "Incorrect: Demerit is pāpa; adharma-dravya is the medium of rest. By contrast, Adharma-dravya is the condition or medium of rest, not vice or an active stopper.",
+        "Incorrect: Adharma enables rest without operating as an active brake. By contrast, Adharma-dravya is the condition or medium of rest, not vice or an active stopper.",
+        "Incorrect: Alokākāśa still contains space, while adharma operates only in lokākāśa. By contrast, Adharma-dravya is the condition or medium of rest, not vice or an active stopper."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Adharma-dravya is the condition or medium of rest, not vice or an active stopper."
+    },
+    {
+      "id": "Q018",
+      "number": 18,
+      "cell_ids": [
+        "J-018"
+      ],
+      "title": "Soul embodiment",
+      "stem": "How can an immaterial jīva be described as coextensive with its body?",
+      "options": [
+        "In bondage its consciousness occupies the body’s spatial extent without becoming material pudgala.",
+        "The soul is nothing beyond the body's organized material atoms.",
+        "Every soul possesses one fixed physical size throughout all embodiments.",
+        "At death the material body expands through lokākāśa into empty alokākāśa."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: An embodied jiva pervades its body while remaining distinct from pudgala.",
+        "Incorrect: Jīva is a distinct conscious substance and is not reducible to pudgala. By contrast, An embodied jiva pervades its body while remaining distinct from pudgala.",
+        "Incorrect: A bound soul accommodates the extent of its present body. By contrast, An embodied jiva pervades its body while remaining distinct from pudgala.",
+        "Incorrect: Neither body nor soul crosses into alokākāśa in this manner. By contrast, An embodied jiva pervades its body while remaining distinct from pudgala."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: An embodied jiva pervades its body while remaining distinct from pudgala."
+    },
+    {
+      "id": "Q019",
+      "number": 19,
+      "cell_ids": [
+        "J-019"
+      ],
+      "title": "Pluralist realist verdict 2025",
+      "stem": "A defensible response to the 2025 pluralist-realism question is that Jainism is",
+      "options": [
+        "objective plural realism disciplined by conditional, many-sided assertion.",
+        "subjective anti-realism because each standpoint creates its own private object.",
+        "consciousness monism because all substances reduce to one universal jīva.",
+        "predicate nihilism because no determinate statement applies to any object."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Jainism is a qualified pluralist realism, not subjectivism or nihilism.",
+        "Incorrect: Standpoints disclose aspects of an objective many-sided reality. By contrast, Jainism is a qualified pluralist realism, not subjectivism or nihilism.",
+        "Incorrect: Jainism affirms many irreducible souls and non-conscious substances. By contrast, Jainism is a qualified pluralist realism, not subjectivism or nihilism.",
+        "Incorrect: Qualified predicates remain true and determinate under specified respects. By contrast, Jainism is a qualified pluralist realism, not subjectivism or nihilism."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Jainism is a qualified pluralist realism, not subjectivism or nihilism."
+    },
+    {
+      "id": "Q020",
+      "number": 20,
+      "cell_ids": [
+        "J-020"
+      ],
+      "title": "Pramana and jnana",
+      "stem": "In the Jaina framework, pramāṇa is most closely connected with",
+      "options": [
+        "valid object-apprehending cognition, classified by its mode and range.",
+        "ritual injunction validated exclusively by the authorless authority of the Veda.",
+        "skeptical suspension that withholds assent from every possible object-judgement.",
+        "an infallible decree communicated to finite knowers by a creator deity."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Pramana concerns valid cognition; jnana classifications explain its modes and range.",
+        "Incorrect: That account belongs to Mīmāṃsā, not Jaina theories of valid cognition. By contrast, Pramana concerns valid cognition; jnana classifications explain its modes and range.",
+        "Incorrect: Jainism accepts valid cognition and reserves exhaustive knowledge for kevala. By contrast, Pramana concerns valid cognition; jnana classifications explain its modes and range.",
+        "Incorrect: Jaina epistemology does not ground knowledge in a creator's decree. By contrast, Pramana concerns valid cognition; jnana classifications explain its modes and range."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Pramana concerns valid cognition; jnana classifications explain its modes and range."
+    },
+    {
+      "id": "Q021",
+      "number": 21,
+      "cell_ids": [
+        "J-021"
+      ],
+      "title": "Mati stages",
+      "stem": "Which sequence best represents the progressive stages of mati-jñāna?",
+      "options": [
+        "Apprehension, inquiry, determination and retention.",
+        "Revelation, doubt, omniscience and complete liberation from embodied existence.",
+        "Perception, ritual performance, divine grace and recollection of previous births.",
+        "Affirmation, negation, inexpressibility and silence regarding the same object."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Mati cognition develops through apprehension, inquiry, determination and retention.",
+        "Incorrect: These are not the four progressive moments of ordinary mati cognition. By contrast, Mati cognition develops through apprehension, inquiry, determination and retention.",
+        "Incorrect: Ritual and grace do not form the Jaina sequence of mati stages. By contrast, Mati cognition develops through apprehension, inquiry, determination and retention.",
+        "Incorrect: This confuses cognitive stages with forms of conditional predication. By contrast, Mati cognition develops through apprehension, inquiry, determination and retention."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Mati cognition develops through apprehension, inquiry, determination and retention."
+    },
+    {
+      "id": "Q022",
+      "number": 22,
+      "cell_ids": [
+        "J-022"
+      ],
+      "title": "Sruta dependence",
+      "stem": "Śruta-jñāna is distinctive because it",
+      "options": [
+        "is mediated by signs, words or testimony and depends upon prior mati cognition.",
+        "is direct omniscience arising without linguistic or cognitive mediation.",
+        "directly apprehends another person's mental modes without verbal signs.",
+        "directly perceives distant material objects beyond the ordinary sensory range."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Sruta knowledge is sign- or word-mediated and depends on mati.",
+        "Incorrect: Unmediated omniscience is kevala, whereas śruta depends on signs and mati. By contrast, Sruta knowledge is sign- or word-mediated and depends on mati.",
+        "Incorrect: That capacity is manaḥparyāya rather than śruta. By contrast, Sruta knowledge is sign- or word-mediated and depends on mati.",
+        "Incorrect: That limited clairvoyant cognition is avadhi rather than śruta. By contrast, Sruta knowledge is sign- or word-mediated and depends on mati."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Sruta knowledge is sign- or word-mediated and depends on mati."
+    },
+    {
+      "id": "Q023",
+      "number": 23,
+      "cell_ids": [
+        "J-023"
+      ],
+      "title": "Avadhi cognition",
+      "stem": "Avadhi-jñāna is",
+      "options": [
+        "direct but limited cognition of material objects beyond ordinary sensory range.",
+        "verbal knowledge obtained from scripture and dependent upon ordinary cognition.",
+        "direct cognition of another person's present mental modifications.",
+        "unlimited omniscience of every substance and mode across all times."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Avadhi is limited direct clairvoyant knowledge of material objects.",
+        "Incorrect: Word-mediated scriptural knowledge is śruta, not avadhi. By contrast, Avadhi is limited direct clairvoyant knowledge of material objects.",
+        "Incorrect: Direct knowledge of another mind is manaḥparyāya. By contrast, Avadhi is limited direct clairvoyant knowledge of material objects.",
+        "Incorrect: Unlimited direct knowledge is kevala; avadhi remains materially limited. By contrast, Avadhi is limited direct clairvoyant knowledge of material objects."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Avadhi is limited direct clairvoyant knowledge of material objects."
+    },
+    {
+      "id": "Q024",
+      "number": 24,
+      "cell_ids": [
+        "J-024"
+      ],
+      "title": "Manahparyaya cognition",
+      "stem": "Manaḥparyāya-jñāna refers to",
+      "options": [
+        "direct cognition of the modes of another mind.",
+        "ordinary inference from another person's speech, gesture and bodily expression.",
+        "unlimited knowledge of every object and mode across past, present and future.",
+        "scriptural cognition acquired through words and dependent upon prior mati."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Manahparyaya is direct cognition of others’ mental modes.",
+        "Incorrect: Manaḥparyāya is direct cognition, not inference from outward signs. By contrast, Manahparyaya is direct cognition of others’ mental modes.",
+        "Incorrect: That exhaustive scope belongs to kevala-jñāna. By contrast, Manahparyaya is direct cognition of others’ mental modes.",
+        "Incorrect: That is śruta-jñāna rather than direct cognition of mental modes. By contrast, Manahparyaya is direct cognition of others’ mental modes."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Manahparyaya is direct cognition of others’ mental modes."
+    },
+    {
+      "id": "Q025",
+      "number": 25,
+      "cell_ids": [
+        "J-025"
+      ],
+      "title": "Wrong cognition",
+      "stem": "Mithyā-jñāna is best diagnosed as",
+      "options": [
+        "cognition distorted by false orientation, so ethical-spiritual disposition affects epistemic status.",
+        "every sensory cognition, because material sense organs necessarily falsify objects.",
+        "all cognition short of omniscience, even when it accurately grasps an aspect.",
+        "a merely verbal ambiguity carrying no ethical or soteriological consequence."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Wrong cognition is connected to false orientation and has ethical-soteriological significance.",
+        "Incorrect: Mati can be valid; embodiment does not make every sensory cognition false. By contrast, Wrong cognition is connected to false orientation and has ethical-soteriological significance.",
+        "Incorrect: Finite cognition can be valid without being exhaustive. By contrast, Wrong cognition is connected to false orientation and has ethical-soteriological significance.",
+        "Incorrect: False orientation links wrong cognition to bondage and liberation. By contrast, Wrong cognition is connected to false orientation and has ethical-soteriological significance."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Wrong cognition is connected to false orientation and has ethical-soteriological significance."
+    },
+    {
+      "id": "Q026",
+      "number": 26,
+      "cell_ids": [
+        "J-026"
+      ],
+      "title": "Kevala cognition",
+      "stem": "Kevala-jñāna is",
+      "options": [
+        "unobstructed, unlimited and direct knowledge attained when knowledge-obscuring karmas are destroyed.",
+        "ordinary sensory perception sharpened through exceptionally refined physical instruments.",
+        "a comprehensive linguistic synthesis produced by mastery of all scriptures.",
+        "knowledge bestowed by a creator deity when the embodied soul dies."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Kevala is perfect direct omniscience following destruction of obscuring karmas.",
+        "Incorrect: Kevala is not instrument-dependent sensory cognition. By contrast, Kevala is perfect direct omniscience following destruction of obscuring karmas.",
+        "Incorrect: Scriptural mastery remains mediated śruta rather than direct omniscience. By contrast, Kevala is perfect direct omniscience following destruction of obscuring karmas.",
+        "Incorrect: Kevala follows karmic destruction, not supernatural donation. By contrast, Kevala is perfect direct omniscience following destruction of obscuring karmas."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Kevala is perfect direct omniscience following destruction of obscuring karmas."
+    },
+    {
+      "id": "Q027",
+      "number": 27,
+      "cell_ids": [
+        "J-027"
+      ],
+      "title": "Direct indirect inversion",
+      "stem": "The Jaina direct–indirect classification is unusual because",
+      "options": [
+        "mati and śruta are indirect, whereas avadhi, manaḥparyāya and kevala are direct.",
+        "only scriptural testimony is direct, while every non-verbal cognition is indirect.",
+        "all five kinds of knowledge are indirect because each concerns an object.",
+        "ordinary sense perception alone is direct, while omniscience remains inferential."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Jaina paroksa includes mati and sruta; pratyaksa includes avadhi, manahparyaya and kevala.",
+        "Incorrect: Jainism classifies śruta as indirect and three extraordinary cognitions as direct. By contrast, Jaina paroksa includes mati and sruta; pratyaksa includes avadhi, manahparyaya and kevala.",
+        "Incorrect: Avadhi, manaḥparyāya and kevala are treated as direct. By contrast, Jaina paroksa includes mati and sruta; pratyaksa includes avadhi, manahparyaya and kevala.",
+        "Incorrect: Jaina usage reverses this ordinary classification and counts kevala as direct. By contrast, Jaina paroksa includes mati and sruta; pratyaksa includes avadhi, manahparyaya and kevala."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Jaina paroksa includes mati and sruta; pratyaksa includes avadhi, manahparyaya and kevala."
+    },
+    {
+      "id": "Q028",
+      "number": 28,
+      "cell_ids": [
+        "J-028"
+      ],
+      "title": "Five knowledges",
+      "stem": "Which list contains exactly the five principal kinds of Jaina knowledge?",
+      "options": [
+        "Mati, śruta, avadhi, manaḥparyāya and kevala.",
+        "Perception, inference, comparison, testimony and postulation as independent instruments.",
+        "Faith, knowledge, conduct, austerity and liberation as successive cognitions.",
+        "Existence, non-existence, both, inexpressibility and doubt as five cognitions."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The five knowledges are mati, sruta, avadhi, manahparyaya and kevala.",
+        "Incorrect: This imports a non-Jaina pramāṇa list rather than five Jaina knowledges. By contrast, The five knowledges are mati, sruta, avadhi, manahparyaya and kevala.",
+        "Incorrect: These ethical-soteriological categories are not five kinds of knowledge. By contrast, The five knowledges are mati, sruta, avadhi, manahparyaya and kevala.",
+        "Incorrect: This distorts saptabhaṅgī and does not classify Jaina knowledge. By contrast, The five knowledges are mati, sruta, avadhi, manahparyaya and kevala."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The five knowledges are mati, sruta, avadhi, manahparyaya and kevala."
+    },
+    {
+      "id": "Q029",
+      "number": 29,
+      "cell_ids": [
+        "J-029"
+      ],
+      "title": "Epistemic humility",
+      "stem": "Finite knowledge supports non-absolutism because",
+      "options": [
+        "ordinary knowers apprehend limited aspects, whereas only kevala-jñāna is exhaustive.",
+        "no finite or infinite cognition can validly apprehend any real object.",
+        "truth is created by each knower's preference rather than constrained by objects.",
+        "contradictory predicates are unconditionally true of one object in one respect."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Finite cognition is aspect-bound; omniscience alone is exhaustive.",
+        "Incorrect: Jainism accepts valid finite cognition and exhaustive omniscience. By contrast, Finite cognition is aspect-bound; omniscience alone is exhaustive.",
+        "Incorrect: Anekāntavāda remains realist and object-constrained. By contrast, Finite cognition is aspect-bound; omniscience alone is exhaustive.",
+        "Incorrect: Opposed predicates require different indices and are not unconditional contradictions. By contrast, Finite cognition is aspect-bound; omniscience alone is exhaustive."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Finite cognition is aspect-bound; omniscience alone is exhaustive."
+    },
+    {
+      "id": "Q030",
+      "number": 30,
+      "cell_ids": [
+        "J-030"
+      ],
+      "title": "Naya definition",
+      "stem": "A naya is",
+      "options": [
+        "a legitimate partial standpoint selecting one real aspect.",
+        "an exhaustive omniscient judgement comprehending every aspect simultaneously.",
+        "a formal truth table whose validity is independent of real objects.",
+        "an invalid inference produced whenever material senses contact an object."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: A naya is partial and legitimate unless absolutized.",
+        "Incorrect: A naya is deliberately partial rather than omniscient. By contrast, A naya is partial and legitimate unless absolutized.",
+        "Incorrect: Nayas are object-directed standpoints, not content-free truth tables. By contrast, A naya is partial and legitimate unless absolutized.",
+        "Incorrect: A naya can be legitimate; error arises when its partiality is absolutized. By contrast, A naya is partial and legitimate unless absolutized."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: A naya is partial and legitimate unless absolutized."
+    },
+    {
+      "id": "Q031",
+      "number": 31,
+      "cell_ids": [
+        "J-031"
+      ],
+      "title": "Samgraha naya",
+      "stem": "Saṃgraha-naya emphasizes",
+      "options": [
+        "the generic or class aspect shared by particulars.",
+        "the momentary present mode considered apart from substantial continuity.",
+        "the practical differentiation of concrete particulars for ordinary conduct.",
+        "the derivational specificity separating apparently synonymous expressions."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Samgraha naya takes the generic standpoint.",
+        "Incorrect: That is the emphasis of ṛjusūtra-naya, not saṃgraha-naya. By contrast, Samgraha naya takes the generic standpoint.",
+        "Incorrect: That characterizes vyavahāra-naya rather than the generic standpoint. By contrast, Samgraha naya takes the generic standpoint.",
+        "Incorrect: That is samabhirūḍha-naya's linguistic emphasis. By contrast, Samgraha naya takes the generic standpoint."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Samgraha naya takes the generic standpoint."
+    },
+    {
+      "id": "Q032",
+      "number": 32,
+      "cell_ids": [
+        "J-032"
+      ],
+      "title": "Vyavahara naya",
+      "stem": "Vyavahāra-naya approaches an object through",
+      "options": [
+        "its concrete, conventional and practically differentiated form.",
+        "its highest generic class while suppressing all practical differentiation.",
+        "its instantaneous present mode without reference to enduring substance.",
+        "its strict etymological root regardless of established conventional usage."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Vyavahara naya is the practical particularizing standpoint.",
+        "Incorrect: The generic standpoint is saṃgraha, not vyavahāra. By contrast, Vyavahara naya is the practical particularizing standpoint.",
+        "Incorrect: That describes ṛjusūtra-naya rather than practical particularization. By contrast, Vyavahara naya is the practical particularizing standpoint.",
+        "Incorrect: Derivational rigor belongs to samabhirūḍha-naya. By contrast, Vyavahara naya is the practical particularizing standpoint."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Vyavahara naya is the practical particularizing standpoint."
+    },
+    {
+      "id": "Q033",
+      "number": 33,
+      "cell_ids": [
+        "J-033"
+      ],
+      "title": "Rjusutra naya",
+      "stem": "Ṛjusūtra-naya focuses on",
+      "options": [
+        "the object’s present mode rather than enduring continuity.",
+        "the broad class-character shared by all members across temporal change.",
+        "every past, present and future mode grasped together as an exhaustive whole.",
+        "ordinary conventional synonymy among words used for practical communication."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Rjusutra naya isolates the present mode.",
+        "Incorrect: That is saṃgraha-naya's generic focus. By contrast, Rjusutra naya isolates the present mode.",
+        "Incorrect: Ṛjusūtra isolates the present mode and is not omniscient. By contrast, Rjusutra naya isolates the present mode.",
+        "Incorrect: That linguistic concern belongs to śabda-naya. By contrast, Rjusutra naya isolates the present mode."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Rjusutra naya isolates the present mode."
+    },
+    {
+      "id": "Q034",
+      "number": 34,
+      "cell_ids": [
+        "J-034"
+      ],
+      "title": "Sabda naya",
+      "stem": "Śabda-naya primarily attends to",
+      "options": [
+        "ordinary linguistic usage and conventional equivalence.",
+        "the present temporal mode isolated from enduring substantial continuity.",
+        "strict etymological differences that prevent conventional synonymy between words.",
+        "the universal or generic feature common to all particular instances."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Sabda naya concerns conventional linguistic usage.",
+        "Incorrect: That is ṛjusūtra-naya rather than śabda-naya. By contrast, Sabda naya concerns conventional linguistic usage.",
+        "Incorrect: That is samabhirūḍha-naya rather than ordinary usage. By contrast, Sabda naya concerns conventional linguistic usage.",
+        "Incorrect: That is saṃgraha-naya's object-level emphasis. By contrast, Sabda naya concerns conventional linguistic usage."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Sabda naya concerns conventional linguistic usage."
+    },
+    {
+      "id": "Q035",
+      "number": 35,
+      "cell_ids": [
+        "J-035"
+      ],
+      "title": "Samabhirudha naya",
+      "stem": "Samabhirūḍha-naya insists on",
+      "options": [
+        "fine distinctions among words according to derivational meanings.",
+        "treating conventional synonyms as interchangeable despite derivational differences.",
+        "denying that words possess stable conventional or derivational meanings.",
+        "reducing every concrete object to its highest generic class alone."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Samabhirudha naya distinguishes words through etymological specificity.",
+        "Incorrect: Samabhirūḍha stresses derivational differences rather than interchangeability. By contrast, Samabhirudha naya distinguishes words through etymological specificity.",
+        "Incorrect: This naya refines linguistic meaning instead of denying it. By contrast, Samabhirudha naya distinguishes words through etymological specificity.",
+        "Incorrect: That generic reduction belongs to saṃgraha-naya. By contrast, Samabhirudha naya distinguishes words through etymological specificity."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Samabhirudha naya distinguishes words through etymological specificity."
+    },
+    {
+      "id": "Q036",
+      "number": 36,
+      "cell_ids": [
+        "J-036"
+      ],
+      "title": "Dravyarthika standpoint",
+      "stem": "Dravyārthika nayas privilege",
+      "options": [
+        "the relatively enduring substance or general aspect.",
+        "only fleeting modes considered without any enduring substantial continuity.",
+        "inexpressibility treated as an independently existing ontological substance.",
+        "moral excellence alone, independently of substance, quality and mode."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Dravyarthika perspectives emphasize substance and continuity.",
+        "Incorrect: That is the paryāyārthika emphasis, not dravyārthika. By contrast, Dravyarthika perspectives emphasize substance and continuity.",
+        "Incorrect: Avaktavya is a predicative condition, not a dravya. By contrast, Dravyarthika perspectives emphasize substance and continuity.",
+        "Incorrect: Dravyārthika concerns substantial continuity rather than moral evaluation. By contrast, Dravyarthika perspectives emphasize substance and continuity."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Dravyarthika perspectives emphasize substance and continuity."
+    },
+    {
+      "id": "Q037",
+      "number": 37,
+      "cell_ids": [
+        "J-037"
+      ],
+      "title": "Paryayarthika standpoint",
+      "stem": "Paryāyārthika nayas privilege",
+      "options": [
+        "changing modes and particularized expression.",
+        "unchanging substance alone, excluding every real origination and cessation of modes.",
+        "universals created and sustained by an omniscient personal deity.",
+        "the impossibility of making any determinate predication about changing objects."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Paryayarthika perspectives emphasize modes and change.",
+        "Incorrect: Paryāyārthika emphasizes real modal change rather than changeless substance. By contrast, Paryayarthika perspectives emphasize modes and change.",
+        "Incorrect: Jainism neither makes universals creator-dependent nor identifies them with modes. By contrast, Paryayarthika perspectives emphasize modes and change.",
+        "Incorrect: Modes permit qualified predication; they do not make predication impossible. By contrast, Paryayarthika perspectives emphasize modes and change."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Paryayarthika perspectives emphasize modes and change."
+    },
+    {
+      "id": "Q038",
+      "number": 38,
+      "cell_ids": [
+        "J-038"
+      ],
+      "title": "Nayabhasa",
+      "stem": "A nayābhāsa arises when",
+      "options": [
+        "a partial standpoint is absolutized as the whole truth.",
+        "a partial standpoint explicitly remains qualified by its limited scope.",
+        "omniscience comprehends every aspect of an object without partiality.",
+        "different words preserve distinct conventional or derivational meanings."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Nayabhasa results from absolutizing a partial naya.",
+        "Incorrect: Qualification prevents, rather than constitutes, nayābhāsa. By contrast, Nayabhasa results from absolutizing a partial naya.",
+        "Incorrect: Exhaustive knowledge is not the fallacy of absolutizing one naya. By contrast, Nayabhasa results from absolutizing a partial naya.",
+        "Incorrect: Linguistic differentiation alone does not create nayābhāsa. By contrast, Nayabhasa results from absolutizing a partial naya."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Nayabhasa results from absolutizing a partial naya."
+    },
+    {
+      "id": "Q039",
+      "number": 39,
+      "cell_ids": [
+        "J-039"
+      ],
+      "title": "Syat indices",
+      "stem": "The force of syāt is best captured by",
+      "options": [
+        "“from a specified respect,” indexed by substance, place, time or mode.",
+        "“perhaps,” expressing uncertainty about whether any predicate is true.",
+        "“never,” denying that a real predicate can apply under any condition.",
+        "“unconditionally,” allowing opposed predicates within one identical respect."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Syat marks conditional assertion under specified indices.",
+        "Incorrect: Syāt qualifies a true claim by respect; it does not express mere doubt. By contrast, Syat marks conditional assertion under specified indices.",
+        "Incorrect: Syāt enables conditioned affirmation and negation rather than universal denial. By contrast, Syat marks conditional assertion under specified indices.",
+        "Incorrect: Syāt blocks unconditional contradiction by specifying relevant indices. By contrast, Syat marks conditional assertion under specified indices."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Syat marks conditional assertion under specified indices."
+    },
+    {
+      "id": "Q040",
+      "number": 40,
+      "cell_ids": [
+        "J-040"
+      ],
+      "title": "Anekanta to syadvada",
+      "stem": "Anekāntavāda and syādvāda relate because",
+      "options": [
+        "many-sided reality grounds conditionally qualified predication.",
+        "linguistic conventions construct the many-sided reality to which they refer.",
+        "both doctrines deny stable objects and reduce discourse to momentary signs.",
+        "the two doctrines operate independently, without any ontological grounding relation."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Anekantavada is ontological ground; syadvada is predicative discipline.",
+        "Incorrect: Anekāntavāda treats reality as prior to and constraining language. By contrast, Anekantavada is ontological ground; syadvada is predicative discipline.",
+        "Incorrect: Jainism affirms enduring substances with changing modes. By contrast, Anekantavada is ontological ground; syadvada is predicative discipline.",
+        "Incorrect: Syādvāda articulates the predicative discipline grounded in anekāntavāda. By contrast, Anekantavada is ontological ground; syadvada is predicative discipline."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Anekantavada is ontological ground; syadvada is predicative discipline."
+    },
+    {
+      "id": "Q041",
+      "number": 41,
+      "cell_ids": [
+        "J-041"
+      ],
+      "title": "First predication",
+      "stem": "Syād asti means",
+      "options": [
+        "in some specified respect, the object is.",
+        "the object exists absolutely, independently of every time, place and mode.",
+        "the object never exists under any possible substance, place, time or mode.",
+        "the object is solely inexpressible and cannot receive qualified affirmation."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Syad asti is qualified affirmation.",
+        "Incorrect: Syād asti affirms existence only under a specified index. By contrast, Syad asti is qualified affirmation.",
+        "Incorrect: That is universal negation, not qualified affirmation. By contrast, Syad asti is qualified affirmation.",
+        "Incorrect: The first predication is expressible qualified affirmation. By contrast, Syad asti is qualified affirmation."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Syad asti is qualified affirmation."
+    },
+    {
+      "id": "Q042",
+      "number": 42,
+      "cell_ids": [
+        "J-042"
+      ],
+      "title": "Second predication",
+      "stem": "Syān nāsti means",
+      "options": [
+        "in some specified respect, the object is not.",
+        "the object is absolute nothingness under every possible standpoint and index.",
+        "the object both exists and does not exist in one identical respect.",
+        "negative judgement about a real object is impossible in every respect."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Syan nasti is qualified negation.",
+        "Incorrect: Syān nāsti is indexed negation, not total non-being. By contrast, Syan nasti is qualified negation.",
+        "Incorrect: That collapses distinct indices and violates non-contradiction. By contrast, Syan nasti is qualified negation.",
+        "Incorrect: The second predication expressly permits qualified negation. By contrast, Syan nasti is qualified negation."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Syan nasti is qualified negation."
+    },
+    {
+      "id": "Q043",
+      "number": 43,
+      "cell_ids": [
+        "J-043"
+      ],
+      "title": "Third predication",
+      "stem": "Syād asti nāsti means",
+      "options": [
+        "it is under one index and is not under another.",
+        "one predicate is simultaneously true and false under an identical index.",
+        "the object is exclusively inexpressible and cannot be affirmed or denied.",
+        "every distinction between affirmation and negation is ultimately unreal."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Syad asti nasti combines indexed affirmation and negation.",
+        "Incorrect: The two predicates apply successively or under different respects. By contrast, Syad asti nasti combines indexed affirmation and negation.",
+        "Incorrect: The third form combines indexed affirmation and negation. By contrast, Syad asti nasti combines indexed affirmation and negation.",
+        "Incorrect: Jainism preserves both distinctions as objectively conditioned. By contrast, Syad asti nasti combines indexed affirmation and negation."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Syad asti nasti combines indexed affirmation and negation."
+    },
+    {
+      "id": "Q044",
+      "number": 44,
+      "cell_ids": [
+        "J-044"
+      ],
+      "title": "Fourth predication",
+      "stem": "Syād avaktavyaḥ means",
+      "options": [
+        "the object is inexpressible where opposed aspects cannot be jointly stated unqualifiedly.",
+        "the object is wholly unknowable and cannot be apprehended from any standpoint.",
+        "the speaker lacks evidence and therefore suspends all judgement about the object.",
+        "language can never refer successfully to any aspect of an objective reality."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Syad avaktavya is qualified inexpressibility, not ignorance.",
+        "Incorrect: Avaktavya concerns joint expression, not total unknowability. By contrast, Syad avaktavya is qualified inexpressibility, not ignorance.",
+        "Incorrect: The fourth form is not an admission of evidential uncertainty. By contrast, Syad avaktavya is qualified inexpressibility, not ignorance.",
+        "Incorrect: Jainism allows qualified language to express real aspects. By contrast, Syad avaktavya is qualified inexpressibility, not ignorance."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Syad avaktavya is qualified inexpressibility, not ignorance."
+    },
+    {
+      "id": "Q045",
+      "number": 45,
+      "cell_ids": [
+        "J-045"
+      ],
+      "title": "Fifth predication",
+      "stem": "Syād asti avaktavyaḥ means",
+      "options": [
+        "in some respect it is, and in some respect it is inexpressible.",
+        "it exists absolutely, although every linguistic description necessarily fails.",
+        "it does not exist under the relevant index but remains fully expressible.",
+        "it exists only as a subjective fiction generated by the speaker's standpoint."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The fifth form combines qualified affirmation and inexpressibility.",
+        "Incorrect: The affirmation is indexed, and inexpressibility is likewise conditioned. By contrast, The fifth form combines qualified affirmation and inexpressibility.",
+        "Incorrect: That omits affirmation and reverses the inexpressibility component. By contrast, The fifth form combines qualified affirmation and inexpressibility.",
+        "Incorrect: The fifth form remains realist rather than subjectivist. By contrast, The fifth form combines qualified affirmation and inexpressibility."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The fifth form combines qualified affirmation and inexpressibility."
+    },
+    {
+      "id": "Q046",
+      "number": 46,
+      "cell_ids": [
+        "J-046"
+      ],
+      "title": "Sixth predication",
+      "stem": "Syān nāsti avaktavyaḥ means",
+      "options": [
+        "it is not under one index and is inexpressible under another.",
+        "it both exists and does not exist simultaneously under one identical index.",
+        "it exists absolutely but happens to remain unnamed in ordinary language.",
+        "it is merely doubtful because available evidence supports no settled judgement."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The sixth form combines qualified negation and inexpressibility.",
+        "Incorrect: The sixth form combines negation with inexpressibility, not simultaneous contradiction. By contrast, The sixth form combines qualified negation and inexpressibility.",
+        "Incorrect: Qualified non-existence, not absolute existence, is the first component. By contrast, The sixth form combines qualified negation and inexpressibility.",
+        "Incorrect: The form expresses conditioned negation and inexpressibility, not doubt. By contrast, The sixth form combines qualified negation and inexpressibility."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The sixth form combines qualified negation and inexpressibility."
+    },
+    {
+      "id": "Q047",
+      "number": 47,
+      "cell_ids": [
+        "J-047"
+      ],
+      "title": "Seventh predication",
+      "stem": "Syād asti nāsti avaktavyaḥ means",
+      "options": [
+        "in different respects it is, is not and is inexpressible.",
+        "all three predicates hold unconditionally in the same respect and moment.",
+        "nothing about the object can be known, asserted or denied in any respect.",
+        "the object changes from real being into absolute non-being through speech."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The seventh form combines indexed affirmation, negation and inexpressibility.",
+        "Incorrect: The seventh form requires different indices or modes of combination. By contrast, The seventh form combines indexed affirmation, negation and inexpressibility.",
+        "Incorrect: It combines three qualified predicates rather than universal skepticism. By contrast, The seventh form combines indexed affirmation, negation and inexpressibility.",
+        "Incorrect: Predication tracks aspects; it does not create or annihilate the object. By contrast, The seventh form combines indexed affirmation, negation and inexpressibility."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The seventh form combines indexed affirmation, negation and inexpressibility."
+    },
+    {
+      "id": "Q048",
+      "number": 48,
+      "cell_ids": [
+        "J-048"
+      ],
+      "title": "Complete pot application",
+      "stem": "Which clay-pot application represents all seven forms?",
+      "options": [
+        "all seven qualified combinations applied to one pot under distinct indices.",
+        "only qualified affirmation and qualified negation are needed for the pot.",
+        "all seven statements record private preferences without objective constraints.",
+        "the pot is absolutely pot and non-pot simultaneously in the identical respect."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: All seven predications apply to one object only through distinct respects and combinations.",
+        "Incorrect: A complete application must include all seven combinations. By contrast, All seven predications apply to one object only through distinct respects and combinations.",
+        "Incorrect: The seven forms are constrained by one real object's indexed aspects. By contrast, All seven predications apply to one object only through distinct respects and combinations.",
+        "Incorrect: The application separates substance, time, place or mode to avoid contradiction. By contrast, All seven predications apply to one object only through distinct respects and combinations."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: All seven predications apply to one object only through distinct respects and combinations."
+    },
+    {
+      "id": "Q049",
+      "number": 49,
+      "cell_ids": [
+        "J-049"
+      ],
+      "title": "Avaktavya precision",
+      "stem": "Avaktavya differs from skepticism because it indicates",
+      "options": [
+        "joint-expression difficulty, not ignorance or skeptical suspension.",
+        "complete ignorance of every aspect and property of the relevant object.",
+        "a third ontological substance beyond conscious jīva and non-conscious ajīva.",
+        "permanent silence because every linguistic statement necessarily falsifies reality."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Avaktavya is qualified inexpressibility, not suspension of judgement.",
+        "Incorrect: Avaktavya does not erase knowledge obtainable under separate respects. By contrast, Avaktavya is qualified inexpressibility, not suspension of judgement.",
+        "Incorrect: Inexpressibility is a predicative condition, not a new substance. By contrast, Avaktavya is qualified inexpressibility, not suspension of judgement.",
+        "Incorrect: Qualified statements remain possible even when joint unqualified expression fails. By contrast, Avaktavya is qualified inexpressibility, not suspension of judgement."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Avaktavya is qualified inexpressibility, not suspension of judgement."
+    },
+    {
+      "id": "Q050",
+      "number": 50,
+      "cell_ids": [
+        "J-050"
+      ],
+      "title": "Blind-men value",
+      "stem": "The blind-men-and-elephant parable illustrates",
+      "options": [
+        "partial reports capturing aspects but failing as exhaustive accounts.",
+        "every partial report is false because only exhaustive description can be true.",
+        "the elephant has no objective existence beyond the observers' separate reports.",
+        "standpoint indexing is unnecessary because all observers describe the same whole."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The parable shows partial truth and the error of absolutization.",
+        "Incorrect: A partial report can be true within its limited standpoint. By contrast, The parable shows partial truth and the error of absolutization.",
+        "Incorrect: The parable presupposes one real object disclosed partially. By contrast, The parable shows partial truth and the error of absolutization.",
+        "Incorrect: Shared reference does not remove the need to qualify partial perspectives. By contrast, The parable shows partial truth and the error of absolutization."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The parable shows partial truth and the error of absolutization."
+    },
+    {
+      "id": "Q051",
+      "number": 51,
+      "cell_ids": [
+        "J-051"
+      ],
+      "title": "Blind-men limit",
+      "stem": "A limitation of the blind-men analogy is that",
+      "options": [
+        "it presupposes a complete observer and underplays the ontology of modes.",
+        "it demonstrates that no whole exists beyond disconnected sensory impressions.",
+        "it makes every partial observer omniscient about the elephant's complete nature.",
+        "it proves conventional words have one invariant meaning in every context."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The parable does not prove many-sided ontology or solve access to the whole.",
+        "Incorrect: The analogy presupposes a whole and therefore cannot establish its nonexistence. By contrast, The parable does not prove many-sided ontology or solve access to the whole.",
+        "Incorrect: Each observer remains limited rather than omniscient. By contrast, The parable does not prove many-sided ontology or solve access to the whole.",
+        "Incorrect: The analogy concerns partial access, not lexical univocity. By contrast, The parable does not prove many-sided ontology or solve access to the whole."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The parable does not prove many-sided ontology or solve access to the whole."
+    },
+    {
+      "id": "Q052",
+      "number": 52,
+      "cell_ids": [
+        "J-052"
+      ],
+      "title": "Non-contradiction indexing",
+      "stem": "Jainism preserves non-contradiction by requiring opposed predicates to",
+      "options": [
+        "apply under different respects, times, places, substances or modes.",
+        "apply simultaneously under the identical substance, place, time and mode.",
+        "remain arbitrary because conditionality removes every objective truth constraint.",
+        "refer exclusively to unreal objects lacking substance, qualities and changing modes."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Different indices prevent contradiction simpliciter.",
+        "Incorrect: Identical indexing would produce the contradiction Jainism seeks to avoid. By contrast, Different indices prevent contradiction simpliciter.",
+        "Incorrect: Real objects and specified respects constrain opposed predicates. By contrast, Different indices prevent contradiction simpliciter.",
+        "Incorrect: Indexed predication applies to real many-sided objects. By contrast, Different indices prevent contradiction simpliciter."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Different indices prevent contradiction simpliciter."
+    },
+    {
+      "id": "Q053",
+      "number": 53,
+      "cell_ids": [
+        "J-053"
+      ],
+      "title": "Truth versus relativism",
+      "stem": "Syādvāda is not “anything goes” because",
+      "options": [
+        "claims remain constrained by the real object and specified respect.",
+        "each speaker constructs a private reality immune from factual correction.",
+        "every assertion and its negation are equally true under one respect.",
+        "adding a qualification eliminates truth conditions rather than specifying them."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Conditionality preserves object-constrained truth.",
+        "Incorrect: Syādvāda qualifies claims about shared objective reality. By contrast, Conditionality preserves object-constrained truth.",
+        "Incorrect: Opposed claims require distinct indices and are not equally true simpliciter. By contrast, Conditionality preserves object-constrained truth.",
+        "Incorrect: Qualification makes a claim more determinate by fixing its respect. By contrast, Conditionality preserves object-constrained truth."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Conditionality preserves object-constrained truth."
+    },
+    {
+      "id": "Q054",
+      "number": 54,
+      "cell_ids": [
+        "J-054"
+      ],
+      "title": "Standpoint versus predication",
+      "stem": "Nayavāda and saptabhaṅgī differ because",
+      "options": [
+        "naya classifies standpoints, whereas saptabhaṅgī organizes seven predications.",
+        "both enumerate the six substances constituting Jaina pluralist ontology.",
+        "nayavāda concerns karmic influx, while saptabhaṅgī classifies ethical vows.",
+        "nayavāda alone is omniscience, whereas saptabhaṅgī is ordinary perception."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Naya is standpoint analysis; saptabhangi is sevenfold predication.",
+        "Incorrect: Neither doctrine is the six-dravya classification. By contrast, Naya is standpoint analysis; saptabhangi is sevenfold predication.",
+        "Incorrect: The distinction is epistemic standpoint versus sevenfold predication. By contrast, Naya is standpoint analysis; saptabhangi is sevenfold predication.",
+        "Incorrect: Both govern finite discourse and neither is identical with omniscience. By contrast, Naya is standpoint analysis; saptabhangi is sevenfold predication."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Naya is standpoint analysis; saptabhangi is sevenfold predication."
+    },
+    {
+      "id": "Q055",
+      "number": 55,
+      "cell_ids": [
+        "J-055"
+      ],
+      "title": "Full 2026 linkage",
+      "stem": "A complete 2026-style derivation is",
+      "options": [
+        "many-sided real → standpoint → conditional assertion → seven forms.",
+        "seven predications generate nihilism, which then requires a creator to restore order.",
+        "a partial naya directly yields an unqualified absolute assertion about reality.",
+        "inexpressibility entails skepticism, so no standpoint can disclose a real aspect."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Anekantavada grounds naya and syadvada; saptabhangi gives seven forms.",
+        "Incorrect: The seven forms express realist conditionality without nihilism or a creator. By contrast, Anekantavada grounds naya and syadvada; saptabhangi gives seven forms.",
+        "Incorrect: A naya becomes fallacious when converted into an absolute claim. By contrast, Anekantavada grounds naya and syadvada; saptabhangi gives seven forms.",
+        "Incorrect: Qualified inexpressibility coexists with valid aspectual knowledge. By contrast, Anekantavada grounds naya and syadvada; saptabhangi gives seven forms."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Anekantavada grounds naya and syadvada; saptabhangi gives seven forms."
+    },
+    {
+      "id": "Q056",
+      "number": 56,
+      "cell_ids": [
+        "J-056"
+      ],
+      "title": "Self-refutation objection",
+      "stem": "The self-refutation objection asks whether",
+      "options": [
+        "whether universal conditionality is itself conditional or covertly absolute.",
+        "whether material karma can produce both pleasant and painful embodied experience.",
+        "whether time can remain real despite lacking the extension of an astikāya.",
+        "whether householders and ascetics may undertake vows of different strictness."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The reflexivity objection asks whether non-absolutism exempts itself.",
+        "Incorrect: That concerns karmic operation, not the reflexive status of non-absolutism. By contrast, The reflexivity objection asks whether non-absolutism exempts itself.",
+        "Incorrect: That is an ontological classification issue, not self-refutation. By contrast, The reflexivity objection asks whether non-absolutism exempts itself.",
+        "Incorrect: Different vow levels do not address conditionality's self-application. By contrast, The reflexivity objection asks whether non-absolutism exempts itself."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The reflexivity objection asks whether non-absolutism exempts itself."
+    },
+    {
+      "id": "Q057",
+      "number": 57,
+      "cell_ids": [
+        "J-057"
+      ],
+      "title": "Conditional self-application reply",
+      "stem": "The strongest Jaina reply is to",
+      "options": [
+        "apply conditionality reflexively while distinguishing reality from finite formulations.",
+        "declare one unqualified exception that makes non-absolutism absolutely true.",
+        "dismiss the objection because no philosophical doctrine requires reflexive consistency.",
+        "accept every contradiction as true regardless of object, respect, time or mode."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Non-absolutism can apply reflexively without abandoning realism.",
+        "Incorrect: An absolute exemption would reproduce the objection rather than answer it. By contrast, Non-absolutism can apply reflexively without abandoning realism.",
+        "Incorrect: The reply must show coherent self-application, not refuse the challenge. By contrast, Non-absolutism can apply reflexively without abandoning realism.",
+        "Incorrect: Jainism preserves indexed non-contradiction rather than dialetheism. By contrast, Non-absolutism can apply reflexively without abandoning realism."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Non-absolutism can apply reflexively without abandoning realism."
+    },
+    {
+      "id": "Q058",
+      "number": 58,
+      "cell_ids": [
+        "J-058"
+      ],
+      "title": "Sankara objection",
+      "stem": "A Śaṅkara-style criticism argues that",
+      "options": [
+        "opposed predicates threaten determinate knowledge and non-contradiction.",
+        "jainism recognizes too few atoms to explain the diversity of material aggregates.",
+        "liberation improperly depends upon grace from a personal creator deity.",
+        "the doctrine denies all changing modes and therefore cannot explain experience."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Sankara presses determinacy and non-contradiction.",
+        "Incorrect: Śaṅkara's familiar pressure concerns contradictory predication, not atom counts. By contrast, Sankara presses determinacy and non-contradiction.",
+        "Incorrect: Jainism denies creator-grace, so this misses its actual position. By contrast, Sankara presses determinacy and non-contradiction.",
+        "Incorrect: Jainism explicitly affirms modes; the objection targets determinacy. By contrast, Sankara presses determinacy and non-contradiction."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Sankara presses determinacy and non-contradiction."
+    },
+    {
+      "id": "Q059",
+      "number": 59,
+      "cell_ids": [
+        "J-059"
+      ],
+      "title": "Ramanuja opposed attributes",
+      "stem": "A Rāmānuja-style objection stresses that",
+      "options": [
+        "opposed attributes cannot belong to one subject in the same respect.",
+        "all plurality is empty because no enduring subject possesses any attribute.",
+        "material atoms cannot combine because no external creator directs their conjunction.",
+        "scriptural testimony is the only valid cognition available to finite persons."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Ramanuja presses incompatibility under an identical respect.",
+        "Incorrect: That resembles a Buddhist line, not Rāmānuja's same-respect objection. By contrast, Ramanuja presses incompatibility under an identical respect.",
+        "Incorrect: This causal objection does not target opposed attributes under one respect. By contrast, Ramanuja presses incompatibility under an identical respect.",
+        "Incorrect: Rāmānuja does not formulate this criticism as testimony exclusivism. By contrast, Ramanuja presses incompatibility under an identical respect."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Ramanuja presses incompatibility under an identical respect."
+    },
+    {
+      "id": "Q060",
+      "number": 60,
+      "cell_ids": [
+        "J-060"
+      ],
+      "title": "Buddhist momentariness",
+      "stem": "Compared with Buddhist momentariness and no-self, Jainism maintains",
+      "options": [
+        "enduring plural selves and substances whose modes change.",
+        "a conditioned stream of events without any enduring conscious jīva.",
+        "one universal self whose apparent plurality results from ignorance alone.",
+        "only material atoms, with consciousness reducible to bodily organization."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Jainism retains enduring jivas and dravyas with changing modes.",
+        "Incorrect: That approximates Buddhist no-self rather than the Jaina view. By contrast, Jainism retains enduring jivas and dravyas with changing modes.",
+        "Incorrect: That resembles Advaita, while Jainism affirms many real jīvas. By contrast, Jainism retains enduring jivas and dravyas with changing modes.",
+        "Incorrect: Jainism treats consciousness as intrinsic to non-material jīva. By contrast, Jainism retains enduring jivas and dravyas with changing modes."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Jainism retains enduring jivas and dravyas with changing modes."
+    },
+    {
+      "id": "Q061",
+      "number": 61,
+      "cell_ids": [
+        "J-061"
+      ],
+      "title": "Vedanta comparison",
+      "stem": "A central Vedānta–Jaina contrast is that Jainism",
+      "options": [
+        "retains many irreducible souls and substances rather than one Brahman.",
+        "accepts creation from nothing by an omniscient and benevolent personal deity.",
+        "denies the possibility of liberation while retaining an endless karmic cycle.",
+        "treats the plural world as wholly unreal appearance masking one consciousness."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Jaina pluralism contrasts with Vedantic unification in Brahman.",
+        "Incorrect: Jainism affirms a beginningless non-created cosmos. By contrast, Jaina pluralism contrasts with Vedantic unification in Brahman.",
+        "Incorrect: Jainism centrally teaches liberation through karmic stoppage and shedding. By contrast, Jaina pluralism contrasts with Vedantic unification in Brahman.",
+        "Incorrect: Jaina plural realism rejects an ultimately unreal world. By contrast, Jaina pluralism contrasts with Vedantic unification in Brahman."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Jaina pluralism contrasts with Vedantic unification in Brahman."
+    },
+    {
+      "id": "Q062",
+      "number": 62,
+      "cell_ids": [
+        "J-062"
+      ],
+      "title": "Nyaya self comparison",
+      "stem": "Compared with Nyāya, the Jaina self is distinctive because",
+      "options": [
+        "consciousness is intrinsic to jīva but a quality of the Nyāya self.",
+        "jainism denies any enduring self, whereas Nyāya accepts many permanent selves.",
+        "nyāya identifies the self with the living body and its material organization.",
+        "both systems reduce consciousness to an atomic form of material substance."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Jiva is inherently conscious; Nyaya cognition is an adventitious self-quality.",
+        "Incorrect: Both affirm enduring selves, though they locate consciousness differently. By contrast, Jiva is inherently conscious; Nyaya cognition is an adventitious self-quality.",
+        "Incorrect: Nyāya distinguishes self from body and treats cognition as its quality. By contrast, Jiva is inherently conscious; Nyaya cognition is an adventitious self-quality.",
+        "Incorrect: Neither system identifies consciousness with atomic matter. By contrast, Jiva is inherently conscious; Nyaya cognition is an adventitious self-quality."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Jiva is inherently conscious; Nyaya cognition is an adventitious self-quality."
+    },
+    {
+      "id": "Q063",
+      "number": 63,
+      "cell_ids": [
+        "J-063"
+      ],
+      "title": "Nyaya material karma objection",
+      "stem": "A Nyāya critic may ask",
+      "options": [
+        "how unconscious karma orders bondage and desert without a deity.",
+        "why Jainism accepts a creator who directly assigns karmic fruits.",
+        "why space possesses colour, taste, smell and tangible material qualities.",
+        "why omniscience is an ordinary sensory achievement shared by embodied persons."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Nyaya presses interaction and moral ordering against material karma.",
+        "Incorrect: Jainism denies such a creator; the objection concerns order without one. By contrast, Nyaya presses interaction and moral ordering against material karma.",
+        "Incorrect: Those sensible qualities characterize pudgala, not ākāśa. By contrast, Nyaya presses interaction and moral ordering against material karma.",
+        "Incorrect: Kevala is extraordinary and follows destruction of obscuring karma. By contrast, Nyaya presses interaction and moral ordering against material karma."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Nyaya presses interaction and moral ordering against material karma."
+    },
+    {
+      "id": "Q064",
+      "number": 64,
+      "cell_ids": [
+        "J-064"
+      ],
+      "title": "Carvaka Jaina reality 2020",
+      "stem": "The 2020 comparison is best framed as",
+      "options": [
+        "materialist restriction versus plural realism of souls, karmic matter and substances.",
+        "two forms of identical monism differing only over acceptable religious vocabulary.",
+        "creator-theism opposed to a Buddhist doctrine of universal emptiness.",
+        "a shared denial that perception can yield knowledge of material reality."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Carvaka materialism differs from Jaina pluralist realism.",
+        "Incorrect: Cārvāka materialism and Jaina pluralism have different ontological commitments. By contrast, Carvaka materialism differs from Jaina pluralist realism.",
+        "Incorrect: Neither side of the comparison accurately describes Cārvāka and Jainism. By contrast, Carvaka materialism differs from Jaina pluralist realism.",
+        "Incorrect: Cārvāka privileges perception, while Jainism also accepts material reality. By contrast, Carvaka materialism differs from Jaina pluralist realism."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Carvaka materialism differs from Jaina pluralist realism."
+    },
+    {
+      "id": "Q065",
+      "number": 65,
+      "cell_ids": [
+        "J-065"
+      ],
+      "title": "Expressible inexpressible objection",
+      "stem": "The expressible–inexpressible objection alleges that",
+      "options": [
+        "calling something inexpressible is itself expressive and may be unstable.",
+        "material substance lacks the qualities required for sensory cognition and change.",
+        "liberation requires an eternal body to preserve the soul's individual identity.",
+        "every partial standpoint is already omniscient about the whole object."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Expressing inexpressibility creates a performative objection.",
+        "Incorrect: That objection concerns pudgala, not the performative status of avaktavya. By contrast, Expressing inexpressibility creates a performative objection.",
+        "Incorrect: Jaina siddhahood is disembodied and does not resolve this linguistic objection. By contrast, Expressing inexpressibility creates a performative objection.",
+        "Incorrect: Naya is partial; this claim neither states nor answers the expressibility problem. By contrast, Expressing inexpressibility creates a performative objection."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Expressing inexpressibility creates a performative objection."
+    },
+    {
+      "id": "Q066",
+      "number": 66,
+      "cell_ids": [
+        "J-066"
+      ],
+      "title": "2025 realism pluralism evaluation",
+      "stem": "Which verdict best balances the 2025 demand?",
+      "options": [
+        "Jainism is realist and pluralist, while standpoint discipline limits exhaustive finite claims.",
+        "It is unrestricted relativism because each standpoint creates equally valid truth.",
+        "It is idealist monism because plurality appears within one universal consciousness.",
+        "It is eliminative materialism because souls reduce to aggregates of pudgala."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The 2025 verdict combines objective plurality with qualified finite claims.",
+        "Incorrect: Object-constrained qualification prevents unrestricted relativism. By contrast, The 2025 verdict combines objective plurality with qualified finite claims.",
+        "Incorrect: Jainism is realist and pluralist rather than idealist monism. By contrast, The 2025 verdict combines objective plurality with qualified finite claims.",
+        "Incorrect: Jainism affirms irreducible conscious jīvas alongside pudgala. By contrast, The 2025 verdict combines objective plurality with qualified finite claims."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The 2025 verdict combines objective plurality with qualified finite claims."
+    },
+    {
+      "id": "Q067",
+      "number": 67,
+      "cell_ids": [
+        "J-067"
+      ],
+      "title": "Asrava term",
+      "stem": "Āsrava denotes",
+      "options": [
+        "influx of karmic matter through activity under relevant conditions.",
+        "complete destruction of previously accumulated karma through mature austerity.",
+        "stoppage of fresh karmic entry through restraint of activity and passion.",
+        "final disembodied liberation after every variety of karma has disappeared."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Asrava is karmic influx.",
+        "Incorrect: Destruction or shedding is nirjarā, not āsrava. By contrast, Asrava is karmic influx.",
+        "Incorrect: Stoppage of influx is saṃvara, not āsrava. By contrast, Asrava is karmic influx.",
+        "Incorrect: Final release is mokṣa, whereas āsrava begins bondage. By contrast, Asrava is karmic influx."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Asrava is karmic influx."
+    },
+    {
+      "id": "Q068",
+      "number": 68,
+      "cell_ids": [
+        "J-068"
+      ],
+      "title": "Eight karmas exact",
+      "stem": "Which set names all eight karmas?",
+      "options": [
+        "Knowledge-obscuring, perception-obscuring, deluding, obstructive, feeling, lifespan, body-making and status.",
+        "Merit, demerit, influx, bondage, stoppage, shedding, liberation and right faith.",
+        "Earth, water, fire, air, space, time, motion-medium and rest-medium.",
+        "Faith, knowledge, conduct, austerity, charity, truth, purity and restraint."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The eight karmas comprise four ghatiya and four aghatiya types.",
+        "Incorrect: This mixes tattvas and a jewel rather than naming eight karma species. By contrast, The eight karmas comprise four ghatiya and four aghatiya types.",
+        "Incorrect: This combines elements and dravyas, not the eight karmas. By contrast, The eight karmas comprise four ghatiya and four aghatiya types.",
+        "Incorrect: These virtues and disciplines are not the canonical eight karma types. By contrast, The eight karmas comprise four ghatiya and four aghatiya types."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The eight karmas comprise four ghatiya and four aghatiya types."
+    },
+    {
+      "id": "Q069",
+      "number": 69,
+      "cell_ids": [
+        "J-069"
+      ],
+      "title": "Ghatiya karmas",
+      "stem": "The four ghātiya karmas",
+      "options": [
+        "damage knowledge, perception, right orientation and energy.",
+        "determine bodily form, social status, lifespan and pleasant or painful feeling.",
+        "constitute the four non-conscious substances other than matter and time.",
+        "cease automatically at each birth without requiring stoppage or shedding."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Ghatiya karmas obscure knowledge/perception, delude and obstruct.",
+        "Incorrect: Those are functions of the four aghātiya karmas. By contrast, Ghatiya karmas obscure knowledge/perception, delude and obstruct.",
+        "Incorrect: Ghātiya karmas are karmic species, not independent dravyas. By contrast, Ghatiya karmas obscure knowledge/perception, delude and obstruct.",
+        "Incorrect: Karmas persist and mature until checked and removed through the path. By contrast, Ghatiya karmas obscure knowledge/perception, delude and obstruct."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Ghatiya karmas obscure knowledge/perception, delude and obstruct."
+    },
+    {
+      "id": "Q070",
+      "number": 70,
+      "cell_ids": [
+        "J-070"
+      ],
+      "title": "Aghatiya karmas",
+      "stem": "The aghātiya group includes",
+      "options": [
+        "feeling, lifespan, body-making and status karmas.",
+        "knowledge-obscuring, perception-obscuring, deluding and energy-obstructing karmas.",
+        "influx, bondage, stoppage and shedding as four stages of karmic process.",
+        "right faith, right knowledge, right conduct and austerity as four karmas."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Aghatiya karmas shape embodiment and experience.",
+        "Incorrect: Those four are ghātiya because they impair the soul's intrinsic capacities. By contrast, Aghatiya karmas shape embodiment and experience.",
+        "Incorrect: These are process categories, not the four aghātiya karma species. By contrast, Aghatiya karmas shape embodiment and experience.",
+        "Incorrect: These are path disciplines, not embodiment-shaping karmic matter. By contrast, Aghatiya karmas shape embodiment and experience."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Aghatiya karmas shape embodiment and experience."
+    },
+    {
+      "id": "Q071",
+      "number": 71,
+      "cell_ids": [
+        "J-071"
+      ],
+      "title": "Seven tattvas",
+      "stem": "The seven tattvas are",
+      "options": [
+        "jīva, ajīva, āsrava, bandha, saṃvara, nirjarā and mokṣa.",
+        "jīva, pudgala, dharma, adharma, ākāśa, kāla and omniscience.",
+        "faith, knowledge, conduct, vows, austerity, merit and demerit.",
+        "existence, non-existence, both, inexpressibility, substance, place and time."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Seven tattvas map soul, non-soul, influx, bondage, stoppage, shedding and release.",
+        "Incorrect: This appends kevala to six dravyas rather than listing seven tattvas. By contrast, Seven tattvas map soul, non-soul, influx, bondage, stoppage, shedding and release.",
+        "Incorrect: This mixes path factors and moral categories while omitting karmic process. By contrast, Seven tattvas map soul, non-soul, influx, bondage, stoppage, shedding and release.",
+        "Incorrect: This distorts sevenfold predication and does not state the tattvas. By contrast, Seven tattvas map soul, non-soul, influx, bondage, stoppage, shedding and release."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Seven tattvas map soul, non-soul, influx, bondage, stoppage, shedding and release."
+    },
+    {
+      "id": "Q072",
+      "number": 72,
+      "cell_ids": [
+        "J-072"
+      ],
+      "title": "Nine tattvas",
+      "stem": "The nine-tattva scheme adds",
+      "options": [
+        "puṇya and pāpa, merit and demerit.",
+        "dharma and adharma, the passive media of motion and rest.",
+        "mati and śruta, the two indirect varieties of valid knowledge.",
+        "lokākāśa and alokākāśa, the inhabited and empty divisions of space."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Nine tattvas add punya and papa.",
+        "Incorrect: Those are dravyas already included under ajīva, not additions to seven tattvas. By contrast, Nine tattvas add punya and papa.",
+        "Incorrect: These are knowledge types rather than added moral tattvas. By contrast, Nine tattvas add punya and papa.",
+        "Incorrect: These are spatial divisions, not merit and demerit. By contrast, Nine tattvas add punya and papa."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Nine tattvas add punya and papa."
+    },
+    {
+      "id": "Q073",
+      "number": 73,
+      "cell_ids": [
+        "J-073"
+      ],
+      "title": "Five vows",
+      "stem": "Which list gives the five vows?",
+      "options": [
+        "Non-violence, truth, non-stealing, chastity and non-possession.",
+        "Right faith, right knowledge, right conduct, austerity and omniscience.",
+        "Creation, preservation, destruction, divine grace and devotional surrender.",
+        "Perception, inference, comparison, testimony and postulation as valid cognitions."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The vows are ahimsa, satya, asteya, brahmacarya and aparigraha.",
+        "Incorrect: This combines the three jewels with means and result, not five vows. By contrast, The vows are ahimsa, satya, asteya, brahmacarya and aparigraha.",
+        "Incorrect: Creator-centered acts are foreign to the Jaina vow scheme. By contrast, The vows are ahimsa, satya, asteya, brahmacarya and aparigraha.",
+        "Incorrect: This is an epistemological list, not ethical restraints. By contrast, The vows are ahimsa, satya, asteya, brahmacarya and aparigraha."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The vows are ahimsa, satya, asteya, brahmacarya and aparigraha."
+    },
+    {
+      "id": "Q074",
+      "number": 74,
+      "cell_ids": [
+        "J-074"
+      ],
+      "title": "Ahimsa rationale",
+      "stem": "Ahiṃsā is central because injury",
+      "options": [
+        "harms beings and intensifies passions and bondage in the agent.",
+        "is wrong only when prohibited by the command of a creator deity.",
+        "affects the victim but produces no passion or bondage in the agent.",
+        "binds ascetics but imposes no ethical duty upon householders or institutions."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Ahimsa restrains harm, passions and karmic influx.",
+        "Incorrect: Ahiṃsā rests on living beings and karmic causation, not divine command. By contrast, Ahimsa restrains harm, passions and karmic influx.",
+        "Incorrect: Violence also intensifies the agent's passions and karmic bondage. By contrast, Ahimsa restrains harm, passions and karmic influx.",
+        "Incorrect: Lay vows and modern applications extend non-violence beyond monks. By contrast, Ahimsa restrains harm, passions and karmic influx."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Ahimsa restrains harm, passions and karmic influx."
+    },
+    {
+      "id": "Q075",
+      "number": 75,
+      "cell_ids": [
+        "J-075"
+      ],
+      "title": "Mahavrata anuvrata",
+      "stem": "Mahāvrata and aṇuvrata are",
+      "options": [
+        "absolute monastic and limited household vows.",
+        "the destructive and non-destructive groups within the eight karmas.",
+        "two successive forms of omniscience immediately preceding final liberation.",
+        "the media permitting motion and rest throughout the inhabited cosmos."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Monastics take great vows; householders take limited vows.",
+        "Incorrect: Those groups are ghātiya and aghātiya, not vow levels. By contrast, Monastics take great vows; householders take limited vows.",
+        "Incorrect: Those are sayoga-kevali and ayoga-kevali. By contrast, Monastics take great vows; householders take limited vows.",
+        "Incorrect: Those are dharma-dravya and adharma-dravya. By contrast, Monastics take great vows; householders take limited vows."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Monastics take great vows; householders take limited vows."
+    },
+    {
+      "id": "Q076",
+      "number": 76,
+      "cell_ids": [
+        "J-076"
+      ],
+      "title": "Final moksa",
+      "stem": "Mokṣa culminates when",
+      "options": [
+        "all karma is shed and the soul reaches siddhahood beyond rebirth.",
+        "a creator deity forgives accumulated karma and grants final release.",
+        "all individual souls merge into one universal consciousness without distinction.",
+        "the purified material body becomes eternal and immune to further alteration."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Moksa is complete karmic freedom and siddhahood.",
+        "Incorrect: Jaina mokṣa follows complete karmic removal without creator-grace. By contrast, Moksa is complete karmic freedom and siddhahood.",
+        "Incorrect: Liberated jīvas retain their numerical individuality. By contrast, Moksa is complete karmic freedom and siddhahood.",
+        "Incorrect: Mokṣa is disembodied siddhahood, not bodily immortality. By contrast, Moksa is complete karmic freedom and siddhahood."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Moksa is complete karmic freedom and siddhahood."
+    },
+    {
+      "id": "Q077",
+      "number": 77,
+      "cell_ids": [
+        "J-077"
+      ],
+      "title": "Fourteen gunasthanas",
+      "stem": "The fourteen guṇasthānas are",
+      "options": [
+        "graded stages of purification from delusion to liberation.",
+        "fourteen substances constituting the complete inventory of Jaina pluralist reality.",
+        "fourteen independent instruments of valid cognition culminating in testimony.",
+        "fourteen perfected deities who create, preserve and morally govern the cosmos."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The 14 gunasthanas grade spiritual development.",
+        "Incorrect: Jainism recognizes six dravyas, while guṇasthānas are spiritual stages. By contrast, The 14 gunasthanas grade spiritual development.",
+        "Incorrect: The stages grade purification rather than epistemic instruments. By contrast, The 14 gunasthanas grade spiritual development.",
+        "Incorrect: Guṇasthānas are conditions of a soul, not creator-deities. By contrast, The 14 gunasthanas grade spiritual development."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The 14 gunasthanas grade spiritual development."
+    },
+    {
+      "id": "Q078",
+      "number": 78,
+      "cell_ids": [
+        "J-078"
+      ],
+      "title": "Sayoga kevali",
+      "stem": "Sayoga-kevalin denotes",
+      "options": [
+        "embodied omniscience with minimal bodily, verbal and mental activity.",
+        "a disembodied siddha wholly beyond bodily, verbal and mental activity.",
+        "a lay stage defined by partial vows and absence of omniscience.",
+        "ordinary sensory knowledge operating without destruction of obscuring karmas."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Sayoga-kevali is embodied omniscience with residual activity.",
+        "Incorrect: A sayoga-kevalin remains embodied with residual activity. By contrast, Sayoga-kevali is embodied omniscience with residual activity.",
+        "Incorrect: Sayoga-kevalin is an omniscient stage, not lay discipline. By contrast, Sayoga-kevali is embodied omniscience with residual activity.",
+        "Incorrect: The term denotes kevala cognition, not ordinary mati. By contrast, Sayoga-kevali is embodied omniscience with residual activity."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Sayoga-kevali is embodied omniscience with residual activity."
+    },
+    {
+      "id": "Q079",
+      "number": 79,
+      "cell_ids": [
+        "J-079"
+      ],
+      "title": "Ayoga kevali",
+      "stem": "Ayoga-kevalin denotes",
+      "options": [
+        "the activityless final embodied stage immediately before liberation.",
+        "the first stage of wrong belief before any effective spiritual purification.",
+        "ordinary restraint accompanied by passions and continuing karmic influx.",
+        "permanent rebondage after omniscience because bodily activity can never cease."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Ayoga-kevali immediately precedes siddhahood.",
+        "Incorrect: Ayoga-kevalin is the final embodied stage, not the first. By contrast, Ayoga-kevali immediately precedes siddhahood.",
+        "Incorrect: This final stage is activityless and immediately precedes liberation. By contrast, Ayoga-kevali immediately precedes siddhahood.",
+        "Incorrect: Activity ceases before siddhahood rather than causing permanent rebondage. By contrast, Ayoga-kevali immediately precedes siddhahood."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Ayoga-kevali immediately precedes siddhahood."
+    },
+    {
+      "id": "Q080",
+      "number": 80,
+      "cell_ids": [
+        "J-080"
+      ],
+      "title": "Bound liberated soul 2018",
+      "stem": "Bound and liberated soul differ because",
+      "options": [
+        "karma obscures intrinsic capacities; liberation removes karma without destroying individuality.",
+        "liberation annihilates the soul along with every trace of consciousness.",
+        "bondage creates consciousness in a previously unconscious material entity.",
+        "liberated souls merge into one creator and lose numerical individuality."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Liberated jiva retains individuality with unobstructed qualities.",
+        "Incorrect: Karma is removed, while the jīva and its unobstructed qualities remain. By contrast, Liberated jiva retains individuality with unobstructed qualities.",
+        "Incorrect: Consciousness is intrinsic to jīva and merely obscured by karma. By contrast, Liberated jiva retains individuality with unobstructed qualities.",
+        "Incorrect: Jaina siddhas remain many distinct liberated souls. By contrast, Liberated jiva retains individuality with unobstructed qualities."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Liberated jiva retains individuality with unobstructed qualities."
+    },
+    {
+      "id": "Q081",
+      "number": 81,
+      "cell_ids": [
+        "J-081"
+      ],
+      "title": "Bhava dravya bondage",
+      "stem": "Bhāva-bandha and dravya-bandha are respectively",
+      "options": [
+        "psychic passions and actual binding of karmic matter.",
+        "merit and demerit as the pleasant and painful results of conduct.",
+        "the media of motion and rest operating throughout the inhabited universe.",
+        "limited lay vows and absolute monastic vows regulating ethical conduct."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Bhava-bandha is psychical; dravya-bandha is material.",
+        "Incorrect: Puṇya and pāpa differ from psychic and material bondage. By contrast, Bhava-bandha is psychical; dravya-bandha is material.",
+        "Incorrect: Dharma and adharma are dravyas, not two forms of bondage. By contrast, Bhava-bandha is psychical; dravya-bandha is material.",
+        "Incorrect: Aṇuvrata and mahāvrata concern vow scope, not bondage composition. By contrast, Bhava-bandha is psychical; dravya-bandha is material."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Bhava-bandha is psychical; dravya-bandha is material."
+    },
+    {
+      "id": "Q082",
+      "number": 82,
+      "cell_ids": [
+        "J-082"
+      ],
+      "title": "Activity and passions",
+      "stem": "Yoga and kaṣāya function as",
+      "options": [
+        "activity opening influx and passions making adhesion durable.",
+        "two liberated conditions distinguished by the presence or absence of embodiment.",
+        "the passive media of motion and rest among the six substances.",
+        "two direct cognitions respectively knowing matter and another person's mind."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Yoga drives influx; kasaya intensifies bondage.",
+        "Incorrect: Yoga and kaṣāya are causes of bondage, not liberated states. By contrast, Yoga drives influx; kasaya intensifies bondage.",
+        "Incorrect: Those media are dharma and adharma, not activity and passions. By contrast, Yoga drives influx; kasaya intensifies bondage.",
+        "Incorrect: Those are avadhi and manaḥparyāya, not karmic causes. By contrast, Yoga drives influx; kasaya intensifies bondage."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Yoga drives influx; kasaya intensifies bondage."
+    },
+    {
+      "id": "Q083",
+      "number": 83,
+      "cell_ids": [
+        "J-083"
+      ],
+      "title": "Samvara",
+      "stem": "Saṃvara is",
+      "options": [
+        "stoppage of new karmic influx through restraint.",
+        "maturation of lifespan karma that fixes the duration of embodiment.",
+        "the first entry of karmic matter through bodily, verbal and mental activity.",
+        "destruction of the conscious soul after every material karma is exhausted."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Samvara blocks new asrava.",
+        "Incorrect: That is āyu karma, whereas saṃvara prevents new influx. By contrast, Samvara blocks new asrava.",
+        "Incorrect: That entry is āsrava, the process saṃvara stops. By contrast, Samvara blocks new asrava.",
+        "Incorrect: Jainism never treats liberation as destruction of jīva. By contrast, Samvara blocks new asrava."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Samvara blocks new asrava."
+    },
+    {
+      "id": "Q084",
+      "number": 84,
+      "cell_ids": [
+        "J-084"
+      ],
+      "title": "Nirjara",
+      "stem": "Nirjarā is",
+      "options": [
+        "shedding already bound karma, naturally or through austerity.",
+        "creation of fresh karmic matter through attachment and purposive activity.",
+        "permanent bondage produced when passions prevent every form of restraint.",
+        "merger of purified souls into one universal consciousness after death."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Nirjara removes accumulated karma.",
+        "Incorrect: Fresh influx and binding oppose rather than define nirjarā. By contrast, Nirjara removes accumulated karma.",
+        "Incorrect: Nirjarā removes bondage instead of making it permanent. By contrast, Nirjara removes accumulated karma.",
+        "Incorrect: Karmic shedding preserves the plurality of liberated jīvas. By contrast, Nirjara removes accumulated karma."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Nirjara removes accumulated karma."
+    },
+    {
+      "id": "Q085",
+      "number": 85,
+      "cell_ids": [
+        "J-085"
+      ],
+      "title": "Digambara Svetambara clothing",
+      "stem": "A substantive sectarian distinction concerns",
+      "options": [
+        "whether full monastic renunciation requires nudity or permits white robes.",
+        "whether karmic matter exists objectively or only as a pedagogical metaphor.",
+        "whether Mahavira taught a path of liberation within the śramaṇa tradition.",
+        "whether ahiṃsā has any binding force for monks pursuing liberation."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Digambara and Svetambara differ over nudity and white clothing.",
+        "Incorrect: Both major sects accept karma; clothing marks a genuine ascetic difference. By contrast, Digambara and Svetambara differ over nudity and white clothing.",
+        "Incorrect: Both traditions recognize Mahavira; they differ over monastic nudity. By contrast, Digambara and Svetambara differ over nudity and white clothing.",
+        "Incorrect: Both affirm ahiṃsā; the disputed issue is the clothing rule. By contrast, Digambara and Svetambara differ over nudity and white clothing."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Digambara and Svetambara differ over nudity and white clothing."
+    },
+    {
+      "id": "Q086",
+      "number": 86,
+      "cell_ids": [
+        "J-086"
+      ],
+      "title": "Women liberation sects",
+      "stem": "A major sectarian difference concerns",
+      "options": [
+        "whether women attain liberation directly or require rebirth as male.",
+        "whether conscious souls exist or persons reduce entirely to material aggregates.",
+        "whether vows form any necessary part of monastic and household discipline.",
+        "whether the beginningless cosmos was created by Mahavira or another deity."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Svetambara accepts women’s direct liberation; Digambara traditionally requires male rebirth.",
+        "Incorrect: Both sects affirm jīva; the dispute concerns women's liberative capacity. By contrast, Svetambara accepts women’s direct liberation; Digambara traditionally requires male rebirth.",
+        "Incorrect: Both accept vows, though practice differs in other respects. By contrast, Svetambara accepts women’s direct liberation; Digambara traditionally requires male rebirth.",
+        "Incorrect: Both reject cosmic creation; this is not the sectarian issue. By contrast, Svetambara accepts women’s direct liberation; Digambara traditionally requires male rebirth."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Svetambara accepts women’s direct liberation; Digambara traditionally requires male rebirth."
+    },
+    {
+      "id": "Q087",
+      "number": 87,
+      "cell_ids": [
+        "J-087"
+      ],
+      "title": "Canon possession sects",
+      "stem": "The sects also differ over",
+      "options": [
+        "canonical preservation and ascetic possessions.",
+        "whether space exists as an independent non-conscious substance.",
+        "whether seven qualified predications can describe a many-sided object.",
+        "whether karmic matter binds embodied souls through activity and passion."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: The sects differ over canon and permitted possessions.",
+        "Incorrect: Both accept ākāśa; canonical preservation and possessions divide them. By contrast, The sects differ over canon and permitted possessions.",
+        "Incorrect: Both inherit saptabhaṅgī rather than divide over its existence. By contrast, The sects differ over canon and permitted possessions.",
+        "Incorrect: Both accept karmic bondage; their textual and ascetic traditions differ. By contrast, The sects differ over canon and permitted possessions."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: The sects differ over canon and permitted possessions."
+    },
+    {
+      "id": "Q088",
+      "number": 88,
+      "cell_ids": [
+        "J-088"
+      ],
+      "title": "Sallekhana",
+      "stem": "Sallekhanā differs doctrinally from suicide through",
+      "options": [
+        "regulated passionless fasting without desire for death, aversion or despair.",
+        "an impulsive escape from ordinary obligations prompted by fear or despair.",
+        "automatic legal immunity whenever religious language accompanies self-starvation.",
+        "obedience to a creator's command that life must end at a fixed moment."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Sallekhana is regulated passionless thinning-out, not desire-driven self-killing.",
+        "Incorrect: Sallekhanā requires equanimity and absence of despair or death-craving. By contrast, Sallekhana is regulated passionless thinning-out, not desire-driven self-killing.",
+        "Incorrect: Doctrinal regulation does not itself settle every legal or ethical case. By contrast, Sallekhana is regulated passionless thinning-out, not desire-driven self-killing.",
+        "Incorrect: Jainism has no creator-command grounding this ascetic practice. By contrast, Sallekhana is regulated passionless thinning-out, not desire-driven self-killing."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Sallekhana is regulated passionless thinning-out, not desire-driven self-killing."
+    },
+    {
+      "id": "Q089",
+      "number": 89,
+      "cell_ids": [
+        "J-089"
+      ],
+      "title": "Sevenfold applied transfer",
+      "stem": "A policy exists as law, not yet as implementation, and resists one exhaustive sentence. This exemplifies",
+      "options": [
+        "sevenfold reasoning using distinct legal, temporal and practical respects.",
+        "an unconditional contradiction between legal existence and practical non-existence.",
+        "denial that any objective fact exists concerning law or implementation.",
+        "mere hesitation caused by insufficient evidence about the policy's legal status."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Sevenfold transfer indexes affirmation, negation and inexpressibility.",
+        "Incorrect: Different legal, temporal and practical indices prevent contradiction. By contrast, Sevenfold transfer indexes affirmation, negation and inexpressibility.",
+        "Incorrect: The example affirms distinct facts under specified respects. By contrast, Sevenfold transfer indexes affirmation, negation and inexpressibility.",
+        "Incorrect: The analysis concerns indexed predicates, not evidential uncertainty. By contrast, Sevenfold transfer indexes affirmation, negation and inexpressibility."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Sevenfold transfer indexes affirmation, negation and inexpressibility."
+    },
+    {
+      "id": "Q090",
+      "number": 90,
+      "cell_ids": [
+        "J-090"
+      ],
+      "title": "Ahimsa modern ethics",
+      "stem": "A modern application faithful to ahiṃsā is",
+      "options": [
+        "minimizing avoidable harm in conduct, institutions and ecology while recognizing gradations.",
+        "declaring every action equally violent regardless of intention, scale or consequence.",
+        "restricting non-violence to monks and excluding social or ecological institutions.",
+        "equating non-violence with passive refusal to prevent foreseeable avoidable harm."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Modern ahimsa is disciplined harm-minimization, not passivity.",
+        "Incorrect: Jaina ethics recognizes gradations while seeking to minimize avoidable harm. By contrast, Modern ahimsa is disciplined harm-minimization, not passivity.",
+        "Incorrect: Ahiṃsā can guide lay, institutional and ecological conduct. By contrast, Modern ahimsa is disciplined harm-minimization, not passivity.",
+        "Incorrect: Disciplined harm-minimization can require responsible positive action. By contrast, Modern ahimsa is disciplined harm-minimization, not passivity."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Modern ahimsa is disciplined harm-minimization, not passivity."
+    },
+    {
+      "id": "Q091",
+      "number": 91,
+      "cell_ids": [
+        "J-091"
+      ],
+      "title": "Aparigraha modern ethics",
+      "stem": "Aparigraha can inform contemporary ethics by encouraging",
+      "options": [
+        "limiting possessiveness and consumption in light of inequality and ecological burden.",
+        "unlimited accumulation whenever possessions have been acquired through legal means.",
+        "rejection of every material tool, livelihood and household possession without distinction.",
+        "wealth accumulation directed by a creator as proof of spiritual merit."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Modern aparigraha critiques attachment and excess, not all goods.",
+        "Incorrect: Aparigraha questions attachment and excess beyond mere legality. By contrast, Modern aparigraha critiques attachment and excess, not all goods.",
+        "Incorrect: The principle limits possessiveness; it need not prohibit all goods. By contrast, Modern aparigraha critiques attachment and excess, not all goods.",
+        "Incorrect: Jainism rejects creator-command and does not sanctify accumulation. By contrast, Modern aparigraha critiques attachment and excess, not all goods."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Modern aparigraha critiques attachment and excess, not all goods."
+    },
+    {
+      "id": "Q092",
+      "number": 92,
+      "cell_ids": [
+        "J-092"
+      ],
+      "title": "Diagnose bondage",
+      "stem": "Charity driven by pride and anger is diagnosed as",
+      "options": [
+        "activity causes influx while pride and anger make bondage adhesive.",
+        "automatic liberation because charitable action always prevents karmic influx.",
+        "lifespan karma alone because intention never affects the karmic quality of action.",
+        "complete saṃvara because generosity necessarily closes every channel of karmic entry."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Bondage diagnosis separates activity from passion-laden psychic condition.",
+        "Incorrect: Action can produce influx, while pride and anger strengthen bondage. By contrast, Bondage diagnosis separates activity from passion-laden psychic condition.",
+        "Incorrect: Passionate intention is central to bhāva-bandha, not reducible to lifespan karma. By contrast, Bondage diagnosis separates activity from passion-laden psychic condition.",
+        "Incorrect: Proud and angry activity is incompatible with complete stoppage of influx. By contrast, Bondage diagnosis separates activity from passion-laden psychic condition."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Bondage diagnosis separates activity from passion-laden psychic condition."
+    },
+    {
+      "id": "Q093",
+      "number": 93,
+      "cell_ids": [
+        "J-093"
+      ],
+      "title": "Novel Buddhist comparison",
+      "stem": "The sharpest Jain–Buddhist contrast about a changing person is",
+      "options": [
+        "enduring jīva with changing modes versus conditioned process without permanent self.",
+        "an identical eternal self accepted without qualification by both philosophical traditions.",
+        "a shared denial of real change because continuity requires strict permanence.",
+        "jaina denial of continuity contrasted with Buddhist affirmation of an eternal person."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Jainism retains jiva; Buddhism rejects a permanent self.",
+        "Incorrect: Buddhism denies a permanent self, whereas Jainism affirms enduring jīva. By contrast, Jainism retains jiva; Buddhism rejects a permanent self.",
+        "Incorrect: Jainism combines enduring substance with changing modes; Buddhism emphasizes process. By contrast, Jainism retains jiva; Buddhism rejects a permanent self.",
+        "Incorrect: This exactly reverses their characteristic positions on personal continuity. By contrast, Jainism retains jiva; Buddhism rejects a permanent self."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Jainism retains jiva; Buddhism rejects a permanent self."
+    },
+    {
+      "id": "Q094",
+      "number": 94,
+      "cell_ids": [
+        "J-094"
+      ],
+      "title": "Novel Vedanta Nyaya comparison",
+      "stem": "Which comparison is most accurate?",
+      "options": [
+        "Many conscious Jaina souls; Advaita Brahman; Nyāya selves with cognition as quality.",
+        "All three systems deny enduring selves and reduce persons to momentary events.",
+        "All three make karmic fruition an act of grace by a personal creator.",
+        "Advaita and Jainism are materialisms, while Nyāya alone accepts consciousness."
+      ],
+      "correct_index": 0,
+      "explanations": [
+        "Correct: Jaina plurality differs from Advaita non-duality and Nyaya cognition-as-quality.",
+        "Incorrect: Jainism and Nyāya affirm plural enduring selves; Advaita affirms Brahman. By contrast, Jaina plurality differs from Advaita non-duality and Nyaya cognition-as-quality.",
+        "Incorrect: Their accounts differ, and Jainism specifically rejects creator-administered karma. By contrast, Jaina plurality differs from Advaita non-duality and Nyaya cognition-as-quality.",
+        "Incorrect: All three recognize consciousness, but their ontologies differ sharply. By contrast, Jaina plurality differs from Advaita non-duality and Nyaya cognition-as-quality."
+      ],
+      "trap": "Distinguish the tested doctrine precisely: Jaina plurality differs from Advaita non-duality and Nyaya cognition-as-quality."
+    }
+  ]
+}
