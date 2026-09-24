@@ -50,6 +50,7 @@
 | Economy | Economy 24 - Services, Digital Economy, Fintech and Platform Markets | 14 | 21,174 | `9041a2571a47` | [Economy/24-Services-Digital-Economy-Fintech-Platform-Markets/Learning-Session-Live-Edition.md](Economy/24-Services-Digital-Economy-Fintech-Platform-Markets/Learning-Session-Live-Edition.md) |
 | Economy | Economy 25 - Climate Economics, Green Finance and Circular Economy | 19 | 29,945 | `18e8c7b1d6d9` | [Economy/25-Climate-Economics-Green-Finance-Circular-Economy/Learning-Session-Live-Edition.md](Economy/25-Climate-Economics-Green-Finance-Circular-Economy/Learning-Session-Live-Edition.md) |
 | Economy | Economy 26 - Economic Survey Synthesis and Current Macro Dashboard | 20 | 20,648 | `01e68208ff27` | [Economy/26-Economic-Survey-Synthesis-Current-Macro-Dashboard/Learning-Session-Live-Edition.md](Economy/26-Economic-Survey-Synthesis-Current-Macro-Dashboard/Learning-Session-Live-Edition.md) |
+| Economy | Economy 27 - Digital Agriculture, Agritech and e-Technology for Farmers | 15 | 23,392 | `2d4c836896f3` | [Economy/27-Digital-Agriculture-Agritech-e-Technology-Farmers/Learning-Session-Live-Edition.md](Economy/27-Digital-Agriculture-Agritech-e-Technology-Farmers/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
