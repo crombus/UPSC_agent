@@ -16,11 +16,12 @@
 6. [Practice Log](PRACTICE-LOG.md)
 7. [Formal Authored Review](FORMAL-COVERAGE-REVIEW.json)
 8. [Formal Derived Audit](FORMAL-COVERAGE-AUDIT.json)
-9. [MCQ Audit](MCQ-AUDIT.json)
-10. [PYQ Audit](PYQ-DEMAND-AUDIT.json)
+9. [Test Matrix](TEST-MATRIX.json)
+10. [MCQ Audit](MCQ-AUDIT.json)
+11. [PYQ Audit](PYQ-DEMAND-AUDIT.json)
 
 The package preserves all formal teaching, visuals, practice, advanced depth and register
-notes; contains **32 coverage-derived MCQs** with independently randomized correct positions;
+notes; contains **53 coverage-derived MCQs** across **52 explicit primary test cells**, with independently randomized and reasonably balanced correct positions;
 fully solves **9 directly owned verified PYQs through 2026**; retains **1 supporting routed
 Nyāya-owned question** with honest ownership; and includes **6 original solved Mains models**,
 two each at 10, 15 and 20 marks.

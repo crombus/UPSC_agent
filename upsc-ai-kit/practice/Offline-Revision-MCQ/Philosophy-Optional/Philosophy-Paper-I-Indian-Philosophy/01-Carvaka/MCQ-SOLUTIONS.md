@@ -1,16 +1,14 @@
 # Cārvāka — MCQ Solutions
 
-> Correct positions were independently randomized with the stable seed hash `b336ff98c68f8ee873eee90cedafb3eeaa5cbfcce3ff672ef9336e047c381f8e`. Explanations remain bound to option content after permutation.
+> Correct positions are independently randomized and reasonably balanced. The bank is coverage-derived, not quota- or cycle-derived.
 
 <a id="workbook-basic-mcqs-remediation-01-ba758e312d"></a>
 <a id="session-basic-mcqs-remediation-01-ba758e312d"></a>
-## BASIC MCQS / REMEDIATION
-
 <a id="workbook-32-original-mcqs-24-core-diagnostics-and-8-remedial-error-target-01-c975264a4b"></a>
 <a id="session-32-original-mcqs-24-core-diagnostics-and-8-remedial-error-target-01-c975264a4b"></a>
-### 32 original MCQs — 24 core diagnostics and 8 remedial error-targeting drills
+## Coverage-derived diagnostic and transfer bank
 
-**Answer placement:** each correct option was fixed independently, so the key sequence is unpatterned rather than rotated. Options are matched for length, specificity and grammar so that the answer cannot be spotted by shape alone. Every question carries four question-specific option explanations and one unique examiner trap.
+**Answer placement:** every question has one explicit primary test cell. Correct positions have no fixed rotation, no equal-quota contract and no run longer than two.
 
 <a id="workbook-mcq-1-the-three-names-of-the-school-01-82f5d58051"></a>
 <a id="session-mcq-1-the-three-names-of-the-school-01-82f5d58051"></a>
@@ -644,56 +642,55 @@ D. Buddhism identifies the person with the physical body while Cārvāka denies 
 
 <a id="workbook-mcq-25-remedial-drill-what-exactly-is-denied-about-awareness-01-dee0dc194e"></a>
 <a id="session-mcq-25-remedial-drill-what-exactly-is-denied-about-awareness-01-dee0dc194e"></a>
+<a id="repair-mcq-25"></a>
+<a id="repair-mcq-25"></a>
 ## MCQ 25
 
-**Coverage cell:** Remedial drill — what exactly is denied about awareness
+**Coverage cell:** How the Nyāya devices divide their work
 
-Which claim about awareness is actually held by the school?
+Which statement most accurately separates the functions of the principal Nyāya replies to the Cārvāka challenge?
 
-A. Awareness is identical with the element of air, which circulates through the body and animates its organs.
+A. *Anvaya-vyatireka* searches positive and negative cases, *upādhi*-elimination qualifies the relation, and *tarka* removes doubt without itself becoming a *pramāṇa*
 
-B. Awareness does not occur at all, since nothing beyond the four elements is admitted into the account of the world.
+B. *Anvaya-vyatireka* proves every future case, *upādhi* names the conclusion, and *tarka* supplies direct perception of the universal
 
-C. Awareness is an eternal quality inhering in an immaterial self that uses the body as its temporary instrument.
+C. *Tarka* alone establishes *vyāpti*, while positive and negative instances merely illustrate a certainty already obtained through testimony
 
-D. Awareness occurs and is internally perceived, but no imperceptible bearer of it follows from that occurrence.
+D. *Upādhi*-elimination rejects all qualifications, while *anvaya-vyatireka* replaces inference with an exhaustive survey of every possible case
 
-**Answer: D.**
+**Answer: A.**
 
 **Option explanations:**
-- **A:** Incorrect: identification with a single element is ruled out by the emergence account, in which no ingredient carries the property alone.
-- **B:** Incorrect: eliminating awareness would contradict internal perception, which the school expressly admits.
-- **C:** Incorrect: this is the Nyāya account of the self and its qualities, which the school is arguing against.
-- **D:** Correct: the occurrence is granted and only the inferential addition of a possessor is refused.
+- **A:** Correct: the devices have distinct jobs, and supportive reasoning removes a blocking doubt rather than independently producing knowledge.
+- **B:** Incorrect: Nyāya claims disciplined warrant, not omniscient coverage, and neither *upādhi* nor *tarka* has the role assigned here.
+- **C:** Incorrect: *tarka* is explicitly a helper of a means of knowledge, while observed correlations and condition-removal do substantive evidential work.
+- **D:** Incorrect: eliminating a suspected condition refines the universal, and positive-negative testing does not pretend to enumerate every possible instance.
 
-**Examiner trap 25:** The frequent slip is to move from "no soul" to "no consciousness"; the school's position lies precisely between those two claims.
-
-<a id="workbook-mcq-26-remedial-drill-rejecting-inference-and-never-inferring-01-42cfdfd005"></a>
-<a id="session-mcq-26-remedial-drill-rejecting-inference-and-never-inferring-01-42cfdfd005"></a>
+**Examiner trap 25:** Listing the devices without separating their functions hides the exact point at which Nyāya changes certainty into disciplined warrant.
+<a id="repair-mcq-26"></a>
 ## MCQ 26
 
-**Coverage cell:** Remedial drill — rejecting inference and never inferring
+**Coverage cell:** Ākāśa, sound and the burden of naturalisation
 
-A script states: "Because Cārvāka rejects inference, a Cārvāka never reasons from smoke to fire in ordinary life." The error is that
+What is the strongest balanced assessment of the Cārvāka rejection of *ākāśa* as the substrate of sound?
 
-A. the school in fact accepts inference as a fully independent means of valid knowledge alongside perception
+A. The rejection is decisive because sound is never perceived, so no material process can account for its occurrence
 
-B. the school denies perception as well, so no example drawn from ordinary observation can illustrate its position
+B. The rejection consistently blocks an inferred substrate, but it must still naturalise sound through perceptible air or material processes rather than merely dismiss it
 
-C. Inference loses independent *pramāṇa* status, not its practical role in moving fallibly from a perceived sign toward what it signifies.
+C. The rejection accepts the Vaiśeṣika substance-quality argument but denies only that *ākāśa* is eternal and all-pervasive
 
-D. reasoning from smoke to fire counts as testimony rather than inference, so the example is misclassified from the start
+D. The rejection follows because Cārvāka admits five elements while treating *ākāśa* as a temporary combination of the other four
 
-**Answer: C.**
+**Answer: B.**
 
 **Option explanations:**
-- **A:** Incorrect: granting independent validity would surrender the school's most characteristic thesis.
-- **B:** Incorrect: perception is the one source that is affirmed, so the premise of this option is false.
-- **C:** Correct: practical movement from sign to signified is conceded as corrigible habit answerable to later perception.
-- **D:** Incorrect: smoke-to-fire is the standard textbook example of inference, not of testimony.
+- **A:** Incorrect: sound is perceived; the disputed claim concerns the imperceptible substance proposed as the bearer of that perceived quality.
+- **B:** Correct: epistemic economy removes the inferred substrate, while explanatory adequacy requires a positive material account of sound.
+- **C:** Incorrect: once the substance-quality inference is accepted, the characteristic Cārvāka reason for excluding *ākāśa* has already been surrendered.
+- **D:** Incorrect: the school admits four perceptible elements and rejects, rather than recombines, the fifth element proposed by its opponents.
 
-**Examiner trap 26:** Confusing a claim about epistemic status with a claim about behaviour makes the school look absurd and invites the examiner's charge of caricature.
-
+**Examiner trap 26:** Do not confuse perception of sound with perception of an imperceptible sound-substrate; they are different claims.
 <a id="workbook-mcq-27-remedial-drill-own-nature-against-unseen-moral-force-01-64549d93ef"></a>
 <a id="session-mcq-27-remedial-drill-own-nature-against-unseen-moral-force-01-64549d93ef"></a>
 ## MCQ 27
@@ -722,30 +719,31 @@ D. the first denies that any regularity obtains in nature, whereas the second af
 
 <a id="workbook-mcq-28-remedial-drill-two-different-objections-to-a-universal-01-c889b2099f"></a>
 <a id="session-mcq-28-remedial-drill-two-different-objections-to-a-universal-01-c889b2099f"></a>
+<a id="repair-mcq-28"></a>
+<a id="repair-mcq-28"></a>
 ## MCQ 28
 
-**Coverage cell:** Remedial drill — two different objections to a universal
+**Coverage cell:** The epistemology-to-transcendence chain
 
-Consider two objections to a proposed universal relation: (i) not every case has been observed; (ii) the observed cases may have shared an unnoticed further condition. Which is the hidden-limiting-condition objection, and why does the difference matter?
+Which sequence best reconstructs why Cārvāka epistemology generates its rejection of transcendent entities?
 
-A. Objection (ii), because it survives however extensive the observation becomes, showing that constancy of observation cannot certify unconditionality
+A. Only perception is independently valid; soul, God, karma, rebirth and heaven are not perceived; their inferential or scriptural routes fail; therefore they lack warranted admission
 
-B. Objection (i), because a hidden limiting condition is simply another name for an incomplete survey of the available instances
+B. Materialism is accepted first on scriptural grounds; perception is then restricted so that the prior ontology cannot be challenged by rival schools
 
-C. Both, because the two objections restate a single complaint about the finitude of human observation in different words
+C. Ethical hedonism is established first; all unseen entities are rejected only because they might impose limits on immediate pleasure
 
-D. Neither, because the hidden limiting condition concerns the formal validity of the syllogism rather than the truth of its premise
+D. The four elements are inferred as universal causes; every other inference is then rejected because it competes with that preferred causal theory
 
 **Answer: A.**
 
 **Option explanations:**
-- **A:** Correct: incompleteness is quantitative and could in principle be reduced, whereas an unnoticed qualifier defeats the universal itself.
-- **B:** Incorrect: this collapses the sharper objection into the weaker one and loses what makes the argument structural.
-- **C:** Incorrect: the two differ in kind, since only one of them concerns the content of the supposed relation.
-- **D:** Incorrect: formal validity is expressly conceded in the school's treatment of the standard syllogism.
+- **A:** Correct: the denials are the ontological shadow of the perception-only rule, not an unrelated list of anti-religious conclusions.
+- **B:** Incorrect: Cārvāka rejects scriptural authority, and the direction of derivation runs from epistemology toward ontology rather than backwards.
+- **C:** Incorrect: ethics follows the removal of unseen goods and sanctions; it does not supply the foundational argument against them.
+- **D:** Incorrect: treating the elements as products of the very unrestricted inference being attacked would make the system immediately self-defeating.
 
-**Examiner trap 28:** Stating only the incomplete-survey point leaves the strongest half of the case unwritten, because the qualifier objection is what defeats unconditionality.
-
+**Examiner trap 28:** A list of denials earns less than the single derivational chain that explains why each denial follows from the same epistemic criterion.
 <a id="workbook-mcq-29-remedial-drill-the-crude-and-refined-contrast-01-7e8c2fc250"></a>
 <a id="session-mcq-29-remedial-drill-the-crude-and-refined-contrast-01-7e8c2fc250"></a>
 ## MCQ 29
@@ -826,26 +824,532 @@ D. As a Mīmāṃsā parody of materialism with no genuine connection to the Lok
 
 <a id="workbook-mcq-32-remedial-drill-placing-the-sceptical-wing-01-4a23ff0a44"></a>
 <a id="session-mcq-32-remedial-drill-placing-the-sceptical-wing-01-4a23ff0a44"></a>
+<a id="repair-mcq-32"></a>
+<a id="repair-mcq-32"></a>
 ## MCQ 32
 
-**Coverage cell:** Remedial drill — placing the sceptical wing
+**Coverage cell:** Karma and adṛṣṭa are related but not identical
 
-Which use of Jayarāśi in an answer is defensible?
+Which statement correctly distinguishes *karma* from *adṛṣṭa* in the Cārvāka critique?
 
-A. Presenting him as a Naiyāyika author who refuted the materialists from a standpoint outside their tradition
+A. *Karma* concerns morally charged action and its consequences, while *adṛṣṭa* is the unseen potency or residue invoked to connect action with later fruition
 
-B. Quoting him to establish that perception alone is the school's single independent means of valid knowledge
+B. *Karma* is the perceptible body, while *adṛṣṭa* is the internally perceived consciousness that qualifies that body
 
-C. Treating him as proof that all Cārvākas denied the existence of the four elements they are otherwise reported to accept
+C. *Karma* means ordinary physical causation, while *adṛṣṭa* means the observable regularity explained through a thing's own nature
 
-D. as a contested sceptical wing whose destructive dialectic attacks every positive *pramāṇa* definition without straightforwardly asserting standard materialism
+D. *Karma* and *adṛṣṭa* are interchangeable names for rebirth, so rejecting either one independently completes the entire argument
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the concepts belong to one moral-causal scheme but name different components, both of which fail the Cārvāka perceptual test.
+- **B:** Incorrect: body and consciousness belong to the materialist account of the person, not to this distinction within moral causation.
+- **C:** Incorrect: ordinary causation and *svabhāva* are naturalistic ideas, whereas *adṛṣṭa* is precisely the imperceptible factor being rejected.
+- **D:** Incorrect: rebirth is a further doctrine requiring a surviving bearer and continuity, not a synonym for either moral action or unseen potency.
+
+**Examiner trap 32:** Writing “karma or adṛṣṭa” as if the words were synonyms erases the mechanism the opponent is actually proposing.
+<a id="repair-mcq-33"></a>
+## MCQ 33
+
+**Coverage cell:** Why perception cannot establish vyāpti
+
+Why does finite perception fail, on the Cārvāka argument, to establish the universal “wherever smoke, there is fire”?
+
+A. Because smoke and fire are never perceived together in any ordinary case
+
+B. Because perception supplies only universals and cannot reach particular fires
+
+C. Because the relation is false whenever fire burns without producing visible smoke
+
+D. Because observed cases are finite and cannot include every past, present, future, near and distant instance required by an unrestricted universal
 
 **Answer: D.**
 
 **Option explanations:**
-- **A:** Incorrect: he is not a Naiyāyika, and his dialectic dismantles Nyāya definitions rather than deploying them.
-- **B:** Incorrect: his argument turns against the definability of perception itself, so he cannot certify the standard thesis.
-- **C:** Incorrect: generalising a limit-case to the whole tradition contradicts the convergent reports of four-element materialism.
-- **D:** Correct: he supplies the strongest answer to the self-refutation charge precisely because a purely destructive dialectic asserts no rival thesis.
+- **A:** Incorrect: co-presence in kitchens and hearths is granted; the problem concerns extending those observations without limit.
+- **B:** Incorrect: ordinary perception presents particulars, while the opponent must explain how an unrestricted universal becomes known through them.
+- **C:** Incorrect: fire without smoke does not refute the one-way rule from smoke to fire, although it matters to careless formulations.
+- **D:** Correct: no finite survey can by itself entail an exceptionless relation covering cases that were never and may never be perceived.
 
-**Examiner trap 32:** Even a purely destructive dialectic may covertly assume that destructive reasoning is reliable, and conceding that residual worry strengthens rather than weakens the answer.
+**Examiner trap 33:** The quantitative weakness is not that observation has found no support, but that finite support cannot equal unrestricted universality.
+<a id="repair-mcq-34"></a>
+## MCQ 34
+
+**Coverage cell:** Why inference cannot establish its own vyāpti
+
+What happens if inference is used to prove the *vyāpti* required for inference?
+
+A. The proof becomes perceptual because every inferential premise is ultimately a sensation
+
+B. The proof succeeds if its conclusion is repeated by several competent speakers
+
+C. The proof becomes comparison because the new universal resembles the original one
+
+D. The proof is circular if it presupposes a universal, or regressive if each supporting inference requires a further universal
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: an inferential transition does not become perception merely because some premises originated in perceptual experience.
+- **B:** Incorrect: multiplying testimony does not remove the need to justify the inference from reported cases to a universal relation.
+- **C:** Incorrect: resemblance does not supply the exceptionless connection that the attempted proof must establish.
+- **D:** Correct: inference cannot non-circularly certify the universal warrant on which its own validity already depends.
+
+**Examiner trap 34:** Name both horns: presupposing *vyāpti* is circular, while proving it through another inference opens a regress.
+<a id="repair-mcq-35"></a>
+## MCQ 35
+
+**Coverage cell:** Why testimony cannot establish vyāpti
+
+Why can testimony not rescue the universal premise of inference on the Cārvāka account?
+
+A. Because every utterance is meaningless until its speaker is physically present
+
+B. Because accepting the speaker's authority already requires inferred reliability, and dependence on testimony would prevent a person from inferring independently
+
+C. Because testimony can establish only moral duties and never statements about ordinary objects
+
+D. Because authorless testimony is accepted, while authored testimony is rejected as necessarily deceptive
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: meaningful communication is conceded; the dispute concerns truth-warrant rather than the existence of linguistic meaning.
+- **B:** Correct: testimony cannot ground inference without borrowing inference to establish reliability and making independent reasoning impossible.
+- **C:** Incorrect: the restriction is not a subject-matter division between moral and ordinary claims, but an objection to independent epistemic authority.
+- **D:** Incorrect: Cārvāka rejects the alleged privilege of authorlessness and does not declare every human speaker necessarily deceptive.
+
+**Examiner trap 35:** The testimony route fails twice: it borrows inference to certify the speaker and cannot explain autonomous inference by the hearer.
+<a id="repair-mcq-36"></a>
+## MCQ 36
+
+**Coverage cell:** Illusion and the tu-quoque correction problem
+
+An opponent notes that a shell may look like silver and that later reasoning corrects the error. What is the most accurate assessment of this challenge?
+
+A. The *tu quoque* proves that every perception is false and therefore establishes testimony as the only reliable source
+
+B. It is irrelevant because Cārvāka defines perception as whatever cognition cannot possibly be corrected
+
+C. It is a *tu quoque* pressure: Cārvāka may distinguish appearance from corrected perception, but explaining correction often relies on comparison or inference that the school demotes
+
+D. It refutes only Jayarāśi, because standard Cārvāka denies that perceptual illusion ever occurs
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: the *tu quoque* label does not make all perception false or confer automatic authority on testimony.
+- **B:** Incorrect: defining away correction would be circular and would not explain how a mistaken presentation is identified as mistaken.
+- **C:** Correct: the *tu quoque* exposes a correction problem without proving that perception and inference have identical epistemic status.
+- **D:** Incorrect: standard Cārvāka need not deny illusion, while Jayarāśi uses such definitional difficulties more radically against every proposed *pramāṇa*.
+
+**Examiner trap 36:** The objection is strongest as a correction challenge, not as the crude claim that one illusion abolishes all perception.
+<a id="repair-mcq-37"></a>
+## MCQ 37
+
+**Coverage cell:** Universals and the sāmānyalakṣaṇa response
+
+How does Nyāya's appeal to *sāmānyalakṣaṇa-pratyakṣa* answer the Cārvāka objection concerning universals?
+
+A. It concedes that universals are never known and replaces them with recurring private images
+
+B. It claims that a universal is presented through a perceived particular, though this reply depends on Nyāya realism about universals and is not neutral common ground
+
+C. It proves the universal by enumerating every individual that instantiates it across all times and places
+
+D. It treats universals as scriptural meanings disclosed only through authorless Vedic sentences
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: Nyāya is realist about repeatable universals and does not reduce them to private mental imagery.
+- **B:** Correct: extraordinary perception is offered as access to the class-character, but its force depends on accepting the ontology under dispute.
+- **C:** Incorrect: exhaustive enumeration is neither possible nor Nyāya's proposed account of how a universal becomes cognitively available.
+- **D:** Incorrect: the response belongs to Nyāya perception theory, not to a Mīmāṃsā doctrine of Vedic disclosure.
+
+**Examiner trap 37:** State both halves: the response blocks the Cārvāka premise inside Nyāya, yet cannot compel someone who rejects real universals.
+<a id="repair-mcq-38"></a>
+## MCQ 38
+
+**Coverage cell:** The exact defect in the Socrates syllogism
+
+For the 2019 Q6(c) argument “All men are mortal; Socrates is a man; therefore Socrates is mortal,” where does the Cārvāka locate the defect?
+
+A. The form is valid, but the universal major premise is not independently warranted; deduction merely extracts what the unproved premise already contains
+
+B. The conclusion is invalid because a singular subject can never occur in a deductive argument
+
+C. The minor premise is false because the historical existence of Socrates cannot be perceived now
+
+D. The argument equivocates on mortality by changing its meaning between the major premise and the conclusion
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the attack concerns the epistemic acquisition of “all men are mortal,” not the conclusion's formal derivation from accepted premises.
+- **B:** Incorrect: singular terms occur in valid deductions, and this response misses the universal-premise problem tested by the PYQ.
+- **C:** Incorrect: the example assumes the minor premise and asks what is wrong with the inferential warrant supplied by the major premise.
+- **D:** Incorrect: no semantic equivocation is required for the Cārvāka criticism, which targets induction and circular deduction.
+
+**Examiner trap 38:** Calling the syllogism formally invalid is the decisive error; the Cārvāka says it is valid but epistemically empty.
+<a id="repair-mcq-39"></a>
+## MCQ 39
+
+**Coverage cell:** Jayarāśi's prasaṅga and no-positive-thesis strategy
+
+Which formulation best captures Jayarāśi's strongest reply to the charge that scepticism uses the reasoning it rejects?
+
+A. He establishes four elements as a positive theory and uses them to deduce that all rival definitions are false
+
+B. He suspends ordinary transactions until a final criterion of truth has been discovered
+
+C. He uses *prasaṅga* to expose consequences within an opponent's definitions without advancing a rival positive thesis, allows ordinary transactions to continue, yet still owes an account of the dialectical norms used
+
+D. He accepts Nyāya inference for debate while rejecting it only in private philosophical reflection
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: this would restore dogmatic materialism and expose him directly to the self-refutation charge he is trying to evade.
+- **B:** Incorrect: the surviving account says ordinary dealings continue even after theoretical foundations are dialectically unsettled.
+- **C:** Correct: no-positive-thesis *prasaṅga* reduces commitment, while the residual question concerns the authority of the destructive norms themselves.
+- **D:** Incorrect: using Nyāya inference as independently valid would abandon rather than refine the sceptical strategy.
+
+**Examiner trap 39:** A sophisticated answer preserves all four parts: internal consequence, no rival thesis, continuing practice, and the residual norm problem.
+<a id="repair-mcq-40"></a>
+## MCQ 40
+
+**Coverage cell:** Ordinary communication versus independent testimony
+
+How can a Cārvāka consistently respond to ordinary verbal directions such as “water is beyond the grove”?
+
+A. By treating every utterance as direct perception of the distant object described
+
+B. By accepting the speaker as infallible whenever the statement concerns practical life
+
+C. By relying on the report provisionally for action while withholding independent *pramāṇa* status until perception confirms or defeats it
+
+D. By denying that the sentence has meaning but following its sounds through conditioned reflex
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: hearing words is perceptual, but the distant water they describe is not thereby presented to perception.
+- **B:** Incorrect: practical subject matter does not make a speaker infallible or eliminate the need to assess reliability.
+- **C:** Correct: ordinary communication can guide corrigible action without becoming an independent guarantee of the reported fact.
+- **D:** Incorrect: Cārvāka rejects testimonial authority, not semantic understanding or purposive linguistic interaction.
+
+**Examiner trap 40:** The key distinction is practical uptake versus independent truth-warrant, not meaningful speech versus meaningless noise.
+<a id="repair-mcq-41"></a>
+## MCQ 41
+
+**Coverage cell:** Vedic authorlessness, infallibility and authority
+
+Why does alleged Vedic authorlessness fail to establish infallible authority for Cārvāka?
+
+A. Because an authorless text must have been composed by a creator God whose reliability cannot be tested
+
+B. Because only authored texts can possess grammatical meaning and communicate ritual commands
+
+C. Because authorlessness proves that no priest has ever interpreted the text for personal advantage
+
+D. Because neither authorlessness nor freedom from error is perceptually given, and the text cannot certify its own authority without circularity
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: appealing to a creator would add another imperceptible entity and does not follow from the Mīmāṃsā claim of authorlessness.
+- **B:** Incorrect: intelligible meaning does not by itself require an identifiable human author, and this is not the Cārvāka's central objection.
+- **C:** Incorrect: the history of interpretation is separate from the epistemic question whether the text is intrinsically error-free.
+- **D:** Correct: the privileged status is precisely what requires proof, so citing the Veda to validate the Veda is question-begging.
+
+**Examiner trap 41:** Do not argue merely that some priests are unreliable; target the claimed bridge from authorlessness to intrinsic infallibility.
+<a id="repair-mcq-42"></a>
+## MCQ 42
+
+**Coverage cell:** Comparison as a separate proposed pramāṇa
+
+What is the specific Cārvāka-style objection to *upamāna* as an independent means of knowledge?
+
+A. Resemblance is never perceived, so comparison contains no perceptual component at all
+
+B. Comparison is valid only when a Vedic sentence supplies the objects being compared
+
+C. Every comparison is a deductively valid syllogism and therefore needs no separate treatment
+
+D. Perceived resemblance is admitted, but moving from it to a stable word-kind relation requires generalisation beyond the presented likeness
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: perceived similarity is the admitted starting point, so denying it would misstate the reconstructed objection.
+- **B:** Incorrect: ordinary comparison does not depend on scripture, and importing Vedic authority evades the epistemic issue.
+- **C:** Incorrect: *upamāna* is proposed as a distinct cognition, and reducing it to deduction does not explain the word-kind acquisition.
+- **D:** Correct: either perception already supplies the content or the classificatory step inherits the disputed universalising move.
+
+**Examiner trap 42:** Keep *upamāna* separate: its distinctive pressure point is the move from a seen resemblance to a stable linguistic classification.
+<a id="repair-mcq-43"></a>
+## MCQ 43
+
+**Coverage cell:** Postulation as a separate proposed pramāṇa
+
+Why does *arthāpatti* fail the Cārvāka test of independent knowledge?
+
+A. It reports a perceived absence and therefore never posits anything beyond the observed facts
+
+B. It introduces an unperceived fact as necessary, but that necessity depends on a general rule excluding every alternative explanation
+
+C. It derives certainty from resemblance between two perceived objects
+
+D. It is valid only for explaining sacred injunctions and has no ordinary examples
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: postulation is invoked precisely because the explanatory fact is not presented in the observations already available.
+- **B:** Correct: the alleged compulsion of the postulate outruns perception and relies on an unproved universal exclusion of alternatives.
+- **C:** Incorrect: resemblance is associated with comparison, not with explanatory postulation under apparent inconsistency.
+- **D:** Incorrect: the standard examples include ordinary explanatory postulates, so the objection cannot be confined to scripture.
+
+**Examiner trap 43:** The target is not imaginative guessing but the claim that one unperceived explanation is uniquely necessitated.
+<a id="repair-mcq-44"></a>
+## MCQ 44
+
+**Coverage cell:** Non-cognition as a separate proposed pramāṇa
+
+What hidden premise does the Cārvāka expose in the claim “the jar is absent because it is not perceived here”?
+
+A. If the jar existed under suitable conditions, it would be perceived; that universal conditional is not itself contained in the present non-perception
+
+B. Every absent object must exist in another place at the same moment
+
+C. A jar can be known only through testimony from its maker
+
+D. Absence is a material element that combines with earth to produce empty space
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the move from not-seeing to absence depends on a visibility conditional that one episode of non-cognition does not establish.
+- **B:** Incorrect: non-cognition does not entail relocation, and the theory of absence makes no such universal commitment.
+- **C:** Incorrect: ordinary jar perception does not require testimony, and the proposed inference concerns visibility conditions.
+- **D:** Incorrect: absence is not one of the four elements and is not treated as a material ingredient of spatial emptiness.
+
+**Examiner trap 44:** Write the conditional explicitly; without it, the inference from non-perception to absence looks falsely immediate.
+<a id="repair-mcq-45"></a>
+## MCQ 45
+
+**Coverage cell:** Parāmarśa and the alleged inferential leap
+
+What role does *parāmarśa* play in the Nyāya reply to Cārvāka?
+
+A. It is the first perception of smoke before any universal relation is considered
+
+B. It is the cognition of the present mark as qualified by known *vyāpti*, applying the universal to the case rather than making an unexplained leap
+
+C. It is testimony from a reliable person that the conclusion has already been proved
+
+D. It is the hidden condition whose discovery defeats the proposed universal relation
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: merely seeing the mark is insufficient; the inferential trigger includes its qualification by the remembered universal relation.
+- **B:** Correct: *parāmarśa* explains the application stage linking the observed sign, established concomitance and present conclusion.
+- **C:** Incorrect: the cognition belongs to the inferer's reasoning and is not a report received from another speaker.
+- **D:** Incorrect: an *upādhi* limits a universal, whereas *parāmarśa* is the case-directed cognition used in a sound inference.
+
+**Examiner trap 45:** Do not list *parāmarśa* as another method of discovering *vyāpti*; it applies an already known relation.
+<a id="repair-mcq-46"></a>
+## MCQ 46
+
+**Coverage cell:** Nyāya warrant versus entailment
+
+What is the fairest verdict on whether Nyāya defeats the Cārvāka problem of induction?
+
+A. Nyāya supplies disciplined defeasible warrant through testing and condition-removal, but finite evidence still does not deductively entail an unrestricted universal
+
+B. Nyāya proves every universal with mathematical entailment and therefore eliminates any possibility of a future defeating case
+
+C. Cārvāka wins completely because rational warrant is worthless unless it equals omniscient certainty
+
+D. The dispute disappears once both schools agree that successful prediction retrospectively makes every inference infallible
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: judged by warrant Nyāya has a strong reply, while judged by entailment the residual Cārvāka point remains.
+- **B:** Incorrect: the Nyāya procedure is disciplined but does not turn finite observation into deductive coverage of all possible cases.
+- **C:** Incorrect: this simply assumes the Cārvāka's infallibilist standard instead of evaluating whether knowledge may be defeasible.
+- **D:** Incorrect: predictive success supports reliability but cannot retroactively guarantee that no hidden condition or future exception exists.
+
+**Examiner trap 46:** The highest-value verdict names the standard: Nyāya wins on warrant, Cārvāka survives on entailment.
+<a id="repair-mcq-47"></a>
+## MCQ 47
+
+**Coverage cell:** Transmigration requires both a survivor and karmic continuity
+
+Which reconstruction states the full Cārvāka criticism of transmigration tested in 2020 Q6(b)?
+
+A. Transmigration fails only because heaven and hell are spatially too distant to be perceived during embodied life
+
+B. It requires a self that survives bodily death and a karmic mechanism carrying desert into another birth; Cārvāka denies perceptual warrant for both links
+
+C. It is rejected because Cārvāka accepts an immortal soul but denies that it can enter more than one body
+
+D. It is rejected solely because scripture gives mutually inconsistent descriptions of the next birth
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: distance is not the complete issue, since the doctrine also requires personal survival and moral-causal transmission.
+- **B:** Correct: without both a surviving bearer and karmic continuity, there is no subject or mechanism for transmigration.
+- **C:** Incorrect: body-self materialism denies the separate immortal survivor assumed by this option.
+- **D:** Incorrect: textual disagreement may reinforce doubt, but the core criticism independently removes the ontology and causal bridge.
+
+**Examiner trap 47:** Do not reduce transmigration to generic afterlife denial; identify both the surviving subject and the karmic connector.
+<a id="repair-mcq-48"></a>
+## MCQ 48
+
+**Coverage cell:** God, the potter analogy and svabhāva
+
+How does Cārvāka answer the inference from an ordered world to God as its intelligent maker?
+
+A. By accepting the potter analogy and identifying the creator with a perfected human artisan
+
+B. By arguing that every perceived effect has no cause and that nature is wholly chaotic
+
+C. By proving through scripture that the world is eternal and therefore cannot have any maker
+
+D. By rejecting the unproved transfer from pots to the world and preferring *svabhāva*, observable natural powers and regularities, over an imperceptible designer
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: enlarging a familiar artisan does not justify applying the artifact model to the world as a whole.
+- **B:** Incorrect: *svabhāva* preserves natural regularity and differs from the claim that events are wholly causeless.
+- **C:** Incorrect: scripture cannot establish the anti-theistic conclusion for a school that denies its independent authority.
+- **D:** Correct: the analogy is inferentially under-supported, while own-nature offers an immanent stopping point without a transcendent potter.
+
+**Examiner trap 48:** Separate rejecting a cosmic potter from rejecting ordinary causation; Cārvāka naturalism need not be accidentalism.
+<a id="repair-mcq-49"></a>
+## MCQ 49
+
+**Coverage cell:** Heaven and hell as unverified postulates
+
+What is the direct Cārvāka objection to heaven and hell?
+
+A. They are perceived only by priests and therefore remain valid for ritual specialists
+
+B. They are not perceptually available and are reached through the same disputed scriptural or inferential routes used for post-mortem reward and punishment
+
+C. They are material places accepted by Cārvāka but denied any moral function
+
+D. They are rejected because pleasure and pain cannot occur in any embodied organism
+
+**Answer: B.**
+
+**Option explanations:**
+- **A:** Incorrect: privileged priestly perception is not conceded and would require independent evidence of the claimed access.
+- **B:** Correct: the locations and their moral functions depend on unverified testimony, inference and the afterlife scheme already under attack.
+- **C:** Incorrect: accepting the places while removing their moral role is not the standard materialist position reported by the sources.
+- **D:** Incorrect: embodied pleasure and pain are central perceived facts in Cārvāka ethics and psychology.
+
+**Examiner trap 49:** Treat heaven and hell as distinct unseen destinations within the moral scheme, not as mere synonyms for rebirth.
+<a id="repair-mcq-50"></a>
+## MCQ 50
+
+**Coverage cell:** Veda, sacrifice, ancestral offerings and priestcraft
+
+How should an answer use Cārvāka attacks on sacrifice and ancestral offerings?
+
+A. As proof that ridicule alone establishes the falsity of every ritual claim
+
+B. As a concession that rituals work, although priests distribute their benefits unfairly
+
+C. As historical evidence that Cārvāka accepted Vedic authority but opposed expensive ceremonies
+
+D. As satire illustrating the critique of priestly interest, while the philosophical argument remains that unseen ritual results lack perceptual or independently warranted support
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: mockery may expose tension but cannot replace the epistemic argument against unseen causal results.
+- **B:** Incorrect: the polemic denies that the promised supersensible benefits have been established in the first place.
+- **C:** Incorrect: rejection reaches Vedic authority and the alleged ritual mechanism, not merely the price of ceremonies.
+- **D:** Correct: the ancestral-offering and sacrificial-victim taunts are illustrations; the warrant argument does the philosophical work.
+
+**Examiner trap 50:** Distinguish argument from satire: priestcraft explains suspicion, but failed epistemic warrant supports the conclusion.
+<a id="repair-mcq-51"></a>
+## MCQ 51
+
+**Coverage cell:** Memory and personal identity
+
+What is the strongest balanced treatment of memory as an objection to the Cārvāka body-self?
+
+A. Memory seems to require continuity of the remembering subject; Cārvāka may invoke bodily and causal continuity, but must explain identity through change without an immaterial bearer
+
+B. Memory directly perceives a disembodied soul and therefore conclusively refutes every material account of persons
+
+C. Memory is impossible on Cārvāka because the school denies that consciousness ever occurs
+
+D. Bodily continuity automatically proves numerical identity, so memory raises no explanatory problem at all
+
+**Answer: A.**
+
+**Option explanations:**
+- **A:** Correct: the objection presses persistence, while the reply offers embodied causal continuity but leaves a genuine explanatory burden.
+- **B:** Incorrect: memory presents past content, not a separate substance perceived apart from the body.
+- **C:** Incorrect: the school accepts consciousness and internal experience while locating them in the organised living body.
+- **D:** Incorrect: bodily persistence through material change requires argument and cannot simply be treated as self-evident proof of identity.
+
+**Examiner trap 51:** A balanced answer neither declares memory a direct perception of soul nor pretends bodily continuity needs no theory.
+<a id="repair-mcq-52"></a>
+## MCQ 52
+
+**Coverage cell:** Jaina and Vedāntic objections to emergent consciousness
+
+Which pairing accurately distinguishes two objections to Cārvāka's emergence account of consciousness?
+
+A. Jainism denies every enduring bearer, while Vedānta explains awareness as a chemical property of the gross body
+
+B. Jainism and Vedānta both accept emergence but disagree only about which material element produces awareness
+
+C. Jainism objects that matter cannot preserve karmic bondage without *adṛṣṭa*, while Vedānta accepts the body as self-luminous
+
+D. Jainism posits a conscious *jīva* as bearer, while Vedānta argues that self-luminous consciousness is the condition for knowing material states rather than their emergent product
+
+**Answer: D.**
+
+**Option explanations:**
+- **A:** Incorrect: Jainism affirms plural enduring souls, while Vedānta refuses to reduce consciousness to bodily chemistry.
+- **B:** Incorrect: both traditions reject the materialist emergence thesis at a more basic metaphysical level.
+- **C:** Incorrect: the Jaina bearer is the *jīva*, and Vedānta treats consciousness rather than the body as self-luminous.
+- **D:** Correct: the objections differ, one supplying an enduring bearer and the other reversing the dependence between matter and awareness.
+
+**Examiner trap 52:** Do not collapse rival objections into one: Jainism defends a bearer, while Vedānta defends consciousness as epistemically prior.
+<a id="repair-mcq-53"></a>
+## MCQ 53
+
+**Coverage cell:** Science and the induction transfer
+
+What is the most defensible modern transfer of the Cārvāka challenge to scientific induction?
+
+A. Science is invalid because every theory contains terms that are not directly visible to the unaided senses
+
+B. Scientific success proves that observed regularities entail exceptionless laws with no possibility of revision
+
+C. Finite evidence underdetermines unrestricted universals, so science answers through testable, revisable and probabilistic warrant rather than claiming apodictic entailment
+
+D. Cārvāka anticipated every modern scientific theory and should therefore be treated as an early experimental scientist
+
+**Answer: C.**
+
+**Option explanations:**
+- **A:** Incorrect: instruments, causal testing and indirect evidence can remain empirically answerable without being unaided visual perception.
+- **B:** Incorrect: successful prediction strengthens warrant but does not convert inductive support into deductive entailment.
+- **C:** Correct: the transfer preserves the induction problem while recognising that scientific rationality is fallibilist and methodologically self-correcting.
+- **D:** Incorrect: a useful structural parallel does not license anachronistic attribution of later theories or experimental institutions.
+
+**Examiner trap 53:** Use the comparison to illuminate fallibilism, not to turn Cārvāka into either an anti-scientist or a modern scientist.

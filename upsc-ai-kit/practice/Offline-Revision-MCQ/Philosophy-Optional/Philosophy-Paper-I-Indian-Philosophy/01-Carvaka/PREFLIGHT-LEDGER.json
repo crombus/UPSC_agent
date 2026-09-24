@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topic": "01 Cārvāka",
-  "frozen_at": "2026-09-24T19:40:29+05:30",
+  "frozen_at": "2026-09-24T21:21:29+05:30",
   "source_hashes": {
     "session": {
       "path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final\\Philosophy-Optional\\Philosophy-Paper-I-—-Indian-Philosophy\\01-Carvaka\\Learning-Session.md",
@@ -63,6 +63,18 @@
       "id": "D05",
       "defect": "Textual evidence and polemical reconstruction can be conflated.",
       "resolution": "Preserve formal evidence labels and canonical cautions for lost texts, hostile doxography, Jayarāśi, pleasure verses and internal divisions.",
+      "status": "resolved"
+    },
+    {
+      "id": "D06",
+      "defect": "Published bank used a template-sized total and left substantive cells weak or absent.",
+      "resolution": "Replaced the count contract with TEST-MATRIX.json and keyed-evidence validation.",
+      "status": "resolved"
+    },
+    {
+      "id": "D07",
+      "defect": "Q25/Q26/Q28/Q32 duplicated Q6/Q13/Q8/Q4.",
+      "resolution": "Preserved the original substantive questions, remapped duplicate formal blocks, and reused the public slots for distinct cells.",
       "status": "resolved"
     }
   ],
@@ -135,6 +147,6 @@
       "status": "primary_owned_solved"
     }
   ],
-  "mcq_derivation": "The formal workbook defines 24 distinct core diagnostic inference cells and 8 distinct remedial misconception cells. Each cell is retained exactly once; therefore the coverage-derived total is 32, independently of other topics.",
+  "mcq_derivation": "The frozen retrospective audit identifies 52 substantive cells. Each has at least one independently answerable primary discriminator; one additional risk-specific probe yields 53 questions without a fixed-count or equal-quota contract.",
   "frozen": true
 }

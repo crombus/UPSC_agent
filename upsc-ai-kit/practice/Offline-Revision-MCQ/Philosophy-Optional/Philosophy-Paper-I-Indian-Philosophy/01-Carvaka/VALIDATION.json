@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topic": "01 Cārvāka",
-  "validated_at": "2026-09-24T19:46:38+05:30",
+  "validated_at": "2026-09-24T21:28:48+05:30",
   "validation_mode": "development",
   "result": "DEVELOPMENT_PASS",
   "release_ready": false,
@@ -11,7 +11,7 @@
     "raw_proposition_mappings": 697,
     "unique_semantic_propositions": 522,
     "duplicate_proposition_occurrences": 175,
-    "mcqs": 32,
+    "mcqs": 53,
     "primary_owned_pyqs": 9,
     "supporting_routed_pyqs": 1,
     "original_models": 6
@@ -66,6 +66,11 @@
         },
         {
           "path": "FORMAL-COVERAGE-AUDIT.json",
+          "exists": true,
+          "regeneratable": false
+        },
+        {
+          "path": "TEST-MATRIX.json",
           "exists": true,
           "regeneratable": false
         },
@@ -162,38 +167,45 @@
       "pass": true
     },
     "mcq_integrity": {
-      "question_count": 32,
-      "solution_count": 32,
-      "answer_key": "DBDBDCCAACDBCCAADCCADABCDCBABBCD",
+      "question_count": 53,
+      "solution_count": 53,
+      "answer_key": "DBDBDCCAACDBCCAADCCADABCABBABBCADDBCBACCDDBABABDBDADC",
       "distribution": {
-        "A": 7,
-        "B": 7,
-        "C": 10,
-        "D": 8
+        "A": 13,
+        "B": 14,
+        "C": 13,
+        "D": 13
       },
+      "matrix_cells": 52,
+      "baseline_audit": {
+        "adequate": 26,
+        "partial": 8,
+        "uncovered": 18
+      },
+      "derived_minimum_probes": 52,
       "maximum_identical_run": 2,
-      "correct_longest_rate": 0.2812,
-      "unique_correct_longest_rate": 0.1875,
+      "correct_longest_rate": 0.6226,
+      "unique_correct_longest_rate": 0.566,
       "cue_counts": {
         "semicolon": {
-          "correct": 0,
-          "distractor": 0
+          "correct": 5,
+          "distractor": 3
         },
         "colon": {
-          "correct": 1,
+          "correct": 2,
           "distractor": 0
         },
         "parentheses": {
-          "correct": 1,
-          "distractor": 1
+          "correct": 0,
+          "distractor": 0
         },
         "dash": {
           "correct": 0,
           "distractor": 0
         },
         "contrast": {
-          "correct": 8,
-          "distractor": 6
+          "correct": 15,
+          "distractor": 13
         }
       },
       "generic_explanation_failures": [],
@@ -382,9 +394,9 @@
           "source_exists": true,
           "exists": true,
           "pages": 110,
-          "sha256": "478710645c13a5f0733292bbcbeed564831e6f6b46fdec6eea390a4eb579a13c",
-          "source_sha256": "ea061f9125de50da6f421a757e5170b7b1933c61af5321d3c4540de918932cb1",
-          "stamped_source_sha256": "ea061f9125de50da6f421a757e5170b7b1933c61af5321d3c4540de918932cb1",
+          "sha256": "732b79667276572572778f259e7c6800d0a63751861a6fcf471eb00f601aed38",
+          "source_sha256": "dd8886f2e226c112eb8ad86a810a80165548767d3d93f9119bf3130c01820898",
+          "stamped_source_sha256": "dd8886f2e226c112eb8ad86a810a80165548767d3d93f9119bf3130c01820898",
           "blank_pages": [],
           "replacement_pages": [],
           "out_of_bounds_pages": [],
@@ -394,10 +406,10 @@
           "source": "MCQ-QUESTIONS.md",
           "source_exists": true,
           "exists": true,
-          "pages": 13,
-          "sha256": "3cce8816c022214ee1aec4fc5b9272d627d2c9da729d2bac8e4f4a1a7bfef699",
-          "source_sha256": "265e9a85d63267dca691b9cada2ccd8c00ced508ff1d2be0caf3df8d1e8918db",
-          "stamped_source_sha256": "265e9a85d63267dca691b9cada2ccd8c00ced508ff1d2be0caf3df8d1e8918db",
+          "pages": 19,
+          "sha256": "2f6e348e55e042992984e16c77d20b2dd0d409f20564ce44b780b7143ff519ee",
+          "source_sha256": "ef1dfc92f121ca9864a3f931178a129ce0b5c8e858837710e42575d2ed264ab3",
+          "stamped_source_sha256": "ef1dfc92f121ca9864a3f931178a129ce0b5c8e858837710e42575d2ed264ab3",
           "blank_pages": [],
           "replacement_pages": [],
           "out_of_bounds_pages": [],
@@ -407,10 +419,10 @@
           "source": "MCQ-SOLUTIONS.md",
           "source_exists": true,
           "exists": true,
-          "pages": 22,
-          "sha256": "9085785f7f8433d21fd7569b8cb481164ad78fe398296c1629b79d305d963d96",
-          "source_sha256": "fca1fea63b6f78095d7a296af87c3a7eaf93f9d7bbd06e2ba840c10ec3b481d7",
-          "stamped_source_sha256": "fca1fea63b6f78095d7a296af87c3a7eaf93f9d7bbd06e2ba840c10ec3b481d7",
+          "pages": 33,
+          "sha256": "34ef6afe8dc18e43524d5c1f8cea9adc452ead338b530503b8b75e2f24bcdf7f",
+          "source_sha256": "531e2c6c7115fad8f1071c5acb1944de02bd76ec34c212d94109492918054dd2",
+          "stamped_source_sha256": "531e2c6c7115fad8f1071c5acb1944de02bd76ec34c212d94109492918054dd2",
           "blank_pages": [],
           "replacement_pages": [],
           "out_of_bounds_pages": [],
@@ -482,32 +494,101 @@
           "expected_code_observed": true,
           "rejected": true,
           "pass": true
+        },
+        {
+          "name": "uncovered_test_cell",
+          "expected_code": "MCQ_SYNC:MCQ_CELL_BELOW_MINIMUM",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "redundant_mapping",
+          "expected_code": "MCQ_SYNC:MCQ_REDUNDANT_MAPPING",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "fixed_count_contract",
+          "expected_code": "MCQ_SYNC:MCQ_LEGACY_FIXED_COUNT_CONTRACT",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "fixed_count_validator_constant",
+          "expected_code": "MCQ_SYNC:MCQ_LEGACY_FIXED_COUNT_CONTRACT",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "false_mapping",
+          "expected_code": "MCQ_SYNC:MCQ_FALSE_MAPPING",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "overloaded_mapping",
+          "expected_code": "MCQ_SYNC:MCQ_MAPPING_OVERLOADED",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "keyed_evidence_removed_distractor_retained",
+          "expected_code": "MCQ_SYNC:MCQ_KEYED_EVIDENCE_MISSING",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "predictable_answer_cycle",
+          "expected_code": "MCQ_SYNC:MCQ_PREDICTABLE_CYCLE",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
+        },
+        {
+          "name": "answer_position_imbalance",
+          "expected_code": "MCQ_SYNC:MCQ_POSITION_IMBALANCE",
+          "exit_code": 1,
+          "expected_code_observed": true,
+          "rejected": true,
+          "pass": true
         }
       ],
       "pass": true
     },
     "release_integrity": {
-      "required_count": 18,
-      "included_count": 0,
+      "required_count": 19,
+      "included_count": 4,
       "missing_or_stale": [
         "README.md",
         "REVISION-GUIDE.md",
         "MCQ-QUESTIONS.md",
         "MCQ-SOLUTIONS.md",
-        "ANSWER-WRITING-TOOLKIT.md",
         "COVERAGE-LEDGER.md",
-        "PRACTICE-LOG.md",
         "PREFLIGHT-LEDGER.json",
         "FORMAL-COVERAGE-REVIEW.json",
         "FORMAL-COVERAGE-AUDIT.json",
+        "TEST-MATRIX.json",
         "MCQ-AUDIT.json",
-        "PYQ-DEMAND-AUDIT.json",
         "VALIDATION.json",
         "validate_package.py",
         "pdf/Revision-Guide.pdf",
         "pdf/MCQ-Questions.pdf",
-        "pdf/MCQ-Solutions.pdf",
-        "pdf/Answer-Writing-Toolkit.pdf"
+        "pdf/MCQ-Solutions.pdf"
       ],
       "pass": false,
       "enforced": false,

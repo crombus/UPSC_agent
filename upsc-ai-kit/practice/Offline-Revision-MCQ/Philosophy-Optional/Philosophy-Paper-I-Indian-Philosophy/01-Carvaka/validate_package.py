@@ -39,7 +39,6 @@ WORD_BANDS = {10: (150, 200), 15: (250, 300), 20: (340, 400)}
 EXPECTED_FORMAL_BLOCKS = 436
 EXPECTED_SESSION_BLOCKS = 336
 EXPECTED_WORKBOOK_BLOCKS = 100
-EXPECTED_MCQS = 32
 EXPECTED_PANELS = 12
 EXPECTED_PRIMARY_PYQS = 9
 EXPECTED_SUPPORTING_PYQS = 1
@@ -52,7 +51,7 @@ PDF_SOURCES = {
 }
 PDF_DESCRIPTORS = {
     "Revision-Guide.pdf": "Philosophy Optional · Paper I · Indian Philosophy · Topic 01",
-    "MCQ-Questions.pdf": "32-question closed-book bank · no answer key",
+    "MCQ-Questions.pdf": "Coverage-derived closed-book bank · no answer key",
     "MCQ-Solutions.pdf": "Option-specific explanations and examiner traps",
     "Answer-Writing-Toolkit.pdf": "Nine owned PYQs, one routed mirror, six original models",
 }
@@ -67,6 +66,7 @@ REQUIRED = [
     "PREFLIGHT-LEDGER.json",
     "FORMAL-COVERAGE-REVIEW.json",
     "FORMAL-COVERAGE-AUDIT.json",
+    "TEST-MATRIX.json",
     "MCQ-AUDIT.json",
     "PYQ-DEMAND-AUDIT.json",
     "VALIDATION.json",
@@ -320,6 +320,16 @@ def check_formal(review: dict, audit: dict, failures: list[str]) -> dict:
             number = re.match(r"MCQ (\d+)\.", source["title"])
             if not number or f"**Coverage cell:** {source['title'].split('. ', 1)[1]}" not in payload:
                 destination_failures.append(f"mcq_cell:{block_id}")
+        elif mode == "acknowledged_duplicate_source_remap":
+            number = re.match(r"MCQ (\d+)\.", source["title"])
+            duplicate_targets = {"25": "Q6", "26": "Q13", "28": "Q8", "32": "Q4"}
+            if (
+                not number
+                or destination.get("duplicate_of_question")
+                != duplicate_targets.get(number.group(1))
+                or "**Coverage cell:**" not in payload
+            ):
+                destination_failures.append(f"duplicate_mcq_remap:{block_id}")
         propositions = decision.get("source_specific_semantic_propositions", [])
         if not propositions:
             proposition_failures.append(f"missing:{block_id}")
@@ -509,9 +519,17 @@ def parse_questions(text: str) -> list[dict]:
             match.group(1): match.group(2).strip()
             for match in re.finditer(r"(?m)^([A-D])\. (.+)$", block)
         }
+        first_option = re.search(r"(?m)^A\. ", block)
+        stem_region = block[: first_option.start()] if first_option else block
+        coverage = re.search(r"(?m)^\*\*Coverage cell:\*\* (.+)$", block)
+        stem_region = re.sub(r'(?m)^<a id="[^"]+"></a>\s*$', "", stem_region)
+        stem_region = re.sub(r"(?m)^## MCQ \d+\s*$", "", stem_region)
+        stem_region = re.sub(r"(?m)^\*\*Coverage cell:\*\* .+$", "", stem_region)
         result.append(
             {
                 "number": int(number_match.group(1)) if number_match else -1,
+                "coverage_cell": coverage.group(1).strip() if coverage else "",
+                "stem": re.sub(r"\s+", " ", stem_region).strip(),
                 "options": options,
                 "answer": (
                     re.search(r"(?m)^\*\*Answer: ([A-D])\.\*\*$", block).group(1)
@@ -538,7 +556,47 @@ def longest_run(key: str) -> int:
     return best
 
 
-def check_mcqs(audit: dict, failures: list[str]) -> dict:
+def normalized(value: str) -> str:
+    value = unicodedata.normalize("NFKC", value).casefold()
+    value = re.sub(r"[*_`]", "", value)
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def predictable_cycle(sequence: str) -> bool:
+    if len(sequence) < 12:
+        return False
+    for period in range(2, 5):
+        for start in range(len(sequence) - 11):
+            sample = sequence[start : start + 12]
+            if all(sample[index] == sample[index % period] for index in range(len(sample))):
+                return True
+    return False
+
+
+def legacy_fixed_contract(value, path: str = "") -> list[str]:
+    hits = []
+    forbidden_keys = {
+        "fixed_question_count",
+        "target_question_count",
+        "expected_mcqs",
+        "core_question_count",
+        "remedial_question_count",
+    }
+    if isinstance(value, dict):
+        for key, child in value.items():
+            child_path = f"{path}.{key}" if path else key
+            if key.casefold() in forbidden_keys:
+                hits.append(child_path)
+            hits.extend(legacy_fixed_contract(child, child_path))
+    elif isinstance(value, list):
+        for index, child in enumerate(value):
+            hits.extend(legacy_fixed_contract(child, f"{path}[{index}]"))
+    elif isinstance(value, str) and re.search(r"\b24\s*(?:\+|plus)\s*8\b", value, re.I):
+        hits.append(path or "<root>")
+    return hits
+
+
+def check_mcqs(audit: dict, matrix: dict, failures: list[str]) -> dict:
     question_path = TOPIC / "MCQ-QUESTIONS.md"
     solution_path = TOPIC / "MCQ-SOLUTIONS.md"
     if not question_path.is_file() or not solution_path.is_file():
@@ -554,13 +612,119 @@ def check_mcqs(audit: dict, failures: list[str]) -> dict:
     questions = parse_questions(questions_text)
     solutions = parse_questions(solutions_text)
     errors = []
-    expected_numbers = list(range(1, EXPECTED_MCQS + 1))
+    question_by_id = {f"Q{row['number']}": row for row in questions}
+    solution_by_id = {f"Q{row['number']}": row for row in solutions}
+    expected_numbers = list(range(1, len(questions) + 1))
     if [row["number"] for row in questions] != expected_numbers:
         errors.append("question_numbering")
     if [row["number"] for row in solutions] != expected_numbers:
         errors.append("solution_numbering")
     if re.search(r"(?m)^\*\*Answer:", questions_text):
         errors.append("answer_leakage")
+    cells = matrix.get("cells", [])
+    cell_ids = [cell.get("cell_id") for cell in cells]
+    baseline = {
+        status: sum(cell.get("baseline_status") == status for cell in cells)
+        for status in ("adequate", "partial", "uncovered")
+    }
+    if (
+        len(cells) != 52
+        or len(set(cell_ids)) != len(cells)
+        or any(not re.fullmatch(r"CAR-TM-\d{3}", value or "") for value in cell_ids)
+    ):
+        errors.append("MCQ_TEST_MATRIX_SCHEMA")
+    if baseline != {"adequate": 26, "partial": 8, "uncovered": 18}:
+        errors.append("MCQ_TEST_MATRIX_BASELINE")
+    known_questions = set(question_by_id)
+    known_cells = set(cell_ids)
+    mappings = matrix.get("question_mappings", [])
+    mapping_pairs = []
+    mapping_counts = Counter()
+    for mapping in mappings:
+        qid = mapping.get("question_id")
+        cell_id = mapping.get("primary_cell")
+        if qid not in known_questions or cell_id not in known_cells:
+            errors.append("MCQ_UNKNOWN_MAPPING")
+            continue
+        mapping_pairs.append((qid, cell_id))
+        mapping_counts[qid] += 1
+        cell = next(row for row in cells if row.get("cell_id") == cell_id)
+        if mapping.get("primary_discriminator") != cell.get("primary_discriminator"):
+            errors.append("MCQ_FALSE_MAPPING")
+    if len(mapping_pairs) != len(set(mapping_pairs)):
+        errors.append("MCQ_REDUNDANT_MAPPING")
+    if any(mapping_counts[qid] > 1 for qid in known_questions):
+        errors.append("MCQ_MAPPING_OVERLOADED")
+    if any(mapping_counts[qid] == 0 for qid in known_questions):
+        errors.append("MCQ_UNMAPPED_QUESTION")
+    derived_minimum = 0
+    for cell in cells:
+        cell_id = cell.get("cell_id")
+        minimum = cell.get("minimum_probes")
+        mapped = cell.get("mapped_question_ids", [])
+        if (
+            not cell.get("description")
+            or not cell.get("source_anchors_scope")
+            or not cell.get("minimum_probe_justification")
+            or not cell.get("primary_discriminator")
+            or not cell.get("semantic_assertions")
+        ):
+            errors.append("MCQ_TEST_MATRIX_SCHEMA")
+        if not isinstance(minimum, int) or minimum < 1:
+            errors.append("MCQ_TEST_MATRIX_SCHEMA")
+            continue
+        derived_minimum += minimum
+        explicit = sorted(qid for qid, mapped_cell in mapping_pairs if mapped_cell == cell_id)
+        if sorted(set(mapped)) != explicit:
+            errors.append("MCQ_MATRIX_MAPPING_MISMATCH")
+        if len(set(mapped)) < minimum or cell.get("coverage_status") != "covered":
+            errors.append("MCQ_CELL_BELOW_MINIMUM")
+        for qid in mapped:
+            question = question_by_id.get(qid, {})
+            solution = solution_by_id.get(qid, {})
+            answer = solution.get("answer")
+            keyed_searchable = normalized(
+                " ".join(
+                    [
+                        solution.get("coverage_cell", ""),
+                        question.get("stem", ""),
+                        solution.get("options", {}).get(answer, ""),
+                        solution.get("explanations", {}).get(answer, ""),
+                    ]
+                )
+            )
+            for assertion in cell.get("semantic_assertions", []):
+                groups = assertion.get("all_of", [])
+                if (
+                    not isinstance(groups, list)
+                    or not groups
+                    or not all(isinstance(group, list) and group for group in groups)
+                ):
+                    errors.append("MCQ_TEST_MATRIX_SCHEMA")
+                    continue
+                if not all(
+                    any(normalized(term) in keyed_searchable for term in group)
+                    for group in groups
+                ):
+                    errors.append("MCQ_KEYED_EVIDENCE_MISSING")
+                    errors.append("MCQ_FALSE_MAPPING")
+    if len(questions) < derived_minimum:
+        errors.append("MCQ_BANK_BELOW_DERIVED_MINIMUM")
+    derivation = audit.get("derivation", {})
+    if (
+        derivation.get("matrix_file") != "TEST-MATRIX.json"
+        or derivation.get("matrix_cells") != len(cells)
+        or derivation.get("derived_minimum_probes") != derived_minimum
+        or derivation.get("mapped_unique_question_count") != len(questions)
+        or derivation.get("all_question_ids_mapped") is not True
+    ):
+        errors.append("MCQ_MATRIX_AUDIT_MISMATCH")
+    fixed_hits = legacy_fixed_contract(matrix) + legacy_fixed_contract(audit)
+    validator_source = Path(__file__).read_text(encoding="utf-8")
+    if re.search(r"(?m)^\s*EXPECTED_MCQS\s*=", validator_source):
+        fixed_hits.append("validate_package.py:EXPECTED_MCQS")
+    if fixed_hits:
+        errors.append("MCQ_LEGACY_FIXED_COUNT_CONTRACT")
     key = ""
     correct_lengths, distractor_lengths = [], []
     unique_longest = 0
@@ -612,32 +776,51 @@ def check_mcqs(audit: dict, failures: list[str]) -> dict:
     ]
     if duplicate_explanations:
         generic_explanations.append("duplicate_rationales")
-    if audit.get("question_count") != EXPECTED_MCQS:
+    if audit.get("question_count") != len(questions):
         errors.append("audit_count")
-    if audit.get("randomization", {}).get("answer_key") != key:
+    if audit.get("answer_sequence") != key:
         errors.append("audit_key")
-    if key == "ABCD" * 8:
-        errors.append("fixed_rotation")
+    if predictable_cycle(key) or audit.get("position_policy", {}).get("predictable_cycle_detected") is not False:
+        errors.append("MCQ_PREDICTABLE_CYCLE")
     if longest_run(key) > 2:
         errors.append("answer_run")
-    correct_longest_rate = correct_longest / EXPECTED_MCQS
-    unique_longest_rate = unique_longest / EXPECTED_MCQS
-    if correct_longest_rate > 0.50:
-        errors.append("correct_longest_rate")
-    if unique_longest_rate > 0.35:
-        errors.append("unique_longest_rate")
+    distribution = Counter(key)
+    tolerance = audit.get("position_policy", {}).get("balance_tolerance_max_difference")
+    if (
+        dict(sorted(distribution.items())) != audit.get("answer_counts")
+        or not isinstance(tolerance, int)
+        or max(distribution.values()) - min(distribution.values()) > tolerance
+        or len(set(distribution.values())) == 1
+        or audit.get("position_policy", {}).get("equal_quota_contract") is not False
+    ):
+        errors.append("MCQ_POSITION_IMBALANCE")
+    correct_longest_rate = correct_longest / len(questions)
+    unique_longest_rate = unique_longest / len(questions)
+    mean_correct = sum(correct_lengths) / len(correct_lengths)
+    mean_distractor = sum(distractor_lengths) / len(distractor_lengths)
+    cue_metrics = audit.get("cue_metrics", {})
+    if (
+        cue_metrics.get("mean_correct_words") != round(mean_correct, 2)
+        or cue_metrics.get("mean_incorrect_words") != round(mean_distractor, 2)
+        or cue_metrics.get("template_filler_count") != 0
+        or not 0.75 <= mean_correct / mean_distractor <= 1.25
+    ):
+        errors.append("MCQ_CUE_METRICS")
     for name, counts in cue_counts.items():
         if counts["correct"] >= 3 and counts["distractor"] == 0:
             errors.append(f"correct_only_cue:{name}")
     if generic_explanations:
         errors.append("generic_explanations")
     if errors:
-        failures.append("MCQ_SYNC:" + errors[0])
+        failures.extend(f"MCQ_SYNC:{error}" for error in dict.fromkeys(errors))
     return {
         "question_count": len(questions),
         "solution_count": len(solutions),
         "answer_key": key,
-        "distribution": dict(sorted(Counter(key).items())),
+        "distribution": dict(sorted(distribution.items())),
+        "matrix_cells": len(cells),
+        "baseline_audit": baseline,
+        "derived_minimum_probes": derived_minimum,
         "maximum_identical_run": longest_run(key),
         "correct_longest_rate": round(correct_longest_rate, 4),
         "unique_correct_longest_rate": round(unique_longest_rate, 4),
@@ -957,6 +1140,31 @@ def corrupt_proposition_accounting(package: Path) -> None:
     )
 
 
+def write_json(path: Path, value: dict) -> None:
+    path.write_text(
+        json.dumps(value, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+        newline="\n",
+    )
+
+
+def mutate_answer_sequence(package: Path, sequence: str) -> None:
+    path = package / "MCQ-SOLUTIONS.md"
+    answers = iter(sequence)
+    text = re.sub(
+        r"\*\*Answer: [A-D]\.\*\*",
+        lambda _: f"**Answer: {next(answers)}.**",
+        path.read_text(encoding="utf-8"),
+    )
+    path.write_text(text, encoding="utf-8", newline="\n")
+    audit_path = package / "MCQ-AUDIT.json"
+    audit = json.loads(audit_path.read_text(encoding="utf-8"))
+    audit["answer_sequence"] = sequence
+    audit["answer_counts"] = dict(sorted(Counter(sequence).items()))
+    audit["position_policy"]["predictable_cycle_detected"] = predictable_cycle(sequence)
+    write_json(audit_path, audit)
+
+
 def run_negative_tests() -> dict:
     cases = []
     with tempfile.TemporaryDirectory(prefix="carvaka-validator-") as temporary:
@@ -1015,6 +1223,154 @@ def run_negative_tests() -> dict:
                 "PROPOSITION_ACCOUNTING:raw_count",
                 corrupt_proposition_accounting,
             ),
+            (
+                "uncovered_test_cell",
+                "MCQ_SYNC:MCQ_CELL_BELOW_MINIMUM",
+                lambda package: (
+                    lambda path, data: (
+                        data["cells"][34].update(
+                            {"mapped_question_ids": [], "coverage_status": "uncovered"}
+                        ),
+                        data.__setitem__(
+                            "question_mappings",
+                            [
+                                row
+                                for row in data["question_mappings"]
+                                if row["primary_cell"] != "CAR-TM-035"
+                            ],
+                        ),
+                        write_json(path, data),
+                    )
+                )(
+                    package / "TEST-MATRIX.json",
+                    json.loads((package / "TEST-MATRIX.json").read_text(encoding="utf-8")),
+                ),
+            ),
+            (
+                "redundant_mapping",
+                "MCQ_SYNC:MCQ_REDUNDANT_MAPPING",
+                lambda package: (
+                    lambda path, data: (
+                        data["question_mappings"].append(
+                            dict(data["question_mappings"][0])
+                        ),
+                        write_json(path, data),
+                    )
+                )(
+                    package / "TEST-MATRIX.json",
+                    json.loads((package / "TEST-MATRIX.json").read_text(encoding="utf-8")),
+                ),
+            ),
+            (
+                "fixed_count_contract",
+                "MCQ_SYNC:MCQ_LEGACY_FIXED_COUNT_CONTRACT",
+                lambda package: (
+                    lambda path, data: (
+                        data.__setitem__("fixed_question_count", 53),
+                        write_json(path, data),
+                    )
+                )(
+                    package / "MCQ-AUDIT.json",
+                    json.loads((package / "MCQ-AUDIT.json").read_text(encoding="utf-8")),
+                ),
+            ),
+            (
+                "fixed_count_validator_constant",
+                "MCQ_SYNC:MCQ_LEGACY_FIXED_COUNT_CONTRACT",
+                lambda package: (
+                    lambda path: path.write_text(
+                        path.read_text(encoding="utf-8")
+                        + "\nEXPECTED_MCQS = 53\n",
+                        encoding="utf-8",
+                        newline="\n",
+                    )
+                )(package / "validate_package.py"),
+            ),
+            (
+                "false_mapping",
+                "MCQ_SYNC:MCQ_FALSE_MAPPING",
+                lambda package: (
+                    lambda path, data: (
+                        data["cells"][34]["mapped_question_ids"].remove("Q36"),
+                        data["cells"][0]["mapped_question_ids"].append("Q36"),
+                        next(
+                            row
+                            for row in data["question_mappings"]
+                            if row["question_id"] == "Q36"
+                        ).update(
+                            {
+                                "primary_cell": "CAR-TM-001",
+                                "primary_discriminator": data["cells"][0][
+                                    "primary_discriminator"
+                                ],
+                            }
+                        ),
+                        write_json(path, data),
+                    )
+                )(
+                    package / "TEST-MATRIX.json",
+                    json.loads((package / "TEST-MATRIX.json").read_text(encoding="utf-8")),
+                ),
+            ),
+            (
+                "overloaded_mapping",
+                "MCQ_SYNC:MCQ_MAPPING_OVERLOADED",
+                lambda package: (
+                    lambda path, data: (
+                        data["cells"][1]["mapped_question_ids"].append("Q1"),
+                        data["question_mappings"].append(
+                            {
+                                "question_id": "Q1",
+                                "primary_cell": "CAR-TM-002",
+                                "primary_discriminator": data["cells"][1][
+                                    "primary_discriminator"
+                                ],
+                            }
+                        ),
+                        write_json(path, data),
+                    )
+                )(
+                    package / "TEST-MATRIX.json",
+                    json.loads((package / "TEST-MATRIX.json").read_text(encoding="utf-8")),
+                ),
+            ),
+            (
+                "keyed_evidence_removed_distractor_retained",
+                "MCQ_SYNC:MCQ_KEYED_EVIDENCE_MISSING",
+                lambda package: [
+                    path.write_text(
+                        path.read_text(encoding="utf-8")
+                        .replace(
+                            "It is a *tu quoque* pressure: Cārvāka may distinguish",
+                            "It is a reciprocal pressure: Cārvāka may distinguish",
+                            1,
+                        )
+                        .replace(
+                            "Correct: the *tu quoque* exposes a correction problem",
+                            "Correct: the reciprocal objection exposes a correction problem",
+                            1,
+                        ),
+                        encoding="utf-8",
+                        newline="\n",
+                    )
+                    for path in (
+                        package / "MCQ-QUESTIONS.md",
+                        package / "MCQ-SOLUTIONS.md",
+                    )
+                ],
+            ),
+            (
+                "predictable_answer_cycle",
+                "MCQ_SYNC:MCQ_PREDICTABLE_CYCLE",
+                lambda package: mutate_answer_sequence(
+                    package, ("ABCD" * 14)[:53]
+                ),
+            ),
+            (
+                "answer_position_imbalance",
+                "MCQ_SYNC:MCQ_POSITION_IMBALANCE",
+                lambda package: mutate_answer_sequence(package, "A" * 53),
+            ),
         ]
         for name, expected, mutate in mutations:
             package = root / name
@@ -1040,11 +1396,12 @@ def validate(args: argparse.Namespace) -> tuple[dict, int]:
     review = safe_json(TOPIC / "FORMAL-COVERAGE-REVIEW.json", failures, "FORMAL_REVIEW")
     audit = safe_json(TOPIC / "FORMAL-COVERAGE-AUDIT.json", failures, "FORMAL_AUDIT")
     preflight = safe_json(TOPIC / "PREFLIGHT-LEDGER.json", failures, "PREFLIGHT")
+    matrix = safe_json(TOPIC / "TEST-MATRIX.json", failures, "TEST_MATRIX")
     mcq_audit = safe_json(TOPIC / "MCQ-AUDIT.json", failures, "MCQ_AUDIT")
     pyq_audit = safe_json(TOPIC / "PYQ-DEMAND-AUDIT.json", failures, "PYQ_AUDIT")
     source_integrity = check_source_integrity(review, preflight, failures)
     formal = check_formal(review, audit, failures)
-    mcqs = check_mcqs(mcq_audit, failures)
+    mcqs = check_mcqs(mcq_audit, matrix, failures)
     pyqs = check_pyqs(pyq_audit, failures)
     markdown = check_markdown(failures)
     regeneration = regenerate_pdfs() if args.regenerate and not failures else {}

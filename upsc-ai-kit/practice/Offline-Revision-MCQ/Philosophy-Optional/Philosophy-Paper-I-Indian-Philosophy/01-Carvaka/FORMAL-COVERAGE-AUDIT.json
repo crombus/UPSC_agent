@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "topic": "01 Cārvāka",
-  "generated_at": "2026-09-24T19:40:29+05:30",
+  "generated_at": "2026-09-24T21:21:30+05:30",
   "source_review": {
     "path": "FORMAL-COVERAGE-REVIEW.json",
-    "sha256": "70112b622d9248e4969fd9b45ce1bc9ad3efa35ac29d3957af24ae7faa7fc420"
+    "sha256": "eb4f8980e1391d172ece4e640708e4e86038fc4f9250dcdcf0b4e8b299f73ae2"
   },
   "formal_block_definition": "Every level-2 through level-5 formal heading. Parent direct bodies and child unions are separate; large leaves are segmented; labelled master-flow panels are exact-payload obligations.",
   "counts": {

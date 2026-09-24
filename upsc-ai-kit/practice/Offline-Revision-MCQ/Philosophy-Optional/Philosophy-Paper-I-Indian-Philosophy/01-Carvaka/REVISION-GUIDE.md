@@ -19,7 +19,7 @@ variant: learner-v2
 | Component | Count |
 |---|---:|
 | Progressive teaching sessions in the Basic block | 9 |
-| Original diagnostic MCQs — 24 core plus 8 remedial drills | 32 |
+| Coverage-derived diagnostic and transfer MCQs | 53 questions across 52 explicit test cells |
 | Directly owned verified PYQs solved in full | 9 |
 | Supporting routed PYQ solved in full | 1 |
 | Original solved Mains models — two each at 10, 15 and 20 marks | 6 |

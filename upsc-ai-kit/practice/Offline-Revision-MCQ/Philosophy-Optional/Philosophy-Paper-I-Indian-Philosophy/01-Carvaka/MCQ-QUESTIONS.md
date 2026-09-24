@@ -19,7 +19,6 @@ B. 1 and 2 only
 C. 1, 2 and 3
 
 D. 1 and 3 only
-
 ## MCQ 2
 
 In classical Sanskrit philosophical classification, Cārvāka is called *nāstika* chiefly because it
@@ -31,7 +30,6 @@ B. rejects Vedic authority as the primary criterion, while denial of post-mortem
 C. denies a creator God, this being the primary test that separates orthodox from unorthodox systems
 
 D. accepts the authority of the Vedas while rejecting only the ritual apparatus that has grown around them
-
 ## MCQ 3
 
 Which statement best describes the source position of Cārvāka philosophy?
@@ -43,7 +41,6 @@ B. Nothing responsible can be said about the school, because every surviving wit
 C. Mādhava's *Sarvadarśanasaṃgraha* is an authentic primary work composed by a Cārvāka teacher for his own school.
 
 D. No systematic primary materialist text survives, so reconstruction relies chiefly on convergent reports composed by philosophical opponents.
-
 ## MCQ 4
 
 In an answer on Cārvāka, the *Tattvopaplavasiṃha* of Jayarāśi Bhaṭṭa is best used
@@ -55,7 +52,6 @@ B. as the surviving work commonly associated with the tradition and a contested 
 C. as the primary text that positively establishes perception as the sole independent means of valid knowledge, supplying the school with the systematic treatise it otherwise lacks
 
 D. as a Mīmāṃsā defence of the intrinsic authority of the Veda, written to protect ritual obligation against the epistemological criticisms pressed by the materialists
-
 ## MCQ 5
 
 The Cārvāka argument for restricting valid knowledge to perception proceeds by showing that
@@ -67,7 +63,6 @@ B. inference is acceptable while testimony is not, leaving perception and infere
 C. every cognition is fundamentally verbal, so perception must be treated as prior to the language in which knowledge is expressed
 
 D. inference exceeds what is immediately given, while testimony depends on inferred confidence in a speaker and therefore lacks independence
-
 ## MCQ 6
 
 The statement "Cārvāka denies consciousness" is
@@ -79,7 +74,6 @@ B. correct, because consciousness is not one of the four admitted elements and t
 C. incorrect, because pleasure, pain and desire are internally perceived while an imperceptible bearer distinct from the living body is denied
 
 D. correct, because only externally perceived material objects are admitted as belonging to the perceptible world
-
 ## MCQ 7
 
 The central Cārvāka objection to inference is that invariable concomitance cannot be established because
@@ -91,7 +85,6 @@ B. universals do not exist, so no relation obtaining between two universals can 
 C. finite perception cannot establish universal *vyāpti*, inference would be circular or regressive, and testimony has no independently proved authority
 
 D. the probans and the probandum are never in fact observed together, so no concomitance is available for generalisation at all
-
 ## MCQ 8
 
 The *hidden limiting condition (upādhi)* argument establishes that
@@ -103,7 +96,6 @@ B. universal relations become secure automatically once a sufficiently large num
 C. inference must be rejected because the conclusion drawn from a general rule is invariably found to be false
 
 D. a decisive counter-instance has already been observed against every universal that has so far been proposed
-
 ## MCQ 9
 
 Verbal testimony is denied the status of an independent means of valid knowledge because
@@ -115,7 +107,6 @@ B. words are conventional signs and therefore convey no determinate meaning that
 C. the Veda is held to be authorless, and an authorless composition can carry no intelligible content for a hearer
 
 D. language is incapable of guiding practical action, so nothing said can ever be acted upon by a rational agent
-
 ## MCQ 10
 
 Applying the Cārvāka criterion to comparison (*upamāna*), postulation (*arthāpatti*) and non-cognition (*anupalabdhi*) yields which result?
@@ -127,7 +118,6 @@ B. All three survive as independent sources, because each of them terminates dir
 C. Each either presents only what perception already delivers, adding nothing independent, or moves beyond perception through an unproved universal and inherits the objection to inference.
 
 D. Only non-cognition survives, because the absence of an object is itself given directly in a single act of perception without any conditional reasoning being required.
-
 ## MCQ 11
 
 Which set correctly lists the Nyāya devices for establishing invariable concomitance?
@@ -139,7 +129,6 @@ B. An exhaustive enumeration of every past, present and future instance, secured
 C. The postulation of an unseen moral force that guarantees the stability of the regularity across all the cases not yet examined
 
 D. Agreement in presence and absence, removal of suspected conditions, supportive *tarka*, and later Nyāya perception of universal characters
-
 ## MCQ 12
 
 The charge of self-refutation against Cārvāka is most precisely stated as follows.
@@ -151,7 +140,6 @@ B. The universal denial of inference is not delivered by one perception, so defe
 C. The rejection of the Veda is inconsistent, because the very Sanskrit in which the rejection is stated is a Vedic inheritance.
 
 D. The ethics of pleasure contradicts the metaphysics of four elements, because pleasure is not itself an element in that list.
-
 ## MCQ 13
 
 Which formulation best preserves the refined Cārvāka position on everyday inference?
@@ -163,7 +151,6 @@ B. Everyday inference establishes unseen entities whenever it succeeds repeatedl
 C. Worldly inference is a corrigible expectation answerable to later perception, whereas transcendence-bearing inference lacks any possible perceptual check.
 
 D. Everyday inference is a genuine means of valid knowledge in worldly matters, while inference employed in scriptural argument alone is disqualified as invalid and unwarranted.
-
 ## MCQ 14
 
 Arranged by the number of independent means of valid knowledge admitted, which sequence is correct?
@@ -175,7 +162,6 @@ B. All classical schools admit exactly three, differing only in the names they g
 C. Cārvāka one · Vaiśeṣika and Buddhism two · Sāṃkhya-Yoga three · Nyāya four · Prābhākara Mīmāṃsā five · Bhāṭṭa Mīmāṃsā and Advaita six
 
 D. Cārvāka two · Nyāya three · Mīmāṃsā four · Advaita five, with comparison counted only inside the Mīmāṃsā tradition
-
 ## MCQ 15
 
 Which statement about the Cārvāka account of the elements is correct?
@@ -187,7 +173,6 @@ B. Three elements are accepted, since air is treated as a rarefied condition of 
 C. Four elements are accepted and *ākāśa* is retained as a non-substantial medium that accommodates bodies without itself counting as one of the material elements.
 
 D. Five elements are accepted, including *ākāśa*, because the perception of sound requires an imperceptible substratum in which the quality of sound can inhere.
-
 ## MCQ 16
 
 Which evidence is characteristically used to identify the self with the living body?
@@ -199,7 +184,6 @@ B. A subtle body is perceived departing at the moment of death, which shows that
 C. Scriptural passages are cited in which the self is expressly identified with the gross body rather than with an inner controller.
 
 D. Memory-continuity is inferred to require a persisting substance, and that substance is then identified with the physical organism.
-
 ## MCQ 17
 
 The betel and fermentation analogies are offered in order to show that
@@ -211,7 +195,6 @@ B. consciousness is an eternal quality of a separate self that the body merely m
 C. the elements are severally conscious already, though their consciousness remains unnoticed until they enter a bodily combination
 
 D. an organised combination can display a novel property absent from its separate ingredients, so awareness need not require an immaterial bearer
-
 ## MCQ 18
 
 Sadānanda's *Vedāntasāra* reports four materialist positions distinguished by what each takes the self to be. Which set is correct?
@@ -223,7 +206,6 @@ B. The body, the intellect, the store of past actions and the liberated conditio
 C. Gross body, the sense faculties, the vital processes, and the internal mental organ
 
 D. The body, the accumulated moral residue, memory, and the desire that binds a person to future births
-
 ## MCQ 19
 
 The opponent-preserved formula "death itself is liberation" is best read as
@@ -235,7 +217,6 @@ B. a positive description of a blissful post-mortem condition attained once the 
 C. a denial of any positive release: bodily dissolution ends the person and therefore ends experienced suffering
 
 D. a claim that liberation is produced by the correct performance of funerary ritual at the moment of death
-
 ## MCQ 20
 
 Which statement correctly distinguishes explanation by own-nature (*svabhāvavāda*) from accidentalism (*yadṛcchāvāda*)?
@@ -247,7 +228,6 @@ B. Both are orthodox doctrines about an unseen causal order which the materialis
 C. Both deny causation entirely, so the two terms are interchangeable labels for a single Cārvāka doctrine about the natural world and the regularities that are observed in it.
 
 D. Explanation by own-nature denies all causation, while accidentalism preserves observed regularity by grounding it in chance conjunctions among the four admitted material elements.
-
 ## MCQ 21
 
 Which statement best expresses the ethical position of the school?
@@ -259,7 +239,6 @@ B. Immediate gratification is to be maximised without any weighing of consequenc
 C. Pleasure and wealth are co-equal ultimate ends of human life, and neither is subordinate to the other in the ordering of goods.
 
 D. Pleasure is the end and wealth its instrument, while foreseeable pain calls for prudent selection rather than renunciation of embodied enjoyment.
-
 ## MCQ 22
 
 Which contrast between the two conceptions of reality is accurate?
@@ -271,7 +250,6 @@ B. Cārvāka admits plural substances including souls, while Jainism reduces all
 C. Both restrict reality to matter, differing only over whether the number of material elements is four or five.
 
 D. Both accept an unchanging reality behind appearances, differing only over whether that reality can be known by perception.
-
 ## MCQ 23
 
 Which is the strongest reason for qualifying the label "positivistic" when it is applied to Cārvāka?
@@ -283,7 +261,6 @@ B. Positivism depends on scientific inference and law-like explanation, whereas 
 C. The term is modern and Western, so any comparison between it and a classical Indian school is illegitimate in principle and can only distort both sides of the comparison.
 
 D. Positivism admits an immaterial self as the subject of experience, whereas Cārvāka identifies the person with the living body and allows no bearer beyond it.
-
 ## MCQ 24
 
 Which statement correctly differentiates the Cārvāka refusal of a transcendental self from the Buddhist rejection of a self?
@@ -295,31 +272,28 @@ B. Both denials are identical in content and differ only in the technical vocabu
 C. Cārvāka denies transcendence but keeps a material bearer, whereas Buddhism denies substantiality, retains causal continuity, and rejects material form as self.
 
 D. Buddhism identifies the person with the physical body while Cārvāka denies that any bearer of personhood exists at all, whether that bearer is conceived as material or as immaterial.
-
 ## MCQ 25
 
-Which claim about awareness is actually held by the school?
+Which statement most accurately separates the functions of the principal Nyāya replies to the Cārvāka challenge?
 
-A. Awareness is identical with the element of air, which circulates through the body and animates its organs.
+A. *Anvaya-vyatireka* searches positive and negative cases, *upādhi*-elimination qualifies the relation, and *tarka* removes doubt without itself becoming a *pramāṇa*
 
-B. Awareness does not occur at all, since nothing beyond the four elements is admitted into the account of the world.
+B. *Anvaya-vyatireka* proves every future case, *upādhi* names the conclusion, and *tarka* supplies direct perception of the universal
 
-C. Awareness is an eternal quality inhering in an immaterial self that uses the body as its temporary instrument.
+C. *Tarka* alone establishes *vyāpti*, while positive and negative instances merely illustrate a certainty already obtained through testimony
 
-D. Awareness occurs and is internally perceived, but no imperceptible bearer of it follows from that occurrence.
-
+D. *Upādhi*-elimination rejects all qualifications, while *anvaya-vyatireka* replaces inference with an exhaustive survey of every possible case
 ## MCQ 26
 
-A script states: "Because Cārvāka rejects inference, a Cārvāka never reasons from smoke to fire in ordinary life." The error is that
+What is the strongest balanced assessment of the Cārvāka rejection of *ākāśa* as the substrate of sound?
 
-A. the school in fact accepts inference as a fully independent means of valid knowledge alongside perception
+A. The rejection is decisive because sound is never perceived, so no material process can account for its occurrence
 
-B. the school denies perception as well, so no example drawn from ordinary observation can illustrate its position
+B. The rejection consistently blocks an inferred substrate, but it must still naturalise sound through perceptible air or material processes rather than merely dismiss it
 
-C. Inference loses independent *pramāṇa* status, not its practical role in moving fallibly from a perceived sign toward what it signifies.
+C. The rejection accepts the Vaiśeṣika substance-quality argument but denies only that *ākāśa* is eternal and all-pervasive
 
-D. reasoning from smoke to fire counts as testimony rather than inference, so the example is misclassified from the start
-
+D. The rejection follows because Cārvāka admits five elements while treating *ākāśa* as a temporary combination of the other four
 ## MCQ 27
 
 "Fire burns by its own nature" differs from "fire burns because of an unseen moral factor" because
@@ -331,19 +305,17 @@ B. The first ends explanation with an observable natural property, while the sec
 C. the first appeals to divine will while the second appeals to an impersonal physical law that governs combustion wherever it occurs
 
 D. the first denies that any regularity obtains in nature, whereas the second affirms regularity and offers an account of its stability
-
 ## MCQ 28
 
-Consider two objections to a proposed universal relation: (i) not every case has been observed; (ii) the observed cases may have shared an unnoticed further condition. Which is the hidden-limiting-condition objection, and why does the difference matter?
+Which sequence best reconstructs why Cārvāka epistemology generates its rejection of transcendent entities?
 
-A. Objection (ii), because it survives however extensive the observation becomes, showing that constancy of observation cannot certify unconditionality
+A. Only perception is independently valid; soul, God, karma, rebirth and heaven are not perceived; their inferential or scriptural routes fail; therefore they lack warranted admission
 
-B. Objection (i), because a hidden limiting condition is simply another name for an incomplete survey of the available instances
+B. Materialism is accepted first on scriptural grounds; perception is then restricted so that the prior ontology cannot be challenged by rival schools
 
-C. Both, because the two objections restate a single complaint about the finitude of human observation in different words
+C. Ethical hedonism is established first; all unseen entities are rejected only because they might impose limits on immediate pleasure
 
-D. Neither, because the hidden limiting condition concerns the formal validity of the syllogism rather than the truth of its premise
-
+D. The four elements are inferred as universal causes; every other inference is then rejected because it competes with that preferred causal theory
 ## MCQ 29
 
 How should the crude and refined (*dhūrta* and *suśikṣita*) contrast be used in an answer?
@@ -355,7 +327,6 @@ B. as an opponent-preserved crude/refined contrast whose refined form supplies a
 C. As a modern scholarly invention with no basis in the Indian doxographical literature through which the school has been transmitted
 
 D. As two securely attested Cārvāka schools with surviving texts, named teachers and datable institutional histories running in parallel
-
 ## MCQ 30
 
 What survives of the aphorisms attributed to Bṛhaspati?
@@ -367,7 +338,6 @@ B. No continuous primary text survives, but scattered aphorisms and verses remai
 C. The complete work, together with at least one commentary composed within the materialist tradition itself
 
 D. A condensed summary chapter, written by a Cārvāka author for the instruction of students of the school
-
 ## MCQ 31
 
 How should the verse "as long as one lives, let one live happily", with the associated line about incurring debt, be handled in an answer?
@@ -379,15 +349,245 @@ B. As the school's official ethical formula, sufficient on its own to describe t
 C. as a traditional doxographical verse associated with the school, not as a quotation secured by an extant Cārvāka primary text
 
 D. As a Mīmāṃsā parody of materialism with no genuine connection to the Lokāyata tradition at any point
-
 ## MCQ 32
 
-Which use of Jayarāśi in an answer is defensible?
+Which statement correctly distinguishes *karma* from *adṛṣṭa* in the Cārvāka critique?
 
-A. Presenting him as a Naiyāyika author who refuted the materialists from a standpoint outside their tradition
+A. *Karma* concerns morally charged action and its consequences, while *adṛṣṭa* is the unseen potency or residue invoked to connect action with later fruition
 
-B. Quoting him to establish that perception alone is the school's single independent means of valid knowledge
+B. *Karma* is the perceptible body, while *adṛṣṭa* is the internally perceived consciousness that qualifies that body
 
-C. Treating him as proof that all Cārvākas denied the existence of the four elements they are otherwise reported to accept
+C. *Karma* means ordinary physical causation, while *adṛṣṭa* means the observable regularity explained through a thing's own nature
 
-D. as a contested sceptical wing whose destructive dialectic attacks every positive *pramāṇa* definition without straightforwardly asserting standard materialism
+D. *Karma* and *adṛṣṭa* are interchangeable names for rebirth, so rejecting either one independently completes the entire argument
+## MCQ 33
+
+Why does finite perception fail, on the Cārvāka argument, to establish the universal “wherever smoke, there is fire”?
+
+A. Because smoke and fire are never perceived together in any ordinary case
+
+B. Because perception supplies only universals and cannot reach particular fires
+
+C. Because the relation is false whenever fire burns without producing visible smoke
+
+D. Because observed cases are finite and cannot include every past, present, future, near and distant instance required by an unrestricted universal
+## MCQ 34
+
+What happens if inference is used to prove the *vyāpti* required for inference?
+
+A. The proof becomes perceptual because every inferential premise is ultimately a sensation
+
+B. The proof succeeds if its conclusion is repeated by several competent speakers
+
+C. The proof becomes comparison because the new universal resembles the original one
+
+D. The proof is circular if it presupposes a universal, or regressive if each supporting inference requires a further universal
+## MCQ 35
+
+Why can testimony not rescue the universal premise of inference on the Cārvāka account?
+
+A. Because every utterance is meaningless until its speaker is physically present
+
+B. Because accepting the speaker's authority already requires inferred reliability, and dependence on testimony would prevent a person from inferring independently
+
+C. Because testimony can establish only moral duties and never statements about ordinary objects
+
+D. Because authorless testimony is accepted, while authored testimony is rejected as necessarily deceptive
+## MCQ 36
+
+An opponent notes that a shell may look like silver and that later reasoning corrects the error. What is the most accurate assessment of this challenge?
+
+A. The *tu quoque* proves that every perception is false and therefore establishes testimony as the only reliable source
+
+B. It is irrelevant because Cārvāka defines perception as whatever cognition cannot possibly be corrected
+
+C. It is a *tu quoque* pressure: Cārvāka may distinguish appearance from corrected perception, but explaining correction often relies on comparison or inference that the school demotes
+
+D. It refutes only Jayarāśi, because standard Cārvāka denies that perceptual illusion ever occurs
+## MCQ 37
+
+How does Nyāya's appeal to *sāmānyalakṣaṇa-pratyakṣa* answer the Cārvāka objection concerning universals?
+
+A. It concedes that universals are never known and replaces them with recurring private images
+
+B. It claims that a universal is presented through a perceived particular, though this reply depends on Nyāya realism about universals and is not neutral common ground
+
+C. It proves the universal by enumerating every individual that instantiates it across all times and places
+
+D. It treats universals as scriptural meanings disclosed only through authorless Vedic sentences
+## MCQ 38
+
+For the 2019 Q6(c) argument “All men are mortal; Socrates is a man; therefore Socrates is mortal,” where does the Cārvāka locate the defect?
+
+A. The form is valid, but the universal major premise is not independently warranted; deduction merely extracts what the unproved premise already contains
+
+B. The conclusion is invalid because a singular subject can never occur in a deductive argument
+
+C. The minor premise is false because the historical existence of Socrates cannot be perceived now
+
+D. The argument equivocates on mortality by changing its meaning between the major premise and the conclusion
+## MCQ 39
+
+Which formulation best captures Jayarāśi's strongest reply to the charge that scepticism uses the reasoning it rejects?
+
+A. He establishes four elements as a positive theory and uses them to deduce that all rival definitions are false
+
+B. He suspends ordinary transactions until a final criterion of truth has been discovered
+
+C. He uses *prasaṅga* to expose consequences within an opponent's definitions without advancing a rival positive thesis, allows ordinary transactions to continue, yet still owes an account of the dialectical norms used
+
+D. He accepts Nyāya inference for debate while rejecting it only in private philosophical reflection
+## MCQ 40
+
+How can a Cārvāka consistently respond to ordinary verbal directions such as “water is beyond the grove”?
+
+A. By treating every utterance as direct perception of the distant object described
+
+B. By accepting the speaker as infallible whenever the statement concerns practical life
+
+C. By relying on the report provisionally for action while withholding independent *pramāṇa* status until perception confirms or defeats it
+
+D. By denying that the sentence has meaning but following its sounds through conditioned reflex
+## MCQ 41
+
+Why does alleged Vedic authorlessness fail to establish infallible authority for Cārvāka?
+
+A. Because an authorless text must have been composed by a creator God whose reliability cannot be tested
+
+B. Because only authored texts can possess grammatical meaning and communicate ritual commands
+
+C. Because authorlessness proves that no priest has ever interpreted the text for personal advantage
+
+D. Because neither authorlessness nor freedom from error is perceptually given, and the text cannot certify its own authority without circularity
+## MCQ 42
+
+What is the specific Cārvāka-style objection to *upamāna* as an independent means of knowledge?
+
+A. Resemblance is never perceived, so comparison contains no perceptual component at all
+
+B. Comparison is valid only when a Vedic sentence supplies the objects being compared
+
+C. Every comparison is a deductively valid syllogism and therefore needs no separate treatment
+
+D. Perceived resemblance is admitted, but moving from it to a stable word-kind relation requires generalisation beyond the presented likeness
+## MCQ 43
+
+Why does *arthāpatti* fail the Cārvāka test of independent knowledge?
+
+A. It reports a perceived absence and therefore never posits anything beyond the observed facts
+
+B. It introduces an unperceived fact as necessary, but that necessity depends on a general rule excluding every alternative explanation
+
+C. It derives certainty from resemblance between two perceived objects
+
+D. It is valid only for explaining sacred injunctions and has no ordinary examples
+## MCQ 44
+
+What hidden premise does the Cārvāka expose in the claim “the jar is absent because it is not perceived here”?
+
+A. If the jar existed under suitable conditions, it would be perceived; that universal conditional is not itself contained in the present non-perception
+
+B. Every absent object must exist in another place at the same moment
+
+C. A jar can be known only through testimony from its maker
+
+D. Absence is a material element that combines with earth to produce empty space
+## MCQ 45
+
+What role does *parāmarśa* play in the Nyāya reply to Cārvāka?
+
+A. It is the first perception of smoke before any universal relation is considered
+
+B. It is the cognition of the present mark as qualified by known *vyāpti*, applying the universal to the case rather than making an unexplained leap
+
+C. It is testimony from a reliable person that the conclusion has already been proved
+
+D. It is the hidden condition whose discovery defeats the proposed universal relation
+## MCQ 46
+
+What is the fairest verdict on whether Nyāya defeats the Cārvāka problem of induction?
+
+A. Nyāya supplies disciplined defeasible warrant through testing and condition-removal, but finite evidence still does not deductively entail an unrestricted universal
+
+B. Nyāya proves every universal with mathematical entailment and therefore eliminates any possibility of a future defeating case
+
+C. Cārvāka wins completely because rational warrant is worthless unless it equals omniscient certainty
+
+D. The dispute disappears once both schools agree that successful prediction retrospectively makes every inference infallible
+## MCQ 47
+
+Which reconstruction states the full Cārvāka criticism of transmigration tested in 2020 Q6(b)?
+
+A. Transmigration fails only because heaven and hell are spatially too distant to be perceived during embodied life
+
+B. It requires a self that survives bodily death and a karmic mechanism carrying desert into another birth; Cārvāka denies perceptual warrant for both links
+
+C. It is rejected because Cārvāka accepts an immortal soul but denies that it can enter more than one body
+
+D. It is rejected solely because scripture gives mutually inconsistent descriptions of the next birth
+## MCQ 48
+
+How does Cārvāka answer the inference from an ordered world to God as its intelligent maker?
+
+A. By accepting the potter analogy and identifying the creator with a perfected human artisan
+
+B. By arguing that every perceived effect has no cause and that nature is wholly chaotic
+
+C. By proving through scripture that the world is eternal and therefore cannot have any maker
+
+D. By rejecting the unproved transfer from pots to the world and preferring *svabhāva*, observable natural powers and regularities, over an imperceptible designer
+## MCQ 49
+
+What is the direct Cārvāka objection to heaven and hell?
+
+A. They are perceived only by priests and therefore remain valid for ritual specialists
+
+B. They are not perceptually available and are reached through the same disputed scriptural or inferential routes used for post-mortem reward and punishment
+
+C. They are material places accepted by Cārvāka but denied any moral function
+
+D. They are rejected because pleasure and pain cannot occur in any embodied organism
+## MCQ 50
+
+How should an answer use Cārvāka attacks on sacrifice and ancestral offerings?
+
+A. As proof that ridicule alone establishes the falsity of every ritual claim
+
+B. As a concession that rituals work, although priests distribute their benefits unfairly
+
+C. As historical evidence that Cārvāka accepted Vedic authority but opposed expensive ceremonies
+
+D. As satire illustrating the critique of priestly interest, while the philosophical argument remains that unseen ritual results lack perceptual or independently warranted support
+## MCQ 51
+
+What is the strongest balanced treatment of memory as an objection to the Cārvāka body-self?
+
+A. Memory seems to require continuity of the remembering subject; Cārvāka may invoke bodily and causal continuity, but must explain identity through change without an immaterial bearer
+
+B. Memory directly perceives a disembodied soul and therefore conclusively refutes every material account of persons
+
+C. Memory is impossible on Cārvāka because the school denies that consciousness ever occurs
+
+D. Bodily continuity automatically proves numerical identity, so memory raises no explanatory problem at all
+## MCQ 52
+
+Which pairing accurately distinguishes two objections to Cārvāka's emergence account of consciousness?
+
+A. Jainism denies every enduring bearer, while Vedānta explains awareness as a chemical property of the gross body
+
+B. Jainism and Vedānta both accept emergence but disagree only about which material element produces awareness
+
+C. Jainism objects that matter cannot preserve karmic bondage without *adṛṣṭa*, while Vedānta accepts the body as self-luminous
+
+D. Jainism posits a conscious *jīva* as bearer, while Vedānta argues that self-luminous consciousness is the condition for knowing material states rather than their emergent product
+## MCQ 53
+
+What is the most defensible modern transfer of the Cārvāka challenge to scientific induction?
+
+A. Science is invalid because every theory contains terms that are not directly visible to the unaided senses
+
+B. Scientific success proves that observed regularities entail exceptionless laws with no possibility of revision
+
+C. Finite evidence underdetermines unrestricted universals, so science answers through testable, revisable and probabilistic warrant rather than claiming apodictic entailment
+
+D. Cārvāka anticipated every modern scientific theory and should therefore be treated as an early experimental scientist

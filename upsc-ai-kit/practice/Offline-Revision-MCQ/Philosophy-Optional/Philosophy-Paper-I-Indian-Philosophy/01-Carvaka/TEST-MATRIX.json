@@ -1,0 +1,1719 @@
+{
+  "schema_version": 1,
+  "topic": "01 Cārvāka",
+  "derivation_basis": "authoritative formal session/workbook + canonical owner + verified PYQs through 2026",
+  "legacy_contract_policy": "Historical source question totals are evidence records only and never define the current bank.",
+  "mapping_policy": {
+    "exactly_one_primary_cell_per_question": true,
+    "maximum_primary_cells_per_question": 1,
+    "evidence_scope": "coverage title/stem + keyed correct option + keyed correct explanation only",
+    "distractor_terms_do_not_satisfy_coverage": true
+  },
+  "baseline_audit": {
+    "adequate": 26,
+    "partial": 8,
+    "uncovered": 18
+  },
+  "cells": [
+    {
+      "cell_id": "CAR-TM-001",
+      "description": "The three names and their cautions",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "three names",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves three names",
+          "all_of": [
+            [
+              "Lokāyata"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q1"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-002",
+      "description": "The primary and secondary senses of nāstika",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "nāstika classification",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves nāstika classification",
+          "all_of": [
+            [
+              "Vedic authority"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q2"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-003",
+      "description": "Hostile reconstruction and convergent evidence",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "source reconstruction",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves source reconstruction",
+          "all_of": [
+            [
+              "convergent reports"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q3"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-004",
+      "description": "Jayarāśi as a contested sceptical limit-case",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "Jayarāśi placement",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves Jayarāśi placement",
+          "all_of": [
+            [
+              "contested sceptical"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q4"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-005",
+      "description": "Perception as the sole independent pramāṇa",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "perception-only thesis",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves perception-only thesis",
+          "all_of": [
+            [
+              "only perception presents"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q5"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-006",
+      "description": "Internal perception and embodied consciousness",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "consciousness without immaterial bearer",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves consciousness without immaterial bearer",
+          "all_of": [
+            [
+              "internally perceived"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q6"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-007",
+      "description": "The complete three-door attack on vyāpti",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "three-route architecture",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves three-route architecture",
+          "all_of": [
+            [
+              "finite perception"
+            ],
+            [
+              "circular"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q7"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-008",
+      "description": "The hidden limiting condition objection",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "upādhi",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves upādhi",
+          "all_of": [
+            [
+              "unnoticed condition"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q8"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-009",
+      "description": "Testimony's dependence on inferred reliability",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "testimony dependence",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves testimony dependence",
+          "all_of": [
+            [
+              "competence and honesty"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q9"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-010",
+      "description": "The general reduction dilemma for rival pramāṇas",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "reduction dilemma",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves reduction dilemma",
+          "all_of": [
+            [
+              "adding nothing independent"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q10"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-011",
+      "description": "The Nyāya device inventory",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "Nyāya device inventory",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves Nyāya device inventory",
+          "all_of": [
+            [
+              "agreement in presence and absence"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q11"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-012",
+      "description": "The dogmatic self-refutation charge",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "self-refutation",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves self-refutation",
+          "all_of": [
+            [
+              "universal denial"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q12"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-013",
+      "description": "Practical inference and corrigible expectation",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "ordinary inference",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves ordinary inference",
+          "all_of": [
+            [
+              "corrigible expectation"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q13"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-014",
+      "description": "The comparative pramāṇa ledger",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "pramāṇa counts",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves pramāṇa counts",
+          "all_of": [
+            [
+              "Prābhākara"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q14"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-015",
+      "description": "Four elements and exclusion of ākāśa",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "elemental inventory",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves elemental inventory",
+          "all_of": [
+            [
+              "four"
+            ],
+            [
+              "ākāśa"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q15"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-016",
+      "description": "First-person evidence for the body-self",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "body-self evidence",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves body-self evidence",
+          "all_of": [
+            [
+              "stout or thin"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q16"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-017",
+      "description": "Emergence through betel and fermentation analogies",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "emergent consciousness",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves emergent consciousness",
+          "all_of": [
+            [
+              "novel property"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q17"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-018",
+      "description": "Four materialist identifications of self",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "self taxonomy",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves self taxonomy",
+          "all_of": [
+            [
+              "vital processes"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q18"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-019",
+      "description": "Death as the denial of positive liberation",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "death and liberation",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves death and liberation",
+          "all_of": [
+            [
+              "ends the person"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q19"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-020",
+      "description": "Svabhāva distinguished from accidentalism",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "own-nature and causation",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves own-nature and causation",
+          "all_of": [
+            [
+              "own-nature"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q20",
+        "Q27"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-021",
+      "description": "Prudent rather than indiscriminate hedonism",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "ethical prudence",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves ethical prudence",
+          "all_of": [
+            [
+              "foreseeable pain"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q21"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-022",
+      "description": "Cārvāka and Jaina conceptions of reality",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "Jaina comparison",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves Jaina comparison",
+          "all_of": [
+            [
+              "many-sided predication"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q22"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-023",
+      "description": "The qualified positivism comparison",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "positivism verdict",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves positivism verdict",
+          "all_of": [
+            [
+              "scientific inference"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q23"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-024",
+      "description": "Material bearer versus Buddhist process",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "Buddhist self comparison",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves Buddhist self comparison",
+          "all_of": [
+            [
+              "causal continuity"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q24"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-025",
+      "description": "Crude and refined Cārvāka",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "dhūrta and suśikṣita",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves dhūrta and suśikṣita",
+          "all_of": [
+            [
+              "opponent-preserved"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q29"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-026",
+      "description": "What survives of the Bṛhaspati material",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "fragmentary survival",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves fragmentary survival",
+          "all_of": [
+            [
+              "scattered aphorisms"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q30"
+      ],
+      "baseline_status": "adequate",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-027",
+      "description": "The doxographical status of the pleasure verse",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "verse provenance",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves verse provenance",
+          "all_of": [
+            [
+              "doxographical verse"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q31"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-028",
+      "description": "Functional division among Nyāya devices",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "Nyāya devices by role",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves Nyāya devices by role",
+          "all_of": [
+            [
+              "removes doubt"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q25"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-029",
+      "description": "Ākāśa, sound and naturalising burden",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "sound without inferred substrate",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves sound without inferred substrate",
+          "all_of": [
+            [
+              "naturalise sound"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q26"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-030",
+      "description": "Epistemology-to-transcendence derivation",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "derivational chain",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves derivational chain",
+          "all_of": [
+            [
+              "ontological shadow"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q28"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-031",
+      "description": "Karma distinguished from adṛṣṭa",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "moral action and unseen residue",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves moral action and unseen residue",
+          "all_of": [
+            [
+              "unseen potency"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q32"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-032",
+      "description": "Perception route to vyāpti",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "finite perception route",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves finite perception route",
+          "all_of": [
+            [
+              "past, present, future"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q33"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-033",
+      "description": "Inference route to vyāpti",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "circularity or regress route",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves circularity or regress route",
+          "all_of": [
+            [
+              "circular"
+            ],
+            [
+              "regressive"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q34"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-034",
+      "description": "Testimony route to vyāpti",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "testimonial route",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves testimonial route",
+          "all_of": [
+            [
+              "independent reasoning"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q35"
+      ],
+      "baseline_status": "partial",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-035",
+      "description": "Illusion and the tu-quoque correction problem",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "perceptual correction pressure",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves perceptual correction pressure",
+          "all_of": [
+            [
+              "tu quoque"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q36"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-036",
+      "description": "Universals and sāmānyalakṣaṇa-pratyakṣa",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "class-character response",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves class-character response",
+          "all_of": [
+            [
+              "depends on accepting"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q37"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-037",
+      "description": "Exact Socrates-syllogism defect in 2019 Q6(c)",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "validity versus major-premise warrant",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves validity versus major-premise warrant",
+          "all_of": [
+            [
+              "valid"
+            ],
+            [
+              "major premise"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q38"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-038",
+      "description": "Jayarāśi: prasaṅga, no thesis, transactions and norms",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "dialectical scepticism",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves dialectical scepticism",
+          "all_of": [
+            [
+              "ordinary transactions"
+            ],
+            [
+              "dialectical norms"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q39"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-039",
+      "description": "Ordinary communication versus independent testimony",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "pragmatic uptake without pramāṇa status",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves pragmatic uptake without pramāṇa status",
+          "all_of": [
+            [
+              "corrigible action"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q40"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-040",
+      "description": "Vedic authorlessness, infallibility and authority",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "scriptural self-certification",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves scriptural self-certification",
+          "all_of": [
+            [
+              "circularity"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q41"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-041",
+      "description": "Upamāna separately tested",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "resemblance to word-kind relation",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves resemblance to word-kind relation",
+          "all_of": [
+            [
+              "stable word-kind"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q42"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-042",
+      "description": "Arthāpatti separately tested",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "postulation and excluded alternatives",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves postulation and excluded alternatives",
+          "all_of": [
+            [
+              "excluding every alternative"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q43"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-043",
+      "description": "Anupalabdhi separately tested",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "non-cognition conditional",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves non-cognition conditional",
+          "all_of": [
+            [
+              "universal conditional"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q44"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-044",
+      "description": "Parāmarśa separately tested",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "application of known vyāpti",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves application of known vyāpti",
+          "all_of": [
+            [
+              "qualified by known"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q45"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-045",
+      "description": "Nyāya warrant versus entailment",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "graded induction verdict",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves graded induction verdict",
+          "all_of": [
+            [
+              "warrant"
+            ],
+            [
+              "entailment"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q46"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-046",
+      "description": "Rebirth and transmigration require self plus karmic continuity",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "two-link transmigration requirement",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves two-link transmigration requirement",
+          "all_of": [
+            [
+              "surviving bearer"
+            ],
+            [
+              "karmic continuity"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q47"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-047",
+      "description": "God, potter analogy and svabhāva",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "designer inference versus own-nature",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves designer inference versus own-nature",
+          "all_of": [
+            [
+              "transcendent potter"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q48"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-048",
+      "description": "Heaven and hell",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "unseen destinations",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves unseen destinations",
+          "all_of": [
+            [
+              "unverified testimony"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q49"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-049",
+      "description": "Veda, sacrifice, ancestral offerings and priestcraft",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "argument distinguished from satire",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves argument distinguished from satire",
+          "all_of": [
+            [
+              "warrant argument"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q50"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-050",
+      "description": "Memory and personal identity",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "continuity objection and reply",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves continuity objection and reply",
+          "all_of": [
+            [
+              "bodily and causal continuity"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q51"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-051",
+      "description": "Jaina bearer and Vedāntic self-luminosity objections",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "two objections to emergence",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves two objections to emergence",
+          "all_of": [
+            [
+              "condition for knowing"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q52"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    },
+    {
+      "cell_id": "CAR-TM-052",
+      "description": "Science and induction transfer",
+      "source_anchors_scope": [
+        "formal Learning-Session.md and Solved-Practice-Workbook.md",
+        "canonical Carvaka.md",
+        "verified PYQ ledgers through 2026 where applicable"
+      ],
+      "minimum_probes": 1,
+      "minimum_probe_justification": "At least one independently answerable primary discriminator is required; additional probes are permitted only for a distinct risk.",
+      "primary_discriminator": "fallibilist scientific transfer",
+      "semantic_assertions": [
+        {
+          "assertion": "Keyed evidence proves fallibilist scientific transfer",
+          "all_of": [
+            [
+              "revisable and probabilistic"
+            ]
+          ]
+        }
+      ],
+      "mapped_question_ids": [
+        "Q53"
+      ],
+      "baseline_status": "uncovered",
+      "coverage_status": "covered"
+    }
+  ],
+  "question_mappings": [
+    {
+      "question_id": "Q1",
+      "primary_cell": "CAR-TM-001",
+      "primary_discriminator": "three names"
+    },
+    {
+      "question_id": "Q2",
+      "primary_cell": "CAR-TM-002",
+      "primary_discriminator": "nāstika classification"
+    },
+    {
+      "question_id": "Q3",
+      "primary_cell": "CAR-TM-003",
+      "primary_discriminator": "source reconstruction"
+    },
+    {
+      "question_id": "Q4",
+      "primary_cell": "CAR-TM-004",
+      "primary_discriminator": "Jayarāśi placement"
+    },
+    {
+      "question_id": "Q5",
+      "primary_cell": "CAR-TM-005",
+      "primary_discriminator": "perception-only thesis"
+    },
+    {
+      "question_id": "Q6",
+      "primary_cell": "CAR-TM-006",
+      "primary_discriminator": "consciousness without immaterial bearer"
+    },
+    {
+      "question_id": "Q7",
+      "primary_cell": "CAR-TM-007",
+      "primary_discriminator": "three-route architecture"
+    },
+    {
+      "question_id": "Q8",
+      "primary_cell": "CAR-TM-008",
+      "primary_discriminator": "upādhi"
+    },
+    {
+      "question_id": "Q9",
+      "primary_cell": "CAR-TM-009",
+      "primary_discriminator": "testimony dependence"
+    },
+    {
+      "question_id": "Q10",
+      "primary_cell": "CAR-TM-010",
+      "primary_discriminator": "reduction dilemma"
+    },
+    {
+      "question_id": "Q11",
+      "primary_cell": "CAR-TM-011",
+      "primary_discriminator": "Nyāya device inventory"
+    },
+    {
+      "question_id": "Q12",
+      "primary_cell": "CAR-TM-012",
+      "primary_discriminator": "self-refutation"
+    },
+    {
+      "question_id": "Q13",
+      "primary_cell": "CAR-TM-013",
+      "primary_discriminator": "ordinary inference"
+    },
+    {
+      "question_id": "Q14",
+      "primary_cell": "CAR-TM-014",
+      "primary_discriminator": "pramāṇa counts"
+    },
+    {
+      "question_id": "Q15",
+      "primary_cell": "CAR-TM-015",
+      "primary_discriminator": "elemental inventory"
+    },
+    {
+      "question_id": "Q16",
+      "primary_cell": "CAR-TM-016",
+      "primary_discriminator": "body-self evidence"
+    },
+    {
+      "question_id": "Q17",
+      "primary_cell": "CAR-TM-017",
+      "primary_discriminator": "emergent consciousness"
+    },
+    {
+      "question_id": "Q18",
+      "primary_cell": "CAR-TM-018",
+      "primary_discriminator": "self taxonomy"
+    },
+    {
+      "question_id": "Q19",
+      "primary_cell": "CAR-TM-019",
+      "primary_discriminator": "death and liberation"
+    },
+    {
+      "question_id": "Q20",
+      "primary_cell": "CAR-TM-020",
+      "primary_discriminator": "own-nature and causation"
+    },
+    {
+      "question_id": "Q27",
+      "primary_cell": "CAR-TM-020",
+      "primary_discriminator": "own-nature and causation"
+    },
+    {
+      "question_id": "Q21",
+      "primary_cell": "CAR-TM-021",
+      "primary_discriminator": "ethical prudence"
+    },
+    {
+      "question_id": "Q22",
+      "primary_cell": "CAR-TM-022",
+      "primary_discriminator": "Jaina comparison"
+    },
+    {
+      "question_id": "Q23",
+      "primary_cell": "CAR-TM-023",
+      "primary_discriminator": "positivism verdict"
+    },
+    {
+      "question_id": "Q24",
+      "primary_cell": "CAR-TM-024",
+      "primary_discriminator": "Buddhist self comparison"
+    },
+    {
+      "question_id": "Q29",
+      "primary_cell": "CAR-TM-025",
+      "primary_discriminator": "dhūrta and suśikṣita"
+    },
+    {
+      "question_id": "Q30",
+      "primary_cell": "CAR-TM-026",
+      "primary_discriminator": "fragmentary survival"
+    },
+    {
+      "question_id": "Q31",
+      "primary_cell": "CAR-TM-027",
+      "primary_discriminator": "verse provenance"
+    },
+    {
+      "question_id": "Q25",
+      "primary_cell": "CAR-TM-028",
+      "primary_discriminator": "Nyāya devices by role"
+    },
+    {
+      "question_id": "Q26",
+      "primary_cell": "CAR-TM-029",
+      "primary_discriminator": "sound without inferred substrate"
+    },
+    {
+      "question_id": "Q28",
+      "primary_cell": "CAR-TM-030",
+      "primary_discriminator": "derivational chain"
+    },
+    {
+      "question_id": "Q32",
+      "primary_cell": "CAR-TM-031",
+      "primary_discriminator": "moral action and unseen residue"
+    },
+    {
+      "question_id": "Q33",
+      "primary_cell": "CAR-TM-032",
+      "primary_discriminator": "finite perception route"
+    },
+    {
+      "question_id": "Q34",
+      "primary_cell": "CAR-TM-033",
+      "primary_discriminator": "circularity or regress route"
+    },
+    {
+      "question_id": "Q35",
+      "primary_cell": "CAR-TM-034",
+      "primary_discriminator": "testimonial route"
+    },
+    {
+      "question_id": "Q36",
+      "primary_cell": "CAR-TM-035",
+      "primary_discriminator": "perceptual correction pressure"
+    },
+    {
+      "question_id": "Q37",
+      "primary_cell": "CAR-TM-036",
+      "primary_discriminator": "class-character response"
+    },
+    {
+      "question_id": "Q38",
+      "primary_cell": "CAR-TM-037",
+      "primary_discriminator": "validity versus major-premise warrant"
+    },
+    {
+      "question_id": "Q39",
+      "primary_cell": "CAR-TM-038",
+      "primary_discriminator": "dialectical scepticism"
+    },
+    {
+      "question_id": "Q40",
+      "primary_cell": "CAR-TM-039",
+      "primary_discriminator": "pragmatic uptake without pramāṇa status"
+    },
+    {
+      "question_id": "Q41",
+      "primary_cell": "CAR-TM-040",
+      "primary_discriminator": "scriptural self-certification"
+    },
+    {
+      "question_id": "Q42",
+      "primary_cell": "CAR-TM-041",
+      "primary_discriminator": "resemblance to word-kind relation"
+    },
+    {
+      "question_id": "Q43",
+      "primary_cell": "CAR-TM-042",
+      "primary_discriminator": "postulation and excluded alternatives"
+    },
+    {
+      "question_id": "Q44",
+      "primary_cell": "CAR-TM-043",
+      "primary_discriminator": "non-cognition conditional"
+    },
+    {
+      "question_id": "Q45",
+      "primary_cell": "CAR-TM-044",
+      "primary_discriminator": "application of known vyāpti"
+    },
+    {
+      "question_id": "Q46",
+      "primary_cell": "CAR-TM-045",
+      "primary_discriminator": "graded induction verdict"
+    },
+    {
+      "question_id": "Q47",
+      "primary_cell": "CAR-TM-046",
+      "primary_discriminator": "two-link transmigration requirement"
+    },
+    {
+      "question_id": "Q48",
+      "primary_cell": "CAR-TM-047",
+      "primary_discriminator": "designer inference versus own-nature"
+    },
+    {
+      "question_id": "Q49",
+      "primary_cell": "CAR-TM-048",
+      "primary_discriminator": "unseen destinations"
+    },
+    {
+      "question_id": "Q50",
+      "primary_cell": "CAR-TM-049",
+      "primary_discriminator": "argument distinguished from satire"
+    },
+    {
+      "question_id": "Q51",
+      "primary_cell": "CAR-TM-050",
+      "primary_discriminator": "continuity objection and reply"
+    },
+    {
+      "question_id": "Q52",
+      "primary_cell": "CAR-TM-051",
+      "primary_discriminator": "two objections to emergence"
+    },
+    {
+      "question_id": "Q53",
+      "primary_cell": "CAR-TM-052",
+      "primary_discriminator": "fallibilist scientific transfer"
+    }
+  ],
+  "extra_probes": [
+    {
+      "question_id": "Q27",
+      "cell_id": "CAR-TM-020",
+      "risk_rationale": "Separately discriminates immanent own-nature from an unseen moral force without creating another substantive cell."
+    }
+  ]
+}
