@@ -61,6 +61,7 @@
 | Socio-Political Philosophy | Topic 04 - Forms of Government | 12 | 34,368 | `8247974d71d6` | [Socio-Political-Philosophy/04-Forms-of-Government/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/04-Forms-of-Government/Learning-Session-Live-Edition.md) |
 | Socio-Political Philosophy | Topic 05 - Political Ideologies | 13 | 25,061 | `91366d969893` | [Socio-Political-Philosophy/05-Political-Ideologies/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/05-Political-Ideologies/Learning-Session-Live-Edition.md) |
 | Socio-Political Philosophy | Topic 06 - Humanism, Secularism and Multiculturalism | 10 | 33,655 | `7dd0eb6e0341` | [Socio-Political-Philosophy/06-Humanism-Secularism-Multiculturalism/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/06-Humanism-Secularism-Multiculturalism/Learning-Session-Live-Edition.md) |
+| Socio-Political Philosophy | Topic 07 - Crime and Punishment | 14 | 28,835 | `a2d4f01540ef` | [Socio-Political-Philosophy/07-Crime-and-Punishment/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/07-Crime-and-Punishment/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
