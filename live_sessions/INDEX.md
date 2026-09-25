@@ -74,6 +74,7 @@
 | Philosophy of Religion | Topic 07 - Religion without God | 10 | 17,017 | `74862f4cd2e7` | [Philosophy-of-Religion/07-Religion-without-God/Learning-Session-Live-Edition.md](Philosophy-of-Religion/07-Religion-without-God/Learning-Session-Live-Edition.md) |
 | Philosophy of Religion | Topic 08 - Religion and Morality | 16 | 21,847 | `36e8116f2229` | [Philosophy-of-Religion/08-Religion-and-Morality/Learning-Session-Live-Edition.md](Philosophy-of-Religion/08-Religion-and-Morality/Learning-Session-Live-Edition.md) |
 | Philosophy of Religion | Topic 09 - Religious Pluralism and Absolute Truth | 21 | 19,052 | `e507d037c8e2` | [Philosophy-of-Religion/09-Religious-Pluralism-Absolute-Truth/Learning-Session-Live-Edition.md](Philosophy-of-Religion/09-Religious-Pluralism-Absolute-Truth/Learning-Session-Live-Edition.md) |
+| Philosophy of Religion | Topic 10 - Nature of Religious Language | 16 | 25,540 | `554f5bf3a0bb` | [Philosophy-of-Religion/10-Nature-of-Religious-Language/Learning-Session-Live-Edition.md](Philosophy-of-Religion/10-Nature-of-Religious-Language/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
