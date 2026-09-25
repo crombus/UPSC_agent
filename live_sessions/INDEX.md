@@ -101,6 +101,7 @@
 | Ancient Indian History | Topic 24 - Developments in Philosophy | 16 | 20,376 | `df926c0abb3d` | [Ancient-Indian-History/24-Developments-in-Philosophy/Learning-Session-Live-Edition.md](Ancient-Indian-History/24-Developments-in-Philosophy/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 25 - Cultural Interaction with Asian Countries | 16 | 20,960 | `5356ad383b79` | [Ancient-Indian-History/25-Cultural-Interaction-with-Asian-Countries/Learning-Session-Live-Edition.md](Ancient-Indian-History/25-Cultural-Interaction-with-Asian-Countries/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 26 - From Ancient to Medieval: Social Change and Legacy | 18 | 27,016 | `355ef9985e09` | [Ancient-Indian-History/26-From-Ancient-to-Medieval-Social-Change-and-Legacy/Learning-Session-Live-Edition.md](Ancient-Indian-History/26-From-Ancient-to-Medieval-Social-Change-and-Legacy/Learning-Session-Live-Edition.md) |
+| Ancient Indian History | Topic 27 - Imperial Cholas: State, Society, Economy and Maritime Power | 16 | 17,113 | `3241cf149cd3` | [Ancient-Indian-History/27-Imperial-Cholas-State-Society-Economy-and-Maritime-Power/Learning-Session-Live-Edition.md](Ancient-Indian-History/27-Imperial-Cholas-State-Society-Economy-and-Maritime-Power/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
