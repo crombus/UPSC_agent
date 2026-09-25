@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "policy": "Validators may share neutral parsing and hashing helpers, but expected truth must come from independently parsed artifacts and immutable source evidence.",
+  "forbidden_modules": [
+    "question_bank",
+    "render_pdfs"
+  ],
+  "forbidden_builder_imports": [
+    "EXPECTED_SOURCE_IDENTITIES",
+    "PYQS",
+    "SUPPORTING_PYQS",
+    "SOURCES",
+    "SNAPSHOT_NAMES",
+    "derive_authority_obligations",
+    "derive_test_matrix",
+    "render_mcqs",
+    "load_primary_authority",
+    "source_artifact_paths"
+  ],
+  "forbidden_name_patterns": [
+    "^(PRIMARY|EXPECTED|AUTHORITY|QUESTION|QBANK|ANSWER_SEQUENCE)",
+    "(URL|ARK|IDENTIFIER|BYTES|SHA|COORDINATE|PAYLOAD|SCOPE|STATEMENT)$"
+  ],
+  "allowed_neutral_helper_examples": [
+    "norm",
+    "sha_bytes",
+    "sha_text",
+    "semantic_tokens",
+    "semantic_units",
+    "heading_blocks",
+    "structural_reason",
+    "incomplete_proposition_reason",
+    "words"
+  ]
+}

@@ -128,6 +128,25 @@ sessions.
       7. Finish with one full development validation, one staged release validation, `git diff
          --check`, then commit and push. These optimizations reduce repetition only; they never
          waive coverage, semantic integrity, independent review, or release gates.
+      8. Start every pass with `workflow\offline_workflow.py begin-pass`. The resulting
+         `PASS-MANIFEST.json` must record fresh hashes of both controlling instruction files,
+         the read timestamp, pass type, and explicit pre-pass attestations.
+      9. Use a hash-bound `EVIDENCE-CACHE.json` to avoid reparsing unchanged sources. Any path,
+         byte-count, or SHA-256 change invalidates the cache and requires a fresh parse.
+      10. Use `RISK-REVIEW-PACKET.json` to constrain focused reviews to changed files, rejected
+          findings, affected obligations, and frozen approved counts. Reopen frozen surfaces only
+          when direct contradictory evidence requires it.
+      11. Run shared semantic lint before full regeneration. It is an early gate for dangling
+          propositions, generic-only semantic anchors, unsupported representation links, and
+          option cues; it never replaces production validation.
+      12. Enforce the validator-independence contract. Neutral parsing/hash helpers may be shared,
+          but validators must independently derive expected truth and may not import builder
+          expectations, question banks, renderer output, or source-provenance constants.
+      13. Run focused negative-test cases for changed invariants during repair, then run the
+          complete copied-package suite once at the final development gate.
+      14. Record every approved formal, canonical, verified-PYQ, or user-approved primary source
+          in the immutable source registry with exact hash, provenance, rights, authority role,
+          and permitted scope. A registry entry never transfers or expands ownership.
     - **Mandatory pre-pass compliance gate (locked):**
       - Before every development, independent-review, focused-repair, optional PDF, or release pass,
         verify against the frozen ledger that the complete syllabus, canonical/formal

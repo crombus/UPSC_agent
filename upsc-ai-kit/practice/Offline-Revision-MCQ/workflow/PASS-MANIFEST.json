@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "pass_id": "workflow-optimizations-v1",
+  "pass_type": "development",
+  "topic": "workflow",
+  "actor": "copilot-cli",
+  "instructions_read_at_utc": "2026-09-25T01:45:51+00:00",
+  "instruction_files": [
+    {
+      "path": "C:\\up\\OFFLINE-PACKAGE-AGENT-INSTRUCTIONS.md",
+      "sha256": "bc07d0f1eeec7e0a00dbb9192fd9ad49a3cebe85f53af541f90aeb752e3f9b42",
+      "bytes": 7426
+    },
+    {
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\START-HERE.md",
+      "sha256": "cd20fb9dab426cb38005b04184a22a2d26a7c94ff9cee60bc476c357460cd1c4",
+      "bytes": 26207
+    }
+  ],
+  "pre_pass_attestation": {
+    "coverage_ledger_frozen": true,
+    "verified_pyqs_current": true,
+    "teaching_and_practice_surfaces_preserved": true,
+    "no_skip_or_compression": true,
+    "mcq_total_coverage_derived": true
+  },
+  "manifest_sha256": "a77a78ed0e71010087738bac0390ebc71c226c7746e8e3d15ede243140601565"
+}

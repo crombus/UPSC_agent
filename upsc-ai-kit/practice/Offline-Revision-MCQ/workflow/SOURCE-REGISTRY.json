@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "policy": "Every source is hash-bound and may be used only for its recorded authority role and permitted scope.",
+  "authority_roots": {
+    "formal_sessions_and_workbooks": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\learning_package_final",
+    "canonical_and_verified_pyqs": "C:\\up\\upsc-ai-kit\\knowledge"
+  },
+  "sources": [
+    {
+      "source_id": "src-011800c9f6e2d76520a39f41",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+      "authority_role": "verified-pyq",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\06-Yoga\\source-snapshots\\pyq-2018-2025.md",
+      "sha256": "c7b556c7b4b750943b7b5f0ac94273664a46c6c75f1c444ae2d953fd77d34eec",
+      "bytes": 25796,
+      "provenance": "Hash-bound package source artifact: source-snapshots/pyq-2018-2025.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T01:45:52+00:00"
+    },
+    {
+      "source_id": "src-293dd51256a070b2aaa96888",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+      "authority_role": "formal",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\06-Yoga\\source-snapshots\\formal-Solved-Practice-Workbook.md",
+      "sha256": "d4ab2ab7fa5d205c806ed56fb29adc4713cd1f8bdc9a366c020457ebcc10fcad",
+      "bytes": 86406,
+      "provenance": "Hash-bound package source artifact: source-snapshots/formal-Solved-Practice-Workbook.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T01:45:52+00:00"
+    },
+    {
+      "source_id": "src-2e41e68227bc7b8fc8a2e014",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+      "authority_role": "user-approved-primary",
+      "permitted_scope": "topic-local user-approved primary-text obligation only",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\06-Yoga\\source-snapshots\\primary-patanjali-yoga-sutra-ii-27-vivekananda-1896.md",
+      "sha256": "452982928cdf1f62530d27cf07d95b56031177ed7893ccd595e4260804d275fe",
+      "bytes": 2792,
+      "provenance": "Hash-bound package source artifact: source-snapshots/primary-patanjali-yoga-sutra-ii-27-vivekananda-1896.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T01:45:52+00:00"
+    },
+    {
+      "source_id": "src-31918e1c4dc764bb0a8c2db6",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+      "authority_role": "supplementary",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\06-Yoga\\source-snapshots\\supplementary-solved-workbook.md",
+      "sha256": "f1312007f012a5bb351a1d1a47db7baef7347d55ec45254cf17be622498f1896",
+      "bytes": 23301,
+      "provenance": "Hash-bound package source artifact: source-snapshots/supplementary-solved-workbook.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T01:45:52+00:00"
+    },
+    {
+      "source_id": "src-47093a61bd98d6f2dbc989aa",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+      "authority_role": "supplementary",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\06-Yoga\\source-snapshots\\supplementary-layered-session.md",
+      "sha256": "1166a148b916eada17fb81fdb3db9a60fd2af05925fb34922a76c03d3159b07c",
+      "bytes": 136537,
+      "provenance": "Hash-bound package source artifact: source-snapshots/supplementary-layered-session.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T01:45:52+00:00"
+    },
+    {
+      "source_id": "src-4bacc889c12d0a5ab98c3727",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+      "authority_role": "formal",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\06-Yoga\\source-snapshots\\formal-Learning-Session.md",
+      "sha256": "888ce731bfcccc8045ebe94614e682e237b954792d881797d04316ab239be36b",
+      "bytes": 381683,
+      "provenance": "Hash-bound package source artifact: source-snapshots/formal-Learning-Session.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T01:45:52+00:00"
+    },
+    {
+      "source_id": "src-950414ea6939e4626ebabe99",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+      "authority_role": "supplementary",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\06-Yoga\\source-snapshots\\supplementary-complete-session.md",
+      "sha256": "aa8ebbc7f295adf4a9074f4394874a980bb60f7cb0c5357569ddcd6b2f42ed3f",
+      "bytes": 114574,
+      "provenance": "Hash-bound package source artifact: source-snapshots/supplementary-complete-session.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T01:45:52+00:00"
+    },
+    {
+      "source_id": "src-9c8bca7a333bb782811f866a",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+      "authority_role": "verified-pyq",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\06-Yoga\\source-snapshots\\pyq-2026.md",
+      "sha256": "1e3b86dbf301bf929851ecc39f1b8585485707cd19fc7a2168861bbb142a8806",
+      "bytes": 8502,
+      "provenance": "Hash-bound package source artifact: source-snapshots/pyq-2026.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T01:45:52+00:00"
+    },
+    {
+      "source_id": "src-d8dc3db01b2d0db0a946eeb8",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+      "authority_role": "user-approved-primary",
+      "permitted_scope": "topic-local user-approved primary-text obligation only",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\06-Yoga\\source-snapshots\\raw\\PatanjaliYogaSutraSwamiVivekanandaSanEng_djvu.txt",
+      "sha256": "9ea63241b2b06ed698b754ff8dd71b1bf38a0459b5cf79e485e308d6a0199a29",
+      "bytes": 197940,
+      "provenance": "Hash-bound package source artifact: source-snapshots/raw/PatanjaliYogaSutraSwamiVivekanandaSanEng_djvu.txt",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T01:45:52+00:00"
+    },
+    {
+      "source_id": "src-df6c43cd38389fc0f2d99162",
+      "topic": "Philosophy-Optional/Philosophy-Paper-I-Indian-Philosophy/06-Yoga",
+      "authority_role": "canonical",
+      "permitted_scope": "topic-local source role only; no ownership transfer",
+      "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\Philosophy-Optional\\Philosophy-Paper-I-Indian-Philosophy\\06-Yoga\\source-snapshots\\canonical-Yoga.md",
+      "sha256": "f8152d1ea4b103c0571be7c4fc8664a31f14e21fa5c0049e8735bf886ceddd55",
+      "bytes": 97976,
+      "provenance": "Hash-bound package source artifact: source-snapshots/canonical-Yoga.md",
+      "rights": "Inherited from the recorded source artifact; verify before redistribution",
+      "registered_at_utc": "2026-09-25T01:45:52+00:00"
+    }
+  ],
+  "updated_at_utc": "2026-09-25T01:45:52+00:00"
+}

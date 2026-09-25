@@ -53,6 +53,24 @@ Before every development, independent-review, focused-repair, optional PDF, or r
    commit, and push.
 8. Optimization may remove duplicate work, repeated scans, unnecessary rebuilds, or idle
    serialization only. It may never remove a content, evidence, review, or integrity gate.
+9. Before every pass, use `Offline-Revision-MCQ\workflow\offline_workflow.py begin-pass` to read
+   and hash this file and `START-HERE.md`, record the timestamp and pass type, and attest the
+   pre-pass gates in `PASS-MANIFEST.json`.
+10. Freeze parsed source evidence in `EVIDENCE-CACHE.json`. Reuse it only when every source path,
+    byte count, and SHA-256 hash is unchanged; otherwise invalidate and reparse it.
+11. Create `RISK-REVIEW-PACKET.json` for focused reviews. Include changed files, rejected findings,
+    affected obligation IDs, approved frozen counts, and frozen surfaces. Direct contradictory
+    evidence may reopen a frozen surface; convenience may not.
+12. Run the shared semantic lint before an expensive rebuild. Dangling fragments, generic-only
+    anchors, unsupported representation links, and option cues must be repaired before the full
+    development gate.
+13. Enforce `VALIDATOR-INDEPENDENCE-CONTRACT.json`: validators may share neutral parsing/hash
+    helpers, but may not import builder expectations, question banks, renderer truth, or source
+    provenance constants.
+14. During focused repair, run the negative tests selected for the changed invariants. The full
+    copied-package negative suite remains mandatory at the final development gate.
+15. Register approved sources in the immutable hash-bound source registry with provenance,
+    rights, authority role, and permitted scope. Registration never broadens source authority.
 
 ## Parallelism and release
 
