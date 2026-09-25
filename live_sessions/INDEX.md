@@ -66,6 +66,7 @@
 | Socio-Political Philosophy | Topic 09 - Gender Discrimination | 14 | 20,434 | `f02e4244e330` | [Socio-Political-Philosophy/09-Gender-Discrimination/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/09-Gender-Discrimination/Learning-Session-Live-Edition.md) |
 | Socio-Political Philosophy | Topic 10 - Caste Discrimination: Gandhi and Ambedkar | 11 | 31,620 | `25ed40f88314` | [Socio-Political-Philosophy/10-Caste-Discrimination-Gandhi-Ambedkar/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/10-Caste-Discrimination-Gandhi-Ambedkar/Learning-Session-Live-Edition.md) |
 | Philosophy of Religion | Topic 01 - Notions of God | 12 | 20,183 | `4b900c3fcdb9` | [Philosophy-of-Religion/01-Notions-of-God/Learning-Session-Live-Edition.md](Philosophy-of-Religion/01-Notions-of-God/Learning-Session-Live-Edition.md) |
+| Philosophy of Religion | Topic 02 - Proofs for God | 14 | 25,114 | `b7d4c2009fb4` | [Philosophy-of-Religion/02-Proofs-for-God/Learning-Session-Live-Edition.md](Philosophy-of-Religion/02-Proofs-for-God/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
