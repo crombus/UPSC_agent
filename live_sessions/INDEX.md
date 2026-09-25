@@ -76,6 +76,7 @@
 | Philosophy of Religion | Topic 09 - Religious Pluralism and Absolute Truth | 21 | 19,052 | `e507d037c8e2` | [Philosophy-of-Religion/09-Religious-Pluralism-Absolute-Truth/Learning-Session-Live-Edition.md](Philosophy-of-Religion/09-Religious-Pluralism-Absolute-Truth/Learning-Session-Live-Edition.md) |
 | Philosophy of Religion | Topic 10 - Nature of Religious Language | 16 | 25,540 | `554f5bf3a0bb` | [Philosophy-of-Religion/10-Nature-of-Religious-Language/Learning-Session-Live-Edition.md](Philosophy-of-Religion/10-Nature-of-Religious-Language/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 01 - Importance and Historiography of Ancient India | 12 | 23,357 | `a677ffd72d15` | [Ancient-Indian-History/01-Importance-Historiography/Learning-Session-Live-Edition.md](Ancient-Indian-History/01-Importance-Historiography/Learning-Session-Live-Edition.md) |
+| Ancient Indian History | Topic 02 - Sources of Ancient Indian History | 12 | 22,225 | `0f28e1013771` | [Ancient-Indian-History/02-Sources-of-Ancient-Indian-History/Learning-Session-Live-Edition.md](Ancient-Indian-History/02-Sources-of-Ancient-Indian-History/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
