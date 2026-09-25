@@ -87,6 +87,7 @@
 | Ancient Indian History | Topic 10 - Jainism and Buddhism | 15 | 21,394 | `8df73fdbadff` | [Ancient-Indian-History/10-Jainism-Buddhism/Learning-Session-Live-Edition.md](Ancient-Indian-History/10-Jainism-Buddhism/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 11 - Mahajanapadas and Rise of Magadha | 15 | 25,063 | `a69dee8e3d76` | [Ancient-Indian-History/11-Mahajanapadas-Rise-of-Magadha/Learning-Session-Live-Edition.md](Ancient-Indian-History/11-Mahajanapadas-Rise-of-Magadha/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 12 - Iranian and Macedonian Invasions | 12 | 14,222 | `36f6d4b57185` | [Ancient-Indian-History/12-Iranian-Macedonian-Invasions/Learning-Session-Live-Edition.md](Ancient-Indian-History/12-Iranian-Macedonian-Invasions/Learning-Session-Live-Edition.md) |
+| Ancient Indian History | Topic 13 - State and Varna Society in the Age of the Buddha | 12 | 18,640 | `460611b97ea0` | [Ancient-Indian-History/13-State-and-Varna-Society-Age-of-Buddha/Learning-Session-Live-Edition.md](Ancient-Indian-History/13-State-and-Varna-Society-Age-of-Buddha/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
