@@ -59,6 +59,7 @@
 | Socio-Political Philosophy | Topic 02 - Sovereignty | 12 | 18,261 | `3fe87475a52e` | [Socio-Political-Philosophy/02-Sovereignty/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/02-Sovereignty/Learning-Session-Live-Edition.md) |
 | Socio-Political Philosophy | Topic 03 - Individual and State | 12 | 21,483 | `ca60b91693f4` | [Socio-Political-Philosophy/03-Individual-and-State/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/03-Individual-and-State/Learning-Session-Live-Edition.md) |
 | Socio-Political Philosophy | Topic 04 - Forms of Government | 12 | 34,368 | `8247974d71d6` | [Socio-Political-Philosophy/04-Forms-of-Government/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/04-Forms-of-Government/Learning-Session-Live-Edition.md) |
+| Socio-Political Philosophy | Topic 05 - Political Ideologies | 13 | 25,061 | `91366d969893` | [Socio-Political-Philosophy/05-Political-Ideologies/Learning-Session-Live-Edition.md](Socio-Political-Philosophy/05-Political-Ideologies/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
