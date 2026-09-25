@@ -61,30 +61,35 @@ Mandatory use:
     `tools\release_live_session.py` only after semantic review and index preparation.
     Mechanical automation never replaces semantic review.
 11. Before every generation or repair pass, read the learner-facing opening and at
-    least one complete lesson from
-    `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`.
-    Use its natural terminal-teaching flow as the primary style check: pre-teach
-    checklist, visible progress, visual-first intuition, numbered explanation,
-    comparison or distinction, qualification, exam linkage, mini recap and
-    misconception-driven MCQs. This check is mandatory for every subject and every
-    pass, including History. It does not permit copying Nyaya-Vaisesika doctrine,
-    wording or fixed lesson length into another topic.
+    least one complete lesson from both:
+    `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`
+    and
+    `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md`.
+    Use their integrated terminal-teaching flow as the primary style check:
+    roadmap-led sequencing, pre-teach checklist, visible progress, visual-first
+    intuition, numbered explanation, comparison or distinction, qualification, exam
+    linkage, mini recap, revision notes and adaptive misconception-driven mastery
+    practice. This check is mandatory for every subject and every pass, including
+    History. It does not permit copying Nyaya-Vaisesika or Mimamsa doctrine, wording
+    or fixed lesson length into another topic.
 
-## Nyaya-Vaisesika, Vedanta and Economy Reference-Session Fidelity Lock
+## Nyaya-Vaisesika, Mimamsa, Vedanta and Economy Reference-Session Fidelity Lock
 
 The required learner-facing standard is the teaching architecture demonstrated by:
 
 ```text
 live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md
+live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md
 live_sessions\Philosophy-Optional\08-Vedanta\Learning-Session-Live-Edition.md
 live_sessions\Economy\<completed topic>\Learning-Session-Live-Edition.md
 ```
 
 These files are structural and pedagogical benchmarks, not independent rulebooks.
-This file remains the single source of truth. Nyaya-Vaisesika is the mandatory primary
-style reference before every pass; Vedanta and the completed Economy sessions provide
-additional subject-specific calibration. When a future session does not feel like
-these learner-first sessions, repair the rules here before repairing the topic.
+This file remains the single source of truth. Nyaya-Vaisesika and Mimamsa are the
+mandatory primary style references before every pass; Vedanta and the completed
+Economy sessions provide additional subject-specific calibration. When a future
+session does not feel like these learner-first sessions, repair the rules here before
+repairing the topic.
 
 The defining benchmark is **content-led progression**. The learner's question and the
 topic's internal logic must control the lesson:

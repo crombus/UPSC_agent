@@ -45,13 +45,17 @@ replies, practice and remediation. A generic instruction to "follow the rules" i
 enough.
 
 Before every generation or repair pass, read the opening and at least one complete
-lesson from
-`live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`.
-Treat its natural learner-facing terminal flow as the mandatory primary style
-benchmark across subjects: visible pre-teach context and progress, visual-first
-intuition, numbered teaching, precise distinctions and qualifications, exam linkage,
-mini recap and misconception-driven practice. Reuse the teaching architecture, never
-the topic's doctrine, wording or a mechanically fixed lesson size.
+lesson from both:
+
+- `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`
+- `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md`
+
+Treat their natural learner-facing terminal flow as the mandatory primary style
+benchmark across subjects: roadmap-led sequencing, visible pre-teach context and
+progress, visual-first intuition, numbered teaching, precise distinctions and
+qualifications, exam linkage, mini recap, revision notes and adaptive
+misconception-driven mastery practice. Reuse the integrated teaching architecture,
+never either topic's doctrine, wording or a mechanically fixed lesson size.
 
 ## Non-compromise lock
 
