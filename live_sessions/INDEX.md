@@ -82,6 +82,7 @@
 | Ancient Indian History | Topic 05 - Neolithic and Chalcolithic Cultures | 14 | 18,255 | `fc39951a17d6` | [Ancient-Indian-History/05-Neolithic-Chalcolithic-Cultures/Learning-Session-Live-Edition.md](Ancient-Indian-History/05-Neolithic-Chalcolithic-Cultures/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 06 - The Harappan Civilization | 12 | 22,361 | `c69b9e0c86f4` | [Ancient-Indian-History/06-Harappan-Civilization/Learning-Session-Live-Edition.md](Ancient-Indian-History/06-Harappan-Civilization/Learning-Session-Live-Edition.md) |
 | Ancient Indian History | Topic 07 - The Aryan Problem and Identity of Aryan Culture | 14 | 22,484 | `b963fc5ee4ca` | [Ancient-Indian-History/07-Aryan-Problem-Identity/Learning-Session-Live-Edition.md](Ancient-Indian-History/07-Aryan-Problem-Identity/Learning-Session-Live-Edition.md) |
+| Ancient Indian History | Topic 08 - The Rig Vedic Age (Early Vedic) | 12 | 17,013 | `cab3605f5c8f` | [Ancient-Indian-History/08-Rig-Vedic-Age/Learning-Session-Live-Edition.md](Ancient-Indian-History/08-Rig-Vedic-Age/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
