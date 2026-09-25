@@ -147,6 +147,20 @@ sessions.
       14. Record every approved formal, canonical, verified-PYQ, or user-approved primary source
           in the immutable source registry with exact hash, provenance, rights, authority role,
           and permitted scope. A registry entry never transfers or expands ownership.
+      15. Treat optimization as a measurable elapsed-time requirement. Every pass manifest must
+          declare elapsed-minute and tool-call budgets. A focused repair or focused review should
+          normally use no more than 45 minutes and 30 tool calls; a complete development or
+          boundary pass should normally use no more than 90 minutes and 60 tool calls. Narrower
+          defects require smaller budgets.
+      16. Stop immediately when either budget is reached. Preserve the worktree and report the
+          verified state, blocker, completed commands, and remaining bounded action. Never extend
+          a pass silently; continuation requires a new explicit pass manifest.
+      17. Run at most one expensive complete build and one complete copied-package negative suite
+          in a pass. Use semantic lint, focused validation, and focused negative tests while
+          editing. Do not repeat a successful complete gate unless a later change can affect it.
+      18. After each pass, report elapsed time, tool-call use, complete-build/full-suite counts,
+          result, and blocker. Repeated rediscovery of frozen scope or repeated successful checks
+          is an optimization failure, not acceptable progress.
     - **Mandatory pre-pass compliance gate (locked):**
       - Before every development, independent-review, focused-repair, optional PDF, or release pass,
         verify against the frozen ledger that the complete syllabus, canonical/formal

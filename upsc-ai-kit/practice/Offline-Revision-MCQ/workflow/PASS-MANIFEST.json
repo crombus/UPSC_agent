@@ -1,22 +1,30 @@
 {
-  "schema_version": 1,
-  "pass_id": "workflow-optimizations-v1",
-  "pass_type": "development",
+  "schema_version": 2,
+  "pass_id": "workflow-speed-timebox-verified-20260925",
+  "pass_type": "focused-repair",
   "topic": "workflow",
   "actor": "copilot-cli",
-  "instructions_read_at_utc": "2026-09-25T01:45:51+00:00",
+  "instructions_read_at_utc": "2026-09-25T02:42:48+00:00",
   "instruction_files": [
     {
       "path": "C:\\up\\OFFLINE-PACKAGE-AGENT-INSTRUCTIONS.md",
-      "sha256": "bc07d0f1eeec7e0a00dbb9192fd9ad49a3cebe85f53af541f90aeb752e3f9b42",
-      "bytes": 7426
+      "sha256": "a5b33a8a6f0471e25f3adc6ae8beec145ca26eacc25b6947a99d90293ed13f94",
+      "bytes": 8821
     },
     {
       "path": "C:\\up\\upsc-ai-kit\\practice\\Offline-Revision-MCQ\\START-HERE.md",
-      "sha256": "cd20fb9dab426cb38005b04184a22a2d26a7c94ff9cee60bc476c357460cd1c4",
-      "bytes": 26207
+      "sha256": "adaa6f5be038e3b090fd4e676aecb62ff22a48b7ce1f721601ae98f74ef2303e",
+      "bytes": 27464
     }
   ],
+  "execution_budget": {
+    "elapsed_minutes": 30,
+    "tool_calls": 20,
+    "hard_stop_required": true,
+    "silent_extension_forbidden": true,
+    "maximum_complete_builds": 1,
+    "maximum_complete_negative_suites": 1
+  },
   "pre_pass_attestation": {
     "coverage_ledger_frozen": true,
     "verified_pyqs_current": true,
@@ -24,5 +32,5 @@
     "no_skip_or_compression": true,
     "mcq_total_coverage_derived": true
   },
-  "manifest_sha256": "a77a78ed0e71010087738bac0390ebc71c226c7746e8e3d15ede243140601565"
+  "manifest_sha256": "f75eee01f4393eb9b961586de135b140804988a4b45e769c92d89a573ecbc856"
 }

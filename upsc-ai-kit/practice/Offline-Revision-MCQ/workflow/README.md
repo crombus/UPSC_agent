@@ -12,6 +12,8 @@ python workflow\offline_workflow.py begin-pass `
   --topic <topic-directory> `
   --pass-id <stable-pass-id> `
   --pass-type focused-repair `
+  --time-budget-minutes 45 `
+  --tool-call-budget 30 `
   --coverage-frozen `
   --pyqs-current `
   --surfaces-preserved `
@@ -20,6 +22,8 @@ python workflow\offline_workflow.py begin-pass `
 ```
 
 This reads and hashes both controlling instruction files and writes `PASS-MANIFEST.json`.
+The declared budgets are hard stops. Reaching either limit requires an immediate state/blocker
+report; continuing requires a new pass manifest rather than a silent extension.
 
 ## Shared optimization controls
 

@@ -93,15 +93,25 @@ def instruction_evidence() -> list[dict[str, Any]]:
 
 def command_begin_pass(args: argparse.Namespace) -> int:
     topic = resolve_topic(args.topic)
+    if args.time_budget_minutes <= 0 or args.tool_call_budget <= 0:
+        raise SystemExit("Pass budgets must be positive integers")
     output = Path(args.output).resolve() if args.output else topic / "PASS-MANIFEST.json"
     manifest = {
-        "schema_version": 1,
+        "schema_version": 2,
         "pass_id": args.pass_id,
         "pass_type": args.pass_type,
         "topic": str(topic.relative_to(SYSTEM_ROOT)).replace("\\", "/"),
         "actor": args.actor,
         "instructions_read_at_utc": now_utc(),
         "instruction_files": instruction_evidence(),
+        "execution_budget": {
+            "elapsed_minutes": args.time_budget_minutes,
+            "tool_calls": args.tool_call_budget,
+            "hard_stop_required": True,
+            "silent_extension_forbidden": True,
+            "maximum_complete_builds": 1,
+            "maximum_complete_negative_suites": 1,
+        },
         "pre_pass_attestation": {
             "coverage_ledger_frozen": args.coverage_frozen,
             "verified_pyqs_current": args.pyqs_current,
@@ -477,6 +487,8 @@ def build_parser() -> argparse.ArgumentParser:
     ])
     begin.add_argument("--actor", default="copilot-cli")
     begin.add_argument("--output")
+    begin.add_argument("--time-budget-minutes", required=True, type=int)
+    begin.add_argument("--tool-call-budget", required=True, type=int)
     for flag in ("coverage-frozen", "pyqs-current", "surfaces-preserved",
                  "no-skip-compression", "coverage-derived-mcqs"):
         begin.add_argument(f"--{flag}", action="store_true", required=True)

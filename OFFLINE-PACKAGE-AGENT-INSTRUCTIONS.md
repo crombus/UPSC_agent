@@ -71,6 +71,21 @@ Before every development, independent-review, focused-repair, optional PDF, or r
     copied-package negative suite remains mandatory at the final development gate.
 15. Register approved sources in the immutable hash-bound source registry with provenance,
     rights, authority role, and permitted scope. Registration never broadens source authority.
+16. Optimization means materially reducing elapsed time, not merely adding integrity records.
+    Every pass must declare an elapsed-minute budget and a tool-call budget in its pass manifest.
+    A focused repair or focused review should normally fit within 45 minutes and 30 tool calls;
+    a complete development or boundary pass should normally fit within 90 minutes and 60 tool
+    calls. Use a smaller budget when the remaining defect is narrower.
+17. A budget is a hard stop, not a target. When either limit is reached, stop without starting
+    another search, edit, rebuild, or validation cycle; preserve the worktree and report the
+    verified state, exact blocker, commands already run, and remaining bounded action. Continuing
+    requires a new explicit pass manifest rather than a silent extension.
+18. Within one pass, run at most one expensive complete build and one complete copied-package
+    negative suite. During editing use semantic lint, focused validators, and focused negative
+    tests. Do not rerun a complete gate after it passes unless a later change can affect it.
+19. After every pass, report elapsed time, tool-call use, number of complete builds/full negative
+    suites, result, and any blocker. A pass that spends most of its budget rediscovering frozen
+    scope or repeating successful checks is an optimization failure and must not continue.
 
 ## Parallelism and release
 
